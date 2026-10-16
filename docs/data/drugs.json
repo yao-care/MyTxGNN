@@ -1,58 +1,8 @@
 {
   "generated": "2026-10-16",
-  "total_count": 799,
+  "total_count": 606,
   "source": "MyTxGNN",
   "drugs": [
-    {
-      "slug": "abacavir-sulfate",
-      "name": "Abacavir Sulfate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/abacavir-sulfate/"
-    },
-    {
-      "slug": "abemaciclib",
-      "name": "Abemaciclib",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/abemaciclib/"
-    },
-    {
-      "slug": "abiraterone-acetate",
-      "name": "Abiraterone Acetate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/abiraterone-acetate/"
-    },
-    {
-      "slug": "acalabrutinib",
-      "name": "Acalabrutinib",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/acalabrutinib/"
-    },
-    {
-      "slug": "acalabrutinib-maleate",
-      "name": "Acalabrutinib Maleate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/acalabrutinib-maleate/"
-    },
     {
       "slug": "acarbose",
       "name": "Acarbose",
@@ -134,16 +84,6 @@
       "url": "/drugs/acitretin/"
     },
     {
-      "slug": "activated-charcoal",
-      "name": "Activated Charcoal",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/activated-charcoal/"
-    },
-    {
       "slug": "acyclovir",
       "name": "Acyclovir",
       "evidence_level": "L1",
@@ -152,16 +92,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/acyclovir/"
-    },
-    {
-      "slug": "acyclovir-sodium",
-      "name": "Acyclovir Sodium",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/acyclovir-sodium/"
     },
     {
       "slug": "adalimumab",
@@ -202,26 +132,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/adenosine/"
-    },
-    {
-      "slug": "adrenaline",
-      "name": "Adrenaline",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/adrenaline/"
-    },
-    {
-      "slug": "adrenaline-tartrate",
-      "name": "Adrenaline Tartrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/adrenaline-tartrate/"
     },
     {
       "slug": "aflibercept",
@@ -274,26 +184,6 @@
       "url": "/drugs/albutrepenonacog-alfa/"
     },
     {
-      "slug": "alectinib-hydrochloride",
-      "name": "Alectinib Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alectinib-hydrochloride/"
-    },
-    {
-      "slug": "alemtuzumab",
-      "name": "Alemtuzumab",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alemtuzumab/"
-    },
-    {
       "slug": "alfacalcidol",
       "name": "Alfacalcidol",
       "evidence_level": "L4",
@@ -304,16 +194,6 @@
       "url": "/drugs/alfacalcidol/"
     },
     {
-      "slug": "alfentanil-hydrochloride",
-      "name": "Alfentanil Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alfentanil-hydrochloride/"
-    },
-    {
       "slug": "alfuzosin",
       "name": "Alfuzosin",
       "evidence_level": "L5",
@@ -322,16 +202,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/alfuzosin/"
-    },
-    {
-      "slug": "alfuzosin-hydrochloride",
-      "name": "Alfuzosin Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alfuzosin-hydrochloride/"
     },
     {
       "slug": "allopurinol",
@@ -384,26 +254,6 @@
       "url": "/drugs/alprostadil/"
     },
     {
-      "slug": "aluminium-hydroxide",
-      "name": "Aluminium Hydroxide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/aluminium-hydroxide/"
-    },
-    {
-      "slug": "alverine-citrate",
-      "name": "Alverine Citrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alverine-citrate/"
-    },
-    {
       "slug": "amantadine",
       "name": "Amantadine",
       "evidence_level": "L5",
@@ -424,26 +274,6 @@
       "url": "/drugs/ambrisentan/"
     },
     {
-      "slug": "ambroxol-hcl",
-      "name": "Ambroxol Hcl",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/ambroxol-hcl/"
-    },
-    {
-      "slug": "ambroxol-hydrochloride",
-      "name": "Ambroxol Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/ambroxol-hydrochloride/"
-    },
-    {
       "slug": "amikacin",
       "name": "Amikacin",
       "evidence_level": "L4",
@@ -452,76 +282,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/amikacin/"
-    },
-    {
-      "slug": "amiloride-hydrochloride",
-      "name": "Amiloride Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amiloride-hydrochloride/"
-    },
-    {
-      "slug": "aminophylline-anhydrous",
-      "name": "Aminophylline Anhydrous",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/aminophylline-anhydrous/"
-    },
-    {
-      "slug": "aminophylline-dihydrate",
-      "name": "Aminophylline Dihydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/aminophylline-dihydrate/"
-    },
-    {
-      "slug": "amiodarone-hydrochloride",
-      "name": "Amiodarone Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amiodarone-hydrochloride/"
-    },
-    {
-      "slug": "amisulpride",
-      "name": "Amisulpride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amisulpride/"
-    },
-    {
-      "slug": "amlodipine-besilate",
-      "name": "Amlodipine Besilate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amlodipine-besilate/"
-    },
-    {
-      "slug": "amlodipine-besylate",
-      "name": "Amlodipine Besylate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amlodipine-besylate/"
     },
     {
       "slug": "ammonium-chloride",
@@ -554,16 +314,6 @@
       "url": "/drugs/amorolfine/"
     },
     {
-      "slug": "amorolfine-hydrochloride",
-      "name": "Amorolfine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amorolfine-hydrochloride/"
-    },
-    {
       "slug": "amoxicillin",
       "name": "Amoxicillin",
       "evidence_level": "L5",
@@ -572,56 +322,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/amoxicillin/"
-    },
-    {
-      "slug": "amoxicillin-sodium",
-      "name": "Amoxicillin Sodium",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amoxicillin-sodium/"
-    },
-    {
-      "slug": "amoxicillin-trihydrate",
-      "name": "Amoxicillin Trihydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amoxicillin-trihydrate/"
-    },
-    {
-      "slug": "amoxycillin",
-      "name": "Amoxycillin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amoxycillin/"
-    },
-    {
-      "slug": "amoxycillin-sodium",
-      "name": "Amoxycillin Sodium",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amoxycillin-sodium/"
-    },
-    {
-      "slug": "amoxycillin-trihydrate",
-      "name": "Amoxycillin Trihydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amoxycillin-trihydrate/"
     },
     {
       "slug": "amphotericin-b",
@@ -642,26 +342,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/ampicillin/"
-    },
-    {
-      "slug": "ampicillin-sodium",
-      "name": "Ampicillin Sodium",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/ampicillin-sodium/"
-    },
-    {
-      "slug": "ampicillin-trihydrate",
-      "name": "Ampicillin Trihydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/ampicillin-trihydrate/"
     },
     {
       "slug": "amylmetacresol",
@@ -694,46 +374,6 @@
       "url": "/drugs/andexanet-alfa/"
     },
     {
-      "slug": "anidulafungin",
-      "name": "Anidulafungin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/anidulafungin/"
-    },
-    {
-      "slug": "anifrolumab",
-      "name": "Anifrolumab",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/anifrolumab/"
-    },
-    {
-      "slug": "antazoline-hydrochloride",
-      "name": "Antazoline Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/antazoline-hydrochloride/"
-    },
-    {
-      "slug": "apalutamide",
-      "name": "Apalutamide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/apalutamide/"
-    },
-    {
       "slug": "apixaban",
       "name": "Apixaban",
       "evidence_level": "L4",
@@ -744,16 +384,6 @@
       "url": "/drugs/apixaban/"
     },
     {
-      "slug": "apremilast",
-      "name": "Apremilast",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/apremilast/"
-    },
-    {
       "slug": "aprepitant",
       "name": "Aprepitant",
       "evidence_level": "L5",
@@ -762,16 +392,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/aprepitant/"
-    },
-    {
-      "slug": "aprotinin",
-      "name": "Aprotinin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/aprotinin/"
     },
     {
       "slug": "arginine",
@@ -794,16 +414,6 @@
       "url": "/drugs/aripiprazole/"
     },
     {
-      "slug": "aripiprazole-monohydrate",
-      "name": "Aripiprazole Monohydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/aripiprazole-monohydrate/"
-    },
-    {
       "slug": "arsenic-trioxide",
       "name": "Arsenic Trioxide",
       "evidence_level": "L2",
@@ -824,26 +434,6 @@
       "url": "/drugs/artemether/"
     },
     {
-      "slug": "artesunate",
-      "name": "Artesunate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/artesunate/"
-    },
-    {
-      "slug": "articaine-hydrochloride",
-      "name": "Articaine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/articaine-hydrochloride/"
-    },
-    {
       "slug": "ascorbic-acid",
       "name": "Ascorbic Acid",
       "evidence_level": "L4",
@@ -852,16 +442,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/ascorbic-acid/"
-    },
-    {
-      "slug": "asenapine-maleate",
-      "name": "Asenapine Maleate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/asenapine-maleate/"
     },
     {
       "slug": "asfotase-alfa",
@@ -884,26 +464,6 @@
       "url": "/drugs/aspartic-acid/"
     },
     {
-      "slug": "aspirin",
-      "name": "Aspirin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/aspirin/"
-    },
-    {
-      "slug": "atazanavir-sulfate",
-      "name": "Atazanavir Sulfate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/atazanavir-sulfate/"
-    },
-    {
       "slug": "atenolol",
       "name": "Atenolol",
       "evidence_level": "L1",
@@ -924,26 +484,6 @@
       "url": "/drugs/atezolizumab/"
     },
     {
-      "slug": "atorvastatin-calcium",
-      "name": "Atorvastatin Calcium",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/atorvastatin-calcium/"
-    },
-    {
-      "slug": "atorvastatin-calcium-trihydrate",
-      "name": "Atorvastatin Calcium Trihydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/atorvastatin-calcium-trihydrate/"
-    },
-    {
       "slug": "atosiban",
       "name": "Atosiban",
       "evidence_level": "L5",
@@ -952,16 +492,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/atosiban/"
-    },
-    {
-      "slug": "atovaquone",
-      "name": "Atovaquone",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/atovaquone/"
     },
     {
       "slug": "atracurium-besylate",
@@ -984,16 +514,6 @@
       "url": "/drugs/atropine/"
     },
     {
-      "slug": "avanafil",
-      "name": "Avanafil",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/avanafil/"
-    },
-    {
       "slug": "avelumab",
       "name": "Avelumab",
       "evidence_level": "L5",
@@ -1002,16 +522,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/avelumab/"
-    },
-    {
-      "slug": "avibactam-sodium",
-      "name": "Avibactam Sodium",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/avibactam-sodium/"
     },
     {
       "slug": "axitinib",
@@ -1044,26 +554,6 @@
       "url": "/drugs/azathioprine/"
     },
     {
-      "slug": "azelaic-acid",
-      "name": "Azelaic Acid",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/azelaic-acid/"
-    },
-    {
-      "slug": "azelastine-hydrochloride",
-      "name": "Azelastine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/azelastine-hydrochloride/"
-    },
-    {
       "slug": "azithromycin",
       "name": "Azithromycin",
       "evidence_level": "L5",
@@ -1072,26 +562,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/azithromycin/"
-    },
-    {
-      "slug": "azithromycin-dihydrate",
-      "name": "Azithromycin Dihydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/azithromycin-dihydrate/"
-    },
-    {
-      "slug": "azithromycin-monohydrate",
-      "name": "Azithromycin Monohydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/azithromycin-monohydrate/"
     },
     {
       "slug": "bacitracin",
@@ -1114,16 +584,6 @@
       "url": "/drugs/baclofen/"
     },
     {
-      "slug": "baloxavir-marboxil",
-      "name": "Baloxavir Marboxil",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/baloxavir-marboxil/"
-    },
-    {
       "slug": "baricitinib",
       "name": "Baricitinib",
       "evidence_level": "L5",
@@ -1132,16 +592,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/baricitinib/"
-    },
-    {
-      "slug": "basiliximab",
-      "name": "Basiliximab",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/basiliximab/"
     },
     {
       "slug": "beclomethasone-dipropionate",
@@ -1164,16 +614,6 @@
       "url": "/drugs/bedaquiline/"
     },
     {
-      "slug": "bedaquiline-fumarate",
-      "name": "Bedaquiline Fumarate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bedaquiline-fumarate/"
-    },
-    {
       "slug": "belimumab",
       "name": "Belimumab",
       "evidence_level": "L5",
@@ -1184,26 +624,6 @@
       "url": "/drugs/belimumab/"
     },
     {
-      "slug": "benazepril-hydrochloride",
-      "name": "Benazepril Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/benazepril-hydrochloride/"
-    },
-    {
-      "slug": "bendamustine-hydrochloride",
-      "name": "Bendamustine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bendamustine-hydrochloride/"
-    },
-    {
       "slug": "benralizumab",
       "name": "Benralizumab",
       "evidence_level": "L2",
@@ -1212,16 +632,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/benralizumab/"
-    },
-    {
-      "slug": "benserazide-hydrochloride",
-      "name": "Benserazide Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/benserazide-hydrochloride/"
     },
     {
       "slug": "benzbromarone",
@@ -1264,46 +674,6 @@
       "url": "/drugs/benzoyl-peroxide/"
     },
     {
-      "slug": "benzydamine-hydrochloride",
-      "name": "Benzydamine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/benzydamine-hydrochloride/"
-    },
-    {
-      "slug": "benzyl-benzoate",
-      "name": "Benzyl Benzoate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/benzyl-benzoate/"
-    },
-    {
-      "slug": "beractant",
-      "name": "Beractant",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/beractant/"
-    },
-    {
-      "slug": "betahistine-mesylate",
-      "name": "Betahistine Mesylate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/betahistine-mesylate/"
-    },
-    {
       "slug": "betamethasone",
       "name": "Betamethasone",
       "evidence_level": "L4",
@@ -1312,46 +682,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/betamethasone/"
-    },
-    {
-      "slug": "betamethasone-dipropionate",
-      "name": "Betamethasone Dipropionate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/betamethasone-dipropionate/"
-    },
-    {
-      "slug": "betamethasone-valerate",
-      "name": "Betamethasone Valerate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/betamethasone-valerate/"
-    },
-    {
-      "slug": "betaxolol-hcl",
-      "name": "Betaxolol Hcl",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/betaxolol-hcl/"
-    },
-    {
-      "slug": "betaxolol-hydrochloride",
-      "name": "Betaxolol Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/betaxolol-hydrochloride/"
     },
     {
       "slug": "bevacizumab",
@@ -1364,16 +694,6 @@
       "url": "/drugs/bevacizumab/"
     },
     {
-      "slug": "bezafibrate",
-      "name": "Bezafibrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bezafibrate/"
-    },
-    {
       "slug": "bicalutamide",
       "name": "Bicalutamide",
       "evidence_level": "L4",
@@ -1382,26 +702,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/bicalutamide/"
-    },
-    {
-      "slug": "bifonazole",
-      "name": "Bifonazole",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bifonazole/"
-    },
-    {
-      "slug": "bilastine",
-      "name": "Bilastine",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bilastine/"
     },
     {
       "slug": "bimatoprost",
@@ -1424,56 +724,6 @@
       "url": "/drugs/biotin/"
     },
     {
-      "slug": "bisacodyl",
-      "name": "Bisacodyl",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bisacodyl/"
-    },
-    {
-      "slug": "bismuth-subgallate",
-      "name": "Bismuth Subgallate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bismuth-subgallate/"
-    },
-    {
-      "slug": "bisoprolol-fumarate",
-      "name": "Bisoprolol Fumarate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bisoprolol-fumarate/"
-    },
-    {
-      "slug": "bleomycin-sulfate",
-      "name": "Bleomycin Sulfate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bleomycin-sulfate/"
-    },
-    {
-      "slug": "blinatumomab",
-      "name": "Blinatumomab",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/blinatumomab/"
-    },
-    {
       "slug": "bortezomib",
       "name": "Bortezomib",
       "evidence_level": "L2",
@@ -1482,36 +732,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/bortezomib/"
-    },
-    {
-      "slug": "bortezomib-monohydrate",
-      "name": "Bortezomib Monohydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bortezomib-monohydrate/"
-    },
-    {
-      "slug": "bosentan-monohydrate",
-      "name": "Bosentan Monohydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bosentan-monohydrate/"
-    },
-    {
-      "slug": "bosutinib-dihydrate",
-      "name": "Bosutinib Dihydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bosutinib-dihydrate/"
     },
     {
       "slug": "brentuximab-vedotin",
@@ -1524,16 +744,6 @@
       "url": "/drugs/brentuximab-vedotin/"
     },
     {
-      "slug": "brexpiprazole",
-      "name": "Brexpiprazole",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/brexpiprazole/"
-    },
-    {
       "slug": "brigatinib",
       "name": "Brigatinib",
       "evidence_level": "L5",
@@ -1542,16 +752,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/brigatinib/"
-    },
-    {
-      "slug": "brimonidine-tartrate",
-      "name": "Brimonidine Tartrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/brimonidine-tartrate/"
     },
     {
       "slug": "brinzolamide",
@@ -1582,16 +782,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/bromazepam/"
-    },
-    {
-      "slug": "bromhexine-hcl",
-      "name": "Bromhexine Hcl",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/bromhexine-hcl/"
     },
     {
       "slug": "bromocriptine",
@@ -1632,16 +822,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/bupropion/"
-    },
-    {
-      "slug": "burosumab",
-      "name": "Burosumab",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/burosumab/"
     },
     {
       "slug": "busulfan",
@@ -1824,16 +1004,6 @@
       "url": "/drugs/capmatinib/"
     },
     {
-      "slug": "capsaicin",
-      "name": "Capsaicin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/capsaicin/"
-    },
-    {
       "slug": "captopril",
       "name": "Captopril",
       "evidence_level": "L4",
@@ -1934,26 +1104,6 @@
       "url": "/drugs/carvedilol/"
     },
     {
-      "slug": "cefaclor",
-      "name": "Cefaclor",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/cefaclor/"
-    },
-    {
-      "slug": "cefixime",
-      "name": "Cefixime",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/cefixime/"
-    },
-    {
       "slug": "cefoperazone",
       "name": "Cefoperazone",
       "evidence_level": "L5",
@@ -1962,16 +1112,6 @@
       "predicted_indication": "Sclerosing cholangitis",
       "txgnn_score": "99.98%",
       "url": "/drugs/cefoperazone/"
-    },
-    {
-      "slug": "cefotaxime",
-      "name": "Cefotaxime",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/cefotaxime/"
     },
     {
       "slug": "ceftazidime",
@@ -2144,16 +1284,6 @@
       "url": "/drugs/cilastatin/"
     },
     {
-      "slug": "cilostazol",
-      "name": "Cilostazol",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/cilostazol/"
-    },
-    {
       "slug": "cimetidine",
       "name": "Cimetidine",
       "evidence_level": "L5",
@@ -2174,16 +1304,6 @@
       "url": "/drugs/cinchocaine/"
     },
     {
-      "slug": "cinnarizine",
-      "name": "Cinnarizine",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/cinnarizine/"
-    },
-    {
       "slug": "ciprofloxacin",
       "name": "Ciprofloxacin",
       "evidence_level": "L3",
@@ -2202,16 +1322,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/cisatracurium/"
-    },
-    {
-      "slug": "cisplatin",
-      "name": "Cisplatin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/cisplatin/"
     },
     {
       "slug": "citalopram",
@@ -2394,16 +1504,6 @@
       "url": "/drugs/corifollitropin-alfa/"
     },
     {
-      "slug": "crisaborole",
-      "name": "Crisaborole",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/crisaborole/"
-    },
-    {
       "slug": "crizotinib",
       "name": "Crizotinib",
       "evidence_level": "L5",
@@ -2412,16 +1512,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/crizotinib/"
-    },
-    {
-      "slug": "crotamiton",
-      "name": "Crotamiton",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/crotamiton/"
     },
     {
       "slug": "cyanocobalamin",
@@ -2514,16 +1604,6 @@
       "url": "/drugs/danazol/"
     },
     {
-      "slug": "dapagliflozin",
-      "name": "Dapagliflozin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dapagliflozin/"
-    },
-    {
       "slug": "dapsone",
       "name": "Dapsone",
       "evidence_level": "L1",
@@ -2542,16 +1622,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/daptomycin/"
-    },
-    {
-      "slug": "daratumumab",
-      "name": "Daratumumab",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/daratumumab/"
     },
     {
       "slug": "darunavir",
@@ -2734,16 +1804,6 @@
       "url": "/drugs/dexlansoprazole/"
     },
     {
-      "slug": "dexmedetomidine-hydrochloride",
-      "name": "Dexmedetomidine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dexmedetomidine-hydrochloride/"
-    },
-    {
       "slug": "dexpanthenol",
       "name": "Dexpanthenol",
       "evidence_level": "L4",
@@ -2762,66 +1822,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/dextromethorphan/"
-    },
-    {
-      "slug": "dextromethorphan-hbr",
-      "name": "Dextromethorphan Hbr",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dextromethorphan-hbr/"
-    },
-    {
-      "slug": "dextromethorphan-hydrobromide",
-      "name": "Dextromethorphan Hydrobromide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dextromethorphan-hydrobromide/"
-    },
-    {
-      "slug": "dextrose",
-      "name": "Dextrose",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dextrose/"
-    },
-    {
-      "slug": "dextrose-anhydrous",
-      "name": "Dextrose Anhydrous",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dextrose-anhydrous/"
-    },
-    {
-      "slug": "dextrose-monohydrate",
-      "name": "Dextrose Monohydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dextrose-monohydrate/"
-    },
-    {
-      "slug": "diacerein",
-      "name": "Diacerein",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/diacerein/"
     },
     {
       "slug": "diazepam",
@@ -2854,36 +1854,6 @@
       "url": "/drugs/diclofenac/"
     },
     {
-      "slug": "diclofenac-potassium",
-      "name": "Diclofenac Potassium",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/diclofenac-potassium/"
-    },
-    {
-      "slug": "diclofenac-sodium",
-      "name": "Diclofenac Sodium",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/diclofenac-sodium/"
-    },
-    {
-      "slug": "dicyclomine-hydrochloride",
-      "name": "Dicyclomine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dicyclomine-hydrochloride/"
-    },
-    {
       "slug": "dienogest",
       "name": "Dienogest",
       "evidence_level": "L4",
@@ -2904,26 +1874,6 @@
       "url": "/drugs/digoxin/"
     },
     {
-      "slug": "dihydrocodeine-tartrate",
-      "name": "Dihydrocodeine Tartrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dihydrocodeine-tartrate/"
-    },
-    {
-      "slug": "diltiazem-hydrochloride",
-      "name": "Diltiazem Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/diltiazem-hydrochloride/"
-    },
-    {
       "slug": "dimenhydrinate",
       "name": "Dimenhydrinate",
       "evidence_level": "L4",
@@ -2932,26 +1882,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/dimenhydrinate/"
-    },
-    {
-      "slug": "dimethicone",
-      "name": "Dimethicone",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dimethicone/"
-    },
-    {
-      "slug": "dinoprostone",
-      "name": "Dinoprostone",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dinoprostone/"
     },
     {
       "slug": "diosmin",
@@ -2964,56 +1894,6 @@
       "url": "/drugs/diosmin/"
     },
     {
-      "slug": "diphenhydramine-hcl",
-      "name": "Diphenhydramine Hcl",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/diphenhydramine-hcl/"
-    },
-    {
-      "slug": "diphenhydramine-hydrochloride",
-      "name": "Diphenhydramine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/diphenhydramine-hydrochloride/"
-    },
-    {
-      "slug": "diphenoxylate-hydrochloride",
-      "name": "Diphenoxylate Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/diphenoxylate-hydrochloride/"
-    },
-    {
-      "slug": "dl-camphor",
-      "name": "Dl-Camphor",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dl-camphor/"
-    },
-    {
-      "slug": "dobutamine-hydrochloride",
-      "name": "Dobutamine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dobutamine-hydrochloride/"
-    },
-    {
       "slug": "docetaxel",
       "name": "Docetaxel",
       "evidence_level": "L5",
@@ -3022,26 +1902,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/docetaxel/"
-    },
-    {
-      "slug": "docetaxel-trihydrate",
-      "name": "Docetaxel Trihydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/docetaxel-trihydrate/"
-    },
-    {
-      "slug": "docusate-sodium",
-      "name": "Docusate Sodium",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/docusate-sodium/"
     },
     {
       "slug": "dolutegravir",
@@ -3092,26 +1952,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/doxycycline/"
-    },
-    {
-      "slug": "drospirenone",
-      "name": "Drospirenone",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/drospirenone/"
-    },
-    {
-      "slug": "dulaglutide",
-      "name": "Dulaglutide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dulaglutide/"
     },
     {
       "slug": "duloxetine",
@@ -3374,16 +2214,6 @@
       "url": "/drugs/erythromycin/"
     },
     {
-      "slug": "estradiol",
-      "name": "Estradiol",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/estradiol/"
-    },
-    {
       "slug": "estradiol-benzoate",
       "name": "Estradiol Benzoate",
       "evidence_level": "L4",
@@ -3442,16 +2272,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/ethinylestradiol/"
-    },
-    {
-      "slug": "ethionamide",
-      "name": "Ethionamide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/ethionamide/"
     },
     {
       "slug": "ethyl-chloride",
@@ -3824,16 +2644,6 @@
       "url": "/drugs/fulvestrant/"
     },
     {
-      "slug": "furosemide",
-      "name": "Furosemide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/furosemide/"
-    },
-    {
       "slug": "fusidic-acid",
       "name": "Fusidic Acid",
       "evidence_level": "L4",
@@ -3842,16 +2652,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/fusidic-acid/"
-    },
-    {
-      "slug": "gabapentin",
-      "name": "Gabapentin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/gabapentin/"
     },
     {
       "slug": "galcanezumab",
@@ -3864,26 +2664,6 @@
       "url": "/drugs/galcanezumab/"
     },
     {
-      "slug": "galsulfase",
-      "name": "Galsulfase",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/galsulfase/"
-    },
-    {
-      "slug": "ganciclovir",
-      "name": "Ganciclovir",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/ganciclovir/"
-    },
-    {
       "slug": "ganirelix",
       "name": "Ganirelix",
       "evidence_level": "L5",
@@ -3892,16 +2672,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/ganirelix/"
-    },
-    {
-      "slug": "gatifloxacin",
-      "name": "Gatifloxacin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/gatifloxacin/"
     },
     {
       "slug": "gefitinib",
@@ -3972,16 +2742,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/glimepiride/"
-    },
-    {
-      "slug": "glipizide",
-      "name": "Glipizide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/glipizide/"
     },
     {
       "slug": "glucagon",
@@ -4174,16 +2934,6 @@
       "url": "/drugs/hydroxyurea/"
     },
     {
-      "slug": "ibrutinib",
-      "name": "Ibrutinib",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/ibrutinib/"
-    },
-    {
       "slug": "ibuprofen",
       "name": "Ibuprofen",
       "evidence_level": "L1",
@@ -4192,16 +2942,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/ibuprofen/"
-    },
-    {
-      "slug": "idursulfase",
-      "name": "Idursulfase",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/idursulfase/"
     },
     {
       "slug": "ifosfamide",
@@ -4232,16 +2972,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/imatinib/"
-    },
-    {
-      "slug": "imidafenacin",
-      "name": "Imidafenacin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/imidafenacin/"
     },
     {
       "slug": "imiglucerase",
@@ -4294,16 +3024,6 @@
       "url": "/drugs/indacaterol/"
     },
     {
-      "slug": "indapamide",
-      "name": "Indapamide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/indapamide/"
-    },
-    {
       "slug": "indomethacin",
       "name": "Indomethacin",
       "evidence_level": "L3",
@@ -4312,16 +3032,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/indomethacin/"
-    },
-    {
-      "slug": "infliximab",
-      "name": "Infliximab",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/infliximab/"
     },
     {
       "slug": "insulin-aspart",
@@ -4524,16 +3234,6 @@
       "url": "/drugs/itraconazole/"
     },
     {
-      "slug": "ixekizumab",
-      "name": "Ixekizumab",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/ixekizumab/"
-    },
-    {
       "slug": "ketoconazole",
       "name": "Ketoconazole",
       "evidence_level": "L3",
@@ -4684,16 +3384,6 @@
       "url": "/drugs/lenalidomide/"
     },
     {
-      "slug": "lercanidipine",
-      "name": "Lercanidipine",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/lercanidipine/"
-    },
-    {
       "slug": "letermovir",
       "name": "Letermovir",
       "evidence_level": "L5",
@@ -4754,26 +3444,6 @@
       "url": "/drugs/levonorgestrel/"
     },
     {
-      "slug": "levosimendan",
-      "name": "Levosimendan",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/levosimendan/"
-    },
-    {
-      "slug": "levothyroxine-sodium",
-      "name": "Levothyroxine Sodium",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/levothyroxine-sodium/"
-    },
-    {
       "slug": "lidocaine",
       "name": "Lidocaine",
       "evidence_level": "L3",
@@ -4782,76 +3452,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/lidocaine/"
-    },
-    {
-      "slug": "lidocaine-hcl",
-      "name": "Lidocaine Hcl",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/lidocaine-hcl/"
-    },
-    {
-      "slug": "lidocaine-hydrochloride",
-      "name": "Lidocaine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/lidocaine-hydrochloride/"
-    },
-    {
-      "slug": "lignocaine-hydrochloride",
-      "name": "Lignocaine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/lignocaine-hydrochloride/"
-    },
-    {
-      "slug": "linagliptin",
-      "name": "Linagliptin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/linagliptin/"
-    },
-    {
-      "slug": "lincomycin-hydrochloride",
-      "name": "Lincomycin Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/lincomycin-hydrochloride/"
-    },
-    {
-      "slug": "linezolid",
-      "name": "Linezolid",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/linezolid/"
-    },
-    {
-      "slug": "liraglutide",
-      "name": "Liraglutide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/liraglutide/"
     },
     {
       "slug": "lisinopril",
@@ -4864,16 +3464,6 @@
       "url": "/drugs/lisinopril/"
     },
     {
-      "slug": "lisinopril-dihydrate",
-      "name": "Lisinopril Dihydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/lisinopril-dihydrate/"
-    },
-    {
       "slug": "lithium-carbonate",
       "name": "Lithium Carbonate",
       "evidence_level": "L5",
@@ -4882,16 +3472,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/lithium-carbonate/"
-    },
-    {
-      "slug": "lixisenatide",
-      "name": "Lixisenatide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/lixisenatide/"
     },
     {
       "slug": "lonoctocog-alfa",
@@ -4912,16 +3492,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/loperamide/"
-    },
-    {
-      "slug": "loperamide-hydrochloride",
-      "name": "Loperamide Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/loperamide-hydrochloride/"
     },
     {
       "slug": "lopinavir",
@@ -4992,36 +3562,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/loxoprofen/"
-    },
-    {
-      "slug": "lumefantrine",
-      "name": "Lumefantrine",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/lumefantrine/"
-    },
-    {
-      "slug": "luspatercept",
-      "name": "Luspatercept",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/luspatercept/"
-    },
-    {
-      "slug": "macitentan",
-      "name": "Macitentan",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/macitentan/"
     },
     {
       "slug": "magnesium-carbonate",
@@ -5184,16 +3724,6 @@
       "url": "/drugs/mesalazine/"
     },
     {
-      "slug": "methimazole",
-      "name": "Methimazole",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/methimazole/"
-    },
-    {
       "slug": "methionine",
       "name": "Methionine",
       "evidence_level": "L5",
@@ -5222,16 +3752,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/methoxy-polyethylene-glycol-epoetin-beta/"
-    },
-    {
-      "slug": "methyldopa",
-      "name": "Methyldopa",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/methyldopa/"
     },
     {
       "slug": "methylene-blue",
@@ -5294,16 +3814,6 @@
       "url": "/drugs/midazolam/"
     },
     {
-      "slug": "midostaurin",
-      "name": "Midostaurin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/midostaurin/"
-    },
-    {
       "slug": "milrinone",
       "name": "Milrinone",
       "evidence_level": "L5",
@@ -5322,16 +3832,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/minoxidil/"
-    },
-    {
-      "slug": "mirabegron",
-      "name": "Mirabegron",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/mirabegron/"
     },
     {
       "slug": "mirtazapine",
@@ -5444,16 +3944,6 @@
       "url": "/drugs/mycophenolic-acid/"
     },
     {
-      "slug": "naltrexone",
-      "name": "Naltrexone",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/naltrexone/"
-    },
-    {
       "slug": "naproxen",
       "name": "Naproxen",
       "evidence_level": "L5",
@@ -5502,36 +3992,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/nevirapine/"
-    },
-    {
-      "slug": "nicotinamide",
-      "name": "Nicotinamide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/nicotinamide/"
-    },
-    {
-      "slug": "nicotine",
-      "name": "Nicotine",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/nicotine/"
-    },
-    {
-      "slug": "nifedipine",
-      "name": "Nifedipine",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/nifedipine/"
     },
     {
       "slug": "nimodipine",
@@ -5602,16 +4062,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/nitrous-oxide/"
-    },
-    {
-      "slug": "nivolumab",
-      "name": "Nivolumab",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/nivolumab/"
     },
     {
       "slug": "nonivamide",
@@ -5814,16 +4264,6 @@
       "url": "/drugs/oxcarbazepine/"
     },
     {
-      "slug": "oxytocin",
-      "name": "Oxytocin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/oxytocin/"
-    },
-    {
       "slug": "paclitaxel",
       "name": "Paclitaxel",
       "evidence_level": "L1",
@@ -5954,16 +4394,6 @@
       "url": "/drugs/pentamidine/"
     },
     {
-      "slug": "pentoxifylline",
-      "name": "Pentoxifylline",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/pentoxifylline/"
-    },
-    {
       "slug": "peppermint-oil",
       "name": "Peppermint Oil",
       "evidence_level": "L4",
@@ -5992,16 +4422,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/perindopril/"
-    },
-    {
-      "slug": "permethrin",
-      "name": "Permethrin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/permethrin/"
     },
     {
       "slug": "perphenazine",
@@ -6074,26 +4494,6 @@
       "url": "/drugs/pimecrolimus/"
     },
     {
-      "slug": "pinaverium-bromide",
-      "name": "Pinaverium Bromide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/pinaverium-bromide/"
-    },
-    {
-      "slug": "pioglitazone-hydrochloride",
-      "name": "Pioglitazone Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/pioglitazone-hydrochloride/"
-    },
-    {
       "slug": "piperacillin",
       "name": "Piperacillin",
       "evidence_level": "L5",
@@ -6102,26 +4502,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/piperacillin/"
-    },
-    {
-      "slug": "piperacillin-sodium",
-      "name": "Piperacillin Sodium",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/piperacillin-sodium/"
-    },
-    {
-      "slug": "piracetam",
-      "name": "Piracetam",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/piracetam/"
     },
     {
       "slug": "pirfenidone",
@@ -6164,36 +4544,6 @@
       "url": "/drugs/pitavastatin/"
     },
     {
-      "slug": "pitavastatin-calcium",
-      "name": "Pitavastatin Calcium",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/pitavastatin-calcium/"
-    },
-    {
-      "slug": "pitolisant-hydrochloride",
-      "name": "Pitolisant Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/pitolisant-hydrochloride/"
-    },
-    {
-      "slug": "pivmecillinam-hydrochloride",
-      "name": "Pivmecillinam Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/pivmecillinam-hydrochloride/"
-    },
-    {
       "slug": "plerixafor",
       "name": "Plerixafor",
       "evidence_level": "L5",
@@ -6222,16 +4572,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/polyethylene-glycol/"
-    },
-    {
-      "slug": "pomalidomide",
-      "name": "Pomalidomide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/pomalidomide/"
     },
     {
       "slug": "posaconazole",
@@ -6384,16 +4724,6 @@
       "url": "/drugs/progesterone/"
     },
     {
-      "slug": "promethazine",
-      "name": "Promethazine",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/promethazine/"
-    },
-    {
       "slug": "propofol",
       "name": "Propofol",
       "evidence_level": "L2",
@@ -6452,16 +4782,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/pyrazinamide/"
-    },
-    {
-      "slug": "racecadotril",
-      "name": "Racecadotril",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/racecadotril/"
     },
     {
       "slug": "ramipril",
@@ -6524,16 +4844,6 @@
       "url": "/drugs/ravulizumab/"
     },
     {
-      "slug": "rebamipide",
-      "name": "Rebamipide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/rebamipide/"
-    },
-    {
       "slug": "remdesivir",
       "name": "Remdesivir",
       "evidence_level": "L5",
@@ -6542,16 +4852,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/remdesivir/"
-    },
-    {
-      "slug": "repaglinide",
-      "name": "Repaglinide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/repaglinide/"
     },
     {
       "slug": "resorcinol",
@@ -6572,16 +4872,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/revefenacin/"
-    },
-    {
-      "slug": "riboflavin",
-      "name": "Riboflavin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/riboflavin/"
     },
     {
       "slug": "rifampicin",
@@ -6622,16 +4912,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/rimegepant/"
-    },
-    {
-      "slug": "riociguat",
-      "name": "Riociguat",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/riociguat/"
     },
     {
       "slug": "risankizumab",
@@ -6714,16 +4994,6 @@
       "url": "/drugs/romiplostim/"
     },
     {
-      "slug": "romosozumab",
-      "name": "Romosozumab",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/romosozumab/"
-    },
-    {
       "slug": "ropeginterferon-alfa-2b",
       "name": "Ropeginterferon Alfa-2B",
       "evidence_level": "L5",
@@ -6804,16 +5074,6 @@
       "url": "/drugs/selegiline/"
     },
     {
-      "slug": "selexipag",
-      "name": "Selexipag",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/selexipag/"
-    },
-    {
       "slug": "selinexor",
       "name": "Selinexor",
       "evidence_level": "L5",
@@ -6832,16 +5092,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/selumetinib/"
-    },
-    {
-      "slug": "semaglutide",
-      "name": "Semaglutide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/semaglutide/"
     },
     {
       "slug": "sennosides",
@@ -6922,16 +5172,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/sirolimus/"
-    },
-    {
-      "slug": "sitagliptin",
-      "name": "Sitagliptin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/sitagliptin/"
     },
     {
       "slug": "sodium-acetate",
@@ -7114,26 +5354,6 @@
       "url": "/drugs/tadalafil/"
     },
     {
-      "slug": "tafamidis",
-      "name": "Tafamidis",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/tafamidis/"
-    },
-    {
-      "slug": "tafluprost",
-      "name": "Tafluprost",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/tafluprost/"
-    },
-    {
       "slug": "tamoxifen",
       "name": "Tamoxifen",
       "evidence_level": "L1",
@@ -7164,16 +5384,6 @@
       "url": "/drugs/tegafur/"
     },
     {
-      "slug": "teicoplanin",
-      "name": "Teicoplanin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/teicoplanin/"
-    },
-    {
       "slug": "telmisartan",
       "name": "Telmisartan",
       "evidence_level": "L1",
@@ -7202,16 +5412,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/tenecteplase/"
-    },
-    {
-      "slug": "terbinafine",
-      "name": "Terbinafine",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/terbinafine/"
     },
     {
       "slug": "terbutaline",
@@ -7252,16 +5452,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/testosterone/"
-    },
-    {
-      "slug": "thalidomide",
-      "name": "Thalidomide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/thalidomide/"
     },
     {
       "slug": "theophylline",
@@ -7314,16 +5504,6 @@
       "url": "/drugs/thyrotropin-alfa/"
     },
     {
-      "slug": "tibolone",
-      "name": "Tibolone",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/tibolone/"
-    },
-    {
       "slug": "ticagrelor",
       "name": "Ticagrelor",
       "evidence_level": "L5",
@@ -7334,16 +5514,6 @@
       "url": "/drugs/ticagrelor/"
     },
     {
-      "slug": "tigecycline",
-      "name": "Tigecycline",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/tigecycline/"
-    },
-    {
       "slug": "tildrakizumab",
       "name": "Tildrakizumab",
       "evidence_level": "L5",
@@ -7352,16 +5522,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/tildrakizumab/"
-    },
-    {
-      "slug": "timolol",
-      "name": "Timolol",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/timolol/"
     },
     {
       "slug": "tiotropium",
@@ -7402,16 +5562,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/tocilizumab/"
-    },
-    {
-      "slug": "tolbutamide",
-      "name": "Tolbutamide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/tolbutamide/"
     },
     {
       "slug": "tolnaftate",
@@ -7564,16 +5714,6 @@
       "url": "/drugs/trifarotene/"
     },
     {
-      "slug": "trifluridine",
-      "name": "Trifluridine",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/trifluridine/"
-    },
-    {
       "slug": "trimethoprim",
       "name": "Trimethoprim",
       "evidence_level": "L1",
@@ -7644,16 +5784,6 @@
       "url": "/drugs/tyrosine/"
     },
     {
-      "slug": "udenafil",
-      "name": "Udenafil",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/udenafil/"
-    },
-    {
       "slug": "upadacitinib",
       "name": "Upadacitinib",
       "evidence_level": "L5",
@@ -7672,16 +5802,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/uracil/"
-    },
-    {
-      "slug": "urea",
-      "name": "Urea",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/urea/"
     },
     {
       "slug": "urofollitropin",
@@ -7774,16 +5894,6 @@
       "url": "/drugs/vasopressin/"
     },
     {
-      "slug": "vedolizumab",
-      "name": "Vedolizumab",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/vedolizumab/"
-    },
-    {
       "slug": "velpatasvir",
       "name": "Velpatasvir",
       "evidence_level": "L5",
@@ -7802,26 +5912,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/venetoclax/"
-    },
-    {
-      "slug": "vibegron",
-      "name": "Vibegron",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/vibegron/"
-    },
-    {
-      "slug": "vigabatrin",
-      "name": "Vigabatrin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/vigabatrin/"
     },
     {
       "slug": "vildagliptin",
@@ -7892,16 +5982,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/vonoprazan/"
-    },
-    {
-      "slug": "voriconazole",
-      "name": "Voriconazole",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/voriconazole/"
     },
     {
       "slug": "zanamivir",
@@ -7982,16 +6062,6 @@
       "predicted_indication": "Sindrom Tourette",
       "txgnn_score": "99.85%",
       "url": "/drugs/zonisamide/"
-    },
-    {
-      "slug": "zopiclone",
-      "name": "Zopiclone",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/zopiclone/"
     }
   ]
 }

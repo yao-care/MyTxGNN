@@ -166,7 +166,7 @@ kg %>% group_by(disease_name) %>% summarise(n = n()) %>% arrange(desc(n))
 
 By downloading this data, you agree to:
 
-1. **Attribution**: Cite MyTxGNN and TxGNN (Huang et al., 2023) in publications
+1. **Attribution**: Cite MyTxGNN and TxGNN (Huang et al., 2024) in publications
 2. **Research Use**: Data is provided for research purposes
 3. **No Clinical Decisions**: Do not use predictions for clinical decisions without validation
 4. **Compliance**: Follow applicable data protection regulations

@@ -3,9 +3,10 @@ layout: default
 title: Senarai Ubat
 parent: Laporan Ubat
 nav_order: 4
-description: "Browse all 508 drugs with drug repurposing predictions from MyTxGNN"
+description: "Browse all drugs with drug repurposing predictions from MyTxGNN"
 permalink: /drugs/
 ---
+{% assign listed_drugs = site.drugs | where_exp: "d", "d.layout != 'redirect'" | where_exp: "d", "d.noindex != true" %}
 
 # Drug Predictions
 
@@ -120,3 +121,16 @@ Full prediction data available for download:
 <strong>Disclaimer</strong><br>
 Drug repurposing predictions are for research purposes only. These predictions have not been validated clinically and do not constitute medical recommendations. Always consult healthcare professionals for medical decisions.
 </div>
+
+---
+
+## Senarai Penuh Ubat
+
+{{ listed_drugs.size }} laporan ubat
+
+{% assign all_drugs = listed_drugs | sort: 'title' %}
+
+| Ubat | Tahap bukti | Indikasi |
+|---------|---------|---------|
+{% for drug in all_drugs %}| [{{ drug.title }}]({{ drug.url | relative_url }}) | {{ drug.evidence_level }} | {{ drug.indication_count }} |
+{% endfor %}

@@ -54,7 +54,7 @@ ClinicalTrials, serta integrasi rekod kesihatan elektronik SMART on FHIR.
 
 This project's AI prediction model is based on:
 
-> Huang, K., et al. (2023). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
+> Huang, K., et al. (2024). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
 > [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
 
 ---
