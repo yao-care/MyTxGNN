@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-16T05:26:22.397452",
+  "fetched": "2026-10-16T10:42:26.171408",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 16,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Sarawak Presents RM500,000 Aid To Five FDS Victims’ Families",
+      "url": "https://codeblue.galencentre.org/2026/10/sarawak-presents-rm500000-aid-to-five-fds-victims-families/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-16T10:08:30",
+      "summary": "At a Kuching ceremony, Sarawak Premier Abang Jo presents RM100,000 cheques to each family of 5 victims killed in the Long Lellang tragedy, besides education sponsorships for their kids. One of the widows, Stephanie, says Sarawak helped a lot from Day One. The post Sarawak Presents RM500,000 Aid To Five FDS Victims’ Families appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Revert To Pre-2016 For True ‘Abolition’ Of Contract Doctor System",
       "url": "https://codeblue.galencentre.org/2026/10/revert-to-pre-2016-for-true-abolition-of-contract-doctor-system/",
@@ -105,74 +113,33 @@
       ]
     },
     {
-      "title": "Pharmaniaga Targets Local Production Of Nine NIP Vaccines",
-      "url": "https://codeblue.galencentre.org/2026/10/pharmaniaga-targets-local-production-of-nine-nip-vaccines/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-14T06:00:00",
-      "summary": "Pharmaniaga Berhad aims to locally produce nine of 11 National Immunisation Programme (NIP) vaccines, including polio vaccines through a partnership with Indonesia’s PT Bio Farma. Its first locally manufactured vaccine, PCV13, is targeted for late 2027. The post Pharmaniaga Targets Local Production Of Nine NIP Vaccines appeared first on CodeBlue .",
-      "keywords_matched": [
-        "vaccine"
-      ]
-    },
-    {
-      "title": "Budget 2027 debate dominates Dewan Rakyat as MPs tackle haze, health and school safety",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/budget-2027-debate-dominates-dewan-rakyat-as-mps-tackle-haze-health-and-school-safety/239308",
+      "title": "PeKa B40 becomes PeKa Sihat in healthcare revamp as govt looks to ease clinic queues",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/peka-b40-becomes-peka-sihat-in-healthcare-revamp-as-govt-looks-to-ease-clinic-queues/239363",
       "source": "Malay Mail",
-      "published": "2026-10-16T04:28:16",
-      "summary": "KUALA LUMPUR, Oct 16 — Debate on the Supply (Budget) Bill 2027 was the main focus of the Dewan Rakyat in the secon...",
+      "published": "2026-10-16T09:52:13",
+      "summary": "KUALA LUMPUR, Oct 16 — The Health Ministry’s PeKa B40 healthcare programme will be rebranded as PeKa Sihat,...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "Johor’s Pasir Gudang records API 207, highest nationwide as 30 areas hit unhealthy levels",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/johors-pasir-gudang-records-api-207-highest-nationwide-as-30-areas-hit-unhealthy-levels/239305",
+      "title": "Khazanah and PNB channelled nearly RM40m into FashionValet in 2018, court hears in Vivy Yusof trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/khazanah-and-pnb-channelled-nearly-rm40m-into-fashionvalet-in-2018-court-hears-in-vivy-yusof-trial/239348",
       "source": "Malay Mail",
-      "published": "2026-10-16T04:07:33",
-      "summary": "KUALA LUMPUR, Oct 16 — Pasir Gudang in Johor recorded a very unhealthy Air Pollutant Index (API) reading of 207, t...",
+      "published": "2026-10-16T08:31:35",
+      "summary": "KUALA LUMPUR, Oct 16 — The Sessions Court here was told today that local fashion company, Fashion Valet Sdn Bhd (F...",
       "keywords_matched": [
-        "health"
+        "trial"
       ]
     },
     {
-      "title": "Sarawak formulates proposals to improve Flying Doctor Service, strengthen Medevac and rural health delivery",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/sarawak-formulates-proposals-to-improve-flying-doctor-service-strengthen-medevac-and-rural-health-delivery/239299",
+      "title": "Sarawak gives RM100,000 each to families of Flying Doctor Service crash victims",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/sarawak-gives-rm100000-each-to-families-of-flying-doctor-service-crash-victims/239344",
       "source": "Malay Mail",
-      "published": "2026-10-16T03:38:31",
-      "summary": "KUCHING, Oct 16 — Sarawak is exploring ways to improve healthcare delivery to remote communities following the sus...",
+      "published": "2026-10-16T08:04:17",
+      "summary": "KUCHING, Oct 16 — The Sarawak state government has contributed RM100,000 to each of the families of the five victi...",
       "keywords_matched": [
-        "health",
         "doctor"
-      ]
-    },
-    {
-      "title": "Man with 33 criminal, drug records arrested over glue tin attack on elderly man in Segamat",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/man-with-33-criminal-drug-records-arrested-over-glue-tin-attack-on-elderly-man-in-segamat/239295",
-      "source": "Malay Mail",
-      "published": "2026-10-16T02:47:35",
-      "summary": "SEGAMAT, Oct 16 — A 70-year-old man sustained a forehead injury after he was allegedly struck with a tin of...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "School assessment postponed as haze sparks MOE move to prioritise student health and safety",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/school-assessment-postponed-as-haze-sparks-moe-move-to-prioritise-student-health-and-safety/239288",
-      "source": "Malay Mail",
-      "published": "2026-10-16T02:37:20",
-      "summary": "PUTRAJAYA, Oct 16 — The End-of-Academic-Session Assessment (UASA), scheduled to take place next week, has been pos...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "MOH says mask up, avoid outdoor activity as haze blankets Malaysia with unhealthy air",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/moh-says-mask-up-avoid-outdoor-activity-as-haze-blankets-malaysia-with-unhealthy-air/239285",
-      "source": "Malay Mail",
-      "published": "2026-10-16T02:13:59",
-      "summary": "PUTRAJAYA, Oct 16 — The public is advised to wear N95 face masks if they need to engage in outdoor activities duri...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
