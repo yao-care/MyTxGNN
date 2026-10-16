@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-16T00:05:11.251512",
+  "fetched": "2026-10-16T05:26:22.397452",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,43 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 16,
   "items": [
+    {
+      "title": "Revert To Pre-2016 For True ‘Abolition’ Of Contract Doctor System",
+      "url": "https://codeblue.galencentre.org/2026/10/revert-to-pre-2016-for-true-abolition-of-contract-doctor-system/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-16T03:30:00",
+      "summary": "To truly “abolish” the contract doctor system, all medical graduates entering housemanship in 2027 should be automatically made permanent staff on Day One of training — reverting back to pre-2016 — so that 2026 will mark the last contract doctor cohorts. The post Revert To Pre-2016 For True ‘Abolition’ Of Contract Doctor System appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Duopharma Biotech Expands Vaccine Portfolio With Enimmune",
+      "url": "https://codeblue.galencentre.org/2026/10/duopharma-biotech-expands-vaccine-portfolio-with-enimmune/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-16T02:50:58",
+      "summary": "The partnership establishes a pathway to introduce niche vaccines in Malaysia and provides a foundation for collaboration on future vaccine pipeline opportunities. The post Duopharma Biotech Expands Vaccine Portfolio With Enimmune appeared first on CodeBlue .",
+      "keywords_matched": [
+        "vaccine"
+      ]
+    },
+    {
+      "title": "Mandate Mediation For Medical Negligence Complaints Before Lawsuits, Says APHM",
+      "url": "https://codeblue.galencentre.org/2026/10/mandate-mediation-for-medical-negligence-complaints-before-lawsuits-says-aphm/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-16T02:00:00",
+      "summary": "APHM's Dr Kuljit Singh wants medical negligence disputes to undergo mandatory mediation before suing. He says litigation fears are also driving defensive medicine and higher health care utilisation. Doctors can't use cost-saving for patients as a defence. The post Mandate Mediation For Medical Negligence Complaints Before Lawsuits, Says APHM appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "medicine",
+        "doctor",
+        "patient"
+      ]
+    },
     {
       "title": "Putrajaya Paying RM130,000 Each To Four FDS Crash Victims’ Families",
       "url": "https://codeblue.galencentre.org/2026/10/putrajaya-paying-rm130000-each-to-four-fds-crash-victims-families/",
@@ -80,45 +115,62 @@
       ]
     },
     {
-      "title": "Addressing The Rising Tide Of School Violence And Fatalities In Malaysia — Dr Rajeentheran Suntheralingam",
-      "url": "https://codeblue.galencentre.org/2026/10/the-shattered-sanctuary-addressing-the-rising-tide-of-school-violence-and-fatalities-in-malaysia/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-14T03:30:00",
-      "summary": "Malaysia must act immediately on expert recommendations and implement holistic reforms to rebuild a supportive community for its youths. The post Addressing The Rising Tide Of School Violence And Fatalities In Malaysia — Dr Rajeentheran Suntheralingam appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Market Will Decide If MediAsas Is Successful: Galen Centre",
-      "url": "https://codeblue.galencentre.org/2026/10/market-will-decide-if-mediasas-is-successful-galen-centre/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-14T02:00:00",
-      "summary": "Galen Centre's Azrul says the market will decide if MediAsas is successful, whereas NCSM's Murallitharan says MediAsas isn't relevant to people living with NCDs because it doesn't cover pre-existing conditions. Sustainability depends on the pool size. The post Market Will Decide If MediAsas Is Successful: Galen Centre appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Bandar Kuching MP Moots Haze Tariffs On Indonesia",
-      "url": "https://codeblue.galencentre.org/2026/10/bandar-kuching-mp-moots-haze-tariffs-on-indonesia/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-13T09:12:33",
-      "summary": "Bandar Kuching MP Kelvin Yii wants Malaysia to exercise its trade powers and slap Haze Tariffs onto Indonesia, targeting imported products from foreign companies that are proven to be involved in forest burning in Indonesia. \"The polluter must pay.\" The post Bandar Kuching MP Moots Haze Tariffs On Indonesia appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Malaysia’s haze map turns red: Klang, Nilai, Shah Alam among worst affected at near‑200 API",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/15/malaysias-haze-map-turns-red-klang-nilai-shah-alam-among-worst-affected-at-near200-api/239237",
+      "title": "Budget 2027 debate dominates Dewan Rakyat as MPs tackle haze, health and school safety",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/budget-2027-debate-dominates-dewan-rakyat-as-mps-tackle-haze-health-and-school-safety/239308",
       "source": "Malay Mail",
-      "published": "2026-10-15T10:54:08",
-      "summary": "KUALA LUMPUR, Oct 15 — A total of 34 areas recorded unhealthy Air Pollutant Index (API) readings as of 5pm today,...",
+      "published": "2026-10-16T04:28:16",
+      "summary": "KUALA LUMPUR, Oct 16 — Debate on the Supply (Budget) Bill 2027 was the main focus of the Dewan Rakyat in the secon...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "Dzulkefly: Families of MOH staff killed in Sarawak helicopter crash to receive pensions from Oct 21",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/15/dzulkefly-families-of-moh-staff-killed-in-sarawak-helicopter-crash-to-receive-pensions-from-oct-21/239236",
+      "title": "Johor’s Pasir Gudang records API 207, highest nationwide as 30 areas hit unhealthy levels",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/johors-pasir-gudang-records-api-207-highest-nationwide-as-30-areas-hit-unhealthy-levels/239305",
       "source": "Malay Mail",
-      "published": "2026-10-15T10:31:54",
-      "summary": "PUTRAJAYA, Oct 15 — The next-of-kin of four Ministry of Health (MOH) staff who perished in a helicopter crash in L...",
+      "published": "2026-10-16T04:07:33",
+      "summary": "KUALA LUMPUR, Oct 16 — Pasir Gudang in Johor recorded a very unhealthy Air Pollutant Index (API) reading of 207, t...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Sarawak formulates proposals to improve Flying Doctor Service, strengthen Medevac and rural health delivery",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/sarawak-formulates-proposals-to-improve-flying-doctor-service-strengthen-medevac-and-rural-health-delivery/239299",
+      "source": "Malay Mail",
+      "published": "2026-10-16T03:38:31",
+      "summary": "KUCHING, Oct 16 — Sarawak is exploring ways to improve healthcare delivery to remote communities following the sus...",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Man with 33 criminal, drug records arrested over glue tin attack on elderly man in Segamat",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/man-with-33-criminal-drug-records-arrested-over-glue-tin-attack-on-elderly-man-in-segamat/239295",
+      "source": "Malay Mail",
+      "published": "2026-10-16T02:47:35",
+      "summary": "SEGAMAT, Oct 16 — A 70-year-old man sustained a forehead injury after he was allegedly struck with a tin of...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "School assessment postponed as haze sparks MOE move to prioritise student health and safety",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/school-assessment-postponed-as-haze-sparks-moe-move-to-prioritise-student-health-and-safety/239288",
+      "source": "Malay Mail",
+      "published": "2026-10-16T02:37:20",
+      "summary": "PUTRAJAYA, Oct 16 — The End-of-Academic-Session Assessment (UASA), scheduled to take place next week, has been pos...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "MOH says mask up, avoid outdoor activity as haze blankets Malaysia with unhealthy air",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/moh-says-mask-up-avoid-outdoor-activity-as-haze-blankets-malaysia-with-unhealthy-air/239285",
+      "source": "Malay Mail",
+      "published": "2026-10-16T02:13:59",
+      "summary": "PUTRAJAYA, Oct 16 — The public is advised to wear N95 face masks if they need to engage in outdoor activities duri...",
       "keywords_matched": [
         "health"
       ]
