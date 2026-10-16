@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Acetylcysteine: indikasi baharu diramal Bronkitis (tahap bukti L5). Indikasi asal: Keracunan parasetamol (antara indikasi asal dalam graf pengetahuan: b…"
+monitor_inn: "Acetylcysteine"
+predicted_indications: ["bronchitis", "bronchiectasis", "amyloidosis", "AL amyloidosis", "cystic fibrosis"]
 ---
 
 # Acetylcysteine

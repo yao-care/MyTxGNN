@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Agomelatine: indikasi baharu diramal Gangguan kecemasan (anxiety disorder) (tahap bukti L2). Indikasi asal: Gangguan kemurungan major"
+monitor_inn: "Agomelatine"
+predicted_indications: ["anxiety disorder", "endogenous depression", "unipolar depression", "benign paroxysmal torticollis of infancy", "major depressive disorder", "agoraphobia", "neurotic disorder", "melancholia", "neurotic depression", "Ohdo syndrome and variants"]
 ---
 
 # Agomelatine

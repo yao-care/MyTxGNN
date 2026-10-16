@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Choline Salicylate: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L3). Indikasi asal: Tiada data indikasi berlesen yang tersedia"
+monitor_inn: "Choline salicylate"
+predicted_indications: ["Prinzmetal angina", "rheumatoid arthritis", "hypertensive disorder", "migraine disorder", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease", "Raynaud disease", "pulmonary hypertension"]
 ---
 
 # Choline Salicylate

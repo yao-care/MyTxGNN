@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Topiramate: indikasi baharu diramal Neoplasma saraf trigeminal (tahap bukti L5). Indikasi asal: Epilepsi dengan sawan tonik-klonik umum, epilepsi separa…"
+monitor_inn: "TOPIRAMATE"
+predicted_indications: ["trigeminal nerve neoplasm", "visual epilepsy", "micturation-induced seizures", "thinking seizures", "orgasm-induced seizures", "eating seizures", "startle epilepsy", "audiogenic seizures", "reading seizures"]
 ---
 
 # Topiramate

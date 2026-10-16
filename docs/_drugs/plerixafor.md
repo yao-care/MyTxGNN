@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Plerixafor: indikasi baharu diramal Mieloma sel plasma indolen (tahap bukti L5). Indikasi asal: Mieloma sel plasma"
+monitor_inn: "PLERIXAFOR"
+predicted_indications: ["indolent plasma cell myeloma", "CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
 ---
 
 # Plerixafor

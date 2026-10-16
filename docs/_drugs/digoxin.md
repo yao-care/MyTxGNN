@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Digoxin: indikasi baharu diramal Angina Prinzmetal (tahap bukti L5). Indikasi asal: Fibrilasi atrium"
+monitor_inn: "DIGOXIN"
+predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "obsolete susceptibility to ischemic stroke", "hypoalphalipoproteinemia"]
 ---
 
 # Digoxin

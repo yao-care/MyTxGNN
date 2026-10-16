@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cilastatin: indikasi baharu diramal Pneumonia (ramalan kedudukan ke-7 daripada 10 (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan tersedia (tiada lesen berdaftar di Mal…"
+monitor_inn: "Cilastatin"
+predicted_indications: ["bacterial arthritis", "staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "pneumonia", "paratyphoid fever", "bronchitis", "streptococcal pneumonia"]
 ---
 
 # Cilastatin

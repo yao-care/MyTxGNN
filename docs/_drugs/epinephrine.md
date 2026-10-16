@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Epinephrine: indikasi baharu diramal Penyakit paru-paru obstruktif (obstructive lung disease) (tahap bukti L1). Indikasi asal: Glaukoma sudut terbuka, bronkitis, gangguan hipotensi, asma…"
+monitor_inn: "EPINEPHRINE"
+predicted_indications: ["obstructive lung disease", "food-dependent exercise-induced anaphylaxis", "Rienhoff syndrome", "respiratory malformation"]
 ---
 
 # Epinephrine

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Etanercept: indikasi baharu diramal Vaskulitis reumatoid (tahap bukti L4). Indikasi asal: Artritis psoriatik, artritis reumatoid, spondilitis ankilosing…"
+monitor_inn: "ETANERCEPT"
+predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease"]
 ---
 
 # Etanercept

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Trastuzumab Deruxtecan: indikasi baharu diramal Osteoporosis teraruh ubat (drug-induced osteoporosis) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
+monitor_inn: "TRASTUZUMAB DERUXTECAN"
+predicted_indications: ["drug-induced osteoporosis"]
 ---
 
 # Trastuzumab Deruxtecan

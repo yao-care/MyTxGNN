@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nefopam: indikasi baharu diramal 99.98% (tahap bukti L5). Indikasi asal: Katarak belum matang (immature cataract)"
+monitor_inn: "Nefopam"
+predicted_indications: ["immature cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "craniostenosis cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "lumbar spinal stenosis"]
 ---
 
 # Nefopam

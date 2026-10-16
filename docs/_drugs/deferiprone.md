@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Deferiprone: indikasi baharu diramal Porfiria hepatik (hepatic porphyria) (tahap bukti L4). Indikasi asal: Hemosiderosis…"
+monitor_inn: "DEFERIPRONE"
+predicted_indications: ["hepatic porphyria", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "pyruvate kinase deficiency of red cells", "beta-thalassemia with other manifestations", "pyropoikilocytosis, hereditary"]
 ---
 
 # Deferiprone

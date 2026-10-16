@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Prednisolone Acetate: indikasi baharu diramal Konjunktivitis berjangkit akut (acute contagious conjunctivitis) (tahap bukti L5). Indikasi asal: Tidak tersedia dalam data pendaftaran Malaysia"
+monitor_inn: "Prednisolone acetate"
+predicted_indications: ["acute contagious conjunctivitis", "conjunctivitis", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis"]
 ---
 
 # Prednisolone Acetate

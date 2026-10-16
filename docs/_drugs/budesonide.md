@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Budesonide: indikasi baharu diramal Asma (tahap bukti L1). Indikasi asal: Penyakit Crohn, penyakit radang usus, kolitis Crohn, asma…"
+monitor_inn: "Budesonide"
+predicted_indications: ["asthma", "inflammatory bowel disease", "allergic asthma", "intrinsic asthma", "Crohn disease"]
 ---
 
 # Budesonide

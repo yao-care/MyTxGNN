@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Alprazolam: indikasi baharu diramal Insomnia (tahap bukti L4). Indikasi asal: Gangguan kebimbangan (berdasarkan graf pengetahuan PrimeKG"
+monitor_inn: "ALPRAZOLAM"
+predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia"]
 ---
 
 # Alprazolam

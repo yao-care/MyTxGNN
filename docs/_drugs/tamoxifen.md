@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tamoxifen: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L1). Indikasi asal: Tiada rekod indikasi daripada lesen NPRA dalam data yang dikumpul (li…"
+monitor_inn: "Tamoxifen"
+predicted_indications: ["female breast carcinoma", "mammary Paget disease", "intraductal cribriform breast adenocarcinoma", "basal-like breast carcinoma", "breast carcinoma in situ", "sebaceous breast carcinoma", "invasive tubular breast carcinoma", "Ehrlich tumor carcinoma", "hormone-resistant breast carcinoma", "estrogen-receptor positive breast cancer"]
 ---
 
 # Tamoxifen

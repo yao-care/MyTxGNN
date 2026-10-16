@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Cyclosporine: indikasi baharu diramal Penyakit granulomatus kronik, autosomal resesif (tahap bukti L4). Indikasi asal: Artritis reumatoid, sindrom mata kering, xerophthalmia…"
+monitor_inn: "CYCLOSPORINE"
+predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
 ---
 
 # Cyclosporine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Moroctocog Alfa: indikasi baharu diramal Gangguan pelepasan primer platelet (tahap bukti L5). Indikasi asal: Hemofilia"
+monitor_inn: "MOROCTOCOG ALFA"
+predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "acquired coagulation factor deficiency", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency"]
 ---
 
 # Moroctocog Alfa

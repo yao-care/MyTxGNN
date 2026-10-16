@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fluorescein: indikasi baharu diramal Angina Prinzmetal (tahap bukti L5). Indikasi asal: Tiada data indikasi yang diluluskan di Malaysia"
+monitor_inn: "Fluorescein"
+predicted_indications: ["Prinzmetal angina", "antithrombin deficiency type 2", "rheumatoid arthritis", "factor 5 excess with spontaneous thrombosis", "hemoglobinopathy", "heparin cofactor 2 deficiency", "thrombophilia", "hyperthyroidism", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations"]
 ---
 
 # Fluorescein

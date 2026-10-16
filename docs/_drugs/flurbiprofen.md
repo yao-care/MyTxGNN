@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Flurbiprofen: indikasi baharu diramal 99.998% (tahap bukti L5). Indikasi asal: Kerentanan osteoartritis (osteoarthritis susceptibility)"
+monitor_inn: "Flurbiprofen"
+predicted_indications: ["osteoarthritis susceptibility", "rheumatoid arthritis", "acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "osteoarthritis", "myosclerosis", "brachyolmia", "arthropathy"]
 ---
 
 # Flurbiprofen

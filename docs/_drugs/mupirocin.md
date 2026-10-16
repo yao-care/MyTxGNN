@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Mupirocin: indikasi baharu diramal Empiema pleura (pleural empyema) (tahap bukti L5). Indikasi asal: Impetigo, impetigo bulosa"
+monitor_inn: "MUPIROCIN"
+predicted_indications: ["pleural empyema (disease)", "punctate epithelial keratoconjunctivitis"]
 ---
 
 # Mupirocin

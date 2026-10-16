@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sunitinib: indikasi baharu diramal 99.87% (tahap bukti L5). Indikasi asal: Liposarkoma"
+monitor_inn: "Sunitinib"
+predicted_indications: ["liposarcoma", "clear cell renal carcinoma", "ovarian myxoid liposarcoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma (disease)", "dermatofibrosarcoma protuberans", "childhood kidney cell carcinoma", "angiolipoma"]
 ---
 
 # Sunitinib

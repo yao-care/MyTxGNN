@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Potassium Chloride: indikasi baharu diramal Kekurangan kalium (potassium deficiency disease) (tahap bukti L4). Indikasi asal: Kekurangan kalium (potassium deficiency disease)"
+monitor_inn: "Potassium Chloride"
+predicted_indications: ["potassium deficiency disease", "constipation disorder", "potassium deficiency disease", "constipation disorder", "potassium deficiency disease"]
 ---
 
 # Potassium Chloride

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Omidenepag Isopropyl: indikasi baharu diramal Pankreatitis (tahap bukti L5). Indikasi asal: Hipertensi okular, glaukoma"
+monitor_inn: "OMIDENEPAG ISOPROPYL"
+predicted_indications: ["pancreatitis", "hyperphosphatemia (disease)", "esophageal varices with bleeding", "esophageal varices without bleeding", "blepharospasm", "familial visceral myopathy", "alcoholic cardiomyopathy"]
 ---
 
 # Omidenepag Isopropyl

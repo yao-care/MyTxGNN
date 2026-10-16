@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Thyrotropin Alfa: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar dalam data yang dikumpulkan"
+monitor_inn: "Thyrotropin alfa"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Raynaud disease", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "postural orthostatic tachycardia syndrome", "hyperthyroidism"]
 ---
 
 # Thyrotropin Alfa

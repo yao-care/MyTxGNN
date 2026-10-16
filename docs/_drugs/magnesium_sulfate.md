@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Magnesium Sulfate: indikasi baharu diramal Pra-eklampsia/eklampsia (tahap bukti L1). Indikasi asal: Sembelit"
+monitor_inn: "MAGNESIUM SULFATE"
+predicted_indications: ["preeclampsia/eclampsia", "toxemia of pregnancy", "thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
 ---
 
 # Magnesium Sulfate

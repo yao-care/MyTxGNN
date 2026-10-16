@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Palivizumab: indikasi baharu diramal Benign neoplasm of tongue (tahap bukti L5). Indikasi asal: Data indikasi berlesen tidak tersedia dalam data yang dikompilasi unt…"
+monitor_inn: "Palivizumab"
+predicted_indications: ["benign neoplasm of tongue", "epiglottis neoplasm", "cervical neuroblastoma", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "tumor of testis and paratestis", "cystic neoplasm", "schwannoma of jugular foramen", "mesenchymoma", "thyroglossal duct cyst"]
 ---
 
 # Palivizumab

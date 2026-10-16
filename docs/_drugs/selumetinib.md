@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Selumetinib: indikasi baharu diramal Schwannoma saraf periferal (peringkat 9 dalam senarai ramalan) (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA)"
+monitor_inn: "Selumetinib"
+predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "rhabdoid tumor", "acromelanosis", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "Moynahan syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "peripheral nerve schwannoma", "trigeminal schwannoma"]
 ---
 
 # Selumetinib

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Exemestane: indikasi baharu diramal Amenorea (ramalan kedudukan #2 (tahap bukti L5). Indikasi asal: Tiada data pendaftaran tempatan (tiada lesen direkodkan)"
+monitor_inn: "EXEMESTANE"
+predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Exemestane

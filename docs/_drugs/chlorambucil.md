@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Chlorambucil: indikasi baharu diramal CLL/SLL dengan hipermutasi somatik gen IGHV (tahap bukti L5). Indikasi asal: Limfoma Hodgkin, limfoma folikular…"
+monitor_inn: "CHLORAMBUCIL"
+predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "acute lymphoblastic leukemia (disease)", "small cell lung carcinoma"]
 ---
 
 # Chlorambucil

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Valsartan: indikasi baharu diramal Gangguan hipertensif (hypertensive disorder) (tahap bukti L5). Indikasi asal: Gangguan hipertensif / hipertensi (daripada graf pengetahuan TxGNN"
+monitor_inn: "Valsartan"
+predicted_indications: ["hypertensive disorder", "hypertension", "hypertensive disorder", "hypertension", "hypertensive disorder"]
 ---
 
 # Valsartan

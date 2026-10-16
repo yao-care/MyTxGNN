@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Fluconazole: indikasi baharu diramal Kandidiasis esofagus (tahap bukti L1). Indikasi asal: Kandidiasis oral, kandidiasis, kandidiasis vulvovaginal…"
+monitor_inn: "Fluconazole"
+predicted_indications: ["esophageal candidiasis", "vulvovaginal candidiasis", "oral candidiasis", "disseminated candidiasis", "candidemia"]
 ---
 
 # Fluconazole

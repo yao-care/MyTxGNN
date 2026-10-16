@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Clofazimine: indikasi baharu diramal Pneumocystosis (tahap bukti L5). Indikasi asal: Kusta, kusta multibasilari…"
+monitor_inn: "CLOFAZIMINE"
+predicted_indications: ["pneumocystosis", "malaria", "gastrin secretion abnormality"]
 ---
 
 # Clofazimine

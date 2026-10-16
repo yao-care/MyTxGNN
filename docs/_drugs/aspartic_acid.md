@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Aspartic Acid: indikasi baharu diramal Asidosis tubular renal (renal tubular acidosis) (tahap bukti L5). Indikasi asal: Kekurangan kalium (daripada graf pengetahuan TxGNN/PrimeKG"
+monitor_inn: "ASPARTIC ACID"
+predicted_indications: ["renal tubular acidosis"]
 ---
 
 # Aspartic Acid

@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cetuximab: indikasi baharu diramal Pre-malignant neoplasm (lesi pra-malignan) (tahap bukti L2). Indikasi asal: Neoplasma kolon malignan / kanser kolorektal / kanser sel skuamosa ke…"
+monitor_inn: "Cetuximab"
+predicted_indications: ["non-seminomatous lesion", "ductal or ductular proliferation", "bronchial adenomas/carcinoids childhood", "chondroid hamartoma", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "cystic neoplasm", "epiglottis neoplasm", "pre-malignant neoplasm"]
 ---
 
 # Cetuximab

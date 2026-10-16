@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Sennosides: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (tahap bukti L5). Indikasi asal: Tiada data pendaftaran tempatan (kelas: julap perangsang)"
+monitor_inn: "SENNOSIDES"
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia"]
 ---
 
 # Sennosides

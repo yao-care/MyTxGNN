@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Desogestrel: indikasi baharu diramal Penyakit fibrosistik payudara (breast fibrocystic disease) (tahap bukti L5). Indikasi asal: Tiada data lesen tempatan"
+monitor_inn: "Desogestrel"
+predicted_indications: ["breast fibrocystic disease", "amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia", "acne (disease)", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis"]
 ---
 
 # Desogestrel

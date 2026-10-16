@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Sulodexide: indikasi baharu diramal Glanzmann thrombasthenia (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA)"
+monitor_inn: "SULODEXIDE"
+predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease"]
 ---
 
 # Sulodexide

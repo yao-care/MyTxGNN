@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Potassium Acetate: indikasi baharu diramal Asidosis tubulus renal (tahap bukti L5). Indikasi asal: Penyakit kekurangan kalium"
+monitor_inn: "POTASSIUM ACETATE"
+predicted_indications: ["renal tubular acidosis"]
 ---
 
 # Potassium Acetate

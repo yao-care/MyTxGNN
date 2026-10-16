@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Erythromycin: indikasi baharu diramal Jerawat (acne) (tahap bukti L3). Indikasi asal: Jerawat, jangkitan telinga tengah…"
+monitor_inn: "Erythromycin"
+predicted_indications: ["acne", "pneumonia caused by chlamydia", "listeriosis", "acute gonococcal endometritis", "infectious otitis media"]
 ---
 
 # Erythromycin

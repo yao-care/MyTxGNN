@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Ciprofloxacin: indikasi baharu diramal Demam paratifoid (tahap bukti L3). Indikasi asal: Demam tifoid, salmonelosis, disentri…"
+monitor_inn: "Ciprofloxacin"
+predicted_indications: ["paratyphoid fever", "diarrheal disease", "acute contagious conjunctivitis", "escherichia coli infection", "malignant otitis externa caused by Pseudomonas aeruginosa"]
 ---
 
 # Ciprofloxacin

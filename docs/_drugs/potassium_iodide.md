@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Potassium Iodide: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L4). Indikasi asal: Rinitis alergik, rinitis vasomotor, faringitis, selesema biasa…"
+monitor_inn: "POTASSIUM IODIDE"
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
 ---
 
 # Potassium Iodide

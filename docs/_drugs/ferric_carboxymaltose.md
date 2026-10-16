@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Ferric Carboxymaltose: indikasi baharu diramal Bronkitis (tahap bukti L5). Indikasi asal: Tiada data indikasi kelulusan tempatan"
+monitor_inn: "FERRIC CARBOXYMALTOSE"
+predicted_indications: ["bronchitis"]
 ---
 
 # Ferric Carboxymaltose

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Calcium Citrate: indikasi baharu diramal Hemoglobinopati (tahap bukti L5). Indikasi asal: Tiada indikasi diluluskan direkodkan dalam data yang dikompilasi (kal…"
+monitor_inn: "CALCIUM CITRATE"
+predicted_indications: ["hemoglobinopathy", "myocardial infarction", "partial deletion of the short arm of chromosome 16", "thrombotic disease"]
 ---
 
 # Calcium Citrate

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nonivamide: indikasi baharu diramal Hipertensi pulmonari (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA yang direkodkan)"
+monitor_inn: "Nonivamide"
+predicted_indications: ["pulmonary hypertension", "peripheral arterial disease", "acute lymphoblastic leukemia (disease)", "kyphoscoliotic heart disease", "peripheral vascular disease", "ventricular tachycardia", "anaphylaxis", "migraine disorder", "catecholaminergic polymorphic ventricular tachycardia", "intermittent vascular claudication"]
 ---
 
 # Nonivamide

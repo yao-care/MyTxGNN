@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Telmisartan: indikasi baharu diramal Gangguan strok (stroke disorder) (tahap bukti L1). Indikasi asal: Hipertensi / gangguan hipertensi, strok, gangguan serebrovaskular…"
+monitor_inn: "Telmisartan"
+predicted_indications: ["stroke disorder", "obsolete susceptibility to ischemic stroke", "hypertension", "cerebrovascular disorder", "hypertensive disorder"]
 ---
 
 # Telmisartan

@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Indomethacin: indikasi baharu diramal Artritis reumatoid (tahap bukti L3). Indikasi asal: Tiada data indikasi berdaftar"
+monitor_inn: "Indomethacin"
+predicted_indications: ["rheumatoid arthritis", "osteoarthritis susceptibility", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "osteoarthritis", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "spondyloarthropathy, susceptibility to", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia"]
 ---
 
 # Indomethacin

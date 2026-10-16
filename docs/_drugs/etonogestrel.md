@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Etonogestrel: indikasi baharu diramal Amenorea (amenorrhea) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
+monitor_inn: "ETONOGESTREL"
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia"]
 ---
 
 # Etonogestrel

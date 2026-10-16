@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Ritonavir: indikasi baharu diramal Sindrom imunodefisiensi didapati feline (feline acquired immunodefici… (tahap bukti L5). Indikasi asal: Jangkitan virus hepatitis C kronik, jangkitan HIV, AIDS"
+monitor_inn: "RITONAVIR"
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Ritonavir

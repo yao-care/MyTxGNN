@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Carbamazepine: indikasi baharu diramal Epilepsi dengan sawan tonik-klonik umum (tahap bukti L1). Indikasi asal: Epilepsi, sawan separa, gangguan bipolar manik, neuralgia trigeminal…"
+monitor_inn: "Carbamazepine"
+predicted_indications: ["epilepsy with generalized tonic-clonic seizures", "epilepsy", "cutis verticis gyrata", "glossopharyngeal neuralgia", "glossopharyngeal motor neuropathy"]
 ---
 
 # Carbamazepine

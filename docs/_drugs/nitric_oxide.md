@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nitric Oxide: indikasi baharu diramal Sindrom malformasi dengan komponen gigi dan/atau periodontium (tahap bukti L5). Indikasi asal: Hipertensi pulmonari (juga displasia kapilari alveolar kongenital …"
+monitor_inn: "NITRIC OXIDE"
+predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with connective tissue disease", "pulmonary arterial hypertension associated with HIV infection"]
 ---
 
 # Nitric Oxide

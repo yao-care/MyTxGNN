@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Amphotericin B: indikasi baharu diramal Kandidiasis esofagus (tahap bukti L5). Indikasi asal: Kandidiasis (antara lain kandidiasis kulit, mulut dan esofagus)…"
+monitor_inn: "Amphotericin B"
+predicted_indications: ["esophageal candidiasis", "acne", "ornithosis", "disseminated candidiasis", "Actinomycetales infectious disease"]
 ---
 
 # Amphotericin B

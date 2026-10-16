@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Iopromide: indikasi baharu diramal Osteoarthritis susceptibility (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan tempatan (digunakan sebagai agen kontr…"
+monitor_inn: "IOPROMIDE"
+predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheumatoid arthritis", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "alopecia", "myosclerosis", "hemoglobinopathy", "pseudoachondroplasia"]
 ---
 
 # Iopromide

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Benzocaine: indikasi baharu diramal Konjunktivitis papilari (tahap bukti L5). Indikasi asal: Tinea pedis, dermatitis, faringitis, tinea korporis…"
+monitor_inn: "BENZOCAINE"
+predicted_indications: ["papillary conjunctivitis"]
 ---
 
 # Benzocaine

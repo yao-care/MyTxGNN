@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Insulin Degludec: indikasi baharu diramal Diabetes mellitus jenis 1 (tahap bukti L1). Indikasi asal: Diabetes mellitus"
+monitor_inn: "INSULIN DEGLUDEC"
+predicted_indications: ["type 1 diabetes mellitus", "autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome"]
 ---
 
 # Insulin Degludec

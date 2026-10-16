@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Clozapine: indikasi baharu diramal Gangguan afektif bipolar jenis manik (tahap bukti L2). Indikasi asal: Tiada data dalam rekod pendaftaran"
+monitor_inn: "CLOZAPINE"
+predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "psychotic disorder", "Malan overgrowth syndrome"]
 ---
 
 # Clozapine

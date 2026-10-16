@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Spironolactone: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (tahap bukti L5). Indikasi asal: Hipertensi, kegagalan jantung kongestif, hiperaldosteronisme…"
+monitor_inn: "SPIRONOLACTONE"
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 ---
 
 # Spironolactone

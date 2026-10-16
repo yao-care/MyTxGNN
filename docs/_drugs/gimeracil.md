@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Gimeracil: indikasi baharu diramal Karsinoma gastrik (tahap bukti L1). Indikasi asal: Tiada data penunjuk berdaftar di Malaysia (tiada lesen NPRA)"
+monitor_inn: "Gimeracil"
+predicted_indications: ["gastric carcinoma", "colonic neoplasm", "diffuse gastric adenocarcinoma", "gastric cancer", "cecum villous adenoma", "malignant gastric granular cell tumor", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "cardia cancer"]
 ---
 
 # Gimeracil

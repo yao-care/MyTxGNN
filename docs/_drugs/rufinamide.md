@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Rufinamide: indikasi baharu diramal Febrile infection-related epilepsy syndrome (FIRES) (tahap bukti L5). Indikasi asal: Sindrom Lennox-Gastaut (menurut graf pengetahuan TxGNN/PrimeKG"
+monitor_inn: "RUFINAMIDE"
+predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "atypical childhood epilepsy with centrotemporal spikes", "cryptogenic late-onset epileptic spasms", "photosensitive occipital lobe epilepsy"]
 ---
 
 # Rufinamide

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Zinc Gluconate: indikasi baharu diramal Anemia pramatang (anemia of prematurity) (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan dalam data yang disusun"
+monitor_inn: "Zinc gluconate"
+predicted_indications: ["anemia of prematurity", "injury", "cell proliferation disorder", "segmental odontomaxillary dysplasia", "florid cemento-osseous dysplasia", "perinatal disease", "radiation or chemically induced disorder", "disease by subcellular system affected", "iatrogenic disease", "regional odontodysplasia"]
 ---
 
 # Zinc Gluconate

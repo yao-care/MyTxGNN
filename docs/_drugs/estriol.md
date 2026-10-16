@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Estriol: indikasi baharu diramal Amenorea (tahap bukti L3). Indikasi asal: Tiada data pelesenan tempatan. Rujukan farmakologi menyebut penggunaa…"
+monitor_inn: "ESTRIOL"
+predicted_indications: ["amenorrhea (disease)"]
 ---
 
 # Estriol

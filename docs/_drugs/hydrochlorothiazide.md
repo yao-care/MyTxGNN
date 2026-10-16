@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Hydrochlorothiazide: indikasi baharu diramal Hypertensive disorder (kedudukan 1) (tahap bukti L1). Indikasi asal: Hypertensive disorder, hypertension, congestive heart failure"
+monitor_inn: "Hydrochlorothiazide"
+predicted_indications: ["hypertensive disorder", "hypertension", "congestive heart failure", "hypertensive disorder", "hypertension"]
 ---
 
 # Hydrochlorothiazide

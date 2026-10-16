@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Fluticasone Propionate: indikasi baharu diramal Neurodermatitis (tahap bukti L5). Indikasi asal: Ekzema atopik / dermatitis atopik (berdasarkan graf pengetahuan TxGNN"
+monitor_inn: "Fluticasone Propionate"
+predicted_indications: ["neurodermatitis", "exanthem", "granuloma annulare", "atopic eczema", "discoid lupus erythematosus"]
 ---
 
 # Fluticasone Propionate

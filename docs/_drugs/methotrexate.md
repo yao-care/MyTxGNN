@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Methotrexate: indikasi baharu diramal Neoplasma saluran aerodigestif atas (tahap bukti L3). Indikasi asal: Leukemia limfoblastik akut, artritis reumatoid, psoriasis…"
+monitor_inn: "Methotrexate"
+predicted_indications: ["upper aerodigestive tract neoplasm", "non-Hodgkin lymphoma", "lymphosarcoma", "localized pagetoid reticulosis", "lymphoma"]
 ---
 
 # Methotrexate

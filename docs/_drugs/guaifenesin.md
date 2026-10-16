@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Guaifenesin: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L4). Indikasi asal: Rinitis alergi, rinitis vasomotor, faringitis, selsema biasa, rinitis…"
+monitor_inn: "GUAIFENESIN"
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
 ---
 
 # Guaifenesin

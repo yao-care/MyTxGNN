@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Bromazepam: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
+monitor_inn: "BROMAZEPAM"
+predicted_indications: ["migraine disorder"]
 ---
 
 # Bromazepam

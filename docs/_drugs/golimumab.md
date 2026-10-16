@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Golimumab: indikasi baharu diramal Vaskulitis reumatoid (tahap bukti L4). Indikasi asal: Artritis reumatoid, artritis psoriatik, spondilitis ankilosis…"
+monitor_inn: "GOLIMUMAB"
+predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis"]
 ---
 
 # Golimumab

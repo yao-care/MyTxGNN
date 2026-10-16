@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Guselkumab: indikasi baharu diramal Kolitis ulseratif (kedudukan ke-6 dalam senarai ramalan) (tahap bukti L1). Indikasi asal: Tiada data pelesenan tempatan (psoriasis ialah indikasi mantap dalam…"
+monitor_inn: "Guselkumab"
+predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "psoriasis", "diabetic retinopathy", "renal osteodystrophy", "ulcerative colitis (disease)", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
 ---
 
 # Guselkumab

@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Teriflunomide: indikasi baharu diramal Relapsing-remitting multiple sclerosis (tahap bukti L1). Indikasi asal: Multiple sclerosis (berdasarkan graf pengetahuan TxGNN"
+monitor_inn: "TERIFLUNOMIDE"
+predicted_indications: ["relapsing-remitting multiple sclerosis"]
 ---
 
 # Teriflunomide

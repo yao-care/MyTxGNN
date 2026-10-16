@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Citric Acid: indikasi baharu diramal Penyakit perut (stomach disease) (tahap bukti L4). Indikasi asal: Dispepsia"
+monitor_inn: "CITRIC ACID"
+predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
 ---
 
 # Citric Acid

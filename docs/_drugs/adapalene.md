@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Adapalene: indikasi baharu diramal Zink plasma meningkat (zinc, elevated plasma) (tahap bukti L5). Indikasi asal: Jerawat (acne)"
+monitor_inn: "ADAPALENE"
+predicted_indications: ["zinc, elevated plasma"]
 ---
 
 # Adapalene

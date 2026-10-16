@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Cinchocaine: indikasi baharu diramal Bronkitis (tahap bukti L5). Indikasi asal: Dermatitis"
+monitor_inn: "CINCHOCAINE"
+predicted_indications: ["bronchitis", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis"]
 ---
 
 # Cinchocaine

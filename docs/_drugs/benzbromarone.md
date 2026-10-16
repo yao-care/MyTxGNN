@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Benzbromarone: indikasi baharu diramal Hipourisemia renal (tahap bukti L5). Indikasi asal: Gout"
+monitor_inn: "BENZBROMARONE"
+predicted_indications: ["hypouricemia, renal"]
 ---
 
 # Benzbromarone

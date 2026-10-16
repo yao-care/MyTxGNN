@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Propofol: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L2). Indikasi asal: Tiada data indikasi berdaftar tempatan"
+monitor_inn: "PROPOFOL"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
 ---
 
 # Propofol

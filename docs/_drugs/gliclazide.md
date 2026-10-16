@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Gliclazide: indikasi baharu diramal Diabetes mellitus jenis 2 (kedudukan 1) (tahap bukti L1). Indikasi asal: Diabetes mellitus jenis 2 (daripada graf pengetahuan PrimeKG"
+monitor_inn: "Gliclazide"
+predicted_indications: ["type 2 diabetes mellitus", "diabetes mellitus", "type 2 diabetes mellitus", "diabetes mellitus", "type 2 diabetes mellitus"]
 ---
 
 # Gliclazide

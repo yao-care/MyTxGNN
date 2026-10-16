@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Imiglucerase: indikasi baharu diramal Sindrom Hurler (tahap bukti L4). Indikasi asal: Penyakit Gaucher"
+monitor_inn: "IMIGLUCERASE"
+predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
 ---
 
 # Imiglucerase

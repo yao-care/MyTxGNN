@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Dutasteride: indikasi baharu diramal Hipertrikosis universalis kongenita jenis Ambras (tahap bukti L5). Indikasi asal: Hiperplasia prostat benigna (BPH)"
+monitor_inn: "DUTASTERIDE"
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
 ---
 
 # Dutasteride

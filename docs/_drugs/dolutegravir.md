@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Dolutegravir: indikasi baharu diramal Jangkitan virus kurang daya tahan simian (SIV) (tahap bukti L4). Indikasi asal: Jangkitan HIV, AIDS"
+monitor_inn: "DOLUTEGRAVIR"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Dolutegravir

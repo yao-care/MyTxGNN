@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Brinzolamide: indikasi baharu diramal Glaukoma keturunan primer (primary hereditary glaucoma) (tahap bukti L5). Indikasi asal: Glaukoma sudut terbuka, hipertensi okular"
+monitor_inn: "BRINZOLAMIDE"
+predicted_indications: ["primary hereditary glaucoma"]
 ---
 
 # Brinzolamide

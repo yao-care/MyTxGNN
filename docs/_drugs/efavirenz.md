@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Efavirenz: indikasi baharu diramal Feline acquired immunodeficiency syndrome (sindrom kekurangan imun ku… (tahap bukti L4). Indikasi asal: Jangkitan HIV, AIDS"
+monitor_inn: "EFAVIRENZ"
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Efavirenz

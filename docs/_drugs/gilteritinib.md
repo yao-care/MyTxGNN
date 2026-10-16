@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Gilteritinib: indikasi baharu diramal Polio bulbar (tahap bukti L5). Indikasi asal: Leukemia mieloid akut (AML) dan subjenisnya (berdasarkan graf pengeta…"
+monitor_inn: "GILTERITINIB"
+predicted_indications: ["bulbar polio"]
 ---
 
 # Gilteritinib

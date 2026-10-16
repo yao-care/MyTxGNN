@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Piroxicam: indikasi baharu diramal Kerentanan osteoartritis (osteoarthritis susceptibility) (tahap bukti L4). Indikasi asal: Tiada maklumat indikasi berdaftar dalam data (kelas NSAID)"
+monitor_inn: "Piroxicam"
+predicted_indications: ["osteoarthritis susceptibility", "rheumatoid arthritis", "osteoarthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "arthropathy"]
 ---
 
 # Piroxicam

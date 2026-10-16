@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Topotecan: indikasi baharu diramal Karsinoma payudara wanita (tahap bukti L3). Indikasi asal: Tiada data indikasi berdaftar"
+monitor_inn: "Topotecan"
+predicted_indications: ["female breast carcinoma", "primary non-gestational choriocarcinoma of ovary", "ovarian clear cell adenocarcinoma", "hereditary breast ovarian cancer syndrome", "yolk sac tumor", "ovarian mucinous adenocarcinoma", "maligant granulosa cell tumor of ovary", "adult germ cell tumor", "ovarian endometrioid adenocarcinoma", "malignant non-dysgerminomatous germ cell tumor of ovary"]
 ---
 
 # Topotecan

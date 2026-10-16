@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Itraconazole: indikasi baharu diramal Pneumocystosis (tahap bukti L5). Indikasi asal: Jangkitan kulat (kandidiasis esofagus, kandidemia, histoplasmosis…"
+monitor_inn: "ITRACONAZOLE"
+predicted_indications: ["pneumocystosis"]
 ---
 
 # Itraconazole

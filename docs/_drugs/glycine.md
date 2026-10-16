@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Glycine: indikasi baharu diramal Faringitis (tahap bukti L5). Indikasi asal: Rinitis alergi, rinitis vasomotor, faringitis, selsema biasa, rinitis…"
+monitor_inn: "Glycine"
+predicted_indications: ["pharyngitis", "rhinitis", "vasomotor rhinitis", "common cold", "nasopharyngitis"]
 ---
 
 # Glycine

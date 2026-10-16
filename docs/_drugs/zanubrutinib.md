@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Zanubrutinib: indikasi baharu diramal Leukemia mieloid (tahap bukti L5). Indikasi asal: Limfoma sel mantel, neoplasma sel B, limfosarkoma"
+monitor_inn: "ZANUBRUTINIB"
+predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
 ---
 
 # Zanubrutinib

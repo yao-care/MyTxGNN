@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Emicizumab: indikasi baharu diramal Penyakit pseudo-von Willebrand (tahap bukti L5). Indikasi asal: Hemofilia (daripada graf pengetahuan TxGNN)"
+monitor_inn: "EMICIZUMAB"
+predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "thrombotic thrombocytopenic purpura", "fetal and neonatal alloimmune thrombocytopenia", "flood factor deficiency"]
 ---
 
 # Emicizumab

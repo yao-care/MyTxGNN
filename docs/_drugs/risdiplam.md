@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Risdiplam: indikasi baharu diramal Jerawat (acne) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar tempatan"
+monitor_inn: "RISDIPLAM"
+predicted_indications: ["acne (disease)"]
 ---
 
 # Risdiplam

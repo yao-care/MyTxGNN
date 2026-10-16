@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Zinc Oxide: indikasi baharu diramal Dermatitis (tahap bukti L2). Indikasi asal: Tinea pedis, ruam (exanthem), dermatitis, tinea corporis…"
+monitor_inn: "Zinc Oxide"
+predicted_indications: ["dermatitis", "proctitis", "exanthem", "tinea pedis", "cutaneous candidiasis"]
 ---
 
 # Zinc Oxide

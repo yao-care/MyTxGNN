@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Tranexamic Acid: indikasi baharu diramal Amenorea (tahap bukti L4). Indikasi asal: Endometriosis (endometriosis uterus) (berdasarkan graf pengetahuan Tx…"
+monitor_inn: "TRANEXAMIC ACID"
+predicted_indications: ["amenorrhea (disease)"]
 ---
 
 # Tranexamic Acid

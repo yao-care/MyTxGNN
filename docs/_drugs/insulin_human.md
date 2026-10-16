@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Insulin Human: indikasi baharu diramal Ketoasidosis diabetes (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2"
+monitor_inn: "Insulin Human"
+predicted_indications: ["diabetic ketoacidosis", "type 2 diabetes mellitus", "type 1 diabetes mellitus", "diabetes mellitus", "IDDM 1"]
 ---
 
 # Insulin Human

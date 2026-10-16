@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Carboprost Tromethamine: indikasi baharu diramal Koarktasio aorta atipikal (atypical coarctation of aorta) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
+monitor_inn: "Carboprost tromethamine"
+predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "migraine with brainstem aura", "migraine disorder", "pulmonary hypertension", "non-syndromic esophageal malformation", "kyphoscoliotic heart disease", "amenorrhea (disease)", "esophageal disease", "primary hereditary glaucoma"]
 ---
 
 # Carboprost Tromethamine

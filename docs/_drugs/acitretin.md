@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Acitretin: indikasi baharu diramal Jerawat (acne) (tahap bukti L3). Indikasi asal: Tiada data indikasi yang diluluskan dalam data yang dikumpulkan"
+monitor_inn: "ACITRETIN"
+predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
 ---
 
 # Acitretin

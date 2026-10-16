@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Urofollitropin: indikasi baharu diramal Migraine disorder (migrain) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar di Malaysia (secara umum ialah sediaan…"
+monitor_inn: "UROFOLLITROPIN"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "migraine with or without aura, susceptibility to", "Raynaud disease"]
 ---
 
 # Urofollitropin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Zanamivir: indikasi baharu diramal Pyelonephritis (tahap bukti L5). Indikasi asal: Influenza"
+monitor_inn: "ZANAMIVIR"
+predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
 ---
 
 # Zanamivir

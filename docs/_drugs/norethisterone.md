@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Norethisterone: indikasi baharu diramal Amenorea (tahap bukti L5). Indikasi asal: Endometriosis, kegagalan ovari primer, osteoporosis pascamenopaus…"
+monitor_inn: "NORETHISTERONE"
+predicted_indications: ["amenorrhea (disease)"]
 ---
 
 # Norethisterone

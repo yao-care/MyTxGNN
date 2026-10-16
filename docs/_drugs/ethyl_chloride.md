@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ethyl Chloride: indikasi baharu diramal Katarak kraniostenosis (craniostenosis cataract) (tahap bukti L5). Indikasi asal: Tidak tersedia (tiada lesen berdaftar di Malaysia)"
+monitor_inn: "Ethyl chloride"
+predicted_indications: ["craniostenosis cataract", "tetanic cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "immature cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic cataract", "acne (disease)"]
 ---
 
 # Ethyl Chloride

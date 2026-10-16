@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Dacarbazine: indikasi baharu diramal Neoplasma saluran aerodigestif atas (upper aerodigestive tract neopla… (tahap bukti L4). Indikasi asal: Melanoma metastatik"
+monitor_inn: "DACARBAZINE"
+predicted_indications: ["upper aerodigestive tract neoplasm"]
 ---
 
 # Dacarbazine

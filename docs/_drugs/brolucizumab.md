@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Brolucizumab: indikasi baharu diramal Gangguan fosforilasi oksidatif mitokondria akibat anomali DNA nuklear (tahap bukti L5). Indikasi asal: Degenerasi makula"
+monitor_inn: "BROLUCIZUMAB"
+predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices without bleeding", "esophageal varices with bleeding", "exocrine pancreatic insufficiency"]
 ---
 
 # Brolucizumab

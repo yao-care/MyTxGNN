@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Oxaliplatin: indikasi baharu diramal Mesotelioma pleura malignan (tahap bukti L2). Indikasi asal: Metastasis daripada tumor malignan kolon"
+monitor_inn: "OXALIPLATIN"
+predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 ---
 
 # Oxaliplatin

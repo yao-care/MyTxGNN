@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Propylene Glycol: indikasi baharu diramal Bronkitis (tahap bukti L4). Indikasi asal: Sindrom mata kering, xerophthalmia"
+monitor_inn: "PROPYLENE GLYCOL"
+predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic cataract", "craniostenosis cataract", "tetanic cataract", "mature cataract"]
 ---
 
 # Propylene Glycol

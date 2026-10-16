@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Palbociclib: indikasi baharu diramal Artritis reumatoid (peringkat 2 (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen berdaftar di Malaysia)"
+monitor_inn: "PALBOCICLIB"
+predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
 ---
 
 # Palbociclib

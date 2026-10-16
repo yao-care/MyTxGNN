@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Diclofenac: indikasi baharu diramal Osteoartritis (osteoarthritis) (tahap bukti L1). Indikasi asal: Tiada data indikasi asal dalam data yang dikumpulkan"
+monitor_inn: "Diclofenac"
+predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "arthropathy", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis"]
 ---
 
 # Diclofenac

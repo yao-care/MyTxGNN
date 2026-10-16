@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Norfloxacin: indikasi baharu diramal Demam paratifoid (tahap bukti L5). Indikasi asal: Demam kepialu, salmonelosis, jangkitan saluran kencing, disentri…"
+monitor_inn: "Norfloxacin"
+predicted_indications: ["paratyphoid fever", "diarrheal disease", "pneumonia caused by chlamydia", "acute contagious conjunctivitis", "endomyometritis"]
 ---
 
 # Norfloxacin

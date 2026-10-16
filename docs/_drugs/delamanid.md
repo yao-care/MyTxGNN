@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Delamanid: indikasi baharu diramal Tuberkulosis bovin (tuberculosis, bovine) (tahap bukti L4). Indikasi asal: Tuberkulosis rintang pelbagai ubat (MDR-TB)"
+monitor_inn: "DELAMANID"
+predicted_indications: ["tuberculosis, bovine", "tuberculosis, avian", "tuberculoma", "tuberculous ascites", "inactive tuberculosis", "allergic urticaria", "cutaneous tuberculosis"]
 ---
 
 # Delamanid

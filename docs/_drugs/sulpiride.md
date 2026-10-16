@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Sulpiride: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (tahap bukti L4). Indikasi asal: Skizofrenia"
+monitor_inn: "SULPIRIDE"
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "syndromic myopia", "atypical glycine encephalopathy"]
 ---
 
 # Sulpiride

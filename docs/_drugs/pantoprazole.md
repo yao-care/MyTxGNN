@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Pantoprazole: indikasi baharu diramal Penyakit ulser peptik aktif (tahap bukti L5). Indikasi asal: Penyakit ulser peptik, penyakit refluks gastroesofagus, esofagitis…"
+monitor_inn: "PANTOPRAZOLE"
+predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "duodenogastric reflux", "duodenal obstruction", "duodenal ulcer (disease)"]
 ---
 
 # Pantoprazole

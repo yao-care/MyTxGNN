@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Calcipotriol: indikasi baharu diramal Keratosis seborea (seborrheic keratosis) (tahap bukti L3). Indikasi asal: Tiada data pendaftaran tempatan"
+monitor_inn: "CALCIPOTRIOL"
+predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]
 ---
 
 # Calcipotriol

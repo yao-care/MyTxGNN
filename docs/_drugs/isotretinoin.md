@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Isotretinoin: indikasi baharu diramal Penyakit renal hipertensi malignan (tahap bukti L5). Indikasi asal: Gangguan hipertensi / hipertensi (daripada graf pengetahuan TxGNN"
+monitor_inn: "ISOTRETINOIN"
+predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension"]
 ---
 
 # Isotretinoin

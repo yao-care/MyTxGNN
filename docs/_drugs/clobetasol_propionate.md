@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Clobetasol Propionate: indikasi baharu diramal Dermatitis (tahap bukti L1). Indikasi asal: Ekzema atopik, dermatitis atopik, dermatitis sentuh…"
+monitor_inn: "Clobetasol Propionate"
+predicted_indications: ["dermatitis", "seborrheic keratosis", "scalp dermatosis", "dermatitis, atopic", "seborrheic dermatitis"]
 ---
 
 # Clobetasol Propionate

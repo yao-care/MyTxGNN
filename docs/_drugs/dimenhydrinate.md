@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Dimenhydrinate: indikasi baharu diramal Urtikaria alergik (allergic urticaria) (tahap bukti L4). Indikasi asal: Vertigo berpunca daripada sistem saraf pusat"
+monitor_inn: "DIMENHYDRINATE"
+predicted_indications: ["allergic urticaria", "cold urticaria"]
 ---
 
 # Dimenhydrinate

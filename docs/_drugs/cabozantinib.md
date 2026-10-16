@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cabozantinib: indikasi baharu diramal Liposarkoma (tahap bukti L3). Indikasi asal: Tiada rekod dalam data yang dikumpulkan"
+monitor_inn: "Cabozantinib"
+predicted_indications: ["liposarcoma", "clear cell renal carcinoma", "ovarian myxoid liposarcoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "childhood kidney cell carcinoma", "renal carcinoma", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria"]
 ---
 
 # Cabozantinib

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Ursodeoxycholic Acid: indikasi baharu diramal Hiperkolesterolemia familial homozigot (tahap bukti L5). Indikasi asal: Kolelitiasis, kolesistolitiasis, koledokolitiasis…"
+monitor_inn: "URSODEOXYCHOLIC ACID"
+predicted_indications: ["homozygous familial hypercholesterolemia"]
 ---
 
 # Ursodeoxycholic Acid

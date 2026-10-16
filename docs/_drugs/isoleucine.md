@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Isoleucine: indikasi baharu diramal Gastroparesis (tahap bukti L5). Indikasi asal: Tiada rekod indikasi diluluskan"
+monitor_inn: "ISOLEUCINE"
+predicted_indications: ["gastroparesis (disease)"]
 ---
 
 # Isoleucine

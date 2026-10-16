@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Fluticasone Furoate: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Indikasi asal: Asma, asma intrinsik, asma alergik, rinitis alergik, rinitis vasomotor"
+monitor_inn: "FLUTICASONE FUROATE"
+predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "asthma-related traits, susceptibility to", "occupational dermatitis", "phototoxic dermatitis"]
 ---
 
 # Fluticasone Furoate

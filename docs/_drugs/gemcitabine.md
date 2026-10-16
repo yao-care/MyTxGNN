@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Gemcitabine: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L1). Indikasi asal: Kanser ovari (berdasarkan graf pengetahuan TxGNN"
+monitor_inn: "Gemcitabine"
+predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "rete ovarii adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
 ---
 
 # Gemcitabine

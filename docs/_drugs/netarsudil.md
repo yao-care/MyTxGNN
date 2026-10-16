@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Netarsudil: indikasi baharu diramal Glaukoma keturunan primer (primary hereditary glaucoma) (tahap bukti L5). Indikasi asal: Glaukoma sudut terbuka, hipertensi okular"
+monitor_inn: "NETARSUDIL"
+predicted_indications: ["primary hereditary glaucoma", "glaucoma"]
 ---
 
 # Netarsudil

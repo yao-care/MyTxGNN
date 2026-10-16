@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ketoprofen: indikasi baharu diramal Osteoartritis (tahap bukti L1). Indikasi asal: Tiada data (tiada lesen NPRA direkodkan)"
+monitor_inn: "Ketoprofen"
+predicted_indications: ["osteoarthritis susceptibility", "rheumatoid arthritis", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "osteoarthritis", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "arthropathy"]
 ---
 
 # Ketoprofen

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Favipiravir: indikasi baharu diramal Sindrom hemofagositik berkaitan jangkitan (tahap bukti L4). Indikasi asal: Influenza"
+monitor_inn: "FAVIPIRAVIR"
+predicted_indications: ["hemophagocytic syndrome associated with an infection", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency"]
 ---
 
 # Favipiravir

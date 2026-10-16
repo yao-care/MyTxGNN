@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Polyethylene Glycol: indikasi baharu diramal Eritroderma iktiosiform kongenital (congenital ichthyosiform erythrod… (tahap bukti L5). Indikasi asal: Sembelit, sindrom mata kering…"
+monitor_inn: "POLYETHYLENE GLYCOL"
+predicted_indications: ["congenital ichthyosiform erythroderma"]
 ---
 
 # Polyethylene Glycol

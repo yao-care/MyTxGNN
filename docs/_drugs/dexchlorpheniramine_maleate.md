@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Dexchlorpheniramine Maleate: indikasi baharu diramal Porfiria intermiten akut (acute intermittent porphyria) (tahap bukti L5). Indikasi asal: Tiada data indikasi yang diluluskan"
+monitor_inn: "DEXCHLORPHENIRAMINE MALEATE"
+predicted_indications: ["acute intermittent porphyria"]
 ---
 
 # Dexchlorpheniramine Maleate

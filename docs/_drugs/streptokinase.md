@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Streptokinase: indikasi baharu diramal Infarksi miokardium (myocardial infarction) (tahap bukti L1). Indikasi asal: Tiada rekod indikasi diluluskan dalam data pendaftaran tempatan"
+monitor_inn: "Streptokinase"
+predicted_indications: ["myocardial infarction", "Prinzmetal angina", "hemoglobinopathy", "coronary thrombosis", "septal myocardial infarction", "posteroinferior myocardial infarction", "posterolateral myocardial infarction", "peripheral vascular disease", "peripheral arterial disease", "partial deletion of the short arm of chromosome 16"]
 ---
 
 # Streptokinase

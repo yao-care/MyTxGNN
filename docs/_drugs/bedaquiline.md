@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bedaquiline: indikasi baharu diramal Tuberkulosis rintang pelbagai ubat (MDR-TB) (tahap bukti L1). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
+monitor_inn: "Bedaquiline"
+predicted_indications: ["multidrug-resistant tuberculosis", "tuberculosis, bovine", "tuberculosis, avian", "tuberculous ascites", "inactive tuberculosis", "tuberculoma", "vulvovaginal candidiasis", "fascioliasis", "urea cycle disorder", "cutaneous tuberculosis"]
 ---
 
 # Bedaquiline

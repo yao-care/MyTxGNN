@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Peppermint Oil: indikasi baharu diramal Penyakit kardiovaskular (cardiovascular disease) (tahap bukti L4). Indikasi asal: Tiada data (tiada lesen berdaftar)"
+monitor_inn: "Peppermint oil"
+predicted_indications: ["leprosy", "pneumocystosis", "coronary artery disease", "myocardial ischemia", "echinococcus granulosus infectious disease", "polyp of vocal cord", "uterine polyp", "polyp of middle ear", "cardiovascular disease", "polyp of frontal sinus"]
 ---
 
 # Peppermint Oil

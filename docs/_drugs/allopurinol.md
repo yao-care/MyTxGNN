@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Allopurinol: indikasi baharu diramal Porfiria hepatik (tahap bukti L4). Indikasi asal: Gout, hiperurisemia, nefropati urat akut"
+monitor_inn: "Allopurinol"
+predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
 ---
 
 # Allopurinol

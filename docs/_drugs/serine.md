@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Serine: indikasi baharu diramal Miopati visera familial (familial visceral myopathy) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
+monitor_inn: "Serine"
+predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "myopathic intestinal pseudoobstruction", "unclassified intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "angle-closure glaucoma", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "traumatic glaucoma", "aqueous misdirection"]
 ---
 
 # Serine

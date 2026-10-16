@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Folic Acid: indikasi baharu diramal Anemia mikrositik (tahap bukti L4). Indikasi asal: Gangguan kekurangan vitamin, anemia kekurangan asid folik…"
+monitor_inn: "Folic Acid"
+predicted_indications: ["microcytic anemia", "vitamin deficiency disorder", "deficiency anemia", "folic acid deficiency anemia", "iron deficiency anemia"]
 ---
 
 # Folic Acid

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Cycloserine: indikasi baharu diramal Sindrom usus besar terangsang (irritable bowel syndrome) (tahap bukti L5). Indikasi asal: Tuberkulosis pulmonari"
+monitor_inn: "CYCLOSERINE"
+predicted_indications: ["irritable bowel syndrome", "acne (disease)", "gastroparesis (disease)", "conjunctivitis", "insomnia (disease)", "pharyngitis", "nasal cavity disease"]
 ---
 
 # Cycloserine

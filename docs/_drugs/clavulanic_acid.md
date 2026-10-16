@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Clavulanic Acid: indikasi baharu diramal Pneumonia streptokokus (tahap bukti L4). Indikasi asal: Jangkitan saluran kencing"
+monitor_inn: "Clavulanic Acid"
+predicted_indications: ["streptococcal pneumonia", "staphylococcus aureus pneumonia", "urinary tract infection", "bacterial pneumonia", "escherichia coli infection"]
 ---
 
 # Clavulanic Acid

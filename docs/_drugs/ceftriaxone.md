@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Ceftriaxone: indikasi baharu diramal Sindrom hiperviskositi poliklonal (tahap bukti L5). Indikasi asal: Jangkitan streptokokus, pneumonia bakteria, meningitis bakteria…"
+monitor_inn: "CEFTRIAXONE"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "infectious otitis media", "blood group incompatibility", "suppurative otitis media", "chronic otitis media"]
 ---
 
 # Ceftriaxone

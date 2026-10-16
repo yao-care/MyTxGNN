@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pitavastatin: indikasi baharu diramal Hiperlipidemia gabungan familial (obsolete familial combined hyperlip… (tahap bukti L5). Indikasi asal: Tiada maklumat indikasi berdaftar tempatan"
+monitor_inn: "Pitavastatin"
+predicted_indications: ["obsolete familial combined hyperlipidemia", "homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "hyperlipidemia, familial combined, LPL related", "familial hypercholesterolemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia, autosomal dominant", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Pitavastatin

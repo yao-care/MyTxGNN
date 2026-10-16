@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Megestrol Acetate: indikasi baharu diramal Kanser endometrium (endometrial cancer) (tahap bukti L2). Indikasi asal: Tiada data"
+monitor_inn: "Megestrol acetate"
+predicted_indications: ["uterine corpus endometrial carcinoma", "endometrial transitional cell carcinoma", "endometrial cancer", "hereditary breast ovarian cancer syndrome", "borderline epithelial tumor of ovary", "uterine carcinosarcoma", "placenta cancer", "ovarian clear cell adenocarcinoma", "ovarian cancer", "uterine corpus cancer"]
 ---
 
 # Megestrol Acetate

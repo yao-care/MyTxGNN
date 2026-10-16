@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Methylprednisolone: indikasi baharu diramal Eritema multiforme (erythema multiforme) (tahap bukti L4). Indikasi asal: Penyakit autoimun, leukemia limfoblastik akut…"
+monitor_inn: "Methylprednisolone"
+predicted_indications: ["erythema multiforme", "lymphosarcoma", "disease of orbital region", "leukemia, lymphocytic, susceptibility to", "rheumatic heart disease"]
 ---
 
 # Methylprednisolone

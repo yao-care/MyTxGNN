@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Insulin Lispro: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2, diabetes mellitus jenis 1…"
+monitor_inn: "INSULIN LISPRO"
+predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 ---
 
 # Insulin Lispro

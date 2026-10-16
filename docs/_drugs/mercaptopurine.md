@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Mercaptopurine: indikasi baharu diramal Leukemia limfoblastik akut (tahap bukti L1). Indikasi asal: Tiada data (tiada lesen NPRA direkodkan)"
+monitor_inn: "Mercaptopurine"
+predicted_indications: ["acute lymphoblastic leukemia (disease)", "myeloid leukemia", "leukemia, lymphocytic, susceptibility to", "acute lymphoblastic/lymphocytic leukemia", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma"]
 ---
 
 # Mercaptopurine

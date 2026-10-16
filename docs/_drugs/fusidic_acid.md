@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Fusidic Acid: indikasi baharu diramal Ornitosis (psitakosis) (tahap bukti L4). Indikasi asal: Jangkitan saluran kencing, bronkitis, jerawat, folikulitis…"
+monitor_inn: "Fusidic Acid"
+predicted_indications: ["ornithosis", "superior limbic keratoconjunctivitis", "cholera", "gastrointestinal anthrax", "typhus"]
 ---
 
 # Fusidic Acid

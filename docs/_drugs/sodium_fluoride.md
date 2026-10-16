@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Sodium Fluoride: indikasi baharu diramal Epiglotitis (tahap bukti L5). Indikasi asal: Gangguan kekurangan vitamin (berdasarkan graf pengetahuan PrimeKG)"
+monitor_inn: "SODIUM FLUORIDE"
+predicted_indications: ["epiglottitis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "laryngitis"]
 ---
 
 # Sodium Fluoride

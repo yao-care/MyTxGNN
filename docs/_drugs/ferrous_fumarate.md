@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Ferrous Fumarate: indikasi baharu diramal Jerawat (acne) (tahap bukti L5). Indikasi asal: Anemia kekurangan zat besi (sumber: graf pengetahuan TxGNN/PrimeKG…"
+monitor_inn: "Ferrous Fumarate"
+predicted_indications: ["acne", "microcytic anemia", "deficiency anemia", "folic acid deficiency anemia", "anemia of prematurity"]
 ---
 
 # Ferrous Fumarate

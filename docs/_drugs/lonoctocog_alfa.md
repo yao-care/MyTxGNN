@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Lonoctocog Alfa: indikasi baharu diramal Pseudo-von Willebrand disease (penyakit von Willebrand jenis platelet) (tahap bukti L5). Indikasi asal: Hemofilia"
+monitor_inn: "LONOCTOCOG ALFA"
+predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome"]
 ---
 
 # Lonoctocog Alfa

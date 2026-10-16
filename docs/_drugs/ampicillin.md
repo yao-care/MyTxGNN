@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ampicillin: indikasi baharu diramal Laringitis (tahap bukti L4). Indikasi asal: Jangkitan bakteria (contohnya jangkitan saluran kencing…"
+monitor_inn: "AMPICILLIN"
+predicted_indications: ["laryngitis", "Ureaplasma urethritis", "gonococcal urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
 ---
 
 # Ampicillin

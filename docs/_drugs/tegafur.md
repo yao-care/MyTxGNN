@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tegafur: indikasi baharu diramal Neoplasma kolon (colonic neoplasm) (tahap bukti L1). Indikasi asal: Tiada data indikasi berdaftar"
+monitor_inn: "Tegafur"
+predicted_indications: ["colonic neoplasm", "gastric carcinoma", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "rectosigmoid junction neoplasm", "colonic lymphangioma"]
 ---
 
 # Tegafur

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Methionine: indikasi baharu diramal Jerawat (acne) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
+monitor_inn: "Methionine"
+predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "tetanic cataract", "nuclear senile cataract", "cortical cataract", "craniostenosis cataract", "immature cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "diabetic cataract"]
 ---
 
 # Methionine

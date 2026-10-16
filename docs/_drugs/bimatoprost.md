@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bimatoprost: indikasi baharu diramal Alopecia (ramalan teratas model: hipertrikosis… (tahap bukti L2). Indikasi asal: Tiada data indikasi berdaftar tempatan"
+monitor_inn: "Bimatoprost"
+predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia"]
 ---
 
 # Bimatoprost

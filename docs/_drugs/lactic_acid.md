@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Lactic Acid: indikasi baharu diramal Koarktasi aorta atipikal (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
+monitor_inn: "LACTIC ACID"
+predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "non-syndromic esophageal malformation", "amenorrhea (disease)", "dry eye syndrome"]
 ---
 
 # Lactic Acid

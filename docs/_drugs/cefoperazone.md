@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cefoperazone: indikasi baharu diramal Sclerosing cholangitis (ramalan teratas TxGNN) (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan dalam data yang dikumpulkan (tiada les…"
+monitor_inn: "Cefoperazone"
+predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "pneumonia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "gout", "bronchitis", "meningococcal infection", "infectious otitis media", "IgG4-related sclerosing cholangitis"]
 ---
 
 # Cefoperazone

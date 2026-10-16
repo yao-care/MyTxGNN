@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Diazepam: indikasi baharu diramal Insomnia (tahap bukti L4). Indikasi asal: Tiada data indikasi asal daripada rekod pelesenan"
+monitor_inn: "Diazepam"
+predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "alcohol withdrawal delirium", "sleep disorder, initiating and maintaining sleep", "anxiety", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "barbiturate abuse", "hallucinogen abuse", "specific developmental disorder"]
 ---
 
 # Diazepam

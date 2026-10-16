@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Ezetimibe: indikasi baharu diramal Sitosterolemia (tahap bukti L1). Indikasi asal: Hiperlipidemia (termasuk hiperlipidemia familial dan hiperkolesterole…"
+monitor_inn: "Ezetimibe"
+predicted_indications: ["sitosterolemia", "familial hyperlipidemia", "obsolete familial combined hyperlipidemia", "hyperlipidemia", "hyperlipidemia, familial combined, LPL related"]
 ---
 
 # Ezetimibe

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Aflibercept: indikasi baharu diramal Esotropia (tahap bukti L5). Indikasi asal: Metastasis daripada tumor malignan kolon"
+monitor_inn: "AFLIBERCEPT"
+predicted_indications: ["esotropia"]
 ---
 
 # Aflibercept

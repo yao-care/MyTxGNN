@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Orlistat: indikasi baharu diramal Hipervitaminosis (tahap bukti L5). Indikasi asal: Obesiti (obesity disorder)…"
+monitor_inn: "ORLISTAT"
+predicted_indications: ["hypervitaminosis"]
 ---
 
 # Orlistat

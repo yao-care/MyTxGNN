@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Clotrimazole: indikasi baharu diramal Pityriasis versicolor (tahap bukti L1). Indikasi asal: Tinea pedis, tinea corporis, kandidiasis kutaneus…"
+monitor_inn: "Clotrimazole"
+predicted_indications: ["pityriasis versicolor", "cutaneous candidiasis", "tinea pedis", "oral candidiasis", "vulvovaginal candidiasis"]
 ---
 
 # Clotrimazole

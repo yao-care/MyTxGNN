@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Mometasone Furoate: indikasi baharu diramal Neurodermatitis (tahap bukti L4). Indikasi asal: Dermatosis responsif kortikosteroid (contohnya ekzema atopik…"
+monitor_inn: "Mometasone Furoate"
+predicted_indications: ["neurodermatitis", "exanthem", "granuloma annulare", "atopic eczema", "asthma"]
 ---
 
 # Mometasone Furoate

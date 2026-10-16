@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vildagliptin: indikasi baharu diramal Sindrom anggota kaku fokal (focal stiff limb syndrome) (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2"
+monitor_inn: "VILDAGLIPTIN"
+predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis", "type 1 diabetes mellitus"]
 ---
 
 # Vildagliptin

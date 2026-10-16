@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Hydrocortisone Acetate: indikasi baharu diramal Hemoroid (tahap bukti L5). Indikasi asal: Penyakit autoimun, insufisiensi adrenokortikal, penyakit Crohn…"
+monitor_inn: "Hydrocortisone Acetate"
+predicted_indications: ["erythema multiforme", "hemorrhoid", "lymphosarcoma", "disease of orbital region", "leukemia, lymphocytic, susceptibility to"]
 ---
 
 # Hydrocortisone Acetate

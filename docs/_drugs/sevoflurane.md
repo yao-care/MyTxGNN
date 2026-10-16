@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sevoflurane: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar daripada NPRA (secara umum digunakan se…"
+monitor_inn: "SEVOFLURANE"
+predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "migraine disorder", "inclusion body myositis"]
 ---
 
 # Sevoflurane

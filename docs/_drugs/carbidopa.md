@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Carbidopa: indikasi baharu diramal Gangguan parkinsonian (tahap bukti L1). Indikasi asal: Penyakit Parkinson"
+monitor_inn: "Carbidopa"
+predicted_indications: ["parkinsonian disorder", "juvenile onset Parkinson disease 19A", "early-onset parkinsonism-intellectual disability syndrome", "Parkinson disease", "atypical juvenile parkinsonism"]
 ---
 
 # Carbidopa

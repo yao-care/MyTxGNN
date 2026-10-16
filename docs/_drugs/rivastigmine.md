@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Rivastigmine: indikasi baharu diramal Glaukoma (tahap bukti L4). Indikasi asal: Penyakit Alzheimer (juga disenaraikan: degenerasi serebelum…"
+monitor_inn: "RIVASTIGMINE"
+predicted_indications: ["glaucoma"]
 ---
 
 # Rivastigmine

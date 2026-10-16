@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Cholecalciferol: indikasi baharu diramal Osteodistrofi renal (tahap bukti L2). Indikasi asal: Osteoporosis, osteoporosis pascamenopaus, kekurangan vitamin D…"
+monitor_inn: "CHOLECALCIFEROL"
+predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hypophosphatemic rickets", "renal osteodystrophy", "renal tubular acidosis"]
 ---
 
 # Cholecalciferol

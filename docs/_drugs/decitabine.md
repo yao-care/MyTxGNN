@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Decitabine: indikasi baharu diramal AML dan sindrom mielodisplastik berkaitan terapi (tahap bukti L2). Indikasi asal: Leukemia mieloid / AML pelbagai subjenis"
+monitor_inn: "Decitabine"
+predicted_indications: ["therapy related acute myeloid leukemia and myelodysplastic syndrome", "acute myeloblastic leukemia with maturation", "acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor", "acute myeloid leukemia with minimal differentiation", "myeloid leukemia"]
 ---
 
 # Decitabine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Teriparatide: indikasi baharu diramal Ulser duodenum (tahap bukti L5). Indikasi asal: Osteoporosis pascamenopaus (osteoporosis)"
+monitor_inn: "TERIPARATIDE"
+predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "pregnancy associated osteoporosis", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
 ---
 
 # Teriparatide

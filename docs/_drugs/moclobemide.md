@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Moclobemide: indikasi baharu diramal Agorafobia (tahap bukti L5). Indikasi asal: Gangguan kebimbangan, gangguan neurotik…"
+monitor_inn: "MOCLOBEMIDE"
+predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
 ---
 
 # Moclobemide

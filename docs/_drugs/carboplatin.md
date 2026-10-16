@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Carboplatin: indikasi baharu diramal Karsinoma payudara wanita (tahap bukti L2). Indikasi asal: Tiada data"
+monitor_inn: "Carboplatin"
+predicted_indications: ["female breast carcinoma", "primary non-gestational choriocarcinoma of ovary", "hereditary breast ovarian cancer syndrome", "ovarian clear cell adenocarcinoma", "ovarian mucinous adenocarcinoma", "yolk sac tumor", "maligant granulosa cell tumor of ovary", "ovarian endometrioid adenocarcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma"]
 ---
 
 # Carboplatin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Isosorbide Mononitrate: indikasi baharu diramal Hipertrikosis (hypertrichosis) (tahap bukti L5). Indikasi asal: Tiada data indikasi asal daripada lesen NPRA"
+monitor_inn: "Isosorbide mononitrate"
+predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "alopecia", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pulmonary arterial hypertension"]
 ---
 
 # Isosorbide Mononitrate

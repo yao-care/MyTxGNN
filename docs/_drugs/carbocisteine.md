@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Carbocisteine: indikasi baharu diramal Gout (tahap bukti L5). Indikasi asal: Tiada data indikasi yang diluluskan daripada pendaftaran NPRA"
+monitor_inn: "CARBOCISTEINE"
+predicted_indications: ["gout"]
 ---
 
 # Carbocisteine

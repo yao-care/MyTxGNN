@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Inclisiran: indikasi baharu diramal Kekurangan kalium (potassium deficiency disease) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar tempatan (secara umum digunakan untuk m…"
+monitor_inn: "Inclisiran"
+predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
 ---
 
 # Inclisiran

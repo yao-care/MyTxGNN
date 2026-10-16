@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Uracil: indikasi baharu diramal Neoplasma kolon (colonic neoplasm) (tahap bukti L4). Indikasi asal: Tiada data (tiada lesen berdaftar dengan teks indikasi)"
+monitor_inn: "Uracil"
+predicted_indications: ["colonic neoplasm", "gastric carcinoma", "rectosigmoid junction neoplasm", "lipoma of colon", "colonic lymphangioma", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "cavernous hemangioma of colon", "cecal disease", "colon leiomyoma"]
 ---
 
 # Uracil

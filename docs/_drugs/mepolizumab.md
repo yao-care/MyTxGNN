@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Mepolizumab: indikasi baharu diramal Trombositopenia akibat pemusnahan imun (tahap bukti L4). Indikasi asal: Pneumonia eosinofilik"
+monitor_inn: "MEPOLIZUMAB"
+predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
 ---
 
 # Mepolizumab

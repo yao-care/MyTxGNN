@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tiotropium: indikasi baharu diramal Penyakit paru obstruktif (obstructive lung disease) (tahap bukti L1). Indikasi asal: Bronkitis, asma, asma intrinsik, asma alergi…"
+monitor_inn: "TIOTROPIUM"
+predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "COPD, severe early onset", "chronic obstructive pulmonary disease", "hyperlucent lung", "compensatory emphysema", "interstitial emphysema", "tracheal stenosis", "susceptibility to respiratory infections associated with CD8alpha chain mutation"]
 ---
 
 # Tiotropium

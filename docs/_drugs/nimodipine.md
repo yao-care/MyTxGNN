@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Nimodipine: indikasi baharu diramal Hiperkolesterolemia familial homozigot (tahap bukti L5). Indikasi asal: Perdarahan subaraknoid (termasuk perdarahan subaraknoid akibat aneuri…"
+monitor_inn: "NIMODIPINE"
+predicted_indications: ["homozygous familial hypercholesterolemia", "nephrogenic syndrome of inappropriate antidiuresis"]
 ---
 
 # Nimodipine

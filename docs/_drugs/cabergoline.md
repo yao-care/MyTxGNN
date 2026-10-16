@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Cabergoline: indikasi baharu diramal Kanser pituitari (pituitary cancer) (tahap bukti L1). Indikasi asal: Hiperprolaktinemia (termasuk hiperprolaktinemia familial…"
+monitor_inn: "CABERGOLINE"
+predicted_indications: ["pituitary adenocarcinoma (disease)", "progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
 ---
 
 # Cabergoline

@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Irbesartan: indikasi baharu diramal Gangguan hipertensi (hypertensive disorder) (tahap bukti L1). Indikasi asal: Gangguan hipertensi, hipertensi…"
+monitor_inn: "Irbesartan"
+predicted_indications: ["hypertensive disorder", "diabetic nephropathy", "hypertension", "hypertensive disorder", "diabetic nephropathy"]
 ---
 
 # Irbesartan

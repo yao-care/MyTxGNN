@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Atracurium Besylate: indikasi baharu diramal Preeklampsia (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan daripada lesen tempatan (kegunaan lazi…"
+monitor_inn: "Atracurium besylate"
+predicted_indications: ["preeclampsia", "cauda equina syndrome", "blepharospasm", "migraine disorder", "obsolete neurogenic bladder (disease)", "thrombotic disease", "migraine with brainstem aura", "severe pre-eclampsia", "mild pre-eclampsia", "irritable bowel syndrome"]
 ---
 
 # Atracurium Besylate

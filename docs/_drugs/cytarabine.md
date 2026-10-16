@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Cytarabine: indikasi baharu diramal Karsinoma paru-paru sel kecil (small cell lung carcinoma) (tahap bukti L4). Indikasi asal: Leukemia limfoblastik akut dan leukemia mieloid akut (berdasarkan gra…"
+monitor_inn: "CYTARABINE"
+predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
 ---
 
 # Cytarabine

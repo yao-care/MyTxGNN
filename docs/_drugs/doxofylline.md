@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Doxofylline: indikasi baharu diramal Pierre Robin syndrome associated with a chromosomal anomaly (Sindrom… (tahap bukti L5). Indikasi asal: Penyakit pernafasan"
+monitor_inn: "DOXOFYLLINE"
+predicted_indications: ["Pierre Robin syndrome associated with a chromosomal anomaly", "Laubry-Pezzi syndrome", "Jeune syndrome situs inversus", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 22", "heart disease", "pulmonary valve disease"]
 ---
 
 # Doxofylline

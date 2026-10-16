@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Degarelix: indikasi baharu diramal Hipertrikosis (hypertrichosis) (tahap bukti L5). Indikasi asal: Tiada data penunjuk berdaftar dalam data yang dikumpulkan"
+monitor_inn: "DEGARELIX"
+predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "malformation syndrome with odontal and/or periodontal component", "isolated genetic hair shaft abnormality", "allergic urticaria", "cold urticaria", "familial male-limited precocious puberty", "centra precocious puberty 1", "familial isolated trichomegaly"]
 ---
 
 # Degarelix

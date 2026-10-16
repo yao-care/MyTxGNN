@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Methylene Blue: indikasi baharu diramal Bronkitis (tahap bukti L5). Indikasi asal: Methemoglobinemia, sulfhemoglobinemia"
+monitor_inn: "METHYLENE BLUE"
+predicted_indications: ["bronchitis", "methemoglobinemia, alpha type", "methemoglobinemia due to deficiency of methemoglobin reductase"]
 ---
 
 # Methylene Blue

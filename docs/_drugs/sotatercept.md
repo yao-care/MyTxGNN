@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sotatercept: indikasi baharu diramal Leukemia limfoblastik akut (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA yang direkodkan)"
+monitor_inn: "Sotatercept"
+predicted_indications: ["acute lymphoblastic leukemia (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis", "diabetic cataract", "HER2 positive breast carcinoma", "transitional cell carcinoma", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant"]
 ---
 
 # Sotatercept

@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Erenumab: indikasi baharu diramal Migrain dengan aura batang otak (tahap bukti L3). Indikasi asal: Gangguan migrain (migraine disorder)"
+monitor_inn: "ERENUMAB"
+predicted_indications: ["migraine with brainstem aura"]
 ---
 
 # Erenumab

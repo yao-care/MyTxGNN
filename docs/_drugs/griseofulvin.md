@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Griseofulvin: indikasi baharu diramal Miasis (myiasis) (tahap bukti L5). Indikasi asal: Tinea pedis, tinea corporis, jangkitan tinea, tinea unguium…"
+monitor_inn: "GRISEOFULVIN"
+predicted_indications: ["myiasis", "creeping myiasis", "furuncular myiasis", "wound myiasis", "echinococcus granulosus infectious disease"]
 ---
 
 # Griseofulvin

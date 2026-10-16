@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Salicylic Acid: indikasi baharu diramal Penyakit keratinisasi (keratinization disease) (tahap bukti L4). Indikasi asal: Jerawat (akne), dermatitis seboroik, keratosis seboroik, tinea pedis…"
+monitor_inn: "Salicylic Acid"
+predicted_indications: ["keratinization disease", "acne", "plantar wart", "acquired keratosis", "osteoarthritis"]
 ---
 
 # Salicylic Acid

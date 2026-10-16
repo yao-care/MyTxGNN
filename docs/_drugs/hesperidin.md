@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Hesperidin: indikasi baharu diramal Neoplasma mieloproliferatif (myeloproliferative neoplasm) (tahap bukti L5). Indikasi asal: Tiada data indikasi asal"
+monitor_inn: "HESPERIDIN"
+predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm"]
 ---
 
 # Hesperidin

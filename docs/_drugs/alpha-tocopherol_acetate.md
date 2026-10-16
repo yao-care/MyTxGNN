@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Alpha-Tocopherol Acetate: indikasi baharu diramal Osteoporosis teraruh ubat (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan dalam data yang dikumpulkan"
+monitor_inn: "alpha-Tocopherol acetate"
+predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "craniostenosis cataract", "immature cataract", "mature cataract", "cortical cataract", "nuclear senile cataract", "diabetic retinopathy"]
 ---
 
 # Alpha-Tocopherol Acetate

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Galcanezumab: indikasi baharu diramal Kekurangan kofaktor heparin 2 (tahap bukti L5). Indikasi asal: Gangguan migrain (migrain dengan atau tanpa aura)"
+monitor_inn: "GALCANEZUMAB"
+predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 ---
 
 # Galcanezumab

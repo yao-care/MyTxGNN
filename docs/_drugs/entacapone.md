@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Entacapone: indikasi baharu diramal Penyakit Parkinson (kedudukan ke-3 (tahap bukti L5). Indikasi asal: Penyakit Parkinson"
+monitor_inn: "Entacapone"
+predicted_indications: ["juvenile onset Parkinson disease 19A", "early-onset parkinsonism-intellectual disability syndrome", "Parkinson disease", "atypical juvenile parkinsonism", "hemiparkinsonism-hemiatrophy syndrome"]
 ---
 
 # Entacapone

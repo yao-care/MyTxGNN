@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Procaine Benzylpenicillin: indikasi baharu diramal Infectious otitis media (otitis media berjangkit) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
+monitor_inn: "Procaine benzylpenicillin"
+predicted_indications: ["infectious otitis media", "bacterial arthritis", "chronic otitis media", "middle ear disease", "suppurative otitis media", "otosalpingitis", "non-suppurative otitis media", "allergic otitis media", "middle ear cholesterol granuloma", "epiglottitis"]
 ---
 
 # Procaine Benzylpenicillin

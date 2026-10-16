@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Finasteride: indikasi baharu diramal Hipertrikosis (penyakit) (tahap bukti L4). Indikasi asal: Hiperplasia prostat benigna (BPH)"
+monitor_inn: "FINASTERIDE"
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 ---
 
 # Finasteride

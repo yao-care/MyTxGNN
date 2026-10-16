@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Pegfilgrastim: indikasi baharu diramal Retinopati diabetik bukan proliferatif teruk (severe nonproliferative… (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
+monitor_inn: "PEGFILGRASTIM"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
 ---
 
 # Pegfilgrastim

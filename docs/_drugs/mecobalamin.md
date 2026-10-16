@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Mecobalamin: indikasi baharu diramal Kolangitis sklerosis (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen berdaftar dengan teks indikasi)"
+monitor_inn: "MECOBALAMIN"
+predicted_indications: ["sclerosing cholangitis", "multiple endocrine neoplasia", "bone Paget disease"]
 ---
 
 # Mecobalamin

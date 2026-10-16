@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Nevirapine: indikasi baharu diramal Sindrom imunodefisiensi didapati kucing (feline acquired immunodefici… (tahap bukti L4). Indikasi asal: Jangkitan HIV dan AIDS"
+monitor_inn: "NEVIRAPINE"
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Nevirapine

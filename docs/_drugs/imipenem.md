@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Imipenem: indikasi baharu diramal Skleroderma meresap (diffuse scleroderma) (tahap bukti L5). Indikasi asal: Jangkitan bakteria (radang paru-paru bakteria, peritonitis…"
+monitor_inn: "Imipenem"
+predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "staphylococcus aureus infection", "eosinophilia-myalgia syndrome"]
 ---
 
 # Imipenem

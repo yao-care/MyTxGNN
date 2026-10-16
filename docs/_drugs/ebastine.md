@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Ebastine: indikasi baharu diramal Penyakit arteri koronari (coronary artery disease) (tahap bukti L5). Indikasi asal: Rinitis alergi, rinitis vasomotor, urtikaria idiopatik"
+monitor_inn: "EBASTINE"
+predicted_indications: ["coronary artery disease", "myocardial ischemia"]
 ---
 
 # Ebastine

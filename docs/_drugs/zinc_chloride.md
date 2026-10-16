@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Zinc Chloride: indikasi baharu diramal Retinopati diabetik bukan proliferatif teruk (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
+monitor_inn: "ZINC CHLORIDE"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "Sjogren syndrome", "dry eye syndrome"]
 ---
 
 # Zinc Chloride

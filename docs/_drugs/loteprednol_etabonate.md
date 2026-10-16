@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Loteprednol Etabonate: indikasi baharu diramal Konjunktivitis folikular kronik (tahap bukti L5). Indikasi asal: Uveitis, penyakit iris, penyakit badan silier, panuveitis…"
+monitor_inn: "LOTEPREDNOL ETABONATE"
+predicted_indications: ["chronic follicular conjunctivitis", "parasitic conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "pseudomembranous conjunctivitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "rosacea conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
 ---
 
 # Loteprednol Etabonate

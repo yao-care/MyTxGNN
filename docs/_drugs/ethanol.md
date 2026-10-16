@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Ethanol: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
+monitor_inn: "ETHANOL"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Ethanol

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Diosmin: indikasi baharu diramal Amenorea (tahap bukti L5). Indikasi asal: Tiada data indikasi asal dalam data pendaftaran tempatan"
+monitor_inn: "DIOSMIN"
+predicted_indications: ["amenorrhea (disease)"]
 ---
 
 # Diosmin

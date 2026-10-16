@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Etoposide: indikasi baharu diramal Adenokarsinoma janin berdiferensiasi baik pada paru-paru (tahap bukti L4). Indikasi asal: Tiada rekod indikasi diluluskan dalam data yang dikumpulkan"
+monitor_inn: "Etoposide"
+predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma"]
 ---
 
 # Etoposide

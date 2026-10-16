@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Progesterone: indikasi baharu diramal Kanser korpus uterus (tahap bukti L5). Indikasi asal: Endometriosis, kanser endometrium, osteoporosis pascamenopaus…"
+monitor_inn: "Progesterone"
+predicted_indications: ["uterine corpus cancer", "endometrial cancer", "endometriosis", "endometriosis of uterus", "postmenopausal atrophic vaginitis"]
 ---
 
 # Progesterone
