@@ -57,7 +57,7 @@ Focused on drugs registered with Malaysia's National Pharmaceutical Regulatory A
 | Source | Description | Records |
 |--------|-------------|---------|
 | **NPRA Registration** | Malaysia pharmaceutical products via [data.gov.my](https://data.gov.my/) | 27,938 |
-| **TxGNN** | Harvard knowledge graph ([Nature Medicine 2023](https://doi.org/10.1038/s41591-024-03233-x)) | 17,080 nodes |
+| **TxGNN** | Harvard knowledge graph ([Nature Medicine 2024](https://doi.org/10.1038/s41591-024-03233-x)) | 17,080 nodes |
 | **DrugBank** | Drug standardization and mapping | 508 matched |
 
 ---
@@ -118,7 +118,7 @@ And cite the original TxGNN paper:
   title={A foundation model for clinician-centered drug repurposing},
   author={Huang, Kexin and Chandak, Payal and Wang, Qianwen and Haber, Shreyas and Zitnik, Marinka},
   journal={Nature Medicine},
-  year={2023},
+  year={2024},
   doi={10.1038/s41591-024-03233-x}
 }
 ```
@@ -127,7 +127,7 @@ And cite the original TxGNN paper:
 
 ## Related Resources
 
-- [TxGNN Paper](https://www.nature.com/articles/s41591-024-03233-x) - Nature Medicine 2023
+- [TxGNN Paper](https://www.nature.com/articles/s41591-024-03233-x) - Nature Medicine 2024
 - [TxGNN GitHub](https://github.com/mims-harvard/TxGNN)
 - [TxGNN Explorer](http://txgnn.org) - Interactive prediction queries
 - [NPRA Malaysia](https://www.npra.gov.my/) - National Pharmaceutical Regulatory Agency

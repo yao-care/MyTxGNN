@@ -91,7 +91,7 @@ The advantage of drug repurposing: safety, pharmacokinetics, and manufacturing h
 
 <blockquote class="expert-quote">
 "TxGNN integrates a knowledge graph of 17,080 biomedical entities, using graph neural networks to learn complex relationships between nodes, enabling prediction of drug efficacy for rare diseases."
-<cite>— Huang et al., Nature Medicine (2023)</cite>
+<cite>— Huang et al., Nature Medicine (2024)</cite>
 </blockquote>
 
 ### Technical Features
@@ -132,8 +132,7 @@ This platform integrates multiple public data sources including AI predictions, 
 |------|-------|
 | NPRA Registered Products | 27,938 |
 | Drugs with DrugBank Mapping | 508 |
-| KG Predictions | 41,560 |
-| DL High-Score Predictions | 176,021 |
+| Predicted New Indications (known uses excluded) | {{ site.data.site_stats.indications }} |
 | Unique Diseases | 17,041 |
 
 ---
@@ -149,7 +148,7 @@ If using this platform's data, please cite:
   title={A foundation model for clinician-centered drug repurposing},
   author={Huang, Kexin and others},
   journal={Nature Medicine},
-  year={2023},
+  year={2024},
   doi={10.1038/s41591-024-03233-x}
 }
 ```

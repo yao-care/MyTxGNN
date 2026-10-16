@@ -32,12 +32,8 @@ Memanfaatkan AI untuk menemui penggunaan terapeutik baharu bagi ubat sedia ada. 
     <div style="color: #666;">Ubat Dianalisis</div>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; text-align: center;">
-    <div style="font-size: 2.5rem; font-weight: 700; color: #1976D2;">41,560</div>
-    <div style="color: #666;">Ramalan KG</div>
-  </div>
-  <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; text-align: center;">
-    <div style="font-size: 2.5rem; font-weight: 700; color: #FB8C00;">176,021</div>
-    <div style="color: #666;">Ramalan DL Skor Tinggi</div>
+    <div style="font-size: 2.5rem; font-weight: 700; color: #1976D2;">{{ site.data.site_stats.indications }}</div>
+    <div style="color: #666;">Indikasi Baharu Diramal</div>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; text-align: center;">
     <div style="font-size: 2.5rem; font-weight: 700; color: #9B59B6;">27,938</div>
@@ -50,13 +46,13 @@ Memanfaatkan AI untuk menemui penggunaan terapeutik baharu bagi ubat sedia ada. 
 ## Pendekatan Kami
 
 <p class="key-answer" data-question="Bagaimana MyTxGNN berfungsi?">
-MyTxGNN menggunakan dua pendekatan pelengkap untuk ramalan penggunaan semula ubat: Kaedah Graf Pengetahuan (KG) memanfaatkan hubungan ubat-penyakit sedia ada, manakala model Pembelajaran Mendalam (DL) mempelajari corak kompleks daripada data bioperubatan.
+MyTxGNN menggunakan model Pembelajaran Mendalam (DL) TxGNN untuk meramal indikasi baharu. Indikasi dan kegunaan luar label yang sudah direkodkan dalam Graf Pengetahuan (KG) dikecualikan, supaya hanya ramalan baharu dipaparkan.
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 1.5rem 0;">
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #2E7D32;">
-    <strong style="font-size: 1.1rem;">Ramalan Graf Pengetahuan</strong><br>
-    <span style="color: #666;">Berdasarkan graf pengetahuan bioperubatan TxGNN yang mengandungi hubungan ubat-penyakit dari DrugBank, ujian klinikal, dan literatur saintifik. 41,560 ramalan untuk 508 ubat.</span>
+    <strong style="font-size: 1.1rem;">Semakan Kegunaan Sedia Ada (KG)</strong><br>
+    <span style="color: #666;">Indikasi dan kegunaan luar label yang sudah direkodkan dalam graf pengetahuan TxGNN digunakan untuk mengecualikan kegunaan yang telah diketahui. Ia bukan ramalan baharu.</span>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #1976D2;">
     <strong style="font-size: 1.1rem;">Ramalan Pembelajaran Mendalam</strong><br>
@@ -107,7 +103,7 @@ Platform ini menggunakan model pembelajaran mendalam <a href="https://www.nature
 
 <blockquote class="expert-quote">
 "TxGNN adalah model asas pertama untuk penggunaan semula ubat yang direka khusus untuk doktor, mengintegrasikan graf pengetahuan dengan pembelajaran mendalam untuk meramalkan keberkesanan ubat bagi penyakit jarang."
-<cite>— Huang et al., Nature Medicine (2023)</cite>
+<cite>— Huang et al., Nature Medicine (2024)</cite>
 </blockquote>
 
 ### Skala Data
@@ -116,8 +112,7 @@ Platform ini menggunakan model pembelajaran mendalam <a href="https://www.nature
 |------|--------|
 | Produk Berdaftar NPRA | 27,938 |
 | Ubat dengan Pemetaan DrugBank | 508 |
-| Ramalan KG | 41,560 |
-| Ramalan DL Skor Tinggi | 176,021 |
+| Indikasi Baharu Diramal | {{ site.data.site_stats.indications }} |
 | Penyakit Unik | 17,041 |
 
 [Ketahui Lebih Lanjut]({{ '/about' | relative_url }}) | [Metodologi]({{ '/methodology' | relative_url }}) | [Sumber Data]({{ '/sources' | relative_url }})

@@ -344,7 +344,7 @@ Petik juga artikel asal TxGNN:
   title={A foundation model for clinician-centered drug repurposing},
   author={Huang, Kexin and Chandak, Payal and Wang, Qianwen and Haber, Shreyas and Zitnik, Marinka},
   journal={Nature Medicine},
-  year={2023},
+  year={2024},
   doi={10.1038/s41591-024-03233-x}
 }
 ```
