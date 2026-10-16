@@ -32,11 +32,11 @@ Tahap bukti adalah dari L1 (bukti klinikal lebih kukuh) hingga L5 (ramalan model
 
 ## Petikan dan batasan
 
-Sila petik kertas asal TxGNN (https://doi.org/10.1038/s41591-023-02233-x). Kandungan dan ramalan laman ini hanya untuk penyelidikan dan pendidikan dan bukan nasihat perubatan; sebarang penggunaan sebenar mesti disahkan oleh profesional bertauliah, ujian klinikal dan semakan kawal selia.
+Sila petik kertas asal TxGNN (https://doi.org/10.1038/s41591-024-03233-x). Kandungan dan ramalan laman ini hanya untuk penyelidikan dan pendidikan dan bukan nasihat perubatan; sebarang penggunaan sebenar mesti disahkan oleh profesional bertauliah, ujian klinikal dan semakan kawal selia.
 
 ## Pautan rasmi
 
 - https://mytxgnn.yao.care/
 - https://www.yao.care/medical/txgnn/
 - https://github.com/yao-care/MyTxGNN
-- https://doi.org/10.1038/s41591-023-02233-x
+- https://doi.org/10.1038/s41591-024-03233-x

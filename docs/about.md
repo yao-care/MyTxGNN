@@ -55,7 +55,7 @@ ClinicalTrials, serta integrasi rekod kesihatan elektronik SMART on FHIR.
 This project's AI prediction model is based on:
 
 > Huang, K., et al. (2023). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
-> [DOI: 10.1038/s41591-023-02233-x](https://doi.org/10.1038/s41591-023-02233-x)
+> [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
 
 ---
 
@@ -86,7 +86,7 @@ The advantage of drug repurposing: safety, pharmacokinetics, and manufacturing h
 ## What is TxGNN?
 
 <p class="key-answer" data-question="What is TxGNN?">
-<a href="https://www.nature.com/articles/s41591-023-02233-x">TxGNN</a> is a deep learning model developed by Harvard Medical School's Zitnik Lab, published in <em>Nature Medicine</em>. It predicts new drug-disease relationships and is the first foundation model designed specifically for clinician-centered drug repurposing.
+<a href="https://www.nature.com/articles/s41591-024-03233-x">TxGNN</a> is a deep learning model developed by Harvard Medical School's Zitnik Lab, published in <em>Nature Medicine</em>. It predicts new drug-disease relationships and is the first foundation model designed specifically for clinician-centered drug repurposing.
 </p>
 
 <blockquote class="expert-quote">
@@ -150,7 +150,7 @@ If using this platform's data, please cite:
   author={Huang, Kexin and others},
   journal={Nature Medicine},
   year={2023},
-  doi={10.1038/s41591-023-02233-x}
+  doi={10.1038/s41591-024-03233-x}
 }
 ```
 

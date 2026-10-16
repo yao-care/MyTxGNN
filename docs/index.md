@@ -102,7 +102,7 @@ MyTxGNN menggunakan dua pendekatan pelengkap untuk ramalan penggunaan semula uba
 ## Tentang Projek Ini
 
 <p class="key-answer" data-question="Apakah teknologi yang digunakan MyTxGNN?">
-Platform ini menggunakan model pembelajaran mendalam <a href="https://www.nature.com/articles/s41591-023-02233-x">TxGNN</a> yang diterbitkan dalam <em>Nature Medicine</em> oleh Makmal Zitnik Universiti Harvard untuk meramalkan indikasi baharu berpotensi bagi ubat yang diluluskan NPRA Malaysia.
+Platform ini menggunakan model pembelajaran mendalam <a href="https://www.nature.com/articles/s41591-024-03233-x">TxGNN</a> yang diterbitkan dalam <em>Nature Medicine</em> oleh Makmal Zitnik Universiti Harvard untuk meramalkan indikasi baharu berpotensi bagi ubat yang diluluskan NPRA Malaysia.
 </p>
 
 <blockquote class="expert-quote">

@@ -57,7 +57,7 @@ Focused on drugs registered with Malaysia's National Pharmaceutical Regulatory A
 | Source | Description | Records |
 |--------|-------------|---------|
 | **NPRA Registration** | Malaysia pharmaceutical products via [data.gov.my](https://data.gov.my/) | 27,938 |
-| **TxGNN** | Harvard knowledge graph ([Nature Medicine 2023](https://doi.org/10.1038/s41591-023-02233-x)) | 17,080 nodes |
+| **TxGNN** | Harvard knowledge graph ([Nature Medicine 2023](https://doi.org/10.1038/s41591-024-03233-x)) | 17,080 nodes |
 | **DrugBank** | Drug standardization and mapping | 508 matched |
 
 ---
@@ -119,7 +119,7 @@ And cite the original TxGNN paper:
   author={Huang, Kexin and Chandak, Payal and Wang, Qianwen and Haber, Shreyas and Zitnik, Marinka},
   journal={Nature Medicine},
   year={2023},
-  doi={10.1038/s41591-023-02233-x}
+  doi={10.1038/s41591-024-03233-x}
 }
 ```
 
