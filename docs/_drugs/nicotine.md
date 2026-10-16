@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Nicotine"
 drugbank_id: "DB00184"

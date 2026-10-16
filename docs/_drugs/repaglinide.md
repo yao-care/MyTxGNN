@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Repaglinide"
 drugbank_id: "DB00912"

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Promethazine"
 drugbank_id: "DB01069"

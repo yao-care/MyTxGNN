@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Glipizide"
 drugbank_id: "DB01067"

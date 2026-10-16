@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Levosimendan"
 drugbank_id: "DB00922"

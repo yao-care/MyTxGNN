@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Furosemide"
 drugbank_id: "DB00695"

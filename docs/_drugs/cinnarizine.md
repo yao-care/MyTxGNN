@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Cinnarizine"
 drugbank_id: "DB00568"

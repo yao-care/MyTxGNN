@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Pitolisant Hydrochloride
 parent: Low Evidence (L4-L5)

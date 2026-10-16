@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Tafamidis"
 drugbank_id: "DB11644"

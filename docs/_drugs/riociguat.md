@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Riociguat"
 drugbank_id: "DB08931"

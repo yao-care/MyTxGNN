@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Terbinafine"
 drugbank_id: "DB00857"

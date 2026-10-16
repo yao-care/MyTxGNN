@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Ibrutinib"
 drugbank_id: "DB09053"

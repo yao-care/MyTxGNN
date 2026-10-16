@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Methyldopa"
 drugbank_id: "DB00968"

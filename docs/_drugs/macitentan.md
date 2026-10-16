@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Macitentan"
 drugbank_id: "DB08932"

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Permethrin"
 drugbank_id: "DB04930"

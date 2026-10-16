@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Nifedipine"
 drugbank_id: "DB01115"

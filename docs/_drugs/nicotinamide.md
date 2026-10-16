@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Nicotinamide"
 drugbank_id: "DB02701"

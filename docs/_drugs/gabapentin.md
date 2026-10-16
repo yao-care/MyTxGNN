@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Gabapentin"
 drugbank_id: "DB00996"

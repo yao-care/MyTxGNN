@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Daratumumab"
 drugbank_id: "DB09331"

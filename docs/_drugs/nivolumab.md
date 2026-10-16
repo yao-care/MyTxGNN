@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Nivolumab"
 drugbank_id: "DB09035"

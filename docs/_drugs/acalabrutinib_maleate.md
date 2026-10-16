@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acalabrutinib Maleate
 parent: Low Evidence (L4-L5)

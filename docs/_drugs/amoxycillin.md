@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Amoxycillin
 parent: Low Evidence (L4-L5)

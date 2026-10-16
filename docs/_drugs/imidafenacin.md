@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Imidafenacin"
 drugbank_id: "DB09262"

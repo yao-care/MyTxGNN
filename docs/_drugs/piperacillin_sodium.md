@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Piperacillin Sodium
 parent: Low Evidence (L4-L5)

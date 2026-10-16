@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Rebamipide"
 drugbank_id: "DB11656"

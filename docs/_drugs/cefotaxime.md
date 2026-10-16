@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Cefotaxime"
 drugbank_id: "DB00493"

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Selexipag"
 drugbank_id: "DB11362"

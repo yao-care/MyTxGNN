@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Capsaicin"
 drugbank_id: "DB06774"

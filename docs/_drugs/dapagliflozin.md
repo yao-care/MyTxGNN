@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Dapagliflozin"
 drugbank_id: "DB06292"

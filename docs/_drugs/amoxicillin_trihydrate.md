@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Amoxicillin Trihydrate
 parent: Low Evidence (L4-L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Riboflavin"
 drugbank_id: "DB00140"

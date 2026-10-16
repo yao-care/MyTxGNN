@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Luspatercept"
 drugbank_id: "DB12281"

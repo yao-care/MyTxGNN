@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Indapamide"
 drugbank_id: "DB00808"

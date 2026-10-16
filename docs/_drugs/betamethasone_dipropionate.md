@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Betamethasone Dipropionate
 parent: Low Evidence (L4-L5)

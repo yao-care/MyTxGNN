@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Midostaurin"
 drugbank_id: "DB06595"

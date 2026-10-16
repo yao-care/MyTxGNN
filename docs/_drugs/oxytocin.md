@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Oxytocin"
 drugbank_id: "DB00107"

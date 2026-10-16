@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Vibegron"
 drugbank_id: "DB14895"

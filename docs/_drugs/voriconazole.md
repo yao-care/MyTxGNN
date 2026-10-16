@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Voriconazole"
 drugbank_id: "DB00582"

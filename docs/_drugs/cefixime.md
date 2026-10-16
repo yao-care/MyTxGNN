@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Cefixime"
 drugbank_id: "DB00671"

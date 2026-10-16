@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Lercanidipine"
 drugbank_id: "DB00528"

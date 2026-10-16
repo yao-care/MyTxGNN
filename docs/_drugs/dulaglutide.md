@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Dulaglutide"
 drugbank_id: "DB09045"

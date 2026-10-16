@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Tolbutamide"
 drugbank_id: "DB01124"

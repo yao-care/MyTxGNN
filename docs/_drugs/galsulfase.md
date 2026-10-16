@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Galsulfase"
 drugbank_id: "DB01279"

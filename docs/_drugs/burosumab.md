@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Burosumab"
 drugbank_id: "DB14012"

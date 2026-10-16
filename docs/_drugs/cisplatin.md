@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Cisplatin"
 drugbank_id: "DB00515"

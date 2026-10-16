@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Lumefantrine"
 drugbank_id: "DB06708"

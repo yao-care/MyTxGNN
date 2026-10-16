@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Ambroxol Hcl
 parent: Low Evidence (L4-L5)

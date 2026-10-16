@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Udenafil"
 drugbank_id: "DB06267"

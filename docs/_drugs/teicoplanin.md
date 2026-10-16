@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Teicoplanin"
 drugbank_id: "DB06149"

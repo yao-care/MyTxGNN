@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Ethionamide"
 drugbank_id: "DB00609"

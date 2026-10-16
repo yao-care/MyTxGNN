@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Tigecycline"
 drugbank_id: "DB00560"

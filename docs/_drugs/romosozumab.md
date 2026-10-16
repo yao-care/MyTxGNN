@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Romosozumab"
 drugbank_id: "DB11866"

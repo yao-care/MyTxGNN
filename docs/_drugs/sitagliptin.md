@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Sitagliptin"
 drugbank_id: "DB01261"

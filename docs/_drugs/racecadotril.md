@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Racecadotril"
 drugbank_id: "DB11696"

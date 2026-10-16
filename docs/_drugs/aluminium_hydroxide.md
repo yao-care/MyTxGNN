@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminium Hydroxide
 parent: Low Evidence (L4-L5)

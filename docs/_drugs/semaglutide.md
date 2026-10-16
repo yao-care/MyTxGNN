@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Semaglutide"
 drugbank_id: "DB13928"

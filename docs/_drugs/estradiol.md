@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Estradiol"
 drugbank_id: "DB00783"

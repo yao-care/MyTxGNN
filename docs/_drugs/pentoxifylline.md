@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Pentoxifylline"
 drugbank_id: "DB00806"

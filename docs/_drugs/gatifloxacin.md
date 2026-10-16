@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Gatifloxacin"
 drugbank_id: "DB01044"

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Crotamiton"
 drugbank_id: "DB00265"

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Ganciclovir"
 drugbank_id: "DB01004"

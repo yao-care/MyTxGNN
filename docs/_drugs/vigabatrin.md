@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Vigabatrin"
 drugbank_id: "DB01080"

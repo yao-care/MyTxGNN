@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Mirabegron"
 drugbank_id: "DB08893"

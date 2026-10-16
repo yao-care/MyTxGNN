@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Cefaclor"
 drugbank_id: "DB00833"

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Ixekizumab"
 drugbank_id: "DB11569"

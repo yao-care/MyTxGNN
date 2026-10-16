@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Zopiclone"
 drugbank_id: "DB01198"

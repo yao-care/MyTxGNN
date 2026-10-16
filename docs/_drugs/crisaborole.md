@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Crisaborole"
 drugbank_id: "DB05219"

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Tibolone"
 drugbank_id: "DB09070"

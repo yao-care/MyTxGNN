@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Trifluridine"
 drugbank_id: "DB00432"

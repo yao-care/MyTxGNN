@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Drospirenone"
 drugbank_id: "DB01395"

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Ampicillin Trihydrate
 parent: Low Evidence (L4-L5)

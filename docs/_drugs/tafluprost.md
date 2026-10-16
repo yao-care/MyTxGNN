@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: drug
 title: "Tafluprost"
 drugbank_id: "DB08819"
