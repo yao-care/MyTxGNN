@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ramipril: indikasi baharu diramal Kerentanan terhadap strok iskemia (entri usang) (tahap bukti L5). Indikasi asal: Tidak tersedia (tiada rekod lesen tempatan)"
 monitor_inn: "Ramipril"
-predicted_indications: ["malignant hypertensive renal disease", "brain stem infarction"]
+predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "brain stem infarction"]
 ---
 
 # Ramipril

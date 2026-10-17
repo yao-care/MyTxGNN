@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Eplerenone: indikasi baharu diramal Hipertensi pulmonari dengan mekanisme pelbagai faktor yang tidak jelas (tahap bukti L5). Indikasi asal: Hipertensi (daripada graf pengetahuan TxGNN"
 monitor_inn: "EPLERENONE"
-predicted_indications: ["malignant hypertensive renal disease"]
+predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease"]
 ---
 
 # Eplerenone

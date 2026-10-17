@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Fimasartan: indikasi baharu diramal Hipertensi pulmonari akibat penyakit paru-paru dan/atau hipoksia (tahap bukti L4). Indikasi asal: Hipertensi (hypertensive disorder / hypertension)"
 monitor_inn: "fimasartan"
-predicted_indications: ["malignant hypertensive renal disease"]
+predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease"]
 ---
 
 # Fimasartan

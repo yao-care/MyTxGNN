@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Perindopril: indikasi baharu diramal Penyakit renal hipertensif malignan (tahap bukti L5). Indikasi asal: Gangguan hipertensi / hipertensi"
 monitor_inn: "PERINDOPRIL"
-predicted_indications: ["malignant hypertensive renal disease"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 ---
 
 # Perindopril
