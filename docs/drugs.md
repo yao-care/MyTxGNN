@@ -6,7 +6,7 @@ nav_order: 4
 description: "Browse all drugs with drug repurposing predictions from MyTxGNN"
 permalink: /drugs/
 ---
-{% assign listed_drugs = site.drugs | where_exp: "d", "d.layout != 'redirect'" | where_exp: "d", "d.noindex != true" %}
+{% assign listed_drugs = site.drugs | where_exp: "d", "d.layout != 'id_redirect'" | where_exp: "d", "d.noindex != true" %}
 
 # Drug Predictions
 
