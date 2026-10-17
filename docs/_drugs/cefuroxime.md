@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cefuroxime: indikasi baharu diramal Artritis bakteria (bacterial arthritis) (tahap bukti L3). Indikasi asal: Tiada data indikasi berlesen yang tersedia (antibiotik sefalosporin u…"
 monitor_inn: "Cefuroxime"
-predicted_indications: ["bacterial arthritis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "staphylococcal pneumonia", "streptococcal pneumonia", "staphylococcus aureus infection", "blood group incompatibility", "infectious otitis media"]
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility"]
 ---
 
 # Cefuroxime

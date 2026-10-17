@@ -7,8 +7,6 @@ evidence_level: L2
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Insulin Glargine: indikasi baharu diramal Ketoasidosis diabetik (DKA) (tahap bukti L2). Indikasi asal: Diabetes mellitus jenis 2, diabetes mellitus jenis 1 (termasuk DKA…"
-monitor_inn: "Insulin Glargine"
-predicted_indications: ["diabetic ketoacidosis", "type 2 diabetes mellitus", "type 1 diabetes mellitus", "diabetes mellitus", "IDDM 1"]
 ---
 
 # Insulin Glargine

@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Atenolol: indikasi baharu diramal Hipertensi (ramalan peringkat 1) (tahap bukti L1). Indikasi asal: Hipertensi, infarksi miokardium (daripada pengetahuan graf TxGNN"
-monitor_inn: "Atenolol"
-predicted_indications: ["hypertension", "myocardial infarction", "hemoglobinopathy", "myocardial infarction", "coronary thrombosis"]
 ---
 
 # Atenolol

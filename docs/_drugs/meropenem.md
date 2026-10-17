@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Meropenem: indikasi baharu diramal Artritis Bakteria (Bacterial arthritis) (tahap bukti L4). Indikasi asal: Tiada maklumat indikasi berdaftar daripada NPRA dalam data yang dikom…"
 monitor_inn: "Meropenem"
-predicted_indications: ["bacterial arthritis", "epiglottitis", "meningococcal infection", "staphylococcus aureus infection", "peritonitis", "laryngitis", "paratyphoid fever", "urinary tract infection (disease)", "Lyme disease", "Peptostreptococcus infectious disease"]
+predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus aureus infection", "laryngitis", "paratyphoid fever", "urinary tract infection (disease)", "Lyme disease", "Peptostreptococcus infectious disease"]
 ---
 
 # Meropenem

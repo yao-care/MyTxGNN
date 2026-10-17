@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Bevacizumab: indikasi baharu diramal Kanser peritoneum (peritoneum cancer) (tahap bukti L1). Indikasi asal: Kanser peritoneum, kanser ovari, kanser payudara…"
-monitor_inn: "Bevacizumab"
-predicted_indications: ["peritoneum cancer", "hereditary breast ovarian cancer syndrome", "malignant epithelial tumor of ovary", "primary peritoneal carcinoma", "breast neoplasm"]
 ---
 
 # Bevacizumab

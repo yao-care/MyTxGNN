@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Daunorubicin: indikasi baharu diramal Leukemia limfoblastik/limfositik akut (tahap bukti L5). Indikasi asal: Tiada data indikasi asal dalam data yang dikumpulkan"
 monitor_inn: "Daunorubicin"
-predicted_indications: ["acute lymphoblastic/lymphocytic leukemia", "Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma"]
+predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma"]
 ---
 
 # Daunorubicin

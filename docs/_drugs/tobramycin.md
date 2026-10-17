@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Tobramycin: indikasi baharu diramal Keratokonjunktivitis limbik superior (tahap bukti L5). Indikasi asal: Jangkitan bakteria (contohnya meningitis bakteria, konjunktivitis…"
-monitor_inn: "Tobramycin"
-predicted_indications: ["superior limbic keratoconjunctivitis", "acute contagious conjunctivitis", "iridocyclitis", "escherichia coli infection", "bacterial meningitis"]
 ---
 
 # Tobramycin

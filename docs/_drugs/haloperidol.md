@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Haloperidol: indikasi baharu diramal Skizofrenia (tahap bukti L1). Indikasi asal: Tiada data (tiada lesen NPRA yang direkodkan)"
 monitor_inn: "Haloperidol"
-predicted_indications: ["schizophrenia", "schizophreniform disorder", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "psychotic disorder", "myopia 26, X-linked, female-limited", "syndromic myopia"]
+predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia"]
 ---
 
 # Haloperidol

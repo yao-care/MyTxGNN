@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Desonide: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L1). Indikasi asal: Tiada data indikasi asal dalam rekod pendaftaran tempatan"
 monitor_inn: "Desonide"
-predicted_indications: ["atopic eczema", "polyp of vocal cord", "polyp of middle ear", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "polyp of vulva", "fibroepithelial polyp", "neoplastic polyp", "epulis"]
+predicted_indications: ["polyp of vocal cord", "polyp of middle ear", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "polyp of vulva", "fibroepithelial polyp", "neoplastic polyp", "epulis"]
 ---
 
 # Desonide

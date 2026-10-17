@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Sulfamethoxazole: indikasi baharu diramal Konjunktivitis berjangkit akut (tahap bukti L5). Indikasi asal: Otitis media berjangkit, nokardiosis, toksoplasmosis, pneumosistosis…"
-monitor_inn: "SULFAMETHOXAZOLE"
-predicted_indications: ["acute contagious conjunctivitis"]
 ---
 
 # Sulfamethoxazole

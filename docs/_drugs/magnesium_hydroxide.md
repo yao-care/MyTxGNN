@@ -7,8 +7,6 @@ evidence_level: L3
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Magnesium Hydroxide: indikasi baharu diramal Esofagitis (tahap bukti L3). Indikasi asal: Penyakit ulser peptik, penyakit refluks gastroesofagus, esofagitis…"
-monitor_inn: "Magnesium Hydroxide"
-predicted_indications: ["esophagitis", "constipation disorder", "gastroesophageal reflux disease", "peptic esophagitis", "peptic ulcer disease"]
 ---
 
 # Magnesium Hydroxide

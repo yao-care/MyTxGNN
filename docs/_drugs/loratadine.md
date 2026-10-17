@@ -7,8 +7,6 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Loratadine: indikasi baharu diramal Faringitis (tahap bukti L4). Indikasi asal: Rinitis alergik (juga rinitis vasomotor, selesema biasa…"
-monitor_inn: "Loratadine"
-predicted_indications: ["pharyngitis", "papillary conjunctivitis", "vasomotor rhinitis", "common cold", "nasopharyngitis"]
 ---
 
 # Loratadine

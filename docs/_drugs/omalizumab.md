@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Omalizumab: indikasi baharu diramal Bronkitis (tahap bukti L4). Indikasi asal: Tiada rekod dalam data lesen tempatan"
 monitor_inn: "Omalizumab"
-predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "allergic asthma", "dermatitis", "intrinsic asthma", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial"]
+predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial"]
 ---
 
 # Omalizumab

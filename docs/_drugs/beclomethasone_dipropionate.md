@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Beclomethasone Dipropionate: indikasi baharu diramal Asma (tahap bukti L1). Indikasi asal: Asma, asma intrinsik, asma alergi, rinitis alergi, rinitis vasomotor…"
-monitor_inn: "Beclomethasone Dipropionate"
-predicted_indications: ["asthma", "allergic asthma", "rhinitis", "intrinsic asthma", "vasomotor rhinitis"]
 ---
 
 # Beclomethasone Dipropionate

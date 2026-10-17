@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Aceclofenac: indikasi baharu diramal Osteoartritis (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan tempatan"
 monitor_inn: "Aceclofenac"
-predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "arthropathy", "rheumatoid arthritis"]
+predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia"]
 ---
 
 # Aceclofenac

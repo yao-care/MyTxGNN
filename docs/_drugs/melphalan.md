@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Melphalan: indikasi baharu diramal Sindrom kanser payudara-ovari herediter (tahap bukti L5). Indikasi asal: Tiada maklumat"
-monitor_inn: "Melphalan"
-predicted_indications: ["hereditary breast ovarian cancer syndrome", "malignant dysgerminomatous germ cell tumor of ovary", "ovarian clear cell adenocarcinoma", "primary non-gestational choriocarcinoma of ovary", "maligant granulosa cell tumor of ovary", "hereditary site-specific ovarian cancer syndrome", "borderline epithelial tumor of ovary", "gonadal germ cell tumor", "ovarian primitive germ cell tumor", "choriocarcinoma of ovary"]
 ---
 
 # Melphalan

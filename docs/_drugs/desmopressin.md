@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Desmopressin: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of plate… (tahap bukti L3). Indikasi asal: Penyakit von Willebrand (keturunan atau diperoleh), hemof…"
 monitor_inn: "DESMOPRESSIN"
-predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "Scott syndrome", "flood factor deficiency"]
+predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
 ---
 
 # Desmopressin

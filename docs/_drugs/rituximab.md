@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Rituximab: indikasi baharu diramal Limfoma non-Hodgkin familial (lymphoma, non-Hodgkin, familial) (tahap bukti L1). Indikasi asal: Limfoma non-Hodgkin dan artritis reumatoid (daripada graf pengetahua…"
-monitor_inn: "Rituximab"
-predicted_indications: ["lymphoma, non-Hodgkin, familial", "rheumatoid arthritis", "mantle cell lymphoma", "B-cell neoplasm", "Langerhans cell histiocytosis"]
 ---
 
 # Rituximab

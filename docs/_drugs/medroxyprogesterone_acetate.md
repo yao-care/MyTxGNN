@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Medroxyprogesterone Acetate: indikasi baharu diramal Kanser korpus uterus (tahap bukti L5). Indikasi asal: Endometriosis, karsinoma endometrium, osteoporosis pascamenopaus…"
-monitor_inn: "Medroxyprogesterone Acetate"
-predicted_indications: ["uterine corpus cancer", "endometrial cancer", "endometriosis", "endometriosis of uterus", "postmenopausal atrophic vaginitis"]
 ---
 
 # Medroxyprogesterone Acetate

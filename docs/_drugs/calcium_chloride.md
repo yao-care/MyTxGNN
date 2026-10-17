@@ -7,8 +7,6 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Calcium Chloride: indikasi baharu diramal Hiperkalsemia (hypercalcemia disease) (tahap bukti L4). Indikasi asal: Tiada lesen tempatan untuk dirujuk. Menurut pangkalan pengetahuan TxG…"
-monitor_inn: "Calcium Chloride"
-predicted_indications: ["hypercalcemia disease", "cardiac arrest", "phosphorus metabolism disease", "potassium deficiency disease", "nephrocalcinosis"]
 ---
 
 # Calcium Chloride

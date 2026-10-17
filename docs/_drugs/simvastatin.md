@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Simvastatin: indikasi baharu diramal Strok (stroke disorder) (tahap bukti L5). Indikasi asal: Hiperlipidemia / hipertrigliseridemia (daripada graf pengetahuan TxGNN"
-monitor_inn: "Simvastatin"
-predicted_indications: ["stroke disorder", "hypoalphalipoproteinemia", "obsolete susceptibility to ischemic stroke", "arteriosclerosis disorder", "atherosclerosis"]
 ---
 
 # Simvastatin

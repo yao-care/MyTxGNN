@@ -7,8 +7,6 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Calcium Carbonate: indikasi baharu diramal Nefrokalsinosis (tahap bukti L4). Indikasi asal: Dispepsia (graf pengetahuan juga menyenaraikan hiperkalsemia…"
-monitor_inn: "Calcium Carbonate"
-predicted_indications: ["nephrocalcinosis", "dyspepsia", "phosphorus metabolism disease", "hypercalcemia disease", "nephrocalcinosis"]
 ---
 
 # Calcium Carbonate

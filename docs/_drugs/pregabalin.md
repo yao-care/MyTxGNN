@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Pregabalin: indikasi baharu diramal Fibromialgia (tahap bukti L1). Indikasi asal: Gangguan kebimbangan, fibromialgia, sindrom nyeri miofasial…"
-monitor_inn: "Pregabalin"
-predicted_indications: ["fibromyalgia", "myofascial pain syndrome", "anxiety disorder", "postherpetic neuralgia", "fibromyalgia"]
 ---
 
 # Pregabalin

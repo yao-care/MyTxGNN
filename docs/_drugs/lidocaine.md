@@ -7,8 +7,6 @@ evidence_level: L3
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Lidocaine: indikasi baharu diramal Dermatitis (tahap bukti L3). Indikasi asal: Neuralgia, neuralgia pasca-herpes, buasir, ejakulasi pramatang…"
-monitor_inn: "Lidocaine"
-predicted_indications: ["dermatitis", "mite infestation", "urethritis", "hemorrhoid", "premature ejaculation"]
 ---
 
 # Lidocaine

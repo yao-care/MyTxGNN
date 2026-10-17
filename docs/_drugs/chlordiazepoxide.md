@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Chlordiazepoxide: indikasi baharu diramal Insomnia (tahap bukti L4). Indikasi asal: Tiada data indikasi lesen. Literatur menunjukkan penggunaan sejarah s…"
 monitor_inn: "Chlordiazepoxide"
-predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "anxiety", "attention deficit hyperactivity disorder, inattentive type", "alcohol withdrawal delirium", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "barbiturate abuse", "hallucinogen abuse"]
+predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "barbiturate abuse", "hallucinogen abuse"]
 ---
 
 # Chlordiazepoxide

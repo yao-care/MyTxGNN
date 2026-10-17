@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Lenalidomide: indikasi baharu diramal Limfoma sel mantel (Mantle Cell Lymphoma) (tahap bukti L1). Indikasi asal: Mieloma sel plasma, limfoma sel mantel, neoplasma sel-B, limfosarkoma…"
-monitor_inn: "Lenalidomide"
-predicted_indications: ["mantle cell lymphoma", "B-cell neoplasm", "plasma cell myeloma", "lymphosarcoma", "myelodysplastic syndrome"]
 ---
 
 # Lenalidomide

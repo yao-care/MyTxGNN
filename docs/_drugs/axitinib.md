@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Axitinib: indikasi baharu diramal Karsinoma sel renal berkaitan neuroblastoma (tahap bukti L5). Indikasi asal: Karsinoma sel renal (termasuk karsinoma sel renal sel jernih dan buka…"
 monitor_inn: "Axitinib"
-predicted_indications: ["renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "childhood kidney cell carcinoma", "liposarcoma", "renal carcinoma", "ovarian myxoid liposarcoma", "angiolipoma", "collecting duct carcinoma", "familial spontaneous pneumothorax"]
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
 ---
 
 # Axitinib

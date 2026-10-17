@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fluoxetine: indikasi baharu diramal Gangguan obsesif-kompulsif (OCD) (tahap bukti L1). Indikasi asal: Tiada data (tiada lesen NPRA yang direkodkan)"
 monitor_inn: "Fluoxetine"
-predicted_indications: ["obsessive-compulsive disorder", "anxiety disorder", "schizotypal personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "endogenous depression", "agoraphobia", "dysthymic disorder"]
+predicted_indications: ["schizotypal personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia"]
 ---
 
 # Fluoxetine

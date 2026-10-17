@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Thiotepa: indikasi baharu diramal Karsinoma sel peralihan bukan papilari pundi kencing (tahap bukti L5). Indikasi asal: Limfoma (Hodgkin dan bukan Hodgkin), kanser payudara wanita…"
-monitor_inn: "Thiotepa"
-predicted_indications: ["non-papillary transitional cell carcinoma of the bladder", "ovarian clear cell adenocarcinoma", "Hodgkins lymphoma", "non-Hodgkin lymphoma", "lymphosarcoma"]
 ---
 
 # Thiotepa

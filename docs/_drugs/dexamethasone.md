@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Dexamethasone: indikasi baharu diramal Diffuse large B-cell lymphoma (DLBCL) (tahap bukti L1). Indikasi asal: Leukemia limfoblastik akut, insufisiensi adrenokortikal…"
-monitor_inn: "Dexamethasone"
-predicted_indications: ["diffuse large B-cell lymphoma", "erythema multiforme", "lymphosarcoma", "disease of orbital region", "leukemia, lymphocytic, susceptibility to"]
 ---
 
 # Dexamethasone

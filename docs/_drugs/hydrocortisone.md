@@ -7,8 +7,6 @@ evidence_level: L2
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Hydrocortisone: indikasi baharu diramal Buasir (hemorrhoid) (tahap bukti L2). Indikasi asal: Penyakit autoimun, insufisiensi adrenokortikal (penyakit Addison)…"
-monitor_inn: "Hydrocortisone"
-predicted_indications: ["erythema multiforme", "hemorrhoid", "lymphosarcoma", "disease of orbital region", "leukemia, lymphocytic, susceptibility to"]
 ---
 
 # Hydrocortisone

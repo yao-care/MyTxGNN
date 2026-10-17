@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Valproic Acid: indikasi baharu diramal Neoplasma saraf trigeminal (tahap bukti L5). Indikasi asal: Epilepsi, mania dalam gangguan afektif bipolar…"
 monitor_inn: "VALPROIC ACID"
-predicted_indications: ["trigeminal nerve neoplasm", "visual epilepsy", "trigeminal neuralgia", "startle epilepsy", "orgasm-induced seizures", "micturation-induced seizures", "audiogenic seizures", "eating seizures", "thinking seizures", "reading seizures"]
+predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "orgasm-induced seizures", "micturation-induced seizures", "audiogenic seizures", "eating seizures", "thinking seizures", "reading seizures"]
 ---
 
 # Valproic Acid

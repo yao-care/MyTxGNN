@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Everolimus: indikasi baharu diramal Neoplasma payudara (tahap bukti L5). Indikasi asal: Karsinoma sel renal (berdasarkan graf pengetahuan TxGNN"
-monitor_inn: "Everolimus"
-predicted_indications: ["breast neoplasm", "renal cell adenocarcinoma", "clear cell renal carcinoma", "tuberous sclerosis", "situs inversus"]
 ---
 
 # Everolimus

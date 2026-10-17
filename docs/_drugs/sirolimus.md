@@ -6,9 +6,9 @@ nav_order: 648
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-monitor_inn: "Sirolimus"
-predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lymphangioleiomyomatosis", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma"]
 description: "Sirolimus: indikasi baharu diramal Liposarkoma (tahap bukti L3)."
+monitor_inn: "Sirolimus"
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma"]
 ---
 
 # Sirolimus

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tipiracil: indikasi baharu diramal Neoplasma kolon (colonic neoplasm) (tahap bukti L1). Indikasi asal: Tiada data indikasi diluluskan tempatan"
 monitor_inn: "Tipiracil"
-predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "lipoma of colon", "rectosigmoid junction neoplasm", "cecum neuroendocrine tumor G1", "colonic lymphangioma", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "cavernous hemangioma of colon"]
+predicted_indications: ["cecum villous adenoma", "lipoma of colon", "rectosigmoid junction neoplasm", "cecum neuroendocrine tumor G1", "colonic lymphangioma", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "cavernous hemangioma of colon"]
 ---
 
 # Tipiracil

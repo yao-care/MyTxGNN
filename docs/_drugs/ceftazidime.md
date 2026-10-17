@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Ceftazidime: indikasi baharu diramal Peritonitis (tahap bukti L1). Indikasi asal: Jangkitan streptokokus, radang paru-paru bakteria…"
-monitor_inn: "Ceftazidime"
-predicted_indications: ["peritonitis", "streptococcal pneumonia", "endometritis", "meningococcal infection", "staphylococcal pneumonia"]
 ---
 
 # Ceftazidime

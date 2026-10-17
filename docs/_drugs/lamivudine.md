@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Lamivudine: indikasi baharu diramal Jangkitan HIV (indikasi asal yang sudah diluluskan) (tahap bukti L5). Indikasi asal: Jangkitan virus hepatitis B kronik"
-monitor_inn: "Lamivudine"
-predicted_indications: ["HIV infectious disease", "chronic hepatitis B virus infection", "AIDS", "HIV infectious disease", "chronic hepatitis B virus infection"]
 ---
 
 # Lamivudine

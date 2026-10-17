@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Danazol: indikasi baharu diramal Penyakit fibrosistik payudara (breast fibrocystic disease) (tahap bukti L2). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
 monitor_inn: "Danazol"
-predicted_indications: ["breast fibrocystic disease", "amenorrhea (disease)", "benign mammary dysplasia", "apocrine adenosis of breast", "blunt duct adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis"]
+predicted_indications: ["amenorrhea (disease)", "benign mammary dysplasia", "apocrine adenosis of breast", "blunt duct adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis"]
 ---
 
 # Danazol

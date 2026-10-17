@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Clomipramine: indikasi baharu diramal Gangguan kebimbangan (anxiety disorder) (tahap bukti L1). Indikasi asal: Tiada data indikasi berdaftar tempatan dalam data yang dikompilasi"
 monitor_inn: "Clomipramine"
-predicted_indications: ["anxiety disorder", "obsessive-compulsive disorder", "benign paroxysmal torticollis of infancy", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "agoraphobia", "major depressive disorder", "endogenous depression"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "agoraphobia", "major depressive disorder", "endogenous depression"]
 ---
 
 # Clomipramine

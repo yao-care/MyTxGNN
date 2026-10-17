@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Celecoxib: indikasi baharu diramal Osteoartritis (tahap bukti L1). Indikasi asal: Artritis reumatoid, spondilitis ankilosis, osteoartritis…"
-monitor_inn: "Celecoxib"
-predicted_indications: ["osteoarthritis", "spondyloarthropathy, susceptibility to", "rheumatoid arthritis", "osteoarthritis susceptibility", "ankylosing spondylitis"]
 ---
 
 # Celecoxib

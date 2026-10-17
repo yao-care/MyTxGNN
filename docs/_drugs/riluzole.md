@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Riluzole: indikasi baharu diramal Polimikrogiria parieto-oksipital parasagital bilateral (tahap bukti L5). Indikasi asal: Tiada dalam data pendaftaran tempatan. Literatur yang dihimpunkan men…"
 monitor_inn: "Riluzole"
-predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "amyotrophic lateral sclerosis", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "amyotrophic lateral sclerosis, susceptibility to", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
+predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
 ---
 
 # Riluzole

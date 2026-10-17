@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Capecitabine: indikasi baharu diramal Neoplasma gastrik (tahap bukti L1). Indikasi asal: Metastasis daripada tumor malignan kolon"
-monitor_inn: "Capecitabine"
-predicted_indications: ["gastric neoplasm", "gastric linitis plastica", "gastric carcinoma", "gastric cancer", "metastasis from malignant tumor of colon"]
 ---
 
 # Capecitabine

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ticagrelor: indikasi baharu diramal Arteriosklerosis intrakranial (tahap bukti L5). Indikasi asal: Sindrom koronari akut, penyakit vaskular periferal…"
 monitor_inn: "TICAGRELOR"
-predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "mesenteric vascular occlusion", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
+predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "ischemic disease", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
 ---
 
 # Ticagrelor

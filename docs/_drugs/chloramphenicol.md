@@ -7,8 +7,6 @@ evidence_level: L3
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Chloramphenicol: indikasi baharu diramal Demam paratifoid (tahap bukti L3). Indikasi asal: Demam kepialu, salmonelosis, demam paratifoid, jangkitan meningokokus…"
-monitor_inn: "Chloramphenicol"
-predicted_indications: ["paratyphoid fever", "Rickettsiosis", "typhus", "Q fever", "meningococcal infection"]
 ---
 
 # Chloramphenicol

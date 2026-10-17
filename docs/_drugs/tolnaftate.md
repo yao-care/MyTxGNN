@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Tolnaftate: indikasi baharu diramal Pityriasis versicolor (tahap bukti L5). Indikasi asal: Tinea pedis, tinea corporis…"
-monitor_inn: "Tolnaftate"
-predicted_indications: ["pityriasis versicolor", "tinea pedis", "tinea barbae", "tinea corporis", "dermatophytosis of groin and perianal area"]
 ---
 
 # Tolnaftate

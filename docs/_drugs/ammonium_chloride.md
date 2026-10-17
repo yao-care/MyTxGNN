@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Ammonium Chloride: indikasi baharu diramal Faringitis (sama dengan indikasi asal) (tahap bukti L5). Indikasi asal: Faringitis, selesema biasa…"
-monitor_inn: "Ammonium Chloride"
-predicted_indications: ["pharyngitis", "common cold", "nasopharyngitis", "pharyngitis", "common cold"]
 ---
 
 # Ammonium Chloride

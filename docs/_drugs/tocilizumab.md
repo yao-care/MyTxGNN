@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tocilizumab: indikasi baharu diramal Spondilitis ankilosis (ankylosing spondylitis) (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen di Malaysia)"
 monitor_inn: "Tocilizumab"
-predicted_indications: ["ankylosing spondylitis", "rheumatoid vasculitis", "hypermobility of coccyx", "spondyloarthropathy, susceptibility to", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease", "juvenile idiopathic arthritis", "mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency"]
+predicted_indications: ["inflammatory spondylopathy", "vertebral disease", "mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency"]
 ---
 
 # Tocilizumab

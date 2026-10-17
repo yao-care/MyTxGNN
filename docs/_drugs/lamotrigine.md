@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Lamotrigine: indikasi baharu diramal Cutis verticis gyrata (tahap bukti L5). Indikasi asal: Epilepsi (berdasarkan graf pengetahuan TxGNN"
-monitor_inn: "Lamotrigine"
-predicted_indications: ["cutis verticis gyrata", "epilepsy", "Lennox-Gastaut syndrome", "partial epilepsy", "visual epilepsy"]
 ---
 
 # Lamotrigine

@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Piribedil: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (tahap bukti L5). Indikasi asal: Gangguan parkinsonian"
 monitor_inn: "PIRIBEDIL"
-predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "paralysis agitans, juvenile, of Hunt", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "PLA2G6-associated neurodegeneration", "juvenile onset Parkinson disease 19A"]
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "paralysis agitans, juvenile, of Hunt", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "PLA2G6-associated neurodegeneration"]
 ---
 
 # Piribedil

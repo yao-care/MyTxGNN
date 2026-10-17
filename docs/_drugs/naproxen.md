@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Naproxen: indikasi baharu diramal Spondiloartropati, kerentanan terhadap (spondyloarthropathy… (tahap bukti L5). Indikasi asal: Bursitis, artritis reumatoid, spondilitis ankilosis, tendinitis, gout…"
-monitor_inn: "Naproxen"
-predicted_indications: ["spondyloarthropathy, susceptibility to", "myositis", "migraine disorder", "migraine with or without aura, susceptibility to", "osteoarthritis"]
 ---
 
 # Naproxen

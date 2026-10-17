@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Olanzapine: indikasi baharu diramal Gangguan kemurungan major (major depressive disorder) (tahap bukti L1). Indikasi asal: Skizofrenia dan gangguan bipolar (menurut graf pengetahuan TxGNN"
-monitor_inn: "Olanzapine"
-predicted_indications: ["major depressive disorder", "schizophrenia", "endogenous depression", "bipolar disorder", "unipolar depression"]
 ---
 
 # Olanzapine

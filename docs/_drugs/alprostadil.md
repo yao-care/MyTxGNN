@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Alprostadil: indikasi baharu diramal Koarktasi aorta atipikal (atypical coarctation of aorta) (tahap bukti L5). Indikasi asal: Tiada data direkodkan"
 monitor_inn: "Alprostadil"
-predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "tricuspid valve agenesis", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "double outlet right ventricle with subaortic or doubly committed ventricular septal defect with pulmonary stenosis"]
+predicted_indications: ["congenital tricuspid stenosis", "congenital valvular dysplasia", "tricuspid valve agenesis", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy"]
 ---
 
 # Alprostadil

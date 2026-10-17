@@ -7,8 +7,6 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Deferasirox: indikasi baharu diramal Beta-talasemia dan penyakit berkaitan (tahap bukti L4). Indikasi asal: Beta-talasemia dan hemoglobinopati (berdasarkan graf pengetahuan TxGN…"
-monitor_inn: "Deferasirox"
-predicted_indications: ["beta-thalassemia and related diseases", "hemoglobinopathy", "beta-thalassemia HBB/LCRB", "dominant beta-thalassemia", "beta-thalassemia intermedia"]
 ---
 
 # Deferasirox

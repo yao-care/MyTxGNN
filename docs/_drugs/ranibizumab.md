@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ranibizumab: indikasi baharu diramal Retinopati diabetik non-proliferatif teruk (tahap bukti L1). Indikasi asal: Tiada data indikasi asal dalam rekod pendaftaran"
 monitor_inn: "Ranibizumab"
-predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "tetanic cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "immature cataract", "cortical cataract", "nuclear senile cataract"]
+predicted_indications: ["tetanic cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "immature cataract", "cortical cataract", "nuclear senile cataract"]
 ---
 
 # Ranibizumab

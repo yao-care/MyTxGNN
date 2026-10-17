@@ -7,8 +7,6 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Cyanocobalamin: indikasi baharu diramal Anemia mikrositik (tahap bukti L4). Indikasi asal: Gangguan kekurangan vitamin, kekurangan vitamin B12…"
-monitor_inn: "Cyanocobalamin"
-predicted_indications: ["microcytic anemia", "vitamin deficiency disorder", "vitamin B12 deficiency", "deficiency anemia", "folic acid deficiency anemia"]
 ---
 
 # Cyanocobalamin

@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Sodium Citrate: indikasi baharu diramal Faringitis (tahap bukti L5). Indikasi asal: Penyakit ulser peptik, penyakit refluks gastroesofagus, dispepsia…"
-monitor_inn: "Sodium Citrate"
-predicted_indications: ["pharyngitis", "rhinitis", "esophagitis", "gastroesophageal reflux disease", "common cold"]
 ---
 
 # Sodium Citrate

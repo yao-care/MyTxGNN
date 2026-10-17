@@ -7,8 +7,6 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Ethinylestradiol: indikasi baharu diramal Jerawat (acne) (tahap bukti L4). Indikasi asal: Osteoporosis pascamenopaus…"
-monitor_inn: "Ethinylestradiol"
-predicted_indications: ["acne", "obsolete atrophic vulva", "postmenopausal atrophic vaginitis", "postmenopausal osteoporosis", "osteoporosis"]
 ---
 
 # Ethinylestradiol

@@ -7,8 +7,6 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Triamcinolone: indikasi baharu diramal Eritema multiforme (tahap bukti L4). Indikasi asal: Penyakit autoimun (berdasarkan graf pengetahuan TxGNN/PrimeKG…"
-monitor_inn: "Triamcinolone"
-predicted_indications: ["erythema multiforme", "lymphosarcoma", "disease of orbital region", "leukemia, lymphocytic, susceptibility to", "rheumatic heart disease"]
 ---
 
 # Triamcinolone

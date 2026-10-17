@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Cimetidine: indikasi baharu diramal Hiperinsulinisme (tahap bukti L5). Indikasi asal: Ulser gastrik, penyakit refluks gastroesofagus, esofagitis…"
-monitor_inn: "Cimetidine"
-predicted_indications: ["hyperinsulinism", "esophagitis", "gastric ulcer", "systemic mastocytosis", "gastrin secretion abnormality"]
 ---
 
 # Cimetidine

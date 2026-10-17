@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Theophylline: indikasi baharu diramal Asma (tahap bukti L1). Indikasi asal: Asma (juga asma intrinsik, asma alergi, bronkitis, penyakit paru-paru…"
-monitor_inn: "Theophylline"
-predicted_indications: ["asthma", "allergic asthma", "bronchitis", "pulmonary emphysema", "intrinsic asthma"]
 ---
 
 # Theophylline

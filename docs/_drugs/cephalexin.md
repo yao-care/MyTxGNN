@@ -7,8 +7,6 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Cephalexin: indikasi baharu diramal Radang paru-paru streptokokus (streptococcal pneumonia) (tahap bukti L4). Indikasi asal: Otitis media berjangkit (daripada graf pengetahuan TxGNN"
-monitor_inn: "Cephalexin"
-predicted_indications: ["streptococcal pneumonia", "infectious otitis media", "arthropathy", "streptococcal infection", "staphylococcus aureus infection"]
 ---
 
 # Cephalexin

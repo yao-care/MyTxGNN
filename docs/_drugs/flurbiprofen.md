@@ -6,9 +6,9 @@ nav_order: 369
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-monitor_inn: "Flurbiprofen"
-predicted_indications: ["osteoarthritis susceptibility", "rheumatoid arthritis", "acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "osteoarthritis", "myosclerosis", "brachyolmia", "arthropathy"]
 description: "Flurbiprofen: indikasi baharu diramal Kerentanan osteoartritis (osteoarthritis susceptibility) (tahap bukti L5)."
+monitor_inn: "Flurbiprofen"
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia"]
 ---
 
 # Flurbiprofen

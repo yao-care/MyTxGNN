@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Levodopa: indikasi baharu diramal Gangguan parkinsonian (parkinsonian disorder) (tahap bukti L1). Indikasi asal: Penyakit Parkinson"
-monitor_inn: "Levodopa"
-predicted_indications: ["parkinsonian disorder", "juvenile onset Parkinson disease 19A", "early-onset parkinsonism-intellectual disability syndrome", "Parkinson disease", "atypical juvenile parkinsonism"]
 ---
 
 # Levodopa

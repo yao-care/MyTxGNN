@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Meloxicam: indikasi baharu diramal Osteoartritis (tahap bukti L1). Indikasi asal: Artritis reumatoid, osteoartritis, artritis juvana idiopatik…"
-monitor_inn: "Meloxicam"
-predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthritis susceptibility", "arthropathy", "juvenile arthritis due to defect in LACC1"]
 ---
 
 # Meloxicam

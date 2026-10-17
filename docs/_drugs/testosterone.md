@@ -7,8 +7,6 @@ evidence_level: L2
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Testosterone: indikasi baharu diramal Hipogonadisme hipogonadotropik kongenital (tahap bukti L2). Indikasi asal: Hipogonadisme hipogonadotropik, sindrom Kallmann…"
-monitor_inn: "Testosterone"
-predicted_indications: ["congenital hypogonadotropic hypogonadism", "eunuchism", "pituitary deficiency", "trisomy 13", "hypogonadotropic hypogonadism-frontoparietal alopecia syndrome"]
 ---
 
 # Testosterone

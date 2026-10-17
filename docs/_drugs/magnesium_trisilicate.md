@@ -7,8 +7,6 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Magnesium Trisilicate: indikasi baharu diramal Esofagitis (tahap bukti L4). Indikasi asal: Penyakit ulser peptik, GERD, esofagitis, esofagitis peptik…"
-monitor_inn: "Magnesium Trisilicate"
-predicted_indications: ["esophagitis", "gastroesophageal reflux disease", "peptic esophagitis", "peptic ulcer disease", "dyspepsia"]
 ---
 
 # Magnesium Trisilicate

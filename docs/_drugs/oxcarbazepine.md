@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Oxcarbazepine: indikasi baharu diramal Epilepsi separa (partial epilepsy) (tahap bukti L1). Indikasi asal: Tiada data direkodkan"
 monitor_inn: "Oxcarbazepine"
-predicted_indications: ["visual epilepsy", "restless legs syndrome", "eating seizures", "audiogenic seizures", "orgasm-induced seizures", "thinking seizures", "startle epilepsy", "micturation-induced seizures", "partial epilepsy", "status epilepticus"]
+predicted_indications: ["visual epilepsy", "restless legs syndrome", "eating seizures", "audiogenic seizures", "orgasm-induced seizures", "thinking seizures", "startle epilepsy", "micturation-induced seizures", "status epilepticus"]
 ---
 
 # Oxcarbazepine

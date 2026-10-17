@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Trimethoprim: indikasi baharu diramal Pneumocystosis (tahap bukti L1). Indikasi asal: Jangkitan saluran kencing, otitis media berjangkit, pneumocystosis…"
-monitor_inn: "Trimethoprim"
-predicted_indications: ["pneumocystosis", "acute contagious conjunctivitis", "urinary tract infection", "infectious otitis media", "conjunctivitis"]
 ---
 
 # Trimethoprim

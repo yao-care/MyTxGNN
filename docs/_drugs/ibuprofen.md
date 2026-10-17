@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Ibuprofen: indikasi baharu diramal Osteoartritis (tahap bukti L1). Indikasi asal: Artritis reumatoid (antara indikasi asal yang disenaraikan: sakit kep…"
-monitor_inn: "Ibuprofen"
-predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "patent ductus arteriosus", "osteoarthritis susceptibility", "arthropathy"]
 ---
 
 # Ibuprofen

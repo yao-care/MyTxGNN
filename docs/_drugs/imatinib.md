@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Imatinib: indikasi baharu diramal Dermatofibrosarcoma protuberans (tahap bukti L2). Indikasi asal: Tiada data indikasi asal dalam data yang dikumpulkan"
 monitor_inn: "Imatinib"
-predicted_indications: ["dermatofibrosarcoma protuberans", "heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma"]
+predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma"]
 ---
 
 # Imatinib

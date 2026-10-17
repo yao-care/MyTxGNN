@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Acyclovir: indikasi baharu diramal Herpes zoster (tahap bukti L1). Indikasi asal: Jangkitan herpes simplex, herpes zoster, cacar air, herpes labialis…"
-monitor_inn: "Acyclovir"
-predicted_indications: ["herpes zoster", "herpes simplex encephalitis", "herpes labialis", "genital herpes", "herpes simplex infectious disease"]
 ---
 
 # Acyclovir

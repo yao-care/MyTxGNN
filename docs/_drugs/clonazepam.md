@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Clonazepam: indikasi baharu diramal Sindrom kaki resah (restless legs syndrome) (tahap bukti L3). Indikasi asal: Early myoclonic encephalopathy, epilepsi absens…"
 monitor_inn: "CLONAZEPAM"
-predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
+predicted_indications: ["restless legs syndrome", "trigeminal nerve neoplasm"]
 ---
 
 # Clonazepam

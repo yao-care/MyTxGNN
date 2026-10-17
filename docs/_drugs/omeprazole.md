@@ -7,8 +7,6 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Omeprazole: indikasi baharu diramal Hiperinsulinisme (tahap bukti L4). Indikasi asal: Ulser gastrik, penyakit ulser peptik, penyakit refluks gastroesofagus…"
-monitor_inn: "Omeprazole"
-predicted_indications: ["hyperinsulinism", "esophagitis", "gastric ulcer", "gastrin secretion abnormality", "duodenal ulcer"]
 ---
 
 # Omeprazole

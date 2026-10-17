@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Paclitaxel: indikasi baharu diramal Adenokarsinoma sel jernih ovari (tahap bukti L1). Indikasi asal: Kanser ovari"
-monitor_inn: "Paclitaxel"
-predicted_indications: ["ovarian clear cell adenocarcinoma", "peritoneum cancer", "hereditary breast ovarian cancer syndrome", "primary non-gestational choriocarcinoma of ovary", "ovarian carcinosarcoma"]
 ---
 
 # Paclitaxel

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fluorometholone: indikasi baharu diramal Uveitis anterior berjangkit (tahap bukti L4). Indikasi asal: Tiada data indikasi berdaftar di Malaysia (rujukan farmakologi: kerad…"
 monitor_inn: "Fluorometholone"
-predicted_indications: ["infectious anterior uveitis", "iritis (disease)", "postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
+predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
 ---
 
 # Fluorometholone

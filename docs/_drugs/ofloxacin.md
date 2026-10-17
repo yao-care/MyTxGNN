@@ -7,8 +7,6 @@ evidence_level: L3
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Ofloxacin: indikasi baharu diramal Demam paratifoid (tahap bukti L3). Indikasi asal: Demam kepialu, salmonelosis, demam paratifoid…"
-monitor_inn: "Ofloxacin"
-predicted_indications: ["paratyphoid fever", "diarrheal disease", "pneumonia caused by chlamydia", "acute contagious conjunctivitis", "acute gonococcal endometritis"]
 ---
 
 # Ofloxacin
