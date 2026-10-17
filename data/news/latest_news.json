@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-17T11:21:35.702674",
+  "fetched": "2026-10-17T14:57:44.822862",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Sarawak Presents RM500,000 Aid To Five FDS Victims’ Families",
@@ -120,16 +120,6 @@
       "summary": "PUTRAJAYA, Oct 17 — A total of 6,724 officers from various service schemes under the Ministry of Health (MOH) have...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Drug abuse among Malaysian under-15s a growing concern, says Saifuddin Nasution",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/17/drug-abuse-among-malaysian-under-15s-a-growing-concern-says-saifuddin-nasution/239472",
-      "source": "Malay Mail",
-      "published": "2026-10-17T08:23:18",
-      "summary": "MACHANG, Oct 17 — The trend of drug abuse among those under the age of 15 is increasingly concerning and requires...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
