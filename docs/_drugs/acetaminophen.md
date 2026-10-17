@@ -7,8 +7,6 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Acetaminophen: indikasi baharu diramal Migrain dengan aura batang otak (tahap bukti L4). Indikasi asal: Rinitis alergik, rinitis vasomotor, migrain, selesema biasa…"
-monitor_inn: "ACETAMINOPHEN"
-predicted_indications: ["migraine with brainstem aura"]
 ---
 
 # Acetaminophen
@@ -27,7 +25,7 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Laporan penilaian ahli farmasi
 

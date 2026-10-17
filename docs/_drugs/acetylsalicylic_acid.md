@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-15
 description: "Acetylsalicylic Acid: indikasi baharu diramal Migrain dengan aura batang otak (tahap bukti L3). Indikasi asal: Artritis reumatoid, migrain, infarksi miokardium, trombosis koronari…"
 monitor_inn: "ACETYLSALICYLIC ACID"
-predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombophilia"]
+predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombophilia"]
 ---
 
 # Acetylsalicylic Acid
@@ -27,7 +27,7 @@ Tahap bukti: **L3** | Indikasi diramal: **9**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Laporan penilaian ahli farmasi
 

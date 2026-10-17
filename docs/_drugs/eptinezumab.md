@@ -7,8 +7,6 @@ evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Eptinezumab: indikasi baharu diramal Migrain dengan aura batang otak (tahap bukti L3). Indikasi asal: Migrain (migraine disorder)"
-monitor_inn: "EPTINEZUMAB"
-predicted_indications: ["migraine with brainstem aura"]
 ---
 
 # Eptinezumab
@@ -27,7 +25,7 @@ Tahap bukti: **L3** | Indikasi diramal: **1**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Laporan penilaian ahli farmasi
 

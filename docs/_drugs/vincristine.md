@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Vincristine: indikasi baharu diramal Ganglioneuroblastoma (tahap bukti L3). Indikasi asal: Leukemia limfoblastik akut, limfoma Hodgkin, limfoma bukan Hodgkin…"
 monitor_inn: "vincristine"
-predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
+predicted_indications: ["ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 ---
 
 # Vincristine
@@ -27,7 +27,7 @@ Tahap bukti: **L3** | Indikasi diramal: **3**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Laporan penilaian ahli farmasi
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Indacaterol: indikasi baharu diramal Nephrogenic syndrome of inappropriate antidiuresis (NSIAD) (tahap bukti L5). Indikasi asal: Tiada rekod indikasi dalam data pendaftaran tempatan"
 monitor_inn: "INDACATEROL"
-predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "bronchial disease", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
 ---
 
 # Indacaterol
@@ -27,7 +27,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Laporan penilaian ahli farmasi
 

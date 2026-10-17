@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Guaiacol: indikasi baharu diramal Acute laryngopharyngitis (tahap bukti L5). Indikasi asal: Pharyngitis, common cold, rhinitis…"
+monitor_inn: "GUAIACOL"
+predicted_indications: ["acute laryngopharyngitis"]
 ---
 
 # Guaiacol
@@ -25,7 +27,7 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Laporan penilaian ahli farmasi
 

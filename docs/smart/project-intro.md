@@ -20,7 +20,6 @@ permalink: /smart/project-intro/
 | Metric | Value |
 |--------|-------|
 | **Drugs Analyzed** | 508 |
-| **KG Known Uses (excluded)** | 41,560 |
 | **DL Scored Pairs** | 9,968,985 |
 | **High Confidence (≥0.7)** | 176,021 |
 | **Unique Diseases** | 17,041 |
@@ -29,10 +28,10 @@ permalink: /smart/project-intro/
 
 ## Key Features
 
-### 1. Dual Prediction Methods
+### 1. Prediction Method
 
-- **Knowledge Graph (KG)**: Fast queries based on existing drug-disease relationships
-- **Deep Learning (DL)**: Neural network-based predictions with confidence scores
+- **Deep Learning (DL)**: TxGNN neural network scores for each drug–disease pair; drug pages list scores ≥ 0.99
+- **Known-use check (KG)**: Uses already recorded in the knowledge graph are excluded, not counted as predictions
 
 ### 2. FHIR R4 API
 
@@ -57,7 +56,7 @@ Focused on drugs registered with Malaysia's National Pharmaceutical Regulatory A
 | Source | Description | Records |
 |--------|-------------|---------|
 | **NPRA Registration** | Malaysia pharmaceutical products via [data.gov.my](https://data.gov.my/) | 27,938 |
-| **TxGNN** | Harvard knowledge graph ([Nature Medicine 2024](https://doi.org/10.1038/s41591-024-03233-x)) | 17,080 nodes |
+| **TxGNN** | Harvard knowledge graph ([Nature Medicine 2024](https://doi.org/10.1038/s41591-024-03233-x)) | 17,080 diseases |
 | **DrugBank** | Drug standardization and mapping | 508 matched |
 
 ---

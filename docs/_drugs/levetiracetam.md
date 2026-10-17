@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Levetiracetam: indikasi baharu diramal Epilepsi visual (visual epilepsy) (tahap bukti L4). Indikasi asal: Tiada dalam data pendaftaran NPRA yang disusun (kesusasteraan menggam…"
 monitor_inn: "Levetiracetam"
-predicted_indications: ["visual epilepsy", "audiogenic seizures", "micturation-induced seizures", "startle epilepsy", "thinking seizures", "orgasm-induced seizures", "eating seizures", "reading seizures", "status epilepticus", "beta-ketothiolase deficiency"]
+predicted_indications: ["beta-ketothiolase deficiency"]
 ---
 
 # Levetiracetam
@@ -27,7 +27,7 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Laporan penilaian ahli farmasi
 

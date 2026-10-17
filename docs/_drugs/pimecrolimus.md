@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Pimecrolimus: indikasi baharu diramal Dermatitis seborea (tahap bukti L2). Indikasi asal: Ekzema atopik / dermatitis atopik"
 monitor_inn: "PIMECROLIMUS"
-predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
+predicted_indications: ["exanthem (disease)", "acrodermatitis chronica atrophicans"]
 ---
 
 # Pimecrolimus
@@ -27,7 +27,7 @@ Tahap bukti: **L2** | Indikasi diramal: **4**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Laporan penilaian ahli farmasi
 

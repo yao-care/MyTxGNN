@@ -44,7 +44,7 @@ TxGNN is a drug repurposing prediction model developed by Professor Marinka Zitn
 
 | Item | Count |
 |------|-------|
-| Nodes | 17,080 |
+| Diseases | 17,080 |
 | Drugs | 4,465 |
 | Diseases | 2,870 |
 | Known Drug-Disease Relationships | 14,573 |

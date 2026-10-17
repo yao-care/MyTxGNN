@@ -15,24 +15,24 @@ Download MyTxGNN prediction data for your research.
 
 ## Available Datasets
 
-### Knowledge Graph Predictions
+### Candidate Pairs (not predictions)
 
 | File | Description | Format | Size |
 |------|-------------|--------|------|
-| `repurposing_candidates.csv` | KG-based predictions | CSV | ~4.7 MB |
+| `repurposing_candidates.csv` | Drug–disease candidate pairs before filtering; includes known uses and is not a list of predictions | CSV | ~4.7 MB |
 
 **Columns:**
 - `license_id`: NPRA registration number
 - `brand_name`: Product name
 - `ingredient`: Active ingredient
 - `drugbank_id`: DrugBank identifier
-- `disease_name`: Predicted indication
+- `disease_name`: Candidate disease
 - `disease_id`: Disease identifier
-- `source`: Prediction source
+- `source`: Source
 - `is_new`: New indication flag
 
 **Statistics:**
-- 41,560 predictions
+- 41,560 candidate pairs
 - 508 unique drugs
 - 940 unique diseases
 
@@ -84,7 +84,7 @@ cd MyTxGNN/data/processed
 
 ### Direct Links
 
-- [Knowledge-Graph Known Uses](https://github.com/yao-care/MyTxGNN/blob/main/data/processed/repurposing_candidates.csv)
+- [Candidate Pairs (unfiltered)](https://github.com/yao-care/MyTxGNN/blob/main/data/processed/repurposing_candidates.csv)
 - [DrugBank Mapping](https://github.com/yao-care/MyTxGNN/blob/main/data/processed/drugbank_mapping.csv)
 
 ---
@@ -134,7 +134,7 @@ Disease names follow the TxGNN knowledge graph ontology, which is derived from:
 ```python
 import pandas as pd
 
-# Load KG predictions
+# Load candidate pairs (unfiltered, includes known uses)
 kg = pd.read_csv('repurposing_candidates.csv')
 
 # Filter for a specific drug
@@ -150,7 +150,7 @@ high_conf = dl[dl['txgnn_score'] >= 0.7]
 ```r
 library(readr)
 
-# Load KG predictions
+# Load candidate pairs (unfiltered, includes known uses)
 kg <- read_csv('repurposing_candidates.csv')
 
 # Filter by drug

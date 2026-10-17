@@ -27,7 +27,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Laporan penilaian ahli farmasi
 

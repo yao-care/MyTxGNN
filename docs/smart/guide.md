@@ -54,8 +54,7 @@ Untuk setiap ubat, anda akan melihat:
 | Bahagian | Penerangan |
 |----------|------------|
 | **Maklumat Ubat** | Nama, ID DrugBank, kelas terapeutik |
-| **Ramalan KG** | Indikasi berpotensi dari graf pengetahuan |
-| **Ramalan DL** | Indikasi dengan skor keyakinan tinggi |
+| **Indikasi Baharu Diramal** | Ramalan model pembelajaran mendalam (skor ≥ 0.99); kegunaan sedia ada dalam graf pengetahuan dikecualikan |
 | **Tahap Bukti** | L1-L5 berdasarkan bukti klinikal |
 
 ---

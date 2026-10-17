@@ -94,25 +94,27 @@ class DrugEvidencePackGenerator:
         recs = reg.get("records", [])
         seen, lics = set(), []
         for r in recs:
-            lid = r.get("license_id", r.get("許可證字號", ""))
+            lid = r.get("license_id") or r.get("許可證字號") or r.get("reg_no", "")  # NPRA 用 reg_no
             if not lid or lid in seen:
                 continue
             seen.add(lid)
-            ings = [i for i in (r.get("ingredients") or r.get("主成分略述") or "").split(";;") if i.strip()]
+            ings = [i for i in (r.get("ingredients") or r.get("主成分略述") or "").split(";;") if i.strip()] or re.findall(r"[^,\[\]]+\[", str(r.get("active_ingredient") or ""))
             status = r.get("license_status") or ("cancelled" if _CANCELLED.search(str(r.get("status") or "") + str(r.get("註銷狀態") or "")) else "valid")
             lics.append({
                 "license_number": lid,
-                "product_name_zh": r.get("brand_name_zh", r.get("中文品名", "")),
+                "product_name_zh": r.get("brand_name_zh") or r.get("中文品名") or r.get("product", ""),
                 "dosage_form": r.get("dosage_form", r.get("劑型", "")),
-                "manufacturer": r.get("license_holder", r.get("製造廠", r.get("申請商", ""))),
+                "manufacturer": r.get("license_holder") or r.get("製造廠") or r.get("申請商") or r.get("holder", ""),
                 "approved_indication_text": r.get("indication", r.get("適應症", "")),
                 "kind": r.get("kind") or ("single" if len(ings) <= 1 else "combo"),
                 "status": status,
             })
         valid = [x for x in lics if x["status"] == "valid"]
         return {
-            "market_status": "Marketed" if valid else ("Cancelled only" if lics else "Not marketed"),
-            "total_licenses": len(lics),
+            # 只存了部分許可證（total_matches 較多）且列出的都已註銷時，不能斷定全部註銷
+            "market_status": "Marketed" if valid else (("Cancelled only" if int(reg.get("total_matches") or 0) <= len(lics) else "Unknown (partial list)") if lics else "Not marketed"),
+            "total_licenses": max(len(lics), int(reg.get("total_matches") or 0)),  # 2026-10-17：收集器只存前 20 筆時，張數取 total_matches
+            "licenses_listed": len(lics),
             "valid_single": sum(1 for x in valid if x["kind"] == "single"),
             "valid_combo": sum(1 for x in valid if x["kind"] == "combo"),
             "cancelled": len(lics) - len(valid),

@@ -10,7 +10,7 @@ image: /assets/images/og-default.png
 # Penggunaan Semula Ubat: Dari Data ke Bukti
 
 <p class="key-answer" data-question="Apakah MyTxGNN?">
-<strong>MyTxGNN</strong> adalah platform ramalan penggunaan semula ubat berdasarkan model TxGNN Harvard. Kami meramalkan <strong>41,560</strong> indikasi baharu berpotensi menggunakan kaedah graf pengetahuan, dan <strong>176,021</strong> ramalan keyakinan tinggi (skor ≥ 0.7) menggunakan pembelajaran mendalam untuk <strong>508</strong> ubat yang diluluskan NPRA Malaysia.
+<strong>MyTxGNN</strong> adalah platform ramalan penggunaan semula ubat berdasarkan model TxGNN Harvard. Kami menyenaraikan <strong>{{ site.data.site_stats.indications }}</strong> indikasi baharu yang diramalkan oleh model pembelajaran mendalam (skor ≥ 0.99, selepas kegunaan sedia ada dalam graf pengetahuan dikecualikan) untuk <strong>{{ site.data.site_stats.drugs }}</strong> ubat yang diluluskan NPRA Malaysia.
 </p>
 
 <div class="key-takeaway">

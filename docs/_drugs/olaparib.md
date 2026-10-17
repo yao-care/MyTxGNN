@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Olaparib: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L1). Indikasi asal: Kanser ovari (termasuk adenokarsinoma ovari dan sindrom kanser payuda…"
-monitor_inn: "OLAPARIB"
-predicted_indications: ["female breast carcinoma"]
 ---
 
 # Olaparib
@@ -27,7 +25,7 @@ Tahap bukti: **L1** | Indikasi diramal: **1**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Laporan penilaian ahli farmasi
 

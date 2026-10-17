@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Felodipine: indikasi baharu diramal Pulmonary hypertension dengan mekanisme pelbagai faktor yang tidak je… (tahap bukti L5). Indikasi asal: Hypertensive disorder / hipertensi"
 monitor_inn: "FELODIPINE"
-predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "chronic pulmonary heart disease", "Prinzmetal angina"]
+predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "chronic pulmonary heart disease"]
 ---
 
 # Felodipine
@@ -27,7 +27,7 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Laporan penilaian ahli farmasi
 

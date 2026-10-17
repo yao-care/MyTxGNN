@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Perampanel: indikasi baharu diramal Epilepsi visual (visual epilepsy) (tahap bukti L4). Indikasi asal: Epilepsi separa dan epilepsi motor separa (daripada graf pengetahuan…"
 monitor_inn: "PERAMPANEL"
-predicted_indications: ["visual epilepsy", "thinking seizures", "startle epilepsy", "micturation-induced seizures", "orgasm-induced seizures", "eating seizures", "audiogenic seizures", "reading seizures", "beta-ketothiolase deficiency", "status epilepticus"]
+predicted_indications: ["beta-ketothiolase deficiency"]
 ---
 
 # Perampanel
@@ -27,7 +27,7 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Laporan penilaian ahli farmasi
 

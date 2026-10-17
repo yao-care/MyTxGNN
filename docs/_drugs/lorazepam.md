@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lorazepam: indikasi baharu diramal Neoplasma saraf trigeminal (tahap bukti L5). Indikasi asal: Gangguan kebimbangan, status epilepticus, sindrom Lennox-Gastaut…"
 monitor_inn: "LORAZEPAM"
-predicted_indications: ["trigeminal nerve neoplasm", "reading seizures", "audiogenic seizures", "eating seizures", "orgasm-induced seizures", "micturation-induced seizures", "startle epilepsy", "thinking seizures", "acute encephalopathy with biphasic seizures and late reduced diffusion"]
+predicted_indications: ["trigeminal nerve neoplasm"]
 ---
 
 # Lorazepam
@@ -27,7 +27,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Laporan penilaian ahli farmasi
 

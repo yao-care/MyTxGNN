@@ -72,8 +72,8 @@ Hanya ubat yang boleh dipetakan kepada ID DrugBank disertakan. Sesetengah produk
 | **L1** | Bukti kuat | Fasa III ujian klinikal atau kelulusan FDA |
 | **L2** | Bukti sederhana-kuat | Fasa II atau pelbagai kajian konsisten |
 | **L3** | Bukti sederhana | Kajian awal atau laporan kes |
-| **L4** | Bukti terhad | Ramalan KG sahaja |
-| **L5** | Ramalan sahaja | Ramalan DL sahaja |
+| **L4** | Bukti terhad | Praklinikal, mekanistik atau laporan kes |
+| **L5** | Ramalan sahaja | Ramalan model sahaja, tiada bukti klinikal |
 
 ---
 

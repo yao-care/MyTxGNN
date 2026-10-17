@@ -27,7 +27,7 @@ Tahap bukti: **L2** | Indikasi diramal: **8**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Laporan penilaian ahli farmasi
 

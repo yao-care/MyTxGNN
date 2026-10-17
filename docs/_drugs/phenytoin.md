@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Phenytoin: indikasi baharu diramal Neoplasma saraf trigeminal (tahap bukti L5). Indikasi asal: Sawan/epilepsi"
 monitor_inn: "Phenytoin"
-predicted_indications: ["trigeminal nerve neoplasm", "audiogenic seizures", "orgasm-induced seizures", "thinking seizures", "eating seizures", "micturation-induced seizures", "reading seizures", "trigeminal neuralgia"]
+predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 ---
 
 # Phenytoin
@@ -27,7 +27,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Laporan penilaian ahli farmasi
 

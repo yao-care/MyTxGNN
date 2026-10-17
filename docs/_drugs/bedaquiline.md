@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bedaquiline: indikasi baharu diramal Tuberkulosis rintang pelbagai ubat (MDR-TB) (tahap bukti L1). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
 monitor_inn: "Bedaquiline"
-predicted_indications: ["tuberculosis, bovine", "tuberculosis, avian", "tuberculous ascites", "inactive tuberculosis", "tuberculoma", "vulvovaginal candidiasis", "fascioliasis", "urea cycle disorder", "cutaneous tuberculosis"]
+predicted_indications: ["vulvovaginal candidiasis", "fascioliasis", "urea cycle disorder"]
 ---
 
 # Bedaquiline
@@ -27,7 +27,7 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Laporan penilaian ahli farmasi
 

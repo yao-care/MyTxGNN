@@ -19,7 +19,6 @@ Browse drugs analyzed by MyTxGNN with their predicted new indications.
 | Metric | Count |
 |--------|-------|
 | Total Drugs Analyzed | 508 |
-| Known Uses in Knowledge Graph (excluded) | 41,560 |
 | Total DL Predictions (≥0.7) | 176,021 |
 | Unique Diseases | 17,041 |
 
@@ -27,7 +26,7 @@ Browse drugs analyzed by MyTxGNN with their predicted new indications.
 
 ## Top Drugs by Prediction Count
 
-The following drugs have the most predicted new indications based on TxGNN knowledge graph analysis:
+The following drugs have the most predicted new indications from the TxGNN deep learning model:
 
 | Rank | Drug | DrugBank ID | Predictions | Sample Brand |
 |------|------|-------------|-------------|--------------|
@@ -104,7 +103,6 @@ Access drug and prediction data via FHIR R4 API:
 
 Full prediction data available for download:
 
-- [Knowledge-Graph Known Uses CSV]({{ '/downloads/' | relative_url }}) - 41,560 drug-disease pairs
 - [DrugBank Mapping CSV]({{ '/downloads/' | relative_url }}) - Drug ID mappings
 
 ---
