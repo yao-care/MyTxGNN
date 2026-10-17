@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-17T01:03:03.753099",
+  "fetched": "2026-10-17T06:33:11.104879",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Sarawak Presents RM500,000 Aid To Five FDS Victims’ Families",
@@ -113,23 +113,14 @@
       ]
     },
     {
-      "title": "Haze watch: 29 areas recording unhealthy or worse air, Larkin, Pasir Gudang API hits 202",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/haze-watch-29-areas-recording-unhealthy-or-worse-air-larkin-pasir-gudang-api-hits-202/239370",
+      "title": "RM5 daily cap proposed as Tawau Hospital parking debate heats up",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/17/rm5-daily-cap-proposed-as-tawau-hospital-parking-debate-heats-up/239458",
       "source": "Malay Mail",
-      "published": "2026-10-16T11:23:20",
-      "summary": "KUALA LUMPUR, Oct 16 — Air quality in Larkin and Pasir Gudang, Johor, deteriorated to very unhealthy levels this e...",
+      "published": "2026-10-17T06:23:20",
+      "summary": "TAWAU, Oct 17 — The proposed parking charges at Tawau Hospital should be viewed as a practical solution to persist...",
       "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "PeKa B40 becomes PeKa Sihat in healthcare revamp as govt looks to ease clinic queues",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/16/peka-b40-becomes-peka-sihat-in-healthcare-revamp-as-govt-looks-to-ease-clinic-queues/239363",
-      "source": "Malay Mail",
-      "published": "2026-10-16T09:52:13",
-      "summary": "KUALA LUMPUR, Oct 16 — The Health Ministry’s PeKa B40 healthcare programme will be rebranded as PeKa Sihat,...",
-      "keywords_matched": [
-        "health"
+        "hospital",
+        "hospital"
       ]
     }
   ]
