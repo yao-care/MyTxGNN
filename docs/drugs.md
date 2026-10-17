@@ -19,7 +19,7 @@ Browse drugs analyzed by MyTxGNN with their predicted new indications.
 | Metric | Count |
 |--------|-------|
 | Total Drugs Analyzed | 508 |
-| Total KG Predictions | 41,560 |
+| Known Uses in Knowledge Graph (excluded) | 41,560 |
 | Total DL Predictions (≥0.7) | 176,021 |
 | Unique Diseases | 17,041 |
 
@@ -104,7 +104,7 @@ Access drug and prediction data via FHIR R4 API:
 
 Full prediction data available for download:
 
-- [KG Predictions CSV]({{ '/downloads/' | relative_url }}) - 41,560 drug-disease pairs
+- [Knowledge-Graph Known Uses CSV]({{ '/downloads/' | relative_url }}) - 41,560 drug-disease pairs
 - [DrugBank Mapping CSV]({{ '/downloads/' | relative_url }}) - Drug ID mappings
 
 ---

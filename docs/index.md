@@ -203,6 +203,5 @@ Gambaran keseluruhan produk: <https://www.yao.care/medical/txgnn/>.
 
 Model TxGNN itu sendiri dibangunkan oleh Zitnik Lab di Harvard Medical School dan diterbitkan
 dalam *Nature Medicine*. Platform ini ialah sistem pengeluaran yang dibina oleh 藥提醒科技有限公司
-berasaskan model tersebut, merangkumi integrasi data pendaftaran ubat kebangsaan, ramalan
-dwi-kaedah graf pengetahuan dan pembelajaran mendalam, penggredan bukti PubMed /
+berasaskan model tersebut, merangkumi integrasi data pendaftaran ubat kebangsaan, ramalan pembelajaran mendalam yang mengecualikan kegunaan yang sudah direkodkan dalam graf pengetahuan, penggredan bukti PubMed /
 ClinicalTrials, serta integrasi rekod kesihatan elektronik SMART on FHIR.

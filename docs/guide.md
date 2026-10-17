@@ -28,19 +28,16 @@ Learn how to effectively use MyTxGNN for drug repurposing research.
 
 ### Two Types of Predictions
 
-MyTxGNN provides two complementary prediction methods:
-
-#### Knowledge Graph (KG) Predictions
-
-- Based on existing relationships in biomedical knowledge graphs
-- Identifies drugs with similar indication patterns
-- **41,560 predictions** for 508 drugs
+MyTxGNN lists drug repurposing predictions from the TxGNN deep learning model:
 
 #### Deep Learning (DL) Predictions
 
-- Neural network confidence scores
-- Higher scores indicate stronger predicted associations
-- **176,021 high-confidence predictions** (score ≥ 0.7)
+- Neural network scores for each drug–disease pair
+- Drug pages list predictions with a score of at least 0.99
+
+#### Known-Use Check (KG)
+
+- Indications already recorded in the knowledge graph are excluded; they are known uses, not new predictions
 
 ### Interpreting Results
 
@@ -97,7 +94,7 @@ GET /fhir/ClinicalUseDefinition/db00860-allergic-rhinitis
    - Or start with a disease you want to find treatments for
 
 2. **Review Predictions**
-   - Check KG predictions for the drug/disease
+   - Check the predicted new indications for the drug/disease
    - Review DL confidence scores
 
 3. **Gather Evidence**

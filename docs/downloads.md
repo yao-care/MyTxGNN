@@ -84,7 +84,7 @@ cd MyTxGNN/data/processed
 
 ### Direct Links
 
-- [KG Predictions](https://github.com/yao-care/MyTxGNN/blob/main/data/processed/repurposing_candidates.csv)
+- [Knowledge-Graph Known Uses](https://github.com/yao-care/MyTxGNN/blob/main/data/processed/repurposing_candidates.csv)
 - [DrugBank Mapping](https://github.com/yao-care/MyTxGNN/blob/main/data/processed/drugbank_mapping.csv)
 
 ---

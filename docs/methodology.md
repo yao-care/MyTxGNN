@@ -25,49 +25,31 @@ TxGNN Prediction → Data Collection (Bundle) → Evidence Grading → Report Ge
 
 ## Step 1: TxGNN Prediction
 
-### Two Prediction Approaches
+### How Predictions Are Made
 
-MyTxGNN uses two complementary approaches:
-
-#### Knowledge Graph (KG) Prediction
-
-Based on existing relationships in the TxGNN biomedical knowledge graph:
-
-1. **Knowledge Graph Construction**
-   - 17,080 nodes (drugs, diseases, genes, proteins)
-   - Complex inter-node relationships from multiple sources
-
-2. **Relationship Inference**
-   - Identifies drugs with similar relationship patterns
-   - Predicts potential new drug-disease associations
-
-3. **Output**
-   - Drug-disease pairs based on knowledge graph patterns
-   - 41,560 predictions for 508 drugs
+MyTxGNN uses the TxGNN deep learning (DL) model and checks every prediction against the knowledge graph (KG):
 
 #### Deep Learning (DL) Prediction
 
-Using TxGNN's neural network model:
-
 1. **Graph Neural Network**
-   - Learns hidden relationships between nodes
-   - Predicts new drug-disease associations
+   - Trained on a biomedical knowledge graph covering 17,080 diseases
+   - Scores every drug–disease pair
 
-2. **Confidence Scoring**
-   - Each drug-disease pair receives a prediction score
-   - Higher scores indicate higher confidence
+2. **Output**
+   - Drug pages list only predictions with a score of at least 0.99 (up to 10 per drug)
 
-3. **Output**
-   - 9.97 million total predictions
-   - 176,021 high-confidence predictions (score ≥ 0.7)
+#### Known-Use Check (KG)
+
+- Indications and contraindications already recorded for the drug in the knowledge graph are excluded
+- These are known uses, not new predictions
 
 ### Prediction Parameters
 
-| Parameter | KG Method | DL Method |
-|-----------|-----------|-----------|
-| Score Threshold | Based on graph distance | ≥ 0.7 (high confidence) |
-| Exclude Known Indications | Yes | Yes |
-| DrugBank Mapping Required | Yes | Yes |
+| Parameter | Value |
+|-----------|-------|
+| Score threshold for drug pages | ≥ 0.99 |
+| Exclude known indications and contraindications | Yes (knowledge graph) |
+| DrugBank Mapping Required | Yes |
 
 ---
 

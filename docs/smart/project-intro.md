@@ -20,8 +20,8 @@ permalink: /smart/project-intro/
 | Metric | Value |
 |--------|-------|
 | **Drugs Analyzed** | 508 |
-| **KG Predictions** | 41,560 |
-| **DL Predictions** | 9,968,985 |
+| **KG Known Uses (excluded)** | 41,560 |
+| **DL Scored Pairs** | 9,968,985 |
 | **High Confidence (≥0.7)** | 176,021 |
 | **Unique Diseases** | 17,041 |
 
