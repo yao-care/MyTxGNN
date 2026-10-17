@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-17T06:33:11.104879",
+  "fetched": "2026-10-17T11:21:35.702674",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Sarawak Presents RM500,000 Aid To Five FDS Victims’ Families",
@@ -113,14 +113,23 @@
       ]
     },
     {
-      "title": "RM5 daily cap proposed as Tawau Hospital parking debate heats up",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/17/rm5-daily-cap-proposed-as-tawau-hospital-parking-debate-heats-up/239458",
+      "title": "Health Ministry: Over 6,700 officers approved for promotions and acting appointments, including four chopper crash victims",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/17/health-ministry-over-6700-officers-approved-for-promotions-and-acting-appointments-including-four-chopper-crash-victims/239480",
       "source": "Malay Mail",
-      "published": "2026-10-17T06:23:20",
-      "summary": "TAWAU, Oct 17 — The proposed parking charges at Tawau Hospital should be viewed as a practical solution to persist...",
+      "published": "2026-10-17T09:20:35",
+      "summary": "PUTRAJAYA, Oct 17 — A total of 6,724 officers from various service schemes under the Ministry of Health (MOH) have...",
       "keywords_matched": [
-        "hospital",
-        "hospital"
+        "health"
+      ]
+    },
+    {
+      "title": "Drug abuse among Malaysian under-15s a growing concern, says Saifuddin Nasution",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/17/drug-abuse-among-malaysian-under-15s-a-growing-concern-says-saifuddin-nasution/239472",
+      "source": "Malay Mail",
+      "published": "2026-10-17T08:23:18",
+      "summary": "MACHANG, Oct 17 — The trend of drug abuse among those under the age of 15 is increasingly concerning and requires...",
+      "keywords_matched": [
+        "drug"
       ]
     }
   ]
