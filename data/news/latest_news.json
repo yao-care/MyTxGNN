@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-18T05:25:36.642977",
+  "fetched": "2026-10-18T10:24:00.141189",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Sarawak Presents RM500,000 Aid To Five FDS Victims’ Families",
@@ -113,11 +113,21 @@
       ]
     },
     {
-      "title": "MediAsas plan to offer financial, health safety net to Malaysia’s M40, says Dzulkefly",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/18/mediasas-plan-to-offer-financial-health-safety-net-to-malaysias-m40-says-dzulkefly/239577",
+      "title": "Nationwide haze surge pushes API past 150 in 26 areas, Pasir Gudang worst at 182",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/18/nationwide-haze-surge-pushes-api-past-150-in-26-areas-pasir-gudang-worst-at-182/239627",
       "source": "Malay Mail",
-      "published": "2026-10-18T05:07:59",
-      "summary": "KUALA LUMPUR, Oct 18 — The MediAsas Plan scheme, set to launch in January 2027, will provide a financial and healt...",
+      "published": "2026-10-18T09:41:39",
+      "summary": "KUALA LUMPUR, Oct 18 — A total of 26 areas nationwide recorded unhealthy Air Pollutant Index (API) readings as of...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Kuching, Samarahan and Serian record unhealthy API readings as haze lingers over Sarawak",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/18/kuching-samarahan-and-serian-record-unhealthy-api-readings-as-haze-lingers-over-sarawak/239600",
+      "source": "Malay Mail",
+      "published": "2026-10-18T08:47:31",
+      "summary": "KUCHING, Oct 18 — Kuching, Samarahan and Serian recorded unhealthy Air Pollutant Index (API) readings as of 2pm to...",
       "keywords_matched": [
         "health"
       ]
