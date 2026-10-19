@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-19T00:48:02.111297",
+  "fetched": "2026-10-19T05:43:30.025864",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,30 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Overcrowding In Emergency Departments, Ward Bed Shortages In Government Hospitals — Assistant Medical Officer",
+      "url": "https://codeblue.galencentre.org/2026/10/overcrowding-in-emergency-departments-ward-bed-shortages-in-government-hospitals-assistant-medical-officer/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-19T03:45:00",
+      "summary": "Malaysia doesn't need to directly \"import\" foreign experts to manage the local system. Instead, adapting proven international modules while providing sufficient space, authority, and funding for local public health experts to execute reforms is sufficient. The post Overcrowding In Emergency Departments, Ward Bed Shortages In Government Hospitals — Assistant Medical Officer appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "When Perak’s Trauma Centre Has No C-Arm — Specialist",
+      "url": "https://codeblue.galencentre.org/2026/10/when-peraks-trauma-centre-has-no-c-arm-specialist/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-19T02:00:00",
+      "summary": "C-arm is essential imaging equipment that allows surgeons to see bones and implants in real time during many fracture fixation procedures. When this equipment became unavailable at HRPB, cases had to be diverted to other hospitals in the state. The post When Perak’s Trauma Centre Has No C-Arm — Specialist appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Sarawak Presents RM500,000 Aid To Five FDS Victims’ Families",
       "url": "https://codeblue.galencentre.org/2026/10/sarawak-presents-rm500000-aid-to-five-fds-victims-families/",
@@ -91,35 +115,13 @@
       ]
     },
     {
-      "title": "AIA Excluding Individual IHH Consultants From Panel On ‘Purely Commercial’ Basis: IHH",
-      "url": "https://codeblue.galencentre.org/2026/10/aia-excluding-individual-ihh-consultants-from-panel-on-purely-commercial-basis-ihh/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-15T02:00:00",
-      "summary": "IHH protests the exclusion of individual consultants from AIA's panel, even though its hospitals remain empanelled, saying the exclusions were made on a \"purely commercial\" basis. Even within AIA's Smart hospitals, doctors are classified as \"Smart\" or not. The post AIA Excluding Individual IHH Consultants From Panel On ‘Purely Commercial’ Basis: IHH appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "doctor",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Action Plan Needed After Permanent Posts Promised To Pharmacists — MPS",
-      "url": "https://codeblue.galencentre.org/2026/10/action-plan-needed-after-permanent-posts-promised-to-pharmacists-mps/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-14T07:34:05",
-      "summary": "The affected pharmacists require sufficient certainty to make informed decisions about their careers and continuing service within the public health care system. The post Action Plan Needed After Permanent Posts Promised To Pharmacists — MPS appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Nationwide haze surge pushes API past 150 in 26 areas, Pasir Gudang worst at 182",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/18/nationwide-haze-surge-pushes-api-past-150-in-26-areas-pasir-gudang-worst-at-182/239627",
+      "title": "Police: Drug trafficking case mentioned in podcast near Sentul IPD dates back to 2016",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/19/police-drug-trafficking-case-mentioned-in-podcast-near-sentul-ipd-dates-back-to-2016/239661",
       "source": "Malay Mail",
-      "published": "2026-10-18T09:41:39",
-      "summary": "KUALA LUMPUR, Oct 18 — A total of 26 areas nationwide recorded unhealthy Air Pollutant Index (API) readings as of...",
+      "published": "2026-10-19T01:39:38",
+      "summary": "KUALA LUMPUR, Oct 19 —  The drug trafficking case near a place of worship close to the Sentul District Police...",
       "keywords_matched": [
-        "health"
+        "drug"
       ]
     }
   ]
