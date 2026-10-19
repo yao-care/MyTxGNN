@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-19T05:43:30.025864",
+  "fetched": "2026-10-19T12:08:46.881578",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,24 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Kuala Langat MP Demands Equal Compensation For Five FDS Victims",
+      "url": "https://codeblue.galencentre.org/2026/10/kuala-langat-mp-demands-equal-compensation-for-five-fds-victims/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-19T09:29:57",
+      "summary": "Kuala Langat MP Ahmad Yunus calls for equal compensation for the families of all five victims of the Long Lellang tragedy, saying it was disappointing that this wasn't announced in Budget 2027. MOH announced RM130,000 payouts to families of its four staff. The post Kuala Langat MP Demands Equal Compensation For Five FDS Victims appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "MCTC Claims Possible Government Attempt To Delist Liquid Nicotine Again",
+      "url": "https://codeblue.galencentre.org/2026/10/mctc-claims-possible-government-attempt-to-delist-liquid-nicotine-again/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-19T09:04:43",
+      "summary": "MCTC says the government is possibly renewing its attempt to exempt liquid nicotine from the Poisons List by returning to the Poisons Board, after the High Court nullified the 2023 exemption. MCTC urges the Board to again reject any proposed exemption. The post MCTC Claims Possible Government Attempt To Delist Liquid Nicotine Again appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Overcrowding In Emergency Departments, Ward Bed Shortages In Government Hospitals — Assistant Medical Officer",
       "url": "https://codeblue.galencentre.org/2026/10/overcrowding-in-emergency-departments-ward-bed-shortages-in-government-hospitals-assistant-medical-officer/",
@@ -97,31 +113,23 @@
       ]
     },
     {
-      "title": "Bend The Bamboo While It’s Still A Shoot: The Ticking Time Bomb Of Overprotective Parenting",
-      "url": "https://codeblue.galencentre.org/2026/10/bend-the-bamboo-while-its-still-a-shoot-the-ticking-time-bomb-of-overprotective-parenting/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-15T06:00:00",
-      "summary": "Let us bend the bamboo while it is still a shoot, so that when it grows tall and strong, it will stand firm against the storms of life. The post Bend The Bamboo While It’s Still A Shoot: The Ticking Time Bomb Of Overprotective Parenting appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Don’t Weaponise ‘Service Needs’ Against Health Workers — Public Servant In MOH",
-      "url": "https://codeblue.galencentre.org/2026/10/dont-weaponise-service-needs-against-health-workers-public-servant-in-moh/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-15T03:30:00",
-      "summary": "The government must support sustainable workforce policy, and before demanding that the workforce change, the institution must be prepared to change itself. The post Don’t Weaponise ‘Service Needs’ Against Health Workers — Public Servant In MOH appeared first on CodeBlue .",
+      "title": "Malaysia retains WHO validation for eliminating mother-to-child HIV, syphilis transmission",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/19/malaysia-retains-who-validation-for-eliminating-mother-to-child-hiv-syphilis-transmission/239767",
+      "source": "Malay Mail",
+      "published": "2026-10-19T10:18:51",
+      "summary": "PUTRAJAYA, Oct 19 — Malaysia has retained the World Health Organisation (WHO) validation for the elimination of mo...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "Police: Drug trafficking case mentioned in podcast near Sentul IPD dates back to 2016",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/19/police-drug-trafficking-case-mentioned-in-podcast-near-sentul-ipd-dates-back-to-2016/239661",
+      "title": "Haze: 27 areas in Malaysia record unhealthy air quality as of 4pm, Johan Setia in Selangor records highest reading of 169",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/19/haze-27-areas-in-malaysia-record-unhealthy-air-quality-as-of-4pm-johan-setia-in-selangor-records-highest-reading-of-169/239760",
       "source": "Malay Mail",
-      "published": "2026-10-19T01:39:38",
-      "summary": "KUALA LUMPUR, Oct 19 —  The drug trafficking case near a place of worship close to the Sentul District Police...",
+      "published": "2026-10-19T09:56:11",
+      "summary": "KUALA LUMPUR, Oct 19 — A total of 27 areas nationwide continued to record unhealthy Air Pollutant Index (API) read...",
       "keywords_matched": [
-        "drug"
+        "health"
       ]
     }
   ]
