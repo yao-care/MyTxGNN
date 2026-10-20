@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-19T22:52:15.945946",
+  "fetched": "2026-10-20T01:34:30.070611",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Kuala Langat MP Demands Equal Compensation For Five FDS Victims",
@@ -110,26 +110,6 @@
         "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Malaysia retains WHO validation for eliminating mother-to-child HIV, syphilis transmission",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/19/malaysia-retains-who-validation-for-eliminating-mother-to-child-hiv-syphilis-transmission/239767",
-      "source": "Malay Mail",
-      "published": "2026-10-19T10:18:51",
-      "summary": "PUTRAJAYA, Oct 19 — Malaysia has retained the World Health Organisation (WHO) validation for the elimination of mo...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Haze: 27 areas in Malaysia record unhealthy air quality as of 4pm, Johan Setia in Selangor records highest reading of 169",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/19/haze-27-areas-in-malaysia-record-unhealthy-air-quality-as-of-4pm-johan-setia-in-selangor-records-highest-reading-of-169/239760",
-      "source": "Malay Mail",
-      "published": "2026-10-19T09:56:11",
-      "summary": "KUALA LUMPUR, Oct 19 — A total of 27 areas nationwide continued to record unhealthy Air Pollutant Index (API) read...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
