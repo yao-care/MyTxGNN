@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Nitroglycerin: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L3). Indikasi asal: Tiada data indikasi berdaftar di Malaysia dalam data yang dikumpulkan…"
 monitor_inn: "NITROGLYCERIN"
-predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "Prinzmetal angina", "primary hereditary glaucoma", "congenital hypotrichosis milia"]
+predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "primary hereditary glaucoma", "congenital hypotrichosis milia"]
 ---
 
 # Nitroglycerin
