@@ -114,7 +114,7 @@ This platform integrates multiple public data sources including AI predictions, 
 <tr><th>Data Type</th><th>Source</th><th>Description</th></tr>
 </thead>
 <tbody>
-<tr><td>AI Prediction</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Harvard graph neural network model</td></tr>
+<tr><td>AI Prediction</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Harvard graph neural network trained on a knowledge graph</td></tr>
 <tr><td>Clinical Trials</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>Global clinical trial registry</td></tr>
 <tr><td>Literature</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>Biomedical literature database</td></tr>
 <tr><td>Drug Information</td><td><a href="https://go.drugbank.com/">DrugBank</a></td><td>Drug and target database</td></tr>

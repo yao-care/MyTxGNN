@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Agomelatine: indikasi baharu diramal Gangguan kecemasan (anxiety disorder) (tahap bukti L2). Indikasi asal: Gangguan kemurungan major"
 monitor_inn: "Agomelatine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "melancholia", "Ohdo syndrome and variants"]
 ---
 
 # Agomelatine

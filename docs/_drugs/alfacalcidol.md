@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Alfacalcidol: indikasi baharu diramal Hipoparatiroidisme terpencil familial akibat rembesan PTH terjejas (tahap bukti L4). Indikasi asal: Hiperparatiroidisme, osteitis fibrosa, hipoparatiroidisme…"
 monitor_inn: "ALFACALCIDOL"
-predicted_indications: ["Dahlberg-Borer-Newcomer syndrome", "craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
+predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "Dahlberg-Borer-Newcomer syndrome", "craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
 ---
 
 # Alfacalcidol

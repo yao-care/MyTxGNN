@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Doxycycline: indikasi baharu diramal Keratokonjunktivitis epitelium punktat (tahap bukti L4). Indikasi asal: Tiada data indikasi diluluskan dalam rekod pendaftaran NPRA yang diku…"
 monitor_inn: "Doxycycline"
-predicted_indications: ["otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome"]
 ---
 
 # Doxycycline

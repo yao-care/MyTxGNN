@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Citalopram: indikasi baharu diramal Gangguan obsesif-kompulsif (OCD) (tahap bukti L5). Indikasi asal: Gangguan kemurungan major, kemurungan unipolar, kemurungan endogen…"
 monitor_inn: "CITALOPRAM"
-predicted_indications: ["paranoid personality disorder", "schizotypal personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)"]
+predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizotypal personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)"]
 ---
 
 # Citalopram

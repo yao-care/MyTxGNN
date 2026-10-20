@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Ketorolac: indikasi baharu diramal Gangguan sakit kepala (headache disorder) (tahap bukti L1). Indikasi asal: Konjunktivitis atopik, konjunktivitis papilari…"
 monitor_inn: "ketorolac"
-predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
 ---
 
 # Ketorolac

@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Dexpanthenol: indikasi baharu diramal Exanthem (ruam kulit) (tahap bukti L4). Indikasi asal: Ileus paralitik, halangan usus, gastroparesis, dermatitis…"
 monitor_inn: "DEXPANTHENOL"
-predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "punctate epithelial keratoconjunctivitis"]
+predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "exanthem (disease)", "punctate epithelial keratoconjunctivitis"]
 ---
 
 # Dexpanthenol

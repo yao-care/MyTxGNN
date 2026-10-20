@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ergocalciferol: indikasi baharu diramal Kekurangan vitamin D (istilah usang) (tahap bukti L5). Indikasi asal: Tidak tersedia dalam data pendaftaran tempatan"
 monitor_inn: "Ergocalciferol"
-predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome"]
+predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hypophosphatemia (disease)", "renal osteodystrophy"]
 ---
 
 # Ergocalciferol

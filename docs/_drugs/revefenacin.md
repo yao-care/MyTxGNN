@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Revefenacin: indikasi baharu diramal Bronkitis (tahap bukti L4). Indikasi asal: Penyakit pulmonari obstruktif kronik (COPD)"
+monitor_inn: "REVEFENACIN"
+predicted_indications: ["bronchitis"]
 ---
 
 # Revefenacin

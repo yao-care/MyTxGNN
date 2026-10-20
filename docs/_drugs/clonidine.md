@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Clonidine: indikasi baharu diramal ADHD jenis kurang perhatian (attention deficit hyperactivity disorder… (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar tempatan"
 monitor_inn: "Clonidine"
-predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome"]
+predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome"]
 ---
 
 # Clonidine

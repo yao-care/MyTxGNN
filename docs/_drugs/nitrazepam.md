@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Nitrazepam: indikasi baharu diramal Gangguan tidur (memulakan dan mengekalkan tidur) (tahap bukti L4). Indikasi asal: Insomnia"
 monitor_inn: "NITRAZEPAM"
-predicted_indications: ["sleep disorder, initiating and maintaining sleep", "Wernicke-Korsakoff syndrome"]
+predicted_indications: ["Wernicke-Korsakoff syndrome"]
 ---
 
 # Nitrazepam

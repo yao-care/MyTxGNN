@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vitamin E: indikasi baharu diramal Kolestasis intrahepatik berulang benigna (BRIC) (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan"
 monitor_inn: "Vitamin E"
-predicted_indications: ["bilirubin metabolism disease", "drug-induced liver injury", "microvillus inclusion disease", "hyperbiliverdinemia", "Navajo neurohepatopathy", "nevus of Ito"]
+predicted_indications: ["inborn disorder of bilirubin metabolism", "bilirubin metabolism disease", "hereditary North American Indian childhood cirrhosis", "drug-induced liver injury", "microvillus inclusion disease", "hyperbiliverdinemia", "Navajo neurohepatopathy", "nevus of Ito"]
 ---
 
 # Vitamin E

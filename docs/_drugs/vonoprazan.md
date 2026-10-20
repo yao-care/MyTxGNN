@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vonoprazan: indikasi baharu diramal Ulser gastrik (gastric ulcer) (tahap bukti L1). Indikasi asal: Tiada data indikasi lesen tempatan dalam data yang dikompilasi"
 monitor_inn: "Vonoprazan"
-predicted_indications: ["hiatus hernia (disease)", "achlorhydria", "Dieulafoy lesion", "pylorospasm"]
+predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "achlorhydria", "Dieulafoy lesion", "pylorospasm"]
 ---
 
 # Vonoprazan

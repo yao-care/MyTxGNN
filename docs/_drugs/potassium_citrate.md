@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Potassium Citrate: indikasi baharu diramal Asidosis tubulus renal (renal tubular acidosis) (tahap bukti L3)."
 monitor_inn: "Potassium citrate"
-predicted_indications: ["familial visceral myopathy", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Pendred syndrome", "cystinosis", "hypermanganesemia with dystonia", "nephrolithiasis susceptibility caused by SLC26A1"]
+predicted_indications: ["familial visceral myopathy", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Pendred syndrome", "nephrolithiasis", "cystinosis", "hypermanganesemia with dystonia", "nephrolithiasis susceptibility caused by SLC26A1"]
 ---
 
 # Potassium Citrate

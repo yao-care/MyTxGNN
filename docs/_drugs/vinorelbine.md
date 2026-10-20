@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vinorelbine: indikasi baharu diramal Sarkoma Ewing (tahap bukti L2). Indikasi asal: Kanser paru-paru sel bukan kecil (NSCLC)"
 monitor_inn: "Vinorelbine"
-predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "pulmonary sulcus neoplasm", "lung germ cell tumor", "hamartoma of lung", "lung benign neoplasm", "lung hilum carcinoma", "pulmonary blastoma"]
+predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "pulmonary sulcus neoplasm", "lung germ cell tumor", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]
 ---
 
 # Vinorelbine

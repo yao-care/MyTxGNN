@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Duloxetine: indikasi baharu diramal Kemurungan endogen (endogenous depression) (tahap bukti L5). Indikasi asal: Tidak tersedia dalam data yang dikumpulkan (tiada lesen NPRA direkodk…"
 monitor_inn: "Duloxetine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder"]
 ---
 
 # Duloxetine

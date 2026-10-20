@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Laronidase: indikasi baharu diramal Penyakit simpanan lisosom dengan penglibatan rangka (tahap bukti L4). Indikasi asal: Mukopolisakaridosis, sindrom Hurler, sindrom Hurler-Scheie…"
+monitor_inn: "LARONIDASE"
+predicted_indications: ["lysosomal storage disease with skeletal involvement", "Sanfilippo syndrome"]
 ---
 
 # Laronidase

@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Tazobactam: indikasi baharu diramal Pneumonia (ramalan utama) (tahap bukti L5). Indikasi asal: Pneumonia bakteria, peritonitis, apendisitis…"
-monitor_inn: "TAZOBACTAM"
-predicted_indications: ["urinary tract infection (disease)"]
 ---
 
 # Tazobactam

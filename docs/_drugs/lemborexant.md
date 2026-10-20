@@ -7,8 +7,6 @@ evidence_level: L1
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Lemborexant: indikasi baharu diramal Gangguan tidur (memulakan dan mengekalkan tidur) (tahap bukti L1). Indikasi asal: Insomnia"
-monitor_inn: "LEMBOREXANT"
-predicted_indications: ["sleep disorder, initiating and maintaining sleep"]
 ---
 
 # Lemborexant
