@@ -66,7 +66,7 @@ Exploratory candidates requiring substantial validation
 ### L5: AI Prediction Only
 
 - TxGNN model prediction without clinical validation
-- Based on knowledge graph relationships
+- Graph neural network prediction (score ≥ 0.99), not a relation already recorded in the knowledge graph
 - High prediction score but no human studies
 - Starting point for research hypothesis
 

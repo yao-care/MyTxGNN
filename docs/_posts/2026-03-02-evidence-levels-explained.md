@@ -87,7 +87,7 @@ MyTxGNN uses a 5-level evidence classification system (L1-L5) to help researcher
 <strong>What qualifies:</strong>
 <ul>
 <li>TxGNN AI prediction only</li>
-<li>Knowledge graph relationship inference</li>
+<li>Graph neural network prediction (score ≥ 0.99), not a known use</li>
 <li>No clinical human studies found</li>
 </ul>
 </div>
