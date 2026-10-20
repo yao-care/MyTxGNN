@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-20T07:10:11.299555",
+  "fetched": "2026-10-20T13:20:19.494173",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,20 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Pulai MP Reveals Cashless Facilities Revoked From 190 Specialists Nationwide",
+      "url": "https://codeblue.galencentre.org/2026/10/pulai-mp-reveals-cashless-facilities-revoked-from-190-specialists-nationwide/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-20T08:11:02",
+      "summary": "Pulai MP Suhaizan says 190 private specialists nationwide have lost cashless facilities, warning that patients may face treatment delays and hefty upfront costs. Kuala Kangsar MP Iskandar slams insurers’ one-year waiting period for new specialist doctors. The post Pulai MP Reveals Cashless Facilities Revoked From 190 Specialists Nationwide appeared first on CodeBlue .",
+      "keywords_matched": [
+        "treatment",
+        "doctor",
+        "patient"
+      ]
+    },
     {
       "title": "Higher Valency Pneumococcal Vaccines Need Stronger Local Evidence: Experts",
       "url": "https://codeblue.galencentre.org/2026/10/higher-valency-pneumococcal-vaccines-need-stronger-local-evidence-experts/",
@@ -100,35 +112,31 @@
       ]
     },
     {
-      "title": "Mandate Mediation For Medical Negligence Complaints Before Lawsuits, Says APHM",
-      "url": "https://codeblue.galencentre.org/2026/10/mandate-mediation-for-medical-negligence-complaints-before-lawsuits-says-aphm/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-16T02:00:00",
-      "summary": "APHM's Dr Kuljit Singh wants medical negligence disputes to undergo mandatory mediation before suing. He says litigation fears are also driving defensive medicine and higher health care utilisation. Doctors can't use cost-saving for patients as a defence. The post Mandate Mediation For Medical Negligence Complaints Before Lawsuits, Says APHM appeared first on CodeBlue .",
+      "title": "Terengganu, Kelantan, Kedah and Perlis record highest drug abuse rates",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/20/terengganu-kelantan-kedah-and-perlis-record-highest-drug-abuse-rates/239917",
+      "source": "Malay Mail",
+      "published": "2026-10-20T11:40:12",
+      "summary": "PUTRAJAYA, Oct 20 — Terengganu, Kelantan, Kedah and Perlis recorded the highest rates of drug or substance addicti...",
       "keywords_matched": [
-        "health",
-        "medical",
-        "medicine",
-        "doctor",
-        "patient"
+        "drug"
       ]
     },
     {
-      "title": "Malaysia, WHO aim to finalise pandemic agreement by May 2027, says Dzulkefly",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/20/malaysia-who-aim-to-finalise-pandemic-agreement-by-may-2027-says-dzulkefly/239864",
+      "title": "Police record statements over podcast video on alleged drug trafficking",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/20/police-record-statements-over-podcast-video-on-alleged-drug-trafficking/239914",
       "source": "Malay Mail",
-      "published": "2026-10-20T07:00:07",
-      "summary": "KUALA LUMPUR, Oct 20 — Malaysia and the World Health Organization (WHO) have renewed their joint commitment...",
+      "published": "2026-10-20T11:21:38",
+      "summary": "KUALA LUMPUR, Oct 20 — Police have opened an investigation into the circulation of a podcast video alleg...",
       "keywords_matched": [
-        "health"
+        "drug"
       ]
     },
     {
-      "title": "Malaysia haze: 30 areas record unhealthy API readings as of 9am; Batu Muda in KL and Johan Setia in Selangor highest",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/20/malaysia-haze-30-areas-record-unhealthy-api-readings-as-of-9am-batu-muda-in-kl-and-johan-setia-in-selangor-highest/239827",
+      "title": "Batu Muda tops API readings as haze worsens in 25 areas across Malaysia",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/20/batu-muda-tops-api-readings-as-haze-worsens-in-25-areas-across-malaysia/239894",
       "source": "Malay Mail",
-      "published": "2026-10-20T03:34:53",
-      "summary": "KUALA LUMPUR, Oct 20 — A total of 30 areas nationwide recorded unhealthy Air Pollutant Index (API) readings as of...",
+      "published": "2026-10-20T09:57:14",
+      "summary": "KUALA LUMPUR, Oct 20 — Twenty-five areas nationwide remained at unhealthy air quality levels as of 4pm today,...",
       "keywords_matched": [
         "health"
       ]
