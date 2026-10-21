@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-21T01:16:28.015518",
+  "fetched": "2026-10-21T07:03:14.467710",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Hong Leong Assurance Reprices Medical Premiums By 9% Annually Until 2028, One-Year Deferment For 60-Somethings",
+      "url": "https://codeblue.galencentre.org/2026/10/hong-leong-assurance-reprices-medical-premiums-by-9-annually-until-2028-one-year-deferment-for-60-somethings/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-21T02:00:00",
+      "summary": "Hong Leong Assurance's 2026 medical repricing involves 9% annual premium increases for 3 years (Nov 2026, Nov 2027, Nov 2028), and projected hikes at 11% in Nov 2029 and 12% in Nov 2030: cumulative 50% hike in 5 years. Certain seniors get 1-year deferment. The post Hong Leong Assurance Reprices Medical Premiums By 9% Annually Until 2028, One-Year Deferment For 60-Somethings appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
     {
       "title": "Pulai MP Reveals Cashless Facilities Revoked From 190 Specialists Nationwide",
       "url": "https://codeblue.galencentre.org/2026/10/pulai-mp-reveals-cashless-facilities-revoked-from-190-specialists-nationwide/",
@@ -102,53 +112,34 @@
       ]
     },
     {
-      "title": "Duopharma Biotech Expands Vaccine Portfolio With Enimmune",
-      "url": "https://codeblue.galencentre.org/2026/10/duopharma-biotech-expands-vaccine-portfolio-with-enimmune/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-16T02:50:58",
-      "summary": "The partnership establishes a pathway to introduce niche vaccines in Malaysia and provides a foundation for collaboration on future vaccine pipeline opportunities. The post Duopharma Biotech Expands Vaccine Portfolio With Enimmune appeared first on CodeBlue .",
+      "title": "Rapid KL trials fixed-schedule feeder vans in Cheras and Putrajaya, ditching app bookings",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/21/rapid-kl-trials-fixed-schedule-feeder-vans-in-cheras-and-putrajaya-ditching-app-bookings/240000",
+      "source": "Malay Mail",
+      "published": "2026-10-21T04:27:16",
+      "summary": "KUALA LUMPUR, Oct 21 — Commuters in parts of Cheras and Putrajaya will soon be able to board feeder vans on fixed...",
       "keywords_matched": [
-        "vaccine"
+        "trial"
       ]
     },
     {
-      "title": "Haze in Malaysia: 22 areas still at ‘Unhealthy’ air quality levels",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/21/haze-in-malaysia-22-areas-still-at-unhealthy-air-quality-levels/239937",
+      "title": "No order to step down: Shuhaily to remain on duty after claiming trial to assaulting Special Branch cops",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/21/no-order-to-step-down-shuhaily-to-remain-on-duty-after-claiming-trial-to-assaulting-special-branch-cops/239992",
       "source": "Malay Mail",
-      "published": "2026-10-21T01:09:37",
-      "summary": "KUALA LUMPUR, Oct 21 — Haze continued to blanket much of the peninsula this morning, with 22 of the country’...",
+      "published": "2026-10-21T03:39:25",
+      "summary": "KUALA LUMPUR, Oct 21 — Malaysian Checkpoints and Borders Agency (MCBA) director-general Datuk Seri Mohd Shuhaily M...",
       "keywords_matched": [
-        "health"
+        "trial"
       ]
     },
     {
-      "title": "Haze is making pets sick too: Malaysian vets report cats suffering asthma attacks, dogs needing oxygen therapy",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/21/haze-is-making-pets-sick-too-malaysian-vets-report-cats-suffering-asthma-attacks-dogs-needing-oxygen-therapy/239734",
+      "title": "Malaysia calls for WHO-led pooled medicine purchasing amid supply risks",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/21/malaysia-calls-for-who-led-pooled-medicine-purchasing-amid-supply-risks/239952",
       "source": "Malay Mail",
-      "published": "2026-10-20T23:00:00",
-      "summary": "KOTA KINABALU, Oct 21 — Haze and poor air quality are taking a toll on pets, with veterinarians reporting respirat...",
+      "published": "2026-10-21T01:38:45",
+      "summary": "KUALA LUMPUR, Oct 21 — Malaysia has proposed that the World Health Organisation (WHO) Western Pacific Region (WPRO...",
       "keywords_matched": [
-        "therapy"
-      ]
-    },
-    {
-      "title": "Terengganu, Kelantan, Kedah and Perlis record highest drug abuse rates",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/20/terengganu-kelantan-kedah-and-perlis-record-highest-drug-abuse-rates/239917",
-      "source": "Malay Mail",
-      "published": "2026-10-20T11:40:12",
-      "summary": "PUTRAJAYA, Oct 20 — Terengganu, Kelantan, Kedah and Perlis recorded the highest rates of drug or substance addicti...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Police record statements over podcast video on alleged drug trafficking",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/20/police-record-statements-over-podcast-video-on-alleged-drug-trafficking/239914",
-      "source": "Malay Mail",
-      "published": "2026-10-20T11:21:38",
-      "summary": "KUALA LUMPUR, Oct 20 — Police have opened an investigation into the circulation of a podcast video alleg...",
-      "keywords_matched": [
-        "drug"
+        "health",
+        "medicine"
       ]
     }
   ]
