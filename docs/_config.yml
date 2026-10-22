@@ -3,7 +3,7 @@
 
 # Basic settings
 title: "Laporan Penggunaan Semula Ubat MyTxGNN"
-description: "Ramalan penggunaan semula ubat Malaysia menggunakan graf pengetahuan TxGNN"
+description: "Ramalan penggunaan semula ubat Malaysia menggunakan model TxGNN (pembelajaran mendalam)"
 
 url: "https://mytxgnn.yao.care"
 baseurl: ""

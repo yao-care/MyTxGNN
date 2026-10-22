@@ -2,7 +2,7 @@
 layout: default
 title: Laporan Pengesahan Penggunaan Semula Ubat
 nav_order: 1
-description: "Ramalan penggunaan semula ubat berkuasa AI untuk ubat yang diluluskan NPRA Malaysia menggunakan graf pengetahuan TxGNN dan model pembelajaran mendalam."
+description: "Ramalan penggunaan semula ubat berkuasa AI untuk ubat yang diluluskan NPRA Malaysia menggunakan model TxGNN (pembelajaran mendalam)."
 permalink: /
 image: /assets/images/og-default.png
 ---

@@ -41,12 +41,7 @@ MyTxGNN lists drug repurposing predictions from the TxGNN deep learning model:
 
 ### Interpreting Results
 
-| Score Range | Interpretation | Recommended Action |
-|-------------|----------------|-------------------|
-| ≥ 0.9 | Very high confidence | Priority for investigation |
-| 0.7 - 0.9 | High confidence | Worth investigating |
-| 0.5 - 0.7 | Moderate confidence | Consider with caution |
-| < 0.5 | Low confidence | Exploratory only |
+This site only lists predictions with a score of 0.99 or higher (up to the top 10 per drug). The score ranks candidates inside the model; it is not a probability of clinical efficacy.
 
 ---
 
