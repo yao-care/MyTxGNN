@@ -96,10 +96,7 @@ Apabila ubat digunakan pada pesakit dengan penyakit tertentu, ia mungkin:
 
 ## Aplikasi dalam Penggunaan Semula Ubat
 
-<blockquote class="expert-quote">
-"Apabila menilai penggunaan semula ubat, kita mesti mempertimbangkan bukan sahaja sama ada ubat itu berkesan untuk indikasi baharu, tetapi juga ciri-ciri komorbiditi populasi pesakit sasaran untuk mengelakkan isu keselamatan."
-<cite>— Prinsip Penilaian Keselamatan Ubat</cite>
-</blockquote>
+<p>Apabila menilai penggunaan semula ubat, kita mesti mempertimbangkan bukan sahaja sama ada ubat itu berkesan untuk indikasi baharu, tetapi juga ciri-ciri komorbiditi populasi pesakit sasaran untuk mengelakkan isu keselamatan.</p>
 
 ### Proses Penilaian
 

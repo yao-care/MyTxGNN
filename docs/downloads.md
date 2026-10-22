@@ -61,7 +61,7 @@ Download MyTxGNN prediction data for your research.
 - `drugbank_id`: DrugBank identifier
 - `drug_name`: Drug name
 - `disease_name`: Predicted indication
-- `txgnn_score`: Confidence score (0-1)
+- `txgnn_score`: Model score (0-1); a ranking value inside the model, not a probability
 
 **Statistics:**
 - 9,968,985 total predictions

@@ -122,10 +122,7 @@ Pangkalan data ini meliputi 29 makanan/komponen makanan biasa:
 
 ## Aplikasi dalam Penggunaan Semula Ubat
 
-<blockquote class="expert-quote">
-"Penyelidikan penggunaan semula ubat perlu mempertimbangkan tabiat pemakanan populasi pesakit sasaran. Contohnya, jika pesakit indikasi baharu biasanya memerlukan suplemen pemakanan tertentu, kita mesti menilai interaksi antara makanan ini dan ubat calon."
-<cite>— Prinsip Penilaian Keselamatan Ubat</cite>
-</blockquote>
+<p>Penyelidikan penggunaan semula ubat perlu mempertimbangkan tabiat pemakanan populasi pesakit sasaran. Contohnya, jika pesakit indikasi baharu biasanya memerlukan suplemen pemakanan tertentu, kita mesti menilai interaksi antara makanan ini dan ubat calon.</p>
 
 ### Perkara Penilaian
 

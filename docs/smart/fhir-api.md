@@ -53,26 +53,26 @@ GET /fhir/MedicationKnowledge/{id}
 ```
 
 **Parameter**:
-- `id`: ID DrugBank (cth. db00860)
+- `id`: ID DrugBank (cth. db00526)
 
 **Contoh**:
 ```bash
-curl https://mytxgnn.yao.care/fhir/MedicationKnowledge/db00860.json
+curl https://mytxgnn.yao.care/fhir/MedicationKnowledge/db00526.json
 ```
 
 **Respons**:
 ```json
 {
   "resourceType": "MedicationKnowledge",
-  "id": "db00860",
+  "id": "db00526",
   "meta": {
     "profile": ["http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"]
   },
   "code": {
     "coding": [{
       "system": "https://go.drugbank.com/drugs/",
-      "code": "DB00860",
-      "display": "Prednisolone"
+      "code": "DB00526",
+      "display": "Oxaliplatin"
     }]
   },
   "status": "active",
@@ -80,7 +80,7 @@ curl https://mytxgnn.yao.care/fhir/MedicationKnowledge/db00860.json
     {
       "indication": [{
         "reference": {
-          "reference": "ClinicalUseDefinition/db00860-allergic-rhinitis"
+          "reference": "ClinicalUseDefinition/db00526-malignant-pleural-mesothelioma"
         }
       }]
     }
@@ -101,32 +101,32 @@ GET /fhir/ClinicalUseDefinition/{id}
 ```
 
 **Parameter**:
-- `id`: Format `{drugbank_id}-{disease_slug}` (cth. db00860-allergic-rhinitis)
+- `id`: Format `{drugbank_id}-{disease_slug}` (cth. db00526-malignant-pleural-mesothelioma)
 
 **Contoh**:
 ```bash
-curl https://mytxgnn.yao.care/fhir/ClinicalUseDefinition/db00860-allergic-rhinitis.json
+curl https://mytxgnn.yao.care/fhir/ClinicalUseDefinition/db00526-malignant-pleural-mesothelioma.json
 ```
 
 **Respons**:
 ```json
 {
   "resourceType": "ClinicalUseDefinition",
-  "id": "db00860-allergic-rhinitis",
+  "id": "db00526-malignant-pleural-mesothelioma",
   "type": "indication",
   "subject": [{
-    "reference": "MedicationKnowledge/db00860"
+    "reference": "MedicationKnowledge/db00526"
   }],
   "indication": {
     "diseaseSymptomProcedure": {
       "concept": {
-        "text": "Allergic Rhinitis"
+        "text": "Malignant Pleural Mesothelioma"
       }
     }
   },
   "extension": [{
     "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/prediction-score",
-    "valueDecimal": 0.85
+    "valueDecimal": 0.9968
   }]
 }
 ```
@@ -189,8 +189,8 @@ async function getDrugInfo(drugId) {
 }
 
 // Penggunaan
-const prednisolone = await getDrugInfo('db00860');
-console.log(prednisolone.code.coding[0].display);
+const oxaliplatin = await getDrugInfo('db00526');
+console.log(oxaliplatin.code.coding[0].display);
 ```
 
 ### Python
@@ -204,8 +204,8 @@ def get_drug_info(drug_id):
     return response.json()
 
 # Penggunaan
-prednisolone = get_drug_info('db00860')
-print(prednisolone['code']['coding'][0]['display'])
+oxaliplatin = get_drug_info('db00526')
+print(oxaliplatin['code']['coding'][0]['display'])
 ```
 
 ---

@@ -10,7 +10,7 @@ tags: [User Guide, Getting Started]
 # How to Read Validation Reports
 
 <p class="key-answer" data-question="What are the most important pieces of information in a report?">
-Each report has three key pieces of information: <strong>Evidence Level</strong> (L1-L5), <strong>Prediction Score</strong> (AI confidence), and <strong>Decision Recommendation</strong> (Go/Proceed/Hold). These three combined quickly tell you the prediction's reliability and recommended action.
+Each report has three key pieces of information: <strong>Evidence Level</strong> (L1-L5), <strong>Prediction Score</strong> (the model's internal ranking value), and <strong>Decision Recommendation</strong> (Go/Proceed/Hold). The evidence level tells you how much clinical evidence exists; the decision recommendation tells you what to do next.
 </p>
 
 ---
@@ -34,7 +34,7 @@ This tells you:
 
 | Item | How to Interpret |
 |------|------------------|
-| TxGNN Prediction Score | 99%+ indicates very high AI confidence |
+| TxGNN Prediction Score | Ranking value inside the model (the site only lists ≥0.99); not a probability |
 | Evidence Level | L1 is strongest, L5 is prediction only |
 | Decision Recommendation | Go = proceed directly, Hold = wait |
 | NPRA Status | Whether approved in Malaysia |
@@ -76,13 +76,13 @@ Clinical trials are the most important evidence source:
 ### Q: High prediction score but low evidence level - how to interpret?
 
 <div class="key-takeaway">
-Prediction score reflects AI confidence. Evidence level reflects clinical research adequacy. The two can differ.
+The prediction score is only a ranking value inside the model, not a probability. Evidence level reflects clinical research adequacy. The two are unrelated.
 </div>
 
-For example: A drug might have a 99.97% prediction score but only L2 evidence. This means:
-- AI is very confident in the prediction
-- But clinical evidence is not yet sufficient (only early-stage research)
-- This is a promising research direction worth attention
+Every prediction listed on this site scores 0.99 or higher. A high score with a low evidence level (L4 or L5) means:
+- The model ranked this pair near the top
+- But clinical evidence is lacking (only cell or animal studies, or no studies at all)
+- Treat it as a lead for research, not as evidence that the drug works
 
 ### Q: What's the difference between Go and Proceed?
 

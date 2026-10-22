@@ -94,10 +94,7 @@ Di Malaysia, ubat tradisional biasa termasuk:
 
 ### Pertimbangan Penilaian
 
-<blockquote class="expert-quote">
-"Apabila menggunakan semula ubat untuk kegunaan di Malaysia, pertimbangkan kelaziman tinggi penggunaan ubat tradisional. Pendidikan pesakit tentang interaksi berpotensi adalah penting."
-<cite>— Pertimbangan Keselamatan Ubat</cite>
-</blockquote>
+<p>Apabila menggunakan semula ubat untuk kegunaan di Malaysia, pertimbangkan kelaziman tinggi penggunaan ubat tradisional. Pendidikan pesakit tentang interaksi berpotensi adalah penting.</p>
 
 ---
 

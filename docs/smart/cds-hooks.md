@@ -72,7 +72,7 @@ Dicetuskan apabila doktor membuka rekod pesakit.
   "cards": [
     {
       "summary": "Calon Penggunaan Semula Dikesan",
-      "detail": "3 ubat pesakit mempunyai ramalan penggunaan semula keyakinan tinggi",
+      "detail": "3 ubat pesakit mempunyai ramalan penggunaan semula yang disenaraikan di laman (skor ≥0.99)",
       "indicator": "info",
       "source": {
         "label": "MyTxGNN"
@@ -203,8 +203,8 @@ def process_hook(request):
   "cards": [
     {
       "uuid": "card-1",
-      "summary": "Prednisolone: 10 ramalan penggunaan semula",
-      "detail": "Prednisolone mempunyai 10 indikasi berpotensi dengan skor ≥0.99, termasuk rinitis alahan dan asma.",
+      "summary": "Oxaliplatin: 4 ramalan penggunaan semula",
+      "detail": "Oxaliplatin mempunyai 4 indikasi berpotensi dengan skor ≥0.99, termasuk mesotelioma pleura malignan (skor 0.9968; kedudukan dalaman model, bukan kebarangkalian).",
       "indicator": "info",
       "source": {
         "label": "MyTxGNN",
@@ -213,7 +213,7 @@ def process_hook(request):
       "links": [
         {
           "label": "Lihat laporan penuh",
-          "url": "https://mytxgnn.yao.care/drugs/prednisolone/",
+          "url": "https://mytxgnn.yao.care/drugs/oxaliplatin/",
           "type": "absolute"
         }
       ]

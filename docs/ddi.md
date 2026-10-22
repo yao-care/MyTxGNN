@@ -82,10 +82,7 @@ Perlukan analisis berskala besar? Muat turun data DDI mentah dari GitHub:
 
 ## Mengapa DDI Penting untuk Penggunaan Semula Ubat
 
-<blockquote class="expert-quote">
-"Penyelidikan penggunaan semula ubat mesti menilai bukan sahaja keberkesanan tetapi juga interaksi ubat dalam konteks indikasi baharu. Banyak kegagalan penggunaan semula ubat berlaku tepat kerana interaksi dengan ubat rawatan standard diabaikan."
-<cite>— Prinsip Penilaian Keselamatan Ubat</cite>
-</blockquote>
+<p>Penyelidikan penggunaan semula ubat mesti menilai bukan sahaja keberkesanan tetapi juga interaksi ubat dalam konteks indikasi baharu. Pesakit indikasi baharu sering juga mengambil ubat rawatan standard penyakit itu, jadi risiko interaksi perlu dinilai bersama.</p>
 
 ### Pertimbangan DDI dalam Penggunaan Semula Ubat
 

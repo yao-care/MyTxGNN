@@ -104,10 +104,10 @@ A high TxGNN prediction score does NOT guarantee high evidence level. The predic
 
 | Scenario | Prediction Score | Evidence Level | Interpretation |
 |----------|-----------------|----------------|----------------|
-| A | 99%+ | L1 | Excellent - AI prediction validated by strong evidence |
-| B | 99%+ | L5 | Novel prediction - worth investigating but unvalidated |
-| C | 70% | L1 | Validated relationship but AI uncertain |
-| D | 70% | L5 | Low priority - uncertain and unvalidated |
+| A | ≥0.99 | L1–L2 | Clinical trials support it; can be evaluated further |
+| B | ≥0.99 | L5 | Model prediction only, no studies yet; a research hypothesis |
+
+Uses already approved or recorded for the drug are known uses; the site excludes them and does not list them as new predictions.
 
 ---
 

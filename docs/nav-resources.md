@@ -61,8 +61,8 @@ Akses data, dokumentasi, dan sumber pembelajaran
 
 ```
 drug_name,drugbank_id,disease,prediction_score,evidence_level
-Prednisolone,DB00860,Allergic Rhinitis,0.89,L2
-Betamethasone,DB00443,Asthma,0.85,L3
+Oxaliplatin,DB00526,Malignant Pleural Mesothelioma,0.9968,L2
+Oxaliplatin,DB00526,Malignant Epithelioid Mesothelioma,0.9949,L2
 ...
 ```
 
@@ -71,12 +71,12 @@ Betamethasone,DB00443,Asthma,0.85,L3
 ```json
 {
   "resourceType": "MedicationKnowledge",
-  "id": "db00860",
+  "id": "db00526",
   "code": {
     "coding": [{
       "system": "https://go.drugbank.com/drugs/",
-      "code": "DB00860",
-      "display": "Prednisolone"
+      "code": "DB00526",
+      "display": "Oxaliplatin"
     }]
   }
 }

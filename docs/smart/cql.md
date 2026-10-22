@@ -157,7 +157,7 @@ Exists(medications)
 ### Fungsi Tersuai
 
 ```cql
-define function HighConfidencePrediction(score Decimal):
+define function IsListedPrediction(score Decimal):
   score >= 0.99
 
 define function FormatDrugName(name String):
@@ -186,8 +186,8 @@ context Patient
 define "Current Medications":
   [MedicationRequest: status = 'active']
 
-// Ubat dengan ramalan keyakinan tinggi
-define "High Confidence Repurposing Candidates":
+// Ubat dengan ramalan yang disenaraikan di laman (skor ≥0.99)
+define "Listed Repurposing Candidates":
   "Current Medications" M
     where exists (
       [ClinicalUseDefinition: subject = M.medication]

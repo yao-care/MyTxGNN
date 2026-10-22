@@ -85,7 +85,7 @@ GET /fhir/ClinicalUseDefinition/db00860-allergic-rhinitis
 
 2. **Review Predictions**
    - Check the predicted new indications for the drug/disease
-   - Review DL confidence scores
+   - Check the evidence level (L1–L5) for each prediction
 
 3. **Gather Evidence**
    - Use our evidence collectors (ClinicalTrials.gov, PubMed)
@@ -108,7 +108,7 @@ GET /fhir/ClinicalUseDefinition/db00860-allergic-rhinitis
 1. **Cross-reference predictions** with existing literature
 2. **Check multiple sources** for clinical trial data
 3. **Consider mechanism of action** when evaluating predictions
-4. **Note prediction confidence scores** when prioritizing candidates
+4. **Prioritize by evidence level**, not by prediction score (all listed predictions score ≥0.99, and the score is not a probability)
 
 ### Common Pitfalls to Avoid
 
