@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-22T07:05:20.863229",
+  "fetched": "2026-10-22T13:26:41.509375",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,25 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Commercial Interests Must Not Dictate Patient Care — MMA",
+      "url": "https://codeblue.galencentre.org/2026/10/commercial-interests-must-not-dictate-patient-care-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-22T08:25:50",
+      "summary": "Malaysians pay their medical insurance premiums every month in good faith. Instead, a growing number are told that their chosen specialist has been removed from a panel or restricted from cashless admission. In emergencies, delays can put lives at risk. The post Commercial Interests Must Not Dictate Patient Care — MMA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "patient"
+      ]
+    },
+    {
+      "title": "Social Contagion: Stop Spreading Kuching School Attack Videos — Lim Yi Wei",
+      "url": "https://codeblue.galencentre.org/2026/10/social-contagion-stop-spreading-kuching-school-attack-videos-lim-yi-wei/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-22T07:34:50",
+      "summary": "I strongly urge the public to stop spreading photos or videos of school violence incidents and the media to practise ethical, non-sensationalist reporting to prevent the social contagion effect, which may lead to copycat incidents. The post Social Contagion: Stop Spreading Kuching School Attack Videos — Lim Yi Wei appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Lead And Teach For How Hospitals Really Work — Prof Dr Long Chiau Ming",
       "url": "https://codeblue.galencentre.org/2026/10/lead-and-teach-for-how-hospitals-really-work-prof-dr-long-chiau-ming/",
@@ -96,34 +115,13 @@
       "keywords_matched": []
     },
     {
-      "title": "MCTC Claims Possible Government Attempt To Delist Liquid Nicotine Again",
-      "url": "https://codeblue.galencentre.org/2026/10/mctc-claims-possible-government-attempt-to-delist-liquid-nicotine-again/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-19T09:04:43",
-      "summary": "MCTC says the government is possibly renewing its attempt to exempt liquid nicotine from the Poisons List by returning to the Poisons Board, after the High Court nullified the 2023 exemption. MCTC urges the Board to again reject any proposed exemption. The post MCTC Claims Possible Government Attempt To Delist Liquid Nicotine Again appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Overcrowding In Emergency Departments, Ward Bed Shortages In Government Hospitals — Assistant Medical Officer",
-      "url": "https://codeblue.galencentre.org/2026/10/overcrowding-in-emergency-departments-ward-bed-shortages-in-government-hospitals-assistant-medical-officer/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-19T03:45:00",
-      "summary": "Malaysia doesn't need to directly \"import\" foreign experts to manage the local system. Instead, adapting proven international modules while providing sufficient space, authority, and funding for local public health experts to execute reforms is sufficient. The post Overcrowding In Emergency Departments, Ward Bed Shortages In Government Hospitals — Assistant Medical Officer appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "High Court rejects bid for closed-door trial in civil suit over Bandar Utama school murder",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/22/high-court-rejects-bid-for-closed-door-trial-in-civil-suit-over-bandar-utama-school-murder/240149",
+      "title": "Two men in viral Bukit Antarabangsa police chase charged with dangerous driving, drugs and weapons offences",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/22/two-men-in-viral-bukit-antarabangsa-police-chase-charged-with-dangerous-driving-drugs-and-weapons-offences/240218",
       "source": "Malay Mail",
-      "published": "2026-10-22T05:21:07",
-      "summary": "KUALA LUMPUR, Oct 22 — The High Court today rejected a bid by the teenager acquitted of murdering his schoolmate Y...",
+      "published": "2026-10-22T10:22:59",
+      "summary": "KUALA LUMPUR, Oct 22 — Two men who went viral on social media after crashing into public vehicles while atte...",
       "keywords_matched": [
-        "trial"
+        "drug"
       ]
     }
   ]
