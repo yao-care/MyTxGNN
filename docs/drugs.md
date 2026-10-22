@@ -19,7 +19,7 @@ Browse drugs analyzed by MyTxGNN with their predicted new indications.
 | Metric | Count |
 |--------|-------|
 | Total Drugs Analyzed | 508 |
-| Total DL Predictions (≥0.7) | 176,021 |
+| Predictions listed on this site (score ≥0.99, up to 10 per drug) | {{ site.data.site_stats.indications }} |
 | Unique Diseases | 17,041 |
 
 ---

@@ -99,7 +99,7 @@ MyTxGNN uses a 5-level evidence classification system (L1-L5) to help researcher
 ## Evidence vs. Prediction Score
 
 <div class="key-takeaway">
-A high TxGNN prediction score does NOT guarantee high evidence level. The prediction score reflects AI confidence based on knowledge graph patterns, while evidence level reflects actual clinical validation.
+A high TxGNN prediction score does NOT guarantee high evidence level. The prediction score is the TxGNN model's (deep learning) internal ranking score, not a probability, while evidence level reflects actual clinical validation.
 </div>
 
 | Scenario | Prediction Score | Evidence Level | Interpretation |

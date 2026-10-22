@@ -65,7 +65,7 @@ Download MyTxGNN prediction data for your research.
 
 **Statistics:**
 - 9,968,985 total predictions
-- 176,021 high-confidence (score ≥ 0.7)
+- {{ site.data.site_stats.indications }} listed on the site (score ≥ 0.99, up to 10 per drug, known uses excluded)
 - 585 unique drugs
 - 17,041 unique diseases
 
@@ -110,13 +110,7 @@ GET /fhir/ClinicalUseDefinition/{drug}-{indication}.json
 
 ### Prediction Score Interpretation
 
-| Score Range | Meaning |
-|-------------|---------|
-| 0.95 - 1.00 | Very high confidence |
-| 0.90 - 0.95 | High confidence |
-| 0.70 - 0.90 | Moderate-high confidence |
-| 0.50 - 0.70 | Moderate confidence |
-| < 0.50 | Low confidence |
+The site only lists predictions with a score of 0.99 or higher (up to the top 10 per drug, known uses excluded). The score ranks candidates inside the model; it is not a probability of clinical efficacy.
 
 ### Disease Naming Convention
 
@@ -142,7 +136,7 @@ metformin = kg[kg['ingredient'] == 'METFORMIN']
 
 # Get high-score DL predictions
 dl = pd.read_csv('txgnn_checkpoint.csv')
-high_conf = dl[dl['txgnn_score'] >= 0.7]
+high_conf = dl[dl['txgnn_score'] >= 0.99]  # site threshold
 ```
 
 ### R

@@ -26,18 +26,13 @@ Learn how to effectively use MyTxGNN for drug repurposing research.
 
 ## Understanding Predictions
 
-### Two Types of Predictions
+### How Predictions Are Made
 
-MyTxGNN lists drug repurposing predictions from the TxGNN deep learning model:
+MyTxGNN lists drug repurposing predictions from the TxGNN model (deep learning: a graph neural network trained on a biomedical knowledge graph).
 
-#### Deep Learning (DL) Predictions
-
-- Neural network scores for each drug–disease pair
-- Drug pages list predictions with a score of at least 0.99
-
-#### Known-Use Check (KG)
-
-- Indications already recorded in the knowledge graph are excluded; they are known uses, not new predictions
+- The model gives every drug–disease pair a score
+- Indications already recorded for the drug in the knowledge graph or in its product licence are known uses; they are excluded and not counted as new predictions
+- Drug pages list up to the top 10 remaining predictions with a score of at least 0.99
 
 ### Interpreting Results
 

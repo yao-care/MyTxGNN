@@ -203,8 +203,8 @@ def process_hook(request):
   "cards": [
     {
       "uuid": "card-1",
-      "summary": "Prednisolone: 15 ramalan penggunaan semula",
-      "detail": "Prednisolone mempunyai 15 indikasi berpotensi dengan skor ≥0.7, termasuk rinitis alahan dan asma.",
+      "summary": "Prednisolone: 10 ramalan penggunaan semula",
+      "detail": "Prednisolone mempunyai 10 indikasi berpotensi dengan skor ≥0.99, termasuk rinitis alahan dan asma.",
       "indicator": "info",
       "source": {
         "label": "MyTxGNN",

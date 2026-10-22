@@ -81,13 +81,13 @@ medication.code = 'DB00860'
 status != 'completed'
 
 // Lebih besar/kurang
-score > 0.7
+score > 0.99
 score >= 0.5
 score < 0.3
-score <= 0.9
+score <= 1.0
 
 // Dalam julat
-score in Interval[0.7, 1.0]
+score in Interval[0.99, 1.0]
 ```
 
 ### Logik
@@ -158,7 +158,7 @@ Exists(medications)
 
 ```cql
 define function HighConfidencePrediction(score Decimal):
-  score >= 0.7
+  score >= 0.99
 
 define function FormatDrugName(name String):
   Upper(Substring(name, 0, 1)) + Lower(Substring(name, 1))
@@ -191,7 +191,7 @@ define "High Confidence Repurposing Candidates":
   "Current Medications" M
     where exists (
       [ClinicalUseDefinition: subject = M.medication]
-        CUD where CUD.extension('prediction-score').value >= 0.7
+        CUD where CUD.extension('prediction-score').value >= 0.99
     )
 
 // Periksa sama ada pesakit mengambil kortikosteroid

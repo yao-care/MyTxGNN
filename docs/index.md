@@ -14,7 +14,7 @@ image: /assets/images/og-default.png
 </p>
 
 <div class="key-takeaway">
-Memanfaatkan AI untuk menemui penggunaan terapeutik baharu bagi ubat sedia ada. Platform kami menggabungkan graf pengetahuan dengan pembelajaran mendalam untuk mengenal pasti hubungan ubat-penyakit yang menjanjikan untuk penyiasatan klinikal lanjut.
+Memanfaatkan AI untuk menemui penggunaan terapeutik baharu bagi ubat sedia ada. Platform kami menggunakan model TxGNN (pembelajaran mendalam: rangkaian neural graf yang dilatih pada graf pengetahuan bioperubatan) untuk mengenal pasti hubungan ubat-penyakit yang menjanjikan untuk penyiasatan klinikal lanjut.
 </div>
 
 <p style="margin-top: 1.5rem;">
@@ -56,7 +56,7 @@ MyTxGNN menggunakan model Pembelajaran Mendalam (DL) TxGNN untuk meramal indikas
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #1976D2;">
     <strong style="font-size: 1.1rem;">Ramalan Pembelajaran Mendalam</strong><br>
-    <span style="color: #666;">Model rangkaian neural TxGNN memberikan skor keyakinan untuk setiap pasangan ubat-penyakit. 176,021 ramalan dengan skor ≥ 0.7, menunjukkan keyakinan tinggi.</span>
+    <span style="color: #666;">Model TxGNN (pembelajaran mendalam) memberikan skor kepada setiap pasangan ubat-penyakit. Laman ini hanya menyenaraikan {{ site.data.site_stats.indications }} ramalan dengan skor ≥ 0.99 (maksimum 10 bagi setiap ubat) selepas kegunaan sedia ada dikecualikan. Skor ialah kedudukan dalaman model, bukan kebarangkalian.</span>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #FB8C00;">
     <strong style="font-size: 1.1rem;">Integrasi NPRA Malaysia</strong><br>
