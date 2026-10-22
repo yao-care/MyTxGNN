@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-22T01:12:32.892471",
+  "fetched": "2026-10-22T07:05:20.863229",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,41 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Lead And Teach For How Hospitals Really Work — Prof Dr Long Chiau Ming",
+      "url": "https://codeblue.galencentre.org/2026/10/lead-and-teach-for-how-hospitals-really-work-prof-dr-long-chiau-ming/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-22T03:30:00",
+      "summary": "Leaders should watch real work before redesigning it, cut safety clutter, and tackle bullying, while clinicians who teach need training, protected time, and a culture of mentoring. The post Lead And Teach For How Hospitals Really Work — Prof Dr Long Chiau Ming appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Mahkota Medical Centre Rebranded As Mahkota Specialist Hospital",
+      "url": "https://codeblue.galencentre.org/2026/10/mahkota-medical-centre-rebranded-as-mahkota-specialist-hospital/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-22T02:38:20",
+      "summary": "The refreshed identity strengthens Mahkota Specialist Hospital’s connection to HMI Medical’s regional health care network, reflecting a shared commitment to delivering More with Care and shaping the future of health care. The post Mahkota Medical Centre Rebranded As Mahkota Specialist Hospital appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Expert Witness Shortage Delaying Medical Negligence Cases: APHM",
+      "url": "https://codeblue.galencentre.org/2026/10/expert-witness-shortage-delaying-medical-negligence-cases-aphm/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-22T02:00:00",
+      "summary": "APHM president Dr Kuljit Singh says a shortage of medical expert witnesses is delaying medical negligence cases that can take three to five years to resolve. Malaysian doctors are also reluctant to testify against their peers in a small fraternity. The post Expert Witness Shortage Delaying Medical Negligence Cases: APHM appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "doctor"
+      ]
+    },
     {
       "title": "Hong Leong Assurance Reprices Medical Premiums By 9% Annually Until 2028, One-Year Deferment For 60-Somethings",
       "url": "https://codeblue.galencentre.org/2026/10/hong-leong-assurance-reprices-medical-premiums-by-9-annually-until-2028-one-year-deferment-for-60-somethings/",
@@ -82,45 +117,13 @@
       ]
     },
     {
-      "title": "When Perak’s Trauma Centre Has No C-Arm — Specialist",
-      "url": "https://codeblue.galencentre.org/2026/10/when-peraks-trauma-centre-has-no-c-arm-specialist/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-19T02:00:00",
-      "summary": "C-arm is essential imaging equipment that allows surgeons to see bones and implants in real time during many fracture fixation procedures. When this equipment became unavailable at HRPB, cases had to be diverted to other hospitals in the state. The post When Perak’s Trauma Centre Has No C-Arm — Specialist appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Sarawak Presents RM500,000 Aid To Five FDS Victims’ Families",
-      "url": "https://codeblue.galencentre.org/2026/10/sarawak-presents-rm500000-aid-to-five-fds-victims-families/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-16T10:08:30",
-      "summary": "At a Kuching ceremony, Sarawak Premier Abang Jo presents RM100,000 cheques to each family of 5 victims killed in the Long Lellang tragedy, besides education sponsorships for their kids. One of the widows, Stephanie, says Sarawak helped a lot from Day One. The post Sarawak Presents RM500,000 Aid To Five FDS Victims’ Families appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Revert To Pre-2016 For True ‘Abolition’ Of Contract Doctor System",
-      "url": "https://codeblue.galencentre.org/2026/10/revert-to-pre-2016-for-true-abolition-of-contract-doctor-system/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-16T03:30:00",
-      "summary": "To truly “abolish” the contract doctor system, all medical graduates entering housemanship in 2027 should be automatically made permanent staff on Day One of training — reverting back to pre-2016 — so that 2026 will mark the last contract doctor cohorts. The post Revert To Pre-2016 For True ‘Abolition’ Of Contract Doctor System appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "doctor"
-      ]
-    },
-    {
-      "title": "No casualties after ceiling collapses at Tengku Ampuan Rahimah Hospital’s emergency dept in Klang",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/21/no-casualties-after-ceiling-collapses-at-tengku-ampuan-rahimah-hospitals-emergency-dept-in-klang/240087",
+      "title": "High Court rejects bid for closed-door trial in civil suit over Bandar Utama school murder",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/22/high-court-rejects-bid-for-closed-door-trial-in-civil-suit-over-bandar-utama-school-murder/240149",
       "source": "Malay Mail",
-      "published": "2026-10-21T12:05:28",
-      "summary": "SHAH ALAM, Oct 21 — No patients or hospital staff were involved in a ceiling collapse incident at the Emergency an...",
+      "published": "2026-10-22T05:21:07",
+      "summary": "KUALA LUMPUR, Oct 22 — The High Court today rejected a bid by the teenager acquitted of murdering his schoolmate Y...",
       "keywords_matched": [
-        "hospital",
-        "patient",
-        "hospital"
+        "trial"
       ]
     }
   ]
