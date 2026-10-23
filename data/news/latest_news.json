@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-23T01:11:58.594422",
+  "fetched": "2026-10-23T06:57:20.662623",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,44 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
+    {
+      "title": "The Dangerous Illusion Of Salon-Grade Regenerative Medicine In Malaysia — Dr Ang Seah Tan",
+      "url": "https://codeblue.galencentre.org/2026/10/the-dangerous-illusion-of-salon-grade-regenerative-medicine-in-malaysia-dr-ang-seah-tan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-23T05:30:00",
+      "summary": "By demanding transparency, refusing unlicensed providers, and verifying true clinical expertise, we can dismantle the dangerous illusion of salon-grade medicine and protect the health of our communities from the outside in. The post The Dangerous Illusion Of Salon-Grade Regenerative Medicine In Malaysia — Dr Ang Seah Tan appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medicine",
+        "clinical"
+      ]
+    },
+    {
+      "title": "Why Malaysia Lost Me To NHS Scotland — Scrub Nurse With HIV",
+      "url": "https://codeblue.galencentre.org/2026/10/why-malaysia-lost-me-to-nhs-scotland-scrub-nurse-with-hiv/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-23T03:30:00",
+      "summary": "In Malaysia, I experienced job discrimination as a scrub nurse living with HIV from private hospitals and MOH. But NHS Scotland hired me, allowing me to work in OT. Under UK law and WHO guidelines, my HIV status is treated as a protected medical condition. The post Why Malaysia Lost Me To NHS Scotland — Scrub Nurse With HIV appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Suhakam, Advocates Demand Release Of Independent Committee’s Report On 2016 HSAJB Fire Tragedy",
+      "url": "https://codeblue.galencentre.org/2026/10/suhakam-advocates-demand-release-of-independent-committees-report-on-2016-hsajb-fire-tragedy/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-23T02:00:00",
+      "summary": "Ahead of the 10th anniversary of the HSAJB fire tragedy that killed 6 patients, the worst hospital fire in history, Suhakam chair Hishamudin Yunus, Dr Milton Lum, and the Galen Centre demand that MOH publish the independent committee's report on the fire. The post Suhakam, Advocates Demand Release Of Independent Committee’s Report On 2016 HSAJB Fire Tragedy appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "patient",
+        "hospital"
+      ]
+    },
     {
       "title": "Commercial Interests Must Not Dictate Patient Care — MMA",
       "url": "https://codeblue.galencentre.org/2026/10/commercial-interests-must-not-dictate-patient-care-mma/",
@@ -86,42 +122,34 @@
       ]
     },
     {
-      "title": "Higher Valency Pneumococcal Vaccines Need Stronger Local Evidence: Experts",
-      "url": "https://codeblue.galencentre.org/2026/10/higher-valency-pneumococcal-vaccines-need-stronger-local-evidence-experts/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-20T03:30:00",
-      "summary": "Malaysia should assess whether higher valency pneumococcal vaccines offer enough added protection to justify their higher cost. Experts say vaccine choice should be guided by local disease patterns, stronger surveillance, and cost-effectiveness. The post Higher Valency Pneumococcal Vaccines Need Stronger Local Evidence: Experts appeared first on CodeBlue .",
-      "keywords_matched": [
-        "disease",
-        "vaccine"
-      ]
-    },
-    {
-      "title": "‘Health, Harapan And Healing Malaysia’ Absolves PH Of Bad Policies",
-      "url": "https://codeblue.galencentre.org/2026/10/health-harapan-and-healing-malaysia-absolves-ph-of-bad-policies/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-20T02:00:00",
-      "summary": "Dr Sean Thum’s book offers little insight into health policies in Malaysia, containing mostly motherhood statements instead and some surprisingly basic errors. The author’s reluctance to call out Pakatan Harapan or take a decisive stance on issues is notable. The post ‘Health, Harapan And Healing Malaysia’ Absolves PH Of Bad Policies appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Kuala Langat MP Demands Equal Compensation For Five FDS Victims",
-      "url": "https://codeblue.galencentre.org/2026/10/kuala-langat-mp-demands-equal-compensation-for-five-fds-victims/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-19T09:29:57",
-      "summary": "Kuala Langat MP Ahmad Yunus calls for equal compensation for the families of all five victims of the Long Lellang tragedy, saying it was disappointing that this wasn't announced in Budget 2027. MOH announced RM130,000 payouts to families of its four staff. The post Kuala Langat MP Demands Equal Compensation For Five FDS Victims appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Two men in viral Bukit Antarabangsa police chase charged with dangerous driving, drugs and weapons offences",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/22/two-men-in-viral-bukit-antarabangsa-police-chase-charged-with-dangerous-driving-drugs-and-weapons-offences/240218",
+      "title": "Holy smoke: Massive ganja and heroin haul found in Klang house of worship",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/23/holy-smoke-massive-ganja-and-heroin-haul-found-in-klang-house-of-worship/240301",
       "source": "Malay Mail",
-      "published": "2026-10-22T10:22:59",
-      "summary": "KUALA LUMPUR, Oct 22 — Two men who went viral on social media after crashing into public vehicles while atte...",
+      "published": "2026-10-23T05:14:44",
+      "summary": "SHAH ALAM, Oct 23 — Police uncovered drug trafficking at an unregistered house of worship in Klang during operatio...",
       "keywords_matched": [
         "drug"
+      ]
+    },
+    {
+      "title": "Kuching school attack suspect remains hospitalised as police record 24 statements",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/23/kuching-school-attack-suspect-remains-hospitalised-as-police-record-24-statements/240278",
+      "source": "Malay Mail",
+      "published": "2026-10-23T02:55:57",
+      "summary": "KUCHING, Oct 23 — The 16-year-old male student of an international school here who allegedly attacked a...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Three warehouses destroyed, 12 vehicles burnt in overnight Penampang industrial park blaze",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/23/three-warehouses-destroyed-12-vehicles-burnt-in-overnight-penampang-industrial-park-blaze/240262",
+      "source": "Malay Mail",
+      "published": "2026-10-23T01:51:07",
+      "summary": "KUALA LUMPUR, Oct 23 — Three warehouse blocks were completely destroyed and 12 vehicles burnt in a fire at M...",
+      "keywords_matched": [
+        "trial"
       ]
     }
   ]
