@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-23T06:57:20.662623",
+  "fetched": "2026-10-23T12:29:15.995471",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,37 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Permanent Posts Alone Not Enough, Doctors Need Comprehensive Retention Strategy — MMA",
+      "url": "https://codeblue.galencentre.org/2026/10/permanent-posts-alone-not-enough-doctors-need-comprehensive-retention-strategy-mma/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-23T08:36:05",
+      "summary": "Doctors in public health care need a working environment that values their contributions, supports their professional growth, and safeguards their well-being. The post Permanent Posts Alone Not Enough, Doctors Need Comprehensive Retention Strategy — MMA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
+    {
+      "title": "When Dental Care Becomes A Price War, Patients Must Not Pay The Price — MPDPA",
+      "url": "https://codeblue.galencentre.org/2026/10/when-dental-care-becomes-a-price-war-patients-must-not-pay-the-price-mpdpa/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-23T07:34:14",
+      "summary": "MPDPA calls for stronger enforcement against unethical dental advertising and third party solicitation. The post When Dental Care Becomes A Price War, Patients Must Not Pay The Price — MPDPA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "patient"
+      ]
+    },
+    {
+      "title": "Who Is Responsible For Malaysia’s Early Intervention System For Children With Disabilities? — NECIC",
+      "url": "https://codeblue.galencentre.org/2026/10/who-is-responsible-for-malaysias-early-intervention-system-for-children-with-disabilities-necic/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-23T07:30:00",
+      "summary": "A good early intervention system would be government-led and funded, family-centred, inclusive by design, accountable for outcomes, and capable of reaching every child. The post Who Is Responsible For Malaysia’s Early Intervention System For Children With Disabilities? — NECIC appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "The Dangerous Illusion Of Salon-Grade Regenerative Medicine In Malaysia — Dr Ang Seah Tan",
       "url": "https://codeblue.galencentre.org/2026/10/the-dangerous-illusion-of-salon-grade-regenerative-medicine-in-malaysia-dr-ang-seah-tan/",
@@ -89,67 +118,13 @@
       ]
     },
     {
-      "title": "Expert Witness Shortage Delaying Medical Negligence Cases: APHM",
-      "url": "https://codeblue.galencentre.org/2026/10/expert-witness-shortage-delaying-medical-negligence-cases-aphm/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-22T02:00:00",
-      "summary": "APHM president Dr Kuljit Singh says a shortage of medical expert witnesses is delaying medical negligence cases that can take three to five years to resolve. Malaysian doctors are also reluctant to testify against their peers in a small fraternity. The post Expert Witness Shortage Delaying Medical Negligence Cases: APHM appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Hong Leong Assurance Reprices Medical Premiums By 9% Annually Until 2028, One-Year Deferment For 60-Somethings",
-      "url": "https://codeblue.galencentre.org/2026/10/hong-leong-assurance-reprices-medical-premiums-by-9-annually-until-2028-one-year-deferment-for-60-somethings/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-21T02:00:00",
-      "summary": "Hong Leong Assurance's 2026 medical repricing involves 9% annual premium increases for 3 years (Nov 2026, Nov 2027, Nov 2028), and projected hikes at 11% in Nov 2029 and 12% in Nov 2030: cumulative 50% hike in 5 years. Certain seniors get 1-year deferment. The post Hong Leong Assurance Reprices Medical Premiums By 9% Annually Until 2028, One-Year Deferment For 60-Somethings appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "Pulai MP Reveals Cashless Facilities Revoked From 190 Specialists Nationwide",
-      "url": "https://codeblue.galencentre.org/2026/10/pulai-mp-reveals-cashless-facilities-revoked-from-190-specialists-nationwide/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-20T08:11:02",
-      "summary": "Pulai MP Suhaizan says 190 private specialists nationwide have lost cashless facilities, warning that patients may face treatment delays and hefty upfront costs. Kuala Kangsar MP Iskandar slams insurers’ one-year waiting period for new specialist doctors. The post Pulai MP Reveals Cashless Facilities Revoked From 190 Specialists Nationwide appeared first on CodeBlue .",
-      "keywords_matched": [
-        "treatment",
-        "doctor",
-        "patient"
-      ]
-    },
-    {
-      "title": "Holy smoke: Massive ganja and heroin haul found in Klang house of worship",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/23/holy-smoke-massive-ganja-and-heroin-haul-found-in-klang-house-of-worship/240301",
+      "title": "Queen concerned over worsening mental health issues among children, teens",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/23/queen-concerned-over-worsening-mental-health-issues-among-children-teens/240344",
       "source": "Malay Mail",
-      "published": "2026-10-23T05:14:44",
-      "summary": "SHAH ALAM, Oct 23 — Police uncovered drug trafficking at an unregistered house of worship in Klang during operatio...",
+      "published": "2026-10-23T09:52:54",
+      "summary": "KUALA LUMPUR, Oct 23 — Her Majesty Raja Zarith Sofiah, Queen of Malaysia, has expressed concern over the worsening...",
       "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Kuching school attack suspect remains hospitalised as police record 24 statements",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/23/kuching-school-attack-suspect-remains-hospitalised-as-police-record-24-statements/240278",
-      "source": "Malay Mail",
-      "published": "2026-10-23T02:55:57",
-      "summary": "KUCHING, Oct 23 — The 16-year-old male student of an international school here who allegedly attacked a...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Three warehouses destroyed, 12 vehicles burnt in overnight Penampang industrial park blaze",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/23/three-warehouses-destroyed-12-vehicles-burnt-in-overnight-penampang-industrial-park-blaze/240262",
-      "source": "Malay Mail",
-      "published": "2026-10-23T01:51:07",
-      "summary": "KUALA LUMPUR, Oct 23 — Three warehouse blocks were completely destroyed and 12 vehicles burnt in a fire at M...",
-      "keywords_matched": [
-        "trial"
+        "health"
       ]
     }
   ]
