@@ -3,14 +3,14 @@ layout: default
 title: Laporan Ubat
 nav_order: 4
 has_children: true
-description: "Layari 508 laporan pengesahan penggunaan semula ubat mengikut tahap bukti L1-L5."
+description: "Layari 799 laporan pengesahan penggunaan semula ubat mengikut tahap bukti L1-L5."
 permalink: /laporan-ubat/
 ---
 
 # Laporan Ubat
 
 <p style="font-size: 1.1rem; color: #666; margin-bottom: 1.5rem;">
-Layari <strong>508</strong> laporan pengesahan penggunaan semula ubat mengikut tahap bukti
+Layari <strong>799</strong> laporan pengesahan penggunaan semula ubat mengikut tahap bukti
 </p>
 
 <style>
@@ -118,9 +118,9 @@ Layari <strong>508</strong> laporan pengesahan penggunaan semula ubat mengikut t
 
 <div class="drug-dist-container">
   <div class="drug-dist-bar">
-    <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: 5%;" title="Bukti Tinggi: L1-L2">L1-L2</a>
-    <a href="{{ '/evidence-medium' | relative_url }}" class="dist-medium" style="width: 15%;" title="Bukti Sederhana: L3">L3</a>
-    <a href="{{ '/evidence-low' | relative_url }}" class="dist-low" style="width: 80%;" title="Ramalan Model Sahaja: L4-L5">L4-L5</a>
+    <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: 14%;" title="Bukti Tinggi: L1-L2">L1-L2</a>
+    <a href="{{ '/evidence-medium' | relative_url }}" class="dist-medium" style="width: 5%;" title="Bukti Sederhana: L3">L3</a>
+    <a href="{{ '/evidence-low' | relative_url }}" class="dist-low" style="width: 81%;" title="Ramalan Model Sahaja: L4-L5">L4-L5</a>
   </div>
 
   <div class="drug-cards">
