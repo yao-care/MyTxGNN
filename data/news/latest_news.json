@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-23T23:48:52.476680",
+  "fetched": "2026-10-24T03:18:39.144953",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "Permanent Posts Alone Not Enough, Doctors Need Comprehensive Retention Strategy — MMA",
@@ -126,16 +126,6 @@
       "keywords_matched": [
         "health",
         "medical"
-      ]
-    },
-    {
-      "title": "Queen concerned over worsening mental health issues among children, teens",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/23/queen-concerned-over-worsening-mental-health-issues-among-children-teens/240344",
-      "source": "Malay Mail",
-      "published": "2026-10-23T09:52:54",
-      "summary": "KUALA LUMPUR, Oct 23 — Her Majesty Raja Zarith Sofiah, Queen of Malaysia, has expressed concern over the worsening...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
