@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-25T00:49:01.786578",
+  "fetched": "2026-10-25T05:40:36.662042",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
     {
       "title": "Permanent Posts Alone Not Enough, Doctors Need Comprehensive Retention Strategy — MMA",
@@ -118,14 +118,33 @@
       ]
     },
     {
-      "title": "Two Malaysians injured in Typhoon Champi recovering in Taiwan hospitals",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/24/two-malaysians-injured-in-typhoon-champi-recovering-in-taiwan-hospitals/240459",
+      "title": "One in 23 Malaysian women now face breast cancer risk, up from one in 27, says Nancy Shukri",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/25/one-in-23-malaysian-women-now-face-breast-cancer-risk-up-from-one-in-27-says-nancy-shukri/240519",
       "source": "Malay Mail",
-      "published": "2026-10-24T08:50:48",
-      "summary": "KUALA LUMPUR, Oct 24 — Two Malaysian nationals who sustained minor injuries in the aftermath of Typhoon Champ...",
+      "published": "2026-10-25T05:11:32",
+      "summary": "KUCHING, Oct 25 — The risk of Malaysian women developing breast cancer has risen to one in 23, compared with one i...",
       "keywords_matched": [
-        "hospital",
-        "hospital"
+        "cancer"
+      ]
+    },
+    {
+      "title": "Serian top of the haze chart at API 194 as of 10am as 12 areas turn unhealthy",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/25/serian-top-of-the-haze-chart-at-api-194-as-of-10am-as-12-areas-turn-unhealthy/240512",
+      "source": "Malay Mail",
+      "published": "2026-10-25T03:54:08",
+      "summary": "KUALA LUMPUR, Oct 25 — Twelve areas recorded unhealthy air pollutant index (API) readings as of 10 am today, with...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Husband returns from phone call to find wife submerged in Penang condo pool",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/25/husband-returns-from-phone-call-to-find-wife-submerged-in-penang-condo-pool/240500",
+      "source": "Malay Mail",
+      "published": "2026-10-25T02:21:25",
+      "summary": "GEORGE TOWN, Oct 25 — A 57-year-old foreign woman was found drowned while undergoing aquatic therapy in a condomin...",
+      "keywords_matched": [
+        "therapy"
       ]
     }
   ]
