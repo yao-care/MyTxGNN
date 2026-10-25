@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-25T10:43:48.801493",
+  "fetched": "2026-10-25T14:47:56.707683",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "title": "Permanent Posts Alone Not Enough, Doctors Need Comprehensive Retention Strategy — MMA",
@@ -118,13 +118,23 @@
       ]
     },
     {
-      "title": "A split second, a lifetime of loss: Family recalls fatal Paya Terubong landslide",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/25/a-split-second-a-lifetime-of-loss-family-recalls-fatal-paya-terubong-landslide/240550",
+      "title": "Dzulkefly: MOH strengthening mental health support nationwide, workplace policy under consultation",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/25/dzulkefly-moh-strengthening-mental-health-support-nationwide-workplace-policy-under-consultation/240578",
       "source": "Malay Mail",
-      "published": "2026-10-25T08:29:51",
-      "summary": "PETALING JAYA, Oct 25 — A 73-year-old doctor was killed when a landslide struck his family's home in Taman Ser...",
+      "published": "2026-10-25T12:05:16",
+      "summary": "KUALA LUMPUR, Oct 25 — The Ministry of Health (MOH) is to continue strengthening the support system and access to...",
       "keywords_matched": [
-        "doctor"
+        "health"
+      ]
+    },
+    {
+      "title": "Haze: Eight areas nationwide record unhealthy API as of 6pm, Serian highest at 192",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/25/haze-eight-areas-nationwide-record-unhealthy-api-as-of-6pm-serian-highest-at-192/240573",
+      "source": "Malay Mail",
+      "published": "2026-10-25T10:58:07",
+      "summary": "KUALA LUMPUR, Oct 25 — Eight areas nationwide recorded unhealthy air quality as of 6pm today, with Serian IPD in S...",
+      "keywords_matched": [
+        "health"
       ]
     }
   ]
