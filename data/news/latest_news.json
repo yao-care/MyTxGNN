@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-25T23:48:31.322199",
+  "fetched": "2026-10-26T03:15:00.334947",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,21 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 15,
   "items": [
+    {
+      "title": "Ranau Hospital Crisis: Doctors Working 48 To 72 Straight Hours — Medical Officer",
+      "url": "https://codeblue.galencentre.org/2026/10/ranau-hospital-crisis-doctors-working-48-to-72-straight-hours-medical-officer/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-26T02:00:00",
+      "summary": "Only 8 medical officers are running Ranau Hospital. We are on daily on-calls here, working for 48 to 72 consecutive hours, followed by 5-15 hours’ rest, before resuming another 48- to 72-hour shift. None of us have had a single day off in the past month. The post Ranau Hospital Crisis: Doctors Working 48 To 72 Straight Hours — Medical Officer appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
     {
       "title": "Permanent Posts Alone Not Enough, Doctors Need Comprehensive Retention Strategy — MMA",
       "url": "https://codeblue.galencentre.org/2026/10/permanent-posts-alone-not-enough-doctors-need-comprehensive-retention-strategy-mma/",
@@ -105,16 +118,23 @@
       ]
     },
     {
-      "title": "Mahkota Medical Centre Rebranded As Mahkota Specialist Hospital",
-      "url": "https://codeblue.galencentre.org/2026/10/mahkota-medical-centre-rebranded-as-mahkota-specialist-hospital/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-22T02:38:20",
-      "summary": "The refreshed identity strengthens Mahkota Specialist Hospital’s connection to HMI Medical’s regional health care network, reflecting a shared commitment to delivering More with Care and shaping the future of health care. The post Mahkota Medical Centre Rebranded As Mahkota Specialist Hospital appeared first on CodeBlue .",
+      "title": "Second Chinese national arrested in Hong Kong over suspected drug smuggling from Penang",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/26/second-chinese-national-arrested-in-hong-kong-over-suspected-drug-smuggling-from-penang/240599",
+      "source": "Malay Mail",
+      "published": "2026-10-26T02:05:55",
+      "summary": "KUALA LUMPUR, Oct 26 — A Chinese national was arrested at Hong Kong International Airport today after customs offi...",
       "keywords_matched": [
-        "health",
-        "medical",
-        "hospital",
-        "hospital"
+        "drug"
+      ]
+    },
+    {
+      "title": "No hazardous readings nationwide, but haze keeps seven Sarawak areas in unhealthy zone",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/26/no-hazardous-readings-nationwide-but-haze-keeps-seven-sarawak-areas-in-unhealthy-zone/240593",
+      "source": "Malay Mail",
+      "published": "2026-10-26T01:37:11",
+      "summary": "KUALA LUMPUR, Oct 26 — Haze conditions continued to affect parts of Sarawak this morning, with seven air quality m...",
+      "keywords_matched": [
+        "health"
       ]
     },
     {
