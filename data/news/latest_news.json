@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-26T09:42:08.379204",
+  "fetched": "2026-10-26T16:29:01.781850",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "UMMC Expands Free Dengue Vaccination And Health Screening For Children In Klang Valley",
@@ -118,6 +118,16 @@
       ]
     },
     {
+      "title": "British nationals top KLIA drug mule arrests, drugs worth RM202.76m seized",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/26/british-nationals-top-klia-drug-mule-arrests-drugs-worth-rm20276m-seized/240687",
+      "source": "Malay Mail",
+      "published": "2026-10-26T10:18:29",
+      "summary": "KUALA LUMPUR, Oct 26 — A total of 77 cases linked to drug mule syndicates at Kuala Lumpur International...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
       "title": "High Court dismisses ex-student’s RM400,000 suit over phone seizure during SPM trial exam",
       "url": "https://www.malaymail.com/news/malaysia/2026/10/26/high-court-dismisses-ex-students-rm400000-suit-over-phone-seizure-during-spm-trial-exam/240662",
       "source": "Malay Mail",
@@ -125,26 +135,6 @@
       "summary": "PETALING JAYA, Oct 26 — The Kuala Terengganu High Court has upheld the dismissal of a RM400,000 negligence and def...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Dr Mahathir absent from SG4 forum due to health issues, Mokhzani reads keynote",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/26/dr-mahathir-absent-from-sg4-forum-due-to-health-issues-mokhzani-reads-keynote/240657",
-      "source": "Malay Mail",
-      "published": "2026-10-26T07:32:17",
-      "summary": "KUALA LUMPUR, Oct 26 — Former prime minister Tun Dr Mahathir Mohamad was unable to attend the SG4 Business and Eco...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "‘No compromise’: Selangor exco backs police probe into drug stash at Klang temple",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/26/no-compromise-selangor-exco-backs-police-probe-into-drug-stash-at-klang-temple/240632",
-      "source": "Malay Mail",
-      "published": "2026-10-26T05:10:15",
-      "summary": "SHAH ALAM, Oct 26 — The Selangor state government will not tolerate the use of any place of worship for criminal p...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
