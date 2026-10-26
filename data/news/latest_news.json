@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-26T03:15:00.334947",
+  "fetched": "2026-10-26T09:42:08.379204",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,38 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 15,
+  "total_items": 13,
   "items": [
+    {
+      "title": "UMMC Expands Free Dengue Vaccination And Health Screening For Children In Klang Valley",
+      "url": "https://codeblue.galencentre.org/2026/10/ummc-expands-free-dengue-vaccination-and-health-screening-for-children-in-klang-valley/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-26T07:16:59",
+      "summary": "UMMC's Program Saringan Anemia dan Pencegahan Denggi brings free screening and vaccination services closer to families across the Klang Valley. The post UMMC Expands Free Dengue Vaccination And Health Screening For Children In Klang Valley appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Obituary: Dr Sng Kim Chai, Sole Community Doctor Of Pulau Ketam — Dr Sng Kim Hock",
+      "url": "https://codeblue.galencentre.org/2026/10/obituary-dr-sng-kim-chai-sole-community-doctor-of-pulau-ketam-dr-sng-kim-hock/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-26T06:00:00",
+      "summary": "Dr Sng Kim Chai, who served humbly as Pulau Ketam's sole community doctor for four decades, lived a simple meagre life. He supported a family of five children and was very considerate in his fees to the village folk. The post Obituary: Dr Sng Kim Chai, Sole Community Doctor Of Pulau Ketam — Dr Sng Kim Hock appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "10 Years: Government Must End Secrecy And Release Independent Inquiry Report On 2016 HSAJB Fire",
+      "url": "https://codeblue.galencentre.org/2026/10/10-years-government-must-end-secrecy-and-release-independent-inquiry-report-on-2016-hsajb-fire/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-26T03:40:00",
+      "summary": "What is still preventing the health minister from fulfilling the commitment that he made? The government cannot keep hiding behind administrative explanations. Even the key government officials involved have all retired. There must be accountability. The post 10 Years: Government Must End Secrecy And Release Independent Inquiry Report On 2016 HSAJB Fire appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Ranau Hospital Crisis: Doctors Working 48 To 72 Straight Hours — Medical Officer",
       "url": "https://codeblue.galencentre.org/2026/10/ranau-hospital-crisis-doctors-working-48-to-72-straight-hours-medical-officer/",
@@ -88,83 +118,33 @@
       ]
     },
     {
-      "title": "Commercial Interests Must Not Dictate Patient Care — MMA",
-      "url": "https://codeblue.galencentre.org/2026/10/commercial-interests-must-not-dictate-patient-care-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-22T08:25:50",
-      "summary": "Malaysians pay their medical insurance premiums every month in good faith. Instead, a growing number are told that their chosen specialist has been removed from a panel or restricted from cashless admission. In emergencies, delays can put lives at risk. The post Commercial Interests Must Not Dictate Patient Care — MMA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "patient"
-      ]
-    },
-    {
-      "title": "Social Contagion: Stop Spreading Kuching School Attack Videos — Lim Yi Wei",
-      "url": "https://codeblue.galencentre.org/2026/10/social-contagion-stop-spreading-kuching-school-attack-videos-lim-yi-wei/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-22T07:34:50",
-      "summary": "I strongly urge the public to stop spreading photos or videos of school violence incidents and the media to practise ethical, non-sensationalist reporting to prevent the social contagion effect, which may lead to copycat incidents. The post Social Contagion: Stop Spreading Kuching School Attack Videos — Lim Yi Wei appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Lead And Teach For How Hospitals Really Work — Prof Dr Long Chiau Ming",
-      "url": "https://codeblue.galencentre.org/2026/10/lead-and-teach-for-how-hospitals-really-work-prof-dr-long-chiau-ming/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-22T03:30:00",
-      "summary": "Leaders should watch real work before redesigning it, cut safety clutter, and tackle bullying, while clinicians who teach need training, protected time, and a culture of mentoring. The post Lead And Teach For How Hospitals Really Work — Prof Dr Long Chiau Ming appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Second Chinese national arrested in Hong Kong over suspected drug smuggling from Penang",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/26/second-chinese-national-arrested-in-hong-kong-over-suspected-drug-smuggling-from-penang/240599",
+      "title": "High Court dismisses ex-student’s RM400,000 suit over phone seizure during SPM trial exam",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/26/high-court-dismisses-ex-students-rm400000-suit-over-phone-seizure-during-spm-trial-exam/240662",
       "source": "Malay Mail",
-      "published": "2026-10-26T02:05:55",
-      "summary": "KUALA LUMPUR, Oct 26 — A Chinese national was arrested at Hong Kong International Airport today after customs offi...",
+      "published": "2026-10-26T07:50:46",
+      "summary": "PETALING JAYA, Oct 26 — The Kuala Terengganu High Court has upheld the dismissal of a RM400,000 negligence and def...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Dr Mahathir absent from SG4 forum due to health issues, Mokhzani reads keynote",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/26/dr-mahathir-absent-from-sg4-forum-due-to-health-issues-mokhzani-reads-keynote/240657",
+      "source": "Malay Mail",
+      "published": "2026-10-26T07:32:17",
+      "summary": "KUALA LUMPUR, Oct 26 — Former prime minister Tun Dr Mahathir Mohamad was unable to attend the SG4 Business and Eco...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "‘No compromise’: Selangor exco backs police probe into drug stash at Klang temple",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/26/no-compromise-selangor-exco-backs-police-probe-into-drug-stash-at-klang-temple/240632",
+      "source": "Malay Mail",
+      "published": "2026-10-26T05:10:15",
+      "summary": "SHAH ALAM, Oct 26 — The Selangor state government will not tolerate the use of any place of worship for criminal p...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "No hazardous readings nationwide, but haze keeps seven Sarawak areas in unhealthy zone",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/26/no-hazardous-readings-nationwide-but-haze-keeps-seven-sarawak-areas-in-unhealthy-zone/240593",
-      "source": "Malay Mail",
-      "published": "2026-10-26T01:37:11",
-      "summary": "KUALA LUMPUR, Oct 26 — Haze conditions continued to affect parts of Sarawak this morning, with seven air quality m...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Skies are clearing, but weeks indoors can mess with your head: Experts say don’t brush off the signs",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/26/skies-are-clearing-but-weeks-indoors-can-mess-with-your-head-experts-say-dont-brush-off-the-signs/240215",
-      "source": "Malay Mail",
-      "published": "2026-10-25T23:00:00",
-      "summary": "KUALA LUMPUR, Oct 26 — With haze conditions continue to affect parts of the country, mental health exper...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Dzulkefly: MOH strengthening mental health support nationwide, workplace policy under consultation",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/25/dzulkefly-moh-strengthening-mental-health-support-nationwide-workplace-policy-under-consultation/240578",
-      "source": "Malay Mail",
-      "published": "2026-10-25T12:05:16",
-      "summary": "KUALA LUMPUR, Oct 25 — The Ministry of Health (MOH) is to continue strengthening the support system and access to...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Haze: Eight areas nationwide record unhealthy API as of 6pm, Serian highest at 192",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/25/haze-eight-areas-nationwide-record-unhealthy-api-as-of-6pm-serian-highest-at-192/240573",
-      "source": "Malay Mail",
-      "published": "2026-10-25T10:58:07",
-      "summary": "KUALA LUMPUR, Oct 25 — Eight areas nationwide recorded unhealthy air quality as of 6pm today, with Serian IPD in S...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
