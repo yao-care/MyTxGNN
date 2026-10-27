@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-26T21:20:29.680397",
+  "fetched": "2026-10-27T01:07:29.886127",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "UMMC Expands Free Dengue Vaccination And Health Screening For Children In Klang Valley",
@@ -118,23 +118,13 @@
       ]
     },
     {
-      "title": "British nationals top KLIA drug mule arrests, drugs worth RM202.76m seized",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/26/british-nationals-top-klia-drug-mule-arrests-drugs-worth-rm20276m-seized/240687",
+      "title": "Bukit Aman seizes RM765,750 in unregistered health products, suspected counterfeit goods in KL raid",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/27/bukit-aman-seizes-rm765750-in-unregistered-health-products-suspected-counterfeit-goods-in-kl-raid/240715",
       "source": "Malay Mail",
-      "published": "2026-10-26T10:18:29",
-      "summary": "KUALA LUMPUR, Oct 26 — A total of 77 cases linked to drug mule syndicates at Kuala Lumpur International...",
+      "published": "2026-10-27T00:49:36",
+      "summary": "KUALA LUMPUR, Oct 27 —The Wildlife Crime Bureau/Special Investigation Intelligence (WCB/PSK) unit of Bukit A...",
       "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "High Court dismisses ex-student’s RM400,000 suit over phone seizure during SPM trial exam",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/26/high-court-dismisses-ex-students-rm400000-suit-over-phone-seizure-during-spm-trial-exam/240662",
-      "source": "Malay Mail",
-      "published": "2026-10-26T07:50:46",
-      "summary": "PETALING JAYA, Oct 26 — The Kuala Terengganu High Court has upheld the dismissal of a RM400,000 negligence and def...",
-      "keywords_matched": [
-        "trial"
+        "health"
       ]
     }
   ]
