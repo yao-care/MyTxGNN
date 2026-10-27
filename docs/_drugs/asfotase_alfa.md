@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Asfotase Alfa: Daripada Terapi Penggantian Enzim TNSALP (Hipofosfatasia) kepada Gangguan Fosforilasi Oksidatif Mitokondria Akibat Anomali DNA Nukleus
+## Asfotase Alfa: Daripada Terapi Penggantian Enzim TNSALP (Hipofosfatasia) kepada Gangguan Fosforilasi Oksidatif Mitokondria Akibat Anomali DNA Nukleus
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

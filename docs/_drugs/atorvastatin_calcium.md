@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Atorvastatin Calcium: Penilaian Tujuan Ulang Ubat — Data Ramalan TxGNN Tertangguh
+## Atorvastatin Calcium: Penilaian Tujuan Ulang Ubat — Data Ramalan TxGNN Tertangguh
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

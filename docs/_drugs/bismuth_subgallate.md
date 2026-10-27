@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bismuth Subgallate: Laporan Penilaian Penambahan Kegunaan Ubat
+## Bismuth Subgallate: Laporan Penilaian Penambahan Kegunaan Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

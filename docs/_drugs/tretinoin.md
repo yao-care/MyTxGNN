@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Tretinoin: Daripada Jerawat dan Leukemia Promielositik Akut kepada Rheumatoid Nodulosis
+## Tretinoin: Daripada Jerawat dan Leukemia Promielositik Akut kepada Rheumatoid Nodulosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

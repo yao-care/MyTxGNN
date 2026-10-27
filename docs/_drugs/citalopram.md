@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Citalopram: Daripada Gangguan Kemurungan kepada Gangguan Obsesif-Kompulsif
+## Citalopram: Daripada Gangguan Kemurungan kepada Gangguan Obsesif-Kompulsif
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

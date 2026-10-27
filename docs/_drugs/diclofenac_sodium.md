@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Diclofenac Natrium: Penilaian Penggunaan Semula Ubat — Menanti Ramalan TxGNN
+## Diclofenac Natrium: Penilaian Penggunaan Semula Ubat — Menanti Ramalan TxGNN
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

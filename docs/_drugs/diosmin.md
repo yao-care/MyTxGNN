@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Diosmin: Daripada Penggunaan Asal (Tiada Data) kepada Amenorea
+## Diosmin: Daripada Penggunaan Asal (Tiada Data) kepada Amenorea
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

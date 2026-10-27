@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **9**
 
 </div>
 
-# Asid Asetilsalisilik (Aspirin): Daripada Artritis Reumatoid/Migrain kepada Migrain dengan Aura Batang Otak
+## Asid Asetilsalisilik (Aspirin): Daripada Artritis Reumatoid/Migrain kepada Migrain dengan Aura Batang Otak
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

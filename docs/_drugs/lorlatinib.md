@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Lorlatinib: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Fibromatosis Gingiva
+## Lorlatinib: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Fibromatosis Gingiva
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

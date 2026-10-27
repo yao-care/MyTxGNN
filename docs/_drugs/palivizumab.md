@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Palivizumab: Daripada Jangkitan RSV kepada Benign Neoplasm of Tongue
+## Palivizumab: Daripada Jangkitan RSV kepada Benign Neoplasm of Tongue
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

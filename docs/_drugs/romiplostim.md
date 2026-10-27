@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Romiplostim: Daripada Penggunaan Asal kepada Gangguan Pelepasan Primer Platelet
+## Romiplostim: Daripada Penggunaan Asal kepada Gangguan Pelepasan Primer Platelet
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

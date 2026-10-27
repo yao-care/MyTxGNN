@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Clobetasol Propionate: Daripada Dermatitis Atopik kepada Dermatitis (Dermatitis Seboroik dan Dermatosis Kulit Kepala)
+## Clobetasol Propionate: Daripada Dermatitis Atopik kepada Dermatitis (Dermatitis Seboroik dan Dermatosis Kulit Kepala)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

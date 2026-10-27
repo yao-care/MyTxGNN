@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Benzocaine: Daripada Tinea Pedis kepada Konjunktivitis Papilari
+## Benzocaine: Daripada Tinea Pedis kepada Konjunktivitis Papilari
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

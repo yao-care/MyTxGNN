@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Andexanet Alfa: Daripada Antikoagulan FXa kepada Glanzmann Thrombasthenia
+## Andexanet Alfa: Daripada Antikoagulan FXa kepada Glanzmann Thrombasthenia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

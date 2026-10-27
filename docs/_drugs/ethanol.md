@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Etanol: Daripada Tiada Indikasi Berdaftar kepada Gangguan Migrain
+## Etanol: Daripada Tiada Indikasi Berdaftar kepada Gangguan Migrain
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

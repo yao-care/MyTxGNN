@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Kalium Asetat: Daripada Kekurangan Kalium kepada Asidosis Tubulus Renal
+## Kalium Asetat: Daripada Kekurangan Kalium kepada Asidosis Tubulus Renal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

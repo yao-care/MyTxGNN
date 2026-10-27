@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Flutamide: Daripada Kanser Prostat kepada Kerentanan Kanser Prostat/Kanser Otak
+## Flutamide: Daripada Kanser Prostat kepada Kerentanan Kanser Prostat/Kanser Otak
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

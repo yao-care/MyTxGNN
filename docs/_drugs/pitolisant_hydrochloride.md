@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Pitolisant Hydrochloride: Rawatan Narkolepsi — Analisis Penyesuaian Penggunaan Tertangguh
+## Pitolisant Hydrochloride: Rawatan Narkolepsi — Analisis Penyesuaian Penggunaan Tertangguh
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

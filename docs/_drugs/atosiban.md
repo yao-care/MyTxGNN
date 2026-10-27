@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Atosiban: Daripada Penggunaan Tokolitik kepada Glaukoma Keturunan Primer
+## Atosiban: Daripada Penggunaan Tokolitik kepada Glaukoma Keturunan Primer
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

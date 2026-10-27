@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Gilteritinib: Daripada Leukemia Mieloid kepada Polio Bulbar
+## Gilteritinib: Daripada Leukemia Mieloid kepada Polio Bulbar
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

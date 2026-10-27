@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Desonide: Daripada Penggunaan Kortikosteroid Topikal kepada Ekzema Atopik
+## Desonide: Daripada Penggunaan Kortikosteroid Topikal kepada Ekzema Atopik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

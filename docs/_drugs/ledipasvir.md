@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Ledipasvir: Daripada Jangkitan Hepatitis C Kronik kepada Jangkitan Virus Hepatitis B
+## Ledipasvir: Daripada Jangkitan Hepatitis C Kronik kepada Jangkitan Virus Hepatitis B
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

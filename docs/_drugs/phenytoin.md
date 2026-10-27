@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Fenitoin: Daripada Antiepilepsi kepada Neoplasma Saraf Trigeminal
+## Fenitoin: Daripada Antiepilepsi kepada Neoplasma Saraf Trigeminal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

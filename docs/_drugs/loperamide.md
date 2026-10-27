@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Loperamide: Daripada Penyakit Cirit-birit kepada Konjunktivitis Berjangkit Akut
+## Loperamide: Daripada Penyakit Cirit-birit kepada Konjunktivitis Berjangkit Akut
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

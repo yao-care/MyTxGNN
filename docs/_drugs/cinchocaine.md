@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Cinchocaine: Daripada Dermatitis kepada Bronkitis
+## Cinchocaine: Daripada Dermatitis kepada Bronkitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

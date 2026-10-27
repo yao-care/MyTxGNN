@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Betamethasone Dipropionate: Laporan Penilaian Ubat Repurposing
+## Betamethasone Dipropionate: Laporan Penilaian Ubat Repurposing
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

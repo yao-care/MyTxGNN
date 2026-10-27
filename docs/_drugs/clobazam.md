@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Clobazam: Daripada Sindrom Lennox-Gastaut kepada Sindrom Epilepsi Berkaitan Jangkitan Demam (FIRES)
+## Clobazam: Daripada Sindrom Lennox-Gastaut kepada Sindrom Epilepsi Berkaitan Jangkitan Demam (FIRES)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Klonidina: Daripada Indikasi Berdaftar Asal (Tiada Data) kepada ADHD Jenis Kurang Perhatian
+## Klonidina: Daripada Indikasi Berdaftar Asal (Tiada Data) kepada ADHD Jenis Kurang Perhatian
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Docetaxel: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Karsinoma Prostat Familial
+## Docetaxel: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Karsinoma Prostat Familial
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

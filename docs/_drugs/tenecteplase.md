@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Tenecteplase: Daripada Infarksi Miokardium kepada Infarksi Miokardium Posterolateral
+## Tenecteplase: Daripada Infarksi Miokardium kepada Infarksi Miokardium Posterolateral
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Basiliximab: Laporan Penilaian Ubah Tujuan Ubat
+## Basiliximab: Laporan Penilaian Ubah Tujuan Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

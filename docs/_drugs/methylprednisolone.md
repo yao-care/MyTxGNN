@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Methylprednisolone: Daripada Penyakit Autoimun kepada Eritema Multiforme
+## Methylprednisolone: Daripada Penyakit Autoimun kepada Eritema Multiforme
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

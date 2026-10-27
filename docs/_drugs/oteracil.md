@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Oteracil: Daripada Kanser Gastrik kepada Neoplasma Kolon
+## Oteracil: Daripada Kanser Gastrik kepada Neoplasma Kolon
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

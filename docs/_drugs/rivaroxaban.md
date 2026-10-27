@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Rivaroxaban: Daripada Penggunaan Antikoagulan kepada Artritis Reumatoid
+## Rivaroxaban: Daripada Penggunaan Antikoagulan kepada Artritis Reumatoid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

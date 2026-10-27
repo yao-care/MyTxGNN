@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-# Elvitegravir: Daripada Jangkitan HIV kepada Jangkitan Virus Imunodefisiensi Simian (SIV)
+## Elvitegravir: Daripada Jangkitan HIV kepada Jangkitan Virus Imunodefisiensi Simian (SIV)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

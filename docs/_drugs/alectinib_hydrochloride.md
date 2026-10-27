@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Alectinib Hydrochloride: Daripada Kanser Paru Sel Bukan Kecil ALK+ kepada [Tiada Ramalan Penyalahgunaan Ubat Dijana]
+## Alectinib Hydrochloride: Daripada Kanser Paru Sel Bukan Kecil ALK+ kepada [Tiada Ramalan Penyalahgunaan Ubat Dijana]
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

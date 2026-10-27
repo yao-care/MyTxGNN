@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Acyclovir: Daripada Jangkitan Herpes Simplex kepada Herpes Zoster
+## Acyclovir: Daripada Jangkitan Herpes Simplex kepada Herpes Zoster
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

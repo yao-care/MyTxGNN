@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Loperamide Hydrochloride: Agen Antidiarrhea — Penilaian Pengeluaran Semula Ubat Ditangguhkan
+## Loperamide Hydrochloride: Agen Antidiarrhea — Penilaian Pengeluaran Semula Ubat Ditangguhkan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

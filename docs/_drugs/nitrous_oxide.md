@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Nitrous Oxide: Daripada Penggunaan Asal kepada Hiperplasia Prostat Benigna (BPH)
+## Nitrous Oxide: Daripada Penggunaan Asal kepada Hiperplasia Prostat Benigna (BPH)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

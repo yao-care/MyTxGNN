@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Procaine Benzylpenicillin: Daripada Penggunaan Antibakteria Asal kepada Otitis Media Berjangkit
+## Procaine Benzylpenicillin: Daripada Penggunaan Antibakteria Asal kepada Otitis Media Berjangkit
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

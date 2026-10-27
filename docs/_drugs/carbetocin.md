@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Carbetocin: Daripada Sindrom Prader-Willi dan Sindrom Noonan kepada Sindrom Seperti Isotretinoin
+## Carbetocin: Daripada Sindrom Prader-Willi dan Sindrom Noonan kepada Sindrom Seperti Isotretinoin
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

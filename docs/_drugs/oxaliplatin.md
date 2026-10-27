@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **4**
 
 </div>
 
-# Oxaliplatin: Daripada Metastasis Kanser Kolon kepada Mesotelioma Pleura Malignan
+## Oxaliplatin: Daripada Metastasis Kanser Kolon kepada Mesotelioma Pleura Malignan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

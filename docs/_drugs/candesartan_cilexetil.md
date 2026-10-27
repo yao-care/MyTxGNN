@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Candesartan Cilexetil: Daripada Hipertensi kepada Hipertensi Renovaskular Malignan
+## Candesartan Cilexetil: Daripada Hipertensi kepada Hipertensi Renovaskular Malignan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

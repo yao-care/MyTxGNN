@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Tolnaftate: Daripada Jangkitan Kulat Dermatofit (Tinea Pedis) kepada Pityriasis Versicolor
+## Tolnaftate: Daripada Jangkitan Kulat Dermatofit (Tinea Pedis) kepada Pityriasis Versicolor
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

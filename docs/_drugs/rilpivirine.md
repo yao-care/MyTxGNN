@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Rilpivirine: Daripada Jangkitan HIV kepada Sindrom Imunodefisiensi Dapatan Kucing (Feline AIDS)
+## Rilpivirine: Daripada Jangkitan HIV kepada Sindrom Imunodefisiensi Dapatan Kucing (Feline AIDS)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Enfortumab Vedotin: Daripada Indikasi Asal (Tiada Rekod Berdaftar) kepada Kusta (Leprosy)
+## Enfortumab Vedotin: Daripada Indikasi Asal (Tiada Rekod Berdaftar) kepada Kusta (Leprosy)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

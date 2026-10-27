@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Famotidine: Daripada Penyakit Ulser Gastrik kepada Esofagitis (Refluks)
+## Famotidine: Daripada Penyakit Ulser Gastrik kepada Esofagitis (Refluks)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

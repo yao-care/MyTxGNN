@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Perampanel: Daripada Epilepsi Separa kepada Epilepsi Visual
+## Perampanel: Daripada Epilepsi Separa kepada Epilepsi Visual
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Amikacin: Daripada Jangkitan Bakteria Gram-Negatif kepada Demam Paratifoid
+## Amikacin: Daripada Jangkitan Bakteria Gram-Negatif kepada Demam Paratifoid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

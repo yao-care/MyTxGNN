@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Sennosides: Daripada Julat Indikasi Asal kepada Hipotrikosis Simpleks Kulit Kepala
+## Sennosides: Daripada Julat Indikasi Asal kepada Hipotrikosis Simpleks Kulit Kepala
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

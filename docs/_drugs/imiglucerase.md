@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Imiglucerase: Daripada Penyakit Gaucher kepada Sindrom Hurler
+## Imiglucerase: Daripada Penyakit Gaucher kepada Sindrom Hurler
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

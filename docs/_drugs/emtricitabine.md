@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-# Emtricitabine: Daripada Jangkitan HIV kepada Sindrom Imunodefisiensi Dapatan Kucing (FIV)
+## Emtricitabine: Daripada Jangkitan HIV kepada Sindrom Imunodefisiensi Dapatan Kucing (FIV)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

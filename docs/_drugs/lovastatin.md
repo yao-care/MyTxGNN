@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **6**
 
 </div>
 
-# Lovastatin: Daripada Hiperlipidemia kepada Hiperkolesterolemia Familial Homozigot
+## Lovastatin: Daripada Hiperlipidemia kepada Hiperkolesterolemia Familial Homozigot
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

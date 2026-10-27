@@ -31,7 +31,8 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Zink Oksida: Daripada Dermatitis/Ruam Kulit kepada Dermatitis (Dermatitis Lampin dan Dermatitis Berkaitan Inkontinensia)
+## Zink Oksida: Daripada Dermatitis/Ruam Kulit kepada Dermatitis (Dermatitis Lampin dan Dermatitis Berkaitan Inkontinensia)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

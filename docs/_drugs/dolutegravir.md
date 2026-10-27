@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-# Dolutegravir: Daripada Jangkitan HIV kepada Jangkitan Virus Kurang Daya Tahan Simian (SIV)
+## Dolutegravir: Daripada Jangkitan HIV kepada Jangkitan Virus Kurang Daya Tahan Simian (SIV)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

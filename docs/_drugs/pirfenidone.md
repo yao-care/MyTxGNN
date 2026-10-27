@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Pirfenidone: Daripada Fibrosis Pulmonari Idiopatik kepada Extracutaneous Mastocytoma
+## Pirfenidone: Daripada Fibrosis Pulmonari Idiopatik kepada Extracutaneous Mastocytoma
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

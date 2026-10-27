@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Nonivamide: Daripada Indikasi Asal yang Tidak Direkodkan kepada Hipertensi Pulmonari
+## Nonivamide: Daripada Indikasi Asal yang Tidak Direkodkan kepada Hipertensi Pulmonari
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

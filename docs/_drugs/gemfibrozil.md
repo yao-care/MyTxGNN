@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Gemfibrozil: Daripada Dislipidemia kepada Rheumatoid Arthritis
+## Gemfibrozil: Daripada Dislipidemia kepada Rheumatoid Arthritis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

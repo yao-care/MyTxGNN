@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Loteprednol Etabonat: Daripada Uveitis kepada Konjunktivitis Folikular Kronik
+## Loteprednol Etabonat: Daripada Uveitis kepada Konjunktivitis Folikular Kronik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

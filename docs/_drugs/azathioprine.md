@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Azathioprine: Daripada Artritis Reumatoid kepada Sindrom Mikroftalmia Kolobomatus-Displasia Rizomelik (Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome)
+## Azathioprine: Daripada Artritis Reumatoid kepada Sindrom Mikroftalmia Kolobomatus-Displasia Rizomelik (Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

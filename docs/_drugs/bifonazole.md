@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bifonazole: Agen Antifungal — Penilaian Penggunaan Semula Ubat
+## Bifonazole: Agen Antifungal — Penilaian Penggunaan Semula Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

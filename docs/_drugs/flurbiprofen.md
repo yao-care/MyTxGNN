@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Flurbiprofen: Daripada Ubat Antiradang Bukan Steroid (NSAID) kepada Kerentanan Osteoartritis
+## Flurbiprofen: Daripada Ubat Antiradang Bukan Steroid (NSAID) kepada Kerentanan Osteoartritis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# ALUMINIUM HYDROXIDE: Penilaian Penggunaan Kembali Ubat — Data Tidak Mencukupi untuk Menghasilkan Ramalan
+## ALUMINIUM HYDROXIDE: Penilaian Penggunaan Kembali Ubat — Data Tidak Mencukupi untuk Menghasilkan Ramalan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

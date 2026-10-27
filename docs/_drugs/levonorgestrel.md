@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **6**
 
 </div>
 
-# Levonorgestrel: Daripada Osteoporosis kepada Jerawat (Acne)
+## Levonorgestrel: Daripada Osteoporosis kepada Jerawat (Acne)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-# Atropin: Daripada Penunjuk Asal yang Tidak Direkodkan kepada Gangguan Migrain
+## Atropin: Daripada Penunjuk Asal yang Tidak Direkodkan kepada Gangguan Migrain
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Nimodipine: Daripada Perdarahan Subaraknoid kepada Hiperkolesterolemia Familial Homozigot
+## Nimodipine: Daripada Perdarahan Subaraknoid kepada Hiperkolesterolemia Familial Homozigot
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Beractant: Surfaktan Pulmonari — Tiada Petunjuk Indikasi Baru
+## Beractant: Surfaktan Pulmonari — Tiada Petunjuk Indikasi Baru
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

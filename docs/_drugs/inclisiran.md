@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Inclisiran: Daripada Pengurangan Kolesterol LDL kepada Kekurangan Kalium (Potassium Deficiency Disease)
+## Inclisiran: Daripada Pengurangan Kolesterol LDL kepada Kekurangan Kalium (Potassium Deficiency Disease)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

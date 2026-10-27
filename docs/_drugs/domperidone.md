@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Domperidone: Daripada Gangguan Gastrousus kepada Sindrom Antidiuresis Tidak Wajar Nefrogenik
+## Domperidone: Daripada Gangguan Gastrousus kepada Sindrom Antidiuresis Tidak Wajar Nefrogenik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

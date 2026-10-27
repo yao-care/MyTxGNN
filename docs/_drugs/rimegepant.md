@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **6**
 
 </div>
 
-# Rimegepant: Daripada Gangguan Migrain kepada Migrain dengan Aura Batang Otak
+## Rimegepant: Daripada Gangguan Migrain kepada Migrain dengan Aura Batang Otak
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Estradiol Valerate: Daripada Indikasi Asal (Tidak Didaftarkan di Malaysia) kepada Bentuk Bergejala Sindrom Fragile X pada Pembawa Wanita
+## Estradiol Valerate: Daripada Indikasi Asal (Tidak Didaftarkan di Malaysia) kepada Bentuk Bergejala Sindrom Fragile X pada Pembawa Wanita
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

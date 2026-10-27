@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Trabectedin: Daripada Kanser Ovari kepada Karsinoma Payudara Wanita
+## Trabectedin: Daripada Kanser Ovari kepada Karsinoma Payudara Wanita
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

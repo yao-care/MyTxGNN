@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Laporan Penilaian Ubah Guna Ubat: Hidroklorida Dexmedetomidine
+## Laporan Penilaian Ubah Guna Ubat: Hidroklorida Dexmedetomidine
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

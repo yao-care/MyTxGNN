@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **8**
 
 </div>
 
-# Lactulose: Daripada Ensefalopati Hepar kepada Penyakit Kuning Obstruktif
+## Lactulose: Daripada Ensefalopati Hepar kepada Penyakit Kuning Obstruktif
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

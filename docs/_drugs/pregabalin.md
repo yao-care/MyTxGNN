@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Pregabalin: Daripada Gangguan Kebimbangan kepada Fibromialgia
+## Pregabalin: Daripada Gangguan Kebimbangan kepada Fibromialgia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

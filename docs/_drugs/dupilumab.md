@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Dupilumab: Dari Ekzema Atopik kepada Bronkitis
+## Dupilumab: Dari Ekzema Atopik kepada Bronkitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

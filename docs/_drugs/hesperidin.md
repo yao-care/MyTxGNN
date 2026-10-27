@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Hesperidin: Daripada Indikasi Asal yang Tidak Direkodkan kepada Neoplasma Mieloproliferatif
+## Hesperidin: Daripada Indikasi Asal yang Tidak Direkodkan kepada Neoplasma Mieloproliferatif
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

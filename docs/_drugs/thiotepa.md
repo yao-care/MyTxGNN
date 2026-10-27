@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Thiotepa: Daripada Limfoma, Kanser Payudara dan Kanser Ovari kepada Karsinoma Sel Peralihan Bukan Papilari Pundi Kencing
+## Thiotepa: Daripada Limfoma, Kanser Payudara dan Kanser Ovari kepada Karsinoma Sel Peralihan Bukan Papilari Pundi Kencing
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

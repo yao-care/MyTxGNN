@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Baclofen: Daripada Spastisiti kepada Gangguan Hiperaktiviti Kurang Perhatian (ADHD)
+## Baclofen: Daripada Spastisiti kepada Gangguan Hiperaktiviti Kurang Perhatian (ADHD)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

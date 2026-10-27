@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Lopinavir: Daripada Jangkitan HIV kepada Sindrom Kurang Daya Tahan Imun Kucing (Feline AIDS)
+## Lopinavir: Daripada Jangkitan HIV kepada Sindrom Kurang Daya Tahan Imun Kucing (Feline AIDS)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

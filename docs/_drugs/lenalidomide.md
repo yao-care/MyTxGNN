@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Lenalidomide: Daripada Mieloma Sel Plasma kepada Limfoma Sel Mantel
+## Lenalidomide: Daripada Mieloma Sel Plasma kepada Limfoma Sel Mantel
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

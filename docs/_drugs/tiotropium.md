@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Tiotropium: Daripada Bronkitis/Asma/Emfisema kepada Penyakit Paru Obstruktif
+## Tiotropium: Daripada Bronkitis/Asma/Emfisema kepada Penyakit Paru Obstruktif
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

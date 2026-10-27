@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Zink Glukonat: Daripada Indikasi Asal (Tidak Direkodkan) kepada Anemia Pramatang
+## Zink Glukonat: Daripada Indikasi Asal (Tidak Direkodkan) kepada Anemia Pramatang
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

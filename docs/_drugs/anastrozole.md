@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **6**
 
 </div>
 
-# Anastrozole: Daripada Indikasi Asal (Tidak Direkodkan) kepada Karsinoma Payudara Wanita
+## Anastrozole: Daripada Indikasi Asal (Tidak Direkodkan) kepada Karsinoma Payudara Wanita
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

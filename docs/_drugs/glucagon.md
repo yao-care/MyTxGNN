@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Glukagon: Daripada Penggunaan Asal (Tiada Indikasi Berdaftar di Malaysia) kepada Sindrom Usus Rengsa (Irritable Bowel Syndrome)
+## Glukagon: Daripada Penggunaan Asal (Tiada Indikasi Berdaftar di Malaysia) kepada Sindrom Usus Rengsa (Irritable Bowel Syndrome)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

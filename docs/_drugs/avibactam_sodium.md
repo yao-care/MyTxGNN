@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Avibactam Sodium: Daripada Jangkitan Bakterial – Tiada Ramalan Penyetempatan Semula Tersedia
+## Avibactam Sodium: Daripada Jangkitan Bakterial – Tiada Ramalan Penyetempatan Semula Tersedia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Alanina: Daripada Tiada Indikasi Berdaftar kepada Gastroparesis
+## Alanina: Daripada Tiada Indikasi Berdaftar kepada Gastroparesis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

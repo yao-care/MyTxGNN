@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Ranitidine: Daripada Ulser Gastrik/Duodenum kepada Penyakit Ulser Peptik Aktif
+## Ranitidine: Daripada Ulser Gastrik/Duodenum kepada Penyakit Ulser Peptik Aktif
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Magnesium Carbonate: Daripada Penyakit Ulser Peptik kepada Penyakit Ulser Peptik Aktif
+## Magnesium Carbonate: Daripada Penyakit Ulser Peptik kepada Penyakit Ulser Peptik Aktif
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

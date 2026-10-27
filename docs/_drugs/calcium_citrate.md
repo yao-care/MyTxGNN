@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Kalsium Sitrat: Daripada Suplemen Kalsium kepada Hemoglobinopati
+## Kalsium Sitrat: Daripada Suplemen Kalsium kepada Hemoglobinopati
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

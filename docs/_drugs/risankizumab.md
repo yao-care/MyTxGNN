@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Risankizumab: Daripada Indikasi Asal (Tiada Data) kepada Dermatitis
+## Risankizumab: Daripada Indikasi Asal (Tiada Data) kepada Dermatitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

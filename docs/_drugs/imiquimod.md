@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Imiquimod: Daripada Tiada Indikasi Berdaftar kepada Neoplasma Pra-malignan
+## Imiquimod: Daripada Tiada Indikasi Berdaftar kepada Neoplasma Pra-malignan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

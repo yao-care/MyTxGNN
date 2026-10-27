@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Moxifloxacin: Daripada Jangkitan Bakteria kepada Hiperamilasemia
+## Moxifloxacin: Daripada Jangkitan Bakteria kepada Hiperamilasemia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

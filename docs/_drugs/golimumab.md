@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Golimumab: Daripada Artritis Reumatoid kepada Vaskulitis Reumatoid
+## Golimumab: Daripada Artritis Reumatoid kepada Vaskulitis Reumatoid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

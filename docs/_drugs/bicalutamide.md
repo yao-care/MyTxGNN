@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Bicalutamide: Daripada Kanser Prostat kepada Hipertrikosis
+## Bicalutamide: Daripada Kanser Prostat kepada Hipertrikosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

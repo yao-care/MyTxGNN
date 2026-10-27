@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Hydroxyurea: Daripada Penggunaan Asal kepada Karsinoma Payudara Wanita
+## Hydroxyurea: Daripada Penggunaan Asal kepada Karsinoma Payudara Wanita
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

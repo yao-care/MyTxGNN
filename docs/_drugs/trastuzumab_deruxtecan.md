@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Trastuzumab Deruxtecan: Daripada Penggunaan Asal kepada Osteoporosis Teraruh Ubat
+## Trastuzumab Deruxtecan: Daripada Penggunaan Asal kepada Osteoporosis Teraruh Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Streptomisin: Daripada Tuberkulosis Paru-paru kepada Konjunktivitis
+## Streptomisin: Daripada Tuberkulosis Paru-paru kepada Konjunktivitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

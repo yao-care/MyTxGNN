@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Alfuzosin: Daripada Hiperplasia Prostat Benigna kepada Hipertrikosis Kongenital Universalis jenis Ambras
+## Alfuzosin: Daripada Hiperplasia Prostat Benigna kepada Hipertrikosis Kongenital Universalis jenis Ambras
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

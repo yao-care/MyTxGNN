@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Allopurinol: Daripada Gout kepada Porfiria Hepatik
+## Allopurinol: Daripada Gout kepada Porfiria Hepatik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

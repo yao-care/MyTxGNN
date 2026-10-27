@@ -31,7 +31,8 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Azacitidine: Daripada Leukemia Mieloid kepada Leukemia Mieloid Berkaitan Terapi dan Sindrom Mielodisplastik
+## Azacitidine: Daripada Leukemia Mieloid kepada Leukemia Mieloid Berkaitan Terapi dan Sindrom Mielodisplastik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

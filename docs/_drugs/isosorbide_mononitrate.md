@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Isosorbide Mononitrate: Daripada Indikasi Asal kepada Hipertrikosis (Ramalan Teratas)
+## Isosorbide Mononitrate: Daripada Indikasi Asal kepada Hipertrikosis (Ramalan Teratas)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

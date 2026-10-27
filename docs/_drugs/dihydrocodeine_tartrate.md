@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Dihydrocodeine Tartrate: Penilaian Tujuan Baru Ubat
+## Dihydrocodeine Tartrate: Penilaian Tujuan Baru Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

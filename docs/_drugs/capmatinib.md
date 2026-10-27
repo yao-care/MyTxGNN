@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Capmatinib: Daripada Penunjuk Asal yang Tidak Direkodkan kepada Rheumatoid Arthritis
+## Capmatinib: Daripada Penunjuk Asal yang Tidak Direkodkan kepada Rheumatoid Arthritis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ergocalciferol: Daripada Suplemen Vitamin D2 kepada Kekurangan Vitamin D (Istilah Usang)
+## Ergocalciferol: Daripada Suplemen Vitamin D2 kepada Kekurangan Vitamin D (Istilah Usang)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

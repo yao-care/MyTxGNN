@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Eplerenone: Daripada Hipertensi kepada Hipertensi Pulmonari (Mekanisme Pelbagai Faktor yang Tidak Jelas)
+## Eplerenone: Daripada Hipertensi kepada Hipertensi Pulmonari (Mekanisme Pelbagai Faktor yang Tidak Jelas)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

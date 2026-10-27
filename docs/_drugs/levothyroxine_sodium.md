@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Levothyroxine Sodium: Penggantian Hormon Tiroid — Analisis Repositioning Tertunda
+## Levothyroxine Sodium: Penggantian Hormon Tiroid — Analisis Repositioning Tertunda
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

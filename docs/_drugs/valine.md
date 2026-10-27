@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Valine: Daripada Penggunaan Asal kepada Kolangitis Sklerosis (Dijangka)
+## Valine: Daripada Penggunaan Asal kepada Kolangitis Sklerosis (Dijangka)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Omalizumab: Daripada Indikasi Asal (Tidak Direkodkan) kepada Bronkitis
+## Omalizumab: Daripada Indikasi Asal (Tidak Direkodkan) kepada Bronkitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

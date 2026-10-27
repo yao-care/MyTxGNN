@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Amantadine: Daripada Penyakit Parkinson kepada Rasmussen Subacute Encephalitis
+## Amantadine: Daripada Penyakit Parkinson kepada Rasmussen Subacute Encephalitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

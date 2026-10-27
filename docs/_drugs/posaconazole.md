@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Posaconazole: Daripada Jangkitan Kulat (Candidiasis, Aspergillosis dll.) kepada Pneumocystosis
+## Posaconazole: Daripada Jangkitan Kulat (Candidiasis, Aspergillosis dll.) kepada Pneumocystosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

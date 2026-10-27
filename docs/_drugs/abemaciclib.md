@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Abemaciclib (DB12001): Penilaian Repurposing Ubat — Ramalan TxGNN Tertunda
+## Abemaciclib (DB12001): Penilaian Repurposing Ubat — Ramalan TxGNN Tertunda
+{: .text-alpha }
 
 ---
 

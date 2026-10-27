@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Dasatinib: Daripada Leukemia Myeloid Kronik (CML) kepada Sarkoma Ewing
+## Dasatinib: Daripada Leukemia Myeloid Kronik (CML) kepada Sarkoma Ewing
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

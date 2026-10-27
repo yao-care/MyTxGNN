@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Clomipramine: Daripada Penggunaan Asal kepada Gangguan Kebimbangan (Anxiety Disorder)
+## Clomipramine: Daripada Penggunaan Asal kepada Gangguan Kebimbangan (Anxiety Disorder)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

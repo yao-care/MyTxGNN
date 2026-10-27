@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Selumetinib: Daripada Indikasi Asal Tidak Dinyatakan kepada Schwannoma Saraf Periferal
+## Selumetinib: Daripada Indikasi Asal Tidak Dinyatakan kepada Schwannoma Saraf Periferal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

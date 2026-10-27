@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Deferasirox: Daripada Beta-Talasemia kepada Beta-Talasemia dan Penyakit Berkaitan
+## Deferasirox: Daripada Beta-Talasemia kepada Beta-Talasemia dan Penyakit Berkaitan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

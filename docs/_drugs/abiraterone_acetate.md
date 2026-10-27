@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Abiraterone Acetate: Daripada Kanser Prostat kepada [Menunggu Ramalan TxGNN]
+## Abiraterone Acetate: Daripada Kanser Prostat kepada [Menunggu Ramalan TxGNN]
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Tipiracil: Daripada Kanser Kolorektal Metastatik (Komponen TAS-102) kepada Neoplasma Kolon
+## Tipiracil: Daripada Kanser Kolorektal Metastatik (Komponen TAS-102) kepada Neoplasma Kolon
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

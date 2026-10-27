@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Leflunomide: Daripada Artritis Psoriatik dan Artritis Reumatoid kepada Sindrom Brakidaktili-Sindaktili
+## Leflunomide: Daripada Artritis Psoriatik dan Artritis Reumatoid kepada Sindrom Brakidaktili-Sindaktili
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

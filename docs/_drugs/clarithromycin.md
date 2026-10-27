@@ -31,7 +31,8 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Clarithromycin: Daripada Otitis Media Berjangkit kepada Sinusitis Maksila
+## Clarithromycin: Daripada Otitis Media Berjangkit kepada Sinusitis Maksila
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

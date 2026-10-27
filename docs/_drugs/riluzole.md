@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Riluzole: Daripada Sklerosis Lateral Amiotrofik (ALS) kepada Polimikrogiria Parieto-Oksipital Parasagital Bilateral
+## Riluzole: Daripada Sklerosis Lateral Amiotrofik (ALS) kepada Polimikrogiria Parieto-Oksipital Parasagital Bilateral
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

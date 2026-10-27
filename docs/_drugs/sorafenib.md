@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Sorafenib: Daripada Karsinoma Hepatoselular kepada Liposarkoma
+## Sorafenib: Daripada Karsinoma Hepatoselular kepada Liposarkoma
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

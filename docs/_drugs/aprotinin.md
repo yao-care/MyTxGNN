@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Aprotinin: Penilaian Kembali Guna Ubat — Tiada Ramalan TxGNN Tersedia
+## Aprotinin: Penilaian Kembali Guna Ubat — Tiada Ramalan TxGNN Tersedia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

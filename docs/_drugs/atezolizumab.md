@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Atezolizumab: Daripada Karsinoma Sel Peralihan kepada Karsinoma Uretra Prostat Urotelial
+## Atezolizumab: Daripada Karsinoma Sel Peralihan kepada Karsinoma Uretra Prostat Urotelial
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

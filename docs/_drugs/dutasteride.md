@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Dutasteride: Daripada Hiperplasia Prostat Benigna kepada Hipertrikosis Kongenital Ambras
+## Dutasteride: Daripada Hiperplasia Prostat Benigna kepada Hipertrikosis Kongenital Ambras
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

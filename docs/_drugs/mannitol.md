@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Manitol: Daripada Penggunaan Asal kepada Nefrogenik Sindrom Antidiuresis Tidak Sesuai (NSIAD)
+## Manitol: Daripada Penggunaan Asal kepada Nefrogenik Sindrom Antidiuresis Tidak Sesuai (NSIAD)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

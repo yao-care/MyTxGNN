@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Iodixanol: Daripada Agen Kontras Radiografi kepada Osteoartritis
+## Iodixanol: Daripada Agen Kontras Radiografi kepada Osteoartritis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

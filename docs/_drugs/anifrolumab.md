@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Anifrolumab: Daripada Systemic Lupus Erythematosus kepada — (Tiada Data Ramalan TxGNN dalam Pakej Bukti Ini)
+## Anifrolumab: Daripada Systemic Lupus Erythematosus kepada — (Tiada Data Ramalan TxGNN dalam Pakej Bukti Ini)
+{: .text-alpha }
 
 ---
 

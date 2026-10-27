@@ -33,13 +33,15 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Evolocumab: Daripada Hiperkolesterolemia Familial Homozigot kepada Purpura Trombositopenik (dan Penunjuk Lain yang Diramalkan)
+## Evolocumab: Daripada Hiperkolesterolemia Familial Homozigot kepada Purpura Trombositopenik (dan Penunjuk Lain yang Diramalkan)
+{: .text-alpha }
 
 > Nota: Laporan ini menilai penunjuk baharu teratas yang diramalkan, iaitu **simptom hemofilia pada pembawa wanita**. Penunjuk lain turut diringkaskan di bahagian akhir.
 
 ## Title Pembetulan
 
-# Evolocumab: Daripada Hiperkolesterolemia Familial Homozigot kepada Hemofilia Simptomatik pada Pembawa Wanita
+## Evolocumab: Daripada Hiperkolesterolemia Familial Homozigot kepada Hemofilia Simptomatik pada Pembawa Wanita
+{: .text-alpha }
 
 ---
 

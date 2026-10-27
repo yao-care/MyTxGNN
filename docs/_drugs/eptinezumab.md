@@ -31,7 +31,8 @@ Tahap bukti: **L3** | Indikasi diramal: **1**
 
 </div>
 
-# Eptinezumab: Daripada Migrain kepada Migrain dengan Aura Batang Otak
+## Eptinezumab: Daripada Migrain kepada Migrain dengan Aura Batang Otak
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

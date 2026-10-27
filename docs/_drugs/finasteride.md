@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **6**
 
 </div>
 
-# Finasteride: Daripada Hiperplasia Prostat Benigna kepada Hipertrikosis
+## Finasteride: Daripada Hiperplasia Prostat Benigna kepada Hipertrikosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

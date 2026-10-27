@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Litium Karbonat: Daripada Gangguan Bipolar kepada Pseudoachondroplasia
+## Litium Karbonat: Daripada Gangguan Bipolar kepada Pseudoachondroplasia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

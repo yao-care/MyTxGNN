@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-# Efavirenz: Daripada Jangkitan HIV kepada Sindrom Kekurangan Imun Kucing (Feline AIDS)
+## Efavirenz: Daripada Jangkitan HIV kepada Sindrom Kekurangan Imun Kucing (Feline AIDS)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
@@ -116,7 +117,8 @@ Untuk amaran utama dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan
 ---
 ---
 
-# Efavirenz: Daripada Jangkitan HIV kepada Jangkitan Virus Imunodefisiensi Simian (SIV)
+## Efavirenz: Daripada Jangkitan HIV kepada Jangkitan Virus Imunodefisiensi Simian (SIV)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
@@ -200,7 +202,8 @@ Lihat bahagian keselamatan pada laporan pertama di atas (hubungan kontraindikasi
 ---
 ---
 
-# Efavirenz: Daripada Jangkitan HIV kepada Gangguan Neurodevelopmental dengan Gaya Berjalan Ataksia, Ketiadaan Pertuturan dan Pengurangan Jirim Putih Kortikal
+## Efavirenz: Daripada Jangkitan HIV kepada Gangguan Neurodevelopmental dengan Gaya Berjalan Ataksia, Ketiadaan Pertuturan dan Pengurangan Jirim Putih Kortikal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

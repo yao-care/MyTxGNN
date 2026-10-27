@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **7**
 
 </div>
 
-# Kolekalsiferol: Daripada Osteoporosis dan Kekurangan Vitamin D kepada Osteodistrofi Renal
+## Kolekalsiferol: Daripada Osteoporosis dan Kekurangan Vitamin D kepada Osteodistrofi Renal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Norelgestromin: Daripada Penggunaan Asal kepada Amenorea
+## Norelgestromin: Daripada Penggunaan Asal kepada Amenorea
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

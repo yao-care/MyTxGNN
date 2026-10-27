@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Norethisterone: Daripada Akne dan Endometriosis kepada Amenorea
+## Norethisterone: Daripada Akne dan Endometriosis kepada Amenorea
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

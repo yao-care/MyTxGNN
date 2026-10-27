@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Griseofulvin: Daripada Jangkitan Kulit Tinea kepada Miasis
+## Griseofulvin: Daripada Jangkitan Kulit Tinea kepada Miasis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

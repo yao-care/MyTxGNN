@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Mebendazol: Daripada Enterobiasis, Askariasis dan Trikuriasis kepada Jerawat (Acne)
+## Mebendazol: Daripada Enterobiasis, Askariasis dan Trikuriasis kepada Jerawat (Acne)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

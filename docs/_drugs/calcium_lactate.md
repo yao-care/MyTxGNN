@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-# Kalsium Laktat: Daripada Osteoporosis kepada Sindrom Kalsium-Alkali
+## Kalsium Laktat: Daripada Osteoporosis kepada Sindrom Kalsium-Alkali
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

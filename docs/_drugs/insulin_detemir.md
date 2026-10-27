@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Insulin Detemir: Daripada Diabetes Mellitus kepada Diabetes Mellitus Jenis 1
+## Insulin Detemir: Daripada Diabetes Mellitus kepada Diabetes Mellitus Jenis 1
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

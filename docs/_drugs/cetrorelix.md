@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Cetrorelix: Daripada Rangsangan Ovari Terkawal kepada Hipertrikosis (Ramalan Model)
+## Cetrorelix: Daripada Rangsangan Ovari Terkawal kepada Hipertrikosis (Ramalan Model)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

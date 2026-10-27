@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Nitrogliserin: Daripada Indikasi Asal kepada Hipertensi Pulmonari
+## Nitrogliserin: Daripada Indikasi Asal kepada Hipertensi Pulmonari
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Obinutuzumab: Daripada Leukemia Limfoblastik Akut kepada Leukemia Limfositik Kronik/Limfoma Limfositik Kecil (CLL/SLL) dengan Hipermutasi Somatik Gen Variabel Rantai Berat Imunoglobulin
+## Obinutuzumab: Daripada Leukemia Limfoblastik Akut kepada Leukemia Limfositik Kronik/Limfoma Limfositik Kecil (CLL/SLL) dengan Hipermutasi Somatik Gen Variabel Rantai Berat Imunoglobulin
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

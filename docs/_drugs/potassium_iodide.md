@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-# Kalium Iodida: Daripada Rinitis Alergik kepada Penyakit Rongga Hidung
+## Kalium Iodida: Daripada Rinitis Alergik kepada Penyakit Rongga Hidung
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

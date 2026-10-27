@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Resorcinol: Daripada Jerawat kepada Acne Keloid
+## Resorcinol: Daripada Jerawat kepada Acne Keloid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

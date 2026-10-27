@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Natrium Fluorida: Daripada Kekurangan Vitamin kepada Epiglotitis
+## Natrium Fluorida: Daripada Kekurangan Vitamin kepada Epiglotitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

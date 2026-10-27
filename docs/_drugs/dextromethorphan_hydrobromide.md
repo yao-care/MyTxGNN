@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Dextromethorphan Hydrobromide: Laporan Penilaian Penurunan Ubatan Tujuan
+## Dextromethorphan Hydrobromide: Laporan Penilaian Penurunan Ubatan Tujuan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

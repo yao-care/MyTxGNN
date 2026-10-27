@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **6**
 
 </div>
 
-# Zidovudine: Daripada Jangkitan HIV/AIDS kepada Jangkitan Virus Imunodefisiensi Simian (SIV)
+## Zidovudine: Daripada Jangkitan HIV/AIDS kepada Jangkitan Virus Imunodefisiensi Simian (SIV)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

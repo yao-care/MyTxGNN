@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **8**
 
 </div>
 
-# Asid Sitrik: Daripada Dispepsia kepada Penyakit Perut (Stomach Disease)
+## Asid Sitrik: Daripada Dispepsia kepada Penyakit Perut (Stomach Disease)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

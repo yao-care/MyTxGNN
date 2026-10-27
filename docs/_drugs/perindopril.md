@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Perindopril: Daripada Hipertensi kepada Penyakit Renal Hipertensif Malignan
+## Perindopril: Daripada Hipertensi kepada Penyakit Renal Hipertensif Malignan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

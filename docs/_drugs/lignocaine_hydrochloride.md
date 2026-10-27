@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Lignocaine Hydrochloride: Daripada Anestesi Tempatan — Penilaian Pengubahan Tujuan (Tambahan Data Diperlukan)
+## Lignocaine Hydrochloride: Daripada Anestesi Tempatan — Penilaian Pengubahan Tujuan (Tambahan Data Diperlukan)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

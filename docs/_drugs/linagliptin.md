@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Linagliptin: Dari Diabetes Mellitus Jenis 2 — Tiada Ramalan Tujuan Baru Tersedia
+## Linagliptin: Dari Diabetes Mellitus Jenis 2 — Tiada Ramalan Tujuan Baru Tersedia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Triptorelin: Daripada Agonis GnRH kepada Hipertrikosis
+## Triptorelin: Daripada Agonis GnRH kepada Hipertrikosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bleomycin Sulfate: Laporan Penilaian Penyalahgunaan Semula Ubat
+## Bleomycin Sulfate: Laporan Penilaian Penyalahgunaan Semula Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

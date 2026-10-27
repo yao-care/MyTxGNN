@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Daunorubicin: Daripada Penggunaan Asal kepada Leukemia Limfoblastik Akut
+## Daunorubicin: Daripada Penggunaan Asal kepada Leukemia Limfoblastik Akut
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Imatinib: Daripada Penggunaan Asal kepada Dermatofibrosarcoma Protuberans
+## Imatinib: Daripada Penggunaan Asal kepada Dermatofibrosarcoma Protuberans
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

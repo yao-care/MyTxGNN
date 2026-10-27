@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Exemestane: Daripada Kanser Payudara kepada Amenorea
+## Exemestane: Daripada Kanser Payudara kepada Amenorea
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

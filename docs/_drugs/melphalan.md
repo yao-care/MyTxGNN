@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Melphalan: Daripada Agen Alkilasi Antineoplastik kepada Sindrom Kanser Payudara-Ovari Herediter
+## Melphalan: Daripada Agen Alkilasi Antineoplastik kepada Sindrom Kanser Payudara-Ovari Herediter
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

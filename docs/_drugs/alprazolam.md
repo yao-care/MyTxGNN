@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-# Alprazolam: Daripada Gangguan Kebimbangan kepada Insomnia
+## Alprazolam: Daripada Gangguan Kebimbangan kepada Insomnia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Kloramfenikol: Daripada Demam Kepialu kepada Demam Paratifoid
+## Kloramfenikol: Daripada Demam Kepialu kepada Demam Paratifoid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

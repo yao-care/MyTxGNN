@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Degarelix: Daripada Penunjuk Asal yang Tidak Direkodkan kepada Hipertrikosis
+## Degarelix: Daripada Penunjuk Asal yang Tidak Direkodkan kepada Hipertrikosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

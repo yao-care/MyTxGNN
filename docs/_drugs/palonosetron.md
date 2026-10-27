@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Palonosetron: Daripada Antiemetik (Indikasi Asal Tidak Direkodkan) kepada Gangguan Migrain
+## Palonosetron: Daripada Antiemetik (Indikasi Asal Tidak Direkodkan) kepada Gangguan Migrain
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

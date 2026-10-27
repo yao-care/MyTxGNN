@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Bromocriptine: Daripada Agonis Dopamin kepada Congenital Disorder of Glycosylation with Defective Fucosylation
+## Bromocriptine: Daripada Agonis Dopamin kepada Congenital Disorder of Glycosylation with Defective Fucosylation
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

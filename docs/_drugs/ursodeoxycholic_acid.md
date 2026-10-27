@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Asid Ursodeoksikolik: Daripada Penyakit Hempedu dan Kolangitis Biliari Primer kepada Hiperkolesterolemia Familial Homozigot
+## Asid Ursodeoksikolik: Daripada Penyakit Hempedu dan Kolangitis Biliari Primer kepada Hiperkolesterolemia Familial Homozigot
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

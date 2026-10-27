@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Levetiracetam: Daripada Ubat Antisawan kepada Epilepsi Visual
+## Levetiracetam: Daripada Ubat Antisawan kepada Epilepsi Visual
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

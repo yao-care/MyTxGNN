@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **4**
 
 </div>
 
-# Captopril: Daripada Hipertensi kepada Hipertensi Renovaskular Malignan
+## Captopril: Daripada Hipertensi kepada Hipertensi Renovaskular Malignan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

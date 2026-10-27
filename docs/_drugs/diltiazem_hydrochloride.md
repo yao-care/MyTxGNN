@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Diltiazem Hydrochloride: Penilaian Penggunaan Semula Ubat — Data Ramalan Tertangguh
+## Diltiazem Hydrochloride: Penilaian Penggunaan Semula Ubat — Data Ramalan Tertangguh
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Asid Pantotenik: Daripada Kekurangan Asid Askorbik/Skurvi kepada Kekurangan Protrombin Kongenital
+## Asid Pantotenik: Daripada Kekurangan Asid Askorbik/Skurvi kepada Kekurangan Protrombin Kongenital
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

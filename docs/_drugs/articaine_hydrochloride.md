@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Articaine Hydrochloride: Anestesi Lokal Gigi — Penilaian Ubat Repurposing
+## Articaine Hydrochloride: Anestesi Lokal Gigi — Penilaian Ubat Repurposing
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

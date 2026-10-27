@@ -31,7 +31,8 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Methotrexate: Daripada Leukemia Limfoblastik Akut kepada Neoplasma Saluran Aerodigestif Atas
+## Methotrexate: Daripada Leukemia Limfoblastik Akut kepada Neoplasma Saluran Aerodigestif Atas
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

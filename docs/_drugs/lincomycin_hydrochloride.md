@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Lincomycin Hydrochloride: Laporan Penilaian Penggunaan Ubat Ulang — Data Ramalan Tidak Mencukupi
+## Lincomycin Hydrochloride: Laporan Penilaian Penggunaan Ubat Ulang — Data Ramalan Tidak Mencukupi
+{: .text-alpha }
 
 ---
 

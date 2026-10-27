@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Elosulfase Alfa: Daripada Mukopolisakaridosis kepada Sindrom Scheie
+## Elosulfase Alfa: Daripada Mukopolisakaridosis kepada Sindrom Scheie
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

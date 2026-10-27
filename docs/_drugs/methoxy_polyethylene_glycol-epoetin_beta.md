@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Metoksi Polietilena Glikol-Epoetin Beta: Daripada Indikasi Asal (Tidak Direkodkan) kepada Gangguan Pelepasan Primer Platelet
+## Metoksi Polietilena Glikol-Epoetin Beta: Daripada Indikasi Asal (Tidak Direkodkan) kepada Gangguan Pelepasan Primer Platelet
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

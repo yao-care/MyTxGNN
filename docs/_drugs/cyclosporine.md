@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **7**
 
 </div>
 
-# Siklosporin: Daripada Artritis Reumatoid dan Sindrom Mata Kering kepada Penyakit Granulomatus Kronik
+## Siklosporin: Daripada Artritis Reumatoid dan Sindrom Mata Kering kepada Penyakit Granulomatus Kronik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

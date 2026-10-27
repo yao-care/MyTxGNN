@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Zonisamide: Daripada Epilepsi kepada Sindrom Tourette
+## Zonisamide: Daripada Epilepsi kepada Sindrom Tourette
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

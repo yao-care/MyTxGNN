@@ -31,7 +31,8 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Lidocaine: Daripada Neuralgia kepada Dermatitis
+## Lidocaine: Daripada Neuralgia kepada Dermatitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

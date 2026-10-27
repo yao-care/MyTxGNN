@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Ferrous Gluconate: Daripada Anemia Kekurangan Zat Besi kepada Sindrom Plummer-Vinson
+## Ferrous Gluconate: Daripada Anemia Kekurangan Zat Besi kepada Sindrom Plummer-Vinson
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

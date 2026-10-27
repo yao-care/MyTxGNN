@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Panitumumab: Daripada Kanser Kolon Metastatik kepada Osteoporosis Teraruh Ubat
+## Panitumumab: Daripada Kanser Kolon Metastatik kepada Osteoporosis Teraruh Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

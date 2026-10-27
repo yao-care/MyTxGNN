@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Polatuzumab Vedotin: Daripada Penggunaan Asal kepada Karsinoma Payudara HER2 Positif
+## Polatuzumab Vedotin: Daripada Penggunaan Asal kepada Karsinoma Payudara HER2 Positif
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

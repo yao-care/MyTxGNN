@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **7**
 
 </div>
 
-# Delamanid: Daripada Tuberkulosis Rintang Pelbagai Ubat (MDR-TB) kepada Tuberkulosis Bovin
+## Delamanid: Daripada Tuberkulosis Rintang Pelbagai Ubat (MDR-TB) kepada Tuberkulosis Bovin
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

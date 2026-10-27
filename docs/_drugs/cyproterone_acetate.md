@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Cyproterone Acetate: Daripada Keadaan Bergantung Androgen kepada Gangguan Migrain
+## Cyproterone Acetate: Daripada Keadaan Bergantung Androgen kepada Gangguan Migrain
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

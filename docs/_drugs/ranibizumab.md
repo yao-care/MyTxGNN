@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Ranibizumab: Daripada Penyakit Mata Neovaskular kepada Retinopati Diabetik Non-Proliferatif Teruk
+## Ranibizumab: Daripada Penyakit Mata Neovaskular kepada Retinopati Diabetik Non-Proliferatif Teruk
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

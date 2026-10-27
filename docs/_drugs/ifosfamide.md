@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ifosfamide: Daripada Agen Antikanser Pengalkilan kepada Karsinoma Payudara Wanita
+## Ifosfamide: Daripada Agen Antikanser Pengalkilan kepada Karsinoma Payudara Wanita
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

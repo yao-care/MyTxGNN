@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-# Propylthiouracil: Daripada Hipertiroidisme kepada Rintangan Hormon Tiroid (Mutasi Reseptor Hormon Tiroid Beta)
+## Propylthiouracil: Daripada Hipertiroidisme kepada Rintangan Hormon Tiroid (Mutasi Reseptor Hormon Tiroid Beta)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

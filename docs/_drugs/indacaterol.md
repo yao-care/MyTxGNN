@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Indacaterol: Daripada Bronkodilator untuk Penyakit Saluran Pernafasan Obstruktif kepada Sindrom Antidiuresis Tidak Wajar Nefrogenik
+## Indacaterol: Daripada Bronkodilator untuk Penyakit Saluran Pernafasan Obstruktif kepada Sindrom Antidiuresis Tidak Wajar Nefrogenik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

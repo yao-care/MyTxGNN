@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-# Nitrazepam: Daripada Insomnia kepada Gangguan Tidur (Memulakan dan Mengekalkan Tidur)
+## Nitrazepam: Daripada Insomnia kepada Gangguan Tidur (Memulakan dan Mengekalkan Tidur)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

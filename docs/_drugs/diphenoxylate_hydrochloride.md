@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Diphenoxylate Hydrochloride: Penilaian Penggunabalian Ubat — Data Ramalan Tidak Mencukupi
+## Diphenoxylate Hydrochloride: Penilaian Penggunabalian Ubat — Data Ramalan Tidak Mencukupi
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

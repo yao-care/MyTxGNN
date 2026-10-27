@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Pivmecillinam Hydrochloride: Daripada Jangkitan Saluran Kencing — Tiada Ramalan Penggunaan Semula Tersedia
+## Pivmecillinam Hydrochloride: Daripada Jangkitan Saluran Kencing — Tiada Ramalan Penggunaan Semula Tersedia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

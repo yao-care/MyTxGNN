@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Tocilizumab: Daripada Penggunaan Asal kepada Spondilitis Ankilosis
+## Tocilizumab: Daripada Penggunaan Asal kepada Spondilitis Ankilosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

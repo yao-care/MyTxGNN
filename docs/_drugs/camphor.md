@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Kamfor: Daripada Indikasi Asal yang Tidak Direkodkan kepada Gangguan Migrain
+## Kamfor: Daripada Indikasi Asal yang Tidak Direkodkan kepada Gangguan Migrain
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Dicyclomine Hydrochloride: Laporan Penilaian Ubah Guna Ubat
+## Dicyclomine Hydrochloride: Laporan Penilaian Ubah Guna Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

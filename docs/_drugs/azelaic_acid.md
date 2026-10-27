@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Azelaic Acid: Agen Dermatologi — Tiada Petunjuk Baru Diramal
+## Azelaic Acid: Agen Dermatologi — Tiada Petunjuk Baru Diramal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

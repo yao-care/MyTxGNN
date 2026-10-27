@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Asid Fusidik: Daripada Jangkitan Bakteria kepada Ornitosis (Psitakosis)
+## Asid Fusidik: Daripada Jangkitan Bakteria kepada Ornitosis (Psitakosis)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

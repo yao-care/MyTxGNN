@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Oxcarbazepine: Daripada Indikasi Asal (Tidak Direkodkan) kepada Epilepsi Separa (Partial Epilepsy)
+## Oxcarbazepine: Daripada Indikasi Asal (Tidak Direkodkan) kepada Epilepsi Separa (Partial Epilepsy)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

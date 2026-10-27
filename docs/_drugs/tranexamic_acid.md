@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Asid Traneksamik: Daripada Endometriosis kepada Amenorea
+## Asid Traneksamik: Daripada Endometriosis kepada Amenorea
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Zink Klorida: Daripada Tiada Indikasi Berdaftar kepada Retinopati Diabetik Bukan Proliferatif Teruk
+## Zink Klorida: Daripada Tiada Indikasi Berdaftar kepada Retinopati Diabetik Bukan Proliferatif Teruk
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

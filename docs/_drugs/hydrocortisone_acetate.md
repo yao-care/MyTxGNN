@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Hydrocortisone Acetate: Daripada Penyakit Autoimun/Insufisiensi Adrenokortikal kepada Hemoroid
+## Hydrocortisone Acetate: Daripada Penyakit Autoimun/Insufisiensi Adrenokortikal kepada Hemoroid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

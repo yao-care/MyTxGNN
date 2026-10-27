@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-# Lansoprazole: Daripada Penyakit Ulser Gastrik kepada Refluks Duodenogastrik
+## Lansoprazole: Daripada Penyakit Ulser Gastrik kepada Refluks Duodenogastrik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Sodium Citrate: Daripada Penyakit Ulser Peptik kepada Faringitis
+## Sodium Citrate: Daripada Penyakit Ulser Peptik kepada Faringitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

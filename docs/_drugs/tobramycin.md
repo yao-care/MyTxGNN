@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Tobramycin: Daripada Jangkitan Bakteria kepada Keratokonjunktivitis Limbik Superior
+## Tobramycin: Daripada Jangkitan Bakteria kepada Keratokonjunktivitis Limbik Superior
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

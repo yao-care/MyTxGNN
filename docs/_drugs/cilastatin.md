@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Cilastatin: Daripada Pemakaian Bersama Imipenem kepada Pneumonia (Penyakit Utama yang Diramalkan)
+## Cilastatin: Daripada Pemakaian Bersama Imipenem kepada Pneumonia (Penyakit Utama yang Diramalkan)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

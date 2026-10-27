@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Artemether: Daripada Malaria kepada Angioedema Didapati
+## Artemether: Daripada Malaria kepada Angioedema Didapati
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Octreotide: Daripada Akromegali kepada Keratosis Folikular Songsang Vulva
+## Octreotide: Daripada Akromegali kepada Keratosis Folikular Songsang Vulva
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

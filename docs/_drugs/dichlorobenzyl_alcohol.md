@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Diklorobenzil Alkohol: Daripada Penggunaan Antiseptik kepada Bronkitis
+## Diklorobenzil Alkohol: Daripada Penggunaan Antiseptik kepada Bronkitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

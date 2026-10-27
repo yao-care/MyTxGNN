@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Propofol: Daripada Anestesia/Sedasi kepada Gangguan Migrain
+## Propofol: Daripada Anestesia/Sedasi kepada Gangguan Migrain
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

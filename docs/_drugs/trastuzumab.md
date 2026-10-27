@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Trastuzumab: Daripada Kanser Payudara HER2-Positif kepada Kanser Payudara Positif Reseptor Progesteron
+## Trastuzumab: Daripada Kanser Payudara HER2-Positif kepada Kanser Payudara Positif Reseptor Progesteron
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

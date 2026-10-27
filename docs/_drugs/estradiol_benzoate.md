@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-# Estradiol Benzoate: Daripada Indikasi Asal (Tiada Data) kepada Migrain
+## Estradiol Benzoate: Daripada Indikasi Asal (Tiada Data) kepada Migrain
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Upadacitinib: Daripada Artritis Reumatoid kepada Sindrom Displasia Rizomelik-Mikroftalmia Kolobomatus
+## Upadacitinib: Daripada Artritis Reumatoid kepada Sindrom Displasia Rizomelik-Mikroftalmia Kolobomatus
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
@@ -77,7 +78,8 @@ Skor TxGNN yang sangat tinggi (0.996) hanyalah ramalan model. Kebolehpercayaan b
 
 ---
 
-# Upadacitinib: Daripada Artritis Reumatoid kepada Sindrom Brakidaktili-Sindaktili
+## Upadacitinib: Daripada Artritis Reumatoid kepada Sindrom Brakidaktili-Sindaktili
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

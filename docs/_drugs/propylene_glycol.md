@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Propylene Glycol: Daripada Sindrom Mata Kering kepada Bronkitis
+## Propylene Glycol: Daripada Sindrom Mata Kering kepada Bronkitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

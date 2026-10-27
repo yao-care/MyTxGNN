@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Bedaquiline: Daripada Penggunaan Asal kepada Tuberkulosis Rintang Pelbagai Ubat (MDR-TB)
+## Bedaquiline: Daripada Penggunaan Asal kepada Tuberkulosis Rintang Pelbagai Ubat (MDR-TB)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

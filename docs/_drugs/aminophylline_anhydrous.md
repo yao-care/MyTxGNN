@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Aminophylline Anhydrous: Bronkodilator dengan Data Ubah Tujuan Penggunaan Tidak Mencukupi
+## Aminophylline Anhydrous: Bronkodilator dengan Data Ubah Tujuan Penggunaan Tidak Mencukupi
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

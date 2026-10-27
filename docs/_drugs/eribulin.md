@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Eribulin: Daripada Liposarkoma kepada Demam Mediterranean Familial Resesif Autosom
+## Eribulin: Daripada Liposarkoma kepada Demam Mediterranean Familial Resesif Autosom
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

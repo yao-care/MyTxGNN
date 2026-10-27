@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Ebastine: Daripada Rinitis Alergi kepada Penyakit Arteri Koronari
+## Ebastine: Daripada Rinitis Alergi kepada Penyakit Arteri Koronari
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

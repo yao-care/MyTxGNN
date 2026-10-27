@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Pegaspargase: Daripada Leukemia Limfoblastik Akut kepada Leukemia/Limfoma Limfoblastik Prekursor
+## Pegaspargase: Daripada Leukemia Limfoblastik Akut kepada Leukemia/Limfoma Limfoblastik Prekursor
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

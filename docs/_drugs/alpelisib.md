@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Alpelisib: Daripada Penggunaan Asal kepada Hipertensi Pulmonari
+## Alpelisib: Daripada Penggunaan Asal kepada Hipertensi Pulmonari
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

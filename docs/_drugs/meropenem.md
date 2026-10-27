@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Meropenem: Daripada Antibiotik Karbapenem Berspektrum Luas kepada Artritis Bakteria
+## Meropenem: Daripada Antibiotik Karbapenem Berspektrum Luas kepada Artritis Bakteria
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

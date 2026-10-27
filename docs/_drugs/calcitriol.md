@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Calcitriol: Daripada Hiperkalsemia kepada Kekurangan Vitamin D (Istilah Usang)
+## Calcitriol: Daripada Hiperkalsemia kepada Kekurangan Vitamin D (Istilah Usang)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Doxofylline: Daripada Penyakit Pernafasan kepada Sindrom Pierre Robin yang Berkaitan dengan Anomali Kromosom
+## Doxofylline: Daripada Penyakit Pernafasan kepada Sindrom Pierre Robin yang Berkaitan dengan Anomali Kromosom
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

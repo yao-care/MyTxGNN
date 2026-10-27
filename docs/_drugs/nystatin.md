@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Nystatin: Daripada Kandidiasis kepada Vulvovaginitis
+## Nystatin: Daripada Kandidiasis kepada Vulvovaginitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

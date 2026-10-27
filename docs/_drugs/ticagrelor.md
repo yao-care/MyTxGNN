@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ticagrelor: Daripada Sindrom Koronari Akut kepada Arteriosklerosis Intrakranial
+## Ticagrelor: Daripada Sindrom Koronari Akut kepada Arteriosklerosis Intrakranial
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

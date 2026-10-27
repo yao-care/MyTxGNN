@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Naproxen: Daripada Bursitis dan Artritis kepada Spondiloartropati (Kerentanan)
+## Naproxen: Daripada Bursitis dan Artritis kepada Spondiloartropati (Kerentanan)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

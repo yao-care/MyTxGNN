@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Sunitinib: Daripada Indikasi Asal kepada Liposarkoma
+## Sunitinib: Daripada Indikasi Asal kepada Liposarkoma
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

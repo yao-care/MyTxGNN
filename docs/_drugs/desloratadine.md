@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Desloratadine: Daripada Rinitis Alergi kepada Faringitis
+## Desloratadine: Daripada Rinitis Alergi kepada Faringitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

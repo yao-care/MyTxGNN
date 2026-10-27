@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Felodipine: Daripada Hipertensi kepada Pulmonary Hypertension (Mekanisme Pelbagai Faktor yang Tidak Jelas)
+## Felodipine: Daripada Hipertensi kepada Pulmonary Hypertension (Mekanisme Pelbagai Faktor yang Tidak Jelas)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

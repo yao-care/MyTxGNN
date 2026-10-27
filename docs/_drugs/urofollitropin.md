@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Urofollitropin: Daripada Indikasi Asal (Tiada Data) kepada Migrain
+## Urofollitropin: Daripada Indikasi Asal (Tiada Data) kepada Migrain
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Ferrous Fumarate: Daripada Anemia Kekurangan Zat Besi kepada Jerawat (Acne)
+## Ferrous Fumarate: Daripada Anemia Kekurangan Zat Besi kepada Jerawat (Acne)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

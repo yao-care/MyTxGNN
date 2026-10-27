@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Durvalumab: Daripada Karsinoma Sel Peralihan kepada Karsinoma Urotelium Uretra Prostat
+## Durvalumab: Daripada Karsinoma Sel Peralihan kepada Karsinoma Urotelium Uretra Prostat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

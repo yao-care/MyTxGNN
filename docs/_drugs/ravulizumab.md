@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ravulizumab: Daripada Indikasi Asal (Tidak Direkodkan) kepada Neutropenia Kongenital Teruk Autosomal Resesif Akibat Kekurangan G6PC3
+## Ravulizumab: Daripada Indikasi Asal (Tidak Direkodkan) kepada Neutropenia Kongenital Teruk Autosomal Resesif Akibat Kekurangan G6PC3
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# ABACAVIR SULFATE: Penilaian Kesiapan Penggunaan Semula Ubat — Data Tidak Mencukupi untuk Menyelesaikan Penilaian Penuh
+## ABACAVIR SULFATE: Penilaian Kesiapan Penggunaan Semula Ubat — Data Tidak Mencukupi untuk Menyelesaikan Penilaian Penuh
+{: .text-alpha }
 
 ---
 

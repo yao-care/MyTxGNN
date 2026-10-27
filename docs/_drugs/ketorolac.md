@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **3**
 
 </div>
 
-# Ketorolac: Daripada Konjunktivitis Alergi kepada Gangguan Sakit Kepala
+## Ketorolac: Daripada Konjunktivitis Alergi kepada Gangguan Sakit Kepala
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

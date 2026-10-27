@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Minoxidil: Daripada Alopesia Androgenetik kepada Hypotrichosis Simplex of the Scalp
+## Minoxidil: Daripada Alopesia Androgenetik kepada Hypotrichosis Simplex of the Scalp
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

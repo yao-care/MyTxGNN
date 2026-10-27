@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Mecobalamin: Daripada Indikasi Asal yang Tidak Direkodkan kepada Kolangitis Sklerosis
+## Mecobalamin: Daripada Indikasi Asal yang Tidak Direkodkan kepada Kolangitis Sklerosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Vancomycin: Daripada Jangkitan Gram-Positif kepada Artritis Bakteria
+## Vancomycin: Daripada Jangkitan Gram-Positif kepada Artritis Bakteria
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

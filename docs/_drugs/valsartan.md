@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Valsartan: Daripada Hipertensi kepada Gangguan Hipertensif
+## Valsartan: Daripada Hipertensi kepada Gangguan Hipertensif
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Celecoxib: Daripada Artritis Reumatoid kepada Osteoartritis
+## Celecoxib: Daripada Artritis Reumatoid kepada Osteoartritis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Irbesartan: Daripada Hipertensi dan Nefropati Diabetik kepada Gangguan Hipertensi (Hypertensive Disorder)
+## Irbesartan: Daripada Hipertensi dan Nefropati Diabetik kepada Gangguan Hipertensi (Hypertensive Disorder)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

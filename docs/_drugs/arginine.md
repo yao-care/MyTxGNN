@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Arginin: Daripada Tiada Indikasi Berdaftar kepada Gastroparesis
+## Arginin: Daripada Tiada Indikasi Berdaftar kepada Gastroparesis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

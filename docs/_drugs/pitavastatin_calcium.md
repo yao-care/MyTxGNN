@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Pitavastatin Calcium: Penilaian Ubah Tujuan Ubat — Data Tidak Mencukupi untuk Menyelesaikan Ramalan
+## Pitavastatin Calcium: Penilaian Ubah Tujuan Ubat — Data Tidak Mencukupi untuk Menyelesaikan Ramalan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

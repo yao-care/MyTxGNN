@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amoxycillin: Antibiotik Spektrum Luas — Analisis Repurposing TxGNN Dalam Proses
+## Amoxycillin: Antibiotik Spektrum Luas — Analisis Repurposing TxGNN Dalam Proses
+{: .text-alpha }
 
 ---
 

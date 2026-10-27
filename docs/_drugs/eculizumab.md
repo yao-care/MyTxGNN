@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Eculizumab: Daripada Indikasi Asal kepada Hematopoiesis Kitaran (Cyclic Hematopoiesis)
+## Eculizumab: Daripada Indikasi Asal kepada Hematopoiesis Kitaran (Cyclic Hematopoiesis)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

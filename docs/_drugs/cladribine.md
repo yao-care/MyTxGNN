@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Cladribine: Daripada Leukemia Sel Berbulu kepada Rabdomiosarkoma Embrional Parameningeal
+## Cladribine: Daripada Leukemia Sel Berbulu kepada Rabdomiosarkoma Embrional Parameningeal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

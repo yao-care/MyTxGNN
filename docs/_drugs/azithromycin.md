@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Azithromycin: Daripada Jangkitan Streptokokus kepada Hiperamilasemia
+## Azithromycin: Daripada Jangkitan Streptokokus kepada Hiperamilasemia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

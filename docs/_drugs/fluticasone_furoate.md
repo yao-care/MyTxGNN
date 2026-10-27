@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Fluticasone Furoate: Daripada Asma dan Rinitis Alergik kepada Ekzema Atopik
+## Fluticasone Furoate: Daripada Asma dan Rinitis Alergik kepada Ekzema Atopik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

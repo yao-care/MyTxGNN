@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Netarsudil: Daripada Glaukoma Sudut Terbuka kepada Glaukoma Keturunan Primer
+## Netarsudil: Daripada Glaukoma Sudut Terbuka kepada Glaukoma Keturunan Primer
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

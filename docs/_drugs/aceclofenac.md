@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Aceclofenac: Daripada Ubat Anti-radang Bukan Steroid (NSAID) kepada Osteoartritis
+## Aceclofenac: Daripada Ubat Anti-radang Bukan Steroid (NSAID) kepada Osteoartritis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

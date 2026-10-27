@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Telmisartan: Daripada Hipertensi kepada Strok (Gangguan Strok)
+## Telmisartan: Daripada Hipertensi kepada Strok (Gangguan Strok)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

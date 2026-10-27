@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Piribedil: Daripada Penyakit Parkinson kepada Distrofi Retina (dengan atau tanpa Anomali Ekstraokular)
+## Piribedil: Daripada Penyakit Parkinson kepada Distrofi Retina (dengan atau tanpa Anomali Ekstraokular)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Digoxin: Daripada Fibrilasi Atrium kepada Angina Prinzmetal
+## Digoxin: Daripada Fibrilasi Atrium kepada Angina Prinzmetal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

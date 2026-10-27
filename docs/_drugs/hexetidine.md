@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Hexetidine: Daripada Penggunaan Antiseptik Topikal kepada Aneurisma Septum Interventrikular
+## Hexetidine: Daripada Penggunaan Antiseptik Topikal kepada Aneurisma Septum Interventrikular
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

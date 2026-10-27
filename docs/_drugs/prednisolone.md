@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Prednisolone: Dari Penyakit Autoimun kepada Eritema Multiforme
+## Prednisolone: Dari Penyakit Autoimun kepada Eritema Multiforme
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

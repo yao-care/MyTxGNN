@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Biotin: Daripada Kekurangan Biotin Pemakanan kepada Dispepsia
+## Biotin: Daripada Kekurangan Biotin Pemakanan kepada Dispepsia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Streptokinase: Daripada Indikasi Asal kepada Infarksi Miokardium
+## Streptokinase: Daripada Indikasi Asal kepada Infarksi Miokardium
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Chlorzoxazone: Daripada Penggunaan Asal kepada Migrain (Migraine Disorder)
+## Chlorzoxazone: Daripada Penggunaan Asal kepada Migrain (Migraine Disorder)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

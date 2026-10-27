@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Ezetimibe: Daripada Hiperlipidemia kepada Sitosterolemia
+## Ezetimibe: Daripada Hiperlipidemia kepada Sitosterolemia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

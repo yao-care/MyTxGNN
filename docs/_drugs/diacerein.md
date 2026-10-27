@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Diacerein: Laporan Penilaian Penyusunan Semula Ubat
+## Diacerein: Laporan Penilaian Penyusunan Semula Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

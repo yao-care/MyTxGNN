@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Siltuksimab: Daripada Penyakit Castleman kepada Mastositoma Ekstrakutaneus
+## Siltuksimab: Daripada Penyakit Castleman kepada Mastositoma Ekstrakutaneus
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

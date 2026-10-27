@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Aripiprazol: Daripada Skizofrenia/Gangguan Bipolar kepada Autisme (Kerengsaan Berkaitan Autisme)
+## Aripiprazol: Daripada Skizofrenia/Gangguan Bipolar kepada Autisme (Kerengsaan Berkaitan Autisme)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

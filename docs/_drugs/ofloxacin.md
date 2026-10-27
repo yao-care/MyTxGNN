@@ -31,7 +31,8 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Ofloxacin: Daripada Jangkitan Bakteria (Demam Kepialu) kepada Demam Paratifoid
+## Ofloxacin: Daripada Jangkitan Bakteria (Demam Kepialu) kepada Demam Paratifoid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

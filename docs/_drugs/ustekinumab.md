@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Ustekinumab: Daripada Psoriasis kepada Dermatitis
+## Ustekinumab: Daripada Psoriasis kepada Dermatitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

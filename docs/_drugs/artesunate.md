@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Artesunate: Ubat Antimalaria — Penilaian Tujuan Semula (Awal)
+## Artesunate: Ubat Antimalaria — Penilaian Tujuan Semula (Awal)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Perphenazine: Daripada Skizofrenia dan Gangguan Kebimbangan-Kemurungan Campuran kepada Distrofi Retina (dengan atau tanpa Anomali Ekstraokular)
+## Perphenazine: Daripada Skizofrenia dan Gangguan Kebimbangan-Kemurungan Campuran kepada Distrofi Retina (dengan atau tanpa Anomali Ekstraokular)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

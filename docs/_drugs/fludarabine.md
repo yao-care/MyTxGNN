@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Fludarabine: Daripada Indikasi Asal (Tiada Data) kepada Plasma Cell Myeloma
+## Fludarabine: Daripada Indikasi Asal (Tiada Data) kepada Plasma Cell Myeloma
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

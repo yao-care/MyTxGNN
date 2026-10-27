@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Gemcitabine: Daripada Kanser Ovari kepada Karsinoma Payudara Wanita
+## Gemcitabine: Daripada Kanser Ovari kepada Karsinoma Payudara Wanita
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

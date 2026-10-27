@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Meloxicam: Daripada Artritis Reumatoid kepada Osteoartritis
+## Meloxicam: Daripada Artritis Reumatoid kepada Osteoartritis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

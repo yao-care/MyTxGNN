@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Roxithromycin: Daripada Jangkitan Bakteria (Antibiotik Makrolid) kepada Kusta (Leprosy)
+## Roxithromycin: Daripada Jangkitan Bakteria (Antibiotik Makrolid) kepada Kusta (Leprosy)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

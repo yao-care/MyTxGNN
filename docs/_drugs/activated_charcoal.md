@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Activated Charcoal: Agen Adsorpsi Toksin Kecemasan — Tiada Prediksi TxGNN Tersedia
+## Activated Charcoal: Agen Adsorpsi Toksin Kecemasan — Tiada Prediksi TxGNN Tersedia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

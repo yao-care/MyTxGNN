@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Amorolfine: Daripada Jangkitan Kulat Kuku kepada Osteoporosis Teraruh Ubat
+## Amorolfine: Daripada Jangkitan Kulat Kuku kepada Osteoporosis Teraruh Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

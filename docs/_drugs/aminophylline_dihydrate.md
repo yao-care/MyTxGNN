@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# AMINOPHYLLINE DIHYDRATE: Penilaian Penjelmaan Ubat — Paket Bukti Tidak Lengkap
+## AMINOPHYLLINE DIHYDRATE: Penilaian Penjelmaan Ubat — Paket Bukti Tidak Lengkap
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

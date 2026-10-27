@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Niraparib: Daripada Kanser Ovari/Peritoneum kepada Neoplasma Sista (Cystic Neoplasm)
+## Niraparib: Daripada Kanser Ovari/Peritoneum kepada Neoplasma Sista (Cystic Neoplasm)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

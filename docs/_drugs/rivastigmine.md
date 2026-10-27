@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Rivastigmin: Daripada Penyakit Alzheimer kepada Glaukoma
+## Rivastigmin: Daripada Penyakit Alzheimer kepada Glaukoma
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

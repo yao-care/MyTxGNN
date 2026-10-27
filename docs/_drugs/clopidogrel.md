@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Clopidogrel: Daripada Sindrom Koronari Akut kepada Gangguan Migrain
+## Clopidogrel: Daripada Sindrom Koronari Akut kepada Gangguan Migrain
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

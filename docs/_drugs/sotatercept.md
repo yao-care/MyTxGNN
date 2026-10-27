@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Sotatercept: Daripada Penunjuk Asal yang Belum Direkodkan kepada Leukemia Limfoblastik Akut
+## Sotatercept: Daripada Penunjuk Asal yang Belum Direkodkan kepada Leukemia Limfoblastik Akut
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Orlistat: Daripada Obesiti kepada Hipervitaminosis
+## Orlistat: Daripada Obesiti kepada Hipervitaminosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

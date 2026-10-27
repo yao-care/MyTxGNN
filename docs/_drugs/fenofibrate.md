@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Fenofibrate: Daripada Hipertrigliseridemia kepada Hipoalfalipoproteinemia
+## Fenofibrate: Daripada Hipertrigliseridemia kepada Hipoalfalipoproteinemia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

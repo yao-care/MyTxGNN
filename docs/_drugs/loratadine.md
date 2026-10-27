@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Loratadine: Daripada Rinitis Alergik kepada Faringitis
+## Loratadine: Daripada Rinitis Alergik kepada Faringitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Turoctocog Alfa: Daripada Hemofilia kepada Gangguan Pelepasan Primer Platelet
+## Turoctocog Alfa: Daripada Hemofilia kepada Gangguan Pelepasan Primer Platelet
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

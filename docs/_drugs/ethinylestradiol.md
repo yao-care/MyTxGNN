@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Ethinylestradiol: Daripada Osteoporosis Pascamenopaus dan Atrofi Vagina kepada Jerawat (Acne)
+## Ethinylestradiol: Daripada Osteoporosis Pascamenopaus dan Atrofi Vagina kepada Jerawat (Acne)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

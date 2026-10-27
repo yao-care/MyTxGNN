@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Fluticasone Propionate: Daripada Ekzema Atopik kepada Neurodermatitis
+## Fluticasone Propionate: Daripada Ekzema Atopik kepada Neurodermatitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

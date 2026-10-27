@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Turoctocog Alfa Pegol: Daripada Hemofilia kepada Gangguan Pembebasan Primer Platelet
+## Turoctocog Alfa Pegol: Daripada Hemofilia kepada Gangguan Pembebasan Primer Platelet
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

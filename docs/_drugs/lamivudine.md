@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Lamivudine: Daripada Jangkitan Hepatitis B Kronik kepada Jangkitan HIV
+## Lamivudine: Daripada Jangkitan Hepatitis B Kronik kepada Jangkitan HIV
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Bromazepam: Daripada Indikasi Asal (Tiada Data) kepada Gangguan Migrain
+## Bromazepam: Daripada Indikasi Asal (Tiada Data) kepada Gangguan Migrain
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

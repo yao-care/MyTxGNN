@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **4**
 
 </div>
 
-# Selegiline: Daripada Penyakit Parkinson kepada Skizofrenia
+## Selegiline: Daripada Penyakit Parkinson kepada Skizofrenia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Bupropion: Daripada Gangguan Kemurungan kepada Gangguan Defisit Perhatian-Hiperaktiviti (ADHD)
+## Bupropion: Daripada Gangguan Kemurungan kepada Gangguan Defisit Perhatian-Hiperaktiviti (ADHD)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

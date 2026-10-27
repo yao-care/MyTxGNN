@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Bimatoprost: Daripada Penggunaan Asal kepada Alopecia
+## Bimatoprost: Daripada Penggunaan Asal kepada Alopecia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

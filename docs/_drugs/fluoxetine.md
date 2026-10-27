@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Fluoxetine: Daripada Indikasi Asal (Tiada Data) kepada Gangguan Obsesif-Kompulsif
+## Fluoxetine: Daripada Indikasi Asal (Tiada Data) kepada Gangguan Obsesif-Kompulsif
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

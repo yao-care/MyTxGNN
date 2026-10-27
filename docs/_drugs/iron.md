@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Zat Besi: Daripada Anemia Kekurangan Zat Besi kepada Anemia Mikrositik
+## Zat Besi: Daripada Anemia Kekurangan Zat Besi kepada Anemia Mikrositik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Belimumab: Daripada Lupus Eritematosus Sistemik kepada Gangguan Pelepasan Primer Platelet
+## Belimumab: Daripada Lupus Eritematosus Sistemik kepada Gangguan Pelepasan Primer Platelet
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

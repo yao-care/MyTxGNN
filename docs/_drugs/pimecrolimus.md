@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **4**
 
 </div>
 
-# Pimecrolimus: Daripada Ekzema Atopik kepada Dermatitis Seborea
+## Pimecrolimus: Daripada Ekzema Atopik kepada Dermatitis Seborea
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

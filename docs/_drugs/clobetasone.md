@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Clobetasone: Daripada Penggunaan Kortikosteroid Topikal kepada Limfoma Sel-T Kutaneus Primer
+## Clobetasone: Daripada Penggunaan Kortikosteroid Topikal kepada Limfoma Sel-T Kutaneus Primer
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

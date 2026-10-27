@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Acarbose: Daripada Diabetes Mellitus Jenis 2 kepada Sindrom Orang Kaku (Stiff Person Syndrome) Klasik
+## Acarbose: Daripada Diabetes Mellitus Jenis 2 kepada Sindrom Orang Kaku (Stiff Person Syndrome) Klasik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

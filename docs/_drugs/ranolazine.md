@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Ranolazine: Daripada Indikasi Asal (Tidak Direkodkan) kepada Sindrom Antidiuresis Tidak Wajar Nefrogenik
+## Ranolazine: Daripada Indikasi Asal (Tidak Direkodkan) kepada Sindrom Antidiuresis Tidak Wajar Nefrogenik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Triazolam: Daripada Insomnia kepada Gangguan Tidur (Memulakan dan Mengekalkan Tidur)
+## Triazolam: Daripada Insomnia kepada Gangguan Tidur (Memulakan dan Mengekalkan Tidur)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

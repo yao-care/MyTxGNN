@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Alfuzosin Hydrochloride: Laporan Penilaian — Ramalan Ubat Berubah Tujuan Tidak Tersedia
+## Alfuzosin Hydrochloride: Laporan Penilaian — Ramalan Ubat Berubah Tujuan Tidak Tersedia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

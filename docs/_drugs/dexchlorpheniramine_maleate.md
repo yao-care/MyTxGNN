@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Dexchlorpheniramine Maleate: Daripada Penggunaan Asal kepada Porfiria Intermiten Akut
+## Dexchlorpheniramine Maleate: Daripada Penggunaan Asal kepada Porfiria Intermiten Akut
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Ocrelizumab: Daripada Sklerosis Berbilang Progresif kepada Karsinoma Payudara HER2 Positif
+## Ocrelizumab: Daripada Sklerosis Berbilang Progresif kepada Karsinoma Payudara HER2 Positif
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

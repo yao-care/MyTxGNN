@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Filgrastim: Daripada Penggunaan Asal kepada Gangguan Pendarahan Jenis Platelet (Ramalan)
+## Filgrastim: Daripada Penggunaan Asal kepada Gangguan Pendarahan Jenis Platelet (Ramalan)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

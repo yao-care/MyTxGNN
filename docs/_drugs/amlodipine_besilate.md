@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amlodipine Besilate: Daripada Hipertensi / Angina — Tiada Ramalan TxGNN Tersedia
+## Amlodipine Besilate: Daripada Hipertensi / Angina — Tiada Ramalan TxGNN Tersedia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

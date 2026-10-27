@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Aripiprazole Monohydrate: Penilaian Repurposing Ubat — Data Ramalan TxGNN Tertunda
+## Aripiprazole Monohydrate: Penilaian Repurposing Ubat — Data Ramalan TxGNN Tertunda
+{: .text-alpha }
 
 ---
 

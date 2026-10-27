@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Fluorescein: Daripada Agen Diagnostik kepada Angina Prinzmetal
+## Fluorescein: Daripada Agen Diagnostik kepada Angina Prinzmetal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

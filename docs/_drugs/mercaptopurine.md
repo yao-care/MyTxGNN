@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Mercaptopurine: Daripada Indikasi Asal (Tidak Direkodkan) kepada Leukemia Limfoblastik Akut
+## Mercaptopurine: Daripada Indikasi Asal (Tidak Direkodkan) kepada Leukemia Limfoblastik Akut
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

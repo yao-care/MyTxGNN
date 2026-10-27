@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Norfloxacin: Daripada Demam Kepialu dan Jangkitan Saluran Kencing kepada Demam Paratifoid
+## Norfloxacin: Daripada Demam Kepialu dan Jangkitan Saluran Kencing kepada Demam Paratifoid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

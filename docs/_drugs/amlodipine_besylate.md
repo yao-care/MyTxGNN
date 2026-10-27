@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amlodipine Besylate: Dari Hipertensi/Angina — Ramalan Pengubahgunaan Ubat Belum Tersedia
+## Amlodipine Besylate: Dari Hipertensi/Angina — Ramalan Pengubahgunaan Ubat Belum Tersedia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Brolucizumab: Daripada Degenerasi Makula kepada Gangguan Fosforilasi Oksidatif Mitokondria
+## Brolucizumab: Daripada Degenerasi Makula kepada Gangguan Fosforilasi Oksidatif Mitokondria
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

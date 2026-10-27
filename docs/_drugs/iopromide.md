@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Iopromide: Daripada Agen Kontras Radiografi kepada Osteoartritis Susceptibility
+## Iopromide: Daripada Agen Kontras Radiografi kepada Osteoartritis Susceptibility
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

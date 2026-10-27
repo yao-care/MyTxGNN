@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Alemtuzumab: Penilaian Ditangguhkan — Tiada Petunjuk Indikasi yang Diramalkan
+## Alemtuzumab: Penilaian Ditangguhkan — Tiada Petunjuk Indikasi yang Diramalkan
+{: .text-alpha }
 
 ---
 

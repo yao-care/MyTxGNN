@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Dextromethorphan HBr: Laporan Penilaian Pemanfaatan Kembali Obat
+## Dextromethorphan HBr: Laporan Penilaian Pemanfaatan Kembali Obat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

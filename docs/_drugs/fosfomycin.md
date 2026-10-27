@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Fosfomycin: Daripada Jangkitan Saluran Kencing kepada Uretritis Gonokokus
+## Fosfomycin: Daripada Jangkitan Saluran Kencing kepada Uretritis Gonokokus
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

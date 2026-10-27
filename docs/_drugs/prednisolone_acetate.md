@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Prednisolone Acetate: Daripada Kortikosteroid Oftalmik kepada Konjunktivitis Berjangkit Akut
+## Prednisolone Acetate: Daripada Kortikosteroid Oftalmik kepada Konjunktivitis Berjangkit Akut
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

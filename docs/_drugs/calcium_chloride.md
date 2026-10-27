@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Kalsium Klorida: Daripada Hiperkalsemia/Gangguan Kalsium kepada Hiperkalsemia (Ramalan TxGNN) – Cadangan Ditangguhkan
+## Kalsium Klorida: Daripada Hiperkalsemia/Gangguan Kalsium kepada Hiperkalsemia (Ramalan TxGNN) – Cadangan Ditangguhkan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

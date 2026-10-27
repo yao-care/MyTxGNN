@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Liraglutide: Daripada Diabetes Jenis 2 / Obesiti — Sasaran Pembentukan Semula TBD
+## Liraglutide: Daripada Diabetes Jenis 2 / Obesiti — Sasaran Pembentukan Semula TBD
+{: .text-alpha }
 
 ---
 

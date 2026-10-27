@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Chlorambucil: Daripada Limfoma Hodgkin kepada Leukemia Limfositik Kronik/Limfoma Limfositik Kecil (CLL/SLL) dengan Hipermutasi Somatik Gen IGHV
+## Chlorambucil: Daripada Limfoma Hodgkin kepada Leukemia Limfositik Kronik/Limfoma Limfositik Kecil (CLL/SLL) dengan Hipermutasi Somatik Gen IGHV
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

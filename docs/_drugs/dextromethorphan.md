@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Dextromethorphan: Daripada Rinitis Alergi kepada Penyakit Rongga Hidung
+## Dextromethorphan: Daripada Rinitis Alergi kepada Penyakit Rongga Hidung
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

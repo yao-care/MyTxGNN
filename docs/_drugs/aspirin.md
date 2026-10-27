@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# ASPIRIN: Penilaian Penggunaan Semula Ubat (Tiada Ramalan Tersedia)
+## ASPIRIN: Penilaian Penggunaan Semula Ubat (Tiada Ramalan Tersedia)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

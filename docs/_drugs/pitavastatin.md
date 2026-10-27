@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Pitavastatin: Daripada Ubat Statin Penurun Kolesterol kepada Hiperlipidemia Gabungan Familial (Terma Lapuk)
+## Pitavastatin: Daripada Ubat Statin Penurun Kolesterol kepada Hiperlipidemia Gabungan Familial (Terma Lapuk)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Probenecid: Daripada Gout kepada Hipourisemia Renal
+## Probenecid: Daripada Gout kepada Hipourisemia Renal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Adrenalin (Epinefrin): Profil Ubat — Ramalan Ubat Berulang TxGNN Tergantung
+## Adrenalin (Epinefrin): Profil Ubat — Ramalan Ubat Berulang TxGNN Tergantung
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

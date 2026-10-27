@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Paclitaxel: Daripada Kanser Ovari kepada Adenokarsinoma Sel Jernih Ovari
+## Paclitaxel: Daripada Kanser Ovari kepada Adenokarsinoma Sel Jernih Ovari
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Fluconazole: Daripada Kandidiasis Oral kepada Kandidiasis Esofagus
+## Fluconazole: Daripada Kandidiasis Oral kepada Kandidiasis Esofagus
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

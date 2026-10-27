@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Colchicine: Daripada Gout dan Demam Mediterranean Keluarga kepada Malaria Plasmodium falciparum
+## Colchicine: Daripada Gout dan Demam Mediterranean Keluarga kepada Malaria Plasmodium falciparum
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Ceftazidime: Daripada Jangkitan Bakteria kepada Peritonitis
+## Ceftazidime: Daripada Jangkitan Bakteria kepada Peritonitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

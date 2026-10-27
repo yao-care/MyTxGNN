@@ -31,7 +31,8 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Hydrokortison: Daripada Penyakit Autoimun/Insufisiensi Adrenal kepada Buasir (Hemorrhoid)
+## Hydrokortison: Daripada Penyakit Autoimun/Insufisiensi Adrenal kepada Buasir (Hemorrhoid)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

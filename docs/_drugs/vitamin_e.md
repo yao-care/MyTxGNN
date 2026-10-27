@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Vitamin E: Daripada Penggunaan Asal kepada Kolestasis Intrahepatik Berulang Benigna (BRIC)
+## Vitamin E: Daripada Penggunaan Asal kepada Kolestasis Intrahepatik Berulang Benigna (BRIC)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

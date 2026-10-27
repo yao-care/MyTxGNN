@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Olmesartan: Daripada Hipertensi kepada Angina Prinzmetal
+## Olmesartan: Daripada Hipertensi kepada Angina Prinzmetal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

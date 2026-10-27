@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Ceftriaxone: Daripada Jangkitan Bakteria kepada Sindrom Hiperviskositi Poliklonal
+## Ceftriaxone: Daripada Jangkitan Bakteria kepada Sindrom Hiperviskositi Poliklonal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

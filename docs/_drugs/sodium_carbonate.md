@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Natrium Karbonat: Daripada Penggunaan Asal (Tiada Indikasi Berdaftar) kepada Sindrom Cauda Equina
+## Natrium Karbonat: Daripada Penggunaan Asal (Tiada Indikasi Berdaftar) kepada Sindrom Cauda Equina
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

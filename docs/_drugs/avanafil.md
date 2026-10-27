@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Avanafil: Daripada Disfungsi Ereksi — Penilaian Penggunaan Semula Ubat (Data Ramalan Tidak Tersedia)
+## Avanafil: Daripada Disfungsi Ereksi — Penilaian Penggunaan Semula Ubat (Data Ramalan Tidak Tersedia)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

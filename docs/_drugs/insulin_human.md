@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Insulin Human: Daripada Diabetes Mellitus Jenis 2 kepada Ketoasidosis Diabetes
+## Insulin Human: Daripada Diabetes Mellitus Jenis 2 kepada Ketoasidosis Diabetes
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

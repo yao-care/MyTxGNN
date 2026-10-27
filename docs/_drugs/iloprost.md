@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Iloprost: Daripada Hipertensi Arteri Pulmonari kepada Hipotrikosis Simpleks Kulit Kepala
+## Iloprost: Daripada Hipertensi Arteri Pulmonari kepada Hipotrikosis Simpleks Kulit Kepala
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

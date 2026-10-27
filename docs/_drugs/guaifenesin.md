@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Guaifenesin: Daripada Rinitis dan Selsema kepada Penyakit Rongga Hidung
+## Guaifenesin: Daripada Rinitis dan Selsema kepada Penyakit Rongga Hidung
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Olanzapine: Daripada Skizofrenia dan Gangguan Bipolar kepada Gangguan Kemurungan Major
+## Olanzapine: Daripada Skizofrenia dan Gangguan Bipolar kepada Gangguan Kemurungan Major
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

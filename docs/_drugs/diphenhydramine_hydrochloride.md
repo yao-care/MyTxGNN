@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Diphenhydramine Hydrochloride: Laporan Penilaian Penggunaan Kembali Ubat
+## Diphenhydramine Hydrochloride: Laporan Penilaian Penggunaan Kembali Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

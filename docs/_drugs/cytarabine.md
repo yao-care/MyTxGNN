@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **9**
 
 </div>
 
-# Sitarabin (Cytarabine): Daripada Leukemia Limfoblastik Akut kepada Karsinoma Paru-paru Sel Kecil
+## Sitarabin (Cytarabine): Daripada Leukemia Limfoblastik Akut kepada Karsinoma Paru-paru Sel Kecil
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

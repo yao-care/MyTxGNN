@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Histidine: Daripada Tiada Indikasi Berdaftar kepada Gastroparesis
+## Histidine: Daripada Tiada Indikasi Berdaftar kepada Gastroparesis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
@@ -109,7 +110,8 @@ Sebagai maklumat tambahan, graf pengetahuan TxGNN (PrimeKG) mencatatkan kaitan p
 
 ---
 
-# Histidine: Daripada Tiada Indikasi Berdaftar kepada Kolangitis Sklerosan
+## Histidine: Daripada Tiada Indikasi Berdaftar kepada Kolangitis Sklerosan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Calcipotriol: Daripada Indikasi Asal (Tiada Data) kepada Keratosis Seborea
+## Calcipotriol: Daripada Indikasi Asal (Tiada Data) kepada Keratosis Seborea
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

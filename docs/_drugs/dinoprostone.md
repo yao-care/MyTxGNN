@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# DINOPROSTONE: Penilaian Repurposing Ubat — Tiada Indikasi Ramalan Tersedia
+## DINOPROSTONE: Penilaian Repurposing Ubat — Tiada Indikasi Ramalan Tersedia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Asid Klavulanik: Daripada Jangkitan Saluran Kencing kepada Pneumonia Streptokokus
+## Asid Klavulanik: Daripada Jangkitan Saluran Kencing kepada Pneumonia Streptokokus
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

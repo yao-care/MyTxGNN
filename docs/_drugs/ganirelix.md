@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ganirelix: Daripada Pencegahan Ovulasi Pramatang kepada Hipertrikosis
+## Ganirelix: Daripada Pencegahan Ovulasi Pramatang kepada Hipertrikosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

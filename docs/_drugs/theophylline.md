@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Teofilin: Daripada Asma kepada Asma (Petunjuk Sedia Ada yang Disahkan Semula)
+## Teofilin: Daripada Asma kepada Asma (Petunjuk Sedia Ada yang Disahkan Semula)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

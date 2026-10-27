@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Fluocinolone Acetonide: Daripada Dermatitis dan Penyakit Lichen kepada Lichen Planus Pigmentosus
+## Fluocinolone Acetonide: Daripada Dermatitis dan Penyakit Lichen kepada Lichen Planus Pigmentosus
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

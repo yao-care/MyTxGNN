@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Lorazepam: Daripada Gangguan Kebimbangan dan Epilepsi kepada Neoplasma Saraf Trigeminal
+## Lorazepam: Daripada Gangguan Kebimbangan dan Epilepsi kepada Neoplasma Saraf Trigeminal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

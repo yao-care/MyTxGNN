@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Doxycycline: Daripada Antibiotik Tetrasiklin kepada Keratokonjunktivitis Epitelium Punktat
+## Doxycycline: Daripada Antibiotik Tetrasiklin kepada Keratokonjunktivitis Epitelium Punktat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

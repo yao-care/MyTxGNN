@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Loxoprofen: Daripada Artritis Reumatoid kepada Sindrom Displasia Rizomelik-Mikroftalmia Kolobomatus
+## Loxoprofen: Daripada Artritis Reumatoid kepada Sindrom Displasia Rizomelik-Mikroftalmia Kolobomatus
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

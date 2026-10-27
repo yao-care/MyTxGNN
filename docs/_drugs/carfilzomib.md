@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Carfilzomib: Daripada Mieloma Sel Plasma kepada Melanoma
+## Carfilzomib: Daripada Mieloma Sel Plasma kepada Melanoma
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

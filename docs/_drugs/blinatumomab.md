@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# BLINATUMOMAB: Laporan Penilaian Penggunaan Semula Dadah
+## BLINATUMOMAB: Laporan Penilaian Penggunaan Semula Dadah
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

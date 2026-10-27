@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **3**
 
 </div>
 
-# Terbutaline: Daripada Asma kepada Penyakit Paru Obstruktif
+## Terbutaline: Daripada Asma kepada Penyakit Paru Obstruktif
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

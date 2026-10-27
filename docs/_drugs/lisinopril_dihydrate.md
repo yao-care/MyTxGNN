@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Lisinopril Dihydrate: Penilaian Ubat Baru dari Ubat Lama — Menunggu Data Lengkap
+## Lisinopril Dihydrate: Penilaian Ubat Baru dari Ubat Lama — Menunggu Data Lengkap
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

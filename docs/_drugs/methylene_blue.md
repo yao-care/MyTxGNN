@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Metilena Biru: Daripada Methemoglobinemia kepada Bronkitis
+## Metilena Biru: Daripada Methemoglobinemia kepada Bronkitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

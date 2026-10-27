@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Busulfan: Daripada Penyakit Asal kepada Sindrom Mielodisplastik
+## Busulfan: Daripada Penyakit Asal kepada Sindrom Mielodisplastik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

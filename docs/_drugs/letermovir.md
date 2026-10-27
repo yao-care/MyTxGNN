@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Letermovir: Daripada Jangkitan Sitomegalovirus kepada Kandidiasis Vulvovaginal
+## Letermovir: Daripada Jangkitan Sitomegalovirus kepada Kandidiasis Vulvovaginal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

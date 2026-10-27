@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Isoniazid: Daripada Tuberkulosis Pulmonari kepada Konjunktivitis
+## Isoniazid: Daripada Tuberkulosis Pulmonari kepada Konjunktivitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

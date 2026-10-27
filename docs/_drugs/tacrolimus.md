@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Tacrolimus: Daripada Ekzema Atopik kepada Dermatitis Seboroik
+## Tacrolimus: Daripada Ekzema Atopik kepada Dermatitis Seboroik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

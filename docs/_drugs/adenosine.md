@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Adenosine: Daripada Takikardia Ventrikel kepada Blok Berkas Cabang (Istilah Usang)
+## Adenosine: Daripada Takikardia Ventrikel kepada Blok Berkas Cabang (Istilah Usang)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

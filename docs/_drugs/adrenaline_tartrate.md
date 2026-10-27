@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Adrenalin Tartrat: Penilaian Repositioning Ubat (Data Ramalan Tertangguh)
+## Adrenalin Tartrat: Penilaian Repositioning Ubat (Data Ramalan Tertangguh)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

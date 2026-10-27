@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Benazepril Hydrochloride: Penilaian Penggunaan Semula Ubat — Laporan Awal
+## Benazepril Hydrochloride: Penilaian Penggunaan Semula Ubat — Laporan Awal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Guaiacol: Daripada Pharyngitis kepada Acute Laryngopharyngitis
+## Guaiacol: Daripada Pharyngitis kepada Acute Laryngopharyngitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

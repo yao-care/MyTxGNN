@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Risperidone: Daripada Skizofrenia dan Gangguan Bipolar kepada Autisme
+## Risperidone: Daripada Skizofrenia dan Gangguan Bipolar kepada Autisme
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

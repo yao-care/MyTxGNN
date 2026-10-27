@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Topiramate: Daripada Epilepsi kepada Neoplasma Saraf Trigeminal
+## Topiramate: Daripada Epilepsi kepada Neoplasma Saraf Trigeminal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Deksketoprofen: Daripada Ubat Antiradang Nonsteroid (NSAID) kepada Tendinitis
+## Deksketoprofen: Daripada Ubat Antiradang Nonsteroid (NSAID) kepada Tendinitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

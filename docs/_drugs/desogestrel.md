@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Desogestrel: Daripada Indikasi Asal (Tiada Data) kepada Penyakit Fibrosistik Payudara
+## Desogestrel: Daripada Indikasi Asal (Tiada Data) kepada Penyakit Fibrosistik Payudara
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

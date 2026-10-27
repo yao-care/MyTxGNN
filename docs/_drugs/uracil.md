@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Urasil: Daripada Penggunaan Asal kepada Neoplasma Kolon
+## Urasil: Daripada Penggunaan Asal kepada Neoplasma Kolon
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

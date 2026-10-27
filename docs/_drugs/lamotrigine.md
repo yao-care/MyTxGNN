@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Lamotrigine: Daripada Epilepsi kepada Cutis Verticis Gyrata
+## Lamotrigine: Daripada Epilepsi kepada Cutis Verticis Gyrata
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

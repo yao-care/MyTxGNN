@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bendamustine Hydrochloride: Laporan Penilaian Ubat Repurposing
+## Bendamustine Hydrochloride: Laporan Penilaian Ubat Repurposing
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

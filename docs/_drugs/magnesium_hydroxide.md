@@ -31,7 +31,8 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Magnesium Hydroxide: Daripada Penyakit Ulser Peptik kepada Esofagitis
+## Magnesium Hydroxide: Daripada Penyakit Ulser Peptik kepada Esofagitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

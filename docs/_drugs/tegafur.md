@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Tegafur: Daripada Indikasi Asal (Tiada Data) kepada Neoplasma Kolon
+## Tegafur: Daripada Indikasi Asal (Tiada Data) kepada Neoplasma Kolon
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

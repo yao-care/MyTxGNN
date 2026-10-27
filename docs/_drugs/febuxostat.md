@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-# Febuxostat: Daripada Hiperurisemia kepada Hipourisemia Renal
+## Febuxostat: Daripada Hiperurisemia kepada Hipourisemia Renal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

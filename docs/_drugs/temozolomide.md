@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **2**
 
 </div>
 
-# Temozolomide: Daripada Astrositoma/Glioblastoma kepada Tumor Astrositik Dewasa
+## Temozolomide: Daripada Astrositoma/Glioblastoma kepada Tumor Astrositik Dewasa
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Empagliflozin: Daripada Diabetes Mellitus Jenis 2 kepada Sindrom Anggota Kaku Fokal
+## Empagliflozin: Daripada Diabetes Mellitus Jenis 2 kepada Sindrom Anggota Kaku Fokal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

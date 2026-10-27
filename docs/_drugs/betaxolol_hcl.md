@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# BETAXOLOL HCL: Penilaian Ubah Guna Ubat — Menunggu Data Ramalan
+## BETAXOLOL HCL: Penilaian Ubah Guna Ubat — Menunggu Data Ramalan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

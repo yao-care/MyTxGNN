@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ademetionine: Daripada Penggunaan Asal kepada Jerawat (Acne)
+## Ademetionine: Daripada Penggunaan Asal kepada Jerawat (Acne)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

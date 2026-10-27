@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Dekstrosa: Laporan Penilaian Penggunaan Ulang Dadah
+## Dekstrosa: Laporan Penilaian Penggunaan Ulang Dadah
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

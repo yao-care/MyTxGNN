@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Capecitabine: Daripada Kanser Kolon Metastatik dan Kanser Gastrik kepada Neoplasma Gastrik
+## Capecitabine: Daripada Kanser Kolon Metastatik dan Kanser Gastrik kepada Neoplasma Gastrik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

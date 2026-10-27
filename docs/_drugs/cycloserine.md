@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Cycloserine: Daripada Tuberkulosis Pulmonari kepada Sindrom Usus Besar Terangsang (Irritable Bowel Syndrome)
+## Cycloserine: Daripada Tuberkulosis Pulmonari kepada Sindrom Usus Besar Terangsang (Irritable Bowel Syndrome)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

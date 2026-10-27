@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Docetaxel Trihydrate: Laporan Penilaian Ubah Guna Ubat
+## Docetaxel Trihydrate: Laporan Penilaian Ubah Guna Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

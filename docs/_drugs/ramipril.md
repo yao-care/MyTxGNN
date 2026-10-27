@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ramipril: Daripada Indikasi Asal (Data Tempatan Tiada) kepada Kerentanan terhadap Strok Iskemia
+## Ramipril: Daripada Indikasi Asal (Data Tempatan Tiada) kepada Kerentanan terhadap Strok Iskemia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

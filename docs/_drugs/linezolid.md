@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Linezolid: Laporan Penilaian Penggubahan Semula Ubat (Ramalan TxGNN Menunggu)
+## Linezolid: Laporan Penilaian Penggubahan Semula Ubat (Ramalan TxGNN Menunggu)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

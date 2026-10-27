@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Mitomisin: Daripada Adenokarsinoma Pankreas kepada Karsinoma Pseudopapilari Pepejal Pankreas
+## Mitomisin: Daripada Adenokarsinoma Pankreas kepada Karsinoma Pseudopapilari Pepejal Pankreas
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

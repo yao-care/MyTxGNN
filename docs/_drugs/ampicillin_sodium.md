@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Ampicillin Sodium: Penilaian Ubat Lama untuk Petunjuk Baru — Data Tidak Mencukupi untuk Ramalan
+## Ampicillin Sodium: Penilaian Ubat Lama untuk Petunjuk Baru — Data Tidak Mencukupi untuk Ramalan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

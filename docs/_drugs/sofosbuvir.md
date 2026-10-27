@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Sofosbuvir: Daripada Jangkitan Hepatitis C Kronik kepada Jangkitan Virus Hepatitis B
+## Sofosbuvir: Daripada Jangkitan Hepatitis C Kronik kepada Jangkitan Virus Hepatitis B
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

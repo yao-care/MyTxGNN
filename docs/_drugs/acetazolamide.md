@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Acetazolamide: Daripada Penunjuk Asal Tidak Diketahui kepada Hipertermia Malignan Akibat Senaman
+## Acetazolamide: Daripada Penunjuk Asal Tidak Diketahui kepada Hipertermia Malignan Akibat Senaman
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

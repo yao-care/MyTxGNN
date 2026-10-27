@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Minyak Kacang Soya: Daripada Tiada Indikasi Berdaftar kepada Amenorea
+## Minyak Kacang Soya: Daripada Tiada Indikasi Berdaftar kepada Amenorea
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Carboplatin: Daripada Penggunaan Asal kepada Karsinoma Payudara Wanita
+## Carboplatin: Daripada Penggunaan Asal kepada Karsinoma Payudara Wanita
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

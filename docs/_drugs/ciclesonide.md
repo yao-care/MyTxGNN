@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Siklesonid: Daripada Asma dan Rinitis Alergi kepada Ekzema Atopik
+## Siklesonid: Daripada Asma dan Rinitis Alergi kepada Ekzema Atopik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

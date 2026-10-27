@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **4**
 
 </div>
 
-# Acitretin: Daripada Penggunaan Asal kepada Jerawat (Acne)
+## Acitretin: Daripada Penggunaan Asal kepada Jerawat (Acne)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

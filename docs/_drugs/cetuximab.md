@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Cetuximab: Daripada Kanser Kolon kepada Lesi Pra-malignan (Pre-malignant Neoplasm)
+## Cetuximab: Daripada Kanser Kolon kepada Lesi Pra-malignan (Pre-malignant Neoplasm)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Pyrazinamide: Daripada Tuberkulosis Pulmonari kepada Otitis Media Berjangkit
+## Pyrazinamide: Daripada Tuberkulosis Pulmonari kepada Otitis Media Berjangkit
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

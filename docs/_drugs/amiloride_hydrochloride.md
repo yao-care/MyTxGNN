@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amiloride Hydrochloride: Penilaian Tertunda — Data Ramalan TxGNN Tidak Mencukupi
+## Amiloride Hydrochloride: Penilaian Tertunda — Data Ramalan TxGNN Tidak Mencukupi
+{: .text-alpha }
 
 ## Ringkasan Satu Kalimat
 

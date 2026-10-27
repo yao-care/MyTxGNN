@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-# Dimenhydrinate: Daripada Vertigo Asal Sistem Saraf Pusat dan Mabuk Perjalanan kepada Urtikaria Alergik
+## Dimenhydrinate: Daripada Vertigo Asal Sistem Saraf Pusat dan Mabuk Perjalanan kepada Urtikaria Alergik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

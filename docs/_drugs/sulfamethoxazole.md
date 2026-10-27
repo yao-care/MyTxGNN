@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Sulfametoksazol: Daripada Jangkitan Bakteria kepada Konjunktivitis Berjangkit Akut
+## Sulfametoksazol: Daripada Jangkitan Bakteria kepada Konjunktivitis Berjangkit Akut
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

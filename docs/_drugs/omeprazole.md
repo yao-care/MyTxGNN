@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Omeprazole: Daripada Penyakit Ulser Gastrik kepada Hiperinsulinisme
+## Omeprazole: Daripada Penyakit Ulser Gastrik kepada Hiperinsulinisme
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

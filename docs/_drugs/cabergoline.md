@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Cabergoline: Daripada Hiperprolaktinemia kepada Kanser Pituitari
+## Cabergoline: Daripada Hiperprolaktinemia kepada Kanser Pituitari
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

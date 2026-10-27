@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-# Revefenacin: Daripada Penyakit Pulmonari Obstruktif Kronik (COPD) kepada Bronkitis
+## Revefenacin: Daripada Penyakit Pulmonari Obstruktif Kronik (COPD) kepada Bronkitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

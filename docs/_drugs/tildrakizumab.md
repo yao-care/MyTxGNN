@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Tildrakizumab: Daripada Indikasi Asal kepada Retinopati Diabetes Non-Proliferatif Teruk
+## Tildrakizumab: Daripada Indikasi Asal kepada Retinopati Diabetes Non-Proliferatif Teruk
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

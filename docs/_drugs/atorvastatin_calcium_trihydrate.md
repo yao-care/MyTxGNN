@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Atorvastatin Calcium Trihydrate: Penilaian Penghantaran Semula Ubat (Tiada Ramalan Tersedia dalam Paket Bukti Semasa)
+## Atorvastatin Calcium Trihydrate: Penilaian Penghantaran Semula Ubat (Tiada Ramalan Tersedia dalam Paket Bukti Semasa)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bisoprolol Fumarate: Laporan Penilaian Penggunaan Semula Ubat
+## Bisoprolol Fumarate: Laporan Penilaian Penggunaan Semula Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Insulin Lispro: Daripada Diabetes Mellitus kepada Autoimmune Oophoritis
+## Insulin Lispro: Daripada Diabetes Mellitus kepada Autoimmune Oophoritis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Insulin Glargine: Daripada Diabetes Mellitus Jenis 2 kepada Ketoasidosis Diabetik
+## Insulin Glargine: Daripada Diabetes Mellitus Jenis 2 kepada Ketoasidosis Diabetik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

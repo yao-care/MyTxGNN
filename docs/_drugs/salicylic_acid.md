@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Asid Salisilik: Daripada Jerawat (Akne) kepada Penyakit Keratinisasi
+## Asid Salisilik: Daripada Jerawat (Akne) kepada Penyakit Keratinisasi
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

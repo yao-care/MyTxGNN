@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Antazoline Hydrochloride: Penilaian Penggunaan Semula Ubat — Tiada Ramalan TxGNN Tersedia
+## Antazoline Hydrochloride: Penilaian Penggunaan Semula Ubat — Tiada Ramalan TxGNN Tersedia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

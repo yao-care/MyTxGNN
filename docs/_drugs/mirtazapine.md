@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Mirtazapine: Daripada Kemurungan kepada Sindrom Ohdo dan Variannya
+## Mirtazapine: Daripada Kemurungan kepada Sindrom Ohdo dan Variannya
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

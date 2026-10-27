@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Alfentanil Hydrochloride: Daripada Adjuvant Anestesia kepada Tiada Ramalan Penggunaan Semula Tersedia
+## Alfentanil Hydrochloride: Daripada Adjuvant Anestesia kepada Tiada Ramalan Penggunaan Semula Tersedia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

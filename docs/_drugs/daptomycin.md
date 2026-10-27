@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Daptomycin: Daripada Penggunaan Anti-Jangkitan kepada Osteoartritis (Ramalan Model)
+## Daptomycin: Daripada Penggunaan Anti-Jangkitan kepada Osteoartritis (Ramalan Model)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

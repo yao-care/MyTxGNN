@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Spironolakton: Daripada Hipertensi dan Kegagalan Jantung Kongestif kepada Hipotrikosis Simpleks Kulit Kepala
+## Spironolakton: Daripada Hipertensi dan Kegagalan Jantung Kongestif kepada Hipotrikosis Simpleks Kulit Kepala
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

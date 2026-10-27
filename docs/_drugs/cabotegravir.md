@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Cabotegravir: Daripada Jangkitan HIV-1 kepada Artritis Reumatoid
+## Cabotegravir: Daripada Jangkitan HIV-1 kepada Artritis Reumatoid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

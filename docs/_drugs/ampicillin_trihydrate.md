@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Ampicillin Trihydrate: Penilaian Kegunaan Semula (Tiada Ramalan TxGNN Tersedia)
+## Ampicillin Trihydrate: Penilaian Kegunaan Semula (Tiada Ramalan TxGNN Tersedia)
+{: .text-alpha }
 
 ## Ringkasan Satu Baris
 

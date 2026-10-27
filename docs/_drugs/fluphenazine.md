@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Fluphenazine: Daripada Skizofrenia kepada Distrofi Retina (dengan atau tanpa Anomali Ekstraokular)
+## Fluphenazine: Daripada Skizofrenia kepada Distrofi Retina (dengan atau tanpa Anomali Ekstraokular)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

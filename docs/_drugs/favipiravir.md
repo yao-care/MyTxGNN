@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-# Favipiravir: Daripada Influenza kepada Sindrom Hemofagositik Berkaitan Jangkitan
+## Favipiravir: Daripada Influenza kepada Sindrom Hemofagositik Berkaitan Jangkitan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

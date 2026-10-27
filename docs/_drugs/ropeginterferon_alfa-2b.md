@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ropeginterferon Alfa-2b: Daripada Polisitemia Vera kepada Sindrom Laubry-Pezzi
+## Ropeginterferon Alfa-2b: Daripada Polisitemia Vera kepada Sindrom Laubry-Pezzi
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

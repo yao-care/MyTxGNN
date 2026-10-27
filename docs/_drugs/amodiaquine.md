@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Amodiaquine: Daripada Indikasi Asal (Tiada Data Berdaftar) kepada Hipertensi Pulmonari
+## Amodiaquine: Daripada Indikasi Asal (Tiada Data Berdaftar) kepada Hipertensi Pulmonari
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

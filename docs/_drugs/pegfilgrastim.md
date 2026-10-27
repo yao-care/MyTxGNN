@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Pegfilgrastim: Daripada Penggunaan Asal kepada Retinopati Diabetik Bukan Proliferatif Teruk
+## Pegfilgrastim: Daripada Penggunaan Asal kepada Retinopati Diabetik Bukan Proliferatif Teruk
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Metronidazole: Daripada Jangkitan Anaerob/Protozoa kepada Rosacea
+## Metronidazole: Daripada Jangkitan Anaerob/Protozoa kepada Rosacea
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

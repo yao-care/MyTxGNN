@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Gimeracil: Daripada Penunjuk Asal (Tiada Direkodkan) kepada Karsinoma Gastrik
+## Gimeracil: Daripada Penunjuk Asal (Tiada Direkodkan) kepada Karsinoma Gastrik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

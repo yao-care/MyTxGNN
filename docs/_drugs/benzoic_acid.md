@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Asid Benzoik: Daripada Penyakit Kulit/Tisu Penghubung kepada Pemfigus (Ramalan Berskor 0.0)
+## Asid Benzoik: Daripada Penyakit Kulit/Tisu Penghubung kepada Pemfigus (Ramalan Berskor 0.0)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

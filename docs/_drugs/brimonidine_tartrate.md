@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Brimonidine Tartrate: Penilaian Pengunaan Semula Ubat — Data Tidak Mencukupi untuk Ramalan
+## Brimonidine Tartrate: Penilaian Pengunaan Semula Ubat — Data Tidak Mencukupi untuk Ramalan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

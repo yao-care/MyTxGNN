@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Simoctocog alfa: Daripada Hemofilia A kepada Hemofilia (Ramalan TxGNN)
+## Simoctocog alfa: Daripada Hemofilia A kepada Hemofilia (Ramalan TxGNN)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

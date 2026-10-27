@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Amphotericin B: Daripada Kandidiasis (Indikasi Asal) kepada Kandidiasis Esofagus
+## Amphotericin B: Daripada Kandidiasis (Indikasi Asal) kepada Kandidiasis Esofagus
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

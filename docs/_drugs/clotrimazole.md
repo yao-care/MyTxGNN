@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Clotrimazole: Daripada Jangkitan Kulat Kulit kepada Pityriasis Versicolor
+## Clotrimazole: Daripada Jangkitan Kulat Kulit kepada Pityriasis Versicolor
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

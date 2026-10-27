@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Midazolam: Daripada Keresahan (Anxiety) kepada Insomnia
+## Midazolam: Daripada Keresahan (Anxiety) kepada Insomnia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

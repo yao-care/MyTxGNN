@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Framycetin: Daripada Antibiotik Aminoglikosida kepada Sclerosing Cholangitis
+## Framycetin: Daripada Antibiotik Aminoglikosida kepada Sclerosing Cholangitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

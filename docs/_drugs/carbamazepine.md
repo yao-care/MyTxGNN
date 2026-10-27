@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Carbamazepine: Daripada Epilepsi kepada Epilepsi dengan Sawan Tonik-Klonik Umum (dan Neuralgia Glosofaring)
+## Carbamazepine: Daripada Epilepsi kepada Epilepsi dengan Sawan Tonik-Klonik Umum (dan Neuralgia Glosofaring)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Decitabine: Daripada Leukemia Mieloid kepada Leukemia Mieloid Akut dan Sindrom Mielodisplastik Berkaitan Terapi
+## Decitabine: Daripada Leukemia Mieloid kepada Leukemia Mieloid Akut dan Sindrom Mielodisplastik Berkaitan Terapi
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

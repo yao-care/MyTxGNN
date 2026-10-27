@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Rufinamide: Daripada Sindrom Lennox-Gastaut kepada Sindrom Epilepsi Berkaitan Jangkitan Demam (FIRES)
+## Rufinamide: Daripada Sindrom Lennox-Gastaut kepada Sindrom Epilepsi Berkaitan Jangkitan Demam (FIRES)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

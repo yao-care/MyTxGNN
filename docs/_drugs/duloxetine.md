@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Duloxetine: Daripada Penunjuk Asal (Tidak Direkodkan) kepada Kemurungan Endogen
+## Duloxetine: Daripada Penunjuk Asal (Tidak Direkodkan) kepada Kemurungan Endogen
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

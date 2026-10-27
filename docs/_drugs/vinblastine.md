@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Vinblastine: Daripada Limfoma Hodgkin kepada Rhabdomyosarcoma
+## Vinblastine: Daripada Limfoma Hodgkin kepada Rhabdomyosarcoma
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

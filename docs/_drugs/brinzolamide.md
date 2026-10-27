@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Brinzolamide: Daripada Glaukoma Sudut Terbuka kepada Glaukoma Keturunan Primer
+## Brinzolamide: Daripada Glaukoma Sudut Terbuka kepada Glaukoma Keturunan Primer
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

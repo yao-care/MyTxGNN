@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Cabazitaxel: Daripada Kanser Prostat kepada Karsinoma Payudara Wanita
+## Cabazitaxel: Daripada Kanser Prostat kepada Karsinoma Payudara Wanita
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Amylmetacresol: Daripada Antiseptik Topikal kepada Sindrom Cauda Equina
+## Amylmetacresol: Daripada Antiseptik Topikal kepada Sindrom Cauda Equina
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

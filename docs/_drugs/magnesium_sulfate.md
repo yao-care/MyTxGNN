@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Magnesium Sulfate: Daripada Pra-eklampsia kepada Pra-eklampsia/Eklampsia (Penggunaan Mantap dengan Pengesahan Bukti)
+## Magnesium Sulfate: Daripada Pra-eklampsia kepada Pra-eklampsia/Eklampsia (Penggunaan Mantap dengan Pengesahan Bukti)
+{: .text-alpha }
 
 > **Nota:** Laporan ini tertumpu pada indikasi baharu yang diramalkan di kedudukan teratas, iaitu **pra-eklampsia/eklampsia**. Indikasi ini pada hakikatnya ialah penggunaan sedia ada yang disokong garis panduan. Ia bukan calon penggunaan semula ubat yang sebenar. Indikasi lain dibincangkan secara ringkas dalam bahagian kesimpulan.
 

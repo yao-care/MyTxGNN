@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Asid Mikofenolik: Daripada Indikasi Asal (Tiada Data Berdaftar) kepada Hemoglobinopati
+## Asid Mikofenolik: Daripada Indikasi Asal (Tiada Data Berdaftar) kepada Hemoglobinopati
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

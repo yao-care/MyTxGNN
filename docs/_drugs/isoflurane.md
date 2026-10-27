@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Isoflurane: Daripada Anestesia Am kepada Prinzmetal Angina
+## Isoflurane: Daripada Anestesia Am kepada Prinzmetal Angina
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

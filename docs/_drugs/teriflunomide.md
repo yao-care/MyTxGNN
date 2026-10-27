@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **1**
 
 </div>
 
-# Teriflunomide: Daripada Multiple Sclerosis kepada Relapsing-Remitting Multiple Sclerosis
+## Teriflunomide: Daripada Multiple Sclerosis kepada Relapsing-Remitting Multiple Sclerosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Ketoconazole: Daripada Infeksi Kulat Kulit kepada Kromomikosis (Chromomycosis)
+## Ketoconazole: Daripada Infeksi Kulat Kulit kepada Kromomikosis (Chromomycosis)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

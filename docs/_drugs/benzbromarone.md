@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Benzbromarone: Daripada Gout/Hiperurisemia kepada Hipourisemia Renal
+## Benzbromarone: Daripada Gout/Hiperurisemia kepada Hipourisemia Renal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

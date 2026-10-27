@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Pantoprazole: Daripada Penyakit Ulser Peptik kepada Penyakit Ulser Peptik Aktif
+## Pantoprazole: Daripada Penyakit Ulser Peptik kepada Penyakit Ulser Peptik Aktif
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

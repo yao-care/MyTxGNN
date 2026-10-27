@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Protrombin: Daripada Penunjuk Asal Tidak Dinyatakan kepada Glanzmann Thrombasthenia
+## Protrombin: Daripada Penunjuk Asal Tidak Dinyatakan kepada Glanzmann Thrombasthenia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

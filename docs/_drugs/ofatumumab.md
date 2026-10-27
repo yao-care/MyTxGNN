@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **8**
 
 </div>
 
-# Ofatumumab: Daripada Leukemia Limfoblastik Akut kepada Limfoma Folikular
+## Ofatumumab: Daripada Leukemia Limfoblastik Akut kepada Limfoma Folikular
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

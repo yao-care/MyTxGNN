@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Eltrombopag: Daripada Trombositopenia Autoimun kepada Jangkitan HIV
+## Eltrombopag: Daripada Trombositopenia Autoimun kepada Jangkitan HIV
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

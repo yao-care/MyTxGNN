@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Methylphenidate: Daripada Gangguan Hiperaktiviti Kekurangan Perhatian (ADHD) kepada Sindrom Faciodigitogenital
+## Methylphenidate: Daripada Gangguan Hiperaktiviti Kekurangan Perhatian (ADHD) kepada Sindrom Faciodigitogenital
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

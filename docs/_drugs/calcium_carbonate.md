@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Calcium Carbonate: Daripada Dispepsia kepada Nefrokalsinosis
+## Calcium Carbonate: Daripada Dispepsia kepada Nefrokalsinosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

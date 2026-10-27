@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Fulvestrant: Daripada Indikasi Asal (Tidak Direkodkan) kepada Jangkitan HIV
+## Fulvestrant: Daripada Indikasi Asal (Tidak Direkodkan) kepada Jangkitan HIV
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

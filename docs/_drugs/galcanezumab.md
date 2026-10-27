@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Galcanezumab: Daripada Migrain kepada Kekurangan Kofaktor Heparin 2
+## Galcanezumab: Daripada Migrain kepada Kekurangan Kofaktor Heparin 2
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amorolfine Hydrochloride: Agen Antifungal — Tiada Ramalan Penggunaan Semula Dijana
+## Amorolfine Hydrochloride: Agen Antifungal — Tiada Ramalan Penggunaan Semula Dijana
+{: .text-alpha }
 
 ---
 

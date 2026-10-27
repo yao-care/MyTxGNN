@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Dekstrosa Anhidrat: Penilaian Penggunaan Semula Dadah — Tiada Petunjuk Terapeutik Ramalan
+## Dekstrosa Anhidrat: Penilaian Penggunaan Semula Dadah — Tiada Petunjuk Terapeutik Ramalan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Brentuximab Vedotin: Daripada Limfoma Hodgkin kepada Limfoma Folikular
+## Brentuximab Vedotin: Daripada Limfoma Hodgkin kepada Limfoma Folikular
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Asetilsisteina: Daripada Keracunan Parasetamol kepada Bronkitis
+## Asetilsisteina: Daripada Keracunan Parasetamol kepada Bronkitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

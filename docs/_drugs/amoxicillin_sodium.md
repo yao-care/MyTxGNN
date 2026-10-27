@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amoxicillin Sodium: Antibiotik — Penilaian Ubah Guna Tidak Lengkap
+## Amoxicillin Sodium: Antibiotik — Penilaian Ubah Guna Tidak Lengkap
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

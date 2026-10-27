@@ -31,7 +31,8 @@ Tahap bukti: **L3** | Indikasi diramal: **1**
 
 </div>
 
-# Erenumab: Daripada Migrain kepada Migrain dengan Aura Batang Otak
+## Erenumab: Daripada Migrain kepada Migrain dengan Aura Batang Otak
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Fluorometholone: Daripada Indikasi Asal (Tidak Direkodkan) kepada Uveitis Anterior Berjangkit
+## Fluorometholone: Daripada Indikasi Asal (Tidak Direkodkan) kepada Uveitis Anterior Berjangkit
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

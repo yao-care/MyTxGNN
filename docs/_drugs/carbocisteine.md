@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Carbocisteine: Daripada Penggunaan Asal kepada Gout (Ramalan Indikasi Baharu)
+## Carbocisteine: Daripada Penggunaan Asal kepada Gout (Ramalan Indikasi Baharu)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

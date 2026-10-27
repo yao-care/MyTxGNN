@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Carvedilol: Daripada Hipertensi kepada Penyakit Buah Pinggang Hipertensif Malignan
+## Carvedilol: Daripada Hipertensi kepada Penyakit Buah Pinggang Hipertensif Malignan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

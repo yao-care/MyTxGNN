@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Rifampicin: Daripada Penggunaan Asal kepada Konjunktivitis
+## Rifampicin: Daripada Penggunaan Asal kepada Konjunktivitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

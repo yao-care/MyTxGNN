@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Aflibercept: Daripada Metastasis Kolon kepada Esotropia
+## Aflibercept: Daripada Metastasis Kolon kepada Esotropia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

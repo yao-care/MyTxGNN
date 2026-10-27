@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Albutrepenonacog Alfa: Daripada Hemofilia kepada Penyakit von Willebrand Pseudo
+## Albutrepenonacog Alfa: Daripada Hemofilia kepada Penyakit von Willebrand Pseudo
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

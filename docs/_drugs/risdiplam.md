@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Risdiplam: Daripada Indikasi Asal kepada Jerawat (Acne)
+## Risdiplam: Daripada Indikasi Asal kepada Jerawat (Acne)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

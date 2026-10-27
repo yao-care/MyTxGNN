@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Desvenlafaxine: Daripada Gangguan Kemurungan kepada Gangguan Obsesif-Kompulsif
+## Desvenlafaxine: Daripada Gangguan Kemurungan kepada Gangguan Obsesif-Kompulsif
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

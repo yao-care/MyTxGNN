@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Cyanocobalamin: Daripada Kekurangan Vitamin/Anemia Pernisiosa kepada Anemia Mikrositik
+## Cyanocobalamin: Daripada Kekurangan Vitamin/Anemia Pernisiosa kepada Anemia Mikrositik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

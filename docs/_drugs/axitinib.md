@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Axitinib: Daripada Karsinoma Sel Renal kepada Karsinoma Sel Renal Berkaitan Neuroblastoma
+## Axitinib: Daripada Karsinoma Sel Renal kepada Karsinoma Sel Renal Berkaitan Neuroblastoma
+{: .text-alpha }
 
 > **Nota penting:** Indikasi baharu yang diramalkan pada kedudukan teratas (rank 1) ialah subjenis yang sangat jarang berlaku dan tiada bukti langsung. Data yang dikumpulkan untuk laporan ini turut menunjukkan bukti yang jauh lebih kukuh bagi subjenis lain (contohnya karsinoma buah pinggang umum, karsinoma duktus pengumpul, dan karsinoma sel renal translokasi Xp11.2/TFE3). Ini dihuraikan di bahagian akhir.
 

@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Adalimumab: Daripada Penyakit Crohn kepada Penyakit Radang Usus (IBD)
+## Adalimumab: Daripada Penyakit Crohn kepada Penyakit Radang Usus (IBD)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

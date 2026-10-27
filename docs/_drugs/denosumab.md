@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Denosumab: Daripada Osteoporosis kepada Retinopati Diabetik Non-Proliferatif Teruk
+## Denosumab: Daripada Osteoporosis kepada Retinopati Diabetik Non-Proliferatif Teruk
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

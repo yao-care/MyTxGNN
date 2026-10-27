@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Etonogestrel: Daripada Penggunaan Asal kepada Amenorea (Ramalan Indikasi Baharu)
+## Etonogestrel: Daripada Penggunaan Asal kepada Amenorea (Ramalan Indikasi Baharu)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

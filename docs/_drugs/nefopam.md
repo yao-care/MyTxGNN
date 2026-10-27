@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Nefopam: Daripada Analgesik kepada Katarak Belum Matang (Immature Cataract)
+## Nefopam: Daripada Analgesik kepada Katarak Belum Matang (Immature Cataract)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

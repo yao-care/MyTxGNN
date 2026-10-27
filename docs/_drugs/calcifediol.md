@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Calcifediol: Daripada Hiperkalsemia/Gangguan Metabolisme Mineral kepada Kekurangan Vitamin D
+## Calcifediol: Daripada Hiperkalsemia/Gangguan Metabolisme Mineral kepada Kekurangan Vitamin D
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

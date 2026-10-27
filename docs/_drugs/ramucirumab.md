@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ramucirumab: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Adenokarsinoma Ligamen Uterus
+## Ramucirumab: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Adenokarsinoma Ligamen Uterus
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Iohexol: Daripada Agen Kontras Radiografi kepada Insomnia
+## Iohexol: Daripada Agen Kontras Radiografi kepada Insomnia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

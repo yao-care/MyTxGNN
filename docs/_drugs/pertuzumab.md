@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Pertuzumab: Daripada Indikasi Asal yang Tidak Direkodkan kepada Karsinoma Payudara Positif HER2
+## Pertuzumab: Daripada Indikasi Asal yang Tidak Direkodkan kepada Karsinoma Payudara Positif HER2
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

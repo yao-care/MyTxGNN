@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Carbidopa: Daripada Penyakit Parkinson kepada Gangguan Parkinsonian
+## Carbidopa: Daripada Penyakit Parkinson kepada Gangguan Parkinsonian
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

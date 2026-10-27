@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Omidenepag Isopropil: Daripada Hipertensi Okular/Glaukoma kepada Pankreatitis
+## Omidenepag Isopropil: Daripada Hipertensi Okular/Glaukoma kepada Pankreatitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

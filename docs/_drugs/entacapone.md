@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Entacapone: Daripada Penyakit Parkinson kepada Penyakit Parkinson (Pengesahan Indikasi Sedia Ada)
+## Entacapone: Daripada Penyakit Parkinson kepada Penyakit Parkinson (Pengesahan Indikasi Sedia Ada)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Prilocaine: Daripada Ejakulasi Pramatang kepada Konjunktivitis Papilari
+## Prilocaine: Daripada Ejakulasi Pramatang kepada Konjunktivitis Papilari
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

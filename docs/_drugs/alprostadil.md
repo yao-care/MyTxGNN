@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Alprostadil: Daripada Indikasi Asal yang Belum Direkodkan kepada Koarktasi Aorta Atipikal
+## Alprostadil: Daripada Indikasi Asal yang Belum Direkodkan kepada Koarktasi Aorta Atipikal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

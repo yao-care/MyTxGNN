@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Glimepirida: Daripada Diabetes Mellitus Jenis 2 kepada Sindrom Anggota Kaku Fokal
+## Glimepirida: Daripada Diabetes Mellitus Jenis 2 kepada Sindrom Anggota Kaku Fokal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

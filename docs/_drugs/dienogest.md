@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Dienogest: Daripada Indikasi Asal (Tidak Direkodkan) kepada Amenorea
+## Dienogest: Daripada Indikasi Asal (Tidak Direkodkan) kepada Amenorea
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

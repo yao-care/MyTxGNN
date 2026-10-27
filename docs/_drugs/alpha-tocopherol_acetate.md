@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# alpha-Tocopherol acetate: Daripada Penggunaan Asal kepada Osteoporosis Teraruh Ubat
+## alpha-Tocopherol acetate: Daripada Penggunaan Asal kepada Osteoporosis Teraruh Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

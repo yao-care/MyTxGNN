@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Trifarotene: Daripada Jerawat kepada Zink Plasma Meningkat
+## Trifarotene: Daripada Jerawat kepada Zink Plasma Meningkat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

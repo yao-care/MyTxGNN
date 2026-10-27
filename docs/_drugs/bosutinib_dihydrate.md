@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bosutinib Dihydrate: Penilaian Awal Penggunaan Kembali Ubat
+## Bosutinib Dihydrate: Penilaian Awal Penggunaan Kembali Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

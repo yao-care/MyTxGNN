@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Moroctocog Alfa: Daripada Hemofilia kepada Gangguan Pelepasan Primer Platelet
+## Moroctocog Alfa: Daripada Hemofilia kepada Gangguan Pelepasan Primer Platelet
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

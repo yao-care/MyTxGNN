@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **4**
 
 </div>
 
-# Hydroquinone: Daripada Agen Pencerah Pigmen kepada Keratosis Seboroik
+## Hydroquinone: Daripada Agen Pencerah Pigmen kepada Keratosis Seboroik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

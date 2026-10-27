@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Prucalopride: Daripada Indikasi Asal (Tiada Data) kepada Hipoalfalipoproteinemia
+## Prucalopride: Daripada Indikasi Asal (Tiada Data) kepada Hipoalfalipoproteinemia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

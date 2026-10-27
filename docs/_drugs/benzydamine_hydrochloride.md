@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Benzydamine Hydrochloride: Penilaian Penggunaan Semula Ubat
+## Benzydamine Hydrochloride: Penilaian Penggunaan Semula Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

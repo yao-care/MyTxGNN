@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **1**
 
 </div>
 
-# Dapson: Daripada Kusta, Dermatitis Herpetiformis dan Jerawat kepada Pneumocystosis
+## Dapson: Daripada Kusta, Dermatitis Herpetiformis dan Jerawat kepada Pneumocystosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

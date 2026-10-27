@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Tadalafil: Daripada Disfungsi Erektil kepada Disfungsi Erektil (Penunjuk Utama) dan Indikasi Baharu yang Diramalkan
+## Tadalafil: Daripada Disfungsi Erektil kepada Disfungsi Erektil (Penunjuk Utama) dan Indikasi Baharu yang Diramalkan
+{: .text-alpha }
 
 > **Nota:** Data yang dikumpulkan untuk laporan ini menyenaraikan "disfungsi erektil" sebagai indikasi asal dan juga ramalan teratas. Oleh itu, laporan ini memfokuskan pada ramalan kedudukan pertama (disfungsi erektil), dengan konteks ringkas untuk ramalan lain.
 

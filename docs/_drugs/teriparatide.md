@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Teriparatide: Daripada Osteoporosis Pascamenopaus kepada Ulser Duodenum
+## Teriparatide: Daripada Osteoporosis Pascamenopaus kepada Ulser Duodenum
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

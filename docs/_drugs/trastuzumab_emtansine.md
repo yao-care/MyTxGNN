@@ -31,7 +31,8 @@ Tahap bukti: **L3** | Indikasi diramal: **4**
 
 </div>
 
-# Trastuzumab Emtansine: Daripada Karsinoma Payudara Positif HER2 kepada Kanser Payudara Negatif Reseptor Progesteron
+## Trastuzumab Emtansine: Daripada Karsinoma Payudara Positif HER2 kepada Kanser Payudara Negatif Reseptor Progesteron
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

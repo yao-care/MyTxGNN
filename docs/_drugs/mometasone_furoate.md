@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Mometasone Furoate: Daripada Dermatosis Responsif Kortikosteroid kepada Neurodermatitis
+## Mometasone Furoate: Daripada Dermatosis Responsif Kortikosteroid kepada Neurodermatitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

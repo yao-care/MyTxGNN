@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **7**
 
 </div>
 
-# Desmopressin: Daripada Penyakit von Willebrand kepada Gangguan Pelepasan Primer Platelet
+## Desmopressin: Daripada Penyakit von Willebrand kepada Gangguan Pelepasan Primer Platelet
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

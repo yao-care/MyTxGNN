@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bromida Pinaverium: Penilaian Repurposing Ubat — Penyelesaian Data Tertunda
+## Bromida Pinaverium: Penilaian Repurposing Ubat — Penyelesaian Data Tertunda
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

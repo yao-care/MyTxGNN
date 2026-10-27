@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Guselkumab: Daripada Indikasi Asal (Tidak Dinyatakan) kepada Kolitis Ulseratif
+## Guselkumab: Daripada Indikasi Asal (Tidak Dinyatakan) kepada Kolitis Ulseratif
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Acyclovir Sodium: Agen Antivirus — Penilaian Penggunaan Semula Menunggu
+## Acyclovir Sodium: Agen Antivirus — Penilaian Penggunaan Semula Menunggu
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

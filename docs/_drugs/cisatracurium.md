@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Cisatracurium: Daripada Penyekat Neuromuskular kepada Sindrom Cauda Equina
+## Cisatracurium: Daripada Penyekat Neuromuskular kepada Sindrom Cauda Equina
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

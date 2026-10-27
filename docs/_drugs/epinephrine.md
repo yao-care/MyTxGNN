@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **4**
 
 </div>
 
-# Epinephrine: Daripada Asma dan Anafilaksis kepada Penyakit Paru-paru Obstruktif
+## Epinephrine: Daripada Asma dan Anafilaksis kepada Penyakit Paru-paru Obstruktif
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

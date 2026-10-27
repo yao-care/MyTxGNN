@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Piperacillin: Daripada Antibiotik Beta-Laktam kepada Rheumatoid Arthritis
+## Piperacillin: Daripada Antibiotik Beta-Laktam kepada Rheumatoid Arthritis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

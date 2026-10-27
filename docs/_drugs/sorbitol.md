@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Sorbitol: Daripada Tiada Indikasi Berdaftar kepada Hipertermia Malignan Akibat Senaman
+## Sorbitol: Daripada Tiada Indikasi Berdaftar kepada Hipertermia Malignan Akibat Senaman
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

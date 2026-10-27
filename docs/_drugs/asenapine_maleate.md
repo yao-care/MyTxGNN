@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Asenapine Maleate: Daripada Skizofrenia/Gangguan Bipolar — Menunggu Ramalan Penggunaan Semula TxGNN
+## Asenapine Maleate: Daripada Skizofrenia/Gangguan Bipolar — Menunggu Ramalan Penggunaan Semula TxGNN
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

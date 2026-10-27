@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Cabozantinib: Daripada Indikasi Asal (Tidak Direkodkan) kepada Liposarkoma
+## Cabozantinib: Daripada Indikasi Asal (Tidak Direkodkan) kepada Liposarkoma
+{: .text-alpha }
 
 > **Catatan:** Laporan ini mengikut format piawai dan memaparkan ramalan teratas (kedudukan 1: liposarkoma). Data yang dikumpulkan menunjukkan bukti yang jauh lebih kukuh bagi karsinoma sel renal (RCC), yang dibincangkan dalam bahagian Kesimpulan.
 

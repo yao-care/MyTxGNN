@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Diazepam: Daripada Indikasi Asal (Tidak Direkodkan) kepada Insomnia
+## Diazepam: Daripada Indikasi Asal (Tidak Direkodkan) kepada Insomnia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

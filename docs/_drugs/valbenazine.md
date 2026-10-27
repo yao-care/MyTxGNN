@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Valbenazine: Daripada Tardive Dyskinesia kepada Psychogenic Movement Disorders
+## Valbenazine: Daripada Tardive Dyskinesia kepada Psychogenic Movement Disorders
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

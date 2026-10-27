@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Prochlorperazine: Daripada Penggunaan Asal kepada Skizofrenia
+## Prochlorperazine: Daripada Penggunaan Asal kepada Skizofrenia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Sevoflurane: Daripada Anestesia Umum kepada Prinzmetal Angina
+## Sevoflurane: Daripada Anestesia Umum kepada Prinzmetal Angina
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

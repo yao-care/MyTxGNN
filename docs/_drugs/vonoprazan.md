@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Vonoprazan: Daripada Penyakit Berkaitan Asid kepada Ulser Gastrik
+## Vonoprazan: Daripada Penyakit Berkaitan Asid kepada Ulser Gastrik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

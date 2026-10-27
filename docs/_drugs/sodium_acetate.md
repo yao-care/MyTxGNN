@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Natrium Asetat: Daripada Tiada Indikasi Berdaftar kepada Kekurangan Protrombin Kongenital
+## Natrium Asetat: Daripada Tiada Indikasi Berdaftar kepada Kekurangan Protrombin Kongenital
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Velpatasvir: Daripada Jangkitan Virus Hepatitis C Kronik kepada Jangkitan Virus Hepatitis B
+## Velpatasvir: Daripada Jangkitan Virus Hepatitis C Kronik kepada Jangkitan Virus Hepatitis B
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

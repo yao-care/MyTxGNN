@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Betamethasone Valerate: Laporan Penilaian Repurposing Ubat
+## Betamethasone Valerate: Laporan Penilaian Repurposing Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

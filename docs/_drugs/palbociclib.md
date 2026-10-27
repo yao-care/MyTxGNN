@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Palbociclib: Daripada Indikasi Asal kepada Artritis Reumatoid
+## Palbociclib: Daripada Indikasi Asal kepada Artritis Reumatoid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

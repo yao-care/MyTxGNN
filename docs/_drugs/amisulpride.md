@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amisulpride: Penilaian Penggunaan Semula — Tiada Ramalan TxGNN Tersedia
+## Amisulpride: Penilaian Penggunaan Semula — Tiada Ramalan TxGNN Tersedia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

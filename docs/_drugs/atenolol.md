@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Atenolol: Daripada Hipertensi kepada Hipertensi (Ramalan TxGNN Peringkat Teratas)
+## Atenolol: Daripada Hipertensi kepada Hipertensi (Ramalan TxGNN Peringkat Teratas)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

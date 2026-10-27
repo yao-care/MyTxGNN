@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Selinexor: Daripada Penunjuk Asal Tidak Didokumenkan kepada Osteoporosis Teraruh Ubat
+## Selinexor: Daripada Penunjuk Asal Tidak Didokumenkan kepada Osteoporosis Teraruh Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

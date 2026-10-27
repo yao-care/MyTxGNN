@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Ropinirole: Daripada Penyakit Parkinson/Sindrom Kaki Gelisah kepada Gangguan Kurang Daya Tumpuan-Hiperaktiviti (ADHD)
+## Ropinirole: Daripada Penyakit Parkinson/Sindrom Kaki Gelisah kepada Gangguan Kurang Daya Tumpuan-Hiperaktiviti (ADHD)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

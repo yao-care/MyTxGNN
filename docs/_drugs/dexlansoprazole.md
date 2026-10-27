@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Dexlansoprazole: Daripada Penyakit Ulser Peptik kepada Penyakit Ulser Peptik Aktif
+## Dexlansoprazole: Daripada Penyakit Ulser Peptik kepada Penyakit Ulser Peptik Aktif
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

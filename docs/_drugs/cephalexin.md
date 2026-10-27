@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Cephalexin: Daripada Otitis Media Berjangkit kepada Radang Paru-paru Streptokokus
+## Cephalexin: Daripada Otitis Media Berjangkit kepada Radang Paru-paru Streptokokus
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

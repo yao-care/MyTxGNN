@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Ampicillin: Daripada Jangkitan Bakteria kepada Laringitis
+## Ampicillin: Daripada Jangkitan Bakteria kepada Laringitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

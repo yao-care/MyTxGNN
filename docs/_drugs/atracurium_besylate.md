@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Atracurium Besylate: Daripada Penghalang Neuromuskular kepada Preeklampsia (Ramalan)
+## Atracurium Besylate: Daripada Penghalang Neuromuskular kepada Preeklampsia (Ramalan)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

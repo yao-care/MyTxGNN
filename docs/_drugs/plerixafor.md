@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Plerixafor: Daripada Mieloma Sel Plasma kepada Mieloma Sel Plasma Indolen
+## Plerixafor: Daripada Mieloma Sel Plasma kepada Mieloma Sel Plasma Indolen
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

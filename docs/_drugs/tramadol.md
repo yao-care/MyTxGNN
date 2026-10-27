@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Tramadol: Daripada Analgesik Opioid kepada Osteoartritis
+## Tramadol: Daripada Analgesik Opioid kepada Osteoartritis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

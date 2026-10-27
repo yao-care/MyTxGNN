@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Arsenik Trioksida: Daripada Leukemia Promielositik Akut kepada Sindrom Mielodisplastik
+## Arsenik Trioksida: Daripada Leukemia Promielositik Akut kepada Sindrom Mielodisplastik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

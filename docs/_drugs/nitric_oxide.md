@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Nitrik Oksida: Daripada Hipertensi Pulmonari kepada Sindrom Malformasi dengan Komponen Gigi dan/atau Periodontium
+## Nitrik Oksida: Daripada Hipertensi Pulmonari kepada Sindrom Malformasi dengan Komponen Gigi dan/atau Periodontium
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

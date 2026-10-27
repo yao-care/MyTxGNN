@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Isotretinoin: Daripada Gangguan Hipertensi kepada Penyakit Renal Hipertensi Malignan
+## Isotretinoin: Daripada Gangguan Hipertensi kepada Penyakit Renal Hipertensi Malignan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

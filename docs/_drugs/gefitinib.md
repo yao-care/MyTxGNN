@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Gefitinib: Daripada Kanser Paru-paru Sel Bukan Kecil kepada Fibromatosis Gingiva
+## Gefitinib: Daripada Kanser Paru-paru Sel Bukan Kecil kepada Fibromatosis Gingiva
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

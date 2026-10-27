@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **3**
 
 </div>
 
-# Clonazepam: Daripada Epilepsi kepada Sindrom Kaki Resah (Restless Legs Syndrome)
+## Clonazepam: Daripada Epilepsi kepada Sindrom Kaki Resah (Restless Legs Syndrome)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

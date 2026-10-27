@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Trimethoprim: Daripada Jangkitan Saluran Kencing kepada Pneumocystosis
+## Trimethoprim: Daripada Jangkitan Saluran Kencing kepada Pneumocystosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

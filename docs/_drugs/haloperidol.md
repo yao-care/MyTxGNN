@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Haloperidol: Daripada Indikasi Asal (Tiada Rekod) kepada Skizofrenia
+## Haloperidol: Daripada Indikasi Asal (Tiada Rekod) kepada Skizofrenia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

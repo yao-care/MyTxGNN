@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Danazol: Daripada Indikasi Asal (Tiada Data) kepada Penyakit Fibrosistik Payudara
+## Danazol: Daripada Indikasi Asal (Tiada Data) kepada Penyakit Fibrosistik Payudara
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

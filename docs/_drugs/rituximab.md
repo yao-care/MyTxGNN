@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Rituximab: Daripada Limfoma Non-Hodgkin dan Artritis Reumatoid kepada Limfoma Non-Hodgkin Familial
+## Rituximab: Daripada Limfoma Non-Hodgkin dan Artritis Reumatoid kepada Limfoma Non-Hodgkin Familial
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

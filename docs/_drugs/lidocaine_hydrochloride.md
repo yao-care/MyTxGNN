@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Lidocaine Hydrochloride: Dari Anestesi Lokal/Antiaritmia — Tiada Ramalan Peruntukan Semula Aktif Tersedia
+## Lidocaine Hydrochloride: Dari Anestesi Lokal/Antiaritmia — Tiada Ramalan Peruntukan Semula Aktif Tersedia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Erythromycin: Daripada Jerawat kepada Jerawat (Acne) — Penilaian Semula Indikasi
+## Erythromycin: Daripada Jerawat kepada Jerawat (Acne) — Penilaian Semula Indikasi
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-# Laronidase: Daripada Mukopolisakaridosis kepada Penyakit Simpanan Lisosom dengan Penglibatan Rangka
+## Laronidase: Daripada Mukopolisakaridosis kepada Penyakit Simpanan Lisosom dengan Penglibatan Rangka
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
@@ -113,7 +114,8 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisip bungkusan.
 
 ---
 
-# Laronidase: Daripada Mukopolisakaridosis kepada Sindrom Sanfilippo
+## Laronidase: Daripada Mukopolisakaridosis kepada Sindrom Sanfilippo
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

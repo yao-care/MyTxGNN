@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Azithromycin Monohydrate: Laporan Penilaian Penggunaan Semula Ubat
+## Azithromycin Monohydrate: Laporan Penilaian Penggunaan Semula Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu-Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Baricitinib: Daripada Artritis Reumatoid kepada Sindrom Displasia Rizomelik-Mikroftalmia Kolobomatus
+## Baricitinib: Daripada Artritis Reumatoid kepada Sindrom Displasia Rizomelik-Mikroftalmia Kolobomatus
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

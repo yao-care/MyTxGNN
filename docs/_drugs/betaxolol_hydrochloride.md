@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Betaxolol Hidroklorida: Laporan Penilaian Penggunaan Semula Ubat
+## Betaxolol Hidroklorida: Laporan Penilaian Penggunaan Semula Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

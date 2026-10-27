@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Metionina: Daripada Tiada Indikasi Berdaftar kepada Jerawat (Acne)
+## Metionina: Daripada Tiada Indikasi Berdaftar kepada Jerawat (Acne)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

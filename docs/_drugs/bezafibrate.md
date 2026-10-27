@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bezafibrate: Laporan Penilaian Penggunaan Semula Ubat
+## Bezafibrate: Laporan Penilaian Penggunaan Semula Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

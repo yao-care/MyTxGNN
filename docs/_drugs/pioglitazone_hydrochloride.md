@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Pioglitazone Hydrochloride: Penilaian Penggunaan Kembali (Prediksi TxGNN Tertunda)
+## Pioglitazone Hydrochloride: Penilaian Penggunaan Kembali (Prediksi TxGNN Tertunda)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

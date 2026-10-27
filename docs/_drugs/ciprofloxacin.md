@@ -31,7 +31,8 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Ciprofloxacin: Daripada Demam Tifoid kepada Demam Paratifoid
+## Ciprofloxacin: Daripada Demam Tifoid kepada Demam Paratifoid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

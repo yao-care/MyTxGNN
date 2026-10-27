@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Tropicamide: Daripada Sikloplegia kepada Sindrom Cauda Equina
+## Tropicamide: Daripada Sikloplegia kepada Sindrom Cauda Equina
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

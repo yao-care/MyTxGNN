@@ -31,7 +31,8 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-# Kafein: Daripada Rinitis Alergi kepada Faringitis
+## Kafein: Daripada Rinitis Alergi kepada Faringitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

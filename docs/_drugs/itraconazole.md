@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Itraconazole: Daripada Jangkitan Kulat kepada Pneumocystosis
+## Itraconazole: Daripada Jangkitan Kulat kepada Pneumocystosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

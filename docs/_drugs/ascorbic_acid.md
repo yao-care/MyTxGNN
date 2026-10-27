@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Asid Askorbik: Daripada Kekurangan Vitamin C kepada Penyakit Esofagus
+## Asid Askorbik: Daripada Kekurangan Vitamin C kepada Penyakit Esofagus
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

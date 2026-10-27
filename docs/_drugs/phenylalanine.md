@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-# Phenylalanine: Daripada Tiada Indikasi Berdaftar kepada Kolangitis Sklerosis
+## Phenylalanine: Daripada Tiada Indikasi Berdaftar kepada Kolangitis Sklerosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

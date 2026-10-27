@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Moxonidine: Daripada Hipertensi kepada Hipotrikosis Simpleks Kulit Kepala
+## Moxonidine: Daripada Hipertensi kepada Hipotrikosis Simpleks Kulit Kepala
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

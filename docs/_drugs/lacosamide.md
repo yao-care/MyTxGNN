@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Lacosamide: Daripada Epilepsi kepada Migrain
+## Lacosamide: Daripada Epilepsi kepada Migrain
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Dexamethasone: Daripada Leukemia Limfoblastik Akut kepada Limfoma Sel B Besar Meresap (Diffuse Large B-Cell Lymphoma)
+## Dexamethasone: Daripada Leukemia Limfoblastik Akut kepada Limfoma Sel B Besar Meresap (Diffuse Large B-Cell Lymphoma)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

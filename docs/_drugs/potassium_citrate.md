@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Kalium Sitrat (Potassium Citrate): Cadangan Indikasi Baharu untuk Asidosis Tubulus Renal
+## Kalium Sitrat (Potassium Citrate): Cadangan Indikasi Baharu untuk Asidosis Tubulus Renal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

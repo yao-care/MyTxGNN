@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Vitamin A: Daripada Penggunaan Nutrisi kepada Penyakit Perinatal (Pencegahan Displasia Bronkopulmonari pada Bayi Pramatang)
+## Vitamin A: Daripada Penggunaan Nutrisi kepada Penyakit Perinatal (Pencegahan Displasia Bronkopulmonari pada Bayi Pramatang)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

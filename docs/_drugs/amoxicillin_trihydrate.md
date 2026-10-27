@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amoxicillin Trihydrate: Penilaian Repurposing — Tiada Ramalan Tersedia Pada Masa Ini
+## Amoxicillin Trihydrate: Penilaian Repurposing — Tiada Ramalan Tersedia Pada Masa Ini
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

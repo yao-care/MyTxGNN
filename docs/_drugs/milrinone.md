@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Milrinone: Daripada Kegagalan Jantung Kongestif kepada Alopesia
+## Milrinone: Daripada Kegagalan Jantung Kongestif kepada Alopesia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

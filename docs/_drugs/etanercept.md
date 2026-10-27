@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **6**
 
 </div>
 
-# Etanercept: Daripada Artritis Reumatoid kepada Vaskulitis Reumatoid
+## Etanercept: Daripada Artritis Reumatoid kepada Vaskulitis Reumatoid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

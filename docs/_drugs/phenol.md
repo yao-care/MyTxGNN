@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Fenol: Daripada Dermatitis kepada Acrodermatitis Chronica Atrophicans
+## Fenol: Daripada Dermatitis kepada Acrodermatitis Chronica Atrophicans
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

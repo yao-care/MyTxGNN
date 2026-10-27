@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Chlorthalidone: Daripada Hipertensi kepada Glaukoma Keturunan Primer
+## Chlorthalidone: Daripada Hipertensi kepada Glaukoma Keturunan Primer
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

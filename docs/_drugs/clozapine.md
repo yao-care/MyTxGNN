@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Clozapine: Daripada Indikasi Asal (Tiada Rekod) kepada Gangguan Bipolar Manik
+## Clozapine: Daripada Indikasi Asal (Tiada Rekod) kepada Gangguan Bipolar Manik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

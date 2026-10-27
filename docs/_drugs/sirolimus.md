@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Sirolimus: Daripada Imunosupresan Pemindahan Organ kepada Liposarkoma
+## Sirolimus: Daripada Imunosupresan Pemindahan Organ kepada Liposarkoma
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

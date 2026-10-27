@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Bevacizumab: Daripada Kanser Peritoneum kepada Kanser Peritoneum Primer (Ovari, Tiub Fallopio dan Peritoneum)
+## Bevacizumab: Daripada Kanser Peritoneum kepada Kanser Peritoneum Primer (Ovari, Tiub Fallopio dan Peritoneum)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

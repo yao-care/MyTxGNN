@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Amoxicillin: Daripada Jangkitan Bakteria kepada Hiperamilasemia
+## Amoxicillin: Daripada Jangkitan Bakteria kepada Hiperamilasemia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

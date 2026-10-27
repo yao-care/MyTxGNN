@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Salbutamol: Daripada Indikasi Asal (Tiada Rekod Pendaftaran) kepada Konjunktivitis Papilari
+## Salbutamol: Daripada Indikasi Asal (Tiada Rekod Pendaftaran) kepada Konjunktivitis Papilari
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

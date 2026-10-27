@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Asid Laktik: Daripada Indikasi Asal (Tidak Direkodkan) kepada Koarktasi Aorta Atipikal
+## Asid Laktik: Daripada Indikasi Asal (Tidak Direkodkan) kepada Koarktasi Aorta Atipikal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

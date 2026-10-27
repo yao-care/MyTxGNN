@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Isosorbide Dinitrate: Daripada Vasodilator Nitrat kepada Alopesia
+## Isosorbide Dinitrate: Daripada Vasodilator Nitrat kepada Alopesia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

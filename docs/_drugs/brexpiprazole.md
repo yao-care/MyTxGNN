@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Brexpiprazole: Laporan Penilaian Penggunaan Semula Ubat (Pending Prediction)
+## Brexpiprazole: Laporan Penilaian Penggunaan Semula Ubat (Pending Prediction)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **1**
 
 </div>
 
-# Miconazole: Daripada Jangkitan Kulat Kulit kepada Jerawat (Acne)
+## Miconazole: Daripada Jangkitan Kulat Kulit kepada Jerawat (Acne)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# ALVERINE CITRATE: Penilaian Ubah Guna Ubat — Data Tidak Mencukupi untuk Prediksi
+## ALVERINE CITRATE: Penilaian Ubah Guna Ubat — Data Tidak Mencukupi untuk Prediksi
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

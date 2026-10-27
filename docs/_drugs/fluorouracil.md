@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Fluorouracil: Daripada Indikasi Asal (Tiada Data) kepada Rabdomiosarkoma
+## Fluorouracil: Daripada Indikasi Asal (Tiada Data) kepada Rabdomiosarkoma
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

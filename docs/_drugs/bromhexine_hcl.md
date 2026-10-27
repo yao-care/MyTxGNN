@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bromheksina HCL: Agen Mukolotik — Tiada Indikasi Baru yang Diramalkan
+## Bromheksina HCL: Agen Mukolotik — Tiada Indikasi Baru yang Diramalkan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

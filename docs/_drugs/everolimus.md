@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Everolimus: Daripada Karsinoma Sel Renal kepada Neoplasma Payudara
+## Everolimus: Daripada Karsinoma Sel Renal kepada Neoplasma Payudara
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

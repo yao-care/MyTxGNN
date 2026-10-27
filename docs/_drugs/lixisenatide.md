@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Lixisenatide: Laporan Penilaian Kegunaan Semula (Data Ramalan Belum Tersedia)
+## Lixisenatide: Laporan Penilaian Kegunaan Semula (Data Ramalan Belum Tersedia)
+{: .text-alpha }
 
 ---
 

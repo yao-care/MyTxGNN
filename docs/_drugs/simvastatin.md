@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Simvastatin: Daripada Hiperlipidemia (Hipertrigliseridemia) kepada Strok
+## Simvastatin: Daripada Hiperlipidemia (Hipertrigliseridemia) kepada Strok
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Ferric Carboxymaltose: Daripada Defisiensi Besi kepada Bronkitis
+## Ferric Carboxymaltose: Daripada Defisiensi Besi kepada Bronkitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

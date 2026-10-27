@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Pretomanid: Daripada Tuberkulosis Rintang Ubat kepada Kandidiasis (Ramalan TxGNN)
+## Pretomanid: Daripada Tuberkulosis Rintang Ubat kepada Kandidiasis (Ramalan TxGNN)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

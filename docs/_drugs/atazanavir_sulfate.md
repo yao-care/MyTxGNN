@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Atazanavir Sulfate: Perencat Protease HIV — Analisis Repurposing Menunggu Tindakan
+## Atazanavir Sulfate: Perencat Protease HIV — Analisis Repurposing Menunggu Tindakan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

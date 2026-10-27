@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Beclomethasone Dipropionate: Daripada Asma, Rinitis dan Polip Hidung kepada Asma (Pengesahan Indikasi Sedia Ada)
+## Beclomethasone Dipropionate: Daripada Asma, Rinitis dan Polip Hidung kepada Asma (Pengesahan Indikasi Sedia Ada)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Ipilimumab: Daripada Melanoma Metastatik kepada Choroideremia
+## Ipilimumab: Daripada Melanoma Metastatik kepada Choroideremia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

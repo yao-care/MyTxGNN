@@ -31,7 +31,8 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Bortezomib: Daripada Mieloma Sel Plasma kepada Neoplasma Sel B
+## Bortezomib: Daripada Mieloma Sel Plasma kepada Neoplasma Sel B
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

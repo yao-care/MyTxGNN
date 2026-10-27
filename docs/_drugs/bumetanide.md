@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Bumetanide: Daripada Kegagalan Jantung Kongestif kepada Penyakit Jantung Pulmonari Akut
+## Bumetanide: Daripada Kegagalan Jantung Kongestif kepada Penyakit Jantung Pulmonari Akut
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

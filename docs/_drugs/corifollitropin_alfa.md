@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Corifollitropin Alfa: Daripada Indikasi Asal (Tiada Data) kepada Gastroduodenitis
+## Corifollitropin Alfa: Daripada Indikasi Asal (Tiada Data) kepada Gastroduodenitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

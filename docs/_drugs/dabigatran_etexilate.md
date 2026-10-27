@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Dabigatran Etexilate: Daripada Antikoagulan kepada Kolangitis Sklerosis
+## Dabigatran Etexilate: Daripada Antikoagulan kepada Kolangitis Sklerosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

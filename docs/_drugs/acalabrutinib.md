@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Acalabrutinib: Pakej Bukti Tidak Lengkap – Data Ramalan Belum Tiba
+## Acalabrutinib: Pakej Bukti Tidak Lengkap – Data Ramalan Belum Tiba
+{: .text-alpha }
 
 ---
 

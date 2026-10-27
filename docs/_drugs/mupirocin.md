@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Mupirocin: Daripada Impetigo kepada Empiema Pleura
+## Mupirocin: Daripada Impetigo kepada Empiema Pleura
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

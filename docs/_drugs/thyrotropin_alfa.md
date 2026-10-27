@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Thyrotropin alfa: Daripada Penggunaan Asal kepada Migrain (Migraine Disorder)
+## Thyrotropin alfa: Daripada Penggunaan Asal kepada Migrain (Migraine Disorder)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

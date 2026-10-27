@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Betamethasone: Daripada Penyakit Autoimun dan Keradangan kepada Erythema Multiforme
+## Betamethasone: Daripada Penyakit Autoimun dan Keradangan kepada Erythema Multiforme
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

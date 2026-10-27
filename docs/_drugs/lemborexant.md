@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **1**
 
 </div>
 
-# Lemborexant: Daripada Insomnia kepada Gangguan Tidur (Memulakan dan Mengekalkan Tidur)
+## Lemborexant: Daripada Insomnia kepada Gangguan Tidur (Memulakan dan Mengekalkan Tidur)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

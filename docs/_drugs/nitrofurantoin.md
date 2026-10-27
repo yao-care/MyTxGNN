@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Nitrofurantoin: Daripada Jangkitan Saluran Kencing kepada Artritis Reumatoid
+## Nitrofurantoin: Daripada Jangkitan Saluran Kencing kepada Artritis Reumatoid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

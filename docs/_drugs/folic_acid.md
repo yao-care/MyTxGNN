@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Folic Acid: Daripada Anemia Kekurangan Asid Folik kepada Anemia Mikrositik
+## Folic Acid: Daripada Anemia Kekurangan Asid Folik kepada Anemia Mikrositik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

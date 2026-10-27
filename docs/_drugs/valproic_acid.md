@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Asid Valproik: Daripada Epilepsi kepada Neoplasma Saraf Trigeminal
+## Asid Valproik: Daripada Epilepsi kepada Neoplasma Saraf Trigeminal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

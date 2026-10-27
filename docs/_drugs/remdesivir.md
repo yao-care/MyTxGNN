@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Remdesivir: Daripada Penggunaan Asal kepada Penyakit Endokrin Neoplasia Berganda (Multiple Endocrine Neoplasia)
+## Remdesivir: Daripada Penggunaan Asal kepada Penyakit Endokrin Neoplasia Berganda (Multiple Endocrine Neoplasia)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

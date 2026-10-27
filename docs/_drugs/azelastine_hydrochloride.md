@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Azelastina Hidroklorida: Penilaian Penghematan Ubat — Tiada Indikasi yang Diprediksi Tersedia
+## Azelastina Hidroklorida: Penilaian Penghematan Ubat — Tiada Indikasi yang Diprediksi Tersedia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

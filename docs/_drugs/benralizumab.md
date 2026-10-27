@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Benralizumab: Daripada Pneumonia Eosinofilik kepada Dermatitis
+## Benralizumab: Daripada Pneumonia Eosinofilik kepada Dermatitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

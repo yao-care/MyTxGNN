@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Etil Klorida: Daripada Penggunaan Topikal (Vapocoolant) kepada Katarak Kraniostenosis
+## Etil Klorida: Daripada Penggunaan Topikal (Vapocoolant) kepada Katarak Kraniostenosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Bacitracin: Daripada Penggunaan Antibiotik Topikal kepada Keratokonjunktivitis Epitelium Bertitik (Punctate Epithelial Keratoconjunctivitis)
+## Bacitracin: Daripada Penggunaan Antibiotik Topikal kepada Keratokonjunktivitis Epitelium Bertitik (Punctate Epithelial Keratoconjunctivitis)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Vildagliptin: Daripada Diabetes Mellitus Jenis 2 kepada Sindrom Anggota Kaku Fokal (Focal Stiff Limb Syndrome)
+## Vildagliptin: Daripada Diabetes Mellitus Jenis 2 kepada Sindrom Anggota Kaku Fokal (Focal Stiff Limb Syndrome)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

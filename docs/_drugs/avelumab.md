@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Avelumab: Daripada Karsinoma Neuroendokrin Kutaneus kepada Tumor Berkaitan Virus Herpes Manusia 8 (HHV-8)
+## Avelumab: Daripada Karsinoma Neuroendokrin Kutaneus kepada Tumor Berkaitan Virus Herpes Manusia 8 (HHV-8)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

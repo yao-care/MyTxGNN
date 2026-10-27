@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Isoleucine: Daripada Penggunaan Asal (Tiada Indikasi Berdaftar) kepada Gastroparesis
+## Isoleucine: Daripada Penggunaan Asal (Tiada Indikasi Berdaftar) kepada Gastroparesis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

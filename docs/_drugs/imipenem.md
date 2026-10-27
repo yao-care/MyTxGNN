@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Imipenem: Daripada Jangkitan Bakteria kepada Skleroderma Meresap (Diffuse Scleroderma)
+## Imipenem: Daripada Jangkitan Bakteria kepada Skleroderma Meresap (Diffuse Scleroderma)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

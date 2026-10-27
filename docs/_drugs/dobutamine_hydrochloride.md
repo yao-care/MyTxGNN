@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Dobutamine Hydrochloride: Laporan Penilaian Tujuan Baru Ubat
+## Dobutamine Hydrochloride: Laporan Penilaian Tujuan Baru Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

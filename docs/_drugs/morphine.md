@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Morfin: Daripada Penyakit Cirit-birit kepada Sindrom Sakit Miofasial
+## Morfin: Daripada Penyakit Cirit-birit kepada Sindrom Sakit Miofasial
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

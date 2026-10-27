@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Docusate Sodium: Penilaian Ubah Tujuan Ubat — Tiada Indikasi Baharu yang Diramalkan
+## Docusate Sodium: Penilaian Ubah Tujuan Ubat — Tiada Indikasi Baharu yang Diramalkan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

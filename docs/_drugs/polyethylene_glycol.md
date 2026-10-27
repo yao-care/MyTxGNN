@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Polietilena Glikol: Daripada Sembelit dan Sindrom Mata Kering kepada Eritroderma Iktiosiform Kongenital
+## Polietilena Glikol: Daripada Sembelit dan Sindrom Mata Kering kepada Eritroderma Iktiosiform Kongenital
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Diphenhydramine HCl: Penilaian Penggunaan Semula Ubat — Tiada Indikasi yang Diramalkan
+## Diphenhydramine HCl: Penilaian Penggunaan Semula Ubat — Tiada Indikasi yang Diramalkan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

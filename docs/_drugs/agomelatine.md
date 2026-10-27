@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Agomelatine: Daripada Kemurungan Major kepada Gangguan Kecemasan
+## Agomelatine: Daripada Kemurungan Major kepada Gangguan Kecemasan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

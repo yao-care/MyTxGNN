@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Lonoctocog Alfa: Daripada Hemofilia kepada Penyakit Pseudo-von Willebrand
+## Lonoctocog Alfa: Daripada Hemofilia kepada Penyakit Pseudo-von Willebrand
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

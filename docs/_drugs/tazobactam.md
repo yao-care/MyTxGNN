@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Tazobactam: Daripada Jangkitan Bakteria (Pneumonia Bakteria, Peritonitis, Apendisitis) kepada Pneumonia dan Jangkitan Saluran Kencing
+## Tazobactam: Daripada Jangkitan Bakteria (Pneumonia Bakteria, Peritonitis, Apendisitis) kepada Pneumonia dan Jangkitan Saluran Kencing
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

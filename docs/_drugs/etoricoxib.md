@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Etorikoksib: Daripada Penunjuk Asal yang Tidak Direkodkan kepada Gangguan Migrain
+## Etorikoksib: Daripada Penunjuk Asal yang Tidak Direkodkan kepada Gangguan Migrain
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Carbimazole: Daripada Hipertiroidisme kepada Resistensi Hormon Tiroid (RTH-beta)
+## Carbimazole: Daripada Hipertiroidisme kepada Resistensi Hormon Tiroid (RTH-beta)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
@@ -108,7 +109,8 @@ Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
 ---
 ---
 
-# Carbimazole: Daripada Hipertiroidisme kepada Tirotoksikosis Neonatal
+## Carbimazole: Daripada Hipertiroidisme kepada Tirotoksikosis Neonatal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
@@ -199,7 +201,8 @@ Untuk maklumat keselamatan lain, sila rujuk sisipan bungkusan.
 ---
 ---
 
-# Carbimazole: Daripada Hipertiroidisme kepada Hipertiroksinemia
+## Carbimazole: Daripada Hipertiroidisme kepada Hipertiroksinemia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Silodosin: Daripada Hiperplasia Prostat Benigna kepada Ambras Type Hypertrichosis Universalis Congenita
+## Silodosin: Daripada Hiperplasia Prostat Benigna kepada Ambras Type Hypertrichosis Universalis Congenita
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

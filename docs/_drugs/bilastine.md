@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bilastine: Penilaian Repurposing Ubat — Menunggu Ramalan
+## Bilastine: Penilaian Repurposing Ubat — Menunggu Ramalan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

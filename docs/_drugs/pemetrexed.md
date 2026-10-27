@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Pemetrexed: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Mesotelioma Peritoneum Malignan
+## Pemetrexed: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Mesotelioma Peritoneum Malignan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

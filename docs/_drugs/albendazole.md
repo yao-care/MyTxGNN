@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Albendazole: Daripada Ekinokokosis Sista kepada Ekinokokosis Sista (Indikasi Asal Disahkan) dan Sistiserkosis
+## Albendazole: Daripada Ekinokokosis Sista kepada Ekinokokosis Sista (Indikasi Asal Disahkan) dan Sistiserkosis
+{: .text-alpha }
 
 > **Nota penting:** Semua indikasi yang diramalkan oleh model untuk ubat ini ialah indikasi asalnya (ekinokokosis sista, jangkitan *Echinococcus granulosus* dan sistiserkosis). Laporan ini oleh itu menilai sejauh mana bukti sedia ada menyokong penggunaan sedia ada, dan bukan penemuan indikasi baharu yang sebenar. Skor ramalan TxGNN dalam data yang dikompil ialah 0.0 bagi semua indikasi, jadi tidak boleh ditafsirkan sebagai ukuran keyakinan.
 

@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Siklofosfamida (Cyclophosphamide): Daripada Limfoma dan Kanser Lain kepada Leukemia Mieloid
+## Siklofosfamida (Cyclophosphamide): Daripada Limfoma dan Kanser Lain kepada Leukemia Mieloid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

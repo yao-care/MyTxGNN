@@ -31,7 +31,8 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-# Testosteron: Daripada Hipogonadisme/Kekurangan Hormon Pituitari kepada Hipogonadisme Hipogonadotropik Kongenital
+## Testosteron: Daripada Hipogonadisme/Kekurangan Hormon Pituitari kepada Hipogonadisme Hipogonadotropik Kongenital
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

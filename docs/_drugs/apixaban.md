@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Apixaban: Daripada Pencegahan Tromboembolisme kepada Migrain
+## Apixaban: Daripada Pencegahan Tromboembolisme kepada Migrain
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

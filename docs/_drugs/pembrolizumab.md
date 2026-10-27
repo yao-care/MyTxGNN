@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Pembrolizumab: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Fibromatosis Gingiva
+## Pembrolizumab: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Fibromatosis Gingiva
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Glycine: Daripada Rinitis Alergi kepada Faringitis
+## Glycine: Daripada Rinitis Alergi kepada Faringitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

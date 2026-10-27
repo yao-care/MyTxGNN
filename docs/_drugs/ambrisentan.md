@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Ambrisentan: Daripada Hipertensi Arteri Pulmonari kepada Malformasi Arteriovenus Pulmonari
+## Ambrisentan: Daripada Hipertensi Arteri Pulmonari kepada Malformasi Arteriovenus Pulmonari
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

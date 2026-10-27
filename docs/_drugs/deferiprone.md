@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **9**
 
 </div>
 
-# Deferiprone: Daripada Hemosiderosis/Beta-Talasemia kepada Porfiria Hepatik
+## Deferiprone: Daripada Hemosiderosis/Beta-Talasemia kepada Porfiria Hepatik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

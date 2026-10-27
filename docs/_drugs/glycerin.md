@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Gliserin: Daripada Sembelit kepada Sindrom Cauda Equina
+## Gliserin: Daripada Sembelit kepada Sindrom Cauda Equina
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

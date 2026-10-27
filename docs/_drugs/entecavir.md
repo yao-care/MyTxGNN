@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Entecavir: Daripada Jangkitan Virus Hepatitis B Kronik kepada Jangkitan Virus Hepatitis C Kronik
+## Entecavir: Daripada Jangkitan Virus Hepatitis B Kronik kepada Jangkitan Virus Hepatitis C Kronik
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

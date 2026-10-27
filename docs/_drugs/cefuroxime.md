@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Cefuroxime: Daripada Indikasi Asal kepada Artritis Bakteria
+## Cefuroxime: Daripada Indikasi Asal kepada Artritis Bakteria
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

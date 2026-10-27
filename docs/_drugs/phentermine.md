@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Phentermine: Daripada Gangguan Obesiti kepada Hipervitaminosis
+## Phentermine: Daripada Gangguan Obesiti kepada Hipervitaminosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

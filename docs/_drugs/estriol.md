@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **1**
 
 </div>
 
-# Estriol: Daripada Indikasi Asal (Tiada Data) kepada Amenorea
+## Estriol: Daripada Indikasi Asal (Tiada Data) kepada Amenorea
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

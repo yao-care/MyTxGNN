@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **4**
 
 </div>
 
-# Fimasartan: Daripada Hipertensi kepada Hipertensi Pulmonari Akibat Penyakit Paru-paru dan/atau Hipoksia
+## Fimasartan: Daripada Hipertensi kepada Hipertensi Pulmonari Akibat Penyakit Paru-paru dan/atau Hipoksia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Fluvoxamine: Daripada Penunjuk Asal Tidak Dinyatakan kepada Gangguan Obsesif-Kompulsif (OCD)
+## Fluvoxamine: Daripada Penunjuk Asal Tidak Dinyatakan kepada Gangguan Obsesif-Kompulsif (OCD)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

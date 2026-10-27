@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Ergometrin: Daripada Penggunaan Asal kepada Hipertrikosis (Ramalan Indikasi Baharu)
+## Ergometrin: Daripada Penggunaan Asal kepada Hipertrikosis (Ramalan Indikasi Baharu)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

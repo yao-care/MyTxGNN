@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Anidulafungin: Penilaian Penggunaan Semula Ubat (Tiada Ramalan TxGNN Tersedia Pada Masa Ini)
+## Anidulafungin: Penilaian Penggunaan Semula Ubat (Tiada Ramalan TxGNN Tersedia Pada Masa Ini)
+{: .text-alpha }
 
 ---
 

@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amoxycillin Trihydrate: Penilaian Awal — Tiada Ramalan TxGNN Tersedia
+## Amoxycillin Trihydrate: Penilaian Awal — Tiada Ramalan TxGNN Tersedia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

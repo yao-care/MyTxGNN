@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **3**
 
 </div>
 
-# Vincristine: Daripada Leukemia Limfoblastik Akut dan Limfoma kepada Ganglioneuroblastoma
+## Vincristine: Daripada Leukemia Limfoblastik Akut dan Limfoma kepada Ganglioneuroblastoma
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

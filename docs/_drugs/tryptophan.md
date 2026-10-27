@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **8**
 
 </div>
 
-# Triptofan: Daripada Tiada Indikasi Berdaftar kepada Sindrom Kaki Gelisah (Restless Legs Syndrome)
+## Triptofan: Daripada Tiada Indikasi Berdaftar kepada Sindrom Kaki Gelisah (Restless Legs Syndrome)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Vinorelbine: Daripada Kanser Paru-paru Sel Bukan Kecil kepada Sarkoma Ewing
+## Vinorelbine: Daripada Kanser Paru-paru Sel Bukan Kecil kepada Sarkoma Ewing
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

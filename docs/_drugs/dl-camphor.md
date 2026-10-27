@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# DL-Camphor: Laporan Penilaian Penentuan Semula Ubat
+## DL-Camphor: Laporan Penilaian Penentuan Semula Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

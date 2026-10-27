@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Chlordiazepoxide: Daripada Kebimbangan (Anxiety) kepada Insomnia
+## Chlordiazepoxide: Daripada Kebimbangan (Anxiety) kepada Insomnia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

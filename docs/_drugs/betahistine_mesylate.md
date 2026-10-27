@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Betahistine Mesylate: Penilaian Ubat Guna Semula Pendahuluan (Tiada Indikasi Yang Diramalkan)
+## Betahistine Mesylate: Penilaian Ubat Guna Semula Pendahuluan (Tiada Indikasi Yang Diramalkan)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

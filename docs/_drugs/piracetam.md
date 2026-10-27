@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Piracetam: Penilaian Penyusunan Semula Ubat — Ramalan TxGNN Ditangguhkan
+## Piracetam: Penilaian Penyusunan Semula Ubat — Ramalan TxGNN Ditangguhkan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-# Megestrol Acetate: Daripada Penunjuk Asal yang Tidak Direkodkan kepada Kanser Endometrium
+## Megestrol Acetate: Daripada Penunjuk Asal yang Tidak Direkodkan kepada Kanser Endometrium
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

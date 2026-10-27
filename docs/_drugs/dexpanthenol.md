@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **7**
 
 </div>
 
-# Dexpanthenol: Daripada Ileus Paralitik dan Penyakit Kulit kepada Exanthem (Ruam Kulit)
+## Dexpanthenol: Daripada Ileus Paralitik dan Penyakit Kulit kepada Exanthem (Ruam Kulit)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

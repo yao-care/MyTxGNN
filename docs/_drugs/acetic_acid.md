@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Asid Asetik: Daripada Otitis Externa kepada Post-Bacterial Disorder
+## Asid Asetik: Daripada Otitis Externa kepada Post-Bacterial Disorder
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **1**
 
 </div>
 
-# Olaparib: Daripada Kanser Ovari kepada Karsinoma Payudara Wanita
+## Olaparib: Daripada Kanser Ovari kepada Karsinoma Payudara Wanita
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

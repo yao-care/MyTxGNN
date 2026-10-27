@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Levodopa: Daripada Penyakit Parkinson kepada Gangguan Parkinsonian
+## Levodopa: Daripada Penyakit Parkinson kepada Gangguan Parkinsonian
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

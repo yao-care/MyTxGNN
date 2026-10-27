@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **9**
 
 </div>
 
-# Sulpiride: Daripada Skizofrenia kepada Distrofi Retina (dengan atau tanpa Anomali Ekstraokular)
+## Sulpiride: Daripada Skizofrenia kepada Distrofi Retina (dengan atau tanpa Anomali Ekstraokular)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Kolin Salisilat: Daripada Indikasi Asal yang Tidak Direkodkan kepada Artritis Reumatoid
+## Kolin Salisilat: Daripada Indikasi Asal yang Tidak Direkodkan kepada Artritis Reumatoid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

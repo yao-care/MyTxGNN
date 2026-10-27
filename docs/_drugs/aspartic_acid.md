@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Asid Aspartik: Daripada Kekurangan Kalium kepada Asidosis Tubular Renal
+## Asid Aspartik: Daripada Kekurangan Kalium kepada Asidosis Tubular Renal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

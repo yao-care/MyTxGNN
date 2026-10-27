@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Ambroxol Hydrochloride: Agen Mukolitik — Ramalan TxGNN Tertunda
+## Ambroxol Hydrochloride: Agen Mukolitik — Ramalan TxGNN Tertunda
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

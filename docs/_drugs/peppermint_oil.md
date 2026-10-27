@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Minyak Pudina (Peppermint Oil): Daripada Indikasi Asal yang Tidak Direkodkan kepada Penyakit Kardiovaskular
+## Minyak Pudina (Peppermint Oil): Daripada Indikasi Asal yang Tidak Direkodkan kepada Penyakit Kardiovaskular
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

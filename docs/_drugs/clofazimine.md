@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Clofazimine: Daripada Kusta kepada Pneumocystosis
+## Clofazimine: Daripada Kusta kepada Pneumocystosis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

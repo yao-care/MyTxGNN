@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Piroxicam: Daripada Ubat Antiradang Bukan Steroid (NSAID) kepada Kerentanan Osteoartritis
+## Piroxicam: Daripada Ubat Antiradang Bukan Steroid (NSAID) kepada Kerentanan Osteoartritis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

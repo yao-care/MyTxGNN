@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Zink Asetat: Daripada Tiada Indikasi Berdaftar kepada Retinopati Diabetik Bukan Proliferatif Teruk
+## Zink Asetat: Daripada Tiada Indikasi Berdaftar kepada Retinopati Diabetik Bukan Proliferatif Teruk
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

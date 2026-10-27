@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Hydrochlorothiazide: Daripada Hipertensi kepada Hipertensi (Indikasi Asal Disahkan Semula)
+## Hydrochlorothiazide: Daripada Hipertensi kepada Hipertensi (Indikasi Asal Disahkan Semula)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

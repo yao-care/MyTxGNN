@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Potassium Chloride: Daripada Kekurangan Kalium kepada Kekurangan Kalium (Tiada Pengubahsuaian Indikasi Sebenar)
+## Potassium Chloride: Daripada Kekurangan Kalium kepada Kekurangan Kalium (Tiada Pengubahsuaian Indikasi Sebenar)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

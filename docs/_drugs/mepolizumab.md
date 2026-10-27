@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Mepolizumab: Daripada Pneumonia Eosinofilik kepada Trombositopenia Akibat Pemusnahan Imun
+## Mepolizumab: Daripada Pneumonia Eosinofilik kepada Trombositopenia Akibat Pemusnahan Imun
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

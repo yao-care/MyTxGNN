@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Lisinopril: Daripada Hipertensi dan Infarksi Miokardium kepada Infarksi Miokardium Posterolateral
+## Lisinopril: Daripada Hipertensi dan Infarksi Miokardium kepada Infarksi Miokardium Posterolateral
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

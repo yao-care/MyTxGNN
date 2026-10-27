@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-# Zanubrutinib: Daripada Limfoma Sel Mantel kepada Leukemia Mieloid
+## Zanubrutinib: Daripada Limfoma Sel Mantel kepada Leukemia Mieloid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

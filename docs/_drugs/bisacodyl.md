@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bisacodyl: Laporan Penilaian Pengguna Semula Ubat
+## Bisacodyl: Laporan Penilaian Pengguna Semula Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

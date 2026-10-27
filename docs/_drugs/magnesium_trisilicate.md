@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Magnesium Trisilicate: Daripada Penyakit Ulser Peptik kepada Esofagitis
+## Magnesium Trisilicate: Daripada Penyakit Ulser Peptik kepada Esofagitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

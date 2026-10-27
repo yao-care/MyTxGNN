@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Levofloxacin: Daripada Antibiotik Fluorokuinolon kepada Keratokonjunktivitis Epitelium Punktat
+## Levofloxacin: Daripada Antibiotik Fluorokuinolon kepada Keratokonjunktivitis Epitelium Punktat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

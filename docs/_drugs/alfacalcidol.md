@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-# Alfacalcidol: Daripada Hiperparatiroidisme kepada Hipoparatiroidisme Terpencil Familial Akibat Rembesan PTH Terjejas
+## Alfacalcidol: Daripada Hiperparatiroidisme kepada Hipoparatiroidisme Terpencil Familial Akibat Rembesan PTH Terjejas
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

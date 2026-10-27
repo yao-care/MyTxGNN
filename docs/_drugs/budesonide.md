@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Budesonide: Daripada Penyakit Crohn kepada Asma
+## Budesonide: Daripada Penyakit Crohn kepada Asma
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

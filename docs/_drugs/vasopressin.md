@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-# Vasopresin: Daripada Indikasi Asal Tidak Dinyatakan kepada Kekurangan Protrombin Kongenital
+## Vasopresin: Daripada Indikasi Asal Tidak Dinyatakan kepada Kekurangan Protrombin Kongenital
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

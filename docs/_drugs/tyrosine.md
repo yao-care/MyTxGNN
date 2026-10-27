@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Tirosin: Daripada Penggunaan Asal kepada Sindrom Cauda Equina (Ramalan Model)
+## Tirosin: Daripada Penggunaan Asal kepada Sindrom Cauda Equina (Ramalan Model)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

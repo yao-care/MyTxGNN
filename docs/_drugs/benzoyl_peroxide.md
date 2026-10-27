@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-# Benzoyl Peroksida: Daripada Jerawat dan Dermatitis kepada Keratosis Folikular Terbalik Vulva
+## Benzoyl Peroksida: Daripada Jerawat dan Dermatitis kepada Keratosis Folikular Terbalik Vulva
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

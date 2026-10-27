@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Threonine: Daripada Penggunaan Asal kepada Gastroparesis (Cadangan Model)
+## Threonine: Daripada Penggunaan Asal kepada Gastroparesis (Cadangan Model)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Emicizumab: Daripada Hemofilia kepada Penyakit Pseudo-von Willebrand
+## Emicizumab: Daripada Hemofilia kepada Penyakit Pseudo-von Willebrand
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

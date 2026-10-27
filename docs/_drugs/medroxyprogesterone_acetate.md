@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Medroxyprogesterone Acetate: Daripada Endometriosis kepada Kanser Korpus Uterus
+## Medroxyprogesterone Acetate: Daripada Endometriosis kepada Kanser Korpus Uterus
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

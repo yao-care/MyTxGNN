@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Atovaquone: Penilaian Penggunaan Semula Ubat Tertangguh — Data Tidak Mencukupi, Analisis Lengkap Tidak Dapat Dilakukan
+## Atovaquone: Penilaian Penggunaan Semula Ubat Tertangguh — Data Tidak Mencukupi, Analisis Lengkap Tidak Dapat Dilakukan
+{: .text-alpha }
 
 ---
 

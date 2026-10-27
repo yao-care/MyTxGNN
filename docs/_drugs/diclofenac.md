@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Diclofenac: Daripada Indikasi Asal (Tidak Direkodkan) kepada Osteoartritis
+## Diclofenac: Daripada Indikasi Asal (Tidak Direkodkan) kepada Osteoartritis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

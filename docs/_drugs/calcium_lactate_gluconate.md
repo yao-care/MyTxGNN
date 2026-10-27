@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Kalsium Laktat Glukonat: Daripada Hiperkalsemia kepada Sindrom Kalsium-Alkali (Ramalan)
+## Kalsium Laktat Glukonat: Daripada Hiperkalsemia kepada Sindrom Kalsium-Alkali (Ramalan)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

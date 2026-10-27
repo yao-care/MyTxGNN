@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **7**
 
 </div>
 
-# Salmeterol: Daripada Emfisema Pulmonari/Asma kepada Bronkitis
+## Salmeterol: Daripada Emfisema Pulmonari/Asma kepada Bronkitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

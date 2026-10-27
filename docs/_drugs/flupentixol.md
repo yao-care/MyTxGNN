@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-# Flupentixol: Daripada Skizofrenia kepada Distrofi Retina (dengan atau tanpa Anomali Ekstraokular)
+## Flupentixol: Daripada Skizofrenia kepada Distrofi Retina (dengan atau tanpa Anomali Ekstraokular)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Baloxavir Marboxil: Laporan Penilaian Penggunaan Kembali Ubat
+## Baloxavir Marboxil: Laporan Penilaian Penggunaan Kembali Ubat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

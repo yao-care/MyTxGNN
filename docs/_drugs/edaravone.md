@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Edaravone: Daripada Strok Iskemia dan Sklerosis Lateral Amiotrofik kepada Kekurangan Kofaktor Heparin 2
+## Edaravone: Daripada Strok Iskemia dan Sklerosis Lateral Amiotrofik kepada Kekurangan Kofaktor Heparin 2
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

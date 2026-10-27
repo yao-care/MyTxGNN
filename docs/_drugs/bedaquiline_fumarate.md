@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Bedaquiline Fumarate: Penilaian Penggunaan Semula Ubat — Tiada Indikasi Baru yang Diramalkan
+## Bedaquiline Fumarate: Penilaian Penggunaan Semula Ubat — Tiada Indikasi Baru yang Diramalkan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

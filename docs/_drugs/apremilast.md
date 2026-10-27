@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Apremilast: Penilaian Penggunaan Semula Ubat — Ramalan TxGNN Ditangguhkan
+## Apremilast: Penilaian Penggunaan Semula Ubat — Ramalan TxGNN Ditangguhkan
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Zanamivir: Daripada Influenza kepada Pyelonephritis
+## Zanamivir: Daripada Influenza kepada Pyelonephritis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
@@ -111,7 +112,8 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 ---
 
-# Zanamivir: Daripada Influenza kepada Gangguan Metabolisme Tirosin
+## Zanamivir: Daripada Influenza kepada Gangguan Metabolisme Tirosin
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

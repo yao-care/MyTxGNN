@@ -33,7 +33,8 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-# Tamoxifen: Daripada Terapi Endokrin Kanser Payudara kepada Karsinoma Payudara Wanita
+## Tamoxifen: Daripada Terapi Endokrin Kanser Payudara kepada Karsinoma Payudara Wanita
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

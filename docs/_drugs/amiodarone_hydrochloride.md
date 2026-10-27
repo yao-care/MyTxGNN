@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amiodarone Hydrochloride: Penilaian Pemanfaatan Semula Ubat — Menunggu Ramalan TxGNN
+## Amiodarone Hydrochloride: Penilaian Pemanfaatan Semula Ubat — Menunggu Ramalan TxGNN
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

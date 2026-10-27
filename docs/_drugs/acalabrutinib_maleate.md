@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# ACALABRUTINIB MALEATE: Penilaian Penggunaan Kembali — Data Tidak Mencukupi untuk Melengkapi Penilaian Penuh
+## ACALABRUTINIB MALEATE: Penilaian Penggunaan Kembali — Data Tidak Mencukupi untuk Melengkapi Penilaian Penuh
+{: .text-alpha }
 
 ---
 

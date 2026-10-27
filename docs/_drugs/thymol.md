@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Thymol: Daripada Indikasi Asal yang Tidak Direkodkan kepada Aneurisme Septum Interventrikular
+## Thymol: Daripada Indikasi Asal yang Tidak Direkodkan kepada Aneurisme Septum Interventrikular
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

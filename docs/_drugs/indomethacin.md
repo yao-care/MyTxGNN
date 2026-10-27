@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Indomethacin: Daripada Indikasi Asal (Tidak Direkodkan) kepada Artritis Reumatoid
+## Indomethacin: Daripada Indikasi Asal (Tidak Direkodkan) kepada Artritis Reumatoid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

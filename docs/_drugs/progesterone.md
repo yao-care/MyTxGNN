@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Progesteron: Daripada Endometriosis dan Kanser Endometrium kepada Kanser Korpus Uterus
+## Progesteron: Daripada Endometriosis dan Kanser Endometrium kepada Kanser Korpus Uterus
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

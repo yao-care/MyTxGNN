@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Mycophenolate Mofetil: Daripada Penggunaan Asal kepada Jangkitan HIV
+## Mycophenolate Mofetil: Daripada Penggunaan Asal kepada Jangkitan HIV
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Apalutamide: Inhibitor Reseptor Androgen — Data Tidak Mencukupi untuk Penilaian Repurposing
+## Apalutamide: Inhibitor Reseptor Androgen — Data Tidak Mencukupi untuk Penilaian Repurposing
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

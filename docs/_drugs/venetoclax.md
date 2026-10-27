@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Venetoclax: Daripada Leukemia Limfoblastik Akut / Sindrom Richter kepada Leukemia Limfositik Kronik/Limfoma Limfositik Kecil Pra-Pusat Germinal
+## Venetoclax: Daripada Leukemia Limfoblastik Akut / Sindrom Richter kepada Leukemia Limfositik Kronik/Limfoma Limfositik Kecil Pra-Pusat Germinal
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

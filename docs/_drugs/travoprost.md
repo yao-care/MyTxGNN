@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Travoprost: Daripada Glaukoma Sudut Terbuka kepada Kalsifilaksis Viseral
+## Travoprost: Daripada Glaukoma Sudut Terbuka kepada Kalsifilaksis Viseral
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

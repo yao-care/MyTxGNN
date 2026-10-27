@@ -33,7 +33,8 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-# Topotecan: Daripada Indikasi Asal kepada Karsinoma Payudara Wanita
+## Topotecan: Daripada Indikasi Asal kepada Karsinoma Payudara Wanita
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

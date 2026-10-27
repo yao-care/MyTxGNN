@@ -31,7 +31,8 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-# Acetaminophen: Daripada Rinitis Alergik/Sakit Kepala kepada Migrain dengan Aura Batang Otak
+## Acetaminophen: Daripada Rinitis Alergik/Sakit Kepala kepada Migrain dengan Aura Batang Otak
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

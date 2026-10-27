@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Tolvaptan: Daripada Hiponatremia kepada Penyakit Buah Pinggang Polisistik 3 (dengan atau tanpa Penyakit Hati Polisistik)
+## Tolvaptan: Daripada Hiponatremia kepada Penyakit Buah Pinggang Polisistik 3 (dengan atau tanpa Penyakit Hati Polisistik)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Sulodexide: Daripada Indikasi Asal (Tiada Data) kepada Glanzmann Thrombasthenia
+## Sulodexide: Daripada Indikasi Asal (Tiada Data) kepada Glanzmann Thrombasthenia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

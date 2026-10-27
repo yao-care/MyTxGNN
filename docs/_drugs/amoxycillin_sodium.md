@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# Amoxycillin Sodium: Kajian Status Kawal Selia — Tiada Ramalan Ubah Tujuan Rawatan Tersedia
+## Amoxycillin Sodium: Kajian Status Kawal Selia — Tiada Ramalan Ubah Tujuan Rawatan Tersedia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Pentamidine: Daripada Pneumocystosis kepada Keratokonjunktivitis Epitelium Berpunktat
+## Pentamidine: Daripada Pneumocystosis kepada Keratokonjunktivitis Epitelium Berpunktat
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

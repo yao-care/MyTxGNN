@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Serine: Daripada Tiada Indikasi Berdaftar kepada Miopati Visera Familial
+## Serine: Daripada Tiada Indikasi Berdaftar kepada Miopati Visera Familial
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

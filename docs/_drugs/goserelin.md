@@ -33,7 +33,8 @@ Tahap bukti: **L2** | Indikasi diramal: **3**
 
 </div>
 
-# Goserelin: Daripada Endometriosis kepada Amenorea
+## Goserelin: Daripada Endometriosis kepada Amenorea
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

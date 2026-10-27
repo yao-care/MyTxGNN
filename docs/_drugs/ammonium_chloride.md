@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Ammonium Chloride: Daripada Faringitis kepada Faringitis (Bukan Pengubahan Tujuan Sebenar)
+## Ammonium Chloride: Daripada Faringitis kepada Faringitis (Bukan Pengubahan Tujuan Sebenar)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

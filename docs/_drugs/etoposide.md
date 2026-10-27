@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-# Etoposide: Daripada Indikasi Asal (Tidak Direkodkan) kepada Adenokarsinoma Janin Berdiferensiasi Baik pada Paru-paru
+## Etoposide: Daripada Indikasi Asal (Tidak Direkodkan) kepada Adenokarsinoma Janin Berdiferensiasi Baik pada Paru-paru
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

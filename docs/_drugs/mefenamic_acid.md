@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-# Asid Mefenamik: Daripada Ubat Antiradang Bukan Steroid (NSAID) kepada Artritis Reumatoid
+## Asid Mefenamik: Daripada Ubat Antiradang Bukan Steroid (NSAID) kepada Artritis Reumatoid
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

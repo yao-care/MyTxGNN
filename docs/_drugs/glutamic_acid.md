@@ -33,7 +33,8 @@ Tahap bukti: **L4** | Indikasi diramal: **4**
 
 </div>
 
-# Asid Glutamik: Daripada Penggunaan Asal kepada Osteoporosis Pascamenopaus
+## Asid Glutamik: Daripada Penggunaan Asal kepada Osteoporosis Pascamenopaus
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

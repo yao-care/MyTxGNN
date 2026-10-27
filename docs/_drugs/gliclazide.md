@@ -31,7 +31,8 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-# Gliclazide: Daripada Diabetes Mellitus Jenis 2 kepada Diabetes Mellitus Jenis 2 (Tiada Petunjuk Baharu yang Sebenar)
+## Gliclazide: Daripada Diabetes Mellitus Jenis 2 kepada Diabetes Mellitus Jenis 2 (Tiada Petunjuk Baharu yang Sebenar)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

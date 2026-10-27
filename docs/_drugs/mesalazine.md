@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-# Mesalazine: Daripada Kolitis Ulseratif kepada Osteoartritis
+## Mesalazine: Daripada Kolitis Ulseratif kepada Osteoartritis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

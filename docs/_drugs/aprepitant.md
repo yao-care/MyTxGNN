@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-# Aprepitant: Daripada Indikasi Asal kepada Sindrom Antidiuresis Tidak Wajar Nefrogenik (Ramalan)
+## Aprepitant: Daripada Indikasi Asal kepada Sindrom Antidiuresis Tidak Wajar Nefrogenik (Ramalan)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

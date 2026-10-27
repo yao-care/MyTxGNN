@@ -32,7 +32,8 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-# LIDOCAINE HCL: Anestetik Tempatan / Antiaritmik — Tiada Ramalan Ubat Semula Guna TxGNN Dijana
+## LIDOCAINE HCL: Anestetik Tempatan / Antiaritmik — Tiada Ramalan Ubat Semula Guna TxGNN Dijana
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

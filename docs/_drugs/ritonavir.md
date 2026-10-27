@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-# Ritonavir: Daripada Jangkitan HIV/AIDS kepada Jangkitan Virus Imunodefisiensi Feline (Feline AIDS)
+## Ritonavir: Daripada Jangkitan HIV/AIDS kepada Jangkitan Virus Imunodefisiensi Feline (Feline AIDS)
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

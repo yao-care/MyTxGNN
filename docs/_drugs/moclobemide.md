@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-# Moclobemide: Daripada Gangguan Kebimbangan kepada Agorafobia
+## Moclobemide: Daripada Gangguan Kebimbangan kepada Agorafobia
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

@@ -31,7 +31,8 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-# Cimetidine: Daripada Penyakit Ulser Gastrik kepada Hiperinsulinisme
+## Cimetidine: Daripada Penyakit Ulser Gastrik kepada Hiperinsulinisme
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 

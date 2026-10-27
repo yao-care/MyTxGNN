@@ -33,7 +33,8 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-# Kalium Bikarbonat: Daripada Penyakit Ulser Peptik kepada Gastroduodenitis
+## Kalium Bikarbonat: Daripada Penyakit Ulser Peptik kepada Gastroduodenitis
+{: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
