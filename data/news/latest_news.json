@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-27T01:07:29.886127",
+  "fetched": "2026-10-27T05:57:38.023563",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,26 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Dzulkefly ‘Commits’ To Forming Health Service Commission Without Power To Create Positions Or Set Emoluments",
+      "url": "https://codeblue.galencentre.org/2026/10/dzulkefly-commits-to-forming-health-service-commission-without-power-to-create-positions-or-set-emoluments/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-27T04:16:34",
+      "summary": "Dr Dzul commits to forming a Health Service Commission (SPK), but says it won't be able to create positions, devise a retirement scheme, or set emoluments. SPK will only have appointment or disciplinary powers under Article 144 of the Federal Constitution. The post Dzulkefly ‘Commits’ To Forming Health Service Commission Without Power To Create Positions Or Set Emoluments appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Penang Hits Ambulance Response Target With Community Responders",
+      "url": "https://codeblue.galencentre.org/2026/10/penang-hits-ambulance-response-target-with-community-responders/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-27T02:00:00",
+      "summary": "State exco Daniel Gooi says Penang is the only state that has achieved the national ambulance response target, due to community responders. About 58% of its Priority 1 emergency calls this year were responded to within 15 minutes, surpassing the 50% KPI. The post Penang Hits Ambulance Response Target With Community Responders appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "UMMC Expands Free Dengue Vaccination And Health Screening For Children In Klang Valley",
       "url": "https://codeblue.galencentre.org/2026/10/ummc-expands-free-dengue-vaccination-and-health-screening-for-children-in-klang-valley/",
@@ -94,37 +112,36 @@
       ]
     },
     {
-      "title": "Why Malaysia Lost Me To NHS Scotland — Scrub Nurse With HIV",
-      "url": "https://codeblue.galencentre.org/2026/10/why-malaysia-lost-me-to-nhs-scotland-scrub-nurse-with-hiv/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-23T03:30:00",
-      "summary": "In Malaysia, I experienced job discrimination as a scrub nurse living with HIV from private hospitals and MOH. But NHS Scotland hired me, allowing me to work in OT. Under UK law and WHO guidelines, my HIV status is treated as a protected medical condition. The post Why Malaysia Lost Me To NHS Scotland — Scrub Nurse With HIV appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Suhakam, Advocates Demand Release Of Independent Committee’s Report On 2016 HSAJB Fire Tragedy",
-      "url": "https://codeblue.galencentre.org/2026/10/suhakam-advocates-demand-release-of-independent-committees-report-on-2016-hsajb-fire-tragedy/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-23T02:00:00",
-      "summary": "Ahead of the 10th anniversary of the HSAJB fire tragedy that killed 6 patients, the worst hospital fire in history, Suhakam chair Hishamudin Yunus, Dr Milton Lum, and the Galen Centre demand that MOH publish the independent committee's report on the fire. The post Suhakam, Advocates Demand Release Of Independent Committee’s Report On 2016 HSAJB Fire Tragedy appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "patient",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Bukit Aman seizes RM765,750 in unregistered health products, suspected counterfeit goods in KL raid",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/27/bukit-aman-seizes-rm765750-in-unregistered-health-products-suspected-counterfeit-goods-in-kl-raid/240715",
+      "title": "Fake hospital calls, bogus investments and loan scams: Police arrest 36 in Perak",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/27/fake-hospital-calls-bogus-investments-and-loan-scams-police-arrest-36-in-perak/240759",
       "source": "Malay Mail",
-      "published": "2026-10-27T00:49:36",
-      "summary": "KUALA LUMPUR, Oct 27 —The Wildlife Crime Bureau/Special Investigation Intelligence (WCB/PSK) unit of Bukit A...",
+      "published": "2026-10-27T04:07:52",
+      "summary": "IPOH, Oct 27 — Perak police have busted three scam syndicates targeting Malaysian, Chinese and Japanese victims in...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Fresh air in Malaysia again: Only Samalaju in Sarawak still unhealthy after months of haze",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/27/fresher-air-in-malaysia-again-only-samalaju-in-sarawak-still-unhealthy-after-months-of-haze/240745",
+      "source": "Malay Mail",
+      "published": "2026-10-27T01:57:37",
+      "summary": "KUALA LUMPUR, Oct 27 — Malaysia is breathing easier today, with only one place in the country still recording unhe...",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "In Dewan Rakyat today: Health commission, hospital overcrowding and disaster risk mapping among key issues",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/27/in-dewan-rakyat-today-health-commission-hospital-overcrowding-and-disaster-risk-mapping-among-key-issues/240731",
+      "source": "Malay Mail",
+      "published": "2026-10-27T01:16:17",
+      "summary": "KUALA LUMPUR, Oct 27 — The proposed Health Services Commission, overcrowding at government hospitals and mea...",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
       ]
     }
   ]
