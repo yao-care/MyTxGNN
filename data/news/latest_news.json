@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-27T19:16:58.314194",
+  "fetched": "2026-10-27T23:28:51.817105",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "title": "A Mini-Stroke Is An Emergency, Not A Reprieve — Dr Andrew Choong",
@@ -137,18 +137,6 @@
       "summary": "KOTA TINGGI, Oct 27 — Police arrested a 41-year-old man suspected of hacking a settler to death with an axe...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Nearly 72pc of major hospitals record bed waiting times under eight hours, says Dzulkefly",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/27/nearly-72pc-of-major-hospitals-record-bed-waiting-times-under-eight-hours-says-dzulkefly/240789",
-      "source": "Malay Mail",
-      "published": "2026-10-27T06:37:13",
-      "summary": "KUALA LUMPUR, Oct 27 — The Ministry of Health (MOH) is stepping up short- and long-term measures to ease ove...",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "hospital"
       ]
     }
   ]
