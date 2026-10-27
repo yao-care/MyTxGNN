@@ -28,7 +28,7 @@ Memanfaatkan AI untuk menemui penggunaan terapeutik baharu bagi ubat sedia ada. 
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; margin: 1.5rem 0;">
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; text-align: center;">
-    <div style="font-size: 2.5rem; font-weight: 700; color: #2E7D32;">508</div>
+    <div style="font-size: 2.5rem; font-weight: 700; color: #2E7D32;">{{ site.data.site_stats.drugs }}</div>
     <div style="color: #666;">Ubat Dianalisis</div>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; text-align: center;">
@@ -86,7 +86,7 @@ MyTxGNN menggunakan model Pembelajaran Mendalam (DL) TxGNN untuk meramal indikas
 
 | Bahagian | Penerangan | Pautan |
 |----------|------------|--------|
-| **Senarai Ubat** | Layari semua 508 ubat yang dianalisis | [Lihat Ubat]({{ '/drugs' | relative_url }}) |
+| **Senarai Ubat** | Layari semua {{ site.data.site_stats.drugs }} ubat yang dianalisis | [Lihat Ubat]({{ '/drugs' | relative_url }}) |
 | **Metodologi** | Pelajari pendekatan ramalan kami | [Baca Lagi]({{ '/methodology' | relative_url }}) |
 | **Sumber Data** | Terokai sumber data kami | [Lihat Sumber]({{ '/sources' | relative_url }}) |
 | **Tentang** | Ketahui tentang projek ini | [Tentang Kami]({{ '/about' | relative_url }}) |

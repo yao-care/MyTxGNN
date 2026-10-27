@@ -19,7 +19,7 @@ permalink: /smart/project-intro/
 
 | Metric | Value |
 |--------|-------|
-| **Drugs Analyzed** | 508 |
+| **Drugs Analyzed** | {{ site.data.drug_stats.total_drugs }} |
 | **DL Scored Pairs** | 9,968,985 |
 | **Listed on site (score ≥0.99, up to 10 per drug)** | {{ site.data.site_stats.indications }} |
 | **Unique Diseases** | 17,041 |

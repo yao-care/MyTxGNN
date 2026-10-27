@@ -19,7 +19,7 @@ Ramalan penggunaan semula ubat untuk ubat yang diluluskan NPRA (Malaysia) menggu
 
 | Item | Bilangan |
 |------|------|
-| **Laporan ubat** | 508 |
+| **Laporan ubat** | 606 |
 | **Jumlah ramalan** | 18,287,982 |
 | **Ubat unik** | 1,000 |
 | **Petunjuk unik** | 17,041 |

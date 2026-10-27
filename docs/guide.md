@@ -17,7 +17,7 @@ Learn how to effectively use MyTxGNN for drug repurposing research.
 
 ### What Can You Do with MyTxGNN?
 
-1. **Browse Drug Predictions**: View predicted new indications for 508 NPRA-approved drugs
+1. **Browse Drug Predictions**: View predicted new indications for {{ site.data.drug_stats.total_drugs }} NPRA-approved drugs
 2. **Access FHIR API**: Integrate predictions into your clinical systems
 3. **Download Data**: Get prediction data in CSV format for analysis
 4. **Monitor News**: Track health news related to drug repurposing in Malaysia

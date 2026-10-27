@@ -386,7 +386,7 @@ window.TXGNN_ANALYTICS = {
       "@id": "{{ page.url | absolute_url }}#itemlist",
       "name": "Laporan Bukti Ubat MyTxGNN",
       "description": "Laporan bukti penggunaan semula ubat bagi ubat yang diluluskan di Malaysia",
-      "numberOfItems": {{ site.drugs.size }},
+      "numberOfItems": {{ site.data.drug_stats.total_drugs }},
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
     },
     {
