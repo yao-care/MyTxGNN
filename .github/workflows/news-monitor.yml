@@ -47,6 +47,7 @@ jobs:
           [ -d data/news ] && git add data/news/*.json 2>/dev/null || true
           [ -d docs/_news ] && git add docs/_news/
           [ -f docs/data/news-index.json ] && git add docs/data/news-index.json || true
+          [ -f docs/_data/drug_news.json ] && git add docs/_data/drug_news.json || true
 
           if git diff --staged --quiet; then
             echo "No news updates"
