@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-27T05:57:38.023563",
+  "fetched": "2026-10-27T07:17:45.481234",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
+    {
+      "title": "A Mini-Stroke Is An Emergency, Not A Reprieve — Dr Andrew Choong",
+      "url": "https://codeblue.galencentre.org/2026/10/a-mini-stroke-is-an-emergency-not-a-reprieve-dr-andrew-choong/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-27T06:00:00",
+      "summary": "The mini-stroke offers a valuable opportunity: a warning that arrives before lasting harm, with a window of days in which established treatment can lower the risk of what may follow. The post A Mini-Stroke Is An Emergency, Not A Reprieve — Dr Andrew Choong appeared first on CodeBlue .",
+      "keywords_matched": [
+        "treatment"
+      ]
+    },
     {
       "title": "Dzulkefly ‘Commits’ To Forming Health Service Commission Without Power To Create Positions Or Set Emoluments",
       "url": "https://codeblue.galencentre.org/2026/10/dzulkefly-commits-to-forming-health-service-commission-without-power-to-create-positions-or-set-emoluments/",
@@ -100,15 +110,15 @@
       "keywords_matched": []
     },
     {
-      "title": "The Dangerous Illusion Of Salon-Grade Regenerative Medicine In Malaysia — Dr Ang Seah Tan",
-      "url": "https://codeblue.galencentre.org/2026/10/the-dangerous-illusion-of-salon-grade-regenerative-medicine-in-malaysia-dr-ang-seah-tan/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-23T05:30:00",
-      "summary": "By demanding transparency, refusing unlicensed providers, and verifying true clinical expertise, we can dismantle the dangerous illusion of salon-grade medicine and protect the health of our communities from the outside in. The post The Dangerous Illusion Of Salon-Grade Regenerative Medicine In Malaysia — Dr Ang Seah Tan appeared first on CodeBlue .",
+      "title": "Nearly 72pc of major hospitals record bed waiting times under eight hours, says Dzulkefly",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/27/nearly-72pc-of-major-hospitals-record-bed-waiting-times-under-eight-hours-says-dzulkefly/240789",
+      "source": "Malay Mail",
+      "published": "2026-10-27T06:37:13",
+      "summary": "KUALA LUMPUR, Oct 27 — The Ministry of Health (MOH) is stepping up short- and long-term measures to ease ove...",
       "keywords_matched": [
         "health",
-        "medicine",
-        "clinical"
+        "hospital",
+        "hospital"
       ]
     },
     {
@@ -118,28 +128,6 @@
       "published": "2026-10-27T04:07:52",
       "summary": "IPOH, Oct 27 — Perak police have busted three scam syndicates targeting Malaysian, Chinese and Japanese victims in...",
       "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Fresh air in Malaysia again: Only Samalaju in Sarawak still unhealthy after months of haze",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/27/fresher-air-in-malaysia-again-only-samalaju-in-sarawak-still-unhealthy-after-months-of-haze/240745",
-      "source": "Malay Mail",
-      "published": "2026-10-27T01:57:37",
-      "summary": "KUALA LUMPUR, Oct 27 — Malaysia is breathing easier today, with only one place in the country still recording unhe...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "In Dewan Rakyat today: Health commission, hospital overcrowding and disaster risk mapping among key issues",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/27/in-dewan-rakyat-today-health-commission-hospital-overcrowding-and-disaster-risk-mapping-among-key-issues/240731",
-      "source": "Malay Mail",
-      "published": "2026-10-27T01:16:17",
-      "summary": "KUALA LUMPUR, Oct 27 — The proposed Health Services Commission, overcrowding at government hospitals and mea...",
-      "keywords_matched": [
-        "health",
         "hospital",
         "hospital"
       ]
