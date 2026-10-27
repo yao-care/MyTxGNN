@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-27T07:17:45.481234",
+  "fetched": "2026-10-27T13:57:28.257207",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 14,
   "items": [
     {
       "title": "A Mini-Stroke Is An Emergency, Not A Reprieve — Dr Andrew Choong",
@@ -110,6 +110,36 @@
       "keywords_matched": []
     },
     {
+      "title": "After five years and 38 witnesses, prosecution closes case in Lim Guan Eng trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/27/after-five-years-and-38-witnesses-prosecution-closes-case-in-lim-guan-eng-trial/240829",
+      "source": "Malay Mail",
+      "published": "2026-10-27T11:38:17",
+      "summary": "KUALA LUMPUR, Oct 27 — After more than five years of proceedings and calling 38 witnesses, the prosecution today c...",
+      "keywords_matched": [
+        "trial"
+      ]
+    },
+    {
+      "title": "Dzulkefly: Health Service Commission Bill to be tabled by end of 15th Parliament if approved",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/27/dzulkefly-health-service-commission-bill-to-be-tabled-by-end-of-15th-parliament-if-approved/240804",
+      "source": "Malay Mail",
+      "published": "2026-10-27T08:36:31",
+      "summary": "KUALA LUMPUR, Oct 27 — The Ministry of Health (MOH) aims to obtain a policy decision from the Cabinet on the...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Johor man with six previous criminal and drug-related offences arrested over axe murder of 68-year-old Felda settler",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/27/johor-man-with-six-previous-criminal-and-drug-related-offences-arrested-over-axe-murder-of-68-year-old-felda-settler/240800",
+      "source": "Malay Mail",
+      "published": "2026-10-27T08:13:54",
+      "summary": "KOTA TINGGI, Oct 27 — Police arrested a 41-year-old man suspected of hacking a settler to death with an axe...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
       "title": "Nearly 72pc of major hospitals record bed waiting times under eight hours, says Dzulkefly",
       "url": "https://www.malaymail.com/news/malaysia/2026/10/27/nearly-72pc-of-major-hospitals-record-bed-waiting-times-under-eight-hours-says-dzulkefly/240789",
       "source": "Malay Mail",
@@ -117,17 +147,6 @@
       "summary": "KUALA LUMPUR, Oct 27 — The Ministry of Health (MOH) is stepping up short- and long-term measures to ease ove...",
       "keywords_matched": [
         "health",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Fake hospital calls, bogus investments and loan scams: Police arrest 36 in Perak",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/27/fake-hospital-calls-bogus-investments-and-loan-scams-police-arrest-36-in-perak/240759",
-      "source": "Malay Mail",
-      "published": "2026-10-27T04:07:52",
-      "summary": "IPOH, Oct 27 — Perak police have busted three scam syndicates targeting Malaysian, Chinese and Japanese victims in...",
-      "keywords_matched": [
         "hospital",
         "hospital"
       ]
