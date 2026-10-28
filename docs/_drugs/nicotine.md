@@ -7,14 +7,14 @@ drugbank_id: "DB00184"
 drug_name: "Nicotine"
 kg_predictions: 12
 dl_predictions: 0
-evidence_level: L5
-indication_count: 0
 brands: []
 permalink: /drugs/nicotine/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-03-30
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Nicotine
@@ -23,61 +23,12 @@ predicted_indications: []
 
 | Atribut | Nilai |
 |-----------|-------|
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 16) |
+| Bilangan Pendaftaran | 16 (sah: 16) |
 | **Nama Ubat** | Nicotine |
 | **ID DrugBank** | [DB00184](https://go.drugbank.com/drugs/DB00184) |
 | **Ramalan KG** | 12 |
 | **Ramalan DL (≥0.7)** | 0 |
-| **Tahap Bukti** | L5 |
 | **Status NPRA** | Approved |
 
 ---
-
-## Contoh Nama Jenama di Malaysia
-
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **12** ramalan model TxGNN (pembelajaran mendalam) dan **0** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| beriberi | KG |
-| pellagra | KG |
-| nicotine dependence | KG |
-| beriberi | KG |
-| pellagra | KG |
-| nicotine dependence | KG |
-| beriberi | KG |
-| pellagra | KG |
-| nicotine dependence | KG |
-| beriberi | KG |
-
----
-
-## Sumber FHIR
-
-Akses data ubat melalui API FHIR R4:
-
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00184`](/fhir/MedicationKnowledge/DB00184.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00184) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Nicotine) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Nicotine) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
-</div>

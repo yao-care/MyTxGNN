@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "GUAIACOL"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Guaiacol: indikasi baharu diramal Penyakit rongga hidung (tahap bukti L5). Indikasi asal: Faringitis, selesema, rinitis…"
 ---
 

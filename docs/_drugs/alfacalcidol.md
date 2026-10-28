@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ALFACALCIDOL"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Alfacalcidol: indikasi baharu diramal Konodisplasia kraniofasial (tahap bukti L5). Indikasi asal: Hiperparatiroidisme, osteitis fibrosa…"
 ---
 

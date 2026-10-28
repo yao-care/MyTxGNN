@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Fenofibrate"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Fenofibrate: indikasi baharu diramal Kekurangan protein pemindahan ester kolesterol (CETP deficiency) (tahap bukti L5). Indikasi asal: Hipertrigliseridemia dan hiperlipidemia (hubungan yang direkodka…"
 ---
 

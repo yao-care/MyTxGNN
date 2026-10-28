@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 609
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "PYRAZINAMIDE"
 predicted_indications: ["infectious otitis media", "middle ear disease", "otosalpingitis", "chronic otitis media", "suppurative otitis media", "non-suppurative otitis media", "middle ear cholesterol granuloma", "allergic otitis media", "Lyme disease", "infectious otitis interna"]
 description: "Pyrazinamide: indikasi baharu diramal Otitis media berjangkit (infectious otitis media) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

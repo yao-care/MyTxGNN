@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 721
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "VELPATASVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Velpatasvir: indikasi baharu diramal Jangkitan virus hepatitis B (hepatitis B virus infection) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"

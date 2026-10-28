@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EFAVIRENZ"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Efavirenz: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

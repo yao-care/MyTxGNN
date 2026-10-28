@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ACARBOSE"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Acarbose: indikasi baharu diramal Sindrom anggota kaku fokal (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2 (hubungan yang direkodkan dalam graf penget…"
 ---
 

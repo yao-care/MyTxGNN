@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Olanzapine: indikasi baharu diramal Benign paroxysmal torticollis of infancy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

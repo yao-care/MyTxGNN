@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "sickle cell-beta-thalassemia disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin c disease syndrome"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Fluorouracil: indikasi baharu diramal Rhabdomiosarkoma embrional botrioid pada vagina (tahap bukti L5). Indikasi asal: Tiada teks indikasi yang diluluskan dalam data lesen tempatan"
 ---
 

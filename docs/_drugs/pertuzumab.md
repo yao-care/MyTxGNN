@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Pertuzumab"
 predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Pertuzumab: indikasi baharu diramal Ectomesenchymoma (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data lesen"
 ---
 

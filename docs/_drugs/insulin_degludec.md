@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 418
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "INSULIN DEGLUDEC"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome"]
 description: "Insulin Degludec: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

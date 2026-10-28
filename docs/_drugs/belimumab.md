@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "BELIMUMAB"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "severe nonproliferative diabetic retinopathy", "autosomal dominant macrothrombocytopenia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Belimumab: indikasi baharu diramal Gangguan pembebasan primer platelet (primary release disorder of platelets) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

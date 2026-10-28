@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 268
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "desvenlafaxine"
 predicted_indications: ["obsessive-compulsive disorder", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Desvenlafaxine: indikasi baharu diramal Gangguan obsesif-kompulsif (obsessive-compulsive disorder) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"

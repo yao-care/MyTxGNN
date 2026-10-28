@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 318
 evidence_level: L1
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Eltrombopag: indikasi baharu diramal Penyakit berjangkit HIV (tahap bukti L5). Indikasi asal: Trombositopenia autoimun"
 monitor_inn: "eltrombopag"
 predicted_indications: ["HIV infectious disease"]

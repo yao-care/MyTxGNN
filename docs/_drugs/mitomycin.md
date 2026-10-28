@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 509
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "mitomycin"
 predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteoclastic giant cell tumor of pancreas", "pancreatic carcinoma with mixed differentiation", "pancreatic intraductal papillary-mucinous carcinoma", "mixed ductal-endocrine carcinoma of pancreas", "pancreatic signet ring cell adenocarcinoma", "undifferentiated pancreatic carcinoma", "malignant exocrine pancreas neoplasm", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
 description: "Mitomycin: indikasi baharu diramal Solid pseudopapillary carcinoma of pancreas (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

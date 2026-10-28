@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 431
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Isoleucine: indikasi baharu diramal Gastroparesis (tahap bukti L5). Indikasi asal: Tiada rekod indikasi diluluskan"
 monitor_inn: "ISOLEUCINE"
 predicted_indications: ["gastroparesis (disease)"]

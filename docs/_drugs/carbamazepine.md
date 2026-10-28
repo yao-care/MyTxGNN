@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Carbamazepine"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Carbamazepine: indikasi baharu diramal Neoplasma saraf trigeminal (tahap bukti L5). Indikasi asal: Epilepsi, neuralgia trigeminal…"
 ---
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 65
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Amorolfine"
 predicted_indications: ["drug-induced osteoporosis", "disease of retroperitoneum", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "abdominal ectopic pregnancy", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "urethral disease"]
 description: "Amorolfine: indikasi baharu diramal Osteoporosis teraruh ubat (drug-induced osteoporosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

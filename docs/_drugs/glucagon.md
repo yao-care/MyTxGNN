@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 388
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "GLUCAGON"
 predicted_indications: ["irritable bowel syndrome"]
 description: "Glucagon: indikasi baharu diramal Sindrom usus rengsa (irritable bowel syndrome) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"

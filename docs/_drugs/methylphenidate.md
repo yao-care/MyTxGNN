@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 501
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Methylphenidate: indikasi baharu diramal Sindrom faciodigitogenital (sindrom Aarskog-Scott) (tahap bukti L5). Indikasi asal: ADHD dan narkolepsi (daripada pangkalan pengetahuan TxGNN…"
 monitor_inn: "METHYLPHENIDATE"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]

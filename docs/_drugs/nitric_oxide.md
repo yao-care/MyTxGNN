@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "NITRIC OXIDE"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with connective tissue disease"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Nitric Oxide: indikasi baharu diramal Sindrom malformasi dengan komponen gigi dan/atau periodontium (tahap bukti L5). Indikasi asal: Hipertensi pulmonari (hubungan yang direkodkan dalam graf penget…"
 ---
 

@@ -7,14 +7,14 @@ drugbank_id: "DB06708"
 drug_name: "Lumefantrine"
 kg_predictions: 8
 dl_predictions: 14
-evidence_level: L5
-indication_count: 0
 brands: []
 permalink: /drugs/lumefantrine/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-03-30
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Lumefantrine
@@ -23,59 +23,12 @@ predicted_indications: []
 
 | Atribut | Nilai |
 |-----------|-------|
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | **Nama Ubat** | Lumefantrine |
 | **ID DrugBank** | [DB06708](https://go.drugbank.com/drugs/DB06708) |
 | **Ramalan KG** | 8 |
 | **Ramalan DL (≥0.7)** | 14 |
-| **Tahap Bukti** | L5 |
 | **Status NPRA** | Approved |
 
 ---
-
-## Contoh Nama Jenama di Malaysia
-
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **8** ramalan model TxGNN (pembelajaran mendalam) dan **14** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| malaria | KG |
-| Plasmodium falciparum malaria | KG |
-| malaria | KG |
-| Plasmodium falciparum malaria | KG |
-| malaria | KG |
-| Plasmodium falciparum malaria | KG |
-| malaria | KG |
-| Plasmodium falciparum malaria | KG |
-
----
-
-## Sumber FHIR
-
-Akses data ubat melalui API FHIR R4:
-
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB06708`](/fhir/MedicationKnowledge/DB06708.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB06708) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Lumefantrine) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Lumefantrine) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
-</div>

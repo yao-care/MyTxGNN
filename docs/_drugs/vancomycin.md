@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Vancomycin"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Vancomycin: indikasi baharu diramal Diffuse scleroderma (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan"
 ---
 

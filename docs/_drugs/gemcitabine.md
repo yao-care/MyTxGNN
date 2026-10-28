@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Gemcitabine: indikasi baharu diramal Adenokarsinoma mukinus rektum (tahap bukti L5). Indikasi asal: Kanser ovari (hubungan yang direkodkan dalam graf pengetahuan"
 ---
 

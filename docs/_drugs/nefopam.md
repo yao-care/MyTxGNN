@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Nefopam"
 predicted_indications: ["tetanic cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "mature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "lumbar spinal stenosis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Nefopam: indikasi baharu diramal Tetanic cataract (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

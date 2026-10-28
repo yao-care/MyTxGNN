@@ -7,14 +7,14 @@ drugbank_id: "DB02701"
 drug_name: "Nicotinamide"
 kg_predictions: 42
 dl_predictions: 35
-evidence_level: L5
-indication_count: 0
 brands: []
 permalink: /drugs/nicotinamide/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-03-30
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Nicotinamide
@@ -23,61 +23,12 @@ predicted_indications: []
 
 | Atribut | Nilai |
 |-----------|-------|
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 370 daripada 370) |
+| Bilangan Pendaftaran | 370 (sah: 370) |
 | **Nama Ubat** | Nicotinamide |
 | **ID DrugBank** | [DB02701](https://go.drugbank.com/drugs/DB02701) |
 | **Ramalan KG** | 42 |
 | **Ramalan DL (≥0.7)** | 35 |
-| **Tahap Bukti** | L5 |
 | **Status NPRA** | Approved |
 
 ---
-
-## Contoh Nama Jenama di Malaysia
-
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **42** ramalan model TxGNN (pembelajaran mendalam) dan **35** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| beriberi | KG |
-| pellagra | KG |
-| acne (disease) | KG |
-| beriberi | KG |
-| pellagra | KG |
-| acne (disease) | KG |
-| beriberi | KG |
-| pellagra | KG |
-| acne (disease) | KG |
-| beriberi | KG |
-
----
-
-## Sumber FHIR
-
-Akses data ubat melalui API FHIR R4:
-
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB02701`](/fhir/MedicationKnowledge/DB02701.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB02701) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Nicotinamide) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Nicotinamide) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
-</div>

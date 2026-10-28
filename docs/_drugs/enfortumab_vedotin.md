@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 323
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Enfortumab Vedotin: indikasi baharu diramal Kusta (leprosy) (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA)"
 monitor_inn: "ENFORTUMAB VEDOTIN"
 predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "infectious bovine rhinotracheitis", "malignant catarrh"]

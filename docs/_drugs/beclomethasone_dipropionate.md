@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Beclomethasone Dipropionate"
 predicted_indications: ["atopic eczema"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Beclomethasone Dipropionate: indikasi baharu diramal Ekzema atopik (tahap bukti L5). Indikasi asal: Asma, asma intrinsik, asma alergi, rinitis alergi, rinitis vasomotor…"
 ---
 

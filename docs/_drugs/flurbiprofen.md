@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Flurbiprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Flurbiprofen: indikasi baharu diramal Acromesomelic dysplasia, Hunter-Thompson type (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "dexketoprofen"
 predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
 description: "Dexketoprofen: indikasi baharu diramal Tendinitis (tahap bukti L4)."

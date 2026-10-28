@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 518
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Mycophenolic Acid: indikasi baharu diramal Hemoglobinopati (tahap bukti L3). Indikasi asal: Tiada maklumat (tiada lesen NPRA berdaftar)"
 monitor_inn: "MYCOPHENOLIC ACID"
 predicted_indications: ["hemoglobinopathy", "migraine disorder", "migraine with brainstem aura", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "pyropoikilocytosis, hereditary", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyruvate kinase deficiency of red cells", "rheumatoid arthritis", "antithrombin deficiency type 2"]

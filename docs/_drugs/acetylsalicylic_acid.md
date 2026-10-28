@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "ACETYLSALICYLIC ACID"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombotic disease", "thrombophilia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Acetylsalicylic Acid: indikasi baharu diramal Atrofoderma vermikulata (atrophoderma vermiculata) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

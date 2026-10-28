@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 673
 evidence_level: L1
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "terbutaline"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
 description: "Terbutaline: indikasi baharu diramal Penyakit paru obstruktif (obstructive lung disease) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"

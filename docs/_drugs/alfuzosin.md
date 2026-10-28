@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 42
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "ALFUZOSIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "allergic urticaria", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 description: "Alfuzosin: indikasi baharu diramal Ambras type hypertrichosis universalis congenita (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

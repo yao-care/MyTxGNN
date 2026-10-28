@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "amodiaquine"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "nephrogenic syndrome of inappropriate antidiuresis", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Amodiaquine: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

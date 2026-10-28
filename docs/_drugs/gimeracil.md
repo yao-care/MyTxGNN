@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 7
 monitor_inn: "Gimeracil"
 predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Gimeracil: indikasi baharu diramal Neoplasma kolon (tahap bukti L2). Indikasi asal: Tiada teks indikasi lulus dalam rekod pelesenan tempatan yang dikumpu…"
 ---
 

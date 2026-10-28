@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 393
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "goserelin"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
 description: "Goserelin: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"

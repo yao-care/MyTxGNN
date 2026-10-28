@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Cyanocobalamin"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Cyanocobalamin: indikasi baharu diramal biotin metabolic disease (tahap bukti L5). Indikasi asal: Kekurangan vitamin B12, anemia pernisiosa…"
 ---
 

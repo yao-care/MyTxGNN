@@ -7,14 +7,14 @@ drugbank_id: "DB00783"
 drug_name: "Estradiol"
 kg_predictions: 24
 dl_predictions: 0
-evidence_level: L5
-indication_count: 0
 brands: []
 permalink: /drugs/estradiol/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-03-30
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Estradiol
@@ -23,61 +23,12 @@ predicted_indications: []
 
 | Atribut | Nilai |
 |-----------|-------|
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 42 daripada 42) |
+| Bilangan Pendaftaran | 42 (sah: 42) |
 | **Nama Ubat** | Estradiol |
 | **ID DrugBank** | [DB00783](https://go.drugbank.com/drugs/DB00783) |
 | **Ramalan KG** | 24 |
 | **Ramalan DL (≥0.7)** | 0 |
-| **Tahap Bukti** | L5 |
 | **Status NPRA** | Approved |
 
 ---
-
-## Contoh Nama Jenama di Malaysia
-
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **24** ramalan model TxGNN (pembelajaran mendalam) dan **0** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| acne (disease) | KG |
-| primary ovarian failure | KG |
-| obsolete atrophic vulva | KG |
-| postmenopausal atrophic vaginitis | KG |
-| postmenopausal osteoporosis | KG |
-| osteoporosis | KG |
-| acne (disease) | KG |
-| primary ovarian failure | KG |
-| obsolete atrophic vulva | KG |
-| postmenopausal atrophic vaginitis | KG |
-
----
-
-## Sumber FHIR
-
-Akses data ubat melalui API FHIR R4:
-
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00783`](/fhir/MedicationKnowledge/DB00783.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00783) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Estradiol) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Estradiol) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
-</div>

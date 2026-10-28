@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 339
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "ETHANOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 description: "Ethanol: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

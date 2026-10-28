@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 248
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "CYPROTERONE ACETATE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "amenorrhea (disease)", "breast fibrocystic disease", "thrombophilia"]
 description: "Cyproterone Acetate: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"

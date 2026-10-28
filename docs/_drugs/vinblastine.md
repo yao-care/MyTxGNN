@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 724
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "vinblastine"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
 description: "Vinblastine: indikasi baharu diramal Rhabdomyosarcoma (rhabdomyosarcoma (disease)) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"

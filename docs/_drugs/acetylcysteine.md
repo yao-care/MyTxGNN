@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "Acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Acetylcysteine: indikasi baharu diramal Penyakit trombotik (thrombotic disease) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 504
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "MICONAZOLE"
 predicted_indications: ["acne (disease)"]
 description: "Miconazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"

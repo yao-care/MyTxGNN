@@ -7,14 +7,14 @@ drugbank_id: "DB00140"
 drug_name: "Riboflavin"
 kg_predictions: 2
 dl_predictions: 0
-evidence_level: L5
-indication_count: 0
 brands: []
 permalink: /drugs/riboflavin/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-03-30
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Riboflavin
@@ -23,53 +23,12 @@ predicted_indications: []
 
 | Atribut | Nilai |
 |-----------|-------|
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 457 daripada 457) |
+| Bilangan Pendaftaran | 457 (sah: 457) |
 | **Nama Ubat** | Riboflavin |
 | **ID DrugBank** | [DB00140](https://go.drugbank.com/drugs/DB00140) |
 | **Ramalan KG** | 2 |
 | **Ramalan DL (≥0.7)** | 0 |
-| **Tahap Bukti** | L5 |
 | **Status NPRA** | Approved |
 
 ---
-
-## Contoh Nama Jenama di Malaysia
-
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **2** ramalan model TxGNN (pembelajaran mendalam) dan **0** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| vitamin deficiency disorder | KG |
-| vitamin deficiency disorder | KG |
-
----
-
-## Sumber FHIR
-
-Akses data ubat melalui API FHIR R4:
-
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00140`](/fhir/MedicationKnowledge/DB00140.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00140) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Riboflavin) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Riboflavin) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
-</div>

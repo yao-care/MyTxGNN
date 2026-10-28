@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 189
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Camphor: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tiada data (tiada lesen NPRA direkodkan)"
 monitor_inn: "Camphor"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]

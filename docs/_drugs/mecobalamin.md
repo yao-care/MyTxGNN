@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 487
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "MECOBALAMIN"
 predicted_indications: ["sclerosing cholangitis", "multiple endocrine neoplasia", "bone Paget disease"]
 description: "Mecobalamin: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

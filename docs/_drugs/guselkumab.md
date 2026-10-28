@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 397
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Guselkumab"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "renal osteodystrophy", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
 description: "Guselkumab: indikasi baharu diramal Drug-induced osteoporosis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

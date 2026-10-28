@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 735
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Zinc gluconate"
 predicted_indications: ["anemia of prematurity", "injury", "cell proliferation disorder", "perinatal disease", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "radiation or chemically induced disorder", "disease by subcellular system affected", "iatrogenic disease", "regional odontodysplasia"]
 description: "Zinc Gluconate: indikasi baharu diramal Anemia pramatang (anemia of prematurity) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

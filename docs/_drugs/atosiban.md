@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Atosiban"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "congenital hypotrichosis milia", "alopecia", "hypotrichosis simplex of the scalp", "vascular disease", "diffuse alopecia areata", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "visceral calciphylaxis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Atosiban: indikasi baharu diramal Glaukoma keturunan primer (primary hereditary glaucoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 679
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Threonine: indikasi baharu diramal Gastroparesis (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "THREONINE"
 predicted_indications: ["gastroparesis (disease)"]

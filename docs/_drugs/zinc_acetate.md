@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Zinc acetate"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "bronchitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "urinary tract infection (disease)"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Zinc Acetate: indikasi baharu diramal Retinopati diabetik non-proliferatif teruk (tahap bukti L5). Indikasi asal: Tiada maklumat indikasi yang diluluskan dalam data pendaftaran tempat…"
 ---
 

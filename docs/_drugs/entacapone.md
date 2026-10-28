@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Entacapone"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Entacapone: indikasi baharu diramal PLA2G6-associated neurodegeneration (tahap bukti L5). Indikasi asal: Penyakit Parkinson (hubungan yang direkodkan dalam graf pengetahuan"
 ---
 

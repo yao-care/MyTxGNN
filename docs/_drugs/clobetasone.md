@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 232
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Clobetasone: indikasi baharu diramal Limfoma sel-T kutaneus primer (primary cutaneous T-cell lymphoma) (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA yang direkodkan)"
 monitor_inn: "Clobetasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "Sezary syndrome", "primary cutaneous B-cell lymphoma", "granulomatous slack skin disease", "Crohn's colitis", "adrenocortical insufficiency", "primary cutaneous T-cell non-Hodgkin lymphoma", "nephrotic syndrome", "cystic teratoma", "spinal cord dermoid cyst"]

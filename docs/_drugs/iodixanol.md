@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "IODIXANOL"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Iodixanol: indikasi baharu diramal Osteoartritis (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan"
 ---
 

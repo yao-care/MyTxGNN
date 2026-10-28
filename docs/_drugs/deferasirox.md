@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Deferasirox"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Deferasirox: indikasi baharu diramal Jangkitan HIV (tahap bukti L5). Indikasi asal: Beta-talasemia dan hemoglobinopati berkaitan"
 ---
 

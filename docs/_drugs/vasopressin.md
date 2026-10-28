@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 720
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Vasopressin: indikasi baharu diramal Kekurangan protrombin kongenital (tahap bukti L4). Indikasi asal: Tiada data (tiada lesen NPRA berdaftar)"
 monitor_inn: "VASOPRESSIN"
 predicted_indications: ["congenital prothrombin deficiency", "drug-induced osteoporosis"]

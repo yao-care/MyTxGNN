@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 632
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Ropinirole: indikasi baharu diramal Gangguan kurang daya tumpuan-hiperaktiviti (ADHD) (tahap bukti L3). Indikasi asal: Tiada data (tiada lesen NPRA direkodkan)"
 monitor_inn: "Ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]

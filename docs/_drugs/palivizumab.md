@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 554
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Palivizumab"
 predicted_indications: ["benign neoplasm of tongue", "epiglottis neoplasm", "cervical neuroblastoma", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "tumor of testis and paratestis", "cystic neoplasm", "schwannoma of jugular foramen", "mesenchymoma", "thyroglossal duct cyst"]
 description: "Palivizumab: indikasi baharu diramal Benign neoplasm of tongue (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

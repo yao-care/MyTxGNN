@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 478
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "LOTEPREDNOL ETABONATE"
 predicted_indications: ["chronic follicular conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "parasitic conjunctivitis", "pseudomembranous conjunctivitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
 description: "Loteprednol Etabonate: indikasi baharu diramal Chronic follicular conjunctivitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

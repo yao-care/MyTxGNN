@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "CITRIC ACID"
 predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Citric Acid: indikasi baharu diramal Penyakit perut (stomach disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

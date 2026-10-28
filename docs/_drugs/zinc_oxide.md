@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Zinc Oxide"
 predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Zinc Oxide: indikasi baharu diramal Jerawat (acne) (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam rekod lesen tempatan. Hubungan y…"
 ---
 

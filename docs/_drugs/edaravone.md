@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 315
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "EDARAVONE"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis"]
 description: "Edaravone: indikasi baharu diramal Kekurangan kofaktor heparin 2 (heparin cofactor 2 deficiency) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

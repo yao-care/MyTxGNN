@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Desloratadine: indikasi baharu diramal Penyakit rongga hidung (tahap bukti L5). Indikasi asal: Rinitis alergi, rinitis vasomotor…"
 ---
 

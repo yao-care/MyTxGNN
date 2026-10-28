@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 606
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "PROPYLTHIOURACIL"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
 description: "Propylthiouracil: indikasi baharu diramal Rintangan hormon tiroid akibat mutasi reseptor hormon tiroid beta (resistance to thyroid hormone due to a mutation in t… (tahap bukti L4). Indikasi asal: Tid…"

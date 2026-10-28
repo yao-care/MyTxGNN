@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "BARICITINIB"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Baricitinib: indikasi baharu diramal Sindrom mikroftalmia kolobomatus-displasia rizomelik (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan…"
 ---
 

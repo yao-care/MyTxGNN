@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "AZATHIOPRINE"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Azathioprine: indikasi baharu diramal Sindrom displasia rizomelik-mikroftalmia kolobomatus (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodka…"
 ---
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 245
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "CYCLOPHOSPHAMIDE"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
 description: "Cyclophosphamide: indikasi baharu diramal Leukemia mieloid (myeloid leukemia) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"

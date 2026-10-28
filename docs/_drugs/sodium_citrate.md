@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Sodium Citrate"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "stomach disease", "postgastrectomy syndrome", "gastroduodenitis", "familial visceral myopathy", "rosacea conjunctivitis", "allergic urticaria"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Sodium Citrate: indikasi baharu diramal Papillary conjunctivitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

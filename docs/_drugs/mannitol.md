@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Mannitol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Mannitol: indikasi baharu diramal Sindrom antidiuresis tidak wajar nefrogenik (NSIAD) (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan"
 ---
 

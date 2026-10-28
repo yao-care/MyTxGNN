@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 732
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "ZIDOVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 description: "Zidovudine: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"

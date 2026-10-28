@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 337
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "ESTRIOL"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Estriol: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"

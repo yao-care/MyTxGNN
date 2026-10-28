@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Vonoprazan"
 predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "achlorhydria", "cascade stomach", "Dieulafoy lesion", "pylorospasm", "gastric dilatation", "hemorrhagic duodenitis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Vonoprazan: indikasi baharu diramal Perforasi ulser peptik (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam rekod lesen tempatan"
 ---
 

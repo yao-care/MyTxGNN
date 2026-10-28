@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 376
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "framycetin"
 predicted_indications: ["sclerosing cholangitis", "urinary tract infection (disease)", "congenital prothrombin deficiency", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis"]
 description: "Framycetin: indikasi baharu diramal Sclerosing cholangitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

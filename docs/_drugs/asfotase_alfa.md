@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Asfotase alfa"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Steel syndrome", "exocrine pancreatic insufficiency", "Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "familial apolipoprotein C-II deficiency", "esophageal varices without bleeding", "esophageal varices with bleeding", "cystinosis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Asfotase Alfa: indikasi baharu diramal Gangguan fosforilasi oksidatif mitokondria akibat anomali DNA nukleus (tahap bukti L5). Indikasi asal: Tiada maklumat (teks indikasi pada lesen tidak tersedia)"
 ---
 

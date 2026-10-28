@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 642
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Serine: indikasi baharu diramal Miopati visera familial (familial visceral myopathy) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "Serine"
 predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "unclassified intestinal pseudoobstruction", "myopathic intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]

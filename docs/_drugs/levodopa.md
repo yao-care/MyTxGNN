@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Levodopa: indikasi baharu diramal Ensefalitis subakut Rasmussen (tahap bukti L5). Indikasi asal: Penyakit Parkinson (hubungan indikasi direkodkan dalam graf pengetahu…"
 ---
 

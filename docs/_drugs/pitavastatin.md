@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Pitavastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Pitavastatin: indikasi baharu diramal kekurangan protein pemindahan ester kolesterol (cholesterol-ester transfer protein deficiency) (tahap bukti L5). Indikasi asal: Tidak tersedia (teks indikasi lulus tiada dalam rekod pelesenan tempa…"
 ---
 

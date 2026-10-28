@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ammonium Chloride"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Ammonium Chloride: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

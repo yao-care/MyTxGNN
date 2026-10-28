@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 661
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "SULFAMETHOXAZOLE"
 predicted_indications: ["acute contagious conjunctivitis"]
 description: "Sulfamethoxazole: indikasi baharu diramal Konjunktivitis berjangkit akut (acute contagious conjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

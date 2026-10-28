@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CARVEDILOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Carvedilol: indikasi baharu diramal Penyakit buah pinggang hipertensi malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

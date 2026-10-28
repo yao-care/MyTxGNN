@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PROPYLENE GLYCOL"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic cataract", "mature cataract", "immature cataract", "tetanic cataract"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Propylene Glycol: indikasi baharu diramal Bronkitis (tahap bukti L5). Indikasi asal: Sindrom mata kering dan xerophthalmia (hubungan direkodkan dalam graf…"
 ---
 

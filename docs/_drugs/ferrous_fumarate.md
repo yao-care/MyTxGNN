@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ferrous Fumarate"
 predicted_indications: ["non-syndromic esophageal malformation"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Ferrous Fumarate: indikasi baharu diramal Malformasi esofagus bukan sindromik (non-syndromic esophageal malformation) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

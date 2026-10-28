@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 368
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "fluphenazine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "myopia X-linked", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
 description: "Fluphenazine: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies) (tahap bukti L5). Indikasi asal: Tidak direkodka…"

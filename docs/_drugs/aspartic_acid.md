@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ASPARTIC ACID"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Aspartic Acid: indikasi baharu diramal Asidosis tiub renal (renal tubular acidosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

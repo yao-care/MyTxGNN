@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 563
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "pentamidine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "neurotrophic keratopathy", "exposure keratitis", "non-human animal disease", "congenital analbuminemia"]
 description: "Pentamidine: indikasi baharu diramal Keratokonjunktivitis epitelium berpunktat (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

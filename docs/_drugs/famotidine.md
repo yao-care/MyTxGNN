@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Famotidine"
 predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Famotidine: indikasi baharu diramal Halangan duodenum (tahap bukti L5). Indikasi asal: Ulser gastrik, penyakit refluks gastroesofagus, esofagitis, dispepsia…"
 ---
 

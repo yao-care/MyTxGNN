@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Naproxen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Naproxen: indikasi baharu diramal brachydactyly-syndactyly syndrome (tahap bukti L5). Indikasi asal: Bursitis, artritis reumatoid, spondilitis ankilosis, tendinitis, gout…"
 ---
 

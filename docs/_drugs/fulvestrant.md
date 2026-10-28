@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 377
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "FULVESTRANT"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Fulvestrant: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"

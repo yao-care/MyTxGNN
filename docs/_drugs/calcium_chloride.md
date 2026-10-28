@@ -3,7 +3,7 @@ layout: default
 title: Calcium Chloride
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 185
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Calcium Chloride: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 indication_count: 0

@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Dexamethasone: indikasi baharu diramal Alopecia areata (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

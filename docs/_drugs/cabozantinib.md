@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Cabozantinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "angiolipoma"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Cabozantinib: indikasi baharu diramal Liposarkoma (tahap bukti L5). Indikasi asal: Tiada data (teks indikasi lesen tidak tersedia)"
 ---
 

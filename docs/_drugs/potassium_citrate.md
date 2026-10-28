@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Potassium citrate"
 predicted_indications: ["familial visceral myopathy", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Pendred syndrome", "nephrolithiasis", "cystinosis", "autosomal recessive nonsyndromic deafness", "exocrine pancreatic insufficiency", "leukocyte adhesion deficiency", "adult Fanconi syndrome"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Potassium Citrate: indikasi baharu diramal Miopati visera familial (tahap bukti L5). Indikasi asal: Tidak tersedia dalam teks lesen yang dikumpulkan"
 ---
 

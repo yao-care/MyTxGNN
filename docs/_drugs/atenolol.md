@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Atenolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Atenolol: indikasi baharu diramal Penyakit renal hipertensi malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

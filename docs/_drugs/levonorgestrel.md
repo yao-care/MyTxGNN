@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 457
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Levonorgestrel: indikasi baharu diramal Jerawat (acne) (tahap bukti L4). Indikasi asal: Osteoporosis pascamenopaus / osteoporosis (daripada pangkalan pengeta…"
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]

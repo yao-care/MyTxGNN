@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 499
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 description: "Methoxy Polyethylene Glycol-Epoetin Beta: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of platelets) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam da…"

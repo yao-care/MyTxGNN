@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 413
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Imiquimod"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
 description: "Imiquimod: indikasi baharu diramal Neoplasma pra-malignan (pre-malignant neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

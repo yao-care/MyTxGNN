@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 238
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Clopidogrel: indikasi baharu diramal Migrain dengan aura batang otak (migraine with brainstem aura) (tahap bukti L5). Indikasi asal: Sindrom koronari akut"
 monitor_inn: "CLOPIDOGREL"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis"]

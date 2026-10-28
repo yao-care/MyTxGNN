@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 481
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "MAGNESIUM CARBONATE"
 predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "stomach disease", "duodenal obstruction"]
 description: "Magnesium Carbonate: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

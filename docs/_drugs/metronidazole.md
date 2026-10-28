@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Metronidazole: indikasi baharu diramal Pneumocystosis (tahap bukti L5). Indikasi asal: Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan"
 ---
 

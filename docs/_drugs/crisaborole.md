@@ -7,14 +7,14 @@ drugbank_id: "DB05219"
 drug_name: "Crisaborole"
 kg_predictions: 2
 dl_predictions: 0
-evidence_level: L5
-indication_count: 0
 brands: []
 permalink: /drugs/crisaborole/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-03-30
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Crisaborole
@@ -23,53 +23,12 @@ predicted_indications: []
 
 | Atribut | Nilai |
 |-----------|-------|
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | **Nama Ubat** | Crisaborole |
 | **ID DrugBank** | [DB05219](https://go.drugbank.com/drugs/DB05219) |
 | **Ramalan KG** | 2 |
 | **Ramalan DL (≥0.7)** | 0 |
-| **Tahap Bukti** | L5 |
 | **Status NPRA** | Approved |
 
 ---
-
-## Contoh Nama Jenama di Malaysia
-
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **2** ramalan model TxGNN (pembelajaran mendalam) dan **0** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| dermatitis, atopic | KG |
-| atopic eczema | KG |
-
----
-
-## Sumber FHIR
-
-Akses data ubat melalui API FHIR R4:
-
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB05219`](/fhir/MedicationKnowledge/DB05219.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB05219) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Crisaborole) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Crisaborole) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
-</div>

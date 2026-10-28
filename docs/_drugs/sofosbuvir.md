@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 653
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "SOFOSBUVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
 description: "Sofosbuvir: indikasi baharu diramal Jangkitan virus hepatitis B (hepatitis B virus infection) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CABOTEGRAVIR"
 predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "bronchitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Cabotegravir: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

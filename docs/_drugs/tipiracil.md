@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Tipiracil"
 predicted_indications: ["cecum villous adenoma", "lipoma of colon", "rectosigmoid junction neoplasm", "cecum neuroendocrine tumor G1", "colonic lymphangioma", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "cavernous hemangioma of colon", "colorectal gastrointestinal stromal tumor"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Tipiracil: indikasi baharu diramal Cecum villous adenoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

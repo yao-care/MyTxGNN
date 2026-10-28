@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Ibuprofen: indikasi baharu diramal displasia akromesomelik, jenis Hunter-Thompson (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan. Hubun…"
 ---
 

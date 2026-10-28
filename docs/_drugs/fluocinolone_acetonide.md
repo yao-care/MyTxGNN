@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "FLUOCINOLONE ACETONIDE"
 predicted_indications: ["annular atrophic lichen planus", "hypertrophic lichen planus", "lichen planus pigmentosus", "lichen planus pemphigoides"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Fluocinolone Acetonide: indikasi baharu diramal Annular atrophic lichen planus (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

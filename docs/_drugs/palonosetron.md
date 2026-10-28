@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 555
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "PALONOSETRON"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Palonosetron: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"

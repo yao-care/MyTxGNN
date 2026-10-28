@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ethinylestradiol"
 predicted_indications: ["zinc, elevated plasma"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Ethinylestradiol: indikasi baharu diramal Zink plasma meningkat (zinc, elevated plasma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

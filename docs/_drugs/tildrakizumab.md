@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 683
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "TILDRAKIZUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "drug-induced osteoporosis"]
 description: "Tildrakizumab: indikasi baharu diramal Retinopati diabetes non-proliferatif teruk (severe nonproliferative diabetic retinopathy) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

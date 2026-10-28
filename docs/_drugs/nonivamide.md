@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 531
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Nonivamide"
 predicted_indications: ["pulmonary hypertension", "peripheral arterial disease", "acute lymphoblastic leukemia (disease)", "kyphoscoliotic heart disease", "peripheral vascular disease", "ventricular tachycardia", "anaphylaxis", "migraine disorder", "catecholaminergic polymorphic ventricular tachycardia", "intermittent vascular claudication"]
 description: "Nonivamide: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

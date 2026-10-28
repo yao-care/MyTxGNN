@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 614
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "RANOLAZINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Ranolazine: indikasi baharu diramal Nephrogenic syndrome of inappropriate antidiuresis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

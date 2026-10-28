@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 558
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "PANTOTHENIC ACID"
 predicted_indications: ["congenital prothrombin deficiency", "ochronosis disorder", "glycerol metabolism disease", "folic acid deficiency anemia", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis"]
 description: "Pantothenic Acid: indikasi baharu diramal Kekurangan protrombin kongenital (congenital prothrombin deficiency) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Doxycycline: indikasi baharu diramal Keratokonjunktivitis epitelium berpunktat (tahap bukti L5). Indikasi asal: Tidak dinyatakan dalam teks indikasi pada rekod lesen yang dikumpulkan"
 ---
 

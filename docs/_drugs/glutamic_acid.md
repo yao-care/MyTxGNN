@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 389
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "GLUTAMIC ACID"
 predicted_indications: ["postmenopausal osteoporosis", "pregnancy associated osteoporosis", "primary hereditary glaucoma", "gastroparesis (disease)"]
 description: "Glutamic Acid: indikasi baharu diramal Osteoporosis pascamenopaus (postmenopausal osteoporosis) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"

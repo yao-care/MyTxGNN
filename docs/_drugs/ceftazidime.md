@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Ceftazidime"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "urinary tract infection (disease)", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "blood group incompatibility", "infectious otitis media", "Peptostreptococcus infectious disease"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Ceftazidime: indikasi baharu diramal Hiperamilasemia (hyperamylasemia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

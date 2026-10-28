@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Omalizumab"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Omalizumab: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

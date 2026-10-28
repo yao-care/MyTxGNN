@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 392
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "GOLIMUMAB"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease"]
 description: "Golimumab: indikasi baharu diramal Hypermobility of coccyx (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

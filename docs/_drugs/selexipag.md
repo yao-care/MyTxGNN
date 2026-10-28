@@ -7,14 +7,14 @@ drugbank_id: "DB11362"
 drug_name: "Selexipag"
 kg_predictions: 8
 dl_predictions: 0
-evidence_level: L5
-indication_count: 0
 brands: []
 permalink: /drugs/selexipag/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-03-30
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Selexipag
@@ -23,59 +23,12 @@ predicted_indications: []
 
 | Atribut | Nilai |
 |-----------|-------|
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | **Nama Ubat** | Selexipag |
 | **ID DrugBank** | [DB11362](https://go.drugbank.com/drugs/DB11362) |
 | **Ramalan KG** | 8 |
 | **Ramalan DL (≥0.7)** | 0 |
-| **Tahap Bukti** | L5 |
 | **Status NPRA** | Approved |
 
 ---
-
-## Contoh Nama Jenama di Malaysia
-
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **8** ramalan model TxGNN (pembelajaran mendalam) dan **0** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| pulmonary arterial hypertension | KG |
-| pulmonary arterial hypertension | KG |
-| pulmonary arterial hypertension | KG |
-| pulmonary arterial hypertension | KG |
-| pulmonary arterial hypertension | KG |
-| pulmonary arterial hypertension | KG |
-| pulmonary arterial hypertension | KG |
-| pulmonary arterial hypertension | KG |
-
----
-
-## Sumber FHIR
-
-Akses data ubat melalui API FHIR R4:
-
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB11362`](/fhir/MedicationKnowledge/DB11362.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB11362) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Selexipag) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Selexipag) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
-</div>

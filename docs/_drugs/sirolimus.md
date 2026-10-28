@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 7
 monitor_inn: "Sirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lung PEComa", "vulva sarcoma"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Sirolimus: indikasi baharu diramal Liposarkoma (tahap bukti L3). Indikasi asal: Tiada maklumat (teks indikasi pada lesen kosong)"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Tolvaptan: indikasi baharu diramal Renal-hepatic-pancreatic dysplasia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

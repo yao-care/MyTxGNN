@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "CALCIUM LACTATE GLUCONATE"
 predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Calcium Lactate Gluconate: indikasi baharu diramal Sindrom kalsium-alkali (calcium-alkali syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 371
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "FLUTICASONE FUROATE"
 predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis"]
 description: "Fluticasone Furoate: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

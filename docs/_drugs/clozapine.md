@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CLOZAPINE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "psychotic disorder", "Malan overgrowth syndrome"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Clozapine: indikasi baharu diramal Gangguan afektif bipolar manik (manic bipolar affective disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

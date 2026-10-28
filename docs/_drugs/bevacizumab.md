@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Bevacizumab"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Bevacizumab: indikasi baharu diramal Neoplasma epiglotis (epiglottis neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

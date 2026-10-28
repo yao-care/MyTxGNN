@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Etoposide"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Etoposide: indikasi baharu diramal Adenokarsinoma janin paru-paru berdiferensiasi baik (tahap bukti L5). Indikasi asal: Teks indikasi yang diluluskan tidak tersedia dalam data pendaftaran t…"
 ---
 

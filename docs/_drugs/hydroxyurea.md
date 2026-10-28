@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Hydroxyurea"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin c disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Hydroxyurea: indikasi baharu diramal Karsinoma payudara wanita (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan yang d…"
 ---
 

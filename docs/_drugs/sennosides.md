@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 641
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "SENNOSIDES"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia"]
 description: "Sennosides: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

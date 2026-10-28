@@ -7,14 +7,14 @@ drugbank_id: "DB01069"
 drug_name: "Promethazine"
 kg_predictions: 7
 dl_predictions: 32
-evidence_level: L5
-indication_count: 0
 brands: []
 permalink: /drugs/promethazine/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-03-30
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Promethazine
@@ -23,58 +23,12 @@ predicted_indications: []
 
 | Atribut | Nilai |
 |-----------|-------|
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 28 daripada 28) |
+| Bilangan Pendaftaran | 28 (sah: 28) |
 | **Nama Ubat** | Promethazine |
 | **ID DrugBank** | [DB01069](https://go.drugbank.com/drugs/DB01069) |
 | **Ramalan KG** | 7 |
 | **Ramalan DL (≥0.7)** | 32 |
-| **Tahap Bukti** | L5 |
 | **Status NPRA** | Approved |
 
 ---
-
-## Contoh Nama Jenama di Malaysia
-
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **7** ramalan model TxGNN (pembelajaran mendalam) dan **32** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| papillary conjunctivitis | KG |
-| vasomotor rhinitis | KG |
-| urticaria (disease) | KG |
-| atopic conjunctivitis | KG |
-| vernal conjunctivitis | KG |
-| angioedema | KG |
-| allergic rhinitis | KG |
-
----
-
-## Sumber FHIR
-
-Akses data ubat melalui API FHIR R4:
-
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB01069`](/fhir/MedicationKnowledge/DB01069.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB01069) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Promethazine) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Promethazine) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
-</div>

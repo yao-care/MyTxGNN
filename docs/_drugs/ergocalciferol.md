@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Ergocalciferol"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis", "craniofacial conodysplasia", "hypophosphatemia (disease)", "renal osteodystrophy", "calcium-alkali syndrome"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Ergocalciferol: indikasi baharu diramal Displasia akromesomelik, jenis Campailla Martinelli (tahap bukti L5). Indikasi asal: Tidak tersedia (rekod lesen tempatan tidak mengandungi teks indikasi…"
 ---
 

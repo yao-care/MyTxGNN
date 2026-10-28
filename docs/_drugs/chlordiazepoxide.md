@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Chlordiazepoxide"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "hallucinogen abuse", "antidepressant type abuse", "barbiturate abuse", "myofascial pain syndrome"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Chlordiazepoxide: indikasi baharu diramal Insomnia (tahap bukti L5). Indikasi asal: Tiada teks indikasi dalam rekod lesen tempatan"
 ---
 

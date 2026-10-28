@@ -7,14 +7,14 @@ drugbank_id: "DB00528"
 drug_name: "Lercanidipine"
 kg_predictions: 2
 dl_predictions: 9
-evidence_level: L5
-indication_count: 0
 brands: []
 permalink: /drugs/lercanidipine/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-03-30
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Lercanidipine
@@ -23,53 +23,12 @@ predicted_indications: []
 
 | Atribut | Nilai |
 |-----------|-------|
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | **Nama Ubat** | Lercanidipine |
 | **ID DrugBank** | [DB00528](https://go.drugbank.com/drugs/DB00528) |
 | **Ramalan KG** | 2 |
 | **Ramalan DL (≥0.7)** | 9 |
-| **Tahap Bukti** | L5 |
 | **Status NPRA** | Approved |
 
 ---
-
-## Contoh Nama Jenama di Malaysia
-
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **2** ramalan model TxGNN (pembelajaran mendalam) dan **9** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| hypertensive disorder | KG |
-| hypertension | KG |
-
----
-
-## Sumber FHIR
-
-Akses data ubat melalui API FHIR R4:
-
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB00528`](/fhir/MedicationKnowledge/DB00528.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB00528) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Lercanidipine) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Lercanidipine) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
-</div>

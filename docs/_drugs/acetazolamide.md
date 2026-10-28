@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Acetazolamide"
 predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic cardiomyopathy", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "distal myopathy, Tateyama type", "cirrhotic cardiomyopathy", "cardiomyopathy", "intestinal obstruction", "glycogen storage disease due to acid maltase deficiency, late-onset", "unclassified intestinal pseudoobstruction"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Acetazolamide: indikasi baharu diramal demam panas malignan akibat senaman (exercise-induced malignant hyperthermia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

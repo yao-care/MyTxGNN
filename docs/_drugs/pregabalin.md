@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Pregabalin"
 predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Pregabalin: indikasi baharu diramal Tendinitis (tahap bukti L5). Indikasi asal: Gangguan kebimbangan, fibromialgia, sindrom sakit miofasial…"
 ---
 

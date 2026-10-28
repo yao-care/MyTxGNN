@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Diclofenac: indikasi baharu diramal Hypotrichosis simplex of the scalp (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

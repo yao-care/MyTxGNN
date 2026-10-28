@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 7
 monitor_inn: "Docetaxel"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Docetaxel: indikasi baharu diramal Sarkoma Ewing (Ewing sarcoma) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

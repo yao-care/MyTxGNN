@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 560
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "PEGFILGRASTIM"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
 description: "Pegfilgrastim: indikasi baharu diramal Retinopati diabetik bukan proliferatif teruk (severe nonproliferative diabetic retinopathy) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempata"

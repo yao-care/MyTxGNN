@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Paclitaxel: indikasi baharu diramal Rabdomiosarkoma embrionik parameningeal (tahap bukti L5). Indikasi asal: Kanser ovari (relasi yang direkodkan dalam pangkalan pengetahuan"
 ---
 

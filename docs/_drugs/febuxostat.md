@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 351
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Febuxostat: indikasi baharu diramal Hipourisemia renal (tahap bukti L4). Indikasi asal: Hiperurisemia"
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]

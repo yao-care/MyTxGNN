@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 616
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "REMDESIVIR"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
 description: "Remdesivir: indikasi baharu diramal Multiple endocrine neoplasia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

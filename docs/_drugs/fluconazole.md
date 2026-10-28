@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Fluconazole: indikasi baharu diramal Keratokonjunktivitis epitelium berpunktum (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

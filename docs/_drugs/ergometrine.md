@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 332
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Ergometrine"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "nephrogenic syndrome of inappropriate antidiuresis", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "migraine disorder", "migraine with brainstem aura", "leprosy", "pulmonary hypertension"]
 description: "Ergometrine: indikasi baharu diramal Hipertrikosis (hypertrichosis (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

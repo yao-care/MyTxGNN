@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 412
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "staphylococcus aureus infection", "eosinophilia-myalgia syndrome"]
 description: "Imipenem: indikasi baharu diramal Skleroderma meresap (diffuse scleroderma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BUMETANIDE"
 predicted_indications: ["acute pulmonary heart disease"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Bumetanide: indikasi baharu diramal Penyakit jantung pulmonari akut (acute pulmonary heart disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 450
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Lemborexant: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada indikasi calon baharu"
 predicted_indications: []
 ---

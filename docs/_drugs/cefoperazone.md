@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Cefoperazone"
 predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "gout", "bronchitis", "meningococcal infection", "infectious otitis media", "IgG4-related sclerosing cholangitis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Cefoperazone: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

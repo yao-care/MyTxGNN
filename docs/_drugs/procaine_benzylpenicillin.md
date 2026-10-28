@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Procaine benzylpenicillin"
 predicted_indications: ["bacterial arthritis", "middle ear disease", "otosalpingitis", "middle ear cholesterol granuloma", "epiglottitis", "urinary tract infection (disease)"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Procaine Benzylpenicillin: indikasi baharu diramal Artritis bakteria (bacterial arthritis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CETRORELIX"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "persistent fetal circulation syndrome", "familial isolated trichomegaly", "familial male-limited precocious puberty", "aromatase excess syndrome", "centra precocious puberty 1"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Cetrorelix: indikasi baharu diramal Hipertrikosis (hypertrichosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

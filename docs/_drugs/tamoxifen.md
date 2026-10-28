@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Tamoxifen: indikasi baharu diramal Penyakit Paget payudara (mammary Paget disease) (tahap bukti L5). Indikasi asal: Tiada data (teks petunjuk kelulusan dalam rekod lesen kosong)"
 ---
 

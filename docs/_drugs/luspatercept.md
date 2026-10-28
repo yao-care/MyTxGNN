@@ -7,14 +7,14 @@ drugbank_id: "DB12281"
 drug_name: "Luspatercept"
 kg_predictions: 14
 dl_predictions: 0
-evidence_level: L5
-indication_count: 0
 brands: []
 permalink: /drugs/luspatercept/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-03-30
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Luspatercept
@@ -23,61 +23,12 @@ predicted_indications: []
 
 | Atribut | Nilai |
 |-----------|-------|
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Luspatercept |
 | **ID DrugBank** | [DB12281](https://go.drugbank.com/drugs/DB12281) |
 | **Ramalan KG** | 14 |
 | **Ramalan DL (≥0.7)** | 0 |
-| **Tahap Bukti** | L5 |
 | **Status NPRA** | Approved |
 
 ---
-
-## Contoh Nama Jenama di Malaysia
-
-
-
----
-
-## Petunjuk Diramalkan
-
-Ubat ini mempunyai **14** ramalan model TxGNN (pembelajaran mendalam) dan **0** ramalan pembelajaran mendalam berkeyakinan tinggi.
-
-### Ramalan KG Teratas
-
-| Petunjuk | Sumber |
-|------------|--------|
-| beta-thalassemia and related diseases | KG |
-| hemoglobinopathy | KG |
-| beta-thalassemia HBB/LCRB | KG |
-| dominant beta-thalassemia | KG |
-| beta-thalassemia intermedia | KG |
-| hereditary persistence of fetal hemoglobin | KG |
-| beta thalassemia | KG |
-| beta-thalassemia and related diseases | KG |
-| hemoglobinopathy | KG |
-| beta-thalassemia HBB/LCRB | KG |
-
----
-
-## Sumber FHIR
-
-Akses data ubat melalui API FHIR R4:
-
-- **MedicationKnowledge**: [`/fhir/MedicationKnowledge/DB12281`](/fhir/MedicationKnowledge/DB12281.json)
-
----
-
-## Sumber Berkaitan
-
-| Sumber | Pautan |
-|----------|------|
-| DrugBank | [View on DrugBank](https://go.drugbank.com/drugs/DB12281) |
-| PubMed | [Search PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Luspatercept) |
-| ClinicalTrials.gov | [Search Trials](https://clinicaltrials.gov/search?intr=Luspatercept) |
-
----
-
-<div class="disclaimer">
-<strong>Penafian</strong><br>
-Ramalan penggunaan semula ubat adalah untuk tujuan penyelidikan sahaja. Ramalan ini belum disahkan secara klinikal dan tidak boleh digunakan untuk keputusan perubatan. Sentiasa dapatkan nasihat profesional kesihatan.
-</div>

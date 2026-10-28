@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Aprepitant"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "hypertrichosis (disease)", "pulmonary hypertension", "leprosy", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "kyphoscoliotic heart disease", "syndrome with a Dandy-Walker malformation as major feature", "subarachnoid hemorrhage (disease)", "isolated genetic hair shaft abnormality"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Aprepitant: indikasi baharu diramal Sindrom antidiuresis tidak wajar nefrogenik (nephrogenic syndrome of inappropriate antidiuresis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempa…"
 ---
 

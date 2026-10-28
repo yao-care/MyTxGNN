@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 598
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Pretomanid: indikasi baharu diramal Kandidiasis (tahap bukti L5). Indikasi asal: Tiada data lesen NPRA (literatur menunjukkan penggunaan dalam TB rint…"
 monitor_inn: "PRETOMANID"
 predicted_indications: ["candidiasis", "leprosy", "coronary artery disease", "myocardial ischemia", "anomalous left coronary artery from the pulmonary artery"]

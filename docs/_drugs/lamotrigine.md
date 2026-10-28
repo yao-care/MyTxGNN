@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Lamotrigine: indikasi baharu diramal Neoplasma saraf trigeminal (tahap bukti L5). Indikasi asal: Epilepsi (hubungan direkodkan dalam graf pengetahuan"
 ---
 

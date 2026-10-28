@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 414
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Inclisiran"
 predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
 description: "Inclisiran: indikasi baharu diramal Kekurangan kalium (potassium deficiency disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

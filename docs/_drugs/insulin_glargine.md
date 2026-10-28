@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Insulin Glargine"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Insulin Glargine: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2, diabetes mellitus jenis 1…"
 ---
 

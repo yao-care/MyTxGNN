@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Tramadol"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Tramadol: indikasi baharu diramal Acromesomelic dysplasia, Hunter-Thompson type (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

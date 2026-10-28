@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Desogestrel"
 predicted_indications: ["amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "acne (disease)", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Desogestrel: indikasi baharu diramal Amenorea (tahap bukti L3). Indikasi asal: Tidak dinyatakan dalam teks lesen tempatan (kosong)"
 ---
 

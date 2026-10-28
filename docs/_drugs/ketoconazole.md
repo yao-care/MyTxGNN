@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ketoconazole"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Ketoconazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

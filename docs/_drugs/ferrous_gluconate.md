@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 356
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "FERROUS GLUCONATE"
 predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder"]
 description: "Ferrous Gluconate: indikasi baharu diramal Plummer-Vinson syndrome (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

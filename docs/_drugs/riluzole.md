@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Riluzole"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance", "amyotrohpic lateral sclerosis type 22"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Riluzole: indikasi baharu diramal Bilateral parasagittal parieto-occipital polymicrogyria (tahap bukti L5). Indikasi asal: Tidak tersedia dalam data lesen yang dikumpulkan"
 ---
 

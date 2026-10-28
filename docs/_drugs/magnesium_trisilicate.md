@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Magnesium Trisilicate"
 predicted_indications: ["gastroduodenitis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Magnesium Trisilicate: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Penyakit ulser peptik, GERD, esofagitis, dispepsia"
 ---
 

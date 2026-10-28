@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 3
 monitor_inn: "Albendazole"
 predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Albendazole: indikasi baharu diramal ekinokokosis alveolar (tahap bukti L3)."
 ---
 

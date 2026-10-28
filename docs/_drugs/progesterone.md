@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 7
 monitor_inn: "Progesterone"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Progesterone: indikasi baharu diramal Amenorea (tahap bukti L3). Indikasi asal: Teks indikasi diluluskan tidak tersedia dalam rekod lesen tempatan. H…"
 ---
 

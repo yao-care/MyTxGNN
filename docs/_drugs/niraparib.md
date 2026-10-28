@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 525
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "niraparib"
 predicted_indications: ["epiglottis neoplasm", "cystic neoplasm", "benign neoplasm of hypopharynx", "benign neoplasm of tongue", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "tumor of testis and paratestis", "inner ear neoplasm", "pre-malignant neoplasm", "schwannoma of jugular foramen"]
 description: "Niraparib: indikasi baharu diramal Epiglottis neoplasm (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

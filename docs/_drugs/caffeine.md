@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Caffeine"
 predicted_indications: ["nasal cavity disease", "thrombotic disease", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Caffeine: indikasi baharu diramal Penyakit rongga hidung (tahap bukti L5). Indikasi asal: Tiada teks indikasi lulus dalam data pelesenan tempatan"
 ---
 

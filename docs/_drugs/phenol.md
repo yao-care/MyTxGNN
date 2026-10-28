@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 569
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "PHENOL"
 predicted_indications: ["acrodermatitis chronica atrophicans", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "dry eye syndrome"]
 description: "Phenol: indikasi baharu diramal Acrodermatitis chronica atrophicans (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

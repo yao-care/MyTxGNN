@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "CITALOPRAM"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Citalopram: indikasi baharu diramal Gangguan Obsesif-Kompulsif (obsessive-compulsive disorder) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

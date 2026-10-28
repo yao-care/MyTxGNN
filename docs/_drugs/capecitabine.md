@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Capecitabine: indikasi baharu diramal Adenokarsinoma gaster dan poliposis proksimal gaster (gastric adenocarcinoma and proximal polyposis of the stomach) (tahap bukti L5). Indikasi asal: Tidak direko…"
 ---
 

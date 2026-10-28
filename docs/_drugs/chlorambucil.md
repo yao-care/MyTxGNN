@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CHLORAMBUCIL"
 predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Chlorambucil: indikasi baharu diramal Leukemia limfositik kronik/limfoma limfositik kecil pra-pusat germinal (tahap bukti L4). Indikasi asal: Limfoma Hodgkin dan penyakit limfoid lain (hubungan direk…"
 ---
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 716
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Valine: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L4). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "VALINE"
 predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyperthyroidism", "traumatic glaucoma", "aqueous misdirection", "neovascular glaucoma", "glaucomatous atrophy of optic disc", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "obsolete bundle branch block", "hyperthyroxinemia"]

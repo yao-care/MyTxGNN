@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 656
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Sotatercept"
 predicted_indications: ["acute lymphoblastic leukemia (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis", "diabetic cataract", "HER2 positive breast carcinoma", "transitional cell carcinoma", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant"]
 description: "Sotatercept: indikasi baharu diramal Leukemia limfoblastik akut (acute lymphoblastic leukemia (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

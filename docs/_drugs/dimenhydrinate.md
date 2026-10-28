@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 292
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "DIMENHYDRINATE"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
 description: "Dimenhydrinate: indikasi baharu diramal Urtikaria alergik (allergic urticaria) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

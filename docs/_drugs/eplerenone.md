@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "EPLERENONE"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Eplerenone: indikasi baharu diramal Pulmonary hypertension owing to lung disease and/or hypoxia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

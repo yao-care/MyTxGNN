@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ranibizumab"
 predicted_indications: ["tetanic cataract", "immature cataract", "mature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "hemorrhagic disease of newborn"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Ranibizumab: indikasi baharu diramal Tetanic cataract (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

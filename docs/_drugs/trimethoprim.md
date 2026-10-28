@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Trimethoprim: indikasi baharu diramal Keratokonjunktivitis epitelium berpunktat (tahap bukti L5). Indikasi asal: Hubungan yang direkodkan dalam graf pengetahuan: jangkitan saluran ke…"
 ---
 

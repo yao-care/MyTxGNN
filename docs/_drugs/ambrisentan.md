@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "AMBRISENTAN"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Ambrisentan: indikasi baharu diramal Malformasi arteriovenus pulmonari (pulmonary arteriovenous malformation (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

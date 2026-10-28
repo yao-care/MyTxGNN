@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 613
 evidence_level: L3
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "RANITIDINE"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 description: "Ranitidine: indikasi baharu diramal Peptic ulcer perforation (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"

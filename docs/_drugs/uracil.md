@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 711
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "Uracil"
 predicted_indications: ["colonic neoplasm", "gastric carcinoma", "rectosigmoid junction neoplasm", "lipoma of colon", "colonic lymphangioma", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "cavernous hemangioma of colon", "cecal disease", "colon leiomyoma"]
 description: "Uracil: indikasi baharu diramal Neoplasma kolon (colonic neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "Cilastatin"
 predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "paratyphoid fever", "bronchitis", "diffuse scleroderma", "salmonellosis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Cilastatin: indikasi baharu diramal Jangkitan Staphylococcus aureus (staphylococcus aureus infection) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

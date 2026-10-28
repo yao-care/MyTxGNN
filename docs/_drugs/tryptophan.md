@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 706
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "TRYPTOPHAN"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
 description: "Tryptophan: indikasi baharu diramal Sindrom kaki gelisah (restless legs syndrome) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"

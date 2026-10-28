@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 637
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 monitor_inn: "salmeterol"
 predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
 description: "Salmeterol: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
