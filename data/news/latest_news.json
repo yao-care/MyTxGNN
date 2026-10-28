@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-28T04:01:00.448222",
+  "fetched": "2026-10-28T10:57:40.414737",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 14,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Senator: What’s The Use Of ‘Toothless’ Health Service Commission?",
+      "url": "https://codeblue.galencentre.org/2026/10/senator-whats-the-use-of-toothless-health-service-commission/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-28T07:29:24",
+      "summary": "Senator Lingeshwaran asks what's the point of a \"toothless\" Health Service Commission (SPK) without the power to create new positions or set wages for health workers. He backs amendments to the Federal Constitution to authorise such powers for SPK. The post Senator: What’s The Use Of ‘Toothless’ Health Service Commission? appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "DAP MP Wants More Powers For Proposed Health Service Commission",
       "url": "https://codeblue.galencentre.org/2026/10/dap-mp-wants-more-powers-for-proposed-health-service-commission/",
@@ -99,54 +109,11 @@
       ]
     },
     {
-      "title": "Permanent Posts Alone Not Enough, Doctors Need Comprehensive Retention Strategy — MMA",
-      "url": "https://codeblue.galencentre.org/2026/10/permanent-posts-alone-not-enough-doctors-need-comprehensive-retention-strategy-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-23T08:36:05",
-      "summary": "Doctors in public health care need a working environment that values their contributions, supports their professional growth, and safeguards their well-being. The post Permanent Posts Alone Not Enough, Doctors Need Comprehensive Retention Strategy — MMA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Tawau water plant resumes operations after two-week disruption, but residents face longer wait for stable supply",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/28/tawau-water-plant-resumes-operations-after-two-week-disruption-but-residents-face-longer-wait-for-stable-supply/240903",
+      "title": "Botched Pahang raid leaves member of public injured, National Anti-Drugs Agency considers body cameras for officers",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/28/botched-pahang-raid-leaves-member-of-public-injured-national-anti-drugs-agency-considers-body-cameras-for-officers/240983",
       "source": "Malay Mail",
-      "published": "2026-10-28T03:02:08",
-      "summary": "TAWAU, Oct 28 — The Utara Water Treatment Plant (LRA) here began operations in stages on Monday following an impro...",
-      "keywords_matched": [
-        "treatment"
-      ]
-    },
-    {
-      "title": "Double first! Hospital Canselor Tuanku Muhriz becomes Malaysia’s only medical centre with two World Stroke Organisation certifications",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/28/double-first-hospital-canselor-tuanku-muhriz-becomes-malaysias-only-medical-centre-with-two-world-stroke-organisation-certifications/240896",
-      "source": "Malay Mail",
-      "published": "2026-10-28T02:44:41",
-      "summary": "KUALA LUMPUR, Oct 28 — Hospital Canselor Tuanku Muhriz (HCTM), Universiti Kebangsaan Malaysia (UKM), has made hist...",
-      "keywords_matched": [
-        "medical",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Breathing easier! No unhealthy air quality readings across Malaysia this morning",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/28/breathing-easier-no-unhealthy-air-quality-readings-across-malaysia-this-morning/240893",
-      "source": "Malay Mail",
-      "published": "2026-10-28T02:35:55",
-      "summary": "KUALA LUMPUR, Oct 28 — Air quality across Malaysia remained generally satisfactory this morning, with no areas rec...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Special delivery? Man nabbed over cannabis and drug-laced vapes at Kelantan courier outlet",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/28/special-delivery-man-nabbed-over-cannabis-and-drug-laced-vapes-at-kelantan-courier-outlet/240887",
-      "source": "Malay Mail",
-      "published": "2026-10-28T02:21:57",
-      "summary": "KOTA BHARU, Oct 28 — The General Operations Force (GOF) arrested a man, 30, in the parking lot of the Rantau Panja...",
+      "published": "2026-10-28T08:06:46",
+      "summary": "KUALA LUMPUR, Oct 28 — The National Anti-Drugs Agency (AADK) will discuss with the Home Ministry (KDN) a proposal...",
       "keywords_matched": [
         "drug"
       ]
