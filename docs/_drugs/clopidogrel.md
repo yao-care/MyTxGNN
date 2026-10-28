@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 238
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Clopidogrel: indikasi baharu diramal Migrain dengan aura batang otak (migraine with brainstem aura) (tahap bukti L5). Indikasi asal: Sindrom koronari akut"
 monitor_inn: "CLOPIDOGREL"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis"]
@@ -50,7 +50,7 @@ dengan **6 percubaan klinikal** dan **20 penerbitan** yang dikumpulkan untuk cal
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Sindrom koronari akut; embolisme intrakranial; infarksi miokardium dengan peningkatan segmen ST (daripada graf pengetahuan TxGNN) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder); ramalan kedudukan pertama: migrain dengan aura batang otak |
 | Skor Ramalan TxGNN | 0.9944 (gangguan migrain); 0.9944 (migrain dengan aura batang otak) |
 | Tahap Bukti | L5 (gangguan migrain); L3 (migrain dengan aura batang otak) |
@@ -104,7 +104,7 @@ Percubaan di bawah dikumpulkan untuk gangguan migrain. Tiada percubaan klinikal 
 
 ## Maklumat Pasaran Malaysia
 
-Clopidogrel tidak mempunyai pendaftaran yang direkodkan dalam data yang dikumpulkan untuk laporan ini, dan status pasarannya ialah "Tidak dipasarkan". Pengesahan semula dengan NPRA disyorkan sebelum sebarang perancangan.
+Pengesahan semula dengan NPRA disyorkan sebelum sebarang perancangan.
 
 ---
 
@@ -124,7 +124,7 @@ Sila rujuk sisipan pek untuk amaran dan kontraindikasi rasmi.
 
 **Rasional:**
 - Bukti untuk gangguan migrain berada pada tahap L2, dengan RCT yang relevan (CANOA, COMPETE) tetapi tertumpu pada subkumpulan PFO atau selepas penutupan septum, bukan populasi migrain umum. Risiko pendarahan dan hasil yang heterogen tidak menyokong saranan yang luas.
-- Untuk migrain dengan aura batang otak, tiada percubaan khusus (L3). Ubat ini juga tidak dipasarkan di Malaysia, dan data keselamatan label tidak lengkap, jadi tidak boleh diteruskan ke saringan keselamatan.
+- Untuk migrain dengan aura batang otak, tiada percubaan khusus (L3).
 - Ramalan lain (osteoartritis, tendinitis, miositis, artritis reumatoid) berada pada tahap bukti L4-L5 dan disyorkan Hold. Bagi osteoartritis dan artritis reumatoid, literatur malah menunjukkan isyarat yang bertentangan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
