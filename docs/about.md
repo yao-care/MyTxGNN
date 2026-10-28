@@ -3,14 +3,14 @@ layout: default
 title: Tentang Projek
 parent: Bantuan
 nav_order: 3
-description: "MyTxGNN is a drug repurposing prediction platform based on Harvard's TxGNN model, focused on Malaysia NPRA-approved drugs."
+description: "MyTxGNN ialah platform ramalan penggunaan semula ubat berdasarkan model TxGNN Harvard, memberi tumpuan kepada ubat-ubatan yang diluluskan NPRA Malaysia."
 permalink: /about/
 ---
 
-# About This Project
+# Tentang Projek Ini
 
 <div class="key-takeaway">
-Using AI to accelerate drug repurposing research for Malaysia's healthcare needs.
+Menggunakan AI untuk mempercepat penyelidikan penggunaan semula ubat bagi keperluan penjagaan kesihatan Malaysia.
 </div>
 
 ---
@@ -32,115 +32,115 @@ ClinicalTrials, serta integrasi rekod kesihatan elektronik SMART on FHIR.
 
 ---
 
-## Project Background
+## Latar Belakang Projek
 
-<p class="key-answer" data-question="What is MyTxGNN?">
-<strong>MyTxGNN</strong> is a drug repurposing research platform based on Harvard University's TxGNN model published in <em>Nature Medicine</em>. It predicts potential new indications for drugs registered with Malaysia's National Pharmaceutical Regulatory Agency (NPRA), integrating evidence from ClinicalTrials.gov, PubMed, and other authoritative sources.
+<p class="key-answer" data-question="Apakah MyTxGNN?">
+<strong>MyTxGNN</strong> ialah platform penyelidikan penggunaan semula ubat berdasarkan model TxGNN Harvard University yang diterbitkan dalam <em>Nature Medicine</em>. Ia meramal kemungkinan indikasi baharu bagi ubat yang didaftarkan dengan Agensi Pengawalan Farmaseutikal Kebangsaan Malaysia (NPRA), menggabungkan bukti daripada ClinicalTrials.gov, PubMed dan sumber berautoriti lain.
 </p>
 
 ---
 
-## Team & Attribution
+## Pasukan & Atribusi
 
-| Item | Information |
+| Item | Maklumat |
 |------|-------------|
-| Project Maintained By | 藥提醒科技有限公司 (yao.care) |
-| Model Foundation | Harvard TxGNN (Zitnik Lab) |
-| Data Source | NPRA Malaysia, data.gov.my |
-| Last Updated | March 2026 |
+| Diselenggara Oleh | 藥提醒科技有限公司 (yao.care) |
+| Asas Model | Harvard TxGNN (Zitnik Lab) |
+| Sumber Data | NPRA Malaysia, data.gov.my |
+| Kemas Kini Terakhir | Mac 2026 |
 
-### Academic Reference
+### Rujukan Akademik
 
-This project's AI prediction model is based on:
+Model ramalan AI projek ini berdasarkan:
 
 > Huang, K., et al. (2024). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
 > [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
 
 ---
 
-## What is Drug Repurposing?
+## Apakah Penggunaan Semula Ubat?
 
-<p class="key-answer" data-question="What is drug repurposing?">
-<strong>Drug Repurposing</strong> (also known as drug repositioning) is the process of finding new therapeutic uses for existing drugs. Compared to developing new drugs from scratch, which takes 10-15 years and costs $1-2 billion, drug repurposing can be completed in 3-5 years at a fraction of the cost, with lower failure risk since safety data already exists.
+<p class="key-answer" data-question="Apakah penggunaan semula ubat?">
+<strong>Penggunaan Semula Ubat</strong> (juga dikenali sebagai drug repositioning) ialah proses mencari kegunaan terapeutik baharu bagi ubat sedia ada. Berbanding membangunkan ubat baharu dari awal yang mengambil masa 10-15 tahun dan kos USD 1-2 bilion, penggunaan semula ubat boleh disiapkan dalam 3-5 tahun dengan kos jauh lebih rendah, dan risiko kegagalan lebih rendah kerana data keselamatan sudah wujud.
 </p>
 
 <table class="comparison-table">
 <thead>
-<tr><th>Comparison</th><th>New Drug Development</th><th>Drug Repurposing</th></tr>
+<tr><th>Perbandingan</th><th>Pembangunan Ubat Baharu</th><th>Penggunaan Semula Ubat</th></tr>
 </thead>
 <tbody>
-<tr><td>Development Time</td><td>10-15 years</td><td>3-5 years</td></tr>
-<tr><td>Development Cost</td><td>$1-2 billion</td><td>$100-300 million</td></tr>
-<tr><td>Safety Data</td><td>Must establish new</td><td>Already available</td></tr>
-<tr><td>Failure Risk</td><td>Very high (>90%)</td><td>Lower</td></tr>
+<tr><td>Tempoh Pembangunan</td><td>10-15 tahun</td><td>3-5 tahun</td></tr>
+<tr><td>Kos Pembangunan</td><td>USD 1-2 bilion</td><td>USD 100-300 juta</td></tr>
+<tr><td>Data Keselamatan</td><td>Perlu diwujudkan baharu</td><td>Sudah tersedia</td></tr>
+<tr><td>Risiko Kegagalan</td><td>Sangat tinggi (>90%)</td><td>Lebih rendah</td></tr>
 </tbody>
 </table>
 
 <div class="key-takeaway">
-The advantage of drug repurposing: safety, pharmacokinetics, and manufacturing have already been validated, allowing direct entry into clinical efficacy trials.
+Kelebihan penggunaan semula ubat: keselamatan, farmakokinetik dan pembuatan sudah disahkan, membolehkan terus memasuki ujian klinikal keberkesanan.
 </div>
 
 ---
 
-## What is TxGNN?
+## Apakah TxGNN?
 
-<p class="key-answer" data-question="What is TxGNN?">
-<a href="https://www.nature.com/articles/s41591-024-03233-x">TxGNN</a> is a deep learning model developed by Harvard Medical School's Zitnik Lab, published in <em>Nature Medicine</em>. It predicts new drug-disease relationships and is the first foundation model designed specifically for clinician-centered drug repurposing.
+<p class="key-answer" data-question="Apakah TxGNN?">
+<a href="https://www.nature.com/articles/s41591-024-03233-x">TxGNN</a> ialah model pembelajaran mendalam yang dibangunkan oleh Zitnik Lab, Harvard Medical School, diterbitkan dalam <em>Nature Medicine</em>. Ia meramal perkaitan ubat-penyakit baharu dan merupakan model asas pertama yang direka khusus untuk penggunaan semula ubat berpaksikan klinikal.
 </p>
 
 <blockquote class="expert-quote">
-"TxGNN integrates a knowledge graph covering 17,080 diseases, using graph neural networks to learn complex relationships between nodes, enabling prediction of drug efficacy for rare diseases."
+"TxGNN menggabungkan graf pengetahuan merangkumi 17,080 penyakit, menggunakan rangkaian neural graf untuk mempelajari perkaitan kompleks antara nod, membolehkan ramalan keberkesanan ubat untuk penyakit jarang."
 <cite>— Huang et al., Nature Medicine (2024)</cite>
 </blockquote>
 
-### Technical Features
+### Ciri Teknikal
 
 <ol class="actionable-steps">
-<li><strong>Knowledge Graph</strong>: Biomedical knowledge graph covering 17,080 diseases, plus drugs, genes and proteins</li>
-<li><strong>Graph Neural Network</strong>: Learns complex relationships between nodes</li>
-<li><strong>Prediction Capability</strong>: Predicts which diseases a drug may be effective for</li>
+<li><strong>Graf Pengetahuan</strong>: Graf pengetahuan bioperubatan merangkumi 17,080 penyakit, ditambah ubat, gen dan protein</li>
+<li><strong>Rangkaian Neural Graf</strong>: Mempelajari perkaitan kompleks antara nod</li>
+<li><strong>Keupayaan Ramalan</strong>: Meramal penyakit yang mungkin dirawat secara berkesan oleh sesuatu ubat</li>
 </ol>
 
 ---
 
-## Data Sources
+## Sumber Data
 
-<p class="key-answer" data-question="What are MyTxGNN's data sources?">
-This platform integrates multiple public data sources including AI predictions, clinical trials, academic literature, drug information, Malaysia regulatory data, and drug interaction databases.
+<p class="key-answer" data-question="Apakah sumber data MyTxGNN?">
+Platform ini menggabungkan pelbagai sumber data awam termasuk ramalan AI, ujian klinikal, literatur akademik, maklumat ubat, data kawal selia Malaysia dan pangkalan data interaksi ubat.
 </p>
 
 <table class="comparison-table">
 <thead>
-<tr><th>Data Type</th><th>Source</th><th>Description</th></tr>
+<tr><th>Jenis Data</th><th>Sumber</th><th>Penerangan</th></tr>
 </thead>
 <tbody>
-<tr><td>AI Prediction</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Harvard graph neural network trained on a knowledge graph</td></tr>
-<tr><td>Clinical Trials</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>Global clinical trial registry</td></tr>
-<tr><td>Literature</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>Biomedical literature database</td></tr>
-<tr><td>Drug Information</td><td><a href="https://go.drugbank.com/">DrugBank</a></td><td>Drug and target database</td></tr>
-<tr><td>Malaysia Regulatory</td><td><a href="https://npra.gov.my/">NPRA</a></td><td>National Pharmaceutical Regulatory Agency</td></tr>
-<tr><td>Open Data</td><td><a href="https://data.gov.my/">data.gov.my</a></td><td>Malaysia Government Open Data</td></tr>
+<tr><td>Ramalan AI</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Rangkaian neural graf Harvard yang dilatih pada graf pengetahuan</td></tr>
+<tr><td>Ujian Klinikal</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>Pendaftaran ujian klinikal global</td></tr>
+<tr><td>Literatur</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>Pangkalan data literatur bioperubatan</td></tr>
+<tr><td>Maklumat Ubat</td><td><a href="https://go.drugbank.com/">DrugBank</a></td><td>Pangkalan data ubat dan sasaran</td></tr>
+<tr><td>Kawal Selia Malaysia</td><td><a href="https://npra.gov.my/">NPRA</a></td><td>Agensi Pengawalan Farmaseutikal Kebangsaan</td></tr>
+<tr><td>Data Terbuka</td><td><a href="https://data.gov.my/">data.gov.my</a></td><td>Data Terbuka Kerajaan Malaysia</td></tr>
 </tbody>
 </table>
 
 ---
 
-## Project Scale
+## Skala Projek
 
-| Item | Count |
+| Item | Jumlah |
 |------|-------|
-| NPRA Registered Products | 27,938 |
-| Drugs with DrugBank Mapping | 508 |
-| Predicted New Indications (known uses excluded) | {{ site.data.site_stats.indications }} |
-| Unique Diseases | 17,041 |
+| Produk Berdaftar NPRA | 27,938 |
+| Ubat dengan Pemetaan DrugBank | 508 |
+| Indikasi Baharu Diramal (kegunaan sedia ada dikecualikan) | {{ site.data.site_stats.indications }} |
+| Penyakit Unik | 17,041 |
 
 ---
 
-## How to Cite
+## Cara Memetik
 
-If using this platform's data, please cite:
+Jika menggunakan data platform ini, sila petik:
 
-### TxGNN Model
+### Model TxGNN
 
 ```bibtex
 @article{huang2023txgnn,
@@ -154,18 +154,18 @@ If using this platform's data, please cite:
 
 ---
 
-## Contact & Feedback
+## Hubungi & Maklum Balas
 
-For questions or suggestions, please contact us through:
+Untuk soalan atau cadangan, sila hubungi kami melalui:
 
 - **GitHub Issues**: [https://github.com/yao-care/MyTxGNN/issues](https://github.com/yao-care/MyTxGNN/issues)
-- **Project Homepage**: [https://mytxgnn.yao.care/](https://mytxgnn.yao.care/)
+- **Laman Utama Projek**: [https://mytxgnn.yao.care/](https://mytxgnn.yao.care/)
 
 ---
 
 <div class="disclaimer">
-<strong>Disclaimer</strong><br>
-This report is for <strong>academic research purposes only</strong> and does not constitute medical advice. Drug use should follow physician guidance. Do not self-adjust medications. Any drug repurposing decisions require complete clinical validation and regulatory review.
+<strong>Penafian</strong><br>
+Laporan ini adalah untuk <strong>tujuan penyelidikan akademik sahaja</strong> dan tidak membentuk nasihat perubatan. Penggunaan ubat perlu mengikut panduan doktor; jangan melaraskan ubat sendiri. Sebarang keputusan penggunaan semula ubat memerlukan pengesahan klinikal dan semakan kawal selia yang lengkap.
 <br><br>
-<small>Last reviewed: 2026-03-03 | Reviewer: 藥提醒科技有限公司 (yao.care)</small>
+<small>Semakan terakhir: 2026-03-03 | Penyemak: 藥提醒科技有限公司 (yao.care)</small>
 </div>
