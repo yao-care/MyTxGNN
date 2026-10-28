@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | **Nama Ubat** | Gatifloxacin |
 | **ID DrugBank** | [DB01044](https://go.drugbank.com/drugs/DB01044) |
-| **Ramalan KG** | 10 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

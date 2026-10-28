@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 5 (sah: 5) |
 | **Nama Ubat** | Racecadotril |
 | **ID DrugBank** | [DB11696](https://go.drugbank.com/drugs/DB11696) |
-| **Ramalan KG** | 5 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

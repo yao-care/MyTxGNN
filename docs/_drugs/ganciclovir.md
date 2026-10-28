@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 5 (sah: 5) |
 | **Nama Ubat** | Ganciclovir |
 | **ID DrugBank** | [DB01004](https://go.drugbank.com/drugs/DB01004) |
-| **Ramalan KG** | 3 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

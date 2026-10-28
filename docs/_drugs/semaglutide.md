@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 15 (sah: 15) |
 | **Nama Ubat** | Semaglutide |
 | **ID DrugBank** | [DB13928](https://go.drugbank.com/drugs/DB13928) |
-| **Ramalan KG** | 30 |
 | **Ramalan DL (≥0.7)** | 12 |
 | **Status NPRA** | Approved |
 

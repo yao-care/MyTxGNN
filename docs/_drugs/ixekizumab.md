@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Ixekizumab |
 | **ID DrugBank** | [DB11569](https://go.drugbank.com/drugs/DB11569) |
-| **Ramalan KG** | 4 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

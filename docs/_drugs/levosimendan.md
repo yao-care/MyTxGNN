@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | **Nama Ubat** | Levosimendan |
 | **ID DrugBank** | [DB00922](https://go.drugbank.com/drugs/DB00922) |
-| **Ramalan KG** | 2 |
 | **Ramalan DL (≥0.7)** | 48 |
 | **Status NPRA** | Approved |
 

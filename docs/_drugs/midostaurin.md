@@ -25,7 +25,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Midostaurin |
 | **ID DrugBank** | [DB06595](https://go.drugbank.com/drugs/DB06595) |
-| **Ramalan KG** | 42 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

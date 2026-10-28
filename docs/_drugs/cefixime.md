@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 5 (sah: 5) |
 | **Nama Ubat** | Cefixime |
 | **ID DrugBank** | [DB00671](https://go.drugbank.com/drugs/DB00671) |
-| **Ramalan KG** | 40 |
 | **Ramalan DL (≥0.7)** | 66 |
 | **Status NPRA** | Approved |
 

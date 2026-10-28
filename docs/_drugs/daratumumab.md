@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Daratumumab |
 | **ID DrugBank** | [DB09331](https://go.drugbank.com/drugs/DB09331) |
-| **Ramalan KG** | 2 |
 | **Ramalan DL (≥0.7)** | 2 |
 | **Status NPRA** | Approved |
 

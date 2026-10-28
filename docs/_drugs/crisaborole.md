@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | **Nama Ubat** | Crisaborole |
 | **ID DrugBank** | [DB05219](https://go.drugbank.com/drugs/DB05219) |
-| **Ramalan KG** | 2 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

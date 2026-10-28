@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Naltrexone |
 | **ID DrugBank** | [DB00704](https://go.drugbank.com/drugs/DB00704) |
-| **Ramalan KG** | 3 |
 | **Ramalan DL (≥0.7)** | 9 |
 | **Status NPRA** | Approved |
 

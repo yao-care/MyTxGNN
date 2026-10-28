@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Repaglinide |
 | **ID DrugBank** | [DB00912](https://go.drugbank.com/drugs/DB00912) |
-| **Ramalan KG** | 4 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

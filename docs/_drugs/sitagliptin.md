@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 33 (sah: 33) |
 | **Nama Ubat** | Sitagliptin |
 | **ID DrugBank** | [DB01261](https://go.drugbank.com/drugs/DB01261) |
-| **Ramalan KG** | 12 |
 | **Ramalan DL (≥0.7)** | 12 |
 | **Status NPRA** | Approved |
 

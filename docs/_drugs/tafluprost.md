@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 3 (sah: 3) |
 | **Nama Ubat** | Tafluprost |
 | **ID DrugBank** | [DB08819](https://go.drugbank.com/drugs/DB08819) |
-| **Ramalan KG** | 6 |
 | **Ramalan DL (≥0.7)** | 27 |
 | **Status NPRA** | Approved |
 

@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 457 (sah: 457) |
 | **Nama Ubat** | Riboflavin |
 | **ID DrugBank** | [DB00140](https://go.drugbank.com/drugs/DB00140) |
-| **Ramalan KG** | 2 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

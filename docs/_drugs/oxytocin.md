@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 4 (sah: 4) |
 | **Nama Ubat** | Oxytocin |
 | **ID DrugBank** | [DB00107](https://go.drugbank.com/drugs/DB00107) |
-| **Ramalan KG** | 4 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

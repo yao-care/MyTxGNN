@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 12 (sah: 12) |
 | **Nama Ubat** | Pomalidomide |
 | **ID DrugBank** | [DB08910](https://go.drugbank.com/drugs/DB08910) |
-| **Ramalan KG** | 12 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

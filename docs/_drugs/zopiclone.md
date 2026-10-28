@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 4 (sah: 4) |
 | **Nama Ubat** | Zopiclone |
 | **ID DrugBank** | [DB01198](https://go.drugbank.com/drugs/DB01198) |
-| **Ramalan KG** | 4 |
 | **Ramalan DL (≥0.7)** | 8 |
 | **Status NPRA** | Approved |
 

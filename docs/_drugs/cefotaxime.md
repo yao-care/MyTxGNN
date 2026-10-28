@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 4 (sah: 4) |
 | **Nama Ubat** | Cefotaxime |
 | **ID DrugBank** | [DB00493](https://go.drugbank.com/drugs/DB00493) |
-| **Ramalan KG** | 11 |
 | **Ramalan DL (≥0.7)** | 97 |
 | **Status NPRA** | Approved |
 

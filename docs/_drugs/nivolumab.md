@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | **Nama Ubat** | Nivolumab |
 | **ID DrugBank** | [DB09035](https://go.drugbank.com/drugs/DB09035) |
-| **Ramalan KG** | 4 |
 | **Ramalan DL (≥0.7)** | 63 |
 | **Status NPRA** | Approved |
 

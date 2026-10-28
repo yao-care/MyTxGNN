@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Rebamipide |
 | **ID DrugBank** | [DB11656](https://go.drugbank.com/drugs/DB11656) |
-| **Ramalan KG** | 4 |
 | **Ramalan DL (≥0.7)** | 45 |
 | **Status NPRA** | Approved |
 

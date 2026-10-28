@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 128 (sah: 128) |
 | **Nama Ubat** | Urea |
 | **ID DrugBank** | [DB03904](https://go.drugbank.com/drugs/DB03904) |
-| **Ramalan KG** | 18 |
 | **Ramalan DL (≥0.7)** | 27 |
 | **Status NPRA** | Approved |
 

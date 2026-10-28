@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 9 (sah: 9) |
 | **Nama Ubat** | Nifedipine |
 | **ID DrugBank** | [DB01115](https://go.drugbank.com/drugs/DB01115) |
-| **Ramalan KG** | 27 |
 | **Ramalan DL (≥0.7)** | 10 |
 | **Status NPRA** | Approved |
 

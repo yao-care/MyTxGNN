@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Trifluridine |
 | **ID DrugBank** | [DB00432](https://go.drugbank.com/drugs/DB00432) |
-| **Ramalan KG** | 10 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

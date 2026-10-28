@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | **Nama Ubat** | Tafamidis |
 | **ID DrugBank** | [DB11644](https://go.drugbank.com/drugs/DB11644) |
-| **Ramalan KG** | 4 |
 | **Ramalan DL (≥0.7)** | 36 |
 | **Status NPRA** | Approved |
 

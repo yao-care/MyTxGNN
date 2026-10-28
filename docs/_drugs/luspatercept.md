@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Luspatercept |
 | **ID DrugBank** | [DB12281](https://go.drugbank.com/drugs/DB12281) |
-| **Ramalan KG** | 14 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

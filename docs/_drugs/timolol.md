@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 25 (sah: 25) |
 | **Nama Ubat** | Timolol |
 | **ID DrugBank** | [DB00373](https://go.drugbank.com/drugs/DB00373) |
-| **Ramalan KG** | 4 |
 | **Ramalan DL (≥0.7)** | 21 |
 | **Status NPRA** | Approved |
 

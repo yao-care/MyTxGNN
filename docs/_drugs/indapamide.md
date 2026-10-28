@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 14 (sah: 14) |
 | **Nama Ubat** | Indapamide |
 | **ID DrugBank** | [DB00808](https://go.drugbank.com/drugs/DB00808) |
-| **Ramalan KG** | 42 |
 | **Ramalan DL (≥0.7)** | 15 |
 | **Status NPRA** | Approved |
 

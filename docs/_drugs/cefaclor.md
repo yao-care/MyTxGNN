@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 4 (sah: 4) |
 | **Nama Ubat** | Cefaclor |
 | **ID DrugBank** | [DB00833](https://go.drugbank.com/drugs/DB00833) |
-| **Ramalan KG** | 10 |
 | **Ramalan DL (≥0.7)** | 41 |
 | **Status NPRA** | Approved |
 

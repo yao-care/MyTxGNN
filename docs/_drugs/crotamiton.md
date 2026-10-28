@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 9 (sah: 9) |
 | **Nama Ubat** | Crotamiton |
 | **ID DrugBank** | [DB00265](https://go.drugbank.com/drugs/DB00265) |
-| **Ramalan KG** | 27 |
 | **Ramalan DL (≥0.7)** | 270 |
 | **Status NPRA** | Approved |
 

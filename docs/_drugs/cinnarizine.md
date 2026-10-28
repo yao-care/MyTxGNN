@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 5 (sah: 5) |
 | **Nama Ubat** | Cinnarizine |
 | **ID DrugBank** | [DB00568](https://go.drugbank.com/drugs/DB00568) |
-| **Ramalan KG** | 10 |
 | **Ramalan DL (≥0.7)** | 118 |
 | **Status NPRA** | Approved |
 

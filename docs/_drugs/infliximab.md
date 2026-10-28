@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 5 (sah: 5) |
 | **Nama Ubat** | Infliximab |
 | **ID DrugBank** | [DB00065](https://go.drugbank.com/drugs/DB00065) |
-| **Ramalan KG** | 40 |
 | **Ramalan DL (≥0.7)** | 21 |
 | **Status NPRA** | Approved |
 

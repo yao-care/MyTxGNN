@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 4 (sah: 4) |
 | **Nama Ubat** | Lumefantrine |
 | **ID DrugBank** | [DB06708](https://go.drugbank.com/drugs/DB06708) |
-| **Ramalan KG** | 8 |
 | **Ramalan DL (≥0.7)** | 14 |
 | **Status NPRA** | Approved |
 

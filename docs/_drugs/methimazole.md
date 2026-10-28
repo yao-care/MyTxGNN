@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | **Nama Ubat** | Methimazole |
 | **ID DrugBank** | [DB00763](https://go.drugbank.com/drugs/DB00763) |
-| **Ramalan KG** | 3 |
 | **Ramalan DL (≥0.7)** | 16 |
 | **Status NPRA** | Approved |
 

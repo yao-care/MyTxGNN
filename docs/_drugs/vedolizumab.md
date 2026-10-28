@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Vedolizumab |
 | **ID DrugBank** | [DB09033](https://go.drugbank.com/drugs/DB09033) |
-| **Ramalan KG** | 8 |
 | **Ramalan DL (≥0.7)** | 18 |
 | **Status NPRA** | Approved |
 

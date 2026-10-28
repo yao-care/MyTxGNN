@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 3 (sah: 3) |
 | **Nama Ubat** | Permethrin |
 | **ID DrugBank** | [DB04930](https://go.drugbank.com/drugs/DB04930) |
-| **Ramalan KG** | 12 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

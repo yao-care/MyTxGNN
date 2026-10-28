@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 5 (sah: 5) |
 | **Nama Ubat** | Tigecycline |
 | **ID DrugBank** | [DB00560](https://go.drugbank.com/drugs/DB00560) |
-| **Ramalan KG** | 5 |
 | **Ramalan DL (≥0.7)** | 61 |
 | **Status NPRA** | Approved |
 

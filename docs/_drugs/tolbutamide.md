@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | **Nama Ubat** | Tolbutamide |
 | **ID DrugBank** | [DB01124](https://go.drugbank.com/drugs/DB01124) |
-| **Ramalan KG** | 2 |
 | **Ramalan DL (≥0.7)** | 12 |
 | **Status NPRA** | Approved |
 

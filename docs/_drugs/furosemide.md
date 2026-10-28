@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 17 (sah: 17) |
 | **Nama Ubat** | Furosemide |
 | **ID DrugBank** | [DB00695](https://go.drugbank.com/drugs/DB00695) |
-| **Ramalan KG** | 15 |
 | **Ramalan DL (≥0.7)** | 11 |
 | **Status NPRA** | Approved |
 

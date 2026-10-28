@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Udenafil |
 | **ID DrugBank** | [DB06267](https://go.drugbank.com/drugs/DB06267) |
-| **Ramalan KG** | 6 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

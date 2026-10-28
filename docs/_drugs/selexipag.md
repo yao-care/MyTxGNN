@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 8 (sah: 8) |
 | **Nama Ubat** | Selexipag |
 | **ID DrugBank** | [DB11362](https://go.drugbank.com/drugs/DB11362) |
-| **Ramalan KG** | 8 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

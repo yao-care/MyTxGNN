@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Glipizide |
 | **ID DrugBank** | [DB01067](https://go.drugbank.com/drugs/DB01067) |
-| **Ramalan KG** | 4 |
 | **Ramalan DL (≥0.7)** | 12 |
 | **Status NPRA** | Approved |
 

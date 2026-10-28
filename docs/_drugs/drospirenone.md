@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 8 (sah: 8) |
 | **Nama Ubat** | Drospirenone |
 | **ID DrugBank** | [DB01395](https://go.drugbank.com/drugs/DB01395) |
-| **Ramalan KG** | 21 |
 | **Ramalan DL (≥0.7)** | 78 |
 | **Status NPRA** | Approved |
 

@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 19 (sah: 19) |
 | **Nama Ubat** | Gabapentin |
 | **ID DrugBank** | [DB00996](https://go.drugbank.com/drugs/DB00996) |
-| **Ramalan KG** | 38 |
 | **Ramalan DL (≥0.7)** | 31 |
 | **Status NPRA** | Approved |
 

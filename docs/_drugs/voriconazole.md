@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 10 (sah: 10) |
 | **Nama Ubat** | Voriconazole |
 | **ID DrugBank** | [DB00582](https://go.drugbank.com/drugs/DB00582) |
-| **Ramalan KG** | 50 |
 | **Ramalan DL (≥0.7)** | 109 |
 | **Status NPRA** | Approved |
 

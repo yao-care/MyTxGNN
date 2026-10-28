@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 3 (sah: 3) |
 | **Nama Ubat** | Burosumab |
 | **ID DrugBank** | [DB14012](https://go.drugbank.com/drugs/DB14012) |
-| **Ramalan KG** | 3 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

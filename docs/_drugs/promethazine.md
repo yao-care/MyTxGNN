@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 28 (sah: 28) |
 | **Nama Ubat** | Promethazine |
 | **ID DrugBank** | [DB01069](https://go.drugbank.com/drugs/DB01069) |
-| **Ramalan KG** | 7 |
 | **Ramalan DL (≥0.7)** | 32 |
 | **Status NPRA** | Approved |
 

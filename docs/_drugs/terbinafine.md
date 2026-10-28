@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 28 (sah: 28) |
 | **Nama Ubat** | Terbinafine |
 | **ID DrugBank** | [DB00857](https://go.drugbank.com/drugs/DB00857) |
-| **Ramalan KG** | 6 |
 | **Ramalan DL (≥0.7)** | 28 |
 | **Status NPRA** | Approved |
 

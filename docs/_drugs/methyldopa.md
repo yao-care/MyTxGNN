@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 3 (sah: 3) |
 | **Nama Ubat** | Methyldopa |
 | **ID DrugBank** | [DB00968](https://go.drugbank.com/drugs/DB00968) |
-| **Ramalan KG** | 6 |
 | **Ramalan DL (≥0.7)** | 7 |
 | **Status NPRA** | Approved |
 

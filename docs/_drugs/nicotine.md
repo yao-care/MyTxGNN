@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 16 (sah: 16) |
 | **Nama Ubat** | Nicotine |
 | **ID DrugBank** | [DB00184](https://go.drugbank.com/drugs/DB00184) |
-| **Ramalan KG** | 12 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

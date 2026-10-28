@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 26 (sah: 26) |
 | **Nama Ubat** | Dapagliflozin |
 | **ID DrugBank** | [DB06292](https://go.drugbank.com/drugs/DB06292) |
-| **Ramalan KG** | 28 |
 | **Ramalan DL (≥0.7)** | 12 |
 | **Status NPRA** | Approved |
 

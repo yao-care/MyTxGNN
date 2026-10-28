@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 5 (sah: 5) |
 | **Nama Ubat** | Ibrutinib |
 | **ID DrugBank** | [DB09053](https://go.drugbank.com/drugs/DB09053) |
-| **Ramalan KG** | 45 |
 | **Ramalan DL (≥0.7)** | 44 |
 | **Status NPRA** | Approved |
 

@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 4 (sah: 4) |
 | **Nama Ubat** | Lercanidipine |
 | **ID DrugBank** | [DB00528](https://go.drugbank.com/drugs/DB00528) |
-| **Ramalan KG** | 2 |
 | **Ramalan DL (≥0.7)** | 9 |
 | **Status NPRA** | Approved |
 

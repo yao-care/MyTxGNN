@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 5 (sah: 5) |
 | **Nama Ubat** | Riociguat |
 | **ID DrugBank** | [DB08931](https://go.drugbank.com/drugs/DB08931) |
-| **Ramalan KG** | 10 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

@@ -25,7 +25,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 3 (sah: 3) |
 | **Nama Ubat** | Cisplatin |
 | **ID DrugBank** | [DB00515](https://go.drugbank.com/drugs/DB00515) |
-| **Ramalan KG** | 42 |
 | **Ramalan DL (≥0.7)** | 115 |
 | **Status NPRA** | Approved |
 

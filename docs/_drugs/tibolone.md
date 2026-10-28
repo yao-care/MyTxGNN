@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | **Nama Ubat** | Tibolone |
 | **ID DrugBank** | [DB09070](https://go.drugbank.com/drugs/DB09070) |
-| **Ramalan KG** | 2 |
 | **Ramalan DL (≥0.7)** | 38 |
 | **Status NPRA** | Approved |
 

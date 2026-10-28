@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 370 (sah: 370) |
 | **Nama Ubat** | Nicotinamide |
 | **ID DrugBank** | [DB02701](https://go.drugbank.com/drugs/DB02701) |
-| **Ramalan KG** | 42 |
 | **Ramalan DL (≥0.7)** | 35 |
 | **Status NPRA** | Approved |
 

@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Idursulfase |
 | **ID DrugBank** | [DB01271](https://go.drugbank.com/drugs/DB01271) |
-| **Ramalan KG** | 1 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Pentoxifylline |
 | **ID DrugBank** | [DB00806](https://go.drugbank.com/drugs/DB00806) |
-| **Ramalan KG** | 6 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

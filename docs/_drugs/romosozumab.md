@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | **Nama Ubat** | Romosozumab |
 | **ID DrugBank** | [DB11866](https://go.drugbank.com/drugs/DB11866) |
-| **Ramalan KG** | 2 |
 | **Ramalan DL (≥0.7)** | 30 |
 | **Status NPRA** | Approved |
 

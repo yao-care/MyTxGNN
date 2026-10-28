@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | **Nama Ubat** | Teicoplanin |
 | **ID DrugBank** | [DB06149](https://go.drugbank.com/drugs/DB06149) |
-| **Ramalan KG** | 1 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

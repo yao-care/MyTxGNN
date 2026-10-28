@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | **Nama Ubat** | Ethionamide |
 | **ID DrugBank** | [DB00609](https://go.drugbank.com/drugs/DB00609) |
-| **Ramalan KG** | 1 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

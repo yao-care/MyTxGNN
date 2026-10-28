@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 42 (sah: 42) |
 | **Nama Ubat** | Estradiol |
 | **ID DrugBank** | [DB00783](https://go.drugbank.com/drugs/DB00783) |
-| **Ramalan KG** | 24 |
 | **Ramalan DL (≥0.7)** | 0 |
 | **Status NPRA** | Approved |
 

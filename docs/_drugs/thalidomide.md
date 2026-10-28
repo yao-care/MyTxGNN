@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | **Nama Ubat** | Thalidomide |
 | **ID DrugBank** | [DB01041](https://go.drugbank.com/drugs/DB01041) |
-| **Ramalan KG** | 1 |
 | **Ramalan DL (≥0.7)** | 11 |
 | **Status NPRA** | Approved |
 

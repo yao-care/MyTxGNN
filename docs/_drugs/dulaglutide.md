@@ -27,7 +27,6 @@ evidence_level: N/A
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Dulaglutide |
 | **ID DrugBank** | [DB09045](https://go.drugbank.com/drugs/DB09045) |
-| **Ramalan KG** | 4 |
 | **Ramalan DL (≥0.7)** | 10 |
 | **Status NPRA** | Approved |
 
