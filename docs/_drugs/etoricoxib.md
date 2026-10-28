@@ -4,17 +4,17 @@ title: Etoricoxib
 parent: Low Evidence (L4-L5)
 nav_order: 344
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Etoricoxib: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tiada rekod lesen NPRA"
 monitor_inn: "ETORICOXIB"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
 ---
 
 # Etoricoxib
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 ## Ringkasan Satu Ayat
 
 Etorikoksib ialah perencat COX-2 terpilih daripada kelas NSAID, yang secara klinikal digunakan untuk keradangan dan kesakitan (contohnya artritis, sakit belakang, gout), tetapi data lesen NPRA bagi penunjuk asal tidak tersedia kerana ubat ini tidak berdaftar di Malaysia.
-Model TxGNN meramalkan ubat ini mungkin berkesan untuk **gangguan migrain** (skor 99.90%),
+Model TxGNN meramalkan ubat ini mungkin berkesan untuk **gangguan migrain** (skor 0.9990),
 tetapi pada masa ini **tiada ujian klinikal** dan hanya **1 penerbitan** (kajian skop yang tidak langsung) menyokong arah ini.
 
 ---
@@ -50,10 +50,10 @@ tetapi pada masa ini **tiada ujian klinikal** dan hanya **1 penerbitan** (kajian
 |------|------|
 | Penunjuk Asal | Tiada rekod lesen NPRA; rujukan farmakologi menyenaraikan artritis reumatoid, osteoartritis, sakit belakang bawah kronik, spondilitis ankilosing, sakit akut dan gout |
 | Penunjuk Baharu yang Diramalkan | Gangguan migrain (*migraine disorder*) |
-| Skor Ramalan TxGNN | 99.90% |
+| Skor Ramalan TxGNN | 0.9990 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 79 daripada 79) |
+| Bilangan Pendaftaran | 79 (sah: 79) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -88,7 +88,7 @@ Selain migrain, bukti berikut ditemui untuk penunjuk berkaitan sakit kepala (bag
 |------|------|------|
 | Gangguan sakit kepala (*headache disorder*) | L4 | Beberapa laporan kes dan siri kecil (PMID [17883876](https://pubmed.ncbi.nlm.nih.gov/17883876/), [18171381](https://pubmed.ncbi.nlm.nih.gov/18171381/), [35277974](https://pubmed.ncbi.nlm.nih.gov/35277974/), [36893522](https://pubmed.ncbi.nlm.nih.gov/36893522/)) melaporkan tindak balas terhadap etorikoksib dalam sakit kepala menikam primer, sakit kepala responsif indometasin dan sakit kepala batuk sekunder. Terdapat juga laporan kes sindrom vasokonstriksi serebrum boleh balik yang mungkin disebabkan etorikoksib ([25229174](https://pubmed.ncbi.nlm.nih.gov/25229174/)). |
 | Sefalalgia autonomik trigeminal | L4 | Satu laporan pemerhatian kecil ([35277974](https://pubmed.ncbi.nlm.nih.gov/35277974/)) menunjukkan COX-2 perencat mungkin alternatif kepada indometasin yang sukar ditoleransi. |
-| Migrain dengan atau tanpa aura, kerentanan | L4 | Kajian praklinikal ([29209105](https://pubmed.ncbi.nlm.nih.gov/29209105/)) menunjukkan NSAID, termasuk etorikoksib, memodulasi pembebasan CGRP dan PGE2 daripada ganglia trigeminal tikus. Ini bukti tidak langsung; entri ini ialah fenotip kerentanan genetik, bukan keadaan klinikal yang boleh dirawat. |
+| Migrain dengan atau tanpa aura, kerentanan | L5 | Kajian praklinikal ([29209105](https://pubmed.ncbi.nlm.nih.gov/29209105/)) menunjukkan NSAID, termasuk etorikoksib, memodulasi pembebasan CGRP dan PGE2 daripada ganglia trigeminal tikus. Ini bukti tidak langsung; entri ini ialah fenotip kerentanan genetik, bukan keadaan klinikal yang boleh dirawat. |
 
 Ramalan lain (migrain dengan aura batang otak, atrofoderma vermikulata, ulerythema ophryogenesis, hipertensi pulmonari, hiperplasia prostat benigna, penyakit jantung kifoskoliotik) hanya berasaskan ramalan model (L5) tanpa bukti sokongan. Bagi hipertensi pulmonari, satu-satunya laporan ialah kes hiperkalemia dan disfungsi buah pinggang akibat etorikoksib, iaitu isu keselamatan dan bukan manfaat terapeutik.
 

@@ -4,17 +4,17 @@ title: Flutamide
 parent: Low Evidence (L4-L5)
 nav_order: 370
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Flutamide: indikasi baharu diramal Kerentanan kanser prostat/kanser otak (tahap bukti L5). Indikasi asal: Kanser prostat"
 monitor_inn: "FLUTAMIDE"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
+description: "Flutamide: indikasi baharu diramal Fibroma of prostate (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Flutamide
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Flutamide: Daripada Kanser Prostat kepada Kerentanan Kanser Prostat/Kanser Otak
+## Flutamide: Fibroma of prostate
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Namun, **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong entri ra
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Kanser prostat |
-| Indikasi Baharu yang Diramalkan | Kerentanan kanser prostat/kanser otak |
-| Skor Ramalan TxGNN | 99.98% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Fibroma of prostate |
+| Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ Namun, **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong entri ra
 
 Flutamide ialah antagonis reseptor androgen bukan steroid. Ia menyekat kesan androgen pada tisu yang bergantung kepada hormon. Inilah asas penggunaannya dalam kanser prostat. Skor TxGNN yang tinggi kemungkinan besar mencerminkan aktiviti kanser prostat yang sudah mantap ini.
 
-Entri yang diramalkan ialah kategori **kerentanan/risiko genetik**, bukan penyakit yang boleh dirawat secara klinikal. Tiada data yang menyokong kaitan dengan kanser otak. Dari sudut mekanisme, tiada alasan jelas mengapa penyekatan reseptor androgen dapat mengubah kerentanan genetik. Ramalan ini lebih tepat difahami sebagai hasil kedekatan dalam graf pengetahuan dengan nod kanser prostat, bukan penemuan indikasi baharu yang sebenar.
+Entri yang diramalkan ialah kategori **kerentanan/risiko genetik**, bukan penyakit yang boleh dirawat secara klinikal. Tiada data yang menyokong kaitan dengan kanser otak. Dari sudut mekanisme, tiada alasan jelas mengapa penyekatan reseptor androgen dapat mengubah kerentanan genetik.
 
 Data mekanisme tindakan terperinci daripada pangkalan data ubat belum tersedia. Huraian di atas hanya berdasarkan sifat farmakologi flutamide yang diketahui umum.
 
@@ -110,14 +110,13 @@ Untuk maklumat keselamatan yang rasmi, sila rujuk sisipan pek.
 **Keputusan: Hold**
 
 **Rasional:**
-- Entri ramalan ini ialah kategori kerentanan genetik tanpa sebarang ujian klinikal atau literatur, dan tahap buktinya hanya L5. Flutamide juga tidak dipasarkan di Malaysia dan mempunyai risiko hepatotoksisiti yang ketara.
+- Entri ramalan ini ialah kategori kerentanan genetik tanpa sebarang ujian klinikal atau literatur, dan tahap buktinya hanya L5.
 - Sebagai perbandingan, ramalan lain dalam senarai yang sama, iaitu "kanser organ pembiakan lelaki", mempunyai lebih banyak bukti (L1 tentatif). Namun ia pada dasarnya mengulangi indikasi kanser prostat yang asal dan bukan repurposing sebenar. Peranan flutamide dalam setiap ujian Fasa 3 juga perlu disahkan, dan antiandrogen yang lebih baharu (bikalutamid, enzalutamid) lebih diutamakan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pek NPRA (amaran dan kontraindikasi) bagi menjalankan saringan keselamatan.
 - Data mekanisme tindakan yang terperinci.
 - Pemilihan indikasi baharu yang jelas dan boleh dirawat, menggantikan kategori kerentanan genetik ini, serta pengesahan peranan flutamide dalam ujian klinikal yang berkaitan.
-- Kajian status pendaftaran dan ketersediaan produk di Malaysia, memandangkan flutamide tidak dipasarkan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

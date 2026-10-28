@@ -48,26 +48,26 @@ Ramalan ini hanyalah ramalan model dan belum disahkan oleh bukti sebenar.
 |------|------|
 | Indikasi Asal | Tiada data indikasi berdaftar |
 | Indikasi Baharu yang Diramalkan | Retinopati diabetik bukan proliferatif teruk |
-| Skor Ramalan TxGNN | 99.34% |
+| Skor Ramalan TxGNN | 0.9934 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 
 Ramalan lain dalam kedudukan teratas (untuk rujukan):
 
 | Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti |
 |------|------|------|------|
-| 2 | Sindrom Sjögren | 99.18% | L5 |
-| 3 | Sindrom mata kering | 99.18% | L5 |
+| 2 | Sindrom Sjögren | 0.9918 | L5 |
+| 3 | Sindrom mata kering | 0.9918 | L5 |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) bagi zink klorida tidak tersedia pada masa ini. Skor TxGNN (0.993) ialah ramalan graf pengetahuan sahaja dan tidak disokong oleh ujian klinikal atau literatur.
+Data mekanisme tindakan (MOA) bagi zink klorida tidak tersedia pada masa ini. Skor TxGNN (0.9934) ialah ramalan model TxGNN (pembelajaran mendalam) sahaja dan tidak disokong oleh ujian klinikal atau literatur.
 
 Secara spekulatif, zink berperanan dalam fungsi enzim antioksidan (contohnya SOD) dan metabolisme retina, yang mungkin berkaitan dengan retinopati diabetik. Namun hubungan ini tidak disokong oleh bukti yang dikumpulkan, jadi ia tidak boleh dianggap sebagai mekanisme yang telah disahkan.
 
-Ketiga-tiga ramalan teratas (retinopati diabetik, sindrom Sjögren dan sindrom mata kering) mempunyai skor yang hampir sama. Ini mungkin mencerminkan kejiranan graf yang dikongsi (nod berkaitan mata, autoimun dan zink) dan bukannya tiga isyarat bebas.
+Ketiga-tiga ramalan teratas (retinopati diabetik, sindrom Sjögren dan sindrom mata kering) mempunyai skor yang hampir sama. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan (penyakit berkaitan mata, autoimun dan zink), bukan bukti biologi, dan bukannya tiga isyarat bebas.
 
 ## Bukti Ujian Klinikal
 

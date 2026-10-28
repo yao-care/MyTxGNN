@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 168
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Bromazepam: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "BROMAZEPAM"
 predicted_indications: ["migraine disorder"]
+last_modified_at: 2026-10-27
+description: "Bromazepam: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Bromazepam
@@ -33,65 +33,55 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Bromazepam: Daripada Indikasi Asal (Tiada Data) kepada Gangguan Migrain
+## Bromazepam: pemodulat alosterik positif reseptor GABA-A (benzodiazepin) → Migrain (migraine disorder)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Bromazepam ialah ubat daripada kelas benzodiazepin. Data yang dikumpulkan untuk laporan ini tidak mengandungi indikasi asal yang berdaftar di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan migrain (migraine disorder)** dengan skor tinggi, tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini.
+Bromazepam ialah ubat daripada kumpulan benzodiazepin yang bertindak pada reseptor GABA-A.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Migrain (migraine disorder)**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; sokongan hanya datang daripada skor ramalan model.
 
----
+## Gambaran Keseluruhan Pantas
 
-## Gambaran Keseluruhan
-
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
-| Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder) |
-| Skor Ramalan TxGNN | 99.06% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Migrain (migraine disorder) |
+| Skor Ramalan TxGNN | 0,9906 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan yang Disyorkan | Hold |
-
----
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
+| Keputusan yang Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan asal bromazepam tidak tersedia dalam data yang dikumpulkan. Berdasarkan farmakologi am kelas benzodiazepin, bromazepam bertindak sebagai modulator alosterik positif reseptor GABA-A.
+Data terperinci tentang mekanisme tindakan bromazepam tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Berdasarkan farmakologi kelas benzodiazepin, bromazepam ialah pemodulat alosterik positif reseptor GABA-A.
 
-Pautan yang munasabah tetapi belum disahkan: peningkatan perencatan GABAergik mungkin meredakan kepekaan berlebihan korteks dan sistem trigeminovaskular. Ia juga mungkin mengurangkan ketegangan otot dan keresahan yang sering menyertai sakit kepala jenis tegang dan migrain. Pautan ini bersandarkan farmakologi kelas, bukan data khusus ubat ini.
+Pautan yang mungkin tetapi belum disahkan: peningkatan perencatan GABAergik boleh mengurangkan keterujaan berlebihan korteks dan sistem trigeminovaskular, atau melegakan ketegangan otot dan kebimbangan yang sering menyertai sakit kepala jenis tegang dan migrain. Pautan ini bergantung pada farmakologi umum kelas ubat, bukan data khusus bagi bromazepam.
 
-Skor TxGNN yang tinggi (0.99) ialah isyarat pengiraan, bukan bukti klinikal. Benzodiazepin bukan terapi migrain yang mantap. Risiko kebergantungan, sedasi dan sakit kepala akibat penggunaan ubat berlebihan (medication-overuse headache) juga menjadi pertimbangan yang menentang penggunaannya.
-
----
+Perlu diingat bahawa skor ramalan tinggi ialah isyarat pengiraan dan bukan bukti klinikal. Benzodiazepin bukan terapi migrain yang mantap, dan risiko kebergantungan, kesan sedatif serta sakit kepala akibat penggunaan ubat berlebihan menjadi faktor yang menentang penggunaannya.
 
 ## Maklumat Pasaran Malaysia
 
-Bromazepam tidak mempunyai pendaftaran NPRA yang dikesan dalam data yang dikumpulkan (status: tidak dipasarkan, 0 pendaftaran).
-
----
+Data tempatan menunjukkan status pasaran "Dipasarkan" dengan 2 lesen yang sah. Butiran lesen individu tidak tersedia dalam data yang dihimpunkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej (package insert) untuk maklumat keselamatan. Pertanyaan interaksi ubat dalam data yang dikumpulkan tidak menemui rekod, dan tiada penyakit kontraindikasi daripada graf pengetahuan dilaporkan.
-
----
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada interaksi ubat direkodkan dalam data yang dihimpunkan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
-**Justifikasi:**
-- Ramalan ini hanya disokong skor model (L5) tanpa percubaan klinikal atau literatur. Bromazepam juga tidak berdaftar di Malaysia, dan benzodiazepin membawa risiko kebergantungan, sedasi dan sakit kepala akibat penggunaan berlebihan, jadi bukti tidak mencukupi untuk diteruskan.
+**Rasional:**
+Tiada percubaan klinikal atau penerbitan yang mengkaji bromazepam dalam migrain; hanya skor model (0,9906) menyokong ramalan ini. Profil risiko benzodiazepin (kebergantungan, sedasi, sakit kepala akibat penggunaan berlebihan) menambah kebimbangan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat saringan keselamatan)
-- Data mekanisme tindakan (MOA) daripada DrugBank
-- Carian literatur dan percubaan klinikal tentang bromazepam atau benzodiazepin dalam migrain
-- Penilaian keserasian laluan pemberian dan kesamaan dengan indikasi asal
-- Pengesahan status pendaftaran dan ketersediaan produk di Malaysia
+- Data mekanisme tindakan khusus bagi bromazepam
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Kajian praklinikal atau klinikal yang mengkaji bromazepam secara langsung dalam migrain
+- Penilaian nisbah manfaat-risiko berbanding terapi migrain sedia ada
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

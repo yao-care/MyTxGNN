@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 35
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Alanine: indikasi baharu diramal Gastroparesis (tahap bukti L5). Indikasi asal: Tiada data indikasi yang diluluskan"
 monitor_inn: "ALANINE"
 predicted_indications: ["gastroparesis (disease)"]
+last_modified_at: 2026-10-27
+description: "Alanine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Alanine
@@ -33,78 +33,61 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Alanina: Daripada Tiada Indikasi Berdaftar kepada Gastroparesis
+## Alanine: asid amino → Gastroparesis (gastroparesis (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Alanina ialah asid amino yang tiada indikasi asal yang berdaftar di Malaysia dan tidak dipasarkan di sini.
-Model TxGNN meramalkan ia mungkin berkesan untuk **gastroparesis**, tetapi data yang dikumpulkan untuk laporan ini menunjukkan **0 ujian klinikal** dan hanya **3 penerbitan** yang berkaitan secara longgar (tiada satu pun menilai alanina sebagai rawatan).
-Sokongan bukti setakat ini terhad kepada ramalan model komputer.
+Alanine ialah asid amino yang tersedia di pasaran Malaysia. Model TxGNN meramalkan ia mungkin berguna untuk **Gastroparesis (gastroparesis (disease))**. Setakat ini **tiada percubaan klinikal** dan **3 penerbitan** yang hanya menyentuh gastroparesis secara sampingan, jadi sokongan buktinya sangat lemah.
 
----
+## Gambaran Keseluruhan
 
-## Gambaran Keseluruhan Pantas
-
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi yang diluluskan |
-| Indikasi Baharu yang Diramalkan | Gastroparesis |
-| Skor Ramalan TxGNN | 99.37% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Gastroparesis (gastroparesis (disease)) |
+| Skor Ramalan TxGNN | 0,9937 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan yang Disyorkan | Hold (Tangguh) |
-
----
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 36) |
+| Bilangan Pendaftaran | 36 (sah: 36) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan alanina tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, alanina ialah asid amino yang terlibat dalam metabolisme asid amino dan glukosa, dan secara mekanistik mungkin berkaitan dengan gastroparesis. Namun, hubungan ini belum dibuktikan.
+Data mekanisme tindakan (MOA) alanine tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Tiada mekanisme yang menghubungkan alanine dengan gastroparesis telah dibuktikan. Sokongan utama ialah skor ramalan model yang tinggi, tetapi itu ialah ramalan pengiraan dan bukan bukti klinikal.
 
-Satu-satunya sokongan ialah skor ramalan TxGNN yang tinggi (0.994; kedudukan 8652). Ini ialah ramalan berkomputer dan bukan bukti klinikal. Tiada mekanisme yang menghubungkan alanina dengan gastroparesis ditetapkan dalam data yang tersedia.
+Tiga penerbitan yang diperoleh membincangkan gangguan gastrousus dan hati dalam penyakit buah pinggang peringkat akhir, hepatosklerosis diabetes, dan hepatopati glikogen dalam diabetes jenis 1. Kesemuanya hanya berkongsi konteks diabetes atau komorbiditi metabolik yang longgar dengan gastroparesis. Tiada satu pun menilai alanine sebagai rawatan untuk gastroparesis.
 
-Tiga penerbitan yang diperoleh membincangkan gangguan gastrousus dan hepatik dalam penyakit renal peringkat akhir, hepatosklerosis diabetik, dan hepatopati glikogen dalam diabetes jenis 1. Kesemuanya berkongsi konteks diabetes atau komorbiditi metabolik yang longgar dengan gastroparesis, tetapi tiada yang menilai alanina. Hipotesis yang munasabah (metabolisme asid amino dan glukosa dalam disfungsi motiliti gastrik berkaitan diabetes) perlu diuji sebelum ia boleh dianggap disokong.
+Satu hipotesis yang boleh dicadangkan ialah peranan metabolisme asid amino dan glukosa dalam disfungsi motiliti gastrik berkaitan diabetes. Hipotesis ini masih spekulatif dan perlu diuji sebelum boleh dianggap disokong.
 
----
+## Bukti Percubaan Klinikal
 
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
-
----
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [10926110](https://pubmed.ncbi.nlm.nih.gov/10926110/) | 2000 | Ulasan | Advances in Renal Replacement Therapy | Gangguan gastrousus dan hepatik lazim dalam penyakit renal peringkat akhir; gastroparesis lebih kerap berlaku dalam kegagalan renal kronik. Alanina tidak dinilai. |
-| [26315331](https://pubmed.ncbi.nlm.nih.gov/26315331/) | 2016 | Ulasan | Diabetic Medicine | Hepatosklerosis diabetik (fibrosis sinusoid tanpa steatosis) mungkin satu bentuk mikroangiopati hepatik diabetik. Alanina tidak dinilai. |
-| [33763324](https://pubmed.ncbi.nlm.nih.gov/33763324/) | 2021 | Ulasan / laporan kes | Cureus | Kes hepatopati glikogen pada pesakit diabetes jenis 1 yang turut mengalami gastroparesis. Alanina tidak dinilai. |
-
----
+| [10926110](https://pubmed.ncbi.nlm.nih.gov/10926110/) | 2000 | Ulasan | Advances in Renal Replacement Therapy | Gangguan gastrousus dan hati lazim pada penyakit buah pinggang peringkat akhir. Gastroparesis lebih kerap berlaku pada kegagalan buah pinggang kronik. Alanine tidak dikaji. |
+| [26315331](https://pubmed.ncbi.nlm.nih.gov/26315331/) | 2016 | Ulasan | Diabetic Medicine | Hepatosklerosis diabetes (fibrosis sinusoid tanpa steatosis) mungkin satu komplikasi mikrovaskular diabetes. Tiada kaitan langsung dengan gastroparesis atau alanine. |
+| [33763324](https://pubmed.ncbi.nlm.nih.gov/33763324/) | 2021 | Ulasan (laporan kes) | Cureus | Kes hepatopati glikogen pada pesakit diabetes jenis 1 yang turut mempunyai gastroparesis. Gastroparesis hanya disebut sebagai komplikasi sedia ada. |
 
 ## Pertimbangan Keselamatan
 
-- **Penyakit yang dikaitkan dengan kontraindikasi dalam graf pengetahuan TxGNN (PrimeKG)** (bukan teks label produk): penyakit ginjal, penyakit ginjal kronik, kegagalan renal kronik, kegagalan renal peringkat akhir, nefropati urat akut, nefrolitiasis, nefrokalsinosis, hiperkalsemia (termasuk hiperkalsemia humoral akibat keganasan), sarkoidosis, gangguan metabolisme fosforus, penyakit jantung, penyakit kardiovaskular, keracunan digitalis, fibrilasi ventrikel, fenilketonuria, gangguan metabolisme fenilalanina, piouretur, dan kerentanan nefrolitiasis akibat SLC26A1.
-
-Sila rujuk sisipan pembungkusan untuk maklumat keselamatan yang rasmi.
-
----
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Hold (Tangguh)**
 
-**Justifikasi:**
-- Bukti hanya berasaskan ramalan model (L5): tiada ujian klinikal, tiada penerbitan yang menilai alanina untuk gastroparesis, dan tiada pendaftaran tempatan. Pesakit gastroparesis yang mempunyai penyakit ginjal atau jantung juga menimbulkan kebimbangan berdasarkan graf pengetahuan.
+**Rasional:**
+Ramalan ini hanya disokong oleh skor model (tahap bukti L5). Tiada percubaan klinikal dan tiada kajian yang menilai alanine secara langsung untuk gastroparesis. Mekanisme tindakan juga belum diketahui.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) alanina daripada DrugBank
-- Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA (jurang data yang menghalang saringan keselamatan)
-- Kajian praklinikal atau mekanistik yang menguji hubungan alanina dengan motiliti gastrik
-- Penilaian keserasian laluan pentadbiran dan kesesuaian bentuk dos
-- Semakan literatur yang lebih tepat sasaran mengenai alanina/asid amino dan gastroparesis
+- Data mekanisme tindakan alanine dan hipotesis mekanistik yang jelas untuk gastroparesis
+- Kajian praklinikal atau percubaan klinikal yang menilai alanine secara langsung dalam gastroparesis
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA bagi penilaian keselamatan
+- Pengesahan keserasian laluan pemberian dan bentuk dos untuk indikasi yang dicadangkan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

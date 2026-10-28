@@ -4,17 +4,17 @@ title: Riluzole
 parent: Low Evidence (L4-L5)
 nav_order: 621
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Riluzole: indikasi baharu diramal Polimikrogiria parieto-oksipital parasagital bilateral (tahap bukti L5). Indikasi asal: Tiada dalam data pendaftaran tempatan. Literatur yang dihimpunkan men…"
+indication_count: 9
 monitor_inn: "Riluzole"
-predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance"]
+predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance", "amyotrohpic lateral sclerosis type 22"]
+last_modified_at: 2026-10-23
+description: "Riluzole: indikasi baharu diramal Bilateral parasagittal parieto-occipital polymicrogyria (tahap bukti L5). Indikasi asal: Tidak tersedia dalam data lesen yang dikumpulkan"
 ---
 
 # Riluzole
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,44 +33,42 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Riluzole: Daripada Sklerosis Lateral Amiotrofik (ALS) kepada Polimikrogiria Parieto-Oksipital Parasagital Bilateral
+## Riluzole: Daripada Indikasi Asal (Tidak Direkodkan) kepada Bilateral Parasagittal Parieto-occipital Polymicrogyria
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Riluzole ialah ubat yang dikenali untuk merawat sklerosis lateral amiotrofik (ALS), berdasarkan literatur dalam data yang dihimpunkan untuk laporan ini.
-Model TxGNN meramalkan ia mungkin berkesan untuk **polimikrogiria parieto-oksipital parasagital bilateral** (gangguan malformasi korteks otak) dengan skor tinggi.
-Namun, **tiada ujian klinikal** dan **tiada literatur** menyokong ramalan ini setakat ini. Ia hanya ramalan pengiraan.
+Riluzole ialah ubat yang berdaftar di Malaysia (produk RILUTEK TABLETS 50MG), tetapi teks indikasi yang diluluskan tidak terdapat dalam data yang dikumpulkan untuk laporan ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **bilateral parasagittal parieto-occipital polymicrogyria**, namun **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini setakat ini.
 
 ---
 
-## Gambaran Keseluruhan
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada dalam data pendaftaran tempatan. Literatur yang dihimpunkan menunjukkan riluzole ialah ubat ALS. |
-| Indikasi Baharu yang Diramalkan | Polimikrogiria parieto-oksipital parasagital bilateral |
-| Skor Ramalan TxGNN | 99.99% |
+| Indikasi Asal | Tidak tersedia dalam data lesen yang dikumpulkan |
+| Indikasi Baharu yang Diramalkan | Bilateral parasagittal parieto-occipital polymicrogyria |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
+| Bilangan Kelulusan | 1 pendaftaran (satu produk bahan tunggal yang sah) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, riluzole dikaitkan dengan perencatan neurotransmisi glutamat di sistem saraf pusat. Mekanisme ini digunakan dalam rawatan ALS, dan secara teori mungkin berkaitan dengan gangguan neurologi lain.
+Data mekanisme tindakan (MOA) terperinci tidak tersedia dalam data yang dikumpulkan. Walau bagaimanapun, riluzole diketahui memodulasi penghantaran glutamatergik: ia merencat pelepasan glutamat, meningkatkan pengambilan semula, dan menyekat saluran natrium bergantung voltan.
 
-Polimikrogiria ialah malformasi perkembangan korteks otak. Hubungan yang munasabah tetapi **belum terbukti** ialah modulasi isyarat glutamatergik oleh riluzole dalam gangguan korteks. Tiada kajian yang menunjukkan kesan ini bagi keadaan tersebut.
-
-Skor TxGNN yang sangat tinggi (99.99%) ialah hasil pengiraan model graf pengetahuan sahaja. Ia tidak boleh dianggap sebagai bukti klinikal. Persamaan dengan indikasi asal belum dinilai.
+Polymicrogyria ialah malformasi kortikal yang kerap disertai ciri epileptogenik dan eksitotoksik. Oleh itu, rasional modulasi glutamat boleh dibayangkan, tetapi bersifat **spekulatif**. Kecacatan struktur perkembangan saraf tidak dijangka bertindak balas terhadap agen neuroprotektif yang dipasarkan untuk orang dewasa. Skor TxGNN datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi, tanpa percubaan atau literatur sokongan.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
@@ -80,40 +78,57 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ---
 
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL20051294AZ | RILUTEK TABLETS 50MG (SANOFI-AVENTIS (MALAYSIA) SDN. BHD.) | Tidak dinyatakan | Tidak dinyatakan |
+
+---
+
 ## Pertimbangan Keselamatan
 
-Maklumat keselamatan daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk amaran dan kontraindikasi.
+**Interaksi Ubat**: Sebanyak 44 interaksi direkodkan. Antara yang disenaraikan:
+- **Tahap sederhana**: Obeticholic acid, Naltrexone, Deferasirox, Osilodrostat, Anagrelide, Asparaginase Escherichia coli, Brentuximab vedotin, Clofarabine, Methotrexate, Epirubicin
+- **Tahap kecil**: Omeprazole, Caffeine, Theophylline, Aminophylline
+- **Tahap tidak diketahui**: Metformin, Simvastatin, Ranitidine, Cyanocobalamin, Salbutamol, Ibuprofen
 
-**Interaksi Ubat**: Pertanyaan interaksi ubat telah selesai dengan **44 interaksi** dikenal pasti. Antara yang bertahap **Sederhana (Moderate)** ialah:
-
-- Asid obetikolik (obeticholic acid)
-- Naltrexone
-- Deferasirox
-- Osilodrostat
-- Anagrelide
-- Asparaginase (*Escherichia coli*)
-- Brentuximab vedotin
-- Clofarabine
-- Methotrexate
-- Epirubicin
-
-Antara yang bertahap **Minor** ialah omeprazole, kafein, teofilin dan aminofilin. Beberapa interaksi lain, seperti metformin, simvastatin, ranitidine, sianokobalamin, salbutamol dan ibuprofen, belum mempunyai tahap yang ditentukan.
+Sila rujuk sisipan pakej untuk amaran dan kontraindikasi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model pengiraan (L5), tanpa ujian klinikal, literatur atau mekanisme yang disahkan untuk polimikrogiria. Produk ini juga tidak mempunyai pendaftaran di Malaysia dalam data yang dihimpunkan.
+Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur khusus, dan rasional mekanistiknya spekulatif untuk kecacatan struktur perkembangan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) yang terperinci, contohnya daripada DrugBank.
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA, yang diperlukan sebelum saringan keselamatan.
-- Pengesahan status pendaftaran riluzole dengan NPRA. Data pendaftaran dan indikasi asal yang kosong mungkin satu jurang data kerana riluzole ialah ubat ALS yang mapan.
-- Bukti praklinikal atau mekanistik yang menghubungkan riluzole dengan patologi polimikrogiria.
-- Pertimbangan lanjut terhadap indikasi lain dalam senarai ramalan. Ramalan ALS (kedudukan ke-2) mempunyai bukti terkuat (L1) tetapi ialah indikasi sedia ada, bukan penggunaan semula. Ramalan berkaitan neuron motor, seperti sindrom neuron motor bawah dan penyakit Mills, boleh dikaji sebagai persoalan penyelidikan melalui ekstrapolasi daripada ALS.
+- Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan
+- Data mekanisme tindakan (MOA) terperinci
+- Teks indikasi yang diluluskan bagi pendaftaran tempatan
+- Kajian praklinikal atau literatur yang secara langsung mengkaji polymicrogyria
+
+---
+
+## Nota Tambahan: Ramalan Lain
+
+Sembilan penyakit diramalkan; semuanya berada pada tahap bukti L5 tanpa percubaan atau literatur dalam data yang dikumpulkan.
+
+| Kedudukan | Penyakit | Skor TxGNN | Syor |
+|---|---|---|---|
+| 1 | Bilateral parasagittal parieto-occipital polymicrogyria | 0.9999 | Hold |
+| 2 | Axial spondylometaphyseal dysplasia | 0.9999 | Hold |
+| 3 | Lower motor neuron syndrome with late-adult onset | 0.9999 | Soalan penyelidikan |
+| 4 | Trichomegaly-retina pigmentary degeneration-dwarfism syndrome | 0.9999 | Hold |
+| 5 | Lethal arthrogryposis-anterior horn cell disease syndrome | 0.9999 | Hold |
+| 6 | Monomelic amyotrophy | 0.9999 | Soalan penyelidikan |
+| 7 | Mills syndrome | 0.9998 | Soalan penyelidikan |
+| 8 | Autosomal dominant mitochondrial myopathy with exercise intolerance | 0.9998 | Hold |
+| 9 | Amyotrophic lateral sclerosis type 22 | 0.9998 | Soalan penyelidikan |
+
+Antara semua ramalan, **ALS jenis 22** mempunyai rasional mekanistik paling kukuh kerana riluzole digunakan secara meluas untuk ALS. Bukti ALS yang lebih luas wujud di luar data yang dikumpulkan dan perlu diperoleh serta disahkan sebelum tahap bukti dinaikkan. Ia calon terbaik untuk diutamakan dalam pengumpulan bukti.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

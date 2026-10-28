@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Insulin Glulisine
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 421
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Insulin Glulisine: indikasi baharu diramal Diabetes mellitus jenis 1 (tahap bukti L1). Indikasi asal: Diabetes mellitus"
 monitor_inn: "INSULIN GLULISINE"
-predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
+predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
+description: "Insulin Glulisine: indikasi baharu diramal Thiamine-responsive dysfunction syndrome (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Insulin Glulisine
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-## Insulin Glulisine: Daripada Diabetes Mellitus kepada Diabetes Mellitus Jenis 1
+## Insulin Glulisine: Thiamine-responsive dysfunction syndrome
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -49,12 +49,12 @@ Perlu diingat bahawa diabetes jenis 1 ialah indikasi teras ubat ini, jadi ia leb
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Diabetes mellitus; ketoasidosis diabetik |
-| Indikasi Baharu yang Diramalkan | Diabetes mellitus jenis 1 |
-| Skor Ramalan TxGNN | 99.55% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Thiamine-responsive dysfunction syndrome |
+| Skor Ramalan TxGNN | 0.9947 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
@@ -65,7 +65,6 @@ Data terperinci mengenai mekanisme tindakan belum tersedia dalam data yang dikum
 
 Diabetes jenis 1 ialah indikasi berlabel teras bagi ubat ini. Oleh itu, ramalan ini selari dengan penggunaan klinikal sedia ada dan bukan penemuan indikasi baharu. Ulasan literatur menerangkan bahawa glulisine mempunyai permulaan tindakan yang lebih pantas dan tempoh yang lebih singkat berbanding insulin manusia biasa, sesuai untuk rejimen basal-bolus.
 
-Status "tidak dipasarkan" di Malaysia dan ketiadaan data MOA perlu disahkan semula dengan sumber peraturan semasa sebelum sebarang tindakan diambil.
 
 ---
 
@@ -124,7 +123,7 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. 
 **Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
 **Rasional:**
-- Beberapa percubaan Fasa 3 yang telah selesai dan RCT yang diterbitkan menyokong keberkesanan glulisine pada diabetes jenis 1 (Tahap Bukti L1). Namun ini ialah indikasi sedia ada, dan ubat ini tidak dipasarkan serta tiada pendaftaran di Malaysia berdasarkan data yang dikumpulkan.
+- Beberapa percubaan Fasa 3 yang telah selesai dan RCT yang diterbitkan menyokong keberkesanan glulisine pada diabetes jenis 1 (Tahap Bukti L1).
 
 **Untuk meneruskan, perlu:**
 - Mengesahkan status pendaftaran dan pasaran semasa di Malaysia melalui NPRA

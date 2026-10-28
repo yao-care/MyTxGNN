@@ -6,9 +6,9 @@ nav_order: 247
 evidence_level: L4
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Cyclosporine: indikasi baharu diramal Penyakit granulomatus kronik, autosomal resesif (tahap bukti L4). Indikasi asal: Artritis reumatoid, sindrom mata kering, xerophthalmia…"
 monitor_inn: "CYCLOSPORINE"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
+description: "Cyclosporine: indikasi baharu diramal Penyakit granulomatus kronik, autosomal resesif (granulomatous disease, chronic, autosomal recessive) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam dat…"
 ---
 
 # Cyclosporine
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **7**
 
 </div>
 
-## Siklosporin: Daripada Artritis Reumatoid dan Sindrom Mata Kering kepada Penyakit Granulomatus Kronik
+## Cyclosporine: Penyakit granulomatus kronik, autosomal resesif (granulomatous disease, chronic, autosomal recessive)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit granulomatus kronik 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Artritis reumatoid, sindrom mata kering, xerophthalmia, sindrom Sjögren |
-| Indikasi Baharu yang Diramalkan | Penyakit granulomatus kronik, autosomal resesif |
-| Skor Ramalan TxGNN | 99.68% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Penyakit granulomatus kronik, autosomal resesif (granulomatous disease, chronic, autosomal recessive) |
+| Skor Ramalan TxGNN | 0.9968 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -83,7 +83,6 @@ Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Siklosporin tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan dalam data yang dihimpunkan untuk laporan ini.
 
 ---
 
@@ -111,7 +110,6 @@ Untuk amaran utama dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej (data keselamatan masih kurang dan menghalang saringan keselamatan)
 - Bukti praklinikal atau klinikal yang menilai siklosporin secara langsung dalam CGD
 - Penilaian risiko jangkitan pada pesakit CGD
-- Status pendaftaran dan ketersediaan produk di Malaysia (kini tidak dipasarkan)
 
 ---
 
@@ -119,12 +117,12 @@ Untuk amaran utama dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan
 
 | Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Cadangan |
 |------|------|------|------|------|
-| 2 | Aneurisma otak | 99.50% | L3 | Soalan Penyelidikan |
-| 3 | Sindrom mikroftalmia kolobomatus-displasia rizomelik | 99.39% | L5 | Hold |
-| 4 | Eritroderma ikthiosiform kongenital | 99.38% | L5 | Hold |
-| 5 | Eritroblastosis janin | 99.37% | L5 | Hold |
-| 6 | Sindrom brakidaktili-sindaktili | 99.31% | L5 | Hold |
-| 7 | Prolaps kelenjar lakrimal | 99.08% | L5 | Hold |
+| 2 | Aneurisma otak | 0.9950 | L5 | Soalan Penyelidikan |
+| 3 | Sindrom mikroftalmia kolobomatus-displasia rizomelik | 0.9939 | L5 | Hold |
+| 4 | Eritroderma ikthiosiform kongenital | 0.9938 | L5 | Hold |
+| 5 | Eritroblastosis janin | 0.9937 | L5 | Hold |
+| 6 | Sindrom brakidaktili-sindaktili | 0.9931 | L5 | Hold |
+| 7 | Prolaps kelenjar lakrimal | 0.9908 | L5 | Hold |
 
 Bagi aneurisma otak, hanya dua kajian kecil lama (1991 dan 1997) mengkaji siklosporin untuk vasospasme selepas pendarahan subaraknoid, bukan pembentukan aneurisma. Kajian tetikus 2017 pula mendapati fungsi sel T tidak diperlukan untuk pembentukan aneurisma, yang bercanggah dengan rasional perencatan sel T. Bukti adalah lama, kecil dan tidak direplikasi.
 ## Penafian

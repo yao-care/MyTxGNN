@@ -3,18 +3,18 @@ layout: default
 title: Peppermint Oil
 parent: Low Evidence (L4-L5)
 nav_order: 564
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Peppermint Oil: indikasi baharu diramal Penyakit kardiovaskular (cardiovascular disease) (tahap bukti L4). Indikasi asal: Tiada data (tiada lesen berdaftar)"
+last_modified_at: 2026-10-28
 monitor_inn: "Peppermint oil"
 predicted_indications: ["leprosy", "pneumocystosis", "coronary artery disease", "myocardial ischemia", "echinococcus granulosus infectious disease", "polyp of vocal cord", "uterine polyp", "polyp of middle ear", "cardiovascular disease", "polyp of frontal sinus"]
+description: "Peppermint Oil: indikasi baharu diramal Leprosy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Peppermint Oil
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Minyak Pudina (Peppermint Oil): Daripada Indikasi Asal yang Tidak Direkodkan kepada Penyakit Kardiovaskular
+## Peppermint Oil: Leprosy
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Minyak pudina (peppermint oil) tidak mempunyai indikasi asal yang direkodkan dalam data yang dikumpulkan untuk laporan ini, kerana tiada lesen berdaftar di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit kardiovaskular** (skor 99.13%), dan ini merupakan ramalan dengan sokongan paling banyak antara 10 ramalan teratas.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit kardiovaskular** (skor 0.9913), dan ini merupakan ramalan dengan sokongan paling banyak antara 10 ramalan teratas.
 Setakat ini terdapat **1 ujian klinikal** dan **1 kajian RCT terkawal plasebo** (serta 1 protokolnya) dalam populasi hipertensi, tetapi hanya sebagai bukti tidak langsung.
 
 ---
@@ -48,15 +48,15 @@ Setakat ini terdapat **1 ujian klinikal** dan **1 kajian RCT terkawal plasebo** 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen berdaftar) |
-| Indikasi Baharu yang Diramalkan | Penyakit kardiovaskular (cardiovascular disease) |
-| Skor Ramalan TxGNN | 99.13% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Leprosy |
+| Skor Ramalan TxGNN | 0.9980 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 45 daripada 45) |
+| Bilangan Pendaftaran | 45 (sah: 45) |
 | Keputusan Disyorkan | Hold |
 
-> Nota: Ramalan teratas berdasarkan kedudukan ialah *leprosy* (99.80%), tetapi ia hanya berdasarkan model (L5) tanpa sebarang bukti. Laporan ini memfokuskan pada **penyakit kardiovaskular** kerana ia satu-satunya antara 10 ramalan teratas yang mempunyai bukti klinikal yang boleh dinilai.
+> Nota: Ramalan teratas berdasarkan kedudukan ialah *leprosy* (0.9980), tetapi ia hanya berdasarkan model (L5) tanpa sebarang bukti. Laporan ini memfokuskan pada **penyakit kardiovaskular** kerana ia satu-satunya antara 10 ramalan teratas yang mempunyai bukti klinikal yang boleh dinilai.
 
 ---
 

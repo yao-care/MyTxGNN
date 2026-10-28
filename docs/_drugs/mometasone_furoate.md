@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Mometasone Furoate
-parent: Low Evidence (L4-L5)
+parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 511
-evidence_level: L4
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Mometasone Furoate: indikasi baharu diramal Neurodermatitis (tahap bukti L4). Indikasi asal: Dermatosis responsif kortikosteroid (contohnya ekzema atopik…"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Mometasone Furoate: kegunaan diketahui dan status pasaran di Malaysia; kini tiada indikasi calon baharu"
+predicted_indications: []
 ---
 
 # Mometasone Furoate
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **N/A** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,60 +32,77 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-## Mometasone Furoate: Daripada Dermatosis Responsif Kortikosteroid kepada Neurodermatitis
+<!-- known-uses-page -->
+<!-- description: Mometasone Furoate: kegunaan diketahui dan status pasaran di Malaysia; kini tiada indikasi calon baharu -->
+## Mometasone Furoate: Kegunaan diketahui dan status pasaran di Malaysia
 {: .text-alpha }
 
-## Ringkasan Satu Ayat
+## Ringkasan
+Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Mometasone Furoate, yang boleh ditelusuri kepada sumber, ialah kegunaan yang sudah diketahui. Oleh itu, buat masa ini tiada indikasi baharu yang diramalkan untuk ubat ini. Dua kegunaan yang diketahui direkodkan dalam graf pengetahuan, dan tiada satu pun daripadanya ditandakan sebagai diluluskan dalam data ini.
 
-Mometasone furoate ialah kortikosteroid berkuasa sederhana hingga tinggi yang pada asalnya digunakan untuk dermatosis responsif kortikosteroid (seperti ekzema atopik dan dermatitis kontak), asma dan rinitis alergik.
-Model TxGNN meramalkan ia mungkin berkesan untuk **neurodermatitis (lichen simplex chronicus)**,
-tetapi setakat ini hanya terdapat **0 percubaan klinikal** dan **1 penerbitan** yang berkaitan secara tidak langsung, jadi sokongan bukti masih sangat lemah.
-
----
-
-## Gambaran Keseluruhan Pantas
-
+## Gambaran ringkas
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Dermatosis responsif kortikosteroid (contohnya ekzema atopik, dermatitis kontak, dermatitis seboreik), asma, rinitis alergik |
-| Indikasi Baharu yang Diramalkan | Neurodermatitis |
-| Skor Ramalan TxGNN | 0.0% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang disusun; perlu disahkan) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh ditelusuri ialah kegunaan sedia diketahui) |
+| Kegunaan diketahui dalam calon model | 2 |
+| Tahap bukti | Tidak berkenaan |
+| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 36) |
+| Bilangan Pendaftaran | 36 (sah: 36) |
 
----
+## Kegunaan diketahui dalam calon model
 
-## Mengapa Ramalan Ini Munasabah?
+### Diluluskan (disokong oleh lesen atau label)
+| Indikasi | Sumber |
+|------|------|
+| Tiada | Tiada |
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, mometasone furoate ialah kortikosteroid topikal/sedutan/intranasal yang diketahui bertindak melalui isyarat reseptor glukokortikoid. Keberkesanannya dalam dermatosis radang yang gatal seperti ekzema atopik dan dermatitis kontak telah lama diketahui, dan secara mekanistik ia mungkin sesuai untuk neurodermatitis.
+### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+| Indikasi | Kategori yang diluluskan |
+|------|------|
+| Tiada | Tiada |
 
-Neurodermatitis (lichen simplex chronicus) ialah dermatosis radang kronik yang didorong oleh kitaran gatal-garu. Kortikosteroid topikal menekan keradangan kulit dan mengurangkan kegatalan, justeru penggunaannya adalah lanjutan yang hampir dengan indikasi sedia ada. Namun, satu-satunya penerbitan yang dipautkan ialah kajian tentang pakaian dalam sutera sebagai terapi tambahan untuk lichen simplex chronicus vulva, yang tidak mengasingkan kesan mometasone sendiri. Oleh itu, kemunasabahan ini bersifat mekanistik dan tidak disokong bukti langsung.
-
-Skor ramalan TxGNN ialah 0.0%, jadi model tidak memberikan sokongan pengiraan yang bermakna untuk ramalan ini.
-
----
-
-## Bukti Percubaan Klinikal
-
-Pada masa ini tiada percubaan klinikal berdaftar yang berkaitan dengan neurodermatitis.
-
----
-
-## Bukti Literatur
-
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [25608275](https://pubmed.ncbi.nlm.nih.gov/25608275/) | 2015 | RCT buta dua (intervensi tambahan bukan ubat) | Menopause | Menilai pakaian dalam sutera (Dermasilk) yang tidak merengsa sebagai alat tambahan dalam rawatan lichen simplex chronicus vulva. Ia bukan kajian mometasone, jadi hanya bukti tidak langsung. |
-
----
+### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+| Indikasi |
+|------|
+| ekzema atopik (atopic eczema) |
+| dermatitis atopik (dermatitis, atopic) |
 
 ## Maklumat Pasaran Malaysia
 
-Menurut data yang disusun untuk laporan ini, tiada pendaftaran NPRA direkodkan dan status pasaran ialah "Tidak dipasarkan". Ini bercanggah dengan penggunaan klinikal mometasone yang mantap dan perlu disahkan semula.
+| No. pendaftaran | Produk | Bentuk dos | Status |
+|------|------|------|------|
+| MAL11080006AZ | VIZOMET OINTMENT 0.1% W/W |  | Sah |
+| MAL06081217AZ | Metasone Cream 0.1% w/w |  | Sah |
+| MAL07021392AZ | Nasehaler (Mometasone Furoate Nasal Spray 50 mcg) |  | Sah |
+| MAL21106003ACRZ | Atectura Breezhaler (Indacaterol Acetate/Mometasone Furoate) |  | Sah |
+| MAL21106004ACRZ | Enerzair Breezhaler (Indacaterol Acetate/Glycopyrronium Brom |  | Sah |
+| MAL21106002ACRZ | Atectura Breezhaler (Indacaterol Acetate/Mometasone Furoate) |  | Sah |
+| MAL12015004AZ | ELONIDE Nasal Spray 50 mcg/dose |  | Sah |
+| MAL07010899AZ | Momate Ointment  0.1%w/w |  | Sah |
+| MAL07010898AZ | Momate Cream 0.1% w/w |  | Sah |
+| MAL22096002AZ | Ryaltris (Olopatadine hydrochloride 600mcg/Mometasone furoat |  | Sah |
+| MAL07090928AZ | Elosone Cream 0.1%w/w |  | Sah |
+| MAL07090939AZ | Elosone Lotion 0.1%w/v |  | Sah |
+| MAL07090938AZ | Elosone Ointment  0.1%w/w |  | Sah |
+| MAL20122247AEZ | ELOLO CREAM 0.1% w/w |  | Sah |
+| MAL20122248AEZ | ELOLO OINTMENT 0.1% w/w |  | Sah |
+| MAL07122846AZ | Melomet Cream 0.1% W/W |  | Sah |
+| MAL22126042AZ | Melomet Lotion 0.1% w/w |  | Sah |
+| MAL18016032AZ | Apo-Mometasone Furoate Aqueous Nasal Spray 50mcg/metered spr |  | Sah |
+| MAL08010715AZ | Vizomet Cream 0.1% w/w |  | Sah |
+| MAL18046159ACZ | Monitazone (Mometasone Furoate 50mcg/ actuation Nasal Spray) |  | Sah |
+| MAL23066009HA | Neptra ear drops solution for dogs |  | Sah |
+| MAL08061562AZ | METASONE LOTION 0.1% W/V |  | Sah |
+| MAL23076004ACRZ | Enerzair Breezhaler (Indacaterol Acetate/Glycopyrronium Brom |  | Sah |
+| MAL13085051AZ | Axcel MOMETASONE 0.1% OINTMENT |  | Sah |
+| MAL13085052AZ | Axcel MOMETASONE 0.1% CREAM |  | Sah |
+| MAL18116070ACZ | Mefurosan Cream 0.1% w/w |  | Sah |
+| MAL20040076AZ | ALESONE CREAM |  | Sah |
+| MAL14025010AZ | AXCEL MOMETASONE 0.05%w/w NASAL SPRAY |  | Sah |
+| MAL19940137AZ | ELOMET LOTION 0.1% |  | Sah |
+| MAL09062111AZ | Bitvio  Ointment 0.1% |  | Sah |
 
----
+Data hanya mengandungi sebahagian pendaftaran; senarai mungkin tidak lengkap.
 
 ## Pertimbangan Keselamatan
 
@@ -96,32 +114,6 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pembungkusan.
 
 ---
 
-## Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Hold**
-
-**Rasional:**
-- Bukti untuk neurodermatitis hanyalah tahap L4: tiada percubaan klinikal, hanya satu penerbitan tidak langsung, dan skor TxGNN 0.0%. Walaupun mekanismenya munasabah, kesan mometasone sendiri belum dinilai.
-
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Percubaan klinikal atau kajian terkawal yang menilai mometasone secara langsung dalam neurodermatitis/lichen simplex chronicus
-- Data MOA terperinci daripada DrugBank
-- Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA (jurang data yang menghalang saringan keselamatan)
-- Pengesahan status pendaftaran dan pasaran di Malaysia, kerana data semasa (0 pendaftaran) bercanggah dengan penggunaan sedia ada
-- Penilaian laluan pentadbiran dan formulasi yang sesuai
-
----
-
-### Nota Tambahan: Indikasi Lain dalam Data
-
-Indikasi berikut sudah termasuk dalam indikasi asal, jadi ia pengesahan penggunaan sedia ada dan bukan pengalihan guna baharu:
-
-| Indikasi | Tahap Bukti | Ringkasan |
-|------|------|------|
-| Asma | L1 | Beberapa percubaan Fasa 3 selesai (contohnya NCT00381485, n=834; NCT00383240, n=781; NCT00379288, n=404 untuk keselamatan 1 tahun) dan percubaan Fasa 3 IRIDIUM (PMID 32653074). Keputusan data: Proceed with Guardrails, dengan pemantauan paksi HPA, pertumbuhan kanak-kanak dan kesan setempat (kandidiasis, disfonia). |
-| Ekzema atopik | L2 | Percubaan Fasa 2 dan Fasa 4 (contohnya NCT04271007, NCT00236106) serta banyak penerbitan klinikal. Tiada RCT Fasa 3 dalam senarai. Beberapa percubaan tidak berkaitan secara langsung. |
-| Granuloma annulare | L5 | Tiada percubaan atau literatur dalam data. |
-| Eksantema | L4 | Hanya laporan kes alahan kontak, iaitu isyarat keselamatan dan bukan bukti manfaat. |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

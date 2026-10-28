@@ -8,6 +8,7 @@ nav_order: 116
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Azelastine Hydrochloride
@@ -47,8 +48,8 @@ Azelastina hidroklorida adalah antihistamin generasi kedua yang kini dipasarkan 
 | Indikasi Baru yang Diprediksi | Tiada (tiada ramalan TxGNN tersedia) |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 2 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ## Mengapa Ramalan Ini Munasabah?

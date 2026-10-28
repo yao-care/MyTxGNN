@@ -48,10 +48,10 @@ Diklorobenzil alkohol ialah antiseptik ringan yang dikenali dengan sifat seakan-
 |------|------|
 | Indikasi Asal | Tiada data indikasi diluluskan dalam data yang dikumpulkan (antiseptik tekak secara umum) |
 | Indikasi Baharu yang Diramalkan | Bronkitis |
-| Skor Ramalan TxGNN | 99.21% |
+| Skor Ramalan TxGNN | 0.9921 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,9 +62,9 @@ Data mekanisme tindakan terperinci buat masa ini tidak tersedia. Berdasarkan mak
 
 Hubungan antara penggunaan asal dengan bronkitis masih bersifat spekulatif. Bronkitis melibatkan saluran udara bronkus yang lebih dalam, sedangkan lozenj bertindak terutamanya secara setempat di mulut dan tekak. Tiada mekanisme khusus untuk bronkitis yang disokong oleh data.
 
-Skor TxGNN yang tinggi (0.992) ialah output pengiraan model sahaja dan tidak disokong oleh data klinikal.
+Skor TxGNN yang tinggi (0.9921) ialah output pengiraan model sahaja dan tidak disokong oleh data klinikal.
 
-Ramalan kedua, **gangguan migrain** (skor 99.02%), tidak mempunyai sebarang pautan mekanistik yang dikenal pasti. Diklorobenzil alkohol tidak diketahui bertindak ke atas laluan berkaitan migrain (CGRP, isyarat serotonergik, pengaktifan trigeminovaskular). Sebarang pautan, contohnya melalui sekatan saluran natrium yang lemah, hanyalah spekulasi dan tidak terbukti bagi sebatian ini. Tiada percubaan klinikal atau literatur untuk indikasi ini.
+Ramalan kedua, **gangguan migrain** (skor 0.9902), tidak mempunyai sebarang pautan mekanistik yang dikenal pasti. Diklorobenzil alkohol tidak diketahui bertindak ke atas laluan berkaitan migrain (CGRP, isyarat serotonergik, pengaktifan trigeminovaskular). Sebarang pautan, contohnya melalui sekatan saluran natrium yang lemah, hanyalah spekulasi dan tidak terbukti bagi sebatian ini. Tiada percubaan klinikal atau literatur untuk indikasi ini.
 
 ---
 

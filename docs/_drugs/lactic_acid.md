@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 441
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Lactic Acid: indikasi baharu diramal Koarktasi aorta atipikal (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
+last_modified_at: 2026-10-28
 monitor_inn: "LACTIC ACID"
 predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "non-syndromic esophageal malformation", "amenorrhea (disease)", "dry eye syndrome"]
+description: "Lactic Acid: indikasi baharu diramal Koarktasi aorta atipikal (atypical coarctation of aorta) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Lactic Acid
@@ -33,14 +33,14 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Asid Laktik: Daripada Indikasi Asal (Tidak Direkodkan) kepada Koarktasi Aorta Atipikal
+## Lactic Acid: Koarktasi aorta atipikal (atypical coarctation of aorta)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Asid laktik (lactic acid) ialah metabolit endogen, dan tiada indikasi asal yang didaftarkan di Malaysia kerana ia tidak mempunyai lesen NPRA.
-Model TxGNN meramalkan ia mungkin berkesan untuk **koarktasi aorta atipikal** dengan skor tinggi (99.59%),
-tetapi **tiada ujian klinikal** dan **tiada literatur** yang menyokong ramalan ini; ia hanya ramalan berasaskan model graf.
+Model TxGNN meramalkan ia mungkin berkesan untuk **koarktasi aorta atipikal** dengan skor tinggi (0.9959),
+tetapi **tiada ujian klinikal** dan **tiada literatur** yang menyokong ramalan ini; skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
 ---
 
@@ -48,12 +48,12 @@ tetapi **tiada ujian klinikal** dan **tiada literatur** yang menyokong ramalan i
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
-| Indikasi Baharu yang Diramalkan | Koarktasi aorta atipikal |
-| Skor Ramalan TxGNN | 99.59% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Koarktasi aorta atipikal (atypical coarctation of aorta) |
+| Skor Ramalan TxGNN | 0.9959 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -62,13 +62,13 @@ tetapi **tiada ujian klinikal** dan **tiada literatur** yang menyokong ramalan i
 
 Data terperinci tentang mekanisme tindakan asid laktik tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, asid laktik ialah metabolit endogen, dan tiada kesan farmakologi yang diketahui terhadap patologi perkembangan atau struktur aorta.
 
-Koarktasi aorta ialah kecacatan struktur kongenital yang dirawat melalui pembedahan atau intervensi kateter, bukan secara farmakologi. Oleh itu, tiada hubungan mekanistik yang kukuh dapat ditubuhkan. Skor TxGNN yang tinggi (0.996) hanyalah ramalan berasaskan graf dan tidak boleh dianggap sebagai bukti keberkesanan.
+Koarktasi aorta ialah kecacatan struktur kongenital yang dirawat melalui pembedahan atau intervensi kateter, bukan secara farmakologi. Oleh itu, tiada hubungan mekanistik yang kukuh dapat ditubuhkan. Skor model TxGNN (pembelajaran mendalam) yang tinggi (0.9959) mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi, dan tidak boleh dianggap sebagai bukti keberkesanan.
 
 Ramalan lain yang berkedudukan tinggi juga lemah dari segi sokongan:
-- **Malformasi aorta** (99.35%): literatur yang diperoleh hanya berkait secara kebetulan (contohnya metabolisme dinding aorta dalam aterosklerosis eksperimen, stent biodegradasi, pemantauan perioperatif pembedahan jantung kanak-kanak). Laktat mungkin hanya muncul sebagai penanda biologi, bukan agen terapeutik.
-- **Malformasi esofagus bukan sindrom** (99.23%): tiada ujian klinikal atau literatur.
-- **Amenorea** (99.16%): hanya kaitan tangen, iaitu asid laktik dihasilkan oleh laktobasilus vagina; satu kajian pemerhatian pada babun liar tidak menguji asid laktik sebagai rawatan.
-- **Sindrom mata kering** (99.13%): kaitan tidak langsung dan lemah; kajian tikus menggunakan bakteria asid laktik (probiotik), bukan asid laktik itu sendiri. Ini hanya sesuai untuk penjanaan hipotesis (tahap bukti L4, "Research Question").
+- **Malformasi aorta** (0.9935): literatur yang diperoleh hanya berkait secara kebetulan (contohnya metabolisme dinding aorta dalam aterosklerosis eksperimen, stent biodegradasi, pemantauan perioperatif pembedahan jantung kanak-kanak). Laktat mungkin hanya muncul sebagai penanda biologi, bukan agen terapeutik.
+- **Malformasi esofagus bukan sindrom** (0.9923): tiada ujian klinikal atau literatur.
+- **Amenorea** (0.9916): hanya kaitan tangen, iaitu asid laktik dihasilkan oleh laktobasilus vagina; satu kajian pemerhatian pada babun liar tidak menguji asid laktik sebagai rawatan.
+- **Sindrom mata kering** (0.9913): kaitan tidak langsung dan lemah; kajian tikus menggunakan bakteria asid laktik (probiotik), bukan asid laktik itu sendiri. Ini hanya sesuai untuk penjanaan hipotesis (tahap bukti L4, "Research Question").
 
 ---
 
@@ -94,7 +94,6 @@ Tiada literatur yang menyokong koarktasi aorta atipikal secara langsung. Untuk i
 
 ## Maklumat Pasaran di Malaysia
 
-Asid laktik tidak dipasarkan di Malaysia dan tiada lesen berdaftar (0 pendaftaran).
 
 ---
 
@@ -114,7 +113,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk (packa
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan hanya berasaskan skor graf TxGNN yang tinggi tanpa ujian klinikal, tanpa literatur yang relevan, dan tanpa hubungan mekanistik yang munasabah. Koarktasi aorta ialah kecacatan struktur yang dirawat secara pembedahan atau kateter, bukan dengan metabolit kecil.
+- Ramalan hanya berasaskan skor tinggi model TxGNN (pembelajaran mendalam), yang mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, tanpa ujian klinikal, tanpa literatur yang relevan, dan tanpa hubungan mekanistik yang munasabah. Koarktasi aorta ialah kecacatan struktur yang dirawat secara pembedahan atau kateter, bukan dengan metabolit kecil.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci

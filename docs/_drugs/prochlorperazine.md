@@ -3,18 +3,18 @@ layout: default
 title: Prochlorperazine
 parent: Low Evidence (L4-L5)
 nav_order: 602
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Prochlorperazine: indikasi baharu diramal Skizofrenia (tahap bukti L4). Indikasi asal: Tiada data indikasi kelulusan tempatan dalam data yang disusun untuk…"
 monitor_inn: "Prochlorperazine"
-predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
+last_modified_at: 2026-10-23
+description: "Prochlorperazine: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (tahap bukti L5). Indikasi asal: Tidak tersedia (teks indikasi dalam rekod pelesenan kosong)"
 ---
 
 # Prochlorperazine
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,13 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Prochlorperazine: Daripada Penggunaan Asal kepada Skizofrenia
+## Prochlorperazine: Daripada Indikasi Asal (Tidak Tersedia dalam Data) kepada Distrofi Retina dengan atau tanpa Anomali Ekstraokular
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Prochlorperazine ialah ubat kelas fenotiazin yang lazimnya digunakan untuk mengawal loya dan muntah. Model TxGNN meramalkan ubat ini mungkin berkesan untuk **skizofrenia**. Setakat ini hanya **1 kajian klinikal berdaftar** (kajian intervensi tingkah laku yang tidak menguji prochlorperazine) dan beberapa penerbitan, kebanyakannya prapklinikal, kajian ulasan atau kajian lama, yang menyokong arah ini.
+Prochlorperazine dikenali sebagai antagonis reseptor dopamin D2 daripada kumpulan fenotiazin dengan kegunaan antiemetik dan antipsikotik. Rekod pelesenan tempatan dalam data yang dikumpulkan tidak mengandungi teks indikasi yang diluluskan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **distrofi retina dengan atau tanpa anomali ekstraokular**, tetapi pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model.
 
 ---
 
@@ -46,72 +47,77 @@ Prochlorperazine ialah ubat kelas fenotiazin yang lazimnya digunakan untuk menga
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi kelulusan tempatan dalam data yang disusun untuk laporan ini |
-| Indikasi Baharu yang Diramalkan | Skizofrenia |
-| Skor Ramalan TxGNN | 99.999% (≈100.00%) |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Tangguh) |
+| Indikasi Asal | Tidak tersedia (teks indikasi dalam rekod pelesenan kosong) |
+| Indikasi Baharu yang Diramalkan | Distrofi retina dengan atau tanpa anomali ekstraokular |
+| Skor Ramalan TxGNN | 1.0000 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang disusun untuk laporan ini. Berdasarkan maklumat sedia ada, prochlorperazine ialah fenotiazin yang bertindak sebagai antagonis reseptor dopamin D2. Mekanisme ini selaras dengan aktiviti antipsikotik, dan ubat ini pernah digunakan sebagai antipsikotik pada dos yang lebih tinggi.
+Pada masa ini, data terperinci tentang mekanisme tindakan (MOA) tidak tersedia. Berdasarkan maklumat yang diketahui, prochlorperazine ialah antagonis dopamin D2 dengan kegunaan antiemetik dan antipsikotik. Tiada hubungan mekanistik yang diketahui antara tindakan ini dengan distrofi retina keturunan.
 
-Hubungan antara kegunaan asal (anti-loya/anti-muntah) dengan skizofrenia terletak pada sasaran farmakologi yang sama, iaitu penyekatan reseptor dopamin. Oleh itu hubungan ini munasabah dari segi biologi.
-
-Walau bagaimanapun, tiada bukti kecekapan terkawal moden bagi prochlorperazine dalam skizofrenia. Kajian perbandingan yang ada adalah sangat lama (1959–1970) dan kebanyakan literatur lain bersifat prapklinikal atau di peringkat kelas ubat.
+Skor TxGNN yang sangat tinggi (1.0000) ialah ramalan daripada model TxGNN (pembelajaran mendalam) sahaja dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Ia tidak disokong oleh ujian klinikal, penerbitan atau rasional biologi yang jelas. Oleh itu, ramalan ini patut dianggap sebagai isyarat komputasi yang belum disahkan, bukan petunjuk kebolehgunaan semula yang kukuh.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT02600741](https://clinicaltrials.gov/study/NCT02600741) | N/A | Selesai | 296 | Kajian 12 bulan mengenai psikopendidikan dan latihan kemahiran penjaga untuk pesakit skizofrenia yang menerima paliperidone palmitate atau antipsikotik oral. Ia tidak menguji prochlorperazine, jadi tiada bukti khusus ubat ini. |
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [42173813](https://pubmed.ncbi.nlm.nih.gov/42173813/) | 2026 | Formulasi/Prapklinikal | Therapeutic Delivery | Pembawa lipid berstruktur nano yang memuatkan prochlorperazine maleate untuk skizofrenia (penghantaran intranasal) |
-| [36165981](https://pubmed.ncbi.nlm.nih.gov/36165981/) | 2023 | Kajian semula sistematik | J Appl Toxicol | Kesan derivatif fenotiazin terhadap autofagi secara in vitro |
-| [31493244](https://pubmed.ncbi.nlm.nih.gov/31493244/) | 2019 | Ulasan | CNS Drugs | Rasional dan status formulasi transdermal antipsikotik |
-| [19461391](https://pubmed.ncbi.nlm.nih.gov/19461391/) | 2009 | Ulasan | J Psychiatr Pract | Penggunaan dan keselamatan antipsikotik semasa kehamilan |
-| [41951339](https://pubmed.ncbi.nlm.nih.gov/41951339/) | 2026 | Pengawasan keselamatan sistematik | BMJ Mental Health | Risiko kecacatan kongenital selepas pendedahan antipsikotik prenatal (peringkat kelas) |
-| [29442053](https://pubmed.ncbi.nlm.nih.gov/29442053/) | 2017 | Prapklinikal/Mekanistik | Die Pharmazie | Interaksi prochlorperazine dengan melanin dan melanosit |
-| [30159761](https://pubmed.ncbi.nlm.nih.gov/30159761/) | 2018 | In vitro | Daru | Perencatan melanogenesis oleh fluphenazine dan prochlorperazine dalam melanosit manusia |
-| [23954492](https://pubmed.ncbi.nlm.nih.gov/23954492/) | 2013 | Kajian makmal | Neuropharmacology | Prochlorperazine dan trifluoperazine sebagai modulator alosterik reseptor P2X7 manusia |
-| [14278880](https://pubmed.ncbi.nlm.nih.gov/14278880/) | 1965 | Kajian perbandingan | Can Psychiatr Assoc J | Perbandingan butaperazine dan prochlorperazine dalam skizofrenia kronik |
-| [13664779](https://pubmed.ncbi.nlm.nih.gov/13664779/) | 1959 | Laporan kes | J Clin Exp Psychopathol | Tindakan sinergi prochlorperazine dan mepazine dalam dua kes skizofrenia |
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ---
 
-## Keselamatan
+## Maklumat Pasaran di Malaysia
 
-- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan (sumber DDInter). Antara yang bertahap **Major**: **bupropion** dan **kalium sitrat**. Yang bertahap **Moderate** termasuk ubat antidiabetik (acarbose, metformin, pioglitazone, alogliptin, canagliflozin, chlorpropamide, albiglutide), ubat antikolinergik (atropine, hyoscyamine, glycopyrronium), epinephrine, famotidine, loperamide, morfin, clarithromycin, lorcaserin, bisacodyl dan asid picosulfurik.
+Terdapat 6 pendaftaran sah untuk produk bahan tunggal. Lima yang utama disenaraikan di bawah.
 
-Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL19970964AZ | LARTIL INJECTION 1ML (12.5 MG/ML) | Tidak dinyatakan | Tidak dinyatakan |
+| MAL19890269ACZ | PROMETIL TABLET 5MG | Tidak dinyatakan | Tidak dinyatakan |
+| MAL19871687AZ | PROCHLOR TABLET 5 | Tidak dinyatakan | Tidak dinyatakan |
+| MAL19861405AZ | PROPERAZINE TABLET 5MG | Tidak dinyatakan | Tidak dinyatakan |
+| MAL19900450AZ | PRIMETIL TABLET 5MG | Tidak dinyatakan | Tidak dinyatakan |
+
+---
+
+## Pertimbangan Keselamatan
+
+- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan, dan 20 yang pertama telah disemak.
+  - **Tahap Major**: bupropion dan kalium sitrat.
+  - **Tahap Sederhana (contoh)**:
+    - Ubat diabetes: acarbose, alogliptin, albiglutide, metformin, pioglitazone, canagliflozin dan chlorpropamide.
+    - Antikolinergik: atropin, hyoscyamine dan glycopyrronium.
+    - Lain-lain: morfin, epinefrin, famotidin, loperamide, klaritromisin, bisacodyl, asid pikosulfurik dan lorcaserin.
+
+Maklumat amaran dan kontraindikasi daripada sisipan pek tidak tersedia. Sila rujuk sisipan pek untuk maklumat keselamatan yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tangguh)**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Tahap bukti ialah L4. Ramalan TxGNN yang tinggi disokong oleh rasional mekanistik yang munasabah (antagonis D2), tetapi tiada bukti kecekapan terkawal moden bagi prochlorperazine dalam skizofrenia. Ubat ini juga tidak berdaftar di Malaysia dan data keselamatan label tidak tersedia.
+- Ramalan ini hanya berasaskan model, tanpa ujian klinikal, penerbitan atau mekanisme yang munasabah, jadi tahap buktinya L5.
+- Data amaran, kontraindikasi dan MOA juga masih tidak lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Memuat turun dan menganalisis risalah maklumat produk NPRA untuk amaran dan kontraindikasi (diperlukan sebelum saringan keselamatan)
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
-- Maklumat indikasi asal dan status pendaftaran ubat di Malaysia
-- Ujian klinikal terkawal moden yang menilai prochlorperazine secara langsung dalam skizofrenia, berbanding antipsikotik piawai
-- Penilaian risiko-manfaat, termasuk gejala ekstrapiramidal dan interaksi ubat Major
+- Sisipan pek NPRA (amaran dan kontraindikasi) serta teks indikasi yang diluluskan.
+- Data MOA yang terperinci, contohnya daripada DrugBank.
+- Bukti pra-klinikal atau mekanistik yang menghubungkan antagonisme D2 dengan patologi distrofi retina.
+
+**Nota tambahan:** Antara calon ramalan lain, hanya "gangguan afektif bipolar manik" mempunyai literatur yang diperoleh. Literatur tersebut terdiri daripada laporan kes, tinjauan dan kajian keselamatan lama (1959–2015) yang bersifat tidak langsung. Ia termasuk laporan serangan keliru akibat prochlorperazine, yang menimbulkan kebimbangan keselamatan dan bukannya bukti manfaat.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

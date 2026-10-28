@@ -3,16 +3,18 @@ layout: default
 title: Magnesium Trisilicate
 parent: Low Evidence (L4-L5)
 nav_order: 484
-evidence_level: L4
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Magnesium Trisilicate: indikasi baharu diramal Esofagitis (tahap bukti L4). Indikasi asal: Penyakit ulser peptik, GERD, esofagitis, esofagitis peptik…"
+evidence_level: L5
+indication_count: 1
+monitor_inn: "Magnesium Trisilicate"
+predicted_indications: ["gastroduodenitis"]
+last_modified_at: 2026-10-23
+description: "Magnesium Trisilicate: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Penyakit ulser peptik, GERD, esofagitis, dispepsia"
 ---
 
 # Magnesium Trisilicate
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,119 +33,89 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-## Magnesium Trisilicate: Daripada Penyakit Ulser Peptik kepada Esofagitis
+## Magnesium Trisilicate: Daripada Penyakit Ulser Peptik kepada Gastroduodenitis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Magnesium trisilicate ialah antasid yang pada asalnya digunakan untuk merawat penyakit ulser peptik, penyakit refluks gastroesofagus (GERD), esofagitis dan dispepsia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **esofagitis** (skor ramalan 0.0%), dengan **3 ujian klinikal berdaftar** (kesemuanya di bawah ramalan GERD) dan **sekitar 30 penerbitan** yang berkaitan, kebanyakannya sejarah dan melibatkan produk gabungan.
-Perlu diingat bahawa esofagitis sudah termasuk dalam indikasi asal ubat ini, jadi ia bukan isyarat penggunaan semula yang benar-benar baharu.
+Magnesium trisilikat ialah antasid yang digunakan untuk penyakit ulser peptik, penyakit refluks gastroesofagus (GERD), esofagitis dan dispepsia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gastroduodenitis**,
+tetapi buat masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini, jadi ramalan ini hanya berasaskan model.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit ulser peptik, GERD, esofagitis, esofagitis peptik, dispepsia (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi berlesen kerana tiada pendaftaran di Malaysia) |
-| Indikasi Baharu yang Diramalkan | Esofagitis |
-| Skor Ramalan TxGNN | 0.0% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi Asal | Penyakit ulser peptik, GERD, esofagitis, dispepsia (relasi yang direkodkan dalam graf pengetahuan; tiada teks indikasi berlesen dalam data yang dihimpunkan) |
+| Indikasi Baharu yang Diramalkan | Gastroduodenitis |
+| Skor Ramalan TxGNN | 0.9972 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
+| Bilangan Pendaftaran | 14 (sah: 14) |
+| Bilangan Kelulusan | 14 pendaftaran (semuanya produk kombinasi) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, magnesium trisilicate ialah antasid yang meneutralkan asid gastrik dan boleh membentuk lapisan gel silika pelindung. Lapisan ini secara munasabah dapat mengurangkan kerosakan mukosa esofagus akibat asid.
+Data mekanisme tindakan (MOA) tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Berdasarkan farmakologi antasid secara umum, magnesium trisilikat meneutralkan asid gastrik dan membentuk lapisan gel silika pelindung di atas mukosa. Maklumat ini adalah inferens am dan tidak disokong oleh data yang dibekalkan.
 
-Esofagitis ialah kecederaan mukosa akibat refluks asid, iaitu mekanisme yang sama dengan GERD dan ulser peptik yang sedia ada sebagai indikasi asal. Oleh itu, tindakan meneutralkan asid secara mekanistik boleh digunakan untuk esofagitis. Namun, ini lebih merupakan indikasi bersebelahan indikasi asal (*on-label-adjacent*) daripada penemuan penggunaan semula yang baharu.
+Gastroduodenitis ialah keradangan mukosa gaster dan duodenum. Skor ramalan ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan (ulser peptik, GERD, esofagitis, dispepsia), bukan bukti biologi, jadi mekanisme peneutralan asid dan perlindungan mukosa mungkin relevan. Oleh sebab itu, ramalan ini lebih tepat dianggap sebagai lanjutan penggunaan semasa dalam saluran gastrousus atas berbanding pengalihan guna (repurposing) yang sebenar.
 
-Perlu dinyatakan juga bahawa skor TxGNN bagi semua indikasi yang disenaraikan ialah 0.0, jadi model tidak memberikan sokongan ramalan yang bermakna. Penilaian ini bergantung pada bukti klinikal dan literatur sahaja.
+Skor TxGNN yang sangat tinggi ialah ramalan pengiraan sahaja dan bukan bukti klinikal.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-Tiada ujian klinikal berdaftar untuk esofagitis. Ujian di bawah didaftarkan untuk ramalan GERD (indikasi berkaitan).
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00343161](https://clinicaltrials.gov/study/NCT00343161) | Fasa 4 | Selesai | 441 | Rawatan penyenggaraan esomeprazole 20 mg selama 12 minggu berbanding terapi atas permintaan atau strategi "tunggu dan lihat" dengan antasid sebagai ubat penyelamat, selepas rawatan akut 4 minggu. Belum dapat disahkan sama ada magnesium trisilicate ialah lengan atau pembanding. |
-| [NCT03883074](https://clinicaltrials.gov/study/NCT03883074) | N/A | Selesai | 21 | Formulasi oral asid hialuronik + kondroitin sulfat + magnesium trisilicate berbanding plasebo (silang, buta dua kali) untuk gejala GERD dan integriti mukosa; kesan tidak dapat dikaitkan dengan magnesium trisilicate sahaja. |
-| [NCT04202692](https://clinicaltrials.gov/study/NCT04202692) | N/A | Selesai | 40 | GERDOff Plus (asid hialuronik + kondroitin sulfat + magnesium trisilicate) sebagai tambahan kepada PPI; kajian prestasi dan keselamatan pasca pasaran, dikelirukan oleh komponen aktif lain. |
+Buat masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-**Esofagitis** dan **GERD** (paling relevan kepada ramalan ini):
-
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [2855391](https://pubmed.ncbi.nlm.nih.gov/2855391/) | 1988 | Ujian klinikal (RCT buta dua kali) | Annales chirurgiae et gynaecologiae | Membandingkan cimetidine, Gastrocote (alginat + magnesium trisilicate + lain-lain) dan gabungan keduanya selama 10 minggu dalam esofagitis refluks; menilai pH esofagus, endoskopi dan gejala. |
-| [2556175](https://pubmed.ncbi.nlm.nih.gov/2556175/) | 1989 | Kajian klinikal perbandingan | Br J Clin Pract Suppl | Algicon berbanding campuran magnesium trisilicate untuk dispepsia refluks semasa kehamilan. |
-| [32210642](https://pubmed.ncbi.nlm.nih.gov/32210642/) | 2020 | In vitro / ex vivo | Medical Devices (Auckland) | Kebolehtelapan epitelium esofagus manusia dengan formulasi asid hialuronik dan kondroitin sulfat (dengan atau tanpa komponen antasid); bertujuan menghasilkan lapisan pelindung mekanikal. |
-| [11273538](https://pubmed.ncbi.nlm.nih.gov/11273538/) | 2000 | Kajian klinikal mekanistik | J Assoc Physicians India | Kesan asid intraesofagus terhadap kereaktifan saluran udara pada pesakit asma dan kebolehbalikannya dengan antasid. |
-
-**Penyakit ulser peptik** (literatur sejarah paling banyak):
-
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [14248445](https://pubmed.ncbi.nlm.nih.gov/14248445/) | 1965 | Ujian buta dua kali | Br Med J | Bismuth aluminat dan magnesium trisilicate dalam ulser peptik dengan analisis gastrik serentak. |
-| [6328685](https://pubmed.ncbi.nlm.nih.gov/6328685/) | 1984 | Ujian perbandingan | S Afr Med J | Antasid (aluminium hidroksida + magnesium trisilicate, Gelusil) berbanding ranitidine selama 4 minggu; ulser duodenum sembuh 74% dengan ranitidine dan 63% dengan Gelusil. |
-| [6368445](https://pubmed.ncbi.nlm.nih.gov/6368445/) | 1983 | Ujian klinikal terkawal | Int J Tissue React | De-Nol berbanding campuran antasid (natrium bikarbonat, kalsium karbonat, magnesium trisilicate) dalam ulser gastrik selama 4 minggu. |
-| [15425465](https://pubmed.ncbi.nlm.nih.gov/15425465/) | 1950 | Siri kes | Am J Dig Dis | Aluminium hidroksida + magnesium trisilicate + mucin pada 125 pesakit ulser peptik. |
-| [20271751](https://pubmed.ncbi.nlm.nih.gov/20271751/) | 1947 | Kajian klinikal | Arch Surg | Kajian gastroskopi dan klinikal gabungan yang sama dalam ulser peptik. |
-| [20321118](https://pubmed.ncbi.nlm.nih.gov/20321118/) | 1938 | Laporan klinikal sejarah | Can Med Assoc J | Magnesium trisilicate dalam rawatan ulser peptik. |
-| [6547921](https://pubmed.ncbi.nlm.nih.gov/6547921/) | 1984 | Kajian fisiologi | Fortschr Med | Kesan tempatan sukralfat, aluminium hidroksida dan magnesium trisilicate terhadap perbezaan keupayaan elektrik transmural pada ulser gastrik. |
-| [4909818](https://pubmed.ncbi.nlm.nih.gov/4909818/) | 1970 | Kajian klinikal | Gut | Duogastrone berbanding plasebo yang mengandungi magnesium trisilicate dalam ulser duodenum (bukan ubat ini secara langsung). |
-
-Sebahagian besar literatur ini melibatkan produk gabungan dan metodologi pra-moden. Tiada abstrak lengkap bagi banyak kajian, jadi penemuan hanya diringkaskan daripada tajuk dan maklumat yang ada.
+Buat masa ini tiada literatur berkaitan tersedia.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-Ubat ini tidak dipasarkan di Malaysia dan tiada pendaftaran NPRA yang direkodkan.
+Semua 14 pendaftaran ialah produk kombinasi dan berstatus sah. Teks indikasi yang diluluskan tidak tersedia dalam data yang dihimpunkan. Lesen produk kombinasi tidak boleh digunakan untuk menggambarkan status kelulusan bahan tunggal magnesium trisilikat. Senarai di bawah menunjukkan 5 yang pertama sahaja.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Pengilang |
+|---------|------|------|-----------|
+| MAL19940176XC | ALUSIL MPS SUSPENSION | Tiada maklumat | Zontron Pharmaceuticals Sdn. Bhd. |
+| MAL19940195XC | ALUSIL TABLET | Tiada maklumat | Zontron Pharmaceuticals Sdn. Bhd. |
+| MAL09042426X | Megacid Tablet | Tiada maklumat | Unimed Sdn. Bhd. |
+| MAL19940180XC | MMT MIXTURE | Tiada maklumat | Teraputics Sdn Bhd |
+| MAL19940204XC | ALUSIL MPS TABLET | Tiada maklumat | Zontron Pharmaceuticals Sdn. Bhd. |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Data label rasmi (amaran utama dan kontraindikasi) tidak tersedia. Maklumat di bawah datang daripada graf pengetahuan dan literatur, bukan teks label.
+- **Penyakit yang direkodkan sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): penyakit buah pinggang, pioureter, kegagalan jantung kongestif, penyakit cirit-birit (termasuk kronik), gangguan sembelit, hipofosfatemia, impaksi usus dan buasir.
 
-- **Kontraindikasi/keadaan berisiko (graf pengetahuan TxGNN, bukan teks label):** penyakit buah pinggang, piouretr, kegagalan jantung kongestif, penyakit cirit-birit (termasuk kronik), gangguan sembelit, hipofosfatemia, impaksi usus dan buasir.
-- **Interaksi ubat (daripada literatur, bukan pangkalan data DDI):**
-  - Antasid (termasuk aluminium hidroksida-magnesium trisilicate) boleh mengurangkan bioavailabiliti fenitoin ([7336470](https://pubmed.ncbi.nlm.nih.gov/7336470/)).
-  - Mengubah corak perkumuhan salisilat daripada sediaan aspirin bersalut enterik ([968338](https://pubmed.ncbi.nlm.nih.gov/968338/)).
-  - Mengurangkan ketersediaan norethisterone asetat daripada pil perancang oral gabungan secara in vitro ([432256](https://pubmed.ncbi.nlm.nih.gov/432256/)).
-- **Kesan buruk yang dilaporkan:** erupsi ubat tetap (*fixed drug eruption*) akibat magnesium trisilicate ([3005065](https://pubmed.ncbi.nlm.nih.gov/3005065/)); batu kencing mengandungi silika ([15688172](https://pubmed.ncbi.nlm.nih.gov/15688172/)).
-- **Had keberkesanan:** laporan kes sindrom aspirasi asid pulmonari walaupun 15 ml magnesium trisilicate diberikan ([237522](https://pubmed.ncbi.nlm.nih.gov/237522/)).
-- Pertanyaan interaksi ubat dalam pangkalan data tidak menemui sebarang rekod.
-
-Sila rujuk sisipan pakej untuk maklumat keselamatan rasmi.
+Maklumat amaran utama dan kontraindikasi berlabel tidak tersedia. Sila rujuk sisipan pek untuk maklumat keselamatan lanjut.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
-**Justifikasi:**
-- Esofagitis sudah menjadi indikasi asal, jadi ini bukan penggunaan semula yang benar-benar baharu. Skor TxGNN ialah 0.0, tiada ujian klinikal berdaftar untuk esofagitis, dan bukti sedia ada hanya melibatkan produk gabungan (alginat/cimetidine dan formulasi asid hialuronik) serta kajian in vitro, jadi kesan magnesium trisilicate secara tunggal tidak dapat dipastikan (tahap bukti L4).
-- Ubat tidak dipasarkan di Malaysia, dan data keselamatan label (jurang data yang menyekat) belum tersedia. Untuk GERD dan ulser peptik, bukti berada pada tahap L3 (status "Research Question"), tetapi rawatan moden (PPI, penyekat H2, eradikasi *H. pylori*) telah menjadi standard penjagaan.
+**Rasional:**
+Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau penerbitan yang mengkaji gastroduodenitis secara langsung. Indikasi yang diramalkan juga amat hampir dengan kegunaan sedia ada, dan data keselamatan berlabel masih tiada.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA atau data label untuk amaran dan kontraindikasi (jurang data yang menyekat).
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
-- Pengesahan sama ada magnesium trisilicate ialah lengan atau pembanding dalam NCT00343161.
-- Kajian yang mengasingkan kesan magnesium trisilicate sebagai agen tunggal dalam esofagitis, berbanding rawatan standard semasa.
-- Penilaian status pendaftaran dan kesesuaian laluan pentadbiran/bentuk dos untuk pasaran Malaysia.
-- Pelan pemantauan keselamatan untuk populasi berisiko (penyakit buah pinggang, kegagalan jantung, pengguna fenitoin, salisilat atau kontraseptif oral).
+- Sisipan pek NPRA (amaran dan kontraindikasi) untuk saringan keselamatan
+- Data mekanisme tindakan (MOA) yang disahkan
+- Carian literatur dan percubaan klinikal khusus untuk gastroduodenitis
+- Teks indikasi berlesen bagi produk-produk berdaftar untuk menentukan sama ada penggunaan ini sudah dilitupi label
+- Penilaian keselamatan bagi pesakit buah pinggang dan jantung berdasarkan kontraindikasi dalam graf pengetahuan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

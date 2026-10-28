@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Fosfomycin
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 375
-evidence_level: L2
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Fosfomycin: indikasi baharu diramal Uretritis gonokokus (tahap bukti L2). Indikasi asal: Jangkitan saluran kencing (UTI)"
+evidence_level: L5
+indication_count: 8
 monitor_inn: "fosfomycin"
-predicted_indications: ["gonococcal urethritis", "Ureaplasma urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "epiglottitis", "urogenital tuberculosis", "laryngitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "pyelitis"]
+predicted_indications: ["uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "epiglottitis", "urogenital tuberculosis", "laryngitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "pyelitis"]
+last_modified_at: 2026-10-23
+description: "Fosfomycin: indikasi baharu diramal Uterine inflammatory disease (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Fosfomycin
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,85 +33,81 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-## Fosfomycin: Daripada Jangkitan Saluran Kencing kepada Uretritis Gonokokus
+## Fosfomycin: Uterine inflammatory disease
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Fosfomycin ialah antibiotik yang pada asalnya digunakan untuk merawat jangkitan saluran kencing (UTI). Model TxGNN meramalkan ia mungkin berkesan untuk **uretritis gonokokus**. Setakat ini terdapat **0 ujian klinikal berdaftar** dan **6 penerbitan** yang berkaitan, termasuk **1 ujian terkawal rawak (RCT)** pada tahun 2016.
-
----
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit radang uterus**.
+Bukti langsung amat terhad: **2 percubaan klinikal** dan **1 penerbitan** ditemui, tetapi tiada satu pun yang mengkaji penyakit ini secara langsung.
 
 ## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan saluran kencing (UTI) |
-| Indikasi Baharu yang Diramal | Uretritis gonokokus |
-| Skor Ramalan TxGNN | 99.99% |
-| Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
----
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Uterine inflammatory disease |
+| Skor Ramalan TxGNN | 0.9998 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Fosfomycin menghalang enzim MurA (UDP-N-acetylglucosamine enolpyruvyl transferase). Enzim ini mengawal langkah pertama dalam sintesis peptidoglikan, iaitu komponen utama dinding sel bakteria. Kesannya bersifat bakterisid. Mekanisme ini berkemungkinan aktif terhadap *Neisseria gonorrhoeae*, yang bergantung pada dinding sel peptidoglikan.
+Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, fosfomycin menghalang enzim MurA dan seterusnya sintesis dinding sel bakteria. Ia mencapai kepekatan tinggi dalam air kencing dan aktif terhadap beberapa bakteria Gram-negatif yang rintang pelbagai ubat.
 
-Fosfomycin sudah mapan untuk UTI kerana kepekatannya dalam air kencing dan saluran urogenital tinggi. Uretritis gonokokus juga merupakan jangkitan bakteria saluran urogenital, jadi kedua-dua penyakit ini berkongsi kawasan jangkitan yang sama. Kerintangan gonokokus yang meningkat terhadap ejen piawai juga mendorong minat terhadap pilihan alternatif seperti fosfomycin.
+Radang uterus dan pelvis sering melibatkan jangkitan bakteria. Oleh itu, aktiviti antibakteria fosfomycin secara teori boleh relevan. Namun, hubungan ini bersifat tidak langsung. Dua percubaan klinikal yang ditemui ialah kajian farmakokinetik am pada kanak-kanak, dan satu-satunya penerbitan membincangkan sistitis pada pesakit endometriosis, bukan keradangan uterus. Ramalan ini perlu dianggap sebagai hipotesis yang belum disokong oleh kajian khusus.
 
-Namun, kesimpulan keberkesanan RCT 2016 perlu disahkan daripada teks penuh, kerana hanya abstrak terpotong yang tersedia untuk penulisan laporan ini.
+## Bukti Percubaan Klinikal
 
----
-
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk fosfomycin dalam uretritis gonokokus.
-
----
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT01431326](https://clinicaltrials.gov/study/NCT01431326) | Tidak berkenaan | Selesai | 3,520 | Kajian farmakokinetik ubat yang kurang dikaji pada kanak-kanak di bawah penjagaan standard. Tidak khusus kepada penyakit radang uterus atau keberkesanan fosfomycin. |
+| [NCT04278404](https://clinicaltrials.gov/study/NCT04278404) | Tidak berkenaan | Sedang merekrut | 5,000 | Kajian farmakokinetik, farmakodinamik dan keselamatan ubat yang kurang dikaji. Tiada data keberkesanan khusus untuk penyakit ini. |
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [27064136](https://pubmed.ncbi.nlm.nih.gov/27064136/) | 2016 | RCT | Clinical Microbiology and Infection | RCT label terbuka ke atas 152 lelaki dengan uretritis gonokokus tanpa komplikasi, dan 126 melengkapkan kajian. Kumpulan intervensi (60 pesakit) menerima fosfomycin trometamol 3 g oral pada hari 1, 3 dan 5. Keputusan keberkesanan tidak tersedia dalam abstrak yang terpotong. |
-| [832528](https://pubmed.ncbi.nlm.nih.gov/832528/) | 1977 | Siri klinikal | Chemotherapy | 70 pesakit dirawat dengan fosfomycin intramuskular. Dos 4 g (2 g/4 jam) memberi 11 sembuh bakteriologi dan klinikal daripada 12 pesakit (92%). Dos tunggal 4 g memberi 37 sembuh daripada 43 pesakit (86%). |
-| [832523](https://pubmed.ncbi.nlm.nih.gov/832523/) | 1977 | Kajian klinikal/bakteriologi | Chemotherapy | Penilaian bakteriologi terkawal ke atas 959 pesakit di hospital Sepanyol dengan pelbagai jangkitan, termasuk uretritis gonokokus. |
-| [35820778](https://pubmed.ncbi.nlm.nih.gov/35820778/) | 2023 | Analisis sekunder RCT | Sexually Transmitted Infections | Pelepasan spontan gonorea tanpa gejala daripada ujian NABOGO. Tidak khusus kepada fosfomycin. |
-| [19593988](https://pubmed.ncbi.nlm.nih.gov/19593988/) | 2009 | Ulasan | Zhonghua Nan Ke Xue | Diagnosis dan rawatan jangkitan genitourinari lelaki oleh *Neisseria* bukan gonokokus. Kaitan terhad. |
-| [17878816](https://pubmed.ncbi.nlm.nih.gov/17878816/) | 2007 | Laporan kes | Journal Français d'Ophtalmologie | Konjunktivitis gonokokus dengan abses kornea pada orang dewasa. Kaitan sangat terhad. |
+| [35653789](https://pubmed.ncbi.nlm.nih.gov/35653789/) | 2022 | Kohort | Journal of Obstetrics and Gynaecology | Mengkaji sistitis berkaitan dienogest pada wanita dengan endometriosis selepas pembedahan laparoskopi. Tidak mengkaji keradangan uterus atau rawatan fosfomycin. |
 
----
+## Maklumat Pasaran di Malaysia
 
-## Keselamatan
+Teks indikasi yang diluluskan, bentuk dos dan kekuatan tidak tersedia dalam rekod pendaftaran yang dikumpulkan.
 
-- **Kontraindikasi (daripada graf pengetahuan, bukan teks label produk)**: penyakit buah pinggang, piouretur, kolitis *Clostridium difficile* dan enterokolitis nekrotik perinatal.
-- **Interaksi Ubat**:
-  - Balsalazide: sederhana
-  - Asid picosulfurik: sederhana
-  - Metoclopramide: ringan
+| Nombor Kebenaran | Nama Produk | Pengeluar | Jenis |
+|---------|------|------|------|
+| MAL20033481AZ | MONUROL 3G GRANULES | EP PLUS GROUP SDN. BHD. | Bahan tunggal |
+| MAL24036037AZ | URODAY 3g Granules for Oral Solution | AVERROES PHARMACEUTICALS SDN. BHD. | Bahan tunggal |
+| MAL25016024AZ | Foswomyn 3g Granules for oral solution | MEDISPEC (M) SDN. BHD. | Bahan tunggal |
+| MAL20162588HAE | PBAC FOSVET 250mg/g Water Soluble Powder | Life Biopharma Sdn. Bhd. | Bahan tunggal |
+| MAL20172717HAE | FOSVET-T WATER SOLUBLE POWDER | Life Biopharma Sdn. Bhd. | Kombinasi |
 
-Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang lengkap.
+Kesemua lima pendaftaran berstatus sah. Produk kombinasi tidak boleh digunakan untuk menggambarkan status pendaftaran fosfomycin bahan tunggal.
 
----
+## Pertimbangan Keselamatan
+
+- **Kontraindikasi yang direkodkan dalam graf pengetahuan** (bukan teks label): penyakit buah pinggang, piouretera, kolitis *Clostridium difficile* dan enterokolitis nekrotik perinatal. Ini perlu disahkan dengan sisipan bungkusan rasmi.
+- **Interaksi ubat**: 3 interaksi dikesan.
+  - Balsalazide (sederhana)
+  - Asid pikosulfurik (sederhana)
+  - Metoclopramide (ringan)
+
+Sila rujuk sisipan bungkusan untuk maklumat amaran dan kontraindikasi yang lengkap.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
-**Justifikasi:**
-- Bukti untuk uretritis gonokokus terhad kepada satu RCT label terbuka (2016) yang keputusannya belum disahkan daripada teks penuh, dan siri klinikal lama dari tahun 1977.
-- Tiada ujian klinikal berdaftar, produk ini tidak didaftarkan di Malaysia, dan data amaran serta kontraindikasi daripada sisipan pakej belum tersedia, yang menghalang saringan keselamatan.
+**Rasional:**
+Tiada percubaan klinikal atau penerbitan yang mengkaji penyakit radang uterus secara langsung, maka tahap bukti ialah L5 walaupun skor model tinggi. Calon lain yang diramalkan untuk fosfomycin, iaitu pielitis, mempunyai bukti lebih kukuh, termasuk satu percubaan rawak fasa 2/3 bagi fosfomycin intravena pada jangkitan saluran kencing berkomplikasi. Namun, ia sebahagian besarnya lanjutan daripada hubungan jangkitan saluran kencing, jadi kebaharuan penggunaan semula adalah terhad.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Memuat turun dan menghurai sisipan pakej NPRA untuk amaran dan kontraindikasi.
-- Mendapatkan teks penuh RCT 2016 (PMID 27064136) untuk mengesahkan kadar kesembuhan dan perbandingan dengan ejen pembanding.
-- Data kerentanan *N. gonorrhoeae* tempatan terhadap fosfomycin.
-- Data mekanisme tindakan terperinci daripada DrugBank.
-- Pengesahan formulasi dan rejimen dos (oral trometamol berbanding suntikan), serta status pendaftaran produk di Malaysia.
-- Ujian klinikal prospektif moden untuk mengukuhkan bukti.
+**Untuk meneruskan, perlu dilengkapkan:**
+- Sisipan bungkusan NPRA (amaran, kontraindikasi dan indikasi yang diluluskan)
+- Data mekanisme tindakan yang terperinci
+- Kajian yang menilai keberkesanan fosfomycin secara langsung dalam penyakit radang uterus, misalnya data mikrobiologi, penembusan tisu uterus dan percubaan klinikal
+- Penilaian keserasian laluan pentadbiran (oral berbanding intravena) untuk indikasi ini
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

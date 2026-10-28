@@ -8,6 +8,7 @@ nav_order: 58
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Aminophylline Dihydrate
@@ -51,8 +52,8 @@ Penilaian penjelmaan ubat yang lengkap **tidak dapat diselesaikan** sehingga jur
 | Indikasi Kegunaan Baru yang Diramalkan | Tiada ramalan tersedia |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 — ramalan model tiada; tiada kajian sokongan yang boleh dinilai |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

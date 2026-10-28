@@ -6,9 +6,9 @@ nav_order: 332
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ergometrine: indikasi baharu diramal Hipertrikosis (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan dalam data yang dikumpulkan"
 monitor_inn: "Ergometrine"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "nephrogenic syndrome of inappropriate antidiuresis", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "migraine disorder", "migraine with brainstem aura", "leprosy", "pulmonary hypertension"]
+description: "Ergometrine: indikasi baharu diramal Hipertrikosis (hypertrichosis (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ergometrine
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Ergometrin: Daripada Penggunaan Asal kepada Hipertrikosis (Ramalan Indikasi Baharu)
+## Ergometrine: Hipertrikosis (hypertrichosis (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **hipertrikosis** dengan skor s
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi diluluskan dalam data yang dikumpulkan |
-| Indikasi Baharu yang Diramalkan | Hipertrikosis |
-| Skor Ramalan TxGNN | 99.96% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Hipertrikosis (hypertrichosis (disease)) |
+| Skor Ramalan TxGNN | 0.9996 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **hipertrikosis** dengan skor s
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan umum, ergometrin ialah alkaloid ergot yang bertindak pada otot licin rahim melalui reseptor serotonergik, alfa-adrenergik dan dopaminergik.
 
-Penilaian mekanistik menunjukkan **tiada kaitan yang diketahui** antara laluan ini dengan pengawalaturan pertumbuhan folikel rambut. Skor TxGNN yang sangat tinggi (0.9996) ialah ramalan graf pengetahuan sahaja dan tidak disokong oleh sebarang ujian atau literatur. Ramalan ini mungkin didorong oleh kedekatan graf dengan fenotip berkaitan rambut.
+Penilaian mekanistik menunjukkan **tiada kaitan yang diketahui** antara laluan ini dengan pengawalaturan pertumbuhan folikel rambut. Skor TxGNN yang sangat tinggi (0.9996) ialah ramalan model TxGNN (pembelajaran mendalam) sahaja dan tidak disokong oleh sebarang ujian atau literatur. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
 ### Ramalan Lain yang Dinilai
 
@@ -69,16 +69,16 @@ Sepuluh ramalan teratas telah dinilai. Kebanyakannya tidak mempunyai asas mekani
 
 | Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Ulasan |
 |------|------|------|------|------|
-| 1 | Hipertrikosis | 99.96% | L5 | Tiada kaitan mekanistik |
-| 2 | Hipertrikosis universalis kongenita jenis Ambras | 99.95% | L5 | Gangguan genetik (TRPS1); tiada mekanisme munasabah |
-| 3 | Sindrom antidiuresis tidak wajar nefrogenik | 99.94% | L5 | Disebabkan varian reseptor V2; tiada aktiviti ergometrin diketahui |
-| 4 | Sindrom malformasi dengan komponen odontal/periodontal | 99.94% | L5 | Genetik; tiada rasional |
-| 5 | Sindrom dengan malformasi Dandy-Walker | 99.94% | L5 | Malformasi struktur; tiada rasional |
-| 6 | Keabnormalan batang rambut genetik terpencil | 99.94% | L5 | Tiada kaitan diketahui |
-| 7 | Gangguan migrain | 99.93% | L4 | Kaitan farmakologi munasabah (lihat di bawah) |
-| 8 | Migrain dengan aura batang otak | 99.90% | L4 | Alkaloid ergot umumnya dielakkan kerana risiko iskemia |
-| 9 | Kusta | 99.84% | L5 | Tiada mekanisme antimikobakteria |
-| 10 | Hipertensi pulmonari | 99.83% | L4 | Hubungan bersifat kontraindikasi, bukan terapeutik |
+| 1 | Hipertrikosis | 0.9996 | L5 | Tiada kaitan mekanistik |
+| 2 | Hipertrikosis universalis kongenita jenis Ambras | 0.9995 | L5 | Gangguan genetik (TRPS1); tiada mekanisme munasabah |
+| 3 | Sindrom antidiuresis tidak wajar nefrogenik | 0.9994 | L5 | Disebabkan varian reseptor V2; tiada aktiviti ergometrin diketahui |
+| 4 | Sindrom malformasi dengan komponen odontal/periodontal | 0.9994 | L5 | Genetik; tiada rasional |
+| 5 | Sindrom dengan malformasi Dandy-Walker | 0.9994 | L5 | Malformasi struktur; tiada rasional |
+| 6 | Keabnormalan batang rambut genetik terpencil | 0.9994 | L5 | Tiada kaitan diketahui |
+| 7 | Gangguan migrain | 0.9993 | L4 | Kaitan farmakologi munasabah (lihat di bawah) |
+| 8 | Migrain dengan aura batang otak | 0.9990 | L5 | Alkaloid ergot umumnya dielakkan kerana risiko iskemia |
+| 9 | Kusta | 0.9984 | L5 | Tiada mekanisme antimikobakteria |
+| 10 | Hipertensi pulmonari | 0.9983 | L5 | Hubungan bersifat kontraindikasi, bukan terapeutik |
 
 **Migrain** ialah satu-satunya ramalan dengan kaitan farmakologi yang munasabah. Alkaloid ergot (ergotamin, dihidroergotamin, metisergid) bertindak pada reseptor 5-HT1B/1D dan serotonin lain serta mantap dalam terapi migrain. Ergometrin berkongsi rangka ergolin dan aktiviti serotonergik, tetapi kurang dikaji untuk migrain dan sifat vasokonstriktifnya menimbulkan kebimbangan keselamatan.
 
@@ -131,7 +131,7 @@ Untuk amaran dan kontraindikasi terperinci, sila rujuk sisipan pakej.
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan utama (hipertrikosis) hanya berasaskan skor model tanpa sebarang ujian, literatur atau mekanisme munasabah (L5). Ubat ini juga tidak dipasarkan di Malaysia dan data keselamatan label tidak tersedia.
+- Ramalan utama (hipertrikosis) hanya berasaskan skor model tanpa sebarang ujian, literatur atau mekanisme munasabah (L5).
 - Migrain (L4) ialah satu-satunya hala tuju yang layak dijadikan soalan penyelidikan, tetapi hanya dengan bukti tidak langsung dan kebimbangan keselamatan vaskular yang ketara.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

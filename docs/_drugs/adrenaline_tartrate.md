@@ -8,6 +8,7 @@ nav_order: 32
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Adrenaline Tartrate
@@ -51,8 +52,8 @@ Penilaian repositioning lengkap tidak boleh diselesaikan sehingga jurang-jurang 
 | Petunjuk Baru Diramal | Tidak tersedia |
 | Skor Ramalan TxGNN | Tidak tersedia |
 | Tahap Bukti | Tidak boleh dinilai |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 5 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | **Tahan** |
 
 ---

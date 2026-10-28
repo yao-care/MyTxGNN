@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 33
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Aflibercept: indikasi baharu diramal Esotropia (tahap bukti L5). Indikasi asal: Metastasis daripada tumor malignan kolon"
 monitor_inn: "AFLIBERCEPT"
 predicted_indications: ["esotropia"]
+last_modified_at: 2026-10-27
+description: "Aflibercept: indikasi baharu diramal Esotropia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Aflibercept
@@ -33,64 +33,65 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Aflibercept: Daripada Metastasis Kolon kepada Esotropia
+## Aflibercept: perencat VEGF (protein gabungan perangkap VEGF-A, VEGF-B dan PlGF) → Esotropia (esotropia)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Aflibercept ialah protein gabungan rekombinan yang memerangkap VEGF, dan pada asalnya digunakan untuk penyakit mata neovaskular (degenerasi makula, edema makula diabetik, oklusi arteri retina) serta metastasis kolon.
-Model TxGNN meramalkan ia mungkin berkesan untuk **esotropia**,
-tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model.
+Aflibercept ialah protein gabungan rekombinan yang memerangkap VEGF-A, VEGF-B dan faktor pertumbuhan plasenta (PlGF), dan digunakan melalui suntikan intravitreal dalam penyakit mata neovaskular.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Esotropia (esotropia)**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** dalam data yang dikumpulkan untuk laporan ini yang menyokong arah ini.
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Metastasis daripada tumor malignan kolon; degenerasi makula; oklusi arteri retina; edema makula diabetik (daripada graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Esotropia |
-| Skor Ramalan TxGNN | 99.38% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramal | Esotropia (esotropia) |
+| Skor Ramalan TxGNN | 0,9938 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | ✗ Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan asal tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, aflibercept ialah protein gabungan rekombinan yang memerangkap VEGF-A, VEGF-B dan faktor pertumbuhan plasenta (PlGF), dan digunakan secara intravitreal dalam penyakit mata neovaskular.
+Data mekanisme tindakan terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, aflibercept menyekat VEGF-A, VEGF-B dan PlGF, dan digunakan secara intravitreal dalam penyakit mata neovaskular.
 
-Skor ramalan yang tinggi (0.994) kemungkinan besar mencerminkan kedekatan rangkaian dengan indikasi oftalmik lain (degenerasi makula, edema makula diabetik, oklusi arteri retina). Namun, esotropia terutamanya ialah gangguan penjajaran mata yang disebabkan oleh faktor neuromuskular, refraktif atau akomodatif, bukan oleh angiogenesis patologi atau kebolehtelapan vaskular. Tiada laluan mekanistik langsung daripada perencatan VEGF kepada pembetulan esotropia.
+Skor ramalan yang tinggi (0,9938) berkemungkinan mencerminkan kedekatan dalam rangkaian model dengan penyakit mata lain yang berkaitan dengan aflibercept, seperti degenerasi makula, edema makula diabetik dan oklusi arteri retina. Namun, esotropia terutamanya gangguan penjajaran mata yang disebabkan oleh faktor neuromuskular, refraktif atau akomodatif, bukan oleh angiogenesis patologi atau kebolehtelapan vaskular yang berlebihan. Tiada laluan mekanisme langsung daripada perencatan VEGF kepada pembetulan esotropia yang jelas.
 
-Terdapat dua kaitan yang bersifat spekulatif sahaja:
-- Dalam retinopati pramatang yang dirawat dengan anti-VEGF, strabismus ialah sekuel yang diketahui; esotropia di sini merupakan hasil sekunder, bukan sasaran rawatan.
-- Penggunaan suntikan anti-VEGF ke dalam otot ekstraokular masih dalam siasatan dan belum terbukti untuk aflibercept.
+Terdapat dua kaitan yang bersifat spekulatif sahaja. Pertama, agen anti-VEGF digunakan dalam retinopati pramatang, yang mana strabismus ialah sekuela yang diketahui; dalam konteks itu, esotropia ialah hasil sekunder, bukan sasaran rawatan. Kedua, suntikan anti-VEGF ke dalam otot ekstraokular masih bersifat penyelidikan dan belum mantap untuk aflibercept.
 
-Oleh itu, kemunasabahan mekanistik ramalan ini adalah lemah.
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Berdasarkan data yang dikompilasi untuk laporan ini, aflibercept tidak mempunyai pendaftaran di Malaysia (0 lesen), maka tiada jadual pendaftaran dipaparkan.
+Aflibercept berstatus dipasarkan di Malaysia dengan 5 lesen sah dan tiada lesen dibatalkan. Butiran lesen individu tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 
-Amaran utama dan kontraindikasi tidak tersedia daripada data yang dikompilasi. Sila rujuk sisipan pembungkusan untuk maklumat keselamatan.
+- **Interaksi Ubat**: Sebanyak 78 interaksi ubat direkodkan. Interaksi tahap **Major** antaranya termasuk deferiprone, samarium (153Sm) lexidronam, adalimumab, baricitinib, certolizumab pegol, cladribine dan clozapine. Interaksi tahap **Moderate** termasuk strontium chloride Sr-89, roflumilast, chloramphenicol, zidovudine, alefacept, alemtuzumab, anakinra, azathioprine, canakinumab serta beberapa vaksin (toksoid tetanus, vaksin antraks, vaksin kolera hidup).
 
-**Interaksi Ubat**: Sejumlah 78 interaksi dikenal pasti. Antara yang dipaparkan dalam data:
-- **Major**: Deferiprone, Samarium (153Sm) lexidronam, Adalimumab, Baricitinib, Certolizumab pegol, Cladribine, Clozapine
-- **Moderate**: Strontium chloride Sr-89, Roflumilast, Chloramphenicol (termasuk bentuk oftalmik), Zidovudine, Alefacept, Alemtuzumab, Anakinra, Azathioprine, Canakinumab, serta beberapa vaksin (toksoid tetanus, vaksin anthrax, vaksin kolera hidup)
+Untuk maklumat amaran dan kontraindikasi, sila rujuk risalah pek (package insert).
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
-**Rasional:**
-Ramalan esotropia hanya disokong oleh skor model (Tahap Bukti L5), tanpa percubaan klinikal atau literatur, dan tiada hubungan mekanistik yang jelas antara perencatan VEGF dengan pembetulan penjajaran mata. Selain itu, aflibercept tidak dipasarkan di Malaysia dan data keselamatan sisipan pembungkusan belum tersedia.
+**Justifikasi:**
+Ramalan ini hanya disokong oleh skor model (0,9938) tanpa sebarang percubaan klinikal atau penerbitan yang mengkaji esotropia secara langsung, dan tiada laluan mekanisme yang jelas daripada perencatan VEGF kepada keadaan ini. Tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data amaran dan kontraindikasi daripada sisipan pembungkusan NPRA (jurang data yang menyekat saringan keselamatan)
-- Data mekanisme tindakan terperinci (contohnya melalui DrugBank)
-- Kajian praklinikal atau siasatan awal tentang kaitan anti-VEGF dengan esotropia/strabismus
-- Pengesahan laluan pentadbiran dan kesesuaian formulasi untuk indikasi baharu
-- Status pendaftaran di Malaysia sekiranya diteruskan
+- Amaran dan kontraindikasi daripada risalah pek NPRA (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci
+- Kajian praklinikal atau klinikal yang mengkaji perencatan VEGF dalam esotropia
+- Analisis kesesuaian laluan pentadbiran (suntikan intravitreal berbanding keperluan untuk esotropia)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

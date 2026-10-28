@@ -8,6 +8,7 @@ nav_order: 584
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Pitolisant Hydrochloride
@@ -49,8 +50,8 @@ Pitolisant Hydrochloride adalah antagonis reseptor histamin H3/antagonis songsan
 | Indikasi Baru yang Diramalkan | — (Tiada ramalan dikembalikan) |
 | Skor Ramalan TxGNN | — |
 | Tahap Bukti | L5 — Ramalan model sahaja (tiada keluaran dijana) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

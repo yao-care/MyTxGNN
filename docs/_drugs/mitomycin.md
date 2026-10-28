@@ -6,9 +6,9 @@ nav_order: 509
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Mitomycin: indikasi baharu diramal Karsinoma pseudopapilari pepejal pankreas (tahap bukti L5). Indikasi asal: Adenokarsinoma pankreas"
 monitor_inn: "mitomycin"
 predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteoclastic giant cell tumor of pancreas", "pancreatic carcinoma with mixed differentiation", "pancreatic intraductal papillary-mucinous carcinoma", "mixed ductal-endocrine carcinoma of pancreas", "pancreatic signet ring cell adenocarcinoma", "undifferentiated pancreatic carcinoma", "malignant exocrine pancreas neoplasm", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
+description: "Mitomycin: indikasi baharu diramal Solid pseudopapillary carcinoma of pancreas (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Mitomycin
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Mitomisin: Daripada Adenokarsinoma Pankreas kepada Karsinoma Pseudopapilari Pepejal Pankreas
+## Mitomycin: Solid pseudopapillary carcinoma of pancreas
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Adenokarsinoma pankreas |
-| Indikasi Baharu yang Diramalkan | Karsinoma pseudopapilari pepejal pankreas |
-| Skor Ramalan TxGNN | 99.86% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Solid pseudopapillary carcinoma of pancreas |
+| Skor Ramalan TxGNN | 0.9986 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -64,7 +64,7 @@ Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Berdas
 
 Walau bagaimanapun, terdapat beberapa had yang penting. Neoplasma pseudopapilari pepejal biasanya bersifat indolen dan dirawat melalui pembedahan. Mekanisme sitotoksik mitomisin juga tidak khusus kepada histologi ini. Tiada ujian atau kajian literatur yang menunjukkan manfaat kemoterapi untuk penyakit ini.
 
-Sembilan ramalan lain dalam senarai (cth. osteoklastik sel gergasi pankreas, karsinoma pankreas dengan pembezaan campuran, karsinoma papilari-musin intraduktal, karsinoma duktal-endokrin campuran, adenokarsinoma sel cincin meterai, karsinoma pankreas tidak berbeza, neoplasma eksokrin pankreas malignan, neoplasma papilari-musin intraduktal, sistadenokarsinoma sel asinar) mempunyai skor 99.82%–99.86% dan juga bertaraf **Hold**. Sebahagian besarnya bertindih dengan indikasi asal atau merupakan subjenis yang jarang ditemui.
+Sembilan ramalan lain dalam senarai (cth. osteoklastik sel gergasi pankreas, karsinoma pankreas dengan pembezaan campuran, karsinoma papilari-musin intraduktal, karsinoma duktal-endokrin campuran, adenokarsinoma sel cincin meterai, karsinoma pankreas tidak berbeza, neoplasma eksokrin pankreas malignan, neoplasma papilari-musin intraduktal, sistadenokarsinoma sel asinar) mempunyai skor 0.9982–0.9986 dan juga bertaraf **Hold**. Sebahagian besarnya bertindih dengan indikasi asal atau merupakan subjenis yang jarang ditemui.
 
 ---
 

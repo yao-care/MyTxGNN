@@ -8,6 +8,7 @@ nav_order: 66
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Amorolfine Hydrochloride
@@ -53,8 +54,8 @@ Tanpa petunjukan sasaran, penilaian bukti tidak boleh dilakukan pada peringkat i
 | Petunjukan Baru yang Diramalkan | Tiada dijana |
 | Skor Ramalan TxGNN | Tiada |
 | Tahap Bukti | Tiada |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | Tahan |
 
 ---

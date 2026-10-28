@@ -6,9 +6,9 @@ nav_order: 314
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Eculizumab: indikasi baharu diramal Cyclic hematopoiesis (hematopoiesis kitaran) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar di Malaysia dalam data yang dikumpulkan"
 monitor_inn: "Eculizumab"
 predicted_indications: ["cyclic hematopoiesis", "autosomal recessive severe congenital neutropenia due to JAGN1 deficiency", "X-linked severe congenital neutropenia", "congenital neutropenia-myelofibrosis-nephromegaly syndrome", "adult idiopathic neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "autosomal recessive severe congenital neutropenia due to CSF3R deficiency", "severe congenital neutropenia", "primary release disorder of platelets"]
+description: "Eculizumab: indikasi baharu diramal Cyclic hematopoiesis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Eculizumab
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Eculizumab: Daripada Indikasi Asal kepada Hematopoiesis Kitaran (Cyclic Hematopoiesis)
+## Eculizumab: Cyclic hematopoiesis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Eculizumab ialah perencat komplemen C5 (antibodi monoklonal). Data yang dikumpulkan untuk laporan ini tidak mengandungi indikasi asal yang didaftarkan di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **hematopoiesis kitaran (cyclic hematopoiesis)** dengan skor sangat tinggi, tetapi ramalan ini berasaskan graf rangkaian sahaja dan **tiada satu pun ujian klinikal atau penerbitan khusus penyakit** menyokongnya.
+Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **hematopoiesis kitaran (cyclic hematopoiesis)** dengan skor sangat tinggi. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. **Tiada satu pun ujian klinikal atau penerbitan khusus penyakit** menyokongnya.
 
 ---
 
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **hematopoiesis kitaran (cyclic
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar di Malaysia dalam data yang dikumpulkan |
-| Indikasi Baharu Diramal | Cyclic hematopoiesis (hematopoiesis kitaran) |
-| Skor Ramalan TxGNN | 99.97% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu Diramal | Cyclic hematopoiesis |
+| Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -61,9 +61,9 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **hematopoiesis kitaran (cyclic
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, eculizumab ialah perencat protein komplemen C5 yang menyekat pengaktifan laluan komplemen terminal. Ia digunakan secara klinikal dalam penyakit yang didorong komplemen seperti paroxysmal nocturnal haemoglobinuria (PNH), sindrom uremik hemolitik atipikal (aHUS) dan myasthenia gravis.
 
-Hematopoiesis kitaran (neutropenia kitaran, berkaitan ELANE) disebabkan oleh mutasi neutrophil elastase, bukan disregulasi komplemen. **Tiada kaitan mekanistik yang munasabah dikenal pasti.** Skor TxGNN yang tinggi (0.9997) merupakan ramalan berasaskan graf sahaja dan berkemungkinan didorong oleh kedekatan rangkaian dengan nod penyakit hematologi.
+Hematopoiesis kitaran (neutropenia kitaran, berkaitan ELANE) disebabkan oleh mutasi neutrophil elastase, bukan disregulasi komplemen. **Tiada kaitan mekanistik yang munasabah dikenal pasti.** Skor TxGNN yang tinggi (0.9997) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
-Ramalan lain dalam kedudukan teratas (pelbagai jenis neutropenia kongenital dan gangguan berkaitan) juga mempunyai skor hampir sama (99.94%–99.97%), tetapi semuanya tidak mempunyai hubungan mekanistik dengan perencatan C5, dan tiada bukti klinikal yang khusus.
+Ramalan lain dalam kedudukan teratas (pelbagai jenis neutropenia kongenital dan gangguan berkaitan) juga mempunyai skor hampir sama (0.9994–0.9997), tetapi semuanya tidak mempunyai hubungan mekanistik dengan perencatan C5, dan tiada bukti klinikal yang khusus.
 
 ---
 
@@ -105,7 +105,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan hanya berasaskan model (L5) tanpa ujian klinikal, tanpa literatur khusus penyakit dan tanpa kaitan mekanistik yang munasabah. Eculizumab juga tidak dipasarkan di Malaysia, dan risiko jangkitan menambah kebimbangan keselamatan pada pesakit neutropenia.
+- Ramalan hanya berasaskan model (L5) tanpa ujian klinikal, tanpa literatur khusus penyakit dan tanpa kaitan mekanistik yang munasabah.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menyekat saringan keselamatan)

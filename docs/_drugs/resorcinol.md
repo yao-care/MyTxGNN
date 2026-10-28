@@ -6,9 +6,9 @@ nav_order: 617
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
-description: "Resorcinol: indikasi baharu diramal Acne keloid (tahap bukti L5). Indikasi asal: Jerawat (acne), dermatitis…"
 monitor_inn: "RESORCINOL"
 predicted_indications: ["acne keloid", "amyopathic dermatomyositis", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial"]
+description: "Resorcinol: indikasi baharu diramal Acne keloid (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Resorcinol
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-## Resorcinol: Daripada Jerawat kepada Acne Keloid
+## Resorcinol: Acne keloid
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jerawat (acne), dermatitis, dermatitis akneiform (berdasarkan graf pengetahuan PrimeKG) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Acne keloid |
-| Skor Ramalan TxGNN | 99.83% |
+| Skor Ramalan TxGNN | 0.9983 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -86,13 +86,13 @@ Selain acne keloid, model turut meramalkan lima indikasi lain. Kesemuanya berada
 
 | Peringkat | Penyakit | Skor TxGNN | Penilaian Pautan Mekanisme |
 |------|------|------|------|
-| 2 | Dermatomiositis amiopatik | 99.82% | Tiada pautan mekanisme yang boleh dipercayai; penyakit autoimun dipacu interferon, tidak disasarkan oleh resorcinol |
-| 3 | Dermatomiositis neonatal | 99.82% | Tiada rasional mekanisme; penyerapan perkutan pada neonat boleh menyebabkan methemoglobinemia dan ketoksikan sistemik |
-| 4 | Penyakit paru interstisial sekunder zaman kanak-kanak berkaitan penyakit tisu penghubung | 99.82% | Tiada pautan munasabah; agen keratolitik topikal tidak dapat sampai ke paru-paru |
-| 5 | Acrodermatitis chronica atrophicans | 99.81% | Jangkitan Borrelia yang dirawat berkesan dengan antibiotik; resorcinol topikal tidak mencapai jangkitan dermal |
-| 6 | Hydroa vacciniforme, familial | 99.75% | Tiada mekanisme fotoperlindungan atau antivirus; ramalan hanya bersifat pengiraan |
+| 2 | Dermatomiositis amiopatik | 0.9982 | Tiada pautan mekanisme yang boleh dipercayai; penyakit autoimun dipacu interferon, tidak disasarkan oleh resorcinol |
+| 3 | Dermatomiositis neonatal | 0.9982 | Tiada rasional mekanisme; penyerapan perkutan pada neonat boleh menyebabkan methemoglobinemia dan ketoksikan sistemik |
+| 4 | Penyakit paru interstisial sekunder zaman kanak-kanak berkaitan penyakit tisu penghubung | 0.9982 | Tiada pautan munasabah; agen keratolitik topikal tidak dapat sampai ke paru-paru |
+| 5 | Acrodermatitis chronica atrophicans | 0.9981 | Jangkitan Borrelia yang dirawat berkesan dengan antibiotik; resorcinol topikal tidak mencapai jangkitan dermal |
+| 6 | Hydroa vacciniforme, familial | 0.9975 | Tiada mekanisme fotoperlindungan atau antivirus; ramalan hanya bersifat pengiraan |
 
-Skor yang tinggi bagi calon-calon ini berkemungkinan mencerminkan kedekatan dalam graf dengan nod berkaitan dermatitis, dan bukan mekanisme sebab-akibat.
+Skor yang tinggi bagi calon-calon ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
 ---
 
@@ -114,7 +114,7 @@ Maklumat interaksi ubat tidak ditemui. Sila rujuk sisipan pek produk untuk maklu
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan acne keloid hanya disokong oleh skor model yang tinggi (99.83%) dan indikasi jerawat sedia ada, tanpa sebarang percubaan klinikal atau literatur (L5). Resorcinol juga tidak dipasarkan di Malaysia, dan fibrosis jenis keloid tidak ditangani oleh kesan keratolitik.
+- Ramalan acne keloid hanya disokong oleh skor model yang tinggi (0.9983) dan indikasi jerawat sedia ada, tanpa sebarang percubaan klinikal atau literatur (L5).
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang saringan keselamatan peringkat seterusnya)

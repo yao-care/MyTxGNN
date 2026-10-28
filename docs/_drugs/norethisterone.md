@@ -6,9 +6,9 @@ nav_order: 533
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Norethisterone: indikasi baharu diramal Amenorea (tahap bukti L5). Indikasi asal: Endometriosis, kegagalan ovari primer, osteoporosis pascamenopaus…"
 monitor_inn: "NORETHISTERONE"
 predicted_indications: ["amenorrhea (disease)"]
+description: "Norethisterone: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Norethisterone
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Norethisterone: Daripada Akne dan Endometriosis kepada Amenorea
+## Norethisterone: Amenorea (amenorrhea (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Amenorea**, tetapi pada masa 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Endometriosis, kegagalan ovari primer, osteoporosis pascamenopaus, vaginitis atrofi pascamenopaus, akne (berdasarkan graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Amenorea |
-| Skor Ramalan TxGNN | 99.60% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Amenorea (amenorrhea (disease)) |
+| Skor Ramalan TxGNN | 0.9960 |
 | Tahap Bukti | L5 (ramalan model; tiada percubaan klinikal. Penerbitan sedia ada tidak menilai norethisterone sebagai rawatan amenorea) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -108,7 +108,7 @@ Sila rujuk sisipan pek untuk amaran utama dan kontraindikasi rasmi.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini munasabah secara biologi, tetapi bukti hanya berasaskan model (L5). Tiada percubaan klinikal, dan literatur sedia ada lebih menggambarkan amenorea sebagai kesan sampingan kontraseptif, bukan sasaran rawatan. Ubat ini juga tidak dipasarkan di Malaysia.
+- Ramalan ini munasabah secara biologi, tetapi bukti hanya berasaskan model (L5). Tiada percubaan klinikal, dan literatur sedia ada lebih menggambarkan amenorea sebagai kesan sampingan kontraseptif, bukan sasaran rawatan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci

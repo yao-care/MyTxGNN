@@ -6,9 +6,9 @@ nav_order: 65
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Amorolfine: indikasi baharu diramal Osteoporosis teraruh ubat (drug-induced osteoporosis) (tahap bukti L5). Indikasi asal: Jangkitan kulat kuku (onikomikosis)…"
 monitor_inn: "Amorolfine"
-predicted_indications: ["drug-induced osteoporosis", "disease of retroperitoneum", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "urethral disease"]
+predicted_indications: ["drug-induced osteoporosis", "disease of retroperitoneum", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "abdominal ectopic pregnancy", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "urethral disease"]
+description: "Amorolfine: indikasi baharu diramal Osteoporosis teraruh ubat (drug-induced osteoporosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Amorolfine
@@ -33,12 +33,12 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Amorolfine: Daripada Jangkitan Kulat Kuku kepada Osteoporosis Teraruh Ubat
+## Amorolfine: Osteoporosis teraruh ubat (drug-induced osteoporosis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Amorolfine ialah antikulat morfolin topikal yang digunakan untuk merawat jangkitan kulat kuku (onikomikosis). Model TxGNN meramalkan ia mungkin berkesan untuk **osteoporosis teraruh ubat**, tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini. Ramalan ini berasaskan graf pengetahuan sahaja.
+Amorolfine ialah antikulat morfolin topikal yang digunakan untuk merawat jangkitan kulat kuku (onikomikosis). Model TxGNN meramalkan ia mungkin berkesan untuk **osteoporosis aruhan ubat**, tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
 ---
 
@@ -46,12 +46,12 @@ Amorolfine ialah antikulat morfolin topikal yang digunakan untuk merawat jangkit
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan kulat kuku (onikomikosis), berdasarkan maklumat rujukan farmakologi; tiada teks indikasi diluluskan daripada pendaftaran tempatan |
-| Indikasi Baharu yang Diramalkan | Osteoporosis teraruh ubat (*drug-induced osteoporosis*) |
-| Skor Ramalan TxGNN | 99.998% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Osteoporosis teraruh ubat (drug-induced osteoporosis) |
+| Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -60,7 +60,7 @@ Amorolfine ialah antikulat morfolin topikal yang digunakan untuk merawat jangkit
 
 Amorolfine ialah antikulat morfolin yang merencat biosintesis ergosterol pada kulat melalui perencatan delta-14 reduktase dan delta-7,8 isomerase. Data mekanisme tindakan asal (MOA) tidak tersedia dalam data yang disusun untuk laporan ini.
 
-Tiada hubungan mekanistik yang dapat dikenal pasti antara perencatan sintesis sterol kulat dengan metabolisme tulang atau kehilangan tulang akibat glukokortikoid. Ramalan TxGNN bersifat berasaskan graf semata-mata, dan data yang ada tidak menyokong sebarang laluan yang munasabah. Kesamaan dengan indikasi asal juga belum dinilai.
+Tiada hubungan mekanistik yang dapat dikenal pasti antara perencatan sintesis sterol kulat dengan metabolisme tulang atau kehilangan tulang akibat glukokortikoid. Ramalan dan skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Data yang ada tidak menyokong sebarang laluan yang munasabah. Kesamaan dengan indikasi asal juga belum dinilai.
 
 Satu maklumat farmakologi yang ditemui ialah interaksi dengan sasaran Nav1.7 (gen SCN9A), tetapi ini tidak dikaitkan dengan osteoporosis dan tidak menjadi asas hubungan mekanistik.
 
@@ -80,7 +80,6 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Amorolfine pada masa ini **tidak dipasarkan** di Malaysia dan tiada lesen didaftarkan dalam data yang disusun.
 
 ---
 
@@ -98,15 +97,15 @@ Sembilan ramalan lain turut dijana. Kesemuanya berada pada tahap bukti L5, tanpa
 
 | Kedudukan | Penyakit yang Diramalkan | Skor TxGNN | Catatan |
 |------|------|------|------|
-| 2 | Penyakit retroperitoneum | 99.997% | Kategori anatomi luas; kemungkinan artifak topologi graf |
-| 3 | Penyakit ligamen lebar uterus | 99.997% | Kategori anatomi luas; tiada sasaran molekul berkaitan |
-| 4 | Stenosis spinal lumbar | 99.997% | Keadaan degeneratif mekanikal; tiada kaitan |
-| 5 | Kehamilan ektopik abdomen | 99.996% | Tiada kesan diketahui terhadap biologi trofoblas |
-| 6 | Limfangioma sista abdomen | 99.996% | Laluan (cth. PI3K/mTOR) tidak berkaitan dengan amorolfine |
-| 7 | Sindrom mampatan trunkus seliak | 99.996% | Sindrom vaskular, dirawat terutamanya melalui pembedahan |
-| 8 | Miofibroblastoma palisad nodus limfa | 99.996% | Tumor jinak yang jarang; dirawat dengan eksisi |
-| 9 | Kordoma sakrum | 99.996% | Modulasi sintesis sterol dalam onkologi hanya bersifat spekulatif |
-| 10 | Penyakit uretra | 99.996% | Kategori luas; relevan hanya jika ia jangkitan kulat, yang tidak dinyatakan |
+| 2 | Penyakit retroperitoneum | 1.0000 | Kategori anatomi luas; skor datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi |
+| 3 | Penyakit ligamen lebar uterus | 1.0000 | Kategori anatomi luas; tiada sasaran molekul berkaitan |
+| 4 | Stenosis spinal lumbar | 1.0000 | Keadaan degeneratif mekanikal; tiada kaitan |
+| 5 | Kehamilan ektopik abdomen | 1.0000 | Tiada kesan diketahui terhadap biologi trofoblas |
+| 6 | Limfangioma sista abdomen | 1.0000 | Laluan (cth. PI3K/mTOR) tidak berkaitan dengan amorolfine |
+| 7 | Sindrom mampatan trunkus seliak | 1.0000 | Sindrom vaskular, dirawat terutamanya melalui pembedahan |
+| 8 | Miofibroblastoma palisad nodus limfa | 1.0000 | Tumor jinak yang jarang; dirawat dengan eksisi |
+| 9 | Kordoma sakrum | 1.0000 | Modulasi sintesis sterol dalam onkologi hanya bersifat spekulatif |
+| 10 | Penyakit uretra | 1.0000 | Kategori luas; relevan hanya jika ia jangkitan kulat, yang tidak dinyatakan |
 
 ---
 
@@ -115,7 +114,6 @@ Sembilan ramalan lain turut dijana. Kesemuanya berada pada tahap bukti L5, tanpa
 **Keputusan: Hold (Tangguh)**
 
 **Justifikasi:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal, literatur atau hubungan mekanistik, dan ubat ini tidak dipasarkan di Malaysia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci daripada DrugBank

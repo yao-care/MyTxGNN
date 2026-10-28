@@ -6,9 +6,9 @@ nav_order: 528
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Nitrofurantoin: indikasi baharu diramal Artritis reumatoid (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar dalam data yang dikumpulkan (ubat ini l…"
 monitor_inn: "NITROFURANTOIN"
 predicted_indications: ["rheumatoid arthritis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "methemoglobinemia, alpha type", "gout", "methemoglobinemia"]
+description: "Nitrofurantoin: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Nitrofurantoin
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Nitrofurantoin: Daripada Jangkitan Saluran Kencing kepada Artritis Reumatoid
+## Nitrofurantoin: Artritis reumatoid (rheumatoid arthritis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **artritis reumatoid** dengan s
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar dalam data yang dikumpulkan (ubat ini lazimnya digunakan untuk jangkitan saluran kencing, berdasarkan pengetahuan am) |
-| Indikasi Baharu yang Diramalkan | Artritis reumatoid |
-| Skor Ramalan TxGNN | 99.89% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Artritis reumatoid (rheumatoid arthritis) |
+| Skor Ramalan TxGNN | 0.9989 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **artritis reumatoid** dengan s
 
 Data mekanisme tindakan (MOA) tidak tersedia pada masa ini. Tiada mekanisme terapeutik untuk artritis reumatoid dapat ditubuhkan berdasarkan data yang dikumpulkan.
 
-Literatur yang diperoleh menunjukkan nitrofurantoin sebagai punca kesan sampingan (fibrosis pulmonari, interaksi dengan metotreksat) pada pesakit RA, atau pendedahan antibiotik sebagai pencetus kambuhan RA. Laporan sedemikian menunjukkan kemudaratan, bukan manfaat. Skor TxGNN yang tinggi nampaknya mencerminkan perkaitan dalam graf pengetahuan, bukan kesan rawatan sebenar.
+Literatur yang diperoleh menunjukkan nitrofurantoin sebagai punca kesan sampingan (fibrosis pulmonari, interaksi dengan metotreksat) pada pesakit RA, atau pendedahan antibiotik sebagai pencetus kambuhan RA. Laporan sedemikian menunjukkan kemudaratan, bukan manfaat. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
 Ramalan lain dalam senarai (contohnya methemoglobinemia, kolangitis sklerosing, nefropati diabetik) juga tidak mempunyai asas terapeutik. Dalam beberapa kes, perkaitan itu lebih mungkin mewakili toksisiti yang diketahui (hemolisis, methemoglobinemia, kecederaan hati aruhan ubat).
 
@@ -92,7 +92,6 @@ Tiada satu pun daripada literatur ini menunjukkan manfaat nitrofurantoin untuk R
 
 ## Maklumat Pasaran Malaysia
 
-Menurut data yang dikumpulkan, nitrofurantoin **tidak dipasarkan** di Malaysia dan tiada pendaftaran NPRA (0 lesen).
 
 ---
 

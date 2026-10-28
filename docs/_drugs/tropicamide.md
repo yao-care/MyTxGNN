@@ -6,9 +6,9 @@ nav_order: 705
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Tropicamide: indikasi baharu diramal Sindrom cauda equina (tahap bukti L5). Indikasi asal: Sikloplegia"
 monitor_inn: "TROPICAMIDE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
+description: "Tropicamide: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Tropicamide
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-## Tropicamide: Daripada Sikloplegia kepada Sindrom Cauda Equina
+## Tropicamide: Sindrom cauda equina (cauda equina syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Tropicamide ialah antagonis muskarinik yang pada asalnya digunakan untuk sikloplegia (dan sebagai midriatik jangka pendek untuk pemeriksaan mata).
-Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom cauda equina**, dengan skor ramalan 99.53%,
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom cauda equina**, dengan skor ramalan 0.9953,
 tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini bersifat pengiraan (model) semata-mata.
 
 ---
@@ -48,12 +48,12 @@ tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Sikloplegia |
-| Indikasi Baharu yang Diramalkan | Sindrom cauda equina |
-| Skor Ramalan TxGNN | 99.53% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom cauda equina (cauda equina syndrome) |
+| Skor Ramalan TxGNN | 0.9953 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -68,8 +68,8 @@ Secara teori, tindakan antikolinergik boleh mengurangkan hiperaktiviti detrusor 
 
 | Peringkat | Penyakit | Skor TxGNN | Catatan |
 |------|------|------|------|
-| 2 | Pundi kencing neurogenik (istilah usang dalam ontologi) | 99.13% | Antimuskarinik ialah kelas mantap untuk hiperaktiviti detrusor neurogenik, tetapi tropicamide tiada pembangunan sistemik atau intravesikal. Istilah perlu dipetakan kepada istilah semasa (cth. disfungsi saluran kencing bawah neurogenik). |
-| 3 | Sindrom usus rengsa | 99.12% | Antispasmodik (cth. hyoscine, dicyclomine) digunakan untuk kekejangan perut, tetapi tropicamide tiada formulasi oral/sistemik dan tiada data. |
+| 2 | Pundi kencing neurogenik (istilah usang dalam ontologi) | 0.9913 | Antimuskarinik ialah kelas mantap untuk hiperaktiviti detrusor neurogenik, tetapi tropicamide tiada pembangunan sistemik atau intravesikal. Istilah perlu dipetakan kepada istilah semasa (cth. disfungsi saluran kencing bawah neurogenik). |
+| 3 | Sindrom usus rengsa | 0.9912 | Antispasmodik (cth. hyoscine, dicyclomine) digunakan untuk kekejangan perut, tetapi tropicamide tiada formulasi oral/sistemik dan tiada data. |
 
 ---
 
@@ -87,7 +87,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Tropicamide pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran (0 lesen) direkodkan.
 
 ---
 

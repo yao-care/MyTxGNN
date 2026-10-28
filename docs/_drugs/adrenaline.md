@@ -8,6 +8,7 @@ nav_order: 31
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Adrenaline
@@ -51,8 +52,8 @@ Laporan ini mendokumentasikan status kawal selia semasa di Malaysia dan menggari
 | Petunjuk Baru yang Diramalkan | Tiada ramalan tersedia |
 | Skor Ramalan TxGNN | — |
 | Tahap Bukti | L5 — Ramalan model belum dijalankan; tiada kajian sokongan dalam pakej |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 17 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 17 daripada 17) |
+| Bilangan Pendaftaran | 17 (sah: 17) |
 | Keputusan yang Disyorkan | **Tungguh** |
 
 ---

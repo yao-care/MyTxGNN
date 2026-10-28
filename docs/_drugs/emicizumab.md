@@ -6,9 +6,9 @@ nav_order: 320
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Emicizumab: indikasi baharu diramal Penyakit pseudo-von Willebrand (tahap bukti L5). Indikasi asal: Hemofilia (daripada graf pengetahuan TxGNN)"
 monitor_inn: "EMICIZUMAB"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "thrombotic thrombocytopenic purpura", "fetal and neonatal alloimmune thrombocytopenia", "flood factor deficiency"]
+description: "Emicizumab: indikasi baharu diramal Pseudo-von Willebrand disease (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Emicizumab
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Emicizumab: Daripada Hemofilia kepada Penyakit Pseudo-von Willebrand
+## Emicizumab: Pseudo-von Willebrand disease
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Emicizumab ialah antibodi bispesifik yang pada asalnya digunakan untuk merawat hemofilia, khususnya hemofilia A.
-Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit pseudo-von Willebrand** dengan skor tinggi (99.99%), tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit pseudo-von Willebrand** dengan skor tinggi (0.9999), tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model.
 
 ---
 
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit pseudo-von Willebran
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Hemofilia (daripada graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Penyakit pseudo-von Willebrand |
-| Skor Ramalan TxGNN | 99.99% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Pseudo-von Willebrand disease |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit pseudo-von Willebran
 
 Data mekanisme tindakan terperinci tidak terdapat dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, emicizumab menghubungkan faktor IXa (FIXa) dengan faktor X (FX) dan menggantikan fungsi kofaktor FVIIIa dalam kompleks tenase. Oleh sebab itu ia berkesan untuk hemofilia A, termasuk pesakit yang mempunyai perencat FVIII.
 
-Penyakit pseudo-von Willebrand ialah gangguan jenis platelet. Ia disebabkan oleh mutasi gain-of-function pada GPIbα, yang menyebabkan kehilangan multimer VWF berat molekul tinggi. Kecacatan ini terletak pada interaksi platelet-VWF, bukan pada kekurangan FVIII atau langkah tenase FIXa/FX. **Tiada kaitan mekanistik yang munasabah dapat dikenal pasti.** Skor tinggi ini berkemungkinan artifak graf, kerana kedua-dua penyakit berkongsi jiran gangguan pendarahan yang sama dalam graf pengetahuan.
+Penyakit pseudo-von Willebrand ialah gangguan jenis platelet. Ia disebabkan oleh mutasi gain-of-function pada GPIbα, yang menyebabkan kehilangan multimer VWF berat molekul tinggi. Kecacatan ini terletak pada interaksi platelet-VWF, bukan pada kekurangan FVIII atau langkah tenase FIXa/FX.
 
 ---
 
@@ -96,7 +96,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 **Rasional:**
 - Ramalan untuk penyakit pseudo-von Willebrand hanya berasaskan model (L5), tanpa ujian klinikal atau literatur, dan tiada kaitan mekanistik yang munasabah. Mekanisme emicizumab tidak menyasarkan kecacatan GPIbα-VWF.
 
-**Nota tambahan:** Antara sepuluh ramalan teratas, isyarat paling kukuh ialah untuk **kekurangan faktor pembekuan terakru** (terutamanya **hemofilia A terakru**, rank 5, skor 99.90%). Isyarat ini disokong oleh kajian prospektif fasa 2/3 satu lengan (AGEHA dan GTH-AHA-EMI), kajian kohort dan saranan konsensus. Tahap buktinya L2 dan syor awal ialah *Proceed with Guardrails*. Pengawasan wajar merangkumi:
+**Nota tambahan:** Antara sepuluh ramalan teratas, isyarat paling kukuh ialah untuk **kekurangan faktor pembekuan terakru** (terutamanya **hemofilia A terakru**, rank 5, skor 0.9990). Isyarat ini disokong oleh kajian prospektif fasa 2/3 satu lengan (AGEHA dan GTH-AHA-EMI), kajian kohort dan saranan konsensus. Tahap buktinya L2 dan syor awal ialah *Proceed with Guardrails*. Pengawasan wajar merangkumi:
 - risiko trombotik, terutamanya pada pesakit warga emas yang mempunyai komorbiditi;
 - berhati-hati dengan agen pintasan/aPCC;
 - ujian makmal berasaskan aPTT yang terjejas;

@@ -4,17 +4,17 @@ title: Fluticasone Furoate
 parent: Low Evidence (L4-L5)
 nav_order: 371
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Fluticasone Furoate: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Indikasi asal: Asma, asma intrinsik, asma alergik, rinitis alergik, rinitis vasomotor"
 monitor_inn: "FLUTICASONE FUROATE"
 predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis"]
+description: "Fluticasone Furoate: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Fluticasone Furoate
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **8** 
+Tahap bukti: **L5** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-## Fluticasone Furoate: Daripada Asma dan Rinitis Alergik kepada Ekzema Atopik
+## Fluticasone Furoate: Ekzema atopik (atopic eczema)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada percubaan klinikal berdaftar** dan hanya **2 penerb
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Asma, asma intrinsik, asma alergik, rinitis alergik, rinitis vasomotor |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Ekzema atopik (atopic eczema) |
-| Skor Ramalan TxGNN | 99.98% |
+| Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -64,7 +64,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang
 
 Kortikosteroid topikal ialah terapi piawai untuk ekzema atopik, jadi mekanisme anti-radang ini munasabah. Asma, rinitis alergik dan ekzema atopik juga sering wujud bersama sebagai penyakit atopik/alergik.
 
-Namun, dua penerbitan yang diperoleh (ulasan mengenai penindasan adrenal oleh kortikosteroid intranasal dan laporan kes imunoterapi alergen) tidak menguji fluticasone furoate dalam ekzema. Skor TxGNN yang sangat tinggi hanyalah ramalan model. Selain itu, ubat ini tidak dipasarkan di Malaysia, yang menghadkan kebolehlaksanaan pembangunan.
+Namun, dua penerbitan yang diperoleh (ulasan mengenai penindasan adrenal oleh kortikosteroid intranasal dan laporan kes imunoterapi alergen) tidak menguji fluticasone furoate dalam ekzema. Skor TxGNN yang sangat tinggi hanyalah ramalan model.
 
 ---
 
@@ -85,7 +85,6 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Fluticasone furoate tidak dipasarkan di Malaysia dan tiada lesen berdaftar.
 
 ---
 
@@ -109,14 +108,13 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang rasmi.
 **Keputusan: Hold**
 
 **Rasional:**
-- Bukti hanya pada tahap L5 (ramalan model sahaja), tiada percubaan klinikal dan tiada literatur yang menguji fluticasone furoate dalam ekzema atopik. Ubat ini juga tidak dipasarkan di Malaysia, dan data keselamatan label tidak lengkap.
+- Bukti hanya pada tahap L5 (ramalan model sahaja), tiada percubaan klinikal dan tiada literatur yang menguji fluticasone furoate dalam ekzema atopik.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) daripada DrugBank
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat saringan keselamatan)
 - Kajian literatur yang menguji fluticasone furoate secara langsung dalam ekzema/dermatitis atopik
 - Penilaian kesesuaian laluan pentadbiran dan formulasi (kini belum ditentukan)
-- Penilaian kebolehlaksanaan pendaftaran atau bekalan memandangkan ubat ini tidak dipasarkan di Malaysia
 
 ---
 
@@ -124,13 +122,12 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang rasmi.
 
 | Indikasi Diramalkan | Skor | Tahap Bukti | Catatan |
 |------|------|------|------|
-| Bronkitis | 99.89% | L3 | Literatur merangkumi RCT fluticasone furoate dalam asma (PMID 21977941), RCT terapi tiga serangkai dalam COPD (PMID 38729884; ubat khusus belum dipastikan) dan kajian ICS dosis tinggi dalam batuk kronik. Bukti lebih dekat dengan indikasi pernafasan sedia ada. Dicadangkan sebagai soalan penyelidikan. |
-| Sensitisasi 2-hydroxyethyl methacrylate | 99.87% | L5 | Tiada bukti; sensitisasi lebih bersifat pencegahan/pengelakan. |
-| Dermatitis atopik | 99.81% | L5 | Pendua entri ekzema atopik. |
-| Dermatitis kontak | 99.46% | L5 | Mekanisme munasabah, tiada bukti. |
-| Sifat berkaitan asma, kerentanan | 99.37% | L5 | Sifat kerentanan genetik, bertindih dengan indikasi asma; bukan peluang pengguna semula yang berasingan. |
-| Dermatitis pekerjaan | 99.33% | L5 | Mekanisme munasabah, tiada bukti. |
-| Dermatitis fototoksik | 99.12% | L5 | Pengurusan utama ialah mengelakkan pencetus; tiada bukti. |
+| Bronkitis | 0.9989 | L5 | Literatur merangkumi RCT fluticasone furoate dalam asma (PMID 21977941), RCT terapi tiga serangkai dalam COPD (PMID 38729884; ubat khusus belum dipastikan) dan kajian ICS dosis tinggi dalam batuk kronik. Bukti lebih dekat dengan indikasi pernafasan sedia ada. Dicadangkan sebagai soalan penyelidikan. |
+| Sensitisasi 2-hydroxyethyl methacrylate | 0.9987 | L5 | Tiada bukti; sensitisasi lebih bersifat pencegahan/pengelakan. |
+| Dermatitis atopik | 0.9981 | L5 | Pendua entri ekzema atopik. |
+| Dermatitis kontak | 0.9946 | L5 | Mekanisme munasabah, tiada bukti. |
+| Dermatitis pekerjaan | 0.9933 | L5 | Mekanisme munasabah, tiada bukti. |
+| Dermatitis fototoksik | 0.9912 | L5 | Pengurusan utama ialah mengelakkan pencetus; tiada bukti. |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

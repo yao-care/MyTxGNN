@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Danazol
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 252
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Danazol: indikasi baharu diramal Penyakit fibrosistik payudara (breast fibrocystic disease) (tahap bukti L2). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
 monitor_inn: "Danazol"
-predicted_indications: ["amenorrhea (disease)", "benign mammary dysplasia", "apocrine adenosis of breast", "blunt duct adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis"]
+predicted_indications: ["amenorrhea (disease)", "benign mammary dysplasia", "blunt duct adenosis of breast", "apocrine adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
+last_modified_at: 2026-10-27
+description: "Danazol: indikasi baharu diramal Amenorea (tahap bukti L3). Indikasi asal: Teks indikasi dalam rekod pendaftaran tempatan kosong…"
 ---
 
 # Danazol
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,111 +33,102 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-## Danazol: Daripada Indikasi Asal (Tiada Data) kepada Penyakit Fibrosistik Payudara
+## Danazol: Daripada Penggunaan Asal (Tidak Dinyatakan dalam Data Pendaftaran) kepada Amenorea
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Data yang disusun untuk laporan ini tidak mengandungi indikasi asal Danazol yang berdaftar di Malaysia. Danazol ialah steroid sintetik dengan aktiviti anti-gonadotropin.
-Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit fibrosistik payudara (breast fibrocystic disease)**,
-dengan **2 ujian klinikal** (kedua-duanya menguji formulasi topikal, bukan Danazol oral) dan **20 penerbitan** yang menyokong arah ini.
+Danazol ialah steroid sintetik dengan kesan antigonadotropin. Dalam kesusasteraan yang disusun, ia dikaitkan terutamanya dengan rawatan endometriosis dan penyakit payudara fibrosistik. Model TxGNN meramalkan ia mungkin berguna untuk **amenorea**, iaitu penindasan haid yang sengaja dicapai secara terapeutik. Setakat ini terdapat **0 ujian klinikal berdaftar** dan **20 penerbitan** yang disusun, termasuk satu kajian kohort retrospektif 2024 mengenai penindasan haid.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar di Malaysia |
-| Indikasi Baharu yang Diramalkan | Penyakit fibrosistik payudara (breast fibrocystic disease) |
-| Skor Ramalan TxGNN | 99.9996% |
-| Tahap Bukti | L2 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails |
+| Indikasi Asal | Teks indikasi dalam rekod pendaftaran tempatan kosong, jadi tidak dapat disahkan daripada data |
+| Indikasi Baharu yang Diramalkan | Amenorea |
+| Skor Ramalan TxGNN | 1.0000 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
+| Keputusan Disyorkan | Teruskan dengan Langkah Kawalan |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) daripada pangkalan data ubat tidak tersedia. Berdasarkan maklumat sedia ada, Danazol ialah androgen sintetik yang melemahkan aktiviti hormon (*impeded androgen*) dengan kesan anti-gonadotropin. Ia menyekat perembesan FSH/LH daripada pituitari dan steroidogenesis ovari, sekali gus mengurangkan rangsangan hormon kitaran pada tisu payudara.
+Data mekanisme tindakan terperinci tidak tersedia dalam data yang disusun untuk laporan ini. Walau bagaimanapun, kesusasteraan menerangkan danazol sebagai terbitan androgen sintetik dengan aktiviti antigonadotropin. Ia menekan lonjakan LH/FSH dari pituitari dan steroidogenesis ovari, lalu menyebabkan atrofi endometrium dan amenorea. Kesan farmakologi ini diketahui dengan baik, dan amenorea ialah sebahagian daripada mekanisme terapeutik danazol dalam endometriosis.
 
-Penyakit fibrosistik payudara dikaitkan dengan dominasi estrogen dan kekurangan progesteron, dengan gejala mastalgia (sakit payudara), kekenyalan dan nodulariti. Penyekatan paksi hipofisis-ovari oleh Danazol secara mekanistik munasabah untuk melegakan gejala ini. Kajian klinikal lama, termasuk projek Hjørring (1984), melaporkan manfaat gejala.
-
-Perlu diingat bahawa kedua-dua ujian klinikal Fasa 2 yang dikenal pasti menguji produk topikal (FP1198 dan Danazol topikal), jadi ia hanya menyokong indikasi ini secara tidak langsung berbanding Danazol oral. Kesan sampingan androgenik juga menghadkan penggunaan jangka panjang.
+Perlu diperhatikan bahawa amenorea di sini ialah **kesan terapeutik yang dikehendaki** (penindasan haid), bukan penyakit yang dibetulkan. Ramalan ini lebih sesuai ditafsirkan sebagai penggunaan danazol untuk menindas haid. Kajian kohort retrospektif pelbagai tapak pada 2024 melaporkan penggunaannya untuk tujuan ini dalam kalangan individu transgender dan bukan binari. Kesan sampingan androgenik yang boleh berbalik juga dibincangkan dalam kajian tersebut.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT01105793](https://clinicaltrials.gov/study/NCT01105793) | Fasa 2 | Selesai | 20 | Kajian label terbuka FP1198 topikal untuk menilai keselamatan dan aktiviti klinikal dalam mastalgia kitaran; kaitan formulasi dengan Danazol belum disahkan |
-| [NCT00744276](https://clinicaltrials.gov/study/NCT00744276) | Fasa 2 | Selesai | 60 | Kajian rawak, buta dua, terkawal plasebo, julat dos Danazol topikal berbanding plasebo untuk sakit berkaitan penyakit fibrosistik payudara |
+Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
-## Bukti Literatur
+## Bukti Kesusasteraan
+
+Kebanyakan penerbitan membincangkan danazol dalam endometriosis, dan amenorea muncul sebagai hasil rawatan. Hanya satu kajian (2024) menumpukan secara langsung pada penindasan haid.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [3074777](https://pubmed.ncbi.nlm.nih.gov/3074777/) | 1988 | Percubaan rawak buta dua | Aust N Z J Obstet Gynaecol | Danazol 200 mg dua kali sehari pada 80 wanita: peningkatan ketara dalam sakit, kelembutan dan nodulariti payudara |
-| [6373293](https://pubmed.ncbi.nlm.nih.gov/6373293/) | 1984 | Kajian silang buta dua (vs plasebo) | Eur J Gynaecol Oncol | Danazol 400 mg/hari selama 3 bulan; 32 daripada 38 pesakit bertambah baik |
-| [6594009](https://pubmed.ncbi.nlm.nih.gov/6594009/) | 1984 | Kohort | Acta Obstet Gynecol Scand Suppl | Rawatan dan susulan jangka panjang (projek Hjørring) pada penyakit fibrosistik payudara yang sangat bergejala |
-| [7386553](https://pubmed.ncbi.nlm.nih.gov/7386553/) | 1980 | Kajian klinikal | Am J Obstet Gynecol | Dos 100–400 mg/hari selama 3–6 bulan; nodulariti hilang pada kira-kira dua pertiga pesakit |
-| [7409245](https://pubmed.ncbi.nlm.nih.gov/7409245/) | 1980 | Kajian klinikal | Fertil Steril | Danazol 100–400 mg/hari didapati lebih konsisten berkesan berbanding terapi hormon lain |
-| [391113](https://pubmed.ncbi.nlm.nih.gov/391113/) | 1979 | Percubaan klinikal | Am Surg | 30 pesakit; kelegaan separa atau lengkap sakit, kelembutan dan nodulariti; kesan sampingan umumnya ringan |
-| [395520](https://pubmed.ncbi.nlm.nih.gov/395520/) | 1979 | Kajian klinikal | Postgrad Med J | Aspek penyakit fibrosistik payudara dan rawatan dengan Danazol |
-| [16444894](https://pubmed.ncbi.nlm.nih.gov/16444894/) | 2005 | Ulasan | J Reprod Med | Ulasan pengurusan mastalgia |
-| [3511705](https://pubmed.ncbi.nlm.nih.gov/3511705/) | 1986 | Ulasan | Am J Obstet Gynecol | Patofisiologi, klinikal dan pengurusan penyakit fibrosistik payudara |
-| [28649033](https://pubmed.ncbi.nlm.nih.gov/28649033/) | 2017 | Praklinikal/in vitro | Breast | Danazol mengubah metabolisme mitokondria sel Mcf10A fibrosistik; cadangan mekanisme tindakan |
+| [39051650](https://pubmed.ncbi.nlm.nih.gov/39051650/) | 2024 | Kohort retrospektif | Women's Health | Danazol digunakan untuk penindasan haid dalam kalangan individu transgender dan bukan binari kerana boleh mendorong amenorea, dengan kesan sampingan androgenik yang boleh berbalik |
+| [2523321](https://pubmed.ncbi.nlm.nih.gov/2523321/) | 1989 | Kajian perbandingan rawak | Fertility and Sterility | 39 pesakit endometriosis yang tidak subur menerima gestrinon atau danazol 600 mg/hari selama 6 bulan, dengan amenorea sebagai petunjuk tindak balas |
+| [2140996](https://pubmed.ncbi.nlm.nih.gov/2140996/) | 1990 | Kajian rawak double-blind | Fertility and Sterility | Nafarelin dan danazol 600 mg/hari kedua-duanya mengurangkan penyakit endometriosis aktif dengan ketara dalam 82 pesakit |
+| [6210867](https://pubmed.ncbi.nlm.nih.gov/6210867/) | 1982 | Kajian double-blind | Obstetrics and Gynecology | Danazol 100–600 mg/hari selama 6 bulan dalam 27 wanita; tahap peningkatan klinikal berbeza mengikut dos |
+| [2404115](https://pubmed.ncbi.nlm.nih.gov/2404115/) | 1990 | Ulasan | J Reprod Med | Danazol menghalang gonadotropin dan menindas steroidogenesis gonad serta adrenal, selain mempunyai kesan imunoregulatori |
+| [36434439](https://pubmed.ncbi.nlm.nih.gov/36434439/) | 2023 | Ulasan sistematik dan meta-analisis | Arch Gynecol Obstet | Menilai gestrinon (agen antiestrogen yang mendorong atrofi endometrium dan/atau amenorea) dalam endometriosis; ia bukan kajian mengenai danazol |
+| [16280355](https://pubmed.ncbi.nlm.nih.gov/16280355/) | 2006 | Ulasan | Hum Reprod Update | Lesi endometriosis menjadi tidak aktif dan mengecil semasa amenorea atau menopaus |
+| [21701432](https://pubmed.ncbi.nlm.nih.gov/21701432/) | 2011 | Ulasan | Menopause | Ulasan terapi farmakologi untuk pendarahan uterus tidak normal |
+| [1533675](https://pubmed.ncbi.nlm.nih.gov/1533675/) | 1992 | Ulasan | J R Army Med Corps | Ulasan kaedah mendorong amenorea, termasuk pil perancang berterusan dan analog GnRH |
+| [6819580](https://pubmed.ncbi.nlm.nih.gov/6819580/) | 1982 | Ulasan | Prog Clin Biol Res | Danazol menindas fungsi ovari dalam rawatan endometriosis dan ketidaksuburan |
 
 ---
 
-## Penilaian Indikasi Lain yang Diramalkan
+## Maklumat Pasaran di Malaysia
 
-| Indikasi | Skor TxGNN | Tahap Bukti | Keputusan | Catatan |
-|------|------|------|------|------|
-| Displasia mamari jinak | 99.999% | L3 | Research Question | Spektrum penyakit sama; bukti daripada kajian lama bukan rawak |
-| Adenosis payudara | 99.996% | L3 | Research Question | Laporan Danazol dos rendah (1989), kajian kecil dan lama |
-| Amenorea | 99.9995% | L3 | Research Question | Mencerminkan kesan farmakologi (penyekatan haid), bukan sasaran rawatan penyakit |
-| Adenosis apokrin payudara | 99.9987% | L4 | Hold | Bukti tidak langsung sahaja |
-| Abses payudara | 99.997% | L4 | Hold | Hanya laporan kes/surat (1986) |
-| Penyakit laktasi | 99.996% | L4 | Hold | Danazol umumnya dielakkan semasa mengandung dan menyusu; bukan indikasi terapeutik yang kredibel |
-| Adenosis duktus tumpul payudara | 99.9987% | L5 | Hold | Tiada bukti ujian atau literatur |
-| Nekrosis lemak payudara | 99.997% | L5 | Hold | Tiada bukti dan tiada mekanisme hormon yang jelas |
-| Vulvovaginitis | 99.96% | L5 | Hold | Hanya kajian in vitro tikus yang tidak berkaitan dengan Danazol |
+Teks indikasi yang diluluskan dan bentuk dos tidak dinyatakan dalam rekod pendaftaran yang disusun. Ketiga-tiga pendaftaran ialah produk ramuan tunggal yang sah.
+
+| Nombor Kebenaran | Nama Produk | Pengilang | Status |
+|---------|------|------|------|
+| MAL20033461AEZ | NAZOL CAPSULE 200MG | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL19871961AZ | ANARGIL CAPSULE 200MG | KOMEDIC SDN BHD | Sah |
+| MAL19890682AZ | ANARGIL CAPSULES 100MG | KOMEDIC SDN BHD | Sah |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat**: Pangkalan data interaksi mengesan 100 interaksi yang berpotensi. Yang utama ialah:
-- **Major**: Cisapride
-- **Moderate**:
-  - Antidiabetik: Acarbose, Albiglutide, Alogliptin, Canagliflozin, Dapagliflozin, Dulaglutide, Empagliflozin, Ertugliflozin, Exenatide, Glimepiride, Glipizide, Glyburide, Chlorpropamide, Acetohexamide, insulin manusia dan insulin aspart
-  - Lain-lain: Budesonide (termasuk nasal), Eliglustat
+- **Interaksi Ubat**: Sebanyak 100 interaksi dikenal pasti, dan 20 yang pertama disenaraikan dalam data.
+  - **Utama (Major)**: Cisapride.
+  - **Sederhana (Moderate)**: Ubat antidiabetes, iaitu acarbose, albiglutide, alogliptin, canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, dulaglutide, exenatide, glimepiride, glipizide, glyburide, chlorpropamide, acetohexamide dan insulin (manusia dan aspart). Selain itu, budesonide (termasuk nasal) dan eliglustat.
+- **Maklumat daripada kesusasteraan**:
+  - Satu laporan menunjukkan paras karbamazepin serum meningkat hampir dua kali ganda dengan danazol.
+  - Satu laporan kes mencatatkan rhabdomyolysis dan pankreatitis apabila danazol 600 mg/hari digunakan bersama lovastatin 40 mg/hari.
+  - Kesan sampingan androgenik (contohnya perubahan suara dan rambut) dibincangkan dalam kajian kohort 2024.
 
-Laporan dalam literatur juga merekodkan interaksi klinikal penting: peningkatan kira-kira dua kali ganda paras serum karbamazepin ([PMID 3107168](https://pubmed.ncbi.nlm.nih.gov/3107168/)) serta rhabdomiolisis dan pankreatitis apabila diberikan bersama lovastatin ([PMID 18691993](https://pubmed.ncbi.nlm.nih.gov/18691993/)).
-
-Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pembungkusan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Teruskan dengan Langkah Kawalan**
 
-**Rasional:**
-- Bukti klinikal historikal (termasuk percubaan rawak buta dua pada 1984 dan 1988) menyokong manfaat Danazol dalam penyakit fibrosistik payudara dengan mekanisme anti-gonadotropin yang munasabah. Namun, ujian berdaftar hanya menguji formulasi topikal, kajian lama dan kecil, serta Danazol tidak berdaftar di Malaysia. Indikasi lain yang diramalkan (L3–L5) tidak mencukupi untuk diteruskan dan kebanyakannya perlu ditahan (Hold).
+**Justifikasi:**
+- Mekanisme antigonadotropin danazol difahami dengan baik, dan kajian kohort 2024 menyokong penggunaannya untuk penindasan haid. Namun tiada ujian klinikal berdaftar, dan kebanyakan bukti lain ialah kajian lama atau tidak langsung.
+- Amenorea ialah kesan terapeutik yang dikehendaki, bukan penyakit, jadi ramalan ini perlu ditafsirkan sebagai penggunaan untuk penindasan haid.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Risalah maklumat produk daripada NPRA (amaran dan kontraindikasi) untuk penyaringan keselamatan, memandangkan data ini masih kosong dan menghalang kemajuan
-- Data mekanisme tindakan terperinci (MOA)
-- Pengesahan kaitan FP1198 dengan Danazol dan penilaian relevan formulasi topikal berbanding oral
-- Kajian terkini berkualiti tinggi untuk Danazol oral dalam penyakit fibrosistik payudara
-- Pelan pemantauan keselamatan, terutamanya kesan sampingan androgenik dan interaksi ubat (antidiabetik, karbamazepin, statin, cisapride)
-- Penjelasan status pendaftaran dan laluan kawal selia di Malaysia memandangkan tiada pendaftaran sedia ada
+- Memuat turun dan menyemak sisipan pembungkusan NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat saringan keselamatan).
+- Mengesahkan indikasi yang diluluskan bagi ketiga-tiga pendaftaran tempatan, yang kini kosong dalam data.
+- Data mekanisme tindakan terperinci (contohnya daripada DrugBank).
+- Pelan pemantauan keselamatan untuk kesan sampingan androgenik, pengehadan dos dan interaksi ubat (terutamanya cisapride, ubat antidiabetes, karbamazepin dan statin).
+- Bukti yang lebih terkini dan berkualiti lebih tinggi, termasuk ujian berdaftar, untuk penindasan haid.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

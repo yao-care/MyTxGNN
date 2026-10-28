@@ -6,9 +6,9 @@ nav_order: 657
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Soybean Oil: indikasi baharu diramal Amenorea (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "SOYBEAN OIL"
 predicted_indications: ["amenorrhea (disease)"]
+description: "Soybean Oil: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Soybean Oil
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Minyak Kacang Soya: Daripada Tiada Indikasi Berdaftar kepada Amenorea
+## Soybean Oil: Amenorea (amenorrhea (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **amenorea**, tetapi buat masa 
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
-| Indikasi Baharu yang Diramalkan | Amenorea |
-| Skor Ramalan TxGNN | 99.61% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Amenorea (amenorrhea (disease)) |
+| Skor Ramalan TxGNN | 0.9961 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -63,13 +63,12 @@ Data mekanisme tindakan (MOA) bagi minyak kacang soya belum tersedia. Tiada indi
 
 Satu hipotesis yang munasabah, tetapi **tidak disokong oleh data di sini**, ialah minyak kacang soya merupakan sumber asid lemak politaktepu dan fitosterol yang mungkin mempengaruhi metabolisme lipid atau isyarat hormon. Namun, amenorea mempunyai banyak punca (hipotalamus, pituitari, ovari, uterus dan lain-lain), dan sumber lipid pemakanan tidak mungkin merawat kebanyakannya.
 
-Skor yang sangat tinggi (0.996) juga mungkin mencerminkan penggunaan minyak ini sebagai komponen lipid pemakanan atau parenteral. Ini merupakan perkaitan, bukan mekanisme terapeutik.
+Skor yang sangat tinggi (0.9961) juga mungkin mencerminkan penggunaan minyak ini sebagai komponen lipid pemakanan atau parenteral. Ini merupakan perkaitan, bukan mekanisme terapeutik.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Minyak kacang soya buat masa ini tidak dipasarkan di Malaysia, dan tiada lesen berdaftar ditemui dalam data NPRA yang dikumpulkan.
 
 ---
 
@@ -84,7 +83,7 @@ Tiada interaksi ubat dijumpai dalam data yang dikumpulkan. Untuk maklumat amaran
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur sokongan, tanpa data MOA, tanpa indikasi asal, dan tanpa produk berdaftar di Malaysia. Tiada asas mekanistik yang dapat disahkan untuk menyokong kegunaan dalam amenorea.
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur sokongan, tanpa data MOA, tanpa indikasi asal, dan tanpa produk berdaftar di Malaysia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Risalah bungkusan NPRA (amaran dan kontraindikasi) bagi menjalankan saringan keselamatan

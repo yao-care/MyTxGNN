@@ -7,11 +7,12 @@ drugbank_id: "DB00515"
 drug_name: "Cisplatin"
 kg_predictions: 42
 dl_predictions: 115
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/cisplatin/
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Cisplatin
@@ -37,7 +38,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **42** ramalan graf pengetahuan dan **115** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **42** ramalan model TxGNN (pembelajaran mendalam) dan **115** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

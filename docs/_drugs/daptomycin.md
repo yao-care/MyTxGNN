@@ -3,18 +3,18 @@ layout: default
 title: Daptomycin
 parent: Low Evidence (L4-L5)
 nav_order: 254
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Daptomycin: indikasi baharu diramal Osteoartritis (tahap bukti L4). Indikasi asal: Tiada data indikasi diluluskan dalam data yang dikompil (tiada lesen…"
 monitor_inn: "Daptomycin"
-predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
+predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
+description: "Daptomycin: indikasi baharu diramal Osteoartritis (osteoarthritis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Daptomycin
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Daptomycin: Daripada Penggunaan Anti-Jangkitan kepada Osteoartritis (Ramalan Model)
+## Daptomycin: Osteoartritis (osteoarthritis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Daptomycin ialah antibiotik lipopeptida kitaran yang digunakan untuk jangkitan bakteria Gram-positif, seperti jangkitan kulit, bakteremia dan endokarditis sebelah kanan. Model TxGNN meramalkan ia mungkin berkesan untuk **osteoartritis**, tetapi **tiada percubaan klinikal** didaftarkan dan kesusasteraan yang diperoleh kebanyakannya berkaitan **jangkitan tulang dan sendi**, bukan kesan terhadap osteoartritis degeneratif. Ramalan ini nampaknya merupakan artifak kedekatan graf pengetahuan.
+Daptomycin ialah antibiotik lipopeptida kitaran yang digunakan untuk jangkitan bakteria Gram-positif, seperti jangkitan kulit, bakteremia dan endokarditis sebelah kanan. Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **osteoartritis**, tetapi **tiada percubaan klinikal** didaftarkan dan kesusasteraan yang diperoleh kebanyakannya berkaitan **jangkitan tulang dan sendi**, bukan kesan terhadap osteoartritis degeneratif. Skor ramalan ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi.
 
 ---
 
@@ -46,12 +46,12 @@ Daptomycin ialah antibiotik lipopeptida kitaran yang digunakan untuk jangkitan b
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi diluluskan dalam data yang dikompil (tiada lesen NPRA) |
-| Indikasi Baharu yang Diramal | Osteoartritis |
-| Skor Ramalan TxGNN | 99.86% |
-| Tahap Bukti | L4 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramal | Osteoartritis (osteoarthritis) |
+| Skor Ramalan TxGNN | 0.9986 |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -60,10 +60,10 @@ Daptomycin ialah antibiotik lipopeptida kitaran yang digunakan untuk jangkitan b
 
 Data mekanisme tindakan terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, daptomycin ialah lipopeptida kitaran yang bertindak ke atas membran sel bakteria Gram-positif. Keberkesanannya dalam jangkitan bakteria telah terbukti, tetapi tiada mekanisme yang boleh dipercayai menghubungkannya dengan rawatan osteoartritis degeneratif.
 
-Kesusasteraan yang diperoleh merujuk kepada penggunaan daptomycin untuk jangkitan tulang, sendi dan sendi prostetik yang disebabkan oleh bakteria Gram-positif (contohnya *Staphylococcus*). Ini ialah kegunaan anti-jangkitan, bukan kesan anti-osteoartritik. Skor TxGNN yang tinggi berkemungkinan mencerminkan kedekatan dalam graf pengetahuan dengan istilah berkaitan sendi, bukan kesan terapeutik sebenar.
+Kesusasteraan yang diperoleh merujuk kepada penggunaan daptomycin untuk jangkitan tulang, sendi dan sendi prostetik yang disebabkan oleh bakteria Gram-positif (contohnya *Staphylococcus*). Ini ialah kegunaan anti-jangkitan, bukan kesan anti-osteoartritik. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi atau kesan terapeutik sebenar.
 
 **Ramalan lain yang perlu diberi perhatian:**
-- **Artritis reumatoid** (skor 99.84%): satu kajian praklinikal 2025 (PMID 39571268) melaporkan daptomycin mengurangkan artritis teraruh kolagen pada tikus melalui penindasan sitokin keradangan dan laluan NF-κB. Kajian lipopeptida kitaran berkaitan (PMID 40923559) menyokong hipotesis anti-radang. Bukti ini tidak langsung, berasaskan model haiwan, tanpa data manusia, dan lebih wajar dianggap sebagai **soalan penyelidikan**.
+- **Artritis reumatoid** (skor 0.9984): satu kajian praklinikal 2025 (PMID 39571268) melaporkan daptomycin mengurangkan artritis teraruh kolagen pada tikus melalui penindasan sitokin keradangan dan laluan NF-κB. Kajian lipopeptida kitaran berkaitan (PMID 40923559) menyokong hipotesis anti-radang. Bukti ini tidak langsung, berasaskan model haiwan, tanpa data manusia, dan lebih wajar dianggap sebagai **soalan penyelidikan**.
 - **Gout**: satu-satunya laporan ialah kes rabdomiolisis akibat daptomycin yang dikomplikasi artritis gout akut, iaitu kejadian buruk, bukan kesan terapeutik.
 - **Kerentanan osteoartritis, pseudoakondroplasia dan sindrom displasia/malformasi genetik lain**: ramalan semata-mata tanpa bukti klinikal atau kesusasteraan, dan tiada kaitan mekanisme yang munasabah.
 
@@ -112,7 +112,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah pakej.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan osteoartritis tidak disokong oleh mekanisme atau bukti klinikal; kesusasteraan hanya berkaitan jangkitan tulang dan sendi. Tahap bukti ialah L4 tanpa sebarang percubaan klinikal. Daptomycin juga tidak dipasarkan di Malaysia.
+- Ramalan osteoartritis tidak disokong oleh mekanisme atau bukti klinikal; kesusasteraan hanya berkaitan jangkitan tulang dan sendi. Tahap bukti ialah L4 tanpa sebarang percubaan klinikal.
 - Artritis reumatoid hanya wajar dianggap soalan penyelidikan praklinikal.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

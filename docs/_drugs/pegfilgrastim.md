@@ -6,9 +6,9 @@ nav_order: 560
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Pegfilgrastim: indikasi baharu diramal Retinopati diabetik bukan proliferatif teruk (severe nonproliferative… (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "PEGFILGRASTIM"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
+description: "Pegfilgrastim: indikasi baharu diramal Retinopati diabetik bukan proliferatif teruk (severe nonproliferative diabetic retinopathy) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempata"
 ---
 
 # Pegfilgrastim
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Pegfilgrastim: Daripada Penggunaan Asal kepada Retinopati Diabetik Bukan Proliferatif Teruk
+## Pegfilgrastim: Retinopati diabetik bukan proliferatif teruk (severe nonproliferative diabetic retinopathy)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,15 +47,15 @@ Model TxGNN meramalkan ubat ini mungkin berkesan untuk **retinopati diabetik buk
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Retinopati diabetik bukan proliferatif teruk (severe nonproliferative diabetic retinopathy) |
-| Skor Ramalan TxGNN | 99.89% |
+| Skor Ramalan TxGNN | 0.9989 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
-Ramalan kedua ialah **retinopati diabetik** (kategori induk), dengan skor 99.73%, juga pada tahap bukti L5. Ramalan ini sebahagian besarnya bertindih dengan ramalan pertama dan kemungkinan besar mencerminkan isyarat graf yang sama, bukan bukti bebas.
+Ramalan kedua ialah **retinopati diabetik** (kategori induk), dengan skor 0.9973, juga pada tahap bukti L5. Ramalan ini sebahagian besarnya bertindih dengan ramalan pertama dan skor ini datang daripada model TxGNN (pembelajaran mendalam); ia mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
 ---
 
@@ -100,7 +100,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 **Keputusan: Hold (Tangguh)**
 
 **Justifikasi:**
-- Ramalan ini hanya disokong oleh skor model (L5) tanpa sebarang ujian klinikal atau literatur. Arah kesan biologi (pembaikan vaskular berbanding neovaskularisasi patologi) juga tidak jelas, dan ubat ini tidak dipasarkan di Malaysia.
+- Ramalan ini hanya disokong oleh skor model (L5) tanpa sebarang ujian klinikal atau literatur.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan, kerana jurang ini menghalang kemajuan ke peringkat seterusnya

@@ -8,6 +8,7 @@ nav_order: 286
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Diclofenac Sodium
@@ -49,8 +50,8 @@ Diclofenac natrium adalah ubat anti-inflamasi bukan steroid (NSAID) yang digunak
 | Indikasi Baru yang Diramal | — Tiada (ramalan TxGNN belum tersedia) |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 — Tiada ramalan atau kajian sokongan tersedia |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 68 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 68 daripada 68) |
+| Bilangan Pendaftaran | 68 (sah: 68) |
 | Keputusan Disyorkan | **Tahan** |
 
 ---

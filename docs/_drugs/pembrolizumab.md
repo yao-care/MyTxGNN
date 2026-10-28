@@ -4,17 +4,17 @@ title: Pembrolizumab
 parent: Low Evidence (L4-L5)
 nav_order: 561
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Pembrolizumab: indikasi baharu diramal Fibromatosis gingiva (fibromatosis, gingival) (tahap bukti L5). Indikasi asal: Kanser paru-paru bukan sel kecil, kanser paru-paru…"
 monitor_inn: "PEMBROLIZUMAB"
-predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "lung germ cell tumor", "pulmonary sulcus neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
+predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "pulmonary sulcus neoplasm", "lung germ cell tumor", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
+description: "Pembrolizumab: indikasi baharu diramal Fibromatosis gingiva (fibromatosis, gingival) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Pembrolizumab
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Pembrolizumab: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Fibromatosis Gingiva
+## Pembrolizumab: Fibromatosis gingiva (fibromatosis, gingival)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ Pembrolizumab ialah antibodi monoklonal yang menyekat PD-1, pada asalnya digunak
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Kanser paru-paru bukan sel kecil, kanser paru-paru, melanoma metastatik |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Fibromatosis gingiva (fibromatosis, gingival) |
-| Skor Ramalan TxGNN | 99.40% |
+| Skor Ramalan TxGNN | 0.9940 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -60,7 +60,7 @@ Pembrolizumab ialah antibodi monoklonal yang menyekat PD-1, pada asalnya digunak
 
 Data terperinci tentang mekanisme tindakan (MOA) belum tersedia dalam data yang disusun untuk laporan ini. Berdasarkan maklumat sedia ada, pembrolizumab menyasar reseptor PD-1 (PDCD1/CD279) pada sel T dan menghalang isyarat negatif yang membolehkan sel tumor mengelak daripada sistem imun. Keberkesanannya dalam NSCLC dan melanoma telah dibuktikan.
 
-Walau bagaimanapun, fibromatosis gingiva ialah keadaan pertumbuhan berlebihan gusi yang jinak, sama ada keturunan atau disebabkan ubat. Tiada hubungan mekanistik yang jelas antara sekatan PD-1 dengan keadaan ini, dan tiada data yang disediakan menyokong rasional tersebut. Skor yang tinggi kemungkinan besar mencerminkan corak dalam graf pengetahuan, bukan asas terapeutik yang sebenar.
+Walau bagaimanapun, fibromatosis gingiva ialah keadaan pertumbuhan berlebihan gusi yang jinak, sama ada keturunan atau disebabkan ubat. Tiada hubungan mekanistik yang jelas antara sekatan PD-1 dengan keadaan ini, dan tiada data yang disediakan menyokong rasional tersebut. Skor yang tinggi datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi.
 
 ---
 
@@ -78,7 +78,6 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-Pembrolizumab pada masa ini tidak mempunyai pendaftaran dalam data NPRA yang disusun (0 pendaftaran; status: tidak dipasarkan).
 
 ---
 

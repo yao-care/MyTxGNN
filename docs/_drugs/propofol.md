@@ -6,9 +6,9 @@ nav_order: 604
 evidence_level: L2
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Propofol: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L2). Indikasi asal: Tiada data indikasi berdaftar tempatan"
 monitor_inn: "PROPOFOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
+description: "Propofol: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Propofol
@@ -33,7 +33,7 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-## Propofol: Daripada Anestesia/Sedasi kepada Gangguan Migrain
+## Propofol: Gangguan migrain (migraine disorder)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ dengan **3 percubaan klinikal** dan **20 penerbitan** yang menyokong arah ini.
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar tempatan; secara amnya digunakan sebagai agen anestesia/sedasi |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder) |
-| Skor Ramalan TxGNN | 99.69% |
+| Skor Ramalan TxGNN | 0.9969 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
@@ -116,7 +116,6 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi yang lengkap.
 - Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang penilaian keselamatan)
 - Data mekanisme tindakan terperinci daripada DrugBank
 - Semakan keputusan RCT utama (kesan, kadar kambuhan, kejadian buruk)
-- Protokol penggunaan terkawal (dos, tttetapan, pemantauan) serta pertimbangan status tidak dipasarkan di Malaysia, termasuk laluan pendaftaran atau penggunaan di hospital
 - Protokol keselamatan untuk populasi khas (pediatrik, pesakit dengan epilepsi, hipotensi atau kegagalan pernafasan)
 ## Penafian
 

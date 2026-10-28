@@ -7,13 +7,14 @@ drugbank_id: "DB00493"
 drug_name: "Cefotaxime"
 kg_predictions: 11
 dl_predictions: 97
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/cefotaxime/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Cefotaxime
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **11** ramalan graf pengetahuan dan **97** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **11** ramalan model TxGNN (pembelajaran mendalam) dan **97** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

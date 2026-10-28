@@ -48,10 +48,10 @@ Bacitracin ialah antibiotik polipeptida topikal yang aktif terhadap bakteria Gra
 |------|------|
 | Indikasi Asal | Tiada data indikasi lulus dalam rekod pendaftaran tempatan |
 | Indikasi Baharu yang Diramalkan | Keratokonjunktivitis epitelium bertitik (punctate epithelial keratoconjunctivitis) |
-| Skor Ramalan TxGNN | 99.999% |
+| Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 25 daripada 25) |
+| Bilangan Pendaftaran | 25 (sah: 25) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -70,15 +70,15 @@ Skor TxGNN yang sangat tinggi ialah ramalan model semata-mata. Tiada percubaan k
 
 | Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Ulasan Ringkas |
 |------|------|------|------|------|
-| 2 | Keratitis pendedahan (exposure keratitis) | 99.99% | L5 | Salap antibiotik kadangkala digunakan untuk mencegah jangkitan sekunder; rasional tidak langsung, tiada bukti |
-| 3 | Penyakit haiwan bukan manusia | 99.97% | L5 | Kategori tidak spesifik, kemungkinan artifak graf pengetahuan; tidak perlu dinilai sebagai indikasi manusia |
-| 4 | Otitis externa | 99.97% | L4 | Terdapat literatur tidak langsung; lihat bahagian bawah |
-| 5 | Vaskulitis pasca-jangkitan | 99.97% | L5 | Sekuel imun; tiada hubungan mekanistik yang jelas |
-| 6 | Gangguan pasca-bakteria | 99.97% | L5 | Kategori luas; antibakteria hanya relevan untuk jangkitan aktif |
-| 7 | Striktur uretra berjangkit | 99.97% | L5 | Keadaan fibrotik struktural; tiada mekanisme yang jelas |
-| 8 | Sindrom pasca-jangkitan | 99.96% | L5 | Kategori generik, lazimnya dimediasi imun |
-| 9 | Sindrom uremik hemolitik berkaitan jangkitan | 99.96% | L5 | Antibiotik berpotensi memudaratkan; bacitracin sistemik bersifat nefrotoksik |
-| 10 | Kardiomiopati Chagas | 99.96% | L5 | Disebabkan protozoa; bacitracin tiada aktiviti antiprotozoa |
+| 2 | Keratitis pendedahan (exposure keratitis) | 0.9999 | L5 | Salap antibiotik kadangkala digunakan untuk mencegah jangkitan sekunder; rasional tidak langsung, tiada bukti |
+| 3 | Penyakit haiwan bukan manusia | 0.9997 | L5 | Kategori tidak spesifik; skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi; tidak perlu dinilai sebagai indikasi manusia |
+| 4 | Otitis externa | 0.9997 | L5 | Terdapat literatur tidak langsung; lihat bahagian bawah |
+| 5 | Vaskulitis pasca-jangkitan | 0.9997 | L5 | Sekuel imun; tiada hubungan mekanistik yang jelas |
+| 6 | Gangguan pasca-bakteria | 0.9997 | L5 | Kategori luas; antibakteria hanya relevan untuk jangkitan aktif |
+| 7 | Striktur uretra berjangkit | 0.9997 | L5 | Keadaan fibrotik struktural; tiada mekanisme yang jelas |
+| 8 | Sindrom pasca-jangkitan | 0.9996 | L5 | Kategori generik, lazimnya dimediasi imun |
+| 9 | Sindrom uremik hemolitik berkaitan jangkitan | 0.9996 | L5 | Antibiotik berpotensi memudaratkan; bacitracin sistemik bersifat nefrotoksik |
+| 10 | Kardiomiopati Chagas | 0.9996 | L5 | Disebabkan protozoa; bacitracin tiada aktiviti antiprotozoa |
 
 Di antara indikasi yang diramalkan, **otitis externa** (kedudukan 4) mempunyai bukti literatur yang paling banyak (tahap L4), walaupun bersifat tidak langsung. Butirannya dinyatakan dalam bahagian literatur di bawah.
 

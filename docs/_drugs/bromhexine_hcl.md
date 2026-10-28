@@ -8,6 +8,7 @@ nav_order: 169
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Bromhexine Hcl
@@ -49,8 +50,8 @@ Bromheksina HCL adalah agen mukolotik yang telah terbukti dan luas digunakan unt
 | Indikasi Baru yang Diramalkan | Tiada (tiada ramalan TxGNN tersedia) |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 — Tiada ramalan dihasilkan |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 37 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 37 daripada 37) |
+| Bilangan Pendaftaran | 37 (sah: 37) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

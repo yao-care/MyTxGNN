@@ -8,6 +8,7 @@ nav_order: 127
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Bedaquiline Fumarate
@@ -47,8 +48,8 @@ Bedaquiline fumarate adalah ubat yang dipasarkan di Malaysia dengan 1 lesen berd
 | Indikasi Baru yang Diramalkan | **Tiada** — TxGNN tidak mengembalikan sebarang ramalan |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | **L5** (Tiada ramalan, tiada kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ## Mengapa Tiada Ramalan yang Dijana?

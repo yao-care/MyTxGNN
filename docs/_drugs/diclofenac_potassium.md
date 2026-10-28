@@ -8,6 +8,7 @@ nav_order: 285
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Diclofenac Potassium
@@ -49,8 +50,8 @@ Diclofenac potassium (Diklofenac kalium) adalah ubat anti-inflamasi tanpa steroi
 | Indikasi Baru yang Dijangkakan | — (Tiada ramalan TxGNN tersedia) |
 | Skor Ramalan TxGNN | — |
 | Tahap Bukti | L5 (Data tidak mencukupi untuk penilaian) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 6 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

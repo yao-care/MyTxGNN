@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 733
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Zinc Acetate: indikasi baharu diramal Retinopati diabetik bukan proliferatif teruk (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar tempatan"
 monitor_inn: "Zinc acetate"
-predicted_indications: ["severe nonproliferative diabetic retinopathy", "bronchitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "bronchitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "urinary tract infection (disease)"]
+last_modified_at: 2026-10-23
+description: "Zinc Acetate: indikasi baharu diramal Retinopati diabetik non-proliferatif teruk (tahap bukti L5). Indikasi asal: Tiada maklumat indikasi yang diluluskan dalam data pendaftaran tempat…"
 ---
 
 # Zinc Acetate
@@ -33,14 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Zink Asetat: Daripada Tiada Indikasi Berdaftar kepada Retinopati Diabetik Bukan Proliferatif Teruk
+## Zink Asetat: Daripada Penggunaan Asal kepada Retinopati Diabetik Non-Proliferatif Teruk
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Data yang dikumpulkan untuk laporan ini tidak mencatatkan sebarang indikasi asal yang berdaftar bagi zink asetat di Malaysia, dan ubat ini tidak dipasarkan di sini.
-Model TxGNN meramalkan ia mungkin berkesan untuk **retinopati diabetik bukan proliferatif teruk** dengan skor tinggi (99.97%).
-Walau bagaimanapun, ramalan ini bersifat pengiraan semata-mata: **0 ujian klinikal** dan **0 penerbitan** menyokong indikasi ini.
+Zink asetat ialah sebatian zink yang di Malaysia hanya berdaftar sebagai salah satu komponen dalam produk gabungan pemakanan infusi (rangkaian Nutriflex); teks indikasi yang diluluskan tidak terdapat dalam data yang dikumpulkan untuk laporan ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **retinopati diabetik non-proliferatif teruk**, tetapi setakat ini **tiada sebarang percubaan klinikal dan tiada penerbitan** yang menyokong ramalan ini secara langsung.
 
 ---
 
@@ -48,84 +47,77 @@ Walau bagaimanapun, ramalan ini bersifat pengiraan semata-mata: **0 ujian klinik
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar tempatan |
-| Indikasi Baharu yang Diramalkan | Retinopati diabetik bukan proliferatif teruk |
-| Skor Ramalan TxGNN | 99.97% |
+| Indikasi Asal | Tiada maklumat indikasi yang diluluskan dalam data pendaftaran tempatan |
+| Indikasi Baharu yang Diramalkan | Retinopati diabetik non-proliferatif teruk |
+| Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan zink asetat tidak tersedia pada masa ini. Zink ialah unsur surih penting yang bertindak sebagai kofaktor kepada ratusan enzim, dan ia mempunyai aktiviti antioksidan serta anti-radang. Sifat ini mungkin berkaitan dengan tekanan oksidatif pada retina, tetapi ini hanyalah hipotesis dan tidak disokong oleh data yang dikumpulkan.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat umum, zink ialah kofaktor bagi enzim antioksidan seperti superoksida dismutase Cu/Zn, dan mungkin mempengaruhi tekanan oksidatif serta keradangan dalam retina pesakit diabetes. Ini hanyalah hipotesis dan tidak disokong oleh bukti yang dikumpulkan untuk laporan ini.
 
-Tiada indikasi asal berdaftar di Malaysia, maka hubungan antara indikasi asal dengan indikasi baharu tidak dapat dinilai. Skor TxGNN yang sangat tinggi hanya mencerminkan hubungan dalam graf pengetahuan, bukan bukti klinikal.
+Hubungan antara penggunaan asal dengan indikasi baharu tidak dapat dinilai kerana tiada indikasi asal yang direkodkan. Ramalan ini perlu dianggap sebagai isyarat daripada model sahaja.
 
-Retinopati diabetik (rank 3) ialah kategori induk kepada entri ini dan mempunyai jurang bukti yang sama.
+Ramalan lain dalam senarai (contohnya bronkitis, retinopati diabetik, dan jangkitan saluran kencing) juga berada pada tahap bukti rendah. Ramalan "acrodermatitis chronica atrophicans" berkemungkinan positif palsu kerana namanya serupa dengan acrodermatitis enteropathica yang responsif terhadap zink.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+Buat masa ini tiada percubaan klinikal berkaitan didaftarkan untuk indikasi ini.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia.
+Buat masa ini tiada literatur berkaitan untuk indikasi ini.
 
 ---
 
-## Calon Indikasi Lain yang Diramalkan
+## Maklumat Pasaran di Malaysia
 
-Berikut ringkasan calon lain daripada data yang dikumpulkan (semua dalam peringkat S0):
+Semua pendaftaran ialah produk gabungan; ia tidak menggambarkan status kelulusan zink asetat sebagai bahan tunggal. Borang dos dan teks indikasi tidak tersedia.
 
-| Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Cadangan |
-|------|------|------|------|------|
-| 2 | Bronkitis | 99.97% | L5 | Hold |
-| 3 | Retinopati diabetik | 99.92% | L5 | Hold |
-| 4 | Dermatitis | 99.88% | L4 | Soalan Penyelidikan |
-| 5 | Akrodermatitis kronika atrofikans | 99.83% | L5 | Hold |
-| 6 | Dermatomiositis neonatal | 99.81% | L5 | Hold |
-| 7 | Akne keloid | 99.80% | L5 | Hold |
-| 8 | Hidroa vaksiniformis, familial | 99.79% | L5 | Hold |
-| 9 | Penyakit paru interstisial sekunder spesifik kanak-kanak berkaitan penyakit tisu penghubung | 99.78% | L5 | Hold |
-| 10 | Dermatomiositis amiopatik | 99.77% | L5 | Hold |
-
-**Catatan penting:**
-- **Bronkitis**: Satu-satunya rujukan (PMID 32679246) ialah kajian sintesis nanozarah zink oksida, bukan kajian klinikal zink asetat.
-- **Dermatitis**: Literatur yang ditemui kebanyakannya tidak langsung (laporan kes, pengawasan pasca pemasaran untuk hipozinkemia, laporan veterinar, dan laporan kesan buruk seperti kekurangan kuprum dan hiperzinkemia). Satu RCT 2005 (PMID 16302325) melibatkan produk topikal klindamisin/zink, tetapi kaitannya dengan zink asetat untuk dermatitis tidak dapat disahkan. Khasiat zink asetat dalam dermatitis belum terbukti.
-- **Akrodermatitis kronika atrofikans**: Ini ialah manifestasi kulit lewat borreliosis Lyme dan dirawat dengan antibiotik. Ramalan mungkin disebabkan persamaan nama dengan akrodermatitis enteropatika yang responsif kepada zink.
+| Nombor Kelulusan | Nama Produk | Borang Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL20031947AZ | NUTRIFLEX LIPID PLUS | – | – |
+| MAL23126020AZ | Nutriflex Omega Special Novo Emulsion for Infusion | – | – |
+| MAL24116028AZ | Nutriflex Lipid Special Novo Emulsion for Infusion | – | – |
+| MAL24116027AZ | Nutriflex Omega Peri Novo Emulsion for Infusion | – | – |
+| MAL24116026AZ | Nutriflex Lipid Peri Novo Emulsion for Infusion | – | – |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat**: Pertanyaan interaksi selesai dengan 100 interaksi direkodkan. Antara yang dipaparkan:
-- **Sederhana (Moderate)**: asid alendronik, asid risedronik, ibandronat, tetrasiklin, baloxavir marboxil
-- **Ringan (Minor)**: abatacept, adalimumab, hidrokortison, alefacept, anakinra, azathioprine, baricitinib, basiliximab, deksametason, belatacept, belimumab, betametason, triamsinolon, serta imunoglobulin antilimfosit/antitimosit
+- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan dalam pangkalan data DDInter. Sebahagian besar bertahap Minor (contohnya abatacept, adalimumab, hidrokortison, deksametason, azatioprina). Interaksi bertahap **Sederhana (Moderate)** termasuk:
+  - Asid alendronik, asid risedronik, ibandronat (bisfosfonat)
+  - Tetrasiklin
+  - Baloxavir marboxil
 
-Untuk maklumat keselamatan lain, sila rujuk sisipan pakej.
+  Secara amnya, zink boleh mengurangkan penyerapan ubat-ubatan jenis ini jika diambil serentak, jadi jarak masa pengambilan perlu dipertimbangkan.
+
+Maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Indikasi yang diramalkan tidak disokong oleh ujian klinikal atau literatur, dan ramalan TxGNN yang tinggi hanyalah ramalan berasaskan graf. Zink asetat juga tidak berdaftar di Malaysia dan data keselamatan daripada label belum diperoleh.
+Ramalan ini hanya berdasarkan model (skor 0.9997) tanpa sebarang percubaan klinikal atau literatur yang mengkaji penyakit ini secara langsung, maka tahap bukti ialah L5. Pendaftaran tempatan pula hanya untuk produk gabungan, dan data keselamatan peringkat label tidak lengkap.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat penyaringan keselamatan)
-- Data mekanisme tindakan (MOA), contohnya daripada DrugBank
-- Kajian praklinikal atau klinikal yang menilai zink asetat dalam retinopati diabetik
-- Penilaian kesesuaian laluan pemberian dan persamaan dengan indikasi asal
-- Semakan lanjut calon dermatitis (Soalan Penyelidikan) untuk menentukan sama ada bukti langsung wujud
+**Untuk meneruskan, perlu dilengkapkan:**
+- Sisipan pek NPRA (amaran dan kontraindikasi) – jurang data yang menyekat
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Kajian praklinikal atau klinikal zink dalam retinopati diabetik
+- Kajian literatur sistematik untuk menilai zink dalam komplikasi mikrovaskular diabetes
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

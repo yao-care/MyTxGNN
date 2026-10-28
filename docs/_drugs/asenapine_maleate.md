@@ -8,6 +8,7 @@ nav_order: 96
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Asenapine Maleate
@@ -51,8 +52,8 @@ Sebelum arah penggunaan semula dapat dinilai, jurang data yang telah dikenalpast
 | Indikasi Baru yang Diramalkan | — (Tiada ramalan TxGNN tersedia dalam Pakej Bukti ini) |
 | Skor Ramalan TxGNN | — |
 | Tahap Bukti | T/A — Tiada ramalan tersedia |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | **Tunggu** |
 
 ---

@@ -3,18 +3,18 @@ layout: default
 title: Mepolizumab
 parent: Low Evidence (L4-L5)
 nav_order: 493
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Mepolizumab: indikasi baharu diramal Trombositopenia akibat pemusnahan imun (tahap bukti L4). Indikasi asal: Pneumonia eosinofilik"
 monitor_inn: "MEPOLIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
+description: "Mepolizumab: indikasi baharu diramal Trombositopenia akibat pemusnahan imun (thrombocytopenia due to immune destruction) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Mepolizumab
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-## Mepolizumab: Daripada Pneumonia Eosinofilik kepada Trombositopenia Akibat Pemusnahan Imun
+## Mepolizumab: Trombositopenia akibat pemusnahan imun (thrombocytopenia due to immune destruction)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini hanya **0 kajian klinikal** dan **1 penerbitan** (laporan kes
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Pneumonia eosinofilik; eosinofilia pulmonari |
-| Indikasi Baharu yang Diramalkan | Trombositopenia akibat pemusnahan imun |
-| Skor Ramalan TxGNN | 99.66% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Trombositopenia akibat pemusnahan imun (thrombocytopenia due to immune destruction) |
+| Skor Ramalan TxGNN | 0.9966 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -64,7 +64,7 @@ Data terperinci mengenai mekanisme tindakan asal tidak tersedia buat masa ini. B
 
 Satu-satunya penerbitan yang dipautkan (PMID 28648630) ialah laporan kes sindrom imun hipereosinofilik tahan steroid yang dirawat dengan mepolizumab bersama agen lain, dengan mikroangiopati trombotik campuran yang turut bertambah baik. Sitopenia yang dimediasi imun mungkin menjadi sebahagian daripada gambaran klinikal tersebut. Sebarang manfaat kemungkinan bersifat tidak langsung, iaitu melalui penindasan ketidakseimbangan imun yang dipacu eosinofil, dan bukan kesan langsung terhadap pemusnahan platelet.
 
-Skor TxGNN yang sangat tinggi (0.997) ialah ramalan model sahaja dan tidak disokong oleh data ujian klinikal.
+Skor TxGNN yang sangat tinggi (0.9966) ialah ramalan model sahaja dan tidak disokong oleh data ujian klinikal.
 
 Ramalan lain dalam senarai (gangguan pelepasan primer platelet, penyakit pseudo-von Willebrand, trombositopenia autoimun, trombastenia Glanzmann) tidak mempunyai hubungan mekanistik yang munasabah dengan sekatan IL-5. Kebanyakannya tidak disokong oleh sebarang ujian atau literatur (L5), kecuali satu kajian tinjauan yang tidak berkaitan secara langsung.
 
@@ -95,7 +95,7 @@ Sila rujuk sisipan pek untuk maklumat keselamatan. Tiada interaksi ubat yang dit
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan ini hanya disokong oleh satu laporan kes dan skor model, tanpa ujian klinikal. Mekanisme yang menghubungkan sekatan IL-5 dengan pemusnahan platelet secara imun juga tidak langsung. Ubat ini juga tidak dipasarkan di Malaysia.
+- Ramalan ini hanya disokong oleh satu laporan kes dan skor model, tanpa ujian klinikal. Mekanisme yang menghubungkan sekatan IL-5 dengan pemusnahan platelet secara imun juga tidak langsung.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang penyaringan keselamatan)

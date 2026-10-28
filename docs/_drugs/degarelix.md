@@ -6,9 +6,9 @@ nav_order: 261
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Degarelix: indikasi baharu diramal Hipertrikosis (hypertrichosis) (tahap bukti L5). Indikasi asal: Tiada data penunjuk berdaftar dalam data yang dikumpulkan"
 monitor_inn: "DEGARELIX"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "malformation syndrome with odontal and/or periodontal component", "isolated genetic hair shaft abnormality", "allergic urticaria", "cold urticaria", "familial male-limited precocious puberty", "centra precocious puberty 1", "familial isolated trichomegaly"]
+description: "Degarelix: indikasi baharu diramal Hipertrikosis (hypertrichosis (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Degarelix
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Degarelix: Daripada Penunjuk Asal yang Tidak Direkodkan kepada Hipertrikosis
+## Degarelix: Hipertrikosis (hypertrichosis (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **hipertrikosis**, tetapi ramal
 
 | Item | Kandungan |
 |------|------|
-| Penunjuk Asal | Tiada data penunjuk berdaftar dalam data yang dikumpulkan |
-| Penunjuk Baharu yang Diramalkan | Hipertrikosis (hypertrichosis) |
-| Skor Ramalan TxGNN | 99.99% |
+| Penunjuk Asal | Tidak direkodkan dalam data tempatan |
+| Penunjuk Baharu yang Diramalkan | Hipertrikosis (hypertrichosis (disease)) |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ---
@@ -61,13 +61,13 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **hipertrikosis**, tetapi ramal
 
 Maklumat terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan farmakologi umum, degarelix ialah antagonis reseptor GnRH yang menyekat paksi hipotalamus-pituitari-gonad, lalu merendahkan LH/FSH, testosteron dan androgen hiliran.
 
-Hubungan mekanistik dengan hipertrikosis adalah **lemah dan spekulatif**. Hipertrikosis pada amnya tidak didorong androgen (berbeza dengan hirsutisme), jadi penindasan androgen tidak dijangka menjadi penyelesaian yang jelas. Skor TxGNN yang sangat tinggi ialah ramalan model semata-mata dan tiada percubaan atau literatur untuk mengesahkannya.
+Hubungan mekanistik dengan hipertrikosis adalah **lemah dan spekulatif**. Hipertrikosis pada amnya tidak didorong androgen (berbeza dengan hirsutisme), jadi penindasan androgen tidak dijangka menjadi penyelesaian yang jelas.
 
 Ramalan lain dalam senarai juga kurang munasabah dari segi mekanisme:
 - **Ambras hypertrichosis universalis congenita, sindrom Dandy-Walker, sindrom malformasi gigi/periodontium, kelainan batang rambut genetik, trikomegali familial**: keadaan genetik atau perkembangan yang tidak dijangka dibetulkan oleh antagonisme GnRH.
 - **Urtikaria alahan dan urtikaria sejuk**: dimediasi sel mast dan histamin. Kelas antagonis peptida ini dikaitkan dengan pembebasan histamin dan tindak balas hipersensitiviti, maka potensi mudarat lebih besar daripada manfaat.
 - **Akil baligh pramatang familial terhad lelaki**: disebabkan mutasi pengaktifan LHCGR yang bebas daripada GnRH, jadi keberkesanan tidak mungkin berlaku secara mekanistik. Ia tetap penunjuk yang paling hampir dengan farmakologi ubat ini.
-- **Akil baligh pramatang pusat 1**: antagonisme GnRH munasabah dari segi mekanisme, tetapi standard semasa ialah agonis GnRH. Degarelix tiada data pediatrik, tiada formulasi pediatrik tindakan panjang dan tidak dipasarkan di Malaysia. Ini ialah **soalan penyelidikan** yang paling wajar diteroka.
+- **Akil baligh pramatang pusat 1**: antagonisme GnRH munasabah dari segi mekanisme, tetapi standard semasa ialah agonis GnRH. Ini ialah **soalan penyelidikan** yang paling wajar diteroka.
 
 ---
 
@@ -85,7 +85,6 @@ Setakat ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Degarelix kini **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar dalam data yang dikumpulkan.
 
 ---
 
@@ -108,7 +107,7 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pek produk.
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Semua ramalan hanya berada pada Tahap Bukti L5 (ramalan model sahaja) tanpa percubaan atau literatur. Hubungan mekanistik lemah atau tidak munasabah bagi kebanyakan penunjuk, dan ubat ini tidak dipasarkan di Malaysia.
+- Semua ramalan hanya berada pada Tahap Bukti L5 (ramalan model sahaja) tanpa percubaan atau literatur.
 - Akil baligh pramatang pusat 1 dan akil baligh pramatang familial terhad lelaki ditanda sebagai **soalan penyelidikan**, tetapi belum layak untuk diteruskan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

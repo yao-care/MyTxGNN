@@ -8,6 +8,7 @@ nav_order: 461
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Lidocaine Hydrochloride
@@ -51,8 +52,8 @@ Dengan 19 produk berdaftar di Malaysia dan sifar petunjuk yang diramalkan dalam 
 | Petunjuk Baru yang Diramalkan | T/A — tiada ramalan yang dijana |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | L5 (ramalan model sahaja; tiada kajian sebenar dipautkan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 19 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 19 daripada 19) |
+| Bilangan Pendaftaran | 19 (sah: 19) |
 | Keputusan yang Disyorkan | Tahan |
 
 ---

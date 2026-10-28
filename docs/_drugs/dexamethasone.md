@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Dexamethasone
-parent: High Evidence (L1-L2)
+parent: Medium Evidence (L3)
 nav_order: 269
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Dexamethasone: indikasi baharu diramal Diffuse large B-cell lymphoma (DLBCL) (tahap bukti L1). Indikasi asal: Leukemia limfoblastik akut, insufisiensi adrenokortikal…"
+evidence_level: L3
+indication_count: 10
+monitor_inn: "Dexamethasone"
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
+last_modified_at: 2026-10-23
+description: "Dexamethasone: indikasi baharu diramal Alopecia areata (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Dexamethasone
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **5** 
+Tahap bukti: **L3** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,14 +33,12 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-## Dexamethasone: Daripada Leukemia Limfoblastik Akut kepada Limfoma Sel B Besar Meresap (Diffuse Large B-Cell Lymphoma)
+## Dexamethasone: Alopecia areata
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Dexamethasone ialah glukokortikoid sintetik. Dalam data yang dihimpunkan untuk laporan ini, penggunaan asalnya merangkumi leukemia limfoblastik akut, insufisiensi adrenokortikal, penyakit Crohn dan hiperplasia adrenal kongenital.
-Model TxGNN meramalkan ia mungkin berkesan untuk **diffuse large B-cell lymphoma (DLBCL)**.
-Setakat ini terdapat **28 ujian klinikal** dan **20 penerbitan** yang berkaitan, termasuk beberapa ujian rawak Fasa 3. Namun, hampir semua bukti datang daripada rejimen gabungan, bukan dexamethasone sebagai agen tunggal.
+Dexamethasone ialah kortikosteroid ssintetik berkesan tinggi. Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **alopecia areata**. Tiada ujian klinikal berdaftar, tetapi sekitar **20 penerbitan** diperoleh, termasuk **1 RCT** dan beberapa kajian kohort tentang dexamethasone mini-pulse oral.
 
 ---
 
@@ -46,94 +46,90 @@ Setakat ini terdapat **28 ujian klinikal** dan **20 penerbitan** yang berkaitan,
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Leukemia limfoblastik akut, insufisiensi adrenokortikal, penyakit Crohn, hiperplasia adrenal kongenital dan lain-lain (daripada graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi berlesen tersedia) |
-| Indikasi Baharu yang Diramalkan | Diffuse large B-cell lymphoma (DLBCL) |
-| Skor Ramalan TxGNN | 0.00% (kedudukan #1 antara indikasi yang diramalkan; nilai skor ini tidak bermaklumat, jadi kedudukan dan bukti sokongan lebih berguna untuk penilaian) |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (mengikut data yang dihimpunkan) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Alopecia areata |
+| Skor Ramalan TxGNN | 0.9999 |
+| Tahap Bukti | L3 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 38 daripada 38) |
+| Bilangan Pendaftaran | 38 (sah: 38) |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) daripada pangkalan data ubat tidak tersedia buat masa ini. Walau bagaimanapun, kesusasteraan yang dihimpunkan menerangkan mekanismenya. Dexamethasone mengikat reseptor glukokortikoid (GR) dan mendorong apoptosis sel limfoid, antara lain melalui peningkatan ungkapan BIM. Kajian dalam *Cancer Cell* (PMID 38701792) menunjukkan glukokortikoid juga menghalang isyarat onkogenik reseptor sel B (BCR), ciri berulang dalam keganasan sel B agresif seperti DLBCL dan limfoma Burkitt.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang disusun untuk laporan ini. Dexamethasone ialah glukokortikoid berkesan tinggi yang menekan aktiviti sel T sitotoksik dan isyarat sitokin pro-radang. Kesan anti-radang dan imunosupresif ini sudah mantap dalam keadaan lain.
 
-Dexamethasone sudah lama digunakan dalam keganasan limfoid, termasuk leukemia limfoblastik akut, iaitu indikasi asal dalam graf pengetahuan. DLBCL ialah keganasan limfoid sel B, jadi sensitiviti limfoid terhadap glukokortikoid boleh dianggap berkaitan.
+Alopecia areata ialah serangan autoimun yang diperantarai sel T terhadap folikel rambut, dengan kehilangan keistimewaan imun folikel. Penindasan tindak balas imun oleh glukokortikoid secara mekanistik sesuai dengan penyakit ini. Dalam amalan klinikal, dexamethasone mini-pulse oral sudah digunakan untuk penyakit sederhana hingga teruk. Skor TxGNN yang sangat tinggi selaras dengan kebolehpercayaan ini.
 
-Dalam amalan, dexamethasone menjadi tulang belakang steroid bagi beberapa rejimen penyelamat untuk DLBCL relaps/refraktori, seperti R-DHAP, R-GDP dan GemOx-D. Oleh itu, bukti menyokong peranannya dalam rejimen gabungan, bukan sebagai agen tunggal.
+Had utama ialah penyakit sering kambuh selepas rawatan dihentikan. Kesan sampingan steroid yang terkumpul, seperti penindasan paksi HPA, kesan metabolik dan kehilangan tulang, juga perlu diambil kira.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Sebanyak 28 ujian dikenal pasti. Jadual di bawah menyenaraikan 10 yang paling relevan.
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00137995](https://clinicaltrials.gov/study/NCT00137995) | Fasa 3 | Selesai | 481 | R-ICE berbanding R-DHAP (mengandungi dexamethasone) pada DLBCL yang pernah dirawat, diikuti terapi penyelenggaraan rituximab rawak |
-| [NCT00078949](https://clinicaltrials.gov/study/NCT00078949) | Fasa 3 | Selesai | 849 | (R)-GDP berbanding (R)-DHAP, kedua-duanya mengandungi dexamethasone, sebagai kemoterapi penyelamat sebelum pemindahan sel stem autologus pada limfoma agresif relaps/refraktori |
-| [NCT00012051](https://clinicaltrials.gov/study/NCT00012051) | Fasa 3 | Selesai | 340 | Kesan rituximab semasa kemoterapi berurutan dan pemindahan sel stem autologus pada limfoma sel B relaps (HOVON 44); dexamethasone ialah sebahagian daripada tulang belakang rejimen |
-| [NCT04442022](https://clinicaltrials.gov/study/NCT04442022) | Fasa 2/3 | Aktif, tidak merekrut | 501 | R-GDP dengan atau tanpa selinexor pada DLBCL relaps/refraktori |
-| [NCT03795571](https://clinicaltrials.gov/study/NCT03795571) | Fasa 1 | Tidak diketahui | 12 | Rejimen R2-GOD (lenalidomide, rituximab, gemcitabine, oxaliplatin, dexamethasone) pada DLBCL relaps/refraktori; data keselamatan awal |
-| [NCT02733380](https://clinicaltrials.gov/study/NCT02733380) | Fasa 2 | Tidak diketahui | 20 | Chidamide bersama VDDT (vinorelbine, doxorubicin liposom, dexamethasone, thalidomide) pada DLBCL relaps/refraktori |
-| [NCT00598169](https://clinicaltrials.gov/study/NCT00598169) | Fasa 1 | Selesai | 23 | Bortezomib bersama (R)ICE pada limfoma bukan Hodgkin berkaitan AIDS; kebolehlaksanaan, dexamethasone komponen kecil |
-| [NCT01846390](https://clinicaltrials.gov/study/NCT01846390) | Fasa 1 | Selesai | 21 | Romidepsin bersama gemcitabine, dexamethasone dan cisplatin (GDP) pada limfoma sel T periferal dan DLBCL |
-| [NCT02181218](https://clinicaltrials.gov/study/NCT02181218) | Fasa 1 | Selesai | 24 | Romidepsin bersama GemOxD (gemcitabine, oxaliplatin, dexamethasone) pada limfoma agresif relaps/refraktori |
-| [NCT00072514](https://clinicaltrials.gov/study/NCT00072514) | Fasa 2 | Selesai | 55 | Gemcitabine, carboplatin, dexamethasone dan rituximab pada keganasan limfoid yang pernah dirawat |
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Sebanyak 20 penerbitan dikenal pasti. Jadual di bawah menyenaraikan 10 yang paling relevan, dengan keutamaan kepada RCT.
-
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [16702182](https://pubmed.ncbi.nlm.nih.gov/16702182/) | 2006 | RCT | Ann Oncol | Kemas kini kajian CORAL Fasa 3: R-ICE berbanding R-DHAP (mengandungi dexamethasone) pada DLBCL CD20 relaps, diikuti rawak kedua untuk penyelenggaraan rituximab |
-| [35717989](https://pubmed.ncbi.nlm.nih.gov/35717989/) | 2022 | RCT | Lancet | TRANSFORM: liso-cel berbanding rawatan standard (kemoterapi penyelamat berasaskan platinum kemudian pemindahan sel stem) sebagai rawatan baris kedua limfoma sel B besar relaps/refraktori; kaitan dengan dexamethasone tidak langsung |
-| [20660832](https://pubmed.ncbi.nlm.nih.gov/20660832/) | 2010 | Kohort | J Clin Oncol | Rejimen penyelamat dengan pemindahan autologus untuk limfoma sel B besar relaps pada era rituximab |
-| [38701792](https://pubmed.ncbi.nlm.nih.gov/38701792/) | 2024 | Ulasan/mekanisme | Cancer Cell | Glukokortikoid menghalang isyarat BCR onkogenik melalui GR pada limfoma sel B agresif, menerangkan mekanisme keberkesanan |
-| [41784015](https://pubmed.ncbi.nlm.nih.gov/41784015/) | 2026 | Ujian klinikal | Haematologica | Epcoritamab bersama R-DHAX/carboplatin (termasuk dexamethasone) menghasilkan tindak balas mendalam dan tahan lama pada DLBCL relaps/refraktori yang layak pemindahan (EPCORE NHL-2) |
-| [34296427](https://pubmed.ncbi.nlm.nih.gov/34296427/) | 2021 | Kohort | Br J Haematol | Kortikosteroid profilaksis bersama axicabtagene ciloleucel pada limfoma sel B besar untuk mengurangkan toksisiti |
-| [41449668](https://pubmed.ncbi.nlm.nih.gov/41449668/) | 2026 | Retrospektif | Hematol Oncol | Perbandingan GCD-R dengan CHASER sebagai rawatan baris kedua DLBCL relaps/refraktori (68 pesakit) |
-| [41523246](https://pubmed.ncbi.nlm.nih.gov/41523246/) | 2025 | Retrospektif | Am J Cancer Res | Selinexor bersama R-GDP sebagai terapi penyelamat pada 22 pesakit DLBCL relaps/refraktori |
-| [36695162](https://pubmed.ncbi.nlm.nih.gov/36695162/) | 2023 | Kajian klinikal | Cancer Med | Decitabine bersama RDHAP (mengandungi dexamethasone) pada DLBCL relaps/refraktori |
-| [33391412](https://pubmed.ncbi.nlm.nih.gov/33391412/) | 2021 | Retrospektif | J Cancer | GemDOx (gemcitabine, oxaliplatin, dexamethasone) sebagai terapi penyelamat DLBCL dan limfoma sel T periferal |
+| [36086930](https://pubmed.ncbi.nlm.nih.gov/36086930/) | 2022 | RCT | Dermatologic Therapy | RCT label terbuka pada 30 kanak-kanak (<18 tahun) dengan alopecia areata teruk yang tidak progresif, membandingkan keberkesanan dan keselamatan dexamethasone mini-pulse oral dengan sensitisasi kontak DPCP |
+| [39042154](https://pubmed.ncbi.nlm.nih.gov/39042154/) | 2024 | Kajian sistematik dan meta-analisis rangkaian | Archives of Dermatological Research | Membandingkan steroid sistemik, perencat JAK oral dan imunoterapi kontak untuk alopecia areata teruk |
+| [36461625](https://pubmed.ncbi.nlm.nih.gov/36461625/) | 2023 | Ulasan | Pediatric Dermatology | Mengkaji dos dan pentadbiran terapi kortikosteroid dos denyut pada kanak-kanak, serta kesan sampingannya |
+| [35330017](https://pubmed.ncbi.nlm.nih.gov/35330017/) | 2022 | Kohort prospektif | Journal of Clinical Medicine | Menilai keberkesanan, keselamatan dan faktor yang berkaitan dengan tindak balas terhadap kortikosteroid mini-pulse oral dalam keadaan dunia sebenar |
+| [36070222](https://pubmed.ncbi.nlm.nih.gov/36070222/) | 2022 | Kajian klinikal pelbagai pusat | Dermatologic Therapy | Dexamethasone mini-pulse oral untuk alopecia areata sederhana hingga teruk |
+| [31579982](https://pubmed.ncbi.nlm.nih.gov/31579982/) | 2019 | Kohort | Dermatologic Therapy | 73 kanak-kanak dengan alopecia areata teruk; membandingkan denyut intravena dexamethasone 1 hari dengan 3 hari, ditambah kortikosteroid topikal |
+| [26179196](https://pubmed.ncbi.nlm.nih.gov/26179196/) | 2015 | Kajian susulan jangka panjang | Dermatologic Therapy | 65 kanak-kanak dan remaja dengan alopecia areata teruk; dexamethasone oral denyut sekali setiap 4 minggu bersama kortikosteroid topikal, dengan susulan median 96 bulan |
+| [41243342](https://pubmed.ncbi.nlm.nih.gov/41243342/) | 2025 | Laporan kes dan ulasan | Journal of Dermatological Treatment | Remisi tahan lama alopecia areata teruk dengan dexamethasone mini-pulse oral untuk pesakit yang tidak sesuai menerima perencat JAK |
+| [41872082](https://pubmed.ncbi.nlm.nih.gov/41872082/) | 2026 | Kajian semula rekod retrospektif | European Journal of Dermatology | 19 pesakit; dexamethasone denyut sebagai rawatan penyelamat tambahan kepada baricitinib |
+| [10535249](https://pubmed.ncbi.nlm.nih.gov/10535249/) | 1999 | Siri klinikal | Journal of Dermatology | 30 pesakit dengan alopecia areata meluas; dexamethasone oral 5 mg pada dua hari berturut-turut setiap minggu |
+
+Penerbitan lain yang diperoleh (kajian formulasi pra-klinikal, laporan veterinar, kajian dermoskopi dan laporan tentang ubat lain) tidak menyokong keberkesanan dexamethasone secara langsung, jadi tidak disenaraikan.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data lesen. Jadual berikut hanya menyenaraikan produk bahan tunggal (5 daripada 22).
+
+| Nombor Kelulusan | Nama Produk | Pengilang |
+|---------|------|------|
+| MAL20162625ACREZ | hovid Dexamethasone Phosphate Injection 4mg/ml | Hovid Berhad |
+| MAL06071071ASZ | SW-Dexasone Tablet 0.5mg | Sunward Pharmaceutical Sdn. Bhd. |
+| MAL17015024ACRZ | Dexaltin Oral Paste | Pharmaforte (Malaysia) Sdn. Bhd. |
+| MAL20013450AZ | Dexin Injection 2ml | SM Pharmaceuticals Sdn. Bhd. |
+| MAL19890182ARZ | Maxidex Ophthalmic Suspension | Novartis Corporation (Malaysia) Sdn. Bhd. |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Kontraindikasi (daripada graf pengetahuan, bukan teks label):** hipertensi, epilepsi, hiperglisemia, kegagalan jantung kongestif, keratitis herpes simpleks, campak, hipopituitarisme dan kekurangan hormon pituitari, serta gangguan kitaran urea (cth. kekurangan carbamoyl phosphate synthetase I, hiperargininemia, sitrulinemia).
-- **Interaksi Ubat:** pangkalan data interaksi merekodkan 100 interaksi. Antara yang disenaraikan:
-  - **Major:** fentanyl dan adalimumab.
-  - **Moderate:** paclitaxel, abemaciclib, acalabrutinib, isotretinoin, nifedipine, ibuprofen, ketorolac, acetazolamide, acarbose, zidovudine, codeine dan dihydrocodeine.
-  - **Minor:** dolutegravir, lidocaine dan formoterol.
-- Rejimen DLBCL melibatkan ubat sitotoksik lain, jadi profil toksisiti dan interaksi keseluruhan rejimen perlu dinilai, bukan dexamethasone sahaja.
+- **Kontraindikasi (hubungan rekod graf pengetahuan, bukan teks label):** hipertensi, epilepsi, hiperglisemia, kegagalan jantung kongestif, campak, keratitis herpes simpleks, serta pelbagai keadaan kekurangan hormon pituitari dan hipogonadisme hipogonadotropik.
+- **Interaksi ubat:** 100 interaksi direkodkan. Interaksi **Major** yang dipaparkan termasuk **fentanyl** dan **adalimumab**. Interaksi **Moderate** termasuk paclitaxel, zidovudine, nifedipine, ibuprofen, ketorolac, isotretinoin, acetazolamide dan acarbose.
+- **Kesan sampingan jangka panjang (berdasarkan penilaian klinikal dalam data ini):** penindasan paksi HPA, kesan metabolik dan kehilangan tulang akibat penggunaan steroid sistemik berulang.
+
+Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi rasmi, kerana maklumat ini belum diperoleh.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
-**Justifikasi:**
-- Terdapat tiga ujian rawak Fasa 3 yang selesai (NCT00137995, NCT00078949, NCT00012051) dan satu ujian Fasa 2/3, semuanya pada limfoma sel B agresif atau DLBCL relaps/refraktori. Ini memenuhi tahap bukti L1.
-- Mekanisme glukokortikoid pada limfoma agresif disokong oleh kesusasteraan terkini.
-- Ujian-ujian ini membandingkan rejimen, bukan sumbangan dexamethasone sahaja. Keberkesanan dexamethasone sebagai agen tunggal tidak dapat dibuktikan daripada data semasa, maka keputusan ini hanya sesuai sebagai komponen rejimen gabungan.
+**Rasional:**
+- Terdapat satu RCT kecil berlabel terbuka (fasa tidak disahkan), beberapa kajian kohort dan satu meta-analisis rangkaian yang terus mengkaji alopecia areata. Namun tiada ujian klinikal berdaftar, dan reka bentuk serta saiz kajian mengehadkan kekuatan bukti, jadi tahap bukti ialah L3.
+- Mekanisme imunosupresif munasabah dan produk dexamethasone sudah dipasarkan di Malaysia. Risiko kesan sampingan steroid dan kambuhan selepas penghentian memerlukan langkah kawalan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Mengesahkan status pendaftaran dexamethasone di Malaysia (data semasa menunjukkan tiada pendaftaran) dan memperoleh maklumat label produk (amaran, kontraindikasi) daripada NPRA.
+- Sisipan pakej NPRA (amaran, kontraindikasi dan indikasi yang diluluskan), yang kini menghalang saringan keselamatan.
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
-- Pelan pemantauan keselamatan untuk populasi khas (pesakit warga emas, diabetes, hipertensi, kegagalan jantung) dan semakan interaksi dengan rejimen kemoterapi gabungan.
-- Penilaian relevansi bagi ujian yang belum dinilai, serta penentuan rejimen rujukan tempatan (cth. R-DHAP atau R-GDP).
+- Pengesahan reka bentuk dan fasa kajian utama (RCT 36086930 dan kajian pelbagai pusat 36070222) daripada teks penuh.
+- Protokol dos mini-pulse, pelan pemantauan (tekanan darah, glukosa, paksi HPA, kepadatan tulang) dan strategi menangani kambuhan.
 
-**Nota mengenai indikasi lain yang diramalkan:**
-- *Lymphosarcoma* (L1, Proceed with Guardrails) bertindih dengan DLBCL dan leukemia limfoblastik akut, dan buktinya juga daripada rejimen gabungan.
-- *Disease of orbital region* (L2, Research Question) tidak sepadan dengan bukti: kebanyakan ujian melibatkan retina atau permukaan mata, dan laluan pemberian berbeza.
-- *Erythema multiforme* dan *leukemia, lymphocytic, susceptibility to* (kedua-duanya L4, Hold) hanya disokong oleh laporan kes, ulasan atau kajian in vitro. Yang kedua ialah konsep kerentanan genetik yang bertindih dengan indikasi sedia ada.
+Sembilan ramalan lain (seperti alopecia mucinosa, telogen effluvium dan folikulitis dekalvans) berada pada tahap bukti L5 dan berstatus **Hold** kerana tiada bukti klinikal yang menyokongnya. Alopecia universalis dengan onikodistrofi dan vitiligo sebaiknya dinilai di bawah indikasi alopecia areata.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

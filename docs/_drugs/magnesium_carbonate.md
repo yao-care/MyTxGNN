@@ -3,18 +3,18 @@ layout: default
 title: Magnesium Carbonate
 parent: Low Evidence (L4-L5)
 nav_order: 481
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Magnesium Carbonate: indikasi baharu diramal Penyakit ulser peptik aktif (tahap bukti L4). Indikasi asal: Penyakit ulser peptik, penyakit refluks gastroesofagus, esofagitis…"
 monitor_inn: "MAGNESIUM CARBONATE"
 predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "stomach disease", "duodenal obstruction"]
+description: "Magnesium Carbonate: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Magnesium Carbonate
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Magnesium Carbonate: Daripada Penyakit Ulser Peptik kepada Penyakit Ulser Peptik Aktif
+## Magnesium Carbonate: Gastroduodenitis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Pada masa ini terdapat **0 percubaan klinikal** dan **1 penerbitan** (kajian in 
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit ulser peptik, penyakit refluks gastroesofagus, esofagitis, sembelit, dispepsia |
-| Indikasi Baharu Diramalkan | Penyakit ulser peptik aktif |
-| Skor Ramalan TxGNN | 99.96% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu Diramalkan | Gastroduodenitis |
+| Skor Ramalan TxGNN | 0.9994 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 34 daripada 34) |
+| Bilangan Pendaftaran | 34 (sah: 34) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -84,7 +84,6 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Pada masa ini magnesium karbonat tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan dalam data yang dikumpulkan untuk laporan ini.
 
 ---
 
@@ -117,7 +116,7 @@ Pada masa ini magnesium karbonat tidak dipasarkan di Malaysia dan tiada pendafta
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan teratas ialah indikasi yang sudah wujud bagi ubat ini, dan bukti yang ada hanyalah kajian in vitro (L4) tanpa percubaan klinikal. Ubat ini juga tidak dipasarkan di Malaysia, dan maklumat keselamatan daripada sisipan pakej belum diperoleh.
+- Ramalan teratas ialah indikasi yang sudah wujud bagi ubat ini, dan bukti yang ada hanyalah kajian in vitro (L4) tanpa percubaan klinikal.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan

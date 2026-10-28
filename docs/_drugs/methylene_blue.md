@@ -4,17 +4,17 @@ title: Methylene Blue
 parent: Low Evidence (L4-L5)
 nav_order: 500
 evidence_level: L5
-indication_count: 3
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Methylene Blue: indikasi baharu diramal Bronkitis (tahap bukti L5). Indikasi asal: Methemoglobinemia, sulfhemoglobinemia"
 monitor_inn: "METHYLENE BLUE"
-predicted_indications: ["bronchitis", "methemoglobinemia, alpha type", "methemoglobinemia due to deficiency of methemoglobin reductase"]
+predicted_indications: ["bronchitis"]
+description: "Methylene Blue: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Methylene Blue
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **3** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-## Metilena Biru: Daripada Methemoglobinemia kepada Bronkitis
+## Methylene Blue: Bronkitis (bronchitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **bronkitis**, tetapi pada masa
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Methemoglobinemia, sulfhemoglobinemia |
-| Indikasi Baharu yang Diramalkan | Bronkitis |
-| Skor Ramalan TxGNN | 99.97% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Bronkitis (bronchitis) |
+| Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -67,8 +67,6 @@ Namun, tiada data yang disediakan menguji hipotesis ini dalam bronkitis. Kesusas
 
 Data yang dikumpulkan juga mengandungi dua ramalan lain yang berkait rapat dengan indikasi asal:
 
-- **Methemoglobinemia, jenis alfa** (skor 99.36%, L4): Mekanismenya munasabah, tetapi jenis alfa (varian globin alfa, contohnya Hb M) biasanya kurang bertindak balas terhadap metilena biru kerana zat besi heme yang bermutasi tahan terhadap penurunan. Satu-satunya kertas yang diperoleh mengenai biofizik protein, bukan rawatan klinikal.
-- **Methemoglobinemia akibat kekurangan methemoglobin reduktase** (skor 99.36%, L4): Dalam kekurangan sitokrom b5 reduktase, laluan NADPH alternatif melalui metilena biru (bergantung pada G6PD) munasabah dari segi mekanisme. Sokongan terhad kepada laporan kes dan siri kes veterinar serta penerangan kes manusia sejarah. Indikasi ini sebahagian besarnya bertindih dengan kegunaan sedia ada.
 
 ---
 
@@ -119,7 +117,7 @@ Untuk amaran utama dan kontraindikasi berdasarkan label, sila rujuk sisipan pek 
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Untuk bronkitis, tiada ujian klinikal dan tiada kesusasteraan terapeutik; semua penerbitan yang diperoleh tidak berkaitan atau hanya menggunakan metilena biru sebagai pewarna/penanda. Ramalan ini nampaknya didorong oleh perkaitan kata kunci. Tambahan pula, ubat ini tidak dipasarkan di Malaysia dan tiada pendaftaran.
+- Untuk bronkitis, tiada ujian klinikal dan tiada kesusasteraan terapeutik; semua penerbitan yang diperoleh tidak berkaitan atau hanya menggunakan metilena biru sebagai pewarna/penanda. Ramalan ini nampaknya didorong oleh perkaitan kata kunci.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci

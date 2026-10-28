@@ -6,9 +6,9 @@ nav_order: 731
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
-description: "Zanubrutinib: indikasi baharu diramal Leukemia mieloid (tahap bukti L5). Indikasi asal: Limfoma sel mantel, neoplasma sel B, limfosarkoma"
 monitor_inn: "ZANUBRUTINIB"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
+description: "Zanubrutinib: indikasi baharu diramal Leukemia mieloid (myeloid leukemia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Zanubrutinib
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-## Zanubrutinib: Daripada Limfoma Sel Mantel kepada Leukemia Mieloid
+## Zanubrutinib: Leukemia mieloid (myeloid leukemia)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **leukemia mieloid**, tetapi so
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Limfoma sel mantel, neoplasma sel B, limfosarkoma |
-| Indikasi Baharu yang Diramalkan | Leukemia mieloid |
-| Skor Ramalan TxGNN | 99.65% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Leukemia mieloid (myeloid leukemia) |
+| Skor Ramalan TxGNN | 0.9965 |
 | Tahap Bukti | L5 (ramalan model sahaja; tiada kajian yang menguji indikasi ini secara langsung) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **leukemia mieloid**, tetapi so
 
 Zanubrutinib ialah perencat BTK terpilih generasi seterusnya. Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, zanubrutinib tergolong dalam kelas perencat BTK, keberkesanannya dalam keganasan sel B telah dibuktikan, dan secara mekanistik ia mungkin boleh digunakan untuk leukemia mieloid.
 
-Isyarat BTK aktif dalam keganasan sel B. BTK turut diekspresikan dalam sesetengah sel mieloid dan telah dicadangkan menyumbang kepada kemandirian sel AML. Namun, ini masih hipotesis dan **tidak disokong oleh bukti yang diperoleh**. Skor TxGNN yang tinggi (0.996) hanyalah ramalan berkomputer.
+Isyarat BTK aktif dalam keganasan sel B. BTK turut diekspresikan dalam sesetengah sel mieloid dan telah dicadangkan menyumbang kepada kemandirian sel AML. Namun, ini masih hipotesis dan **tidak disokong oleh bukti yang diperoleh**. Skor TxGNN yang tinggi (0.9965) hanyalah ramalan berkomputer.
 
 Kesusasteraan yang diperoleh hampir semuanya tentang keganasan limfoid (CLL/SLL, makroglobulinemia Waldenström, keselamatan perencat BTK), bukan leukemia mieloid. Oleh itu, kaitan mekanistik dengan indikasi baharu masih lemah.
 
@@ -118,7 +118,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan hanya berasaskan model (L5). Tiada percubaan klinikal yang menguji zanubrutinib dalam leukemia mieloid, dan kesusasteraan yang ada berkaitan keganasan limfoid. Ubat ini juga tidak dipasarkan di Malaysia.
+- Ramalan hanya berasaskan model (L5). Tiada percubaan klinikal yang menguji zanubrutinib dalam leukemia mieloid, dan kesusasteraan yang ada berkaitan keganasan limfoid.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci, serta bukti praklinikal tentang kebergantungan BTK dalam leukemia mieloid
@@ -129,7 +129,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ---
 
-**Nota tambahan:** Ramalan peringkat 2 hingga 6 (sindrom kongenital yang jarang berlaku, ganglioneuroblastoma, neoplasma retroperitoneal, sarkoma Ewing dan neuroblastoma) mempunyai skor TxGNN antara 99.2% dan 99.4% tetapi tiada percubaan klinikal atau kesusasteraan yang relevan. Semuanya berada pada tahap bukti L5 dan berstatus Hold.
+**Nota tambahan:** Ramalan peringkat 2 hingga 6 (sindrom kongenital yang jarang berlaku, ganglioneuroblastoma, neoplasma retroperitoneal, sarkoma Ewing dan neuroblastoma) mempunyai skor TxGNN antara 0.9921 dan 0.9938 tetapi tiada percubaan klinikal atau kesusasteraan yang relevan. Semuanya berada pada tahap bukti L5 dan berstatus Hold.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

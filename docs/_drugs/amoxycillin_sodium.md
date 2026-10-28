@@ -8,6 +8,7 @@ nav_order: 71
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Amoxycillin Sodium
@@ -51,8 +52,8 @@ Model TxGNN **tidak menghasilkan sebarang ramalan ubah tujuan rawatan** untuk ub
 | Petunjuk Ubah Tujuan Ramalan | Tiada — tiada ramalan TxGNN dihasilkan |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A (tiada ramalan tersedia) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

@@ -7,13 +7,14 @@ drugbank_id: "DB11866"
 drug_name: "Romosozumab"
 kg_predictions: 2
 dl_predictions: 30
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/romosozumab/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Romosozumab
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **2** ramalan graf pengetahuan dan **30** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **2** ramalan model TxGNN (pembelajaran mendalam) dan **30** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

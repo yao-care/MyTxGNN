@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Insulin Glargine
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 420
-evidence_level: L2
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Insulin Glargine: indikasi baharu diramal Ketoasidosis diabetik (DKA) (tahap bukti L2). Indikasi asal: Diabetes mellitus jenis 2, diabetes mellitus jenis 1 (termasuk DKA…"
+evidence_level: L5
+indication_count: 10
+monitor_inn: "Insulin Glargine"
+predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
+last_modified_at: 2026-10-23
+description: "Insulin Glargine: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2, diabetes mellitus jenis 1…"
 ---
 
 # Insulin Glargine
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,98 +33,90 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-## Insulin Glargine: Daripada Diabetes Mellitus Jenis 2 kepada Ketoasidosis Diabetik
+## Insulin Glargine: Daripada Diabetes Mellitus kepada Autoimmune Oophoritis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Insulin glargine ialah analog insulin bertindak panjang (insulin basal). Ubat ini digunakan untuk mengawal paras gula darah dalam diabetes mellitus jenis 1 dan jenis 2.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Ketoasidosis Diabetik (DKA)**, khususnya sebagai tambahan awal kepada infusi insulin intravena.
-Setakat ini terdapat **6 ujian klinikal** dan **19 penerbitan** yang berkaitan dengan arah ini. Namun, DKA sudah tersenarai antara indikasi asal dalam graf pengetahuan, jadi persoalan sebenar ialah **masa dan regimen pemberian**, bukan penyakit yang benar-benar baharu.
+Insulin glargine ialah analog insulin basal yang pada asalnya digunakan untuk merawat diabetes mellitus (jenis 1 dan jenis 2) serta ketoasidosis diabetes, berdasarkan hubungan yang direkodkan dalam graf pengetahuan TxGNN. Model TxGNN meramalkan ia mungkin berkesan untuk **autoimmune oophoritis** dengan skor tinggi, tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang mengkaji penyakit ini secara langsung. Ramalan ini hanyalah ramalan model.
 
 ---
 
-## Gambaran Keseluruhan
+## Gambaran Ringkas
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Diabetes mellitus jenis 2, diabetes mellitus jenis 1 (termasuk DKA, menurut graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Ketoasidosis diabetik (DKA) |
-| Skor Ramalan TxGNN | 0.00% (nilai skor yang direkodkan ialah 0.0, jadi perlu ditafsir dengan berhati-hati) |
-| Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikompilasi) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi Asal | Diabetes mellitus jenis 2, diabetes mellitus jenis 1, ketoasidosis diabetes (hubungan yang direkodkan dalam graf pengetahuan; teks indikasi lulus tidak tersedia dalam data lesen tempatan) |
+| Indikasi Baharu yang Diramalkan | Autoimmune oophoritis |
+| Skor Ramalan TxGNN | 0.9988 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 13 daripada 13) |
+| Bilangan Pendaftaran | 13 (sah: 13) |
+| Bilangan Kelulusan | 13 pendaftaran (11 produk bahan tunggal, 2 produk kombinasi) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, insulin glargine ialah analog insulin basal yang bertindak melalui pengaktifan reseptor insulin. Keberkesanannya dalam diabetes telah terbukti, dan secara mekanisme ia boleh digunakan dalam DKA.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, insulin glargine ialah analog insulin basal yang bertindak melalui reseptor insulin untuk mengawal paras glukosa darah.
 
-Rawatan standard DKA ialah infusi insulin intravena, yang bertindak singkat. Apabila infusi dihentikan, insulin basal mungkin belum mencukupi, lalu berlaku hiperglisemia lantun dan ketosis berulang. Pemberian glargine subkutan secara awal menyediakan perlindungan insulin basal lebih awal. Ini boleh mengelakkan hiperglisemia lantun dan mungkin memendekkan masa penutupan jurang anion.
-
-Sebagai catatan, DKA sudah tersenarai dalam indikasi asal. Ini lebih tepat dianggap sebagai persoalan penyesuaian masa pemberian atau regimen, dan bukan pengalihan penggunaan ubat kepada penyakit yang benar-benar baharu.
+Tiada hubungan mekanistik langsung yang dapat dikenal pasti antara insulin glargine dan autoimmune oophoritis. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Insulin glargine tidak mempunyai tindakan imunomodulasi yang diketahui berkaitan dengan autoimuniti ovari. Oleh itu, ramalan ini perlu dianggap sebagai isyarat model yang lemah dari segi mekanisme.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00590044](https://clinicaltrials.gov/study/NCT00590044) | Fasa 4 | Selesai | 74 | Ujian terkawal rawak pelbagai pusat yang membandingkan keselamatan dan keberkesanan analog insulin dengan insulin manusia semasa rawatan intravena akut dan peralihan kepada insulin subkutan dalam DKA |
-| [NCT05155917](https://clinicaltrials.gov/study/NCT05155917) | Fasa 2 | Tidak diketahui | 70 | Insulin basal subkutan serentak dengan pam insulin intravena dalam krisis hiperglisemia di penjagaan rapi; keputusan belum disahkan |
-| [NCT02006342](https://clinicaltrials.gov/study/NCT02006342) | NA | Selesai | 40 | Kajian perintis: glargine subkutan bersama insulin IV berbanding glargine tertunda, dengan tumpuan pada masa penyelesaian ketoasidosis dan keperluan kemasukan ICU |
-| [NCT06007508](https://clinicaltrials.gov/study/NCT06007508) | Fasa 2 | Ditamatkan | 8 | Pemberian awal glargine dalam DKA; ditamatkan dengan hanya 8 peserta, jadi tiada bukti keberkesanan yang boleh digunakan |
-| [NCT02930044](https://clinicaltrials.gov/study/NCT02930044) | NA | Selesai | 18 | Glargine subkutan awal ditambah penjagaan standard berbanding penjagaan standard sahaja di jabatan kecemasan, dengan fokus pada tempoh infusi insulin IV; saiz sampel kecil |
+Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [36479786](https://pubmed.ncbi.nlm.nih.gov/36479786/) | 2023 | RCT | Diabetes, Obesity & Metabolism | Menilai keberkesanan dan keselamatan glargine awal bersama infusi insulin IV berterusan berbanding infusi IV sahaja dalam DKA |
-| [40840711](https://pubmed.ncbi.nlm.nih.gov/40840711/) | 2025 | RCT | Endocrine Practice | Menilai glargine U100 dan U300 awal bersama insulin IV dalam DKA dewasa dengan diabetes jenis 1 |
-| [17508198](https://pubmed.ncbi.nlm.nih.gov/17508198/) | 2007 | RCT | Intensive Care Medicine | Kesan glargine subkutan terhadap kadar penyelesaian asidosis dan keperluan infusi insulin IV pada kanak-kanak dengan DKA sederhana dan teruk |
-| [26155506](https://pubmed.ncbi.nlm.nih.gov/26155506/) | 2015 | RCT | J Clin Diagn Res | Mengkaji kesan glargine terhadap pemulihan pesakit DKA |
-| [26013711](https://pubmed.ncbi.nlm.nih.gov/26013711/) | 2015 | RCT (perintis) | Academic Emergency Medicine | Mengkaji keberkesanan glargine subkutan bersama insulin IV dalam DKA di jabatan kecemasan |
-| [41208563](https://pubmed.ncbi.nlm.nih.gov/41208563/) | 2026 | Tinjauan sistematik dan meta-analisis RCT | Diabetes, Obesity & Metabolism | Menilai keberkesanan dan keselamatan insulin basal subkutan awal bersama infusi IV berbanding infusi IV sahaja |
-| [41657118](https://pubmed.ncbi.nlm.nih.gov/41657118/) | 2026 | Tinjauan sistematik dan meta-analisis RCT | Diabetes, Obesity & Metabolism | Membandingkan permulaan insulin bertindak panjang awal berbanding lewat dalam DKA kanak-kanak dan dewasa; garis panduan klinikal berbeza mengenai masa pemberian |
-| [41296041](https://pubmed.ncbi.nlm.nih.gov/41296041/) | 2025 | Tinjauan sistematik dan meta-analisis | Eur J Pediatr | Menilai sama ada insulin basal awal semasa fasa IV dalam DKA pediatrik memperbaik hasil tanpa bahaya tambahan; topik ini masih diperdebatkan |
-| [27861474](https://pubmed.ncbi.nlm.nih.gov/27861474/) | 2016 | Meta-analisis | Gaceta Médica de México | Pemberian bersama glargine sejak awal rawatan berpotensi mengelakkan hiperglisemia lantun dan memperbaik masa penyelesaian |
-| [39136541](https://pubmed.ncbi.nlm.nih.gov/39136541/) | 2024 | Ulasan | Journal of Diabetes | Beberapa kajian mencadangkan analog insulin bertindak panjang awal dapat memperbaik peralihan kepada insulin subkutan dalam DKA pediatrik |
+Buat masa ini tiada literatur berkaitan yang tersedia untuk autoimmune oophoritis.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Teks indikasi lulus dan bentuk dosej tidak tersedia dalam data yang dikumpulkan. Senarai di bawah menunjukkan 5 daripada 13 pendaftaran yang sah (11 bahan tunggal dan 2 kombinasi). Produk kombinasi (Soliqua) tidak disenaraikan kerana lesennya tidak menggambarkan status insulin glargine sebagai bahan tunggal.
+
+| Nombor Kelulusan | Nama Produk | Pengilang | Status |
+|---------|------|------|-----------|
+| MAL16065057AZ | BASALOG Insulin Glargine Injection (rDNA Origin) 100 IU/mL | Biocon Sdn Bhd | Sah |
+| MAL16075050AZ | Toujeo 300 units/ml Solution for Injection in Pre-Filled Pen | Sanofi-Aventis (Malaysia) Sdn. Bhd. | Sah |
+| MAL20081742AZ | Lantus SoloStar 100IU/ML Solution for Injection in a Pre-Filled Pen | Sanofi-Aventis (Malaysia) Sdn. Bhd. | Sah |
+| MAL25016118AZ | Basalin ElasPen 100 Units/mL Solution for Injection | Pharmaniaga Lifescience Sdn. Bhd. | Sah |
+| MAL25016119ACZ | Ezelin 100 IU/mL Solution for Injection in Pre-Filled Pen | Kalbe Malaysia Sdn Bhd | Sah |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Interaksi Ubat**: Pangkalan data interaksi merekodkan sejumlah 100 interaksi. Yang paling ketara berada pada tahap sederhana, antaranya:
-  - Agen simpatomimetik/beta-agonis: fenilefrin, epinefrin, pseudoefedrin, salbutamol, formoterol
-  - Penyekat beta: asebutolol
-  - Antidiabetik lain: metformin, pioglitazon, alogliptin, albiglutid
-  - Lain-lain: hidrokortison, etinilestradiol, estradiol, hidroklorotiazid, asetazolamid, doksisiklin, etanol, alpelisib
+**Interaksi Ubat** (daripada pangkalan data interaksi; 100 interaksi direkodkan, sebahagian besar ialah tahap sederhana). Antara yang utama:
+- **Sederhana**: fenilefrin, asebutolol, asetazolamida, formoterol, pseudoefedrin, doksisiklin, epinefrin, etinilestradiol, hidrokortison, albiglutida, salbutamol, etanol, hidroklorotiazida, alogliptin, metformin, pioglitazon, estradiol, alpelisib
+- **Minor**: hidrokortison (topikal), alklometason (topikal)
 
-  Beberapa interaksi bertahap minor melibatkan kortikosteroid topikal.
-
-Maklumat amaran utama dan kontraindikasi daripada sisipan pek tidak tersedia. Sila rujuk sisipan pek untuk maklumat keselamatan penuh.
+Maklumat amaran dan kontraindikasi daripada sisipan pakej belum tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan lanjut. Selain itu, lipodistrofi dan lipohipertrofi di tapak suntikan ialah kesan buruk insulin yang diketahui.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Bukti untuk glargine awal dalam DKA agak konsisten dari segi mekanisme dan terdapat beberapa RCT serta meta-analisis. Namun, ujian yang tersedia kebanyakannya kecil, ada yang ditamatkan atau berstatus tidak diketahui, dan tiada ujian Fasa 3 yang selesai.
-- DKA sudah merupakan indikasi asal, jadi ini soalan penyelidikan mengenai masa pemberian. Data pendaftaran tempatan menunjukkan tiada produk berdaftar, dan data keselamatan daripada sisipan pek belum tersedia. Kedua-duanya perlu dilengkapkan dahulu.
+Tiada ujian klinikal atau literatur yang mengkaji autoimmune oophoritis secara langsung, dan tiada hubungan mekanistik yang munasabah. Tahap bukti ialah L5 (ramalan model sahaja).
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Muat turun dan huraikan sisipan pek daripada laman web NPRA (amaran dan kontraindikasi)
-- Sahkan semula status pendaftaran dan pemasaran insulin glargine di Malaysia
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
-- Menilai secara kritikal meta-analisis terkini dan RCT dengan sampel lebih besar bagi hasil seperti masa penutupan jurang anion, hipoglisemia dan tempoh tinggal di hospital
-- Protokol keselamatan khusus untuk populasi tertentu (kanak-kanak, pesakit penjagaan rapi) dan pemantauan hipoglisemia
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Bukti praklinikal atau klinikal yang mengkaji insulin glargine dalam autoimmune oophoritis
+- Penilaian sama ada isyarat ini sekadar mencerminkan persamaan yang dipelajari oleh model TxGNN (pembelajaran mendalam) antara penyakit berkaitan, dan bukan bukti biologi
+
+---
+
+**Nota tambahan mengenai ramalan lain:** Sembilan ramalan teratas yang lain (termasuk thiamine-responsive dysfunction syndrome, stiff person syndrome, pancreatic agenesis dan pelbagai lipodistrofi setempat) juga kekal pada keputusan Hold. Kebanyakannya mencerminkan komorbiditi diabetes atau kesan buruk insulin, dan bukan isyarat penggunaan semula ubat yang sebenar. Pancreatic agenesis pula pada dasarnya ialah llanjutan indikasi asal (kekurangan insulin), dan literatur yang ditemui hanya berkaitan diabetes secara umum tanpa kajian glargine secara langsung.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

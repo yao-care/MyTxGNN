@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sunitinib
-parent: Low Evidence (L4-L5)
+parent: High Evidence (L1-L2)
 nav_order: 664
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Sunitinib: indikasi baharu diramal Liposarkoma (tahap bukti L5)."
+evidence_level: L2
+indication_count: 5
 monitor_inn: "Sunitinib"
-predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma"]
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
+last_modified_at: 2026-10-23
+description: "Sunitinib: indikasi baharu diramal Liposarkoma (tahap bukti L2). Indikasi asal: Tidak tersedia"
 ---
 
 # Sunitinib
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L2** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,95 +33,92 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Sunitinib: Daripada Indikasi Asal kepada Liposarkoma
+## Sunitinib: Daripada Perencat Kinase Tirosina Berbilang Sasaran kepada Liposarkoma
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Sunitinib ialah perencat tirosina kinase berbilang sasaran (VEGFR, PDGFR, KIT, RET, FLT3) yang menyekat angiogenesis tumor. Model TxGNN meramalkan ia mungkin berkesan untuk **liposarkoma**. Arah ini disokong oleh **2 ujian klinikal Fasa 2 yang telah selesai** dan **sekurang-kurangnya 1 penerbitan Fasa 2** daripada data yang dikumpulkan. Namun, kesemuanya adalah kajian label terbuka lengan tunggal atau campuran histologi, dan tiada data rawak atau Fasa 3.
+Sunitinib ialah perencat kinase tirosina reseptor berbilang sasaran (VEGFR, PDGFR, KIT, FLT3, RET) yang sudah didaftarkan di Malaysia. Teks indikasi lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini, jadi indikasi asalnya tidak dapat disahkan daripada sumber itu. Model TxGNN meramalkan ubat ini mungkin berkesan untuk **liposarkoma**, dengan **2 ujian klinikal** dan **9 penerbitan** yang disenaraikan. Namun, tiada ujian Fasa 3 dan hasil subkumpulan liposarkoma belum dapat disahkan.
 
----
-
-## Gambaran Keseluruhan
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
+| Indikasi Asal | Tidak tersedia (teks indikasi lesen kosong dalam data yang dikumpulkan) |
 | Indikasi Baharu yang Diramalkan | Liposarkoma |
-| Skor Ramalan TxGNN | 99.87% |
-| Tahap Bukti | L2 (dua kajian Fasa 2 selesai, bukan RCT) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9987 |
+| Tahap Bukti | L2 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 20 daripada 20) |
+| Bilangan Pendaftaran | 20 (sah: 20) |
 | Keputusan Disyorkan | Hold |
-
----
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Sunitinib menyekat reseptor VEGFR, PDGFR, KIT, RET dan FLT3. Dengan itu ia boleh menyekat angiogenesis tumor dan isyarat bergantung PDGFR dalam sarkoma tisu lembut. Mekanisme ini sudah diketahui dalam tumor pepejal lain yang mempunyai kebergantungan yang serupa.
+Data mekanisme tindakan terperinci tidak tersedia daripada pangkalan data rujukan. Berdasarkan pengetahuan am, sunitinib menyekat reseptor tirosina kinase seperti VEGFR dan PDGFR. Dengan itu, ia boleh menghalang angiogenesis tumor dan isyarat pertumbuhan sel tumor.
 
-Liposarkoma ialah salah satu sarkoma tisu lembut dewasa yang paling biasa. Rawatan sistemik untuk sarkoma kini semakin ditentukan oleh subjenis histologi, dan terapi bersasar menjadi sebahagian daripadanya. Dua kajian Fasa 2 yang selesai memberi isyarat klinikal langsung, dan salah satunya (PMID 21154746) menumpukan pada tiga histologi utama termasuk liposarkoma.
+Laluan VEGF dan PDGFR dipercayai menyumbang kepada pertumbuhan sarkoma tisu lembut, termasuk liposarkoma. Mekanisme ini wajar untuk dikaji dalam liposarkoma. Namun, pautan mekanistik ini disimpulkan daripada pengetahuan am dan bukan daripada set data yang dibekalkan, jadi ia perlu disahkan.
 
-Namun, aktiviti dalam subjenis liposarkoma nampaknya terhad dan tidak seragam. Tiada data rawak atau Fasa 3. Ramalan ini wajar dianggap sebagai persoalan penyelidikan, bukan pilihan rawatan yang mantap.
-
----
+Dua ujian Fasa 2 yang telah selesai dalam populasi sarkoma dan satu kajian Fasa 2 yang memfokuskan liposarkoma memberi sokongan klinikal yang langsung tetapi sederhana. Ramalan ini wajar dianggap sebagai soalan penyelidikan dan bukan bukti keberkesanan yang mantap.
 
 ## Bukti Ujian Klinikal
 
 | Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00474994](https://clinicaltrials.gov/study/NCT00474994) | Fasa 2 | Selesai | 53 | Sunitinib dos berterusan dalam sarkoma bukan GIST (metastatik, lanjut setempat atau berulang setempat). Kohort ini termasuk liposarkoma, tetapi kajian ini lengan tunggal dan campuran histologi. |
-| [NCT00400569](https://clinicaltrials.gov/study/NCT00400569) | Fasa 2 | Selesai | 48 | Kajian label terbuka satu pusat sunitinib dalam sarkoma tisu lembut metastatik atau tidak boleh dibedah (leiomiosarkoma, liposarkoma, fibrosarkoma, MFH). Keputusan khusus liposarkoma tidak disahkan daripada data yang ada. |
-
----
+| [NCT00474994](https://clinicaltrials.gov/study/NCT00474994) | Fasa 2 | Selesai | 53 | Kajian berbilang pusat sunitinib dos berterusan dalam sarkoma bukan GIST (metastatik, lanjut setempat atau berulang setempat). Hasil tidak disediakan, jadi isyarat keberkesanan dalam subkumpulan liposarkoma tidak dapat disahkan. |
+| [NCT00400569](https://clinicaltrials.gov/study/NCT00400569) | Fasa 2 | Selesai | 48 | Kajian label terbuka di satu pusat bagi sarkoma tisu lembut metastatik atau tidak boleh dibedah (termasuk leiomiosarkoma, liposarkoma, fibrosarkoma dan MFH). Hasil tidak disediakan. |
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [21154746](https://pubmed.ncbi.nlm.nih.gov/21154746/) | 2011 | Ujian Fasa 2 | Int J Cancer | Kajian Fasa 2 satu institusi tentang keselamatan dan keberkesanan sunitinib dalam sarkoma tisu lembut berulang atau refraktori, tertumpu pada leiomiosarkoma, liposarkoma dan MFH. |
-| [23482782](https://pubmed.ncbi.nlm.nih.gov/23482782/) | 2013 | Laporan kes | Anticancer Res | Manfaat klinikal berpanjangan dengan sunitinib pada satu kes liposarkoma metastatik yang telah menerima banyak rawatan terdahulu. |
-| [22987955](https://pubmed.ncbi.nlm.nih.gov/22987955/) | 2012 | Ulasan | Ann Oncol | Rawatan sarkoma tisu lembut dipacu histologi. Trabectedin menunjukkan aktiviti dalam liposarkoma, terutamanya liposarkoma miksoid. |
-| [24712007](https://pubmed.ncbi.nlm.nih.gov/24712007/) | 2014 | Ulasan | Magy Onkol | Rawatan perubatan sarkoma tisu lembut mengikut subjenis histologi, termasuk ubat sitotoksik dan terapi bersasar. |
-| [24555529](https://pubmed.ncbi.nlm.nih.gov/24555529/) | 2014 | Ulasan | Expert Rev Anticancer Ther | Terapi baharu untuk sarkoma tisu lembut dewasa. Pembedahan ialah asas rawatan, dan kemoterapi sitotoksik berperanan dalam penyakit yang tidak boleh dibedah. |
-| [38254762](https://pubmed.ncbi.nlm.nih.gov/38254762/) | 2024 | Kajian pemprofilan molekul | Cancers | Perubahan genetik, epigenetik dan transkriptom dalam liposarkoma untuk pemilihan terapi bersasar. |
+| [21154746](https://pubmed.ncbi.nlm.nih.gov/21154746/) | 2011 | Kajian Fasa 2 (dikelaskan sebagai RCT) | International Journal of Cancer | Kajian Fasa 2 satu institusi tentang keselamatan dan keberkesanan sunitinib dalam sarkoma tisu lembut berulang atau refraktori, dengan tumpuan kepada leiomiosarkoma, liposarkoma dan MFH. |
+| [23482782](https://pubmed.ncbi.nlm.nih.gov/23482782/) | 2013 | Laporan kes | Anticancer Research | Satu kes liposarkoma metastatik yang telah menerima banyak rawatan terdahulu, dengan manfaat klinikal jangka panjang daripada sunitinib. |
+| [38254762](https://pubmed.ncbi.nlm.nih.gov/38254762/) | 2024 | Profil molekul | Cancers | Perubahan genetik, epigenetik dan transkriptom dalam liposarkoma untuk pemilihan terapi sasaran. |
+| [24555529](https://pubmed.ncbi.nlm.nih.gov/24555529/) | 2014 | Ulasan | Expert Review of Anticancer Therapy | Terapi baharu bagi sarkoma tisu lembut dewasa. |
+| [24712007](https://pubmed.ncbi.nlm.nih.gov/24712007/) | 2014 | Ulasan | Magyar Onkologia | Rawatan perubatan sarkoma tisu lembut berdasarkan subjenis histologi. |
+| [22987955](https://pubmed.ncbi.nlm.nih.gov/22987955/) | 2012 | Ulasan | Annals of Oncology | Terapi berasaskan histologi dan bukan histologi untuk sarkoma tisu lembut. |
 
----
+## Maklumat Pasaran di Malaysia
+
+Berikut ialah 5 daripada 20 pendaftaran yang sah. Semuanya produk ubat tunggal sunitinib. Bentuk dos dan teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan.
+
+| Nombor Kebenaran | Nama Produk | Pengilang |
+|---------|------|------|
+| MAL20071632AZ | SUTENT 12.5MG CAPSULE | Pfizer (Malaysia) Sdn. Bhd. |
+| MAL22126049AZ | Alsuni Capsules 50mg | Lotus Healthcare Malaysia Sdn. Bhd. |
+| MAL23036020AZ | Nibinase 12.5 | Ranbaxy (Malaysia) Sdn. Bhd. |
+| MAL24096044AZ | SKYTINIB 25 | Synerrv Sdn Bhd |
+| MAL25086009AZ | GISTMED 50 | Unimed Sdn. Bhd. |
 
 ## Sitotoksisiti
 
 | Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Terapi bersasar (perencat tirosina kinase berbilang sasaran) |
-| Risiko Penindasan Sumsum Tulang | Literatur yang dikumpulkan menyebut mielosupresi antara kesan sampingan sunitinib; kadar risiko terperinci sila rujuk sisipan pakej |
-| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
-| Item Pemantauan | Hemogram lengkap (CBC), fungsi hati dan buah pinggang, elektrolit. Literatur turut melaporkan kardiotoksisiti dan neurotoksisiti, maka pemantauan kardiovaskular dan neurologi wajar dipertimbangkan. |
-| Perlindungan Pengendalian | Ikuti peraturan pengendalian ubat antineoplastik di institusi |
-
----
+| Klasifikasi Sitotoksisiti | Terapi tersasar (perencat kinase tirosina) |
+| Risiko Penyahan Sumsum Tulang | Sila rujuk amaran dan langkah berjaga-jaga dalam risalah pakej |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam risalah pakej |
+| Perkara Pemantauan | Sila rujuk risalah pakej (lazimnya meliputi kiraan darah penuh serta fungsi hati dan buah pinggang) |
+| Perlindungan Pengendalian | Sila rujuk risalah pakej dan garis panduan pengendalian ubat antineoplastik |
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat**: Pangkalan data interaksi merekodkan **100 interaksi**. Antara yang disenaraikan:
-- **Major**: Dolasetron
-- **Moderate**: Famotidine, loperamide, dexamethasone, bisacodyl, clarithromycin, palonosetron, chlorpropamide, glimepiride, pelbagai jenis insulin, serta bahan julap atau penyediaan usus (picosulfuric acid, polyethylene glycol, sodium sulfate)
+**Interaksi Ubat**: Pertanyaan interaksi ubat telah selesai dan mengesan 100 interaksi. Satu daripadanya bertahap **Major**, iaitu **dolasetron**. Antara interaksi bertahap **Sederhana** ialah famotidina, loperamida, deksametason, bisakodil, klorpropamida, klaritromisin, glimepirida, palonosetron, asid pikosulfurik, natrium sulfat, polietilena glikol (3350 dengan elektrolit) serta pelbagai insulin (aspart, degludec, detemir, glargine, glulisine, insulin manusia). Untuk pesakit yang menggunakan agen antidiabetes, perhatian khusus diperlukan.
 
-Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
-
----
+Untuk amaran utama dan kontraindikasi, sila rujuk risalah pakej.
 
 ## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Hold**
 
 **Rasional:**
-- Bukti untuk liposarkoma hanya terdiri daripada kajian Fasa 2 lengan tunggal atau campuran histologi. Aktiviti dalam subjenis liposarkoma nampaknya terhad dan tidak seragam, dan tiada data rawak atau Fasa 3.
-- Sunitinib tidak berdaftar di Malaysia berdasarkan data yang dikumpulkan, dan maklumat keselamatan daripada label tempatan belum tersedia.
+- Terdapat bukti Fasa 2 yang menyentuh liposarkoma secara langsung (L2). Namun, hasil subkumpulan liposarkoma belum dapat disahkan, tiada ujian Fasa 3, dan data keselamatan daripada risalah pakej belum diperoleh. Ketiadaan data keselamatan ini menghalang kemajuan ke peringkat saringan keselamatan, jadi ramalan ini wajar kekal sebagai soalan penyelidikan sehingga jurang tersebut diisi.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi, supaya saringan keselamatan dapat dibuat.
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
-- Data keberkesanan khusus subjenis liposarkoma (contohnya liposarkoma dediferensiasi dan miksoid) daripada kajian Fasa 2 di atas.
-- Pengesahan status pendaftaran tempatan dan data indikasi asal, kerana keputusan data semasa mungkin merupakan jurang data. Sunitinib diketahui sebagai rawatan mantap untuk karsinoma sel renal, dan indikasi RCC dalam ramalan lain (contohnya karsinoma sel renal sel jernih, tahap bukti L1 dengan bukti Fasa 3 seperti ASSURE dan CLEAR) mempunyai sokongan yang jauh lebih kukuh daripada liposarkoma.
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Muat turun dan huraikan risalah pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang).
+- Data mekanisme tindakan daripada DrugBank.
+- Hasil terperinci subkumpulan liposarkoma daripada NCT00474994 dan NCT00400569.
+- Pengesahan indikasi lesen tempatan, kerana teks indikasi lesen kosong dalam data yang dikumpulkan.
+- Pelan pemantauan keselamatan, termasuk pengurusan interaksi ubat bertahap Major dan Sederhana.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

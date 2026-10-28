@@ -6,9 +6,9 @@ nav_order: 571
 evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Phenylalanine: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L4). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "PHENYLALANINE"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
+description: "Phenylalanine: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Phenylalanine
@@ -33,12 +33,11 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-## Phenylalanine: Daripada Tiada Indikasi Berdaftar kepada Kolangitis Sklerosis
+## Phenylalanine: Kolangitis sklerosis (sclerosing cholangitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Phenylalanine ialah asid amino aromatik penting yang tidak mempunyai indikasi berdaftar di Malaysia kerana ia tidak dipasarkan di sini.
 Model TxGNN meramalkan ia mungkin berkesan untuk **kolangitis sklerosis (sclerosing cholangitis)**,
 tetapi setakat ini terdapat **0 ujian klinikal** dan hanya **3 penerbitan** yang berkaitan secara tidak langsung dengan arah ini.
 
@@ -48,23 +47,23 @@ tetapi setakat ini terdapat **0 ujian klinikal** dan hanya **3 penerbitan** yang
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Kolangitis sklerosis (sclerosing cholangitis) |
-| Skor Ramalan TxGNN | 99.43% |
+| Skor Ramalan TxGNN | 0.9943 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 35 daripada 35) |
+| Bilangan Pendaftaran | 35 (sah: 35) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) phenylalanine tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Phenylalanine ialah asid amino penting dan prekursor kepada tirosina. Tiada indikasi asal yang berdaftar di Malaysia, maka hubungan dengan indikasi baharu tidak dapat dinilai secara terus.
+Data terperinci mengenai mekanisme tindakan (MOA) phenylalanine tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Tiada indikasi asal yang berdaftar di Malaysia, maka hubungan dengan indikasi baharu tidak dapat dinilai secara terus.
 
 Dari segi bukti, tiada hubungan mekanistik langsung yang dapat ditubuhkan antara phenylalanine dan kolangitis sklerosis. Literatur yang ada hanya mengaitkan metabolisme asid amino aromatik (kepekatan tirosina plasma, produk hiliran phenylalanine) dengan keletihan pada pesakit sirosis biliari primer dan kolangitis sklerosis primer. Ini ialah perkaitan tidak langsung dengan gejala penyakit, dan bukan bukti manfaat terapeutik.
 
-Skor TxGNN yang tinggi (0.994) hanyalah ramalan pengiraan. Tanpa data MOA dan tanpa produk dipasarkan, tiada laluan farmakologi yang boleh disemak silang.
+Skor TxGNN yang tinggi (0.9943) hanyalah ramalan pengiraan. Tanpa data MOA dan tanpa produk dipasarkan, tiada laluan farmakologi yang boleh disemak silang.
 
 ---
 
@@ -86,7 +85,6 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Phenylalanine pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar.
 
 ---
 
@@ -109,7 +107,7 @@ Untuk amaran utama, kontraindikasi berdasarkan label, dan interaksi ubat, sila r
 **Keputusan: Hold (Tangguh)**
 
 **Justifikasi:**
-- Ramalan TxGNN yang tinggi tidak disokong oleh ujian klinikal atau bukti terapeutik; literatur yang ada hanya menunjukkan perkaitan tidak langsung dengan gejala. Ubat ini juga tidak dipasarkan di Malaysia dan tiada data MOA.
+- Ramalan TxGNN yang tinggi tidak disokong oleh ujian klinikal atau bukti terapeutik; literatur yang ada hanya menunjukkan perkaitan tidak langsung dengan gejala.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci
@@ -120,7 +118,7 @@ Untuk amaran utama, kontraindikasi berdasarkan label, dan interaksi ubat, sila r
 
 ---
 
-**Nota tambahan:** Indikasi ramalan kedua, **kekurangan protrombin kongenital**, mempunyai skor TxGNN 99.26% tetapi tiada ujian klinikal atau literatur sokongan (tahap bukti L5), dan tiada hubungan mekanistik yang dikenal pasti. Keputusan yang disyorkan juga Hold.
+**Nota tambahan:** Indikasi ramalan kedua, **kekurangan protrombin kongenital**, mempunyai skor TxGNN 0.9926 tetapi tiada ujian klinikal atau literatur sokongan (tahap bukti L5), dan tiada hubungan mekanistik yang dikenal pasti. Keputusan yang disyorkan juga Hold.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

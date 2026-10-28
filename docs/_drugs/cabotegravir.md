@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 178
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Cabotegravir: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L5). Indikasi asal: Tiada maklumat indikasi berdaftar tempatan dalam data yang dikumpulka…"
 monitor_inn: "CABOTEGRAVIR"
 predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "bronchitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "severe nonproliferative diabetic retinopathy"]
+last_modified_at: 2026-10-27
+description: "Cabotegravir: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Cabotegravir
@@ -33,83 +33,68 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Cabotegravir: Daripada Jangkitan HIV-1 kepada Artritis Reumatoid
+## Cabotegravir: perencat integrase HIV-1 (INSTI) → Artritis reumatoid (rheumatoid arthritis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Cabotegravir ialah perencat integrase HIV-1 (INSTI) yang digunakan untuk rawatan dan pencegahan jangkitan HIV-1. Model TxGNN meramalkan ia mungkin berkesan untuk **artritis reumatoid** dengan skor tinggi, tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model pengiraan.
+Cabotegravir ialah perencat pemindahan untai integrase HIV-1 (INSTI). Model TxGNN meramalkan ia mungkin berkesan untuk **Artritis reumatoid (rheumatoid arthritis)**, tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini; ia hanya berasaskan ramalan model.
 
----
-
-## Gambaran Keseluruhan Pantas
+## Gambaran Keseluruhan Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada maklumat indikasi berdaftar tempatan dalam data yang dikumpulkan. Menurut pengetahuan am, ia ialah perencat integrase HIV-1 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Artritis reumatoid (rheumatoid arthritis) |
-| Skor Ramalan TxGNN | 99.45% |
+| Skor Ramalan TxGNN | 0,9945 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
----
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
+| Syor Keputusan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, cabotegravir ialah perencat integrase strand transfer (INSTI) yang menyasarkan enzim virus HIV-1. Kesannya dalam jangkitan HIV-1 diketahui, tetapi **tiada hubungan mekanisme yang jelas** dengan artritis reumatoid.
+Data terperinci tentang mekanisme tindakan tidak tersedia pada masa ini. Cabotegravir diketahui sebagai perencat integrase HIV-1, tetapi tiada laluan bergantung integrase yang munasabah dalam patogenesis artritis reumatoid (contohnya isyarat TNF, IL-6 atau JAK/STAT) telah dikenal pasti.
 
-Patogenesis artritis reumatoid melibatkan laluan seperti TNF, IL-6 dan isyarat JAK/STAT. Tiada laluan bergantung integrase yang munasabah telah dikenal pasti dalam penyakit ini. Skor tinggi (0.995) merupakan ramalan graf pengetahuan sahaja, dan sebarang hipotesis memerlukan pengesahan *in vitro* secara bebas.
+Skor yang tinggi (0,9945) ialah hasil ramalan model komputasi sahaja. Sebarang hipotesis memerlukan pengesahan in vitro yang bebas sebelum boleh dipertimbangkan.
 
-Indikasi lain yang diramalkan model juga tidak mempunyai sokongan bukti (semuanya L5, Hold):
+## Bukti Ujian Klinikal
 
-| Kedudukan | Penyakit | Skor TxGNN | Catatan |
-|------|------|------|------|
-| 2 | Kolangitis sklerosis | 99.22% | Tiada hubungan mekanisme. Cabotegravir dimetabolismekan di hati melalui UGT1A1, maka keselamatan hepatobilier perlu dipertimbangkan |
-| 3 | Bronkitis | 99.19% | Tiada aktiviti antibakteria; bronkitis akut kebanyakannya virus atau sembuh sendiri |
-| 4 | Sindrom displasia rizomelik-mikroftalmia kolobomatus | 99.16% | Gangguan genetik sangat jarang; ubat antivirus molekul kecil tidak mungkin membetulkan kecacatan kongenital |
-| 5 | Retinopati diabetik bukan proliferatif teruk | 99.03% | Tiada kaitan dengan laluan VEGF, keradangan atau mikrovaskular; penghantaran okular dan keselamatan belum dicirikan |
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
----
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Berdasarkan data yang dikumpulkan, cabotegravir **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar dengan NPRA.
-
----
+Rekod pendaftaran tempatan menunjukkan status pasaran **Dipasarkan**, dengan 2 lesen sah dan tiada lesen yang dibatalkan. Butiran lesen tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat (DDI):** Sebanyak 7 interaksi tahap **sederhana** dikesan (sumber: DDInter), semuanya melibatkan antasid atau agen yang mengandungi kation polivalen:
+- **Interaksi Ubat**: Sebanyak 7 interaksi tahap sederhana (Moderate) dikenal pasti, semuanya melibatkan antasid atau agen yang mengandungi kation polivalen:
+  - Kalsium karbonat
+  - Aluminium hidroksida
+  - Magnesium karbonat
+  - Magnesium hidroksida
+  - Magnesium oksida
+  - Natrium bikarbonat
+  - Natrium sitrat
 
-- Kalsium karbonat
-- Aluminium hidroksida
-- Magnesium karbonat
-- Magnesium hidroksida
-- Magnesium oksida
-- Natrium bikarbonat
-- Natrium sitrat
-
-Secara umum, kation polivalen boleh mengurangkan penyerapan perencat integrase, jadi masa pengambilan perlu dipertimbangkan. Pengesahan daripada risalah maklumat produk diperlukan.
-
-Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
-
----
+Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk (package insert).
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan artritis reumatoid hanya berdasarkan model (L5), tanpa percubaan klinikal, penerbitan atau hubungan mekanisme yang munasabah. Ubat ini juga tidak dipasarkan di Malaysia.
+Ramalan ini hanya berasaskan model, tanpa sebarang ujian klinikal atau penerbitan yang mengkaji artritis reumatoid secara langsung, dan tiada hubungan mekanisme yang jelas. Tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data amaran dan kontraindikasi daripada risalah maklumat produk NPRA (jurang data yang menghalang penyaringan keselamatan)
-- Data mekanisme tindakan (MOA) daripada DrugBank
-- Pengesahan *in vitro* atau praklinikal terhadap hipotesis mekanisme dalam artritis reumatoid
-- Kajian keselamatan hepatobilier dan kesesuaian laluan pentadbiran, jika indikasi lain (cth. kolangitis sklerosis) dipertimbangkan
-- Pendaftaran produk di Malaysia, jika pembangunan klinikal diteruskan
+- Data mekanisme tindakan (MOA) yang terperinci
+- Hipotesis mekanisme yang dapat disahkan melalui kajian in vitro dan praklinikal
+- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA untuk penilaian keselamatan
+- Penilaian keserasian laluan pemberian dan formulasi bagi indikasi sasaran
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

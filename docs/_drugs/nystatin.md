@@ -6,9 +6,9 @@ nav_order: 535
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Nystatin: indikasi baharu diramal Vulvovaginitis (tahap bukti L3). Indikasi asal: Kandidiasis kulit, kandidiasis mulut, kandidiasis…"
 monitor_inn: "Nystatin"
 predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+description: "Nystatin: indikasi baharu diramal Vulvovaginitis (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Nystatin
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-## Nystatin: Daripada Kandidiasis kepada Vulvovaginitis
+## Nystatin: Vulvovaginitis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi data yang dikompilkan untuk laporan ini mencatatkan **0 percubaan klinika
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Kandidiasis kulit, kandidiasis mulut, kandidiasis, kandidiasis vulvovaginal (berdasarkan graf pengetahuan TxGNN/PrimeKG) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Vulvovaginitis |
-| Skor Ramalan TxGNN | 99.92% |
+| Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
+| Bilangan Pendaftaran | 11 (sah: 11) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -95,7 +95,6 @@ Berikut ialah penerbitan terpilih (kebanyakannya ulasan; tiada RCT dikenal pasti
 
 ## Maklumat Pasaran Malaysia
 
-Nystatin pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan dalam data yang dikompilkan.
 
 ---
 
@@ -113,7 +112,7 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Bukti hanya berbentuk ulasan dan ringkasan klinikal tanpa percubaan klinikal, dan ramalan ini pada dasarnya lanjutan indikasi sedia ada (kandidiasis vulvovaginal) dan bukan penggunaan semula sebenar. Ubat ini juga tidak dipasarkan di Malaysia, dan data keselamatan rasmi yang penting masih tiada sehingga saringan keselamatan tidak boleh diteruskan.
+- Bukti hanya berbentuk ulasan dan ringkasan klinikal tanpa percubaan klinikal, dan ramalan ini pada dasarnya lanjutan indikasi sedia ada (kandidiasis vulvovaginal) dan bukan penggunaan semula sebenar.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang)

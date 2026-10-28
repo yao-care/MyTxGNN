@@ -3,18 +3,18 @@ layout: default
 title: Citric Acid
 parent: Low Evidence (L4-L5)
 nav_order: 226
-evidence_level: L4
+evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-15
-description: "Citric Acid: indikasi baharu diramal Penyakit perut (stomach disease) (tahap bukti L4). Indikasi asal: Dispepsia"
 monitor_inn: "CITRIC ACID"
 predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
+last_modified_at: 2026-10-27
+description: "Citric Acid: indikasi baharu diramal Penyakit perut (stomach disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Citric Acid
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **8** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,95 +33,75 @@ Tahap bukti: **L4** | Indikasi diramal: **8**
 
 </div>
 
-## Asid Sitrik: Daripada Dispepsia kepada Penyakit Perut (Stomach Disease)
+## Asid Sitrik: Asid organik/pengasid → Penyakit perut (stomach disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Asid sitrik (citric acid) ialah sebatian asid organik yang, berdasarkan graf pengetahuan TxGNN, dikaitkan dengan indikasi asal **dispepsia** dan **gangguan sakit kepala**.
-Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit perut (stomach disease)**,
-tetapi pada masa ini **tiada ujian klinikal** didaftarkan dan hanya terdapat **20 penerbitan** yang kebanyakannya tidak berkaitan secara langsung dengan kesan terapeutik.
+Asid sitrik ialah asid organik yang digunakan sebagai pengasid dan pelarasan pH dalam pelbagai produk farmaseutikal dan makanan.
+Model TxGNN meramalkan ia mungkin berguna untuk **penyakit perut (stomach disease)**,
+tetapi **tiada percubaan klinikal** didaftarkan dan tiada kajian yang menilai kesan terapeutik secara langsung bagi penyakit ini; hanya penerbitan umum atau sampingan ditemui.
 
----
-
-## Gambaran Keseluruhan Pantas
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Dispepsia; gangguan sakit kepala (berdasarkan graf pengetahuan TxGNN, bukan teks label produk) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Penyakit perut (stomach disease) |
-| Skor Ramalan TxGNN | 99.74% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
----
+| Skor Ramalan TxGNN | 0,9974 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 27 daripada 27) |
+| Bilangan Pendaftaran | 27 (sah: 27) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, asid sitrik berfungsi sebagai pengasid dan pengubah suai pH gastrik. Ia dikaitkan dengan dispepsia, iaitu salah satu indikasi asalnya, dan secara mekanistik mungkin berkaitan dengan keadaan perut yang lain.
+Data terperinci mengenai mekanisme tindakan belum tersedia. Asid sitrik dikenali sebagai pengasid dan pengubah pH gastrik. Secara teori, sifat ini mungkin berkaitan dengan fungsi dan keasidan perut.
 
-Satu penemuan yang berkaitan ialah hidangan ujian asid sitrik yang melambatkan pengosongan gastrik dan meningkatkan ketepatan ujian nafas urea-13C untuk mengesan *H. pylori*. Namun, ini ialah **bantuan diagnostik**, bukan kesan terapeutik. Literatur lain yang diperoleh (diet untuk penyakit ulser, metabolisme *H. pylori*, cuproptosis dalam kanser gastrik) bersifat umum atau tidak berkaitan secara langsung.
+Namun, bukti yang ditemui tidak menyokong kesan terapeutik. Penerbitan yang berkaitan dengan perut kebanyakannya ialah: penggunaan hidangan asid sitrik untuk meningkatkan ketepatan ujian nafas urea-13C bagi pengesanan *H. pylori* (alat diagnostik, bukan rawatan); kajian metabolomik kanser gastrik; serta ulasan umum tentang diet dan ulser. Skor TxGNN yang tinggi mencerminkan hubungan rangkaian sedia ada dan bukan data keberkesanan klinikal.
 
-Skor TxGNN yang tinggi kemungkinan besar mencerminkan kaitan sedia ada dengan dispepsia dalam graf pengetahuan, dan **tidak disokong oleh data keberkesanan klinikal**.
+Disebabkan tiada kajian yang menilai penyakit ini secara langsung, tahap bukti ditetapkan pada L5 (ramalan model sahaja).
 
----
+## Bukti Percubaan Klinikal
 
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
-
----
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Berikut ialah penerbitan yang paling relevan (kebanyakannya ulasan, kajian diagnostik atau kajian metabolomik; tiada RCT):
-
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [31505905](https://pubmed.ncbi.nlm.nih.gov/31505905/) | 2019 | Kajian klinikal (diagnostik) | Gut and Liver | Membincangkan kegunaan hidangan asid sitrik untuk meningkatkan ketepatan ujian nafas urea-13C bagi populasi Asia |
-| [30970440](https://pubmed.ncbi.nlm.nih.gov/30970440/) | 2019 | Kajian klinikal | Gut and Liver | Kesan asid sitrik terhadap ketepatan ujian nafas urea-13C selepas terapi pembasmian *H. pylori* di kawasan dengan gastritis atrofik yang tinggi |
-| [15854177](https://pubmed.ncbi.nlm.nih.gov/15854177/) | 2005 | Kajian fisiologi | Aliment Pharmacol Ther | Kesan asid organik berbeza (sitrik, malik, askorbik) terhadap aktiviti urease intragastrik |
-| [2072799](https://pubmed.ncbi.nlm.nih.gov/2072799/) | 1991 | Ulasan | Med Clin North Am | Diet dan pemakanan dalam penyakit ulser; sekatan diet ketat tidak disokong oleh bukti |
-| [9889978](https://pubmed.ncbi.nlm.nih.gov/9889978/) | 1998 | Ulasan | Adv Microb Physiol | Fisiologi dan metabolisme *Helicobacter pylori* |
-| [39539553](https://pubmed.ncbi.nlm.nih.gov/39539553/) | 2024 | Ulasan | Front Immunol | Peranan cuproptosis dalam kanser gastrik |
-| [35900644](https://pubmed.ncbi.nlm.nih.gov/35900644/) | 2022 | Kohort/Metabolomik | Metabolomics | Paras serum L-karnitina dan asid sitrik yang tinggi dikesan pada rakyat Korea sebelum kanser gastrik bermula |
+| [31505905](https://pubmed.ncbi.nlm.nih.gov/31505905/) | 2019 | Kajian klinikal (diagnostik) | Gut and liver | Ulasan tentang penggunaan hidangan asid sitrik untuk meningkatkan ketepatan ujian nafas urea-13C di Asia; fungsi diagnostik |
+| [30970440](https://pubmed.ncbi.nlm.nih.gov/30970440/) | 2019 | Kajian klinikal | Gut and liver | Kesan asid sitrik terhadap ketepatan ujian nafas urea-13C selepas pembasmian *H. pylori* |
+| [15854177](https://pubmed.ncbi.nlm.nih.gov/15854177/) | 2005 | Kajian eksperimen | Aliment Pharmacol Ther | Kesan asid organik (sitrik, malik, askorbik) terhadap aktiviti urease dalam perut |
+| [2072799](https://pubmed.ncbi.nlm.nih.gov/2072799/) | 1991 | Ulasan | Med Clin North Am | Diet dan pemakanan dalam penyakit ulser; sekatan diet tidak disokong |
+| [9889978](https://pubmed.ncbi.nlm.nih.gov/9889978/) | 1998 | Ulasan | Adv Microb Physiol | Fisiologi dan metabolisme *H. pylori* |
+| [35900644](https://pubmed.ncbi.nlm.nih.gov/35900644/) | 2022 | Kohort/Metabolomik | Metabolomics | Paras serum asid sitrik dan L-karnitin yang tinggi dikesan sebelum kanser gastrik di Korea |
+| [39539553](https://pubmed.ncbi.nlm.nih.gov/39539553/) | 2024 | Ulasan | Front Immunol | Peranan cuproptosis dalam kanser gastrik; hubungan umum |
 
----
+## Maklumat Pasaran Malaysia
+
+Data yang dikumpulkan menunjukkan status pasaran **dipasarkan**, dengan 27 lesen sah. Senarai terperinci lesen dijana oleh program tapak.
 
 ## Pertimbangan Keselamatan
 
-**Penyakit/keadaan yang dikaitkan dengan kontraindikasi (berdasarkan graf pengetahuan TxGNN, bukan teks label produk):**
-hipertensi, penyakit buah pinggang dan kemerosotan fungsi renal, anuria, penyakit hati, penyakit pundi hempedu, trombositopenia dan purpura trombositopenik, kegagalan jantung kongestif, insufisiensi adrenal (termasuk penyakit Addison dan hiperplasia adrenal kongenital), penyakit ulser peptik, gout, hiperkalsemia, nefrokalsinosis, gangguan metabolisme fosforus, anemia (termasuk anemia makrositik), hemofilia, penyalahgunaan/ketagihan bahan, penyakit cirit-birit kronik, dan piouretra.
+**Interaksi Ubat** (15 interaksi direkodkan):
+- **Major**: aluminium hidroksida.
+- **Sederhana**: kumpulan kuinolon/fluorokuinolon, iaitu sinoksasin, siprofloksasin, enoksasin, gatifloksasin, gemifloksasin, levofloksasin, lomefloksasin, moksifloksasin, asid nalidiksik, norfloksasin, ofloksasin, trovafloksasin, grepafloksasin dan sparfloksasin.
 
-**Interaksi Ubat:** Sebanyak 15 interaksi dikesan.
-- **Major:** Aluminium hidroksida
-- **Moderate:** Kumpulan kuinolon/fluorokuinolon, iaitu sinoksasin, siprofloksasin, enoksasin, gatifloksasin, gemifloksasin, levofloksasin, lomefloksasin, moksifloksasin, asid nalidiksik, norfloksasin, ofloksasin, trovafloksasin, grepafloksasin dan sparfloksasin
-
-Amaran utama dan kontraindikasi daripada sisipan pakej tidak dapat diperoleh. Sila rujuk sisipan pakej untuk maklumat keselamatan.
-
----
+Maklumat amaran utama dan kontraindikasi daripada sisipan pakej belum tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan lanjut.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Ramalan ini tidak disokong oleh sebarang ujian klinikal, dan literatur yang ada hanya menunjukkan peranan diagnostik (ujian nafas urea) atau bersifat umum. Tiada bukti keberkesanan terapeutik untuk penyakit perut. Produk ini juga tidak dipasarkan di Malaysia.
+Ramalan ini tidak disokong oleh sebarang percubaan klinikal atau kajian yang menilai kesan terapeutik asid sitrik pada penyakit perut secara langsung. Bukti sedia ada hanya berkaitan peranan diagnostik dan kajian umum, maka tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
-- Data mekanisme tindakan (MOA) terperinci
-- Ujian klinikal atau kajian terkawal yang menilai asid sitrik secara terapeutik untuk keadaan perut yang khusus
-- Penjelasan tentang indikasi perut yang tepat (contohnya dispepsia berbanding penyakit perut secara umum) dan laluan pentadbiran yang sesuai
-- Penilaian risiko interaksi, terutamanya dengan antasid yang mengandungi aluminium dan fluorokuinolon
-
----
-
-### Nota Tambahan: Ramalan Lain
-
-Ramalan lain mempunyai bukti yang lebih lemah dan juga disyorkan **Hold**: faringitis (L4), rinitis (L4), laringofaringitis akut, sindrom pasca-gastrektomi, penyakit rongga hidung, konjunktivitis papilari dan blefarokonjunktivitis (semuanya L5, ramalan model sahaja).
+- Data mekanisme tindakan yang terperinci
+- Kajian praklinikal atau klinikal yang menyasarkan penyakit perut secara khusus, dengan definisi populasi dan hasil yang jelas
+- Semakan amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA
+- Penilaian risiko interaksi dengan antasid yang mengandungi aluminium dan antibiotik kuinolon
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

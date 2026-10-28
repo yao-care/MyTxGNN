@@ -6,9 +6,9 @@ nav_order: 706
 evidence_level: L3
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Tryptophan: indikasi baharu diramal Sindrom kaki gelisah (restless legs syndrome) (tahap bukti L3). Indikasi asal: Tiada data (tiada lesen berdaftar)"
 monitor_inn: "TRYPTOPHAN"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
+description: "Tryptophan: indikasi baharu diramal Sindrom kaki gelisah (restless legs syndrome) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Tryptophan
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **8**
 
 </div>
 
-## Triptofan: Daripada Tiada Indikasi Berdaftar kepada Sindrom Kaki Gelisah (Restless Legs Syndrome)
+## Tryptophan: Sindrom kaki gelisah (restless legs syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom kaki gelisah (restles
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen berdaftar) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Sindrom kaki gelisah (restless legs syndrome) |
-| Skor Ramalan TxGNN | 99.72% |
+| Skor Ramalan TxGNN | 0.9972 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 32 daripada 32) |
+| Bilangan Pendaftaran | 32 (sah: 32) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -118,7 +118,6 @@ Yang bertahap **Moderate** termasuk morfin, kodein, hidrokodon, siproheptadin, o
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
 - Semakan semula kajian 1986–1987 dan RCT moden terkawal plasebo dalam sindrom kaki gelisah.
 - Penilaian risiko pemburukan serotonergik dan pelan pemantauan interaksi ubat.
-- Penilaian laluan pendaftaran/pembekalan, memandangkan produk tidak dipasarkan di Malaysia.
 
 ---
 
@@ -126,11 +125,11 @@ Yang bertahap **Moderate** termasuk morfin, kodein, hidrokodon, siproheptadin, o
 
 | Indikasi | Skor TxGNN | Tahap Bukti | Keputusan | Ringkasan |
 |------|------|------|------|------|
-| Insomnia | 99.47% | L3 | Research Question | Kajian lama (1983, 1987) menguji L-triptofan dengan kesan sederhana/bercampur; garis panduan AASM tidak mengesyorkannya |
-| Glaukoma sudut terbuka | 99.50% | L4 | Hold | Hanya penemuan biopenanda berkaitan; arah kesan tidak diketahui |
-| Glaukoma keturunan primer | 99.57% | L5 | Hold | Hanya skor ramalan, tiada bukti |
-| Methemoglobinemia (dan varian alfa, kekurangan reduktase) | 99.30% / 99.18% / 99.08% | L5 | Hold | Tiada kaitan mekanistik; kemungkinan artifak kedekatan rangkaian |
-| Kekurangan protrombin kongenital | 99.01% | L5 | Hold | Hanya ramalan, tiada mekanisme munasabah |
+| Insomnia | 0.9947 | L3 | Research Question | Kajian lama (1983, 1987) menguji L-triptofan dengan kesan sederhana/bercampur; garis panduan AASM tidak mengesyorkannya |
+| Glaukoma sudut terbuka | 0.9950 | L4 | Hold | Hanya penemuan biopenanda berkaitan; arah kesan tidak diketahui |
+| Glaukoma keturunan primer | 0.9957 | L5 | Hold | Hanya skor ramalan, tiada bukti |
+| Methemoglobinemia (dan varian alfa, kekurangan reduktase) | 0.9930 / 0.9918 / 0.9908 | L5 | Hold | Tiada kaitan mekanistik; kemungkinan artifak kedekatan rangkaian |
+| Kekurangan protrombin kongenital | 0.9901 | L5 | Hold | Hanya ramalan, tiada mekanisme munasabah |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

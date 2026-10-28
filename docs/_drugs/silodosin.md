@@ -50,10 +50,10 @@ tetapi ramalan ini **tidak disokong oleh sebarang percubaan klinikal (0) atau pe
 |------|------|
 | Indikasi Asal | Hiperplasia prostat benigna (benign prostatic hyperplasia) |
 | Indikasi Baharu yang Diramalkan | Ambras type hypertrichosis universalis congenita |
-| Skor Ramalan TxGNN | 99.99% |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ tetapi ramalan ini **tidak disokong oleh sebarang percubaan klinikal (0) atau pe
 
 Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, silodosin ialah antagonis reseptor alfa-1A adrenergik selektif, dan keberkesanannya dalam BPH telah dibuktikan. Namun, tiada laluan mekanistik yang jelas menghubungkannya dengan indikasi baharu yang diramalkan.
 
-Sindrom Ambras ialah keadaan kongenital yang dikaitkan dengan penyusunan semula kromosom 8q22 yang menjejaskan pengawalaturan TRPS1. Sekatan reseptor alfa-1A tidak mempunyai laluan yang jelas kepada asas genetik ini. Skor tinggi (0.9999) kemungkinan besar mencerminkan kedekatan dalam graf pengetahuan antara nod berkaitan rambut dan hipertrikosis, dan bukan rasional farmakologi.
+Sindrom Ambras ialah keadaan kongenital yang dikaitkan dengan penyusunan semula kromosom 8q22 yang menjejaskan pengawalaturan TRPS1. Sekatan reseptor alfa-1A tidak mempunyai laluan yang jelas kepada asas genetik ini. Skor tinggi (0.9999) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi dan bukan rasional farmakologi.
 
 Calon lain yang diramalkan (hipertrikosis, sindrom malformasi dengan komponen pergigian/periodontal, sindrom dengan malformasi Dandy-Walker, kelainan batang rambut genetik terpencil, dan trikomegali familial terpencil) juga berstatus L5 tanpa percubaan atau literatur. Untuk hipertrikosis, ia lazimnya merupakan kesan sampingan ubat lain seperti minoxidil, yang bertindak melalui laluan berbeza.
 
@@ -84,12 +84,12 @@ Pada masa ini tiada literatur berkaitan.
 
 | Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Keputusan |
 |------|------|------|------|------|
-| 1 | Ambras type hypertrichosis universalis congenita | 99.99% | L5 | Hold |
-| 2 | Hypertrichosis | 99.99% | L5 | Hold |
-| 3 | Sindrom malformasi dengan komponen odontal dan/atau periodontal | 99.99% | L5 | Hold |
-| 4 | Sindrom dengan malformasi Dandy-Walker sebagai ciri utama | 99.98% | L5 | Hold |
-| 5 | Kelainan batang rambut genetik terpencil | 99.98% | L5 | Hold |
-| 6 | Trikomegali familial terpencil | 99.23% | L5 | Hold |
+| 1 | Ambras type hypertrichosis universalis congenita | 0.9999 | L5 | Hold |
+| 2 | Hypertrichosis | 0.9999 | L5 | Hold |
+| 3 | Sindrom malformasi dengan komponen odontal dan/atau periodontal | 0.9999 | L5 | Hold |
+| 4 | Sindrom dengan malformasi Dandy-Walker sebagai ciri utama | 0.9998 | L5 | Hold |
+| 5 | Kelainan batang rambut genetik terpencil | 0.9998 | L5 | Hold |
+| 6 | Trikomegali familial terpencil | 0.9923 | L5 | Hold |
 
 ---
 

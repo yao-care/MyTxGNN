@@ -4,7 +4,7 @@ title: Piribedil
 parent: Low Evidence (L4-L5)
 nav_order: 580
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Piribedil: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (tahap bukti L5). Indikasi asal: Gangguan parkinsonian"
 monitor_inn: "PIRIBEDIL"
@@ -14,7 +14,7 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 # Piribedil
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Piribedil: Daripada Penyakit Parkinson kepada Distrofi Retina (dengan atau tanpa Anomali Ekstraokular)
+## Piribedil: Daripada Penyakit Parkinson kepada Distrofi retina dengan atau tanpa anomali ekstraokular
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -50,10 +50,10 @@ tetapi buat masa ini hanya **0 ujian klinikal** dan **1 penerbitan** (yang tidak
 |------|------|
 | Indikasi Asal | Gangguan parkinsonian; penyakit Parkinson |
 | Indikasi Baharu yang Diramalkan | Distrofi retina dengan atau tanpa anomali ekstraokular |
-| Skor Ramalan TxGNN | 99.34% |
+| Skor Ramalan TxGNN | 0.9934 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ tetapi buat masa ini hanya **0 ujian klinikal** dan **1 penerbitan** (yang tidak
 
 Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, berdasarkan maklumat sedia ada, piribedil ialah agonis reseptor dopamin D2/D3 dengan aktiviti antagonis adrenergik alfa-2. Keberkesanannya dalam penyakit Parkinson telah diketahui, dan secara mekanistik isyarat dopaminergik memang berperanan dalam fungsi retina.
 
-Namun begitu, tiada bukti langsung yang mengaitkan piribedil dengan distrofi retina warisan. Satu-satunya penerbitan yang dikaitkan (PMID 17086014) membincangkan pengurusan sinkop dalam sindrom Kearns-Sayre, iaitu gangguan mitokondria yang merangkumi distrofi retina, dan **tidak menilai piribedil**. Skor TxGNN yang tinggi hanyalah ramalan berasaskan graf pengetahuan dan tidak boleh dianggap sebagai bukti keberkesanan.
+Namun begitu, tiada bukti langsung yang mengaitkan piribedil dengan distrofi retina warisan. Satu-satunya penerbitan yang dikaitkan (PMID 17086014) membincangkan pengurusan sinkop dalam sindrom Kearns-Sayre, iaitu gangguan mitokondria yang merangkumi distrofi retina, dan **tidak menilai piribedil**. Skor tinggi ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi; ia tidak boleh dianggap sebagai bukti keberkesanan.
 
 ---
 
@@ -86,10 +86,9 @@ Selain indikasi utama, model juga meramalkan indikasi berikut. Kesemuanya bersta
 
 | Peringkat | Penyakit | Skor TxGNN | Tahap Bukti | Ulasan Ringkas |
 |------|------|------|------|---------|
-| 2 | Parkinsonisme juvenil Hunt | 99.34% | L4 | Berada dalam spektrum Parkinson; rasional mekanistik munasabah tetapi bukti tidak langsung. |
-| 3 | Polimikrogiria perisilvian dengan hipoplasia serebelum dan artrogriposis | 99.12% | L5 | Tiada kaitan mekanistik yang munasabah; ramalan pengiraan sahaja. |
-| 4 | Neurodegenerasi berkaitan PLA2G6 | 99.07% | L5 | Rasional tidak langsung yang lemah untuk ciri parkinsonian; piribedil tidak mengubah patologi asas. |
-| 5 | Penyakit Parkinson onset juvenil 19A | 99.01% | L4 | Spektrum Parkinson; respons terhadap terapi dopaminergik dilaporkan berubah-ubah dan sering terhad. |
+| 2 | Parkinsonisme juvenil Hunt | 0.9934 | L5 | Berada dalam spektrum Parkinson; rasional mekanistik munasabah tetapi bukti tidak langsung. |
+| 3 | Polimikrogiria perisilvian dengan hipoplasia serebelum dan artrogriposis | 0.9912 | L5 | Tiada kaitan mekanistik yang munasabah; ramalan pengiraan sahaja. |
+| 4 | Neurodegenerasi berkaitan PLA2G6 | 0.9907 | L5 | Rasional tidak langsung yang lemah untuk ciri parkinsonian; piribedil tidak mengubah patologi asas. |
 
 ---
 

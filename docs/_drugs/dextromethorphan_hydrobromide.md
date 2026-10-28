@@ -8,6 +8,7 @@ nav_order: 277
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Dextromethorphan Hydrobromide
@@ -51,8 +52,8 @@ dan jurang data penting (MOA, pelabelan keselamatan, pemetaan DrugBank) kekal ti
 | Ramalan Petunjuk Baru | **Tiada** (tiada ramalan TxGNN tersedia) |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 35 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 35 daripada 35) |
+| Bilangan Pendaftaran | 35 (sah: 35) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

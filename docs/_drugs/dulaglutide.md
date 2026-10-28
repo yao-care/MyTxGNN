@@ -7,13 +7,14 @@ drugbank_id: "DB09045"
 drug_name: "Dulaglutide"
 kg_predictions: 4
 dl_predictions: 10
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/dulaglutide/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Dulaglutide
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **4** ramalan graf pengetahuan dan **10** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **4** ramalan model TxGNN (pembelajaran mendalam) dan **10** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

@@ -1,0 +1,31 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "db00349-childhood-onset-epileptic-encephalopathy",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/db00349"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "childhood onset epileptic encephalopathy"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN deep learning model"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9959
+    }
+  ]
+}

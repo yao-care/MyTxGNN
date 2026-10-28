@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Griseofulvin: indikasi baharu diramal Miasis (myiasis) (tahap bukti L5). Indikasi asal: Tinea pedis, tinea corporis, jangkitan tinea, tinea unguium…"
 monitor_inn: "GRISEOFULVIN"
-predicted_indications: ["myiasis", "creeping myiasis", "furuncular myiasis", "wound myiasis", "echinococcus granulosus infectious disease"]
+predicted_indications: ["myiasis", "furuncular myiasis", "wound myiasis", "creeping myiasis", "echinococcus granulosus infectious disease"]
 ---
 
 # Griseofulvin
@@ -39,7 +39,7 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 ## Ringkasan Satu Ayat
 
 Griseofulvin ialah ubat antikulat yang pada asalnya digunakan untuk merawat pelbagai jangkitan dermatofit (tinea), seperti tinea pedis, tinea corporis, tinea unguium dan tinea barbae.
-Model TxGNN meramalkan ia mungkin berkesan untuk **miasis** (skor 99.41%), tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model.
+Model TxGNN meramalkan ia mungkin berkesan untuk **miasis** (skor 0.9941), tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model.
 
 ---
 
@@ -49,10 +49,10 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **miasis** (skor 99.41%), tetap
 |------|------|
 | Indikasi Asal | Tinea pedis, tinea corporis, jangkitan tinea, tinea unguium, dermatofitosis kawasan lipat paha dan perianal, tinea barbae, dermatofitosis kulit kepala atau janggut |
 | Indikasi Baharu yang Diramalkan | Miasis (myiasis) |
-| Skor Ramalan TxGNN | 99.41% |
+| Skor Ramalan TxGNN | 0.9941 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -61,18 +61,18 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **miasis** (skor 99.41%), tetap
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, griseofulvin ialah antikulat yang mengganggu fungsi mikrotubul dan mitosis dalam dermatofit. Keberkesanannya terhadap tinea telah dibuktikan, tetapi tiada asas mekanistik yang jelas untuk menjangkakan ia berkesan terhadap miasis.
 
-Miasis ialah infestasi larva lalat (keadaan ektoparasit). Rawatan piawai ialah pengeluaran larva atau antiparasit seperti ivermektin. Skor TxGNN yang tinggi (0.994) hanyalah ramalan graf pengetahuan dan tidak disokong oleh rasional biologi. Kesan spekulatif pada tubulin artropod belum pernah ditunjukkan.
+Miasis ialah infestasi larva lalat (keadaan ektoparasit). Rawatan piawai ialah pengeluaran larva atau antiparasit seperti ivermektin. Skor TxGNN yang tinggi (0.9941) hanyalah ramalan model TxGNN (pembelajaran mendalam) dan tidak disokong oleh rasional biologi. Kesan spekulatif pada tubulin artropod belum pernah ditunjukkan.
 
-Bentuk miasis lain yang diramalkan (miasis menjalar, miasis furunkular, miasis luka) turut tidak mempunyai mekanisme yang mantap. Ramalan ini berkemungkinan berpunca daripada kedekatan dalam graf dengan penyakit parasit lain, bukan bukti farmakologi. Ramalan kelima, jangkitan *Echinococcus granulosus*, hanya mempunyai kaitan spekulatif yang lemah melalui sasaran mikrotubul; rawatan piawai ialah albendazol, dan griseofulvin tidak mengikat beta-tubulin yang sensitif kepada benzimidazol.
+Bentuk miasis lain yang diramalkan (miasis menjalar, miasis furunkular, miasis luka) turut tidak mempunyai mekanisme yang mantap. Skor ramalan ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Ramalan kelima, jangkitan *Echinococcus granulosus*, hanya mempunyai kaitan spekulatif yang lemah melalui sasaran mikrotubul; rawatan piawai ialah albendazol, dan griseofulvin tidak mengikat beta-tubulin yang sensitif kepada benzimidazol.
 
 ### Ramalan Lain Teratas
 
 | Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Keputusan |
 |------|------|------|------|------|
-| 2 | Miasis menjalar | 99.34% | L5 | Hold |
-| 3 | Miasis furunkular | 99.34% | L5 | Hold |
-| 4 | Miasis luka | 99.34% | L5 | Hold |
-| 5 | Penyakit berjangkit *Echinococcus granulosus* | 99.32% | L5 | Hold |
+| 2 | Miasis menjalar | 0.9934 | L5 | Hold |
+| 3 | Miasis furunkular | 0.9934 | L5 | Hold |
+| 4 | Miasis luka | 0.9934 | L5 | Hold |
+| 5 | Penyakit berjangkit *Echinococcus granulosus* | 0.9932 | L5 | Hold |
 
 ---
 

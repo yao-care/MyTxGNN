@@ -49,10 +49,10 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan kofaktor heparin 2
 |------|------|
 | Indikasi Asal | Gangguan migrain (migrain dengan atau tanpa aura) |
 | Indikasi Baharu yang Diramalkan | Kekurangan kofaktor heparin 2 |
-| Skor Ramalan TxGNN | 99.50% |
+| Skor Ramalan TxGNN | 0.9950 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -63,14 +63,14 @@ Data terperinci mengenai mekanisme tindakan (MOA) asal tidak tersedia buat masa 
 
 Kekurangan kofaktor heparin II ialah gangguan perencatan trombin yang dimediasi serpin dalam lata pembekuan darah. Isyarat CGRP tidak diketahui mengawal tahap atau fungsi kofaktor heparin II. **Tiada hubungan mekanistik yang boleh dipercayai dikenal pasti.**
 
-Skor TxGNN yang tinggi (0.995) merupakan ramalan graf pengetahuan sahaja. Ia berkemungkinan didorong oleh perkaitan rangkaian tidak langsung (contohnya nod berkaitan vaskular atau trombosis), bukan oleh sebab-akibat biologi.
+Skor TxGNN yang tinggi (0.995) merupakan ramalan model TxGNN (pembelajaran mendalam) sahaja. Ia berkemungkinan didorong oleh perkaitan rangkaian tidak langsung (contohnya nod berkaitan vaskular atau trombosis), bukan oleh sebab-akibat biologi.
 
 ### Ramalan Lain yang Dikesan
 
 | Kedudukan | Penyakit Diramalkan | Skor TxGNN | Tahap Bukti | Penilaian |
 |------|------|------|------|------|
-| 2 | Kekurangan antitrombin jenis 2 | 99.41% | L5 | Tiada hubungan mekanistik yang boleh dipercayai. Antitrombin ialah serpin yang merencat trombin dan faktor Xa, manakala galcanezumab tidak menyasarkan faktor pembekuan. Antibodi monoklonal juga tidak mungkin dapat membetulkan kecacatan protein genetik seperti ini. |
-| 3 | Lebihan faktor 5 dengan trombosis spontan | 99.41% | L5 | Tiada hubungan mekanistik yang boleh dipercayai. Galcanezumab tidak diketahui memberi kesan kepada aktiviti faktor V. Peranan CGRP sebagai vasodilator juga menimbulkan persoalan keselamatan, bukan petunjuk keberkesanan, pada pesakit yang cenderung kepada trombosis. |
+| 2 | Kekurangan antitrombin jenis 2 | 0.9941 | L5 | Tiada hubungan mekanistik yang boleh dipercayai. Antitrombin ialah serpin yang merencat trombin dan faktor Xa, manakala galcanezumab tidak menyasarkan faktor pembekuan. Antibodi monoklonal juga tidak mungkin dapat membetulkan kecacatan protein genetik seperti ini. |
+| 3 | Lebihan faktor 5 dengan trombosis spontan | 0.9941 | L5 | Tiada hubungan mekanistik yang boleh dipercayai. Galcanezumab tidak diketahui memberi kesan kepada aktiviti faktor V. Peranan CGRP sebagai vasodilator juga menimbulkan persoalan keselamatan, bukan petunjuk keberkesanan, pada pesakit yang cenderung kepada trombosis. |
 
 ---
 

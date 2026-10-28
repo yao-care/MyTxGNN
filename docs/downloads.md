@@ -95,8 +95,8 @@ FHIR R4 formatted resources are also available:
 
 | Resource Type | Count | Location |
 |---------------|-------|----------|
-| MedicationKnowledge | 508 | `/fhir/MedicationKnowledge/` |
-| ClinicalUseDefinition | 41,560 | `/fhir/ClinicalUseDefinition/` |
+| MedicationKnowledge | {{ site.static_files | where_exp: 'f', 'f.path contains "/fhir/MedicationKnowledge/"' | size }} | `/fhir/MedicationKnowledge/` |
+| ClinicalUseDefinition | {{ site.static_files | where_exp: 'f', 'f.path contains "/fhir/ClinicalUseDefinition/"' | size }} | `/fhir/ClinicalUseDefinition/` |
 
 Access via:
 ```

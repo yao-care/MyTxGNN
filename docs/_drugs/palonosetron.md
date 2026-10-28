@@ -4,17 +4,17 @@ title: Palonosetron
 parent: Low Evidence (L4-L5)
 nav_order: 555
 evidence_level: L4
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Palonosetron: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tiada data indikasi diluluskan tempatan"
 monitor_inn: "PALONOSETRON"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+description: "Palonosetron: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Palonosetron
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **L4** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-## Palonosetron: Daripada Antiemetik (Indikasi Asal Tidak Direkodkan) kepada Gangguan Migrain
+## Palonosetron: Gangguan migrain (migraine disorder)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan migrain (migraine di
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi diluluskan tempatan |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder) |
-| Skor Ramalan TxGNN | 99.74% |
+| Skor Ramalan TxGNN | 0.9974 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -61,9 +61,9 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan migrain (migraine di
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, palonosetron tergolong dalam kelas antagonis reseptor 5-HT3. Laluan serotonergik diketahui terlibat dalam patofisiologi migrain, dan antagonis 5-HT3 pernah diterokai untuk migrain serta loya yang berkaitan dengan migrain. Secara mekanistik, ini memberi asas teori yang lemah untuk ramalan tersebut.
 
-Namun begitu, bukti sedia ada menunjuk ke arah yang bertentangan. Satu-satunya literatur langsung ialah laporan kes bertajuk "Palonosetron-induced migraine-type headache", yang mencadangkan palonosetron mungkin mencetuskan sakit kepala jenis migrain sebagai kesan advers. Skor TxGNN yang sangat tinggi mungkin mencerminkan perkaitan ubat-penyakit dalam graf pengetahuan (termasuk isyarat kejadian advers), dan bukan arah terapeutik.
+Namun begitu, bukti sedia ada menunjuk ke arah yang bertentangan. Satu-satunya literatur langsung ialah laporan kes bertajuk "Palonosetron-induced migraine-type headache", yang mencadangkan palonosetron mungkin mencetuskan sakit kepala jenis migrain sebagai kesan advers. Skor TxGNN yang sangat tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi, dan bukan arah terapeutik.
 
-Empat ramalan lain yang disenaraikan ialah migrain dengan aura batang otak, kerentanan terhadap migrain dengan atau tanpa aura, atrofoderma vermikulata, dan ulerythema ophryogenesis. Ramalan migrain tambahan itu kemungkinan besar berasal daripada kedekatan nod dalam graf. Dua penyakit kulit yang jarang berlaku itu tidak mempunyai sebarang mekanisme 5-HT3 yang munasabah dan tiada sebarang bukti.
+Tiga ramalan lain yang disenaraikan ialah migrain dengan aura batang otak, atrofoderma vermikulata, dan ulerythema ophryogenesis. Ramalan migrain tambahan itu kemungkinan besar mencerminkan persamaan yang dipelajari model TxGNN (pembelajaran mendalam) antara penyakit yang berkaitan, bukan bukti biologi. Dua penyakit kulit yang jarang berlaku itu tidak mempunyai sebarang mekanisme 5-HT3 yang munasabah dan tiada sebarang bukti.
 
 ---
 
@@ -113,7 +113,7 @@ Untuk maklumat amaran, kontraindikasi dan keselamatan lain, sila rujuk risalah b
 **Keputusan: Hold**
 
 **Rasional:**
-- Skor TxGNN tinggi (99.74%), tetapi satu-satunya bukti langsung ialah laporan kes yang menunjukkan palonosetron boleh mencetuskan sakit kepala jenis migrain, iaitu isyarat keselamatan dan bukan manfaat. Tiada percubaan klinikal, dan ubat ini tidak dipasarkan di Malaysia.
+- Skor TxGNN tinggi (0.9974), tetapi satu-satunya bukti langsung ialah laporan kes yang menunjukkan palonosetron boleh mencetuskan sakit kepala jenis migrain, iaitu isyarat keselamatan dan bukan manfaat.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank

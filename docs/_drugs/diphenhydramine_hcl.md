@@ -8,6 +8,7 @@ nav_order: 296
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Diphenhydramine Hcl
@@ -47,8 +48,8 @@ Diphenhydramine HCl ialah antihistamin generasi pertama (antagonis reseptor H1) 
 | Indikasi Baru yang Diramalkan | Tiada (tiada ramalan TxGNN tersedia) |
 | Skor Ramalan TxGNN | N/A |
 | Aras Bukti | N/A |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 21 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 21 daripada 21) |
+| Bilangan Pendaftaran | 21 (sah: 21) |
 | Keputusan yang Disyorkan | Tunda |
 
 ## Mengapa Ramalan Ini Munasabah?

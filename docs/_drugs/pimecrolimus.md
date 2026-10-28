@@ -4,17 +4,17 @@ title: Pimecrolimus
 parent: High Evidence (L1-L2)
 nav_order: 573
 evidence_level: L2
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Pimecrolimus: indikasi baharu diramal Dermatitis seborea (tahap bukti L2). Indikasi asal: Ekzema atopik / dermatitis atopik"
 monitor_inn: "PIMECROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
+description: "Pimecrolimus: indikasi baharu diramal Seborrheic dermatitis (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Pimecrolimus
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **4** 
+Tahap bukti: **L2** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L2** | Indikasi diramal: **4**
 
 </div>
 
-## Pimecrolimus: Daripada Ekzema Atopik kepada Dermatitis Seborea
+## Pimecrolimus: Seborrheic dermatitis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ dengan **1 ujian klinikal** (Fasa 2, selesai) dan **18 penerbitan** yang menyoko
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Ekzema atopik / dermatitis atopik |
-| Indikasi Baharu yang Diramal | Dermatitis seborea |
-| Skor Ramalan TxGNN | 99.73% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramal | Seborrheic dermatitis |
+| Skor Ramalan TxGNN | 0.9973 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
@@ -97,7 +97,6 @@ Satu-satunya ujian ini menguji indikasi sasaran secara langsung, tetapi ia Fasa 
 
 ## Maklumat Pasaran di Malaysia
 
-Pimecrolimus tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan.
 
 ---
 
@@ -116,7 +115,7 @@ Amaran dan kontraindikasi daripada sisip bungkusan tidak tersedia; sila rujuk si
 **Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
 **Rasional:**
-- Terdapat satu ujian Fasa 2 yang selesai secara langsung dalam dermatitis seborea, disokong dua kajian sistematik RCT yang melaporkan keberkesanan setanding kortikosteroid dan toleransi baik. Namun bukti pengesahan Fasa 3 belum ada dan ubat ini tidak dipasarkan di Malaysia.
+- Terdapat satu ujian Fasa 2 yang selesai secara langsung dalam dermatitis seborea, disokong dua kajian sistematik RCT yang melaporkan keberkesanan setanding kortikosteroid dan toleransi baik.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisip bungkusan NPRA (amaran dan kontraindikasi), yang merupakan jurang data penyekat untuk saringan keselamatan.
@@ -128,9 +127,9 @@ Amaran dan kontraindikasi daripada sisip bungkusan tidak tersedia; sila rujuk si
 
 ### Nota Tambahan: Indikasi Lain yang Diramal
 
-- **Dermatitis (am):** skor 99.37%, tahap bukti L1. Kategori ini sebahagian besarnya bertindih dengan indikasi asal (ekzema atopik), jadi lebih kepada pengesahan penggunaan sedia ada daripada pengalihan guna sebenar. Terdapat beberapa ujian Fasa 3 yang selesai (contohnya dermatitis tangan kronik, n=652; dermatitis perioral, n=124) serta RCT 5 tahun pada bayi (PMID 25802354).
-- **Exanthem:** skor 99.32%, tahap bukti L2, dengan syor penyelidikan. Ujian tertumpu pada keadaan berbeza (liken planus oral, liken sklerosus vulva, ruam akibat perencat EGFR) dan semuanya kecil.
-- **Acrodermatitis chronica atrophicans:** skor 99.01%, tahap bukti L5, keputusan Hold. Tiada bukti klinikal atau literatur, dan imunosupresi tidak mempunyai rasional jelas untuk manifestasi lewat borreliosis Lyme.
+- Kategori ini sebahagian besarnya bertindih dengan indikasi asal (ekzema atopik), jadi lebih kepada pengesahan penggunaan sedia ada daripada pengalihan guna sebenar. Terdapat beberapa ujian Fasa 3 yang selesai (contohnya dermatitis tangan kronik, n=652; dermatitis perioral, n=124) serta RCT 5 tahun pada bayi (PMID 25802354).
+- **Exanthem:** skor 0.9932, tahap bukti L2, dengan syor penyelidikan. Ujian tertumpu pada keadaan berbeza (liken planus oral, liken sklerosus vulva, ruam akibat perencat EGFR) dan semuanya kecil.
+- **Acrodermatitis chronica atrophicans:** skor 0.9901, tahap bukti L5, keputusan Hold. Tiada bukti klinikal atau literatur, dan imunosupresi tidak mempunyai rasional jelas untuk manifestasi lewat borreliosis Lyme.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

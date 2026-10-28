@@ -6,9 +6,9 @@ nav_order: 662
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Sulodexide: indikasi baharu diramal Glanzmann thrombasthenia (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA)"
 monitor_inn: "SULODEXIDE"
 predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease"]
+description: "Sulodexide: indikasi baharu diramal Glanzmann thrombasthenia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Sulodexide
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-## Sulodexide: Daripada Indikasi Asal (Tiada Data) kepada Glanzmann Thrombasthenia
+## Sulodexide: Glanzmann thrombasthenia
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Glanzmann thrombasthenia**, t
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen NPRA) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Glanzmann thrombasthenia |
-| Skor Ramalan TxGNN | 99.43% |
+| Skor Ramalan TxGNN | 0.9943 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -63,18 +63,17 @@ Butiran mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklu
 
 Glanzmann thrombasthenia disebabkan oleh kekurangan atau disfungsi integrin platelet alfaIIb-beta3 (GPIIb/IIIa), yang menjejaskan pengagregatan platelet dan menyebabkan pendarahan. Tiada kaitan mekanistik yang mantap antara sulodexide dengan pembetulan kecacatan GPIIb/IIIa. Sebaliknya, sifat antikoagulan dan antitrombotiknya dijangka **menambah** risiko pendarahan, bukan mengurangkannya.
 
-Skor TxGNN yang tinggi (0.994) hanyalah ramalan berasaskan graf tanpa sokongan percubaan atau literatur, dan berkemungkinan merupakan artifak kedekatan rangkaian.
+Skor TxGNN yang tinggi (0.9943) datang daripada model TxGNN (pembelajaran mendalam) tanpa sokongan percubaan atau literatur, dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi.
 
 **Ramalan lain yang dikesan (juga L5, Hold):**
 
-- **Gangguan pembebasan primer platelet** (skor 99.39%): gangguan ini melibatkan kecacatan perembesan kandungan granul platelet. Sulodexide tidak mempunyai tindakan diketahui yang memulihkan perembesan ini, dan kesan antikoagulannya boleh memburukkan pendarahan.
-- **Pseudo-penyakit von Willebrand** (skor 99.16%): disebabkan mutasi gain-of-function pada GPIbα platelet. Sulodexide tidak mempunyai kesan mantap terhadap interaksi GPIbα-VWF, dan aktiviti antikoagulan tambahan menimbulkan kebimbangan pendarahan.
+- **Gangguan pembebasan primer platelet** (skor 0.9939): gangguan ini melibatkan kecacatan perembesan kandungan granul platelet.
+- **Pseudo-penyakit von Willebrand** (skor 0.9916): disebabkan mutasi gain-of-function pada GPIbα platelet.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Sulodexide tidak mempunyai pendaftaran di Malaysia (0 lesen) dan statusnya ialah tidak dipasarkan.
 
 ---
 

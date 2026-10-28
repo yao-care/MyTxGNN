@@ -3,18 +3,18 @@ layout: default
 title: Isoniazid
 parent: Low Evidence (L4-L5)
 nav_order: 432
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Isoniazid: indikasi baharu diramal Konjunktivitis (tahap bukti L4). Indikasi asal: Tuberkulosis pulmonari"
 monitor_inn: "ISONIAZID"
 predicted_indications: ["conjunctivitis"]
+description: "Isoniazid: indikasi baharu diramal Konjunktivitis (conjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Isoniazid
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **1** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-## Isoniazid: Daripada Tuberkulosis Pulmonari kepada Konjunktivitis
+## Isoniazid: Konjunktivitis (conjunctivitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini terdapat **0 ujian klinikal** dan hanya **12 penerbitan** yan
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tuberkulosis pulmonari |
-| Indikasi Baharu yang Diramalkan | Konjunktivitis |
-| Skor Ramalan TxGNN | 99.36% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Konjunktivitis (conjunctivitis) |
+| Skor Ramalan TxGNN | 0.9936 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -107,7 +107,7 @@ Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi rasmi.
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Walaupun skor TxGNN sangat tinggi, tiada ujian klinikal dan literatur sokongan bersifat tidak langsung (laporan kes dan pemerhatian sejarah), terhad kepada konjunktivitis berkaitan mikobakteria. Ubat ini juga tidak dipasarkan di Malaysia.
+- Walaupun skor TxGNN sangat tinggi, tiada ujian klinikal dan literatur sokongan bersifat tidak langsung (laporan kes dan pemerhatian sejarah), terhad kepada konjunktivitis berkaitan mikobakteria.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci

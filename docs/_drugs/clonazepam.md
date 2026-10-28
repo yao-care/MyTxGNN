@@ -6,9 +6,9 @@ nav_order: 236
 evidence_level: L3
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Clonazepam: indikasi baharu diramal Sindrom kaki resah (restless legs syndrome) (tahap bukti L3). Indikasi asal: Early myoclonic encephalopathy, epilepsi absens…"
 monitor_inn: "CLONAZEPAM"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
+description: "Clonazepam: indikasi baharu diramal Sindrom kaki resah (restless legs syndrome) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Clonazepam
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **3**
 
 </div>
 
-## Clonazepam: Daripada Epilepsi kepada Sindrom Kaki Resah (Restless Legs Syndrome)
+## Clonazepam: Sindrom kaki resah (restless legs syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini **tiada ujian klinikal berdaftar**, dan sokongan hanya datang
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Early myoclonic encephalopathy, epilepsi absens, sindrom Lennox-Gastaut, gangguan kebimbangan (berdasarkan graf pengetahuan PrimeKG) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Sindrom kaki resah (restless legs syndrome) |
-| Skor Ramalan TxGNN | 99.65% |
+| Skor Ramalan TxGNN | 0.9965 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan yang Disyorkan | Hold (soalan penyelidikan; perlukan data tambahan) |
 
 ---
@@ -62,7 +62,7 @@ tetapi setakat ini **tiada ujian klinikal berdaftar**, dan sokongan hanya datang
 
 Clonazepam ialah benzodiazepin yang meningkatkan perencatan melalui reseptor GABA-A. Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini; mekanisme di sini disimpulkan daripada golongan ubat tersebut. Peningkatan perencatan GABA boleh mengurangkan kerangsangan berlebihan deria-motor dan pemecahan tidur yang berkaitan dengan sindrom kaki resah serta pergerakan anggota berkala semasa tidur.
 
-Kesan ini berkemungkinan bersifat simptomatik (kesinambungan tidur yang lebih baik) dan bukan mengubah perjalanan penyakit. Skor ramalan yang sangat tinggi (0.997) selari dengan sejarah penggunaan klinikal yang panjang, termasuk kajian sistematik Cochrane khusus mengenai benzodiazepin untuk sindrom kaki resah. Kajian tinjauan menyatakan kira-kira 25% pesakit sindrom kaki resah dirawat dengan benzodiazepin, dan di sesetengah negara Asia clonazepam masih lazim digunakan, walaupun agonis dopamin ialah pilihan lini pertama.
+Kesan ini berkemungkinan bersifat simptomatik (kesinambungan tidur yang lebih baik) dan bukan mengubah perjalanan penyakit. Skor ramalan yang sangat tinggi (0.9965) selari dengan sejarah penggunaan klinikal yang panjang, termasuk kajian sistematik Cochrane khusus mengenai benzodiazepin untuk sindrom kaki resah. Kajian tinjauan menyatakan kira-kira 25% pesakit sindrom kaki resah dirawat dengan benzodiazepin, dan di sesetengah negara Asia clonazepam masih lazim digunakan, walaupun agonis dopamin ialah pilihan lini pertama.
 
 ---
 
@@ -120,7 +120,7 @@ Penggunaan jangka panjang benzodiazepin juga menimbulkan kebimbangan kesihatan a
 **Keputusan: Hold**
 
 **Rasional:**
-- Mekanisme munasabah dan terdapat sejarah penggunaan klinikal serta kajian sistematik Cochrane dan garis panduan, namun bukti terkawal yang sedia ada kecil (contohnya RCT 6 pesakit), tiada ujian klinikal berdaftar, dan ubat ini tidak dipasarkan di Malaysia. Agonis dopamin kekal sebagai pilihan lini pertama, jadi ramalan ini lebih sesuai sebagai soalan penyelidikan.
+- Agonis dopamin kekal sebagai pilihan lini pertama, jadi ramalan ini lebih sesuai sebagai soalan penyelidikan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pembungkusan dan data amaran/kontraindikasi daripada NPRA (jurang data yang menghalang saringan keselamatan).
@@ -132,8 +132,8 @@ Penggunaan jangka panjang benzodiazepin juga menimbulkan kebimbangan kesihatan a
 
 ### Nota Tambahan mengenai Ramalan Lain
 
-- **Insomnia (skor 99.32%, tahap bukti L4):** Mekanisme sedatif-hipnotik melalui GABA-A munasabah, tetapi literatur yang ada bersifat tidak langsung (tinjauan gangguan tidur dalam penyakit Parkinson, farmakologi anksiolitik umum, kajian keratan rentas) dan tiada data berkesan terkawal untuk insomnia primer. Status: soalan penyelidikan.
-- **Neoplasma saraf trigeminal (skor 99.30%, tahap bukti L5):** Tiada hubungan mekanisme yang dipercayai dan tiada aktiviti antitumor yang diketahui; skor tinggi mungkin mencerminkan kedekatan dalam graf pengetahuan. Keputusan: Hold.
+- **Insomnia (skor 0.9932, tahap bukti L4):** Mekanisme sedatif-hipnotik melalui GABA-A munasabah, tetapi literatur yang ada bersifat tidak langsung (tinjauan gangguan tidur dalam penyakit Parkinson, farmakologi anksiolitik umum, kajian keratan rentas) dan tiada data berkesan terkawal untuk insomnia primer. Status: soalan penyelidikan.
+- **Neoplasma saraf trigeminal (skor 0.9930, tahap bukti L5):** Tiada hubungan mekanisme yang dipercayai dan tiada aktiviti antitumor yang diketahui; skor ini datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Keputusan: Hold.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

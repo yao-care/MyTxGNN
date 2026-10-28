@@ -4,17 +4,17 @@ title: Aceclofenac
 parent: Low Evidence (L4-L5)
 nav_order: 17
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Aceclofenac: indikasi baharu diramal Osteoartritis (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan tempatan"
+indication_count: 7
 monitor_inn: "Aceclofenac"
-predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia"]
+predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx", "Kummell disease"]
+last_modified_at: 2026-10-27
+description: "Aceclofenac: indikasi baharu diramal Sindrom brakiolmia-amelogenesis imperfekta (brachyolmia-amelogenesis imperfecta syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Aceclofenac
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,84 +33,63 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Aceclofenac: Daripada Ubat Anti-radang Bukan Steroid (NSAID) kepada Osteoartritis
+## Aceclofenac: perencat COX-2 pilihan (NSAID) → Sindrom brakiolmia-amelogenesis imperfekta (brachyolmia-amelogenesis imperfecta syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Aceclofenac ialah ubat anti-radang bukan steroid (NSAID) oral yang digunakan untuk melegakan kesakitan dan keradangan. Data tempatan yang dikumpulkan untuk laporan ini tidak mengandungi indikasi asal yang diluluskan. Model TxGNN meramalkan ubat ini mungkin berkesan untuk **osteoartritis**, disokong oleh **2 percubaan klinikal** dan **banyak penerbitan** (termasuk meta-analisis RCT dan beberapa RCT).
+Aceclofenac ialah ubat anti-radang bukan steroid (NSAID) yang bertindak terutamanya dengan merencat COX-2 dan mengurangkan sintesis prostaglandin.
+Model TxGNN meramalkan ubat ini mungkin berkesan untuk **sindrom brakiolmia-amelogenesis imperfekta (brachyolmia-amelogenesis imperfecta syndrome)**,
+tetapi **tiada sebarang ujian klinikal atau penerbitan** yang menyokong ramalan ini setakat ini.
 
-> **Nota:** Ramalan teratas TxGNN ialah "osteoarthritis susceptibility" (skor 99.97%). Ini konsep kerentanan genetik, bukan keadaan klinikal yang boleh dirawat, dan tiada percubaan atau literatur yang menyokongnya. Ia kemungkinan besar dipetakan kepada nod osteoartritis dalam graf pengetahuan. Laporan ini oleh itu memberi tumpuan kepada **osteoartritis** (ramalan kedua), yang mempunyai bukti sebenar. Ini sedikit menyimpang daripada format piawai, yang menggunakan ramalan pertama.
-
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi diluluskan tempatan |
-| Indikasi Baharu yang Diramalkan | Osteoartritis |
-| Skor Ramalan TxGNN | 99.92% |
-| Tahap Bukti | L1 (berdasarkan meta-analisis RCT dan beberapa RCT; percubaan berdaftar ialah Fasa 4) |
-| Status Pasaran Malaysia | Tidak dipasarkan (mengikut data yang dikumpulkan; perlu disahkan) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramal | Sindrom brakiolmia-amelogenesis imperfekta (brachyolmia-amelogenesis imperfecta syndrome) |
+| Skor Ramalan TxGNN | 0,9989 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
----
+## Mengapa Ramalan Ini Wajar Dipertimbangkan?
 
-## Mengapa Ramalan Ini Munasabah?
+Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan am, aceclofenac ialah NSAID yang memilih COX-2 dan mengurangkan pengeluaran prostaglandin, sehingga memberi kesan analgesik dan anti-radang.
 
-Aceclofenac ialah NSAID yang menghalang COX-2 secara keutamaan, lalu mengurangkan penghasilan prostaglandin E2, IL-1β dan IL-6. Mekanisme ini terus menangani kesakitan dan keradangan dalam osteoartritis. Data mekanisme terperinci (DrugBank) tidak tersedia, jadi penerangan ini berdasarkan rasional farmakologi yang diketahui.
+Sindrom brakiolmia-amelogenesis imperfekta ialah gangguan genetik yang jarang berlaku, melibatkan rangka dan gigi. Tiada mekanisme yang munasabah menghubungkan perencatan COX dengan pembetulan kecacatan asas penyakit ini. Paling jauh, NSAID mungkin memberi kelegaan sakit secara simptomatik, yang tidak mengubah perjalanan penyakit. Skor tinggi TxGNN (0,9989) ialah ramalan berasaskan model sahaja dan tidak disokong oleh data langsung.
 
-Osteoartritis ialah indikasi mapan bagi aceclofenac di banyak pasaran. Ramalan ini lebih bersifat pengesahan penggunaan sedia ada daripada repurposing sebenar. Status "tidak dipasarkan" dan ketiadaan indikasi asal di Malaysia kemungkinan mencerminkan jurang data, bukan ketiadaan penggunaan klinikal.
+## Bukti Ujian Klinikal
 
----
-
-## Bukti Percubaan Klinikal
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT02682524](https://clinicaltrials.gov/study/NCT02682524) | Fasa 4 | Selesai | 191 | Percubaan multipusat, rawak, buta-ganda, terkawal aktif yang menilai keberkesanan dan keselamatan PlbCR berbanding aceclofenac dalam osteoartritis lutut. Aceclofenac ialah pembanding aktif. |
-| [NCT00635349](https://clinicaltrials.gov/study/NCT00635349) | Fasa 4 | Selesai | 143 | Membandingkan penyelenggaraan tramadol/asetaminofen dengan penyelenggaraan NSAID dalam osteoartritis lutut. Aceclofenac hanya salah satu NSAID yang mungkin digunakan, jadi kaitannya tidak langsung. |
-
----
+Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [28293447](https://pubmed.ncbi.nlm.nih.gov/28293447/) | 2017 | Meta-analisis RCT | Eur J Rheumatol | Menganalisis kesan aceclofenac terhadap kesakitan, fungsi dan keselamatan berbanding NSAID lain atau ubat pelega sakit dalam osteoartritis. |
-| [16709320](https://pubmed.ncbi.nlm.nih.gov/16709320/) | 2006 | RCT | Curr Med Res Opin | Percubaan perbandingan rawak buta-ganda aceclofenac berbanding diclofenac dalam osteoartritis (pengalaman India). |
-| [24639945](https://pubmed.ncbi.nlm.nih.gov/24639945/) | 2014 | RCT | Knee Surg Relat Res | Kajian multipusat 4 minggu menilai kesan analgesik, keberkesanan dan keselamatan aceclofenac lepas terkawal dalam osteoartritis lutut kronik. |
-| [21277837](https://pubmed.ncbi.nlm.nih.gov/21277837/) | 2011 | RCT | J Pain | Kajian buta-ganda 6 minggu (285 pesakit) membandingkan aceclofenac-CR sekali sehari dengan aceclofenac biasa dua kali sehari dalam osteoartritis lutut. |
-| [32991606](https://pubmed.ncbi.nlm.nih.gov/32991606/) | 2020 | RCT (Fasa 4) | PLoS One | Ujian ketaksamaan-rendah (non-inferiority) pelubiprofen CR berbanding aceclofenac 200 mg/hari selama 4 minggu dalam osteoartritis lutut bergejala. |
-| [23581533](https://pubmed.ncbi.nlm.nih.gov/23581533/) | 2013 | RCT | Curr Med Res Opin | Perbandingan toleransi gastrousus dan keberkesanan aceclofenac berbanding diclofenac dalam osteoartritis lutut. |
-| [8608684](https://pubmed.ncbi.nlm.nih.gov/8608684/) | 1995 | RCT | Clin Rheumatol | Kajian 12 minggu (200 pesakit aceclofenac, 197 pesakit diclofenac) dalam osteoartritis lutut; kedua-dua kumpulan menunjukkan peningkatan. |
-| [9093797](https://pubmed.ncbi.nlm.nih.gov/9093797/) | 1997 | RCT | Clin Rheumatol | Aceclofenac (123 pesakit) berbanding piroxicam (117 pesakit) selama dua bulan; kedua-dua kumpulan menunjukkan peningkatan ketara. |
-| [34876850](https://pubmed.ncbi.nlm.nih.gov/34876850/) | 2021 | Ulasan | J Pain Res | Mengulas kesan analgesik dan anti-radang aceclofenac dalam gangguan otot dan rangka, termasuk osteoartritis. |
-| [11511027](https://pubmed.ncbi.nlm.nih.gov/11511027/) | 2001 | Ulasan | Drugs | Dalam osteoartritis lutut, aceclofenac mengurangkan kesakitan dan meningkatkan fungsi lutut pada tahap serupa dengan diclofenac, piroxicam dan naproxen. |
+Setakat ini tiada literatur berkaitan yang tersedia.
 
----
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL20026048AZ | Airtal 100mg Film-coated Tablet | Tablet bersalut filem | Tidak dicatatkan dalam data tempatan |
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pek untuk maklumat keselamatan. Data amaran utama, kontraindikasi dan interaksi ubat tidak tersedia dalam data yang dikumpulkan.
-
----
+Sila rujuk risalah maklumat produk (package insert) untuk maklumat keselamatan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Hold (Tangguh)**
 
-**Rasional:**
-- Aceclofenac disokong oleh meta-analisis RCT dan beberapa RCT dalam osteoartritis lutut, serta dua percubaan Fasa 4 yang selesai. Penggunaannya dalam osteoartritis sudah mapan di banyak pasaran, tetapi status pendaftaran di Malaysia tidak jelas.
+**Justifikasi:**
+Ramalan ini hanya berasaskan model; tiada ujian klinikal atau penerbitan yang mengkaji penyakit ini secara langsung, dan tiada mekanisme yang munasabah untuk kesan yang mengubah perjalanan penyakit. Tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Mengesahkan status pendaftaran dan indikasi diluluskan di NPRA, kerana data semasa menunjukkan tiada lesen.
-- Mendapatkan dan menghuraikan sisipan pek NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat).
-- Melengkapkan data mekanisme tindakan daripada DrugBank.
-- Menerapkan langkah berjaga-jaga NSAID piawai: pemantauan gastrousus, kardiovaskular dan renal.
-- Mengesahkan tahap bukti dengan rujukan kepada percubaan Fasa 3, kerana percubaan berdaftar dalam data ini ialah Fasa 4.
+- Maklumat amaran dan kontraindikasi daripada risalah maklumat produk NPRA (jurang data yang menghalang)
+- Data mekanisme tindakan (MOA) yang terperinci
+- Bukti praklinikal atau klinikal yang mengkaji penyakit ini secara langsung
+- Penilaian sama ada manfaat simptomatik (contohnya kelegaan sakit) relevan untuk populasi pesakit ini
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

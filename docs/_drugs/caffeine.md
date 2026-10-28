@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Caffeine
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 180
-evidence_level: L3
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Caffeine: indikasi baharu diramal Faringitis (tahap bukti L3). Indikasi asal: Rinitis alergi (daripada senarai indikasi graf pengetahuan TxGNN"
+evidence_level: L5
+indication_count: 8
+monitor_inn: "Caffeine"
+predicted_indications: ["nasal cavity disease", "thrombotic disease", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
+last_modified_at: 2026-10-23
+description: "Caffeine: indikasi baharu diramal Penyakit rongga hidung (tahap bukti L5). Indikasi asal: Tiada teks indikasi lulus dalam data pelesenan tempatan"
 ---
 
 # Caffeine
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,91 +33,111 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-## Kafein: Daripada Rinitis Alergi kepada Faringitis
+## Kafein: Daripada Sakit Kepala dan Rinitis kepada Penyakit Rongga Hidung
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Kafein ialah perangsang sistem saraf pusat yang digunakan dalam ubat sakit kepala, migrain dan selsema, sama ada sendiri atau dalam kombinasi dengan analgesik.
-Model TxGNN meramalkan ia mungkin berguna untuk **faringitis (sakit tekak)**, dengan **0 ujian klinikal** dan **3 penerbitan** (termasuk **1 RCT buta-ganda** pada 1991) yang menyokong arah ini.
-Kesan yang dicadangkan ialah sebagai bahan tambahan analgesik, bukan rawatan terhadap jangkitan itu sendiri.
+Kafein ialah bahan perangsang sistem saraf pusat yang hubungan dengan rinitis alahan, migrain, sakit kepala kluster dan beberapa keadaan sakit kepala lain direkodkan dalam graf pengetahuan TxGNN. Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit rongga hidung**, tetapi **tiada ujian klinikal** dan **tiada kajian yang menilai kafein sebagai rawatan penyakit rongga hidung** setakat ini. Keterangan setakat ini hanya berasaskan ramalan model.
 
 ---
 
-## Gambaran Keseluruhan
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Rinitis alergi (daripada senarai indikasi graf pengetahuan TxGNN; tiada teks indikasi berdaftar tempatan). Faringitis juga muncul dalam senarai ini. |
-| Indikasi Baharu yang Diramalkan | Faringitis |
-| Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Tahan) |
+| Indikasi Asal | Tiada teks indikasi lulus dalam data pelesenan tempatan; hubungan yang direkodkan dalam graf pengetahuan merangkumi rinitis alahan, rinitis vasomotor, migrain dan sakit kepala kluster (bukan indikasi yang diluluskan) |
+| Indikasi Baharu Diramalkan | Penyakit rongga hidung |
+| Skor Ramalan TxGNN | 0.9991 |
+| Tahap Keterangan | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) belum tersedia dalam data yang dihimpunkan untuk laporan ini. Berdasarkan maklumat sedia ada, kafein ialah antagonis reseptor adenosin dan perangsang pusat yang lazim ditambah dalam analgesik kombinasi. Ia boleh meningkatkan kesan aspirin dan analgesik serupa.
+Data terperinci tentang mekanisme tindakan kafein tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Secara umum diketahui, kafein ialah antagonis reseptor adenosin dan perencat fosfodiesterase, serta mempunyai kesan vasokonstriktif yang secara teorinya boleh mengurangkan kesesakan mukosa hidung.
 
-Faringitis menyebabkan sakit tekak akut yang secara tradisinya dirawat dengan analgesik. Kafein tidak mempunyai kesan antimikrob atau anti-radang langsung terhadap faringitis. Manfaat yang mungkin hanyalah sebagai penambah analgesik, iaitu membantu melegakan sakit tekak apabila digabungkan dengan aspirin. Satu RCT buta-ganda pada 1991 menguji hipotesis ini pada pesakit tonsilofaringitis akut.
+Hubungan rinitis alahan dan rinitis vasomotor dengan kafein hanyalah hubungan yang direkodkan dalam graf pengetahuan, bukan indikasi yang diluluskan. Skor ramalan yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi.
 
-Perlu diketahui bahawa dalam graf pengetahuan, faringitis sudah tersenarai bersama indikasi asal kafein. Oleh itu, ramalan ini lebih tepat dianggap soalan penyelidikan untuk mengesahkan bukti, bukan penemuan indikasi yang benar-benar baharu.
-
----
-
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan faringitis yang didaftarkan.
+Kesusasteraan yang diperoleh hanya berkaitan secara sampingan: formulasi gel intranasal praklinikal bagi tujuan kognisi (bukan penyakit hidung), ulasan tentang reseptor rasa pahit dalam saluran pernafasan, dan kajian haiwan tentang teh dan karsinogenesis paru-paru. Tiada satu pun menilai kafein sebagai rawatan penyakit rongga hidung.
 
 ---
 
-## Bukti Literatur
+## Keterangan Ujian Klinikal
+
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+
+---
+
+## Keterangan Kesusasteraan
+
+Tiada satu pun kajian di bawah mengkaji penyakit rongga hidung sebagai sasaran rawatan kafein.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [2012456](https://pubmed.ncbi.nlm.nih.gov/2012456/) | 1991 | RCT (buta-ganda) | Archives of Internal Medicine | Membandingkan aspirin 800 mg + kafein 64 mg (n=70), aspirin 800 mg sahaja (n=68) dan plasebo (n=69) dalam dos tunggal untuk sakit tekak akut akibat tonsilofaringitis. Keputusan tidak tersedia dalam petikan abstrak yang ada. |
-| [40626097](https://pubmed.ncbi.nlm.nih.gov/40626097/) | 2025 | Metodologi/Pembangunan model | Frontiers in Pain Research | Menerangkan model sakit tekak sebagai ujian untuk mengukur kesan terapeutik terhadap kesakitan akut. Bukan kajian khusus kafein. |
-| [14255548](https://pubmed.ncbi.nlm.nih.gov/14255548/) | 1964 | Ulasan (sejarah) | Zeitschrift für Laryngologie, Rhinologie, Otologie | Ulasan lama tentang keradangan kronik epifarinks. Tiada abstrak dan kaitan langsung dengan kafein tidak jelas. |
+| [35579146](https://pubmed.ncbi.nlm.nih.gov/35579146/) | 2022 | Kajian formulasi praklinikal | Current Drug Delivery | Gel in situ kafein intranasal peka suhu untuk meningkatkan kognisi selepas kurang tidur; bukan penyakit hidung |
+| [26272040](https://pubmed.ncbi.nlm.nih.gov/26272040/) | 2015 | Ulasan | Pharmacology & Therapeutics | Farmakologi reseptor rasa pahit (T2R) dan peranannya dalam saluran pernafasan manusia, termasuk rongga hidung |
+| [9751618](https://pubmed.ncbi.nlm.nih.gov/9751618/) | 1998 | Kajian haiwan | Cancer Research | Teh hitam dan kafein menghalang karsinogenesis paru-paru pada tikus yang dirawat dengan karsinogen |
+
+---
+
+## Maklumat Pasaran Malaysia
+
+Kesemua 9 pendaftaran ialah produk kombinasi; ia tidak boleh digunakan untuk menggambarkan status kelulusan kafein sebagai bahan tunggal. Teks indikasi yang diluluskan tidak tersedia dalam data untuk semua rekod.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL16095032X | Panadol Extra Tablet Optizorb Formulation | – | – |
+| MAL12035013X | Panadol Extra Caplet | – | – |
+| MAL22066017XC | Watsons Pain & Fever Relief EXTRA Tablet | – | – |
+| MAL13035053ACZ | Cafergot Tablet | – | – |
+| MAL20033465AEZ | PANADOL COLD EXTRA CAPLETS | – | – |
+
+Senarai di atas menunjukkan 5 daripada 9 pendaftaran.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Maklumat amaran dan kontraindikasi daripada sisipan pakej belum diperoleh. Sila rujuk sisipan pakej untuk maklumat keselamatan lengkap.
+- **Kontraindikasi (hubungan dalam graf pengetahuan, bukan teks label)**: hipertensi, sindrom takikardia ortostatik postural, hipotensi ortostatik, sindrom QT panjang, kegagalan hati, epilepsi, insomnia, penyakit paru obstruktif kronik, ulser gastrik dan peptik, gangguan keresahan, porfiria, penyakit buah pinggang, pankreatitis, penyakit pundi hempedu, trombositopenia, hipotiroidisme dan penyakit radang usus.
+- **Interaksi Ubat**: 75 interaksi direkodkan. Yang utama termasuk interaksi **Major** dengan kokain (nasal dan topikal); interaksi **Moderate** dengan alosetron, asid obetikolik, adenosin, anagrelida, bendamustin, siprofloksasin, sikloserin, dipiridamol dan duloksetin.
 
-- **Penyakit yang dikaitkan dengan kontraindikasi (daripada graf pengetahuan, bukan teks label):**
-  - Kardiovaskular: hipertensi, hipotensi ortostatik, sindrom takikardia ortostatik postural, sindrom QT panjang
-  - Saraf dan psikiatri: epilepsi, insomnia, gangguan kebimbangan, atrofi sistem berbilang
-  - Hepar, buah pinggang dan pankreas: kegagalan hati, penyakit hati, penyakit buah pinggang, pankreatitis
-  - Gastrousus: ulser gastrik, ulser peptik, penyakit radang usus, penyakit pundi hempedu
-  - Lain-lain: COPD, porfiria, trombositopenia, hipotiroidisme
-
-- **Interaksi Ubat:** 75 interaksi direkodkan.
-  - **Major:** kokain (nasal dan topikal)
-  - **Sederhana (contoh):** alosetron, adenosin, anagrelid, bendamustin, siprofloksasin, dipiridamol, duloksetin, obeticholic acid
-  - **Minor (contoh):** asid asetilsalisilik, simetidin, atazanavir, disulfiram
-
-- **Risiko lain:** Dos tinggi kafein boleh menyebabkan aritmia dan keracunan. Pengambilan berulang atau penarikan kafein juga boleh mencetuskan sakit kepala.
+Untuk amaran utama dan kontraindikasi daripada label, sila rujuk sisipan pek.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tahan)**
+**Keputusan: Hold**
 
 **Justifikasi:**
-- Hanya satu RCT lama (1991) menyokong kafein sebagai penambah analgesik untuk sakit tekak, tanpa ujian klinikal berdaftar. Skor ramalan TxGNN ialah 0.00%, produk tidak dipasarkan di Malaysia, dan data keselamatan daripada sisipan pakej belum diperoleh (jurang data yang menghalang).
-- Sebagai perbandingan, bagi **gangguan sakit kepala/migrain** (ramalan lain dalam data yang sama), terdapat ujian Fasa 3 yang besar, contohnya NCT02183688 (n=1,889, kombinasi ASA + parasetamol + kafein). Ini menunjukkan arah penilaian semula yang lebih kukuh, tetapi ia di luar skop laporan ini.
+Tiada ujian klinikal dan tiada kajian yang menilai kafein secara langsung untuk penyakit rongga hidung, maka tahap keterangan ialah L5. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
-- Memuat turun dan menghurai sisipan pakej NPRA untuk amaran dan kontraindikasi
+- Teks amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang saringan keselamatan)
 - Data mekanisme tindakan terperinci daripada DrugBank
-- Keputusan penuh RCT 1991 dan, jika boleh, kajian pengesahan moden untuk sakit tekak
-- Penilaian kebolehlaksanaan pendaftaran di Malaysia, memandangkan tiada produk kafein berdaftar pada masa ini
-- Pelan pemantauan keselamatan untuk populasi berisiko (penyakit kardiovaskular, epilepsi, kehamilan dan penyusuan)
+- Kajian klinikal atau praklinikal yang menilai kafein secara langsung untuk penyakit rongga hidung
+- Teks indikasi diluluskan bagi produk berdaftar dan kejelasan sumbangan kafein dalam kombinasi
+- Penilaian kesesuaian laluan pemberian
+
+---
+
+## Calon Ramalan Lain (Ringkasan)
+
+| Kedudukan | Penyakit Diramalkan | Skor TxGNN | Tahap Keterangan | Keputusan |
+|---|---|---|---|---|
+| 2 | Penyakit trombotik | 0.9990 | L4* | Hold |
+| 3 | Konjunktivitis papilari | 0.9979 | L5 | Hold |
+| 4 | Neuralgia | 0.9934 | L4* | Research Question |
+| 5 | Glosodinia | 0.9926 | L5 | Hold |
+| 6 | Koksigodinia | 0.9922 | L5 | Hold |
+| 7 | Sefalgia autonomik trigeminal | 0.9921 | L4* | Research Question |
+| 8 | Penyakit vena | 0.9906 | L4* | Hold |
+
+*Tahap L4 dalam data asal tidak disokong oleh kajian yang mengkaji penyakit tersebut secara langsung dengan kafein sebagai rawatan; penyemakan semula kepada L5 dicadangkan. Bagi sefalgia autonomik trigeminal, sebahagian besar bertindih dengan hubungan sakit kepala kluster yang sedia direkodkan dalam graf pengetahuan, dan terdapat risiko isyarat keselamatan protrombotik atau pendarahan bagi penyakit trombotik.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

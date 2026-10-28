@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cholecalciferol
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 217
-evidence_level: L2
-indication_count: 7
-last_modified_at: 2026-10-15
-description: "Cholecalciferol: indikasi baharu diramal Osteodistrofi renal (tahap bukti L2). Indikasi asal: Osteoporosis, osteoporosis pascamenopaus, kekurangan vitamin D…"
+evidence_level: L5
+indication_count: 4
 monitor_inn: "CHOLECALCIFEROL"
-predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hypophosphatemic rickets", "renal osteodystrophy", "renal tubular acidosis"]
+predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
+last_modified_at: 2026-10-27
+description: "Cholecalciferol: indikasi baharu diramal Displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type) (tahap bukti L5). Indikasi asal: Tidak direkodkan dala…"
 ---
 
 # Cholecalciferol
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **7** 
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,102 +33,71 @@ Tahap bukti: **L2** | Indikasi diramal: **7**
 
 </div>
 
-## Kolekalsiferol: Daripada Osteoporosis dan Kekurangan Vitamin D kepada Osteodistrofi Renal
+## Cholecalciferol: Vitamin D3 (pro-hormon kalsium dan fosfat) → Displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Kolekalsiferol (vitamin D3) pada asalnya digunakan untuk merawat osteoporosis, kekurangan vitamin D, riket dan osteomalasia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **osteodistrofi renal** (calon dengan bukti terkuat daripada data yang dikumpulkan), dengan **2 ujian klinikal** dan **20 penerbitan** yang menyokong arah ini.
-Calon ramalan peringkat teratas (hipoparatiroidisme terpencil familial) tidak mempunyai sebarang bukti sokongan, jadi laporan ini memberi tumpuan kepada calon yang mempunyai bukti paling kukuh.
+Cholecalciferol (vitamin D3) ialah pro-hormon yang ditukar dalam badan kepada bentuk aktif untuk mengawal penyerapan kalsium dan fosfat.
+Model TxGNN meramalkan ia mungkin berkesan untuk **displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type)**, sejenis displasia rangka yang sangat jarang berlaku.
+Setakat ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini, jadi ramalan ini hanya berasaskan model.
 
----
-
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Osteoporosis, osteoporosis pascamenopaus, kekurangan vitamin D, osteomalasia, riket, hipoparatiroidisme (berdasarkan graf pengetahuan PrimeKG; tiada teks indikasi berlesen tersedia) |
-| Indikasi Baharu yang Diramal | Osteodistrofi renal |
-| Skor Ramalan TxGNN | 99.11% |
-| Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
-
-> Nota: Calon pada kedudukan teratas (hipoparatiroidisme terpencil familial akibat gangguan rembesan PTH, skor 99.79%) hanya L5 dan disyorkan **Hold**. Osteodistrofi renal dipilih sebagai fokus kerana ia mempunyai bukti klinikal paling banyak.
-
----
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type) |
+| Skor Ramalan TxGNN | 0.9978 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 800 daripada 800) |
+| Bilangan Pendaftaran | 800 (sah: 800) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, kolekalsiferol ialah pro-hormon yang dihidroksilkan di hati menjadi 25-hidroksivitamin D, kemudian di buah pinggang menjadi 1,25-dihidroksivitamin D (kalsitriol) yang aktif. Bentuk aktif ini mengawal penyerapan kalsium dan fosforus serta rembesan hormon paratiroid (PTH).
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, cholecalciferol ditukar di hati dan buah pinggang kepada bentuk aktif (calcitriol), yang mengawal kalsium dan fosfat untuk pemineralan tulang.
 
-Pada penyakit buah pinggang kronik (CKD), kekurangan vitamin D dan pengaktifan renal yang terjejas menyumbang kepada hiperparatiroidisme sekunder dan gangguan mineral-tulang, yang merupakan asas osteodistrofi renal. Kolekalsiferol boleh menambah semula paras 25-OH-D dan mungkin menurunkan PTH. Ini sejajar secara biologi dengan indikasi asalnya, iaitu kekurangan vitamin D dan osteomalasia.
+Keadaan yang diramalkan ialah displasia rangka genetik yang sangat jarang berlaku. Tiada hubungan mekanistik yang jelas antara vitamin D dengan kecacatan genetik asas penyakit ini. Satu-satunya kaitan yang boleh dibayangkan ialah kesan umum vitamin D terhadap metabolisme tulang dan mineral, yang tidak mungkin menangani punca genetik. Skor yang tinggi (0.9978) ialah ramalan model sahaja dan tidak boleh dianggap bukti keberkesanan.
 
-Namun, penghidroksilan-1-alfa berlaku di buah pinggang, jadi pada CKD lanjut kolekalsiferol sahaja mungkin tidak mencukupi dan analog aktif (contohnya doksekalsiferol) kadangkala diperlukan. Bukti yang ada juga lebih tertumpu pada penurunan PTH dan pembetulan paras vitamin D berbanding hasil tulang yang keras.
+## Bukti Percubaan Klinikal
 
----
-
-## Bukti Ujian Klinikal
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00752401](https://clinicaltrials.gov/study/NCT00752401) | Fasa 3 | Tidak diketahui | 200 | VITA-D: kolekalsiferol berbanding plasebo pada penerima transplan buah pinggang yang kekurangan vitamin D; menilai kadar penapisan glomerulus, kreatinin, episod penolakan akut, jangkitan dan CRP dalam tahun pertama. Tiada keputusan disahkan. |
-| [NCT00285467](https://clinicaltrials.gov/study/NCT00285467) | NA | Selesai | 55 | Perbandingan kolekalsiferol dengan doksekalsiferol dalam hiperparatiroidisme sekunder pada CKD peringkat 3-4. Saiz kecil. |
-
----
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [34747516](https://pubmed.ncbi.nlm.nih.gov/34747516/) | 2022 | Analisis sekunder RCT | J Bone Miner Res | Suplemen kolekalsiferol mengurangkan kehilangan tulang pada penerima transplan buah pinggang (193 pesakit) |
-| [38397979](https://pubmed.ncbi.nlm.nih.gov/38397979/) | 2024 | Kajian pemerhatian | Biomedicines | Keberkesanan dan keselamatan kolekalsiferol dos tinggi pada pesakit hemodialisis |
-| [39597015](https://pubmed.ncbi.nlm.nih.gov/39597015/) | 2024 | Kajian pemerhatian prospektif | Medicina (Kaunas) | Pesakit hemodialisis mungkin mendapat manfaat daripada paras 25(OH)D yang tinggi |
-| [35200136](https://pubmed.ncbi.nlm.nih.gov/35200136/) | 2022 | Kajian prospektif terkawal | Clin Nephrol | Kesan sterol vitamin D terhadap histologi tulang pada pesakit pra-dialisis |
-| [30274806](https://pubmed.ncbi.nlm.nih.gov/30274806/) | 2019 | Ulasan | Nefrologia | Vitamin D asli pada CKD pra-dialisis; peranan optimum masih belum jelas |
-| [33922902](https://pubmed.ncbi.nlm.nih.gov/33922902/) | 2021 | Ulasan | Nutrients | Kesan vitamin D terhadap tulang dan kardiovaskular pada CKD dan penerima transplan |
-| [30297082](https://pubmed.ncbi.nlm.nih.gov/30297082/) | 2018 | Laporan bengkel | Am J Kidney Dis | Peranan vitamin D dalam CKD peringkat 3-4; pengurusan masih kontroversi |
-| [34626363](https://pubmed.ncbi.nlm.nih.gov/34626363/) | 2022 | Ulasan | J Nephrol | Kalsifediol lepas lama untuk hiperparatiroidisme sekunder berkaitan hipovitaminosis D |
-| [20671739](https://pubmed.ncbi.nlm.nih.gov/20671739/) | 2010 | Ulasan | Kidney Int Suppl | Penyakit tulang buah pinggang dan kematian pada CKD |
-| [36012412](https://pubmed.ncbi.nlm.nih.gov/36012412/) | 2022 | Ulasan | Int J Mol Sci | Peranan vitamin D dalam pelbagai keadaan renal |
-
----
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Tiada lesen kolekalsiferol berdaftar dalam data yang dikumpulkan; status pasaran ialah **tidak dipasarkan** (0 pendaftaran).
+Data tempatan merekodkan 800 lesen yang sah, termasuk 71 produk bahan tunggal. Lesen produk kombinasi tidak digunakan untuk menerangkan status produk bahan tunggal. Teks indikasi dan bentuk dosej tidak direkodkan dalam data tempatan. Contoh produk bahan tunggal:
 
----
+| Nombor Kelulusan | Nama Produk | Pengeluar |
+|---------|------|------|
+| MAL16045017NC | Nature`s ScienCeuticals SUPA-D3 Softgel | NATURES SCIENCEUTICALS SDN BHD |
+| MAL21056036NCR | YesHealth Yes Vitamin D3 1000 I.U. Capsule | YES HEALTH SDN BHD |
+| MAL21076039NC | DUO LEAF VITAMIN D3 1000 IU TABLET | STELLAR BIO SDN BHD |
+| MAL21086033N | Nutrifort Vitamin D3 400IU Orodispersible Tablet | YANLING NATURAL HYGIENE SDN. BHD. |
+| MAL18086102ARZ | D-CURE 25,000IU ORAL SOLUTION | HYPHENS PHARMA SDN. BHD. |
 
 ## Pertimbangan Keselamatan
 
-- **Kontraindikasi (berdasarkan graf pengetahuan, bukan teks label)**: penyakit berkaitan seperti hiperparatiroidisme, hiperkalsemia, nefrokalsinosis, gangguan metabolisme fosforus, penyakit buah pinggang, penyakit hati, sarkoidosis, hiperoksaluria primer, hemokromatosis, penyakit Wilson, hipertensi, diabetes, fibrilasi atrium dan kanser prostat/payudara. Ini perlu disahkan dengan sisipan pakej rasmi.
-- **Interaksi Ubat**: 56 interaksi direkodkan. Yang bertahap **Major** ialah kalsifediol, kalsitriol, dihidrotakisterol dan doksekalsiferol (analog vitamin D lain; risiko hiperkalsemia tambahan). Yang bertahap **Moderate** termasuk barbiturat (amobarbital, butabarbital, butalbital), karbamazepin, diuretik tiazid (klorotiazid, klortalidon, bendroflumetiazid, benztiazid), digoksin/digitoksin, serta penyerap asid hempedu (kolestiramin, kolesevelam, kolestipol). Kalsipotriol dan kalsitriol topikal juga bertahap Moderate. Simetidin bertahap Minor.
-- **Perhatian khusus**: risiko hiperkalsemia, hiperfosfatemia dan kalsifikasi vaskular pada pesakit CKD; laporan kes overdos vitamin D3 pada kanak-kanak dengan asidosis tubular renal.
+- **Interaksi ubat**: 56 interaksi direkodkan. Interaksi tahap **Major** melibatkan ubat vitamin D lain, iaitu calcifediol, calcitriol, dihydrotachysterol dan doxercalciferol. Risiko utama ialah kalsium darah yang terlalu tinggi apabila digunakan serentak. Interaksi tahap sederhana termasuk diuretik tiazid (contohnya chlorothiazide, chlorthalidone), digoxin dan digitoxin, barbiturat, carbamazepine, serta penyerap asid hempedu (cholestyramine, colestipol, colesevelam).
 
-Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
-
----
+Sila rujuk sisipan pakej untuk amaran dan kontraindikasi yang lengkap.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)** untuk osteodistrofi renal.
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Terdapat ujian Fasa 3 (status tidak diketahui, populasi transplan) dan ujian selesai yang membandingkan kolekalsiferol dengan analog aktif, bersama literatur yang munasabah. Bukti dinilai L2 dan bukan L1 kerana status Fasa 3 tidak disahkan dan populasinya bukan osteodistrofi renal klasik.
+- Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal atau literatur yang menyokongnya, dan tiada hubungan mekanistik yang jelas dengan penyakit genetik yang sangat jarang berlaku ini.
 
-**Untuk diteruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA (amaran dan kontraindikasi) dan data MOA terperinci daripada DrugBank; tiada produk berdaftar di Malaysia buat masa ini.
-- Pemantauan kalsium, fosfat dan PTH untuk mengelakkan hiperkalsemia dan kalsifikasi vaskular.
-- Data hasil tulang keras (histologi, ketumpatan tulang, patah tulang) pada pesakit CKD.
-- Pengesahan status dan keputusan ujian NCT00752401.
-
-**Calon lain (ringkasan):**
-- Hipoparatiroidisme terpencil familial, displasia akromesomelik, konodisplasia kraniofasial, sindrom Dahlberg-Borer-Newcomer: **Hold** (L5, tiada bukti khusus penyakit; skor tinggi kemungkinan artifak graf pengetahuan atau mencerminkan indikasi sedia ada).
-- Riket hipofosfatemik: L4, **Research Question**. Rawatan piawai menggunakan fosfat dengan vitamin D aktif atau burosumab, dan kolekalsiferol sahaja tidak mencukupi.
-- Asidosis tubular renal: L4, **Hold**. Vitamin D mungkin menangani penyakit tulang sampingan tetapi bukan kecacatan pengasidan, dan terdapat risiko overdos.
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci
+- Kajian praklinikal atau laporan kes yang menghubungkan vitamin D dengan penyakit ini
+- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Penilaian keselamatan, terutamanya risiko hiperkalsemia pada dos tinggi
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

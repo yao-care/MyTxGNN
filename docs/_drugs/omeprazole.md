@@ -3,16 +3,18 @@ layout: default
 title: Omeprazole
 parent: Low Evidence (L4-L5)
 nav_order: 545
-evidence_level: L4
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Omeprazole: indikasi baharu diramal Hiperinsulinisme (tahap bukti L4). Indikasi asal: Ulser gastrik, penyakit ulser peptik, penyakit refluks gastroesofagus…"
+evidence_level: L5
+indication_count: 1
+monitor_inn: "Omeprazole"
+predicted_indications: ["duodenal obstruction"]
+last_modified_at: 2026-10-23
+description: "Omeprazole: indikasi baharu diramal Sekatan duodenum (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan"
 ---
 
 # Omeprazole
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,100 +33,86 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-## Omeprazole: Daripada Penyakit Ulser Gastrik kepada Hiperinsulinisme
+## Omeprazole: Daripada Penyakit Ulser Peptik kepada Sekatan Duodenum
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Omeprazole ialah perencat pam proton (PPI) yang pada asalnya digunakan untuk merawat ulser gastrik, penyakit refluks gastroesofagus, esofagitis dan ulser duodenum.
-Model TxGNN meramalkan ia mungkin berkesan untuk **hiperinsulinisme**, tetapi hanya terdapat **1 ujian klinikal** (tidak berkaitan secara langsung) dan **4 penerbitan** (kebanyakannya kajian praklinikal haiwan) yang menyokong arah ini.
-Perlu diberi perhatian: hiperinsulinisme sudah tersenarai antara indikasi asal dalam graf pengetahuan, jadi ini bukan isyarat pengitaran semula yang baharu.
-
----
+Omeprazole ialah perencat pam proton yang pada asalnya direkodkan dalam graf pengetahuan untuk penyakit berkaitan asid gastrik, seperti ulser gastrik, ulser duodenum, penyakit refluks gastroesofagus dan sindrom Zollinger-Ellison.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sekatan duodenum (duodenal obstruction)**.
+Setakat ini terdapat **1 ujian klinikal** (relevansi rendah) dan **5 penerbitan** (kebanyakannya laporan kes dan ulasan), tetapi tiada satu pun yang mengkaji penyakit ini secara langsung.
 
 ## Gambaran Ringkas
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Ulser gastrik, penyakit ulser peptik, penyakit refluks gastroesofagus, esofagitis, ulser duodenum, sindrom Zollinger-Ellison (daripada graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Hiperinsulinisme |
-| Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikumpulkan; kemungkinan isu data, kerana omeprazole dipasarkan secara meluas) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
----
+| Indikasi Asal | Tiada teks indikasi diluluskan dalam data pendaftaran tempatan; indikasi yang direkodkan dalam graf pengetahuan ialah ulser gastrik, penyakit ulser peptik, penyakit refluks gastroesofagus, ulser duodenum dan sindrom Zollinger-Ellison |
+| Indikasi Baharu yang Diramalkan | Sekatan duodenum |
+| Skor Ramalan TxGNN | 0.9964 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 45 daripada 45) |
+| Bilangan Pendaftaran | 45 (sah: 45) |
+| Keputusan yang Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara amnya diketahui bahawa omeprazole menghalang H+/K+-ATPase (pam proton) dalam sel parietal gaster dan menekan rembesan asid.
+Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, omeprazole ialah perencat pam proton yang dikenali umum, yang menyekat rembesan asid gastrik. Berdasarkan maklumat yang diketahui, mekanisme ini menjelaskan hubungannya dengan penyakit ulser peptik.
 
-Bagi hiperinsulinisme, hubungan mekanistik yang dicadangkan adalah tidak langsung. Kajian praklinikal menunjukkan penggunaan omeprazole jangka panjang menyebabkan hipergastrinemia, yang mengubah homeostasis glukosa. Pada tikus db/db, omeprazole yang digabungkan dengan agonis GLP-1 (exendin-4) memperbaik kesan anti-obesiti, antidiabetes dan kepekaan insulin. Gastrin mungkin menggalakkan jisim sel beta dan rembesan insulin.
+Sekatan duodenum (seperti stenosis duodenum) sering berlaku sebagai komplikasi ulser peptik. Menekan asid mungkin membantu menyembuhkan ulser asas dan mengurangkan edema keradangan yang menyumbang kepada penyempitan lumen, dan rawatan sering digabungkan dengan pembasmian *H. pylori*.
 
-Namun, ini hanyalah hipotesis. Arah kesannya tidak jelas: kajian 2024 melaporkan perubahan homeostasis glukosa yang mungkin sebenarnya memudaratkan. Oleh itu, ramalan ini tidak boleh dianggap sebagai bukti berkesan.
-
----
+Namun, kesan ini bersifat tidak langsung. Omeprazole tidak melegakan sekatan mekanikal atau fibrotik yang tetap. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi, dan bukannya kesan terapeutik yang berasingan terhadap sekatan itu sendiri.
 
 ## Bukti Ujian Klinikal
 
 | Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01876108](https://clinicaltrials.gov/study/NCT01876108) | Fasa 2 | Selesai | 100 | Kesan pembasmian *Helicobacter pylori* terhadap kandungan lemak hati dalam penyakit hati berlemak bukan alkohol. Omeprazole mungkin hanya sebahagian daripada rejimen pembasmian dan titik akhir bukan hiperinsulinisme; kaitan hanya tidak langsung (gred C). |
-
----
+| [NCT00557921](https://clinicaltrials.gov/study/NCT00557921) | Fasa 3 | Ditamatkan | 5000 | Ujian COGENT-1: CGT-2168 (klopidogrel + omeprazole) berbanding klopidogrel untuk mengurangkan pendarahan gastrousus dan penyakit ulser bergejala pada pesakit yang menggunakan aspirin. Tidak mengkaji sekatan duodenum secara langsung. |
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [38884019](https://pubmed.ncbi.nlm.nih.gov/38884019/) | 2024 | Praklinikal (haiwan) | BioMed Res Int | Omeprazole jangka panjang pada tikus mencetuskan hipergastrinemia serta mengubah homeostasis glukosa dan ekspresi gen berkaitan metabolisme |
-| [22830490](https://pubmed.ncbi.nlm.nih.gov/22830490/) | 2013 | Praklinikal (tikus db/db) | J Diabetes | Omeprazole memperbaik kesan anti-obesiti dan antidiabetes exendin-4 |
-| [24145087](https://pubmed.ncbi.nlm.nih.gov/24145087/) | 2013 | Praklinikal (haiwan) | Pharmacol Rep | Gabungan omeprazole dengan agonis GLP-1 memperbaik kepekaan insulin dan aktiviti antioksidan hati pada tikus diabetes jenis 1 |
-| [28780229](https://pubmed.ncbi.nlm.nih.gov/28780229/) | 2017 | Kajian klinikal (tidak langsung) | Diabetes Metab Syndr | Kesan pembasmian *H. pylori* terhadap parameter sindrom metabolik pada pesakit dispepsia fungsian |
-
----
+| [7795284](https://pubmed.ncbi.nlm.nih.gov/7795284/) | 1995 | Kohort | Ital J Gastroenterol | Pesakit remaja dengan ulser duodenum dan stenosis bulbus duodenum; omeprazole 4 bulan tidak mengubah gambaran endoskopi, manakala terapi tiga serangkai untuk *H. pylori* menyembuhkan ulser dan stenosis. |
+| [1475769](https://pubmed.ncbi.nlm.nih.gov/1475769/) | 1992 | Ulasan | Ther Umsch | Diagnosis penyakit ulser peptik; endoskopi gastrousus atas ialah alat pilihan, dan pemeriksaan kontras berguna jika terdapat sekatan keluar gaster yang ketara. |
+| [9005711](https://pubmed.ncbi.nlm.nih.gov/9005711/) | 1996 | Ulasan | Acta Med Port | Penyakit Crohn gastroduodenum dengan sekatan keluar gaster; prednisolone dan omeprazole tidak berjaya, pembedahan diperlukan. |
+| [8165479](https://pubmed.ncbi.nlm.nih.gov/8165479/) | 1994 | Laporan kes | Surg Endosc | Ulser marginal gergasi selepas gastroenterostomi; sekatan ialah salah satu komplikasinya. |
+| [9306611](https://pubmed.ncbi.nlm.nih.gov/9306611/) | 1997 | Laporan kes | Surg Today | Penglibatan duodenum dalam penyakit Crohn dengan sekatan keluar gaster; pembedahan diperlukan. |
 
 ## Maklumat Pasaran Malaysia
 
-Menurut data yang dikumpulkan, tiada lesen berdaftar dikesan (status: tidak dipasarkan). Ini kemungkinan isu data dan perlu disahkan dengan NPRA.
+Teks indikasi yang diluluskan tidak tersedia dalam rekod pendaftaran. Di bawah ialah sebahagian daripada 45 pendaftaran (hanya produk bahan tunggal disenaraikan).
 
----
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL20020239ARZ | NEXIUM MUPS TABLET 40MG | Tiada data | Tiada data |
+| MAL19992065ACRZ | LOSEC MUPS 20MG TABLET | Tiada data | Tiada data |
+| MAL18056152AZ | Promesec Capsule 20mg | Tiada data | Tiada data |
+| MAL09011422AZ | Gastrazole (Omeprazole for Injection 40 mg/vial) | Tiada data | Tiada data |
+| MAL05041936AZ | Omesec Capsule 20mg | Tiada data | Tiada data |
 
 ## Pertimbangan Keselamatan
 
-- **Penyakit/keadaan yang dikaitkan dengan kontraindikasi dalam graf pengetahuan** (bukan teks label): kegagalan hati, penyakit hati, penyakit pundi hempedu, kegagalan jantung kongestif, osteoporosis, osteoporosis pascamenopaus, patah tulang, gastritis atrofi kronik.
-- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan. Contoh interaksi **Major**: acalabrutinib dan atazanavir. Contoh interaksi **Moderate**: abametapir (topikal), hidroklorotiazid, alprazolam, amfoterisin B, amikasin, amfetamin, anagrelide, fenofibrat, apalutamide, armodafinil dan atorvastatin. Contoh interaksi **Minor**: lidokain, nifedipin, ambrisentan dan asid asetilsalisilik.
+**Kontraindikasi dalam graf pengetahuan** (hubungan yang direkodkan dalam graf pengetahuan, bukan teks label): penyakit hati/kegagalan hati, penyakit pundi hempedu, kegagalan jantung kongestif, osteoporosis (termasuk osteoporosis pascamenopaus), patah tulang, dan gastritis atrofi kronik.
 
-Untuk amaran utama dan kontraindikasi daripada label, sila rujuk risalah maklumat produk.
+**Interaksi Ubat**: Pertanyaan selesai dengan 100 interaksi direkodkan. Antara yang disenaraikan:
+- **Major**: acalabrutinib, atazanavir
+- **Moderate**: antara lain abametapir (topikal), hidroklorotiazida, alprazolam, amfoterisin B, amikasin, amfetamin, anagrelid, fenofibrat, apalutamid, armodafinil, atorvastatin
+- **Minor**: lidokain, nifedipin, ambrisentan, asid asetilsalisilik
 
----
+Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi yang rasmi.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
-**Justifikasi:**
-- Bukti hanya setakat praklinikal dan tidak langsung (L4). Satu-satunya ujian klinikal mengkaji pembasmian *H. pylori* dalam NAFLD, bukan omeprazole untuk hiperinsulinisme. Arah kesan juga tidak jelas dan mungkin memudaratkan. Hiperinsulinisme sudah menjadi indikasi asal, maka ini bukan isyarat pengitaran semula yang baharu.
+**Rasional:**
+- Tiada ujian atau penerbitan yang mengkaji sekatan duodenum secara langsung dengan omeprazole; satu-satunya ujian klinikal berkaitan ialah ujian pencegahan pendarahan gastrousus dengan relevansi rendah. Oleh itu tahap bukti ialah L5. Omeprazole tidak melegakan sekatan mekanikal atau fibrotik, dan skor tinggi kemungkinan mencerminkan kedekatan dengan penyakit ulser peptik.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) daripada DrugBank.
-- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA (jurang data yang menghalang saringan keselamatan).
-- Pengesahan status pendaftaran dan pemasaran omeprazole di Malaysia.
-- Kajian klinikal manusia yang menilai kesan omeprazole terhadap rembesan insulin atau hiperinsulinisme, termasuk penilaian arah kesan (manfaat berbanding mudarat).
-
----
-
-## Lampiran: Indikasi Lain yang Diramalkan
-
-Berikut ialah ramalan lain dalam data yang dikumpulkan. Kesemuanya berkait dengan indikasi asal yang sudah mantap:
-
-| Indikasi | Tahap Bukti | Keputusan | Catatan |
-|------|------|------|------|
-| Esofagitis | L1 | Proceed with Guardrails | Terdapat RCT Fasa 3 selesai (cth. [NCT00633932](https://clinicaltrials.gov/study/NCT00633932), n=602; [NCT00256737](https://clinicaltrials.gov/study/NCT00256737), kajian susulan 10 tahun berbanding pembedahan antirefluks). Perlu diberi perhatian pada genotip CYP2C19, interaksi ubat dan risiko penggunaan PPI jangka panjang. Esofagitis eosinofilik ialah entiti berasingan dan memerlukan penilaian tersendiri. |
-| Ulser gastrik | L1 | Proceed with Guardrails | Disokong ujian Fasa 3/4 (termasuk omeprazole intravena untuk ulser berdarah) dan literatur rawatan ulser akut. Status *H. pylori* perlu dinilai. |
-| Ulser duodenum | L1 | Proceed with Guardrails | Disokong ujian Fasa 3 (cth. [NCT00952978](https://clinicaltrials.gov/study/NCT00952978)) dan analisis gabungan ujian perbandingan dengan ranitidin. Sahkan dan rawat *H. pylori*. |
-| Abnormaliti rembesan gastrin | L3 | Proceed with Guardrails | Tiada ujian berdaftar; bukti terhad kepada siri kes lama (cth. 20 pesakit ZES) dan ulasan. PPI sendiri boleh mencetuskan hipergastrinemia. |
+- Kajian klinikal yang menilai omeprazole secara langsung pada sekatan duodenum, dan menjelaskan sama ada sebarang manfaat hanya melalui rawatan ulser asas
+- Data mekanisme tindakan terperinci
+- Amaran dan kontraindikasi daripada sisipan pek NPRA (belum tersedia) serta teks indikasi diluluskan bagi setiap pendaftaran
+- Penilaian keselamatan bagi populasi khusus (contohnya penyakit hati, osteoporosis) dan interaksi ubat utama
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

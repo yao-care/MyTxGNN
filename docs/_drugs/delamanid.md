@@ -3,18 +3,18 @@ layout: default
 title: Delamanid
 parent: Low Evidence (L4-L5)
 nav_order: 262
-evidence_level: L4
-indication_count: 7
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Delamanid: indikasi baharu diramal Tuberkulosis bovin (tuberculosis, bovine) (tahap bukti L4). Indikasi asal: Tuberkulosis rintang pelbagai ubat (MDR-TB)"
 monitor_inn: "DELAMANID"
 predicted_indications: ["allergic urticaria"]
+description: "Delamanid: indikasi baharu diramal Allergic urticaria (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Delamanid
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **7** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **7**
 
 </div>
 
-## Delamanid: Daripada Tuberkulosis Rintang Pelbagai Ubat (MDR-TB) kepada Tuberkulosis Bovin
+## Delamanid: Allergic urticaria
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini hanya terdapat **0 percubaan klinikal** dan **1 penerbitan** 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tuberkulosis rintang pelbagai ubat (MDR-TB) |
-| Indikasi Baharu yang Diramalkan | Tuberkulosis bovin (tuberculosis, bovine) |
-| Skor Ramalan TxGNN | 99.91% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Allergic urticaria |
+| Skor Ramalan TxGNN | 0.9956 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -103,12 +103,7 @@ Selain tuberkulosis bovin, beberapa indikasi lain turut diramalkan. Ringkasannya
 
 | Indikasi | Skor | Tahap Bukti | Cadangan | Catatan |
 |------|------|------|------|------|
-| Tuberkulosis avian | 99.91% | L5 | Hold | Disebabkan oleh kompleks *M. avium* (mikobakteria bukan tuberkulosis) yang umumnya tiada laluan pengaktifan Ddn; tiada percubaan dan tiada literatur |
-| Tuberkuloma | 99.91% | L4 | Hold | Penembusan ke sistem saraf pusat tidak jelas; hanya satu ulasan umum neurotuberkulosis |
-| Asites tuberkulosis | 99.91% | L5 | Hold | Munasabah secara biologi tetapi hanya berasaskan ramalan |
-| Tuberkulosis tidak aktif | 99.91% | L2 | Persoalan penyelidikan | Percubaan Fasa 2/3 [NCT05766267](https://clinicaltrials.gov/study/NCT05766267) (CRUSH-TB, n=288, aktif tidak merekrut) menguji rejimen jangka pendek untuk TB pulmonari aktif, bukan jangkitan laten |
-| Urtikaria alergik | 99.56% | L5 | Hold | Tiada kaitan mekanistik; kemungkinan artifak model |
-| Tuberkulosis kutaneus | 99.10% | L4 | Hold | Literatur yang dipautkan berkaitan reaksi buruk kutaneus terhadap ubat TB lini pertama, bukan rawatan |
+| Urtikaria alergik | 0.9956 | L5 | Hold | Tiada kaitan mekanistik; kemungkinan artifak model |
 
 Antara semua indikasi ini, tuberkulosis tidak aktif mempunyai bukti terkuat, namun percubaan tersebut belum mengesahkan sumbangan delamanid dan tidak menyasarkan jangkitan laten.
 ## Penafian

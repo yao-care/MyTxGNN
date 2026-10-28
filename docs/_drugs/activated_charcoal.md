@@ -8,6 +8,7 @@ nav_order: 24
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Activated Charcoal
@@ -51,8 +52,8 @@ Akibatnya, penilaian formal untuk penggunaan ubat bagi indikasi baru tidak dapat
 | Indikasi Baru Yang Diramalkan | Tiada — tiada prediksi TxGNN dijana |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 (tiada prediksi atau kajian sokongan diperolehi) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Yang Disyorkan | Tangguhkan |
 
 ---

@@ -7,13 +7,14 @@ drugbank_id: "DB01198"
 drug_name: "Zopiclone"
 kg_predictions: 4
 dl_predictions: 8
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/zopiclone/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Zopiclone
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **4** ramalan graf pengetahuan dan **8** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **4** ramalan model TxGNN (pembelajaran mendalam) dan **8** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

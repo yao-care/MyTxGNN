@@ -6,9 +6,9 @@ nav_order: 607
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Prothrombin: indikasi baharu diramal Glanzmann thrombasthenia (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen berdaftar)"
 monitor_inn: "prothrombin"
 predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets"]
+description: "Prothrombin: indikasi baharu diramal Glanzmann thrombasthenia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Prothrombin
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Protrombin: Daripada Penunjuk Asal Tidak Dinyatakan kepada Glanzmann Thrombasthenia
+## Prothrombin: Glanzmann thrombasthenia
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Glanzmann thrombasthenia**, t
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen berdaftar) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Glanzmann thrombasthenia |
-| Skor Ramalan TxGNN | 99.14% |
+| Skor Ramalan TxGNN | 0.9914 |
 | Tahap Bukti | L5 (ramalan model sahaja, tiada kajian klinikal langsung) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 *Catatan: Penilaian dalaman data memberi L4, tetapi mengikut peraturan penentuan tahap, ketiadaan sebarang kajian praklinikal atau mekanistik langsung mengenai protrombin untuk indikasi ini menjadikan L5 lebih tepat.*
@@ -65,7 +65,7 @@ Butiran mekanisme tindakan (MOA) protrombin tidak tersedia dalam data yang dikum
 
 Glanzmann thrombasthenia ialah gangguan platelet keturunan akibat kekurangan atau disfungsi integrin alfa-IIb/beta-3 (GPIIb/IIIa), yang menjejaskan agregasi platelet. Protrombin bertindak di hilir dalam lata pembekuan, jadi pembekalannya tidak membetulkan kecacatan utama agregasi platelet. Sebarang manfaat yang mungkin hanyalah tidak langsung, iaitu menyokong penjanaan trombin dan pembentukan fibrin.
 
-Dalam amalan, rawatan sedia ada bergantung pada transfusi platelet dan faktor VII teraktif rekombinan (rFVIIa, NovoSeven) yang memintas kecacatan platelet. Skor TxGNN yang tinggi (0.991) ialah ramalan berasaskan rangkaian dan bukan bukti klinikal langsung untuk protrombin.
+Dalam amalan, rawatan sedia ada bergantung pada transfusi platelet dan faktor VII teraktif rekombinan (rFVIIa, NovoSeven) yang memintas kecacatan platelet. Skor TxGNN yang tinggi (0.9914) ialah ramalan berasaskan rangkaian dan bukan bukti klinikal langsung untuk protrombin.
 
 ---
 
@@ -96,7 +96,6 @@ Penerbitan yang diperoleh terdiri daripada ulasan, laporan kes, kajian kohort da
 
 ## Maklumat Pasaran Malaysia
 
-Protrombin tidak dipasarkan di Malaysia dan tiada lesen berdaftar dalam data yang dikumpulkan.
 
 ---
 
@@ -112,7 +111,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada amaran utama, kontrai
 
 **Rasional:**
 - Skor TxGNN tinggi tetapi tiada ujian klinikal, tiada literatur yang menilai protrombin secara langsung, dan mekanismenya tidak membetulkan kecacatan utama platelet (GPIIb/IIIa). Rawatan sedia ada (transfusi platelet, rFVIIa) pula lebih sesuai dari segi mekanisme.
-- Ramalan kedua, *primary release disorder of platelets* (skor 99.02%, tahap bukti L5, juga Hold), turut tidak mempunyai ujian klinikal dan literaturnya kebanyakannya tidak berkaitan.
+- Ramalan kedua, *primary release disorder of platelets* (skor 0.9902, tahap bukti L5, juga Hold), turut tidak mempunyai ujian klinikal dan literaturnya kebanyakannya tidak berkaitan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi) serta status pendaftaran produk yang mengandungi protrombin (contohnya kompleks protrombin) di Malaysia

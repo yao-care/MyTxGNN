@@ -8,6 +8,7 @@ nav_order: 157
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Blinatumomab
@@ -49,8 +50,8 @@ Blinatumomab (DB09052) ialah antibodi penglibat sel-T biespesifik (BiTE) yang di
 | Petunjuk Baru yang Diramalkan | **Tiada** — tiada ramalan TxGNN tersedia |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | **L5** (Tiada ramalan, tiada kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tunda** |
 
 ---

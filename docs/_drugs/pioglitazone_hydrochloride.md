@@ -8,6 +8,7 @@ nav_order: 575
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Pioglitazone Hydrochloride
@@ -51,8 +52,8 @@ Setelah ramalan dijana, mekanisme peka insulin dan anti-radang ubat menjadikanny
 | Petunjuk Baru Diramal | Tidak tersedia — ramalan TxGNN belum dijana |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | T/A |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 6 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | **Tahan** |
 
 ---
@@ -117,7 +118,7 @@ Pakej Bukti ini sangat tidak lengkap — tiada ramalan penggunaan kembali TxGNN 
 **Untuk meneruskan, berikut diperlukan:**
 
 - **[Kritikal — Sekat]** Muat turun dan huraikan PDF sisipan pakej Malaysia untuk mengekstrak amaran, kontraindikasi, dan interaksi ubat (menyelesaikan Jurang Data DG001)
-- **[Kritikal]** Selesaikan larian ramalan graf pengetahuan TxGNN untuk pioglitazone hydrochloride untuk menjana senarai calon penggunaan kembali yang disusun pangkat
+- **[Kritikal]** Selesaikan larian ramalan model TxGNN (pembelajaran mendalam) TxGNN untuk pioglitazone hydrochloride untuk menjana senarai calon penggunaan kembali yang disusun pangkat
 - **[Tinggi]** Pertanyaan DrugBank API untuk mendapatkan DrugBank ID, perihalan MOA lengkap, kategori ubat, dan data DDI (menyelesaikan Jurang Data DG002)
 - **[Tinggi]** Jalankan semula pengayaan data NPRA untuk mengisi semua 6 rekod lesen dengan nama produk, bentuk dos, dan teks petunjuk yang diluluskan
 - **[Piawai]** Jalankan semula ujian klinikal (ClinicalTrials.gov / ICTRP) dan pengumpulan bukti PubMed terhadap petunjuk yang diramal TxGNN kedudukan teratas setelah disahkan

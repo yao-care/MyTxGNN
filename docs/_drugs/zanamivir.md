@@ -6,9 +6,9 @@ nav_order: 730
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Zanamivir: indikasi baharu diramal Pyelonephritis (tahap bukti L5). Indikasi asal: Influenza"
 monitor_inn: "ZANAMIVIR"
 predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
+description: "Zanamivir: indikasi baharu diramal Pyelonephritis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Zanamivir
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Zanamivir: Daripada Influenza kepada Pyelonephritis
+## Zanamivir: Pyelonephritis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang men
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Influenza |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Pyelonephritis |
-| Skor Ramalan TxGNN | 99.84% |
+| Skor Ramalan TxGNN | 0.9984 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -64,7 +64,7 @@ Data terperinci tentang mekanisme tindakan (MOA) zanamivir tidak tersedia dalam 
 
 Pyelonephritis pula ialah jangkitan **bakteria** pada buah pinggang, lazimnya disebabkan oleh *Escherichia coli* uropatogenik. Tiada kaitan mekanistik yang kukuh dapat dikenal pasti. Walaupun bakteria juga mempunyai sialidase, tiada data menunjukkan zanamivir merencatnya pada kepekatan yang bermakna secara klinikal, dan tiada bukti kesan antibakteria di saluran kencing.
 
-Skor TxGNN yang sangat tinggi (0.998) ialah ramalan berasaskan model semata-mata. Ia berkemungkinan mencerminkan kedekatan dalam graf pengetahuan dengan nod penyakit berjangkit, dan bukannya kaitan farmakologi sebenar. Selain itu, status tidak dipasarkan di Malaysia dan ketiadaan data MOA menghadkan kebolehlaksanaan.
+Skor TxGNN yang sangat tinggi (0.9984) ialah ramalan berasaskan model semata-mata. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Selain itu, ubat ini dipasarkan di Malaysia (1 lesen sah daripada 1), tetapi ketiadaan data MOA menghadkan kebolehlaksanaan.
 
 ---
 
@@ -82,7 +82,6 @@ Pada masa ini tiada literatur berkaitan untuk indikasi pyelonephritis.
 
 ## Maklumat Pasaran Malaysia
 
-Zanamivir pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar.
 
 ---
 
@@ -112,7 +111,7 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 ---
 
-## Zanamivir: Daripada Influenza kepada Gangguan Metabolisme Tirosin
+## Zanamivir: Daripada Influenza kepada Pyelonephritis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -129,7 +128,7 @@ dengan **0 ujian klinikal** dan **3 penerbitan** yang diperoleh, tetapi tiada sa
 |------|------|
 | Indikasi Asal | Influenza |
 | Indikasi Baharu yang Diramalkan | Gangguan metabolisme tirosin |
-| Skor Ramalan TxGNN | 99.02% |
+| Skor Ramalan TxGNN | 0.9902 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Tidak dipasarkan |
 | Bilangan Pendaftaran | 0 |
@@ -163,7 +162,6 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Zanamivir pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar.
 
 ---
 

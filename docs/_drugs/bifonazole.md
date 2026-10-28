@@ -8,6 +8,7 @@ nav_order: 149
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Bifonazole
@@ -47,8 +48,8 @@ Bifonazole ialah agen antifungal golongan imidazol, terutamanya digunakan secara
 | Indikasi Baru yang Diramal | — (Tiada ramalan TxGNN tersedia) |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 (Tiada ramalan atau kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Sudah dipasarkan |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ## Mengapa Ramalan Ini Munasabah?

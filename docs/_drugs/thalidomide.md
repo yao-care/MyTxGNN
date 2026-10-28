@@ -7,13 +7,14 @@ drugbank_id: "DB01041"
 drug_name: "Thalidomide"
 kg_predictions: 1
 dl_predictions: 11
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/thalidomide/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Thalidomide
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **1** ramalan graf pengetahuan dan **11** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **1** ramalan model TxGNN (pembelajaran mendalam) dan **11** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

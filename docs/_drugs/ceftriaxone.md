@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 205
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
-description: "Ceftriaxone: indikasi baharu diramal Sindrom hiperviskositi poliklonal (tahap bukti L5). Indikasi asal: Jangkitan streptokokus, pneumonia bakteria, meningitis bakteria…"
 monitor_inn: "CEFTRIAXONE"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "infectious otitis media", "blood group incompatibility", "suppurative otitis media", "chronic otitis media"]
+last_modified_at: 2026-10-27
+description: "Ceftriaxone: indikasi baharu diramal Sindrom hiperviskositi poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ceftriaxone
@@ -33,77 +33,62 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-## Ceftriaxone: Daripada Jangkitan Bakteria kepada Sindrom Hiperviskositi Poliklonal
+## Ceftriaxone: Antibiotik sefalosporin generasi ketiga (beta-laktam) → Sindrom hiperviskositi poliklonal (polyclonal hyperviscosity syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Ceftriaxone ialah antibiotik beta-laktam (sefalosporin) yang pada asalnya digunakan untuk jangkitan bakteria seperti pneumonia, meningitis bakteria dan gonorea.
-Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom hiperviskositi poliklonal**, tetapi **tiada kajian klinikal mahupun penerbitan** yang menyokong arah ini.
-Skor ramalan yang tinggi kelihatan lebih sebagai artifak ramalan berasaskan graf daripada isyarat klinikal sebenar.
-
----
+Ceftriaxone ialah antibiotik beta-laktam yang menghalang sintesis dinding sel bakteria. Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom hiperviskositi poliklonal (polyclonal hyperviscosity syndrome)**. Data yang dikumpulkan untuk laporan ini mengandungi **0 ujian klinikal** dan **0 penerbitan** yang mengkaji penyakit ini secara langsung, jadi ramalan ini belum disokong oleh bukti sebenar.
 
 ## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan streptokokus, pneumonia bakteria, meningitis bakteria, gonorea, salmonelosis dan lain-lain (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen tersedia) |
-| Indikasi Baharu yang Diramalkan | Sindrom hiperviskositi poliklonal |
-| Skor Ramalan TxGNN | 99.39% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom hiperviskositi poliklonal (polyclonal hyperviscosity syndrome) |
+| Skor Ramalan TxGNN | 0.9939 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan (mengikut data yang dikumpulkan) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 28 daripada 28) |
+| Bilangan Pendaftaran | 28 (sah: 28) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
----
+## Mengapa Ramalan Ini Munasabah?
 
-## Mengapa Ramalan Ini Munasabah (atau Tidak)?
+Data terperinci tentang mekanisme tindakan (MOA) ceftriaxone tidak tersedia dalam data yang dikumpulkan. Namun, ceftriaxone diketahui sebagai antibiotik beta-laktam yang menghalang sintesis dinding sel bakteria.
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, ceftriaxone tergolong dalam kelas antibakteria beta-laktam yang merencat sintesis dinding sel bakteria. Keberkesanannya terbukti dalam pelbagai jangkitan bakteria.
+Sindrom hiperviskositi poliklonal berpunca daripada peningkatan imunoglobulin serum atau paraprotein yang berlebihan. Antibiotik tidak menangani punca ini. Oleh itu, **tiada hubungan mekanistik yang munasabah** ditemui antara ceftriaxone dan penyakit ini.
 
-Sindrom hiperviskositi poliklonal pula berpunca daripada peningkatan imunoglobulin atau paraprotein dalam serum. Antibakteria tidak menangani punca ini, jadi **tiada hubungan mekanistik yang munasabah** antara indikasi asal dengan indikasi baharu ini. Skor TxGNN yang tinggi kemungkinan besar mencerminkan corak dalam graf pengetahuan dan bukan kesan farmakologi sebenar.
-
----
+Skor TxGNN yang tinggi (0.9939) hanyalah hasil model komputasi. Ia tidak menunjukkan keberkesanan klinikal, dan tiada bukti klinikal atau literatur yang menyokongnya. Skor ini tidak boleh ditafsirkan sebagai bukti bahawa ubat ini berkesan untuk penyakit tersebut.
 
 ## Bukti Ujian Klinikal
 
-Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
-
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Buat masa ini tiada literatur berkaitan.
-
----
+Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Pertimbangan Keselamatan
 
-- **Penyakit yang dikenal pasti sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label produk): penyakit hati, penyakit pundi hempedu, jaundis neonatal, kolitis *Clostridium difficile*, enterokolitis nekrotik perinatal dan anemia hemolitik.
-- **Interaksi Ubat** (100 interaksi dikesan; yang utama disenaraikan):
-  - **Major**: kalsium klorida, kalsium glukoheptonat, kalsium glukonat
-  - **Moderate**: kanamisin, neomisin, streptomisin, asid pikosulfurik
+Maklumat amaran utama dan kontraindikasi daripada sisipan pakej belum tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-  Selebihnya bertahap "tidak diketahui".
+**Interaksi Ubat**: Sejumlah 100 interaksi direkodkan. Yang utama ialah:
 
-Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
-
----
+- **Major**: kalsium klorida, kalsium glukoheptonat, kalsium glukonat
+- **Moderate**: kanamycin, neomycin, streptomycin, asid pikosulfurik
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Justifikasi:**
-- Tiada ujian klinikal atau literatur untuk indikasi ini, dan tiada hubungan mekanistik yang munasabah. Ramalan ini hanya berasaskan model (L5).
+- Tiada ujian klinikal atau literatur yang mengkaji penyakit ini secara langsung, dan tiada hubungan mekanistik yang munasabah. Tahap bukti hanyalah L5 (ramalan model sahaja).
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) yang lengkap
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA (setakat ini tidak tersedia, dan ini menghalang saringan keselamatan)
-- Hipotesis biologi yang jelas serta data praklinikal sebelum sebarang pertimbangan lanjut
-
-**Catatan tentang ramalan lain bagi ubat ini:** Antara ramalan lain dalam data yang sama, **otitis media berjangkit** (L3, Proceed with Guardrails) mempunyai kesesuaian mekanistik yang kukuh dan lebih 15 penerbitan. Ini pada dasarnya penggunaan sedia ada, bukan repurposing baharu. Satu-satunya ujian klinikal yang disenaraikan menilai tiub timpanostomi dan bukan ceftriaxone. **Otitis media supuratif** (L3) disyorkan sebagai soalan penyelidikan. Ramalan lain (hiperamilasemia, analbuminemia kongenital, ketidakserasian kumpulan darah dan otitis media kronik) tidak mempunyai asas terapeutik yang munasabah atau hanya bukti tidak langsung, dan kekal pada Hold.
+- Hipotesis mekanistik yang jelas yang menghubungkan antibiotik beta-laktam dengan patofisiologi hiperviskositi
+- Bukti praklinikal atau klinikal yang mengkaji penyakit ini secara langsung
+- Data mekanisme tindakan (MOA) terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

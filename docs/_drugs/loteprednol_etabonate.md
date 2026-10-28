@@ -4,17 +4,17 @@ title: Loteprednol Etabonate
 parent: Low Evidence (L4-L5)
 nav_order: 478
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Loteprednol Etabonate: indikasi baharu diramal Konjunktivitis folikular kronik (tahap bukti L5). Indikasi asal: Uveitis, penyakit iris, penyakit badan silier, panuveitis…"
 monitor_inn: "LOTEPREDNOL ETABONATE"
-predicted_indications: ["chronic follicular conjunctivitis", "parasitic conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "pseudomembranous conjunctivitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "rosacea conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
+predicted_indications: ["chronic follicular conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "parasitic conjunctivitis", "pseudomembranous conjunctivitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
+description: "Loteprednol Etabonate: indikasi baharu diramal Chronic follicular conjunctivitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Loteprednol Etabonate
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Loteprednol Etabonat: Daripada Uveitis kepada Konjunktivitis Folikular Kronik
+## Loteprednol Etabonate: Chronic follicular conjunctivitis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang m
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Uveitis, penyakit iris, penyakit badan silier, panuveitis, konjunktivitis atopik, konjunktivitis papilari, konjunktivitis vernal dan lain-lain (daripada graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Konjunktivitis folikular kronik |
-| Skor Ramalan TxGNN | 99.69% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Chronic follicular conjunctivitis |
+| Skor Ramalan TxGNN | 0.9969 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -64,24 +64,22 @@ Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. 
 
 Indikasi asal merangkumi beberapa bentuk konjunktivitis keradangan dan alergi (atopik, vernal, papilari). Konjunktivitis folikular kronik juga melibatkan keradangan permukaan mata, jadi kesan anti-radang glukokortikoid secara teorinya boleh mengurangkan keradangan folikular pada konjunktiva.
 
-Namun, ini baru hipotesis. Tiada percubaan klinikal atau penerbitan yang menyokongnya dalam data yang dikumpulkan. Ramalan ini bergantung sepenuhnya pada skor graf pengetahuan (0.997).
+Namun, ini baru hipotesis. Tiada percubaan klinikal atau penerbitan yang menyokongnya dalam data yang dikumpulkan.
 
 ### Indikasi Lain yang Diramalkan
 
-Sepuluh indikasi teratas mempunyai skor yang hampir sama (99.1%–99.7%) dan semuanya pada tahap bukti L5:
 
 | Kedudukan | Indikasi Diramalkan | Skor | Syor Awal | Ringkasan |
 |------|------|------|------|------|
-| 1 | Konjunktivitis folikular kronik | 99.69% | Soalan Penyelidikan | Anti-radang munasabah, tiada bukti |
-| 2 | Konjunktivitis parasit | 99.69% | Hold | Steroid boleh memburukkan jangkitan parasit; rawatan antiparasit perlu dahulu |
-| 3 | Konjunktivitis serus (bukan virus) | 99.69% | Soalan Penyelidikan | Bertindih dengan indikasi alergi/radang yang diluluskan |
-| 4 | Folikulosis konjunktiva | 99.69% | Hold | Selalunya jinak dan sembuh sendiri; keperluan steroid dipersoalkan |
-| 5 | Konjunktivitis pseudomembran | 99.66% | Soalan Penyelidikan | Satu penerbitan tidak langsung; risiko perlanjutan penumpahan virus |
-| 6 | Sindrom Angelucci | 99.66% | Soalan Penyelidikan | Bentuk konjunktivitis vernal; loteprednol sudah diindikasikan untuk vernal |
-| 7 | Konjunktivitis hemoragik akut | 99.62% | Hold | Jangkitan virus sembuh sendiri; steroid mungkin melanjutkan penumpahan virus |
-| 8 | Konjunktivitis rosasea | 99.34% | Soalan Penyelidikan | Rosasea sudah termasuk dalam indikasi asal |
-| 9 | Konjunktivitis berjangkit akut | 99.26% | Hold | Steroid tanpa perlindungan anti-jangkitan boleh memburukkan jangkitan |
-| 10 | Otitis eksterna | 99.13% | Hold | Formulasi oftalmik tidak sesuai untuk saluran telinga |
+| 1 | Konjunktivitis folikular kronik | 0.9969 | Soalan Penyelidikan | Anti-radang munasabah, tiada bukti |
+| 2 | Konjunktivitis parasit | 0.9969 | Hold | Steroid boleh memburukkan jangkitan parasit; rawatan antiparasit perlu dahulu |
+| 3 | Konjunktivitis serus (bukan virus) | 0.9969 | Soalan Penyelidikan | Bertindih dengan indikasi alergi/radang yang diluluskan |
+| 4 | Folikulosis konjunktiva | 0.9969 | Hold | Selalunya jinak dan sembuh sendiri; keperluan steroid dipersoalkan |
+| 5 | Konjunktivitis pseudomembran | 0.9966 | Soalan Penyelidikan | Satu penerbitan tidak langsung; risiko perlanjutan penumpahan virus |
+| 6 | Sindrom Angelucci | 0.9966 | Soalan Penyelidikan | Bentuk konjunktivitis vernal; loteprednol sudah diindikasikan untuk vernal |
+| 7 | Konjunktivitis hemoragik akut | 0.9962 | Hold | Jangkitan virus sembuh sendiri; steroid mungkin melanjutkan penumpahan virus |
+| 9 | Konjunktivitis berjangkit akut | 0.9926 | Hold | Steroid tanpa perlindungan anti-jangkitan boleh memburukkan jangkitan |
+| 10 | Otitis eksterna | 0.9913 | Hold | Formulasi oftalmik tidak sesuai untuk saluran telinga |
 
 ---
 
@@ -124,7 +122,7 @@ Untuk amaran utama dan kontraindikasi daripada label produk, sila rujuk risalah 
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan hanya disokong skor model (tahap bukti L5), tanpa percubaan klinikal atau literatur langsung. Ubat ini juga tidak dipasarkan di Malaysia, dan beberapa kontraindikasi graf pengetahuan (jangkitan virus, kulat dan herpes pada mata) bertindih dengan jenis konjunktivitis yang diramalkan.
+- Ramalan hanya disokong skor model (tahap bukti L5), tanpa percubaan klinikal atau literatur langsung.
 
 **Untuk meneruskan, perlu:**
 - Data mekanisme tindakan (MOA) daripada DrugBank

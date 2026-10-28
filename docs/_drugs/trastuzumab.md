@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Trastuzumab
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 695
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Trastuzumab: indikasi baharu diramal Kanser payudara positif reseptor progesteron (tahap bukti L1). Indikasi asal: Karsinoma payudara HER2-positif"
 monitor_inn: "TRASTUZUMAB"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
+description: "Trastuzumab: indikasi baharu diramal Malignant cutaneous granular cell skin tumor (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Trastuzumab
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-## Trastuzumab: Daripada Kanser Payudara HER2-Positif kepada Kanser Payudara Positif Reseptor Progesteron
+## Trastuzumab: Malignant cutaneous granular cell skin tumor
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ dengan **13 ujian klinikal** dan **20 penerbitan** yang disenaraikan dalam data 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Karsinoma payudara HER2-positif |
-| Indikasi Baharu yang Diramalkan | Kanser payudara positif reseptor progesteron |
-| Skor Ramalan TxGNN | 99.90% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Malignant cutaneous granular cell skin tumor |
+| Skor Ramalan TxGNN | 0.9948 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
+| Bilangan Pendaftaran | 14 (sah: 14) |
 | Keputusan yang Disyorkan | Proceed with Guardrails |
 
 ---
@@ -64,7 +64,6 @@ Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. 
 
 Sebahagian besar kanser payudara positif PR juga HER2-positif (penyakit HR+/HER2+). Manfaat trastuzumab datang daripada sekatan HER2, bukan status PR. Dalam subkumpulan ini, ia digabungkan dengan kemoterapi dan terapi endokrin. Oleh itu, ini ialah lanjutan dalam indikasi kanser payudara HER2-positif yang telah diluluskan.
 
-Status pasaran "tidak dipasarkan" dan data MOA yang tiada perlu disahkan semula berbanding pelabelan terkini.
 
 ---
 
@@ -136,15 +135,12 @@ Kardiotoksisiti berkaitan trastuzumab juga dibincangkan dalam literatur yang dip
 
 | Indikasi Ramalan | Skor TxGNN | Tahap Bukti | Keputusan | Catatan |
 |------|------|------|------|------|
-| Kanser payudara negatif reseptor progesteron | 99.90% | L1 | Proceed with Guardrails | Sah hanya jika HER2-positif; bukti Fasa 3 termasuk NCT01275677 dan NCT04629846 |
-| Tumor payudara luminal A atau B | 99.90% | L2 | Proceed with Guardrails | Hanya subset luminal B HER2-positif; tiada ujian berdaftar dan beberapa rujukan di luar topik |
-| Subjenis seakan-normal karsinoma payudara | 99.90% | L4 | Hold | Biasanya HER2-negatif; satu-satunya ujian menguji ubat lain (trastuzumab rezetecan) |
-| Tumor sel granular kutaneus malignan | 99.48% | L5 | Hold | Ramalan model sahaja |
-| Ektomesenkimoma | 99.48% | L5 | Hold | Ramalan model sahaja |
-| Tumor berkaitan virus herpes manusia 8 | 99.46% | L5 | Hold | Ramalan model sahaja |
-| Tumor neuroendokrin telinga tengah | 99.44% | L5 | Hold | Ramalan model sahaja |
-| Karsinoma sel peralihan sarkomatoid pelvis buah pinggang | 99.04% | L5 | Hold | HER2 diekspres dalam sebahagian karsinoma uroteli; rasional munasabah tetapi belum diuji |
-| Karsinoma uroteli uretra prostat | 99.04% | L5 | Hold | Rasional munasabah tetapi belum disahkan |
+| Tumor sel granular kutaneus malignan | 0.9948 | L5 | Hold | Ramalan model sahaja |
+| Ektomesenkimoma | 0.9948 | L5 | Hold | Ramalan model sahaja |
+| Tumor berkaitan virus herpes manusia 8 | 0.9946 | L5 | Hold | Ramalan model sahaja |
+| Tumor neuroendokrin telinga tengah | 0.9944 | L5 | Hold | Ramalan model sahaja |
+| Karsinoma sel peralihan sarkomatoid pelvis buah pinggang | 0.9904 | L5 | Hold | HER2 diekspres dalam sebahagian karsinoma uroteli; rasional munasabah tetapi belum diuji |
+| Karsinoma uroteli uretra prostat | 0.9904 | L5 | Hold | Rasional munasabah tetapi belum disahkan |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

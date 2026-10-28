@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tamoxifen
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 667
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tamoxifen: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L1). Indikasi asal: Tiada rekod indikasi daripada lesen NPRA dalam data yang dikumpul (li…"
+evidence_level: L5
+indication_count: 3
 monitor_inn: "Tamoxifen"
-predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma"]
+predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+last_modified_at: 2026-10-23
+description: "Tamoxifen: indikasi baharu diramal Penyakit Paget payudara (mammary Paget disease) (tahap bukti L5). Indikasi asal: Tiada data (teks petunjuk kelulusan dalam rekod lesen kosong)"
 ---
 
 # Tamoxifen
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-## Tamoxifen: Daripada Terapi Endokrin Kanser Payudara kepada Karsinoma Payudara Wanita
+## Tamoxifen: Daripada Penggunaan Asal kepada Penyakit Paget Payudara (Mammary Paget Disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Data yang dikumpul untuk laporan ini tidak mengandungi indikasi asal tamoxifen daripada pendaftaran NPRA. Walau bagaimanapun, tamoxifen ialah ubat terapi hormon yang sudah lama diketahui digunakan untuk kanser payudara reseptor hormon positif.
-Model TxGNN meramalkan ia berkesan untuk **karsinoma payudara wanita**, dengan **32 percubaan klinikal** dan **20 penerbitan** yang berkaitan.
-Ramalan ini lebih sesuai dianggap sebagai pengesahan indikasi sedia ada daripada pengalihan guna (*repurposing*) sebenar.
+Tamoxifen ialah ubat modulator reseptor estrogen terpilih yang berdaftar di Malaysia, tetapi teks petunjuk kelulusan dalam data yang dikumpulkan untuk laporan ini kosong, jadi indikasi asalnya tidak dapat disahkan daripada rekod tempatan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit Paget payudara**, dengan **1 percubaan klinikal** (yang tidak menguji penyakit ini secara langsung) dan **10 penerbitan** (kebanyakannya laporan kes dan kajian deskriptif tentang penyakit Paget).
+Bukti langsung bahawa tamoxifen merawat penyakit ini adalah sangat terhad, jadi ramalan ini wajar dianggap sebagai soalan penyelidikan.
 
 ---
 
@@ -48,114 +48,87 @@ Ramalan ini lebih sesuai dianggap sebagai pengesahan indikasi sedia ada daripada
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada rekod indikasi daripada lesen NPRA dalam data yang dikumpul (lihat nota di bawah) |
-| Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita (*female breast carcinoma*) |
-| Skor Ramalan TxGNN | 99.95% |
-| Tahap Bukti | L1 |
-| Status Pasaran Malaysia | Tidak dipasarkan (menurut data yang dikumpul) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
-
-> **Nota:** Status "tidak dipasarkan", sifar pendaftaran dan ketiadaan indikasi asal kemungkinan besar disebabkan jurang dalam saluran data. Tamoxifen ialah terapi kanser payudara yang telah lama diluluskan. Status pendaftaran dan label sebenar perlu disahkan semula dengan NPRA dan DrugBank.
+| Indikasi Asal | Tiada data (teks petunjuk kelulusan dalam rekod lesen kosong) |
+| Indikasi Baharu yang Diramalkan | Penyakit Paget payudara (mammary Paget disease) |
+| Skor Ramalan TxGNN | 0.9969 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
+| Bilangan Kelulusan | 1 pendaftaran (MAL19870703ARZ) |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Maklumat terperinci mengenai mekanisme tindakan tidak terdapat dalam data yang dikumpul. Namun, tamoxifen diketahui sebagai pemodulat reseptor estrogen terpilih (SERM). Ia menyekat reseptor estrogen alfa secara kompetitif dalam tisu payudara dan menghalang percambahan sel tumor reseptor hormon positif yang didorong oleh estrogen.
+Data terperinci tentang mekanisme tindakan tamoxifen tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, tamoxifen ialah modulator reseptor estrogen terpilih yang digunakan dalam terapi endokrin untuk kanser payudara positif reseptor hormon.
 
-Kanser payudara reseptor estrogen positif bergantung pada isyarat estrogen untuk membesar. Menyekat laluan ini ialah asas rawatan endokrin, jadi hubungan mekanistik antara tamoxifen dengan karsinoma payudara sangat kukuh. Hal ini selaras dengan skor ramalan TxGNN yang sangat tinggi.
+Penyakit Paget payudara sering berkaitan dengan karsinoma duktal in situ atau kanser payudara invasif yang mendasarinya, dan sebahagian besar tumor ini positif reseptor hormon. Oleh itu, wujud kaitan tidak langsung yang munasabah melalui keganasan payudara yang mendasari.
 
-Beberapa percubaan fasa 3 yang besar menguji tamoxifen secara langsung dalam rawatan adjuvan dan pencegahan. Literatur juga menyokong penggunaannya. Namun, rintangan terhadap tamoxifen (contohnya melalui laluan MAPK, MUC1 dan mutasi ESR1) ialah cabaran klinikal yang diketahui.
+Walau bagaimanapun, tiada bukti yang diberikan menunjukkan tamoxifen merawat penyakit Paget pada puting itu sendiri. Skor TxGNN yang tinggi ialah ramalan pengiraan, bukan bukti klinikal. Dalam literatur, tamoxifen disebut dalam beberapa laporan kes (contohnya satu kes Paget puting yang luas dengan respons kepada tamoxifen, dan satu kes Paget ekstramamari metastatik positif reseptor hormon), tetapi ini bukan bukti yang kukuh.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Sebanyak 32 percubaan klinikal dikesan. Jadual di bawah menyenaraikan 10 yang paling relevan.
-
 | Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00002542](https://clinicaltrials.gov/study/NCT00002542) | Fasa 3 | Selesai | 672 | Tamoxifen berbanding plasebo (double-blind) selepas kemoterapi adjuvan pada pesakit nod positif atau risiko tinggi |
-| [NCT00784680](https://clinicaltrials.gov/study/NCT00784680) | Fasa 3 | Selesai | 308 | Kualiti hidup: Arimidex, tamoxifen (Nolvadex) atau kombinasi, sebagai rawatan adjuvan wanita pascamenopaus |
-| [NCT00293540](https://clinicaltrials.gov/study/NCT00293540) | Fasa 3 | Selesai | 249 | Ooforektomi fasa luteal berbanding fasa folikular ditambah tamoxifen pada wanita prameno dengan kanser metastatik |
-| [NCT00003906](https://clinicaltrials.gov/study/NCT00003906) | Fasa 3 | Selesai | 19,747 | Kajian STAR: raloxifene berbanding tamoxifen dalam pencegahan kanser payudara pada wanita pascamenopaus |
-| [NCT00032136](https://clinicaltrials.gov/study/NCT00032136) | Fasa 3 | Selesai | 4,400 | Exemestane 5 tahun berbanding tamoxifen 5 tahun sebagai rawatan adjuvan kanser payudara awal |
-| [NCT00912548](https://clinicaltrials.gov/study/NCT00912548) | Fasa 3 | Tidak diketahui | 1,234 | Penambahan penekanan fungsi ovari (goserelin) kepada tamoxifen pada wanita muda |
-| [NCT00002967](https://clinicaltrials.gov/study/NCT00002967) | Fasa 3 | Selesai | Tidak dinyatakan | Penambahan octreotide kepada tamoxifen sahaja atau tamoxifen dan kemoterapi |
-| [NCT00659373](https://clinicaltrials.gov/study/NCT00659373) | Fasa 3 | Selesai | 86 | Substudi fungsi kognitif dalam kajian SOFT (tamoxifen, tamoxifen + OFS, exemestane + OFS) |
-| [NCT04272801](https://clinicaltrials.gov/study/NCT04272801) | Fasa 2 | Aktif, tidak merekrut | 84 | Terapi endokrin praoperatif pada wanita berumur ≥65 tahun untuk menentukan keperluan radioterapi |
-| [NCT05941520](https://clinicaltrials.gov/study/NCT05941520) | Fasa 2 | Merekrut | 80 | Acolbifene berbanding tamoxifen dos rendah (5 mg) pada wanita prameno berisiko tinggi |
+| [NCT00002920](https://clinicaltrials.gov/study/NCT00002920) | Fasa 3 | Selesai | 313 | Perbandingan medroxyprogesterone acetate dengan pemerhatian untuk mencegah patologi endometrium pada pesakit kanser payudara pascamenopaus yang menerima tamoxifen (termasuk pesakit penyakit Paget puting). Ia tidak menguji tamoxifen untuk penyakit Paget secara langsung. |
 
 ---
 
 ## Bukti Literatur
 
-Sebanyak 20 penerbitan dikesan. Jadual di bawah menyenaraikan 10 yang paling relevan, dengan keutamaan RCT, kemudian kajian ulasan (*review*), kohort dan laporan kes.
-
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [23690420](https://pubmed.ncbi.nlm.nih.gov/23690420/) | 2013 | RCT | J Clin Oncol | Susulan jangka panjang CALGB 9343: lumpektomi + tamoxifen dengan atau tanpa radiasi pada wanita ≥70 tahun dengan kanser payudara awal |
-| [15712362](https://pubmed.ncbi.nlm.nih.gov/15712362/) | 2005 | Kohort | Cancer | Risiko infarksi miokardium akut dan angina pada pesakit karsinoma payudara yang dirawat dengan tamoxifen |
-| [12222137](https://pubmed.ncbi.nlm.nih.gov/12222137/) | 2002 | Ulasan | Harefuah | Tamoxifen sebagai agen lini pertama untuk kanser payudara metastatik sensitif hormon dan rawatan adjuvan |
-| [20193984](https://pubmed.ncbi.nlm.nih.gov/20193984/) | 2010 | Ulasan | Cancer Treat Rev | Ulasan kanser payudara lelaki |
-| [10894015](https://pubmed.ncbi.nlm.nih.gov/10894015/) | 2000 | Ulasan | Swiss Surg | Terapi neoadjuvan (kemoterapi dan endokrin) untuk kanser payudara lanjutan setempat |
-| [9803831](https://pubmed.ncbi.nlm.nih.gov/9803831/) | 1998 | Ulasan | Trends Pharmacol Sci | Antagonis estrogen steroid dan bukan steroid; tamoxifen sebagai sebatian piawai untuk terapi endokrin |
-| [22910442](https://pubmed.ncbi.nlm.nih.gov/22910442/) | 2012 | Ulasan | Clin Pharmacol Ther | Individualisasi rawatan tamoxifen: kesan genotip CYP2D6 dan pendedahan endoxifen |
-| [1292764](https://pubmed.ncbi.nlm.nih.gov/1292764/) | 1992 | Siri kes | Bull Cancer | Karsinoma endometrium pada wanita yang menerima tamoxifen adjuvan jangka panjang |
-| [7821489](https://pubmed.ncbi.nlm.nih.gov/7821489/) | 1994 | Kohort | Eur J Obstet Gynecol Reprod Biol | Hasil kuretaj bagi pendarahan faraj pascamenopaus pada pesakit yang dirawat dengan tamoxifen dan megestrol asetat |
-| [15944961](https://pubmed.ncbi.nlm.nih.gov/15944961/) | 2005 | Laporan kes | Ann Diagn Pathol | Metastasis karsinoma lobular payudara ke polip endometrium yang berkaitan dengan tamoxifen |
+| [25759627](https://pubmed.ncbi.nlm.nih.gov/25759627/) | 2014 | Meta-analisis | Breast Care | Kadar berulang kanser payudara tempatan selepas mastektomi dan pembedahan pemuliharaan payudara untuk penyakit Paget (jumlah kadar berulang 20-40%) |
+| [34463889](https://pubmed.ncbi.nlm.nih.gov/34463889/) | 2022 | Laporan kes | Investigational New Drugs | Rawatan berjaya satu kes penyakit Paget ekstramamari metastatik positif reseptor hormon dengan tamoxifen |
+| [14965622](https://pubmed.ncbi.nlm.nih.gov/14965622/) | 2001 | Laporan kes | Breast | Kes penyakit Paget puting yang luas luar biasa; respons dicapai dengan tamoxifen, bersama radioterapi |
+| [1648987](https://pubmed.ncbi.nlm.nih.gov/1648987/) | 1991 | Kajian siri kes | Br J Surg | 48 pesakit penyakit Paget puting; kebanyakannya dirawat dengan mastektomi, hanya satu kes dengan tamoxifen |
+| [17319355](https://pubmed.ncbi.nlm.nih.gov/17319355/) | 2006 | Kohort | Niger J Clin Pract | 8 pesakit penyakit Paget kompleks puting-areola di Benin City, Nigeria |
+| [16277886](https://pubmed.ncbi.nlm.nih.gov/16277886/) | 2005 | Laporan kes | Clin Breast Cancer | Penyakit Paget puting sebagai berulang tempatan selepas rawatan pemuliharaan payudara |
+| [8955252](https://pubmed.ncbi.nlm.nih.gov/8955252/) | 1996 | Laporan kes | Am Surg | Penyakit Paget payudara lelaki dan ulasan 32 kes dalam literatur |
+| [19112575](https://pubmed.ncbi.nlm.nih.gov/19112575/) | 2009 | Kohort | Arch Gynecol Obstet | Penyakit Paget vulva dan payudara dengan kanser sinkroni yang mendasari |
+| [12924421](https://pubmed.ncbi.nlm.nih.gov/12924421/) | 2003 | Laporan kes | Surg Today | Kanser payudara bilateral sinkroni dengan penyakit Paget dan karsinoma duktal invasif |
+| [18288984](https://pubmed.ncbi.nlm.nih.gov/18288984/) | 2008 | Ulasan | Curr Med Chem | Ulasan terapi kehilangan tulang; kaitan dengan penyakit Paget payudara adalah rendah |
 
 ---
 
-## Sitotoksisiti (Ubat Antineoplastik)
+## Maklumat Pasaran Malaysia
 
-Tamoxifen digunakan untuk kanser payudara, jadi bahagian ini disertakan. Penilaian di bawah berdasarkan kategori ubat secara umum. Data ketoksikan terperinci daripada DrugBank tidak tersedia.
-
-| Perkara | Kandungan |
-|------|------|
-| Klasifikasi Sitotoksisiti | Terapi hormon (SERM), bukan sitotoksik konvensional |
-| Risiko Penekanan Sumsum Tulang | Rendah secara amnya; sila rujuk sisip pakej |
-| Klasifikasi Emetogenisiti | Rendah |
-| Perkara Pemantauan | Kiraan darah lengkap, fungsi hati, pemantauan endometrium dan risiko tromboembolisme |
-| Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga dalam sisip pakej serta garis panduan institusi |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL19870703ARZ | NOLVADEX-D TABLET 20MG | Tiada data | Tiada data (pengilang: AstraZeneca Sdn. Bhd.) |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat:** Sebanyak 100 interaksi direkodkan dalam pangkalan data (sumber: DDInter). Antara 20 yang disenaraikan dalam data yang dikumpul, interaksi tahap **Major** ialah:
-- Bupropion
-- Lorcaserin
-- Cimetidine
-- Dolasetron
-- Eliglustat
-- Cisapride
-- Dexfenfluramine
-- Fenfluramine
+Data amaran utama dan kontraindikasi daripada sisipan bungkusan tidak tersedia. Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
 
-Interaksi tahap Moderate termasuk famotidine, loperamide, aprepitant, dexamethasone, clarithromycin, granisetron dan levofloxacin. Bupropion dan beberapa ubat lain dalam senarai ini berkaitan dengan metabolisme CYP2D6 atau pemanjangan selang QT, jadi semakan senarai ubat pesakit perlu dibuat sebelum preskripsi.
-
-**Isyarat keselamatan daripada literatur:** Literatur yang dikesan melaporkan risiko polip endometrium dan karsinoma endometrium dengan penggunaan jangka panjang. Satu kajian kohort juga meneliti risiko kardiovaskular. Kepelbagaian genotip CYP2D6 turut mempengaruhi pendedahan kepada metabolit aktif (endoxifen).
-
-Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisip pakej.
+**Interaksi Ubat** (pangkalan data DDInter, 100 interaksi direkodkan; contoh daripada senarai yang diperoleh):
+- **Tahap Major**: bupropion, lorcaserin, cimetidine, dolasetron, eliglustat, cisapride, dexfenfluramine, fenfluramine
+- **Tahap Moderate**: famotidine, loperamide, aprepitant, dexamethasone, clarithromycin, granisetron, levofloxacin, dan lain-lain
+- **Tahap Minor**: fidaxomicin
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Hold**
 
-**Justifikasi:**
-- Terdapat banyak percubaan fasa 3 yang telah selesai, termasuk percubaan berplasebo, dengan tamoxifen sebagai agen utama atau pembanding. Literatur juga menyokong penggunaannya dalam kanser payudara reseptor hormon positif, jadi tahap bukti ialah L1.
-- Manfaat bergantung pada status reseptor hormon dan perlu ditimbang dengan risiko endometrium dan tromboembolisme.
+**Rasional:**
+Tiada kajian yang dipetik menguji tamoxifen secara langsung untuk penyakit Paget payudara; bukti hanya terdiri daripada beberapa laporan kes dan kajian deskriptif, serta satu percubaan Fasa 3 tentang perlindungan endometrium yang tidak berkaitan dengan keberkesanan untuk penyakit ini. Tahap bukti oleh itu L5, dan skor TxGNN yang tinggi (0.9969) tidak boleh dianggap sebagai isyarat klinikal.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Mengesahkan status pendaftaran dan indikasi berlesen tamoxifen dengan NPRA, kerana data semasa menunjukkan sifar pendaftaran yang kemungkinan besar tidak tepat.
-- Memuat turun dan menghurai sisip pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang).
-- Mendapatkan data mekanisme tindakan (MOA) dan pengecam ubat daripada DrugBank.
-- Menyediakan pelan pemantauan keselamatan: kesihatan endometrium, risiko tromboembolisme, pertimbangan status CYP2D6 dan semakan interaksi ubat.
-- Mengesahkan status reseptor hormon (ER) pesakit sebelum memulakan rawatan.
+- Sisipan bungkusan NPRA (amaran, kontraindikasi dan indikasi diluluskan) untuk menyemak keselamatan
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Kajian klinikal yang menilai tamoxifen secara langsung pada penyakit Paget payudara, terutamanya status reseptor hormon pada pesakit
+- Penilaian interaksi ubat berisiko tinggi (tahap Major) jika dirancang untuk penggunaan bersama
+
+---
+
+*Nota: Dua ramalan lain (karsinoma Ehrlich, iaitu model tumor tikus yang bukan penyakit manusia, dan rabdomiosarkoma embrional jenis botrioid pada vagina, tanpa sebarang bukti) juga berada pada tahap bukti L5 dan tidak dinilai lanjut dalam laporan ini.*
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

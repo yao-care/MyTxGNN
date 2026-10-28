@@ -8,6 +8,7 @@ nav_order: 463
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Linagliptin
@@ -51,8 +52,8 @@ Dua jurang data yang menghalang (MOA dan sisipan pakej) mesti diselesaikan sebel
 | Petunjuk Baru yang Diramalkan | Tidak tersedia — `predicted_indications` adalah kosong |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A — tiada ramalan untuk dinilai |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 9 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan Disyorkan | **Tahan** |
 
 ---

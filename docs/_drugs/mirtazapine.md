@@ -6,9 +6,9 @@ nav_order: 508
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Mirtazapine: indikasi baharu diramal Sindrom Ohdo dan variannya (tahap bukti L5). Indikasi asal: Kemurungan unipolar, kemurungan endogen, gangguan kemurungan major…"
 monitor_inn: "MIRTAZAPINE"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
+description: "Mirtazapine: indikasi baharu diramal Sindrom Ohdo dan variannya (Ohdo syndrome and variants) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Mirtazapine
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-## Mirtazapine: Daripada Kemurungan kepada Sindrom Ohdo dan Variannya
+## Mirtazapine: Sindrom Ohdo dan variannya (Ohdo syndrome and variants)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Kemurungan unipolar, kemurungan endogen, gangguan kemurungan major, gangguan kebimbangan (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada indikasi berlesen tempatan) |
-| Indikasi Baharu yang Diramalkan | Sindrom Ohdo dan variannya |
-| Skor Ramalan TxGNN | 99.42% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom Ohdo dan variannya (Ohdo syndrome and variants) |
+| Skor Ramalan TxGNN | 0.9942 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -64,11 +64,11 @@ Pada masa ini, data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia 
 
 Sindrom Ohdo (berkaitan KAT6B) ialah gangguan neuroperkembangan genetik yang jarang berlaku. Tiada kaitan mekanistik yang mantap antara farmakologi reseptor mirtazapine dengan patologi asas sindrom ini. Sebarang manfaat yang munasabah hanya bersifat simptomatik, contohnya untuk tidur, selera makan, atau komorbiditi mood/kebimbangan.
 
-Skor TxGNN yang tinggi (0.994) ialah ramalan pengiraan tanpa rasional mekanistik yang didokumenkan. Oleh itu, ramalan ini perlu dianggap sebagai hipotesis awal sahaja.
+Skor TxGNN yang tinggi (0.9942) ialah ramalan pengiraan tanpa rasional mekanistik yang didokumenkan. Oleh itu, ramalan ini perlu dianggap sebagai hipotesis awal sahaja.
 
 Ramalan lain yang disenaraikan oleh model:
-- **Sindrom blepharophimosis – ketidakupayaan intelek, jenis Ohdo** (skor 99.11%): Ini ialah gangguan spektrum KAT6B yang sama dengan ramalan pertama, jadi kedua-dua ramalan bukan bukti yang bebas.
-- **Tortikolis paroksismal jinak pada bayi** (skor 99.11%): Gangguan episodik yang sembuh sendiri, berkaitan setara migrain dan varian CACNA1A. Kaitan serotonergik/antihistaminergik dengan mekanisme spektrum migrain hanya spekulatif. Mirtazapine tidak mantap digunakan pada bayi, perjalanan penyakit yang jinak menjadikan kes risiko-faedah untuk rawatan ubat sangat lemah, dan amaran berkotak tentang risiko bunuh diri pada pesakit muda menambah kebimbangan.
+- **Sindrom blepharophimosis – ketidakupayaan intelek, jenis Ohdo** (skor 0.9911): Ini ialah gangguan spektrum KAT6B yang sama dengan ramalan pertama, jadi kedua-dua ramalan bukan bukti yang bebas.
+- **Tortikolis paroksismal jinak pada bayi** (skor 0.9911): Gangguan episodik yang sembuh sendiri, berkaitan setara migrain dan varian CACNA1A. Kaitan serotonergik/antihistaminergik dengan mekanisme spektrum migrain hanya spekulatif. Mirtazapine tidak mantap digunakan pada bayi, perjalanan penyakit yang jinak menjadikan kes risiko-faedah untuk rawatan ubat sangat lemah, dan amaran berkotak tentang risiko bunuh diri pada pesakit muda menambah kebimbangan.
 
 ---
 
@@ -86,7 +86,6 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Mirtazapine pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran (lesen) direkodkan dalam data yang dikumpulkan.
 
 ---
 
@@ -112,7 +111,7 @@ Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA tidak tersedia. S
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ketiga-tiga ramalan hanya disokong oleh skor model (Tahap Bukti L5), tanpa ujian klinikal, literatur, atau kaitan mekanistik yang munasabah. Mirtazapine juga tidak dipasarkan di Malaysia, dan ramalan pertama dan kedua pada dasarnya ialah entiti yang sama.
+- Ketiga-tiga ramalan hanya disokong oleh skor model (Tahap Bukti L5), tanpa ujian klinikal, literatur, atau kaitan mekanistik yang munasabah.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
@@ -120,7 +119,6 @@ Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA tidak tersedia. S
 - Semakan literatur dan pendaftaran ujian klinikal untuk sindrom Ohdo/spektrum KAT6B bagi mencari sebarang bukti praklinikal atau laporan kes
 - Rasional mekanistik yang jelas, atau sasaran simptomatik yang ditentukan (cth. tidur, selera makan, kebimbangan)
 - Penilaian risiko-faedah khusus untuk populasi kanak-kanak, termasuk amaran berkotak tentang risiko bunuh diri pada pesakit muda
-- Status pendaftaran dan laluan akses ubat di Malaysia, memandangkan produk ini tidak dipasarkan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

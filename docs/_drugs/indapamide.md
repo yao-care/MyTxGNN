@@ -7,13 +7,14 @@ drugbank_id: "DB00808"
 drug_name: "Indapamide"
 kg_predictions: 42
 dl_predictions: 15
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/indapamide/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Indapamide
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **42** ramalan graf pengetahuan dan **15** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **42** ramalan model TxGNN (pembelajaran mendalam) dan **15** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

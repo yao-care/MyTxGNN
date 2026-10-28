@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 107
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Atracurium Besylate: indikasi baharu diramal Preeklampsia (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan daripada lesen tempatan (kegunaan lazi…"
 monitor_inn: "Atracurium besylate"
 predicted_indications: ["preeclampsia", "cauda equina syndrome", "blepharospasm", "migraine disorder", "obsolete neurogenic bladder (disease)", "thrombotic disease", "migraine with brainstem aura", "severe pre-eclampsia", "mild pre-eclampsia", "irritable bowel syndrome"]
+last_modified_at: 2026-10-27
+description: "Atracurium Besylate: indikasi baharu diramal Preeklampsia (preeclampsia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Atracurium Besylate
@@ -33,94 +33,59 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Atracurium Besylate: Daripada Penghalang Neuromuskular kepada Preeklampsia (Ramalan)
+## Atracurium besylate: penyekat neuromuskular bukan depolarisasi → Preeklampsia (preeclampsia)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Atracurium besylate ialah agen penyekat neuromuskular bukan-depolarisasi yang digunakan sebagai bahan tambahan dalam anestesia. Model TxGNN meramalkan ia mungkin berkesan untuk **preeklampsia**, tetapi setakat ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini; ia kekal sebagai ramalan model komputasi sahaja.
+Atracurium besylate ialah penyekat neuromuskular bukan depolarisasi yang digunakan sebagai bahan tambahan dalam anestesia. Model TxGNN meramalkan ia mungkin berkesan untuk **preeklampsia (preeclampsia)**, tetapi setakat ini **tiada sebarang ujian klinikal atau penerbitan** dalam data yang dikumpulkan untuk laporan ini yang menyokong ramalan tersebut. Ramalan ini hanya berasaskan model pengiraan.
 
----
-
-## Gambaran Keseluruhan Pantas
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi diluluskan daripada lesen tempatan (kegunaan lazim: penyekat neuromuskular dalam anestesia) |
-| Indikasi Baharu yang Diramalkan | Preeklampsia |
-| Skor Ramalan TxGNN | 99.97% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Preeklampsia (preeclampsia) |
+| Skor Ramalan TxGNN | 0,9997 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
+| Bilangan Pendaftaran | 10 (sah: 10) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
----
+## Mengapa Ramalan Ini Munasabah?
 
-## Mengapakah Ramalan Ini Dibuat, dan Adakah Ia Munasabah?
+Data terperinci mengenai mekanisme tindakan tidak tersedia. Atracurium diketahui sebagai antagonis reseptor asetilkolin nikotinik pada sambungan neuromuskular, dan ia turut menyebabkan pembebasan histamin serta pelebaran saluran darah sementara.
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia daripada data yang disusun untuk laporan ini. Berdasarkan pengetahuan farmakologi umum, atracurium ialah antagonis reseptor asetilkolin nikotinik yang menyekat transmisi pada sambungan neuromuskular. Ia juga boleh menyebabkan pembebasan histamin dan vasodilatasi sementara.
+Tiada hubungan mekanistik yang mantap antara tindakan ini dengan patofisiologi preeklampsia, iaitu disfungsi plasenta, ketidakseimbangan angiogenik dan kecederaan endotelium. Dalam praktik obstetrik, penyekat neuromuskular hanya digunakan sebagai bahan tambahan anestesia semasa pembedahan. Magnesium sulfat, yang digunakan dalam preeklampsia, menguatkan sekatan neuromuskular. Ini merupakan isu keselamatan, bukan asas terapeutik.
 
-Tiada hubung kait mekanistik yang jelas dengan patofisiologi preeklampsia, iaitu disfungsi plasenta, ketidakseimbangan angiogenik dan kecederaan endotelium. Dalam obstetrik, penyekat neuromuskular hanya digunakan sebagai bahan tambahan anestesia semasa pembedahan. Magnesium sulfat, yang digunakan dalam preeklampsia, memperkuat sekatan neuromuskular, dan ini merupakan isu keselamatan, bukan rasional terapeutik.
+Skor yang tinggi (0,9997) ialah ramalan pengiraan semata-mata. Ia tidak disokong oleh bukti klinikal atau kajian terbitan dalam data yang ada. Oleh itu, ramalan ini perlu dianggap sebagai hipotesis awal sahaja.
 
-Skor TxGNN yang tinggi (0.9997) ialah ramalan komputasi sahaja dan tiada sokongan klinikal atau literatur. Subjenis preeklampsia (teruk dan ringan) mempunyai skor yang hampir sama, yang menunjukkan isyarat berasaskan graf yang dikongsi dan bukannya bukti bebas.
+## Bukti Ujian Klinikal
 
-### Ramalan Lain yang Dinilai
-
-| Kedudukan | Penyakit | Skor | Penilaian Ringkas |
-|------|------|------|------|
-| 2 | Sindrom cauda equina | 99.95% | Tiada mekanisme yang munasabah; rawatan ialah dekompresi pembedahan dan sekatan neuromuskular boleh mengaburkan penilaian neurologi |
-| 3 | Blefarospasme | 99.92% | Munasabah secara konsep, tetapi kerja atracurium singkat dan memerlukan pemberian IV; toksin botulinum ialah rawatan standard |
-| 4 | Gangguan migrain | 99.91% | Tiada hubung kait langsung; sifat pembebas histamin berpotensi mencetuskan migrain |
-| 5 | Pundi kencing neurogenik (istilah usang) | 99.91% | Istilah perlu dipetakan kepada istilah semasa; atracurium bukan terapi pundi kencing |
-| 6 | Penyakit trombotik | 99.89% | Tiada aktiviti antiplatelet/antikoagulan; imobiliti akibat sekatan neuromuskular ialah faktor risiko VTE |
-| 7 | Migrain dengan aura batang otak | 99.88% | Kemungkinan skor diwarisi daripada nod migrain induk |
-| 8 | Preeklampsia teruk | 99.86% | Kemungkinan perambatan ontologi; interaksi dengan magnesium sulfat |
-| 9 | Preeklampsia ringan | 99.86% | Sama seperti di atas |
-| 10 | Sindrom usus rengsa | 99.84% | Tiada hubung kait jelas; tidak praktikal untuk gangguan kronik |
-
----
-
-## Bukti Percubaan Klinikal
-
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
-
----
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
 
----
-
-## Maklumat Pasaran Malaysia
-
-Atracurium besylate pada masa ini tidak dipasarkan di Malaysia dan tiada lesen NPRA direkodkan.
-
----
-
 ## Pertimbangan Keselamatan
 
-- **Interaksi Ubat**: Tiada rekod interaksi ditemui dalam data yang disusun. Walau bagaimanapun, secara klinikal atracurium berinteraksi dengan magnesium sulfat (sekatan neuromuskular diperkuat), yang relevan dalam konteks preeklampsia.
-- **Pertimbangan Berkaitan Ramalan**: Sifat pembebas histamin boleh menjadi pencetus migrain. Sekatan neuromuskular berpanjangan dalam penjagaan rapi meningkatkan risiko tromboembolisme vena.
+Sila rujuk risalah maklumat produk untuk maklumat keselamatan.
 
-Sila rujuk sisipan pek untuk maklumat keselamatan yang lengkap.
-
----
+Satu perkara yang wajar diberi perhatian ialah interaksi dengan magnesium sulfat, yang boleh menguatkan sekatan neuromuskular. Ini relevan dalam konteks obstetrik.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
-**Justifikasi:**
-- Semua ramalan berada pada tahap bukti L5 (ramalan model sahaja), tanpa percubaan klinikal atau literatur, dan tiada hubung kait mekanistik yang munasabah. Ubat ini juga tidak dipasarkan di Malaysia.
+**Rasional:**
+Tiada ujian klinikal, penerbitan atau hubungan mekanistik yang munasabah untuk menyokong penggunaan atracurium dalam preeklampsia. Tahap bukti ialah L5 dan ramalan ini hanya bersandarkan model.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menyekat saringan keselamatan)
-- Data mekanisme tindakan (MOA) daripada DrugBank
-- Semakan literatur dan percubaan klinikal yang sistematik bagi setiap penyakit yang diramalkan
-- Pemetaan istilah penyakit usang (pundi kencing neurogenik) kepada istilah semasa
-- Penilaian keserasian laluan pemberian dan kesesuaian formulasi untuk setiap indikasi
-- Jika ingin diteruskan, blefarospasme ialah calon yang paling munasabah secara konsep, tetapi perlu dibandingkan dengan toksin botulinum
+- Data mekanisme tindakan yang terperinci dan analisis hubungan mekanistik dengan patofisiologi preeklampsia
+- Kajian praklinikal atau kajian klinikal yang mengkaji secara langsung kesan atracurium terhadap preeklampsia
+- Amaran, kontraindikasi dan maklumat interaksi ubat daripada risalah maklumat produk NPRA, terutamanya interaksi dengan magnesium sulfat
+- Penilaian keserasian laluan pentadbiran (atracurium diberikan secara intravena sahaja)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

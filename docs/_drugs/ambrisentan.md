@@ -3,18 +3,18 @@ layout: default
 title: Ambrisentan
 parent: Low Evidence (L4-L5)
 nav_order: 52
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ambrisentan: indikasi baharu diramal Malformasi arteriovenus pulmonari (tahap bukti L4). Indikasi asal: Hipertensi arteri pulmonari (PAH)"
+evidence_level: L5
+indication_count: 5
 monitor_inn: "AMBRISENTAN"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
+last_modified_at: 2026-10-27
+description: "Ambrisentan: indikasi baharu diramal Malformasi arteriovenus pulmonari (pulmonary arteriovenous malformation (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ambrisentan
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,81 +33,67 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Ambrisentan: Daripada Hipertensi Arteri Pulmonari kepada Malformasi Arteriovenus Pulmonari
+## Ambrisentan: antagonis reseptor endotelin A (ETA) → Malformasi arteriovenus pulmonari (pulmonary arteriovenous malformation (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Ambrisentan ialah antagonis reseptor endotelin yang pada asalnya digunakan untuk merawat hipertensi arteri pulmonari (PAH).
-Model TxGNN meramalkan ia mungkin berkesan untuk **malformasi arteriovenus pulmonari**,
-tetapi setakat ini hanya terdapat **0 ujian klinikal** dan **1 penerbitan** (laporan kes), yang tidak menunjukkan kesan rawatan terhadap malformasi tersebut.
+Ambrisentan ialah antagonis reseptor endotelin yang bertindak secara selektif pada reseptor ETA. Model TxGNN meramalkan ia mungkin berguna untuk **malformasi arteriovenus pulmonari (pulmonary arteriovenous malformation (disease))**, tetapi bukti yang ada sangat terhad: **tiada ujian klinikal** didaftarkan dan hanya **1 penerbitan** (laporan kes) yang berkaitan secara tidak langsung.
 
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan Pantas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hipertensi arteri pulmonari (PAH) |
-| Indikasi Baharu yang Diramalkan | Malformasi arteriovenus pulmonari |
-| Skor Ramalan TxGNN | 99.41% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
----
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Malformasi arteriovenus pulmonari (pulmonary arteriovenous malformation (disease)) |
+| Skor Ramalan TxGNN | 0,9941 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan belum tersedia. Berdasarkan maklumat yang diketahui, ambrisentan ialah penyekat reseptor endotelin jenis A (ETA). Keberkesanannya dalam PAH telah dibuktikan, dan secara mekanistik ia mungkin boleh digunakan untuk penyakit vaskular yang berkaitan.
+Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, ambrisentan diketahui menyekat isyarat endotelin-1 melalui reseptor ETA. Isyarat ini menyumbang kepada pembentukan semula saluran darah dan rintangan vaskular pulmonari, jadi penyekatan ETA munasabah secara teori pada penyakit vaskular yang berkaitan.
 
-Isyarat endotelin-1 menyumbang kepada pembentukan semula saluran darah dan peningkatan rintangan vaskular pulmonari. Penyekatan ETA oleh itu munasabah dalam penyakit vaskular berkaitan. Ini ialah hubungan secara teori sahaja.
-
-Hubungan ini lemah. Satu-satunya literatur ialah laporan kes PAH pada pesakit dengan telangiektasia hemoragik herediter (HHT). Laporan itu menerangkan PAH yang wujud bersama malformasi vaskular, dan bukan rawatan malformasi itu sendiri. Ambrisentan tidak menunjukkan kesan terhadap lesi malformasi arteriovenus. Ambrisentan juga boleh menyebabkan pengekalan cecair dan anemia, yang membimbangkan bagi populasi HHT yang cenderung mengalami pendarahan.
-
----
+Namun, hubungan ini lemah. Satu-satunya penerbitan yang ada ialah laporan kes hipertensi arteri pulmonari (PAH) pada pesakit dengan telangiektasia hemoragik herediter (HHT). Laporan itu menerangkan PAH yang wujud bersama malformasi vaskular, bukan rawatan terhadap malformasi itu sendiri. Tiada bukti bahawa ambrisentan mempunyai kesan ke atas lesi malformasi arteriovenus. Oleh sebab tiada kajian yang meneliti penyakit yang diramalkan ini secara langsung, tahap bukti ditetapkan sebagai L5 (ramalan model sahaja).
 
 ## Bukti Ujian Klinikal
 
-Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
----
+## Bukti Penerbitan
 
-## Bukti Literatur
-
-| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [33969094](https://pubmed.ncbi.nlm.nih.gov/33969094/) | 2021 | Laporan kes | World Journal of Clinical Cases | Melaporkan PAH pada pesakit HHT berserta analisis gen ahli keluarga, bagi meningkatkan kesedaran terhadap multimorbiditi ini. Ia tidak menilai rawatan malformasi. |
+| [33969094](https://pubmed.ncbi.nlm.nih.gov/33969094/) | 2021 | Laporan kes | World Journal of Clinical Cases | Laporan kes PAH pada pesakit HHT beserta analisis gen keluarga; menerangkan penyakit bersama, bukan rawatan malformasi |
 
----
+## Maklumat Pasaran Malaysia
+
+Data tempatan menunjukkan status pasaran **dipasarkan**, dengan 2 lesen yang sah dan tiada lesen dibatalkan. Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 
-- **Kontraindikasi berdasarkan graf pengetahuan (bukan teks label produk)**: kegagalan jantung kongestif, anemia, anemia makrositik dan penyakit venooklusif pulmonari.
-- **Interaksi Ubat**: pertanyaan selesai dan 100 interaksi dikesan. Antara yang utama daripada senarai yang dipaparkan:
+- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan. Antara yang disenaraikan:
   - Tahap sederhana: canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, eliglustat, naltrexone.
-  - Tahap minor: clarithromycin, miconazole, omeprazole.
-  - Beberapa interaksi lain belum diketahui tahapnya, termasuk metformin, simvastatin dan prednisone.
+  - Tahap ringan: clarithromycin, miconazole, omeprazole.
+  - Tahap tidak diketahui: antaranya calcitriol, pantoprazole, doxycycline, morphine, metformin, simvastatin dan prednisone.
+- **Amaran tambahan daripada penilaian ramalan**: ambrisentan boleh menyebabkan pengekalan cecair dan anemia, yang membimbangkan bagi populasi seperti HHT yang cenderung mengalami pendarahan. Ambrisentan juga bersifat teratogenik.
 
-Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
-
----
+Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pek produk.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Bukti hanya terdiri daripada ramalan model dan satu laporan kes yang tidak menunjukkan kesan ambrisentan terhadap malformasi arteriovenus. Risiko anemia dan pengekalan cecair juga membimbangkan bagi pesakit yang cenderung berdarah.
-- Ambrisentan tidak dipasarkan di Malaysia, jadi tiada lesen tempatan untuk dirujuk.
-- Dalam data yang sama, indikasi yang diramalkan lain mempunyai sokongan lebih kukuh, terutamanya PAH berkaitan penyakit tisu penghubung (tahap bukti L2, dengan ujian Fasa 2 dan Fasa 4 yang selesai). Namun ini sebahagian besarnya masih dalam lingkungan indikasi PAH asal, dan bukan pelanggaran semula yang sebenar.
+- Ramalan ini hanya disokong oleh skor model dan satu laporan kes yang berkaitan secara tidak langsung. Tiada ujian klinikal dan tiada bukti kesan ke atas malformasi arteriovenus itu sendiri. Kebimbangan keselamatan (pengekalan cecair, anemia, risiko pendarahan pada populasi HHT) menambah keperluan untuk berhati-hati.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA, yang pada masa ini menghalang saringan keselamatan.
-- Data mekanisme tindakan terperinci daripada DrugBank.
-- Bukti praklinikal atau klinikal bahawa penyekatan ETA memberi kesan terhadap lesi malformasi arteriovenus pulmonari.
-- Penilaian risiko anemia, pengekalan cecair dan pendarahan pada populasi HHT.
+- Data mekanisme tindakan (MOA) yang terperinci
+- Maklumat amaran dan kontraindikasi daripada sisipan pek produk NPRA
+- Kajian praklinikal atau klinikal yang menilai ambrisentan secara langsung pada malformasi arteriovenus pulmonari
+- Penilaian keselamatan khusus untuk pesakit yang terdedah kepada pendarahan dan anemia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

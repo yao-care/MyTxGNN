@@ -7,13 +7,14 @@ drugbank_id: "DB00065"
 drug_name: "Infliximab"
 kg_predictions: 40
 dl_predictions: 21
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/infliximab/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Infliximab
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **40** ramalan graf pengetahuan dan **21** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **40** ramalan model TxGNN (pembelajaran mendalam) dan **21** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

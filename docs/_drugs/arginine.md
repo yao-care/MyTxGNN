@@ -3,18 +3,18 @@ layout: default
 title: Arginine
 parent: Low Evidence (L4-L5)
 nav_order: 88
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Arginine: indikasi baharu diramal Gastroparesis (tahap bukti L4). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "ARGININE"
 predicted_indications: ["gastroparesis (disease)"]
+last_modified_at: 2026-10-27
+description: "Arginine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Arginine
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **1** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,82 +33,80 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-## Arginin: Daripada Tiada Indikasi Berdaftar kepada Gastroparesis
+## Arginine: asid amino / prekursor nitrik oksida → Gastroparesis (gastroparesis (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Arginin ialah asid amino yang tiada indikasi asal berdaftar di Malaysia, dan produk ini pada masa ini tidak dipasarkan di sini.
-Model TxGNN meramalkan ia mungkin berkesan untuk **gastroparesis**,
-tetapi setakat ini hanya **0 percubaan klinikal** dan **9 penerbitan** (kebanyakannya kajian haiwan dan mekanistik) menyokong arah ini.
+Arginine ialah asid amino yang berperanan sebagai substrat untuk sintesis nitrik oksida. Model TxGNN meramalkan ia mungkin berguna untuk **Gastroparesis (gastroparesis (disease))**. Setakat ini **tiada ujian klinikal** didaftarkan, dan sokongan hanya datang daripada **9 penerbitan** yang kebanyakannya kajian haiwan dan kajian mekanisme.
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Keseluruhan
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
-| Indikasi Baharu yang Diramal | Gastroparesis |
-| Skor Ramalan TxGNN | 99.42% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Gastroparesis (gastroparesis (disease)) |
+| Skor Ramalan TxGNN | 0,9942 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 138 daripada 138) |
+| Bilangan Pendaftaran | 138 (sah: 138) |
+| Keputusan yang Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan asal tidak tersedia pada masa ini. Walau bagaimanapun, arginin diketahui sebagai substrat untuk nitrik oksida sintase neuron (nNOS) dalam neuron perencat enterik. Isyarat nitrergik mengawal akomodasi gastrik dan relaksasi pilorus, dua fungsi yang terjejas dalam gastroparesis.
+Data terperinci tentang mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Namun, berdasarkan literatur praklinikal, arginine ialah substrat bagi nitrik oksida sintase neuron (nNOS) dalam neuron perencat enterik. Isyarat nitrergik ini mengawal akomodasi gastrik dan kelonggaran pilorus.
 
-Kajian praklinikal menyokong kaitan ini. Gastroparesis akibat glukokortikoid pada tikus mencit dikaitkan dengan pengurangan L-arginin (PMID 25057793). Relaksasi nitrergik sfinkter pilorus terjejas dalam model tikus penyakit Parkinson (PMID 35380456). Neuropati mienterik pada tikus BB diabetes, yang melibatkan kehilangan neuron yang mengekspres nNOS, selaras dengan laluan yang sama (PMID 18312542).
+Beberapa kajian haiwan menyokong kaitan ini. Gastroparesis aruhan glukokortikoid pada tikus mencit dikaitkan dengan susutan L-arginine (PMID 25057793). Kelonggaran nitrergik pilorus terjejas dalam model tikus penyakit Parkinson (PMID 35380456). Neuropati mienterik pada tikus BB diabetik, yang melibatkan kehilangan neuron yang mengekspresikan nNOS, selaras dengan laluan ini (PMID 18312542).
 
-Perlu diingat bahawa bukti ini bersifat tidak langsung. Beberapa kajian lain membincangkan dismotiliti gastrik secara umum (rangsangan elektrik gastrik, rangsangan saraf sakral, hiperglisemia, agonis ghrelin, anafilaksis) dan hanya memberikan sokongan tidak langsung untuk arginin. Skor TxGNN yang tinggi ialah ramalan pengiraan, bukan bukti keberkesanan klinikal.
+Kajian lain yang disenaraikan membincangkan rangsangan elektrik gastrik atau saraf sakral, perencatan motiliti oleh hiperglisemia, agonis ghrelin dan tindak balas motor akibat anafilaksis. Ia mengenai disfungsi motiliti gastrik secara umum dan hanya memberi sokongan tidak langsung untuk arginine. Skor tinggi ialah ramalan pengiraan sahaja; tiada kajian yang menguji arginine secara langsung pada gastroparesis.
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [25057793](https://pubmed.ncbi.nlm.nih.gov/25057793/) | 2014 | Kajian haiwan (mencit) | Endocrinology | Glukokortikoid mendorong gastroparesis pada mencit melalui pengurangan L-arginin |
-| [35380456](https://pubmed.ncbi.nlm.nih.gov/35380456/) | 2022 | Kajian haiwan (tikus, model Parkinson) | Am J Physiol Gastrointest Liver Physiol | Relaksasi nitrergik sfinkter pilorus terjejas pada tikus 6-OHDA yang mengalami gastroparesis |
-| [18312542](https://pubmed.ncbi.nlm.nih.gov/18312542/) | 2008 | Kajian haiwan (tikus BB diabetes) | Neurogastroenterol Motil | Pencirian neuropati mienterik jejunum; nNOS dicadangkan terlibat dalam gastroparesis diabetes |
-| [19023028](https://pubmed.ncbi.nlm.nih.gov/19023028/) | 2009 | Kajian haiwan (anjing) | Am J Physiol Gastrointest Liver Physiol | Rangsangan elektrik gastrik tersegerak memperbaik akomodasi gastrik melalui laluan nitrergik |
-| [31984783](https://pubmed.ncbi.nlm.nih.gov/31984783/) | 2020 | Kajian haiwan (tikus) | Am J Physiol Gastrointest Liver Physiol | Rangsangan saraf sakral meningkatkan akomodasi gastrik melalui laluan aferen spinal dan eferen vagal |
-| [21193530](https://pubmed.ncbi.nlm.nih.gov/21193530/) | 2011 | Kajian haiwan | Am J Physiol Gastrointest Liver Physiol | Perencatan motiliti gastrik oleh hiperglisemia dimediasi saluran KATP ganglia nodosa |
-| [18322959](https://pubmed.ncbi.nlm.nih.gov/18322959/) | 2008 | Kajian haiwan (mencit diabetes) | World J Gastroenterol | Kesan motor gastrik ghrelin dan GHRP-6 pada mencit diabetes dengan gastroparesis |
-| [8194696](https://pubmed.ncbi.nlm.nih.gov/8194696/) | 1994 | Kajian haiwan (tikus) | Gastroenterology | Tindak balas motor gastrik terhadap anafilaksis akibat protein makanan |
-| [33867519](https://pubmed.ncbi.nlm.nih.gov/33867519/) | 2021 | Laporan kes | Am J Case Rep | Perubahan gaya hidup menormalkan laktat serum pada pembawa m.3243A>G (kaitan langsung terhad) |
+| [25057793](https://pubmed.ncbi.nlm.nih.gov/25057793/) | 2014 | Kajian haiwan (mencit) | Endocrinology | Dexamethasone oral menyebabkan gastroparesis pada mencit melalui susutan L-arginine |
+| [35380456](https://pubmed.ncbi.nlm.nih.gov/35380456/) | 2022 | Kajian haiwan (tikus, model Parkinson) | Am J Physiol Gastrointest Liver Physiol | Kelonggaran nitrergik sfinkter pilorus terjejas pada tikus 6-OHDA |
+| [18312542](https://pubmed.ncbi.nlm.nih.gov/18312542/) | 2008 | Kajian haiwan (tikus BB diabetik) | Neurogastroenterol Motil | Neuropati mienterik jejunum dan ekspresi nNOS pada model diabetes jenis 1 |
+| [18322959](https://pubmed.ncbi.nlm.nih.gov/18322959/) | 2008 | Kajian haiwan (mencit diabetik) | World J Gastroenterol | Kesan motor gastrik ghrelin dan GHRP-6 pada mencit diabetik dengan gastroparesis |
+| [21193530](https://pubmed.ncbi.nlm.nih.gov/21193530/) | 2011 | Kajian haiwan | Am J Physiol Gastrointest Liver Physiol | Perencatan motiliti gastrik oleh hiperglisemia diperantarai saluran KATP ganglia nodosum |
+| [19023028](https://pubmed.ncbi.nlm.nih.gov/19023028/) | 2009 | Kajian haiwan (anjing) | Am J Physiol Gastrointest Liver Physiol | Rangsangan elektrik gastrik tersegerak memperbaiki akomodasi gastrik melalui laluan nitrergik |
+| [31984783](https://pubmed.ncbi.nlm.nih.gov/31984783/) | 2020 | Kajian haiwan (tikus) | Am J Physiol Gastrointest Liver Physiol | Rangsangan saraf sakral meningkatkan akomodasi gastrik |
+| [8194696](https://pubmed.ncbi.nlm.nih.gov/8194696/) | 1994 | Kajian haiwan (tikus) | Gastroenterology | Tindak balas motor gastrik terhadap anafilaksis protein makanan |
+| [33867519](https://pubmed.ncbi.nlm.nih.gov/33867519/) | 2021 | Laporan kes | Am J Case Rep | Normalisasi laktat serum pada pembawa m.3243A>G; kaitan dengan gastroparesis tidak langsung |
 
 ## Maklumat Pasaran di Malaysia
 
-Arginin pada masa ini tidak mempunyai pendaftaran di Malaysia (0 lesen), dan tiada produk dipasarkan.
+Data yang dikumpulkan menunjukkan 138 lesen sah dan tiada lesen dibatalkan. Senarai terperinci lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 
-Data penuh amaran dan kontraindikasi daripada sisipan pakej tidak tersedia. Berikut ialah maklumat daripada graf pengetahuan TxGNN (PrimeKG), iaitu pautan kontraindikasi ubat-penyakit dan **bukan** teks label rasmi:
+Penyakit berikut dicatatkan sebagai keadaan yang perlu diberi perhatian apabila arginine digunakan (berdasarkan hubungan data sekunder, bukan teks label produk):
 
-- **Penyakit ginjal dan metabolik**: penyakit ginjal, penyakit ginjal kronik, kegagalan ginjal kronik dan peringkat akhir, nefrolitiasis, nefrokalsinosis, nefropati urat akut, asidosis metabolik, asidosis tubulus renal
-- **Gangguan kalsium dan fosforus**: hiperkalsemia, hiperkalsemia humoral akibat malignansi, hiperparatiroidisme, osteitis fibrosa, gangguan metabolisme fosforus, lesi tulang metastatik litik, sarkoidosis
-- **Penyakit kardiovaskular**: penyakit jantung, penyakit kardiovaskular, fibrilasi ventrikel, keracunan digitalis
-- **Penyakit darah**: anemia sel sabit, kegigihan hemoglobin janin keturunan
-- **Lain-lain**: fenilketonuria dan gangguan metabolisme fenilalanina, sembelit, pyoureter
+- **Buah pinggang**: penyakit buah pinggang, penyakit buah pinggang kronik, kegagalan buah pinggang kronik dan peringkat akhir, batu karang buah pinggang (nefrolitiasis), nefrokalsinosis, nefropati urat akut
+- **Metabolik dan asid-bes**: asidosis metabolik, asidosis tubul renal, fenilketonuria dan gangguan metabolisme fenilalanina, gangguan metabolisme fosforus
+- **Kalsium dan paratiroid**: hiperkalsemia, hiperkalsemia humoral akibat malignansi, hiperparatiroidisme, osteitis fibrosa, sarkoidosis, lesi tulang metastatik litik
+- **Kardiovaskular**: penyakit jantung, penyakit kardiovaskular, fibrilasi ventrikel, keracunan digitalis
+- **Hematologi**: anemia sel sabit, ketekalan hemoglobin janin keturunan
+- **Lain-lain**: sembelit
 
-Maklumat interaksi ubat (DDI) tidak ditemui dalam data yang dikompil untuk laporan ini.
+Tiada data interaksi ubat didapati. Sila rujuk sisipan pek produk untuk amaran dan kontraindikasi rasmi.
 
 ## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan TxGNN sangat tinggi (99.42%), tetapi bukti terhad kepada kajian haiwan dan mekanistik (L4), tanpa sebarang percubaan klinikal. Arginin juga tiada pendaftaran di Malaysia, dan data keselamatan label tidak lengkap, dengan senarai kontraindikasi graf pengetahuan yang agak panjang (terutamanya ginjal, kardiovaskular dan metabolik).
+Ramalan ini hanya disokong oleh kajian haiwan dan mekanisme; tiada kajian yang menilai arginine secara langsung pada gastroparesis, maka tahap bukti ialah L5. Data keselamatan rasmi juga belum lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Memuat turun dan menghurai sisipan pakej NPRA bagi amaran dan kontraindikasi (jurang data bertahap penghalang)
-- Data mekanisme tindakan terperinci daripada DrugBank
-- Kajian praklinikal langsung yang menguji arginin (bukan hanya laluan nNOS) dalam model gastroparesis
-- Percubaan klinikal fasa awal yang direka dengan baik, bersama pelan pemantauan keselamatan untuk pesakit dengan penyakit ginjal, kardiovaskular dan gangguan metabolik
-- Kajian kesesuaian laluan pentadbiran dan bentuk dos, serta pengesahan status pendaftaran di Malaysia
+- Data mekanisme tindakan yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pek produk NPRA
+- Kajian praklinikal atau klinikal yang menguji arginine secara langsung pada gastroparesis
+- Penilaian keselamatan untuk pesakit dengan penyakit buah pinggang, diabetes dan penyakit kardiovaskular, yang lazim dalam populasi gastroparesis
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -8,6 +8,7 @@ nav_order: 161
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Bosutinib Dihydrate
@@ -47,8 +48,8 @@ Bosutinib dihydrate ialah penghambat tirosin kinase (TKI) yang kini dipasarkan d
 | Indikasi Baru yang Diramal | Tiada — tiada ramalan TxGNN tersedia |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 (Tidak Mencukupi — tiada ramalan dijana) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Cadangan Keputusan | **Tahan** |
 
 ## Mengapa Ramalan Ini Munasabah?

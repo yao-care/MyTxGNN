@@ -4,17 +4,17 @@ title: Calcifediol
 parent: Low Evidence (L4-L5)
 nav_order: 181
 evidence_level: L5
-indication_count: 4
-last_modified_at: 2026-10-15
-description: "Calcifediol: indikasi baharu diramal Kekurangan vitamin D (istilah lapuk) (tahap bukti L5). Indikasi asal: Hiperkalsemia, nefrokalsinosis, gangguan metabolisme fosforus…"
+indication_count: 2
 monitor_inn: "CALCIFEDIOL"
-predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "hereditary hypophosphatemic rickets", "vitamin D-dependent rickets"]
+predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis"]
+last_modified_at: 2026-10-27
+description: "Calcifediol: indikasi baharu diramal Kekurangan vitamin D lapuk (obsolete vitamin D deficiency) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Calcifediol
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **4** 
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-## Calcifediol: Daripada Hiperkalsemia/Gangguan Metabolisme Mineral kepada Kekurangan Vitamin D
+## Calcifediol: analog vitamin D → kekurangan vitamin D lapuk (obsolete vitamin D deficiency)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Calcifediol (25-hidroksivitamin D3) ialah metabolit vitamin D yang beredar dalam darah, pada asalnya digunakan untuk gangguan metabolisme kalsium dan fosforus serta penyakit tulang seperti riket, osteomalasia dan osteodistrofi renal.
-Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan vitamin D (istilah lapuk dalam ontologi)**, dengan skor ramalan yang tinggi (99.99%).
-Namun, **tiada ujian klinikal** dan **tiada literatur** yang menyokong indikasi teratas ini dalam data yang dikumpulkan; bukti yang ada hanya untuk dua indikasi ramalan lain (2 artikel literatur).
+Calcifediol (25-hidroksivitamin D3) ialah bentuk vitamin D yang beredar dalam darah dan merupakan pendahulu langsung kepada calcitriol.
+Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan vitamin D lapuk (obsolete vitamin D deficiency)**,
+tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** dalam data yang dikumpulkan untuk laporan ini yang menyokong ramalan tersebut.
 
 ---
 
@@ -48,29 +48,21 @@ Namun, **tiada ujian klinikal** dan **tiada literatur** yang menyokong indikasi 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hiperkalsemia, nefrokalsinosis, gangguan metabolisme fosforus, hipofosfatemia, riket, osteomalasia, osteodistrofi renal (berdasarkan graf pengetahuan TxGNN/PrimeKG, bukan teks label berdaftar) |
-| Indikasi Baharu Diramalkan | Kekurangan vitamin D (istilah lapuk) |
-| Skor Ramalan TxGNN | 99.99% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Kekurangan vitamin D lapuk (obsolete vitamin D deficiency) |
+| Skor Ramalan TxGNN | 0,9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Tahan) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) belum tersedia. Berdasarkan maklumat sedia ada, calcifediol ialah pendahulu langsung kalcitriol (bentuk aktif vitamin D) dan penanda biologi standard bagi status vitamin D. Oleh itu, secara mekanistik, pengisian semula calcifediol munasabah untuk kekurangan vitamin D.
+Data terperinci mengenai mekanisme tindakan asal calcifediol tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, calcifediol ialah pendahulu langsung calcitriol dan penanda biologi piawai bagi status vitamin D. Oleh itu, secara mekanistik, penambahan semula calcifediol dalam keadaan kekurangan vitamin D adalah munasabah.
 
-Walau bagaimanapun, istilah penyakit ini ditandakan sebagai lapuk dalam ontologi dan mungkin bertindih dengan entri kekurangan vitamin D semasa. Skor TxGNN yang tinggi hanyalah ramalan pengiraan dan tidak disokong oleh bukti klinikal yang diperoleh.
-
-**Ramalan lain yang dikesan (ringkas):**
-
-| Indikasi Diramalkan | Skor | Tahap Bukti | Catatan Mekanistik |
-|------|------|------|------|
-| Asidosis tubulus renal | 99.86% | L5 | Kaitan tidak langsung: penyakit tulang akibat asidosis kronik mungkin dipengaruhi status vitamin D; bersifat sokongan, bukan merawat kecacatan tubulus. Tiada bukti. |
-| Riket hipofosfatemik keturunan | 99.76% | L4 | Penjagaan standard ialah fosfat dengan vitamin D aktif atau burosumab. Calcifediol memerlukan pengaktifan 1-alfa-hidroksilasi yang ditindas oleh FGF23, jadi sukar menggantikan analog aktif; paling banyak membetulkan kekurangan 25-OH-D serentak. Sebahagian besarnya sudah dalam penggunaan sedia ada. |
-| Riket bergantung vitamin D | 99.18% | L4 | Jenis 1B (kekurangan 25-hidroksilase, CYP2R1): calcifediol memintas sekatan enzim, rasional kuat. Jenis 1A tidak mendapat manfaat kerana memerlukan kalcitriol. |
+Perlu diberi perhatian bahawa istilah penyakit ini ditandakan sebagai "lapuk" (obsolete) dalam ontologi, dan berkemungkinan bertindih dengan entri kekurangan vitamin D semasa. Skor TxGNN yang tinggi (0,9999) ialah ramalan komputasi semata-mata dan tidak disokong oleh bukti klinikal yang diperoleh di sini.
 
 ---
 
@@ -82,38 +74,42 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Tiada literatur untuk indikasi teratas (kekurangan vitamin D). Literatur berikut berkaitan indikasi ramalan lain:
-
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [38337700](https://pubmed.ncbi.nlm.nih.gov/38337700/) | 2024 | Ulasan | Nutrients | Ulasan jenis riket dan rawatan dengan vitamin D serta analognya (relevan kepada riket hipofosfatemik keturunan). |
-| [28548312](https://pubmed.ncbi.nlm.nih.gov/28548312/) | 2017 | Ulasan/Laporan kes | Journal of Bone and Mineral Research | Riket bergantung vitamin D jenis 1B (kekurangan 25-hidroksilase): keadaan yang jarang atau mungkin tersalah diagnosis; menerangkan 7 pesakit daripada 2 keluarga. |
+Pada masa ini tiada literatur berkaitan tersedia.
 
 ---
 
-## Keselamatan
+## Maklumat Pasaran Malaysia
 
-- **Kontraindikasi berdasarkan graf pengetahuan (bukan teks label):** penyakit buah pinggang, piouretra, sarkoidosis, hiperkalsemia, nefrokalsinosis, gangguan metabolisme fosforus, kecenderungan nefrolitiasis akibat SLC26A1, nefrolitiasis, nefropati urat akut, hiperfosfatemia, hipervitaminosis, arteriosklerosis obliterans.
-- **Interaksi Ubat:** 57 interaksi dikesan. Interaksi **Major** termasuk kolekalsiferol, kalsitriol dan burosumab. Interaksi **Sederhana** termasuk fosfenitoin, karbamazepin, barbiturat (amobarbital, butalbital, butabarbital), diuretik tiazid (hidroklorotiazid, bendroflumetiazid, benztiazid, klorotiazid, klortalidon), aluminium hidroksida, kalsipotriol/kalsitriol topikal, resin pengikat asid hempedu (kolestiramin, kolesevelam, kolestipol) dan digitoksin.
+Status pasaran: dipasarkan. Terdapat 4 lesen sah dan tiada lesen yang dibatalkan. Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
-Untuk amaran utama dan kontraindikasi daripada label, sila rujuk sisipan pakej.
+---
+
+## Pertimbangan Keselamatan
+
+- **Interaksi Ubat**: Sebanyak 57 interaksi direkodkan. Interaksi **utama (Major)** termasuk:
+  - Cholecalciferol
+  - Burosumab
+  - Calcitriol
+
+  Interaksi **sederhana (Moderate)** termasuk fosphenytoin, hidroklorotiazid, amobarbital, butalbital, aluminium hidroksida, karbamazepin, kolestiramin, kolesevelam, kolestipol dan digitoksin. Kombinasi dengan analog vitamin D lain, atau dengan diuretik tiazid, memerlukan perhatian terhadap risiko hiperkalsemia.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tahan)**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Indikasi teratas hanya disokong ramalan model (L5), tanpa ujian atau literatur, dan istilah penyakit itu lapuk. Ubat ini juga tidak dipasarkan di Malaysia. Indikasi riket bergantung vitamin D jenis 1B mempunyai rasional mekanistik kukuh tetapi bukti setakat ini hanya laporan kes/ulasan, sesuai sebagai soalan penyelidikan.
+Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau penerbitan yang mengkaji penyakit ini secara langsung. Istilah penyakit juga telah lapuk dan bertindih dengan entri kekurangan vitamin D semasa, jadi nilai ramalan ini terhad.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Memetakan istilah lapuk kepada entri kekurangan vitamin D semasa, dan menyemak bukti klinikal sedia ada.
-- Data mekanisme tindakan (MOA) daripada DrugBank.
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan).
-- Siri kes serta data dos dan keselamatan untuk riket bergantung vitamin D jenis 1B.
-- Penilaian status pendaftaran dan ketersediaan produk di Malaysia, serta kesesuaian laluan pentadbiran.
-- Pemantauan kalsium dan fungsi buah pinggang memandangkan risiko hiperkalsemia dan nefrokalsinosis.
+- Pemetaan istilah lapuk ini kepada entri kekurangan vitamin D yang semasa
+- Pencarian ujian klinikal dan literatur yang mengkaji calcifediol dalam kekurangan vitamin D
+- Data mekanisme tindakan (MOA) terperinci
+- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA
+- Pengesahan kesesuaian laluan pentadbiran dan bentuk dos yang berdaftar di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -3,18 +3,18 @@ layout: default
 title: Fluorometholone
 parent: Low Evidence (L4-L5)
 nav_order: 364
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Fluorometholone: indikasi baharu diramal Uveitis anterior berjangkit (tahap bukti L4). Indikasi asal: Tiada data indikasi berdaftar di Malaysia (rujukan farmakologi: kerad…"
+evidence_level: L5
+indication_count: 9
 monitor_inn: "Fluorometholone"
-predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
+predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy", "glaucomatocyclitic crisis"]
+last_modified_at: 2026-10-23
+description: "Fluorometholone: indikasi baharu diramal Postinfectious vasculitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Fluorometholone
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,94 +33,78 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Fluorometholone: Daripada Indikasi Asal (Tidak Direkodkan) kepada Uveitis Anterior Berjangkit
+## Fluorometholone: Postinfectious vasculitis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Fluorometholone ialah kortikosteroid topikal (glukokortikoid sintetik) yang secara umumnya digunakan untuk merawat keradangan konjunktiva. Model TxGNN meramalkan ia mungkin berkesan untuk **uveitis anterior berjangkit**, tetapi buat masa ini terdapat **0 percubaan klinikal** dan hanya **1 penerbitan** yang berkaitan secara tidak langsung (mengenai uveitis tidak berjangkit), jadi tahap bukti masih rendah.
+Fluorometholone ialah kortikosteroid topikal yang digunakan dalam bentuk titisan mata untuk keradangan mata. Model TxGNN meramalkan ia mungkin berkesan untuk **keratokonjunktivitis epitelium berpunktat**, tetapi setakat ini hanya terdapat **2 penerbitan tidak langsung** dan **tiada ujian klinikal** yang menyokong arah ini. Oleh itu, bukti masih sangat lemah.
 
----
-
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar di Malaysia (rujukan farmakologi: keradangan konjunktiva) |
-| Indikasi Baharu yang Diramalkan | Uveitis anterior berjangkit |
-| Skor Ramalan TxGNN | 99.98% |
-| Tahap Bukti | L4 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Postinfectious vasculitis |
+| Skor Ramalan TxGNN | 0.9991 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
----
+**Nota tahap bukti:** Tiada ujian klinikal atau penerbitan yang mengkaji secara langsung penyakit yang diramalkan di tahap teratas. Bagi keratokonjunktivitis epitelium berpunktat, kedua-dua penerbitan hanya berkaitan secara tidak langsung (jangkitan mikrosporidia dan pemantauan OCT keratokonjunktivitis epidemik) dan tidak menilai keberkesanan fluorometholone. Maka tahap bukti ditetapkan pada L5, bukan L4 seperti yang tertera dalam data mentah.
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat pangkalan data farmakologi, fluorometholone mengikat **reseptor glukokortikoid (NR3C1)** pada manusia dan digunakan untuk keradangan konjunktiva. Ia ialah kortikosteroid topikal dengan aktiviti anti-radang.
+Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, fluorometholone ialah kortikosteroid sintetik yang bertindak pada reseptor glukokortikoid (NR3C1), dengan kesan anti-radang dan imunosupresif. Ia digunakan secara topikal untuk keradangan konjunktiva.
 
-Uveitis anterior ialah keadaan radang, dan kortikosteroid topikal merupakan rawatan piawai bagi uveitis anterior tidak berjangkit. Skor TxGNN yang sangat tinggi berkemungkinan mencerminkan mekanisme anti-radang yang sama ini.
+Bagi **postinfectious vasculitis** (ramalan teratas), vaskulitis yang dimediasi imun secara teori boleh bertindak balas terhadap glukokortikoid. Namun, dos topikal untuk mata memberikan pendedahan sistemik yang boleh diabaikan, dan pautan ini hanyalah ramalan model tanpa sokongan ujian atau literatur.
 
-Namun, bagi uveitis anterior **berjangkit**, steroid hanya boleh digunakan dengan berhati-hati bersama terapi anti-jangkitan yang berkesan, kerana steroid boleh memburukkan jangkitan yang tidak terkawal. Satu-satunya penerbitan yang diperoleh membincangkan uveitis tidak berjangkit, maka ia hanyalah bukti tidak langsung.
+**Keratokonjunktivitis epitelium berpunktat** ialah ramalan yang paling munasabah secara biologi kerana fluorometholone sudah digunakan pada permukaan mata, dan kortikosteroid digunakan untuk sekuel keratokonjunktivitis pasca-jangkitan atau adenovirus seperti infiltrat subepitelium. Walau bagaimanapun, bukti yang ada tidak menilai fluorometholone secara langsung.
 
----
+Ramalan lain (otitis externa, glaucomatocyclitic crisis, dll.) turut dibincangkan dalam data, tetapi semuanya tanpa bukti khusus fluorometholone.
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
-
----
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
+Dua penerbitan tidak langsung ditemui untuk keratokonjunktivitis epitelium berpunktat:
+
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [29739028](https://pubmed.ncbi.nlm.nih.gov/29739028/) | 2018 | Ulasan | Klinische Monatsblatter fur Augenheilkunde | Kortikosteroid topikal berkesan untuk uveitis anterior; prednisolone acetate 1% ialah pilihan pertama. Kesan intraokular bergantung pada penembusan kornea. Artikel ini mengenai uveitis tidak berjangkit (bukti tidak langsung). |
+| [34011737](https://pubmed.ncbi.nlm.nih.gov/34011737/) | 2021 | Ulasan | Indian Journal of Ophthalmology | Menerangkan sekuel keratokonjunktivitis mikrosporidia dan pengurusannya; tidak menilai fluorometholone |
+| [35128186](https://pubmed.ncbi.nlm.nih.gov/35128186/) | 2021 | Kohort | Journal of Current Ophthalmology | Peranan OCT segmen anterior dalam memantau keratokonjunktivitis epidemik dan kesan steroid topikal terhadap perjalanan penyakit; tidak menilai fluorometholone secara khusus |
 
----
+## Maklumat Pasaran di Malaysia
 
-## Maklumat Pasaran Malaysia
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL19890344ARZ | FML LIQUIFILM STERILE OPHTHALMIC S* | Tidak dinyatakan | Teks indikasi tidak tersedia dalam rekod lesen |
 
-Fluorometholone buat masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar.
-
----
+Pengeluar: ABBVIE SDN BHD. Status: sah. Hanya satu pendaftaran produk tunggal ditemui (bukan produk kombinasi).
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat**: Pangkalan data DDInter merekodkan 11 ubat yang berinteraksi, tetapi tahap keterukan setiap interaksi tidak diketahui. Ubat tersebut ialah:
-- Doxycycline
-- Salbutamol
-- Cyclosporine
-- Acetaminophen
-- Digoxin
-- Brimonidine
-- Cephalexin
-- Alendronic acid
-- Acyclovir
-- Diazepam
-- Fenofibrate
+- **Interaksi Ubat**: Pangkalan data interaksi mengenal pasti 11 ubat yang berpotensi berinteraksi, tetapi tahap keterukan tidak diklasifikasikan (Tidak diketahui). Antaranya: doxycycline, salbutamol, cyclosporine, acetaminophen, digoxin, brimonidine, cephalexin, alendronic acid, acyclovir, diazepam dan fenofibrate.
+- **Risiko khusus ramalan** (berdasarkan penilaian dalam data): penggunaan steroid sahaja dalam keadaan berjangkit (contohnya otitis externa) membawa risiko; peningkatan tekanan intraokular akibat steroid membimbangkan dalam glaucomatocyclitic crisis; imunosupresi boleh mencetuskan semula parasit dalam Chagas cardiomyopathy.
 
-Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi.
-
----
+Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang lengkap.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Tiada percubaan klinikal dan hanya satu ulasan tidak langsung (mengenai uveitis tidak berjangkit). Tambahan pula, produk ini tidak dipasarkan di Malaysia, dan penggunaan steroid dalam jangkitan aktif membawa risiko. Pada peringkat ini ia lebih sesuai dianggap sebagai soalan penyelidikan.
+Semua ramalan hanya berasaskan model tanpa ujian klinikal dan tanpa kajian yang menilai fluorometholone secara langsung, maka tahap bukti ialah L5. Bagi ramalan sistemik, pendedahan sistemik daripada formulasi mata topikal adalah sangat rendah. Keratokonjunktivitis epitelium berpunktat ialah soalan penyelidikan yang paling berpotensi.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA (amaran dan kontraindikasi), yang merupakan jurang data penyekat untuk saringan keselamatan
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
 - Data mekanisme tindakan terperinci (contohnya daripada DrugBank)
-- Bukti klinikal khusus fluorometholone untuk uveitis anterior, terutamanya dalam konteks jangkitan yang dirawat dengan terapi anti-jangkitan serentak
-- Penilaian kesesuaian laluan pentadbiran dan formulasi untuk pasaran Malaysia
-
----
-
-*Catatan: Calon lain dalam senarai ramalan (contohnya keratokonjunktivitis epitelium punktat, iritis) hanya mempunyai bukti tidak langsung atau ramalan model sahaja (L4–L5), manakala indikasi sistemik seperti vaskulitis, sindrom uremik hemolitik dan kardiomiopati Chagas tidak munasabah untuk agen oftalmik topikal.*
+- Kajian klinikal atau literatur yang menilai fluorometholone secara langsung untuk keratokonjunktivitis epitelium berpunktat
+- Teks indikasi yang diluluskan daripada lesen tempatan serta bentuk dos
+- Penilaian keserasian laluan pemberian bagi indikasi bukan mata
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

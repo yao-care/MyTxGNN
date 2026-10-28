@@ -6,9 +6,9 @@ nav_order: 616
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
-description: "Remdesivir: indikasi baharu diramal Multiple endocrine neoplasia (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
 monitor_inn: "REMDESIVIR"
-predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
+predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
+description: "Remdesivir: indikasi baharu diramal Multiple endocrine neoplasia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Remdesivir
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-## Remdesivir: Daripada Penggunaan Asal kepada Penyakit Endokrin Neoplasia Berganda (Multiple Endocrine Neoplasia)
+## Remdesivir: Multiple endocrine neoplasia
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Remdesivir ialah analog nukleotida (prodrug) antivirus yang bertindak merencat RNA polimerase bergantung RNA (RdRp) virus. Data tempatan yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi lulus yang berdaftar.
-Model TxGNN meramalkan ia mungkin berkesan untuk **multiple endocrine neoplasia** dengan skor tinggi (99.50%), tetapi **tiada sebarang ujian klinikal** dan **tiada sebarang literatur** menyokong ramalan ini. Ia hanyalah ramalan berasaskan graf.
+Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **multiple endocrine neoplasia** dengan skor tinggi (0.9950), tetapi **tiada sebarang ujian klinikal** dan **tiada sebarang literatur** menyokong ramalan ini. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi.
 
 ---
 
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **multiple endocrine neoplasia*
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar di Malaysia |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Multiple endocrine neoplasia |
-| Skor Ramalan TxGNN | 99.50% |
+| Skor Ramalan TxGNN | 0.9950 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **multiple endocrine neoplasia*
 
 Pada masa ini, data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, remdesivir ialah analog nukleotida adenosin yang merencat RdRp virus, dan mempunyai aktiviti antivirus spektrum luas terhadap virus RNA (contohnya SARS-CoV-2 dan Ebola).
 
-Multiple endocrine neoplasia ialah sindrom tumor keturunan (contohnya melibatkan mutasi MEN1 dan RET). **Tiada kaitan mekanistik yang munasabah dikenal pasti** antara perencatan polimerase RNA virus dan patofisiologi sindrom ini. Skor TxGNN yang tinggi (0.995) berkemungkinan besar hasil kedekatan dalam graf pengetahuan, bukan bukti biologi atau klinikal. Kedudukan ramalan ini ialah 7238, yang menunjukkan skor tinggi tidak semestinya bermakna keyakinan klinikal.
+Multiple endocrine neoplasia ialah sindrom tumor keturunan (contohnya melibatkan mutasi MEN1 dan RET). **Tiada kaitan mekanistik yang munasabah dikenal pasti** antara perencatan polimerase RNA virus dan patofisiologi sindrom ini. Skor TxGNN yang tinggi (0.9950) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi atau klinikal. Kedudukan ramalan ini ialah 7238, yang menunjukkan skor tinggi tidak semestinya bermakna keyakinan klinikal.
 
 Sebagai perbandingan, ramalan peringkat kedua (jangkitan HIV) mempunyai sedikit bukti sampingan, tetapi bukti tersebut sebenarnya berkaitan COVID-19, bukan HIV, dan ia di luar fokus laporan ini.
 
@@ -109,7 +109,6 @@ Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 - Data sisipan pek NPRA (amaran dan kontraindikasi), yang kini menghalang saringan keselamatan
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Bukti praklinikal atau mekanistik yang menghubungkan remdesivir dengan patofisiologi sindrom endokrin neoplasia (contohnya laluan MEN1/RET)
-- Data indikasi asal dan status pendaftaran tempatan, kerana remdesivir kini tidak dipasarkan di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

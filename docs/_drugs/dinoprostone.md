@@ -8,6 +8,7 @@ nav_order: 294
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Dinoprostone
@@ -51,8 +52,8 @@ dan **jurang data kritikal** dalam mekanisme tindakan, maklumat keselamatan, dan
 | Indikasi Baru yang Diramal | **Tiada** — tiada ramalan dijana oleh TxGNN |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan yang Disyorkan | **Tangguhkan** |
 
 ---

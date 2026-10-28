@@ -4,17 +4,17 @@ title: Chlorzoxazone
 parent: Low Evidence (L4-L5)
 nav_order: 216
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-15
-description: "Chlorzoxazone: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar (tiada lesen NPRA). Secara umum…"
+indication_count: 8
 monitor_inn: "CHLORZOXAZONE"
-predicted_indications: ["migraine disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "pulmonary hypertension", "atrophoderma vermiculata", "ulerythema ophryogenesis", "kyphoscoliotic heart disease", "rheumatoid arthritis"]
+predicted_indications: ["migraine disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine with brainstem aura", "pulmonary hypertension", "atrophoderma vermiculata", "ulerythema ophryogenesis", "kyphoscoliotic heart disease", "rheumatoid arthritis"]
+last_modified_at: 2026-10-27
+description: "Chlorzoxazone: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Chlorzoxazone
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **9** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,44 +33,44 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-## Chlorzoxazone: Daripada Penggunaan Asal kepada Migrain (Migraine Disorder)
+## Chlorzoxazone: pelemas otot bertindak secara pusat → Gangguan migrain (migraine disorder)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Chlorzoxazone ialah relaksan otot yang bertindak secara pusat. Data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asal yang berdaftar di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **migrain (migraine disorder)**,
-tetapi pada masa ini terdapat **0 percubaan klinikal** dan hanya **3 penerbitan** yang berkaitan secara tidak langsung (semuanya mengenai gangguan serebelum/vestibular atau model haiwan, bukan rawatan migrain secara langsung).
+Chlorzoxazone ialah pelemas otot yang bertindak secara pusat dan digunakan untuk melegakan kekejangan otot.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan migrain (migraine disorder)**,
+tetapi setakat ini **tiada ujian klinikal** dan **tiada kajian yang menilai migrain secara langsung** dalam data yang dikumpulkan; ramalan ini pada asasnya bersifat pengiraan sahaja.
 
 ---
 
-## Gambaran Keseluruhan
+## Gambaran Ringkas
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar (tiada lesen NPRA). Secara umum, relaksan otot untuk kekejangan otot rangka |
-| Indikasi Baharu yang Diramalkan | Migrain (migraine disorder) |
-| Skor Ramalan TxGNN | 99.73% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder) |
+| Skor Ramalan TxGNN | 0,9973 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | ✗ Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan yang Disyorkan | Hold |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, chlorzoxazone ialah relaksan otot yang bertindak secara pusat dan dilaporkan mengaktifkan saluran K+ bersandarkan Ca2+ (jenis SK/BK).
+Data terperinci tentang mekanisme tindakan chlorzoxazone tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, ubat ini dilaporkan mengaktifkan saluran kalium bersandar kalsium (jenis SK/BK).
 
-Satu kajian praklinikal pada tikus mutan Cacna1a (PMID 23115190) menunjukkan bahawa pengaktif saluran K+ bersandarkan Ca2+ dapat melegakan ataksia serebelum yang disebabkan oleh arus CaV2.1 yang meningkat. Gen CACNA1A, yang mengekod CaV2.1, juga dikaitkan dengan migrain hemiplegik familial. Maka wujud pautan peringkat saluran yang munasabah tetapi tidak langsung.
+Satu kajian haiwan (PMID 23115190) menunjukkan bahawa pengaktif saluran kalium bersandar kalsium dapat melegakan ataksia serebelum yang disebabkan oleh arus CaV2.1 yang meningkat pada tikus mutan. Gen *CACNA1A*, yang mengekod CaV2.1, juga dikaitkan dengan migrain hemiplegik familial. Oleh itu, terdapat kaitan pada peringkat saluran ion yang munasabah tetapi tidak langsung.
 
-Perlu ditekankan bahawa literatur yang diperoleh berkaitan gangguan serebelum dan vestibular, dan tidak menilai rawatan migrain secara langsung. Skor TxGNN yang tinggi (0.997) hanyalah ramalan berkomputer.
+Namun begitu, literatur yang diperoleh berkaitan gangguan serebelum dan vestibular, dan tidak menilai rawatan migrain secara langsung. Skor TxGNN yang tinggi (0,9973) ialah ramalan pengiraan sahaja dan bukan bukti keberkesanan klinikal.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
@@ -78,50 +78,45 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [27083881](https://pubmed.ncbi.nlm.nih.gov/27083881/) | 2016 | Ulasan | Journal of Neurology | Gambaran farmakoterapi sindrom vestibular pusat dan gangguan serebelum; 4-aminopyridine disyorkan untuk nistagmus; tidak menilai migrain secara langsung |
-| [24000301](https://pubmed.ncbi.nlm.nih.gov/24000301/) | 2013 | Ulasan | Deutsches Arzteblatt International | Rawatan dan perjalanan semula jadi vertigo periferal dan pusat; migrain vestibular merangkumi kira-kira 11.4% kes vertigo |
-| [23115190](https://pubmed.ncbi.nlm.nih.gov/23115190/) | 2012 | Praklinikal (haiwan) | Journal of Neuroscience | Pengaktif saluran K+ bersandarkan Ca2+ melegakan ataksia pada tikus mutan Cacna1a(S218L) |
+| [27083881](https://pubmed.ncbi.nlm.nih.gov/27083881/) | 2016 | Ulasan | Journal of Neurology | Tinjauan farmakoterapi gangguan serebelum dan vestibular pusat; tidak menilai migrain secara langsung |
+| [24000301](https://pubmed.ncbi.nlm.nih.gov/24000301/) | 2013 | Ulasan | Deutsches Arzteblatt International | Rawatan dan perjalanan semula jadi vertigo periferal dan pusat; migrain vestibular disebut sebagai salah satu punca (11,4%) |
+| [23115190](https://pubmed.ncbi.nlm.nih.gov/23115190/) | 2012 | Praklinikal (haiwan) | Journal of Neuroscience | Pengaktif saluran K+ bersandar Ca2+ melegakan ataksia pada tikus mutan *Cacna1a* |
+
+Tiada satu pun daripada kajian ini menilai chlorzoxazone untuk migrain secara langsung.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Chlorzoxazone pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar dalam data yang dikumpulkan.
+Data yang dikumpulkan menunjukkan status pasaran "Dipasarkan" dengan 1 lesen sah. Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data ini.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Penyakit yang dikaitkan dengan kontraindikasi (daripada graf pengetahuan TxGNN/PrimeKG, bukan teks label):** kegagalan hati, penyakit hati, penyakit pundi hempedu, penyalahgunaan/kebergantungan bahan, kecederaan hati aruhan ubat, keracunan parasetamol.
-- **Interaksi Ubat:** Sebanyak 72 interaksi dikesan. Yang utama:
-  - **Major:** Morfin, Morfin (liposomal)
-  - **Moderate:** Dronabinol, Metoklopramid, Nabilone, Naltrexone, Opium, Sibutramine, Etanol, Prometazin
-  - Interaksi dengan tahap tidak diketahui juga direkodkan, antaranya doksisiklin, metformin, omeprazol, lansoprazol, prednison, simvastatin, ranitidin, bupropion, asid folik dan warfarin.
+- **Interaksi Ubat**: Sebanyak 72 interaksi direkodkan. Interaksi tahap **Major** termasuk:
+  - Morfin (termasuk morfin liposomal)
 
-Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang lengkap.
+  Interaksi tahap **Moderate** termasuk: dronabinol, metoclopramide, nabilone, naltrexone, opium, sibutramine, etanol (alkohol) dan promethazine. Kebanyakannya melibatkan kesan penenang atau perencatan sistem saraf pusat yang bertambah.
+
+- **Keadaan yang perlu diberi perhatian** (daripada hubungan ubat-penyakit dalam data model, bukan teks label): penyakit atau kegagalan hati, kecederaan hati aruhan ubat, penyakit pundi hempedu, penyalahgunaan/ketagihan bahan, dan keracunan parasetamol.
+
+Sila rujuk sisipan pek produk untuk maklumat keselamatan lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan migrain hanya berasaskan model (L5), tanpa percubaan klinikal dan tanpa literatur klinikal langsung. Pautan mekanistik melalui saluran K+/CaV2.1 adalah munasabah tetapi tidak langsung dan spekulatif.
-- Ubat ini tidak dipasarkan di Malaysia, dan data keselamatan label tidak tersedia.
+Tiada ujian klinikal dan tiada kajian yang menilai migrain secara langsung; hanya terdapat kaitan saluran ion yang tidak langsung dan skor ramalan pengiraan. Tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej dan maklumat amaran/kontraindikasi (sekatan utama untuk saringan keselamatan)
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pek NPRA
 - Kajian praklinikal atau klinikal yang menilai chlorzoxazone secara langsung dalam migrain
-- Penilaian risiko hepatotoksisiti, memandangkan kontraindikasi berkaitan hati dalam graf pengetahuan
-- Pengesahan status pendaftaran dan laluan pemasaran di Malaysia
-
----
-
-## Nota Tambahan: Indikasi Lain yang Diramalkan
-
-Antara indikasi lain yang diramalkan, **rheumatoid arthritis** (skor 99.05%) mempunyai bukti yang sedikit lebih kuat (L4, cadangan: Research Question). Terdapat ulasan Cochrane 2012 mengenai relaksan otot untuk pengurusan sakit dalam RA (PMID 22258993) serta laporan klinikal lama (1962, 1970), tetapi bukti ini berkualiti rendah, tidak terkawal atau bercampur aduk, dan chlorzoxazone hanya berpotensi sebagai terapi sokongan simptomatik, bukan agen pengubah penyakit. Indikasi lain (sindrom antidiuresis tidak wajar nefrogenik, migrain dengan aura batang otak, kerentanan migrain, hipertensi pulmonari, dan lain-lain) tidak mempunyai percubaan atau literatur yang menyokong, dan semuanya berada pada tahap L5 dengan cadangan Hold.
+- Penilaian risiko hati dan interaksi dengan ubat penenang/opioid sebelum sebarang kajian
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

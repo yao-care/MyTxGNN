@@ -6,9 +6,9 @@ nav_order: 317
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Elosulfase Alfa: indikasi baharu diramal Sindrom Scheie (tahap bukti L5). Indikasi asal: Mukopolisakaridosis (MPS IVA / sindrom Morquio A)"
 monitor_inn: "ELOSULFASE ALFA"
 predicted_indications: ["Scheie syndrome", "lysosomal storage disease with skeletal involvement", "Hurler syndrome", "Sanfilippo syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-vocal cord paralysis syndrome", "ptosis-strabismus-ectopic pupils syndrome", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "congenital Horner syndrome (disease)"]
+description: "Elosulfase Alfa: indikasi baharu diramal Sindrom Scheie (Scheie syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Elosulfase Alfa
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-## Elosulfase Alfa: Daripada Mukopolisakaridosis kepada Sindrom Scheie
+## Elosulfase Alfa: Sindrom Scheie (Scheie syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ Elosulfase alfa ialah terapi penggantian enzim (ERT) yang pada asalnya digunakan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Mukopolisakaridosis (MPS IVA / sindrom Morquio A) |
-| Indikasi Baharu yang Diramalkan | Sindrom Scheie |
-| Skor Ramalan TxGNN | 99.90% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom Scheie (Scheie syndrome) |
+| Skor Ramalan TxGNN | 0.9990 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -92,7 +92,6 @@ Sila rujuk risalah maklumat produk untuk maklumat keselamatan. Tiada interaksi u
 
 **Justifikasi:**
 - Tiada bukti klinikal atau literatur untuk Sindrom Scheie, dan enzim sasaran (alfa-L-iduronidase) berbeza daripada enzim yang dikendalikan elosulfase alfa. Skor tinggi tersebut berkemungkinan artifak model.
-- Ubat ini tidak dipasarkan di Malaysia (0 pendaftaran), dan data keselamatan tempatan tidak lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci

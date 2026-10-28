@@ -4,17 +4,17 @@ title: Deferiprone
 parent: Low Evidence (L4-L5)
 nav_order: 260
 evidence_level: L4
-indication_count: 9
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Deferiprone: indikasi baharu diramal Porfiria hepatik (hepatic porphyria) (tahap bukti L4). Indikasi asal: Hemosiderosis…"
 monitor_inn: "DEFERIPRONE"
-predicted_indications: ["hepatic porphyria", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
+predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
+description: "Deferiprone: indikasi baharu diramal Porfiria hepatik (hepatic porphyria) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Deferiprone
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **9** 
+Tahap bukti: **L4** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **9**
 
 </div>
 
-## Deferiprone: Daripada Hemosiderosis/Beta-Talasemia kepada Porfiria Hepatik
+## Deferiprone: Porfiria hepatik (hepatic porphyria)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini hanya terdapat **0 percubaan klinikal** dan **2 penerbitan** 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hemosiderosis, beta-talasemia dan hemoglobinopati (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi berdaftar tempatan) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Porfiria hepatik (hepatic porphyria) |
-| Skor Ramalan TxGNN | 99.20% |
+| Skor Ramalan TxGNN | 0.9920 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -99,7 +99,7 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan untuk porfiria hepatik disokong hanya oleh bukti praklinikal dan tidak langsung (L4), tanpa percubaan klinikal pada pesakit. Deferiprone juga tidak dipasarkan di Malaysia, dan data keselamatan label tidak tersedia.
+- Ramalan untuk porfiria hepatik disokong hanya oleh bukti praklinikal dan tidak langsung (L4), tanpa percubaan klinikal pada pesakit.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat keselamatan daripada sisipan pakej NPRA (amaran dan kontraindikasi), yang kini menjadi halangan untuk penilaian keselamatan

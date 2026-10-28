@@ -8,6 +8,7 @@ nav_order: 155
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Bisoprolol Fumarate
@@ -49,8 +50,8 @@ Bisoprolol fumarate adalah penyekat reseptor adrenergik beta-1 selektif yang dig
 | Indikasi Ramalan Baru | — (Tiada ramalan dijana) |
 | Skor Ramalan TxGNN | — |
 | Aras Bukti | L5 (Tiada ramalan atau kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 34 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 30) |
+| Bilangan Pendaftaran | 30 (sah: 30) |
 | Keputusan Disyorkan | **Tahan** |
 
 ---

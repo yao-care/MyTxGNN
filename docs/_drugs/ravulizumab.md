@@ -40,7 +40,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 Ravulizumab ialah perencat komplemen C5, tetapi data yang dikumpulkan untuk laporan ini tidak merekodkan indikasi asalnya di Malaysia.
 Model TxGNN meramalkan ia mungkin berkesan untuk **neutropenia kongenital teruk autosomal resesif akibat kekurangan G6PC3**,
-namun **tiada sebarang ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini setakat ini. Ramalan ini hanya berasaskan model graf.
+namun **tiada sebarang ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini setakat ini. Ramalan ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
 ---
 
@@ -50,10 +50,10 @@ namun **tiada sebarang ujian klinikal** dan **tiada penerbitan** yang menyokong 
 |------|------|
 | Indikasi Asal | Tiada rekod (tiada lesen berdaftar di Malaysia) |
 | Indikasi Baharu yang Diramalkan | Neutropenia kongenital teruk autosomal resesif akibat kekurangan G6PC3 |
-| Skor Ramalan TxGNN | 99.96% |
+| Skor Ramalan TxGNN | 0.9996 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -62,7 +62,7 @@ namun **tiada sebarang ujian klinikal** dan **tiada penerbitan** yang menyokong 
 
 Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Namun, ravulizumab diketahui sebagai perencat komplemen C5 yang menyekat pengaktifan komplemen terminal.
 
-Berdasarkan penilaian mekanistik, **tiada kaitan yang mantap** antara pengaktifan komplemen terminal dengan neutropenia akibat kekurangan G6PC3. Penyakit ini berpunca daripada aktiviti glukosa-6-fosfatase yang terjejas dan apoptosis neutrofil, bukan daripada proses yang dimediasi komplemen. Skor TxGNN yang tinggi hanyalah ramalan berasaskan graf tanpa sokongan ujian atau literatur. Kesamaan dengan indikasi asal masih belum dinilai.
+Berdasarkan penilaian mekanistik, **tiada kaitan yang mantap** antara pengaktifan komplemen terminal dengan neutropenia akibat kekurangan G6PC3. Penyakit ini berpunca daripada aktiviti glukosa-6-fosfatase yang terjejas dan apoptosis neutrofil, bukan daripada proses yang dimediasi komplemen. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi; tiada sokongan ujian atau literatur. Kesamaan dengan indikasi asal masih belum dinilai.
 
 ### Ramalan Lain yang Disenaraikan
 
@@ -70,15 +70,15 @@ Sembilan ramalan lain turut diperoleh. Kesemuanya berada pada tahap bukti L5, ta
 
 | Kedudukan | Penyakit | Skor TxGNN | Catatan Mekanistik |
 |------|------|------|------|
-| 2 | Hematopoiesis kitaran | 99.94% | Biasanya disebabkan mutasi ELANE; tiada peranan munasabah bagi perencatan C5 |
-| 3 | Hiperoksaluria primer | 99.90% | Kecacatan enzim hepar; kaitan tidak langsung dengan komplemen hanya spekulatif; terapi berkesan sedia ada menyasarkan penghasilan oksalat |
-| 4 | Neutropenia kongenital teruk | 99.87% | Perencatan komplemen tidak menangani kecacatan asas dan menambah risiko jangkitan (terutamanya *Neisseria*) |
-| 5 | Neutropenia kongenital teruk akibat kekurangan CXCR2 | 99.86% | Tiada kaitan diketahui dengan perencatan C5 |
-| 6 | Sindrom imunodefisiensi primer akibat kekurangan p14 | 99.83% | Menyekat komplemen boleh melemahkan lagi pertahanan perumah |
-| 7 | Penyakit pseudo-von Willebrand | 99.82% | Gangguan platelet (GP1BA), bukan mekanisme komplemen |
-| 8 | Neutropenia kongenital teruk terangkai-X | 99.82% | Mutasi WAS; tiada rasional bagi perencatan C5 |
-| 9 | Gangguan pembebasan primer platelet | 99.81% | Kecacatan sekresi granul; tidak ditangani oleh sekatan C5 |
-| 10 | Anemia megaloblastik | 99.80% | Disebabkan kekurangan B12/folat; hemolisis bukan dipacu komplemen |
+| 2 | Hematopoiesis kitaran | 0.9994 | Biasanya disebabkan mutasi ELANE; tiada peranan munasabah bagi perencatan C5 |
+| 3 | Hiperoksaluria primer | 0.9990 | Kecacatan enzim hepar; kaitan tidak langsung dengan komplemen hanya spekulatif; terapi berkesan sedia ada menyasarkan penghasilan oksalat |
+| 4 | Neutropenia kongenital teruk | 0.9987 | Perencatan komplemen tidak menangani kecacatan asas dan menambah risiko jangkitan (terutamanya *Neisseria*) |
+| 5 | Neutropenia kongenital teruk akibat kekurangan CXCR2 | 0.9986 | Tiada kaitan diketahui dengan perencatan C5 |
+| 6 | Sindrom imunodefisiensi primer akibat kekurangan p14 | 0.9983 | Menyekat komplemen boleh melemahkan lagi pertahanan perumah |
+| 7 | Penyakit pseudo-von Willebrand | 0.9982 | Gangguan platelet (GP1BA), bukan mekanisme komplemen |
+| 8 | Neutropenia kongenital teruk terangkai-X | 0.9982 | Mutasi WAS; tiada rasional bagi perencatan C5 |
+| 9 | Gangguan pembebasan primer platelet | 0.9981 | Kecacatan sekresi granul; tidak ditangani oleh sekatan C5 |
+| 10 | Anemia megaloblastik | 0.9980 | Disebabkan kekurangan B12/folat; hemolisis bukan dipacu komplemen |
 
 ---
 

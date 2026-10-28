@@ -4,17 +4,17 @@ title: Moxonidine
 parent: Low Evidence (L4-L5)
 nav_order: 515
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Moxonidine: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (tahap bukti L5). Indikasi asal: Hipertensi (hipertensi esensial, gangguan hipertensif)"
 monitor_inn: "MOXONIDINE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "primary hereditary glaucoma"]
+description: "Moxonidine: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Moxonidine
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Moxonidine: Daripada Hipertensi kepada Hipotrikosis Simpleks Kulit Kepala
+## Moxonidine: Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,19 +46,19 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada literatur** yang m
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hipertensi (hipertensi esensial, gangguan hipertensif) |
-| Indikasi Baharu yang Diramalkan | Hipotrikosis simpleks kulit kepala |
-| Skor Ramalan TxGNN | 99.95% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) |
+| Skor Ramalan TxGNN | 0.9995 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan yang Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
 Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, moxonidine ialah agonis pusat bagi reseptor imidazolin I1 dan reseptor adrenergik alfa-2 yang mengurangkan aliran keluar simpatetik. Data farmakologi yang dikumpulkan menunjukkan ia berinteraksi dengan reseptor alfa-2A, alfa-2B dan alfa-2C (ADRA2A, ADRA2B, ADRA2C).
 
-Hipotrikosis simpleks kulit kepala ialah gangguan genetik folikel rambut (contohnya varian CDSN, APCDD1, SNRPE) dan tiada hubungan diketahui dengan laluan ini. **Tiada hubungan mekanistik yang disokong.** Skor TxGNN yang sangat tinggi kemungkinan besar dipengaruhi oleh ciri fenotip rambut/kulit atau ubat sekelas antihipertensi yang berjiran dalam graf pengetahuan, dan bukannya bukti biologi atau klinikal.
+Hipotrikosis simpleks kulit kepala ialah gangguan genetik folikel rambut (contohnya varian CDSN, APCDD1, SNRPE) dan tiada hubungan diketahui dengan laluan ini. **Tiada hubungan mekanistik yang disokong.** Skor model TxGNN (deep learning) yang sangat tinggi mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi atau klinikal.
 
 Ramalan lain dalam senarai (kedudukan 2–10) juga berada pada tahap bukti yang rendah. Hipertensi renovaskular malignan dan penyakit renal hipertensif malignan (L4) munasabah secara biologi, tetapi pada dasarnya ia lanjutan indikasi hipertensi asal dan bukan pengalihan guna yang sebenar.
 
@@ -74,7 +74,6 @@ Pada masa ini tiada literatur berkaitan tersedia untuk hipotrikosis simpleks kul
 
 ## Maklumat Pasaran Malaysia
 
-Moxonidine pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran NPRA direkodkan.
 
 ## Pertimbangan Keselamatan
 
@@ -87,7 +86,7 @@ Sila rujuk risalah maklumat produk untuk maklumat keselamatan lain.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal, tanpa literatur sokongan dan tanpa hubungan mekanistik yang munasabah. Ubat ini juga tidak dipasarkan di Malaysia.
+- Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal, tanpa literatur sokongan dan tanpa hubungan mekanistik yang munasabah.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap

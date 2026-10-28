@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Rimegepant
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 622
-evidence_level: L3
-indication_count: 6
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Rimegepant: indikasi baharu diramal Migrain dengan aura batang otak (tahap bukti L3). Indikasi asal: Gangguan migrain (migraine disorder)"
 monitor_inn: "RIMEGEPANT"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
+description: "Rimegepant: indikasi baharu diramal Atrophoderma vermiculata (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Rimegepant
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **6** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **6**
 
 </div>
 
-## Rimegepant: Daripada Gangguan Migrain kepada Migrain dengan Aura Batang Otak
+## Rimegepant: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini **tiada ujian klinikal didaftarkan** untuk subjenis ini, mana
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Gangguan migrain (migraine disorder) |
-| Indikasi Baharu yang Diramalkan | Migrain dengan aura batang otak |
-| Skor Ramalan TxGNN | 99.94% |
-| Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Atrophoderma vermiculata |
+| Skor Ramalan TxGNN | 0.9976 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Berjaga-jaga) |
 
 ---
@@ -119,7 +119,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah pek (package insert).
 
 ---
 
-**Nota mengenai ramalan lain:** Lima ramalan lain (atrofoderma vermiculata, ulerythema ophryogenesis, kekurangan kofaktor heparin 2, kekurangan antitrombin jenis 2, dan lebihan faktor 5 dengan trombosis spontan) berskor TxGNN tinggi (99.57%–99.76%) tetapi tidak mempunyai pertalian mekanistik yang dapat dikenal pasti, tiada ujian klinikal dan tiada literatur (Tahap Bukti L5, keputusan: **Hold**). Untuk gangguan trombotik, pertimbangan keselamatan kardiovaskular juga diperlukan.
+**Nota mengenai ramalan lain:** Lima ramalan lain (atrofoderma vermiculata, ulerythema ophryogenesis, kekurangan kofaktor heparin 2, kekurangan antitrombin jenis 2, dan lebihan faktor 5 dengan trombosis spontan) berskor TxGNN tinggi (0.9957–0.9976) tetapi tidak mempunyai pertalian mekanistik yang dapat dikenal pasti, tiada ujian klinikal dan tiada literatur (Tahap Bukti L5, keputusan: **Hold**). Untuk gangguan trombotik, pertimbangan keselamatan kardiovaskular juga diperlukan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

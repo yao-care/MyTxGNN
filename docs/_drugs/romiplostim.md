@@ -6,9 +6,9 @@ nav_order: 630
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Romiplostim: indikasi baharu diramal Gangguan pelepasan primer platelet (tahap bukti L5). Indikasi asal: Tiada data indikasi berlesen di Malaysia dalam data yang dikumpulkan…"
 monitor_inn: "Romiplostim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "platelet-type bleeding disorder", "autosomal dominant macrothrombocytopenia", "Ehlers-Danlos syndrome, fibronectinemic type"]
+description: "Romiplostim: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of platelets) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Romiplostim
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Romiplostim: Daripada Penggunaan Asal kepada Gangguan Pelepasan Primer Platelet
+## Romiplostim: Gangguan pelepasan primer platelet (primary release disorder of platelets)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan pelepasan primer pla
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berlesen di Malaysia dalam data yang dikumpulkan (dalam literatur, romiplostim digunakan untuk trombositopenia imun / ITP) |
-| Indikasi Baharu yang Diramalkan | Gangguan pelepasan primer platelet |
-| Skor Ramalan TxGNN | 99.99% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Gangguan pelepasan primer platelet (primary release disorder of platelets) |
+| Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -81,7 +81,6 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Romiplostim tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan dalam data yang dikumpulkan.
 
 ---
 
@@ -116,15 +115,15 @@ Data juga merangkumi indikasi lain yang diramalkan. Hampir semuanya berada pada 
 
 | Kedudukan | Indikasi | Skor TxGNN | Tahap Bukti | Syor |
 |------|------|------|------|------|
-| 2 | Penyakit pseudo-von Willebrand | 99.99% | L5 | Hold |
-| 3 | Trombastenia Glanzmann | 99.99% | L5 | Hold |
-| 4 | Trombositopenia aloimun janin dan neonatal (FNAIT) | 99.99% | L4 | Research Question |
-| 5 | Sindrom Scott | 99.97% | L5 | Hold |
-| 6 | Gangguan hemoragik akibat trombositopenia konstitusi | 99.95% | L5 | Research Question |
-| 7 | Diatesis pendarahan akibat kecacatan reseptor kolagen | 99.95% | L5 | Hold |
-| 8 | Gangguan pendarahan jenis platelet | 99.93% | L5 | Hold |
-| 9 | Makrotrombositopenia autosomal dominan | 99.88% | L5 | Research Question |
-| 10 | Sindrom Ehlers-Danlos, jenis fibronektinemik | 99.85% | L5 | Hold |
+| 2 | Penyakit pseudo-von Willebrand | 0.9999 | L5 | Hold |
+| 3 | Trombastenia Glanzmann | 0.9999 | L5 | Hold |
+| 4 | Trombositopenia aloimun janin dan neonatal (FNAIT) | 0.9999 | L5 | Research Question |
+| 5 | Sindrom Scott | 0.9997 | L5 | Hold |
+| 6 | Gangguan hemoragik akibat trombositopenia konstitusi | 0.9995 | L5 | Research Question |
+| 7 | Diatesis pendarahan akibat kecacatan reseptor kolagen | 0.9995 | L5 | Hold |
+| 8 | Gangguan pendarahan jenis platelet | 0.9993 | L5 | Hold |
+| 9 | Makrotrombositopenia autosomal dominan | 0.9988 | L5 | Research Question |
+| 10 | Sindrom Ehlers-Danlos, jenis fibronektinemik | 0.9985 | L5 | Hold |
 
 **Calon yang paling wajar diterokai:** FNAIT (kedudukan 4) mempunyai sokongan tidak langsung daripada 6 penerbitan (kajian semula dan laporan kes mengenai ITP, kehamilan dan neonatus), tetapi tiada bukti khusus FNAIT. Keselamatan janin/neonatus dan pemindahan melalui plasenta masih belum diselesaikan. Trombositopenia konstitusi dan makrotrombositopenia autosomal dominan munasabah secara teori bagi subjenis dengan isyarat MPL yang terpelihara, tetapi tiada bukti diperoleh.
 ## Penafian

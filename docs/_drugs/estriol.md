@@ -6,9 +6,9 @@ nav_order: 337
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Estriol: indikasi baharu diramal Amenorea (tahap bukti L3). Indikasi asal: Tiada data pelesenan tempatan. Rujukan farmakologi menyebut penggunaa…"
 monitor_inn: "ESTRIOL"
 predicted_indications: ["amenorrhea (disease)"]
+description: "Estriol: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Estriol
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **1**
 
 </div>
 
-## Estriol: Daripada Indikasi Asal (Tiada Data) kepada Amenorea
+## Estriol: Amenorea (amenorrhea (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ Estriol ialah estrogen lemah yang bertindak singkat dan telah lama digunakan di 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data pelesenan tempatan. Rujukan farmakologi menyebut penggunaan untuk kilat panas pascamenopaus |
-| Indikasi Baharu Diramalkan | Amenorea |
-| Skor Ramalan TxGNN | 99.18% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu Diramalkan | Amenorea (amenorrhea (disease)) |
+| Skor Ramalan TxGNN | 0.9918 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Persoalan Penyelidikan) |
 
 ---
@@ -98,7 +98,7 @@ Data interaksi yang ada hanyalah interaksi farmakologi sasaran: estriol mengikat
 **Keputusan: Hold (Persoalan Penyelidikan)**
 
 **Rasional:**
-- Bukti terhad kepada satu kajian fisiologi kecil dan satu ulasan naratif, tanpa ujian klinikal berdaftar. Skor TxGNN yang tinggi hanyalah isyarat pengiraan. Estriol juga tidak dipasarkan di Malaysia, dan data keselamatan daripada sisipan pek belum ada.
+- Bukti terhad kepada satu kajian fisiologi kecil dan satu ulasan naratif, tanpa ujian klinikal berdaftar. Skor TxGNN yang tinggi hanyalah isyarat pengiraan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Muat turun dan analisis sisipan pek NPRA bagi amaran dan kontraindikasi (halangan utama sebelum saringan keselamatan)

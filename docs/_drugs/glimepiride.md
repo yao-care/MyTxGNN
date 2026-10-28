@@ -6,9 +6,9 @@ nav_order: 387
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Glimepiride: indikasi baharu diramal Sindrom anggota kaku fokal (focal stiff limb syndrome) (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2"
 monitor_inn: "GLIMEPIRIDE"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
+description: "Glimepiride: indikasi baharu diramal Sindrom anggota kaku fokal (focal stiff limb syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Glimepiride
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-## Glimepirida: Daripada Diabetes Mellitus Jenis 2 kepada Sindrom Anggota Kaku Fokal
+## Glimepiride: Sindrom anggota kaku fokal (focal stiff limb syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada literatur berkaita
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Diabetes mellitus jenis 2 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Sindrom anggota kaku fokal (focal stiff limb syndrome) |
-| Skor Ramalan TxGNN | 99.75% |
+| Skor Ramalan TxGNN | 0.9975 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
+| Bilangan Pendaftaran | 10 (sah: 10) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -60,17 +60,17 @@ Data terperinci mengenai mekanisme tindakan glimepirida tidak tersedia pada masa
 
 Satu kaitan yang munasabah tetapi belum disahkan ialah gangguan spektrum anggota kaku/sindrom orang kaku (stiff person) sering bersifat autoimun (anti-GAD65) dan kerap wujud bersama diabetes. Ini mungkin mencerminkan kedekatan rangkaian dengan gen berkaitan diabetes dalam model, dan bukannya kesan terapeutik glimepirida.
 
-Skor yang tinggi (0.997) hanyalah ramalan model. Tanpa bukti klinikal atau literatur, ramalan ini perlu dianggap sebagai hipotesis awal sahaja.
+Skor yang tinggi (0.9975) hanyalah ramalan model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Tanpa bukti klinikal atau literatur, ramalan ini perlu dianggap sebagai hipotesis awal sahaja.
 
 **Ramalan lain yang berkedudukan tinggi** (semuanya L5, Hold, tanpa percubaan klinikal):
 
 | Kedudukan | Penyakit | Skor TxGNN | Catatan |
 |------|------|------|------|
-| 2 | Sindrom orang kaku klasik | 99.75% | Kemungkinan berpunca daripada kaitan autoimun anti-GAD65 dan komorbiditi diabetes; bukan bukti bahawa sekatan saluran KATP memperbaiki kekakuan |
-| 3 | Opsismodisplasia | 99.74% | Displasia rangka yang jarang berlaku (berkaitan INPPL1, laluan PI3K/insulin); kaitan bersifat spekulatif |
-| 4 | Sindrom disfungsi responsif tiamin | 99.73% | Diabetes ialah salah satu ciri sindrom ini; tiada bukti dalam data yang disusun |
-| 5–8 | Lipodistrofi setempat (akibat ubat, sentrifugal, atrofi lemak akibat tekanan, idiopatik) | 99.56%–99.62% | Berkemungkinan hasil persamaan rangkaian metabolisme insulin/tisu adipos; tiada mekanisme terbukti |
-| 9 | Agenesis pankreas | 99.55% | Glimepirida bergantung pada rembesan insulin sel beta yang tinggal, jadi kurang berkemungkinan berkesan; satu kertas yang diperoleh (PMID 12720536) tidak relevan |
+| 2 | Sindrom orang kaku klasik | 0.9975 | Kemungkinan berpunca daripada kaitan autoimun anti-GAD65 dan komorbiditi diabetes; bukan bukti bahawa sekatan saluran KATP memperbaiki kekakuan |
+| 3 | Opsismodisplasia | 0.9974 | Displasia rangka yang jarang berlaku (berkaitan INPPL1, laluan PI3K/insulin); kaitan bersifat spekulatif |
+| 4 | Sindrom disfungsi responsif tiamin | 0.9973 | Diabetes ialah salah satu ciri sindrom ini; tiada bukti dalam data yang disusun |
+| 5–8 | Lipodistrofi setempat (akibat ubat, sentrifugal, atrofi lemak akibat tekanan, idiopatik) | 0.9956–0.9962 | Berkemungkinan hasil persamaan rangkaian metabolisme insulin/tisu adipos; tiada mekanisme terbukti |
+| 9 | Agenesis pankreas | 0.9955 | Glimepirida bergantung pada rembesan insulin sel beta yang tinggal, jadi kurang berkemungkinan berkesan; satu kertas yang diperoleh (PMID 12720536) tidak relevan |
 
 ## Bukti Percubaan Klinikal
 
@@ -98,7 +98,7 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. 
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur yang menyokong. Glimepirida juga tidak dipasarkan di Malaysia, dan mekanisme yang menghubungkannya dengan sindrom anggota kaku fokal tidak terbukti.
+- Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur yang menyokong.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci

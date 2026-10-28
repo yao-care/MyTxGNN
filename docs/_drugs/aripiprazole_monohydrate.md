@@ -8,6 +8,7 @@ nav_order: 90
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Aripiprazole Monohydrate
@@ -53,8 +54,8 @@ Laporan tersebut oleh itu diklasifikasikan sebagai **tidak lengkap** dan keputus
 | Indikasi Baru yang Diramalkan | **Tertunda** — Data ramalan TxGNN belum tersedia |
 | Skor Ramalan TxGNN | Tertunda |
 | Tahap Bukti | **Tidak Ditentukan** (tiada ramalan untuk dinilai) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

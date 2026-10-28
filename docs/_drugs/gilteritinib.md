@@ -6,9 +6,9 @@ nav_order: 384
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Gilteritinib: indikasi baharu diramal Polio bulbar (tahap bukti L5). Indikasi asal: Leukemia mieloid akut (AML) dan subjenisnya (berdasarkan graf pengeta…"
 monitor_inn: "GILTERITINIB"
 predicted_indications: ["bulbar polio"]
+description: "Gilteritinib: indikasi baharu diramal Polio bulbar (bulbar polio) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Gilteritinib
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Gilteritinib: Daripada Leukemia Mieloid kepada Polio Bulbar
+## Gilteritinib: Polio bulbar (bulbar polio)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Leukemia mieloid akut (AML) dan subjenisnya (berdasarkan graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Polio bulbar |
-| Skor Ramalan TxGNN | 99.10% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Polio bulbar (bulbar polio) |
+| Skor Ramalan TxGNN | 0.9910 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -64,7 +64,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. 
 
 Polio bulbar pula ialah jangkitan virus pada neuron motor batang otak yang disebabkan oleh poliovirus. Perencatan kinase tidak mempunyai kesan antivirus atau neuroperlindungan terhadap poliovirus yang telah ditunjukkan. Tiada pautan mekanistik yang munasabah antara gilteritinib dengan penyakit ini.
 
-Skor yang tinggi (0.991) berkemungkinan besar merupakan artifak graf pengetahuan, contohnya jiran rangkaian atau perkaitan gen/laluan yang dikongsi, dan tidak menunjukkan potensi terapeutik sebenar.
+Skor yang tinggi (0.9910) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi, dan tidak menunjukkan potensi terapeutik sebenar.
 
 ---
 
@@ -82,7 +82,6 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-Gilteritinib pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar.
 
 ---
 

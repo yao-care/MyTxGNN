@@ -7,13 +7,14 @@ drugbank_id: "DB06292"
 drug_name: "Dapagliflozin"
 kg_predictions: 28
 dl_predictions: 12
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/dapagliflozin/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Dapagliflozin
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **28** ramalan graf pengetahuan dan **12** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **28** ramalan model TxGNN (pembelajaran mendalam) dan **12** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

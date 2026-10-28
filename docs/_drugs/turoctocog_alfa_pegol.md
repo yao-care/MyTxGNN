@@ -6,9 +6,9 @@ nav_order: 708
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Turoctocog Alfa Pegol: indikasi baharu diramal Gangguan pembebasan primer platelet (tahap bukti L5). Indikasi asal: Hemofilia"
 monitor_inn: "TUROCTOCOG ALFA PEGOL"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "acquired coagulation factor deficiency", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency", "hereditary thrombocytosis with transverse limb defect", "fetal and neonatal alloimmune thrombocytopenia"]
+description: "Turoctocog Alfa Pegol: indikasi baharu diramal Gangguan pembebasan primer platelet (primary release disorder of platelets) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Turoctocog Alfa Pegol
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Turoctocog Alfa Pegol: Daripada Hemofilia kepada Gangguan Pembebasan Primer Platelet
+## Turoctocog Alfa Pegol: Gangguan pembebasan primer platelet (primary release disorder of platelets)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan pembebasan primer pl
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hemofilia; bentuk bergejala hemofilia pada wanita pembawa (berdasarkan graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Gangguan pembebasan primer platelet |
-| Skor Ramalan TxGNN | 99.997% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Gangguan pembebasan primer platelet (primary release disorder of platelets) |
+| Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -67,15 +67,15 @@ Sebagai tambahan, sembilan ramalan lain dalam senarai teratas juga tidak mempuny
 
 | Kedudukan | Penyakit Diramalkan | Skor TxGNN | Penilaian Mekanistik Ringkas |
 |------|------|------|------|
-| 2 | Penyakit pseudo-von Willebrand | 99.996% | Hubungan longgar melalui VWF yang menstabilkan FVIII, tetapi kecacatan utama pada platelet (GPIbα) |
-| 3 | Trombastenia Glanzmann | 99.996% | Kecacatan integrin αIIbβ3; FVIII tidak menyasarkan kecacatan agregasi |
-| 4 | Kekurangan faktor pembekuan terakuisisi | 99.974% | Paling munasabah secara mekanistik, tetapi sering berbilang faktor atau dimediasi perencat; kategori tidak spesifik |
-| 5 | Sindrom Scott | 99.973% | Kecacatan permukaan membran (TMEM16F/ANO6); FVIII tambahan tidak memulihkan fungsi |
-| 6 | Diatesis pendarahan akibat kecacatan reseptor kolagen | 99.949% | Masalah reseptor platelet, tidak berkaitan paras FVIII |
-| 7 | Gangguan hemoragik akibat trombositopenia konstitusi | 99.948% | Bergantung kepada sokongan platelet dan agen trombopoietik |
-| 8 | "Flood factor deficiency" | 99.752% | Istilah tidak jelas, mungkin artifak nomenklatur; perlu resolusi entiti |
-| 9 | Trombositosis keturunan dengan kecacatan anggota melintang | 99.694% | Fenotip protrombotik; pemberian faktor prokoagulan tidak sesuai dan berpotensi berbahaya |
-| 10 | Trombositopenia aloimun janin dan neonatal | 99.693% | Mekanisme imun; rawatan ialah IVIG, steroid dan platelet serasi |
+| 2 | Penyakit pseudo-von Willebrand | 1.0000 | Hubungan longgar melalui VWF yang menstabilkan FVIII, tetapi kecacatan utama pada platelet (GPIbα) |
+| 3 | Trombastenia Glanzmann | 1.0000 | Kecacatan integrin αIIbβ3; FVIII tidak menyasarkan kecacatan agregasi |
+| 4 | Kekurangan faktor pembekuan terakuisisi | 0.9997 | Paling munasabah secara mekanistik, tetapi sering berbilang faktor atau dimediasi perencat; kategori tidak spesifik |
+| 5 | Sindrom Scott | 0.9997 | Kecacatan permukaan membran (TMEM16F/ANO6); FVIII tambahan tidak memulihkan fungsi |
+| 6 | Diatesis pendarahan akibat kecacatan reseptor kolagen | 0.9995 | Masalah reseptor platelet, tidak berkaitan paras FVIII |
+| 7 | Gangguan hemoragik akibat trombositopenia konstitusi | 0.9995 | Bergantung kepada sokongan platelet dan agen trombopoietik |
+| 8 | "Flood factor deficiency" | 0.9975 | Istilah tidak jelas, mungkin artifak nomenklatur; perlu resolusi entiti |
+| 9 | Trombositosis keturunan dengan kecacatan anggota melintang | 0.9969 | Fenotip protrombotik; pemberian faktor prokoagulan tidak sesuai dan berpotensi berbahaya |
+| 10 | Trombositopenia aloimun janin dan neonatal | 0.9969 | Mekanisme imun; rawatan ialah IVIG, steroid dan platelet serasi |
 
 ---
 
@@ -93,7 +93,6 @@ Setakat ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Produk ini tidak dipasarkan di Malaysia dan tiada kebenaran pendaftaran direkodkan.
 
 ---
 
@@ -110,7 +109,7 @@ Satu catatan keselamatan berasaskan mekanisme: bagi ramalan nombor 9 (trombosito
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Semua ramalan berada pada tahap bukti L5 (ramalan model sahaja) tanpa sebarang percubaan klinikal atau literatur, dan penggantian FVIII tidak menangani kecacatan platelet yang menjadi punca kebanyakan penyakit yang diramalkan. Produk ini juga tidak dipasarkan di Malaysia.
+- Semua ramalan berada pada tahap bukti L5 (ramalan model sahaja) tanpa sebarang percubaan klinikal atau literatur, dan penggantian FVIII tidak menangani kecacatan platelet yang menjadi punca kebanyakan penyakit yang diramalkan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank

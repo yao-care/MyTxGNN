@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cetuximab
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 211
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cetuximab: indikasi baharu diramal Pre-malignant neoplasm (lesi pra-malignan) (tahap bukti L2). Indikasi asal: Neoplasma kolon malignan / kanser kolorektal / kanser sel skuamosa ke…"
 monitor_inn: "Cetuximab"
-predicted_indications: ["non-seminomatous lesion", "ductal or ductular proliferation", "bronchial adenomas/carcinoids childhood", "chondroid hamartoma", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "cystic neoplasm", "epiglottis neoplasm", "pre-malignant neoplasm"]
+predicted_indications: ["chondroid hamartoma", "non-seminomatous lesion", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "epiglottis neoplasm", "cystic neoplasm", "pre-malignant neoplasm"]
+last_modified_at: 2026-10-27
+description: "Cetuximab: indikasi baharu diramal Hamartoma kondroid (chondroid hamartoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Cetuximab
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,100 +33,68 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-## Cetuximab: Daripada Kanser Kolon kepada Lesi Pra-malignan (Pre-malignant Neoplasm)
+## Cetuximab: antibodi monoklonal penyekat EGFR → Hamartoma kondroid (chondroid hamartoma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Cetuximab ialah antibodi monoklonal yang menyasarkan reseptor faktor pertumbuhan epidermis (EGFR), pada asalnya digunakan untuk kanser kolorektal dan kanser sel skuamosa kepala dan leher.
-Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma pra-malignan**, dengan **4 ujian klinikal** dan **2 penerbitan** yang berkaitan, tetapi hanya **1 ujian fasa 2 yang benar-benar relevan** (NCT00524017).
+Cetuximab ialah antibodi monoklonal yang menyekat reseptor faktor pertumbuhan epidermis (EGFR).
+Model TxGNN meramalkan ia mungkin berkesan untuk **Hamartoma kondroid (chondroid hamartoma)**,
+tetapi data yang dikumpulkan untuk laporan ini **tidak mempunyai sebarang ujian klinikal atau penerbitan** yang mengkaji penyakit ini secara langsung; ramalan ini bergantung sepenuhnya pada skor model.
 
-> Nota: Calon pertama (peringkat 1) dalam data, iaitu "non-seminomatous lesion", hanya disokong oleh ramalan model tanpa sebarang ujian atau literatur (L5, Hold). Laporan ini memberi tumpuan kepada **neoplasma pra-malignan** (peringkat 10) kerana ia mempunyai bukti klinikal paling kukuh antara semua calon yang diramalkan, dan calon-calon lain dibincangkan secara ringkas dalam bahagian kesimpulan.
-
----
-
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Neoplasma kolon malignan / kanser kolorektal / kanser sel skuamosa kepala dan leher (daripada pangkalan pengetahuan TxGNN; tiada teks indikasi berlesen kerana tiada pendaftaran di Malaysia) |
-| Indikasi Baharu yang Diramal | Pre-malignant neoplasm (lesi pra-malignan) |
-| Skor Ramalan TxGNN | 99.95% |
-| Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Soalan Penyelidikan) |
-
----
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Hamartoma kondroid (chondroid hamartoma) |
+| Skor Ramalan TxGNN | 0,9995 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
+| Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, cetuximab menyasarkan EGFR, dan keberkesanannya dalam kanser kolorektal serta kanser sel skuamosa kepala dan leher telah terbukti. Dari segi mekanisme, ia mungkin boleh digunakan untuk lesi pra-malignan yang bergantung pada isyarat EGFR.
+Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, cetuximab menyasarkan EGFR, dan sasaran ini ialah asas penggunaannya dalam beberapa jenis kanser berasaskan sel epitelium.
 
-EGFR dikaitkan dengan karsinogenesis kanser sel skuamosa kepala dan leher. Lesi pra-malignan mulut menunjukkan ekspresi protein EGFR dan bilangan salinan gen *EGFR* yang lebih tinggi berbanding mukosa normal (PMID 24412287). Ini menyokong idea kemoprevensyen melalui sekatan EGFR, iaitu menghalang lesi daripada berkembang menjadi kanser.
-
-Walau bagaimanapun, kebanyakan ujian lain dalam senarai ialah gabungan kemoterapi kanser kolorektal dan tidak menyokong indikasi pra-malignan secara langsung.
-
----
+Namun, hamartoma kondroid ialah lesi benigna. Tiada ujian klinikal, penerbitan atau data mekanisme dalam data yang dikumpulkan yang menunjukkan bahawa lesi ini bergantung pada isyarat EGFR. Hubungan mekanisme langsung tidak dapat dikenal pasti, dan skor yang tinggi (0,9995) hanyalah ramalan berasaskan model, bukan bukti biologi atau klinikal.
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00524017](https://clinicaltrials.gov/study/NCT00524017) | Fasa 2 | Selesai | 35 | Cetuximab agen tunggal untuk lesi pra-malignan saluran aerodigestif atas berisiko tinggi; sangat relevan |
-| [NCT00482222](https://clinicaltrials.gov/study/NCT00482222) | Fasa 3 | Tidak diketahui | 340 | Oxaliplatin/fluoropirimidin dengan atau tanpa cetuximab sebelum dan selepas pembedahan untuk metastasis hati kolorektal; bukan ujian lesi pra-malignan |
-| [NCT00719199](https://clinicaltrials.gov/study/NCT00719199) | Fasa 1 | Ditamatkan | 21 | FOLFIRI + cetuximab + IMO-2055 dalam kanser kolorektal; tidak langsung |
-| [NCT00537823](https://clinicaltrials.gov/study/NCT00537823) | Fasa 2 | Ditamatkan | 9 | Terapi neoadjuvan berasaskan FOLFOX sebelum reseksi hati; bukan berkaitan penyakit pra-malignan |
-
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [24412287](https://pubmed.ncbi.nlm.nih.gov/24412287/) | 2014 | Ulasan | Oral Oncology | EGFR meningkat dalam lesi pra-malignan mulut; sasaran EGFR berpotensi untuk kemoprevensyen kanser kepala dan leher |
-| [33243986](https://pubmed.ncbi.nlm.nih.gov/33243986/) | 2020 | Ulasan | Nature Reviews Disease Primers | Gambaran keseluruhan kanser sel skuamosa kepala dan leher (HNSCC) |
-
----
+Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Cetuximab kini tidak dipasarkan di Malaysia dan tiada lesen berdaftar dalam data yang dikumpulkan untuk laporan ini.
-
----
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL20081796AZ | ERBITUX 5MG/ML SOLUTION FOR INFUSION | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
 
 ## Pertimbangan Keselamatan
 
-Cetuximab mempunyai interaksi dadah yang direkodkan, antaranya:
+Interaksi ubat yang direkodkan (20 kesan, daripada pangkalan data interaksi dan data farmakologi):
 
-- **Major**: asid aminolevulinik, thalidomide
-- **Moderate**: perencat pam proton (rabeprazole, omeprazole, dexlansoprazole, esomeprazole, lansoprazole, pantoprazole); agen kemoterapi (capecitabine, carboplatin, cisplatin, fluorouracil, oxaliplatin); methoxsalen, idelalisib, omacetaxine mepesuccinate, verteporfin dan produk topikal fotosensitif (asid aminolevulinik topikal, metil aminolevulinat topikal)
+- **Utama (Major)**: asid aminolevulinik (aminolevulinic acid), talidomid (thalidomide).
+- **Sederhana (Moderate)**: perencat pam proton (rabeprazol, omeprazol, deksilansoprazol, esomeprazol, lansoprazol, pantoprazol), metoksalen, asid aminolevulinik topikal, kapesitabin, karboplatin, sisplatin, fluorourasil, oksaliplatin, idelalisib, metil aminolevulinat topikal, omasetaksin mepesuksinat, verteporfin.
 
-Rujuk sisipan pakej untuk amaran utama dan kontraindikasi, kerana data tersebut tidak tersedia dalam data yang dikumpulkan. Laporan kes dalam literatur turut menyebut risiko reaksi infusi yang teruk (PMID 39415301) dan gangguan kulit akibat cetuximab (PMID 30141310).
-
----
+Untuk amaran utama dan kontraindikasi, sila rujuk risalah pek produk.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Soalan Penyelidikan)**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Hanya satu ujian fasa 2 agen tunggal yang relevan (NCT00524017, n=35) dan tiada ujian fasa 3 yang menyokong indikasi pra-malignan; ujian fasa 3 yang disenaraikan ialah kajian kolorektal. Tahap bukti L2 sahaja tidak mencukupi untuk bergerak ke hadapan.
-- Cetuximab tidak berdaftar di Malaysia, dan profil risiko-faedah (reaksi infusi, toksisiti kulit) kurang memihak untuk lesi yang bersifat pra-malignan.
-
-**Calon lain dalam senarai ramalan (ringkas):**
-- **Cystic neoplasm** (L2, Soalan Penyelidikan): bukti tertumpu pada karsinoma sista adenoid dan kelenjar air liur (NCT01192087, fasa 1/2, status tidak diketahui; PMID 18804410, fasa 2). Aktiviti dalam kajian kelenjar air liur tidak dapat disahkan daripada data yang ada.
-- **Ductal or ductular proliferation** (L4): kebanyakannya kajian praklinikal dan ulasan berkaitan kanser pankreas, dan padanan istilah ini longgar.
-- **Odontogenic cyst** (L4): hanya laporan kes karsinoma intraosseus primer; tidak mengesahkan penggunaan cetuximab.
-- **Epiglottis neoplasm** (L5): kemungkinan bertindih dengan indikasi sedia ada untuk kanser sel skuamosa kepala dan leher, bukan peluang repurposing sebenar.
-- **Non-seminomatous lesion, bronchial adenomas/carcinoids childhood, chondroid hamartoma, tumor of testis and paratestis, thyroglossal duct cyst** (L5, Hold): tiada ujian atau literatur.
+Tiada ujian klinikal atau penerbitan yang mengkaji hamartoma kondroid secara langsung, dan tiada pautan mekanisme EGFR yang dikenal pasti. Ramalan hanya berasaskan skor model, maka tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data bertaraf Blocking)
-- Data mekanisme tindakan terperinci (MOA) daripada DrugBank
-- Semakan hasil sebenar NCT00524017 (kadar tindak balas, kemajuan kepada kanser, toksisiti)
-- Kajian lanjut sama ada ujian fasa 3 yang menyokong wujud untuk lesi pra-malignan
-- Penilaian laluan pendaftaran dan ketersediaan produk di Malaysia
+- Data mekanisme tindakan terperinci dan bukti ekspresi/pergantungan EGFR dalam hamartoma kondroid
+- Kajian praklinikal atau laporan kes yang menyokong penggunaan ini
+- Amaran, kontraindikasi dan maklumat keselamatan daripada risalah pek NPRA
+- Penilaian nisbah risiko-faedah, kerana lesi ini benigna sedangkan cetuximab mempunyai toksisiti ketara (contohnya reaksi kulit dan reaksi infusi)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

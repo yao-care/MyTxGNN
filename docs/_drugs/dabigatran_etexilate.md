@@ -3,18 +3,18 @@ layout: default
 title: Dabigatran Etexilate
 parent: Low Evidence (L4-L5)
 nav_order: 250
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Dabigatran Etexilate: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L4). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
 monitor_inn: "dabigatran etexilate"
 predicted_indications: ["sclerosing cholangitis", "obsolete familial combined hyperlipidemia", "hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "primary release disorder of platelets"]
+last_modified_at: 2026-10-27
+description: "Dabigatran Etexilate: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Dabigatran Etexilate
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,81 +33,61 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-## Dabigatran Etexilate: Daripada Antikoagulan kepada Kolangitis Sklerosis
+## Dabigatran etexilate: perencat trombin langsung → Kolangitis sklerosis (sclerosing cholangitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Dabigatran etexilate ialah perencat trombin langsung (antikoagulan oral), tetapi data yang dikompilasi untuk laporan ini tidak mengandungi maklumat indikasi asal yang berdaftar di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **kolangitis sklerosis (sclerosing cholangitis)**,
-namun pada masa ini terdapat **0 ujian klinikal** dan **1 penerbitan** yang berkaitan, dan penerbitan itu tidak menilai keberkesanan dabigatran dalam penyakit ini.
-
----
+Dabigatran etexilate ialah perencat trombin langsung yang digunakan sebagai antikoagulan oral.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Kolangitis sklerosis (sclerosing cholangitis)**,
+tetapi setakat ini **tiada ujian klinikal** dan hanya **1 penerbitan** yang berkaitan secara tidak langsung, jadi bukti masih sangat terhad.
 
 ## Gambaran Keseluruhan
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar di Malaysia |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Kolangitis sklerosis (sclerosing cholangitis) |
-| Skor Ramalan TxGNN | 99.82% |
-| Tahap Bukti | L4 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Skor Ramalan TxGNN | 0,9982 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 12) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
----
+## Mengapa Ramalan Ini Munasabah?
 
-## Mengapakah Ramalan Ini Munasabah?
+Data terperinci tentang mekanisme tindakan dabigatran tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, dabigatran ialah perencat trombin langsung. Satu kaitan yang mungkin ialah trombin dan laluan reseptor PAR terlibat dalam keradangan dan fibrosis, dan perencatan trombin secara teori boleh mengurangkan proses ini dalam saluran hempedu.
 
-Pada masa ini, data terperinci mengenai mekanisme tindakan tidak tersedia. Berdasarkan maklumat yang diketahui, dabigatran ialah perencat trombin langsung yang digunakan sebagai antikoagulan, dan secara mekanistik mungkin berkaitan dengan kolangitis sklerosis melalui peranan trombin dalam keradangan dan fibrosis.
-
-Satu hubungan yang boleh dipertimbangkan ialah modulasi fibrosis dan keradangan yang dimediasi trombin/PAR (protease-activated receptor) pada saluran hempedu. Namun, hubungan ini **bersifat spekulatif**. Satu-satunya penerbitan yang dipautkan (PMID 36906733) membincangkan interaksi ubat-ubat melalui sitokrom P450 dan pengangkut bagi cilofexor (agonis FXR), bukan keberkesanan dabigatran dalam kolangitis.
-
-Skor TxGNN yang sangat tinggi (0.998) ialah ramalan komputasi semata-mata dan tidak boleh dianggap sebagai bukti klinikal.
-
----
-
-## Maklumat Pasaran Malaysia
-
-Dabigatran etexilate pada masa ini **tidak dipasarkan** dan tiada lesen berdaftar dalam data yang dikompilasi untuk laporan ini.
-
----
+Namun, hubungan ini bersifat spekulatif. Skor TxGNN yang sangat tinggi (0,9982) ialah ramalan pengiraan sahaja dan bukan bukti keberkesanan. Satu-satunya penerbitan yang dipautkan tidak mengkaji dabigatran dalam penyakit ini (lihat di bawah).
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk kolangitis sklerosis.
-
----
+Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [36906733](https://pubmed.ncbi.nlm.nih.gov/36906733/) | 2023 | Kajian in vitro/farmakologi DDI | Clinical Pharmacokinetics | Menilai potensi interaksi ubat-ubat cilofexor (agonis FXR untuk NASH dan kolangitis sklerosis primer) melalui CYP450 dan pengangkut. Tidak menilai dabigatran. |
-
----
+| [36906733](https://pubmed.ncbi.nlm.nih.gov/36906733/) | 2023 | Kajian in vitro/farmakologi DDI | Clinical Pharmacokinetics | Menilai interaksi ubat-ubat melalui sitokrom P450 dan pengangkut bagi cilofexor (agonis FXR) yang dibangunkan untuk kolangitis sklerosis primer. Ia bukan kajian keberkesanan dabigatran dalam penyakit ini. |
 
 ## Pertimbangan Keselamatan
 
-- **Penyakit yang dikaitkan dengan kontraindikasi dalam graf pengetahuan TxGNN (PrimeKG)** (bukan teks label): gangguan pembekuan darah, anemia, anemia makrositik, dan pendarahan intraserebrum.
+- **Penyakit yang direkodkan sebagai kontraindikasi dalam data model**: gangguan pembekuan darah, anemia, anemia makrositik dan pendarahan intraserebral. Ini bukan teks label rasmi, tetapi perlu diberi perhatian kerana dabigatran meningkatkan risiko pendarahan.
 
-Untuk maklumat keselamatan lain, sila rujuk risalah maklumat produk (package insert).
-
----
+Sila rujuk sisipan pek untuk maklumat keselamatan lengkap, termasuk amaran dan interaksi ubat.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
-**Justifikasi:**
-- Ramalan hanya disokong oleh skor model (L4); tiada ujian klinikal, dan satu-satunya penerbitan tidak berkaitan dengan keberkesanan dabigatran. Selain itu, ubat ini tidak dipasarkan di Malaysia dan risiko pendarahan perlu dipertimbangkan dengan teliti.
+**Rasional:**
+Tiada ujian klinikal dan tiada kajian yang terus menilai dabigatran dalam kolangitis sklerosis; ramalan ini bergantung pada skor model sahaja. Maklumat keselamatan tempatan juga belum lengkap.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA (perkara menghalang untuk saringan keselamatan)
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
-- Kajian praklinikal atau klinikal yang menilai dabigatran dalam kolangitis sklerosis
-- Pengesahan status pendaftaran dan indikasi asal di Malaysia
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pek NPRA
+- Kajian praklinikal atau klinikal yang menilai dabigatran secara langsung dalam kolangitis sklerosis
+- Penilaian risiko pendarahan dalam pesakit dengan penyakit hati atau saluran hempedu
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -4,17 +4,17 @@ title: Ramipril
 parent: Low Evidence (L4-L5)
 nav_order: 610
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ramipril: indikasi baharu diramal Kerentanan terhadap strok iskemia (entri usang) (tahap bukti L5). Indikasi asal: Tidak tersedia (tiada rekod lesen tempatan)"
+indication_count: 9
 monitor_inn: "Ramipril"
-predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction"]
+predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
+last_modified_at: 2026-10-23
+description: "Ramipril: indikasi baharu diramal Pulmonary hypertension owing to lung disease and/or hypoxia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ramipril
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,38 +33,36 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Ramipril: Daripada Indikasi Asal (Data Tempatan Tiada) kepada Kerentanan terhadap Strok Iskemia
+## Ramipril: Pulmonary hypertension owing to lung disease and/or hypoxia
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Ramipril ialah perencat enzim penukar angiotensin (ACE) yang digunakan dalam bidang kardiovaskular. Indikasi asalnya tidak dapat disahkan daripada data pendaftaran tempatan yang dikumpul untuk laporan ini.
-Model TxGNN meramalkan ia mungkin berkesan untuk **kerentanan terhadap strok iskemia (entri ontologi usang)**.
-Ramalan ini ialah **ramalan model sahaja**: **0 ujian klinikal** dan **0 penerbitan** ditemui untuk entri ini.
+Ramipril ialah perencat enzim penukar angiotensin (ACE) yang telah didaftarkan di Malaysia dengan 8 pendaftaran produk tunggal. Model TxGNN meramalkan ia mungkin berkesan untuk **hipertensi pulmonari akibat penyakit paru-paru dan/atau hipoksia**. Setakat ini tiada ujian klinikal didaftarkan dan hanya terdapat **satu kajian praklinikal haiwan** yang berkaitan secara langsung dengan penyakit ini, jadi bukti masih berada pada tahap ramalan model dan kajian awal.
 
 ---
 
 ## Gambaran Keseluruhan Pantas
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tidak tersedia (tiada rekod lesen tempatan) |
-| Indikasi Baharu yang Diramalkan | Kerentanan terhadap strok iskemia (entri usang) |
-| Skor Ramalan TxGNN | 99.95% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Pulmonary hypertension owing to lung disease and/or hypoxia |
+| Skor Ramalan TxGNN | 0.9993 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (perlu disahkan) |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data terperinci tentang mekanisme tindakan tidak tersedia. Berdasarkan maklumat sedia ada, ramipril tergolong dalam kelas perencat ACE. Kelas ini mengurangkan pembentukan angiotensin II, dan kesannya dalam bidang kardiovaskular telah dikaji secara meluas. Secara mekanistik, ia mungkin berkaitan dengan pencegahan strok.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan umum, ramipril ialah perencat ACE yang mengurangkan pembentukan angiotensin II. Angiotensin II menyebabkan penyempitan saluran darah dan pembentukan semula (remodelling) vaskular, jadi perencatan ACE secara teori boleh mengurangkan vasokonstriksi paru-paru dan remodelling saluran darah paru-paru.
 
-"Kerentanan terhadap strok iskemia" ialah istilah ontologi yang telah **usang**. Ia bertindih dengan pencegahan strok, yang mempunyai bukti di bawah entri "stroke disorder" untuk ramipril. Antaranya ialah ujian HOPE, iaitu RCT besar yang menunjukkan pengurangan kejadian kardiovaskular termasuk strok dalam pesakit berisiko tinggi. Entri usang ini patut digabungkan atau dipetakan kepada entri tersebut, dan tidak dinilai secara berasingan.
+Satu kajian praklinikal pada tikus (PMID 9200213, 1996) melaporkan bahawa pentadbiran ramipril semasa pendedahan kepada hipoksia kronik menghasilkan tekanan perfusi asas yang lebih rendah dalam paru-paru terpencil, dan perencatan ACE melemahkan kesan hipoksia kronik terhadap saluran darah paru-paru. Ini selari secara biologi dengan indikasi yang diramalkan. Namun, kajian lain yang diperoleh meliputi remodelling jantung, mikrovaskular buah pinggang dan topik lain, dan hanya memberi sokongan tidak langsung.
 
-Tiada bukti langsung untuk entri ini dalam data yang dikumpul. Oleh itu, kemunasabahan ramalan ini hanya bersifat tidak langsung.
+Perlu diingatkan bahawa tiada data manusia tersedia. Oleh itu, tahap bukti ditetapkan pada L4 (kajian praklinikal) dan ramalan ini masih merupakan persoalan penyelidikan.
 
 ---
 
@@ -76,19 +74,33 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [9200213](https://pubmed.ncbi.nlm.nih.gov/9200213/) | 1996 | Praklinikal (haiwan) | Physiological Research | Ramipril 10 mg/kg setiap hari pada tikus yang terdedah kepada hipoksia selama 3 minggu menurunkan tekanan perfusi asas paru-paru; perencatan ACE melemahkan kesan hipoksia kronik pada saluran darah paru-paru. |
+| [12069940](https://pubmed.ncbi.nlm.nih.gov/12069940/) | 2002 | Praklinikal (haiwan) | Am J Physiol Regul Integr Comp Physiol | Fungsi jantung terhadap hipoksia-reoksigenasi pada tikus transgenik renin-angiotensinogen; hanya berkaitan secara tidak langsung. |
+| [15671045](https://pubmed.ncbi.nlm.nih.gov/15671045/) | 2005 | Praklinikal/tisu manusia | Eur Heart J | Ekspresi ACE2 meningkat selepas infarksi miokardium pada tikus dan jantung manusia yang gagal; berkaitan secara tidak langsung. |
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL17055006AZ | ANGIRAM 10 (Ramipril Tablets 10 mg) | – | – |
+| MAL17055005AZ | ANGIRAM 5 (Ramipril Tablets 5 mg) | – | – |
+| MAL20031929AZ | TRITACE 10MG TABLET | – | – |
+| MAL19986948AZ | TRITACE 5MG TABLET | – | – |
+| MAL19986949AZ | TRITACE 2.5MG TABLET | – | – |
+
+Jumlah pendaftaran ialah 8 (semuanya produk tunggal dan sah). Hanya 5 yang disenaraikan di sini; tiga lagi ialah ANGIRAM 2.5, Ramtace Tablet 5mg dan Ramtace Tablet 10mg. Teks indikasi dan bentuk dos tidak terdapat dalam data pendaftaran yang dikumpulkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak diperoleh. Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Interaksi Ubat**: Pangkalan data interaksi (DDInter) mengesan 100 interaksi. Interaksi **Major** yang ketara termasuk **kalium sitrat** dan **kalium bikarbonat** (risiko hiperkalemia). Interaksi **Moderate** termasuk kortikosteroid (hidrokortison, deksametason, betametason, triamsinolon, budesonid), ubat antidiabetes (metformin, glimepirid, alogliptin, kanagliflozin, dapagliflozin, empagliflozin, klorpropamid), asid asetilsalisilik, morfin, bupropion, dronabinol, serta agen penyediaan usus (asid pikosulfurik, polietilena glikol).
 
-**Interaksi Ubat** (100 interaksi dikenal pasti; antara yang utama):
-- **Major**: kalium sitrat, kalium bikarbonat (risiko hiperkalemia)
-- **Sederhana**: hidrokortison, deksametason, betametason, triamsinolon, budesonid, aspirin (asid asetilsalisilik), morfin, bupropion, dronabinol, metformin, glimepirid, klorpropamid, alogliptin, kanagliflozin, dapagliflozin, empagliflozin, asid pikosulfurik, polietilena glikol (3350 dengan elektrolit)
-
-**Perkara pemantauan umum bagi ramipril** (daripada penilaian bukti untuk indikasi berkaitan): hiperkalemia, perubahan fungsi renal, angioedema, batuk, dan kontraindikasi semasa kehamilan.
+Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 
 ---
 
@@ -97,24 +109,13 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak diperoleh.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa ujian klinikal atau literatur. Istilah penyakitnya juga ialah entri ontologi usang yang bertindih dengan "stroke disorder".
+Skor ramalan model adalah tinggi, tetapi bukti hanya terdiri daripada kajian haiwan, dan tiada ujian klinikal atau kajian manusia untuk hipertensi pulmonari akibat penyakit paru-paru/hipoksia. Data keselamatan daripada risalah produk juga belum diperoleh.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Menggabungkan atau memetakan entri usang ini kepada "stroke disorder", lalu menilai di bawah entri tersebut.
-- Mengesahkan status pendaftaran ramipril di Malaysia. Status "tidak dipasarkan" dengan 0 lesen dan tiada indikasi asal berkemungkinan jurang data.
-- Memuat turun dan menghurai sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang yang menyekat).
-- Melengkapkan data mekanisme tindakan (MOA).
-
-**Calon ramalan lain bagi ramipril yang mempunyai bukti lebih kukuh (untuk rujukan):**
-
-| Penyakit Diramalkan | Tahap Bukti | Cadangan |
-|------|------|------|
-| Hypertensive disorder | L1 | Proceed with Guardrails |
-| Stroke disorder | L1 | Proceed with Guardrails (pencegahan, bukan rawatan strok akut) |
-| Cerebrovascular disorder | L1 | Proceed with Guardrails (terhad kepada pengurangan risiko kardiovaskular dan strok) |
-| Pulmonary hypertension owing to lung disease and/or hypoxia | L4 | Hold (data praklinikal sahaja) |
-
-Hipertensi sebenarnya ialah indikasi yang sudah mantap, bukan pengagihan semula ubat yang sebenar.
+- Memuat turun dan menghurai risalah maklumat produk NPRA (amaran, kontraindikasi, indikasi diluluskan)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Kajian praklinikal tambahan yang disahkan, dan kajian klinikal awal pada manusia
+- Penilaian keselamatan untuk populasi sasaran (contohnya pesakit dengan penyakit paru-paru dan risiko hipotensi atau hiperkalemia)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

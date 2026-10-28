@@ -6,9 +6,9 @@ nav_order: 631
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ropeginterferon Alfa-2B: indikasi baharu diramal Sindrom Laubry-Pezzi (tahap bukti L5). Indikasi asal: Polisitemia vera yang diperoleh (acquired), plasmasitoma, polisitemia"
 monitor_inn: "ROPEGINTERFERON ALFA-2B"
 predicted_indications: ["Laubry-Pezzi syndrome", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "Jeune syndrome situs inversus", "partial deletion of the long arm of chromosome 22", "orofacial clefting syndrome", "pulmonary valve disease"]
+description: "Ropeginterferon Alfa-2B: indikasi baharu diramal Sindrom Laubry-Pezzi (Laubry-Pezzi syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ropeginterferon Alfa-2B
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Ropeginterferon Alfa-2b: Daripada Polisitemia Vera kepada Sindrom Laubry-Pezzi
+## Ropeginterferon Alfa-2B: Sindrom Laubry-Pezzi (Laubry-Pezzi syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Ropeginterferon alfa-2b ialah interferon monopegilasi yang pada asalnya digunakan untuk merawat polisitemia vera (neoplasma mieloproliferatif) dan keadaan berkaitan.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Laubry-Pezzi** dengan skor yang sangat tinggi, tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini kemungkinan besar merupakan artifak graf pengetahuan.
+Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **Sindrom Laubry-Pezzi** dengan skor yang sangat tinggi, tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
 ---
 
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Laubry-Pezzi** dengan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Polisitemia vera yang diperoleh (acquired), plasmasitoma, polisitemia |
-| Indikasi Baharu yang Diramalkan | Sindrom Laubry-Pezzi |
-| Skor Ramalan TxGNN | 99.93% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom Laubry-Pezzi (Laubry-Pezzi syndrome) |
+| Skor Ramalan TxGNN | 0.9993 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -63,7 +63,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. 
 
 Sindrom Laubry-Pezzi (kecacatan septum ventrikel dengan regurgitasi aorta) ialah kecacatan struktur jantung kongenital. Tiada hubungan mekanistik yang dapat dikenal pasti antara ubat ini dengan keadaan tersebut, kerana ubat ini tidak mungkin mempengaruhi anatomi injap atau septum.
 
-Skor TxGNN yang tinggi kemungkinan besar dipacu oleh kedekatan nod dalam graf pengetahuan dan bukannya oleh asas biologi atau klinikal. Sembilan ramalan lain dalam senarai sepuluh teratas (contohnya aneurisma septum interventrikular, sindrom Pierre Robin, delesi kromosom separa, penyakit injap pulmonari) juga tidak mempunyai hubungan mekanistik dan menunjukkan corak yang sama.
+Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan asas biologi atau klinikal. Sembilan ramalan lain dalam senarai sepuluh teratas (contohnya aneurisma septum interventrikular, sindrom Pierre Robin, delesi kromosom separa, penyakit injap pulmonari) juga tidak mempunyai hubungan mekanistik dan menunjukkan corak yang sama.
 
 ---
 
@@ -83,7 +83,6 @@ Nota: Lima penerbitan yang diperoleh bagi ramalan peringkat keenam (gangguan sin
 
 ## Maklumat Pasaran Malaysia
 
-Ropeginterferon alfa-2b pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan.
 
 ---
 
@@ -100,7 +99,7 @@ Pangkalan data interaksi ubat tidak mengembalikan sebarang rekod untuk ubat ini.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal atau literatur yang menyokong, dan tiada hubungan mekanistik yang munasabah dengan kecacatan struktur jantung kongenital. Skor tinggi kemungkinan besar merupakan artifak graf pengetahuan.
+- Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal atau literatur yang menyokong, dan tiada hubungan mekanistik yang munasabah dengan kecacatan struktur jantung kongenital. Skor tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci

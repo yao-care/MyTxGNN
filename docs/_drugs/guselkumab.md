@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Guselkumab
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 397
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Guselkumab: indikasi baharu diramal Kolitis ulseratif (kedudukan ke-6 dalam senarai ramalan) (tahap bukti L1). Indikasi asal: Tiada data pelesenan tempatan (psoriasis ialah indikasi mantap dalam…"
 monitor_inn: "Guselkumab"
-predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "psoriasis", "diabetic retinopathy", "renal osteodystrophy", "ulcerative colitis (disease)", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
+predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "renal osteodystrophy", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
+description: "Guselkumab: indikasi baharu diramal Drug-induced osteoporosis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Guselkumab
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-## Guselkumab: Daripada Indikasi Asal (Tidak Dinyatakan) kepada Kolitis Ulseratif
+## Guselkumab: Drug-induced osteoporosis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -41,7 +41,7 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 Guselkumab ialah antibodi monoklonal yang menyekat subunit p19 bagi IL-23. Data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asalnya di Malaysia.
 Model TxGNN meramalkan ia mungkin berkesan untuk **kolitis ulseratif**, dengan **10 ujian klinikal** dan **20 penerbitan** yang menyokong arah ini.
 
-> **Nota penting:** Ramalan peringkat teratas (osteoporosis akibat ubat, skor 99.84%) hanya berasaskan model tanpa sebarang ujian atau literatur. Laporan ini memfokuskan kepada kolitis ulseratif, indikasi dengan bukti paling kukuh antara yang tidak diluluskan secara tempatan. Psoriasis (kedudukan ke-3) ialah indikasi guselkumab yang sudah mantap, jadi ia bukan calon repurposing sebenar.
+> **Nota penting:** Ramalan peringkat teratas (osteoporosis akibat ubat, skor 0.9984) hanya berasaskan model tanpa sebarang ujian atau literatur. Laporan ini memfokuskan kepada kolitis ulseratif, indikasi dengan bukti paling kukuh antara yang tidak diluluskan secara tempatan.
 
 ---
 
@@ -49,21 +49,21 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **kolitis ulseratif**, dengan *
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data pelesenan tempatan (psoriasis ialah indikasi mantap dalam amalan klinikal) |
-| Indikasi Baharu yang Diramalkan | Kolitis ulseratif (kedudukan ke-6 dalam senarai ramalan) |
-| Skor Ramalan TxGNN | 99.70% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data; perlu disahkan) |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Drug-induced osteoporosis |
+| Skor Ramalan TxGNN | 0.9984 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Berjaga-jaga) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Guselkumab menyekat subunit p19 bagi IL-23. IL-23 mendorong pembezaan dan pengekalan sel Th17, laluan utama dalam keradangan imun kronik. Laluan ini penting dalam psoriasis dan juga dalam penyakit radang usus (IBD).
+Guselkumab menyekat subunit p19 bagi IL-23. IL-23 mendorong pembezaan dan pengekalan sel Th17, laluan utama dalam keradangan imun kronik.
 
-Dalam kolitis ulseratif, IL-23 menggalakkan tindak balas Th17 pada mukosa dan keradangan usus kronik. Penyekatan selektif p19 disokong oleh data fasa 2b/3 (QUASAR). Mekanisme ini sama dengan yang digunakan dalam psoriasis, jadi ramalan model selari dengan biologi penyakit.
+Dalam kolitis ulseratif, IL-23 menggalakkan tindak balas Th17 pada mukosa dan keradangan usus kronik. Penyekatan selektif p19 disokong oleh data fasa 2b/3 (QUASAR).
 
 Data terperinci tentang mekanisme tindakan (MOA) daripada pangkalan data rujukan tidak tersedia. Huraian di atas berdasarkan literatur yang disenaraikan dalam laporan ini.
 
@@ -120,7 +120,6 @@ Bagi maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 **Rasional:**
 - Kolitis ulseratif disokong oleh ujian fasa 3 (QUASAR) yang diterbitkan dalam Lancet, serta garis panduan antarabangsa dan serantau, jadi tahap bukti ialah L1.
-- Status "tidak dipasarkan" dan ketiadaan indikasi asal dalam data kemungkinan besar jurang data dan bukan fakta.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Mengesahkan status pendaftaran guselkumab di NPRA dan indikasi yang diluluskan

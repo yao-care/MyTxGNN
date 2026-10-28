@@ -3,18 +3,18 @@ layout: default
 title: Sulpiride
 parent: Low Evidence (L4-L5)
 nav_order: 663
-evidence_level: L4
+evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Sulpiride: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (tahap bukti L4). Indikasi asal: Skizofrenia"
 monitor_inn: "SULPIRIDE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "syndromic myopia", "atypical glycine encephalopathy"]
+description: "Sulpiride: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies) (tahap bukti L5). Indikasi asal: Tidak direkodkan d…"
 ---
 
 # Sulpiride
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **9** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **9**
 
 </div>
 
-## Sulpiride: Daripada Skizofrenia kepada Distrofi Retina (dengan atau tanpa Anomali Ekstraokular)
+## Sulpiride: Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi buat masa ini hanya terdapat **0 ujian klinikal** dan **2 penerbitan prak
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Skizofrenia |
-| Indikasi Baharu yang Diramal | Distrofi retina dengan atau tanpa anomali ekstraokular |
-| Skor Ramalan TxGNN | 99.95% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramal | Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies) |
+| Skor Ramalan TxGNN | 0.9995 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -85,7 +85,6 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Sulpiride tidak dipasarkan di Malaysia dan tiada pendaftaran dikesan dalam data yang dikumpulkan.
 
 ---
 
@@ -102,7 +101,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 **Keputusan: Hold**
 
 **Rasional:**
-- Bukti hanya terhad kepada dua kajian praklinikal tidak langsung pada model tikus, tanpa sebarang ujian klinikal. Kesan antagonis D2 terhadap sel ganglion retina belum terbukti bermanfaat untuk fungsi penglihatan. Ubat ini juga tidak dipasarkan di Malaysia.
+- Bukti hanya terhad kepada dua kajian praklinikal tidak langsung pada model tikus, tanpa sebarang ujian klinikal. Kesan antagonis D2 terhadap sel ganglion retina belum terbukti bermanfaat untuk fungsi penglihatan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data keselamatan rasmi (amaran dan kontraindikasi) daripada risalah maklumat produk

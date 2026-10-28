@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Zinc Oxide
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 736
-evidence_level: L2
+evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Zinc Oxide: indikasi baharu diramal Dermatitis (tahap bukti L2). Indikasi asal: Tinea pedis, ruam (exanthem), dermatitis, tinea corporis…"
+monitor_inn: "Zinc Oxide"
+predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
+last_modified_at: 2026-10-23
+description: "Zinc Oxide: indikasi baharu diramal Jerawat (acne) (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam rekod lesen tempatan. Hubungan y…"
 ---
 
 # Zinc Oxide
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,50 +33,45 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-## Zink Oksida: Daripada Dermatitis/Ruam Kulit kepada Dermatitis (Dermatitis Lampin dan Dermatitis Berkaitan Inkontinensia)
+## Zinc Oxide: Daripada Penyakit Kulit dan Anorektum kepada Jerawat (Acne)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Zink oksida ialah agen topikal pelindung kulit yang digunakan untuk pelbagai keadaan kulit seperti dermatitis, ruam, jangkitan kulat (tinea) dan buasir.
-Model TxGNN meramalkan ia mungkin berkesan untuk **dermatitis**, dengan **5 percubaan klinikal** dan **19 penerbitan** yang dikumpulkan dalam data laporan ini.
-Perlu diingat bahawa dermatitis lampin sudah menjadi kegunaan sedia ada zink oksida, jadi ini bukan pengitlakan semula ubat yang sebenar.
+Zinc oxide ialah bahan pelindung kulit yang digunakan secara topikal. Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **jerawat (acne)**; skor ini datang daripada model TxGNN dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Setakat ini terdapat **0 ujian klinikal** dan **3 penerbitan** yang berkaitan, dan hanya satu daripadanya ialah kajian klinikal kecil yang reka bentuknya tidak dapat disahkan.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tinea pedis, ruam (exanthem), dermatitis, tinea corporis, kandidiasis kutaneus, buasir, luka bakar dan lain-lain (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen tempatan) |
-| Indikasi Baharu yang Diramalkan | Dermatitis |
-| Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+| Indikasi Asal | Tiada teks indikasi diluluskan dalam rekod lesen tempatan. Hubungan yang direkodkan dalam graf pengetahuan: tinea pedis, dermatitis, hemoroid, luka bakar, proktitis dan lain-lain (bukan indikasi diluluskan) |
+| Indikasi Baharu Diramal | Jerawat (acne) |
+| Skor Ramalan TxGNN | 0.9986 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 280 daripada 280) |
+| Bilangan Pendaftaran | 280 (sah: 280) |
+| Bilangan Kelulusan | Sekurang-kurangnya 280 lesen (7 produk bahan tunggal, 273 produk kombinasi) |
+| Keputusan Disyorkan | Hold |
+
+Nota: tiga penerbitan yang disenaraikan hanya menyentuh jerawat secara umum, nanozarah atau bahan lain. Tiada satu pun menguji zinc oxide secara langsung untuk jerawat, maka tahap bukti ditetapkan pada L5.
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) belum tersedia. Berdasarkan maklumat yang diketahui, zink oksida bertindak sebagai penghalang topikal dan astringen ringan dengan aktiviti antimikrob dan anti-radang yang lemah. Ini menyokong penggunaannya yang sedia ada dalam dermatitis lampin.
+Data terperinci mengenai mekanisme tindakan zinc oxide tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, sebatian zinc dilaporkan mempunyai aktiviti anti-radang ringan dan antibakteria (contohnya terhadap *Cutibacterium acnes*). Zinc oxide pula lazim digunakan sebagai pelindung kulit dalam dermatitis dan keadaan kulit radang lain.
 
-Dermatitis lampin dan dermatitis berkaitan inkontinensia disebabkan oleh pendedahan berpanjangan kepada air kencing dan najis. Lapisan pelindung zink oksida mengurangkan sentuhan kulit dengan perengsa, jadi mekanismenya selaras dengan indikasi ini. Skor TxGNN yang tercatat ialah 0.0, jadi ramalan model tidak boleh dijadikan asas utama. Sokongan lebih kuat datang daripada percubaan klinikal dan penggunaan klinikal sedia ada.
+Jerawat ialah penyakit kulit radang yang sebahagiannya didorong oleh bakteria. Oleh itu terdapat pertindihan yang munasabah dengan kegunaan zinc oxide dalam keadaan kulit radang. Namun, ini ialah inferens sahaja dan tidak disahkan oleh data yang dikumpulkan. Skor TxGNN yang tinggi ialah ramalan pengiraan, bukan bukti klinikal.
 
-Ramalan lain dalam data (proktitis, ruam/exanthem, tinea pedis, kandidiasis kutaneus) mempunyai bukti yang jauh lebih lemah, dan dibincangkan secara ringkas dalam bahagian kesimpulan.
+Ramalan lain yang disenaraikan (striktur anorektum, polip dubur, konjunktivitis papilari, vaskulitis pasca-jangkitan) tidak mempunyai sebarang ujian atau penerbitan sokongan, dan mekanismenya spekulatif. Ia kekal pada tahap L5 dengan keputusan Hold.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00219466](https://clinicaltrials.gov/study/NCT00219466) | Fasa 4 | Selesai | 112 | Percubaan rawak, buta penilai, membandingkan dua pelindung kulit topikal berasaskan zink oksida dalam ruam lampin kanak-kanak (penilaian pada 12 dan 24 jam). Pegangan zink oksida dalam kedua-dua lengan perlu disahkan kerana tajuk dipotong. |
-| [NCT03309059](https://clinicaltrials.gov/study/NCT03309059) | NA | Selesai | 138 | Zink oksida berbanding filem penghalang tidak merengsa untuk mencegah dermatitis berkaitan inkontinensia pada warga emas di hospital |
-| [NCT07637695](https://clinicaltrials.gov/study/NCT07637695) | NA | Selesai | 40 | Semburan penghalang silikon berbanding salap zink oksida untuk dermatitis berkaitan inkontinensia di penjagaan jangka panjang (rawak; zink oksida sebagai perbandingan, bukti tidak langsung) |
-| [NCT07186907](https://clinicaltrials.gov/study/NCT07186907) | NA | Selesai | 44 | Pembalut hidrokoloid berbanding krim zink oksida 40% untuk dermatitis lampin bayi di NICU (kuasi-eksperimen, bukan rawak) |
-| [NCT06221046](https://clinicaltrials.gov/study/NCT06221046) | NA | Belum merekrut | 60 | Krim penghalang yang dipertingkat untuk kerosakan kulit berkaitan kelembapan; kaitan dengan zink oksida belum disahkan, belum ada keputusan |
+Setakat ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
@@ -82,47 +79,47 @@ Ramalan lain dalam data (proktitis, ruam/exanthem, tinea pedis, kandidiasis kuta
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [41014074](https://pubmed.ncbi.nlm.nih.gov/41014074/) | 2025 | Kajian sistematik | Acta Dermatovenerol Alp Pannonica Adriat | 13 kajian melibatkan 2,935 kanak-kanak; menilai strategi rawatan dan pencegahan dermatitis lampin |
-| [17128840](https://pubmed.ncbi.nlm.nih.gov/17128840/) | 2006 | Kajian berbilang pusat | J Med Assoc Thai | Dexpanthenol dan salap zink oksida berbanding asas salap dalam dermatitis lampin akibat cirit-birit |
-| [29901362](https://pubmed.ncbi.nlm.nih.gov/29901362/) | 2016 | Kajian perbandingan | J Med Assoc Thai | Bedak talkum berbanding krim zink oksida untuk mencegah dermatitis lampin |
-| [10640841](https://pubmed.ncbi.nlm.nih.gov/10640841/) | 1999 | Kajian perbandingan | Dermatology | Eosin berbanding pes zink oksida dan krim kortikosteroid untuk dermatitis lampin |
-| [34621960](https://pubmed.ncbi.nlm.nih.gov/34621960/) | 2021 | Ulasan | Int J Womens Dermatol | Kombinasi baharu agen topikal (zink glukonat, zink oksida, dexpanthenol, taurin) untuk dermatitis lampin |
-| [34434272](https://pubmed.ncbi.nlm.nih.gov/34434272/) | 2021 | Praklinikal (tikus) | Exp Ther Med | Model tikus dermatitis berkaitan inkontinensia; kesan terapeutik zink oksida, filem pelindung dan pembalut silikon dinilai |
-| [34747103](https://pubmed.ncbi.nlm.nih.gov/34747103/) | 2022 | Laporan kes | Pediatr Int | Hiperzinkemia akibat zink oksida topikal pada bayi dengan dermatitis lampin |
-| [38099219](https://pubmed.ncbi.nlm.nih.gov/38099219/) | 2023 | Praklinikal | Front Cell Infect Microbiol | Nanokumis zink oksida menunjukkan sifat antibakteria dan mengurangkan dermatitis |
+| [21342155](https://pubmed.ncbi.nlm.nih.gov/21342155/) | 2011 | Ulasan | International Journal of Dermatology | Nanozarah seperti zinc oxide dan titanium dioksida mempunyai sifat fizikal unik; penyediaan nano sedang dikaji untuk jerawat, ekzema atopik dan keadaan kulit lain |
+| [15536660](https://pubmed.ncbi.nlm.nih.gov/15536660/) | 2004 | Kajian klinikal kecil (reka bentuk tidak dapat disahkan) | Skin Research and Technology | Penilaian split-face bagi jerawat katamenial ringan; tidak dapat disahkan sama ada zinc oxide ialah agen aktif |
+| [36888703](https://pubmed.ncbi.nlm.nih.gov/36888703/) | 2023 | Praklinikal | Science Advances | Tampalan mikrojarum dengan nanozarah berasaskan zinc porphyrin untuk jerawat berjangkit bakteria (bukan zinc oxide) |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Zink oksida tidak dipasarkan di Malaysia berdasarkan data yang dikumpulkan dan tiada lesen berdaftar (0 pendaftaran).
+Senarai di bawah ialah lima lesen produk bahan tunggal zinc oxide. Jumlah keseluruhan ialah 280 lesen, dan teks indikasi diluluskan tidak tersedia dalam rekod.
+
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL20061575XCZ | Polylab Zinc Paste BP 25 % w/w | Tidak dinyatakan | Tidak dinyatakan |
+| MAL23036028XCZ | MSA Zinc Oxide Cream 32% w/w | Krim | Tidak dinyatakan |
+| MAL18046004XZ | NW Zinc Oxide 20%w/w Ointment | Salap | Tidak dinyatakan |
+| MAL19930439XZ | HOE ZINC CREAM | Krim | Tidak dinyatakan |
+| MAL25016029XCZ | MSA Zinc Oxide Cream 15% w/w | Krim | Tidak dinyatakan |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Keadaan yang dikaitkan dalam graf pengetahuan (bukan teks label)**: Graf pengetahuan TxGNN mengaitkan zink oksida dengan keadaan berikut sebagai kontraindikasi, termasuk hipertensi, hiperplasia prostat jinak, anemia sel sabit, hiperoksaluria primer, hemokromatosis keturunan, hemosiderosis, penyakit metabolisme besi, penyakit Wilson, penyakit arteri koronari, serangan jantung mengejut, penyakit konduksi jantung, hipertiroidisme, penyakit Graves, tirotoksikosis dan kebimbangan (anxiety). Senarai ini daripada hubungan model dan perlu disahkan dengan label produk sebelum dijadikan rujukan klinikal.
-- **Hiperzinkemia**: Satu laporan kes mendapati hiperzinkemia selepas penggunaan topikal zink oksida pada bayi dengan dermatitis lampin. Dos dan kawasan aplikasi pada bayi baru lahir memerlukan langkah kawalan.
+**Hubungan kontraindikasi dalam graf pengetahuan** (bukan teks label; perlu disahkan dengan sisipan pakej): hipertensi, hiperplasia prostat benigna, anemia sel sabit, hiperoksaluria primer, hemokromatosis keturunan, hemosiderosis, penyakit metabolisme besi, penyakit Wilson, penyakit arteri koronari, sawan jantung mengejut, penyakit konduksi jantung, hipertiroidisme, penyakit Graves, tirotoksikosis dan kebimbangan (anxiety).
 
-Untuk maklumat amaran dan kontraindikasi lain, sila rujuk sisipan pek produk.
+Maklumat amaran utama, kontraindikasi berlabel dan interaksi ubat tidak ditemui dalam data yang dikumpulkan. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
+**Keputusan: Hold**
 
-**Rasional:**
-- Bagi dermatitis, terdapat percubaan rawak yang selesai (termasuk satu percubaan Fasa 4 dan satu percubaan rawak dengan zink oksida sebagai lengan langsung) serta kajian sistematik, tetapi ia merupakan indikasi sedia ada dan bukan pengitlakan semula yang sebenar. Skor TxGNN ialah 0.0, dan produk tidak dipasarkan di Malaysia.
-- Ramalan lain tidak disyorkan untuk diteruskan sekarang: proktitis (tiada percubaan atau literatur, Hold), ruam/exanthem (bukti tidak langsung, Hold), serta tinea pedis dan kandidiasis kutaneus (hanya kajian nanopartikel, praklinikal atau tidak langsung; sebagai soalan penyelidikan).
+**Justifikasi:**
+- Ramalan jerawat hanya disokong oleh skor model dan inferens mekanisme. Tiada ujian klinikal dan tiada penerbitan yang menguji zinc oxide secara langsung untuk jerawat, maka tahap bukti ialah L5.
 
-**Untuk meneruskan, perlu:**
-- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menyekat saringan keselamatan)
-- Data mekanisme tindakan terperinci (MOA) daripada DrugBank
-- Pengesahan lengan zink oksida dalam NCT00219466 dan keputusan terperinci percubaan
-- Garis panduan dos dan kawasan aplikasi untuk bayi baru lahir dan bayi, berikutan risiko hiperzinkemia
-- Pelan pendaftaran atau laluan peraturan tempatan, kerana tiada lesen berdaftar di Malaysia
-- Semakan reka bentuk dan keputusan kajian RCT zink oksida nanopartikel dalam larutan Whitfield (PMID 39871011) untuk tinea pedis
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Semakan sistematik literatur khusus untuk zinc oxide topikal dalam jerawat
+- Ujian klinikal terkawal untuk menilai keberkesanan dan keselamatan dalam jerawat
+- Pengesahan indikasi diluluskan sebenar produk tempatan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

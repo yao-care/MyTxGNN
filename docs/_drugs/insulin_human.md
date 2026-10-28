@@ -4,15 +4,17 @@ title: Insulin Human
 parent: Low Evidence (L4-L5)
 nav_order: 422
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Insulin Human: indikasi baharu diramal Ketoasidosis diabetes (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2"
+indication_count: 10
+monitor_inn: "Insulin Human"
+predicted_indications: ["autoimmune oophoritis", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy"]
+last_modified_at: 2026-10-23
+description: "Insulin Human: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Insulin Human
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,86 +33,79 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Insulin Human: Daripada Diabetes Mellitus Jenis 2 kepada Ketoasidosis Diabetes
+## Insulin Human: Autoimmune oophoritis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Insulin Human ialah hormon insulin rekombinan yang pada asalnya digunakan untuk merawat diabetes mellitus (jenis 1 dan jenis 2) serta ketoasidosis diabetes.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Ketoasidosis Diabetes**, tetapi skor ramalan ialah **0.00%** dan data yang dikumpulkan untuk laporan ini menunjukkan **0 ujian klinikal** dan **0 penerbitan** yang menyokong indikasi ini secara langsung.
+Insulin Human ialah hormon pengganti yang digunakan untuk merawat diabetes mellitus (jenis 1 dan jenis 2) serta ketoasidosis diabetes. Model TxGNN meramalkan ia mungkin berkesan untuk **autoimmune oophoritis**, tetapi data yang dikumpulkan untuk laporan ini menunjukkan **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini, jadi ramalan ini hanyalah ramalan model.
 
----
+## Gambaran Keseluruhan
 
-## Gambaran Ringkas
-
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Diabetes mellitus jenis 2 (data pendaftaran tempatan tiada teks indikasi; senarai indikasi asal diambil daripada graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Ketoasidosis diabetes |
-| Skor Ramalan TxGNN | 0.00% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Autoimmune oophoritis |
+| Skor Ramalan TxGNN | 0.9984 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Tangguh) |
-
-> **Nota penting:** Ketoasidosis diabetes, diabetes mellitus jenis 1 dan jenis 2 serta "IDDM 1" turut tersenarai sebagai indikasi asal dalam graf pengetahuan. Ramalan ini lebih tepat difahami sebagai pengesahan indikasi sedia ada, bukan pengalihan guna (repurposing) kepada penyakit yang benar-benar baharu.
-
----
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 22 daripada 22) |
+| Bilangan Pendaftaran | 22 (sah: 22) |
+| Bilangan Kelulusan | 22 pendaftaran |
+| Keputusan yang Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) daripada pangkalan data ubat belum tersedia. Namun, analisis biologi yang disusun untuk laporan ini menunjukkan asas yang kukuh. Dalam ketoasidosis diabetes, kekurangan insulin mencetuskan lipolisis tanpa kawalan, pembentukan keton (ketogenesis) dan glukoneogenesis hepatik. Insulin eksogen menekan proses-proses ini dan menggalakkan pengambilan glukosa serta kalium ke dalam sel.
+Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Insulin diketahui menggantikan kekurangan hormon dalam diabetes, dan tidak merawat autoimuniti ovari secara langsung.
 
-Hubungan dengan indikasi asal adalah rapat. Diabetes mellitus jenis 1 dan 2 serta ketoasidosis diabetes berkongsi punca asas yang sama, iaitu kekurangan atau ketakberkesanan insulin. Insulin Human mengikat reseptor insulin (reseptor tirosin kinase) dan mengaktifkan isyarat PI3K/Akt. Ini meningkatkan pengambilan glukosa melalui GLUT4 dalam otot dan tisu adipos serta menekan pengeluaran glukosa oleh hati.
+Hubungan yang mungkin tetapi belum disahkan ialah autoimmune oophoritis sering wujud bersama sindrom poliendokrin autoimun, termasuk diabetes jenis 1, yang berkongsi laluan autoimun dengan indikasi insulin sedia ada. Oleh sebab itu, alasan terapeutik langsung adalah lemah dan skor tinggi TxGNN (0.9984) datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
-Namun, skor TxGNN ialah 0.00%, tiada ujian klinikal dan tiada literatur khusus untuk indikasi ini dalam data yang dikumpulkan. Kemunasabahan ini berdasarkan mekanisme biologi sahaja, bukan bukti empirikal daripada data ini.
-
----
+Penyakit lain yang diramalkan dalam senarai ini (contohnya sindrom orang kaku, lipodistrofi setempat, pancreatic agenesis) juga tiada bukti klinikal. Sebahagiannya mungkin mencerminkan persamaan yang dipelajari model TxGNN (deep learning) antara penyakit berkaitan, bukan bukti biologi, dan lipodistrofi aruhan ubat mungkin mencerminkan kesan buruk suntikan insulin, bukan manfaat terapeutik.
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
-
----
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia untuk ketoasidosis diabetes.
+Buat masa ini tiada literatur berkaitan yang tersedia.
 
-Sebagai rujukan, indikasi lain dalam senarai ramalan (diabetes jenis 2, jenis 1 dan diabetes mellitus umum) mempunyai literatur yang lebih banyak. Ini termasuk beberapa kajian sistematik Cochrane dan garis panduan WHO (contohnya PMID [33166419](https://pubmed.ncbi.nlm.nih.gov/33166419/), [17443605](https://pubmed.ncbi.nlm.nih.gov/17443605/) dan [30178023](https://pubmed.ncbi.nlm.nih.gov/30178023/)), serta RCT insulin terhidu (inhaled) untuk diabetes jenis 1. Bukti ini tidak menyokong ketoasidosis diabetes secara langsung.
+## Maklumat Pasaran di Malaysia
 
----
+Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data. Lima pendaftaran utama disenaraikan:
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL21066008ASZ | Mixtard 30 FlexPen 100 IU/ml Suspension for Injection in Pre-filled Pen (Novo Nordisk) | Suspensi untuk suntikan | Tidak tersedia |
+| MAL21066007ASZ | Actrapid FlexPen 100 IU/ml Solution for Injection in Pre-filled Pen (Novo Nordisk) | Larutan untuk suntikan | Tidak tersedia |
+| MAL17107007ASZ | Actrapid 100 IU/ml Solution for Injection in Vial (Novo Nordisk) | Larutan untuk suntikan | Tidak tersedia |
+| MAL17107008ASZ | Insulatard 100 IU/ml Suspension for Injection in Vial (Novo Nordisk) | Suspensi untuk suntikan | Tidak tersedia |
+| MAL14015110AZ | INSUGEN-R (Regular) Insulin Injection, Soluble 100IU/mL (Biocon) | Larutan untuk suntikan | Tidak tersedia |
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat**: Sebanyak 100 interaksi direkodkan. Antara yang utama (tahap **Sederhana**):
+Sila rujuk sisipan pembungkusan untuk maklumat keselamatan, kerana amaran utama dan kontraindikasi tidak tersedia dalam data.
 
-- **Agen simpatomimetik/vasopresor**: fenilefrin, pseudoefedrin, epinefrin, salbutamol
-- **Penyekat beta**: asebutolol
-- **Ubat antidiabetik lain**: metformin, pioglitazon, alogliptin, albiglutid, alpelisib
-- **Hormon dan kortikosteroid**: hidrokortison, etinilestradiol, estradiol
-- **Lain-lain**: asetazolamida, hidroklorotiazid, benazepril, doksisiklin, etanol
+**Interaksi Ubat**: Pangkalan data interaksi merekodkan 100 interaksi, dan sebahagian disenaraikan di sini. Kebanyakannya bertahap sederhana, contohnya:
+- Phenylephrine, epinephrine, pseudoephedrine, salbutamol (agen simpatomimetik; boleh mengubah kawalan glukosa)
+- Acebutolol (penyekat beta; boleh menyembunyikan gejala hipoglisemia)
+- Hydrocortisone, estradiol, ethinylestradiol (boleh mengubah keperluan insulin)
+- Metformin, pioglitazone, alogliptin, albiglutide (ubat antidiabetik lain; risiko hipoglisemia tambahan)
+- Hydrochlorothiazide, acetazolamide, benazepril, doxycycline, ethanol, alpelisib
 
-Interaksi tahap **Ringan** termasuk hidrokortison topikal dan alklometason topikal.
-
-Maklumat amaran utama dan kontraindikasi daripada sisipan bungkusan (package insert) belum diperoleh. Sila rujuk sisipan bungkusan produk untuk maklumat tersebut.
-
----
+Interaksi tahap minor termasuk kortikosteroid topikal (hydrocortisone topikal, alclometasone topikal).
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tangguh)**
+**Keputusan: Hold**
 
 **Rasional:**
-- Bagi ketoasidosis diabetes, tahap bukti hanyalah L5 (ramalan model sahaja), dengan skor 0.00% dan tiada ujian klinikal atau literatur khusus. Ubat ini juga tidak dipasarkan di Malaysia (0 pendaftaran).
-- Indikasi diabetes lain mempunyai bukti tahap L1 dengan syor "Proceed with Guardrails". Namun, indikasi tersebut sudah termasuk dalam indikasi asal, jadi ia bukan pengalihan guna yang baharu.
+Tiada ujian klinikal atau literatur yang menyokong penggunaan insulin untuk autoimmune oophoritis. Insulin menggantikan hormon dan tidak merawat autoimuniti ovari, jadi ramalan ini hanyalah ramalan model (L5).
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan bungkusan daripada NPRA (amaran dan kontraindikasi), kerana ini masih menyekat saringan keselamatan.
-- Data mekanisme tindakan (MOA) terperinci daripada pangkalan data ubat.
-- Pengesahan semula skor ramalan TxGNN dan penilaian semula sama ada ketoasidosis diabetes wajar dianggap indikasi baharu.
-- Carian ujian klinikal dan literatur khusus untuk ketoasidosis diabetes.
-- Maklumat pendaftaran dan formulasi di Malaysia (termasuk keserasian laluan pemberian, contohnya intravena untuk ketoasidosis diabetes), kerana produk ini belum didaftarkan.
+- Kajian literatur atau kes klinikal yang mengkaji insulin secara langsung dalam autoimmune oophoritis
+- Data mekanisme tindakan (MOA) terperinci
+- Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA untuk saringan keselamatan
+- Penilaian sama ada isyarat ramalan hanya mencerminkan komorbiditi diabetes jenis 1, bukan indikasi baharu yang sebenar
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

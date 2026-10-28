@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Beclomethasone Dipropionate
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 125
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Beclomethasone Dipropionate: indikasi baharu diramal Asma (tahap bukti L1). Indikasi asal: Asma, asma intrinsik, asma alergi, rinitis alergi, rinitis vasomotor…"
+evidence_level: L5
+indication_count: 1
+monitor_inn: "Beclomethasone Dipropionate"
+predicted_indications: ["atopic eczema"]
+last_modified_at: 2026-10-23
+description: "Beclomethasone Dipropionate: indikasi baharu diramal Ekzema atopik (tahap bukti L5). Indikasi asal: Asma, asma intrinsik, asma alergi, rinitis alergi, rinitis vasomotor…"
 ---
 
 # Beclomethasone Dipropionate
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,109 +33,94 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-## Beclomethasone Dipropionate: Daripada Asma, Rinitis dan Polip Hidung kepada Asma (Pengesahan Indikasi Sedia Ada)
+## Beclomethasone Dipropionate: Daripada Asma dan Rinitis Alergi kepada Ekzema Atopik
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Beclomethasone dipropionate ialah kortikosteroid terhirup/intranasal yang digunakan untuk asma, rinitis alergi, rinitis vasomotor dan polip hidung.
-Model TxGNN meletakkan **asma** sebagai indikasi teratas, tetapi skor ramalannya ialah **0.00%**, jadi model ini tidak memberi sokongan ramalan.
-Asma sebenarnya ialah indikasi sedia ada, sehingga laporan ini mengesahkan penggunaan sedia ada dan bukan penemuan indikasi baharu.
-Bukti sokongan agak kukuh, iaitu **11 ujian klinikal** dan **20 penerbitan** (data yang dikumpulkan untuk laporan ini).
+Beclomethasone dipropionate ialah kortikosteroid yang pada asalnya digunakan untuk merawat asma dan rinitis alergi (termasuk rinitis vasomotor dan polip rongga hidung).
+Model TxGNN meramalkan ia mungkin berkesan untuk **ekzema atopik**,
+tetapi setakat ini **tiada ujian klinikal berdaftar** dan hanya **9 penerbitan** yang berkaitan secara tidak langsung atau terhad (kebanyakannya kajian lama, kecil atau berfokus pada keselamatan).
 
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Asma, asma intrinsik, asma alergi, rinitis alergi, rinitis vasomotor, polip rongga hidung (daripada graf pengetahuan; tiada teks indikasi berlesen kerana tiada pendaftaran tempatan) |
-| Indikasi Baharu yang Diramal | Asma |
-| Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails |
-
----
+| Indikasi Asal | Asma, asma intrinsik, asma alergi, rinitis alergi, rinitis vasomotor, polip rongga hidung, rinitis (hubungan yang direkodkan dalam graf pengetahuan TxGNN; teks label tempatan tidak tersedia) |
+| Indikasi Baharu yang Diramalkan | Ekzema atopik |
+| Skor Ramalan TxGNN | 0.9941 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 27 daripada 27) |
+| Bilangan Pendaftaran | 27 (sah: 27) |
+| Bilangan Kelulusan | 27 pendaftaran (15 produk tunggal, 12 produk kombinasi) |
+| Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan farmakologi yang diketahui, beclomethasone dipropionate ialah prodrug yang ditukar kepada metabolit aktif beclomethasone-17-monopropionate. Metabolit ini ialah agonis reseptor glukokortikoid yang menindas keradangan saluran pernafasan.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, beclomethasone dipropionate ialah glukokortikoid dengan aktiviti antiradang dan imunosupresif yang luas, iaitu penekanan sitokin dan sel keradangan melalui reseptor glukokortikoid. Penerangan ini disimpulkan daripada kelas ubat, bukan daripada data khusus ubat yang disahkan.
 
-Asma ialah indikasi sedia ada, jadi kes ini ialah pengesahan penggunaan sedia ada. Oleh sebab skor TxGNN ialah 0.00% dan data MOA tiada, hubungan mekanistik bergantung pada farmakologi yang diketahui, bukan pada ramalan model.
+Ekzema atopik ialah penyakit keradangan kulit yang condong kepada Th2, dan kortikosteroid topikal ialah rawatan piawai. Indikasi asal (asma alergi, rinitis alergi) juga berkongsi latar belakang atopik/Th2 yang sama, maka kesesuaian mekanistik adalah kukuh dan skor tinggi TxGNN kelihatan munasabah.
 
-Indikasi lain dalam senarai juga ialah indikasi asal:
-
-- **Asma alergi** (L1): hanya satu ujian Fasa 3 kecil khusus, tetapi dibantu program asma yang lebih luas.
-- **Rinitis** (L1): beberapa ujian Fasa 3 aerosol nasal dan satu kajian Fasa 4 pediatrik. Beberapa ujian Fasa 3 melibatkan mometasone atau produk lain dengan beclomethasone sebagai pembanding sahaja, jadi bukti langsungnya lebih sempit daripada jumlah ujian.
-- **Asma intrinsik** dan **rinitis vasomotor** (L3, "Research Question"): tiada ujian berdaftar. Sokongan datang daripada kajian lama (1970-an hingga 1990-an) yang kecil, kebanyakannya bukan rawak, dan beberapa ulasan.
-
----
+Namun, data klinikal untuk dermatitis atopik terhad kepada kajian lama dan kecil, termasuk beclomethasone oral pada kanak-kanak dengan penyakit sukar dirawat serta penggunaan topikal/pembalut oklusif dengan penilaian penyerapan sistemik. Tiada kajian yang disenaraikan menunjukkan keberkesanan yang disahkan secara langsung, maka tahap bukti ditetapkan pada L5.
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00861926](https://clinicaltrials.gov/study/NCT00861926) | Fasa 3 | Selesai | 1714 | 48 minggu, double-blind: Foster (beclomethasone/formoterol) sebagai penyelenggaraan dan pelega berbanding dos tetap ditambah salbutamol pada pesakit asma dewasa yang tidak terkawal sepenuhnya |
-| [NCT01577082](https://clinicaltrials.gov/study/NCT01577082) | Fasa 3 | Selesai | 542 | 12 minggu: CHF 1535 (BDP/formoterol) berbanding BDP sahaja pada dewasa yang tidak terkawal dengan ICS dos tinggi; hasil utama ialah perubahan PEF pagi |
-| [NCT03084718](https://clinicaltrials.gov/study/NCT03084718) | Fasa 2 | Selesai | 610 | 8 minggu, kajian julat dos 3 dos pMDI HFA-BDP, dikawal plasebo dan aktif, pada pesakit asma |
-| [NCT00413387](https://clinicaltrials.gov/study/NCT00413387) | Fasa 3 | Selesai | 219 | 12 minggu: BDP+formoterol pMDI berbanding budesonide+formoterol (Symbicort) pada asma berterusan sederhana hingga teruk |
-| [NCT01450774](https://clinicaltrials.gov/study/NCT01450774) | Fasa 3 | Selesai | 72 | Kajian silang keselamatan (knemometri dan kortisol air kencing) pada kanak-kanak asma: gabungan tetap BDP/formoterol berbanding gabungan bebas |
-| [NCT01141439](https://clinicaltrials.gov/study/NCT01141439) | N/A | Selesai | 815,377 | Kajian retrospektif dunia sebenar di UK: keberkesanan dan kos-keberkesanan Qvar (HFA-BDP) berbanding CFC-BDP dan fluticasone |
-| [NCT02040766](https://clinicaltrials.gov/study/NCT02040766) | Fasa 3 | Selesai | 628 | 12 minggu, dikawal plasebo: BDP 80 atau 160 mcg/hari melalui inhaler diaktifkan nafas atau MDI pada kanak-kanak 4–11 tahun dengan asma berterusan |
-| [NCT00109668](https://clinicaltrials.gov/study/NCT00109668) | Fasa 3 | Selesai | 415 | Dua dos QVAR berbanding plasebo melalui inhaler diaktifkan nafas dan MDI pada remaja dan dewasa asma sederhana |
-| [NCT00395408](https://clinicaltrials.gov/study/NCT00395408) | Fasa 4 | Selesai | 360 | 56 minggu: kesan montelukast, plasebo dan beclomethasone terhirup terhadap kadar pertumbuhan linear kanak-kanak asma ringan |
-
-Satu lagi ujian Fasa 3 (NCT03834012) telah ditarik balik dengan 0 peserta, jadi tidak menyumbang bukti.
-
----
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [41250537](https://pubmed.ncbi.nlm.nih.gov/41250537/) | 2025 | RCT | Zhongguo Dang Dai Er Ke Za Zhi | Keberkesanan dan keselamatan salbutamol terhirup bersama beclomethasone pada kanak-kanak asma bronkial |
-| [27510595](https://pubmed.ncbi.nlm.nih.gov/27510595/) | 2016 | Kajian klinikal | Allergy Asthma Proc | Keselamatan dan keberkesanan BDP melalui inhaler diaktifkan nafas atau MDI pada asma berterusan |
-| [28710850](https://pubmed.ncbi.nlm.nih.gov/28710850/) | 2017 | Kajian klinikal | Allergy Asthma Proc | Keberkesanan dan keselamatan BDP BAI/MDI pada pesakit pediatrik asma |
-| [9657561](https://pubmed.ncbi.nlm.nih.gov/9657561/) | 1998 | RCT (rawak, plasebo) | Eur Respir J | BDP dos rendah (336 µg/hari) pada 24 dewasa asma ringan–sederhana; kesan ke atas kawalan asma dan keradangan saluran udara |
-| [3516078](https://pubmed.ncbi.nlm.nih.gov/3516078/) | 1986 | RCT (double-blind) | Arch Dis Child | BDP nebulis pada 29 kanak-kanak prasekolah: skor gejala lebih rendah, lebih banyak hari bebas gejala |
-| [3194866](https://pubmed.ncbi.nlm.nih.gov/3194866/) | 1988 | Kajian silang rawak | Thorax | BDP terhirup berbanding prednisone oral ke atas responsiviti saluran udara pada 18 pesakit asma kronik |
-| [8334070](https://pubmed.ncbi.nlm.nih.gov/8334070/) | 1993 | Perbandingan/Ulasan | Br J Clin Pract | BDP dan budesonide dianggap setara dari segi keberkesanan terapeutik |
-| [9519232](https://pubmed.ncbi.nlm.nih.gov/9519232/) | 1998 | Meta-analisis | Respir Med | Fluticasone berbanding BDP dan budesonide pada separuh dos atau kurang, merangkumi keberkesanan dan aktiviti sistemik |
-| [36573485](https://pubmed.ncbi.nlm.nih.gov/36573485/) | 2022 | Ulasan | Recenti Prog Med | Keberkesanan dan keselamatan BDP secara nebulisasi |
-| [40219730](https://pubmed.ncbi.nlm.nih.gov/40219730/) | 2025 | Ulasan | Ther Adv Respir Dis | Triterapi BDP/formoterol/glycopyrronium extrafine dalam asma sukar dirawat |
+| [1476023](https://pubmed.ncbi.nlm.nih.gov/1476023/) | 1992 | Kajian klinikal | Acta Derm Venereol Suppl | Beclomethasone oral untuk dermatitis atopik sukar pada kanak-kanak: penyakit terkawal stabil pada 10/14 pesakit (dos purata 1000 mcg/hari), tetapi terdapat bukti perlahan pertumbuhan linear dan kesan pada fungsi adrenal |
+| [14522624](https://pubmed.ncbi.nlm.nih.gov/14522624/) | 2003 | Kajian klinikal | J Dermatol Treat | Pembalut basah oklusif steroid pada 8 kanak-kanak ekzema atopik: penilaian pertumbuhan jangka pendek dan pusing ganti tulang (fokus keselamatan) |
+| [374799](https://pubmed.ncbi.nlm.nih.gov/374799/) | 1979 | Kajian perbandingan | Nihon Hifuka Gakkai Zasshi | Kesan sistemik beclomethasone topikal berbanding betamethasone 17-valerate dan fluocinonide (keselamatan) |
+| [30911861](https://pubmed.ncbi.nlm.nih.gov/30911861/) | 2019 | Praklinikal | AAPS PharmSciTech | Misel beclomethasone dalam hidrogel pada model haiwan dermatitis sub-kronik; tiada data keberkesanan klinikal |
+| [8765824](https://pubmed.ncbi.nlm.nih.gov/8765824/) | 1996 | Kajian in vitro | J Allergy Clin Immunol | Steroid topikal meningkatkan penghasilan IgE spontan in vitro pada pesakit dermatitis atopik; isyarat yang berpotensi kurang baik |
+| [14616123](https://pubmed.ncbi.nlm.nih.gov/14616123/) | 2003 | Laporan klinikal/ulasan | Allergy | Alahan kortikosteroid dalam kalangan pesakit asma; kaitan tidak langsung |
+| [19571596](https://pubmed.ncbi.nlm.nih.gov/19571596/) | 2009 | Ulasan | Neuroimmunomodulation | Kortikosteroid intranasal dan penekanan adrenal; keselamatan, tidak langsung |
+| [11488426](https://pubmed.ncbi.nlm.nih.gov/11488426/) | 2001 | Ulasan | Jpn J Pharmacol | Ubat untuk penyakit alergi; kaitan tidak langsung |
+| [7813169](https://pubmed.ncbi.nlm.nih.gov/7813169/) | 1994 | Ulasan | Clin Ter | Alahan semasa kehamilan; kaitan tidak langsung |
 
----
+## Maklumat Pasaran Malaysia
 
-## Keselamatan
+Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Di bawah disenaraikan 5 daripada 27 pendaftaran produk tunggal yang sah.
 
-- **Kontraindikasi (daripada graf pengetahuan TxGNN, bukan teks label):** penyakit hati, penyakit pundi hempedu, campak, keratitis herpes simpleks, insufisiensi adrenokortikal, penyakit Addison, jangkitan varicella zoster, jangkitan kulat, dermatofitosis, hipertensi okular, glaukoma, jangkitan parasit, penyakit berjangkit, penyakit saluran pernafasan bawah dan atas, penyakit sinus paranasal, penyakit rongga hidung, jangkitan mikobakteria dan kusta.
-- **Interaksi ubat (49 interaksi direkodkan, sebahagian dipaparkan):**
-  - **Major:** desmopressin.
-  - **Sederhana:** acetazolamide, foscarnet, diuretik gelung dan tiazid (furosemide, bumetanide, hydrochlorothiazide, chlorthalidone dan lain-lain), amphotericin B (termasuk formulasi lipid dan liposom), capreomycin, cisplatin.
-  - **Minor:** formoterol, salbutamol, arformoterol.
-- **Isyarat keselamatan daripada literatur dan ujian:**
-  - Kandidiasis orofaring pada penggunaan terhirup (PMID 4606264 dan 1259918).
-  - Penindasan adrenal pada dos tinggi (PMID 6792963).
-  - Kesan ke atas pertumbuhan kanak-kanak, yang dinilai dalam NCT00395408 dan NCT01450774.
+| Nombor Kelulusan | Nama Produk | Pengilang |
+|---------|------|------|
+| MAL06111295AZ | Beclate-100 Inhaler (CFC Free) | Cipla Malaysia Sdn Bhd |
+| MAL19970047AZ | Beclomet Easyhaler 200mcg/dose Inhalation Powder | Orion Pharma (MY) Sdn. Bhd. |
+| MAL19973336AZ | Beclomet Nasal Aqua 50mcg/dose Nasal Spray | Orion Pharma (MY) Sdn. Bhd. |
+| MAL19971288ARZ | Beconase Aqueous Nasal Spray | GlaxoSmithKline Pharmaceutical Sdn. Bhd. |
+| MAL20000019ACZ | Qvar 100 Inhaler | iNova Pharmaceuticals (Singapore) Pte Ltd, Cawangan Malaysia |
 
----
+Nota: Produk yang didaftarkan ialah sedutan (inhaler) dan semburan hidung. Tiada produk topikal tunggal beclomethasone untuk ekzema disenaraikan di antara produk tunggal; krim kombinasi (contohnya Candid-B, Clomazol-B, Beclovid-C) mengandungi bahan aktif lain dan tidak boleh digunakan untuk menggambarkan status kelulusan ubat bahan tunggal ini.
+
+## Pertimbangan Keselamatan
+
+**Kontraindikasi yang direkodkan dalam graf pengetahuan (bukan teks label):** penyakit hati, penyakit pundi hempedu, campak, keratitis herpes simplex, insufisiensi adrenokortikal, penyakit Addison, jangkitan varicella zoster, penyakit jangkitan kulat, dermatofitosis, hipertensi okular, glaukoma, jangkitan parasit, penyakit berjangkit, penyakit saluran pernafasan bawah, penyakit sinus paranasal, penyakit rongga hidung, penyakit saluran pernafasan atas, penyakit jangkitan mikobakteria dan kusta.
+
+**Interaksi Ubat:** Sebanyak 49 interaksi direkodkan. Antara yang disenaraikan:
+- **Major:** Desmopressin
+- **Sederhana (Moderate):** Acetazolamide, foscarnet, furosemide, hydrochlorothiazide, bumetanide, chlorthalidone, cisplatin, capreomycin, serta pelbagai bentuk amphotericin B
+- **Ringan (Minor):** Formoterol, salbutamol, arformoterol
+
+**Isyarat keselamatan daripada literatur:** Kajian pada kanak-kanak melaporkan perlahan pertumbuhan linear dan kesan pada fungsi adrenal dengan beclomethasone oral dos tinggi, serta penilaian penyerapan sistemik dengan penggunaan topikal/oklusif.
+
+Untuk amaran dan kontraindikasi daripada label, sila rujuk sisipan pakej.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Hold**
 
 **Justifikasi:**
-- Asma, rinitis alergi dan asma alergi disokong oleh banyak ujian Fasa 3 dan program klinikal yang luas (L1), tetapi ini ialah pengesahan penggunaan sedia ada. Skor TxGNN 0.00% tidak menyumbang sokongan ramalan.
-- Asma intrinsik dan rinitis vasomotor hanya disokong bukti lama dan terhad (L3), jadi kekal sebagai persoalan penyelidikan.
+Kesesuaian mekanistik adalah kukuh dan skor TxGNN tinggi, tetapi tiada ujian klinikal berdaftar dan tiada kajian yang disenaraikan menilai keberkesanan beclomethasone dipropionate pada ekzema atopik secara langsung dengan kualiti yang mencukupi. Bukti sedia ada ialah lama, kecil atau berfokus pada keselamatan, maka tahap bukti kekal L5. Alternatif kortikosteroid topikal yang mantap juga sudah tersedia untuk indikasi ini.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (kini tiada; menghalang saringan keselamatan peringkat seterusnya).
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
-- Pengesahan status pasaran "tidak dipasarkan" bagi formulasi tertentu (inhaler HFA, bentuk nebulisasi, semburan nasal) di Malaysia sebelum sebarang tindakan.
-- Pelan pemantauan keselamatan untuk populasi khusus (kanak-kanak: pertumbuhan dan paksi HPA; penggunaan dos tinggi jangka panjang).
-- Semakan bukti langsung untuk rinitis dan asma alergi, kerana beberapa ujian menggunakan beclomethasone hanya sebagai pembanding.
+- Data keberkesanan daripada ujian terkawal rawak pada ekzema atopik
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Pengesahan formulasi topikal dan laluan pentadbiran yang sesuai untuk pasaran Malaysia
+- Pelan pemantauan keselamatan (pertumbuhan dan fungsi adrenal), terutamanya pada kanak-kanak
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

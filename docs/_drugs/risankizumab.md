@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 623
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Risankizumab: indikasi baharu diramal Dermatitis (tahap bukti L2). Indikasi asal: Tiada data dalam rekod lesen tempatan"
 monitor_inn: "Risankizumab"
-predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
+predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
+last_modified_at: 2026-10-23
+description: "Risankizumab: indikasi baharu diramal Dermatitis (tahap bukti L2). Indikasi asal: Tidak dinyatakan dalam teks lesen tempatan"
 ---
 
 # Risankizumab
@@ -33,13 +33,12 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-## Risankizumab: Daripada Indikasi Asal (Tiada Data) kepada Dermatitis
+## Risankizumab: Daripada Indikasi Asal kepada Dermatitis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Data yang dikumpulkan untuk laporan ini tidak mencatatkan sebarang indikasi asal bagi Risankizumab, kerana tiada lesen berdaftar ditemui di Malaysia. Secara umumnya, Risankizumab ialah antibodi monoklonal anti-IL-23 (subunit p19) yang telah diluluskan di peringkat global untuk psoriasis, artritis psoriatik dan penyakit Crohn.
-Model TxGNN meramalkan ia mungkin berkesan untuk **dermatitis**, dengan **2 ujian klinikal** dan **20 penerbitan** berkaitan. Namun, ujian Fasa 2 yang paling relevan (atopik dermatitis) tidak menunjukkan keberkesanan yang bermakna.
+Risankizumab ialah antibodi monoklonal yang menyasarkan subunit p19 IL-23 dan dipasarkan di Malaysia di bawah nama Skyrizi. Teks indikasi dalam rekod lesen tempatan tidak tersedia, jadi indikasi asalnya tidak dapat disahkan daripada data tempatan. Model TxGNN meramalkan ia mungkin berkesan untuk **dermatitis**, dengan **2 percubaan klinikal** (satu ialah RCT Fasa 2 yang telah selesai dalam dermatitis atopik) dan **20 penerbitan** yang berkaitan. Hasil efikasi RCT tersebut belum disahkan dalam data yang dikumpulkan.
 
 ---
 
@@ -47,34 +46,32 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **dermatitis**, dengan **2 ujia
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data dalam rekod lesen tempatan |
-| Indikasi Baharu yang Diramal | Dermatitis |
-| Skor Ramalan TxGNN | 99.98% |
+| Indikasi Asal | Tidak dinyatakan dalam teks lesen tempatan |
+| Indikasi Baharu yang Diramalkan | Dermatitis |
+| Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
-**Nota penting:** Status "tidak dipasarkan" di Malaysia dan ketiadaan indikasi asal bercanggah dengan bukti Fasa 3 yang meluas serta kelulusan global pada 2019 (PMID 31098898). Status pendaftaran perlu disahkan semula dengan sumber NPRA sebelum sebarang kesimpulan dibuat.
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
-## Mengapa Ramalan Ini Munasabah (atau Tidak)?
+## Mengapa Ramalan Ini Munasabah?
 
-Risankizumab mengikat subunit p19 IL-23 secara selektif dan menyekat paksi Th17/IL-23 (termasuk isyarat hiliran IL-17/IL-22). Paksi ini penting dalam psoriasis dan sesetengah penyakit keradangan kulit yang lain.
+Risankizumab (Skyrizi) ialah antibodi monoklonal IgG yang dihumanisasi dan menyasarkan subunit p19 IL-23. Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan, jadi penerangan ini berdasarkan kajian literatur yang diterbitkan. Kajian tersebut melaporkan bahawa ubat ini diluluskan di peringkat global untuk penyakit kulit autoimun seperti psoriasis, tetapi ini bukan teks label tempatan di Malaysia.
 
-Hubungan dengan dermatitis adalah lemah. Atopik dermatitis didorong terutamanya oleh laluan Th2, dan penyekatan IL-23 menunjukkan keberkesanan terhad. Ujian Fasa 2 NCT03706040 (hasil diterbitkan dalam PMID 36588137) tidak menunjukkan keberkesanan yang bermakna. Selain itu, ekzema paradoksikal telah dilaporkan semasa rawatan dengan perencat IL-17/IL-23, termasuk risankizumab, dengan insiden dianggarkan 1–3% dalam kalangan pesakit psoriasis.
+Isyarat IL-23/Th17 menyumbang kepada keradangan dalam sesetengah fenotip dermatitis, terutamanya dermatitis berbentuk psoriasis dan penyakit campuran psoriasis-atopik. Bagi dermatitis atopik klasik yang didominasi Th2, asas mekanismenya lebih lemah. RCT Fasa 2 (PMID 36588137) menguji hipotesis ini secara langsung pada dermatitis atopik sederhana-teruk. Hasil lengkapnya perlu disahkan sebelum sebarang kesimpulan dibuat.
 
-Sesetengah subjenis dermatitis yang berkaitan psoriasis (contohnya akrodermatitis kontinua Hallopeau) menunjukkan laporan kes yang positif, tetapi bukti ini masih terhad kepada laporan kes.
+Laporan siri kes tentang penggunaan bersama dupilumab dan risankizumab dalam dermatitis atopik dan psoriasis yang wujud serentak (PMID 39668419) menunjukkan peranan niche pada penyakit bertindih, bukan sebagai monoterapi dermatitis atopik. Beberapa laporan kes juga menerangkan ruam ekzematus semasa rawatan risankizumab (dikenali sebagai ekzema paradoks). Ini menunjukkan ubat ini kadangkala boleh mencetuskan dermatitis, bukan hanya merawatnya.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03706040](https://clinicaltrials.gov/study/NCT03706040) | Fasa 2 | Selesai | 172 | Ujian rawak, buta dua, terkawal plasebo untuk atopik dermatitis sederhana–teruk; hasil tidak menunjukkan keberkesanan bermakna |
-| [NCT07352566](https://clinicaltrials.gov/study/NCT07352566) | Fasa 4 | Belum merekrut | 10 | Kajian peranti mikro kulit (eksploratori); tiada bukti keberkesanan |
+| [NCT03706040](https://clinicaltrials.gov/study/NCT03706040) | Fasa 2 | Selesai | 172 | Kajian rawak, terkawal plasebo, buta berganda risankizumab pada dewasa dan remaja dengan dermatitis atopik sederhana-teruk. Hasil efikasi tidak dinyatakan dalam data yang tersedia. |
+| [NCT07352566](https://clinicaltrials.gov/study/NCT07352566) | Fasa 4 | Belum merekrut | 10 | Kajian mikroperanti kulit in situ untuk menguji ubat pada dermatitis atopik dan psoriasis. Ini kajian kaedah/penghantaran, bukan percubaan efikasi risankizumab, maka kaitannya rendah. |
 
 ---
 
@@ -82,54 +79,60 @@ Sesetengah subjenis dermatitis yang berkaitan psoriasis (contohnya akrodermatiti
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [36588137](https://pubmed.ncbi.nlm.nih.gov/36588137/) | 2023 | RCT | Dermatol Ther | Risankizumab dalam atopik dermatitis sederhana–teruk (Fasa 2, plasebo terkawal) |
-| [40856907](https://pubmed.ncbi.nlm.nih.gov/40856907/) | 2025 | Kajian sistematik | Am J Clin Dermatol | Terapi sistemik untuk psoriasis eritrodermik |
-| [40794374](https://pubmed.ncbi.nlm.nih.gov/40794374/) | 2025 | Kajian sistematik | Inflammopharmacology | Perencat interleukin dalam lichen planus: kesan terapeutik dan paradoksikal |
-| [41822639](https://pubmed.ncbi.nlm.nih.gov/41822639/) | 2026 | Kajian sistematik | Cureus | Hasil kardiovaskular terapi biologik dalam penyakit dermatologi keradangan |
-| [31098898](https://pubmed.ncbi.nlm.nih.gov/31098898/) | 2019 | Kajian | Drugs | Kelulusan global pertama Risankizumab (Jepun, 2019) |
-| [39201826](https://pubmed.ncbi.nlm.nih.gov/39201826/) | 2024 | Kajian naratif | Children (Basel) | Biologik untuk alopecia areata, psoriasis, atopik dermatitis dan HS pediatrik |
-| [33078990](https://pubmed.ncbi.nlm.nih.gov/33078990/) | 2020 | Kajian | Expert Opin Biol Ther | Biologik semasa dan baharu untuk atopik dermatitis pediatrik |
-| [39668419](https://pubmed.ncbi.nlm.nih.gov/39668419/) | 2025 | Siri kes/kohort | Int J Dermatol | Dupilumab + risankizumab dalam atopik dermatitis dan psoriasis serentak |
-| [41645692](https://pubmed.ncbi.nlm.nih.gov/41645692/) | 2026 | Laporan kes | Dermatol Rep | Upadacitinib untuk ekzema paradoksikal akibat perencat IL-23 |
-| [33185530](https://pubmed.ncbi.nlm.nih.gov/33185530/) | 2020 | Laporan kes | Eur J Dermatol | Erupsi ekzematus pada pesakit psoriasis semasa rawatan risankizumab |
-
----
-
-## Bukti Bagi Indikasi Lain yang Diramal
-
-Bagi **psoriasis** (kedudukan 7), terdapat bukti kukuh: beberapa ujian Fasa 3 selesai (contohnya UltIMMa-1/2, IMMvent, IMMhance, IMMerge) dan meta-analisis rangkaian. Tahap bukti L1 dan cadangan "Proceed with Guardrails". Ini bukan penemuan repurposing sebenar, kerana ia sejajar dengan penggunaan yang telah disahkan.
-
-Indikasi lain dalam senarai ramalan (dermatomiositis neonatal, dermatomiositis amiopatik, akrodermatitis kronik atrofikans, akne keloid, penyakit paru interstisial kanak-kanak, hidroa vaciniforme, retinopati diabetik bukan proliferatif teruk) hanya berasaskan ramalan model (L5) tanpa ujian atau literatur sokongan. Parapsoriasis (L4) mempunyai kebolehpercayaan tidak langsung sahaja, dengan risiko menyembunyikan perkembangan limfoma sel T kutaneus.
+| [36588137](https://pubmed.ncbi.nlm.nih.gov/36588137/) | 2023 | RCT | Dermatology and Therapy | Kajian Fasa 2, rawak, buta berganda, terkawal plasebo risankizumab pada dermatitis atopik sederhana-teruk. Rasional ialah penglibatan laluan Th2, Th22 dan mungkin Th17. Hasil perlu disemak dalam teks penuh. |
+| [40856907](https://pubmed.ncbi.nlm.nih.gov/40856907/) | 2025 | Kajian sistematik | American Journal of Clinical Dermatology | Rawatan sistemik untuk psoriasis eritrodermik, yang perlu dibezakan daripada dermatitis atopik. |
+| [40794374](https://pubmed.ncbi.nlm.nih.gov/40794374/) | 2025 | Kajian sistematik | Inflammopharmacology | Kesan terapeutik dan paradoks perencat interleukin dalam lichen planus. |
+| [39201826](https://pubmed.ncbi.nlm.nih.gov/39201826/) | 2024 | Ulasan | Children | Ulasan naratif biologik untuk alopecia areata, psoriasis, dermatitis atopik dan hidradenitis suppurativa pediatrik. |
+| [33078990](https://pubmed.ncbi.nlm.nih.gov/33078990/) | 2020 | Ulasan | Expert Opinion on Biological Therapy | Biologik semasa dan baharu untuk dermatitis atopik pediatrik. |
+| [31098898](https://pubmed.ncbi.nlm.nih.gov/31098898/) | 2019 | Ulasan | Drugs | Ulasan kelulusan global pertama risankizumab, antibodi anti-p19 IL-23. |
+| [39668419](https://pubmed.ncbi.nlm.nih.gov/39668419/) | 2025 | Siri kes/kohort | International Journal of Dermatology | Keberkesanan dan keselamatan dupilumab bersama risankizumab dalam dermatitis atopik dan psoriasis serentak. |
+| [41645692](https://pubmed.ncbi.nlm.nih.gov/41645692/) | 2026 | Laporan kes | Dermatology Reports | Upadacitinib untuk ekzema paradoks akibat perencat IL-23, termasuk risankizumab. |
+| [33185530](https://pubmed.ncbi.nlm.nih.gov/33185530/) | 2020 | Laporan kes | European Journal of Dermatology | Erupsi ekzematus pada pesakit psoriasis semasa rawatan risankizumab. |
+| [37014149](https://pubmed.ncbi.nlm.nih.gov/37014149/) | 2023 | Laporan kes | Journal of Cutaneous Medicine and Surgery | Tiga pesakit psoriasis dengan reaksi ekzematus akibat brodalumab diurus dengan beralih kepada risankizumab. |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Tiada lesen berdaftar ditemui di Malaysia untuk Risankizumab dalam data yang dikumpulkan.
+| Nombor Kelulusan | Nama Produk | Pengilang |
+|---------|------|------|
+| MAL22086006ACRZ | Skyrizi solution for injection in pre-filled pen 150MG/ML | AbbVie Sdn Bhd |
+| MAL22086005ACRZ | Skyrizi solution for injection in pre-filled syringe 150MG/ML | AbbVie Sdn Bhd |
+| MAL25016004ACRZ | Skyrizi Solution for Injection in Pre-filled Cartridge with On-body Injector 360mg/2.4mL | AbbVie Sdn Bhd |
+| MAL25016005ACRZ | Skyrizi Concentrate for Solution for Infusion 600mg/10mL | AbbVie Sdn Bhd |
+
+Keempat-empat pendaftaran ialah produk bahan tunggal yang sah. Teks indikasi yang diluluskan tidak tersedia dalam rekod yang dikumpulkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Interaksi Ubat:** 78 interaksi dikenal pasti. Antara yang bertahap **Major**: adalimumab, baricitinib, certolizumab pegol, cladribine. Antara yang bertahap **Moderate**: tacrolimus, siklosporin, azatioprin, roflumilast, anakinra, kanakinumab, denosumab, alefacept, alemtuzumab, dan beberapa vaksin (toksoid tetanus, antraks, kolera hidup). Interaksi **Minor** melibatkan sebatian zink.
-- **Kesan sampingan kulit:** Ekzema paradoksikal dilaporkan dengan perencat IL-23 (anggaran 1–3%).
+- **Interaksi Ubat**: Sebanyak 78 interaksi direkodkan. Antara yang dipaparkan:
+  - **Major**: adalimumab, baricitinib, certolizumab pegol, cladribine.
+  - **Sederhana (Moderate)**: roflumilast, takrolimus, azatioprin, siklosporin, anakinra, alemtuzumab, denosumab, kanakinumab, alefacept, serta beberapa vaksin (toksoid tetanus, vaksin antraks, vaksin kolera hidup).
+  - **Minor**: pelbagai garam zink.
+- Gabungan dengan agen imunosupresif lain perlu dinilai dengan teliti. Penggunaan vaksin hidup perlu ditimbang.
+- Kes ekzema paradoks yang dilaporkan semasa rawatan perencat IL-23 perlu diambil kira dalam pemantauan.
 
-Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek kerana data tersebut tidak tersedia.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ujian Fasa 2 dalam atopik dermatitis tidak menunjukkan keberkesanan yang bermakna, dan mekanisme Th2 tidak sepadan dengan penyekatan IL-23. Laporan ekzema paradoksikal menambah kebimbangan.
+- Terdapat satu RCT Fasa 2 yang telah selesai dalam dermatitis atopik (subjenis dermatitis), maka tahap bukti ialah L2. Hasil efikasinya belum disahkan, dan asas mekanisme IL-23 untuk dermatitis atopik yang didominasi Th2 adalah lemah.
+- Data keselamatan daripada sisipan pek tempatan masih tiada, jadi tidak dapat diteruskan ke penapisan keselamatan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Pengesahan status pendaftaran dan indikasi sebenar di NPRA (data semasa bercanggah dengan bukti global)
-- Sisipan pakej NPRA bagi amaran dan kontraindikasi (jurang data yang menyekat saringan keselamatan)
-- Data mekanisme tindakan terperinci daripada DrugBank
-- Analisis sub-kumpulan dermatitis yang berkaitan paksi Th17/IL-23 (contohnya akrodermatitis kontinua) sebelum mempertimbangkan kajian lanjut
+- Muat turun dan huraikan sisipan pek NPRA untuk amaran dan kontraindikasi, termasuk indikasi yang diluluskan di Malaysia.
+- Sahkan hasil efikasi dan keselamatan NCT03706040 / PMID 36588137 daripada teks penuh.
+- Lengkapkan data mekanisme tindakan (contohnya daripada DrugBank).
+- Tentukan subjenis dermatitis sasaran (contohnya penyakit campuran psoriasis-atopik) dan kaji risiko ekzema paradoks.
+
+Sembilan indikasi lain yang diramalkan (antaranya dermatomiositis neonatal, dermatomiositis amiopatik dan retinopati diabetik bukan proliferatif teruk) tidak mempunyai percubaan klinikal atau literatur sokongan. Tahap buktinya L5 dan disyorkan Hold.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

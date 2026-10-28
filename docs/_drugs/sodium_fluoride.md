@@ -6,9 +6,9 @@ nav_order: 652
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Sodium Fluoride: indikasi baharu diramal Epiglotitis (tahap bukti L5). Indikasi asal: Gangguan kekurangan vitamin (berdasarkan graf pengetahuan PrimeKG)"
 monitor_inn: "SODIUM FLUORIDE"
 predicted_indications: ["epiglottitis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "laryngitis"]
+description: "Sodium Fluoride: indikasi baharu diramal Epiglotitis (epiglottitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Sodium Fluoride
@@ -33,12 +33,11 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-## Natrium Fluorida: Daripada Kekurangan Vitamin kepada Epiglotitis
+## Sodium Fluoride: Epiglotitis (epiglottitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Natrium fluorida (sodium fluoride) pada asalnya dikaitkan dengan indikasi gangguan kekurangan vitamin dalam data graf pengetahuan yang digunakan.
 Model TxGNN meramalkan ia mungkin berkesan untuk **epiglotitis**, tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan yang relevan** menyokong ramalan ini (tahap bukti **L5**, ramalan model sahaja).
 
 ---
@@ -47,19 +46,19 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **epiglotitis**, tetapi pada ma
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Gangguan kekurangan vitamin (berdasarkan graf pengetahuan PrimeKG) |
-| Indikasi Baharu yang Diramalkan | Epiglotitis |
-| Skor Ramalan TxGNN | 99.92% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Epiglotitis (epiglottitis) |
+| Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) natrium fluorida tidak tersedia buat masa ini. Skor model yang tinggi (0.999) hanyalah ramalan berasaskan graf dan bukan bukti klinikal.
+Data terperinci mengenai mekanisme tindakan (MOA) natrium fluorida tidak tersedia buat masa ini. Skor model yang tinggi (0.9992) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi mahupun bukti klinikal.
 
 Epiglotitis ialah jangkitan bakteria akut pada saluran pernafasan (biasanya *Haemophilus influenzae*) dan sudah mempunyai rawatan antibiotik piawai. Natrium fluorida tidak mempunyai peranan antibakteria yang mapan dalam keadaan ini. Oleh itu, tiada hubungan mekanistik yang disokong oleh data, dan kebolehgunaan mekanismenya untuk indikasi baharu ini tidak dapat disahkan.
 
@@ -83,7 +82,6 @@ Pada masa ini tiada literatur berkaitan tersedia untuk epiglotitis.
 
 ## Maklumat Pasaran Malaysia
 
-Natrium fluorida tidak dipasarkan di Malaysia dan tiada lesen berdaftar.
 
 ---
 
@@ -100,7 +98,7 @@ Data interaksi ubat tidak ditemui. Sila rujuk sisipan pembungkusan untuk makluma
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan ini hanya berasaskan model (L5) tanpa ujian klinikal, tanpa literatur sokongan dan tanpa hubungan mekanistik yang munasabah. Epiglotitis sudah mempunyai rawatan antibiotik piawai, dan ubat ini tidak dipasarkan di Malaysia.
+- Ramalan ini hanya berasaskan model (L5) tanpa ujian klinikal, tanpa literatur sokongan dan tanpa hubungan mekanistik yang munasabah.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA (jurang data yang menghalang saringan keselamatan)

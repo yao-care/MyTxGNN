@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 77
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Amylmetacresol: indikasi baharu diramal Sindrom cauda equina (tahap bukti L5). Indikasi asal: Tiada data indikasi yang diluluskan dalam data yang dikumpulkan (seca…"
 monitor_inn: "Amylmetacresol"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "ciliary body disease", "panuveitis (disease)", "iris disease", "infectious anterior uveitis", "uveitis", "ciliary body cancer", "benign neoplasm of ciliary body"]
+last_modified_at: 2026-10-27
+description: "Amylmetacresol: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Amylmetacresol
@@ -33,78 +33,60 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Amylmetacresol: Daripada Antiseptik Topikal kepada Sindrom Cauda Equina
+## Amylmetacresol: antiseptik topikal untuk tekak → Sindrom cauda equina (cauda equina syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Amylmetacresol ialah antiseptik topikal yang lazimnya digunakan dalam pelega tekak (lozenge) untuk keradangan orofaring, namun data pendaftaran tempatan tidak merekodkan indikasi asal yang rasmi.
-Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom cauda equina** dengan skor tinggi, tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini.
-Ramalan ini bersifat pengiraan semata-mata dan belum mempunyai asas bukti.
+Amylmetacresol ialah antiseptik topikal yang biasa digunakan dalam lozenj tekak.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom cauda equina (cauda equina syndrome)**, tetapi pada masa ini **tiada kajian klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini bersifat pengiraan semata-mata.
 
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan Pantas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi yang diluluskan dalam data yang dikumpulkan (secara umum digunakan sebagai antiseptik pelega tekak) |
-| Indikasi Baharu yang Diramalkan | Sindrom cauda equina |
-| Skor Ramalan TxGNN | 99.99% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom cauda equina (cauda equina syndrome) |
+| Skor Ramalan TxGNN | 0,9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Tahan) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 20 daripada 20) |
+| Bilangan Pendaftaran | 20 (sah: 20) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
----
+## Mengapa Ramalan Ini Munasabah?
 
-## Mengapa Ramalan Ini Munasabah (atau Tidak)?
+Data terperinci tentang mekanisme tindakan amylmetacresol tidak tersedia pada masa ini. Ia dikenali sebagai antiseptik topikal dalam lozenj tekak, tetapi tiada pautan mekanistik yang dapat ditubuhkan dengan sindrom cauda equina.
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, amylmetacresol ialah antiseptik topikal yang digunakan dalam pelega tekak untuk kegunaan orofaring. Tiada hubungan mekanistik yang jelas dengan sindrom cauda equina dapat dibuktikan.
+Sindrom cauda equina ialah kecemasan neurologi akibat mampatan saraf yang biasanya memerlukan dekompresi pembedahan. Antiseptik topikal tidak mempunyai peranan terapeutik yang munasabah dalam keadaan ini. Skor yang sangat tinggi (0,9999) ialah ramalan pengiraan sahaja dan tidak boleh dianggap sebagai bukti keberkesanan.
 
-Sindrom cauda equina ialah kecemasan neurologi akibat mampatan yang lazimnya memerlukan dekompresi pembedahan. Antiseptik topikal tidak mempunyai peranan terapeutik yang munasabah dalam keadaan ini. Skor TxGNN yang sangat tinggi (0.9999) hanyalah ramalan pengiraan dan tidak boleh dianggap sebagai bukti keberkesanan.
+## Bukti Ujian Klinikal
 
-Ramalan lain dalam senarai (contohnya pundi kencing neurogenik yang usang, sindrom usus rengsa, dan pelbagai penyakit mata seperti uveitis) juga tidak mempunyai bukti sokongan. Banyak ramalan berkaitan mata kelihatan membentuk satu kelompok yang mungkin merupakan artifak rangkaian pengetahuan, bukan biologi khusus penyakit.
-
----
-
-## Bukti Percubaan Klinikal
-
-Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
-
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan tersedia.
 
----
-
 ## Maklumat Pasaran Malaysia
 
-Menurut data yang dikumpulkan, amylmetacresol tidak mempunyai sebarang pendaftaran NPRA yang direkodkan (0 lesen) dan statusnya ialah tidak dipasarkan.
-
----
+Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran "Dipasarkan", dengan 20 lesen sah dan tiada lesen dibatalkan. Butiran lesen individu tidak disenaraikan dalam data yang ada.
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah pek (package insert) untuk maklumat keselamatan. Tiada interaksi ubat direkodkan dalam data yang dikumpulkan.
-
----
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada interaksi ubat direkodkan dalam data yang dikumpulkan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tahan)**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal, literatur, atau hubungan mekanistik yang munasabah. Sindrom cauda equina memerlukan dekompresi pembedahan, dan tiada pendaftaran tempatan wujud untuk ubat ini.
+Ramalan ini tidak disokong oleh sebarang ujian klinikal, literatur atau pautan mekanistik, dan keadaan sasaran memerlukan rawatan pembedahan kecemasan yang tidak boleh digantikan oleh antiseptik topikal.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Risalah pek dan data amaran/kontraindikasi (jurang data yang menghalang saringan keselamatan)
-- Data mekanisme tindakan (MOA) daripada sumber seperti DrugBank
-- Bukti praklinikal atau literatur yang menghubungkan amylmetacresol dengan patologi neurologi sasaran
-- Penilaian kebolehlaksanaan laluan pentadbiran, memandangkan ubat ini direka untuk kegunaan orofaring topikal
-- Pertimbangan semula kandidat indikasi lain yang lebih munasabah secara biologi berbanding ramalan peringkat teratas
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Sebarang bukti praklinikal atau klinikal yang mengkaji penyakit ini secara langsung
+- Penilaian kebolehlaksanaan laluan pentadbiran
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

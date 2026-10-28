@@ -3,7 +3,7 @@ layout: default
 title: Vasopressin
 parent: Low Evidence (L4-L5)
 nav_order: 720
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Vasopressin: indikasi baharu diramal Kekurangan protrombin kongenital (tahap bukti L4). Indikasi asal: Tiada data (tiada lesen NPRA berdaftar)"
@@ -14,7 +14,7 @@ predicted_indications: ["congenital prothrombin deficiency", "drug-induced osteo
 # Vasopressin
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **2** 
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ tetapi kini hanya terdapat **0 percubaan klinikal** dan **3 penerbitan** (kebany
 |------|------|
 | Indikasi Asal | Tiada data (tiada lesen NPRA berdaftar) |
 | Indikasi Baharu yang Diramalkan | Kekurangan protrombin kongenital |
-| Skor Ramalan TxGNN | 99.63% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9963 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -62,7 +62,7 @@ tetapi kini hanya terdapat **0 percubaan klinikal** dan **3 penerbitan** (kebany
 
 Data terperinci mengenai mekanisme tindakan asal vasopresin tidak tersedia dalam data yang dikumpulkan. Namun, vasopresin dan analognya, desmopresin (DDAVP), diketahui bertindak pada reseptor V2 untuk merembeskan faktor von Willebrand dan faktor VIII daripada simpanan endotelium.
 
-Mekanisme ini relevan untuk kekurangan faktor VIII serta kekurangan gabungan faktor V dan VIII. Walau bagaimanapun, ia **tidak meningkatkan protrombin (faktor II) secara langsung**. Skor TxGNN yang tinggi (0.996) berkemungkinan besar didorong oleh kedekatan rangkaian dengan kekurangan faktor pembekuan lain, bukan oleh hubungan mekanistik langsung dengan protrombin.
+Mekanisme ini relevan untuk kekurangan faktor VIII serta kekurangan gabungan faktor V dan VIII. Walau bagaimanapun, ia **tidak meningkatkan protrombin (faktor II) secara langsung**. Skor TxGNN yang tinggi (0.9963) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, seperti kekurangan faktor pembekuan lain, bukan bukti biologi atau hubungan mekanistik langsung dengan protrombin.
 
 Perlu diingat juga bahawa literatur yang diperoleh berkaitan desmopresin, iaitu analog sintetik, bukan vasopresin asli. Oleh itu, hubungan antara indikasi asal dengan indikasi baharu ini masih lemah dan belum disahkan.
 
@@ -119,7 +119,7 @@ Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pembungkusan.
 
 ## Catatan: Ramalan Kedua (Pertimbangan Tambahan)
 
-**Osteoporosis aruhan ubat (drug-induced osteoporosis)** mempunyai skor TxGNN 99.62%, tetapi bukti hanya pada tahap L5 (ramalan model sahaja) tanpa percubaan klinikal atau literatur. Reseptor vasopresin (V1a, V2) dilaporkan wujud pada sel tulang dalam kajian praklinikal, dan perubahan isyarat vasopresin atau hiponatremia dikaitkan dengan kehilangan tulang. Arah kesannya tidak jelas dan mungkin merugikan, bukan melindungi. Syor: **Hold**.
+**Osteoporosis aruhan ubat (drug-induced osteoporosis)** mempunyai skor TxGNN 0.9962, tetapi bukti hanya pada tahap L5 (ramalan model sahaja) tanpa percubaan klinikal atau literatur. Reseptor vasopresin (V1a, V2) dilaporkan wujud pada sel tulang dalam kajian praklinikal, dan perubahan isyarat vasopresin atau hiponatremia dikaitkan dengan kehilangan tulang. Arah kesannya tidak jelas dan mungkin merugikan, bukan melindungi. Syor: **Hold**.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

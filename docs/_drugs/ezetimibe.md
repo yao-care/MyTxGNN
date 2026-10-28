@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Ezetimibe
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 348
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Ezetimibe: indikasi baharu diramal Sitosterolemia (tahap bukti L1). Indikasi asal: Hiperlipidemia (termasuk hiperlipidemia familial dan hiperkolesterole…"
+evidence_level: L5
+indication_count: 1
+monitor_inn: "Ezetimibe"
+predicted_indications: ["cholesterol-ester transfer protein deficiency"]
+last_modified_at: 2026-10-23
+description: "Ezetimibe: indikasi baharu diramal Kekurangan protein pemindahan ester kolesterol (CETP) (tahap bukti L5). Indikasi asal: Hiperlipidemia"
 ---
 
 # Ezetimibe
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,106 +33,86 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-## Ezetimibe: Daripada Hiperlipidemia kepada Sitosterolemia
+## Ezetimibe: Daripada Hiperlipidemia kepada Kekurangan Protein Pemindahan Ester Kolesterol (CETP)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Ezetimibe ialah perencat penyerapan kolesterol di usus yang pada asalnya digunakan untuk hiperlipidemia, termasuk hiperkolesterolemia familial homozigot dan sitosterolemia.
-Model TxGNN meramalkan ia berkesan untuk **sitosterolemia**, dengan **7 kajian klinikal** dan **17 penerbitan** yang berkaitan, termasuk **3 percubaan Fasa 3 rawak, buta ganda dan terkawal plasebo yang telah selesai**.
-Sitosterolemia sebenarnya sudah menjadi indikasi yang mapan, jadi ini bukan penggunaan semula dalam erti kata yang ketat. Skor model sebanyak 0.00% juga tidak mencerminkan bukti klinikal yang sebenar.
+Ezetimibe ialah ubat penurun kolesterol yang direkodkan dalam graf pengetahuan untuk hiperlipidemia, hiperlipidemia familial, hiperkolesterolemia familial homozigot dan sitosterolemia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan protein pemindahan ester kolesterol (CETP)**,
+tetapi pada masa ini **tiada ujian klinikal** dan hanya **2 penerbitan** yang berkaitan secara tidak langsung (satu ulasan dan satu kajian haiwan), jadi ramalan ini masih pada peringkat model sahaja.
 
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan Pantas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hiperlipidemia (termasuk hiperlipidemia familial dan hiperkolesterolemia familial homozigot), berdasarkan graf pengetahuan TxGNN. Tiada teks indikasi berlesen tersedia kerana tiada pendaftaran tempatan. |
-| Indikasi Baharu yang Diramalkan | Sitosterolemia |
-| Skor Ramalan TxGNN | 0.00% (tidak mencerminkan bukti klinikal, kerana ini indikasi yang telah mapan) |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikumpulkan; perlu disahkan, lihat bahagian Kesimpulan) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails |
-
----
+| Indikasi Asal | Hiperlipidemia (hubungan direkodkan dalam graf pengetahuan; teks indikasi lulus tidak tersedia daripada data lesen tempatan) |
+| Indikasi Baharu yang Diramalkan | Kekurangan protein pemindahan ester kolesterol (CETP) |
+| Skor Ramalan TxGNN | 0.9909 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 40 daripada 40) |
+| Bilangan Pendaftaran | 40 (sah: 40) |
+| Bilangan Kelulusan | 40 pendaftaran (13 produk ezetimibe tunggal, 27 produk kombinasi) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Ezetimibe menghalang protein pengangkut NPC1L1 pada sempadan berus usus kecil. Dengan itu ia mengurangkan penyerapan kolesterol dan sterol tumbuhan. Rekod terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan. Namun, kajian ulasan dalam senarai literatur menghuraikan mekanisme ini dengan konsisten.
+Data terperinci tentang mekanisme tindakan asal tidak tersedia pada masa ini. Berdasarkan maklumat sedia ada, ezetimibe merencat pengambilan kolesterol di usus yang dimediasi NPC1L1, sekali gus menurunkan LDL-C. Ini ialah penilaian am dan tidak dapat disahkan terhadap rekod sumber dalam data yang dikumpulkan untuk laporan ini.
 
-Sitosterolemia ialah penyakit resesif autosomal akibat mutasi gen *ABCG5* atau *ABCG8*. Mutasi ini menyebabkan penyerapan sterol tumbuhan berlebihan di usus dan perkumuhan hempedu yang terjejas. Menyekat NPC1L1 mengurangkan beban sitosterol dan kampesterol secara terus, jadi padanan mekanismenya jelas.
+Kekurangan CETP dicirikan oleh HDL-C yang tinggi dan metabolisme lipoprotein yang berubah. Kaitan mekanistik hanya munasabah secara longgar kerana kedua-duanya melibatkan metabolisme lipid; tiada hubungan laluan langsung didokumenkan dalam data. Skor TxGNN yang tinggi hanyalah ramalan model dan tidak disokong oleh data klinikal.
 
-Hiperlipidemia dan sitosterolemia ialah gangguan metabolisme lipid yang berkongsi masalah penyerapan sterol yang berlebihan. Ulasan dalam literatur menyatakan ezetimibe telah menjadi pilihan rawatan bagi pesakit sitosterolemia.
+Selain itu, kekurangan CETP lazimnya dianggap fenotip jinak, malah mungkin melindungi daripada aterosklerosis, maka rasional klinikal untuk rawatan penurun lipid dalam keadaan ini tidak jelas.
 
----
+## Bukti Ujian Klinikal
 
-## Bukti Kajian Klinikal
-
-| Nombor Kajian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00092820](https://clinicaltrials.gov/study/NCT00092820) | Fasa 3 | Selesai | 58 | Kajian rawak, buta ganda, terkawal plasebo pada pesakit sitosterolemia homozigot; menilai keselamatan dan keberkesanan jangka panjang dalam menurunkan kolesterol dan penyerapan sterol bukan kolesterol |
-| [NCT00092807](https://clinicaltrials.gov/study/NCT00092807) | Fasa 3 | Selesai | 37 | Lanjutan label terbuka 1 tahun bagi kajian rawak terkawal plasebo pada sitosterolemia homozigot; menilai keselamatan jangka panjang dan penurunan kolesterol |
-| [NCT00092898](https://clinicaltrials.gov/study/NCT00092898) | Fasa 3 | Selesai | 30 | Kajian rawak, buta ganda, terkawal plasebo selama 6 bulan; menambah ezetimibe 30 mg kepada 10 mg yang sedang diambil pada sitosterolemia homozigot |
-| [NCT00099996](https://clinicaltrials.gov/study/NCT00099996) | Fasa 3 | Selesai | 3 | Menambah ezetimibe 30 mg kepada 10 mg; sampel sangat kecil dan hanya menjawab soalan peningkatan dos |
-| [NCT00092833](https://clinicaltrials.gov/study/NCT00092833) | Fasa 3 | Ditamatkan | 49 | Kajian penggunaan rawatan label terbuka (ezetimibe 10 mg/hari) untuk hiperkolesterolemia familial homozigot atau sitosterolemia homozigot; menyokong akses dan keselamatan, bukan kajian keberkesanan terkawal |
-| [NCT01584206](https://clinicaltrials.gov/study/NCT01584206) | Tidak berkenaan | Selesai | 8 | Kajian perintis mengenai metabolisme sterol pada pesakit sitosterolemia yang dirawat dengan ezetimibe; bermaklumat dari segi mekanisme tetapi sampel kecil |
-| [NCT00705211](https://clinicaltrials.gov/study/NCT00705211) | Tidak berkenaan | Selesai | 1,794 | Pemerhatian selepas pemasaran di Jepun selama 52 minggu; populasi hiperkolesterolemia umum dengan data khusus sitosterolemia yang terhad |
-
-*NCT00704444 (pemerhatian 12 minggu di Jepun, 11,332 peserta) juga disenaraikan untuk indikasi ini, tetapi tidak dimasukkan dalam jadual kerana kaitannya tidak langsung.*
-
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Tiada RCT yang diterbitkan untuk indikasi ini dalam senarai literatur. Entri di bawah disusun mengikut kaitan, dengan kajian klinikal sebelum ulasan.
+Tiada kajian yang mengkaji kekurangan CETP secara langsung dengan ezetimibe. Dua penerbitan di bawah hanya berkaitan secara umum dengan metabolisme lipid.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [25444527](https://pubmed.ncbi.nlm.nih.gov/25444527/) | 2015 | Tidak dikelaskan | J Pediatr | Menilai sama ada ezetimibe memperbaiki kiraan dan saiz platelet berhubung kesannya terhadap sterol tumbuhan plasma pada sitosterolemia |
-| [28340366](https://pubmed.ncbi.nlm.nih.gov/28340366/) | 2017 | Tidak dikelaskan | Atherosclerosis | Kesan ezetimibe terhadap subkelas LDL dan HDL pada sitosterolemia; ezetimibe boleh menurunkan sterol tumbuhan dan kolesterol total |
-| [34969652](https://pubmed.ncbi.nlm.nih.gov/34969652/) | 2022 | Kohort | J Clin Lipidol | Profil klinikal, genetik dan penilaian terapi bagi 55 kanak-kanak dan 5 orang dewasa dengan sitosterolemia |
-| [14604738](https://pubmed.ncbi.nlm.nih.gov/14604738/) | 2003 | Tidak dikelaskan | Clin Ther | Farmakologi ezetimibe; digunakan sebagai monoterapi pada sitosterolemia familial homozigot |
-| [14727947](https://pubmed.ncbi.nlm.nih.gov/14727947/) | 2003 | Ulasan | Am J Cardiovasc Drugs | Ezetimibe menghalang penyerapan kolesterol dan sterol tumbuhan di usus |
-| [36897412](https://pubmed.ncbi.nlm.nih.gov/36897412/) | 2023 | Ulasan | Curr Atheroscler Rep | Kemas kini mengenai sitosterolemia dan aterosklerosis |
-| [27104173](https://pubmed.ncbi.nlm.nih.gov/27104173/) | 2016 | Ulasan | Ann Pediatr Endocrinol Metab | Ulasan patofisiologi, spektrum klinikal, diagnosis dan pengurusan sitosterolemia |
-| [24821603](https://pubmed.ncbi.nlm.nih.gov/24821603/) | 2014 | Ulasan | Curr Atheroscler Rep | Diagnosis, penyiasatan dan pengurusan sitosterolemia |
-| [29984642](https://pubmed.ncbi.nlm.nih.gov/29984642/) | 2019 | Ulasan | Curr Med Chem | Sitosterolemia: kelainan metabolik dan hematologi, penyakit kardiovaskular dan pengurusan |
-| [30033951](https://pubmed.ncbi.nlm.nih.gov/30033951/) | 2018 | Ulasan | J Atheroscler Thromb | Hubungan sitosterolemia, hiperkolesterolemia dan penyakit arteri koronari |
+| [40911366](https://pubmed.ncbi.nlm.nih.gov/40911366/) | 2025 | Ulasan | European Heart Journal | Ulasan sasaran terapi penurunan lipid (statin dan lain-lain), termasuk LDL-C, trigliserida, apoB dan Lp(a) sebagai faktor risiko kardiovaskular baki |
+| [31779098](https://pubmed.ncbi.nlm.nih.gov/31779098/) | 2019 | Kajian haiwan | International Journal of Molecular Sciences | Model hamster heterozigot Ldlr untuk menilai antibodi PCSK9 dalam hiperlipidemia dan aterosklerosis |
 
----
+## Maklumat Pasaran Malaysia
+
+Teks indikasi lulus tidak tersedia dalam rekod lesen. Hanya produk ezetimibe tunggal disenaraikan di bawah (5 daripada 13 produk tunggal sah); 27 pendaftaran lain ialah produk kombinasi dan tidak digunakan untuk menggambarkan status kelulusan ezetimibe tunggal.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL20034627ACRZ | EZETROL 10MG | Tiada maklumat | Tiada maklumat |
+| MAL21076010AZ | ETIMICOL 10 (Ezetimibe Tablets 10mg) | Tiada maklumat | Tiada maklumat |
+| MAL21076017AZ | Ezzicad 10mg Tablets | Tiada maklumat | Tiada maklumat |
+| MAL20162606AEZ | hovid-Ezetimibe Tablet 10mg | Tiada maklumat | Tiada maklumat |
+| MAL19021005AZ | ACCORD EZETIMIBE 10 | Tiada maklumat | Tiada maklumat |
 
 ## Pertimbangan Keselamatan
 
-- **Kontraindikasi daripada graf pengetahuan (bukan teks label):** pankreatitis, penyakit hati, penyakit pundi hempedu, miopati, penyakit otot, penyakit otot rangka, lumpuh berkala familial, penyalahgunaan/kebergantungan bahan, rabdomiolisis dan fasciitis nodular.
-- **Interaksi Ubat:** pangkalan data interaksi merekodkan 100 interaksi. Yang bertahap **Sederhana** ialah:
-  - asid kenodeoksikolik
-  - eluxadoline
-  - rosuvastatin
-  - simvastatin
+- **Penyakit yang direkodkan sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): pankreatitis, penyakit hati, penyakit pundi hempedu, miopati, penyakit otot, penyakit otot rangka, kelumpuhan berkala familial, penyalahgunaan/kebergantungan bahan, rabdomiolisis, fasiitis nodular.
+- **Interaksi Ubat** (100 interaksi direkodkan; yang utama bertahap sederhana):
+  - Asid kenodeoksikolik
+  - Eluxadoline
+  - Rosuvastatin
+  - Simvastatin
 
-  Interaksi lain bertahap tidak diketahui, seperti kalsitriol, pantoprazol, glimepirid, metformin dan omeprazol.
+  Beberapa interaksi lain (contohnya kalsitriol, pantoprazol, glimepirida, metformin, omeprazol, simetidina, vankomisin) mempunyai tahap yang tidak diketahui.
 
-Amaran utama dan kontraindikasi rasmi tidak tersedia. Sila rujuk risalah pakej untuk maklumat keselamatan.
-
----
+Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Hold (Tahan)**
 
-**Justifikasi:**
-- Terdapat tiga percubaan Fasa 3 rawak, buta ganda dan terkawal plasebo yang telah selesai pada pesakit sitosterolemia homozigot, ditambah kajian label terbuka dan kajian perintis. Ini memenuhi syarat Tahap Bukti L1 dan padanan mekanismenya langsung.
-- Sampel setiap kajian kecil (3 hingga 58 peserta), kerana ini penyakit yang sangat jarang berlaku. Data keselamatan rasmi dan status pendaftaran tempatan juga belum lengkap, maka diperlukan langkah berjaga-jaga.
+**Rasional:**
+Ramalan ini hanya berasaskan model (L5): tiada ujian klinikal dan tiada kajian yang mengkaji kekurangan CETP secara langsung. Rasional klinikal juga lemah kerana kekurangan CETP lazimnya fenotip jinak.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Memuat turun dan menghurai risalah pakej NPRA untuk amaran dan kontraindikasi, kerana jurang ini menghalang saringan keselamatan.
-- Mengesahkan status pendaftaran di Malaysia. Data menunjukkan "tidak dipasarkan" dengan 0 pendaftaran, yang mungkin ralat data memandangkan ezetimibe digunakan secara meluas di tempat lain.
-- Melengkapkan data mekanisme tindakan daripada DrugBank.
-- Menyediakan pelan pemantauan keselamatan untuk populasi khas, termasuk pesakit dengan penyakit hati atau otot dan mereka yang mengambil statin serentak.
-
-**Catatan tambahan:** Indikasi lain yang diramalkan, iaitu hiperlipidemia familial dan hiperlipidemia, turut berada pada Tahap Bukti L1 dan merupakan indikasi mapan. Dua entri lain, hiperlipidemia gabungan familial yang usang dan hiperlipidemia gabungan familial berkaitan LPL, tidak mempunyai sebarang kajian atau literatur. Kedua-duanya berada pada Tahap L5 dengan keputusan **Hold**.
+- Muat turun dan huraikan sisipan pakej NPRA untuk amaran, kontraindikasi dan teks indikasi diluluskan (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan (MOA) yang disahkan daripada DrugBank
+- Bukti klinikal atau praklinikal yang mengkaji kekurangan CETP secara langsung
+- Justifikasi klinikal bahawa rawatan penurun lipid diperlukan dalam populasi sasaran
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

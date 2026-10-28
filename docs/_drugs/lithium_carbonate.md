@@ -6,9 +6,9 @@ nav_order: 469
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Lithium Carbonate: indikasi baharu diramal Pseudoachondroplasia (tahap bukti L5). Indikasi asal: Gangguan bipolar (berdasarkan graf pengetahuan TxGNN/PrimeKG"
 monitor_inn: "LITHIUM CARBONATE"
 predicted_indications: ["pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "myosclerosis", "brachyolmia-amelogenesis imperfecta syndrome", "brachydactyly-syndactyly syndrome", "Behr syndrome", "WHIM syndrome", "combined immunodeficiency due to moesin deficiency"]
+description: "Lithium Carbonate: indikasi baharu diramal Pseudoachondroplasia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Lithium Carbonate
@@ -33,12 +33,12 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Litium Karbonat: Daripada Gangguan Bipolar kepada Pseudoachondroplasia
+## Lithium Carbonate: Pseudoachondroplasia
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Litium karbonat pada asalnya digunakan untuk merawat gangguan bipolar (termasuk episod mania) dan, menurut graf pengetahuan, juga dikaitkan dengan keadaan sendi seperti artritis reumatoid dan osteoartritis.
+Litium karbonat pada asalnya digunakan untuk merawat gangguan bipolar (termasuk episod mania).
 Model TxGNN meramalkan ia mungkin berkesan untuk **pseudoachondroplasia**,
 tetapi pada masa ini **tiada percubaan klinikal** dan **tiada literatur khusus** yang menyokong ramalan ini; ia kekal sebagai ramalan model sahaja.
 
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada literatur khusus**
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Gangguan bipolar (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi berdaftar di Malaysia) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Pseudoachondroplasia |
-| Skor Ramalan TxGNN | 99.98% |
+| Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -62,7 +62,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada literatur khusus**
 
 Data terperinci mengenai mekanisme tindakan litium karbonat tidak tersedia dalam data yang disusun untuk laporan ini. Berdasarkan maklumat sedia ada, litium diketahui menghalang GSK-3 dan mempengaruhi isyarat Wnt/beta-catenin, dan kesannya dalam gangguan bipolar telah dibuktikan. Secara teori, laluan ini boleh mempengaruhi fungsi kondrosit dan pertumbuhan rangka.
 
-Pseudoachondroplasia disebabkan oleh mutasi gen COMP yang menyebabkan protein salah lipatan tertahan dalam retikulum endoplasma dan tekanan pada kondrosit. Tiada data yang dibekalkan menyokong hubungan langsung antara litium dengan patologi COMP ini. Skor tinggi kemungkinan besar didorong oleh kedekatan dalam graf dengan nod displasia rangka, bukan oleh biologi yang telah disahkan.
+Pseudoachondroplasia disebabkan oleh mutasi gen COMP yang menyebabkan protein salah lipatan tertahan dalam retikulum endoplasma dan tekanan pada kondrosit. Tiada data yang dibekalkan menyokong hubungan langsung antara litium dengan patologi COMP ini. Skor tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
 Oleh itu, ramalan ini perlu dianggap sebagai hipotesis awal dan bukan bukti keberkesanan.
 
@@ -82,7 +82,6 @@ Pada masa ini tiada literatur berkaitan untuk pseudoachondroplasia.
 
 ## Maklumat Pasaran Malaysia
 
-Litium karbonat pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran (0 lesen) direkodkan dalam data yang disusun.
 
 ---
 
@@ -103,7 +102,7 @@ Sila rujuk risalah maklumat produk untuk maklumat keselamatan yang lengkap, kera
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur khusus, dan hubungan mekanistik dengan patologi COMP tidak disokong oleh data. Selain itu, litium tidak dipasarkan di Malaysia dan mempunyai indeks terapeutik yang sempit serta banyak kontraindikasi.
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur khusus, dan hubungan mekanistik dengan patologi COMP tidak disokong oleh data.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci daripada DrugBank

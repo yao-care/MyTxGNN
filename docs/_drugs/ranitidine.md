@@ -4,17 +4,17 @@ title: Ranitidine
 parent: Medium Evidence (L3)
 nav_order: 613
 evidence_level: L3
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Ranitidine: indikasi baharu diramal Penyakit ulser peptik aktif (tahap bukti L3). Indikasi asal: Ulser gastrik, ulser duodenum, GERD, esofagitis, dispepsia…"
 monitor_inn: "RANITIDINE"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
+description: "Ranitidine: indikasi baharu diramal Peptic ulcer perforation (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ranitidine
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **10** 
+Tahap bukti: **L3** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-## Ranitidine: Daripada Ulser Gastrik/Duodenum kepada Penyakit Ulser Peptik Aktif
+## Ranitidine: Peptic ulcer perforation
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ Data yang dikumpulkan untuk laporan ini memuatkan **0 percubaan klinikal** dan *
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Ulser gastrik, ulser duodenum, GERD, esofagitis, dispepsia, sindrom Zollinger-Ellison (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen) |
-| Indikasi Baharu yang Diramalkan | Penyakit ulser peptik aktif |
-| Skor Ramalan TxGNN | 99.89% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Peptic ulcer perforation |
+| Skor Ramalan TxGNN | 0.9988 |
 | Tahap Bukti | L3 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -109,7 +109,7 @@ Sila rujuk sisip bungkusan untuk maklumat keselamatan yang lengkap.
 
 **Rasional:**
 - Indikasi yang diramalkan pada dasarnya bertindih dengan indikasi asal, jadi ia bukan pengitlakan semula yang sebenar. Bukti khusus ranitidine hanya terdiri daripada ulasan dan sedikit kajian klinikal lama, tanpa percubaan klinikal berdaftar yang menguji ranitidine secara langsung.
-- Ranitidine tidak dipasarkan di Malaysia (0 pendaftaran), dan data menyebut penarikan pasaran berkaitan kebimbangan pencemaran NDMA. Ini ialah halangan besar kepada pembangunan lanjut. PPI umumnya lebih unggul untuk indikasi ini.
+- Ini ialah halangan besar kepada pembangunan lanjut. PPI umumnya lebih unggul untuk indikasi ini.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisip bungkusan NPRA (jurang data yang menyekat saringan keselamatan peringkat S1).

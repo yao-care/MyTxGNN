@@ -4,17 +4,17 @@ title: Ipilimumab
 parent: Low Evidence (L4-L5)
 nav_order: 427
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Ipilimumab: indikasi baharu diramal Choroideremia (tahap bukti L5). Indikasi asal: Melanoma metastatik"
 monitor_inn: "IPILIMUMAB"
 predicted_indications: ["choroideremia"]
+description: "Ipilimumab: indikasi baharu diramal Choroideremia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ipilimumab
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **2** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Ipilimumab: Daripada Melanoma Metastatik kepada Choroideremia
+## Ipilimumab: Choroideremia
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **choroideremia**, tetapi setak
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Melanoma metastatik |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Choroideremia |
-| Skor Ramalan TxGNN | 99.06% |
+| Skor Ramalan TxGNN | 0.9906 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikumpulkan; perlu disahkan) |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **choroideremia**, tetapi setak
 
 Ipilimumab menyekat CTLA-4, iaitu molekul yang menghalang aktiviti sel T. Dengan menyekatnya, sel T dapat diaktifkan dengan lebih kuat untuk menyerang sel tumor. Mekanisme ini menjelaskan keberkesanannya dalam melanoma.
 
-Choroideremia pula ialah penyakit degenerasi retina warisan berangkai-X yang disebabkan oleh kehilangan fungsi gen CHM (REP1). Patologinya **tidak** didorong oleh pengelakan imun tumor melalui CTLA-4. Oleh itu, tiada jambatan mekanistik yang munasabah antara sekatan CTLA-4 dengan penyakit ini. Skor TxGNN yang tinggi (0.99) ialah ramalan model sahaja dan tidak disokong oleh bukti biologi atau klinikal yang sedia ada.
+Choroideremia pula ialah penyakit degenerasi retina warisan berangkai-X yang disebabkan oleh kehilangan fungsi gen CHM (REP1). Patologinya **tidak** didorong oleh pengelakan imun tumor melalui CTLA-4. Oleh itu, tiada jambatan mekanistik yang munasabah antara sekatan CTLA-4 dengan penyakit ini. Skor TxGNN yang tinggi (0.9906) datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
 Keselamatan juga menjadi kebimbangan. Kesan buruk berkaitan imun akibat ipilimumab, termasuk uveitis, boleh memudaratkan retina yang sudah mengalami degenerasi.
 
@@ -113,9 +113,8 @@ Untuk maklumat amaran dan kontraindikasi lengkap, sila rujuk sisipan pakej.
 - Bukti praklinikal atau mekanistik yang menunjukkan kaitan sekatan CTLA-4 dengan patologi choroideremia.
 - Data mekanisme tindakan (MOA) yang terperinci.
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA.
-- Pengesahan status pendaftaran di Malaysia. Data yang dikumpulkan menunjukkan "tidak dipasarkan", yang mungkin bercanggah dengan penggunaan ipilimumab yang diluluskan untuk melanoma metastatik.
+- Pengesahan status pendaftaran di Malaysia.
 
-**Nota tambahan:** Dalam data yang sama, indikasi yang diramalkan di tangga kedua, **melanoma bukan kutaneus** (skor 99.02%), mempunyai sokongan bukti yang jauh lebih kukuh. Terdapat ujian klinikal seperti NCT02626962 (Fasa 2, nivolumab + ipilimumab dalam melanoma uvea, selesai, n=52), dan penilaian awal ialah L1 dengan keputusan "Proceed with Guardrails". Tahap L1 itu bergantung pada kaitan ujian Fasa 3 NCT02278887, yang perlu disahkan. Jika ujian itu tidak melibatkan melanoma bukan kutaneus atau ipilimumab, tahap L2 hingga L3 mungkin lebih sesuai. Indikasi ini wajar dinilai dalam laporan berasingan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

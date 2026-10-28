@@ -6,9 +6,9 @@ nav_order: 472
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Loperamide: indikasi baharu diramal Konjunktivitis berjangkit akut (tahap bukti L5). Indikasi asal: Penyakit cirit-birit, disentri"
 monitor_inn: "LOPERAMIDE"
-predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "Angelucci syndrome"]
+predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "conjunctival folliculosis", "parasitic conjunctivitis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "Angelucci syndrome"]
+description: "Loperamide: indikasi baharu diramal Konjunktivitis berjangkit akut (acute contagious conjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Loperamide
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Loperamide: Daripada Penyakit Cirit-birit kepada Konjunktivitis Berjangkit Akut
+## Loperamide: Konjunktivitis berjangkit akut (acute contagious conjunctivitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit cirit-birit, disentri |
-| Indikasi Baharu yang Diramalkan | Konjunktivitis berjangkit akut |
-| Skor Ramalan TxGNN | 99.97% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Konjunktivitis berjangkit akut (acute contagious conjunctivitis) |
+| Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
+| Bilangan Pendaftaran | 10 (sah: 10) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,9 +62,9 @@ tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, loperamide ialah agonis reseptor mu-opioid periferi yang bertindak pada neuron mienterik usus untuk mengurangkan motiliti dan rembesan, dan keberkesanannya dalam cirit-birit telah mantap.
 
-Walau bagaimanapun, **tiada pautan mekanistik yang munasabah** dikenal pasti antara tindakan ini dengan konjunktivitis berjangkit. Loperamide mempunyai pendedahan okular yang boleh diabaikan dan tiada aktiviti antimikrob atau anti-radang yang relevan. Skor TxGNN yang tinggi (0.9997) ialah ramalan berasaskan graf semata-mata, dan berkemungkinan didorong oleh kedekatan rangkaian dengan nod anti-cirit-birit/anti-infeksi lain, bukan oleh biologi sebenar.
+Walau bagaimanapun, **tiada pautan mekanistik yang munasabah** dikenal pasti antara tindakan ini dengan konjunktivitis berjangkit. Loperamide mempunyai pendedahan okular yang boleh diabaikan dan tiada aktiviti antimikrob atau anti-radang yang relevan. Skor tinggi (0.9997) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
-Sepuluh ramalan teratas didominasi oleh kluster konjunktivitis (hampir semuanya dengan skor yang hampir sama), yang menguatkan tanggapan bahawa ia ialah artifak graf. Di antara sepuluh ramalan itu, hanya amebic dysentery dan gastroduodenitis mempunyai sebarang literatur, dan kedua-duanya menunjukkan isyarat keselamatan, bukan manfaat.
+Sepuluh ramalan teratas didominasi oleh kluster konjunktivitis (hampir semuanya dengan skor yang hampir sama), yang menguatkan tanggapan bahawa skor ini mungkin mencerminkan persamaan yang dipelajari oleh model TxGNN (pembelajaran mendalam) antara penyakit yang berkaitan, bukan bukti biologi. Di antara sepuluh ramalan itu, hanya amebic dysentery dan gastroduodenitis mempunyai sebarang literatur, dan kedua-duanya menunjukkan isyarat keselamatan, bukan manfaat.
 
 ---
 
@@ -90,7 +90,6 @@ Sebagai rujukan, literatur yang ditemui untuk ramalan lain (bukan bukti sokongan
 
 ## Maklumat Pasaran Malaysia
 
-Loperamide pada masa ini tidak dipasarkan dan tiada lesen berdaftar dalam data yang dikumpulkan untuk laporan ini.
 
 ---
 
@@ -109,7 +108,7 @@ Untuk amaran dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan pakej
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini berada pada tahap bukti L5 tanpa sebarang percubaan klinikal atau literatur, dan tiada pautan mekanistik yang munasabah antara agonis opioid periferi usus dengan penyakit mata. Skor tinggi kemungkinan besar artifak graf, dan literatur yang ada untuk ramalan lain menunjukkan risiko, bukan manfaat.
+- Ramalan ini berada pada tahap bukti L5 tanpa sebarang percubaan klinikal atau literatur, dan tiada pautan mekanistik yang munasabah antara agonis opioid periferi usus dengan penyakit mata. Skor tinggi daripada model TxGNN (pembelajaran mendalam) kemungkinan besar mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi, dan literatur yang ada untuk ramalan lain menunjukkan risiko, bukan manfaat.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Bukti praklinikal atau mekanistik yang menunjukkan kesan loperamide pada tisu/patogen okular (setakat ini tiada)

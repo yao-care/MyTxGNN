@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Prednisolone
-parent: Low Evidence (L4-L5)
+parent: High Evidence (L1-L2)
 nav_order: 595
-evidence_level: L4
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Prednisolone: indikasi baharu diramal Eritema multiforme (erythema multiforme) (tahap bukti L4). Indikasi asal: Penyakit autoimun, penyakit Crohn/radang usus…"
+evidence_level: L2
+indication_count: 9
+monitor_inn: "Prednisolone"
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
+last_modified_at: 2026-10-23
+description: "Prednisolone: indikasi baharu diramal Alopesia areata (tahap bukti L2). Indikasi asal: Penyakit autoimun, penyakit Crohn…"
 ---
 
 # Prednisolone
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **L2** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,104 +33,94 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-## Prednisolone: Dari Penyakit Autoimun kepada Eritema Multiforme
+## Prednisolone: Daripada Penyakit Autoimun kepada Alopesia Areata
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Prednisolone ialah kortikosteroid sistemik yang digunakan untuk penyakit autoimun, penyakit radang usus (Crohn), kekurangan adrenokortikal dan leukemia limfoblastik akut. Model TxGNN meramalkan ia mungkin berkesan untuk **eritema multiforme**. Setakat ini terdapat **0 ujian klinikal** dan **20 penerbitan** yang berkaitan. Penerbitan itu kebanyakannya laporan kes, ulasan dan kohort kecil, jadi bukti masih lemah.
+Prednisolone ialah kortikosteroid sistemik yang digunakan untuk pelbagai keadaan autoimun dan keradangan, termasuk penyakit Crohn dan insufisiensi adrenokortikal. Model TxGNN meramalkan ia mungkin berkesan untuk **Alopesia Areata**, dengan **0 ujian klinikal** berdaftar dan **20 penerbitan** dalam data yang dihimpun (termasuk satu RCT terkawal plasebo dan beberapa kajian semula sistematik) yang menyokong arah ini.
 
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan Pantas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit autoimun, penyakit Crohn/radang usus, kekurangan adrenokortikal, leukemia limfoblastik akut (berdasarkan graf pengetahuan TxGNN, kerana tiada lesen tempatan untuk dirujuk) |
-| Indikasi Baharu yang Diramalkan | Eritema multiforme (*erythema multiforme*) |
-| Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L4 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Tahan) |
-
----
+| Indikasi Asal | Penyakit autoimun, penyakit Crohn, insufisiensi adrenokortikal (hubungan yang direkodkan dalam graf pengetahuan; teks indikasi lulus tempatan tidak tersedia) |
+| Indikasi Baharu yang Diramalkan | Alopesia areata |
+| Skor Ramalan TxGNN | 0.9999 |
+| Tahap Bukti | L2 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 38 daripada 38) |
+| Bilangan Pendaftaran | 38 (sah: 38) |
+| Bilangan Kelulusan | 38 pendaftaran (36 produk tunggal, 2 produk gabungan veterinar) |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan belum tersedia. Prednisolone ialah glukokortikoid dengan kesan anti-radang dan imunosupresif yang luas, dan keberkesanannya dalam penyakit autoimun dan keradangan telah mantap. Secara mekanistik, ia mungkin sesuai untuk eritema multiforme.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Namun, prednisolone ialah glukokortikoid dengan aktiviti anti-radang dan imunosupresif yang luas, termasuk menekan pengaktifan sel T dan sitokin pro-radang.
 
-Eritema multiforme dan spektrum sindrom Stevens-Johnson (SJS)/nekrolisis epidermis toksik (TEN) ialah tindak balas mukokutaneus yang dimediasi imun, didorong oleh sel T dan sitokin. Prednisolone menekan tindak balas imun dan keradangan ini, dan inilah asas rasional ramalan tersebut.
+Alopesia areata ialah penyakit autoimun yang diperantarai sel T: sel T CD8+ sitotoksik menyerang folikel rambut yang kehilangan keistimewaan imunnya. Keadaan ini selari dengan penggunaan prednisolone dalam penyakit autoimun lain yang direkodkan dalam graf pengetahuan. Mekanisme ini munasabah secara biologi.
 
-Walau bagaimanapun, peranan kortikosteroid sistemik dalam spektrum penyakit ini masih dipertikaikan. Bukti yang ada terhad kepada laporan kes, siri kecil, ulasan dan satu laporan kes veterinar. Tiada ujian klinikal berdaftar untuk indikasi ini.
-
----
+Kajian dalam literatur juga mengaitkan terapi denyut steroid oral dengan perubahan paras TNF-α dalam serum dan tisu pesakit alopesia areata, yang menyokong kebolehgunaan mekanisme tersebut.
 
 ## Bukti Ujian Klinikal
 
 Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
----
-
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [35274741](https://pubmed.ncbi.nlm.nih.gov/35274741/) | 2022 | Ulasan (Cochrane) | Cochrane Database Syst Rev | Menilai rawatan sistemik (termasuk glukokortikoid, IVIG, siklosporin, etanercept) untuk SJS/TEN; keperluan untuk memahami keberkesanannya masih belum dipenuhi |
-| [25406459](https://pubmed.ncbi.nlm.nih.gov/25406459/) | 2015 | Ulasan | Ann Pharmacother | Mengkaji bukti penggunaan steroid pada orang dewasa dengan SJS/TEN dan implikasi untuk penyelidikan akan datang |
-| [27716721](https://pubmed.ncbi.nlm.nih.gov/27716721/) | 2016 | Garis panduan | Indian J Dermatol Venereol Leprol | Garis panduan pengurusan SJS/TEN; kortikosteroid sistemik disenaraikan antara rawatan imunomodulator |
-| [30189985](https://pubmed.ncbi.nlm.nih.gov/30189985/) | 2018 | Ulasan | Dent Clin North Am | Kortikosteroid topikal atau sistemik ialah tonggak pengurusan penyakit vesikuloerosif oral, termasuk eritema multiforme |
-| [15599469](https://pubmed.ncbi.nlm.nih.gov/15599469/) | 2004 | Kohort | J Microbiol Immunol Infect | Membandingkan ciri klinikal eritema multiforme, SJS dan TEN pada 30 kanak-kanak Taiwan |
-| [40657848](https://pubmed.ncbi.nlm.nih.gov/40657848/) | 2025 | Kajian klinikal label terbuka (etanercept, bukan khusus prednisolone) | J Dermatol | Etanercept dikaji pada pesakit SJS/TEN yang tidak bertindak balas terhadap steroid sistemik |
-| [35315755](https://pubmed.ncbi.nlm.nih.gov/35315755/) | 2022 | Laporan kes | Ugeskr Laeger | SJS akibat COVID-19 dirawat dengan prednisolone dan pulih dalam beberapa hari |
-| [36586578](https://pubmed.ncbi.nlm.nih.gov/36586578/) | 2023 | Laporan kes (veterinar) | Top Companion Anim Med | Anjing dengan eritema multiforme minor berulang dirawat berjaya dengan prednisolone dan mycophenolate mofetil |
-| [15608841](https://pubmed.ncbi.nlm.nih.gov/15608841/) | 2004 | Laporan kes | Ann Acad Med Singapore | Pesakit eritema multiforme berulang mengalami sindrom Cushing iatrogenik akibat penggunaan kortikosteroid yang lama |
-| [33447929](https://pubmed.ncbi.nlm.nih.gov/33447929/) | 2021 | Laporan kes | Indian J Pediatr | Ruam dan mukositis akibat Mycoplasma; azitromisin dan kortikosteroid jangka pendek memadai untuk kebanyakan kes |
+| [15692475](https://pubmed.ncbi.nlm.nih.gov/15692475/) | 2005 | RCT | J Am Acad Dermatol | Terapi prednisolone oral denyut terkawal plasebo dalam alopesia areata; RCT pertama yang dinilai dalam bidang ini |
+| [37870096](https://pubmed.ncbi.nlm.nih.gov/37870096/) | 2023 | Meta-analisis rangkaian | Cochrane Database Syst Rev | Perbandingan pelbagai rawatan alopesia areata, termasuk imunosupresan |
+| [30191561](https://pubmed.ncbi.nlm.nih.gov/30191561/) | 2019 | Kajian semula sistematik | Australas J Dermatol | Menilai bukti rawatan sistemik untuk alopesia areata, totalis dan universalis |
+| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Kajian semula | Dermatol Pract Concept | Keberkesanan, kadar relaps dan kesan sampingan terapi denyut kortikosteroid |
+| [36461625](https://pubmed.ncbi.nlm.nih.gov/36461625/) | 2023 | Kajian semula | Pediatr Dermatol | Dos dan pentadbiran terapi denyut kortikosteroid pada kanak-kanak |
+| [28140540](https://pubmed.ncbi.nlm.nih.gov/28140540/) | 2017 | Kohort | J Dtsch Dermatol Ges | Kortikosteroid sistemik dos tinggi kemudian dos rendah untuk alopesia areata teruk kanak-kanak; relaps selepas henti rawatan tidak dapat dielakkan |
+| [21572877](https://pubmed.ncbi.nlm.nih.gov/21572877/) | 2009 | Kohort | Dermato-endocrinology | Prednisolone denyut dos sederhana; berkesan pada peringkat awal tetapi kesan sampingan boleh menyebabkan rawatan dihentikan |
+| [26179196](https://pubmed.ncbi.nlm.nih.gov/26179196/) | 2015 | Kohort | Dermatol Ther | Gabungan denyut oral dan kortikosteroid topikal pada 65 kanak-kanak, susulan jangka panjang |
+| [32779249](https://pubmed.ncbi.nlm.nih.gov/32779249/) | 2020 | Kohort | J Eur Acad Dermatol Venereol | Azathioprine, methotrexate dan siklosporin sebagai agen penjimat steroid pada 138 pesakit |
+| [30294905](https://pubmed.ncbi.nlm.nih.gov/30294905/) | 2019 | Mekanisme | J Cosmet Dermatol | Perubahan paras TNF-α sebagai mekanisme tindakan steroid denyut oral |
 
----
+## Maklumat Pasaran Malaysia
+
+Teks indikasi diluluskan tidak tersedia dalam data pendaftaran yang dihimpun. Senarai di bawah ialah sebahagian daripada 38 pendaftaran.
+
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL06081197AZ | Predsone Syrup 3mg/5ml | Tiada maklumat | Tiada maklumat |
+| MAL21106027AZ | Axcel Prednisolone-5mg Tablet | Tiada maklumat | Tiada maklumat |
+| MAL19860161AZ | hovid-Prednisolone Tablet 5 mg | Tiada maklumat | Tiada maklumat |
+| MAL19986420AZ | PREDON INJECTION 25MG/ML | Tiada maklumat | Tiada maklumat |
+| MAL19890346ARZ | PRED FORTE STERILE OPHTHALMIC SUSPENSION | Tiada maklumat | Tiada maklumat |
+
+## Sitotoksisiti
+
+Bahagian ini tidak berkenaan kerana prednisolone bukan ubat antineoplastik dalam konteks ramalan ini.
 
 ## Pertimbangan Keselamatan
 
-**Kontraindikasi (daripada graf pengetahuan TxGNN, bukan teks label produk):**
-Prednisolone dikaitkan dengan kontraindikasi atau keadaan yang perlu diberi perhatian pada penyakit berikut:
-- hipertensi
-- epilepsi
-- hiperglisemia
-- kegagalan jantung kongestif
-- keratitis herpes simpleks
-- campak (*measles*)
-- porfiria
-- beberapa gangguan kitar urea (contohnya citrullinemia, hiperargininemia)
-- hipopituitarisme dan kekurangan hormon pituitari
+- **Kontraindikasi dalam graf pengetahuan** (bukan teks label): hipertensi, epilepsi, hiperglisemia, kegagalan jantung kongestif, keratitis virus herpes simpleks, campak, porfiria, serta pelbagai keadaan kekurangan hormon pituitari dan hipogonadisme hipogonadotropik.
+- **Interaksi Dadah** (100 interaksi direkodkan; contoh utama):
+  - **Major**: Adalimumab
+  - **Moderate**: Zidovudine, Isotretinoin, Acarbose, Acebutolol, Acetazolamide, Ketorolac, Nifedipine, Ibuprofen, Etinilestradiol, Butalbital, Albiglutide, Aldesleukin, Alefacept, Alemtuzumab, Aliskiren
+  - **Minor**: Formoterol, Salbutamol
 
-**Interaksi Ubat:**
-Sebanyak 100 interaksi direkodkan, dan 20 yang pertama dipaparkan dalam data yang dikompilasi untuk laporan ini.
-- **Major:** adalimumab
-- **Sederhana (Moderate):** ibuprofen, ketorolac, nifedipine, isotretinoin, acarbose, acebutolol, acetazolamide, zidovudine, etinilestradiol, butalbital, albiglutide, aldesleukin, alemtuzumab, aliskiren
-- **Ringan (Minor):** formoterol, salbutamol
-
-**Isyarat keselamatan daripada literatur:** penggunaan kortikosteroid yang lama dilaporkan menyebabkan sindrom Cushing iatrogenik pada pesakit eritema multiforme berulang (PMID 15608841).
-
-Untuk amaran utama dan kontraindikasi daripada label produk, sila rujuk sisipan pakej.
-
----
+Sila rujuk sisipan pek untuk amaran dan kontraindikasi rasmi, kerana teks label NPRA belum diperoleh.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tahan)**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
 **Rasional:**
-- Bukti untuk eritema multiforme hanya setakat L4. Tiada ujian klinikal berdaftar, dan literatur terdiri daripada laporan kes, ulasan, kohort kecil dan satu laporan veterinar.
-- Peranan kortikosteroid sistemik dalam spektrum SJS/TEN masih dipertikaikan.
-- Prednisolone tidak dipasarkan dan tidak mempunyai pendaftaran di Malaysia.
+Terdapat RCT terkawal plasebo dan kajian semula sistematik yang terus mengkaji alopesia areata, dan mekanisme imunosupresif adalah munasabah. Walau bagaimanapun, tiada ujian klinikal berdaftar, relaps selepas penghentian rawatan biasa berlaku, dan kesan sampingan steroid sistemik menghadkan penggunaan jangka panjang.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
-- Sisipan pakej NPRA untuk amaran dan kontraindikasi, serta pengesahan status pendaftaran tempatan.
-- Ujian klinikal terkawal atau kajian kohort yang menilai prednisolone secara khusus untuk eritema multiforme.
-- Analisis perbandingan manfaat dan risiko steroid, terutamanya untuk penggunaan berulang atau jangka panjang.
+- Muat turun dan huraikan sisipan pek NPRA untuk amaran dan kontraindikasi rasmi (jurang data yang menghalang penilaian keselamatan).
+- Data mekanisme tindakan terperinci daripada DrugBank.
+- Pengesahan tahap bukti L2 melalui penilaian lanjut RCT 2005 (PMID 15692475) dan kritikan terhadapnya (PMID 16310088).
+- Pelan pemantauan keselamatan dan strategi dos (denyut berbanding harian) bagi populasi khusus, terutamanya kanak-kanak.
+- Penjelasan bentuk dos dan indikasi diluluskan bagi produk tempatan.
 
-**Nota:** Dalam data yang sama, indikasi yang diramalkan **limfosarkoma** (limfoma bukan Hodgkin) mempunyai bukti lebih kukuh (L1, cadangan *Proceed with Guardrails*). Ia disokong beberapa ujian Fasa 3 yang memasukkan prednisolone dalam protokol berbilang ubat. Indikasi ini patut dinilai dalam laporan berasingan.
+**Nota mengenai indikasi lain yang diramalkan:** Calon lain (alopesia mucinosa, telogen effluvium, folikulitis dekalvans Quinquaud, dan lain-lain) mempunyai bukti sangat terhad atau tiada, dan semuanya disyorkan **Hold** pada peringkat ini.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

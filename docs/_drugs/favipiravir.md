@@ -3,18 +3,18 @@ layout: default
 title: Favipiravir
 parent: Low Evidence (L4-L5)
 nav_order: 350
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Favipiravir: indikasi baharu diramal Sindrom hemofagositik berkaitan jangkitan (tahap bukti L4). Indikasi asal: Influenza"
 monitor_inn: "FAVIPIRAVIR"
 predicted_indications: ["hemophagocytic syndrome associated with an infection", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency"]
+description: "Favipiravir: indikasi baharu diramal Hemophagocytic syndrome associated with an infection (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Favipiravir
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **3** 
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-## Favipiravir: Daripada Influenza kepada Sindrom Hemofagositik Berkaitan Jangkitan
+## Favipiravir: Hemophagocytic syndrome associated with an infection
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ tetapi setakat ini hanya terdapat **0 ujian klinikal** dan **2 penerbitan** (ked
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Influenza |
-| Indikasi Baharu yang Diramalkan | Sindrom hemofagositik berkaitan jangkitan |
-| Skor Ramalan TxGNN | 99.41% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Hemophagocytic syndrome associated with an infection |
+| Skor Ramalan TxGNN | 0.9941 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -60,7 +60,7 @@ Favipiravir ialah perencat luas RNA-dependent RNA polymerase (RdRp) virus. Data 
 
 Sindrom hemofagositik berkaitan jangkitan sering dicetuskan oleh patogen virus, termasuk virus RNA seperti virus sindrom demam teruk dengan trombositopenia (SFTSV) dan virus Heartland (kedua-duanya bandavirus). Jika virus pencetus ditekan oleh antivirus, ribut sitokin yang mendorong HLH sekunder mungkin berkurang.
 
-Namun, pautan ini tidak langsung: favipiravir akan merawat virus penyebab, bukan proses hemofagositik itu sendiri, dan manfaat terhad kepada kes yang dicetuskan oleh virus RNA. Skor TxGNN yang sangat tinggi (0.994) hanyalah ramalan pengiraan dan bukan bukti klinikal.
+Namun, pautan ini tidak langsung: favipiravir akan merawat virus penyebab, bukan proses hemofagositik itu sendiri, dan manfaat terhad kepada kes yang dicetuskan oleh virus RNA.
 
 ## Bukti Ujian Klinikal
 
@@ -85,7 +85,6 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 **Justifikasi:**
 - Sokongan hanya datang daripada skor ramalan TxGNN dan dua ulasan yang berkaitan secara tidak langsung. Tiada ujian klinikal, dan manfaat terhad kepada kes yang dicetuskan oleh virus RNA.
-- Favipiravir tidak dipasarkan di Malaysia, dan maklumat keselamatan daripada sisipan pakej belum diperoleh.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej (data keselamatan masih tiada dan menghalang penilaian keselamatan).
@@ -96,7 +95,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ## Nota Mengenai Ramalan Lain
 
-Dua ramalan lain, iaitu HLH berkaitan keganasan dan kardioensefalomiopati bayi akibat kekurangan sitokrom c oksidase, berada pada tahap bukti L5 dan berstatus **Hold**. Kedua-duanya tiada ujian klinikal atau literatur, dan tiada sasaran mekanistik yang jelas bagi perencatan RdRp. Sokongan hanya daripada skor TxGNN (0.994 dan 0.993), yang mungkin mencerminkan artifak graf pengetahuan.
+Dua ramalan lain, iaitu HLH berkaitan keganasan dan kardioensefalomiopati bayi akibat kekurangan sitokrom c oksidase, berada pada tahap bukti L5 dan berstatus **Hold**. Kedua-duanya tiada ujian klinikal atau literatur, dan tiada sasaran mekanistik yang jelas bagi perencatan RdRp.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

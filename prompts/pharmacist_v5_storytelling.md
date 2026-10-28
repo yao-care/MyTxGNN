@@ -45,7 +45,7 @@ Example:
 |------|------|
 | Original Indication | [Extract from local_regulatory.licenses, use first non-empty approved_indication_text] |
 | Predicted New Indication | [Extract from predicted_indications[0].disease_name] |
-| TxGNN Prediction Score | [Extract from predicted_indications[0].txgnn.score, convert to percentage] |
+| TxGNN Prediction Score | [predicted_indications[0].txgnn.score as a 4-decimal number, e.g. 0.9971 — never a percentage] |
 | Evidence Level | [Determine L1-L5 based on number of clinical trials and literature] |
 | Malaysia Market Status | [Extract from local_regulatory.market_status] |
 | Number of Registrations | [Extract from local_regulatory.total_licenses] |
@@ -204,7 +204,7 @@ with **8 clinical trials** and **20 publications** currently supporting this dir
 |------|------|
 | Original Indication | Gastric cancer |
 | Predicted New Indication | Colonic Neoplasm |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | [actual 4-decimal score of predicted_indications[0]] |
 | Evidence Level | L1 |
 | Malaysia Market Status | ✓ Marketed |
 | Number of Registrations | 8 |
@@ -276,3 +276,15 @@ and the S-1 combination has obtained colorectal cancer indication in Japan. Evid
 4. **Licence count row.** Label it by the approval types actually present (e.g. "Number of approvals | 4 BLAs"); do not label NDA when the records are BLAs. If `local_regulatory.total_licenses` starts with "≥", write "at least N" and say the list may be partial.
 5. **One language.** Write market status and all table values only in the page language; do not add English in parentheses (e.g. not "Op de markt (Marketed)").
 
+## Hard rules (2026-10-27; these override anything above)
+
+1. **Main prediction = the first entry of `predicted_indications`.** Use exactly that disease as the main new indication in the H1 title, the opening summary, the overview table's predicted-indication row and its score row. Never promote another prediction to main, even if its evidence looks stronger.
+2. **Only listed predictions.** Mention as predictions only the diseases in `predicted_indications`. Do not present any other disease as a prediction and do not give it a score.
+3. **Scores as decimals.** Write TxGNN scores as decimals with 4 places (e.g. 0.9971; use the page language's decimal separator). Never write a score as a percentage, and never call it confidence, probability or likelihood.
+4. **No knowledge graph.** Do not mention the knowledge graph (knowledge graph, graph, KG) anywhere — not as the source of the original indication and not to explain a score. Take the original indication only from the local licences in `local_regulatory`; if they carry no indication text, say the approved indication is not recorded in the local data.
+5. **Market status from facts only.** Follow `local_regulatory` exactly (`market_status`, `total_licenses`, `valid_licenses`). If any licence is valid, never say that all licences are cancelled or that the drug is not marketed. If `local_regulatory.status_verified` is false, do not claim that all licences are cancelled or that all are valid; leave the status out.
+6. **Checker feedback.** If `_checker_feedback` is present, every item is an error found in your previous draft of this report; fix all of them.
+7. **English name of the main prediction.** In the H1 title, the opening summary and the overview table's predicted-indication row, write the main prediction's local name followed by its English name exactly as in `predicted_indications[0].disease_name`, in parentheses — e.g. "Bronkit (bronchitis)". If the page language is English, write the name once without parentheses. Do not name any other disease in the H1 title.
+8. **H1 format.** Write the H1 as "<Drug>: <drug class or mechanism> → <main prediction local name> (<English name>)". Never put the original indication, or any disease other than the main prediction, in the H1 title.
+9. **No licence-count row.** Do not write a licence-count row (number of licences / approvals) in the overview table; the site program adds it from the licence facts.
+10. **Original indication is filled by the program.** Keep the overview table's original-indication row (any placeholder value); the program replaces its value from the local licence records. Do not restate the original or approved indication anywhere else in the report.

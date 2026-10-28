@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Docetaxel
-parent: Low Evidence (L4-L5)
+parent: High Evidence (L1-L2)
 nav_order: 301
-evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Docetaxel: indikasi baharu diramal Karsinoma prostat familial (tahap bukti L5). Indikasi asal: Kanser paru-paru bukan sel kecil, kanser prostat…"
+evidence_level: L2
+indication_count: 7
+monitor_inn: "Docetaxel"
+predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
+last_modified_at: 2026-10-23
+description: "Docetaxel: indikasi baharu diramal Sarkoma Ewing (Ewing sarcoma) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Docetaxel
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L2** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,105 +33,117 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Docetaxel: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Karsinoma Prostat Familial
+## Docetaxel: Sarkoma Ewing (Ewing sarcoma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Docetaxel ialah ubat kemoterapi kelas taksan yang pada asalnya digunakan untuk kanser paru-paru bukan sel kecil, kanser payudara, kanser gastrik, kanser kepala dan leher serta kanser prostat.
-Model TxGNN meramalkan ia mungkin berkesan untuk **karsinoma prostat familial** (kanser prostat dengan latar belakang keluarga).
-Setakat ini **tiada ujian klinikal** didaftarkan khusus untuk subjenis ini, dan terdapat **20 penerbitan** yang berkaitan, kebanyakannya tentang kanser prostat secara amnya.
+Docetaxel ialah ubat kemoterapi daripada kumpulan taxane. Ia dikaitkan dengan kanser paru-paru bukan sel kecil, kanser prostat, kanser kepala dan leher, kanser gastrik serta kanser payudara.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Sarkoma Ewing**. Data yang dihimpunkan untuk laporan ini mengandungi **8 percubaan klinikal** (3 daripadanya selesai dengan peserta sebenar dan relevan secara langsung atau separa) dan **20 penerbitan**, kebanyakannya melibatkan gabungan gemcitabine dan docetaxel dalam kohort sarkoma campuran.
 
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan Pantas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Kanser paru-paru bukan sel kecil, kanser prostat, kanser kepala dan leher, kanser gastrik, kanser payudara (berdasarkan graf pengetahuan TxGNN; tiada teks indikasi berlesen tempatan) |
-| Indikasi Baharu yang Diramalkan | Karsinoma prostat familial |
-| Skor Ramalan TxGNN | 0.00% (nilai skor dalam data ialah 0.0, jadi skor ini tidak boleh dijadikan asas keyakinan) |
-| Tahap Bukti | L3 (kajian kohort, ulasan dan satu ujian Fasa 2 satu lengan; tiada RCT khusus untuk subjenis familial) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
----
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sarkoma Ewing (Ewing sarcoma) |
+| Skor Ramalan TxGNN | 0.9990 |
+| Tahap Bukti | L2 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
+| Bilangan Pendaftaran | 10 (sah: 10) |
+| Bilangan Kelulusan | 10 pendaftaran produk (semua ubat satu bahan) |
+| Keputusan Disyorkan | Proceed with Guardrails |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, docetaxel ialah taksan yang menstabilkan mikrotubul. Kesannya ialah sel terhenti dalam mitosis dan mati. Kajian dalam literatur juga mencadangkan gangguan terhadap pengangkutan reseptor androgen ke dalam nukleus. Keberkesanannya dalam kanser prostat rintang kastrasi metastatik sudah mantap, dan secara mekanistik ia boleh digunakan untuk kanser prostat secara amnya.
+Data terperinci tentang mekanisme tindakan (MOA) belum tersedia dalam data yang dihimpunkan. Namun, docetaxel diketahui sebagai taxane yang menstabilkan mikrotubul, menyebabkan tangkapan mitosis dan apoptosis dalam sel yang membahagi dengan cepat. Aktiviti dalam sarkoma adalah munasabah, terutamanya dalam rejimen berurutan atau gabungan dengan gemcitabine, yang menunjukkan sitotoksisiti sinergistik dalam model sarkoma.
 
-Perlu diperhatikan bahawa kanser prostat sudah tersenarai antara indikasi asal docetaxel. Karsinoma prostat familial ialah subjenis kanser prostat, jadi ini bukan penggunaan semula yang benar-benar baharu. Soalan sebenar ialah sama ada status familial atau keturunan mengubah tindak balas terhadap rawatan, dan data yang ada belum menjawabnya.
+Sarkoma Ewing ialah tumor tulang dan tisu lembut yang berkadar proliferasi tinggi, jadi ubat antimitosis secara teori boleh digunakan. Walau bagaimanapun, tindak balas khusus untuk sarkoma Ewing nampaknya sederhana, dan aktiviti kebanyakannya dilaporkan dalam kohort pediatrik dan dewasa yang bercampur. Kajian Children's Oncology Group (PMID 34496122) mendapati hanya docetaxel mencapai kadar tindak balas radiografi yang ditetapkan protokol, tetapi kelangsungan bebas peristiwa tetap rendah (6 bulan: 12.7%).
 
-Literatur yang ada tidak mengkaji populasi familial atau keturunan. Satu laporan kes berkaitan BRCA2 melibatkan kanser pankreas, bukan kanser prostat. Mekanisme rintangan seperti kehilangan SLCO1B3, ekspresi berlebihan SLC6A1 dan mikroRNA beredar telah diterangkan, tetapi kesemuanya dalam kanser prostat umum.
+## Bukti Percubaan Klinikal
 
----
+Penilaian tahap bukti L2 bersandar pada sekurang-kurangnya satu kajian yang mengkaji sarkoma Ewing secara langsung (NCT00073983, fasa 2 yang selesai, dan beberapa kajian fasa 2 yang diterbitkan). Perlu diingat ia bukan RCT dan docetaxel diberikan dalam gabungan.
 
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk karsinoma prostat familial.
-
----
+| No. Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+|---------|------|------|------|---------|
+| [NCT00073983](https://clinicaltrials.gov/study/NCT00073983) | Fasa 2 | Selesai | 54 | Gemcitabine diikuti docetaxel untuk sarkoma Ewing, osteosarkoma dan kondrosarkoma berulang; lengan tunggal |
+| [NCT02511132](https://clinicaltrials.gov/study/NCT02511132) | Fasa 2 | Selesai | 22 | Vigil berbanding gemcitabine + docetaxel dalam sarkoma Ewing metastatik; sumbangan docetaxel tidak dapat disahkan sepenuhnya |
+| [NCT03449901](https://clinicaltrials.gov/study/NCT03449901) | Fasa 2 | Selesai | 98 | ADI-PEG 20 dengan gemcitabine dan docetaxel dalam sarkoma tisu lembut, osteosarkoma, sarkoma Ewing dan kanser paru-paru sel kecil |
+| [NCT00002825](https://clinicaltrials.gov/study/NCT00002825) | Fasa 2 | Selesai | 20 | Docetaxel tunggal pada kanak-kanak dengan tumor pepejal berulang; kohort kecil dan campuran |
+| [NCT00014456](https://clinicaltrials.gov/study/NCT00014456) | Fasa 1 | Selesai | 35 | Peningkatan dos docetaxel, gemcitabine dan filgrastim; maklumat keselamatan dan dos, isyarat keberkesanan terhad |
+| [NCT00049296](https://clinicaltrials.gov/study/NCT00049296) | Fasa 1 | Selesai | 26 | Farmakokinetik thalidomide dengan docetaxel; bukan khusus untuk sarkoma Ewing |
+| [NCT05116800](https://clinicaltrials.gov/study/NCT05116800) | Fasa 2 | Ditarik balik | 0 | 9-ING-41 dengan gemcitabine/docetaxel; tiada peserta, tiada bukti |
+| [NCT04183062](https://clinicaltrials.gov/study/NCT04183062) | Fasa 2 | Ditarik balik | 0 | BIO-11006 dengan gemcitabine dan docetaxel; tiada peserta, tiada bukti |
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [22112969](https://pubmed.ncbi.nlm.nih.gov/22112969/) | 2012 | RCT Fasa 2 | Annals of Oncology | Docetaxel + prednison dengan plasebo atau AT-101 (perencat Bcl-2 oral) sebagai terapi barisan pertama mCRPC; uji rawak, buta-ganda |
-| [34649352](https://pubmed.ncbi.nlm.nih.gov/34649352/) | 2021 | Ujian Fasa 2 | Biomed Pharmacother | Docetaxel 75 mg/m² setiap 21 hari + likopen 30 mg setiap hari pada mCRPC; 13 pesakit; titik akhir utama ialah penurunan PSA ≥50% |
-| [24714754](https://pubmed.ncbi.nlm.nih.gov/24714754/) | 2014 | Kohort | Br J Cancer | MikroRNA beredar dikaji sebagai penanda awal tindak balas terhadap docetaxel dalam CRPC |
-| [27402060](https://pubmed.ncbi.nlm.nih.gov/27402060/) | 2017 | Kohort (analisis post hoc) | Eur Urol | Corak kemoterapi susulan selepas abiraterone asetat dalam mCRPC (COU-AA-302) |
-| [23832735](https://pubmed.ncbi.nlm.nih.gov/23832735/) | 2013 | Ulasan | Eur Rev Med Pharmacol Sci | Kemoterapi berasaskan taksan dan epotilon dalam pengurusan CRPC |
-| [23199349](https://pubmed.ncbi.nlm.nih.gov/23199349/) | 2013 | Ulasan | Expert Opin Pharmacother | Abiraterone asetat untuk kanser prostat; konteks rawatan CRPC |
-| [27537383](https://pubmed.ncbi.nlm.nih.gov/27537383/) | 2016 | Praklinikal | Br J Cancer | Kehilangan SLCO1B3 mendorong rintangan terhadap taksan (docetaxel dan cabazitaxel) |
-| [32252682](https://pubmed.ncbi.nlm.nih.gov/32252682/) | 2020 | Praklinikal | BMC Cancer | Ekspresi berlebihan SLC6A1 dikaitkan dengan rintangan docetaxel dan prognosis buruk |
-| [28235398](https://pubmed.ncbi.nlm.nih.gov/28235398/) | 2017 | Praklinikal | BMC Cancer | Gen TSPYL5: ekspresi, metilasi dan implikasi terhadap kepekaan ubat dalam karsinoma prostat |
-| [15332713](https://pubmed.ncbi.nlm.nih.gov/15332713/) | 2004 | Praklinikal | J Chemother | Kesan paclitaxel dan docetaxel terhadap sel karsinoma yang mengekspres EGFR dalam keadaan normoksia dan hipoksia |
+| [18521364](https://pubmed.ncbi.nlm.nih.gov/18521364/) | 2003 | Fasa 2 | Sarcoma | Docetaxel tunggal pada pesakit tumor Ewing yang relaps/refraktori (14 pesakit) |
+| [22363068](https://pubmed.ncbi.nlm.nih.gov/22363068/) | 2012 | Fasa 2 | The Oncologist | Gemcitabine diikuti docetaxel untuk sarkoma Ewing, osteosarkoma dan kondrosarkoma berulang (SARC 003) |
+| [28787430](https://pubmed.ncbi.nlm.nih.gov/28787430/) | 2017 | Fasa 2 | Br J Cancer | GEIS-21: kemoterapi intensif termasuk gemcitabine dan docetaxel untuk sarkoma Ewing berisiko tinggi |
+| [25164234](https://pubmed.ncbi.nlm.nih.gov/25164234/) | 2014 | Fasa 2 | BMC Cancer | Docetaxel dengan irinotecan pada kanak-kanak dan dewasa muda dengan keluarga tumor Ewing berulang/refraktori |
+| [34496122](https://pubmed.ncbi.nlm.nih.gov/34496122/) | 2021 | Analisis kohort | Pediatr Blood Cancer | Hasil sarkoma Ewing relaps dalam kajian fasa 2 COG; hanya docetaxel mencapai kadar tindak balas protokol, tetapi EFS 6 bulan hanya 12.7% |
+| [22302783](https://pubmed.ncbi.nlm.nih.gov/22302783/) | 2012 | Kohort | Pediatr Blood Cancer | GEMDOX untuk sarkoma pediatrik relaps dan refraktori |
+| [18484657](https://pubmed.ncbi.nlm.nih.gov/18484657/) | 2008 | Kohort | Cancer | Gemcitabine dan docetaxel untuk sarkoma tulang refraktori pada kanak-kanak dan dewasa muda |
+| [19727011](https://pubmed.ncbi.nlm.nih.gov/19727011/) | 2009 | Siri kes | J Pediatr Hematol Oncol | Gemcitabine-docetaxel pada sarkoma pediatrik relaps/refraktori |
+| [15117993](https://pubmed.ncbi.nlm.nih.gov/15117993/) | 2004 | Praklinikal/klinikal | J Clin Oncol | Sitotoksisiti sinergistik gemcitabine diikuti docetaxel dalam sarkoma |
+| [32386107](https://pubmed.ncbi.nlm.nih.gov/32386107/) | 2020 | Fasa 2 | Pediatr Blood Cancer | Gemcitabine dan nab-paclitaxel (taxane lain) dalam sarkoma Ewing berulang |
 
----
+## Maklumat Pasaran Malaysia
 
-## Pertimbangan Keselamatan
+Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data lesen yang dihimpunkan.
 
-Data label produk tidak tersedia. Maklumat di bawah datang daripada graf pengetahuan TxGNN dan pangkalan data interaksi ubat, bukan daripada teks sisipan pakej.
+| Nombor Kebenaran | Nama Produk | Pengilang |
+|---------|------|------|
+| MAL12055019AZ | Taxotere 20mg/1ml concentrate for solution for infusion | Sanofi-Aventis (Malaysia) Sdn. Bhd. |
+| MAL12050005AZ | Docetax Injection Concentrate 20 mg | Cipla Malaysia Sdn Bhd |
+| MAL12050006AZ | Docetax Injection Concentrate 80 mg | Cipla Malaysia Sdn Bhd |
+| MAL18026176ACZ | Seacross Docetaxel 20mg/ml Concentrate for Solution for Infusion | Medispec (M) Sdn. Bhd. |
+| MAL18016059AZ | DOXOL Docetaxel 20mg/0.5ml Concentrate for Solution for Infusion | Unimed Sdn. Bhd. |
 
-- **Penyakit yang dikaitkan dengan kontraindikasi (graf pengetahuan):** penyakit hati, penyakit pundi hempedu, trombositopenia, neutropenia, agranulositosis, penyakit sistem saraf periferi, neuropati periferi, anemia (termasuk anemia makrositik), hiperbilirubinemia (termasuk hiperbilirubinemia keturunan dan sindrom Gilbert), penyakit diarea, edema pulmonari, stomatitis, neuritis (termasuk neuritis saraf motor dan neuropati periferi motor), tamponad jantung.
-- **Interaksi ubat:** terdapat 100 interaksi direkodkan. Antara yang disenaraikan:
-  - **Major:** clarithromycin.
-  - **Sederhana:** aprepitant, metronidazole, cimetidine, eliglustat, miconazole, rolapitant, rosuvastatin, simvastatin, tinidazole, troglitazone.
-  - **Minor:** dexamethasone, levofloxacin, prednisolone, prednisone.
-  - **Tidak diketahui:** calcitriol, clotrimazole, mannitol, chlorhexidine, asid asetilsalisilik.
-
-Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
-
----
+Terdapat 10 pendaftaran sah kesemuanya (semua ubat satu bahan); lima yang utama disenaraikan di atas.
 
 ## Sitotoksisiti
 
 | Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (kelas taksan; penstabil mikrotubul) |
-| Risiko Penekanan Sumsum Tulang | Tinggi (neutropenia ialah toksisiti yang mengehadkan dos; neutropenia dan trombositopenia juga tersenarai dalam kontraindikasi graf pengetahuan) |
-| Klasifikasi Emetogenisiti | Rendah hingga sederhana |
-| Item Pemantauan | Kiraan darah lengkap (CBC dengan pembezaan), fungsi hati dan bilirubin, fungsi buah pinggang, gejala neuropati periferi, retensi cecair, tindak balas hipersensitiviti |
-| Perlindungan Pengendalian | Perlu mengikut garis panduan pengendalian ubat sitotoksik |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (taxane, perencat mikrotubul) |
+| Klasifikasi Emetogenisiti | Rendah hingga sederhana (mengikut kategori ubat) |
+| Item Pemantauan | Kiraan darah lengkap (dengan pembezaan), fungsi hati (termasuk bilirubin) dan buah pinggang, neuropati periferal, kecederaan bendalir/edema |
+| Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
 
----
+Sila rujuk amaran dan langkah berjaga-jaga dalam sisip bungkusan untuk maklumat terperinci.
+
+## Pertimbangan Keselamatan
+
+Teks amaran utama dan kontraindikasi daripada sisip bungkusan tidak tersedia dalam data yang dihimpunkan.
+
+- **Hubungan kontraindikasi dalam graf pengetahuan (bukan teks label)**: penyakit hati, penyakit pundi hempedu, trombositopenia, neutropenia, agranulositosis, penyakit sistem saraf periferal, neuropati periferal, anemia, hiperbilirubinemia, sindrom Gilbert, penyakit diarea, edema pulmonari, stomatitis, neuritis dan tamponad jantung.
+- **Interaksi Ubat** (100 interaksi direkodkan; yang utama):
+  - Major: clarithromycin
+  - Sederhana: aprepitant, metronidazole, cimetidine, eliglustat, miconazole, rolapitant, rosuvastatin, simvastatin, tinidazole, troglitazone
+  - Minor: dexamethasone, levofloxacin, prednisolone, prednisone
+
+Sila rujuk sisip bungkusan untuk maklumat keselamatan yang lengkap.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Proceed with Guardrails**
 
-**Justifikasi:**
-- Tiada ujian klinikal dan tiada literatur yang menyasarkan populasi familial atau keturunan. Bukti sedia ada datang daripada kanser prostat umum, dengan hanya satu ujian Fasa 2 kecil (13 pesakit) dan satu RCT Fasa 2 yang keputusannya tidak dilaporkan dalam abstrak.
-- Docetaxel tidak dipasarkan di Malaysia dan data keselamatan label tidak tersedia. Skor TxGNN sebanyak 0.0 juga tidak menyokong keyakinan tambahan.
+**Rasional:**
+Beberapa kajian fasa 2 dan siri kohort menunjukkan aktiviti docetaxel (kebanyakannya bersama gemcitabine) dalam sarkoma Ewing yang relaps, tetapi bukti datang daripada kajian lengan tunggal, kohort campuran dan saiz sampel kecil. Hasil jangka panjang kekal lemah (EFS 6 bulan 12.7%), jadi ia sesuai sebagai persoalan penyelidikan terkawal, bukan penggunaan rutin.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Muat turun dan huraikan sisipan pakej NPRA bagi amaran dan kontraindikasi.
-- Lengkapkan data mekanisme tindakan (MOA) daripada DrugBank.
-- Sahkan status pendaftaran dan pemasaran di Malaysia, kerana status "tidak dipasarkan" untuk ubat yang mantap ini mungkin masalah kualiti data.
-- Cari atau jalankan kajian yang membandingkan tindak balas docetaxel dalam kanser prostat familial atau berkaitan BRCA dengan kanser prostat sporadik.
-- Rancang strategi pemantauan keselamatan untuk pesakit berisiko (penyakit hati, neutropenia, neuropati periferi).
+- Sisip bungkusan NPRA (amaran dan kontraindikasi) serta teks indikasi yang diluluskan
+- Data mekanisme tindakan terperinci (MOA)
+- Kajian rawak atau berkawalan yang menilai sumbangan docetaxel secara khusus dalam sarkoma Ewing
+- Pelan pemantauan keselamatan (mielosupresi, fungsi hati, neuropati) dan semakan interaksi ubat, terutamanya perencat CYP3A4 kuat seperti clarithromycin
+
+**Ramalan lain dalam senarai (ringkas):**
+- Rhabdomyosarcoma: L2, kajian fasa 2 pediatrik campuran; bukti khusus jarang. Perlu kajian lanjut.
+- Limfoma paru-paru primer dan blastoma paru-paru: bukti tidak menyokong secara langsung; Hold.
+- Subjenis rhabdomyosarcoma yang sangat jarang (vagina, saluran hempedu ekstrahepatik, parameningeal): hanya ramalan model, tiada kajian; L5, Hold.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

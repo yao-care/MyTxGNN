@@ -49,10 +49,10 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **hipoalfalipoproteinemia**, te
 |------|------|
 | Indikasi Asal | Tiada data pendaftaran tempatan |
 | Indikasi Baharu yang Diramalkan | Hipoalfalipoproteinemia |
-| Skor Ramalan TxGNN | 99.82% |
+| Skor Ramalan TxGNN | 0.9982 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **hipoalfalipoproteinemia**, te
 
 Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Prucalopride diketahui sebagai agonis 5-HT4 terpilih yang merangsang motiliti gastrousus. Tiada hubungan mekanistik yang diketahui antara tindakan ini dengan metabolisme HDL atau pengawalaturan ApoA-I.
 
-Penilaian mekanistik mendapati **tiada pautan biologi yang munasabah**. Skor TxGNN yang tinggi kelihatan sebagai artifak ramalan berasaskan graf tanpa sokongan rasional biologi.
+Penilaian mekanistik mendapati **tiada pautan biologi yang munasabah**. Skor tinggi itu datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
 Ramalan lain dalam senarai turut diperiksa. Kebanyakannya (hiperkolesterolemia familial homozigot, ulser duodenum, kandidiasis oral, strongiloidiasis, jangkitan HIV) juga tidak mempunyai hubungan mekanistik atau bukti sokongan. Hanya **amiloidosis** dan **amiloidosis primer** menunjukkan kaitan tidak langsung pada tahap simptom. Dismotiliti gastrousus akibat amiloid mungkin dapat dilegakan oleh agen prokinetik, tetapi ini bukan pengubahsuaian penyakit. Berhati-hati diperlukan kerana agen prokinetik secara amnya dikontraindikasikan dalam sekatan mekanikal.
 

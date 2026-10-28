@@ -3,18 +3,18 @@ layout: default
 title: Ampicillin
 parent: Low Evidence (L4-L5)
 nav_order: 74
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ampicillin: indikasi baharu diramal Laringitis (tahap bukti L4). Indikasi asal: Jangkitan bakteria (contohnya jangkitan saluran kencing…"
+evidence_level: L5
+indication_count: 9
 monitor_inn: "AMPICILLIN"
-predicted_indications: ["laryngitis", "Ureaplasma urethritis", "gonococcal urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
+predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
+last_modified_at: 2026-10-27
+description: "Ampicillin: indikasi baharu diramal Laringitis (laryngitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ampicillin
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,73 +33,77 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Ampicillin: Daripada Jangkitan Bakteria kepada Laringitis
+## Ampicillin: antibiotik beta-laktam → Laringitis (laryngitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Ampicillin ialah antibiotik beta-laktam yang pada asalnya digunakan untuk merawat pelbagai jangkitan bakteria, termasuk jangkitan saluran kencing, radang paru-paru bakteria, meningitis bakteria dan disentri.
-Model TxGNN meramalkan ia mungkin berkesan untuk **laringitis**, tetapi **tiada ujian klinikal** didaftarkan dan **20 penerbitan** yang diperoleh kebanyakannya bersifat tidak langsung (kajian epiglotitis, abses laring dan tinjauan mikrobiologi, bukan laringitis itu sendiri).
+Ampicillin ialah antibiotik beta-laktam daripada kumpulan aminopenisilin yang digunakan untuk pelbagai jangkitan bakteria.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Laringitis (laryngitis)**,
+tetapi setakat ini **tiada ujian klinikal** didaftarkan dan hanya **20 penerbitan** yang berkaitan secara tidak langsung (kebanyakannya tentang epiglotitis, abses laring dan jangkitan leher dalam, bukan laringitis itu sendiri).
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan bakteria (contohnya jangkitan saluran kencing, radang paru-paru bakteria, meningitis bakteria) berdasarkan graf pengetahuan TxGNN; tiada teks indikasi berlesen tersedia kerana tiada pendaftaran di Malaysia |
-| Indikasi Baharu yang Diramalkan | Laringitis |
-| Skor Ramalan TxGNN | 99.97% |
-| Tahap Bukti | L4 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Laringitis (laryngitis) |
+| Skor Ramalan TxGNN | 0,9997 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 18 daripada 18) |
+| Bilangan Pendaftaran | 18 (sah: 18) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, ampicillin ialah antibiotik beta-laktam yang menghalang sintesis dinding sel bakteria. Keberkesanannya dalam jangkitan bakteria telah terbukti, dan secara mekanistik ia mungkin sesuai untuk jangkitan saluran pernafasan atas yang disebabkan oleh bakteria yang peka.
+Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, ampicillin ialah antibiotik beta-laktam yang merencat sintesis dinding sel bakteria dan aktif terhadap kuman saluran pernafasan atas seperti *Haemophilus influenzae* dan streptokokus. Kuman ini menyebabkan epiglotitis bakteria dan jangkitan leher dalam, sebab itu model mengaitkan ubat ini dengan keradangan laring.
 
-Ampicillin aktif terhadap patogen saluran pernafasan atas yang biasa seperti *Haemophilus influenzae* dan streptokokus, yang menyebabkan epiglotitis bakteria dan jangkitan leher dalam. Namun, kesusasteraan yang diperoleh meliputi epiglotitis, abses laring dan pilihan antibiotik perioperatif, bukan laringitis itu sendiri, jadi hubungan ini bersifat tidak langsung.
+Namun, pautan ini tidak langsung. Kajian yang diperoleh membincangkan epiglotitis, abses laring dan pilihan antibiotik perioperatif, bukan laringitis. Kebanyakan laringitis berpunca daripada virus dan tidak akan bertindak balas terhadap ampicillin. Oleh itu, skor ramalan yang tinggi tidak boleh dianggap sebagai bukti keberkesanan klinikal.
 
-Satu perkara penting: kebanyakan laringitis disebabkan oleh virus dan tidak akan memberi tindak balas kepada ampicillin. Skor ramalan yang tinggi mungkin mencerminkan kedekatan dalam graf pengetahuan dan bukan bukti keberkesanan klinikal.
+Tiada kajian yang diperoleh mengkaji laringitis secara langsung, maka tahap bukti ditetapkan pada L5.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-Berikut ialah penerbitan terpilih (tiada RCT dikenal pasti; kebanyakannya kajian kes, tinjauan dan kajian retrospektif).
+Di bawah ialah penerbitan terpilih (kebanyakannya tinjauan atau laporan kes; tiada RCT).
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [3977063](https://pubmed.ncbi.nlm.nih.gov/3977063/) | 1985 | Tinjauan | Anaesth Intensive Care | Semakan 161 kanak-kanak dengan epiglotitis akut; 45 komplikasi dan 5 kematian; pengurusan saluran udara ialah keutamaan |
-| [2603419](https://pubmed.ncbi.nlm.nih.gov/2603419/) | 1989 | Tinjauan | West J Med | 9 pesakit dewasa dengan epiglotitis akut; 4 memerlukan intubasi; 6 pada mulanya salah didiagnosis |
-| [35923122](https://pubmed.ncbi.nlm.nih.gov/35923122/) | 2023 | Kes/Tinjauan | Ann Otol Rhinol Laryngol | Kes abses laring spontan dalam diabetes tidak terkawal dan semakan kes terdahulu |
-| [25944348](https://pubmed.ncbi.nlm.nih.gov/25944348/) | 2015 | Kohort | Otolaryngol Head Neck Surg | Komplikasi laringektomi dikaitkan dengan pilihan antibiotik perioperatif |
-| [3026014](https://pubmed.ncbi.nlm.nih.gov/3026014/) | 1986 | Tidak dikelaskan | Rev Infect Dis | Sulbactam/ampicillin untuk epiglotitis kanak-kanak; sehingga 25% strain Hib menghasilkan beta-laktamase dan rintang terhadap ampicillin |
-| [3290661](https://pubmed.ncbi.nlm.nih.gov/3290661/) | 1988 | Tidak dikelaskan | Monatsschr Kinderheilkd | 27 kanak-kanak epiglotitis; kemunculan Hib rintang ampicillin mengubah pilihan rawatan |
-| [6881564](https://pubmed.ncbi.nlm.nih.gov/6881564/) | 1983 | Tidak dikelaskan | Anesth Analg | 23 pesakit pediatrik epiglotitis dirawat dengan ampicillin atau chloramphenicol; tempoh intubasi dan demam dikaji |
-| [3322611](https://pubmed.ncbi.nlm.nih.gov/3322611/) | 1987 | Tidak dikelaskan | Clin Otolaryngol | 19 kes epiglotitis dewasa; bakteriologi dan prinsip terapeutik |
-| [39879424](https://pubmed.ncbi.nlm.nih.gov/39879424/) | 2025 | Tidak dikelaskan | CoDAS | Penilaian kualiti garis panduan klinikal laringitis dan faringitis mengikut AGREE II |
-| [7487676](https://pubmed.ncbi.nlm.nih.gov/7487676/) | 1995 | Praklinikal | Auris Nasus Larynx | Ibuprofen ditambah ampicillin dalam otitis media akut eksperimen pada chinchilla |
+| [3977063](https://pubmed.ncbi.nlm.nih.gov/3977063/) | 1985 | Tinjauan | Anaesthesia and Intensive Care | Semakan 161 kanak-kanak dengan epiglotitis akut; 45 komplikasi dan 5 kematian; pengurusan saluran udara ditekankan |
+| [35923122](https://pubmed.ncbi.nlm.nih.gov/35923122/) | 2023 | Laporan kes/Tinjauan | Annals of Otology, Rhinology & Laryngology | Abses laring spontan yang jarang berlaku pada pesakit diabetes tidak terkawal |
+| [2603419](https://pubmed.ncbi.nlm.nih.gov/2603419/) | 1989 | Tinjauan | Western Journal of Medicine | 9 orang dewasa dengan epiglotitis akut; 4 memerlukan intubasi |
+| [34986973](https://pubmed.ncbi.nlm.nih.gov/34986973/) | 2023 | Laporan kes/Tinjauan | Auris Nasus Larynx | Epiglotitis akut yang berkemungkinan disebabkan COVID-19 |
+| [25944348](https://pubmed.ncbi.nlm.nih.gov/25944348/) | 2015 | Kohort | Otolaryngology–Head and Neck Surgery | Pilihan antibiotik perioperatif dikaitkan dengan komplikasi laringektomi |
+| [3322611](https://pubmed.ncbi.nlm.nih.gov/3322611/) | 1987 | Retrospektif | Clinical Otolaryngology | 19 kes epiglotitis dewasa; bakteriologi dan prinsip rawatan |
+| [3026014](https://pubmed.ncbi.nlm.nih.gov/3026014/) | 1986 | Tinjauan | Reviews of Infectious Diseases | Sulbactam/ampicillin untuk epiglotitis kanak-kanak, memandangkan rintangan beta-laktamase *H. influenzae* |
+| [3290661](https://pubmed.ncbi.nlm.nih.gov/3290661/) | 1988 | Retrospektif | Monatsschrift Kinderheilkunde | Perubahan rintangan *H. influenzae* jenis b terhadap ampicillin mengubah pilihan rawatan |
+| [39879424](https://pubmed.ncbi.nlm.nih.gov/39879424/) | 2025 | Penilaian garis panduan | CoDAS | Penilaian kualiti garis panduan klinikal untuk laringitis dan faringitis (AGREE II) |
+| [41536375](https://pubmed.ncbi.nlm.nih.gov/41536375/) | 2025 | Laporan kes | Cureus | Kes krup yang memerlukan diagnosis pembeza dipertimbang semula |
+
+---
+
+## Maklumat Pasaran di Malaysia
+
+Data tempatan merekodkan 18 lesen yang sah dan tiada lesen dibatalkan. Senarai lesen terperinci tidak disertakan dalam data yang dikumpulkan untuk laporan ini.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Data keselamatan daripada sisipan pek tidak tersedia. Sila rujuk sisipan pek untuk maklumat keselamatan.
+- **Interaksi Ubat**: Sebanyak 61 interaksi direkodkan. Antara yang bertahap sederhana ialah doxycycline, minocycline, tetracycline, kanamycin, balsalazide, lansoprazole, dexlansoprazole dan picosulfuric acid. Clarithromycin bertahap ringan.
 
-Maklumat tambahan daripada graf pengetahuan (bukan teks label):
-
-- **Penyakit berkaitan kontraindikasi (graf pengetahuan)**: penyakit buah pinggang, gangguan fungsi buah pinggang, penyakit hematologi, penyakit ulser peptik, kolitis *Clostridium difficile*, enterokolitis nekrotik perinatal, mononukleosis berjangkit, sindrom jangkitan kronik virus Epstein-Barr, nefropati urat akut, dan piouretra. Perhatikan bahawa kajian dalam kesusasteraan mengenai demam kelenjar turut mencatat ruam akibat ampicillin.
-- **Interaksi Ubat**: 61 interaksi direkodkan. Yang bertahap **sederhana** termasuk doxycycline, balsalazide, dexlansoprazole, kanamycin, lansoprazole, minocycline, tetracycline dan asid picosulfurik. Clarithromycin bertahap **minor**. Beberapa lagi (contohnya pantoprazole, omeprazole, vancomycin, morphine, prednisone) bertahap tidak diketahui.
+Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pek produk.
 
 ---
 
@@ -107,15 +111,14 @@ Maklumat tambahan daripada graf pengetahuan (bukan teks label):
 
 **Keputusan: Hold (Tangguh)**
 
-**Justifikasi:**
-- Tiada ujian klinikal didaftarkan dan tiada kajian yang menilai ampicillin untuk laringitis secara langsung; bukti hanya setakat tahap L4. Kebanyakan laringitis disebabkan virus, dan rintangan beta-laktamase menghadkan kegunaan ampicillin, jadi skor TxGNN yang tinggi tidak disokong oleh mekanisme atau bukti klinikal.
-- Ampicillin tidak berdaftar di Malaysia (0 pendaftaran), maka tiada laluan kawal selia yang sedia ada.
+**Rasional:**
+- Tiada ujian klinikal dan tiada kajian yang meneliti laringitis secara langsung. Bukti hanya berkaitan secara tidak langsung (epiglotitis dan jangkitan leher), manakala kebanyakan laringitis bersifat virus dan tidak sesuai dirawat dengan antibiotik.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) yang terperinci
-- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang saringan keselamatan)
-- Bukti klinikal khusus untuk laringitis bakteria (contohnya ujian terkawal), serta data rintangan antimikrob terkini setempat
-- Penilaian status pendaftaran dan laluan pemberian jika ampicillin hendak diperkenalkan di Malaysia
+- Kajian klinikal yang menilai ampicillin secara langsung pada laringitis bakteria yang disahkan
+- Data mekanisme tindakan yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pek NPRA
+- Pertimbangan penjagaan antibiotik (antimicrobial stewardship) dan corak rintangan semasa
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

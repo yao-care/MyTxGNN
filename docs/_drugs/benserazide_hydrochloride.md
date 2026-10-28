@@ -8,6 +8,7 @@ nav_order: 132
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Benserazide Hydrochloride
@@ -47,8 +48,8 @@ Benserazide hydrochloride ialah perencat dekarboxilase DOPA periferal, biasanya 
 | Petunjuk Baru yang Diramalkan | — (Tiada ramalan dijana) |
 | Skor Ramalan TxGNN | — |
 | Tahap Bukti | L5 (Tiada kajian; tiada ramalan model tersedia) |
-| Status Pasaran Malaysia | ✓ Tersedia di pasaran (Tersedia di pasaran) |
-| Bilangan Pendaftaran | 3 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | **Tunggu** |
 
 ## Mengapa Ramalan Ini Munasabah?

@@ -8,6 +8,7 @@ nav_order: 61
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Amlodipine Besilate
@@ -51,8 +52,8 @@ Penilaian penggunaan semula ubat **tidak dapat diteruskan** sehingga keluaran ra
 | Indikasi Baru Diramalkan | — (Tidak tersedia) |
 | Skor Ramalan TxGNN | — (Tidak tersedia) |
 | Tahap Bukti | — (Tidak dapat ditentukan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 76 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 74 daripada 74) |
+| Bilangan Pendaftaran | 74 (sah: 74) |
 | Keputusan yang Disyorkan | **Tangguhkan** |
 
 ---

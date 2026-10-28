@@ -8,6 +8,7 @@ nav_order: 109
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Avanafil
@@ -51,8 +52,8 @@ Laporan ini mendokumentasikan status data semasa dan menentukan langkah pemuliha
 | Petunjuk Baru yang Diramalkan | Tidak tersedia — data ramalan TxGNN tidak hadir |
 | Skor Ramalan TxGNN | T/A |
 | Paras Bukti | Data Tidak Mencukupi |
-| Status Pasaran Malaysia | ✓ Berdaftar |
-| Bilangan Pendaftaran | 3 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

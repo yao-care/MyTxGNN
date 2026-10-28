@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dexlansoprazole
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 272
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Dexlansoprazole: indikasi baharu diramal Penyakit ulser peptik aktif (tahap bukti L3). Indikasi asal: Penyakit ulser peptik, GERD, esofagitis…"
 monitor_inn: "DEXLANSOPRAZOLE"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
+description: "Dexlansoprazole: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Dexlansoprazole
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-## Dexlansoprazole: Daripada Penyakit Ulser Peptik kepada Penyakit Ulser Peptik Aktif
+## Dexlansoprazole: Gastroduodenitis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Setakat ini terdapat **2 ujian klinikal Fasa 3** dan **3 penerbitan** yang dikai
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit ulser peptik, GERD, esofagitis, esofagitis peptik (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen kerana tiada pendaftaran) |
-| Indikasi Baharu yang Diramalkan | Penyakit ulser peptik aktif |
-| Skor Ramalan TxGNN | 99.99% |
-| Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Gastroduodenitis |
+| Skor Ramalan TxGNN | 0.9998 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ Setakat ini terdapat **2 ujian klinikal Fasa 3** dan **3 penerbitan** yang dikai
 
 Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, dexlansoprazole tergolong dalam kelas perencat pam proton (H+/K+ ATPase) yang menyekat rembesan asid gastrik. Keberkesanannya dalam penyakit berkaitan asid telah dibuktikan, dan secara mekanisme ia boleh digunakan untuk penyembuhan ulser.
 
-Penyakit ulser peptik sudah tersenarai antara indikasi asal dalam graf pengetahuan. Oleh itu, ramalan ini lebih tepat difahami sebagai pengesahan indikasi sedia ada, bukan penemuan indikasi baharu.
+Oleh itu, ramalan ini lebih tepat difahami sebagai pengesahan indikasi sedia ada, bukan penemuan indikasi baharu.
 
 Perlu diingat juga bahawa dua ujian Fasa 3 yang disenaraikan ialah ujian penyembuhan esofagitis erosif. Ujian tersebut menyokong keberkesanan penyekatan asid dan keselamatan, tetapi tidak menyokong penyembuhan ulser secara langsung.
 

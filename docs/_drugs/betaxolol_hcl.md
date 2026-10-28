@@ -8,6 +8,7 @@ nav_order: 144
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Betaxolol Hcl
@@ -51,8 +52,8 @@ dan jurang data kritikal (MOA, profil keselamatan, butiran lesen) tetap perlu di
 | Indikasi Baharu Diramalkan | **Tiada** — tiada ramalan TxGNN tersedia |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | L5 (Tiada ramalan atau bukti sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 2 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | **Tahan** |
 
 ---

@@ -4,17 +4,17 @@ title: Pemetrexed
 parent: Low Evidence (L4-L5)
 nav_order: 562
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Pemetrexed: indikasi baharu diramal Mesotelioma peritoneum malignan (tahap bukti L5). Indikasi asal: Kanser paru-paru bukan sel kecil, kanser paru-paru…"
 monitor_inn: "pemetrexed"
-predicted_indications: ["pleural adenomatoid tumor", "pleural biphasic mesothelioma", "pericardium cancer", "well differentiated papillary mesothelioma", "lymphohistiocytoid mesothelioma", "iminoglycinuria"]
+predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
+description: "Pemetrexed: indikasi baharu diramal Pleural adenomatoid tumor (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Pemetrexed
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Pemetrexed: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Mesotelioma Peritoneum Malignan
+## Pemetrexed: Pleural adenomatoid tumor
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Arah ini disokong oleh **7 ujian klinikal** dan **20 penerbitan**. Kebanyakan bu
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Kanser paru-paru bukan sel kecil, kanser paru-paru, mesotelioma pleura malignan |
-| Indikasi Baharu yang Diramalkan | Mesotelioma peritoneum malignan |
-| Skor Ramalan TxGNN | 99.99% |
-| Tahap Bukti | L2 (satu ujian Phase 2 selesai yang merangkumi populasi peritoneum, tetapi bukan rawak dan tapak campuran) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Pleural adenomatoid tumor |
+| Skor Ramalan TxGNN | 0.9999 |
+| Tahap Bukti | L5 (satu ujian Phase 2 selesai yang merangkumi populasi peritoneum, tetapi bukan rawak dan tapak campuran) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 25 daripada 25) |
+| Bilangan Pendaftaran | 25 (sah: 25) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
@@ -104,7 +104,6 @@ Tiada ujian terkawal rawak khusus peritoneum dalam senarai di atas. Kebanyakan b
 | Perkara | Kandungan |
 |------|------|
 | Klasifikasi Sitotoksisiti | Sitotoksik konvensional (antifolat berbilang sasaran) |
-| Risiko Penyahan Sumsum Tulang | Sederhana hingga tinggi. Neutropenia, trombositopenia dan anemia disenaraikan dalam graf pengetahuan sebagai keadaan berisiko |
 | Klasifikasi Emetogenisiti | Rendah hingga sederhana |
 | Item Pemantauan | Kiraan darah lengkap (CBC) dengan pembezaan, fungsi renal, fungsi hati |
 | Perlindungan Pengendalian | Perlu mengikut garis panduan pengendalian ubat sitotoksik. Rujuk risalah maklumat produk untuk amaran dan langkah berjaga-jaga |
@@ -137,7 +136,7 @@ Amaran utama dan kontraindikasi daripada label rasmi tidak tersedia. Sila rujuk 
 - Pemetrexed ialah rawatan piawai untuk mesotelioma pleura, dan gabungan pemetrexed-platinum digunakan dalam amalan untuk mesotelioma peritoneum. Terdapat satu ujian Phase 2 selesai yang merangkumi populasi peritoneum, beberapa ujian Phase 2 yang sedang berjalan, dan kajian retrospektif. Namun bukti khusus peritoneum masih terhad kepada kajian kecil atau tapak campuran dan tiada ujian rawak khusus peritoneum yang selesai, jadi kemajuan perlu dengan pengawasan yang teliti.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
-- Pengesahan status pendaftaran NPRA. Data yang dikumpulkan menunjukkan pemetrexed tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan.
+- Pengesahan status pendaftaran NPRA.
 - Amaran dan kontraindikasi daripada risalah maklumat produk NPRA (jurang data yang menyekat saringan keselamatan).
 - Data mekanisme tindakan terperinci daripada pangkalan data ubat.
 - Keputusan ujian Phase 2 peritoneum yang sedang berjalan (NCT05001880, NCT06543069, NCT06057935) dan data rawak khusus peritoneum.

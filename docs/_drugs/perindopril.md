@@ -4,17 +4,17 @@ title: Perindopril
 parent: Low Evidence (L4-L5)
 nav_order: 566
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Perindopril: indikasi baharu diramal Penyakit renal hipertensif malignan (tahap bukti L5). Indikasi asal: Gangguan hipertensi / hipertensi"
 monitor_inn: "PERINDOPRIL"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+description: "Perindopril: indikasi baharu diramal Penyakit renal hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Perindopril
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Perindopril: Daripada Hipertensi kepada Penyakit Renal Hipertensif Malignan
+## Perindopril: Penyakit renal hipertensif malignan (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada percubaan klinikal** didaftarkan dan **tiada litera
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Gangguan hipertensi / hipertensi |
-| Indikasi Baharu yang Diramalkan | Penyakit renal hipertensif malignan |
-| Skor Ramalan TxGNN | 99.77% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Penyakit renal hipertensif malignan (malignant hypertensive renal disease) |
+| Skor Ramalan TxGNN | 0.9977 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 39 daripada 39) |
+| Bilangan Pendaftaran | 39 (sah: 39) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ tetapi pada masa ini **tiada percubaan klinikal** didaftarkan dan **tiada litera
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, perindopril tergolong dalam kelas perencat ACE, keberkesanannya dalam hipertensi telah terbukti, dan secara mekanistik ia mungkin sesuai untuk penyakit renal hipertensif malignan.
 
-Perencat ACE menurunkan tekanan darah dan mengurangkan tekanan intraglomerulus melalui penurunan aktiviti angiotensin II. Ini munasabah secara biologi untuk kerosakan buah pinggang akibat hipertensi. Namun, ini sebahagian besarnya hanyalah lanjutan daripada indikasi hipertensi asal. Skor TxGNN yang tinggi (0.998) mencerminkan ramalan berasaskan graf, bukan pengesahan klinikal.
+Perencat ACE menurunkan tekanan darah dan mengurangkan tekanan intraglomerulus melalui penurunan aktiviti angiotensin II. Ini munasabah secara biologi untuk kerosakan buah pinggang akibat hipertensi. Namun, ini sebahagian besarnya hanyalah lanjutan daripada indikasi hipertensi asal.
 
 Satu-satunya penerbitan yang diperoleh membincangkan fungsi buah pinggang tunggal selepas nefrektomi untuk kanser renal, dan tidak relevan dengan nefropati hipertensif malignan.
 
@@ -70,10 +70,10 @@ Satu-satunya penerbitan yang diperoleh membincangkan fungsi buah pinggang tungga
 
 | Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Catatan |
 |------|------|------|------|
-| Hipertensi renovaskular malignan | 99.77% | L5 | Perencat ACE boleh menyebabkan kemerosotan fungsi renal akut pada stenosis arteri renal bilateral atau buah pinggang tunggal; kebimbangan keselamatan yang ketara |
-| Hipertensi pulmonari akibat penyakit paru-paru dan/atau hipoksia | 99.75% | L4 | Hanya sokongan praklinikal tidak langsung (kajian tikus hipoksia, PMID 11282121) |
-| Hipertensi pulmonari dengan mekanisme multifaktor yang tidak jelas | 99.75% | L5 | Rasional spekulatif |
-| Sindrom Braddock | 99.66% | L5 | Tiada rasional mekanistik yang jelas |
+| Hipertensi renovaskular malignan | 0.9977 | L5 | Perencat ACE boleh menyebabkan kemerosotan fungsi renal akut pada stenosis arteri renal bilateral atau buah pinggang tunggal; kebimbangan keselamatan yang ketara |
+| Hipertensi pulmonari akibat penyakit paru-paru dan/atau hipoksia | 0.9975 | L5 | Hanya sokongan praklinikal tidak langsung (kajian tikus hipoksia, PMID 11282121) |
+| Hipertensi pulmonari dengan mekanisme multifaktor yang tidak jelas | 0.9975 | L5 | Rasional spekulatif |
+| Sindrom Braddock | 0.9966 | L5 | Tiada rasional mekanistik yang jelas |
 
 ---
 
@@ -106,7 +106,7 @@ Satu penerbitan diperoleh untuk indikasi utama, tetapi tidak relevan secara lang
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal dan tanpa literatur relevan. Perindopril juga tidak dipasarkan di Malaysia, dan profil keselamatan (terutamanya risiko angioedema serta kesan ke atas fungsi renal) memerlukan perhatian.
+- Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal dan tanpa literatur relevan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej (package insert) NPRA

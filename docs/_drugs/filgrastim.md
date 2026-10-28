@@ -6,9 +6,9 @@ nav_order: 357
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Filgrastim: indikasi baharu diramal Primary release disorder of platelets (gangguan pelepasan primer plat… (tahap bukti L5). Indikasi asal: Tiada maklumat indikasi berdaftar dalam data yang disusun"
 monitor_inn: "Filgrastim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
+description: "Filgrastim: indikasi baharu diramal Primary release disorder of platelets (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Filgrastim
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Filgrastim: Daripada Penggunaan Asal kepada Gangguan Pendarahan Jenis Platelet (Ramalan)
+## Filgrastim: Primary release disorder of platelets
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Filgrastim ialah faktor perangsang koloni granulosit (G-CSF) yang bertindak pada keturunan sel mieloid untuk merangsang pembiakan dan pembezaan neutrofil. Data yang disusun untuk laporan ini tidak mencatat indikasi asal yang berdaftar di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **primary release disorder of platelets** (skor 99.998%), tetapi ramalan ini **tiada sebarang percubaan klinikal atau penerbitan** sebagai sokongan. Kesemuanya masih pada tahap ramalan model sahaja.
+Model TxGNN meramalkan ia mungkin berkesan untuk **primary release disorder of platelets** (skor 1.0000), tetapi ramalan ini **tiada sebarang percubaan klinikal atau penerbitan** sebagai sokongan. Kesemuanya masih pada tahap ramalan model sahaja.
 
 ---
 
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **primary release disorder of p
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada maklumat indikasi berdaftar dalam data yang disusun |
-| Indikasi Baharu yang Diramalkan | Primary release disorder of platelets (gangguan pelepasan primer platelet) |
-| Skor Ramalan TxGNN | 99.998% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Primary release disorder of platelets |
+| Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
+| Bilangan Pendaftaran | 10 (sah: 10) |
 | Keputusan Disyorkan | Hold |
 
 Nota: Indikasi lain dalam senarai ramalan (kedudukan 2–10) juga berada pada tahap Hold. Hanya "platelet-type bleeding disorder" (kedudukan 10) mempunyai percubaan klinikal yang dipadankan (tahap L4), tetapi kesemuanya berkaitan secara tidak langsung.
@@ -63,7 +63,7 @@ Nota: Indikasi lain dalam senarai ramalan (kedudukan 2–10) juga berada pada ta
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan pengetahuan umum, filgrastim ialah G-CSF yang bertindak pada keturunan mieloid (percambahan dan pembezaan neutrofil), bukan pada pelepasan granul platelet atau fungsi platelet.
 
-Skor TxGNN yang tinggi ialah ramalan berasaskan graf tanpa sokongan klinikal atau literatur. Tiada hubungan mekanistik yang munasabah dengan kecacatan rembesan platelet dapat dikenal pasti. Begitu juga bagi indikasi lain yang diramalkan:
+Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi, tanpa sokongan klinikal atau literatur. Tiada hubungan mekanistik yang munasabah dengan kecacatan rembesan platelet dapat dikenal pasti. Begitu juga bagi indikasi lain yang diramalkan:
 
 - **Pseudo-von Willebrand disease**: gangguan peningkatan fungsi GPIb-alfa; G-CSF tidak mempunyai tindakan diketahui pada ikatan GPIb-VWF.
 - **Glanzmann thrombasthenia**: kekurangan atau disfungsi integrin αIIbβ3; G-CSF tidak membetulkan kecacatan ini.
@@ -105,7 +105,6 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Filgrastim pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran lesen direkodkan dalam data yang disusun.
 
 ---
 

@@ -3,18 +3,18 @@ layout: default
 title: Golimumab
 parent: Low Evidence (L4-L5)
 nav_order: 392
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Golimumab: indikasi baharu diramal Vaskulitis reumatoid (tahap bukti L4). Indikasi asal: Artritis reumatoid, artritis psoriatik, spondilitis ankilosis…"
 monitor_inn: "GOLIMUMAB"
-predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease"]
+predicted_indications: ["hypermobility of coccyx", "Kummell disease"]
+description: "Golimumab: indikasi baharu diramal Hypermobility of coccyx (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Golimumab
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-## Golimumab: Daripada Artritis Reumatoid kepada Vaskulitis Reumatoid
+## Golimumab: Hypermobility of coccyx
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ Golimumab ialah antibodi monoklonal manusia yang menyekat TNF-alfa. Ia digunakan
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Artritis reumatoid, artritis psoriatik, spondilitis ankilosis, kolitis ulseratif, penyakit radang usus (IBD) |
-| Indikasi Baharu yang Diramalkan | Vaskulitis reumatoid |
-| Skor Ramalan TxGNN | 99.73% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Hypermobility of coccyx |
+| Skor Ramalan TxGNN | 0.9967 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -104,14 +104,13 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Skor TxGNN tinggi (99.73%), tetapi bukti hanya tidak langsung (L4). Satu-satunya percubaan klinikal tidak berkaitan dengan golimumab untuk vaskulitis, dan literatur terdiri daripada laporan kes serta ulasan. Laporan vaskulitis paradoks semasa terapi anti-TNF juga menimbulkan kebimbangan keselamatan.
+- Satu-satunya percubaan klinikal tidak berkaitan dengan golimumab untuk vaskulitis, dan literatur terdiri daripada laporan kes serta ulasan. Laporan vaskulitis paradoks semasa terapi anti-TNF juga menimbulkan kebimbangan keselamatan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data keberkesanan langsung (siri kes, kajian kohort atau percubaan klinikal) tentang golimumab atau perencat TNF lain dalam vaskulitis reumatoid.
 - Penilaian risiko vaskulitis paradoks semasa terapi anti-TNF.
 - Data mekanisme tindakan (MOA) yang terperinci.
 - Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA.
-- Pengesahan status pendaftaran di Malaysia, kerana status semasa ialah "Tidak dipasarkan" dengan 0 pendaftaran.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -6,9 +6,9 @@ nav_order: 399
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Hesperidin: indikasi baharu diramal Neoplasma mieloproliferatif (myeloproliferative neoplasm) (tahap bukti L5). Indikasi asal: Tiada data indikasi asal"
 monitor_inn: "HESPERIDIN"
 predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm"]
+description: "Hesperidin: indikasi baharu diramal Neoplasma mieloproliferatif (myeloproliferative neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Hesperidin
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Hesperidin: Daripada Indikasi Asal yang Tidak Direkodkan kepada Neoplasma Mieloproliferatif
+## Hesperidin: Neoplasma mieloproliferatif (myeloproliferative neoplasm)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Hesperidin ialah sejenis flavonoid glikosida dan tiada indikasi asal yang direkodkan bagi ubat ini dalam data pendaftaran Malaysia yang dikumpulkan untuk laporan ini.
-Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma mieloproliferatif** (skor 99.47%),
+Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma mieloproliferatif** (skor 0.9947),
 tetapi buat masa ini hanya **0 ujian klinikal** dan **1 penerbitan** (kajian *in silico*) menyokong arah ini.
 
 ---
@@ -48,12 +48,12 @@ tetapi buat masa ini hanya **0 ujian klinikal** dan **1 penerbitan** (kajian *in
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi asal |
-| Indikasi Baharu yang Diramalkan | Neoplasma mieloproliferatif (*myeloproliferative neoplasm*) |
-| Skor Ramalan TxGNN | 99.47% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Neoplasma mieloproliferatif (myeloproliferative neoplasm) |
+| Skor Ramalan TxGNN | 0.9947 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 53 daripada 53) |
+| Bilangan Pendaftaran | 53 (sah: 53) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -64,16 +64,16 @@ Data terperinci tentang mekanisme tindakan (MOA) hesperidin tidak tersedia buat 
 
 Satu-satunya sokongan ialah kajian *in silico* pada 2019 yang menyaring calon penggunaan semula ubat terhadap domain kinase BCR dalam leukemia mieloid kronik (CML). CML ialah neoplasma mieloproliferatif yang klasik, jadi kaitannya munasabah. Walau bagaimanapun, ini hanyalah kajian pendokan (*docking*) berkomputer tanpa pengesahan eksperimen, ujian klinikal atau data keselamatan pada pesakit.
 
-Skor TxGNN yang sangat tinggi (0.995) ialah ramalan model dan bukan bukti klinikal.
+Skor TxGNN yang sangat tinggi (0.9947) ialah ramalan model dan bukan bukti klinikal.
 
 ### Ramalan Lain
 
 | Kedudukan | Penyakit | Skor TxGNN | Bukti |
 |------|------|------|------|
-| 2 | Leukemia monositik | 99.40% | Satu kajian *in vitro* (2003) yang menunjukkan penambahan rutinosida pada C7 (seperti dalam hesperidin) *mengurangkan* aktiviti induksi apoptosis flavonoid dalam sel HL-60; ini tidak menyokong aktiviti hesperidin |
-| 3 | Seminoma spermatositik | 99.34% | Tiada |
-| 4 | Seminoma testis varian tubular | 99.31% | Tiada; kemungkinan berkorelasi dengan ramalan tumor sel germa yang lain |
-| 5 | Neoplasma trofoblastik gestasi | 99.03% | Tiada |
+| 2 | Leukemia monositik | 0.9940 | Satu kajian *in vitro* (2003) yang menunjukkan penambahan rutinosida pada C7 (seperti dalam hesperidin) *mengurangkan* aktiviti induksi apoptosis flavonoid dalam sel HL-60; ini tidak menyokong aktiviti hesperidin |
+| 3 | Seminoma spermatositik | 0.9934 | Tiada |
+| 4 | Seminoma testis varian tubular | 0.9931 | Tiada; kemungkinan berkorelasi dengan ramalan tumor sel germa yang lain |
+| 5 | Neoplasma trofoblastik gestasi | 0.9903 | Tiada |
 
 ---
 
@@ -93,7 +93,6 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Hesperidin tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan.
 
 ---
 

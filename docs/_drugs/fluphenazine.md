@@ -6,9 +6,9 @@ nav_order: 368
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Fluphenazine: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (tahap bukti L5). Indikasi asal: Skizofrenia, gangguan psikotik, gangguan skizoafektif…"
 monitor_inn: "fluphenazine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "myopia X-linked", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
+description: "Fluphenazine: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies) (tahap bukti L5). Indikasi asal: Tidak direkodka…"
 ---
 
 # Fluphenazine
@@ -33,14 +33,14 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Fluphenazine: Daripada Skizofrenia kepada Distrofi Retina (dengan atau tanpa Anomali Ekstraokular)
+## Fluphenazine: Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Fluphenazine ialah ubat antipsikotik kumpulan fenotiazin yang digunakan untuk skizofrenia dan gangguan psikotik yang berkaitan.
 Model TxGNN meramalkan ia mungkin berkesan untuk **distrofi retina dengan atau tanpa anomali ekstraokular**.
-Ramalan ini hanya berasaskan model graf, tanpa **sebarang percubaan klinikal** atau **penerbitan** yang menyokongnya setakat ini.
+Ramalan ini datang daripada model TxGNN (pembelajaran mendalam) sahaja dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Setakat ini tiada **percubaan klinikal** atau **penerbitan** yang menyokongnya.
 
 ---
 
@@ -48,12 +48,12 @@ Ramalan ini hanya berasaskan model graf, tanpa **sebarang percubaan klinikal** a
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Skizofrenia, gangguan psikotik, gangguan skizoafektif, gangguan skizofreniform dan gangguan mental (berdasarkan graf pengetahuan TxGNN, kerana tiada lesen berdaftar di Malaysia) |
-| Indikasi Baharu yang Diramalkan | Distrofi retina dengan atau tanpa anomali ekstraokular |
-| Skor Ramalan TxGNN | 99.99% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies) |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ Ramalan ini hanya berasaskan model graf, tanpa **sebarang percubaan klinikal** a
 
 Data mekanisme tindakan terperinci untuk ubat ini tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Fluphenazine dikenali sebagai antagonis reseptor dopamin D2 daripada kumpulan fenotiazin. Keberkesanannya dalam skizofrenia dan psikosis sudah mantap.
 
-Namun, **tiada kaitan mekanistik yang munasabah** dapat dibuktikan antara antagonisme D2 dengan degenerasi retina yang diwarisi. Skor TxGNN yang tinggi (0.99994) ialah ramalan berasaskan graf semata-mata. Ia tidak disokong oleh bukti farmakologi atau klinikal dalam data yang ada. Ramalan ini perlu dianggap sebagai hipotesis yang amat awal dan boleh jadi artifak model.
+Namun, **tiada kaitan mekanistik yang munasabah** dapat dibuktikan antara antagonisme D2 dengan degenerasi retina yang diwarisi. Skor TxGNN yang tinggi (0.9999) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Ia tidak disokong oleh bukti farmakologi atau klinikal dalam data yang ada. Ramalan ini perlu dianggap sebagai hipotesis yang amat awal dan boleh jadi artifak model.
 
 ---
 

@@ -4,17 +4,17 @@ title: Phenytoin
 parent: Low Evidence (L4-L5)
 nav_order: 572
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Phenytoin: indikasi baharu diramal Neoplasma saraf trigeminal (tahap bukti L5). Indikasi asal: Sawan/epilepsi"
+indication_count: 3
 monitor_inn: "Phenytoin"
-predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
+predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
+last_modified_at: 2026-10-23
+description: "Phenytoin: indikasi baharu diramal Neoplasma saraf trigeminal (tahap bukti L5). Indikasi asal: Tidak tersedia dalam data lesen"
 ---
 
 # Phenytoin
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,82 +33,83 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Fenitoin: Daripada Antiepilepsi kepada Neoplasma Saraf Trigeminal
+## Phenytoin: Daripada Indikasi Asal (Tidak Tersedia dalam Data Lesen) kepada Neoplasma Saraf Trigeminal
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Fenitoin ialah ubat antiepilepsi yang digunakan secara meluas untuk mengawal sawan. Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma saraf trigeminal**. Setakat ini **tiada ujian klinikal** dan hanya **2 penerbitan** yang ditemui, dan kedua-duanya tidak mengkaji tumor, jadi ramalan ini kekal pada tahap ramalan model sahaja.
+Data lesen tempatan yang dikumpulkan untuk laporan ini tidak mengandungi teks indikasi yang diluluskan bagi Phenytoin, jadi indikasi asalnya tidak dapat disahkan daripada sumber tersebut. Model TxGNN meramalkan ubat ini mungkin berkesan untuk **neoplasma saraf trigeminal**, tetapi **tiada percubaan klinikal** dan hanya **2 penerbitan** yang dijumpai, dan kedua-duanya tidak mengkaji penyakit ini secara langsung.
 
----
+## Gambaran Ringkas
 
-## Gambaran Keseluruhan
-
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Sawan/epilepsi (pengetahuan farmakologi am; tiada data indikasi daripada pendaftaran tempatan) |
+| Indikasi Asal | Tidak tersedia dalam data lesen |
 | Indikasi Baharu yang Diramalkan | Neoplasma saraf trigeminal |
-| Skor Ramalan TxGNN | 99.99% |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Tahan) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
+| Keputusan Disyorkan | Tahan |
 
----
+## Mengapa Ramalan Ini Munasabah?
 
-## Mengapakah Ramalan Ini Munasabah?
+Data mengenai mekanisme tindakan terperinci tidak tersedia buat masa ini. Phenytoin diketahui menyekat saluran natrium bergantung voltan, yang mengurangkan pencetusan impuls berfrekuensi tinggi yang tidak normal pada gentian saraf. Mekanisme ini berkaitan dengan kawalan sakit saraf, bukan dengan kesan anti-tumor.
 
-Fenitoin menyekat saluran natrium bergantung voltan dengan cara bergantung penggunaan. Mekanisme ini boleh mengurangkan sawan dan nyeri neuropatik. Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang disusun untuk laporan ini.
+Skor TxGNN yang sangat tinggi (0.9999) berkemungkinan besar datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi, dengan **neuralgia trigeminal**, iaitu simptom yang dikaitkan dengan lesi saraf trigeminal. Ia tidak menunjukkan aktiviti anti-neoplastik. Phenytoin mungkin melegakan sakit saraf yang berkaitan dengan tumor, tetapi itu hanya melegakan simptom dan tidak mengubah perjalanan penyakit. Penerbitan yang dijumpai juga tidak menyokong kesan anti-tumor. Tiada hubungan mekanistik yang boleh dipercayai antara Phenytoin dengan rawatan neoplasma saraf trigeminal.
 
-**Hubungan mekanistik dengan tumor tidak kukuh.** Fenitoin tidak diketahui mempunyai tindakan antineoplastik. Penyekatan saluran natrium hanya boleh melegakan nyeri neuropatik atau sawan yang berkaitan dengan lesi trigeminal, dan tidak merawat tumor itu sendiri.
+## Bukti Percubaan Klinikal
 
-Skor TxGNN yang tinggi berkemungkinan didorong oleh kedekatan dalam graf pengetahuan dengan **neuralgia trigeminal** (penyakit berlainan), bukan oleh biologi antitumor. Dua kertas yang diperoleh juga membincangkan rawatan neuralgia trigeminal dan sindrom Sturge-Weber, bukan neoplasma.
-
----
-
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
-
----
+Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [17997704](https://pubmed.ncbi.nlm.nih.gov/17997704/) | 2007 | Ulasan | Expert Review of Neurotherapeutics | Ulasan pelbagai rawatan perubatan dan pembedahan untuk neuralgia trigeminal. Tidak membincangkan neoplasma. |
-| [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Siri kes | Anales Españoles de Pediatría | Pengalaman 14 kes sindrom Sturge-Weber (ciri klinikal dan respons terapeutik). Bukan kajian neoplasma. |
+| [17997704](https://pubmed.ncbi.nlm.nih.gov/17997704/) | 2007 | Ulasan | Expert Review of Neurotherapeutics | Ulasan pelbagai rawatan perubatan dan pembedahan untuk neuralgia trigeminal. Tidak mengkaji neoplasma saraf trigeminal. |
+| [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Siri kes | Anales Españoles de Pediatría | Kajian semula 14 kes sindrom Sturge-Weber, merangkumi ciri klinikal, perkembangan penyakit dan tindak balas terapeutik. Tidak mengkaji neoplasma saraf trigeminal. |
 
----
+Kedua-dua penerbitan ini tidak mengkaji penyakit yang diramalkan itu sendiri.
+
+## Maklumat Pasaran di Malaysia
+
+| Nombor Kebenaran | Nama Produk | Pengilang |
+|---------|------|------|
+| MAL12055031ACRZ | Dilantin Oral Suspension 125mg/5ml | Viatris Sdn. Bhd. |
+| MAL17085008AZ | Pharmaniaga Phenytoin Sodium 250mg/5ml Injection | Pharmaniaga Lifescience Sdn. Bhd. |
+| MAL19860940ARZ | Dilantin Capsule 30mg | Viatris Sdn. Bhd. |
+| MAL19860935ARZ | Dilantin Capsule 100mg | Viatris Sdn. Bhd. |
+| MAL19970942ACRZ | Dilantin Steri-Vials 250mg/5ml | Viatris Sdn. Bhd. |
+
+Kesemua 5 lesen ialah produk bahan tunggal dengan status sah. Teks indikasi yang diluluskan tidak tersedia dalam rekod lesen.
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat**: Pertanyaan interaksi selesai dengan **100 interaksi** direkodkan. Antara yang disenaraikan, kebanyakannya bertahap **Sederhana (Moderate)**, termasuk:
+- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan dalam pangkalan data. Sebahagian besar yang disenaraikan berada pada tahap sederhana, antaranya:
+  - Antidiabetes: acarbose, metformin, pioglitazone, alogliptin, albiglutide
+  - Antagonis reseptor H2 dan perencat pam proton: famotidine, ranitidine, omeprazole
+  - Kortikosteroid: hydrocortisone, dexamethasone, betamethasone, triamcinolone
+  - Antibiotik: doxycycline, metronidazole
+  - Lain-lain: bupropion, aprepitant, morphine, cholecalciferol, calcifediol
 
-- Antidiabetik: acarbose, metformin, pioglitazone, alogliptin, albiglutide
-- Penyekat asid: famotidine, ranitidine, omeprazole
-- Kortikosteroid: hydrocortisone, dexamethasone, betamethasone, triamcinolone
-- Lain-lain: doxycycline, metronidazole, bupropion, aprepitant, morphine, cholecalciferol, calcifediol
+  Interaksi dengan acetylsalicylic acid dikelaskan sebagai kecil.
 
-Interaksi dengan acetylsalicylic acid bertahap **Minor (Ringan)**.
-
-Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
-
----
+Maklumat amaran utama dan kontraindikasi daripada sisipan pek tidak tersedia. Sila rujuk sisipan pek untuk maklumat keselamatan yang lengkap.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tahan)**
+**Keputusan: Tahan**
 
 **Justifikasi:**
-- Tiada ujian klinikal dan tiada literatur yang menyokong kesan fenitoin terhadap tumor saraf trigeminal. Ramalan ini hampir pasti artifak kedekatan graf dengan neuralgia trigeminal.
-- Dari segi keselamatan, status "tidak dipasarkan" di Malaysia dan ketiadaan data sisipan pakej menghalang penilaian lanjut.
+- Ramalan untuk neoplasma saraf trigeminal tidak disokong oleh percubaan klinikal, penerbitan yang mengkaji penyakit ini secara langsung, atau hubungan mekanistik yang munasabah. Skor tinggi itu kemungkinan besar positif palsu akibat kedekatan dengan neuralgia trigeminal.
+- Data lain yang dikumpulkan menunjukkan **neuralgia trigeminal** sebagai calon yang lebih bermakna. Terdapat banyak penerbitan, termasuk kajian retrospektif mengenai Phenytoin intravena untuk krisis akut (PMID 32981076 dan 35469475). Garis panduan Akademi Neurologi Eropah 2019 mengutamakan carbamazepine dan oxcarbazepine, dan tidak meletakkan Phenytoin sebagai pilihan utama. Ini lebih sesuai dilihat sebagai soalan penyelidikan mengenai kedudukan Phenytoin sebagai rawatan penyelamat akut, bukan sebagai penemuan baharu.
 
-**Untuk diteruskan, perkara berikut diperlukan:**
-- Muat turun dan huraikan sisipan pakej daripada NPRA (amaran dan kontraindikasi). Ini kekurangan data yang menyekat.
-- Lengkapkan data mekanisme tindakan (MOA) daripada DrugBank.
-- Sahkan status pendaftaran dan ketersediaan produk fenitoin di Malaysia.
-- Jika ingin meneroka arah yang lebih bersandarkan bukti, pertimbangkan **neuralgia trigeminal**, iaitu penggunaan di luar label yang sedia ada. Dalam data yang sama, ia berada pada tahap bukti L3 dengan garis panduan dan kajian kohort retrospektif (termasuk fenitoin intravena untuk krisis akut), walaupun karbamazepin/oksakarbazepin kekal sebagai rawatan lini pertama dan asas bukti fenitoin dianggap lemah.
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Teks indikasi yang diluluskan daripada sisipan pek NPRA untuk mengesahkan indikasi asal
+- Amaran utama dan kontraindikasi daripada sisipan pek, yang diperlukan sebelum sebarang saringan keselamatan
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Semakan abstrak penuh dan reka bentuk kajian bagi penerbitan neuralgia trigeminal
+- Penilaian berasingan untuk neuralgia trigeminal sebagai indikasi sasaran
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

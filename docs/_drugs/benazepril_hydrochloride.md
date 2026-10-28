@@ -8,6 +8,7 @@ nav_order: 129
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Benazepril Hydrochloride
@@ -49,8 +50,8 @@ Benazepril Hydrochloride ialah penghambat ACE yang sedang dipasarkan di Malaysia
 | Petunjuk Penggunaan Baru yang Diramalkan | **Tiada** — tiada ramalan TxGNN dijana |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | **L5** (Tiada ramalan, tiada kajian untuk dinilai) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 2 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

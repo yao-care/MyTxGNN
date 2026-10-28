@@ -4,17 +4,17 @@ title: Mesalazine
 parent: Low Evidence (L4-L5)
 nav_order: 496
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Mesalazine: indikasi baharu diramal Osteoartritis (ramalan peringkat 2 dalam senarai (tahap bukti L5). Indikasi asal: Kolitis ulseratif, penyakit radang usus, proktosigmoiditis ulseratif"
 monitor_inn: "MESALAZINE"
-predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "osteoarthritis susceptibility", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
+predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
+description: "Mesalazine: indikasi baharu diramal Congenital hypotrichosis with juvenile macular dystrophy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Mesalazine
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **7** 
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-## Mesalazine: Daripada Kolitis Ulseratif kepada Osteoartritis
+## Mesalazine: Congenital hypotrichosis with juvenile macular dystrophy
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan hanya **1 penerbitan** (ka
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Kolitis ulseratif, penyakit radang usus, proktosigmoiditis ulseratif |
-| Indikasi Baharu yang Diramalkan | Osteoartritis (ramalan peringkat 2 dalam senarai; ramalan peringkat 1, hipotrikosis kongenital dengan distrofi makula juvenil, tidak mempunyai sebarang bukti sokongan dan dianggap artefak graf pengetahuan) |
-| Skor Ramalan TxGNN | 99.63% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Congenital hypotrichosis with juvenile macular dystrophy |
+| Skor Ramalan TxGNN | 0.9965 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 16) |
+| Bilangan Pendaftaran | 16 (sah: 16) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -64,7 +64,7 @@ Data terperinci mengenai mekanisme tindakan belum tersedia dalam data yang dihim
 
 Radang sinovium peringkat rendah dan isyarat NF-kB menyumbang kepada osteoartritis, jadi sifat anti-radang mesalazine memberikan rasional teori yang **lemah**. Satu-satunya penerbitan (PMID 38491514, 2024) ialah analisis bioinformatik yang menggabungkan set data transkripsi untuk mengenal pasti sasaran terapeutik. Ia sumber peringkat ramalan, bukan bukti klinikal.
 
-Sebagai perbandingan, bagi **artritis reumatoid** (peringkat 3, skor 99.57%, tahap bukti L4), mesalazine ialah bahagian aktif sulfasalazine, iaitu DMARD yang mantap. Namun, kesan antireumatik sulfasalazine umumnya dikaitkan terutamanya dengan komponen sulfapiridin, bukan 5-ASA, jadi rasional untuk mesalazine sendiri adalah lemah. Beberapa laporan kes juga menggambarkan kejadian buruk (DRESS, kolitis akibat 5-ASA pada pesakit RA), yang menimbulkan persoalan keselamatan dan bukan menyokong keberkesanan.
+Sebagai perbandingan, bagi **artritis reumatoid** (peringkat 3, skor 0.9957, tahap bukti L4), mesalazine ialah bahagian aktif sulfasalazine, iaitu DMARD yang mantap. Namun, kesan antireumatik sulfasalazine umumnya dikaitkan terutamanya dengan komponen sulfapiridin, bukan 5-ASA, jadi rasional untuk mesalazine sendiri adalah lemah. Beberapa laporan kes juga menggambarkan kejadian buruk (DRESS, kolitis akibat 5-ASA pada pesakit RA), yang menimbulkan persoalan keselamatan dan bukan menyokong keberkesanan.
 
 Ramalan lain (seborrheic keratosis, osteoartritis susceptibility, vulvar inverted follicular keratosis, pseudoachondroplasia, dan hipotrikosis kongenital) tidak mempunyai hubungan mekanistik yang munasabah dan tiada bukti klinikal atau literatur.
 
@@ -113,7 +113,7 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Semua indikasi yang diramalkan berada pada tahap bukti L4 hingga L5, tanpa percubaan klinikal. Skor TxGNN yang tinggi (lebih 99%) tidak disokong oleh bukti klinikal, dan beberapa ramalan (contohnya hipotrikosis kongenital, pseudoachondroplasia) kelihatan sebagai artefak graf pengetahuan. Mesalazine juga tidak berdaftar di Malaysia.
+- Semua indikasi yang diramalkan berada pada tahap bukti L4 hingga L5, tanpa percubaan klinikal. Mesalazine juga tidak berdaftar di Malaysia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Mendapatkan sisipan pek NPRA serta amaran dan kontraindikasi rasmi (jurang data yang menyekat saringan keselamatan).

@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 321
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Empagliflozin: indikasi baharu diramal Sindrom anggota kaku fokal (focal stiff limb syndrome) (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2"
 monitor_inn: "EMPAGLIFLOZIN"
-predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
+predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia"]
+last_modified_at: 2026-10-23
+description: "Empagliflozin: indikasi baharu diramal Sindrom orang kaku klasik (classic stiff person syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Empagliflozin
@@ -33,86 +33,71 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-## Empagliflozin: Daripada Diabetes Mellitus Jenis 2 kepada Sindrom Anggota Kaku Fokal
+## Empagliflozin: Sindrom orang kaku klasik (classic stiff person syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Empagliflozin ialah perencat SGLT2 yang pada asalnya digunakan untuk merawat diabetes mellitus jenis 2.
-Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom anggota kaku fokal (focal stiff limb syndrome)**,
-tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong ramalan ini. Ramalan ini hanyalah ramalan model.
-
----
+Empagliflozin ialah perencat SGLT2 yang pada asalnya digunakan untuk merawat diabetes mellitus jenis 2. Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom orang kaku klasik (classic stiff person syndrome)**, tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini. Skor ramalan ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
 ## Gambaran Ringkas
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Diabetes mellitus jenis 2 |
-| Indikasi Baharu yang Diramalkan | Sindrom anggota kaku fokal (focal stiff limb syndrome) |
-| Skor Ramalan TxGNN | 99.06% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom orang kaku klasik (classic stiff person syndrome) |
+| Skor Ramalan TxGNN | 0.9906 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
----
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 15) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, empagliflozin ialah perencat SGLT2 yang bertindak pada penyerapan semula glukosa di buah pinggang, dan keberkesanannya dalam diabetes mellitus jenis 2 telah dibuktikan. Namun, tiada hubungan mekanistik yang disokong oleh data yang dikumpulkan untuk laporan ini.
+Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, empagliflozin ialah perencat SGLT2 yang digunakan dalam diabetes jenis 2, tetapi tiada mekanisme biologi yang jelas menghubungkannya dengan sindrom orang kaku.
 
-Sindrom anggota kaku fokal ialah keadaan jarang dalam spektrum sindrom orang kaku (stiff person), yang dikaitkan dengan autoimun atau paraneoplastik, dengan kerosakan perencatan GABAergik/glisinergik serta autoimuniti anti-GAD65 atau anti-amphiphysin. Tiada laluan yang jelas menghubungkan mekanisme empagliflozin dengan patologi neuroimunologi ini.
+Sindrom orang kaku ialah gangguan neurologi autoimun yang dikaitkan dengan antibodi anti-GAD65 dan gangguan isyarat GABA. Ia sering wujud bersama diabetes jenis 1 atau jenis 2. Ramalan tersebut berkemungkinan besar mencerminkan persamaan yang dipelajari model TxGNN (pembelajaran mendalam) antara penyakit berkaitan diabetes, dan bukan mekanisme yang munasabah secara biologi untuk merawat keadaan neurologi ini. Tiada rasional mekanistik langsung untuk perencatan SGLT2 dalam penyakit ini.
 
-Skor TxGNN yang sangat tinggi (0.9906) kemungkinan besar mencerminkan kejiranan graf pengetahuan yang berkongsi kaitan dengan diabetes, bukan hubungan terapeutik sebenar. Sebarang kaitan, seperti kesan anti-radang atau metabolik tidak langsung, hanyalah spekulatif.
-
-Dua ramalan lain dengan skor hampir sama turut dijana oleh model, dan kedua-duanya juga tidak mempunyai sokongan bukti:
-
-- **Sindrom orang kaku klasik (classic stiff person syndrome)** (skor 99.06%): gangguan neurologi autoimun dengan perencatan GABAergik pusat yang berkurang. Diabetes yang bersama (comorbid) lazim pada pesakit anti-GAD65, tetapi ini berkaitan kawalan glisemik dan bukan rawatan penyakit neurologi.
-- **Opsismodisplasia (opsismodysplasia)** (skor 99.03%): displasia rangka resesif autosom yang disebabkan mutasi INPPL1 (kehilangan fungsi SHIP2). Pertindihan konsep dengan isyarat insulin adalah spekulatif, dan keselamatan serta kesan pertumbuhan perencatan SGLT2 pada populasi pediatrik ini tidak diketahui.
-
----
+Dua ramalan lain turut diberi skor tinggi: Sindrom anggota kaku fokal (skor sama, 0.9906, kemungkinan mencerminkan persamaan yang dipelajari model antara penyakit dalam spektrum sindrom orang kaku) dan opsismodisplasia (0.9903, displasia rangka jarang akibat mutasi INPPL1). Kedua-duanya juga tidak mempunyai bukti sokongan bebas.
 
 ## Bukti Percubaan Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
-
----
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia.
-
----
+Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Empagliflozin pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran (0 lesen) dalam data yang dikumpulkan untuk laporan ini.
+Terdapat 15 lesen sah dalam data yang dikumpulkan. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam rekod. Lima lesen utama (ingredien tunggal) disenaraikan di bawah.
 
----
+| Nombor Kebenaran | Nama Produk | Pengilang |
+|---------|------|-----------|
+| MAL24026011ACSZ | Jardiance 25mg film coated tablets | Boehringer Ingelheim (Malaysia) Sdn. Bhd. |
+| MAL24026012ACSZ | Jardiance 10mg film coated tablets | Boehringer Ingelheim (Malaysia) Sdn. Bhd. |
+| MAL25036016AE | Emrene Film Coated Tablets 25mg | Duopharma Manufacturing (Bangi) Sdn. Bhd. |
+| MAL25086022AZ | EMFLODIAZ 25 | Dr. Reddy's Laboratories Malaysia Sdn. Bhd. |
+| MAL25086021AZ | EMFLODIAZ 10 | Dr. Reddy's Laboratories Malaysia Sdn. Bhd. |
 
 ## Pertimbangan Keselamatan
 
-- **Interaksi Ubat**: Sebanyak 100 interaksi dikenal pasti, dan 20 yang pertama disenaraikan dalam data. Kebanyakannya bertahap **Sederhana (Moderate)**, dan sebahagian kecil bertahap **Ringan (Minor)**. Contoh utama:
-  - **Sederhana**: fenilefrina, asebutolol, asetazolamida, formoterol, pseudoefedrina, nifedipina, epinefrina, etinilestradiol, hidrokortison, salbutamol, etanol, fosamprenavir, fosinopril, fosfenitoin, fostamatinib, fostemsavir, furosemid, gemifloksasin
-  - **Ringan**: hidrokortison (topikal), alklometason (topikal)
+- **Interaksi Ubat**: Pertanyaan interaksi selesai dan menemui 100 interaksi yang direkodkan. Sampel yang dipaparkan kebanyakannya bertahap sederhana, antaranya fenilefrin, asebutolol, asetazolamid, formoterol, pseudoefedrin, nifedipin, epinefrin, etinilestradiol, hidrokortison, salbutamol, etanol, furosemid dan fosinopril. Interaksi bertahap minor termasuk hidrokortison topikal dan alklometason topikal.
 
-Maklumat amaran utama dan kontraindikasi daripada sisipan pembungkusan tidak tersedia. Sila rujuk sisipan pembungkusan untuk maklumat keselamatan lanjut.
-
----
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
-**Justifikasi:**
-- Ramalan ini hanyalah ramalan model (L5) tanpa sebarang percubaan klinikal atau literatur, dan tiada hubungan mekanistik yang munasabah antara perencatan SGLT2 dengan patologi neuroimunologi sindrom anggota kaku fokal. Selain itu, ubat ini tidak dipasarkan di Malaysia.
+**Rasional:**
+Skor ramalan ini datang daripada model TxGNN (pembelajaran mendalam), tanpa sebarang percubaan klinikal atau penerbitan yang mengkaji penyakit ini secara langsung, dan tiada mekanisme biologi yang munasabah. Skor tinggi mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) terperinci bagi empagliflozin
-- Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA (jurang data yang menghalang penyaringan keselamatan)
-- Bukti praklinikal atau mekanistik yang menghubungkan perencatan SGLT2 dengan laluan GABAergik/glisinergik atau autoimuniti anti-GAD65
-- Laporan kes, kajian praklinikal atau pendaftaran percubaan klinikal yang berkaitan, sebelum sebarang penilaian lanjut
+**Untuk meneruskan, perlu dilengkapkan:**
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang yang menghalang saringan keselamatan)
+- Bukti praklinikal atau klinikal yang mengkaji perencatan SGLT2 secara langsung dalam sindrom orang kaku
+- Teks indikasi yang diluluskan bagi lesen tempatan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

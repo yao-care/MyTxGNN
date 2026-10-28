@@ -6,9 +6,9 @@ nav_order: 588
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Polyethylene Glycol: indikasi baharu diramal Eritroderma iktiosiform kongenital (congenital ichthyosiform erythrod… (tahap bukti L5). Indikasi asal: Sembelit, sindrom mata kering…"
 monitor_inn: "POLYETHYLENE GLYCOL"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
+description: "Polyethylene Glycol: indikasi baharu diramal Eritroderma iktiosiform kongenital (congenital ichthyosiform erythroderma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Polyethylene Glycol
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Polietilena Glikol: Daripada Sembelit dan Sindrom Mata Kering kepada Eritroderma Iktiosiform Kongenital
+## Polyethylene Glycol: Eritroderma iktiosiform kongenital (congenital ichthyosiform erythroderma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Sembelit, sindrom mata kering, xerophthalmia (berdasarkan graf pengetahuan TxGNN; tiada teks indikasi berdaftar tempatan) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Eritroderma iktiosiform kongenital (congenital ichthyosiform erythroderma) |
-| Skor Ramalan TxGNN | 99.03% |
+| Skor Ramalan TxGNN | 0.9903 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -64,13 +64,12 @@ Data terperinci mengenai mekanisme tindakan (MOA) PEG tidak tersedia pada masa i
 
 Satu andaian spekulatif yang tidak disahkan ialah PEG bersifat seperti humektan yang secara teori boleh bertindak sebagai emolien atau pelembap untuk sisik dan kerosakan penghalang kulit dalam iktiosis. Andaian ini tidak disokong oleh sebarang percubaan atau penerbitan dalam data yang disusun untuk laporan ini.
 
-Indikasi asal PEG (sembelit, mata kering) tidak bertindih dengan patofisiologi eritroderma iktiosiform kongenital, yang berpunca daripada kecacatan genetik dalam pembezaan keratinosit dan metabolisme lipid penghalang kulit (contohnya *TGM1*, *ALOX12B*, *ALOXE3*, *NIPAL4*). Oleh itu, skor TxGNN yang tinggi (0.990) wajar dianggap sebagai isyarat komputasi sahaja dan bukan bukti keberkesanan.
+Indikasi asal PEG (sembelit, mata kering) tidak bertindih dengan patofisiologi eritroderma iktiosiform kongenital, yang berpunca daripada kecacatan genetik dalam pembezaan keratinosit dan metabolisme lipid penghalang kulit (contohnya *TGM1*, *ALOX12B*, *ALOXE3*, *NIPAL4*). Oleh itu, skor TxGNN yang tinggi (0.9903) wajar dianggap sebagai isyarat komputasi sahaja dan bukan bukti keberkesanan.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Pada masa ini tiada produk polietilena glikol berdaftar dalam data yang disusun untuk laporan ini (status: tidak dipasarkan; 0 pendaftaran).
 
 ---
 

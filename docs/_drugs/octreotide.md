@@ -6,9 +6,9 @@ nav_order: 538
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Octreotide: indikasi baharu diramal Keratosis folikular songsang vulva (tahap bukti L5). Indikasi asal: Akromegali, hiperpituitarisme…"
 monitor_inn: "OCTREOTIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
+description: "Octreotide: indikasi baharu diramal Keratosis folikular songsang vulva (vulvar inverted follicular keratosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Octreotide
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Octreotide: Daripada Akromegali kepada Keratosis Folikular Songsang Vulva
+## Octreotide: Keratosis folikular songsang vulva (vulvar inverted follicular keratosis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong rama
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Akromegali, hiperpituitarisme, sindrom karsinoid (berdasarkan graf pengetahuan PrimeKG) |
-| Indikasi Baharu yang Diramalkan | Keratosis folikular songsang vulva |
-| Skor Ramalan TxGNN | 99.58% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Keratosis folikular songsang vulva (vulvar inverted follicular keratosis) |
+| Skor Ramalan TxGNN | 0.9958 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,11 +62,11 @@ tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong rama
 
 Data mekanisme tindakan (MOA) terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, octreotide ialah analog somatostatin yang secara amnya bertindak pada reseptor somatostatin (SSTR2/SSTR5) untuk merencat rembesan hormon seperti hormon pertumbuhan (GH). Keberkesanannya dalam akromegali dan sindrom karsinoid telah diketahui, tetapi hubungan mekanistik dengan indikasi baharu tidak dapat dinilai.
 
-Hubungan ini hanya berasaskan skor ramalan tinggi (0.996) daripada graf pengetahuan TxGNN. Data yang dikumpulkan tidak menyokong sebarang laluan biologi yang menghubungkan octreotide dengan lesi epitelium jinak ini. Ekspresi reseptor somatostatin pada keratinosit atau epitelium folikular hanyalah andaian dan belum disahkan.
+Hubungan ini hanya berasaskan skor ramalan tinggi (0.9958) daripada model TxGNN (pembelajaran mendalam), dan skor ini boleh mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Data yang dikumpulkan tidak menyokong sebarang laluan biologi yang menghubungkan octreotide dengan lesi epitelium jinak ini. Ekspresi reseptor somatostatin pada keratinosit atau epitelium folikular hanyalah andaian dan belum disahkan.
 
-Ramalan ini mungkin mencerminkan kedekatan dalam graf dengan istilah keratosis atau lesi kulit yang berkaitan, dan bukannya isyarat terapeutik sebenar.
+Ramalan ini daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan seperti keratosis atau lesi kulit yang berkaitan, dan bukannya isyarat terapeutik sebenar atau bukti biologi.
 
-Satu lagi ramalan dengan skor setanding (99.55%) ialah **keratosis seborea**. Ia juga tidak mempunyai sebarang percubaan klinikal atau literatur, dan merupakan percambahan epidermis jinak tanpa bukti bahawa perencatan rembesan GH/IGF-1 melalui SSTR memberi kesan kepadanya.
+Satu lagi ramalan dengan skor setanding (0.9955) ialah **keratosis seborea**. Ia juga tidak mempunyai sebarang percubaan klinikal atau literatur, dan merupakan percambahan epidermis jinak tanpa bukti bahawa perencatan rembesan GH/IGF-1 melalui SSTR memberi kesan kepadanya.
 
 ---
 

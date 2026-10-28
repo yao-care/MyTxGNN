@@ -4,17 +4,17 @@ title: Sorafenib
 parent: High Evidence (L1-L2)
 nav_order: 654
 evidence_level: L2
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Sorafenib: indikasi baharu diramal Liposarkoma (tahap bukti L2). Indikasi asal: Karsinoma hepatoselular (kanser hati)"
 monitor_inn: "sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
+description: "Sorafenib: indikasi baharu diramal Liposarkoma (liposarcoma) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Sorafenib
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **10** 
+Tahap bukti: **L2** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-## Sorafenib: Daripada Karsinoma Hepatoselular kepada Liposarkoma
+## Sorafenib: Liposarkoma (liposarcoma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Bukti setakat ini terdiri daripada **1 ujian klinikal Fasa 2 yang telah selesai*
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Karsinoma hepatoselular (kanser hati) |
-| Indikasi Baharu yang Diramalkan | Liposarkoma |
-| Skor Ramalan TxGNN | 99.82% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Liposarkoma (liposarcoma) |
+| Skor Ramalan TxGNN | 0.9982 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -120,7 +120,6 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 **Rasional:**
 - Hanya terdapat satu ujian Fasa 2 pada sarkoma tisu lembut secara umum, tanpa data khusus liposarkoma. Liposarkoma juga bukan subjenis yang diketahui responsif terhadap sorafenib, dan kebanyakan literatur ialah ulasan atau kajian praklinikal.
-- Sorafenib tidak dipasarkan di Malaysia dan data keselamatan daripada sisipan pakej belum tersedia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan).

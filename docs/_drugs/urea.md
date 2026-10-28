@@ -7,13 +7,14 @@ drugbank_id: "DB03904"
 drug_name: "Urea"
 kg_predictions: 18
 dl_predictions: 27
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/urea/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Urea
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **18** ramalan graf pengetahuan dan **27** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **18** ramalan model TxGNN (pembelajaran mendalam) dan **27** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

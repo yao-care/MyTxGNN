@@ -3,18 +3,18 @@ layout: default
 title: Tranexamic Acid
 parent: Low Evidence (L4-L5)
 nav_order: 694
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Tranexamic Acid: indikasi baharu diramal Amenorea (tahap bukti L4). Indikasi asal: Endometriosis (endometriosis uterus) (berdasarkan graf pengetahuan Tx…"
 monitor_inn: "TRANEXAMIC ACID"
 predicted_indications: ["amenorrhea (disease)"]
+description: "Tranexamic Acid: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Tranexamic Acid
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **1** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-## Asid Traneksamik: Daripada Endometriosis kepada Amenorea
+## Tranexamic Acid: Amenorea (amenorrhea (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **amenorea**, tetapi buat masa 
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Endometriosis (endometriosis uterus) (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi berlesen tersedia) |
-| Indikasi Baharu yang Diramalkan | Amenorea |
-| Skor Ramalan TxGNN | 99.19% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Amenorea (amenorrhea (disease)) |
+| Skor Ramalan TxGNN | 0.9919 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
+| Bilangan Pendaftaran | 10 (sah: 10) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -63,7 +63,7 @@ Butiran mekanisme tindakan (MOA) rasmi tidak tersedia dalam data yang disusun. N
 
 Walau bagaimanapun, kaitan ini lemah. Asid traneksamik tidak mendorong amenorea melalui mekanisme hormon atau endometrium. Amenorea ialah ketiadaan haid, iaitu keadaan klinikal yang berbeza daripada pengurangan pendarahan. Agen antifibrinolitik tidak dijangka menyebabkan atau merawat keadaan ini. Ramalan tersebut mungkin mencerminkan kekeliruan antara kegunaan penindasan haid dengan amenorea sebagai entiti penyakit.
 
-Skor TxGNN yang sangat tinggi (0.99) hanyalah ramalan pengiraan. Indikasi asal (endometriosis) juga tidak disokong oleh mekanisme tindakan yang jelas dalam data yang ada.
+Skor TxGNN yang sangat tinggi (0.9919) hanyalah ramalan pengiraan. Indikasi asal (endometriosis) juga tidak disokong oleh mekanisme tindakan yang jelas dalam data yang ada.
 
 ---
 
@@ -98,7 +98,7 @@ Kedua-dua penerbitan menyebut asid traneksamik sebagai salah satu pilihan sahaja
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Bukti hanya pada peringkat ramalan model (L4/L5 dalam amalan), tanpa percubaan klinikal dan hanya dua ulasan tidak langsung. Mekanisme antifibrinolitik tidak menyokong amenorea, dan ubat ini tidak dipasarkan di Malaysia.
+- Bukti hanya pada peringkat ramalan model (L4/L5 dalam amalan), tanpa percubaan klinikal dan hanya dua ulasan tidak langsung.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Pengesahan sama ada ramalan merujuk kepada penindasan haid/pendarahan haid berat dan bukannya amenorea sebagai penyakit

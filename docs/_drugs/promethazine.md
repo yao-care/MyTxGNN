@@ -7,13 +7,14 @@ drugbank_id: "DB01069"
 drug_name: "Promethazine"
 kg_predictions: 7
 dl_predictions: 32
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/promethazine/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Promethazine
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **7** ramalan graf pengetahuan dan **32** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **7** ramalan model TxGNN (pembelajaran mendalam) dan **32** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

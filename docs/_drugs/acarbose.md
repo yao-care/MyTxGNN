@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 16
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
-description: "Acarbose: indikasi baharu diramal Sindrom orang kaku klasik (classic stiff person syndrome) (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2"
 monitor_inn: "ACARBOSE"
-predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
+predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
+last_modified_at: 2026-10-23
+description: "Acarbose: indikasi baharu diramal Sindrom anggota kaku fokal (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2 (hubungan yang direkodkan dalam graf penget…"
 ---
 
 # Acarbose
@@ -33,73 +33,74 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-## Acarbose: Daripada Diabetes Mellitus Jenis 2 kepada Sindrom Orang Kaku (Stiff Person Syndrome) Klasik
+## Acarbose: Daripada Diabetes Mellitus Jenis 2 kepada Sindrom Anggota Kaku Fokal
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Acarbose ialah perencat alfa-glukosidase yang pada asalnya digunakan untuk merawat diabetes mellitus jenis 2.
-Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom orang kaku klasik (classic stiff person syndrome)**,
-tetapi pada masa ini **tiada percubaan klinikal** dan **tiada literatur** yang menyokong ramalan ini; ramalan ini hanya berasaskan model.
-
----
+Acarbose ialah perencat alfa-glukosidase usus yang pada asalnya digunakan untuk merawat diabetes mellitus jenis 2. Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom anggota kaku fokal (focal stiff limb syndrome)**, tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang mengkaji penyakit ini secara langsung. Ramalan ini hanya berasaskan model.
 
 ## Gambaran Ringkas
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Diabetes mellitus jenis 2 |
-| Indikasi Baharu yang Diramalkan | Sindrom orang kaku klasik (classic stiff person syndrome) |
-| Skor Ramalan TxGNN | 99.65% |
+| Indikasi Asal | Diabetes mellitus jenis 2 (hubungan yang direkodkan dalam graf pengetahuan; teks indikasi lesen tempatan tidak tersedia) |
+| Indikasi Baharu Diramalkan | Sindrom anggota kaku fokal |
+| Skor Ramalan TxGNN | 0.9965 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
----
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, acarbose ialah perencat alfa-glukosidase usus yang melambatkan penyerapan karbohidrat, dan keberkesanannya dalam diabetes jenis 2 telah diketahui. Tiada hubungan mekanistik yang munasabah dikenal pasti antara tindakan ini dengan sindrom orang kaku.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan am, acarbose ialah perencat alfa-glukosidase yang bertindak secara setempat di usus untuk melambatkan pencernaan karbohidrat dan mengurangkan lonjakan glukosa selepas makan.
 
-Sindrom orang kaku ialah gangguan autoimun yang melibatkan neurotransmisi GABAergik (antibodi anti-GAD65). Skor TxGNN yang tinggi (0.996) hanyalah ramalan berasaskan graf dan berkemungkinan didorong oleh kaitan autoimuniti GAD dengan diabetes dalam graf pengetahuan. Ia bukan bukti keberkesanan.
+Sindrom anggota kaku dan sindrom orang kaku (stiff person syndrome) ialah gangguan autoimun/neurologi pada sistem saraf pusat, berkaitan disfungsi neurotransmisi GABA/glisin dan sering dikaitkan dengan autoantibodi anti-GAD65. Tiada hubungan mekanistik yang jelas dengan acarbose.
 
-Ramalan lain bagi ubat ini (sindrom anggota kaku fokal, sindrom disfungsi responsif tiamina, opsismodisplasia, pelbagai lipodistrofi setempat dan agenesis pankreas) juga berada pada tahap L5 dengan keputusan Hold. Kebanyakannya berpunca daripada kaitan dengan diabetes dalam graf pengetahuan dan bukan daripada mekanisme yang jelas.
+Skor tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, termasuk kaitan dengan diabetes dan autoimuniti anti-GAD, dan bukannya bukti biologi atau rasional farmakologi. Ramalan ini perlu dianggap sangat spekulatif.
 
----
+## Bukti Ujian Klinikal
 
-## Bukti Percubaan Klinikal
-
-Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
-
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia untuk sindrom orang kaku klasik.
+Pada masa ini tiada literatur berkaitan untuk sindrom anggota kaku fokal.
 
----
+Sebagai perbandingan, ramalan peringkat ketujuh, iaitu agenesis pankreas, mempunyai 10 penerbitan yang diperoleh. Kesemuanya berkaitan diabetes am, pemeliharaan fungsi sel beta, sindrom autoimun insulin dan model haiwan, dan tidak mengkaji penyakit tersebut secara langsung.
 
-## Keselamatan
+## Maklumat Pasaran Malaysia
 
-- **Penyakit yang berkaitan dengan kontraindikasi (daripada graf pengetahuan, bukan teks label)**: penyakit buah pinggang, piouretra, penyakit hati, penyakit pundi hempedu, sirosis hati, penyakit radang usus (IBD), hipoglisemia, kecederaan.
-- **Interaksi Ubat**: Pangkalan data interaksi mengenal pasti sejumlah 100 interaksi; 20 yang pertama disenaraikan dalam data. Interaksi bertahap **sederhana** termasuk: asetazolamida, salbutamol, lidah buaya (daun), alpelisib, amprenavir, aripiprazol, asenapin, asparaginase (Erwinia chrysanthemi dan E. coli), atazanavir, bedakuilin, bendroflumetiazid, benzfetamin, benztiazid dan betametason. Interaksi bertahap **minor** termasuk: albiglutida, alklometason (topikal), asid lipoik, amsinonid dan anisindion.
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL06100582AZ | Dibose Tablets 50mg | Tiada data | Tiada data |
+| MAL23046040AE | Gacose Tablet 100mg | Tiada data | Tiada data |
+| MAL23046039AE | Gacose Tablet 50mg | Tiada data | Tiada data |
+| MAL09100265AZ | Garbose Tablet 50mg | Tiada data | Tiada data |
+| MAL09100266AZ | Garbose Tablet 100mg | Tiada data | Tiada data |
 
-Untuk amaran utama dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan pakej.
+Kesemua 5 pendaftaran adalah produk bahan tunggal yang sah.
 
----
+## Pertimbangan Keselamatan
+
+- **Penyakit yang direkodkan sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): penyakit buah pinggang, piouretur, penyakit hati, penyakit pundi hempedu, sirosis hati, penyakit radang usus, hipoglisemia dan kecederaan.
+- **Interaksi Ubat** (100 interaksi ditemui; contoh sederhana): acetazolamide, salbutamol, aloe vera, alpelisib, amprenavir, aripiprazole, asenapine, asparaginase, atazanavir, bedaquiline, bendroflumethiazide, benzphetamine, benzthiazide dan betamethasone. Interaksi tahap minor termasuk albiglutide, alclometasone (topikal), asid lipoik, amcinonide dan anisindione.
+
+Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi, kerana data ini belum tersedia.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
-**Justifikasi:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur yang menyokong, dan tiada hubungan mekanistik yang munasabah antara perencatan alfa-glukosidase dengan patologi autoimun GABAergik sindrom orang kaku. Skor tinggi berkemungkinan artifak perambatan graf berkaitan diabetes.
+**Rasional:**
+- Ramalan ini tiada sokongan ujian klinikal atau literatur, dan tiada hubungan mekanistik yang munasabah antara perencatan alfa-glukosidase usus dengan patofisiologi sindrom anggota kaku fokal. Tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) yang terperinci daripada DrugBank.
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA (halangan kepada saringan keselamatan; ubat ini pada masa ini tidak didaftarkan di Malaysia).
-- Bukti praklinikal atau klinikal yang menunjukkan hubungan antara acarbose dengan sindrom orang kaku sebelum penilaian lanjut dipertimbangkan.
+- Sisipan pek NPRA (amaran dan kontraindikasi), yang menjadi kekangan utama untuk saringan keselamatan
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Bukti praklinikal atau klinikal yang mengkaji penyakit ini secara langsung
+- Penilaian pakar neurologi mengenai rasional biologi sebelum sebarang kajian lanjut
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

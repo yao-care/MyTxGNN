@@ -50,10 +50,10 @@ namun setakat ini **tiada ujian klinikal** didaftarkan dan hanya terdapat **11 p
 |------|------|
 | Penunjuk Asal | Tiada rekod daripada lesen NPRA |
 | Penunjuk Baharu yang Diramalkan | Gangguan migrain (migraine disorder) |
-| Skor Ramalan TxGNN | 99.56% |
+| Skor Ramalan TxGNN | 0.9956 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 13 daripada 13) |
+| Bilangan Pendaftaran | 13 (sah: 13) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -64,7 +64,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang
 
 Selain itu, penglibatan sistem kolinergik pusat dalam antinosisepsi dan penglibatan autonomik dalam sefalgia autonomik trigeminal (contohnya hemikrania paroksismal kronik, di mana atropin sistemik mengurangkan peluh, lakrimasi dan rembesan hidung semasa serangan) memberikan kebolehpercayaan tidak langsung tambahan.
 
-Namun begitu, sokongan ini kebanyakannya berasal daripada kajian haiwan atau in vitro, ulasan mekanistik dan laporan kes yang tidak berkaitan. **Tiada bukti klinikal langsung** tentang keberkesanan atropin dalam migrain ditemui. Skor TxGNN yang tinggi (0.996) hanyalah ramalan pengiraan dan bukan bukti klinikal.
+Namun begitu, sokongan ini kebanyakannya berasal daripada kajian haiwan atau in vitro, ulasan mekanistik dan laporan kes yang tidak berkaitan. **Tiada bukti klinikal langsung** tentang keberkesanan atropin dalam migrain ditemui. Skor TxGNN yang tinggi (0.9956) hanyalah ramalan pengiraan dan bukan bukti klinikal.
 
 ---
 
@@ -114,7 +114,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 **Justifikasi:**
 - Ramalan ini hanya disokong oleh skor model pengiraan dan kajian praklinikal/mekanistik tidak langsung. Tiada ujian klinikal dan tiada bukti klinikal langsung tentang atropin dalam migrain. Atropin juga tidak mempunyai lesen berdaftar di Malaysia.
-- Ramalan untuk subjenis "migrain dengan aura batang otak" (skor 99.42%, tahap bukti L5) juga ditahan: hanya satu kajian praklinikal ditemui, dan arah kesannya (pengaktifan kolinergik merencat CSD) mungkin bercanggah dengan mekanisme antagonis muskarinik seperti atropin.
+- Ramalan untuk subjenis "migrain dengan aura batang otak" (skor 0.9942, tahap bukti L5) juga ditahan: hanya satu kajian praklinikal ditemui, dan arah kesannya (pengaktifan kolinergik merencat CSD) mungkin bercanggah dengan mekanisme antagonis muskarinik seperti atropin.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat saringan keselamatan)

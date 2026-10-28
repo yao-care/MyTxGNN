@@ -4,17 +4,17 @@ title: Paliperidone
 parent: Low Evidence (L4-L5)
 nav_order: 553
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Paliperidone: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (tahap bukti L5). Indikasi asal: Skizofrenia, gangguan psikotik, gangguan skizofreniform…"
+indication_count: 9
+last_modified_at: 2026-10-28
 monitor_inn: "PALIPERIDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
+description: "Paliperidone: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies) (tahap bukti L5). Indikasi asal: Tidak direkodka…"
 ---
 
 # Paliperidone
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Paliperidone: Daripada Skizofrenia kepada Distrofi Retina (dengan atau tanpa Anomali Ekstraokular)
+## Paliperidone: Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,21 +46,21 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Skizofrenia, gangguan psikotik, gangguan skizofreniform, gangguan skizoafektif, gangguan mental (berdasarkan graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Distrofi retina dengan atau tanpa anomali ekstraokular |
-| Skor Ramalan TxGNN | 99.92% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies) |
+| Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 16) |
+| Bilangan Pendaftaran | 16 (sah: 16) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
 Data terperinci tentang mekanisme tindakan asal tidak tersedia dalam data yang disusun untuk laporan ini. Walau bagaimanapun, berdasarkan pengetahuan umum, paliperidone ialah antagonis reseptor D2 dan 5-HT2A, dan keberkesanannya dalam skizofrenia telah dibuktikan.
 
-Tiada hubungan mekanistik yang jelas dapat dikenal pasti antara tindakan ini dengan distrofi retina warisan. Skor TxGNN yang tinggi (0.999) kemungkinan besar mencerminkan kedekatan dalam graf pengetahuan, bukan farmakologi yang telah disahkan. Oleh itu, ramalan ini perlu dianggap sebagai hipotesis awal sahaja dan bukan cadangan klinikal.
+Tiada hubungan mekanistik yang jelas dapat dikenal pasti antara tindakan ini dengan distrofi retina warisan. Skor yang tinggi (0.9992) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Oleh itu, ramalan ini perlu dianggap sebagai hipotesis awal sahaja dan bukan cadangan klinikal.
 
-Sebagai konteks, ramalan lain yang berskor tinggi bagi ubat ini juga tidak mempunyai bukti sokongan, antaranya miopia X-linked (99.91%), miopia sindromik (99.91%), hidranensefali (99.91%) dan penyakit Charcot-Marie-Tooth jenis 1G (99.86%). Satu-satunya ramalan yang mempunyai ujian klinikal dan literatur ialah **skizofrenia refraktori terhadap rawatan**, tetapi ini merupakan subpopulasi bagi indikasi asal dan bukan pengunaan semula yang sebenar.
+Sebagai konteks, ramalan lain yang berskor tinggi bagi ubat ini juga tidak mempunyai bukti sokongan, antaranya miopia X-linked (0.9991), miopia sindromik (0.9991), hidranensefali (0.9991) dan penyakit Charcot-Marie-Tooth jenis 1G (0.9986). Satu-satunya ramalan yang mempunyai ujian klinikal dan literatur ialah **skizofrenia refraktori terhadap rawatan**, tetapi ini merupakan subpopulasi bagi indikasi asal dan bukan pengunaan semula yang sebenar.
 
 ## Bukti Ujian Klinikal
 
@@ -72,7 +72,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Paliperidone pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran dikesan dalam data yang disusun.
 
 ## Pertimbangan Keselamatan
 
@@ -97,7 +96,6 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. 
 - Kajian praklinikal atau mekanistik yang menghubungkan laluan dopamin/serotonin dengan patologi distrofi retina.
 - Penilaian keserasian laluan pentadbiran dan kesesuaian untuk populasi pesakit sasaran.
 
-**Nota:** Antara semua ramalan, hanya *skizofrenia refraktori terhadap rawatan* (skor 99.80%, tahap bukti L4) mempunyai ujian klinikal Fasa 4 dan ulasan literatur, namun ia merupakan subpopulasi bagi indikasi sedia ada dan klozapin kekal sebagai rawatan piawai. Ia lebih sesuai dianggap sebagai soalan penyelidikan berbanding pengunaan semula ubat.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

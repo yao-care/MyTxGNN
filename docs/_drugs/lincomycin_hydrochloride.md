@@ -8,6 +8,7 @@ nav_order: 464
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Lincomycin Hydrochloride
@@ -53,8 +54,8 @@ Laporan ini mendokumenkan jurang data semasa dan menggariskan langkah-langkah ya
 | Indikasi Baru yang Diramalkan | — Tidak tersedia |
 | Skor Ramalan TxGNN | — Tidak tersedia |
 | Tahap Bukti | — Tidak boleh dinilai |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 20 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 20 daripada 20) |
+| Bilangan Pendaftaran | 20 (sah: 20) |
 | Keputusan yang Disyorkan | **Tunggu** |
 
 ---

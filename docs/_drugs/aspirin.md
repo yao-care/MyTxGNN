@@ -8,6 +8,7 @@ nav_order: 99
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Aspirin
@@ -51,8 +52,8 @@ Walau bagaimanapun, **tiada petunjuk ramalan TxGNN** terdapat dalam bungkus bukt
 | Petunjuk Baharu Ramalan | Tiada ramalan tersedia |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A — tiada ramalan untuk dinilai |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 22 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 22 daripada 22) |
+| Bilangan Pendaftaran | 22 (sah: 22) |
 | Keputusan Disyorkan | **Tahan** |
 
 ---

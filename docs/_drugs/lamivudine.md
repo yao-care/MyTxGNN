@@ -3,16 +3,18 @@ layout: default
 title: Lamivudine
 parent: Low Evidence (L4-L5)
 nav_order: 443
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Lamivudine: indikasi baharu diramal Jangkitan HIV (indikasi asal yang sudah diluluskan) (tahap bukti L5). Indikasi asal: Jangkitan virus hepatitis B kronik"
+monitor_inn: "Lamivudine"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
+last_modified_at: 2026-10-23
+description: "Lamivudine: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Lamivudine
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L4** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,14 +33,12 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Lamivudine: Daripada Jangkitan Hepatitis B Kronik kepada Jangkitan HIV
+## Lamivudine: Simian immunodeficiency virus infection
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Lamivudine ialah perencat transkriptase balik nukleosida (NRTI) yang pada asalnya digunakan untuk merawat jangkitan virus hepatitis B kronik, HIV dan AIDS.
-Dalam data yang dikumpulkan untuk laporan ini, indikasi teratas ialah **jangkitan HIV**, tetapi ia sebenarnya merupakan **indikasi asal yang sudah diluluskan** dan bukan indikasi baharu yang diramalkan. Skor TxGNN ialah 0.0%, jadi bukti datang daripada data klinikal dan bukan ramalan model.
-Terdapat **25 ujian klinikal** dan **20 penerbitan** yang disenaraikan untuk indikasi ini (tidak semua berkaitan secara langsung dengan lamivudine).
+Lamivudine ialah perencat transkriptase balik nukleosida yang direkodkan dalam graf pengetahuan untuk jangkitan virus hepatitis B kronik, jangkitan HIV dan AIDS. Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan virus kurang daya tahan simian (SIV)**. Setakat ini **tiada ujian klinikal** didaftarkan, dan hanya **15 penerbitan** diperoleh, kebanyakannya kajian praklinikal pada primata bukan manusia.
 
 ---
 
@@ -46,46 +46,29 @@ Terdapat **25 ujian klinikal** dan **20 penerbitan** yang disenaraikan untuk ind
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan virus hepatitis B kronik; jangkitan HIV; AIDS (daripada graf pengetahuan TxGNN; tiada teks indikasi berdaftar tempatan) |
-| Indikasi Baharu yang Diramalkan | Jangkitan HIV (indikasi asal yang sudah diluluskan) |
-| Skor Ramalan TxGNN | 0.0% |
-| Tahap Bukti | L1 (tertakluk kepada pengesahan, lihat nota di bawah) |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikumpulkan; perlu disahkan) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails |
-
-> **Nota tahap bukti:** Penarafan L1 memerlukan sekurang-kurangnya dua RCT Fasa 3 yang selesai. Beberapa ujian Fasa 3 yang selesai disenaraikan (contohnya NCT00013520, NCT01910402), tetapi dalam kebanyakan ujian, lamivudine hanya sebahagian daripada rejimen gabungan. Penarafan ini wajar disahkan semula.
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Simian immunodeficiency virus infection |
+| Skor Ramalan TxGNN | 0.9993 |
+| Tahap Bukti | L4 (kajian praklinikal pada haiwan/in vitro) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 30) |
+| Bilangan Pendaftaran | 30 (sah: 30) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan farmakologi am, lamivudine ialah NRTI. Selepas difosforilasi di dalam sel menjadi lamivudine trifosfat, ia bersaing dengan dCTP dan menamatkan rantaian DNA provirus semasa transkripsi balik HIV. Mekanisme yang sama menghalang polimerase DNA/transkriptase balik virus hepatitis B (HBV) dan mengurangkan replikasi virus.
+Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, lamivudine ialah perencat transkriptase balik nukleosida (NRTI) yang berkaitan dengan rawatan HIV-1 dan hepatitis B. Secara mekanisme, ia mungkin berkesan terhadap virus yang serupa.
 
-Oleh sebab HIV, AIDS dan hepatitis B kronik semuanya merupakan indikasi asal, ini bukan pelanggaran semula (repurposing) dalam erti kata sebenar. Mekanisme ubat sepadan secara langsung dengan penyakit. AIDS ialah peringkat lanjut jangkitan HIV, jadi mekanisme dan bukti klinikalnya bertindih dengan HIV dan tidak boleh dikira sebagai bukti bebas.
+SIV ialah saudara lentivirus yang rapat dengan HIV dan mempunyai transkriptase balik yang homolog. Aktiviti NRTI terhadap SIV oleh itu munasabah dari segi mekanisme. Kajian pada makak menunjukkan bahawa SIV yang membawa mutasi M184V (mutasi rintangan lamivudine) mempunyai kecergasan yang berkurang. Kajian tersebut juga menunjukkan bahawa rejimen kombinasi yang mengandungi NRTI menghasilkan penurunan viral yang pantas.
 
-Pertimbangan penting bagi hepatitis B ialah kadar rintangan tinggi (mutasi YMDD) apabila lamivudine digunakan sebagai monoterapi jangka panjang. Sebab itu garis panduan semasa lebih memilih entecavir atau tenofovir sebagai rawatan barisan pertama.
+Bukti ini bersifat tidak langsung dan praklinikal. SIV bukan penyakit manusia, jadi nilai penggunaan semula klinikalnya terhad. Nilainya terutamanya sebagai model haiwan untuk HIV.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Ujian berikut berkaitan dengan jangkitan HIV (10 ujian paling relevan):
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00002368](https://clinicaltrials.gov/study/NCT00002368) | Fasa 3 | Selesai | 2000 | Nevirapine bersama lamivudine dan terapi nukleosida latar belakang untuk mencegah perkembangan AIDS atau kematian; peranan lamivudine perlu disahkan |
-| [NCT00013520](https://clinicaltrials.gov/study/NCT00013520) | Fasa 3 | Selesai | 1125 | Perbandingan tiga rejimen tanpa perencat protease untuk rawatan awal HIV |
-| [NCT01910402](https://clinicaltrials.gov/study/NCT01910402) | Fasa 3b | Selesai | 499 | Dolutegravir/abacavir/lamivudine sekali sehari berbanding atazanavir/ritonavir + tenofovir/emtricitabine pada wanita naif ART |
-| [NCT00099359](https://clinicaltrials.gov/study/NCT00099359) | Fasa 3 | Selesai | 1735 | Tiga rejimen antiretroviral neonatal untuk mencegah penularan HIV semasa kelahiran (termasuk zidovudine/lamivudine/nelfinavir) |
-| [NCT00005017](https://clinicaltrials.gov/study/NCT00005017) | Fasa 4 | Tidak diketahui | 300 | Perbandingan rejimen berasaskan 3TC/ABC pada pesakit naif rawatan; status belum disahkan |
-| [NCT00549198](https://clinicaltrials.gov/study/NCT00549198) | Fasa 4 | Selesai | 392 | Abacavir/lamivudine berbanding tenofovir/emtricitabine bersama efavirenz pada pesakit naif |
-| [NCT07792096](https://clinicaltrials.gov/study/NCT07792096) | Fasa 3 | Belum merekrut | 800 | Platform adaptif CHAPAS-5 pada kanak-kanak dan remaja; belum ada keputusan |
-| [NCT00000841](https://clinicaltrials.gov/study/NCT00000841) | Fasa 3 | Selesai | 1750 | Indinavir bersama zidovudine dan lamivudine pada pesakit CD4 ≤200 |
-| [NCT04707326](https://clinicaltrials.gov/study/NCT04707326) | Tiada fasa | Aktif, tidak merekrut | 2040 | Keberkesanan DTG/3TC dalam dunia sebenar pada pesakit yang virusnya tertekan |
-| [NCT00004852](https://clinicaltrials.gov/study/NCT00004852) | Fasa 2/3 | Selesai | Tiada data | Lamivudine 300 mg sekali sehari berbanding 150 mg dua kali sehari bersama zidovudine dan efavirenz |
-
-Untuk jangkitan hepatitis B kronik, terdapat juga ujian relevan seperti [NCT00410202](https://clinicaltrials.gov/study/NCT00410202) (Fasa 3, 629 peserta, entecavir berbanding adefovir + lamivudine pada hepatitis B tahan lamivudine), [NCT01848743](https://clinicaltrials.gov/study/NCT01848743) (Fasa 3, tenofovir berbanding lamivudine, status tidak diketahui) dan [NCT01743079](https://clinicaltrials.gov/study/NCT01743079) (Fasa 4, 700 peserta, mencegah penularan ibu ke anak).
+Setakat ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
@@ -93,47 +76,55 @@ Untuk jangkitan hepatitis B kronik, terdapat juga ujian relevan seperti [NCT0041
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [32130806](https://pubmed.ncbi.nlm.nih.gov/32130806/) | 2020 | RCT | N Engl J Med | Cabotegravir dan rilpivirine tindakan panjang selepas induksi oral untuk HIV-1 (tidak melibatkan lamivudine secara langsung) |
-| [40874763](https://pubmed.ncbi.nlm.nih.gov/40874763/) | 2026 | RCT | Clin Infect Dis | Terapi dwi dolutegravir/lamivudine pada pesakit naif dengan CD4 ≤200/mm³ (kajian DOLCE, 48 minggu) |
-| [32504574](https://pubmed.ncbi.nlm.nih.gov/32504574/) | 2020 | RCT | Lancet HIV | Bictegravir/emtricitabine/TAF berbanding rejimen dolutegravir pada minggu ke-144 (tidak melibatkan lamivudine secara langsung) |
-| [24244586](https://pubmed.ncbi.nlm.nih.gov/24244586/) | 2013 | Meta-analisis | PLoS One | Perbandingan keberkesanan lamivudine dan emtricitabine dalam ujian rawak |
-| [31865558](https://pubmed.ncbi.nlm.nih.gov/31865558/) | 2020 | Ulasan | Drugs | Ulasan rejimen tablet tunggal dolutegravir/lamivudine |
-| [25698454](https://pubmed.ncbi.nlm.nih.gov/25698454/) | 2015 | Ulasan | Drugs | Ulasan rejimen tablet tunggal abacavir/dolutegravir/lamivudine |
-| [20001611](https://pubmed.ncbi.nlm.nih.gov/20001611/) | 2010 | Ulasan | Expert Opin Drug Metab Toxicol | Lamivudine mempunyai antara profil toleransi dan keselamatan jangka panjang terbaik dalam kalangan antiretroviral |
-| [29474268](https://pubmed.ncbi.nlm.nih.gov/29474268/) | 2018 | Ulasan | J Acquir Immune Defic Syndr | Dua puluh lima tahun lamivudine: penggunaan semasa dan masa depan |
-| [37099559](https://pubmed.ncbi.nlm.nih.gov/37099559/) | 2023 | Kohort | J Antimicrob Chemother | Keberkesanan dan toleransi dolutegravir/lamivudine dalam amalan klinikal (kohort CoRIS) |
-| [41314742](https://pubmed.ncbi.nlm.nih.gov/41314742/) | 2025 | Kohort | Lancet HIV | Hasil virologi dan rintangan ubat bagi tenofovir/lamivudine/dolutegravir di enam negara PEPFAR |
+| [19240457](https://pubmed.ncbi.nlm.nih.gov/19240457/) | 2009 | Kajian haiwan | AIDS | Menilai profilaksis pasca pendedahan dengan zidovudine, lamivudine dan indinavir terhadap penularan SIV melalui faraj pada makak |
+| [12021341](https://pubmed.ncbi.nlm.nih.gov/12021341/) | 2002 | Praklinikal | J Virol | Mutasi M184V muncul dalam masa 5 minggu pada makak neonatal yang dijangkiti SIV dan dirawat dengan lamivudine atau emtricitabine; virus mutan mempunyai kecergasan yang berkurang |
+| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Kajian haiwan | J Virol | Penurunan viral yang pantas pada makak yang dijangkiti SIV dan menerima terapi antiretroviral empat ubat |
+| [15919889](https://pubmed.ncbi.nlm.nih.gov/15919889/) | 2005 | Kajian haiwan | J Virol | Efavirenz, lamivudine dan tenofovir menurunkan paras RNA virus dalam plasma pada makak yang dijangkiti RT-SHIV |
+| [12502828](https://pubmed.ncbi.nlm.nih.gov/12502828/) | 2003 | Praklinikal | J Virol | Tenofovir memilih pembalikan mutasi M184V pada SIV, walaupun lamivudine hadir |
+| [14610172](https://pubmed.ncbi.nlm.nih.gov/14610172/) | 2003 | Kajian haiwan | J Virol | Laporan awal tentang kesan terapi antiviral awal pasca pendedahan (kombinasi termasuk lamivudine) terhadap perkembangan limfosit dalam jangkitan primer SIVmac251 pada makak |
+| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro | Antivir Ther | Menilai kerentanan HIV-2, SIV dan SHIV terhadap 16 ubat yang diluluskan dan satu ubat eksperimen |
+| [12804006](https://pubmed.ncbi.nlm.nih.gov/12804006/) | 2003 | Kajian haiwan | AIDS Res Hum Retroviruses | Jangkitan dan HAART (zidovudine, lamivudine, indinavir) mengubah ekspresi P-glikoprotein dan kinase selular dalam model primata AIDS |
+| [11689641](https://pubmed.ncbi.nlm.nih.gov/11689641/) | 2001 | Kajian haiwan | J Virol | Kecacatan hematopoiesis sumsum tulang yang berterusan pada makak yang dijangkiti SHIV walaupun viremia dikurangkan oleh HAART; kaitan terhad dengan lamivudine |
+| [31658118](https://pubmed.ncbi.nlm.nih.gov/31658118/) | 2020 | Ulasan | Curr Opin HIV AIDS | Ulasan tentang islatravir untuk HIV-1; tidak khusus untuk lamivudine |
 
 ---
 
 ## Maklumat Pasaran di Malaysia
 
-Menurut data yang dikumpulkan, tiada lesen berdaftar ditemui untuk lamivudine di Malaysia (jumlah pendaftaran: 0) dan statusnya "tidak dipasarkan". Ini mungkin merupakan artifak pangkalan data bagi produk agen tunggal, kerana lamivudine dipasarkan secara meluas dalam bentuk agen tunggal dan gabungan dos tetap. Status ini perlu disahkan dengan NPRA.
+Data yang dikumpulkan merekodkan 30 pendaftaran. Daripada jumlah itu, 16 ialah produk bahan tunggal dan 14 ialah produk kombinasi. Jadual di bawah hanya menyenaraikan 5 pendaftaran bahan tunggal. Rekod tidak mengandungi teks indikasi yang diluluskan atau bentuk dos.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL19963153ACRZ | 3TC Tablets 150mg (GlaxoSmithKline) | Tidak dinyatakan | Tidak dinyatakan dalam rekod |
+| MAL19992323ACRZ | Zeffix Tablet 100mg (GlaxoSmithKline) | Tidak dinyatakan | Tidak dinyatakan dalam rekod |
+| MAL17055009ACZ | Zulamivudine Tablets 150mg (Zulat Pharmacy) | Tidak dinyatakan | Tidak dinyatakan dalam rekod |
+| MAL17055004AZ | Lamimac 150 (Paxten) | Tidak dinyatakan | Tidak dinyatakan dalam rekod |
+| MAL20172809AEZ | hovid-Lamivudine Tablet 150mg (Hovid) | Tidak dinyatakan | Tidak dinyatakan dalam rekod |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Kontraindikasi/penyakit berkaitan (daripada graf pengetahuan, bukan teks label):** kegagalan hati, penyakit buah pinggang, pankreatitis, penyakit hati, penyakit pundi hempedu, miopati dan penyakit otot, neutropenia, agranulositosis, anemia, penyakit hati berlemak, asidosis laktik, dermatomiositis/miositis, hipertrigliseridemia, obesiti, dan beberapa keadaan lain.
-- **Interaksi ubat:** 100 interaksi dikesan. Yang bertahap **sederhana** ialah laktitol, manitol, naltrexone, orlistat dan sorbitol. Interaksi lain (contohnya metformin, morfin, vankomisin, amfoterisin B, omeprazol) berstatus tahap tidak diketahui.
+Amaran utama dan kontraindikasi daripada sisipan bungkusan tidak tersedia. Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
 
-Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
+- **Hubungan kontraindikasi dalam graf pengetahuan** (bukan teks label): penyakit hati dan kegagalan hati, penyakit buah pinggang, pankreatitis, penyakit pundi hempedu, miopati dan penyakit otot, neutropenia dan agranulositosis, anemia, hipertrigliseridemia, penyakit hati berlemak, asidosis laktik, serta dermatomiositis dan miositis. Hubungan ini perlu disahkan dengan teks label rasmi.
+- **Interaksi ubat**: 100 interaksi direkodkan. Yang bertahap sederhana ialah laktitol, manitol, naltrexone, orlistat dan sorbitol. Selebihnya, termasuk metformin, omeprazole, morfin dan vankomisin, bertahap tidak diketahui.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Lamivudine mempunyai bukti klinikal yang luas untuk HIV dan hepatitis B kronik, dan kedua-duanya ialah indikasi asal yang diluluskan. Namun skor TxGNN ialah 0.0%, status pasaran tempatan tidak jelas, dan peranan lamivudine dalam banyak ujian hanyalah sebahagian daripada rejimen gabungan.
+- Bukti terhad kepada kajian praklinikal pada primata bukan manusia dan kajian in vitro, tanpa ujian klinikal.
+- SIV bukan penyakit manusia, jadi nilai penggunaan semula klinikalnya rendah.
+- Ubat ini sudah dipasarkan untuk jangkitan retrovirus manusia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang saringan keselamatan)
-- Data mekanisme tindakan (MOA) rasmi daripada DrugBank
-- Pengesahan status pendaftaran dan pasaran lamivudine (agen tunggal dan gabungan dos tetap) di Malaysia
-- Pengesahan semula tahap bukti dengan menilai sumbangan khusus lamivudine dalam ujian Fasa 3
-- Pelan pemantauan rintangan (YMDD pada hepatitis B; mutasi M184V pada HIV) dan pemantauan fungsi hati, buah pinggang serta kiraan darah
+- Data mekanisme tindakan terperinci (MOA) daripada DrugBank.
+- Amaran, kontraindikasi dan teks indikasi yang diluluskan daripada sisipan bungkusan NPRA.
+- Penilaian nilai penggunaan sebenar, iaitu sama ada SIV hanya relevan sebagai model penyelidikan HIV dan bukan sasaran terapeutik manusia.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

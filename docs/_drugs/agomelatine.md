@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Agomelatine
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 34
-evidence_level: L2
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Agomelatine: indikasi baharu diramal Gangguan kecemasan (anxiety disorder) (tahap bukti L2). Indikasi asal: Gangguan kemurungan major"
+evidence_level: L5
+indication_count: 7
 monitor_inn: "Agomelatine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "melancholia", "Ohdo syndrome and variants"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
+last_modified_at: 2026-10-23
+description: "Agomelatine: indikasi baharu diramal Benign paroxysmal torticollis of infancy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Agomelatine
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,87 +33,99 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-## Agomelatine: Daripada Kemurungan Major kepada Gangguan Kecemasan
+## Agomelatine: Benign paroxysmal torticollis of infancy
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Agomelatine ialah antidepresan melatonergik yang digunakan untuk merawat gangguan kemurungan major.
-Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan kecemasan (anxiety disorder)**.
-Setakat ini terdapat **2 kajian klinikal** dan **20 penerbitan** berkaitan arah ini, tetapi bukti secara langsung untuk gangguan kecemasan masih terhad.
+Agomelatine ialah agonis reseptor melatonin (MT1/MT2) dan antagonis reseptor 5-HT2C, dengan penggunaan klinikal yang dicatatkan dalam data pfarmakologi sebagai rawatan gangguan kemurungan major.
+Model TxGNN meramalkan ia mungkin berkesan untuk **benign paroxysmal torticollis of infancy**, tetapi **tiada sebarang percubaan klinikal dan tiada sebarang penerbitan** yang menyokong ramalan ini setakat ini.
+Ramalan ini hanyalah ramalan model (L5) dan belum disokong oleh bukti sebenar.
 
 ---
 
-## Gambaran Ringkas
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Gangguan kemurungan major (berdasarkan data farmakologi, kerana tiada lesen berdaftar di Malaysia untuk dirujuk) |
-| Indikasi Baharu yang Diramalkan | Gangguan kecemasan (anxiety disorder) |
-| Skor Ramalan TxGNN | 99.98% |
-| Tahap Bukti | L2 |
-| Status Pasaran Malaysia | Tidak dipasarkan (perlu disahkan semula) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Benign paroxysmal torticollis of infancy |
+| Skor Ramalan TxGNN | 0.9996 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
+| Bilangan Kelulusan | 1 |
+| Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Agomelatine ialah agonis reseptor melatonin MT1/MT2 dan antagonis reseptor serotonin 5-HT2C. Data farmakologi turut menunjukkan interaksi dengan reseptor 5-HT2A dan 5-HT2B. Mekanisme ini berbeza daripada antidepresan penghalang ambilan semula monoamina. Data terperinci mengenai mekanisme tindakan (MOA) daripada pangkalan data ubat belum tersedia. Huraian di sini berdasarkan sintesis literatur dan analisis mekanistik yang dikumpulkan.
+Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan data farmakologi yang dikumpulkan, agomelatine bertindak pada reseptor MT1 dan MT2 (agonis melatonin) serta reseptor 5-HT2C (antagonis), dan turut berinteraksi dengan reseptor 5-HT2A dan 5-HT2B.
 
-Kemurungan dan kecemasan sering berlaku bersama dan berkongsi asas biologi yang bertindih. Antagonisme 5-HT2C dipercayai meningkatkan pelepasan dopamin dan noradrenalin di korteks hadapan. Penyegerakan semula irama sirkadian dan pembaikan tidur pula boleh mengurangkan simptom kecemasan. Beberapa kajian semula mengenai agomelatine dalam gangguan kecemasan umum (GAD), termasuk PMID 24766542, menyokong hubungan ini.
+Benign paroxysmal torticollis of infancy ialah gangguan jarang yang terhad dengan sendirinya, berkait dengan migrain dan sering dikaitkan dengan gen CACNA1A (gangguan saluran ion). Mana-mana kaitan dengan agomelatine adalah spekulatif, misalnya melalui modulasi sirkadian atau serotonergik terhadap episod setara migrain. Skor tinggi TxGNN ialah ramalan model semata-mata.
 
-Namun, bukti kukuh dalam bentuk percubaan rawak khusus untuk gangguan kecemasan belum dapat disahkan daripada data yang ada. Ramalan ini wajar dianggap sebagai persoalan penyelidikan yang menjanjikan, bukan bukti kemanjuran yang telah mantap.
+Selain itu, ubat ini tidak sesuai untuk bayi tanpa data keselamatan.
 
 ---
 
-## Bukti Kajian Klinikal
+## Bukti Percubaan Klinikal
 
-| Nombor Kajian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT01108393](https://clinicaltrials.gov/study/NCT01108393) | Fasa 2 | Selesai | 74 | Menilai agomelatine 25–50 mg/hari berbanding plasebo dalam mengurangkan simptom obsesif-kompulsif selama 16 minggu. Keputusan tidak tersedia dalam data yang dikumpulkan. |
-| [NCT02374567](https://clinicaltrials.gov/study/NCT02374567) | Fasa 3 | Ditamatkan | 407 | Kajian farmakovigilans keselamatan ubat psikotropik dalam pesakit gerontopsikiatri. Tidak khusus untuk kecemasan, jadi bukti kemanjuran terhad. |
+Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [30712879](https://pubmed.ncbi.nlm.nih.gov/30712879/) | 2019 | Meta-analisis rangkaian | Lancet | Membandingkan pelbagai rawatan farmakologi untuk GAD. |
-| [40788541](https://pubmed.ncbi.nlm.nih.gov/40788541/) | 2026 | Meta-analisis rangkaian | Eur Arch Psychiatry Clin Neurosci | Membandingkan kemanjuran dan kebolehterimaan ubat anxiolitik dalam gangguan kecemasan. |
-| [33343351](https://pubmed.ncbi.nlm.nih.gov/33343351/) | 2020 | Meta-analisis rangkaian (RCT buta ganda) | Front Pharmacol | Membandingkan kadar remisi dan toleransi ubat untuk GAD. |
-| [38804215](https://pubmed.ncbi.nlm.nih.gov/38804215/) | 2025 | Kajian sistematik & meta-analisis rangkaian | Int Clin Psychopharmacol | Menilai kemanjuran dan toleransi agomelatine berbanding ubat GAD yang diluluskan pada pesakit dewasa. |
-| [32702221](https://pubmed.ncbi.nlm.nih.gov/32702221/) | 2020 | Meta-analisis | Clin Psychopharmacol Neurosci | Menilai kemanjuran dan keselamatan agomelatine dalam GAD. |
-| [36705012](https://pubmed.ncbi.nlm.nih.gov/36705012/) | 2023 | Kajian sistematik | Curr Opin Psychiatry | Gambaran keseluruhan intervensi terkini untuk GAD. |
-| [35795687](https://pubmed.ncbi.nlm.nih.gov/35795687/) | 2022 | Kajian semula | Ther Adv Psychopharmacol | Membincangkan mekanisme tindakan tersendiri agomelatine dalam GAD. |
-| [34417992](https://pubmed.ncbi.nlm.nih.gov/34417992/) | 2021 | Kajian semula | Adv Ther | Farmakoterapi berasaskan bukti untuk GAD, dengan tumpuan pada agomelatine. |
-| [28730851](https://pubmed.ncbi.nlm.nih.gov/28730851/) | 2017 | Kajian semula | Expert Opin Pharmacother | Menilai data kemanjuran dan toleransi agomelatine dalam GAD. Ia dilihat menjanjikan untuk rawatan jangka pendek dan penyelenggaraan. |
-| [24766542](https://pubmed.ncbi.nlm.nih.gov/24766542/) | 2014 | Kajian semula | Expert Opin Investig Drugs | Membincangkan agomelatine dalam rawatan GAD. |
+Buat masa ini tiada literatur berkaitan yang tersedia.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL20091965AZ | VALDOXAN 25MG FILM-COATED TABLETS | Tidak dinyatakan | Tidak dinyatakan dalam data pendaftaran |
+
+Pemegang pendaftaran: Servier Malaysia Sdn. Bhd. Status: sah (produk bahan tunggal).
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Data amaran utama, kontraindikasi dan interaksi ubat daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
+**Interaksi dan Sasaran Farmakologi** (daripada data farmakologi, bukan interaksi ubat-ubat klinikal):
+- Reseptor 5-HT2A, 5-HT2B dan 5-HT2C
+- Reseptor MT1 dan MT2
+
+Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
-**Rasional:**
-- Bukti terkuat untuk gangguan kecemasan hanyalah satu kajian Fasa 2 yang telah selesai. Kajian itu menguji simptom obsesif-kompulsif, dan keputusannya tidak tersedia. Selebihnya ialah kajian semula dan meta-analisis yang memerlukan pengesahan lanjut.
-- Data keselamatan daripada sisipan pakej belum diperoleh, yang menghalang penilaian keselamatan menyeluruh. Status pendaftaran di Malaysia juga masih perlu disahkan.
+**Justifikasi:**
+Ramalan ini tiada bukti klinikal atau literatur, tiada hubungan mekanistik yang mantap, dan penyakit sasaran ialah keadaan bayi yang jarang sedangkan data keselamatan untuk bayi tiada. Skor TxGNN yang tinggi tidak mencukupi untuk meneruskan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Memuat turun dan menganalisis sisipan pakej NPRA untuk amaran dan kontraindikasi.
-- Mengesahkan status pendaftaran sebenar agomelatine di Malaysia, kerana ubat ini diluluskan untuk kemurungan major di banyak negara.
-- Melengkapkan data mekanisme tindakan daripada DrugBank.
-- Mendapatkan keputusan terperinci NCT01108393 dan menilai kajian meta-analisis agomelatine dalam GAD (contohnya PMID 32702221 dan 38804215).
-- Menyediakan pelan pemantauan fungsi hati, memandangkan risiko hepatotoksisiti yang diketahui bagi agomelatine.
+- Risalah maklumat produk NPRA (amaran, kontraindikasi, indikasi yang diluluskan)
+- Data mekanisme tindakan terperinci (MOA)
+- Bukti pra-klinikal atau klinikal yang mengkaji penyakit sasaran secara langsung
+- Data keselamatan dan dos untuk populasi pediatrik/bayi
+
+---
+
+## Lampiran: Ramalan Lain untuk Agomelatine
+
+| Kedudukan | Penyakit yang Diramalkan | Skor TxGNN | Tahap Bukti | Cadangan |
+|------|------|------|------|------|
+| 2 | Agoraphobia | 0.9995 | L5 | Hold. Kaitan tidak langsung melalui kesan anxiolitik; tiada percubaan atau literatur khusus. |
+| 3 | Neurotic disorder | 0.9990 | L5 | Persoalan penyelidikan. Hanya satu ulasan umum 2024 tentang antidepresan (PMID [39072578](https://pubmed.ncbi.nlm.nih.gov/39072578/)) yang tidak langsung dan tidak khusus kepada agomelatine, jadi tahap bukti ialah L5. |
+| 4 | Ohdo syndrome and variants | 0.9987 | L5 | Hold. Tiada kaitan mekanistik. |
+| 5 | Ligneous conjunctivitis | 0.9983 | L5 | Hold. Tiada kaitan dengan laluan plasminogen. |
+| 6 | Blepharophimosis - intellectual disability syndrome, Ohdo type | 0.9982 | L5 | Hold. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. |
+| 7 | Keppen-Lubinsky syndrome | 0.9981 | L5 | Hold. Tiada kaitan yang diketahui dengan saluran GIRK2. |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

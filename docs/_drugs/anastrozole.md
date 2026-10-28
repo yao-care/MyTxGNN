@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Anastrozole
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 78
-evidence_level: L1
-indication_count: 6
-last_modified_at: 2026-10-15
-description: "Anastrozole: indikasi baharu diramal Karsinoma payudara wanita (tahap bukti L1). Indikasi asal: Tiada rekod indikasi berdaftar dalam data yang dikumpulkan"
+evidence_level: L5
+indication_count: 5
 monitor_inn: "ANASTROZOLE"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
+last_modified_at: 2026-10-27
+description: "Anastrozole: indikasi baharu diramal neuroblastoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Anastrozole
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **6** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,122 +33,71 @@ Tahap bukti: **L1** | Indikasi diramal: **6**
 
 </div>
 
-## Anastrozole: Daripada Indikasi Asal (Tidak Direkodkan) kepada Karsinoma Payudara Wanita
+## Anastrozole: perencat aromatase → neuroblastoma (neuroblastoma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Anastrozole ialah perencat aromatase bukan steroid yang digunakan untuk merawat kanser payudara reseptor hormon positif pada wanita pascamenopaus. Data yang dikumpulkan untuk laporan ini tidak mencatatkan sebarang indikasi asal yang berdaftar di Malaysia.
-Model TxGNN meramalkan ia berkesan untuk **karsinoma payudara wanita**, dengan **29 ujian klinikal** dan **20 penerbitan** yang menyokong arah ini.
-Perlu diberi perhatian bahawa ini lebih tepat dianggap sebagai pengesahan kegunaan sedia ada, bukan pengalihan guna (repurposing) yang sebenar.
+Anastrozole ialah perencat aromatase yang menyekat penghasilan estrogen. Model TxGNN meramalkan ia mungkin berkesan untuk **neuroblastoma (neuroblastoma)**, tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini setakat ini. Ramalan ini hanya berdasarkan model pengiraan.
 
----
+## Gambaran Keseluruhan Ringkas
 
-## Gambaran Ringkas
-
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada rekod indikasi berdaftar dalam data yang dikumpulkan |
-| Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita |
-| Skor Ramalan TxGNN | 99.68% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
-
----
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | neuroblastoma (neuroblastoma) |
+| Skor Ramalan TxGNN | 0,9953 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Anastrozole ialah perencat aromatase generasi ketiga yang bukan steroid. Ia menyekat penukaran androgen kepada estrogen, lalu menurunkan paras estrogen dalam peredaran darah wanita pascamenopaus. Ini menyasar secara langsung pertumbuhan tumor yang didorong oleh estrogen dalam kanser payudara reseptor hormon positif.
+Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Secara umumnya, anastrozole ialah perencat aromatase yang mengurangkan paras estrogen, dan kelas ubat ini digunakan untuk tumor yang bergantung kepada hormon.
 
-Data mekanisme tindakan terperinci (MOA) tidak tersedia dalam sumber yang dikumpulkan, tetapi huraian di atas selaras dengan pengetahuan farmakologi yang mantap dan dengan kajian ulasan dalam literatur.
+Namun, hubungan mekanistik dengan neuroblastoma tidak dapat ditunjukkan. Neuroblastoma bukan tumor klasik yang didorong oleh estrogen, dan tiada biologi bergantung aromatase yang telah dibuktikan. Skor yang tinggi (0,9953) ialah ramalan pengiraan sahaja dan tidak boleh dianggap sebagai bukti keberkesanan klinikal.
 
-Data yang dikumpulkan tidak mencatatkan indikasi asal dan menunjukkan status "tidak dipasarkan" di Malaysia. Ini ialah jurang data, kerana anastrozole sudah mantap sebagai terapi kanser payudara. Status pemasaran dan indikasi asal perlu disahkan dalam pangkalan data sumber.
+## Bukti Percubaan Klinikal
 
----
-
-## Bukti Ujian Klinikal
-
-Berikut ialah 10 ujian yang paling relevan (daripada 29 ujian yang ditemui). Ujian gred A diutamakan.
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00784680](https://clinicaltrials.gov/study/NCT00784680) | Fasa 3 | Selesai | 308 | Perbandingan kualiti hidup antara Arimidex, Nolvadex dan gabungan sebagai terapi adjuvan pada wanita pascamenopaus |
-| [NCT03425838](https://clinicaltrials.gov/study/NCT03425838) | Fasa 3 | Aktif, tidak merekrut | 1050 | Kajian SONIA: perencat aromatase + perencat CDK4/6 pada barisan pertama berbanding kedua dalam kanser payudara HR-positif lanjutan |
-| [NCT00327769](https://clinicaltrials.gov/study/NCT00327769) | Fasa 3 | Selesai | 234 | Fulvestrant 250 mg berbanding Arimidex 1 mg sebagai terapi barisan kedua |
-| [NCT00301457](https://clinicaltrials.gov/study/NCT00301457) | Fasa 3 | Selesai | 1914 | Tempoh anastrozole 6 tahun berbanding 3 tahun selepas tamoxifen 2-3 tahun |
-| [NCT00300508](https://clinicaltrials.gov/study/NCT00300508) | Fasa 3 | Selesai | 856 | Anastrozole 3 tahun berbanding tanpa rawatan selepas 5 tahun terapi hormon adjuvan |
-| [NCT00143390](https://clinicaltrials.gov/study/NCT00143390) | Fasa 3 | Selesai | 298 | Exemestane berbanding anastrozole sebagai terapi hormon awal dalam kanser payudara lanjutan/berulang |
-| [NCT02246621](https://clinicaltrials.gov/study/NCT02246621) | Fasa 3 | Aktif, tidak merekrut | 493 | Perencat aromatase bukan steroid (anastrozole atau letrozole) + abemaciclib berbanding plasebo |
-| [NCT04272801](https://clinicaltrials.gov/study/NCT04272801) | Fasa 2 | Aktif, tidak merekrut | 84 | Terapi endokrin praoperatif pada wanita berumur ≥65 tahun untuk membantu keputusan radioterapi |
-| [NCT00256217](https://clinicaltrials.gov/study/NCT00256217) | Fasa 2 | Selesai | 42 | Percubaan kemoprevensi anastrozole dalam DCIS dan kanser payudara invasif awal |
-| [NCT00728949](https://clinicaltrials.gov/study/NCT00728949) | Fasa 2 | Selesai | 93 | IMC-A12 secara tunggal atau bersama anti-estrogen dalam kanser payudara HR-positif lanjutan |
-
----
+Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [15639680](https://pubmed.ncbi.nlm.nih.gov/15639680/) | 2005 | RCT | Lancet | Percubaan ATAC: selepas 5 tahun, anastrozole memanjangkan kelangsungan bebas penyakit dengan ketara berbanding tamoxifen (9,366 wanita pascamenopaus) |
-| [31839281](https://pubmed.ncbi.nlm.nih.gov/31839281/) | 2020 | RCT | Lancet | IBIS-II: keputusan jangka panjang anastrozole untuk pencegahan kanser payudara pada wanita berisiko tinggi |
-| [27908454](https://pubmed.ncbi.nlm.nih.gov/27908454/) | 2016 | RCT | Lancet | FALCON: fulvestrant 500 mg berbanding anastrozole 1 mg dalam kanser payudara lanjutan HR-positif |
-| [42384406](https://pubmed.ncbi.nlm.nih.gov/42384406/) | 2026 | RCT (analisis sekunder) | JAMA Surgery | NSABP B-35: margin lumpektomi dan kekambuhan setempat dalam DCIS dengan anastrozole atau tamoxifen |
-| [41632158](https://pubmed.ncbi.nlm.nih.gov/41632158/) | 2025 | Kohort | JAMA Network Open | Perbandingan hasil anastrozole, letrozole dan exemestane dalam amalan klinikal |
-| [31615937](https://pubmed.ncbi.nlm.nih.gov/31615937/) | 2020 | Ujian klinikal (biopenanda) | Clin Cancer Res | neoMONARCH: abemaciclib + anastrozole menyekat kitaran sel dan meningkatkan respons imun secara neoadjuvan |
-| [20923259](https://pubmed.ncbi.nlm.nih.gov/20923259/) | 2010 | Ulasan | Expert Opin Drug Saf | Anastrozole sebagai perencat aromatase adjuvan; beberapa percubaan menunjukkan keberkesanan lebih tinggi berbanding tamoxifen |
-| [16439860](https://pubmed.ncbi.nlm.nih.gov/16439860/) | 2006 | Ulasan | Oncology | Peranan anastrozole merentasi kesinambungan kanser payudara, daripada penyakit lanjutan hingga pencegahan |
-| [28614542](https://pubmed.ncbi.nlm.nih.gov/28614542/) | 2017 | Ulasan | Rev Assoc Med Bras | Ulasan literatur tentang anastrozole dalam kemoprevensi dan rawatan kanser payudara |
-| [16034487](https://pubmed.ncbi.nlm.nih.gov/16034487/) | 2005 | Ulasan | Drugs Today | Ulasan mod tindakan dan percubaan utama anastrozole |
-
----
+Buat masa ini tiada literatur berkaitan yang tersedia untuk neuroblastoma.
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan tidak mencatatkan sebarang lesen berdaftar untuk anastrozole di Malaysia (status: tidak dipasarkan). Perkara ini perlu disahkan dalam pangkalan data NPRA.
-
----
+Menurut data yang dikumpulkan untuk laporan ini, status pasaran ialah dipasarkan, dengan 4 lesen sah dan tiada lesen dibatalkan. Butiran lesen individu tidak disenaraikan di sini.
 
 ## Sitotoksisiti
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Terapi hormon (perencat aromatase bukan steroid); bukan sitotoksik konvensional |
-| Risiko Penindasan Sumsum Tulang | Rendah (tiada data terperinci dalam data yang dikumpulkan) |
+| Klasifikasi Sitotoksisiti | Terapi hormon (perencat aromatase); bukan sitotoksik konvensional |
+| Risiko Penekanan Sumsum Tulang | Rendah |
 | Klasifikasi Emetogenisiti | Rendah |
-| Item Pemantauan | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej; secara klinikal, pertimbangkan fungsi hati dan ketumpatan mineral tulang |
-| Perlindungan Pengendalian | Sila rujuk sisipan pakej |
-
----
+| Item Pemantauan | Rujuk amaran dan langkah berjaga-jaga dalam sisip pakej |
+| Perlindungan Pengendalian | Rujuk sisip pakej |
 
 ## Pertimbangan Keselamatan
 
-- **Kontraindikasi daripada graf pengetahuan (bukan teks label)**: graf pengetahuan TxGNN (PrimeKG) mencatatkan hubungan kontraindikasi dengan iskemia miokardium dan penyakit arteri koronari.
-- **Interaksi Ubat**: pangkalan data DDI mengenal pasti 100 interaksi berpotensi, tetapi tahap keterukan semuanya "tidak diketahui". Contoh ubat yang terlibat: bupropion, pantoprazole, glimepiride, morfin, metformin, omeprazole, rosiglitazone, simvastatin, prednisone dan aspirin.
-- **Isyarat keselamatan daripada literatur**: terdapat laporan kes hepatotoksisiti teraruh anastrozole ([PMID 17033446](https://pubmed.ncbi.nlm.nih.gov/17033446/)). Percubaan klinikal juga meneliti kesan ke atas ketumpatan tulang dan fungsi endotelium.
+- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan dalam pangkalan data DDI, tetapi tahap keterukan tidak diketahui. Antara ubat yang disenaraikan: bupropion, pantoprazole, glimepiride, morfin, metformin, omeprazole, rosiglitazone, simvastatin, prednisone dan asid asetilsalisilik.
 
-Untuk amaran dan kontraindikasi label yang lengkap, sila rujuk sisipan pakej.
-
----
+Untuk maklumat amaran dan kontraindikasi, sila rujuk sisip pakej.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Bukti kukuh dan matang: beberapa RCT Fasa 3 yang selesai (termasuk ATAC dan IBIS-II) menyokong anastrozole dalam kanser payudara HR-positif. Namun, status "tidak dipasarkan" dan ketiadaan indikasi asal dalam data menunjukkan jurang data yang perlu diselesaikan sebelum keputusan muktamad.
+Ramalan neuroblastoma hanya berasaskan skor model (0,9953) tanpa sebarang percubaan klinikal, literatur atau hubungan mekanistik yang ditunjukkan. Tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Mengesahkan status pendaftaran dan indikasi asal dalam pangkalan data NPRA (jurang data yang menghalang).
-- Memuat turun dan menghurai sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang).
-- Melengkapkan data mekanisme tindakan (MOA) daripada DrugBank.
-- Menilai risiko kardiovaskular, memandangkan isyarat kontraindikasi daripada graf pengetahuan (iskemia miokardium, penyakit arteri koronari).
-- Menjelaskan tahap keterukan interaksi ubat yang masih "tidak diketahui".
-
----
-
-*Nota tambahan: Lima ramalan lain (neuroblastoma, sindrom anomali vertebra dengan disfungsi endokrin dan sel T, ganglioneuroblastoma, neoplasma retroperitoneum, leukemia monositik) berskor tinggi (99.2%-99.5%) tetapi hanya berdasarkan ramalan model, tanpa ujian klinikal dan tanpa hubungan mekanisme yang jelas. Keputusan untuk semuanya ialah **Hold**.*
+- Data mekanisme tindakan terperinci dan rasional biologi bagi peranan aromatase/estrogen dalam neuroblastoma
+- Kajian praklinikal (in vitro/in vivo) pada model neuroblastoma
+- Amaran dan kontraindikasi daripada sisip pakej NPRA
+- Penilaian keselamatan untuk populasi pediatrik, kerana neuroblastoma terutamanya menyerang kanak-kanak
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

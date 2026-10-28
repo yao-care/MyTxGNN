@@ -21,7 +21,11 @@
     },
     {
       "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
-      "valueString": "TxGNN Knowledge Graph"
+      "valueString": "TxGNN deep learning model"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9985
     }
   ]
 }

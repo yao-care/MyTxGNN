@@ -4,17 +4,17 @@ title: Salbutamol
 parent: Low Evidence (L4-L5)
 nav_order: 635
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Salbutamol: indikasi baharu diramal Konjunktivitis papilari (tahap bukti L5). Indikasi asal: Tiada rekod dalam data yang dikumpulkan"
 monitor_inn: "Salbutamol"
-predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "bronchitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture", "obstructive lung disease"]
+predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "bronchitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
+description: "Salbutamol: indikasi baharu diramal Konjunktivitis papilari (papillary conjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Salbutamol
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Salbutamol: Daripada Indikasi Asal (Tiada Rekod Pendaftaran) kepada Konjunktivitis Papilari
+## Salbutamol: Konjunktivitis papilari (papillary conjunctivitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Data pendaftaran tempatan yang dikumpulkan untuk laporan ini tidak mempunyai rekod indikasi asal bagi salbutamol. Secara umum, salbutamol ialah agonis beta-2 yang dikenali sebagai bronkodilator.
-Model TxGNN meramalkan ia mungkin berkesan untuk **konjunktivitis papilari** dengan skor sangat tinggi (99.996%). Namun, **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini setakat ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **konjunktivitis papilari** dengan skor sangat tinggi (1.0000). Namun, **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini setakat ini.
 
 ---
 
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **konjunktivitis papilari** den
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada rekod dalam data yang dikumpulkan |
-| Indikasi Baharu yang Diramalkan | Konjunktivitis papilari |
-| Skor Ramalan TxGNN | 99.996% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Konjunktivitis papilari (papillary conjunctivitis) |
+| Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 (ramalan model sahaja) |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikumpulkan) |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 67 daripada 67) |
+| Bilangan Pendaftaran | 67 (sah: 67) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -110,11 +110,11 @@ Senarai penuh perlu disemak sebelum sebarang penggunaan klinikal.
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Memuat turun dan menghurai sisipan pek NPRA untuk amaran dan kontraindikasi.
 - Mendapatkan data mekanisme tindakan (MOA) daripada DrugBank.
-- Mengesahkan pemetaan ubat, status pasaran dan indikasi asal dalam rekod. Data menunjukkan "tidak dipasarkan" dengan 0 pendaftaran, dan ini kelihatan seperti masalah rekod data yang perlu dibetulkan.
+- Mengesahkan pemetaan ubat, status pasaran dan indikasi asal dalam rekod.
 - Menilai keserasian laluan pentadbiran. Konjunktivitis papilari memerlukan formulasi oftalmik, dan keserasian laluan belum dinilai.
 - Mengumpulkan bukti praklinikal atau klinikal khusus untuk keadaan ini. Kajian haiwan lama untuk konjunktivitis alahan (contohnya PMID 3666475 pada guinea pig) wujud untuk indikasi yang berhampiran, tetapi tiada data manusia.
 
-**Catatan tambahan:** Antara indikasi lain yang diramalkan, penyakit paru obstruktif (obstructive lung disease) mempunyai bukti tahap L1. Ini ialah penggunaan standard bronkodilator dan bukan pengalihan guna baharu. Ia menguatkan keperluan membetulkan rekod data ubat sebelum sebarang keputusan dibuat.
+Ini ialah penggunaan standard bronkodilator dan bukan pengalihan guna baharu. Ia menguatkan keperluan membetulkan rekod data ubat sebelum sebarang keputusan dibuat.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

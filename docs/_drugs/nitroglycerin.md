@@ -4,7 +4,7 @@ title: Nitroglycerin
 parent: Medium Evidence (L3)
 nav_order: 529
 evidence_level: L3
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Nitroglycerin: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L3). Indikasi asal: Tiada data indikasi berdaftar di Malaysia dalam data yang dikumpulkan…"
 monitor_inn: "NITROGLYCERIN"
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease"
 # Nitroglycerin
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **5** 
+Tahap bukti: **L3** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Nitrogliserin ialah penderma nitrik oksida (NO) dan nitrat organik yang digunaka
 |------|------|
 | Indikasi Asal | Tiada data indikasi berdaftar di Malaysia dalam data yang dikumpulkan untuk laporan ini |
 | Indikasi Baharu yang Diramalkan | Hipertensi pulmonari (pulmonary hypertension) |
-| Skor Ramalan TxGNN | 99.61% |
+| Skor Ramalan TxGNN | 0.9961 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold (soalan penyelidikan; perlu bukti dan data keselamatan tambahan) |
 
 ---
@@ -124,10 +124,9 @@ Maklumat amaran utama daripada sisipan pakej tidak tersedia. Sila rujuk sisipan 
 
 | Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Ulasan |
 |------|------|------|------|
-| Kyphoscoliotic heart disease | 99.42% | L5 | Tiada percubaan atau literatur; hanya ramalan pengiraan |
-| Prinzmetal angina | 99.39% | L4 | Penggunaan klinikal sedia ada (vasospasme koronari); lebih tepat sebagai pengesahan amalan lazim daripada peluang penggunaan semula baharu |
-| Primary hereditary glaucoma | 99.16% | L5 | Tiada bukti; penderma NO dikaji secara eksperimen untuk tekanan intraokular tetapi tidak mantap untuk glaukoma kongenital |
-| Congenital hypotrichosis milia | 99.02% | L5 | Tiada hubungan mekanisme yang jelas; kemungkinan artifak rangkaian |
+| Kyphoscoliotic heart disease | 0.9942 | L5 | Tiada percubaan atau literatur; hanya ramalan pengiraan |
+| Primary hereditary glaucoma | 0.9916 | L5 | Tiada bukti; penderma NO dikaji secara eksperimen untuk tekanan intraokular tetapi tidak mantap untuk glaukoma kongenital |
+| Congenital hypotrichosis milia | 0.9902 | L5 | Tiada hubungan mekanisme yang jelas; kemungkinan artifak rangkaian |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

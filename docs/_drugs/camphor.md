@@ -3,18 +3,18 @@ layout: default
 title: Camphor
 parent: Low Evidence (L4-L5)
 nav_order: 189
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Camphor: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tiada data (tiada lesen NPRA direkodkan)"
 monitor_inn: "Camphor"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "migraine with or without aura, susceptibility to", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
 ---
 
 # Camphor
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ tetapi setakat ini **tiada ujian klinikal** didaftarkan dan hanya terdapat **3 p
 |------|------|
 | Indikasi Asal | Tiada data (tiada lesen NPRA direkodkan) |
 | Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder) |
-| Skor Ramalan TxGNN | 99.85% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9985 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 290 daripada 290) |
+| Bilangan Pendaftaran | 290 (sah: 290) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---
@@ -118,15 +118,14 @@ Sembilan ramalan lain kekal pada tahap bukti L4–L5 dan disyorkan **Hold**:
 
 | Penyakit yang Diramalkan | Skor TxGNN | Tahap Bukti | Catatan |
 |------|------|------|------|
-| Migrain dengan aura batang otak | 99.79% | L5 | Tiada ujian atau literatur |
-| Disfungsi erektil | 99.79% | L5 | Hanya kajian ketoksikan tikus; tiada bukti terapeutik |
-| Hipertensi pulmonari | 99.77% | L5 | Literatur ialah kekeliruan nama (soal selidik CAMPHOR), bukan kamfor |
-| Migrain dengan atau tanpa aura, kerentanan | 99.73% | L4 | Disokong kajian praklinikal yang sama seperti di atas |
-| Penyakit jantung kifoskoliotik | 99.70% | L5 | Tiada ujian atau literatur |
-| Ulerythema ophryogenesis | 99.60% | L5 | Tiada ujian atau literatur |
-| Penyakit Raynaud | 99.56% | L5 | Literatur mungkin kekeliruan nama |
-| Atrophoderma vermiculata | 99.54% | L5 | Tiada ujian atau literatur |
-| Sindrom Tourette | 99.46% | L5 | Tiada bukti; risiko sawan kamfor merupakan kebimbangan keselamatan untuk penggunaan sasaran CNS |
+| Migrain dengan aura batang otak | 0.9979 | L5 | Tiada ujian atau literatur |
+| Disfungsi erektil | 0.9979 | L5 | Hanya kajian ketoksikan tikus; tiada bukti terapeutik |
+| Hipertensi pulmonari | 0.9977 | L5 | Literatur ialah kekeliruan nama (soal selidik CAMPHOR), bukan kamfor |
+| Penyakit jantung kifoskoliotik | 0.9970 | L5 | Tiada ujian atau literatur |
+| Ulerythema ophryogenesis | 0.9960 | L5 | Tiada ujian atau literatur |
+| Penyakit Raynaud | 0.9956 | L5 | Literatur mungkin kekeliruan nama |
+| Atrophoderma vermiculata | 0.9954 | L5 | Tiada ujian atau literatur |
+| Sindrom Tourette | 0.9946 | L5 | Tiada bukti; risiko sawan kamfor merupakan kebimbangan keselamatan untuk penggunaan sasaran CNS |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -6,9 +6,9 @@ nav_order: 305
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Domperidone: indikasi baharu diramal Sindrom antidiuresis tidak wajar nefrogenik (NSIAD) (tahap bukti L5). Indikasi asal: Tiada data lesen NPRA"
 monitor_inn: "DOMPERIDONE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
+description: "Domperidone: indikasi baharu diramal Sindrom antidiuresis tidak wajar nefrogenik (nephrogenic syndrome of inappropriate antidiuresis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data temp…"
 ---
 
 # Domperidone
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Domperidone: Daripada Gangguan Gastrousus kepada Sindrom Antidiuresis Tidak Wajar Nefrogenik
+## Domperidone: Sindrom antidiuresis tidak wajar nefrogenik (nephrogenic syndrome of inappropriate antidiuresis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ Domperidone ialah antagonis reseptor dopamin D2/D3 periferi yang digunakan untuk
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data lesen NPRA; berdasarkan data farmakologi, digunakan untuk dispepsia, pedih ulu hati, sakit epigastrium, loya dan muntah |
-| Indikasi Baharu yang Diramalkan | Sindrom antidiuresis tidak wajar nefrogenik (NSIAD) |
-| Skor Ramalan TxGNN | 99.08% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom antidiuresis tidak wajar nefrogenik (nephrogenic syndrome of inappropriate antidiuresis) |
+| Skor Ramalan TxGNN | 0.9908 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 17 daripada 17) |
+| Bilangan Pendaftaran | 17 (sah: 17) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ Data terperinci mengenai mekanisme tindakan asal tidak tersedia pada masa ini. B
 
 NSIAD berpunca daripada mutasi gain-of-function pada reseptor vasopresin V2 (AVPR2, contohnya R137C/R137L) atau, dalam sesetengah kes, isyarat berkaitan GNAS. Ini menyebabkan antidiuresis berterusan tanpa bergantung pada vasopresin. Domperidone tidak mempunyai kesan yang diketahui terhadap reseptor V2 atau laluan hiliran cAMP/akuaporin-2.
 
-Satu kaitan yang munasabah tetapi belum terbukti mungkin melalui modulasi dopaminergik terhadap pengendalian air oleh ginjal atau perembesan vasopresin. Namun, oleh kerana NSIAD didorong oleh kecacatan peringkat reseptor yang tidak bergantung pada vasopresin beredar, mekanisme melalui pembebasan vasopresin tidak mungkin membantu. Skor graf yang tinggi berkemungkinan mencerminkan kedekatan rangkaian (nod hiponatremia/keseimbangan air atau nod berkaitan GPCR yang dikongsi) dan bukan mekanisme biologi yang telah disahkan.
+Satu kaitan yang munasabah tetapi belum terbukti mungkin melalui modulasi dopaminergik terhadap pengendalian air oleh ginjal atau perembesan vasopresin. Namun, oleh kerana NSIAD didorong oleh kecacatan peringkat reseptor yang tidak bergantung pada vasopresin beredar, mekanisme melalui pembebasan vasopresin tidak mungkin membantu. Skor tinggi daripada model TxGNN (deep learning) berkemungkinan mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, dan bukan bukti biologi.
 
 ---
 
@@ -80,7 +80,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Berdasarkan data yang dikumpulkan untuk laporan ini, domperidone tidak mempunyai lesen aktif di Malaysia (jumlah pendaftaran: 0), dan status pasaran ialah tidak dipasarkan.
 
 ---
 
@@ -99,7 +98,7 @@ Perhatian: kontraindikasi berkaitan QT dan aritmia amat relevan, memandangkan pe
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur sokongan, dan mekanisme tindakan domperidone (antagonis D2/D3 periferi) tidak sepadan dengan punca NSIAD (mutasi gain-of-function reseptor V2). Selain itu, ubat ini tidak dipasarkan di Malaysia dan data keselamatan sisipan pakej belum tersedia.
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur sokongan, dan mekanisme tindakan domperidone (antagonis D2/D3 periferi) tidak sepadan dengan punca NSIAD (mutasi gain-of-function reseptor V2).
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat penilaian keselamatan)

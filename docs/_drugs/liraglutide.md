@@ -8,6 +8,7 @@ nav_order: 466
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Liraglutide
@@ -53,8 +54,8 @@ Dengan **0 petunjuk yang diramalkan** dijana, penilaian pembentukan semula penuh
 | Petunjuk Baharu yang Diramalkan | Tiada ramalan dijana |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 — Ramalan belum selesai; tiada kajian sokongan boleh diambil pada peringkat ini |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 4 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | **Tahan** |
 
 ---
@@ -116,7 +117,7 @@ Pakej Bukti ini sangat tidak lengkap — tiada ramalan pembentukan semula TxGNN 
    Pertanyaan API DrugBank untuk DB06655 untuk mendapatkan sasaran farmakologi yang disahkan, penerangan mekanisme, dan anotasi laluan. Data ini penting untuk traversal graf mekanik TxGNN.
 
 3. **Jalankan semula saluran ramalan TxGNN:**
-   Sebaik sahaja data MOA dan keselamatan diisi, jalankan semula kedua-dua model ramalan graf pengetahuan (KG) dan pembelajaran mendalam (DL) untuk menjana senarai `predicted_indications` yang disusun.
+   Sebaik sahaja data MOA dan keselamatan diisi, jalankan semula kedua-dua model ramalan model TxGNN (pembelajaran mendalam) (KG) dan pembelajaran mendalam (DL) untuk menjana senarai `predicted_indications` yang disusun.
 
 4. **Ambil butiran lesen NPRA penuh:**
    Pertanyaan daftar NPRA untuk semua 4 pendaftaran untuk mengisi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan.

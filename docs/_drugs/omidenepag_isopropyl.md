@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Omidenepag Isopropyl: indikasi baharu diramal Pankreatitis (tahap bukti L5). Indikasi asal: Hipertensi okular, glaukoma"
 monitor_inn: "OMIDENEPAG ISOPROPYL"
-predicted_indications: ["pancreatitis", "hyperphosphatemia (disease)", "esophageal varices with bleeding", "esophageal varices without bleeding", "blepharospasm", "familial visceral myopathy", "alcoholic cardiomyopathy"]
+predicted_indications: ["pancreatitis", "hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "blepharospasm", "familial visceral myopathy", "alcoholic cardiomyopathy"]
 ---
 
 # Omidenepag Isopropyl
@@ -50,10 +50,10 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 |------|------|
 | Indikasi Asal | Hipertensi okular, glaukoma |
 | Indikasi Baharu yang Diramalkan | Pankreatitis |
-| Skor Ramalan TxGNN | 99.76% |
+| Skor Ramalan TxGNN | 0.9976 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,11 +62,11 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 Omidenepag isopropil ialah prodrug. Metabolit aktifnya, omidenepag, ialah agonis reseptor EP2 selektif yang meningkatkan cAMP. Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
-Tiada hubungan mekanistik langsung antara agonis EP2 dengan pankreatitis ditunjukkan dalam data yang ada. Satu hipotesis spekulatif ialah modulasi keradangan melalui EP2/cAMP, tetapi ini tidak disokong oleh bukti dalam data ini. Skor TxGNN yang tinggi (0.998) ialah ramalan pengiraan sahaja dan mungkin mencerminkan artifak rangkaian pengetahuan dan bukannya biologi sebenar. Persamaan dengan indikasi asal masih belum dinilai.
+Tiada hubungan mekanistik langsung antara agonis EP2 dengan pankreatitis ditunjukkan dalam data yang ada. Satu hipotesis spekulatif ialah modulasi keradangan melalui EP2/cAMP, tetapi ini tidak disokong oleh bukti dalam data ini. Skor TxGNN yang tinggi (0.9976) ialah ramalan pengiraan sahaja dan mungkin mencerminkan artifak rangkaian pengetahuan dan bukannya biologi sebenar. Persamaan dengan indikasi asal masih belum dinilai.
 
 Ubat ini juga diberikan secara titisan mata topikal dengan pendedahan sistemik yang terhad, sehingga kesan terhadap pankreas tidak mudah dijangka.
 
-Ramalan lain dalam kedudukan teratas (skor 0.99–0.998), semuanya pada tahap bukti L5 dan tanpa percubaan atau literatur, ialah: hiperfosfatemia, varises esofagus (dengan dan tanpa pendarahan), blefarospasme, miopati visceral familial, dan kardiomiopati alkohol. Tiada satu pun mempunyai hubungan mekanistik yang kukuh dalam data yang ada.
+Ramalan lain dalam kedudukan teratas (skor 0.9916–0.9973), semuanya pada tahap bukti L5 dan tanpa percubaan atau literatur, ialah: hiperfosfatemia, varises esofagus (dengan dan tanpa pendarahan), blefarospasme, miopati visceral familial, dan kardiomiopati alkohol. Tiada satu pun mempunyai hubungan mekanistik yang kukuh dalam data yang ada.
 
 ---
 

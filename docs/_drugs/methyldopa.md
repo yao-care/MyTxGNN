@@ -7,13 +7,14 @@ drugbank_id: "DB00968"
 drug_name: "Methyldopa"
 kg_predictions: 6
 dl_predictions: 7
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/methyldopa/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Methyldopa
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **6** ramalan graf pengetahuan dan **7** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **6** ramalan model TxGNN (pembelajaran mendalam) dan **7** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

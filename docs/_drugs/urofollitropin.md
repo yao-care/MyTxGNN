@@ -4,17 +4,17 @@ title: Urofollitropin
 parent: Low Evidence (L4-L5)
 nav_order: 712
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Urofollitropin: indikasi baharu diramal Migraine disorder (migrain) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar di Malaysia (secara umum ialah sediaan…"
 monitor_inn: "UROFOLLITROPIN"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "migraine with or without aura, susceptibility to", "Raynaud disease"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "Raynaud disease"]
+description: "Urofollitropin: indikasi baharu diramal Migraine disorder (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Urofollitropin
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Urofollitropin: Daripada Indikasi Asal (Tiada Data) kepada Migrain
+## Urofollitropin: Migraine disorder
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ubat ini mungkin berkesan untuk **migrain (migraine disor
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar di Malaysia (secara umum ialah sediaan FSH untuk rangsangan ovari) |
-| Indikasi Baharu yang Diramalkan | Migraine disorder (migrain) |
-| Skor Ramalan TxGNN | 99.85% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Migraine disorder |
+| Skor Ramalan TxGNN | 0.9985 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -61,15 +61,14 @@ Model TxGNN meramalkan ubat ini mungkin berkesan untuk **migrain (migraine disor
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, urofollitropin ialah sediaan FSH (gonadotropin yang berasal daripada air kencing) yang bertindak pada reseptor FSH di gonad. Tiada mekanisme yang mantap yang menghubungkannya dengan migrain.
 
-Perubahan hormon, terutamanya penurunan estrogen, dikaitkan dengan migrain haid. Namun, tiada data menunjukkan bahawa FSH atau urofollitropin mengubah suai migrain. Skor TxGNN yang tinggi (0.9985) ialah ramalan graf pengetahuan sahaja dan tidak disokong oleh sebarang percubaan atau penerbitan dalam data yang disusun.
+Perubahan hormon, terutamanya penurunan estrogen, dikaitkan dengan migrain haid. Namun, tiada data menunjukkan bahawa FSH atau urofollitropin mengubah suai migrain. Skor TxGNN yang tinggi (0.9985) ialah ramalan model TxGNN (pembelajaran mendalam) sahaja dan tidak disokong oleh sebarang percubaan atau penerbitan dalam data yang disusun.
 
-Ramalan lain dalam senarai juga tidak mempunyai asas mekanistik yang jelas. Ramalan tersebut ialah migrain dengan aura batang otak, sindrom cauda equina, takikardia berkas His, sindrom kaki gelisah, pundi kencing neurogenik (istilah usang), takikardia atrium multifokal, sindrom takikardia ortostatik postural (POTS), kerentanan genetik terhadap migrain, dan penyakit Raynaud. Kebanyakannya kemungkinan artifak kedekatan dalam graf pengetahuan. Ramalan yang melibatkan aritmia jantung juga akan menimbulkan kebimbangan keselamatan yang perlu dikaji semula.
+Ramalan lain dalam senarai juga tidak mempunyai asas mekanistik yang jelas. Ramalan tersebut ialah migrain dengan aura batang otak, sindrom cauda equina, takikardia berkas His, sindrom kaki gelisah, pundi kencing neurogenik (istilah usang), takikardia atrium multifokal, sindrom takikardia ortostatik postural (POTS), dan penyakit Raynaud. Skor ramalan ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Ramalan yang melibatkan aritmia jantung juga akan menimbulkan kebimbangan keselamatan yang perlu dikaji semula.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Urofollitropin tidak mempunyai pendaftaran yang direkodkan di Malaysia (0 lesen) dan statusnya ialah tidak dipasarkan.
 
 ---
 
@@ -86,7 +85,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan lain, termasuk amaran dan ko
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan hanya berasaskan model (tahap bukti L5) tanpa sebarang percubaan klinikal atau penerbitan, dan tiada mekanisme yang munasabah menghubungkan FSH dengan migrain. Ubat ini juga tidak dipasarkan di Malaysia.
+- Ramalan hanya berasaskan model (tahap bukti L5) tanpa sebarang percubaan klinikal atau penerbitan, dan tiada mekanisme yang munasabah menghubungkan FSH dengan migrain.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang penilaian keselamatan awal)

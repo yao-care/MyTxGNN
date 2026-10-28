@@ -4,17 +4,17 @@ title: Isotretinoin
 parent: Low Evidence (L4-L5)
 nav_order: 435
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Isotretinoin: indikasi baharu diramal Penyakit renal hipertensi malignan (tahap bukti L5). Indikasi asal: Gangguan hipertensi / hipertensi (daripada graf pengetahuan TxGNN"
 monitor_inn: "ISOTRETINOIN"
 predicted_indications: ["malignant hypertensive renal disease"]
+description: "Isotretinoin: indikasi baharu diramal Penyakit renal hipertensi malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Isotretinoin
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **2** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Isotretinoin: Daripada Gangguan Hipertensi kepada Penyakit Renal Hipertensi Malignan
+## Isotretinoin: Penyakit renal hipertensi malignan (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Isotretinoin dalam data yang dikompil untuk laporan ini dikaitkan dengan indikasi asal **gangguan hipertensi / hipertensi**, berdasarkan graf pengetahuan TxGNN (PrimeKG), dan bukan berdasarkan label produk berdaftar.
-Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit renal hipertensi malignan** (skor 99.01%).
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit renal hipertensi malignan** (skor 0.9901).
 Pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong ramalan ini, jadi ia hanyalah ramalan berasaskan model.
 
 ---
@@ -48,15 +47,15 @@ Pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyok
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Gangguan hipertensi / hipertensi (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen tersedia) |
-| Indikasi Baharu yang Diramalkan | Penyakit renal hipertensi malignan |
-| Skor Ramalan TxGNN | 99.01% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Penyakit renal hipertensi malignan (malignant hypertensive renal disease) |
+| Skor Ramalan TxGNN | 0.9901 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold |
 
-Nota: Indikasi kedua yang diramalkan, **hipertensi renovaskular malignan**, mempunyai skor yang sama (99.01%) dan juga berada pada tahap bukti L5 dengan cadangan Hold.
+Nota: Indikasi kedua yang diramalkan, **hipertensi renovaskular malignan**, mempunyai skor yang sama (0.9901) dan juga berada pada tahap bukti L5 dengan cadangan Hold.
 
 ---
 
@@ -64,9 +63,9 @@ Nota: Indikasi kedua yang diramalkan, **hipertensi renovaskular malignan**, memp
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Isotretinoin ialah retinoid, dan indikasi asal yang direkodkan dalam graf pengetahuan ialah hipertensi. Hubungan mekanistik dengan penyakit renal hipertensi malignan tidak dapat dibuktikan daripada data yang ada.
 
-Skor tinggi (99.01%) ialah keluaran pengiraan model dan bukan bukti keberkesanan. Skor yang sama bagi kedua-dua indikasi yang diramalkan menunjukkan isyarat berasaskan graf yang dikongsi, bukan bukti khusus bagi setiap penyakit. Kajian mengenai kesan retinoid terhadap biologi renal dan vaskular tidak disokong oleh data yang ada dan perlu disahkan secara bebas.
+Skor tinggi (0.9901) ialah keluaran pengiraan model dan bukan bukti keberkesanan. Kajian mengenai kesan retinoid terhadap biologi renal dan vaskular tidak disokong oleh data yang ada dan perlu disahkan secara bebas.
 
-Indikasi asal juga perlu disahkan. Isotretinoin lazimnya tidak dikenali sebagai ubat antihipertensi, dan data indikasi ini datang daripada graf pengetahuan, bukan daripada label produk.
+Indikasi asal juga perlu disahkan.
 
 ---
 
@@ -84,7 +83,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Isotretinoin pada masa ini **tidak dipasarkan** di Malaysia, dengan 0 pendaftaran dalam data yang dikompil.
 
 ---
 
@@ -110,7 +108,7 @@ Untuk amaran utama dan kontraindikasi berasaskan label, sila rujuk risalah maklu
 **Keputusan: Hold**
 
 **Rasional:**
-- Tiada bukti klinikal atau literatur menyokong ramalan ini; satu-satunya sokongan ialah skor model TxGNN (L5). Profil keselamatan (teratogenisiti, 98 interaksi ubat, banyak kontraindikasi daripada graf pengetahuan yang termasuk penyakit buah pinggang) dan status tidak dipasarkan di Malaysia menambah keperluan untuk berhati-hati.
+- Tiada bukti klinikal atau literatur menyokong ramalan ini; satu-satunya sokongan ialah skor model TxGNN (L5).
 
 **Untuk meneruskan, perlu:**
 - Mengesahkan indikasi asal (hipertensi) dengan sumber label yang sah.

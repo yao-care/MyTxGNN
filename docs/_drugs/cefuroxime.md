@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cefuroxime
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 206
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cefuroxime: indikasi baharu diramal Artritis bakteria (bacterial arthritis) (tahap bukti L3). Indikasi asal: Tiada data indikasi berlesen yang tersedia (antibiotik sefalosporin u…"
+evidence_level: L5
+indication_count: 9
 monitor_inn: "Cefuroxime"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility"]
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "urinary tract infection (disease)", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
+last_modified_at: 2026-10-23
+description: "Cefuroxime: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (tahap bukti L5). Indikasi asal: Tiada teks indikasi dalam rekod pendaftaran tempatan"
 ---
 
 # Cefuroxime
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-## Cefuroxime: Daripada Indikasi Asal kepada Artritis Bakteria
+## Cefuroxime: Daripada Antibiotik Sefalosporin kepada Sindrom Hiperkelikatan Poliklonal
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Cefuroxime ialah antibiotik sefalosporin generasi kedua yang digunakan untuk jangkitan bakteria. Data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asal yang berdaftar di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **artritis bakteria (bacterial arthritis)**. Setakat ini terdapat **0 ujian klinikal** berdaftar dan **20 penerbitan** yang menyokong arah ini, kebanyakannya kajian pemerhatian, farmakokinetik dan ulasan.
+Cefuroxime ialah antibiotik sefalosporin generasi kedua yang didaftarkan di Malaysia sebagai ubat antibakteria.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom hiperkelikatan poliklonal**, tetapi data yang dikumpulkan untuk laporan ini menunjukkan **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model.
 
 ---
 
@@ -47,99 +47,76 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **artritis bakteria (bacterial 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berlesen yang tersedia (antibiotik sefalosporin untuk jangkitan bakteria) |
-| Indikasi Baharu yang Diramalkan | Artritis bakteria (bacterial arthritis) |
-| Skor Ramalan TxGNN | 99.87% |
-| Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Berjaga-jaga) |
+| Indikasi Asal | Tiada teks indikasi dalam rekod pendaftaran tempatan; ubat ini dikelaskan sebagai antibiotik sefalosporin |
+| Indikasi Baharu yang Diramalkan | Sindrom hiperkelikatan poliklonal |
+| Skor Ramalan TxGNN | 0.9976 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 39 daripada 39) |
+| Bilangan Pendaftaran | 39 (sah: 39) |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) belum tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, cefuroxime ialah sefalosporin generasi kedua yang menghalang sintesis dinding sel bakteria melalui pengikatan kepada protein pengikat penisilin (PBP). Ia aktif terhadap patogen lazim artritis septik seperti *S. aureus* (sensitif methicillin), streptokokus dan *H. influenzae*.
+Data terperinci tentang mekanisme tindakan cefuroxime tidak tersedia buat masa ini. Secara umum, cefuroxime ialah antibiotik beta-laktam yang menghalang sintesis dinding sel bakteria, dan kegunaan antibakterianya sudah lama diketahui.
 
-Data farmakokinetik menunjukkan cefuroxime menembusi cecair sinovial (PMID 28784675), yang merupakan syarat penting untuk merawat artritis septik. Laporan klinikal lama juga menerangkan penggunaannya dalam artritis septik akut (PMID 6695158). Literatur artritis Lyme turut memberi konteks sokongan untuk *B. burgdorferi*, kerana cefuroxime aksetil disenaraikan sebagai pilihan alternatif.
-
-Walau bagaimanapun, bukti masih pada tahap pemerhatian, farmakokinetik dan ulasan. Tiada ujian klinikal berdaftar.
+Sindrom hiperkelikatan poliklonal pula berpunca daripada paras imunoglobulin serum yang tinggi, dan ia bukan jangkitan bakteria. Tiada mekanisme yang munasabah menghubungkan antibiotik beta-laktam dengan keadaan ini. Skor ramalan yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Ramalan ini tidak disokong oleh mana-mana ujian atau penerbitan.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+Buat masa ini tiada ujian klinikal berkaitan didaftarkan untuk indikasi ini.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [6695158](https://pubmed.ncbi.nlm.nih.gov/6695158/) | 1984 | Laporan klinikal/Kohort | Scand J Infect Dis | Cefuroxime digunakan pada 17 pesakit artritis septik akut berbanding 10 pesakit yang menerima cloxacillin/ampicillin |
-| [28784675](https://pubmed.ncbi.nlm.nih.gov/28784675/) | 2017 | Kajian farmakokinetik | Antimicrob Agents Chemother | Kepekatan cefuroxime dalam cecair sinovial dinilai pada 10 pesakit selepas dos 1,500 mg intravena |
-| [7130382](https://pubmed.ncbi.nlm.nih.gov/7130382/) | 1982 | Kajian klinikal | J Pediatr Orthop | Terapi sefalosporin parenteral-oral berjujukan (termasuk cefuroxime) pada 75 kanak-kanak dengan jangkitan tulang dan sendi |
-| [23599360](https://pubmed.ncbi.nlm.nih.gov/23599360/) | 2013 | Kohort retrospektif | J Antimicrob Chemother | Perbandingan penisilin, dicloxacillin dan cefuroxime dalam bakteremia *S. aureus* sensitif penisilin |
-| [34756070](https://pubmed.ncbi.nlm.nih.gov/34756070/) | 2021 | Meta-analisis rangkaian | Microbiol Spectr | Keberkesanan dan keselamatan antibiotik untuk penyakit Lyme (termasuk artritis Lyme) |
-| [29290233](https://pubmed.ncbi.nlm.nih.gov/29290233/) | 2017 | Garis panduan | Arch Pediatr | Cadangan terapi antibiotik untuk jangkitan tulang dan sendi pada kanak-kanak |
-| [17956820](https://pubmed.ncbi.nlm.nih.gov/17956820/) | 2007 | Ulasan (PK/PD) | Arch Pediatr | Parameter PK/PD antibiotik dalam jangkitan osteoartikular kanak-kanak |
-| [19367098](https://pubmed.ncbi.nlm.nih.gov/19367098/) | 2009 | Ulasan | Curr Probl Dermatol | Cefuroxime aksetil sebagai pilihan barisan kedua untuk penyakit Lyme |
-| [28482848](https://pubmed.ncbi.nlm.nih.gov/28482848/) | 2017 | Ulasan | Pediatr Rheumatol Online J | Ulasan artritis Lyme pada kanak-kanak |
-| [16859159](https://pubmed.ncbi.nlm.nih.gov/16859159/) | 2006 | Ulasan | MMW Fortschr Med | Rawatan berperingkat borreliosis Lyme; cefuroxime antara agen oral |
+Buat masa ini tiada literatur berkaitan untuk indikasi ini.
 
 ---
 
-## Cytotoxicity
+## Maklumat Pasaran Malaysia
 
-Bahagian ini tidak berkenaan kerana cefuroxime bukan ubat antineoplastik.
+Cefuroxime mempunyai 39 pendaftaran yang sah di Malaysia (suntikan, tablet, kapsul dan serbuk suspensi oral). Teks indikasi yang diluluskan dan bentuk dos tidak terdapat dalam rekod yang dikumpulkan. Senarai di bawah ialah lima pendaftaran contoh dan bukan senarai penuh.
+
+| No. Kelulusan | Nama Produk | Pengilang / Pemegang |
+|---------|------|------|
+| MAL19871017ACRZ | Zinacef Injection 750mg | Sandoz Products Malaysia Sdn. Bhd. |
+| MAL19890137ARZ | Zinnat Tablet 250mg | Sandoz Products Malaysia Sdn. Bhd. |
+| MAL22086003ARZ | Zinnat Tablets 500mg | Sandoz Products Malaysia Sdn. Bhd. |
+| MAL19921571ARZ | Zinnat Suspension 125mg/5ml | Sandoz Products Malaysia Sdn. Bhd. |
+| MAL22046025ACZ | Altacef 500mg Film Coated Tablet | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat:** Pangkalan data DDInter merekodkan 100 interaksi, dan 20 yang pertama disenaraikan semuanya bertahap **Sederhana (Moderate)**. Kumpulan utama:
-- **Perencat pam proton:** omeprazole, esomeprazole, lansoprazole, dexlansoprazole, pantoprazole, rabeprazole
-- **Antagonis reseptor H2:** famotidine, ranitidine, cimetidine, nizatidine, ranitidine (bismut sitrat)
-- **Antasid:** aluminium hidroksida, kalsium karbonat, magaldrate, magnesium karbonat, magnesium hidroksida, magnesium oksida
-- **Aminoglikosida:** kanamycin, neomycin
-- **Lain-lain:** balsalazide
+- **Interaksi Ubat**: Pangkalan data interaksi merekodkan 100 interaksi, semuanya bertahap sederhana bagi 20 entri yang disenaraikan. Kumpulan utama:
+  - Antagonis reseptor H2: famotidine, ranitidine, cimetidine, nizatidine
+  - Perencat pam proton: omeprazole, esomeprazole, lansoprazole, dexlansoprazole, pantoprazole, rabeprazole
+  - Antasid: aluminium hidroksida, kalsium karbonat, magnesium hidroksida, magnesium karbonat, magnesium oksida, magaldrate
+  - Aminoglikosida: kanamycin, neomycin
+  - Lain-lain: balsalazide
 
-Ubat yang mengurangkan keasidan gastrik berkemungkinan menjejaskan penyerapan bentuk oral (cefuroxime aksetil). Ini perlu disahkan dengan sisipan bungkusan.
-
-Untuk amaran utama dan kontraindikasi, sila rujuk sisipan bungkusan.
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Hold**
 
-**Rasional:**
-- Bukti untuk artritis bakteria berada pada tahap L3: data penembusan sinovial, laporan klinikal dan ulasan menyokong, tetapi tiada ujian klinikal berdaftar. Cefuroxime tidak berdaftar di Malaysia, jadi sebarang penggunaan memerlukan pertimbangan kawal selia.
+**Justifikasi:**
+Ramalan ini tidak mempunyai ujian klinikal atau literatur sokongan dan tiada mekanisme yang munasabah, jadi tahap buktinya ialah L5 (ramalan model sahaja). Skor TxGNN yang tinggi tidak mencukupi untuk meneruskan penilaian.
 
-**Untuk diteruskan, perlu:**
-- Memuat turun dan menghurai sisipan bungkusan NPRA untuk amaran dan kontraindikasi (jurang data berstatus penghalang)
-- Data mekanisme tindakan (MOA) daripada DrugBank
-- Mengesahkan status pendaftaran, kerana ramalan lain menyebut kemungkinan bentuk aksetil atau jurang pelabelan
-- Ujian kepekaan bakteria, kerana cefuroxime tidak berkesan terhadap MRSA
-- Data klinikal lanjut, sebaik-baiknya ujian terkawal rawak
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap
+- Teks indikasi yang diluluskan dan amaran keselamatan daripada sisipan pek yang didaftarkan di NPRA
+- Sekurang-kurangnya satu kajian yang mengkaji sindrom hiperkelikatan poliklonal secara langsung
 
----
-
-## Nota Indikasi Lain yang Diramalkan
-
-| Indikasi | Skor TxGNN | Tahap Bukti | Keputusan | Catatan |
-|------|------|------|------|------|
-| Pneumonia stafilokokal | 99.72% | L3 | Proceed with Guardrails | Data pediatrik terhad (PMID 6755404); tidak berkesan terhadap MRSA |
-| Pneumonia streptokokal | 99.71% | L3 | Proceed with Guardrails | Data pediatrik ada; kebimbangan rintangan |
-| Jangkitan *Staphylococcus aureus* | 99.68% | L3 | Proceed with Guardrails | Keberkesanan setanding dengan piperacillin-tazobactam dalam MSSA (PMID 35438533); MRSA memerlukan ujian kepekaan |
-| Otitis media berjangkit | 99.64% | L3 | Proceed with Guardrails | Terutamanya ulasan dan garis panduan; satu kajian perbandingan (PMID 12750572) |
-| Jangkitan *Peptostreptococcus* | 99.72% | L4 | Persoalan penyelidikan | Hanya kajian in vitro tidak langsung (1981) |
-| Sindrom hiperviskositi poliklonal | 99.76% | L5 | Hold | Tiada kaitan mekanistik; berkemungkinan artifak graf pengetahuan |
-| Hiperamilasemia | 99.76% | L5 | Hold | Penemuan makmal, bukan indikasi berjangkit |
-| Analbuminemia kongenital | 99.74% | L5 | Hold | Gangguan genetik tanpa sasaran antibakteria |
-| Ketidakserasian kumpulan darah | 99.65% | L5 | Hold | Tiada kaitan mekanistik; satu kertas yang diperoleh tidak relevan |
+**Nota tambahan:** Antara ramalan lain dalam senarai yang sama, jangkitan saluran kencing mempunyai bukti paling banyak (tahap L3), termasuk satu kajian bukan berfasa yang selesai tentang rawatan cefuroxime bagi pielonefritis (NCT04616352). Namun, ia hanyalah hubungan yang direkodkan dalam graf pengetahuan dan bukan indikasi yang diluluskan berdasarkan data pendaftaran yang dikumpulkan. Ia perlu dinilai dalam laporan berasingan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

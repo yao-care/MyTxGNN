@@ -6,9 +6,9 @@ nav_order: 253
 evidence_level: L1
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Dapsone: indikasi baharu diramal Pneumocystosis (tahap bukti L1). Indikasi asal: Dermatitis herpetiformis, jerawat…"
 monitor_inn: "DAPSONE"
 predicted_indications: ["pneumocystosis"]
+description: "Dapsone: indikasi baharu diramal Pneumocystosis (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Dapsone
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **1**
 
 </div>
 
-## Dapson: Daripada Kusta, Dermatitis Herpetiformis dan Jerawat kepada Pneumocystosis
+## Dapsone: Pneumocystosis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -49,12 +49,12 @@ Namun, penggunaan ini sudah mantap dalam amalan klinikal (profilaksis PCP), jadi
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Dermatitis herpetiformis, jerawat, kusta (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi diluluskan NPRA) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramal | Pneumocystosis |
-| Skor Ramalan TxGNN | 99.73% |
+| Skor Ramalan TxGNN | 0.9973 |
 | Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Perlindungan) |
 
 ---

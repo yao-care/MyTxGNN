@@ -6,9 +6,9 @@ nav_order: 707
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Turoctocog Alfa: indikasi baharu diramal Gangguan pelepasan primer platelet (tahap bukti L5). Indikasi asal: Hemofilia"
 monitor_inn: "TUROCTOCOG ALFA"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency", "thrombotic thrombocytopenic purpura", "hereditary thrombocytosis with transverse limb defect"]
+description: "Turoctocog Alfa: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of platelets) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Turoctocog Alfa
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Turoctocog Alfa: Daripada Hemofilia kepada Gangguan Pelepasan Primer Platelet
+## Turoctocog Alfa: Gangguan pelepasan primer platelet (primary release disorder of platelets)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hemofilia; bentuk bergejala hemofilia pada pembawa wanita |
-| Indikasi Baharu yang Diramalkan | Gangguan pelepasan primer platelet |
-| Skor Ramalan TxGNN | 99.99% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Gangguan pelepasan primer platelet (primary release disorder of platelets) |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | ✗ Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ---
@@ -72,15 +72,15 @@ Data yang disusun turut menyenaraikan indikasi lain yang diramalkan. Kesemuanya 
 
 | Kedudukan | Penyakit | Skor | Penilaian Ringkas |
 |------|------|------|------|
-| 2 | Penyakit von Willebrand palsu (*pseudo-von Willebrand disease*) | 99.99% | Kecacatan terletak pada reseptor GPIbα platelet; penggantian FVIII tidak membetulkannya |
-| 3 | Trombastenia Glanzmann | 99.99% | Kekurangan integrin αIIbβ3; rawatan piawai ialah transfusi platelet, rFVIIa dan antifibrinolitik |
-| 4 | Sindrom Scott | 99.95% | Kecacatan pendedahan fosfatidilserina; kaitan tidak langsung dan spekulatif |
-| 5 | Kekurangan faktor pembekuan yang diperoleh | 99.95% | Paling munasabah secara biologi (cth. hemofilia A yang diperoleh), tetapi perencat autoantibodi menjadikan rawatan utama bergantung pada ejen pintasan dan imunosupresi |
-| 6 | Diatesis pendarahan akibat kecacatan reseptor kolagen | 99.91% | Kecacatan reseptor platelet; tiada kaitan mekanistik |
-| 7 | Gangguan hemoragik akibat trombositopenia konstitusi | 99.91% | FVIII tidak kurang; tiada rasional penggantian |
-| 8 | "Flood factor deficiency" | 99.61% | Istilah tidak jelas, mungkin artifak data atau ontologi; perlu disahkan |
-| 9 | Purpura trombotik trombositopenik (TTP) | 99.54% | Pentadbiran FVIII boleh menambah beban protrombotik; ini kebimbangan keselamatan, bukan peluang repurposing |
-| 10 | Trombositosis keturunan dengan kecacatan anggota melintang | 99.52% | Sangat jarang; risiko trombotik yang berpotensi |
+| 2 | Penyakit von Willebrand palsu (*pseudo-von Willebrand disease*) | 0.9999 | Kecacatan terletak pada reseptor GPIbα platelet; penggantian FVIII tidak membetulkannya |
+| 3 | Trombastenia Glanzmann | 0.9999 | Kekurangan integrin αIIbβ3; rawatan piawai ialah transfusi platelet, rFVIIa dan antifibrinolitik |
+| 4 | Sindrom Scott | 0.9995 | Kecacatan pendedahan fosfatidilserina; kaitan tidak langsung dan spekulatif |
+| 5 | Kekurangan faktor pembekuan yang diperoleh | 0.9995 | Paling munasabah secara biologi (cth. hemofilia A yang diperoleh), tetapi perencat autoantibodi menjadikan rawatan utama bergantung pada ejen pintasan dan imunosupresi |
+| 6 | Diatesis pendarahan akibat kecacatan reseptor kolagen | 0.9991 | Kecacatan reseptor platelet; tiada kaitan mekanistik |
+| 7 | Gangguan hemoragik akibat trombositopenia konstitusi | 0.9991 | FVIII tidak kurang; tiada rasional penggantian |
+| 8 | "Flood factor deficiency" | 0.9961 | Istilah tidak jelas, mungkin artifak data atau ontologi; perlu disahkan |
+| 9 | Purpura trombotik trombositopenik (TTP) | 0.9954 | Pentadbiran FVIII boleh menambah beban protrombotik; ini kebimbangan keselamatan, bukan peluang repurposing |
+| 10 | Trombositosis keturunan dengan kecacatan anggota melintang | 0.9952 | Sangat jarang; risiko trombotik yang berpotensi |
 
 Daripada senarai ini, **kekurangan faktor pembekuan yang diperoleh** ialah calon terbaik untuk carian bukti lanjut.
 
@@ -111,7 +111,7 @@ Satu perkara perlu diberi perhatian: bagi purpura trombotik trombositopenik (TTP
 **Keputusan: Hold (Tangguh)**
 
 **Justifikasi:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur, dan kebanyakan indikasi yang diramalkan melibatkan kecacatan platelet atau reseptor yang tidak dapat dibetulkan dengan penggantian FVIII. Selain itu, produk ini tidak dipasarkan di Malaysia dan data keselamatan daripada sisipan pakej tidak tersedia.
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur, dan kebanyakan indikasi yang diramalkan melibatkan kecacatan platelet atau reseptor yang tidak dapat dibetulkan dengan penggantian FVIII.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Muat turun dan huraikan sisipan pakej daripada laman web NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat)

@@ -8,6 +8,7 @@ nav_order: 115
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Azelaic Acid
@@ -49,8 +50,8 @@ Azelaic Acid adalah asid dikarboksilik yang berlaku semula jadi yang biasa digun
 | Petunjuk Baru yang Diramal | **Tiada** — tiada ramalan TxGNN yang dijana |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | **T/A** — tiada ramalan untuk dinilai |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | **Tangguh** |
 
 ---

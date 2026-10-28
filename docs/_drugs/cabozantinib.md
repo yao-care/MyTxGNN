@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cabozantinib
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 179
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cabozantinib: indikasi baharu diramal Liposarkoma (tahap bukti L3). Indikasi asal: Tiada rekod dalam data yang dikumpulkan"
+evidence_level: L5
+indication_count: 5
 monitor_inn: "Cabozantinib"
-predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria"]
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "angiolipoma"]
+last_modified_at: 2026-10-23
+description: "Cabozantinib: indikasi baharu diramal Liposarkoma (tahap bukti L5). Indikasi asal: Tiada data (teks indikasi lesen tidak tersedia)"
 ---
 
 # Cabozantinib
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,82 +33,104 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-## Cabozantinib: Daripada Indikasi Asal (Tidak Direkodkan) kepada Liposarkoma
+## Cabozantinib: Daripada Penggunaan Asal kepada Liposarkoma
 {: .text-alpha }
-
-> **Catatan:** Laporan ini mengikut format piawai dan memaparkan ramalan teratas (kedudukan 1: liposarkoma). Data yang dikumpulkan menunjukkan bukti yang jauh lebih kukuh bagi karsinoma sel renal (RCC), yang dibincangkan dalam bahagian Kesimpulan.
 
 ## Ringkasan Satu Ayat
 
-Cabozantinib ialah perencat kinase multi-sasaran (MET, VEGFR2, AXL, RET). Data tempatan tidak merekodkan sebarang indikasi asal bagi ubat ini.
-Model TxGNN meramalkan ia mungkin berkesan untuk **liposarkoma**, dengan **1 ujian klinikal** (Fasa 2, tidak langsung) dan **1 penerbitan** (Fasa 1) yang menyokong arah ini.
+Cabozantinib ialah perencat tirosin kinase pelbagai sasaran yang telah didaftarkan di Malaysia dalam bentuk tablet bersalut filem (CABOMETYX), tetapi teks indikasi yang diluluskan tidak terdapat dalam data yang dikumpulkan untuk laporan ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **liposarkoma**,
+dengan **1 percubaan klinikal** (Fasa 2, sarkoma tisu lembut secara umum) dan **1 penerbitan** (Fasa 1, sarkoma anggota badan) yang menyokong arah ini. Bukti ini tidak mengkaji liposarkoma secara khusus.
 
-## Gambaran Keseluruhan Pantas
+---
+
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada rekod dalam data yang dikumpulkan |
+| Indikasi Asal | Tiada data (teks indikasi lesen tidak tersedia) |
 | Indikasi Baharu yang Diramalkan | Liposarkoma |
-| Skor Ramalan TxGNN | 99.83% |
-| Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9983 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
+| Bilangan Kelulusan | 3 lesen (semuanya lesen ramuan tunggal yang sah) |
 | Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Cabozantinib merencat MET, VEGFR2, AXL dan RET, yang terlibat dalam angiogenesis sarkoma dan isyarat antara tumor dengan stroma. Gabungan dengan perencat pusat semak imun (nivolumab/ipilimumab) mungkin turut mengubah suai mikropersekitaran imun tumor.
+Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, cabozantinib ialah perencat tirosin kinase pelbagai sasaran (VEGFR2, MET, AXL, RET, KIT). Isyarat angiogenesis dan MET/AXL dikaitkan dengan biologi sarkoma tisu lembut, termasuk liposarkoma.
 
-Bukti yang ada terhad kepada sarkoma tisu lembut secara umum. Data khusus untuk liposarkoma amat sedikit, dan liposarkoma hanyalah satu subjenis dalam populasi ujian yang dirujuk. Ujian Fasa 1 yang diterbitkan pada 2026 melaporkan bahawa cabozantinib menunjukkan aktiviti dalam pelbagai subjenis sarkoma tisu lembut. Kebimbangan tentang risiko fistula atau perforasi telah mengehadkan penggunaannya bersama radioterapi.
+Gabungan dengan perencatan pusat semak imun (ipilimumab/nivolumab) munasabah dari segi mekanisme, kerana perencatan VEGFR/AXL mungkin mengurangkan isyarat persekitaran tumor yang menekan imun. Skor TxGNN yang sangat tinggi selaras dengan rasional ini, tetapi ia hanyalah ramalan model.
 
-## Bukti Ujian Klinikal
+Perlu diingatkan bahawa percubaan yang ada merangkumi sarkoma tisu lembut secara umum, bukan liposarkoma secara khusus. Oleh itu, tiada kajian yang dipetik mengkaji liposarkoma itu sendiri, dan tahap bukti ditetapkan pada L5.
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+---
+
+## Bukti Percubaan Klinikal
+
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT05836571](https://clinicaltrials.gov/study/NCT05836571) | Fasa 2 | Aktif, tidak merekrut | 66 | Rawak: ipilimumab + nivolumab sahaja berbanding gabungan dengan cabozantinib dalam sarkoma tisu lembut lanjutan. Liposarkoma ialah satu subjenis, jadi buktinya tidak langsung dan keputusan belum tersedia. |
+| [NCT05836571](https://clinicaltrials.gov/study/NCT05836571) | Fasa 2 | Aktif, tidak merekrut | 66 | Percubaan rawak membandingkan ipilimumab + nivolumab sahaja dengan gabungan bersama cabozantinib dalam sarkoma tisu lembut lanjutan. Tiada keputusan dilaporkan; sumbangan cabozantinib dikelirukan oleh terapi gabungan dan keberkesanan khusus liposarkoma tidak dapat ditentukan. |
+
+---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [41770651](https://pubmed.ncbi.nlm.nih.gov/41770651/) | 2026 | Ujian Fasa 1 | American Journal of Clinical Oncology | Menilai keselamatan cabozantinib neoadjuvan serentak dengan radioterapi pada pesakit sarkoma tisu lembut ekstremiti. |
+| [41770651](https://pubmed.ncbi.nlm.nih.gov/41770651/) | 2026 | Percubaan klinikal Fasa 1 | American Journal of Clinical Oncology | Menilai keselamatan cabozantinib serentak dengan radioterapi neoadjuvan dalam sarkoma tisu lembut anggota badan; kebimbangan terdahulu ialah risiko fistula atau perforasi. |
 
-## Pertimbangan Keselamatan
+---
 
-**Interaksi Ubat** (pertanyaan selesai; 100 interaksi direkodkan, 20 yang pertama dipaparkan):
-- **Major:** asid asetilsalisilik, cisapride, clarithromycin, dolasetron, granisetron, levofloxacin
-- **Sederhana:** loperamide, aprepitant, dexamethasone, bisacodyl, minyak jarak, clotrimazole, fenfluramine, dexfenfluramine, gliserin, glycerol phenylbutyrate, laktitol, laktulosa, magnesium citrate
-- **Minor:** fidaxomicin
+## Maklumat Pasaran di Malaysia
 
-Maklumat amaran dan kontraindikasi tidak tersedia. Sila rujuk sisipan pek untuk maklumat keselamatan lanjut.
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL21046002ACZ | CABOMETYX 20mg film-coated tablets | Tiada data | Tiada data |
+| MAL21046003ACZ | CABOMETYX 40mg film-coated tablets | Tiada data | Tiada data |
+| MAL21046004ACZ | CABOMETYX 60mg film-coated tablets | Tiada data | Tiada data |
+
+Ketiga-tiga lesen dikeluarkan kepada Zuellig Pharma Sdn. Bhd. dan semuanya sah.
+
+---
 
 ## Sitotoksisiti
 
 | Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Terapi bersasar (perencat kinase tirosin multi-sasaran) |
-| Risiko Penekanan Sumsum Tulang | Sila rujuk amaran dan langkah berjaga-jaga pada sisipan pek |
-| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga pada sisipan pek |
-| Perkara Pemantauan | Sila rujuk sisipan pek; data yang dikumpulkan menyebut hipertensi, pendarahan dan hepatotoksisiti sebagai profil ketoksikan |
-| Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga pada sisipan pek |
+| Klasifikasi Sitotoksisiti | Terapi bersasar (perencat tirosin kinase pelbagai sasaran), bukan sitotoksik konvensional |
+| Risiko Penekanan Sumsum Tulang | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
+| Perkara Pemantauan | Tekanan darah, fungsi hati, tanda pendarahan dan keletihan; sila rujuk sisipan pakej untuk senarai lengkap |
+| Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
+
+---
+
+## Pertimbangan Keselamatan
+
+- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan; 20 yang pertama disenaraikan dalam data. Interaksi **Major** termasuk asid asetilsalisilik, cisapride, klaritromisin, dolasetron, granisetron dan levofloksasin. Interaksi **Sederhana** termasuk loperamid, aprepitan, deksametason, bisakodil dan laktulosa. Fidaksomisin dikelaskan sebagai **Minor**.
+- Pertimbangan tambahan: profil ketoksikan agen onkologi ini (hipertensi, risiko pendarahan, hepatotoksisiti, keletihan) memerlukan perhatian dalam populasi yang rentan.
+
+Untuk amaran dan kontraindikasi, sila rujuk sisipan pakej.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold** (bagi liposarkoma)
+**Keputusan: Hold**
 
 **Rasional:**
-- Bukti untuk liposarkoma hanya tidak langsung (satu ujian Fasa 2 sarkoma tisu lembut tanpa keputusan dan satu ujian Fasa 1 keselamatan), maka tahap bukti ialah L3 dengan status penyelidikan sahaja.
+Tiada kajian yang dipetik mengkaji liposarkoma secara langsung; percubaan Fasa 2 meliputi sarkoma tisu lembut secara umum tanpa keputusan dan dikelirukan oleh terapi gabungan, manakala kajian Fasa 1 hanya menilai keselamatan. Tahap bukti oleh itu L5 dan skor TxGNN sahaja tidak memadai untuk meneruskan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Keputusan ujian NCT05836571 dan data khusus subjenis liposarkoma
-- Semakan sisipan pek NPRA (amaran dan kontraindikasi) serta data mekanisme tindakan daripada DrugBank
-- Pengesahan status pendaftaran: data tempatan menyatakan "tidak dipasarkan" tanpa indikasi asal, yang berkemungkinan jurang data kerana cabozantinib mantap dalam RCC. Sila sahkan dengan sumber kawal selia.
-
-**Nota tambahan mengenai ramalan lain:**
-- **Karsinoma sel renal (RCC), termasuk karsinoma sel jernih dan RCC lanjutan:** tahap bukti L1 (RCT Fasa 3 seperti CheckMate 9ER, METEOR, CONTACT-03 dan COSMIC-313) dengan syor **Proceed with Guardrails**. Ini ialah arah repurposing yang paling kukuh dalam data.
-- **RCC tidak terklasifikasi:** L2, Proceed with Guardrails (data Fasa 2 dan kohort retrospektif).
-- **RCC translokasi Xp11.2/TFE3 dan karsinoma ginjal kanak-kanak:** L2, status penyelidikan (subkumpulan kecil dalam ujian yang lebih luas).
-- **Liposarkoma miksoid ovari, RCC berkaitan neuroblastoma, sklerosis lateral amiotrofik dan polimikrogiria parieto-oksipital parasagital dua hala:** L5, Hold (ramalan model sahaja tanpa ujian atau literatur).
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat)
+- Teks indikasi yang diluluskan bagi setiap lesen tempatan
+- Data mekanisme tindakan (MOA) terperinci
+- Keputusan percubaan NCT05836571 dan data khusus subjenis liposarkoma
+- Penilaian risiko keselamatan (pendarahan, hipertensi, hepatotoksisiti) bagi populasi sasaran
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

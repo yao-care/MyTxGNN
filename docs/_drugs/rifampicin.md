@@ -6,9 +6,9 @@ nav_order: 619
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Rifampicin: indikasi baharu diramal Konjunktivitis (tahap bukti L3). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "Rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
+description: "Rifampicin: indikasi baharu diramal Konjunktivitis (conjunctivitis) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Rifampicin
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-## Rifampicin: Daripada Penggunaan Asal kepada Konjunktivitis
+## Rifampicin: Konjunktivitis (conjunctivitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **konjunktivitis**, tetapi **ti
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
-| Indikasi Baharu yang Diramalkan | Konjunktivitis |
-| Skor Ramalan TxGNN | 99.95% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Konjunktivitis (conjunctivitis) |
+| Skor Ramalan TxGNN | 0.9995 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -92,7 +92,6 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk konjunktiviti
 
 ## Maklumat Pasaran Malaysia
 
-Rifampicin tidak dipasarkan di Malaysia berdasarkan data yang dikumpulkan, dan tiada lesen berdaftar dijumpai.
 
 ---
 

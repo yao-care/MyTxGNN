@@ -6,9 +6,9 @@ nav_order: 436
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Itraconazole: indikasi baharu diramal Pneumocystosis (tahap bukti L5). Indikasi asal: Jangkitan kulat (kandidiasis esofagus, kandidemia, histoplasmosis…"
 monitor_inn: "ITRACONAZOLE"
 predicted_indications: ["pneumocystosis"]
+description: "Itraconazole: indikasi baharu diramal Pneumocystosis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Itraconazole
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Itraconazole: Daripada Jangkitan Kulat kepada Pneumocystosis
+## Itraconazole: Pneumocystosis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ namun data yang dikumpulkan untuk laporan ini mencatatkan **0 percubaan klinikal
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan kulat (kandidiasis esofagus, kandidemia, histoplasmosis, aspergillosis, blastomikosis, sporotrikosis, dll.) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramal | Pneumocystosis |
-| Skor Ramalan TxGNN | 99.34% |
+| Skor Ramalan TxGNN | 0.9934 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ namun data yang dikumpulkan untuk laporan ini mencatatkan **0 percubaan klinikal
 
 Itraconazole ialah antikulat azol yang merencat enzim sitokrom P450 14-alfa-demetilase (CYP51) kulat, lalu menghalang sintesis ergosterol dalam membran sel kulat. Data terperinci tentang mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini, jadi penerangan di atas berdasarkan pengetahuan farmakologi am.
 
-Skor TxGNN yang tinggi (99.34%) berkemungkinan didorong oleh kedekatan rangkaian dengan jangkitan kulat dan jangkitan oportunistik lain (histoplasmosis, aspergillosis, kandidiasis), dan bukan oleh mekanisme yang telah disahkan. *Pneumocystis jirovecii* tidak mempunyai ergosterol dalam membran selnya dan menggunakan kolesterol, maka sasaran utama azol tidak jelas bagi organisma ini.
+Skor TxGNN yang tinggi (0.9934) berkemungkinan didorong oleh kedekatan rangkaian dengan jangkitan kulat dan jangkitan oportunistik lain (histoplasmosis, aspergillosis, kandidiasis), dan bukan oleh mekanisme yang telah disahkan. *Pneumocystis jirovecii* tidak mempunyai ergosterol dalam membran selnya dan menggunakan kolesterol, maka sasaran utama azol tidak jelas bagi organisma ini.
 
 Oleh itu, kebolehgunaan mekanistik adalah **lemah** dan perlu dilihat dengan berhati-hati. Dalam amalan, profilaksis *Pneumocystis* biasanya menggunakan ubat lain seperti trimetoprim-sulfametoksazol.
 
@@ -99,7 +99,6 @@ Senarai berikut dipilih mengikut keutamaan: RCT > ulasan > laporan kes. Kebanyak
 
 **Rasional:**
 - Tahap bukti hanya L5 (ramalan model sahaja). Tiada percubaan klinikal, tiada bukti langsung terhadap *Pneumocystis*, dan mekanisme azol tidak mempunyai sasaran yang jelas dalam organisma ini kerana ketiadaan ergosterol.
-- Itraconazole juga tidak dipasarkan di Malaysia, dan tiada pendaftaran NPRA yang ditemui.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Bukti praklinikal atau klinikal langsung tentang aktiviti itraconazole terhadap *Pneumocystis jirovecii*

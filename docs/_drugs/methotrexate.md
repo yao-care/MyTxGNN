@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Methotrexate
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 498
-evidence_level: L3
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Methotrexate: indikasi baharu diramal Neoplasma saluran aerodigestif atas (tahap bukti L3). Indikasi asal: Leukemia limfoblastik akut, artritis reumatoid, psoriasis…"
+evidence_level: L5
+indication_count: 7
+monitor_inn: "Methotrexate"
+predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+last_modified_at: 2026-10-23
+description: "Methotrexate: indikasi baharu diramal Pulmonary blastoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Methotrexate
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,106 +33,102 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-## Methotrexate: Daripada Leukemia Limfoblastik Akut kepada Neoplasma Saluran Aerodigestif Atas
+## Methotrexate: Pulmonary blastoma
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Methotrexate ialah ubat antifolat yang pada asalnya digunakan untuk leukemia limfoblastik akut, limfoma, artritis reumatoid dan psoriasis.
-Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma saluran aerodigestif atas** (terutamanya karsinoma sel skuamus kepala dan leher), tetapi skor ramalannya hanya **0.00%**.
-Sokongan bukti datang daripada **20 penerbitan**, kebanyakannya ulasan dan siri kecil lama, dan **tiada ujian klinikal didaftarkan**.
+Methotrexate ialah ubat antimetabolit (perencat folat) yang dalam graf pengetahuan direkodkan berkait dengan leukemia limfoblastik akut, artritis reumatoid, psoriasis, limfoma dan mikosis fungoides.
+Model TxGNN meramalkan ia mungkin berkesan untuk **blastoma pulmonari** (*pulmonary blastoma*) dengan skor yang sangat tinggi, **0.9945**.
+Namun, data yang dikumpulkan untuk laporan ini mendapati **0 ujian klinikal** dan **0 penerbitan** yang mengkaji penyakit ini secara langsung. Sokongan setakat ini hanyalah ramalan model.
 
 ---
 
-## Gambaran Keseluruhan
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Leukemia limfoblastik akut, artritis reumatoid, psoriasis, mikosis fungoides, limfoma bukan Hodgkin (berdasarkan graf pengetahuan TxGNN; tiada teks indikasi lesen tempatan) |
-| Indikasi Baharu Diramalkan | Neoplasma saluran aerodigestif atas |
-| Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Pulmonary blastoma |
+| Skor Ramalan TxGNN | 0.9945 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia daripada sumber ubat. Berdasarkan analisis dalam data yang dikumpulkan, methotrexate merencat enzim dihidrofolat reduktase (DHFR). Perencatan ini mengurangkan kumpulan timidilat dan purin, lalu menyekat sintesis DNA dalam sel yang membahagi dengan pantas, termasuk sel karsinoma skuamus.
+Methotrexate ialah perencat dihidrofolat reduktase (DHFR). Ia menyekat sintesis nukleotida dalam sel yang membahagi dengan pantas. Data mekanisme tindakan (MOA) terperinci tidak tersedia dalam data yang dikumpulkan, jadi penerangan ini berdasarkan pengetahuan farmakologi am.
 
-Methotrexate sudah lama digunakan sebagai ubat paliatif agen tunggal untuk karsinoma sel skuamus kepala dan leher yang berulang atau metastatik. Ia juga menjadi pembanding aktif dalam ujian Fasa 3 afatinib (LUX-Head & Neck 1). Mekanisme antiproliferatif ini serupa dengan yang menyokong penggunaannya dalam keganasan limfoid, jadi aplikasinya pada tumor skuamus yang membiak pantas boleh diterima secara mekanistik.
+Blastoma pulmonari ialah tumor toraks blastema yang agresif. Rasional sitotoksik untuknya boleh diterima secara teori, tetapi tidak lebih daripada itu.
 
-Terdapat beberapa had penting:
-- Skor TxGNN ialah 0.00%, maka model tidak memberikan sokongan ramalan.
-- Dalam data Fasa 3, methotrexate ialah lengan pembanding dan bukan lengan eksperimen.
-- Laporan lama (1977–1993) kebanyakannya siri kecil yang heterogen.
-- Tiada ujian klinikal didaftarkan, jadi bukti hanya datang daripada literatur.
+Skor TxGNN yang sangat tinggi ialah ramalan komputasi semata-mata. Tiada ujian klinikal, penerbitan atau data pra-klinikal dalam data yang dikumpulkan untuk menyokongnya. Ramalan ini perlu dianggap sebagai hipotesis, bukan bukti keberkesanan.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk indikasi ini.
+Setakat ini tiada ujian klinikal berkaitan didaftarkan untuk blastoma pulmonari.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [28961833](https://pubmed.ncbi.nlm.nih.gov/28961833/) | 2017 | RCT (analisis post hoc Fasa 3) | Ann Oncol | Dalam ujian LUX-H&N1, afatinib lini kedua memperbaiki survival bebas progresi berbanding methotrexate pada pesakit berulang/metastatik; penanda biologi dinilai terhadap hasil |
-| [29441454](https://pubmed.ncbi.nlm.nih.gov/29441454/) | 2018 | Kajian sistematik | Med Oncol | Menilai kemoterapi dan imunoterapi untuk kanser kepala dan leher berulang/metastatik |
-| [27160335](https://pubmed.ncbi.nlm.nih.gov/27160335/) | 2016 | Ulasan | Expert Opin Pharmacother | Data terkini afatinib dalam karsinoma sel skuamus kepala dan leher, dalam konteks perbandingan dengan methotrexate |
-| [31240480](https://pubmed.ncbi.nlm.nih.gov/31240480/) | 2019 | Ulasan | Curr Treat Options Oncol | Rawatan sistemik penyakit berulang/metastatik adalah paliatif; platinum + cetuximab (EXTREME) ialah pilihan bagi pesakit yang sihat |
-| [18366286](https://pubmed.ncbi.nlm.nih.gov/18366286/) | 2008 | Ulasan | Expert Rev Anticancer Ther | Kemoterapi kombinasi memberi kadar respons lebih tinggi, tetapi tiada kombinasi menunjukkan manfaat survival berbanding methotrexate, cisplatin atau 5-FU agen tunggal |
-| [91591](https://pubmed.ncbi.nlm.nih.gov/91591/) | 1978 | Ulasan | Head Neck Surg | Methotrexate (kadar respons kira-kira 50%) ialah agen tunggal terbaik untuk penyakit lanjut selepas pembedahan atau radioterapi |
-| [300460](https://pubmed.ncbi.nlm.nih.gov/300460/) | 1977 | Ulasan/pengalaman klinikal | Med J Aust | 86 pesakit dewasa menerima methotrexate dos tinggi dengan penyelamat asid folinik; ketoksikan boleh diterima, dua kematian akibat pelanggaran protokol |
-| [22252884](https://pubmed.ncbi.nlm.nih.gov/22252884/) | 2012 | Ulasan | Curr Treat Options Oncol | Pilihan rawatan kanser kepala dan leher metastatik; kelangsungan hidup median kekal kurang daripada setahun |
-| [32279645](https://pubmed.ncbi.nlm.nih.gov/32279645/) | 2021 | Laporan kes/siri kes | Acta Clin Belg | Methotrexate ialah alternatif sistemik untuk hiperplasia dan karsinoma verukus kepala dan leher, tetapi responsnya kebanyakannya tidak berpanjangan |
-| [41501979](https://pubmed.ncbi.nlm.nih.gov/41501979/) | 2026 | Kajian retrospektif | J Chin Med Assoc | Menilai regimen MEMOCLUB (termasuk methotrexate) untuk karsinoma sel skuamus kepala dan leher refraktori selepas EXTREME |
+Setakat ini tiada literatur berkaitan tersedia untuk blastoma pulmonari.
 
 ---
 
-## Kecenderungan Sitotoksisiti (Ubat Antineoplastik)
+## Maklumat Pasaran Malaysia
 
-Maklumat di bawah berdasarkan kelas ubat. Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej.
+Terdapat 6 pendaftaran produk methotrexate satu bahan yang sah di Malaysia. Lima yang utama disenaraikan di bawah. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data pendaftaran yang dikumpulkan.
+
+| Nombor Kebenaran | Nama Produk | Pengilang |
+|---------|------|------|
+| MAL20014315ARZ | Zexate Solution for Injection or Infusion 25 mg/ml | Fresenius Kabi Malaysia Sdn. Bhd. |
+| MAL22046019AZ | TREXOL - Methotrexate Solution for Injection 100 mg/ml | Unimed Sdn. Bhd. |
+| MAL22046018AZ | TREXOL - Methotrexate Solution for Injection 25 mg/ml | Unimed Sdn. Bhd. |
+| MAL24016008AZ | Trexan 2.5mg tablets | Orion Pharma (MY) Sdn. Bhd. |
+| MAL19940257ARZ | DBL Methotrexate Injection BP 1g/10ml | Pfizer (Malaysia) Sdn. Bhd. |
+
+---
+
+## Sitotoksisiti
 
 | Perkara | Kandungan |
 |------|------|
 | Klasifikasi Sitotoksisiti | Sitotoksik konvensional (antimetabolit, antagonis folat) |
-| Risiko Penyahan Sumsum Tulang | Sederhana hingga tinggi (leukopenia dan trombositopenia; bergantung pada dos) |
-| Klasifikasi Emetogenisiti | Rendah hingga sederhana (meningkat pada dos tinggi) |
-| Item Pemantauan | Hitung darah lengkap (CBC), fungsi hati dan buah pinggang, paras methotrexate serum pada terapi dos tinggi |
-| Perlindungan Pengendalian | Ikuti peraturan pengendalian ubat sitotoksik |
+| Risiko Penekanan Sumsum Tulang | Tinggi. Graf pengetahuan merekodkan leukopenia, trombositopenia dan anemia sebagai keadaan yang dikontraindikasikan |
+| Klasifikasi Emetogenisiti | Rendah hingga sederhana, bergantung pada dos (lebih tinggi pada dos tinggi) |
+| Perkara Pemantauan | Kiraan darah penuh (CBC), fungsi hati dan buah pinggang, status paru-paru dan mukosa mulut |
+| Perlindungan Pengendalian | Perlu mengikut garis panduan pengendalian ubat sitotoksik |
+
+Sila rujuk juga amaran dan langkah berjaga-jaga dalam sisipan pek untuk maklumat lengkap.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Penyakit yang dikaitkan dengan kontraindikasi (graf pengetahuan TxGNN, bukan teks label):** kegagalan hati, penyakit hati, penyakit buah pinggang, penyakit pundi hempedu, ulser gaster, penyakit ulser peptik, trombositopenia, leukopenia, anemia (termasuk anemia makrositik), penyakit paru interstisial, fibrosis paru, kolitis ulseratif, penyakit radang usus, stomatitis, penyakit sistem imun, penyalahgunaan/kebergantungan bahan, piouretra.
-- **Interaksi ubat:** 100 interaksi direkodkan. Antara yang berkeparahan **Major** ialah rabeprazole, amoxicillin dan asid asetilsalisilik. Kebanyakan selebihnya bertahap Moderate (contohnya kortikosteroid, tetrasiklin, doxycycline, amphotericin B, mesalazine, clarithromycin, bupropion) dan sebahagian kecil Minor (contohnya kalium sitrat).
+- **Keadaan yang direkodkan sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): kegagalan hati, penyakit hati, penyakit buah pinggang, penyakit pundi hempedu, ulser gastrik dan penyakit ulser peptik, trombositopenia, leukopenia, anemia (termasuk anemia makrositik), penyakit paru-paru interstisial, fibrosis pulmonari, kolitis ulseratif, penyakit radang usus, stomatitis, penyalahgunaan bahan, piouretra dan penyakit sistem imun.
+- **Interaksi ubat**: sebanyak 100 interaksi direkodkan. Antara yang dipaparkan, tahap **Major** ialah rabeprazol, amoksisilin dan asid asetilsalisilik (aspirin). Tahap sederhana termasuk doksisiklin, tetrasiklin, klaritromisin, pelbagai kortikosteroid (hidrokortison, deksametason, betametason, budesonid, triamsinolon), amfoterisin B, mesalazin, balsalazid, bupropion, pioglitazon dan akarbosa.
 
-Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi rasmi.
+Amaran utama dan kontraindikasi daripada sisipan pek tidak tersedia. Sila rujuk sisipan pek untuk maklumat keselamatan rasmi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Methotrexate ialah agen paliatif lama untuk karsinoma sel skuamus kepala dan leher berulang/metastatik, dan penyelidikan literatur menyokong kegunaan ini sebagai pilihan paliatif.
-- Bukti hanya daripada literatur (ulasan dan siri kecil lama), tiada ujian klinikal didaftarkan, skor TxGNN ialah 0.00%, dan ubat ini tidak dipasarkan di Malaysia. Penggunaan hendaklah terhad kepada pilihan paliatif dalam penyakit berulang/metastatik.
+- Ramalan untuk blastoma pulmonari bergantung sepenuhnya pada model (tahap bukti L5). Tiada ujian klinikal atau literatur yang mengkaji penyakit ini secara langsung. Profil toksisiti methotrexate yang ketara juga memerlukan justifikasi yang kukuh sebelum diteruskan.
 
-**Untuk meneruskan, perlu dilengkapkan:**
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA (kekurangan data ini menghalang saringan keselamatan peringkat seterusnya).
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
-- Status pendaftaran dan ketersediaan produk di Malaysia.
-- Pemeriksaan fungsi buah pinggang dan saringan interaksi ubat sebelum penggunaan.
-- Pelan pemantauan keselamatan, termasuk penyelamat leucovorin dan pemantauan paras ubat jika dos tinggi digunakan.
-- Bukti klinikal prospektif atau ujian berdaftar untuk menyokong indikasi ini.
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Pencarian literatur dan laporan kes khusus untuk blastoma pulmonari, serta data pra-klinikal.
+- Data MOA terperinci dan analisis kaitan mekanistik.
+- Amaran dan kontraindikasi rasmi daripada sisipan pek NPRA, yang diperlukan sebelum penilaian keselamatan.
+- Pertimbangan untuk menilai calon ramalan lain bagi methotrexate yang mempunyai bahan penyokong berkaitan lebih banyak (contohnya rabdomiosarkoma dan limfoma pulmonari primer) sebelum melabur dalam penyakit yang tiada bukti langsung ini.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

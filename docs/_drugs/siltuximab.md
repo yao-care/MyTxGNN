@@ -6,9 +6,9 @@ nav_order: 645
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Siltuximab: indikasi baharu diramal Mastositoma ekstrakutaneus (tahap bukti L5). Indikasi asal: Penyakit Castleman…"
 monitor_inn: "SILTUXIMAB"
 predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "Kaposi's sarcoma (disease)", "autosomal recessive familial Mediterranean fever", "aggressive systemic mastocytosis", "autosomal dominant familial periodic fever"]
+description: "Siltuximab: indikasi baharu diramal Mastositoma ekstrakutaneus (extracutaneous mastocytoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Siltuximab
@@ -33,12 +33,12 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-## Siltuksimab: Daripada Penyakit Castleman kepada Mastositoma Ekstrakutaneus
+## Siltuximab: Mastositoma ekstrakutaneus (extracutaneous mastocytoma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Siltuksimab ialah antibodi monoklonal kimerik anti-IL-6 yang pada asalnya digunakan untuk merawat penyakit Castleman (dan Kimura disease mengikut data graf pengetahuan).
+Siltuksimab ialah antibodi monoklonal kimerik anti-IL-6 yang pada asalnya digunakan untuk merawat penyakit Castleman.
 Model TxGNN meramalkan ia mungkin berkesan untuk **mastositoma ekstrakutaneus**,
 tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini bersandarkan skor model sahaja.
 
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit Castleman, Kimura disease (daripada graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi berlesen tersedia) |
-| Indikasi Baharu yang Diramalkan | Mastositoma ekstrakutaneus |
-| Skor Ramalan TxGNN | 99.64% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Mastositoma ekstrakutaneus (extracutaneous mastocytoma) |
+| Skor Ramalan TxGNN | 0.9964 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,19 +62,19 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 Data terperinci tentang mekanisme tindakan asal belum tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, siltuksimab ialah antibodi anti-IL-6, keberkesanannya dalam penyakit Castleman telah dibuktikan, dan secara mekanisme mungkin boleh digunakan untuk neoplasma sel mast.
 
-Hubungan dengan neoplasma sel mast hanyalah ramalan berasaskan graf TxGNN. Tiada ujian atau penerbitan yang menyokong sekatan IL-6 dalam keadaan ini. Dalam mastositosis, peningkatan IL-6 pernah dilaporkan, tetapi ini adalah kaitan penanda biologi dan bukan sasaran terapeutik yang disahkan; patologi teras didorong oleh KIT.
+Hubungan dengan neoplasma sel mast hanyalah ramalan model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Tiada ujian atau penerbitan yang menyokong sekatan IL-6 dalam keadaan ini. Dalam mastositosis, peningkatan IL-6 pernah dilaporkan, tetapi ini adalah kaitan penanda biologi dan bukan sasaran terapeutik yang disahkan; patologi teras didorong oleh KIT.
 
 ### Calon Ramalan Lain
 
 | Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Pandangan Ringkas |
 |------|------|------|------|------|
-| 2 | Infarksi hepar | 99.44% | L5 | Tiada rasional mekanisme langsung; IL-6 terlibat dalam keradangan dan regenerasi hepar, tetapi ini spekulatif |
-| 3 | Penyakit veno-oklusif hepar | 99.40% | L5 | IL-6 mungkin menyumbang kepada kecederaan endotelium sinusoid; hipotesis sahaja |
-| 4 | Peliosis hepatis | 99.29% | L5 | Hubungan konseptual tidak langsung yang lemah dengan keadaan seperti Castleman |
-| 5 | Sarkoma Kaposi | 99.28% | L4 | KSHV/HHV-8 mendorong kedua-dua sarkoma Kaposi dan Castleman multisentrik; IL-6 virus dan manusia menyumbang kepada patogenesis |
-| 6 | Demam Mediterranean familial (autosomal resesif) | 99.22% | L5 | Dorongan utama ialah pyrin/IL-1; IL-6 bersifat sekunder |
-| 7 | Mastositosis sistemik agresif | 99.16% | L5 | Peningkatan IL-6 hanya kaitan penanda biologi |
-| 8 | Demam berkala familial (autosomal dominan) | 99.05% | L5 | Sekatan IL-6 munasabah secara konsep; tocilizumab pernah digunakan dalam kes refraktori, tetapi tiada data siltuksimab |
+| 2 | Infarksi hepar | 0.9944 | L5 | Tiada rasional mekanisme langsung; IL-6 terlibat dalam keradangan dan regenerasi hepar, tetapi ini spekulatif |
+| 3 | Penyakit veno-oklusif hepar | 0.9940 | L5 | IL-6 mungkin menyumbang kepada kecederaan endotelium sinusoid; hipotesis sahaja |
+| 4 | Peliosis hepatis | 0.9929 | L5 | Hubungan konseptual tidak langsung yang lemah dengan keadaan seperti Castleman |
+| 5 | Sarkoma Kaposi | 0.9928 | L5 | KSHV/HHV-8 mendorong kedua-dua sarkoma Kaposi dan Castleman multisentrik; IL-6 virus dan manusia menyumbang kepada patogenesis |
+| 6 | Demam Mediterranean familial (autosomal resesif) | 0.9922 | L5 | Dorongan utama ialah pyrin/IL-1; IL-6 bersifat sekunder |
+| 7 | Mastositosis sistemik agresif | 0.9916 | L5 | Peningkatan IL-6 hanya kaitan penanda biologi |
+| 8 | Demam berkala familial (autosomal dominan) | 0.9905 | L5 | Sekatan IL-6 munasabah secara konsep; tocilizumab pernah digunakan dalam kes refraktori, tetapi tiada data siltuksimab |
 
 Antara semua calon, **sarkoma Kaposi** mempunyai hubungan biologi yang paling koheren dengan indikasi asal (laluan KSHV/HHV-8 dan IL-6 yang sama), walaupun masih tiada bukti langsung.
 
@@ -116,7 +116,7 @@ Amaran utama dan kontraindikasi tidak tersedia dalam data yang dikumpulkan. Sila
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan untuk mastositoma ekstrakutaneus hanya disokong oleh skor model (99.64%), tanpa ujian klinikal atau literatur, dan tahap bukti ialah L5. Produk juga tidak berdaftar di Malaysia.
+- Ramalan untuk mastositoma ekstrakutaneus hanya disokong oleh skor model (0.9964), tanpa ujian klinikal atau literatur, dan tahap bukti ialah L5. Produk juga tidak berdaftar di Malaysia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank

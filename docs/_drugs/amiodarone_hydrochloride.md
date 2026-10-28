@@ -8,6 +8,7 @@ nav_order: 59
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Amiodarone Hydrochloride
@@ -51,8 +52,8 @@ Laporan ini mendokumenkan status data semasa dan menggariskan langkah-langkah ya
 | Indikasi Baharu yang Diramalkan | Belum dijana lagi |
 | Skor Ramalan TxGNN | T/K |
 | Tahap Bukti | L5 — saluran paip ramalan belum selesai |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 7 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
 | Keputusan yang Disyorkan | **Tahan** — jurang data kritis mesti diselesaikan terlebih dahulu |
 
 ---

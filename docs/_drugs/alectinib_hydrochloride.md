@@ -8,6 +8,7 @@ nav_order: 38
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Alectinib Hydrochloride
@@ -51,8 +52,8 @@ Penilaian penyalahgunaan ubat yang menyeluruh **tidak dapat diselesaikan** sehin
 | Indikasi Baru yang Diramalkan | Tiada ramalan dijana |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---
@@ -61,7 +62,7 @@ Penilaian penyalahgunaan ubat yang menyeluruh **tidak dapat diselesaikan** sehin
 
 Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia dalam Pakej Bukti. Berdasarkan maklumat yang diketahui, alectinib adalah inhibitor kinase ALK (Anaplastic Lymphoma Kinase) dan RET yang terpilih dan diberikan secara oral. Keberkesanannya dalam NSCLC positif ALK telah ditetapkan dengan baik melalui ujian Fasa 3 utama (contohnya, ALEX, J-ALEX, ALESIA), menunjukkan kelangsungan hidup tanpa perkembangan yang lebih baik berbanding crizotinib, termasuk aktiviti terhadap metastasis sistem saraf pusat.
 
-Langkah ramalan graf pengetahuan TxGNN tidak menghasilkan sebarang calon indikasi penyalahgunaan dalam larian semasa. Ini kemungkinan besar disebabkan oleh medan `drugbank_id: null` yang belum diselesaikan — ID DrugBank diperlukan sebagai pengecam nod dalam graf pengetahuan, dan ketiadaannya menghalang TxGNN daripada mengira skor persamaan terhadap nod penyakit.
+Langkah ramalan model TxGNN (pembelajaran mendalam) TxGNN tidak menghasilkan sebarang calon indikasi penyalahgunaan dalam larian semasa. Ini kemungkinan besar disebabkan oleh medan `drugbank_id: null` yang belum diselesaikan — ID DrugBank diperlukan sebagai pengecam nod dalam graf pengetahuan, dan ketiadaannya menghalang TxGNN daripada mengira skor persamaan terhadap nod penyakit.
 
 Setelah pemetaan DrugBank dipulihkan (DB ID: DB11363 untuk alectinib) dan saluran dijalankan semula, calon penyalahgunaan yang boleh dipercayai secara biologi mungkin termasuk keganasan lain yang didorong oleh ALK seperti limfoma sel besar anaplastik (ALCL), tumor mikofibroblastik radang (IMT), dan neuroblastoma — semuanya mengekspresikan berlebihan atau mengandungi fusi ALK. Walau bagaimanapun, calon-calon ini mesti diskor secara formal oleh TxGNN sebelum penilaian dapat diteruskan.
 

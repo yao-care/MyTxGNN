@@ -8,6 +8,7 @@ nav_order: 460
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Lidocaine Hcl
@@ -51,8 +52,8 @@ dan jurang data kritikal dalam mekanisme tindakan, indikasi yang diluluskan, dan
 | Indikasi Baharu Ramalan | Tiada ramalan dijana |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 – Tiada output ramalan model |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 21 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 21 daripada 21) |
+| Bilangan Pendaftaran | 21 (sah: 21) |
 | Keputusan Disyorkan | Tahan |
 
 ---

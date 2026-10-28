@@ -6,9 +6,9 @@ nav_order: 713
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Ursodeoxycholic Acid: indikasi baharu diramal Hiperkolesterolemia familial homozigot (tahap bukti L5). Indikasi asal: Kolelitiasis, kolesistolitiasis, koledokolitiasis…"
 monitor_inn: "URSODEOXYCHOLIC ACID"
 predicted_indications: ["homozygous familial hypercholesterolemia"]
+description: "Ursodeoxycholic Acid: indikasi baharu diramal Hiperkolesterolemia familial homozigot (homozygous familial hypercholesterolemia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ursodeoxycholic Acid
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Asid Ursodeoksikolik: Daripada Penyakit Hempedu dan Kolangitis Biliari Primer kepada Hiperkolesterolemia Familial Homozigot
+## Ursodeoxycholic Acid: Hiperkolesterolemia familial homozigot (homozygous familial hypercholesterolemia)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Kolelitiasis, kolesistolitiasis, koledokolitiasis, kolangitis biliari primer, sindrom Reynolds |
-| Indikasi Baharu yang Diramalkan | Hiperkolesterolemia familial homozigot |
-| Skor Ramalan TxGNN | 99.86% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Hiperkolesterolemia familial homozigot (homozygous familial hypercholesterolemia) |
+| Skor Ramalan TxGNN | 0.9986 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -60,7 +60,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. 
 
 Namun, hubungan ini bersifat tidak langsung dan hipotetikal. Hiperkolesterolemia familial homozigot disebabkan oleh kehilangan fungsi reseptor LDL (LDLR, atau kurang lazim varian APOB, PCSK9 atau LDLRAP1). Terapi semasa (statin berintensiti tinggi, ezetimib, perencat PCSK9, lomitapid, evinakumab, aferesis LDL) menyasarkan kecacatan ini secara langsung. Kesan melalui asid hempedu tidak mungkin memberi penurunan LDL-C yang bermakna secara klinikal pada pesakit dengan aktiviti LDLR yang tiada atau minimum.
 
-Skor TxGNN yang sangat tinggi (0.9986) kemungkinan mencerminkan jiran bersama dalam graf pengetahuan, seperti metabolisme kolesterol, sintesis asid hempedu dan penyakit hepatobiliari, dan bukannya hubungan terapeutik yang telah disahkan.
+Skor TxGNN yang sangat tinggi (0.9986) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, seperti metabolisme kolesterol, sintesis asid hempedu dan penyakit hepatobiliari, dan bukannya bukti biologi.
 
 ## Bukti Percubaan Klinikal
 
@@ -86,7 +86,6 @@ Tahap keterukan bagi kebanyakan interaksi tidak dikelaskan, maka penilaian farma
 
 **Rasional:**
 - Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur sokongan, dan mekanisme yang munasabah hanya bersifat tidak langsung. Pesakit dengan fungsi LDLR yang tiada atau minimum tidak mungkin mendapat manfaat bermakna, sementara pilihan terapi sedia ada menyasarkan kecacatan asas secara langsung.
-- Produk ini juga tidak dipasarkan di Malaysia (tiada pendaftaran).
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci

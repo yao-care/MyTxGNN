@@ -6,9 +6,9 @@ nav_order: 611
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ramucirumab: indikasi baharu diramal Adenokarsinoma ligamen uterus (tahap bukti L5). Indikasi asal: Kanser paru-paru bukan sel kecil, adenokarsinoma gastrik…"
 monitor_inn: "Ramucirumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "cervical adenosquamous carcinoma, glassy cell variant", "uterine ligament endometrioid adenocarcinoma", "uterine ligament clear cell adenocarcinoma", "uterine ligament mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
+description: "Ramucirumab: indikasi baharu diramal Uterine ligament adenocarcinoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ramucirumab
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Ramucirumab: Daripada Kanser Paru-paru Bukan Sel Kecil kepada Adenokarsinoma Ligamen Uterus
+## Ramucirumab: Uterine ligament adenocarcinoma
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Ramucirumab ialah antibodi yang disasarkan pada VEGFR2, pada asalnya digunakan untuk merawat kanser paru-paru bukan sel kecil, adenokarsinoma gastrik dan karsinoma hepatoselular.
-Model TxGNN meramalkan ia mungkin berkesan untuk **adenokarsinoma ligamen uterus** (skor 99.95%), tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini setakat ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **adenokarsinoma ligamen uterus** (skor 0.9995), tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini setakat ini.
 
 ---
 
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **adenokarsinoma ligamen uterus
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Kanser paru-paru bukan sel kecil, adenokarsinoma gastrik, karsinoma hepatoselular (berdasarkan graf pengetahuan TxGNN; tiada teks indikasi berlesen tersedia di Malaysia) |
-| Indikasi Baharu yang Diramalkan | Adenokarsinoma ligamen uterus |
-| Skor Ramalan TxGNN | 99.95% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Uterine ligament adenocarcinoma |
+| Skor Ramalan TxGNN | 0.9995 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -63,13 +63,12 @@ Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang
 
 Adenokarsinoma ligamen uterus sangat jarang berlaku, dan tiada bukti sokongan dibekalkan. Skor yang tinggi mungkin sebahagiannya mencerminkan kedekatan ontologi dengan istilah adenokarsinoma lain dan bukan bukti bebas. Kesamaan dengan indikasi asal masih belum dinilai.
 
-Ramalan lain dengan skor serupa (kira-kira 99.94%–99.95%) ialah karsinoma endoserviks, karsinoma adenoid sista pada serviks uteri, adenokarsinoma serus ligamen uterus, serta beberapa varian adenokarsinoma musinus serviks dan adenokarsinoma ligamen uterus. Kesemuanya berada pada tahap bukti L5 dan tiada satu pun disokong oleh percubaan klinikal atau literatur.
+Ramalan lain dengan skor serupa (kira-kira 0.9994–0.9995) ialah karsinoma endoserviks, karsinoma adenoid sista pada serviks uteri, adenokarsinoma serus ligamen uterus, serta beberapa varian adenokarsinoma musinus serviks dan adenokarsinoma ligamen uterus. Kesemuanya berada pada tahap bukti L5 dan tiada satu pun disokong oleh percubaan klinikal atau literatur.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Ramucirumab pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar.
 
 ---
 

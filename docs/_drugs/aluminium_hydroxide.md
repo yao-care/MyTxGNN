@@ -8,6 +8,7 @@ nav_order: 49
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Aluminium Hydroxide
@@ -51,8 +52,8 @@ Model TxGNN tidak mengembalikan sebarang ramalan penggunaan kembali untuk ubat i
 | Petunjuk Baharu Diramalkan | — (Tiada ramalan TxGNN tersedia) |
 | Skor Ramalan TxGNN | — |
 | Paras Bukti | — (Tiada ramalan dikembalikan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 42 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 42 daripada 42) |
+| Bilangan Pendaftaran | 42 (sah: 42) |
 | Cadangan Keputusan | **Tahan** |
 
 ---

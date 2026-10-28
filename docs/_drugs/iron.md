@@ -4,15 +4,17 @@ title: Iron
 parent: Low Evidence (L4-L5)
 nav_order: 429
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Iron: indikasi baharu diramal Anemia mikrositik (tahap bukti L5). Indikasi asal: Anemia kekurangan asid folik, anemia pramatang…"
+indication_count: 6
+monitor_inn: "Iron"
+predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "Plummer-Vinson syndrome", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
+last_modified_at: 2026-10-28
+description: "Iron: indikasi baharu diramal Vitamin B12- and folate-independent constitutional megaloblastic anemia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Iron
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,114 +33,93 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Zat Besi: Daripada Anemia Kekurangan Zat Besi kepada Anemia Mikrositik
+## Iron: Vitamin B12- and folate-independent constitutional megaloblastic anemia
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Zat besi (Iron) ialah mineral penting yang pada asalnya digunakan untuk merawat pelbagai jenis anemia kekurangan, termasuk anemia kekurangan zat besi, anemia hipokromik dan anemia pramatang.
-Model TxGNN meramalkan ia mungkin berkesan untuk **anemia mikrositik** (skor model 0.0%), dengan **3 ujian klinikal** dan **20 penerbitan** yang berkaitan dalam data yang dikumpulkan untuk laporan ini.
-Perlu diingat bahawa kebanyakan indikasi yang diramalkan sebenarnya ialah penggunaan sedia ada (on-label), bukan pengubahan guna (repurposing) yang sebenar.
-
----
+Besi digunakan untuk merawat anemia kekurangan zat besi dan pelbagai jenis anemia kekurangan nutrien yang lain (relasi ini direkodkan dalam graf pengetahuan). Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Plummer-Vinson**, dengan **0 ujian klinikal** dan **18 penerbitan** (kebanyakannya ulasan, laporan kes dan satu siri kes tunggal-pusat) dalam data yang dikumpulkan. Tiada bukti kajian terkawal rawak. Penunjuk ini juga pada dasarnya merupakan llanjutan daripada penggunaan sedia ada untuk kekurangan zat besi, bukan pengalihan guna yang sebenar.
 
 ## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Anemia kekurangan asid folik, anemia pramatang, anemia kekurangan zat besi, anemia hipokromik, anemia kekurangan, anemia mikrositik |
-| Indikasi Baharu yang Diramalkan | Anemia mikrositik |
-| Skor Ramalan TxGNN | 0.0% |
-| Tahap Bukti | L3 (bagi anemia mikrositik) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (bagi anemia mikrositik secara umum); Proceed with Guardrails hanya untuk subset kekurangan zat besi yang disahkan |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu Diramal | Vitamin B12- and folate-independent constitutional megaloblastic anemia |
+| Skor Ramalan TxGNN | 0.9989 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 80 daripada 80) |
+| Bilangan Pendaftaran | 80 (sah: 80) |
+| Keputusan Disyorkan | Hold (soalan penyelidikan; perlu data keselamatan terlebih dahulu) |
 
----
+*Nota: Pilihan Sindrom Plummer-Vinson dibuat kerana ia mempunyai literatur yang berkait terus dengan penyakit tersebut. Enam penyakit diramal secara keseluruhan; yang lain dinyatakan di bahagian Kesimpulan.*
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, zat besi ialah substrat langsung untuk sintesis hemoglobin. Penggantian simpanan zat besi yang susut memulihkan eritropoiesis dan membetulkan anemia mikrositik hipokromik.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, besi ialah mineral penting untuk sintesis hemoglobin, dan penggantiannya merupakan rawatan asas bagi kekurangan zat besi.
 
-Anemia mikrositik ialah kategori luas, dan kekurangan zat besi ialah punca yang paling biasa. Oleh itu, zat besi berkesan apabila puncanya ialah kekurangan zat besi. Punca lain seperti talasemia, anemia penyakit kronik, anemia sideroblastik dan anemia mikrositik warisan tidak bertindak balas terhadap zat besi, malah boleh dicederakan olehnya melalui lebihan zat besi.
+Sindrom Plummer-Vinson ialah keadaan yang jarang berlaku dengan trias disfagia, anemia kekurangan zat besi dan web esofagus. Kekurangan zat besi dianggap sebagai punca atau faktor penyumbang utama, dan kajian melaporkan bahawa suplemen besi sering menghilangkan simptom disfagia, kadangkala sebelum parameter hematologi pulih sepenuhnya. Kaitan biologinya koheren.
 
-Skor TxGNN ialah 0.0 dan MOA tiada, jadi hubungan ini bergantung pada fisiologi yang mantap dan bukan pada ramalan model. Penggunaan zat besi memerlukan diagnosis pembezaan terlebih dahulu.
-
----
+Namun, perlu diketahui bahawa ini pada dasarnya ialah lanjutan daripada rawatan anemia kekurangan zat besi sedia ada, bukan mekanisme baharu. Tiada ujian klinikal didaftarkan dan tiada bukti kajian terkawal rawak dalam data yang dikumpulkan.
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT04713943](https://clinicaltrials.gov/study/NCT04713943) | NA | Selesai | 94 | Sirap zat besi pada kanak-kanak kekurangan zat besi dengan atau tanpa anemia mikrositik ringan; buta ganda, terkawal plasebo |
-| [NCT05185024](https://clinicaltrials.gov/study/NCT05185024) | NA | Selesai | 152 | Perbandingan tiga suplemen zat besi oral selama 12 minggu pada orang dewasa kekurangan zat besi |
-| [NCT03868306](https://clinicaltrials.gov/study/NCT03868306) | N/A | Tidak diketahui | 100 | Kajian diagnostik indeks RDW untuk membezakan anemia kekurangan zat besi daripada ciri talasemia beta (bukan kajian rawatan) |
-
-Tiada ujian Fasa 2/3 untuk anemia mikrositik secara langsung.
-
-### Bukti Sokongan bagi Indikasi Lain yang Diramalkan
-
-| Nombor Ujian | Indikasi | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|------|---------|
-| [NCT05225545](https://clinicaltrials.gov/study/NCT05225545) | Anemia kekurangan zat besi | Fasa 3 | Tidak diketahui | 30 | Zat besi sukrosomal berbanding ferus sulfat oral pada pesakit kolitis ulseratif |
-| [NCT05467319](https://clinicaltrials.gov/study/NCT05467319) | Anemia kekurangan | Fasa 3 | Tidak diketahui | 82 | Ferik derisomaltosa IV sebelum pembedahan onkologi ginekologi, terkawal plasebo |
-| [NCT04691843](https://clinicaltrials.gov/study/NCT04691843) | Anemia pramatang | Fasa 3 | Selesai | 51 | Suplemen zat besi pada bayi pramatang ekstrem (fokus neuroperkembangan) |
-| [NCT02743572](https://clinicaltrials.gov/study/NCT02743572) | Anemia pramatang | NA | Selesai | 129 | Nutrisi parenteral dengan zat besi sukrosa pada bayi pramatang; rawak buta ganda |
-| [NCT02060851](https://clinicaltrials.gov/study/NCT02060851) | Anemia pramatang | Fasa 4 | Selesai | 96 | Zat besi parenteral awal bersama eritropoietin pada bayi pramatang |
-| [NCT05340465](https://clinicaltrials.gov/study/NCT05340465) | Anemia pramatang | Fasa 2 | Sedang merekrut | 120 | Darbepoetin dengan zat besi IV lepas perlahan untuk mengurangkan transfusi |
-| [NCT00133744](https://clinicaltrials.gov/study/NCT00133744) | Anemia pramatang (tidak langsung) | Fasa 3 | Selesai | 18,962 | Zat besi/asid folik ibu semasa kehamilan berbanding mikronutrien pelbagai |
-
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk Sindrom Plummer-Vinson.
 
 ## Bukti Literatur
 
-Untuk anemia mikrositik, bukti terdiri daripada kajian ulasan dan garis panduan; tiada RCT disenaraikan.
+Penerbitan terpilih (utamakan kajian klinikal dan ulasan; tiada RCT ditemui):
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [39519457](https://pubmed.ncbi.nlm.nih.gov/39519457/) | 2024 | Garis panduan/Ulasan | Nutrients | Cadangan diagnosis dan rawatan kekurangan zat besi serta anemia pada kanak-kanak dan remaja |
-| [26926814](https://pubmed.ncbi.nlm.nih.gov/26926814/) | 2016 | Ulasan | American Family Physician | Anemia mikrositik akibat kekurangan zat besi ialah jenis paling biasa pada kanak-kanak |
-| [37390396](https://pubmed.ncbi.nlm.nih.gov/37390396/) | 2023 | Ulasan | FP Essentials | Punca paling biasa anemia mikrositik ialah kekurangan zat besi; boleh dirawat secara oral atau IV |
-| [1578956](https://pubmed.ncbi.nlm.nih.gov/1578956/) | 1992 | Ulasan | Medical Clinics of North America | Diagnosis pembezaan dan pengurusan anemia mikrositik |
-| [33275715](https://pubmed.ncbi.nlm.nih.gov/33275715/) | 2020 | Ulasan | Hematology ASH Education Program | Anemia mikrositik warisan: kecacatan globin, sintesis heme dan ketersediaan zat besi |
-| [9166144](https://pubmed.ncbi.nlm.nih.gov/9166144/) | 1997 | Ulasan | American Family Physician | Kekurangan zat besi, penyakit kronik dan talasemia perlu dibezakan |
-| [39985323](https://pubmed.ncbi.nlm.nih.gov/39985323/) | 2025 | Pendapat pakar | British Journal of Haematology | Panduan rawatan anemia kekurangan zat besi refraktori zat besi (IRIDA) |
-| [23729726](https://pubmed.ncbi.nlm.nih.gov/23729726/) | 2013 | Ulasan | Haematologica | IRIDA akibat mutasi TMPRSS6; tidak bertindak balas terhadap zat besi oral |
-| [25064710](https://pubmed.ncbi.nlm.nih.gov/25064710/) | 2014 | Ulasan | Hematology/Oncology Clinics of North America | Diagnosis dan pengurusan anemia kekurangan zat besi; data terhad bagi pilihan oral |
-| [32332184](https://pubmed.ncbi.nlm.nih.gov/32332184/) | 2020 | Ulasan mini | Netherlands Journal of Medicine | Kriteria diagnosis punca anemia; talasemia sebagai diagnosis pembezaan |
+| [32525241](https://pubmed.ncbi.nlm.nih.gov/32525241/) | 2021 | Siri kes retrospektif | J Gastroenterol Hepatol | Pengalaman 10 tahun, 132 kes di satu pusat; menilai ciri klinikal, hasil rawatan dan komplikasi |
+| [40802140](https://pubmed.ncbi.nlm.nih.gov/40802140/) | 2025 | Kajian retrospektif berbilang pusat | Dig Dis Sci | Menganalisis demografi, ciri klinikal dan hasil rawatan; risiko kemajuan kepada karsinoma sel skuamus esofagus |
+| [29089792](https://pubmed.ncbi.nlm.nih.gov/29089792/) | 2017 | Ulasan | J Blood Med | Trias disfagia, anemia kekurangan zat besi dan web esofagus; prevalens menurun dengan pemakanan yang lebih baik |
+| [31417270](https://pubmed.ncbi.nlm.nih.gov/31417270/) | 2019 | Ulasan | J Multidiscip Healthc | Data terhad kepada laporan kes dan kohort kecil; pemantauan jangka panjang diperlukan kerana risiko malignansi |
+| [16978405](https://pubmed.ncbi.nlm.nih.gov/16978405/) | 2006 | Ulasan | Orphanet J Rare Dis | Gambaran klinikal sindrom yang sangat jarang, terutamanya wanita berumur pertengahan |
+| [39760192](https://pubmed.ncbi.nlm.nih.gov/39760192/) | 2025 | Ulasan sistematik | Oral Dis | Manifestasi kanser kepala dan leher pada pesakit sindrom ini |
+| [12823219](https://pubmed.ncbi.nlm.nih.gov/12823219/) | 2003 | Laporan kes | Dis Esophagus | Dua pesakit dirawat dengan suplemen besi; simptom hilang |
+| [26502163](https://pubmed.ncbi.nlm.nih.gov/26502163/) | 2015 | Ulasan | J Pediatr Gastroenterol Nutr | Sindrom ini sebagai punca jarang disfagia pada kanak-kanak |
+| [34616256](https://pubmed.ncbi.nlm.nih.gov/34616256/) | 2021 | Laporan kes | Case Rep Gastroenterol | Rawatan utama ialah suplemen besi; disfagia sering bertindak balas lebih awal daripada anemia |
+| [23120360](https://pubmed.ncbi.nlm.nih.gov/23120360/) | 2006 | Siri kes | Indian J Otolaryngol Head Neck Surg | Corak komorbiditi; kesan suplemen besi dan vitamin B-kompleks dinilai |
 
----
+## Maklumat Pasaran di Malaysia
 
-## Cytotoksisiti
+Data yang dikumpulkan menunjukkan 80 pendaftaran (30 bahan tunggal, 50 kombinasi), semuanya sah. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data. Berikut ialah produk bahan tunggal terpilih (produk kombinasi tidak digunakan untuk menggambarkan status kelulusan besi sebagai bahan tunggal):
 
-Bahagian ini tidak berkenaan kerana zat besi bukan ubat antineoplastik.
-
----
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL21036012XC | HAEMO XL SYRUP (Iron (III) Hydroxide Polymaltose Complex) | Tiada data | Tiada data |
+| MAL10100040XC | EUROFER-iron syrup | Tiada data | Tiada data |
+| MAL17085002AZ | REFERIS Iron Sucrose Injection USP 100mg/5ml | Tiada data | Tiada data |
+| MAL19911912XZ | MALTOFER Chewable Tablet | Tiada data | Tiada data |
+| MAL21056003ACZ | Ferinject 50 mg iron/mL | Tiada data | Tiada data |
 
 ## Pertimbangan Keselamatan
 
-- **Penyakit/keadaan yang dikaitkan dengan kontraindikasi** (berdasarkan graf pengetahuan TxGNN, bukan teks label): penyakit ulser peptik, hemokromatosis keturunan, hemosiderosis, penyakit metabolisme zat besi, penyakit Wilson, kolitis ulseratif, penyakit radang usus, anemia hemolitik dan gastroenteritis.
-- **Interaksi ubat**: sebanyak 79 interaksi direkodkan. Interaksi **Major**: dolutegravir dan bictegravir. Interaksi **Moderate** yang utama: perencat pam proton (omeprazol, rabeprazol), tetrasiklin, doksisiklin, siprofloksasin, bisfosfonat (alendronat, risedronat, ibandronat), levodopa, kloramfenikol, sefdinir, deferipron, magnesium oksida, natrium sitrat dan pankrelipase. Banyak interaksi ini berlaku melalui pengkelatan atau penurunan penyerapan, jadi jarak masa pengambilan perlu diatur.
-- **Pemantauan**: intoleransi gastrousus, serta lebihan zat besi dengan penggunaan berpanjangan.
-
-Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
-
----
+- **Kontraindikasi (relasi dalam graf pengetahuan, bukan teks label):** ulser peptik, hemokromatosis keturunan, hemosiderosis, penyakit metabolisme besi, penyakit Wilson, kolitis ulseratif, penyakit radang usus, anemia hemolitik, gastroenteritis.
+- **Interaksi Ubat:** 79 interaksi direkodkan. Interaksi **Major**: dolutegravir, bictegravir. Interaksi **Sederhana** yang ketara: doksisiklin, tetrasiklin, siprofloksasin, delafloksasin, kloramfenikol, bifosfonat (alendronat, risedronat, ibandronat), perencat pam proton (omeprazol, rabeprazol), levodopa, deferipron, magnesium oksida, natrium sitrat, pankrelipase, sefdinir, baloksavir marboksil. Interaksi **Minor**: simetidin.
+- Amaran utama dan kontraindikasi daripada sisipan pakej NPRA belum diperoleh. Sila rujuk sisipan pakej untuk maklumat keselamatan terperinci.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold** (bagi anemia mikrositik secara umum); **Proceed with Guardrails** hanya untuk subset kekurangan zat besi yang disahkan.
+**Keputusan: Hold**
 
 **Rasional:**
-- Bukti untuk anemia mikrositik berada pada tahap L3 (ulasan dan ujian kecil tanpa Fasa 2/3), dengan skor TxGNN 0.0 dan MOA tidak tersedia. Zat besi hanya wajar apabila kekurangan zat besi disahkan; ia tidak sesuai untuk talasemia atau anemia penyakit kronik.
-- Indikasi anemia kekurangan zat besi dan anemia kekurangan (L1) ialah penggunaan sedia ada, bukan pengubahan guna. Anemia pramatang (L1, S2) disokong tetapi ujian langsung pada bayi masih kecil. Anemia kekurangan asid folik (L4) ditahan kerana asid folik ialah terapi utama dan tiada bukti langsung untuk zat besi sahaja.
+- Sindrom Plummer-Vinson mempunyai kaitan biologi yang koheren dengan kekurangan zat besi, tetapi bukti hanya terdiri daripada ulasan, laporan kes dan siri kes retrospektif tanpa ujian klinikal atau RCT, dan ia sebahagian besarnya lanjutan indikasi sedia ada. Data keselamatan sisipan pakej juga belum lengkap (jurang data yang menghalang).
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA (amaran dan kontraindikasi); produk ini tidak berdaftar di Malaysia, jadi laluan pendaftaran atau sumber produk perlu dikenal pasti.
-- Data mekanisme tindakan (MOA) daripada DrugBank.
-- Pengesahan kekurangan zat besi sebelum rawatan (feritin dan ketepuan transferin) bagi membezakannya daripada talasemia dan anemia keradangan.
-- Ujian terkawal yang lebih besar dan langsung pada bayi pramatang, termasuk dos, laluan pemberian dan pemantauan.
-- Pelan pemantauan interaksi ubat dan keselamatan untuk populasi khas (penyakit radang usus, hemokromatosis, bayi pramatang).
+*Tahap bukti L4 diberikan kerana literatur menyelidik penyakit ini secara langsung; tiada Fasa 3 RCT.*
+
+**Perkara yang diperlukan untuk meneruskan:**
+- Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Data hasil rawatan yang lebih kukuh (cth. kajian prospektif) serta pelan pemantauan jangka panjang kerana risiko malignansi
+
+**Ringkasan ramalan lain (untuk rujukan):**
+- *Malformasi esofagus bukan sindromik* (0.9986, L5, Hold): tiada bukti; malformasi struktur tidak dijangka bertindak balas kepada besi.
+- *Penyakit metabolik biotin* (0.9974, L5, Hold): literatur tidak berkaitan secara langsung; tiada bukti besi merawatnya.
+- *Gangguan kekurangan vitamin* (0.9968, L5, Hold): 10 ujian tetapi tiada yang mengkaji penyakit ini secara langsung; besi hanya komponen bersama dalam suplemen. Tahap bukti dilaraskan kepada L5.
+- *Penyakit esofagus* (0.9942, L5, Hold): satu ujian Fasa 4 kecil (n=40) dengan status tidak diketahui dan sasaran penyakit tidak dapat disahkan; literatur lain berkaitan biologi kanser, bukan rawatan besi. Tahap bukti dilaraskan kepada L5.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

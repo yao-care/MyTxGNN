@@ -6,9 +6,9 @@ nav_order: 440
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Lacosamide: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tiada data indikasi asal daripada pendaftaran tempatan (secara umum d…"
 monitor_inn: "Lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
+description: "Lacosamide: indikasi baharu diramal Manic bipolar affective disorder (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Lacosamide
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Lacosamide: Daripada Epilepsi kepada Migrain
+## Lacosamide: Manic bipolar affective disorder
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Lacosamide ialah ubat antiepilepsi (antikonvulsan) yang menyekat saluran natrium
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi asal daripada pendaftaran tempatan (secara umum diketahui sebagai ubat tambahan untuk sawan fokal) |
-| Indikasi Baharu yang Diramalkan | Gangguan migrain (*migraine disorder*) |
-| Skor Ramalan TxGNN | 99.87% |
-| Tahap Bukti | L1 (mengikut penilaian data yang dikumpulkan) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Manic bipolar affective disorder |
+| Skor Ramalan TxGNN | 0.9996 |
+| Tahap Bukti | L5 (mengikut penilaian data yang dikumpulkan) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
@@ -134,15 +134,15 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 
 | Kedudukan | Penyakit Diramalkan | Skor TxGNN | Tahap Bukti | Cadangan |
 |------|------|------|------|------|
-| 1 | Gangguan afektif bipolar manik | 99.96% | L3 | Research Question (kajian retrospektif kecil 30 hari dan satu laporan keselamatan neutropenia) |
-| 2 | Sindrom Tourette | 99.95% | L5 | Hold (literatur menunjukkan tik yang dicetuskan oleh antiepilepsi, isu keselamatan yang mungkin) |
-| 3 | Trikotilomania | 99.92% | L5 | Hold (tiada bukti) |
-| 4 | Sindrom antidiuresis tidak sesuai nefrogenik | 99.91% | L5 | Hold (kemungkinan artifak rangkaian) |
-| 6 | Insomnia | 99.83% | L5 | Hold |
-| 7 | Migrain dengan aura batang otak | 99.82% | L4 | Research Question (rasional tidak langsung sahaja) |
-| 8 | Sindrom sakit miofasial | 99.81% | L2 | Research Question (satu ujian Fasa 2 tanpa keputusan tersedia) |
-| 9 | Gangguan obsesif-kompulsif | 99.78% | L5 | Hold (ujian berkaitan mengkaji penggunaan alkohol, bukan OCD) |
-| 10 | Konjunktivitis papilari | 99.72% | L5 | Hold (tiada bukti) |
+| 1 | Gangguan afektif bipolar manik | 0.9996 | L5 | Research Question (kajian retrospektif kecil 30 hari dan satu laporan keselamatan neutropenia) |
+| 2 | Sindrom Tourette | 0.9995 | L5 | Hold (literatur menunjukkan tik yang dicetuskan oleh antiepilepsi, isu keselamatan yang mungkin) |
+| 3 | Trikotilomania | 0.9992 | L5 | Hold (tiada bukti) |
+| 4 | Sindrom antidiuresis tidak sesuai nefrogenik | 0.9991 | L5 | Hold (kemungkinan artifak rangkaian) |
+| 6 | Insomnia | 0.9983 | L5 | Hold |
+| 7 | Migrain dengan aura batang otak | 0.9982 | L5 | Research Question (rasional tidak langsung sahaja) |
+| 8 | Sindrom sakit miofasial | 0.9981 | L5 | Research Question (satu ujian Fasa 2 tanpa keputusan tersedia) |
+| 9 | Gangguan obsesif-kompulsif | 0.9978 | L5 | Hold (ujian berkaitan mengkaji penggunaan alkohol, bukan OCD) |
+| 10 | Konjunktivitis papilari | 0.9972 | L5 | Hold (tiada bukti) |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

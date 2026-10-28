@@ -50,10 +50,10 @@ Sokongan buat masa ini terdiri daripada **0 ujian klinikal berdaftar** dan **8 p
 |------|------|
 | Indikasi Asal | Tiada data (tiada lesen NPRA direkodkan) |
 | Indikasi Baharu yang Diramalkan | Gangguan kurang daya tumpuan-hiperaktiviti (ADHD) |
-| Skor Ramalan TxGNN | 99.99% |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (tiada pendaftaran dalam data yang dikumpulkan) |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Hold (Soalan Penyelidikan) |
 
 ---
@@ -118,7 +118,7 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 ### Lampiran: Ramalan Lain (Ringkas)
 
-- **Skizofrenia** (skor 99.90%, L4, Soalan Penyelidikan): Agonisme D2/D3 bertentangan dengan antagonisme antipsikotik standard dan boleh memburukkan gejala positif. Bukti terdiri daripada kajian praklinikal, satu laporan kes dan tinjauan sistematik kelas prodopaminergik (bukan khusus ropinirole). Terdapat juga kebimbangan keselamatan gangguan perjudian.
+- **Skizofrenia** (skor 0.9990, L4, Soalan Penyelidikan): Agonisme D2/D3 bertentangan dengan antagonisme antipsikotik standard dan boleh memburukkan gejala positif. Bukti terdiri daripada kajian praklinikal, satu laporan kes dan tinjauan sistematik kelas prodopaminergik (bukan khusus ropinirole). Terdapat juga kebimbangan keselamatan gangguan perjudian.
 - **Lapan ramalan lain** (sindrom faciodigitogenital, polimikrogiria, distrofi retina, miopia X-linked, miopia 26, gangguan glikosilasi, ensefalopati glisin atipikal, penyakit Charcot-Marie-Tooth 1G): Hanya ramalan model (L5), tiada literatur atau ujian, dan tiada kaitan mekanistik yang jelas. Keputusan: Hold.
 ## Penafian
 

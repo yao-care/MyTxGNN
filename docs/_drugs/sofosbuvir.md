@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sofosbuvir
-parent: Low Evidence (L4-L5)
+parent: High Evidence (L1-L2)
 nav_order: 653
-evidence_level: L5
+evidence_level: L2
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Sofosbuvir: indikasi baharu diramal Jangkitan virus hepatitis B (tahap bukti L5). Indikasi asal: Jangkitan virus hepatitis C kronik"
 monitor_inn: "SOFOSBUVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
+description: "Sofosbuvir: indikasi baharu diramal Jangkitan virus hepatitis B (hepatitis B virus infection) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Sofosbuvir
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **8** 
+Tahap bukti: **L2** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-## Sofosbuvir: Daripada Jangkitan Hepatitis C Kronik kepada Jangkitan Virus Hepatitis B
+## Sofosbuvir: Jangkitan virus hepatitis B (hepatitis B virus infection)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan virus hepatitis B**
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan virus hepatitis C kronik |
-| Indikasi Baharu yang Diramalkan | Jangkitan virus hepatitis B |
-| Skor Ramalan TxGNN | 99.77% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Jangkitan virus hepatitis B (hepatitis B virus infection) |
+| Skor Ramalan TxGNN | 0.9977 |
 | Tahap Bukti | L2 (mengikut data yang dikumpulkan; dalam praktik, relevannya terhadap HBV hanya tidak langsung) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -118,7 +118,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 **Keputusan: Hold**
 
 **Rasional:**
-- Tiada asas mekanistik langsung untuk aktiviti sofosbuvir terhadap HBV (virus DNA dengan langkah transkriptase balik). Bukti yang ada kebanyakannya berkaitan jangkitan bersama HCV/HBV dan menunjukkan isu keselamatan (pengaktifan semula HBV), bukan faedah anti-HBV. Skor TxGNN yang tinggi tidak disokong oleh data klinikal yang kukuh. Selain itu, sofosbuvir tidak dipasarkan di Malaysia.
+- Tiada asas mekanistik langsung untuk aktiviti sofosbuvir terhadap HBV (virus DNA dengan langkah transkriptase balik). Bukti yang ada kebanyakannya berkaitan jangkitan bersama HCV/HBV dan menunjukkan isu keselamatan (pengaktifan semula HBV), bukan faedah anti-HBV. Skor TxGNN yang tinggi tidak disokong oleh data klinikal yang kukuh.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan terperinci (MOA) dan sisipan pakej NPRA (amaran dan kontraindikasi)

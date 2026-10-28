@@ -6,9 +6,9 @@ nav_order: 532
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Norelgestromin: indikasi baharu diramal Amenorea (tahap bukti L5). Indikasi asal: Tiada data indikasi yang diluluskan dalam data yang dikumpulkan (tiad…"
 monitor_inn: "NORELGESTROMIN"
 predicted_indications: ["amenorrhea (disease)"]
+description: "Norelgestromin: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Norelgestromin
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Norelgestromin: Daripada Penggunaan Asal kepada Amenorea
+## Norelgestromin: Amenorea (amenorrhea (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -44,21 +44,21 @@ Norelgestromin ialah progestin (metabolit aktif norgestimat) yang biasanya digun
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi yang diluluskan dalam data yang dikumpulkan (tiada pendaftaran di Malaysia) |
-| Indikasi Baharu yang Diramalkan | Amenorea |
-| Skor Ramalan TxGNN | 99.51% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Amenorea (amenorrhea (disease)) |
+| Skor Ramalan TxGNN | 0.9951 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
 Data terperinci mengenai mekanisme tindakan asal tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, norelgestromin ialah progestin yang bertindak sebagai agonis reseptor progesteron. Ia merupakan metabolit aktif norgestimat dan lazimnya diberikan dalam tampalan kontraseptif gabungan bersama etinilestradiol.
 
-Progestin digunakan secara klinikal untuk mencetuskan pendarahan putus (withdrawal bleeding) dalam amenorea sekunder serta mengurus gangguan haid berkaitan hormon. Oleh itu, ramalan TxGNN (skor 0.995) munasabah dari segi biologi.
+Progestin digunakan secara klinikal untuk mencetuskan pendarahan putus (withdrawal bleeding) dalam amenorea sekunder serta mengurus gangguan haid berkaitan hormon. Oleh itu, ramalan TxGNN (skor 0.9951) munasabah dari segi biologi.
 
-Namun, terdapat beberapa perkara yang perlu diberi perhatian. Kontraseptif hormon juga boleh menyebabkan amenorea sebagai kesan sampingan, jadi arah kesannya (rawatan berbanding penyebab) perlu dijelaskan. Selain itu, ubat ini tidak dipasarkan sebagai agen tunggal di Malaysia dan tiada bukti klinikal yang disediakan untuk menyokong kaitan ini.
+Namun, terdapat beberapa perkara yang perlu diberi perhatian. Kontraseptif hormon juga boleh menyebabkan amenorea sebagai kesan sampingan, jadi arah kesannya (rawatan berbanding penyebab) perlu dijelaskan.
 
 ## Bukti Ujian Klinikal
 

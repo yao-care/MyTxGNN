@@ -8,6 +8,7 @@ nav_order: 143
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Betamethasone Valerate
@@ -49,8 +50,8 @@ Betamethasone valerate ialah kortikosteroid topikal yang digunakan secara meluas
 | Petunjuk Baru Yang Diramal | **Tiada** — tiada ramalan TxGNN yang dijana |
 | Skor Ramalan TxGNN | T/A |
 | Aras Bukti | L5 (tiada ramalan atau kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 23 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 23 daripada 23) |
+| Bilangan Pendaftaran | 23 (sah: 23) |
 | Keputusan yang Disyorkan | **Tunggu** |
 
 ---

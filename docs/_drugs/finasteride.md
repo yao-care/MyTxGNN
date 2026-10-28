@@ -3,18 +3,18 @@ layout: default
 title: Finasteride
 parent: Low Evidence (L4-L5)
 nav_order: 359
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
-description: "Finasteride: indikasi baharu diramal Hipertrikosis (penyakit) (tahap bukti L4). Indikasi asal: Hiperplasia prostat benigna (BPH)"
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
+description: "Finasteride: indikasi baharu diramal Ambras type hypertrichosis universalis congenita (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Finasteride
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **6** 
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **6**
 
 </div>
 
-## Finasteride: Daripada Hiperplasia Prostat Benigna kepada Hipertrikosis
+## Finasteride: Ambras type hypertrichosis universalis congenita
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,15 +47,15 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **hipertrikosis**, tetapi setak
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hiperplasia prostat benigna (BPH) |
-| Indikasi Baharu yang Diramalkan | Hipertrikosis (penyakit) |
-| Skor Ramalan TxGNN | 99.99% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Ambras type hypertrichosis universalis congenita |
+| Skor Ramalan TxGNN | 0.9999 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold |
 
-Nota: Indikasi baharu yang disenaraikan di atas ialah pilihan kedua dalam senarai ramalan. Pilihan pertama (sindrom Ambras, skor 99.99%) hanya mempunyai bukti tahap L5 tanpa sebarang ujian atau penerbitan, manakala hipertrikosis mempunyai sedikit literatur sokongan tidak langsung. Hipertrikosis dipilih sebagai fokus laporan kerana ia satu-satunya ramalan yang mempunyai sebarang bukti literatur.
+Nota: Indikasi baharu yang disenaraikan di atas ialah pilihan kedua dalam senarai ramalan. Pilihan pertama (sindrom Ambras, skor 0.9999) hanya mempunyai bukti tahap L5 tanpa sebarang ujian atau penerbitan, manakala hipertrikosis mempunyai sedikit literatur sokongan tidak langsung. Hipertrikosis dipilih sebagai fokus laporan kerana ia satu-satunya ramalan yang mempunyai sebarang bukti literatur.
 
 ---
 
@@ -90,11 +90,11 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 | Penyakit | Skor TxGNN | Tahap Bukti | Ulasan Ringkas |
 |------|------|------|------|
-| Hipertrikosis universalis kongenital jenis Ambras | 99.99% | L5 | Disebabkan penyusunan semula genomik yang menjejaskan TRPS1, bukan terutamanya didorong androgen; hubungan bersifat spekulatif |
-| Sindrom malformasi dengan komponen odontal/periodontal | 99.99% | L5 | Tiada hubungan mekanistik yang munasabah dikenal pasti |
-| Sindrom dengan malformasi Dandy-Walker sebagai ciri utama | 99.99% | L5 | Kecacatan struktur perkembangan; pendedahan finasteride semasa kehamilan sendiri merupakan kebimbangan perkembangan |
-| Kelainan batang rambut genetik terpencil | 99.99% | L5 | Berpunca daripada kecacatan keratin/folikel, bukan lebihan androgen |
-| Trikomegali terpencil familial | 99.15% | L5 | Tiada tindakan finasteride yang diketahui pada laluan pertumbuhan bulu mata; skor terendah dalam set |
+| Hipertrikosis universalis kongenital jenis Ambras | 0.9999 | L5 | Disebabkan penyusunan semula genomik yang menjejaskan TRPS1, bukan terutamanya didorong androgen; hubungan bersifat spekulatif |
+| Sindrom malformasi dengan komponen odontal/periodontal | 0.9999 | L5 | Tiada hubungan mekanistik yang munasabah dikenal pasti |
+| Sindrom dengan malformasi Dandy-Walker sebagai ciri utama | 0.9999 | L5 | Kecacatan struktur perkembangan; pendedahan finasteride semasa kehamilan sendiri merupakan kebimbangan perkembangan |
+| Kelainan batang rambut genetik terpencil | 0.9999 | L5 | Berpunca daripada kecacatan keratin/folikel, bukan lebihan androgen |
+| Trikomegali terpencil familial | 0.9915 | L5 | Tiada tindakan finasteride yang diketahui pada laluan pertumbuhan bulu mata; skor terendah dalam set |
 
 Semua ramalan ini tidak mempunyai ujian klinikal atau literatur sokongan.
 

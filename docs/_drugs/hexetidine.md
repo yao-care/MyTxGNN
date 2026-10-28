@@ -6,9 +6,9 @@ nav_order: 400
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Hexetidine: indikasi baharu diramal Aneurisma septum interventrikular (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan (tiada lesen berdaftar di Malaysia)"
 monitor_inn: "HEXETIDINE"
 predicted_indications: ["interventricular septum aneurysm", "pulmonary valve disease", "orofacial clefting syndrome", "Laubry-Pezzi syndrome", "genetic syndromic Pierre Robin syndrome", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 22", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus"]
+description: "Hexetidine: indikasi baharu diramal Aneurisma septum interventrikular (interventricular septum aneurysm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Hexetidine
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Hexetidine: Daripada Penggunaan Antiseptik Topikal kepada Aneurisma Septum Interventrikular
+## Hexetidine: Aneurisma septum interventrikular (interventricular septum aneurysm)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ Hexetidine ialah antiseptik topikal yang biasa digunakan untuk penjagaan mulut d
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi diluluskan (tiada lesen berdaftar di Malaysia); secara umum digunakan sebagai antiseptik mulut/mukosa topikal |
-| Indikasi Baharu yang Diramalkan | Aneurisma septum interventrikular |
-| Skor Ramalan TxGNN | 99.16% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Aneurisma septum interventrikular (interventricular septum aneurysm) |
+| Skor Ramalan TxGNN | 0.9916 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -60,7 +60,7 @@ Hexetidine ialah antiseptik topikal yang biasa digunakan untuk penjagaan mulut d
 
 Data terperinci mengenai mekanisme tindakan hexetidine tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, hexetidine ialah antiseptik topikal yang digunakan dalam penjagaan mulut dan mukosa.
 
-Hasil analisis menunjukkan **tiada hubungan mekanistik yang dikenal pasti**. Aneurisma septum interventrikular ialah kecacatan struktur jantung, dan antiseptik topikal tidak mempunyai laluan farmakologi yang munasabah untuk menanganinya. Skor TxGNN yang tinggi merupakan ramalan pengiraan sahaja, dan kemungkinan besar disebabkan oleh artifak topologi graf pengetahuan, bukan asas biologi.
+Hasil analisis menunjukkan **tiada hubungan mekanistik yang dikenal pasti**. Aneurisma septum interventrikular ialah kecacatan struktur jantung, dan antiseptik topikal tidak mempunyai laluan farmakologi yang munasabah untuk menanganinya. Skor tinggi daripada model TxGNN (deep learning) merupakan ramalan pengiraan sahaja, dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
 ### Ramalan Lain (Kedudukan 2–10)
 
@@ -68,15 +68,15 @@ Sepuluh ramalan teratas semuanya berada pada Tahap Bukti L5 dengan keputusan Hol
 
 | Kedudukan | Penyakit | Skor TxGNN | Penilaian |
 |------|------|------|------|
-| 2 | Penyakit injap pulmonari | 99.09% | Tiada laluan farmakologi untuk patologi injap struktur |
-| 3 | Sindrom belahan orofasial | 99.08% | Kecacatan perkembangan; antiseptik tidak dapat membetulkannya |
-| 4 | Sindrom Laubry-Pezzi | 99.06% | Keadaan jantung kongenital; tiada sokongan biologi |
-| 5 | Sindrom Pierre Robin genetik | 99.05% | Anomali kraniofasial berasas genetik |
-| 6 | Gangguan sintesis fukoglikosan | 99.04% | Satu ulasan umum sahaja; tidak menyokong indikasi ini |
-| 7 | Delesi separa lengan panjang kromosom 22 | 99.03% | Gangguan delesi kromosom |
-| 8 | Sindrom Pierre Robin berkaitan anomali kromosom | 99.03% | Tiada rasional farmakologi |
-| 9 | Delesi separa lengan panjang kromosom 7 | 99.03% | Tiada sasaran yang munasabah |
-| 10 | Sindrom Jeune dengan situs inversus | 99.02% | Ciliopati; tiada mekanisme berkaitan |
+| 2 | Penyakit injap pulmonari | 0.9909 | Tiada laluan farmakologi untuk patologi injap struktur |
+| 3 | Sindrom belahan orofasial | 0.9908 | Kecacatan perkembangan; antiseptik tidak dapat membetulkannya |
+| 4 | Sindrom Laubry-Pezzi | 0.9906 | Keadaan jantung kongenital; tiada sokongan biologi |
+| 5 | Sindrom Pierre Robin genetik | 0.9905 | Anomali kraniofasial berasas genetik |
+| 6 | Gangguan sintesis fukoglikosan | 0.9904 | Satu ulasan umum sahaja; tidak menyokong indikasi ini |
+| 7 | Delesi separa lengan panjang kromosom 22 | 0.9903 | Gangguan delesi kromosom |
+| 8 | Sindrom Pierre Robin berkaitan anomali kromosom | 0.9903 | Tiada rasional farmakologi |
+| 9 | Delesi separa lengan panjang kromosom 7 | 0.9903 | Tiada sasaran yang munasabah |
+| 10 | Sindrom Jeune dengan situs inversus | 0.9902 | Ciliopati; tiada mekanisme berkaitan |
 
 ---
 
@@ -103,7 +103,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada interaksi ubat direko
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan ini berada pada Tahap Bukti L5 (ramalan model sahaja) tanpa sebarang percubaan klinikal atau literatur yang menyokong. Tiada hubungan mekanistik yang munasabah antara antiseptik topikal dan kecacatan struktur jantung, dan ubat ini tidak dipasarkan di Malaysia.
+- Ramalan ini berada pada Tahap Bukti L5 (ramalan model sahaja) tanpa sebarang percubaan klinikal atau literatur yang menyokong.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank

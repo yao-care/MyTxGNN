@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Progesterone
-parent: Low Evidence (L4-L5)
+parent: Medium Evidence (L3)
 nav_order: 603
-evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Progesterone: indikasi baharu diramal Kanser korpus uterus (tahap bukti L5). Indikasi asal: Endometriosis, kanser endometrium, osteoporosis pascamenopaus…"
+evidence_level: L3
+indication_count: 7
+monitor_inn: "Progesterone"
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
+last_modified_at: 2026-10-27
+description: "Progesterone: indikasi baharu diramal Amenorea (tahap bukti L3). Indikasi asal: Teks indikasi diluluskan tidak tersedia dalam rekod lesen tempatan. H…"
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L3** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,126 +33,107 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Progesteron: Daripada Endometriosis dan Kanser Endometrium kepada Kanser Korpus Uterus
+## Progesterone: Daripada Endometriosis kepada Amenorea
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Progesteron ialah hormon steroid semula jadi yang pada asalnya dikaitkan dengan rawatan endometriosis, kanser endometrium, osteoporosis pascamenopaus dan vaginitis atrofi pascamenopaus.
-Model TxGNN meramalkan ia mungkin berkesan untuk **kanser korpus uterus**, tetapi skor ramalan ialah **0.0%**, tiada **percubaan klinikal** didaftarkan bagi entri ini, dan kesusasteraan yang diperoleh kebanyakannya tidak berkaitan secara langsung.
-Bukti yang lebih bermakna wujud untuk entri bertindih "kanser endometrium" (7 percubaan klinikal dan 20 penerbitan, kebanyakannya tidak langsung).
+Progesterone ialah hormon steroid semula jadi. Ubat ini dikaitkan dengan endometriosis, kanser endometrium dan osteoporosis pascamenopaus. Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **amenorea**, dengan skor 1.0000. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi. Setakat ini terdapat **4 ujian klinikal** dan **18 penerbitan** yang berkaitan, tetapi kebanyakan ujian tertumpu pada estrogen dan bukan pada progesterone semata-mata.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Endometriosis, kanser endometrium, osteoporosis pascamenopaus, vaginitis atrofi pascamenopaus (daripada graf pengetahuan TxGNN; tiada lesen tempatan untuk dirujuk) |
-| Indikasi Baharu yang Diramalkan | Kanser korpus uterus |
-| Skor Ramalan TxGNN | 0.0% |
-| Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi Asal | Teks indikasi diluluskan tidak tersedia dalam rekod lesen tempatan. Hubungan yang direkodkan dalam graf pengetahuan (bukan indikasi diluluskan): endometriosis, kanser endometrium, osteoporosis pascamenopaus, vaginitis atrofik pascamenopaus |
+| Indikasi Baharu yang Diramalkan | Amenorea |
+| Skor Ramalan TxGNN | 1.0000 |
+| Tahap Bukti | L3 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 15) |
+| Keputusan Disyorkan | Teruskan dengan Langkah Kawalan |
+
+Tahap bukti ditetapkan pada L3. Satu kajian retrospektif (PMID 1115172) mengkaji amenorea sekunder dengan progesterone secara langsung. Ujian klinikal yang disenaraikan tidak menguji progesterone secara berasingan untuk amenorea, jadi tahap yang lebih tinggi tidak dapat disokong.
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, progesteron beroperasi melalui isyarat reseptor progesteron yang menentang percambahan epitelium endometrium yang didorong oleh estrogen. Inilah asas rawatan progestin dalam neoplasia endometrium.
+Data terperinci tentang mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, progesterone ialah pengawal selia fisiologi endometrium dan paksi hipotalamus-pituitari-ovari. Mekanismenya boleh digunakan untuk amenorea.
 
-Kanser korpus uterus dan kanser endometrium ialah entiti yang bertindih, jadi hubungan mekanistik ini munasabah. Namun, hubungan ini tidak disokong oleh bukti langsung di bawah entri ini. Skor TxGNN ialah 0.0, tiada percubaan klinikal disenaraikan, dan kebanyakan kesusasteraan yang diperoleh tidak berkaitan sasaran (laporan gabungan gen sarkoma uterus, pil perancang, RU 486, perkembangan saluran pembiakan dan sejarah progesteron).
+Dalam wanita yang telah terdedah kepada estrogen dan mengalami amenorea sekunder, cabaran progestin atau progesterone berkitar boleh mencetuskan pendarahan tarikan dan melindungi endometrium. Penggunaan klinikal ini telah lama diterangkan. Kajian retrospektif 1975 mengelaskan 90 wanita dengan amenorea sekunder melalui tindak balas pendarahan terhadap progesterone intramuskular.
 
-Bukti bagi entri bertindih "kanser endometrium" dinilai secara berasingan di bawah (tahap L3, bersifat tidak langsung dan peringkat kelas progestin).
+Ujian yang disenaraikan di bawah tertumpu pada amenorea hipotalamus fungsian, iaitu pada pesakit anoreksia nervosa, atlet dan keadaan hipoestrogenemia. Dalam kes ini, penggantian hormon digunakan untuk melindungi tulang dan kesihatan kardiovaskular. Penggunaan ini munasabah dan sebahagiannya sudah mantap, tetapi bukti ujian kebanyakannya berpusat pada estrogen dan tidak khusus kepada progesterone.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Tiada percubaan klinikal berkaitan didaftarkan buat masa ini bagi kanser korpus uterus.
-
-Sebagai rujukan, percubaan bagi entri bertindih **kanser endometrium** ialah:
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT07436793](https://clinicaltrials.gov/study/NCT07436793) | Fasa 2 | Merekrut | 140 | Percubaan "tetingkap pembedahan" payung berputar yang membandingkan progestin (megestrol asetat berbanding progesteron termikron) pada kanser endometrium dan hiperplasia atipikal sebelum pembedahan; belum ada keputusan |
-| [NCT04046185](https://clinicaltrials.gov/study/NCT04046185) | Fasa 1 Awal | Tidak diketahui | 60 | Perencat PD-1 bersama progesteron berbanding progesteron sahaja dalam kanser endometrium peringkat awal yang mahu mengekalkan kesuburan |
-| [NCT03463252](https://clinicaltrials.gov/study/NCT03463252) | Fasa 2/3 | Merekrut | 224 | LNG-IUS (levonorgestrel) untuk rawatan pemeliharaan kesuburan; menyokong kelas progestin sahaja, bukan progesteron |
-| [NCT04719273](https://clinicaltrials.gov/study/NCT04719273) | Fasa 2 | Selesai | 14 | Onapristone (antagonis reseptor progesteron) dengan anastrozole dalam kanser endometrium refraktori; sampel kecil |
-| [NCT03621904](https://clinicaltrials.gov/study/NCT03621904) | N/A | Merekrut | 150 | Kajian biopenanda pemerhatian untuk meramal tindak balas terapi hormon; tidak menguji progesteron |
-| [NCT00919919](https://clinicaltrials.gov/study/NCT00919919) | Fasa 2 | Tidak diketahui | 60 | Tablet progesteron faraj dalam wanita menopaus untuk perlindungan endometrium, bukan rawatan kanser |
+| [NCT00088153](https://clinicaltrials.gov/study/NCT00088153) | Fasa 2/3 | Selesai | 110 | Kesan anoreksia nervosa terhadap jisim tulang remaja; menilai sama ada estrogen membantu mengekalkan perkembangan tulang. Hubungan dengan amenorea tidak langsung |
+| [NCT03740204](https://clinicaltrials.gov/study/NCT03740204) | Fasa 2 | Aktif, tidak merekrut | 120 | Estradiol transdermal dengan progesterone berkitar berbanding plasebo terhadap fleksibiliti kognitif dan ganjaran dalam gangguan makan. Amenorea hanya konteks populasi |
+| [NCT00946192](https://clinicaltrials.gov/study/NCT00946192) | Fasa 3 | Selesai | 121 | Atlet muda yang tidak datang haid; menilai estrogen transdermal atau oral untuk ketumpatan tulang. Sumbangan progesterone tidak dapat diasingkan |
+| [NCT03018366](https://clinicaltrials.gov/study/NCT03018366) | Fasa 2 | Selesai | 29 | Faktor risiko kardiovaskular pra-klinikal dan keradangan pada wanita muda dengan amenorea hipotalamus fungsian. Sampel kecil |
 
 ---
 
-## Bukti Kesusasteraan
-
-Kesusasteraan bagi entri kanser korpus uterus kebanyakannya tidak berkaitan secara langsung. Rujukan paling relevan ialah daripada entri kanser endometrium:
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [32732107](https://pubmed.ncbi.nlm.nih.gov/32732107/) | 2020 | Ulasan | Best Pract Res Clin Obstet Gynaecol | Progestogen (progesteron dan progestin) dapat mencegah atau merawat hiperplasia, hiperplasia atipikal dan juga kanser endometrium berdiferensiasi baik |
-| [36357974](https://pubmed.ncbi.nlm.nih.gov/36357974/) | 2022 | Ulasan | Obstet Gynecol | Etiologi, pengelasan dan pilihan rawatan pembedahan dan bukan pembedahan untuk hiperplasia endometrium |
-| [39361076](https://pubmed.ncbi.nlm.nih.gov/39361076/) | 2024 | Ulasan | Curr Oncol Rep | Pilihan rawatan pemeliharaan uterus untuk hiperplasia endometrium atipikal dan kanser endometrium awal |
-| [20104432](https://pubmed.ncbi.nlm.nih.gov/20104432/) | 2010 | Ulasan | Semin Reprod Med | Progesteron menentang pertumbuhan didorong estrogen; neoplasia boleh regresi dengan progestin tetapi tidak dalam semua kes |
-| [40783086](https://pubmed.ncbi.nlm.nih.gov/40783086/) | 2025 | Praklinikal | Pharmacol Res | Butirat daripada mikrobiom intratumor meningkatkan kepekaan progesteron melalui feroptosis |
-| [41032624](https://pubmed.ncbi.nlm.nih.gov/41032624/) | 2025 | Praklinikal | Sci Transl Med | Kolesterol mengurangkan kepekaan kanser endometrium terhadap progestin dengan melemahkan isyarat progestin |
-| [20374701](https://pubmed.ncbi.nlm.nih.gov/20374701/) | 2009 | Ulasan | Prog Mol Biol Transl Sci | Tindakan reseptor progesteron dalam leiomioma dan kanser endometrium |
-
-Tiada RCT dikenal pasti dalam kesusasteraan yang diperoleh.
+| [1115172](https://pubmed.ncbi.nlm.nih.gov/1115172/) | 1975 | Kajian retrospektif | Am J Obstet Gynecol | 90 wanita dengan amenorea sekunder dikategorikan melalui tindak balas pendarahan terhadap progesterone intramuskular dan paras gonadotropin |
+| [38652231](https://pubmed.ncbi.nlm.nih.gov/38652231/) | 2024 | Ulasan | Rev Endocr Metab Disord | Penggunaan diagnostik dan terapeutik progesterone mikronisasi oral dalam endokrinologi |
+| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Ulasan | Rev Endocr Metab Disord | Latar belakang endokrin rawatan hormon untuk endometriosis; rintangan progesterone |
+| [33716979](https://pubmed.ncbi.nlm.nih.gov/33716979/) | 2021 | Ulasan | Front Endocrinol | Punca, simptom dan rawatan insufisiensi ovari pramatang |
+| [32233689](https://pubmed.ncbi.nlm.nih.gov/32233689/) | 2020 | Ulasan | Climacteric | Pengurusan klinikal pendarahan faraj pada wanita pascamenopaus |
+| [18756412](https://pubmed.ncbi.nlm.nih.gov/18756412/) | 2008 | Ulasan | Semin Reprod Med | Lekatan intrauterin (sindrom Asherman), merangkumi spektrum daripada amenorea hingga haid normal |
+| [8629565](https://pubmed.ncbi.nlm.nih.gov/8629565/) | 1996 | Ulasan klinikal | Am Fam Physician | Penilaian amenorea secara berperingkat; kehamilan mesti disingkirkan terlebih dahulu |
+| [7457308](https://pubmed.ncbi.nlm.nih.gov/7457308/) | 1980 | Ulasan klinikal | Am Fam Physician | Pendekatan diagnostik amenorea, termasuk pendarahan tarikan selepas progesterone sahaja |
+| [23624028](https://pubmed.ncbi.nlm.nih.gov/23624028/) | 2013 | Ulasan | Steroids | Risiko kanser dan sindrom ovari polisistik; estrogen tanpa lawan akibat anovulasi |
+| [12259270](https://pubmed.ncbi.nlm.nih.gov/12259270/) | 1942 | Rencana klinikal | JAMA | Rawatan hormon ringkas untuk amenorea (tiada abstrak tersedia) |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-Progesteron pada masa ini **tidak dipasarkan** di Malaysia dan tiada lesen didaftarkan dalam data yang dikumpulkan.
+Sebanyak 15 lesen sah didaftarkan (14 produk tunggal, 1 produk kombinasi). Jadual menyenaraikan 5 lesen produk tunggal sahaja. Teks indikasi diluluskan dan bentuk dos tidak dinyatakan dalam rekod lesen yang tersedia.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL19971796ACZ | Utrogestan 100 mg soft capsules | Tidak dinyatakan | Tidak dinyatakan |
+| MAL17035024ACZ | ENDOMETRIN 100mg Vaginal Tablet | Tidak dinyatakan | Tidak dinyatakan |
+| MAL20020994ARZ | CRINONE 8% PROGESTERONE VAGINAL GEL | Tidak dinyatakan | Tidak dinyatakan |
+| MAL20033678ACZ | CYCLOGEST 400MG PESSARIES | Tidak dinyatakan | Tidak dinyatakan |
+| MAL24066005ACZ | Prometrium 200 mg Vaginal Soft Capsules | Tidak dinyatakan | Tidak dinyatakan |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-**Kontraindikasi daripada graf pengetahuan (bukan teks label produk):** graf pengetahuan TxGNN mengaitkan progesteron dengan penyakit berikut yang memerlukan kewaspadaan:
-- Kardiovaskular/metabolik: gangguan hipertensi, hipertensi, hiperglisemia, diabetes mellitus, ketoasidosis diabetes, hipertrigliseridemia
-- Hepar dan hempedu: kegagalan hati, penyakit hati, penyakit pundi hempedu
-- Buah pinggang: penyakit buah pinggang, piouretra
-- Neurologi/psikiatri: epilepsi, gangguan kebimbangan, gangguan neurotik, gangguan distimik, penyalahgunaan/ketagihan bahan
-- Metabolik/endokrin: porfiria (termasuk porfiria warisan dan penyakit metabolisme porfirin), hipotiroidisme, miksedema, hipotiroidisme kongenital, hiperkalsemia humoral malignansi
-- Lain-lain: osteoporosis, osteoporosis pascamenopaus, lupus eritematosus sistemik (termasuk pediatrik), asma (termasuk intrinsik dan alergi)
+- **Hubungan kontraindikasi dalam graf pengetahuan** (bukan teks label): hipertensi, kegagalan hati, penyakit hati, penyakit hempedu, penyakit buah pinggang, epilepsi, asma, diabetes mellitus dan ketoasidosis diabetes, hiperglisemia, hipertrigliseridemia, porfiria, hipotiroidisme, lupus eritematosus sistemik, gangguan kebimbangan, penyalahgunaan bahan, serta osteoporosis termasuk osteoporosis pascamenopaus. Hubungan ini perlu disahkan dengan sisipan pakej.
+- **Interaksi ubat**: sebanyak 100 interaksi direkodkan. Contoh yang dilaporkan bertahap sederhana ialah ubat antidiabetes (acarbose, metformin, pioglitazone, glimepiride, repaglinide, semaglutide, liraglutide, insulin dan lain-lain), aprepitant dan clarithromycin. Pemantauan glukosa darah wajar apabila digunakan bersama ubat antidiabetes.
 
-**Interaksi Ubat:** 100 interaksi dikesan; contoh yang disenaraikan semuanya bertahap **Sederhana**, terutamanya ubat antidiabetes (kemungkinan kesan pada kawalan glukosa), seperti:
-- Acarbose, metformin, pioglitazone, glimepiride, chlorpropamide, repaglinide
-- Perencat DPP-4/SGLT2 (alogliptin, saxagliptin, canagliflozin, dapagliflozin, empagliflozin)
-- Agonis GLP-1 (albiglutide, dulaglutide, liraglutide, semaglutide)
-- Insulin (aspart, degludec, detemir)
-- Aprepitant dan clarithromycin
-
-Untuk amaran dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan pakej produk.
+Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi rasmi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Teruskan dengan Langkah Kawalan**
 
 **Rasional:**
-- Bagi kanser korpus uterus, tahap bukti ialah L5: skor TxGNN 0.0, tiada percubaan klinikal dan kesusasteraan kebanyakannya di luar sasaran. Ubat ini juga tidak dipasarkan di Malaysia.
-- Bagi entri bertindih kanser endometrium (L3), bukti bersifat tidak langsung dan peringkat kelas progestin dengan kerja Fasa 2 yang sedang berjalan tanpa keputusan. Tiada RCT Fasa 3 yang menunjukkan keberkesanan progesteron sendiri.
+- Penggunaan progesterone dalam penilaian dan pengurusan amenorea munasabah dari segi biologi dan berasaskan amalan klinikal lama. Namun ujian terkawal yang menguji progesterone secara khusus untuk amenorea tiada, dan ujian yang ada kebanyakannya berpusat pada estrogen.
+- Data keselamatan rasmi dan teks indikasi diluluskan tempatan masih belum diperoleh.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Keputusan percubaan Fasa 2 (cth. NCT07436793) yang menguji progesteron termikron secara langsung
-- Data amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
-- Data mekanisme tindakan terperinci (MOA) daripada DrugBank
-- Penilaian kesesuaian laluan pentadbiran dan formulasi, serta status pendaftaran di Malaysia
-- Pelan pemantauan keselamatan untuk populasi berisiko (diabetes, penyakit hati, hipertensi, penyakit kardiovaskular)
+- Muat turun dan semak sisipan pakej NPRA bagi amaran, kontraindikasi dan indikasi diluluskan setiap produk.
+- Data mekanisme tindakan terperinci.
+- Penilaian khusus amenorea hipotalamus fungsian berbanding amenorea sekunder lain, serta penentuan rejimen dan laluan pentadbiran yang sesuai.
+- Pelan pemantauan keselamatan untuk populasi berisiko (hipertensi, diabetes, penyakit hati dan buah pinggang).
 
-**Indikasi lain yang dinilai (untuk rujukan):**
-
-| Indikasi | Tahap Bukti | Ringkasan |
-|------|------|------|
-| Kanser endometrium | L3 | Bukti tidak langsung peringkat kelas progestin; Fasa 2 sedang berjalan |
-| Endometriosis | L3 | Ketahanan progesteron dan dominasi estrogen ialah mekanisme teras; satu percubaan Fasa 3 (NCT02793908, n=52, status tidak diketahui) mengenai sokongan fasa luteal, bukan kawalan penyakit |
-| Endometriosis uterus (adenomiosis) | L4 | Hanya bukti tidak langsung; percubaan tunggal menguji nintedanib, bukan progesteron |
-| Vaginitis atrofi pascamenopaus | L4 | Satu-satunya percubaan (NCT02460302) ditarik balik dengan 0 peserta; satu laporan klinikal menggunakan gabungan estriol dan progesteron sehingga keputusan tercemar oleh estriol |
+Ramalan lain untuk ubat ini (penyakit fibrosistik payudara, displasia mamari jinak, hipoplasia renal dan adenosis payudara) mempunyai bukti yang lebih lemah dan tidak disyorkan untuk diteruskan pada masa ini.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

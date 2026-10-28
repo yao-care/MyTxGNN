@@ -8,6 +8,7 @@ nav_order: 156
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Bleomycin Sulfate
@@ -49,8 +50,8 @@ Bleomycin Sulfate ialah antibiotik glikopeptida antineoplastik yang dipasarkan d
 | Indikasi Baru yang Diramalkan | **Tiada — tiada ramalan TxGNN tersedia** |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | **L5** (Tiada ramalan model atau kajian sokongan dalam set data ini) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 2 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

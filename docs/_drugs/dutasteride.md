@@ -6,9 +6,9 @@ nav_order: 312
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Dutasteride: indikasi baharu diramal Hipertrikosis universalis kongenita jenis Ambras (tahap bukti L5). Indikasi asal: Hiperplasia prostat benigna (BPH)"
 monitor_inn: "DUTASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
+description: "Dutasteride: indikasi baharu diramal Ambras type hypertrichosis universalis congenita (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Dutasteride
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Dutasteride: Daripada Hiperplasia Prostat Benigna kepada Hipertrikosis Kongenital Ambras
+## Dutasteride: Ambras type hypertrichosis universalis congenita
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Hiperplasia prostat benigna (BPH) |
-| Indikasi Baharu yang Diramalkan | Hipertrikosis universalis kongenita jenis Ambras |
-| Skor Ramalan TxGNN | 99.998% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Ambras type hypertrichosis universalis congenita |
+| Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
+| Bilangan Pendaftaran | 14 (sah: 14) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -62,7 +62,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, dutasteride ialah perencat dwi 5-alfa-reduktase yang menurunkan dihidrotestosteron (DHT). Keberkesanannya dalam BPH telah dibuktikan, dan secara teori kesan anti-androgen ini boleh mempengaruhi pertumbuhan rambut yang bergantung kepada androgen.
 
-Namun, sindrom Ambras ialah gangguan kongenital yang jarang berlaku, disebabkan oleh penyusunan semula genom yang menjejaskan regulasi TRPS1, dan bukan terutamanya didorong oleh androgen. Rasional mekanistik adalah **lemah dan spekulatif**. Skor tinggi kemungkinan besar mencerminkan kejiranan fenotip rambut dalam graf pengetahuan, bukan bukti biologi langsung.
+Namun, sindrom Ambras ialah gangguan kongenital yang jarang berlaku, disebabkan oleh penyusunan semula genom yang menjejaskan regulasi TRPS1, dan bukan terutamanya didorong oleh androgen. Rasional mekanistik adalah **lemah dan spekulatif**.
 
 Ramalan lain dalam senarai (contohnya hipertrikosis umum, kecacatan batang rambut genetik, hipotrikosis simpleks kulit kepala) juga berada dalam lingkungan fenotip rambut, tetapi kebanyakannya tidak bergantung kepada androgen dan tiada bukti klinikal. Hanya alopesia areata meresap mempunyai satu rujukan, itupun mengenai alopesia androgenetik pada wanita dan bukan alopesia areata, jadi sokongannya tidak langsung.
 
@@ -100,7 +100,7 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi utama ini.
 **Keputusan: Hold (Tahan)**
 
 **Justifikasi:**
-- Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal atau literatur, dan mekanismenya lemah kerana sindrom Ambras tidak bergantung kepada androgen. Dutasteride juga tidak dipasarkan di Malaysia.
+- Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal atau literatur, dan mekanismenya lemah kerana sindrom Ambras tidak bergantung kepada androgen.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank

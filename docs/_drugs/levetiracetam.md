@@ -3,18 +3,18 @@ layout: default
 title: Levetiracetam
 parent: Low Evidence (L4-L5)
 nav_order: 454
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Levetiracetam: indikasi baharu diramal Epilepsi visual (visual epilepsy) (tahap bukti L4). Indikasi asal: Tiada dalam data pendaftaran NPRA yang disusun (kesusasteraan menggam…"
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
+description: "Levetiracetam: indikasi baharu diramal Beta-ketothiolase deficiency (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Levetiracetam
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,13 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Levetiracetam: Daripada Ubat Antisawan kepada Epilepsi Visual
+## Levetiracetam: Beta-ketothiolase deficiency
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Levetiracetam ialah ubat antisawan (antiepileptik) generasi kedua, tetapi data pendaftaran NPRA yang disusun untuk laporan ini tidak mengandungi indikasi asal.
 Model TxGNN meramalkan ia mungkin berkesan untuk **epilepsi visual (visual epilepsy)**.
-Ramalan ini disokong oleh **0 ujian klinikal** dan **20 penerbitan**, dan tiada satu pun penerbitan itu khusus tentang epilepsi visual atau fotosensitif.
 
 ---
 
@@ -48,12 +47,12 @@ Ramalan ini disokong oleh **0 ujian klinikal** dan **20 penerbitan**, dan tiada 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada dalam data pendaftaran NPRA yang disusun (kesusasteraan menggambarkan levetiracetam sebagai ubat antisawan untuk sawan separa dan epilepsi am) |
-| Indikasi Baharu Diramalkan | Epilepsi visual (visual epilepsy) |
-| Skor Ramalan TxGNN | 99.98% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu Diramalkan | Beta-ketothiolase deficiency |
+| Skor Ramalan TxGNN | 0.9990 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 44 daripada 44) |
+| Bilangan Pendaftaran | 44 (sah: 44) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -62,7 +61,7 @@ Ramalan ini disokong oleh **0 ujian klinikal** dan **20 penerbitan**, dan tiada 
 
 Data terperinci tentang mekanisme tindakan tidak terdapat dalam data yang disusun. Berdasarkan kesusasteraan yang diperoleh, levetiracetam mengikat protein vesikel sinaptik SV2A dan mengubah suai pelepasan neurotransmitter. Ini boleh mengurangkan keterujaan berlebihan korteks otak.
 
-Epilepsi visual ialah sejenis sawan refleks yang dicetuskan oleh rangsangan visual. Mekanisme antisawan levetiracetam yang luas secara teorinya sesuai untuk keadaan ini.
+Mekanisme antisawan levetiracetam yang luas secara teorinya sesuai untuk keadaan ini.
 
 Namun, kesusasteraan yang diperoleh hanya merangkumi jenis sawan umum: sawan neonatal, sawan selepas strok, pencegahan dalam rawatan rapi neurologi dan status epileptikus. **Tiada satu pun khusus untuk epilepsi visual atau fotosensitif.** Sokongan ini tidak langsung, bergantung pada aktiviti antisawan levetiracetam yang luas.
 
@@ -114,7 +113,6 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan epilepsi visual hanya bersandarkan skor model dan bukti tidak langsung tentang sawan umum, tanpa ujian klinikal atau penerbitan khusus untuk indikasi ini.
 - Data yang disusun juga tidak menunjukkan sebarang pendaftaran levetiracetam di Malaysia, dan data keselamatan sisipan pakej tidak lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

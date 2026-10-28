@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tocilizumab
-parent: Low Evidence (L4-L5)
+parent: High Evidence (L1-L2)
 nav_order: 687
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Tocilizumab: indikasi baharu diramal Spondilitis ankilosis (ankylosing spondylitis) (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen di Malaysia)"
 monitor_inn: "Tocilizumab"
-predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "spondyloarthropathy, susceptibility to", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency"]
+predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
+description: "Tocilizumab: indikasi baharu diramal Spondilitis ankilosis (ankylosing spondylitis) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Tocilizumab
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Tocilizumab: Daripada Penggunaan Asal kepada Spondilitis Ankilosis
+## Tocilizumab: Spondilitis ankilosis (ankylosing spondylitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asal Tocilizumab, kerana tiada lesen berdaftar di Malaysia. Tocilizumab ialah antibodi monoklonal yang menyekat reseptor IL-6. Model TxGNN meramalkan ia mungkin berkesan untuk **spondilitis ankilosis** (skor 99.99%). Terdapat **2 ujian klinikal fasa 3** secara langsung dalam penyakit ini, tetapi **kedua-duanya ditamatkan awal**, dan 1 kajian RCT yang diterbitkan menilai keberkesanan simptomatik jangka pendek. Hasil klinikal tidak menunjukkan keberkesanan yang bermakna.
+Data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asal Tocilizumab, kerana tiada lesen berdaftar di Malaysia. Tocilizumab ialah antibodi monoklonal yang menyekat reseptor IL-6. Model TxGNN meramalkan ia mungkin berkesan untuk **spondilitis ankilosis** (skor 0.9999). Terdapat **2 ujian klinikal fasa 3** secara langsung dalam penyakit ini, tetapi **kedua-duanya ditamatkan awal**, dan 1 kajian RCT yang diterbitkan menilai keberkesanan simptomatik jangka pendek. Hasil klinikal tidak menunjukkan keberkesanan yang bermakna.
 
 ---
 
@@ -46,12 +46,12 @@ Data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asal Tocilizu
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen di Malaysia) |
-| Indikasi Baharu yang Diramalkan | Spondilitis ankilosis (*ankylosing spondylitis*) |
-| Skor Ramalan TxGNN | 99.99% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Spondilitis ankilosis (ankylosing spondylitis) |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L1 (mengikut kriteria penarafan data; lihat nota di bawah) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 > **Nota tahap bukti:** Tahap L1 secara formal memerlukan ≥2 RCT fasa 3 yang selesai. Kedua-dua RCT fasa 3 dalam spondilitis ankilosis telah **ditamatkan**, bukan diselesaikan, dan penamatan itu menunjukkan kekurangan keberkesanan. Tahap L1 ini harus ditafsirkan dengan berhati-hati, dan bukti sebenar untuk indikasi ini adalah lemah.
@@ -94,7 +94,7 @@ Namun, secara klinikal, sekatan laluan IL-6 menunjukkan prestasi lebih lemah ber
 
 ## Maklumat Pasaran Malaysia
 
-Tocilizumab tidak mempunyai pendaftaran di Malaysia dalam data yang dikumpulkan (0 lesen). Walau bagaimanapun, status "tidak dipasarkan" ini mungkin merupakan jurang data dan bukan keadaan sebenar, kerana Tocilizumab ialah ubat yang telah mapan di peringkat antarabangsa.
+Tocilizumab tidak mempunyai pendaftaran di Malaysia dalam data yang dikumpulkan (0 lesen).
 
 ---
 
@@ -115,18 +115,16 @@ Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi; data tersebut ti
 
 | Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Ringkasan | Cadangan |
 |------|------|------|------|------|
-| Spondilitis ankilosis | 99.99% | L1 (RCT ditamatkan) | Tiada keberkesanan klinikal terbukti | Hold |
-| Vaskulitis reumatoid | 99.98% | L4 | Hanya laporan kes; vaskulitis akibat Tocilizumab juga dilaporkan | Soalan penyelidikan |
-| Hipermobiliti koksiks | 99.98% | L5 | Tiada bukti dan tiada kaitan mekanistik | Hold |
-| Spondiloartropati, kerentanan | 99.98% | L5 | Hanya kajian mekanistik in vitro; istilah genetik, bukan penyakit boleh dirawat | Hold |
-| Spondilopati radang | 99.98% | L1 | Bertindih dengan spondilitis ankilosis; bukti sama | Soalan penyelidikan |
-| Penyakit Kummell | 99.98% | L5 | Tiada kaitan mekanistik, tiada bukti | Hold |
-| Artritis reumatoid juvenil poliartikular | 99.98% | L1 | RCT fasa 3 penarikan balik dan kajian lanjutan jangka panjang menyokong; ini indikasi mapan, bukan penggunaan semula baharu | Proceed with Guardrails |
-| Penyakit vertebra | 99.93% | L4 | Padanan didorong oleh literatur RA umum | Hold |
-| Artritis idiopatik juvenil | 99.90% | L1 | RCT fasa 3 dalam JIA sistemik dan poliartikular; indikasi mapan | Proceed with Guardrails |
-| MSMD akibat kekurangan IL12B lengkap | 99.87% | L5 | Berpotensi memudaratkan (imunosupresan meningkatkan risiko jangkitan mikobakteria); kemungkinan positif palsu | Hold |
+| Spondilitis ankilosis | 0.9999 | L1 (RCT ditamatkan) | Tiada keberkesanan klinikal terbukti | Hold |
+| Vaskulitis reumatoid | 0.9998 | L5 | Hanya laporan kes; vaskulitis akibat Tocilizumab juga dilaporkan | Soalan penyelidikan |
+| Hipermobiliti koksiks | 0.9998 | L5 | Tiada bukti dan tiada kaitan mekanistik | Hold |
+| Spondiloartropati, kerentanan | 0.9998 | L5 | Hanya kajian mekanistik in vitro; istilah genetik, bukan penyakit boleh dirawat | Hold |
+| Spondilopati radang | 0.9998 | L5 | Bertindih dengan spondilitis ankilosis; bukti sama | Soalan penyelidikan |
+| Penyakit Kummell | 0.9998 | L5 | Tiada kaitan mekanistik, tiada bukti | Hold |
+| Artritis reumatoid juvenil poliartikular | 0.9998 | L5 | RCT fasa 3 penarikan balik dan kajian lanjutan jangka panjang menyokong; ini indikasi mapan, bukan penggunaan semula baharu | Proceed with Guardrails |
+| Penyakit vertebra | 0.9993 | L4 | Padanan didorong oleh literatur RA umum | Hold |
 
-Nota: artritis idiopatik juvenil (JIA) dan JIA poliartikular mempunyai bukti terkuat, tetapi ia merupakan indikasi yang telah mapan, jadi ini lebih merupakan pengesahan daripada penggunaan semula. Status "tidak dipasarkan" kemungkinan besar jurang data.
+Nota: artritis idiopatik juvenil (JIA) dan JIA poliartikular mempunyai bukti terkuat, tetapi ia merupakan indikasi yang telah mapan, jadi ini lebih merupakan pengesahan daripada penggunaan semula.
 
 ---
 

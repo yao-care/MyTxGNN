@@ -4,17 +4,17 @@ title: Zidovudine
 parent: Low Evidence (L4-L5)
 nav_order: 732
 evidence_level: L4
-indication_count: 6
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Zidovudine: indikasi baharu diramal Jangkitan virus imunodefisiensi simian (SIV) (tahap bukti L4). Indikasi asal: Jangkitan HIV dan AIDS"
 monitor_inn: "ZIDOVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
+description: "Zidovudine: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Zidovudine
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **6** 
+Tahap bukti: **L4** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **6**
 
 </div>
 
-## Zidovudine: Daripada Jangkitan HIV/AIDS kepada Jangkitan Virus Imunodefisiensi Simian (SIV)
+## Zidovudine: Simian immunodeficiency virus infection
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ Zidovudine ialah ubat antiretroviral (perencat transkriptase balik nukleosida, N
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan HIV dan AIDS |
-| Indikasi Baharu yang Diramalkan | Jangkitan virus imunodefisiensi simian (SIV) |
-| Skor Ramalan TxGNN | 99.96% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Simian immunodeficiency virus infection |
+| Skor Ramalan TxGNN | 0.9996 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -115,7 +115,6 @@ Sebanyak 100 interaksi dikenal pasti. Antara yang utama:
 **Rasional:**
 - Bukti untuk indikasi ini hanya praklinikal (kajian makak). Tiada ujian klinikal pada manusia.
 - SIV ialah penyakit primat bukan manusia, jadi ia tidak boleh dijadikan sasaran repurposing untuk manusia.
-- Ubat ini tidak dipasarkan di Malaysia, tiada pendaftaran, dan tiada data label keselamatan tempatan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA

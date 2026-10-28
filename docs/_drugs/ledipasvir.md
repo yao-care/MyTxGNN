@@ -6,9 +6,9 @@ nav_order: 448
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ledipasvir: indikasi baharu diramal Jangkitan virus hepatitis B (tahap bukti L2). Indikasi asal: Jangkitan virus hepatitis C kronik"
 monitor_inn: "LEDIPASVIR"
-predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "chronic hepatitis B virus infection", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
+predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "chronic hepatitis B virus infection", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
+description: "Ledipasvir: indikasi baharu diramal Jangkitan virus hepatitis B (hepatitis B virus infection) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ledipasvir
@@ -33,7 +33,7 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-## Ledipasvir: Daripada Jangkitan Hepatitis C Kronik kepada Jangkitan Virus Hepatitis B
+## Ledipasvir: Jangkitan virus hepatitis B (hepatitis B virus infection)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ dengan **5 percubaan klinikal** dan **20 penerbitan** yang berkaitan. Namun, han
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan virus hepatitis C kronik |
-| Indikasi Baharu yang Diramalkan | Jangkitan virus hepatitis B |
-| Skor Ramalan TxGNN | 99.91% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Jangkitan virus hepatitis B (hepatitis B virus infection) |
+| Skor Ramalan TxGNN | 0.9991 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -99,7 +99,6 @@ Walau bagaimanapun, kajian Fasa 2 (NCT03312023, diterbitkan sebagai PMID 3604550
 
 ## Maklumat Pasaran Malaysia
 
-Ledipasvir kini tidak mempunyai pendaftaran di Malaysia (jumlah pendaftaran: 0) dan tidak dipasarkan.
 
 ---
 
@@ -139,15 +138,15 @@ Ramalan peringkat lebih rendah tidak disyorkan untuk diteruskan dan semuanya ber
 
 | Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Ringkasan |
 |------|------|------|------|
-| Jangkitan virus hepatitis E | 99.77% | L4 | Hanya satu laporan kes (PMID 36942308) bersama ribavirin; kesan lebih mungkin daripada sofosbuvir. Soalan penyelidikan |
-| Hepatitis, virus, haiwan | 99.77% | L5 | Istilah ontologi tidak spesifik; literatur semuanya tentang HCV. Tidak boleh diambil tindakan |
-| Jangkitan virus hepatitis A | 99.77% | L4 | HAV ialah picornavirus tanpa NS5A; percubaan yang dipadankan semuanya berkaitan HCV |
-| Demam berdarah Omsk | 99.76% | L5 | Hanya persamaan rangkaian; tiada bukti |
-| Penyakit hutan Kyasanur | 99.76% | L5 | Hanya persamaan peringkat famili; tiada bukti |
-| Jangkitan virus hepatitis B kronik | 99.70% | L2 | Data berkaitan jangkitan bersama dan risiko pengaktifan semula; menyokong pemantauan, bukan penggunaan |
-| Penyakit berjangkit HIV | 99.70% | L4 | Isyarat datang daripada populasi jangkitan bersama HIV/HCV, bukan rawatan HIV |
-| Sindrom imunodefisiensi didapati feline | 99.55% | L5 | Kemungkinan artifak ontologi; tiada bukti |
-| Jangkitan virus imunodefisiensi simian | 99.55% | L5 | Mencerminkan kaitan HIV; tiada data sokongan |
+| Jangkitan virus hepatitis E | 0.9977 | L4 | Hanya satu laporan kes (PMID 36942308) bersama ribavirin; kesan lebih mungkin daripada sofosbuvir. Soalan penyelidikan |
+| Hepatitis, virus, haiwan | 0.9977 | L5 | Istilah ontologi tidak spesifik; literatur semuanya tentang HCV. Tidak boleh diambil tindakan |
+| Jangkitan virus hepatitis A | 0.9977 | L4 | HAV ialah picornavirus tanpa NS5A; percubaan yang dipadankan semuanya berkaitan HCV |
+| Demam berdarah Omsk | 0.9976 | L5 | Hanya persamaan rangkaian; tiada bukti |
+| Penyakit hutan Kyasanur | 0.9976 | L5 | Hanya persamaan peringkat famili; tiada bukti |
+| Jangkitan virus hepatitis B kronik | 0.9970 | L2 | Data berkaitan jangkitan bersama dan risiko pengaktifan semula; menyokong pemantauan, bukan penggunaan |
+| Penyakit berjangkit HIV | 0.9970 | L4 | Isyarat datang daripada populasi jangkitan bersama HIV/HCV, bukan rawatan HIV |
+| Sindrom imunodefisiensi didapati feline | 0.9955 | L5 | Kemungkinan artifak ontologi; tiada bukti |
+| Jangkitan virus imunodefisiensi simian | 0.9955 | L5 | Mencerminkan kaitan HIV; tiada data sokongan |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

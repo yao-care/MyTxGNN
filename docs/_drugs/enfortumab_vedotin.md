@@ -40,7 +40,7 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 Enfortumab vedotin ialah konjugat antibodi-ubat (ADC) yang menyasarkan Nectin-4 dan menghantar muatan sitotoksik MMAE; data indikasi asal tidak terdapat dalam data yang dikumpulkan untuk laporan ini kerana ubat ini tidak berdaftar di Malaysia.
 Model TxGNN meramalkan ia mungkin berkesan untuk **kusta (leprosy)** dengan skor tinggi, tetapi terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini.
-Ramalan ini hanyalah ramalan model graf pengetahuan tanpa bukti sokongan.
+Ramalan ini hanyalah ramalan model TxGNN (pembelajaran mendalam) tanpa bukti sokongan; skor datang daripada model dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
 ---
 
@@ -50,10 +50,10 @@ Ramalan ini hanyalah ramalan model graf pengetahuan tanpa bukti sokongan.
 |------|------|
 | Indikasi Asal | Tiada data (tiada lesen NPRA) |
 | Indikasi Baharu yang Diramalkan | Kusta (leprosy) |
-| Skor Ramalan TxGNN | 99.53% |
+| Skor Ramalan TxGNN | 0.9953 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | ✗ Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ Ramalan ini hanyalah ramalan model graf pengetahuan tanpa bukti sokongan.
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, enfortumab vedotin ialah ADC yang diarahkan kepada Nectin-4, menghantar MMAE, perencat mikrotubul sitotoksik, dan digunakan dalam bidang onkologi.
 
-Tiada pautan mekanistik dapat dikenal pasti antara ubat ini dengan jangkitan *Mycobacterium leprae* atau imunopatologi kusta. Skor TxGNN yang tinggi hanyalah ramalan graf pengetahuan dan tidak disokong oleh data klinikal atau literatur. Kesamaan dengan indikasi asal masih belum dinilai.
+Tiada pautan mekanistik dapat dikenal pasti antara ubat ini dengan jangkitan *Mycobacterium leprae* atau imunopatologi kusta. Skor TxGNN yang tinggi hanyalah ramalan model TxGNN (pembelajaran mendalam) dan tidak disokong oleh data klinikal atau literatur. Kesamaan dengan indikasi asal masih belum dinilai.
 
 ---
 
@@ -72,14 +72,14 @@ Data yang dikumpulkan turut merangkumi lapan ramalan lain. Kesemuanya berada pad
 
 | Penyakit Diramalkan | Skor TxGNN | Catatan |
 |------|------|------|
-| Neoplasia endokrin berganda | 99.43% | Ekspresi Nectin-4 pada tumor MEN tidak dibuktikan; tiada ujian atau literatur |
-| Jangkitan sitomegalovirus | 99.36% | Hanya satu laporan kes kesan buruk (esofagitis ulseratif); bukan bukti keberkesanan |
-| Kandidiasis | 99.30% | Hanya analisis farmakovigilans FAERS; mewakili isyarat keselamatan |
-| Infark serebrum | 99.23% | Tiada mekanisme yang munasabah |
-| Jangkitan HIV | 99.19% | Tiada mekanisme antivirus; risiko mielosupresi |
-| Hiperkolesterolemia familial homozigot | 99.18% | Tiada kaitan dengan metabolisme lipid |
-| Rinotrakeitis bovin berjangkit | 99.13% | Penyakit veterinar; kemungkinan artifak graf |
-| Katarh malignan | 99.13% | Penyakit veterinar; kemungkinan artifak graf |
+| Neoplasia endokrin berganda | 0.9943 | Ekspresi Nectin-4 pada tumor MEN tidak dibuktikan; tiada ujian atau literatur |
+| Jangkitan sitomegalovirus | 0.9936 | Hanya satu laporan kes kesan buruk (esofagitis ulseratif); bukan bukti keberkesanan |
+| Kandidiasis | 0.9930 | Hanya analisis farmakovigilans FAERS; mewakili isyarat keselamatan |
+| Infark serebrum | 0.9923 | Tiada mekanisme yang munasabah |
+| Jangkitan HIV | 0.9919 | Tiada mekanisme antivirus; risiko mielosupresi |
+| Hiperkolesterolemia familial homozigot | 0.9918 | Tiada kaitan dengan metabolisme lipid |
+| Rinotrakeitis bovin berjangkit | 0.9913 | Penyakit veterinar; skor model TxGNN (pembelajaran mendalam) mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi |
+| Katarh malignan | 0.9913 | Penyakit veterinar; skor model TxGNN (pembelajaran mendalam) mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi |
 
 ---
 

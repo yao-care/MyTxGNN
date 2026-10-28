@@ -6,9 +6,9 @@ nav_order: 683
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Tildrakizumab: indikasi baharu diramal Retinopati diabetes non-proliferatif teruk (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
 monitor_inn: "TILDRAKIZUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "drug-induced osteoporosis"]
+description: "Tildrakizumab: indikasi baharu diramal Retinopati diabetes non-proliferatif teruk (severe nonproliferative diabetic retinopathy) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Tildrakizumab
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-## Tildrakizumab: Daripada Indikasi Asal kepada Retinopati Diabetes Non-Proliferatif Teruk
+## Tildrakizumab: Retinopati diabetes non-proliferatif teruk (severe nonproliferative diabetic retinopathy)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **retinopati diabetes non-proli
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar di Malaysia |
-| Indikasi Baharu yang Diramalkan | Retinopati diabetes non-proliferatif teruk |
-| Skor Ramalan TxGNN | 99.63% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Retinopati diabetes non-proliferatif teruk (severe nonproliferative diabetic retinopathy) |
+| Skor Ramalan TxGNN | 0.9963 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **retinopati diabetes non-proli
 
 Data mekanisme tindakan terperinci tidak tersedia dalam rekod yang dikumpulkan. Berdasarkan kelas ubat, tildrakizumab ialah antibodi anti-IL-23 p19 yang menyekat laluan keradangan IL-23/IL-17.
 
-Kaitan yang mungkin ialah keradangan kronik tahap rendah dalam retinopati diabetes. Sitokin paksi IL-17/IL-23 boleh menyumbang kepada kerosakan vaskular retina dan leukostasis. **Kaitan ini bersifat spekulatif.** Tiada bukti klinikal atau literatur dibekalkan, dan skor 0.996 hanyalah ramalan komputasi.
+Kaitan yang mungkin ialah keradangan kronik tahap rendah dalam retinopati diabetes. Sitokin paksi IL-17/IL-23 boleh menyumbang kepada kerosakan vaskular retina dan leukostasis. **Kaitan ini bersifat spekulatif.** Tiada bukti klinikal atau literatur dibekalkan, dan skor 0.9963 hanyalah ramalan komputasi.
 
 Sebagai biologik bersaiz besar, tildrakizumab juga menghadapi persoalan penembusan okular apabila diberikan secara sistemik. Keserasian laluan pemberian masih belum dinilai.
 
@@ -69,9 +69,9 @@ Sebagai biologik bersaiz besar, tildrakizumab juga menghadapi persoalan penembus
 
 | Peringkat | Penyakit | Skor TxGNN | Tahap Bukti | Ringkasan Rasional |
 |------|------|------|------|------|
-| 2 | Retinopati diabetes | 99.53% | L5 | Rasional sama seperti di atas. Piawaian rawatan sedia ada (anti-VEGF, laser, kortikosteroid) mempunyai bukti jauh lebih kukuh. |
-| 3 | Katarak diabetes | 99.21% | L5 | Tiada laluan mekanisme yang jelas. Katarak diabetes didorong oleh pengaktifan laluan poliol, tekanan osmotik dan kerosakan oksidatif pada kanta. |
-| 4 | Osteoporosis aruhan ubat | 99.20% | L5 | Isyarat IL-23/IL-17 terlibat dalam osteoklastogenesis, tetapi tiada kaitan khusus dengan osteoporosis aruhan ubat. |
+| 2 | Retinopati diabetes | 0.9953 | L5 | Rasional sama seperti di atas. Piawaian rawatan sedia ada (anti-VEGF, laser, kortikosteroid) mempunyai bukti jauh lebih kukuh. |
+| 3 | Katarak diabetes | 0.9921 | L5 | Tiada laluan mekanisme yang jelas. Katarak diabetes didorong oleh pengaktifan laluan poliol, tekanan osmotik dan kerosakan oksidatif pada kanta. |
+| 4 | Osteoporosis aruhan ubat | 0.9920 | L5 | Isyarat IL-23/IL-17 terlibat dalam osteoklastogenesis, tetapi tiada kaitan khusus dengan osteoporosis aruhan ubat. |
 
 ---
 
@@ -89,7 +89,6 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Tildrakizumab pada masa ini **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar (0 lesen).
 
 ---
 

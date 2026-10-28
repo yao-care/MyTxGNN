@@ -7,13 +7,14 @@ drugbank_id: "DB00582"
 drug_name: "Voriconazole"
 kg_predictions: 50
 dl_predictions: 109
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/voriconazole/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Voriconazole
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **50** ramalan graf pengetahuan dan **109** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **50** ramalan model TxGNN (pembelajaran mendalam) dan **109** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

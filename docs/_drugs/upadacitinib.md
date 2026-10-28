@@ -6,9 +6,9 @@ nav_order: 710
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Upadacitinib: indikasi baharu diramal Sindrom displasia rizomelik-mikroftalmia kolobomatus (tahap bukti L5). Indikasi asal: Artritis reumatoid"
 monitor_inn: "upadacitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
+description: "Upadacitinib: indikasi baharu diramal Sindrom displasia rizomelik-mikroftalmia kolobomatus (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodka…"
 ---
 
 # Upadacitinib
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Upadacitinib: Daripada Artritis Reumatoid kepada Sindrom Displasia Rizomelik-Mikroftalmia Kolobomatus
+## Upadacitinib: Sindrom displasia rizomelik-mikroftalmia kolobomatus (colobomatous microphthalmia-rhizomelic dysplasia syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Artritis reumatoid |
-| Indikasi Baharu yang Diramalkan | Sindrom displasia rizomelik-mikroftalmia kolobomatus |
-| Skor Ramalan TxGNN | 99.61% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom displasia rizomelik-mikroftalmia kolobomatus (colobomatous microphthalmia-rhizomelic dysplasia syndrome) |
+| Skor Ramalan TxGNN | 0.9961 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -60,7 +60,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. 
 
 Sindrom yang diramalkan ialah sindrom perkembangan yang sangat jarang berlaku (koloboma okular, mikroftalmia, displasia rizomelik rangka). Sindrom sebegini biasanya didorong oleh kecacatan perkembangan atau genetik, bukan keradangan yang dimediasi JAK-STAT. Tiada hubungan laluan yang didokumenkan antara upadacitinib dengan penyakit ini.
 
-Skor TxGNN yang sangat tinggi (0.996) hanyalah ramalan model. Kebolehpercayaan biologinya rendah dan belum disahkan.
+Skor TxGNN yang sangat tinggi (0.9961) hanyalah ramalan model. Kebolehpercayaan biologinya rendah dan belum disahkan.
 
 ## Keputusan Kesimpulan dan Langkah Seterusnya
 
@@ -68,7 +68,6 @@ Skor TxGNN yang sangat tinggi (0.996) hanyalah ramalan model. Kebolehpercayaan b
 
 **Justifikasi:**
 - Tiada ujian klinikal atau literatur, tahap bukti hanya L5, dan tiada hubungan mekanistik yang munasabah dapat dibina daripada data yang ada.
-- Ubat ini tidak dipasarkan di Malaysia dan data keselamatan daripada sisipan pakej tidak tersedia.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) daripada DrugBank
@@ -78,7 +77,7 @@ Skor TxGNN yang sangat tinggi (0.996) hanyalah ramalan model. Kebolehpercayaan b
 
 ---
 
-## Upadacitinib: Daripada Artritis Reumatoid kepada Sindrom Brakidaktili-Sindaktili
+## Upadacitinib: Daripada Artritis Reumatoid kepada Sindrom displasia rizomelik-mikroftalmia kolobomatus
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -93,7 +92,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 |------|------|
 | Indikasi Asal | Artritis reumatoid |
 | Indikasi Baharu yang Diramalkan | Sindrom brakidaktili-sindaktili |
-| Skor Ramalan TxGNN | 99.58% |
+| Skor Ramalan TxGNN | 0.9958 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Tidak dipasarkan |
 | Bilangan Pendaftaran | 0 |
@@ -103,7 +102,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Sindrom brakidaktili-sindaktili ialah kecacatan anggota badan kongenital yang biasanya berpunca daripada faktor genetik dan perkembangan. Perencat JAK yang bersifat imunomodulasi tidak dijangka dapat membetulkan kecacatan struktur.
 
-Skor yang tinggi berkemungkinan mencerminkan kedekatan rangkaian atau persamaan gen dalam graf pengetahuan, dan bukannya rasional terapeutik.
+Skor yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi.
 
 ## Keselamatan
 

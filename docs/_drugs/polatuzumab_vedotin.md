@@ -46,10 +46,10 @@ Polatuzumab vedotin ialah konjugat antibodi-ubat (ADC) yang menyasarkan CD79b da
 |------|------|
 | Indikasi Asal | Tiada data indikasi yang diluluskan di Malaysia |
 | Indikasi Baharu yang Diramalkan | Karsinoma payudara HER2 positif |
-| Skor Ramalan TxGNN | 99.34% |
+| Skor Ramalan TxGNN | 0.9934 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -58,7 +58,7 @@ Data mekanisme tindakan asal tidak tersedia dalam rekod yang dikumpulkan. Berdas
 
 Pertalian yang mungkin hanyalah muatan sitotoksik MMAE, yang turut digunakan dalam ADC lain (contohnya brentuximab vedotin) dan secara teori boleh menjejaskan sel tumor pepejal yang membahagi dengan cepat. Namun, CD79b bukan sasaran yang diiktiraf dalam karsinoma payudara HER2 positif. Pertalian ini juga tidak khusus kepada biologi HER2 dan bergantung pada pengambilan ubat yang bebas daripada CD79b, yang belum dibuktikan.
 
-Skor TxGNN yang tinggi (0.993) ialah ramalan model semata-mata dan tiada ujian atau penerbitan dalam data yang disediakan menyokongnya. Terapi sasaran HER2 yang telah diluluskan (trastuzumab, pertuzumab, T-DM1, trastuzumab deruxtecan) sudah meliputi keadaan ini dengan bukti klinikal yang kukuh.
+Skor TxGNN yang tinggi (0.9934) ialah ramalan model semata-mata dan tiada ujian atau penerbitan dalam data yang disediakan menyokongnya. Terapi sasaran HER2 yang telah diluluskan (trastuzumab, pertuzumab, T-DM1, trastuzumab deruxtecan) sudah meliputi keadaan ini dengan bukti klinikal yang kukuh.
 
 ## Bukti Ujian Klinikal
 

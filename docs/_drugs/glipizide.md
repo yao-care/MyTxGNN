@@ -7,13 +7,14 @@ drugbank_id: "DB01067"
 drug_name: "Glipizide"
 kg_predictions: 4
 dl_predictions: 12
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/glipizide/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Glipizide
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **4** ramalan graf pengetahuan dan **12** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **4** ramalan model TxGNN (pembelajaran mendalam) dan **12** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

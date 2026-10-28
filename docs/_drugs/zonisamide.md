@@ -4,17 +4,17 @@ title: Zonisamide
 parent: Low Evidence (L4-L5)
 nav_order: 737
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Zonisamide: indikasi baharu diramal Sindrom Tourette (tahap bukti L5). Indikasi asal: Epilepsi / sawan separa"
 monitor_inn: "ZONISAMIDE"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
+description: "Zonisamide: indikasi baharu diramal Sindrom Tourette (Tourette syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Zonisamide
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Zonisamide: Daripada Epilepsi kepada Sindrom Tourette
+## Zonisamide: Sindrom Tourette (Tourette syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,28 +48,27 @@ Zonisamide ialah ubat antikonvulsan (anti-sawan) yang menyekat saluran natrium b
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Epilepsi / sawan separa (berdasarkan penggunaan klinikal yang diketahui; tiada teks indikasi berlesen dalam data) |
-| Indikasi Baharu yang Diramalkan | Sindrom Tourette |
-| Skor Ramalan TxGNN | 99.85% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom Tourette (Tourette syndrome) |
+| Skor Ramalan TxGNN | 0.9985 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 **Ramalan lain yang disenaraikan (10 teratas):**
 
 | Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Syor |
 |------|------|------|------|------|
-| 1 | Sindrom Tourette | 99.85% | L5 | Hold |
-| 2 | Trikotilomania | 99.78% | L5 | Hold |
-| 3 | Methemoglobinemia, jenis alfa | 99.64% | L5 | Hold |
-| 4 | Methemoglobinemia | 99.63% | L5 | Hold |
-| 5 | Angina Prinzmetal | 99.55% | L5 | Hold |
-| 6 | Kekurangan methemoglobin reduktase | 99.53% | L5 | Hold |
-| 7 | Gangguan afektif bipolar mania | 99.35% | L4 | Soalan Penyelidikan |
-| 8 | Absence epilepsy | 99.24% | L4 | Soalan Penyelidikan |
-| 9 | Fibromialgia | 99.20% | L4 | Soalan Penyelidikan |
-| 10 | Konjunktivitis | 99.16% | L5 | Hold |
+| 1 | Sindrom Tourette | 0.9985 | L5 | Hold |
+| 2 | Trikotilomania | 0.9978 | L5 | Hold |
+| 3 | Methemoglobinemia, jenis alfa | 0.9964 | L5 | Hold |
+| 4 | Methemoglobinemia | 0.9963 | L5 | Hold |
+| 5 | Angina Prinzmetal | 0.9955 | L5 | Hold |
+| 6 | Kekurangan methemoglobin reduktase | 0.9953 | L5 | Hold |
+| 7 | Gangguan afektif bipolar mania | 0.9935 | L5 | Soalan Penyelidikan |
+| 9 | Fibromialgia | 0.9920 | L4 | Soalan Penyelidikan |
+| 10 | Konjunktivitis | 0.9916 | L5 | Hold |
 
 ---
 
@@ -79,7 +78,7 @@ Data mekanisme tindakan terperinci (MOA) tidak tersedia daripada data yang dikum
 
 Satu ulasan yang diperoleh (PMID 36005856) menerangkan tik yang disebabkan oleh ubat anti-sawan. Ini lebih merupakan **isyarat keselamatan** berbanding sokongan terhadap ramalan.
 
-Antara ramalan lain, yang paling munasabah dari segi mekanisme ialah **absence epilepsy**, kerana sekatan saluran kalsium jenis-T berkait langsung dengan ayunan talamokortikal. **Gangguan bipolar** juga munasabah kerana mekanisme serupa dengan antikonvulsan lain yang digunakan dalam bipolar. Sebaliknya, ramalan **methemoglobinemia** dan **konjunktivitis** tidak mempunyai mekanisme yang boleh dipercayai dan mungkin mencerminkan artifak jarak rangkaian dalam graf pengetahuan.
+Antara ramalan lain, **Gangguan bipolar** munasabah kerana mekanisme serupa dengan antikonvulsan lain yang digunakan dalam bipolar. Sebaliknya, ramalan **methemoglobinemia** dan **konjunktivitis** tidak mempunyai mekanisme yang boleh dipercayai; skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
 ---
 
@@ -131,7 +130,7 @@ Tiada literatur berkaitan untuk Sindrom Tourette (ramalan utama). Berikut ialah 
 
 ## Maklumat Pasaran Malaysia
 
-Zonisamide kini berstatus **tidak dipasarkan** dan tiada pendaftaran (0 lesen) dalam data yang dikumpulkan. Status ini perlu disahkan semula kerana ia mungkin tidak mencerminkan kelulusan serantau.
+Status ini perlu disahkan semula kerana ia mungkin tidak mencerminkan kelulusan serantau.
 
 ---
 
@@ -164,9 +163,8 @@ Maklumat amaran dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila r
 **Untuk diteruskan, perlu:**
 - Memuat turun dan menghurai sisipan pakej NPRA bagi amaran dan kontraindikasi (jurang data menyekat saringan keselamatan)
 - Mendapatkan data MOA terperinci daripada DrugBank
-- Menyelaraskan status pasaran "tidak dipasarkan" dengan kelulusan serantau
 - Mengesahkan reka bentuk kajian zonisamide bagi absence epilepsy dan bipolar (kini kecil atau pemerhatian)
-- Menilai semula ramalan methemoglobinemia dan konjunktivitis sebagai kemungkinan artifak graf pengetahuan
+- Menilai semula ramalan methemoglobinemia dan konjunktivitis sebagai kemungkinan persamaan yang dipelajari oleh model TxGNN (pembelajaran mendalam) antara penyakit berkaitan, bukan bukti biologi
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

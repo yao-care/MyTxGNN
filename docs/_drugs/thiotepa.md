@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Thiotepa
-parent: Low Evidence (L4-L5)
+parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 678
-evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Thiotepa: indikasi baharu diramal Karsinoma sel peralihan bukan papilari pundi kencing (tahap bukti L5). Indikasi asal: Limfoma (Hodgkin dan bukan Hodgkin), kanser payudara wanita…"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Thiotepa: kegunaan diketahui dan status pasaran di Malaysia; kini tiada indikasi calon baharu"
+predicted_indications: []
 ---
 
 # Thiotepa
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **N/A** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,65 +32,48 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Thiotepa: Daripada Limfoma, Kanser Payudara dan Kanser Ovari kepada Karsinoma Sel Peralihan Bukan Papilari Pundi Kencing
+<!-- known-uses-page -->
+<!-- description: Thiotepa: kegunaan diketahui dan status pasaran di Malaysia; kini tiada indikasi calon baharu -->
+## Thiotepa: Kegunaan diketahui dan status pasaran di Malaysia
 {: .text-alpha }
 
-## Ringkasan Satu Ayat
+## Ringkasan
+Semua calon yang dihasilkan oleh model TxGNN untuk Thiotepa (skor ≥ 0.99) dan yang boleh dikesan kepada sumber ialah kegunaan yang sudah diketahui. Oleh itu, buat masa ini tiada indikasi baharu yang diramalkan untuk ubat ini.
 
-> Thiotepa ialah agen pengalkilan (*alkylating agent*) yang pada asalnya digunakan untuk merawat limfoma (termasuk limfoma Hodgkin dan bukan Hodgkin), kanser payudara dan kanser ovari.
-> Model TxGNN meramalkan ia mungkin berkesan untuk **karsinoma sel peralihan bukan papilari pundi kencing**, tetapi skor ramalan ialah **0.00%** dan pada masa ini **tiada ujian klinikal** atau **penerbitan** dalam data yang dikumpulkan untuk menyokong arah ini.
-
----
-
-## Gambaran Ringkas
-
+## Gambaran ringkas
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Limfoma (Hodgkin dan bukan Hodgkin), kanser payudara wanita, kanser ovari (berdasarkan graf pengetahuan TxGNN, kerana tiada lesen tempatan) |
-| Indikasi Baharu yang Diramalkan | Karsinoma sel peralihan bukan papilari pundi kencing |
-| Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L5 (ramalan model sahaja, tiada kajian sebenar) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Tahan) |
+| Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dikesan ialah kegunaan yang sudah diketahui) |
+| Kegunaan diketahui dalam kalangan calon model | 2 |
+| Tahap bukti | Tidak berkenaan |
+| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 
----
+## Kegunaan diketahui dalam kalangan calon model
 
-## Mengapa Ramalan Ini Munasabah?
-
-Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, thiotepa ialah agen pengalkilan yang membentuk ikatan silang pada DNA. Keberkesanannya dalam kanser ovari dan payudara serta beberapa limfoma sudah diterima. Secara mekanisme, ia mungkin boleh digunakan untuk kanser pundi kencing.
-
-Thiotepa secara sejarah pernah digunakan secara intravesikal (terus ke dalam pundi kencing) untuk kanser pundi kencing superfisial, jadi rasional farmakologi wujud. Namun, rasional ini belum disahkan oleh data lain. Skor TxGNN ialah 0.00% dan tiada ujian atau kajian dalam data yang dikumpulkan. Ramalan ini hanya berasaskan model dan pengetahuan sejarah, bukan bukti semasa.
-
----
-
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk indikasi ini.
-
----
-
-## Bukti Literatur
-
-Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi ini.
-
----
-
-## Sitotoksisiti
-
-Thiotepa ialah ubat antineoplastik. Maklumat di bawah ialah pengetahuan am bagi kelas ubat ini, bukan data khusus daripada pangkalan data yang dikumpulkan.
-
-| Perkara | Kandungan |
+### Diluluskan (disokong oleh lesen atau label)
+| Indikasi | Sumber |
 |------|------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (agen pengalkilan, kelas etilenimina) |
-| Risiko Mielosupresi | Tinggi (leukopenia, trombositopenia dan anemia diketahui berlaku; graf pengetahuan juga mencatatkan keadaan ini sebagai kontraindikasi) |
-| Klasifikasi Emetogenisiti | Rendah hingga sederhana (bergantung pada dos) |
-| Perkara Pemantauan | Kiraan darah lengkap (CBC dengan pembezaan), fungsi hati dan buah pinggang |
-| Perlindungan Pengendalian | Perlu mengikut garis panduan pengendalian ubat sitotoksik |
+| Tiada | Tiada |
 
-Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej untuk maklumat lanjut.
+### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+| Indikasi | Kategori yang diluluskan |
+|------|------|
+| Tiada | Tiada |
 
----
+### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+| Indikasi |
+|------|
+| Koriokarsinoma primer bukan gestasi ovari (primary non-gestational choriocarcinoma of ovary) |
+| Adenokarsinoma sel jernih ovari (ovarian clear cell adenocarcinoma) |
+
+## Market information
+
+| No. pendaftaran | Produk | Bentuk dos | Status |
+|------|------|------|------|
+| MAL23066003AZ | TEPADINA 400 mg powder and solvent for solution for infusion |  | Sah |
+| MAL23066002ACRZ | TEPADINA 100 mg powder for concentrate for solution for infu |  | Sah |
+| MAL23066001ACRZ | TEPADINA 15 mg powder for concentrate for solution for infus |  | Sah |
 
 ## Pertimbangan Keselamatan
 
@@ -105,20 +89,6 @@ Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi rasmi.
 
 ---
 
-## Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Hold (Tahan)**
-
-**Rasional:**
-- Indikasi ini hanya berasaskan ramalan model (skor 0.00%, tahap bukti L5) tanpa sebarang ujian klinikal atau literatur dalam data yang dikumpulkan. Thiotepa juga tidak dipasarkan di Malaysia. Walaupun rasional mekanisme munasabah dan penggunaan intravesikal sejarah wujud, bukti semasa tidak mencukupi untuk bergerak ke hadapan.
-- Sebagai perbandingan, calon lain dalam analisis yang sama (contohnya limfoma bukan Hodgkin, tahap L2 dengan beberapa ujian Fasa 2) mempunyai sokongan lebih kukuh. Indikasi tersebut sudah tersenarai antara indikasi asal, jadi ia bukan pengembangan indikasi yang baharu.
-
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Tinjauan literatur dan carian ujian klinikal khusus untuk thiotepa intravesikal dalam kanser pundi kencing
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
-- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (yang masih belum diperoleh dan menghalang penapisan keselamatan)
-- Pengesahan kebolehsediaan formulasi dan laluan pemberian (intravesikal) di Malaysia, memandangkan tiada produk berdaftar
-- Penilaian semula skor ramalan TxGNN dan kaitannya dengan indikasi asal
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

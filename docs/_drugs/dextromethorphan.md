@@ -4,17 +4,17 @@ title: Dextromethorphan
 parent: Low Evidence (L4-L5)
 nav_order: 275
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Dextromethorphan: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Indikasi asal: Rinitis alergik, rinitis vasomotor, faringitis, selesema biasa…"
 monitor_inn: "DEXTROMETHORPHAN"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria"]
+predicted_indications: ["nasal cavity disease", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria"]
+description: "Dextromethorphan: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Dextromethorphan
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **6** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-## Dextromethorphan: Daripada Rinitis Alergi kepada Penyakit Rongga Hidung
+## Dextromethorphan: Penyakit rongga hidung (nasal cavity disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Rinitis alergik, rinitis vasomotor, faringitis, selesema biasa, rinitis, nasofaringitis, gangguan sakit kepala (berdasarkan graf pengetahuan TxGNN, bukan label produk) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Penyakit rongga hidung (nasal cavity disease) |
-| Skor Ramalan TxGNN | 99.98% |
+| Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 45 daripada 45) |
+| Bilangan Pendaftaran | 45 (sah: 45) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,23 +62,22 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, dextromethorphan dikaitkan dengan beberapa keadaan rinitis dan saluran pernafasan atas, dan secara mekanistik mungkin berkaitan dengan penyakit rongga hidung. Namun hubungan ini tidak dapat disahkan.
 
-Analisis menunjukkan skor yang tinggi (0.9998) kemungkinan besar mencerminkan kedekatan dalam graf dengan indikasi sedia ada (rinitis alergik, rinitis vasomotor, rinitis, nasofaringitis), dan bukannya mekanisme baharu. Tindakan antitusif dextromethorphan (agonis sigma-1, antagonis NMDA) bukan mekanisme yang diiktiraf untuk merawat penyakit struktur atau radang hidung itu sendiri.
+Analisis menunjukkan skor yang tinggi (0.9998) datang daripada model TxGNN (deep learning) dan kemungkinan besar mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan dengan indikasi sedia ada (rinitis alergik, rinitis vasomotor, rinitis, nasofaringitis), bukan bukti biologi atau mekanisme baharu. Tindakan antitusif dextromethorphan (agonis sigma-1, antagonis NMDA) bukan mekanisme yang diiktiraf untuk merawat penyakit struktur atau radang hidung itu sendiri.
 
 ### Ramalan Lain dalam Senarai
 
 | Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Ulasan Ringkas |
 |------|------|------|------|------|
-| 2 | Laringofaringitis akut | 99.98% | L5 | Rapat dengan indikasi asal (faringitis, selesema); kelegaan batuk secara simptomatik mungkin relevan, tetapi bukan bukti keberkesanan mengubah penyakit |
-| 3 | Difteria faucial | 99.36% | L5 | Dextromethorphan tiada aktiviti antibakteria atau antitoksin; kemungkinan artifak kedekatan graf |
-| 4 | Sefalgia autonomik trigeminal | 99.32% | L5 | Paling munasabah secara biologi (antagonisme NMDA dan modulasi sigma-1 dalam sensitisasi pusat dan sakit); perlu kajian literatur terfokus |
-| 5 | Gangguan degeneratif cakera serviks | 99.30% | L5 | Hubungan spekulatif melalui sakit neuropatik; tidak dijangka mengubah degenerasi cakera |
-| 6 | Urtikaria alergik | 99.25% | L5 | Dextromethorphan bukan antihistamin dan tiada kesan penstabil sel mast yang mantap |
+| 2 | Laringofaringitis akut | 0.9998 | L5 | Rapat dengan indikasi asal (faringitis, selesema); kelegaan batuk secara simptomatik mungkin relevan, tetapi bukan bukti keberkesanan mengubah penyakit |
+| 3 | Difteria faucial | 0.9936 | L5 | Dextromethorphan tiada aktiviti antibakteria atau antitoksin; skor ini datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi |
+| 4 | Sefalgia autonomik trigeminal | 0.9932 | L5 | Paling munasabah secara biologi (antagonisme NMDA dan modulasi sigma-1 dalam sensitisasi pusat dan sakit); perlu kajian literatur terfokus |
+| 5 | Gangguan degeneratif cakera serviks | 0.9930 | L5 | Hubungan spekulatif melalui sakit neuropatik; tidak dijangka mengubah degenerasi cakera |
+| 6 | Urtikaria alergik | 0.9925 | L5 | Dextromethorphan bukan antihistamin dan tiada kesan penstabil sel mast yang mantap |
 
 ---
 
 ## Maklumat Pasaran di Malaysia
 
-Dextromethorphan pada masa ini tidak dipasarkan di Malaysia berdasarkan data yang dikumpulkan, dan tiada pendaftaran direkodkan.
 
 ---
 
@@ -99,7 +98,6 @@ Maklumat amaran dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila r
 
 **Justifikasi:**
 - Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur, dan skor tinggi kemungkinan besar mencerminkan pertindihan dengan indikasi sedia ada, bukan isyarat repurposing sebenar.
-- Ubat ini tidak dipasarkan di Malaysia, dan data keselamatan daripada sisipan pakej belum tersedia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)

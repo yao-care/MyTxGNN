@@ -8,6 +8,7 @@ nav_order: 578
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Piracetam
@@ -51,8 +52,8 @@ Penilaian penyusunan semula yang lengkap **tidak dapat dilakukan** sehingga jura
 | Petunjuk Baharu yang Diramalkan | Tiada (ramalan TxGNN belum dijana) |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | T/A — tiada data ramalan tersedia |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 9 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan yang Dicadangkan | **Tangguh** |
 
 ---

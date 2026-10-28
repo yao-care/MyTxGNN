@@ -6,9 +6,9 @@ nav_order: 376
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Framycetin: indikasi baharu diramal Sclerosing cholangitis (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA yang direkodkan)"
 monitor_inn: "framycetin"
 predicted_indications: ["sclerosing cholangitis", "urinary tract infection (disease)", "congenital prothrombin deficiency", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis"]
+description: "Framycetin: indikasi baharu diramal Sclerosing cholangitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Framycetin
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-## Framycetin: Daripada Antibiotik Aminoglikosida kepada Sclerosing Cholangitis
+## Framycetin: Sclerosing cholangitis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **sclerosing cholangitis**, tet
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen NPRA yang direkodkan) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Sclerosing cholangitis |
-| Skor Ramalan TxGNN | 99.66% |
+| Skor Ramalan TxGNN | 0.9966 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -63,7 +63,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) asal tidak tersedia pada masa 
 
 Kaitan yang mungkin tetapi belum terbukti ialah pemodulatan mikrobiota usus. Primary sclerosing cholangitis (PSC) dikaitkan dengan disbiosis usus (paksi usus-hati). Vankomisin oral mempunyai sedikit bukti sokongan dalam PSC, tetapi tiada bukti yang menyokong framycetin secara khusus.
 
-Oleh sebab MOA asal tidak dapat disahkan dan tiada kajian klinikal atau literatur dibekalkan, skor tinggi (0.997) ini hanya ramalan model dan tidak boleh dianggap sebagai bukti keberkesanan.
+Oleh sebab MOA asal tidak dapat disahkan dan tiada kajian klinikal atau literatur dibekalkan, skor tinggi (0.9966) ini hanya ramalan model dan tidak boleh dianggap sebagai bukti keberkesanan.
 
 ### Ramalan Lain daripada Model
 
@@ -71,12 +71,12 @@ Indikasi lain yang diramalkan, semuanya pada tahap bukti L5 dengan keputusan Hol
 
 | Kedudukan | Penyakit | Skor TxGNN | Penilaian Kebolehjelasan |
 |------|------|------|------|
-| 2 | Jangkitan saluran kencing | 99.42% | Munasabah dari segi biologi (aktiviti terhadap Gram-negatif), tetapi penggunaan sistemik/oral terhad oleh penyerapan lemah serta nefrotoksisiti dan ototoksisiti; terdapat alternatif mantap |
-| 3 | Kekurangan protrombin kongenital | 99.41% | Tiada kaitan mekanisme yang munasabah; kemungkinan besar positif palsu akibat artifak graf |
-| 4 | Uretritis Ureaplasma | 99.28% | Kaitan lemah; Ureaplasma tiada dinding sel dan lazimnya dirawat dengan tetrasiklin atau makrolid |
-| 5 | Uretritis gonokokus | 99.28% | Ada rasional peringkat kelas (aminoglikosida), tetapi garis panduan semasa bergantung pada agen lain kerana rintangan |
-| 6 | Penyakit radang uterus | 99.18% | Ada rasional peringkat kelas (cth. gentamisin dengan klindamisin), tetapi masih hipotesis |
-| 7 | Pielonefritis xantogranulomatosa | 99.18% | Rawatan utama biasanya pembedahan; nefrotoksisiti menjadi kebimbangan pada buah pinggang yang rosak |
+| 2 | Jangkitan saluran kencing | 0.9942 | Munasabah dari segi biologi (aktiviti terhadap Gram-negatif), tetapi penggunaan sistemik/oral terhad oleh penyerapan lemah serta nefrotoksisiti dan ototoksisiti; terdapat alternatif mantap |
+| 3 | Kekurangan protrombin kongenital | 0.9941 | Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi |
+| 4 | Uretritis Ureaplasma | 0.9928 | Kaitan lemah; Ureaplasma tiada dinding sel dan lazimnya dirawat dengan tetrasiklin atau makrolid |
+| 5 | Uretritis gonokokus | 0.9928 | Ada rasional peringkat kelas (aminoglikosida), tetapi garis panduan semasa bergantung pada agen lain kerana rintangan |
+| 6 | Penyakit radang uterus | 0.9918 | Ada rasional peringkat kelas (cth. gentamisin dengan klindamisin), tetapi masih hipotesis |
+| 7 | Pielonefritis xantogranulomatosa | 0.9918 | Rawatan utama biasanya pembedahan; nefrotoksisiti menjadi kebimbangan pada buah pinggang yang rosak |
 
 ---
 
@@ -94,7 +94,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Framycetin pada masa ini **tidak dipasarkan** di Malaysia dan tiada lesen didaftarkan dengan NPRA (0 pendaftaran).
 
 ---
 
@@ -111,7 +110,7 @@ Sebagai nota am peringkat kelas, aminoglikosida diketahui boleh menyebabkan nefr
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Semua ramalan hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur. Ubat ini juga tidak dipasarkan di Malaysia, dan data keselamatan serta MOA tidak lengkap.
+- Semua ramalan hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur.
 - Skor TxGNN yang tinggi tidak menggantikan bukti klinikal. Sebahagian ramalan (cth. kekurangan protrombin kongenital) kemungkinan besar positif palsu.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

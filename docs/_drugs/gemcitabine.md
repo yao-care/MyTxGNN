@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Gemcitabine
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 382
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Gemcitabine: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L1). Indikasi asal: Kanser ovari (berdasarkan graf pengetahuan TxGNN"
+evidence_level: L5
+indication_count: 8
 monitor_inn: "Gemcitabine"
-predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
+predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
+last_modified_at: 2026-10-23
+description: "Gemcitabine: indikasi baharu diramal Adenokarsinoma mukinus rektum (tahap bukti L5). Indikasi asal: Kanser ovari (hubungan yang direkodkan dalam graf pengetahuan"
 ---
 
 # Gemcitabine
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,12 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-## Gemcitabine: Daripada Kanser Ovari kepada Karsinoma Payudara Wanita
+## Gemcitabine: Daripada Kanser Ovari kepada Adenokarsinoma Mukinus Rektum
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Gemcitabine ialah ubat kemoterapi analog nukleosida yang pada asalnya digunakan untuk merawat kanser ovari.
-Model TxGNN meramalkan ia mungkin berkesan untuk **karsinoma payudara wanita (female breast carcinoma)**,
-dengan **36 ujian klinikal** dan **20 penerbitan** yang dikumpulkan dalam data untuk arah ini. Daripada jumlah itu, hanya beberapa ujian yang mengkaji gemcitabine secara langsung dalam kanser payudara.
+Gemcitabine ialah ubat sitotoksik (analog nukleosida) yang, menurut hubungan yang direkodkan dalam graf pengetahuan, dikaitkan dengan kanser ovari dan jenis-jenis kecil kanser ovari. Model TxGNN meramalkan ia mungkin berkesan untuk **adenokarsinoma mukinus rektum** dengan skor sangat tinggi (0.9977). Namun, **tiada satu pun ujian klinikal atau penerbitan** ditemui yang mengkaji penyakit ini secara langsung, jadi ramalan ini masih pada peringkat model sahaja.
 
 ---
 
@@ -48,69 +46,48 @@ dengan **36 ujian klinikal** dan **20 penerbitan** yang dikumpulkan dalam data u
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Kanser ovari (berdasarkan graf pengetahuan TxGNN; tiada indikasi berdaftar tempatan) |
-| Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita (female breast carcinoma) |
-| Skor Ramalan TxGNN | 99.98% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+| Indikasi Asal | Kanser ovari (hubungan yang direkodkan dalam graf pengetahuan; teks indikasi lesen tempatan tidak tersedia) |
+| Indikasi Baharu yang Diramalkan | Adenokarsinoma mukinus rektum |
+| Skor Ramalan TxGNN | 0.9977 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 16) |
+| Bilangan Pendaftaran | 16 (sah: 16) |
+| Bilangan Kelulusan | 16 pendaftaran (semua produk bahan tunggal, sah) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) belum tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, gemcitabine ialah analog nukleosida (pirimidina) yang diketahui menghalang sintesis DNA dan enzim ribonukleotida reduktase. Mekanisme sitotoksik ini terpakai kepada sel tumor yang membahagi dengan pantas, termasuk tumor payudara.
+Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, gemcitabine ialah analog nukleosida yang menghalang sintesis DNA dan enzim ribonukleotida reduktase. Mekanisme sitotoksik am ini secara teorinya boleh terpakai kepada pelbagai adenokarsinoma, termasuk adenokarsinoma mukinus rektum.
 
-Kanser ovari dan kanser payudara kedua-duanya ialah karsinoma epitelium, dan skor TxGNN yang sangat tinggi (0.9998) menyokong kesesuaian ini. Gemcitabine bersama paclitaxel juga merupakan regimen yang telah mantap dalam kanser payudara metastatik, dan ujian Fasa 3 yang selesai (NCT00006459) menguji gabungan ini secara langsung.
-
-Sebagai nota, ubat ini berstatus "tidak dipasarkan" di Malaysia, maka status label dan pendaftaran perlu disahkan sebelum sebarang syor dibuat.
+Walau bagaimanapun, rasional ini bersifat umum. Tiada mekanisme khusus untuk histologi mukinus disokong oleh data yang dikumpulkan. Skor TxGNN yang tinggi hanyalah ramalan pengiraan dan tidak boleh dianggap sebagai bukti keberkesanan klinikal.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Daripada 36 ujian yang dikumpulkan, berikut ialah ujian yang paling relevan (gred relevansi A dan B, serta beberapa ujian Fasa 3 dan Fasa 2 yang menguji gemcitabine dalam kanser payudara):
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00006459](https://clinicaltrials.gov/study/NCT00006459) | Fasa 3 | Selesai | Tiada maklumat | Paclitaxel dengan atau tanpa gemcitabine dalam kanser payudara lanjutan/metastatik |
-| [NCT00093795](https://clinicaltrials.gov/study/NCT00093795) | Fasa 3 | Selesai | 4894 | Tiga regimen kemoterapi adjuvan dalam kanser payudara nodus positif, termasuk paclitaxel + gemcitabine |
-| [NCT00408408](https://clinicaltrials.gov/study/NCT00408408) | Fasa 3 | Tidak diketahui | 1206 | Penambahan capecitabine atau gemcitabine kepada docetaxel secara neoadjuvan |
-| [NCT00039546](https://clinicaltrials.gov/study/NCT00039546) | Fasa 3 | Tidak diketahui | Tiada maklumat | Percubaan "tAnGo": gemcitabine ditambah kepada kemoterapi berasaskan paclitaxel-epirubicin untuk kanser payudara awal |
-| [NCT00070278](https://clinicaltrials.gov/study/NCT00070278) | Fasa 3 | Tidak diketahui | 800 | Kemoterapi neoadjuvan berjujukan dengan paclitaxel ± gemcitabine |
-| [NCT00006007](https://clinicaltrials.gov/study/NCT00006007) | Fasa 2 | Selesai | 59 | Pemetrexed + gemcitabine dalam kanser payudara metastatik |
-| [NCT00005991](https://clinicaltrials.gov/study/NCT00005991) | Fasa 2 | Selesai | 76 | Gemcitabine + doxorubicin liposom dalam kanser payudara metastatik |
-| [NCT00110084](https://clinicaltrials.gov/study/NCT00110084) | Fasa 2 | Selesai | 50 | Nab-paclitaxel mingguan + gemcitabine dalam kanser payudara metastatik |
-| [NCT00003540](https://clinicaltrials.gov/study/NCT00003540) | Fasa 2 | Selesai | 30 | Gemcitabine tunggal pada kanser payudara metastatik yang pernah dirawat dengan doxorubicin dan paclitaxel |
-| [NCT00244933](https://clinicaltrials.gov/study/NCT00244933) | Fasa 2 | Selesai | 19 | Gemcitabine + genistein dalam kanser payudara metastatik (sangat kecil) |
-
-Catatan: ramai peserta dalam ujian ini adalah kecil, dan data keputusan tidak disertakan dalam rekod yang dikumpulkan.
+Setakat ini tiada ujian klinikal berkaitan yang didaftarkan untuk adenokarsinoma mukinus rektum.
 
 ---
 
 ## Bukti Literatur
 
-Kebanyakan literatur ialah ulasan dan kajian praklinikal. Tiada RCT dalam senarai yang dikumpulkan.
-
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [15685819](https://pubmed.ncbi.nlm.nih.gov/15685819/) | 2004 | Ulasan | Oncology (Williston Park) | Gemcitabine dan paclitaxel aktif dalam kanser payudara metastatik; kadar respons kira-kira 52% dalam ujian Fasa 2 |
-| [15685821](https://pubmed.ncbi.nlm.nih.gov/15685821/) | 2004 | Ulasan | Oncology (Williston Park) | Gemcitabine dengan platinum memberi manfaat klinikal dalam kanser payudara metastatik |
-| [15685820](https://pubmed.ncbi.nlm.nih.gov/15685820/) | 2004 | Ulasan | Oncology (Williston Park) | Gabungan gemcitabine dan docetaxel dalam kanser payudara metastatik |
-| [14768404](https://pubmed.ncbi.nlm.nih.gov/14768404/) | 2003 | Ulasan | Oncology (Williston Park) | Gabungan gemcitabine, antrasiklin dan taksan dalam kanser payudara lanjutan |
-| [12138397](https://pubmed.ncbi.nlm.nih.gov/12138397/) | 2002 | Ulasan | Seminars in Oncology | Gemcitabine tunggal memberi kadar respons 16%–37% dalam kanser payudara metastatik |
-| [14754469](https://pubmed.ncbi.nlm.nih.gov/14754469/) | 2004 | Ulasan | Clinical Breast Cancer | Gabungan gemcitabine dan trastuzumab dalam kanser payudara HER2 positif |
-| [40779028](https://pubmed.ncbi.nlm.nih.gov/40779028/) | 2025 | Kajian klinikal Fasa I | Breast Cancer Res Treat | Carboplatin, gemcitabine dan mifepristone dalam kanser payudara lanjutan dan kanser ovari berulang |
-| [32072346](https://pubmed.ncbi.nlm.nih.gov/32072346/) | 2020 | Praklinikal | Pharmaceutical Research | Gemcitabine dan curcumin dalam nanozarah PLGA untuk adenokarsinoma payudara |
-| [40396269](https://pubmed.ncbi.nlm.nih.gov/40396269/) | 2025 | Praklinikal | Nanoscale Horizons | Penghantaran pirarubicin-gemcitabine melalui nanozarah untuk terapi payudara sinergistik |
-| [12057039](https://pubmed.ncbi.nlm.nih.gov/12057039/) | 2002 | Praklinikal | Clinical Breast Cancer | Kajian gemcitabine dan trastuzumab dalam titisan sel payudara dan paru-paru |
+Setakat ini tiada literatur berkaitan yang tersedia untuk adenokarsinoma mukinus rektum.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Pada masa ini tiada pendaftaran gemcitabine yang direkodkan di Malaysia (status: tidak dipasarkan).
+Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Senarai di bawah menunjukkan 5 daripada 16 pendaftaran.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL16075027AZ | GEMTERO 1g (Gemcitabine for Injection 1g) | – | – |
+| MAL16075028AZ | GEMTERO 200 mg (Gemcitabine for Injection 200 mg) | – | – |
+| MAL22106016AZ | JOCITAM (Gemcitabine for Injection, USP 1g/vial) | – | – |
+| MAL23046013AZ | GEMCIT SPAL-P 200 (200 mg/vial) | – | – |
+| MAL08042477AZ | GEMITA for Injection 1G | – | – |
 
 ---
 
@@ -118,57 +95,54 @@ Pada masa ini tiada pendaftaran gemcitabine yang direkodkan di Malaysia (status:
 
 | Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (analog nukleosida / antimetabolit pirimidina) |
-| Risiko Penindasan Sumsum Tulang | Tinggi hingga sederhana (graf pengetahuan mengaitkan ubat ini dengan trombositopenia, leukopenia dan anemia) |
-| Klasifikasi Emetogenisiti | Rendah hingga sederhana (mengikut kategori ubat) |
-| Item Pemantauan | Hitung darah lengkap (CBC dengan pembezaan), fungsi hati dan buah pinggang |
-| Perlindungan Pengendalian | Perlu mengikut peraturan pengendalian ubat sitotoksik |
-
-Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej untuk maklumat terperinci.
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (analog nukleosida / antimetabolit) |
+| Risiko Penekanan Sumsum Tulang | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej. Graf pengetahuan mencatatkan hubungan kontraindikasi dengan trombositopenia, leukopenia dan anemia |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
+| Item Pemantauan | Hitung darah lengkap (CBC), fungsi hati dan buah pinggang |
+| Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Penyakit yang dikaitkan dengan kontraindikasi dalam graf pengetahuan** (bukan teks label rasmi): penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, trombositopenia, leukopenia, anemia (termasuk anemia makrositik), penyakit paru-paru interstisial, penyakit berjangkit, piouretra, serta sindrom hemolitik-uremik (termasuk jenis tipikal).
-- **Interaksi Ubat**: Pangkalan data interaksi mengesan 100 interaksi. Antara yang bertahap diketahui: **sederhana** dengan naltrexone, dan **minor** dengan levofloxacin. Banyak lagi interaksi (contohnya omeprazole, pantoprazole, metformin, morphine, prednisone, simvastatin, aprepitant) belum dikelaskan tahapnya.
-- **Laporan kes berkaitan**: retinopati akibat gemcitabine (PMID 28961673) dilaporkan sebagai kejadian buruk.
+- **Kontraindikasi/keadaan yang direkodkan dalam graf pengetahuan** (bukan teks label): penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, trombositopenia, leukopenia, anemia (termasuk anemia makrositik), penyakit paru-paru interstisial, sindrom uremik hemolitik, pyoureter, dan penyakit berjangkit.
+- **Interaksi Ubat**: 100 interaksi direkodkan. Antara yang dinilai tahap *Sederhana* ialah naltrexone; tahap *Kecil* ialah levofloxacin. Selebihnya (cth. calcitriol, doxycycline, pantoprazole, metformin, omeprazole, vancomycin, prednisone, simvastatin, aprepitant) bertahap tidak diketahui.
 
-Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
+Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
+**Keputusan: Hold (Tahan)**
 
-**Justifikasi:**
-- Beberapa ujian Fasa 3 yang selesai (contohnya NCT00006459 dan NCT00093795) dan banyak ujian Fasa 2 menguji gemcitabine secara langsung dalam kanser payudara, dan gabungan gemcitabine-paclitaxel diterima sebagai regimen dalam kanser payudara metastatik. Namun, ubat ini tidak dipasarkan di Malaysia dan data keselamatan rasmi belum lengkap.
+**Rasional:**
+- Tiada ujian klinikal atau penerbitan yang mengkaji adenokarsinoma mukinus rektum secara langsung, maka tahap bukti ialah L5 (ramalan model sahaja). Skor tinggi tidak menggantikan bukti klinikal.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA (amaran dan kontraindikasi) untuk menyemak keselamatan; ini merupakan jurang data yang menyekat.
-- Data terperinci mekanisme tindakan (MOA) daripada DrugBank.
-- Pengesahan status pendaftaran dan ketersediaan produk di Malaysia.
-- Keputusan ujian Fasa 3 (khususnya NCT00006459, yang tiada maklumat pendaftaran) serta pengesahan peranan gemcitabine dalam ujian bergred C.
-- Pelan pemantauan hematologi dan keselamatan untuk populasi khusus (gangguan hati atau buah pinggang).
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Teks indikasi diluluskan bagi lesen tempatan
+- Kajian praklinikal atau klinikal yang menilai gemcitabine secara langsung dalam adenokarsinoma mukinus rektum/kolorektal
+- Penilaian laluan pentadbiran dan kesesuaian dengan indikasi baharu
 
 ---
 
-## Ringkasan Indikasi Lain yang Diramalkan
+## Nota Tambahan: Indikasi Lain yang Diramalkan
 
-| Peringkat | Indikasi | Skor TxGNN | Tahap Bukti | Syor |
-|------|------|------|------|------|
-| 2 | Adenokarsinoma musinus rektum | 99.77% | L5 | Hold |
-| 3 | Adenokarsinoma musinus kolon | 99.76% | L4 | Hold |
-| 4 | Adenokarsinoma endometrioid villoglandular endometrium | 99.76% | L5 | Hold |
-| 5 | Adenokarsinoma campuran endometrium | 99.76% | L3 | Research Question |
-| 6 | Adenokarsinoma musinus endometrium | 99.75% | L3 | Research Question |
-| 7 | Adenokarsinoma musinus serviks | 99.75% | L3 | Research Question |
-| 8 | Adenokarsinoma musinus pundi hempedu | 99.75% | L4 | Hold |
-| 9 | Adenokarsinoma rete ovarii | 99.73% | L5 | Hold |
-| 10 | Adenokarsinoma endometrioid sekretori korpus uterus | 99.73% | L5 | Hold |
+Ramalan lain dalam kedudukan teratas (tiada tahap bukti melebihi L3):
 
-Indikasi-indikasi ini kebanyakannya disokong oleh ramalan model sahaja atau bukti tidak langsung (laporan kes), dan tidak mempunyai ujian khusus untuk subjenis berkenaan.
+| Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Ringkasan |
+|---|---|---|---|---|
+| 2 | Adenokarsinoma mukinus kolon | 0.9976 | L5* | Dua laporan kes tidak khusus kepada kolon; tiada bukti langsung |
+| 3 | Adenokarsinoma endometrioid endometrium villoglandular | 0.9976 | L5 | Tiada ujian atau literatur |
+| 4 | Adenokarsinoma campuran endometrium | 0.9976 | L5* | Kajian retrospektif MSKCC (PMID 22635030) tentang kanser endometrium lanjutan; bukan khusus subjenis |
+| 5 | Adenokarsinoma mukinus endometrium | 0.9975 | L5* | NCT01652794 (Fasa 1, n=12) dan literatur kanser ovari; tidak langsung |
+| 6 | Adenokarsinoma mukinus serviks | 0.9975 | L5* | NCT01652794; literatur tidak khusus kepada serviks |
+| 7 | Adenokarsinoma mukinus pundi hempedu | 0.9975 | L5* | Hanya laporan kes; tiada ujian |
+| 8 | Adenokarsinoma endometrioid endometrium kaya mukin | 0.9973 | L5 | Tiada ujian atau literatur |
+
+*Tahap bukti diturunkan kepada L5 kerana tiada kajian yang disenaraikan mengkaji penyakit tersebut secara langsung (hanya keadaan berkaitan). Keputusan bagi semua ramalan ini ialah Hold.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

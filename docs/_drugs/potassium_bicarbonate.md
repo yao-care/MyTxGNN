@@ -6,9 +6,9 @@ nav_order: 591
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Potassium Bicarbonate: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Penyakit ulser peptik, kekurangan kalium, GERD, esofagitis…"
 monitor_inn: "POTASSIUM BICARBONATE"
 predicted_indications: ["gastroduodenitis"]
+description: "Potassium Bicarbonate: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Potassium Bicarbonate
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Kalium Bikarbonat: Daripada Penyakit Ulser Peptik kepada Gastroduodenitis
+## Potassium Bicarbonate: Gastroduodenitis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit ulser peptik, kekurangan kalium, GERD, esofagitis, esofagitis peptik, dispepsia |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Gastroduodenitis |
-| Skor Ramalan TxGNN | 99.72% |
+| Skor Ramalan TxGNN | 0.9972 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,9 +62,9 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 Data terperinci mengenai mekanisme tindakan (MOA) kalium bikarbonat tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, kalium bikarbonat berfungsi sebagai agen pengalkali dan penimbal seakan antasid, yang boleh meneutralkan asid gastrik dan mengurangkan kerengsaan mukosa.
 
-Indikasi asalnya (ulser peptik, GERD, esofagitis, dispepsia) ialah keadaan saluran gastrousus atas yang berkaitan dengan asid. Gastroduodenitis bersebelahan dari segi anatomi dan patofisiologi dengan keadaan ini, dan ini mungkin menjelaskan skor TxGNN yang sangat tinggi (0.997).
+Indikasi asalnya (ulser peptik, GERD, esofagitis, dispepsia) ialah keadaan saluran gastrousus atas yang berkaitan dengan asid. Gastroduodenitis bersebelahan dari segi anatomi dan patofisiologi dengan keadaan ini, dan ini mungkin menjelaskan skor TxGNN yang sangat tinggi (0.9972).
 
-Namun, kaitan ini bersifat inferens sahaja dan tidak disokong oleh sebarang percubaan atau kajian yang diterbitkan dalam data yang dikumpulkan. Skor tersebut mencerminkan kedekatan dengan indikasi sedia ada dalam graf pengetahuan, jadi ia menambah sedikit sahaja bukti bebas.
+Namun, kaitan ini bersifat inferens sahaja dan tidak disokong oleh sebarang percubaan atau kajian yang diterbitkan dalam data yang dikumpulkan. Skor tersebut datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi, jadi ia menambah sedikit sahaja bukti bebas.
 
 ---
 
@@ -82,7 +82,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Kalium bikarbonat tidak dipasarkan di Malaysia dan tiada pendaftaran (lesen) dalam data yang dikumpulkan untuk laporan ini.
 
 ---
 
@@ -102,7 +101,7 @@ Untuk amaran dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan pakej
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur, dan produk ini tidak dipasarkan di Malaysia. Skor yang tinggi terutamanya mencerminkan kedekatan dengan indikasi sedia ada, bukan bukti bebas.
+- Skor yang tinggi terutamanya mencerminkan kedekatan dengan indikasi sedia ada, bukan bukti bebas.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pakej (data ini menghalang saringan keselamatan peringkat seterusnya)

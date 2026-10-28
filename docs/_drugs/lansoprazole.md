@@ -3,18 +3,18 @@ layout: default
 title: Lansoprazole
 parent: Low Evidence (L4-L5)
 nav_order: 445
-evidence_level: L4
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Lansoprazole: indikasi baharu diramal Refluks duodenogastrik (duodenogastric reflux) (tahap bukti L4). Indikasi asal: Ulser gastrik, penyakit ulser peptik, GERD, esofagitis…"
 monitor_inn: "LANSOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
+description: "Lansoprazole: indikasi baharu diramal Duodenal obstruction (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Lansoprazole
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **2** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-## Lansoprazole: Daripada Penyakit Ulser Gastrik kepada Refluks Duodenogastrik
+## Lansoprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini terdapat **0 percubaan klinikal** dan hanya **1 penerbitan** 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Ulser gastrik, penyakit ulser peptik, GERD, esofagitis, ulser duodenum, sindrom Zollinger-Ellison (daripada graf pengetahuan TxGNN/PrimeKG) |
-| Indikasi Baharu yang Diramalkan | Refluks duodenogastrik (duodenogastric reflux) |
-| Skor Ramalan TxGNN | 99.69% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Duodenal obstruction |
+| Skor Ramalan TxGNN | 0.9968 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---
@@ -62,7 +62,7 @@ tetapi setakat ini terdapat **0 percubaan klinikal** dan hanya **1 penerbitan** 
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat sedia ada, lansoprazole tergolong dalam kelas perencat pam proton yang menyekat rembesan asid gastrik. Keberkesanannya dalam GERD, esofagitis dan penyakit ulser peptik telah terbukti, dan secara mekanistik ia mungkin boleh digunakan untuk refluks duodenogastrik.
 
-Refluks duodenogastrik (refluks hempedu dan kandungan duodenum ke dalam perut) berkait rapat dari segi patofisiologi dengan gangguan saluran gastrousus atas berkaitan asid yang telah menjadi indikasi lansoprazole. Ini menjadikan skor TxGNN yang tinggi (0.997) boleh diterima.
+Refluks duodenogastrik (refluks hempedu dan kandungan duodenum ke dalam perut) berkait rapat dari segi patofisiologi dengan gangguan saluran gastrousus atas berkaitan asid yang telah menjadi indikasi lansoprazole. Ini menjadikan skor TxGNN yang tinggi (0.9968) boleh diterima.
 
 Namun, penekanan asid tidak menangani refluks hempedu itu sendiri. Sebarang manfaat berkemungkinan bersifat tidak langsung, contohnya mengurangkan kerosakan mukosa akibat pendedahan gabungan asid dan hempedu serta melegakan gejala. Pautan ini bergantung pada farmakologi PPI secara umum dan bukan pada bukti khusus.
 
@@ -113,7 +113,7 @@ Untuk maklumat amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 ### Lampiran: Ramalan Kedua (Pertimbangan Tambahan)
 
-Ramalan kedua, **obstruksi duodenum** (skor TxGNN 99.68%, tahap bukti L5, keputusan Hold), tidak mempunyai sebarang percubaan klinikal atau literatur sokongan. Skor tinggi itu berkemungkinan mencerminkan kedekatan rangkaian dengan ulser duodenum, bukan mekanisme terapeutik sebenar. Obstruksi duodenum biasanya bersifat mekanikal dan dirawat secara pembedahan atau endoskopi. Penekanan asid paling banyak hanya berfungsi sebagai tambahan untuk komplikasi berkaitan ulser, dan ini bukan kesan penggunaan semula ubat.
+Ramalan kedua, **obstruksi duodenum** (skor TxGNN 0.9968, tahap bukti L5, keputusan Hold), tidak mempunyai sebarang percubaan klinikal atau literatur sokongan. Skor tinggi itu berkemungkinan mencerminkan kedekatan rangkaian dengan ulser duodenum, bukan mekanisme terapeutik sebenar. Obstruksi duodenum biasanya bersifat mekanikal dan dirawat secara pembedahan atau endoskopi. Penekanan asid paling banyak hanya berfungsi sebagai tambahan untuk komplikasi berkaitan ulser, dan ini bukan kesan penggunaan semula ubat.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

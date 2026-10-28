@@ -4,17 +4,17 @@ title: Nitric Oxide
 parent: Low Evidence (L4-L5)
 nav_order: 527
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Nitric Oxide: indikasi baharu diramal Sindrom malformasi dengan komponen gigi dan/atau periodontium (tahap bukti L5). Indikasi asal: Hipertensi pulmonari (juga displasia kapilari alveolar kongenital …"
+indication_count: 9
 monitor_inn: "NITRIC OXIDE"
-predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with connective tissue disease", "pulmonary arterial hypertension associated with HIV infection"]
+predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with connective tissue disease"]
+last_modified_at: 2026-10-23
+description: "Nitric Oxide: indikasi baharu diramal Sindrom malformasi dengan komponen gigi dan/atau periodontium (tahap bukti L5). Indikasi asal: Hipertensi pulmonari (hubungan yang direkodkan dalam graf penget…"
 ---
 
 # Nitric Oxide
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,89 +33,84 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Nitrik Oksida: Daripada Hipertensi Pulmonari kepada Sindrom Malformasi dengan Komponen Gigi dan/atau Periodontium
+## Nitric Oxide: Dari Hipertensi Pulmonari kepada Sindrom malformasi dengan komponen gigi dan/atau periodontium
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Nitrik oksida pada asalnya digunakan untuk merawat hipertensi pulmonari, displasia kapilari alveolar kongenital dan sindrom peredaran janin yang berterusan.
-Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom malformasi dengan komponen gigi dan/atau periodontium**, tetapi pada masa ini terdapat **0 ujian klinikal** dan **20 penerbitan** yang hanya berkaitan secara tidak langsung, jadi ramalan ini belum mempunyai sokongan klinikal.
+Nitric oxide ialah gas perubatan yang dalam graf pengetahuan direkodkan berkaitan dengan hipertensi pulmonari, displasia kapilari alveolar kongenital dan sindrom peredaran janin yang berterusan. Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom malformasi dengan komponen odontal dan/atau periodontal**. Namun, **tiada ujian klinikal** dan **tiada kajian yang mengkaji penyakit ini secara langsung** dalam data yang dihimpunkan untuk laporan ini.
 
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hipertensi pulmonari (juga displasia kapilari alveolar kongenital dan sindrom peredaran janin yang berterusan), berdasarkan graf pengetahuan TxGNN |
-| Indikasi Baharu yang Diramalkan | Sindrom malformasi dengan komponen gigi dan/atau periodontium |
-| Skor Ramalan TxGNN | 99.57% |
+| Indikasi Asal | Hipertensi pulmonari (hubungan yang direkodkan dalam graf pengetahuan; teks indikasi lesen tempatan tidak tersedia) |
+| Indikasi Baharu yang Diramalkan | Sindrom malformasi dengan komponen odontal dan/atau periodontal |
+| Skor Ramalan TxGNN | 0.9957 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
+| Bilangan Lesen Berdaftar | 1 |
 | Keputusan Disyorkan | Hold |
-
----
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data terperinci tentang mekanisme tindakan tidak tersedia. Nitrik oksida diketahui sebagai vasodilator pulmonari terpilih, dan keberkesanannya dalam hipertensi pulmonari telah dibuktikan. Namun, tiada asas mekanistik yang jelas untuk menjelaskan kegunaannya dalam sindrom malformasi yang melibatkan gigi dan periodontium.
+Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, nitric oxide ialah molekul isyarat dengan peranan fisiologi yang luas. Skor ramalan datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Secara mekanistik, ia mungkin berkaitan dengan keadaan lain yang melibatkan tisu vaskular dan keradangan, tetapi ini belum dibuktikan untuk indikasi baharu ini.
 
-Data yang dikumpulkan menunjukkan bahawa nitrik oksida mempunyai peranan yang munasabah dalam keradangan mulut dan dalam mikrobiom mulut yang menghasilkan nitrit. Hubungan ini hanya bersifat tidak langsung. Literatur yang diperoleh membincangkan model periodontitis, keradangan fibroblas gingiva dan ekstrak tumbuhan, bukan terapi nitrik oksida untuk sindrom malformasi. Skor TxGNN yang tinggi ialah ramalan komputasi tanpa data klinikal yang menyokong.
+Kajian yang diperoleh menunjukkan bahawa nitric oxide berperanan dalam keradangan gusi dan tindak balas perumah periodontal. Mikrobiom mulut juga mengambil bahagian dalam laluan nitrat-nitrit-nitric oxide. Walau bagaimanapun, kajian tersebut berkaitan dengan model periodontitis umum (kultur sel, tikus, ekstrak herba) dan bukan sindrom malformasi. Tiada hubungan langsung antara nitric oxide terhirup atau terapeutik dengan kategori sindrom ini.
 
----
+Skor TxGNN yang tinggi ini **tidak disokong oleh data klinikal**. Ia hanya ramalan model.
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
-
----
+Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Tiada RCT ditemui. Penerbitan di bawah dipilih daripada literatur yang diperoleh, dan semuanya hanya berkaitan secara tidak langsung.
+Semua kajian di bawah berkaitan periodontitis atau biologi nitric oxide secara umum. Tiada satu pun yang mengkaji sindrom malformasi yang diramalkan secara langsung.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [15505230](https://pubmed.ncbi.nlm.nih.gov/15505230/) | 2004 | Kajian semula | Journal of Dental Research | Asid hipoklorus dan taurine-N-monokloramina mengawal tindak balas keradangan dalam periodontitis kronik |
-| [41952916](https://pubmed.ncbi.nlm.nih.gov/41952916/) | 2026 | Kajian semula naratif | Journal of Dental Anesthesia and Pain Medicine | Peranan *Porphyromonas gingivalis* dalam modulasi kesakitan pada penyakit periodontium |
-| [42795495](https://pubmed.ncbi.nlm.nih.gov/42795495/) | 2026 | Kajian semula naratif | Microorganisms | Model mikrobiom mulut-hidung dan kesihatan sistemik |
-| [35574962](https://pubmed.ncbi.nlm.nih.gov/35574962/) | 2022 | Kohort | Journal of the American Heart Association | Keupayaan mikrobiom mulut menghasilkan dan menghabiskan nitrit dikaitkan dengan risiko kardiometabolik |
-| [24670812](https://pubmed.ncbi.nlm.nih.gov/24670812/) | 2014 | Analisis metagenomik | PLoS One | Bakteria pengurang nitrat dalam rongga mulut dan keseimbangan nitrik oksida |
-| [20646228](https://pubmed.ncbi.nlm.nih.gov/20646228/) | 2011 | Kajian sel | Oral Diseases | Vesikel *P. gingivalis* mendorong ekspresi iNOS dan penghasilan NO dalam makrofaj tikus |
-| [16881806](https://pubmed.ncbi.nlm.nih.gov/16881806/) | 2006 | Haiwan/In vitro | Journal of Periodontology | Proantosianidin biji anggur melindungi daripada tekanan oksidatif akibat LPS patogen periodontium |
-| [28387609](https://pubmed.ncbi.nlm.nih.gov/28387609/) | 2017 | Haiwan | Journal of Periodontology | Carvacrol mengurangkan kerosakan periodontium dalam model periodontitis tikus |
-| [36312752](https://pubmed.ncbi.nlm.nih.gov/36312752/) | 2022 | In vitro | PeerJ | Cystatin C mempunyai aktiviti antimikrob dan anti-radang pada fibroblas gingiva manusia |
-| [40430099](https://pubmed.ncbi.nlm.nih.gov/40430099/) | 2025 | In vitro | International Journal of Molecular Sciences | ATF3 mengawal penuaan sel dan osteoklastogenesis dalam sel ligamen periodontium manusia |
+| [35574962](https://pubmed.ncbi.nlm.nih.gov/35574962/) | 2022 | Kohort | J Am Heart Assoc | Keupayaan mikrobiom mulut menjana dan menghabiskan nitrit dikaitkan dengan risiko kardiometabolik |
+| [15505230](https://pubmed.ncbi.nlm.nih.gov/15505230/) | 2004 | Ulasan | J Dent Res | Peranan asid hipoklorus dan taurin-N-monokloramin dalam periodontitis kronik |
+| [36312752](https://pubmed.ncbi.nlm.nih.gov/36312752/) | 2022 | In vitro | PeerJ | Aktiviti antimikrob dan anti-radang Cystatin C pada fibroblas gusi manusia yang terdedah kepada P. gingivalis |
+| [40430099](https://pubmed.ncbi.nlm.nih.gov/40430099/) | 2025 | In vitro | Int J Mol Sci | ATF3 mengawal penuaan sel dan osteoklastogenesis dalam sel ligamen periodontal |
+| [27832944](https://pubmed.ncbi.nlm.nih.gov/27832944/) | 2017 | In vitro | Eur J Pharmacol | Caffeic acid phenethyl ester mengurangkan tindak balas keradangan fibroblas gusi |
+| [33308100](https://pubmed.ncbi.nlm.nih.gov/33308100/) | 2020 | In vitro | Am J Chin Med | Ekstrak akar Agrimonia pilosa mempunyai kesan anti-radang pada sel teraruh LPS |
+| [16881806](https://pubmed.ncbi.nlm.nih.gov/16881806/) | 2006 | Kajian haiwan | J Periodontol | Proantosianidin biji anggur melindungi daripada tekanan oksidatif akibat LPS patogen periodontal |
+| [28387609](https://pubmed.ncbi.nlm.nih.gov/28387609/) | 2017 | Kajian haiwan | J Periodontol | Carvacrol memperbaiki periodontitis teraruh ligasi pada tikus |
+| [24670812](https://pubmed.ncbi.nlm.nih.gov/24670812/) | 2014 | Tidak dikelaskan | PLoS One | Analisis metagenomik bakteria penurun nitrat di mulut dan kesannya terhadap homeostasis nitric oxide |
+| [20646228](https://pubmed.ncbi.nlm.nih.gov/20646228/) | 2011 | Tidak dikelaskan | Oral Dis | Penghasilan NO dalam sel RAW264 yang dirangsang vesikel P. gingivalis |
 
----
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL26016028AZ | Linde Medicinal Nitric Oxide 1000ppm Gas Mixture | Tiada dalam data | Tiada dalam data |
+
+Pengeluar: Linde Malaysia Sdn. Bhd. Lesen ini ialah produk bahan tunggal yang sah.
 
 ## Pertimbangan Keselamatan
 
-- **Penyakit yang dikaitkan sebagai kontraindikasi dalam graf pengetahuan**: methemoglobinemia, sulfhemoglobinemia dan kegagalan jantung. Maklumat ini berasal daripada hubungan dalam graf pengetahuan TxGNN, bukan teks label produk.
-- **Interaksi Ubat**: Pertanyaan selesai dan menemui 61 interaksi. Antara 20 yang dipaparkan, kebanyakannya bertahap "tidak diketahui".
+- **Kontraindikasi dalam graf pengetahuan** (hubungan graf pengetahuan, bukan teks label): methemoglobinemia, sulfhemoglobinemia dan kegagalan jantung.
+- **Interaksi Ubat**: 61 interaksi dikenal pasti. Kebanyakannya tahap tidak diketahui. Yang ketara:
   - **Major**: asid nitrus.
   - **Sederhana**: tetrakain (oftalmik), lidokain (topikal) dan benzokain (topikal).
-  - **Tahap tidak diketahui**: morfin, omeprazol, nistatin, vankomisin, atropin, epinefrin, amfoterisin B, hidrokortison, ranitidin, metronidazol, mikonazol, deksametason, filokuinon, heparin, epoprostenol dan natrium bikarbonat.
 
-Untuk amaran utama dan kontraindikasi yang rasmi, sila rujuk sisipan pembungkusan.
-
----
+Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 ## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Hold**
 
-**Rasional:**
-- Indikasi yang diramalkan ini tidak mempunyai ujian klinikal dan hanya literatur tidak langsung (Tahap Bukti L5). Tiada asas biologi yang jelas yang menghubungkan nitrik oksida dengan sindrom malformasi ini, dan produk ini tidak berdaftar di Malaysia.
+**Justifikasi:**
+- Ramalan ini hanya berasaskan model (L5) tanpa ujian klinikal atau kajian yang mengkaji penyakit ini secara langsung. Hubungan mekanistik dengan nitric oxide terapeutik juga tidak dapat dikenal pasti.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Bukti praklinikal atau mekanistik yang secara langsung menghubungkan nitrik oksida dengan patologi sindrom ini.
-- Data mekanisme tindakan (MOA) terperinci.
-- Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA. Data ini masih tiada dan perlu dilengkapkan sebelum penilaian keselamatan.
-- Penjelasan status pendaftaran dan laluan pentadbiran untuk Malaysia.
-
-**Nota:** Antara ramalan lain dalam data yang dikumpulkan, **hipertensi arteri pulmonari** (skor 99.41%, Tahap L2, dengan fasa 2 selesai NCT02734953 dan beberapa ujian lain) dan **hipertensi arteri pulmonari berkaitan penyakit jantung kongenital** (Tahap L3) mempunyai sokongan yang jauh lebih kukuh dan boleh dinilai secara berasingan. Beberapa ujian dalam senarai itu menumpu pada keadaan lain, dan tiada RCT fasa 3 untuk PAH kronik ditunjukkan.
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Kajian praklinikal atau klinikal yang mengkaji sindrom malformasi periodontal ini secara langsung
+- Pertimbangan calon ramalan lain yang bukti sokongannya lebih kukuh, seperti malformasi arteriovena pulmonari (kajian pemerhatian nitric oxide terhirup) dan hipertensi arteri pulmonari berkaitan penyakit jantung kongenital. Yang kedua banyak bertindih dengan penggunaan asal, jadi ia bukan repurposing sebenar.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

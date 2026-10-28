@@ -48,10 +48,10 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada literatur** dalam 
 |------|------|
 | Indikasi Asal | Penyakit Parkinson (dan gangguan parkinsonisme yang berkaitan) |
 | Indikasi Baharu yang Diramalkan | Rasmussen subacute encephalitis |
-| Skor Ramalan TxGNN | 99.48% |
+| Skor Ramalan TxGNN | 0.9948 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -86,7 +86,7 @@ Sila rujuk sisipan pakej produk untuk maklumat amaran dan kontraindikasi yang ra
 **Keputusan: Hold (Tangguh)**
 
 **Justifikasi:**
-- Skor ramalan tinggi (99.48%), tetapi ia hanya ramalan model (L5) tanpa percubaan klinikal atau literatur sokongan. Ubat ini juga tidak berdaftar di Malaysia, dan graf pengetahuan menyenaraikan epilepsi sebagai kontraindikasi.
+- Skor ramalan tinggi (0.9948), tetapi ia hanya ramalan model (L5) tanpa percubaan klinikal atau literatur sokongan. Ubat ini juga tidak berdaftar di Malaysia, dan graf pengetahuan menyenaraikan epilepsi sebagai kontraindikasi.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap
@@ -103,9 +103,9 @@ Data yang dikumpulkan turut merangkumi tiga ramalan lain, dan semuanya juga belu
 
 | Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Ringkasan |
 |------|------|------|------|
-| Transaldolase deficiency | 99.27% | L5 | Tiada bukti dan tiada rasional mekanistik yang jelas; ramalan mungkin didorong oleh kedekatan rangkaian |
-| Myelitis | 99.24% | L3 | Literatur sebenarnya berkaitan sindrom pasca-polio (contohnya RCT 1995 tentang keletihan, PMID 7611638); kaitan dengan myelitis tidak langsung dan faedahnya tidak jelas |
-| PLA2G6-associated neurodegeneration | 99.23% | L4 | Hanya satu laporan tidak langsung tentang PKAN (PMID 31366412); ekstrapolasi belum disahkan |
+| Transaldolase deficiency | 0.9927 | L5 | Tiada bukti dan tiada rasional mekanistik yang jelas; ramalan mungkin didorong oleh kedekatan rangkaian |
+| Myelitis | 0.9924 | L5 | Literatur sebenarnya berkaitan sindrom pasca-polio (contohnya RCT 1995 tentang keletihan, PMID 7611638); kaitan dengan myelitis tidak langsung dan faedahnya tidak jelas |
+| PLA2G6-associated neurodegeneration | 0.9923 | L5 | Hanya satu laporan tidak langsung tentang PKAN (PMID 31366412); ekstrapolasi belum disahkan |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

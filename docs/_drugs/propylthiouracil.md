@@ -4,17 +4,17 @@ title: Propylthiouracil
 parent: Low Evidence (L4-L5)
 nav_order: 606
 evidence_level: L4
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Propylthiouracil: indikasi baharu diramal Rintangan hormon tiroid akibat mutasi reseptor hormon tiroid beta (tahap bukti L4). Indikasi asal: Hipertiroidisme, penyakit Graves, tirotoksikosis…"
 monitor_inn: "PROPYLTHIOURACIL"
-predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "neonatal thyrotoxicosis", "hyperthyroxinemia"]
+predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
+description: "Propylthiouracil: indikasi baharu diramal Rintangan hormon tiroid akibat mutasi reseptor hormon tiroid beta (resistance to thyroid hormone due to a mutation in t… (tahap bukti L4). Indikasi asal: Tid…"
 ---
 
 # Propylthiouracil
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **3** 
+Tahap bukti: **L4** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-## Propylthiouracil: Daripada Hipertiroidisme kepada Rintangan Hormon Tiroid (Mutasi Reseptor Hormon Tiroid Beta)
+## Propylthiouracil: Rintangan hormon tiroid akibat mutasi reseptor hormon tiroid beta (resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini terdapat **0 percubaan klinikal** dan **4 penerbitan** (kes l
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Hipertiroidisme, penyakit Graves, tirotoksikosis, krisis tiroid (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen kerana tiada pendaftaran) |
-| Indikasi Baharu yang Diramalkan | Rintangan hormon tiroid akibat mutasi reseptor hormon tiroid beta |
-| Skor Ramalan TxGNN | 99.66% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Rintangan hormon tiroid akibat mutasi reseptor hormon tiroid beta (resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta) |
+| Skor Ramalan TxGNN | 0.9966 |
 | Tahap Bukti | L4 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -87,7 +87,6 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Pada masa ini PTU tidak dipasarkan di Malaysia dan tiada pendaftaran (0 lesen) direkodkan.
 
 ---
 
@@ -123,8 +122,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
 ### Nota Tambahan: Indikasi Ramalan Lain
 
-- **Tirotoksikosis neonatal** (skor 99.40%, L4, cadangan: soalan penyelidikan): kebanyakan literatur ialah ulasan tentang pengurusan hipertiroidisme ibu semasa kehamilan, iaitu bukti tidak langsung. Tiada percubaan klinikal; kebimbangan hepatotoksisiti pada kanak-kanak dan status tidak dipasarkan memerlukan kewaspadaan.
-- **Hipertiroksinemia** (skor 99.08%, L4, cadangan: Hold): kategori ini heterogen (contohnya hipertiroksinemia disalbuminemik familial di mana ubat antitiroid tidak sesuai), tiada bukti terkawal, dan bertindih dengan indikasi hipertiroidisme sedia ada, jadi nilai penggunaan semula adalah rendah.
+- **Hipertiroksinemia** (skor 0.9908, L4, cadangan: Hold): kategori ini heterogen (contohnya hipertiroksinemia disalbuminemik familial di mana ubat antitiroid tidak sesuai), tiada bukti terkawal, dan bertindih dengan indikasi hipertiroidisme sedia ada, jadi nilai penggunaan semula adalah rendah.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

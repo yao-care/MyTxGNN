@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 37
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
-description: "Albutrepenonacog Alfa: indikasi baharu diramal Penyakit von Willebrand pseudo (pseudo-von Willebrand disease) (tahap bukti L5). Indikasi asal: Hemofilia (termasuk bentuk bergejala hemofilia pada pemb…"
 monitor_inn: "ALBUTREPENONACOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia"]
+last_modified_at: 2026-10-27
+description: "Albutrepenonacog Alfa: indikasi baharu diramal Penyakit von Willebrand palsu (pseudo-von Willebrand disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Albutrepenonacog Alfa
@@ -33,87 +33,62 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-## Albutrepenonacog Alfa: Daripada Hemofilia kepada Penyakit von Willebrand Pseudo
+## Albutrepenonacog Alfa: faktor IX rekombinan berfusi albumin → Penyakit von Willebrand palsu (pseudo-von Willebrand disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Albutrepenonacog alfa ialah faktor IX rekombinan yang digabungkan dengan albumin (rIX-FP), pada asalnya digunakan untuk merawat hemofilia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit von Willebrand pseudo (pseudo-von Willebrand disease)**,
-tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model (L5).
+Albutrepenonacog alfa ialah faktor pembekuan IX rekombinan yang difusikan dengan albumin (rIX-FP) dan berfungsi menggantikan faktor IX yang tidak mencukupi dalam darah.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit von Willebrand palsu (pseudo-von Willebrand disease)** dengan skor 0.9994, tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini setakat ini.
 
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Hemofilia (termasuk bentuk bergejala hemofilia pada pembawa wanita) |
-| Indikasi Baharu yang Diramalkan | Penyakit von Willebrand pseudo (pseudo-von Willebrand disease) |
-| Skor Ramalan TxGNN | 99.94% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Penyakit von Willebrand palsu (pseudo-von Willebrand disease) |
+| Skor Ramalan TxGNN | 0.9994 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
----
+## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-## Mengapakah Ramalan Ini Munasabah?
+Butiran mekanisme tindakan asal tidak terdapat dalam data yang dihimpunkan untuk laporan ini. Berdasarkan maklumat yang diketahui, albutrepenonacog alfa ialah faktor IX rekombinan yang menggantikan faktor IX yang kurang dan menyokong lata pembekuan intrinsik.
 
-Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, albutrepenonacog alfa ialah faktor IX rekombinan yang digabungkan dengan albumin untuk memanjangkan separuh hayat, dan berfungsi menggantikan faktor IX yang kurang dalam hemofilia B.
+Penyakit von Willebrand palsu (jenis platelet) berpunca daripada mutasi peningkatan fungsi pada GPIbα platelet. Ini meningkatkan pertalian platelet terhadap faktor von Willebrand (VWF), lalu platelet dibersihkan dengan cepat dan multimer VWF berberat molekul tinggi hilang. Kecacatan ini terletak pada laluan platelet/VWF, bukan kekurangan faktor IX. Oleh itu, tiada hubungan mekanistik yang munasabah antara penggantian faktor IX dengan penyakit ini.
 
-Walau bagaimanapun, **penilaian mekanistik menunjukkan tiada kaitan yang munasabah**. Penyakit von Willebrand pseudo (jenis platelet) berpunca daripada mutasi gain-of-function pada GPIbα platelet yang meningkatkan afiniti terhadap VWF. Akibatnya platelet dibersihkan lebih cepat dan multimer VWF berat molekul tinggi hilang. Ini ialah kecacatan laluan platelet/VWF, **bukan kekurangan faktor IX**.
-
-Skor TxGNN yang tinggi (0.9994) berkemungkinan mencerminkan kedekatan rangkaian dalam graf pengetahuan gangguan pendarahan, dan bukannya rasional biologi sebenar.
-
-Lima ramalan seterusnya turut dinilai dan menunjukkan kesimpulan yang sama (semuanya L5, Hold, tiada kaitan mekanistik):
-
-| Penyakit yang Diramalkan | Skor TxGNN | Sebab Utama Tiada Kaitan |
-|------|------|------|
-| Gangguan pelepasan primer platelet | 99.94% | Kecacatan rembesan/isyarat platelet; faktor IX tidak membetulkannya |
-| Trombastenia Glanzmann | 99.92% | Kekurangan integrin αIIbβ3; rawatan lazim ialah transfusi platelet dan faktor VIIa rekombinan |
-| Sindrom Scott | 99.63% | Kecacatan pendedahan fosfatidilserina (TMEM16F/ANO6); permukaan fosfolipid tidak dibetulkan oleh faktor IX |
-| Diatesis pendarahan akibat kecacatan reseptor kolagen | 99.28% | Kecacatan hemostasis primer; faktor IX bertindak pada hemostasis sekunder |
-| Gangguan pendarahan akibat trombositopenia konstitusi | 99.26% | Bilangan platelet berkurang; faktor IX tidak menaikkan kiraan platelet |
-
----
+Skor TxGNN yang tinggi kemungkinan besar mencerminkan kedekatan rangkaian dalam kelompok penyakit gangguan pendarahan, bukan asas biologi yang kukuh. Ramalan lain dalam senarai (gangguan pelepasan primer platelet, trombastenia Glanzmann, sindrom Scott, diatesis pendarahan akibat kecacatan reseptor kolagen, dan gangguan hemoragik akibat trombositopenia konstitusi) juga mempunyai skor tinggi, tetapi semuanya merupakan kecacatan platelet dan tidak menunjukkan hubungan mekanistik dengan faktor IX.
 
 ## Bukti Percubaan Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
-
----
+Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia.
-
----
+Setakat ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Albutrepenonacog alfa pada masa ini **tidak dipasarkan** di Malaysia dan tiada pendaftaran NPRA yang direkodkan.
-
----
+Status pasaran di Malaysia ialah dipasarkan, dan kesemua 4 lesen yang direkodkan masih sah. Senarai lesen terperinci dijana oleh program tapak dan tidak disenaraikan di sini.
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada interaksi ubat direkodkan dalam data yang dikumpulkan untuk laporan ini.
-
----
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
-**Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur, dan analisis mekanistik menunjukkan tiada kaitan biologi antara penggantian faktor IX dengan kecacatan platelet/VWF dalam penyakit von Willebrand pseudo. Ubat ini juga tidak dipasarkan di Malaysia.
+**Justifikasi:**
+Tiada kajian yang meneliti penyakit von Willebrand palsu secara langsung, jadi tahap bukti ialah L5 (ramalan model sahaja). Tambahan pula, kecacatan platelet/VWF tidak dapat dibetulkan melalui penggantian faktor IX, maka tiada rasional mekanistik untuk meneruskan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
+- Rasional mekanistik yang jelas yang menghubungkan faktor IX dengan patofisiologi penyakit von Willebrand palsu
 - Data mekanisme tindakan (MOA) yang terperinci
-- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat penilaian keselamatan)
-- Bukti praklinikal atau klinikal yang menunjukkan faktor IX boleh memberi manfaat dalam penyakit ini
-- Pertimbangan semula kewajaran meneruskan penilaian, memandangkan tiada asas mekanistik
+- Bukti praklinikal atau klinikal yang mengkaji penyakit ini secara langsung
+- Maklumat amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

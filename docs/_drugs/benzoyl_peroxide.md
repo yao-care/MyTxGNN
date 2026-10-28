@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 136
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Benzoyl Peroxide: indikasi baharu diramal Keratosis folikular terbalik vulva (tahap bukti L5). Indikasi asal: Jerawat (acne), dermatitis atopik, dermatitis kontak…"
 monitor_inn: "BENZOYL PEROXIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "2-hydroxyethyl methacrylate sensitization", "acrodermatitis chronica atrophicans", "acne keloid"]
+last_modified_at: 2026-10-27
+description: "Benzoyl Peroxide: indikasi baharu diramal Keratosis folikel songsang vulva (vulvar inverted follicular keratosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Benzoyl Peroxide
@@ -33,34 +33,34 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-## Benzoyl Peroksida: Daripada Jerawat dan Dermatitis kepada Keratosis Folikular Terbalik Vulva
+## Benzoyl Peroxide: agen pengoksida topikal dengan kesan antibakteria dan keratolitik → Keratosis folikel songsang vulva (vulvar inverted follicular keratosis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Benzoyl peroksida ialah agen topikal yang digunakan untuk penyakit kulit seperti jerawat, dermatitis atopik, dermatitis kontak dan dermatitis seboroik.
-Model TxGNN meramalkan ia mungkin berkesan untuk **keratosis folikular terbalik vulva**,
-tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model.
+Benzoyl peroxide ialah agen topikal yang digunakan dalam rawatan penyakit kulit.
+Model TxGNN meramalkan ia mungkin berkesan untuk **keratosis folikel songsang vulva (vulvar inverted follicular keratosis)**,
+tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini berasaskan model sahaja.
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Keseluruhan
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jerawat (acne), dermatitis atopik, dermatitis kontak, dermatitis seboroik, keratosis seboroik dan lain-lain (berdasarkan graf pengetahuan TxGNN; bukan teks label) |
-| Indikasi Baharu yang Diramalkan | Keratosis folikular terbalik vulva |
-| Skor Ramalan TxGNN | 99.92% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Keratosis folikel songsang vulva (vulvar inverted follicular keratosis) |
+| Skor Ramalan TxGNN | 0,9992 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Tahan) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan benzoyl peroksida tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, ia ialah agen pengoksida topikal yang digunakan dalam penyakit kulit radang dan folikular, khasnya jerawat, dan secara mekanistik mungkin boleh digunakan untuk lesi folikular lain, tetapi ini belum dibuktikan.
+Data terperinci tentang mekanisme tindakan benzoyl peroxide tidak tersedia dalam data yang dikumpulkan untuk laporan ini, jadi hujah berasaskan mekanisme tidak dapat dibina.
 
-Keratosis folikular terbalik ialah lesi folikular-infundibular jinak yang berkait dengan keratosis seboroik, yang merupakan salah satu indikasi asal benzoyl peroksida. Ini memberikan hubungan nosologi yang longgar sahaja.
+Keratosis folikel songsang ialah lesi jinak pada infundibulum folikel yang berkait rapat dengan keratosis seboreik. Hubungan nosologi yang longgar ini mungkin menjadi punca isyarat model. Namun, tiada ujian klinikal atau penerbitan yang menyokong penggunaan di kawasan vulva.
 
-Terdapat juga kebimbangan: benzoyl peroksida ialah bahan perengsa yang diketahui, dan ini membimbangkan pada kulit dan mukosa vulva. Tanpa data mekanisme, tiada rasional berasaskan mekanisme yang kukuh dapat dibina.
+Perlu diberi perhatian bahawa benzoyl peroxide ialah bahan perengsa yang diketahui, dan ini menjadi kebimbangan pada kulit serta mukosa vulva.
 
 ## Bukti Ujian Klinikal
 
@@ -68,43 +68,31 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia.
+Pada masa ini tiada literatur berkaitan.
 
-## Ppertimbangan Keselamatan
+## Maklumat Pasaran Malaysia
 
-Data keselamatan daripada sisipan pakej belum tersedia. Maklumat berikut datang daripada graf pengetahuan (bukan teks label), dan menunjukkan penyakit yang dikaitkan sebagai kontraindikasi bagi benzoyl peroksida:
+Menurut data tempatan, status pasaran ialah dipasarkan, dengan 9 lesen sah dan 0 lesen dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
-- **Kulit dan fotosensitiviti**: penyakit fotosensitiviti, tindak balas fotoparoksismal, dermatitis eksfoliatif, dermatitis, atrofi kulit
-- **Saluran pencernaan**: penyakit Crohn, kolitis Crohn, penyakit radang usus, kolitis ulseratif, kolitis *Clostridium difficile*, enterokolitis nekrotik perinatal
-- **Metabolik dan endokrin**: diabetes mellitus, ketoasidosis diabetik, insufisiensi adrenokortikal, penyakit Addison
-- **Vaskular**: telangiektasia, penyakit kapilari, telangiektasia hemoragik herediter, penyakit vaskular periferi, klaudikasi berselang, penyakit arteri periferi
-- **Lain-lain**: penyakit buah pinggang, piouretra, kutil biasa, jangkitan papillomavirus manusia anogenital
+## Pertimbangan Keselamatan
 
-Tiada data interaksi ubat ditemui. Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
+- **Penyakit yang direkodkan sebagai kontraindikasi:** Hubungan kontraindikasi yang direkodkan dalam data model (bukan teks label produk) merangkumi dermatitis, dermatitis eksfoliatif, atrofi kulit, fotosensitiviti, telangiektasia, kolitis ulseratif, penyakit Crohn, penyakit buah pinggang, diabetes mellitus dan penyakit vaskular periferi. Ini perlu disahkan dengan sisip bungkusan produk.
+- **Interaksi ubat:** Tiada interaksi ubat ditemui dalam data yang dikumpulkan.
+
+Sila rujuk sisip bungkusan untuk maklumat keselamatan lengkap.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tahan)**
+**Keputusan: Hold (Tangguh)**
 
-**Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa ujian klinikal atau literatur sokongan, dan produk ini tidak dipasarkan di Malaysia. Sifat perengsa benzoyl peroksida pada kawasan vulva menambah kebimbangan keselamatan.
+**Justifikasi:**
+Ramalan ini hanya berasaskan model (tahap bukti L5) tanpa ujian klinikal atau literatur, dan sifat perengsa benzoyl peroxide menimbulkan kebimbangan pada kulit vulva.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang)
-- Data mekanisme tindakan (MOA) daripada DrugBank
-- Bukti klinikal atau laporan kes bagi keratosis folikular terbalik vulva
-- Penilaian keselamatan dan toleransi bagi penggunaan pada kulit dan mukosa vulva
-- Penilaian keserasian laluan pentadbiran dan formulasi yang sesuai
-
----
-
-### Nota Ramalan Lain (Rujukan)
-
-| Kedudukan | Indikasi Diramalkan | Skor | Tahap Bukti | Ulasan |
-|------|------|------|------|------|
-| 2 | Sensitisasi 2-hidroksietil metakrilat | 99.43% | L5 | Benzoyl peroksida sendiri ialah sensitiser kontak; ramalan ini mungkin mencerminkan perkaitan buruk, bukan terapeutik. Tiada ujian atau literatur. |
-| 3 | Akrodermatitis kronik atrofik | 99.17% | L5 | Ia manifestasi lewat jangkitan *Borrelia* yang dirawat dengan antibiotik sistemik; agen pengoksida topikal tidak mungkin membasmi jangkitan dermis dalam. Tiada ujian atau literatur. |
-| 4 | Akne keloid (acne keloidalis) | 99.06% | L4 | Terdapat kaitan munasabah melalui keradangan folikular, tetapi satu-satunya literatur (PMID [39090034](https://pubmed.ncbi.nlm.nih.gov/39090034/), 2024, *Dermatology Online Journal*) ialah kajian semula carta retrospektif 77 pesakit kanak-kanak kulit hitam dengan jerawat, iaitu bukti tidak langsung. Mungkin berguna sebagai tambahan untuk komponen radang, tetapi tidak mungkin menjejaskan komponen fibrotik. Status: soalan penyelidikan. |
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisip bungkusan NPRA
+- Kajian kes atau siri kes klinikal tentang penggunaan topikal pada lesi vulva
+- Penilaian toleransi dan risiko kerengsaan pada kulit dan mukosa vulva
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

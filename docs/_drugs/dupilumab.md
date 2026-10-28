@@ -4,17 +4,17 @@ title: Dupilumab
 parent: Medium Evidence (L3)
 nav_order: 310
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Dupilumab: indikasi baharu diramal Bronkitis (tahap bukti L3). Indikasi asal: Ekzema atopik / dermatitis atopik"
 monitor_inn: "DUPILUMAB"
 predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
+description: "Dupilumab: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Dupilumab
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **10** 
+Tahap bukti: **L3** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-## Dupilumab: Dari Ekzema Atopik kepada Bronkitis
+## Dupilumab: Bronkitis (bronchitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ Dupilumab ialah antibodi monoklonal yang pada asalnya digunakan untuk merawat ek
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Ekzema atopik / dermatitis atopik |
-| Indikasi Baharu yang Diramalkan | Bronkitis |
-| Skor Ramalan TxGNN | 99.92% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Bronkitis (bronchitis) |
+| Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -111,7 +111,6 @@ Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 **Justifikasi:**
 - Satu-satunya ujian klinikal yang disenaraikan ialah Fasa 2 untuk rinosinusitis kronik tanpa polip hidung, bukan bronkitis. Literatur pula tertumpu pada asma dan COPD, serta laporan kes bronkitis eosinofilik/plastik. Oleh itu bukti untuk bronkitis umum tidak langsung, dan keadaan ini lebih sesuai dianggap sebagai soalan penyelidikan.
-- Dupilumab tidak dipasarkan di Malaysia (0 pendaftaran).
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Menentukan subjenis sasaran yang spesifik (contohnya bronkitis eosinofilik, bronkitis plastik, atau COPD jenis 2 dengan fenotip bronkitis kronik), dan bukan "bronkitis" secara umum.

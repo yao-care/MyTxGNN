@@ -4,17 +4,17 @@ title: Cyproterone Acetate
 parent: Low Evidence (L4-L5)
 nav_order: 248
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Cyproterone Acetate: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tiada rekod lesen tempatan. Menurut data farmakologi: keadaan bergant…"
 monitor_inn: "CYPROTERONE ACETATE"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "migraine with or without aura, susceptibility to", "amenorrhea (disease)", "breast fibrocystic disease", "thrombophilia"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "amenorrhea (disease)", "breast fibrocystic disease", "thrombophilia"]
+description: "Cyproterone Acetate: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Cyproterone Acetate
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Cyproterone Acetate: Daripada Keadaan Bergantung Androgen kepada Gangguan Migrain
+## Cyproterone Acetate: Gangguan migrain (migraine disorder)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Setakat ini **tiada ujian klinikal** dan hanya **3 penerbitan** tidak langsung (
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada rekod lesen tempatan. Menurut data farmakologi: keadaan bergantung androgen (cth. kanser prostat, jerawat, hirsutisme) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder) |
-| Skor Ramalan TxGNN | 99.66% |
+| Skor Ramalan TxGNN | 0.9966 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -100,7 +100,6 @@ Sila rujuk sisipan pembungkusan untuk maklumat amaran dan kontraindikasi yang le
 
 **Justifikasi:**
 - Tiada ujian klinikal dan hanya literatur tidak langsung. Tiada bukti bahawa CPA merawat migrain, sementara profil risiko trombotik dan kemungkinan memburukkan migrain menimbulkan kebimbangan keselamatan.
-- CPA tidak dipasarkan di Malaysia (0 pendaftaran), jadi laluan akses tempatan juga belum jelas.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pembungkusan daripada NPRA (amaran dan kontraindikasi) untuk saringan keselamatan.

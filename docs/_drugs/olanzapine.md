@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Olanzapine
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 541
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Olanzapine: indikasi baharu diramal Gangguan kemurungan major (major depressive disorder) (tahap bukti L1). Indikasi asal: Skizofrenia dan gangguan bipolar (menurut graf pengetahuan TxGNN"
+evidence_level: L5
+indication_count: 2
+monitor_inn: "Olanzapine"
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
+last_modified_at: 2026-10-23
+description: "Olanzapine: indikasi baharu diramal Benign paroxysmal torticollis of infancy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Olanzapine
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,12 +33,13 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-## Olanzapine: Daripada Skizofrenia dan Gangguan Bipolar kepada Gangguan Kemurungan Major
+## Olanzapine: Benign paroxysmal torticollis of infancy
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Olanzapine ialah antipsikotik generasi kedua yang pada asalnya digunakan untuk skizofrenia dan gangguan bipolar. Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan kemurungan major (major depressive disorder)**, terutamanya sebagai terapi tambahan atau gabungan dengan fluoxetine. Arah ini disokong oleh **10 percubaan klinikal** dan **18 penerbitan** dalam data yang dikumpulkan, termasuk dua percubaan Fasa 3 yang telah selesai.
+Olanzapine ialah ubat antipsikotik yang pada asalnya digunakan untuk merawat gangguan bipolar, skizofrenia dan gangguan kemurungan serta kebimbangan (berdasarkan perhubungan indikasi yang direkodkan dalam graf pengetahuan, bukan teks label tempatan).
+Model TxGNN meramalkan ia mungkin berkesan untuk **agorafobia**, tetapi setakat ini **tiada ujian klinikal berdaftar** dan hanya **6 penerbitan** yang berkaitan secara tidak langsung (kebanyakannya mengenai gangguan panik) menyokong arah ini.
 
 ---
 
@@ -44,95 +47,90 @@ Olanzapine ialah antipsikotik generasi kedua yang pada asalnya digunakan untuk s
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Skizofrenia dan gangguan bipolar (menurut graf pengetahuan TxGNN; maklumat indikasi berlesen tempatan tidak tersedia) |
-| Indikasi Baharu yang Diramalkan | Gangguan kemurungan major (major depressive disorder) |
-| Skor Ramalan TxGNN | 0.00% (nilai ini tidak mencerminkan kekuatan bukti sebenar dan perlu disahkan semula) |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan yang Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Benign paroxysmal torticollis of infancy |
+| Skor Ramalan TxGNN | 0.9954 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 34 daripada 34) |
+| Bilangan Pendaftaran | 34 (sah: 34) |
+| Bilangan Kelulusan | 34 lesen pendaftaran (semuanya produk bahan tunggal yang sah) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam set data ini. Berdasarkan farmakologi yang telah mantap, olanzapine ialah antagonis reseptor 5-HT2A/5-HT2C, D2 dan H1. Dalam gabungan dengan fluoxetine (OFC), sekatan 5-HT2C dipercayai meningkatkan pelepasan dopamin dan norepinefrin di korteks prafrontal. Ini menyokong penggunaannya sebagai tambahan kepada terapi SSRI dalam kemurungan rintang rawatan.
+Data terperinci mengenai mekanisme tindakan (MOA) belum tersedia dalam data yang dikumpulkan untuk laporan ini. Namun begitu, olanzapine diketahui sebagai antagonis berbilang reseptor, termasuk reseptor dopamin D2, serotonin 5-HT2A/5-HT2C, histamin H1 dan muskarinik. Tindakan ini mungkin memodulasi litar kebimbangan dan keterujaan (arousal).
 
-Skizofrenia, gangguan bipolar dan kemurungan major sama-sama melibatkan ketidakseimbangan sistem monoamina. Ulasan literatur menyatakan antipsikotik generasi kedua, termasuk olanzapine, telah diluluskan di luar negara sebagai terapi tambahan untuk kemurungan major, tetapi hanya pada dos di bawah dos antipsikotik.
-
-Satu perkara perlu diberi perhatian. Senarai indikasi asal dalam graf pengetahuan sudah merangkumi kemurungan major, jadi "ramalan" ini lebih menyerupai pengesahan indikasi yang sudah wujud daripada penemuan indikasi yang benar-benar baharu. Rujukan kepada kemurungan major dalam laporan ini perlu dibaca dengan ingatan ini.
+Agorafobia sering berlaku bersama gangguan panik. Bukti yang ada ialah mengenai penggunaan olanzapine sebagai terapi tambahan dalam gangguan panik yang rintang rawatan, bukan agorafobia secara khusus. Hubungan ini bersifat tidak langsung, dan sebahagian besarnya bergantung pada kebolehpercayaan biologi.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00035321](https://clinicaltrials.gov/study/NCT00035321) | Fasa 3 | Selesai | 600 | Olanzapine + fluoxetine dalam kemurungan rintang rawatan tanpa ciri psikotik; dibandingkan dengan setiap ubat secara bersendirian |
-| [NCT00056472](https://clinicaltrials.gov/study/NCT00056472) | Fasa 3 | Selesai | 259 | SSRI digabungkan dengan antipsikotik dalam kemurungan psikotik |
-| [NCT00844857](https://clinicaltrials.gov/study/NCT00844857) | Fasa 4 | Selesai | 291 | Olanzapine/fluoxetine berbanding plasebo pada remaja umur 10-17 tahun dengan episod kemurungan major berkaitan bipolar I |
-| [NCT01282632](https://clinicaltrials.gov/study/NCT01282632) | Fasa 1/2 | Selesai | 42 | Perintis buta ganda: risperidone berbanding olanzapine sebagai tambahan kepada SSRI dalam kemurungan rintang rawatan |
-| [NCT00568672](https://clinicaltrials.gov/study/NCT00568672) | Fasa 3 | Ditarik balik | 0 | Tempoh optimum olanzapine tambahan dalam kemurungan major; tiada peserta, maka tiada data |
-| [NCT01305707](https://clinicaltrials.gov/study/NCT01305707) | Fasa 4 | Ditamatkan | 104 | ECT penyelenggaraan + farmakoterapi berbanding farmakoterapi sahaja; olanzapine bukan pemboleh ubah yang diuji |
-| [NCT00188942](https://clinicaltrials.gov/study/NCT00188942) | Fasa 4 | Selesai | 42 | Kajian fMRI tentang pemprosesan emosi dalam kemurungan bipolar dan unipolar; pesakit dirawat dengan fluoxetine + olanzapine |
-| [NCT00520507](https://clinicaltrials.gov/study/NCT00520507) | Fasa 4 | Selesai | 27 | Perubahan seni bina tidur dan kognisi pada pesakit kemurungan yang dirawat dengan olanzapine (kajian mekanistik/keselamatan) |
-| [NCT00179062](https://clinicaltrials.gov/study/NCT00179062) | Tiada | Selesai | 300 | Kenaikan berat badan dan kesihatan fizikal: risperidone berbanding olanzapine (kajian metabolik, bukan keberkesanan kemurungan) |
-| [NCT03857581](https://clinicaltrials.gov/study/NCT03857581) | Fasa 4 | Tidak diketahui | 100 | Clozapine berbanding olanzapine dalam gangguan psikotik dengan penyalahgunaan bahan; bukan percubaan kemurungan |
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Tiada RCT utama dalam senarai ini. Kebanyakannya ialah ulasan sistematik atau meta-analisis rangkaian, yang diutamakan berbanding ulasan naratif.
+Tiada satu pun daripada penerbitan ini mengkaji agorafobia sebagai penyakit sasaran utama. Kebanyakannya mengenai gangguan panik atau kebimbangan secara umum. Oleh itu tahap bukti dihadkan kepada L5.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Ulasan sistematik / NMA | J Affect Disord | Membandingkan keberkesanan dan kadar penghentian agen tambahan dalam kemurungan rintang rawatan dewasa |
-| [38360024](https://pubmed.ncbi.nlm.nih.gov/38360024/) | 2024 | Ulasan sistematik / NMA | Lancet Psychiatry | Membandingkan keberkesanan dan keselamatan rawatan farmakologi untuk kemurungan psikotik |
-| [37595997](https://pubmed.ncbi.nlm.nih.gov/37595997/) | 2023 | Ulasan sistematik / NMA | Lancet Psychiatry | Perbandingan keberkesanan dan toleransi intervensi farmakologi untuk kemurungan bipolar akut |
-| [35861202](https://pubmed.ncbi.nlm.nih.gov/35861202/) | 2023 | Ulasan sistematik / meta-analisis | J Psychopharmacol | Menilai bukti rawatan tambahan/gabungan untuk kemurungan rintang rawatan peringkat awal |
-| [34238049](https://pubmed.ncbi.nlm.nih.gov/34238049/) | 2021 | Ulasan sistematik / meta-analisis | J Psychopharmacol | Antidepresan + antipsikotik generasi kedua berbanding esketamine dan lithium dalam kemurungan major |
-| [21154393](https://pubmed.ncbi.nlm.nih.gov/21154393/) | 2010 | Ulasan sistematik (Cochrane) | Cochrane Database Syst Rev | Antipsikotik generasi kedua untuk kemurungan major dan distimia apabila ditambah kepada antidepresan |
-| [37149344](https://pubmed.ncbi.nlm.nih.gov/37149344/) | 2023 | Ulasan | Psychiatr Clin North Am | Antipsikotik atipikal ialah agen tambahan yang paling banyak dikaji dalam kemurungan rintang rawatan |
-| [36855876](https://pubmed.ncbi.nlm.nih.gov/36855876/) | 2023 | Ulasan | Am J Psychiatry | Kedudukan antipsikotik dalam landskap terapeutik kemurungan rintang rawatan |
-| [25963405](https://pubmed.ncbi.nlm.nih.gov/25963405/) | 2016 | Ulasan | Asia Pac Psychiatry | Quetiapine, aripiprazole dan olanzapine diluluskan oleh FDA sebagai tambahan kepada antidepresan; berkesan pada dos di bawah dos antipsikotik |
-| [20675970](https://pubmed.ncbi.nlm.nih.gov/20675970/) | 2010 | Analisis NNT/NNH | Postgrad Med | Keberkesanan dan keselamatan aripiprazole, olanzapine atau quetiapine tambahan dalam kemurungan major |
+| [40946318](https://pubmed.ncbi.nlm.nih.gov/40946318/) | 2026 | Kajian sistematik | Psychotherapy and Psychosomatics | Kajian rawatan farmakologi, psikoterapi dan neurostimulasi bagi gangguan kebimbangan yang rintang rawatan |
+| [26635099](https://pubmed.ncbi.nlm.nih.gov/26635099/) | 2016 | Kajian sistematik | Expert Opinion on Pharmacotherapy | Kajian gangguan panik rintang rawatan; kira-kira satu pertiga pesakit masih bergejala selepas rawatan |
+| [16415705](https://pubmed.ncbi.nlm.nih.gov/16415705/) | 2006 | Ujian label terbuka | J Clin Psychopharmacol | 31 pesakit panik rintang SSRI (dengan atau tanpa agorafobia) diberi olanzapine 5 mg/hari sebagai tambahan selama 12 minggu |
+| [25012437](https://pubmed.ncbi.nlm.nih.gov/25012437/) | 2014 | Kohort | J Affect Disord | Kesan komorbiditi kebimbangan (termasuk agorafobia) terhadap hasil klinikal bipolar I selama 24 bulan |
+| [15470803](https://pubmed.ncbi.nlm.nih.gov/15470803/) | 2004 | Laporan kes | Pharmacopsychiatry | Seorang lelaki pulih daripada gangguan panik dengan olanzapine bersama paroxetine |
+| [10739446](https://pubmed.ncbi.nlm.nih.gov/10739446/) | 2000 | Laporan kes/surat | Am J Psychiatry | Laporan olanzapine dan serangan panik |
+
+---
+
+## Maklumat Pasaran di Malaysia
+
+Terdapat 34 lesen yang sah, semuanya produk bahan tunggal. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam rekod yang dikumpulkan; senarai di bawah ialah sebahagian daripada lesen utama.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL04125491ACRZ | Zyprexa Zydis 10mg Orodispersible Tablet | Tablet orodispersibel | Tiada maklumat |
+| MAL08061564ARZ | Zyprexa Tablet 5mg | Tablet | Tiada maklumat |
+| MAL08061565ARZ | Zyprexa Tablet 10mg | Tablet | Tiada maklumat |
+| MAL19051005ARZ | Apo-Olanzapine 5mg Tablet | Tablet | Tiada maklumat |
+| MAL23096022AZ | Olmac 10 (Olanzapine Film-Coated Tablets USP 10 mg) | Tablet bersalut filem | Tiada maklumat |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-**Penyakit/keadaan yang dikaitkan dengan kontraindikasi (daripada graf pengetahuan, bukan teks sisip pakej):**
+**Penyakit yang direkodkan sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): hubungan ini perlu disahkan dengan sisipan pakej.
+- Metabolik: hiperglisemia, diabetes mellitus, ketoasidosis diabetik, hipertrigliseridemia, hiperlipidemia, obesiti
+- Kardiovaskular/serebrovaskular: strok, infarksi serebrum, infarksi miokardium, hipotensi ortostatik, hipotensi
+- Hati dan hempedu: kegagalan hati, penyakit hati, sirosis, penyakit pundi hempedu
+- Hematologi: neutropenia, agranulositosis, gangguan pembekuan darah
+- Lain-lain: epilepsi, hiperplasia prostat benigna, karsinoma payudara wanita, atrofi sistem berbilang, sindrom takikardia postural ortostatik
 
-- Kardiovaskular dan serebrovaskular: strok, infarksi serebrum, infarksi miokardium, trombosis koronari, hipotensi, hipotensi ortostatik, sindrom takikardia postural ortostatik, atrofi sistem berbilang.
-- Metabolik: hiperglikemia, diabetes mellitus, ketoasidosis diabetik, hipertrigliseridemia, hiperlipidemia, obesiti.
-- Hematologi: neutropenia, agranulositosis, gangguan pembekuan darah.
-- Hepatik dan hempedu: penyakit hati, kegagalan hati, sirosis, penyakit pundi hempedu.
-- Lain-lain: epilepsi, hiperplasia prostat jinak, karsinoma payudara wanita.
+**Interaksi Ubat** (100 interaksi direkodkan; yang utama):
+- **Major**: bupropion, morfin, kalium sitrat
+- **Moderate**: ubat antidiabetes (metformin, acarbose, alogliptin, canagliflozin, dapagliflozin, klorpropamid, albiglutide), ubat antikolinergik (atropin, hiosiamin, glikopirronium), famotidin, epinefrin, loperamid, klaritromisin, lorkaserin, dan agen penyediaan usus
 
-Senarai ini menunjukkan pemantauan metabolik (glukosa, lipid, berat badan) dan penilaian kardiovaskular perlu diutamakan.
-
-**Interaksi Ubat:** Pangkalan data mencatatkan 100 interaksi. Antara yang dipaparkan, interaksi **Major** ialah bupropion, morfin dan kalium sitrat. Interaksi **Sederhana** termasuk ubat antidiabetes (metformin, acarbose, canagliflozin, dapagliflozin, alogliptin, albiglutide, chlorpropamide), agen antikolinergik (atropin, hyoscyamine, glycopyrronium), famotidine, epinefrin, loperamide, clarithromycin dan lorcaserin.
-
-Maklumat amaran utama dan kontraindikasi daripada sisip pakej tidak diperoleh. Sila rujuk sisip pakej untuk maklumat keselamatan yang lengkap.
+Amaran utama dan kontraindikasi daripada sisipan pakej NPRA belum diperoleh. Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Terdapat dua percubaan Fasa 3 yang telah selesai (NCT00035321, n=600; NCT00056472, n=259) dan beberapa ulasan sistematik/NMA yang menyokong olanzapine, terutamanya gabungan dengan fluoxetine, dalam kemurungan rintang rawatan dan kemurungan psikotik. Tahap bukti ialah L1.
-- Profil risiko metabolik dan kardiovaskular yang ketara serta ketiadaan produk berdaftar di Malaysia memerlukan langkah kawalan yang jelas sebelum penggunaan.
+Skor TxGNN sangat tinggi (0.9947), tetapi tiada ujian klinikal berdaftar dan tiada kajian yang mengkaji agorafobia secara langsung; bukti hanya tidak langsung (gangguan panik) dan berskala kecil (label terbuka dan laporan kes). Profil keselamatan metabolik dan kardiovaskular olanzapine juga memerlukan pertimbangan teliti.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Mendapatkan dan menilai sisip pakej serta amaran/kontraindikasi rasmi (maklumat ini tidak diperoleh, dan ia menghalang saringan keselamatan peringkat seterusnya).
-- Melengkapkan data mekanisme tindakan (MOA) daripada DrugBank.
-- Mengesahkan semula skor ramalan TxGNN (0.00%) dan menjelaskan sama ada ini indikasi yang benar-benar baharu, memandangkan kemurungan major sudah tersenarai dalam indikasi asal.
-- Menyemak populasi sebenar bagi percubaan yang tajuknya dipotong (contohnya NCT00844857 dan NCT00056472).
-- Menentukan laluan kawal selia di Malaysia (tiada pendaftaran sedia ada) serta dos dan produk gabungan yang sesuai.
-- Menyediakan pelan pemantauan metabolik (glukosa, lipid, berat badan) dan kardiovaskular, serta panduan untuk interaksi ubat Major (bupropion, morfin, kalium sitrat).
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi) yang belum diperoleh
+- Data mekanisme tindakan terperinci (MOA)
+- Ujian terkawal rawak yang mengkaji agorafobia atau gangguan panik dengan agorafobia secara langsung
+- Penilaian nisbah manfaat-risiko metabolik dan kardiovaskular bagi populasi sasaran
+- Pengesahan teks indikasi diluluskan bagi lesen tempatan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

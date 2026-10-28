@@ -3,18 +3,18 @@ layout: default
 title: Perampanel
 parent: Low Evidence (L4-L5)
 nav_order: 565
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Perampanel: indikasi baharu diramal Epilepsi visual (visual epilepsy) (tahap bukti L4). Indikasi asal: Epilepsi separa dan epilepsi motor separa (daripada graf pengetahuan…"
 monitor_inn: "PERAMPANEL"
 predicted_indications: ["beta-ketothiolase deficiency"]
+description: "Perampanel: indikasi baharu diramal Beta-ketothiolase deficiency (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Perampanel
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Perampanel: Daripada Epilepsi Separa kepada Epilepsi Visual
+## Perampanel: Beta-ketothiolase deficiency
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Setakat ini terdapat **0 ujian klinikal** dan **18 penerbitan** yang berkaitan, 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Epilepsi separa dan epilepsi motor separa (daripada graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi berdaftar tempatan) |
-| Indikasi Baharu yang Diramalkan | Epilepsi visual (*visual epilepsy*) |
-| Skor Ramalan TxGNN | 99.92% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Beta-ketothiolase deficiency |
+| Skor Ramalan TxGNN | 0.9979 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ Setakat ini terdapat **0 ujian klinikal** dan **18 penerbitan** yang berkaitan, 
 
 Penerbitan yang dikumpulkan menerangkan perampanel sebagai antagonis reseptor AMPA yang selektif dan tidak kompetitif. Ia menghalang rangsangan glutamat pada membran pascasinaps. Data terperinci tentang mekanisme tindakan asal tidak tersedia daripada pangkalan data ubat, jadi penerangan ini bergantung pada abstrak penerbitan.
 
-Perampanel telah terbukti sebagai terapi tambahan untuk kejang separa dan kejang tonik-klonik umum. Epilepsi visual ialah sejenis epilepsi refleks, iaitu kejang yang dicetuskan oleh rangsangan visual. Ia berkait dengan kegairahan berlebihan korteks, dan sekatan AMPA secara teori boleh mengurangkan kegairahan ini. Model haiwan epilepsi refleks (kejang audiogenik) juga menunjukkan aktiviti antikejang perampanel. Skor TxGNN yang tinggi mungkin lebih mencerminkan fenotip epilepsi yang dikongsi daripada bukti khusus untuk epilepsi visual.
+Perampanel telah terbukti sebagai terapi tambahan untuk kejang separa dan kejang tonik-klonik umum. Ia berkait dengan kegairahan berlebihan korteks, dan sekatan AMPA secara teori boleh mengurangkan kegairahan ini. Model haiwan epilepsi refleks (kejang audiogenik) juga menunjukkan aktiviti antikejang perampanel.
 
 Penting: bukti yang ada adalah umum (garis panduan, meta-analisis rangkaian, kajian pada tikus model sindrom Dravet, laporan kes). Tiada penerbitan yang menilai kejang cetusan visual atau fotosensitif secara khusus.
 
@@ -114,8 +114,7 @@ Maklumat amaran dan kontraindikasi daripada sisipan pek NPRA belum tersedia, jad
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan TxGNN sangat tinggi (99.92%), tetapi tiada ujian klinikal dan tiada penerbitan yang menilai epilepsi visual atau kejang cetusan visual secara langsung. Bukti hanya setakat L4 dan tidak langsung.
-- Perampanel tidak dipasarkan di Malaysia dan tiada pendaftaran, dan data keselamatan daripada sisipan pek belum diperoleh.
+- Bukti hanya setakat L4 dan tidak langsung.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Memuat turun dan menghurai sisipan pek daripada laman web NPRA untuk amaran dan kontraindikasi, serta mengesahkan status pendaftaran perampanel di Malaysia

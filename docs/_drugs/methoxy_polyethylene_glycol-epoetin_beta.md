@@ -6,9 +6,9 @@ nav_order: 499
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Methoxy Polyethylene Glycol-Epoetin Beta: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of plate… (tahap bukti L5). Indikasi asal: Tiada data indikasi berlesen …"
 monitor_inn: "METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
+description: "Methoxy Polyethylene Glycol-Epoetin Beta: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of platelets) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam da…"
 ---
 
 # Methoxy Polyethylene Glycol-Epoetin Beta
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-## Metoksi Polietilena Glikol-Epoetin Beta: Daripada Indikasi Asal (Tidak Direkodkan) kepada Gangguan Pelepasan Primer Platelet
+## Methoxy Polyethylene Glycol-Epoetin Beta: Gangguan pelepasan primer platelet (primary release disorder of platelets)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Metoksi polietilena glikol-epoetin beta (CERA) ialah agen perangsang eritropoiesis bertindak panjang yang bertindak pada reseptor eritropoietin. Data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi berlesen asalnya di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan pelepasan primer platelet** (skor 99.36%), tetapi **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini. Ramalan ini hanya berasaskan model.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan pelepasan primer platelet** (skor 0.9936), tetapi **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini. Ramalan ini hanya berasaskan model.
 
 ---
 
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan pelepasan primer pla
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berlesen yang direkodkan |
-| Indikasi Baharu yang Diramalkan | Gangguan pelepasan primer platelet (*primary release disorder of platelets*) |
-| Skor Ramalan TxGNN | 99.36% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Gangguan pelepasan primer platelet (primary release disorder of platelets) |
+| Skor Ramalan TxGNN | 0.9936 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan pelepasan primer pla
 
 Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat yang diketahui, CERA ialah agen perangsang eritropoiesis (ESA) yang bertindak pada reseptor eritropoietin di sel progenitor eritroid untuk merangsang pengeluaran sel darah merah.
 
-**Tiada hubungan mekanistik yang jelas** antara tindakan ini dengan gangguan pelepasan primer platelet, iaitu kecacatan kualitatif fungsi platelet. Sebarang kaitan hanyalah spekulatif (contohnya kesan tidak langsung eritropoiesis terhadap interaksi platelet dengan dinding salur darah). Skor TxGNN yang tinggi (0.994) mencerminkan inferens berasaskan graf pengetahuan, bukan bukti biologi. Selain itu, ESA dikaitkan dengan risiko trombosis, yang tidak sejajar dengan keadaan ini.
+**Tiada hubungan mekanistik yang jelas** antara tindakan ini dengan gangguan pelepasan primer platelet, iaitu kecacatan kualitatif fungsi platelet. Sebarang kaitan hanyalah spekulatif (contohnya kesan tidak langsung eritropoiesis terhadap interaksi platelet dengan dinding salur darah). Skor yang tinggi (0.9936) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Selain itu, ESA dikaitkan dengan risiko trombosis, yang tidak sejajar dengan keadaan ini.
 
 ### Ramalan Lain daripada Model
 
@@ -69,18 +69,17 @@ Semua ramalan lain juga berada pada tahap bukti L5 dan berstatus Hold:
 
 | Kedudukan | Penyakit | Skor TxGNN | Ringkasan Penilaian |
 |------|------|------|------|
-| 2 | Trombastenia Glanzmann | 99.30% | Disebabkan kecacatan integrin αIIbβ3 pada platelet; agonis reseptor EPO tidak membetulkan kecacatan ini. |
-| 3 | Penyakit pseudo-von Willebrand | 99.25% | Disebabkan peningkatan fungsi GPIb-alfa; CERA tiada kesan diketahui pada paksi GPIb-VWF. |
-| 4 | Retinopati diabetik bukan proliferatif yang teruk | 99.15% | Hanya rasional tidak langsung yang lemah (isyarat EPO dalam neuroperlindungan dan angiogenesis retina), tetapi terdapat risiko pro-angiogenik dan ESA memerlukan berhati-hati pada retinopati proliferatif. |
-| 5 | Kekurangan kofaktor heparin 2 | 99.10% | Tiada hubungan mekanistik; ESA meningkatkan risiko trombosis, justeru ramalan ini berkemungkinan dikontraindikasikan. |
-| 6 | Kekurangan antitrombin jenis 2 | 99.07% | Tiada hubungan mekanistik; profil risiko protrombotik CERA tidak menyokong penggunaan. |
-| 7 | Lebihan faktor 5 dengan trombosis spontan | 99.04% | Tiada hubungan mekanistik dan wujud konflik keselamatan; ESA mempunyai amaran kotak untuk peristiwa tromboembolik. |
+| 2 | Trombastenia Glanzmann | 0.9930 | Disebabkan kecacatan integrin αIIbβ3 pada platelet; agonis reseptor EPO tidak membetulkan kecacatan ini. |
+| 3 | Penyakit pseudo-von Willebrand | 0.9925 | Disebabkan peningkatan fungsi GPIb-alfa; CERA tiada kesan diketahui pada paksi GPIb-VWF. |
+| 4 | Retinopati diabetik bukan proliferatif yang teruk | 0.9915 | Hanya rasional tidak langsung yang lemah (isyarat EPO dalam neuroperlindungan dan angiogenesis retina), tetapi terdapat risiko pro-angiogenik dan ESA memerlukan berhati-hati pada retinopati proliferatif. |
+| 5 | Kekurangan kofaktor heparin 2 | 0.9910 | Tiada hubungan mekanistik; ESA meningkatkan risiko trombosis, justeru ramalan ini berkemungkinan dikontraindikasikan. |
+| 6 | Kekurangan antitrombin jenis 2 | 0.9907 | Tiada hubungan mekanistik; profil risiko protrombotik CERA tidak menyokong penggunaan. |
+| 7 | Lebihan faktor 5 dengan trombosis spontan | 0.9904 | Tiada hubungan mekanistik dan wujud konflik keselamatan; ESA mempunyai amaran kotak untuk peristiwa tromboembolik. |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Menurut data yang dikumpulkan, produk ini **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar direkodkan.
 
 ---
 

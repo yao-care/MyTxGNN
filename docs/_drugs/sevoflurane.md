@@ -6,9 +6,9 @@ nav_order: 643
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Sevoflurane: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar daripada NPRA (secara umum digunakan se…"
 monitor_inn: "SEVOFLURANE"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "migraine disorder", "inclusion body myositis"]
+description: "Sevoflurane: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Sevoflurane
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Sevoflurane: Daripada Anestesia Umum kepada Prinzmetal Angina
+## Sevoflurane: Prinzmetal angina
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Sevoflurane ialah agen anestetik terhidu (volatil) yang digunakan untuk anestesia umum, dan data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asal yang berdaftar di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Prinzmetal angina** (skor 99.78%), tetapi buat masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Prinzmetal angina** (skor 0.9978), tetapi buat masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini.
 Ramalan ini hanya berdasarkan model (tahap bukti L5) dan masih bersifat spekulatif.
 
 ---
@@ -48,12 +48,12 @@ Ramalan ini hanya berdasarkan model (tahap bukti L5) dan masih bersifat spekulat
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar daripada NPRA (secara umum digunakan sebagai anestetik umum terhidu) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Prinzmetal angina |
-| Skor Ramalan TxGNN | 99.78% |
+| Skor Ramalan TxGNN | 0.9978 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -64,7 +64,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) buat masa ini tidak tersedia. 
 
 Satu kaitan yang bersifat spekulatif ialah anestetik volatil boleh mempengaruhi pengendalian kalsium dalam otot licin vaskular dan mungkin mengurangkan vasospasme. Namun, tiada bukti dalam data yang disediakan untuk menyokong hal ini.
 
-Sevoflurane digunakan semasa prosedur di bawah pemantauan anestesia. Oleh itu, penggunaan kronik atau pencegahan untuk angina vasospastik adalah tidak munasabah dari segi praktikal. Skor TxGNN yang tinggi mungkin mencerminkan hubungan dalam graf pengetahuan dan bukan bukti klinikal.
+Sevoflurane digunakan semasa prosedur di bawah pemantauan anestesia. Oleh itu, penggunaan kronik atau pencegahan untuk angina vasospastik adalah tidak munasabah dari segi praktikal. Skor yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
 ---
 
@@ -97,7 +97,7 @@ Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila ruju
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model tanpa percubaan klinikal atau literatur sokongan. Sevoflurane juga tidak dipasarkan di Malaysia dan penggunaannya sebagai anestetik tidak sesuai untuk pengurusan kronik angina vasospastik.
+- Ramalan ini hanya berasaskan model tanpa percubaan klinikal atau literatur sokongan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
@@ -113,16 +113,16 @@ Sepuluh indikasi teratas semuanya berstatus **Hold**. Tiada satu pun mempunyai p
 
 | Kedudukan | Indikasi | Skor TxGNN | Tahap Bukti | Catatan |
 |------|------|------|------|------|
-| 1 | Prinzmetal angina | 99.78% | L5 | Hanya ramalan model |
-| 2 | Sindrom Tourette | 99.50% | L5 | Hanya ramalan model |
-| 3 | Fibromialgia | 99.42% | L4 | Satu laporan kes pengurusan anestesia; tiada kesan terapeutik ditunjukkan |
-| 4 | Tendinitis | 99.41% | L4 | Kajian anestesia perioperatif, bukan rawatan tendinitis |
-| 5 | Miositis fibrosa | 99.41% | L5 | Hanya ramalan model |
-| 6 | Miositis granulomatosa idiopatik | 99.41% | L5 | Skor sama dengan miositis fibrosa, mungkin artifak graf |
-| 7 | Sindrom antidiuresis tidak wajar nefrogenik | 99.40% | L5 | Hanya ramalan model |
-| 8 | Trikotilomania | 99.33% | L5 | Hanya ramalan model |
-| 9 | Gangguan migrain | 99.23% | L4 | Satu laporan pengalaman anestesia MRI kanak-kanak; mungkin artifak kata kunci |
-| 10 | Miositis jasad inklusi | 99.09% | L4 | Laporan kes pertimbangan anestesia; risiko keselamatan pada penyakit otot |
+| 1 | Prinzmetal angina | 0.9978 | L5 | Hanya ramalan model |
+| 2 | Sindrom Tourette | 0.9950 | L5 | Hanya ramalan model |
+| 3 | Fibromialgia | 0.9942 | L4 | Satu laporan kes pengurusan anestesia; tiada kesan terapeutik ditunjukkan |
+| 4 | Tendinitis | 0.9941 | L5 | Kajian anestesia perioperatif, bukan rawatan tendinitis |
+| 5 | Miositis fibrosa | 0.9941 | L5 | Hanya ramalan model |
+| 6 | Miositis granulomatosa idiopatik | 0.9941 | L5 | Skor sama dengan miositis fibrosa; skor model TxGNN (pembelajaran mendalam) ini mungkin mencerminkan persamaan yang dipelajari antara penyakit berkaitan, bukan bukti biologi |
+| 7 | Sindrom antidiuresis tidak wajar nefrogenik | 0.9940 | L5 | Hanya ramalan model |
+| 8 | Trikotilomania | 0.9933 | L5 | Hanya ramalan model |
+| 9 | Gangguan migrain | 0.9923 | L5 | Satu laporan pengalaman anestesia MRI kanak-kanak; mungkin artifak kata kunci |
+| 10 | Miositis jasad inklusi | 0.9909 | L4 | Laporan kes pertimbangan anestesia; risiko keselamatan pada penyakit otot |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

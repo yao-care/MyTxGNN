@@ -50,10 +50,10 @@ tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyok
 |------|------|
 | Indikasi Asal | Tardive dyskinesia; dyskinesia lingual-muka-bukal |
 | Indikasi Baharu yang Diramalkan | Psychogenic movement disorders |
-| Skor Ramalan TxGNN | 99.82% |
+| Skor Ramalan TxGNN | 0.9982 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -103,7 +103,7 @@ Sila rujuk risalah pakej untuk maklumat amaran dan kontraindikasi.
 - Bukti klinikal atau pra-klinikal khusus untuk psychogenic movement disorders.
 - Status pendaftaran dan ketersediaan produk di Malaysia.
 
-**Catatan tentang calon lain:** Antara calon ramalan lain, **chronic tic disorder** (skor 99.80%) mempunyai bukti paling banyak. Terdapat 13 penerbitan, termasuk ulasan pembangunan klinikal valbenazine untuk tic dalam sindrom Tourette (PMID 33682568), laporan 2025 tentang valbenazine untuk gangguan tic motor atau vokal kronik (PMID 41141210), dan ulasan sistematik 2026 (PMID 40796996). Tahap buktinya ialah L3 (tiada rekod ujian berdaftar disediakan, jadi keputusan RCT belum boleh disahkan). Calon ini wajar dinilai lebih lanjut sebagai persoalan penyelidikan. Calon lain (primary orthostatic tremor, benign shuddering attacks dan lain-lain) kekal pada L5 tanpa sebarang bukti.
+**Catatan tentang calon lain:** Antara calon ramalan lain, **chronic tic disorder** (skor 0.9980) mempunyai bukti paling banyak. Terdapat 13 penerbitan, termasuk ulasan pembangunan klinikal valbenazine untuk tic dalam sindrom Tourette (PMID 33682568), laporan 2025 tentang valbenazine untuk gangguan tic motor atau vokal kronik (PMID 41141210), dan ulasan sistematik 2026 (PMID 40796996). Tahap buktinya ialah L3 (tiada rekod ujian berdaftar disediakan, jadi keputusan RCT belum boleh disahkan). Calon ini wajar dinilai lebih lanjut sebagai persoalan penyelidikan. Calon lain (primary orthostatic tremor, benign shuddering attacks dan lain-lain) kekal pada L5 tanpa sebarang bukti.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

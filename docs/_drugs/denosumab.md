@@ -50,10 +50,10 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada kajian langsung** 
 |------|------|
 | Indikasi Asal | Osteoporosis, osteoporosis pascamenopaus, osteoporosis akibat ubat |
 | Indikasi Baharu yang Diramalkan | Retinopati diabetik non-proliferatif teruk |
-| Skor Ramalan TxGNN | 99.63% |
+| Skor Ramalan TxGNN | 0.9963 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold |
 
 Nota: Indikasi asal di atas diambil daripada pangkalan pengetahuan TxGNN, bukan daripada teks label NPRA, kerana tiada lesen berdaftar di Malaysia.
@@ -64,9 +64,9 @@ Nota: Indikasi asal di atas diambil daripada pangkalan pengetahuan TxGNN, bukan 
 
 Data terperinci mengenai mekanisme tindakan (MOA) denosumab tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, denosumab ialah antibodi yang menyekat RANKL (ligan bagi RANK) dan keberkesanannya dalam osteoporosis telah mantap. Secara mekanisme, laluan RANKL/RANK/osteoprotegerin dikaitkan dengan pengkalsifikasian vaskular, keradangan dan patologi mikrovaskular berkaitan diabetes.
 
-Secara teori, perencatan RANKL oleh denosumab boleh memodulasi proses ini pada retina. Namun begitu, tiada bukti retina secara langsung dikemukakan, dan hubungan ini masih bersifat hipotesis. Skor TxGNN yang sangat tinggi (0.996) ialah ramalan pengiraan sahaja dan tidak boleh dianggap sebagai bukti keberkesanan klinikal.
+Secara teori, perencatan RANKL oleh denosumab boleh memodulasi proses ini pada retina. Namun begitu, tiada bukti retina secara langsung dikemukakan, dan hubungan ini masih bersifat hipotesis. Skor TxGNN yang sangat tinggi (0.9963) ialah ramalan pengiraan sahaja dan tidak boleh dianggap sebagai bukti keberkesanan klinikal.
 
-Indikasi kedua yang diramalkan, **retinopati diabetik** (skor 99.23%), juga tidak mempunyai percubaan klinikal. Ia disertakan dalam bahagian literatur di bawah kerana hanya indikasi ini mempunyai penerbitan yang dikemukakan.
+Indikasi kedua yang diramalkan, **retinopati diabetik** (skor 0.9923), juga tidak mempunyai percubaan klinikal. Ia disertakan dalam bahagian literatur di bawah kerana hanya indikasi ini mempunyai penerbitan yang dikemukakan.
 
 ---
 

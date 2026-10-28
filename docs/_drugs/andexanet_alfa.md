@@ -48,10 +48,10 @@ Andexanet alfa ialah protein rekombinan "umpan" faktor Xa yang tidak aktif secar
 |------|------|
 | Indikasi Asal | Tiada data indikasi yang diluluskan dalam data yang dikumpulkan (tiada lesen NPRA) |
 | Indikasi Baharu yang Diramalkan | Glanzmann thrombasthenia |
-| Skor Ramalan TxGNN | 99.77% |
+| Skor Ramalan TxGNN | 0.9977 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,15 +62,15 @@ Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang 
 
 Glanzmann thrombasthenia ialah gangguan platelet yang diwarisi, disebabkan oleh kekurangan atau disfungsi integrin alphaIIb/beta3. Tiada mekanisme yang munasabah yang menghubungkan peneutralan perencat FXa dengan keadaan ini. Tiada ujian klinikal atau literatur menyokong hubungan tersebut.
 
-Skor yang tinggi (0.998) berkemungkinan merupakan artifak graf pengetahuan yang dikaitkan dengan istilah pendarahan atau hemostasis, bukan petunjuk kebolehgunaan terapeutik sebenar.
+Skor yang tinggi (0.9977) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan dengan pendarahan atau hemostasis, bukan bukti biologi atau petunjuk kebolehgunaan terapeutik sebenar.
 
 **Ramalan-ramalan lain daripada model (semuanya L5, Hold):**
 
 | Kedudukan | Penyakit | Skor TxGNN | Catatan |
 |------|------|------|------|
-| 2 | Gangguan pembebasan primer platelet | 99.76% | Andexanet alfa tiada kesan diketahui terhadap laluan perembesan platelet. |
-| 3 | Penyakit pseudo-von Willebrand | 99.65% | Penyakit ini disebabkan varian gain-of-function GP1BA; andexanet alfa tidak bertindak pada paksi GPIb-VWF. |
-| 4 | Hemofilia | 99.10% | Terdapat 9 penerbitan berkaitan, tetapi tiada yang menunjukkan andexanet alfa merawat hemofilia (lihat di bawah). |
+| 2 | Gangguan pembebasan primer platelet | 0.9976 | Andexanet alfa tiada kesan diketahui terhadap laluan perembesan platelet. |
+| 3 | Penyakit pseudo-von Willebrand | 0.9965 | Penyakit ini disebabkan varian gain-of-function GP1BA; andexanet alfa tidak bertindak pada paksi GPIb-VWF. |
+| 4 | Hemofilia | 0.9910 | Terdapat 9 penerbitan berkaitan, tetapi tiada yang menunjukkan andexanet alfa merawat hemofilia (lihat di bawah). |
 
 ---
 

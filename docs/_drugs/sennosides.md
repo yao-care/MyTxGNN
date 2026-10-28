@@ -6,9 +6,9 @@ nav_order: 641
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
-description: "Sennosides: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (tahap bukti L5). Indikasi asal: Tiada data pendaftaran tempatan (kelas: julap perangsang)"
 monitor_inn: "SENNOSIDES"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia"]
+description: "Sennosides: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Sennosides
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-## Sennosides: Daripada Julat Indikasi Asal kepada Hipotrikosis Simpleks Kulit Kepala
+## Sennosides: Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Sennosides ialah julat julap perangsang (stimulant laxative) yang digunakan untu
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data pendaftaran tempatan (kelas: julap perangsang) |
-| Indikasi Baharu yang Diramalkan | Hipotrikosis simpleks kulit kepala |
-| Skor Ramalan TxGNN | 99.29% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) |
+| Skor Ramalan TxGNN | 0.9929 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -62,9 +62,9 @@ Sennosides ialah julat julap perangsang (stimulant laxative) yang digunakan untu
 
 Data mekanisme tindakan (MOA) terperinci tidak tersedia. Berdasarkan maklumat sedia ada, sennosides ialah julap perangsang. Metabolit aktifnya, rheinanthrone, bertindak pada mukosa kolon dan neuron enterik (peningkatan prostaglandin E2 dan rembesan cecair, serta perubahan ungkapan aquaporin-3).
 
-Tiada hubungan mekanistik yang dapat ditunjukkan antara laluan ini dengan biologi folikel rambut atau hipotrikosis genetik. Skor tinggi (0.993) merupakan ramalan berasaskan graf semata-mata dan berkemungkinan didorong oleh kedekatan rangkaian, bukan biologi sebenar.
+Tiada hubungan mekanistik yang dapat ditunjukkan antara laluan ini dengan biologi folikel rambut atau hipotrikosis genetik. Skor tinggi (0.9929) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi.
 
-Ramalan lain dalam senarai juga tidak mempunyai asas mekanistik: kehilangan rambut (alopecia umum, alopesia areata meresap, hipotrikosis milia kongenital) dan glaukoma (sudut terbuka dan keturunan primer). Pertindihan ramalan berkaitan rambut menunjukkan kemungkinan artifak kejiranan graf yang sama, bukan isyarat bebas.
+Ramalan lain dalam senarai juga tidak mempunyai asas mekanistik: kehilangan rambut (alopecia umum, alopesia areata meresap, hipotrikosis milia kongenital) dan glaukoma (sudut terbuka dan keturunan primer). Pertindihan ramalan berkaitan rambut menunjukkan kemungkinan persamaan yang sama dipelajari oleh model TxGNN (pembelajaran mendalam) antara penyakit berkaitan, bukan isyarat bebas.
 
 ---
 
@@ -72,11 +72,11 @@ Ramalan lain dalam senarai juga tidak mempunyai asas mekanistik: kehilangan ramb
 
 | Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Keputusan |
 |------|------|------|------|------|
-| 2 | Hipotrikosis milia kongenital | 99.23% | L5 | Hold |
-| 3 | Alopesia areata meresap | 99.12% | L5 | Hold |
-| 4 | Glaukoma sudut terbuka | 99.11% | L5 | Hold |
-| 5 | Glaukoma keturunan primer | 99.10% | L5 | Hold |
-| 6 | Alopecia | 99.10% | L5 | Hold |
+| 2 | Hipotrikosis milia kongenital | 0.9923 | L5 | Hold |
+| 3 | Alopesia areata meresap | 0.9912 | L5 | Hold |
+| 4 | Glaukoma sudut terbuka | 0.9911 | L5 | Hold |
+| 5 | Glaukoma keturunan primer | 0.9910 | L5 | Hold |
+| 6 | Alopecia | 0.9910 | L5 | Hold |
 
 Alopesia areata ialah gangguan autoimun yang diperantarai sel T (runtuhnya keistimewaan imun folikel, isyarat JAK/STAT). Sennosides tiada aktiviti imunomodulasi yang relevan, dan alternatif yang telah diluluskan (contohnya perencat JAK) sudah wujud. Glaukoma melibatkan aliran keluar aqueous humor dan tekanan intraokular, dan sennosides tiada sasaran okular yang diketahui.
 
@@ -105,7 +105,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan. Perlu diingat bahawa kesan 
 **Keputusan: Hold (Tahan)**
 
 **Justifikasi:**
-- Ramalan hanya bersandarkan skor model (tahap bukti L5), tanpa percubaan klinikal, literatur, atau hubungan mekanistik yang munasabah. Ubat ini juga tidak dipasarkan di Malaysia.
+- Ramalan hanya bersandarkan skor model (tahap bukti L5), tanpa percubaan klinikal, literatur, atau hubungan mekanistik yang munasabah.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej dan maklumat amaran/kontraindikasi daripada NPRA (jurang data yang menghalang saringan keselamatan)

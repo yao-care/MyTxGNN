@@ -6,9 +6,9 @@ nav_order: 590
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Potassium Acetate: indikasi baharu diramal Asidosis tubulus renal (tahap bukti L5). Indikasi asal: Penyakit kekurangan kalium"
 monitor_inn: "POTASSIUM ACETATE"
 predicted_indications: ["renal tubular acidosis"]
+description: "Potassium Acetate: indikasi baharu diramal Renal tubular acidosis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Potassium Acetate
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Kalium Asetat: Daripada Kekurangan Kalium kepada Asidosis Tubulus Renal
+## Potassium Acetate: Renal tubular acidosis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit kekurangan kalium |
-| Indikasi Baharu yang Diramalkan | Asidosis tubulus renal |
-| Skor Ramalan TxGNN | 99.90% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Renal tubular acidosis |
+| Skor Ramalan TxGNN | 0.9990 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -64,7 +64,7 @@ Data terperinci tentang mekanisme tindakan asal tidak tersedia pada masa ini. Be
 
 Asetat dimetabolismekan menjadi bikarbonat, yang boleh membantu membetulkan asidosis metabolik. Kalium pula boleh membetulkan hipokalemia, yang lazim dalam asidosis tubulus renal jenis distal (jenis 1) dan proksimal (jenis 2). Hubungan antara indikasi asal (kekurangan kalium) dengan indikasi baharu (asidosis tubulus renal) ialah kedua-duanya melibatkan ketidakseimbangan elektrolit dan asid-bes.
 
-Namun, rasional ini belum disokong oleh data yang disediakan. Dalam amalan, kalium sitrat atau bikarbonat ialah terapi alkali/kalium yang lazim bagi keadaan ini, jadi kalium asetat hanya akan menjadi garam alternatif dan bukan mekanisme baharu. Ketiadaan data mekanisme asal dan status tidak dipasarkan turut mengehadkan kebolehlaksanaan praktikal.
+Namun, rasional ini belum disokong oleh data yang disediakan. Dalam amalan, kalium sitrat atau bikarbonat ialah terapi alkali/kalium yang lazim bagi keadaan ini, jadi kalium asetat hanya akan menjadi garam alternatif dan bukan mekanisme baharu.
 
 ---
 
@@ -97,7 +97,7 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi yang lengkap.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan skor model yang tinggi (99.90%) tanpa sebarang percubaan klinikal atau literatur, dan ubat ini tidak dipasarkan di Malaysia. Terapi sedia ada (kalium sitrat atau bikarbonat) juga lebih lazim digunakan.
+- Terapi sedia ada (kalium sitrat atau bikarbonat) juga lebih lazim digunakan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang penilaian keselamatan)

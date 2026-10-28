@@ -7,13 +7,14 @@ drugbank_id: "DB00265"
 drug_name: "Crotamiton"
 kg_predictions: 27
 dl_predictions: 270
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/crotamiton/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Crotamiton
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **27** ramalan graf pengetahuan dan **270** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **27** ramalan model TxGNN (pembelajaran mendalam) dan **270** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

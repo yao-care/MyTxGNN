@@ -8,6 +8,7 @@ nav_order: 137
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Benzydamine Hydrochloride
@@ -48,8 +49,8 @@ Pada masa ini, model TxGNN **tidak telah menghasilkan sebarang petunjuk petunjuk
 | Petunjuk Baru Yang Diramalkan | Tiada (tiada ramalan TxGNN tersedia) |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 — Tiada ramalan atau kajian sokongan |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 20 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 20 daripada 20) |
+| Bilangan Pendaftaran | 20 (sah: 20) |
 | Keputusan Disyorkan | **Tahan** |
 
 ## Mengapa Ramalan Ini Munasabah?

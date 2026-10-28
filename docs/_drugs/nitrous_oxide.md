@@ -3,7 +3,7 @@ layout: default
 title: Nitrous Oxide
 parent: Low Evidence (L4-L5)
 nav_order: 530
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Nitrous Oxide: indikasi baharu diramal Hiperplasia prostat benigna (BPH) (tahap bukti L4). Indikasi asal: Tiada data indikasi lulus daripada pendaftaran tempatan"
@@ -14,7 +14,7 @@ predicted_indications: ["benign prostatic hyperplasia (disease)"]
 # Nitrous Oxide
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **1** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Hiperplasia Prostat Benigna (
 |------|------|
 | Indikasi Asal | Tiada data indikasi lulus daripada pendaftaran tempatan |
 | Indikasi Baharu yang Diramalkan | Hiperplasia prostat benigna (BPH) |
-| Skor Ramalan TxGNN | 99.52% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9952 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Hiperplasia Prostat Benigna (
 
 Pada masa ini, data terperinci mengenai mekanisme tindakan tidak tersedia. Nitrous oxide diketahui sebagai anestetik sedut dengan kesan anxiolitik dan analgesik, tetapi tiada mekanisme biologi yang didokumenkan dalam data yang dihimpunkan yang menghubungkannya dengan patologi BPH (tonus otot licin prostat, isyarat androgen, atau percambahan stroma/epitelium).
 
-Skor TxGNN yang sangat tinggi (0.995) berasal daripada ramalan berasaskan rangkaian pengetahuan, bukan bukti biologi langsung. Satu-satunya isyarat klinikal ialah penggunaan prosedur: nitrous oxide digunakan untuk mengurangkan kebimbangan dan kesakitan semasa biopsi prostat transrektal. Ini ialah sokongan simptom/prosedur, bukan pengubahsuaian penyakit atau rawatan BPH.
+Skor TxGNN yang sangat tinggi (0.9952) berasal daripada ramalan berasaskan rangkaian pengetahuan, bukan bukti biologi langsung. Satu-satunya isyarat klinikal ialah penggunaan prosedur: nitrous oxide digunakan untuk mengurangkan kebimbangan dan kesakitan semasa biopsi prostat transrektal. Ini ialah sokongan simptom/prosedur, bukan pengubahsuaian penyakit atau rawatan BPH.
 
 Oleh itu, sebarang kaitan antara indikasi asal dan indikasi baharu ini hanyalah tidak langsung, dan kemunasabahan mekanistiknya masih lemah.
 

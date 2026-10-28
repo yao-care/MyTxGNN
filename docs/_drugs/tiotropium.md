@@ -4,17 +4,17 @@ title: Tiotropium
 parent: High Evidence (L1-L2)
 nav_order: 684
 evidence_level: L1
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Tiotropium: indikasi baharu diramal Penyakit paru obstruktif (obstructive lung disease) (tahap bukti L1). Indikasi asal: Bronkitis, asma, asma intrinsik, asma alergi…"
 monitor_inn: "TIOTROPIUM"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis", "susceptibility to respiratory infections associated with CD8alpha chain mutation"]
+predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
+description: "Tiotropium: indikasi baharu diramal Penyakit paru obstruktif (obstructive lung disease) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Tiotropium
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-## Tiotropium: Daripada Bronkitis/Asma/Emfisema kepada Penyakit Paru Obstruktif
+## Tiotropium: Penyakit paru obstruktif (obstructive lung disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ dengan **40 percubaan klinikal** dan **20 penerbitan** yang dikumpulkan bagi ara
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Bronkitis, asma, asma intrinsik, asma alergi, emfisema paru-paru (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen NPRA) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramal | Penyakit paru obstruktif (obstructive lung disease) |
-| Skor Ramalan TxGNN | 99.99% |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L1 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
@@ -108,7 +108,7 @@ Percubaan juga merangkumi asma (contohnya [NCT01316380](https://clinicaltrials.g
 
 ## Maklumat Pasaran Malaysia
 
-Berdasarkan data yang dikumpulkan untuk laporan ini, tiotropium **tidak dipasarkan** di Malaysia dan tiada pendaftaran (lesen) dicatatkan. Oleh itu tiada jadual kebenaran pemasaran dipaparkan.
+Oleh itu tiada jadual kebenaran pemasaran dipaparkan.
 
 ---
 

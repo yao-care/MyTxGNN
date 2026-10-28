@@ -50,10 +50,10 @@ tetapi setakat ini terdapat **0 ujian klinikal** dan hanya **1 penerbitan** (ula
 |------|------|
 | Indikasi Asal | Tiada data (tiada lesen berdaftar di Malaysia) |
 | Indikasi Baharu yang Diramalkan | Rheumatoid arthritis |
-| Skor Ramalan TxGNN | 99.45% |
+| Skor Ramalan TxGNN | 0.9945 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -62,9 +62,9 @@ tetapi setakat ini terdapat **0 ujian klinikal** dan hanya **1 penerbitan** (ula
 
 Data terperinci mengenai mekanisme tindakan belum tersedia dalam data yang dikumpulkan. Namun, capmatinib diketahui sebagai perencat tirosin kinase MET yang terpilih. Laluan HGF/MET dikaitkan dengan pengaktifan fibroblas sinovium, angiogenesis dan pembentukan pannus dalam rheumatoid arthritis (RA), dan kajian praklinikal melaporkan ekspresi MET yang meningkat dalam sinovium RA.
 
-Walau bagaimanapun, ini hanyalah rasional yang munasabah tetapi belum terbukti. Tiada data praklinikal atau klinikal langsung bagi capmatinib dalam RA. Skor TxGNN (0.994) ialah ramalan pengiraan sahaja dan bukan bukti klinikal.
+Walau bagaimanapun, ini hanyalah rasional yang munasabah tetapi belum terbukti. Tiada data praklinikal atau klinikal langsung bagi capmatinib dalam RA. Skor TxGNN (0.9945) ialah ramalan pengiraan sahaja dan bukan bukti klinikal.
 
-Ramalan kedua, **brachydactyly-syndactyly syndrome** (skor 99.03%), tidak mempunyai sebarang ujian klinikal atau literatur. Sindrom ini ialah kecacatan anggota kongenital yang biasanya disebabkan varian genetik perkembangan (contohnya HOXD13). Perencat MET tidak dijangka dapat membetulkan kecacatan germline sebegini, dan ramalan ini besar kemungkinan artifak rangkaian pengetahuan. Laporan ini tertumpu pada ramalan utama, iaitu rheumatoid arthritis.
+Ramalan kedua, **brachydactyly-syndactyly syndrome** (skor 0.9903), tidak mempunyai sebarang ujian klinikal atau literatur. Sindrom ini ialah kecacatan anggota kongenital yang biasanya disebabkan varian genetik perkembangan (contohnya HOXD13). Perencat MET tidak dijangka dapat membetulkan kecacatan germline sebegini, dan ramalan ini besar kemungkinan artifak rangkaian pengetahuan. Laporan ini tertumpu pada ramalan utama, iaitu rheumatoid arthritis.
 
 ---
 

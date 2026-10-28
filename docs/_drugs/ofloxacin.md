@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Ofloxacin
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 540
-evidence_level: L3
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Ofloxacin: indikasi baharu diramal Demam paratifoid (tahap bukti L3). Indikasi asal: Demam kepialu, salmonelosis, demam paratifoid…"
+evidence_level: L5
+indication_count: 10
+monitor_inn: "Ofloxacin"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
+last_modified_at: 2026-10-23
+description: "Ofloxacin: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ofloxacin
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,14 +33,14 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-## Ofloxacin: Daripada Jangkitan Bakteria (Demam Kepialu) kepada Demam Paratifoid
+## Ofloxacin: Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Ofloxacin ialah antibiotik fluorokuinolon yang pada asalnya digunakan untuk merawat pelbagai jangkitan bakteria seperti demam kepialu, jangkitan saluran kencing, bronkitis dan radang paru-paru bakteria.
-Model TxGNN meramalkan ia mungkin berkesan untuk **demam paratifoid**, tetapi **tiada ujian klinikal berdaftar** dan hanya terdapat **20 penerbitan** (termasuk sorotan sistematik Cochrane dan meta-analisis kelas fluorokuinolon) yang menyokong arah ini.
-Perlu diperhatikan bahawa demam paratifoid sudah hampir dengan indikasi asal, jadi ini bukan pengalihan guna (repurposing) yang sebenar.
+Ofloxacin ialah antibiotik fluoroquinolone. Ubat ini dikaitkan dengan jangkitan bakteria seperti demam kepialu, jangkitan saluran kkencing dan bronkitis.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome)**.
+Namun, **tiada ujian klinikal** dan **tiada penerbitan** yang mengkaji penyakit ini secara langsung, jadi ramalan ini hanyalah ramalan model.
 
 ---
 
@@ -46,92 +48,77 @@ Perlu diperhatikan bahawa demam paratifoid sudah hampir dengan indikasi asal, ja
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Demam kepialu, salmonelosis, demam paratifoid, jangkitan saluran kencing, bronkitis dan lain-lain |
-| Indikasi Baharu yang Diramalkan | Demam paratifoid |
-| Skor Ramalan TxGNN | 0.0% |
-| Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) |
+| Skor Ramalan TxGNN | 0.9991 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 148 daripada 148) |
+| Bilangan Pendaftaran | 148 (sah: 148) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) daripada pangkalan data tidak tersedia. Berdasarkan pengetahuan farmakologi umum, ofloxacin ialah fluorokuinolon yang merencat DNA gyrase dan topoisomerase IV bakteria, dan aktif terhadap *Salmonella enterica* termasuk serovar Paratyphi.
+Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Ofloxacin diketahui tergolong dalam kelas fluoroquinolone, yang menghalang enzim DNA gyrase dan topoisomerase IV bakteria. Kesannya terbukti pada jangkitan bakteria, tetapi tiada pautan mekanistik yang munasabah kepada sindrom hiperkelikatan poliklonal.
 
-Demam paratifoid sudah tersenarai hampir dengan indikasi asal (demam kepialu, salmonelosis, demam paratifoid). Oleh itu, ini adalah indikasi dalam label atau hampir dalam label, bukan pengalihan guna yang sebenar. Kedua-dua penyakit ialah demam enterik yang disebabkan oleh *Salmonella* dengan mekanisme sasaran antibiotik yang sama.
+Sindrom ini berkait dengan kelikatan serum yang tinggi akibat pengeluaran imunoglobulin yang berlebihan. Tiada bukti bahawa ofloxacin mempengaruhi kelikatan serum atau pengeluaran imunoglobulin. Skor tinggi ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi atau klinikal.
 
-Namun, bukti peringkat sorotan merangkumi kelas fluorokuinolon secara umum, bukan ofloxacin secara khusus. Rintangan fluorokuinolon yang meningkat dalam demam enterik di Asia Selatan juga mengehadkan penggunaan klinikal semasa.
+Oleh itu, ramalan ini dinilai **lemah dari segi mekanisme**.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+Buat masa ini tiada ujian klinikal berdaftar yang berkaitan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [21975746](https://pubmed.ncbi.nlm.nih.gov/21975746/) | 2011 | Sorotan sistematik (Cochrane) | Cochrane Database Syst Rev | Menilai fluorokuinolon untuk merawat demam kepialu dan paratifoid; WHO mengesyorkannya di kawasan dengan rintangan terhadap antibiotik lini pertama lama |
-| [19493939](https://pubmed.ncbi.nlm.nih.gov/19493939/) | 2009 | Meta-analisis | BMJ | Membandingkan fluorokuinolon dengan antibiotik lain untuk demam enterik |
-| [36420914](https://pubmed.ncbi.nlm.nih.gov/36420914/) | 2022 | Sorotan sistematik | Cochrane Database Syst Rev | Rawatan demam enterik dengan sefalosporin; rintangan fluorokuinolon di Asia Selatan sering menghalang penggunaan siprofloksasin |
-| [28329181](https://pubmed.ncbi.nlm.nih.gov/28329181/) | 2017 | Analisis data pesakit individu (4 RCT) | Clin Infect Dis | Respons rawatan demam enterik dalam era rintangan antimikrob yang meningkat (2092 peserta di Nepal) |
-| [8361412](https://pubmed.ncbi.nlm.nih.gov/8361412/) | 1993 | Kajian klinikal | Mikrobiyoloji Bulteni | 33 pesakit dewasa jangkitan salmonela (termasuk 9 paratifoid) dirawat dengan ofloxacin; semua pulih tanpa komplikasi |
-| [2113941](https://pubmed.ncbi.nlm.nih.gov/2113941/) | 1990 | Laporan klinikal | J Chemother | Ofloxacin 200 mg dua kali sehari selama 8 hari pada 28 pesakit demam enterik; semua sembuh secara klinikal dan bakteriologi, tiada relaps dalam 12 minggu |
-| [3102387](https://pubmed.ncbi.nlm.nih.gov/3102387/) | 1986 | Laporan klinikal | Infection | Ofloxacin untuk jangkitan genitourinari dan enterik, termasuk lapan pesakit demam enterik |
-| [17965350](https://pubmed.ncbi.nlm.nih.gov/17965350/) | 2007 | Kajian in vitro | J Med Microbiol | Aktiviti in vitro kuinolon baharu, azitromisin dan sefalosporin terhadap isolat enterik yang rintang siprofloksasin |
-| [20955459](https://pubmed.ncbi.nlm.nih.gov/20955459/) | 2010 | Praklinikal | APMIS | Ofloxacin digabungkan dengan probiotik *L. fermentum* ME-3 dalam model tikus *Salmonella* Typhimurium |
-| [42621584](https://pubmed.ncbi.nlm.nih.gov/42621584/) | 2026 | Keratan rentas | Cureus | Profil klinikal dan kerentanan antimikrob isolat kepialu/paratifoid pada kanak-kanak |
+Buat masa ini tiada literatur yang berkaitan.
 
 ---
 
-## Keselamatan dan Pertimbangan
+## Maklumat Pasaran di Malaysia
 
-**Kontraindikasi/keadaan berisiko (daripada graf pengetahuan, bukan teks label):** Data ini diperoleh daripada hubungan dalam graf pengetahuan dan bukan daripada sisipan pakej. Antara yang disenaraikan:
-- **Jantung:** sindrom QT panjang (termasuk familial), torsades de pointes
-- **Hepar dan buah pinggang:** kegagalan hati, penyakit hati, kecederaan hati disebabkan ubat, penyakit buah pinggang, gangguan fungsi buah pinggang
-- **Saraf dan otot:** epilepsi, miastenia gravis, penyakit sambungan neuromuskular, neuropati periferal, rabdomiolisis
-- **Tendon dan sendi:** tendinitis, periartritis
-- **Metabolik:** diabetes mellitus, ketoasidosis diabetik, kekurangan kalium
-- **Hematologi:** trombositopenia, anemia, leukopenia
-- **Gastrousus:** kolitis *Clostridium difficile*, enterokolitis nekrotik perinatal
+Senarai di bawah ialah lima pendaftaran produk berasaskan ofloxacin (berdasarkan nama produk) daripada data yang dikumpulkan. Teks indikasi yang diluluskan tidak tersedia dalam rekod ini. Senarai penuh pendaftaran juga mengandungi produk fluoroquinolone lain dan produk veterinar, jadi jumlah 148 tidak bermaksud semuanya produk ofloxacin untuk manusia.
 
-**Interaksi Ubat (100 interaksi dikesan; contoh utama):**
-- **Major:** hidrokortison, deksametason, betametason, triamsinolon (kortikosteroid), bupropion, klorpropamida
-- **Moderate:** ubat antidiabetes (metformin, pioglitazon, alogliptin, akarbosa, kanagliflozin, albiglutid), famotidin, loperamida, aspirin, balsalazid, bisakodil, kalsium fosfat/asetat, kalium sitrat
+| Nombor Kelulusan | Nama Produk | Pengilang |
+|---------|------|------|
+| MAL20020027AZ | OFLICIN-100 TABLET | Steriline Sdn. Bhd. |
+| MAL20020256AZ | OFCIN Film Coated Tablet 200mg | Y.S.P. Industries (M) Sdn. Bhd. |
+| MAL20020257AZ | OFCIN Film Coated Tablet 400mg | Y.S.P. Industries (M) Sdn. Bhd. |
+| MAL17107038ACREZ | hovid Ofloxacin Eye Drops 0.3% w/v | Hovid Berhad |
+| MAL20040909ARZ | TARIVID Ophthalmic Solution | Santen Pharma Malaysia Sdn. Bhd. |
 
-Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi rasmi.
+---
+
+## Pertimbangan Keselamatan
+
+- **Hubungan kontraindikasi dalam graf pengetahuan** (bukan teks label): sindrom QT panjang, torsades de pointes, epilepsi, penyakit buah pinggang dan hati, tendinitis, neuropati periferi, myasthenia gravis, diabetes mellitus, rhabdomyolysis, kolitis Clostridium difficile, leukopenia, trombositopenia dan beberapa keadaan lain.
+- **Interaksi ubat** (100 interaksi direkodkan; hanya sebahagian disenaraikan):
+  - **Major**: hidrokortison, deksametason, betametason, triamsinolon (risiko tendon dengan kortikosteroid), bupropion, klorpropamid.
+  - **Moderate**: ubat diabetes (metformin, pioglitazon, akarbose, alogliptin, kanagliflozin, albiglutid), famotidin, loperamid, aspirin, balsalazid, bisakodil, serta garam kalsium dan kalium.
+
+Amaran utama dan kontraindikasi daripada sisipan pek tidak tersedia. Sila rujuk sisipan pek untuk maklumat keselamatan yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Demam paratifoid hampir dengan indikasi asal sedia ada, jadi nilai pengalihan guna adalah terhad. Tiada ujian klinikal berdaftar, bukti sorotan meliputi kelas fluorokuinolon dan bukan ofloxacin secara khusus, dan rintangan fluorokuinolon yang meningkat di Asia Selatan mengehadkan penggunaan semasa. Ofloxacin juga tidak berdaftar di Malaysia (0 pendaftaran), dan data keselamatan rasmi belum lengkap.
+- Ramalan ini hanya berasaskan skor model TxGNN (pembelajaran mendalam), yang mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Tiada ujian klinikal atau literatur untuk penyakit ini, dan tiada mekanisme yang munasabah. Bukti berada pada tahap L5.
+- Ofloxacin juga mempunyai kontraindikasi dan interaksi ubat yang ketara, jadi nisbah manfaat-risiko untuk indikasi ini tidak menyokong kemajuan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
-- Data kerentanan antimikrob tempatan di Malaysia terhadap *Salmonella* Typhi/Paratyphi
-- Bukti keberkesanan khusus ofloxacin (ujian klinikal berdaftar atau RCT terkini)
-- Penilaian laluan kawal selia kerana produk belum dipasarkan di Malaysia
-
----
-
-### Nota Tambahan: Indikasi Lain yang Diramalkan
-
-| Indikasi | Tahap Bukti | Pengesyoran | Ringkasan |
-|------|------|------|------|
-| Penyakit diarea | L4 | Hold | Literatur kebanyakannya pengawasan, kerentanan dan laporan wabak; tiada bukti keberkesanan langsung; sebahagian tidak berkaitan |
-| Pneumonia disebabkan klamidia | L4 | Hold | Terdapat satu laporan klinikal lama (PMID 2691969, 1989); makrolida dan tetrasiklin kekal pilihan lini pertama |
-| Konjunktivitis berjangkit akut | L5 | Hold | Tiada ujian klinikal atau literatur |
-| Endometritis gonokokus akut | L5 | Hold | Hanya satu artikel PID umum; rintangan fluorokuinolon pada *N. gonorrhoeae* meluas |
+- Hipotesis mekanistik yang jelas dan data praklinikal yang menghubungkan ofloxacin dengan kelikatan serum atau pengeluaran imunoglobulin.
+- Data mekanisme tindakan (MOA) yang lengkap.
+- Amaran dan kontraindikasi daripada sisipan pek NPRA.
+- Kajian literatur sistematik untuk sindrom hiperkelikatan poliklonal.
+- Sebagai catatan sampingan, dalam senarai ramalan yang sama, **septicemic plague** (ranking ke-8) mempunyai sokongan praklinikal daripada kajian in vitro dan haiwan. Ia ialah petunjuk yang lebih munasabah untuk dikaji lanjut berbanding indikasi di atas, tetapi masih belum ada ujian pada manusia.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

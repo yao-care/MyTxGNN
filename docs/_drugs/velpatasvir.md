@@ -3,18 +3,18 @@ layout: default
 title: Velpatasvir
 parent: Low Evidence (L4-L5)
 nav_order: 721
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Velpatasvir: indikasi baharu diramal Jangkitan virus hepatitis B (tahap bukti L5). Indikasi asal: Jangkitan virus hepatitis C kronik"
 monitor_inn: "VELPATASVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Velpatasvir: indikasi baharu diramal Jangkitan virus hepatitis B (hepatitis B virus infection) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Velpatasvir
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Velpatasvir: Daripada Jangkitan Virus Hepatitis C Kronik kepada Jangkitan Virus Hepatitis B
+## Velpatasvir: Jangkitan virus hepatitis B (hepatitis B virus infection)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Namun, **5 ujian klinikal** dan **20 penerbitan** yang dikumpulkan hampir semuan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan virus hepatitis C kronik |
-| Indikasi Baharu yang Diramalkan | Jangkitan virus hepatitis B |
-| Skor Ramalan TxGNN | 99.87% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Jangkitan virus hepatitis B (hepatitis B virus infection) |
+| Skor Ramalan TxGNN | 0.9987 |
 | Tahap Bukti | L4 (tiada RCT Fasa 3 atau Fasa 2/3 yang menyokong indikasi baharu; hubungan mekanistik tidak disokong) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ---
@@ -99,7 +99,6 @@ Tiada satu pun daripada penerbitan ini menunjukkan keberkesanan velpatasvir terh
 
 ## Maklumat Pasaran Malaysia
 
-Velpatasvir pada masa ini **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar dalam data yang dikumpulkan.
 
 ---
 

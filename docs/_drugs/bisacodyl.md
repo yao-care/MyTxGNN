@@ -8,6 +8,7 @@ nav_order: 153
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Bisacodyl
@@ -49,8 +50,8 @@ Bisacodyl ialah pencahar perangsang yang digunakan secara meluas untuk melegakan
 | Petunjuk Baharu yang Dijangka | **Tiada** — tiada ramalan yang dijana oleh TxGNN |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | **L5** (Tiada output ramalan model, tiada kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 13 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 13 daripada 13) |
+| Bilangan Pendaftaran | 13 (sah: 13) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

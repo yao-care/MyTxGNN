@@ -6,9 +6,9 @@ nav_order: 698
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Travoprost: indikasi baharu diramal Kalsifilaksis viseral (tahap bukti L5). Indikasi asal: Glaukoma sudut terbuka dan hipertensi okular (berdasarkan graf penget…"
 monitor_inn: "Travoprost"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "idiopathic spontaneous coronary artery dissection", "lymphangiectasis", "hemangioendothelioma"]
+description: "Travoprost: indikasi baharu diramal Visceral calciphylaxis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Travoprost
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Travoprost: Daripada Glaukoma Sudut Terbuka kepada Kalsifilaksis Viseral
+## Travoprost: Visceral calciphylaxis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **kalsifilaksis viseral**, teta
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Glaukoma sudut terbuka dan hipertensi okular (berdasarkan graf pengetahuan TxGNN; tiada lesen tempatan untuk dirujuk) |
-| Indikasi Baharu yang Diramalkan | Kalsifilaksis viseral |
-| Skor Ramalan TxGNN | 99.99% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Visceral calciphylaxis |
+| Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -108,7 +108,6 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi.
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Kajian praklinikal yang menunjukkan kesan travoprost pada patologi kalsifikasi vaskular
 - Penilaian kesesuaian laluan pentadbiran dan pendedahan sistemik yang diperlukan, termasuk formulasi bukan oftalmik
-- Status pendaftaran tempatan, kerana ubat ini kini tidak dipasarkan di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

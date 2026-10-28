@@ -6,9 +6,9 @@ nav_order: 347
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Exemestane: indikasi baharu diramal Amenorea (ramalan kedudukan #2 (tahap bukti L5). Indikasi asal: Tiada data pendaftaran tempatan (tiada lesen direkodkan)"
 monitor_inn: "EXEMESTANE"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
+description: "Exemestane: indikasi baharu diramal Antithrombin deficiency type 2 (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Exemestane
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-## Exemestane: Daripada Kanser Payudara kepada Amenorea
+## Exemestane: Antithrombin deficiency type 2
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Exemestane ialah perencat aromatase steroid yang lazimnya digunakan dalam rawata
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data pendaftaran tempatan (tiada lesen direkodkan) |
-| Indikasi Baharu yang Diramalkan | Amenorea (ramalan kedudukan #2; ramalan kedudukan #1 ialah kekurangan antitrombin jenis 2) |
-| Skor Ramalan TxGNN | 99.82% (amenorea); 99.83% (kekurangan antitrombin jenis 2) |
-| Tahap Bukti | L4 (amenorea); L5 (kekurangan antitrombin jenis 2) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Antithrombin deficiency type 2 |
+| Skor Ramalan TxGNN | 0.9983 |
+| Tahap Bukti | L5 (amenorea); L5 (kekurangan antitrombin jenis 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -64,7 +64,7 @@ Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan. B
 
 Literatur yang diperoleh untuk amenorea berkait dengan pesakit kanser payudara, iaitu amenorea akibat kemoterapi, pemulihan fungsi ovari selepas bertukar daripada tamoxifen kepada exemestane, serta penindasan ovari dengan analog LHRH. Dalam konteks ini, amenorea ialah **kesan atau penanda** rawatan, bukan keadaan yang dirawat oleh exemestane. Menyebabkan kekurangan estrogen bukanlah matlamat terapeutik untuk amenorea, sehingga ramalan TxGNN berkemungkinan besar mencerminkan perkaitan kesan sampingan atau indikasi dan bukan peluang penggunaan semula yang sebenar.
 
-Ramalan lain turut tidak mempunyai sokongan mekanisme yang jelas. Kekurangan antitrombin jenis 2, lebihan faktor 5 dengan trombosis spontan, dan kekurangan kofaktor heparin 2 ialah kecacatan keturunan pada protein pembekuan darah yang tiada kaitan terbukti dengan perencatan aromatase. Trombofilia dan migrain mempunyai hubungan spekulatif melalui estrogen, tetapi perencatan aromatase boleh memburukkan migrain dan membawa pertimbangan keselamatan kardiovaskular serta tromboembolisme sendiri. Skor tinggi bagi kumpulan gangguan pembekuan ini mungkin disebabkan oleh jiran graf yang dikongsi.
+Ramalan lain turut tidak mempunyai sokongan mekanisme yang jelas. Kekurangan antitrombin jenis 2, lebihan faktor 5 dengan trombosis spontan, dan kekurangan kofaktor heparin 2 ialah kecacatan keturunan pada protein pembekuan darah yang tiada kaitan terbukti dengan perencatan aromatase. Trombofilia dan migrain mempunyai hubungan spekulatif melalui estrogen, tetapi perencatan aromatase boleh memburukkan migrain dan membawa pertimbangan keselamatan kardiovaskular serta tromboembolisme sendiri.
 
 ---
 
@@ -113,8 +113,7 @@ Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Tiada percubaan klinikal, dan literatur yang ada menganggap amenorea sebagai kesan rawatan, bukan sasaran terapeutik. Menurunkan estrogen bertentangan dengan matlamat merawat amenorea. Ramalan lain (gangguan pembekuan dan migrain) hanya berasaskan graf (L5) tanpa sokongan mekanisme atau klinikal.
-- Exemestane tidak dipasarkan di Malaysia (tiada pendaftaran), jadi tiada laluan pengawalseliaan tempatan sedia ada.
+- Tiada percubaan klinikal, dan literatur yang ada menganggap amenorea sebagai kesan rawatan, bukan sasaran terapeutik. Menurunkan estrogen bertentangan dengan matlamat merawat amenorea.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej dan maklumat amaran/kontraindikasi daripada NPRA (jurang data yang menyekat saringan keselamatan)

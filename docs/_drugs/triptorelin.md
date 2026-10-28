@@ -45,10 +45,10 @@ Triptorelin ialah agonis hormon pelepas gonadotropin (GnRH) yang menekan hormon 
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Baharu yang Diramalkan | Hipertrikosis |
-| Skor Ramalan TxGNN | 99.997% |
+| Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

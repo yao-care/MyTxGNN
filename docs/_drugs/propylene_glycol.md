@@ -3,18 +3,18 @@ layout: default
 title: Propylene Glycol
 parent: Low Evidence (L4-L5)
 nav_order: 605
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Propylene Glycol: indikasi baharu diramal Bronkitis (tahap bukti L4). Indikasi asal: Sindrom mata kering, xerophthalmia"
 monitor_inn: "PROPYLENE GLYCOL"
-predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic cataract", "craniostenosis cataract", "tetanic cataract", "mature cataract"]
+predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic cataract", "mature cataract", "immature cataract", "tetanic cataract"]
+last_modified_at: 2026-10-23
+description: "Propylene Glycol: indikasi baharu diramal Bronkitis (tahap bukti L5). Indikasi asal: Sindrom mata kering dan xerophthalmia (hubungan direkodkan dalam graf…"
 ---
 
 # Propylene Glycol
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,74 +38,69 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 ## Ringkasan Satu Ayat
 
-Propylene glycol pada asalnya digunakan untuk merawat sindrom mata kering (*dry eye syndrome*) dan xerophthalmia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **bronkitis** dengan skor yang sangat tinggi, tetapi **tiada percubaan klinikal** berkaitan dan hanya **3 penerbitan** yang tidak menunjukkan manfaat terapeutik; dua daripadanya malah membayangkan potensi risiko kepada saluran pernafasan.
-
----
+Propylene glycol ialah bahan yang digunakan dalam produk penjagaan mata, dan hubungannya dengan sindrom mata kering (xerophthalmia) direkodkan dalam graf pengetahuan TxGNN. Model TxGNN meramalkan ia mungkin berkesan untuk **bronkitis** dengan skor tinggi, tetapi data yang disusun untuk laporan ini mendapati **tiada percubaan klinikal** dan hanya **3 penerbitan** yang tidak menyokong kesan terapeutik. Ramalan ini kekal pada tahap model sahaja.
 
 ## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Sindrom mata kering, xerophthalmia |
+| Indikasi Asal | Sindrom mata kering dan xerophthalmia (hubungan direkodkan dalam graf pengetahuan; tiada teks indikasi lulus daripada lesen tempatan) |
 | Indikasi Baharu yang Diramalkan | Bronkitis |
-| Skor Ramalan TxGNN | 99.90% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
----
+| Skor Ramalan TxGNN | 0.9990 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
+| Bilangan kelulusan | 3 pendaftaran (2 produk tunggal, 1 produk gabungan) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-Data terperinci mengenai mekanisme tindakan (MOA) buat masa ini tidak tersedia. Berdasarkan maklumat yang diketahui, propylene glycol ialah pelarut dan humektan (bahan pelembap) yang lazim digunakan sebagai eksipien dalam titisan mata dan formulasi lain. Kegunaannya dalam mata kering berkait dengan sifat melembapkan permukaan mata, bukan tindakan farmakologi yang mengubah perjalanan penyakit.
+Data mekanisme tindakan (MOA) untuk propylene glycol belum tersedia, jadi analisis hubungan mekanistik terhad. Propylene glycol terutamanya digunakan sebagai pelarut, bahan pembawa (vehicle) dan pelincir okular, dan tiada mekanisme terapeutik yang diketahui untuk bronkitis.
 
-Skor TxGNN yang tinggi (0.999) tidak disokong oleh bukti. Dua kajian ulasan mengenai rokok elektronik membincangkan propylene glycol sebagai juzuk aerosol yang berpotensi merengsa saluran pernafasan, iaitu isyarat **risiko**, bukan kesan rawatan. Kajian quercetin pada tikus (elastase/LPS) pula tidak melibatkan propylene glycol sebagai agen aktif.
-
-Tiada mekanisme yang boleh dipercayai menyokong propylene glycol sebagai rawatan bronkitis, dan pendedahan secara sedutan mungkin memburukkan keradangan saluran udara. Skor tersebut berkemungkinan mencerminkan hubungan dalam rangkaian pengetahuan (graf), bukan hubungan farmakologi sebenar.
-
----
+Ketiga-tiga penerbitan yang diperoleh tidak menyokong manfaat. Dua daripadanya ialah ulasan tentang rokok elektronik, yang mana propylene glycol ialah bahan pembawa cecair, dan menunjukkan aerosol boleh menjadi perengsa saluran pernafasan. Satu lagi ialah kajian haiwan tentang quercetin dalam model COPD, yang tidak berkaitan dengan propylene glycol. Skor yang tinggi datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Isyarat yang ada lebih menunjukkan kemungkinan mudarat daripada manfaat.
 
 ## Bukti Percubaan Klinikal
 
-Buat masa ini tiada percubaan klinikal berkaitan didaftarkan untuk bronkitis.
-
-(Untuk makluman, bagi indikasi ramalan peringkat ke-3, retinopati diabetik, terdapat satu percubaan Fasa 4 yang tidak langsung, NCT07090044, mengenai kesakitan selepas suntikan intravitreal dengan air mata tiruan sebagai pembanding; ia tidak menguji propylene glycol sebagai rawatan.)
-
----
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan untuk bronkitis.
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [26408554](https://pubmed.ncbi.nlm.nih.gov/26408554/) | 2015 | Ulasan | Am J Physiol Lung Cell Mol Physiol | Penggunaan kronik rokok elektronik dan potensi risiko penyakit paru-paru; bukan bukti manfaat rawatan |
-| [28983782](https://pubmed.ncbi.nlm.nih.gov/28983782/) | 2017 | Ulasan | Curr Allergy Asthma Rep | Juzuk dan aerosol e-rokok mengandungi bahan perengsa saluran udara yang dikaitkan dengan asma |
-| [20920189](https://pubmed.ncbi.nlm.nih.gov/20920189/) | 2010 | Praklinikal (haiwan) | Respir Res | Quercetin mengurangkan keradangan paru-paru pada tikus model COPD; tidak melibatkan propylene glycol |
+| [26408554](https://pubmed.ncbi.nlm.nih.gov/26408554/) | 2015 | Ulasan | Am J Physiol Lung Cell Mol Physiol | Penggunaan kronik rokok elektronik dan risiko penyakit paru-paru; tidak menunjukkan manfaat terapeutik |
+| [28983782](https://pubmed.ncbi.nlm.nih.gov/28983782/) | 2017 | Ulasan | Curr Allergy Asthma Rep | Juzuk e-cecair dan aerosol mengandungi perengsa saluran udara yang dikaitkan dengan asma |
+| [20920189](https://pubmed.ncbi.nlm.nih.gov/20920189/) | 2010 | Praklinikal (haiwan) | Respir Res | Quercetin mengurangkan keradangan paru-paru pada tikus; tidak melibatkan propylene glycol |
 
----
+## Maklumat Pasaran Malaysia
+
+Tiga pendaftaran ditemui. Tiada teks indikasi yang diluluskan dalam rekod, dan produk di bawah mungkin tidak mewakili propylene glycol sebagai bahan tunggal.
+
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL24026019ACZ | TAZATRED (Dasatinib Film-Coated Tablets 50mg) | Tiada data | Tiada data |
+| MAL24026020ACZ | TAZATRED (Dasatinib Film-Coated Tablets 70mg) | Tiada data | Tiada data |
+| MAL19871130AZ | OTEK-P EAR DROPS (produk gabungan) | Tiada data | Tiada data |
+
+Nota: lesen produk gabungan tidak boleh digunakan untuk menggambarkan status kelulusan propylene glycol sebagai bahan tunggal.
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pek untuk maklumat keselamatan.
-
-Nota: literatur yang ada membayangkan bahawa penyedutan propylene glycol sebagai aerosol berpotensi merengsa saluran pernafasan dan boleh memburukkan keradangan saluran udara.
-
----
+Sila rujuk sisip bungkusan (package insert) untuk maklumat keselamatan. Data amaran dan kontraindikasi daripada NPRA belum diperoleh, dan tiada interaksi ubat direkodkan. Literatur yang ada mencadangkan bahawa penyedutan propylene glycol (contohnya melalui aerosol rokok elektronik) mungkin merengsa saluran udara.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan bronkitis hanya disokong oleh skor model; tiada percubaan klinikal, dan literatur yang ada menunjukkan isyarat risiko, bukan manfaat. Ubat ini juga tidak dipasarkan di Malaysia.
-- Ramalan lain dalam senarai (retinopati diabetik, katarak pelbagai jenis) juga hanya berada pada tahap L4–L5 tanpa bukti langsung; kajian PGMS (PMID 39006273) melibatkan sebatian berbeza (propylene glycol mannate sulfate) dan tidak boleh dikaitkan dengan propylene glycol.
+Ramalan bronkitis tidak disokong oleh sebarang percubaan klinikal atau kajian yang secara langsung mengkaji penyakit ini, maka tahap bukti ialah L5. Literatur yang ada menunjukkan potensi kemudaratan saluran pernafasan, bukan manfaat.
+
+Ramalan lain dalam senarai (retinopati diabetik, pelbagai jenis katarak) juga kekal pada tahap L5 dan turut ditahan. Untuk retinopati diabetik, satu-satunya penerbitan klinikal (PMID 39006273) mengkaji sebatian berbeza, iaitu propylene glycol mannate sulfate, dan tidak sah sebagai bukti untuk propylene glycol. Satu-satunya percubaan (NCT07090044) mengkaji kesakitan selepas suntikan intravitreal, bukan perkembangan penyakit.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
+- Sisip bungkusan NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang)
 - Data mekanisme tindakan (MOA) daripada DrugBank
-- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang penilaian keselamatan)
-- Bukti praklinikal atau klinikal langsung bahawa propylene glycol (bukan sebagai eksipien) memberi manfaat dalam bronkitis
-- Penilaian keselamatan laluan sedutan, memandangkan isyarat risiko pada saluran pernafasan
+- Sebarang kajian klinikal yang secara langsung menilai propylene glycol untuk bronkitis, termasuk penilaian keselamatan penyedutan
+- Pengesahan produk berdaftar yang benar-benar mengandungi propylene glycol sebagai bahan aktif atau eksipien
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Acetylsalicylic Acid
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 22
-evidence_level: L3
-indication_count: 9
-last_modified_at: 2026-10-15
-description: "Acetylsalicylic Acid: indikasi baharu diramal Migrain dengan aura batang otak (tahap bukti L3). Indikasi asal: Artritis reumatoid, migrain, infarksi miokardium, trombosis koronari…"
+evidence_level: L5
+indication_count: 8
 monitor_inn: "ACETYLSALICYLIC ACID"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombotic disease", "thrombophilia"]
+last_modified_at: 2026-10-27
+description: "Acetylsalicylic Acid: indikasi baharu diramal Atrofoderma vermikulata (atrophoderma vermiculata) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Acetylsalicylic Acid
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **9** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,90 +33,58 @@ Tahap bukti: **L3** | Indikasi diramal: **9**
 
 </div>
 
-## Asid Asetilsalisilik (Aspirin): Daripada Artritis Reumatoid/Migrain kepada Migrain dengan Aura Batang Otak
+## Asid Asetilsalisilik: Perencat siklooksigenase (COX) dan antiplatelet → Atrofoderma vermikulata (atrophoderma vermiculata)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Asid asetilsalisilik (aspirin) ialah ubat antiplatelet dan antiradang bukan steroid yang pada asalnya digunakan untuk artritis reumatoid, migrain, infarksi miokardium dan sakit kepala.
-Model TxGNN meramalkan ia mungkin berkesan untuk **migrain dengan aura batang otak**,
-tetapi setakat ini **tiada ujian klinikal berdaftar** dan hanya terdapat **20 penerbitan** yang berkaitan secara tidak langsung (sebahagian besarnya kajian migrain umum, bukan subjenis ini).
+Asid asetilsalisilik (aspirin) ialah ubat perencat COX dengan kesan antiplatelet dan antiradang yang sudah lama digunakan. Model TxGNN meramalkan ia mungkin berkesan untuk **Atrofoderma vermikulata (atrophoderma vermiculata)**, iaitu gangguan atrofi folikel kulit yang jarang berlaku. Setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang mengkaji penyakit ini dengan ubat tersebut, jadi ramalan ini hanya berdasarkan model.
 
----
-
-## Gambaran Keseluruhan Pantas
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Artritis reumatoid, migrain, infarksi miokardium, trombosis koronari, sakit kepala, osteoartritis (daripada graf pengetahuan TxGNN; tiada indikasi berlesen NPRA) |
-| Indikasi Baharu yang Diramalkan | Migrain dengan aura batang otak |
-| Skor Ramalan TxGNN | 99.94% |
-| Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikumpulkan untuk laporan ini) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Research Question) |
-
----
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Atrofoderma vermikulata (atrophoderma vermiculata) |
+| Skor Ramalan TxGNN | 0.9959 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 15) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan farmakologi yang diketahui, aspirin menghalang COX-1 secara tidak boleh balik, lalu mengurangkan pengagregatan platelet dan keradangan neurogenik yang diperantarakan prostaglandin.
+Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, aspirin menghalang enzim COX dan sintesis prostaglandin serta tromboksan, lalu mengurangkan pengagregatan platelet dan keradangan.
 
-Aspirin sudah mantap untuk migrain secara umum, jadi ini lebih merupakan lanjutan kepada subjenis tertentu daripada kegunaan baharu. Kedua-dua mekanisme di atas mungkin relevan kepada migrain dengan aura, kerana "cortical spreading depression" dan mekanisme berkaitan mikroembolus/platelet (contohnya perkaitan dengan patent foramen ovale) telah dicadangkan.
-
-Satu kajian retrospektif tentang aspirin untuk pencegahan migrain dengan aura serta kajian manusia tentang pengaktifan refleks antinosiseptif batang otak menyokong kemunasabahan ini. Garis panduan EFNS menyenaraikan aspirin sebagai salah satu pilihan untuk migrain, tetapi buktinya tidak khusus kepada subjenis aura batang otak.
-
----
+Penilaian mekanistik tidak menemui kaitan yang jelas antara tindakan ini dengan atrofoderma vermikulata. Penyakit ini ialah gangguan atrofi folikel kulit yang jarang berlaku, dan tiada hubungan yang diketahui dengan perencatan COX atau fungsi platelet. Skor yang tinggi (0.9959) hanyalah keluaran model dan tidak disokong oleh data klinikal atau literatur. Oleh itu, kemungkinan manfaat aspirin dalam penyakit ini masih sangat spekulatif.
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk migrain dengan aura batang otak.
-
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [39989443](https://pubmed.ncbi.nlm.nih.gov/39989443/) | 2025 | Kajian sistematik | Headache | Menilai peranan ubat antitrombotik dalam pencegahan migrain |
-| [25729594](https://pubmed.ncbi.nlm.nih.gov/25729594/) | 2014 | Kohort retrospektif | Current Health Sciences Journal | 203 pesakit migrain dengan aura; aspirin dos rendah dinilai untuk profilaksis berbanding terapi pencegahan lain |
-| [10448545](https://pubmed.ncbi.nlm.nih.gov/10448545/) | 1999 | RCT | Cephalalgia | Aspirin lysinate intravena (1 g) berbanding sumatriptan subkutan dan plasebo dalam migrain akut (n=278) |
-| [19708964](https://pubmed.ncbi.nlm.nih.gov/19708964/) | 2009 | Garis panduan | European Journal of Neurology | Garis panduan EFNS semakan semula untuk rawatan ubat migrain |
-| [16796580](https://pubmed.ncbi.nlm.nih.gov/16796580/) | 2006 | Garis panduan | European Journal of Neurology | Garis panduan EFNS awal untuk rawatan ubat migrain |
-| [9606899](https://pubmed.ncbi.nlm.nih.gov/9606899/) | 1998 | Kajian klinikal | Zh Nevrol Psikhiatr | Terapi pencegahan aspirin (1000, 500, 100 mg) pada 105 pesakit migrain tanpa aura |
-| [1589237](https://pubmed.ncbi.nlm.nih.gov/1589237/) | 1992 | Kajian fisiologi eksperimen (rawak, double-blind, crossover) | Pain | Aspirin mengaktifkan aktiviti refleks antinosiseptif batang otak pada pesakit sakit kepala dan subjek sihat |
-| [15265054](https://pubmed.ncbi.nlm.nih.gov/15265054/) | 2004 | Kajian mekanisme | Cephalalgia | Mekanisme antinosiseptif aspirin i.v. berbanding zolmitriptan pada refleks kerdip trigeminal |
-| [26908949](https://pubmed.ncbi.nlm.nih.gov/26908949/) | 2016 | RCT (penutupan PFO, bukan aspirin) | European Heart Journal | Penutupan PFO perkutaneus dalam migrain dengan aura; berkaitan secara tidak langsung |
-| [18806984](https://pubmed.ncbi.nlm.nih.gov/18806984/) | 2008 | Kajian semula | Der Nervenarzt | Alternatif kepada penyekat beta dalam pencegahan migrain |
+Pada masa ini tiada literatur berkaitan.
 
----
+## Pertimbangan Keselamatan
 
-## Keselamatan
+Data amaran utama dan kontraindikasi tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan lengkap.
 
-**Interaksi Ubat**: Pertanyaan interaksi ubat telah selesai dengan 100 interaksi direkodkan. Antara yang bertahap **Major** (daripada senarai yang diperoleh): acalabrutinib, acetazolamide, ketorolac, trastuzumab emtansine, ibuprofen dan fondaparinux. Interaksi tahap **Moderate** termasuk abciximab, nifedipine, hidrokortison, etanol, asid alendronik, fluvoxamine, fosinopril dan gemifloxacin. Tahap **Minor** termasuk asebutolol, kafein, rabeprazol, fosphenytoin dan furosemid. Risiko pendarahan meningkat apabila digabungkan dengan antikoagulan, antiplatelet dan NSAID lain.
-
-Maklumat amaran utama dan kontraindikasi daripada sisipan pek NPRA tidak tersedia. Sila rujuk sisipan pek untuk maklumat keselamatan lanjut.
-
----
+- **Interaksi Ubat**: Pangkalan data merekodkan 100 interaksi. Antara yang bertahap **Major (Utama)** ialah acalabrutinib, asetazolamid, ketorolak, trastuzumab emtansin, ibuprofen dan fondaparinuks. Interaksi dengan ubat antikoagulan, antiplatelet dan NSAID lain memerlukan perhatian khusus kerana risiko pendarahan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Research Question)**
+**Keputusan: Hold (Tangguh)**
 
-**Justifikasi:**
-- Aspirin sudah mantap untuk migrain secara umum dan terdapat sokongan mekanistik yang munasabah, tetapi tiada ujian klinikal khusus untuk subjenis aura batang otak, dan bukti sedia ada ialah kajian retrospektif dan mekanisme yang tidak spesifik untuk subjenis ini. Tiada produk aspirin berdaftar di Malaysia menurut data yang dikumpulkan, dan data keselamatan peringkat label belum lengkap.
+**Rasional:**
+- Ramalan ini hanya disokong oleh skor model. Tiada ujian klinikal, tiada literatur, dan tiada rasional mekanistik yang jelas untuk penyakit ini, maka tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data bersifat menyekat)
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
-- Kajian klinikal atau kohort khusus untuk migrain dengan aura batang otak
-- Pengesahan status pendaftaran dan bentuk dos di Malaysia
-
----
-
-## Nota Tambahan: Peluang Lain yang Diramalkan
-
-Antara indikasi lain yang diramalkan, **penyakit trombotik** (skor 99.14%, tahap bukti L1 mengikut data) mempunyai tiga ujian klinikal (termasuk NCT07228663 Fasa 3, belum merekrut), tetapi ini ialah kegunaan sedia ada aspirin dan bukan pelanggaran semula yang baharu. **Trombofilia** (skor 99.04%, L2) hanya mempunyai bukti tidak langsung. Indikasi lain (contohnya atrophoderma vermiculata, ulerythema ophryogenesis, kekurangan kofaktor heparin 2, kekurangan antitrombin jenis 2) hanya berasaskan ramalan model tanpa ujian atau literatur, dan dicadangkan Hold.
+- Kajian literatur dan data praklinikal yang mengaitkan perencatan COX atau antiplatelet dengan patofisiologi atrofoderma vermikulata
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej tempatan (NPRA)
+- Pertimbangan laluan pentadbiran yang sesuai untuk penyakit kulit
+- Pendapat pakar dermatologi sebelum sebarang kajian awal dirancang
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

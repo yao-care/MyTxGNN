@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Epinephrine
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 327
-evidence_level: L1
-indication_count: 4
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Epinephrine: indikasi baharu diramal Penyakit paru-paru obstruktif (obstructive lung disease) (tahap bukti L1). Indikasi asal: Glaukoma sudut terbuka, bronkitis, gangguan hipotensi, asma…"
 monitor_inn: "EPINEPHRINE"
-predicted_indications: ["obstructive lung disease", "food-dependent exercise-induced anaphylaxis", "Rienhoff syndrome", "respiratory malformation"]
+predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
+description: "Epinephrine: indikasi baharu diramal Penyakit paru-paru obstruktif (obstructive lung disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Epinephrine
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **4** 
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **4**
 
 </div>
 
-## Epinephrine: Daripada Asma dan Anafilaksis kepada Penyakit Paru-paru Obstruktif
+## Epinephrine: Penyakit paru-paru obstruktif (obstructive lung disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ dengan **15 percubaan klinikal** dan **20 penerbitan** yang disenaraikan dalam d
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Glaukoma sudut terbuka, bronkitis, gangguan hipotensi, asma, emfisema paru-paru, anafilaksis, bronkiektasis (berdasarkan graf pengetahuan TxGNN/PrimeKG) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Penyakit paru-paru obstruktif (obstructive lung disease) |
-| Skor Ramalan TxGNN | 99.71% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9971 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
+| Bilangan Pendaftaran | 11 (sah: 11) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
@@ -126,7 +126,6 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. 
 - Muat turun dan analisis sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang bersifat menyekat bagi saringan keselamatan)
 - Data mekanisme tindakan (MOA) daripada DrugBank
 - Bukti khusus untuk COPD dan bukan sahaja asma serta bronkiolitis
-- Kajian status pendaftaran, formulasi dan laluan pemberian (inhalasi/suntikan) yang sesuai di Malaysia, kerana ubat ini tidak dipasarkan di sini
 - Pelan pemantauan keselamatan kardiovaskular dan interaksi ubat (terutamanya dengan antidepresan trisiklik dan penyekat beta)
 
 ---
@@ -135,9 +134,9 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. 
 
 | Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Cadangan |
 |------|------|------|------|
-| Anafilaksis aruhan senaman bergantung makanan | 99.57% | L4 | Research Question (hanya ulasan dan laporan kes; tiada percubaan klinikal; lanjutan indikasi anafilaksis sedia ada) |
-| Sindrom Rienhoff | 99.57% | L5 | Hold (ramalan pengiraan sahaja; tiada percubaan atau literatur) |
-| Malformasi pernafasan | 99.56% | L3 | Research Question (satu percubaan Fasa 1 tentang takipnea sementara bayi baru lahir; malformasi struktur tidak akan dibetulkan oleh epinephrine; kebanyakan literatur tidak berkaitan) |
+| Anafilaksis aruhan senaman bergantung makanan | 0.9957 | L5 | Research Question (hanya ulasan dan laporan kes; tiada percubaan klinikal; lanjutan indikasi anafilaksis sedia ada) |
+| Sindrom Rienhoff | 0.9957 | L5 | Hold (ramalan pengiraan sahaja; tiada percubaan atau literatur) |
+| Malformasi pernafasan | 0.9956 | L3 | Research Question (satu percubaan Fasa 1 tentang takipnea sementara bayi baru lahir; malformasi struktur tidak akan dibetulkan oleh epinephrine; kebanyakan literatur tidak berkaitan) |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

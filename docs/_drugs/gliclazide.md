@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Gliclazide
-parent: High Evidence (L1-L2)
+parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 386
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Gliclazide: indikasi baharu diramal Diabetes mellitus jenis 2 (kedudukan 1) (tahap bukti L1). Indikasi asal: Diabetes mellitus jenis 2 (daripada graf pengetahuan PrimeKG"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Gliclazide: kegunaan diketahui dan status pasaran di Malaysia; buat masa ini tiada indikasi calon baharu"
+predicted_indications: []
 ---
 
 # Gliclazide
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **5** 
+Tahap bukti: **N/A** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,84 +32,77 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-## Gliclazide: Daripada Diabetes Mellitus Jenis 2 kepada Diabetes Mellitus Jenis 2 (Tiada Petunjuk Baharu yang Sebenar)
+<!-- known-uses-page -->
+<!-- description: Gliclazide: kegunaan diketahui dan status pasaran di Malaysia; buat masa ini tiada indikasi calon baharu -->
+## Gliclazide: Kegunaan diketahui dan status pasaran di Malaysia
 {: .text-alpha }
 
-## Ringkasan Satu Ayat
+## Ringkasan
+Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih tinggi untuk Gliclazide, jadi buat masa ini tiada indikasi baharu yang diramalkan. Kegunaan yang direkodkan untuk ubat ini disenaraikan di bawah.
 
-Gliclazide ialah sulfonilurea generasi kedua yang pada asalnya digunakan untuk merawat diabetes mellitus jenis 2. Model TxGNN meramalkan ia berkesan untuk **diabetes mellitus jenis 2 / diabetes mellitus**, iaitu petunjuk yang sama dengan petunjuk asal. Ramalan ini disokong oleh **25 percubaan klinikal** (termasuk 3 percubaan Fasa 3 yang telah selesai) dan **20 penerbitan** dalam data yang dikumpulkan untuk laporan ini.
-
-> **Catatan penting:** Kelima-lima ramalan teratas merujuk kepada penyakit yang sama dengan petunjuk asal. Oleh itu, ini bukan pengalihan petunjuk (*repurposing*) yang sebenar, sebaliknya lebih menyerupai pengesahan semula petunjuk sedia ada. Skor ramalan TxGNN dalam data ialah 0.0, jadi ia tidak boleh dianggap sebagai isyarat ramalan yang bermakna.
-
----
-
-## Gambaran Keseluruhan Pantas
-
+## Gambaran ringkas
 | Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Diabetes mellitus jenis 2 (daripada graf pengetahuan PrimeKG; tiada teks petunjuk berlesen tersedia) |
-| Petunjuk Baharu yang Diramalkan | Diabetes mellitus jenis 2 (kedudukan 1); diabetes mellitus (kedudukan 2) |
-| Skor Ramalan TxGNN | 0.00% (tidak bermakna secara bermaklumat) |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (tiada rekod pendaftaran dalam data yang dikumpulkan) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+| Indikasi baharu yang diramalkan | Tiada (tiada calon model dengan skor 0.99 atau lebih tinggi) |
+| Kegunaan diketahui yang direkodkan untuk ubat ini | 3 |
+| Tahap bukti | Tidak berkenaan |
+| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 36) |
+| Bilangan Pendaftaran | 36 (sah: 36) |
 
----
+## Kegunaan diketahui yang direkodkan untuk ubat ini
 
-## Mengapa Ramalan Ini Munasabah?
+### Diluluskan (disokong oleh lesen atau label)
+| Indikasi | Sumber |
+|------|------|
+| diabetes | lesen di negara lain |
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan farmakologi yang telah mantap, gliclazide ialah sulfonilurea yang mengikat subunit SUR1 pada saluran kalium sensitif ATP (KATP) sel beta pankreas. Pengikatan ini menutup saluran tersebut, mendepolarisasikan sel, dan merangsang rembesan insulin.
+### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+| Indikasi | Kategori yang diluluskan |
+|------|------|
+| tiada | tiada |
 
-Mekanisme ini secara langsung sepadan dengan patologi diabetes jenis 2, iaitu rembesan insulin yang terjejas. Kajian ulasan dalam data menyatakan gliclazide menambah baik rembesan insulin yang cacat dan mengekalkan penurunan glukosa darah dalam jangka pendek dan panjang. Satu percubaan kecil (NCT02201602, n=8) turut menguji secara langsung hubungan antara mutasi reseptor sulfonilurea dengan respons terhadap gliclazide.
-
-Memandangkan petunjuk yang diramalkan sama dengan petunjuk asal, soalan utama bukanlah sama ada mekanismenya sesuai, tetapi sama ada terdapat nilai tambah dalam konteks tempatan, misalnya kerana ubat ini belum didaftarkan di Malaysia menurut data yang ada.
-
----
-
-## Bukti Percubaan Klinikal
-
-Berikut ialah percubaan yang paling relevan (gred relevansi A dan B, dan percubaan Fasa 3 yang selesai):
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00102388](https://clinicaltrials.gov/study/NCT00102388) | Fasa 3 | Selesai | 1092 | Vildagliptin berbanding gliclazide (pembanding aktif) pada pesakit diabetes jenis 2 yang belum dirawat |
-| [NCT00102466](https://clinicaltrials.gov/study/NCT00102466) | Fasa 3 | Selesai | 1007 | Vildagliptin berbanding gliclazide sebagai tambahan kepada metformin |
-| [NCT01242215](https://clinicaltrials.gov/study/NCT01242215) | Fasa 3 | Selesai | 243 | ASP1941 digabungkan dengan sulfonilurea pada pesakit yang kawalan glisemiknya tidak mencukupi |
-| [NCT01758380](https://clinicaltrials.gov/study/NCT01758380) | Fasa 4 | Selesai | 557 | Vildagliptin berbanding gliclazide bersama metformin pada pesakit Muslim yang berpuasa semasa Ramadan |
-| [NCT02925559](https://clinicaltrials.gov/study/NCT02925559) | Fasa 4 | Selesai | 135 | Gliclazide MR berbanding dapagliflozin ke atas kebolehubahan glisemik (CGM) |
-| [NCT03819790](https://clinicaltrials.gov/study/NCT03819790) | Fasa 4 | Selesai | 119 | Insulin glargine atau iGlarLixi berbanding gliclazide MR (bersama metformin) ke atas kebolehubahan glukosa |
-| [NCT03068065](https://clinicaltrials.gov/study/NCT03068065) | Fasa 4 | Selesai | 87 | Liraglutide, metformin dan gliclazide MR ke atas kandungan lipid hati pada pesakit dengan NAFLD |
-| [NCT02682563](https://clinicaltrials.gov/study/NCT02682563) | Fasa 4 | Selesai | 44 | Dapagliflozin berbanding gliclazide ke atas fisiologi dan biopenanda buah pinggang |
-| [NCT02694263](https://clinicaltrials.gov/study/NCT02694263) | Fasa 4 | Selesai | 25 | Canagliflozin semasa Ramadan; sampel kecil |
-| [NCT02201602](https://clinicaltrials.gov/study/NCT02201602) | Fasa 4 | Selesai | 8 | Kajian perintis tentang mutasi reseptor sulfonilurea dan respons terhadap gliclazide; sampel sangat kecil |
-
-Nota: Satu percubaan (NCT00225342) telah ditarik balik dan tidak menyumbang bukti.
-
----
-
-## Bukti Literatur
-
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [18539916](https://pubmed.ncbi.nlm.nih.gov/18539916/) | 2008 | RCT | N Engl J Med | Kesan kawalan glukosa darah yang intensif terhadap hasil vaskular dalam diabetes jenis 2 |
-| [24533045](https://pubmed.ncbi.nlm.nih.gov/24533045/) | 2014 | Kajian sistematik/meta-analisis | PLoS One | Keselamatan dan keberkesanan gliclazide berbanding agen penurun glukosa oral lain; dikaitkan dengan risiko hipoglisemia yang rendah |
-| [34721294](https://pubmed.ncbi.nlm.nih.gov/34721294/) | 2021 | Meta-analisis rangkaian | Front Endocrinol | Kesan ubat antidiabetes terhadap risiko patah tulang |
-| [15787663](https://pubmed.ncbi.nlm.nih.gov/15787663/) | 2005 | RCT | Diabet Med | Perbandingan jangka panjang pioglitazone dan gliclazide pada pesakit yang belum dirawat |
-| [15529516](https://pubmed.ncbi.nlm.nih.gov/15529516/) | 2004 | Analisis gabungan RCT | Int J Clin Pract | Kesan kardiovaskular pioglitazone, metformin dan gliclazide dalam lebih 3700 pesakit |
-| [36300277](https://pubmed.ncbi.nlm.nih.gov/36300277/) | 2022 | Ulasan | Expert Opin Pharmacother | Gliclazide berbeza daripada sulfonilurea lain dan mungkin sesuai untuk sesetengah pesakit |
-| [29802958](https://pubmed.ncbi.nlm.nih.gov/29802958/) | 2018 | Ulasan | Diabetes Res Clin Pract | Kedudukan gliclazide MR berbanding sulfonilurea lain dan agen baharu |
-| [32702900](https://pubmed.ncbi.nlm.nih.gov/32702900/) | 2020 | Kohort | Medicine | Monoterapi gliclazide dikaitkan dengan peningkatan risiko kematian semua sebab dalam kohort Korea |
-| [40326063](https://pubmed.ncbi.nlm.nih.gov/40326063/) | 2025 | RCT | Diabetes Obes Metab | Kesan hemodinamik buah pinggang empagliflozin dan linagliptin berbanding gliclazide (RACELINES) |
-| [10656221](https://pubmed.ncbi.nlm.nih.gov/10656221/) | 2000 | Laporan kes | Eur J Gastroenterol Hepatol | Hepatitis akut aruhan gliclazide |
-
----
+### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+| Indikasi |
+|------|
+| diabetes mellitus |
+| diabetes mellitus jenis 2 (type 2 diabetes mellitus) |
 
 ## Maklumat Pasaran di Malaysia
 
-Data yang dikumpulkan untuk laporan ini menunjukkan **tiada pendaftaran gliclazide** di Malaysia (0 lesen). Oleh itu, tiada jadual lesen dipaparkan. Disyorkan agar status ini disahkan semula secara terus dengan NPRA, kerana ketiadaan rekod mungkin disebabkan oleh jurang data, dan bukan semestinya ubat ini tidak dipasarkan.
+| No. pendaftaran | Produk | Bentuk dos | Status |
+|------|------|------|------|
+| MAL19960983AZ | GLIMICRON 80MG TABLET |  | Sah |
+| MAL16085024AZ | Rolazide Tablet 80mg |  | Sah |
+| MAL19962526AZ | MEXAN TABLET 80MG |  | Sah |
+| MAL20013374AZ | SUN-GLIZIDE TABLET 80MG |  | Sah |
+| MAL20013744AZ | PHARMANIAGA GLICLAZIDE TABLET 80MG |  | Sah |
+| MAL22036017AZ | Plecaz MR Tablet 60mg |  | Sah |
+| MAL12045002AZ | DIMAX MR TABLETS 30MG |  | Sah |
+| MAL20172884AEZ | Glimicron MR 60mg Tablet |  | Sah |
+| MAL22076029AZ | NICRON 80mg Tablet |  | Sah |
+| MAL22096024AZ | GLUCOSENSE MR 60mg Tablet |  | Sah |
+| MAL20021130AZ | DIAMICRON MR TABLET 30MG |  | Sah |
+| MAL22106019AZ | Diaglycon MR 60mg Modified Release Tablets |  | Sah |
+| MAL22106020AZ | Diaglycon MR 30mg Modified Release Tablets |  | Sah |
+| MAL12115054ACZ | Gluvecron MR 30 mg Tablet |  | Sah |
+| MAL08010764ACSZ | Diamicron MR,  Modified Release Tablet, 30mg |  | Sah |
+| MAL18026187AZ | OZICLIDE MR TABLETS 60 mg |  | Sah |
+| MAL08021494AZ | REMICRON MR TABLETS 30 mg |  | Sah |
+| MAL20132289ARZ | Apo-Gliclazide MR 30mg Tablets |  | Sah |
+| MAL13055061ACSZ | DIAMICRON MR 60MG, MODIFIED RELEASED TABLET |  | Sah |
+| MAL19870422AZ | DIAMICRON TABLET 0.08G |  | Sah |
+| MAL20033485AZ | DIATICA TABLET |  | Sah |
+| MAL19986963AZ | SAM CHUN DANG GLYCLAZIDE TABLET 80MG |  | Sah |
+| MAL24026050AZ | DIABEND - Gliclazide Tablets BP 80mg |  | Sah |
+| MAL19021006AZ | Gliclada 60mg Modified-Release Tablets |  | Sah |
+| MAL19046013ARZ | APO-GLICLAZIDE MR 60 mg tablets |  | Sah |
+| MAL19990603AZ | MELICRON TABLET |  | Sah |
+| MAL19991013AZ | DIANID TABLET |  | Sah |
+| MAL24096035AZ | AUROCLAZ 60 (Gliclazide Modified Release Tablets 60mg)  |  | Sah |
+| MAL19991352AZ | GLUCODEX TABLET |  | Sah |
+| MAL20086005AZ | IDAMAN PHARMA GLICLAZIDE TABLET 80MG |  | Sah |
 
----
+Data hanya mengandungi sebahagian pendaftaran; senarai mungkin tidak lengkap.
 
 ## Pertimbangan Keselamatan
 
@@ -121,19 +115,6 @@ Beberapa isyarat keselamatan daripada literatur yang dikumpulkan wajar diberi pe
 
 ---
 
-## Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
-
-**Rasional:**
-- Bukti klinikal untuk gliclazide dalam diabetes jenis 2 adalah kukuh (tahap L1, dengan berbilang percubaan Fasa 3 dan Fasa 4 yang selesai serta meta-analisis). Namun, ramalan ini ialah pengesahan petunjuk sedia ada dan bukan petunjuk baharu, dan skor TxGNN sebanyak 0.0 tidak memberi sokongan tambahan.
-
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan, kerana jurang ini bersifat menyekat.
-- Pengesahan status pendaftaran dan pemasaran sebenar di Malaysia.
-- Data mekanisme tindakan terperinci daripada DrugBank.
-- Penjelasan sama ada terdapat petunjuk baharu yang sebenar (contohnya kesan terhadap buah pinggang, hati atau vaskular) yang ingin diterokai, dan bukan sekadar petunjuk asal.
-- Pelan pemantauan keselamatan untuk populasi berisiko (warga emas, pesakit yang berpuasa, dan pesakit dengan kecederaan hati atau buah pinggang).
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

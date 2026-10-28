@@ -6,9 +6,9 @@ nav_order: 554
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Palivizumab: indikasi baharu diramal Benign neoplasm of tongue (tahap bukti L5). Indikasi asal: Data indikasi berlesen tidak tersedia dalam data yang dikompilasi unt…"
 monitor_inn: "Palivizumab"
 predicted_indications: ["benign neoplasm of tongue", "epiglottis neoplasm", "cervical neuroblastoma", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "tumor of testis and paratestis", "cystic neoplasm", "schwannoma of jugular foramen", "mesenchymoma", "thyroglossal duct cyst"]
+description: "Palivizumab: indikasi baharu diramal Benign neoplasm of tongue (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Palivizumab
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Palivizumab: Daripada Jangkitan RSV kepada Benign Neoplasm of Tongue
+## Palivizumab: Benign neoplasm of tongue
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ Palivizumab ialah antibodi monoklonal manusiawi (humanized) yang menyasarkan pro
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Data indikasi berlesen tidak tersedia dalam data yang dikompilasi untuk laporan ini (secara umum, palivizumab digunakan untuk pencegahan penyakit RSV yang teruk) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Benign neoplasm of tongue |
-| Skor Ramalan TxGNN | 99.94% |
+| Skor Ramalan TxGNN | 0.9994 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ Data mekanisme tindakan terperinci untuk ubat ini tidak tersedia dalam data yang
 
 Tiada hubungan mekanistik yang munasabah antara peneutralan protein F RSV dan neoplasma jinak lidah. Skor TxGNN yang tinggi (0.9994) ialah ramalan pengiraan sahaja dan tidak disokong oleh sebarang ujian atau literatur. Lesi jinak juga biasanya tidak memerlukan terapi antibodi sistemik.
 
-Perlu diperhatikan bahawa sembilan ramalan teratas yang lain (contohnya epiglottis neoplasm, cervical neuroblastoma, benign neoplasm of hypopharynx, benign neoplasm of floor of mouth, tumor of testis and paratestis, cystic neoplasm, schwannoma of jugular foramen, mesenchymoma, dan thyroglossal duct cyst) juga mempunyai skor hampir sama (sekitar 99.94%) tanpa bukti sokongan. Ini menunjukkan corak ramalan umum model untuk kategori neoplasma dan bukan isyarat khusus bagi ubat ini.
+Perlu diperhatikan bahawa sembilan ramalan teratas yang lain (contohnya epiglottis neoplasm, cervical neuroblastoma, benign neoplasm of hypopharynx, benign neoplasm of floor of mouth, tumor of testis and paratestis, cystic neoplasm, schwannoma of jugular foramen, mesenchymoma, dan thyroglossal duct cyst) juga mempunyai skor hampir sama (sekitar 0.9994) tanpa bukti sokongan. Ini menunjukkan corak ramalan umum model untuk kategori neoplasma dan bukan isyarat khusus bagi ubat ini.
 
 ---
 
@@ -95,7 +95,7 @@ Sila rujuk sisipan pakej (package insert) untuk maklumat keselamatan. Tiada inte
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan ini hanya berdasarkan model (tahap bukti L5) tanpa sebarang ujian klinikal, literatur, atau hubungan mekanistik yang munasabah. Ubat ini juga tidak dipasarkan di Malaysia.
+- Ramalan ini hanya berdasarkan model (tahap bukti L5) tanpa sebarang ujian klinikal, literatur, atau hubungan mekanistik yang munasabah.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi), kerana ketiadaannya menghalang saringan keselamatan

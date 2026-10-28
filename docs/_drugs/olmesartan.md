@@ -49,10 +49,10 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Angina Prinzmetal**, tetapi r
 |------|------|
 | Indikasi Asal | Tiada dalam data pendaftaran NPRA (secara umum: hipertensi) |
 | Indikasi Baharu yang Diramalkan | Angina Prinzmetal |
-| Skor Ramalan TxGNN | 99.84% |
+| Skor Ramalan TxGNN | 0.9984 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan Disyorkan | Hold (Tunda) |
 
 ---

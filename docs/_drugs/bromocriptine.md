@@ -46,10 +46,10 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **congenital disorder of glycos
 | Item | Kandungan |
 |------|------|
 | Indikasi Baharu yang Diramalkan | Congenital disorder of glycosylation with defective fucosylation |
-| Skor Ramalan TxGNN | 99.83% |
+| Skor Ramalan TxGNN | 0.9983 |
 | Tahap Bukti | L5 (ramalan model sahaja) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?

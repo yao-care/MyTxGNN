@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Ceftazidime
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 204
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Ceftazidime: indikasi baharu diramal Peritonitis (tahap bukti L1). Indikasi asal: Jangkitan streptokokus, radang paru-paru bakteria…"
+evidence_level: L5
+indication_count: 10
+monitor_inn: "Ceftazidime"
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "urinary tract infection (disease)", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "blood group incompatibility", "infectious otitis media", "Peptostreptococcus infectious disease"]
+last_modified_at: 2026-10-27
+description: "Ceftazidime: indikasi baharu diramal Hiperamilasemia (hyperamylasemia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ceftazidime
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,89 +33,82 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-## Ceftazidime: Daripada Jangkitan Bakteria kepada Peritonitis
+## Ceftazidime: Sefalosporin generasi ketiga (perencat sintesis dinding sel bakteria) → Hiperamilasemia (hyperamylasemia)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Ceftazidime ialah antibiotik sefalosporin generasi ketiga yang pada asalnya digunakan untuk pelbagai jangkitan bakteria, termasuk radang paru-paru, meningitis dan peritonitis.
-Model TxGNN meramalkan ia mungkin berkesan untuk **peritonitis**, tetapi skor ramalan ialah **0.0%**, jadi model tidak memberikan isyarat sokongan. Peritonitis juga sebenarnya sudah menjadi salah satu indikasi asal ubat ini, jadi ia bukan pengunaan semula yang baharu.
-Setakat ini terdapat **5 ujian klinikal** dan **20 penerbitan** yang berkaitan dengan arah ini.
+Ceftazidime ialah antibiotik sefalosporin generasi ketiga yang disuntik. Model TxGNN meramalkan ia mungkin berkesan untuk **Hiperamilasemia (hyperamylasemia)**. Setakat ini tiada ujian klinikal mahupun penerbitan dalam data yang dikumpulkan untuk laporan ini yang mengkaji penyakit tersebut secara langsung.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan streptokokus, radang paru-paru bakteria, meningitis bakteria, peritonitis dan jangkitan lain (tiada teks indikasi berlesen tersedia) |
-| Indikasi Baharu yang Diramalkan | Peritonitis |
-| Skor Ramalan TxGNN | 0.0% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Hiperamilasemia (hyperamylasemia) |
+| Skor Ramalan TxGNN | 0,9951 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
+| Bilangan Pendaftaran | 11 (sah: 11) |
+| Keputusan Disyorkan | Hold (Tunda) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, ceftazidime ialah sefalosporin generasi ketiga yang menghalang sintesis dinding sel bakteria dengan mengikat protein pengikat penisilin. Ia mempunyai aktiviti anti-*Pseudomonas* dan spektrum luas terhadap bakteria Gram-negatif.
+Data terperinci mengenai mekanisme tindakan ceftazidime tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, ceftazidime ialah antibiotik beta-laktam yang menghalang sintesis dinding sel bakteria.
 
-Aktiviti ini berkaitan dengan peritonitis, termasuk peritonitis berkaitan dialisis peritoneum dan peritonitis bakteria spontan nosokomial. Peritonitis sudah tersenarai antara indikasi asal ubat ini, jadi ramalan ini lebih bersifat pengesahan penggunaan sedia ada daripada pengunaan semula yang baharu. Skor TxGNN sebanyak 0.0 tidak menyokong ramalan, dan bukti bergantung kepada ujian klinikal serta literatur farmakokinetik.
+Hiperamilasemia ialah penemuan makmal (paras amilase darah tinggi) yang biasanya berkaitan dengan keadaan pankreas atau metabolik. Penilaian terhadap data ini tidak menemui hubungan mekanistik yang munasabah antara tindakan antibakteria ceftazidime dengan keadaan ini. Tiada asas farmakologi yang menunjukkan ubat ini boleh merawat atau menurunkan paras amilase.
+
+Skor TxGNN yang tinggi (0,9951) kemungkinan besar hanyalah artifak pemodelan dan tidak disokong oleh bukti klinikal. Skor ini wajar dianggap sebagai isyarat untuk disiasat dan bukan bukti keberkesanan.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT01455246](https://clinicaltrials.gov/study/NCT01455246) | Fasa 2/3 | Ditamatkan | 32 | Daptomycin + meropenem berbanding ceftazidime dalam peritonitis bakteria spontan nosokomial; ceftazidime ialah pembanding. Ditamatkan awal dengan sampel kecil, maka kesimpulan terhad |
-| [NCT02872038](https://clinicaltrials.gov/study/NCT02872038) | Fasa 4 | Selesai | 154 | Cefepime monoterapi berbanding gabungan cefazolin + ceftazidime untuk peritonitis berkaitan CAPD |
-| [NCT02593201](https://clinicaltrials.gov/study/NCT02593201) | Fasa 4 | Selesai | 358 | Terapi antibiotik berpanjangan untuk mencegah peritonitis berulang dalam dialisis peritoneum; bukti untuk ceftazidime bersifat tidak langsung |
-| [NCT02787057](https://clinicaltrials.gov/study/NCT02787057) | NA | Selesai | 80 | IP vancomycin + moxifloxacin oral berbanding IP vancomycin + IP ceftazidime dalam peritonitis berkaitan dialisis peritoneum |
-| [NCT01785641](https://clinicaltrials.gov/study/NCT01785641) | NA | Selesai | 300 | Terapi antibiotik tunggal berbanding gabungan untuk peritonitis bakteria dalam pesakit CAPD |
+Pada masa ini tiada ujian klinikal berdaftar yang berkaitan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [25135487](https://pubmed.ncbi.nlm.nih.gov/25135487/) | 2014 | Meta-analisis | BMC Infect Dis | Menilai keberkesanan terapi antibiotik untuk peritonitis berkaitan dialisis peritoneum menggunakan meta-analisis perkadaran |
-| [9360685](https://pubmed.ncbi.nlm.nih.gov/9360685/) | 1997 | RCT prospektif | Adv Perit Dial | Cefazolin + netilmicin berbanding vancomycin + ceftazidime dalam peritonitis CAPD (52 episod) |
-| [2644565](https://pubmed.ncbi.nlm.nih.gov/2644565/) | 1989 | Kajian klinikal | Nephron | 102 episod peritonitis CAPD dirawat dengan vancomycin dan ceftazidime intraperitoneal |
-| [38044852](https://pubmed.ncbi.nlm.nih.gov/38044852/) | 2023 | Kajian farmakokinetik | Renal Failure | Farmakokinetik ceftazidime dan cefazolin dalam peritonitis berkaitan CAPD |
-| [32063189](https://pubmed.ncbi.nlm.nih.gov/32063189/) | 2020 | Kajian farmakokinetik | Perit Dial Int | Cefazolin dan ceftazidime IP semasa pertukaran dwell pendek dalam pesakit peritonitis |
-| [9915275](https://pubmed.ncbi.nlm.nih.gov/9915275/) | 1999 | Kajian farmakokinetik | Am J Kidney Dis | Farmakokinetik ceftazidime intraperitoneal berselang dalam pesakit CAPD |
-| [11587402](https://pubmed.ncbi.nlm.nih.gov/11587402/) | 2001 | Kajian klinikal | Perit Dial Int | Cefazolin dan ceftazidime berkesan untuk peritonitis dialisis peritoneum pada kanak-kanak |
-| [2660995](https://pubmed.ncbi.nlm.nih.gov/2660995/) | 1989 | Ulasan | Clin Ther | Ceftazidime berkesan sebagai monoterapi dalam peritonitis dan jangkitan lain |
-| [28882013](https://pubmed.ncbi.nlm.nih.gov/28882013/) | 2017 | Ulasan | Rev Esp Quimioter | Pengurusan antimikrob dalam peritonitis nosokomial, termasuk ceftazidime-avibactam |
-| [17697907](https://pubmed.ncbi.nlm.nih.gov/17697907/) | 2007 | Analisis farmakodinamik | Clin Ther | Terapi empirik peritonitis sekunder, simulasi Monte Carlo untuk beberapa antibiotik termasuk ceftazidime |
+Pada masa ini tiada literatur yang berkaitan.
 
 ---
 
-## Keselamatan
+## Maklumat Pasaran Malaysia
 
-- **Kontraindikasi daripada graf pengetahuan (bukan teks label)**: penyakit buah pinggang, piouretra, penyakit hati, penyakit pundi hempedu, gangguan pembekuan darah, kolitis *Clostridium difficile*, enterokolitis nekrotik perinatal, dan kekurangan protrombin kongenital.
-- **Interaksi ubat**: 100 interaksi direkodkan. Interaksi tahap sederhana termasuk amphotericin B (dan formulasi lipidnya), kanamycin, neomycin, streptomycin dan asid pikosulfurik. Beberapa lagi bertahap tidak diketahui, antaranya vancomycin, omeprazole, pantoprazole, metformin dan morphine.
+Ceftazidime berstatus **dipasarkan** di Malaysia. Kesemua 11 lesen yang direkodkan masih sah: 10 untuk produk satu bahan aktif dan 1 untuk produk gabungan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Jadual lesen terperinci dijana secara berasingan oleh sistem laman web.
 
-Untuk amaran dan kontraindikasi lengkap, sila rujuk sisipan pakej.
+---
+
+## Pertimbangan Keselamatan
+
+**Interaksi Ubat** (pangkalan data interaksi merekodkan sejumlah 100 interaksi; berikut ialah interaksi tahap sederhana yang utama):
+- Amfoterisin B (termasuk bentuk kompleks lipid, kolesteril sulfat dan liposom)
+- Kanamisin
+- Neomisin
+- Streptomisin
+- Asid pikosulfurik
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Hold (Tunda)**
 
-**Justifikasi:**
-- Beberapa ujian klinikal dan kajian farmakokinetik menyokong penggunaan ceftazidime dalam peritonitis, terutamanya peritonitis berkaitan dialisis peritoneum. Namun skor TxGNN ialah 0.0, ujian utama yang menamakan ceftazidime ialah pembanding bersaiz kecil atau berfasa NA, dan peritonitis sudah menjadi indikasi asal, jadi ini bukan penemuan baharu.
+**Rasional:**
+- Tiada ujian klinikal atau penerbitan yang mengkaji hiperamilasemia secara langsung, dan tiada hubungan mekanistik yang munasabah dikenal pasti. Tahap bukti ialah L5 (ramalan model sahaja).
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA (data ini menghalang saringan keselamatan)
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
-- Pengesahan status pendaftaran di Malaysia, kerana tiada lesen didaftarkan dalam data yang dikumpulkan
-- Pelan pemantauan keselamatan untuk pesakit dengan penyakit buah pinggang atau hati, dan kajian lanjut tentang peranan sebenar ceftazidime dalam ujian NCT02872038, NCT02593201 dan NCT01785641
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan yang terperinci
+- Sisipan pakej NPRA untuk amaran dan kontraindikasi
+- Sekurang-kurangnya satu kajian klinikal atau pra-klinikal yang mengkaji hubungan ceftazidime dengan hiperamilasemia secara langsung
+- Penilaian sama ada ramalan ini hanya artifak pemodelan sebelum sebarang sumber dilaburkan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

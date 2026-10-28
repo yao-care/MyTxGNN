@@ -3,16 +3,18 @@ layout: default
 title: Ethinylestradiol
 parent: Low Evidence (L4-L5)
 nav_order: 340
-evidence_level: L4
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Ethinylestradiol: indikasi baharu diramal Jerawat (acne) (tahap bukti L4). Indikasi asal: Osteoporosis pascamenopaus…"
+evidence_level: L5
+indication_count: 1
+monitor_inn: "Ethinylestradiol"
+predicted_indications: ["zinc, elevated plasma"]
+last_modified_at: 2026-10-23
+description: "Ethinylestradiol: indikasi baharu diramal Zink plasma meningkat (zinc, elevated plasma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ethinylestradiol
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,99 +33,73 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-## Ethinylestradiol: Daripada Osteoporosis Pascamenopaus dan Atrofi Vagina kepada Jerawat (Acne)
+## Ethinylestradiol: Zink plasma meningkat (zinc, elevated plasma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Ethinylestradiol ialah estrogen sintetik yang digunakan secara meluas dalam pil perancang keluarga. Menurut graf pengetahuan TxGNN, indikasi asalnya termasuk osteoporosis pascamenopaus dan vaginitis atrofi pascamenopaus. Model TxGNN meramalkan ia mungkin berkesan untuk **jerawat (acne)**, tetapi sokongan buktinya masih lemah: **2 kajian klinikal** (kedua-duanya pemerhatian, tanpa data keberkesanan) dan **20 penerbitan** yang kebanyakannya ulasan dan kajian berkaitan produk gabungan.
+Etinilestradiol ialah estrogen sintetik yang terdapat dalam banyak produk gabungan, dan kegunaannya untuk jerawat, osteoporosis pascamenopaus dan atrofi vulva/vagina pascamenopaus direkodkan sebagai kegunaan yang diketahui. Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **zink plasma meningkat**, tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini, jadi ramalan ini hanya berasaskan model dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan Pantas
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Osteoporosis pascamenopaus, vaginitis atrofi pascamenopaus (daripada graf pengetahuan TxGNN; tiada lesen tempatan untuk dirujuk) |
-| Indikasi Baharu yang Diramalkan | Jerawat (acne) |
-| Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
-> Nota: "jerawat" turut tersenarai antara indikasi asal dalam graf pengetahuan. Oleh itu, ramalan ini lebih tepat difahami sebagai penilaian bukti untuk penggunaan ethinylestradiol dalam jerawat, bukan penemuan indikasi yang benar-benar baharu.
-
----
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Zink plasma meningkat (zinc, elevated plasma) |
+| Skor Ramalan TxGNN | 0.9963 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 27 daripada 27) |
+| Bilangan Pendaftaran | 27 (sah: 27) |
+| Bilangan Kelulusan | 27 pendaftaran (semuanya produk gabungan) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, ethinylestradiol meningkatkan SHBG (sex hormone-binding globulin) di hati dan menurunkan paras androgen bebas. Androgen mendorong penghasilan sebum dan pembentukan lesi jerawat, jadi penurunannya secara mekanistik boleh mengurangkan jerawat.
+Data terperinci tentang mekanisme tindakan asal tidak tersedia pada masa ini, maka tiada penaakulan pada peringkat laluan yang boleh dibuat. Skor TxGNN yang sangat tinggi (0.9963) mencerminkan ramalan model TxGNN (pembelajaran mendalam) sahaja dan tidak disokong oleh data klinikal atau penerbitan.
 
-Kesan ini paling mantap apabila ethinylestradiol digabungkan dengan progestin antiandrogenik seperti cyproterone acetate, dienogest, chlormadinone acetate atau drospirenone. Bukti yang ada terutamanya datang daripada produk gabungan ini, bukan daripada ethinylestradiol secara tunggal. Sumbangan ethinylestradiol sahaja sukar diasingkan daripada sumbangan progestin.
+Secara tidak langsung, estrogen (termasuk etinilestradiol) diketahui mempengaruhi logam surih dalam peredaran. Penggunaan kontraseptif oral umumnya dilaporkan menaikkan kuprum dan seruloplasmin serum serta menurunkan zink serum. Ini bermakna kesan terhadap zink plasma, jika ada, mungkin bertentangan dengan arah rawatan zink yang meningkat. Ini ialah pengetahuan latar belakang, bukan bukti daripada data yang dikumpulkan untuk laporan ini.
 
-Literatur yang dikumpulkan terdiri daripada ulasan dan kajian berkaitan sindrom ovari polisistik (PCOS), tanpa data RCT pivotal. Kemunasabahan ramalan ini setakat ini bersandarkan mekanisme dan bukti tidak langsung.
+Selain itu, zink plasma meningkat ialah penemuan makmal dan bukan penyakit yang ditakrifkan dengan jelas dengan keperluan terapeutik yang mantap. Hubungan dengan indikasi asal (jerawat, osteoporosis, atrofi urogenital) juga belum dinilai dan masih belum disahkan.
 
----
+## Bukti Percubaan Klinikal
 
-## Bukti Kajian Klinikal
-
-| Nombor Kajian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT02410031](https://clinicaltrials.gov/study/NCT02410031) | N/A | Selesai | 759 | Kajian keratan rentas pemerhatian terhadap pengetahuan doktor tentang maklumat keselamatan Diane-35 (ethinylestradiol/cyproterone acetate) dan generiknya di Eropah. Tiada data keberkesanan. |
-| [NCT02349399](https://clinicaltrials.gov/study/NCT02349399) | N/A | Selesai | 26,065 | Kajian penggunaan ubat dalam pangkalan data penjagaan kesihatan Eropah (UK, Belanda, Itali), menghuraikan corak preskripsi CPA/EE. Tiada data keberkesanan. |
-
-Kedua-dua kajian hanya memberi konteks keselamatan dan penggunaan sebenar, bukan bukti keberkesanan untuk jerawat.
-
----
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [19272497](https://pubmed.ncbi.nlm.nih.gov/19272497/) | 2009 | Kajian klinikal berbanding plasebo (tidak dikelaskan) | Contraception | Menilai EE 0.030 mg/dienogest 2 mg untuk jerawat papulopustular berbanding plasebo dan EE 0.035 mg/cyproterone acetate 2 mg. |
-| [18840013](https://pubmed.ncbi.nlm.nih.gov/18840013/) | 2008 | Kajian fasa IV label terbuka | Clinical Drug Investigation | Kesan EE 0.03 mg/chlormadinone 2 mg terhadap kulit mudah berjerawat pada wanita berumur 18-37 tahun. |
-| [15025547](https://pubmed.ncbi.nlm.nih.gov/15025547/) | 2004 | Ulasan | Drugs | EE/chlormadinone acetate lebih berkesan daripada EE/levonorgestrel untuk jerawat papulopustular ringan hingga sederhana. |
-| [17683173](https://pubmed.ncbi.nlm.nih.gov/17683173/) | 2007 | Ulasan | Drugs | Ulasan EE/drospirenone (24/4 hari) untuk kontraseptif, PMDD dan jerawat vulgaris sederhana. |
-| [21895044](https://pubmed.ncbi.nlm.nih.gov/21895044/) | 2011 | Ulasan | American Journal of Clinical Dermatology | Manfaat dermatologi EE/chlormadinone acetate pada jerawat, hirsutisme, seborea dan keguguran rambut. |
-| [40949888](https://pubmed.ncbi.nlm.nih.gov/40949888/) | 2025 | Ulasan | International Journal of Women's Dermatology | Sumbangan EE 20 µg/dienogest 2 mg dalam jerawat vulgaris ringan hingga sederhana dan kesan psikologinya pada wanita muda. |
-| [21175386](https://pubmed.ncbi.nlm.nih.gov/21175386/) | 2011 | Ulasan (tidak dikelaskan) | Women's Health | Keberkesanan dan manfaat bukan kontraseptif EE/drospirenone, termasuk kesan antiandrogenik. |
-| [21212911](https://pubmed.ncbi.nlm.nih.gov/21212911/) | 2011 | Kajian perbandingan (tidak dikelaskan) | Saudi Medical Journal | Membandingkan desogestrel+EE dengan levonorgestrel+EE dari segi kesan ke atas jerawat, hirsutisme dan berat badan. |
-| [41051345](https://pubmed.ncbi.nlm.nih.gov/41051345/) | 2025 | Ulasan | Minerva Obstetrics and Gynecology | Estroprogestin ialah terapi paling berkesan untuk hiperandrogenisme pada PCOS, termasuk manifestasi kulit seperti jerawat. |
-| [140576](https://pubmed.ncbi.nlm.nih.gov/140576/) | 1976 | Kajian klinikal (tidak dikelaskan) | Acta Europaea Fertilitatis | Rawatan hirsutisme dan jerawat pada 175 wanita dengan dua kombinasi cyproterone acetate/ethinylestradiol. |
+Pada masa ini tiada literatur berkaitan tersedia.
 
-Hampir semua penerbitan ini melibatkan produk gabungan estrogen-progestin. Tiada bukti kukuh yang memisahkan kesan ethinylestradiol tunggal.
+## Maklumat Pasaran Malaysia
 
----
+Kesemua 27 lesen yang aktif ialah produk gabungan (etinilestradiol bersama progestogen); tiada lesen bahan tunggal. Lesen gabungan tidak boleh digunakan untuk menggambarkan status kelulusan etinilestradiol sebagai bahan tunggal. Teks indikasi diluluskan tidak tersedia dalam rekod. Lima lesen utama disenaraikan di bawah:
+
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL20013009AZ | NORDETTE 21 TABLET | Tidak dinyatakan | Tidak dinyatakan |
+| MAL19991384AZ | MINULET TABLET | Tidak dinyatakan | Tidak dinyatakan |
+| MAL12085067AZ | LIZA 0.03MG/3MG FILM-COATED TABLET | Tidak dinyatakan | Tidak dinyatakan |
+| MAL12085077AZ | LIZELLE 0.02mg/3mg film-coated tablet | Tidak dinyatakan | Tidak dinyatakan |
+| MAL10100173AZ | Giane 35 Tablet | Tidak dinyatakan | Tidak dinyatakan |
 
 ## Pertimbangan Keselamatan
 
-- **Kontraindikasi daripada graf pengetahuan (bukan teks label):** hipertensi, epilepsi, gangguan kebimbangan, porfiria, penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, hiperglisemia dan diabetes mellitus (termasuk ketoasidosis diabetes), kegagalan jantung kongestif, hipotiroidisme, lupus eritematosus sistemik, asma, insufisiensi adrenokortikal/penyakit Addison, hiperkalsemia, dan hiperplasia prostat jinak.
-- **Interaksi ubat:** 100 interaksi direkodkan. Antara yang utama (kebanyakannya tahap Sederhana):
-  - Ubat antidiabetes: acarbose, glimepiride, glipizide, glyburide, chlorpropamide, acetohexamide, alogliptin, empagliflozin, albiglutide dan dulaglutide.
-  - Kortikosteroid: dexamethasone, betamethasone dan budesonide.
-  - Antibiotik: doxycycline, amoxicillin dan clarithromycin.
-  - Lain-lain: chenodeoxycholic acid dan eliglustat.
-  - Tahap Minor: ascorbic acid dan cimetidine.
+- **Penyakit yang direkodkan sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): hipertensi, epilepsi, gangguan kebimbangan, porfiria, penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, hiperglisemia, kegagalan jantung kongestif, hiperkalsemia, insufisiensi adrenokortikal/penyakit Addison, hipotiroidisme, lupus eritematosus sistemik, asma, diabetes mellitus/ketoasidosis diabetik, dan hiperplasia prostat benigna.
+- **Interaksi Dubat** (100 interaksi direkodkan; contoh utama): tahap sederhana dengan acarbose, doksisiklin, amoksisilin, klaritromisin, deksametason, betametason, budesonid, asid kenodeoksikolik, eliglustat, serta agen antidiabetes (asetoheksamid, klorpropamid, glimepirida, glipizida, gliburida, albiglutid, dulaglutid, alogliptin, empagliflozin). Interaksi minor dengan asid askorbik dan simetidina.
 
-Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi rasmi.
-
----
+Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi, kerana data tersebut belum diperoleh.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Bukti terhad kepada ulasan dan kajian produk gabungan, tanpa RCT pivotal untuk ethinylestradiol tunggal dalam jerawat. Dua kajian klinikal yang ada hanya pemerhatian dan tidak menilai keberkesanan.
-- Ethinylestradiol tidak berdaftar di Malaysia, dan maklumat sisipan pakej rasmi belum tersedia untuk saringan keselamatan.
+Ramalan ini tidak mempunyai sebarang percubaan klinikal atau penerbitan (tahap bukti L5), dan pengetahuan latar belakang menunjukkan estrogen cenderung menurunkan, bukan menaikkan, zink serum. Zink plasma meningkat juga bukan penyakit dengan keperluan terapeutik yang jelas.
 
-**Untuk diteruskan, perkara berikut diperlukan:**
-- Muat turun dan huraikan sisipan pakej daripada NPRA untuk amaran dan kontraindikasi rasmi.
-- Data mekanisme tindakan (MOA) terperinci, contohnya melalui pangkalan data DrugBank.
-- Bukti RCT yang membezakan sumbangan ethinylestradiol daripada progestin antiandrogenik dalam jerawat.
-- Penilaian status pendaftaran dan produk gabungan yang sedia ada atau boleh didaftarkan di Malaysia.
-- Kajian risiko-manfaat berhubung kontraindikasi (contohnya hipertensi, penyakit hati, diabetes) dan interaksi ubat bagi populasi sasaran.
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Bukti klinikal atau praklinikal yang secara langsung mengkaji kesan etinilestradiol ke atas zink plasma yang meningkat
+- Pengesahan sama ada keadaan ini mempunyai keperluan klinikal yang sebenar sebagai sasaran terapeutik
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

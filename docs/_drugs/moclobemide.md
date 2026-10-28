@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Moclobemide
-parent: Low Evidence (L4-L5)
+parent: High Evidence (L1-L2)
 nav_order: 510
-evidence_level: L5
+evidence_level: L1
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Moclobemide: indikasi baharu diramal Agorafobia (tahap bukti L5). Indikasi asal: Gangguan kebimbangan, gangguan neurotik…"
 monitor_inn: "MOCLOBEMIDE"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
+description: "Moclobemide: indikasi baharu diramal Agorafobia (agoraphobia) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Moclobemide
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **2** 
+Tahap bukti: **L1** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Moclobemide: Daripada Gangguan Kebimbangan kepada Agorafobia
+## Moclobemide: Agorafobia (agoraphobia)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ dengan **0 percubaan klinikal berdaftar** tetapi **10 penerbitan** yang menyokon
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Gangguan kebimbangan, gangguan neurotik, gangguan distimik (berdasarkan graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Agorafobia |
-| Skor Ramalan TxGNN | 99.43% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Agorafobia (agoraphobia) |
+| Skor Ramalan TxGNN | 0.9943 |
 | Tahap Bukti | L1 (mengikut penilaian dalam data yang dikumpulkan; lihat nota di bahagian Kesimpulan) |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
@@ -64,7 +64,7 @@ Moclobemide ialah perencat boleh balik monoamin oksidase A (MAO-A). Dengan mengh
 
 Agorafobia lazimnya berlaku bersama gangguan panik dan merupakan sebahagian daripada spektrum gangguan kebimbangan, iaitu kategori indikasi asal moclobemide. Oleh itu, mekanisme monoaminergik yang berkesan untuk kebimbangan secara teorinya boleh digunakan untuk agorafobia.
 
-Skor TxGNN yang tinggi (0.994) selari dengan isyarat literatur, tetapi ia hanyalah ramalan model dan bukan bukti klinikal.
+Skor TxGNN yang tinggi (0.9943) selari dengan isyarat literatur, tetapi ia hanyalah ramalan model dan bukan bukti klinikal.
 
 ---
 
@@ -104,7 +104,7 @@ Sila rujuk sisipan pek untuk maklumat keselamatan lengkap, termasuk amaran dan k
 **Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
 **Rasional:**
-- Dua RCT menyokong penggunaan moclobemide dalam gangguan panik dengan atau tanpa agorafobia, dan mekanismenya selari dengan indikasi kebimbangan asal. Namun, tiada percubaan berdaftar, kedua-dua RCT tidak menyasarkan agorafobia semata-mata, dan ubat ini tidak dipasarkan di Malaysia.
+- Dua RCT menyokong penggunaan moclobemide dalam gangguan panik dengan atau tanpa agorafobia, dan mekanismenya selari dengan indikasi kebimbangan asal.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pek dan data amaran/kontraindikasi (data keselamatan masih kosong dan menghalang saringan keselamatan)
@@ -115,7 +115,7 @@ Sila rujuk sisipan pek untuk maklumat keselamatan lengkap, termasuk amaran dan k
 
 ---
 
-**Nota tambahan:** Ramalan kedua TxGNN, *benign paroxysmal torticollis of infancy* (skor 99.30%), tidak mempunyai bukti klinikal atau literatur dan tiada pautan mekanisme yang disokong. Tahap buktinya ialah L5 dan keputusannya **Hold**.
+**Nota tambahan:** Ramalan kedua TxGNN, *benign paroxysmal torticollis of infancy* (skor 0.9930), tidak mempunyai bukti klinikal atau literatur dan tiada pautan mekanisme yang disokong. Tahap buktinya ialah L5 dan keputusannya **Hold**.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Fluvoxamine
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 373
-evidence_level: L1
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Fluvoxamine: indikasi baharu diramal Gangguan obsesif-kompulsif (OCD) (tahap bukti L1). Indikasi asal: Tiada data (tiada lesen NPRA yang direkodkan)"
 monitor_inn: "Fluvoxamine"
-predicted_indications: ["schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
+predicted_indications: ["schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder", "endogenous depression"]
+last_modified_at: 2026-10-23
+description: "Fluvoxamine: indikasi baharu diramal Schizoid personality disorder (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Fluvoxamine
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,120 +33,78 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-## Fluvoxamine: Daripada Penunjuk Asal Tidak Dinyatakan kepada Gangguan Obsesif-Kompulsif (OCD)
+## Fluvoxamine: Schizoid personality disorder
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Fluvoxamine ialah perencat pengambilan semula serotonin terpilih (SSRI). Data yang dikumpulkan untuk laporan ini tidak mencatatkan penunjuk asalnya di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Gangguan Obsesif-Kompulsif (OCD)**,
-dengan **10 percubaan klinikal** dan **20 penerbitan** yang disenaraikan dalam data. Namun begitu, OCD sebenarnya sudah menjadi terapi mantap di banyak negara, jadi ini lebih merupakan penggunaan sedia ada berbanding pengalihan fungsi (repurposing) sebenar.
-
----
+Fluvoxamine ialah ubat perencat penyerapan semula serotonin terpilih (SSRI) yang kini didaftarkan di Malaysia, tetapi rekod lesen tidak menyatakan teks indikasi yang diluluskan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan personaliti skizoid**.
+Setakat ini terdapat **0 ujian klinikal** dan **1 penerbitan** yang berkaitan, dan penerbitan itu tidak menguji fluvoxamine sebagai rawatan untuk penyakit ini.
 
 ## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
-| Penunjuk Asal | Tiada data (tiada lesen NPRA yang direkodkan) |
-| Penunjuk Baharu yang Diramalkan | Gangguan obsesif-kompulsif (OCD) |
-| Skor Ramalan TxGNN | 99.998% |
-| Tahap Bukti | L1 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
-
----
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Schizoid personality disorder |
+| Skor Ramalan TxGNN | 1.0000 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
+| Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Fluvoxamine ialah SSRI yang kuat. Perencatan pengambilan semula serotonin dalam litar kortiko-striato-talamo-kortikal diterima sebagai mekanisme kesan anti-obsesif. Agonisme reseptor sigma-1 mungkin menambah modulasi lanjut. Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan; huraian di atas berdasarkan pengetahuan farmakologi umum.
+Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Fluvoxamine diketahui sebagai SSRI dan agonis reseptor sigma-1. Namun begitu, tiada rasional mekanisme khusus yang menghubungkannya dengan gangguan personaliti skizoid.
 
-Perlu diperhatikan bahawa data menyenaraikan ubat ini sebagai "tidak dipasarkan" tanpa ID DrugBank dan tanpa penunjuk asal, iaitu kekosongan data. Hakikatnya, fluvoxamine ialah terapi OCD yang mantap di banyak bidang kuasa (contohnya kajian pasca-pemasaran NCT00352768 merujuk SME3110 sebagai produk yang telah dipasarkan). Maka ramalan ini lebih tepat dilihat sebagai pengesahan penggunaan standard-of-care.
+Satu-satunya penerbitan yang dipetik membincangkan gangguan personaliti sebagai komorbiditi dalam gangguan dismorfik badan, dan bukan rawatan dengan fluvoxamine.
 
----
+Oleh itu, ramalan ini perlu dianggap sebagai hipotesis awal sahaja.
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT04963257](https://clinicaltrials.gov/study/NCT04963257) | Fasa 4 | Tidak diketahui | 400 | RCT sertraline + fluvoxamine berbanding sertraline + aripiprazole dalam OCD refraktori |
-| [NCT01933919](https://clinicaltrials.gov/study/NCT01933919) | Fasa 3 | Selesai | 38 | Fluvoxamine maleate (SME3110) berbanding plasebo dalam OCD pediatrik/remaja |
-| [NCT00352768](https://clinicaltrials.gov/study/NCT00352768) | Fasa 4 | Ditamatkan | 20 | Kajian pasca-pemasaran fluvoxamine dalam OCD kanak-kanak/remaja; ditamatkan awal |
-| [NCT00074815](https://clinicaltrials.gov/study/NCT00074815) | Fasa 3 | Selesai | 124 | CBT sebagai tambahan kepada SRI dalam OCD pediatrik (responden separa) |
-| [NCT02022709](https://clinicaltrials.gov/study/NCT02022709) | Fasa 4 | Selesai | 78 | ERP dan SSRI (termasuk fluvoxamine) dalam OCD |
-| [NCT04539951](https://clinicaltrials.gov/study/NCT04539951) | Fasa 2 | Sedang merekrut | 1600 | Percubaan pragmatik pilihan farmakoterapi selepas rawatan awal tidak memuaskan |
-| [NCT00000389](https://clinicaltrials.gov/study/NCT00000389) | Fasa 3 | Selesai | Tidak dilaporkan | Fluvoxamine dalam gangguan kebimbangan kanak-kanak (RUPP); kaitan dengan OCD tidak langsung |
-| [NCT02194075](https://clinicaltrials.gov/study/NCT02194075) | Fasa 4 | Selesai | 60 | Penambahan methylphenidate pada fluvoxamine dalam OCD |
-| [NCT02285699](https://clinicaltrials.gov/study/NCT02285699) | Tidak berkenaan | Selesai | 43 | Kajian perintis mikrobiota usus dalam OCD; bukan ujian keberkesanan fluvoxamine |
-| [NCT03179839](https://clinicaltrials.gov/study/NCT03179839) | Tidak berkenaan | Selesai | 123 | Terapi kognitif berasaskan kesedaran (bukan farmakologi) |
-
----
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [27318812](https://pubmed.ncbi.nlm.nih.gov/27318812/) | 2016 | Semakan sistematik & meta-analisis rangkaian | The Lancet Psychiatry | Perbandingan intervensi farmakologi dan psikoterapi untuk OCD dewasa |
-| [40143130](https://pubmed.ncbi.nlm.nih.gov/40143130/) | 2025 | Semakan gambaran keseluruhan | Pharmaceuticals | Keberkesanan fluvoxamine dalam gangguan kebimbangan dan OCD |
-| [19198698](https://pubmed.ncbi.nlm.nih.gov/19198698/) | 2008 | RCT/ulasan | Drugs of Today | Fluvoxamine lepas terkawal dalam OCD dan fobia sosial; tiga kajian terkawal plasebo 12 minggu |
-| [9184625](https://pubmed.ncbi.nlm.nih.gov/9184625/) | 1997 | Semakan | J Clin Psychiatry | Fluvoxamine ialah salah satu SRI yang paling banyak dikaji dalam OCD |
-| [3120604](https://pubmed.ncbi.nlm.nih.gov/3120604/) | 1987 | Percubaan silang buta-dua | Am J Psychiatry | 13 daripada 16 pesakit bertambah baik dengan fluvoxamine berbanding 3 dengan plasebo |
-| [1355499](https://pubmed.ncbi.nlm.nih.gov/1355499/) | 1992 | Semakan | Int Clin Psychopharmacol | Keberkesanan SRI poten dalam OCD ditunjukkan melalui kajian terkawal plasebo |
-| [38703743](https://pubmed.ncbi.nlm.nih.gov/38703743/) | 2024 | Kajian keselamatan | Comprehensive Psychiatry | Keselamatan dan toleransi SRI dos tinggi luar label dalam OCD |
-| [41562898](https://pubmed.ncbi.nlm.nih.gov/41562898/) | 2025 | Kohort | Medical Sciences | Lurasidone + fluvoxamine dalam anoreksia nervosa dengan OCD komorbid |
-| [22305974](https://pubmed.ncbi.nlm.nih.gov/22305974/) | 2012 | Semakan | BMJ Clinical Evidence | Gambaran keseluruhan OCD |
-| [28881483](https://pubmed.ncbi.nlm.nih.gov/28881483/) | 2017 | Meta-analisis | Depression and Anxiety | Risiko hiperhidrosis dengan antidepresan generasi kedua |
-
----
-
-## Penunjuk Baharu Lain yang Diramalkan
-
-| Penunjuk | Skor TxGNN | Tahap Bukti | Keputusan | Catatan |
-|------|------|------|------|------|
-| Gangguan kebimbangan | 99.97% | L1 | Proceed with Guardrails | Meta-analisis rangkaian menyokong SSRI dalam fobia sosial dan gangguan panik; kebanyakan percubaan berpusat pada OCD dan dipetakan secara ontologi sahaja |
-| Agorafobia | 99.97% | L2 | Persoalan Penyelidikan | Beberapa RCT terkawal plasebo fluvoxamine dalam gangguan panik dengan agorafobia, dengan keputusan yang tidak seragam; tiada percubaan berdaftar |
-| Gangguan personaliti skizotipal | 99.997% | L4 | Hold | Hanya laporan kes dan siri kes tentang penambahan neuroleptik; tiada ujian fluvoxamine untuk keadaan ini |
-| Gangguan personaliti skizoid | 99.997% | L4 | Hold | Satu kajian kohort tidak langsung |
-| Gangguan personaliti paranoid | 99.997% | L4 | Hold | Tiada bukti khusus fluvoxamine |
-| Gangguan personaliti bergantung | 99.90% | L4 | Hold | Bukti tidak langsung sahaja |
-| Gangguan personaliti narsistik | 99.89% | L4 | Hold | Bukti tidak langsung sahaja |
-| Gangguan personaliti histrionik | 99.997% | L5 | Hold | Ramalan komputasi sahaja |
-| Tortikolis paroksismal jinak bayi | 99.96% | L5 | Hold | Ramalan komputasi sahaja; kaitan biologi tidak jelas, berkemungkinan artifak model |
-
----
+| [10929788](https://pubmed.ncbi.nlm.nih.gov/10929788/) | 2000 | Kohort | Comprehensive Psychiatry | Menilai gangguan dan ciri personaliti dalam 148 pesakit gangguan dismorfik badan. 26 daripadanya menyertai kajian rawatan fluvoxamine. Kajian ini bukan ujian rawatan untuk gangguan personaliti skizoid. |
 
 ## Maklumat Pasaran Malaysia
 
-Berdasarkan data yang dikumpulkan, tiada lesen NPRA direkodkan untuk fluvoxamine (status: tidak dipasarkan, 0 pendaftaran). Jadual lesen tidak dapat disenaraikan.
+| Nombor Kebenaran | Nama Produk | Pengilang |
+|---------|------|------|
+| MAL06091399ARZ | Apo-Fluvoxamine 50mg Tablets | Pharmaforte (Malaysia) Sdn. Bhd. |
+| MAL20021413ACZ | Luvox 100mg Film Coated Tablet | Abbott Laboratories (M) Sdn. Bhd. |
+| MAL20021412ACZ | Luvox 50mg Film Coated Tablet | Abbott Laboratories (M) Sdn. Bhd. |
+| MAL25096031AZ | Fluvoxin 50 (Fluvoxamine Maleate 50mg Film-Coated Tablets) | Ranbaxy (Malaysia) Sdn. Bhd. |
+| MAL25096032AZ | Fluvoxin 100 (Fluvoxamine Maleate 100mg Film-Coated Tablets) | Ranbaxy (Malaysia) Sdn. Bhd. |
+| MAL10110004AZ | Anwu Enteric Coated Tablets 50mg | Averroes Pharmaceuticals Sdn. Bhd. |
 
----
+Kesemua enam lesen ialah produk bahan tunggal dan berstatus sah. Teks indikasi dan bentuk dos tidak tercatat dalam rekod yang dikumpulkan.
 
 ## Pertimbangan Keselamatan
 
-Maklumat amaran, kontraindikasi dan sisipan bungkusan NPRA tidak tersedia. Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
+- **Interaksi Ubat**: Pangkalan data interaksi merekodkan 100 interaksi. Antara yang bertahap **Major** ialah alosetron, dietilpropion, dolasetron dan bupropion. Contoh interaksi tahap Moderate ialah rabeprazol, aspirin, klaritromisin, pioglitazon, morfin, dan beberapa kortikosteroid (hidrokortison, deksametason, betametason, budesonid, triamsinolon).
+- **Isyarat keselamatan daripada literatur**: Satu laporan kes dalam data yang dikumpulkan (bukan untuk penyakit ini) melaporkan sawan akibat gabungan levomepromazin dan fluvoxamine.
 
-**Interaksi Ubat** (100 interaksi direkodkan; contoh daripada 20 pertama yang dipaparkan):
-- **Major**: Alosetron, Diethylpropion, Dolasetron, Bupropion
-- **Moderate**: Rabeprazole, Hydrocortisone, Aprepitant, Acetylsalicylic acid, Betamethasone, Budesonide, Chlorpropamide, Clarithromycin, Dronabinol, Eliglustat, Eluxadoline, Pioglitazone, Triamcinolone, Morphine, Dexamethasone
-
-Literatur juga melaporkan satu kes sawan akibat gabungan levomepromazine dengan fluvoxamine (PMID 8473723).
-
----
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Hold (Tangguh)**
 
-**Justifikasi:**
-- Bukti untuk OCD adalah kukuh: terdapat percubaan Fasa 3 yang selesai, beberapa RCT dan semakan sistematik, dan fluvoxamine sememangnya terapi OCD standard di banyak negara. Walau bagaimanapun, ubat ini tidak mempunyai pendaftaran NPRA dan data keselamatan tempatan tiada, maka kawalan diperlukan.
+**Rasional:**
+- Tiada ujian klinikal dan tiada kajian yang menguji fluvoxamine secara langsung untuk gangguan personaliti skizoid, maka tahap bukti ialah L5. Ramalan ini hanya berdasarkan model.
+- Sebagai perbandingan, ramalan TxGNN lain untuk fluvoxamine (contohnya gangguan kebimbangan, agorafobia dan kemurungan endogen) mempunyai bukti yang jauh lebih kukuh dan wajar dinilai secara berasingan.
 
-**Untuk diteruskan, perlu:**
-- Muat turun dan huraikan sisipan bungkusan untuk amaran dan kontraindikasi (jurang data berstatus penyekat)
-- Data mekanisme tindakan terperinci dan ID DrugBank
-- Pengesahan status pendaftaran dan penunjuk asal di Malaysia
-- Pelan pemantauan interaksi ubat, terutamanya interaksi tahap Major (alosetron, diethylpropion, dolasetron, bupropion)
-- Penilaian keselamatan untuk populasi khas (kanak-kanak/remaja dan warga emas)
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Kajian klinikal atau literatur yang menguji fluvoxamine secara langsung dalam gangguan personaliti skizoid
+- Data mekanisme tindakan yang lengkap
+- Teks indikasi dan maklumat keselamatan (amaran dan kontraindikasi) daripada sisipan pakej NPRA
+- Pelan pemantauan interaksi ubat memandangkan beban interaksi yang tinggi
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

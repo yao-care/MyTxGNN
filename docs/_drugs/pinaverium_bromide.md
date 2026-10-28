@@ -8,6 +8,7 @@ nav_order: 574
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Pinaverium Bromide
@@ -51,8 +52,8 @@ Laporan ini mendokumentasikan status penilaian semasa dan langkah pemulihan khus
 | Petunjukan Baru yang Diramal | Tiada ramalan tersedia — saluran paip tidak lengkap |
 | Skor Ramalan TxGNN | Tiada |
 | Tahap Bukti | Tidak boleh dinilai |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | **Tahan** |
 
 ---

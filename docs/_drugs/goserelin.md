@@ -6,9 +6,9 @@ nav_order: 393
 evidence_level: L2
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Goserelin: indikasi baharu diramal Amenorea (tahap bukti L2). Indikasi asal: Endometriosis (endometriosis uterus)"
 monitor_inn: "goserelin"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
+description: "Goserelin: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Goserelin
@@ -33,7 +33,7 @@ Tahap bukti: **L2** | Indikasi diramal: **3**
 
 </div>
 
-## Goserelin: Daripada Endometriosis kepada Amenorea
+## Goserelin: Amenorea (amenorrhea (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ dengan **1 percubaan klinikal** dan **15 penerbitan** yang menyokong arah ini, t
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Endometriosis (endometriosis uterus) |
-| Indikasi Baharu yang Diramalkan | Amenorea |
-| Skor Ramalan TxGNN | 99.99% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Amenorea (amenorrhea (disease)) |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -66,7 +66,7 @@ Kesan ini ialah asas penggunaannya dalam endometriosis dan kanser payudara prame
 
 Pembingkaian terapeutik hanya munasabah untuk amenorea yang diinduksi dengan sengaja (cth. penekanan haid, pendarahan haid yang banyak, sakit pelvis). Dalam konteks perlindungan ovari semasa kemoterapi pula, matlamatnya bertentangan, iaitu memelihara fungsi ovari dan pemulihan haid.
 
-Dua ramalan lain (hipoplasia renal dan hipoplasia renal bilateral, skor ~99%) tidak mempunyai hubungan mekanistik yang dapat dikenal pasti, tiada percubaan klinikal atau literatur, dan berkemungkinan merupakan artifak kedekatan rangkaian graf. Penggunaan goserelin semasa kehamilan juga dikontraindikasikan. Kedua-duanya diklasifikasikan sebagai L5 dengan keputusan Hold dan tidak dibincangkan lanjut.
+Dua ramalan lain (hipoplasia renal dan hipoplasia renal bilateral, skor 0.9906) tidak mempunyai hubungan mekanistik yang dapat dikenal pasti, tiada percubaan klinikal atau literatur. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Penggunaan goserelin semasa kehamilan juga dikontraindikasikan. Kedua-duanya diklasifikasikan sebagai L5 dengan keputusan Hold dan tidak dibincangkan lanjut.
 
 ---
 
@@ -112,7 +112,7 @@ Dua ramalan lain (hipoplasia renal dan hipoplasia renal bilateral, skor ~99%) ti
 **Keputusan: Hold**
 
 **Rasional:**
-- Amenorea terutamanya kesan farmakologi yang dijangka bagi goserelin dan bukan penyakit sasaran yang jelas. Satu-satunya percubaan klinikal berkaitan (Fasa 3) berstatus tidak diketahui dan berfokus pada hasil onkologi, manakala literatur kebanyakannya berkaitan kanser payudara. Ubat ini juga tidak dipasarkan di Malaysia, dan data keselamatan sisipan pakej belum tersedia.
+- Amenorea terutamanya kesan farmakologi yang dijangka bagi goserelin dan bukan penyakit sasaran yang jelas. Satu-satunya percubaan klinikal berkaitan (Fasa 3) berstatus tidak diketahui dan berfokus pada hasil onkologi, manakala literatur kebanyakannya berkaitan kanser payudara.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Menjelaskan tujuan terapeutik (cth. penekanan haid, pendarahan haid yang banyak, perlindungan ovari) dan mentakrifkan semula indikasi sasaran.

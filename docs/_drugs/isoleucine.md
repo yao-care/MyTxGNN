@@ -50,10 +50,10 @@ tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang
 |------|------|
 | Indikasi Asal | Tiada rekod indikasi diluluskan |
 | Indikasi Baharu yang Diramalkan | Gastroparesis |
-| Skor Ramalan TxGNN | 99.32% |
+| Skor Ramalan TxGNN | 0.9932 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 42 daripada 42) |
+| Bilangan Pendaftaran | 42 (sah: 42) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---

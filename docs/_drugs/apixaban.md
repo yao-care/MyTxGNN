@@ -49,10 +49,10 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **migrain (migraine disorder)**
 |------|------|
 | Indikasi Asal | Tiada data indikasi berdaftar tersedia |
 | Indikasi Baharu yang Diramalkan | Migrain (migraine disorder) |
-| Skor Ramalan TxGNN | 99.02% |
+| Skor Ramalan TxGNN | 0.9902 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 25 daripada 25) |
+| Bilangan Pendaftaran | 25 (sah: 25) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -63,7 +63,7 @@ Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. B
 
 Satu hipotesis ialah migrain dengan aura, terutamanya apabila berkaitan dengan pirau kanan-ke-kiri seperti patent foramen ovale (PFO) atau antibodi antifosfolipid, mungkin melibatkan mikrotrombus atau embolisme paradoks. Secara teori, antikoagulasi boleh mengurangkan episod aura.
 
-Namun, laporan kes yang ada menunjukkan arah bertentangan: satu melaporkan migrain dengan aura bertambah teruk selepas memulakan apixaban, dan satu lagi melaporkan simptom tidak reda dengan apixaban tetapi reda dengan warfarin. Ini tidak menyokong manfaat antikoagulan secara umum. Skor TxGNN yang tinggi (0.99) hanyalah ramalan pengiraan dan bukan bukti klinikal.
+Namun, laporan kes yang ada menunjukkan arah bertentangan: satu melaporkan migrain dengan aura bertambah teruk selepas memulakan apixaban, dan satu lagi melaporkan simptom tidak reda dengan apixaban tetapi reda dengan warfarin. Ini tidak menyokong manfaat antikoagulan secara umum. Skor TxGNN yang tinggi (0.9902) hanyalah ramalan pengiraan dan bukan bukti klinikal.
 
 ---
 

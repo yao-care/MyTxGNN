@@ -8,6 +8,7 @@ nav_order: 80
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Anidulafungin
@@ -53,8 +54,8 @@ Jurang data hulu yang kritikal dalam petunjuk yang diluluskan asal, mekanisme ti
 | Petunjuk Ramalan Baru | Tiada ramalan dijana |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | T/A — tiada ramalan untuk dinilai |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | **Tunda** |
 
 ---

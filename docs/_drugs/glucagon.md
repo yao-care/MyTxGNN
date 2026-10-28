@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Glucagon
-parent: Low Evidence (L4-L5)
+parent: Medium Evidence (L3)
 nav_order: 388
-evidence_level: L5
+evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Glucagon: indikasi baharu diramal Sindrom usus rengsa (irritable bowel syndrome) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar tempatan"
 monitor_inn: "GLUCAGON"
 predicted_indications: ["irritable bowel syndrome"]
+description: "Glucagon: indikasi baharu diramal Sindrom usus rengsa (irritable bowel syndrome) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Glucagon
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **1** 
+Tahap bukti: **L3** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Glukagon: Daripada Penggunaan Asal (Tiada Indikasi Berdaftar di Malaysia) kepada Sindrom Usus Rengsa (Irritable Bowel Syndrome)
+## Glucagon: Sindrom usus rengsa (irritable bowel syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Namun, sebahagian besar bukti menyangkut GLP-1 dan analognya (contohnya ROSE-010
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar tempatan |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Sindrom usus rengsa (irritable bowel syndrome) |
-| Skor Ramalan TxGNN | 99.24% |
+| Skor Ramalan TxGNN | 0.9924 |
 | Tahap Bukti | L3 (data tidak langsung; tiada ujian glukagon dalam IBS) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (soalan penyelidikan) |
 
 ---
@@ -111,7 +111,7 @@ Maklumat amaran utama dan kontraindikasi tidak tersedia. Sila rujuk sisipan pek 
 **Keputusan: Hold**
 
 **Rasional:**
-- Skor TxGNN sangat tinggi (99.24%), tetapi bukti klinikal hanya menyokong laluan GLP-1 dan bukan glukagon. Tiada ujian glukagon dalam IBS, produk tidak dipasarkan di Malaysia, dan data keselamatan asas tiada. Ini sesuai dianggap sebagai soalan penyelidikan, bukan calon untuk diteruskan.
+- Skor TxGNN sangat tinggi (0.9924), tetapi bukti klinikal hanya menyokong laluan GLP-1 dan bukan glukagon. Ini sesuai dianggap sebagai soalan penyelidikan, bukan calon untuk diteruskan.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang)

@@ -6,9 +6,9 @@ nav_order: 439
 evidence_level: L1
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Ketorolac: indikasi baharu diramal Gangguan sakit kepala (headache disorder) (tahap bukti L1). Indikasi asal: Konjunktivitis atopik, konjunktivitis papilari…"
 monitor_inn: "ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
+description: "Ketorolac: indikasi baharu diramal Gangguan sakit kepala (headache disorder) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ketorolac
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **3**
 
 </div>
 
-## Ketorolac: Daripada Konjunktivitis Alergi kepada Gangguan Sakit Kepala
+## Ketorolac: Gangguan sakit kepala (headache disorder)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ dengan **16 percubaan klinikal** dan **18 penerbitan** yang disenaraikan dalam d
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Konjunktivitis atopik, konjunktivitis papilari, konjunktivitis vernal (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada lesen tempatan untuk dirujuk) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Gangguan sakit kepala (headache disorder) |
-| Skor Ramalan TxGNN | 99.43% |
+| Skor Ramalan TxGNN | 0.9943 |
 | Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 > Nota: Tahap bukti L1 mengikut penilaian dalam data yang dikumpulkan. Perlu dinyatakan bahawa percubaan klinikal yang disenaraikan kebanyakannya Fasa 4 atau percubaan kecil, dan bukan dua percubaan RCT Fasa 3 yang jelas selesai dengan ketorolac sebagai agen tunggal. Tahap ini wajar disemak semula.
@@ -66,7 +66,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data asal
 
 Indikasi asal (konjunktivitis alergi) juga bergantung pada perencatan COX yang bersifat antiradang. Maka, kesan analgesik dan antiradang yang sama boleh diterapkan pada sakit kepala akut.
 
-Perlu diberi perhatian bahawa ketorolac parenteral dan intranasal sudah digunakan dalam amalan klinikal untuk migrain akut. Ini lebih hampir kepada penggunaan luar label (off-label) yang sedia ada berbanding repurposing yang benar-benar baharu. Oleh sebab ubat ini tidak dipasarkan di Malaysia menurut data ini, formulasi dan laluan kawal selia untuk indikasi sakit kepala perlu disahkan sebelum sebarang cadangan.
+Perlu diberi perhatian bahawa ketorolac parenteral dan intranasal sudah digunakan dalam amalan klinikal untuk migrain akut. Ini lebih hampir kepada penggunaan luar label (off-label) yang sedia ada berbanding repurposing yang benar-benar baharu.
 
 ---
 
@@ -131,8 +131,8 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 | Indikasi | Skor TxGNN | Tahap Bukti | Keputusan | Catatan |
 |------|------|------|------|------|
-| Konjunktivitis rosasea | 99.40% | L5 | Hold | Ramalan model sahaja; tiada percubaan atau literatur. NSAID topikal boleh menjejaskan penyembuhan kornea, dan risiko kornea cair (corneal melt) membimbangkan pada permukaan mata yang sudah terjejas. |
-| Sefalgia autonomik trigeminal | 99.39% | L4 | Hold | Satu-satunya percubaan (NCT04353505) ditarik balik dengan 0 peserta. Literatur hanya kajian naratif 1994 dan laporan kes ketoksikan litium akibat ketorolac, iaitu isyarat keselamatan penting jika digabungkan dengan litium. Tiada bukti keberkesanan langsung. |
+| Konjunktivitis rosasea | 0.9940 | L5 | Hold | Ramalan model sahaja; tiada percubaan atau literatur. NSAID topikal boleh menjejaskan penyembuhan kornea, dan risiko kornea cair (corneal melt) membimbangkan pada permukaan mata yang sudah terjejas. |
+| Sefalgia autonomik trigeminal | 0.9939 | L4 | Hold | Satu-satunya percubaan (NCT04353505) ditarik balik dengan 0 peserta. Literatur hanya kajian naratif 1994 dan laporan kes ketoksikan litium akibat ketorolac, iaitu isyarat keselamatan penting jika digabungkan dengan litium. Tiada bukti keberkesanan langsung. |
 
 ---
 
@@ -146,7 +146,6 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 **Untuk meneruskan, perlu dilengkapkan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi), yang kini tiada dan merupakan jurang data penyekat untuk saringan keselamatan
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
-- Pengesahan formulasi, laluan pemberian dan laluan kawal selia kerana ubat ini tidak dipasarkan di Malaysia
 - Pelan pemantauan keselamatan untuk populasi berisiko (warga emas, kecacatan buah pinggang, penyakit gastrousus dan kardiovaskular) serta had tempoh rawatan
 ## Penafian
 

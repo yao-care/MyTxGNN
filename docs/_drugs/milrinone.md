@@ -4,17 +4,17 @@ title: Milrinone
 parent: Low Evidence (L4-L5)
 nav_order: 506
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Milrinone: indikasi baharu diramal Alopesia (tahap bukti L5). Indikasi asal: Kegagalan jantung kongestif"
 monitor_inn: "MILRINONE"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "headache disorder", "migraine disorder", "migraine with brainstem aura", "trigeminal autonomic cephalalgia", "acute pulmonary heart disease"]
+description: "Milrinone: indikasi baharu diramal Alopesia (alopecia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Milrinone
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Milrinone: Daripada Kegagalan Jantung Kongestif kepada Alopesia
+## Milrinone: Alopesia (alopecia)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini **tiada percubaan klinikal** dan **tiada penerbitan** yang me
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Kegagalan jantung kongestif (daripada data farmakologi; tiada teks indikasi diluluskan NPRA kerana tiada pendaftaran) |
-| Indikasi Baharu yang Diramalkan | Alopesia |
-| Skor Ramalan TxGNN | 99.91% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Alopesia (alopecia) |
+| Skor Ramalan TxGNN | 0.9991 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -101,7 +101,6 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pek produk.
 - Kajian pra-klinikal atau data mekanistik yang menunjukkan perencatan PDE3 memberi kesan kepada folikel rambut.
 - Penilaian kebolehlaksanaan sediaan topikal atau laluan pentadbiran lain yang sesuai.
 - Amaran dan kontraindikasi daripada sisipan pek produk, serta data mekanisme tindakan yang lebih terperinci.
-- Pertimbangan semula calon dengan bukti lebih kukuh (kegagalan jantung kongestif, penyakit jantung pulmonari akut), dan penjelasan status "tidak dipasarkan" di Malaysia jika ingin diteruskan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

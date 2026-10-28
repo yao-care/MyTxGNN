@@ -4,15 +4,17 @@ title: Chloramphenicol
 parent: Medium Evidence (L3)
 nav_order: 213
 evidence_level: L3
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Chloramphenicol: indikasi baharu diramal Demam paratifoid (tahap bukti L3). Indikasi asal: Demam kepialu, salmonelosis, demam paratifoid, jangkitan meningokokus…"
+indication_count: 9
+monitor_inn: "Chloramphenicol"
+predicted_indications: ["conjunctivitis", "diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
+last_modified_at: 2026-10-23
+description: "Chloramphenicol: indikasi baharu diramal Konjunktivitis (tahap bukti L3). Indikasi asal: Demam kepialu (hubungan yang direkodkan dalam graf pengetahuan…"
 ---
 
 # Chloramphenicol
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **5** 
+Tahap bukti: **L3** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,12 +33,12 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-## Kloramfenikol: Daripada Demam Kepialu kepada Demam Paratifoid
+## Chloramphenicol: Daripada Demam Kepialu kepada Konjunktivitis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Kloramfenikol ialah antibiotik spektrum luas yang pada asalnya digunakan untuk merawat demam kepialu (tifoid), salmonelosis, jangkitan meningokokus dan beberapa penyakit rickettsia. Model TxGNN meramalkan ia mungkin berkesan untuk **demam paratifoid**, tetapi penunjuk ini sebenarnya merupakan indikasi asal (on-label) dan bukan pengunaan semula yang sebenar. Pada masa ini terdapat **0 percubaan klinikal** berdaftar dan **20 penerbitan** yang disenaraikan bagi indikasi ini, kebanyakannya bersifat sejarah.
+Chloramphenicol ialah antibiotik spektrum luas. Dalam graf pengetahuan, hubungan penggunaan asalnya direkodkan untuk jangkitan seperti demam kepialu (*typhoid fever*), salmonelosis dan jangkitan rickettsia. Model TxGNN meramalkan ia mungkin berkesan untuk **konjunktivitis**. Setakat ini **tiada ujian klinikal** didaftarkan, tetapi terdapat **20 penerbitan** yang dikumpulkan, termasuk **1 RCT** yang membandingkan chloramphenicol dengan asid fusidik dalam konjunktivitis akut.
 
 ---
 
@@ -44,99 +46,91 @@ Kloramfenikol ialah antibiotik spektrum luas yang pada asalnya digunakan untuk m
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Demam kepialu, salmonelosis, demam paratifoid, jangkitan meningokokus, meningitis streptokokus dan lain-lain |
-| Indikasi Baharu yang Diramalkan | Demam paratifoid |
-| Skor Ramalan TxGNN | 0.00% |
+| Indikasi Asal | Demam kepialu (hubungan yang direkodkan dalam graf pengetahuan, bukan indikasi diluluskan; teks indikasi lesen tempatan tiada) |
+| Indikasi Baharu yang Diramalkan | Konjunktivitis |
+| Skor Ramalan TxGNN | 0.9966 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 12) |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Pagar Pengawal) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, kloramfenikol ialah perencat ribosom 50S bakteria yang menyekat sintesis protein. Keberkesanannya terhadap *Salmonella* telah dibuktikan secara sejarah, dan secara mekanistik ia boleh digunakan untuk demam paratifoid (*Salmonella* Paratyphi).
+Chloramphenicol ialah antibiotik bakteriostatik spektrum luas. Ia menghalang subunit ribosom 50S (aktiviti peptidil transferase) dan dengan itu menyekat sintesis protein bakteria. Data penerangan mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Penjelasan di sini berdasarkan sifat antibakteria yang diketahui.
 
-Demam paratifoid dan demam kepialu adalah sebahagian daripada demam enterik yang sama, dan kedua-duanya disebabkan oleh *Salmonella enterica*. Oleh itu, paratifoid sebenarnya sudah termasuk dalam kumpulan indikasi asal kloramfenikol. Ini bukan calon pengunaan semula yang sebenar.
+Konjunktivitis bakteria akut biasanya disebabkan oleh patogen seperti *Staphylococcus*, *Streptococcus* dan *Haemophilus*. Penggunaan topikal ubat antibakteria spektrum luas terhadap patogen ini selari dengan mekanisme chloramphenicol. Penggunaan ini juga telah menjadi amalan klinikal di beberapa negara.
 
-Garis panduan semasa lebih menyukai fluorokuinolon, azitromisin dan sefalosporin kerana rintangan berbilang ubat dan ketoksikan kloramfenikol (penindasan sumsum tulang, anemia aplastik, sindrom bayi kelabu).
+Perlu diberi perhatian bahawa ini lebih merupakan penggunaan yang sudah mantap berbanding pengubahsuaian guna (*repurposing*) yang sebenar. Skor TxGNN yang tinggi selaras dengan spektrum antibakteria yang diketahui. Ramalan ini hanya relevan untuk konjunktivitis bakteria, bukan konjunktivitis virus atau alergi.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk konjunktivitis.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [36420914](https://pubmed.ncbi.nlm.nih.gov/36420914/) | 2022 | Kajian Semula (Cochrane) | Cochrane Database Syst Rev | Rawatan demam enterik dengan sefalosporin |
-| [21975746](https://pubmed.ncbi.nlm.nih.gov/21975746/) | 2011 | Kajian Semula (Cochrane) | Cochrane Database Syst Rev | Fluorokuinolon untuk demam kepialu dan paratifoid |
-| [18843659](https://pubmed.ncbi.nlm.nih.gov/18843659/) | 2008 | Kajian Semula (Cochrane) | Cochrane Database Syst Rev | Perbandingan fluorokuinolon dengan antibiotik lain |
-| [37274536](https://pubmed.ncbi.nlm.nih.gov/37274536/) | 2023 | Kajian Semula | Open Forum Infect Dis | Cadangan rawatan demam enterik; rintangan dilaporkan terhadap semua antimikrob termasuk kloramfenikol |
-| [417191](https://pubmed.ncbi.nlm.nih.gov/417191/) | 1978 | RCT | J Trop Med Hyg | Perbandingan ko-trimoksazol dan kloramfenikol pada 91 pesakit (57 kepialu, 34 paratifoid); ko-trimoksazol berkesan |
-| [8203854](https://pubmed.ncbi.nlm.nih.gov/8203854/) | 1994 | Percubaan rawak | Antimicrob Agents Chemother | Aztreonam berbanding kloramfenikol dalam demam kepialu, 44 pesakit |
-| [6084470](https://pubmed.ncbi.nlm.nih.gov/6084470/) | 1984 | Kohort | Ann Trop Paediatr | Dos 100 mg/kg/hari menunjukkan kegagalan rawatan lebih rendah (24%) berbanding 50 mg/kg/hari (63%) pada kanak-kanak |
-| [14072634](https://pubmed.ncbi.nlm.nih.gov/14072634/) | 1964 | Perbandingan klinikal | Br Med J | Perbandingan ampisilin dan kloramfenikol dalam paratifoid |
-| [37939101](https://pubmed.ncbi.nlm.nih.gov/37939101/) | 2023 | Kajian pengawasan | PLoS Negl Trop Dis | Trend rintangan antimikrob *S.* Paratyphi A di Bangladesh, 1999-2021 |
-| [35871037](https://pubmed.ncbi.nlm.nih.gov/35871037/) | 2022 | Kajian retrospektif | J Formos Med Assoc | Ciri klinikal demam enterik tempatan dan import di Taiwan |
+| [8333258](https://pubmed.ncbi.nlm.nih.gov/8333258/) | 1993 | RCT | Acta Ophthalmologica | Titis mata asid fusidik 1% (dua kali sehari) dibandingkan dengan chloramphenicol 0.5% (enam kali sehari) pada konjunktivitis akut. Tiada perbezaan ketara dalam penemuan bakteriologi atau respons rawatan. |
+| [32739192](https://pubmed.ncbi.nlm.nih.gov/32739192/) | 2020 | Ulasan | Ophthalmology | Ulasan mengenai titis mata chloramphenicol ("An Old Dog in a New House"). |
+| [25833086](https://pubmed.ncbi.nlm.nih.gov/25833086/) | 2015 | Ulasan | Clinical & Experimental Ophthalmology | Ulasan mengenai chloramphenicol over-the-counter. |
+| [7498557](https://pubmed.ncbi.nlm.nih.gov/7498557/) | 1995 | Ulasan | Eye (London) | Ulasan mengenai penggunaan chloramphenicol topikal: penggunaan wajar atau penyalahgunaan. |
+| [11270936](https://pubmed.ncbi.nlm.nih.gov/11270936/) | 2001 | Ulasan perbandingan | Drugs | Mengkaji 16 sediaan antibakteria oftalmik yang dipasarkan, berdasarkan sifat farmakodinamik, farmakokinetik dan bakteriologi, risiko rintangan serta kos. |
+| [10589371](https://pubmed.ncbi.nlm.nih.gov/10589371/) | 1999 | Ulasan | Clinical Pharmacokinetics | Rawatan jangkitan mata dengan antibakteria topikal, yang menyampaikan kepekatan tinggi ke permukaan mata dengan pendedahan sistemik minimum. |
+| [7153511](https://pubmed.ncbi.nlm.nih.gov/7153511/) | 1982 | In vitro/Klinikal | Journal of Hygiene | Pada bayi dengan konjunktivitis klamidia, chloramphenicol melewatkan permulaan dan mengurangkan gejala, tetapi swab mata masih positif pada 22 daripada 26 bayi yang dirawat (85%). |
+| [31481023](https://pubmed.ncbi.nlm.nih.gov/31481023/) | 2019 | Analisis pelbagai pusat | BMC Infectious Diseases | Epidemiologi dan kerentanan antimikrob patogen oftalmik di pelbagai tetapan penjagaan di UK. |
+| [31033370](https://pubmed.ncbi.nlm.nih.gov/31033370/) | 2019 | Kajian formulasi | Expert Opinion on Drug Delivery | Kompleks chloramphenicol/siklodekstrin bertujuan memanjangkan masa kekal dan meningkatkan bioavailabiliti dalam kantung konjunktiva. |
+| [32959365](https://pubmed.ncbi.nlm.nih.gov/32959365/) | 2020 | Tinjauan sistematik Cochrane | Cochrane Database of Systematic Reviews | Intervensi untuk mencegah oftalmia neonatorum. |
+
+Nota: hanya satu penerbitan (RCT 1993) mengkaji chloramphenicol secara langsung dalam konjunktivitis akut, dan ia menggunakan chloramphenicol sebagai pembanding. Penerbitan lain ialah ulasan, kajian pemerhatian atau kajian formulasi.
 
 ---
 
-## Penilaian Mengikut Indikasi Lain yang Diramalkan
+## Maklumat Pasaran Malaysia
 
-Selain demam paratifoid, data yang dikumpulkan turut merangkumi indikasi berikut:
+Sebanyak 12 lesen didaftarkan dan semuanya sah. Daripada jumlah itu, 11 ialah produk bahan tunggal dan 1 ialah produk kombinasi. Produk kombinasi tidak digunakan untuk menggambarkan status chloramphenicol sebagai bahan tunggal. Teks indikasi diluluskan dan bentuk dos terperinci tidak tersedia dalam data lesen, jadi indikasi yang diluluskan secara rasmi tidak dapat disahkan daripada data ini.
 
-| Indikasi | Tahap Bukti | Ringkasan |
-|------|------|------|
-| Tifus (termasuk tifus belukar) | L2 | Bukti terkuat dalam set ini: siri kajian semula Cochrane (2000, 2002, 2018) dan kajian 2022 yang membandingkan doksisiklin, azitromisin dan kloramfenikol. Terhad kepada percubaan kecil berkeyakinan rendah; doksisiklin dan azitromisin diutamakan. |
-| Rickettsiosis | L3 | Bukti kebanyakannya sejarah (1950-an hingga 1980-an). Doksisiklin ialah rawatan standard; kloramfenikol ialah alternatif lini kedua. |
-| Jangkitan meningokokus | L3 | Penembusan CNS baik, tetapi sefalosporin generasi ketiga dan penisilin kini lini pertama. Rintangan kloramfenikol dilaporkan di Asia Tenggara ([32278109](https://pubmed.ncbi.nlm.nih.gov/32278109/)). |
-| Demam Q | L3 | Hanya siri kes 1950-an dan kajian semula umum. Doksisiklin ialah standard; tiada bukti perbandingan moden. Keputusan peringkat: Hold. |
+| Nombor Kebenaran | Nama Produk | Bentuk (berdasarkan nama produk) |
+|---------|------|------|
+| MAL19860736AZ | XEPANICOL EYE DROPS 0.5% | Titis mata |
+| MAL19860741AZ | XEPANICOL EAR DROPS 5% W/V | Titis telinga |
+| MAL12115063AZ | SHINACOL EYE DROPS 0.5% | Titis mata |
+| MAL08111769AZ | Vanmycetin Eye Drops (Chloramphenicol Eye Drops 0.5% w/v) | Titis mata |
+| MAL20142424AEZ | HOVID CHLORAMPHENICOL CAPSULE 250MG | Kapsul |
 
----
-
-## Sitotoksisiti
-
-Bahagian ini tidak berkaitan kerana kloramfenikol bukan ubat antineoplastik.
+Senarai ini hanya menunjukkan 5 daripada 11 lesen bahan tunggal. Lesen lain termasuk salap mata (Kloraxin, Chlorop), titis mata (Anicol, Nicol, Xepa Chloramphenicol) dan titis telinga (Enclor).
 
 ---
 
 ## Pertimbangan Keselamatan
 
-**Keadaan perubatan yang dikaitkan dengan kontraindikasi (daripada graf pengetahuan, bukan teks label):**
-- Penyakit buah pinggang dan hati, penyakit pundi hempedu
-- Trombositopenia, anemia (termasuk anemia makrositik dan anemia aplastik), agranulositosis, neutropenia dan pelbagai sindrom neutropenia kongenital
-- Neuropati periferi, penyakit sistem saraf periferi, neuritis optik
-- Porfiria akut berselang-seli
-- Hemoglobinuria nokturnal paroksismal
+Maklumat amaran utama dan kontraindikasi daripada sisip bungkusan tidak tersedia. Rujuk sisip bungkusan untuk maklumat keselamatan rasmi.
 
-**Interaksi Ubat (100 interaksi ditemui; contoh utama):**
-- **Major:** sisaprid, naloxegol
-- **Moderate:** metronidazol, budesonid, sulfonilurea (glimepirid, glipizid, glibenklamid, klorpropamid, asetoheksamid), repaglinid, saxagliptin, rosuvastatin, simvastatin, aprepitan, besi, balsalazid, eliglustat, naldemedin, nitisinon
-
-**Risiko yang disebut dalam literatur:** penindasan sumsum tulang, anemia aplastik, sindrom bayi kelabu, dan anemia hemolitik pada pesakit kekurangan G6PD.
-
-Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
+- **Hubungan kontraindikasi dalam graf pengetahuan** (bukan teks label): penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, trombositopenia, neuropati periferi, anemia (termasuk anemia aplastik dan makrositik), agranulositosis, pelbagai bentuk neutropenia, porfiria intermiten akut, neuritis optik dan hemoglobinuria nokturnal paroksismal. Kebanyakannya berkaitan penindasan sumsum tulang dan darah.
+- **Interaksi ubat** (100 rekod keseluruhan, contoh utama):
+  - **Major**: cisapride, naloxegol.
+  - **Moderate**: metronidazole, aprepitant, budesonide, besi, sulfonilurea (glimepiride, glipizide, glyburide, chlorpropamide, acetohexamide), repaglinide, saxagliptin, rosuvastatin, simvastatin, eliglustat, naldemedine, nitisinone, balsalazide.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Pagar Pengawal)**
 
 **Rasional:**
-- Demam paratifoid ialah indikasi asal, bukan pengunaan semula yang sebenar, dan buktinya bersifat sejarah tanpa percubaan klinikal berdaftar. Rawatan moden (fluorokuinolon, azitromisin, sefalosporin) lebih diutamakan kerana rintangan dan ketoksikan kloramfenikol. Ubat ini juga tidak dipasarkan di Malaysia.
+- Mekanisme antibakteria chloramphenicol selari dengan konjunktivitis bakteria, dan produk titis mata dan salap mata sudah didaftarkan di Malaysia. Bukti langsung yang ada terhad kepada satu RCT lama yang menunjukkan keberkesanan setara dengan pembanding, ditambah ulasan dan data sokongan, tanpa ujian klinikal berdaftar.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA (amaran dan kontraindikasi), kerana ketiadaannya menghalang saringan keselamatan peringkat S1
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
-- Data kerentanan antimikrob dan corak rintangan tempatan di Malaysia
-- Penilaian keperluan klinikal berbanding alternatif sedia ada, termasuk pelan pemantauan hematologi untuk populasi berisiko
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Muat turun dan huraikan sisip bungkusan NPRA untuk mengesahkan indikasi diluluskan, amaran dan kontraindikasi (jurang data yang menyekat).
+- Lengkapkan data mekanisme tindakan daripada DrugBank.
+- Sahkan indikasi produk titis mata dan salap mata tempatan untuk konjunktivitis.
+- Nilai data kerentanan dan rintangan tempatan terhadap patogen konjunktiva.
+- Tetapkan panduan keselamatan, terutamanya risiko hematologi (penindasan sumsum tulang) dan kumpulan berisiko seperti bayi dan pesakit dengan gangguan darah.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

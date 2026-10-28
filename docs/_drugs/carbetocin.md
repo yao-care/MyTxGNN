@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 195
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
-description: "Carbetocin: indikasi baharu diramal Sindrom seperti isotretinoin (tahap bukti L5). Indikasi asal: Sindrom Prader-Willi…"
 monitor_inn: "CARBETOCIN"
 predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
+last_modified_at: 2026-10-27
+description: "Carbetocin: indikasi baharu diramal Sindrom seperti isotretinoin (isotretinoin-like syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Carbetocin
@@ -33,68 +33,55 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Carbetocin: Daripada Sindrom Prader-Willi dan Sindrom Noonan kepada Sindrom Seperti Isotretinoin
+## Carbetocin: Analog oksitosin bertindak panjang → Sindrom seperti isotretinoin (isotretinoin-like syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Carbetocin ialah analog oxytocin bertindak panjang. Dalam graf pengetahuan, indikasi asalnya ialah sindrom Prader-Willi dan sindrom Noonan, manakala penggunaan klinikal yang diketahui ialah mencegah pendarahan lepas bersalin akibat atoni uterus.
-Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom seperti isotretinoin (isotretinoin-like syndrome)**, tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini, jadi ia hanya ramalan berasaskan model.
+Carbetocin ialah analog oksitosin bertindak panjang yang bertindak pada reseptor oksitosin (OXTR) dan digunakan untuk mencegah pendarahan selepas bersalin akibat atoni uterus.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom seperti isotretinoin (isotretinoin-like syndrome)**, dengan skor ramalan **0,9915**.
+Pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini, jadi ia kekal sebagai ramalan pengiraan sahaja.
 
----
+## Gambaran Keseluruhan Pantas
 
-## Gambaran Ringkas
-
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Sindrom Prader-Willi, sindrom Noonan (daripada graf pengetahuan PrimeKG; tiada lesen tempatan untuk dirujuk) |
-| Indikasi Baharu yang Diramalkan | Sindrom seperti isotretinoin |
-| Skor Ramalan TxGNN | 99.15% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom seperti isotretinoin (isotretinoin-like syndrome) |
+| Skor Ramalan TxGNN | 0,9915 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
----
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, carbetocin ialah analog oxytocin sintetik yang bertindak pada reseptor oxytocin (OXTR). Ia digunakan untuk mencegah pendarahan lepas bersalin akibat atoni uterus, dan formulasi intranasal (LV-101) sedang dibangunkan untuk sindrom Prader-Willi bagi mengurangkan rasa lapar melampau (hiperfagia).
+Data mekanisme tindakan terperinci tidak tersedia pada masa ini. Carbetocin diketahui sebagai analog oksitosin bertindak panjang yang mengaktifkan reseptor oksitosin (OXTR). Namun, tiada hubungan mekanistik antara pengaktifan reseptor ini dengan patofisiologi sindrom seperti isotretinoin dapat dibina daripada data yang dikumpulkan untuk laporan ini.
 
-Indikasi asal dalam graf pengetahuan (sindrom Prader-Willi dan sindrom Noonan) ialah gangguan sindromik. Skor TxGNN yang tinggi (0.991) berkemungkinan besar mencerminkan kedekatan rangkaian dengan keadaan sindromik tersebut dalam graf pengetahuan, dan bukan laluan biologi yang telah disahkan.
+Skor yang tinggi (0,9915) kemungkinan besar mencerminkan kedekatan rangkaian data dengan penyakit-penyakit sindromik lain, bukan laluan biologi yang telah disahkan. Ini ialah ramalan pengiraan sahaja dan belum disokong oleh bukti bebas. Keserasian laluan pentadbiran dan kesamaan dengan indikasi asal juga belum dinilai.
 
-Tiada hubungan mekanistik antara agonisme reseptor oxytocin dan patofisiologi sindrom seperti isotretinoin yang dapat dibuktikan daripada data yang dikumpulkan. Ini ialah ramalan komputasi sahaja dan belum disokong oleh bukti lain.
+## Maklumat Pasaran di Malaysia
 
-*Nota: Ramalan kedua, **sindrom Goodman** (skor 99.06%, tahap bukti L5, juga Hold), turut tidak mempunyai hubungan mekanistik yang disokong, tiada percubaan klinikal dan tiada literatur.*
-
----
-
-## Maklumat Pasaran Malaysia
-
-Carbetocin pada masa ini **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar dalam data yang dikumpulkan.
-
----
+Data yang dikumpulkan menunjukkan carbetocin berstatus dipasarkan di Malaysia, dengan 2 lesen yang sah dan tiada lesen dibatalkan. Butiran lesen individu (nombor kelulusan, produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan, jadi tiada jadual dipaparkan.
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Dadah / Farmakologi:** Satu rekod ditemui, iaitu interaksi farmakologi dengan reseptor oxytocin (OXTR, gen Entrez 5021), yang merupakan sasaran tindakan carbetocin. Tiada tahap keterukan dinyatakan.
+- **Interaksi ubat**: Satu rekod farmakologi dikenal pasti, iaitu sasaran reseptor oksitosin (OXTR) bagi carbetocin. Ini menerangkan sasaran farmakologi, bukan interaksi ubat-ubat yang klinikal, dan tiada tahap keterukan dilaporkan.
 
-Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
-
----
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal, tanpa literatur dan tanpa hubungan mekanistik yang dapat dibuktikan. Produk juga tidak dipasarkan di Malaysia.
+Ramalan ini hanya berasaskan model dengan skor 0,9915, tanpa sebarang percubaan klinikal atau penerbitan, dan tiada hubungan mekanistik yang dapat ditunjukkan. Tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank
-- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menyekat saringan keselamatan)
-- Kajian praklinikal atau semakan literatur untuk mewujudkan hubungan biologi antara laluan reseptor oxytocin dan sindrom seperti isotretinoin
-- Penilaian kesesuaian laluan pemberian dan status pendaftaran tempatan
+- Data mekanisme tindakan (MOA) yang terperinci
+- Kajian praklinikal atau literatur yang secara langsung mengkaji sindrom seperti isotretinoin
+- Amaran, kontraindikasi dan maklumat keselamatan daripada sisipan pakej NPRA
+- Penilaian keserasian laluan pentadbiran dan kesamaan dengan indikasi asal
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

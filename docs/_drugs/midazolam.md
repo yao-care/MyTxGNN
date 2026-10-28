@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Midazolam
-parent: Low Evidence (L4-L5)
+parent: High Evidence (L1-L2)
 nav_order: 505
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Midazolam: indikasi baharu diramal Insomnia (tahap bukti L5). Indikasi asal: Keresahan (anxiety)…"
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
+description: "Midazolam: indikasi baharu diramal Insomnia (insomnia (disease)) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Midazolam
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **1** 
+Tahap bukti: **L2** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Midazolam: Daripada Keresahan (Anxiety) kepada Insomnia
+## Midazolam: Insomnia (insomnia (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ dengan **2 ujian klinikal** dan **10 penerbitan** dalam data yang dikumpulkan. N
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Keresahan (anxiety), berdasarkan graf pengetahuan TxGNN (PrimeKG) kerana tiada lesen tempatan |
-| Indikasi Baharu yang Diramal | Insomnia |
-| Skor Ramalan TxGNN | 99.74% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramal | Insomnia (insomnia (disease)) |
+| Skor Ramalan TxGNN | 0.9974 |
 | Tahap Bukti | L2 (lihat catatan di bawah) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 15) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 > **Catatan tahap bukti:** Tiada ujian Fasa 2/3 yang berdaftar untuk insomnia. Tahap L2 berdasarkan RCT yang diterbitkan (1981 hingga 1990), bukan ujian berdaftar moden, jadi ia perlu ditafsir dengan berhati-hati.
@@ -62,7 +62,7 @@ dengan **2 ujian klinikal** dan **10 penerbitan** dalam data yang dikumpulkan. N
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Midazolam ialah benzodiazepin bertindak singkat yang bertindak sebagai modulator alosterik positif pada reseptor GABA-A. Ia meningkatkan neurotransmisi perencatan dan menghasilkan kesan sedatif-hipnotik. Mekanisme ini sama dengan benzodiazepin hipnotik yang diluluskan, seperti flurazepam, jadi kesan hipnotik untuk insomnia boleh diterima secara farmakologi. Skor TxGNN yang tinggi (0.997) selaras dengan hal ini.
+Midazolam ialah benzodiazepin bertindak singkat yang bertindak sebagai modulator alosterik positif pada reseptor GABA-A. Ia meningkatkan neurotransmisi perencatan dan menghasilkan kesan sedatif-hipnotik. Mekanisme ini sama dengan benzodiazepin hipnotik yang diluluskan, seperti flurazepam, jadi kesan hipnotik untuk insomnia boleh diterima secara farmakologi. Skor TxGNN yang tinggi (0.9974) selaras dengan hal ini.
 
 Indikasi asal (keresahan dan sedasi) bergantung pada tindakan GABAergik yang sama. Oleh itu, ramalan ini lebih tepat dilihat sebagai penerokaan semula kesan farmakologi yang sudah diketahui, bukan mekanisme baharu. Midazolam oral pernah dikaji untuk gangguan tidur pada tahun 1980-an hingga 1990-an, termasuk kajian penentuan dos dan perbandingan multipusat dengan flurazepam.
 
@@ -120,7 +120,7 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej (package insert)
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Tindakan GABA-A midazolam menjadikan kesan hipnotik munasabah dan beberapa RCT lama menyokongnya. Namun, tiada ujian moden yang relevan, ubat ini tidak dipasarkan di Malaysia, dan maklumat keselamatan daripada sisipan pakej belum tersedia.
+- Tindakan GABA-A midazolam menjadikan kesan hipnotik munasabah dan beberapa RCT lama menyokongnya.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Memuat turun dan menganalisis sisipan pakej NPRA bagi amaran dan kontraindikasi (jurang data yang menghalang penilaian keselamatan).

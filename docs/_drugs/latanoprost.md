@@ -4,17 +4,17 @@ title: Latanoprost
 parent: Low Evidence (L4-L5)
 nav_order: 447
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Latanoprost: indikasi baharu diramal Glaukoma keturunan primer (tahap bukti L5). Indikasi asal: Glaukoma sudut terbuka, hipertensi okular"
 monitor_inn: "LATANOPROST"
-predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
+predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
+description: "Latanoprost: indikasi baharu diramal Visceral calciphylaxis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Latanoprost
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Latanoprost: Daripada Glaukoma Sudut Terbuka kepada Glaukoma Keturunan Primer
+## Latanoprost: Visceral calciphylaxis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,19 +46,19 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Glaukoma sudut terbuka, hipertensi okular |
-| Indikasi Baharu yang Diramalkan | Glaukoma keturunan primer |
-| Skor Ramalan TxGNN | 99.88% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Visceral calciphylaxis |
+| Skor Ramalan TxGNN | 0.9983 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 17 daripada 17) |
+| Bilangan Pendaftaran | 17 (sah: 17) |
 | Keputusan yang Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
 Data terperinci mengenai mekanisme tindakan (MOA) pada masa ini tidak tersedia dalam data yang dihimpunkan. Berdasarkan maklumat sedia ada, latanoprost ialah analog prostaglandin F2-alfa yang menurunkan tekanan intraokular (IOP) dengan meningkatkan aliran keluar uveosklera. Ini ialah mekanisme yang mapan bagi glaukoma sudut terbuka.
 
-Glaukoma keturunan primer (contohnya bentuk kongenital atau juvenil) mempunyai patofisiologi yang sama, iaitu IOP yang meningkat. Oleh itu, ramalan ini munasabah dari sudut mekanisme. Walau bagaimanapun, kelainan sudut dan perkembangan pada pesakit kanak-kanak mungkin bertindak balas secara berbeza terhadap terapi berasaskan aliran keluar. Skor TxGNN yang tinggi berkemungkinan didorong oleh kedekatan dengan indikasi glaukoma asal dalam graf pengetahuan, dan bukan oleh bukti klinikal.
+Glaukoma keturunan primer (contohnya bentuk kongenital atau juvenil) mempunyai patofisiologi yang sama, iaitu IOP yang meningkat. Oleh itu, ramalan ini munasabah dari sudut mekanisme. Walau bagaimanapun, kelainan sudut dan perkembangan pada pesakit kanak-kanak mungkin bertindak balas secara berbeza terhadap terapi berasaskan aliran keluar.
 
 ### Ramalan Lain yang Dinilai (Kedudukan 2–10)
 
@@ -66,15 +66,15 @@ Semua ramalan lain juga berada pada tahap bukti L5 tanpa percubaan klinikal atau
 
 | Penyakit | Skor | Penilaian Kebolehpercayaan Mekanisme | Syor |
 |------|------|------|------|
-| Kalsifilaksis viseral | 99.83% | Tiada kaitan mekanisme yang jelas; pendedahan sistemik topikal minimum | Hold |
-| Hipotrikosis simpleks kulit kepala | 99.81% | Munasabah (analog PGF2α merangsang pertumbuhan rambut), tetapi kesan pada folikel dengan kecacatan genetik belum terbukti | Research Question |
-| Sindrom saluran toraks arteri | 99.78% | Tiada kaitan mekanisme; gangguan mampatan mekanikal | Hold |
-| Sindrom saluran toraks vena | 99.78% | Tiada kaitan mekanisme yang munasabah | Hold |
-| Sindrom saluran toraks neurogenik | 99.72% | Tiada mekanisme untuk melegakan mampatan saraf | Hold |
-| Milia hipotrikosis kongenital | 99.71% | Munasabah sebagai hipotesis sahaja; keadaan genetik yang jarang | Research Question |
-| Angiodisplasia perut | 99.70% | Tiada sokongan; vasodilasi secara teori boleh memburukkan pendarahan | Hold |
-| Sindrom jari kaki biru | 99.69% | Kaitan lemah; prostanoid sistemik ialah agen berbeza | Hold |
-| Limfangiektasis | 99.67% | Tidak langsung dan tidak dibuktikan secara klinikal | Hold |
+| Kalsifilaksis viseral | 0.9983 | Tiada kaitan mekanisme yang jelas; pendedahan sistemik topikal minimum | Hold |
+| Hipotrikosis simpleks kulit kepala | 0.9981 | Munasabah (analog PGF2α merangsang pertumbuhan rambut), tetapi kesan pada folikel dengan kecacatan genetik belum terbukti | Research Question |
+| Sindrom saluran toraks arteri | 0.9978 | Tiada kaitan mekanisme; gangguan mampatan mekanikal | Hold |
+| Sindrom saluran toraks vena | 0.9978 | Tiada kaitan mekanisme yang munasabah | Hold |
+| Sindrom saluran toraks neurogenik | 0.9972 | Tiada mekanisme untuk melegakan mampatan saraf | Hold |
+| Milia hipotrikosis kongenital | 0.9971 | Munasabah sebagai hipotesis sahaja; keadaan genetik yang jarang | Research Question |
+| Angiodisplasia perut | 0.9970 | Tiada sokongan; vasodilasi secara teori boleh memburukkan pendarahan | Hold |
+| Sindrom jari kaki biru | 0.9969 | Kaitan lemah; prostanoid sistemik ialah agen berbeza | Hold |
+| Limfangiektasis | 0.9967 | Tidak langsung dan tidak dibuktikan secara klinikal | Hold |
 
 ## Bukti Percubaan Klinikal
 
@@ -96,7 +96,7 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan utama (glaukoma keturunan primer) munasabah dari sudut mekanisme, tetapi hanya pada tahap L5 tanpa sebarang percubaan klinikal atau literatur. Latanoprost juga tidak didaftarkan di Malaysia, dan data keselamatan rasmi belum lengkap. Ramalan lain sama ada tidak mempunyai kaitan mekanisme yang jelas atau hanya setakat hipotesis.
+- Latanoprost juga tidak didaftarkan di Malaysia, dan data keselamatan rasmi belum lengkap. Ramalan lain sama ada tidak mempunyai kaitan mekanisme yang jelas atau hanya setakat hipotesis.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Memuat turun dan menghurai sisipan pakej NPRA bagi amaran dan kontraindikasi (jurang data yang menyekat saringan keselamatan).

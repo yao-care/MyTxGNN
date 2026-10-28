@@ -6,9 +6,9 @@ nav_order: 504
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Miconazole: indikasi baharu diramal Jerawat (acne) (tahap bukti L3). Indikasi asal: Tinea pedis, tinea corporis, jangkitan tinea, kandidiasis kulit…"
 monitor_inn: "MICONAZOLE"
 predicted_indications: ["acne (disease)"]
+description: "Miconazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Miconazole
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **1**
 
 </div>
 
-## Miconazole: Daripada Jangkitan Kulat Kulit kepada Jerawat (Acne)
+## Miconazole: Jerawat (acne (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **jerawat (acne)**, tetapi seta
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tinea pedis, tinea corporis, jangkitan tinea, kandidiasis kulit, tinea unguium, pityriasis versicolor, dermatofitosis di kawasan lipat paha dan perianal, kandidiasis vulvovaginal (berdasarkan graf pengetahuan TxGNN) |
-| Indikasi Baharu Diramal | Jerawat (acne) |
-| Skor Ramalan TxGNN | 99.54% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu Diramal | Jerawat (acne (disease)) |
+| Skor Ramalan TxGNN | 0.9954 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 39 daripada 39) |
+| Bilangan Pendaftaran | 39 (sah: 39) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -66,7 +66,7 @@ Hubungan dengan jerawat boleh dilihat melalui beberapa laluan:
 2. **Aktiviti terhadap yis *Malassezia* (*Pityrosporum*)** — penyebab folikulitis Malassezia yang secara klinikal menyerupai jerawat vulgaris (PMID 8593718). Namun, ini ialah diagnosis pembeza, bukan jerawat sebenar.
 3. **Kesan anti-radang dan antibakteria pada kulit** yang dilaporkan dalam ulasan (PMID 18627330).
 
-Skor TxGNN yang sangat tinggi menyokong ramalan ini, tetapi ia hanya hasil pengiraan model dan bukan bukti klinikal. Status "tidak dipasarkan" di Malaysia juga boleh menghadkan pembangunan praktikal.
+Skor TxGNN yang sangat tinggi menyokong ramalan ini, tetapi ia hanya hasil pengiraan model dan bukan bukti klinikal.
 
 ---
 
@@ -101,7 +101,7 @@ Untuk amaran utama dan maklumat keselamatan lain, sila rujuk sisipan pakej.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan ini hanya disokong oleh skor model yang tinggi, kajian in vitro, satu kajian klinikal kecil dan satu ulasan, tanpa sebarang ujian klinikal berdaftar. Ubat ini juga tidak dipasarkan di Malaysia. Buat masa ini ia lebih sesuai dianggap sebagai soalan penyelidikan.
+- Ramalan ini hanya disokong oleh skor model yang tinggi, kajian in vitro, satu kajian klinikal kecil dan satu ulasan, tanpa sebarang ujian klinikal berdaftar. Buat masa ini ia lebih sesuai dianggap sebagai soalan penyelidikan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (halangan kepada saringan keselamatan).

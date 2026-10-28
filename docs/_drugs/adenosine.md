@@ -4,17 +4,17 @@ title: Adenosine
 parent: Low Evidence (L4-L5)
 nav_order: 30
 evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-15
-description: "Adenosine: indikasi baharu diramal Blok berkas cabang (obsolete bundle branch block) (tahap bukti L5). Indikasi asal: Takikardia ventrikel"
+indication_count: 1
 monitor_inn: "ADENOSINE"
 predicted_indications: ["obsolete bundle branch block"]
+last_modified_at: 2026-10-27
+description: "Adenosine: indikasi baharu diramal Blok berkas cabang usang (obsolete bundle branch block) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Adenosine
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **2** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,85 +33,59 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Adenosine: Daripada Takikardia Ventrikel kepada Blok Berkas Cabang (Istilah Usang)
+## Adenosine: antagonis/agonis reseptor adenosin → Blok berkas cabang usang (obsolete bundle branch block)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Adenosine pada asalnya dikaitkan dengan rawatan takikardia ventrikel (*ventricular tachycardia*). Model TxGNN meramalkan ia mungkin berkesan untuk **blok berkas cabang (istilah usang dalam ontologi)**. Setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini, jadi ia kekal sebagai ramalan model semata-mata.
-
----
+Adenosine ialah ubat yang bertindak pada reseptor adenosin dalam nod atrioventrikular (AV) jantung dan digunakan dalam rawatan aritmia.
+Model TxGNN meramalkan ubat ini mungkin berkesan untuk **blok berkas cabang usang (obsolete bundle branch block)**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model.
 
 ## Gambaran Keseluruhan
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Takikardia ventrikel |
-| Indikasi Baharu yang Diramalkan | Blok berkas cabang (*obsolete bundle branch block*) |
-| Skor Ramalan TxGNN | 99.94% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Blok berkas cabang usang (obsolete bundle branch block) |
+| Skor Ramalan TxGNN | 0,9994 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
----
+## Mengapa Ramalan Ini Munasabah?
 
-## Mengapa Ramalan Ini Munasabah (atau Tidak)?
+Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, adenosine bertindak pada reseptor A1 dalam nod AV dan digunakan untuk menamatkan aritmia supraventrikular serta sebagai alat diagnostik.
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, adenosine bertindak pada reseptor A1 di nod atrioventrikular (AV). Ia digunakan untuk menamatkan aritmia supraventrikular dan sebagai alat diagnostik. Indikasi asalnya (takikardia ventrikel) ialah aritmia, jadi secara umum ia berkait dengan indikasi baharu yang diramalkan.
+Namun, blok berkas cabang ialah kecacatan pengaliran intraventrikular di bawah nod AV. Tiada rasional mekanistik yang mantap untuk merawatnya dengan adenosine. Skor model sangat tinggi (0,9994), tetapi istilah penyakit ini ditandakan sebagai "usang" (obsolete), yang menunjukkan entri ontologi lama atau pendua. Ramalan ini mungkin sekadar artifak model dan bukan isyarat terapeutik sebenar. Ramalan ini perlu ditafsirkan dengan sangat berhati-hati.
 
-Walau bagaimanapun, blok berkas cabang ialah kecacatan konduksi intraventrikular di bawah nod AV. Tiada rasional terapeutik yang mantap untuk merawatnya dengan adenosine, yang bertindak terutamanya pada nod AV.
+## Bukti Percubaan Klinikal
 
-Istilah penyakit ini juga ditandakan sebagai **usang** dalam ontologi. Ini menunjukkan entri lapuk atau pendua, jadi skor yang sangat tinggi (99.94%) mungkin hanya artifak graf pengetahuan dan bukan isyarat terapeutik sebenar. Skor tinggi ini tidak boleh dianggap sebagai bukti kebolehgunaan klinikal.
-
----
-
-## Bukti Ujian Klinikal
-
-Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
-
----
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Setakat ini tiada literatur berkaitan.
-
----
+Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat** (100 interaksi direkodkan; yang utama disenaraikan di bawah):
+- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan. Antara yang bertahap **Major (Utama)**: cisapride, dolasetron dan papaverine. Antara yang bertahap **Moderate (Sederhana)**: famotidine, clarithromycin, granisetron, levofloxacin, ondansetron dan palonosetron. Beberapa interaksi ini berkaitan risiko pemanjangan selang QT dan aritmia, jadi perlu diberi perhatian khusus.
 
-- **Major (Utama):** Cisapride, Dolasetron, Papaverine
-- **Moderate (Sederhana):** Famotidine, Clarithromycin, Granisetron, Levofloxacin, Ondansetron, Palonosetron
-
-Beberapa ubat lain direkodkan dengan tahap interaksi yang belum ditentukan, antaranya metformin, omeprazole, simvastatin dan epinephrine.
-
-**Penyakit yang Dikaitkan sebagai Kontraindikasi dalam Graf Pengetahuan** (berdasarkan perkaitan dalam graf pengetahuan, bukan teks label produk):
-
-- Respirasi: penyakit pulmonari obstruktif kronik (COPD), asma (termasuk asma intrinsik dan alergik), emfisema pulmonari, kegagalan respirasi
-- Jantung dan konduksi: blok atrioventrikular, sindrom sinus sakit (termasuk bentuk familial), sindrom koronari akut, penyakit arteri koronari, stenosis injap aorta (dan variannya), stenosis injap mitral, insufisiensi injap pulmonari, perikarditis
-- Lain-lain: gangguan hipotensi, penyakit sistem saraf autonomi, sindrom Horner
-
-Untuk maklumat amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej produk.
-
----
+Sila rujuk sisipan pakej untuk maklumat keselamatan lain, termasuk amaran dan kontraindikasi.
 
 ## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5), tanpa ujian klinikal atau literatur. Istilah penyakitnya usang, dan tiada rasional mekanistik yang mantap untuk kecacatan konduksi di bawah nod AV.
-- Adenosine tidak dipasarkan di Malaysia berdasarkan data yang dikumpulkan.
+Ramalan ini hanya berasaskan model tanpa sebarang percubaan klinikal atau penerbitan yang mengkaji penyakit ini secara langsung, dan istilah penyakit itu sendiri ditandakan usang. Rasional mekanistik juga lemah kerana blok berkas cabang terletak di bawah nod AV. Tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Pengesahan sama ada istilah "blok berkas cabang (usang)" dipetakan kepada konsep semasa yang sah
+- Pengesahan sama ada istilah penyakit usang ini dipetakan kepada konsep klinikal semasa yang sah
 - Data mekanisme tindakan (MOA) yang terperinci
-- Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan (data keselamatan peringkat label belum tersedia)
-- Penilaian status pendaftaran dan ketersediaan produk di Malaysia
-
-**Nota tambahan:** Calon kedua yang diramalkan ialah **takikardia ventrikel polimorfik katekolaminergik (CPVT)**, dengan skor 99.42% dan tahap bukti L4. Ia mempunyai rasional mekanistik yang lebih munasabah, kerana adenosine melawan isyarat cAMP yang dirangsang katekolamin. Isyarat klinikal langsung hanya satu laporan kes (PMID 18313614), di mana adenosine trifosfat menamatkan takikardia ventrikel dwiarah pada pesakit CPVT. Ini menyokong penamatan akut sahaja dan bukan terapi jangka panjang. Calon ini lebih wajar diutamakan untuk penilaian lanjut, tetapi keputusannya juga kekal Hold.
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Kajian praklinikal atau klinikal yang mengkaji secara langsung kesan adenosine terhadap kecacatan pengaliran intraventrikular
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

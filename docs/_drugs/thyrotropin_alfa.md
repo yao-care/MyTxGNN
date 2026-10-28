@@ -4,17 +4,17 @@ title: Thyrotropin Alfa
 parent: Low Evidence (L4-L5)
 nav_order: 681
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Thyrotropin Alfa: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar dalam data yang dikumpulkan"
 monitor_inn: "Thyrotropin alfa"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Raynaud disease", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "postural orthostatic tachycardia syndrome", "hyperthyroidism"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Raynaud disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "postural orthostatic tachycardia syndrome", "hyperthyroidism"]
+description: "Thyrotropin Alfa: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Thyrotropin Alfa
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Thyrotropin alfa: Daripada Penggunaan Asal kepada Migrain (Migraine Disorder)
+## Thyrotropin Alfa: Migrain (migraine disorder)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **migrain (migraine disorder)**
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar dalam data yang dikumpulkan |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Migrain (migraine disorder) |
-| Skor Ramalan TxGNN | 99.98% |
+| Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -61,9 +61,9 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **migrain (migraine disorder)**
 
 Butiran mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, thyrotropin alfa ialah TSH rekombinan yang merangsang reseptor TSH pada tisu tiroid.
 
-**Ramalan ini sukar dikatakan munasabah dari segi biologi.** Tiada hubungan mekanistik yang jelas antara perangsangan reseptor TSH dengan migrain. Skor TxGNN yang tinggi berkemungkinan besar mencerminkan topologi graf pengetahuan (contohnya jiran rangkaian yang dikongsi), bukan rasional biologi atau terapeutik.
+**Ramalan ini sukar dikatakan munasabah dari segi biologi.** Tiada hubungan mekanistik yang jelas antara perangsangan reseptor TSH dengan migrain. Skor yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
-Ramalan lain dalam senarai juga mempunyai sokongan yang lemah: migrain dengan aura batang otak (subjenis entiti yang sama, kemungkinan artifak graf), penyakit Raynaud, hipertensi pulmonari, sindrom takikardia ortostatik postural (POTS) dan hipertiroidisme. Antaranya, POTS dan hipertiroidisme menimbulkan kebimbangan keselamatan kerana perangsangan tiroid boleh meningkatkan kadar denyutan jantung atau memburukkan keadaan hipertiroid.
+Ramalan lain dalam senarai juga mempunyai sokongan yang lemah: migrain dengan aura batang otak (subjenis entiti yang sama, skornya mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan), penyakit Raynaud, hipertensi pulmonari, sindrom takikardia ortostatik postural (POTS) dan hipertiroidisme. Antaranya, POTS dan hipertiroidisme menimbulkan kebimbangan keselamatan kerana perangsangan tiroid boleh meningkatkan kadar denyutan jantung atau memburukkan keadaan hipertiroid.
 
 ---
 
@@ -81,7 +81,7 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Status: **Tidak dipasarkan**. Tiada lesen NPRA yang direkodkan untuk thyrotropin alfa dalam data yang dikumpulkan.
+Tiada lesen NPRA yang direkodkan untuk thyrotropin alfa dalam data yang dikumpulkan.
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Temozolomide
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 671
-evidence_level: L1
-indication_count: 2
-last_modified_at: 2026-10-15
-description: "Temozolomide: indikasi baharu diramal Tumor astrositik dewasa (tahap bukti L1). Indikasi asal: Astrositoma anaplastik"
+evidence_level: L5
+indication_count: 1
 monitor_inn: "TEMOZOLOMIDE"
-predicted_indications: ["adult astrocytic tumour", "cauda equina neoplasm"]
+predicted_indications: ["cauda equina neoplasm"]
+last_modified_at: 2026-10-23
+description: "Temozolomide: indikasi baharu diramal Neoplasma cauda equina (tahap bukti L5). Indikasi asal: Astrositoma anaplastik, astrositoma (tidak termasuk glioblastoma)…"
 ---
 
 # Temozolomide
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **2** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,104 +33,109 @@ Tahap bukti: **L1** | Indikasi diramal: **2**
 
 </div>
 
-## Temozolomide: Daripada Astrositoma/Glioblastoma kepada Tumor Astrositik Dewasa
+## Temozolomide: Daripada Astrositoma/Glioblastoma kepada Neoplasma Cauda Equina
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Temozolomide ialah agen pengalkilan oral yang pada asalnya digunakan untuk merawat astrositoma anaplastik, astrositoma (tidak termasuk glioblastoma) dan glioblastoma otak.
-Model TxGNN meramalkan ia mungkin berkesan untuk **tumor astrositik dewasa**,
-dengan **2 ujian klinikal** dan **20 penerbitan** yang menyokong arah ini. Perlu diingat bahawa ini lebih merupakan pengesahan penggunaan sedia ada berbanding pengalihan guna (repurposing) sebenar.
+Temozolomide ialah agen pengalkilan oral yang pada asalnya direkodkan dalam graf pengetahuan untuk glioma sistem saraf pusat (astrositoma anaplastik, astrositoma dan glioblastoma otak). Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma cauda equina**, tetapi buat masa ini hanya terdapat **0 ujian klinikal** dan **3 penerbitan** (kesemuanya laporan kes, dan hanya satu yang berkaitan terus dengan tumor kawasan cauda equina), jadi bukti masih sangat terhad.
 
 ---
 
 ## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Astrositoma anaplastik; astrositoma (tidak termasuk glioblastoma); glioblastoma otak |
-| Indikasi Baharu yang Diramalkan | Tumor astrositik dewasa |
-| Skor Ramalan TxGNN | 99.36% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+| Indikasi Asal | Astrositoma anaplastik, astrositoma (tidak termasuk glioblastoma), glioblastoma otak (hubungan yang direkodkan dalam graf pengetahuan; teks indikasi yang diluluskan tempatan tidak tersedia) |
+| Indikasi Baharu yang Diramalkan | Neoplasma cauda equina |
+| Skor Ramalan TxGNN | 0.9930 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
+| Bilangan Kelulusan | 5 pendaftaran (semuanya produk bahan tunggal yang sah) |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Namun, berdasarkan pengetahuan sedia ada, temozolomide ialah agen pengalkilan oral yang memetilkan DNA (pada O6-guanina, N7-guanina dan N3-adenina). Lesi O6-metilguanina mencetuskan sitotoksisiti melalui pembaikan ketidakpadanan (mismatch repair), terutamanya dalam tumor dengan promoter MGMT termetilasi yang kapasiti pembaikannya berkurang.
+Temozolomide ialah agen pengalkilan oral yang memetilasi DNA (pada O6-guanina, N7-guanina dan N3-adenina), lalu menyebabkan sitotoksisiti dalam sel tumor yang sedang membahagi. Data mekanisme tindakan (MOA) rasmi tidak tersedia dalam data yang dihimpunkan untuk laporan ini, jadi huraian ini bergantung pada pengetahuan am tentang ubat tersebut, bukan data yang dibekalkan.
 
-Astrositoma anaplastik dan glioblastoma sudah pun termasuk dalam indikasi asal, dan kedua-duanya tergolong dalam tumor astrositik dewasa. Oleh itu skor TxGNN yang tinggi (0.994) selaras dengan mekanisme yang diketahui dan penggunaan klinikal. Indikasi ini ialah indikasi dalam label atau hampir dalam label, jadi ia mengesahkan penggunaan sedia ada dan bukan repurposing sebenar.
+Indikasi asalnya ialah glioma SSP, maka penembusan ke sistem saraf pusat sudah diketahui. Tumor cauda equina paling kerap ialah ependimoma miksopapilari, iaitu tumor berasal daripada garis keturunan glia. Ini menyokong kaitan yang munasabah melalui kepekaan kerosakan DNA yang sama, yang berkemungkinan dipengaruhi oleh status metilasi promoter MGMT.
+
+Skor TxGNN yang sangat tinggi (0.993) ialah ramalan pengiraan dan tidak menggantikan bukti klinikal.
+
+**Nota tahap bukti:** Satu laporan kes (PMID 29270703) menerangkan kesan yang ketara pada ependimoma miksopapilari spina yang berulang. Ini berkaitan, tetapi ia merupakan satu kes tunggal dan tidak mengkaji "neoplasma cauda equina" sebagai penyakit secara langsung dalam kajian formal. Oleh itu tahap bukti ditetapkan pada L5.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Fasa 3 | Selesai | 500 | Perbandingan rawak temozolomide berbanding PCV (prokarbazin, lomustin, vinkristin) dalam glioma malignan berulang (astrositik WHO gred III dan IV) |
-| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Fasa 1 | Selesai | 26 | Kajian penentuan dos keselamatan dan farmakokinetik XL184 (cabozantinib) bersama temozolomide dan radioterapi dalam glioblastoma; temozolomide ialah agen asas, relevansi terhad |
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | RCT | N Engl J Med | Radioterapi ditambah temozolomide serentak dan adjuvan untuk glioblastoma berbanding radioterapi sahaja |
-| [19269895](https://pubmed.ncbi.nlm.nih.gov/19269895/) | 2009 | Meta-analisis | Lancet Oncol | Analisis 5 tahun percubaan EORTC-NCIC: manfaat kemandirian temozolomide serentak dan adjuvan |
-| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | RCT | Lancet Oncol | NOA-08: temozolomide sahaja berbanding radioterapi sahaja bagi astrositoma malignan warga emas |
-| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | RCT | Lancet | CeTeG/NOA-09: lomustin-temozolomide berbanding temozolomide piawai dalam glioblastoma MGMT termetilasi |
-| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | RCT | JAMA | Terapi penyelenggaraan TTFields ditambah temozolomide berbanding temozolomide sahaja |
-| [29260225](https://pubmed.ncbi.nlm.nih.gov/29260225/) | 2017 | RCT | JAMA | TTFields ditambah temozolomide penyelenggaraan berbanding temozolomide sahaja terhadap kemandirian |
-| [24552317](https://pubmed.ncbi.nlm.nih.gov/24552317/) | 2014 | RCT | N Engl J Med | Ujian rawak bevacizumab untuk glioblastoma baru didiagnosis (temozolomide + radioterapi sebagai rawatan piawai) |
-| [39480453](https://pubmed.ncbi.nlm.nih.gov/39480453/) | 2024 | RCT | JAMA Oncol | Penambahan veliparib kepada temozolomide dalam glioblastoma MGMT termetilasi |
-| [34898238](https://pubmed.ncbi.nlm.nih.gov/34898238/) | 2022 | Garis panduan | J Clin Oncol | Garis panduan ASCO-SNO bagi terapi tumor astrositik dan oligodendroglial meresap dewasa |
-| [17478095](https://pubmed.ncbi.nlm.nih.gov/17478095/) | 2007 | Ulasan | Crit Rev Oncol Hematol | Astrositoma anaplastik pada dewasa; kemoterapi sebelum ini kurang konsisten memperbaiki hasil |
+| [29270703](https://pubmed.ncbi.nlm.nih.gov/29270703/) | 2018 | Laporan kes | European Spine Journal | Temozolomide menunjukkan keberkesanan ketara pada ependimoma miksopapilari spina yang berulang dengan penyebaran cecair serebrospina |
+| [42760727](https://pubmed.ncbi.nlm.nih.gov/42760727/) | 2026 | Laporan kes | Medicine | Karsinoma NUT nasal dengan tindak balas berulang semasa rawatan pelbagai modaliti termasuk radioterapi; kaitan langsung dengan neoplasma cauda equina adalah terhad |
+| [18706663](https://pubmed.ncbi.nlm.nih.gov/18706663/) | 2009 | Laporan kes | Neuro-Chirurgie | Kriptokokosis neuromeningeal atipikal pada kanak-kanak yang dirawat untuk glioma pons; bukan bukti keberkesanan untuk penyakit ini |
+
+---
+
+## Maklumat Pasaran di Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL22096014AZ | TemoRel Hard Capsule 250 mg | Tidak tersedia | Tidak tersedia |
+| MAL22096013AZ | TemoRel Hard Capsule 100 mg | Tidak tersedia | Tidak tersedia |
+| MAL07082881ACRZ | Temodal Capsules 100mg | Tidak tersedia | Tidak tersedia |
+| MAL07082880ACRZ | Temodal Capsules 20mg | Tidak tersedia | Tidak tersedia |
+| MAL24046040AZ | TemoRel Hard Capsule 20 mg | Tidak tersedia | Tidak tersedia |
 
 ---
 
 ## Sitotoksisiti
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
 | Klasifikasi Sitotoksisiti | Sitotoksik konvensional (agen pengalkilan, kelas imidazotetrazin) |
-| Risiko Penyahan Sumsum Tulang | Sederhana hingga tinggi (data tersedia menyenaraikan trombositopenia, neutropenia dan pansitopenia sebagai keadaan berkaitan dalam graf pengetahuan) |
+| Risiko Penindasan Sumsum Tulang | Sederhana hingga tinggi; graf pengetahuan merekodkan hubungan kontraindikasi dengan neutropenia, trombositopenia, anemia aplastik dan pansitopenia |
 | Klasifikasi Emetogenisiti | Sederhana |
-| Item Pemantauan | Kiraan darah lengkap (CBC dengan pembezaan), fungsi hati dan buah pinggang |
-| Perlindungan Pengendalian | Ikuti peraturan pengendalian ubat sitotoksik |
+| Item Pemantauan | Kiraan darah lengkap (CBC) dengan pembezaan, fungsi hati dan buah pinggang |
+| Perlindungan Pengendalian | Perlu mengikut peraturan pengendalian ubat sitotoksik |
+
+Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pek untuk maklumat lanjut.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Keadaan yang dikaitkan sebagai kontraindikasi dalam graf pengetahuan (bukan teks label)**: kegagalan hati, trombositopenia, neutropenia, agranulositosis, anemia (termasuk anemia makrositik), pneumosistosis, pansitopenia, limfopenia, sindrom mielodisplastik, anemia aplastik idiopatik dan anemia aplastik.
-- **Interaksi Ubat**: pertanyaan selesai dengan 100 interaksi direkodkan. Interaksi **Sederhana**: naltrexone. Interaksi **Minor**: levofloxacin. Selebihnya (contohnya pantoprazole, omeprazole, lansoprazole, metformin, morfin, prednisone, hidrokortison, amphotericin B, doxycycline) bertahap tidak diketahui.
+- **Hubungan kontraindikasi dalam graf pengetahuan** (bukan teks label): kegagalan hati, trombositopenia, neutropenia, agranulositosis, anemia, anemia makrositik, pneumosistosis, pansitopenia, limfopenia, sindrom mielodisplastik, anemia aplastik idiopatik dan anemia aplastik.
+- **Interaksi Ubat** (100 interaksi direkodkan; yang utama):
+  - Naltrexone: Sederhana
+  - Levofloxacin: Kecil
+  - Beberapa lagi dengan tahap tidak diketahui, antaranya kalsitriol, pantoprazol, doksisiklin, klotrimazol, morfin, metformin, omeprazol, lansoprazol, atropin, prednison, amfoterisin B, hidrokortison, manitol, dolasetron, kalium klorida, loperamid, sukralfat dan rosiglitazon.
 
-Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
+Amaran utama dan kontraindikasi daripada sisipan pek belum diperoleh. Sila rujuk sisipan pek untuk maklumat keselamatan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
+**Keputusan: Hold**
 
-**Rasional:**
-- Terdapat banyak RCT fasa 3 dan percubaan besar (termasuk NCT00052455 dengan 500 peserta) yang menyokong temozolomide dalam tumor astrositik dewasa, dan indikasi ini sudah termasuk dalam indikasi asal. Bukti adalah kukuh, tetapi ia bukan repurposing sebenar dan produk ini tidak didaftarkan di Malaysia.
+**Justifikasi:**
+Skor ramalan tinggi dan mekanisme am munasabah, tetapi bukti hanya satu laporan kes yang berkaitan, tanpa ujian klinikal. Data keselamatan daripada sisipan pek juga belum tersedia, jadi saringan keselamatan belum dapat diteruskan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) yang rasmi daripada DrugBank
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
-- Pengesahan status pendaftaran dan pasaran terkini di Malaysia, kerana data menunjukkan "tidak dipasarkan"
-- Pelan pemantauan keselamatan hematologi dan penilaian status MGMT
-
----
-
-### Nota: Ramalan Kedua (Tumor Cauda Equina)
-
-Ramalan kedua, **neoplasma cauda equina** (skor TxGNN 99.30%), hanya disokong oleh satu laporan kes (miksopapilari ependimoma spinal berulang) tanpa ujian klinikal; dua penerbitan lain tidak relevan. Tahap bukti ialah L4 dan statusnya ialah soalan penyelidikan, memerlukan bukti prospektif dan penilaian status MGMT sebelum sebarang saranan.
+- Muat turun dan huraikan sisipan pek NPRA untuk amaran, kontraindikasi dan indikasi yang diluluskan tempatan
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Kajian atau siri kes yang lebih kukuh tentang temozolomide dalam tumor kawasan cauda equina (contohnya ependimoma miksopapilari), termasuk status MGMT
+- Semakan literatur lanjut untuk menilai kaitan dua laporan kes yang lain
+- Pertimbangan bentuk dos dan laluan pemberian yang sesuai
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

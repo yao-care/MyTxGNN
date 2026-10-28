@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Bimatoprost
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 151
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Bimatoprost: indikasi baharu diramal Alopecia (ramalan teratas model: hipertrikosis… (tahap bukti L2). Indikasi asal: Tiada data indikasi berdaftar tempatan"
 monitor_inn: "Bimatoprost"
-predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia"]
+predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
+last_modified_at: 2026-10-27
+description: "Bimatoprost: indikasi baharu diramal Sindrom malformasi dengan komponen odontal dan/atau periodontal (malformation syndrome with odontal and/or periodontal… (tahap bukti L5). Indikasi asal: Tidak dir…"
 ---
 
 # Bimatoprost
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,104 +33,67 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-## Bimatoprost: Daripada Penggunaan Asal kepada Alopecia
+## Bimatoprost: analog prostamida F2α → sindrom malformasi dengan komponen odontal dan/atau periodontal (malformation syndrome with odontal and/or periodontal component)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Bimatoprost ialah analog prostamida/prostaglandin F2α yang digunakan secara meluas dalam bidang oftalmologi, tetapi data yang disusun untuk laporan ini tidak mencatatkan indikasi asal yang berdaftar di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Alopecia**, dengan **11 ujian klinikal** dan **20 penerbitan** yang menyokong arah ini.
-Ramalan teratas model (hipertrikosis) tidak munasabah dari segi mekanisme, jadi laporan ini menilai calon kedua yang bermakna secara klinikal, iaitu alopecia (kedudukan ke-9 dalam senarai ramalan).
+Bimatoprost ialah analog prostamida F2α yang berdaftar di Malaysia dalam bentuk titisan mata.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom malformasi dengan komponen odontal dan/atau periodontal (malformation syndrome with odontal and/or periodontal component)**,
+tetapi **tiada sebarang ujian klinikal atau penerbitan** yang menyokong ramalan ini; ia hanyalah ramalan berasaskan model.
 
-> **Nota penting:** Ramalan kedudukan pertama, **hipertrikosis** (skor 99.998%), sebenarnya menggambarkan kesan sampingan ubat (pertumbuhan bulu mata berlebihan), bukan manfaat terapeutik. Ia bercanggah dari segi mekanisme dan bukan calon penggunaan semula yang sah. Laporan ini oleh itu memberi tumpuan kepada alopecia.
-
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar tempatan; secara umum digunakan untuk glaukoma dan hipertensi okular |
-| Indikasi Baharu yang Diramalkan | Alopecia (ramalan teratas model: hipertrikosis, tidak dinilai kerana tidak munasabah) |
-| Skor Ramalan TxGNN | 99.99% (alopecia: 99.993%) |
-| Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails |
-
----
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom malformasi dengan komponen odontal dan/atau periodontal (malformation syndrome with odontal and/or periodontal component) |
+| Skor Ramalan TxGNN | 0,9999 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Bimatoprost ialah analog prostamida/PGF2α yang bertindak pada reseptor FP/prostamida dalam folikel rambut. Ia memanjangkan fasa anagen dan meningkatkan pertumbuhan rambut. Kesan sampingan yang diketahui pada pesakit glaukoma, iaitu bulu mata yang lebih panjang dan tebal, telah membuka jalan kepada penggunaannya dalam dermatologi.
+Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Bimatoprost diketahui sebagai analog prostamida F2α yang bertindak pada reseptor prostaglandin/prostamida.
 
-Alopecia ialah keadaan kehilangan rambut, jadi merangsang folikel supaya kekal lebih lama dalam fasa pertumbuhan adalah selari dengan mekanisme ubat. Beberapa ujian Fasa 2 pada alopecia androgenetik (lelaki dan wanita), ujian Fasa 4 pada hipotrikosis bulu mata kanak-kanak, serta ujian Fasa 1 farmakokinetik/toleransi pada kulit kepala menyokong aktiviti biologi dan keselamatan.
-
-Namun, keberkesanan pada rambut kulit kepala nampaknya sederhana dan belum disahkan dalam Fasa 3. Indikasi bulu mata sudah mantap dengan formulasi yang dipasarkan (Latisse). Data mekanisme terperinci (MOA) daripada pangkalan data rujukan tidak tersedia untuk laporan ini.
-
----
+Kami tidak menemui sebarang hubungan mekanistik yang munasabah antara bimatoprost dengan sindrom malformasi gigi dan/atau periodontium. Sindrom ini ialah kecacatan struktur, manakala bimatoprost topikal tidak mempunyai laluan yang jelas untuk membetulkan kecacatan perkembangan tersebut. Skor TxGNN yang tinggi hanyalah ramalan berasaskan model dan tidak boleh dianggap sebagai bukti kegunaan klinikal.
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT01325337](https://clinicaltrials.gov/study/NCT01325337) | Fasa 2 | Selesai | 307 | Bimatoprost 3 dos berbanding kenderaan dan minoxidil 5% pada lelaki dengan alopecia androgenik |
-| [NCT01325350](https://clinicaltrials.gov/study/NCT01325350) | Fasa 2 | Selesai | 306 | Bimatoprost berbanding kenderaan dan minoxidil 2% pada wanita dengan kehilangan rambut corak wanita |
-| [NCT01904721](https://clinicaltrials.gov/study/NCT01904721) | Fasa 2 | Selesai | 244 | Keselamatan dan keberkesanan bimatoprost pada lelaki dengan alopecia androgenik |
-| [NCT01023841](https://clinicaltrials.gov/study/NCT01023841) | Fasa 4 | Selesai | 71 | Keselamatan dan keberkesanan larutan bimatoprost untuk hipotrikosis bulu mata kanak-kanak |
-| [NCT01189279](https://clinicaltrials.gov/study/NCT01189279) | Fasa 1 | Selesai | 42 | Keselamatan dan farmakokinetik formulasi baharu pada pesakit alopecia |
-| [NCT02170662](https://clinicaltrials.gov/study/NCT02170662) | Fasa 2 | Selesai | 33 | Kesan bimatoprost pada folikel rambut bergantung androgen |
-| [NCT05600673](https://clinicaltrials.gov/study/NCT05600673) | Fasa 1/2 | Selesai | 30 | Bimatoprost 0.03% digabungkan dengan laser CO2 pecahan dalam alopecia areata |
-| [NCT00187577](https://clinicaltrials.gov/study/NCT00187577) | Tiada fasa | Selesai | 14 | Latanoprost berbanding bimatoprost untuk pertumbuhan bulu mata dalam alopecia areata |
-| [NCT02848300](https://clinicaltrials.gov/study/NCT02848300) | Fasa 1 | Selesai | 11 | Farmakokinetik tempatan dan toleransi pada kulit kepala lelaki dengan AGA |
-| [NCT02676310](https://clinicaltrials.gov/study/NCT02676310) | Fasa 1 | Ditamatkan | 53 | Kajian peningkatan dos untuk keselamatan, toleransi dan farmakokinetik pada lelaki dengan AGA |
-
-*Satu ujian tambahan (NCT00999557, pertumbuhan bulu kening dan bulu mata selepas kemoterapi) telah ditarik balik dengan 0 peserta, maka tiada data.*
-
----
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk penyakit ini.
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [28264599](https://pubmed.ncbi.nlm.nih.gov/28264599/) | 2017 | Ulasan | Expert Opin Investig Drugs | Bimatoprost untuk alopecia bulu mata, bulu kening dan kulit kepala |
-| [38794131](https://pubmed.ncbi.nlm.nih.gov/38794131/) | 2024 | Ulasan | Pharmaceuticals (Basel) | Daripada penjagaan mata kepada pertumbuhan rambut: aplikasi bimatoprost |
-| [29854658](https://pubmed.ncbi.nlm.nih.gov/29854658/) | 2018 | Ulasan | Indian Dermatol Online J | Bimatoprost dalam dermatologi: alopecia (bulu mata, bulu kening) dan vitiligo |
-| [35278027](https://pubmed.ncbi.nlm.nih.gov/35278027/) | 2022 | Kajian prospektif label terbuka | Dermatol Ther | Bimatoprost topikal untuk kehilangan bulu mata dalam alopecia totalis/universalis |
-| [37089845](https://pubmed.ncbi.nlm.nih.gov/37089845/) | 2023 | Ujian klinikal tidak rawak label terbuka | Indian Dermatol Online J | Bimatoprost berbanding clobetasol propionat dalam alopecia areata kulit kepala |
-| [40252129](https://pubmed.ncbi.nlm.nih.gov/40252129/) | 2025 | Kajian klinikal | Arch Dermatol Res | Laser CO2 pecahan bersama bimatoprost dalam alopecia areata |
-| [33631058](https://pubmed.ncbi.nlm.nih.gov/33631058/) | 2021 | Ulasan sistematik dan meta-analisis rangkaian | Dermatol Ther | Perbandingan rawatan alopecia areata |
-| [25601618](https://pubmed.ncbi.nlm.nih.gov/25601618/) | 2015 | Ulasan | J Am Acad Dermatol | Kegunaan alternatif analog PGF2α, termasuk alopecia |
-| [33314552](https://pubmed.ncbi.nlm.nih.gov/33314552/) | 2021 | Ulasan | Dermatol Ther | Perencat fosfodiesterase dan analog prostaglandin dalam dermatologi |
-| [35040730](https://pubmed.ncbi.nlm.nih.gov/35040730/) | 2022 | Praklinikal | Drug Deliv | Formulasi topikal bimatoprost dengan penyerapan kulit lebih baik dan pertumbuhan semula rambut dalam model AGA |
+Pada masa ini tiada literatur berkaitan yang tersedia untuk penyakit ini.
 
----
+## Maklumat Pasaran Malaysia
 
-## Keselamatan
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL16035016ARZ | LUMIGAN 0.01% (bimatoprost ophthalmic solution) | Tidak dicatat | Tidak dicatat dalam data tempatan |
 
-**Interaksi Ubat:** Pangkalan data interaksi merekodkan 66 interaksi berpotensi, tetapi tahap keterukan tidak dinyatakan (Unknown). Antara yang disenaraikan: calcitriol, phentermine, pantoprazole, morphine, metformin, omeprazole, prednisone, simvastatin dan ondansetron. Penilaian klinikal diperlukan sebelum sebarang kesimpulan.
+Dua lesen lain (GANFORT dan GANFORT PF, titisan mata) ialah produk gabungan dan tidak digunakan untuk menggambarkan status bahan tunggal bimatoprost.
 
-**Kesan sampingan tempatan (daripada bukti literatur):** hiperpigmentasi, kerengsaan, hipertrikosis tempatan.
+## Pertimbangan Keselamatan
 
-Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
+- **Interaksi Ubat**: Sebanyak 66 interaksi direkodkan dalam pangkalan data DDI, tetapi tahap keterukan tidak diketahui. Antara ubat yang disenaraikan: kalsitriol, fentermin, pantoprazol, morfin, metformin, omeprazol, prednison dan simvastatin.
 
----
+Sila rujuk sisipan pakej untuk maklumat keselamatan lengkap.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Beberapa ujian Fasa 2 pada alopecia androgenik (lebih 850 peserta secara keseluruhan) dan ujian Fasa 4 pada hipotrikosis bulu mata kanak-kanak menyokong aktiviti biologi dan keselamatan. Namun, keberkesanan pada kulit kepala sederhana dan tiada Fasa 3. Penggunaan harus dihadkan kepada sub-indikasi yang jelas, contohnya hipotrikosis bulu mata.
+Ramalan ini tidak disokong oleh sebarang ujian klinikal, literatur atau hubungan mekanistik yang munasabah. Skor yang tinggi sahaja tidak mencukupi untuk meneruskan penilaian.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pek NPRA (amaran dan kontraindikasi) untuk saringan keselamatan; kekosongan ini bersifat menyekat.
-- Data mekanisme tindakan (MOA) daripada DrugBank.
-- Pengesahan status pendaftaran di Malaysia (kini tiada lesen direkodkan) dan keserasian laluan/bentuk dos topikal.
-- Ujian Fasa 3 atau pengesahan keberkesanan untuk alopecia kulit kepala.
-- Pelan pemantauan keselamatan tempatan (hiperpigmentasi, kerengsaan) dan semakan interaksi ubat.
-
-**Nota mengenai calon lain:** Hipertrikosis dan Ambras hipertrikosis ialah pertentangan mekanisme (ubat merangsang pertumbuhan rambut), manakala sindrom malformasi, sindrom Dandy-Walker dan kecacatan batang rambut genetik tidak mempunyai bukti sokongan. Kesemuanya dikekalkan pada status **Hold**.
+- Bukti praklinikal atau klinikal yang secara langsung mengkaji penyakit ini
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Penilaian kesesuaian laluan pentadbiran (laluan topikal/oftalmik berbanding keperluan penyakit)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

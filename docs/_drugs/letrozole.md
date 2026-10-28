@@ -4,17 +4,17 @@ title: Letrozole
 parent: High Evidence (L1-L2)
 nav_order: 453
 evidence_level: L1
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Letrozole: indikasi baharu diramal Karsinoma payudara wanita (tahap bukti L1). Indikasi asal: Tiada rekod indikasi daripada pendaftaran tempatan"
 monitor_inn: "LETROZOLE"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
+description: "Letrozole: indikasi baharu diramal Nipple carcinoma (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Letrozole
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L1** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-## Letrozole: Daripada [Indikasi Asal Tidak Direkodkan] kepada Karsinoma Payudara Wanita
+## Letrozole: Nipple carcinoma
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Penggunaan ini sebenarnya sudah mantap dalam amalan klinikal, jadi ia bukan pene
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada rekod indikasi daripada pendaftaran tempatan |
-| Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita |
-| Skor Ramalan TxGNN | 99.98% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Nipple carcinoma |
+| Skor Ramalan TxGNN | 0.9976 |
 | Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
@@ -64,7 +64,6 @@ Letrozole ialah perencat aromatase bukan steroid. Ia menghalang penukaran androg
 
 Penggunaan ini disokong secara langsung oleh bukti klinikal Fasa 3. Antaranya ialah MONALEESA-2 (ribociclib + letrozole) dan PALOMA-2 (palbociclib + letrozole), yang menunjukkan manfaat pada kanser payudara lanjutan HR+/HER2-. Letrozole juga digunakan sebagai tulang belakang terapi endokrin dalam banyak percubaan lain.
 
-Oleh sebab letrozole sudah diterima sebagai terapi kanser payudara, tiada rekod indikasi asal dan status "tidak dipasarkan" dalam data tempatan kemungkinan besar mencerminkan kekosongan data, bukan hakikat sebenar.
 
 ---
 
@@ -134,7 +133,7 @@ Senarai ini ialah isyarat daripada graf pengetahuan dan mesti disahkan dengan si
 
 **Rasional:**
 - Beberapa percubaan Fasa 3 yang selesai (COMPLEEMENT-1, PALOMA-2, percubaan palbociclib Fasa 3) dan RCT berimpak tinggi menyokong penggunaan letrozole pada kanser payudara HR+, justeru tahap bukti ialah L1.
-- Ini ialah penggunaan sedia ada, bukan *repurposing* baharu. Namun status "tidak dipasarkan" dan ketiadaan rekod indikasi di Malaysia perlu disahkan sebelum diteruskan.
+- Ini ialah penggunaan sedia ada, bukan *repurposing* baharu.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Mengesahkan status pendaftaran sebenar letrozole di NPRA dan rekod indikasi asalnya

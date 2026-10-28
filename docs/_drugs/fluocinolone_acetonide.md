@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 362
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Fluocinolone Acetonide: indikasi baharu diramal Lichen planus pigmentosus (tahap bukti L5). Indikasi asal: Ekzema atopik, dermatitis (kontak, okupasi, seboroik)…"
 monitor_inn: "FLUOCINOLONE ACETONIDE"
-predicted_indications: ["lichen planus pigmentosus", "annular atrophic lichen planus", "hypertrophic lichen planus", "lichen planus pemphigoides"]
+predicted_indications: ["annular atrophic lichen planus", "hypertrophic lichen planus", "lichen planus pigmentosus", "lichen planus pemphigoides"]
+last_modified_at: 2026-10-23
+description: "Fluocinolone Acetonide: indikasi baharu diramal Annular atrophic lichen planus (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Fluocinolone Acetonide
@@ -33,87 +33,72 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-## Fluocinolone Acetonide: Daripada Dermatitis dan Penyakit Lichen kepada Lichen Planus Pigmentosus
+## Fluocinolone Acetonide: Annular atrophic lichen planus
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Fluocinolone acetonide ialah kortikosteroid topikal yang digunakan untuk keadaan kulit yang radang dan gatal, seperti ekzema atopik, dermatitis dan penyakit lichen.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Lichen Planus Pigmentosus** (skor 99.42%), bersama tiga ramalan berkaitan lichen planus yang lain.
-Setakat ini **tiada ujian klinikal** dan **tiada penerbitan** dalam data yang dikumpulkan untuk laporan ini yang menyokong ramalan tersebut, jadi ia kekal pada peringkat ramalan model sahaja.
-
----
+Fluocinolone acetonide ialah kortikosteroid topikal berkuasa tinggi yang hubungannya dengan pelbagai keadaan kulit radang dan gatal (contohnya ekzema atopik, dermatitis kontak, dermatitis seboroik dan penyakit lichen) direkodkan dalam graf pengetahuan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **lichen planus atrofik anular** (skor 0.9942), tetapi buat masa ini **tiada ujian klinikal** dan **tiada penerbitan** dalam data yang dikumpulkan untuk menyokong ramalan ini.
 
 ## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Ekzema atopik, dermatitis (kontak, okupasi, seboroik), penyakit lichen, lupus eritematosus diskoid, dll. (daripada graf pengetahuan PrimeKG; tiada teks indikasi berlesen) |
-| Indikasi Baharu yang Diramalkan | Lichen planus pigmentosus |
-| Skor Ramalan TxGNN | 99.42% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramal | Annular atrophic lichen planus |
+| Skor Ramalan TxGNN | 0.9942 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
-**Ramalan lain dalam kumpulan ini** (semuanya L5, Hold):
-
-| Kedudukan | Indikasi Diramalkan | Skor TxGNN |
-|------|------|------|
-| 2 | Annular atrophic lichen planus | 99.42% |
-| 3 | Hypertrophic lichen planus | 99.42% |
-| 4 | Lichen planus pemphigoides | 99.34% |
-
----
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
+| Bilangan Kelulusan | 3 lesen (1 produk bahan tunggal, 2 produk kombinasi) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan asal tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, fluocinolone acetonide ialah kortikosteroid topikal yang bertindak pada reseptor glukokortikoid (NR3C1). Keberkesanannya dalam dermatosis radang dan penyakit lichen telah diketahui, dan secara mekanistik ia mungkin sesuai untuk lichen planus melalui penindasan keradangan yang dimediasi sel T pada persimpangan dermo-epidermis.
+Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan. Namun, data farmakologi menunjukkan sasaran fluocinolone acetonide ialah reseptor glukokortikoid (NR3C1). Pengaktifan reseptor ini menekan keradangan yang didorong oleh sel T, dan ini munasabah secara biologi untuk penyakit lichenoid.
 
-Antara empat ramalan, **hypertrophic lichen planus** paling munasabah secara biologi, kerana kortikosteroid topikal berkuasa tinggi ialah pendekatan barisan pertama yang lazim dalam amalan klinikal. Walau bagaimanapun, ini tidak disokong data bukti dalam set ini.
+Skor TxGNN yang tinggi mungkin mencerminkan kedekatan ini. Lichen planus atrofik anular ialah varian lichen planus, jadi mekanisme anti-radang kortikosteroid mungkin terpakai. Namun begitu, ini hanyalah ramalan model dan tiada kajian yang dipetik secara langsung mengkaji penyakit ini.
 
-Bagi subjenis lain, hubungan mekanistik hanya separa dan disimpulkan daripada kelas ubat:
-- **Lichen planus pigmentosus**: ciri utamanya ialah inkontinens pigmen dermal, yang mungkin kurang ditangani oleh steroid topikal.
-- **Annular atrophic lichen planus**: terdapat kebimbangan teori tentang atrofi kulit yang bertambah teruk dengan steroid topikal berkuasa tinggi.
-- **Lichen planus pemphigoides**: komponen bulosa autoimun (antibodi anti-BP180) biasanya memerlukan imunosupresi sistemik; steroid topikal hanya mungkin mengurangkan keradangan setempat.
-
----
+Tiga varian lichen planus lain turut diramal dengan skor yang hampir sama, iaitu lichen planus hipertrofik (0.9942), lichen planus pigmentosus (0.9942) dan lichen planus pemfigoid (0.9934). Kesemuanya juga berada pada tahap bukti L5. Bagi lichen planus pemfigoid, komponen lepuh autoimun lazimnya memerlukan terapi sistemik, maka kesesuaian mekanismenya hanya separa.
 
 ## Bukti Ujian Klinikal
 
-Buat masa ini tiada ujian klinikal berkaitan didaftarkan untuk mana-mana indikasi yang diramalkan.
-
----
+Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
 Buat masa ini tiada literatur berkaitan tersedia.
 
----
+## Maklumat Pasaran di Malaysia
 
-## Keselamatan
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL19872018AZ | SUPRICORT CREAM 0.025% W/V (bahan tunggal) | Krim | Tiada teks indikasi tersedia |
+| MAL20061541ACRZ | TRI-LUMA CREAM (kombinasi) | Krim | Tiada teks indikasi tersedia |
+| MAL15085079AZ | Cetraxal Plus Ear Drops Solution (kombinasi) | Titisan telinga | Tiada teks indikasi tersedia |
 
-- **Penyakit yang dikaitkan dengan kontraindikasi (daripada graf pengetahuan, bukan teks label):** sunburn, keratitis virus herpes simpleks, kekurangan adrenokortikal / penyakit Addison, jangkitan herpes simpleks, glaukoma, atrofi kulit, telangiektasia (termasuk telangiektasia hemoragik herediti), penyakit kapilari, penyakit vaskular periferi / klaudikasi berselang / penyakit arteri periferi, herpes zoster geniculate, ekzema atopik, dermatitis, jangkitan kulat pada mata, tuberkulosis okular, ulser kornea mikotik.
-- **Interaksi Ubat:** 9 interaksi dikenal pasti dalam pangkalan data DDInter dengan tahap keterukan "Tidak diketahui": dexamethasone, cetirizine, citalopram, valproic acid, acetaminophen, digoxin, levothyroxine, alendronic acid dan clonazepam. Sasaran farmakologi: reseptor glukokortikoid.
+Nota: Dua daripada tiga lesen ialah produk kombinasi, maka ia tidak boleh digunakan untuk menggambarkan kelulusan bahan tunggal. Teks indikasi lesen tidak tersedia, jadi indikasi yang diluluskan di Malaysia tidak dapat disahkan daripada data ini.
 
-Sila rujuk sisipan pembungkusan untuk maklumat amaran dan kontraindikasi rasmi.
+## Pertimbangan Keselamatan
 
----
+- **Kontraindikasi yang direkodkan dalam graf pengetahuan** (bukan teks label): terbakar matahari, keratitis herpes simplex, insufisiensi adrenokortikal, penyakit Addison, jangkitan herpes simplex, glaukoma, atrofi kulit, telangiektasia (termasuk telangiektasia hemoragik herediti), penyakit vaskular periferi, herpes zoster geniculate, dermatitis, jangkitan kulat pada mata, tuberkulosis okular dan ulser kornea mikotik.
+- **Interaksi Ubat**: 9 interaksi direkodkan dengan tahap keterukan tidak diketahui, antaranya dexamethasone, cetirizine, citalopram, asid valproik, asetaminofen, digoxin, levothyroxine, asid alendronik dan clonazepam.
+
+Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi yang rasmi.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Keempat-empat ramalan hanya berada pada tahap L5 (ramalan model sahaja) tanpa ujian klinikal atau literatur yang dibekalkan, dan ubat ini tidak dipasarkan di Malaysia (0 pendaftaran), yang menghadkan kebolehlaksanaan praktikal.
-- Skor TxGNN yang tinggi (99.3–99.4%) menunjukkan isyarat yang menarik, terutamanya untuk hypertrophic lichen planus, tetapi belum mencukupi untuk bergerak ke hadapan.
+Ramalan hanya bersandarkan skor model (Tahap L5) tanpa sebarang ujian klinikal atau penerbitan yang mengkaji penyakit ini secara langsung. Data keselamatan daripada sisipan pek juga belum tersedia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Muat turun dan huraikan sisipan pembungkusan NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang saringan keselamatan).
-- Lengkapkan data mekanisme tindakan (MOA) daripada DrugBank.
-- Carian literatur secara sistematik tentang kortikosteroid topikal dalam lichen planus, terutamanya hypertrophic lichen planus, untuk kemungkinan menaik taraf tahap bukti.
-- Semak status pendaftaran dan kebolehdapatan produk topikal di Malaysia serta keserasian laluan pentadbiran.
-- Penilaian risiko atrofi kulit bagi subjenis atrofi, dan keperluan terapi sistemik bagi lichen planus pemphigoides.
+- Carian literatur khusus untuk lichen planus atrofik anular dan varian lichen planus lain
+- Sisipan pek NPRA (amaran dan kontraindikasi) serta teks indikasi lesen
+- Data terperinci mekanisme tindakan
+- Pengesahan keserasian laluan pemberian dan bentuk dos untuk indikasi baharu
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

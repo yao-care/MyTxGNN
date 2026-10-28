@@ -4,17 +4,17 @@ title: Serine
 parent: Low Evidence (L4-L5)
 nav_order: 642
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Serine: indikasi baharu diramal Miopati visera familial (familial visceral myopathy) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "Serine"
-predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "myopathic intestinal pseudoobstruction", "unclassified intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]
+predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "unclassified intestinal pseudoobstruction", "myopathic intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]
 ---
 
 # Serine
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 ## Ringkasan Satu Ayat
 
 Serine ialah asid amino proteinogenik dan data yang dikumpulkan untuk laporan ini tidak mencatatkan sebarang indikasi asal yang berdaftar di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **miopati visera familial** (skor 99.99%), tetapi setakat ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong indikasi ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **miopati visera familial** (skor 0.9999), tetapi setakat ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong indikasi ini.
 Ramalan ini hanya berasaskan model, tanpa bukti sebenar.
 
 ---
@@ -50,10 +50,10 @@ Ramalan ini hanya berasaskan model, tanpa bukti sebenar.
 |------|------|
 | Indikasi Asal | Tiada data indikasi berdaftar |
 | Indikasi Baharu yang Diramalkan | Miopati visera familial (familial visceral myopathy) |
-| Skor Ramalan TxGNN | 99.99% |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 55 daripada 55) |
+| Bilangan Pendaftaran | 55 (sah: 55) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,13 +62,13 @@ Ramalan ini hanya berasaskan model, tanpa bukti sebenar.
 
 Data mekanisme tindakan (MOA) terperinci tidak tersedia buat masa ini. Serine ialah asid amino proteinogenik dan tiada indikasi asal yang berdaftar di Malaysia. Oleh itu, tiada hubungan mekanistik khusus antara serine dengan miopati visera (contohnya disfungsi otot licin berkaitan ACTG2) yang disokong oleh data yang dikumpulkan.
 
-Skor TxGNN yang tinggi (0.9999) mencerminkan isyarat berasaskan graf pengetahuan, bukan bukti klinikal. Ramalan lain dengan skor hampir serupa juga tertumpu pada penyakit usus dan mata:
+Skor TxGNN yang tinggi (0.9999) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi atau klinikal. Ramalan lain dengan skor hampir serupa juga tertumpu pada penyakit usus dan mata:
 
 - **Penyakit usus**: sumbatan usus, pseudo-obstruksi usus miopatik, pseudo-obstruksi usus tidak terklasifikasi, displasia usus neuronal jenis B, dan pseudo-obstruksi usus neuronal kronik idiopatik berkait-X.
 - **Penyakit mata**: glaukoma sudut tertutup, glaukoma traumatik, dan salah arah akueus.
 - **Lain-lain**: hipertermia malignan akibat senaman.
 
-Beberapa penyakit mempunyai skor yang sama (contohnya pseudo-obstruksi usus miopatik dan tidak terklasifikasi; glaukoma traumatik dan salah arah akueus). Ini mencadangkan isyarat graf yang dikongsi, bukan bukti bebas.
+Beberapa penyakit mempunyai skor yang sama (contohnya pseudo-obstruksi usus miopatik dan tidak terklasifikasi, kedua-duanya 0.9997). Ini mungkin mencerminkan persamaan yang dipelajari oleh model TxGNN (pembelajaran mendalam) antara penyakit berkaitan, bukan bukti bebas.
 
 ---
 

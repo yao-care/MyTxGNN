@@ -8,6 +8,7 @@ nav_order: 85
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Apremilast
@@ -49,8 +50,8 @@ Apremilast (DrugBank: DB05676) ialah penghambat fosfodiestaraz 4 (PDE4) yang sel
 | Indikasi Baru Diramalkan | **Ditangguhkan** — tiada ramalan TxGNN yang hadir dalam Pakej Bukti ini |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | T/A |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan yang Disyorkan | **Tunda** |
 
 ---

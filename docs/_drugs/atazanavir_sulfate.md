@@ -8,6 +8,7 @@ nav_order: 100
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Atazanavir Sulfate
@@ -51,8 +52,8 @@ Penilaian repurposing lengkap tidak dapat diselesaikan sehingga jurang data yang
 | Indikasi Baru Yang Diramal | Tidak tersedia |
 | Skor Ramalan TxGNN | Tidak tersedia |
 | Paras Bukti | Tidak dapat dinilai |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Yang Disyorkan | Tahan |
 
 > **Nota:** Bahagian Bukti Ujian Klinikal, Bukti Literatur, dan "Mengapa Ramalan Ini Munasabah?" ditinggalkan kerana `predicted_indications` adalah kosong dalam pakej bukti ini. Setelah ramalan TxGNN dihasilkan, bahagian tersebut akan dipenuhi secara automatik.

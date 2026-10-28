@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Desmopressin
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 265
-evidence_level: L3
-indication_count: 7
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Desmopressin: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of plate… (tahap bukti L3). Indikasi asal: Penyakit von Willebrand (keturunan atau diperoleh), hemof…"
 monitor_inn: "DESMOPRESSIN"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
+description: "Desmopressin: indikasi baharu diramal Congenital prothrombin deficiency (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Desmopressin
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **7** 
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **7**
 
 </div>
 
-## Desmopressin: Daripada Penyakit von Willebrand kepada Gangguan Pelepasan Primer Platelet
+## Desmopressin: Congenital prothrombin deficiency
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -42,7 +42,7 @@ Desmopressin pada asalnya digunakan untuk merawat penyakit von Willebrand, hemof
 Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan pelepasan primer platelet** (primary release disorder of platelets), iaitu calon dengan bukti paling munasabah antara semua ramalan yang disenaraikan.
 Setakat ini terdapat **0 percubaan klinikal** yang berdaftar dan **9 penerbitan** yang berkaitan, kebanyakannya ulasan serta kajian kecil.
 
-> Nota: Ramalan teratas mengikut skor TxGNN ialah *congenital prothrombin deficiency* (99.70%), tetapi tiada rasional mekanistik dan bukti yang menyokongnya. Laporan ini memilih calon rank 4 sebagai fokus kerana bukti dan rasional farmakologinya paling kukuh. Ramalan lain diringkaskan di bahagian akhir.
+> Nota: Ramalan teratas mengikut skor TxGNN ialah *congenital prothrombin deficiency* (0.9970), tetapi tiada rasional mekanistik dan bukti yang menyokongnya. Laporan ini memilih calon rank 4 sebagai fokus kerana bukti dan rasional farmakologinya paling kukuh. Ramalan lain diringkaskan di bahagian akhir.
 
 ---
 
@@ -50,12 +50,12 @@ Setakat ini terdapat **0 percubaan klinikal** yang berdaftar dan **9 penerbitan*
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit von Willebrand (keturunan atau diperoleh), hemofilia, enuresis nokturnal |
-| Indikasi Baharu yang Diramalkan | Gangguan pelepasan primer platelet (primary release disorder of platelets) |
-| Skor Ramalan TxGNN | 99.26% |
-| Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Congenital prothrombin deficiency |
+| Skor Ramalan TxGNN | 0.9970 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
@@ -94,7 +94,6 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Desmopressin pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran yang direkodkan.
 
 ---
 
@@ -112,12 +111,12 @@ Sila rujuk sisipan pek untuk maklumat keselamatan lanjut.
 
 | Penyakit yang Diramalkan | Skor TxGNN | Tahap Bukti | Keputusan | Catatan |
 |------|------|------|------|------|
-| Defisiensi protrombin kongenital | 99.70% | L5 | Hold | Tiada rasional mekanistik; skor tinggi mungkin hanya mencerminkan kedekatan rangkaian |
-| Trombofilia diwarisi | 99.44% | L5 | Hold | Arah pro-trombotik; isyarat ini lebih bersifat kebimbangan keselamatan |
-| Trombastenia Glanzmann | 99.30% | L4 | Research Question | Bukti tidak langsung (ulasan dan laporan kes); rawatan lini pertama ialah transfusi platelet dan rFVIIa |
-| Penyakit pseudo-von Willebrand | 99.16% | L4 | Hold | Desmopressin boleh memburukkan trombositopenia; secara amnya dielakkan atau digunakan dengan berhati-hati |
-| Sindrom Scott | 99.16% | L5 | Hold | Tiada kesan langsung yang diketahui terhadap kecacatan skramblase |
-| "Flood factor deficiency" | 99.15% | L4 | Hold | Nama penyakit nampaknya artifak pemetaan data; identiti perlu dijelaskan |
+| Defisiensi protrombin kongenital | 0.9970 | L5 | Hold | Tiada rasional mekanistik; skor tinggi mungkin hanya mencerminkan kedekatan rangkaian |
+| Trombofilia diwarisi | 0.9944 | L5 | Hold | Arah pro-trombotik; isyarat ini lebih bersifat kebimbangan keselamatan |
+| Trombastenia Glanzmann | 0.9930 | L4 | Research Question | Bukti tidak langsung (ulasan dan laporan kes); rawatan lini pertama ialah transfusi platelet dan rFVIIa |
+| Penyakit pseudo-von Willebrand | 0.9916 | L5 | Hold | Desmopressin boleh memburukkan trombositopenia; secara amnya dielakkan atau digunakan dengan berhati-hati |
+| Sindrom Scott | 0.9916 | L5 | Hold | Tiada kesan langsung yang diketahui terhadap kecacatan skramblase |
+| "Flood factor deficiency" | 0.9915 | L5 | Hold | Nama penyakit nampaknya artifak pemetaan data; identiti perlu dijelaskan |
 
 ---
 
@@ -131,7 +130,6 @@ Sila rujuk sisipan pek untuk maklumat keselamatan lanjut.
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menyekat saringan keselamatan)
 - Data mekanisme tindakan terperinci daripada DrugBank
-- Memandangkan produk tidak dipasarkan di Malaysia, laluan pendaftaran atau akses perlu dijelaskan
 - Protokol infusi ujian dengan pemantauan tindak balas, serta pemantauan cecair dan natrium untuk mengelakkan hiponatremia
 - Pengesahan melalui kajian terkawal atau siri kes yang lebih besar
 - Penjelasan identiti penyakit bagi entri "flood factor deficiency" sebelum sebarang penilaian lanjut

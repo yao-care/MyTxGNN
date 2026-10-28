@@ -4,17 +4,17 @@ title: Pantoprazole
 parent: Low Evidence (L4-L5)
 nav_order: 557
 evidence_level: L5
-indication_count: 6
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Pantoprazole: indikasi baharu diramal Penyakit ulser peptik aktif (tahap bukti L5). Indikasi asal: Penyakit ulser peptik, penyakit refluks gastroesofagus, esofagitis…"
 monitor_inn: "PANTOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
+description: "Pantoprazole: indikasi baharu diramal Duodenal obstruction (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Pantoprazole
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **6** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-## Pantoprazole: Daripada Penyakit Ulser Peptik kepada Penyakit Ulser Peptik Aktif
+## Pantoprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Indikasi ramalan ini bertindih dengan kegunaan asal ubat, jadi ia lebih merupaka
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit ulser peptik, penyakit refluks gastroesofagus, esofagitis, sindrom Zollinger-Ellison, dan lain-lain (daripada graf pengetahuan TxGNN, bukan teks label) |
-| Indikasi Baharu Diramal | Penyakit ulser peptik aktif |
-| Skor Ramalan TxGNN | 99.69% |
-| Tahap Bukti | L1 mengikut data yang dikompilasi; L2 jika hanya dikira daripada ujian yang disenaraikan di bawah (lihat nota) |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu Diramal | Duodenal obstruction |
+| Skor Ramalan TxGNN | 0.9921 |
+| Tahap Bukti | L5 mengikut data yang dikompilasi; L2 jika hanya dikira daripada ujian yang disenaraikan di bawah (lihat nota) |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 30) |
+| Bilangan Pendaftaran | 30 (sah: 30) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 
 *Nota tahap bukti:* Data yang dikompilasi memberikan L1. Namun untuk indikasi ini hanya satu ujian Fasa 3 yang telah selesai disenaraikan (NCT02084420), yang menurut peraturan penentuan setara L2. L1 akan terpakai jika ujian Fasa 3 lain pada ulser duodenum, seperti NCT00261300 dan NCT00374101, diambil kira.
@@ -97,7 +97,7 @@ Kajian lain dalam data yang dikompilasi ialah kajian haiwan dan ulasan farmakolo
 
 ## Maklumat Pasaran Malaysia
 
-Berdasarkan data yang dikompilasi, pantoprazole **tidak dipasarkan** di Malaysia dan tiada lesen pendaftaran direkodkan (0 pendaftaran). Mana-mana penggunaan klinikal akan memerlukan pengesahan status pendaftaran dengan NPRA terlebih dahulu.
+Mana-mana penggunaan klinikal akan memerlukan pengesahan status pendaftaran dengan NPRA terlebih dahulu.
 
 ---
 

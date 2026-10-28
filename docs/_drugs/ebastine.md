@@ -6,9 +6,9 @@ nav_order: 313
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Ebastine: indikasi baharu diramal Penyakit arteri koronari (coronary artery disease) (tahap bukti L5). Indikasi asal: Rinitis alergi, rinitis vasomotor, urtikaria idiopatik"
 monitor_inn: "EBASTINE"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
+description: "Ebastine: indikasi baharu diramal Penyakit arteri koronari (coronary artery disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ebastine
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Ebastine: Daripada Rinitis Alergi kepada Penyakit Arteri Koronari
+## Ebastine: Penyakit arteri koronari (coronary artery disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -45,12 +45,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit arteri koronari** (d
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Rinitis alergi, rinitis vasomotor, urtikaria idiopatik |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Penyakit arteri koronari (coronary artery disease) |
-| Skor Ramalan TxGNN | 99.18% |
+| Skor Ramalan TxGNN | 0.9918 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -59,7 +59,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang
 
 Secara hipotesis, histamin dan aktiviti sel mast pernah dicadangkan berperanan dalam vasospasma koronari dan aterosklerosis, justeru antagonisme H1 mungkin mempengaruhi tonus koronari atau keradangan. Walau bagaimanapun, hipotesis ini tidak disokong oleh sebarang data dalam laporan ini.
 
-Ramalan kedua, **iskemia miokardium** (skor 99.10%), bertindih rapat dengan penyakit arteri koronari dan berkemungkinan mencerminkan isyarat rangkaian yang sama, bukan bukti bebas. Tiada percubaan klinikal atau literatur yang ditemui untuk mengesahkan atau menyangkal kedua-dua ramalan.
+Ramalan kedua, **iskemia miokardium** (skor 0.9910), bertindih rapat dengan penyakit arteri koronari dan berkemungkinan mencerminkan isyarat rangkaian yang sama, bukan bukti bebas. Tiada percubaan klinikal atau literatur yang ditemui untuk mengesahkan atau menyangkal kedua-dua ramalan.
 
 ## Bukti Percubaan Klinikal
 
@@ -81,7 +81,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 **Keputusan: Hold**
 
 **Rasional:**
-- Satu-satunya sokongan ialah skor ramalan TxGNN yang tinggi. Tiada percubaan klinikal, literatur atau data mekanisme, dan ubat ini tidak dipasarkan di Malaysia. Kebimbangan keselamatan jantung (kesan QT) juga menjadikan penerokaan kardiovaskular tanpa bukti tambahan tidak wajar.
+- Satu-satunya sokongan ialah skor ramalan TxGNN yang tinggi. Kebimbangan keselamatan jantung (kesan QT) juga menjadikan penerokaan kardiovaskular tanpa bukti tambahan tidak wajar.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci, diperoleh daripada DrugBank

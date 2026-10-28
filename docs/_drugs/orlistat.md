@@ -6,9 +6,9 @@ nav_order: 547
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Orlistat: indikasi baharu diramal Hipervitaminosis (tahap bukti L5). Indikasi asal: Obesiti (obesity disorder)…"
 monitor_inn: "ORLISTAT"
 predicted_indications: ["hypervitaminosis"]
+description: "Orlistat: indikasi baharu diramal Hipervitaminosis (hypervitaminosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Orlistat
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Orlistat: Daripada Obesiti kepada Hipervitaminosis
+## Orlistat: Hipervitaminosis (hypervitaminosis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Obesiti (obesity disorder), obesiti monogenik (sumber: graf pengetahuan TxGNN/PrimeKG) |
-| Indikasi Baharu yang Diramalkan | Hipervitaminosis |
-| Skor Ramalan TxGNN | 99.42% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Hipervitaminosis (hypervitaminosis) |
+| Skor Ramalan TxGNN | 0.9942 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -60,7 +60,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) asal belum tersedia dalam data
 
 Vitamin larut lemak (A, D, E, K) diserap bersama lemak diet, jadi orlistat mengurangkan penyerapannya. Ini kesan sampingan yang terkenal dan memerlukan suplemen vitamin semasa rawatan obesiti. Secara teori, kesan ini boleh mengehadkan pengambilan vitamin pada hipervitaminosis A atau D yang disebabkan lebihan pengambilan vitamin larut lemak.
 
-Namun, hubungan ini munasabah tetapi belum terbukti. Skor TxGNN yang tinggi (0.994) hanyalah ramalan model, dan MOA asal tidak dapat disemak silang dengan anotasi ubat yang dikurasi. Hipervitaminosis lazimnya diurus dengan menghentikan punca vitamin, dan lebihan vitamin larut air tidak dipengaruhi oleh perencat lipase. Orlistat ialah pilihan yang tidak lazim dan belum disahkan.
+Namun, hubungan ini munasabah tetapi belum terbukti. Skor TxGNN yang tinggi (0.9942) hanyalah ramalan model, dan MOA asal tidak dapat disemak silang dengan anotasi ubat yang dikurasi. Hipervitaminosis lazimnya diurus dengan menghentikan punca vitamin, dan lebihan vitamin larut air tidak dipengaruhi oleh perencat lipase. Orlistat ialah pilihan yang tidak lazim dan belum disahkan.
 
 ## Bukti Percubaan Klinikal
 

@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Telmisartan
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 670
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Telmisartan: indikasi baharu diramal Gangguan strok (stroke disorder) (tahap bukti L1). Indikasi asal: Hipertensi / gangguan hipertensi, strok, gangguan serebrovaskular…"
+evidence_level: L5
+indication_count: 9
+monitor_inn: "Telmisartan"
+predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
+last_modified_at: 2026-10-23
+description: "Telmisartan: indikasi baharu diramal Angina Prinzmetal (tahap bukti L5). Indikasi asal: Hipertensi dan penyakit serebrovaskular/strok"
 ---
 
 # Telmisartan
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,100 +33,102 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-## Telmisartan: Daripada Hipertensi kepada Strok (Gangguan Strok)
+## Telmisartan: Daripada Hipertensi kepada Angina Prinzmetal
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Telmisartan ialah penyekat reseptor angiotensin II (ARB) yang pada asalnya digunakan untuk merawat hipertensi dan membantu mencegah strok.
-Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan strok (stroke disorder)**,
-dengan **6 ujian klinikal** dan **20 penerbitan** yang disenaraikan dalam data yang dikumpulkan untuk laporan ini. Perlu diingat bahawa strok sudah tersenarai antara indikasi asal dalam graf pengetahuan, jadi ini lebih merupakan penggunaan yang hampir dengan label (*label-adjacent*) berbanding pengalihan guna (*repurposing*) sebenar.
+Telmisartan ialah penyekat reseptor angiotensin II jenis 1. Dalam graf pengetahuan TxGNN, ubat ini direkodkan berkaitan dengan hipertensi dan penyakit serebrovaskular seperti strok. Model TxGNN meramalkan ia mungkin berkesan untuk **angina Prinzmetal** dengan skor **0.9998**, tetapi setakat ini **tiada ujian klinikal dan tiada penerbitan** yang menyokong ramalan ini. Ia kekal sebagai ramalan model sahaja.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hipertensi / gangguan hipertensi, strok, gangguan serebrovaskular, infarksi serebrum (berdasarkan graf pengetahuan TxGNN; data label NPRA tiada) |
-| Indikasi Baharu yang Diramalkan | Gangguan strok (stroke disorder) |
-| Skor Ramalan TxGNN | 0.00% (nilai skor dalam data ialah 0.0, jadi perlu ditafsirkan dengan berhati-hati) |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikumpulkan; perlu disahkan) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Pengawalan) |
+| Indikasi asal | Hipertensi dan penyakit serebrovaskular/strok (hubungan yang direkodkan dalam graf pengetahuan; teks indikasi lesen tempatan tiada dalam data) |
+| Indikasi baharu yang diramalkan | Angina Prinzmetal |
+| Skor ramalan TxGNN | 0.9998 |
+| Tahap bukti | L5 |
+| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 59 daripada 59) |
+| Bilangan pendaftaran | 59 (sah: 59) |
+| Keputusan disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Telmisartan ialah penyekat reseptor angiotensin II jenis 1 (AT1) dengan aktiviti agonis separa PPAR-gamma. Penurunan tekanan darah ialah mekanisme utama dalam pencegahan strok sekunder, terutamanya selepas pendarahan intraserebrum. Kajian praklinikal turut mencadangkan perlindungan unit neurovaskular, kesan anti-radang (inflamasom, interaksi mikroglia/astrosit) dan pengurangan tekanan oksidatif.
+Data terperinci tentang mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, telmisartan menyekat reseptor angiotensin II jenis 1 dan juga bertindak sebagai agonis separa PPAR-gamma. Dari segi mekanisme, kedua-dua ciri ini boleh mengurangkan vasospasme dan disfungsi endotel, dan vasospasme koronari ialah ciri utama angina Prinzmetal.
 
-Data terperinci tentang mekanisme tindakan (MOA) daripada DrugBank tidak tersedia dalam data yang dikumpulkan. Penerangan di atas diambil daripada rasional mekanistik yang dirumuskan dalam data bukti.
-
-Hipertensi ialah faktor risiko utama strok, maka penurunan tekanan darah secara logiknya mengurangkan risiko strok. Namun, kesan khusus telmisartan sukar dipisahkan daripada kesan kawalan tekanan darah, terutamanya dalam ujian rejimen kombinasi seperti TRIDENT.
+Hubungan antara hipertensi dan angina Prinzmetal ialah kedua-duanya melibatkan tonus dan fungsi endotel saluran darah. Namun, **tiada kajian atau ujian yang dibekalkan untuk menyokong hubungan ini**, jadi ia kekal spekulatif.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT02699645](https://clinicaltrials.gov/study/NCT02699645) | Fasa 3 | Selesai | 1,671 | TRIDENT: pil tiga kombinasi dos rendah (termasuk telmisartan) untuk mencegah strok berulang selepas pendarahan intraserebrum |
-| [NCT00741585](https://clinicaltrials.gov/study/NCT00741585) | Fasa 4 | Selesai | 21,983 | HYGIA: nilai prognostik corak sirkadian tekanan darah ambulatori; bukti tidak langsung |
-| [NCT01198496](https://clinicaltrials.gov/study/NCT01198496) | Fasa 4 | Tidak diketahui | 5,000 | Kawalan tekanan darah intensif untuk mencegah strok berulang pada pesakit hipertensi dengan sejarah strok |
-| [NCT07588932](https://clinicaltrials.gov/study/NCT07588932) | Fasa Awal 1 | Sedang merekrut | 50 | Telmisartan + cilostazol + metformin untuk meningkatkan pemulihan motor selepas strok; eksploratori |
-| [NCT03783754](https://clinicaltrials.gov/study/NCT03783754) | Tidak berkenaan | Ditamatkan | 4 | Sub-kajian MRI TRIDENT; tidak bermaklumat |
-| [NCT03785067](https://clinicaltrials.gov/study/NCT03785067) | Fasa 3 | Ditamatkan | 1 | Sub-kajian kognitif TRIDENT; tiada data boleh guna |
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [18378520](https://pubmed.ncbi.nlm.nih.gov/18378520/) | 2008 | RCT | N Engl J Med | ONTARGET: membandingkan telmisartan, ramipril dan kombinasi pada pesakit berisiko tinggi kejadian vaskular |
-| [42019018](https://pubmed.ncbi.nlm.nih.gov/42019018/) | 2026 | RCT | N Engl J Med | Pil tunggal tiga ubat antihipertensi dos rendah selepas pendarahan intraserebrum |
-| [39181551](https://pubmed.ncbi.nlm.nih.gov/39181551/) | 2024 | RCT | BMJ Open | Ujian kebolehlaksanaan strategi kombinasi antihipertensi dos rendah untuk mengurangkan kemerosotan kognitif |
-| [19587553](https://pubmed.ncbi.nlm.nih.gov/19587553/) | 2009 | Ulasan | J Hypertens Suppl | Program PRoFESS, ONTARGET dan TRANSCEND: potensi manfaat telmisartan dalam pencegahan strok |
-| [22115399](https://pubmed.ncbi.nlm.nih.gov/22115399/) | 2011 | Ulasan | Expert Rev Clin Pharmacol | Telmisartan dalam mengurangkan morbiditi dan mortaliti kardiovaskular |
-| [40536710](https://pubmed.ncbi.nlm.nih.gov/40536710/) | 2025 | Ulasan | Pharmacol Rep | Penggunaan telmisartan dalam gangguan sistem saraf pusat (antagonis AT1R dan pengaktif PPARγ) |
-| [24065095](https://pubmed.ncbi.nlm.nih.gov/24065095/) | 2013 | Ulasan | Int J Mol Sci | ARB (telmisartan, irbesartan, candesartan) merencat paksi HMGB1/RAGE dalam pencegahan dan rawatan akut strok |
-| [36577854](https://pubmed.ncbi.nlm.nih.gov/36577854/) | 2024 | Praklinikal | Transl Stroke Res | Hibrid telmisartan-borneol mengurangkan keradangan saraf dan kecederaan jirim putih dalam strok iskemia |
-| [25591419](https://pubmed.ncbi.nlm.nih.gov/25591419/) | 2015 | Praklinikal | Neurol Res | Perlindungan unit neurovaskular dan inflamasom pada tikus SHR-SR |
-| [24780412](https://pubmed.ncbi.nlm.nih.gov/24780412/) | 2014 | Praklinikal | J Stroke Cerebrovasc Dis | Telmisartan mengurangkan tekanan oksidatif dan pengumpulan α-synuclein terfosforilasi selepas oklusi arteri serebrum tengah |
+Pada masa ini tiada literatur berkaitan tersedia.
 
 ---
 
-## Keselamatan
+## Maklumat Pasaran Malaysia
 
-**Penafian:** Maklumat label NPRA (amaran dan kontraindikasi) tidak tersedia dalam data yang dikumpulkan. Sila rujuk sisipan pek produk untuk maklumat keselamatan yang rasmi.
+Berikut ialah 5 daripada 59 pendaftaran produk telmisartan tunggal untuk manusia. Teks indikasi yang diluluskan tidak terdapat dalam data yang dikumpulkan. Daripada 59 pendaftaran, 32 ialah produk tunggal (termasuk satu produk veterinar untuk kucing) dan 27 ialah produk kombinasi.
 
-**Kontraindikasi daripada graf pengetahuan (bukan teks label):** Graf pengetahuan TxGNN (PrimeKG) mengaitkan telmisartan dengan keadaan berikut sebagai kontraindikasi, dan perlu disahkan dengan label rasmi:
-- Hati dan hempedu: kegagalan hati, penyakit hati, koma hepatik, ensefalopati hepatik, kolestasis (termasuk kolestasis intrahepatik berulang jinak dan familial), penyakit pundi hempedu, pankreatitis, jaundis neonatal
-- Ginjal: penyakit ginjal, anuria, halangan arteri renal, nefrokalsinosis, piouretur
-- Metabolik dan elektrolit: kekurangan kalium, hiperkalsemia, gangguan metabolisme fosforus, hiperparatiroidisme, osteitis fibrosa, diabetes mellitus, ketoasidosis diabetes, hiperurisemia, gout
-- Lain-lain: lupus eritematosus sistemik (termasuk pediatrik), gangguan hipotensif
+| No. Pendaftaran | Nama Produk | Pengilang |
+|---------|------|------|
+| MAL19992673AZ | MICARDIS TABLET 40MG | Boehringer Ingelheim (Malaysia) Sdn. Bhd. |
+| MAL19992674AZ | MICARDIS TABLET 80MG | Boehringer Ingelheim (Malaysia) Sdn. Bhd. |
+| MAL21106018AZ | TELMIDIP 40 mg Tablets | Genpharma Sdn. Bhd. |
+| MAL13015032AZ | Teleact Tablets 80 mg | Ranbaxy (Malaysia) Sdn. Bhd. |
+| MAL18056178AZ | TELDAY TABLETS 80 MG | Laboratories Torrent (Malaysia) Sdn. Bhd. |
 
-**Interaksi ubat (DDI):** Sebanyak 100 interaksi direkodkan; yang berikut ialah contoh daripada senarai yang tersedia.
-- **Major:** kalium sitrat, kalium bikarbonat (risiko hiperkalemia)
-- **Moderate:** kortikosteroid (hidrokortison, deksametason, betametason, triamsinolon, budesonid), aspirin, morfin, bupropion, perencat SGLT2 (kanagliflozin, dapagliflozin, empagliflozin), eksenatid, insulin (manusia, aspart), dronabinol, picosulfat, natrium sulfat, polietilena glikol dengan elektrolit
+---
+
+## Pertimbangan Keselamatan
+
+**Hubungan kontraindikasi dalam graf pengetahuan** (bukan teks label produk): penyakit hati dan kegagalan hati, penyakit buah pinggang, anuria, pankreatitis, penyakit pundi hempedu, kolestasis, ensefalopati hepatik, lupus eritematosus sistemik, diabetes mellitus, ketoasidosis diabetes, gout, hipotensi, hiperparatiroidisme, hiperkalsemia, nefrokalsinosis, kekurangan kalium, penyakit metabolisme fosforus, halangan arteri renal, dan jaundis neonatal.
+
+**Interaksi ubat** (100 interaksi direkodkan; yang utama disenaraikan):
+- **Major**: kalium sitrat, kalium bikarbonat (risiko hiperkalemia).
+- **Sederhana**: kortikosteroid (hidrokortison, deksametason, betametason, triamsinolon, budesonid), aspirin, morfin, bupropion, perencat SGLT2 (kanagliflozin, dapagliflozin, empagliflozin), eksenatid, insulin, dronabinol, dan beberapa agen pencuci usus.
+
+Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej produk.
+
+---
+
+## Ramalan Lain yang Mempunyai Bukti
+
+Selain angina Prinzmetal, data yang dikumpulkan menunjukkan beberapa ramalan lain. Dua di antaranya mempunyai bukti yang bermakna.
+
+| Penyakit yang Diramalkan | Skor | Bukti Utama | Tahap Bukti | Keputusan |
+|------|------|------|------|------|
+| Pendarahan intraserebral | 0.9993 | [NCT02699645](https://clinicaltrials.gov/study/NCT02699645): RCT Fasa 3 selesai (n=1671), pil kombinasi tiga ubat dos rendah termasuk telmisartan; hasil dalam [PMID 42019018](https://pubmed.ncbi.nlm.nih.gov/42019018/) | L2 (hanya satu RCT Fasa 3 selesai, dan intervensi ialah kombinasi) | Proceed with Guardrails |
+| Oklusi arteri serebrum | 0.9995 | [NCT01075698](https://clinicaltrials.gov/study/NCT01075698): ujian Fasa 4 selesai (n=1228) tentang pencegahan penyakit kardiovaskular; kajian haiwan yang banyak tentang neuroperlindungan | L4 (kajian praklinikal; ujian klinikal tidak mengkaji penyakit ini secara langsung) | Hold |
+| Hipertensi pulmonari akibat penyakit paru-paru/hipoksia | 0.9993 | Hanya kajian haiwan hipoksia berselang dan kajian tidak langsung | L5 | Hold |
+| Amiloidosis ABri, infarksi batang otak, penyakit buah pinggang hipertensif malignan, hipertensi pulmonari berpunca tidak jelas, sindrom Braddock | 99.9–0.9998 | Tiada | L5 | Hold |
+
+Untuk pendarahan intraserebral, kesan tidak boleh dikaitkan dengan telmisartan sahaja kerana ujian menggunakan kombinasi. Butiran saiz kesan dan keselamatan perlu disahkan daripada penerbitan utama. Sub-kajian TRIDENT lain ditamatkan awal dengan 1–4 peserta dan tidak menambah bukti.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails (Teruskan dengan Pengawalan)**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Terdapat bukti RCT Fasa 3 yang selesai (TRIDENT) dan RCT berimpak tinggi (ONTARGET; NEJM 2026) yang menyokong pencegahan strok melalui kawalan tekanan darah. Namun, strok ialah indikasi asal, bukan indikasi baharu yang sebenar, dan manfaat khusus telmisartan sukar diasingkan daripada kesan kawalan tekanan darah dan kesan kombinasi. Skor TxGNN ialah 0.0 sehingga tidak boleh dijadikan sandaran.
+- Angina Prinzmetal ialah ramalan model sahaja (L5). Tiada ujian klinikal atau literatur yang dibekalkan, dan hubungan mekanisme hanya spekulatif.
 
-**Untuk meneruskan, perlu:**
-- Muat turun dan huraikan sisipan pek NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat)
-- Data mekanisme tindakan (MOA) daripada DrugBank
-- Pengesahan status pasaran di Malaysia (data menunjukkan tidak dipasarkan dengan 0 pendaftaran, yang perlu disemak semula)
-- Pengesahan sumbangan khusus telmisartan dalam kombinasi pil tiga (TRIDENT)
-- Pelan pemantauan keselamatan untuk populasi khusus (gangguan hati/ginjal, hiperkalemia, dan penggunaan bersama ubat berinteraksi major)
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Pencarian literatur dan ujian klinikal khusus untuk telmisartan dalam angina Prinzmetal/vasospasme koronari.
+- Data mekanisme tindakan terperinci dan maklumat keselamatan daripada sisipan pakej NPRA.
+- Kajian praklinikal atau percubaan perintis yang menunjukkan kesan terhadap vasospasme koronari.
+- Sebagai alternatif, utamakan penilaian pendarahan intraserebral (selepas menyemak hasil TRIDENT daripada penerbitan utama), kerana ia mempunyai bukti klinikal paling kukuh.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

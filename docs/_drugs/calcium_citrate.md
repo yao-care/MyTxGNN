@@ -48,10 +48,10 @@ Kalsium sitrat ialah suplemen kalsium yang digunakan untuk membetulkan kekuranga
 |------|------|
 | Indikasi Asal | Tiada indikasi diluluskan direkodkan dalam data yang dikompilasi (kalsium sitrat dikenali sebagai suplemen kalsium) |
 | Indikasi Baharu yang Diramalkan | Hemoglobinopati |
-| Skor Ramalan TxGNN | 99.37% |
+| Skor Ramalan TxGNN | 0.9937 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 48 daripada 48) |
+| Bilangan Pendaftaran | 48 (sah: 48) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -60,7 +60,7 @@ Kalsium sitrat ialah suplemen kalsium yang digunakan untuk membetulkan kekuranga
 
 Data mekanisme tindakan terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, kalsium sitrat ialah garam kalsium yang digunakan untuk menampung kekurangan kalsium. Hubungan mekanistik dengan hemoglobinopati tidak disokong oleh data yang dikompilasi.
 
-Satu rasional yang mungkin, misalnya isu kalsium atau kesihatan tulang pada talasemia atau penyakit sel sabit, hanyalah andaian dan tidak dibuktikan di sini. Skor TxGNN yang sangat tinggi (0.994) tidak disertai bukti klinikal atau literatur, maka ramalan ini perlu dianggap sebagai hipotesis sahaja.
+Satu rasional yang mungkin, misalnya isu kalsium atau kesihatan tulang pada talasemia atau penyakit sel sabit, hanyalah andaian dan tidak dibuktikan di sini. Skor TxGNN yang sangat tinggi (0.9937) tidak disertai bukti klinikal atau literatur, maka ramalan ini perlu dianggap sebagai hipotesis sahaja.
 
 Ramalan lain dalam senarai (infarksi miokardium, pemadaman separa lengan pendek kromosom 16, penyakit trombotik) juga berada pada peringkat S0 tanpa bukti yang kukuh. Rujuk bahagian Kesimpulan.
 
@@ -101,7 +101,7 @@ Untuk maklumat amaran dan kontraindikasi, sila rujuk risalah maklumat produk.
 
 **Justifikasi:**
 - Ramalan hemoglobinopati berada pada tahap bukti L5 (ramalan model sahaja), tanpa percubaan klinikal, tanpa literatur dan tanpa hubungan mekanistik yang disokong data.
-- Ramalan kedua, infarksi miokardium (skor 99.18%, L4), hanya mempunyai bukti tidak langsung (kajian haiwan, kajian fisiologi dan ulasan umum), dan literatur menimbulkan kebimbangan keselamatan kardiovaskular berkaitan suplemen kalsium. Ramalan pemadaman separa kromosom 16 (L5) berkemungkinan artifak model, manakala penyakit trombotik (L5) hanyalah hipotesis kerana kalsium sitrat oral tidak dijangka memberi kesan antitrombotik.
+- Ramalan kedua, infarksi miokardium (skor 0.9918, L4), hanya mempunyai bukti tidak langsung (kajian haiwan, kajian fisiologi dan ulasan umum), dan literatur menimbulkan kebimbangan keselamatan kardiovaskular berkaitan suplemen kalsium. Ramalan pemadaman separa kromosom 16 (L5) berkemungkinan artifak model, manakala penyakit trombotik (L5) hanyalah hipotesis kerana kalsium sitrat oral tidak dijangka memberi kesan antitrombotik.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Risalah maklumat produk NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang saringan keselamatan)

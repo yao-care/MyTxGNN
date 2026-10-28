@@ -7,13 +7,14 @@ drugbank_id: "DB00695"
 drug_name: "Furosemide"
 kg_predictions: 15
 dl_predictions: 11
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/furosemide/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Furosemide
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **15** ramalan graf pengetahuan dan **11** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **15** ramalan model TxGNN (pembelajaran mendalam) dan **11** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

@@ -4,17 +4,17 @@ title: Oxcarbazepine
 parent: High Evidence (L1-L2)
 nav_order: 550
 evidence_level: L1
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Oxcarbazepine: indikasi baharu diramal Epilepsi separa (partial epilepsy) (tahap bukti L1). Indikasi asal: Tiada data direkodkan"
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
+description: "Oxcarbazepine: indikasi baharu diramal Restless legs syndrome (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Oxcarbazepine
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L1** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-## Oxcarbazepine: Daripada Indikasi Asal (Tidak Direkodkan) kepada Epilepsi Separa (Partial Epilepsy)
+## Oxcarbazepine: Restless legs syndrome
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Namun, ini lebih kepada **pengesahan penggunaan sedia ada** berbanding pengitara
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data direkodkan (data berkaitan lesen NPRA tidak tersedia) |
-| Indikasi Baharu yang Diramalkan | Epilepsi separa (partial epilepsy) |
-| Skor Ramalan TxGNN | 99.88% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Restless legs syndrome |
+| Skor Ramalan TxGNN | 0.9989 |
 | Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (mengikut data yang dikumpulkan; perlu disahkan) |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
@@ -62,7 +62,7 @@ Namun, ini lebih kepada **pengesahan penggunaan sedia ada** berbanding pengitara
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia daripada pangkalan data yang dikumpulkan. Berdasarkan maklumat sedia ada, oxcarbazepine dan metabolit aktifnya, MHD (10-monohydroxy derivative), menyekat saluran natrium bergantung voltan dan menstabilkan membran neuron yang terlalu teruja. Ini ialah mekanisme mapan untuk kawalan sawan fokus.
 
-Epilepsi separa ialah sasaran klasik bagi ubat penyekat saluran natrium. Beberapa percubaan Fasa 3, termasuk formulasi lepas-lanjutan (XR) sebagai terapi tambahan, serta garis panduan dan meta-analisis rangkaian data peserta individu, memberikan bukti langsung. Perlu diperhatikan bahawa data menyenaraikan ubat ini sebagai "tidak dipasarkan" tanpa indikasi asal. Ini nampaknya jurang data, kerana oxcarbazepine diluluskan secara meluas untuk sawan separa. Status pasaran dan indikasi berlabel perlu disahkan melalui sumber kawal selia.
+Epilepsi separa ialah sasaran klasik bagi ubat penyekat saluran natrium. Beberapa percubaan Fasa 3, termasuk formulasi lepas-lanjutan (XR) sebagai terapi tambahan, serta garis panduan dan meta-analisis rangkaian data peserta individu, memberikan bukti langsung. Ini nampaknya jurang data, kerana oxcarbazepine diluluskan secara meluas untuk sawan separa. Status pasaran dan indikasi berlabel perlu disahkan melalui sumber kawal selia.
 
 ---
 

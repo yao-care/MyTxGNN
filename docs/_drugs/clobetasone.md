@@ -50,10 +50,10 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 |------|------|
 | Indikasi Asal | Tiada data (tiada lesen NPRA yang direkodkan) |
 | Indikasi Baharu yang Diramalkan | Limfoma sel-T kutaneus primer (primary cutaneous T-cell lymphoma) |
-| Skor Ramalan TxGNN | 99.97% |
+| Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -70,15 +70,15 @@ Sembilan ramalan lain turut disenaraikan, semuanya pada tahap bukti L5 dan berst
 
 | Kedudukan | Penyakit | Skor TxGNN | Penilaian Ringkas |
 |------|------|------|------|
-| 2 | Sindrom Sézary | 99.78% | Varian CTCL leukemia; memerlukan terapi sistemik, agen topikal paling banyak sebagai tambahan |
-| 3 | Limfoma sel-B kutaneus primer | 99.77% | Kortikosteroid topikal tiada peranan mantap sebagai terapi utama; hubungan spekulatif |
-| 4 | Penyakit kulit longgar granulomatus (granulomatous slack skin) | 99.74% | Varian CTCL yang jarang; hubungan melalui analogi |
-| 5 | Kolitis Crohn | 99.72% | Clobetasone ialah agen dermatologi topikal tanpa formulasi sasaran usus; inferens peringkat kelas sahaja |
-| 6 | Insufisiensi adrenokortikal | 99.71% | Arah keselamatan bertentangan: penggunaan topikal boleh menekan paksi HPA |
-| 7 | Limfoma sel-T bukan Hodgkin kutaneus primer | 99.70% | Kategori lebih luas bertindih dengan CTCL; rasional kelas yang sama |
-| 8 | Sindrom nefrotik | 99.69% | Pendedahan sistemik rendah, tidak mungkin mencapai paras terapeutik |
-| 9 | Teratoma sista | 99.65% | Tiada rasional mekanistik; kemungkinan artifak graf |
-| 10 | Sista dermoid saraf tunjang | 99.65% | Tiada rasional mekanistik; kemungkinan artifak graf |
+| 2 | Sindrom Sézary | 0.9978 | Varian CTCL leukemia; memerlukan terapi sistemik, agen topikal paling banyak sebagai tambahan |
+| 3 | Limfoma sel-B kutaneus primer | 0.9977 | Kortikosteroid topikal tiada peranan mantap sebagai terapi utama; hubungan spekulatif |
+| 4 | Penyakit kulit longgar granulomatus (granulomatous slack skin) | 0.9974 | Varian CTCL yang jarang; hubungan melalui analogi |
+| 5 | Kolitis Crohn | 0.9972 | Clobetasone ialah agen dermatologi topikal tanpa formulasi sasaran usus; inferens peringkat kelas sahaja |
+| 6 | Insufisiensi adrenokortikal | 0.9971 | Arah keselamatan bertentangan: penggunaan topikal boleh menekan paksi HPA |
+| 7 | Limfoma sel-T bukan Hodgkin kutaneus primer | 0.9970 | Kategori lebih luas bertindih dengan CTCL; rasional kelas yang sama |
+| 8 | Sindrom nefrotik | 0.9969 | Pendedahan sistemik rendah, tidak mungkin mencapai paras terapeutik |
+| 9 | Teratoma sista | 0.9965 | Tiada rasional mekanistik; skor datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi |
+| 10 | Sista dermoid saraf tunjang | 0.9965 | Tiada rasional mekanistik; skor datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi |
 
 ---
 

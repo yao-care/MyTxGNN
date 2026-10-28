@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Netarsudil
-parent: Low Evidence (L4-L5)
+parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 522
-evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-15
-description: "Netarsudil: indikasi baharu diramal Glaukoma keturunan primer (primary hereditary glaucoma) (tahap bukti L5). Indikasi asal: Glaukoma sudut terbuka, hipertensi okular"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Netarsudil: kegunaan sedia ada dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
+predicted_indications: []
 ---
 
 # Netarsudil
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **2** 
+Tahap bukti: **N/A** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,52 +32,46 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Netarsudil: Daripada Glaukoma Sudut Terbuka kepada Glaukoma Keturunan Primer
+<!-- known-uses-page -->
+<!-- description: Netarsudil: kegunaan sedia ada dan status pasaran di Malaysia; kini tiada calon indikasi baharu -->
+## Netarsudil: Kegunaan sedia ada dan status pasaran di Malaysia
 {: .text-alpha }
 
-## Ringkasan Satu Ayat
+## Ringkasan
+Model TxGNN (skor ≥ 0.99) menghasilkan calon untuk Netarsudil, tetapi semua calon yang boleh dijejaki kepada sumber ialah kegunaan sedia ada. Oleh itu, buat masa ini tiada indikasi baharu yang diramalkan untuk ubat ini. Halaman ini hanya menyenaraikan kegunaan sedia ada dan status pasaran di Malaysia.
 
-Netarsudil ialah penyekat Rho kinase (ROCK) dalam bentuk titisan mata, pada asalnya digunakan untuk merawat glaukoma sudut terbuka dan hipertensi okular.
-Model TxGNN meramalkan ia mungkin berkesan untuk **glaukoma keturunan primer**.
-Setakat ini **tiada ujian klinikal** dan **tiada penerbitan** khusus untuk indikasi ini, jadi ramalan ini hanya berasaskan model.
-
----
-
-## Gambaran Ringkas
-
+## Gambaran ringkas
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Glaukoma sudut terbuka, hipertensi okular |
-| Indikasi Baharu yang Diramalkan | Glaukoma keturunan primer (*primary hereditary glaucoma*) |
-| Skor Ramalan TxGNN | 99.50% |
-| Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan yang Disyorkan | Hold |
+| Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejaki ialah kegunaan sedia ada) |
+| Kegunaan sedia ada dalam kalangan calon model | 2 |
+| Tahap bukti | Tidak berkenaan |
+| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 
----
+## Kegunaan sedia ada dalam kalangan calon model
 
-## Mengapa Ramalan Ini Munasabah?
+### Diluluskan (disokong oleh lesen atau label)
+| Indikasi | Sumber |
+|------|------|
+| glaukoma (glaucoma) | Lesen di negara lain; indikasi diluluskan: open-angle glaucoma |
 
-Netarsudil menyekat ROCK (ROCK1 dan ROCK2) serta pengangkut norepinefrin. Kesannya ialah meningkatkan aliran keluar akueus melalui jaringan trabekular, menurunkan tekanan vena episklera dan mengurangkan penghasilan akueus. Ketiga-tiga kesan ini menurunkan tekanan intraokular (IOP).
+### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+| Indikasi | Kategori yang diluluskan |
+|------|------|
+| glaukoma primer keturunan (primary hereditary glaucoma) | glaucoma |
 
-Glaukoma keturunan primer berkait rapat dengan glaukoma sudut terbuka, iaitu indikasi asal ubat ini. Jika kecacatan laluan aliran keluar menjadi punca penyakit, mekanisme netarsudil secara teori boleh digunakan. Skor TxGNN yang sangat tinggi (0.995) mencerminkan kedekatan penyakit ini dengan glaukoma yang sudah diluluskan.
+### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+| Indikasi |
+|------|
+| Tiada |
 
-Namun terdapat had yang jelas. Bentuk keturunan, terutamanya jenis kongenital primer atau juvenil, sering melibatkan kelainan perkembangan sudut. Keberkesanan netarsudil pada kumpulan ini belum dibuktikan dan mungkin terhad. Bukti setakat ini hanyalah ramalan model.
+## Market information
 
----
-
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk indikasi ini.
-
----
-
-## Bukti Literatur
-
-Pada masa ini tiada literatur berkaitan untuk indikasi ini.
-
----
+| No. pendaftaran | Produk | Bentuk dos | Status |
+|------|------|------|------|
+| MAL25046004ACZ | Rhopressa (netarsudil ophthalmic solution) 0.02% |  | Sah |
+| MAL25046005ACZ | Rocklatan (netarsudil and latanoprost ophthalmic solution) 0 |  | Sah |
 
 ## Pertimbangan Keselamatan
 
@@ -86,21 +81,6 @@ Sebagai maklumat tambahan, laporan kes dalam literatur tentang penggunaan netars
 
 ---
 
-## Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Hold**
-
-**Justifikasi:**
-- Ramalan ini hanya disokong oleh model (L5), tanpa ujian klinikal atau literatur khusus untuk glaukoma keturunan primer.
-- Bentuk kongenital dan juvenil melibatkan kelainan perkembangan sudut, jadi keberkesanan mungkin terhad walaupun mekanismenya munasabah.
-
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Maklumat amaran dan kontraindikasi daripada risalah pek NPRA, kerana data keselamatan ini belum diperoleh.
-- Pengesahan status pasaran di Malaysia. Data semasa menunjukkan "tidak dipasarkan", tetapi wujud banyak ujian fasa 4 untuk Rhopressa dan Rocklatan, jadi status ini perlu disemak.
-- Data mekanisme tindakan yang lebih terperinci, kerana data asal tidak lengkap.
-- Kajian praklinikal atau klinikal kecil khusus pada subjenis glaukoma keturunan, termasuk pertimbangan keselamatan bagi pesakit kanak-kanak.
-
-**Nota tambahan:** Ramalan kedua model, iaitu **glaukoma** umum, mempunyai bukti kukuh (tahap L1). Ini termasuk beberapa ujian fasa 3 yang selesai, antaranya NCT02558374, NCT02674854 dan NCT02207491, serta beberapa RCT yang diterbitkan. Walau bagaimanapun, indikasi ini hampir sama dengan indikasi asal ubat, jadi ia lebih merupakan penggunaan sedia ada (*on-label*) daripada penemuan pengalihan guna (*repurposing*) yang sebenar.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

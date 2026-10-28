@@ -8,6 +8,7 @@ nav_order: 280
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Dextrose Monohydrate
@@ -47,8 +48,8 @@ Dextrose Monohydrate adalah monosakarida ringkas (glukosa) yang digunakan secara
 | Indikasi Baru yang Diramalkan | **Tiada** — TxGNN tidak mengembalikan sebarang ramalan |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 31 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 31 daripada 31) |
+| Bilangan Pendaftaran | 31 (sah: 31) |
 | Keputusan yang Dicadangkan | **Tahan** |
 
 ---

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Fluoxetine
-parent: High Evidence (L1-L2)
+parent: Medium Evidence (L3)
 nav_order: 366
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Fluoxetine: indikasi baharu diramal Gangguan obsesif-kompulsif (OCD) (tahap bukti L1). Indikasi asal: Tiada data (tiada lesen NPRA yang direkodkan)"
+evidence_level: L3
+indication_count: 9
 monitor_inn: "Fluoxetine"
-predicted_indications: ["schizotypal personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia"]
+predicted_indications: ["schizotypal personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
+last_modified_at: 2026-10-23
+description: "Fluoxetine: indikasi baharu diramal Schizotypal personality disorder (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Fluoxetine
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L3** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,117 +33,81 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-## Fluoxetine: Daripada Indikasi Asal (Tiada Data) kepada Gangguan Obsesif-Kompulsif
+## Fluoxetine: Schizotypal personality disorder
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Fluoxetine ialah perencat pengambilan semula serotonin terpilih (SSRI). Indikasi asalnya tidak dapat disahkan daripada data pendaftaran tempatan yang dikumpulkan untuk laporan ini.
-Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan obsesif-kompulsif (OCD)**, dengan **14 ujian klinikal** dan **20 penerbitan** yang disenaraikan dalam data, termasuk beberapa ujian fasa 3/4 yang sudah selesai.
-
----
+Fluoxetine ialah ubat dalam kelas perencat pengambilan semula serotonin terpilih (SSRI) dan kini didaftarkan di Malaysia dalam 7 produk. Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan personaliti skizotipal**. Sokongan setakat ini terhad kepada **tiada percubaan klinikal berdaftar** dan **10 penerbitan**, yang kebanyakannya kajian kecil, kajian terbuka atau ulasan.
 
 ## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen NPRA yang direkodkan) |
-| Indikasi Baharu yang Diramal | Gangguan obsesif-kompulsif (OCD) |
-| Skor Ramalan TxGNN | 99.96% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikumpulkan) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails |
-
----
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Schizotypal personality disorder |
+| Skor Ramalan TxGNN | 0.9992 |
+| Tahap Bukti | L3 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
+| Keputusan Disyorkan | Tahan |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan (MOA) belum tersedia dalam data yang dikumpulkan. Berdasarkan maklumat yang diketahui, fluoxetine ialah SSRI. Disfungsi sistem serotonin dalam litar kortiko-striato-talamo-kortikal dikaitkan dengan OCD, dan perencat pengambilan semula serotonin (SRI) ialah farmakoterapi lini pertama bagi keadaan ini.
+Data terperinci tentang mekanisme tindakan belum tersedia. Berdasarkan maklumat yang diketahui, fluoxetine tergolong dalam kelas SSRI. Modulasi serotonin boleh mengurangkan ketidakstabilan afektif serta ciri obsesif dan kecemasan yang sering terdapat dalam gambaran klinikal personaliti skizotipal dan sempadan.
 
-Skor TxGNN yang sangat tinggi selaras dengan bukti klinikal yang meluas. Data yang dikumpulkan menyenaraikan fluoxetine sebagai "tidak dipasarkan" tanpa indikasi asal. Ini ialah jurang data dan bercanggah dengan penggunaan OCD fluoxetine yang mantap di banyak bidang kuasa, maka perlu disahkan dengan sumber kawal selia.
+Satu kajian terbuka awal (PMID 1853957) mendapati penurunan ketara dalam kecederaan diri dan skor senarai semak gejala selepas 12 minggu fluoxetine. Walau bagaimanapun, kajian itu kecil (22 pesakit), tidak dibutakan, dan merangkumi pesakit sempadan serta skizotipal. Kajian itu sendiri hanya mencadangkan percubaan terkawal diperlukan. Ulasan yang ada juga menyatakan tiada ubat pilihan utama untuk gangguan ini.
 
----
+Hubungan antara penggunaan asal fluoxetine dengan indikasi baharu ini tidak dapat dinilai sepenuhnya kerana data indikasi lesen tempatan tidak tersedia. Ramalan ini perlu dianggap sebagai persoalan penyelidikan, bukan sebagai penggunaan yang telah mantap.
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00680602](https://clinicaltrials.gov/study/NCT00680602) | Fasa 4 | Selesai | 158 | Perbandingan rawak terapi tingkah laku kognitif (CBT) berkumpulan lawan fluoxetine dalam OCD |
-| [NCT00074815](https://clinicaltrials.gov/study/NCT00074815) | Fasa 3 | Selesai | 124 | CBT sebagai tambahan kepada SRI bagi OCD pediatrik yang respons separa |
-| [NCT02022709](https://clinicaltrials.gov/study/NCT02022709) | Fasa 4 | Selesai | 78 | Kesan ERP, SSRI dan gabungan keduanya dalam OCD; peramal respons |
-| [NCT00466609](https://clinicaltrials.gov/study/NCT00466609) | Fasa 4 | Selesai | 54 | Strategi penambahan (fluoxetine + quetiapine atau clomipramine) bagi pesakit tidak respons |
-| [NCT00592852](https://clinicaltrials.gov/study/NCT00592852) | Fasa 4 | Ditamatkan | 13 | Kajian perintis fluoxetine dalam OCD kanak-kanak dengan gangguan bipolar; ditamatkan awal |
-| [NCT04899687](https://clinicaltrials.gov/study/NCT04899687) | Fasa 2 | Sedang merekrut | 60 | Fluoxetine/dekstrometorfan dalam OCD dan gangguan berkaitan (label terbuka) |
-| [NCT00758966](https://clinicaltrials.gov/study/NCT00758966) | Fasa 2 | Ditamatkan | 8 | Naltrexone SR dan/atau fluoxetine dalam OCD; ditamatkan awal |
-| [NCT04131829](https://clinicaltrials.gov/study/NCT04131829) | Fasa 1/2 | Sedang merekrut | 100 | Perubahan rangkaian otak yang meramal respons farmakoterapi OCD |
-| [NCT02285699](https://clinicaltrials.gov/study/NCT02285699) | Tidak berkenaan | Selesai | 43 | Kajian perintis mikrobiota usus dalam OCD sebelum dan selepas rawatan SSRI |
-| [NCT00000373](https://clinicaltrials.gov/study/NCT00000373) | Fasa 4 | Selesai | 74 | Rawatan OCD spektrum sindrom Tourette (fluvoxamine dahulu) |
-
----
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [32242450](https://pubmed.ncbi.nlm.nih.gov/32242450/) | 2020 | Tinjauan sistematik/meta-analisis | Nordic J Psychiatry | Keberkesanan fluoxetine dalam rawatan akut OCD kanak-kanak dan remaja |
-| [11437015](https://pubmed.ncbi.nlm.nih.gov/11437015/) | 2001 | Ujian terkawal plasebo | J Am Acad Child Adolesc Psychiatry | Fluoxetine dalam OCD kanak-kanak dan remaja, kajian dua buta 13 minggu |
-| [11910259](https://pubmed.ncbi.nlm.nih.gov/11910259/) | 2002 | Ujian rawak dua buta | J Clin Psychopharmacol | Sertraline lawan fluoxetine dalam OCD selama 6 bulan |
-| [28477500](https://pubmed.ncbi.nlm.nih.gov/28477500/) | 2017 | Meta-analisis | J Affect Disord | OCD mempunyai respons plasebo (dan antidepresan) yang lebih rendah berbanding gangguan anxiety lain |
-| [8263222](https://pubmed.ncbi.nlm.nih.gov/8263222/) | 1993 | Meta-analisis | J Behav Ther Exp Psychiatry | Clomipramine, fluoxetine dan terapi tingkah laku semuanya berkesan dalam OCD |
-| [38703743](https://pubmed.ncbi.nlm.nih.gov/38703743/) | 2024 | Tinjauan | Compr Psychiatry | Keselamatan dan toleransi SRI dos tinggi luar label dalam OCD |
-| [22305974](https://pubmed.ncbi.nlm.nih.gov/22305974/) | 2012 | Tinjauan | BMJ Clin Evid | Tinjauan klinikal OCD |
-| [2140372](https://pubmed.ncbi.nlm.nih.gov/2140372/) | 1990 | Perbandingan retrospektif | J Clin Psychopharmacol | Clomipramine lawan fluoxetine: kesan sampingan dan keberkesanan |
-| [11488259](https://pubmed.ncbi.nlm.nih.gov/11488259/) | 2001 | Tinjauan literatur | L'Encephale | Nilai fluoxetine dalam OCD dewasa |
-| [3894437](https://pubmed.ncbi.nlm.nih.gov/3894437/) | 1985 | Kajian label tunggal buta | J Clin Psychopharmacol | Fluoxetine mengurangkan gejala obsesi dan ritual pada 10 pesakit |
-
----
+| [29955451](https://pubmed.ncbi.nlm.nih.gov/29955451/) | 2016 | Ulasan | The Mental Health Clinician | Mengulas rawatan farmakologi untuk gangguan personaliti kluster A (termasuk skizotipal); tiada data keberkesanan fluoxetine yang kukuh |
+| [8227492](https://pubmed.ncbi.nlm.nih.gov/8227492/) | 1993 | Ulasan | Journal of Clinical Psychopharmacology | Kerangka konsep dan strategi klinikal farmakoterapi gangguan personaliti |
+| [12214786](https://pubmed.ncbi.nlm.nih.gov/12214786/) | 2002 | Ulasan | Psychological Medicine | Diagnosis gangguan personaliti dinilai sebelum dan selepas rawatan fluoxetine pada pesakit kemurungan |
+| [1853957](https://pubmed.ncbi.nlm.nih.gov/1853957/) | 1991 | Kohort (terbuka) | American Journal of Psychiatry | Percubaan 12 minggu pada 22 pesakit sempadan/skizotipal; kecederaan diri dan skor gejala berkurang |
+| [9448667](https://pubmed.ncbi.nlm.nih.gov/9448667/) | 1998 | Kohort | Journal of Clinical Psychiatry | Tiada ubat pilihan untuk gangguan skizotipal atau sempadan; pelbagai kelas ubat memberi manfaat kepada sesetengah pesakit mengikut gejala |
+| [15209835](https://pubmed.ncbi.nlm.nih.gov/15209835/) | 2004 | Kohort | Aust N Z J Psychiatry | Perbandingan personaliti dan hasil rawatan dalam gangguan bipolar II dan kemurungan major |
+| [9664779](https://pubmed.ncbi.nlm.nih.gov/9664779/) | 1998 | Laporan kes | Psychosomatics | Psikosis sementara dengan polidipsia psikogenik pada pesakit skizotipal yang mengambil fluoxetine |
 
 ## Maklumat Pasaran Malaysia
 
-Menurut data yang dikumpulkan untuk laporan ini, tiada lesen fluoxetine yang direkodkan dalam pangkalan data NPRA (jumlah pendaftaran: 0). Ini perlu disahkan dengan sumber kawal selia rasmi.
+| Nombor Kebenaran | Nama Produk | Pengilang |
+|---------|------|------|
+| MAL20061563AZ | SALIPAX CAPSULE | MEPHARM (MALAYSIA) SDN. BHD. |
+| MAL06071075AZ | ANZACK TABLETS 20 MG | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. |
+| MAL06041463AZ | Flexin 20 mg Capsule | SM PHARMACEUTICALS SDN. BHD. |
+| MAL07031127ACZ | Prozac Capsule 20mg | ZUELLIG PHARMA SDN. BHD. |
+| MAL08010743ACZ | Fluovex capsule 20mg | APEX PHARMACY MARKETING SDN. BHD. |
 
----
+Terdapat 7 pendaftaran produk tunggal yang sah; 5 yang utama disenaraikan di atas. Dua lagi ialah Magrilan 20mg Capsules (KOMEDIC SDN BHD, MAL10100126AZ) dan Provatine Capsule 20mg (DUOPHARMA (M) SENDIRIAN BERHAD, MAL06011876AZ). Teks indikasi lulus dan bentuk dos tidak direkodkan dalam data yang dikompilasi.
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat** (100 interaksi direkodkan; contoh utama):
+- **Isyarat keselamatan daripada literatur**: satu laporan kes (PMID 9664779) menerangkan psikosis sementara dengan polidipsia pada pesakit skizotipal yang mengambil fluoxetine. Ini wajar diberi perhatian dalam populasi sasaran.
+- **Interaksi ubat**: data yang dikompilasi merekodkan 100 interaksi. Interaksi tahap **Major** termasuk bupropion, lorcaserin, diethylpropion, dolasetron, eliglustat, palonosetron dan cisapride. Banyak interaksi tahap sederhana juga direkodkan, contohnya dengan aspirin, morfin, klaritromisin, famotidine dan loperamide.
 
-- **Tahap Major**: bupropion, lorcaserin, diethylpropion, dolasetron, eliglustat, palonosetron, cisapride
-- **Tahap Moderate**: famotidine, loperamide, morphine, asid asetilsalisilik, clarithromycin, chlorpropamide, bisacodyl, dronabinol, eluxadoline
-
-Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi.
-
----
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Tahan**
 
-**Rasional:**
-- Terdapat beberapa ujian fasa 3/4 yang selesai, tinjauan sistematik dan ujian terkawal plasebo dalam OCD, dan SSRI diiktiraf sebagai lini pertama. Namun status pasaran dan indikasi asal tempatan tidak jelas dan data keselamatan belum lengkap.
+**Justifikasi:**
+- Walaupun skor TxGNN sangat tinggi, bukti klinikal langsung hanya satu kajian terbuka kecil dan beberapa ulasan, tanpa percubaan terkawal atau percubaan berdaftar.
+- Terdapat isyarat keselamatan (psikosis sementara dalam laporan kes) dan data keselamatan sisipan pek yang tidak lengkap.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Sahkan status pendaftaran dan indikasi fluoxetine dengan NPRA (data semasa menunjukkan "tidak dipasarkan", yang bercanggah dengan penggunaan sedia ada)
-- Dapatkan amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data berstatus penyekat)
-- Lengkapkan data mekanisme tindakan (MOA) daripada DrugBank
-- Rancangan pemantauan interaksi ubat, terutamanya bagi interaksi tahap Major
-
----
-
-## Indikasi Lain yang Diramal (Ringkasan)
-
-| Penyakit | Skor TxGNN | Tahap Bukti | Cadangan |
-|------|------|------|------|
-| Gangguan anxiety | 99.94% | L1 | Proceed with Guardrails (perlu tentukan subjenis: GAD, panik, mutisme terpilih) |
-| Gangguan personaliti skizotipal | 99.92% | L3 | Research Question |
-| Gangguan personaliti skizoid | 99.92% | L4 | Hold |
-| Gangguan personaliti histrionik | 99.92% | L5 | Hold |
-| Gangguan personaliti paranoid | 99.92% | L5 | Hold |
-| Tortikolis paroksismal jinak bayi | 99.89% | L5 | Hold |
-| Kemurungan endogen | 99.87% | L1 | Proceed with Guardrails (bukti berasal daripada kemurungan major) |
-| Agorafobia | 99.86% | L2 | Proceed with Guardrails (bukti daripada gangguan panik) |
-| Gangguan distimik | 99.83% | L2 | Proceed with Guardrails |
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Memuat turun dan menganalisis sisipan pek NPRA (amaran, kontraindikasi dan indikasi lulus), kerana ini menghalang saringan keselamatan.
+- Data mekanisme tindakan terperinci (contohnya daripada DrugBank).
+- Percubaan klinikal terkawal berplasebo untuk fluoxetine dalam gangguan personaliti skizotipal.
+- Pelan pemantauan keselamatan khusus untuk pesakit dengan ciri psikotik, termasuk risiko interaksi ubat.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

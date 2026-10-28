@@ -8,6 +8,7 @@ nav_order: 53
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Ambroxol Hcl
@@ -51,8 +52,8 @@ Penilaian keseluruhan sedang **Ditangguhkan**, menunggu penyelesaian saluran ram
 | Indikasi Baru yang Diramalkan | Tidak tersedia — ramalan TxGNN belum dilakukan |
 | Skor Ramalan TxGNN | Tidak tersedia |
 | Tahap Bukti | L5 (tiada kajian sebenar boleh dipulihkan; ramalan model tidak hadir) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Ditangguhkan** |
 
 ---

@@ -8,6 +8,7 @@ nav_order: 303
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Docusate Sodium
@@ -49,7 +50,8 @@ Docusate sodium adalah surfaktant anionik yang terkenal sebagai pelembut najis, 
 | Indikasi Baharu yang Diramalkan | **Tiada** — tiada ramalan yang dijana |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Jumlah Pendaftaran | 1 |
 | Keputusan yang Disyorkan | **Tahan** |
 

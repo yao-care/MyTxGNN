@@ -6,9 +6,9 @@ nav_order: 389
 evidence_level: L4
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Glutamic Acid: indikasi baharu diramal Osteoporosis pascamenopaus (tahap bukti L4). Indikasi asal: Tiada data indikasi yang diluluskan"
 monitor_inn: "GLUTAMIC ACID"
 predicted_indications: ["postmenopausal osteoporosis", "pregnancy associated osteoporosis", "primary hereditary glaucoma", "gastroparesis (disease)"]
+description: "Glutamic Acid: indikasi baharu diramal Osteoporosis pascamenopaus (postmenopausal osteoporosis) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Glutamic Acid
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **4**
 
 </div>
 
-## Asid Glutamik: Daripada Penggunaan Asal kepada Osteoporosis Pascamenopaus
+## Glutamic Acid: Osteoporosis pascamenopaus (postmenopausal osteoporosis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini terdapat **0 percubaan klinikal** dan hanya **10 penerbitan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi yang diluluskan |
-| Indikasi Baharu yang Diramalkan | Osteoporosis pascamenopaus |
-| Skor Ramalan TxGNN | 99.34% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Osteoporosis pascamenopaus (postmenopausal osteoporosis) |
+| Skor Ramalan TxGNN | 0.9934 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 29 daripada 29) |
+| Bilangan Pendaftaran | 29 (sah: 29) |
 | Keputusan Disyorkan | Hold (soalan penyelidikan sahaja) |
 
 ---
@@ -106,7 +106,6 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi rasmi, kerana 
 
 **Justifikasi:**
 - Bukti hanya di peringkat L4: tiada percubaan klinikal, dan literatur yang ada kebanyakannya mengenai vitamin K2/D3 atau sebatian lain, bukan asid glutamik. Skor TxGNN yang tinggi tidak boleh menggantikan bukti klinikal.
-- Produk ini tidak dipasarkan di Malaysia dan senarai kontraindikasi graf pengetahuan (terutamanya penyakit buah pinggang dan hiperkalsemia) memerlukan penilaian keselamatan lanjut.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat penilaian keselamatan)
@@ -114,7 +113,7 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi rasmi, kerana 
 - Kajian praklinikal dan klinikal yang menguji asid glutamik secara langsung dengan hasil BMD atau fraktur
 - Penjelasan tentang indikasi asal dan rupa bentuk/laluan pentadbiran yang sesuai
 
-**Nota mengenai indikasi lain yang diramalkan:** osteoporosis berkaitan kehamilan (skor 99.18%) dan glaukoma keturunan primer (skor 99.13%) tidak mempunyai percubaan atau literatur yang menyokong (L5, Hold). Gastroparesis (skor 99.11%) hanya mempunyai tiga makalah mengenai gastroparesis autoimun yang tidak menilai asid glutamik (L5, Hold).
+**Nota mengenai indikasi lain yang diramalkan:** osteoporosis berkaitan kehamilan (skor 0.9918) dan glaukoma keturunan primer (skor 0.9913) tidak mempunyai percubaan atau literatur yang menyokong (L5, Hold). Gastroparesis (skor 0.9911) hanya mempunyai tiga makalah mengenai gastroparesis autoimun yang tidak menilai asid glutamik (L5, Hold).
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

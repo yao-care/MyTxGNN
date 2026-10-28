@@ -6,9 +6,9 @@ nav_order: 413
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Imiquimod: indikasi baharu diramal Neoplasma pra-malignan (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "Imiquimod"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
+description: "Imiquimod: indikasi baharu diramal Neoplasma pra-malignan (pre-malignant neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Imiquimod
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Imiquimod: Daripada Tiada Indikasi Berdaftar kepada Neoplasma Pra-malignan
+## Imiquimod: Neoplasma pra-malignan (pre-malignant neoplasm)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma pra-malignan**, den
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
-| Indikasi Baharu yang Diramalkan | Neoplasma pra-malignan |
-| Skor Ramalan TxGNN | 99.92% |
-| Tahap Bukti | L1 (mengikut penilaian data yang dikumpulkan; lihat catatan di bawah) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Neoplasma pra-malignan (pre-malignant neoplasm) |
+| Skor Ramalan TxGNN | 0.9992 |
+| Tahap Bukti | L5 (mengikut penilaian data yang dikumpulkan; lihat catatan di bawah) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 > **Catatan tahap bukti:** Tahap L1 mensyaratkan sekurang-kurangnya 2 RCT Fasa 3 yang selesai. Dalam data ini, hanya satu percubaan Fasa 3 yang selesai (label terbuka, satu lengan, n=20), manakala satu lagi ditamatkan awal (n=9). Dengan ketat, kriteria L1 tidak dipenuhi sepenuhnya, dan bukti sebenar lebih hampir kepada L2–L3. Tafsirkan tahap ini dengan berhati-hati.
@@ -95,7 +95,6 @@ Perlu diingat bahawa percubaan Fasa 3 adalah kecil (n=20 dan n=9, yang kedua dit
 
 ## Maklumat Pasaran Malaysia
 
-Imiquimod tidak mempunyai sebarang pendaftaran di Malaysia berdasarkan data yang dikumpulkan (status: tidak dipasarkan; jumlah pendaftaran: 0).
 
 ---
 
@@ -128,15 +127,15 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi.
 
 | Penyakit Diramalkan | Skor TxGNN | Tahap Bukti | Syor |
 |------|------|------|------|
-| Neoplasma benigna mukosa bukal | 99.91% | L3 | Soalan Penyelidikan (kajian skop, model haiwan, laporan kes; terdapat isyarat keselamatan pertukaran malignan) |
-| Sista odontogenik | 99.91% | L4 | Soalan Penyelidikan (bukti tidak langsung melalui sindrom Gorlin-Goltz dan karsinoma sel basal) |
-| Neuroblastoma serviks | 99.91% | L5 | Hold |
-| Neoplasma benigna lidah | 99.91% | L5 | Hold |
-| Teratoma nasofaring | 99.91% | L5 | Hold |
-| Neoplasma sista | 99.91% | L5 | Hold |
-| Neoplasma telinga dalam | 99.91% | L5 | Hold |
-| Neoplasma kelenjar air liur utama | 99.91% | L5 | Hold |
-| Schwannoma foramen jugular | 99.91% | L5 | Hold |
+| Neoplasma benigna mukosa bukal | 0.9991 | L3 | Soalan Penyelidikan (kajian skop, model haiwan, laporan kes; terdapat isyarat keselamatan pertukaran malignan) |
+| Sista odontogenik | 0.9991 | L4 | Soalan Penyelidikan (bukti tidak langsung melalui sindrom Gorlin-Goltz dan karsinoma sel basal) |
+| Neuroblastoma serviks | 0.9991 | L5 | Hold |
+| Neoplasma benigna lidah | 0.9991 | L5 | Hold |
+| Teratoma nasofaring | 0.9991 | L5 | Hold |
+| Neoplasma sista | 0.9991 | L5 | Hold |
+| Neoplasma telinga dalam | 0.9991 | L5 | Hold |
+| Neoplasma kelenjar air liur utama | 0.9991 | L5 | Hold |
+| Schwannoma foramen jugular | 0.9991 | L5 | Hold |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

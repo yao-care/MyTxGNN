@@ -4,17 +4,17 @@ title: Desvenlafaxine
 parent: Low Evidence (L4-L5)
 nav_order: 268
 evidence_level: L4
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Desvenlafaxine: indikasi baharu diramal Gangguan obsesif-kompulsif (OCD) (tahap bukti L4). Indikasi asal: Kemurungan unipolar, kemurungan endogen, gangguan kemurungan major…"
 monitor_inn: "desvenlafaxine"
-predicted_indications: ["obsessive-compulsive disorder", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "dysthymic disorder", "agoraphobia", "melancholia"]
+predicted_indications: ["obsessive-compulsive disorder", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "agoraphobia"]
+description: "Desvenlafaxine: indikasi baharu diramal Gangguan obsesif-kompulsif (obsessive-compulsive disorder) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Desvenlafaxine
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Desvenlafaxine: Daripada Gangguan Kemurungan kepada Gangguan Obsesif-Kompulsif
+## Desvenlafaxine: Gangguan obsesif-kompulsif (obsessive-compulsive disorder)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini **tiada ujian klinikal** dan hanya **3 penerbitan** yang tida
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Kemurungan unipolar, kemurungan endogen, gangguan kemurungan major, gangguan kecemasan |
-| Indikasi Baharu yang Diramalkan | Gangguan obsesif-kompulsif (OCD) |
-| Skor Ramalan TxGNN | 99.91% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Gangguan obsesif-kompulsif (obsessive-compulsive disorder) |
+| Skor Ramalan TxGNN | 0.9991 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---
@@ -84,7 +84,6 @@ Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Desvenlafaxine pada masa ini tidak mempunyai pendaftaran di Malaysia dan tidak dipasarkan.
 
 ---
 

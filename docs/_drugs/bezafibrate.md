@@ -8,6 +8,7 @@ nav_order: 147
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Bezafibrate
@@ -49,8 +50,8 @@ Bezafibrate ialah ejen perendah lipid kelas fibrat, digunakan secara meluas untu
 | Petunjuk Baru yang Diramalkan | **Tiada** (tiada ramalan TxGNN tersedia) |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | **L5** — Ramalan model belum dihasilkan |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 > **Nota tentang Petunjuk Asal:** Lesen berdaftar tunggal dalam pek bukti mempunyai medan `approved_indication_text` yang kosong. Berdasarkan pengetahuan farmakologi yang telah ditetapkan, Bezafibrate ialah fibrat yang ditunjukkan untuk hiperlipidemia dan dislipidemik bercampur.

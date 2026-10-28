@@ -3,18 +3,18 @@ layout: default
 title: Dimenhydrinate
 parent: Low Evidence (L4-L5)
 nav_order: 292
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Dimenhydrinate: indikasi baharu diramal Urtikaria alergik (allergic urticaria) (tahap bukti L4). Indikasi asal: Vertigo berpunca daripada sistem saraf pusat"
 monitor_inn: "DIMENHYDRINATE"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
+description: "Dimenhydrinate: indikasi baharu diramal Urtikaria alergik (allergic urticaria) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Dimenhydrinate
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **2** 
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-## Dimenhydrinate: Daripada Vertigo Asal Sistem Saraf Pusat dan Mabuk Perjalanan kepada Urtikaria Alergik
+## Dimenhydrinate: Urtikaria alergik (allergic urticaria)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini terdapat **0 percubaan klinikal** dan hanya **1 penerbitan** 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Vertigo berpunca daripada sistem saraf pusat; mabuk perjalanan (berdasarkan graf pengetahuan TxGNN/PrimeKG) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Urtikaria alergik (allergic urticaria) |
-| Skor Ramalan TxGNN | 99.74% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9974 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 15) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,11 +62,11 @@ tetapi setakat ini terdapat **0 percubaan klinikal** dan hanya **1 penerbitan** 
 
 Data terperinci tentang mekanisme tindakan asal (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, dimenhydrinate ialah garam bagi diphenhydramine dan 8-chlorotheophylline. Komponen diphenhydramine menyekat reseptor histamin H1, dan kesannya dalam vertigo serta mabuk perjalanan telah dikenali. Secara mekanistik ia mungkin boleh digunakan untuk urtikaria alergik.
 
-Dalam urtikaria alergik, histamin yang dilepaskan melalui reseptor H1 menyebabkan tindak balas bengkak dan kemerahan (wheal-and-flare). Oleh itu, penyekatan reseptor H1 oleh komponen diphenhydramine mempunyai asas farmakologi yang munasabah. Diphenhydramine sendiri digunakan secara klinikal untuk urtikaria dan tindak balas alergik akut. Skor TxGNN yang tinggi (0.997) selaras dengan kesan kelas antihistamin ini.
+Dalam urtikaria alergik, histamin yang dilepaskan melalui reseptor H1 menyebabkan tindak balas bengkak dan kemerahan (wheal-and-flare). Oleh itu, penyekatan reseptor H1 oleh komponen diphenhydramine mempunyai asas farmakologi yang munasabah. Diphenhydramine sendiri digunakan secara klinikal untuk urtikaria dan tindak balas alergik akut. Skor TxGNN yang tinggi (0.9974) selaras dengan kesan kelas antihistamin ini.
 
 Namun, bukti untuk dimenhydrinate secara khusus adalah tidak langsung. Ia bergantung pada komponen diphenhydramine dan satu kajian farmakokinetik sahaja, bukan data keberkesanan dalam urtikaria pada manusia.
 
-**Ramalan kedua:** TxGNN juga meramalkan **urtikaria sejuk (cold urticaria)** (skor 99.24%). Mekanismenya munasabah (pelepasan histamin oleh sel mast selepas pendedahan kepada sejuk), tetapi tiada percubaan klinikal atau literatur diperoleh. Antihistamin generasi kedua ialah rawatan barisan pertama, dan agen generasi pertama yang menyebabkan kantuk kurang diutamakan. Tahap buktinya ialah L5.
+**Ramalan kedua:** TxGNN juga meramalkan **urtikaria sejuk (cold urticaria)** (skor 0.9924). Mekanismenya munasabah (pelepasan histamin oleh sel mast selepas pendedahan kepada sejuk), tetapi tiada percubaan klinikal atau literatur diperoleh. Antihistamin generasi kedua ialah rawatan barisan pertama, dan agen generasi pertama yang menyebabkan kantuk kurang diutamakan. Tahap buktinya ialah L5.
 
 ---
 
@@ -100,7 +100,7 @@ Maklumat tambahan daripada graf pengetahuan dan pangkalan data interaksi ubat:
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan TxGNN adalah tinggi dan mekanisme kelas antihistamin H1 munasabah, tetapi bukti khusus untuk dimenhydrinate hanyalah satu kajian farmakokinetik haiwan (L4 untuk urtikaria alergik; L5 untuk urtikaria sejuk) tanpa percubaan klinikal. Ubat ini juga tidak dipasarkan di Malaysia, dan data MOA serta keselamatan daripada sisipan pakej masih tiada.
+- Ramalan TxGNN adalah tinggi dan mekanisme kelas antihistamin H1 munasabah, tetapi bukti khusus untuk dimenhydrinate hanyalah satu kajian farmakokinetik haiwan (L4 untuk urtikaria alergik; L5 untuk urtikaria sejuk) tanpa percubaan klinikal.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang saringan keselamatan)

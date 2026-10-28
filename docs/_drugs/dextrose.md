@@ -8,6 +8,7 @@ nav_order: 278
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Dextrose
@@ -47,8 +48,8 @@ Dekstrosa (glukosa) ialah agen farmasi pengisi dan terapi yang digunakan secara 
 | Petunjuk Baru Diramalkan | Tiada — tidak ada ramalan yang dihasilkan |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | L5 (Tiada ramalan atau kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 69 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 69 daripada 69) |
+| Bilangan Pendaftaran | 69 (sah: 69) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ## Mengapa Ramalan Ini Munasabah?

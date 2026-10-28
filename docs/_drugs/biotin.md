@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 152
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
-description: "Biotin: indikasi baharu diramal Dispepsia (tahap bukti L5). Indikasi asal: Kekurangan biotin pemakanan"
 monitor_inn: "BIOTIN"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
+last_modified_at: 2026-10-27
+description: "Biotin: indikasi baharu diramal Dispepsia (dyspepsia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Biotin
@@ -33,67 +33,71 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Biotin: Daripada Kekurangan Biotin Pemakanan kepada Dispepsia
+## Biotin: Kofaktor karboksilase → Dispepsia (dyspepsia)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Biotin (vitamin B7) pada asalnya digunakan untuk merawat kekurangan biotin pemakanan.
-Model TxGNN meramalkan ia mungkin berkesan untuk **dispepsia**,
-tetapi pada masa ini **tiada percubaan klinikal** dan hanya **6 penerbitan** yang berkaitan secara longgar (semuanya kes laporan atau kajian pemerhatian, tiada bukti keberkesanan langsung).
+Biotin ialah vitamin larut air yang berfungsi sebagai kofaktor kepada enzim karboksilase dalam metabolisme karbohidrat, lemak dan asid amino. Model TxGNN meramalkan ia mungkin berguna untuk **dispepsia (dyspepsia)** dengan skor 0.9943. Namun, data yang dikumpulkan untuk laporan ini tidak mengandungi sebarang percubaan klinikal dan tiada kajian yang menilai biotin secara langsung untuk dispepsia, jadi tahap bukti hanyalah ramalan model.
 
 ---
 
-## Gambaran Ringkas
+## Gambaran Keseluruhan
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Kekurangan biotin pemakanan |
-| Indikasi Baharu yang Diramalkan | Dispepsia |
-| Skor Ramalan TxGNN | 99.43% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Dispepsia (dyspepsia) |
+| Skor Ramalan TxGNN | 0.9943 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan yang Disyorkan | Hold (Tahan) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 338 daripada 338) |
+| Bilangan Pendaftaran | 338 (sah: 338) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, biotin ialah kofaktor bagi karboksilase yang terlibat dalam metabolisme karbohidrat, lemak dan asid amino. Keberkesanannya dalam kekurangan biotin telah dibuktikan, dan kekurangan biotin boleh menyebabkan gejala gastrousus.
+Maklumat terperinci tentang mekanisme tindakan biotin tidak tersedia dalam data yang dikumpulkan. Secara umum, biotin ialah kofaktor bagi karboksilase yang terlibat dalam metabolisme karbohidrat, lemak dan asid amino. Kekurangan biotin boleh disertai gejala gastrousus, maka hubungan yang boleh dicadangkan hanyalah hubungan tidak langsung, iaitu pembetulan kekurangan, dan bukan mekanisme pemulihan semula (repurposing) yang sebenar untuk dispepsia.
 
-Hubungan antara indikasi asal dengan dispepsia hanyalah **tidak langsung**: jika dispepsia berpunca daripada kekurangan biotin, pembetulan kekurangan itu mungkin membantu. Ini lebih merupakan rasional pembetulan kekurangan, bukan mekanisme pengambilan semula ubat (repurposing) yang sebenar. Skor TxGNN yang tinggi tidak disokong oleh hubungan mekanistik yang jelas dalam data yang dikumpulkan.
+Skor TxGNN sangat tinggi, tetapi skor itu sahaja tidak membuktikan keberkesanan. Tiada hubungan mekanistik yang disokong oleh data yang ada, dan sebarang hubungan perlu disahkan secara bebas.
 
-Ramalan tertinggi kedua, **gastroparesis**, juga mempunyai skor tinggi (99.42%) tetapi tiada percubaan klinikal atau penerbitan yang menyokongnya. Tiada mekanisme yang munasabah menghubungkan biotin dengan motiliti gaster dapat dikenal pasti; sebarang hubungan (contohnya melalui laluan metabolik atau neuropati dalam gastroparesis diabetik) bersifat spekulatif.
+Ramalan kedua dalam senarai, gastroparesis, tidak mempunyai sebarang percubaan atau penerbitan sokongan, dan tidak dibincangkan lanjut di sini.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
+Setakat ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
+Penerbitan berikut diperoleh semasa carian, tetapi tiada satu pun menilai biotin sebagai rawatan dispepsia. Kebanyakannya berkaitan secara tidak langsung sahaja.
+
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [15863846](https://pubmed.ncbi.nlm.nih.gov/15863846/) | 2005 | Laporan kes | The Journal of Dermatology | Kekurangan biotin pada bayi 5 bulan yang didiagnosis dispepsia semasa neonat dan diberi formula asid amino sahaja; paras biotin serum dan air kencing rendah dengan lesi kulit tipikal |
-| [25110039](https://pubmed.ncbi.nlm.nih.gov/25110039/) | 2014 | Pemerhatian | Int J Mol Med | Sel endokrin antrum gaster pada pesakit sindrom usus rengsa (IBS); tiada kaitan langsung dengan biotin |
-| [24891930](https://pubmed.ncbi.nlm.nih.gov/24891930/) | 2014 | Pemerhatian | World J Gastrointest Endosc | Sel endokrin mukosa oksintik gaster pada pesakit IBS; tiada kaitan langsung dengan biotin |
-| [11304845](https://pubmed.ncbi.nlm.nih.gov/11304845/) | 2001 | Pemerhatian | J Clin Pathol | Interleukin-10 dalam gastritis berkaitan *H. pylori*; tiada kaitan langsung dengan biotin |
-| [21695955](https://pubmed.ncbi.nlm.nih.gov/21695955/) | 2011 | Kajian/Lain-lain | Eksp Klin Gastroenterol | Produk prebiotik berbilang komponen (termasuk biotin) untuk gangguan mikrobiota usus pada pesakit bronkopulmonari; biotin hanya salah satu komponen |
-| [10354275](https://pubmed.ncbi.nlm.nih.gov/10354275/) | 1999 | Pemerhatian | Kidney Int | Sel T usus kecil dalam nefropati IgA; tiada kaitan langsung dengan biotin |
+| [15863846](https://pubmed.ncbi.nlm.nih.gov/15863846/) | 2005 | Laporan kes | The Journal of Dermatology | Kekurangan biotin pada bayi berusia 5 bulan yang pernah didiagnosis dispepsia semasa neonat dan diberi formula asid amino sahaja; kekurangan itu timbul akibat pemakanan, bukan kerana biotin merawat dispepsia |
+| [21695955](https://pubmed.ncbi.nlm.nih.gov/21695955/) | 2011 | Kajian/Lain-lain | Eksperimental'naia i klinicheskaia gastroenterologiia | Suplemen prebiotik yang mengandungi pelbagai vitamin (termasuk biotin) untuk gangguan mikrobiota usus pada pesakit penyakit paru-paru; biotin bukan komponen tunggal yang dikaji |
+| [25110039](https://pubmed.ncbi.nlm.nih.gov/25110039/) | 2014 | Kohort/Cerapan | International Journal of Molecular Medicine | Sel endokrin antrum perut pada pesakit sindrom usus besar yang merengsa; tiada kaitan dengan biotin |
+| [24891930](https://pubmed.ncbi.nlm.nih.gov/24891930/) | 2014 | Kohort/Cerapan | World Journal of Gastrointestinal Endoscopy | Sel endokrin mukosa oksintik perut pada pesakit sindrom usus besar yang merengsa; tiada kaitan dengan biotin |
+| [11304845](https://pubmed.ncbi.nlm.nih.gov/11304845/) | 2001 | Cerapan | Journal of Clinical Pathology | Interleukin-10 dalam gastritis berkaitan Helicobacter pylori; tiada kaitan dengan biotin |
+| [10354275](https://pubmed.ncbi.nlm.nih.gov/10354275/) | 1999 | Cerapan | Kidney International | Sel T usus kecil dalam nefropati IgA; tiada kaitan dengan biotin |
 
-Nota: kebanyakan penerbitan di atas hanya berkaitan secara longgar dan tidak menunjukkan bahawa biotin berkesan untuk dispepsia.
+---
+
+## Maklumat Pasaran Malaysia
+
+Menurut data tempatan, status pasaran biotin ialah **dipasarkan**, dengan 338 lesen sah dan tiada lesen yang dibatalkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Kontraindikasi (berdasarkan graf pengetahuan TxGNN, bukan teks label produk)**: penyakit buah pinggang, piouretur, sarkoidosis, hiperparatiroidisme, osteitis fibrosa, hiperkalsemia, nefrokalsinosis, penyakit metabolisme fosforus, kecenderungan batu karang buah pinggang (berkaitan SLC26A1), nefrolitiasis, nefropati urat akut, sembelit, dan lesi metastasis tulang litik.
+- **Penyakit atau keadaan yang direkodkan sebagai kontraindikasi dalam data model (bukan teks label produk):** penyakit buah pinggang, pyoureter, sarkoidosis, hiperparatiroidisme, osteitis fibrosa, hiperkalsemia, nefrokalsinosis, penyakit metabolisme fosforus, nefrolitiasis, nefropati urat akut, sembelit, dan lesi metastatik tulang litik.
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
+Maklumat amaran utama dan interaksi ubat tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
 ---
 
@@ -102,13 +106,13 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (tahap bukti L5) tanpa percubaan klinikal dan tanpa mekanisme yang disokong; biotin juga tidak dipasarkan di Malaysia.
+Skor TxGNN tinggi, tetapi tiada percubaan klinikal atau kajian yang menilai biotin secara langsung untuk dispepsia. Hubungan mekanistik hanyalah spekulatif, jadi tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
-- Data mekanisme tindakan (MOA) terperinci, contohnya daripada DrugBank
-- Bukti klinikal langsung (contohnya kajian pemerhatian atau percubaan terkawal) tentang biotin dalam dispepsia atau gastroparesis
-- Penilaian kebolehlaksanaan laluan pentadbiran dan status pendaftaran produk di Malaysia
+- Data mekanisme tindakan biotin yang terperinci
+- Kajian praklinikal atau klinikal yang menilai biotin secara langsung pada pesakit dispepsia
+- Semakan sisipan pakej NPRA untuk amaran dan kontraindikasi
+- Penilaian keselamatan bagi pesakit dengan keadaan yang disenaraikan di atas
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

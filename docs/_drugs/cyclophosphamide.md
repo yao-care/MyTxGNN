@@ -4,17 +4,17 @@ title: Cyclophosphamide
 parent: High Evidence (L1-L2)
 nav_order: 245
 evidence_level: L2
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Cyclophosphamide: indikasi baharu diramal Leukemia mieloid (tahap bukti L2). Indikasi asal: Mycosis fungoides dan varian, limfoma, mieloma plasma, neuroblastoma…"
 monitor_inn: "CYCLOPHOSPHAMIDE"
-predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
+predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
+description: "Cyclophosphamide: indikasi baharu diramal Leukemia mieloid (myeloid leukemia) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Cyclophosphamide
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **5** 
+Tahap bukti: **L2** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-## Siklofosfamida (Cyclophosphamide): Daripada Limfoma dan Kanser Lain kepada Leukemia Mieloid
+## Cyclophosphamide: Leukemia mieloid (myeloid leukemia)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Arah ini disokong oleh **34 ujian klinikal** dan **20 penerbitan**. Namun, dalam
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Mycosis fungoides dan varian, limfoma, mieloma plasma, neuroblastoma, karsinoma payudara, retinoblastoma (daripada graf pengetahuan TxGNN, kerana tiada lesen berdaftar di Malaysia) |
-| Indikasi Baharu yang Diramalkan | Leukemia mieloid |
-| Skor Ramalan TxGNN | 99.47% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Leukemia mieloid (myeloid leukemia) |
+| Skor Ramalan TxGNN | 0.9947 |
 | Tahap Bukti | L2 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
@@ -147,7 +147,6 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pek tidak tersedia bua
 **Justifikasi:**
 - Terdapat satu ujian rawak Fasa 2/3 yang selesai (tahap bukti L2), banyak ujian awal, dan kohort besar yang menunjukkan siklofosfamida (BuCy, Cy/Flu, PTCy) sudah menjadi sebahagian amalan pemindahan sel stem untuk leukemia mieloid.
 - Namun, bukti ini menyokong siklofosfamida sebagai komponen rejimen. Ia tidak membuktikan keberkesanan agen tunggal.
-- Ubat ini tidak dipasarkan di Malaysia, dan maklumat keselamatan daripada sisipan pek belum tersedia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Memuat turun dan menghurai sisipan pek NPRA bagi amaran, kontraindikasi dan dos untuk melengkapkan penyaringan keselamatan.

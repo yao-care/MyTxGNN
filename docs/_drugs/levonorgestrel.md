@@ -4,7 +4,7 @@ title: Levonorgestrel
 parent: Low Evidence (L4-L5)
 nav_order: 457
 evidence_level: L4
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Levonorgestrel: indikasi baharu diramal Jerawat (acne) (tahap bukti L4). Indikasi asal: Osteoporosis pascamenopaus / osteoporosis (daripada pangkalan pengeta…"
 monitor_inn: "LEVONORGESTREL"
@@ -14,7 +14,7 @@ predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant 
 # Levonorgestrel
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **6** 
+Tahap bukti: **L4** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Levonorgestrel ialah sejenis progestin (hormon progestogen sintetik) yang dalam 
 |------|------|
 | Indikasi Asal | Osteoporosis pascamenopaus / osteoporosis (daripada pangkalan pengetahuan TxGNN; tiada teks indikasi berlesen kerana tiada pendaftaran di Malaysia) |
 | Indikasi Baharu yang Diramalkan | Jerawat (acne) |
-| Skor Ramalan TxGNN | 99.88% |
+| Skor Ramalan TxGNN | 0.9988 |
 | Tahap Bukti | L4 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 15) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---
@@ -62,7 +62,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) levonorgestrel tidak tersedia 
 
 Hubungan mekanistik dengan jerawat tidak jelas. Levonorgestrel mempunyai aktiviti androgenik baki (PMID 7825629), jadi dengan sendirinya ia bukan terapi jerawat yang jelas. Manfaat terhadap jerawat lazimnya dikaitkan dengan komponen estrogen atau progestin anti-androgenik dalam pil kontraseptif kombinasi, contohnya klormadinon asetat (PMID 21895044). Satu ujian rawak berplasebo (PMID 12196750) menilai pil dos rendah yang mengandungi 20 mcg etinilestradiol dan 100 mcg levonorgestrel untuk jerawat sederhana, tetapi hasilnya tidak dapat dipastikan daripada petikan abstrak yang ada, dan kesan ini tidak boleh dikaitkan dengan levonorgestrel secara bersendirian.
 
-Skor TxGNN yang sangat tinggi (0.999) ialah ramalan pengiraan sahaja dan tidak disokong oleh data ujian klinikal dalam laporan ini.
+Skor TxGNN yang sangat tinggi (0.9988) ialah ramalan pengiraan sahaja dan tidak disokong oleh data ujian klinikal dalam laporan ini.
 
 ---
 
@@ -97,11 +97,10 @@ Selain jerawat, TxGNN turut meramalkan beberapa indikasi lain, tetapi kesemuanya
 
 | Indikasi Diramalkan | Skor TxGNN | Catatan |
 |------|------|------|
-| Sindrom Worth | 99.61% | Tiada rasional mekanistik yang jelas |
-| Osteoporosis berkaitan kehamilan | 99.45% | Penggunaan progestin semasa kehamilan menimbulkan kebimbangan keselamatan |
-| Vitreoretinopati keradangan neovaskular dominan autosom | 99.39% | Tiada hubungan mekanistik yang munasabah |
-| Adenosis apokrin payudara | 99.02% | Lesi responsif hormon; arah kesan tidak pasti |
-| Adenosis duktus tumpul payudara | 99.02% | Skor sama dengan adenosis apokrin, mencadangkan corak ramalan yang dikongsi |
+| Sindrom Worth | 0.9961 | Tiada rasional mekanistik yang jelas |
+| Vitreoretinopati keradangan neovaskular dominan autosom | 0.9939 | Tiada hubungan mekanistik yang munasabah |
+| Adenosis apokrin payudara | 0.9902 | Lesi responsif hormon; arah kesan tidak pasti |
+| Adenosis duktus tumpul payudara | 0.9902 | Skor sama dengan adenosis apokrin, mencadangkan corak ramalan yang dikongsi |
 
 ---
 

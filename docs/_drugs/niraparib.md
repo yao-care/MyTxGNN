@@ -6,9 +6,9 @@ nav_order: 525
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Niraparib: indikasi baharu diramal Neoplasma sista (cystic neoplasm) (tahap bukti L5). Indikasi asal: Kanser peritoneum, tumor epitelium malignan ovari…"
 monitor_inn: "niraparib"
 predicted_indications: ["epiglottis neoplasm", "cystic neoplasm", "benign neoplasm of hypopharynx", "benign neoplasm of tongue", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "tumor of testis and paratestis", "inner ear neoplasm", "pre-malignant neoplasm", "schwannoma of jugular foramen"]
+description: "Niraparib: indikasi baharu diramal Epiglottis neoplasm (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Niraparib
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Niraparib: Daripada Kanser Ovari/Peritoneum kepada Neoplasma Sista (Cystic Neoplasm)
+## Niraparib: Epiglottis neoplasm
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -50,12 +50,12 @@ dengan **3 percubaan klinikal** dan **10 penerbitan** yang berkaitan, tetapi seb
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Kanser peritoneum, tumor epitelium malignan ovari, karsinoma serous peritoneum primer |
-| Indikasi Baharu yang Diramalkan | Neoplasma sista (cystic neoplasm) |
-| Skor Ramalan TxGNN | 99.99% |
-| Tahap Bukti | L2 (percubaan Fasa 2 masih berjalan, belum ada keputusan) |
-| Status Pasaran di Malaysia | ✗ Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Epiglottis neoplasm |
+| Skor Ramalan TxGNN | 0.9999 |
+| Tahap Bukti | L5 (percubaan Fasa 2 masih berjalan, belum ada keputusan) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -64,7 +64,7 @@ dengan **3 percubaan klinikal** dan **10 penerbitan** yang berkaitan, tetapi seb
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, niraparib ialah perencat PARP-1/2 yang memanfaatkan "letalitas sintetik" dalam tumor yang mengalami kekurangan pembaikan rekombinasi homolog (HRD). Keberkesanannya dalam kanser ovari dan peritoneum telah ditunjukkan, dan secara mekanisme ia mungkin terpakai kepada tumor lain yang mempunyai ciri HRD.
 
-Label "cystic neoplasm" dalam graf pengetahuan nampaknya dipetakan secara longgar kepada tumor ginekologi serous/sista. Percubaan dan literatur yang dipautkan melibatkan karsinoma serous endometrium dan karsinoma serous gred tinggi ovari, yang sering HRD-positif dan berkongsi ciri molekul (ketidakstabilan kromosom, perubahan bilangan salinan). Pautan ini koheren dari segi mekanisme.
+Percubaan dan literatur yang dipautkan melibatkan karsinoma serous endometrium dan karsinoma serous gred tinggi ovari, yang sering HRD-positif dan berkongsi ciri molekul (ketidakstabilan kromosom, perubahan bilangan salinan). Pautan ini koheren dari segi mekanisme.
 
 Namun, ia lebih merupakan lanjutan daripada indikasi ovari/peritoneum asal, bukan indikasi yang benar-benar baharu. Bukti sedia ada kebanyakannya berfokus pada ovari, jadi ekstrapolasi kepada entiti neoplasma sista yang berasingan masih tidak pasti.
 

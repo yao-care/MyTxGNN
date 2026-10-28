@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Ciprofloxacin
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 223
-evidence_level: L3
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Ciprofloxacin: indikasi baharu diramal Demam paratifoid (tahap bukti L3). Indikasi asal: Demam tifoid, salmonelosis, disentri…"
+evidence_level: L5
+indication_count: 10
+monitor_inn: "Ciprofloxacin"
+predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
+last_modified_at: 2026-10-23
+description: "Ciprofloxacin: indikasi baharu diramal Skleroderma meresap (diffuse scleroderma) (tahap bukti L4). Indikasi asal: Jangkitan bakteria, termasuk demam kepialu, salmonelosis, disentri…"
 ---
 
 # Ciprofloxacin
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,44 +33,43 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-## Ciprofloxacin: Daripada Demam Tifoid kepada Demam Paratifoid
+## Ciprofloxacin: Daripada Jangkitan Bakteria (cth. Demam Kepialu) kepada Skleroderma Meresap (Diffuse Scleroderma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Ciprofloxacin ialah antibiotik fluorokuinolon yang pada asalnya digunakan untuk merawat jangkitan bakteria seperti demam tifoid, salmonelosis, disentri dan pneumonia bakteria.
-Model TxGNN meramalkan ia mungkin berkesan untuk **demam paratifoid**,
-dengan **0 percubaan klinikal** dan **20 penerbitan** yang berkaitan pada masa ini; kebanyakan penerbitan ialah kajian semula, pengawasan dan kajian rintangan antimikrob.
+Ciprofloxacin ialah antibiotik fluorokuinolon. Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **skleroderma meresap (diffuse scleroderma)**. Setakat ini terdapat **0 percubaan klinikal berdaftar** dan **2 penerbitan** yang menyokong arah ini, dan kedua-duanya tidak kukuh.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Pantas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Demam tifoid, salmonelosis, disentri, pneumonia bakteria dan lain-lain (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen kerana tiada pendaftaran di Malaysia) |
-| Indikasi Baharu yang Diramalkan | Demam paratifoid |
-| Skor Ramalan TxGNN | 0.00% (skor dilaporkan sebagai 0.0 dalam data yang dikumpulkan; perlu disahkan) |
-| Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Jangkitan bakteria, termasuk demam kepialu, salmonelosis, disentri, pneumonia bakteria dan antraks. Ini ialah hubungan yang direkodkan dalam graf pengetahuan, bukan indikasi lulus berdasarkan teks label tempatan. |
+| Indikasi Baharu yang Diramalkan | Skleroderma meresap (diffuse scleroderma) |
+| Skor Ramalan TxGNN | 0.9987 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 42 daripada 42) |
+| Bilangan Pendaftaran | 42 (sah: 42) |
 | Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, ciprofloxacin ialah fluorokuinolon yang diketahui merencat DNA gyrase dan topoisomerase IV bakteria. Keberkesanannya dalam demam tifoid dan salmonelosis telah dikenal pasti, dan secara mekanistik ia mungkin terpakai kepada demam paratifoid.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Ciprofloxacin ialah antibiotik yang berkesan terhadap banyak jangkitan bakteria. Secara mekanistik, ia mungkin relevan untuk skleroderma melalui dua jalan, dan kedua-duanya tidak langsung.
 
-Demam tifoid dan demam paratifoid bersama-sama dikenali sebagai demam enterik. Kedua-duanya disebabkan oleh *Salmonella enterica* (serovar Typhi dan Paratyphi A, B, C), disebarkan melalui laluan najis-mulut, dan mempunyai gambaran klinikal yang serupa. Oleh itu, demam paratifoid pada dasarnya ialah lanjutan daripada indikasi demam enterik sedia ada.
+1. **Kesan antifibrotik pada kulit.** Satu kajian (PMID 20507401) menilai sama ada ciprofloxacin oral mengurangkan keterukan skleroderma. Kesan ini mungkin berkaitan dengan biologi fibroblas dan kolagen, tetapi mekanismenya belum disahkan.
+2. **Pertumbuhan lampau bakteria usus kecil.** Ini ialah komplikasi gastrousus yang biasa dalam sklerosis sistemik (PMID 7728404). Ciprofloxacin boleh merawat keadaan ini, tetapi ini merawat komplikasi dan bukan penyakit asas.
 
-Namun, kerintangan fluorokuinolon yang semakin meningkat pada Paratyphi A, terutamanya di Asia Selatan, mengehadkan penggunaan empirik. Kajian semula Cochrane terkini juga menyatakan bahawa kerintangan fluorokuinolon di Asia Selatan sering menghalang penggunaan ciprofloxacin.
+Skleroderma ialah penyakit tisu penghubung autoimun dengan mikrovaskular yang rosak dan fibrosis berlebihan pada kulit serta organ dalaman. Setakat ini tiada rawatan farmakologi yang benar-benar berkesan. Oleh itu, penerokaan ubat sedia ada seperti ciprofloxacin boleh difahami, tetapi hubungan mekanistik masih lemah.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk indikasi ini.
 
 ---
 
@@ -76,31 +77,35 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [21975746](https://pubmed.ncbi.nlm.nih.gov/21975746/) | 2011 | Kajian sistematik/Meta-analisis | Cochrane Database Syst Rev | Fluorokuinolon bagi rawatan demam tifoid dan paratifoid (demam enterik); WHO mengesyorkannya di kawasan dengan kerintangan terhadap antibiotik lini pertama lama |
-| [36420914](https://pubmed.ncbi.nlm.nih.gov/36420914/) | 2022 | Kajian sistematik | Cochrane Database Syst Rev | Rawatan demam enterik dengan sefalosporin; kerintangan fluorokuinolon di Asia Selatan sering menghalang penggunaan ciprofloxacin |
-| [40914181](https://pubmed.ncbi.nlm.nih.gov/40914181/) | 2025 | Kajian semula | Lancet | Ulasan mengenai demam enterik (tifoid dan paratifoid): penularan, gambaran klinikal dan komplikasi |
-| [11197787](https://pubmed.ncbi.nlm.nih.gov/11197787/) | 2000 | Kohort/Pemerhatian | Internal Medicine | Kesan advers dan kesan terapeutik fluorokuinolon oral dalam demam tifoid dan paratifoid di Jepun |
-| [37274536](https://pubmed.ncbi.nlm.nih.gov/37274536/) | 2023 | Ulasan | Open Forum Infect Dis | Syor rawatan demam enterik; kerintangan dilaporkan terhadap semua antimikrob termasuk ciprofloxacin |
-| [23985342](https://pubmed.ncbi.nlm.nih.gov/23985342/) | 2013 | Kajian sistematik/Meta-analisis | Clin Infect Dis | Tren etiologi dan kerintangan ubat demam enterik di Nepal |
-| [37939101](https://pubmed.ncbi.nlm.nih.gov/37939101/) | 2023 | Pengawasan | PLoS Negl Trop Dis | Tren kerintangan antimikrob Salmonella Paratyphi A di Bangladesh, 1999-2021 |
-| [40688374](https://pubmed.ncbi.nlm.nih.gov/40688374/) | 2025 | Kajian makmal | New Microbes New Infect | Kerintangan ciprofloxacin dan peningkatan biofilm akibat hempedu pada isolat Salmonella Paratyphi A |
-| [40934281](https://pubmed.ncbi.nlm.nih.gov/40934281/) | 2025 | Genomik/Epidemiologi | PLoS Negl Trop Dis | Genomik S. Paratyphi A di Taiwan; peningkatan kes tempatan sejak 2022 |
-| [17965350](https://pubmed.ncbi.nlm.nih.gov/17965350/) | 2007 | Kajian in vitro | J Med Microbiol | Aktiviti azitromisin, kuinolon baharu dan sefalosporin terhadap Salmonella enterik yang rintang ciprofloxacin |
+| [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | Percubaan terkawal, buta dua, rawak (menurut abstrak; fasa dan keputusan tidak dapat disahkan) | The Journal of Dermatology | Menilai sama ada ciprofloxacin oral mengurangkan keterukan skleroderma dan berguna sebagai antifibrotik pada kulit pesakit. |
+| [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Kajian kohort/diagnostik | British Journal of Rheumatology | 24 pesakit sklerosis sistemik dengan gejala malabsorpsi (6 daripadanya bentuk meresap) disiasat untuk pertumbuhan lampau bakteria usus kecil. Kajian ini juga melaporkan hasil rawatan. |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-Pada masa ini tiada produk ciprofloxacin yang didaftarkan di Malaysia dalam data yang dikumpulkan (status: tidak dipasarkan). Status ini perlu disahkan.
+Teks indikasi yang diluluskan dan bentuk dos tidak terdapat dalam data yang dikumpulkan. Hanya lima produk bahan tunggal yang dipilih sebagai contoh daripada 42 pendaftaran. Senarai ini tidak menggambarkan semua pendaftaran.
+
+| Nombor Kebenaran | Nama Produk | Pengilang |
+|---------|------|------|
+| MAL19890626AZ | CIPROBAY TABLET 500MG | Bayer Co. (Malaysia) Sdn. Bhd. |
+| MAL19984772ACZ | CIPROBAY 400 INFUSION SOLUTION | Bayer Co. (Malaysia) Sdn. Bhd. |
+| MAL20021000AZ | Pharmaniaga Ciprofloxacin Tablet 500mg | Pharmaniaga Manufacturing Berhad |
+| MAL13085047AZ | Ciflox Film Coated Tablet 500mg | Y.S.P. Industries (M) Sdn. Bhd. |
+| MAL16075021AZ | Cipofain (Ciprofloxacin Sterile Ophthalmic Solution 0.3% w/v) | Ain Medicare Sdn. Bhd. |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Penyakit yang dikaitkan dengan kontraindikasi (daripada graf pengetahuan, bukan teks label):** sindrom QT panjang (termasuk familial), torsades de pointes, epilepsi, penyakit buah pinggang, kekurangan kalium, tendinitis, neuropati periferi, kolitis *Clostridium difficile*, miastenia gravis dan penyakit sambungan neuromuskular, serta beberapa keadaan tendon/sendi (bursitis Achilles, taji tumit).
-- **Interaksi Ubat:** Sebanyak 100 interaksi direkodkan. Antara yang bertahap **Major**: hidrokortison, deksametason, betametason, triamsinolon (kortikosteroid) dan bupropion. Antara yang bertahap **Moderate**: metformin, pioglitazon, alogliptin, albiglutid, akarbose (ubat diabetes; risiko perubahan glukosa darah), aspirin, famotidin, loperamid, aprepitan, budesonid dan lain-lain.
+Maklumat di bawah datang daripada graf pengetahuan dan pangkalan data interaksi ubat. Ia bukan teks label atau sisipan pakej.
 
-Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi rasmi.
+- **Penyakit yang dikaitkan sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): sindrom QT panjang (termasuk bentuk keluarga), torsades de pointes, epilepsi, penyakit buah pinggang, kekurangan kalium, tendinitis, periartritis, bursitis Achilles, taji tumit (heel spur), penyakit saraf periferi dan neuropati periferi, miastenia gravis dan penyakit simpang neuromuskular, kolitis Clostridium difficile, enterokolitis nekrosis perinatal, serta piouretra.
+- **Interaksi ubat**: sebanyak 100 interaksi direkodkan, dan 20 yang pertama dipaparkan dalam data.
+  - **Tahap Major**: hidrokortison, triamsinolon, deksametason, betametason dan bupropion.
+  - **Tahap Moderate** termasuk: metformin, pioglitazon, alogliptin, albiglutid, akarbosa, famotidin, loperamid, alosetron, aprepitan, asid asetilsalisilik, balsalazid, bisakodil, kalsium fosfat dan budesonid.
+
+Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA belum tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
 ---
 
@@ -108,16 +113,16 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi rasmi.
 
 **Keputusan: Hold**
 
-**Rasional:**
-- Tiada percubaan klinikal didaftarkan, dan sokongan literatur terdiri daripada kajian semula serta kajian pemerhatian, dengan kerintangan fluorokuinolon yang meningkat pada Paratyphi A. Ubat ini juga tidak didaftarkan atau dipasarkan di Malaysia, dan data keselamatan peringkat label tidak lengkap.
+**Justifikasi:**
+- Hanya terdapat satu kajian rawak kecil yang menilai ciprofloxacin dalam skleroderma, ditambah satu kajian tentang komplikasi usus. Tiada percubaan berdaftar, hubungan mekanistik hanya tidak langsung, dan keputusan kajian tidak dapat disahkan daripada data yang ada. Skor TxGNN yang tinggi sahaja tidak mencukupi untuk meneruskan.
+- Ciprofloxacin juga mempunyai kaitan dengan kontraindikasi dalam graf pengetahuan yang mungkin relevan kepada pesakit skleroderma, seperti masalah tendon, saraf dan buah pinggang. Ini memerlukan penilaian teliti.
 
-**Untuk meneruskan, perlu:**
-- Data pengawasan kerentanan Salmonella Paratyphi di Malaysia
-- Sisipan pakej dan amaran/kontraindikasi rasmi daripada NPRA
-- Data mekanisme tindakan (MOA) terperinci
-- Pengesahan status pendaftaran dan pemasaran di Malaysia
-- Pengesahan skor ramalan TxGNN, kerana skor yang dilaporkan ialah 0.0
-- Bukti klinikal yang lebih langsung (contohnya data percubaan rawak atau kohort tempatan)
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Semakan penuh teks, reka bentuk, saiz sampel dan keputusan kajian PMID 20507401, serta pengesahan sama ada hasilnya boleh diulang.
+- Percubaan klinikal yang menilai ciprofloxacin secara langsung dalam skleroderma meresap.
+- Data mekanisme tindakan terperinci untuk menjelaskan kesan antifibrotik yang dicadangkan.
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA, dan teks indikasi yang diluluskan di Malaysia.
+- Penilaian keselamatan khusus untuk pesakit skleroderma, termasuk risiko tendon, saraf periferi dan interaksi dengan kortikosteroid.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

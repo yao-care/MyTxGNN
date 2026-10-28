@@ -3,18 +3,18 @@ layout: default
 title: Laronidase
 parent: Low Evidence (L4-L5)
 nav_order: 446
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Laronidase: indikasi baharu diramal Penyakit simpanan lisosom dengan penglibatan rangka (tahap bukti L4). Indikasi asal: Mukopolisakaridosis, sindrom Hurler, sindrom Hurler-Scheie…"
 monitor_inn: "LARONIDASE"
 predicted_indications: ["lysosomal storage disease with skeletal involvement", "Sanfilippo syndrome"]
+description: "Laronidase: indikasi baharu diramal Penyakit simpanan lisosom dengan penglibatan rangka (lysosomal storage disease with skeletal involvement) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam d…"
 ---
 
 # Laronidase
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **2** 
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-## Laronidase: Daripada Mukopolisakaridosis kepada Penyakit Simpanan Lisosom dengan Penglibatan Rangka
+## Laronidase: Penyakit simpanan lisosom dengan penglibatan rangka (lysosomal storage disease with skeletal involvement)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit simpanan lisosom den
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Mukopolisakaridosis, sindrom Hurler, sindrom Hurler-Scheie, sindrom Scheie |
-| Indikasi Baharu yang Diramalkan | Penyakit simpanan lisosom dengan penglibatan rangka |
-| Skor Ramalan TxGNN | 99.31% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Penyakit simpanan lisosom dengan penglibatan rangka (lysosomal storage disease with skeletal involvement) |
+| Skor Ramalan TxGNN | 0.9931 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -63,7 +63,7 @@ Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. B
 
 Penglibatan rangka (disostosis multipleks) ialah manifestasi MPS I yang diiktiraf. Oleh itu, indikasi yang diramalkan ini sebahagian besarnya bertindih dengan indikasi berlabel asal. Kajian in vitro (PMID 18758061) menunjukkan laronidase diambil oleh fibroblas dan osteoblas terkultur, dan ini menyokong mekanisme yang munasabah untuk tisu tulang dan rawan.
 
-Walau bagaimanapun, penembusan ke dalam rawan dan tulang yang tidak bervaskular adalah terhad dengan terapi penggantian enzim (ERT) intravena, dan hasil rangka secara amnya sederhana. Skor TxGNN yang tinggi (0.993) berkemungkinan besar mencerminkan perkaitan MPS I sedia ada dalam graf pengetahuan, dan bukannya isyarat baharu.
+Walau bagaimanapun, penembusan ke dalam rawan dan tulang yang tidak bervaskular adalah terhad dengan terapi penggantian enzim (ERT) intravena, dan hasil rangka secara amnya sederhana. Skor TxGNN yang tinggi (0.9931) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
 ---
 
@@ -86,7 +86,6 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Laronidase tidak dipasarkan di Malaysia dan tiada pendaftaran dikesan dalam data yang disusun untuk laporan ini.
 
 ---
 
@@ -110,11 +109,10 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisip bungkusan.
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data MOA terperinci dan amaran/kontraindikasi daripada sisip bungkusan (data keselamatan ini belum lengkap dan menghalang saringan keselamatan)
 - Data hasil rangka khusus (contohnya kajian radiografi atau mobiliti sendi) daripada kajian MPS I
-- Pengesahan status "tidak dipasarkan" di Malaysia dan laluan akses (contohnya program ubat yatim)
 
 ---
 
-## Laronidase: Daripada Mukopolisakaridosis kepada Sindrom Sanfilippo
+## Laronidase: Daripada Mukopolisakaridosis kepada Penyakit simpanan lisosom dengan penglibatan rangka
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -130,7 +128,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom Sanfilippo (MPS III)*
 |------|------|
 | Indikasi Asal | Mukopolisakaridosis, sindrom Hurler, sindrom Hurler-Scheie, sindrom Scheie |
 | Indikasi Baharu yang Diramalkan | Sindrom Sanfilippo |
-| Skor Ramalan TxGNN | 99.22% |
+| Skor Ramalan TxGNN | 0.9922 |
 | Tahap Bukti | L4 |
 | Status Pasaran di Malaysia | Tidak dipasarkan |
 | Bilangan Pendaftaran | 0 |
@@ -144,7 +142,7 @@ Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. S
 
 Oleh itu, laronidase **tidak dapat menggantikan enzim yang kekurangan** dalam MPS III, dan pertindihan substrat hanyalah pautan laluan tidak langsung. Selain itu, MPS III terutamanya penyakit sistem saraf pusat, manakala laronidase intravena tidak merentasi sawar darah-otak dengan berkesan.
 
-Skor TxGNN yang tinggi (0.992) kemungkinan besar mencerminkan kedekatan laluan dan kelas penyakit dalam graf pengetahuan. Hubungan mekanistik langsung belum ditunjukkan.
+Skor TxGNN yang tinggi (0.9922) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Hubungan mekanistik langsung belum ditunjukkan.
 
 ---
 
@@ -173,7 +171,6 @@ Semua kajian di bawah menumpukan pada MPS I dan tidak menguji laronidase dalam s
 
 ## Maklumat Pasaran Malaysia
 
-Laronidase tidak dipasarkan di Malaysia dan tiada pendaftaran dikesan dalam data yang disusun untuk laporan ini.
 
 ---
 
@@ -197,7 +194,6 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisip bungkusan.
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data praklinikal yang menguji laronidase dalam model MPS III, termasuk strategi penghantaran merentasi sawar darah-otak
 - Data MOA terperinci dan amaran/kontraindikasi daripada sisip bungkusan
-- Pengesahan status "tidak dipasarkan" di Malaysia dan laluan akses yang mungkin
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

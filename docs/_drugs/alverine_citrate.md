@@ -8,6 +8,7 @@ nav_order: 50
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Alverine Citrate
@@ -49,8 +50,8 @@ Alverine Citrate adalah penenang otot licin (antispasmodik) yang berdaftar di Ma
 | Indikasi Baru yang Diramalkan | Tiada — prediksi TxGNN belum disiapkan |
 | Skor Prediksi TxGNN | Tidak Terpakai |
 | Tahap Bukti | L5 (ramalan model sahaja — belum dijalankan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Dicadangkan | **Tunggu** |
 
 ---

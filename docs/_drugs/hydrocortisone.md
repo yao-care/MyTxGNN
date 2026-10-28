@@ -3,16 +3,18 @@ layout: default
 title: Hydrocortisone
 parent: High Evidence (L1-L2)
 nav_order: 403
-evidence_level: L2
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Hydrocortisone: indikasi baharu diramal Buasir (hemorrhoid) (tahap bukti L2). Indikasi asal: Penyakit autoimun, insufisiensi adrenokortikal (penyakit Addison)…"
+evidence_level: L1
+indication_count: 9
+monitor_inn: "Hydrocortisone"
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
+last_modified_at: 2026-10-23
+description: "Hydrocortisone: indikasi baharu diramal Alopecia areata (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Hydrocortisone
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **5** 
+Tahap bukti: **L1** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,110 +33,86 @@ Tahap bukti: **L2** | Indikasi diramal: **5**
 
 </div>
 
-## Hydrokortison: Daripada Penyakit Autoimun/Insufisiensi Adrenal kepada Buasir (Hemorrhoid)
+## Hydrocortisone: Alopecia areata
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Hydrokortison ialah kortikosteroid yang pada asalnya digunakan untuk merawat penyakit autoimun, insufisiensi adrenokortikal (penyakit Addison), penyakit Crohn dan leukemia limfoblastik akut.
-Model TxGNN meramalkan ia mungkin berkesan untuk **buasir (hemorrhoid)**, iaitu calon dengan bukti terkuat antara lima calon yang diramalkan.
-Setakat ini terdapat **4 ujian klinikal** dan **20 penerbitan** yang berkaitan dengan arah ini, termasuk tiga ujian rawak Fasa 2 yang telah selesai.
-
-> Nota: Skor ramalan TxGNN untuk kesemua lima calon ialah 0.0%, jadi skor tidak boleh dijadikan asas pemeringkatan. Pemilihan calon utama berdasarkan kekuatan bukti klinikal.
-
----
+Hydrocortisone ialah glukokortikoid yang menurut graf pengetahuan direkodkan berkait dengan keadaan seperti kekurangan adrenokortikal, penyakit Crohn dan penyakit autoimun. Model TxGNN meramalkan ia mungkin berkesan untuk **alopecia areata**, dengan **1 percubaan klinikal** dan **20 penerbitan** yang dipautkan. Namun, percubaan itu menjadikan hydrocortisone hanya sebagai pembanding berkuasa rendah, jadi bukti bagi keberkesanan hydrocortisone sendiri adalah terhad.
 
 ## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit autoimun, insufisiensi adrenokortikal (penyakit Addison), penyakit Crohn, leukemia limfoblastik akut (daripada graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Buasir (hemorrhoid) |
-| Skor Ramalan TxGNN | 0.0% |
-| Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu Diramal | Alopecia areata |
+| Skor Ramalan TxGNN | 0.9997 |
+| Tahap Bukti | L1 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 58 daripada 58) |
+| Bilangan Pendaftaran | 58 (sah: 58) |
+| Keputusan Disyorkan | Hold |
 
----
+**Nota tahap bukti:** Satu percubaan Fasa 3 yang selesai mengkaji alopecia areata secara langsung. Namun, ia hanya satu percubaan dan hydrocortisone berfungsi sebagai pembanding. Pangkalan data menandakan tahap L1 atas dasar reka bentuk, tetapi kekuatan bukti sebenar bagi hydrocortisone adalah lebih rendah daripada yang tersirat oleh label itu.
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, hydrokortison ialah kortikosteroid dengan kesan anti-radang dan imunosupresif yang luas, dan keberkesanannya dalam penyakit radang seperti penyakit Crohn dan penyakit autoimun telah diketahui. Secara mekanistik, ia mungkin sesuai untuk keradangan setempat pada mukosa anorektum.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, hydrocortisone diketahui sebagai glukokortikoid dengan kesan anti-radang dan imunosupresif.
 
-Hydrokortison topikal mengurangkan keradangan, kegatalan dan edema setempat, yang sepadan dengan profil simptom penyakit buasir. Faedahnya bersifat melegakan simptom, bukan merawat punca.
+Alopecia areata ialah penyakit autoimun yang diperantarai sel T apabila perlindungan imun folikel rambut runtuh. Glukokortikoid menyekat serangan imun ini, maka mekanismenya munasabah. Namun, hydrocortisone ialah steroid topikal berkuasa rendah, dan bukti percubaan menunjukkan ia jauh kurang berkesan berbanding agen berkuasa tinggi. Justeru ia lebih berfungsi sebagai pembanding daripada terapi utama.
 
-Bukti sokongan termasuk tiga ujian rawak Fasa 2 yang telah selesai (dua daripadanya dua-buta dan terkawal plasebo/kenderaan), satu meta-analisis rawatan setempat buasir dan ekzema perianal, serta satu ujian rawak berbanding streptokinase. Tiada data Fasa 3 ditunjukkan.
+## Bukti Percubaan Klinikal
 
----
-
-## Bukti Ujian Klinikal
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00405288](https://clinicaltrials.gov/study/NCT00405288) | N/A | Selesai | 408 | Kajian keselamatan Proctofoam-HC topikal pada trimester ketiga kehamilan (keselamatan janin, bukan keberkesanan) |
-| [NCT01913158](https://clinicaltrials.gov/study/NCT01913158) | Fasa 2 | Selesai | 150 | Ujian rawak, dua-buta, terkawal kenderaan: supositori rektum hydrokortison asetat 25 mg untuk buasir dalaman bersimptom |
-| [NCT02689856](https://clinicaltrials.gov/study/NCT02689856) | Fasa 2 | Selesai | 211 | Ujian rawak, dua-buta, julat dos: lidokain dan/atau hydrokortison asetat selama 14 hari untuk buasir Gred I atau II |
-| [NCT03335774](https://clinicaltrials.gov/study/NCT03335774) | Fasa 2 | Selesai | 103 | Ujian rawak, dua-buta, terkawal plasebo: supositori hydrokortison asetat 25 mg untuk buasir dalaman bersimptom |
-
----
+| [NCT01453686](https://clinicaltrials.gov/study/NCT01453686) | Fasa 3 | Selesai | 41 | Percubaan terkawal rawak membandingkan krim clobetasol propionate 0.05% dengan krim hydrocortisone 1% pada kanak-kanak dengan alopecia areata. Hydrocortisone ialah pembanding berkuasa rendah; saiz sampel kecil |
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [26109819](https://pubmed.ncbi.nlm.nih.gov/26109819/) | 2015 | RCT | World J Gastroenterol | Streptokinase rekombinan berbanding supositori hydrokortison asetat dalam buasir akut |
-| [12189774](https://pubmed.ncbi.nlm.nih.gov/12189774/) | 2002 | Meta-analisis | Arzneimittel-Forschung | Keberkesanan dan keselamatan salap ampaian kultur E. coli secara tunggal atau bersama hydrokortison untuk buasir dan ekzema perianal |
-| [39945661](https://pubmed.ncbi.nlm.nih.gov/39945661/) | 2025 | Ulasan | Minerva Surgery | Bukti klinikal salap nifedipin dan lidokain untuk fisur anal dan buasir |
-| [3538088](https://pubmed.ncbi.nlm.nih.gov/3538088/) | 1986 | Ulasan | Primary Care | Buasir lazimnya diurus secara konservatif, termasuk krim hydrokortison setempat |
-| [40143012](https://pubmed.ncbi.nlm.nih.gov/40143012/) | 2025 | Kajian formulasi | Pharmaceutics | Formulasi krim hydrokortison asetat dan pramoksin dengan profil pelepasan in vitro yang dipertingkat untuk keadaan anorektum |
-| [1800704](https://pubmed.ncbi.nlm.nih.gov/1800704/) | 1991 | Farmakokinetik | J Pharm Sci | Bioavailabiliti rektum hydrokortison asetat sangat rendah (kira-kira 2%) |
-| [11361050](https://pubmed.ncbi.nlm.nih.gov/11361050/) | 2001 | Farmakokinetik | J Clin Pharmacol | Penyerapan sistemik buih rektum hydrokortison asetat selepas dos tunggal dan berulang adalah kecil |
-| [17728120](https://pubmed.ncbi.nlm.nih.gov/17728120/) | 2007 | Ulasan | Clin Oncol | Rawatan proktitis radiasi, termasuk instilasi rektum hydrokortison |
+| [24226568](https://pubmed.ncbi.nlm.nih.gov/24226568/) | 2014 | RCT | JAMA Dermatology | Clobetasol propionate 0.05% berbanding hydrocortisone 1% pada kanak-kanak dengan alopecia areata; laporan dibingkai sekitar keunggulan clobetasol |
+| [13368875](https://pubmed.ncbi.nlm.nih.gov/13368875/) | 1956 | Siri kes sejarah | Medical Times | Rawatan alopecia areata dengan cortisone, hydrocortisone dan analognya |
+| [13610145](https://pubmed.ncbi.nlm.nih.gov/13610145/) | 1958 | Laporan klinikal sejarah | Der Hautarzt | Pertumbuhan rambut selepas suntikan hydrocortisone intrakutan |
+| [15692503](https://pubmed.ncbi.nlm.nih.gov/15692503/) | 2005 | Laporan kes | J Am Acad Dermatol | Empat kes alopecia areata kongenital dengan pelbagai rawatan topikal |
+| [28094416](https://pubmed.ncbi.nlm.nih.gov/28094416/) | 2017 | Laporan kes | Tierarztl Prax Ausg K | Alopecia areata pada anjing; hydrocortisone aceponate topikal tidak berkesan |
+| [24326563](https://pubmed.ncbi.nlm.nih.gov/24326563/) | 2013 | Praklinikal (tikus) | J Investig Dermatol Symp Proc | Agonis hormon paratiroid pada model tikus; tidak khusus untuk hydrocortisone |
 
----
+Kebanyakan penerbitan lain ialah laporan sejarah (1955–1973) atau tidak berkaitan secara langsung, dan tidak disenaraikan di sini.
 
 ## Maklumat Pasaran Malaysia
 
-Hydrokortison pada masa ini **tidak dipasarkan** di Malaysia dan tiada pendaftaran yang direkodkan dalam data yang dikumpulkan.
+Rekod lesen tidak mengandungi teks indikasi diluluskan atau bentuk dosej. Dua puluh sembilan lesen ialah produk bahan tunggal dan 29 ialah produk gabungan. Hanya produk bahan tunggal disenaraikan di bawah.
 
----
+| Nombor Kebenaran | Nama Produk | Bentuk Dosej | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL19870473AZ | Solu-Cortef Injection 100mg (2ml) | Tiada data | Tiada data |
+| MAL15085015AZ | Hydrocortison Orion 10mg Tablet | Tiada data | Tiada data |
+| MAL17107037ACREZ | hovid Hydrocortisone Sodium Succinate for Injection 100mg | Tiada data | Tiada data |
+| MAL16075024AZ | Hydrosone Cream 1% w/w | Tiada data | Tiada data |
+| MAL19860156AZ | Hysone Cream 1% (w/w) | Tiada data | Tiada data |
+
 
 ## Pertimbangan Keselamatan
 
-Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Penyakit yang direkodkan sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): hipertensi, epilepsi, ulser gastrik, penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, hiperglisemia, campak, keratitis herpes simplex, jangkitan papillomavirus anogenital, ketuat biasa, dan pelbagai keadaan kekurangan pituitari/hipogonadisme.
+- **Interaksi ubat**: 100 interaksi direkodkan. Yang utama termasuk adalimumab (**Major**), serta interaksi **Moderate** dengan ibuprofen, ketorolac, nifedipine, etinilestradiol, isotretinoin, aldesleukin, alemtuzumab dan beberapa ubat antidiabetes (acarbose, acetohexamide, albiglutide). Interaksi **Minor** termasuk salbutamol dan formoterol.
 
-Maklumat tambahan daripada graf pengetahuan dan pangkalan data interaksi:
-
-- **Penyakit berkontraindikasi (graf pengetahuan, bukan teks label)**: hipertensi, epilepsi, ulser gastrik, penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, hiperglisemia, campak, keratitis virus herpes simpleks, jangkitan HPV anogenital, ketuat biasa, dan pelbagai keadaan kekurangan hormon pituitari/hipogonadisme.
-- **Interaksi dadah**: 100 interaksi direkodkan. Contoh utama termasuk **adalimumab (Major)**, serta interaksi Moderate dengan ibuprofen, ketorolak, nifedipin, isotretinoin, etinilestradiol, asetazolamid dan beberapa agen antidiabetik (akarbosa, asetoheksamid, albiglutid). Interaksi Minor termasuk salbutamol dan formoterol.
-- **Langkah kawalan khusus untuk indikasi buasir**: atrofi mukosa dengan penggunaan berpanjangan, dan penggunaan semasa kehamilan.
-
----
+Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
+**Keputusan: Hold**
 
 **Rasional:**
-- Tiga ujian rawak Fasa 2 yang telah selesai menyokong hydrokortison asetat topikal untuk buasir, ditambah meta-analisis dan ujian rawak perbandingan. Namun tiada data Fasa 3, faedahnya hanya bersifat simptomatik, dan skor TxGNN ialah 0.0%.
+Hanya satu percubaan Fasa 3 kecil yang mengkaji alopecia areata, dan hydrocortisone di dalamnya ialah pembanding berkuasa rendah yang kalah kepada clobetasol. Mekanismenya munasabah, tetapi tiada bukti kukuh bahawa hydrocortisone sendiri ialah pilihan rawatan yang berkesan.
 
-**Untuk meneruskan, perlu:**
-- Memuat turun dan menghurai sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat saringan keselamatan).
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
-- Pelan pemantauan keselamatan untuk penggunaan berpanjangan (atrofi mukosa) dan untuk wanita hamil.
-- Penentuan laluan pentadbiran (supositori/krim rektum) dan status pendaftaran produk topikal di Malaysia, kerana hydrokortison belum dipasarkan di sini.
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (kini tidak tersedia)
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Teks indikasi diluluskan dan bentuk dosej bagi lesen tempatan
+- Data keberkesanan khusus hydrocortisone dalam alopecia areata (bukan sebagai pembanding), atau justifikasi mengapa agen berkuasa lebih tinggi tidak lebih sesuai
 
----
-
-## Calon Lain yang Diramalkan (Rujukan Ringkas)
-
-| Peringkat | Indikasi Diramalkan | Tahap Bukti | Cadangan | Catatan |
-|------|------|------|------|------|
-| 1 | Eritema multiforme | L5 | Hold | Hanya laporan kes (kebanyakannya eritema multiforme dicetuskan oleh ubat); tiada ujian klinikal dan tiada sokongan bagi hydrokortison sebagai rawatan |
-| 3 | Limfosarkoma | L1 | Research Question | Ujian Fasa 3 besar (cth. NCT00002744, n=1970) melibatkan terapi intratekal mengandungi hydrokortison, tetapi sumbangannya tidak dapat diasingkan; istilah ini lapuk dan bertindih dengan indikasi asal (ALL); neurotoksisiti serius pernah dilaporkan |
-| 4 | Penyakit kawasan orbit | L2 | Research Question | Ujian hydrokortison oftalmik terhenti awal atau berstatus tidak diketahui; kategori heterogen; tekanan intraokular ialah kebimbangan keselamatan |
-| 5 | Leukemia limfositik, kerentanan | L5 | Hold | Entiti kerentanan genetik yang bertindih dengan indikasi ALL; tiada ujian klinikal |
+**Calon ramalan lain:** Alopecia mucinosa (L4) hanya disokong laporan kes yang menggunakan cyclosporine, bukan hydrocortisone. Telogen effluvium, folikulitis decalvans, dan beberapa sindrom genetik jarang (L5) tidak disokong sebarang bukti klinikal. Kesemuanya disyorkan Hold.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

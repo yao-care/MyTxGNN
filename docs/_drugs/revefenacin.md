@@ -3,18 +3,18 @@ layout: default
 title: Revefenacin
 parent: Low Evidence (L4-L5)
 nav_order: 618
-evidence_level: L4
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Revefenacin: indikasi baharu diramal Bronkitis (tahap bukti L4). Indikasi asal: Penyakit pulmonari obstruktif kronik (COPD)"
 monitor_inn: "REVEFENACIN"
 predicted_indications: ["bronchitis"]
+description: "Revefenacin: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Revefenacin
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **2** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-## Revefenacin: Daripada Penyakit Pulmonari Obstruktif Kronik (COPD) kepada Bronkitis
+## Revefenacin: Bronkitis (bronchitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **bronkitis**, tetapi buat masa
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit pulmonari obstruktif kronik (COPD) |
-| Indikasi Baharu yang Diramalkan | Bronkitis |
-| Skor Ramalan TxGNN | 99.61% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Bronkitis (bronchitis) |
+| Skor Ramalan TxGNN | 0.9961 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **bronkitis**, tetapi buat masa
 
 Data terperinci tentang mekanisme tindakan (MOA) belum tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, revefenacin ialah LAMA yang disedut melalui nebuliser dan bertindak pada reseptor muskarinik M3 dalam otot licin saluran udara. Sekatan muskarinik mengurangkan penyempitan bronkus akibat kolinergik dan rembesan mukus, jadi ubat ini boleh mencapai bronkodilasi yang berpanjangan.
 
-Bronkitis kronik ialah salah satu fenotip COPD. Oleh itu, secara mekanistik munasabah bahawa sekatan kolinergik boleh bermanfaat dalam bronkitis. Walau bagaimanapun, skor TxGNN yang sangat tinggi (0.996) berkemungkinan besar mencerminkan pertindihan antara bronkitis kronik dengan COPD, iaitu indikasi yang sudah diluluskan. Skor itu bukan bukti bebas bagi kegunaan baharu.
+Bronkitis kronik ialah salah satu fenotip COPD. Oleh itu, secara mekanistik munasabah bahawa sekatan kolinergik boleh bermanfaat dalam bronkitis. Walau bagaimanapun, skor TxGNN yang sangat tinggi (0.9961) berkemungkinan besar mencerminkan pertindihan antara bronkitis kronik dengan COPD, iaitu indikasi yang sudah diluluskan. Skor itu bukan bukti bebas bagi kegunaan baharu.
 
 Kesimpulannya, ramalan ini lebih menyerupai pelabelan semula indikasi sedia ada daripada pelanggan semula (repurposing) yang sebenar. Bukti khusus untuk bronkitis masih tidak mencukupi.
 
@@ -109,7 +109,6 @@ Maklumat amaran dan kontraindikasi daripada sisipan pakej belum tersedia. Sila r
 - Ujian klinikal atau kajian literatur khusus untuk populasi bronkitis (termasuk pengesahan sama ada bronkitis kronik dalam konteks COPD boleh dianggap indikasi yang berasingan)
 - Data mekanisme tindakan (MOA) yang terperinci
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
-- Pengesahan status pendaftaran dan pasaran di Malaysia, kerana literatur lain menyatakan revefenacin telah diluluskan oleh FDA AS (PMID 30560478) manakala data tempatan menunjukkan "tidak dipasarkan"
 - Pengesahan keserasian laluan pentadbiran (nebuliser) dengan keperluan klinikal indikasi baharu
 ## Penafian
 

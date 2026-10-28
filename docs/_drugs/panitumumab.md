@@ -49,10 +49,10 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **osteoporosis teraruh ubat**, 
 |------|------|
 | Indikasi Asal | Neoplasma malignan metastatik pada kolon |
 | Indikasi Baharu yang Diramalkan | Osteoporosis teraruh ubat (drug-induced osteoporosis) |
-| Skor Ramalan TxGNN | 99.13% |
+| Skor Ramalan TxGNN | 0.9913 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -81,7 +81,7 @@ Buat masa ini tiada literatur berkaitan.
 
 ## Penemuan Sampingan: Indikasi Ramalan Kedua
 
-Indikasi kedua yang diramalkan ialah **retinopati diabetes bukan proliferatif yang teruk** (skor TxGNN 99.05%, tahap bukti L5, keputusan Hold). Seperti indikasi pertama, tiada percubaan klinikal atau literatur menyokongnya. Isyarat EGFR dikaitkan dengan proses vaskular dan keradangan retina serta interaksi dengan isyarat VEGF, tetapi panitumumab ialah antibodi IgG2 besar yang diberi secara sistemik, dan penembusan okular serta keselamatan retinanya pada pesakit diabetes belum dibuktikan. Terapi anti-EGFR juga menyebabkan ketoksikan mata seperti blefaritis, trikomegali dan keratitis. Rawatan sedia ada (anti-VEGF, laser, kortikosteroid) pun sudah wujud.
+Indikasi kedua yang diramalkan ialah **retinopati diabetes bukan proliferatif yang teruk** (skor TxGNN 0.9905, tahap bukti L5, keputusan Hold). Seperti indikasi pertama, tiada percubaan klinikal atau literatur menyokongnya. Isyarat EGFR dikaitkan dengan proses vaskular dan keradangan retina serta interaksi dengan isyarat VEGF, tetapi panitumumab ialah antibodi IgG2 besar yang diberi secara sistemik, dan penembusan okular serta keselamatan retinanya pada pesakit diabetes belum dibuktikan. Terapi anti-EGFR juga menyebabkan ketoksikan mata seperti blefaritis, trikomegali dan keratitis. Rawatan sedia ada (anti-VEGF, laser, kortikosteroid) pun sudah wujud.
 
 ---
 

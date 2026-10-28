@@ -6,9 +6,9 @@ nav_order: 315
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Edaravone: indikasi baharu diramal Kekurangan kofaktor heparin 2 (tahap bukti L5). Indikasi asal: Strok iskemia, gangguan strok…"
 monitor_inn: "EDARAVONE"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis"]
+description: "Edaravone: indikasi baharu diramal Kekurangan kofaktor heparin 2 (heparin cofactor 2 deficiency) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Edaravone
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Edaravone: Daripada Strok Iskemia dan Sklerosis Lateral Amiotrofik kepada Kekurangan Kofaktor Heparin 2
+## Edaravone: Kekurangan kofaktor heparin 2 (heparin cofactor 2 deficiency)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,21 +46,21 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Strok iskemia, gangguan strok, sklerosis lateral amiotrofik (berdasarkan graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Kekurangan kofaktor heparin 2 |
-| Skor Ramalan TxGNN | 99.47% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Kekurangan kofaktor heparin 2 (heparin cofactor 2 deficiency) |
+| Skor Ramalan TxGNN | 0.9947 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
 Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Edaravone secara amnya diketahui sebagai penyental radikal bebas yang mengurangkan tekanan oksidatif. Kesannya dalam strok iskemia dan ALS telah dikaitkan dengan sifat ini, dan secara teori ia mungkin berkaitan dengan keadaan berkaitan trombosis.
 
-Namun, kekurangan kofaktor heparin 2 ialah gangguan trombofilik akibat penurunan perencatan trombin yang bergantung pada dermatan sulfat. Tindakan antioksidan edaravone tidak menangani kekurangan ini, jadi hubungan mekanistik yang dicadangkan hanyalah spekulatif. Skor TxGNN yang tinggi (0.995) merupakan ramalan komputasi semata-mata dan tidak disokong oleh bukti percubaan atau literatur.
+Namun, kekurangan kofaktor heparin 2 ialah gangguan trombofilik akibat penurunan perencatan trombin yang bergantung pada dermatan sulfat. Tindakan antioksidan edaravone tidak menangani kekurangan ini, jadi hubungan mekanistik yang dicadangkan hanyalah spekulatif. Skor TxGNN yang tinggi (0.9947) merupakan ramalan komputasi semata-mata dan tidak disokong oleh bukti percubaan atau literatur.
 
-**Ramalan kedua (untuk rujukan):** *factor 5 excess with spontaneous thrombosis* (skor 99.06%, tahap bukti L5, keputusan Hold). Kesan antioksidan dan pelindung endotelium edaravone dalam strok iskemia mungkin mempunyai kaitan spekulatif, tetapi kecacatan asasnya (faktor V berlebihan atau hiperaktif) ialah kelainan lata pembekuan yang tidak diketahui boleh diperbetulkan oleh penyental radikal bebas. Tiada bukti klinikal atau literatur yang menyokongnya.
+**Ramalan kedua (untuk rujukan):** *factor 5 excess with spontaneous thrombosis* (skor 0.9906, tahap bukti L5, keputusan Hold). Kesan antioksidan dan pelindung endotelium edaravone dalam strok iskemia mungkin mempunyai kaitan spekulatif, tetapi kecacatan asasnya (faktor V berlebihan atau hiperaktif) ialah kelainan lata pembekuan yang tidak diketahui boleh diperbetulkan oleh penyental radikal bebas. Tiada bukti klinikal atau literatur yang menyokongnya.
 
 ## Bukti Percubaan Klinikal
 

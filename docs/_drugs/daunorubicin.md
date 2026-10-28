@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 257
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Daunorubicin: indikasi baharu diramal Leukemia limfoblastik/limfositik akut (tahap bukti L5). Indikasi asal: Tiada data indikasi asal dalam data yang dikumpulkan"
 monitor_inn: "Daunorubicin"
-predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma"]
+predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma"]
+last_modified_at: 2026-10-23
+description: "Daunorubicin: indikasi baharu diramal Limfoma Hodgkin (tahap bukti L5). Indikasi asal: Tiada maklumat indikasi diluluskan dalam data lesen tempatan"
 ---
 
 # Daunorubicin
@@ -33,13 +33,12 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Daunorubicin: Daripada Penggunaan Asal kepada Leukemia Limfoblastik Akut
+## Daunorubicin: Daripada Penggunaan Asal kepada Limfoma Hodgkin
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Daunorubicin ialah ubat antrasiklin sitotoksik yang digunakan dalam rawatan kemoterapi kanser darah. Data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asal yang berdaftar di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **leukemia limfoblastik/limfositik akut (ALL)**, dengan **26 ujian klinikal** yang dikenal pasti. Namun, sebahagian besar ujian ini menguji rejimen kombinasi, bukan daunorubicin secara tunggal.
+Daunorubicin ialah ubat sitotoksik daripada kumpulan antrasiklin. Data kelulusan tempatan yang disusun untuk laporan ini tidak mencatatkan indikasi asalnya. Model TxGNN meramalkan ia mungkin berkesan untuk **Limfoma Hodgkin**, tetapi **2 percubaan klinikal** yang dipautkan ialah protokol kemoterapi gabungan untuk limfoma bukan Hodgkin, dan tiada kajian yang mengkaji Limfoma Hodgkin secara langsung dengan daunorubicin.
 
 ---
 
@@ -47,58 +46,60 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **leukemia limfoblastik/limfosi
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi asal dalam data yang dikumpulkan |
-| Indikasi Baharu yang Diramalkan | Leukemia limfoblastik/limfositik akut |
-| Skor Ramalan TxGNN | 99.82% |
-| Tahap Bukti | L1 (mengikut penilaian data; lihat nota di bawah) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails |
-
-> **Nota tahap bukti:** Tahap L1 dalam data bergantung pada beberapa ujian Fasa 3. Ujian tersebut menguji komponen lain dalam rejimen (contohnya metotreksat dos tinggi atau blinatumomab), bukan daunorubicin secara khusus. Bukti ini menyokong penggunaan peringkat rejimen, bukan kesan ubat tunggal.
+| Indikasi Asal | Tiada maklumat indikasi diluluskan dalam data lesen tempatan |
+| Indikasi Baharu yang Diramalkan | Limfoma Hodgkin |
+| Skor Ramalan TxGNN | 0.9981 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
+| Bilangan Kelulusan | 3 lesen (semua sah, produk tunggal) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Daunorubicin ialah antrasiklin yang menyisip ke dalam DNA dan merencatkan topoisomerase II, sehingga menyebabkan sitotoksisiti pada sel limfoblas yang membahagi dengan pantas. Ia merupakan komponen tulang belakang rejimen induksi ALL pelbagai agen, seperti hyper-CVAD, BFM dan MRC UKALL/ECOG E2993.
+Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang disusun. Berdasarkan pengetahuan am, daunorubicin ialah antrasiklin yang menyelit ke dalam DNA dan merencat topoisomerase II, mekanisme yang relevan untuk keganasan limfoid.
 
-Skor TxGNN yang sangat tinggi selaras dengan aktiviti yang sudah mantap ini. Daunorubicin sebenarnya agen antileukemia yang sedia diketahui, jadi ini bukan pengitaran semula ubat (repurposing) yang sebenar. Rekod yang ada tidak mempunyai indikasi asal dan menunjukkan status "tidak dipasarkan"; kedua-duanya ialah jurang data, bukan bukti bahawa ubat ini tiada kegunaan klinikal.
+Namun, hubungan dengan Limfoma Hodgkin adalah tidak langsung. Dua percubaan Fasa 2 yang dipautkan ialah protokol kemoterapi pelbagai ubat untuk limfoma bukan Hodgkin (satu daripadanya pediatrik), maka sumbangan daunorubicin sendiri tidak dapat diasingkan. Rejimen piawai untuk Limfoma Hodgkin lanjutan, seperti ABVD, menggunakan doxorubicin dan bukan daunorubicin.
 
-Data yang ada menyokong bukti peringkat rejimen sahaja, bukan bukti ubat tunggal. Data mekanisme tindakan terperinci (MOA) daripada pangkalan data rujukan tidak tersedia.
+Oleh sebab itu, ramalan ini wajar dianggap sebagai soalan penyelidikan dan bukan bukti keberkesanan. Tiada kajian yang dipetik mengkaji Limfoma Hodgkin dengan daunorubicin secara langsung, maka tahap bukti ialah L5. Penilaian L3 dalam data asal tidak dipakai di sini kerana syarat kajian langsung tidak dipenuhi.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-Berikut ialah ujian yang paling relevan (gred A dan B) daripada 26 ujian yang dikenal pasti.
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00184041](https://clinicaltrials.gov/study/NCT00184041) | Fasa 2 | Selesai | 47 | Terapi pasca-remisi intensif dengan PEG-asparaginase untuk ALL dewasa baharu didiagnosis |
-| [NCT02660762](https://clinicaltrials.gov/study/NCT02660762) | Fasa 2 | Tidak diketahui | 100 | Rejimen MRC UKALL XII/ECOG E2993 yang diubah suai (mengandungi daunorubicin) untuk ALL risiko rendah, Ph-negatif |
-| [NCT00131027](https://clinicaltrials.gov/study/NCT00131027) | Fasa 3 | Tidak diketahui | 240 | RCT metotreksat dos tinggi sebagai konsolidasi dalam ALL dewasa BCR-ABL negatif; soalan rawak tentang metotreksat |
-| [NCT00199056](https://clinicaltrials.gov/study/NCT00199056) | Fasa 4 | Selesai | 225 | Induksi dan konsolidasi intensif dalam ALL dewasa pelbagai pusat |
-| [NCT00390793](https://clinicaltrials.gov/study/NCT00390793) | Fasa 2 | Selesai | 107 | Hyper-CVAD + dasatinib dalam ALL Ph-positif; pemboleh ubah eksperimen ialah dasatinib |
-| [NCT00061945](https://clinicaltrials.gov/study/NCT00061945) | Fasa 1/2 | Selesai | 302 | Alemtuzumab semasa intensifikasi; daunorubicin sebagai kemoterapi latar |
-| [NCT00002471](https://clinicaltrials.gov/study/NCT00002471) | Fasa 2 | Selesai | Tidak dilaporkan | Kemoterapi kombinasi intensif jangka pendek untuk ALL sel-B dan limfoma |
-| [NCT00002785](https://clinicaltrials.gov/study/NCT00002785) | Fasa 2 | Selesai | Tidak dilaporkan | Rawatan ALL pada bayi di bawah 1 tahun |
-| [NCT02003222](https://clinicaltrials.gov/study/NCT02003222) | Fasa 3 | Aktif, tidak merekrut | 488 | Blinatumomab ditambah kemoterapi untuk ALL sel-B dewasa BCR-ABL negatif |
-| [NCT00005596](https://clinicaltrials.gov/study/NCT00005596) | Fasa 3 | Selesai | 1076 | Empat rejimen kemoterapi kombinasi untuk ALL kanak-kanak risiko standard |
-
-Ujian lain termasuk NCT02419469 (terhenti, 1 peserta) dan NCT00015860 (keadaan bersebelahan, fokus imatinib), yang menyumbang bukti yang sangat sedikit.
+| [NCT00002471](https://clinicaltrials.gov/study/NCT00002471) | Fasa 2 | Selesai | Tidak dilaporkan | Kemoterapi gabungan intensif jangka pendek untuk limfoma bukan limfoblastik berisiko tinggi, leukemia limfoblastik B akut dan limfoma bukan Hodgkin berulang; kesan daunorubicin tidak dapat diasingkan |
+| [NCT00002691](https://clinicaltrials.gov/study/NCT00002691) | Fasa 2 | Selesai | Tidak dilaporkan | Protokol LSA5 untuk limfoma bukan Hodgkin pediatrik dan remaja peringkat III/IV; penyakit berbeza, sokongan tidak langsung |
 
 ---
 
 ## Bukti Literatur
 
-Currently no related literature available untuk indikasi yang diramalkan ini (leukemia limfoblastik akut) dalam data yang dikumpulkan.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [30231396](https://pubmed.ncbi.nlm.nih.gov/30231396/) | 2018 | Ulasan | ASCO Educational Book | Antrasiklin (termasuk daunorubicin) menjadi tulang belakang rejimen kanser kanak-kanak, termasuk Limfoma Hodgkin; kardiotoksisiti ialah had utama |
+| [14584273](https://pubmed.ncbi.nlm.nih.gov/14584273/) | 2003 | Ulasan | Gan to Kagaku Ryoho | ABVD ialah rawatan barisan pertama untuk Limfoma Hodgkin lanjutan berdasarkan kajian rawak |
+| [10410671](https://pubmed.ncbi.nlm.nih.gov/10410671/) | 1999 | Ulasan | Gan to Kagaku Ryoho | Tumor hematologi dirawat terutamanya dengan kemoterapi; rejimen piawai untuk Hodgkin lanjutan dinyatakan |
+| [17610809](https://pubmed.ncbi.nlm.nih.gov/17610809/) | 2007 | Ulasan sistematik | Health Technology Assessment | Perlindungan jantung terhadap toksisiti antrasiklin pada kanak-kanak |
+| [11699226](https://pubmed.ncbi.nlm.nih.gov/11699226/) | 2001 | Kajian klinikal | Leukemia & Lymphoma | Daunorubicin liposom dalam COP-X sebagai terapi penyelamat limfoma bukan Hodgkin; 81% responden (33 pesakit) |
+| [11398876](https://pubmed.ncbi.nlm.nih.gov/11398876/) | 2001 | Kajian klinikal | Annals of Oncology | Daunorubicin liposom untuk limfoma bukan Hodgkin berulang atau refraktori |
+| [9387047](https://pubmed.ncbi.nlm.nih.gov/9387047/) | 1997 | Kajian klinikal | Investigational New Drugs | Daunorubicin liposom pada 19 pesakit limfoma berulang/refraktori; sedikit respons pada dos lebih tinggi |
+| [12688316](https://pubmed.ncbi.nlm.nih.gov/12688316/) | 2003 | Kajian klinikal | Leukemia & Lymphoma | Daunorubicin liposom dalam PVABEC untuk NHL agresif warga emas (35 pesakit) |
+
+Kebanyakan kajian berkaitan limfoma bukan Hodgkin atau keracunan antrasiklin, bukan Limfoma Hodgkin.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan menunjukkan **tiada lesen berdaftar** untuk daunorubicin di Malaysia dan statusnya "Tidak dipasarkan". Maklumat ini perlu disahkan semula terhadap pangkalan data NPRA kerana ia boleh menjadi jurang data.
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL20032424AZ | DAUNOCIN FOR INJ | Tiada maklumat | Tiada maklumat |
+| MAL20040555AZ | ZAVEDOS CS 10MG/10ML INJECTION VIALS | Tiada maklumat | Tiada maklumat |
+| MAL19861664ACZ | DAUNOBLASTINA INJECTION 20MG/VIAL | Tiada maklumat | Tiada maklumat |
 
 ---
 
@@ -106,54 +107,35 @@ Data yang dikumpulkan menunjukkan **tiada lesen berdaftar** untuk daunorubicin d
 
 | Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (antrasiklin; perencat topoisomerase II dan penyisip DNA) |
-| Risiko Penindasan Sumsum Tulang | Tinggi (lazim bagi antrasiklin; data toksisiti khusus tidak tersedia dalam data yang dikumpulkan) |
-| Klasifikasi Emetogenisiti | Sederhana hingga tinggi (mengikut kategori ubat) |
-| Item Pemantauan | Hitung darah lengkap (CBC) dengan pembezaan, fungsi hati dan buah pinggang, elektrolit, fungsi jantung (contohnya ekokardiogram/LVEF) |
-| Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
-
-Literatur yang disertakan untuk indikasi lain turut menekankan kardiotoksisiti berkaitan antrasiklin sebagai had klinikal utama.
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (antrasiklin; perencat topoisomerase II) |
+| Risiko Mielosupresi | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
+| Item Pemantauan | Hitung darah penuh (CBC), fungsi hati dan buah pinggang, serta fungsi jantung (kardiotoksisiti antrasiklin dilaporkan dalam literatur) |
+| Perlindungan Pengendalian | Perlu mengikut peraturan pengendalian ubat sitotoksik |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat:** Pertanyaan interaksi telah selesai dengan 100 interaksi direkodkan. Antaranya, interaksi tahap **Major** termasuk:
-- Cisapride
-- Dolasetron
-- Papaverine
-- Deferiprone
-- Macimorelin
+- **Interaksi Ubat**: Pangkalan data interaksi merekodkan 100 interaksi. Antara yang bertahap **Major**: cisapride, dolasetron, papaverine, deferiprone dan macimorelin. Antara yang bertahap **Moderate**: famotidine, loperamide, clarithromycin, levofloxacin, ondansetron, granisetron, palonosetron dan eliglustat. Metronidazole bertahap **Minor**.
 
-Interaksi tahap **Moderate** termasuk famotidine, loperamide, clarithromycin, ondansetron, granisetron, palonosetron, levofloxacin, rolapitant dan eliglustat. Interaksi tahap **Minor** termasuk metronidazole.
-
-Maklumat amaran utama dan kontraindikasi: Please refer to the package insert for safety information.
+Maklumat amaran dan kontraindikasi lain tidak tersedia; sila rujuk sisipan pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Daunorubicin ialah komponen mantap dalam rejimen induksi ALL, dan banyak ujian Fasa 2 hingga 4 menyokong rejimen yang mengandunginya. Namun, bukti adalah pada peringkat rejimen, bukan ubat tunggal, dan data keselamatan serta pendaftaran tempatan masih tidak lengkap.
+Tiada percubaan atau kajian yang dipetik mengkaji daunorubicin dalam Limfoma Hodgkin secara langsung. Percubaan yang dipautkan ialah protokol gabungan untuk limfoma bukan Hodgkin dan rejimen piawai Hodgkin menggunakan doxorubicin. Maka bukti kekal pada tahap L5 dan data keselamatan lesen tempatan belum lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Pengesahan status pendaftaran dan sisipan pakej (package insert) daripada NPRA, termasuk amaran dan kontraindikasi (jurang yang menyekat saringan keselamatan)
-- Data mekanisme tindakan terperinci (MOA) daripada pangkalan data rujukan
-- Penilaian sumbangan daunorubicin dalam rejimen ALL melalui analisis lanjut ujian atau literatur khusus
-- Pelan pemantauan kardiotoksisiti dan penindasan sumsum tulang
-- Semakan interaksi ubat tahap Major dengan terapi sokongan (contohnya antiemetik dan ubat yang memanjangkan QT)
-
----
-
-### Nota tentang Indikasi Lain yang Diramalkan
-
-Indikasi lain dalam data tidak disyorkan untuk dilanjutkan sekarang:
-- **Limfoma Hodgkin** dan **neuroblastoma**: bukti tahap L3 (Research Question); ujian yang dikaitkan bukan khusus kepada penyakit atau daunorubicin.
-- **Karsinoma paru sel kecil**: bukti tahap L3 (Research Question); sebahagian besar bukti ialah kajian prakliniskal tentang rintangan.
-- **Limfoma sel-B besar ALK-positif, limfoma paru primer, neoplasma retroperitoneal**: bukti tidak langsung (Hold).
-- **Anomali vertebra dengan disfungsi endokrin dan sel-T, ganglioneuroblastoma, adenosarkoma**: ramalan model sahaja tanpa bukti sokongan (Hold).
+- Muat turun dan huraikan sisipan pakej NPRA (amaran, kontraindikasi dan indikasi diluluskan)
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Kajian atau data klinikal yang menilai daunorubicin secara langsung dalam Limfoma Hodgkin
+- Perbandingan dengan doxorubicin, antrasiklin yang digunakan dalam rejimen piawai
+- Pelan pemantauan keselamatan jantung dan hematologi
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

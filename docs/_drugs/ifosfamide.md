@@ -6,9 +6,9 @@ nav_order: 408
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ifosfamide: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Indikasi asal: Tiada rekod indikasi diluluskan dalam data pendaftaran tempatan"
 monitor_inn: "Ifosfamide"
 predicted_indications: ["female breast carcinoma", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "rhabdomyosarcoma (disease)", "myelodysplastic syndrome", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Ifosfamide: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ifosfamide
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Ifosfamide: Daripada Agen Antikanser Pengalkilan kepada Karsinoma Payudara Wanita
+## Ifosfamide: Karsinoma payudara wanita (female breast carcinoma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ Ifosfamide ialah agen kemoterapi pengalkilan (analog siklofosfamid) yang sudah l
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada rekod indikasi diluluskan dalam data pendaftaran tempatan; secara umum ialah agen antikanser pengalkilan |
-| Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita (*female breast carcinoma*) |
-| Skor Ramalan TxGNN | 99.91% |
-| Tahap Bukti | L3 (tiada RCT fasa 2/3 yang selesai; sokongan daripada kajian kohort, kajian fasa 2 dan ulasan) |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikompilasi) |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita (female breast carcinoma) |
+| Skor Ramalan TxGNN | 0.9991 |
+| Tahap Bukti | L5 (tiada RCT fasa 2/3 yang selesai; sokongan daripada kajian kohort, kajian fasa 2 dan ulasan) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -126,7 +126,7 @@ Data ketoksikan khusus tidak tersedia dalam data yang dikompilasi; sila rujuk am
 
 **Rasional:**
 - Bukti untuk karsinoma payudara kebanyakannya daripada kajian fasa 1/2 yang lama dan ulasan, tanpa RCT fasa 3. Peranan ifosfamide dalam regimen gabungan sukar diasingkan.
-- Menurut data yang dikompilasi, ifosfamide tidak dipasarkan dan tidak berdaftar di Malaysia. Maklumat amaran dan kontraindikasi daripada sisipan pakej juga tiada, jadi penilaian keselamatan belum dapat diteruskan.
+- Maklumat amaran dan kontraindikasi daripada sisipan pakej juga tiada, jadi penilaian keselamatan belum dapat diteruskan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Mengesahkan status pendaftaran sebenar di NPRA dan memuat turun sisipan pakej untuk amaran serta kontraindikasi, memandangkan ifosfamide diketahui digunakan secara meluas.

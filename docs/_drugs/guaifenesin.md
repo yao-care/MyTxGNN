@@ -3,18 +3,18 @@ layout: default
 title: Guaifenesin
 parent: Low Evidence (L4-L5)
 nav_order: 396
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Guaifenesin: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L4). Indikasi asal: Rinitis alergi, rinitis vasomotor, faringitis, selsema biasa, rinitis…"
 monitor_inn: "GUAIFENESIN"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
+predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
+description: "Guaifenesin: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Guaifenesin
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-## Guaifenesin: Daripada Rinitis dan Selsema kepada Penyakit Rongga Hidung
+## Guaifenesin: Penyakit rongga hidung (nasal cavity disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit rongga hidung (nasal
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Rinitis alergi, rinitis vasomotor, faringitis, selsema biasa, rinitis, nasofaringitis, gangguan sakit kepala (daripada graf pengetahuan TxGNN) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Penyakit rongga hidung (nasal cavity disease) |
-| Skor Ramalan TxGNN | 99.98% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9998 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 23 daripada 23) |
+| Bilangan Pendaftaran | 23 (sah: 23) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -69,10 +69,10 @@ Berikut ialah ramalan lain yang disenaraikan dalam data yang dikumpulkan untuk l
 
 | Kedudukan | Penyakit | Skor TxGNN | Penilaian Ringkas |
 |------|------|------|------|
-| 2 | Laringofaringitis akut | 99.98% | Hampir dengan indikasi asal (faringitis, selsema, nasofaringitis), maka pelegaan gejala melalui penipisan hingus adalah munasabah. Tiada ujian atau penerbitan. |
-| 3 | Difteria fausial | 99.54% | Jangkitan bakteria bertoksin yang memerlukan antitoksin dan antibiotik. Ekspektoran paling banyak hanya melegakan gejala. Tidak patut dianggap sebagai rawatan. |
-| 4 | Gangguan degeneratif cakera serviks | 99.50% | Tiada kaitan mekanistik yang jelas. Kemungkinan artifak graf pengetahuan. |
-| 5 | Konjunktivitis papilari | 99.27% | Guaifenesin tiada kesan antihistamin atau anti-radang untuk alergi mata. Ramalan sahaja. |
+| 2 | Laringofaringitis akut | 0.9998 | Hampir dengan indikasi asal (faringitis, selsema, nasofaringitis), maka pelegaan gejala melalui penipisan hingus adalah munasabah. Tiada ujian atau penerbitan. |
+| 3 | Difteria fausial | 0.9954 | Jangkitan bakteria bertoksin yang memerlukan antitoksin dan antibiotik. Ekspektoran paling banyak hanya melegakan gejala. Tidak patut dianggap sebagai rawatan. |
+| 4 | Gangguan degeneratif cakera serviks | 0.9950 | Tiada kaitan mekanistik yang jelas. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. |
+| 5 | Konjunktivitis papilari | 0.9927 | Guaifenesin tiada kesan antihistamin atau anti-radang untuk alergi mata. Ramalan sahaja. |
 
 ---
 

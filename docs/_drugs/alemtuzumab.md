@@ -8,6 +8,7 @@ nav_order: 39
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Alemtuzumab
@@ -53,8 +54,8 @@ Tiada keputusan penggunaan semula boleh diberikan sehingga jurang-jurang ini dii
 | Indikasi Baru yang Diramalkan | Tiada — tiada calon penggunaan semula yang diramalkan oleh TxGNN |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | T/A (tiada calon penggunaan semula untuk dinilai) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tangguh** |
 
 ---

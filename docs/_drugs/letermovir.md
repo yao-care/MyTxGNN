@@ -6,9 +6,9 @@ nav_order: 452
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Letermovir: indikasi baharu diramal Kandidiasis vulvovaginal (tahap bukti L5). Indikasi asal: Jangkitan sitomegalovirus (berdasarkan graf pengetahuan TxGNN/PrimeKG)"
 monitor_inn: "LETERMOVIR"
 predicted_indications: ["vulvovaginal candidiasis"]
+description: "Letermovir: indikasi baharu diramal Kandidiasis vulvovaginal (vulvovaginal candidiasis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Letermovir
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Letermovir: Daripada Jangkitan Sitomegalovirus kepada Kandidiasis Vulvovaginal
+## Letermovir: Kandidiasis vulvovaginal (vulvovaginal candidiasis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan sitomegalovirus (berdasarkan graf pengetahuan TxGNN/PrimeKG) |
-| Indikasi Baharu yang Diramalkan | Kandidiasis vulvovaginal |
-| Skor Ramalan TxGNN | 99.88% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Kandidiasis vulvovaginal (vulvovaginal candidiasis) |
+| Skor Ramalan TxGNN | 0.9988 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Boleh Dipertimbangkan (atau Tidak)?
@@ -60,7 +60,7 @@ Letermovir menghalang kompleks terminase DNA CMV (pUL56/pUL51/pUL89). Sasaran in
 
 Data terperinci mengenai mekanisme tindakan (MOA) pada masa ini tidak tersedia, jadi pautan mekanistik tidak dapat disahkan. Jangkitan CMV (virus) dan kandidiasis vulvovaginal (kulat) ialah penyakit yang berbeza dari segi patogen dan sasaran farmakologi.
 
-Skor yang tinggi (0.9988) ialah output pengiraan berasaskan graf pengetahuan, bukan bukti klinikal atau eksperimen. Skor ini mungkin mencerminkan artifak rangkaian, contohnya jiran yang dikongsi dengan ubat antikulat atau anti-jangkitan lain, atau banyaknya interaksi ubat (100), dan bukan kaitan biologi sebenar.
+Skor yang tinggi (0.9988) ialah output model TxGNN (pembelajaran mendalam), bukan bukti klinikal atau eksperimen. Skor ini mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, contohnya ciri yang dikongsi dengan ubat antikulat atau anti-jangkitan lain, atau banyaknya interaksi ubat (100), dan bukan bukti biologi.
 
 ## Bukti Percubaan Klinikal
 
@@ -84,7 +84,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan hanya berasaskan skor model (L5) tanpa percubaan klinikal atau literatur, dan sasaran letermovir (terminase CMV) tidak mempunyai padanan yang diketahui pada kulat *Candida*. Ubat ini juga tidak dipasarkan di Malaysia.
+- Ramalan hanya berasaskan skor model (L5) tanpa percubaan klinikal atau literatur, dan sasaran letermovir (terminase CMV) tidak mempunyai padanan yang diketahui pada kulat *Candida*.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank

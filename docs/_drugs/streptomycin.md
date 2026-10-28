@@ -6,9 +6,9 @@ nav_order: 660
 evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Streptomycin: indikasi baharu diramal Konjunktivitis (tahap bukti L4). Indikasi asal: Tuberkulosis paru-paru (juga kankroid, leptospirosis…"
 monitor_inn: "streptomycin"
 predicted_indications: ["conjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "Lyme disease", "infectious otitis interna"]
+description: "Streptomycin: indikasi baharu diramal Konjunktivitis (conjunctivitis) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Streptomycin
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Streptomisin: Daripada Tuberkulosis Paru-paru kepada Konjunktivitis
+## Streptomycin: Konjunktivitis (conjunctivitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini **tiada ujian klinikal** berdaftar dan hanya **20 penerbitan*
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tuberkulosis paru-paru (juga kankroid, leptospirosis, limfogranuloma venereum, yaws, gingivitis ulseratif nekrotik, brusellosis, tularemia, wabak, granuloma inguinale) |
-| Indikasi Baharu yang Diramalkan | Konjunktivitis |
-| Skor Ramalan TxGNN | 99.87% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Konjunktivitis (conjunctivitis) |
+| Skor Ramalan TxGNN | 0.9987 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -93,7 +93,6 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Streptomisin pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran produk yang direkodkan.
 
 ---
 
@@ -113,7 +112,7 @@ Streptomisin pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran pr
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Tiada ujian klinikal, dan literatur hanya terdiri daripada kajian semula, laporan kes serta kajian lama yang menyokong secara tidak langsung melalui patogen indikasi asal (tularemia, Brucella, tuberkulosis). Alternatif topikal yang mapan wujud, ubat ini tidak dipasarkan di Malaysia, dan profil toksisitinya tidak menggalakkan.
+- Tiada ujian klinikal, dan literatur hanya terdiri daripada kajian semula, laporan kes serta kajian lama yang menyokong secara tidak langsung melalui patogen indikasi asal (tularemia, Brucella, tuberkulosis).
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan peringkat seterusnya)

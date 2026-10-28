@@ -8,6 +8,7 @@ nav_order: 473
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Loperamide Hydrochloride
@@ -51,8 +52,8 @@ Sebelum meneruskan, jurang data kritikal — termasuk maklumat keselamatan sisip
 | Indikasi Baru yang Diramalkan | Tidak tersedia — tiada output TxGNN dalam Pakej Bukti ini |
 | Skor Ramalan TxGNN | Tidak tersedia |
 | Tahap Bukti | T/A (data ramalan hilang) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 9 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

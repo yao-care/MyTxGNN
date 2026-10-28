@@ -4,17 +4,17 @@ title: Ticagrelor
 parent: Low Evidence (L4-L5)
 nav_order: 682
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Ticagrelor: indikasi baharu diramal Arteriosklerosis intrakranial (tahap bukti L5). Indikasi asal: Sindrom koronari akut, penyakit vaskular periferal…"
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
+description: "Ticagrelor: indikasi baharu diramal Arteriosklerosis intrakranial (intracranial arteriosclerosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ticagrelor
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Ticagrelor: Daripada Sindrom Koronari Akut kepada Arteriosklerosis Intrakranial
+## Ticagrelor: Arteriosklerosis intrakranial (intracranial arteriosclerosis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Setakat ini terdapat **2 percubaan klinikal** dan **2 penerbitan** yang berkaita
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Sindrom koronari akut, penyakit vaskular periferal, klaudikasi vaskular berselang-seli, penyakit arteri periferal |
-| Indikasi Baharu yang Diramalkan | Arteriosklerosis intrakranial |
-| Skor Ramalan TxGNN | 99.97% |
-| Tahap Bukti | L2 (sokongan tidak langsung sahaja) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Arteriosklerosis intrakranial (intracranial arteriosclerosis) |
+| Skor Ramalan TxGNN | 0.9997 |
+| Tahap Bukti | L5 (sokongan tidak langsung sahaja) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold (Soalan Penyelidikan) |
 
 ---
@@ -104,7 +104,6 @@ Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila ruju
 
 **Justifikasi:**
 - Skor TxGNN sangat tinggi dan mekanisme antiplatelet munasabah, tetapi tiada percubaan yang telah selesai menunjukkan keberkesanan ticagrelor dalam arteriosklerosis intrakranial. CAPTIVA masih berjalan tanpa keputusan dan belum jelas sama ada ticagrelor ialah ubat yang diuji.
-- Ticagrelor tidak dipasarkan di Malaysia, dan risiko pendarahan intrakranial menuntut kehati-hatian.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Keputusan CAPTIVA dan pengesahan peranan ticagrelor dalam percubaan itu.

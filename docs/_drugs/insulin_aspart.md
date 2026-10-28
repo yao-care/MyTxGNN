@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Insulin Aspart
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 417
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Insulin Aspart: indikasi baharu diramal Diabetes mellitus jenis 1 (tahap bukti L1). Indikasi asal: Diabetes mellitus"
 monitor_inn: "INSULIN ASPART"
-predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
+predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
+description: "Insulin Aspart: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Insulin Aspart
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-## Insulin Aspart: Daripada Diabetes Mellitus kepada Diabetes Mellitus Jenis 1
+## Insulin Aspart: Autoimmune oophoritis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia berkesan untuk **diabetes mellitus jenis 1**, dengan *
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Diabetes mellitus; ketoasidosis diabetik |
-| Indikasi Baharu yang Diramalkan | Diabetes mellitus jenis 1 |
-| Skor Ramalan TxGNN | 99.95% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Autoimmune oophoritis |
+| Skor Ramalan TxGNN | 0.9992 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 16) |
+| Bilangan Pendaftaran | 16 (sah: 16) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
@@ -63,7 +63,6 @@ Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang 
 
 Diabetes jenis 1 ialah keadaan kekurangan insulin mutlak akibat kemusnahan autoimun sel beta pankreas. Penggantian insulin ialah asas rawatan, dan insulin aspart lazimnya digunakan sebagai insulin bolus semasa waktu makan dalam regimen basal-bolus atau melalui pam insulin (CSII). Oleh itu, ramalan ini disokong oleh rasional farmakologi langsung.
 
-Status "tidak dipasarkan" di Malaysia perlu disahkan semula dengan rekod peraturan semasa sebelum sebarang syor dimuktamadkan.
 
 ---
 

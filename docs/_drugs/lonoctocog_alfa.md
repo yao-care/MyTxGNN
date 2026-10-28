@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 471
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Lonoctocog Alfa: indikasi baharu diramal Pseudo-von Willebrand disease (penyakit von Willebrand jenis platelet) (tahap bukti L5). Indikasi asal: Hemofilia"
+last_modified_at: 2026-10-28
 monitor_inn: "LONOCTOCOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome"]
+description: "Lonoctocog Alfa: indikasi baharu diramal Pseudo-von Willebrand disease (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Lonoctocog Alfa
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-## Lonoctocog Alfa: Daripada Hemofilia kepada Penyakit Pseudo-von Willebrand
+## Lonoctocog Alfa: Pseudo-von Willebrand disease
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Ramalan ini hanya berasaskan model pengiraan.
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Hemofilia; bentuk hemofilia bergejala pada wanita pembawa |
-| Indikasi Baharu yang Diramalkan | Pseudo-von Willebrand disease (penyakit von Willebrand jenis platelet) |
-| Skor Ramalan TxGNN | 99.85% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Pseudo-von Willebrand disease |
+| Skor Ramalan TxGNN | 0.9985 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -67,9 +67,9 @@ Penyakit pseudo-von Willebrand (VWD jenis platelet) disebabkan oleh varian gain-
 Namun, penggantian FVIII tidak menangani kecacatan reseptor platelet yang menjadi punca penyakit ini. Skor TxGNN yang tinggi (0.9985) hanyalah ramalan pengiraan tanpa sokongan percubaan klinikal atau literatur.
 
 Ramalan lain dalam model (ranking 2–4) juga berada pada tahap bukti L5 dan semuanya disyorkan Hold:
-- **Primary release disorder of platelets** (99.84%): rasional tidak langsung yang lemah melalui kompleks tenase; kecacatan platelet utama tidak dibetulkan.
-- **Glanzmann thrombasthenia** (99.76%): disebabkan kekurangan integrin αIIbβ3; FVIII tidak bertindak pada reseptor ini, dan kebarangkalian manfaat rendah.
-- **Scott syndrome** (99.44%): kecacatan pendedahan fosfatidilserina; FVIII tidak memulihkan permukaan fosfolipid yang hilang.
+- **Primary release disorder of platelets** (0.9984): rasional tidak langsung yang lemah melalui kompleks tenase; kecacatan platelet utama tidak dibetulkan.
+- **Glanzmann thrombasthenia** (0.9976): disebabkan kekurangan integrin αIIbβ3; FVIII tidak bertindak pada reseptor ini, dan kebarangkalian manfaat rendah.
+- **Scott syndrome** (0.9944): kecacatan pendedahan fosfatidilserina; FVIII tidak memulihkan permukaan fosfolipid yang hilang.
 
 ---
 
@@ -90,7 +90,7 @@ Buat masa ini tiada literatur berkaitan yang tersedia.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur. Penggantian FVIII juga tidak menangani kecacatan reseptor platelet yang menjadi punca penyakit, dan produk ini tidak dipasarkan di Malaysia.
+- Ramalan hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap

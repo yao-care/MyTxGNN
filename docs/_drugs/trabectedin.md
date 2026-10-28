@@ -6,9 +6,9 @@ nav_order: 692
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Trabectedin: indikasi baharu diramal Karsinoma payudara wanita (tahap bukti L5). Indikasi asal: Kanser ovari (indikasi daripada graf pengetahuan TxGNN"
 monitor_inn: "TRABECTEDIN"
 predicted_indications: ["female breast carcinoma"]
+description: "Trabectedin: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Trabectedin
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Trabectedin: Daripada Kanser Ovari kepada Karsinoma Payudara Wanita
+## Trabectedin: Karsinoma payudara wanita (female breast carcinoma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ dengan **1 percubaan klinikal** dan **20 penerbitan** yang disenaraikan dalam da
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Kanser ovari (indikasi daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen tersedia) |
-| Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita |
-| Skor Ramalan TxGNN | 99.73% |
-| Tahap Bukti | L2 (tahap awal yang diberikan; lihat catatan di bawah) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita (female breast carcinoma) |
+| Skor Ramalan TxGNN | 0.9973 |
+| Tahap Bukti | L5 (tahap awal yang diberikan; lihat catatan di bawah) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 > Catatan: Tahap L2 ditetapkan dalam data yang dikumpulkan berdasarkan kajian fasa 2 yang diterbitkan. Namun, satu-satunya percubaan berdaftar yang ditemui (NCT00786838) ialah kajian selang QT, bukan kajian keberkesanan, dan dinilai relevansi gred C. Tahap bukti sebenar bagi keberkesanan kanser payudara perlu disahkan melalui semakan teks penuh.
@@ -66,7 +66,7 @@ Trabectedin ialah pengikat alur minor DNA yang membentuk adukt DNA dan menggangg
 
 Kanser ovari dan sebahagian kanser payudara berkongsi biologi pembaikan DNA dan BRCA yang serupa. Kajian fasa 2 pada pembawa mutasi germinal BRCA1/2 dengan kanser payudara metastatik, serta kajian praklinikal yang melaporkan kesan antitumor yang dipertingkatkan apabila digabungkan dengan IL-12 dalam kanser payudara triple-negative, menyokong kemunasabahan mekanistik ini.
 
-Skor TxGNN yang sangat tinggi (0.997) selaras dengan biologi tersebut, tetapi ia ialah ramalan pengiraan dan bukan bukti klinikal. Data terperinci tentang mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan; huraian di atas adalah berdasarkan rasional pengubahsuaian semula (repurposing) yang dinyatakan dan pengetahuan literatur.
+Skor TxGNN yang sangat tinggi (0.9973) selaras dengan biologi tersebut, tetapi ia ialah ramalan pengiraan dan bukan bukti klinikal. Data terperinci tentang mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan; huraian di atas adalah berdasarkan rasional pengubahsuaian semula (repurposing) yang dinyatakan dan pengetahuan literatur.
 
 ---
 
@@ -97,7 +97,6 @@ Skor TxGNN yang sangat tinggi (0.997) selaras dengan biologi tersebut, tetapi ia
 
 ## Maklumat Pasaran Malaysia
 
-Trabectedin pada masa ini **tidak dipasarkan** di Malaysia dan tiada pendaftaran NPRA dijumpai dalam data yang dikumpulkan.
 
 ---
 
@@ -128,7 +127,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 **Keputusan: Hold**
 
 **Rasional:**
-- Terdapat kajian fasa 2 yang diterbitkan (termasuk pada kanser payudara BRCA1/2 dan HR-positif/HER2-negatif) serta rasional mekanistik yang kukuh, tetapi tiada percubaan berdaftar yang menilai keberkesanan kanser payudara, ubat ini tidak dipasarkan di Malaysia, dan data keselamatan label tidak tersedia. Maklumat keselamatan yang tidak lengkap menghalang kemajuan ke peringkat saringan keselamatan.
+- Maklumat keselamatan yang tidak lengkap menghalang kemajuan ke peringkat saringan keselamatan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Memuat turun dan menghuraikan sisipan pakej (amaran dan kontraindikasi) bagi keselamatan

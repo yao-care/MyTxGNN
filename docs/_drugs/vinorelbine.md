@@ -4,7 +4,7 @@ title: Vinorelbine
 parent: High Evidence (L1-L2)
 nav_order: 726
 evidence_level: L2
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Vinorelbine: indikasi baharu diramal Sarkoma Ewing (tahap bukti L2). Indikasi asal: Kanser paru-paru sel bukan kecil (NSCLC)"
 monitor_inn: "Vinorelbine"
@@ -14,7 +14,7 @@ predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of l
 # Vinorelbine
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **10** 
+Tahap bukti: **L2** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ dengan **3 ujian klinikal** (2 ujian Fasa 2 dan 1 kajian kohort) serta **6 pener
 |------|------|
 | Indikasi Asal | Kanser paru-paru sel bukan kecil (NSCLC); kanser paru-paru |
 | Indikasi Baharu yang Diramalkan | Sarkoma Ewing |
-| Skor Ramalan TxGNN | 99.99% |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan yang Disyorkan | Proceed with Guardrails |
 
 ---

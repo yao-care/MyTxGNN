@@ -6,9 +6,9 @@ nav_order: 270
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Dexchlorpheniramine Maleate: indikasi baharu diramal Porfiria intermiten akut (acute intermittent porphyria) (tahap bukti L5). Indikasi asal: Tiada data indikasi yang diluluskan"
 monitor_inn: "DEXCHLORPHENIRAMINE MALEATE"
 predicted_indications: ["acute intermittent porphyria"]
+description: "Dexchlorpheniramine Maleate: indikasi baharu diramal Porfiria intermiten akut (acute intermittent porphyria) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Dexchlorpheniramine Maleate
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Dexchlorpheniramine Maleate: Daripada Penggunaan Asal kepada Porfiria Intermiten Akut
+## Dexchlorpheniramine Maleate: Porfiria intermiten akut (acute intermittent porphyria)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **porfiria intermiten akut (acu
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi yang diluluskan |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Porfiria intermiten akut (acute intermittent porphyria) |
-| Skor Ramalan TxGNN | 99.12% |
+| Skor Ramalan TxGNN | 0.9912 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 18 daripada 18) |
+| Bilangan Pendaftaran | 18 (sah: 18) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -63,13 +63,12 @@ Butiran mekanisme tindakan ubat ini tidak tersedia pada masa ini. Berdasarkan ma
 
 AIP ialah gangguan biosintesis heme akibat kekurangan porphobilinogen deaminase, dengan serangan neuroviseral. Sesetengah antihistamin dianggap selamat untuk pesakit porfiria dan boleh digunakan untuk kawalan gejala seperti pruritus, loya atau sedasi. Namun, ini ialah penggunaan simptomatik, bukan pengubahsuaian penyakit.
 
-Skor yang tinggi mungkin lebih mencerminkan kedekatan rangkaian dalam graf pengetahuan dengan ubat lain yang digunakan dalam porfiria, dan bukan hubungan mekanistik yang sebenar. Ramalan ini perlu ditafsirkan dengan berhati-hati.
+Skor yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Ramalan ini perlu ditafsirkan dengan berhati-hati.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Pada masa ini tiada lesen NPRA berdaftar untuk ubat ini (status: tidak dipasarkan, 0 pendaftaran).
 
 ---
 

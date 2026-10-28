@@ -6,9 +6,9 @@ nav_order: 709
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Tyrosine: indikasi baharu diramal Sindrom cauda equina (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "TYROSINE"
-predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma"]
+predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "traumatic glaucoma", "aqueous misdirection", "neovascular glaucoma"]
+description: "Tyrosine: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Tyrosine
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Tirosin: Daripada Penggunaan Asal kepada Sindrom Cauda Equina (Ramalan Model)
+## Tyrosine: Sindrom cauda equina (cauda equina syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Tirosin (L-tyrosine) ialah asid amino yang menjadi prekursor kepada katekolamin dan hormon tiroid. Data yang dikumpulkan untuk laporan ini tidak mengandungi sebarang indikasi asal yang berdaftar di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom cauda equina** dengan skor tinggi (99.77%), tetapi ramalan ini berasaskan graf semata-mata, dengan **0 ujian klinikal** dan **0 penerbitan** yang menyokongnya.
+Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **sindrom cauda equina** dengan skor tinggi (0.9977), tetapi skor ini datang daripada model TxGNN dan mungkin mencerminkan persamaan antara penyakit berkaitan yang dipelajari oleh model, bukan bukti biologi, dengan **0 ujian klinikal** dan **0 penerbitan** yang menyokongnya.
 
 ---
 
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom cauda equina** dengan
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
-| Indikasi Baharu yang Diramal | Sindrom cauda equina |
-| Skor Ramalan TxGNN | 99.77% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramal | Sindrom cauda equina (cauda equina syndrome) |
+| Skor Ramalan TxGNN | 0.9977 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 20 daripada 20) |
+| Bilangan Pendaftaran | 20 (sah: 20) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom cauda equina** dengan
 
 Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, tirosin ialah prekursor katekolamin (dopamin, noradrenalin, adrenalin) dan juga substrat untuk sintesis hormon tiroid.
 
-Sindrom cauda equina ialah kecederaan mampatan akar saraf lumbosakral dan merupakan kecemasan pembedahan. Tiada hubungan mekanisme yang mantap antara tirosin dan keadaan ini. Skor yang tinggi hanya mencerminkan corak dalam graf pengetahuan, bukan bukti biologi atau klinikal. Oleh itu, ramalan ini harus dianggap sebagai hipotesis awal sahaja.
+Sindrom cauda equina ialah kecederaan mampatan akar saraf lumbosakral dan merupakan kecemasan pembedahan. Tiada hubungan mekanisme yang mantap antara tirosin dan keadaan ini. Skor yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan antara penyakit berkaitan yang dipelajari oleh model, bukan bukti biologi atau klinikal. Oleh itu, ramalan ini harus dianggap sebagai hipotesis awal sahaja.
 
 Ramalan lain dalam kedudukan teratas (contohnya hipertiroidisme, glaukoma sudut tertutup, sindrom takikardia ortostatik postural) juga tidak menunjukkan bukti yang kukuh. Bagi hipertiroidisme dan hipertiroksinemia, peranan tirosin sebagai substrat hormon tiroid menimbulkan kebimbangan bahawa ia tidak bermanfaat atau mungkin tidak sesuai.
 
@@ -87,7 +87,6 @@ Pada masa ini tiada literatur berkaitan sindrom cauda equina.
 
 ## Maklumat Pasaran Malaysia
 
-Menurut data yang dikumpulkan, tirosin tidak dipasarkan di Malaysia dan tiada lesen berdaftar.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Mycophenolate Mofetil
-parent: Low Evidence (L4-L5)
+parent: High Evidence (L1-L2)
 nav_order: 517
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Mycophenolate Mofetil: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
@@ -14,7 +14,7 @@ predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder w
 # Mycophenolate Mofetil
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L2** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ dengan **4 ujian klinikal** (tiada satu pun yang menunjukkan bukti keberkesanan)
 |------|------|
 | Indikasi Asal | Tiada data indikasi berdaftar di Malaysia |
 | Indikasi Baharu yang Diramal | Jangkitan HIV (HIV infectious disease) |
-| Skor Ramalan TxGNN | 99.86% |
+| Skor Ramalan TxGNN | 0.9986 |
 | Tahap Bukti | L2 (mengikut penilaian dalam data yang dikumpulkan; lihat nota di bawah) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 12) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 **Nota tahap bukti:** Penilaian awal ialah L2. Namun, satu-satunya ujian Fasa 2 yang selesai (NCT00038272) menguji ubat lain dan bukan ujian terus bagi mycophenolate, manakala ujian terus (NCT00021489) telah ditarik balik tanpa peserta. Bukti sebenar bagi HIV adalah lebih lemah daripada tahap L2 yang tersirat dan lebih hampir kepada L3 (kajian pemerhatian dan satu RCT kecil dalam literatur).

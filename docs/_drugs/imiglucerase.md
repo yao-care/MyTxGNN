@@ -3,18 +3,18 @@ layout: default
 title: Imiglucerase
 parent: Low Evidence (L4-L5)
 nav_order: 411
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Imiglucerase: indikasi baharu diramal Sindrom Hurler (tahap bukti L4). Indikasi asal: Penyakit Gaucher"
 monitor_inn: "IMIGLUCERASE"
 predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
+description: "Imiglucerase: indikasi baharu diramal Sindrom Hurler (Hurler syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Imiglucerase
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-## Imiglucerase: Daripada Penyakit Gaucher kepada Sindrom Hurler
+## Imiglucerase: Sindrom Hurler (Hurler syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Ramalan ini lebih bersifat pengiraan model berbanding bukti klinikal.
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit Gaucher |
-| Indikasi Baharu yang Diramalkan | Sindrom Hurler |
-| Skor Ramalan TxGNN | 99.52% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom Hurler (Hurler syndrome) |
+| Skor Ramalan TxGNN | 0.9952 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -100,10 +100,10 @@ Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pek produk.
 
 | Penyakit | Skor TxGNN | Tahap Bukti | Catatan |
 |------|------|------|------|
-| Sindrom Scheie | 99.29% | L4 | Bentuk MPS I yang lebih ringan; tiada kaitan mekanisme langsung. Hanya ulasan umum yang sama. Laronidase ialah terapi yang sesuai. |
-| Neoplasma jinak kelenjar adrenal | 99.28% | L5 | Tiada kaitan mekanisme dikenal pasti; tiada ujian atau literatur. |
-| Sindrom iktiosis autosomal dengan perjalanan penyakit membawa maut | 99.24% | L5 | Kaitan spekulatif melalui metabolisme glukosilseramida/seramida pada lapisan penghalang kulit, tetapi tiada bukti imiglucerase membetulkan kecacatan epidermis. |
-| Penyakit simpanan kolesteril ester | 99.12% | L5 | Disebabkan kekurangan lipase asid lisosom; substrat berbeza. Sebelipase alfa ialah ERT khusus. |
+| Sindrom Scheie | 0.9929 | L5 | Bentuk MPS I yang lebih ringan; tiada kaitan mekanisme langsung. Hanya ulasan umum yang sama. Laronidase ialah terapi yang sesuai. |
+| Neoplasma jinak kelenjar adrenal | 0.9928 | L5 | Tiada kaitan mekanisme dikenal pasti; tiada ujian atau literatur. |
+| Sindrom iktiosis autosomal dengan perjalanan penyakit membawa maut | 0.9924 | L5 | Kaitan spekulatif melalui metabolisme glukosilseramida/seramida pada lapisan penghalang kulit, tetapi tiada bukti imiglucerase membetulkan kecacatan epidermis. |
+| Penyakit simpanan kolesteril ester | 0.9912 | L5 | Disebabkan kekurangan lipase asid lisosom; substrat berbeza. Sebelipase alfa ialah ERT khusus. |
 
 ---
 
@@ -118,7 +118,6 @@ Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pek produk.
 - Data mekanisme tindakan (MOA) yang terperinci
 - Data amaran dan kontraindikasi daripada sisipan pek produk NPRA (jurang data yang menghalang saringan keselamatan)
 - Bukti praklinikal atau klinikal yang menunjukkan aktiviti imiglucerase terhadap pengumpulan glikosaminoglikan
-- Penilaian kebolehlaksanaan status pendaftaran, memandangkan produk ini tidak dipasarkan di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -49,10 +49,10 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **gastroparesis**, tetapi pada 
 |------|------|
 | Indikasi Asal | Tiada data indikasi berdaftar |
 | Indikasi Baharu yang Diramalkan | Gastroparesis |
-| Skor Ramalan TxGNN | 99.32% |
+| Skor Ramalan TxGNN | 0.9932 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 35 daripada 35) |
+| Bilangan Pendaftaran | 35 (sah: 35) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **gastroparesis**, tetapi pada 
 
 Data terperinci mengenai mekanisme tindakan (MOA) threonine tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, threonine ialah asid amino perlu dan prekursor kepada glisin dan serina, serta terlibat dalam sintesis musin yang kaya dengan threonine. Secara teori, ia mungkin berkaitan dengan integriti mukosa gastrik atau fungsi gastrousus.
 
-Namun, kaitan ini bersifat spekulatif. Tiada mekanisme yang mantap menghubungkan threonine dengan motiliti gastrik atau disfungsi neuromuskular yang mendasari gastroparesis (contohnya kehilangan sel interstisial Cajal atau neuropati enterik). Skor yang tinggi mungkin hanya mencerminkan kedekatan rangkaian dalam graf pengetahuan dengan nod metabolisme asid amino atau nod berkaitan gastrousus, dan bukan rasional farmakologi yang sebenar.
+Namun, kaitan ini bersifat spekulatif. Tiada mekanisme yang mantap menghubungkan threonine dengan motiliti gastrik atau disfungsi neuromuskular yang mendasari gastroparesis (contohnya kehilangan sel interstisial Cajal atau neuropati enterik). Skor yang tinggi datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, dan bukan bukti biologi atau rasional farmakologi yang sebenar.
 
 ---
 

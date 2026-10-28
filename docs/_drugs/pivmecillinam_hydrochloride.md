@@ -8,6 +8,7 @@ nav_order: 585
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Pivmecillinam Hydrochloride
@@ -51,8 +52,8 @@ Satu pendaftaran aktif disahkan di Malaysia, tetapi butiran lesen dan data kesel
 | Indikasi Baru yang Diramalkan | Tiada ramalan tersedia |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | L5 — Ramalan model belum dijana |
-| Status Pasaran Malaysia | ✓ Dalam pasaran |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disarankan | **Tahan** |
 
 ---

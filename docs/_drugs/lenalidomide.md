@@ -3,16 +3,18 @@ layout: default
 title: Lenalidomide
 parent: High Evidence (L1-L2)
 nav_order: 451
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Lenalidomide: indikasi baharu diramal Limfoma sel mantel (Mantle Cell Lymphoma) (tahap bukti L1). Indikasi asal: Mieloma sel plasma, limfoma sel mantel, neoplasma sel-B, limfosarkoma…"
+evidence_level: L2
+indication_count: 4
+monitor_inn: "Lenalidomide"
+predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
+last_modified_at: 2026-10-23
+description: "Lenalidomide: indikasi baharu diramal Leukemia mieloid (tahap bukti L2). Indikasi asal: Myeloma plasma sel, limfoma sel mantel, neoplasma sel B, limfosarkoma…"
 ---
 
 # Lenalidomide
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **5** 
+Tahap bukti: **L2** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,101 +33,130 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-## Lenalidomide: Daripada Mieloma Sel Plasma kepada Limfoma Sel Mantel
+## Lenalidomide: Daripada Myeloma Plasma Sel kepada Leukemia Mieloid
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Lenalidomide ialah ubat imunomodulator yang pada asalnya digunakan untuk mieloma sel plasma, sindrom mielodisplastik dan beberapa neoplasma sel-B.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Limfoma Sel Mantel (Mantle Cell Lymphoma)**, dengan **46 ujian klinikal** dan **20 penerbitan** yang disenaraikan dalam data yang dikumpulkan untuk laporan ini.
-Limfoma sel mantel juga sudah tersenarai antara indikasi asal dalam graf pengetahuan, jadi ini lebih hampir kepada penggunaan dalam/hampir label daripada pengalihan guna (repurposing) sebenar.
+Lenalidomide ialah ubat yang pada asalnya digunakan untuk merawat myeloma plasma sel, limfoma sel mantel dan sindrom mielodisplastik (MDS), seperti yang direkodkan dalam graf pengetahuan TxGNN.
+Model TxGNN meramalkan ia mungkin berkesan untuk **leukemia mieloid**,
+dengan **40 percubaan klinikal** dan **20 penerbitan** yang dikumpulkan berkaitan hala tuju ini. Bagaimanapun, tiada percubaan Fasa 3 RCT yang selesai ditemui bagi penyakit ini dalam data yang dikumpulkan.
 
 ---
 
-## Gambaran Keseluruhan
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Mieloma sel plasma, limfoma sel mantel, neoplasma sel-B, limfosarkoma, sindrom mielodisplastik (daripada graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi berlesen tersedia) |
-| Indikasi Baharu yang Diramalkan | Limfoma sel mantel (Mantle Cell Lymphoma) |
-| Skor Ramalan TxGNN | 0.00% (nilai skor dalam data ialah 0.0, sila sahkan semula) |
-| Tahap Bukti | L1 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+| Indikasi Asal | Myeloma plasma sel, limfoma sel mantel, neoplasma sel B, limfosarkoma, sindrom mielodisplastik (hubungan yang direkodkan dalam graf pengetahuan; teks indikasi lesen tempatan tidak tersedia) |
+| Indikasi Baharu yang Diramalkan | Leukemia mieloid |
+| Skor Ramalan TxGNN | 0.9949 |
+| Tahap Bukti | L2 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 24 daripada 24) |
+| Bilangan Pendaftaran | 24 (sah: 24) |
+| Bilangan Kelulusan | 24 pendaftaran (semua produk bahan tunggal, semua sah) |
+| Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Lenalidomide mengikat cereblon (CRBN), komponen ligase E3 ubikuitin CRL4. Ini mencetuskan degradasi faktor transkripsi **IKZF1** dan **IKZF3**, yang menghasilkan kesan anti-proliferasi langsung dan imunomodulasi (kostimulasi sel T/NK). Mekanisme ini disokong oleh kajian mekanistik (PMID 24292625 dan 24292623). Apabila digabungkan dengan antibodi anti-CD20 seperti rituximab, ia juga meningkatkan sitotoksisiti selular bergantung antibodi (ADCC).
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan am, lenalidomide ialah modulator ligase E3 cereblon yang menyebabkan degradasi IKZF1/3 dan CK1α. Degradasi CK1α mendorong tindak balas pada MDS del(5q). Ia juga mempunyai kesan imunomodulatori dan anti-angiogenik.
 
-Mieloma sel plasma dan limfoma sel mantel ialah keganasan sel-B. Mekanisme yang sama (degradasi IKZF1/IKZF3 serta pengaktifan imun) boleh digunakan dalam kedua-duanya, jadi ramalan ini munasabah dari segi biologi.
+MDS dan leukemia mieloid akut (AML) berkait rapat dari segi biologi: MDS berisiko berubah menjadi AML. Mekanisme ini munasabah untuk penyakit mieloid, terutamanya yang mempunyai del(5q). Percubaan NCT00352365 menyasarkan tepat subkumpulan AML del(5q) ini.
 
-Limfoma sel mantel ialah indikasi asal dalam graf pengetahuan, jadi laporan ini menilai bukti sedia ada dan bukannya penemuan indikasi yang benar-benar baharu.
+Namun, hubungan mekanistik ini bersandarkan pengetahuan am kerana medan MOA asal tiada. Terdapat juga isyarat keselamatan: laporan diterbitkan mengaitkan lenalidomide dengan neoplasma mieloid berkaitan terapi bermutasi TP53 (PMID 35512188) dan anemia hemolitik (PMID 25644743).
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-Berikut ialah 10 daripada 46 ujian yang paling relevan. Ringkasan dibuat daripada penerangan ringkas ujian, dan keputusan kecekapan tidak disertakan dalam data yang dikumpulkan.
+Terdapat 40 percubaan berdaftar. Berikut ialah yang paling relevan (gred A/B dan percubaan rawak/Fasa 3 terpilih):
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Dapatan Utama |
 |---------|------|------|------|---------|
-| [NCT00875667](https://clinicaltrials.gov/study/NCT00875667) | Fasa 2 | Selesai | 254 | Rawak, label terbuka: lenalidomide berbanding pilihan penyiasat dalam MCL relaps/refraktori |
-| [NCT01996865](https://clinicaltrials.gov/study/NCT01996865) | Fasa 3B | Selesai | 503 | Penyelenggaraan lenalidomide + rituximab berbanding rituximab dalam limfoma folikular, zon marginal atau sel mantel relaps/refraktori |
-| [NCT01865110](https://clinicaltrials.gov/study/NCT01865110) | Fasa 3 | Selesai | 623 | R-CHOP ± R-HAD diikuti penyelenggaraan rituximab ± lenalidomide pada pesakit MCL berumur ≥60 tahun |
-| [NCT02354313](https://clinicaltrials.gov/study/NCT02354313) | Fasa 3 | Tidak diketahui | 300 | Penyelenggaraan lenalidomide berbanding pemerhatian selepas induksi dan ASCT (MCL0208) |
-| [NCT01021423](https://clinicaltrials.gov/study/NCT01021423) | Fasa 3 | Ditamatkan | 9 | Penyelenggaraan barisan pertama lenalidomide berbanding plasebo; ditamatkan awal oleh penaja, jadi tiada data kecekapan yang boleh digunakan |
-| [NCT00737529](https://clinicaltrials.gov/study/NCT00737529) | Fasa 2 | Selesai | 134 | Lenalidomide monoterapi dalam MCL yang relaps atau refraktori terhadap bortezomib |
-| [NCT01472562](https://clinicaltrials.gov/study/NCT01472562) | Fasa 2 | Selesai | 38 | Lenalidomide + rituximab sebagai terapi barisan pertama dalam MCL yang belum dirawat |
-| [NCT00633594](https://clinicaltrials.gov/study/NCT00633594) | Fasa 1/2 | Selesai | 39 | Rituximab, lenalidomide dan bortezomib dalam MCL barisan pertama atau kedua |
-| [NCT03863184](https://clinicaltrials.gov/study/NCT03863184) | Fasa 2 | Aktif (tidak merekrut) | 37 | Acalabrutinib + lenalidomide + rituximab/obinutuzumab dalam MCL yang belum dirawat |
-| [NCT03647124](https://clinicaltrials.gov/study/NCT03647124) | Tidak berkenaan | Selesai | 105 | Kajian keselamatan pasca-kelulusan bukan intervensi: tindak balas tumor flare dan beban tumor tinggi pada MCL relaps/refraktori |
+| [NCT01556477](https://clinicaltrials.gov/study/NCT01556477) | Fasa 2 | Tidak diketahui | 72 | Rawak: azacitidine sahaja berbanding digabungkan dengan lenalidomide dalam MDS/AML berisiko tinggi dengan del(5q) |
+| [NCT00352365](https://clinicaltrials.gov/study/NCT00352365) | Fasa 2 | Selesai | 41 | Lenalidomide pada AML del(5q) yang belum dirawat, berumur ≥60 tahun dan menolak kemoterapi induksi |
+| [NCT01358734](https://clinicaltrials.gov/study/NCT01358734) | Fasa 2 | Selesai | 88 | Rawak: lenalidomide dos tinggi, azacitidine diikuti lenalidomide, atau azacitidine sahaja pada AML baharu didiagnosis, ≥65 tahun |
+| [NCT04490707](https://clinicaltrials.gov/study/NCT04490707) | Fasa 3 | Tidak diketahui | 60 | Azacitidine + lenalidomide sebagai terapi penyelenggaraan berpandukan MRD pada AML warga tua atau tidak sesuai |
+| [NCT01301820](https://clinicaltrials.gov/study/NCT01301820) | Fasa 2 | Selesai | 120 | Penyelenggaraan Revlimid berselang-seli dengan Vidaza selepas remisi pertama pada AML prognosis lemah |
+| [NCT00831766](https://clinicaltrials.gov/study/NCT00831766) | Fasa 1/2 | Selesai | 51 | Idarubicin + cytarabine diikuti lenalidomide pada MDS RAEB-2 atau AML belum dirawat |
+| [NCT01016600](https://clinicaltrials.gov/study/NCT01016600) | Fasa 1/2 | Selesai | 31 | Azacitidine + lenalidomide pada AML; toksisiti dan kadar remisi |
+| [NCT01038635](https://clinicaltrials.gov/study/NCT01038635) | Fasa 1/2 | Selesai | 94 | Azacitidine + lenalidomide pada MDS dan AML berisiko tinggi |
+| [NCT02538965](https://clinicaltrials.gov/study/NCT02538965) | Fasa 2 | Selesai | 17 | Lenalidomide dalam AML pediatrik relaps/refraktori; sampel kecil |
+| [NCT01522976](https://clinicaltrials.gov/study/NCT01522976) | Fasa 2 | Aktif, tidak merekrut | 282 | Rawak Fasa II/III: azacitidine ± lenalidomide atau vorinostat dalam MDS berisiko lebih tinggi dan CMML |
+
+Nota: kebanyakan percubaan ialah Fasa 1/2 berlengan tunggal. Tiada percubaan Fasa 3 yang selesai yang mengkaji leukemia mieloid secara langsung ditemui; NCT04490707 (Fasa 3) berstatus tidak diketahui.
 
 ---
 
 ## Bukti Literatur
 
-Daripada 20 penerbitan, 10 yang paling relevan untuk limfoma sel mantel disenaraikan. Satu-satunya RCT dalam set ini (ROBUST, PMID 33621109) mengkaji limfoma sel-B besar meresap (DLBCL), bukan MCL, jadi ia tidak disenaraikan.
-
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [29172868](https://pubmed.ncbi.nlm.nih.gov/29172868/) | 2018 | Ulasan | Leukemia & Lymphoma | Cadangan rawatan MCL relaps/refraktori berasaskan Eropah; kebanyakan ujian ialah Fasa 2 tanpa rawak |
-| [30608891](https://pubmed.ncbi.nlm.nih.gov/30608891/) | 2019 | Ulasan | Expert Opin Pharmacother | Ulasan kecekapan lenalidomide sebagai monoterapi dan dalam kombinasi untuk MCL |
-| [25952533](https://pubmed.ncbi.nlm.nih.gov/25952533/) | 2015 | Ulasan | Expert Rev Hematol | Lenalidomide diluluskan untuk MCL relaps selepas sekurang-kurangnya dua barisan terapi termasuk bortezomib; kombinasi baharu dibincangkan |
-| [24883181](https://pubmed.ncbi.nlm.nih.gov/24883181/) | 2014 | Ulasan | Ther Adv Hematol | Ujian Fasa I/II lenalidomide dalam MCL relaps/refraktori menunjukkan hasil yang menjanjikan |
-| [36257914](https://pubmed.ncbi.nlm.nih.gov/36257914/) | 2023 | Kohort | Br J Haematol | SCHOLAR-2: data dunia sebenar 240 pesakit MCL relaps/refraktori selepas kegagalan perencat BTK |
-| [38906740](https://pubmed.ncbi.nlm.nih.gov/38906740/) | 2024 | Ulasan | Blood Reviews | Perencat BTK ialah tunjang MCL relaps/refraktori, tetapi tidak menyembuhkan |
-| [33799484](https://pubmed.ncbi.nlm.nih.gov/33799484/) | 2021 | Ulasan | J Clin Med | Pengurusan semasa MCL relaps dan susunan terapi |
-| [26297281](https://pubmed.ncbi.nlm.nih.gov/26297281/) | 2015 | Ulasan | Clin Lymphoma Myeloma Leuk | Pengurusan praktikal ruam berkaitan lenalidomide; toksisiti hematologi gred ≥3 ialah punca utama gangguan rawatan |
-| [41289154](https://pubmed.ncbi.nlm.nih.gov/41289154/) | 2026 | Kajian Fasa 2 | Blood Advances | Acalabrutinib + lenalidomide + rituximab/obinutuzumab dengan pemantauan MRD dalam MCL barisan pertama |
-| [40402132](https://pubmed.ncbi.nlm.nih.gov/40402132/) | 2025 | Kajian klinikal | Blood Advances | ctDNA sebagai penentu respons pada 58 pesakit MCL relaps/refraktori yang dirawat dengan venetoclax, lenalidomide dan rituximab |
+| [39033767](https://pubmed.ncbi.nlm.nih.gov/39033767/) | 2024 | RCT | Lancet Haematol | Lenalidomide dos rendah berbanding plasebo pada MDS del(5q) risiko rendah yang tidak bergantung pada transfusi (Fasa 3, SintraREV) |
+| [32777116](https://pubmed.ncbi.nlm.nih.gov/32777116/) | 2020 | Fasa 1 | Am J Hematol | Lenalidomide + idarubicin/cytarabine pada AML relaps/refraktori dan MDS berisiko tinggi |
+| [34471239](https://pubmed.ncbi.nlm.nih.gov/34471239/) | 2021 | Fasa 1 | Bone Marrow Transplant | Keselamatan dan toleransi penyelenggaraan lenalidomide selepas transplan pada AML dan MDS berisiko tinggi |
+| [35512188](https://pubmed.ncbi.nlm.nih.gov/35512188/) | 2022 | Kohort/prapklinikal | Blood | Lenalidomide menggalakkan perkembangan neoplasma mieloid berkaitan terapi bermutasi TP53 (isyarat keselamatan) |
+| [25644743](https://pubmed.ncbi.nlm.nih.gov/25644743/) | 2015 | Laporan kes | Leuk Lymphoma | Anemia hemolitik berkaitan lenalidomide |
+| [40000845](https://pubmed.ncbi.nlm.nih.gov/40000845/) | 2025 | Kajian mekanisme | Leukemia | Kebergantungan boleh disasarkan dalam MDS del(5q) yang rintang; keberkesanan lenalidomide bergantung pada degradasi CK1α |
+| [37288607](https://pubmed.ncbi.nlm.nih.gov/37288607/) | 2023 | Ulasan | Am J Hematol | Kemas kini MDS: diagnosis, stratifikasi risiko dan pengurusan |
+| [37874917](https://pubmed.ncbi.nlm.nih.gov/37874917/) | 2023 | Ulasan | Blood | Pembuatan keputusan klinikal dan rawatan MDS |
+| [29795386](https://pubmed.ncbi.nlm.nih.gov/29795386/) | 2018 | Ulasan | Blood Cancer J | Algoritma rawatan MDS semasa |
+| [23349394](https://pubmed.ncbi.nlm.nih.gov/23349394/) | 2013 | Prapklinikal | Blood | Lenalidomide mengurangkan kemandirian sel CLL dengan mengubah mikropersekitaran mieloid |
+
+Nota: kebanyakan penerbitan membincangkan MDS, bukan AML secara langsung.
 
 ---
 
-## Sitotoksisiti (Ubat Antineoplastik)
+## Maklumat Pasaran Malaysia
+
+Terdapat 24 pendaftaran sah (semua produk bahan tunggal). Teks indikasi diluluskan tidak tersedia dalam data yang dikumpulkan. Lima kelulusan utama:
+
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL12040007ARZ | REVLIMID (Lenalidomide) Capsules 25mg | Kapsul | Tiada maklumat |
+| MAL12040006ARZ | Revlimid (Lenalidomide) Capsules 10 mg | Kapsul | Tiada maklumat |
+| MAL12040005ARZ | REVLIMID (Lenalidomide) Capsules 5mg | Kapsul | Tiada maklumat |
+| MAL12040004ARZ | REVLIMID (Lenalidomide) Capsules 15mg | Kapsul | Tiada maklumat |
+| MAL22076030AZ | Lenmicare Capsules 5mg | Kapsul | Tiada maklumat |
+
+Produk generik lain termasuk Linadex, Lidoma, Lenangio, Lemidna dan Lenmicare pelbagai kekuatan.
+
+---
+
+## Sitotoksisiti
 
 | Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Agen imunomodulator (IMiD), terapi bersasar degradasi protein melalui cereblon; bukan sitotoksik konvensional |
-| Risiko Mielosupresi | Tinggi: neutropenia dan trombositopenia tersenarai dalam kontraindikasi graf pengetahuan, dan toksisiti hematologi gred ≥3 ialah punca utama gangguan atau penghentian rawatan |
-| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pek |
-| Item Pemantauan | Hitung darah lengkap (CBC), fungsi renal; perhatikan risiko trombosis/embolisme pulmonari |
-| Perlindungan Pengendalian | Sila rujuk sisipan pek dan garis panduan pengendalian ubat sitotoksik/berbahaya institusi |
+| Klasifikasi Sitotoksisiti | Terapi imunomodulatori/sasaran (modulator cereblon), bukan sitotoksik konvensional |
+| Risiko Penindasan Sumsum Tulang | Tinggi (trombositopenia dan neutropenia direkodkan dalam graf pengetahuan sebagai kontraindikasi/risiko) |
+| Klasifikasi Emetogenisiti | Sila rujuk risalah maklumat produk |
+| Item Pemantauan | Kiraan darah penuh (CBC dengan pembezaan), fungsi buah pinggang dan hati |
+| Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga dalam risalah maklumat produk |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-**Kontraindikasi/penyakit berisiko (graf pengetahuan TxGNN, bukan teks label):** trombositopenia, neutropenia, agranulositosis, embolisme pulmonari, gangguan fungsi renal, kanser dan embrioma.
+- **Hubungan kontraindikasi dalam graf pengetahuan** (bukan teks label): trombositopenia, neutropenia, agranulositosis, embolisme pulmonari, fungsi buah pinggang terjejas, kanser, embrioma.
+- **Interaksi ubat** (100 interaksi direkodkan; yang utama):
+  - **Major**: rosuvastatin, simvastatin
+  - **Sederhana**: eliglustat, naltrexone
+  - Banyak interaksi lain bertahap tidak diketahui (contohnya metformin, omeprazole, prednisone).
+- **Isyarat keselamatan daripada literatur**: neoplasma mieloid berkaitan terapi bermutasi TP53 (PMID 35512188) dan anemia hemolitik (PMID 25644743).
 
-**Interaksi Ubat** (100 rekod interaksi ditemui; sebahagian besar bertahap "Tidak diketahui"):
-- **Major:** rosuvastatin, simvastatin
-- **Sederhana:** eliglustat, naltrexone
-- Interaksi lain yang direkodkan (contohnya metformin, omeprazole, prednisone, morfin) tidak mempunyai tahap keterukan yang jelas.
+Sila rujuk risalah maklumat produk untuk amaran dan kontraindikasi rasmi.
 
-Amaran utama dan kontraindikasi berdasarkan sisipan pek rasmi belum diperoleh. Sila rujuk sisipan pek untuk maklumat keselamatan yang lengkap.
+---
+
+## Penilaian Indikasi Lain yang Diramalkan
+
+| Penyakit | Skor TxGNN | Bukti | Keputusan |
+|------|------|------|------|
+| Sitopenia refraktori zaman kanak-kanak | 0.9935 | 1 percubaan Fasa 1 pediatrik, tiada literatur | Hold |
+| Anemia aregeneratif | 0.9932 | 2 percubaan tidak spesifik; literatur kebanyakannya tentang myeloma/limfoma | Hold |
+| Anemia hipokromik kongenital teruk dengan sideroblas bercincin | 0.9928 | Tiada percubaan atau literatur | Hold |
 
 ---
 
@@ -134,15 +165,13 @@ Amaran utama dan kontraindikasi berdasarkan sisipan pek rasmi belum diperoleh. S
 **Keputusan: Proceed with Guardrails**
 
 **Rasional:**
-- Terdapat sekurang-kurangnya dua ujian Fasa 3 yang selesai yang melibatkan lenalidomide dalam MCL (NCT01996865 dan NCT01865110), ditambah ujian Fasa 2 rawak yang besar (NCT00875667). Maka tahap bukti L1 dipenuhi secara formal.
-- Namun, ujian Fasa 3 tersebut menguji lenalidomide dalam kombinasi atau dalam populasi limfoma campuran, bukan sebagai penentu tunggal. Satu ujian Fasa 3 penyelenggaraan khusus MCL ditamatkan dengan hanya 9 pesakit. Di Malaysia, ubat ini juga tidak mempunyai pendaftaran.
+Terdapat banyak percubaan Fasa 1/2 dan beberapa percubaan rawak Fasa 2 yang secara langsung mengkaji lenalidomide dalam AML, serta sokongan mekanistik yang munasabah untuk subkumpulan del(5q). Namun tiada percubaan Fasa 3 yang selesai bagi penyakit ini, dan terdapat isyarat keselamatan (neoplasma mieloid bermutasi TP53, penindasan sumsum tulang), maka kemajuan perlu dilakukan dengan pengawasan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-- Memperoleh dan menyemak sisipan pek (amaran, kontraindikasi), termasuk risiko teratogenik sebagai analog thalidomide, serta menetapkan pelan pengurusan risiko yang sesuai.
-- Mengesahkan status pendaftaran dan laluan kawal selia di Malaysia, kerana tiada pendaftaran ditemui.
-- Menyemak hasil sebenar ujian Fasa 3 (NCT01996865, NCT01865110, NCT02354313), terutamanya bahagian MCL dan sumbangan lenalidomide dalam kombinasi.
-- Mengesahkan skor TxGNN (nilai 0.0) dan menilai semula keserupaan dengan indikasi asal (belum dinilai).
-- Merangka pelan pemantauan hematologi dan keselamatan untuk populasi khas, termasuk pesakit dengan gangguan renal dan risiko tromboembolisme, serta menyemak interaksi dengan statin.
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) rasmi daripada DrugBank
+- Risalah maklumat produk NPRA (amaran, kontraindikasi dan indikasi diluluskan)
+- Hasil percubaan rawak Fasa 2/3 dalam AML, terutamanya subkumpulan del(5q)
+- Pelan pemantauan keselamatan (kiraan darah, status TP53, risiko tromboembolisme) dan semakan interaksi dengan statin
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

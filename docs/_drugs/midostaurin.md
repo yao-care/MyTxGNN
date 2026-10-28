@@ -7,11 +7,12 @@ drugbank_id: "DB06595"
 drug_name: "Midostaurin"
 kg_predictions: 42
 dl_predictions: 0
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/midostaurin/
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Midostaurin
@@ -37,7 +38,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **42** ramalan graf pengetahuan dan **0** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **42** ramalan model TxGNN (pembelajaran mendalam) dan **0** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

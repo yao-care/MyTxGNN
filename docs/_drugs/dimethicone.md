@@ -8,6 +8,7 @@ nav_order: 293
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Dimethicone
@@ -49,8 +50,8 @@ Dimethicone (simethicone) ialah agen anti-buih berasaskan silikon yang digunakan
 | Petunjuk Baru yang Diramalkan | **Tiada** — TxGNN tidak menghasilkan ramalan |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 (Tiada ramalan, tiada kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 11 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
+| Bilangan Pendaftaran | 11 (sah: 11) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

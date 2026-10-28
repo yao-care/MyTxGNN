@@ -3,18 +3,18 @@ layout: default
 title: Rilpivirine
 parent: Low Evidence (L4-L5)
 nav_order: 620
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Rilpivirine: indikasi baharu diramal Sindrom imunodefisiensi dapatan kucing (feline acquired immunodeficie… (tahap bukti L4). Indikasi asal: Jangkitan HIV, AIDS"
 monitor_inn: "RILPIVIRINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Rilpivirine: indikasi baharu diramal Sindrom imunodefisiensi dapatan kucing (feline acquired immunodeficiency syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Rilpivirine
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-## Rilpivirine: Daripada Jangkitan HIV kepada Sindrom Imunodefisiensi Dapatan Kucing (Feline AIDS)
+## Rilpivirine: Sindrom imunodefisiensi dapatan kucing (feline acquired immunodeficiency syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini hanya terdapat **0 ujian klinikal** dan **1 penerbitan** (kaj
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan HIV, AIDS |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Sindrom imunodefisiensi dapatan kucing (feline acquired immunodeficiency syndrome) |
-| Skor Ramalan TxGNN | 99.97% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9997 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -84,7 +84,6 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Rilpivirine pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan.
 
 ---
 
@@ -118,10 +117,8 @@ Ramalan lain yang disenaraikan tidak menunjukkan penemuan baharu yang kukuh:
 
 | Penyakit Diramalkan | Skor | Tahap Bukti | Ringkasan |
 |------|------|------|------|
-| Jangkitan virus imunodefisiensi simian | 99.97% | L4 | Kajian haiwan makaka sahaja (rilpivirine tindak panjang, bersama cabotegravir); model praklinikal bagi indikasi HIV sedia ada. Tiada ujian klinikal. |
-| Gangguan perkembangan saraf dengan gaya berjalan ataksik | 99.97% | L5 | Ramalan pengiraan sahaja; tiada bukti dan tiada kaitan mekanistik yang jelas. |
-| HIV kongenital | 99.56% | L4 | Literatur tertumpu pada keselamatan kehamilan (kebanyakannya kajian kohort dan laporan kes, dikelirukan oleh kombinasi dengan cabotegravir); satu ujian yang disenaraikan (NCT04340388) berkaitan dolutegravir dan tidak relevan. |
-| Kompleks berkaitan AIDS | 99.56% | L4 | Istilah klinikal lama bagi HIV bergejala, bertindih dengan indikasi sedia ada; hanya satu laporan kes interaksi ubat. |
+| Jangkitan virus imunodefisiensi simian | 0.9997 | L5 | Kajian haiwan makaka sahaja (rilpivirine tindak panjang, bersama cabotegravir); model praklinikal bagi indikasi HIV sedia ada. Tiada ujian klinikal. |
+| Gangguan perkembangan saraf dengan gaya berjalan ataksik | 0.9997 | L5 | Ramalan pengiraan sahaja; tiada bukti dan tiada kaitan mekanistik yang jelas. |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

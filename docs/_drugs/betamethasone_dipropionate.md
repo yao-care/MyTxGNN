@@ -8,6 +8,7 @@ nav_order: 142
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Betamethasone Dipropionate
@@ -49,7 +50,8 @@ Betamethasone Dipropionate ialah kortikosteroid sintetik yang kuat digunakan sec
 | Petunjukan Baru yang Diramalkan | **Tiada** (tiada ramalan TxGNN dijana) |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | **L5** — Ramalan model sahaja; tiada calon dikenal pasti |
-| Status Pasaran Malaysia | ✓ Dalam Pasaran (Marketed) |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 41 daripada 41) |
+| Bilangan Pendaftaran | 41 (sah: 41) |
 | Jumlah Pendaftaran | 41 |
 | Keputusan yang Disyorkan | **Tahan** |
 

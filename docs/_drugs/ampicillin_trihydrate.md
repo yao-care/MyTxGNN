@@ -8,6 +8,7 @@ nav_order: 76
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Ampicillin Trihydrate
@@ -51,8 +52,8 @@ Tanpa indikasi kegunaan semula yang diramalkan, penilaian kegunaan semula yang f
 | Indikasi Kegunaan Semula yang Diramalkan | Tidak tersedia — tiada ramalan TxGNN dikembalikan |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A (paip saluran ramalan tidak dilaksanakan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 9 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan yang Disyorkan | **Tahan** — jurang data kritikal mesti diselesaikan terlebih dahulu |
 
 ---

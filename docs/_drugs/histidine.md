@@ -6,9 +6,9 @@ nav_order: 401
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Histidine: indikasi baharu diramal Gastroparesis (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "HISTIDINE"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
+description: "Histidine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (gastroparesis (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Histidine
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Histidine: Daripada Tiada Indikasi Berdaftar kepada Gastroparesis
+## Histidine: Gastroparesis (gastroparesis (disease)) (gastroparesis (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **gastroparesis**, tetapi buat 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
-| Indikasi Baharu yang Diramalkan | Gastroparesis |
-| Skor Ramalan TxGNN | 99.55% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Gastroparesis (gastroparesis (disease)) (gastroparesis (disease)) |
+| Skor Ramalan TxGNN | 0.9955 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 32 daripada 32) |
+| Bilangan Pendaftaran | 32 (sah: 32) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -100,7 +100,6 @@ Sebagai maklumat tambahan, graf pengetahuan TxGNN (PrimeKG) mencatatkan kaitan p
 
 **Rasional:**
 - Ramalan ini hanya berasaskan model (tahap bukti L5), tanpa percubaan klinikal dan tanpa mekanisme yang disokong. Satu-satunya penerbitan yang dipautkan tidak berkaitan dengan histidine.
-- Histidine tidak dipasarkan di Malaysia dan tiada indikasi berdaftar sebagai rujukan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) histidine
@@ -110,7 +109,7 @@ Sebagai maklumat tambahan, graf pengetahuan TxGNN (PrimeKG) mencatatkan kaitan p
 
 ---
 
-## Histidine: Daripada Tiada Indikasi Berdaftar kepada Kolangitis Sklerosan
+## Histidine: Daripada Tiada Indikasi Berdaftar kepada Gastroparesis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -126,7 +125,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **kolangitis sklerosan**, tetap
 |------|------|
 | Indikasi Asal | Tiada data indikasi berdaftar |
 | Indikasi Baharu yang Diramalkan | Kolangitis sklerosan |
-| Skor Ramalan TxGNN | 99.27% |
+| Skor Ramalan TxGNN | 0.9927 |
 | Tahap Bukti | L4 |
 | Status Pasaran Malaysia | Tidak dipasarkan |
 | Bilangan Pendaftaran | 0 |
@@ -164,7 +163,6 @@ Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 | [29601088](https://pubmed.ncbi.nlm.nih.gov/29601088/) | 2018 | Praklinikal (haiwan dan sel manusia) | Hepatology | Penyekatan reseptor H1/H2 merencat kerosakan/fibrosis dan tumorigenesis kolangiokarsinoma |
 | [30325540](https://pubmed.ncbi.nlm.nih.gov/30325540/) | 2019 | Kohort (biopenanda) | Hepatology | Metabolit serum sebagai biopenanda diagnostik kolangiokarsinoma, HCC dan PSC |
 | [8020893](https://pubmed.ncbi.nlm.nih.gov/8020893/) | 1994 | Ulasan | Hepatology | Genetik molekul penyakit hati autoimun dan kaitan HLA |
-| [23928409](https://pubmed.ncbi.nlm.nih.gov/23928409/) | 2013 | Kohort (biopenanda) | Journal of Hepatology | Profil microRNA dalam larutan pemeliharaan graf meramalkan lesi biliari jenis iskemia |
 | [19691661](https://pubmed.ncbi.nlm.nih.gov/19691661/) | 2010 | Kohort (retrospektif) | Transplant International | Insiden dan faktor risiko lesi biliari jenis iskemia selepas pemindahan hati |
 
 ---
@@ -183,7 +181,6 @@ Graf pengetahuan TxGNN (PrimeKG) mencatatkan kaitan kontraindikasi yang berpoten
 
 **Rasional:**
 - Bukti sedia ada hanyalah praklinikal dan menunjukkan bahawa isyarat histamin yang meningkat memudaratkan kolangitis sklerosan, jadi histidine sebagai prekursor histamin berpotensi memburukkan penyakit.
-- Tiada percubaan klinikal, dan histidine tidak dipasarkan di Malaysia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) histidine

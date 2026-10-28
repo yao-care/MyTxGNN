@@ -4,17 +4,17 @@ title: Valproic Acid
 parent: Low Evidence (L4-L5)
 nav_order: 717
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Valproic Acid: indikasi baharu diramal Neoplasma saraf trigeminal (tahap bukti L5). Indikasi asal: Epilepsi, mania dalam gangguan afektif bipolar…"
 monitor_inn: "VALPROIC ACID"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
+description: "Valproic Acid: indikasi baharu diramal Neoplasma saraf trigeminal (trigeminal nerve neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Valproic Acid
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Asid Valproik: Daripada Epilepsi kepada Neoplasma Saraf Trigeminal
+## Valproic Acid: Neoplasma saraf trigeminal (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini terdapat **0 percubaan klinikal** dan hanya **1 penerbitan** 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Epilepsi, mania dalam gangguan afektif bipolar, epilepsi absens (daripada graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi berlesen tersedia) |
-| Indikasi Baharu yang Diramalkan | Neoplasma saraf trigeminal |
-| Skor Ramalan TxGNN | 99.97% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Neoplasma saraf trigeminal (trigeminal nerve neoplasm) |
+| Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikompilasi; perlu disahkan) |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -64,7 +64,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. 
 
 Hubungan antara indikasi asal (epilepsi) dengan indikasi baharu (tumor saraf trigeminal) lemah. Satu-satunya penerbitan yang dipautkan ialah siri kes 1997 mengenai sindrom Sturge-Weber, iaitu gangguan neurokutaneus dengan sawan, bukan tumor saraf trigeminal. Dalam kajian itu asid valproik hanya digunakan untuk mengawal sawan.
 
-Skor TxGNN yang tinggi kemungkinan besar mencerminkan kedekatan dalam graf dengan nod epilepsi dan neuro-onkologi, bukan bukti klinikal. Oleh itu ramalan ini perlu dianggap sebagai hipotesis yang belum disokong.
+Skor yang tinggi daripada model TxGNN (pembelajaran mendalam) mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi atau klinikal. Oleh itu ramalan ini perlu dianggap sebagai hipotesis yang belum disokong.
 
 ---
 
@@ -99,7 +99,7 @@ Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila ruju
 **Keputusan: Hold**
 
 **Rasional:**
-- Tiada percubaan klinikal dan tiada literatur yang menyokong penggunaan asid valproik untuk neoplasma saraf trigeminal. Skor tinggi model hanya merupakan ramalan (L5), dan ubat ini tidak dipasarkan di Malaysia mengikut data yang dikompilasi.
+- Tiada percubaan klinikal dan tiada literatur yang menyokong penggunaan asid valproik untuk neoplasma saraf trigeminal.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Bukti praklinikal atau klinikal yang menguji asid valproik (contohnya perencatan HDAC) pada tumor saraf trigeminal.
@@ -115,12 +115,7 @@ Data yang dikompilasi turut memuatkan indikasi lain dengan bukti yang lebih rele
 
 | Peringkat | Penyakit | Skor TxGNN | Tahap Bukti | Syor |
 |------|------|------|------|------|
-| 2 | Epilepsi visual | 99.88% | L3 | Proceed with Guardrails |
-| 3 | Neuralgia trigeminal | 99.83% | L4 | Persoalan Penyelidikan |
-| 4 | Epilepsi terkejut (startle) | 99.81% | L3 | Persoalan Penyelidikan |
-| 7 | Sawan audiogenik | 99.81% | L4 | Persoalan Penyelidikan |
-| 10 | Sawan membaca | 99.79% | L4 | Persoalan Penyelidikan |
-| 5, 6, 8, 9 | Sawan akibat orgasme / membuang air kecil / makan / berfikir | 99.81% | L4–L5 | Hold |
+| 3 | Neuralgia trigeminal | 0.9983 | L4 | Persoalan Penyelidikan |
 
 Epilepsi visual mempunyai sokongan tidak langsung yang paling kukuh (contohnya RCT epilepsi absens kanak-kanak, PMID 20200383), dengan langkah berjaga-jaga: teratogenisiti dan risiko perkembangan saraf pada wanita usia subur, hepatotoksisiti, pankreatitis, hiperamonemia dan interaksi ubat yang banyak.
 ## Penafian

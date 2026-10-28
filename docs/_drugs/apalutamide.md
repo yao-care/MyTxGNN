@@ -8,6 +8,7 @@ nav_order: 83
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Apalutamide
@@ -51,8 +52,8 @@ Akibatnya, **penilaian repurposing penuh tidak dapat diselesaikan pada peringkat
 | Indikasi Baru yang Diramalkan | — Tiada ramalan TxGNN tersedia |
 | Skor Ramalan TxGNN | — Tidak terpakai |
 | Tahap Bukti | L5 (ramalan model tidak tersedia; tiada kajian sokongan yang boleh diambil dari pak ini) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Hold** |
 
 ---

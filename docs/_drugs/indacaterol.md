@@ -6,9 +6,9 @@ nav_order: 415
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Indacaterol: indikasi baharu diramal Nephrogenic syndrome of inappropriate antidiuresis (NSIAD) (tahap bukti L5). Indikasi asal: Tiada rekod indikasi dalam data pendaftaran tempatan"
 monitor_inn: "INDACATEROL"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "bronchial disease", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
+description: "Indacaterol: indikasi baharu diramal Nephrogenic syndrome of inappropriate antidiuresis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Indacaterol
@@ -33,14 +33,14 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Indacaterol: Daripada Bronkodilator untuk Penyakit Saluran Pernafasan Obstruktif kepada Sindrom Antidiuresis Tidak Wajar Nefrogenik
+## Indacaterol: Nephrogenic syndrome of inappropriate antidiuresis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Indacaterol ialah agonis beta-2 adrenergik bertindak ultra-panjang yang digunakan sebagai bronkodilator untuk penyakit saluran pernafasan obstruktif seperti asma dan COPD.
 Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom antidiuresis tidak wajar nefrogenik (NSIAD)**.
-Namun, **tiada ujian klinikal** dan **tiada literatur** yang menyokong ramalan ini setakat ini. Ramalan ini hanya berasaskan graf pengetahuan.
+Namun, **tiada ujian klinikal** dan **tiada literatur** yang menyokong ramalan ini setakat ini. Ramalan ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
 ---
 
@@ -48,12 +48,12 @@ Namun, **tiada ujian klinikal** dan **tiada literatur** yang menyokong ramalan i
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada rekod indikasi dalam data pendaftaran tempatan; penggunaan kelas ubat ini ialah bronkodilator untuk asma/COPD |
-| Indikasi Baharu yang Diramalkan | Nephrogenic syndrome of inappropriate antidiuresis (NSIAD) |
-| Skor Ramalan TxGNN | 99.54% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Nephrogenic syndrome of inappropriate antidiuresis |
+| Skor Ramalan TxGNN | 0.9954 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,9 +62,9 @@ Namun, **tiada ujian klinikal** dan **tiada literatur** yang menyokong ramalan i
 
 Data terperinci tentang mekanisme tindakan belum tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, indacaterol mengaktifkan reseptor beta-2 berpasangan Gs pada otot licin saluran udara. Ini meningkatkan cAMP dan menyebabkan bronkodilasi.
 
-NSIAD berpunca daripada mutasi pengaktifan pada reseptor vasopressin V2 (AVPR2), yang juga ialah GPCR berpasangan Gs. Agonisme beta-2 turut meningkatkan cAMP, maka graf pengetahuan mungkin mengaitkan kedua-duanya melalui laluan isyarat yang serupa.
+NSIAD berpunca daripada mutasi pengaktifan pada reseptor vasopressin V2 (AVPR2), yang juga ialah GPCR berpasangan Gs. Agonisme beta-2 turut meningkatkan cAMP, maka model TxGNN (pembelajaran mendalam) mungkin telah mempelajari persamaan antara kedua-duanya melalui laluan isyarat yang serupa, dan ini bukan bukti biologi.
 
-**Walau bagaimanapun, kewajaran mekanistik ini lemah.** Tiada rasional langsung yang jelas bahawa peningkatan cAMP akan memberi manfaat. Secara teori, peningkatan isyarat cAMP boleh memburukkan lagi pengekalan air. Skor TxGNN yang tinggi hanyalah ramalan berasaskan graf dan tidak disokong oleh data klinikal.
+**Walau bagaimanapun, kewajaran mekanistik ini lemah.** Tiada rasional langsung yang jelas bahawa peningkatan cAMP akan memberi manfaat. Secara teori, peningkatan isyarat cAMP boleh memburukkan lagi pengekalan air. Skor tinggi daripada model TxGNN (pembelajaran mendalam) mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi, dan tidak disokong oleh data klinikal.
 
 ---
 
@@ -107,7 +107,6 @@ Amaran dan kontraindikasi daripada sisipan pek NPRA belum diperoleh. Sila rujuk 
 
 **Rasional:**
 - Ramalan NSIAD hanya berasaskan model (L5), tanpa ujian klinikal atau literatur. Rasional mekanistiknya tidak jelas dan boleh bercanggah dengan patofisiologi penyakit ini.
-- Ubat ini juga tidak dipasarkan di Malaysia (0 pendaftaran).
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Kajian praklinikal atau mekanistik yang menilai kesan agonisme beta-2 terhadap isyarat AVPR2/cAMP dan pengekalan air

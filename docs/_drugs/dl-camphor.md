@@ -8,6 +8,7 @@ nav_order: 299
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Dl-Camphor
@@ -49,8 +50,8 @@ DL-Camphor ialah agen topical yang dipasarkan di Malaysia dengan 9 produk berdaf
 | Petunjuk Baru yang Diramalkan | Tiada — TxGNN tidak mengembalikan prediksi |
 | Skor Prediksi TxGNN | N/A |
 | Tahap Bukti | N/A — Tiada prediksi untuk dinilai |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 9 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

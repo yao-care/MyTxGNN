@@ -8,6 +8,7 @@ nav_order: 138
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Benzyl Benzoate
@@ -51,8 +52,8 @@ Benzyl Benzoate (DrugBank: DB00676) adalah ubat yang dipasarkan di Malaysia deng
 | Indikasi Baru Diramal | **Tiada** — tiada ramalan TxGNN dijana |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A — tiada ramalan untuk dinilai |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 6 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | **Tahan** |
 
 ---

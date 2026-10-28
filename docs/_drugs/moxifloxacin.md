@@ -4,17 +4,17 @@ title: Moxifloxacin
 parent: Low Evidence (L4-L5)
 nav_order: 514
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Moxifloxacin: indikasi baharu diramal Hiperamilasemia (tahap bukti L5). Indikasi asal: Jangkitan bakteria (jangkitan streptokokus, radang paru-paru bakteria…"
 monitor_inn: "MOXIFLOXACIN"
-predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm", "bubonic plague"]
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
+description: "Moxifloxacin: indikasi baharu diramal Hiperamilasemia (hyperamylasemia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Moxifloxacin
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Moxifloxacin: Daripada Jangkitan Bakteria kepada Hiperamilasemia
+## Moxifloxacin: Hiperamilasemia (hyperamylasemia)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -49,12 +49,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **hiperamilasemia** dengan skor
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan bakteria (jangkitan streptokokus, radang paru-paru bakteria, peritonitis, jangkitan *Staphylococcus aureus*, konjunktivitis, wabak, dll.) |
-| Indikasi Baharu yang Diramalkan | Hiperamilasemia |
-| Skor Ramalan TxGNN | 99.98% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Hiperamilasemia (hyperamylasemia) |
+| Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 21 daripada 21) |
+| Bilangan Pendaftaran | 21 (sah: 21) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -63,7 +63,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **hiperamilasemia** dengan skor
 
 Data mekanisme tindakan (MOA) terperinci tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, moxifloxacin ialah antibakteria kelas fluorokuinolon yang telah terbukti berkesan dalam jangkitan bakteria. Namun, tiada hubungan mekanistik yang dapat dikenal pasti dengan hiperamilasemia.
 
-Hiperamilasemia ialah penemuan makmal dengan banyak punca bukan berjangkit. Walaupun skor TxGNN sangat tinggi (0.9998), tiada percubaan atau literatur yang menyokongnya. Ramalan ini besar kemungkinan merupakan artifak graf pengetahuan (knowledge graph) dan bukannya isyarat terapeutik sebenar.
+Hiperamilasemia ialah penemuan makmal dengan banyak punca bukan berjangkit. Walaupun skor TxGNN sangat tinggi (0.9998), tiada percubaan atau literatur yang menyokongnya.
 
 ---
 
@@ -81,7 +81,6 @@ Setakat ini tiada literatur berkaitan untuk hiperamilasemia.
 
 ## Maklumat Pasaran Malaysia
 
-Moxifloxacin pada masa ini tidak dipasarkan di Malaysia berdasarkan data yang dihimpun untuk laporan ini, dan tiada pendaftaran direkodkan.
 
 ---
 
@@ -110,7 +109,6 @@ Perhatian khas: fluorokuinolon dikaitkan dengan gangguan paras glukosa darah (di
 
 **Rasional:**
 - Ramalan hiperamilasemia hanya berasaskan model (L5), tanpa percubaan, literatur, atau hubungan mekanistik yang munasabah.
-- Moxifloxacin tidak dipasarkan di Malaysia, dan maklumat keselamatan daripada sisipan pakej tidak tersedia, jadi saringan keselamatan tidak dapat diteruskan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang)
@@ -124,15 +122,14 @@ Perhatian khas: fluorokuinolon dikaitkan dengan gangguan paras glukosa darah (di
 
 | Kedudukan | Penyakit Diramalkan | Skor TxGNN | Tahap Bukti | Ulasan Ringkas |
 |------|------|------|------|------|
-| 2 | Sindrom hiperkelikatan poliklonal | 99.98% | L5 | Tiada mekanisme atau bukti |
-| 3 | Analbuminemia kongenital | 99.97% | L5 | Hanya satu laporan kes yang tidak menilai moxifloxacin sebagai rawatan |
-| 4 | Ketidakserasian kumpulan darah | 99.96% | L5 | Tiada mekanisme atau bukti |
-| 5 | Penyakit sistem hematologi pra-malignan | 99.95% | L5 | Tiada bukti; paling-paling profilaksis jangkitan |
-| 6 | Gamopati monoklonal | 99.95% | L4 | Satu percubaan (NCT00062231) berkaitan demam neutropenik dan laporan kes jangkitan; hubungan tidak langsung |
-| 7 | Penyakit hematologi dengan neuropati periferi diperoleh | 99.94% | L5 | Risiko neuropati berlabel ialah isu keselamatan |
-| 8 | Gangguan hematologi kongenital | 99.91% | L4 | Percubaan berkaitan profilaksis jangkitan dan kajian QT; tiada bukti keberkesanan langsung |
-| 9 | Neoplasma sistem hematopoietik dan limfoid | 99.67% | L5 | Tiada bukti antineoplastik |
-| 10 | **Wabak bubonik** | 99.41% | L3 | Disokong kajian praklinikal; lihat di bawah |
+| 2 | Sindrom hiperkelikatan poliklonal | 0.9998 | L5 | Tiada mekanisme atau bukti |
+| 3 | Analbuminemia kongenital | 0.9997 | L5 | Hanya satu laporan kes yang tidak menilai moxifloxacin sebagai rawatan |
+| 4 | Ketidakserasian kumpulan darah | 0.9996 | L5 | Tiada mekanisme atau bukti |
+| 5 | Penyakit sistem hematologi pra-malignan | 0.9995 | L5 | Tiada bukti; paling-paling profilaksis jangkitan |
+| 6 | Gamopati monoklonal | 0.9995 | L5 | Satu percubaan (NCT00062231) berkaitan demam neutropenik dan laporan kes jangkitan; hubungan tidak langsung |
+| 7 | Penyakit hematologi dengan neuropati periferi diperoleh | 0.9994 | L5 | Risiko neuropati berlabel ialah isu keselamatan |
+| 8 | Gangguan hematologi kongenital | 0.9991 | L5 | Percubaan berkaitan profilaksis jangkitan dan kajian QT; tiada bukti keberkesanan langsung |
+| 9 | Neoplasma sistem hematopoietik dan limfoid | 0.9967 | L5 | Tiada bukti antineoplastik |
 
 ### Nota mengenai Wabak Bubonik (Kedudukan 10)
 

@@ -8,6 +8,7 @@ nav_order: 281
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Diacerein
@@ -47,8 +48,8 @@ Diacerein ialah derivatif antrakuinon yang sedang dipasarkan di Malaysia, teruta
 | Indikasi Baru Diramalkan | — (Tiada ramalan TxGNN dihasilkan) |
 | Skor Ramalan TxGNN | T/A |
 | Aras Bukti | L5 (Tiada ramalan atau bukti sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | **Tahan** |
 
 ## Mengapa Ramalan Ini Munasabah?

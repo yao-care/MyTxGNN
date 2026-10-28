@@ -8,6 +8,7 @@ nav_order: 465
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Linezolid
@@ -51,8 +52,8 @@ Tanpa sasaran ramalan, penilaian mekanistik dan klinikal yang lengkap tidak bole
 | Petunjuk Baru yang Diramalkan | Tiada ramalan tersedia |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | T/A — tiada sasaran ramalan untuk dinilai |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 9 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

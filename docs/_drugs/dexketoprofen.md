@@ -3,7 +3,7 @@ layout: default
 title: Dexketoprofen
 parent: Low Evidence (L4-L5)
 nav_order: 271
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 monitor_inn: "dexketoprofen"
@@ -14,7 +14,7 @@ description: "Dexketoprofen: indikasi baharu diramal Tendinitis (tahap bukti L4)
 # Dexketoprofen
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ Setakat ini **tiada ujian klinikal** dan hanya **1 penerbitan** berkaitan secara
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Baharu yang Diramalkan | Tendinitis |
-| Skor Ramalan TxGNN | 99.90% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9990 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---

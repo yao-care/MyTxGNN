@@ -3,18 +3,18 @@ layout: default
 title: Tenecteplase
 parent: Low Evidence (L4-L5)
 nav_order: 672
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Tenecteplase: indikasi baharu diramal Infarksi miokardium posterolateral (tahap bukti L4). Indikasi asal: Infarksi miokardium…"
 monitor_inn: "TENECTEPLASE"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
+description: "Tenecteplase: indikasi baharu diramal Congenital coronary artery anomaly (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Tenecteplase
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Tenecteplase: Daripada Infarksi Miokardium kepada Infarksi Miokardium Posterolateral
+## Tenecteplase: Congenital coronary artery anomaly
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **infarksi miokardium posterola
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Infarksi miokardium, trombosis koronari (daripada graf pengetahuan TxGNN; hemoglobinopati turut disenaraikan) |
-| Indikasi Baharu yang Diramalkan | Infarksi miokardium posterolateral |
-| Skor Ramalan TxGNN | 99.87% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Congenital coronary artery anomaly |
+| Skor Ramalan TxGNN | 0.9961 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -61,9 +61,9 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **infarksi miokardium posterola
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, tenecteplase ialah pengaktif plasminogen tisu spesifik fibrin yang melarutkan bekuan koronari. Keberkesanannya dalam infarksi miokardium telah diketahui, dan secara mekanistik ia boleh digunakan untuk subjenis anatomi infarksi.
 
-Infarksi miokardium posterolateral ialah subjenis wilayah bagi indikasi infarksi miokardium yang sedia ada. Mekanisme pelarutan trombus sama sahaja, maka kebolehgunaan mekanisme adalah langsung. Namun, skor TxGNN yang tinggi (0.9987) sebahagian besarnya hanya mengulangi indikasi label sedia ada, bukan penemuan baharu.
+Infarksi miokardium posterolateral ialah subjenis wilayah bagi indikasi infarksi miokardium yang sedia ada. Mekanisme pelarutan trombus sama sahaja, maka kebolehgunaan mekanisme adalah langsung.
 
-Ramalan lain dalam senarai (contohnya infarksi posteroinferior dan septum) mempunyai logik yang serupa. Ramalan berkaitan penyakit darah atau kromosom (contohnya thalassemia beta, kekurangan piruvat kinase, pyropoikilocytosis) tidak mempunyai asas mekanistik yang jelas dan kelihatan sebagai artifak graf.
+Ramalan lain dalam senarai (contohnya infarksi posteroinferior dan septum) mempunyai logik yang serupa.
 
 ---
 

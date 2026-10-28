@@ -8,6 +8,7 @@ nav_order: 150
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Bilastine
@@ -49,8 +50,8 @@ Bilastine ialah antihistamin H1 generasi kedua yang didaftarkan di Malaysia deng
 | Petunjuk Baharu yang Diramalkan | Tiada (tiada ramalan TxGNN dijana) |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | L5 — Ramalan model belum tersedia |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 5 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan yang Disyorkan | **Tunggu** |
 
 ---

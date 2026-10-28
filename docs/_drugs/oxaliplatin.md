@@ -50,10 +50,10 @@ dengan **3 percubaan klinikal** (2 daripadanya berkaitan secara langsung) dan **
 |------|------|
 | Indikasi Asal | Metastasis daripada tumor malignan kolon |
 | Indikasi Baharu yang Diramalkan | Mesotelioma pleura malignan |
-| Skor Ramalan TxGNN | 99.68% |
+| Skor Ramalan TxGNN | 0.9968 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---

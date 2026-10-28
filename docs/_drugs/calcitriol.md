@@ -4,17 +4,17 @@ title: Calcitriol
 parent: Low Evidence (L4-L5)
 nav_order: 183
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-15
-description: "Calcitriol: indikasi baharu diramal Kekurangan vitamin D (istilah usang) (tahap bukti L5). Indikasi asal: Hiperkalsemia, nefrokalsinosis, gangguan metabolisme fosforus…"
+indication_count: 5
 monitor_inn: "CALCITRIOL"
-predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hereditary hypophosphatemic rickets"]
+predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
+last_modified_at: 2026-10-27
+description: "Calcitriol: indikasi baharu diramal Vitamin D kekurangan lapuk (obsolete vitamin D deficiency) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Calcitriol
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **7** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,76 +33,64 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-## Calcitriol: Daripada Hiperkalsemia kepada Kekurangan Vitamin D (Istilah Usang)
+## Calcitriol: vitamin D aktif → Vitamin D kekurangan lapuk (obsolete vitamin D deficiency)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Calcitriol ialah bentuk aktif vitamin D, yang pada asalnya digunakan untuk gangguan metabolisme kalsium dan fosforus seperti hipoparatiroidisme dan osteodistrofi renal.
-Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan vitamin D (istilah usang)**.
-Pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini, jadi ramalan ini hanya berasaskan model.
+Calcitriol ialah bentuk aktif vitamin D yang berperanan mengawal kalsium dan fosfat dalam badan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Vitamin D kekurangan lapuk (obsolete vitamin D deficiency)**, tetapi **tiada sebarang kajian klinikal atau penerbitan** yang menyokong ramalan ini setakat ini, dan ia hanya berasaskan ramalan model.
 
----
-
-## Gambaran Keseluruhan
+## Gambaran Keseluruhan Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hiperkalsemia, nefrokalsinosis, gangguan metabolisme fosforus, hipofosfatemia, hipoparatiroidisme, osteodistrofi renal (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen tempatan) |
-| Indikasi Baharu yang Diramalkan | Kekurangan vitamin D (istilah usang) |
-| Skor Ramalan TxGNN | 99.96% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Vitamin D kekurangan lapuk (obsolete vitamin D deficiency) |
+| Skor Ramalan TxGNN | 0,9996 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Tahan) |
-
----
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, calcitriol ialah metabolit aktif vitamin D (1,25-dihidroksivitamin D3). Keberkesanannya dalam gangguan kalsium-fosfat telah dibuktikan, dan secara mekanistik ia mungkin berkaitan dengan kekurangan vitamin D.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Calcitriol ialah bentuk aktif vitamin D, jadi kaitan biologi dengan kekurangan vitamin D memang munasabah dari segi teori.
 
-Kaitan biologi ini wajar kerana calcitriol bertindak melalui reseptor vitamin D untuk mengawal penyerapan kalsium dan fosfat. Walau bagaimanapun, istilah penyakit ini ditanda sebagai usang, jadi ia mungkin hanya label ontologi lama yang tiada ujian atau literatur berkaitan. Skor tinggi daripada TxGNN hanya mencerminkan kedekatan dalam graf pengetahuan, bukan bukti klinikal.
-
-Dalam amalan, cholecalciferol atau ergocalciferol ialah agen penggantian piawai untuk kekurangan vitamin D. Calcitriol pada amnya tidak digunakan untuk kekurangan nutrisi.
-
----
+Namun begitu, istilah penyakit ini ditandakan sebagai lapuk (obsolete), maka ia berkemungkinan hanya label ontologi lama yang tiada kajian atau penerbitan yang dipetakan. Skor tinggi TxGNN hanya mencerminkan kedekatan dalam model, bukan bukti klinikal. Untuk pemulihan kekurangan vitamin D secara pemakanan, agen piawai ialah cholecalciferol atau ergocalciferol; calcitriol pada amnya tidak digunakan untuk keadaan ini.
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
-
----
+Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia.
+Setakat ini tiada literatur berkaitan yang tersedia.
 
----
+## Maklumat Pasaran Malaysia
+
+Data tempatan menunjukkan status pasaran: dipasarkan, dengan 7 lesen yang sah. Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 
-- **Kontraindikasi (daripada graf pengetahuan, bukan teks sisipan bungkusan)**: penyakit buah pinggang, piouretr, sarkoidosis, hiperkalsemia, nefrokalsinosis, gangguan metabolisme fosforus, nefrolitiasis (termasuk kerentanan akibat SLC26A1), nefropati urat akut, hiperfosfatemia, hipervitaminosis, arteriosklerosis obliterans.
-- **Interaksi Ubat**: sebanyak 100 interaksi direkodkan. Interaksi utama:
-  - **Major**: cholecalciferol, calcifediol, burosumab.
-  - **Moderate** (sebahagian): diuretik tiazid (hydrochlorothiazide, chlorthalidone, dll.), antikonvulsan dan barbiturat (fosphenytoin, carbamazepine, amobarbital, butalbital), resin pengikat asid hempedu (cholestyramine, colesevelam, colestipol), aluminium hydroxide, calcipotriol topikal, serta digoxin dan digitoxin.
+- **Interaksi Ubat (Major)**: cholecalciferol, calcifediol, burosumab.
+- **Interaksi Ubat (Moderate)**: fosphenytoin, carbamazepine, hydrochlorothiazide dan diuretik thiazide lain, barbiturat (amobarbital, butalbital, butabarbital), aluminium hidroksida, resin pengikat asid hempedu (cholestyramine, colesevelam, colestipol), digoxin, digitoxin, calcipotriol topikal.
+- Sebanyak 100 interaksi direkodkan secara keseluruhan; hanya sebahagian disenaraikan di sini.
 
-Untuk amaran utama dan maklumat keselamatan lengkap, sila rujuk sisipan bungkusan.
-
----
+Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tahan)**
+**Keputusan: Hold (Tangguh)**
 
-**Justifikasi:**
-- Indikasi yang diramalkan ini berstatus L5: tiada ujian klinikal atau literatur, istilah penyakitnya usang, dan rawatan piawai (cholecalciferol/ergocalciferol) sudah ada. Calcitriol juga tidak berdaftar di Malaysia.
+**Rasional:**
+Tiada ujian klinikal atau penerbitan yang mengkaji penyakit ini secara langsung, dan istilah penyakit ditandakan lapuk. Ramalan hanya berasaskan model, dan agen lain sudah menjadi piawai untuk kekurangan vitamin D.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) yang terperinci.
-- Amaran dan kontraindikasi daripada sisipan bungkusan rasmi NPRA, yang belum diperoleh dan menghalang saringan keselamatan.
-- Pengesahan sama ada istilah penyakit usang ini dipetakan kepada entiti penyakit semasa.
-- Penilaian berasingan bagi calon ramalan lain yang bukti lebih kukuh, terutamanya **riket hipofosfatemik herediter** (L3). Calon ini mempunyai ujian fasa awal 1 (n=16) dan ujian fasa 4 (n=100, status tidak diketahui), tetapi belum ada RCT fasa 3 yang selesai.
+- Pengesahan sama ada istilah penyakit ini dipetakan kepada keadaan klinikal semasa
+- Data mekanisme tindakan (MOA)
+- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA
+- Sebarang kajian klinikal yang membandingkan calcitriol dengan cholecalciferol atau ergocalciferol
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dasatinib
-parent: Low Evidence (L4-L5)
+parent: High Evidence (L1-L2)
 nav_order: 256
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Dasatinib: indikasi baharu diramal Sarkoma Ewing (tahap bukti L5). Indikasi asal: CML dan Ph+ ALL (berdasarkan literatur"
 monitor_inn: "Dasatinib"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
+description: "Dasatinib: indikasi baharu diramal Sarkoma Ewing (Ewing sarcoma) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Dasatinib
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L2** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Dasatinib: Daripada Leukemia Myeloid Kronik (CML) kepada Sarkoma Ewing
+## Dasatinib: Sarkoma Ewing (Ewing sarcoma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ Dasatinib ialah perencat kinase berbilang sasaran (BCR-ABL dan keluarga SRC) yan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | CML dan Ph+ ALL (berdasarkan literatur; maklumat lesen NPRA tidak tersedia) |
-| Indikasi Baharu yang Diramalkan | Sarkoma Ewing |
-| Skor Ramalan TxGNN | 99.90% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sarkoma Ewing (Ewing sarcoma) |
+| Skor Ramalan TxGNN | 0.9990 |
 | Tahap Bukti | L2 (satu ujian Phase 2 selesai, tetapi bukan RCT dan tidak khusus untuk Ewing; lihat nota di bawah) |
-| Status Pasaran di Malaysia | Tidak dipasarkan (mungkin kekurangan data, lihat bahagian Kesimpulan) |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 > Nota: Tahap L2 diberikan dalam penilaian data yang dikumpulkan. Ujian Phase 2 yang ada ialah ujian sarkoma pelbagai histologi, bukan RCT. Hasil khusus Sarkoma Ewing tidak dipaparkan, dan ulasan literatur melaporkan dasatinib sebagai ubat tunggal gagal dalam subjenis ini. Tahap bukti sebenar mungkin lebih rendah.
@@ -123,7 +123,7 @@ Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi.
 
 **Justifikasi:**
 - Terdapat asas mekanistik yang munasabah (isyarat Src/FAK) dan data praklinikal yang menyokong. Namun bukti klinikal belum menunjukkan manfaat: ujian pelbagai sarkoma tidak mempamerkan hasil khusus Ewing, ulasan melaporkan kegagalan sebagai ubat tunggal, dan ujian kombinasi pediatrik ditamatkan awal dengan 7 pesakit.
-- Status pasaran "tidak dipasarkan" di Malaysia berkemungkinan besar disebabkan kekurangan data, kerana dasatinib sudah lama mempunyai indikasi untuk CML. Perkara ini perlu disahkan.
+- Perkara ini perlu disahkan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Mengesahkan status pendaftaran dan indikasi sebenar dasatinib di NPRA, serta memuat turun dan menganalisis sisipan pakej (amaran dan kontraindikasi).

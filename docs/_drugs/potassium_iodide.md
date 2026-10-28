@@ -4,17 +4,17 @@ title: Potassium Iodide
 parent: Low Evidence (L4-L5)
 nav_order: 594
 evidence_level: L4
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Potassium Iodide: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L4). Indikasi asal: Rinitis alergik, rinitis vasomotor, faringitis, selesema biasa…"
 monitor_inn: "POTASSIUM IODIDE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
+description: "Potassium Iodide: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Potassium Iodide
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **2** 
+Tahap bukti: **L4** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Tahap bukti: **L4** | Indikasi diramal: **2**
 
 </div>
 
-## Kalium Iodida: Daripada Rinitis Alergik kepada Penyakit Rongga Hidung
+## Potassium Iodide: Penyakit rongga hidung (nasal cavity disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Kalium iodida pada asalnya dikaitkan dengan rinitis alergik, rinitis vasomotor, faringitis, selesema biasa dan nasofaringitis (berdasarkan graf pengetahuan TxGNN).
+Kalium iodida pada asalnya dikaitkan dengan rinitis alergik, rinitis vasomotor, faringitis, selesema biasa dan nasofaringitis. Skor ramalan datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi.
 Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit rongga hidung (nasal cavity disease)**,
 tetapi setakat ini hanya terdapat **0 ujian klinikal** dan **4 penerbitan** (kesemuanya laporan kes, tiga daripadanya veterinar) yang menyokong arah ini.
 
@@ -48,12 +48,12 @@ tetapi setakat ini hanya terdapat **0 ujian klinikal** dan **4 penerbitan** (kes
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Rinitis alergik, rinitis vasomotor, faringitis, selesema biasa, nasofaringitis (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen kerana tiada pendaftaran) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Penyakit rongga hidung (nasal cavity disease) |
-| Skor Ramalan TxGNN | 99.95% |
+| Skor Ramalan TxGNN | 0.9995 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 121 daripada 121) |
+| Bilangan Pendaftaran | 121 (sah: 121) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -64,7 +64,7 @@ Data terperinci mengenai mekanisme tindakan kalium iodida belum tersedia dalam d
 
 Indikasi asal (rinitis alergik/vasomotor, selesema biasa) kemungkinan besar berasaskan penggunaan sejarah sebagai ekspektoran/mukolitik. Skor TxGNN yang tinggi (0.9995) mencerminkan ramalan rangkaian, bukan pengesahan klinikal. Bukti yang ada **tidak** merangkumi penyakit rongga hidung yang tidak berjangkit.
 
-Ramalan kedua, **laringofaringitis akut** (skor 99.95%, tahap bukti L5), tidak mempunyai sebarang ujian klinikal atau literatur. Sokongannya hanya skor model, yang kemungkinan didorong oleh kedekatan rangkaian dengan indikasi asal (faringitis, nasofaringitis, selesema biasa).
+Ramalan kedua, **laringofaringitis akut** (skor 0.9995, tahap bukti L5), tidak mempunyai sebarang ujian klinikal atau literatur. Sokongannya hanya skor model, yang kemungkinan didorong oleh kedekatan rangkaian dengan indikasi asal (faringitis, nasofaringitis, selesema biasa).
 
 ---
 
@@ -87,7 +87,6 @@ Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Kalium iodida pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran (lesen) NPRA yang direkodkan.
 
 ---
 
@@ -106,7 +105,7 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi rasmi.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan ini hanya disokong oleh skor model dan laporan kes (kebanyakannya veterinar) pada jangkitan kulat/oomisetes; tiada ujian klinikal. Ubat ini juga tidak dipasarkan di Malaysia dan data keselamatan rasmi belum ada.
+- Ramalan ini hanya disokong oleh skor model dan laporan kes (kebanyakannya veterinar) pada jangkitan kulat/oomisetes; tiada ujian klinikal.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej dan maklumat amaran/kontraindikasi daripada NPRA (jurang data yang menghalang saringan keselamatan)

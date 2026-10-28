@@ -4,17 +4,17 @@ title: Topiramate
 parent: Low Evidence (L4-L5)
 nav_order: 690
 evidence_level: L5
-indication_count: 9
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Topiramate: indikasi baharu diramal Neoplasma saraf trigeminal (tahap bukti L5). Indikasi asal: Epilepsi dengan sawan tonik-klonik umum, epilepsi separa…"
 monitor_inn: "TOPIRAMATE"
 predicted_indications: ["trigeminal nerve neoplasm"]
+description: "Topiramate: indikasi baharu diramal Neoplasma saraf trigeminal (trigeminal nerve neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Topiramate
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **9** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-## Topiramate: Daripada Epilepsi kepada Neoplasma Saraf Trigeminal
+## Topiramate: Neoplasma saraf trigeminal (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Penunjuk baharu yang lebih berpotensi dalam data ini ialah kumpulan sawan reflek
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Epilepsi dengan sawan tonik-klonik umum, epilepsi separa, sindrom Lennox-Gastaut, cutis verticis gyrata (daripada graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Neoplasma saraf trigeminal |
-| Skor Ramalan TxGNN | 99.70% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Neoplasma saraf trigeminal (trigeminal nerve neoplasm) |
+| Skor Ramalan TxGNN | 0.9970 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 12) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -62,7 +62,7 @@ Penunjuk baharu yang lebih berpotensi dalam data ini ialah kumpulan sawan reflek
 
 Data terperinci mengenai mekanisme tindakan topiramate tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, topiramate ialah ubat antiseizur spektrum luas yang telah terbukti berkesan dalam epilepsi. Kajian dalam literatur menyebut tindakan melalui sekatan saluran natrium, peningkatan GABA-A, antagonis reseptor AMPA/kainat dan perencatan karbonik anhidrase yang lemah.
 
-Bagi neoplasma saraf trigeminal, tiada asas mekanisme yang kukuh. Sebarang kaitan hanya terhad kepada kawalan simptomatik seperti sakit neuropatik atau sawan yang berkaitan, dan ini tidak disokong oleh data yang ada. Skor 99.70% ialah ramalan berasaskan graf semata-mata dan tidak boleh dianggap sebagai bukti keberkesanan.
+Bagi neoplasma saraf trigeminal, tiada asas mekanisme yang kukuh. Sebarang kaitan hanya terhad kepada kawalan simptomatik seperti sakit neuropatik atau sawan yang berkaitan, dan ini tidak disokong oleh data yang ada. Skor 0.9970 datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi, dan tidak boleh dianggap sebagai bukti keberkesanan.
 
 Sebaliknya, beberapa ramalan lain dalam senarai (sawan visual, sawan berfikir, sawan audiogenik) lebih munasabah secara kelas kerana semuanya ialah subjenis sawan refleks, iaitu kategori yang sepadan dengan tindakan antiseizur topiramate.
 
@@ -84,20 +84,11 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk neoplasma saraf trig
 
 | Kedudukan | Penyakit Diramalkan | Skor TxGNN | Tahap Bukti | Catatan |
 |------|------|------|------|------|
-| 2 | Epilepsi visual | 99.28% | L4 | Kajian umum epilepsi; tiada data khusus fotosensitiviti |
-| 3 | Sawan akibat mikturisi | 99.21% | L4 | Hanya kajian umum epilepsi |
-| 4 | Sawan berfikir | 99.21% | L2 | Kajian Cochrane tentang topiramate tambahan untuk epilepsi separa rintang ubat (bukti tidak langsung) |
-| 5 | Sawan akibat orgasme | 99.21% | L5 | Ramalan sahaja |
-| 6 | Sawan semasa makan | 99.21% | L4 | Literatur kebanyakannya tentang gangguan makan; mungkin artifak padanan istilah |
-| 7 | Epilepsi terkejut (startle) | 99.21% | L5 | Ramalan sahaja |
-| 8 | Sawan audiogenik | 99.21% | L4 | Bukti haiwan sahaja (tikus DBA/2, GAERS) |
-| 9 | Sawan membaca | 99.09% | L4 | Literatur kebanyakannya tidak berkaitan |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Topiramate tidak dipasarkan di Malaysia dan tiada pendaftaran NPRA direkodkan dalam data yang dikumpulkan.
 
 ---
 

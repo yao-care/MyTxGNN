@@ -4,17 +4,17 @@ title: Tolvaptan
 parent: Low Evidence (L4-L5)
 nav_order: 689
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tolvaptan: indikasi baharu diramal Penyakit buah pinggang polisistik 3 dengan atau tanpa penyakit hati p… (tahap bukti L5). Indikasi asal: Hiponatremia"
+indication_count: 9
 monitor_inn: "Tolvaptan"
-predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component"]
+predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
+last_modified_at: 2026-10-23
+description: "Tolvaptan: indikasi baharu diramal Renal-hepatic-pancreatic dysplasia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,104 +33,105 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Tolvaptan: Daripada Hiponatremia kepada Penyakit Buah Pinggang Polisistik 3 (dengan atau tanpa Penyakit Hati Polisistik)
+## Tolvaptan: Renal-hepatic-pancreatic dysplasia
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Tolvaptan ialah antagonis reseptor vasopresin V2 terpilih, yang menurut literatur digunakan untuk hiponatremia dan kegagalan jantung. Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit buah pinggang polisistik 3 dengan atau tanpa penyakit hati polisistik (PKD3)**. Tiada percubaan klinikal didaftarkan khusus untuk label penyakit ini. Namun, bukti kukuh daripada penyakit induk, iaitu **penyakit buah pinggang polisistik autosomal dominan (ADPKD)**, dengan **lebih 10 percubaan klinikal fasa 3** dan beberapa RCT dan kajian sistematik yang diterbitkan, menyokong arah ini.
+Tolvaptan ialah antagonis reseptor vasopresin V2 yang berdaftar di Malaysia, tetapi teks indikasi yang diluluskan tidak terdapat dalam data yang dikumpulkan untuk laporan ini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **displasia renal-hepatik-pankreas** (skor 0.9998), tetapi ini ialah ramalan komputasi sahaja dengan **0 ujian klinikal** dan **0 penerbitan** yang mengkaji penyakit ini secara langsung.
 
 ---
 
-## Gambaran Keseluruhan
+## Gambaran Ringkas
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Hiponatremia (berdasarkan literatur, kerana data lesen NPRA tidak mengandungi teks indikasi) |
-| Indikasi Baharu yang Diramalkan | Penyakit buah pinggang polisistik 3 dengan atau tanpa penyakit hati polisistik |
-| Skor Ramalan TxGNN | 99.99% |
-| Tahap Bukti | L1 (diwarisi daripada ADPKD; keberkesanan khusus PKD3 belum disahkan) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Renal-hepatic-pancreatic dysplasia |
+| Skor Ramalan TxGNN | 0.9998 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
+| Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Tolvaptan menyekat reseptor V2 pada duktus pengumpul buah pinggang. Dalam penyakit buah pinggang polisistik, isyarat cAMP yang meningkat mendorong pertumbuhan sista dan rembesan cecair. Dengan menyekat reseptor V2, tolvaptan menurunkan cAMP dalam sel tubul buah pinggang, lalu mengurangkan percambahan sel epitelium sista dan rembesan cecair yang didorong oleh klorida. Mekanisme ini menjadi asas kepada percubaan utama ADPKD (TEMPO 3:4 dan REPRISE).
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, tolvaptan ialah antagonis selektif reseptor vasopresin V2 yang mengurangkan isyarat cAMP dalam sel duktus pengumpul renal dan memperlahankan pertumbuhan sista dalam penyakit ginjal polisistik dominan autosom (ADPKD).
 
-PKD3 (berkaitan GANAB) dan ADPKD berkongsi biologi sista yang serupa. Oleh itu, bukti daripada ADPKD diwarisi melalui mekanisme sista bersama. Perlu diingat bahawa keberkesanan khusus untuk PKD3 belum disahkan. Data terperinci mengenai mekanisme tindakan asal daripada pangkalan data rujukan juga tidak tersedia dalam data yang dikompilasi untuk laporan ini. Huraian di atas berdasarkan rasional mekanistik dan literatur yang diterbitkan.
+Displasia renal-hepatik-pankreas ialah ciliopati yang dikaitkan dengan varian NPHP3 dan mempunyai ciri penyakit sista renal. Oleh itu, hubungan melalui sistogenesis yang didorong oleh cAMP adalah munasabah secara biologi. Namun begitu, tiada bukti langsung wujud, dan skor TxGNN yang sangat tinggi hanyalah ramalan komputasi.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Tiada percubaan klinikal didaftarkan di bawah label penyakit PKD3 secara khusus. Jadual berikut menyenaraikan percubaan terpilih bagi **penyakit induk (ADPKD/penyakit buah pinggang polisistik)** yang menjadi sumber bukti warisan.
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT02160145](https://clinicaltrials.gov/study/NCT02160145) | Fasa 3b | Selesai | 1370 | Percubaan penarikan rawak, buta dua, terkawal plasebo (REPRISE) bagi ADPKD tahap lewat (CKD tahap 2 lewat hingga tahap 4 awal) |
-| [NCT00428948](https://clinicaltrials.gov/study/NCT00428948) | Fasa 3 | Selesai | 1445 | Keselamatan dan keberkesanan jangka panjang tolvaptan berbanding plasebo pada dewasa ADPKD |
-| [NCT02964273](https://clinicaltrials.gov/study/NCT02964273) | Fasa 3b | Selesai | 91 | Keselamatan jangka panjang pada kanak-kanak dan remaja ADPKD (rawak, buta dua, terkawal plasebo) |
-| [NCT02251275](https://clinicaltrials.gov/study/NCT02251275) | Fasa 3b | Selesai | 1803 | Keselamatan jangka panjang tolvaptan lepas-segera label terbuka |
-| [NCT01214421](https://clinicaltrials.gov/study/NCT01214421) | Fasa 3 | Selesai | 1083 | Lanjutan label terbuka; kesan ke atas jumlah isi padu buah pinggang (TKV) dan fungsi buah pinggang |
-| [NCT01280721](https://clinicaltrials.gov/study/NCT01280721) | Fasa 3 | Selesai | 135 | Lanjutan label terbuka di Jepun; keselamatan dan keberkesanan jangka panjang |
-| [NCT02847624](https://clinicaltrials.gov/study/NCT02847624) | Tiada fasa | Selesai | 1802 | Pengawasan pasca-pemasaran di Jepun; data keselamatan dunia sebenar |
-| [NCT03949894](https://clinicaltrials.gov/study/NCT03949894) | Fasa 4 | Selesai | 118 | Keselamatan dan keberkesanan pada pesakit dewasa Korea dengan ADPKD yang berkembang pantas |
-| [NCT03803124](https://clinicaltrials.gov/study/NCT03803124) | Fasa 3 | Selesai | 20 | Kesan tolvaptan ke atas aliran plasma buah pinggang dan GFR |
-| [NCT03764605](https://clinicaltrials.gov/study/NCT03764605) | Fasa 3 | Tidak diketahui | 150 | Metformin berbanding tolvaptan dalam ADPKD (RCT dua lengan) |
+Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [23121377](https://pubmed.ncbi.nlm.nih.gov/23121377/) | 2012 | RCT | N Engl J Med | Perencat reseptor V2 melambatkan pertumbuhan sista dan kemerosotan fungsi buah pinggang dalam ADPKD (TEMPO 3:4) |
-| [29105594](https://pubmed.ncbi.nlm.nih.gov/29105594/) | 2017 | RCT | N Engl J Med | Tolvaptan pada ADPKD tahap lewat; faedah ke atas fungsi buah pinggang disertai peningkatan enzim hati |
-| [36719158](https://pubmed.ncbi.nlm.nih.gov/36719158/) | 2023 | RCT | Clin J Am Soc Nephrol | Keselamatan dan keberkesanan tolvaptan pada kanak-kanak dan remaja dengan ADPKD |
-| [39356039](https://pubmed.ncbi.nlm.nih.gov/39356039/) | 2024 | Kajian sistematik | Cochrane Database Syst Rev | Intervensi untuk mencegah perkembangan ADPKD, termasuk agen pengubah penyakit |
-| [40126492](https://pubmed.ncbi.nlm.nih.gov/40126492/) | 2025 | Ulasan | JAMA | Ulasan menyeluruh mengenai ADPKD, gangguan buah pinggang diwarisi paling lazim |
-| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Ulasan | Clin Liver Dis | Penyakit buah pinggang/hati polisistik; tolvaptan boleh memperlahankan kemerosotan fungsi buah pinggang |
-| [41771281](https://pubmed.ncbi.nlm.nih.gov/41771281/) | 2026 | Ulasan | Lancet | Bukti kukuh untuk tolvaptan sebagai rawatan pengubah penyakit bagi kumpulan berisiko tinggi |
-| [40268755](https://pubmed.ncbi.nlm.nih.gov/40268755/) | 2025 | Ulasan | Renal Failure | Gambaran kemajuan genetik dan klinikal ADPKD |
-| [40726372](https://pubmed.ncbi.nlm.nih.gov/40726372/) | 2025 | Ulasan | Curr Opin Nephrol Hypertens | Tolvaptan kekal satu-satunya terapi diluluskan FDA yang menyasarkan perkembangan penyakit; terapi baharu sedang dibangunkan |
-| [40844441](https://pubmed.ncbi.nlm.nih.gov/40844441/) | 2025 | Ulasan | Am J Kidney Dis | Kurikulum teras ADPKD 2025; terapi pengubah penyakit disyorkan bagi pesakit berisiko perkembangan |
+Buat masa ini tiada literatur berkaitan.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Tolvaptan pada masa ini **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar dengan NPRA dalam data yang dikompilasi.
+Lesen yang dikumpulkan ialah 6 pendaftaran produk tunggal yang sah, semuanya oleh Otsuka Pharmaceuticals (Malaysia) Sdn. Bhd. Teks indikasi dan bentuk dos tidak tersedia dalam data.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL22066001ACZ | Samsca Tolvaptan Tablet 15mg | Tablet | Tiada data |
+| MAL24036003ARZ | Jinarc 90 mg dan Jinarc 30 mg Tablets | Tablet | Tiada data |
+| MAL24036007ARZ | Jinarc Tablets 15 mg | Tablet | Tiada data |
+| MAL24036006ARZ | Jinarc Tablets 30 mg | Tablet | Tiada data |
+| MAL24036005ARZ | Jinarc 45 mg dan Jinarc 15 mg Tablets | Tablet | Tiada data |
+
+Satu lagi lesen, MAL24036004ARZ (Jinarc 60 mg dan Jinarc 30 mg Tablets), turut didaftarkan, menjadikan jumlah keseluruhan 6 pendaftaran.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan. Interaksi **Major** yang dikenal pasti ialah **clarithromycin**. Interaksi **Moderate** termasuk aprepitant, dexamethasone, miconazole, rifaximin, rolapitant, empagliflozin, naltrexone, loperamide dan beberapa garam kalium (kalium sitrat, kalium bikarbonat, kalium klorida, kalium glukonat). Interaksi **Minor** termasuk fidaxomicin, naloxegol dan prucalopride.
-- **Keselamatan hati**: Percubaan ADPKD melaporkan peningkatan aminotransferase dan bilirubin. Pemantauan enzim hati (risiko kecederaan hati disebabkan ubat) ialah langkah kawalan utama.
-- **Kesan aquaresis**: Pengurusan kesan advers berkaitan aquaresis (poliuria, dahaga) diperlukan.
+**Interaksi Ubat** (100 interaksi direkodkan; contoh utama):
+- **Major**: Clarithromycin
+- **Sederhana (Moderate)**: Aprepitant, Dexamethasone, Empagliflozin, Miconazole, Rifaximin, Rolapitant, serta garam kalium (kalium sitrat, kalium bikarbonat, kalium klorida, kalium glukonat)
+- **Minor**: Fidaxomicin, Naloxegol, Prucalopride
 
-Untuk amaran dan kontraindikasi terperinci, sila rujuk sisipan pakej.
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
+
+---
+
+## Penilaian Ramalan Lain
+
+| Penyakit Diramalkan | Skor TxGNN | Tahap Bukti | Catatan |
+|------|------|------|------|
+| Nefritis interstisial karyomegalik | 0.9998 | L5 | Tiada pautan jelas dengan antagonisme V2/cAMP; tiada bukti |
+| Malformasi toraks | 0.9998 | L5 | Hanya laporan kes neonat gagal jantung dengan kilotoraks (PMID 26508187); kesan melalui akuaresis, bukan pembetulan malformasi. Artikel kedua (PMID 23917138) ialah laporan pembedahan dan tidak berkaitan keberkesanan tolvaptan |
+| Sindrom Joubert dengan kecacatan renal | 0.9998 | L5 | Hanya ulasan nefronoptisis (PMID 37930417, 2024); tiada kajian yang meneliti penyakit ini dengan tolvaptan |
+| Sindrom nefronoptisis familial dewasa-kuadriparesis spastik | 0.9998 | L5 | Rasional cAMP bersifat spekulatif; tiada bukti |
+| Hipertrikosis | 0.9996 | L5 | Tiada mekanisme munasabah |
+| Sindrom malformasi dengan komponen odontal/periodontal | 0.9996 | L5 | Tiada rasional mekanistik |
+| Sindrom dengan malformasi Dandy-Walker | 0.9995 | L5 | Tiada mekanisme untuk membetulkan malformasi struktur otak |
+
+Nota: Sistem sebelum ini menandakan malformasi toraks dan sindrom Joubert sebagai L4, tetapi tiada kajian yang dipetik meneliti penyakit tersebut dengan tolvaptan secara langsung, maka tahap bukti yang sesuai ialah L5.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Bukti daripada ADPKD sangat kukuh (beberapa percubaan fasa 3, RCT dan kajian sistematik) dan mekanisme cAMP/V2 dikongsi dengan PKD3. Walau bagaimanapun, tiada percubaan khusus PKD3 didaftarkan, jadi keberkesanan untuk subjenis ini masih belum disahkan.
+Ramalan untuk displasia renal-hepatik-pankreas hanya berasaskan model komputasi tanpa ujian klinikal atau literatur yang mengkaji penyakit ini secara langsung. Walaupun rasional cAMP dalam penyakit sista renal munasabah, data keselamatan dan indikasi tempatan juga tidak lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA (amaran dan kontraindikasi) dan data mekanisme tindakan rasmi
-- Pengesahan keberkesanan khusus PKD3 (berkaitan GANAB), contohnya melalui kajian kohort atau siri kes
-- Pelan pemantauan fungsi hati dan strategi pengurusan kesan aquaresis
-- Kriteria pemilihan pesakit (penyakit yang berkembang pantas)
-- Penilaian laluan pendaftaran kerana ubat ini tidak dipasarkan di Malaysia
-
-Sembilan ramalan lain (kedudukan 2 hingga 10) tidak mempunyai bukti klinikal yang mencukupi (L4 hingga L5) dan disyorkan **Hold**.
+- Sisipan pakej NPRA (amaran, kontraindikasi dan teks indikasi yang diluluskan), yang merupakan jurang data penyekat
+- Data mekanisme tindakan (MOA) terperinci daripada sumber seperti DrugBank
+- Kajian praklinikal atau klinikal yang menilai tolvaptan secara langsung dalam displasia renal-hepatik-pankreas atau ciliopati renal berkaitan
+- Penilaian keselamatan khusus untuk populasi pediatrik dan pesakit dengan penyakit hati atau ginjal
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

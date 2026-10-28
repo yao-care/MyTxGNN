@@ -4,15 +4,17 @@ title: Medroxyprogesterone Acetate
 parent: Low Evidence (L4-L5)
 nav_order: 488
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Medroxyprogesterone Acetate: indikasi baharu diramal Kanser korpus uterus (tahap bukti L5). Indikasi asal: Endometriosis, karsinoma endometrium, osteoporosis pascamenopaus…"
+indication_count: 7
+monitor_inn: "Medroxyprogesterone Acetate"
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
+last_modified_at: 2026-10-27
+description: "Medroxyprogesterone Acetate: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Medroxyprogesterone Acetate
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,96 +33,87 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Medroxyprogesterone Acetate: Daripada Endometriosis kepada Kanser Korpus Uterus
+## Medroxyprogesterone Acetate: Amenorea (amenorrhea (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Medroxyprogesterone acetate (MPA) ialah progestin sintetik yang pada asalnya digunakan untuk endometriosis, karsinoma endometrium dan osteoporosis pascamenopaus.
-Model TxGNN meramalkan ia mungkin berkesan untuk **kanser korpus uterus**, tetapi skor ramalan ialah **0.0%**, jadi model tidak memberikan sokongan bebas.
-Data yang dikumpulkan menunjukkan **2 ujian klinikal** dan **18 penerbitan** bagi indikasi ini. Kebanyakannya kajian praklinikal, laporan kes dan kajian pemerhatian. Penggunaan MPA dalam kanser endometrium sudah mantap, jadi ini bukan isyarat penggunaan semula yang sebenar.
-
----
+Medroxyprogesterone acetate (MPA) ialah progestin sintetik. Hubungan antara ubat ini dengan endometriosis, kanser endometrium, osteoporosis dan vaginitis atrofi pascamenopaus direkodkan dalam graf pengetahuan TxGNN (bukan indikasi yang diluluskan berdasarkan teks label tempatan).
+Model TxGNN meramalkan ia mungkin berkesan untuk **amenorea**, tetapi pada masa ini **tiada ujian klinikal** didaftarkan dan hanya terdapat **20 penerbitan** yang kebanyakannya ulasan umum tentang kontraseptif; tiada satu pun mengkaji amenorea sebagai sasaran terapeutik secara langsung.
 
 ## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Endometriosis, karsinoma endometrium, osteoporosis pascamenopaus, vaginitis atrofik pascamenopaus (daripada graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi berlesen) |
-| Indikasi Baharu yang Diramalkan | Kanser korpus uterus |
-| Skor Ramalan TxGNN | 0.0% |
-| Tahap Bukti | L2 (indikasi pertama). Indikasi bertindih "kanser endometrium" mencapai L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
-
----
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Amenorea (amenorrhea (disease)) |
+| Skor Ramalan TxGNN | 1.0000 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
+| Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, MPA ialah agonis reseptor progesteron. Kegunaannya dalam endometriosis dan karsinoma endometrium telah terbukti, dan secara mekanistik ia berkemungkinan sesuai untuk kanser korpus uterus.
+Data terperinci tentang mekanisme tindakan (MOA) pada masa ini tidak tersedia. Berdasarkan maklumat sedia ada, MPA ialah progestin sintetik. Pada amenorea sekunder dengan estrogen endogen yang mencukupi, cabaran penarikan progestin menyebabkan transformasi sekretori endometrium dan pendarahan penarikan. Ini munasabah secara biologi dan selari dengan tindakan progestogenik ubat ini; kaedah ini juga digunakan untuk menilai status estrogen.
 
-Progestin bertindak melalui isyarat reseptor progesteron untuk menentang percambahan endometrium yang didorong oleh estrogen. Ia mendorong pembezaan dan apoptosis, dan boleh meningkatkan kepekaan sel terhadap radiasi secara in vitro. Inilah asas penggunaan progestin dalam rawatan pemeliharaan kesuburan dan terapi hormon karsinoma endometrium.
-
-Perlu diberi perhatian bahawa indikasi ini bertindih dengan "kanser endometrium" dan berkongsi ujian klinikal yang sama. Oleh sebab MPA sudah menjadi terapi mantap di sini dan skor TxGNN ialah 0.0, ramalan ini lebih mencerminkan pengesahan penggunaan sedia ada daripada penemuan baharu.
-
----
+Walau bagaimanapun, bukti yang diperoleh lemah. Literatur yang dikumpulkan kebanyakannya ulasan umum tentang kontraseptif dan progestin suntikan, tanpa data ujian terkawal untuk amenorea itu sendiri. Amenorea juga kesan diketahui MPA depot, jadi literatur mungkin mencerminkan kesan advers atau kegunaan kontraseptif dan bukan kegunaan terapeutik. Skor TxGNN yang tinggi (~1.0) hanyalah ramalan model.
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00064025](https://clinicaltrials.gov/study/NCT00064025) | Fasa 2 | Selesai | 75 | Kajian perintis pendedahan jangka pendek Depo-Provera (MPA) terhadap perubahan morfologi, biokimia dan molekul dalam adenokarsinoma endometrioid korpus uterus |
-| [NCT03018249](https://clinicaltrials.gov/study/NCT03018249) | Fasa 1 Awal | Selesai | 50 | Kajian tetingkap pembedahan rawak: MPA berbanding MPA ditambah entinostat terhadap reseptor progesteron pada tumor endometrioid |
-
-Untuk indikasi bertindih "kanser endometrium", terdapat lebih banyak ujian, termasuk ujian Fasa 3 [NCT00002920](https://clinicaltrials.gov/study/NCT00002920) (MPA berbanding pemerhatian, n=313, selesai) dan ujian Fasa 2 rawak [NCT02228681](https://clinicaltrials.gov/study/NCT02228681) (everolimus + letrozole berbanding tamoxifen/MPA, n=74, selesai).
-
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
+Tiada kajian yang dipetik mengkaji amenorea sebagai sasaran rawatan secara langsung. Berikut ialah penerbitan paling relevan yang diperoleh (semuanya ulasan atau tinjauan, tanpa abstrak terperinci untuk kebanyakannya):
+
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [6842804](https://pubmed.ncbi.nlm.nih.gov/6842804/) | 1983 | Kohort | JAMA | Risiko kanser payudara, uterus dan ovari dalam kalangan wanita yang menerima suntikan medroxyprogesterone |
-| [2973195](https://pubmed.ncbi.nlm.nih.gov/2973195/) | 1988 | Klinikal | Zentralblatt fur Gynakologie | Terapi gestagen adjuvan (MPA 300 mg/hari selama setahun) dalam kanser endometrium peringkat I |
-| [6218817](https://pubmed.ncbi.nlm.nih.gov/6218817/) | 1983 | Siri klinikal | Br J Obstet Gynaecol | Progestogen adjuvan selepas pembedahan dalam adenokarsinoma korpus uterus peringkat I; tiada kekambuhan vagina dalam 7 tahun |
-| [20414038](https://pubmed.ncbi.nlm.nih.gov/20414038/) | 2010 | Laporan kes | Gan to Kagaku Ryoho | Dua kes kanser endometrium berulang rintang pelbagai ubat yang berjaya dirawat dengan MPA |
-| [38469132](https://pubmed.ncbi.nlm.nih.gov/38469132/) | 2024 | Laporan kes | Gynecol Oncol Rep | Pemeliharaan kesuburan berjaya dengan terapi progestin jangka panjang dalam karsinoma endometrium peringkat II |
-| [2526620](https://pubmed.ncbi.nlm.nih.gov/2526620/) | 1989 | Laporan kes | Gan to Kagaku Ryoho | MPA digabungkan dengan kemoterapi membolehkan pembuangan lengkap karsinoma korpus uterus |
-| [6467144](https://pubmed.ncbi.nlm.nih.gov/6467144/) | 1984 | In vitro | Cancer | MPA meningkatkan radiosensitiviti sel kanser endometrium |
-| [7559094](https://pubmed.ncbi.nlm.nih.gov/7559094/) | 1995 | Praklinikal (tikus) | Jpn J Cancer Res | MPA dos rendah berkitar merencat karsinogenesis endometrium pada tikus |
-| [11578372](https://pubmed.ncbi.nlm.nih.gov/11578372/) | 1993 | Ujian multipusat | Int J Gynecol Cancer | Pementasan pembedahan dalam karsinoma endometrium peringkat I yang ketara dan keberkesanan MPA adjuvan (1,055 pesakit) |
-| [2545046](https://pubmed.ncbi.nlm.nih.gov/2545046/) | 1989 | Biomarker klinikal | Voprosy Onkologii | Kesan terapi progestin terhadap tahap reseptor sitoplasma dalam kanser korpus uterus |
+| [5107182](https://pubmed.ncbi.nlm.nih.gov/5107182/) | 1971 | Ulasan/tidak dikelaskan | Obstetrics and Gynecology | Amenorea terapeutik dalam gangguan hematologi |
+| [7139435](https://pubmed.ncbi.nlm.nih.gov/7139435/) | 1982 | Ulasan | Canadian Medical Association Journal | Perbincangan sama ada MPA depot patut dipertimbangkan untuk kegunaan tambahan |
+| [12229496](https://pubmed.ncbi.nlm.nih.gov/12229496/) | 1975 | Ulasan | Drug Therapy | Tinjauan MPA suntikan |
+| [120837](https://pubmed.ncbi.nlm.nih.gov/120837/) | 1979 | Ulasan | IARC Monographs | Penilaian risiko karsinogenik medroxyprogesterone acetate |
+| [23641480](https://pubmed.ncbi.nlm.nih.gov/23641480/) | 2013 | Ulasan sistematik (Cochrane) | Cochrane Database of Systematic Reviews | Kontraseptif suntikan gabungan; kontraseptif berkesan tinggi dan boleh diterbalikkan, dengan perubahan corak pendarahan |
+| [13678382](https://pubmed.ncbi.nlm.nih.gov/13678382/) | 2003 | Ulasan | Journal of Medical Investigation | Terapi penggantian hormon pada wanita pascamenopaus |
+| [8313486](https://pubmed.ncbi.nlm.nih.gov/8313486/) | 1993 | Memorandum WHO | Bulletin of the World Health Organization | Kontraseptif suntikan bulanan (Cyclofem dan Mesigyna) |
+| [6141923](https://pubmed.ncbi.nlm.nih.gov/6141923/) | 1984 | Ulasan | Drug Intelligence & Clinical Pharmacy | Ketidaksuburan teraruh ubat |
+| [6119259](https://pubmed.ncbi.nlm.nih.gov/6119259/) | 1981 | Ulasan | International Journal of Gynaecology and Obstetrics | Kontraseptif selepas bersalin |
+| [1604074](https://pubmed.ncbi.nlm.nih.gov/1604074/) | 1992 | Ulasan | Revue Medicale de Liege | Kontraseptif hormon |
 
-Untuk indikasi bertindih "kanser endometrium", terdapat juga bukti RCT yang lebih kukuh mengenai terapi hormon menopaus, contohnya [39173088](https://pubmed.ncbi.nlm.nih.gov/39173088/) (susulan jangka panjang WHI, 2024) dan [35063278](https://pubmed.ncbi.nlm.nih.gov/35063278/) (RCT Fasa 2 GOG, 2022).
+## Maklumat Pasaran di Malaysia
 
----
+Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL19950156AZ | RAVIMED TABLET 5MG | Tidak dinyatakan | Tidak dinyatakan |
+| MAL20020010AZ | NON-PREG INJECTION | Tidak dinyatakan | Tidak dinyatakan |
+| MAL19872273AZ | DEPO-PROVERA 150 INJ (3ML, VIAL) | Tidak dinyatakan | Tidak dinyatakan |
+| MAL14125122AZ | DEPOGESTON 50MG/ML INJECTION | Tidak dinyatakan | Tidak dinyatakan |
+| MAL20000997AZ | PROVERA 10MG TABLET | Tidak dinyatakan | Tidak dinyatakan |
+
+Jumlah pendaftaran ialah 7 (semuanya produk bahan tunggal yang sah); hanya 5 yang pertama disenaraikan di atas.
 
 ## Pertimbangan Keselamatan
 
-- **Interaksi Ubat**: Pangkalan data interaksi menyenaraikan 100 interaksi, dan 20 yang dipaparkan semuanya bertahap sederhana. Yang utama termasuk:
-  - Ubat antidiabetes: acarbose, metformin, glimepiride, chlorpropamide, penghambat DPP-4 (alogliptin, saxagliptin), penghambat SGLT2 (canagliflozin, dapagliflozin, empagliflozin), agonis GLP-1 (liraglutide, semaglutide, dulaglutide, albiglutide) dan insulin (aspart, degludec, detemir)
-  - Aprepitant, dexamethasone dan clarithromycin
-  - Pegvaliase
-- **Penyakit yang Menjadi Isyarat Kontraindikasi dalam Graf Pengetahuan** (bukan teks label): hipertensi, kegagalan hati dan penyakit hati, penyakit hempedu, penyakit buah pinggang, epilepsi, asma, diabetes mellitus dan ketoasidosis diabetes, hipotiroidisme, lupus eritematosus sistemik, hiperkalsemia, hipertrigliseridemia, osteoporosis, gangguan kebimbangan, penyalahgunaan bahan, dan karsinoma payudara wanita.
-- **Isyarat daripada Literatur**: Kajian WHI dan kajian kes-kawalan DMPA menunjukkan pendedahan progestogen membawa isyarat risiko bercampur dalam kanser bergantung hormon. Penggunaan DMPA berpanjangan juga dikaitkan dengan risiko meningioma (PMID 42765513).
+- **Kontraindikasi (hubungan dalam graf pengetahuan, bukan teks label)**: Graf pengetahuan merekodkan hubungan kontraindikasi dengan penyakit berikut: hipertensi, kegagalan hati dan penyakit hati, penyakit pundi hempedu, penyakit buah pinggang, epilepsi, gangguan kebimbangan, hipotiroidisme, osteoporosis, lupus eritematosus sistemik, asma, diabetes mellitus dan ketoasidosis diabetes, hipertrigliseridemia, hiperkalsemia, penyalahgunaan bahan, serta karsinoma payudara wanita.
+- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan. Antara yang disenaraikan, semuanya bertahap sederhana, terutamanya dengan ubat antidiabetes (metformin, acarbose, glimepiride, chlorpropamide, penghambat DPP-4 seperti alogliptin dan saxagliptin, penghambat SGLT2 seperti canagliflozin, dapagliflozin dan empagliflozin, agonis GLP-1 seperti liraglutide, semaglutide dan dulaglutide, serta pelbagai insulin). Interaksi sederhana turut direkodkan dengan dexamethasone, aprepitant, clarithromycin dan pegvaliase.
 
-Teks amaran dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan penuh.
-
----
+Amaran dan kontraindikasi daripada sisipan pakej NPRA belum tersedia; sila rujuk sisipan pakej untuk maklumat keselamatan rasmi.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
+**Keputusan: Hold**
 
 **Rasional:**
-- MPA sudah menjadi terapi hormon mantap untuk karsinoma endometrium, dengan ujian Fasa 2 yang selesai. Namun skor TxGNN ialah 0.0 dan indikasi ini bertindih dengan "kanser endometrium", jadi ini bukan isyarat penggunaan semula yang bebas. Bukti Fasa 3 terletak pada indikasi bertindih tersebut, bukan pada ujian khusus kanser korpus uterus.
+Ramalan amenorea hanya disokong oleh model dan literatur tidak langsung (ulasan kontraseptif); tiada ujian klinikal dan tiada kajian yang meneliti amenorea sebagai sasaran terapeutik secara langsung, maka tahap bukti ialah L5. Selain itu, amenorea juga kesan diketahui MPA depot, dan profil keselamatan (termasuk hubungan kontraindikasi dengan beberapa keadaan lazim) memerlukan semakan teliti.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran dan kontraindikasi daripada sisipan pakej (data ini ketiadaan dan menghalang saringan keselamatan peringkat seterusnya)
-- Data terperinci mengenai mekanisme tindakan (MOA)
-- Status pendaftaran di Malaysia: ubat ini tidak dipasarkan, jadi laluan pendaftaran atau import perlu dinilai
-- Pelan pemantauan keselamatan untuk pesakit berisiko (diabetes, hipertensi, penyakit hati, risiko tromboembolisme dan kanser bergantung hormon) serta penilaian kesesuaian laluan pemberian dan bentuk dos
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi) serta teks indikasi diluluskan bagi setiap lesen
+- Data mekanisme tindakan (MOA) terperinci
+- Kajian klinikal atau ulasan sistematik yang menilai MPA secara langsung untuk amenorea (cabaran progestin)
+- Semakan klinikal bagi membezakan kegunaan terapeutik daripada kesan advers amenorea akibat MPA depot
+- Penilaian keselamatan untuk populasi dengan hipertensi, diabetes, penyakit hati/pundi hempedu dan risiko payudara
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

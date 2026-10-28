@@ -8,6 +8,7 @@ nav_order: 69
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Amoxicillin Trihydrate
@@ -51,8 +52,8 @@ Tiada penilaian berasaskan bukti bagi indikasi baru yang dapat disempurnakan pad
 | Indikasi Baru Diramalkan | — (Tiada ramalan dijana) |
 | Skor Ramalan TxGNN | — |
 | Tahap Bukti | T/A |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 81 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 81 daripada 81) |
+| Bilangan Pendaftaran | 81 (sah: 81) |
 | Keputusan yang Disyorkan | Tahan |
 
 ---

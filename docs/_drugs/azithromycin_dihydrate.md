@@ -8,6 +8,7 @@ nav_order: 118
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Azithromycin Dihydrate
@@ -49,8 +50,8 @@ Azithromycin dihydrate ialah antibiotik makrolida yang digunakan secara meluas u
 | Petunjuk Baru Diramalkan | **Tiada** — TxGNN tidak mengembalikan sebarang ramalan |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 (Tiada ramalan, tiada kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 39 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 38 daripada 38) |
+| Bilangan Pendaftaran | 38 (sah: 38) |
 | Keputusan Disyorkan | **Tahan** |
 
 ---

@@ -6,9 +6,9 @@ nav_order: 367
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Flupentixol: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (tahap bukti L5). Indikasi asal: Skizofrenia"
 monitor_inn: "flupentixol"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "myopia X-linked", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
+description: "Flupentixol: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies) (tahap bukti L5). Indikasi asal: Tidak direkodkan…"
 ---
 
 # Flupentixol
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-## Flupentixol: Daripada Skizofrenia kepada Distrofi Retina (dengan atau tanpa Anomali Ekstraokular)
+## Flupentixol: Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,19 +46,19 @@ tetapi pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang men
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Skizofrenia |
-| Indikasi Baharu yang Diramalkan | Distrofi retina dengan atau tanpa anomali ekstraokular |
-| Skor Ramalan TxGNN | 99.99% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies) |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
 Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, flupentixol ialah antipsikotik kelas tioksanten, keberkesanannya dalam skizofrenia telah diketahui, dan secara farmakologi ia bertindak pada reseptor dopamin (D1, D2, D3 dan D5). Namun, tiada laluan yang munasabah dan disokong oleh data yang menghubungkan tindakan ini dengan degenerasi retina yang diwarisi.
 
-Distrofi retina ialah penyakit genetik yang jarang berlaku. Skor ramalan yang tinggi untuk penyakit seperti ini berkemungkinan didorong oleh topologi graf pengetahuan dan bukan oleh biologi yang sebenar. Oleh itu, ramalan ini perlu dianggap sebagai hipotesis awal yang belum disahkan.
+Distrofi retina dengan atau tanpa anomali ekstraokular ialah penyakit genetik yang jarang berlaku. Skor ramalan yang tinggi (0.9999) datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Oleh itu, ramalan ini perlu dianggap sebagai hipotesis awal yang belum disahkan.
 
 Calon ramalan lain bagi ubat ini (contohnya penyakit Charcot-Marie-Tooth demielinasi jenis 1G, gangguan glikosilasi kongenital, polimikrogiria, hidranensefali, beberapa bentuk miopia dan ensefalopati glisin atipikal) juga berada pada tahap bukti L5 tanpa sebarang ujian klinikal atau penerbitan, dan tiada satu pun mempunyai pautan mekanistik yang jelas.
 
@@ -72,7 +72,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Flupentixol pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 
@@ -87,7 +86,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Sokongan hanya datang daripada skor ramalan TxGNN (99.99%) tanpa sebarang ujian klinikal, penerbitan atau pautan mekanistik yang munasabah. Ubat ini juga tidak dipasarkan di Malaysia, dan data keselamatan peringkat label belum tersedia.
+- Sokongan hanya datang daripada skor ramalan TxGNN (0.9999) tanpa sebarang ujian klinikal, penerbitan atau pautan mekanistik yang munasabah.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci daripada DrugBank

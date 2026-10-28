@@ -3,18 +3,18 @@ layout: default
 title: Rivastigmine
 parent: Low Evidence (L4-L5)
 nav_order: 629
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Rivastigmine: indikasi baharu diramal Glaukoma (tahap bukti L4). Indikasi asal: Penyakit Alzheimer (juga disenaraikan: degenerasi serebelum…"
 monitor_inn: "RIVASTIGMINE"
 predicted_indications: ["glaucoma"]
+description: "Rivastigmine: indikasi baharu diramal Glaukoma (glaucoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Rivastigmine
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **1** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-## Rivastigmin: Daripada Penyakit Alzheimer kepada Glaukoma
+## Rivastigmine: Glaukoma (glaucoma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ tetapi setakat ini hanya terdapat **3 penerbitan** (1 kajian praklinikal haiwan,
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit Alzheimer (juga disenaraikan: degenerasi serebelum, sindrom Reye, penyakit Pick) |
-| Indikasi Baharu yang Diramalkan | Glaukoma |
-| Skor Ramalan TxGNN | 99.27% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Glaukoma (glaucoma) |
+| Skor Ramalan TxGNN | 0.9927 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 15) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -60,7 +60,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) yang disusun tidak tersedia. B
 
 Peningkatan nada kolinergik pada mata, seperti yang berlaku dengan ubat miotik parasimpatomimetik (contohnya pilokarpin), boleh meningkatkan aliran keluar humor akueus melalui pengecutan otot siliari dan kesan pada jejaring trabekular, lalu merendahkan tekanan intraokular (IOP). Kajian praklinikal pada 2000 melaporkan bahawa rivastigmin topikal menurunkan IOP pada arnab. Kajian genetik sistem dan molekul pada 2024 mengenai agen kolinergik untuk penurunan IOP memberikan sokongan tidak langsung.
 
-Perlu diberi perhatian bahawa skor TxGNN (0.993) hanyalah ramalan komputasi dan bukan bukti klinikal. Hubungan mekanistik ini bergantung pada kelas ubat, bukan rekod MOA yang disusun.
+Perlu diberi perhatian bahawa skor TxGNN (0.9927) hanyalah ramalan komputasi dan bukan bukti klinikal. Hubungan mekanistik ini bergantung pada kelas ubat, bukan rekod MOA yang disusun.
 
 ## Bukti Percubaan Klinikal
 
@@ -88,7 +88,7 @@ Maklumat tambahan daripada graf pengetahuan (bukan teks label rasmi):
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Bukti hanya setakat praklinikal (kajian arnab) dan mekanistik; tiada percubaan klinikal didaftarkan dan skor TxGNN ialah ramalan komputasi sahaja. Ubat ini juga tidak dipasarkan di Malaysia, dan data keselamatan daripada sisipan pakej belum tersedia, jadi penilaian keselamatan belum boleh diteruskan.
+- Bukti hanya setakat praklinikal (kajian arnab) dan mekanistik; tiada percubaan klinikal didaftarkan dan skor TxGNN ialah ramalan komputasi sahaja.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan

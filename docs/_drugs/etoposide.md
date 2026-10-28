@@ -3,18 +3,18 @@ layout: default
 title: Etoposide
 parent: Low Evidence (L4-L5)
 nav_order: 343
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Etoposide: indikasi baharu diramal Adenokarsinoma janin berdiferensiasi baik pada paru-paru (tahap bukti L4). Indikasi asal: Tiada rekod indikasi diluluskan dalam data yang dikumpulkan"
 monitor_inn: "Etoposide"
-predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma"]
+predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
+last_modified_at: 2026-10-23
+description: "Etoposide: indikasi baharu diramal Adenokarsinoma janin paru-paru berdiferensiasi baik (tahap bukti L5). Indikasi asal: Teks indikasi yang diluluskan tidak tersedia dalam data pendaftaran t…"
 ---
 
 # Etoposide
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Etoposide: Daripada Indikasi Asal (Tidak Direkodkan) kepada Adenokarsinoma Janin Berdiferensiasi Baik pada Paru-paru
+## Etoposide: Daripada Ubat Kemoterapi Antineoplastik kepada Adenokarsinoma Janin Paru-paru Berdiferensiasi Baik
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Etoposide ialah ubat kemoterapi perencat topoisomerase II. Data yang dikumpulkan untuk laporan ini tidak merekodkan indikasi asal yang diluluskan di Malaysia.
-Model TxGNN meramalkan ubat ini mungkin berkesan untuk **adenokarsinoma janin berdiferensiasi baik pada paru-paru** (*well-differentiated fetal adenocarcinoma of the lung*).
-Setakat ini hanya **0 ujian klinikal** dan **1 penerbitan** (laporan kes dan ulasan) menyokong arah ini, jadi keterangannya sangat terhad.
+Etoposide ialah ubat kemoterapi perencat topoisomerase II yang sudah didaftarkan di Malaysia dalam bentuk suntikan/infusi.
+Model TxGNN meramalkan ia mungkin berkesan untuk **adenokarsinoma janin paru-paru berdiferensiasi baik (well-differentiated fetal adenocarcinoma of the lung)**.
+Setakat ini terdapat **0 ujian klinikal** dan **1 penerbitan** (laporan kes berkaitan blastoma pulmonari, penyakit yang berkait tetapi berbeza), maka bukti langsung masih tiada.
 
 ---
 
@@ -48,27 +48,29 @@ Setakat ini hanya **0 ujian klinikal** dan **1 penerbitan** (laporan kes dan ula
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada rekod indikasi diluluskan dalam data yang dikumpulkan |
-| Indikasi Baharu yang Diramal | Adenokarsinoma janin berdiferensiasi baik pada paru-paru |
-| Skor Ramalan TxGNN | 99.94% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang ada) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi Asal | Teks indikasi yang diluluskan tidak tersedia dalam data pendaftaran tempatan yang dikumpulkan; etoposide ialah ubat antineoplastik |
+| Indikasi Baharu yang Diramalkan | Adenokarsinoma janin paru-paru berdiferensiasi baik |
+| Skor Ramalan TxGNN | 0.9994 |
+| Tahap Bukti | L5 (tiada kajian yang mengkaji penyakit ini secara langsung) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Etoposide ialah perencat topoisomerase II. Ia menyebabkan pecahan dua helai DNA pada sel yang membahagi dengan pantas. Mekanisme ini bersifat sitotoksik dan tidak terhad kepada satu jenis tumor, jadi ia secara teori boleh digunakan pada tumor paru-paru yang agresif.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia daripada pangkalan data ubat. Namun etoposide dikenali sebagai perencat topoisomerase II. Ia menyebabkan pemecahan dwirantai DNA dalam sel yang membahagi dengan pantas, jadi ia lazim digunakan dalam regimen kemoterapi untuk pelbagai tumor agresif.
 
-Adenokarsinoma janin berdiferensiasi baik ialah komponen tumor paru-paru yang sangat jarang, iaitu blastoma pulmonari. Tumor ini tiada garis panduan rawatan piawai. Satu-satunya penerbitan yang dikaitkan ialah laporan kes blastoma pulmonari bifasik klasik, entiti yang berkaitan tetapi berbeza. Pesakit dalam laporan itu menerima nedaplatin dan paklitaxel sebagai kemoterapi adjuvan. Petikan abstrak yang ada tidak menyebut etoposide. Oleh itu, kaitan dengan tumor khusus ini bersifat tidak langsung.
+Adenokarsinoma janin berdiferensiasi baik ialah salah satu komponen dalam keluarga blastoma pulmonari, iaitu tumor paru-paru yang sangat jarang berlaku dan tiada garis panduan rawatan piawai. Mekanisme etoposide boleh dipakai pada tumor yang membahagi pantas, tetapi hubungan ini masih tidak langsung.
+
+Satu-satunya penerbitan yang dipautkan ialah laporan kes blastoma pulmonari biphasic klasik, yang merupakan entiti berkaitan tetapi berbeza. Pesakit dalam laporan itu menerima nedaplatin dan paklitaksel, bukan etoposide. Ramalan ini oleh itu lebih bersifat hipotesis daripada model dan belum disokong bukti klinikal khusus.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk indikasi ini.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
@@ -76,61 +78,60 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk indikasi ini
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [33107372](https://pubmed.ncbi.nlm.nih.gov/33107372/) | 2020 | Laporan kes/ulasan | J Int Med Res | Kes blastoma pulmonari bifasik klasik selepas reseksi lobus atas kanan. Pesakit menerima nedaplatin dan paklitaxel secara adjuvan. Tiada garis panduan rawatan piawai kerana tumor ini sangat jarang. |
+| [33107372](https://pubmed.ncbi.nlm.nih.gov/33107372/) | 2020 | Laporan kes/Ulasan | The Journal of International Medical Research | Kes blastoma pulmonari biphasic klasik selepas pembedahan lobus atas kanan; kemoterapi adjuvan nedaplatin dan paklitaksel; tiada garis panduan rawatan piawai kerana penyakit ini sangat jarang |
 
 ---
 
-## Sitotoksisiti (Ubat Antineoplastik)
+## Maklumat Pasaran di Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL11070004AZ | Fytosid Injection (20mg/ml) (Fresenius Kabi Malaysia Sdn. Bhd.) | — | — |
+| MAL22116021AZ | SEDOL - Etoposide Concentrate for Solution for Infusion 20 mg/ml (Unimed Sdn. Bhd.) | — | — |
+
+Kedua-dua pendaftaran ialah produk bahan tunggal yang sah. Bentuk dos dan teks indikasi tidak direkodkan dalam data yang dikumpulkan.
+
+---
+
+## Sitotoksisiti
 
 | Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (perencat topoisomerase II, kelas epipodofilotoksin) |
-| Risiko Penindasan Sumsum Tulang | Tinggi (neutropenia dan trombositopenia lazim berlaku) |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (perencat topoisomerase II) |
+| Risiko Penekanan Sumsum Tulang | Tinggi (neutropenia dan trombositopenia lazim; risiko leukemia sekunder juga diketahui) |
 | Klasifikasi Emetogenisiti | Rendah hingga sederhana |
-| Item Pemantauan | Kiraan darah penuh (CBC) dengan pembezaan, fungsi hati dan buah pinggang, elektrolit |
-| Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
+| Item Pemantauan | Kiraan darah lengkap (CBC) dengan perbezaan, fungsi hati dan buah pinggang, elektrolit |
+| Perlindungan Pengendalian | Perlu mengikut peraturan pengendalian ubat sitotoksik |
 
-Maklumat di atas ialah pengetahuan umum bagi kelas ubat ini, bukan data toksisiti DrugBank. Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pek untuk butiran lanjut.
+Klasifikasi ini berdasarkan pengetahuan am mengenai kelas ubat. Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej untuk butiran khusus produk.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat**: Pangkalan data interaksi (DDInter) merekodkan 100 interaksi. Antara yang utama, interaksi **tahap sederhana** ialah:
-- Aprepitant
-- Rolapitant
-- Metronidazole
-- Tinidazole
-- Eliglustat
-- Rosuvastatin
-- Simvastatin
+- **Interaksi Ubat**: Pertanyaan interaksi telah selesai dengan jumlah 100 interaksi direkodkan. Antara yang tersenarai:
+  - Tahap sederhana: aprepitant, metronidazol, eliglustat, rolapitant, rosuvastatin, simvastatin, tinidazol
+  - Tahap minor: levofloxacin
+  - Tahap tidak diketahui: kalsitriol, vitamin A, doksisiklin, klotrimazol, simetidina, epinefrina, amfoterisin B, manitol, dolasetron, pantoprazol, glimepirid, morfin
 
-Levofloxacin berada pada tahap **ringan**. Beberapa interaksi lain (contohnya kalsitriol, doksisiklin, simetidin, pantoprazol, morfin) belum mempunyai tahap yang ditentukan.
-
-Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi.
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan ini hanya disokong oleh skor model (99.94%) dan satu laporan kes tidak langsung, tanpa ujian klinikal. Bukti berada pada tahap L4 dan belum mencukupi untuk diteruskan.
+- Tiada ujian klinikal dan tiada penerbitan yang mengkaji adenokarsinoma janin paru-paru berdiferensiasi baik secara langsung. Satu-satunya laporan kes berkait dengan entiti berbeza dan tidak menggunakan etoposide, maka bukti hanya setakat ramalan model (L5).
+- Dalam data yang sama, penyakit lain seperti sarkoma Ewing dan rabdomiosarkoma mempunyai bukti yang jauh lebih kukuh, termasuk ujian klinikal fasa 3. Ia boleh dinilai secara berasingan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Bukti klinikal langsung, seperti siri kes atau ujian yang menguji etoposide dalam blastoma pulmonari atau adenokarsinoma janin.
-- Pengesahan status pendaftaran NPRA. Status "tidak dipasarkan" dan ketiadaan indikasi asal berkemungkinan jurang data, kerana etoposide ialah ubat kemoterapi yang digunakan secara meluas.
-- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang yang menghalang saringan keselamatan).
-- Data mekanisme tindakan terperinci (MOA) daripada DrugBank.
-
-**Nota mengenai calon lain:** Data yang sama menunjukkan calon lain dengan bukti jauh lebih kukuh daripada indikasi di atas. Ini bukan pengembalian guna semula yang benar, kerana ia ialah penggunaan piawai.
-
-| Indikasi | Tahap Bukti | Cadangan | Catatan |
-|------|------|------|------|
-| Karsinoma paru-paru sel kecil | L1 | Proceed with Guardrails | Platinum-etoposide ialah asas rawatan lini pertama; terdapat ujian Fasa 3 seperti NCT04005716 |
-| Sarkoma Ewing | L1 | Proceed with Guardrails | Ujian RCT (PMID 12594313) menunjukkan penambahan ifosfamide dan etoposide memperbaiki hasil |
-| Rhabdomiosarkoma | L1 | Proceed with Guardrails | Fasa 3 NCT00003052; ifosfamide/etoposide lebih unggul daripada vinkristin/melfalan dalam penyakit metastatik (PMID 11846301) |
+- Kajian klinikal atau siri kes yang menilai etoposide secara langsung dalam adenokarsinoma janin paru-paru atau keluarga blastoma pulmonari
+- Data amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Data mekanisme tindakan (MOA) terperinci daripada pangkalan data ubat
+- Pengesahan indikasi yang diluluskan dan bentuk dos bagi kedua-dua pendaftaran tempatan
+- Pelan pemantauan keselamatan, khususnya untuk penekanan sumsum tulang dan risiko malignansi sekunder
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

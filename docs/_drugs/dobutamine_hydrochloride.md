@@ -8,6 +8,7 @@ nav_order: 300
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Dobutamine Hydrochloride
@@ -49,8 +50,8 @@ Dobutamine hydrochloride ialah katekholamin sintetik dan agonis adrenergik beta-
 | Petunjuk Baru yang Diramalkan | **Tiada** — Tiada ramalan TxGNN dijana |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | **L5** (Tiada ramalan atau kajian yang menyokong) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 4 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan yang Dicadangkan | **Tahan** |
 
 ---

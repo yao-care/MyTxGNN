@@ -6,9 +6,9 @@ nav_order: 658
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Spironolactone: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (tahap bukti L5). Indikasi asal: Hipertensi, kegagalan jantung kongestif, hiperaldosteronisme…"
 monitor_inn: "SPIRONOLACTONE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
+description: "Spironolactone: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Spironolactone
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Spironolakton: Daripada Hipertensi dan Kegagalan Jantung Kongestif kepada Hipotrikosis Simpleks Kulit Kepala
+## Spironolactone: Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Spironolakton ialah antagonis reseptor mineralokortikoid yang pada asalnya digunakan untuk hipertensi, kegagalan jantung kongestif dan hiperaldosteronisme (termasuk hiperaldosteronisme primer).
-Model TxGNN meramalkan ia mungkin berkesan untuk **hipotrikosis simpleks kulit kepala** (skor 99.26%).
+Model TxGNN meramalkan ia mungkin berkesan untuk **hipotrikosis simpleks kulit kepala** (skor 0.9926).
 Namun, setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model.
 
 ---
@@ -48,12 +48,12 @@ Namun, setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyok
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Hipertensi, kegagalan jantung kongestif, hiperaldosteronisme, hiperaldosteronisme primer, penyakit Bartter, sindrom Waterhouse-Friderichsen (berdasarkan graf pengetahuan TxGNN; data label pendaftaran Malaysia tidak tersedia) |
-| Indikasi Baharu yang Diramalkan | Hipotrikosis simpleks kulit kepala |
-| Skor Ramalan TxGNN | 99.26% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) |
+| Skor Ramalan TxGNN | 0.9926 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---
@@ -64,7 +64,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) belum tersedia dalam data yang
 
 Walau bagaimanapun, hubungan ini tidak boleh dipindahkan terus. Hipotrikosis simpleks kulit kepala ialah gangguan keguguran rambut keturunan yang jarang berlaku, biasanya disebabkan varian gen seperti *CDSN*, *APCDD1* atau *RPL21*, dan tidak didorong oleh androgen. Rasional anti-androgen oleh itu lemah untuk keadaan ini.
 
-Ramalan kedua dalam senarai ialah **hipotrikosis kongenital dengan milia** (skor 99.04%, tahap bukti L5, keputusan Hold). Ini ialah gangguan genetik jarang yang melibatkan perkembangan rambut dan kulit, dan tiada laluan mapan yang menghubungkannya dengan antagonisme reseptor mineralokortikoid atau aktiviti anti-androgen. Tiada ujian klinikal atau literatur menyokongnya.
+Ramalan kedua dalam senarai ialah **hipotrikosis kongenital dengan milia** (skor 0.9904, tahap bukti L5, keputusan Hold). Ini ialah gangguan genetik jarang yang melibatkan perkembangan rambut dan kulit, dan tiada laluan mapan yang menghubungkannya dengan antagonisme reseptor mineralokortikoid atau aktiviti anti-androgen. Tiada ujian klinikal atau literatur menyokongnya.
 
 ---
 

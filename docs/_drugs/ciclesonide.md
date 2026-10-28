@@ -4,17 +4,17 @@ title: Ciclesonide
 parent: Low Evidence (L4-L5)
 nav_order: 219
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-15
-description: "Ciclesonide: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Indikasi asal: Asma, asma intrinsik, asma alergi, rinitis alergi…"
+indication_count: 5
 monitor_inn: "CICLESONIDE"
 predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis"]
+last_modified_at: 2026-10-27
+description: "Ciclesonide: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ciclesonide
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **6** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,73 +33,71 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-## Siklesonid: Daripada Asma dan Rinitis Alergi kepada Ekzema Atopik
+## Ciclesonide: kortikosteroid disedut (prodrug glukokortikoid) → Ekzema atopik (atopic eczema)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Siklesonid (ciclesonide) ialah kortikosteroid disedut yang pada asalnya digunakan untuk merawat asma dan rinitis alergi.
-Model TxGNN meramalkan ia mungkin berkesan untuk **ekzema atopik**,
-tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan skor model.
+Ciclesonide ialah kortikosteroid disedut yang diaktifkan menjadi metabolit aktif (des-ciclesonide) dan bertindak sebagai agonis reseptor glukokortikoid.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Ekzema atopik (atopic eczema)**, tetapi buat masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang secara langsung menyokong ramalan ini; ia hanya bergantung pada skor ramalan model.
 
 ---
 
-## Gambaran Keseluruhan Ringkas
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Asma, asma intrinsik, asma alergi, rinitis alergi, rinitis vasomotor (daripada graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi berdaftar kerana tiada lesen tempatan) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Ekzema atopik (atopic eczema) |
-| Skor Ramalan TxGNN | 99.96% |
+| Skor Ramalan TxGNN | 0,9996 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan belum tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, siklesonid ialah prodrug kortikosteroid disedut yang diaktifkan menjadi des-siklesonid, iaitu agonis reseptor glukokortikoid dengan kesan anti-radang yang luas. Keberkesanannya dalam asma dan rinitis alergi, yang merupakan penyakit alergi/radang, telah diketahui, dan secara mekanistik ia mungkin sesuai untuk ekzema atopik.
+Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Namun, ciclesonide ialah kortikosteroid yang disedut dan diaktifkan menjadi des-ciclesonide, yang bertindak pada reseptor glukokortikoid dengan kesan anti-radang yang luas.
 
-Kortikosteroid topikal merupakan terapi piawai bagi ekzema atopik, maka pengurangan keradangan melalui laluan glukokortikoid adalah munasabah secara biologi. Namun, siklesonid ialah formulasi disedut dan tiada pembangunan dermatologi topikal yang mantap. Keserasian laluan pemberian masih belum dinilai.
+Dari segi biologi, ini munasabah untuk ekzema atopik, kerana kortikosteroid topikal ialah terapi piawai bagi keadaan tersebut. Kesan anti-radang yang menekan tindak balas imun akan selari dengan keperluan rawatan penyakit kulit radang ini.
 
-Ramalan yang lain turut perlu diberi perhatian:
-- **Dermatitis, atopik** (skor 99.73%) ialah entri pendua bagi ekzema atopik dan wajar digabungkan.
-- **Sensitisasi 2-hidroksietil metakrilat** (99.76%) ialah sensitisasi hapten khusus dan bukan penyakit yang boleh dirawat secara jelas.
-- **Sifat berkaitan asma, kerentanan terhadap** (99.13%) ialah anotasi sifat genetik yang berulang dengan indikasi asma asal, bukan peluang repurposing sebenar.
-- **Bronkitis** (99.70%) dan **dermatitis kontak** (99.25%) mempunyai bukti tidak langsung sahaja (lihat di bawah).
+Walau bagaimanapun, sokongan semasa hanyalah skor ramalan model yang tinggi. Ciclesonide ialah formulasi disedut dan tiada pembangunan dermatologi topikal yang mantap. Kesesuaian laluan pemberian juga belum dinilai.
+
+Perlu diambil perhatian bahawa data juga mengandungi entri "dermatitis, atopic" (kedudukan ke-3, skor 0,9973) yang merujuk kepada keadaan yang sama dengan nama berbeza. Entri ini wajar digabungkan dengan entri ekzema atopik.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
+Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Tiada literatur khusus untuk ekzema atopik. Bagi ramalan lain, terdapat dua penerbitan tidak langsung:
+Buat masa ini tiada literatur berkaitan.
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/) | 2015 | Ulasan (garis panduan) | Basic & Clinical Pharmacology & Toxicology | Garis panduan COPD Finland mengenai diagnosis dan farmakoterapi COPD stabil; bukti tidak langsung untuk kortikosteroid disedut sebagai kelas, bukan data khusus siklesonid (berkaitan bronkitis) |
-| [22957490](https://pubmed.ncbi.nlm.nih.gov/22957490/) | 2012 | Laporan kes | Contact Dermatitis | Kes dermatitis alergi sistemik akibat budesonid disedut dengan kereaktifan silang dalam ujian tampalan terhadap siklesonid; ini isyarat keselamatan, bukan bukti keberkesanan (berkaitan dermatitis kontak) |
+---
+
+## Maklumat Pasaran Malaysia
+
+Menurut data tempatan, status pasaran ialah **dipasarkan**, dengan 5 lesen yang sah dan tiada lesen yang dibatalkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Penyakit yang dikaitkan dengan kontraindikasi dalam graf pengetahuan** (bukan teks label): keratitis virus herpes simpleks, insufisiensi adrenokortikal, penyakit Addison, osteoporosis, osteoporosis pasca-menopaus, jangkitan kulat, dermatofitosis, hipertensi okular, glaukoma, jangkitan parasit.
-- **Interaksi Ubat** (63 interaksi direkodkan; contoh utama):
-  - **Major**: Kladribin
-  - **Sederhana (Moderate)**: Klaritromisin, mikonazol, kobisistat, atazanavir, fosamprenavir, amprenavir, boseprevir, seritinib, konivaptan, fostamatinib, abametapir (topikal), insulin manusia (disedut)
-  - **Minor**: Formoterol, salbutamol, arformoterol
-  - Banyak interaksi sederhana melibatkan perencat CYP3A4, yang boleh meningkatkan pendedahan sistemik kortikosteroid.
-- Laporan kes kereaktifan silang dengan budesonid menunjukkan kortikosteroid itu sendiri boleh menyebabkan alergi kontak.
+- **Interaksi Ubat**: Sebanyak 63 interaksi direkodkan. Antara yang disenaraikan:
+  - **Major**: cladribine
+  - **Sederhana (Moderate)**: clarithromycin, miconazole, cobicistat, fostamatinib, abametapir (topikal), fosamprenavir, atazanavir, ceritinib, amprenavir, boceprevir, conivaptan, insulin manusia (disedut, tindakan pantas)
+  - **Minor**: formoterol, salbutamol, arformoterol
+  - **Tahap tidak diketahui**: omeprazole, lansoprazole, prednisolone, famotidine
 
-Sila rujuk risalah pek untuk maklumat amaran dan kontraindikasi yang rasmi, kerana teks label belum diperoleh.
+  Banyak antara interaksi sederhana melibatkan perencat CYP3A4 yang berpotensi meningkatkan pendedahan sistemik kortikosteroid.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk risalah pek (package insert).
 
 ---
 
@@ -107,16 +105,15 @@ Sila rujuk risalah pek untuk maklumat amaran dan kontraindikasi yang rasmi, kera
 
 **Keputusan: Hold (Tahan)**
 
-**Justifikasi:**
-- Ramalan ekzema atopik (skor 99.96%) hanya disokong oleh model, tanpa percubaan klinikal atau literatur (L5). Ubat ini tidak dipasarkan di Malaysia, dan tiada pembangunan topikal yang mantap bagi formulasi disedut ini.
+**Rasional:**
+- Ramalan ekzema atopik hanya disokong oleh skor model (0,9996) tanpa ujian klinikal atau literatur, maka tahap bukti ialah L5. Ciclesonide juga ialah formulasi disedut tanpa pembangunan dermatologi topikal yang mantap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data amaran dan kontraindikasi daripada risalah pek (NPRA atau pengeluar), yang merupakan jurang penghalang untuk saringan keselamatan.
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
-- Penilaian keserasian laluan pemberian (formulasi disedut berbanding keperluan topikal/sistemik untuk penyakit kulit).
-- Carian literatur dan percubaan klinikal khusus untuk siklesonid dalam ekzema atopik.
-- Penggabungan entri pendua (ekzema atopik dan dermatitis, atopik) serta penyingkiran ramalan yang berulang atau tidak boleh ditindak (sifat kerentanan asma, sensitisasi hapten).
-- Penilaian risiko kereaktifan silang kortikosteroid dan interaksi CYP3A4 sekiranya diteruskan.
+- Kajian praklinikal atau klinikal yang menilai ciclesonide secara langsung dalam ekzema atopik
+- Data mekanisme tindakan yang terperinci
+- Penilaian kesesuaian laluan pemberian (formulasi disedut berbanding keperluan topikal)
+- Pemerolehan dan penghuraian risalah pek NPRA untuk amaran dan kontraindikasi
+- Penggabungan entri "atopic eczema" dan "dermatitis, atopic" untuk mengelakkan pertindihan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

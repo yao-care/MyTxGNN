@@ -8,6 +8,7 @@ nav_order: 93
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Artesunate
@@ -51,8 +52,8 @@ Pemulihan data segera diperlukan sebelum meneruskan ke sintesis bukti.
 | Indikasi Baru yang Diramalkan | Tiada ramalan tersedia dalam data semasa |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A — data tidak mencukupi untuk menetapkan tahap |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

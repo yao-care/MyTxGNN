@@ -50,10 +50,10 @@ tetapi bukti yang ada sangat terhad: **1 percubaan klinikal** (relevan rendah) d
 |------|------|
 | Indikasi Asal | Hiperurisemia |
 | Indikasi Baharu yang Diramalkan | Hipourisemia renal |
-| Skor Ramalan TxGNN | 99.99% |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
+| Bilangan Pendaftaran | 11 (sah: 11) |
 | Keputusan Disyorkan | Hold |
 
 ---

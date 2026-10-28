@@ -4,7 +4,7 @@ title: Teriparatide
 parent: Low Evidence (L4-L5)
 nav_order: 675
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Teriparatide: indikasi baharu diramal Ulser duodenum (tahap bukti L5). Indikasi asal: Osteoporosis pascamenopaus (osteoporosis)"
 monitor_inn: "TERIPARATIDE"
@@ -14,7 +14,7 @@ predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal ma
 # Teriparatide
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Teriparatide ialah analog hormon paratiroid (PTH 1-34) yang pada asalnya digunak
 |------|------|
 | Indikasi Asal | Osteoporosis pascamenopaus (osteoporosis) |
 | Indikasi Baharu yang Diramalkan | Ulser duodenum |
-| Skor Ramalan TxGNN | 99.86% |
+| Skor Ramalan TxGNN | 0.9986 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ---
@@ -60,7 +60,7 @@ Teriparatide ialah analog hormon paratiroid (PTH 1-34) yang pada asalnya digunak
 
 Teriparatide ialah peptida yang sepadan dengan 34 asid amino pertama hormon paratiroid manusia. Ia bertindak melalui reseptor PTH1 (PTH1R) dan juga berinteraksi dengan reseptor PTH2 (PTH2R). Dalam osteoporosis, pengaktifan berselang PTH1R merangsang osteoblas dan pembentukan tulang, jadi ia dikelaskan sebagai agen anabolik tulang.
 
-Data yang dikumpulkan untuk laporan ini **tidak menunjukkan sebarang kaitan mekanisme yang boleh dikenal pasti** antara teriparatide dan patofisiologi ulser duodenum. Ulser duodenum berkait dengan keseimbangan asid-pertahanan mukosa dan jangkitan *Helicobacter pylori*, yang berbeza daripada metabolisme tulang. Skor TxGNN yang tinggi (99.86%, kedudukan 2717) adalah ramalan berasaskan graf sahaja dan tidak disokong oleh ujian atau literatur.
+Data yang dikumpulkan untuk laporan ini **tidak menunjukkan sebarang kaitan mekanisme yang boleh dikenal pasti** antara teriparatide dan patofisiologi ulser duodenum. Ulser duodenum berkait dengan keseimbangan asid-pertahanan mukosa dan jangkitan *Helicobacter pylori*, yang berbeza daripada metabolisme tulang. Skor TxGNN yang tinggi (0.9986, kedudukan 2717) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi; ia tidak disokong oleh ujian atau literatur.
 
 Ramalan ini perlu dianggap sebagai hipotesis awal yang belum disahkan dan bukan petunjuk bahawa ubat ini berkesan.
 

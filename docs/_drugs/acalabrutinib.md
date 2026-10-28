@@ -8,6 +8,7 @@ nav_order: 14
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Acalabrutinib
@@ -53,8 +54,8 @@ Dua jurang data yang tidak diselesaikan (amaran sisipan pembungkus hilang dan da
 | Petunjuk Baru yang Diramalkan | Tidak tersedia (keluaran saluran ramalan kosong) |
 | Skor Ramalan TxGNN | Tidak tersedia |
 | Tahap Bukti | Tidak boleh dinilai |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

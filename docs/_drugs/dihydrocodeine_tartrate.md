@@ -8,6 +8,7 @@ nav_order: 290
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Dihydrocodeine Tartrate
@@ -49,8 +50,8 @@ Dihydrocodeine Tartrate ialah terbitan opioid separa sintetik yang kini dipasark
 | Indikasi Baru yang Diramalkan | **Tiada** — tiada ramalan TxGNN tersedia |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | L5 (Tiada ramalan atau kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 3 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

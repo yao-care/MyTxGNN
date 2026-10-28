@@ -6,9 +6,9 @@ nav_order: 558
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Pantothenic Acid: indikasi baharu diramal Kekurangan protrombin kongenital (tahap bukti L5). Indikasi asal: Kekurangan asid askorbik, skurvi (daripada graf pengetahuan PrimeKG"
 monitor_inn: "PANTOTHENIC ACID"
-predicted_indications: ["congenital prothrombin deficiency", "ochronosis disorder", "glycerol metabolism disease", "folic acid deficiency anemia", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urinary tract infection (disease)", "gonococcal urethritis", "Ureaplasma urethritis"]
+predicted_indications: ["congenital prothrombin deficiency", "ochronosis disorder", "glycerol metabolism disease", "folic acid deficiency anemia", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis"]
+description: "Pantothenic Acid: indikasi baharu diramal Kekurangan protrombin kongenital (congenital prothrombin deficiency) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Pantothenic Acid
@@ -33,12 +33,12 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-## Asid Pantotenik: Daripada Kekurangan Asid Askorbik/Skurvi kepada Kekurangan Protrombin Kongenital
+## Pantothenic Acid: Kekurangan protrombin kongenital (congenital prothrombin deficiency)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Asid pantotenik (vitamin B5) ialah prekursor koenzim A, dan dalam graf pengetahuan ia dikaitkan dengan indikasi asal kekurangan asid askorbik serta skurvi.
+Asid pantotenik (vitamin B5) ialah prekursor koenzim A, dan ia dikaitkan dengan indikasi asal kekurangan asid askorbik serta skurvi.
 Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan protrombin kongenital**, tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini.
 Ramalan ini hanya berasaskan model (skor tinggi tetapi tanpa bukti sebenar).
 
@@ -48,12 +48,12 @@ Ramalan ini hanya berasaskan model (skor tinggi tetapi tanpa bukti sebenar).
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Kekurangan asid askorbik, skurvi (daripada graf pengetahuan PrimeKG; tiada teks indikasi berlesen kerana tiada pendaftaran) |
-| Indikasi Baharu yang Diramalkan | Kekurangan protrombin kongenital |
-| Skor Ramalan TxGNN | 99.96% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Kekurangan protrombin kongenital (congenital prothrombin deficiency) |
+| Skor Ramalan TxGNN | 0.9996 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 18 daripada 18) |
+| Bilangan Pendaftaran | 18 (sah: 18) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -62,7 +62,7 @@ Ramalan ini hanya berasaskan model (skor tinggi tetapi tanpa bukti sebenar).
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Asid pantotenik ialah prekursor koenzim A yang penting dalam metabolisme tenaga dan lipid, dan ia digunakan sebagai nutrien dalam pembetulan kekurangan vitamin.
 
-Kekurangan protrombin kongenital ialah gangguan faktor pembekuan genetik (gen F2). Tiada peranan diketahui bagi asid pantotenik dalam sintesis atau fungsi protrombin. Skor TxGNN yang sangat tinggi (0.9996) ialah ramalan berasaskan graf semata-mata, dan hubungan mekanistik yang munasabah tidak dapat dikenal pasti.
+Kekurangan protrombin kongenital ialah gangguan faktor pembekuan genetik (gen F2). Tiada peranan diketahui bagi asid pantotenik dalam sintesis atau fungsi protrombin. Skor TxGNN yang sangat tinggi (0.9996) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi; hubungan mekanistik yang munasabah tidak dapat dikenal pasti.
 
 Oleh itu, ramalan teratas ini harus dianggap sebagai isyarat model yang lemah dan bukan hipotesis yang disokong secara biologi.
 
@@ -86,8 +86,8 @@ Data yang dikompilasi turut menyenaraikan indikasi lain. Dua daripadanya mempuny
 
 | Peringkat | Penyakit | Skor TxGNN | Tahap Bukti | Ringkasan |
 |------|------|------|------|------|
-| 4 | Anemia kekurangan asid folik | 99.60% | L4 | Laporan 1946 ([PMID 21021037](https://pubmed.ncbi.nlm.nih.gov/21021037/)) dan ulasan primat bukan manusia 1986 ([PMID 3724048](https://pubmed.ncbi.nlm.nih.gov/3724048/)) mengaitkan anemia dengan kekurangan asid pantotenik dan folat. Bukti tidak langsung, bersejarah dan kebanyakannya haiwan; rawatan piawai tetap penggantian asid folik. |
-| 5 | Penyakit radang uterus | 99.14% | L4 | Satu kajian praklinikal pada tikus ([PMID 41223999](https://pubmed.ncbi.nlm.nih.gov/41223999/), *Mucosal Immunology*, 2026) melaporkan asid pantotenik mengurangkan kecederaan endometrium akibat vagotomi. Belum direplikasi dan belum diuji pada manusia. |
+| 4 | Anemia kekurangan asid folik | 0.9960 | L4 | Laporan 1946 ([PMID 21021037](https://pubmed.ncbi.nlm.nih.gov/21021037/)) dan ulasan primat bukan manusia 1986 ([PMID 3724048](https://pubmed.ncbi.nlm.nih.gov/3724048/)) mengaitkan anemia dengan kekurangan asid pantotenik dan folat. Bukti tidak langsung, bersejarah dan kebanyakannya haiwan; rawatan piawai tetap penggantian asid folik. |
+| 5 | Penyakit radang uterus | 0.9914 | L5 | Satu kajian praklinikal pada tikus ([PMID 41223999](https://pubmed.ncbi.nlm.nih.gov/41223999/), *Mucosal Immunology*, 2026) melaporkan asid pantotenik mengurangkan kecederaan endometrium akibat vagotomi. Belum direplikasi dan belum diuji pada manusia. |
 
 Ramalan lain (okronosis, penyakit metabolisme gliserol, pielonefritis xanthogranulomatous, jangkitan saluran kencing, uretritis gonokokus, uretritis Ureaplasma) berada pada tahap L5 dengan cadangan Hold. Tiada hubungan mekanistik yang munasabah dikenal pasti; literatur yang diperoleh untuk penyakit metabolisme gliserol ialah kajian metabolomik umum, manakala literatur untuk jangkitan saluran kencing tidak relevan.
 
@@ -95,7 +95,6 @@ Ramalan lain (okronosis, penyakit metabolisme gliserol, pielonefritis xanthogran
 
 ## Maklumat Pasaran Malaysia
 
-Asid pantotenik tidak mempunyai pendaftaran NPRA di Malaysia (0 pendaftaran) dan tidak dipasarkan sebagai produk berdaftar.
 
 ---
 

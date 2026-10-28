@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Selegiline
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 638
-evidence_level: L3
+evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Selegiline: indikasi baharu diramal Skizofrenia (tahap bukti L3). Indikasi asal: Penyakit Parkinson, gangguan kemurungan major…"
 monitor_inn: "selegiline"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
+description: "Selegiline: indikasi baharu diramal Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Selegiline
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **4** 
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **4**
 
 </div>
 
-## Selegiline: Daripada Penyakit Parkinson kepada Skizofrenia
+## Selegiline: Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Bukti masih terhad kepada tahap pemerhatian dan kajian kecil, dan tiada ujian pe
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit Parkinson, gangguan kemurungan major, gangguan kebimbangan (berdasarkan graf pengetahuan TxGNN; tiada lesen tempatan untuk dirujuk) |
-| Indikasi Baharu yang Diramalkan | Skizofrenia |
-| Skor Ramalan TxGNN | 99.14% |
-| Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis |
+| Skor Ramalan TxGNN | 0.9915 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Tidak dipasarkan (tiada pendaftaran direkodkan) |
+| Bilangan Pendaftaran | 0 (sah: 0) |
 | Keputusan Disyorkan | Hold (ditahan; dikekalkan sebagai persoalan penyelidikan) |
 
 > Nota: Tahap bukti L3 ditentukan berdasarkan kajian sistematik dan kajian pemerhatian yang ada. Tiada dua ujian Fasa 3 yang selesai.

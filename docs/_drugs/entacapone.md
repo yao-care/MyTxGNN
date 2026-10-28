@@ -4,15 +4,17 @@ title: Entacapone
 parent: Low Evidence (L4-L5)
 nav_order: 324
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Entacapone: indikasi baharu diramal Penyakit Parkinson (kedudukan ke-3 (tahap bukti L5). Indikasi asal: Penyakit Parkinson"
+indication_count: 10
+monitor_inn: "Entacapone"
+predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
+last_modified_at: 2026-10-23
+description: "Entacapone: indikasi baharu diramal PLA2G6-associated neurodegeneration (tahap bukti L5). Indikasi asal: Penyakit Parkinson (hubungan yang direkodkan dalam graf pengetahuan"
 ---
 
 # Entacapone
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,103 +33,86 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Entacapone: Daripada Penyakit Parkinson kepada Penyakit Parkinson (Pengesahan Indikasi Sedia Ada)
+## Entacapone: Daripada Penyakit Parkinson kepada PLA2G6-associated neurodegeneration
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Entacapone ialah perencat COMT periferi yang pada asalnya digunakan untuk rawatan penyakit Parkinson, terutamanya sebagai tambahan kepada levodopa/carbidopa bagi mengurangkan fluktuasi motor pada akhir dos.
-Model TxGNN meramalkan **penyakit Parkinson** sebagai indikasi kedudukan ke-3, tetapi ini pada hakikatnya ialah indikasi sedia ada dan bukan penemuan repurposing yang baharu. Ia disokong oleh **29 percubaan klinikal** dan **19 penerbitan**, termasuk beberapa percubaan Fasa 3.
-Empat indikasi ramalan lain (penyakit Parkinson juvenil dan sindrom parkinsonisme yang jarang berlaku) tidak mempunyai sebarang bukti klinikal.
+Entacapone ialah perencat COMT periferi yang digunakan sebagai tambahan kepada levodopa dalam rawatan penyakit Parkinson. Model TxGNN meramalkan ia mungkin berkesan untuk **PLA2G6-associated neurodegeneration (PLAN)** dengan skor tinggi, tetapi **tiada sebarang percubaan klinikal atau penerbitan** yang menyokong ramalan ini setakat ini. Ramalan ini hanyalah ramalan model komputer.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Keseluruhan Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit Parkinson (data pendaftaran NPRA tidak tersedia untuk mengesahkan teks indikasi diluluskan) |
-| Indikasi Baharu yang Diramalkan | Penyakit Parkinson (kedudukan ke-3; kedudukan ke-1 ialah *juvenile onset Parkinson disease 19A*, tanpa sebarang bukti) |
-| Skor Ramalan TxGNN | 0.00% (semua lima ramalan mempunyai skor 0.0) |
-| Tahap Bukti | L1 (untuk penyakit Parkinson); L4–L5 untuk empat indikasi lain |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikompil; perlu disahkan) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (penyakit Parkinson); Hold (empat indikasi lain) |
+| Indikasi Asal | Penyakit Parkinson (hubungan yang direkodkan dalam graf pengetahuan; teks indikasi lesen tempatan tidak tersedia) |
+| Indikasi Baharu yang Diramal | PLA2G6-associated neurodegeneration |
+| Skor Ramalan TxGNN | 0.9976 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
+| Bilangan Pendaftaran | 11 (sah: 11) |
+| Bilangan Kelulusan | 11 lesen (3 produk bahan tunggal, 8 produk kombinasi) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Entacapone ialah perencat *catechol-O-methyltransferase* (COMT) periferi. Ia mengurangkan pemecahan levodopa kepada 3-O-methyldopa, lalu memanjangkan separuh hayat plasma levodopa dan memberikan rangsangan dopaminergik pusat yang lebih stabil. Mekanisme ini secara langsung menangani fluktuasi motor pada akhir dos dalam penyakit Parkinson. Data terperinci mekanisme tindakan (MOA) tidak tersedia dalam data yang dikompil, jadi huraian ini berdasarkan pengetahuan farmakologi yang diketahui.
+Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Entacapone secara umumnya diketahui sebagai perencat COMT periferi yang memanjangkan pendedahan kepada levodopa, dan kegunaannya dalam penyakit Parkinson direkodkan dalam graf pengetahuan.
 
-Perlu ditegaskan bahawa penyakit Parkinson ialah indikasi sedia ada entacapone dan gabungan levodopa/carbidopa/entacapone (Stalevo), bukan penemuan repurposing. Empat indikasi lain (juvenile onset Parkinson disease 19A, early-onset parkinsonism-intellectual disability syndrome, atypical juvenile parkinsonism, hemiparkinsonism-hemiatrophy syndrome) hanya mempunyai kaitan teori melalui patologi dopaminergik atau ciri parkinsonian yang mungkin bertindak balas kepada levodopa. Tiada percubaan atau data khusus penyakit yang menyokongnya. Komponen kecacatan intelek dalam salah satu sindrom itu juga tidak ditangani oleh perencatan COMT.
+PLAN merangkumi distrofi neuroaksonal bayi dan distonia-parkinsonisme berkaitan PLA2G6. Fenotip parkinsonian bertindih dengan indikasi asal, maka sokongan dopaminergik secara simptomatik boleh dibayangkan. Walau bagaimanapun, entacapone tidak diketahui memberi kesan kepada patologi asas, iaitu pembentukan semula fosfolipid dan pengumpulan besi.
 
-Terdapat ketidakkonsistenan data: status "tidak dipasarkan" dan ketiadaan MOA bercanggah dengan hakikat bahawa entacapone dan gabungan Stalevo telah dipasarkan secara meluas. Rekod ini perlu disemak dengan sumber kawal selia semasa.
+Oleh itu, skor TxGNN yang tinggi (0.9976) hanyalah ramalan pengiraan dan tidak disokong oleh bukti klinikal atau literatur.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Berikut ialah percubaan paling relevan untuk penyakit Parkinson (daripada 29 percubaan yang direkodkan):
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00099268](https://clinicaltrials.gov/study/NCT00099268) | Fasa 3 | Selesai | 747 | Carbidopa/levodopa/entacapone pada permulaan terapi levodopa berbanding carbidopa/levodopa, untuk menilai risiko komplikasi motor |
-| [NCT00134966](https://clinicaltrials.gov/study/NCT00134966) | Fasa 3 | Selesai | 493 | Dos tetap carbidopa/levodopa/entacapone berbanding carbidopa/levodopa lepas segera pada Parkinson awal (39 minggu) |
-| [NCT01130493](https://clinicaltrials.gov/study/NCT01130493) | Fasa 3 | Selesai | 110 | IPX066 berbanding carbidopa/levodopa/entacapone pada Parkinson lanjutan (entacapone sebagai pembanding aktif) |
-| [NCT01568073](https://clinicaltrials.gov/study/NCT01568073) | Fasa 3 | Selesai | 600 | Opicapone berbanding entacapone atau plasebo pada pesakit dengan fenomena "wearing-off" |
-| [NCT00219284](https://clinicaltrials.gov/study/NCT00219284) | Fasa 4 | Selesai | 359 | Peralihan segera berbanding lewat kepada carbidopa/levodopa/entacapone: fungsi motor dan kualiti hidup |
-| [NCT00125567](https://clinicaltrials.gov/study/NCT00125567) | Fasa 4 | Selesai | 223 | Stalevo berbanding levodopa/carbidopa pada pesakit dengan gejala awal wearing-off |
-| [NCT00143026](https://clinicaltrials.gov/study/NCT00143026) | Fasa 4 | Selesai | 184 | Kesan levodopa/carbidopa/entacapone terhadap kualiti hidup (PDQ-8) |
-| [NCT02764125](https://clinicaltrials.gov/study/NCT02764125) | Fasa 2 | Selesai | 84 | ODM-104 berbanding Stalevo, kajian bukti konsep silang |
-| [NCT07151378](https://clinicaltrials.gov/study/NCT07151378) | Fasa 3 | Sedang merekrut | 150 | Levodopa + entacapone intestinal (Lecigon®) terhadap simptom hiperdopaminergik dan komplikasi neuropsikiatri |
-| [NCT04952194](https://clinicaltrials.gov/study/NCT04952194) | Fasa 4 | Tidak diketahui | 180 | Stalevo dalam Parkinson awal |
-
-Tiada percubaan klinikal didaftarkan untuk empat indikasi ramalan yang lain.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [26725544](https://pubmed.ncbi.nlm.nih.gov/26725544/) | 2016 | RCT | Lancet Neurol | Opicapone sebagai tambahan levodopa berbanding plasebo atau entacapone pada fluktuasi motor akhir dos |
-| [40055961](https://pubmed.ncbi.nlm.nih.gov/40055961/) | 2025 | Ulasan | Mov Disord | Kemas kini ulasan perubatan berasaskan bukti MDS untuk rawatan fluktuasi motor Parkinson |
-| [29570866](https://pubmed.ncbi.nlm.nih.gov/29570866/) | 2018 | Ulasan | Mov Disord | Kemas kini ulasan MDS untuk rawatan simptom motor Parkinson |
-| [34782410](https://pubmed.ncbi.nlm.nih.gov/34782410/) | 2021 | Garis panduan | Neurology | Garis panduan AAN: terapi dopaminergik untuk simptom motor Parkinson awal |
-| [38437773](https://pubmed.ncbi.nlm.nih.gov/38437773/) | 2024 | Meta-analisis rangkaian | Clin Neurol Neurosurg | Keberkesanan dan keselamatan pelbagai perencat COMT pada pesakit Parkinson |
-| [32162166](https://pubmed.ncbi.nlm.nih.gov/32162166/) | 2020 | Meta-analisis | Neurol Sci | Levodopa/carbidopa/entacapone untuk Parkinson awal |
-| [38613674](https://pubmed.ncbi.nlm.nih.gov/38613674/) | 2024 | Ulasan | J Neural Transm | Terapi lanjutan Parkinson, termasuk gel intestinal levodopa/carbidopa/entacapone |
-| [10981253](https://pubmed.ncbi.nlm.nih.gov/10981253/) | 2000 | Ulasan | Ann Pharmacother | Farmakologi, farmakokinetik, keberkesanan klinikal dan kesan buruk entacapone |
-| [14718682](https://pubmed.ncbi.nlm.nih.gov/14718682/) | 2004 | Ulasan | Neurology | Stalevo: kesetaraan bio dengan levodopa/carbidopa ditambah entacapone |
-| [19589043](https://pubmed.ncbi.nlm.nih.gov/19589043/) | 2009 | Ulasan | Expert Rev Neurother | Levodopa/carbidopa/entacapone dalam Parkinson |
-
-Untuk *atypical juvenile parkinsonism*, hanya satu penerbitan dipautkan ([20305599](https://pubmed.ncbi.nlm.nih.gov/20305599/), 2010, Psychiatria Danubina) tentang sindrom Othello pada pesakit Parkinson. Ini ialah komplikasi psikiatri dan bukan bukti manfaat entacapone.
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ---
 
-## Keselamatan
+## Maklumat Pasaran Malaysia
 
-- **Kontraindikasi daripada graf pengetahuan (bukan teks label):** Sindrom ini dikaitkan dalam graf pengetahuan TxGNN dengan penyakit seperti atrofi sistem berbilang, hipotensi ortostatik, dyskinesia akibat ubat, epilepsi, penyakit buah pinggang, penyakit hati, penyakit ulser peptik, glaukoma (sudut terbuka dan tertutup), gangguan psikotik, skizofrenia/skizoafektif, diabetes mellitus dan ketoasidosis diabetes, melanoma, infarksi miokardium, sekatan jantung dan henti jantung mengejut. Senarai ini perlu disahkan dengan label produk rasmi.
-- **Interaksi Ubat:** Sebanyak 82 interaksi direkodkan. Interaksi tahap sederhana termasuk epinephrine (termasuk bentuk oftalmik dan topikal), morfin (termasuk liposomal), dronabinol, opium, nabilone, metoclopramide dan zat besi. Beberapa interaksi bertahap tidak diketahui juga direkodkan (contohnya pantoprazole, omeprazole, lansoprazole, metformin, doxycycline, atropine, simvastatin, prednisone).
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Jenis |
+|---------|------|------|-----------|
+| MAL24086027AZ | Entamac (Entacapone Film Coated Tablets 200 mg) | Tablet bersalut filem | Bahan tunggal |
+| MAL19116034ACZ | Entacapone HEC 200 mg film-coated tablets | Tablet bersalut filem | Bahan tunggal |
+| MAL19992996ARZ | COMTAN TABLET 200MG | Tablet | Bahan tunggal |
 
-Amaran utama dan kontraindikasi daripada sisipan pakej NPRA tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan yang rasmi.
+Teks indikasi yang diluluskan tidak tersedia dalam rekod lesen. Lapan lesen lain ialah produk kombinasi (Celtor dan Stalevo) dan tidak digunakan untuk menggambarkan status kelulusan entacapone bahan tunggal.
+
+---
+
+## Pertimbangan Keselamatan
+
+- **Kontraindikasi yang direkodkan dalam graf pengetahuan** (bukan teks label): atrofi sistem berganda, hipotensi ortostatik, diskinesia aruhan dadah, epilepsi, gangguan psikotik, skizofrenia/gangguan skizoafektif, penyakit hati, penyakit buah pinggang, glaukoma sudut tertutup, melanoma, infarksi miokardium, diabetes mellitus dan ketoasidosis diabetes, ulser peptik, serta penyakit pengaliran jantung, antara lain.
+- **Interaksi dadah** (82 interaksi direkodkan): interaksi tahap sederhana termasuk epinefrin, morfin, dronabinol, opium, nabilone, metoklopramid dan zat besi. Beberapa interaksi lain (contohnya pantoprazol, omeprazol, metformin, simvastatin) berstatus tahap tidak diketahui.
+- **Pertimbangan khusus untuk ramalan ini**: entacapone berkaitan dengan tolcapone yang mempunyai amaran kotak untuk kecederaan hati, justeru kehati-hatian diperlukan pada pesakit dengan penyakit hati.
+
+Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi, kerana teks label NPRA belum diperoleh.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails** (penyakit Parkinson); **Hold** (empat indikasi ramalan lain)
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Untuk penyakit Parkinson, terdapat beberapa percubaan Fasa 3 yang selesai dan ulasan berasaskan bukti, tetapi ini ialah indikasi sedia ada dan bukan repurposing baharu. Skor TxGNN 0.0 untuk semua ramalan menunjukkan model tidak memberikan sokongan ramalan yang bermakna.
-- Empat indikasi lain tidak mempunyai percubaan, literatur khusus, atau skor ramalan, jadi tidak wajar diteruskan.
+Tiada percubaan klinikal atau penerbitan yang mengkaji PLAN secara langsung, dan entacapone tidak menyasarkan patologi asas penyakit ini. Skor model yang tinggi tidak mencukupi untuk bergerak ke hadapan.
 
-**Untuk meneruskan, perlu:**
-- Menyelaraskan rekod: sahkan status pasaran Malaysia (0 pendaftaran) dan MOA terhadap sumber kawal selia semasa (NPRA, DrugBank), kerana bercanggah dengan pemasaran luas entacapone dan Stalevo.
-- Memuat turun dan menghurai sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat saringan keselamatan).
-- Menilai semula keperluan ramalan TxGNN, memandangkan skor 0.0 dan indikasi teratas tidak mempunyai bukti.
-- Jika indikasi jarang diteruskan, mengumpul data khusus penyakit (laporan kes, kajian mekanisme) sebelum sebarang pertimbangan klinikal.
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci
+- Teks amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Bukti praklinikal atau laporan kes bagi penggunaan dalam PLAN, termasuk data keselamatan pediatrik
+- Penilaian keselamatan hati dan psikiatri dalam populasi sasaran
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

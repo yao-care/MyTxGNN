@@ -6,9 +6,9 @@ nav_order: 614
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Ranolazine: indikasi baharu diramal Nephrogenic syndrome of inappropriate antidiuresis (NSIAD) (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan daripada pendaftaran tempatan"
 monitor_inn: "RANOLAZINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
+description: "Ranolazine: indikasi baharu diramal Nephrogenic syndrome of inappropriate antidiuresis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ranolazine
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Ranolazine: Daripada Indikasi Asal (Tidak Direkodkan) kepada Sindrom Antidiuresis Tidak Wajar Nefrogenik
+## Ranolazine: Nephrogenic syndrome of inappropriate antidiuresis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ namun kini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi diluluskan daripada pendaftaran tempatan |
-| Indikasi Baharu yang Diramalkan | Nephrogenic syndrome of inappropriate antidiuresis (NSIAD) |
-| Skor Ramalan TxGNN | 99.65% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Nephrogenic syndrome of inappropriate antidiuresis |
+| Skor Ramalan TxGNN | 0.9965 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -64,7 +64,7 @@ Data mekanisme tindakan (MOA) asal tidak tersedia. Berdasarkan maklumat yang dik
 
 NSIAD disebabkan oleh mutasi gain-of-function pada gen reseptor vasopressin V2 (AVPR2), yang menyebabkan penyerapan semula air yang tidak wajar di duktus pengumpul tanpa bergantung pada vasopressin. Tiada satu pun tindakan ranolazine yang diketahui bertindak ke atas isyarat reseptor V2 atau pengangkutan akuaporin-2.
 
-Oleh itu, **tiada hubungan mekanistik yang kukuh dapat disahkan** daripada data yang ada. Skor TxGNN (0.996) hanyalah ramalan graf pengetahuan tanpa rasional biologi sokongan. Sebarang hubungan, misalnya kesan hipotetikal ke atas pengangkutan ion renal atau isyarat cAMP hiliran, masih bersifat spekulatif dan memerlukan pengesahan praklinikal.
+Skor TxGNN (0.9965) hanyalah ramalan model TxGNN (pembelajaran mendalam) tanpa rasional biologi sokongan. Sebarang hubungan, misalnya kesan hipotetikal ke atas pengangkutan ion renal atau isyarat cAMP hiliran, masih bersifat spekulatif dan memerlukan pengesahan praklinikal.
 
 ---
 
@@ -100,7 +100,7 @@ Untuk maklumat amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan hanya berasaskan model (L5) tanpa percubaan klinikal, literatur, atau hubungan mekanistik yang munasabah. Ubat ini juga tidak dipasarkan di Malaysia, dan profil keselamatan (risiko pemanjangan QT, penyakit buah pinggang) menimbulkan kebimbangan bagi populasi sasaran.
+- Ramalan hanya berasaskan model (L5) tanpa percubaan klinikal, literatur, atau hubungan mekanistik yang munasabah.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data MOA terperinci daripada DrugBank

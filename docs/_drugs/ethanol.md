@@ -6,9 +6,9 @@ nav_order: 339
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Ethanol: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "ETHANOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
+description: "Ethanol: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ethanol
@@ -33,12 +33,11 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Etanol: Daripada Tiada Indikasi Berdaftar kepada Gangguan Migrain
+## Ethanol: Gangguan migrain (migraine disorder)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Etanol (ethanol) tidak mempunyai indikasi berdaftar di Malaysia berdasarkan data yang dikumpulkan untuk laporan ini, dan ia tidak dipasarkan di negara ini sebagai produk berlesen.
 Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan migrain (migraine disorder)**,
 tetapi kini terdapat **0 percubaan klinikal** dan **20 penerbitan** yang tidak satu pun menyokong keberkesanan etanol sebagai rawatan migrain. Kebanyakan penerbitan menunjukkan etanol (alkohol) sebagai **pencetus** migrain.
 
@@ -48,12 +47,12 @@ tetapi kini terdapat **0 percubaan klinikal** dan **20 penerbitan** yang tidak s
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramal | Gangguan migrain (migraine disorder) |
-| Skor Ramalan TxGNN | 99.29% |
+| Skor Ramalan TxGNN | 0.9929 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
+| Bilangan Pendaftaran | 10 (sah: 10) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,11 +61,11 @@ tetapi kini terdapat **0 percubaan klinikal** dan **20 penerbitan** yang tidak s
 
 Data terperinci mengenai mekanisme tindakan (MOA) etanol tidak tersedia buat masa ini. Etanol ialah sebatian yang telah lama dikenali, dan tiada indikasi asal yang direkodkan dalam data pendaftaran tempatan, maka hubungan antara indikasi asal dengan indikasi baharu tidak dapat dinilai.
 
-Ramalan TxGNN yang tinggi (99.29%) berasal daripada model graf pengetahuan dan bukan daripada bukti klinikal. Kesusasteraan yang diperoleh menunjukkan etanol dan metabolitnya, asetaldehid, berkait dengan **pencetusan** migrain. Contohnya, kajian pada tikus menunjukkan asetaldehid mengaktifkan laluan reseptor CGRP dan TRPA1 pada sel Schwann sehingga menyebabkan alodinia mekanikal periorbital (PMID 37101198). Ini lebih menunjukkan kaitan biologi dengan migrain daripada kesan terapeutik. Kaitan tersebut mungkin menerangkan mengapa model meramalkan hubungan, tetapi arahnya berlawanan dengan penggunaan terapeutik.
+Ramalan TxGNN yang tinggi (0.9929) berasal daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi atau klinikal. Kesusasteraan yang diperoleh menunjukkan etanol dan metabolitnya, asetaldehid, berkait dengan **pencetusan** migrain. Contohnya, kajian pada tikus menunjukkan asetaldehid mengaktifkan laluan reseptor CGRP dan TRPA1 pada sel Schwann sehingga menyebabkan alodinia mekanikal periorbital (PMID 37101198). Ini lebih menunjukkan kaitan biologi dengan migrain daripada kesan terapeutik. Kaitan tersebut mungkin menerangkan mengapa model meramalkan hubungan, tetapi arahnya berlawanan dengan penggunaan terapeutik.
 
 Dalam sebahagian kajian, etanol hanya disebut sebagai pelarut atau bahan penambah penyerapan (contohnya dalam pembangunan sistem transdermal pizotifen) atau sebagai pelarut ekstrak tumbuhan, dan ini tidak membuktikan kesan anti-migrain etanol.
 
-Ramalan kedua, **migrain dengan aura batang otak**, mempunyai skor 99.14% dan keadaan buktinya serupa.
+Ramalan kedua, **migrain dengan aura batang otak**, mempunyai skor 0.9914 dan keadaan buktinya serupa.
 
 ---
 

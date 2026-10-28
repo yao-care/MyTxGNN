@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Fludarabine
-parent: Low Evidence (L4-L5)
+parent: High Evidence (L1-L2)
 nav_order: 361
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Fludarabine: indikasi baharu diramal Plasma cell myeloma (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA direkodkan)"
 monitor_inn: "Fludarabine"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
+description: "Fludarabine: indikasi baharu diramal Plasma cell myeloma (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Fludarabine
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L1** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Fludarabine: Daripada Indikasi Asal (Tiada Data) kepada Plasma Cell Myeloma
+## Fludarabine: Plasma cell myeloma
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Plasma Cell Myeloma** (multip
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen NPRA direkodkan) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Plasma cell myeloma |
-| Skor Ramalan TxGNN | 99.82% |
+| Skor Ramalan TxGNN | 0.9982 |
 | Tahap Bukti | L1 (mengikut penilaian dalam data; perlu diingat bukti ini datang daripada regimen penyaman/lymphodepletion, bukan Fludarabine sebagai pemboleh ubah yang diuji) |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Pagar Pengadang) |
 
 ---
@@ -105,7 +105,6 @@ Berikut ialah 10 percubaan yang paling relevan (daripada 30 yang direkodkan). Fl
 
 ## Maklumat Pasaran Malaysia
 
-Fludarabine kini tidak dipasarkan di Malaysia, dan tiada lesen NPRA direkodkan dalam data yang dikompilasi untuk laporan ini.
 
 ---
 
@@ -140,7 +139,6 @@ Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi.
 
 **Justifikasi:**
 - Banyak percubaan (termasuk Fasa 3 CAR-T) dan literatur menyokong penggunaan Fludarabine dalam regimen lymphodepletion dan penyaman untuk mieloma. Walau bagaimanapun, ia ialah komponen sokongan, bukan terapi anti-mieloma berdiri sendiri, dan tiada percubaan yang menguji Fludarabine sebagai pemboleh ubah utama.
-- Ubat ini tidak dipasarkan di Malaysia dan data keselamatan tempatan belum tersedia.
 
 **Untuk meneruskan, perlu dilengkapkan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi), yang menghalang saringan keselamatan

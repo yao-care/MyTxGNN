@@ -4,17 +4,17 @@ title: Colchicine
 parent: Low Evidence (L4-L5)
 nav_order: 241
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Colchicine: indikasi baharu diramal Malaria Plasmodium falciparum (tahap bukti L5). Indikasi asal: Gout, demam Mediterranean keluarga (FMF)"
 monitor_inn: "COLCHICINE"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
+description: "Colchicine: indikasi baharu diramal Malaria Plasmodium falciparum (Plasmodium falciparum malaria) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Colchicine
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **3** 
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-## Colchicine: Daripada Gout dan Demam Mediterranean Keluarga kepada Malaria Plasmodium falciparum
+## Colchicine: Malaria Plasmodium falciparum (Plasmodium falciparum malaria)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini terdapat **0 ujian klinikal** dan **2 penerbitan** yang hanya
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Gout, demam Mediterranean keluarga (FMF) |
-| Indikasi Baharu yang Diramalkan | Malaria Plasmodium falciparum |
-| Skor Ramalan TxGNN | 99.60% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Malaria Plasmodium falciparum (Plasmodium falciparum malaria) |
+| Skor Ramalan TxGNN | 0.9960 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikompil; perlu disahkan semula) |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -85,7 +85,7 @@ Setakat ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Menurut data yang dikompil, colchicine tidak dipasarkan dan tiada lesen didaftarkan di Malaysia (0 pendaftaran). Maklumat ini bercanggah dengan penggunaan klinikal colchicine yang meluas, maka ia perlu disemak semula dengan sumber NPRA.
+Maklumat ini bercanggah dengan penggunaan klinikal colchicine yang meluas, maka ia perlu disemak semula dengan sumber NPRA.
 
 ---
 
@@ -118,8 +118,7 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 ## Nota Tambahan: Ramalan Lain
 
-- **FMF autosomal dominan** (skor 99.38%, tahap bukti L4): Ini subjenis kepada indikasi sedia ada (FMF), bukan isyarat repurposing baharu. Literatur terdiri daripada ulasan yang menyokong colchicine sebagai terapi lini pertama FMF, tetapi tiada rekod ujian klinikal dan bukti khusus untuk subjenis dominan bersifat tidak langsung. Dikategorikan sebagai soalan penyelidikan.
-- **Dermatofibrosarcoma protuberans** (skor 99.37%, tahap bukti L5): Tiada ujian klinikal mahupun literatur. Penyakit ini didorong oleh gabungan COL1A1-PDGFB dan dirawat dengan pembedahan serta imatinib; tiada rasional mapan untuk colchicine. Keputusan: Hold.
+- **Dermatofibrosarcoma protuberans** (skor 0.9937, tahap bukti L5): Tiada ujian klinikal mahupun literatur. Penyakit ini didorong oleh gabungan COL1A1-PDGFB dan dirawat dengan pembedahan serta imatinib; tiada rasional mapan untuk colchicine. Keputusan: Hold.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

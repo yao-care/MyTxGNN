@@ -50,10 +50,10 @@ Pretomanid ialah ubat antimikobakteria daripada kelas nitroimidazooksazin, yang 
 |------|------|
 | Indikasi Asal | Tiada data lesen NPRA (literatur menunjukkan penggunaan dalam TB rintang ubat) |
 | Indikasi Baharu yang Diramalkan | Kandidiasis |
-| Skor Ramalan TxGNN | 99.69% |
+| Skor Ramalan TxGNN | 0.9969 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ Pretomanid ialah ubat antimikobakteria daripada kelas nitroimidazooksazin, yang 
 
 Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan umum, pretomanid ialah nitroimidazooksazin yang aktif terhadap *Mycobacterium tuberculosis* melalui perencatan sintesis asid mikolik dinding sel dan pembebasan nitrik oksida dalam keadaan anaerobik.
 
-Aktiviti antikulat terhadap *Candida* tidak dapat dibuktikan. Tiada hubungan mekanistik yang disokong oleh data yang ada. Skor TxGNN yang tinggi (0.997) merupakan ramalan berasaskan graf semata-mata dan tidak disokong oleh percubaan atau literatur. Ramalan ini perlu dilayan dengan berhati-hati.
+Aktiviti antikulat terhadap *Candida* tidak dapat dibuktikan. Tiada hubungan mekanistik yang disokong oleh data yang ada. Skor 0.9969 datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Ramalan ini perlu dilayan dengan berhati-hati.
 
 ---
 
@@ -128,10 +128,10 @@ Empat ramalan lain juga berada pada tahap L5 dengan keputusan **Hold**:
 
 | Kedudukan | Penyakit | Skor TxGNN | Catatan |
 |------|------|------|------|
-| 2 | Kusta | 99.27% | Rasional biologi mikobakteria wajar, tetapi 8 penerbitan yang diperoleh semuanya berkaitan TB rintang ubat, bukan kusta |
-| 3 | Penyakit arteri koronari | 99.25% | Tiada hubungan mekanistik yang munasabah |
-| 4 | Iskemia miokardium | 99.17% | Kemungkinan artifak graf |
-| 5 | Arteri koronari kiri anomali dari arteri pulmonari | 99.08% | Kelainan struktur kongenital yang memerlukan pembedahan |
+| 2 | Kusta | 0.9927 | Rasional biologi mikobakteria wajar, tetapi 8 penerbitan yang diperoleh semuanya berkaitan TB rintang ubat, bukan kusta |
+| 3 | Penyakit arteri koronari | 0.9925 | Tiada hubungan mekanistik yang munasabah |
+| 4 | Iskemia miokardium | 0.9917 | Skor daripada model TxGNN (pembelajaran mendalam); mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi |
+| 5 | Arteri koronari kiri anomali dari arteri pulmonari | 0.9908 | Kelainan struktur kongenital yang memerlukan pembedahan |
 
 Antara semuanya, kusta mempunyai rasional biologi yang paling munasabah, tetapi masih memerlukan data khusus kusta sebelum dipertimbangkan.
 ## Penafian

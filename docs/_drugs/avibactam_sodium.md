@@ -8,6 +8,7 @@ nav_order: 111
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Avibactam Sodium
@@ -51,8 +52,8 @@ Disebabkan oleh jurang data yang pelbagai — termasuk data mekanisme tindakan y
 | Indikasi Baru yang Diramalkan | Tiada ramalan tersedia |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 – Ramalan model tidak ada; tiada kajian sokongan dikenalpasti |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

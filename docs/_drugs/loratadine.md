@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Loratadine
-parent: Low Evidence (L4-L5)
+parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 475
-evidence_level: L4
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Loratadine: indikasi baharu diramal Faringitis (tahap bukti L4). Indikasi asal: Rinitis alergik (juga rinitis vasomotor, selesema biasa…"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Loratadine: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
+predicted_indications: []
 ---
 
 # Loratadine
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **N/A** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,56 +32,76 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-## Loratadine: Daripada Rinitis Alergik kepada Faringitis
+<!-- known-uses-page -->
+<!-- description: Loratadine: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu -->
+## Loratadine: Kegunaan diketahui dan status pasaran di Malaysia
 {: .text-alpha }
 
-## Ringkasan Satu Ayat
+## Ringkasan
+Semua calon yang dihasilkan oleh model TxGNN untuk Loratadine (skor ≥ 0.99) ialah kegunaan yang sudah diketahui. Oleh itu, buat masa ini tiada indikasi baharu yang diramalkan untuk ubat ini. Satu kegunaan yang diketahui direkodkan dalam graf pengetahuan, tetapi tiada kelulusan ditemui untuknya.
 
-Loratadine ialah antihistamin H1 periferal generasi kedua yang pada asalnya digunakan untuk rinitis alergik, urtikaria idiopatik dan keadaan alergi yang berkaitan.
-Model TxGNN meramalkan ia mungkin berkesan untuk **faringitis**, tetapi pada masa ini terdapat **0 ujian klinikal** dan **4 penerbitan** yang menyokong arah ini. Penerbitan tersebut kebanyakannya berkaitan rinitis alergik, bukan faringitis secara langsung, jadi bukti untuk indikasi ini masih sangat terhad.
-
----
-
-## Gambaran Ringkas
-
+## Gambaran ringkas
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Rinitis alergik (juga rinitis vasomotor, selesema biasa, konjunktivitis atopik dan urtikaria idiopatik) |
-| Indikasi Baharu yang Diramalkan | Faringitis |
-| Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Tahan) |
+| Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejaki ialah kegunaan yang diketahui) |
+| Kegunaan diketahui dalam calon model | 1 |
+| Tahap bukti | Tidak berkenaan |
+| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 56 daripada 56) |
+| Bilangan Pendaftaran | 56 (sah: 56) |
 
----
+## Kegunaan diketahui dalam calon model
 
-## Mengapa Ramalan Ini Munasabah?
+### Diluluskan (disokong oleh lesen atau label)
+| Indikasi | Sumber |
+|------|------|
+| Tiada | Tiada |
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, loratadine ialah penyekat reseptor histamin H1 periferal yang selektif dan tidak menyebabkan banyak kesan sedatif. Keberkesanannya dalam rinitis alergik telah dibuktikan, dan secara mekanisme ia mungkin boleh digunakan untuk gejala faringeal yang berkaitan alahan.
+### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+| Indikasi | Kategori yang diluluskan |
+|------|------|
+| Tiada | Tiada |
 
-Dalam rinitis alergik, gejala seperti kerengsaan tekak dan lelehan hidung ke belakang (*postnasal drip*) mungkin sebahagiannya reda dengan sekatan H1. Namun, tiada bukti langsung bahawa loratadine memberi manfaat dalam faringitis berjangkit atau faringitis primer. Kaitan ini bersifat tidak langsung dan terhad kepada gejala yang berkaitan alahan.
+### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+| Indikasi |
+|------|
+| Konjunktivitis papilari (papillary conjunctivitis) |
 
----
+## Market information
 
-## Bukti Ujian Klinikal
+| No. pendaftaran | Produk | Bentuk dos | Status |
+|------|------|------|------|
+| MAL21046021ACZ | ALLOR (LORATADINE ORAL SOLUTION 5MG/5ML USP) |  | Sah |
+| MAL20014346AZ | EZEDE` TABLETS 10MG |  | Sah |
+| MAL06091440AZ | Allerpid Tablet |  | Sah |
+| MAL20014224AZ | PHARMANIAGA LORATADINE TABLET 10MG |  | Sah |
+| MAL20014527AZ | LORATYN-10 |  | Sah |
+| MAL21126003AZ | Actilor Syrup 2.5 mg/ 5 ml |  | Sah |
+| MAL22036019AZ | HP-DESLORATADINE 5MG FILM-COATED TABLETS |  | Sah |
+| MAL20020366AZ | LORADYNE TABLET |  | Sah |
+| MAL22046026AZ | Xynoz Tablet 5mg |  | Sah |
+| MAL20020536AZ | RHINITIN TABLET |  | Sah |
+| MAL20020537AZ | RHINITIN SYRUP |  | Sah |
+| MAL17085016AZ | Desloratadine Sandoz 5mg Film Coated Tablet |  | Sah |
+| MAL22086029AZ | DESTAVELL 5mg Film-coated Tablet  |  | Sah |
+| MAL20021012AZ | LORADINE SYRUP 1MG/ML |  | Sah |
+| MAL20021013AZ | LORADINE TABLET 10MG |  | Sah |
+| MAL22106007AZ | Ezede` Oral Solution 1mg/ml |  | Sah |
+| MAL20020883AZ | LORATEN SYRUP 5MG/5ML |  | Sah |
+| MAL20021421AZ | AXCEL LORATADINE SYRUP |  | Sah |
+| MAL18016027AZ | Dezal Oral Solution 0.5mg/ml |  | Sah |
+| MAL20031927AZ | AXCEL LORATADINE TABLET |  | Sah |
+| MAL18026182AZ | Sedno Syrup 0.5mg/ml |  | Sah |
+| MAL18026173AZ | Dezal Tablet 5mg |  | Sah |
+| MAL18056162AZ | Dasselta 5 mg film-coated tablets |  | Sah |
+| MAL18056072AZ | Loratyn Dry Syrup 1% w/w |  | Sah |
+| MAL20033495AZ | HALON |  | Sah |
+| MAL19930250ACZ | CLARINASE REPETABS |  | Sah |
+| MAL18086161AZ | Lorsedin Oral Solution 1mg/ml |  | Sah |
+| MAL23106019AZ | Neolor 5- Desloratadine Tablets USP 5 mg  |  | Sah |
+| MAL20034222ARZ | APO-LORATADINE 10MG TABLET |  | Sah |
+| MAL13115129ACZ | Avotyne 10mg Tablet |  | Sah |
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk loratadine dalam faringitis.
-
----
-
-## Bukti Literatur
-
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [28441993](https://pubmed.ncbi.nlm.nih.gov/28441993/) | 2017 | RCT | Allergy and Asthma Proceedings | Kajian rawak terkawal plasebo bagi cetirizine dan loratadine pada kanak-kanak dengan rinitis alergik bermusim |
-| [8621843](https://pubmed.ncbi.nlm.nih.gov/8621843/) | 1996 | RCT | J Allergy Clin Immunol | Semburan hidung fluticasone berbanding tablet loratadine 10 mg pada 240 remaja dengan rinitis alergik bermusim (4 minggu) |
-| [12962522](https://pubmed.ncbi.nlm.nih.gov/12962522/) | 2003 | Ulasan | Drugs | Kemas kini keberkesanan desloratadine (metabolit utama loratadine) dalam gangguan alergi |
-| [9806113](https://pubmed.ncbi.nlm.nih.gov/9806113/) | 1998 | Ulasan | Drugs | Ulasan penggunaan intranasal mometasone furoate dalam rinitis alergik |
-
-**Nota:** Tiada satu pun daripada penerbitan ini menilai faringitis secara langsung. Ia hanya menyokong penggunaan loratadine dalam rinitis alergik.
-
----
+Data hanya mengandungi sebahagian pendaftaran; senarai mungkin tidak lengkap.
 
 ## Pertimbangan Keselamatan
 
@@ -95,20 +116,6 @@ Amaran utama dan kontraindikasi berdasarkan sisipan bungkusan rasmi belum tersed
 
 ---
 
-## Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Hold (Tahan)**
-
-**Rasional:**
-- Tiada ujian klinikal atau kajian langsung untuk faringitis, kaitan mekanismenya tidak langsung, dan skor ramalan TxGNN ialah 0.00%. Loratadine juga tidak dipasarkan di Malaysia, jadi bukti semasa tidak mencukupi untuk diteruskan.
-
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran dan kontraindikasi daripada sisipan bungkusan NPRA, kerana ketiadaannya menghalang saringan keselamatan peringkat seterusnya.
-- Data mekanisme tindakan (MOA) yang terperinci daripada DrugBank.
-- Kajian atau ujian klinikal yang menilai loratadine secara langsung dalam faringitis, dengan membezakan faringitis alergi daripada faringitis berjangkit.
-- Penilaian laluan pentadbiran dan formulasi, yang masih belum dianalisis.
-
-**Nota tambahan:** Antara indikasi lain yang diramalkan, selesema biasa mempunyai satu ujian Fasa 3 (NCT06531707, 177 peserta, status tidak diketahui) yang menguji gabungan dos tetap ibuprofen/loratadine. Namun, ujian ini tidak dapat mengasingkan sumbangan loratadine sahaja dan tiada keputusan dilaporkan. Satu ulasan (PMID 11588693) turut melaporkan hasil negatif untuk loratadine dalam model cabaran rhinovirus. Indikasi ini wajar dinilai secara berasingan dan dengan berhati-hati.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

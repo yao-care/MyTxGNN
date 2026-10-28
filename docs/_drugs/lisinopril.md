@@ -4,17 +4,17 @@ title: Lisinopril
 parent: Low Evidence (L4-L5)
 nav_order: 467
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Lisinopril: indikasi baharu diramal Infarksi miokardium posterolateral (tahap bukti L5). Indikasi asal: Hipertensi, infarksi miokardium"
 monitor_inn: "LISINOPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
+description: "Lisinopril: indikasi baharu diramal Pulmonary hypertension owing to lung disease and/or hypoxia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Lisinopril
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Lisinopril: Daripada Hipertensi dan Infarksi Miokardium kepada Infarksi Miokardium Posterolateral
+## Lisinopril: Pulmonary hypertension owing to lung disease and/or hypoxia
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada literatur khusus** yan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hipertensi, infarksi miokardium (berdasarkan data graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Infarksi miokardium posterolateral |
-| Skor Ramalan TxGNN | 99.90% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Pulmonary hypertension owing to lung disease and/or hypoxia |
+| Skor Ramalan TxGNN | 0.9989 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ---
@@ -64,7 +64,6 @@ Data mekanisme tindakan terperinci untuk lisinopril tidak tersedia dalam data ya
 
 Infarksi miokardium posterolateral ialah subjenis anatomi bagi infarksi miokardium, iaitu penyakit yang lisinopril sedia diindikasikan. Skor TxGNN yang tinggi kemungkinan besar mencerminkan kedekatan ontologi ini, bukan isyarat repurposing yang benar-benar baharu.
 
-Perlu diingatkan bahawa subjenis berkaitan seperti infarksi miokardium posteroinferior (99.90%) dan septal (99.88%) turut diramalkan dengan skor hampir sama dan juga tanpa bukti khusus.
 
 ---
 
@@ -82,7 +81,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk infarksi miokardium 
 
 ## Maklumat Pasaran Malaysia
 
-Pada masa ini tiada pendaftaran lisinopril direkodkan di Malaysia (status: tidak dipasarkan).
 
 ---
 
@@ -120,15 +118,13 @@ Calon lain yang dinilai semuanya L5 dan **Hold**, kecuali satu:
 
 | Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Catatan |
 |------|------|------|------|------|
-| 2 | Infarksi miokardium posteroinferior | 99.90% | L5 | Subjenis MI; tiada bukti khusus |
-| 3 | Hipertensi pulmonari akibat penyakit paru-paru/hipoksia | 99.89% | L5 | 15 kertas dijumpai, kebanyakannya tidak relevan (prekliniknya) |
-| 4 | Hipertensi pulmonari dengan mekanisme multifaktorial yang tidak jelas | 99.89% | L5 | ACE inhibitor bukan terapi mapan untuk hipertensi arteri pulmonari |
-| 5 | Penyakit renal hipertensif malignan | 99.89% | L5 | Hampir dengan indikasi hipertensi; perlu pemantauan renal |
-| 6 | Hipertensi renovaskular malignan | 99.89% | L5 | Risiko pada stenosis arteri renal bilateral |
-| 7 | Infarksi miokardium septum | 99.88% | L5 | Hanya satu laporan kes (PMID 39018146) |
-| 8 | Sindrom Braddock | 99.86% | L5 | Tiada rasional mekanistik |
-| 9 | Penyakit jantung pulmonari kronik | 99.68% | L3 | **Soalan Penyelidikan**: dua kajian lisinopril lama (PMID 14524095, 17047621) tetapi reka bentuk tidak dapat disahkan |
-| 10 | Sindrom hematuria familial autosomal dominan-tortuositi arteriol retina-kontraktur | 99.33% | L5 | Gangguan COL4A1 yang jarang; tiada kaitan mekanistik |
+| 3 | Hipertensi pulmonari akibat penyakit paru-paru/hipoksia | 0.9989 | L5 | 15 kertas dijumpai, kebanyakannya tidak relevan (prekliniknya) |
+| 4 | Hipertensi pulmonari dengan mekanisme multifaktorial yang tidak jelas | 0.9989 | L5 | ACE inhibitor bukan terapi mapan untuk hipertensi arteri pulmonari |
+| 5 | Penyakit renal hipertensif malignan | 0.9989 | L5 | Hampir dengan indikasi hipertensi; perlu pemantauan renal |
+| 6 | Hipertensi renovaskular malignan | 0.9989 | L5 | Risiko pada stenosis arteri renal bilateral |
+| 8 | Sindrom Braddock | 0.9986 | L5 | Tiada rasional mekanistik |
+| 9 | Penyakit jantung pulmonari kronik | 0.9968 | L3 | **Soalan Penyelidikan**: dua kajian lisinopril lama (PMID 14524095, 17047621) tetapi reka bentuk tidak dapat disahkan |
+| 10 | Sindrom hematuria familial autosomal dominan-tortuositi arteriol retina-kontraktur | 0.9933 | L5 | Gangguan COL4A1 yang jarang; tiada kaitan mekanistik |
 
 Antara semua calon, **penyakit jantung pulmonari kronik** mempunyai isyarat literatur paling bermakna (dua kajian klinikal lisinopril), tetapi ia masih memerlukan penyiasatan lanjut dan bukan syor rawatan.
 ## Penafian

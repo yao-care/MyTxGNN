@@ -50,10 +50,10 @@ tetapi setakat ini terdapat **0 ujian klinikal** dan **20 penerbitan** yang memb
 |------|------|
 | Indikasi Asal | Gout; hiperurisemia (entri lapuk) |
 | Indikasi Baharu yang Diramalkan | Hipourisemia renal |
-| Skor Ramalan TxGNN | 99.73% |
+| Skor Ramalan TxGNN | 0.9973 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -66,7 +66,7 @@ Hipourisemia renal pula dicirikan oleh perkumuhan urat melalui buah pinggang yan
 
 Sebenarnya, dalam banyak laporan kes, probenecid digunakan sebagai **prob farmakologi** untuk mencirikan kecacatan pengangkutan urat pada pesakit hipourisemia. Ini ialah kegunaan diagnostik, bukan terapeutik.
 
-Dua ramalan lain turut dipaparkan dalam data: **sindrom Lesch-Nyhan** (skor 99.39%) dan **kekurangan separa HPRT** (skor 99.37%). Kedua-duanya turut berada pada tahap L5 dengan keputusan Hold. Pada pesakit ini, pengeluaran urat memang berlebihan; ubat urikosurik meningkatkan risiko kristaluria asid urik dan nefrolitiasis, manakala perencat xanthine oxidase (contohnya allopurinol) ialah rawatan piawai.
+Dua ramalan lain turut dipaparkan dalam data: **sindrom Lesch-Nyhan** (skor 0.9939) dan **kekurangan separa HPRT** (skor 0.9937). Kedua-duanya turut berada pada tahap L5 dengan keputusan Hold. Pada pesakit ini, pengeluaran urat memang berlebihan; ubat urikosurik meningkatkan risiko kristaluria asid urik dan nefrolitiasis, manakala perencat xanthine oxidase (contohnya allopurinol) ialah rawatan piawai.
 
 ---
 

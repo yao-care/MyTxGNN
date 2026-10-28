@@ -6,9 +6,9 @@ nav_order: 649
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Sodium Acetate: indikasi baharu diramal Kekurangan protrombin kongenital (congenital prothrombin deficiency) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "SODIUM ACETATE"
-predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "Ureaplasma urethritis", "gonococcal urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
+predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "gonococcal urethritis", "Ureaplasma urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
+description: "Sodium Acetate: indikasi baharu diramal Kekurangan protrombin kongenital (congenital prothrombin deficiency) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Sodium Acetate
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Natrium Asetat: Daripada Tiada Indikasi Berdaftar kepada Kekurangan Protrombin Kongenital
+## Sodium Acetate: Kekurangan protrombin kongenital (congenital prothrombin deficiency)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan protrombin kongeni
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Kekurangan protrombin kongenital (congenital prothrombin deficiency) |
-| Skor Ramalan TxGNN | 99.98% |
+| Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 25 daripada 25) |
+| Bilangan Pendaftaran | 25 (sah: 25) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan protrombin kongeni
 
 Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Natrium asetat dikenali sebagai elektrolit dan agen pengalkali, kerana asetat dimetabolismekan menjadi bikarbonat.
 
-Analisis data yang dikumpulkan **tidak menemui sebarang kaitan mekanistik yang munasabah**. Natrium asetat tidak mempunyai peranan yang diketahui dalam sintesis atau fungsi faktor pembekuan darah. Skor TxGNN yang tinggi hanyalah ramalan berasaskan graf dan tidak disokong oleh bukti klinikal atau literatur. Kesamaan dengan indikasi asal pula belum dinilai kerana tiada indikasi asal berdaftar.
+Analisis data yang dikumpulkan **tidak menemui sebarang kaitan mekanistik yang munasabah**. Natrium asetat tidak mempunyai peranan yang diketahui dalam sintesis atau fungsi faktor pembekuan darah. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin hanya mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi, dan tidak disokong oleh bukti klinikal atau literatur. Kesamaan dengan indikasi asal pula belum dinilai kerana tiada indikasi asal berdaftar.
 
 Beberapa ramalan lain dalam kedudukan teratas (contohnya uretritis, jangkitan saluran kencing, epiglotitis) juga tidak mempunyai mekanisme antimikrob atau anti-radang yang diketahui bagi natrium asetat.
 
@@ -109,7 +109,7 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pek NPRA tidak tersedi
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur sokongan, dan tiada kaitan mekanistik yang munasabah antara natrium asetat dengan kekurangan protrombin kongenital. Di Malaysia, produk ini tidak dipasarkan dan tiada pendaftaran.
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur sokongan, dan tiada kaitan mekanistik yang munasabah antara natrium asetat dengan kekurangan protrombin kongenital.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pek (amaran dan kontraindikasi) daripada NPRA, yang merupakan jurang data penghalang bagi saringan keselamatan

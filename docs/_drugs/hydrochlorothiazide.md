@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Hydrochlorothiazide
-parent: High Evidence (L1-L2)
+parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 402
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Hydrochlorothiazide: indikasi baharu diramal Hypertensive disorder (kedudukan 1) (tahap bukti L1). Indikasi asal: Hypertensive disorder, hypertension, congestive heart failure"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Hydrochlorothiazide: kegunaan diketahui dan status pasaran di Malaysia; kini tiada indikasi calon baharu"
+predicted_indications: []
 ---
 
 # Hydrochlorothiazide
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **5** 
+Tahap bukti: **N/A** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,103 +32,79 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-## Hydrochlorothiazide: Daripada Hipertensi kepada Hipertensi (Indikasi Asal Disahkan Semula)
+<!-- known-uses-page -->
+<!-- description: Hydrochlorothiazide: kegunaan diketahui dan status pasaran di Malaysia; kini tiada indikasi calon baharu -->
+## Hydrochlorothiazide: Kegunaan diketahui dan status pasaran di Malaysia
 {: .text-alpha }
 
-## Ringkasan Satu Ayat
+## Ringkasan
+Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih tinggi untuk Hydrochlorothiazide, maka kini tiada indikasi baharu yang diramalkan. Kegunaan yang direkodkan untuk ubat ini disenaraikan di bawah. Senarai tersebut ialah rekod kegunaan ubat itu sendiri, bukan calon daripada model.
 
-Hydrochlorothiazide ialah diuretik jenis tiazid yang pada asalnya digunakan untuk merawat hipertensi dan kegagalan jantung kongestif.
-Model TxGNN meramalkan indikasi **hipertensi (hypertensive disorder / hypertension)** dan **kegagalan jantung kongestif**, tetapi ini ialah indikasi asal (on-label) dan bukan penemuan pengisian semula (repurposing) yang sebenar. Skor ramalan ialah 0.0%, jadi ia tidak memberi sokongan ramalan.
-Bukti klinikal bagaimanapun langsung: data yang dikumpulkan merangkumi **35 percubaan klinikal** dan **20 penerbitan** bagi indikasi hipertensi, serta **10 percubaan klinikal** dan **17 penerbitan** bagi kegagalan jantung kongestif.
-
----
-
-## Gambaran Keseluruhan Pantas
-
+## Gambaran ringkas
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hypertensive disorder, hypertension, congestive heart failure |
-| Indikasi Baharu yang Diramalkan | Hypertensive disorder (kedudukan 1); kedudukan lain: hypertension, congestive heart failure |
-| Skor Ramalan TxGNN | 0.0% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut rekod; perlu disahkan) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Berjaga-jaga) |
+| Indikasi baharu yang diramalkan | Tiada (tiada calon model dengan skor 0.99 atau lebih tinggi) |
+| Kegunaan diketahui yang direkodkan untuk ubat ini | 5 |
+| Tahap bukti | Tidak berkenaan |
+| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 58 daripada 58) |
+| Bilangan Pendaftaran | 58 (sah: 58) |
 
----
+## Kegunaan diketahui yang direkodkan untuk ubat ini
 
-## Mengapa Ramalan Ini Munasabah?
+### Diluluskan (disokong oleh lesen atau label)
+| Indikasi | Sumber |
+|------|------|
+| Kegagalan jantung kongestif (congestive heart failure) | Label rasmi (dikurasi) |
+| Kegagalan jantung (heart failure) | Label rasmi (dikurasi) |
+| Hipertensi esensial (essential hypertension) | Lesen di negara lain |
+| Hipertensi (hypertension) | Lesen di negara lain |
 
-Butiran mekanisme tindakan (MOA) tidak terdapat dalam data yang dikumpulkan. Berdasarkan farmakologi am, hydrochlorothiazide menghalang kotransporter Na+/Cl- (NCC) pada tubul distal berlingkar. Ini mengurangkan penyerapan semula natrium dan air, menurunkan isi padu plasma, dan dengan penggunaan jangka panjang menurunkan rintangan vaskular periferi. Ini ialah mekanisme antihipertensi yang mantap.
+### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+| Indikasi | Kategori yang diluluskan |
+|------|------|
+| Tiada | Tiada |
 
-Hipertensi ialah indikasi asal, maka ia bukan calon pengisian semula yang sebenar. Skor TxGNN 0.0 tidak memberi sokongan ramalan, tetapi bukti klinikalnya langsung dan kukuh.
-
-Bagi kegagalan jantung kongestif, tiazid berperanan sebagai tambahan kepada diuretik gelung melalui sekatan nefron berjujukan. Menyekat NCC pada tubul distal menentang penyerapan semula natrium distal secara kompensatori (rintangan diuretik) selepas penggunaan diuretik gelung, lalu meningkatkan natriuresis. Walau bagaimanapun, sebahagian besar bukti terkuat menggunakan tiazid lain dan bukan hydrochlorothiazide semata-mata.
-
----
-
-## Bukti Percubaan Klinikal
-
-### Hipertensi (10 percubaan paling relevan)
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT01302691](https://clinicaltrials.gov/study/NCT01302691) | Phase 3 | Selesai | 327 | Losartan/HCTZ/amlodipine berbanding losartan+amlodipine pada pesakit Jepun yang tidak terkawal; RCT dengan pembanding aktif |
-| [NCT00872586](https://clinicaltrials.gov/study/NCT00872586) | Phase 3 | Selesai | 304 | Olmesartan/HCTZ sebagai tambahan pada pesakit Cina yang gagal dengan monoterapi olmesartan; double-blind, double-dummy |
-| [NCT00368277](https://clinicaltrials.gov/study/NCT00368277) | Phase 3 | Selesai | 901 | Rejimen berasaskan aliskiren berbanding ramipril pada pesakit ≥65 tahun dengan hipertensi sistolik; 36 minggu |
-| [NCT00000620](https://clinicaltrials.gov/study/NCT00000620) | Phase 3 | Selesai | 10,251 | ACCORD: kawalan tekanan darah dalam diabetes jenis 2; HCTZ bukan intervensi tunggal |
-| [NCT00402103](https://clinicaltrials.gov/study/NCT00402103) | Phase 3 | Selesai | 556 | Keselamatan jangka panjang 54 minggu bagi gabungan aliskiren/amlodipine (label terbuka) |
-| [NCT00818883](https://clinicaltrials.gov/study/NCT00818883) | Phase 3 | Selesai | 609 | Chlorthalidone berbanding HCTZ bersama azilsartan; kaitan tidak langsung |
-| [NCT02177422](https://clinicaltrials.gov/study/NCT02177422) | Phase 3 | Selesai | 489 | Susulan label terbuka telmisartan 80 mg, dengan HCTZ sebagai tambahan |
-| [NCT00403481](https://clinicaltrials.gov/study/NCT00403481) | Phase 4 | Selesai | 192 | Rejimen berasaskan olmesartan pada pesakit diabetes jenis 2 dengan hipertensi; satu lengan |
-| [NCT00509470](https://clinicaltrials.gov/study/NCT00509470) | Phase 4 | Selesai | 75 | Telmisartan + HCTZ dos rendah pada hipertensi yang tidak terkawal dengan amlodipine |
-| [NCT01658657](https://clinicaltrials.gov/study/NCT01658657) | NA | Selesai | 17 | Kajian perintis terapi berpandukan aktiviti renin plasma; kuasa statistik terhad |
-
-### Kegagalan Jantung Kongestif
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT01647932](https://clinicaltrials.gov/study/NCT01647932) | Phase 3 | Selesai | 232 | CLOROTIC: diuretik gelung + tiazid berbanding diuretik gelung sahaja pada kegagalan jantung dekompensasi |
-| [NCT03892148](https://clinicaltrials.gov/study/NCT03892148) | Phase 4 | Selesai | 299 | Protokol pengoptimuman diuretik dalam dekompensasi kegagalan jantung kronik |
-| [NCT04465123](https://clinicaltrials.gov/study/NCT04465123) | Phase 3 | Tidak diketahui | 100 | Furosemide dengan sekatan nefron awal (HCTZ atau spironolactone) berbanding furosemide sahaja |
-| [NCT07593612](https://clinicaltrials.gov/study/NCT07593612) | Phase 4 | Belum merekrut | 60 | TACTIC-HF: gabungan tiazid atau acetazolamide berbanding furosemide IV; belum ada keputusan |
-| [NCT00690521](https://clinicaltrials.gov/study/NCT00690521) | NA | Selesai | 8 | HCTZ berbanding metolazone bersama furosemide; sampel sangat kecil |
-
----
-
-## Bukti Literatur
-
-### Hipertensi
-
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [36516076](https://pubmed.ncbi.nlm.nih.gov/36516076/) | 2022 | RCT | N Engl J Med | Chlorthalidone berbanding HCTZ untuk peristiwa kardiovaskular pada hipertensi |
-| [39656458](https://pubmed.ncbi.nlm.nih.gov/39656458/) | 2024 | Analisis sekunder RCT | JAMA Netw Open | Chlorthalidone berbanding HCTZ dan hasil buah pinggang |
-| [9431858](https://pubmed.ncbi.nlm.nih.gov/9431858/) | 1997 | RCT | J Hypertens | Lacidipine, HCTZ dan gabungannya berbanding plasebo pada hipertensi sistolik warga emas |
-| [36787814](https://pubmed.ncbi.nlm.nih.gov/36787814/) | 2023 | RCT perintis | Am J Obstet Gynecol | HCTZ + lisinopril berbanding nifedipine untuk hipertensi pascabersalin |
-| [35404993](https://pubmed.ncbi.nlm.nih.gov/35404993/) | 2022 | Ulasan | Am J Hypertens | Ulasan hydrochlorothiazide, chlorthalidone dan indapamide |
-| [19689218](https://pubmed.ncbi.nlm.nih.gov/19689218/) | 2009 | Ulasan | Expert Opin Drug Metab Toxicol | Farmakologi dan keberkesanan klinikal valsartan/HCTZ |
-| [17703634](https://pubmed.ncbi.nlm.nih.gov/17703634/) | 2007 | Ulasan | Vasc Health Risk Manag | Kombinasi dos tetap telmisartan dan HCTZ |
-| [21491172](https://pubmed.ncbi.nlm.nih.gov/21491172/) | 2011 | Kajian pemerhatian | Adv Ther | Valsartan/HCTZ pada pesakit hipertensi Asia (24 minggu) |
-| [32354458](https://pubmed.ncbi.nlm.nih.gov/32354458/) | 2020 | Ulasan | Rev Port Cardiol | HCTZ dan risiko kanser kulit bukan melanoma |
-| [16109321](https://pubmed.ncbi.nlm.nih.gov/16109321/) | 2005 | Kajian | Am J Hypertens | Peramal kesan sampingan metabolik HCTZ (dislipidemia, hiperglisemia) |
-
-### Kegagalan Jantung Kongestif
-
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [36423214](https://pubmed.ncbi.nlm.nih.gov/36423214/) | 2023 | RCT | Eur Heart J | CLOROTIC: penambahan HCTZ pada furosemide IV untuk kegagalan jantung akut |
-| [40856000](https://pubmed.ncbi.nlm.nih.gov/40856000/) | 2025 | Analisis post-hoc | Eur J Heart Fail | Rintangan diuretik dan keberkesanan HCTZ dalam percubaan CLOROTIC |
-| [38645830](https://pubmed.ncbi.nlm.nih.gov/38645830/) | 2024 | Ulasan | Cardiol Res | Acetazolamide dan HCTZ pada kegagalan jantung dekompensasi akut |
-| [38204501](https://pubmed.ncbi.nlm.nih.gov/38204501/) | 2024 | Ulasan | Can J Hosp Pharm | Strategi diuretik pada kegagalan jantung dekompensasi akut |
-
----
+### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+| Indikasi |
+|------|
+| Gangguan hipertensi (hypertensive disorder) |
 
 ## Maklumat Pasaran di Malaysia
 
-Menurut data yang dikumpulkan, tiada lesen didaftarkan dan status pasaran ialah "Tidak dipasarkan". Ini berkemungkinan mencerminkan isu data, kerana hydrochlorothiazide ialah ubat generik dan komponen gabungan yang lazim digunakan. Status ini perlu disahkan.
+| No. pendaftaran | Produk | Bentuk dos | Status |
+|------|------|------|------|
+| MAL16075019AZ | Saranto-H 50mg/12.5mg Tablets |  | Sah |
+| MAL20014478AZ | COAPROVEL 300MG/12.5MG TABLET |  | Sah |
+| MAL20014479AZ | COAPROVEL 150MG/12.5MG TABLET |  | Sah |
+| MAL11040023AZ | Presartan H 50/12.5mg Film Coated Tablet |  | Sah |
+| MAL05051113AZ | LODOZ  5 MG TABLET |  | Sah |
+| MAL05051115ASZ | LODOZ 2.5 MG TABLET |  | Sah |
+| MAL19860190ARZ | HYDROCHLORZIDE-25 TABLET |  | Sah |
+| MAL11115008AZ | STARVAL HCT TABLETS 80 + 12.5 mg |  | Sah |
+| MAL11115009AZ | STARVAL HCT TABLETS 160 + 25 mg |  | Sah |
+| MAL12085072AZ | Acetan HCT Tablet 100mg/25mg |  | Sah |
+| MAL12085071AZ | Acetan HCT Tablet 50/12.5mg |  | Sah |
+| MAL20021128ACRZ | ATACAND PLUS TABLETS 16/12.5MG |  | Sah |
+| MAL17107011AZ | VALZAAR H TABLETS (160 MG + 12.5 MG) |  | Sah |
+| MAL12115057AZ | IRBEL HCT TABLETS 150 + 12.5 mg |  | Sah |
+| MAL12115058AZ | IRBEL HCT TABLETS 300 + 12.5 mg |  | Sah |
+| MAL19984702ACRZ | AA-Amilzide Tablet 50mg/5mg |  | Sah |
+| MAL08021476ACRZ | Blopress Plus Tablet 16/12.5mg |  | Sah |
+| MAL18046183AE | Hovid-Irbesartan + Hydrochlorothiazide Tablet 300mg / 25mg |  | Sah |
+| MAL18056151AZ | IRB-H 150/12.5 (Irbesartan and Hydrochlorothiazide Tablets 1 |  | Sah |
+| MAL06081219ARZ | Hyzaar Tablet 100 / 12.5 mg |  | Sah |
+| MAL20034439AZ | MICARDIS PLUS 40/12.5MG |  | Sah |
+| MAL20034440AZ | MICARDIS PLUS 80/12.5MG |  | Sah |
+| MAL24026031AZ | TELCORD H 80/12.5 (Telmisartan 80mg and Hydrochlorothiazide  |  | Sah |
+| MAL24026043AZ | TELCORD H 40/12.5 (Telmisartan 40mg and Hydrochlorothiazide  |  | Sah |
+| MAL24046028AZ | TELMIDIP-H 80MG + 12.5MG TABLETS |  | Sah |
+| MAL24046029AZ | TELMIDIP-H 40MG + 12.5MG TABLETS |  | Sah |
+| MAL19990960ARZ | Hyzaar Tablet 50 / 12.5 mg |  | Sah |
+| MAL09062165ARZ | Co-Diovan 160/12.5mg Film-coated Tablet |  | Sah |
+| MAL09062166ARZ | Co-Diovan 160/25mg Film-coated Tablet |  | Sah |
+| MAL09062164ARZ | Co-Diovan 80/12.5mg Film-coated Tablet |  | Sah |
 
----
+Data hanya mengandungi sebahagian pendaftaran; senarai mungkin tidak lengkap.
 
 ## Pertimbangan Keselamatan
 
@@ -141,19 +118,6 @@ Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA belum diperoleh. 
 
 ---
 
-## Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Berjaga-jaga)**
-
-**Rasional:**
-- Bukti klinikal langsung dan kukuh (tahap L1; pelbagai RCT Phase 3 yang selesai), tetapi kebanyakan percubaan menggunakan HCTZ dalam gabungan dos tetap dan bukan sebagai agen tunggal. Hipertensi ialah indikasi asal, bukan pengisian semula, dan skor TxGNN 0.0 tidak menyumbang sokongan. Bagi kegagalan jantung, bukti terkuat (CLOROTIC) menyokong HCTZ sebagai tambahan kepada furosemide, dengan sebahagian data lain menggunakan tiazid berbeza.
-
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Memuat turun dan mengekstrak amaran serta kontraindikasi daripada sisipan pakej NPRA (jurang data berstatus penghalang).
-- Mengesahkan status pasaran dan pendaftaran di Malaysia, kerana rekod "tidak dipasarkan" mungkin tidak tepat.
-- Melengkapkan data mekanisme tindakan (MOA) daripada DrugBank.
-- Pelan pemantauan elektrolit dan metabolik, serta pemeriksaan kulit berkala untuk penggunaan jangka panjang.
-- Mempertimbangkan agen seakan-tiazid (contohnya chlorthalidone) sebagai alternatif, berdasarkan perbandingan langsung dalam literatur.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

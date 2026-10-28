@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Magnesium Hydroxide
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 482
-evidence_level: L3
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Magnesium Hydroxide: indikasi baharu diramal Esofagitis (tahap bukti L3). Indikasi asal: Penyakit ulser peptik, penyakit refluks gastroesofagus, esofagitis…"
+evidence_level: L5
+indication_count: 1
+monitor_inn: "Magnesium Hydroxide"
+predicted_indications: ["stomach disease"]
+last_modified_at: 2026-10-23
+description: "Magnesium Hydroxide: indikasi baharu diramal Penyakit perut (tahap bukti L5). Indikasi asal: Penyakit ulser peptik, penyakit refluks gastroesofagus, esofagitis…"
 ---
 
 # Magnesium Hydroxide
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,104 +33,95 @@ Tahap bukti: **L3** | Indikasi diramal: **5**
 
 </div>
 
-## Magnesium Hydroxide: Daripada Penyakit Ulser Peptik kepada Esofagitis
+## Magnesium Hydroxide: Daripada Penyakit Ulser Peptik kepada Penyakit Perut
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Magnesium hidroksida ialah antasid dan julap osmotik yang pada asalnya digunakan untuk penyakit ulser peptik, refluks gastroesofagus, esofagitis, sembelit dan dispepsia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **esofagitis**, tetapi esofagitis sebenarnya sudah termasuk dalam indikasi asal, jadi ini bukan pengitaran semula ubat yang sebenar.
-Setakat ini terdapat **1 ujian klinikal** (ujian produk kombinasi yang ditamatkan awal) dan **10 penerbitan** yang berkaitan, dengan kualiti bukti yang terhad.
+Magnesium hydroxide ialah antasid beralkali. Dalam graf pengetahuan, ubat ini direkodkan berkaitan dengan penyakit ulser peptik, refluks gastroesofagus (GERD), esofagitis, sembelit dan dispepsia. Model TxGNN meramalkan ia mungkin berguna untuk **penyakit perut** dengan skor **0.9923**. Namun, tiada ujian klinikal berdaftar untuk penyakit ini, dan **20 penerbitan** yang ditemui kebanyakannya berkaitan ulser, kajian lama atau produk kombinasi. Ramalan ini juga banyak bertindih dengan kegunaan sedia ada, jadi ia bukan isyarat penggunaan semula yang benar-benar baharu.
 
 ---
 
-## Gambaran Keseluruhan Ringkas
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit ulser peptik, penyakit refluks gastroesofagus, esofagitis, esofagitis peptik, sembelit, dispepsia (berdasarkan graf pengetahuan PrimeKG) |
-| Indikasi Baharu yang Diramalkan | Esofagitis |
-| Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi Asal | Penyakit ulser peptik, penyakit refluks gastroesofagus, esofagitis, esofagitis peptik, sembelit dan dispepsia (hubungan yang direkodkan dalam graf pengetahuan; tiada teks indikasi berlesen disediakan dalam rekod pendaftaran tempatan) |
+| Indikasi Baharu yang Diramalkan | Penyakit perut |
+| Skor Ramalan TxGNN | 0.9923 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 41 daripada 41) |
+| Bilangan Pendaftaran | 41 (sah: 41) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data terperinci tentang mekanisme tindakan (MOA) tidak tersedia daripada data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, magnesium hidroksida ialah antasid yang meneutralkan asid gastrik. Ini menaikkan pH esofagus dan gastrik serta mengurangkan pendedahan mukosa esofagus kepada asid. Secara in vitro, ia juga boleh menjerap asid hempedu, satu mekanisme sampingan yang munasabah untuk esofagitis peptik atau refluks.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan farmakologi antasid yang diketahui umum (bukan daripada rekod yang dibekalkan), magnesium hydroxide meneutralkan asid hidroklorik dalam perut dan menaikkan pH intragastrik. Mekanisme ini berkaitan secara langsung dengan gangguan perut yang berkaitan asid, seperti ulser duodenum, dispepsia dan gastritis.
 
-Esofagitis dan esofagitis peptik sudah tersenarai antara indikasi asal ubat ini. Oleh itu, ramalan ini lebih tepat dilihat sebagai pengesahan penggunaan sedia ada, bukan penemuan indikasi baharu. Satu-satunya ujian berdaftar (NCT01336530) menguji produk kombinasi dosis tetap untuk esofagitis akibat radiasi, iaitu etiologi yang berbeza.
+"Penyakit perut" ialah kategori yang sangat luas dan banyak bertindih dengan indikasi asal yang sedia diketahui (ulser peptik, GERD, dispepsia). Skor yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi, dan bukan penemuan kegunaan baharu. Oleh itu, ramalan ini lebih sesuai dianggap sebagai soalan penyelidikan: sub-keadaan perut yang spesifik manakah yang boleh dibuktikan manfaatnya?
 
 ---
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT01336530](https://clinicaltrials.gov/study/NCT01336530) | Fasa 3 | Ditamatkan | 40 | Ujian rawak, double-blind, terkawal plasebo bagi produk kombinasi Tepilta® untuk esofagitis akibat radiasi, berbanding bahan aktifnya (oxetacaine dan antasid) dan plasebo. Magnesium hidroksida bukan satu-satunya bahan aktif, dan ujian ditamatkan dengan hanya 40 peserta, jadi ia tidak boleh menyokong kesimpulan keberkesanan. |
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
+Penerbitan berikut diutamakan mengikut jenis kajian. Hampir semuanya melibatkan produk kombinasi aluminium/magnesium hydroxide atau kajian lama. Tiada satu pun yang mengkaji magnesium hydroxide tunggal secara langsung untuk "penyakit perut" sebagai satu entiti.
+
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [11854825](https://pubmed.ncbi.nlm.nih.gov/11854825/) | 1995 | Kajian farmakodinamik klinikal (single-blind, crossover) | Am J Ther | Antasid aluminium/magnesium hidroksida dibandingkan dengan kalsium karbonat dan plasebo terhadap pH esofagus dan gastrik pada 83 subjek yang mengalami pedih ulu hati |
-| [11850695](https://pubmed.ncbi.nlm.nih.gov/11850695/) | 1995 | Kajian farmakodinamik klinikal (double-blind, crossover) | Am J Ther | Perbandingan dua antasid cecair aluminium dan magnesium hidroksida dengan kapasiti peneutralan asid berbeza terhadap pH esofagus dan gastrik |
-| [8047802](https://pubmed.ncbi.nlm.nih.gov/8047802/) | 1994 | Kajian rawak double-blind terkawal plasebo | Scand J Gastroenterol | Domperidone ditambah magnesium dan aluminium hidroksida pada 80 kanak-kanak dengan refluks gastroesofagus |
-| [1798406](https://pubmed.ncbi.nlm.nih.gov/1798406/) | 1991 | Kajian klinikal | Minerva Pediatr | 15 kanak-kanak dengan refluks dirawat selama 8 minggu: 12 daripada 15 sembuh dan 3 bertambah baik |
-| [1783346](https://pubmed.ncbi.nlm.nih.gov/1783346/) | 1991 | Kajian double-blind perbandingan | Fortschr Med | 97 pesakit gastritis, esofagitis dan gejala abdomen atas berfungsi; membandingkan kombinasi antasid (smektit, aluminium dan magnesium hidroksida) dengan antasid aluminium hidroksida |
-| [3440273](https://pubmed.ncbi.nlm.nih.gov/3440273/) | 1987 | Kajian in vitro | Clin Ther | Keupayaan antasid magnesium hidroksida menjerap asid hempedu; kolestiramin paling berkesan |
-| [6617982](https://pubmed.ncbi.nlm.nih.gov/6617982/) | 1983 | Ujian keselamatan penggunaan label terbuka | J Int Med Res | 109 pesakit dengan gangguan gastrousus atas berfungsi; 67–73% gejala reda sepenuhnya |
-| [2990196](https://pubmed.ncbi.nlm.nih.gov/2990196/) | 1985 | Kajian fisiologi mekanistik | Am J Gastroenterol | Kesan antasid dan alkali terhadap tekanan sfinkter esofagus bawah |
+| [55333](https://pubmed.ncbi.nlm.nih.gov/55333/) | 1976 | RCT (double-blind) | Current Therapeutic Research | Oxethazaine digabungkan dengan aluminium dan magnesium hydroxide untuk kesakitan ulser duodenum; kajian farmakologi klinikal (abstrak tidak tersedia) |
+| [8520743](https://pubmed.ncbi.nlm.nih.gov/8520743/) | 1995 | RCT (double-blind) | Am J Respir Crit Care Med | Sucralfate berbanding antasid untuk profilaksis ulser tekanan pada pesakit ICU berventilator; menilai keasidan intragastrik, kolonisasi dan pneumonia berkaitan ventilator |
+| [3903784](https://pubmed.ncbi.nlm.nih.gov/3903784/) | 1985 | Kajian klinikal terkawal | Pharmatherapeutica | Triletide berbanding antasid (aluminium hydroxide + magnesium hydroxide) pada 30 pesakit ulser gastrik atau duodenum selama 8 minggu |
+| [3018068](https://pubmed.ncbi.nlm.nih.gov/3018068/) | 1986 | Kajian klinikal | J Clin Gastroenterol | Natrium bikarbonat berbanding aluminium-magnesium hydroxide terhadap asid gastrik selepas makan pada pesakit ulser duodenum |
+| [3213266](https://pubmed.ncbi.nlm.nih.gov/3213266/) | 1988 | Kajian klinikal | Z Rheumatol | Penyembuhan ulser gastrik/duodenum dengan ranitidine dan antasid pada 21 pesakit yang meneruskan terapi NSAID |
+| [3604202](https://pubmed.ncbi.nlm.nih.gov/3604202/) | 1987 | Kajian klinikal | Vutreshni Bolesti | Penyediaan kombinasi (termasuk aluminium dan magnesium hydroxide) pada 20 pesakit ulser duodenum selama 20 hari; kesan baik terhadap gejala dilaporkan pada 50–80% |
+| [236651](https://pubmed.ncbi.nlm.nih.gov/236651/) | 1975 | Ulasan | Am J Hosp Pharm | Farmakologi dan penggunaan klinikal antasid dalam penyakit asid-peptik |
+| [6755653](https://pubmed.ncbi.nlm.nih.gov/6755653/) | 1982 | Ulasan | Scand J Gastroenterol Suppl | Antasid dan hormon; antasid mempercepat penyembuhan ulser dan mencegah pendarahan daripada ulser tekanan |
+| [2595273](https://pubmed.ncbi.nlm.nih.gov/2595273/) | 1989 | Kajian praklinikal (tikus) | Scand J Gastroenterol | Antasid aluminium-magnesium hydroxide (Maalox 70) mencegah lesi gastrik akibat etanol, aspirin berasid dan tekanan secara bergantung dos |
+| [20278299](https://pubmed.ncbi.nlm.nih.gov/20278299/) | 1947 | Laporan klinikal lama | Am J Dig Dis | Gel aluminium hydroxide koloid dan magnesium hydroxide dalam pengurusan ulser peptik (abstrak tidak tersedia) |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-Tiada pendaftaran produk magnesium hidroksida di Malaysia dalam data yang dikumpulkan untuk laporan ini (status: tidak dipasarkan, 0 lesen).
+Daripada 41 pendaftaran NPRA, hanya 1 ialah produk bahan tunggal. Selebihnya (40) ialah produk kombinasi dan tidak digunakan untuk menggambarkan status kelulusan magnesium hydroxide sebagai bahan tunggal. Rekod pendaftaran tidak menyediakan teks indikasi berlesen atau bentuk dos.
+
+| Nombor Pendaftaran | Nama Produk | Pengeluar | Status |
+|---------|------|------|-----------|
+| MAL11085006X | Laxstoo Oral Suspension 800mg/5ml | Hoe Pharmaceuticals Sdn. Bhd. | Sah |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Kontraindikasi (berdasarkan graf pengetahuan, bukan teks label)**: penyakit buah pinggang dan gangguan fungsi buah pinggang, penyakit hati, penyakit pundi hempedu, sarkoidosis, hiperparatiroidisme, hiperkalsemia, nefrokalsinosis, batu karang, hipofosfatemia, penyakit cirit-birit (termasuk kronik), apendisitis, impaksi usus, buasir, serta neoplasma gastrik.
-- **Interaksi Ubat**: sebanyak 100 interaksi dikesan. Interaksi **Major** ialah dengan **dolutegravir**. Interaksi **Moderate** termasuk abiraterone, acalabrutinib, tramadol, acetazolamide, doxycycline, hydrocortisone, salbutamol, alendronic acid, alfuzosin, hydrochlorothiazide, amiloride, amiodarone, amisulpride dan dextroamphetamine. Interaksi **Minor** termasuk famotidine, ranitidine, ibuprofen, acebutolol dan alprazolam.
-- **Risiko hipermagnesemia**: laporan kes menunjukkan hipermagnesemia, termasuk kes maut, pada pesakit yang mengambil magnesium hidroksida. Ia boleh berlaku walaupun fungsi buah pinggang normal (PMID 38152602, 9533062).
+Maklumat amaran utama dan kontraindikasi daripada sisipan pakej belum diperoleh. Sila rujuk sisipan pakej untuk maklumat keselamatan yang sahih.
 
-Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi.
+- **Penyakit yang direkodkan sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): penyakit buah pinggang dan gangguan fungsi buah pinggang, penyakit hati, penyakit pundi hempedu, sarkoidosis, hiperparatiroidisme, hiperkalsemia, nefrokalsinosis, nefrolitiasis, gangguan metabolisme fosforus, hipofosfatemia, penyakit cirit-birit (termasuk kronik), apendisitis, impaksi usus, buasir, serta neoplasma/karsinoma gastrik. Senarai ini perlu disahkan dengan label produk yang diluluskan.
+- **Interaksi ubat**: 100 interaksi direkodkan, dan 20 pertama dipaparkan dalam data. Interaksi **utama** yang dikenal pasti ialah dengan **Dolutegravir**. Interaksi **sederhana** termasuk abiraterone, acalabrutinib, tramadol, acetazolamide, doxycycline, hydrocortisone, salbutamol, alendronic acid, alfuzosin, hydrochlorothiazide, amiloride, amiodarone, amisulpride dan dextroamphetamine. Interaksi **ringan** termasuk acebutolol, famotidine, ranitidine, ibuprofen dan alprazolam.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Esofagitis ialah indikasi asal, jadi ini bukan pengitaran semula yang sebenar. Satu-satunya ujian klinikal ialah ujian produk kombinasi untuk esofagitis akibat radiasi yang ditamatkan dengan 40 peserta, dan literatur kebanyakannya terdiri daripada kajian lama, kecil atau kombinasi. Bukti berada pada tahap L3 dan skor TxGNN ialah 0.00%.
+- Tiada kajian yang dipetik mengkaji penyakit perut sebagai entiti tersendiri dengan magnesium hydroxide tunggal. Literatur yang ada kebanyakannya melibatkan produk kombinasi, ulser tertentu, ulasan lama atau model haiwan, maka tahap bukti ialah L5.
+- Ramalan ini banyak bertindih dengan indikasi asal yang sedia diketahui. Skor daripada model TxGNN (pembelajaran mendalam) mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi, jadi nilai penggunaan semula yang baharu masih tidak jelas.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang saringan keselamatan)
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
-- Ujian klinikal rawak yang menguji magnesium hidroksida secara langsung untuk esofagitis refluks atau peptik
-- Pelan pemantauan keselamatan, terutamanya serum magnesium, bagi pesakit dengan gangguan buah pinggang, warga emas dan pesakit lemah
-- Pengesahan status pendaftaran dan ketersediaan produk di Malaysia
-
----
-
-### Nota Tambahan: Indikasi Lain yang Dinilai
-
-Data yang dikumpulkan turut menilai indikasi asal lain. Ini hanya untuk rujukan dan tidak menukar keputusan di atas.
-
-| Indikasi | Tahap Bukti | Cadangan | Catatan |
-|------|------|------|------|
-| Sembelit | L1 | Proceed with Guardrails | Terdapat ujian Fasa 4 [NCT05216328](https://clinicaltrials.gov/study/NCT05216328) (258 peserta, masih merekrut) dan ulasan sistematik julap osmotik. Elakkan atau kurangkan dos pada gangguan buah pinggang, halangan usus, dan pesakit warga emas atau lemah. |
-| Penyakit refluks gastroesofagus | L3 | Research Question | Tiada ujian berdaftar; kebanyakan kajian kecil dan kombinasi. |
-| Esofagitis peptik | L4 | Hold | Hanya satu kajian in vitro dan satu ujian label terbuka. |
-| Penyakit ulser peptik | L3 | Research Question | Kebanyakan kajian lama; PPI dan penghapusan *H. pylori* kini piawai, jadi antasid hanya bersifat sokongan. |
+- Sisipan pakej NPRA untuk amaran, kontraindikasi dan indikasi berlesen produk bahan tunggal.
+- Data mekanisme tindakan (MOA) yang lengkap.
+- Penentuan sub-indikasi perut yang spesifik dan belum diliputi oleh kegunaan sedia ada, seperti gastritis atau ulser tekanan.
+- Kajian atau ujian klinikal yang menilai magnesium hydroxide tunggal untuk sub-indikasi tersebut.
+- Rancangan pemantauan keselamatan untuk pesakit dengan gangguan fungsi buah pinggang dan pesakit yang mengambil ubat berinteraksi (terutamanya dolutegravir).
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

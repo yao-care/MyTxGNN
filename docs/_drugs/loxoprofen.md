@@ -6,9 +6,9 @@ nav_order: 480
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Loxoprofen: indikasi baharu diramal Sindrom displasia rizomelik-mikroftalmia kolobomatus (tahap bukti L5). Indikasi asal: Artritis reumatoid"
 monitor_inn: "loxoprofen"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
+description: "Loxoprofen: indikasi baharu diramal Sindrom displasia rizomelik-mikroftalmia kolobomatus (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan …"
 ---
 
 # Loxoprofen
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Loxoprofen: Daripada Artritis Reumatoid kepada Sindrom Displasia Rizomelik-Mikroftalmia Kolobomatus
+## Loxoprofen: Sindrom displasia rizomelik-mikroftalmia kolobomatus (colobomatous microphthalmia-rhizomelic dysplasia syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,21 +46,21 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Artritis reumatoid |
-| Indikasi Baharu yang Diramalkan | Sindrom displasia rizomelik-mikroftalmia kolobomatus |
-| Skor Ramalan TxGNN | 99.80% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom displasia rizomelik-mikroftalmia kolobomatus (colobomatous microphthalmia-rhizomelic dysplasia syndrome) |
+| Skor Ramalan TxGNN | 0.9980 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
 Data terperinci mengenai mekanisme tindakan (MOA) pada masa ini tidak tersedia daripada data yang dihimpunkan untuk laporan ini. Berdasarkan maklumat yang diketahui, loxoprofen ialah prodrug NSAID bukan selektif; metabolit aktifnya (trans-alkohol) menghalang enzim COX dan mengurangkan sintesis prostaglandin. Kesannya dalam artritis reumatoid, iaitu penyakit radang, adalah selaras dengan mekanisme ini.
 
-Walau bagaimanapun, sindrom displasia rizomelik-mikroftalmia kolobomatus ialah gangguan perkembangan yang jarang berlaku (koloboma mata, mikroftalmia, displasia rangka rizomelik) dan tiada patologi radang atau patologi bergantung prostaglandin yang diiktiraf, yang boleh ditangani oleh perencatan COX. Maka, **tiada hubungan mekanistik yang disokong oleh data yang ada**. Skor TxGNN yang tinggi (0.998) hanyalah ramalan graf pengetahuan tanpa pengesahan klinikal atau literatur, dan mungkin mencerminkan artifak topologi graf dan bukan kaitan biologi sebenar.
+Walau bagaimanapun, sindrom displasia rizomelik-mikroftalmia kolobomatus ialah gangguan perkembangan yang jarang berlaku (koloboma mata, mikroftalmia, displasia rangka rizomelik) dan tiada patologi radang atau patologi bergantung prostaglandin yang diiktiraf, yang boleh ditangani oleh perencatan COX. Maka, **tiada hubungan mekanistik yang disokong oleh data yang ada**. Skor TxGNN yang tinggi (0.9980) hanyalah ramalan model TxGNN (pembelajaran mendalam) tanpa pengesahan klinikal atau literatur, dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
-Ramalan kedua model, **sindrom brakidaktili-sindaktili** (skor 99.75%), juga tidak mempunyai hubungan mekanistik. Ia ialah kecacatan anggota badan kongenital yang biasanya bersifat genetik, dan perencatan COX tidak dijangka dapat membetulkan kecacatan struktur perkembangan. Tiada percubaan klinikal atau penerbitan menyokongnya, dan ia juga bertahap L5 dengan syor Hold.
+Ramalan kedua model, **sindrom brakidaktili-sindaktili** (skor 0.9975), juga tidak mempunyai hubungan mekanistik. Ia ialah kecacatan anggota badan kongenital yang biasanya bersifat genetik, dan perencatan COX tidak dijangka dapat membetulkan kecacatan struktur perkembangan. Tiada percubaan klinikal atau penerbitan menyokongnya, dan ia juga bertahap L5 dengan syor Hold.
 
 ## Bukti Percubaan Klinikal
 
@@ -88,7 +88,6 @@ Satu nota berjaga-jaga: NSAID boleh membawa kebimbangan keselamatan perkembangan
 - Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank
 - Bukti praklinikal atau mekanistik yang menunjukkan perencatan COX relevan kepada patologi sindrom ini
 - Penilaian keselamatan perkembangan (termasuk risiko NSAID) dan kesesuaian laluan pemberian
-- Pertimbangan status pendaftaran loxoprofen di Malaysia, kerana ia tidak dipasarkan pada masa ini
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

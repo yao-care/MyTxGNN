@@ -40,7 +40,7 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 Natrium karbonat (sodium carbonate) ialah agen pengalkali, tetapi data yang dikumpulkan untuk laporan ini tidak mengandungi sebarang indikasi berdaftar di Malaysia.
 Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom cauda equina** dengan skor tinggi, tetapi terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong ramalan ini.
-Ramalan ini kelihatan sebagai artifak ramalan berasaskan graf dan bukannya isyarat klinikal sebenar.
+Skor ramalan ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi atau isyarat klinikal sebenar.
 
 ---
 
@@ -50,10 +50,10 @@ Ramalan ini kelihatan sebagai artifak ramalan berasaskan graf dan bukannya isyar
 |------|------|
 | Indikasi Asal | Tiada data indikasi berdaftar |
 | Indikasi Baharu yang Diramalkan | Sindrom cauda equina (cauda equina syndrome) |
-| Skor Ramalan TxGNN | 99.80% |
+| Skor Ramalan TxGNN | 0.9980 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ Ramalan ini kelihatan sebagai artifak ramalan berasaskan graf dan bukannya isyar
 
 Pada masa ini, data terperinci tentang mekanisme tindakan tidak tersedia. Natrium karbonat ialah agen pengalkali, dan tiada indikasi asal yang direkodkan untuknya di Malaysia.
 
-Sindrom cauda equina ialah kecemasan neurologi akibat mampatan saraf yang memerlukan dekompresi pembedahan. Tiada hubungan mekanistik yang dikenal pasti antara agen pengalkali dan keadaan ini. Skor tinggi daripada TxGNN kemungkinan besar merupakan artifak ramalan berasaskan graf, bukan bukti kebolehgunaan klinikal.
+Sindrom cauda equina ialah kecemasan neurologi akibat mampatan saraf yang memerlukan dekompresi pembedahan. Tiada hubungan mekanistik yang dikenal pasti antara agen pengalkali dan keadaan ini. Skor 0.9980 datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi atau bukti kebolehgunaan klinikal.
 
 Ramalan lain dalam senarai juga lemah (lihat bahagian "Ramalan Lain yang Dinilai").
 
@@ -84,11 +84,11 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk sindrom cauda equina
 
 | Kedudukan | Penyakit Diramalkan | Skor TxGNN | Tahap Bukti | Ringkasan Penilaian |
 |------|------|------|------|------|
-| 2 | Anafilaksis | 99.72% | L5 | Hanya satu penerbitan ([PMID 34600046](https://pubmed.ncbi.nlm.nih.gov/34600046/), 2021, *Eur J Pharm Sci*) mengenai kestabilan dan kebolehtelapan epinefrin sublingual; natrium karbonat paling banyak hanya pertimbangan eksipien/pH. Tidak merawat anafilaksis; epinefrin kekal sebagai rawatan standard. |
-| 3 | Anafilaksis aruhan senaman bergantung makanan | 99.63% | L5 | Tiada bukti; kemungkinan hasil kedekatan graf dengan anafilaksis. |
-| 4 | Pundi kencing neurogenik (entri usang) | 99.62% | L5 | Entri penyakit ditanda usang dalam ontologi; pengalkalian air kencing tidak menangani disfungsi detrusor atau neurologi. |
-| 5 | Sindrom mata kering | 99.58% | L4 | Hanya bukti tidak langsung: [PMID 27813150](https://pubmed.ncbi.nlm.nih.gov/27813150/) (2017, *Gerodontology*) mengkaji semburan natrium (bi)karbonat bersama kebersihan mulut pada pesakit sindrom Sjögren, iaitu kesan pada mulut, bukan mata. Reka bentuk kajian belum disahkan. |
-| 6 | Takikardia ventrikel | 99.18% | L5 | Tiada bukti; natrium bikarbonat digunakan dalam keracunan penyekat saluran natrium tertentu, tetapi itu sebatian dan konteks yang berbeza. |
+| 2 | Anafilaksis | 0.9972 | L5 | Hanya satu penerbitan ([PMID 34600046](https://pubmed.ncbi.nlm.nih.gov/34600046/), 2021, *Eur J Pharm Sci*) mengenai kestabilan dan kebolehtelapan epinefrin sublingual; natrium karbonat paling banyak hanya pertimbangan eksipien/pH. Tidak merawat anafilaksis; epinefrin kekal sebagai rawatan standard. |
+| 3 | Anafilaksis aruhan senaman bergantung makanan | 0.9963 | L5 | Tiada bukti; skor daripada model TxGNN (pembelajaran mendalam) mungkin mencerminkan persamaan yang dipelajari model dengan anafilaksis. |
+| 4 | Pundi kencing neurogenik (entri usang) | 0.9962 | L5 | Entri penyakit ditanda usang dalam ontologi; pengalkalian air kencing tidak menangani disfungsi detrusor atau neurologi. |
+| 5 | Sindrom mata kering | 0.9958 | L5 | Hanya bukti tidak langsung: [PMID 27813150](https://pubmed.ncbi.nlm.nih.gov/27813150/) (2017, *Gerodontology*) mengkaji semburan natrium (bi)karbonat bersama kebersihan mulut pada pesakit sindrom Sjögren, iaitu kesan pada mulut, bukan mata. Reka bentuk kajian belum disahkan. |
+| 6 | Takikardia ventrikel | 0.9918 | L5 | Tiada bukti; natrium bikarbonat digunakan dalam keracunan penyekat saluran natrium tertentu, tetapi itu sebatian dan konteks yang berbeza. |
 
 ---
 

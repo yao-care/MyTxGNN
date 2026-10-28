@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Brinzolamide
-parent: Low Evidence (L4-L5)
+parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 166
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-15
-description: "Brinzolamide: indikasi baharu diramal Glaukoma keturunan primer (primary hereditary glaucoma) (tahap bukti L5). Indikasi asal: Glaukoma sudut terbuka, hipertensi okular"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Brinzolamide: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
+predicted_indications: []
 ---
 
 # Brinzolamide
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **1** 
+Tahap bukti: **N/A** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,45 +32,47 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Brinzolamide: Daripada Glaukoma Sudut Terbuka kepada Glaukoma Keturunan Primer
+<!-- known-uses-page -->
+<!-- description: Brinzolamide: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu -->
+## Brinzolamide: Kegunaan diketahui dan status pasaran di Malaysia
 {: .text-alpha }
 
-## Ringkasan Satu Ayat
+## Ringkasan
+Semua calon yang dihasilkan oleh model TxGNN untuk Brinzolamide (skor ≥ 0.99) dan yang dapat dikesan sumbernya ialah kegunaan yang sudah diketahui. Oleh itu, buat masa ini tiada indikasi baharu yang diramalkan untuk ubat ini. Halaman ini menyenaraikan kegunaan yang diketahui dan status pasaran di Malaysia.
 
-Brinzolamide ialah perencat karbonik anhidrase topikal yang pada asalnya digunakan untuk merawat glaukoma sudut terbuka dan hipertensi okular.
-Model TxGNN meramalkan ia mungkin berkesan untuk **glaukoma keturunan primer (primary hereditary glaucoma)**,
-tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model.
-
-## Gambaran Keseluruhan Pantas
-
-| Item | Kandungan |
+## Gambaran ringkas
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Glaukoma sudut terbuka, hipertensi okular |
-| Indikasi Baharu yang Diramalkan | Glaukoma keturunan primer (primary hereditary glaucoma) |
-| Skor Ramalan TxGNN | 99.48% |
-| Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi baharu yang diramalkan | Tiada (semua calon model yang dapat dikesan sumbernya ialah kegunaan yang diketahui) |
+| Kegunaan diketahui dalam calon model | 1 |
+| Tahap bukti | Tidak berkenaan |
+| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 
-## Mengapa Ramalan Ini Munasabah?
+## Kegunaan diketahui dalam calon model
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan am, brinzolamide ialah perencat karbonik anhidrase II topikal yang menurunkan tekanan intraokular (IOP) dengan mengurangkan rembesan akueus humor di badan silia. Keberkesanannya dalam glaukoma sudut terbuka dan hipertensi okular telah diketahui, dan secara mekanisme ia mungkin terpakai kepada glaukoma keturunan primer.
+### Diluluskan (disokong oleh lesen atau label)
+| Indikasi | Sumber |
+|------|------|
+| glaukoma herediti primer (primary hereditary glaucoma) | lesen di negara lain; indikasi diluluskan: glaucoma |
 
-Dalam glaukoma keturunan primer (contohnya glaukoma kongenital primer dan glaukoma sudut terbuka juvenil), IOP yang tinggi ialah faktor risiko utama yang boleh diubah. Oleh itu, pautan mekanisme ini munasabah dari segi biologi dan selaras dengan indikasi sedia ada.
+### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+| Indikasi | Kategori yang diluluskan |
+|------|------|
+| tiada | tiada |
 
-Namun, beberapa perkara perlu diberi perhatian:
-- Skor TxGNN yang tinggi (0.995) ialah ramalan pengiraan sahaja, dan berkemungkinan mencerminkan pertindihan rapat dengan indikasi glaukoma sedia ada, bukan isyarat penggunaan semula yang benar-benar baharu.
-- Bentuk keturunan (contohnya berkaitan MYOC atau CYP1B1) mungkin melibatkan kecacatan anatomi saluran aliran keluar. Perencat karbonik anhidrase topikal biasanya hanya bersifat tambahan, dan pembedahan ialah rawatan barisan pertama bagi glaukoma kongenital primer.
-- Keselamatan dan keberkesanan brinzolamide pada kanak-kanak tidak disahkan dalam data yang ada.
+### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+| Indikasi |
+|------|
+| tiada |
 
-## Bukti Percubaan Klinikal
+## Market information
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
-
-## Bukti Literatur
-
-Pada masa ini tiada literatur berkaitan yang tersedia.
+| No. pendaftaran | Produk | Bentuk dos | Status |
+|------|------|------|------|
+| MAL16085016ARZ | SIMBRINZA 10mg/ml + 2mg/ml eye drops, suspension |  | Sah |
+| MAL20091944ARZ | AZARGA 10MG/ML + 5MG/ML EYE DROPS, SUSPENSION |  | Sah |
+| MAL20041107ARSZ | AZOPT 10MG/ML OPHTHALMIC SUSPENSION |  | Sah |
 
 ## Pertimbangan Keselamatan
 
@@ -77,19 +80,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pakej.
 
-## Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Hold**
-
-**Justifikasi:**
-- Ramalan ini berada pada tahap bukti L5 (hanya ramalan model), tanpa sebarang percubaan klinikal atau literatur sokongan. Produk ini juga tidak berdaftar dan tidak dipasarkan di Malaysia.
-
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) yang lengkap daripada sumber rujukan
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat saringan keselamatan)
-- Kajian literatur dan pendaftaran percubaan klinikal bagi brinzolamide dalam glaukoma keturunan, khususnya populasi pediatrik
-- Penilaian keselamatan dan keberkesanan pada kanak-kanak
-- Penjelasan status pendaftaran dan ketersediaan formulasi di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

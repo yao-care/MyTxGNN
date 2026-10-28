@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 46
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Alpha-Tocopherol Acetate: indikasi baharu diramal Osteoporosis teraruh ubat (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan dalam data yang dikumpulkan"
 monitor_inn: "alpha-Tocopherol acetate"
-predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "tetanic cataract", "craniostenosis cataract", "immature cataract", "mature cataract", "cortical cataract", "nuclear senile cataract", "diabetic retinopathy"]
+predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "tetanic cataract", "mature cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "cortical cataract", "nuclear senile cataract", "diabetic retinopathy"]
+last_modified_at: 2026-10-23
+description: "Alpha-Tocopherol Acetate: indikasi baharu diramal Osteoporosis teraruh ubat (tahap bukti L5). Indikasi asal: Tiada teks indikasi yang diluluskan dalam data pendaftaran tempatan"
 ---
 
 # Alpha-Tocopherol Acetate
@@ -33,100 +33,112 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## alpha-Tocopherol acetate: Daripada Penggunaan Asal kepada Osteoporosis Teraruh Ubat
+## alpha-Tocopherol acetate: Daripada Penggunaan Asal kepada Osteoporosis Teraruh Ubat (Ramalan Utama)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Alpha-tocopherol acetate ialah bentuk asetat bagi vitamin E, sejenis antioksidan larut lemak. Data yang dikumpulkan untuk laporan ini tidak mencatatkan indikasi asal yang diluluskan di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **osteoporosis teraruh ubat**, namun setakat ini **tiada ujian klinikal** dan **tiada literatur** yang menyokong ramalan ini secara langsung (tahap bukti L5).
-
-> Nota: Calon ramalan lain termasuk pelbagai jenis katarak dan retinopati diabetik. Laporan ini memberi tumpuan kepada ramalan kedudukan pertama, dengan ringkasan calon lain di bahagian akhir.
+Alpha-tocopherol acetate ialah bentuk vitamin E yang di Malaysia hanya didaftarkan sebagai komponen produk gabungan (suplemen multivitamin dan produk sokongan hati), dan teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Model TxGNN meramalkan ia mungkin berguna untuk **osteoporosis teraruh ubat** (skor 0.9999), tetapi **tiada sebarang percubaan klinikal** dan **tiada sebarang penerbitan** yang mengkaji penyakit ini secara langsung.
+Sokongan paling hampir ialah 3 kajian praklinikal untuk **katarak diabetik** dan **retinopati diabetik**, jadi ramalan ini masih pada tahap spekulatif.
 
 ---
 
 ## Gambaran Ringkas
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi diluluskan dalam data yang dikumpulkan |
-| Indikasi Baharu yang Diramal | Osteoporosis teraruh ubat |
-| Skor Ramalan TxGNN | 99.99% |
+| Indikasi Asal | Tiada teks indikasi yang diluluskan dalam data pendaftaran tempatan |
+| Indikasi Baharu yang Diramalkan | Osteoporosis teraruh ubat |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | ✗ Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan yang Disyorkan | Hold |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, alpha-tocopherol acetate ialah bentuk vitamin E yang berfungsi sebagai antioksidan larut lemak. Hubungan yang mungkin ialah aktiviti antioksidan boleh mengurangkan kehilangan tulang akibat tekanan oksidatif.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia. Berdasarkan maklumat sedia ada, alpha-tocopherol acetate ialah bentuk ester vitamin E, antioksidan larut lemak yang melindungi membran sel daripada kerosakan oksidatif.
 
-Namun, hubungan ini bersifat spekulatif dan tidak disokong oleh data yang dikemukakan. Bukti epidemiologi tentang vitamin E dan kesihatan tulang bercampur-campur, dan dos tinggi dicadangkan berpotensi memudaratkan tulang. Oleh itu, arah kesan (bermanfaat atau memudaratkan) masih tidak pasti.
+Secara teori, tekanan oksidatif menyumbang kepada kehilangan tulang, jadi antioksidan boleh mengurangkan kerosakan ini. Namun, data epidemiologi tentang vitamin E dan kesihatan tulang bercampur-campur, dan sesetengah laporan mencadangkan pengambilan dos tinggi mungkin memudaratkan. Hubungan ini kekal spekulatif dan tiada bukti yang dibekalkan untuk menyokongnya.
 
-Ramalan ini datang daripada graf pengetahuan TxGNN sahaja, tanpa sokongan ujian atau literatur.
+### Ramalan Lain dengan Skor Tinggi
+
+Sepuluh ramalan teratas kebanyakannya berkaitan mata, dengan skor antara 0.9999 dan 0.9999:
+
+| Kedudukan | Penyakit Diramalkan | Skor TxGNN | Tahap Bukti | Cadangan |
+|------|------|------|------|------|
+| 1 | Osteoporosis teraruh ubat | 0.9999 | L5 | Hold |
+| 2 | Katarak diabetik | 0.9999 | L5 | Hold |
+| 3 | Katarak tetanik | 0.9999 | L5 | Hold |
+| 4 | Katarak matang | 0.9999 | L5 | Hold |
+| 5 | Katarak belum matang | 0.9999 | L5 | Hold |
+| 6 | Katarak berkaitan diabetes jenis 2 | 0.9999 | L5 | Hold |
+| 7 | Katarak kraniostenosis | 0.9999 | L5 | Hold |
+| 8 | Katarak kortikal | 0.9999 | L5 | Hold |
+| 9 | Katarak senil nukleus | 0.9999 | L5 | Hold |
+| 10 | Retinopati diabetik | 0.9999 | L5 | Soalan Penyelidikan |
+
+Untuk **retinopati diabetik**, tekanan oksidatif akibat hiperglisemia, gangguan glutamat retina dan pengaktifan faktor transkripsi sensitif-redoks (cth. NF-kB) terlibat dalam penyakit ini. Dua kajian praklinikal yang dibekalkan menyokong mekanisme yang munasabah secara biologi, tetapi tajuknya merujuk kepada antioksidan sebagai satu kelas, jadi peranan khusus alpha-tocopherol acetate tidak dapat disahkan.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk osteoporosis teraruh ubat.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia untuk indikasi ini.
+Tiada literatur berkaitan tersedia untuk osteoporosis teraruh ubat. Sebagai rujukan, literatur yang dibekalkan untuk ramalan lain (semuanya praklinikal, tidak membuktikan keberkesanan pada manusia):
+
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama | Penyakit Berkaitan |
+|------|-----|------|------|---------|------|
+| [12770645](https://pubmed.ncbi.nlm.nih.gov/12770645/) | 2003 | Kajian haiwan | J Nutr Biochem | Suplemen dl-alpha-tocopherol acetate dikaji pada tikus dengan tekanan oksidatif akibat karbon tetraklorida; bukan model diabetes atau katarak, jadi sokongan hanya tidak langsung | Katarak diabetik |
+| [11222918](https://pubmed.ncbi.nlm.nih.gov/11222918/) | 2001 | Praklinikal | Neurochem Int | Kesan suplemen antioksidan terhadap perubahan glutamat retina pada tikus diabetes | Retinopati diabetik |
+| [14703729](https://pubmed.ncbi.nlm.nih.gov/14703729/) | 2003 | Praklinikal | Free Radic Res | Antioksidan menghalang pengaktifan NF-kB retina akibat diabetes pada tikus | Retinopati diabetik |
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Pada masa ini tiada pendaftaran NPRA bagi ubat ini di Malaysia (status: tidak dipasarkan).
+Kelima-lima pendaftaran ialah produk gabungan dan sah. Status pasaran produk gabungan tidak boleh digunakan untuk menggambarkan bagaimana bahan tunggal ini diluluskan atau dipasarkan. Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL11060067XC | Shine Oramin Natural Korean Ginseng + Royal Jelly with Multivitamins and Minerals. | Tiada data | Tiada data |
+| MAL06061350X | Livovid | Tiada data | Tiada data |
+| MAL11070020X | VITASEN Daily Multi for Adults Chewable Tablet | Tiada data | Tiada data |
+| MAL19016015N | Shine Goldvite F Softgel | Tiada data | Tiada data |
+| MAL10021840X | SEVEN SEAS LIVOPRO | Tiada data | Tiada data |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pembungkusan untuk maklumat keselamatan. Tiada interaksi ubat direkodkan dalam data yang dikumpulkan, tetapi ini tidak bermakna tiada interaksi wujud.
+Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran, kontraindikasi dan interaksi ubat tidak ditemui dalam data yang dikumpulkan untuk laporan ini.
 
----
-
-## Ringkasan Calon Ramalan Lain
-
-| Kedudukan | Penyakit | Skor | Tahap Bukti | Catatan |
-|------|------|------|------|------|
-| 2 | Katarak diabetik | 99.99% | L5 | Satu kajian haiwan tidak spesifik (PMID 12770645, model kerosakan hati) sebagai sokongan tidak langsung |
-| 3 | Katarak berkaitan diabetes jenis 2 | 99.99% | L5 | Tiada bukti; logik antioksidan sama |
-| 4 | Katarak tetanik | 99.99% | L5 | Puncanya hipokalsemia; kaitan antioksidan lemah |
-| 5 | Katarak kraniostenosis | 99.99% | L5 | Sindrom jarang; tiada kaitan mekanisme jelas |
-| 6 | Katarak tidak matang | 99.99% | L5 | Peringkat deskriptif; tiada bukti |
-| 7 | Katarak matang | 99.99% | L5 | Kekeruhan lanjut; kecil kemungkinan boleh dipulihkan |
-| 8 | Katarak kortikal | 99.99% | L5 | Kerosakan oksidatif membran kanta; tiada bukti |
-| 9 | Katarak nuklear senil | 99.99% | L5 | Pengoksidaan protein nukleus kanta; tiada bukti |
-| 10 | Retinopati diabetik | 99.99% | L4 | Dua kajian praklinikal pada tikus (PMID 11222918, 14703729) |
-
-Skor yang serupa bagi banyak entri katarak menunjukkan ramalan mungkin tersebar melalui struktur kategori penyakit dalam graf, bukan bukti khusus bagi setiap indikasi.
-
-Bagi retinopati diabetik, dua kajian praklinikal (Kowluru et al., 2001 dan 2003) menunjukkan antioksidan mempengaruhi glutamat retina dan pengaktifan faktor transkripsi NF-kB pada tikus diabetes. Ini hanya sokongan mekanistik tidak langsung, dan antioksidan khusus yang diuji dalam setiap kajian perlu disahkan kerana tajuk sebahagiannya terpotong. Ia satu-satunya calon dengan syor "Research Question".
+Satu nota berhati-hati: laporan menyebut bahawa pengambilan vitamin E dos tinggi mungkin memudaratkan tulang. Perkara ini perlu disahkan melalui sumber luaran.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan osteoporosis teraruh ubat hanya berasaskan model (L5), tanpa ujian klinikal atau literatur, dan arah kesan vitamin E terhadap tulang tidak pasti.
-- Ubat ini tidak dipasarkan di Malaysia, dan data keselamatan asas tidak lengkap.
+Ramalan utama (osteoporosis teraruh ubat) hanya berasaskan model tanpa sebarang percubaan klinikal atau penerbitan, maka tahap buktinya L5. Hubungan mekanismenya spekulatif dan data epidemiologi bercampur-campur. Hanya retinopati diabetik mempunyai sokongan praklinikal yang ketara (cadangan: soalan penyelidikan), tetapi ia belum menunjukkan peranan khusus alpha-tocopherol acetate.
 
-**Untuk diteruskan, perkara berikut diperlukan:**
-- Maklumat amaran dan kontraindikasi daripada sisipan pembungkusan NPRA (jurang data yang menghalang saringan keselamatan)
-- Data mekanisme tindakan (MOA) terperinci
-- Semakan sistematik bukti epidemiologi dan RCT luaran mengenai vitamin E dan kesihatan tulang, termasuk risiko pada dos tinggi
-- Pengesahan keserasian laluan pentadbiran dan kesamaan dengan indikasi asal
-- Pertimbangan untuk menyiasat retinopati diabetik sebagai persoalan penyelidikan (tahap L4), bermula dengan semakan kajian praklinikal sedia ada
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi), yang menghalang saringan keselamatan peringkat seterusnya
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
+- Teks indikasi yang diluluskan bagi produk berdaftar
+- Kajian klinikal atau semakan sistematik tentang vitamin E dan osteoporosis teraruh ubat
+- Pengesahan sama ada kesan antioksidan dalam kajian praklinikal retina boleh dikaitkan secara khusus dengan alpha-tocopherol acetate
+- Analisis keserasian laluan pentadbiran dan penilaian kesan dos tinggi terhadap tulang
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

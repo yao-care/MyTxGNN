@@ -4,17 +4,17 @@ title: Clopidogrel
 parent: Low Evidence (L4-L5)
 nav_order: 238
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Clopidogrel: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Sindrom koronari akut"
+description: "Clopidogrel: indikasi baharu diramal Migrain dengan aura batang otak (migraine with brainstem aura) (tahap bukti L5). Indikasi asal: Sindrom koronari akut"
 monitor_inn: "CLOPIDOGREL"
-predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "osteoarthritis susceptibility"]
+predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis"]
 ---
 
 # Clopidogrel
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **8** 
+Tahap bukti: **L5** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-## Clopidogrel: Daripada Sindrom Koronari Akut kepada Gangguan Migrain
+## Clopidogrel: Daripada Sindrom Koronari Akut kepada Migrain dengan aura batang otak
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -42,7 +42,7 @@ Clopidogrel ialah ubat antiplatelet (perencat P2Y12) yang pada asalnya digunakan
 Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan migrain (migraine disorder)**, terutamanya migrain yang berkaitan dengan foramen ovale paten (PFO) atau selepas penutupan kecacatan septum atrium,
 dengan **6 percubaan klinikal** dan **20 penerbitan** yang dikumpulkan untuk calon ini.
 
-> Nota: Ramalan teratas TxGNN ialah "migrain dengan aura batang otak" (skor 99.44%). Namun bukti paling kukuh terdapat pada "gangguan migrain" (kedudukan ke-2, skor 99.44%). Laporan ini menumpukan pada ramalan kedudukan ke-2 kerana ia mempunyai bukti klinikal langsung, dan menyebut ramalan pertama sebagai perbandingan.
+> Nota: Ramalan teratas TxGNN ialah "migrain dengan aura batang otak" (skor 0.9944). Namun bukti paling kukuh terdapat pada "gangguan migrain" (kedudukan ke-2, skor 0.9944). Laporan ini menumpukan pada ramalan kedudukan ke-2 kerana ia mempunyai bukti klinikal langsung, dan menyebut ramalan pertama sebagai perbandingan.
 
 ---
 
@@ -52,10 +52,10 @@ dengan **6 percubaan klinikal** dan **20 penerbitan** yang dikumpulkan untuk cal
 |------|------|
 | Indikasi Asal | Sindrom koronari akut; embolisme intrakranial; infarksi miokardium dengan peningkatan segmen ST (daripada graf pengetahuan TxGNN) |
 | Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder); ramalan kedudukan pertama: migrain dengan aura batang otak |
-| Skor Ramalan TxGNN | 99.44% (gangguan migrain); 99.44% (migrain dengan aura batang otak) |
-| Tahap Bukti | L2 (gangguan migrain); L3 (migrain dengan aura batang otak) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9944 (gangguan migrain); 0.9944 (migrain dengan aura batang otak) |
+| Tahap Bukti | L5 (gangguan migrain); L3 (migrain dengan aura batang otak) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 23 daripada 23) |
+| Bilangan Pendaftaran | 23 (sah: 23) |
 | Keputusan Disyorkan | Hold (dengan satu soalan penyelidikan yang boleh diteruskan untuk subkumpulan PFO) |
 
 ---

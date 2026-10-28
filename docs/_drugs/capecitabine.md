@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Capecitabine
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 191
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Capecitabine: indikasi baharu diramal Neoplasma gastrik (tahap bukti L1). Indikasi asal: Metastasis daripada tumor malignan kolon"
+evidence_level: L5
+indication_count: 1
+monitor_inn: "Capecitabine"
+predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
+last_modified_at: 2026-10-27
+description: "Capecitabine: indikasi baharu diramal Adenokarsinoma gaster dan poliposis proksimal gaster (gastric adenocarcinoma and proximal polyposis of the stomach) (tahap bukti L5). Indikasi asal: Tidak direko…"
 ---
 
 # Capecitabine
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,126 +33,75 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-## Capecitabine: Daripada Kanser Kolon Metastatik dan Kanser Gastrik kepada Neoplasma Gastrik
+## Capecitabine: Prodrug 5-fluorourasil (perencat timidilat sintase) → Adenokarsinoma gaster dan poliposis proksimal gaster (gastric adenocarcinoma and proximal polyposis of the stomach)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Capecitabine ialah prodrug oral kepada 5-fluorouracil (5-FU) yang pada asalnya digunakan untuk merawat kanser kolon metastatik dan kanser gastrik.
-Model TxGNN meramalkan ia berkesan untuk **neoplasma gastrik**, dengan **35 percubaan klinikal** dan **20 penerbitan** yang disenaraikan dalam data yang dikumpulkan untuk laporan ini.
-Perlu diingat bahawa ini lebih merupakan penemuan semula indikasi sedia ada berbanding repurposing yang sebenar.
-
----
+Capecitabine ialah ubat kemoterapi oral jenis prodrug yang ditukar menjadi 5-fluorourasil dalam badan, dan telah didaftarkan di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **adenokarsinoma gaster dan poliposis proksimal gaster (gastric adenocarcinoma and proximal polyposis of the stomach)**,
+tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** dalam data yang dikumpulkan untuk laporan ini yang menyokong arah ini.
 
 ## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Metastasis daripada tumor malignan kolon; kanser gastrik (sumber: graf pengetahuan TxGNN/PrimeKG, bukan label NPRA) |
-| Indikasi Baharu yang Diramalkan | Neoplasma gastrik |
-| Skor Ramalan TxGNN | 0.00% (nilai skor dalam data ialah 0.0, justeru perlu disahkan semula) |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data NPRA yang dikumpulkan; perlu disahkan kerana bercanggah dengan penggunaan klinikal yang meluas) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
-
----
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Adenokarsinoma gaster dan poliposis proksimal gaster (gastric adenocarcinoma and proximal polyposis of the stomach) |
+| Skor Ramalan TxGNN | 0,9994 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 12) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan. Namun, berdasarkan maklumat yang diketahui, capecitabine ialah prodrug oral 5-FU yang ditukarkan secara lebih selektif dalam tisu tumor oleh enzim thymidine phosphorylase. 5-FU merencat thymidylate synthase dan dimasukkan ke dalam RNA/DNA, lalu menyebabkan sitotoksisiti pada sel tumor yang membahagi dengan pantas.
+Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan farmakologi umum, capecitabine ialah prodrug yang ditukar menjadi 5-fluorourasil. Bahan ini merencat timidilat sintase dan diselitkan ke dalam RNA dan DNA, lalu bersifat sitotoksik terhadap sel yang membahagi dengan pesat, termasuk sel adenokarsinoma gaster.
 
-Kanser kolon dan kanser gastrik kedua-duanya ialah tumor saluran gastrousus yang responsif terhadap fluoropirimidin. Capecitabine sudah menjadi tulang belakang regimen fluoropirimidin-platinum (contohnya CAPOX/XELOX) dalam kanser gastrik, termasuk dalam rawatan adjuvan (percubaan CLASSIC) dan rawatan lini pertama paliatif. Oleh itu, ramalan ini selaras dengan amalan klinikal sedia ada.
+GAPPS ialah sindrom keturunan yang jarang berlaku, dikaitkan dengan mutasi promoter 1B gen APC dan membawa risiko adenokarsinoma gaster jenis usus. Oleh itu, sebarang manfaat yang mungkin hanya terhad kepada rawatan komponen adenokarsinoma, bukan poliposis asas atau punca genetiknya.
 
-Ramalan lain dalam senarai turut perlu diberi perhatian: *linitis plastica* gastrik (subjenis meresap, Borrmann jenis 4) menggunakan mekanisme yang sama, tetapi subjenis ini agak rintang kepada kemoterapi dan prognosisnya lemah. Tiada bukti khusus subjenis untuk capecitabine dalam data yang dikumpulkan.
+Skor ramalan sangat tinggi (0,9994), tetapi ia kelihatan mencerminkan kedekatan dengan penyakit kanser gaster yang berkaitan dengan capecitabine, bukan isyarat penggunaan semula yang bebas. Tiada data khusus GAPPS dalam bukti yang ada, dan pautan mekanisme ini belum disahkan dengan data yang disediakan.
 
----
+## Maklumat Pasaran Malaysia
 
-## Bukti Percubaan Klinikal
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL21126009AZ | CAPIIBINE 150 (Capecitabine Film-Coated Tablets 150mg USP) | – | Tidak direkodkan dalam data tempatan |
+| MAL21126008AZ | CAPIIBINE 500 (Capecitabine Film-Coated Tablets 500mg USP) | – | Tidak direkodkan dalam data tempatan |
+| MAL17117026AZ | INTACAPE 500MG TABLETS | – | Tidak direkodkan dalam data tempatan |
+| MAL23066015ACZ | CAPTAB Capecitabine 150 mg Film Coated Tablets | – | Tidak direkodkan dalam data tempatan |
+| MAL23066016ACZ | CAPTAB Capecitabine 500 mg Film Coated Tablets | – | Tidak direkodkan dalam data tempatan |
 
-Berikut ialah percubaan yang paling relevan untuk neoplasma gastrik (daripada 35 percubaan yang disenaraikan; jadual dihadkan kepada 10):
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT03653507](https://clinicaltrials.gov/study/NCT03653507) | Fasa 3 | Aktif, tidak merekrut | 507 | Zolbetuximab + CAPOX berbanding plasebo + CAPOX sebagai rawatan lini pertama adenokarsinoma gastrik/GEJ CLDN18.2-positif |
-| [NCT02494583](https://clinicaltrials.gov/study/NCT02494583) | Fasa 3 | Selesai | 763 | Pembrolizumab ± kemoterapi (cisplatin + 5-FU atau capecitabine) pada adenokarsinoma gastrik/GEJ lanjutan |
-| [NCT00680901](https://clinicaltrials.gov/study/NCT00680901) | Fasa 3 | Selesai | 545 | Capecitabine + oxaliplatin dengan atau tanpa lapatinib pada adenokarsinoma gastrik/esofagus ErbB2-positif |
-| [NCT02314117](https://clinicaltrials.gov/study/NCT02314117) | Fasa 3 | Selesai | 645 | Capecitabine + cisplatin dengan atau tanpa ramucirumab (RAINFALL) pada kanser gastrik metastatik |
-| [NCT07315750](https://clinicaltrials.gov/study/NCT07315750) | Fasa 3 | Merekrut | 555 | Disitamab vedotin + trastuzumab + tislelizumab berbanding CAPOX + trastuzumab pada kanser gastrik HER2 tinggi (belum ada keputusan) |
-| [NCT02004769](https://clinicaltrials.gov/study/NCT02004769) | Fasa 2 | Selesai | 67 | Trastuzumab + docetaxel + capecitabine sebagai rawatan lini pertama kanser gastrik HER2-positif |
-| [NCT00675194](https://clinicaltrials.gov/study/NCT00675194) | Fasa 2 | Selesai | 120 | Irinotecan + capecitabine berbanding cisplatin + capecitabine pada adenokarsinoma gastrik lanjutan |
-| [NCT01187212](https://clinicaltrials.gov/study/NCT01187212) | Fasa 2 | Selesai | 195 | Capecitabine + cisplatin dengan atau tanpa sorafenib pada kanser gastrik lanjutan |
-| [NCT01516944](https://clinicaltrials.gov/study/NCT01516944) | Fasa 2/3 | Selesai | 749 | Perbandingan S-1 + oxaliplatin dengan capecitabine + oxaliplatin perioperatif pada kanser gastrik lanjutan setempat |
-| [NCT00130936](https://clinicaltrials.gov/study/NCT00130936) | Fasa 1/2 | Ditamatkan | 50 | Epirubicin + carboplatin + capecitabine; ditamatkan awal sehingga bukti terhad |
-
----
-
-## Bukti Literatur
-
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [22226517](https://pubmed.ncbi.nlm.nih.gov/22226517/) | 2012 | RCT | Lancet | Kemoterapi adjuvan capecitabine + oxaliplatin selepas gastrektomi D2 (CLASSIC) |
-| [25439693](https://pubmed.ncbi.nlm.nih.gov/25439693/) | 2014 | RCT | Lancet Oncol | Susulan 5 tahun CLASSIC: capecitabine + oxaliplatin adjuvan |
-| [30982686](https://pubmed.ncbi.nlm.nih.gov/30982686/) | 2019 | RCT | Lancet | FLOT4: kemoterapi perioperatif berbanding fluorouracil atau capecitabine + cisplatin + epirubicin |
-| [38906161](https://pubmed.ncbi.nlm.nih.gov/38906161/) | 2024 | RCT | Lancet Gastroenterol Hepatol | ATTRACTION-5: nivolumab adjuvan + kemoterapi pada kanser gastrik peringkat III |
-| [39162872](https://pubmed.ncbi.nlm.nih.gov/39162872/) | 2024 | RCT | Gastric Cancer | Susulan 3 tahun ATTRACTION-4: nivolumab + kemoterapi |
-| [21415237](https://pubmed.ncbi.nlm.nih.gov/21415237/) | 2011 | Meta-analisis | Ann Oncol | Capecitabine berbanding 5-FU dalam kanser kolorektal dan gastrik (6171 pesakit) |
-| [21950464](https://pubmed.ncbi.nlm.nih.gov/21950464/) | 2012 | Tinjauan/meta-analisis | J Clin Pharm Ther | Keberkesanan, keselamatan dan etnisiti capecitabine dalam kanser gastrik lanjutan |
-| [26470733](https://pubmed.ncbi.nlm.nih.gov/26470733/) | 2015 | Tinjauan | Expert Rev Gastroenterol Hepatol | Capecitabine sama berkesan dan diterima baik seperti 5-FU infusi; telah menggantikan 5-FU infusi untuk kanser gastrik |
-| [17956204](https://pubmed.ncbi.nlm.nih.gov/17956204/) | 2007 | Tinjauan | Expert Opin Pharmacother | Capecitabine dalam kanser gastrik lanjutan |
-| [34275019](https://pubmed.ncbi.nlm.nih.gov/34275019/) | 2021 | Tinjauan sistematik/meta-analisis | Eur J Clin Pharmacol | Perbandingan kemoterapi adjuvan berasaskan S-1 dengan berasaskan capecitabine |
-
----
-
-## Maklumat Pasaran di Malaysia
-
-Menurut data yang dikumpulkan untuk laporan ini, tiada pendaftaran capecitabine direkodkan di NPRA (jumlah pendaftaran: 0, status: tidak dipasarkan). Maklumat ini bercanggah dengan penggunaan klinikal capecitabine yang meluas dan perlu disahkan semula terhadap pangkalan data NPRA.
-
----
+Sebanyak 12 kebenaran sah didaftarkan; lima yang pertama disenaraikan di atas.
 
 ## Sitotoksisiti
 
 | Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (kelas fluoropirimidin, prodrug 5-FU) |
-| Risiko Penindasan Sumsum Tulang | Sederhana (neutropenia dan trombositopenia lazim; rujuk label produk) |
-| Klasifikasi Emetogenisiti | Rendah hingga sederhana |
-| Item Pemantauan | Hitung darah lengkap (CBC dengan pembezaan), fungsi hati dan buah pinggang, bilirubin |
-| Perlindungan Pengendalian | Perlu mengikut garis panduan pengendalian ubat sitotoksik |
-
-Nota: butiran di atas ialah ringkasan umum bagi kelas ubat ini; sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej.
-
----
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (kelas fluoropirimidina) |
+| Risiko Mielosupresi | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pek |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pek |
+| Perkara Pemantauan | Sila rujuk sisipan pek; parameter hematologi (CBC), fungsi hati dan buah pinggang lazimnya dipantau |
+| Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
 
 ## Pertimbangan Keselamatan
 
-**Kontraindikasi/keadaan berisiko mengikut graf pengetahuan** (bukan teks label; perlu disahkan dengan sisipan pakej): kekurangan dihydropyrimidine dehydrogenase (DPD), neutropenia, trombositopenia, agranulositosis, anemia, penyakit hati, hiperbilirubinemia (termasuk sindrom Gilbert), fungsi buah pinggang terjejas, penyakit arteri koronari, penyakit konduksi jantung, henti jantung mengejut, stomatitis, enterokolitis nekrotik, penyakit pundi hempedu dan penyakit berjangkit.
+- **Interaksi Ubat**: Pangkalan data interaksi merekodkan 100 interaksi. Antara yang disenaraikan, tahap **Sederhana** ialah metronidazol dan tinidazol. Tahap **Ringan** termasuk aluminium hidroksida, levofloksasin, magaldrat, magnesium karbonat, magnesium hidroksida dan magnesium oksida. Beberapa ubat lain (contohnya pantoprazol, omeprazol, lansoprazol, metformin, simvastatin, prednison) tidak diklasifikasikan tahapnya.
 
-**Interaksi Ubat** (100 interaksi direkodkan; contoh utama):
-- **Sederhana**: metronidazole, tinidazole
-- **Minor**: aluminium hydroxide, levofloxacin, magaldrate, magnesium carbonate, magnesium hydroxide, magnesium oxide
-- **Tahap tidak diketahui**: antara lain pantoprazole, omeprazole, lansoprazole, metformin, glimepiride, simvastatin, morphine, prednisone
-
-Kajian kes dalam literatur turut melaporkan kolitis akibat capecitabine (PMID 24947412).
-
-Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
-
----
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek bagi maklumat keselamatan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Bukti tahap L1 kukuh: beberapa percubaan Fasa 3 yang selesai dan RCT (contohnya CLASSIC) menyokong penggunaan capecitabine dalam kanser gastrik, dan ia sudah menjadi komponen standard regimen CAPOX. Ini ialah penemuan semula indikasi sedia ada, bukan repurposing baharu.
+Ramalan ini tidak disokong oleh sebarang ujian klinikal atau penerbitan yang mengkaji penyakit ini secara langsung, maka tahap bukti ialah L5. Skor tinggi kemungkinan hanya mencerminkan kedekatan dengan kanser gaster biasa, dan manfaat terhad kepada komponen adenokarsinoma sahaja.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi rasmi (jurang data yang menyekat saringan keselamatan)
-- Data mekanisme tindakan (MOA) rasmi daripada DrugBank
-- Pengesahan status pendaftaran di Malaysia, kerana data semasa (0 pendaftaran) bercanggah dengan penggunaan klinikal
-- Pengesahan skor ramalan TxGNN (nilai dalam data ialah 0.0)
-- Ujian status DPD sebelum rawatan dan pelan pemantauan keselamatan hematologi untuk populasi berisiko
-- Bukti khusus subjenis untuk *linitis plastica* sekiranya subjenis ini menjadi tumpuan
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Data klinikal atau penerbitan khusus untuk GAPPS
+- Data mekanisme tindakan (MOA) yang disahkan
+- Amaran dan kontraindikasi daripada sisipan pek NPRA
+- Penilaian keselamatan lanjut bagi pesakit dengan kekurangan DPD, gangguan hati atau buah pinggang, dan penindasan sumsum tulang
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

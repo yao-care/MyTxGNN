@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Mefenamic Acid
-parent: Low Evidence (L4-L5)
+parent: High Evidence (L1-L2)
 nav_order: 489
-evidence_level: L5
-indication_count: 8
+evidence_level: L2
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Mefenamic Acid: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L5). Indikasi asal: Tiada maklumat indikasi diluluskan kerana tiada pendaftaran di Malays…"
 monitor_inn: "MEFENAMIC ACID"
-predicted_indications: ["rheumatoid arthritis", "osteoarthritis susceptibility", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
+predicted_indications: ["rheumatoid arthritis", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
+description: "Mefenamic Acid: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Mefenamic Acid
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **8** 
+Tahap bukti: **L2** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-## Asid Mefenamik: Daripada Ubat Antiradang Bukan Steroid (NSAID) kepada Artritis Reumatoid
+## Mefenamic Acid: Artritis reumatoid (rheumatoid arthritis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ Asid mefenamik ialah ubat antiradang bukan steroid (NSAID) yang digunakan untuk 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada maklumat indikasi diluluskan kerana tiada pendaftaran di Malaysia dalam data yang dikumpulkan |
-| Indikasi Baharu yang Diramalkan | Artritis reumatoid (*rheumatoid arthritis*) |
-| Skor Ramalan TxGNN | 99.73% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Artritis reumatoid (rheumatoid arthritis) |
+| Skor Ramalan TxGNN | 0.9973 |
 | Tahap Bukti | L2 (berdasarkan RCT lama daripada literatur, tanpa percubaan berdaftar) |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 36) |
+| Bilangan Pendaftaran | 36 (sah: 36) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -60,7 +60,7 @@ Asid mefenamik ialah ubat antiradang bukan steroid (NSAID) yang digunakan untuk 
 
 Asid mefenamik ialah perencat COX-1/COX-2 yang mengurangkan sintesis prostaglandin. Prostaglandin berperanan dalam keradangan dan kesakitan pada artritis reumatoid. Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan. Namun mekanisme kelas NSAID ini sepadan dengan simptom utama penyakit tersebut, iaitu sendi sakit, bengkak dan kaku pada waktu pagi.
 
-Beberapa kajian klinikal lama (1967–1979) membandingkan asid mefenamik secara langsung dengan NSAID lain dalam pesakit artritis reumatoid. Ubat ini hanya melegakan simptom dan tidak mengubah perjalanan penyakit (*disease-modifying*). NSAID yang lebih diterima baik dan DMARD kini menjadi rawatan standard. Skor TxGNN yang sangat tinggi (0.997) sebahagian besarnya mencerminkan aktiviti kelas NSAID yang sudah diketahui, dan bukan penemuan baharu yang khusus.
+Beberapa kajian klinikal lama (1967–1979) membandingkan asid mefenamik secara langsung dengan NSAID lain dalam pesakit artritis reumatoid. Ubat ini hanya melegakan simptom dan tidak mengubah perjalanan penyakit (*disease-modifying*). NSAID yang lebih diterima baik dan DMARD kini menjadi rawatan standard. Skor TxGNN yang sangat tinggi (0.9973) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan antara penyakit berkaitan yang dipelajari oleh model, bukan bukti biologi; skor ini sebahagian besarnya mencerminkan aktiviti kelas NSAID yang sudah diketahui, dan bukan penemuan baharu yang khusus.
 
 ---
 
@@ -112,7 +112,6 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk risalah pek produk.
 
 **Justifikasi:**
 - Terdapat beberapa RCT lama yang menunjukkan kelegaan simptom dalam artritis reumatoid, tetapi tiada percubaan berdaftar atau bukti moden. Ubat ini juga tidak mengubah perjalanan penyakit, dan pilihan NSAID serta DMARD yang lebih baik sudah menjadi standard.
-- Ubat ini tidak dipasarkan di Malaysia (0 pendaftaran), dan data keselamatan rasmi belum lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Risalah pek NPRA (amaran dan kontraindikasi) bagi menyelesaikan jurang data keselamatan.
@@ -120,7 +119,7 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk risalah pek produk.
 - Kajian klinikal moden yang membandingkan asid mefenamik dengan NSAID semasa dalam artritis reumatoid.
 - Penilaian keperluan klinikal dan kelebihan berbanding rawatan standard semasa.
 
-**Nota mengenai calon indikasi lain:** data yang dikumpulkan menunjukkan **gangguan migrain** (skor TxGNN 99.23%, Tahap Bukti L2) mempunyai sokongan lebih kukuh daripada artritis reumatoid. Buktinya ialah RCT *double-blind* dalam migrain menstrual dan profilaksis migrain, serta garis panduan AAN. Calon ini dinilai sebagai "Proceed with Guardrails". Syor pagar pengadang ialah rawatan pendek pada tempoh perimenstrual, serta pemantauan risiko gastrousus, buah pinggang dan sakit kepala akibat penggunaan ubat berlebihan. Calon ini wajar dinilai dalam laporan berasingan.
+**Nota mengenai calon indikasi lain:** data yang dikumpulkan menunjukkan **gangguan migrain** (skor TxGNN 0.9923, Tahap Bukti L2) mempunyai sokongan lebih kukuh daripada artritis reumatoid. Buktinya ialah RCT *double-blind* dalam migrain menstrual dan profilaksis migrain, serta garis panduan AAN. Calon ini dinilai sebagai "Proceed with Guardrails". Syor pagar pengadang ialah rawatan pendek pada tempoh perimenstrual, serta pemantauan risiko gastrousus, buah pinggang dan sakit kepala akibat penggunaan ubat berlebihan. Calon ini wajar dinilai dalam laporan berasingan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

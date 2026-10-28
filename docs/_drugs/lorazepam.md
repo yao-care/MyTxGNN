@@ -4,17 +4,17 @@ title: Lorazepam
 parent: Low Evidence (L4-L5)
 nav_order: 476
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Lorazepam: indikasi baharu diramal Neoplasma saraf trigeminal (tahap bukti L5). Indikasi asal: Gangguan kebimbangan, status epilepticus, sindrom Lennox-Gastaut…"
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
+description: "Lorazepam: indikasi baharu diramal Neoplasma saraf trigeminal (trigeminal nerve neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Lorazepam
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Lorazepam: Daripada Gangguan Kebimbangan dan Epilepsi kepada Neoplasma Saraf Trigeminal
+## Lorazepam: Neoplasma saraf trigeminal (trigeminal nerve neoplasm)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Lorazepam ialah ubat daripada kumpulan benzodiazepin, yang pada asalnya digunakan untuk merawat gangguan kebimbangan dan sawan (termasuk *status epilepticus*).
-Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma saraf trigeminal**, tetapi buat masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini, jadi ramalan ini hanya berasaskan model graf.
+Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **neoplasma saraf trigeminal**, tetapi buat masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini datang daripada model TxGNN dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi.
 
 ---
 
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma saraf trigeminal**,
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Gangguan kebimbangan, *status epilepticus*, sindrom Lennox-Gastaut, epilepsi absans dan lain-lain (berdasarkan graf pengetahuan TxGNN/PrimeKG, kerana tiada rekod lesen tempatan) |
-| Indikasi Baharu yang Diramalkan | Neoplasma saraf trigeminal |
-| Skor Ramalan TxGNN | 99.87% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Neoplasma saraf trigeminal (trigeminal nerve neoplasm) |
+| Skor Ramalan TxGNN | 0.9987 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma saraf trigeminal**,
 
 Data terperinci mengenai mekanisme tindakan lorazepam tidak terdapat dalam data yang dikompilasi untuk laporan ini. Berdasarkan farmakologi yang diketahui, lorazepam ialah modulator alosterik positif reseptor GABA-A. Ia mengukuhkan perencatan saraf, sekali gus menghasilkan kesan penenang, antikebimbangan dan antikonvulsan.
 
-Indikasi asal (kebimbangan dan sawan) berkait dengan hiperkeupayaan neuron, dan mekanisme GABAergik sesuai untuk keadaan tersebut. Sebaliknya, tiada mekanisme antitumor yang munasabah dan mantap bagi lorazepam terhadap tumor saraf trigeminal. Skor TxGNN yang tinggi mungkin hanya mencerminkan hubungan dalam graf pengetahuan, seperti kaitan dengan gejala saraf. Paling jauh, lorazepam mungkin berguna untuk kawalan simptom (contohnya kebimbangan atau sedasi semasa prosedur). Itu bukan indikasi yang mengubah perjalanan penyakit.
+Indikasi asal (kebimbangan dan sawan) berkait dengan hiperkeupayaan neuron, dan mekanisme GABAergik sesuai untuk keadaan tersebut. Sebaliknya, tiada mekanisme antitumor yang munasabah dan mantap bagi lorazepam terhadap tumor saraf trigeminal. Skor TxGNN yang tinggi (0.9987) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin hanya mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Paling jauh, lorazepam mungkin berguna untuk kawalan simptom (contohnya kebimbangan atau sedasi semasa prosedur). Itu bukan indikasi yang mengubah perjalanan penyakit.
 
 ---
 
@@ -103,12 +103,11 @@ Pada masa ini tiada literatur berkaitan.
 
 **Rasional:**
 - Ramalan ini berada pada tahap bukti L5 (ramalan model sahaja), tanpa ujian klinikal atau literatur, dan tiada mekanisme antitumor yang munasabah. Lorazepam juga tidak berdaftar di Malaysia.
-- Sebagai catatan, calon lain dalam senarai ramalan yang sama mempunyai bukti lebih kukuh, iaitu **insomnia** (L3, beberapa kajian klinikal lama pada 1988 dan 1999) dan **sawan refleks serta sawan akut** (L4, bukti tidak langsung). Namun penggunaan ini hampir sama dengan penggunaan luar label atau indikasi sedia ada, bukannya peluang repurposing yang baharu.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan bungkusan rasmi (amaran dan kontraindikasi) daripada NPRA, jika produk didaftarkan atau diimport pada masa hadapan
 - Data terperinci mengenai mekanisme tindakan daripada DrugBank
-- Bukti praklinikal atau klinikal yang menghubungkan lorazepam dengan tumor saraf trigeminal, atau pertimbangan semula penyasaran kepada calon yang mempunyai bukti lebih kukuh (contohnya insomnia)
+- Bukti praklinikal atau klinikal yang menghubungkan lorazepam dengan tumor saraf trigeminal
 - Penilaian risiko kebergantungan, toleransi dan kesan kognitif sekiranya penggunaan jangka panjang dipertimbangkan
 ## Penafian
 

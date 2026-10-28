@@ -8,6 +8,7 @@ nav_order: 94
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Articaine Hydrochloride
@@ -51,8 +52,8 @@ Dengan **tiada bukti uji klinik** dan **tiada bukti sastera** yang diperoleh unt
 | Petunjuk Baru Dijangka | — (Tiada ramalan dihasilkan) |
 | Skor Ramalan TxGNN | — (Tiada ramalan dihasilkan) |
 | Tahap Bukti | L5 — Ramalan model tidak tersedia; tiada kajian sokongan |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 3 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | **Tahan** |
 
 ---

@@ -3,18 +3,18 @@ layout: default
 title: Nevirapine
 parent: Low Evidence (L4-L5)
 nav_order: 523
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Nevirapine: indikasi baharu diramal Sindrom imunodefisiensi didapati kucing (feline acquired immunodefici… (tahap bukti L4). Indikasi asal: Jangkitan HIV dan AIDS"
 monitor_inn: "NEVIRAPINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Nevirapine: indikasi baharu diramal Sindrom imunodefisiensi didapati kucing (feline acquired immunodeficiency syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Nevirapine
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **3** 
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-## Nevirapine: Daripada Jangkitan HIV kepada Sindrom Imunodefisiensi Didapati Kucing (FIV)
+## Nevirapine: Sindrom imunodefisiensi didapati kucing (feline acquired immunodeficiency syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini hanya terdapat **0 ujian klinikal** dan **1 penerbitan** (kaj
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan HIV dan AIDS |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Sindrom imunodefisiensi didapati kucing (feline acquired immunodeficiency syndrome) |
-| Skor Ramalan TxGNN | 99.85% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9985 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---
@@ -84,7 +84,6 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Nevirapine pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran yang direkodkan.
 
 ---
 
@@ -114,8 +113,8 @@ Untuk amaran utama dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan
 
 ### Nota Tambahan: Ramalan Lain
 
-- **Jangkitan virus imunodefisiensi simian (SIV)** (skor 99.85%, L4, Hold): SIV secara semula jadi rintang terhadap NNRTI seperti nevirapine disebabkan perbezaan poket RT. Hanya konstruk kimera SIV/SHIV yang membawa RT HIV-1 sensitif, dan ia digunakan sebagai model haiwan praklinikal, bukan sebagai indikasi terapeutik manusia. Tiada ujian klinikal.
-- **Gangguan perkembangan saraf dengan gaya berjalan ataksia, ketiadaan pertuturan dan pengurangan bahan putih korteks** (skor 99.82%, L5, Hold): Tiada hubungan mekanisme yang jelas, tiada ujian klinikal atau literatur; ramalan ini berkemungkinan artifak rangkaian dan memerlukan pengesahan mekanisme bebas.
+- **Jangkitan virus imunodefisiensi simian (SIV)** (skor 0.9985, L4, Hold): SIV secara semula jadi rintang terhadap NNRTI seperti nevirapine disebabkan perbezaan poket RT. Hanya konstruk kimera SIV/SHIV yang membawa RT HIV-1 sensitif, dan ia digunakan sebagai model haiwan praklinikal, bukan sebagai indikasi terapeutik manusia. Tiada ujian klinikal.
+- **Gangguan perkembangan saraf dengan gaya berjalan ataksia, ketiadaan pertuturan dan pengurangan bahan putih korteks** (skor 0.9982, L5, Hold): Tiada hubungan mekanisme yang jelas, tiada ujian klinikal atau literatur; ramalan ini berkemungkinan artifak rangkaian dan memerlukan pengesahan mekanisme bebas.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

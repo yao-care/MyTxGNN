@@ -3,18 +3,18 @@ layout: default
 title: Venetoclax
 parent: Low Evidence (L4-L5)
 nav_order: 722
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Venetoclax: indikasi baharu diramal Leukemia limfositik kronik/limfoma limfositik kecil pra-pusat germinal (tahap bukti L4). Indikasi asal: Leukemia limfoblastik/limfositik akut"
 monitor_inn: "VENETOCLAX"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
+description: "Venetoclax: indikasi baharu diramal Hodgkins lymphoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Venetoclax
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Venetoclax: Daripada Leukemia Limfoblastik Akut / Sindrom Richter kepada Leukemia Limfositik Kronik/Limfoma Limfositik Kecil Pra-Pusat Germinal
+## Venetoclax: Hodgkins lymphoma
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Setakat ini terdapat **0 ujian klinikal** dan **1 penerbitan** yang menyokong su
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Leukemia limfoblastik/limfositik akut; sindrom Richter |
-| Indikasi Baharu yang Diramalkan | Leukemia limfositik kronik/limfoma limfositik kecil pra-pusat germinal |
-| Skor Ramalan TxGNN | 99.55% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Hodgkins lymphoma |
+| Skor Ramalan TxGNN | 0.9951 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -118,7 +118,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan TxGNN sangat tinggi (99.55%) dan munasabah dari segi mekanisme, tetapi tiada ujian klinikal dan hanya satu makalah tidak langsung untuk subjenis CLL/SLL pra-pusat germinal. Tahap bukti hanya L4.
+- Tahap bukti hanya L4.
 - Venetoclax juga belum didaftarkan di Malaysia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

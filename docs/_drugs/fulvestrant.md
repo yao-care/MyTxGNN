@@ -6,9 +6,9 @@ nav_order: 377
 evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Fulvestrant: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L4). Indikasi asal: Tiada data (tiada lesen NPRA direkodkan)"
 monitor_inn: "FULVESTRANT"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+description: "Fulvestrant: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Fulvestrant
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Fulvestrant: Daripada Indikasi Asal (Tidak Direkodkan) kepada Jangkitan HIV
+## Fulvestrant: Jangkitan HIV (HIV infectious disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan HIV**, tetapi sokon
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen NPRA direkodkan) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Jangkitan HIV (HIV infectious disease) |
-| Skor Ramalan TxGNN | 99.91% |
+| Skor Ramalan TxGNN | 0.9991 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -101,7 +101,6 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Muat turun dan huraikan sisipan pakej NPRA bagi amaran dan kontraindikasi (jurang data yang menyekat).
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
-- Pengesahan indikasi asal dan status pendaftaran; fulvestrant ialah ubat kanser payudara yang mapan, maka status "tidak dipasarkan" dan indikasi asal kosong mungkin menunjukkan jurang kualiti data.
 - Kajian prasiklinikal tambahan mengenai kesan antagonisme/degradasi ER terhadap latensi HIV, sebelum sebarang ujian klinikal dipertimbangkan.
 
 ---
@@ -110,9 +109,9 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 Sembilan ramalan lain tidak disyorkan untuk diteruskan pada peringkat ini:
 
-- **Neoplasia endokrin berganda** (skor 99.85%): ujian yang disenaraikan hampir semuanya melibatkan kanser payudara HR+/HER2-, dengan fulvestrant sebagai pembanding atau tulang belakang gabungan, bukan MEN. Kaitan ini mungkin hasil padanan kata kunci "endokrin".
-- **Artritis reumatoid** (skor 99.58%): kajian haiwan menunjukkan sekatan estrogen boleh memburukkan keradangan, jadi antagonisme ER mungkin memudaratkan. Arah kesannya tidak pasti.
-- **Jangkitan virus imunodefisiensi simia, sindrom imunodefisiensi kucing, jerawat, dan beberapa penyakit genetik jarang** (gangguan neurodevelopmen, sindrom brakidaktili-sindaktili, hemoglobinopati, sindrom displasia mikroftalmia-koloboma): tiada ujian, tiada literatur dan tiada mekanisme yang disokong; ramalan hanya berasaskan graf.
+- **Neoplasia endokrin berganda** (skor 0.9985): ujian yang disenaraikan hampir semuanya melibatkan kanser payudara HR+/HER2-, dengan fulvestrant sebagai pembanding atau tulang belakang gabungan, bukan MEN. Kaitan ini mungkin hasil padanan kata kunci "endokrin".
+- **Artritis reumatoid** (skor 0.9958): kajian haiwan menunjukkan sekatan estrogen boleh memburukkan keradangan, jadi antagonisme ER mungkin memudaratkan. Arah kesannya tidak pasti.
+- **Jangkitan virus imunodefisiensi simia, AIDS felin, jerawat (acne), dan beberapa penyakit genetik jarang** (gangguan neurodevelopmen, sindrom brakidaktili-sindaktili, hemoglobinopati, sindrom displasia rizomelik-mikroftalmia kolobomatus): tiada ujian, tiada literatur dan tiada mekanisme yang disokong; skor datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

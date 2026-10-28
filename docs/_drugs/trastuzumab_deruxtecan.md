@@ -6,9 +6,9 @@ nav_order: 696
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Trastuzumab Deruxtecan: indikasi baharu diramal Osteoporosis teraruh ubat (drug-induced osteoporosis) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
 monitor_inn: "TRASTUZUMAB DERUXTECAN"
 predicted_indications: ["drug-induced osteoporosis"]
+description: "Trastuzumab Deruxtecan: indikasi baharu diramal Osteoporosis teraruh ubat (drug-induced osteoporosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Trastuzumab Deruxtecan
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Trastuzumab Deruxtecan: Daripada Penggunaan Asal kepada Osteoporosis Teraruh Ubat
+## Trastuzumab Deruxtecan: Osteoporosis teraruh ubat (drug-induced osteoporosis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ubat ini mungkin berkesan untuk **osteoporosis teraruh ub
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar di Malaysia |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Osteoporosis teraruh ubat (drug-induced osteoporosis) |
-| Skor Ramalan TxGNN | 99.31% |
+| Skor Ramalan TxGNN | 0.9931 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ubat ini mungkin berkesan untuk **osteoporosis teraruh ub
 
 Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikompilasi. Berdasarkan maklumat yang diketahui, trastuzumab deruxtecan ialah ADC yang menyasarkan HER2 dengan muatan sitotoksik perencat topoisomerase I.
 
-Skor model yang tinggi (0.993) kemungkinan besar mencerminkan kedekatan rangkaian dalam graf pengetahuan atau jiran yang dikongsi (contohnya melalui agen onkologi lain atau laluan berkaitan tulang), dan bukannya hubungan biologi yang telah disahkan. Tiada mekanisme pelindung tulang yang jelas dapat dikenal pasti daripada data sedia ada.
+Skor model yang tinggi (0.9931) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi. Tiada mekanisme pelindung tulang yang jelas dapat dikenal pasti daripada data sedia ada.
 
 Perlu diberi perhatian bahawa muatan sitotoksik dan terapi onkologi lazimnya lebih dikaitkan dengan kehilangan tulang berbanding rawatan kehilangan tulang. Arah kesan masih tidak pasti dan mungkin juga memudaratkan. Ramalan ini perlu dianggap sebagai hipotesis yang sangat awal.
 
@@ -81,7 +81,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran di Malaysia
 
-Trastuzumab deruxtecan pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar (0 pendaftaran).
 
 ---
 
@@ -124,8 +123,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pembungkusan.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan hanya bergantung pada skor model graf pengetahuan (Tahap Bukti L5), tanpa percubaan klinikal atau literatur. Tiada mekanisme pelindung tulang yang munasabah, dan terapi sitotoksik lazimnya dikaitkan dengan kehilangan tulang, jadi arah kesan mungkin bertentangan.
-- Ubat ini juga tidak dipasarkan di Malaysia.
+- Ramalan hanya bergantung pada skor model TxGNN (pembelajaran mendalam) (Tahap Bukti L5), tanpa percubaan klinikal atau literatur. Tiada mekanisme pelindung tulang yang munasabah, dan terapi sitotoksik lazimnya dikaitkan dengan kehilangan tulang, jadi arah kesan mungkin bertentangan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci

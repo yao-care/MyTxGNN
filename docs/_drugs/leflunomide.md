@@ -6,9 +6,9 @@ nav_order: 449
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Leflunomide: indikasi baharu diramal Sindrom brakidaktili-sindaktili (tahap bukti L5). Indikasi asal: Artritis psoriatik, artritis reumatoid"
 monitor_inn: "LEFLUNOMIDE"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+description: "Leflunomide: indikasi baharu diramal Brachydactyly-syndactyly syndrome (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Leflunomide
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Leflunomide: Daripada Artritis Psoriatik dan Artritis Reumatoid kepada Sindrom Brakidaktili-Sindaktili
+## Leflunomide: Brachydactyly-syndactyly syndrome
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Artritis psoriatik, artritis reumatoid |
-| Indikasi Baharu yang Diramalkan | Sindrom brakidaktili-sindaktili |
-| Skor Ramalan TxGNN | 99.93% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Brachydactyly-syndactyly syndrome |
+| Skor Ramalan TxGNN | 0.9993 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan yang Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -95,7 +95,7 @@ Pada masa ini tiada literatur berkaitan.
 
 ---
 
-**Nota:** Calon ramalan kedua, *sindrom mikroftalmia kolobomatus-displasia rizomelik* (skor TxGNN 99.93%, tahap bukti L5, keputusan Hold), juga tidak mempunyai bukti klinikal atau literatur, dan mempunyai kebimbangan teratogenisiti yang sama.
+**Nota:** Calon ramalan kedua, *sindrom mikroftalmia kolobomatus-displasia rizomelik* (skor TxGNN 0.9993, tahap bukti L5, keputusan Hold), juga tidak mempunyai bukti klinikal atau literatur, dan mempunyai kebimbangan teratogenisiti yang sama.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

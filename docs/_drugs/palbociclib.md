@@ -6,9 +6,9 @@ nav_order: 552
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
-description: "Palbociclib: indikasi baharu diramal Artritis reumatoid (peringkat 2 (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen berdaftar di Malaysia)"
 monitor_inn: "PALBOCICLIB"
 predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
+description: "Palbociclib: indikasi baharu diramal Hyperthyroidism (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Palbociclib
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-## Palbociclib: Daripada Indikasi Asal kepada Artritis Reumatoid
+## Palbociclib: Hyperthyroidism
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -42,7 +42,7 @@ Palbociclib ialah perencat CDK4/6 yang dikenali dalam rawatan kanser payudara, t
 Model TxGNN meramalkan ia mungkin berkesan untuk **artritis reumatoid** (calon utama yang mempunyai bukti paling relevan), dengan **0 ujian klinikal** dan **4 penerbitan** (1 laporan kes, 1 kajian kohort, 2 kajian praklinikal).
 Bukti masih tidak langsung, jadi ini hanyalah persoalan penyelidikan, bukan cadangan untuk digunakan secara klinikal.
 
-> **Nota:** Ramalan peringkat teratas TxGNN ialah **hipertiroidisme** (skor 99.44%), tetapi tiada ujian klinikal atau literatur menyokongnya. Artritis reumatoid (peringkat 2) dipilih sebagai fokus laporan kerana ia mempunyai bukti sokongan yang paling relevan. Penilaian bagi semua empat ramalan diringkaskan di bahagian akhir.
+> **Nota:** Ramalan peringkat teratas TxGNN ialah **hipertiroidisme** (skor 0.9944), tetapi tiada ujian klinikal atau literatur menyokongnya. Artritis reumatoid (peringkat 2) dipilih sebagai fokus laporan kerana ia mempunyai bukti sokongan yang paling relevan. Penilaian bagi semua empat ramalan diringkaskan di bahagian akhir.
 
 ---
 
@@ -50,12 +50,12 @@ Bukti masih tidak langsung, jadi ini hanyalah persoalan penyelidikan, bukan cada
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen berdaftar di Malaysia) |
-| Indikasi Baharu yang Diramalkan | Artritis reumatoid (peringkat 2; peringkat 1 ialah hipertiroidisme) |
-| Skor Ramalan TxGNN | 99.36% (hipertiroidisme: 99.44%) |
-| Tahap Bukti | L4 (hipertiroidisme: L5) |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Hyperthyroidism |
+| Skor Ramalan TxGNN | 0.9944 |
+| Tahap Bukti | L5 (hipertiroidisme: L5) |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 12) |
 | Keputusan Disyorkan | Hold (artritis reumatoid dikelaskan sebagai "Persoalan Penyelidikan") |
 
 ---
@@ -89,7 +89,6 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Palbociclib tidak mempunyai pendaftaran NPRA yang aktif dan tidak dipasarkan di Malaysia pada masa ini.
 
 ---
 
@@ -117,10 +116,10 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang lengkap.
 
 | Peringkat | Penyakit | Skor TxGNN | Tahap Bukti | Penilaian |
 |------|------|------|------|------|
-| 1 | Hipertiroidisme | 99.44% | L5 | Hold: ramalan model sahaja, tiada bukti sokongan |
-| 2 | Artritis reumatoid | 99.36% | L4 | Persoalan penyelidikan: ada bukti praklinikal dan satu laporan kes |
-| 3 | Penyakit trombotik | 99.32% | L4 | Hold: literatur menunjukkan isyarat keselamatan (risiko tromboembolisme), bukan manfaat terapeutik |
-| 4 | Rintangan hormon tiroid (mutasi reseptor beta) | 99.30% | L5 | Hold: ramalan model sahaja, tiada rasional jelas |
+| 1 | Hipertiroidisme | 0.9944 | L5 | Hold: ramalan model sahaja, tiada bukti sokongan |
+| 2 | Artritis reumatoid | 0.9936 | L4 | Persoalan penyelidikan: ada bukti praklinikal dan satu laporan kes |
+| 3 | Penyakit trombotik | 0.9932 | L5 | Hold: literatur menunjukkan isyarat keselamatan (risiko tromboembolisme), bukan manfaat terapeutik |
+| 4 | Rintangan hormon tiroid (mutasi reseptor beta) | 0.9930 | L5 | Hold: ramalan model sahaja, tiada rasional jelas |
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi) serta data mekanisme tindakan (MOA) daripada DrugBank

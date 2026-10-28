@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Levofloxacin: indikasi baharu diramal Keratokonjunktivitis epitelium punktat (tahap bukti L5). Indikasi asal: Antibiotik fluorokuinolon spektrum luas"
 monitor_inn: "Levofloxacin"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
 ---
 
 # Levofloxacin
@@ -49,10 +49,10 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **keratokonjunktivitis epiteliu
 |------|------|
 | Indikasi Asal | Antibiotik fluorokuinolon spektrum luas (data indikasi berlesen tempatan tidak tersedia) |
 | Indikasi Baharu yang Diramalkan | Keratokonjunktivitis epitelium punktat |
-| Skor Ramalan TxGNN | 99.92% |
+| Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 19 daripada 19) |
+| Bilangan Pendaftaran | 19 (sah: 19) |
 | Keputusan Disyorkan | Hold |
 
 ---

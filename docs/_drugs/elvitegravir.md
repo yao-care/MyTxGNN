@@ -3,18 +3,18 @@ layout: default
 title: Elvitegravir
 parent: Low Evidence (L4-L5)
 nav_order: 319
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Elvitegravir: indikasi baharu diramal Jangkitan virus imunodefisiensi simian (SIV) (tahap bukti L4). Indikasi asal: Jangkitan HIV, AIDS"
 monitor_inn: "ELVITEGRAVIR"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+last_modified_at: 2026-10-23
+description: "Elvitegravir: indikasi baharu diramal Sindrom imunodefisiensi kucing yang diperoleh (feline acquired immunodeficiency syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Elvitegravir
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **3** 
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,76 +33,74 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-## Elvitegravir: Daripada Jangkitan HIV kepada Jangkitan Virus Imunodefisiensi Simian (SIV)
+## Elvitegravir: Sindrom imunodefisiensi kucing yang diperoleh (feline acquired immunodeficiency syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Elvitegravir ialah perencat integrase HIV-1 (INSTI) yang pada asalnya digunakan untuk merawat jangkitan HIV dan AIDS.
-Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan virus imunodefisiensi simian (SIV)**,
-namun setakat ini **tiada ujian klinikal** didaftarkan dan hanya terdapat **8 penerbitan** pra-klinikal (kajian haiwan dan in vitro) yang menyokong arah ini.
+Elvitegravir ialah perencat integrase HIV-1 (perencat pemindahan untai integrase), yang pada asalnya digunakan untuk merawat jangkitan HIV dan AIDS.
+Model TxGNN meramalkan ia mungkin berkesan terhadap **sindrom imunodefisiensi kucing yang diperoleh (feline AIDS)**, tetapi sehingga kini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini secara langsung.
+Ramalan ini masih pada tahap model sahaja (tahap bukti L5).
 
 ## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan HIV, AIDS |
-| Indikasi Baharu yang Diramalkan | Jangkitan virus imunodefisiensi simian (SIV) |
-| Skor Ramalan TxGNN | 99.89% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom imunodefisiensi kucing yang diperoleh (feline acquired immunodeficiency syndrome) |
+| Skor Ramalan TxGNN | 0.9989 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
+| Bilangan Kelulusan | 1 pendaftaran (produk gabungan) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, elvitegravir tergolong dalam kelas perencat integrase strand transfer (INSTI). Kelas ini menyekat integrasi cDNA virus ke dalam genom perumah, dan keberkesanannya dalam jangkitan HIV-1 telah dibuktikan. Secara mekanistik, ia mungkin terpakai untuk SIV.
+Data terperinci tentang mekanisme tindakan asal tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, elvitegravir tergolong dalam kelas perencat pemindahan untai integrase (INSTI) yang menyasarkan enzim integrase retrovirus, dan mekanismenya mungkin boleh digunakan untuk virus yang berkaitan.
 
-SIV ialah lentivirus yang berkait rapat dengan HIV, dan integrasenya berkongsi teras pemangkin yang terpelihara dengan integrase HIV-1. Oleh itu, aktiviti INSTI terhadap SIV munasabah dari segi mekanisme. Kajian in vitro pada SIVmac239 dan HIV bertropisme simian menunjukkan SIV peka kepada INSTI, dan mutasi rintangan menghasilkan fenotip yang serupa pada kedua-dua virus.
+Virus imunodefisiensi kucing (FIV) ialah lentivirus yang berkait dengan HIV-1 dan juga mengekodkan enzim integrase. Secara analogi kelas, aktiviti terhadap integrase FIV adalah munasabah. Namun, jujukan integrase FIV berbeza daripada HIV-1, jadi kerentanan tidak boleh diandaikan.
 
-Namun begitu, SIV ialah penyakit model haiwan, bukan indikasi klinikal manusia. Bukti ini bersifat pra-klinikal dan tidak langsung, terutamanya berguna untuk penyelidikan translasi pencegahan dan rawatan HIV. Indikasi asal (HIV) sudah pun dilindungi, jadi nilai penggunaan semula yang baharu adalah terhad.
+Skor TxGNN yang tinggi (0.9989) berkemungkinan besar didorong oleh kedekatan rangkaian dengan indikasi HIV asal, bukan oleh bukti bebas. Penyakit ini ialah penyakit haiwan, bukan indikasi manusia, sehingga kaitannya dengan penggunaan semula ubat untuk manusia adalah terhad.
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [38134382](https://pubmed.ncbi.nlm.nih.gov/38134382/) | 2024 | Kajian haiwan pra-klinikal | J Infect Dis | Sisipan faraj tenofovir alafenamide/elvitegravir memberi perlindungan pasca-pendedahan yang berpanjangan terhadap cabaran SHIV pada makak (sebelumnya 93% dan 100% apabila diberi 4 jam sebelum atau selepas pendedahan) |
-| [41342257](https://pubmed.ncbi.nlm.nih.gov/41342257/) | 2026 | Kajian haiwan pra-klinikal | J Infect Dis | Sisipan topikal TAF/elvitegravir memberi perlindungan pasca-pendedahan separa (82.9%) dalam model makak jangkitan SHIV melalui rektum |
-| [17977962](https://pubmed.ncbi.nlm.nih.gov/17977962/) | 2008 | Kajian in vitro | J Virol | Elvitegravir menyekat integrasi cDNA HIV-1 dan replikasi pelbagai subjenis; profil rintangan dicirikan |
-| [39559349](https://pubmed.ncbi.nlm.nih.gov/39559349/) | 2024 | Model haiwan pra-klinikal | Front Immunol | Model tikus manusiawi dwi-guna untuk menguji strategi antivirus terhadap SIV dan HIV |
-| [25583721](https://pubmed.ncbi.nlm.nih.gov/25583721/) | 2015 | Kajian in vitro | Antimicrob Agents Chemother | HIV bertropisme simian sebagai model untuk mengkaji rintangan terhadap perencat integrase |
-| [24920794](https://pubmed.ncbi.nlm.nih.gov/24920794/) | 2014 | Kajian in vitro | J Virol | Kesan mutasi rintangan integrase HIV-1 yang dimasukkan ke dalam SIVmac239 terhadap kepekaan kepada INSTI |
-| [26378179](https://pubmed.ncbi.nlm.nih.gov/26378179/) | 2015 | Kajian in vitro | J Virol | Profil rintangan INSTI dalam SIVmac239 dicirikan melalui pemilihan dadah dalam kultur tisu |
-| [28923862](https://pubmed.ncbi.nlm.nih.gov/28923862/) | 2017 | Kajian in vitro | Antimicrob Agents Chemother | Aktiviti bictegravir dan cabotegravir terhadap SIVmac239 dan HIV-1 yang rintang INSTI (kaitan dengan elvitegravir tidak langsung) |
+Pada masa ini tiada literatur berkaitan yang tersedia untuk penyakit yang diramalkan ini.
 
-## Keselamatan
+*Nota:* Data yang dikumpulkan mengandungi kajian praklinikal tentang jangkitan virus imunodefisiensi simian (SIV/SHIV), iaitu penyakit lain. Kajian tersebut tidak mengkaji sindrom imunodefisiensi kucing secara langsung, maka tidak dikira sebagai bukti untuk indikasi ini.
 
-**Interaksi Dadah:** Sebanyak 27 interaksi dikenal pasti. Antara yang utama:
+## Maklumat Pasaran Malaysia
 
-- **Major (Utama):** zink asetat, zink glukonat, zink sulfat, zink klorida, lumacaftor, apalutamide
-- **Moderate (Sederhana):** antasid dan agen berkation (magnesium oksida, aluminium hidroksida, kalsium karbonat, magaldrate, magnesium karbonat, magnesium hidroksida), natrium sitrat, natrium bikarbonat, deksametason, orlistat, diklofenak, elagolix, somatotropin, etinilestradiol
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL17025022ACZ | Genvoya (Elvitegravir 150mg/Cobicistat 150mg/Emtricitabine 200mg/Tenofovir alafenamide 10mg) Film-Coated Tablets | Tidak dinyatakan | Teks indikasi tidak tersedia |
 
-Untuk maklumat amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
+Satu-satunya pendaftaran ialah produk gabungan dan tidak boleh digunakan untuk menggambarkan status kelulusan elvitegravir sebagai ramuan tunggal.
+
+## Pertimbangan Keselamatan
+
+**Interaksi Ubat** (27 interaksi direkodkan; yang utama disenaraikan):
+- **Tahap Major**: zink asetat, zink glukonat, zink sulfat, zink klorida, lumakaftor, apalutamida
+- **Tahap Moderate**: deksametason, magnesium oksida, aluminium hidroksida, kalsium karbonat, magaldrat, magnesium karbonat, magnesium hidroksida, orlistat, natrium sitrat, natrium bikarbonat, diklofenak, elagoliks, somatotropin, etinilestradiol
+
+Antasid dan suplemen yang mengandungi kation polivalen (zink, magnesium, aluminium, kalsium) perlu diberi perhatian khusus. Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Bukti hanya pra-klinikal (kajian haiwan dan in vitro) tanpa sebarang ujian klinikal. SIV ialah penyakit model haiwan, bukan sasaran terapeutik manusia, dan indikasi asal (HIV) sudah dilindungi, jadi nilai penggunaan semula adalah rendah.
-- Elvitegravir tidak berdaftar di Malaysia (0 pendaftaran).
+- Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal atau literatur yang mengkaji penyakit ini secara langsung. Penyakit ini juga merupakan penyakit haiwan, bukan indikasi manusia.
 
-**Untuk diteruskan, perkara berikut diperlukan:**
-- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA (jurang data yang menghalang saringan keselamatan)
-- Data mekanisme tindakan terperinci (MOA) daripada DrugBank
-- Justifikasi translasi yang jelas bahawa penyelidikan ini bernilai untuk pencegahan HIV pada manusia, bukan sekadar model SIV
-- Pengesahan status pendaftaran atau jalan kawal selia di Malaysia sekiranya penyelidikan diteruskan
-
-**Nota tentang ramalan lain:** Penyakit "sindrom imunodefisiensi didapati felin" (tahap bukti L5, Hold) ialah indikasi veterinar tanpa sebarang bukti, dan skor tinggi mungkin hanya mencerminkan persamaan dengan HIV/AIDS. Gangguan perkembangan saraf genetik yang jarang berlaku (tahap bukti L5, Hold) tiada kaitan mekanistik yang munasabah dan berkemungkinan artifak graf pengetahuan. Kedua-duanya tidak disyorkan untuk diteruskan.
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci
+- Kajian in vitro tentang kerentanan integrase FIV terhadap elvitegravir
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Pengesahan sama ada penggunaan veterinar berada dalam skop penilaian ini
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

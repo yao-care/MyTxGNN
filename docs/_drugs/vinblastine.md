@@ -6,9 +6,9 @@ nav_order: 724
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Vinblastine: indikasi baharu diramal Rhabdomyosarcoma (tahap bukti L3). Indikasi asal: Limfoma Hodgkin, limfoma bukan Hodgkin…"
 monitor_inn: "vinblastine"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
+description: "Vinblastine: indikasi baharu diramal Rhabdomyosarcoma (rhabdomyosarcoma (disease)) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Vinblastine
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-## Vinblastine: Daripada Limfoma Hodgkin kepada Rhabdomyosarcoma
+## Vinblastine: Rhabdomyosarcoma (rhabdomyosarcoma (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini **tiada ujian klinikal berdaftar** dan hanya **7 penerbitan**
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Limfoma Hodgkin, limfoma bukan Hodgkin, mycosis fungoides dan limfoma sel T kutaneus primer, limfoma sel mantle, histiositosis sel Langerhans (berdasarkan graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Rhabdomyosarcoma |
-| Skor Ramalan TxGNN | 99.86% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Rhabdomyosarcoma (rhabdomyosarcoma (disease)) |
+| Skor Ramalan TxGNN | 0.9986 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -106,7 +106,6 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi rasmi.
 | Perkara | Kandungan |
 |------|------|
 | Klasifikasi Sitotoksisiti | Sitotoksik konvensional (alkaloid vinca, perencat mikrotubul) |
-| Risiko Mielosupresi | Tinggi (neutropenia ialah toksisiti yang had dos; isyarat neutropenia, trombositopenia dan agranulositosis juga muncul dalam graf pengetahuan) |
 | Klasifikasi Emetogenisiti | Rendah hingga sederhana |
 | Item Pemantauan | Kiraan darah penuh (CBC) dengan pembezaan, fungsi hati dan buah pinggang, status neurologi periferal |
 | Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
@@ -133,11 +132,10 @@ Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej untuk maklumat ra
 
 | Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Keputusan |
 |------|------|------|------|
-| Monocytic leukemia | 99.78% | L3 | Research Question (siri kes lama 1975–1977, relevan klinikal tidak pasti) |
-| Neuroblastoma | 99.14% | L3 | Research Question (kebanyakannya praklinikal; laporan ileus teruk dengan cisplatin-vinblastine 1988 ialah isyarat keselamatan) |
-| Prostate embryonal rhabdomyosarcoma | 99.83% | L4 | Hold (laporan kes sahaja, rejimen pelbagai ubat) |
-| Liver sarcoma | 99.81% | L4 | Hold (bukti kebanyakannya tidak berkaitan atau tidak langsung) |
-| Subjenis rhabdomyosarcoma lain dan ganglioneuroblastoma | 99.1%–99.9% | L5 | Hold (ramalan model sahaja) |
+| Monocytic leukemia | 0.9978 | L3 | Research Question (siri kes lama 1975–1977, relevan klinikal tidak pasti) |
+| Neuroblastoma | 0.9914 | L3 | Research Question (kebanyakannya praklinikal; laporan ileus teruk dengan cisplatin-vinblastine 1988 ialah isyarat keselamatan) |
+| Prostate embryonal rhabdomyosarcoma | 0.9983 | L5 | Hold (laporan kes sahaja, rejimen pelbagai ubat) |
+| Liver sarcoma | 0.9981 | L4 | Hold (bukti kebanyakannya tidak berkaitan atau tidak langsung) |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

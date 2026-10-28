@@ -8,6 +8,7 @@ nav_order: 68
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Amoxicillin Sodium
@@ -51,8 +52,8 @@ Sehingga jurang-jurang ini ditangani, tiada tahap bukti yang boleh diberikan dan
 | Indikasi Baru yang Diramalkan | Tiada — tiada ramalan dihasilkan |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | T/A — di bawah L5 (tiada ramalan dihasilkan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 5 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---
@@ -63,7 +64,7 @@ Tiada indikasi ubah guna yang diramalkan telah dihasilkan dalam Pakej Bukti ini 
 
 Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia. Berdasarkan pengetahuan farmakologi yang ditegakkan, Amoxicillin Sodium tergolong dalam subkumpulan aminopenisilin antibiotik β-laktam, dengan mekanisme utamanya melibatkan perencatan sintesis dinding sel bakteria melalui pengikatan kepada protein pengikat penisilin (PBPs). Bagaimanapun, maklumat ini tidak disahkan melalui DrugBank dalam Pakej Bukti semasa, dan oleh itu tidak boleh dipercayai secara formal untuk pemetaan mekanisme-tindakan dalam rangka kerja TxGNN.
 
-Untuk membuka calon ubah guna, tiga input mesti berada di tempat terlebih dahulu: DrugBank ID yang disahkan dipautkan kepada Amoxicillin Sodium, teks indikasi yang diluluskan daripada rekod lesen NPRA yang diisi, dan data risalah kemasan yang diselesaikan untuk melewati pra-pemeriksaan keselamatan. Setelah ini tersedia, menjalankan semula langkah ramalan Graf Pengetahuan dan Pembelajaran Dalam harus menghasilkan calon bermakna.
+Untuk membuka calon ubah guna, tiga input mesti berada di tempat terlebih dahulu: DrugBank ID yang disahkan dipautkan kepada Amoxicillin Sodium, teks indikasi yang diluluskan daripada rekod lesen NPRA yang diisi, dan data risalah kemasan yang diselesaikan untuk melewati pra-pemeriksaan keselamatan. Setelah ini tersedia, menjalankan semula langkah ramalan model TxGNN (pembelajaran mendalam) dan Pembelajaran Dalam harus menghasilkan calon bermakna.
 
 ---
 

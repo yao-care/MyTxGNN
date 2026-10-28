@@ -6,9 +6,9 @@ nav_order: 702
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Trifarotene: indikasi baharu diramal Zink plasma meningkat (elevated plasma zinc) (tahap bukti L5). Indikasi asal: Jerawat (acne)"
 monitor_inn: "TRIFAROTENE"
 predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"]
+description: "Trifarotene: indikasi baharu diramal Zink plasma meningkat (zinc, elevated plasma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Trifarotene
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Trifarotene: Daripada Jerawat kepada Zink Plasma Meningkat
+## Trifarotene: Zink plasma meningkat (zinc, elevated plasma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jerawat (*acne*) |
-| Indikasi Baharu yang Diramalkan | Zink plasma meningkat (*elevated plasma zinc*) |
-| Skor Ramalan TxGNN | 99.40% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Zink plasma meningkat (zinc, elevated plasma) |
+| Skor Ramalan TxGNN | 0.9940 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -62,9 +62,9 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 Data terperinci mengenai mekanisme tindakan belum tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, trifarotene ialah agonis RAR yang berinteraksi dengan RAR-α, RAR-β dan RAR-γ (dengan analisis menunjukkan kepada RAR-γ sebagai sasaran utama). Keberkesanannya dalam jerawat telah dibuktikan, dan ia diluluskan oleh FDA pada Oktober 2019 dalam bentuk krim topikal 0.005% (Aklief®).
 
-Namun, **tiada pautan mekanistik yang boleh dipercayai** antara trifarotene dengan zink plasma meningkat. Keadaan ini merupakan penemuan metabolik/makmal, bukan penyakit dengan laluan yang responsif terhadap retinoid. Skor tinggi TxGNN (0.994) kemungkinan besar mencerminkan kedekatan rangkaian graf (contohnya nod gen/protein berkaitan zink atau retinoid), bukan bukti biologi atau klinikal. Selain itu, trifarotene mempunyai ketidakstabilan metabolik yang tinggi dan pendedahan sistemik yang terhad apabila digunakan secara topikal, yang melemahkan lagi kemungkinan kesan terhadap paras zink plasma.
+Namun, **tiada pautan mekanistik yang boleh dipercayai** antara trifarotene dengan zink plasma meningkat. Keadaan ini merupakan penemuan metabolik/makmal, bukan penyakit dengan laluan yang responsif terhadap retinoid. Skor tinggi model TxGNN (deep learning) (0.9940) datang daripada model tersebut dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi atau klinikal. Selain itu, trifarotene mempunyai ketidakstabilan metabolik yang tinggi dan pendedahan sistemik yang terhad apabila digunakan secara topikal, yang melemahkan lagi kemungkinan kesan terhadap paras zink plasma.
 
-Sebagai rujukan, ramalan kedua model ialah **sindrom artritis piogenik–pioderma gangrenosum–jerawat (PAPA)**, iaitu gangguan autoradang akibat mutasi PSTPIP1 dengan keradangan berlebihan didorong IL-1β. Trifarotene mungkin boleh menangani komponen jerawat sahaja, tetapi tidak dijangka menangani disregulasi inflamasom atau manifestasi artritis dan pioderma gangrenosum. Rawatan piawai bergantung pada penyekatan IL-1 (cth. anakinra, canakinumab) dan perencat TNF. Ini hanyalah persoalan penyelidikan yang spekulatif, dengan skor 99.32% dan tanpa bukti sokongan.
+Sebagai rujukan, ramalan kedua model ialah **sindrom artritis piogenik–pioderma gangrenosum–jerawat (PAPA)**, iaitu gangguan autoradang akibat mutasi PSTPIP1 dengan keradangan berlebihan didorong IL-1β. Trifarotene mungkin boleh menangani komponen jerawat sahaja, tetapi tidak dijangka menangani disregulasi inflamasom atau manifestasi artritis dan pioderma gangrenosum. Rawatan piawai bergantung pada penyekatan IL-1 (cth. anakinra, canakinumab) dan perencat TNF. Ini hanyalah persoalan penyelidikan yang spekulatif, dengan skor 0.9932 dan tanpa bukti sokongan.
 
 ---
 
@@ -82,7 +82,6 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Trifarotene pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran (0 lesen) ditemui.
 
 ---
 

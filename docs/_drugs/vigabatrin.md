@@ -7,13 +7,14 @@ drugbank_id: "DB01080"
 drug_name: "Vigabatrin"
 kg_predictions: 2
 dl_predictions: 92
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/vigabatrin/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Vigabatrin
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **2** ramalan graf pengetahuan dan **92** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **2** ramalan model TxGNN (pembelajaran mendalam) dan **92** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

@@ -4,17 +4,17 @@ title: Enzalutamide
 parent: Low Evidence (L4-L5)
 nav_order: 326
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Enzalutamide: indikasi baharu diramal Kerentanan kanser prostat/kanser otak (tahap bukti L5). Indikasi asal: Kanser prostat"
 monitor_inn: "ENZALUTAMIDE"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
+description: "Enzalutamide: indikasi baharu diramal Prostate leiomyoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Enzalutamide
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **7** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-## Enzalutamide: Daripada Kanser Prostat kepada Kerentanan Kanser Prostat/Kanser Otak
+## Enzalutamide: Prostate leiomyoma
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Enzalutamide ialah perencat isyarat reseptor androgen yang pada asalnya digunakan untuk merawat kanser prostat.
-Model TxGNN meramalkan ia mungkin berkesan untuk **kerentanan kanser prostat/kanser otak** dengan skor tinggi, tetapi ramalan ini berdasarkan graf pengetahuan sahaja.
 Pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini.
 
 ---
@@ -48,12 +47,12 @@ Pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Kanser prostat |
-| Indikasi Baharu yang Diramalkan | Kerentanan kanser prostat/kanser otak |
-| Skor Ramalan TxGNN | 99.71% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Prostate leiomyoma |
+| Skor Ramalan TxGNN | 0.9957 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,7 +61,7 @@ Pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong 
 
 Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, enzalutamide ialah perencat isyarat reseptor androgen, dan keberkesanannya dalam kanser prostat telah terbukti. Secara mekanistik, ia mungkin berkaitan dengan entiti ramalan ini kerana pertindihan dengan kanser prostat.
 
-Namun, ramalan ini perlu dinilai dengan berhati-hati. "Kerentanan kanser prostat/kanser otak" ialah entiti kerentanan genetik, bukan penyakit yang boleh dirawat secara langsung, dan ia bertindih dengan indikasi asal iaitu kanser prostat. Skor TxGNN yang sangat tinggi (0.997) mencerminkan kedekatan dalam graf pengetahuan, bukan bukti klinikal. Tiada kaitan mekanistik yang mapan antara perencatan reseptor androgen dan kanser otak.
+Namun, ramalan ini perlu dinilai dengan berhati-hati. "Kerentanan kanser prostat/kanser otak" ialah entiti kerentanan genetik, bukan penyakit yang boleh dirawat secara langsung, dan ia bertindih dengan indikasi asal iaitu kanser prostat. Tiada kaitan mekanistik yang mapan antara perencatan reseptor androgen dan kanser otak.
 
 ---
 
@@ -106,7 +105,7 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pakej belum tersedia. 
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini bertaraf L5 (ramalan model sahaja) tanpa sebarang ujian klinikal atau literatur. Entiti yang diramalkan ialah kerentanan genetik yang bertindih dengan indikasi asal, dan tiada kaitan mekanistik yang mapan dengan kanser otak. Selain itu, ubat ini tidak dipasarkan di Malaysia.
+- Ramalan ini bertaraf L5 (ramalan model sahaja) tanpa sebarang ujian klinikal atau literatur. Entiti yang diramalkan ialah kerentanan genetik yang bertindih dengan indikasi asal, dan tiada kaitan mekanistik yang mapan dengan kanser otak.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan, yang merupakan halangan utama pada masa ini

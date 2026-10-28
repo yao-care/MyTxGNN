@@ -7,13 +7,14 @@ drugbank_id: "DB00560"
 drug_name: "Tigecycline"
 kg_predictions: 5
 dl_predictions: 61
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/tigecycline/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Tigecycline
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **5** ramalan graf pengetahuan dan **61** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **5** ramalan model TxGNN (pembelajaran mendalam) dan **61** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

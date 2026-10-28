@@ -8,6 +8,7 @@ nav_order: 57
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Aminophylline Anhydrous
@@ -51,8 +52,8 @@ Laporan ini mendokumentasikan status data semasa dan menggariskan langkah pemuli
 | Indikasi Baru yang Diramalkan | — (Tiada ramalan TxGNN tersedia) |
 | Skor Ramalan TxGNN | — |
 | Tahap Bukti | L5 (Ramalan model belum dijana) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

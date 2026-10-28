@@ -8,6 +8,7 @@ nav_order: 273
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Dexmedetomidine Hydrochloride
@@ -49,8 +50,8 @@ Hidroklorida dexmedetomidine ialah agen sedatif yang telah dipasarkan dan kini d
 | Ramalan Petunjuk Baru | **Tiada** — tiada ramalan dikembalikan oleh TxGNN |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | **L5** (Tiada ramalan, tiada kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Marketed) |
-| Bilangan Pendaftaran | 10 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
+| Bilangan Pendaftaran | 10 (sah: 10) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

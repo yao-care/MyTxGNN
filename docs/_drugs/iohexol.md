@@ -48,10 +48,10 @@ Iohexol ialah agen kontras radiografi beryodium bukan ionik yang digunakan dalam
 |------|------|
 | Indikasi Asal | Tiada data indikasi diluluskan yang tersedia daripada data tempatan (iohexol ialah agen kontras radiografi) |
 | Indikasi Baharu yang Diramalkan | Insomnia |
-| Skor Ramalan TxGNN | 99.87% |
+| Skor Ramalan TxGNN | 0.9987 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ---
@@ -60,7 +60,7 @@ Iohexol ialah agen kontras radiografi beryodium bukan ionik yang digunakan dalam
 
 Pada masa ini, data terperinci tentang mekanisme tindakan tidak tersedia. Iohexol ialah agen kontras beryodium bukan ionik untuk pengimejan radiografi, dan tiada aktiviti farmakologi yang diketahui pada sasaran sistem saraf pusat yang terlibat dalam pengawalaturan tidur (contohnya GABA-A, orexin, histamin H1 atau reseptor melatonin).
 
-Skor TxGNN yang sangat tinggi (99.87%) kemungkinan besar didorong oleh kedekatan rangkaian dalam graf pengetahuan atau corak interaksi ubat yang dikongsi (100 interaksi ubat direkodkan), dan bukannya kebolehpercayaan biologi. Tiada hubungan mekanistik yang kukuh dapat dikenal pasti antara indikasi asal dengan insomnia.
+Skor TxGNN yang sangat tinggi (0.9987) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan (100 interaksi ubat direkodkan), dan bukannya bukti biologi. Tiada hubungan mekanistik yang kukuh dapat dikenal pasti antara indikasi asal dengan insomnia.
 
 ---
 
@@ -72,7 +72,7 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-Tiada literatur yang menyokong insomnia. Bagi indikasi kedua yang diramalkan (**kebimbangan/anxiety**, skor 99.25%), literatur yang ditemui tidak menguji iohexol sebagai rawatan kebimbangan:
+Tiada literatur yang menyokong insomnia. Bagi indikasi kedua yang diramalkan (**kebimbangan/anxiety**, skor 0.9925), literatur yang ditemui tidak menguji iohexol sebagai rawatan kebimbangan:
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|

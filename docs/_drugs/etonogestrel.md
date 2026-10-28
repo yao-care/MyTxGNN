@@ -6,9 +6,9 @@ nav_order: 342
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Etonogestrel: indikasi baharu diramal Amenorea (amenorrhea) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "ETONOGESTREL"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia"]
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "blunt duct adenosis of breast", "apocrine adenosis of breast", "benign mammary dysplasia"]
+description: "Etonogestrel: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Etonogestrel
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Etonogestrel: Daripada Penggunaan Asal kepada Amenorea (Ramalan Indikasi Baharu)
+## Etonogestrel: Amenorea (amenorrhea (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **amenorea**, tetapi pada masa 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
-| Indikasi Baharu yang Diramalkan | Amenorea (amenorrhea) |
-| Skor Ramalan TxGNN | 99.84% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Amenorea (amenorrhea (disease)) |
+| Skor Ramalan TxGNN | 0.9984 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -67,10 +67,10 @@ Amenorea merupakan kesan yang diketahui bagi implan etonogestrel. Skor tinggi mo
 
 | Kedudukan | Penyakit | Skor TxGNN | Catatan |
 |------|------|------|------|
-| 2 | Penyakit fibrosistik payudara | 99.61% | Rasional hormon yang munasabah, tetapi tiada bukti klinikal |
-| 3 | Adenosis apokrin payudara | 99.29% | Penemuan histologi jinak yang jarang; bukan sasaran rawatan lazim |
-| 4 | Adenosis duktus tumpul payudara | 99.29% | Biasanya tidak memerlukan terapi farmakologi |
-| 5 | Displasia mamari jinak | 99.21% | Sakit payudara juga kesan advers implan; arah klinikal tidak pasti dan mungkin bertentangan dengan manfaat |
+| 2 | Penyakit fibrosistik payudara | 0.9961 | Rasional hormon yang munasabah, tetapi tiada bukti klinikal |
+| 3 | Adenosis apokrin payudara | 0.9929 | Penemuan histologi jinak yang jarang; bukan sasaran rawatan lazim |
+| 4 | Adenosis duktus tumpul payudara | 0.9929 | Biasanya tidak memerlukan terapi farmakologi |
+| 5 | Displasia mamari jinak | 0.9921 | Sakit payudara juga kesan advers implan; arah klinikal tidak pasti dan mungkin bertentangan dengan manfaat |
 
 ---
 
@@ -104,7 +104,7 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan hanya berasaskan model (L5), tanpa ujian klinikal atau literatur yang menyokong. Amenorea ialah kesan farmakologi yang dijangka bagi etonogestrel, bukan sasaran terapeutik yang jelas. Ubat ini juga tidak dipasarkan di Malaysia.
+- Ramalan hanya berasaskan model (L5), tanpa ujian klinikal atau literatur yang menyokong. Amenorea ialah kesan farmakologi yang dijangka bagi etonogestrel, bukan sasaran terapeutik yang jelas.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi) bagi menyelesaikan jurang data keselamatan yang menyekat

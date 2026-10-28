@@ -6,9 +6,9 @@ nav_order: 680
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Thymol: indikasi baharu diramal Aneurisme septum interventrikular (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan direkodkan"
 monitor_inn: "THYMOL"
 predicted_indications: ["interventricular septum aneurysm", "pulmonary valve disease", "Laubry-Pezzi syndrome", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 22", "Pierre Robin syndrome associated with a chromosomal anomaly", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus"]
+description: "Thymol: indikasi baharu diramal Aneurisme septum interventrikular (interventricular septum aneurysm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Thymol
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Thymol: Daripada Indikasi Asal yang Tidak Direkodkan kepada Aneurisme Septum Interventrikular
+## Thymol: Aneurisme septum interventrikular (interventricular septum aneurysm)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **aneurisme septum interventrik
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi diluluskan direkodkan |
-| Indikasi Baharu yang Diramalkan | Aneurisme septum interventrikular |
-| Skor Ramalan TxGNN | 99.25% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Aneurisme septum interventrikular (interventricular septum aneurysm) |
+| Skor Ramalan TxGNN | 0.9925 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 21 daripada 21) |
+| Bilangan Pendaftaran | 21 (sah: 21) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **aneurisme septum interventrik
 
 Pada masa ini, data terperinci tentang mekanisme tindakan tidak tersedia. Thymol dikenali mempunyai aktiviti antimikrob, antioksidan dan antiradang. Walau bagaimanapun, aktiviti ini tidak mempunyai kaitan yang mantap dengan aneurisme septum interventrikular, iaitu kecacatan struktur jantung sama ada kongenital atau selepas infarksi.
 
-Tiada pautan mekanistik dapat dikenal pasti. Skor tinggi datang daripada ramalan graf pengetahuan TxGNN sahaja, dan kemungkinan besar mencerminkan kedekatan graf dan bukannya biologi sebenar. Oleh itu, ramalan ini perlu ditafsirkan dengan sangat berhati-hati.
+Tiada pautan mekanistik dapat dikenal pasti. Skor tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Oleh itu, ramalan ini perlu ditafsirkan dengan sangat berhati-hati.
 
 Sembilan ramalan lain dalam kedudukan 10 teratas juga tidak mempunyai pautan mekanistik. Kebanyakannya ialah kecacatan struktur atau perkembangan, seperti penyakit injap pulmonari, sindrom Laubry-Pezzi, sindrom Pierre Robin, sindrom pembelahan orofasial, penghapusan separa kromosom 22q dan 7q, serta sindrom Jeune. Molekul kecil fitokimia seperti thymol tidak dijangka dapat membetulkan punca genetik atau perkembangan embrio bagi keadaan ini.
 
@@ -92,7 +92,7 @@ Sila rujuk sisipan pek (package insert) untuk maklumat keselamatan.
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan hanya berasaskan model (L5), tanpa ujian klinikal, tanpa literatur khusus penyakit dan tanpa pautan mekanistik yang munasabah. Ubat ini juga tidak dipasarkan di Malaysia.
+- Ramalan hanya berasaskan model (L5), tanpa ujian klinikal, tanpa literatur khusus penyakit dan tanpa pautan mekanistik yang munasabah.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menyekat saringan keselamatan)

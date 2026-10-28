@@ -3,18 +3,18 @@ layout: default
 title: Etanercept
 parent: Low Evidence (L4-L5)
 nav_order: 338
-evidence_level: L4
-indication_count: 6
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Etanercept: indikasi baharu diramal Vaskulitis reumatoid (tahap bukti L4). Indikasi asal: Artritis psoriatik, artritis reumatoid, spondilitis ankilosing…"
 monitor_inn: "ETANERCEPT"
-predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
+predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
+description: "Etanercept: indikasi baharu diramal Hypermobility of coccyx (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Etanercept
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **6** 
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Tahap bukti: **L4** | Indikasi diramal: **6**
 
 </div>
 
-## Etanercept: Daripada Artritis Reumatoid kepada Vaskulitis Reumatoid
+## Etanercept: Hypermobility of coccyx
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Etanercept ialah protein gabungan reseptor TNF (faktor nekrosis tumor) yang pada asalnya digunakan untuk merawat penyakit artritis radang seperti artritis reumatoid, artritis psoriatik, spondilitis ankilosing dan artritis idiopatik juvenil.
-Model TxGNN meramalkan ia mungkin berkesan untuk **vaskulitis reumatoid** (skor 99.71%), tetapi buat masa ini hanya terdapat **1 ujian klinikal** yang tidak berkaitan secara langsung dan **literatur** yang sebahagian besarnya melaporkan etanercept *mencetuskan* vaskulitis. Bukti sokongan adalah sangat lemah.
+Bukti sokongan adalah sangat lemah.
 
 ---
 
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **vaskulitis reumatoid** (skor 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Artritis psoriatik, artritis reumatoid, spondilitis ankilosing, artritis idiopatik juvenil (daripada graf pengetahuan TxGNN; tiada teks indikasi lesen NPRA) |
-| Indikasi Baharu Diramal | Vaskulitis reumatoid |
-| Skor Ramalan TxGNN | 99.71% |
-| Tahap Bukti | L4 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu Diramal | Hypermobility of coccyx |
+| Skor Ramalan TxGNN | 0.9963 |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -129,11 +129,9 @@ Sila rujuk sisipan pek (package insert) untuk maklumat amaran dan kontraindikasi
 
 | Indikasi Diramal | Skor TxGNN | Tahap Bukti | Keputusan | Catatan |
 |------|------|------|------|------|
-| Spondilopati radang | 99.57% | L1 | Proceed with Guardrails | Bertindih dengan spondilitis ankilosing dan spondiloartritis aksial yang merupakan indikasi sedia ada; terdapat beberapa ujian Fasa 3 yang selesai. Lebih kepada indikasi dalam label berbanding pengitaran semula ubat sebenar. Perlu pemantauan jangkitan dan uveitis serta pengesahan subjenis diagnostik. |
-| Artritis reumatoid juvenil poliartikular | 99.50% | L1 | Proceed with Guardrails | Dilindungi oleh indikasi JIA sedia ada; sokongan daripada ujian Fasa 3. Perlu perhatian pada dos pediatrik dan saringan jangkitan. |
-| Penyakit vertebra | 99.16% | L4 | Research Question | Kategori terlalu luas; sokongan tidak langsung. Perlu dipersempitkan kepada keadaan khusus. |
-| Hipermobiliti koksiks | 99.63% | L5 | Hold | Hanya skor model; tiada ujian atau literatur. |
-| Penyakit Kummell | 99.55% | L5 | Hold | Hanya skor model; tiada mekanisme didorong TNF yang jelas. |
+| Penyakit vertebra | 0.9916 | L5 | Research Question | Kategori terlalu luas; sokongan tidak langsung. Perlu dipersempitkan kepada keadaan khusus. |
+| Hipermobiliti koksiks | 0.9963 | L5 | Hold | Hanya skor model; tiada ujian atau literatur. |
+| Penyakit Kummell | 0.9955 | L5 | Hold | Hanya skor model; tiada mekanisme didorong TNF yang jelas. |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

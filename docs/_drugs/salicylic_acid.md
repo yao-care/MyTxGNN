@@ -3,16 +3,18 @@ layout: default
 title: Salicylic Acid
 parent: Low Evidence (L4-L5)
 nav_order: 636
-evidence_level: L4
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Salicylic Acid: indikasi baharu diramal Penyakit keratinisasi (keratinization disease) (tahap bukti L4). Indikasi asal: Jerawat (akne), dermatitis seboroik, keratosis seboroik, tinea pedis…"
+evidence_level: L5
+indication_count: 9
+monitor_inn: "Salicylic Acid"
+predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "rosacea conjunctivitis", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "myosclerosis", "brachyolmia"]
+last_modified_at: 2026-10-23
+description: "Salicylic Acid: indikasi baharu diramal Konjunktivitis papilari (papillary conjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Salicylic Acid
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,86 +33,73 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-## Asid Salisilik: Daripada Jerawat (Akne) kepada Penyakit Keratinisasi
+## Salicylic Acid: Konjunktivitis papilari (papillary conjunctivitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Asid salisilik ialah agen keratolitik topikal yang telah lama digunakan untuk keadaan kulit seperti jerawat, dermatitis seboroik dan keratosis seboroik.
-Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit keratinisasi** (gangguan pengkeratinan kulit).
-Setakat ini **tiada ujian klinikal** didaftarkan untuk kategori ini, dan sokongan hanya datang daripada **10 penerbitan terpilih** yang kebanyakannya ulasan, laporan kes dan kajian mekanistik.
+Asid salisilik ialah agen keratolitik topikal yang juga merupakan perencat COX tidak selektif dengan kesan anti-radang. Model TxGNN meramalkan ia mungkin berkesan untuk **konjunktivitis papilari**, tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini.
 
----
-
-## Gambaran Keseluruhan
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jerawat (akne), dermatitis seboroik, keratosis seboroik, tinea pedis, artritis reumatoid dan lain-lain (berdasarkan graf pengetahuan TxGNN; tiada teks indikasi lesen tempatan) |
-| Indikasi Baharu yang Diramalkan | Penyakit keratinisasi (*keratinization disease*) |
-| Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Tangguh) |
-
----
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Konjunktivitis papilari (papillary conjunctivitis) |
+| Skor Ramalan TxGNN | 0.9988 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 71 daripada 71) |
+| Bilangan Pendaftaran | 71 (sah: 71) |
+| Bilangan Kelulusan | 71 pendaftaran (36 produk bahan tunggal, 35 produk kombinasi) |
+| Keputusan yang Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, asid salisilik ialah agen keratolitik yang sudah mantap. Ia mengganggu perpaduan antara korneosit dan menggalakkan pelupusan sel (deskuamasi) lapisan tanduk kulit. Kesannya terhadap jerawat dan keadaan hiperkeratotik lain telah diketahui, dan secara mekanistik ia mungkin sesuai untuk gangguan keratinisasi.
+Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, asid salisilik ialah agen keratolitik topikal dan perencat COX tidak selektif. Melalui pengurangan keradangan yang dimediasi prostaglandin, secara teori ia boleh dikaitkan dengan keadaan keradangan atau alahan pada permukaan mata.
 
-Penyakit keratinisasi merangkumi keadaan seperti xerosis, keratoderma dan iktiosis, yang melibatkan pengkeratinan dan pengelupasan kulit yang tidak normal. Kajian makmal menunjukkan asid salisilik menekan laluan AMPK/SREBP1 dalam sebosit, sekali gus mengurangkan sintesis lipid. Ini menyokong kewajarannya dalam keadaan yang melibatkan pengkeratinan folikel berlebihan.
+Namun, hubungan ini bersifat spekulatif dan hanya bersandarkan skor ramalan model TxGNN (pembelajaran mendalam), yang mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Tiada penggunaan oftalmik disokong, dan penggunaan terus pada mata menimbulkan kebimbangan iritasi dan ketoksikan kornea.
 
-Perlu diberi perhatian bahawa penggunaan keratolitik ini bertindih dengan indikasi sedia ada asid salisilik (jerawat, dermatitis seboroik, keratosis seboroik). Oleh itu ini bukan pemanfaatan semula yang benar-benar baharu, dan kategori ini terlalu luas dan heterogen.
+Ramalan lain dalam senarai (cth. sindrom displasia rangka yang jarang berlaku seperti pseudoakondroplasia dan brakiolmia) kelihatan lebih mencerminkan persamaan yang dipelajari oleh model TxGNN (pembelajaran mendalam) antara penyakit yang berkaitan, bukan bukti biologi, berbanding rasional terapeutik. Rosacea konjunktivitis hanya mempunyai rasional tidak langsung yang sederhana.
 
----
+## Bukti Percubaan Klinikal
 
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
-
----
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [23986157](https://pubmed.ncbi.nlm.nih.gov/23986157/) | 2013 | RCT | J Drugs Dermatol | Percubaan buta berganda menilai krim asid alfa/poli-hidroksi 20% untuk mengurangkan sisik psoriasis plak; asid salisilik dirujuk sebagai pembanding keratolitik lazim, bukan agen yang diuji secara langsung |
-| [29077501](https://pubmed.ncbi.nlm.nih.gov/29077501/) | 2017 | Ulasan | J Am Podiatr Med Assoc | Pengurusan keratoderma plantar berdasarkan pengajaran daripada pakionikia kongenita; rawatan perlu disesuaikan mengikut subjenis |
-| [11976541](https://pubmed.ncbi.nlm.nih.gov/11976541/) | 2002 | Ulasan | Ann Dermatol Venereol | Ulasan xerosis: struktur lapisan tanduk berubah dengan kelainan keratinisasi, lipid permukaan dan pH |
-| [26916232](https://pubmed.ncbi.nlm.nih.gov/26916232/) | 2016 | Ulasan | J Eur Acad Dermatol Venereol | Peranan dermokosmetik topikal dalam jerawat, sebagai monoterapi atau gabungan dengan rawatan perubatan |
-| [30972839](https://pubmed.ncbi.nlm.nih.gov/30972839/) | 2019 | Praklinikal | Exp Dermatol | Asid salisilik merawat jerawat dengan menekan laluan AMPK/SREBP1 dalam sebosit |
-| [41231204](https://pubmed.ncbi.nlm.nih.gov/41231204/) | 2026 | Praklinikal (tikus) | J Drug Target | Gel asid salisilik bersama nanoemulsi mupirosin pada model psoriasis tikus; asid salisilik membantu penembusan lapisan tanduk |
-| [10449958](https://pubmed.ncbi.nlm.nih.gov/10449958/) | 1999 | Kajian perbandingan | Dermatology | Perbandingan asid retinoik, asid glikolik dan derivatif lipofilik asid salisilik pada epidermis rosak akibat cahaya |
-| [31032792](https://pubmed.ncbi.nlm.nih.gov/31032792/) | 2019 | Laporan kes | Acta Dermatovenerol Croat | Pengelupasan asid salisilik 30% bersama pengeluaran komedo secara mekanikal untuk sindrom Favre-Racouchot |
-| [29500825](https://pubmed.ncbi.nlm.nih.gov/29500825/) | 2018 | Laporan kes | J Dermatol | Keratoderma palmoplantar punktata jenis I dirawat dengan asitretin dos rendah, asid salisilik topikal dan steroid |
-| [28223752](https://pubmed.ncbi.nlm.nih.gov/28223752/) | 2017 | Laporan kes | Ann Dermatol | Dermatosis terra firma-forme dirawat dengan pengelupasan alkohol asid salisilik |
+Pada masa ini tiada literatur berkaitan tersedia.
 
----
+## Maklumat Pasaran Malaysia
+
+Berikut ialah lima daripada 71 pendaftaran (senarai penuh lengkap, bukan separa). Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+
+| Nombor Kebenaran | Nama Produk | Jenis | Pengilang |
+|---------|------|------|-----------|
+| MAL19961282XZ | TOOPRIN TABLET | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. |
+| MAL21096015HX | Salicyline 50%w/w Powder for Oral Solution | Bahan tunggal | Rhone Ma Malaysia Sdn Bhd |
+| MAL17076014XZ | NW SALICYLIC ACID 2%W/W CREAM | Bahan tunggal | NATURAL WELLNESS INDUSTRIES SDN. BHD. |
+| MAL12075080XZ | XORLYX 2 Salicylic Acid 2% w/w Ointment | Bahan tunggal | Xorix Sdn Bhd |
+| MAL20172843XC | Collomack Topical Solution 10% w/w | Bahan tunggal | DCH AURIGA (MALAYSIA) SDN. BHD. |
 
 ## Pertimbangan Keselamatan
 
-Maklumat keselamatan daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Interaksi Ubat**: Satu rekod farmakologi mengenal pasti ASIC3 (saluran ion pengesan asid) sebagai sasaran yang dicadangkan, tetapi tahap interaksi tidak ditetapkan. Data bioaktiviti awam yang mengesahkan sasaran utama juga tidak ditemui.
+- **Kebimbangan Spesifik Ramalan**: Penggunaan terus pada mata berisiko menyebabkan iritasi dan ketoksikan kornea. Salisilat juga membawa kebimbangan ketoksikan perkembangan.
 
-Satu tinjauan literatur (PMID 24472429) mengingatkan bahawa keracunan salisilat (*salicylism*) boleh berlaku walaupun jarang, terutamanya jika asid salisilik disapu secara topikal pada kawasan luas.
-
----
+Sila rujuk sisip bungkusan untuk maklumat keselamatan yang lengkap.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tangguh)**
+**Keputusan: Hold (Tahan)**
 
-**Justifikasi:**
-- Tiada ujian klinikal didaftarkan untuk penyakit keratinisasi, dan literatur terdiri daripada ulasan, laporan kes serta kajian mekanistik. Kategori ini juga luas dan bertindih dengan indikasi sedia ada, jadi bukti setakat ini belum cukup untuk diteruskan.
-- Dalam senarai ramalan yang sama, **jerawat** dan **ketuat plantar** mempunyai bukti lebih kukuh (L1) dan layak dinilai dengan langkah berjaga-jaga. Namun jerawat sudah menjadi indikasi asal, dan produk ini tidak dipasarkan di Malaysia.
+**Rasional:**
+Ramalan ini hanya berasaskan model (tahap bukti L5) tanpa sebarang percubaan klinikal atau penerbitan yang mengkaji penyakit ini secara langsung, dan penggunaan pada mata menimbulkan kebimbangan keselamatan yang ketara.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Menentukan subjenis penyakit keratinisasi yang khusus (contohnya keratoderma, iktiosis, keratosis pilaris) supaya penilaian lebih tepat
-- Ujian klinikal terkawal untuk subjenis yang dipilih
-- Data mekanisme tindakan (MOA) yang terperinci
-- Amaran, kontraindikasi dan maklumat keselamatan daripada sisipan pakej yang diluluskan, serta pelan pemantauan keselamatan (had kawasan dan tempoh sapuan, risiko salisilisme)
-- Penilaian status pendaftaran dan laluan pentadbiran produk di Malaysia, kerana tiada lesen berdaftar buat masa ini
+- Data mekanisme tindakan (MOA) terperinci
+- Amaran dan kontraindikasi daripada sisip bungkusan NPRA
+- Kajian praklinikal keselamatan oftalmik dan kesesuaian laluan pemberian
+- Bukti literatur atau percubaan yang mengkaji konjunktivitis papilari secara langsung
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

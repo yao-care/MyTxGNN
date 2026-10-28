@@ -6,9 +6,9 @@ nav_order: 295
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Diosmin: indikasi baharu diramal Amenorea (tahap bukti L5). Indikasi asal: Tiada data indikasi asal dalam data pendaftaran tempatan"
 monitor_inn: "DIOSMIN"
 predicted_indications: ["amenorrhea (disease)"]
+description: "Diosmin: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Diosmin
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Diosmin: Daripada Penggunaan Asal (Tiada Data) kepada Amenorea
+## Diosmin: Amenorea (amenorrhea (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Diosmin ialah flavonoid dengan aktiviti venoaktif yang secara amnya dikaitkan dengan tonus vena dan mikrosirkulasi, tetapi data pendaftaran tempatan yang dikumpulkan untuk laporan ini tidak menyenaraikan sebarang indikasi asal.
-Model TxGNN meramalkan ia mungkin berkesan untuk **amenorea**, dengan skor ramalan tinggi (99.42%).
+Model TxGNN meramalkan ia mungkin berkesan untuk **amenorea**, dengan skor ramalan tinggi (0.9942).
 Namun, pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini, jadi bukti hanya bersandarkan ramalan model.
 
 ---
@@ -48,12 +48,12 @@ Namun, pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi asal dalam data pendaftaran tempatan |
-| Indikasi Baharu yang Diramalkan | Amenorea |
-| Skor Ramalan TxGNN | 99.42% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Amenorea (amenorrhea (disease)) |
+| Skor Ramalan TxGNN | 0.9942 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 20 daripada 20) |
+| Bilangan Pendaftaran | 20 (sah: 20) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -64,13 +64,12 @@ Pada masa ini, data terperinci mengenai mekanisme tindakan tidak tersedia. Berda
 
 Amenorea melibatkan gangguan paksi hipotalamus-pituitari-ovari, kehamilan, atau punca struktur dan endokrin. Sebarang kaitan antara kesan venoaktif atau anti-radang diosmin dengan keadaan ini bersifat spekulatif dan perlu dibuktikan secara bebas daripada set data ini.
 
-Satu-satunya sokongan ialah skor ramalan graf pengetahuan TxGNN yang tinggi (0.994; kedudukan 8124). Skor ini ialah ramalan pengiraan, bukan bukti klinikal atau eksperimen. Keserupaan dengan indikasi asal masih belum dinilai.
+Satu-satunya sokongan ialah skor ramalan model TxGNN (pembelajaran mendalam) TxGNN yang tinggi (0.9942; kedudukan 8124). Skor ini ialah ramalan pengiraan, bukan bukti klinikal atau eksperimen. Keserupaan dengan indikasi asal masih belum dinilai.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Diosmin pada masa ini **tidak dipasarkan** di Malaysia mengikut data NPRA yang dikumpulkan, dan tiada lesen berdaftar.
 
 ---
 

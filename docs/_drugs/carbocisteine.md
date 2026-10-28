@@ -48,10 +48,10 @@ Carbocisteine ialah ubat mukolitik (derivatif sisteina) yang lazimnya digunakan 
 |------|------|
 | Indikasi Asal | Tiada data indikasi yang diluluskan daripada pendaftaran NPRA |
 | Indikasi Baharu yang Diramalkan | Gout |
-| Skor Ramalan TxGNN | 99.67% |
+| Skor Ramalan TxGNN | 0.9967 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 18 daripada 18) |
+| Bilangan Pendaftaran | 18 (sah: 18) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -60,7 +60,7 @@ Carbocisteine ialah ubat mukolitik (derivatif sisteina) yang lazimnya digunakan 
 
 Data terperinci tentang mekanisme tindakan (MOA) carbocisteine tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Carbocisteine diketahui sebagai mukolitik yang mengubah suai rembesan glikoprotein mukus, serta mempunyai sifat antioksidan dan anti-radang.
 
-Sifat anti-radang ini mungkin berkait secara longgar dengan keradangan dalam artritis gout. Namun, tiada bukti yang menghubungkannya dengan metabolisme urat, perencatan xanthine oxidase, perencatan URAT1, atau modulasi inflammasom NLRP3 dalam gout. Skor TxGNN (0.997) ialah ramalan model sahaja dan belum disahkan oleh mana-mana sumber klinikal atau literatur. Kesamaan dengan indikasi asal juga belum dinilai.
+Sifat anti-radang ini mungkin berkait secara longgar dengan keradangan dalam artritis gout. Namun, tiada bukti yang menghubungkannya dengan metabolisme urat, perencatan xanthine oxidase, perencatan URAT1, atau modulasi inflammasom NLRP3 dalam gout. Skor TxGNN (0.9967) ialah ramalan model sahaja dan belum disahkan oleh mana-mana sumber klinikal atau literatur. Kesamaan dengan indikasi asal juga belum dinilai.
 
 ---
 

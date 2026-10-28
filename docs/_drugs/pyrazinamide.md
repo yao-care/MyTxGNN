@@ -6,9 +6,9 @@ nav_order: 609
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Pyrazinamide: indikasi baharu diramal Otitis media berjangkit (infectious otitis media) (tahap bukti L5). Indikasi asal: Tuberkulosis pulmonari, tuberkulosis meninges, meningitis tuberkulosis"
 monitor_inn: "PYRAZINAMIDE"
 predicted_indications: ["infectious otitis media", "middle ear disease", "otosalpingitis", "chronic otitis media", "suppurative otitis media", "non-suppurative otitis media", "middle ear cholesterol granuloma", "allergic otitis media", "Lyme disease", "infectious otitis interna"]
+description: "Pyrazinamide: indikasi baharu diramal Otitis media berjangkit (infectious otitis media) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Pyrazinamide
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Pyrazinamide: Daripada Tuberkulosis Pulmonari kepada Otitis Media Berjangkit
+## Pyrazinamide: Otitis media berjangkit (infectious otitis media)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada kajian literatur** yan
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tuberkulosis pulmonari, tuberkulosis meninges, meningitis tuberkulosis |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Otitis media berjangkit (infectious otitis media) |
-| Skor Ramalan TxGNN | 99.96% |
+| Skor Ramalan TxGNN | 0.9996 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada kajian literatur** yan
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, pyrazinamide ialah komponen rejimen anti-tuberkulosis berbilang ubat, keberkesanannya dalam tuberkulosis telah terbukti, dan aktivitinya bergantung kepada pH berasid melalui asid pirazinoik, yang aktif terhadap *Mycobacterium tuberculosis*.
 
-Skor TxGNN yang tinggi (0.9996) berkemungkinan mencerminkan kedekatan dalam graf pengetahuan dengan otitis tuberkulosis, dan bukan hubungan antibakteria yang sebenar. Otitis media berjangkit biasa disebabkan oleh *Streptococcus pneumoniae*, *Haemophilus influenzae* dan *Moraxella catarrhalis*, yang tidak dilitupi oleh pyrazinamide. Oleh itu, kemunasabahan mekanistik untuk indikasi ini **lemah**.
+Skor TxGNN yang tinggi (0.9996) datang daripada model TxGNN (pembelajaran mendalam) dan berkemungkinan mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, seperti otitis tuberkulosis, dan bukan bukti biologi tentang hubungan antibakteria yang sebenar. Otitis media berjangkit biasa disebabkan oleh *Streptococcus pneumoniae*, *Haemophilus influenzae* dan *Moraxella catarrhalis*, yang tidak dilitupi oleh pyrazinamide. Oleh itu, kemunasabahan mekanistik untuk indikasi ini **lemah**.
 
 Perlu diingat bahawa bagi kes otitis media tuberkulosis yang jarang berlaku, pyrazinamide sudah menjadi sebahagian daripada rawatan piawai anti-tuberkulosis. Ini adalah lanjutan indikasi sedia ada, bukan isyarat penggunaan semula ubat yang baharu.
 
@@ -117,8 +117,7 @@ Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi rasmi.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan hanya berasaskan model tanpa sebarang ujian klinikal atau literatur sokongan langsung. Pyrazinamide tidak aktif terhadap patogen biasa otitis media, dan skor tinggi berkemungkinan hanya mencerminkan kedekatan graf dengan otitis tuberkulosis, yang sudah dilitupi indikasi TB sedia ada.
-- Ubat ini juga tidak dipasarkan di Malaysia (tiada pendaftaran NPRA).
+- Ramalan hanya berasaskan model tanpa sebarang ujian klinikal atau literatur sokongan langsung. Pyrazinamide tidak aktif terhadap patogen biasa otitis media, dan skor tinggi daripada model TxGNN (pembelajaran mendalam) berkemungkinan hanya mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, seperti otitis tuberkulosis, dan bukan bukti biologi; otitis tuberkulosis itu sudah dilitupi indikasi TB sedia ada.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci

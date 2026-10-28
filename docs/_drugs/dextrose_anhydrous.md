@@ -8,6 +8,7 @@ nav_order: 279
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Dextrose Anhydrous
@@ -47,8 +48,8 @@ Dekstrosa Anhidrat (glukosa anhidrat) ialah agen nutrisi dan metabolik asas yang
 | Petunjuk Terapeutik Ramalan | **Tiada** — TxGNN tidak mengembalikan sebarang ramalan |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 (Tiada ramalan, tiada kajian) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 15 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 15) |
 | Keputusan Yang Disyorkan | **Tahan** |
 
 ---

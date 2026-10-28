@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Vonoprazan
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 729
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Vonoprazan: indikasi baharu diramal Ulser gastrik (gastric ulcer) (tahap bukti L1). Indikasi asal: Tiada data indikasi lesen tempatan dalam data yang dikompilasi"
+evidence_level: L5
+indication_count: 8
 monitor_inn: "Vonoprazan"
-predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "achlorhydria", "Dieulafoy lesion", "pylorospasm"]
+predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "achlorhydria", "cascade stomach", "Dieulafoy lesion", "pylorospasm", "gastric dilatation", "hemorrhagic duodenitis"]
+last_modified_at: 2026-10-23
+description: "Vonoprazan: indikasi baharu diramal Perforasi ulser peptik (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam rekod lesen tempatan"
 ---
 
 # Vonoprazan
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,123 +33,88 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-## Vonoprazan: Daripada Penyakit Berkaitan Asid kepada Ulser Gastrik
+## Vonoprazan: Daripada Penyakit Berkaitan Asid kepada Perforasi Ulser Peptik
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Vonoprazan ialah perencat asid bersaing kalium (P-CAB) yang diluluskan di Jepun dan negara lain untuk penyakit berkaitan asid. Data yang dikompilasi untuk laporan ini tidak mencatatkan sebarang indikasi asal berdasarkan lesen tempatan.
-Model TxGNN meramalkan ia mungkin berkesan untuk **ulser gastrik**, dengan **15 ujian klinikal** dan **20 penerbitan** yang disenaraikan sebagai sokongan, termasuk dua ujian Fasa 3 rawak yang telah selesai.
+Vonoprazan ialah penyekat asid bersaing kalium (P-CAB) yang menekan rembesan asid gastrik. Model TxGNN meramalkan ia mungkin berkesan untuk **perforasi ulser peptik** (skor 0.9997). Tiada percubaan klinikal berdaftar, dan hanya **3 penerbitan** (dua garis panduan dan satu meta-analisis) yang menyentuh ulser gastrik/duodenum biasa, bukan perforasi itu sendiri.
 
----
+## Gambaran Keseluruhan Pantas
 
-## Gambaran Ringkas
-
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi lesen tempatan dalam data yang dikompilasi |
-| Indikasi Baharu yang Diramalkan | Ulser gastrik (gastric ulcer) |
-| Skor Ramalan TxGNN | 99.99% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
-
-> **Nota penting:** Data menunjukkan status "tidak dipasarkan" dan tiada pendaftaran di Malaysia, tetapi ini bercanggah dengan hakikat bahawa vonoprazan diluluskan di Jepun (Takecab) dan Amerika Syarikat (Voquezna). Ini berkemungkinan jurang data. Status pendaftaran NPRA perlu disahkan sebelum sebarang syor dimuktamadkan.
-
----
+| Indikasi Asal | Tiada teks indikasi diluluskan dalam rekod lesen tempatan |
+| Indikasi Baharu yang Diramalkan | Perforasi ulser peptik |
+| Skor Ramalan TxGNN | 0.9997 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
+| Bilangan Kelulusan | 4 lesen (semua produk tunggal, sah) |
+| Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Vonoprazan ialah perencat asid bersaing kalium (P-CAB). Ia menghalang H+/K+-ATPase (pam proton) dalam sel parietal gastrik secara boleh balik, memberikan penindasan asid yang pantas dan berpanjangan. Kesannya tidak bergantung pada genotip CYP2C19 atau waktu pengambilan makanan. Sasaran farmakologinya ialah ATP4A.
+Data terperinci mengenai mekanisme tindakan belum tersedia dalam data yang disusun untuk laporan ini. Berdasarkan maklumat sedia ada, vonoprazan menyekat H+/K+-ATPase (ATP4A) sel parietal gastrik secara berkesan dan berpanjangan. Kegunaannya dalam penyakit ulser gastrik/duodenum dan esofagitis erosif telah dilaporkan dalam literatur serta dalam penggunaan di Jepun dan Amerika Syarikat.
 
-Penindasan asid ialah asas terapeutik bagi penyembuhan ulser dan pencegahan kekambuhan. Oleh itu, hubungan mekanistik antara tindakan vonoprazan dengan ulser gastrik adalah langsung. Di Jepun, ia telah diluluskan sejak 2015 untuk ulser gastroduodenum dan esofagitis refluks. Di AS, ia diluluskan pada 2022 sebagai sebahagian daripada pek rawatan eradikasi *H. pylori*, dan pada November 2023 diperluas kepada esofagitis erosif.
+Penindasan asid munasabah sebagai rawatan sokongan selepas perforasi (penyembuhan ulser, pencegahan berulang). Namun perforasi ialah kecemasan pembedahan, dan tiada bukti menunjukkan vonoprazan merawat perforasi itu sendiri. Bukti yang ada hanya merangkumi ulser gastrik/duodenum tanpa komplikasi.
 
-Data mekanisme tindakan terperinci (MOA) daripada pangkalan data rasmi tidak tersedia dalam data yang dikompilasi, namun maklumat farmakologi dan literatur yang ada konsisten dengan penerangan di atas.
+Garis panduan Persatuan Gastroenterologi Jepun (2020 dan 2026) turut membincangkan terapi konservatif untuk perforasi, tetapi petikan yang tersedia tidak menunjukkan dapatan khusus tentang vonoprazan dalam perforasi.
 
----
+## Bukti Percubaan Klinikal
 
-## Bukti Ujian Klinikal
-
-Berikut ialah ujian yang paling relevan untuk ulser gastrik dan keadaan berkaitan.
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT03050307](https://clinicaltrials.gov/study/NCT03050307) | Fasa 3 | Selesai | 234 | RCT buta dua, dubel-dummy: TAK-438 20 mg berbanding lansoprazol 30 mg untuk ulser gastrik; matlamat ketaksemestian (non-inferiority) |
-| [NCT03050359](https://clinicaltrials.gov/study/NCT03050359) | Fasa 3 | Selesai | 533 | RCT yang sama untuk ulser duodenum; kajian pendamping |
-| [NCT06526455](https://clinicaltrials.gov/study/NCT06526455) | Fasa 4 | Belum merekrut | 196 | Vonoprazan berbanding esomeprazol untuk ulser selepas diseksi submukosa endoskopik (ESD) |
-| [NCT03214952](https://clinicaltrials.gov/study/NCT03214952) | N/A | Selesai | 3183 | Pengawasan penggunaan ubat pasca-pemasaran untuk ulser gastrik, ulser duodenum dan esofagitis refluks |
-| [NCT03214198](https://clinicaltrials.gov/study/NCT03214198) | N/A | Selesai | 1304 | Pengawasan jangka panjang pencegahan kekambuhan ulser pada pesakit yang mengambil NSAID |
-| [NCT03214094](https://clinicaltrials.gov/study/NCT03214094) | N/A | Selesai | 1119 | Pengawasan jangka panjang pencegahan kekambuhan ulser pada pesakit aspirin dos rendah |
-| [NCT07267260](https://clinicaltrials.gov/study/NCT07267260) | Fasa 2 | Sedang merekrut | 154 | Pencegahan ulser selepas ligasi varises endoskopik pada pesakit sirosis |
-| [NCT07344506](https://clinicaltrials.gov/study/NCT07344506) | Fasa 4 | Sedang merekrut | 942 | Perbandingan tiga PPI/P-CAB dengan terapi tiga levofloksasin untuk eradikasi *H. pylori* |
-| [NCT07624422](https://clinicaltrials.gov/study/NCT07624422) | Fasa 4 | Belum merekrut | 150 | Terapi dwi vonoprazan dos tinggi berbanding terapi serentak levofloksasin untuk *H. pylori* |
-| [NCT03219723](https://clinicaltrials.gov/study/NCT03219723) | N/A | Selesai | 560 | Pengawasan penggunaan vonoprazan dalam terapi tiga eradikasi *H. pylori* |
-
----
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [39301419](https://pubmed.ncbi.nlm.nih.gov/39301419/) | 2024 | Meta-analisis rangkaian | Frontiers in Nutrition | Perbandingan keberkesanan dan keselamatan vonoprazan dengan pelbagai PPI dalam penyakit ulser peptik (RCT) |
-| [38491413](https://pubmed.ncbi.nlm.nih.gov/38491413/) | 2024 | Meta-analisis | BMC Gastroenterology | Vonoprazan berbanding PPI untuk ulser teraruh ESD gastrik |
-| [28267236](https://pubmed.ncbi.nlm.nih.gov/28267236/) | 2017 | RCT prospektif | Digestive Endoscopy | Kesan penyembuhan vonoprazan pada ulser gastrik buatan selepas ESD |
-| [33620586](https://pubmed.ncbi.nlm.nih.gov/33620586/) | 2021 | Garis panduan | Journal of Gastroenterology | Garis panduan klinikal Jepun untuk penyakit ulser peptik 2020 |
-| [32346304](https://pubmed.ncbi.nlm.nih.gov/32346304/) | 2020 | Kajian semula | Clinical and Experimental Gastroenterology | Ulasan ringkas data baharu vonoprazan fumarat untuk ulser gastrik |
-| [39145848](https://pubmed.ncbi.nlm.nih.gov/39145848/) | 2024 | Kajian semula | Current Gastroenterology Reports | Penggunaan klinikal semasa dan perkembangan masa depan P-CAB |
-| [38388872](https://pubmed.ncbi.nlm.nih.gov/38388872/) | 2024 | Kajian semula | Drugs | Vonoprazan dalam jangkitan *H. pylori*; kegagalan rawatan PPI sering dikaitkan dengan penindasan asid yang tidak mencukupi |
-| [25744862](https://pubmed.ncbi.nlm.nih.gov/25744862/) | 2015 | Kajian semula | Drugs | Kelulusan global pertama; digunakan di Jepun untuk ulser gastrik, ulser duodenum dan esofagitis |
-| [29282636](https://pubmed.ncbi.nlm.nih.gov/29282636/) | 2018 | Kajian semula | Digestive Diseases and Sciences | Vonoprazan sebagai alternatif baharu untuk penyakit berkaitan asid |
-| [38767885](https://pubmed.ncbi.nlm.nih.gov/38767885/) | 2024 | Kajian semula | FP Essentials | Ringkasan penyakit ulser peptik; punca utama ialah *H. pylori* dan NSAID |
+| [39294424](https://pubmed.ncbi.nlm.nih.gov/39294424/) | 2024 | Kajian sistematik/meta-analisis | Digestive Diseases and Sciences | Membandingkan vonoprazan dengan PPI untuk rawatan dan pencegahan ulser gastrik/duodenum; keberkesanan dalam ulser masih dipertikaikan |
+| [33620586](https://pubmed.ncbi.nlm.nih.gov/33620586/) | 2021 | Garis panduan | Journal of Gastroenterology | Garis panduan Jepun 2020 untuk penyakit ulser peptik, termasuk ulser berdarah, eradikasi H. pylori dan rawatan pembedahan |
+| [42635735](https://pubmed.ncbi.nlm.nih.gov/42635735/) | 2026 | Garis panduan | Journal of Gastroenterology | Edisi keempat garis panduan Jepun 2026, termasuk terapi konservatif untuk perforasi dan stenosis |
 
----
+## Maklumat Pasaran Malaysia
 
-## Maklumat Pasaran di Malaysia
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL19056003ARZ | Vocinti 20mg Film-Coated Tablet | – | – |
+| MAL19056002ARZ | Vocinti 10mg Film-Coated Tablet | – | – |
+| MAL23086019AZ | Vozan 20mg Film Coated Tablets | – | – |
+| MAL23086020AZ | Vozan 10mg Film Coated Tablets | – | – |
 
-Data yang dikompilasi menunjukkan tiada lesen berdaftar di Malaysia (0 pendaftaran), jadi tiada jadual lesen dipaparkan. Seperti dinyatakan di atas, ini perlu disahkan semula dengan NPRA.
-
----
+Pengeluar: Takeda Malaysia Sdn Bhd (Vocinti) dan Novugen Pharma Sdn Bhd (Vozan). Teks indikasi dan bentuk dos tidak terdapat dalam rekod lesen yang disusun.
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat:**
-- Pertanyaan interaksi telah selesai tetapi hanya mengembalikan maklumat farmakologi sasaran (ATP4A, pam proton gastrik). Tiada interaksi ubat-ubat yang spesifik disenaraikan.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-Untuk maklumat amaran, kontraindikasi dan interaksi yang lengkap, sila rujuk sisipan pakej.
+Dalam literatur yang diambil, terdapat isyarat keselamatan berkaitan penggunaan jangka panjang, iaitu perubahan mukosa gastrik dan rembesan asid melambung (rebound) selepas penghentian vonoprazan (laporan kes, PMID 39712905). Ini perlu diberi perhatian jika ubat digunakan dalam tempoh panjang.
 
----
+Pangkalan data interaksi hanya mencatatkan sasaran farmakologi ATP4A; tiada interaksi ubat-ubat klinikal dilaporkan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
+**Keputusan: Hold**
 
 **Rasional:**
-- Dua ujian Fasa 3 rawak, buta dua yang telah selesai (ulser gastrik dan duodenum) bersama meta-analisis dan garis panduan menyokong penggunaan dalam ulser. Mekanismenya langsung dan telah terbukti, tetapi status pendaftaran tempatan dan data keselamatan masih tidak lengkap.
+- Tiada percubaan klinikal dan tiada kajian yang meneliti perforasi ulser peptik secara langsung; bukti yang ada ialah untuk ulser tanpa komplikasi, jadi tahap bukti ialah L5. Perforasi memerlukan pembedahan atau pengurusan kecemasan, dan peranan vonoprazan paling sesuai sebagai terapi sokongan.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Mengesahkan status pendaftaran sebenar di NPRA (data menunjukkan "tidak dipasarkan", bercanggah dengan kelulusan antarabangsa).
-- Memuat turun dan menganalisis sisipan pakej untuk amaran dan kontraindikasi (jurang data yang menghalang, DG001).
-- Melengkapkan data MOA daripada DrugBank (DG002).
-- Mengesahkan indikasi tepat dan pembanding bagi NCT03050359 dan NCT03050307, kerana tajuk dipotong.
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Kajian yang meneliti vonoprazan secara langsung dalam pesakit perforasi ulser peptik (contohnya terapi selepas pembedahan)
+- Sisipan pakej NPRA (amaran, kontraindikasi, indikasi diluluskan)
+- Data mekanisme tindakan terperinci daripada DrugBank
+- Penilaian keselamatan untuk penggunaan jangka panjang
 
 ---
 
-## Ramalan Indikasi Lain (Ringkasan)
+### Nota Tambahan: Indikasi Lain yang Diramalkan
 
-| Indikasi | Skor TxGNN | Tahap Bukti | Syor |
+| Indikasi Diramalkan | Skor TxGNN | Bukti | Ulasan |
 |------|------|------|------|
-| Penyakit ulser peptik aktif | 99.97% | L2 | Proceed with Guardrails |
-| Esofagitis | 99.97% | L1 | Proceed with Guardrails |
-| Esofagitis peptik | 99.95% | L1 | Proceed with Guardrails |
-| Ulser gastrojejunal | 99.97% | L4 | Research Question (soalan penyelidikan) |
-| Perforasi ulser peptik | 99.97% | L4 | Hold |
-| Hernia hiatus | 99.88% | L3 | Research Question; manfaat hanya simptomatik |
-| Achlorhydria | 99.86% | L5 | Hold; penindasan asid selanjutnya bercanggah secara mekanistik, berkemungkinan artifak model |
-| Lesi Dieulafoy | 99.85% | L5 | Hold; tiada rasional mekanistik |
-| Pylorospasm | 99.85% | L5 | Hold; tiada sokongan klinikal |
-
-**Nota:** Esofagitis eosinofilik (NCT06851559, Fasa 2) ialah penggunaan penerokaan dengan mekanisme berbeza dan tidak patut dikelirukan dengan esofagitis refluks.
+| Hernia hiatus | 0.9988 | Kajian kohort pemerhatian (L3 oleh penilaian sedia ada, tiada kajian rawak) | Menyokong kawalan simptom refluks yang berkaitan, bukan rawatan kecacatan anatomi; sesuai sebagai soalan penyelidikan |
+| Duodenitis berdarah | 0.9974 | Garis panduan dan RCT fasa 3 untuk ulser gastrik/duodenum (tidak langsung) | Bukti tidak langsung; berhati-hati terhadap isyarat keselamatan jangka panjang |
+| Akhlorhidria | 0.9986 | Tiada | Mekanisme bercanggah; kemungkinan artifak ramalan |
+| Perut lata (cascade stomach), lesi Dieulafoy, pilorospasma, dilatasi gastrik | 0.9985 | Tiada kajian yang relevan | Tiada peranan mekanistik yang jelas; literatur yang ada tidak berkaitan atau melaporkan kesan sampingan |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

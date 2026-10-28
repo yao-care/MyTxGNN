@@ -6,9 +6,9 @@ nav_order: 599
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Prilocaine: indikasi baharu diramal Konjunktivitis papilari (tahap bukti L5). Indikasi asal: Ejakulasi pramatang"
 monitor_inn: "PRILOCAINE"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
+description: "Prilocaine: indikasi baharu diramal Konjunktivitis papilari (papillary conjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Prilocaine
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Prilocaine: Daripada Ejakulasi Pramatang kepada Konjunktivitis Papilari
+## Prilocaine: Konjunktivitis papilari (papillary conjunctivitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Setakat ini **tiada ujian klinikal** dan **tiada literatur** yang menyokong rama
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Ejakulasi pramatang; dispareunia psikologi |
-| Indikasi Baharu yang Diramalkan | Konjunktivitis papilari |
-| Skor Ramalan TxGNN | 99.78% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Konjunktivitis papilari (papillary conjunctivitis) |
+| Skor Ramalan TxGNN | 0.9978 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -62,7 +62,7 @@ Setakat ini **tiada ujian klinikal** dan **tiada literatur** yang menyokong rama
 
 Data terperinci mengenai mekanisme tindakan (MOA) belum tersedia. Berdasarkan maklumat sedia ada, prilocaine ialah anestetik tempatan jenis amida yang bertindak menyekat saluran natrium bergerbang voltan. Keberkesanannya dalam anestesia tempatan dan indikasi asal yang disenaraikan telah diketahui. Namun, hubungan mekanistik dengan keradangan alergi pada mata bersifat spekulatif.
 
-Konjunktivitis papilari ialah keadaan keradangan alergi pada permukaan mata, yang berbeza daripada indikasi asal (gangguan seksual). Tiada bukti klinikal atau literatur yang menghubungkan prilocaine dengan keadaan ini. Skor TxGNN yang tinggi mencerminkan corak dalam graf pengetahuan, bukan bukti keberkesanan sebenar. Kesesuaian laluan pentadbiran (contohnya formulasi oftalmik) juga belum dinilai.
+Konjunktivitis papilari ialah keadaan keradangan alergi pada permukaan mata, yang berbeza daripada indikasi asal (gangguan seksual). Tiada bukti klinikal atau literatur yang menghubungkan prilocaine dengan keadaan ini. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi tentang keberkesanan sebenar. Kesesuaian laluan pentadbiran (contohnya formulasi oftalmik) juga belum dinilai.
 
 ---
 
@@ -99,7 +99,7 @@ Interaksi bertaraf Moderate ialah morphine (liposomal), dan bertaraf Minor ialah
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan konjunktivitis papilari hanya berasaskan model komputasi (L5), tanpa sebarang ujian klinikal atau literatur sokongan. Prilocaine juga tidak dipasarkan di Malaysia.
+- Ramalan konjunktivitis papilari hanya berasaskan model komputasi (L5), tanpa sebarang ujian klinikal atau literatur sokongan.
 - Sebagai nota sampingan, indikasi lain dalam senarai ramalan yang sama, iaitu **neuralgia** (khususnya neuralgia pasca-herpes), mempunyai bukti yang lebih kukuh (L3). Ia merangkumi satu ujian Fasa 2 label terbuka dan beberapa laporan klinikal untuk krim EMLA (lidocaine/prilocaine), tetapi kesannya tidak dapat diasingkan daripada lidocaine. Indikasi ini wajar dinilai secara berasingan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

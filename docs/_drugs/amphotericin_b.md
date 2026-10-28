@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Amphotericin B
-parent: Low Evidence (L4-L5)
+parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 73
-evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Amphotericin B: indikasi baharu diramal Kandidiasis esofagus (tahap bukti L5). Indikasi asal: Kandidiasis (antara lain kandidiasis kulit, mulut dan esofagus)…"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Amphotericin B: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
+predicted_indications: []
 ---
 
 # Amphotericin B
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **N/A** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,69 +32,60 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Amphotericin B: Daripada Kandidiasis (Indikasi Asal) kepada Kandidiasis Esofagus
+<!-- known-uses-page -->
+<!-- description: Amphotericin B: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu -->
+## Amphotericin B: Kegunaan diketahui dan status pasaran di Malaysia
 {: .text-alpha }
 
-## Ringkasan Satu Ayat
+## Ringkasan
+Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih tinggi untuk Amphotericin B, jadi pada masa ini tiada indikasi baharu yang diramalkan. Kegunaan yang direkodkan untuk ubat ini disenaraikan di bawah.
 
-Amphotericin B ialah antikulat polien yang sejak lama digunakan untuk jangkitan kulat, termasuk kandidiasis.
-Model TxGNN meramalkan ia berkesan untuk **kandidiasis esofagus** (skor 0.00%), dengan **1 percubaan klinikal** dan **19 penerbitan** (kebanyakannya ulasan) dalam data yang dikumpulkan.
-Kandidiasis esofagus sudah tersenarai antara indikasi asal dalam graf pengetahuan, jadi ini **bukan pengubahsuaian guna yang benar-benar baharu**.
-
----
-
-## Gambaran Keseluruhan
-
+## Gambaran ringkas
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Kandidiasis (antara lain kandidiasis kulit, mulut dan esofagus), berdasarkan graf pengetahuan TxGNN. Tiada teks indikasi berlesen tempatan tersedia. |
-| Indikasi Baharu yang Diramalkan | Kandidiasis esofagus |
-| Skor Ramalan TxGNN | 0.00% |
-| Tahap Bukti | L4 (satu percubaan selesai tanpa fasa dan saiz sampel dilaporkan; literatur terutamanya ulasan naratif dan kajian pramklinikal) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi baharu yang diramalkan | Tiada (tiada calon model dengan skor 0.99 atau lebih tinggi) |
+| Kegunaan diketahui yang direkodkan untuk ubat ini | 15 |
+| Tahap bukti | Tidak berkenaan |
+| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 
----
+## Kegunaan diketahui yang direkodkan untuk ubat ini
 
-## Mengapa Ramalan Ini Munasabah?
+### Diluluskan (disokong oleh lesen atau label)
+| Indikasi | Sumber |
+|------|------|
+| Tiada | Tiada |
 
-Amphotericin B mengikat ergosterol pada membran sel kulat lalu membentuk liang. Ini menyebabkan kebocoran ion dan kematian sel. Mekanisme ini terterterus relevan kepada *Candida*, termasuk esofagitis kandidiasis.
+### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+| Indikasi | Kategori yang diluluskan |
+|------|------|
+| Tiada | Tiada |
 
-Indikasi ini sudah tersenarai antara kegunaan asal ubat tersebut. Amphotericin B lama digunakan sebagai pembanding atau terapi penyelamat untuk kandidiasis esofagus. Garis panduan semasa lebih mengutamakan azol dan ekinokandin kerana ketoksikan amphotericin B. Literatur juga menyebut bahawa flukonazol didapati sama atau lebih berkesan daripada amphotericin B untuk kandidiasis oral dan esofagus.
+### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+| Indikasi |
+|------|
+| jerawat (acne) |
+| penyakit berjangkit Actinomycetales (actinomycetales infectious disease) |
+| aktinomikosis (actinomycosis) |
+| servisitis gonokokus akut (acute gonococcal cervicitis) |
+| jangkitan antraks (anthrax infection) |
+| aspergilosis (aspergillosis) |
+| piedra hitam (black piedra) |
+| blastomikosis (blastomycosis) |
+| bronkitis (bronchitis) |
+| brusellosis (brucellosis) |
+| kandidemia (candidemia) |
+| kandidiasis (candidiasis) |
+| penyakit calar kucing (cat-scratch disease) |
+| kankroid (chancroid) |
+| kokidioidomikosis (coccidioidomycosis) |
 
-Data terperinci tentang mekanisme tindakan daripada pangkalan data ubat tidak tersedia dalam data yang dikumpulkan. Penjelasan di atas berdasarkan mekanisme yang diketahui umum.
+## Market information
 
----
-
-## Bukti Percubaan Klinikal
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00002041](https://clinicaltrials.gov/study/NCT00002041) | Tiada fasa (NA) | Selesai | Tidak dilaporkan | Menilai tempoh rawatan yang sesuai dan membandingkan dua dos amphotericin B untuk esofagitis *Candida* yang disahkan biopsi pada pesakit imunokompromi. Turut menilai sama ada dos rendah kurang toksik serta parameter farmakokinetik dan farmakodinamik. |
-
-Percubaan ini mungkin lama dan tidak mempunyai data hasil yang boleh diekstrak, jadi ia tidak boleh dianggap bukti RCT fasa 2/3.
-
----
-
-## Bukti Literatur
-
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [35699443](https://pubmed.ncbi.nlm.nih.gov/35699443/) | 2022 | Pramklinikal/klinikal | Antimicrob Agents Chemother | Amphotericin B berkoklea (formulasi oral baharu) dinilai pada model tikus dan pesakit kandidiasis mukokutaneus rintang azol. Rintangan amphotericin B jarang tetapi penggunaannya terhad oleh pemberian parenteral dan nefrotoksisiti. |
-| [41226935](https://pubmed.ncbi.nlm.nih.gov/41226935/) | 2025 | Ulasan | J Clin Med | Ulasan farmakoterapi untuk kandidiasis oral dan esofagus, terutamanya pada pesakit imunokompromi. |
-| [11590489](https://pubmed.ncbi.nlm.nih.gov/11590489/) | 2000 | Ulasan | HIV Clin Trials | Pilihan rawatan kandidiasis orofaring dan esofagus pada pesakit HIV/AIDS. Azol telah menggantikan antikulat topikal lama. |
-| [1750792](https://pubmed.ncbi.nlm.nih.gov/1750792/) | 1991 | Ulasan | ANNA J | Flukonazol didapati sama atau lebih berkesan daripada amphotericin B untuk kandidiasis oral dan esofagus. |
-| [7811544](https://pubmed.ncbi.nlm.nih.gov/7811544/) | 1994 | Ulasan | AIDS Res Hum Retroviruses | Kandidiasis mukosa rintang flukonazol semakin dikenali pada pesakit HIV. |
-| [3041396](https://pubmed.ncbi.nlm.nih.gov/3041396/) | 1988 | Ulasan | Postgrad Med | Pengurusan kandidiasis esofagus sebagai jangkitan oportunistik yang semakin lazim. |
-| [6339183](https://pubmed.ncbi.nlm.nih.gov/6339183/) | 1983 | Ulasan | Dig Dis Sci | Ciri klinikal esofagitis *Candida*, dengan odinofagia dan disfagia sebagai gejala utama. |
-| [2502408](https://pubmed.ncbi.nlm.nih.gov/2502408/) | 1989 | Ulasan | Eur J Clin Microbiol Infect Dis | Gambaran kandidiasis pada hos imunokompromi, terutamanya pesakit kanser. |
-| [19029563](https://pubmed.ncbi.nlm.nih.gov/19029563/) | 2008 | Ulasan (ubat pembanding) | Indian Pediatr | Kaspofungin setanding dengan amphotericin B dan flukonazol untuk kandidiasis orofaring/esofagus. |
-| [2040125](https://pubmed.ncbi.nlm.nih.gov/2040125/) | 1991 | Ulasan (ubat pembanding) | Clin Pharm | Flukonazol berlabel untuk kandidiasis orofaring dan esofagus. |
-
-Hanya 10 daripada 19 penerbitan disenaraikan. Tiada RCT atau tinjauan sistematik khusus untuk kandidiasis esofagus dikesan dalam data ini.
-
----
+| No. pendaftaran | Produk | Bentuk dos | Status |
+|------|------|------|------|
+| MAL09072763AZ | AMPHOTRET FOR INJECTION USP 50MG |  | Sah |
+| MAL10053649AZ | AMPHOLIP Injection 50mg/10ml |  | Sah |
 
 ## Pertimbangan Keselamatan
 
@@ -105,18 +97,6 @@ Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
 
 ---
 
-## Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Hold**
-
-**Rasional:**
-- Amphotericin B berpotensi secara mekanisme, tetapi ini bukan penemuan pengubahsuaian guna yang baharu. Bukti klinikal khusus untuk kandidiasis esofagus lemah (satu percubaan tanpa fasa dan data hasil, serta literatur terutamanya ulasan lama). Ubat ini juga tidak dipasarkan di Malaysia, dan garis panduan semasa mengutamakan azol dan ekinokandin.
-
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA (diperlukan sebelum saringan keselamatan).
-- Data terperinci mekanisme tindakan.
-- Pengesahan status pasaran, termasuk formulasi tertentu (contohnya lipid) yang mungkin berdaftar.
-- Bukti perbandingan terkini dengan azol dan ekinokandin untuk kandidiasis esofagus, jika ada.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

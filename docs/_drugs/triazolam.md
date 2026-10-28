@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Triazolam
-parent: Low Evidence (L4-L5)
+parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 701
-evidence_level: L4
-indication_count: 1
-last_modified_at: 2026-10-15
-description: "Triazolam: indikasi baharu diramal Gangguan tidur (memulakan dan mengekalkan tidur) (tahap bukti L4). Indikasi asal: Insomnia"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Triazolam: kegunaan sedia ada dan status pasaran di Malaysia; pada masa ini tiada indikasi calon baharu"
+predicted_indications: []
 ---
 
 # Triazolam
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **1** 
+Tahap bukti: **N/A** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,67 +32,45 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-## Triazolam: Daripada Insomnia kepada Gangguan Tidur (Memulakan dan Mengekalkan Tidur)
+<!-- known-uses-page -->
+<!-- description: Triazolam: kegunaan sedia ada dan status pasaran di Malaysia; pada masa ini tiada indikasi calon baharu -->
+## Triazolam: Kegunaan sedia ada dan status pasaran di Malaysia
 {: .text-alpha }
 
-## Ringkasan Satu Ayat
+## Ringkasan
+Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Triazolam, dan yang boleh dijejaki kepada sumber, ialah kegunaan sedia ada. Oleh itu, pada masa ini tiada indikasi baharu yang diramalkan untuk ubat ini. Satu kegunaan sedia ada dikenal pasti dalam kalangan calon model, iaitu dalam kategori penyakit yang sama dengan indikasi yang diluluskan.
 
-Triazolam ialah benzodiazepin bertindak pendek yang pada asalnya digunakan untuk merawat insomnia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan tidur (memulakan dan mengekalkan tidur)**, tetapi indikasi ini pada dasarnya sama dengan indikasi asalnya, jadi ia bukan calon repurposing yang sebenar.
-Pada masa ini terdapat **0 percubaan klinikal** dan **20 penerbitan** (kebanyakannya ulasan dan garis panduan) yang berkaitan dengan arah ini.
-
----
-
-## Gambaran Keseluruhan Pantas
-
-| Item | Kandungan |
+## Gambaran ringkas
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Insomnia |
-| Indikasi Baharu yang Diramalkan | Gangguan tidur (memulakan dan mengekalkan tidur) |
-| Skor Ramalan TxGNN | 99.72% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejaki ialah kegunaan sedia ada) |
+| Kegunaan sedia ada dalam kalangan calon model | 1 |
+| Tahap bukti | Tidak berkenaan |
+| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 
----
+## Kegunaan sedia ada dalam kalangan calon model
 
-## Mengapa Ramalan Ini Munasabah?
+### Diluluskan (disokong oleh lesen atau label)
+| Indikasi | Sumber |
+|------|------|
+| Tiada | Tiada |
 
-Triazolam ialah benzodiazepin bertindak pendek yang bertindak sebagai modulator alosterik positif reseptor GABA-A. Ia meningkatkan neurotransmisi GABAergik perencat dan menghasilkan kesan sedatif-hipnotik. Data mekanisme tindakan terperinci tidak terdapat dalam data yang dikumpulkan untuk laporan ini, maka huraian ini berdasarkan pengetahuan farmakologi am.
+### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+| Indikasi | Kategori yang diluluskan |
+|------|------|
+| Gangguan tidur, memulakan dan mengekalkan tidur (sleep disorder, initiating and maintaining sleep) | insomnia |
 
-Kesukaran memulakan dan mengekalkan tidur ialah manifestasi utama insomnia, iaitu indikasi asal triazolam. Oleh itu, skor TxGNN yang sangat tinggi (99.72%) kemungkinan besar mencerminkan pertindihan dengan indikasi sedia ada, bukan isyarat terapeutik baharu. Ramalan ini wajar dari segi mekanisme, tetapi nilai repurposingnya rendah.
+### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+| Indikasi |
+|------|
+| Tiada |
 
----
+## Market information
 
-## Bukti Percubaan Klinikal
-
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
-
----
-
-## Bukti Literatur
-
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [27998379](https://pubmed.ncbi.nlm.nih.gov/27998379/) | 2017 | Garis panduan | J Clin Sleep Med | Garis panduan AASM untuk rawatan farmakologi insomnia kronik dewasa, memberi tumpuan kepada ubat individu |
-| [40110890](https://pubmed.ncbi.nlm.nih.gov/40110890/) | 2025 | Sorotan sistematik/Meta-analisis | Psychiatry Clin Neurosci | Keberkesanan dan keselamatan setiap kelas ubat tidur (termasuk benzodiazepin) bagi kemurungan major dengan insomnia |
-| [38401406](https://pubmed.ncbi.nlm.nih.gov/38401406/) | 2024 | Sorotan sistematik/Meta-analisis rangkaian | Eur Neuropsychopharmacol | Kesan baki ubat tidur terhadap prestasi memandu |
-| [33249496](https://pubmed.ncbi.nlm.nih.gov/33249496/) | 2021 | Sorotan sistematik/Meta-analisis rangkaian | Sleep | Perbandingan keberkesanan dan keselamatan hipnotik untuk insomnia pada warga emas |
-| [39932761](https://pubmed.ncbi.nlm.nih.gov/39932761/) | 2025 | Ulasan | Minerva Med | Ulasan gangguan insomnia: prevalens, diagnosis dan kesan kesihatan |
-| [30058034](https://pubmed.ncbi.nlm.nih.gov/30058034/) | 2018 | Ulasan | Drugs Aging | Cadangan pengurusan farmakologi insomnia pada warga emas |
-| [27751669](https://pubmed.ncbi.nlm.nih.gov/27751669/) | 2016 | Ulasan | Clin Ther | Keselamatan dan keberkesanan ubat tidur pada warga emas |
-| [2567741](https://pubmed.ncbi.nlm.nih.gov/2567741/) | 1989 | Ulasan | J Clin Psychopharmacol | Insomnia lantun balik selepas penghentian triazolam dan benzodiazepin bertindak pendek lain |
-| [9161660](https://pubmed.ncbi.nlm.nih.gov/9161660/) | 1997 | Ulasan | Ann Pharmacother | Perbandingan zolpidem dengan triazolam dari segi keberkesanan dan keselamatan |
-| [8573298](https://pubmed.ncbi.nlm.nih.gov/8573298/) | 1995 | Ulasan | Drug Saf | Penilaian hipnotik bertindak pendek |
-
----
-
-## Bukti Kardiotoksisiti dan Sitotoksisiti
-
-Bahagian ini tidak berkenaan kerana triazolam bukan ubat antineoplastik.
-
----
+| No. pendaftaran | Produk | Bentuk dos | Status |
+|------|------|------|------|
+| MAL20041071AZ | INZOLAM 0.25MG TABLET |  | Sah |
 
 ## Pertimbangan Keselamatan
 
@@ -103,18 +82,6 @@ Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
 
 ---
 
-## Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Hold**
-
-**Rasional:**
-- Indikasi yang diramalkan pada dasarnya sama dengan indikasi asal (insomnia), jadi tiada nilai repurposing baharu. Tiada percubaan klinikal didaftarkan, dan triazolam tidak dipasarkan di Malaysia.
-
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
-- Data mekanisme tindakan terperinci daripada DrugBank
-- Pengesahan sama ada ada indikasi baharu yang benar-benar berbeza daripada insomnia untuk dinilai
-- Pertimbangan status tidak berdaftar di Malaysia serta risiko kebergantungan dan penyalahgunaan sekiranya penggunaan dipertimbangkan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

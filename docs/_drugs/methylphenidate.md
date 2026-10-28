@@ -38,7 +38,7 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 ## Ringkasan Satu Ayat
 
-Methylphenidate pada asalnya digunakan untuk merawat gangguan hiperaktiviti kekurangan perhatian (ADHD) dan narkolepsi. Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom faciodigitogenital** dengan skor ramalan yang sangat tinggi (99.998%). Namun, setakat ini **tiada kajian klinikal mahupun penerbitan** yang menyokong ramalan ini, jadi ia hanyalah ramalan model.
+Methylphenidate pada asalnya digunakan untuk merawat gangguan hiperaktiviti kekurangan perhatian (ADHD) dan narkolepsi. Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom faciodigitogenital** dengan skor ramalan yang sangat tinggi (1.0000). Namun, setakat ini **tiada kajian klinikal mahupun penerbitan** yang menyokong ramalan ini, jadi ia hanyalah ramalan model.
 
 ---
 
@@ -48,10 +48,10 @@ Methylphenidate pada asalnya digunakan untuk merawat gangguan hiperaktiviti keku
 |------|------|
 | Indikasi Asal | ADHD dan narkolepsi (daripada pangkalan pengetahuan TxGNN, kerana tiada lesen berdaftar di Malaysia) |
 | Indikasi Baharu yang Diramalkan | Sindrom faciodigitogenital (sindrom Aarskog-Scott) |
-| Skor Ramalan TxGNN | 99.998% |
+| Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
+| Bilangan Pendaftaran | 11 (sah: 11) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -108,7 +108,7 @@ Maklumat label produk tidak tersedia kerana methylphenidate tidak berdaftar di M
 - Sisipan pakej dan maklumat amaran serta kontraindikasi daripada NPRA atau pihak berkuasa lain
 - Penilaian keselamatan, terutamanya untuk pesakit dengan keadaan kardiovaskular atau psikiatri yang disenaraikan di atas
 
-**Nota tambahan:** Ramalan lain bagi ubat ini juga mempunyai tahap bukti rendah. Kondroidmiksoid fibroma (skor 99.991%, L5) tiada pautan mekanistik yang munasabah dan berkemungkinan hubungan palsu. Gangguan perkembangan spesifik (L4) dan gangguan distimik (L4) mempunyai literatur tidak langsung yang kebanyakannya berkaitan ADHD dan komorbiditi, dan layak dikaji sebagai soalan penyelidikan. Bagi gangguan distimik, kajian komorbiditi ADHD dengan kemurungan subsindrom (PMID 24045603) wajar disemak lebih lanjut.
+**Nota tambahan:** Ramalan lain bagi ubat ini juga mempunyai tahap bukti rendah. Kondroidmiksoid fibroma (skor 0.9999, L5) tiada pautan mekanistik yang munasabah dan berkemungkinan hubungan palsu. Gangguan perkembangan spesifik (L4) dan gangguan distimik (L4) mempunyai literatur tidak langsung yang kebanyakannya berkaitan ADHD dan komorbiditi, dan layak dikaji sebagai soalan penyelidikan. Bagi gangguan distimik, kajian komorbiditi ADHD dengan kemurungan subsindrom (PMID 24045603) wajar disemak lebih lanjut.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -6,9 +6,9 @@ nav_order: 434
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Isosorbide Mononitrate: indikasi baharu diramal Hipertrikosis (hypertrichosis) (tahap bukti L5). Indikasi asal: Tiada data indikasi asal daripada lesen NPRA"
 monitor_inn: "Isosorbide mononitrate"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "alopecia", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pulmonary arterial hypertension"]
+description: "Isosorbide Mononitrate: indikasi baharu diramal Hipertrikosis (hypertrichosis (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Isosorbide Mononitrate
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Isosorbide Mononitrate: Daripada Indikasi Asal kepada Hipertrikosis (Ramalan Teratas)
+## Isosorbide Mononitrate: Hipertrikosis (hypertrichosis (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Secara umum, ramalan ini hanyalah ramalan model komputer (tahap bukti L5).
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi asal daripada lesen NPRA |
-| Indikasi Baharu yang Diramal | Hipertrikosis (hypertrichosis) |
-| Skor Ramalan TxGNN | 99.99% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramal | Hipertrikosis (hypertrichosis (disease)) |
+| Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -70,7 +70,7 @@ Tiada mekanisme mantap yang menghubungkan ubat ini dengan hipertrikosis. Satu hi
 - Kelainan batang rambut genetik, hipotrikosis simpleks kulit kepala, dan hipotrikosis kongenital dengan milia: asas genetik yang tidak ditangani oleh vasodilasi.
 - Alopesia areata meresap: penyakit autoimun yang diperantarai sel T; penderma NO tiada peranan imunomodulasi yang mantap.
 
-**Ramalan yang paling berpotensi untuk diterokai: hipertensi arteri pulmonari (PAH)** (kedudukan 10, skor 99.94%, tahap bukti L4, cadangan "Soalan Penyelidikan"). Laluan NO–sGC–cGMP ialah sasaran PAH yang telah disahkan (perencat PDE5, perangsang sGC seperti riociguat), dan isosorbide mononitrate meningkatkan cGMP. Walau bagaimanapun, kebimbangan termasuk toleransi nitrat, hipotensi sistemik dan ketidakpadanan pengudaraan-perfusi dalam penyakit paru-paru. Gabungan nitrat dengan perencat PDE5 juga dikontraindikasikan kerana risiko hipotensi teruk, yang menghadkan penggunaan bersama terapi PAH piawai.
+**Ramalan yang paling berpotensi untuk diterokai: hipertensi arteri pulmonari (PAH)** (kedudukan 10, skor 0.9994, tahap bukti L4, cadangan "Soalan Penyelidikan"). Laluan NO–sGC–cGMP ialah sasaran PAH yang telah disahkan (perencat PDE5, perangsang sGC seperti riociguat), dan isosorbide mononitrate meningkatkan cGMP. Walau bagaimanapun, kebimbangan termasuk toleransi nitrat, hipotensi sistemik dan ketidakpadanan pengudaraan-perfusi dalam penyakit paru-paru. Gabungan nitrat dengan perencat PDE5 juga dikontraindikasikan kerana risiko hipotensi teruk, yang menghadkan penggunaan bersama terapi PAH piawai.
 
 ---
 
@@ -108,7 +108,7 @@ Sila rujuk risalah pek untuk maklumat keselamatan lengkap, kerana amaran dan kon
 **Keputusan: Hold**
 
 **Rasional:**
-- Semua ramalan teratas (hipertrikosis dan keadaan berkaitan rambut/malformasi) hanya berasaskan ramalan model (L5) tanpa percubaan klinikal atau literatur, dan mekanismenya tidak munasabah. Ubat ini juga tidak dipasarkan di Malaysia.
+- Semua ramalan teratas (hipertrikosis dan keadaan berkaitan rambut/malformasi) hanya berasaskan ramalan model (L5) tanpa percubaan klinikal atau literatur, dan mekanismenya tidak munasabah.
 - Hipertensi arteri pulmonari (L4) lebih munasabah secara biologi, tetapi bukti sedia ada tidak langsung dan terdapat isu keselamatan yang ketara.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

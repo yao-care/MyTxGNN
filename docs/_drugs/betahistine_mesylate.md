@@ -8,6 +8,7 @@ nav_order: 140
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Betahistine Mesylate
@@ -47,8 +48,8 @@ Betahistine mesylate ialah analog histamin yang biasa digunakan untuk rawatan pe
 | Indikasi Guna Semula Yang Diramalkan | **Tiada** — TxGNN tidak menghasilkan sebarang ramalan |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Yang Disyorkan | **Tahan** |
 
 ---

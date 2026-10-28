@@ -50,10 +50,10 @@ Bukti masih sangat terhad dan bersifat tidak langsung.
 |------|------|
 | Indikasi Asal | Kanser prostat (pengetahuan am; data pendaftaran tempatan tidak menyenaraikan indikasi) |
 | Indikasi Baharu yang Diramalkan | Hipertrikosis |
-| Skor Ramalan TxGNN | 99.69% |
+| Skor Ramalan TxGNN | 0.9969 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -104,7 +104,7 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
 - Teks penuh kajian retrospektif 35 pesakit yang diulas, serta kajian klinikal terkawal untuk hipertrikosis.
 - Pelan pemantauan fungsi hati dan keselamatan kardiovaskular.
 
-**Nota tambahan:** Antara ramalan lain dalam data yang dikumpulkan, **karsinoma payudara wanita** (skor 99.11%) mempunyai sokongan lebih kukuh. Ia termasuk ujian Phase 2 [NCT03650894](https://clinicaltrials.gov/study/NCT03650894) (kombinasi nivolumab + ipilimumab + bicalutamide, n=30, aktif tidak merekrut), beberapa kajian praklinikal dan ulasan tentang kanser payudara triple-negative AR-positif, serta satu kajian Phase 2 satu lengan yang dihentikan. Kajian itu menggabungkan bicalutamide dengan perencat aromatase dan tidak menunjukkan sinergi (kadar manfaat klinikal 16.7%, kadar respons objektif 0%). Arah ini wajar dinilai secara berasingan, dengan pemilihan pesakit berdasarkan ekspresi AR.
+**Nota tambahan:** Antara ramalan lain dalam data yang dikumpulkan, **karsinoma payudara wanita** (skor 0.9911) mempunyai sokongan lebih kukuh. Ia termasuk ujian Phase 2 [NCT03650894](https://clinicaltrials.gov/study/NCT03650894) (kombinasi nivolumab + ipilimumab + bicalutamide, n=30, aktif tidak merekrut), beberapa kajian praklinikal dan ulasan tentang kanser payudara triple-negative AR-positif, serta satu kajian Phase 2 satu lengan yang dihentikan. Kajian itu menggabungkan bicalutamide dengan perencat aromatase dan tidak menunjukkan sinergi (kadar manfaat klinikal 16.7%, kadar respons objektif 0%). Arah ini wajar dinilai secara berasingan, dengan pemilihan pesakit berdasarkan ekspresi AR.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -4,17 +4,17 @@ title: Ceritinib
 parent: Low Evidence (L4-L5)
 nav_order: 209
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Ceritinib: indikasi baharu diramal Fibromatosis gingiva (tahap bukti L5). Indikasi asal: Kanser paru-paru bukan sel kecil (NSCLC) / kanser paru-paru"
 monitor_inn: "CERITINIB"
-predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "junctional epidermolysis bullosa"]
+predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "junctional epidermolysis bullosa"]
 ---
 
 # Ceritinib
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah
 |------|------|
 | Indikasi Asal | Kanser paru-paru bukan sel kecil (NSCLC) / kanser paru-paru |
 | Indikasi Baharu yang Diramalkan | Fibromatosis gingiva |
-| Skor Ramalan TxGNN | 99.86% |
+| Skor Ramalan TxGNN | 0.9986 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah
 
 Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, ceritinib ialah perencat kinase tirosin ALK/ROS1 dan keberkesanannya dalam NSCLC positif ALK telah dibuktikan.
 
-Namun, analisis data yang dikumpulkan untuk laporan ini **tidak menemui hubungan mekanistik** antara ceritinib dengan fibromatosis gingiva. Tiada patologi didorong ALK yang ditetapkan dalam keadaan ini. Skor TxGNN yang tinggi merupakan ramalan pengiraan semata-mata dan mungkin mencerminkan kedekatan dalam graf pengetahuan, bukan asas biologi yang sebenar.
+Namun, analisis data yang dikumpulkan untuk laporan ini **tidak menemui hubungan mekanistik** antara ceritinib dengan fibromatosis gingiva. Tiada patologi didorong ALK yang ditetapkan dalam keadaan ini. Skor TxGNN yang tinggi merupakan ramalan pengiraan semata-mata daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
 Oleh itu, ramalan ini harus dianggap sebagai hipotesis awal yang belum disahkan.
 
@@ -86,15 +86,15 @@ Sembilan ramalan lain turut disenaraikan. Semuanya berstatus **Hold**.
 
 | Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Catatan |
 |------|------|------|------|------|
-| 2 | Fibroma paru-paru | 99.82% | L5 | Fibroma benigna tiada kebergantungan ALK yang diketahui; kemungkinan didorong oleh kedekatan graf dengan neoplasma paru-paru |
-| 3 | Hamartoma paru-paru | 99.81% | L5 | Tiada mekanisme berkaitan ALK; tiada percubaan atau literatur |
-| 4 | Karsinoma hilum paru-paru | 99.80% | L5 | Kemungkinan subtapak indikasi sedia ada, bukan pelupusan semula yang sebenar |
-| 5 | Neoplasma benigna paru-paru | 99.80% | L4 | 20 penerbitan berkaitan NSCLC positif ALK, hanya bukti tidak langsung |
-| 6 | Tumor sel germa paru-paru | 99.80% | L4 | Literatur mengenai neuroblastoma dan glioblastoma; tiada data khusus |
-| 7 | Neoplasma sulkus pulmonari | 99.80% | L5 | Tumor Pancoast biasanya NSCLC; sebahagian daripada indikasi sedia ada |
-| 8 | Miopati badan inklusi dengan penyakit Paget awal | 99.79% | L5 | Proteinopati mutasi VCP; tiada kaitan dengan isyarat ALK/ROS1 |
-| 9 | Sindrom leukomelanoderma-infantilisme-hipodontia | 99.78% | L5 | Lima kertas yang diperoleh tidak berkaitan (padanan palsu); hanya relevan kepada keselamatan ceritinib |
-| 10 | Epidermolisis bulosa simpang | 99.77% | L5 | Gangguan genetik membran basal; tiada kaitan dengan ALK/ROS1 |
+| 2 | Fibroma paru-paru | 0.9982 | L5 | Fibroma benigna tiada kebergantungan ALK yang diketahui; skor daripada model TxGNN (pembelajaran mendalam) mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan dengan neoplasma paru-paru, bukan bukti biologi |
+| 3 | Hamartoma paru-paru | 0.9981 | L5 | Tiada mekanisme berkaitan ALK; tiada percubaan atau literatur |
+| 4 | Karsinoma hilum paru-paru | 0.9980 | L5 | Kemungkinan subtapak indikasi sedia ada, bukan pelupusan semula yang sebenar |
+| 5 | Neoplasma benigna paru-paru | 0.9980 | L4 | 20 penerbitan berkaitan NSCLC positif ALK, hanya bukti tidak langsung |
+| 6 | Tumor sel germa paru-paru | 0.9980 | L4 | Literatur mengenai neuroblastoma dan glioblastoma; tiada data khusus |
+| 7 | Neoplasma sulkus pulmonari | 0.9980 | L5 | Tumor Pancoast biasanya NSCLC; sebahagian daripada indikasi sedia ada |
+| 8 | Miopati badan inklusi dengan penyakit Paget awal | 0.9979 | L5 | Proteinopati mutasi VCP; tiada kaitan dengan isyarat ALK/ROS1 |
+| 9 | Sindrom leukomelanoderma-infantilisme-hipodontia | 0.9978 | L5 | Lima kertas yang diperoleh tidak berkaitan (padanan palsu); hanya relevan kepada keselamatan ceritinib |
+| 10 | Epidermolisis bulosa simpang | 0.9977 | L5 | Gangguan genetik membran basal; tiada kaitan dengan ALK/ROS1 |
 
 ---
 

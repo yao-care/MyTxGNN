@@ -3,18 +3,18 @@ layout: default
 title: Amikacin
 parent: Low Evidence (L4-L5)
 nav_order: 55
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Amikacin: indikasi baharu diramal Demam paratifoid (paratyphoid fever) (tahap bukti L4). Indikasi asal: Radang paru-paru bakteria, jangkitan Pseudomonas aeruginosa…"
 monitor_inn: "amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
+last_modified_at: 2026-10-27
+description: "Amikacin: indikasi baharu diramal Demam paratifoid (paratyphoid fever) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Amikacin
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,90 +33,73 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Amikacin: Daripada Jangkitan Bakteria Gram-Negatif kepada Demam Paratifoid
+## Amikacin: aminoglikosida → Demam paratifoid (paratyphoid fever)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Amikacin ialah antibiotik aminoglikosida yang pada asalnya digunakan untuk merawat jangkitan bakteria seperti radang paru-paru bakteria, jangkitan *Pseudomonas aeruginosa*, kolangitis dan meningitis bakteria.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Demam Paratifoid**,
-tetapi setakat ini **tiada ujian klinikal** didaftarkan dan hanya **8 penerbitan** yang ditemui, kebanyakannya kajian pengawasan dan laporan kes (bukan bukti keberkesanan terkawal).
+Amikacin ialah antibiotik daripada kumpulan aminoglikosida yang digunakan terhadap jangkitan bakteria gram-negatif. Model TxGNN meramalkan ia mungkin berguna untuk **Demam paratifoid (paratyphoid fever)**, tetapi setakat ini **tiada ujian klinikal** didaftarkan dan hanya **8 penerbitan** yang ditemui, kebanyakannya tinjauan kerentanan antibiotik dan laporan kes, bukan kajian terkawal.
 
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Radang paru-paru bakteria, jangkitan *Pseudomonas aeruginosa*, kolangitis, meningitis bakteria (berdasarkan graf pengetahuan TxGNN, bukan teks label berdaftar) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Demam paratifoid (paratyphoid fever) |
-| Skor Ramalan TxGNN | 99.82% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan yang Disyorkan | Hold |
-
----
+| Skor Ramalan TxGNN | 0,9982 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data terperinci mengenai mekanisme tindakan tidak tersedia. Berdasarkan maklumat yang diketahui, amikacin tergolong dalam kelas aminoglikosida, keberkesanannya dalam jangkitan gram-negatif telah dibuktikan, dan secara mekanistik mungkin terpakai untuk jangkitan *Salmonella* yang juga bakteria gram-negatif Enterobacterales.
+Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Amikacin ialah aminoglikosida dengan aktiviti terhadap bakteria gram-negatif Enterobacterales, termasuk *Salmonella*, jadi secara teori ia boleh bertindak terhadap bakteria penyebab demam paratifoid.
 
-Hubungan antara indikasi asal dengan indikasi baharu terletak pada spektrum antibakteria: amikacin aktif secara in vitro terhadap banyak bakteria gram-negatif, termasuk *Salmonella*. Beberapa kajian kerentanan melaporkan isolat *Salmonella* sensitif kepada amikacin.
-
-Namun, terdapat had penting. Aminoglikosida menembusi sel dengan lemah, sedangkan demam enterik (paratifoid/tifoid) ialah jangkitan intrasel. Rawatan piawai bergantung pada fluorokuinolon, azitromisin atau sefalosporin generasi ketiga. Oleh itu keberkesanan klinikal amikacin tidak boleh diandaikan daripada aktiviti in vitro sahaja.
-
----
+Namun, terdapat had penting. Aminoglikosida menembusi sel dengan lemah, sedangkan *Salmonella* penyebab demam enterik bertahan di dalam sel. Oleh itu aminoglikosida tidak boleh diharapkan secara klinikal untuk demam enterik. Rawatan piawai bergantung pada fluorokuinolon, azitromisin atau sefalosporin generasi ketiga. Ramalan ini lebih bersifat aktiviti in vitro yang munasabah daripada bukti keberkesanan klinikal.
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
-
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
+Penerbitan berikut dikembalikan untuk demam paratifoid. Tiada satu pun ialah RCT yang menilai amikacin untuk penyakit ini.
+
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [2516600](https://pubmed.ncbi.nlm.nih.gov/2516600/) | 1989 | Laporan klinikal | Mikrobiyoloji bulteni | Rawatan dan antibiogram 48 pesakit jangkitan *paratyphi* B yang rintang terhadap rawatan klasik |
-| [10505326](https://pubmed.ncbi.nlm.nih.gov/10505326/) | 1999 | Laporan kes | Pediatric hematology and oncology | Kolesistitis akalkulus akibat *S. paratyphi* B pada kanak-kanak leukemia; berjaya dirawat dengan sefepim, amikacin dan G-CSF (rawatan gabungan) |
-| [18383953](https://pubmed.ncbi.nlm.nih.gov/18383953/) | 2007 | Kohort prospektif | J Indian Med Assoc | Profil klinikal dan corak kerentanan antibiotik demam enterik pada 145 kanak-kanak |
-| [27407999](https://pubmed.ncbi.nlm.nih.gov/27407999/) | 2007 | Pengawasan kerentanan | Med J Armed Forces India | Kepekaan semula kloramfenikol dalam demam enterik di India utara |
+| [2516600](https://pubmed.ncbi.nlm.nih.gov/2516600/) | 1989 | Laporan klinikal | Mikrobiyoloji Bulteni | Antibiotik untuk 48 pesakit jangkitan *paratyphi* B yang rintang terhadap rawatan klasik; keputusan rawatan dan antibiogram dilaporkan |
+| [10505326](https://pubmed.ncbi.nlm.nih.gov/10505326/) | 1999 | Laporan kes | Pediatric Hematology and Oncology | Kolesistitis akalkulus akibat *Salmonella paratyphi* B pada kanak-kanak leukemia; berjaya dirawat dengan sefepim, amikacin dan G-CSF (gabungan, bukan amikacin sahaja) |
+| [18383953](https://pubmed.ncbi.nlm.nih.gov/18383953/) | 2007 | Kohort prospektif | J Indian Med Assoc | Corak klinikal dan kerentanan antibiotik demam enterik pada 145 kanak-kanak |
+| [27407999](https://pubmed.ncbi.nlm.nih.gov/27407999/) | 2007 | Pengawasan kerentanan | Med J Armed Forces India | Kerentanan semula terhadap kloramfenikol dalam demam enterik di India utara |
 | [14596347](https://pubmed.ncbi.nlm.nih.gov/14596347/) | 2003 | Epidemiologi | New Microbiologica | Kejadian *S. typhi* dan *S. paratyphi* di Jordan, 1988–2000 |
-| [16410091](https://pubmed.ncbi.nlm.nih.gov/16410091/) | 2006 | Siri kes | J Pediatr Surg | Pengurusan abses limpa kanak-kanak dengan saliran perkutaneus dan antibiotik |
-| [26905550](https://pubmed.ncbi.nlm.nih.gov/26905550/) | 2014 | Pengawasan antibiogram | JNMA | Kekerapan isolat kultur darah dan antibiogram di hospital pengajaran |
-| [30724049](https://pubmed.ncbi.nlm.nih.gov/30724049/) | 2018 | Kajian pengasingan mikrobiologi | Pak J Biol Sci | Pengasingan dan pengenalpastian *S. paratyphi* daripada pesakit demam enterik di Quetta |
+| [26905550](https://pubmed.ncbi.nlm.nih.gov/26905550/) | 2014 | Antibiogram | JNMA | Kekerapan isolat kultur darah dan corak kerentanan di hospital pengajaran |
+| [30724049](https://pubmed.ncbi.nlm.nih.gov/30724049/) | 2018 | Kajian pengasingan mikrobiologi | Pak J Biol Sci | Pengasingan *S. paratyphi* daripada pesakit demam enterik di Quetta |
+| [16410091](https://pubmed.ncbi.nlm.nih.gov/16410091/) | 2006 | Siri kes | J Pediatr Surg | Pengurusan abses limpa pada kanak-kanak melalui saliran perkutaneus dan antibiotik |
 
-Sebagai konteks, bagi demam tifoid (penyakit berkaitan), satu kajian (PMID 2598731) melaporkan kadar keberkesanan klinikal 36.4% bagi amikacin berbanding 100% bagi ofloksasin, yang tidak menyokong penggunaan amikacin.
+## Maklumat Pasaran Malaysia
 
----
+Data tempatan merekodkan status **Dipasarkan**, dengan 7 lesen sah dan 0 dibatalkan. Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 
-- **Kontraindikasi (berdasarkan graf pengetahuan, bukan teks label)**: penyakit buah pinggang, piouretr, hiperkalsemia, nefrokalsinosis, gangguan metabolisme fosforus, vertigo berasal sistem saraf pusat, miastenia gravis, gangguan simpang neuromuskular, gangguan parkinsonian/penyakit Parkinson.
-- **Interaksi Ubat** (100 interaksi dikenal pasti; antara yang utama):
+- **Interaksi ubat** (100 interaksi direkodkan; yang utama disenaraikan):
   - **Major**: magnesium sulfat, manitol.
-  - **Moderate**: amfoterisin B (termasuk formulasi lipid dan liposom), kanamisin, neomisin, perencat pam proton (omeprazol, esomeprazol, lansoprazol, pantoprazol, rabeprazol, deksansoprazol), asid asetilsalisilik, mesalazin, balsalazid, olsalazin, eksenatid.
-
-Maklumat amaran utama dan kontraindikasi daripada sisipan pembungkusan belum diperoleh. Sila rujuk sisipan pembungkusan untuk maklumat keselamatan.
-
----
+  - **Sederhana**: amfoterisin B (termasuk bentuk lipid dan liposom), kanamisin, neomisin, aspirin, perencat pam proton (omeprazol, esomeprazol, lansoprazol, pantoprazol, rabeprazol, deksansoprazol), mesalazin, balsalazid, olsalazin, eksenatid.
+- Maklumat amaran utama dan kontraindikasi daripada sisipan pakej belum diperoleh; sila rujuk sisipan pakej.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
-**Rasional:**
-- Ramalan hanya disokong oleh bukti tidak langsung (kajian pengawasan, laporan kes) tanpa sebarang ujian klinikal. Amikacin juga bukan rawatan yang disyorkan untuk demam enterik kerana penembusan intrasel yang lemah, manakala alternatif piawai sedia ada dan lebih berkesan.
-- Ubat ini tidak dipasarkan di Malaysia (tiada pendaftaran), dan data keselamatan daripada sisipan pembungkusan belum tersedia.
+**Justifikasi:**
+Tiada kajian yang menilai secara langsung keberkesanan amikacin terhadap demam paratifoid, justeru tahap bukti ialah L5 walaupun skor ramalan tinggi (0,9982). Literatur yang ada hanyalah tinjauan kerentanan, kajian epidemiologi dan laporan kes, dan amikacin tidak disyorkan untuk demam enterik kerana penembusan intrasel yang lemah.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pembungkusan NPRA (amaran dan kontraindikasi) bagi menyelesaikan jurang data yang menyekat saringan keselamatan.
-- Data mekanisme tindakan (MOA) daripada DrugBank.
-- Bukti klinikal terkawal yang membandingkan amikacin dengan rawatan piawai dalam demam paratifoid/tifoid.
-- Penilaian keperluan perubatan di Malaysia (contohnya isolat rintang pelbagai ubat) serta laluan pendaftaran, memandangkan tiada produk berdaftar.
-
-**Nota calon ramalan lain:** Calon lain (skleroderma meresap, keratokonjunktivitis epitelium punktat, epiglotitis, analbuminemia kongenital, hiperamilasemia, sindrom hiperviskositi poliklonal) hanya berasaskan ramalan model (L5) tanpa bukti klinikal, dan beberapa kelihatan seperti artifak graf pengetahuan. Demam tifoid, salmonelosis dan meningokokemia berada pada L4 dengan bukti tidak langsung sahaja. Semuanya disyorkan **Hold**.
+**Untuk meneruskan, perlu:**
+- Data mekanisme tindakan (MOA) yang lengkap
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Kajian terkawal atau data klinikal yang membandingkan amikacin dengan rawatan piawai (fluorokuinolon, azitromisin, sefalosporin generasi ketiga)
+- Penilaian risiko-manfaat yang mengambil kira nefrotoksisiti dan ototoksisiti aminoglikosida
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

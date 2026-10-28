@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 28
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Adapalene: indikasi baharu diramal Zink plasma meningkat (zinc, elevated plasma) (tahap bukti L5). Indikasi asal: Jerawat (acne)"
 monitor_inn: "ADAPALENE"
 predicted_indications: ["zinc, elevated plasma"]
+last_modified_at: 2026-10-27
+description: "Adapalene: indikasi baharu diramal Zink plasma meningkat (zinc, elevated plasma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Adapalene
@@ -33,84 +33,63 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Adapalene: Daripada Jerawat kepada Zink Plasma Meningkat
+## Adapalene: retinoid topikal generasi ketiga (pengikat selektif RAR-beta/gamma) → Zink plasma meningkat (zinc, elevated plasma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Adapalene ialah retinoid topikal generasi ketiga yang pada asalnya digunakan untuk merawat jerawat (*acne*). Model TxGNN meramalkan ia mungkin berkesan untuk **zink plasma meningkat (*zinc, elevated plasma*)**, tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini, jadi ia hanyalah ramalan model.
+Adapalene ialah retinoid topikal generasi ketiga yang digunakan terutamanya dalam rawatan jerawat. Model TxGNN meramalkan ia mungkin berkesan untuk **Zink plasma meningkat (zinc, elevated plasma)**, tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini setakat ini; ramalan ini hanya berasaskan model.
 
----
-
-## Gambaran Keseluruhan Pantas
+## Gambaran Keseluruhan Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jerawat (*acne*) |
-| Indikasi Baharu yang Diramalkan | Zink plasma meningkat (*zinc, elevated plasma*) |
-| Skor Ramalan TxGNN | 99.51% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Zink plasma meningkat (zinc, elevated plasma) |
+| Skor Ramalan TxGNN | 0,9951 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan yang Disyorkan | Hold |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
----
+## Mengapa Ramalan Ini Munasabah?
 
-## Mengapakah Ramalan Ini Munasabah?
+Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Adapalene diketahui sebagai retinoid topikal generasi ketiga yang mengikat secara selektif reseptor RAR-beta dan RAR-gamma, lalu mengawal pembezaan keratinosit dan keradangan.
 
-Data terperinci mengenai mekanisme tindakan (MOA) asal tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, adapalene ialah retinoid topikal generasi ketiga yang mengikat secara selektif reseptor RAR-beta dan RAR-gamma, lalu mengubah suai pembezaan keratinosit dan keradangan. Mekanisme ini menjelaskan keberkesanannya dalam jerawat.
+Namun, zink plasma yang meningkat ialah keabnormalan makmal berkaitan metabolisme atau pendedahan (contohnya suplemen berlebihan, punca buah pinggang atau hemolitik), bukan penyakit yang dipacu oleh isyarat reseptor retinoid. Tiada hubungan mekanistik yang kukuh dapat ditunjukkan antara kedua-duanya.
 
-Zink plasma meningkat ialah keabnormalan makmal yang bersifat metabolik atau berkaitan pendedahan (contohnya suplemen berlebihan, punca buah pinggang atau hemolisis), dan bukan penyakit yang didorong oleh isyarat reseptor retinoid. Oleh itu, **tiada kaitan mekanistik yang kukuh** antara kedua-dua indikasi ini.
+Skor TxGNN yang tinggi (0,9951) ialah ramalan model sahaja dan mungkin mencerminkan perkaitan rangkaian tidak langsung (misalnya interaksi retinoid–zink dalam laluan metaloprotein atau pengangkutan), dan bukan kesan terapeutik yang munasabah. Ketiadaan data mekanisme asal juga menghadkan pengesahan mekanistik.
 
-Skor TxGNN yang tinggi (0.995) merupakan ramalan graf pengetahuan sahaja. Ia mungkin mencerminkan perkaitan rangkaian tidak langsung (contohnya interaksi retinoid-zink dalam laluan metaloprotein atau pengangkutan), dan bukannya kesan terapeutik yang munasabah. Ketiadaan data MOA asal turut menghadkan pengesahan mekanistik.
+## Bukti Percubaan Klinikal
 
----
-
-## Bukti Klinikal
-
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
-
----
+Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia.
-
----
+Buat masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Adapalene pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan dalam data yang disusun untuk laporan ini.
-
----
+Menurut data yang dikumpulkan untuk laporan ini, drug ini berstatus dipasarkan di Malaysia dan mempunyai 5 lesen yang sah. Butiran lesen individu tidak tersedia dalam data ini.
 
 ## Pertimbangan Keselamatan
 
-- **Penyakit yang dikaitkan dengan kontraindikasi dalam graf pengetahuan** (bukan teks label): fotosensitiviti (*photosensitivity disease*), respons fotoparoksismal (*photoparoxysmal response*), dermatitis eksfoliatif (*exfoliative dermatitis*) dan dermatitis.
-- **Interaksi Ubat**: Sebanyak 58 interaksi ubat berpotensi dikenal pasti daripada pangkalan data DDInter, tetapi tahap keterukan semuanya tidak diketahui. Antara ubat yang disenaraikan ialah:
-  - Antibiotik tetrasiklin: doksisiklin, tetrasiklin, minosiklin
-  - Perencat pam proton: pantoprazol, omeprazol, rabeprazol
-  - Kortikosteroid: triamsinolon, prednison, budesonid
-  - Antihistamin: cetirizin, loratadin, feksofenadin
-  - Lain-lain: ibuprofen, flukonazol, metronidazol, klopidogrel, bupropion
+- **Interaksi Ubat**: Sebanyak 58 interaksi direkodkan, tetapi tahap keterukan kesemuanya tidak diketahui. Contoh ubat yang berinteraksi termasuk: pantoprazole, doksisiklin, omeprazole, triamcinolone, prednisone, scopolamine, tetrasiklin, loperamide, ranitidine, metronidazole, minocycline, rabeprazole, bupropion, budesonide, clopidogrel, cetirizine, loratadine, fexofenadine, ibuprofen dan fluconazole.
 
-Untuk maklumat amaran dan kontraindikasi lanjut, sila rujuk risalah maklumat produk.
-
----
+Untuk maklumat amaran dan kontraindikasi, sila rujuk risalah pakej produk.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
-**Justifikasi:**
-- Tiada percubaan klinikal atau literatur yang menyokong, dan tiada kaitan mekanistik yang munasabah antara tindakan retinoid adapalene dengan zink plasma meningkat. Skor TxGNN yang tinggi tidak mencukupi untuk meneruskan penilaian. Produk ini juga tidak dipasarkan di Malaysia.
+**Rasional:**
+Tiada kajian yang mengkaji zink plasma meningkat secara langsung, tiada hubungan mekanistik yang munasabah, dan ramalan ini hanya berasaskan model (L5). Tidak ada asas bukti untuk meneruskan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci
-- Hujah mekanistik atau data praklinikal yang menghubungkan isyarat RAR dengan metabolisme atau homeostasis zink
-- Risalah maklumat produk (amaran dan kontraindikasi) bagi semakan keselamatan
-- Pengesahan keserasian laluan pentadbiran (formulasi topikal berbanding keperluan sistemik untuk indikasi baharu)
-- Pertimbangan semula sama ada indikasi ini sesuai dijadikan sasaran, memandangkan ia lebih merupakan penanda makmal daripada penyakit
+- Amaran dan kontraindikasi daripada risalah pakej NPRA
+- Bukti praklinikal atau klinikal yang mengkaji secara langsung kesan adapalene terhadap paras zink plasma
+- Penilaian kebolehlaksanaan laluan pentadbiran, kerana adapalene ialah produk topikal dan data keserasian laluan belum tersedia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 123
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
-description: "Baricitinib: indikasi baharu diramal Sindrom mikroftalmia kolobomatus-displasia rizomelik (tahap bukti L5). Indikasi asal: Artritis reumatoid"
 monitor_inn: "BARICITINIB"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
+last_modified_at: 2026-10-27
+description: "Baricitinib: indikasi baharu diramal Sindrom mikroftalmia kolobomatus-displasia rizomelik (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan…"
 ---
 
 # Baricitinib
@@ -33,60 +33,65 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Baricitinib: Daripada Artritis Reumatoid kepada Sindrom Displasia Rizomelik-Mikroftalmia Kolobomatus
+## Baricitinib: perencat JAK1/JAK2 → Sindrom mikroftalmia kolobomatus-displasia rizomelik (colobomatous microphthalmia-rhizomelic dysplasia syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Baricitinib ialah ubat yang pada asalnya digunakan untuk merawat artritis reumatoid.
-Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom mikroftalmia kolobomatus-displasia rizomelik**, dengan skor ramalan yang sangat tinggi.
-Namun, pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanyalah ramalan model komputasi.
+Baricitinib ialah ubat perencat JAK yang telah berdaftar di Malaysia. Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom mikroftalmia kolobomatus-displasia rizomelik (colobomatous microphthalmia-rhizomelic dysplasia syndrome)**, tetapi pada masa ini **tiada sebarang ujian klinikal atau penerbitan** yang menyokong ramalan ini; ia hanya berasaskan ramalan model.
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Keseluruhan
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Artritis reumatoid |
-| Indikasi Baharu yang Diramalkan | Sindrom mikroftalmia kolobomatus-displasia rizomelik |
-| Skor Ramalan TxGNN | 99.94% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom mikroftalmia kolobomatus-displasia rizomelik (colobomatous microphthalmia-rhizomelic dysplasia syndrome) |
+| Skor Ramalan TxGNN | 0,9994 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan yang Disyorkan | Hold |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Baricitinib ialah perencat JAK1/JAK2 yang menyekat isyarat JAK-STAT, laluan penting dalam tindak balas keradangan. Inilah asas penggunaannya dalam artritis reumatoid. Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Data mekanisme tindakan terperinci tidak tersedia pada masa ini. Baricitinib diketahui sebagai perencat JAK1/JAK2, tetapi data yang dikumpulkan untuk laporan ini tidak mendokumenkan sebarang kaitan antara isyarat JAK-STAT dengan sindrom perkembangan yang jarang berlaku ini (mikroftalmia dengan kolobuma dan displasia rangka rizomelik).
 
-Sindrom yang diramalkan ialah keadaan perkembangan yang jarang berlaku, melibatkan mikroftalmia dengan koloboma dan displasia rangka rizomelik. Tiada hubungan mekanistik yang boleh dipastikan antara perencatan JAK-STAT dan patologi sindrom ini. Satu-satunya sokongan ialah skor ramalan graf pengetahuan yang tinggi (0.9994), yang bukan bukti klinikal atau eksperimen.
+Satu-satunya sokongan ialah skor ramalan TxGNN yang sangat tinggi (0,9994). Skor ini ialah hasil pengiraan model dan bukan bukti klinikal atau eksperimen. Sebarang kaitan mekanistik pada peringkat ini adalah spekulatif dan perlu disahkan secara bebas, misalnya dengan menyemak asas genetik sindrom ini dan sama ada ia melibatkan isyarat sitokin atau JAK-STAT.
 
-Sebarang hubungan masih bersifat spekulatif. Langkah pengesahan yang wajar termasuk menyemak asas genetik sindrom ini dan sama ada ia melibatkan isyarat sitokin atau JAK-STAT.
+## Bukti Ujian Klinikal
 
-**Ramalan kedua (untuk rujukan):** model juga meramalkan **sindrom brakidaktili-sindaktili** (skor 99.94%, tahap bukti L5, Hold). Ini ialah kecacatan anggota badan kongenital, dan tiada bukti bahawa perencatan JAK-STAT mempengaruhi pembentukan anggota atau patologi asasnya.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
-## Keselamatan
+## Bukti Literatur
 
-**Interaksi Ubat** (pertanyaan selesai; 100 interaksi direkodkan, sebahagian disenaraikan di bawah):
+Pada masa ini tiada literatur berkaitan tersedia.
 
-- **Major**: kortikosteroid (hidrokortison, triamsinolon termasuk bentuk oftalmik, betametason, budesonid, deksametason, prednisolon, prednison); deferiprone; ibritumomab tiuxetan; iobenguane (I-131); tositumomab (I-131)
-- **Moderate**: morfin (termasuk liposomal), asid asetilsalisilik, nitisinone, opium
-- **Minor**: garam zink (asetat, glukonat, sulfat)
+## Maklumat Pasaran Malaysia
 
-Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan lanjut.
+Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran "Dipasarkan", dengan 2 lesen yang sah. Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan di sini.
+
+## Pertimbangan Keselamatan
+
+**Interaksi Ubat** (100 interaksi direkodkan; contoh utama):
+
+- **Tahap Major**: hidrokortison, triamsinolon (termasuk bentuk oftalmik), betametason, budesonid, deksametason, prednisolon, prednison, deferipron, ibritumomab tiuxetan, iobenguane (I-131), tositumomab (I-131)
+- **Tahap Moderate**: morfin (termasuk liposomal), asid asetilsalisilik, nitisinon, opium
+- **Tahap Minor**: zink asetat, zink glukonat, zink sulfat
+
+Maklumat amaran utama dan kontraindikasi daripada sisipan pek tidak tersedia. Sila rujuk sisipan pek untuk maklumat keselamatan lanjut.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan hanya disokong oleh skor model (L5) tanpa percubaan klinikal, penerbitan atau hubungan mekanistik yang jelas. Baricitinib juga tidak dipasarkan di Malaysia.
+Ramalan ini hanya disokong oleh skor model (0,9994) tanpa sebarang ujian klinikal, penerbitan atau kaitan mekanistik yang didokumenkan. Bukti berada pada tahap L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) terperinci
-- Semakan asas genetik dan patofisiologi sindrom yang diramalkan, serta kaitannya dengan isyarat JAK-STAT
-- Bukti praklinikal atau penerbitan yang menyokong hubungan ini
-- Amaran dan kontraindikasi daripada sisipan pakej (NPRA) untuk saringan keselamatan
-- Kajian kesesuaian laluan pentadbiran dan status pendaftaran tempatan
+- Data mekanisme tindakan (MOA) yang terperinci
+- Kajian asas genetik dan patofisiologi sindrom ini untuk menilai kaitan dengan laluan JAK-STAT
+- Data pra-klinikal atau laporan kes yang mengkaji baricitinib dalam penyakit ini
+- Amaran dan kontraindikasi daripada sisipan pek NPRA untuk saringan keselamatan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

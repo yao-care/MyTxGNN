@@ -6,9 +6,9 @@ nav_order: 673
 evidence_level: L1
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Terbutaline: indikasi baharu diramal Penyakit paru obstruktif (obstructive lung disease) (tahap bukti L1). Indikasi asal: Asma, asma intrinsik, asma alergi, bronkitis, dermatitis…"
 monitor_inn: "terbutaline"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
+description: "Terbutaline: indikasi baharu diramal Penyakit paru obstruktif (obstructive lung disease) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Terbutaline
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **3**
 
 </div>
 
-## Terbutaline: Daripada Asma kepada Penyakit Paru Obstruktif
+## Terbutaline: Penyakit paru obstruktif (obstructive lung disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ dengan **14 ujian klinikal** dan **20 penerbitan** dalam data yang disusun untuk
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Asma, asma intrinsik, asma alergi, bronkitis, dermatitis, emfisema paru-paru, sindrom mata kering (berdasarkan graf pengetahuan PrimeKG) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Penyakit paru obstruktif (obstructive lung disease) |
-| Skor Ramalan TxGNN | 99.96% |
+| Skor Ramalan TxGNN | 0.9996 |
 | Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data; perlu disahkan) |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 15) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
@@ -106,7 +106,7 @@ Nota: ujian NCT04973345 (kajian pendedahan-tindak balas terbutaline) telah ditar
 
 ## Maklumat Pasaran di Malaysia
 
-Menurut data yang dikumpulkan untuk laporan ini, tiada lesen terbutaline berdaftar di Malaysia (status: tidak dipasarkan; 0 pendaftaran). Maklumat ini kelihatan tidak konsisten dengan penggunaan klinikal terbutaline yang meluas, maka perlu disahkan semula dengan pangkalan data NPRA.
+Maklumat ini kelihatan tidak konsisten dengan penggunaan klinikal terbutaline yang meluas, maka perlu disahkan semula dengan pangkalan data NPRA.
 
 ---
 
@@ -139,8 +139,8 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi.
 
 ## Nota Ringkas Mengenai Ramalan Lain
 
-- **Malformasi pernafasan (respiratory malformation)**: skor 99.52%, tahap bukti L4, keputusan **Hold**. Agonis beta-2 mungkin melegakan bronkospasma yang boleh dipulihkan, tetapi tidak merawat kecacatan struktur. Literatur yang diperoleh kebanyakannya tentang asma atau topik lain, dan satu-satunya ujian ialah program farmakokinetik umum.
-- **Sindrom Rienhoff**: skor 99.38%, tahap bukti L5, keputusan **Hold**. Tiada ujian atau literatur sokongan, dan tiada rasional mekanistik yang jelas.
+- **Malformasi pernafasan (respiratory malformation)**: skor 0.9952, tahap bukti L4, keputusan **Hold**. Agonis beta-2 mungkin melegakan bronkospasma yang boleh dipulihkan, tetapi tidak merawat kecacatan struktur. Literatur yang diperoleh kebanyakannya tentang asma atau topik lain, dan satu-satunya ujian ialah program farmakokinetik umum.
+- **Sindrom Rienhoff**: skor 0.9938, tahap bukti L5, keputusan **Hold**. Tiada ujian atau literatur sokongan, dan tiada rasional mekanistik yang jelas.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

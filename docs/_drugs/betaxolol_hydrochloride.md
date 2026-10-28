@@ -8,6 +8,7 @@ nav_order: 145
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Betaxolol Hydrochloride
@@ -49,7 +50,8 @@ Betaxolol hidroklorida adalah antagonis reseptor adrenergik beta-1 selektif (pen
 | Indikasi Baru yang Diramalkan | **Tiada** (tiada ramalan TxGNN dihasilkan) |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | **L5** (Tiada ramalan, tiada kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Jumlah Pendaftaran | 1 |
 | Keputusan yang Disyorkan | **Tangguhkan** |
 

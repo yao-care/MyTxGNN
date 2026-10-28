@@ -6,9 +6,9 @@ nav_order: 354
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Ferric Carboxymaltose: indikasi baharu diramal Bronkitis (tahap bukti L5). Indikasi asal: Tiada data indikasi kelulusan tempatan"
 monitor_inn: "FERRIC CARBOXYMALTOSE"
 predicted_indications: ["bronchitis"]
+description: "Ferric Carboxymaltose: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ferric Carboxymaltose
@@ -33,14 +33,14 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Ferric Carboxymaltose: Daripada Defisiensi Besi kepada Bronkitis
+## Ferric Carboxymaltose: Bronkitis (bronchitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Ferric carboxymaltose ialah produk penggantian besi intravena yang digunakan untuk membetulkan defisiensi besi dan anemia kekurangan besi.
 Model TxGNN meramalkan ia mungkin berkesan untuk **bronkitis**,
-tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini berasaskan model graf semata-mata.
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi.
 
 ---
 
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi kelulusan tempatan; secara umum digunakan untuk defisiensi besi dan anemia kekurangan besi |
-| Indikasi Baharu yang Diramalkan | Bronkitis |
-| Skor Ramalan TxGNN | 99.00% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Bronkitis (bronchitis) |
+| Skor Ramalan TxGNN | 0.9900 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -64,13 +64,12 @@ Data mekanisme tindakan terperinci tidak tersedia pada masa ini. Berdasarkan mak
 
 Satu hubungan spekulatif boleh dibuat melalui status besi dan fungsi imun atau respiratori, kerana defisiensi besi boleh menjejaskan tindak balas imun. Namun, bronkitis kebanyakannya merupakan keadaan saluran udara yang bersifat berjangkit atau radang, dan suplemen besi bukan rawatan yang diterima untuknya.
 
-Selain itu, besi intravena sebenarnya boleh menimbulkan kebimbangan semasa jangkitan aktif, kerana ketersediaan besi boleh menyokong pertumbuhan patogen. Skor TxGNN (0.990) hanyalah ramalan berasaskan graf, dan tiada data sokongan tersedia untuk menyelesaikan persoalan ini.
+Selain itu, besi intravena sebenarnya boleh menimbulkan kebimbangan semasa jangkitan aktif, kerana ketersediaan besi boleh menyokong pertumbuhan patogen. Skor TxGNN (0.9900) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi; tiada data sokongan tersedia untuk menyelesaikan persoalan ini.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Ferric carboxymaltose pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar dalam data yang dikumpulkan untuk laporan ini.
 
 ---
 
@@ -97,7 +96,7 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini berada pada tahap bukti L5 (ramalan model sahaja) tanpa sebarang percubaan klinikal atau literatur, tiada kaitan mekanistik yang jelas, dan ubat ini tidak dipasarkan di Malaysia. Besi intravena juga mungkin menimbulkan kebimbangan dalam jangkitan aktif.
+- Besi intravena juga mungkin menimbulkan kebimbangan dalam jangkitan aktif.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang saringan keselamatan)

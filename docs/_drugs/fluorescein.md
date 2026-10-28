@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 363
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Fluorescein: indikasi baharu diramal Angina Prinzmetal (tahap bukti L5). Indikasi asal: Tiada data indikasi yang diluluskan di Malaysia"
+last_modified_at: 2026-10-28
 monitor_inn: "Fluorescein"
 predicted_indications: ["Prinzmetal angina", "antithrombin deficiency type 2", "rheumatoid arthritis", "factor 5 excess with spontaneous thrombosis", "hemoglobinopathy", "heparin cofactor 2 deficiency", "thrombophilia", "hyperthyroidism", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations"]
+description: "Fluorescein: indikasi baharu diramal Angina Prinzmetal (Prinzmetal angina) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Fluorescein
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Fluorescein: Daripada Agen Diagnostik kepada Angina Prinzmetal
+## Fluorescein: Angina Prinzmetal (Prinzmetal angina)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -44,25 +44,25 @@ Fluorescein ialah pewarna pendarfluor yang digunakan dalam bidang diagnostik, te
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi yang diluluskan di Malaysia |
-| Indikasi Baharu yang Diramalkan | Angina Prinzmetal |
-| Skor Ramalan TxGNN | 99.81% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Angina Prinzmetal (Prinzmetal angina) |
+| Skor Ramalan TxGNN | 0.9981 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
 Pada masa ini, data terperinci tentang mekanisme tindakan tidak tersedia. Berdasarkan maklumat yang diketahui, fluorescein ialah pewarna pendarfluor untuk diagnostik dan tidak mempunyai aktiviti vasodilatasi atau anti-vasospasme yang diketahui.
 
-Analisis data yang dikumpulkan untuk laporan ini tidak menemui sebarang hubungan mekanistik antara fluorescein dengan angina Prinzmetal. Skor TxGNN yang tinggi kelihatan sebagai artifak berasaskan graf tanpa sokongan klinikal.
+Analisis data yang dikumpulkan untuk laporan ini tidak menemui sebarang hubungan mekanistik antara fluorescein dengan angina Prinzmetal. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi, tanpa sokongan klinikal.
 
 Sembilan ramalan lain dalam senarai 10 teratas juga tidak mempunyai mekanisme yang munasabah, antaranya:
-- **Artritis reumatoid** (99.74%): Literatur yang diperoleh berkaitan manifestasi okular dan mata kering. Fluorescein hanya muncul sebagai pewarna diagnostik, bukan sebagai rawatan.
-- **Hemoglobinopati** (99.72%): Literatur berkaitan angiografi fluorescein untuk mengesan retinopati sel sabit, iaitu peranan pengimejan diagnostik.
-- **Trombofilia** (99.67%): Literatur berkaitan oklusi vaskular retina yang mana angiografi fluorescein digunakan untuk diagnosis.
-- **Hipertiroidisme** (99.59%): Literatur berkaitan oftalmopati tiroid dan pewarnaan kornea.
+- **Artritis reumatoid** (0.9974): Literatur yang diperoleh berkaitan manifestasi okular dan mata kering. Fluorescein hanya muncul sebagai pewarna diagnostik, bukan sebagai rawatan.
+- **Hemoglobinopati** (0.9972): Literatur berkaitan angiografi fluorescein untuk mengesan retinopati sel sabit, iaitu peranan pengimejan diagnostik.
+- **Trombofilia** (0.9967): Literatur berkaitan oklusi vaskular retina yang mana angiografi fluorescein digunakan untuk diagnosis.
+- **Hipertiroidisme** (0.9959): Literatur berkaitan oftalmopati tiroid dan pewarnaan kornea.
 - Ramalan lain (kekurangan antitrombin jenis 2, lebihan faktor 5, kekurangan kofaktor heparin 2, penghapusan separa lengan pendek kromosom 16, beta-talasemia): hanya ramalan model, tiada ujian atau literatur.
 
 ## Bukti Ujian Klinikal

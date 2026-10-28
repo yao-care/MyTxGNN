@@ -6,9 +6,9 @@ nav_order: 516
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
-description: "Mupirocin: indikasi baharu diramal Empiema pleura (pleural empyema) (tahap bukti L5). Indikasi asal: Impetigo, impetigo bulosa"
 monitor_inn: "MUPIROCIN"
 predicted_indications: ["pleural empyema (disease)", "punctate epithelial keratoconjunctivitis"]
+description: "Mupirocin: indikasi baharu diramal Pleural empyema (disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Mupirocin
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Mupirocin: Daripada Impetigo kepada Empiema Pleura
+## Mupirocin: Pleural empyema (disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **empiema pleura**, tetapi seta
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Impetigo, impetigo bulosa |
-| Indikasi Baharu yang Diramalkan | Empiema pleura (*pleural empyema*) |
-| Skor Ramalan TxGNN | 99.49% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Pleural empyema (disease) |
+| Skor Ramalan TxGNN | 0.9949 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 12) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -61,9 +61,9 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **empiema pleura**, tetapi seta
 
 Butiran mekanisme tindakan asal tidak tersedia dalam data yang disusun untuk laporan ini. Berdasarkan maklumat sedia ada, mupirocin diketahui merencat isoleusil-tRNA sintetase bakteria dan aktif terutamanya terhadap *Staphylococcus aureus* (termasuk MRSA) serta *Streptococcus pyogenes*. Kedua-dua bakteria ini juga boleh menyebabkan empiema pleura, dan inilah asas kepada kaitan mekanistik yang diramalkan.
 
-Namun, terdapat halangan besar. Mupirocin ialah agen topikal dengan pendedahan sistemik yang boleh diabaikan kerana ia cepat dimetabolismekan kepada asid monik yang tidak aktif. Oleh itu, ia tidak dapat mencapai kepekatan terapeutik di ruang pleura melalui penghantaran sistemik. Penghantaran intrapleura atau secara langsung belum pernah dibuktikan. Skor TxGNN (0.995) hanyalah ramalan pengiraan, dan status produk yang tidak dipasarkan menambah ketidakpastian.
+Namun, terdapat halangan besar. Mupirocin ialah agen topikal dengan pendedahan sistemik yang boleh diabaikan kerana ia cepat dimetabolismekan kepada asid monik yang tidak aktif. Oleh itu, ia tidak dapat mencapai kepekatan terapeutik di ruang pleura melalui penghantaran sistemik. Penghantaran intrapleura atau secara langsung belum pernah dibuktikan.
 
-**Ramalan kedua** (untuk rujukan): *punctate epithelial keratoconjunctivitis* (skor 99.10%, tahap bukti L5, keputusan Hold). Kaitan yang munasabah hanya wujud untuk komponen bakteria (stafilokokus). Bentuk adenovirus atau bukan bakteria tidak akan bertindak balas terhadap antibakteria. Formulasi mupirocin yang sedia ada bukan produk oftalmik dan keselamatan pada permukaan mata belum dipastikan.
+**Ramalan kedua** (untuk rujukan): *punctate epithelial keratoconjunctivitis* (skor 0.9910, tahap bukti L5, keputusan Hold). Kaitan yang munasabah hanya wujud untuk komponen bakteria (stafilokokus). Bentuk adenovirus atau bukan bakteria tidak akan bertindak balas terhadap antibakteria. Formulasi mupirocin yang sedia ada bukan produk oftalmik dan keselamatan pada permukaan mata belum dipastikan.
 
 ---
 
@@ -93,7 +93,7 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang lengkap.
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur. Sifat topikal mupirocin dengan pendedahan sistemik yang minimum menjadikan rawatan empiema pleura sukar dilaksanakan secara farmakologi, dan produk ini tidak dipasarkan di Malaysia.
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang penilaian keselamatan)

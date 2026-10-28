@@ -7,13 +7,14 @@ drugbank_id: "DB00833"
 drug_name: "Cefaclor"
 kg_predictions: 10
 dl_predictions: 41
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/cefaclor/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Cefaclor
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **10** ramalan graf pengetahuan dan **41** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **10** ramalan model TxGNN (pembelajaran mendalam) dan **41** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

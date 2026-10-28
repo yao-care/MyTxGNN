@@ -6,9 +6,9 @@ nav_order: 249
 evidence_level: L4
 indication_count: 9
 last_modified_at: 2026-10-15
-description: "Cytarabine: indikasi baharu diramal Karsinoma paru-paru sel kecil (small cell lung carcinoma) (tahap bukti L4). Indikasi asal: Leukemia limfoblastik akut dan leukemia mieloid akut (berdasarkan gra…"
 monitor_inn: "CYTARABINE"
 predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
+description: "Cytarabine: indikasi baharu diramal Karsinoma paru-paru sel kecil (small cell lung carcinoma) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Cytarabine
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **9**
 
 </div>
 
-## Sitarabin (Cytarabine): Daripada Leukemia Limfoblastik Akut kepada Karsinoma Paru-paru Sel Kecil
+## Cytarabine: Karsinoma paru-paru sel kecil (small cell lung carcinoma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini terdapat **0 ujian klinikal** dan **20 penerbitan** yang berk
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Leukemia limfoblastik akut dan leukemia mieloid akut (berdasarkan graf pengetahuan PrimeKG; tiada lesen tempatan untuk dirujuk) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Karsinoma paru-paru sel kecil (small cell lung carcinoma) |
-| Skor Ramalan TxGNN | 99.78% |
+| Skor Ramalan TxGNN | 0.9978 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -115,7 +115,7 @@ Klasifikasi di atas berdasarkan pengetahuan umum mengenai kelas ubat ini, bukan 
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Skor TxGNN tinggi (99.78%), tetapi tiada ujian klinikal didaftarkan dan tiada bukti khusus sitarabin untuk karsinoma paru-paru sel kecil. Bukti yang ada hanya tahap L4, kebanyakannya daripada kajian NSCLC lama dengan kadar respons rendah (14–18%) dan toksisiti hematologi yang ketara. Sitarabin juga tidak didaftarkan di Malaysia.
+- Skor TxGNN tinggi (0.9978), tetapi tiada ujian klinikal didaftarkan dan tiada bukti khusus sitarabin untuk karsinoma paru-paru sel kecil. Bukti yang ada hanya tahap L4, kebanyakannya daripada kajian NSCLC lama dengan kadar respons rendah (14–18%) dan toksisiti hematologi yang ketara. Sitarabin juga tidak didaftarkan di Malaysia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej dan maklumat amaran/kontraindikasi rasmi (perlu dimuat turun daripada laman web NPRA). Tanpa ini, saringan keselamatan tidak dapat diteruskan.

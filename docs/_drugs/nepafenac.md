@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nepafenac
-parent: Low Evidence (L4-L5)
+parent: High Evidence (L1-L2)
 nav_order: 521
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Nepafenac: indikasi baharu diramal Penyakit mata (eye disease) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar dalam rekod"
 monitor_inn: "Nepafenac"
 predicted_indications: ["eye disease", "optic papillitis", "hypotrichosis simplex of the scalp", "seborrheic keratosis", "von Hippel anomaly", "congenital hypotrichosis milia", "mcpherson robertson cammarano syndrome", "lagophthalmos", "vulvar inverted follicular keratosis", "vitreous detachment"]
+description: "Nepafenac: indikasi baharu diramal Penyakit mata (eye disease) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Nepafenac
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L2** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Nepafenac: Daripada Penggunaan Oftalmik kepada Penyakit Mata
+## Nepafenac: Penyakit mata (eye disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit mata (eye disease)**
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar dalam rekod |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Penyakit mata (eye disease) |
-| Skor Ramalan TxGNN | 99.85% |
+| Skor Ramalan TxGNN | 0.9985 |
 | Tahap Bukti | L2 (berdasarkan penilaian dalam data yang dikompilasi) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
@@ -63,7 +63,7 @@ Nepafenac ialah prodrug yang ditukar oleh hidrolase tisu mata kepada amfenac, ia
 
 Bukti paling kukuh ialah untuk keradangan dan kesakitan selepas pembedahan katarak. Label "penyakit mata" ialah kategori yang luas. Sub-indikasi seperti edema makula, kesakitan selepas fotokoagulasi panretina (PRP) dan keradangan selepas laser patut dinilai secara berasingan.
 
-Perlu diingat bahawa ubat ini sudah mempunyai bukti penggunaan oftalmik yang banyak. Oleh itu, tuntutan tentang kebaharuan repurposing perlu disahkan dengan sumber kawal selia, memandangkan status pasaran "tidak dipasarkan" serta indikasi asal dan MOA tidak tercatat dalam rekod.
+Perlu diingat bahawa ubat ini sudah mempunyai bukti penggunaan oftalmik yang banyak.
 
 ---
 
@@ -117,17 +117,17 @@ Sila rujuk sisipan pembungkusan untuk amaran utama dan kontraindikasi rasmi.
 
 | Kedudukan | Penyakit | Skor | Tahap Bukti | Cadangan |
 |------|------|------|------|------|
-| 2 | Papilitis optik | 99.84% | L4 | Hold |
-| 3 | Hipotrikosis simpleks kulit kepala | 99.84% | L5 | Hold |
-| 4 | Keratosis seboreik | 99.83% | L5 | Hold |
-| 5 | Anomali von Hippel | 99.82% | L5 | Hold |
-| 6 | Hipotrikosis kongenital milia | 99.82% | L5 | Hold |
-| 7 | Sindrom McPherson Robertson Cammarano | 99.82% | L5 | Hold |
-| 8 | Lagoftalmos | 99.81% | L5 | Hold |
-| 9 | Keratosis folikular terbalik vulva | 99.81% | L5 | Hold |
-| 10 | Pelekatan vitreus (vitreous detachment) | 99.81% | L3 | Research Question |
+| 2 | Papilitis optik | 0.9984 | L5 | Hold |
+| 3 | Hipotrikosis simpleks kulit kepala | 0.9984 | L5 | Hold |
+| 4 | Keratosis seboreik | 0.9983 | L5 | Hold |
+| 5 | Anomali von Hippel | 0.9982 | L5 | Hold |
+| 6 | Hipotrikosis kongenital milia | 0.9982 | L5 | Hold |
+| 7 | Sindrom McPherson Robertson Cammarano | 0.9982 | L5 | Hold |
+| 8 | Lagoftalmos | 0.9981 | L5 | Hold |
+| 9 | Keratosis folikular terbalik vulva | 0.9981 | L5 | Hold |
+| 10 | Pelekatan vitreus (vitreous detachment) | 0.9981 | L5 | Research Question |
 
-Ramalan kedudukan 3 hingga 9 tidak mempunyai asas mekanistik yang jelas dan kemungkinan besar artifak graf pengetahuan. Papilitis optik hanya disokong oleh model haiwan, dan bagi lagoftalmos, NSAID topikal pada kornea yang terjejas membawa risiko lebur kornea.
+Ramalan kedudukan 3 hingga 9 tidak mempunyai asas mekanistik yang jelas; skornya datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Papilitis optik hanya disokong oleh model haiwan, dan bagi lagoftalmos, NSAID topikal pada kornea yang terjejas membawa risiko lebur kornea.
 
 ---
 

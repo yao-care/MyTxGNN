@@ -4,17 +4,17 @@ title: Entecavir
 parent: Low Evidence (L4-L5)
 nav_order: 325
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Entecavir: indikasi baharu diramal Jangkitan virus hepatitis C kronik (tahap bukti L4). Indikasi asal: Jangkitan virus hepatitis B kronik"
 monitor_inn: "ENTECAVIR"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
+description: "Entecavir: indikasi baharu diramal Jangkitan virus hepatitis C kronik (chronic hepatitis C virus infection) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Entecavir
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Entecavir: Daripada Jangkitan Virus Hepatitis B Kronik kepada Jangkitan Virus Hepatitis C Kronik
+## Entecavir: Jangkitan virus hepatitis C kronik (chronic hepatitis C virus infection)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Setakat ini terdapat **2 ujian klinikal** dan **20 penerbitan** yang berkaitan, 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan virus hepatitis B kronik |
-| Indikasi Baharu yang Diramalkan | Jangkitan virus hepatitis C kronik |
-| Skor Ramalan TxGNN | 99.98% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Jangkitan virus hepatitis C kronik (chronic hepatitis C virus infection) |
+| Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 15) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -115,7 +115,6 @@ Skor TxGNN yang tinggi berkemungkinan mencerminkan kedekatan HBV dan HCV sebagai
 **Justifikasi:**
 - Tiada asas mekanistik langsung untuk entecavir terhadap HCV, dan bukti yang ada hanya menyokong penggunaan dalam jangkitan bersama HCV/HBV. Dalam situasi itu, kesannya ialah menyekat pengaktifan semula HBV, bukan merawat HCV.
 - Skor TxGNN yang tinggi tidak disokong oleh ujian klinikal yang menunjukkan kesan anti-HCV.
-- Entecavir tidak dipasarkan di Malaysia berdasarkan data yang ada.
 
 **Untuk meneruskan, perlu dilengkapkan:**
 - Data mekanisme tindakan (MOA) terperinci daripada sumber pangkalan data ubat.

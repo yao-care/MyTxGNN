@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 19
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Acetazolamide: indikasi baharu diramal Hipertermia malignan akibat senaman (exercise-induced malignant hyper… (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA ditemui)"
 monitor_inn: "Acetazolamide"
 predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic cardiomyopathy", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "distal myopathy, Tateyama type", "cirrhotic cardiomyopathy", "cardiomyopathy", "intestinal obstruction", "glycogen storage disease due to acid maltase deficiency, late-onset", "unclassified intestinal pseudoobstruction"]
+last_modified_at: 2026-10-27
+description: "Acetazolamide: indikasi baharu diramal demam panas malignan akibat senaman (exercise-induced malignant hyperthermia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Acetazolamide
@@ -33,98 +33,64 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Acetazolamide: Daripada Penunjuk Asal Tidak Diketahui kepada Hipertermia Malignan Akibat Senaman
+## Acetazolamide: perencat karbonik anhidrase → demam panas malignan akibat senaman (exercise-induced malignant hyperthermia)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Data yang dikumpulkan untuk laporan ini tidak mencatatkan penunjuk asal (indikasi diluluskan) bagi acetazolamide di Malaysia, kerana tiada lesen berdaftar ditemui.
-Model TxGNN meramalkan ia mungkin berkesan untuk **hipertermia malignan akibat senaman** dengan skor sangat tinggi (99.95%), tetapi ini ramalan komputasi semata-mata.
-Pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong indikasi ini.
+Acetazolamide ialah perencat karbonik anhidrase yang sudah didaftarkan dan dipasarkan di Malaysia. Model TxGNN meramalkan ia mungkin berkesan untuk **demam panas malignan akibat senaman (exercise-induced malignant hyperthermia)**, tetapi **tiada sebarang percubaan klinikal atau penerbitan** dalam data yang dikumpulkan untuk laporan ini yang menyokong ramalan tersebut. Ramalan ini hanya berasaskan model pengiraan.
 
----
+## Gambaran Keseluruhan
 
-## Gambaran Ringkas
-
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen NPRA ditemui) |
-| Indikasi Baharu yang Diramalkan | Hipertermia malignan akibat senaman (exercise-induced malignant hyperthermia) |
-| Skor Ramalan TxGNN | 99.95% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | demam panas malignan akibat senaman (exercise-induced malignant hyperthermia) |
+| Skor Ramalan TxGNN | 0,9995 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
----
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Acetazolamide ialah perencat karbonik anhidrase, dan secara mekanistik perencatan ini mengubah keseimbangan asid-bes serta mungkin mempengaruhi gandingan pengujaan-pengecutan otot. Namun, hubungan ini hanyalah spekulasi dan tidak disokong oleh data yang dikumpulkan.
+Data terperinci mengenai mekanisme tindakan acetazolamide tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, acetazolamide ialah perencat karbonik anhidrase yang mengubah keseimbangan asid-bes dalam badan.
 
-Skor TxGNN yang sangat tinggi (kedudukan 1105) mencerminkan persamaan rangkaian pengetahuan, bukan bukti terapeutik. Tiada percubaan klinikal atau literatur untuk mengesahkan ramalan ini.
-
-Ramalan lain yang berkedudukan tinggi turut dinilai: kardiomiopati hipertrofik, miopati kongenital dengan lebihan filamen nipis, kardiomiopati sirotik, kardiomiopati, halangan usus, dan pseudo-obstruksi usus. Kesemuanya berstatus Hold. Beberapa daripadanya menimbulkan isyarat keselamatan (lihat bahagian Pertimbangan Keselamatan).
-
----
+Satu kaitan yang mungkin ialah perubahan keseimbangan asid-bes boleh memberi kesan kepada keterujaan otot dan gandingan pengujaan-pengecutan. Namun, ini hanyalah andaian dan tidak disokong oleh data yang ada. Skor TxGNN yang sangat tinggi (0,9995) hanyalah ramalan pengiraan dan bukan bukti keberkesanan klinikal.
 
 ## Bukti Percubaan Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
-
----
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia untuk indikasi utama ini.
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
-Sebagai rujukan, bagi ramalan kedudukan ke-7 (kardiomiopati) terdapat beberapa penerbitan tidak langsung, antaranya:
+## Maklumat Pasaran di Malaysia
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [30279861](https://pubmed.ncbi.nlm.nih.gov/30279861/) | 2018 | Laporan kes | Journal of Cardiology Cases | Acetazolamide merawat hipoklorémia pada pesakit kegagalan jantung lanjut dengan kardiomiopati hipertrofik |
-| [29123889](https://pubmed.ncbi.nlm.nih.gov/29123889/) | 2017 | Laporan kes (kejadian buruk) | Acute Medicine & Surgery | Edema pulmonari bukan kardiogenik selepas acetazolamide intravena |
-| [22426904](https://pubmed.ncbi.nlm.nih.gov/22426904/) | 2012 | Praklinikal (ex vivo) | Saudi Medical Journal | Kesan acetazolamide pada jantung arnab terpencil yang mengalami iskemia-reperfusi |
-| [37169875](https://pubmed.ncbi.nlm.nih.gov/37169875/) | 2023 | Ulasan | Eur Heart J Cardiovasc Pharmacother | Ulasan umum farmakoterapi kardiovaskular 2022 |
-| [38806171](https://pubmed.ncbi.nlm.nih.gov/38806171/) | 2025 | Ulasan | ESC Heart Failure | Kemas kini umum kegagalan jantung 2024 |
-
----
-
-## Maklumat Pasaran Malaysia
-
-Tiada lesen acetazolamide berdaftar ditemui dalam data NPRA yang dikumpulkan (jumlah lesen: 0). Status: tidak dipasarkan.
-
----
+Status pasaran: dipasarkan. Data tempatan merekodkan 3 lesen yang sah dan tiada yang dibatalkan. Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat** (pertanyaan selesai; jumlah 100 interaksi direkodkan, sebahagian disenaraikan):
-- **Major**: asid asetilsalisilat (aspirin), cisapride
-- **Moderate**: ubat antidiabetik (acarbose, acetohexamide, albiglutide, alogliptin, canagliflozin, chlorpropamide, dapagliflozin, dulaglutide), amphotericin B (dan formulasi lipid/liposomal/kolesteril sulfat), kortikosteroid (beclomethasone, betamethasone, dexamethasone), bisacodyl, minyak kastor
-- **Minor**: doxycycline
+Data amaran utama dan kontraindikasi tidak tersedia. Sila rujuk sisipan pek untuk maklumat keselamatan.
 
-**Isyarat keselamatan daripada literatur dan penilaian ramalan:**
-- Laporan kes ileus adinamik akibat acetazolamide (PMID 19653068) dan ileus paralitik akibat ubat (PMID 13659695), yang bertentangan dengan ramalan halangan usus dan pseudo-obstruksi usus.
-- Edema pulmonari bukan kardiogenik selepas acetazolamide intravena (PMID 29123889).
-- Pada pesakit sirosis, acetazolamide boleh mencetuskan ensefalopati hepatik melalui pengekalan ammonia renal akibat pengalkalian air kencing, satu kebimbangan untuk ramalan kardiomiopati sirotik.
-
-Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi yang lengkap.
-
----
+**Interaksi ubat** (daripada 100 interaksi yang direkodkan; contoh sahaja):
+- **Major (Utama):** asid asetilsalisilik (aspirin), cisapride.
+- **Moderate (Sederhana):** ubat antidiabetes (cth. acarbose, alogliptin, canagliflozin, dapagliflozin, chlorpropamide, dulaglutide), kortikosteroid (cth. dexamethasone, betamethasone, beclomethasone), amfoterisin B (pelbagai formulasi), bisacodyl, minyak kastor.
+- **Minor (Ringan):** doxycycline.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal, literatur atau lesen tempatan, dan beberapa ramalan lain mempunyai isyarat keselamatan yang bercanggah dengan kesan terapeutik.
+- Tiada percubaan klinikal mahupun penerbitan yang mengkaji penyakit ramalan ini secara langsung, maka ia kekal pada tahap bukti L5 iaitu ramalan model sahaja.
 
-**Untuk diteruskan, perkara berikut diperlukan:**
-- Sisipan pek NPRA (amaran dan kontraindikasi), yang merupakan jurang data yang menyekat penyaringan keselamatan.
-- Data mekanisme tindakan (MOA) daripada DrugBank untuk analisis hubungan mekanistik.
-- Pengesahan status pendaftaran dan indikasi asal di Malaysia.
-- Kajian praklinikal atau literatur khusus yang menghubungkan acetazolamide dengan hipertermia malignan akibat senaman.
-- Penilaian keserasian laluan pentadbiran dan kesamaan dengan indikasi asal (kedua-duanya masih belum dinilai).
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pek produk
+- Kajian praklinikal atau klinikal yang mengkaji secara langsung kesan acetazolamide terhadap demam panas malignan akibat senaman
+- Penilaian keselamatan berkaitan interaksi ubat utama (aspirin dan cisapride)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -50,10 +50,10 @@ dengan **1 percubaan klinikal** dan **17 penerbitan** yang berkaitan setakat ini
 |------|------|
 | Indikasi Asal | Tiada data indikasi yang diluluskan dalam data yang dikumpulkan |
 | Indikasi Baharu yang Diramalkan | Jerawat (acne) |
-| Skor Ramalan TxGNN | 99.94% |
+| Skor Ramalan TxGNN | 0.9994 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -138,9 +138,9 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
 | Penyakit | Skor TxGNN | Tahap Bukti | Catatan |
 |------|------|------|------|
-| Lupus eritematosus sistemik pediatrik | 99.35% | L5 | Tiada percubaan atau literatur; kebimbangan keselamatan yang besar pada kanak-kanak (tulang, pertumbuhan, hati) |
-| Eritroblastosis janin | 99.28% | L5 | Tiada kaitan mekanistik yang munasabah; acitretin dikontraindikasikan sepenuhnya semasa kehamilan |
-| Sindrom predisposisi kanser orofaring dan telangiektasia kutaneus familial | 99.10% | L5 | Ramalan berkomputer sahaja; rasional spekulatif |
+| Lupus eritematosus sistemik pediatrik | 0.9935 | L5 | Tiada percubaan atau literatur; kebimbangan keselamatan yang besar pada kanak-kanak (tulang, pertumbuhan, hati) |
+| Eritroblastosis janin | 0.9928 | L5 | Tiada kaitan mekanistik yang munasabah; acitretin dikontraindikasikan sepenuhnya semasa kehamilan |
+| Sindrom predisposisi kanser orofaring dan telangiektasia kutaneus familial | 0.9910 | L5 | Ramalan berkomputer sahaja; rasional spekulatif |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

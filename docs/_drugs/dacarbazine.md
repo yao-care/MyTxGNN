@@ -3,18 +3,18 @@ layout: default
 title: Dacarbazine
 parent: Low Evidence (L4-L5)
 nav_order: 251
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Dacarbazine: indikasi baharu diramal Neoplasma saluran aerodigestif atas (upper aerodigestive tract neopla… (tahap bukti L4). Indikasi asal: Melanoma metastatik"
 monitor_inn: "DACARBAZINE"
 predicted_indications: ["upper aerodigestive tract neoplasm"]
+description: "Dacarbazine: indikasi baharu diramal Neoplasma saluran aerodigestif atas (upper aerodigestive tract neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Dacarbazine
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **1** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-## Dacarbazine: Daripada Melanoma Metastatik dan Limfoma Hodgkin kepada Neoplasma Saluran Aerodigestif Atas
+## Dacarbazine: Neoplasma saluran aerodigestif atas (upper aerodigestive tract neoplasm)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini **tiada ujian klinikal** didaftarkan untuk indikasi ini, dan 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Melanoma metastatik; limfoma Hodgkin (termasuk limfoma Hodgkin klasik) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Neoplasma saluran aerodigestif atas (upper aerodigestive tract neoplasm) |
-| Skor Ramalan TxGNN | 99.26% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | ✗ Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9926 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -64,7 +64,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang
 
 Kaitan dengan indikasi baharu bersifat tidak langsung dan berasaskan lokasi. Melanoma mukosa dan limfoma Hodgkin boleh melibatkan kawasan kepala dan leher atau saluran aerodigestif atas (contohnya metastasis mukosa dan penglibatan nodal/ekstranodal kepala dan leher). Walau bagaimanapun, kategori "neoplasma saluran aerodigestif atas" terdiri terutamanya daripada karsinoma sel skuamus, yang bukan histologi yang dikenali responsif terhadap dacarbazine.
 
-Skor TxGNN yang tinggi (0.993) berkemungkinan mencerminkan kedekatan rangkaian dengan indikasi yang telah diluluskan, dan bukan bukti khusus penyakit yang bebas. Oleh itu, skor ini perlu ditafsirkan dengan berhati-hati.
+Skor TxGNN yang tinggi (0.9926) berkemungkinan mencerminkan kedekatan rangkaian dengan indikasi yang telah diluluskan, dan bukan bukti khusus penyakit yang bebas. Oleh itu, skor ini perlu ditafsirkan dengan berhati-hati.
 
 ---
 
@@ -120,7 +120,6 @@ Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
 
 **Justifikasi:**
 - Ramalan hanya disokong oleh model (tahap bukti L4), tanpa ujian klinikal berdaftar dan tanpa bukti khusus untuk neoplasma saluran aerodigestif atas. Skor TxGNN yang tinggi kemungkinan besar mencerminkan kedekatan rangkaian dan bukannya bukti bebas.
-- Ubat ini tidak dipasarkan di Malaysia (tiada pendaftaran NPRA), dan data keselamatan daripada sisipan pakej belum tersedia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pakej (data keselamatan tahap kritikal yang belum ada)

@@ -3,18 +3,18 @@ layout: default
 title: Ferrous Gluconate
 parent: Low Evidence (L4-L5)
 nav_order: 356
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
-description: "Ferrous Gluconate: indikasi baharu diramal Sindrom Plummer-Vinson (tahap bukti L4). Indikasi asal: Anemia kekurangan zat besi (berdasarkan graf pengetahuan TxGNN/PrimeKG"
 monitor_inn: "FERROUS GLUCONATE"
 predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder"]
+description: "Ferrous Gluconate: indikasi baharu diramal Plummer-Vinson syndrome (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ferrous Gluconate
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **5**
 
 </div>
 
-## Ferrous Gluconate: Daripada Anemia Kekurangan Zat Besi kepada Sindrom Plummer-Vinson
+## Ferrous Gluconate: Plummer-Vinson syndrome
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Anemia kekurangan zat besi (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada lesen tempatan untuk dirujuk) |
-| Indikasi Baharu yang Diramalkan | Sindrom Plummer-Vinson |
-| Skor Ramalan TxGNN | 99.94% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Plummer-Vinson syndrome |
+| Skor Ramalan TxGNN | 0.9994 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -64,7 +64,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. 
 
 Sindrom Plummer-Vinson (disfagia sideropenik) dicirikan oleh anemia kekurangan zat besi, web esofagus dan disfagia. Penggantian zat besi ialah rawatan piawai dan boleh menyelesaikan disfagia pada ramai pesakit. Oleh itu, hubungan mekanistiknya kukuh.
 
-Namun, ini pada dasarnya lanjutan daripada indikasi anemia kekurangan zat besi yang sedia ada, bukan pengubahan guna (repurposing) yang sebenar. Skor TxGNN yang tinggi berkemungkinan mencerminkan kedekatan graf dengan anemia kekurangan zat besi. Tiada percubaan atau literatur dibekalkan dalam data yang disusun untuk laporan ini.
+Namun, ini pada dasarnya lanjutan daripada indikasi anemia kekurangan zat besi yang sedia ada, bukan pengubahan guna (repurposing) yang sebenar. Tiada percubaan atau literatur dibekalkan dalam data yang disusun untuk laporan ini.
 
 ---
 
@@ -86,10 +86,10 @@ Data yang disusun turut mengandungi ramalan lain dengan bukti yang lebih lemah:
 
 | Kedudukan | Penyakit Diramalkan | Skor TxGNN | Tahap Bukti | Ulasan Ringkas |
 |------|------|------|------|------|
-| 2 | Anemia megaloblastik konstitusi yang tidak bergantung pada vitamin B12 dan folat | 99.94% | L5 | Kaitan dengan zat besi tidak jelas; zat besi tidak dijangka membetulkan kecacatan sintesis DNA melainkan wujud kekurangan zat besi serentak. Tiada data klinikal. |
-| 3 | Malformasi esofagus bukan sindromik | 99.67% | L5 | Kecacatan struktur dirawat melalui pembedahan; tiada mekanisme munasabah. Berkemungkinan artifak perkaitan dengan Plummer-Vinson. |
-| 4 | Penyakit metabolik biotin | 99.42% | L5 | Rawatan ialah suplemen biotin; zat besi tiada peranan mantap. Tiada sokongan mekanistik atau klinikal. |
-| 5 | Gangguan kekurangan vitamin | 99.17% | L4 | Zat besi ialah mineral, bukan vitamin. Hanya satu kajian perintis kecil yang berkaitan secara tidak langsung (lihat di bawah). |
+| 2 | Anemia megaloblastik konstitusi yang tidak bergantung pada vitamin B12 dan folat | 0.9994 | L5 | Kaitan dengan zat besi tidak jelas; zat besi tidak dijangka membetulkan kecacatan sintesis DNA melainkan wujud kekurangan zat besi serentak. Tiada data klinikal. |
+| 3 | Malformasi esofagus bukan sindromik | 0.9967 | L5 | Kecacatan struktur dirawat melalui pembedahan; tiada mekanisme munasabah. Berkemungkinan artifak perkaitan dengan Plummer-Vinson. |
+| 4 | Penyakit metabolik biotin | 0.9942 | L5 | Rawatan ialah suplemen biotin; zat besi tiada peranan mantap. Tiada sokongan mekanistik atau klinikal. |
+| 5 | Gangguan kekurangan vitamin | 0.9917 | L5 | Zat besi ialah mineral, bukan vitamin. Hanya satu kajian perintis kecil yang berkaitan secara tidak langsung (lihat di bawah). |
 
 ### Percubaan Klinikal untuk Ramalan Kedudukan 5
 
@@ -101,7 +101,6 @@ Data yang disusun turut mengandungi ramalan lain dengan bukti yang lebih lemah:
 
 ## Maklumat Pasaran Malaysia
 
-Ferrous gluconate pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan.
 
 ---
 

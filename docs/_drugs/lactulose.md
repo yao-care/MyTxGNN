@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lactulose
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 442
-evidence_level: L3
+evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Lactulose: indikasi baharu diramal Penyakit kuning obstruktif (obstructive jaundice) (tahap bukti L3). Indikasi asal: Ensefalopati hepar, koma hepar, gangguan sembelit"
 monitor_inn: "LACTULOSE"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
+description: "Lactulose: indikasi baharu diramal Acute urate nephropathy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Lactulose
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **8** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **8**
 
 </div>
 
-## Lactulose: Daripada Ensefalopati Hepar kepada Penyakit Kuning Obstruktif
+## Lactulose: Acute urate nephropathy
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ dengan **sifar ujian klinikal berdaftar** dan **20 penerbitan** yang dikumpulkan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Ensefalopati hepar, koma hepar, gangguan sembelit |
-| Indikasi Baharu yang Diramalkan | Penyakit kuning obstruktif (obstructive jaundice) |
-| Skor Ramalan TxGNN | 99.53% |
-| Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Acute urate nephropathy |
+| Skor Ramalan TxGNN | 0.9989 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 12) |
 | Keputusan Disyorkan | Hold |
 
 Nota: Indikasi baharu dipilih daripada ramalan berpangkat ketiga kerana dua ramalan teratas (nefropati urat akut dan nefrolitiasis) tidak mempunyai sebarang bukti sokongan. Ramalan berpangkat ketiga ialah yang pertama mempunyai bukti literatur yang bermakna.
@@ -97,7 +97,6 @@ Berikut ialah penerbitan yang paling relevan (tahap bukti dan jenis kajian mengi
 
 ## Maklumat Pasaran di Malaysia
 
-Lactulose tidak dipasarkan di Malaysia dan tiada pendaftaran NPRA dikesan dalam data yang dikumpulkan.
 
 ---
 
@@ -115,7 +114,7 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Terdapat isyarat biologi yang munasabah (pengurangan endotoksemia), tetapi bukti kebanyakannya lama, berskala kecil atau praklinikal. Tiada ujian klinikal berdaftar, dan kesan perlindungan buah pinggang belum ditunjukkan secara muktamad. Ubat ini juga tidak dipasarkan di Malaysia.
+- Terdapat isyarat biologi yang munasabah (pengurangan endotoksemia), tetapi bukti kebanyakannya lama, berskala kecil atau praklinikal. Tiada ujian klinikal berdaftar, dan kesan perlindungan buah pinggang belum ditunjukkan secara muktamad.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Semakan teks penuh, terutamanya kajian rawak 1991 (PMID 2032107), untuk mengesahkan reka bentuk, saiz kesan dan hasil.

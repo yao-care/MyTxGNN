@@ -6,9 +6,9 @@ nav_order: 513
 evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Morphine: indikasi baharu diramal Sindrom sakit miofasial (tahap bukti L4). Indikasi asal: Penyakit cirit-birit (berdasarkan graf pengetahuan TxGNN"
 monitor_inn: "morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
+description: "Morphine: indikasi baharu diramal Sindrom sakit miofasial (myofascial pain syndrome) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Morphine
@@ -33,12 +33,12 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Morfin: Daripada Penyakit Cirit-birit kepada Sindrom Sakit Miofasial
+## Morphine: Sindrom sakit miofasial (myofascial pain syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Morfin ialah agonis reseptor opioid mu yang dikenali sebagai analgesik kuat. Dalam graf pengetahuan TxGNN (PrimeKG), indikasi asalnya ialah **penyakit cirit-birit**.
+Morfin ialah agonis reseptor opioid mu yang dikenali sebagai analgesik kuat. Indikasi asalnya ialah **penyakit cirit-birit**.
 Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom sakit miofasial**, tetapi setakat ini **tiada ujian klinikal** didaftarkan. Hanya **10 penerbitan** dikenal pasti, dan kebanyakannya bersifat tidak langsung.
 
 ---
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom sakit miofasial**, te
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Penyakit cirit-birit (berdasarkan graf pengetahuan TxGNN; tiada teks indikasi berlesen tersedia) |
-| Indikasi Baharu yang Diramalkan | Sindrom sakit miofasial |
-| Skor Ramalan TxGNN | 99.75% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom sakit miofasial (myofascial pain syndrome) |
+| Skor Ramalan TxGNN | 0.9975 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -116,7 +116,7 @@ Teks sisipan pek (package insert) di Malaysia tidak tersedia dalam data yang dik
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Skor TxGNN sangat tinggi (99.75%), tetapi tiada ujian klinikal didaftarkan dan literatur hanya tidak langsung (tahap bukti L4).
+- Skor TxGNN sangat tinggi (0.9975), tetapi tiada ujian klinikal didaftarkan dan literatur hanya tidak langsung (tahap bukti L4).
 - Sindrom sakit miofasial tidak lazimnya responsif terhadap opioid, dan garis panduan tidak menggalakkan penggunaan jangka panjang. Risiko kebergantungan dan interaksi ubat adalah ketara.
 - Morfin tidak berdaftar di Malaysia (0 pendaftaran).
 

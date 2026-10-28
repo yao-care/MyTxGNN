@@ -6,9 +6,9 @@ nav_order: 486
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Mebendazole: indikasi baharu diramal Jerawat (acne) (tahap bukti L5). Indikasi asal: Enterobiasis, askariasis…"
 monitor_inn: "MEBENDAZOLE"
 predicted_indications: ["acne (disease)"]
+description: "Mebendazole: indikasi baharu diramal Jerawat (acne (disease)) (acne (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Mebendazole
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Mebendazol: Daripada Enterobiasis, Askariasis dan Trikuriasis kepada Jerawat (Acne)
+## Mebendazole: Jerawat (acne (disease)) (acne (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan hanya **1 penerbitan** (la
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Enterobiasis, askariasis, trikuriasis (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi lulus daripada pendaftaran tempatan) |
-| Indikasi Baharu yang Diramal | Jerawat (acne) |
-| Skor Ramalan TxGNN | 99.20% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramal | Jerawat (acne (disease)) (acne (disease)) |
+| Skor Ramalan TxGNN | 0.9920 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 13 daripada 13) |
+| Bilangan Pendaftaran | 13 (sah: 13) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -105,7 +105,6 @@ Untuk maklumat amaran dan kontraindikasi lengkap, sila rujuk sisipan pembungkusa
 - Semakan literatur dan kajian praklinikal (contohnya model keratinosit/keradangan kulit)
 - Sisipan pembungkusan daripada NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang penilaian keselamatan)
 - Penilaian keserasian laluan pentadbiran (oral berbanding topikal) untuk jerawat
-- Pertimbangan status pendaftaran dan ketersediaan produk di Malaysia, memandangkan ubat ini tidak dipasarkan
 - Perhatian khusus terhadap pesakit dengan penyakit hati/pundi hempedu dan ubat yang berinteraksi (terutamanya antiepileptik dan ritonavir)
 ## Penafian
 

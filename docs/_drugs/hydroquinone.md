@@ -3,7 +3,7 @@ layout: default
 title: Hydroquinone
 parent: Low Evidence (L4-L5)
 nav_order: 405
-evidence_level: L4
+evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Hydroquinone: indikasi baharu diramal Keratosis seboroik (seborrheic keratosis) (tahap bukti L4). Indikasi asal: Tiada data indikasi lesen yang diluluskan dalam data yang dikumpulkan…"
@@ -14,7 +14,7 @@ predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular kera
 # Hydroquinone
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **4** 
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ tetapi setakat ini hanya terdapat **0 percubaan klinikal** dan **1 penerbitan** 
 |------|------|
 | Indikasi Asal | Tiada data indikasi lesen yang diluluskan dalam data yang dikumpulkan untuk laporan ini |
 | Indikasi Baharu yang Diramalkan | Keratosis seboroik (seborrheic keratosis) |
-| Skor Ramalan TxGNN | 99.73% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9973 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ tetapi setakat ini hanya terdapat **0 percubaan klinikal** dan **1 penerbitan** 
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, hydroquinone diketahui menghalang tirosinase dan mengurangkan sintesis melanin. Secara mekanistik, ini mungkin boleh meringankan hiperpigmentasi pada lesi keratosis seboroik.
 
-Walau bagaimanapun, keratosis seboroik ialah percambahan epidermis yang jinak. Penyahpigmenan lesi tidak merawat sifat hiperkeratotik dan proliferatifnya. Hubungan ini bersifat kosmetik dan tidak langsung. Skor TxGNN yang tinggi (0.997) hanyalah ramalan berkomputer dan tidak disokong oleh data klinikal secara langsung.
+Walau bagaimanapun, keratosis seboroik ialah percambahan epidermis yang jinak. Penyahpigmenan lesi tidak merawat sifat hiperkeratotik dan proliferatifnya. Hubungan ini bersifat kosmetik dan tidak langsung. Skor TxGNN yang tinggi (0.9973) hanyalah ramalan berkomputer dan tidak disokong oleh data klinikal secara langsung.
 
 ---
 

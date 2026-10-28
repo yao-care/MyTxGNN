@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 626
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Ritonavir: indikasi baharu diramal Sindrom imunodefisiensi didapati feline (feline acquired immunodefici… (tahap bukti L5). Indikasi asal: Jangkitan virus hepatitis C kronik, jangkitan HIV, AIDS"
 monitor_inn: "RITONAVIR"
-predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+last_modified_at: 2026-10-23
+description: "Ritonavir: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ritonavir
@@ -33,82 +33,89 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-## Ritonavir: Daripada Jangkitan HIV/AIDS kepada Jangkitan Virus Imunodefisiensi Feline (Feline AIDS)
+## Ritonavir: Simian immunodeficiency virus infection
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Ritonavir ialah perencat protease HIV-1 yang sebelum ini digunakan untuk merawat jangkitan HIV/AIDS dan jangkitan virus hepatitis C kronik, dan turut berfungsi sebagai penggalak farmakokinetik melalui perencatan CYP3A4.
-Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom imunodefisiensi didapati feline** (skor 99.92%), tetapi **tiada percubaan klinikal** dan **tiada literatur** yang menyokong ramalan ini setakat ini.
-Ini ialah indikasi veterinar, jadi kaitannya dengan penggunaan semula ubat untuk manusia adalah terhad.
+Ritonavir ialah perencat protease HIV-1 dan perencat kuat CYP3A4 (penggalak farmakokinetik), dan hubungannya dengan jangkitan HIV, AIDS serta jangkitan virus hepatitis C direkodkan dalam graf pengetahuan TxGNN.
+Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan virus imunodefisiensi simian (SIV)**, tetapi data yang dihimpunkan menunjukkan **0 ujian klinikal** dan hanya **11 penerbitan**, kebanyakannya kajian praklinikal pada primat bukan manusia dan kajian in vitro.
 
----
-
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan virus hepatitis C kronik, jangkitan HIV, AIDS |
-| Indikasi Baharu yang Diramalkan | Sindrom imunodefisiensi didapati feline (feline acquired immunodeficiency syndrome) |
-| Skor Ramalan TxGNN | 99.92% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Simian immunodeficiency virus infection |
+| Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Tahan) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 12) |
+| Bilangan Kelulusan | 12 pendaftaran (2 produk ritonavir tunggal, 10 produk kombinasi) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
----
+*Nota tahap bukti: tiada kajian yang dipetik mengkaji penyakit ramalan ini secara langsung pada manusia, dan tiada ujian klinikal didaftarkan. Kajian primat dan in vitro berkaitan SIV tidak memenuhi syarat untuk tahap L1–L4 mengikut kriteria laporan ini, maka tahap ditetapkan sebagai L5.*
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, ritonavir ialah perencat protease HIV-1 dan perencat CYP3A4 yang digunakan sebagai penggalak farmakokinetik. Keberkesanannya dalam jangkitan HIV telah dibuktikan, dan secara mekanistik ia mungkin boleh digunakan untuk jangkitan lentivirus yang berkaitan.
+Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, ritonavir ialah perencat protease HIV-1 dan juga perencat kuat CYP3A4 yang digunakan sebagai penggalak farmakokinetik. SIV ialah lentivirus berkait rapat dengan HIV dan proteasenya mempunyai persamaan struktur dengan protease HIV-1, maka hubungan mekanistik adalah munasabah.
 
-Virus imunodefisiensi feline (FIV) ialah lentivirus yang berkait dengan HIV, maka sasaran protease secara prinsipnya munasabah. Namun, protease FIV berbeza daripada protease HIV-1 dari segi kekhususan substrat dan kepekaan terhadap perencat, jadi aktiviti ritonavir tidak boleh diandaikan.
+Sokongan yang ada terhad kepada kajian in vitro dan praklinikal. Kajian kerentanan menunjukkan SIVmac239 direncat oleh ritonavir dengan EC50 sekitar 13 nM, berbanding sekitar 25 nM untuk HIV-1 (PMID 12709355). Kajian lain menilai kerentanan HIV-2, SIV dan SHIV terhadap sebatian anti-HIV-1 (PMID 15040537).
 
-Skor TxGNN yang tinggi (0.999) hanyalah ramalan model. Tiada percubaan atau literatur disediakan untuk menyokongnya.
+Perlu diberi perhatian: SIV ialah virus primat bukan manusia yang digunakan sebagai model terjemahan untuk HIV, bukan penyakit manusia. Skor TxGNN yang tinggi berkemungkinan mencerminkan persamaan rapat dengan indikasi HIV sedia ada, dan bukan peluang pemanfaatan semula yang benar-benar baharu.
 
-**Nota tambahan:** Dua ramalan lain turut disenaraikan dalam data yang dikumpulkan, iaitu:
-- **Jangkitan virus imunodefisiensi simian (SIV)** (skor 99.92%, tahap bukti L4): terdapat 10 penerbitan praklinikal, termasuk kajian kerentanan in vitro (PMID 12709355 melaporkan ritonavir merencat SIVmac239 dengan EC50 sekitar 13 nM, berbanding 25 nM untuk HIV-1). Namun, SIV pada makak ialah model haiwan bagi HIV dan bukan indikasi manusia yang berasingan. Ritonavir sudah diluluskan untuk HIV, jadi ini tidak mewakili nilai terapeutik baharu untuk manusia.
-- **Gangguan perkembangan saraf dengan gaya berjalan ataksia, ketiadaan pertuturan dan penurunan jirim putih kortikal** (skor 99.92%, tahap bukti L5): tiada pautan mekanistik yang jelas. Ramalan ini mungkin mencerminkan artifak graf rangkaian dan bukannya kemungkinan biologi.
+## Bukti Ujian Klinikal
 
----
-
-## Bukti Percubaan Klinikal
-
-Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan.
-
----
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-Setakat ini tiada literatur berkaitan yang tersedia untuk indikasi utama yang diramalkan (sindrom imunodefisiensi didapati feline).
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [12709355](https://pubmed.ncbi.nlm.nih.gov/12709355/) | 2003 | In vitro | Antimicrob Agents Chemother | SIVmac239 direncat oleh ritonavir (EC50 sekitar 13 nM), setanding dengan HIV-1 (sekitar 25 nM) |
+| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro | Antivir Ther | Aktiviti 16 ubat diluluskan terhadap HIV-2, SIV dan SHIV dinilai untuk rawatan dan profilaksis pasca pendedahan |
+| [22737073](https://pubmed.ncbi.nlm.nih.gov/22737073/) | 2012 | Praklinikal (model haiwan) | PLoS Pathog | ART berintensiti tinggi mendorong penindasan viral jangka panjang dan mengehadkan reservoir virus dalam model AIDS simian |
+| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Praklinikal (model haiwan) | J Virol | Peluruhan viral pantas pada makak yang dijangkiti SIV dengan terapi antiretroviral empat serangkai |
+| [25033210](https://pubmed.ncbi.nlm.nih.gov/25033210/) | 2014 | Praklinikal (model haiwan) | PLoS One | Kesan cART penindasan dan perencat HDAC SAHA pada makak rhesus China yang dijangkiti SIV |
+| [12951220](https://pubmed.ncbi.nlm.nih.gov/12951220/) | 2003 | Praklinikal (model haiwan) | J Virol Methods | HAART oral (termasuk lopinavir/ritonavir) dan kesannya pada subset CD8 pada monyet dijangkiti SHIV |
+| [34903055](https://pubmed.ncbi.nlm.nih.gov/34903055/) | 2021 | Praklinikal (model haiwan) | mBio | Jangkitan lentivirus berterusan dalam otak walaupun ART berkesan |
+| [17350308](https://pubmed.ncbi.nlm.nih.gov/17350308/) | 2007 | Kajian model | Microbes Infect | SHIV baharu dengan gen protease HIV-1 sebagai alat ujian keberkesanan perencat protease in vivo |
 
----
+## Maklumat Pasaran di Malaysia
+
+Teks indikasi lulus tidak tersedia dalam data lesen. Jumlah pendaftaran ialah 12, semuanya sah. Lesen produk kombinasi tidak boleh digunakan untuk menggambarkan kelulusan ritonavir tunggal; hanya dua produk tunggal disenaraikan sebagai ritonavir.
+
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Jenis |
+|---------|------|------|-----------|
+| MAL13015040ARZ | Norvir Tablet 100mg (AbbVie) | Tidak dinyatakan | Produk tunggal |
+| MAL17085058AZ | RITOVIR (Ritonavir Tablets 100 mg) (Camber Laboratories) | Tidak dinyatakan | Produk tunggal |
+| MAL08031363ARZ | Kaletra Film-Coated Tablet (AbbVie) | Tidak dinyatakan | Kombinasi |
+| MAL22036001ACZ | PAXLOVID (nirmatrelvir dan ritonavir) (Pfizer) | Tidak dinyatakan | Kombinasi |
+| MAL24096007AZ | ATAZOR-R (atazanavir 300mg/ritonavir 100mg) (Medispec) | Tidak dinyatakan | Kombinasi |
 
 ## Pertimbangan Keselamatan
 
-Data yang dikumpulkan untuk laporan ini tidak mengandungi amaran utama atau kontraindikasi daripada sisipan bungkusan. Sila rujuk sisipan bungkusan untuk maklumat keselamatan.
+Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia dalam data yang dihimpunkan. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-Maklumat tambahan daripada sumber lain:
+Maklumat tambahan daripada graf pengetahuan (bukan teks label): hubungan kontraindikasi direkodkan dengan keadaan berikut, antaranya sindrom QT panjang, torsades de pointes, pankreatitis, penyakit hati dan sirosis hati, hiperglisemia dan diabetes, hipertrigliseridemia, penyakit arteri koronari, blok atrioventrikular, kardiomiopati serta hemofilia.
 
-- **Penyakit yang berkaitan dengan kontraindikasi (daripada graf pengetahuan TxGNN/PrimeKG, bukan teks label):** sindrom QT panjang (termasuk jenis keluarga), torsades de pointes, henti jantung mengejut, penyakit konduksi jantung, blok atrioventrikular, kardiomiopati (termasuk hipertrofik), iskemia miokardium, penyakit arteri koronari, pankreatitis, penyakit hati, sirosis hati, penyakit pundi hempedu, hiperglisemia, diabetes mellitus, ketoasidosis diabetik, kekurangan kalium, hipertrigliseridemia, hiperlipidemia gabungan keluarga, hiperbilirubinemia (termasuk sindrom Gilbert), gout, jangkitan virus hepatitis B kronik dan hemofilia.
-- **Interaksi ubat (ditemui 100 interaksi; contoh utama daripada DDInter):**
-  - Tahap **Major**: loperamide, triamcinolone, budesonide
-  - Tahap **Moderate**: acarbose, hydrocortisone, albiglutide, alogliptin, metformin, alosetron, bupropion, aprepitant, dexamethasone, lorcaserin, betamethasone, metronidazole, canagliflozin, chlorpropamide, clarithromycin
+**Interaksi Ubat** (pangkalan data DDInter; 100 interaksi direkodkan, sampel di bawah):
+- **Major**: loperamide, triamcinolone, budesonide
+- **Moderate**: antara lain hidrokortison, deksametason, betametason, metformin, klaritromisin, metronidazol, bupropion, aprepitant, alosetron, kanagliflozin
 
----
+Profil interaksi yang luas, berkait dengan perencatan CYP3A4, memerlukan semakan teliti ubat serentak.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tahan)**
+**Keputusan: Hold (Tangguh)**
 
-**Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur sokongan, dan indikasinya adalah veterinar sehingga nilai untuk penggunaan semula ubat manusia adalah terhad. Ritonavir juga tidak berdaftar di Malaysia.
+**Justifikasi:**
+Tiada ujian klinikal, dan bukti hanya terdiri daripada kajian in vitro dan primat bukan manusia. SIV bukan penyakit manusia, jadi ramalan ini lebih bernilai sebagai model terjemahan untuk HIV (yang sudah menjadi sasaran ritonavir) berbanding peluang pemanfaatan semula yang baharu. Ramalan sedia ada juga memaparkan penyakit veterinar (AIDS feline) dan gangguan neurokembangan genetik yang jarang tanpa hubungan mekanistik atau bukti, jadi tidak wajar diteruskan.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) yang terperinci
-- Sisipan bungkusan NPRA (amaran dan kontraindikasi) untuk menjalankan saringan keselamatan
-- Kajian in vitro atau in vivo yang menunjukkan aktiviti ritonavir terhadap protease FIV
-- Pertimbangan sama ada penilaian ini wajar diteruskan, memandangkan indikasi bersifat veterinar dan ritonavir tidak berdaftar di Malaysia
+**Untuk diteruskan, perlu:**
+- Data mekanisme tindakan terperinci (MOA)
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Penentuan sama ada indikasi ini mempunyai relevan klinikal bagi manusia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

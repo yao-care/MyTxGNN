@@ -8,6 +8,7 @@ nav_order: 302
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Docetaxel Trihydrate
@@ -49,8 +50,8 @@ Docetaxel trihydrate adalah agen antineoplastik jenis taksan yang digunakan seca
 | Indikasi Baru yang Diramal | Tiada — TxGNN tidak mengembalikan ramalan |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | L5 (Tiada ramalan atau kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 5 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan yang Disyorkan | **Pegangan** |
 
 ---

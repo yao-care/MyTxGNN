@@ -8,6 +8,7 @@ nav_order: 106
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Atovaquone
@@ -53,8 +54,8 @@ Disyorkan untuk melengkapkan data dan melaksanakan semula proses ramalan, kemudi
 | Indikasi Baru yang Diprediksi | **Tiada** (`predicted_indications` ialah tatasusunan kosong) |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A (Tiada hasil ramalan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

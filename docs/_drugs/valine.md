@@ -46,10 +46,10 @@ Valine ialah asid amino rantai bercabang (BCAA) yang tidak mempunyai indikasi ya
 |------|------|
 | Indikasi Asal | Tiada data indikasi berdaftar |
 | Indikasi Baharu yang Diramalkan | Kolangitis sklerosis (sclerosing cholangitis) |
-| Skor Ramalan TxGNN | 99.42% |
+| Skor Ramalan TxGNN | 0.9942 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 41 daripada 41) |
+| Bilangan Pendaftaran | 41 (sah: 41) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

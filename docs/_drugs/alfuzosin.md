@@ -6,9 +6,9 @@ nav_order: 42
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Alfuzosin: indikasi baharu diramal Hipertrikosis kongenital universalis jenis Ambras (tahap bukti L5). Indikasi asal: Hiperplasia prostat benigna"
 monitor_inn: "ALFUZOSIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "allergic urticaria", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
+description: "Alfuzosin: indikasi baharu diramal Ambras type hypertrichosis universalis congenita (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Alfuzosin
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Alfuzosin: Daripada Hiperplasia Prostat Benigna kepada Hipertrikosis Kongenital Universalis jenis Ambras
+## Alfuzosin: Ambras type hypertrichosis universalis congenita
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,21 +46,21 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hiperplasia prostat benigna |
-| Indikasi Baharu yang Diramalkan | Hipertrikosis kongenital universalis jenis Ambras |
-| Skor Ramalan TxGNN | 99.99% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Ambras type hypertrichosis universalis congenita |
+| Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
 Data terperinci mengenai mekanisme tindakan asal tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, alfuzosin ialah antagonis reseptor alfa-1 adrenergik, keberkesanannya dalam BPH telah terbukti, tetapi secara mekanistik tiada hubungan yang mantap dengan hipertrikosis kongenital universalis jenis Ambras.
 
-Sindrom Ambras berpunca daripada asas genetik (penyusunan semula kromosom 8q22 / pengawalaturan TRPS1). Tiada mekanisme yang diketahui menghubungkan sekatan alfa-1 dengan asas genetik ini. Skor yang sangat tinggi (0.99999) berkemungkinan mencerminkan kedekatan graf pengetahuan dengan keadaan berkaitan rambut yang lain, dan bukan mekanisme biologi sebenar.
+Sindrom Ambras berpunca daripada asas genetik (penyusunan semula kromosom 8q22 / pengawalaturan TRPS1). Tiada mekanisme yang diketahui menghubungkan sekatan alfa-1 dengan asas genetik ini.
 
-Sebagai konteks, sembilan ramalan lain dalam senarai juga tidak mempunyai bukti klinikal atau literatur. Ramalan hipotrikosis dan hipertrikosis juga bercanggah arah, yang menunjukkan bahawa skor lebih mencerminkan kedekatan graf berbanding biologi. Antara semua ramalan, **urtikaria alergi** (kedudukan ke-7) paling munasabah secara biologi kerana isyarat adrenergik boleh memodulasi tindak balas sel mast dan vaskular, tetapi ia masih bersifat spekulatif dan antihistamin serta omalizumab ialah rawatan piawai.
+Sebagai konteks, sembilan ramalan lain dalam senarai juga tidak mempunyai bukti klinikal atau literatur. Antara semua ramalan, **urtikaria alergi** (kedudukan ke-7) paling munasabah secara biologi kerana isyarat adrenergik boleh memodulasi tindak balas sel mast dan vaskular, tetapi ia masih bersifat spekulatif dan antihistamin serta omalizumab ialah rawatan piawai.
 
 ## Bukti Percubaan Klinikal
 
@@ -72,7 +72,6 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Alfuzosin pada masa ini tidak dipasarkan di Malaysia, dan tiada pendaftaran produk dikesan dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 
@@ -86,7 +85,7 @@ Sila rujuk risalah maklumat produk untuk amaran dan kontraindikasi rasmi.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur, dan tiada mekanisme biologi yang munasabah. Ubat ini juga tidak dipasarkan di Malaysia, dan profil keselamatannya (hipotensi, pemanjangan QT) tidak menyokong penerokaan tanpa asas yang lebih kukuh.
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur, dan tiada mekanisme biologi yang munasabah.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci

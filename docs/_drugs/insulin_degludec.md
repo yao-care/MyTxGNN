@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Insulin Degludec
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 418
-evidence_level: L1
-indication_count: 6
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Insulin Degludec: indikasi baharu diramal Diabetes mellitus jenis 1 (tahap bukti L1). Indikasi asal: Diabetes mellitus"
 monitor_inn: "INSULIN DEGLUDEC"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome"]
+description: "Insulin Degludec: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Insulin Degludec
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **6** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **6**
 
 </div>
 
-## Insulin Degludec: Daripada Diabetes Mellitus kepada Diabetes Mellitus Jenis 1
+## Insulin Degludec: Autoimmune oophoritis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Perlu diperhatikan bahawa ini lebih merupakan penggunaan dalam label (on-label) 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Diabetes mellitus; ketoasidosis diabetes (daripada graf pengetahuan TxGNN) |
-| Indikasi Baharu yang Diramalkan | Diabetes mellitus jenis 1 |
-| Skor Ramalan TxGNN | 99.44% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikumpulkan) |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Autoimmune oophoritis |
+| Skor Ramalan TxGNN | 0.9923 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
@@ -62,9 +62,9 @@ Perlu diperhatikan bahawa ini lebih merupakan penggunaan dalam label (on-label) 
 
 Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, insulin degludec ialah insulin basal analog yang mengikat reseptor insulin dan menurunkan paras glukosa darah. Keberkesanannya dalam diabetes mellitus telah terbukti, dan secara mekanistik ia sesuai untuk diabetes jenis 1.
 
-Diabetes jenis 1 ialah keadaan kekurangan insulin. Oleh itu, penggunaan insulin degludec di sini ialah penggunaan farmakologi teras ubat tersebut, bukan penggunaan semula yang sebenar. Skor TxGNN yang tinggi (0.994) selaras dengan hal ini, dan indikasi ini pada dasarnya sudah dilindungi oleh label asal "diabetes mellitus".
+Diabetes jenis 1 ialah keadaan kekurangan insulin. Oleh itu, penggunaan insulin degludec di sini ialah penggunaan farmakologi teras ubat tersebut, bukan penggunaan semula yang sebenar.
 
-Satu perkara perlu disemak: data yang dikumpulkan menyenaraikan status pasaran sebagai "Tidak dipasarkan" di Malaysia, sedangkan degludec diluluskan dan dipasarkan di banyak wilayah lain. Maklumat ini perlu disahkan berdasarkan rekod pengawalseliaan semasa.
+Maklumat ini perlu disahkan berdasarkan rekod pengawalseliaan semasa.
 
 ---
 
@@ -106,7 +106,7 @@ Sebanyak 40 percubaan klinikal disenaraikan dalam data. Berikut ialah 10 yang pa
 
 ## Pengambilan Ramalan Lain
 
-Lima ramalan lain (autoimmune oophoritis, opsismodysplasia, sindrom disfungsi responsif tiamin, sindrom anggota kaku fokal, dan sindrom orang kaku klasik) tidak mempunyai percubaan klinikal atau literatur. Tahap buktinya L5 dan keputusannya **Hold**. Kebanyakan pautan ini kemungkinan besar datang daripada perkaitan graf (contohnya autoimuniti GAD atau diabetes sebagai komorbiditi), bukan mekanisme langsung.
+Lima ramalan lain (autoimmune oophoritis, opsismodysplasia, sindrom disfungsi responsif tiamin, sindrom anggota kaku fokal, dan sindrom orang kaku klasik) tidak mempunyai percubaan klinikal atau literatur. Tahap buktinya L5 dan keputusannya **Hold**.
 
 ---
 
@@ -128,7 +128,6 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Terdapat beberapa RCT Fasa 3 yang selesai dalam T1D, termasuk SWITCH 1, dengan degludec sebagai ubat kajian atau pembanding, menyokong tahap bukti L1. Namun indikasi ini sudah dilindungi oleh label diabetes mellitus yang asal, jadi ia bukan penggunaan semula yang sebenar.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sahkan status pendaftaran dan pemasaran sebenar di Malaysia, kerana data menunjukkan "Tidak dipasarkan" dan tiada pendaftaran
 - Dapatkan sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat saringan keselamatan)
 - Dapatkan data mekanisme tindakan terperinci daripada DrugBank
 - Semak relevansi bukti, kerana banyak percubaan menggunakan degludec sebagai terapi latar atau pembanding sahaja

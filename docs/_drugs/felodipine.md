@@ -4,17 +4,17 @@ title: Felodipine
 parent: Low Evidence (L4-L5)
 nav_order: 352
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Felodipine: indikasi baharu diramal Pulmonary hypertension dengan mekanisme pelbagai faktor yang tidak je… (tahap bukti L5). Indikasi asal: Hypertensive disorder / hipertensi"
 monitor_inn: "FELODIPINE"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
+description: "Felodipine: indikasi baharu diramal Pulmonary hypertension with unclear multifactorial mechanism (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Felodipine
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **7** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-## Felodipine: Daripada Hipertensi kepada Pulmonary Hypertension (Mekanisme Pelbagai Faktor yang Tidak Jelas)
+## Felodipine: Pulmonary hypertension with unclear multifactorial mechanism
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Antara semua indikasi yang diramalkan, bukti yang paling kukuh ialah untuk **Pri
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hypertensive disorder / hipertensi |
-| Indikasi Baharu yang Diramalkan | Pulmonary hypertension dengan mekanisme pelbagai faktor yang tidak jelas |
-| Skor Ramalan TxGNN | 99.91% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Pulmonary hypertension with unclear multifactorial mechanism |
+| Skor Ramalan TxGNN | 0.9991 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -68,12 +68,11 @@ Namun, rasional ini bersifat munasabah tetapi tidak disokong bukti. Penyekat sal
 
 | Kedudukan | Indikasi | Skor TxGNN | Tahap Bukti | Cadangan |
 |------|------|------|------|------|
-| 2 | Pulmonary hypertension akibat penyakit paru-paru dan/atau hipoksia | 99.91% | L4 | Hold |
-| 3 | Penyakit buah pinggang hipertensi malignan | 99.90% | L5 | Hold |
-| 4 | Hipertensi renovaskular malignan | 99.90% | L5 | Hold |
-| 5 | Sindrom Braddock | 99.88% | L5 | Hold |
-| 6 | Penyakit jantung pulmonari kronik | 99.19% | L4 | Hold |
-| 7 | Prinzmetal angina | 99.07% | L2 | Research Question |
+| 2 | Pulmonary hypertension akibat penyakit paru-paru dan/atau hipoksia | 0.9991 | L5 | Hold |
+| 3 | Penyakit buah pinggang hipertensi malignan | 0.9990 | L5 | Hold |
+| 4 | Hipertensi renovaskular malignan | 0.9990 | L5 | Hold |
+| 5 | Sindrom Braddock | 0.9988 | L5 | Hold |
+| 6 | Penyakit jantung pulmonari kronik | 0.9919 | L4 | Hold |
 
 Nota: indikasi kedudukan 3 dan 4 sebahagian besarnya hanya lanjutan daripada indikasi hipertensi asal, bukan isyarat repurposing yang baharu. Bagi sindrom Braddock, tiada hubungan mekanisme yang jelas dikenal pasti.
 
@@ -119,7 +118,6 @@ Sila rujuk risalah pek untuk maklumat amaran dan kontraindikasi rasmi.
 **Keputusan: Hold**
 
 **Rasional:**
-- Indikasi yang diramalkan (pulmonary hypertension dengan mekanisme pelbagai faktor yang tidak jelas) hanya disokong oleh ramalan model (L5) tanpa percubaan klinikal atau literatur, dan felodipine tidak dipasarkan di Malaysia.
 - Jika ingin meneruskan, Prinzmetal angina (L2, Research Question) ialah arah yang lebih berbaloi diutamakan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

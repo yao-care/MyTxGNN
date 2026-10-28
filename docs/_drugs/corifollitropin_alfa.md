@@ -4,17 +4,17 @@ title: Corifollitropin Alfa
 parent: Low Evidence (L4-L5)
 nav_order: 242
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Corifollitropin Alfa: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Tiada data indikasi yang diluluskan daripada data tempatan yang dikum…"
 monitor_inn: "CORIFOLLITROPIN ALFA"
-predicted_indications: ["gastroduodenitis", "migraine disorder", "peptic ulcer disease", "migraine with brainstem aura", "Raynaud disease", "pulmonary hypertension", "kyphoscoliotic heart disease", "migraine with or without aura, susceptibility to"]
+predicted_indications: ["gastroduodenitis", "migraine disorder", "peptic ulcer disease", "migraine with brainstem aura", "Raynaud disease", "pulmonary hypertension", "kyphoscoliotic heart disease"]
+description: "Corifollitropin Alfa: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Corifollitropin Alfa
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **8** 
+Tahap bukti: **L5** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-## Corifollitropin Alfa: Daripada Indikasi Asal (Tiada Data) kepada Gastroduodenitis
+## Corifollitropin Alfa: Gastroduodenitis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,12 +46,12 @@ Corifollitropin alfa ialah analog FSH (hormon perangsang folikel) rekombinan ber
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi yang diluluskan daripada data tempatan yang dikumpulkan |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Gastroduodenitis |
-| Skor Ramalan TxGNN | 99.65% |
+| Skor Ramalan TxGNN | 0.9965 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -70,14 +70,13 @@ Ramalan lain dalam senarai (migrain, penyakit ulser peptik, migrain dengan aura 
 
 | Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Cadangan |
 |------|------|------|------|------|
-| 1 | Gastroduodenitis | 99.65% | L5 | Hold |
-| 2 | Migrain | 99.63% | L5 | Hold |
-| 3 | Penyakit ulser peptik | 99.61% | L5 | Hold |
-| 4 | Migrain dengan aura batang otak | 99.59% | L5 | Hold |
-| 5 | Penyakit Raynaud | 99.59% | L5 | Hold |
-| 6 | Hipertensi pulmonari | 99.44% | L5 | Hold |
-| 7 | Penyakit jantung kifoskoliotik | 99.36% | L5 | Hold |
-| 8 | Kecenderungan migrain dengan/tanpa aura | 99.11% | L5 | Hold |
+| 1 | Gastroduodenitis | 0.9965 | L5 | Hold |
+| 2 | Migrain | 0.9963 | L5 | Hold |
+| 3 | Penyakit ulser peptik | 0.9961 | L5 | Hold |
+| 4 | Migrain dengan aura batang otak | 0.9959 | L5 | Hold |
+| 5 | Penyakit Raynaud | 0.9959 | L5 | Hold |
+| 6 | Hipertensi pulmonari | 0.9944 | L5 | Hold |
+| 7 | Penyakit jantung kifoskoliotik | 0.9936 | L5 | Hold |
 
 ---
 
@@ -98,7 +97,7 @@ Buat masa ini tiada literatur berkaitan yang tersedia.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5), tanpa ujian klinikal, tanpa literatur, dan tanpa pautan mekanistik yang munasabah antara agonisme reseptor FSH dengan penyakit gastroduodenum. Ubat ini juga tidak dipasarkan di Malaysia.
+- Ramalan ini hanya berasaskan model (L5), tanpa ujian klinikal, tanpa literatur, dan tanpa pautan mekanistik yang munasabah antara agonisme reseptor FSH dengan penyakit gastroduodenum.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat selitan pek (peringatan dan kontraindikasi) daripada NPRA, yang kini menjadi kekurangan data berstatus penghalang bagi saringan keselamatan.

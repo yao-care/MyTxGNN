@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Indomethacin
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 416
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Indomethacin: indikasi baharu diramal Artritis reumatoid (tahap bukti L3). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "Indomethacin"
-predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia"]
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
+last_modified_at: 2026-10-23
+description: "Indomethacin: indikasi baharu diramal Brachydactyly-syndactyly syndrome (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Indomethacin
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-## Indomethacin: Daripada Indikasi Asal (Tidak Direkodkan) kepada Artritis Reumatoid
+## Indomethacin: Brachydactyly-syndactyly syndrome
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Indomethacin ialah ubat anti-radang bukan steroid (NSAID) yang menghalang enzim COX-1/COX-2. Data yang dikumpulkan untuk laporan ini tidak merekodkan indikasi asal yang berdaftar di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **artritis reumatoid** (skor 99.98%), tetapi **tiada ujian klinikal berdaftar** dan hanya **20 penerbitan** yang menyokong arah ini, kebanyakannya laporan klinikal lama dan ulasan.
-Perlu diingat bahawa artritis reumatoid sebenarnya ialah penggunaan NSAID yang sudah lama diterima, jadi ini bukan pengitar semula ubat yang benar-benar baharu.
+Indomethacin ialah ubat anti-radang bukan steroid (NSAID) yang merencat enzim COX dan telah didaftarkan di Malaysia dalam bentuk kapsul.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom brakidaktili-sindaktili**, iaitu sindrom malformasi rangka yang jarang berlaku dan berpunca daripada genetik.
+Setakat ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang mengkaji penyakit ini secara langsung. Ramalan ini hanya bergantung pada skor model.
 
 ---
 
@@ -48,96 +48,72 @@ Perlu diingat bahawa artritis reumatoid sebenarnya ialah penggunaan NSAID yang s
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
-| Indikasi Baharu yang Diramal | Artritis reumatoid |
-| Skor Ramalan TxGNN | 99.98% |
-| Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Brachydactyly-syndactyly syndrome |
+| Skor Ramalan TxGNN | 0.9997 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Indomethacin ialah perencat COX-1/COX-2 tidak selektif yang mengurangkan sintesis prostaglandin. Prostaglandin mendorong keradangan, kesakitan dan bengkak dalam artritis reumatoid. Mekanisme ini koheren dari segi biologi.
+Indomethacin merencat COX-1 dan COX-2, lalu mengurangkan sintesis prostaglandin. Kesan ini menjelaskan kegunaannya untuk keradangan, kesakitan dan demam. Data terperinci tentang mekanisme tindakan daripada pangkalan data ubat tidak tersedia buat masa ini, jadi huraian ini berdasarkan sifat farmakologi am bagi kelas NSAID.
 
-Data mekanisme tindakan terperinci (MOA) daripada pangkalan data ubat tidak tersedia pada masa ini. Berdasarkan maklumat sedia ada, indomethacin tergolong dalam kelas NSAID yang lama digunakan secara klinikal untuk melegakan gejala artritis reumatoid. Namun, ia hanya melegakan gejala dan tidak mengubah perjalanan penyakit.
-
-Terdapat ketidakselarasan data: metadata menyatakan ubat ini tidak dipasarkan dan tanpa indikasi asal, sedangkan literatur menunjukkan penggunaan klinikal yang lama. Ini kekurangan data dan bukan bukti bahawa ubat ini tidak pernah digunakan.
+Sindrom brakidaktili-sindaktili ialah gangguan perkembangan anggota badan yang berpunca daripada genetik. Penilaian mekanistik yang disusun untuk laporan ini **tidak menemui sebarang pautan mekanistik**. Perencatan prostaglandin tidak dijangka dapat membetulkan kecacatan perkembangan asas penyakit ini. Skor itu sahaja tidak mencukupi untuk menyokong kerja lanjut.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk artritis reumatoid.
+Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [3365530](https://pubmed.ncbi.nlm.nih.gov/3365530/) | 1988 | RCT | Br J Rheumatol | Indomethacin dos rendah (50 mg/hari) + parasetamol dibandingkan dengan indomethacin dos tinggi (150 mg/hari) pada 17 pesakit; kajian silang buta-ganda |
-| [2004546](https://pubmed.ncbi.nlm.nih.gov/2004546/) | 1991 | Kajian perbandingan buta-ganda | Curr Med Res Opin | Acemetacin berbanding indomethacin pada 173 pesakit selama 6 minggu; kedua-duanya memperbaik gejala dengan ketara |
-| [343743](https://pubmed.ncbi.nlm.nih.gov/343743/) | 1978 | Kajian silang buta-ganda | Arch Intern Med | Naproxen berbanding indomethacin pada 132 pesakit; petunjuk aktiviti artritis hampir sama |
-| [6342784](https://pubmed.ncbi.nlm.nih.gov/6342784/) | 1983 | Kajian silang buta-ganda | Clin Ther | Fenbufen berbanding indomethacin pada 30 pesakit; keberkesanan setara |
-| [6380897](https://pubmed.ncbi.nlm.nih.gov/6380897/) | 1984 | Kajian silang buta-ganda | Clin Rheumatol | Supositori diclofenac berbanding indomethacin pada 30 pesakit |
-| [7004474](https://pubmed.ncbi.nlm.nih.gov/7004474/) | 1980 | Kajian silang buta-ganda | Br J Clin Pharmacol | Dos oral berbanding dubur indomethacin 100 mg pada waktu malam pada 13 pesakit; penambahbaikan ketara berbanding plasebo |
-| [7128192](https://pubmed.ncbi.nlm.nih.gov/7128192/) | 1982 | Percubaan silang rawak | Curr Med Res Opin | Indomethacin 100 mg waktu malam berbanding plasebo pada 14 pesakit |
-| [375848](https://pubmed.ncbi.nlm.nih.gov/375848/) | 1979 | Kajian klinikal | Ann Rheum Dis | Kesan klinikal, farmakokinetik dan platelet pada 20 pesakit, responder berbanding bukan responder |
-| [35282742](https://pubmed.ncbi.nlm.nih.gov/35282742/) | 2022 | Praklinikal | J Drug Target | Nanoubat indomethacin dimuatkan nanopartikel Prussian blue digabungkan dengan terapi fototermal |
-| [34328101](https://pubmed.ncbi.nlm.nih.gov/34328101/) | 2021 | Ulasan | Biomed Pharmacother | Ulasan pembawa nano topikal untuk artritis reumatoid, termasuk NSAID seperti indomethacin |
+Buat masa ini tiada literatur berkaitan yang tersedia untuk penyakit ini.
+
+> **Nota:** Ramalan peringkat lebih rendah dalam senarai yang sama, seperti artritis idiopatik juvenil (kedudukan 8), mempunyai literatur lama. Literatur itu terdiri daripada ulasan, kajian farmakokinetik dan satu ujian buta ganda pada tahun 1978. Ia tidak berkaitan dengan penyakit dalam laporan ini dan tidak boleh dijadikan bukti untuknya.
 
 ---
 
 ## Maklumat Pasaran di Malaysia
 
-Data yang dikumpulkan menunjukkan tiada lesen berdaftar untuk indomethacin di Malaysia. Maklumat ini mungkin tidak lengkap dan perlu disahkan semula dengan pangkalan data NPRA.
+| Nombor Kebenaran | Nama Produk | Pengeluar |
+|---------|------|------|
+| MAL19940036AZ | INDOMEN CAPSULE | Y.S.P. Industries (M) Sdn. Bhd. |
+| MAL20142425AEZ | HOVID INDOMETHACIN CAPSULE 25MG | Hovid Berhad |
+| MAL19910015AZ | INDECIN CAPSULE 25MG | Dynapharm (M) Sdn. Bhd. |
+
+Ketiga-tiga produk ialah bahan tunggal dan berstatus sah. Teks indikasi yang diluluskan tidak disertakan dalam rekod lesen yang dikumpulkan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan. Antara yang utama (tahap sederhana):
-  - Kortikosteroid: hidrokortison, deksametason, betametason, budesonid, triamsinolon
-  - Asid asetilsalisilik
-  - Metformin
-  - Sulfonilurea: glimepirid, klorpropamid
-  - Mesalazin dan balsalazid
-  - Aprepitant
-  - Kalium sitrat dan kalium bikarbonat
-  - Pembersih usus: asid pikosulfurik dan polietilena glikol
-  - Interaksi minor: famotidin, ranitidin, simetidin, linaklotid
+- **Interaksi Ubat**: Pertanyaan interaksi telah dilengkapkan dan menemui **100 interaksi** secara keseluruhan. Antara yang disenaraikan:
+  - **Tahap Sederhana**: hidrokortison, deksametason, betametason, triamsinolon, budesonid (kortikosteroid); metformin, glimepirid, klorpropamid (ubat diabetes); asid asetilsalisilik; mesalazin, balsalazid; aprepitant; kalium sitrat, kalium bikarbonat; asid pikosulfurik; polietilena glikol.
+  - **Tahap Minor**: famotidin, ranitidin, simetidin, linaklotid.
 
-Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej. Sebagai maklumat umum bagi NSAID sistemik, risiko gastrousus, kardiovaskular dan renal perlu dipertimbangkan, terutamanya pada pesakit warga emas.
+Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia dalam data yang dikumpulkan. Sila rujuk sisipan pakej produk untuk maklumat keselamatan yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
-**Justifikasi:**
-- Bukti terhad kepada literatur (L3) tanpa ujian klinikal berdaftar, dan kebanyakannya kajian lama. Artritis reumatoid ialah indikasi NSAID yang sudah mantap, jadi nilai pengitar semula baharu adalah rendah.
-- Data keselamatan sisipan pakej tidak tersedia (jurang data berstatus penghalang), maka saringan keselamatan belum dapat diteruskan.
+**Rasional:**
+- Tiada percubaan klinikal atau literatur yang mengkaji penyakit ini secara langsung, dan tiada pautan mekanistik yang munasabah. Skor TxGNN yang tinggi tidak mencukupi untuk meneruskan kerja, jadi tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi
-- Data mekanisme tindakan (MOA) daripada DrugBank
-- Pengesahan status pendaftaran dan indikasi asal di Malaysia
-- Semakan sistematik literatur yang lebih baharu, serta pertimbangan formulasi topikal bagi mengurangkan risiko sistemik
-
----
-
-## Lampiran: Calon Indikasi Lain yang Diramal
-
-| Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Ulasan |
-|------|------|------|------|------|
-| 2 | Kerentanan osteoartritis | 99.97% | L4 | Label kerentanan genetik, bukan keadaan boleh dirawat; bukti tidak langsung. Lebih sesuai dipetakan kepada osteoartritis |
-| 5 | Osteoartritis | 99.91% | L3 | Mekanisme COX munasabah; terdapat kajian perbandingan NSAID dan penilaian tampalan indomethacin. Satu ujian berdaftar (NCT01638962) hanya berkaitan secara tangen. Formulasi topikal mungkin lebih selamat. Status: Research Question |
-| 8 | Kerentanan spondiloartropati | 99.88% | L5 | NSAID digunakan dalam spondiloartritis, tetapi tiada bukti dalam data ini; semakan perlu dialihkan kepada spondilitis ankilosis atau spondiloartritis aksial |
-| 3, 4, 6, 7, 9, 10 | Sindrom brakidaktili-sindaktili, sindrom mikroftalmia-displasia rizomelik berkolobomata, displasia akromesomelik jenis Hunter-Thompson, sindrom WHIM, sindrom brakiolmia-amelogenesis imperfekta, brakiolmia | 99.87%–99.97% | L5 | Penyakit genetik/perkembangan yang jarang berlaku; tiada hubungan mekanisme yang munasabah dan tiada bukti. Skor tinggi hanyalah ramalan model |
+- Bukti prapklinikal atau mekanistik yang menunjukkan perencatan COX relevan kepada patologi penyakit ini.
+- Muat turun dan huraian sisipan pakej daripada NPRA untuk amaran, kontraindikasi dan indikasi yang diluluskan.
+- Data mekanisme tindakan yang terperinci daripada pangkalan data ubat.
+- Pertimbangan semula keutamaan: ramalan lain dalam senarai yang sama, terutamanya artritis idiopatik juvenil, mempunyai asas biologi yang lebih munasabah. Namun ia ialah penggunaan NSAID yang sudah lama dikenali dan bukan isyarat penggunaan semula yang baharu.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

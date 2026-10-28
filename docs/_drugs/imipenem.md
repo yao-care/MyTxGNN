@@ -6,9 +6,9 @@ nav_order: 412
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Imipenem: indikasi baharu diramal Skleroderma meresap (diffuse scleroderma) (tahap bukti L5). Indikasi asal: Jangkitan bakteria (radang paru-paru bakteria, peritonitis…"
 monitor_inn: "Imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "staphylococcus aureus infection", "eosinophilia-myalgia syndrome"]
+description: "Imipenem: indikasi baharu diramal Skleroderma meresap (diffuse scleroderma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Imipenem
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Imipenem: Daripada Jangkitan Bakteria kepada Skleroderma Meresap (Diffuse Scleroderma)
+## Imipenem: Skleroderma meresap (diffuse scleroderma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Imipenem ialah antibiotik karbapenem yang pada asalnya digunakan untuk merawat jangkitan bakteria seperti radang paru-paru bakteria, peritonitis, endokarditis dan artritis bakteria.
-Model TxGNN meramalkan ia mungkin berkesan untuk **skleroderma meresap**, tetapi setakat ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model graf.
+Model TxGNN (deep learning) meramalkan ia mungkin berkesan untuk **skleroderma meresap**, tetapi setakat ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini. Skor ini datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
 ---
 
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **skleroderma meresap**, tetapi
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan bakteria (radang paru-paru bakteria, peritonitis, endokarditis, artritis bakteria, endometritis dan lain-lain) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Skleroderma meresap (diffuse scleroderma) |
-| Skor Ramalan TxGNN | 99.99% |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **skleroderma meresap**, tetapi
 
 Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, imipenem tergolong dalam kelas karbapenem, iaitu antibakteria yang merencat sintesis dinding sel bakteria melalui protein pengikat penisilin (PBP). Keberkesanannya dalam jangkitan bakteria yang teruk telah mantap.
 
-Skleroderma meresap ialah penyakit autoimun yang menyebabkan fibrosis, dan bukan jangkitan bakteria. Tiada rasional mekanistik yang jelas menghubungkan perencatan sintesis dinding sel bakteria dengan patogenesis penyakit ini. Skor yang tinggi kemungkinan besar hanyalah hasil ramalan berasaskan graf pengetahuan dan bukan petunjuk keberkesanan sebenar.
+Skleroderma meresap ialah penyakit autoimun yang menyebabkan fibrosis, dan bukan jangkitan bakteria. Tiada rasional mekanistik yang jelas menghubungkan perencatan sintesis dinding sel bakteria dengan patogenesis penyakit ini. Skor yang tinggi (0.9999) datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan petunjuk keberkesanan sebenar atau bukti biologi.
 
 Oleh itu, ramalan ini perlu dianggap sebagai hipotesis awal yang lemah, bukan calon pengalihan guna yang disokong bukti.
 
@@ -98,7 +98,6 @@ Data tambahan yang ada:
 
 **Justifikasi:**
 - Tiada ujian klinikal atau literatur menyokong indikasi skleroderma meresap, dan tiada rasional mekanistik yang jelas. Bukti hanya pada tahap L5 (ramalan model sahaja).
-- Imipenem juga tidak dipasarkan di Malaysia, dan data keselamatan daripada sisipan pakej belum diperoleh.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Memuat turun dan menghurai sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat).

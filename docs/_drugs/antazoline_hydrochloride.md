@@ -8,6 +8,7 @@ nav_order: 82
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Antazoline Hydrochloride
@@ -51,8 +52,8 @@ Tanpa skor ramalan atau petunjuk calon, penilaian ini terhad kepada penilaian ke
 | Indikasi Baru yang Diramal | Tiada — TxGNN tidak mengembalikan sebarang calon |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | Tidak mencukupi — tiada ramalan dihasilkan |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 1 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

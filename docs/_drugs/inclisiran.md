@@ -4,17 +4,17 @@ title: Inclisiran
 parent: Low Evidence (L4-L5)
 nav_order: 414
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Inclisiran: indikasi baharu diramal Kekurangan kalium (potassium deficiency disease) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar tempatan (secara umum digunakan untuk m…"
 monitor_inn: "Inclisiran"
-predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
+predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
+description: "Inclisiran: indikasi baharu diramal Kekurangan kalium (potassium deficiency disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Inclisiran
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Inclisiran: Daripada Pengurangan Kolesterol LDL kepada Kekurangan Kalium (Potassium Deficiency Disease)
+## Inclisiran: Kekurangan kalium (potassium deficiency disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ namun ramalan ini berada pada **Tahap Bukti L5** dengan **0 ujian klinikal** dan
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar tempatan (secara umum digunakan untuk menurunkan LDL-C) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Kekurangan kalium (potassium deficiency disease) |
-| Skor Ramalan TxGNN | 99.93% |
+| Skor Ramalan TxGNN | 0.9993 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -62,7 +62,7 @@ namun ramalan ini berada pada **Tahap Bukti L5** dengan **0 ujian klinikal** dan
 
 Inclisiran ialah siRNA yang menyasarkan mRNA PCSK9 dalam hepatosit bagi menurunkan LDL-C. Data terperinci mengenai mekanisme tindakan daripada pangkalan data tidak tersedia, tetapi mekanisme am di atas diperoleh daripada analisis rasional yang disertakan dalam data.
 
-Tiada kaitan mekanistik yang diketahui antara penyenyapan PCSK9 dan homeostasis kalium. Skor TxGNN yang tinggi merupakan ramalan berasaskan graf sahaja dan tiada sokongan biologi atau klinikal dalam data yang dikumpulkan. Oleh itu, ramalan ini perlu dianggap sebagai hipotesis yang sangat awal dan spekulatif.
+Tiada kaitan mekanistik yang diketahui antara penyenyapan PCSK9 dan homeostasis kalium. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Tiada sokongan biologi atau klinikal dalam data yang dikumpulkan. Oleh itu, ramalan ini perlu dianggap sebagai hipotesis yang sangat awal dan spekulatif.
 
 Ramalan lain dalam kedudukan teratas (contohnya penyakit esofagus, migrain, koarktasio aorta, penyakit Raynaud) juga tidak mempunyai kaitan mekanistik yang jelas dengan penyenyapan PCSK9 dan semuanya berada pada Tahap L5, kecuali "aortic malformation" yang dinilai sebagai L4 tetapi berdasarkan padanan ujian yang tidak langsung.
 
@@ -84,7 +84,6 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Inclisiran pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar dalam data yang dikumpulkan.
 
 ---
 

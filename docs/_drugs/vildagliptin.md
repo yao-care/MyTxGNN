@@ -4,17 +4,17 @@ title: Vildagliptin
 parent: Low Evidence (L4-L5)
 nav_order: 723
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Vildagliptin: indikasi baharu diramal Sindrom anggota kaku fokal (focal stiff limb syndrome) (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2"
+indication_count: 9
 monitor_inn: "VILDAGLIPTIN"
-predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
+predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
+last_modified_at: 2026-10-23
+description: "Vildagliptin: indikasi baharu diramal Sindrom orang kaku klasik (classic stiff person syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Vildagliptin
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,69 +33,75 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Vildagliptin: Daripada Diabetes Mellitus Jenis 2 kepada Sindrom Anggota Kaku Fokal (Focal Stiff Limb Syndrome)
+## Vildagliptin: Sindrom orang kaku klasik (classic stiff person syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Vildagliptin ialah perencat dipeptidyl peptidase-4 (DPP-4) yang pada asalnya digunakan untuk merawat diabetes mellitus jenis 2.
-Model TxGNN meramalkan ubat ini mungkin berkesan untuk **sindrom anggota kaku fokal**,
-tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom orang kaku klasik (classic stiff person syndrome)**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang mengkaji penyakit ini secara langsung. Ramalan ini hanya berasaskan model.
 
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Diabetes mellitus jenis 2 |
-| Indikasi Baharu yang Diramalkan | Sindrom anggota kaku fokal (focal stiff limb syndrome) |
-| Skor Ramalan TxGNN | 99.88% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom orang kaku klasik (classic stiff person syndrome) |
+| Skor Ramalan TxGNN | 0.9988 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
----
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 12) |
+| Keputusan yang Disyorkan | Hold (Tunggu) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) daripada DrugBank tidak tersedia buat masa ini. Data yang dikumpulkan menunjukkan vildagliptin menyasarkan DPP-4, dan turut dikaitkan dengan DPP-8, DPP-9 serta TRPV4. Dengan merencat DPP-4, ubat ini mengekalkan hormon incretin (GLP-1 dan GIP), yang membantu fungsi sel beta dan alfa pankreas serta mengurangkan rembesan glukagon yang tidak sepatutnya dalam diabetes jenis 2.
+Data terperinci mengenai mekanisme tindakan asal tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, vildagliptin ialah perencat DPP-4 yang meningkatkan paras incretin (GLP-1, GIP) dan menambah baik rembesan insulin serta menekan glukagon dalam diabetes jenis 2. Data farmakologi yang dikumpulkan turut menunjukkan sasarannya termasuk DPP4, DPP8, DPP9 dan TRPV4.
 
-Tiada hubungan mekanistik yang disokong oleh data antara perencatan DPP-4 dengan sindrom anggota kaku fokal. Sindrom ini berkaitan dengan patologi GABAergik atau autoimun, dan tiada data tentang vildagliptin dalam bidang tersebut. Skor TxGNN yang tinggi (99.88%) kemungkinan besar mencerminkan kejiranan graf penyakit yang dikongsi dengan sindrom orang kaku klasik, yang mendapat skor yang sama. Ia bukan bukti bahawa ubat ini berkesan.
+Sindrom orang kaku ialah gangguan autoimun yang melibatkan neurotransmisi GABAergik (biasanya antibodi anti-GAD65). Tiada hubungan mekanistik disokong oleh data yang dikumpulkan. Satu-satunya kaitan yang boleh dibayangkan ialah pertindihan dengan autoimuniti GAD65 dalam diabetes autoimun, tetapi ini bersifat spekulatif dan tidak dibuktikan. Skor yang tinggi (0.9988) ialah ramalan model sahaja.
 
----
+Ramalan untuk "focal stiff limb syndrome" mempunyai skor yang sama, yang menunjukkan kedua-dua ramalan ini tidak bebas antara satu sama lain.
 
 ## Bukti Percubaan Klinikal
 
 Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
----
-
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia.
+Pada masa ini tiada literatur berkaitan.
 
----
+## Maklumat Pasaran di Malaysia
+
+Teks indikasi yang diluluskan tidak tersedia dalam rekod lesen. Hanya lesen produk ramuan tunggal disenaraikan di bawah (5 daripada 7 lesen ramuan tunggal yang sah). Lima lesen lain ialah produk kombinasi dan tidak digunakan untuk menerangkan kelulusan vildagliptin tunggal.
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Pengilang |
+|---------|------|------|-----------|
+| MAL20081792ARZ | GALVUS 50 MG TABLETS | Tablet | Novartis Corporation (Malaysia) Sdn. Bhd. |
+| MAL22116027AZ | VILDACORD (Vildagliptin Tablets 50 mg) | Tablet | Accord Healthcare Sdn. Bhd. |
+| MAL23036023AZ | Alvilda 50mg Tablets | Tablet | Lotus Healthcare Malaysia Sdn. Bhd. |
+| MAL23086014AZ | SUCRALO (Vildagliptin Tablets 50 mg) | Tablet | Ranbaxy (Malaysia) Sdn. Bhd. |
+| MAL24116016AZ | Glypvilo 50 mg tablets | Tablet | Pahang Pharmacy Sdn. Bhd. |
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisip bungkusan untuk maklumat keselamatan. Maklumat amaran utama dan kontraindikasi daripada label tempatan belum diperoleh.
+- **Interaksi Ubat**: Pertanyaan selesai, tetapi hanya empat rekod farmakologi sasaran ditemui (TRPV4, DPP4, DPP8, DPP9). Ini ialah sasaran molekul, bukan interaksi ubat-ubat yang disahkan secara klinikal.
+- **Isyarat keselamatan daripada literatur**: Satu laporan kes (2026) menerangkan pankreatitis akut yang mungkin berkaitan vildagliptin pada pesakit diabetes jenis 2. Hubungan antara perencat DPP-4 dengan pankreatitis masih dipertikaikan.
 
----
+Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang lengkap.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tunggu)**
 
-**Rasional:**
-- Ramalan ini ialah ramalan model sahaja (L5), tanpa percubaan klinikal, literatur atau hubungan mekanistik yang disokong. Vildagliptin juga belum didaftarkan di Malaysia.
+**Justifikasi:**
+Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau penerbitan yang mengkaji sindrom orang kaku, dan tiada hubungan mekanistik yang disokong data.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank.
-- Amaran dan kontraindikasi daripada sisip bungkusan NPRA, kerana tinjauan keselamatan belum dapat dijalankan tanpanya.
-- Bukti praklinikal atau klinikal yang menghubungkan perencatan DPP-4 dengan patologi sindrom anggota kaku.
-- Sebagai pertimbangan berasingan, ramalan lain untuk vildagliptin, iaitu **diabetes mellitus jenis 1**, mempunyai lebih banyak bukti, termasuk percubaan Fasa 2 dan Fasa 3 serta beberapa RCT. Ia wajar dinilai dalam laporan tersendiri. Status percubaan Fasa 3 (NCT01559025) tidak diketahui dan tiada keputusan khasiat disediakan, jadi tahap bukti tersebut masih sementara.
+- Data mekanisme tindakan yang terperinci (MOA)
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
+- Teks indikasi yang diluluskan bagi lesen tempatan
+- Bukti praklinikal atau klinikal yang mengkaji secara langsung kaitan perencatan DPP-4 dengan sindrom orang kaku
+- Penilaian semula sama ada skor ramalan ini, yang datang daripada model TxGNN (pembelajaran mendalam), hanya mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -3,18 +3,18 @@ layout: default
 title: Uracil
 parent: Low Evidence (L4-L5)
 nav_order: 711
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Uracil: indikasi baharu diramal Neoplasma kolon (colonic neoplasm) (tahap bukti L4). Indikasi asal: Tiada data (tiada lesen berdaftar dengan teks indikasi)"
 monitor_inn: "Uracil"
 predicted_indications: ["colonic neoplasm", "gastric carcinoma", "rectosigmoid junction neoplasm", "lipoma of colon", "colonic lymphangioma", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "cavernous hemangioma of colon", "cecal disease", "colon leiomyoma"]
+description: "Uracil: indikasi baharu diramal Neoplasma kolon (colonic neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Uracil
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Urasil: Daripada Penggunaan Asal kepada Neoplasma Kolon
+## Uracil: Neoplasma kolon (colonic neoplasm)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma kolon**, tetapi buk
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen berdaftar dengan teks indikasi) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Neoplasma kolon (colonic neoplasm) |
-| Skor Ramalan TxGNN | 99.50% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9950 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -94,7 +94,6 @@ Oleh itu, ramalan ini lebih tepat difahami sebagai sokongan kepada gabungan UFT 
 
 ## Maklumat Pasaran Malaysia
 
-Tiada lesen berdaftar bagi urasil di Malaysia dalam data yang dikompilasi (status: tidak dipasarkan).
 
 ---
 

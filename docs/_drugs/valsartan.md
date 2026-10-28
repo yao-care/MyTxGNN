@@ -4,15 +4,17 @@ title: Valsartan
 parent: Low Evidence (L4-L5)
 nav_order: 718
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Valsartan: indikasi baharu diramal Gangguan hipertensif (hypertensive disorder) (tahap bukti L5). Indikasi asal: Gangguan hipertensif / hipertensi (daripada graf pengetahuan TxGNN"
+indication_count: 6
+monitor_inn: "Valsartan"
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
+last_modified_at: 2026-10-23
+description: "Valsartan: indikasi baharu diramal Penyakit buah pinggang hipertensi malignan (tahap bukti L5). Indikasi asal: Hipertensi (hubungan direkodkan dalam graf pengetahuan"
 ---
 
 # Valsartan
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,120 +33,87 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Valsartan: Daripada Hipertensi kepada Gangguan Hipertensif
+## Valsartan: Daripada Hipertensi kepada Penyakit Buah Pinggang Hipertensi Malignan
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Valsartan ialah penyekat reseptor angiotensin II (ARB) yang pada asalnya digunakan untuk merawat hipertensi. Model TxGNN meramalkan ia berkesan untuk **gangguan hipertensif (hypertensive disorder)**, yang pada dasarnya hampir sama dengan indikasi asalnya. Arah ini disokong oleh **lebih 40 percubaan klinikal** dan **sekitar 20 penerbitan** dalam data yang dikompilasi untuk laporan ini.
+Valsartan ialah penyekat reseptor angiotensin II jenis 1 (ARB) yang pada asalnya digunakan untuk merawat hipertensi.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit buah pinggang hipertensi malignan**,
+tetapi setakat ini **tiada ujian klinikal** dan **hanya 1 penerbitan** (mengenai ubat lain, avosentan) yang ditemui, jadi bukti langsung untuk valsartan masih tiada.
 
-**Nota penting:** Ramalan ini bukan penemuan indikasi baharu. Penyakit yang diramalkan hampir sama dengan indikasi asal (hipertensi), jadi ia lebih mencerminkan pengesahan indikasi sedia ada daripada pengembangan sebenar (repurposing).
+## Gambaran Keseluruhan Pantas
 
----
-
-## Gambaran Ringkas
-
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Gangguan hipertensif / hipertensi (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen tersedia) |
-| Indikasi Baharu yang Diramalkan | Gangguan hipertensif (hypertensive disorder) |
-| Skor Ramalan TxGNN | 0.00% (nilai skor dalam data ialah 0.0, perlu disemak semula kerana tidak konsisten dengan bukti yang banyak) |
-| Tahap Bukti | L1 (banyak percubaan Fasa 3 yang selesai, contohnya NCT00327587, NCT00409760, NCT00170963) |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikompilasi) |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Hipertensi (hubungan direkodkan dalam graf pengetahuan; teks indikasi lesen tempatan tidak tersedia) |
+| Indikasi Baharu yang Diramalkan | Penyakit buah pinggang hipertensi malignan |
+| Skor Ramalan TxGNN | 0.9997 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 46 daripada 46) |
+| Bilangan Pendaftaran | 46 (sah: 46) |
+| Bilangan Kelulusan | 46 pendaftaran (23 produk tunggal, 23 produk kombinasi) |
 | Keputusan Disyorkan | Hold |
-
----
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikompilasi. Berdasarkan maklumat yang diketahui, valsartan tergolong dalam kelas penyekat reseptor angiotensin II jenis 1 (AT1). Literatur yang ada menerangkannya sebagai agen yang menekan sistem renin-angiotensin (RAS), yang berperanan penting dalam patofisiologi hipertensi.
+Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan umum, valsartan menyekat reseptor AT1 angiotensin II, sekali gus menurunkan tekanan darah dan tekanan intraglomerulus. Secara biologi, ini munasabah untuk nefropati hipertensi malignan.
 
-Indikasi asal dan indikasi yang diramalkan pada dasarnya ialah keadaan yang sama (hipertensi), jadi hubungan mekanistik adalah langsung dan tidak memerlukan lompatan penyakit. Ini menjelaskan kenapa model memberi ramalan sedemikian, dan juga kenapa ramalan ini tidak menambah nilai repurposing yang baharu.
+Namun, indikasi ramalan ini sangat hampir dengan indikasi asal (hipertensi), jadi ia lebih merupakan lanjutan daripada pengulangan guna yang sebenar. Satu-satunya penerbitan yang ditemui (PMID 24368192) mengkaji avosentan, antagonis reseptor endotelin, pada tikus transgenik, bukan valsartan. Oleh itu tiada bukti langsung yang mengkaji valsartan dalam penyakit ini, dan tahap bukti dihadkan kepada L5.
 
----
+## Bukti Ujian Klinikal
 
-## Bukti Percubaan Klinikal
-
-Berikut ialah sebahagian daripada percubaan yang paling relevan (senarai penuh lebih panjang; semua dikesan untuk hipertensi).
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00327587](https://clinicaltrials.gov/study/NCT00327587) | Fasa 3 | Selesai | 2279 | Keselamatan dan keberkesanan gabungan valsartan/HCTZ/amlodipin pada hipertensi sederhana hingga teruk |
-| [NCT00409760](https://clinicaltrials.gov/study/NCT00409760) | Fasa 3 | Selesai | 1930 | Gabungan valsartan dan amlodipin berbanding agen tunggal dan plasebo |
-| [NCT00170963](https://clinicaltrials.gov/study/NCT00170963) | Fasa 3 | Selesai | 1018 | Valsartan/amlodipin berbanding valsartan 160 mg sahaja pada pesakit tidak terkawal |
-| [NCT00327145](https://clinicaltrials.gov/study/NCT00327145) | Fasa 3 | Selesai | 894 | Keberkesanan valsartan + amlodipin pada pesakit tidak terkawal dengan monoterapi |
-| [NCT00699192](https://clinicaltrials.gov/study/NCT00699192) | Fasa 3 | Selesai | 965 | Amlodipin/valsartan pada pesakit warga emas dengan hipertensi esensial |
-| [NCT00350168](https://clinicaltrials.gov/study/NCT00350168) | Fasa 3 | Selesai | 647 | Gabungan valsartan/amlodipin berbanding amlodipin tunggal pada hipertensi peringkat II |
-| [NCT00435162](https://clinicaltrials.gov/study/NCT00435162) | Fasa 3 | Selesai | 74 | Tindak balas dos valsartan pada kanak-kanak berumur 6 bulan hingga 5 tahun |
-| [NCT01365481](https://clinicaltrials.gov/study/NCT01365481) | Fasa 3 | Selesai | 150 | Keselamatan jangka panjang (18 bulan) pada kanak-kanak 6-17 tahun |
-| [NCT00170924](https://clinicaltrials.gov/study/NCT00170924) | Fasa 4 | Selesai | 317 | Kesan valsartan terhadap fungsi diastolik pada hipertensi |
-| [NCT06643819](https://clinicaltrials.gov/study/NCT06643819) | Fasa 3 | Sedang merekrut | 324 | Sacubitril/valsartan (CKD-202A) dengan kawalan aktif |
-
-Kebanyakan percubaan menilai valsartan dalam gabungan dos tetap atau berbanding ubat lain, bukan valsartan tunggal berbanding plasebo.
-
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk indikasi ini.
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [15207952](https://pubmed.ncbi.nlm.nih.gov/15207952/) | 2004 | RCT | Lancet | Percubaan VALUE: hasil kardiovaskular pesakit berisiko tinggi, rejimen valsartan berbanding amlodipin |
-| [35058583](https://pubmed.ncbi.nlm.nih.gov/35058583/) | 2022 | RCT | Hypertens Res | Sacubitril/valsartan berbanding olmesartan pada pesakit Jepun (n=1161) |
-| [39632589](https://pubmed.ncbi.nlm.nih.gov/39632589/) | 2025 | RCT | J Clin Hypertens | Sacubitril/valsartan berbanding amlodipin (kajian PARASOL) |
-| [40739095](https://pubmed.ncbi.nlm.nih.gov/40739095/) | 2025 | RCT Fasa 2 | Nat Commun | Kesan pada penyakit jantung hipertensif (REVERSE-LVH) |
-| [29029087](https://pubmed.ncbi.nlm.nih.gov/29029087/) | 2017 | RCT | Eur Heart J | Sacubitril/valsartan berbanding olmesartan pada pembentukan semula kardiovaskular |
-| [28093466](https://pubmed.ncbi.nlm.nih.gov/28093466/) | 2017 | RCT | Hypertension | Hemodinamik pusat pada warga emas (PARAMETER) |
-| [39927814](https://pubmed.ncbi.nlm.nih.gov/39927814/) | 2025 | Meta-analisis | J Hypertens | Sacubitril-valsartan pada pesakit ESKD yang menjalani dialisis |
-| [20591086](https://pubmed.ncbi.nlm.nih.gov/20591086/) | 2010 | Meta-analisis | J Clin Hypertens | Telmisartan berbanding valsartan pada hipertensi esensial |
-| [21142805](https://pubmed.ncbi.nlm.nih.gov/21142805/) | 2011 | Ulasan | Expert Opin Drug Saf | Penilaian keselamatan valsartan |
-| [22352121](https://pubmed.ncbi.nlm.nih.gov/22352121/) | 2011 | Pengawasan pasca-pemasaran | Blood Press Suppl | Keberkesanan dan keselamatan valsartan pada pesakit Taiwan |
+| [24368192](https://pubmed.ncbi.nlm.nih.gov/24368192/) | 2014 | Praklinikal (ubat berbeza: avosentan) | Pharmacological Research | Avosentan melindungi daripada nefropati hipertensi pada tikus transgenik pada dos yang tidak menyebabkan pengekalan cecair. Tidak menguji valsartan. |
 
-Nota: kebanyakan RCT di atas menguji sacubitril/valsartan, iaitu produk gabungan, dan bukan valsartan tunggal.
+## Maklumat Pasaran Malaysia
 
----
+Teks indikasi yang diluluskan tidak tersedia dalam rekod lesen. Senarai di bawah hanya menunjukkan produk valsartan tunggal (5 daripada 23 produk tunggal yang sah). Produk kombinasi tidak digunakan untuk menerangkan kelulusan bahan tunggal.
 
-## Cytotoxicity
-
-Bahagian ini tidak berkaitan kerana valsartan bukan ubat antineoplastik.
-
----
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL09042429ARZ | Diovan 40mg Film-coated Tablet | Tiada maklumat | Tiada maklumat |
+| MAL09042430ARZ | Diovan 80mg Film-coated Tablet | Tiada maklumat | Tiada maklumat |
+| MAL09042431ARZ | Diovan 160mg Film-coated Tablet | Tiada maklumat | Tiada maklumat |
+| MAL19056033ACZ | Valsartan Sandoz Film-Coated Tablet 80mg | Tiada maklumat | Tiada maklumat |
+| MAL19056034ACZ | Valsartan Sandoz Film-Coated Tablet 160mg | Tiada maklumat | Tiada maklumat |
 
 ## Pertimbangan Keselamatan
 
-**Kontraindikasi (daripada graf pengetahuan TxGNN, bukan teks label produk):**
-- Hati dan hempedu: kegagalan hati, penyakit hati, penyakit pundi hempedu, ensefalopati hepatik, koma hepatik, jaundis neonatal
-- Pankreas: pankreatitis
-- Angioedema: angioedema termasuk yang disebabkan penyekat RAAS dan angioedema keturunan
-- Buah pinggang dan elektrolit: anuria, kerosakan fungsi buah pinggang, obstruksi arteri renal, kekurangan kalium, hiperkalsemia, nefrokalsinosis, gangguan metabolisme fosforus
-- Metabolik dan lain-lain: diabetes mellitus, ketoasidosis diabetes, gout, hiperurisemia, hiperparatiroidisme, osteitis fibrosa, lupus eritematosus sistemik, neutropenia, agranulositosis, hipotensi
+- **Kontraindikasi dalam graf pengetahuan** (hubungan direkodkan dalam graf pengetahuan, bukan teks label): kegagalan hati, pankreatitis, penyakit hati, penyakit pundi hempedu, angioedema (termasuk angioedema keturunan dan yang disebabkan penyekat sistem renin-angiotensin-aldosteron), lupus eritematosus sistemik, kekurangan kalium, diabetes mellitus, ketoasidosis diabetes, neutropenia, agranulositosis, hipotensi, hiperparatiroidisme, ensefalopati hepatik, anuria, gout, hiperkalsemia, nefrokalsinosis, arteri renal tersumbat, dan gangguan fungsi renal.
+- **Interaksi ubat**: 100 interaksi direkodkan. Interaksi **Major** termasuk **kalium klorida** dan **kalium bikarbonat** (risiko hiperkalemia). Interaksi **Moderate** termasuk hidrokortison, eluxadoline, exenatide, polietilena glikol dengan elektrolit, serta pelbagai jenis insulin.
 
-Senarai ini daripada graf pengetahuan dan boleh merangkumi kontraindikasi komponen ubat gabungan, jadi perlu disahkan dengan sisipan pembungkusan.
-
-**Interaksi Ubat** (100 interaksi dikesan; yang utama):
-- **Major:** kalium klorida, kalium bikarbonat (risiko hiperkalemia)
-- **Moderate:** hidrokortison, eluxadoline, exenatide, pelbagai jenis insulin, polietilena glikol dengan elektrolit
-
-**Laporan kes dalam literatur:** angioedema ([12841812](https://pubmed.ncbi.nlm.nih.gov/12841812/)) dan pankreatitis akut ([24694480](https://pubmed.ncbi.nlm.nih.gov/24694480/)) yang disebabkan valsartan.
-
-Amaran utama dan kontraindikasi daripada sisipan pembungkusan NPRA tidak tersedia. Sila rujuk sisipan pembungkusan untuk maklumat keselamatan rasmi.
-
----
+Sila rujuk sisipan pek untuk amaran dan kontraindikasi rasmi, kerana teks label belum diperoleh.
 
 ## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Hold**
 
 **Rasional:**
-- Bukti klinikal untuk hipertensi sangat kukuh (L1), tetapi ini ialah indikasi asal, jadi tiada nilai repurposing baharu. Di samping itu, valsartan tidak dipasarkan di Malaysia menurut data yang dikompilasi, dan data keselamatan daripada sisipan pembungkusan tidak tersedia (jurang data bertahap Blocking). Skor TxGNN 0.0 juga tidak konsisten dengan bukti.
+Tiada ujian klinikal atau kajian langsung mengenai valsartan dalam penyakit buah pinggang hipertensi malignan; satu-satunya penerbitan melibatkan ubat lain. Skor TxGNN tinggi, tetapi indikasi ini hanyalah lanjutan daripada hipertensi, bukan pengulangan guna yang baharu.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Muat turun dan ekstrak amaran serta kontraindikasi daripada sisipan pembungkusan NPRA
-- Sahkan status pendaftaran sebenar valsartan di Malaysia (0 lesen mungkin disebabkan jurang data) dan senaraikan produk berdaftar
-- Semak semula skor ramalan TxGNN (0.0)
-- Dapatkan data mekanisme tindakan (MOA) daripada DrugBank
-- Tentukan indikasi sasaran yang benar-benar baharu (bukan hipertensi), contohnya penyakit jantung hipertensif atau nefropati, kemudian nilai semula bukti
-- Pisahkan bukti valsartan tunggal daripada bukti produk gabungan (sacubitril/valsartan, amlodipin, HCTZ)
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Kajian praklinikal atau klinikal yang terus menilai valsartan dalam nefropati hipertensi malignan
+- Data mekanisme tindakan terperinci (MOA)
+- Amaran dan kontraindikasi daripada sisipan pek NPRA (data keselamatan rasmi belum ada, menghalang saringan keselamatan)
+- Teks indikasi yang diluluskan dan bentuk dos daripada rekod lesen tempatan
+
+## Lampiran: Ramalan Lain
+
+| Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Ulasan |
+|------|------|------|------|
+| Hipertensi pulmonari dengan mekanisme multifaktorial tidak jelas | 0.9997 | L5 | Tiada ujian atau literatur |
+| Hipertensi pulmonari akibat penyakit paru-paru/hipoksia | 0.9997 | L5 | Literatur kebanyakannya praklinikal dan berkaitan sacubitril/valsartan, bukan kajian langsung penyakit ini |
+| Sindrom Braddock | 0.9996 | L5 | Tiada bukti |
+| Penyakit jantung pulmonari kronik | 0.9958 | L5 | Satu ujian Fasa 1 tidak berkaitan; literatur tidak langsung |
+| Angina Prinzmetal | 0.9945 | L5 | Satu penerbitan tidak berkaitan |
+
+Nota: bagi tiga indikasi dengan literatur, tiada kajian yang dipetik secara langsung mengkaji valsartan dalam penyakit itu sendiri, maka tahap bukti dihadkan kepada L5.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

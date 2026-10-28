@@ -7,13 +7,14 @@ drugbank_id: "DB09053"
 drug_name: "Ibrutinib"
 kg_predictions: 45
 dl_predictions: 44
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/ibrutinib/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Ibrutinib
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **45** ramalan graf pengetahuan dan **44** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **45** ramalan model TxGNN (pembelajaran mendalam) dan **44** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

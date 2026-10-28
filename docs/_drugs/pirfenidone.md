@@ -6,9 +6,9 @@ nav_order: 579
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Pirfenidone: indikasi baharu diramal Extracutaneous mastocytoma (tahap bukti L5). Indikasi asal: Pneumonia interstisial akut, fibrosis pulmonari idiopatik…"
 monitor_inn: "PIRFENIDONE"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
+description: "Pirfenidone: indikasi baharu diramal Extracutaneous mastocytoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Pirfenidone
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Pirfenidone: Daripada Fibrosis Pulmonari Idiopatik kepada Extracutaneous Mastocytoma
+## Pirfenidone: Extracutaneous mastocytoma
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,19 +46,19 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Pneumonia interstisial akut, fibrosis pulmonari idiopatik, pneumonia interstisial idiopatik (berdasarkan graf pengetahuan TxGNN) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Extracutaneous mastocytoma |
-| Skor Ramalan TxGNN | 99.71% |
+| Skor Ramalan TxGNN | 0.9971 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan yang Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, pirfenidone ialah agen anti-fibrotik oral dan keberkesanannya dalam fibrosis pulmonari idiopatik telah dibuktikan. Secara teori, aktiviti anti-fibrotik dan pemodulasian TGF-beta mungkin berkaitan dengan indikasi baharu, tetapi hubungan ini belum disahkan.
 
-Extracutaneous mastocytoma ialah neoplasma sel mast yang terutamanya didorong oleh isyarat KIT. Aktiviti pirfenidone terhadap TGF-beta tidak mempunyai kaitan yang mantap dengan penyakit ini, dan tiada data klinikal atau literatur yang disediakan untuk menyokongnya. Skor 0.997 ialah ramalan pengiraan semata-mata.
+Extracutaneous mastocytoma ialah neoplasma sel mast yang terutamanya didorong oleh isyarat KIT. Aktiviti pirfenidone terhadap TGF-beta tidak mempunyai kaitan yang mantap dengan penyakit ini, dan tiada data klinikal atau literatur yang disediakan untuk menyokongnya. Skor 0.9971 ialah ramalan pengiraan semata-mata.
 
 Sebagai perbandingan, antara 10 ramalan teratas, hanya **fibroblastic neoplasm** (kedudukan 9) mempunyai sebarang literatur, iaitu bukti praklinikal (tahap L4) dan laporan kes. Ramalan lain, termasuk dermatofibrosarcoma protuberans, aggressive systemic mastocytosis, fibrosarcoma (jantung, buah pinggang, konvensional), familial Mediterranean fever, hepatic infarction dan low grade fibromyxoid sarcoma, kesemuanya tahap L5 tanpa bukti.
 

@@ -8,6 +8,7 @@ nav_order: 60
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Amisulpride
@@ -51,8 +52,8 @@ Penilaian ini tidak dapat diteruskan melebihi penilaian status awal sehingga pen
 | Indikasi Baru yang Diramalkan | Tidak tersedia |
 | Skor Ramalan TxGNN | Tidak tersedia |
 | Tahap Bukti | — (Tiada ramalan dijana) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 4 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

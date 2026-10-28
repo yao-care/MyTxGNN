@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Topotecan
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 691
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Topotecan: indikasi baharu diramal Karsinoma payudara wanita (tahap bukti L3). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "Topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
+description: "Topotecan: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Topotecan
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-## Topotecan: Daripada Indikasi Asal kepada Karsinoma Payudara Wanita
+## Topotecan: Karsinoma payudara wanita (female breast carcinoma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ dengan **3 percubaan klinikal** dan **20 penerbitan** yang berkaitan, tetapi buk
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
-| Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita |
-| Skor Ramalan TxGNN | 99.92% |
-| Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita (female breast carcinoma) |
+| Skor Ramalan TxGNN | 0.9992 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -125,7 +125,7 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi.
 **Keputusan: Hold**
 
 **Rasional:**
-- Bukti klinikal langsung untuk kanser payudara adalah lemah: satu percubaan fasa 2 ditamatkan dengan rejimen berbilang agen, dan kajian fasa 2 infusi tidak menunjukkan peningkatan keberkesanan. Topotecan juga tidak dipasarkan di Malaysia. Data keselamatan daripada sisipan pek belum diperoleh, yang menghalang penyaringan keselamatan.
+- Bukti klinikal langsung untuk kanser payudara adalah lemah: satu percubaan fasa 2 ditamatkan dengan rejimen berbilang agen, dan kajian fasa 2 infusi tidak menunjukkan peningkatan keberkesanan. Data keselamatan daripada sisipan pek belum diperoleh, yang menghalang penyaringan keselamatan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pek NPRA (amaran dan kontraindikasi) untuk penilaian keselamatan

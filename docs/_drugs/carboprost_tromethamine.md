@@ -49,10 +49,10 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **koarktasio aorta atipikal**, 
 |------|------|
 | Indikasi Asal | Tiada data indikasi berdaftar di Malaysia |
 | Indikasi Baharu yang Diramalkan | Koarktasio aorta atipikal (atypical coarctation of aorta) |
-| Skor Ramalan TxGNN | 99.99% |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **koarktasio aorta atipikal**, 
 
 Data mekanisme tindakan terperinci tidak tersedia pada masa ini. Carboprost diketahui sebagai analog PGF2α yang bertindak sebagai agonis reseptor FP dan merangsang pengecutan otot licin uterus. Tiada indikasi asal yang berdaftar di Malaysia dapat disahkan daripada data yang dikumpulkan.
 
-Hubungan mekanistik dengan koarktasio aorta atipikal **tidak disokong**. Keadaan ini ialah kecacatan struktur kongenital yang tidak mungkin dibetulkan secara farmakologi oleh agonis FP. Prostaglandin E1 (bukan F2α) digunakan untuk mengekalkan patensi duktus arteriosus dalam koarktasio, jadi ini bukan rasional peringkat kelas. Skor TxGNN yang tinggi mencerminkan ramalan graf pengetahuan sahaja.
+Hubungan mekanistik dengan koarktasio aorta atipikal **tidak disokong**. Keadaan ini ialah kecacatan struktur kongenital yang tidak mungkin dibetulkan secara farmakologi oleh agonis FP. Prostaglandin E1 (bukan F2α) digunakan untuk mengekalkan patensi duktus arteriosus dalam koarktasio, jadi ini bukan rasional peringkat kelas. Skor TxGNN yang tinggi mencerminkan ramalan model TxGNN (pembelajaran mendalam) sahaja.
 
 ### Ramalan Lain yang Dinilai
 
@@ -69,15 +69,15 @@ Sembilan ramalan seterusnya turut berada pada tahap L5 dengan keputusan Hold, ta
 
 | Kedudukan | Penyakit | Skor TxGNN | Penilaian Mekanistik Ringkas |
 |------|------|------|------|
-| 2 | Malformasi aorta | 99.98% | Kecacatan struktur; tiada pembetulan farmakologi yang munasabah |
-| 3 | Migrain dengan aura batang otak | 99.97% | Agonisme PGF2α dijangka pro-nosiseptif atau neutral, bukan terapeutik |
-| 4 | Gangguan migrain | 99.96% | Arah agonis FP dipersoalkan; antagonisme FP atau perencatan COX lebih munasabah |
-| 5 | Hipertensi pulmonari | 99.93% | PGF2α ialah vasokonstriktor pulmonari, bertentangan dengan prostanoid vasodilator; risiko keselamatan |
-| 6 | Malformasi esofagus bukan sindrom | 99.92% | Anomali struktur kongenital; tiada mekanisme munasabah |
-| 7 | Penyakit jantung kifoskoliotik | 99.92% | Tiada rasional; kesan vasokonstriktif pulmonari mungkin berbahaya |
-| 8 | Amenorea | 99.89% | Ada kaitan saluran pembiakan secara prinsip, tetapi tiada bukti; aktiviti uterotonik/abortifasien tidak sesuai |
-| 9 | Penyakit esofagus | 99.83% | Kesan advers GI (loya, muntah, cirit-birit) lazim; tiada bukti |
-| 10 | Glaukoma keturunan primer | 99.69% | Kebolehpercayaan biologi paling tinggi (analog PGF2α seperti latanoprost menurunkan tekanan intraokular melalui reseptor FP), tetapi carboprost hanya diformulasi untuk suntikan intramuskular, tiada data oftalmik, dan glaukoma kongenital lazimnya dirawat secara pembedahan |
+| 2 | Malformasi aorta | 0.9998 | Kecacatan struktur; tiada pembetulan farmakologi yang munasabah |
+| 3 | Migrain dengan aura batang otak | 0.9997 | Agonisme PGF2α dijangka pro-nosiseptif atau neutral, bukan terapeutik |
+| 4 | Gangguan migrain | 0.9996 | Arah agonis FP dipersoalkan; antagonisme FP atau perencatan COX lebih munasabah |
+| 5 | Hipertensi pulmonari | 0.9993 | PGF2α ialah vasokonstriktor pulmonari, bertentangan dengan prostanoid vasodilator; risiko keselamatan |
+| 6 | Malformasi esofagus bukan sindrom | 0.9992 | Anomali struktur kongenital; tiada mekanisme munasabah |
+| 7 | Penyakit jantung kifoskoliotik | 0.9992 | Tiada rasional; kesan vasokonstriktif pulmonari mungkin berbahaya |
+| 8 | Amenorea | 0.9989 | Ada kaitan saluran pembiakan secara prinsip, tetapi tiada bukti; aktiviti uterotonik/abortifasien tidak sesuai |
+| 9 | Penyakit esofagus | 0.9983 | Kesan advers GI (loya, muntah, cirit-birit) lazim; tiada bukti |
+| 10 | Glaukoma keturunan primer | 0.9969 | Kebolehpercayaan biologi paling tinggi (analog PGF2α seperti latanoprost menurunkan tekanan intraokular melalui reseptor FP), tetapi carboprost hanya diformulasi untuk suntikan intramuskular, tiada data oftalmik, dan glaukoma kongenital lazimnya dirawat secara pembedahan |
 
 ---
 

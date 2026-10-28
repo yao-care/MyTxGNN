@@ -8,6 +8,7 @@ nav_order: 70
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Amoxycillin
@@ -53,8 +54,8 @@ Tanpa indikasi yang diramalkan, pencarian ujian klinikal dan bukti literatur bel
 | Indikasi Baru yang Diramalkan | Belum dijana |
 | Skor Ramalan TxGNN | Tidak tersedia |
 | Tahap Bukti | Tidak berkenaan |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 66 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 66 daripada 66) |
+| Bilangan Pendaftaran | 66 (sah: 66) |
 | Keputusan yang Disyorkan | **Tunggu** |
 
 ---

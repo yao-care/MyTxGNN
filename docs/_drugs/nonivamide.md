@@ -6,9 +6,9 @@ nav_order: 531
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Nonivamide: indikasi baharu diramal Hipertensi pulmonari (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA yang direkodkan)"
 monitor_inn: "Nonivamide"
 predicted_indications: ["pulmonary hypertension", "peripheral arterial disease", "acute lymphoblastic leukemia (disease)", "kyphoscoliotic heart disease", "peripheral vascular disease", "ventricular tachycardia", "anaphylaxis", "migraine disorder", "catecholaminergic polymorphic ventricular tachycardia", "intermittent vascular claudication"]
+description: "Nonivamide: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Nonivamide
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Nonivamide: Daripada Indikasi Asal yang Tidak Direkodkan kepada Hipertensi Pulmonari
+## Nonivamide: Hipertensi pulmonari (pulmonary hypertension)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Ramalan ini hanya berasaskan skor model komputasi (Tahap Bukti L5).
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen NPRA yang direkodkan) |
-| Indikasi Baharu yang Diramalkan | Hipertensi pulmonari |
-| Skor Ramalan TxGNN | 99.81% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Hipertensi pulmonari (pulmonary hypertension) |
+| Skor Ramalan TxGNN | 0.9981 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -70,15 +70,15 @@ Selain hipertensi pulmonari, model turut meramalkan indikasi berikut. Kesemuanya
 
 | Kedudukan | Penyakit | Skor TxGNN | Penilaian Pautan Mekanistik |
 |------|------|------|------|
-| 2 | Penyakit arteri periferal | 99.81% | Pelepasan CGRP dan bahan P melalui TRPV1 boleh menyebabkan vasodilasi; masih hipotesis |
-| 3 | Leukemia limfoblastik akut | 99.79% | Kesan antiproliferatif kapsaisin pada sel kanser dalam kajian praklinikal; rasional lemah dan tidak langsung |
-| 4 | Penyakit jantung kifoskoliotik | 99.77% | Tiada pautan mekanistik langsung; kemungkinan artifak model |
-| 5 | Penyakit vaskular periferal | 99.72% | Bertindih dengan penyakit arteri periferal; rasional hipotesis yang sama |
-| 6 | Takikardia ventrikel | 99.72% | Pautan spekulatif; pengaktifan simpatetik mungkin pro-aritmia, jadi keselamatan menjadi kebimbangan |
-| 7 | Anafilaksis | 99.67% | Hubungan konseptual longgar melalui keradangan neurogenik; tidak sesuai untuk kecemasan akut |
-| 8 | Gangguan migrain | 99.67% | Pautan paling koheren: TRPV1 pada neuron trigeminal dan peranan CGRP dalam migrain |
-| 9 | Takikardia ventrikel polimorfik katekolaminergik | 99.66% | Tiada pautan jelas dengan TRPV1; rangsangan simpatetik mungkin berbahaya |
-| 10 | Klaudikasi vaskular berselang-seli | 99.65% | Manifestasi gejala penyakit arteri periferal; rasional sama seperti PAD |
+| 2 | Penyakit arteri periferal | 0.9981 | Pelepasan CGRP dan bahan P melalui TRPV1 boleh menyebabkan vasodilasi; masih hipotesis |
+| 3 | Leukemia limfoblastik akut | 0.9979 | Kesan antiproliferatif kapsaisin pada sel kanser dalam kajian praklinikal; rasional lemah dan tidak langsung |
+| 4 | Penyakit jantung kifoskoliotik | 0.9977 | Tiada pautan mekanistik langsung; kemungkinan artifak model |
+| 5 | Penyakit vaskular periferal | 0.9972 | Bertindih dengan penyakit arteri periferal; rasional hipotesis yang sama |
+| 6 | Takikardia ventrikel | 0.9972 | Pautan spekulatif; pengaktifan simpatetik mungkin pro-aritmia, jadi keselamatan menjadi kebimbangan |
+| 7 | Anafilaksis | 0.9967 | Hubungan konseptual longgar melalui keradangan neurogenik; tidak sesuai untuk kecemasan akut |
+| 8 | Gangguan migrain | 0.9967 | Pautan paling koheren: TRPV1 pada neuron trigeminal dan peranan CGRP dalam migrain |
+| 9 | Takikardia ventrikel polimorfik katekolaminergik | 0.9966 | Tiada pautan jelas dengan TRPV1; rangsangan simpatetik mungkin berbahaya |
+| 10 | Klaudikasi vaskular berselang-seli | 0.9965 | Manifestasi gejala penyakit arteri periferal; rasional sama seperti PAD |
 
 Walaupun migrain mempunyai pautan mekanistik yang paling koheren antara semua calon, tiada bukti khusus nonivamide dibekalkan, jadi ia kekal sebagai ramalan semata-mata.
 
@@ -98,14 +98,13 @@ Buat masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Nonivamide tidak dipasarkan di Malaysia dan tiada lesen NPRA direkodkan (0 pendaftaran).
 
 ---
 
 ## Pertimbangan Keselamatan
 
 - **Interaksi Ubat**: Pertanyaan interaksi ubat tidak menemui sebarang rekod dalam data yang dikumpulkan.
-- **Kebimbangan khusus calon**: Untuk indikasi aritmia (takikardia ventrikel dan CPVT), pengaktifan simpatetik oleh agonis TRPV1 berpotensi memudaratkan dan perlu dinilai dengan teliti. Untuk anafilaksis, ubat yang tidak dipasarkan tidak sesuai sebagai rawatan kecemasan.
+- **Kebimbangan khusus calon**: Untuk indikasi aritmia (takikardia ventrikel dan CPVT), pengaktifan simpatetik oleh agonis TRPV1 berpotensi memudaratkan dan perlu dinilai dengan teliti.
 
 Sila rujuk sisipan pakej untuk maklumat keselamatan lanjut.
 
@@ -116,7 +115,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan lanjut.
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Semua ramalan hanya bergantung pada skor model graf (Tahap Bukti L5) tanpa percubaan klinikal atau literatur sokongan. Ubat ini tidak dipasarkan di Malaysia, dan data mekanisme tindakan serta keselamatan masih tidak lengkap.
+- Semua ramalan hanya bergantung pada skor model TxGNN (pembelajaran mendalam) (Tahap Bukti L5) tanpa percubaan klinikal atau literatur sokongan; skor ini mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Ubat ini dipasarkan di Malaysia (5 lesen sah daripada 5), dan data mekanisme tindakan serta keselamatan masih tidak lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat peringkat saringan keselamatan seterusnya)

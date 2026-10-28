@@ -6,9 +6,9 @@ nav_order: 335
 evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Estradiol Benzoate: indikasi baharu diramal Migraine disorder (migrain) (tahap bukti L4). Indikasi asal: Tiada data tersedia"
 monitor_inn: "estradiol benzoate"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "thrombotic disease"]
+description: "Estradiol Benzoate: indikasi baharu diramal Migraine disorder (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Estradiol Benzoate
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-## Estradiol Benzoate: Daripada Indikasi Asal (Tiada Data) kepada Migrain
+## Estradiol Benzoate: Migraine disorder
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi bukti semasa terhad kepada **0 ujian klinikal** dan **2 penerbitan** (sat
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data tersedia |
-| Indikasi Baharu yang Diramal | Migraine disorder (migrain) |
-| Skor Ramalan TxGNN | 99.43% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramal | Migraine disorder |
+| Skor Ramalan TxGNN | 0.9943 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -64,14 +64,14 @@ Butiran mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklu
 
 Turun naik paras estrogen ialah pencetus migrain berkaitan haid yang diakui. Penarikan estrogen (estrogen withdrawal) boleh mencetuskan serangan, dan estrogen mempengaruhi pengaktifan neuron dalam laluan berkaitan migrain (model saraf trigeminal dan cortical spreading depression). Secara teori, estradiol benzoate boleh membantu menstabilkan paras hormon.
 
-Namun, mekanisme yang sama juga membawa risiko: pendedahan kepada estrogen dan penarikannya kedua-duanya boleh memburukkan migrain, jadi arah manfaat bergantung pada dos dan kaedah penyampaian. Skor TxGNN yang tinggi (0.994) selaras dengan biologi ini tetapi hanyalah ramalan.
+Namun, mekanisme yang sama juga membawa risiko: pendedahan kepada estrogen dan penarikannya kedua-duanya boleh memburukkan migrain, jadi arah manfaat bergantung pada dos dan kaedah penyampaian. Skor TxGNN yang tinggi (0.9943) selaras dengan biologi ini tetapi hanyalah ramalan.
 
 ### Ramalan Lain daripada Model
 
 | Penyakit yang Diramal | Skor TxGNN | Tahap Bukti | Cadangan | Catatan |
 |------|------|------|------|------|
-| Migraine with brainstem aura | 99.34% | L5 | Hold | Tiada bukti langsung. Terapi mengandungi estrogen secara amnya menjadi kebimbangan keselamatan pada pesakit migrain beraura kerana risiko strok iskemia. |
-| Thrombotic disease | 99.08% | L5 | Hold | Estrogen diketahui meningkatkan risiko trombosis (terutamanya venous thromboembolism). Ramalan ini berkemungkinan mencerminkan kaitan ubat-penyakit (ubat boleh menyebabkan atau memburukkan keadaan) dan bukan manfaat terapeutik. |
+| Migraine with brainstem aura | 0.9934 | L5 | Hold | Tiada bukti langsung. Terapi mengandungi estrogen secara amnya menjadi kebimbangan keselamatan pada pesakit migrain beraura kerana risiko strok iskemia. |
+| Thrombotic disease | 0.9908 | L5 | Hold | Estrogen diketahui meningkatkan risiko trombosis (terutamanya venous thromboembolism). Ramalan ini berkemungkinan mencerminkan kaitan ubat-penyakit (ubat boleh menyebabkan atau memburukkan keadaan) dan bukan manfaat terapeutik. |
 
 ---
 
@@ -103,7 +103,7 @@ Nota daripada analisis ramalan yang dikumpulkan: estrogen boleh meningkatkan ris
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Hanya terdapat dua penerbitan (satu kajian klinikal kecil tahun 1975 yang tidak menunjukkan pencegahan berkesan, dan satu kajian haiwan), tanpa sebarang ujian klinikal berdaftar. Ubat ini juga tidak dipasarkan di Malaysia dan data keselamatan daripada sisipan pakej belum diperoleh, jadi ramalan ini kekal sebagai soalan penyelidikan.
+- Hanya terdapat dua penerbitan (satu kajian klinikal kecil tahun 1975 yang tidak menunjukkan pencegahan berkesan, dan satu kajian haiwan), tanpa sebarang ujian klinikal berdaftar.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi) bagi menjalankan saringan keselamatan.

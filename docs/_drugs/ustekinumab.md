@@ -6,9 +6,9 @@ nav_order: 714
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ustekinumab: indikasi baharu diramal Dermatitis (tahap bukti L2). Indikasi asal: Psoriasis, artritis psoriatik…"
 monitor_inn: "USTEKINUMAB"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
+description: "Ustekinumab: indikasi baharu diramal Dermatitis (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ustekinumab
@@ -33,7 +33,7 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-## Ustekinumab: Daripada Psoriasis kepada Dermatitis
+## Ustekinumab: Dermatitis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ dengan **6 ujian klinikal** dan **20 penerbitan** yang disenaraikan dalam data y
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Psoriasis, artritis psoriatik, parapsoriasis (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen NPRA) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramal | Dermatitis |
-| Skor Ramalan TxGNN | 99.99% |
+| Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold |
 
 ---

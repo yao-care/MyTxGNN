@@ -4,17 +4,17 @@ title: Piperacillin
 parent: Low Evidence (L4-L5)
 nav_order: 576
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Piperacillin: indikasi baharu diramal Rheumatoid arthritis (tahap bukti L5). Indikasi asal: Tiada data indikasi lulus daripada pendaftaran NPRA (tiada lesen dida…"
 monitor_inn: "PIPERACILLIN"
-predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "osteoarthritis susceptibility", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
+predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
 ---
 
 # Piperacillin
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **9** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Piperacillin ialah antibiotik beta-laktam (kumpulan penisilin) yang digunakan un
 |------|------|
 | Indikasi Asal | Tiada data indikasi lulus daripada pendaftaran NPRA (tiada lesen didaftarkan) |
 | Indikasi Baharu yang Diramalkan | Rheumatoid arthritis |
-| Skor Ramalan TxGNN | 99.94% |
+| Skor Ramalan TxGNN | 0.9994 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -60,7 +60,7 @@ Piperacillin ialah antibiotik beta-laktam (kumpulan penisilin) yang digunakan un
 
 Data terperinci tentang mekanisme tindakan (MOA) pada masa ini tidak tersedia daripada data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, piperacillin tergolong dalam kelas antibiotik beta-laktam yang merencat sintesis dinding sel bakteria.
 
-Penilaian terhadap data yang dikumpulkan menyimpulkan bahawa **tiada hubungan mekanistik yang boleh dipercayai** antara piperacillin dengan rheumatoid arthritis. Piperacillin tidak diketahui mempunyai aktiviti imunomodulasi atau anti-radang yang relevan kepada penyakit ini. Skor TxGNN yang tinggi (0.999) hanyalah ramalan model dan bukan bukti klinikal.
+Penilaian terhadap data yang dikumpulkan menyimpulkan bahawa **tiada hubungan mekanistik yang boleh dipercayai** antara piperacillin dengan rheumatoid arthritis. Piperacillin tidak diketahui mempunyai aktiviti imunomodulasi atau anti-radang yang relevan kepada penyakit ini. Skor TxGNN yang tinggi (0.9994) hanyalah ramalan model dan bukan bukti klinikal.
 
 Penerbitan yang diperoleh melibatkan pesakit RA, tetapi menerangkan piperacillin atau antibiotik berkaitan digunakan untuk merawat **komplikasi** (contohnya jangkitan pada pesakit imunosupresi), dan bukan untuk merawat RA itu sendiri.
 

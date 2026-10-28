@@ -48,10 +48,10 @@ Roxithromycin ialah antibiotik makrolid yang digunakan untuk jangkitan saluran p
 |------|------|
 | Indikasi Asal | Jangkitan saluran pernafasan, saluran kencing dan tisu lembut (berdasarkan maklumat penggunaan klinikal dalam data farmakologi; tiada indikasi lesen NPRA tersedia) |
 | Indikasi Baharu yang Diramalkan | Kusta (leprosy) |
-| Skor Ramalan TxGNN | 99.70% |
-| Tahap Bukti | L3 (sementara; boleh diturunkan kepada L4 kerana bukti hanya praklinikal dan ulasan) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9970 |
+| Tahap Bukti | L5 (sementara; boleh diturunkan kepada L4 kerana bukti hanya praklinikal dan ulasan) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---

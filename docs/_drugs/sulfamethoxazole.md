@@ -6,9 +6,9 @@ nav_order: 661
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Sulfamethoxazole: indikasi baharu diramal Konjunktivitis berjangkit akut (tahap bukti L5). Indikasi asal: Otitis media berjangkit, nokardiosis, toksoplasmosis, pneumosistosis…"
 monitor_inn: "SULFAMETHOXAZOLE"
 predicted_indications: ["acute contagious conjunctivitis"]
+description: "Sulfamethoxazole: indikasi baharu diramal Konjunktivitis berjangkit akut (acute contagious conjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Sulfamethoxazole
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Sulfametoksazol: Daripada Jangkitan Bakteria kepada Konjunktivitis Berjangkit Akut
+## Sulfamethoxazole: Konjunktivitis berjangkit akut (acute contagious conjunctivitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini hanya terdapat **0 percubaan klinikal** dan **1 penerbitan** 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Otitis media berjangkit, nokardiosis, toksoplasmosis, pneumosistosis, shigellosis, konjunktivitis dan lain-lain (daripada graf pengetahuan TxGNN; tiada teks indikasi berdaftar tempatan) |
-| Indikasi Baharu yang Diramalkan | Konjunktivitis berjangkit akut |
-| Skor Ramalan TxGNN | 99.63% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Konjunktivitis berjangkit akut (acute contagious conjunctivitis) |
+| Skor Ramalan TxGNN | 0.9963 |
 | Tahap Bukti | L5 (ramalan model dengan kajian kohort sokongan yang terhad; sistem pemarkahan dalaman menyenaraikan L4) |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 15) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -64,7 +64,7 @@ Data terperinci mengenai mekanisme tindakan (MOA) ubat ini tidak tersedia dalam 
 
 Konjunktivitis berjangkit akut lazimnya disebabkan oleh bakteria (contohnya *Staphylococcus aureus*, *Streptococcus pneumoniae* dan *Haemophilus influenzae*), maka mekanisme antibakteria secara teorinya boleh digunakan. Namun, konjunktivitis sudah pun tersenarai dalam indikasi asal ubat ini, jadi ramalan ini lebih tepat dianggap indikasi yang bertindih atau dilabel semula berbanding calon pelanggaran semula yang sebenar.
 
-Skor TxGNN yang tinggi (99.63%) hanyalah ramalan pengiraan dan bukan bukti klinikal. Kesesuaian laluan pemberian (contohnya sediaan titisan mata berbanding oral) juga belum dinilai.
+Skor TxGNN yang tinggi (0.9963) hanyalah ramalan pengiraan dan bukan bukti klinikal. Kesesuaian laluan pemberian (contohnya sediaan titisan mata berbanding oral) juga belum dinilai.
 
 ---
 
@@ -84,7 +84,6 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Sulfametoksazol pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar dalam data yang dikumpulkan.
 
 ---
 
@@ -106,7 +105,7 @@ Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA tidak tersedia. S
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Bukti hanya terdiri daripada ramalan model dan satu kajian kohort retrospektif tanpa percubaan klinikal. Konjunktivitis sudah menjadi indikasi asal, ubat ini tidak dipasarkan di Malaysia, dan data keselamatan daripada sisipan pakej (jurang data bertaraf penghalang) belum tersedia.
+- Bukti hanya terdiri daripada ramalan model dan satu kajian kohort retrospektif tanpa percubaan klinikal.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi (diperlukan sebelum saringan keselamatan)

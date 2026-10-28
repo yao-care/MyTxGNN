@@ -4,15 +4,17 @@ title: Norfloxacin
 parent: Low Evidence (L4-L5)
 nav_order: 534
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Norfloxacin: indikasi baharu diramal Demam paratifoid (tahap bukti L5). Indikasi asal: Demam kepialu, salmonelosis, jangkitan saluran kencing, disentri…"
+indication_count: 10
+monitor_inn: "Norfloxacin"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
+last_modified_at: 2026-10-23
+description: "Norfloxacin: indikasi baharu diramal Polyclonal hyperviscosity syndrome (tahap bukti L5). Indikasi asal: Jangkitan bakteria (demam kepialu, salmonelosis…"
 ---
 
 # Norfloxacin
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,97 +33,105 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Norfloxacin: Daripada Demam Kepialu dan Jangkitan Saluran Kencing kepada Demam Paratifoid
+## Norfloxacin: Daripada Jangkitan Bakteria kepada Polyclonal Hyperviscosity Syndrome
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Norfloxacin ialah antibiotik fluorokuinolon yang pada asalnya digunakan untuk jangkitan bakteria seperti demam kepialu, salmonelosis, jangkitan saluran kencing dan disentri.
-Model TxGNN meramalkan ia mungkin berkesan untuk **demam paratifoid**, tetapi indikasi ini sebenarnya sudah termasuk dalam senarai indikasi asal ubat ini, jadi ia bukan penggunaan semula (*repurposing*) yang sebenar.
-Sokongan bukti setakat ini ialah **0 percubaan klinikal berdaftar** dan **7 penerbitan**, termasuk 2 kajian Cochrane dan 1 RCT kecil.
+Norfloxacin ialah antibakteria kumpulan fluoroquinolone yang pada asalnya digunakan untuk merawat jangkitan bakteria seperti jangkitan saluran kencing, demam kepialu dan disentri. Model TxGNN meramalkan ia mungkin berkesan untuk **polyclonal hyperviscosity syndrome**, tetapi **tiada sebarang percubaan klinikal mahupun penerbitan** yang menyokong ramalan ini; ia hanyalah ramalan berasaskan model.
 
 ---
 
-## Gambaran Keseluruhan
+## Gambaran Ringkas
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Demam kepialu, salmonelosis, jangkitan saluran kencing, disentri, penyakit cirit-birit dan lain-lain (berdasarkan graf pengetahuan TxGNN/PrimeKG; tiada teks indikasi lesen tempatan) |
-| Indikasi Baharu Diramalkan | Demam paratifoid |
-| Skor Ramalan TxGNN | 0.00% (skor yang direkodkan dalam data ialah 0.0) |
-| Tahap Bukti | L3 (kajian sistematik/Cochrane dan kajian kohort; tiada ≥2 RCT Fasa 3 yang selesai). Penilaian awal dalam data ialah L1, tetapi tidak memenuhi syarat L1 yang ditetapkan. |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi Asal | Jangkitan bakteria (demam kepialu, salmonelosis, jangkitan saluran kencing, bronkitis, pneumonia bakteria, disentri dan lain-lain). Ini ialah hubungan yang direkodkan dalam graf pengetahuan; teks indikasi lesen tempatan tidak tersedia. |
+| Indikasi Baharu yang Diramalkan | Polyclonal hyperviscosity syndrome |
+| Skor Ramalan TxGNN | 0.9970 |
+| Tahap Bukti | L5 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
+| Bilangan Kelulusan | 5 pendaftaran (4 produk bahan tunggal, 1 produk kombinasi) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, norfloxacin ialah fluorokuinolon yang menghalang DNA gyrase dan topoisomerase IV bakteria. Enzim ini penting untuk replikasi DNA bakteria, dan aktivitinya merangkumi serotip *Salmonella enterica* termasuk Paratyphi A.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang disusun untuk laporan ini. Secara umum diketahui bahawa norfloxacin ialah fluoroquinolone yang menghalang DNA gyrase dan topoisomerase IV bakteria, dan keberkesanannya dalam jangkitan bakteria telah dibuktikan.
 
-Demam paratifoid dan demam kepialu ialah demam enterik yang disebabkan oleh *Salmonella* yang berkait rapat. Oleh itu, kegunaan norfloxacin untuk demam kepialu dan salmonelosis secara mekanistik boleh diperluas kepada demam paratifoid. Seperti yang dinyatakan, indikasi ini sudah tersenarai dalam indikasi asal, jadi ramalan ini lebih bersifat pengesahan daripada penemuan baharu.
-
-Terdapat dua faktor yang mengehadkan kegunaan klinikal semasa. Pertama, rintangan fluorokuinolon dalam *Salmonella* Paratyphi A semakin meningkat. Kedua, norfloxacin tidak dipasarkan di Malaysia.
+Namun, polyclonal hyperviscosity syndrome disebabkan oleh lebihan imunoglobulin dan tidak mempunyai sasaran antibakteria yang jelas. **Tiada hubungan mekanistik yang munasabah dapat dikenal pasti.** Skor TxGNN yang tinggi (0.9970) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Skor ini tidak disokong oleh data percubaan atau literatur. Ramalan ini perlu dilihat sebagai isyarat komputasi, bukan rasional biologi.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [1781005](https://pubmed.ncbi.nlm.nih.gov/1781005/) | 1991 | RCT | Trans R Soc Trop Med Hyg | 40 pesakit dewasa dengan jangkitan *S. typhi* dan *S. paratyphi*. Norfloxacin 7 hari (dua kali sehari) menjanjikan sebagai alternatif kepada kloramfenikol 14 hari. Tiada komplikasi, dan tiada kesan sampingan dalam kumpulan norfloxacin. |
-| [18843659](https://pubmed.ncbi.nlm.nih.gov/18843659/) | 2008 | Ulasan (Cochrane) | Cochrane Database Syst Rev | Fluorokuinolon disyorkan sebagai terapi barisan pertama untuk demam enterik, tetapi perbandingan dengan antibiotik lain dan antara fluorokuinolon belum jelas. |
-| [15846718](https://pubmed.ncbi.nlm.nih.gov/15846718/) | 2005 | Ulasan (Cochrane) | Cochrane Database Syst Rev | Versi terdahulu ulasan yang sama, dengan persoalan yang sama mengenai perbandingan dengan antibiotik lebih murah dan antara fluorokuinolon. |
-| [11197787](https://pubmed.ncbi.nlm.nih.gov/11197787/) | 2000 | Kohort | Intern Med | Kajian kesan sampingan dan kesan terapeutik fluorokuinolon oral untuk demam kepialu dan paratifoid di Jepun. |
-| [18383953](https://pubmed.ncbi.nlm.nih.gov/18383953/) | 2007 | Kohort | J Indian Med Assoc | 145 kes demam enterik kanak-kanak (positif kultur darah) yang meneliti profil klinikal dan pola kepekaan antibiotik *S. typhi* dan *S. paratyphi*. |
-| [27188369](https://pubmed.ncbi.nlm.nih.gov/27188369/) | 2016 | Kohort | Zhonghua Liu Xing Bing Xue Za Zhi | Kajian rintangan ubat dan penaipan molekul PFGE bagi *S. paratyphi* A di Dengfeng, Henan, 2009-2015. |
-| [17164172](https://pubmed.ncbi.nlm.nih.gov/17164172/) | 2006 | Kohort | Int J Environ Health Res | Prevalens *S.* Paratyphi-A meningkat di kawasan kumuh Kolkata. Hampir semua isolat peka terhadap gentamisin dan norfloxacin. |
+Pada masa ini tiada literatur berkaitan tersedia.
+
+---
+
+## Maklumat Pasaran Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL20162622HAE | N-20% w/v Oral Solution (produk kombinasi) | – | – |
+| MAL17107101HAE | PBAC NORFLOXACIN 200mg/ml ORAL SOLUTION | – | – |
+| MAL19921583AZ | JANACIN TABLET | – | – |
+| MAL19985187AZ | NORGAN TABLET 400MG | – | – |
+| MAL19930497AZ | NORFOX TABLET | – | – |
+
+Semua lima pendaftaran berstatus sah. Teks indikasi diluluskan tidak tersedia dalam data yang disusun. Pendaftaran produk kombinasi (MAL20162622HAE) tidak boleh digunakan untuk menggambarkan status kelulusan norfloxacin bahan tunggal.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-**Kontraindikasi (berdasarkan graf pengetahuan TxGNN/PrimeKG, bukan teks label produk):** graf pengetahuan mengaitkan norfloxacin dengan keadaan berikut:
-- **Jantung dan elektrolit:** sindrom QT panjang (termasuk yang familial), *torsades de pointes*, kekurangan kalium.
-- **Hati dan buah pinggang:** kegagalan hati, penyakit hati, sirosis hati, penyakit buah pinggang, penyakit pundi hempedu.
-- **Saraf dan psikiatri:** epilepsi, penyakit sistem saraf periferi, neuropati periferi, gangguan mental (termasuk gangguan psikotik, skizoafektif dan kebimbangan).
-- **Otot dan tendon:** tendonitis, periartritis, rabdomiolisis.
-- **Metabolik:** diabetes mellitus, ketoasidosis diabetik.
-- **Darah:** trombositopenia, anemia (termasuk anemia makrositik).
+- **Penyakit yang direkodkan sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): sindrom QT panjang, torsades de pointes, kegagalan hati, penyakit hati dan sirosis, penyakit buah pinggang, epilepsi, gangguan mental (psikotik, kebimbangan), tendinitis, neuropati periferal, rabdomiolisis, diabetes mellitus dan ketoasidosis diabetes, trombositopenia, anemia, kekurangan kalium, dan lain-lain.
+- **Interaksi Ubat** (100 interaksi direkodkan; contoh utama):
+  - **Major**: hydrocortisone, dexamethasone, betamethasone, triamcinolone (kortikosteroid), bupropion, chlorpropamide.
+  - **Moderate**: ubat antidiabetes (metformin, pioglitazone, acarbose, alogliptin, canagliflozin, albiglutide), famotidine, loperamide, aspirin, kalsium asetat/fosfat, bisacodyl, kalium sitrat, balsalazide.
 
-**Interaksi Ubat:** pangkalan data interaksi mengenal pasti 100 interaksi, dan 20 ditunjukkan dalam data yang dikompilasi. Interaksi tahap **Major** ialah:
-- Kortikosteroid: hidrokortison, triamsinolon, deksametason, betametason.
-- Bupropion.
-- Klorpropamid.
-
-Interaksi tahap **Moderate** termasuk ubat antidiabetes (metformin, pioglitazon, alogliptin, kanagliflozin, albiglutid, akarbosa), aspirin, famotidin, loperamid, balsalazid, bisakodil serta garam kalsium dan kalium sitrat.
-
-Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej produk.
+Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi, kerana data label tidak tersedia.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Demam paratifoid sudah termasuk dalam indikasi asal norfloxacin, jadi ia bukan penggunaan semula yang baharu. Bukti yang ada terhad kepada 1 RCT kecil (1991) dan kajian Cochrane, dan tiada percubaan klinikal berdaftar.
-- Rintangan fluorokuinolon yang meningkat dalam *Salmonella* Paratyphi A dan status "tidak dipasarkan" di Malaysia mengehadkan kegunaan semasa.
-- Ramalan lain bagi ubat ini (cirit-birit, pneumonia klamidia, konjungtivitis berjangkit akut, endomiometritis) juga berstatus Hold. Hanya cirit-birit mempunyai RCT berkaitan (1992). Yang lain hanya bersandarkan bukti tidak langsung atau ramalan model.
+- Tiada percubaan klinikal, tiada literatur, dan tiada hubungan mekanistik yang munasabah untuk polyclonal hyperviscosity syndrome; ramalan ini hanya berasaskan model (L5).
+- Norfloxacin mempunyai profil keselamatan yang memerlukan kewaspadaan, termasuk interaksi major dengan kortikosteroid dan hubungan dengan tendinitis dan neuropati periferal.
 
-**Untuk meneruskan, perlu dilengkapkan:**
-- Sisipan pakej dan maklumat amaran/kontraindikasi rasmi daripada NPRA, kerana data keselamatan label belum tersedia.
-- Data mekanisme tindakan rasmi (MOA) daripada DrugBank.
-- Data kepekaan dan rintangan terkini *Salmonella* Typhi/Paratyphi di Malaysia dan rantau sekitar.
-- Penilaian pilihan fluorokuinolon atau antibiotik lain yang sudah berdaftar dan dipasarkan di Malaysia.
-- Pelan pemantauan keselamatan untuk populasi berisiko (pesakit dengan QT panjang, epilepsi, diabetes, atau yang menggunakan kortikosteroid).
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang lengkap.
+- Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang saringan keselamatan).
+- Sebarang bukti praklinikal atau klinikal yang mengkaji norfloxacin secara langsung dalam penyakit ini.
+
+---
+
+### Nota: Ramalan Lain dalam Kedudukan Teratas
+
+Sembilan ramalan seterusnya turut tidak mempunyai asas yang kukuh dan semuanya berstatus **Hold** kecuali septicemic plague:
+
+| Kedudukan | Penyakit | Skor | Tahap Bukti | Ulasan |
+|---|---|---|---|---|
+| 2 | Hyperamylasemia | 0.9970 | L5 | Penemuan makmal; tiada rasional mekanistik |
+| 3 | Congenital analbuminemia | 0.9967 | L5 | Gangguan genetik; mungkin mencerminkan persamaan yang dipelajari model TxGNN (pembelajaran mendalam) |
+| 4 | Blood group incompatibility | 0.9955 | L5 | Proses imun; tiada kaitan |
+| 5 | Punctate epithelial keratoconjunctivitis | 0.9954 | L5 | Dua laporan kes tentang keratokonjunktivitis mikrosporidia tidak mengkaji norfloxacin secara langsung |
+| 6 | Premalignant hematological system disease | 0.9948 | L5 | Tiada data |
+| 7 | Diffuse scleroderma | 0.9944 | L5 | Tiada rasional; amaran ketoksikan tisu penghubung fluoroquinolone |
+| 8 | Monoclonal gammopathy | 0.9942 | L5 | Satu kajian rintangan antimikrob, bukan bukti keberkesanan |
+| 9 | Hematological disease associated with acquired peripheral neuropathy | 0.9938 | L5 | Fluoroquinolone sendiri boleh menyebabkan neuropati |
+| 10 | Septicemic plague | 0.9937 | L5 | Rasional antibakteria munasabah pada tahap kelas ubat; dua kajian praklinikal tidak mengkaji norfloxacin pada manusia, jadi tahap bukti ditetapkan L5; disyorkan sebagai persoalan penyelidikan |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

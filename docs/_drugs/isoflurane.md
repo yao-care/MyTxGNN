@@ -6,9 +6,9 @@ nav_order: 430
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Isoflurane: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Indikasi asal: Anestesia am"
 monitor_inn: "ISOFLURANE"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "manic bipolar affective disorder", "trichotillomania", "dysthymic disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
+description: "Isoflurane: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Isoflurane
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-## Isoflurane: Daripada Anestesia Am kepada Prinzmetal Angina
+## Isoflurane: Prinzmetal angina
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Isoflurane ialah agen anestetik am jenis sedutan (inhalasi) yang telah lama digunakan untuk anestesia semasa pembedahan. Namun, data yang dikumpulkan untuk laporan ini tidak mengandungi teks indikasi asal yang berdaftar di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Prinzmetal angina** (skor 99.67%), tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini; ia hanyalah ramalan model (tahap bukti L5).
+Model TxGNN meramalkan ia mungkin berkesan untuk **Prinzmetal angina** (skor 0.9967), tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini; ia hanyalah ramalan model (tahap bukti L5).
 
 ---
 
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Prinzmetal angina** (skor 99.
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Anestesia am (tiada teks indikasi berdaftar tempatan dalam data) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Prinzmetal angina |
-| Skor Ramalan TxGNN | 99.67% |
+| Skor Ramalan TxGNN | 0.9967 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -113,7 +113,7 @@ Sila rujuk sisipan pek (package insert) untuk maklumat amaran dan kontraindikasi
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan Prinzmetal angina hanya berasaskan model (L5), tanpa ujian klinikal atau literatur, dan produk ini tidak dipasarkan di Malaysia. Pertimbangan keselamatan (contohnya risiko hipertermia malignan, hipotensi, interaksi utama dengan epinefrin) serta ketidaksesuaian laluan dan tetapan anestetik untuk keadaan kronik turut mengehadkan kebolehlaksanaan.
+- Pertimbangan keselamatan (contohnya risiko hipertermia malignan, hipotensi, interaksi utama dengan epinefrin) serta ketidaksesuaian laluan dan tetapan anestetik untuk keadaan kronik turut mengehadkan kebolehlaksanaan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) daripada DrugBank
@@ -129,12 +129,12 @@ Selain Prinzmetal angina, model juga meramalkan indikasi berikut. Semuanya berad
 
 | Kedudukan | Penyakit | Skor TxGNN | Tahap Bukti | Cadangan |
 |------|------|------|------|------|
-| 2 | Sindrom Tourette | 99.61% | L5 | Hold |
-| 3 | Gangguan afektif bipolar jenis mania | 99.57% | L4 | Soalan Penyelidikan |
-| 4 | Trikotilomania | 99.54% | L5 | Hold |
-| 5 | Gangguan distimik | 99.27% | L5 | Hold |
-| 6 | Sindrom antidiuresis tidak wajar nefrogenik | 99.09% | L5 | Hold |
-| 7 | Gangguan migrain | 99.06% | L4 | Soalan Penyelidikan |
+| 2 | Sindrom Tourette | 0.9961 | L5 | Hold |
+| 3 | Gangguan afektif bipolar jenis mania | 0.9957 | L5 | Soalan Penyelidikan |
+| 4 | Trikotilomania | 0.9954 | L5 | Hold |
+| 5 | Gangguan distimik | 0.9927 | L5 | Hold |
+| 6 | Sindrom antidiuresis tidak wajar nefrogenik | 0.9909 | L5 | Hold |
+| 7 | Gangguan migrain | 0.9906 | L4 | Soalan Penyelidikan |
 
 **Gangguan bipolar (mania):** Bukti tidak langsung sahaja. Kajian label terbuka 1993 (PMID 8462536) membandingkan anestesia isoflurane letusan-penindasan dengan terapi kejutan elektrik (ECT) dalam kemurungan teruk, serta kajian PET model haiwan mania (PMID 18930636). Tiada data terkawal pada manusia.
 

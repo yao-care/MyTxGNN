@@ -6,9 +6,9 @@ nav_order: 655
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
-description: "Sorbitol: indikasi baharu diramal Hipertermia malignan akibat senaman (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "SORBITOL"
 predicted_indications: ["exercise-induced malignant hyperthermia"]
+description: "Sorbitol: indikasi baharu diramal Hipertermia malignan akibat senaman (exercise-induced malignant hyperthermia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Sorbitol
@@ -33,12 +33,11 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Sorbitol: Daripada Tiada Indikasi Berdaftar kepada Hipertermia Malignan Akibat Senaman
+## Sorbitol: Hipertermia malignan akibat senaman (exercise-induced malignant hyperthermia)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Sorbitol ialah alkohol gula dengan aktiviti osmotik, namun tiada indikasi asal yang berdaftar dalam data yang dikumpulkan untuk laporan ini.
 Model TxGNN meramalkan ia mungkin berkesan untuk **hipertermia malignan akibat senaman (exercise-induced malignant hyperthermia)**,
 tetapi pada masa ini **tiada kajian klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model.
 
@@ -48,23 +47,23 @@ tetapi pada masa ini **tiada kajian klinikal** dan **tiada penerbitan** yang men
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
-| Indikasi Baharu yang Diramalkan | Hipertermia malignan akibat senaman |
-| Skor Ramalan TxGNN | 99.40% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Hipertermia malignan akibat senaman (exercise-induced malignant hyperthermia) |
+| Skor Ramalan TxGNN | 0.9940 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan yang Disyorkan | Hold (Tangguhkan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data terperinci mengenai mekanisme tindakan tidak tersedia. Sorbitol ialah alkohol gula dengan sifat osmotik, tetapi tiada indikasi asal yang direkodkan dan ia tidak dipasarkan di Malaysia, maka tiada asas klinikal yang jelas untuk dikaitkan dengan indikasi baharu.
+Pada masa ini, data terperinci mengenai mekanisme tindakan tidak tersedia.
 
 Tiada hubungan mekanistik yang kukuh dapat dikenal pasti. Hipertermia malignan berpunca daripada pelepasan kalsium otot rangka yang tidak terkawal (melibatkan RYR1/CACNA1S), dan rawatan standardnya ialah dantrolene yang bertindak pada reseptor ryanodine. Sorbitol tidak diketahui memberi kesan pada laluan ini. Mana-mana kaitan pada ketika ini hanyalah spekulasi.
 
-Skor TxGNN yang tinggi (0.994) hanyalah ramalan graf pengetahuan dan tidak boleh dianggap sebagai bukti keberkesanan.
+Skor TxGNN yang tinggi (0.994) hanyalah ramalan model TxGNN (pembelajaran mendalam) dan tidak boleh dianggap sebagai bukti keberkesanan.
 
 ---
 
@@ -99,7 +98,6 @@ Sila rujuk sisipan pek untuk maklumat keselamatan yang lengkap, kerana amaran da
 **Keputusan: Hold (Tangguhkan)**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (tahap bukti L5) tanpa sebarang ujian klinikal atau literatur, tiada hubungan mekanistik yang munasabah, dan ubat ini tidak dipasarkan di Malaysia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) daripada DrugBank

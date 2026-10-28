@@ -4,17 +4,17 @@ title: Chlorambucil
 parent: Low Evidence (L4-L5)
 nav_order: 212
 evidence_level: L5
-indication_count: 8
-last_modified_at: 2026-10-15
-description: "Chlorambucil: indikasi baharu diramal CLL/SLL dengan hipermutasi somatik gen IGHV (tahap bukti L5). Indikasi asal: Limfoma Hodgkin, limfoma folikular…"
+indication_count: 7
 monitor_inn: "CHLORAMBUCIL"
-predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
+predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
+last_modified_at: 2026-10-23
+description: "Chlorambucil: indikasi baharu diramal Leukemia limfositik kronik/limfoma limfositik kecil pra-pusat germinal (tahap bukti L4). Indikasi asal: Limfoma Hodgkin dan penyakit limfoid lain (hubungan direk…"
 ---
 
 # Chlorambucil
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **8** 
+Tahap bukti: **L5** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,12 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-## Chlorambucil: Daripada Limfoma Hodgkin kepada Leukemia Limfositik Kronik/Limfoma Limfositik Kecil (CLL/SLL) dengan Hipermutasi Somatik Gen IGHV
+## Chlorambucil: Daripada Limfoma Hodgkin kepada Leukemia Limfositik Kronik/Limfoma Limfositik Kecil Pra-Pusat Germinal
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Chlorambucil ialah agen pengalkil (alkylating agent) yang pada asalnya digunakan untuk merawat limfoma Hodgkin, limfoma folikular dan leukemia limfoblastik akut.
-Model TxGNN meramalkan ia mungkin berkesan untuk **CLL/SLL dengan hipermutasi somatik gen IGHV**.
-Pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong subjenis ini secara khusus, jadi ramalan ini masih pada peringkat model sahaja.
+Chlorambucil ialah agen pengalkil sitotoksik. Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **leukemia limfositik kronik/limfoma limfositik kecil pra-pusat germinal** dengan skor 0.9972. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Setakat ini hanya **1 ulasan literatur** dan **tiada ujian klinikal berdaftar** menyokong ramalan ini secara langsung.
 
 ---
 
@@ -48,79 +46,89 @@ Pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Limfoma Hodgkin, limfoma folikular, leukemia limfoblastik/limfositik akut, neoplasma sel B matang, sindrom Richter |
-| Indikasi Baharu yang Diramalkan | CLL/SLL dengan hipermutasi somatik gen IGHV |
-| Skor Ramalan TxGNN | 99.72% |
+| Indikasi Asal | Limfoma Hodgkin dan penyakit limfoid lain (hubungan direkodkan dalam graf pengetahuan; teks indikasi dalam lesen tempatan tiada) |
+| Indikasi Baharu yang Diramalkan | Leukemia limfositik kronik/limfoma limfositik kecil pra-pusat germinal |
+| Skor Ramalan TxGNN | 0.9972 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Tangguh) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
+| Bilangan Lesen | 1 |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) belum tersedia. Berdasarkan maklumat yang diketahui, chlorambucil ialah agen pengalkil yang merosakkan DNA sel malignan, dan keberkesanannya dalam beberapa keganasan sel B telah dibuktikan. Secara mekanistik, ia mungkin boleh digunakan untuk CLL/SLL subjenis ini.
+Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Chlorambucil tergolong dalam kelas agen pengalkil, yang merosakkan DNA sel yang membahagi. Kesan ini berkaitan dengan penyakit limfoid yang telah direkodkan dalam graf pengetahuan, dan secara mekanistik mungkin terpakai pada subjenis leukemia limfositik kronik ini.
 
-CLL/SLL secara amnya sudah dikenali sebagai sasaran rawatan chlorambucil. Subjenis dengan hipermutasi IGHV hanyalah subset molekul dalam penyakit yang sama. Skor TxGNN yang sangat tinggi ini kemungkinan besar mencerminkan **kedekatan dalam ontologi penyakit**, bukan penemuan klinikal baharu. Tiada ujian atau kajian khusus subjenis yang dikompilasi untuk menyokong hubungan ini.
+Skor TxGNN yang tinggi (0.9972) kemungkinan besar mencerminkan kedekatan penyakit ini dengan keluarga neoplasma sel B yang sudah dikaitkan dengan ubat tersebut. Ia belum tentu menunjukkan bukti baharu untuk subjenis ini. Satu-satunya item sokongan ialah ulasan 2003 mengenai pendekatan rawatan berasaskan risiko. Ulasan itu membincangkan penyakit ini tetapi tidak menilai chlorambucil. Tiada data ujian khusus subjenis ini.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia.
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [12577769](https://pubmed.ncbi.nlm.nih.gov/12577769/) | 2003 | Ulasan | Nederlands tijdschrift voor geneeskunde | CLL mempunyai dua subjenis, termasuk jenis pra-pusat germinal dengan gen IGHV tidak bermutasi. Kira-kira 50% pesakit Binet A memerlukan rawatan dan lebih 25% meninggal akibat CLL. Ulasan ini menyokong pendekatan berasaskan risiko dan tidak menilai chlorambucil. |
+
+---
+
+## Maklumat Pasaran di Malaysia
+
+| Nombor Lesen | Nama Produk | Pengeluar |
+|---------|------|------|
+| MAL04125474ACZ | Leukeran Tablets 2mg | Aspen Medical Products Malaysia Sdn Bhd |
+
+Lesen ini berstatus sah dan merupakan produk bahan tunggal. Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan, jadi indikasi berlesen tempatan tidak dapat disahkan.
 
 ---
 
 ## Sitotoksisiti
 
-Chlorambucil ialah ubat antineoplastik, maka bahagian ini disertakan. Maklumat di bawah berdasarkan klasifikasi am agen pengalkil kerana data ketoksikan terperinci tidak termasuk dalam data yang dikompilasi untuk laporan ini.
-
 | Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (agen pengalkil, kelas nitrogen mustard) |
-| Risiko Penindasan Sumsum Tulang | Sederhana hingga tinggi (neutropenia, trombositopenia dan anemia boleh berlaku) |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (agen pengalkil) |
+| Risiko Penindasan Sumsum Tulang | Tinggi. Penindasan sumsum tulang ialah toksisiti utama kelas ini, dan graf pengetahuan mengaitkan neutropenia, trombositopenia, leukopenia dan anemia sebagai kontraindikasi. |
 | Klasifikasi Emetogenisiti | Rendah |
-| Perkara yang Perlu Dipantau | Hitung darah penuh (CBC dengan pembezaan), fungsi hati dan buah pinggang |
-| Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
+| Item Pemantauan | Hitung darah penuh dengan pembezaan, fungsi hati dan buah pinggang |
+| Perlindungan Pengendalian | Perlu mengikut peraturan pengendalian ubat sitotoksik |
+
+Sila rujuk amaran dan langkah berjaga-jaga dalam sisip bungkusan untuk maklumat lanjut.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Penyakit/keadaan yang dikaitkan dengan kontraindikasi dalam graf pengetahuan TxGNN (PrimeKG)**. Ini bukan teks label produk rasmi:
-  - Gangguan hematologi: trombositopenia, neutropenia, agranulositosis, leukopenia, limfopenia, anemia (termasuk anemia makrositik)
-  - Leukemia akut (termasuk leukemia akut berfenotip campuran)
-  - Paru-paru: penyakit paru interstisial, fibrosis pulmonari
-  - Buah pinggang: sindrom nefrotik (termasuk sindrom nefrotik familial dan nefrosis lipoid)
-  - Lain-lain: epilepsi, kecederaan hati aruhan ubat
-- **Interaksi Ubat**: 100 interaksi direkodkan. Antara yang utama ialah:
-  - **Major**: Deferiprone, Samarium (153Sm) lexidronam
-  - **Moderate**: Amphotericin B (termasuk formulasi lipid, kolesteril sulfat dan liposomal), Palifermin, Strontium chloride Sr-89, Mercaptopurine, Roflumilast, Chloramphenicol
+- **Kontraindikasi dalam graf pengetahuan** (bukan teks label): epilepsi, trombositopenia, neutropenia, agranulositosis, leukopenia, limfopenia, anemia, sindrom nefrotik, penyakit paru-paru interstisial, fibrosis pulmonari, kecederaan hati aruhan ubat dan leukemia akut.
+- **Interaksi ubat** (100 interaksi direkodkan; yang utama disenaraikan):
+  - **Major**: deferiprone, samarium (153Sm) lexidronam.
+  - **Sederhana**: amphotericin B (termasuk bentuk lipid dan liposom), palifermin, strontium klorida Sr-89, mercaptopurine, roflumilast, chloramphenicol.
+  - **Minor**: levofloxacin.
 
-Sila rujuk sisipan pakej (package insert) untuk maklumat amaran dan kontraindikasi rasmi.
+Amaran dan kontraindikasi daripada label tempatan tidak tersedia. Sila rujuk sisip bungkusan untuk maklumat keselamatan yang rasmi.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tangguh)**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa ujian klinikal atau literatur khusus subjenis. Chlorambucil tidak dipasarkan di Malaysia (0 pendaftaran), dan skor yang tinggi kemungkinan besar mencerminkan kedekatan ontologi dengan CLL/SLL yang sudah diketahui.
+- Tiada ujian klinikal dan hanya satu ulasan umum menyokong subjenis ini. Skor model yang tinggi tidak dapat menggantikan bukti khusus.
+- Teks indikasi dalam lesen tempatan dan maklumat keselamatan label juga tidak tersedia.
 
-**Untuk diteruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) yang terperinci
-- Amaran dan kontraindikasi daripada sisipan pakej rasmi, kerana saringan keselamatan belum boleh dijalankan tanpanya
-- Bukti klinikal khusus subjenis IGHV-termutasi, dan penilaian sama ada chlorambucil masih relevan berbanding terapi semasa untuk CLL/SLL
-- Pengesahan status pendaftaran dan ketersediaan produk di Malaysia
-- Untuk rujukan: antara ramalan lain dalam data yang dikompilasi, **limfoma paru primer** (terutamanya limfoma MALT paru) mempunyai bukti yang lebih banyak (L3, bukti retrospektif dan garis panduan) dan wajar dipertimbangkan sebagai persoalan penyelidikan susulan
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Muat turun dan huraikan sisip bungkusan NPRA untuk mengesahkan indikasi berlesen, amaran dan kontraindikasi.
+- Data mekanisme tindakan terperinci daripada DrugBank.
+- Kajian atau ujian khusus yang menilai chlorambucil dalam subjenis CLL/SLL ini.
+- Pelan pemantauan keselamatan hematologi untuk populasi sasaran.
+- Calon lain dalam senarai, seperti limfoma pulmonari primer (bukti L3), mempunyai bukti klinikal yang lebih banyak dan boleh dinilai secara berasingan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -3,18 +3,18 @@ layout: default
 title: Fimasartan
 parent: Low Evidence (L4-L5)
 nav_order: 358
-evidence_level: L4
-indication_count: 4
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Fimasartan: indikasi baharu diramal Hipertensi pulmonari akibat penyakit paru-paru dan/atau hipoksia (tahap bukti L4). Indikasi asal: Hipertensi (hypertensive disorder / hypertension)"
 monitor_inn: "fimasartan"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease"]
+description: "Fimasartan: indikasi baharu diramal Pulmonary hypertension owing to lung disease and/or hypoxia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Fimasartan
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **4** 
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **4**
 
 </div>
 
-## Fimasartan: Daripada Hipertensi kepada Hipertensi Pulmonari Akibat Penyakit Paru-paru dan/atau Hipoksia
+## Fimasartan: Pulmonary hypertension owing to lung disease and/or hypoxia
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi setakat ini terdapat **0 ujian klinikal** dan hanya **1 penerbitan** (kaj
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Hipertensi (hypertensive disorder / hypertension) |
-| Indikasi Baharu yang Diramalkan | Hipertensi pulmonari akibat penyakit paru-paru dan/atau hipoksia |
-| Skor Ramalan TxGNN | 99.20% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Pulmonary hypertension owing to lung disease and/or hypoxia |
+| Skor Ramalan TxGNN | 0.9920 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -96,7 +96,7 @@ Pertimbangan keselamatan daripada penilaian mekanistik:
 **Keputusan: Hold (Tangguh)**
 
 **Justifikasi:**
-- Ramalan hanya disokong oleh skor model (L4), tanpa ujian klinikal dan hanya satu kajian praklinikal yang tidak langsung. Ubat ini juga tidak dipasarkan di Malaysia, dan data keselamatan tempatan tidak tersedia.
+- Ramalan hanya disokong oleh skor model (L4), tanpa ujian klinikal dan hanya satu kajian praklinikal yang tidak langsung.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci
@@ -113,9 +113,9 @@ Indikasi lain dalam senarai ramalan juga berada pada tahap **Hold**:
 
 | Kedudukan | Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Catatan |
 |------|------|------|------|------|
-| 2 | Hipertensi pulmonari dengan mekanisme multifaktor yang tidak jelas | 99.20% | L5 | Tiada ujian klinikal atau literatur; etiologi tidak jelas melemahkan inferens mekanistik |
-| 3 | Hipertensi renovaskular malignan | 99.16% | L5 | Sambungan indikasi hipertensi sedia ada; risiko penurunan fungsi buah pinggang akut pada stenosis arteri renal bilateral atau buah pinggang tunggal |
-| 4 | Penyakit buah pinggang hipertensif malignan | 99.16% | L5 | Rasional renoprotektif munasabah tetapi tiada bukti khusus fimasartan; perlu menilai hiperkalemia dan kecederaan buah pinggang akut |
+| 2 | Hipertensi pulmonari dengan mekanisme multifaktor yang tidak jelas | 0.9920 | L5 | Tiada ujian klinikal atau literatur; etiologi tidak jelas melemahkan inferens mekanistik |
+| 3 | Hipertensi renovaskular malignan | 0.9916 | L5 | Sambungan indikasi hipertensi sedia ada; risiko penurunan fungsi buah pinggang akut pada stenosis arteri renal bilateral atau buah pinggang tunggal |
+| 4 | Penyakit buah pinggang hipertensif malignan | 0.9916 | L5 | Rasional renoprotektif munasabah tetapi tiada bukti khusus fimasartan; perlu menilai hiperkalemia dan kecederaan buah pinggang akut |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

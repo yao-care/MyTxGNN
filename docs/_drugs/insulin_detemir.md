@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Insulin Detemir
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 419
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Insulin Detemir: indikasi baharu diramal Diabetes mellitus jenis 1 (tahap bukti L1). Indikasi asal: Diabetes mellitus"
 monitor_inn: "INSULIN DETEMIR"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
+description: "Insulin Detemir: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Insulin Detemir
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-## Insulin Detemir: Daripada Diabetes Mellitus kepada Diabetes Mellitus Jenis 1
+## Insulin Detemir: Autoimmune oophoritis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ dengan **38 ujian klinikal** dan **20 penerbitan** yang menyokong arah ini. Perl
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Diabetes mellitus; ketoasidosis diabetik |
-| Indikasi Baharu yang Diramalkan | Diabetes mellitus jenis 1 |
-| Skor Ramalan TxGNN | 99.77% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Autoimmune oophoritis |
+| Skor Ramalan TxGNN | 0.9967 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Pagar Pengadang) |
 
 ---
@@ -104,7 +104,7 @@ Berikut ialah 10 ujian yang paling relevan (daripada 38 ujian yang ditemui).
 
 ## Maklumat Pasaran Malaysia
 
-Menurut data yang dikumpulkan untuk laporan ini, insulin detemir **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar (jumlah pendaftaran: 0). Oleh itu, jadual pendaftaran tidak dipaparkan.
+Oleh itu, jadual pendaftaran tidak dipaparkan.
 
 ---
 
@@ -126,7 +126,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 **Keputusan: Proceed with Guardrails**
 
 **Rasional:**
-- Beberapa ujian Fasa 3 yang selesai (cth. NCT00595374, NCT00447382, NCT00312156, NCT00184639) dan beberapa ulasan sistematik menyokong penggunaan detemir dalam T1D, maka tahap bukti ialah L1. Namun, ini ialah indikasi sedia ada dan bukan repurposing sebenar, dan produk ini tidak dipasarkan di Malaysia.
+- Beberapa ujian Fasa 3 yang selesai (cth. NCT00595374, NCT00447382, NCT00312156, NCT00184639) dan beberapa ulasan sistematik menyokong penggunaan detemir dalam T1D, maka tahap bukti ialah L1.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Mengesahkan status pendaftaran dan ketersediaan di Malaysia (NPRA), memandangkan tiada lesen berdaftar

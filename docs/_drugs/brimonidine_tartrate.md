@@ -8,6 +8,7 @@ nav_order: 165
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Brimonidine Tartrate
@@ -49,8 +50,8 @@ Brimonidine tartrate ialah agonis adrenergik alfa-2 yang digunakan secara meluas
 | Indikasi Baru yang Diramal | **Tiada** — TxGNN mengembalikan tiada ramalan |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | **L5** (Tiada ramalan, tiada kajian sokongan) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 9 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

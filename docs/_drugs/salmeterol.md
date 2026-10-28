@@ -4,17 +4,17 @@ title: Salmeterol
 parent: High Evidence (L1-L2)
 nav_order: 637
 evidence_level: L1
-indication_count: 7
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Salmeterol: indikasi baharu diramal Bronkitis (tahap bukti L1). Indikasi asal: Emfisema pulmonari, asma intrinsik…"
 monitor_inn: "salmeterol"
 predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
+description: "Salmeterol: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Salmeterol
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **7** 
+Tahap bukti: **L1** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **7**
 
 </div>
 
-## Salmeterol: Daripada Emfisema Pulmonari/Asma kepada Bronkitis
+## Salmeterol: Bronkitis (bronchitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Perlu diberi perhatian bahawa indikasi ini sangat hampir dengan indikasi asal (p
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Emfisema pulmonari, asma intrinsik, asma alergik (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen tempatan) |
-| Indikasi Baharu yang Diramalkan | Bronkitis |
-| Skor Ramalan TxGNN | 99.92% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Bronkitis (bronchitis) |
+| Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 18 daripada 18) |
+| Bilangan Pendaftaran | 18 (sah: 18) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
@@ -103,7 +103,6 @@ Bronkitis kronik dan emfisema kedua-duanya berada di bawah COPD, iaitu indikasi 
 
 ## Maklumat Pasaran Malaysia
 
-Menurut data yang dikumpulkan untuk laporan ini, salmeterol **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar.
 
 ---
 
@@ -123,7 +122,7 @@ Menurut data yang dikumpulkan untuk laporan ini, salmeterol **tidak dipasarkan**
 **Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
 **Rasional:**
-- Beberapa ujian Fasa 3 yang selesai dalam COPD/bronkitis kronik menyokong penggunaan salmeterol, dan indikasi ini hampir sepadan dengan indikasi asal, maka tahap bukti L1. Namun produk ini tidak dipasarkan di Malaysia dan data keselamatan label tidak tersedia.
+- Beberapa ujian Fasa 3 yang selesai dalam COPD/bronkitis kronik menyokong penggunaan salmeterol, dan indikasi ini hampir sepadan dengan indikasi asal, maka tahap bukti L1.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang penyaringan keselamatan)
@@ -139,12 +138,10 @@ Indikasi lain yang diramalkan tidak dijadikan fokus laporan ini:
 
 | Indikasi | Skor | Tahap Bukti | Cadangan |
 |------|------|------|------|
-| Penyakit paru obstruktif | 99.89% | L1 | Proceed with Guardrails (sepadan dengan label; bukan penggunaan semula baharu) |
-| Asma | 99.78% | L1 | Proceed with Guardrails (indikasi asal yang sedia ada) |
-| Atopik ekzema | 99.39% | L4 | Research Question (hanya kajian mekanistik/praklinikal) |
-| Malformasi pernafasan | 99.91% | L4 | Hold (kaitan lemah) |
-| Sindrom Rienhoff | 99.89% | L5 | Hold (tiada bukti) |
-| Sifat berkaitan asma, kerentanan | 99.52% | L5 | Hold (kategori genetik, bukan keadaan boleh dirawat) |
+| Penyakit paru obstruktif | 0.9989 | L1 | Proceed with Guardrails (sepadan dengan label; bukan penggunaan semula baharu) |
+| Atopik ekzema | 0.9939 | L5 | Research Question (hanya kajian mekanistik/praklinikal) |
+| Malformasi pernafasan | 0.9991 | L5 | Hold (kaitan lemah) |
+| Sindrom Rienhoff | 0.9989 | L5 | Hold (tiada bukti) |
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

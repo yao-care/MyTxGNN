@@ -7,13 +7,14 @@ drugbank_id: "DB02701"
 drug_name: "Nicotinamide"
 kg_predictions: 42
 dl_predictions: 35
-evidence_level: "L5"
+evidence_level: L5
 indication_count: 0
 brands: []
 permalink: /drugs/nicotinamide/
 nav_exclude: true
 search_exclude: true
 last_modified_at: 2026-03-30
+predicted_indications: []
 ---
 
 # Nicotinamide
@@ -39,7 +40,7 @@ last_modified_at: 2026-03-30
 
 ## Petunjuk Diramalkan
 
-Ubat ini mempunyai **42** ramalan graf pengetahuan dan **35** ramalan pembelajaran mendalam berkeyakinan tinggi.
+Ubat ini mempunyai **42** ramalan model TxGNN (pembelajaran mendalam) dan **35** ramalan pembelajaran mendalam berkeyakinan tinggi.
 
 ### Ramalan KG Teratas
 

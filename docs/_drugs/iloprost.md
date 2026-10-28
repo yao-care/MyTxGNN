@@ -4,17 +4,17 @@ title: Iloprost
 parent: Low Evidence (L4-L5)
 nav_order: 409
 evidence_level: L5
-indication_count: 9
+indication_count: 4
 last_modified_at: 2026-10-15
-description: "Iloprost: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (tahap bukti L5). Indikasi asal: Hipertensi arteri pulmonari (berdasarkan graf pengetahuan TxGNN/Prime…"
 monitor_inn: "ILOPROST"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
+description: "Iloprost: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Iloprost
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **9** 
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-## Iloprost: Daripada Hipertensi Arteri Pulmonari kepada Hipotrikosis Simpleks Kulit Kepala
+## Iloprost: Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang men
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hipertensi arteri pulmonari (berdasarkan graf pengetahuan TxGNN/PrimeKG) |
-| Indikasi Baharu yang Diramalkan | Hipotrikosis simpleks kulit kepala |
-| Skor Ramalan TxGNN | 99.45% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) |
+| Skor Ramalan TxGNN | 0.9945 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -64,7 +64,7 @@ Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untu
 
 Kaitan ini bersifat teori. Beberapa analog prostaglandin F2α diketahui menggalakkan pertumbuhan rambut, manakala PGD2 menghalangnya. Kesan iloprost sebagai agonis prostasiklin ke atas pertumbuhan rambut belum pasti dan tiada data yang menyokongnya di sini.
 
-Hipotrikosis simpleks ialah keadaan keturunan monogenik. Rawatan berasaskan vasodilator tidak mungkin menangani punca genetiknya. Skor TxGNN yang sangat tinggi mungkin hanya mencerminkan kedekatan dalam graf pengetahuan dengan nod gangguan rambut lain, dan bukan rasional farmakologi yang sebenar.
+Hipotrikosis simpleks ialah keadaan keturunan monogenik. Rawatan berasaskan vasodilator tidak mungkin menangani punca genetiknya. Skor model TxGNN (pembelajaran mendalam) yang sangat tinggi mungkin hanya mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, dan bukan bukti biologi mahupun rasional farmakologi yang sebenar.
 
 ---
 

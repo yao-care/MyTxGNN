@@ -4,17 +4,17 @@ title: Tretinoin
 parent: Low Evidence (L4-L5)
 nav_order: 699
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Tretinoin: indikasi baharu diramal Rheumatoid nodulosis (tahap bukti L5). Indikasi asal: Jerawat, leukemia promielositik akut, keratosis yang diperoleh…"
 monitor_inn: "TRETINOIN"
-predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "spondyloarthropathy, susceptibility to", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
+predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
+description: "Tretinoin: indikasi baharu diramal Rheumatoid nodulosis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Tretinoin
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Tretinoin: Daripada Jerawat dan Leukemia Promielositik Akut kepada Rheumatoid Nodulosis
+## Tretinoin: Rheumatoid nodulosis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Jerawat, leukemia promielositik akut, keratosis yang diperoleh, keratoderma palmoplantar (berdasarkan graf pengetahuan TxGNN) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Rheumatoid nodulosis |
-| Skor Ramalan TxGNN | 99.84% |
+| Skor Ramalan TxGNN | 0.9984 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 12) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -84,15 +84,14 @@ Pada masa ini tiada literatur berkaitan tersedia untuk rheumatoid nodulosis.
 
 | Kedudukan | Penyakit | Skor TxGNN | Bukti | Keputusan |
 |------|------|------|------|------|
-| 2 | Artritis idiopatik juvenil poliartikular positif faktor reumatoid | 99.82% | Tiada | Hold |
-| 3 | Artritis idiopatik juvenil | 99.80% | Tiada | Hold |
-| 4 | Poliartritis kronik juvenil | 99.78% | Tiada | Hold |
-| 5 | Kerentanan spondiloartropati | 99.71% | Tiada | Hold |
-| 6 | Artritis juvenil akibat kecacatan LACC1 | 99.55% | Tiada | Hold |
-| 7 | Osteoartritis | 99.44% | 2 penerbitan, tidak menyokong | Hold |
-| 8 | Pseudoakondroplasia | 99.35% | Tiada | Hold |
-| 9 | Displasia akromesomelik, jenis Hunter-Thompson | 99.30% | Tiada | Hold |
-| 10 | Folikulitis dekalvans Quinquaud | 99.30% | Tiada | Hold |
+| 2 | Artritis idiopatik juvenil poliartikular positif faktor reumatoid | 0.9982 | Tiada | Hold |
+| 3 | Artritis idiopatik juvenil | 0.9980 | Tiada | Hold |
+| 4 | Poliartritis kronik juvenil | 0.9978 | Tiada | Hold |
+| 6 | Artritis juvenil akibat kecacatan LACC1 | 0.9955 | Tiada | Hold |
+| 7 | Osteoartritis | 0.9944 | 2 penerbitan, tidak menyokong | Hold |
+| 8 | Pseudoakondroplasia | 0.9935 | Tiada | Hold |
+| 9 | Displasia akromesomelik, jenis Hunter-Thompson | 0.9930 | Tiada | Hold |
+| 10 | Folikulitis dekalvans Quinquaud | 0.9930 | Tiada | Hold |
 
 Dua penerbitan yang diperoleh untuk osteoartritis (PMID 34745498 tentang suntikan PRP pada lutut, dan PMID 18463343 tentang laporan kes kejadian buruk akibat arsenik trioksida dalam leukemia promielositik akut) tidak menyokong penggunaan tretinoin. Yang kedua lebih merupakan isyarat keselamatan daripada bukti keberkesanan.
 

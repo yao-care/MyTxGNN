@@ -3,18 +3,18 @@ layout: default
 title: Nitrazepam
 parent: Low Evidence (L4-L5)
 nav_order: 526
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Nitrazepam: indikasi baharu diramal Gangguan tidur (memulakan dan mengekalkan tidur) (tahap bukti L4). Indikasi asal: Insomnia"
 monitor_inn: "NITRAZEPAM"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
+description: "Nitrazepam: indikasi baharu diramal Wernicke-Korsakoff syndrome (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Nitrazepam
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **3** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-## Nitrazepam: Daripada Insomnia kepada Gangguan Tidur (Memulakan dan Mengekalkan Tidur)
+## Nitrazepam: Wernicke-Korsakoff syndrome
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ Buat masa ini terdapat **0 ujian klinikal** dan **20 penerbitan** (kebanyakannya
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Insomnia; ensefalopati mioklonik awal |
-| Indikasi Baharu yang Diramalkan | Gangguan tidur (memulakan dan mengekalkan tidur) |
-| Skor Ramalan TxGNN | 99.89% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Wernicke-Korsakoff syndrome |
+| Skor Ramalan TxGNN | 0.9931 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -67,8 +67,8 @@ Indikasi yang diramalkan ini pada dasarnya sama dengan indikasi asal (insomnia).
 Bukti yang ada bersifat tidak langsung. Kebanyakan literatur ialah ulasan umum tentang hipnotik dan insomnia, dengan hanya sebilangan kecil kajian khusus nitrazepam.
 
 Dua ramalan lain (peringkat 2 dan 3) hanya disokong oleh skor model tanpa ujian klinikal atau literatur:
-- **Ensefalopati akut dengan sawan bifasik dan resapan terbatas lewat**: kaitan hanya bersifat teori melalui penindasan sawan oleh modulasi GABA-A. Tiada bukti bahawa nitrazepam mengubah perjalanan penyakit ini. Skor 99.59%, tahap bukti L5.
-- **Sindrom Wernicke-Korsakoff**: tiada rasional mekanistik yang jelas kerana penyakit ini disebabkan kekurangan tiamin. Kesan sedatif dan amnestik benzodiazepin berpotensi memburukkan gangguan kognitif. Skor 99.31%, tahap bukti L5.
+- **Ensefalopati akut dengan sawan bifasik dan resapan terbatas lewat**: kaitan hanya bersifat teori melalui penindasan sawan oleh modulasi GABA-A. Tiada bukti bahawa nitrazepam mengubah perjalanan penyakit ini.
+- **Sindrom Wernicke-Korsakoff**: tiada rasional mekanistik yang jelas kerana penyakit ini disebabkan kekurangan tiamin. Kesan sedatif dan amnestik benzodiazepin berpotensi memburukkan gangguan kognitif. Skor 0.9931, tahap bukti L5.
 
 ---
 
@@ -113,13 +113,11 @@ Literatur turut menyatakan risiko kesan sisa pada siang hari, jatuh, kebergantun
 
 **Rasional:**
 - Ramalan utama pada dasarnya sama dengan indikasi asal, jadi ia bukan pengitaran semula yang sebenar dan tidak menambah nilai baharu. Tiada ujian klinikal, dan bukti literatur bersifat tidak langsung (tahap L4). Dua ramalan lain hanya disokong oleh skor model (L5) dan tidak mempunyai rasional mekanistik yang kukuh.
-- Nitrazepam tidak dipasarkan di Malaysia (0 pendaftaran), dan data keselamatan daripada sisipan pembungkusan belum tersedia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada sisipan pembungkusan NPRA (jurang data yang menghalang penyaringan keselamatan)
 - Data mekanisme tindakan (MOA) daripada DrugBank
 - Penjelasan sama ada indikasi baharu ini benar-benar berbeza daripada indikasi asal, atau hanya pertindihan
-- Penilaian status pendaftaran dan keperluan pasaran tempatan, memandangkan produk ini tidak dipasarkan di Malaysia
 - Untuk ramalan peringkat 2 dan 3, bukti klinikal atau pra-klinikal asas sebelum dipertimbangkan lebih lanjut
 ## Penafian
 

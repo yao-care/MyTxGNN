@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Trimethoprim
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 703
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Trimethoprim: indikasi baharu diramal Pneumocystosis (tahap bukti L1). Indikasi asal: Jangkitan saluran kencing, otitis media berjangkit, pneumocystosis…"
+evidence_level: L5
+indication_count: 1
+monitor_inn: "Trimethoprim"
+predicted_indications: ["punctate epithelial keratoconjunctivitis"]
+last_modified_at: 2026-10-23
+description: "Trimethoprim: indikasi baharu diramal Keratokonjunktivitis epitelium berpunktat (tahap bukti L5). Indikasi asal: Hubungan yang direkodkan dalam graf pengetahuan: jangkitan saluran ke…"
 ---
 
 # Trimethoprim
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,113 +33,92 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-## Trimethoprim: Daripada Jangkitan Saluran Kencing kepada Pneumocystosis
+## Trimethoprim: Daripada Jangkitan Saluran Kencing kepada Keratokonjunktivitis Epitelium Berpunktat
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Trimethoprim ialah antibiotik perencat folat yang pada asalnya digunakan untuk merawat jangkitan saluran kencing, otitis media berjangkit, pneumocystosis, shigellosis dan konjunktivitis.
-Model TxGNN meletakkan **pneumocystosis** sebagai indikasi teratas, tetapi skor ramalan ialah **0.0%** dan indikasi ini sebenarnya sudah mantap, jadi ia bukan penemuan repurposing yang baharu.
-Bukti klinikal datang daripada **30 percubaan klinikal** dan **20 penerbitan** yang disenaraikan dalam data, kebanyakannya melibatkan gabungan trimethoprim-sulfamethoxazole (TMP-SMX).
+Trimethoprim ialah antibiotik perencat dihidrofolat reduktase bakteria. Dalam graf pengetahuan, ubat ini direkodkan berkaitan dengan jangkitan saluran kencing, jangkitan telinga tengah, pneumosistosis, shigellosis dan konjunktivitis.
+Model TxGNN meramalkan ia mungkin berkesan untuk **keratokonjunktivitis epitelium berpunktat (punctate epithelial keratoconjunctivitis)**, tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini, jadi ramalan ini hanya berasaskan model.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Keseluruhan
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan saluran kencing, otitis media berjangkit, pneumocystosis, shigellosis, konjunktivitis (berdasarkan graf pengetahuan TxGNN; tiada teks indikasi berlesen kerana tiada pendaftaran di Malaysia) |
-| Indikasi Baharu Diramalkan | Pneumocystosis |
-| Skor Ramalan TxGNN | 0.0% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (menurut data yang dikumpul; perlu disahkan semula) |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails |
+| Indikasi Asal | Hubungan yang direkodkan dalam graf pengetahuan: jangkitan saluran kencing, jangkitan telinga tengah, pneumosistosis, shigellosis, konjunktivitis (bukan indikasi yang diluluskan; lesen tempatan tidak mengandungi teks indikasi) |
+| Indikasi Baharu yang Diramalkan | Keratokonjunktivitis epitelium berpunktat |
+| Skor Ramalan TxGNN | 0.9957 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 70 daripada 70) |
+| Bilangan Pendaftaran | 70 (sah: 70) |
+| Bilangan Kelulusan | Sekurang-kurangnya 70 lesen yang sah, semuanya produk kombinasi; tiada produk bahan tunggal |
+| Keputusan yang Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpul. Berdasarkan maklumat yang diketahui, trimethoprim ialah perencat dihidrofolat reduktase (DHFR). Apabila digabungkan dengan sulfamethoxazole, kedua-duanya menyekat langkah berturutan dalam sintesis folat. Kesan keberkesanannya dalam jangkitan bakteria sudah terbukti, dan mekanisme ini juga menjadi asas aktiviti terhadap *Pneumocystis jirovecii*.
+Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Secara umumnya, trimethoprim menghalang dihidrofolat reduktase pada bakteria yang sensitif, dan ini menjelaskan aktiviti antibakterianya. Satu kaitan yang munasabah ialah aktiviti antibakteria pada permukaan mata, tetapi skor model TxGNN (pembelajaran mendalam) mungkin hanya mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
-Pneumocystosis merupakan indikasi mantap, iaitu rawatan barisan pertama dan profilaksis menggunakan TMP-SMX. Oleh itu, ini bukan calon repurposing sebenar. Skor TxGNN 0.0 dan medan MOA yang tiada menunjukkan bahawa kesimpulan bergantung pada data klinikal, bukan ramalan model.
-
-Satu perkara perlu dijelaskan: status "Tidak dipasarkan" bercanggah dengan kewujudan banyak produk gabungan trimethoprim-sulfamethoxazole di pasaran. Perkara ini perlu disemak dan disepadankan.
+Walau bagaimanapun, keratokonjunktivitis epitelium punktat sering bersifat virus (contohnya adenovirus) atau bukan berjangkit. Trimethoprim tidak mempunyai aktiviti antivirus yang mantap. Oleh itu, komponen bakteria atau pencegahan jangkitan sekunder perlu ditunjukkan terlebih dahulu. Skor TxGNN yang tinggi (0.9957) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi mahupun keberkesanan yang disahkan.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Berikut ialah percubaan paling relevan bagi pneumocystosis (disenaraikan 10 sahaja). Hampir semua menggunakan TMP-SMX, bukan trimethoprim tunggal.
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00000748](https://clinicaltrials.gov/study/NCT00000748) | Fasa 3 | Selesai | 2500 | Perbandingan TMP-SMX harian dengan tiga kali seminggu untuk profilaksis PCP pada pesakit HIV |
-| [NCT00000715](https://clinicaltrials.gov/study/NCT00000715) | Fasa 3 | Selesai | 240 | Pentamidin aerosol berbanding TMP-SMX untuk rawatan PCP dalam AIDS |
-| [NCT00000727](https://clinicaltrials.gov/study/NCT00000727) | Fasa 3 | Selesai | 322 | TMP-SMX berbanding pentamidin aerosol untuk profilaksis sekunder PCP |
-| [NCT00000640](https://clinicaltrials.gov/study/NCT00000640) | Fasa 3 | Selesai | 290 | Dapsone/trimethoprim dan clindamycin/primaquine berbanding TMP-SMX untuk PCP ringan-sederhana |
-| [NCT00000991](https://clinicaltrials.gov/study/NCT00000991) | Fasa 3 | Selesai | 600 | Tiga agen anti-pneumocystis ditambah zidovudine untuk pencegahan primer pada HIV lanjut |
-| [NCT00000655](https://clinicaltrials.gov/study/NCT00000655) | Fasa 2 | Selesai | 300 | Atovaquone berbanding TMP-SMX (pembanding aktif) untuk PCP |
-| [NCT00001014](https://clinicaltrials.gov/study/NCT00001014) | Fasa 3 | Selesai | 302 | Trimetrexate dengan leucovorin berbanding TMP-SMX (bukti tidak langsung) |
-| [NCT04851015](https://clinicaltrials.gov/study/NCT04851015) | Fasa 3 | Sedang merekrut | 416 | TMP-SMX dos rendah untuk rawatan PCP |
-| [NCT06499233](https://clinicaltrials.gov/study/NCT06499233) | Fasa 4 | Sedang merekrut | 800 | Profilaksis PJP pada penyakit reumatik autoimun (belum ada keputusan) |
-| [NCT07619027](https://clinicaltrials.gov/study/NCT07619027) | Fasa 4 | Belum merekrut | 1084 | TMP-SMX dos rendah berbanding dos standard selepas pemindahan buah pinggang |
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [37574166](https://pubmed.ncbi.nlm.nih.gov/37574166/) | 2024 | RCT (menurut klasifikasi data; abstrak menyatakan kohort retrospektif) | Chest | TMP-SMX dos rendah berbanding dos konvensional untuk PCP bukan HIV, dengan kesan advers yang lebih sedikit |
-| [25269391](https://pubmed.ncbi.nlm.nih.gov/25269391/) | 2014 | Kajian sistematik (Cochrane) | Cochrane Database Syst Rev | Profilaksis PCP pada pesakit imunokompromi bukan HIV |
-| [29092853](https://pubmed.ncbi.nlm.nih.gov/29092853/) | 2018 | Kohort | Ann Rheum Dis | Kesan profilaktik TMP-SMX pada penyakit reumatik dengan glukokortikoid dos tinggi |
-| [32502592](https://pubmed.ncbi.nlm.nih.gov/32502592/) | 2020 | Ulasan | Chest | Faktor risiko dan pencegahan PJP dalam penyakit autoimun/radang |
-| [32000290](https://pubmed.ncbi.nlm.nih.gov/32000290/) | 2020 | Ulasan | Semin Respir Crit Care Med | Gambaran keseluruhan *Pneumocystis jirovecii* pada hos imunokompromi |
-| [21653531](https://pubmed.ncbi.nlm.nih.gov/21653531/) | 2011 | Ulasan | Proc Am Thorac Soc | PCP berkaitan HIV |
-| [22167405](https://pubmed.ncbi.nlm.nih.gov/22167405/) | 2011 | Ulasan | Semin Respir Crit Care Med | Pneumonia Pneumocystis pada hos imunokompromi |
-| [40176385](https://pubmed.ncbi.nlm.nih.gov/40176385/) | 2025 | Kajian klinikal | Arthritis Rheumatol | Faktor klinikal PCP walaupun profilaksis primer dan masa penghentian profilaksis |
-| [26644039](https://pubmed.ncbi.nlm.nih.gov/26644039/) | 2016 | Ulasan | Rev Med Interne | Pneumocystosis pada pesakit imunokompromi bukan HIV; TMP-SMX dos rendah jangka panjang sangat berkesan |
-| [23891358](https://pubmed.ncbi.nlm.nih.gov/23891358/) | 2013 | Laporan kes | Am J Kidney Dis | Hiponatremia berkaitan TMP-SMX semasa rawatan PCP |
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ---
 
-## Keselamatan dan Pertimbangan
+## Maklumat Pasaran Malaysia
 
-**Penyakit/keadaan yang dikenal pasti sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label produk): porfiria (termasuk porfiria warisan dan gangguan metabolisme porfirin), penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, trombositopenia, neutropenia, agranulositosis, kolitis *Clostridium difficile*, enterokolitis nekrotik perinatal, kekurangan G6PD, penyakit penyimpanan glikogen, sistinuria, galaktosemia dan anemia kekurangan asid folik.
+Semua 70 lesen yang direkodkan ialah **produk kombinasi** (kebanyakannya trimethoprim dengan sulfametoksazol atau sulfadiazin, termasuk beberapa produk veterinar). Lesen ini tidak boleh digunakan untuk menggambarkan status kelulusan trimethoprim bahan tunggal. Teks indikasi yang diluluskan tidak tersedia dalam rekod. Senarai di bawah ialah contoh sebahagian daripada lesen:
 
-**Interaksi Ubat** (100 interaksi dikesan; contoh utama):
-- **Major**: kalium sitrat, kalium bikarbonat, kalium klorida, kalium gluconate (risiko hiperkalemia)
-- **Moderate**: metformin, pioglitazone, rosiglitazone, repaglinide, balsalazide, picosulfuric acid, sapropterin
-- Tahap tidak diketahui: pantoprazole, doxycycline, omeprazole, simvastatin dan lain-lain
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL19870922AZ | COTRIM 480MG TABLET | Tidak dinyatakan | Tidak dinyatakan |
+| MAL19870913AZ | COTRIM DS 960MG TABLET | Tidak dinyatakan | Tidak dinyatakan |
+| MAL19871882AZ | PHARMANIAGA CO-TRIMOXAZOLE TABLET | Tidak dinyatakan | Tidak dinyatakan |
+| MAL08082721ACRZ | DBL Sulfamethoxazole and Trimethoprim Concentrate Injection | Tidak dinyatakan | Tidak dinyatakan |
+| MAL20152492AEZ | hovid Co-Trimoxazole Tablet B.P. 960mg | Tidak dinyatakan | Tidak dinyatakan |
 
-**Isyarat keselamatan daripada literatur**: laporan kes sindrom SCoRCH (konjunktivitis, limfopenia, ruam dan perubahan hemodinamik) selepas penggunaan TMP-SMX, serta hiponatremia berkaitan TMP-SMX. Pemantauan hiperkalemia, mielosupresi dan ruam disyorkan, termasuk semakan interaksi (contohnya zidovudine, methotrexate).
+---
+
+## Pertimbangan Keselamatan
+
+Maklumat label tidak tersedia. Berikut ialah maklumat daripada data yang dikompilasi untuk laporan ini.
+
+- **Penyakit yang direkodkan sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): porfiria (termasuk porfiria warisan dan gangguan metabolisme porfirin), penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, trombositopenia, neutropenia, agranulositosis, kolitis *Clostridium difficile*, enterokolitis nekrosis perinatal, kekurangan G6PD, penyakit penyimpanan glikogen, sistinuria, galaktosemia, dan anemia kekurangan asid folik.
+- **Interaksi ubat** (100 interaksi direkodkan; contoh utama):
+  - **Major**: kalium sitrat, kalium bikarbonat, kalium klorida, kalium glukonat (risiko hiperkalemia).
+  - **Moderate**: metformin, pioglitazon, rosiglitazon, repaglinid, balsalazid, asid pikosulfurik, sapropterin.
+  - Beberapa interaksi lain bertahap tidak diketahui (contohnya doksisiklin, omeprazol, vankomisin, simvastatin).
+
+Sila rujuk sisipan pembungkusan untuk maklumat keselamatan yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Hold**
 
 **Justifikasi:**
-- Pneumocystosis ialah indikasi mantap dengan banyak percubaan Fasa 3 yang selesai (TMP-SMX sebagai rawatan, profilaksis dan pembanding), jadi tahap bukti L1 munasabah. Namun, bukti kebanyakannya untuk gabungan TMP-SMX dan bukan trimethoprim tunggal, dan skor TxGNN ialah 0.0.
+Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau penerbitan yang mengkaji penyakit ini secara langsung. Mekanisme antibakteria tidak sepadan dengan punca yang lazim (virus atau bukan berjangkit), dan semua lesen tempatan ialah produk kombinasi.
 
-**Untuk meneruskan, perlu dilengkapkan:**
-- Data MOA terperinci daripada DrugBank
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA (kini tiada, dan ini menghalang saringan keselamatan lanjut)
-- Penyelarasan status pasaran Malaysia (laporan "Tidak dipasarkan" berbanding produk TMP-SMX yang wujud)
-- Pelan pemantauan keselamatan (kalium, hematologi, fungsi buah pinggang, ruam) dan semakan interaksi ubat
-
----
-
-## Penilaian Indikasi Lain yang Diramalkan (Ringkas)
-
-| Indikasi | Tahap Bukti | Keputusan | Catatan |
-|------|------|------|------|
-| Jangkitan saluran kencing | L1 | Proceed with Guardrails | Indikasi sedia ada; percubaan RIVUR (Fasa 3, n=607) menyokong profilaksis TMP-SMX; perhatikan rintangan tempatan, fungsi buah pinggang dan kehamilan |
-| Otitis media berjangkit | L2 | Research Question | Bukti terhad (satu kajian fasa NA); rintangan pneumokokus dan *Haemophilus* semakin meningkat |
-| Konjunktivitis | L2 | Research Question | Bukti terutamanya untuk gabungan topikal polymyxin B/trimethoprim; tiada percubaan berdaftar |
-| Konjunktivitis berjangkit akut | L5 | Hold | Tiada percubaan atau literatur dalam data |
+**Untuk meneruskan, perlu:**
+- Bukti klinikal atau pra-klinikal yang mengkaji trimethoprim secara langsung dalam keratokonjunktivitis epitelium berpunktat
+- Pengesahan komponen bakteria dalam penyakit ini
+- Data mekanisme tindakan (MOA) daripada DrugBank
+- Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA (jurang data yang menghalang saringan keselamatan)
+- Penilaian keserasian laluan pentadbiran (formulasi oftalmik) dan status lesen produk bahan tunggal
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

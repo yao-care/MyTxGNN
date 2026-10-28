@@ -8,6 +8,7 @@ nav_order: 139
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Beractant
@@ -49,8 +50,8 @@ Beractant ialah surfaktan pulmonari bovine semula jadi yang ditunjukkan untuk pe
 | Petunjuk Indikasi Baru | **Tiada** (tiada petunjuk TxGNN dihasilkan) |
 | Skor Petunjuk TxGNN | N/A |
 | Tahap Bukti | **L5** — Tiada petunjuk, tiada kajian sokongan |
-| Status Pasaran Malaysia | ✓ Dipasarkan (Dipasarkan) |
-| Bilangan Pendaftaran | 2 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

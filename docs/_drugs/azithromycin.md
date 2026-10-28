@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 117
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Azithromycin: indikasi baharu diramal Hiperamilasemia (tahap bukti L5). Indikasi asal: Jangkitan streptokokus (antara indikasi asal lain: radang paru-paru b…"
 monitor_inn: "AZITHROMYCIN"
-predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
+last_modified_at: 2026-10-27
+description: "Azithromycin: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Azithromycin
@@ -33,114 +33,70 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Azithromycin: Daripada Jangkitan Streptokokus kepada Hiperamilasemia
+## Azithromycin: makrolid antibakteria → Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Azithromycin ialah antibiotik makrolida yang pada asalnya digunakan untuk merawat pelbagai jangkitan bakteria, seperti jangkitan streptokokus, radang paru-paru bakteria dan konjunktivitis.
-Model TxGNN meramalkan ia mungkin berkesan untuk **hiperamilasemia** dengan skor tinggi, tetapi setakat ini **tiada kajian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini.
+Azithromycin ialah antibiotik makrolid yang digunakan secara meluas untuk jangkitan bakteria.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome)**,
+tetapi pada masa ini **tiada sebarang ujian klinikal dan tiada penerbitan** yang menyokong ramalan ini; ia hanyalah ramalan model.
 
----
+## Gambaran Keseluruhan
 
-## Gambaran Keseluruhan Pantas
-
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan streptokokus (antara indikasi asal lain: radang paru-paru bakteria, jangkitan *Staphylococcus aureus*, konjunktivitis) |
-| Indikasi Baharu yang Diramalkan | Hiperamilasemia |
-| Skor Ramalan TxGNN | 99.81% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) |
+| Skor Ramalan TxGNN | 0,9981 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
----
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 45 daripada 45) |
+| Bilangan Pendaftaran | 45 (sah: 45) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan azithromycin tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, azithromycin ialah antibiotik makrolida dengan keberkesanan yang telah dibuktikan terhadap jangkitan bakteria. Ia juga diketahui mempunyai sifat imunomodulasi.
+Data mekanisme tindakan terperinci untuk azithromycin tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Azithromycin diketahui sebagai antibiotik makrolid dengan aktiviti antibakteria dan, menurut sebahagian literatur umum, kesan imunomodulasi.
 
-Walau bagaimanapun, hiperamilasemia ialah penemuan makmal, bukan sasaran penyakit yang jelas untuk antibiotik. Tiada kaitan mekanistik yang dapat dikenal pasti antara azithromycin dengan keadaan ini. Skor TxGNN yang tinggi (0.998) hanyalah ramalan model tanpa sokongan percubaan klinikal atau literatur.
+Namun, berdasarkan data yang ada, tiada hubungan mekanistik yang munasabah dapat ditunjukkan antara aktiviti antibakteria atau imunomodulasi azithromycin dengan hiperkelikatan akibat gammopati poliklonal. Skor tinggi (0,9981) berasal daripada ramalan berasaskan model sahaja, dan ia perlu dianggap sebagai isyarat yang belum disahkan sehingga ada bukti yang membuktikan sebaliknya.
 
-Oleh itu, ramalan ini harus dianggap sebagai hipotesis awal sahaja dan bukan asas yang cukup untuk meneruskan pembangunan.
+## Bukti Ujian Klinikal
 
----
-
-## Bukti Percubaan Klinikal
-
-Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk hiperamilasemia.
-
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan.
-
----
-
-## Penilaian Indikasi Baharu Lain yang Diramalkan
-
-Selain hiperamilasemia, data yang dikumpulkan juga merangkumi beberapa ramalan lain. Hanya dua ramalan mempunyai bukti yang lebih bermakna, itupun masih lemah:
-
-| Kedudukan | Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Ringkasan |
-|------|------|------|------|------|
-| 4 | Keratokonjunktivitis epitelium berbintik | 99.78% | L4 | Hanya satu laporan kes mengenai keratokonjunktivitis mikrosporidia (etiologi berbeza); tidak menyokong keberkesanan azithromycin. Rasional permukaan mata munasabah kerana konjunktivitis ialah indikasi asal. |
-| 7 | Gamopati monoklonal | 99.61% | L4 | Kajian praklinikal in vitro menunjukkan makrolida menyekat aliran autofagi dan meningkatkan kepekaan sel mieloma terhadap bortezomib; yang lain ialah laporan kes. |
-| 9 | Wabak septisemik | 99.52% | L4 | Kajian kerentanan in vitro (PMID 8540736) melaporkan azithromycin menunjukkan aktiviti lemah terhadap semua strain *Yersinia pestis*; tiada percubaan klinikal. |
-| 10 | Gangguan hematologi kongenital | 99.40% | L4 | Dua percubaan Fasa 1/2 azithromycin/makrolida dalam penyakit sel sabit ditarik balik dengan 0 peserta. |
-
-Ramalan lain (kedudukan 2, 3, 5, 6 dan 8) hanya berasaskan model (L5) tanpa percubaan atau literatur dan tiada kaitan mekanistik yang dapat dikenal pasti.
-
-### Percubaan Klinikal (Gangguan Hematologi Kongenital)
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT02960503](https://clinicaltrials.gov/study/NCT02960503) | Fasa 1/2 | Ditarik balik | 0 | Terapi makrolida untuk meningkatkan FEV1 pada orang dewasa dengan penyakit sel sabit; tiada data kerana ditarik balik |
-| [NCT02630394](https://clinicaltrials.gov/study/NCT02630394) | Fasa 1 | Ditarik balik | 0 | Kajian perintis profilaksis azithromycin untuk sindrom dada akut dalam penyakit sel sabit; tiada data kerana ditarik balik |
-| [NCT04278404](https://clinicaltrials.gov/study/NCT04278404) | N/A | Sedang merekrut | 5000 | Program umum farmakokinetik dan keselamatan ubat yang kurang dikaji pada kanak-kanak; tidak khusus untuk penyakit hematologi |
-
----
+Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Azithromycin pada masa ini tidak dipasarkan di Malaysia dan tiada lesen berdaftar dalam data yang dikumpulkan.
+Azithromycin mempunyai 45 pendaftaran yang sah di Malaysia (semuanya produk bahan tunggal), dan tiada yang dibatalkan. Senarai di bawah ialah lima daripadanya; teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 
----
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL16065052AZ | Azicine 250mg Hard Capsule | Tidak direkodkan | Tidak direkodkan |
+| MAL06061685AZ | Imexa FC Tablet 250 mg | Tidak direkodkan | Tidak direkodkan |
+| MAL11090011AZ | Azimax 250mg Tablet | Tidak direkodkan | Tidak direkodkan |
+| MAL20032238ARZ | ZITHROMAX IV | Tidak direkodkan | Tidak direkodkan |
+| MAL19985908ACZ | ZITHROMAX TABLET 250MG | Tidak direkodkan | Tidak direkodkan |
 
 ## Pertimbangan Keselamatan
 
-Maklumat amaran dan kontraindikasi daripada sisipan pek tidak tersedia. Sila rujuk sisipan pek untuk maklumat keselamatan.
-
-Sebagai rujukan tambahan, graf pengetahuan TxGNN (bukan teks label) mencatatkan hubungan kontraindikasi dengan keadaan berikut:
-- Sindrom QT panjang (termasuk familial) dan *torsades de pointes*
-- Penyakit hati dan penyakit pundi hempedu
-- Kolitis *Clostridium difficile* dan enterokolitis nekrotik perinatal
-- Miastenia gravis dan penyakit simpang neuromuskular
-- Gangguan pendengaran dan penyakit sistem auditori
-
-**Interaksi Ubat:** 100 interaksi direkodkan. Antara yang utama:
-- **Major:** Cisapride, Dolasetron
-- **Sederhana (Moderate):** Famotidine, Loperamide, Clarithromycin, Levofloxacin, Granisetron, aluminium hidroksida dan magnesium hidroksida (antasid), serta beberapa julap (bisacodyl, minyak jarak, laktulosa)
-- **Minor:** Amoxicillin, Metronidazole
-
-Majoriti interaksi major berkaitan risiko pemanjangan QT, selaras dengan kontraindikasi sindrom QT panjang di atas.
-
----
+- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan. Interaksi **Major** yang disenaraikan termasuk **cisapride** dan **dolasetron**, kedua-duanya berkaitan risiko kesan jantung (pemanjangan QT). Interaksi sederhana termasuk famotidine, loperamide, antasid aluminium/magnesium, clarithromycin, levofloxacin, granisetron, dan beberapa julap (bisacodyl, lactulose, lactitol, minyak kastor, gliserin).
+- Untuk maklumat amaran dan kontraindikasi lengkap, sila rujuk risalah maklumat produk.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan hiperamilasemia (L5) hanya berasaskan model, tanpa percubaan klinikal, literatur atau kaitan mekanistik. Hiperamilasemia juga penemuan makmal dan bukan sasaran penyakit yang sesuai untuk antibiotik. Selain itu, ubat ini tidak dipasarkan di Malaysia.
+Ramalan ini tidak disokong oleh sebarang ujian klinikal atau penerbitan, dan tiada mekanisme yang munasabah dapat dikenal pasti. Skor model yang tinggi sahaja tidak mencukupi untuk meneruskan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data penting yang menghalang saringan keselamatan)
-- Data mekanisme tindakan (MOA) terperinci, contohnya daripada DrugBank
-- Hipotesis klinikal yang jelas yang menghubungkan azithromycin dengan hiperamilasemia, serta kajian praklinikal atau perintis
-- Jika mahu meneroka calon alternatif, pertimbangkan indikasi yang mempunyai asas lebih kukuh seperti keratokonjunktivitis (berkaitan konjunktivitis) atau penyakit sel sabit, tetapi ia memerlukan kajian klinikal baharu yang benar-benar menghasilkan data
-- Pengesahan status pendaftaran dan laluan pentadbiran di Malaysia
+- Data mekanisme tindakan (MOA) azithromycin yang terperinci
+- Kajian praklinikal atau laporan klinikal yang secara langsung mengkaji penyakit ini
+- Amaran dan kontraindikasi daripada risalah maklumat produk tempatan
+- Penilaian hubungan mekanistik antara kesan azithromycin dengan hiperkelikatan akibat gammopati poliklonal
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

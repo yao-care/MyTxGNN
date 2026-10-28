@@ -6,9 +6,9 @@ nav_order: 656
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Sotatercept: indikasi baharu diramal Leukemia limfoblastik akut (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA yang direkodkan)"
 monitor_inn: "Sotatercept"
 predicted_indications: ["acute lymphoblastic leukemia (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis", "diabetic cataract", "HER2 positive breast carcinoma", "transitional cell carcinoma", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant"]
+description: "Sotatercept: indikasi baharu diramal Leukemia limfoblastik akut (acute lymphoblastic leukemia (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Sotatercept
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Sotatercept: Daripada Penunjuk Asal yang Belum Direkodkan kepada Leukemia Limfoblastik Akut
+## Sotatercept: Leukemia limfoblastik akut (acute lymphoblastic leukemia (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Sotatercept ialah protein gabungan reseptor activin jenis IIA-Fc (ActRIIA-Fc) yang memerangkap activin dan ligan lain dalam superfamili TGF-beta. Data yang dikompilasi untuk laporan ini tidak mencatatkan penunjuk asalnya.
-Model TxGNN meramalkan ia mungkin berkesan untuk **leukemia limfoblastik akut** (skor 99.78%), tetapi buat masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model.
+Model TxGNN meramalkan ia mungkin berkesan untuk **leukemia limfoblastik akut** (skor 0.9978), tetapi buat masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model.
 
 ---
 
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **leukemia limfoblastik akut** 
 
 | Perkara | Kandungan |
 |------|------|
-| Penunjuk Asal | Tiada data (tiada lesen NPRA yang direkodkan) |
-| Penunjuk Baharu yang Diramalkan | Leukemia limfoblastik akut |
-| Skor Ramalan TxGNN | 99.78% |
+| Penunjuk Asal | Tidak direkodkan dalam data tempatan |
+| Penunjuk Baharu yang Diramalkan | Leukemia limfoblastik akut (acute lymphoblastic leukemia (disease)) |
+| Skor Ramalan TxGNN | 0.9978 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | Hold |
 
 ---
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **leukemia limfoblastik akut** 
 
 Sotatercept ialah protein gabungan ActRIIA-Fc yang memerangkap activin dan ligan berkaitan dalam superfamili TGF-beta. Isyarat activin dikaitkan dengan pengawalaturan hematopoiesis, maka kaitan mekanistik dengan leukemia boleh dibayangkan.
 
-Namun, tiada bukti klinikal atau literatur disediakan dalam data yang dikompilasi. Skor TxGNN (0.998) hanyalah ramalan model dan mekanismenya belum disahkan untuk penunjuk ini. Data mekanisme tindakan terperinci daripada pangkalan data rujukan juga belum tersedia, dan penunjuk asal belum dapat dikenal pasti.
+Namun, tiada bukti klinikal atau literatur disediakan dalam data yang dikompilasi. Skor TxGNN (0.9978) hanyalah ramalan model dan mekanismenya belum disahkan untuk penunjuk ini. Data mekanisme tindakan terperinci daripada pangkalan data rujukan juga belum tersedia, dan penunjuk asal belum dapat dikenal pasti.
 
 ### Penunjuk Lain yang Diramalkan
 
@@ -69,16 +69,16 @@ Semua penunjuk di bawah berada pada tahap bukti L5 dengan keputusan Hold. Tiada 
 
 | Kedudukan | Penunjuk | Skor TxGNN | Catatan Mekanistik |
 |------|------|------|------|
-| 1 | Leukemia limfoblastik akut | 99.78% | Isyarat activin terlibat dalam pengawalaturan hematopoiesis; masih hipotesis |
-| 2 | Retinopati diabetik bukan proliferatif teruk | 99.77% | Isyarat activin/TGF-beta mungkin mempengaruhi vaskular retina; hipotesis, dan terdapat kebimbangan teori tentang kesan terhadap vaskulatur retina |
-| 3 | Retinopati diabetik | 99.72% | Pautan yang sama dengan subjenis di atas; kemungkinan ramalan berkorelasi |
-| 4 | Osteoporosis aruhan ubat | 99.65% | Rasional paling munasabah dari segi biologi: activin A menekan aktiviti osteoblas, dan molekul ActRIIA-Fc berkaitan menambah jisim tulang dalam model praklinikal (belum disahkan dalam data ini) |
-| 5 | Katarak diabetik | 99.49% | Tiada laluan mekanistik yang jelas; spekulatif |
-| 6 | Karsinoma payudara HER2 positif | 99.43% | Isyarat activin/TGF-beta bergantung konteks dalam tumor; tiada pautan langsung dengan HER2 |
-| 7 | Karsinoma sel peralihan | 99.39% | Kemungkinan didorong oleh kedekatan rangkaian dalam graf pengetahuan |
-| 8 | Karsinoma urotelial uretra prostat | 99.36% | Ramalan berkorelasi dengan karsinoma sel peralihan |
-| 9 | Karsinoma sel peralihan sarkomatoid pelvis buah pinggang | 99.36% | Pautan spekulatif melalui peralihan epitelium-mesenkim (EMT); subjenis jarang |
-| 10 | Karsinoma urotelial pundi kencing infiltratif varian sarkomatoid | 99.34% | Rasional EMT/TGF-beta yang sama; berkorelasi dengan ramalan urotelial lain |
+| 1 | Leukemia limfoblastik akut | 0.9978 | Isyarat activin terlibat dalam pengawalaturan hematopoiesis; masih hipotesis |
+| 2 | Retinopati diabetik bukan proliferatif teruk | 0.9977 | Isyarat activin/TGF-beta mungkin mempengaruhi vaskular retina; hipotesis, dan terdapat kebimbangan teori tentang kesan terhadap vaskulatur retina |
+| 3 | Retinopati diabetik | 0.9972 | Pautan yang sama dengan subjenis di atas; kemungkinan ramalan berkorelasi |
+| 4 | Osteoporosis aruhan ubat | 0.9965 | Rasional paling munasabah dari segi biologi: activin A menekan aktiviti osteoblas, dan molekul ActRIIA-Fc berkaitan menambah jisim tulang dalam model praklinikal (belum disahkan dalam data ini) |
+| 5 | Katarak diabetik | 0.9949 | Tiada laluan mekanistik yang jelas; spekulatif |
+| 6 | Karsinoma payudara HER2 positif | 0.9943 | Isyarat activin/TGF-beta bergantung konteks dalam tumor; tiada pautan langsung dengan HER2 |
+| 7 | Karsinoma sel peralihan | 0.9939 | Skor datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi |
+| 8 | Karsinoma urotelial uretra prostat | 0.9936 | Ramalan berkorelasi dengan karsinoma sel peralihan |
+| 9 | Karsinoma sel peralihan sarkomatoid pelvis buah pinggang | 0.9936 | Pautan spekulatif melalui peralihan epitelium-mesenkim (EMT); subjenis jarang |
+| 10 | Karsinoma urotelial pundi kencing infiltratif varian sarkomatoid | 0.9934 | Rasional EMT/TGF-beta yang sama; berkorelasi dengan ramalan urotelial lain |
 
 ---
 
@@ -96,7 +96,6 @@ Buat masa ini tiada literatur yang berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Sotatercept tidak dipasarkan di Malaysia dan tiada lesen NPRA direkodkan (jumlah pendaftaran: 0).
 
 ---
 

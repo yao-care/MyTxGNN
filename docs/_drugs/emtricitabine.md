@@ -3,18 +3,18 @@ layout: default
 title: Emtricitabine
 parent: Low Evidence (L4-L5)
 nav_order: 322
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Emtricitabine: indikasi baharu diramal Sindrom imunodefisiensi dapatan kucing (FIV) (tahap bukti L4). Indikasi asal: Jangkitan HIV, AIDS"
 monitor_inn: "EMTRICITABINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Emtricitabine: indikasi baharu diramal Sindrom imunodefisiensi dapatan kucing (feline acquired immunodeficiency syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Emtricitabine
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **3** 
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **3**
 
 </div>
 
-## Emtricitabine: Daripada Jangkitan HIV kepada Sindrom Imunodefisiensi Dapatan Kucing (FIV)
+## Emtricitabine: Sindrom imunodefisiensi dapatan kucing (feline acquired immunodeficiency syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,12 +48,12 @@ tetapi kini hanya terdapat **0 ujian klinikal** dan **1 penerbitan** (kajian vet
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan HIV, AIDS |
-| Indikasi Baharu yang Diramalkan | Sindrom imunodefisiensi dapatan kucing (FIV) |
-| Skor Ramalan TxGNN | 99.92% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom imunodefisiensi dapatan kucing (feline acquired immunodeficiency syndrome) |
+| Skor Ramalan TxGNN | 0.9992 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 12) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---
@@ -67,8 +67,8 @@ Virus imunodefisiensi kucing (FIV) ialah lentivirus yang transkriptase baliknya 
 Perlu diingat bahawa ini ialah penghujahan berdasarkan farmakologi kelas ubat, bukan berdasarkan data mekanisme yang dibekalkan. Selain itu, indikasi ini bersifat veterinar dan bukan penyakit manusia, jadi nilainya sebagai sasaran repurposing untuk manusia adalah terhad.
 
 **Ramalan lain yang disenaraikan:**
-- **Jangkitan virus imunodefisiensi simian (SIV)** (skor 99.92%, tahap L4, keputusan: Persoalan Penyelidikan): model makaka SIV/SHIV ialah sistem praklinikal piawai. Beberapa kajian melaporkan makaka dilindungi daripada cabaran SHIV oleh emtricitabine + tenofovir (contohnya PMID 27465645, 26743846, 31362305). Namun, ini ialah model translasi yang menyokong indikasi HIV sedia ada, bukan sasaran repurposing baharu.
-- **Gangguan perkembangan saraf dengan gaya berjalan ataksia, ketiadaan pertuturan dan pengurangan bahan putih korteks** (skor 99.92%, tahap L5, keputusan: Tahan): tiada ujian klinikal mahupun literatur, dan tiada kaitan mekanisme disokong. Ramalan ini besar kemungkinan artifak pemarkahan berasaskan rangkaian. Skor ketiga-tiga ramalan hampir sama (~0.999), menunjukkan skor kurang berupaya membezakan.
+- **Jangkitan virus imunodefisiensi simian (SIV)** (skor 0.9992, tahap L4, keputusan: Persoalan Penyelidikan): model makaka SIV/SHIV ialah sistem praklinikal piawai. Beberapa kajian melaporkan makaka dilindungi daripada cabaran SHIV oleh emtricitabine + tenofovir (contohnya PMID 27465645, 26743846, 31362305). Namun, ini ialah model translasi yang menyokong indikasi HIV sedia ada, bukan sasaran repurposing baharu.
+- **Gangguan perkembangan saraf dengan gaya berjalan ataksia, ketiadaan pertuturan dan pengurangan bahan putih korteks** (skor 0.9992, tahap L5, keputusan: Tahan): tiada ujian klinikal mahupun literatur, dan tiada kaitan mekanisme disokong. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Skor ketiga-tiga ramalan hampir sama (0.9992), menunjukkan skor kurang berupaya membezakan.
 
 ---
 
@@ -117,7 +117,7 @@ Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila ruju
 **Keputusan: Hold (Tahan)**
 
 **Justifikasi:**
-- Ramalan utama (FIV) hanya disokong oleh satu kajian veterinar praklinikal tanpa ujian klinikal (tahap bukti L4), dan penyakit ini bukan penyakit manusia. Emtricitabine juga tidak dipasarkan di Malaysia. Ramalan SIV hanya berfungsi sebagai model translasi untuk indikasi HIV sedia ada, manakala ramalan gangguan perkembangan saraf (L5) tidak disokong oleh sebarang bukti.
+- Ramalan utama (FIV) hanya disokong oleh satu kajian veterinar praklinikal tanpa ujian klinikal (tahap bukti L4), dan penyakit ini bukan penyakit manusia. Ramalan SIV hanya berfungsi sebagai model translasi untuk indikasi HIV sedia ada, manakala ramalan gangguan perkembangan saraf (L5) tidak disokong oleh sebarang bukti.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank

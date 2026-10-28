@@ -6,9 +6,9 @@ nav_order: 569
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
-description: "Phenol: indikasi baharu diramal Acrodermatitis chronica atrophicans (tahap bukti L5). Indikasi asal: Dermatitis (daripada graf pengetahuan TxGNN/PrimeKG"
 monitor_inn: "PHENOL"
 predicted_indications: ["acrodermatitis chronica atrophicans", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "dry eye syndrome"]
+description: "Phenol: indikasi baharu diramal Acrodermatitis chronica atrophicans (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Phenol
@@ -33,12 +33,12 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-## Fenol: Daripada Dermatitis kepada Acrodermatitis Chronica Atrophicans
+## Phenol: Acrodermatitis chronica atrophicans
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Fenol (phenol) ialah bahan kimia tempatan yang dalam graf pengetahuan TxGNN dikaitkan dengan rawatan dermatitis.
+Fenol (phenol) ialah bahan kimia tempatan yang digunakan berkaitan dengan rawatan dermatitis.
 Model TxGNN meramalkan ia mungkin berkesan untuk **acrodermatitis chronica atrophicans** dengan skor yang sangat tinggi,
 tetapi setakat ini **tiada percubaan klinikal** dan **tiada kajian literatur** yang menyokong ramalan ini. Ramalan ini hanya berasaskan model.
 
@@ -48,21 +48,21 @@ tetapi setakat ini **tiada percubaan klinikal** dan **tiada kajian literatur** y
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Dermatitis (daripada graf pengetahuan TxGNN/PrimeKG; tiada indikasi berdaftar di Malaysia) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Acrodermatitis chronica atrophicans |
-| Skor Ramalan TxGNN | 99.95% |
+| Skor Ramalan TxGNN | 0.9995 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 30) |
+| Bilangan Pendaftaran | 30 (sah: 30) |
 | Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data terperinci tentang mekanisme tindakan tidak tersedia. Berdasarkan maklumat yang diketahui, fenol ialah agen kimia tempatan yang digunakan pada kulit, dan indikasi asalnya dalam graf pengetahuan ialah dermatitis.
+Pada masa ini, data terperinci tentang mekanisme tindakan tidak tersedia. Berdasarkan maklumat yang diketahui, fenol ialah agen kimia tempatan yang digunakan pada kulit, dan indikasi asalnya ialah dermatitis.
 
-Acrodermatitis chronica atrophicans ialah manifestasi kulit peringkat lewat akibat jangkitan *Borrelia* dan dirawat dengan antibiotik. Fenol tidak diketahui mempunyai peranan antimikrob dalam keadaan ini. Tiada hubungan mekanistik yang dapat dibuktikan. Skor yang tinggi (0.9995) hanyalah ramalan berasaskan graf, kemungkinan besar mencerminkan kedekatan penyakit kulit dalam graf tersebut.
+Acrodermatitis chronica atrophicans ialah manifestasi kulit peringkat lewat akibat jangkitan *Borrelia* dan dirawat dengan antibiotik. Fenol tidak diketahui mempunyai peranan antimikrob dalam keadaan ini. Tiada hubungan mekanistik yang dapat dibuktikan. Skor yang tinggi (0.9995) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi.
 
 Oleh itu, ramalan ini harus dianggap sebagai hipotesis awal sahaja, bukan sebagai asas untuk penggunaan klinikal.
 
@@ -86,13 +86,13 @@ Data yang dikumpulkan turut merangkumi tujuh ramalan lain. Kesemuanya berada pad
 
 | Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Catatan |
 |------|------|------|------|
-| Penyakit paru interstisial sekunder kanak-kanak berkaitan penyakit tisu penghubung | 99.95% | L5 | Tiada laluan mekanistik yang munasabah; pendedahan fenol secara sistemik menimbulkan kebimbangan ketoksikan |
-| Dermatomiositis neonatal | 99.95% | L5 | Kemungkinan hanya kedekatan graf; penggunaan neonatal berisiko tinggi kerana fenol diserap melalui kulit dan toksik secara sistemik |
-| Dermatomiositis amiopatik | 99.95% | L5 | Tiada mekanisme imunomodulasi didokumenkan |
-| Acne keloid | 99.94% | L4 | Satu kajian tidak terkawal tentang kupasan fenol terubah suai (Exoderm), lihat di bawah |
-| Hydroa vacciniforme, familial | 99.94% | L5 | Kupasan fenol boleh meningkatkan fotosensitiviti atau risiko pigmentasi |
-| Retinopati diabetik bukan proliferatif teruk | 99.46% | L5 | Tiada mekanisme; fenol bersifat sitotoksik dan berpotensi neurotoksik |
-| Sindrom mata kering | 99.04% | L5 | 20 makalah yang diperoleh tidak menilai fenol; fenol ialah perengsa dan boleh memburukkan permukaan mata |
+| Penyakit paru interstisial sekunder kanak-kanak berkaitan penyakit tisu penghubung | 0.9995 | L5 | Tiada laluan mekanistik yang munasabah; pendedahan fenol secara sistemik menimbulkan kebimbangan ketoksikan |
+| Dermatomiositis neonatal | 0.9995 | L5 | Skor daripada model TxGNN (pembelajaran mendalam); mungkin hanya mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi; penggunaan neonatal berisiko tinggi kerana fenol diserap melalui kulit dan toksik secara sistemik |
+| Dermatomiositis amiopatik | 0.9995 | L5 | Tiada mekanisme imunomodulasi didokumenkan |
+| Acne keloid | 0.9994 | L5 | Satu kajian tidak terkawal tentang kupasan fenol terubah suai (Exoderm), lihat di bawah |
+| Hydroa vacciniforme, familial | 0.9994 | L5 | Kupasan fenol boleh meningkatkan fotosensitiviti atau risiko pigmentasi |
+| Retinopati diabetik bukan proliferatif teruk | 0.9946 | L5 | Tiada mekanisme; fenol bersifat sitotoksik dan berpotensi neurotoksik |
+| Sindrom mata kering | 0.9904 | L5 | 20 makalah yang diperoleh tidak menilai fenol; fenol ialah perengsa dan boleh memburukkan permukaan mata |
 
 Satu-satunya literatur yang secara langsung melibatkan fenol ialah untuk acne keloid:
 
@@ -127,7 +127,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan acrodermatitis chronica atrophicans hanya berasaskan model (L5), tanpa percubaan klinikal, tanpa literatur, tanpa hubungan mekanistik yang munasabah, dan fenol tidak dipasarkan di Malaysia. Kebimbangan keselamatan juga ketara.
+- Kebimbangan keselamatan juga ketara.
 - Antara ramalan lain, acne keloid (L4) boleh dianggap sebagai soalan penyelidikan sahaja, kerana bukti yang ada tidak langsung.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 227
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
-description: "Cladribine: indikasi baharu diramal Rabdomiosarkoma embrional parameningeal (tahap bukti L5). Indikasi asal: Leukemia sel berbulu, varian leukemia sel berbulu…"
 monitor_inn: "CLADRIBINE"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "liver sarcoma"]
+last_modified_at: 2026-10-27
+description: "Cladribine: indikasi baharu diramal Rabdomiosarkoma embrionik parameningeal (parameningeal embryonal rhabdomyosarcoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Cladribine
@@ -33,95 +33,76 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-## Cladribine: Daripada Leukemia Sel Berbulu kepada Rabdomiosarkoma Embrional Parameningeal
+## Cladribine: agen analog nukleosida purin → Rabdomiosarkoma embrionik parameningeal (parameningeal embryonal rhabdomyosarcoma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Cladribine ialah analog nukleosida purin yang pada asalnya digunakan untuk merawat leukemia sel berbulu (*hairy cell leukemia*), varian leukemia sel berbulu, dan sklerosis berbilang jenis relaps-remisi.
-Model TxGNN meramalkan ia mungkin berkesan untuk **rabdomiosarkoma embrional parameningeal**, tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini secara langsung. Ramalan ini hanya berdasarkan model.
+Cladribine ialah analog nukleosida purin yang menyasarkan limfosit dan monosit. Model TxGNN meramalkan ia mungkin berkesan untuk **rabdomiosarkoma embrionik parameningeal (parameningeal embryonal rhabdomyosarcoma)**, tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini secara langsung; ia kekal sebagai ramalan model semata-mata.
 
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan Pantas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Leukemia sel berbulu, varian leukemia sel berbulu, sklerosis berbilang relaps-remisi |
-| Indikasi Baharu yang Diramalkan | Rabdomiosarkoma embrional parameningeal |
-| Skor Ramalan TxGNN | 99.77% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Rabdomiosarkoma embrionik parameningeal (parameningeal embryonal rhabdomyosarcoma) |
+| Skor Ramalan TxGNN | 0,9977 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan yang Disyorkan | Hold |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
----
+## Mengapa Ramalan Ini Munasabah?
 
-## Mengapakah Ramalan Ini Munasabah?
+Data terperinci mengenai mekanisme tindakan (MOA) belum tersedia dalam data yang dihimpunkan untuk laporan ini. Secara umum, cladribine ialah analog nukleosida purin yang tahan terhadap enzim adenosina deaminase. Ia menyebabkan kerosakan untaian DNA dan apoptosis, terutamanya dalam limfosit dan monosit yang mempunyai aktiviti deoksisitidina kinase yang tinggi.
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikompilasi untuk laporan ini. Berdasarkan maklumat sedia ada, cladribine ialah analog nukleosida purin yang rintang terhadap adenosina deaminase. Ia menyebabkan pecahan untai DNA dan apoptosis, terutamanya dalam limfosit dan monosit yang mempunyai aktiviti deoksisitidina kinase yang tinggi. Kesannya telah dibuktikan dalam leukemia sel berbulu dan sklerosis berbilang.
+Rabdomiosarkoma embrionik parameningeal ialah tumor pepejal berasal daripada mesenkima, berbeza daripada penyakit hematologi tempat cladribine dikenali aktif. Tiada kaitan biologi yang didokumenkan antara kedua-duanya. Skor yang tinggi kemungkinan besar didorong oleh ciri rangkaian yang dikongsi dalam kalangan subjenis rabdomiosarkoma, dan bukannya biologi yang khusus. Oleh itu, kebolehgunaan mekanisme ini masih bersifat spekulatif.
 
-Walau bagaimanapun, tiada pautan mekanistik yang didokumenkan antara cladribine dengan rabdomiosarkoma embrional, iaitu tumor pepejal berasal mesenkima. Skor tinggi (0.998) berkemungkinan didorong oleh ciri rangkaian yang dikongsi merentasi subjenis rabdomiosarkoma dalam graf pengetahuan, dan bukan oleh biologi yang khusus. Ramalan lain dalam kluster ini (contohnya rabdomiosarkoma embrional botrioid pada vagina, rabdomiosarkoma saluran hempedu ekstrahepatik, rabdomiosarkoma embrional prostat, dan rabdomiosarkoma secara am) pada dasarnya merupakan satu hipotesis yang sama dan tidak disokong oleh data.
+Ramalan lain dalam kluster yang sama (subjenis rabdomiosarkoma lain) pada dasarnya mewakili satu hipotesis yang sama dan juga tidak disokong oleh bukti. Pengesahan awal boleh bermula dengan ujian sitotoksisiti in vitro pada titisan sel rabdomiosarkoma serta penilaian ekspresi dCK dan 5'-nukleotidase.
 
-Langkah pengesahan awal yang munasabah ialah ujian sitotoksisiti *in vitro* pada titisan sel rabdomiosarkoma serta penilaian ekspresi dCK dan 5'-nukleotidase.
+## Bukti Ujian Klinikal
 
----
-
-## Bukti Percubaan Klinikal
-
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
-
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Tiada literatur yang berkaitan secara langsung untuk rabdomiosarkoma embrional parameningeal.
+Pada masa ini tiada literatur berkaitan yang tersedia untuk penyakit ini.
 
-Untuk rujukan, ramalan peringkat ke-7 (sarkoma hati) hanya mempunyai satu penerbitan yang diperoleh, dan ia tidak berkaitan secara langsung:
+## Sitotoksisiti
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [15241520](https://pubmed.ncbi.nlm.nih.gov/15241520/) | 2004 | Laporan kes | Der Hautarzt | Rawatan berjaya dengan cladribine pada mastositosis sistemik *smoldering*, iaitu neoplasma hematologi dan bukan sarkoma hati. Ia menyokong aktiviti cladribine dalam gangguan klonal hematopoietik atau sel mast, tetapi tidak memberikan bukti langsung untuk sarkoma. |
-
----
-
-## Sitotoksisiti (Ubat Antineoplastik Sahaja)
+Cladribine ialah ubat antineoplastik (analog nukleosida purin) yang digunakan dalam leukemia sel berbulu.
 
 | Perkara | Kandungan |
 |------|------|
 | Klasifikasi Sitotoksisiti | Sitotoksik konvensional (analog nukleosida purin) |
-| Risiko Penindasan Sumsum Tulang | Tinggi. Data graf pengetahuan menyenaraikan neutropenia, trombositopenia, anemia dan agranulositosis sebagai keadaan kontraindikasi. |
-| Klasifikasi Emetogenisiti | Sila rujuk risalah maklumat produk |
+| Risiko Penekanan Sumsum Tulang | Tinggi (neutropenia, trombositopenia dan anemia dikaitkan dengan ubat ini) |
+| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pembungkusan |
 | Item Pemantauan | Kiraan darah penuh (CBC) dengan pembezaan, fungsi hati dan buah pinggang |
 | Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
 
----
-
 ## Pertimbangan Keselamatan
 
-- **Kontraindikasi daripada graf pengetahuan (TxGNN/PrimeKG, bukan teks label)**: penyakit buah pinggang, piouretur, trombositopenia, neutropenia, agranulositosis, anemia, anemia makrositik, hiperurisemia, penyakit sistem saraf periferi dan neuropati periferi.
-- **Interaksi Ubat**: Carian selesai dengan 100 interaksi dikesan. Antara yang utama:
-  - **Tahap Major**: kortikosteroid (hidrokortison, triamsinolon, deksametason, betametason, budesonid, prednisolon, prednison), deferiprone, ibritumomab tiuxetan, iobenguane (I-131), tositumomab (dan I-131), samarium (153Sm) lexidronam, serta strontium klorida Sr-89.
-  - **Tahap Moderate**: palifermin, dipiridamol, cilostazol dan eltrombopag.
-  - Interaksi dengan asid asetilsalisilik tidak diklasifikasikan tahapnya.
+**Interaksi Ubat**: Sebanyak 100 interaksi direkodkan. Interaksi tahap Major yang utama termasuk:
+- Kortikosteroid: hidrokortison, triamsinolon, deksametason, betametason, budesonid, prednisolon, prednison
+- Deferiprone
+- Radiofarmaseutikal dan agen berkaitan: ibritumomab tiuxetan, iobenguane (I-131), tositumomab, tositumomab (I-131), samarium (153Sm) lexidronam, strontium klorida Sr-89
 
-Amaran utama dan kontraindikasi daripada risalah maklumat produk tidak tersedia. Sila rujuk risalah maklumat produk untuk maklumat keselamatan yang lengkap.
+Interaksi tahap sederhana (Moderate) termasuk palifermin, dipiridamol, cilostazol dan eltrombopag.
 
----
+Untuk amaran dan kontraindikasi lengkap, sila rujuk sisipan pembungkusan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
-**Justifikasi:**
-- Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal atau literatur yang menyokong, dan tiada pautan mekanistik yang didokumenkan. Skor tinggi berkemungkinan mencerminkan persamaan dalam rangkaian rabdomiosarkoma. Cladribine juga tidak dipasarkan di Malaysia dan mempunyai profil toksisiti hematologi yang ketara.
+**Rasional:**
+Ramalan ini hanya berdasarkan model (L5) tanpa sebarang ujian klinikal atau penerbitan yang mengkaji penyakit ini secara langsung. Tiada hubungan mekanisme yang didokumenkan antara cladribine dan rabdomiosarkoma embrionik.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) yang terperinci
-- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA (jurang data yang menghalang penyaringan keselamatan)
-- Kajian praklinikal: ujian sitotoksisiti pada titisan sel rabdomiosarkoma dan penilaian ekspresi dCK/5'-nukleotidase
-- Kajian literatur sistematik yang disasarkan untuk rabdomiosarkoma dan analog nukleosida purin
-- Pelan pemantauan keselamatan hematologi sekiranya penyelidikan diteruskan
+- Data mekanisme tindakan (MOA) yang lengkap
+- Ujian sitotoksisiti in vitro dalam titisan sel rabdomiosarkoma, termasuk penilaian ekspresi dCK dan 5'-nukleotidase
+- Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA untuk saringan keselamatan
+- Data praklinikal atau klinikal awal yang mengkaji penyakit ini secara langsung
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

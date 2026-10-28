@@ -4,17 +4,17 @@ title: Carvedilol
 parent: Low Evidence (L4-L5)
 nav_order: 202
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Carvedilol: indikasi baharu diramal Penyakit buah pinggang hipertensif malignan (tahap bukti L5). Indikasi asal: Gangguan hipertensi / hipertensi"
+indication_count: 4
 monitor_inn: "CARVEDILOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+last_modified_at: 2026-10-27
+description: "Carvedilol: indikasi baharu diramal Penyakit buah pinggang hipertensi malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Carvedilol
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,98 +33,66 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Carvedilol: Daripada Hipertensi kepada Penyakit Buah Pinggang Hipertensif Malignan
+## Carvedilol: penyekat beta tidak selektif dengan sekatan alfa-1 → Penyakit buah pinggang hipertensi malignan (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Carvedilol ialah penyekat beta tidak selektif dengan sekatan alfa-1, yang pada asalnya digunakan untuk merawat hipertensi.
-Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit buah pinggang hipertensif malignan**,
-tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong indikasi ini secara langsung, jadi ia hanya ramalan model (L5).
-
----
+Carvedilol ialah penyekat beta tidak selektif dengan kesan sekatan alfa-1 yang digunakan sebagai ubat antihipertensi.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit buah pinggang hipertensi malignan (malignant hypertensive renal disease)**,
+tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang mengkaji penyakit ini secara langsung, jadi ramalan ini hanya berasaskan model.
 
 ## Gambaran Keseluruhan Pantas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Gangguan hipertensi / hipertensi |
-| Indikasi Baharu yang Diramalkan | Penyakit buah pinggang hipertensif malignan |
-| Skor Ramalan TxGNN | 99.55% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Penyakit buah pinggang hipertensi malignan (malignant hypertensive renal disease) |
+| Skor Ramalan TxGNN | 0,9955 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
----
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
+| Bilangan Pendaftaran | 14 (sah: 14) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, carvedilol ialah penyekat beta tidak selektif dengan sekatan reseptor alfa-1, dan keberkesanannya dalam hipertensi telah dibuktikan. Secara mekanistik, penurunan tekanan darah mungkin relevan untuk hipertensi malignan yang melibatkan buah pinggang.
+Data terperinci tentang mekanisme tindakan carvedilol tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Namun, carvedilol diketahui sebagai penyekat beta tidak selektif dengan sekatan alfa-1, dan kesan penurunan tekanan darahnya telah mantap. Secara mekanistik, penurunan tekanan darah munasabah relevan untuk hipertensi malignan yang melibatkan buah pinggang.
 
-Namun, skor TxGNN yang tinggi (0.995) ialah ramalan sahaja dan berkemungkinan mencerminkan kedekatan dengan indikasi hipertensi asal dalam graf pengetahuan. Hipertensi malignan biasanya diuruskan dengan ubat intravena dalam keadaan akut, maka peranan carvedilol oral adalah terhad.
-
-Ramalan lain yang berskor hampir sama ialah hipertensi renovaskular malignan (99.55%), hipertensi pulmonari dengan mekanisme multifaktorial yang tidak jelas (99.54%), hipertensi pulmonari akibat penyakit paru-paru dan/atau hipoksia (99.54%), serta sindrom Braddock (99.37%). Kesemuanya masih pada tahap ramalan, dan bagi sindrom Braddock tiada kaitan mekanistik yang jelas dengan carvedilol.
-
----
+Perlu diingatkan bahawa skor yang tinggi (0,9955) hanyalah ramalan model dan berkemungkinan mencerminkan kedekatan penyakit ini dengan keadaan hipertensi biasa. Hipertensi malignan lazimnya diuruskan dalam suasana akut dengan ubat intravena, maka peranan carvedilol oral kemungkinan terhad.
 
 ## Bukti Ujian Klinikal
 
-Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
-
----
+Setakat ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Buat masa ini tiada literatur berkaitan yang tersedia untuk indikasi utama yang diramalkan (penyakit buah pinggang hipertensif malignan).
+Setakat ini tiada literatur berkaitan yang tersedia.
 
-Sebagai rujukan, bagi ramalan berkaitan (hipertensi pulmonari akibat penyakit paru-paru dan/atau hipoksia), terdapat sejumlah literatur praklinikal tidak langsung, tetapi ia tidak menyokong indikasi utama di atas dan kebanyakannya tidak berkaitan secara langsung.
+## Maklumat Pasaran Malaysia
 
----
-
-## Pendaftaran dan Keselamatan di Malaysia
-
-Carvedilol tidak mempunyai pendaftaran yang direkodkan di Malaysia (NPRA) dalam data yang disusun untuk laporan ini.
-
----
+Menurut data tempatan, status pasaran ialah dipasarkan, dengan 14 lesen sah dan tiada lesen yang dibatalkan.
 
 ## Pertimbangan Keselamatan
 
-**Kontraindikasi berdasarkan graf pengetahuan** (bukan teks label produk): penyakit/keadaan berikut dikaitkan sebagai kontraindikasi:
-- Kegagalan hati
-- Penyakit pernafasan: bronkitis, asma (termasuk asma intrinsik dan alergi), emfisema paru-paru, penyakit bronkus
-- Diabetes melitus dan ketoasidosis diabetes
-- Gangguan hipotensi
-- Penyakit vaskular periferi, klaudikasi berselang-seli, penyakit arteri periferi
-- Blok atrioventrikular, sindrom sinus sakit (termasuk jenis familial)
-- Angina Prinzmetal
-- Anafilaksis
-- Sindrom iris lembik intraoperatif
+Sila rujuk sisipan pek untuk maklumat keselamatan.
 
-**Interaksi Ubat** (100 interaksi dikenal pasti; antara yang utama):
-- **Major**: Epinefrin
-- **Moderate**: hidrokortison, deksametason, betametason, triamsinolon, budesonid, hiosiamin, atropin, bupropion, morfin, lorcaserin, canagliflozin, asetoheksamida, serta garam kalsium (kalsium fosfat, asetat, karbonat, sitrat)
-- **Minor**: asid asetilsalisilik, aluminium hidroksida, attapulgit
-
-Selain itu, kajian dalam data menyebut keracunan penyekat beta sebagai risiko yang didokumenkan, dan penyekatan beta boleh menjejaskan fungsi pernafasan pada pesakit penyakit paru-paru.
-
-Sila rujuk sisipan pakej produk untuk maklumat amaran dan kontraindikasi yang rasmi.
-
----
+**Interaksi ubat** (daripada pangkalan data interaksi; 100 interaksi dikesan, sebahagian disenaraikan di bawah):
+- **Major**: Epinephrine
+- **Moderate**: Hydrocortisone, Hyoscyamine, Bupropion, Triamcinolone, Morphine, Atropine, Dexamethasone, Lorcaserin, Betamethasone, Budesonide, Canagliflozin, Acetohexamide, Calcium carbonate, Calcium citrate
+- **Minor**: Acetylsalicylic acid, Aluminum hydroxide, Attapulgite
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur khusus, dan skor tinggi berkemungkinan hanya mencerminkan kedekatan dengan indikasi hipertensi asal. Carvedilol juga tidak berdaftar di Malaysia, dan hipertensi malignan lazimnya memerlukan agen intravena.
+Tiada ujian klinikal atau penerbitan yang mengkaji penyakit buah pinggang hipertensi malignan secara langsung, maka tahap bukti ialah L5 (ramalan model sahaja). Hipertensi malignan biasanya memerlukan ubat intravena, jadi peranan carvedilol oral adalah terhad.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) daripada DrugBank
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data bersifat menghalang untuk saringan keselamatan)
-- Semakan literatur khusus dan carian ujian klinikal bagi hipertensi malignan dengan penglibatan buah pinggang
-- Penilaian pakar sama ada penggunaan oral berbaloi berbanding rawatan standard
-- Pertimbangan status pendaftaran di Malaysia sekiranya diteruskan
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pek NPRA
+- Kajian klinikal atau literatur yang secara langsung mengkaji carvedilol dalam penyakit buah pinggang hipertensi malignan
+- Penilaian pakar tentang kesesuaian pemberian oral dalam keadaan akut
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

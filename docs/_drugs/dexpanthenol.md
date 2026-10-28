@@ -3,18 +3,18 @@ layout: default
 title: Dexpanthenol
 parent: Low Evidence (L4-L5)
 nav_order: 274
-evidence_level: L4
+evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
-description: "Dexpanthenol: indikasi baharu diramal Exanthem (ruam kulit) (tahap bukti L4). Indikasi asal: Ileus paralitik, halangan usus, gastroparesis, dermatitis…"
+last_modified_at: 2026-10-28
 monitor_inn: "DEXPANTHENOL"
 predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "exanthem (disease)", "punctate epithelial keratoconjunctivitis"]
+description: "Dexpanthenol: indikasi baharu diramal Anorectal stricture (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Dexpanthenol
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **7** 
+Tahap bukti: **L5** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **7**
 
 </div>
 
-## Dexpanthenol: Daripada Ileus Paralitik dan Penyakit Kulit kepada Exanthem (Ruam Kulit)
+## Dexpanthenol: Anorectal stricture
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,15 +48,15 @@ dengan **1 percubaan klinikal** (Fasa 3, selesai) dan **tiada penerbitan literat
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Ileus paralitik, halangan usus, gastroparesis, dermatitis, ekzema atopik, penyakit kulit (berdasarkan graf pengetahuan TxGNN; tiada teks indikasi berlesen kerana tiada pendaftaran di Malaysia) |
-| Indikasi Baharu yang Diramalkan | Exanthem (ruam kulit) |
-| Skor Ramalan TxGNN | 99.60% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Anorectal stricture |
+| Skor Ramalan TxGNN | 0.9972 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Hold (Tahan); calon ini ialah soalan penyelidikan |
 
-> Nota: Indikasi baharu dipilih sebagai exanthem kerana ia satu-satunya ramalan yang disokong oleh percubaan klinikal. Ramalan berskor tertinggi ialah striktur anorektum (99.72%), tetapi tiada sebarang bukti disediakan untuknya.
+> Nota: Indikasi baharu dipilih sebagai exanthem kerana ia satu-satunya ramalan yang disokong oleh percubaan klinikal. Ramalan berskor tertinggi ialah striktur anorektum (0.9972), tetapi tiada sebarang bukti disediakan untuknya.
 
 ---
 

@@ -8,6 +8,7 @@ nav_order: 87
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Aprotinin
@@ -51,8 +52,8 @@ Laporan ini berfungsi sebagai **penilaian jurang data** daripada penilaian kemba
 | Petunjuk Baru yang Diramalkan | Tiada — ramalan TxGNN belum selesai |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 (Ramalan model sahaja — tetapi tiada ramalan wujud) |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 2 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

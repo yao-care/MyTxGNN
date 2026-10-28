@@ -6,9 +6,9 @@ nav_order: 487
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
-description: "Mecobalamin: indikasi baharu diramal Kolangitis sklerosis (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen berdaftar dengan teks indikasi)"
 monitor_inn: "MECOBALAMIN"
 predicted_indications: ["sclerosing cholangitis", "multiple endocrine neoplasia", "bone Paget disease"]
+description: "Mecobalamin: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Mecobalamin
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 </div>
 
-## Mecobalamin: Daripada Indikasi Asal yang Tidak Direkodkan kepada Kolangitis Sklerosis
+## Mecobalamin: Kolangitis sklerosis (sclerosing cholangitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,12 +47,12 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **kolangitis sklerosis**, tetap
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen berdaftar dengan teks indikasi) |
-| Indikasi Baharu yang Diramalkan | Kolangitis sklerosis |
-| Skor Ramalan TxGNN | 99.50% |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Kolangitis sklerosis (sclerosing cholangitis) |
+| Skor Ramalan TxGNN | 0.9950 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 16) |
+| Bilangan Pendaftaran | 16 (sah: 16) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -64,14 +64,13 @@ Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdas
 Secara teori, kesan ini mungkin berkaitan dengan kecederaan hati kolestatik atau yang dimediasi oleh imun. Namun hubungan ini **bersifat spekulatif dan belum disahkan**. Skor 0.995 hanyalah ramalan pengiraan, dan tiada bukti klinikal atau literatur yang menyokongnya.
 
 Dua ramalan lain turut direkodkan, juga pada tahap L5 dan berstatus Hold:
-- **Neoplasia endokrin berganda** (skor 99.34%): sindrom MEN didorong oleh mutasi germline (MEN1, RET), dan tiada laluan biologi yang jelas menghubungkan vitamin B12 dengannya. Ramalan ini mungkin artifak rangkaian graf pengetahuan.
-- **Penyakit Paget tulang** (skor 99.31%): status B12 dan homosisteina pernah dikaitkan dengan metabolisme tulang dalam kajian pemerhatian, tetapi tiada bukti kesan terhadap disregulasi osteoklas. Rawatan standard (bisfosfonat) bertindak melalui mekanisme yang berbeza.
+- **Neoplasia endokrin berganda** (skor 0.9934): sindrom MEN didorong oleh mutasi germline (MEN1, RET), dan tiada laluan biologi yang jelas menghubungkan vitamin B12 dengannya. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi.
+- **Penyakit Paget tulang** (skor 0.9931): status B12 dan homosisteina pernah dikaitkan dengan metabolisme tulang dalam kajian pemerhatian, tetapi tiada bukti kesan terhadap disregulasi osteoklas. Rawatan standard (bisfosfonat) bertindak melalui mekanisme yang berbeza.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Mecobalamin pada masa ini **tidak dipasarkan** di Malaysia dan tiada lesen berdaftar dalam data yang dikompilasi.
 
 ---
 
@@ -95,7 +94,7 @@ Maklumat amaran dan kontraindikasi daripada sisip pek tidak tersedia. Sila rujuk
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur sokongan. Mecobalamin juga tidak dipasarkan di Malaysia, dan data keselamatan utama belum lengkap.
+- Ramalan hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur sokongan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisip pek NPRA (amaran dan kontraindikasi), yang merupakan jurang data **menyekat** sebelum saringan keselamatan boleh diteruskan

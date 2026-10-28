@@ -8,6 +8,7 @@ nav_order: 13
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Abiraterone Acetate
@@ -51,8 +52,8 @@ Tanpa output ramalan, laporan ini berfungsi sebagai **audit kelengkapan data** s
 | Indikasi Ramalan Baru | Belum dijana |
 | Skor Ramalan TxGNN | Tidak tersedia |
 | Tahap Bukti | Tidak boleh dinilai |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 11 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
+| Bilangan Pendaftaran | 11 (sah: 11) |
 | Keputusan yang Disyorkan | **Tahan** — jurang data penting menghalang penilaian |
 
 ---

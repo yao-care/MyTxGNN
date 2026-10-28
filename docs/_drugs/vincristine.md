@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Vincristine
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 725
-evidence_level: L3
-indication_count: 3
-last_modified_at: 2026-10-15
-description: "Vincristine: indikasi baharu diramal Ganglioneuroblastoma (tahap bukti L3). Indikasi asal: Leukemia limfoblastik akut, limfoma Hodgkin, limfoma bukan Hodgkin…"
+evidence_level: L5
+indication_count: 2
 monitor_inn: "vincristine"
-predicted_indications: ["ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
+predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
+last_modified_at: 2026-10-23
+description: "Vincristine: indikasi baharu diramal Vertebral anomalies and variable endocrine and T-cell dysfunction (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Vincristine
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **3** 
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,12 @@ Tahap bukti: **L3** | Indikasi diramal: **3**
 
 </div>
 
-## Vincristine: Daripada Leukemia Limfoblastik Akut dan Limfoma kepada Ganglioneuroblastoma
+## Vincristine: Vertebral anomalies and variable endocrine and T-cell dysfunction
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Vincristine ialah alkaloid vinca yang pada asalnya digunakan untuk merawat leukemia limfoblastik akut, limfoma Hodgkin, limfoma bukan Hodgkin dan histiositosis sel Langerhans.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Ganglioneuroblastoma**.
-Setakat ini **tiada ujian klinikal berdaftar** dan **6 penerbitan** (kebanyakannya laporan kes) menyokong arah ini.
+Vincristine ialah ubat kemoterapi alkaloid vinca. Dalam graf pengetahuan, ubat ini direkodkan berkaitan dengan leukemia limfoblastik akut, limfoma Hodgkin, limfoma bukan Hodgkin, limfoma sel mantel dan histiositosis sel Langerhans. Model TxGNN meramalkan ia mungkin berkesan untuk **anomali vertebra dengan disfungsi endokrin dan sel-T berubah-ubah** (skor 0.9924). Namun, **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini, jadi ia hanya ramalan model.
 
 ---
 
@@ -48,48 +46,47 @@ Setakat ini **tiada ujian klinikal berdaftar** dan **6 penerbitan** (kebanyakann
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Leukemia limfoblastik akut, limfoma Hodgkin, limfoma bukan Hodgkin, limfoma sel mantel, histiositosis sel Langerhans (berdasarkan graf pengetahuan TxGNN/PrimeKG, bukan label produk berdaftar) |
-| Indikasi Baharu Diramalkan | Ganglioneuroblastoma |
-| Skor Ramalan TxGNN | 99.31% |
-| Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Vertebral anomalies and variable endocrine and T-cell dysfunction |
+| Skor Ramalan TxGNN | 0.9924 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak terdapat dalam data yang dikompilasi untuk laporan ini. Berdasarkan maklumat sedia ada, vincristine ialah alkaloid vinca yang mengikat tubulin dan menghalang pempolimeran mikrotubul, menyebabkan penahanan mitosis dalam sel yang membahagi dengan pantas. Keberkesanannya dalam keganasan hematologi telah dibuktikan.
+Data terperinci tentang mekanisme tindakan belum tersedia. Vincristine dikenali sebagai alkaloid vinca yang mengganggu mikrotubul dan menyebabkan sel yang sedang membahagi terhenti pada metafasa. Ia bersifat sitotoksik kepada sel yang membiak dengan cepat.
 
-Ganglioneuroblastoma ialah tumor neuroblastik yang berasal daripada krista neural, dan berkait rapat dengan neuroblastoma. Vincristine sudah menjadi agen tulang belakang dalam rejimen kemoterapi pelbagai agen untuk tumor neuroblastik. Oleh itu, skor TxGNN yang tinggi munasabah dari sudut biologi.
+Hubungan antara indikasi asal dan indikasi baharu ini lemah. Penyakit yang diramalkan ialah sindrom kongenital yang jarang berlaku, dengan anomali vertebra serta disfungsi sel-T dan endokrin. Tiada rasional yang diiktiraf untuk kemoterapi sitotoksik dalam keadaan ini. Satu-satunya kaitan yang boleh dibayangkan ialah persamaan keturunan limfoid dengan keganasan limfoid yang direkodkan dalam graf pengetahuan, dan ini bersifat spekulatif.
 
-Namun begitu, literatur yang ada kebanyakannya laporan kes dan siri kecil tentang rawatan multimodaliti. Sumbangan vincristine secara tersendiri tidak dapat diasingkan, dan kemungkinan besar ia sudah digunakan dalam protokol onkologi pediatrik standard. Maka ia kurang tepat dianggap sebagai calon repurposing sebenar.
+Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Ia bukan bukti klinikal atau mekanistik.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
-|------|-----|------|------|---------|
-| [31342649](https://pubmed.ncbi.nlm.nih.gov/31342649/) | 2019 | Ujian klinikal prospektif | Pediatric Blood & Cancer | Ujian JN-L-10 menggunakan faktor risiko berasaskan pengimejan untuk memandu keputusan pembedahan dalam neuroblastoma risiko rendah; sumbangan ubat tidak diasingkan |
-| [8255850](https://pubmed.ncbi.nlm.nih.gov/8255850/) | 1993 | Laporan kes | Postgraduate Medical Journal | Ganglioneuroblastoma spinal tidak boleh dibedah mencapai remisi lengkap dengan kemoterapi gabungan (doxorubicin, vincristine, cyclophosphamide, etoposide, ifosfamide, cisplatin) sahaja |
-| [15701990](https://pubmed.ncbi.nlm.nih.gov/15701990/) | 2005 | Laporan kes | J Pediatr Hematol Oncol | Ganglioneuroblastoma dengan jaundis obstruktif; dirawat dengan kemoterapi termasuk cisplatin, pirarubicin/doxorubicin, cyclophosphamide dan vincristine |
-| [7421294](https://pubmed.ncbi.nlm.nih.gov/7421294/) | 1980 | Siri kes | J Thorac Cardiovasc Surg | 31 pesakit ganglioneuroblastoma intratorasik; 27 hidup; rawatan radiasi sahaja menunjukkan hasil buruk |
-| [3071124](https://pubmed.ncbi.nlm.nih.gov/3071124/) | 1988 | Laporan kes | Hinyokika Kiyo | Rawatan multimodaliti ganglioneuroblastoma adrenal dewasa dengan metastasis nodus limfa besar |
-| [8888754](https://pubmed.ncbi.nlm.nih.gov/8888754/) | 1996 | Laporan kes | J Pediatr Hematol Oncol | Ganglioneuroblastoma multifokal peringkat 4 pada bayi dengan penglibatan gastrik |
+Pada masa ini tiada literatur berkaitan.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-Vincristine pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran direkodkan dalam data yang dikompilasi.
+| No. Kebenaran | Nama Produk | Pengilang |
+|---------|------|------|
+| MAL19940256ARZ | DBL® Vincristine Sulfate Injection 2mg/2ml | Pfizer (Malaysia) Sdn. Bhd. |
+| MAL20001224AZ | Vinracine Injection 1mg/1ml | First Pharmaceutical Sdn. Bhd. |
+| MAL20013748AZ | Cytocristin Aqueous (VL of 1ml) | Cipla Malaysia Sdn Bhd |
+
+Ketiga-tiga pendaftaran ialah produk satu bahan aktif dan semuanya sah. Teks indikasi yang diluluskan tidak tersedia, jadi indikasi berlesen di Malaysia tidak dapat disahkan daripada data yang dikumpulkan.
 
 ---
 
@@ -98,43 +95,47 @@ Vincristine pada masa ini tidak dipasarkan di Malaysia dan tiada pendaftaran dir
 | Perkara | Kandungan |
 |------|------|
 | Klasifikasi Sitotoksisiti | Sitotoksik konvensional (alkaloid vinca, perencat mikrotubul) |
-| Risiko Penindasan Sumsum Tulang | Sederhana (leukopenia disenaraikan dalam graf pengetahuan sebagai kontraindikasi berkaitan) |
-| Klasifikasi Emetogenisiti | Rendah |
-| Perkara Pemantauan | Kiraan darah penuh (CBC), fungsi hati dan buah pinggang, bilirubin, status neurologi periferi |
-| Perlindungan Pengendalian | Perlu mengikut garis panduan pengendalian ubat sitotoksik |
+| Risiko Mielosupresi | Perlu dipantau. Neurotoksisiti ialah toksisiti utama kelas ini, tetapi leukopenia direkodkan dalam graf pengetahuan sebagai keadaan berkaitan kontraindikasi |
+| Klasifikasi Emetogenisiti | Rendah (mengikut kategori kelas ubat) |
+| Item Pemantauan | Hitung darah lengkap (CBC), fungsi hati dan buah pinggang, penilaian neurologi (neuropati periferi) |
+| Perlindungan Pengendalian | Perlu mengikut peraturan pengendalian ubat sitotoksik |
 
-Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej untuk maklumat lanjut.
+Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pek untuk maklumat terperinci.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-**Kontraindikasi berdasarkan graf pengetahuan** (daripada graf TxGNN/PrimeKG, bukan teks label): kegagalan hati, kolestasis, hiperbilirubinemia (termasuk sindrom Gilbert), neuropati periferi dan penyakit neuromuskular (termasuk penyakit Charcot-Marie-Tooth), leukopenia, nefropati urat akut, serta jangkitan (kulat dan lain-lain).
+**Kontraindikasi berdasarkan graf pengetahuan** (bukan teks label produk; perlu disahkan dengan sisipan pek):
+- Hati dan hempedu: kegagalan hati, hiperbilirubinemia (termasuk keturunan), sindrom Gilbert, kolestasis (termasuk kolestasis intrahepatik berulang jinak dan kolestasis intrahepatik familial)
+- Saraf: penyakit sistem saraf periferi, neuropati periferi, penyakit neuromuskular, penyakit hubungan neuromuskular, penyakit Charcot-Marie-Tooth, neuropati periferi motor, neuritis
+- Darah dan metabolik: leukopenia, nefropati urat akut, hiperurisemia (istilah lapuk)
+- Jangkitan: jangkitan kulat, dermatofitosis, penyakit berjangkit
 
-**Interaksi Ubat** (100 interaksi ditemui; contoh utama):
+**Interaksi Ubat** (100 interaksi direkodkan; yang utama dipaparkan):
 - **Major**: Clarithromycin
-- **Moderate**: Aprepitant, Dexamethasone, Metronidazole, Eliglustat, Naltrexone, Glycerol phenylbutyrate, Miconazole, Rolapitant, Rosuvastatin, Simvastatin, Tinidazole, Troglitazone
+- **Sederhana**: Aprepitant, Dexamethasone, Metronidazole, Eliglustat, Naltrexone, Glycerol phenylbutyrate, Miconazole, Rolapitant, Rosuvastatin, Simvastatin, Tinidazole, Troglitazone
 - **Minor**: Levofloxacin
+- **Tahap tidak diketahui**: Calcitriol, Pantoprazole, Clotrimazole, Morphine, Metformin, Omeprazole
+
+Untuk amaran utama dan kontraindikasi daripada label, sila rujuk sisipan pek.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Mekanisme vincristine munasabah untuk ganglioneuroblastoma dan skor TxGNN tinggi, tetapi bukti terhad kepada laporan kes dan siri kecil tanpa ujian klinikal berdaftar. Vincristine kemungkinan besar sudah digunakan dalam protokol standard, dan produk ini tidak berdaftar di Malaysia.
+- Ramalan ini hanya berasaskan model (L5), tanpa ujian klinikal atau penerbitan, dan tiada hubungan mekanistik yang jelas dengan penyakit sasaran. Profil toksisiti kemoterapi sitotoksik juga sukar dibenarkan untuk sindrom kongenital yang jarang berlaku ini tanpa bukti.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA (amaran dan kontraindikasi) yang kini tiada; ini menghalang saringan keselamatan
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
-- Semakan protokol onkologi pediatrik sedia ada untuk menentukan sama ada penggunaan ini sudah standard
-- Bukti yang mengasingkan sumbangan vincristine, serta kajian atau ujian berdaftar
-- Status pendaftaran dan ketersediaan di Malaysia
+- Data mekanisme tindakan yang terperinci
+- Teks indikasi, amaran dan kontraindikasi daripada sisipan pek NPRA
+- Kajian pra-klinikal atau laporan kes yang menunjukkan manfaat dalam penyakit sasaran
+- Penilaian pakar tentang keperluan klinikal dan nisbah manfaat-risiko
 
----
-
-*Nota: Dua ramalan lain (kedudukan 2 dan 3) tidak dipilih sebagai fokus. Sindrom kongenital "anomali vertebra dan disfungsi endokrin/sel-T berubah-ubah" tiada bukti dan tiada kaitan mekanistik yang munasabah (Hold). Neoplasma retroperitoneal ialah kategori anatomi luas dengan bukti berupa laporan kes yang bergantung pada histologi, sesuai sebagai soalan penyelidikan berasaskan histologi.*
+**Nota tambahan:** Ramalan kedua, **neoplasma retroperitoneum** (skor 0.9923), mempunyai literatur yang lebih banyak. Kebanyakannya laporan kes dan siri kes tentang tumor tertentu seperti rabdomiosarkoma, tumor neuroektodermal dan paraganglioma, yang vincristine digunakan sebagai sebahagian daripada regimen gabungan. Istilah ini ialah pengelompokan anatomi untuk pelbagai histologi, jadi bukti hanya menyokong penilaian mengikut histologi dan bukan indikasi menyeluruh. Ini ialah soalan penyelidikan dan bukan keputusan untuk diteruskan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

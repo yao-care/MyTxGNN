@@ -4,17 +4,17 @@ title: Sirolimus
 parent: Medium Evidence (L3)
 nav_order: 648
 evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Sirolimus: indikasi baharu diramal Liposarkoma (tahap bukti L3)."
+indication_count: 7
 monitor_inn: "Sirolimus"
-predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma"]
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lung PEComa", "vulva sarcoma"]
+last_modified_at: 2026-10-23
+description: "Sirolimus: indikasi baharu diramal Liposarkoma (tahap bukti L3). Indikasi asal: Tiada maklumat (teks indikasi pada lesen kosong)"
 ---
 
 # Sirolimus
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **10** 
+Tahap bukti: **L3** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,41 +33,43 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-## Sirolimus: Daripada Imunosupresan Pemindahan Organ kepada Liposarkoma
+## Sirolimus: Daripada Indikasi Asal kepada Liposarkoma
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Sirolimus ialah perencat mTOR yang digunakan sebagai imunosupresan dalam pemindahan organ pepejal. Data yang dikumpulkan untuk laporan ini tidak mengandungi indikasi asal yang berdaftar di Malaysia. Model TxGNN meramalkan ia mungkin berkesan untuk **liposarkoma**, dengan **1 ujian klinikal** (Fasa 2, satu lengan) dan **7 penerbitan** yang menyokong arah ini. Buktinya masih awal dan tidak langsung.
+Sirolimus ialah perencat mTOR yang sudah berdaftar di Malaysia. Teks indikasi berlesen tidak tersedia dalam data yang dihimpunkan untuk laporan ini, jadi indikasi asalnya tidak dapat disahkan di sini.
+Model TxGNN meramalkan ia mungkin berkesan untuk **liposarkoma**, dengan **1 percubaan klinikal** (Fasa 2, satu lengan) dan **7 penerbitan** disenaraikan. Kebanyakan penerbitan itu ialah ulasan umum tentang sarkoma tisu lembut.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Baharu yang Diramal | Liposarkoma |
-| Skor Ramalan TxGNN | 99.89% |
+| Indikasi Asal | Tiada maklumat (teks indikasi pada lesen kosong) |
+| Indikasi Baharu yang Diramalkan | Liposarkoma |
+| Skor Ramalan TxGNN | 0.9989 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan yang Disyorkan | Hold |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan dalam data yang dikumpulkan tidak tersedia. Sirolimus diketahui sebagai perencat alosterik mTORC1. Dalam liposarkoma, terutamanya subjenis tidak berbeza (*dedifferentiated*) dan berbeza baik (*well-differentiated*), laluan PI3K/AKT/mTOR didapati aktif. Merencat mTOR ialah strategi antiproliferatif yang munasabah, dan model tetikus menunjukkan perencatan mTOR boleh menghalang pertumbuhan tumor.
+Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Namun, sirolimus diketahui merencat mTORC1. Laluan PI3K/AKT/mTOR sering diaktifkan dalam sarkoma tisu lembut, dan liposarkoma dengan amplifikasi MDM2/CDK4 mungkin bergantung pada isyarat mTOR. Ini memberi asas mekanisme yang munasabah untuk menguji sirolimus pada liposarkoma.
 
-Ujian klinikal yang ada hanyalah satu kajian Fasa 2 satu lengan yang menggabungkan sirolimus dengan agen lain. Tiada bukti rawak. Artikel ulasan tentang terapi sarkoma menyokong rasional ini tetapi tidak menunjukkan keberkesanan yang mantap. Kesamaan antara indikasi asal dengan liposarkoma juga belum dinilai.
+Hubungan dengan indikasi asal tidak dapat dinilai kerana indikasi asal tidak dinyatakan dalam data. Perlu ditegaskan bahawa tiada data keberkesanan klinikal disertakan. Hubungan ini masih bersifat hipotesis mekanisme dan belum terbukti.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02821507](https://clinicaltrials.gov/study/NCT02821507) | Fasa 2 | Selesai | 70 | Gabungan sirolimus dan siklofosfamida pada liposarkoma miksoid dan kondrosarkoma yang metastatik atau tidak boleh dibedah. Rekabentuk satu lengan dan berbilang pusat. Peranan sirolimus tidak boleh diasingkan kerana ia gabungan, dan keputusan tidak disediakan. |
+| [NCT02821507](https://clinicaltrials.gov/study/NCT02821507) | Fasa 2 | Selesai | 70 | Percubaan satu lengan berbilang pusat (2014-06 hingga 2021-12). Menilai gabungan sirolimus dan siklofosfamid pada liposarkoma miksoid dan kondrosarkoma yang metastatik atau tidak boleh dibedah. Tiada keputusan disertakan, dan reka bentuk satu lengan tidak dapat mengasingkan sumbangan sirolimus. |
 
 ---
 
@@ -75,42 +77,47 @@ Ujian klinikal yang ada hanyalah satu kajian Fasa 2 satu lengan yang menggabungk
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [16434506](https://pubmed.ncbi.nlm.nih.gov/16434506/) | 2006 | RCT | J Am Soc Nephrol | Dalam pemindahan buah pinggang, sirolimus selepas penarikan awal siklosporin mengurangkan risiko kanser. Bukan khusus untuk liposarkoma. |
+| [16434506](https://pubmed.ncbi.nlm.nih.gov/16434506/) | 2006 | RCT | J Am Soc Nephrol | Dalam pemindahan buah pinggang, sirolimus selepas penarikan siklosporin mengurangkan risiko kanser. Kajian ini bukan tentang rawatan liposarkoma. |
 | [39796641](https://pubmed.ncbi.nlm.nih.gov/39796641/) | 2024 | Ulasan | Cancers | Kemajuan terapeutik baharu dalam sarkoma tisu lembut. |
-| [37222206](https://pubmed.ncbi.nlm.nih.gov/37222206/) | 2023 | Ulasan | Curr Opin Oncol | Rasional dan keputusan ujian agen bersasar untuk sarkoma lanjut. |
-| [20497911](https://pubmed.ncbi.nlm.nih.gov/20497911/) | 2010 | Ulasan | Bull Cancer | Rawatan bersasar untuk tumor tisu penghubung yang jarang dan sarkoma. |
-| [26093731](https://pubmed.ncbi.nlm.nih.gov/26093731/) | 2015 | Ulasan | Transplant Proc | Kesan ubat imunosupresif terhadap tumor malignan pada pesakit pemindahan buah pinggang. Hubungan tidak langsung. |
-| [42753013](https://pubmed.ncbi.nlm.nih.gov/42753013/) | 2026 | Kohort | Fam Cancer | Spektrum klinikal sindrom hamartoma tumor PTEN. Hubungan tidak langsung. |
-| [32711543](https://pubmed.ncbi.nlm.nih.gov/32711543/) | 2020 | Laporan kes | Diagn Pathol | Tiga kes anomali vaskular fibro-adiposa dengan penekanan pada laluan mTOR. Hubungan tidak langsung. |
+| [37222206](https://pubmed.ncbi.nlm.nih.gov/37222206/) | 2023 | Ulasan | Curr Opin Oncol | Rasional dan keputusan percubaan agen bersasar untuk sarkoma lanjutan. |
+| [20497911](https://pubmed.ncbi.nlm.nih.gov/20497911/) | 2010 | Ulasan | Bull Cancer | Rawatan bersasar untuk tumor tisu penghubung yang jarang berlaku dan sarkoma. |
+| [26093731](https://pubmed.ncbi.nlm.nih.gov/26093731/) | 2015 | Ulasan | Transplant Proc | Saringan kanser pada pesakit pemindahan buah pinggang yang menerima imunosupresan jangka panjang. |
+
+---
+
+## Maklumat Pasaran di Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL20032403ARZ | RAPAMUNE TABLET 1MG (PFIZER (MALAYSIA) SDN. BHD.) | Tidak dinyatakan | Tidak dinyatakan |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat**: Pangkalan data interaksi mengesan 100 interaksi, dan 20 yang pertama diterima untuk penilaian.
+- **Interaksi Ubat**: Pangkalan data interaksi merekodkan 100 interaksi, dan 20 daripadanya dipaparkan dalam data yang dihimpunkan.
+  - **Major**: amfoterisin B, amfoterisin B (kompleks lipid), mesalazin, balsalazid, klaritromisin.
+  - **Moderate** (contoh): asarbos, hidrokortison, metformin, pioglitazon, deksametason, betametason, budesonid, simetidin, aprepitant, kanagliflozin.
 
-- **Major**: Amphotericin B (termasuk kompleks lipid), mesalazine, balsalazide dan clarithromycin.
-- **Moderate**: Beberapa ubat antidiabetik (metformin, pioglitazone, alogliptin, acarbose, canagliflozin, dapagliflozin, chlorpropamide, albiglutide), kortikosteroid (hidrokortison, deksametason, betametason, budesonid, triamsinolon), aprepitant dan cimetidine.
-
-Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pakej.
+Maklumat amaran dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Bukti untuk liposarkoma hanya satu ujian Fasa 2 satu lengan berbentuk gabungan dan beberapa ulasan, tanpa data rawak. Sirolimus juga tidak berdaftar di Malaysia, dan data keselamatan tempatan belum lengkap.
+- Satu-satunya percubaan langsung pada liposarkoma ialah Fasa 2 satu lengan dengan gabungan ubat, tanpa keputusan yang disertakan.
+- Reka bentuknya bukan RCT, jadi tahap bukti ditetapkan pada L3, bukan L2.
+- Data keselamatan sisipan pakej juga tiada, dan ini menghalang penilaian keselamatan lanjut.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Keputusan dan analisis kecil NCT02821507 untuk menilai sumbangan sirolimus.
-- Data mekanisme tindakan terperinci (contohnya daripada DrugBank).
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA.
-- Kajian rawak atau data khusus subjenis liposarkoma.
-- Pengesahan status pendaftaran dan laluan akses di Malaysia.
-
-**Catatan:** Antara ramalan lain dalam data yang sama, **lymphangioleiomyomatosis (LAM)** mempunyai bukti jauh lebih kukuh (tahap L1), termasuk ujian Fasa 3 MILES (NCT00414648). Ia wajar dinilai dalam laporan berasingan.
+- Memuat turun dan menghurai sisipan pakej NPRA (amaran, kontraindikasi, indikasi berlesen).
+- Data mekanisme tindakan terperinci daripada DrugBank.
+- Keputusan penuh NCT02821507, terutamanya kesan sirolimus berbanding siklofosfamid sahaja.
+- Bukti tambahan langsung pada liposarkoma, sebaik-baiknya percubaan rawak.
+- Pelan pemantauan keselamatan, termasuk pengurusan interaksi ubat utama seperti klaritromisin dan amfoterisin B.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

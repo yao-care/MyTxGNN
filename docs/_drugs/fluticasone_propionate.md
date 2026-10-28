@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Fluticasone Propionate
-parent: Low Evidence (L4-L5)
+parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 372
-evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Fluticasone Propionate: indikasi baharu diramal Neurodermatitis (tahap bukti L5). Indikasi asal: Ekzema atopik / dermatitis atopik (berdasarkan graf pengetahuan TxGNN"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Fluticasone Propionate: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
+predicted_indications: []
 ---
 
 # Fluticasone Propionate
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **N/A** | Indikasi diramal: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,52 +32,75 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Fluticasone Propionate: Daripada Ekzema Atopik kepada Neurodermatitis
+<!-- known-uses-page -->
+<!-- description: Fluticasone Propionate: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu -->
+## Fluticasone Propionate: Kegunaan diketahui dan status pasaran di Malaysia
 {: .text-alpha }
 
-## Ringkasan Satu Ayat
+## Ringkasan
+Model pembelajaran mendalam TxGNN (skor ≥ 0.99) menghasilkan calon indikasi untuk Fluticasone Propionate, tetapi semua calon yang dapat dikesan sumbernya sudah pun merupakan kegunaan yang diketahui. Oleh itu, pada masa ini tiada indikasi baharu yang diramalkan untuk ubat ini. Kedua-dua kegunaan yang diketahui itu direkodkan dalam graf pengetahuan dan tidak ditemui sebagai indikasi yang diluluskan dalam data ini.
 
-Fluticasone propionate ialah kortikosteroid glukokortikoid berkuasa yang digunakan untuk keadaan alahan dan keradangan seperti ekzema atopik, rinitis alergik dan asma.
-Model TxGNN meramalkan ia mungkin berkesan untuk **neurodermatitis** (lichen simplex chronicus), tetapi skor ramalan ialah **0.0%**.
-Pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini, jadi ia hanyalah inferens peringkat kelas ubat.
-
----
-
-## Gambaran Ringkas
-
+## Gambaran ringkas
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Ekzema atopik / dermatitis atopik (berdasarkan graf pengetahuan TxGNN; tiada teks indikasi berlesen tersedia di Malaysia) |
-| Indikasi Baharu yang Diramalkan | Neurodermatitis |
-| Skor Ramalan TxGNN | 0.0% |
-| Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold (Tahan) |
+| Indikasi baharu yang diramalkan | Tiada (semua calon model yang dapat dikesan sumbernya ialah kegunaan yang diketahui) |
+| Kegunaan diketahui dalam calon model | 2 |
+| Tahap bukti | Tidak berkenaan |
+| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 30) |
+| Bilangan Pendaftaran | 30 (sah: 30) |
 
----
+## Kegunaan diketahui dalam calon model
 
-## Mengapa Ramalan Ini Munasabah?
+### Diluluskan (disokong oleh lesen atau label)
+| Indikasi | Sumber |
+|------|------|
+| Tiada | Tiada |
 
-Data terperinci mengenai mekanisme tindakan asal ubat ini tidak tersedia. Namun, data farmakologi menunjukkan fluticasone propionate ialah ligan **reseptor glukokortikoid (NR3C1)**. Ia juga berinteraksi dengan reseptor mineralokortikoid (NR3C2) dan reseptor progesteron (PGR). Sebagai agonis reseptor glukokortikoid, ia menekan isyarat sitokin radang dan pengaktifan sel imun di kulit.
+### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+| Indikasi | Kategori yang diluluskan |
+|------|------|
+| Tiada | Tiada |
 
-Neurodermatitis ialah dermatosis radang yang didorong oleh kitaran gatal-garu. Kortikosteroid topikal ialah rawatan konvensional untuk keadaan ini. Fluticasone propionate ialah glukokortikoid topikal berkuasa sederhana hingga tinggi, jadi alasan anti-radang dan anti-pruritus adalah munasabah. Ekzema atopik, yang sudah menjadi indikasi asalnya, juga ialah penyakit kulit radang berkait gatal.
+### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+| Indikasi |
+|------|
+| Ekzema atopik (atopic eczema) |
+| Dermatitis atopik (dermatitis, atopic) |
 
-Walau bagaimanapun, ini hanya inferens peringkat kelas ubat. Tiada ujian klinikal atau literatur khusus untuk neurodermatitis dalam data yang dikumpulkan, dan skor TxGNN ialah 0.0. Keserasian laluan pentadbiran juga belum dinilai.
+## Market information
 
----
-
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk neurodermatitis.
-
----
-
-## Bukti Literatur
-
-Pada masa ini tiada literatur berkaitan yang tersedia untuk neurodermatitis.
-
----
+| No. pendaftaran | Produk | Bentuk dos | Status |
+|------|------|------|------|
+| MAL11105001AZ | Flutinide Nasal Spray 50mcg/dose |  | Sah |
+| MAL21116022AZ | Seroflo 50 / 100 Ciphaler |  | Sah |
+| MAL21116023AZ | Seroflo 50 / 250 Ciphaler |  | Sah |
+| MAL20034218ARZ | FLIXOTIDE EVOHALER 125MCG |  | Sah |
+| MAL20021381ARZ | FLIXOTIDE EVOHALER 50MCG |  | Sah |
+| MAL07090898AZ | Seroflo -250 Inhaler |  | Sah |
+| MAL07090897AZ | Seroflo-125 inhaler |  | Sah |
+| MAL07090921AZ | Flomist Aqueous Nasal Spray 50 mcg |  | Sah |
+| MAL17117032AZ | BIOXITIDE 25/250 mcg/dose HFA INHALATION AEROSOL |  | Sah |
+| MAL17117031AZ | BIOXITIDE 25/125 mcg/dose HFA INHALATION AEROSOL |  | Sah |
+| MAL17117036ACRE | hovid-Clefan Nasal Spray 0.05% w/v |  | Sah |
+| MAL20031743ACRZ | FLIXONASE AQUEOUS NASAL SPRAY |  | Sah |
+| MAL18056065ACZ | Dymista Nasal Spray 137mcg/50mcg |  | Sah |
+| MAL23086016AZ | Seroflo 50 / 500 Ciphaler |  | Sah |
+| MAL14055154AZ | Combiwave SF 125 (Salmeterol 25mcg/actuation and Fluticasone |  | Sah |
+| MAL14085016AZ | FLUTIMATE 50 Fluticasone Pressurised Metered-Dose Inhaler 50 |  | Sah |
+| MAL14125084AZ | Combiwave SF250 (Salmeterol 25mcg/actuation and Fluticasone  |  | Sah |
+| MAL25016022AZ | FLUTIFLOW 120 (Fluticasone Nasal Spray BP 50mcg) |  | Sah |
+| MAL14125126AZ | FLUTIMATE NS 50 (Fluticasone Nasal Spray BP 50mcg) |  | Sah |
+| MAL10021809AZ | Flohale 125mcg Inhaler CFC Free |  | Sah |
+| MAL20001533ARZ | SERETIDE ACCUHALER 50/500MCG |  | Sah |
+| MAL20001531ARZ | SERETIDE ACCUHALER 50/100MCG |  | Sah |
+| MAL20001532ARZ | SERETIDE ACCUHALER 50/250MCG |  | Sah |
+| MAL21036028AZ | AIRPLUS 50/500 mcg inhalation powder |  | Sah |
+| MAL21036027AZ | AIRPLUS 50/250 mcg inhalation powder |  | Sah |
+| MAL21036026AZ | AIRPLUS 50/100 mcg inhalation powder  |  | Sah |
+| MAL19960955ARZ | CUTIVATE CREAM 0.05% W/W |  | Sah |
+| MAL11040017ARZ | Seretide Evohaler  Dose Counter 25 /50 mcg |  | Sah |
+| MAL11040018ARZ | Seretide Evohaler Dose Counter 25 /125 mcg |  | Sah |
+| MAL11040019ARZ | Seretide Evohaler Dose Counter 25 /250 mcg |  | Sah |
 
 ## Pertimbangan Keselamatan
 
@@ -96,20 +120,6 @@ Pangkalan data interaksi hanya memaparkan sasaran farmakologi (reseptor glukokor
 
 ---
 
-## Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Hold (Tahan)**
-
-**Rasional:**
-- Tiada ujian klinikal atau literatur menyokong penggunaan fluticasone propionate untuk neurodermatitis, dan skor TxGNN ialah 0.0. Bukti hanya pada tahap ramalan model (L5).
-- Ubat ini juga tidak berdaftar di Malaysia.
-- Sebagai perbandingan, ekzema atopik mempunyai 5 ujian klinikal dan kira-kira 20 penerbitan (tahap L3). Namun, itu ialah penggunaan sedia ada (on-label), bukan repurposing sebenar.
-
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA untuk amaran dan kontraindikasi (perlu sebelum saringan keselamatan).
-- Data mekanisme tindakan yang lebih lengkap.
-- Carian literatur dan ujian klinikal khusus untuk neurodermatitis / lichen simplex chronicus.
-- Penilaian keserasian formulasi dan laluan pentadbiran, serta kemungkinan status pendaftaran di Malaysia.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

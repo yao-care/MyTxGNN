@@ -48,10 +48,10 @@ Risdiplam ialah modulator pemotongan (splicing) pra-mRNA SMN2 yang diketahui dig
 |------|------|
 | Indikasi Asal | Tiada data indikasi berdaftar tempatan |
 | Indikasi Baharu yang Diramalkan | Jerawat (acne) |
-| Skor Ramalan TxGNN | 99.45% |
+| Skor Ramalan TxGNN | 0.9945 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -60,7 +60,7 @@ Risdiplam ialah modulator pemotongan (splicing) pra-mRNA SMN2 yang diketahui dig
 
 Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, risdiplam ialah modulator pemotongan pra-mRNA SMN2 yang diluluskan untuk SMA. Walau bagaimanapun, tiada kaitan mekanistik langsung dengan patofisiologi jerawat (pengeluaran sebum, hiperkeratinisasi folikel, kolonisasi *Cutibacterium acnes*, keradangan) dapat ditunjukkan daripada data yang dikumpulkan.
 
-Skor ramalan sangat tinggi (0.9945), tetapi ia hanya ramalan berasaskan graf pengetahuan. Sebarang kaitan, contohnya melalui kesan berkaitan pemotongan RNA atau kesan di luar sasaran pada laluan yang tidak didokumenkan di sini, adalah spekulatif. Skor tersebut juga mungkin mencerminkan artifak topologi graf, memandangkan indikasi asal dan MOA tiada dalam data.
+Skor ramalan sangat tinggi (0.9945), tetapi ia hanya skor daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Sebarang kaitan, contohnya melalui kesan berkaitan pemotongan RNA atau kesan di luar sasaran pada laluan yang tidak didokumenkan di sini, adalah spekulatif. Indikasi asal dan MOA juga tiada dalam data.
 
 ---
 
@@ -101,7 +101,7 @@ Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pakej.
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang penilaian keselamatan)
 - Bukti praklinikal atau mekanistik yang menghubungkan modulasi pemotongan SMN2 dengan patofisiologi jerawat
 - Penilaian keserasian laluan pentadbiran (risdiplam ialah ubat oral sistemik, manakala jerawat lazimnya dirawat secara topikal)
-- Pengesahan sama ada skor tinggi itu adalah artifak graf, melalui semakan literatur sistematik
+- Pengesahan sama ada skor tinggi daripada model TxGNN (pembelajaran mendalam) itu hanya mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, melalui semakan literatur sistematik
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

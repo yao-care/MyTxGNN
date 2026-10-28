@@ -8,6 +8,7 @@ nav_order: 287
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Dicyclomine Hydrochloride
@@ -47,8 +48,8 @@ Dicyclomine Hydrochloride adalah agen antikolinergik/antispasmodik yang pada mas
 | Indikasi Baru Diramalkan | Tiada — tiada ramalan TxGNN dijana |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | T/A |
-| Status Pasaran Malaysia | ✓ Dipasarkan |
-| Bilangan Pendaftaran | 4 |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | **Tahan** |
 
 ## Mengapa Ramalan Ini Munasabah?

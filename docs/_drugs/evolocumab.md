@@ -59,10 +59,10 @@ tetapi pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang men
 |------|------|
 | Indikasi Asal | Hiperkolesterolemia familial homozigot; dislipidemia sindromik |
 | Indikasi Baharu yang Diramalkan | Hemofilia simptomatik pada pembawa wanita |
-| Skor Ramalan TxGNN | 99.82% |
+| Skor Ramalan TxGNN | 0.9982 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -73,7 +73,7 @@ Evolocumab ialah antibodi monoklonal yang menyekat PCSK9, lalu meningkatkan kete
 
 Hemofilia pada pembawa wanita berpunca daripada aktiviti faktor pembekuan VIII atau IX yang berkurangan (diwarisi secara terangkai-X, dengan penyahaktifan-X yang condong). Mekanisme ini **tidak berkaitan** dengan laluan PCSK9/LDLR.
 
-Oleh itu, **tiada hubungan mekanistik yang munasabah** ditemui. Skor TxGNN yang tinggi (0.998) hanyalah ramalan graf pengetahuan dan tidak disokong oleh sebarang ujian atau penerbitan dalam data yang ada.
+Oleh itu, **tiada hubungan mekanistik yang munasabah** ditemui. Skor TxGNN yang tinggi (0.9982) hanyalah ramalan model TxGNN (pembelajaran mendalam) dan tidak disokong oleh sebarang ujian atau penerbitan dalam data yang ada.
 
 ---
 
@@ -95,11 +95,11 @@ Semua penunjuk di bawah berada pada Tahap Bukti L5 (tiada ujian, tiada penerbita
 
 | Kedudukan | Penyakit | Skor TxGNN | Penilaian Hubungan Mekanistik |
 |------|------|------|------|
-| 2 | Kekurangan apolipoprotein C-II familial | 99.50% | Kebolehpercayaan biologi tidak langsung sahaja. Kekurangan ini menyebabkan hipertrigliseridemia teruk melalui gangguan pengaktifan lipoprotein lipase. Evolocumab terutamanya menurunkan LDL-C dan tidak membetulkan kecacatan asas. |
-| 3 | Purpura trombositopenik | 99.42% | Tiada hubungan jelas. Penyakit ini melibatkan pemusnahan platelet, autoantibodi atau kekurangan ADAMTS13. |
-| 4 | Kekurangan faktor XI | 99.29% | Tiada hubungan munasabah. Perencatan PCSK9 tidak menggantikan atau mengubah suai faktor XI. |
-| 5 | Hemofilia A dengan kelainan vaskular | 99.22% | Tiada hubungan munasabah. Puncanya kekurangan faktor VIII, tidak berkait dengan PCSK9/LDLR. |
-| 6 | Penyakit aktiviti pemangkin | 99.08% | Kategori ontologi yang terlalu luas dan bukan indikasi klinikal yang jelas, maka tidak boleh dinilai atau diambil tindakan. |
+| 2 | Kekurangan apolipoprotein C-II familial | 0.9950 | Kebolehpercayaan biologi tidak langsung sahaja. Kekurangan ini menyebabkan hipertrigliseridemia teruk melalui gangguan pengaktifan lipoprotein lipase. Evolocumab terutamanya menurunkan LDL-C dan tidak membetulkan kecacatan asas. |
+| 3 | Purpura trombositopenik | 0.9942 | Tiada hubungan jelas. Penyakit ini melibatkan pemusnahan platelet, autoantibodi atau kekurangan ADAMTS13. |
+| 4 | Kekurangan faktor XI | 0.9929 | Tiada hubungan munasabah. Perencatan PCSK9 tidak menggantikan atau mengubah suai faktor XI. |
+| 5 | Hemofilia A dengan kelainan vaskular | 0.9922 | Tiada hubungan munasabah. Puncanya kekurangan faktor VIII, tidak berkait dengan PCSK9/LDLR. |
+| 6 | Penyakit aktiviti pemangkin | 0.9908 | Kategori ontologi yang terlalu luas dan bukan indikasi klinikal yang jelas, maka tidak boleh dinilai atau diambil tindakan. |
 
 ---
 

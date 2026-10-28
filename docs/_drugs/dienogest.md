@@ -3,7 +3,7 @@ layout: default
 title: Dienogest
 parent: Low Evidence (L4-L5)
 nav_order: 288
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Dienogest: indikasi baharu diramal Amenorea (amenorrhea) (tahap bukti L4). Indikasi asal: Tiada data (tiada lesen NPRA direkodkan)"
@@ -14,7 +14,7 @@ predicted_indications: ["amenorrhea (disease)", "primary ovarian failure", "brea
 # Dienogest
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Kesusasteraan yang diperoleh (7 penerbitan) berkait dengan endometriosis, kesan 
 |------|------|
 | Indikasi Asal | Tiada data (tiada lesen NPRA direkodkan) |
 | Indikasi Baharu yang Diramalkan | Amenorea (amenorrhea) |
-| Skor Ramalan TxGNN | 99.71% |
-| Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
+| Skor Ramalan TxGNN | 0.9971 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -121,7 +121,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan lengkap, termasuk amaran dan
 
 ## Nota Tambahan: Ramalan Lain
 
-Sembilan ramalan lain (kedudukan 2–10) mempunyai skor sekitar 99.4–99.7%. Hampir kesemuanya berada pada tahap bukti L5 dengan cadangan **Hold**, dan tiada ujian klinikal ataupun kesusasteraan yang diperoleh. Satu-satunya pengecualian ialah **penyakit fibrosistik payudara** (L4), yang disokong oleh satu kajian kecil perintis (PMID 19499407, 21 wanita, dos tinggi) yang menunjukkan pengurangan saiz kelenjar mamma. Ia masih berupa persoalan penyelidikan yang belum disahkan.
+Sembilan ramalan lain (kedudukan 2–10) mempunyai skor antara 0.9942 dan 0.9969, yang dihasilkan oleh model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Hampir kesemuanya berada pada tahap bukti L5 dengan cadangan **Hold**, dan tiada ujian klinikal ataupun kesusasteraan yang diperoleh. Satu-satunya pengecualian ialah **penyakit fibrosistik payudara** (L4), yang disokong oleh satu kajian kecil perintis (PMID 19499407, 21 wanita, dos tinggi) yang menunjukkan pengurangan saiz kelenjar mamma. Ia masih berupa persoalan penyelidikan yang belum disahkan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

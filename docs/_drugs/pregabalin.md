@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Pregabalin
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 597
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Pregabalin: indikasi baharu diramal Fibromialgia (tahap bukti L1). Indikasi asal: Gangguan kebimbangan, fibromialgia, sindrom nyeri miofasial…"
+evidence_level: L5
+indication_count: 6
+monitor_inn: "Pregabalin"
+predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
+last_modified_at: 2026-10-23
+description: "Pregabalin: indikasi baharu diramal Tendinitis (tahap bukti L5). Indikasi asal: Gangguan kebimbangan, fibromialgia, sindrom sakit miofasial…"
 ---
 
 # Pregabalin
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,107 +33,98 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-## Pregabalin: Daripada Gangguan Kebimbangan kepada Fibromialgia
+## Pregabalin: Daripada Gangguan Kebimbangan kepada Tendinitis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Pregabalin ialah ubat yang pada asalnya digunakan untuk merawat gangguan kebimbangan, fibromialgia, sindrom nyeri miofasial dan neuralgia pascaherpetik.
-Model TxGNN meletakkan **fibromialgia** sebagai indikasi baharu pertama, tetapi skor ramalannya ialah **0.0%** dan fibromialgia sudah pun tersenarai sebagai indikasi asal, jadi ini lebih merupakan pengesahan penggunaan sedia ada dan bukan pemakaian semula yang sebenar.
-Data yang dikumpulkan untuk laporan ini memaparkan **39 ujian klinikal** dan **19 penerbitan** bagi fibromialgia, termasuk beberapa ujian Fasa 3 yang telah selesai.
+Pregabalin ialah ubat yang dikaitkan dengan gangguan kebimbangan, fibromialgia, sindrom sakit miofasial dan neuralgia pascaherpes. Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **tendinitis** dengan skor **0.9971**; skor ini datang daripada model TxGNN dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Namun, **tiada ujian klinikal** didaftarkan untuk arah ini, dan daripada **6 penerbitan** yang diperoleh, tiada satu pun yang menguji pregabalin terhadap tendinitis itu sendiri.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Gangguan kebimbangan, fibromialgia, sindrom nyeri miofasial, neuralgia pascaherpetik (daripada graf pengetahuan TxGNN; tiada teks indikasi berlesen kerana tiada pendaftaran di Malaysia) |
-| Indikasi Baharu yang Diramalkan | Fibromialgia |
-| Skor Ramalan TxGNN | 0.0% |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails |
-
-Nota: Data untuk indikasi lain turut dikumpulkan. Sindrom nyeri miofasial (L3, cadangan "Research Question"), gangguan kebimbangan (L1) dan neuralgia pascaherpetik (L1) mempunyai skor TxGNN 0.0% juga. Ketiga-tiga indikasi ini tersenarai sebagai indikasi asal.
+| Indikasi Asal | Gangguan kebimbangan, fibromialgia, sindrom sakit miofasial, neuralgia pascaherpes (hubungan yang direkodkan dalam knowledge graph; teks indikasi lulus pada rekod lesen tempatan tidak tersedia) |
+| Indikasi Baharu yang Diramalkan | Tendinitis |
+| Skor Ramalan TxGNN | 0.9971 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 63 daripada 63) |
+| Bilangan Pendaftaran Produk | 63 (sah: 63) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan. Berdasarkan farmakologi am, pregabalin mengikat subunit alfa-2-delta pada saluran kalsium bergantung voltan prasinaps, lalu mengurangkan pembebasan neurotransmiter perangsang (glutamat, bahan P, norepinefrin). Maklumat ini datang daripada pengetahuan farmakologi am dan bukan daripada data masukan.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dihimpun untuk laporan ini. Berdasarkan farmakologi yang diketahui, pregabalin mengikat subunit alfa2-delta saluran kalsium bergantung voltan dan mengurangkan pelepasan neurotransmitter rangsangan. Ini boleh membantu komponen sakit neuropatik atau sensitisasi pusat dalam sakit otot-rangka kronik.
 
-Mekanisme ini boleh melemahkan sensitisasi pusat yang dipercayai mendasari nyeri fibromialgia. Skor TxGNN 0.0% tidak memberikan isyarat sokongan. Oleh itu, justifikasi bagi indikasi ini bersandar pada bukti klinikal dan bukan pada ramalan model.
+Indikasi asal pregabalin (fibromialgia, sakit miofasial) ialah keadaan sakit kronik. Oleh itu, model mungkin menangkap persamaan antara keadaan tersebut dengan tendinitis yang disertai kesakitan. Walau bagaimanapun, pregabalin tidak diketahui bertindak pada keradangan atau pemulihan tendon. Kesan yang munasabah hanyalah melegakan kesakitan, bukan merawat tendinitis itu sendiri.
 
-Oleh sebab fibromialgia sudah menjadi indikasi asal, laporan ini pada dasarnya mengesahkan penggunaan sedia ada dan bukan penemuan penggunaan baharu.
+Skor TxGNN yang sangat tinggi tidak disokong oleh bukti klinikal.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Berikut ialah ujian yang paling relevan untuk fibromialgia (pregabalin sebagai ubat yang diuji, dinilai gred A atau B dalam data):
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT01387607](https://clinicaltrials.gov/study/NCT01387607) | Fasa 3 | Selesai | 343 | Kajian 14 minggu, rawak, buta dua, terkawal plasebo; keberkesanan dan toleransi pregabalin pada dewasa dengan fibromialgia |
-| [NCT00883740](https://clinicaltrials.gov/study/NCT00883740) | Fasa 3 | Selesai | 119 | Kajian polisomnografi silang terkawal plasebo; kesan pada kebangkitan selepas permulaan tidur dalam fibromialgia |
-| [NCT02868814](https://clinicaltrials.gov/study/NCT02868814) | Fasa 3 | Tidak diketahui | 240 | Tablet pregabalin pelepasan terkawal berbanding plasebo; keputusan belum disahkan |
-| [NCT01020474](https://clinicaltrials.gov/study/NCT01020474) | Fasa 4 | Selesai | 107 | Kajian 15 minggu pada remaja (12–17 tahun), terkawal plasebo, dos fleksibel |
-| [NCT02187471](https://clinicaltrials.gov/study/NCT02187471) | Fasa 3 | Selesai | 1301 | DS-5565 (mirogabalin) berbanding plasebo dan pembanding aktif; pregabalin bukan ubat yang diuji |
-| [NCT07157852](https://clinicaltrials.gov/study/NCT07157852) | NA | Sedang merekrut | 674 | Pregabalin monoterapi berbanding mirogabalin; belum ada keputusan |
-| [NCT07208357](https://clinicaltrials.gov/study/NCT07208357) | NA | Sedang merekrut | 384 | Pregabalin monoterapi berbanding pregabalin ditambah toludesvenlafaxine; belum ada keputusan |
-
-Selain itu, data juga merangkumi ujian pregabalin Fasa 3 lain yang telah selesai tetapi belum dinilai kerelevanannya, antaranya [NCT00645398](https://clinicaltrials.gov/study/NCT00645398) (751 peserta), [NCT00151489](https://clinicaltrials.gov/study/NCT00151489) (1020 peserta, ketahanan kesan 6 bulan) dan [NCT01271933](https://clinicaltrials.gov/study/NCT01271933) (441 peserta, pelepasan terkawal sekali sehari).
+Ketika ini tiada ujian klinikal berkaitan didaftarkan untuk tendinitis.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [39705187](https://pubmed.ncbi.nlm.nih.gov/39705187/) | 2025 | Gambaran keseluruhan ulasan Cochrane | Rheumatology (Oxford) | Merumuskan ulasan Cochrane tentang terapi farmakologi untuk nyeri fibromialgia pada dewasa |
-| [40679776](https://pubmed.ncbi.nlm.nih.gov/40679776/) | 2025 | Ulasan | Drugs | Garis panduan mengesyorkan antidepresan dan antikonvulsan (gabapentin/pregabalin), tetapi kelegaan hanya sederhana dan terhad oleh kesan sampingan |
-| [41142233](https://pubmed.ncbi.nlm.nih.gov/41142233/) | 2025 | Ulasan | Front Pharmacol | Kemas kini rawatan farmakologi fibromialgia |
-| [38927473](https://pubmed.ncbi.nlm.nih.gov/38927473/) | 2024 | Ulasan | Biomedicines | Kemas kini pengurusan fibromialgia |
-| [36791450](https://pubmed.ncbi.nlm.nih.gov/36791450/) | 2023 | Ulasan | Am Fam Physician | Diagnosis dan pengurusan fibromialgia |
-| [27257288](https://pubmed.ncbi.nlm.nih.gov/27257288/) | 2016 | Analisis kajian | Pain Med | Pregabalin memperbaiki skor nyeri fibromialgia tanpa mengira osteoartritis bersama |
-| [25756560](https://pubmed.ncbi.nlm.nih.gov/25756560/) | 2016 | Analisis kajian | Clin J Pain | Penggunaan opioid terdahulu tidak menjejaskan tindak balas terhadap pregabalin dalam fibromialgia |
-| [38879799](https://pubmed.ncbi.nlm.nih.gov/38879799/) | 2024 | Siri kes | J Int Med Res | Rabdomiolisis akibat pregabalin (isu keselamatan) |
-
-Dalam data fibromialgia, tiada RCT yang disenaraikan sebagai penerbitan; bukti RCT terdapat dalam daftar ujian klinikal di atas.
+| [34052386](https://pubmed.ncbi.nlm.nih.gov/34052386/) | 2022 | RCT | Arthroscopy | Pregabalin oral sebelum dan selepas pembedahan baik pulih rotator cuff memberikan skor sakit pascaoperasi setara dengan sekatan pleksus brakial interskalen. Ini ialah kajian analgesia perioperatif, bukan rawatan tendinitis. |
+| [32839073](https://pubmed.ncbi.nlm.nih.gov/32839073/) | 2021 | Kohort retrospektif | J Orthop Sci | Menilai kesan analgesik dan penjimatan opioid pregabalin selepas pembedahan baik pulih rotator cuff artroskopik. Ia menyokong kawalan sakit selepas pembedahan sahaja. |
+| [41017607](https://pubmed.ncbi.nlm.nih.gov/41017607/) | 2025 | Laporan kes/ulasan | Praxis | Ketidakupayaan berkaitan fluorokuinolon selepas ciprofloxacin, termasuk tendinopati sebagai kesan sampingan antibiotik. Tiada kaitan dengan kesan terapeutik pregabalin. |
+| [37051935](https://pubmed.ncbi.nlm.nih.gov/37051935/) | 2023 | Laporan kes | Pain Pract | Kes keterbatasan saraf kutaneus femoral posterior selepas maraton akibat tendinitis hamstring. Tidak menunjukkan kesan pregabalin. |
+| [40818536](https://pubmed.ncbi.nlm.nih.gov/40818536/) | 2025 | Ulasan editorial | Arthroscopy | Ulasan mengenai sindrom piriformis dan rawatan melalui neurolisis sciatik serta pelepasan tendon piriformis. Tiada data pregabalin untuk tendinitis. |
+| [39703364](https://pubmed.ncbi.nlm.nih.gov/39703364/) | 2024 | Praklinikal (haiwan) | Adv Pharmacol Pharm Sci | Ekstrak etanol *Cissus quadrangularis* mengurangkan neuropati periferi akibat vinkristin pada tikus. Tiada kaitan langsung dengan pregabalin atau tendinitis. |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-Pregabalin kini **tidak dipasarkan** di Malaysia mengikut data yang dikumpulkan, dan tiada pendaftaran berlesen (jumlah pendaftaran: 0).
+Terdapat 63 pendaftaran produk pregabalin bahan tunggal yang sah di Malaysia. Teks indikasi lulus dan bentuk dosej tidak tersedia dalam data yang dihimpun. Lima contoh pendaftaran utama (produk asal Lyrica):
+
+| Nombor Kebenaran | Nama Produk | Pengeluar |
+|---------|------|------|
+| MAL20081830ACRZ | LYRICA 50MG CAPSULES | VIATRIS SDN. BHD. |
+| MAL20081831ACRZ | LYRICA 75MG CAPSULES | VIATRIS SDN. BHD. |
+| MAL20081832ACRZ | LYRICA 150MG CAPSULES | VIATRIS SDN. BHD. |
+| MAL25046010ACRZ | LYRICA CR 82.5MG TABLET | VIATRIS SDN. BHD. |
+| MAL25046011ACRZ | LYRICA CR 165MG TABLET | VIATRIS SDN. BHD. |
+
+Pendaftaran selebihnya terdiri daripada produk generik dan jenama lain, termasuk Pregal, Prelica, Pregavid, Pregeb, Rewisca dan Novugab.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Kontraindikasi (daripada graf pengetahuan TxGNN, bukan teks label):** gangguan kebimbangan, gangguan neurotik, gangguan distimik, trombositopenia, angioedema (termasuk angioedema diperoleh, akibat penyekat sistem renin-angiotensin-aldosteron, bukan histaminik dan herediter), miopati, penyakit otot, penyakit otot rangka, lumpuh berkala keluarga, rabdomiolisis, fasiitis nodular, gangguan fungsi buah pinggang dan blok atrioventrikular. Senarai ini tidak berasal daripada selebaran pakej dan perlu disahkan.
-- **Interaksi Ubat:** 100 interaksi direkodkan. Interaksi **Major** termasuk morfin dan morfin (liposom). Interaksi **Moderate** termasuk pioglitazon, difenoksin, difenoksilat, dronabinol, metoklopramid, nabilon, opium, rosiglitazon, sibutramin dan troglitazon. Beberapa lagi bertahap tidak diketahui (contohnya kalsitriol, vitamin A, fentermin, pantoprazol, glimepirid).
-- **Perhatian keselamatan daripada literatur:** laporan rabdomiolisis akibat pregabalin, potensi penyalahgunaan dan pergantungan, serta kemurungan CNS tambahan apabila digabungkan dengan opioid atau depresan CNS lain.
+Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia dalam data yang dihimpun. Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
-Untuk amaran utama dan kontraindikasi berasaskan label, sila rujuk selebaran pakej.
+- **Hubungan kontraindikasi dalam knowledge graph** (bukan teks label, perlu disahkan): gangguan kebimbangan, gangguan neurotik, gangguan distimik, trombositopenia, angioedema (termasuk angioedema diperoleh, berkaitan penyekat sistem renin-angiotensin-aldosteron, bukan histaminik dan keturunan), miopati dan penyakit otot, lumpuh berkala keluarga, rabdomiolisis, fasiitis nodular, gangguan fungsi renal dan blok atrioventrikular. Perhatikan bahawa gangguan kebimbangan juga disenaraikan sebagai indikasi asal dalam knowledge graph, jadi percanggahan ini perlu disemak dengan sisipan pakej.
+- **Interaksi ubat** (100 rekod ditemui; sebahagian disenaraikan di sini):
+  - **Major**: morfin dan morfin liposom.
+  - **Sederhana**: pioglitazon, rosiglitazon, troglitazon, difenoksin, difenoksilat, dronabinol, nabilon, metoklopramida, opium dan sibutramin.
+  - **Tahap tidak diketahui**: kalsitriol, vitamin A, fentermin, pantoprazol, glimepirid, sukralfat, palonosetron dan nistatin.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Terdapat beberapa ujian Fasa 3 yang telah selesai bagi pregabalin dalam fibromialgia, dan literatur ulasan menyokong penggunaannya, jadi tahap bukti L1 munasabah. Namun skor TxGNN 0.0% bermakna ramalan model tidak menyumbang sokongan, dan ini bukan pemakaian semula yang sebenar kerana fibromialgia sudah menjadi indikasi asal.
+- Tiada ujian klinikal dan tiada kajian yang menguji pregabalin terhadap tendinitis. Literatur yang ada hanya berkaitan analgesia selepas pembedahan atau kes yang tidak berkaitan, jadi tahap bukti ialah L5. Skor TxGNN yang tinggi tidak boleh menggantikan bukti klinikal.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Selebaran pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan; ini ialah jurang data yang menyekat
-- Data mekanisme tindakan (MOA) yang terperinci daripada DrugBank
-- Pengesahan status pendaftaran dan pasaran di Malaysia, memandangkan tiada pendaftaran direkodkan
-- Pelan pemantauan keselamatan: risiko penyalahgunaan dan pergantungan, kemurungan CNS tambahan (terutamanya dengan opioid), pelarasan dos pada gangguan fungsi buah pinggang, dan berhati-hati pada warga emas
-- Pengesahan gred kerelevanan bagi ujian dan literatur yang masih belum dinilai
+- Kajian klinikal atau tinjauan sistematik yang menilai pregabalin secara langsung untuk tendinitis, bersama hasil seperti kesakitan dan fungsi.
+- Data mekanisme tindakan yang lebih lengkap dan sebarang bukti kesan pada tendon.
+- Sisipan pakej NPRA (amaran, kontraindikasi, indikasi lulus) untuk menilai keselamatan dan menyemak percanggahan kontraindikasi.
+- Pertimbangan ramalan lain yang mempunyai kajian lebih langsung, seperti migrain, sebagai soalan penyelidikan berasingan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

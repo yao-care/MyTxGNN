@@ -1,18 +1,20 @@
 ---
 layout: default
 title: Atenolol
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 101
-evidence_level: L1
+evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Atenolol: indikasi baharu diramal Hipertensi (ramalan peringkat 1) (tahap bukti L1). Indikasi asal: Hipertensi, infarksi miokardium (daripada pengetahuan graf TxGNN"
+monitor_inn: "Atenolol"
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
+last_modified_at: 2026-10-27
+description: "Atenolol: indikasi baharu diramal Penyakit renal hipertensi malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Atenolol
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,105 +33,70 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-## Atenolol: Daripada Hipertensi kepada Hipertensi (Ramalan TxGNN Peringkat Teratas)
+## Atenolol: penyekat beta-1 terpilih → Penyakit renal hipertensi malignan (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Atenolol ialah penyekat beta-1 selektif yang pada asalnya digunakan untuk merawat hipertensi, infarksi miokardium dan keadaan kardiovaskular berkaitan.
-Model TxGNN meletakkan **hipertensi** sebagai ramalan peringkat teratas, diikuti **infarksi miokardium**, **hemoglobinopati** dan **trombosis koronari**.
-Untuk ramalan utama, data yang dihimpun menyenaraikan **40 ujian klinikal** dan **20 penerbitan**. Namun, ramalan ini pada hakikatnya bertindih dengan indikasi asal ubat ini, jadi ia bukan penggunaan semula yang benar-benar baharu.
+Atenolol ialah penyekat reseptor beta-1 terpilih yang sudah dipasarkan di Malaysia. Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit renal hipertensi malignan (malignant hypertensive renal disease)**, tetapi **tiada sebarang percubaan klinikal atau penerbitan** yang menyokong ramalan ini setakat ini, jadi ia kekal sebagai ramalan model sahaja.
 
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan Pantas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Hipertensi, infarksi miokardium (daripada pengetahuan graf TxGNN; tiada teks indikasi berlesen kerana tiada pendaftaran di Malaysia) |
-| Indikasi Baharu yang Diramalkan | Hipertensi (ramalan peringkat 1); calon lain: infarksi miokardium, hemoglobinopati, trombosis koronari |
-| Skor Ramalan TxGNN | 0.00% (skor dalam data ialah 0.0 bagi semua ramalan; perlu disahkan semula) |
-| Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Proceed with Guardrails |
-
----
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Penyakit renal hipertensi malignan (malignant hypertensive renal disease) |
+| Skor Ramalan TxGNN | 0,9985 |
+| Tahap Bukti | L5 |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 30) |
+| Bilangan Pendaftaran | 30 (sah: 30) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dihimpun. Berdasarkan maklumat yang diketahui, atenolol ialah penyekat reseptor beta-1 adrenergik selektif. Ia menurunkan tekanan darah dengan mengurangkan kadar denyutan jantung dan keluaran kardiak serta menekan rembesan renin. Mekanisme ini mantap dan selaras dengan indikasi asalnya.
+Data terperinci mengenai mekanisme tindakan atenolol tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, atenolol ialah penyekat beta-1 terpilih yang digunakan untuk merendahkan tekanan darah. Secara mekanistik, penurunan tekanan darah dan pengurangan perembesan renin mungkin dapat membantu pesakit hipertensi malignan yang melibatkan buah pinggang.
 
-Bagi **infarksi miokardium**, sekatan beta-1 mengurangkan keperluan oksigen miokardium, kadar denyutan jantung dan risiko aritmia, serta mungkin mengehadkan saiz infarks dan remodeling. Mekanisme ini munasabah dan disokong oleh kajian praklinikal (contohnya kajian babun, PMID 1782934). Walau bagaimanapun, manfaat moden pada pesakit tanpa pecahan ejeksi yang berkurang masih tidak pasti. Ujian besar REBOOT (NCT03596385) menguji penyekat beta sebagai satu kelas, bukan atenolol secara khusus.
+Walau bagaimanapun, skor TxGNN yang sangat tinggi (0,9985) berkemungkinan hanya mencerminkan kedekatan penyakit ini dengan keadaan hipertensi biasa dalam data model, dan bukan bukti bebas. Dalam amalan, pengurusan hipertensi malignan bergantung pada ubat parenteral yang bertindak pantas dan sekatan sistem RAAS, maka atenolol oral bukanlah pilihan terapeutik yang ditetapkan.
 
-Bagi **trombosis koronari**, hanya ada kajian praklinikal tidak langsung. Kesan antitrombotik yang dilaporkan untuk nebivolol dan karvedilol melibatkan laluan beta-2 dan NO/COX-2, yang tidak terbukti untuk atenolol. Bagi **hemoglobinopati**, tiada hubungan mekanistik dapat dikenal pasti, dan perkaitan ini kemungkinan besar artifak graf pengetahuan.
+## Bukti Percubaan Klinikal
 
----
-
-## Bukti Ujian Klinikal
-
-Ramalan utama (hipertensi). Hanya ujian yang telah dinilai relevannya disenaraikan, dengan keutamaan kepada gred relevan yang tinggi.
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00133692](https://clinicaltrials.gov/study/NCT00133692) | Fasa 4 | Selesai | 22,000 | INVEST: strategi berasaskan verapamil SR berbanding strategi berasaskan atenolol pada pesakit hipertensi dengan penyakit koronari |
-| [NCT00338260](https://clinicaltrials.gov/study/NCT00338260) | Fasa 3 | Selesai | 496 | LIFE: losartan berbanding atenolol pada pesakit hipertensi dengan hipertrofi ventrikel kiri; losartan lebih baik dalam mengurangkan risiko strok |
-| [NCT00108082](https://clinicaltrials.gov/study/NCT00108082) | Fasa 3 | Selesai | 287 | Karvedilol MR berbanding atenolol pada hipertensi dengan hipertrofi ventrikel kiri (titik akhir: jisim ventrikel kiri) |
-| [NCT00529750](https://clinicaltrials.gov/study/NCT00529750) | Fasa 4 | Selesai | 108 | Irbesartan berbanding atenolol pada fungsi endotelium (titik akhir pengganti) |
-| [NCT00541684](https://clinicaltrials.gov/study/NCT00541684) | Fasa 3 | Selesai | 143 | Losartan berbanding atenolol pada hipertensi ringan hingga sederhana (kesan ke atas kekerapan hubungan seksual) |
-| [NCT00582114](https://clinicaltrials.gov/study/NCT00582114) | Fasa 3 | Ditamatkan | 200 | Terapi berasaskan lisinopril berbanding atenolol pada hipertensi hemodialisis |
-| [NCT01762436](https://clinicaltrials.gov/study/NCT01762436) | Fasa 4 | Selesai | 109 | Bisoprolol berbanding atenolol pada aktiviti saraf simpatetik dan tekanan aorta pusat |
-| [NCT00772499](https://clinicaltrials.gov/study/NCT00772499) | Fasa 4 | Selesai | 100 | Olmesartan berbanding atenolol pada struktur dan fungsi vaskular |
-| [NCT04931108](https://clinicaltrials.gov/study/NCT04931108) | Fasa 4 | Status tidak diketahui | 32 | Gabungan nitrendipin/atenolol pada kebolehubahan tekanan darah |
-| [NCT00200421](https://clinicaltrials.gov/study/NCT00200421) | Fasa 2 | Selesai | 110 | Nebivolol berbanding atenolol pada kapasiti senaman |
-
-Calon infarksi miokardium: [NCT03596385](https://clinicaltrials.gov/study/NCT03596385) (Fasa 4, Selesai, 8,505 peserta) menguji terapi penyekat beta jangka panjang selepas infarksi tanpa pecahan ejeksi berkurang, tetapi menilai kelas ubat, bukan atenolol sahaja. Calon hemoglobinopati dan trombosis koronari tidak mempunyai ujian klinikal berdaftar.
-
----
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [11937178](https://pubmed.ncbi.nlm.nih.gov/11937178/) | 2002 | RCT (LIFE) | Lancet | Losartan berbanding atenolol: kesan ke atas morbiditi dan mortaliti kardiovaskular pada hipertensi |
-| [16154016](https://pubmed.ncbi.nlm.nih.gov/16154016/) | 2005 | RCT (ASCOT-BPLA) | Lancet | Amlodipin + perindopril berbanding atenolol + bendroflumetiazid dalam pencegahan kejadian kardiovaskular |
-| [9732338](https://pubmed.ncbi.nlm.nih.gov/9732338/) | 1998 | RCT (UKPDS 39) | BMJ | Atenolol berbanding kaptopril pada komplikasi diabetes jenis 2 |
-| [28107561](https://pubmed.ncbi.nlm.nih.gov/28107561/) | 2017 | Ulasan sistematik (Cochrane) | Cochrane Database Syst Rev | Penyekat beta sebagai terapi barisan pertama hipertensi tanpa indikasi mendesak masih kontroversi |
-| [17253471](https://pubmed.ncbi.nlm.nih.gov/17253471/) | 2007 | Ulasan sistematik (Cochrane) | Cochrane Database Syst Rev | Penyekat beta barisan pertama kurang berkesan mengurangkan strok berbanding kelas lain |
-| [15530629](https://pubmed.ncbi.nlm.nih.gov/15530629/) | 2004 | Ulasan | Lancet | Atenolol dalam hipertensi: sama ada pilihan bijak dipersoalkan |
-| [1104047](https://pubmed.ncbi.nlm.nih.gov/1104047/) | 1975 | Ujian klinikal perbandingan | Br Med J | Atenolol menurunkan tekanan darah dengan ketara dalam ujian silang dua buta |
-| [6992822](https://pubmed.ncbi.nlm.nih.gov/6992822/) | 1980 | Ujian terkawal plasebo | Br J Clin Pharmacol | Atenolol menurunkan tekanan darah dan kadar nadi pada hipertensi ringan |
-| [25821584](https://pubmed.ncbi.nlm.nih.gov/25821584/) | 2015 | Ulasan | Open Heart | Penyekat beta tidak sesuai sebagai terapi barisan pertama hipertensi; penting dalam kegagalan jantung |
-| [1782934](https://pubmed.ncbi.nlm.nih.gov/1782934/) | 1991 | Kajian haiwan (babun) | Eur Heart J | Atenolol dalam trombosis koronari dan trombolisis (saiz infarks miokardium) |
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
----
+## Maklumat Pasaran Malaysia
 
-## Kesimpulan dan Langkah Seterusnya
+Status pasaran: dipasarkan. Terdapat sekurang-kurangnya 30 lesen, semuanya sah (27 produk bahan tunggal dan 3 produk kombinasi). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lima lesen produk bahan tunggal yang utama:
 
-**Keputusan: Proceed with Guardrails**
-
-**Justifikasi:**
-- Untuk hipertensi, terdapat banyak ujian Fasa 3/4 dan RCT besar, tetapi ia adalah indikasi asal atenolol, bukan penggunaan semula yang baharu. Garis panduan dan literatur (contohnya PMID 15530629, Cochrane) mempersoalkan atenolol sebagai terapi barisan pertama kerana manfaat hasil kardiovaskular yang lebih lemah. Calon infarksi miokardium berstatus "Research Question" (L2), manakala hemoglobinopati dan trombosis koronari berstatus "Hold" (L5 dan L4).
-- Atenolol tidak dipasarkan di Malaysia berdasarkan data yang dihimpun, jadi akses tempatan perlu ditangani.
-
-**Untuk meneruskan, perlu dilengkapkan:**
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat saringan keselamatan)
-- Data mekanisme tindakan terperinci daripada DrugBank
-- Semakan semula skor TxGNN, kerana semua skor ialah 0.0
-- Semakan keputusan REBOOT (NCT03596385) bagi kesan penyekat beta selepas infarksi dan hubungannya dengan atenolol secara khusus
-- Pengesahan status pendaftaran atau laluan import di Malaysia
-
----
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL19913259AZ | DYNORMIN TABLET 100MG | Tablet | Tidak direkodkan |
+| MAL19900523AZ | VASCOTEN TABLETS 100MG | Tablet | Tidak direkodkan |
+| MAL19962580AZ | UROSIN FILM COATED TABLET 100MG | Tablet bersalut filem | Tidak direkodkan |
+| MAL19910864AZ | NORMATEN TABLET 50MG | Tablet | Tidak direkodkan |
+| MAL19870055ACZ | TENORMIN TABLET 50MG | Tablet | Tidak direkodkan |
 
 ## Pertimbangan Keselamatan
 
-**Kontraindikasi/penyakit berisiko (daripada graf pengetahuan, bukan teks label):** kegagalan hati, gangguan kebimbangan, gangguan neurotik, gangguan distimik, pankreatitis, lupus eritematosus sistemik, asma (termasuk asma intrinsik dan alergi), kekurangan kalium, psoriasis, anuria, gout, hiperkalsemia, nefrokalsinosis, gangguan metabolisme fosforus, diabetes mellitus (jenis 1 dan 2), ketoasidosis diabetes, blok atrioventrikular, penyakit Raynaud, anafilaksis.
+- **Penyakit yang berpotensi menjadi kontraindikasi (berdasarkan hubungan dalam data model, bukan teks label):** kegagalan hati, asma, diabetes mellitus (jenis 1 dan 2), ketoasidosis diabetik, blok atrioventrikular, penyakit Raynaud, anafilaksis, psoriasis, gout, pankreatitis, lupus eritematosus sistemik, anuria, dan beberapa keadaan metabolik lain (hiperkalsemia, kekurangan kalium, gangguan metabolisme fosforus).
+- **Interaksi ubat:** sebanyak 100 interaksi direkodkan. Yang utama berada pada tahap sederhana, termasuk epinefrin, hidrokortison, hiosiamin, bupropion, triamsinolon, morfin, asetoheksamida, atropin, betametason, budesonid, serta pelbagai garam kalsium. Beberapa interaksi tahap minor termasuk asid asetilsalisilik, aluminium hidroksida dan attapulgit.
 
-**Interaksi Dadah (100 interaksi ditemui; contoh utama):**
-- Sederhana: epinefrin, hidrokortison, hiosiamin, bupropion, triamsinolon, morfin, asetoheksamid, atropin, betametason, budesonid, serta garam kalsium (asetat, karbonat, sitrat, glukonat, laktat, fosfat)
-- Ringan: asid asetilsalisilik, aluminium hidroksida, attapulgit
+Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
 
-Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
+## Kesimpulan dan Langkah Seterusnya
+
+**Keputusan: Hold (Tahan)**
+
+**Rasional:**
+Tiada percubaan klinikal atau literatur yang mengkaji penyakit ini secara langsung, maka tahap bukti ialah L5. Skor tinggi adalah ramalan komputasi sahaja, dan penjagaan standard untuk hipertensi malignan tidak bergantung pada atenolol oral.
+
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Kajian klinikal atau literatur yang secara langsung menilai atenolol dalam penyakit renal hipertensi malignan
+- Perbandingan dengan terapi standard (ubat parenteral dan penyekat RAAS)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
