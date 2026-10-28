@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-27T23:28:51.817105",
+  "fetched": "2026-10-28T04:01:00.448222",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,26 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 14,
   "items": [
+    {
+      "title": "DAP MP Wants More Powers For Proposed Health Service Commission",
+      "url": "https://codeblue.galencentre.org/2026/10/dap-mp-wants-more-powers-for-proposed-health-service-commission/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-28T03:59:43",
+      "summary": "Bandar Kuching MP Kelvin Yii calls for constitutional amendments to empower a proposed Health Service Commission (SPK) to create positions and set emoluments for health workers. Such powers would be unique for SPK, compared to other service commissions. The post DAP MP Wants More Powers For Proposed Health Service Commission appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Lindung 24/7 Backlash Tests Support For Mandatory Social Insurance: Socso",
+      "url": "https://codeblue.galencentre.org/2026/10/lindung-24-7-backlash-tests-support-for-mandatory-social-insurance-socso/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-28T02:00:00",
+      "summary": "Lindung 24/7 was widely opposed because Malaysians resist sharing unforeseen risks, says Socso's deputy CEO Edmund Cheong. He believes long-term care insurance may be more acceptable because ageing is inevitable, but contributions must remain mandatory. The post Lindung 24/7 Backlash Tests Support For Mandatory Social Insurance: Socso appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "A Mini-Stroke Is An Emergency, Not A Reprieve — Dr Andrew Choong",
       "url": "https://codeblue.galencentre.org/2026/10/a-mini-stroke-is-an-emergency-not-a-reprieve-dr-andrew-choong/",
@@ -92,49 +110,43 @@
       ]
     },
     {
-      "title": "When Dental Care Becomes A Price War, Patients Must Not Pay The Price — MPDPA",
-      "url": "https://codeblue.galencentre.org/2026/10/when-dental-care-becomes-a-price-war-patients-must-not-pay-the-price-mpdpa/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-23T07:34:14",
-      "summary": "MPDPA calls for stronger enforcement against unethical dental advertising and third party solicitation. The post When Dental Care Becomes A Price War, Patients Must Not Pay The Price — MPDPA appeared first on CodeBlue .",
+      "title": "Tawau water plant resumes operations after two-week disruption, but residents face longer wait for stable supply",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/28/tawau-water-plant-resumes-operations-after-two-week-disruption-but-residents-face-longer-wait-for-stable-supply/240903",
+      "source": "Malay Mail",
+      "published": "2026-10-28T03:02:08",
+      "summary": "TAWAU, Oct 28 — The Utara Water Treatment Plant (LRA) here began operations in stages on Monday following an impro...",
       "keywords_matched": [
-        "patient"
+        "treatment"
       ]
     },
     {
-      "title": "Who Is Responsible For Malaysia’s Early Intervention System For Children With Disabilities? — NECIC",
-      "url": "https://codeblue.galencentre.org/2026/10/who-is-responsible-for-malaysias-early-intervention-system-for-children-with-disabilities-necic/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-23T07:30:00",
-      "summary": "A good early intervention system would be government-led and funded, family-centred, inclusive by design, accountable for outcomes, and capable of reaching every child. The post Who Is Responsible For Malaysia’s Early Intervention System For Children With Disabilities? — NECIC appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "After five years and 38 witnesses, prosecution closes case in Lim Guan Eng trial",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/27/after-five-years-and-38-witnesses-prosecution-closes-case-in-lim-guan-eng-trial/240829",
+      "title": "Double first! Hospital Canselor Tuanku Muhriz becomes Malaysia’s only medical centre with two World Stroke Organisation certifications",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/28/double-first-hospital-canselor-tuanku-muhriz-becomes-malaysias-only-medical-centre-with-two-world-stroke-organisation-certifications/240896",
       "source": "Malay Mail",
-      "published": "2026-10-27T11:38:17",
-      "summary": "KUALA LUMPUR, Oct 27 — After more than five years of proceedings and calling 38 witnesses, the prosecution today c...",
+      "published": "2026-10-28T02:44:41",
+      "summary": "KUALA LUMPUR, Oct 28 — Hospital Canselor Tuanku Muhriz (HCTM), Universiti Kebangsaan Malaysia (UKM), has made hist...",
       "keywords_matched": [
-        "trial"
+        "medical",
+        "hospital",
+        "hospital"
       ]
     },
     {
-      "title": "Dzulkefly: Health Service Commission Bill to be tabled by end of 15th Parliament if approved",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/27/dzulkefly-health-service-commission-bill-to-be-tabled-by-end-of-15th-parliament-if-approved/240804",
+      "title": "Breathing easier! No unhealthy air quality readings across Malaysia this morning",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/28/breathing-easier-no-unhealthy-air-quality-readings-across-malaysia-this-morning/240893",
       "source": "Malay Mail",
-      "published": "2026-10-27T08:36:31",
-      "summary": "KUALA LUMPUR, Oct 27 — The Ministry of Health (MOH) aims to obtain a policy decision from the Cabinet on the...",
+      "published": "2026-10-28T02:35:55",
+      "summary": "KUALA LUMPUR, Oct 28 — Air quality across Malaysia remained generally satisfactory this morning, with no areas rec...",
       "keywords_matched": [
         "health"
       ]
     },
     {
-      "title": "Johor man with six previous criminal and drug-related offences arrested over axe murder of 68-year-old Felda settler",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/27/johor-man-with-six-previous-criminal-and-drug-related-offences-arrested-over-axe-murder-of-68-year-old-felda-settler/240800",
+      "title": "Special delivery? Man nabbed over cannabis and drug-laced vapes at Kelantan courier outlet",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/28/special-delivery-man-nabbed-over-cannabis-and-drug-laced-vapes-at-kelantan-courier-outlet/240887",
       "source": "Malay Mail",
-      "published": "2026-10-27T08:13:54",
-      "summary": "KOTA TINGGI, Oct 27 — Police arrested a 41-year-old man suspected of hacking a settler to death with an axe...",
+      "published": "2026-10-28T02:21:57",
+      "summary": "KOTA BHARU, Oct 28 — The General Operations Force (GOF) arrested a man, 30, in the parking lot of the Rantau Panja...",
       "keywords_matched": [
         "drug"
       ]
