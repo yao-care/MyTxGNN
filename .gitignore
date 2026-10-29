@@ -76,3 +76,6 @@ mydatabase.db
 
 # SEO-ops 主機收集資料，不發布到 GitHub Pages
 /seo-data/
+
+# 2026-10-29 許可證排程更新的暫存輸出
+/.license_refresh/
