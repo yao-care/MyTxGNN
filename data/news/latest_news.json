@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-28T22:10:13.381898",
+  "fetched": "2026-10-29T02:04:51.815839",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,16 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "IHH CEO Reveals Uncomfortable Truths Of Malaysian Health Care",
+      "url": "https://codeblue.galencentre.org/2026/10/ihh-ceo-reveals-uncomfortable-truths-of-malaysian-health-care/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-29T02:00:00",
+      "summary": "IHH Healthcare Malaysia CEO Kamal Amzan's new book, \"The Future We Choose\", has substance and delivers on its promise to reveal \"uncomfortable\" truths. But it's a little preachy about public health care, without similar moralising to the private sector. The post IHH CEO Reveals Uncomfortable Truths Of Malaysian Health Care appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Senator: What’s The Use Of ‘Toothless’ Health Service Commission?",
       "url": "https://codeblue.galencentre.org/2026/10/senator-whats-the-use-of-toothless-health-service-commission/",
@@ -96,26 +106,13 @@
       ]
     },
     {
-      "title": "Ranau Hospital Crisis: Doctors Working 48 To 72 Straight Hours — Medical Officer",
-      "url": "https://codeblue.galencentre.org/2026/10/ranau-hospital-crisis-doctors-working-48-to-72-straight-hours-medical-officer/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-26T02:00:00",
-      "summary": "Only 8 medical officers are running Ranau Hospital. We are on daily on-calls here, working for 48 to 72 consecutive hours, followed by 5-15 hours’ rest, before resuming another 48- to 72-hour shift. None of us have had a single day off in the past month. The post Ranau Hospital Crisis: Doctors Working 48 To 72 Straight Hours — Medical Officer appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "hospital",
-        "doctor",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Saifuddin: More stringent checks at KLIA to combat drug smuggling",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/28/saifuddin-more-stringent-checks-at-klia-to-combat-drug-smuggling/241028",
+      "title": "FMM report: Haze cost some Malaysian firms about RM280,000 in masks, medical expenses",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/29/fmm-report-haze-cost-some-malaysian-firms-about-rm280000-in-masks-medical-expenses/240993",
       "source": "Malay Mail",
-      "published": "2026-10-28T11:32:36",
-      "summary": "JOHOR BAHRU, Oct 28 — More stringent inspections are set to be implemented at the Kuala Lumpur International Airpo...",
+      "published": "2026-10-28T23:00:00",
+      "summary": "KUALA LUMPUR, Oct 29 — The recent haze has cost some Malaysian businesses additional haze-related expenses of at l...",
       "keywords_matched": [
-        "drug"
+        "medical"
       ]
     }
   ]
