@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-29T02:04:51.815839",
+  "fetched": "2026-10-29T09:20:01.928541",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "New Health Service Commission, Same Old Excuses On Health Care Pay — Specialist",
+      "url": "https://codeblue.galencentre.org/2026/10/new-health-service-commission-same-old-excuses-on-health-care-pay-specialist/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-10-29T06:04:37",
+      "summary": "The proposed Health Service Commission (SPK) must have powers over health care workers’ pay and allowances, instead of leaving decisions to MOH, MOF, or JPA. Without such authority, SPK risks being toothless and unable to address staff retention. The post New Health Service Commission, Same Old Excuses On Health Care Pay — Specialist appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "IHH CEO Reveals Uncomfortable Truths Of Malaysian Health Care",
       "url": "https://codeblue.galencentre.org/2026/10/ihh-ceo-reveals-uncomfortable-truths-of-malaysian-health-care/",
@@ -96,23 +106,23 @@
       ]
     },
     {
-      "title": "10 Years: Government Must End Secrecy And Release Independent Inquiry Report On 2016 HSAJB Fire",
-      "url": "https://codeblue.galencentre.org/2026/10/10-years-government-must-end-secrecy-and-release-independent-inquiry-report-on-2016-hsajb-fire/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-26T03:40:00",
-      "summary": "What is still preventing the health minister from fulfilling the commitment that he made? The government cannot keep hiding behind administrative explanations. Even the key government officials involved have all retired. There must be accountability. The post 10 Years: Government Must End Secrecy And Release Independent Inquiry Report On 2016 HSAJB Fire appeared first on CodeBlue .",
+      "title": "Sabah targets RM100b GDP by 2030 through investment, industrial growth, says CM",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/29/sabah-targets-rm100b-gdp-by-2030-through-investment-industrial-growth-says-cm/241141",
+      "source": "Malay Mail",
+      "published": "2026-10-29T08:41:49",
+      "summary": "KOTA KINABALU, Oct 29 — Sabah is pursuing various initiatives to achieve a gross domestic product (GDP) target of...",
       "keywords_matched": [
-        "health"
+        "trial"
       ]
     },
     {
-      "title": "FMM report: Haze cost some Malaysian firms about RM280,000 in masks, medical expenses",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/29/fmm-report-haze-cost-some-malaysian-firms-about-rm280000-in-masks-medical-expenses/240993",
+      "title": "Malaysians arrested on drug charges in 40 countries, says deputy minister",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/29/malaysians-arrested-on-drug-charges-in-40-countries-says-deputy-minister/241122",
       "source": "Malay Mail",
-      "published": "2026-10-28T23:00:00",
-      "summary": "KUALA LUMPUR, Oct 29 — The recent haze has cost some Malaysian businesses additional haze-related expenses of at l...",
+      "published": "2026-10-29T07:34:56",
+      "summary": "KUALA LUMPUR, Oct 29 — Forty countries have recorded the arrest of Malaysian citizens in drug-related cases, with...",
       "keywords_matched": [
-        "medical"
+        "drug"
       ]
     }
   ]
