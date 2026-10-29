@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-29T09:20:01.928541",
+  "fetched": "2026-10-29T16:34:39.724447",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -106,6 +106,17 @@
       ]
     },
     {
+      "title": "MOH to conduct special recruitment for 750 permanent medical officer posts in Sabah, Sarawak",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/29/moh-to-conduct-special-recruitment-for-750-permanent-medical-officer-posts-in-sabah-sarawak/241170",
+      "source": "Malay Mail",
+      "published": "2026-10-29T10:59:25",
+      "summary": "PUTRAJAYA, Oct 29 — The Health Ministry (MOH) will conduct a special recruitment exercise to fill 750 permanent Me...",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
+    },
+    {
       "title": "Sabah targets RM100b GDP by 2030 through investment, industrial growth, says CM",
       "url": "https://www.malaymail.com/news/malaysia/2026/10/29/sabah-targets-rm100b-gdp-by-2030-through-investment-industrial-growth-says-cm/241141",
       "source": "Malay Mail",
@@ -113,16 +124,6 @@
       "summary": "KOTA KINABALU, Oct 29 — Sabah is pursuing various initiatives to achieve a gross domestic product (GDP) target of...",
       "keywords_matched": [
         "trial"
-      ]
-    },
-    {
-      "title": "Malaysians arrested on drug charges in 40 countries, says deputy minister",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/29/malaysians-arrested-on-drug-charges-in-40-countries-says-deputy-minister/241122",
-      "source": "Malay Mail",
-      "published": "2026-10-29T07:34:56",
-      "summary": "KUALA LUMPUR, Oct 29 — Forty countries have recorded the arrest of Malaysian citizens in drug-related cases, with...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
