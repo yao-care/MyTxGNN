@@ -24,6 +24,38 @@ Memanfaatkan AI untuk menemui penggunaan terapeutik baharu bagi ubat sedia ada. 
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+## Malaysia: liputan laman ini
+
+Laman ini menerbitkan laporan bagi **{{ site.data.drug_stats.total_drugs }}** ubat dalam data pendaftaran [NPRA](https://npra.gov.my/) (Malaysia).
+
+Laporan mengikut tahap bukti: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+
+### Ubat dengan tahap bukti tertinggi di laman ini
+
+| Ubat | Tahap bukti |
+|---|---|
+| [Acetylcysteine](/drugs/acetylcysteine/) | L1 |
+| [Bupropion](/drugs/bupropion/) | L1 |
+| [Busulfan](/drugs/busulfan/) | L1 |
+| [Fludarabine](/drugs/fludarabine/) | L1 |
+| [Tegafur](/drugs/tegafur/) | L1 |
+| [Hydrocortisone](/drugs/hydrocortisone/) | L1 |
+| [Hydrocortisone Acetate](/drugs/hydrocortisone-acetate/) | L1 |
+| [Clofarabine](/drugs/clofarabine/) | L1 |
+| [Doxorubicin](/drugs/doxorubicin/) | L1 |
+| [Salmeterol](/drugs/salmeterol/) | L1 |
+
+### Ubat yang hanya diliputi oleh laman ini antara 30 laman TxGNN
+
+| Ubat | Tahap bukti |
+|---|---|
+| [Estradiol Benzoate](/drugs/estradiol-benzoate/) | L4 |
+| [Sulodexide](/drugs/sulodexide/) | L5 |
+| [Gliclazide](/drugs/gliclazide/) | N/A |
+
+<!-- local-home:end -->
+
 ## Statistik Utama
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; margin: 1.5rem 0;">

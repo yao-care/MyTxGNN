@@ -26,6 +26,11 @@ Browse drugs analyzed by MyTxGNN with their predicted new indications.
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+Senarai ini berdasarkan data pendaftaran [NPRA](https://npra.gov.my/) (Malaysia).
+
+<!-- local-home:end -->
+
 ## Summary Statistics
 
 | Metric | Count |
