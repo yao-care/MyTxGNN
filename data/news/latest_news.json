@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-29T21:30:51.524907",
+  "fetched": "2026-10-30T01:31:44.334662",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -106,6 +106,16 @@
       ]
     },
     {
+      "title": "Differing views among ministries part of healthy policy process, not disunity, says Anwar",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/30/differing-views-among-ministries-part-of-healthy-policy-process-not-disunity-says-anwar/241184",
+      "source": "Malay Mail",
+      "published": "2026-10-30T01:01:01",
+      "summary": "KUALA LUMPUR, Oct 30 — Differing views or approaches among ministries do not necessarily reflect division within t...",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
       "title": "MOH to conduct special recruitment for 750 permanent medical officer posts in Sabah, Sarawak",
       "url": "https://www.malaymail.com/news/malaysia/2026/10/29/moh-to-conduct-special-recruitment-for-750-permanent-medical-officer-posts-in-sabah-sarawak/241170",
       "source": "Malay Mail",
@@ -114,16 +124,6 @@
       "keywords_matched": [
         "health",
         "medical"
-      ]
-    },
-    {
-      "title": "Sabah targets RM100b GDP by 2030 through investment, industrial growth, says CM",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/29/sabah-targets-rm100b-gdp-by-2030-through-investment-industrial-growth-says-cm/241141",
-      "source": "Malay Mail",
-      "published": "2026-10-29T08:41:49",
-      "summary": "KOTA KINABALU, Oct 29 — Sabah is pursuing various initiatives to achieve a gross domestic product (GDP) target of...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
