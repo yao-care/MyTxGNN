@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 436
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "ITRACONAZOLE"
 predicted_indications: ["pneumocystosis"]
 description: "Itraconazole: indikasi baharu diramal Pneumocystosis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,7 +52,7 @@ namun data yang dikumpulkan untuk laporan ini mencatatkan **0 percubaan klinikal
 | Indikasi Baharu yang Diramal | Pneumocystosis |
 | Skor Ramalan TxGNN | 0.9934 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
 | Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold |
 

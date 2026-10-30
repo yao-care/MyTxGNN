@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 103
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -52,7 +52,7 @@ Dengan **71 produk berdaftar** di Malaysia dan data keselamatan serta MOA pentin
 | Indikasi Baru Ramalan | — *(Tiada output TxGNN tersedia)* |
 | Skor Ramalan TxGNN | — *(Tertangguh)* |
 | Tahap Bukti | — *(Tidak dapat ditentukan)* |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 71 daripada 71) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 71 daripada 71) |
 | Bilangan Pendaftaran | 71 (sah: 71) |
 | Keputusan Disyorkan | **Tahan** |
 

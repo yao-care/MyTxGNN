@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 606
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "PROPYLTHIOURACIL"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
 description: "Propylthiouracil: indikasi baharu diramal Rintangan hormon tiroid akibat mutasi reseptor hormon tiroid beta (resistance to thyroid hormone due to a mutation in t… (tahap bukti L4). Indikasi asal: Tid…"
@@ -52,7 +52,7 @@ tetapi setakat ini terdapat **0 percubaan klinikal** dan **4 penerbitan** (kes l
 | Indikasi Baharu yang Diramalkan | Rintangan hormon tiroid akibat mutasi reseptor hormon tiroid beta (resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta) |
 | Skor Ramalan TxGNN | 0.9966 |
 | Tahap Bukti | L4 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 

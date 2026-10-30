@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 196
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Carbidopa: kegunaan diketahui dan status pasaran di Malaysia; buat masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Model TxGNN menghasilkan calon indikasi untuk Carbidopa dengan skor ≥ 0.99. Se
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejaki ialah kegunaan diketahui) |
 | Kegunaan diketahui dalam kalangan calon model | 1 |
 | Tahap bukti | Tidak berkenaan |
-| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
 | Bilangan Pendaftaran | 12 (sah: 12) |
 
 ## Kegunaan diketahui dalam kalangan calon model

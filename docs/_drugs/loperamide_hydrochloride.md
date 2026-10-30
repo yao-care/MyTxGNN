@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 473
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -52,7 +52,7 @@ Sebelum meneruskan, jurang data kritikal — termasuk maklumat keselamatan sisip
 | Indikasi Baru yang Diramalkan | Tidak tersedia — tiada output TxGNN dalam Pakej Bukti ini |
 | Skor Ramalan TxGNN | Tidak tersedia |
 | Tahap Bukti | T/A (data ramalan hilang) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
 | Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan yang Disyorkan | **Tahan** |
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 430
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "ISOFLURANE"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "manic bipolar affective disorder", "trichotillomania", "dysthymic disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
 description: "Isoflurane: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,7 +51,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Prinzmetal angina** (skor 0.9
 | Indikasi Baharu yang Diramalkan | Prinzmetal angina |
 | Skor Ramalan TxGNN | 0.9967 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 

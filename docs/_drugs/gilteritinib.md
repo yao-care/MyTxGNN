@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 384
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "GILTERITINIB"
 predicted_indications: ["bulbar polio"]
 description: "Gilteritinib: indikasi baharu diramal Polio bulbar (bulbar polio) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,7 +52,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 | Indikasi Baharu yang Diramalkan | Polio bulbar (bulbar polio) |
 | Skor Ramalan TxGNN | 0.9910 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 

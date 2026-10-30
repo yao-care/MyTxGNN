@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 338
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "ETANERCEPT"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
 description: "Etanercept: indikasi baharu diramal Hypermobility of coccyx (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,7 +51,7 @@ Bukti sokongan adalah sangat lemah.
 | Indikasi Baharu Diramal | Hypermobility of coccyx |
 | Skor Ramalan TxGNN | 0.9963 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
 | Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 688
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tolnaftate: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Tolnaftate ialah kegunaan yan
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejak ialah kegunaan yang diketahui) |
 | Kegunaan diketahui dalam calon model | 3 |
 | Tahap bukti | Tidak berkenaan |
-| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
 | Bilangan Pendaftaran | 14 (sah: 14) |
 
 ## Kegunaan diketahui dalam calon model

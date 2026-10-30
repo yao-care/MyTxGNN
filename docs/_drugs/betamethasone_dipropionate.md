@@ -5,7 +5,7 @@ layout: default
 title: Betamethasone Dipropionate
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 142
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 |------|------|
 | Petunjukan Asal | Tidak direkodkan dalam data tempatan |
 | Petunjukan Baru yang Diramalkan | **Tiada** (tiada ramalan TxGNN dijana) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 41 daripada 41) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 41 daripada 41) |
 | Bilangan Pendaftaran | 41 (sah: 41) |
 | Jumlah Pendaftaran | 41 |
 

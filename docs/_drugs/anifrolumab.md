@@ -5,7 +5,7 @@ layout: default
 title: Anifrolumab
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 81
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -43,7 +43,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 |------|-----------|
 | Petunjuk Asli | Systemic lupus erythematosus (SLE) aktif sederhana hingga berat |
 | Petunjuk Kegunaan Baru yang Diramalkan | Tiada ramalan tersedia dalam Pakej Bukti ini |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 
 ---

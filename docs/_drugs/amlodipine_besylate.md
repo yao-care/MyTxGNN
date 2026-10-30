@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 62
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -50,7 +50,7 @@ Amlodipine Besylate ialah penghambat saluran kalsium dihidropiridin yang telah d
 | Petunjuk Baru yang Diramalkan | Tiada — tiada ramalan pengubahgunaan ubat TxGNN yang dihasilkan |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 50 daripada 50) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 50 daripada 50) |
 | Bilangan Pendaftaran | 50 (sah: 50) |
 | Keputusan yang Disyorkan | **Tahan** |
 

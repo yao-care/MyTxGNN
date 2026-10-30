@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 122
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -50,7 +50,7 @@ Baloxavir marboxil (Xofluza) ialah penghambat endonuklease yang bergantung pada 
 | Petunjukan Baru yang Diramalkan | — (Tiada ramalan yang dijana) |
 | Skor Ramalan TxGNN | — |
 | Tahap Bukti | L5 (Tiada ramalan atau kajian sokongan) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tahan** |
 

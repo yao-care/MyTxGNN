@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 737
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "ZONISAMIDE"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
 description: "Zonisamide: indikasi baharu diramal Sindrom Tourette (Tourette syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,7 +52,7 @@ Zonisamide ialah ubat antikonvulsan (anti-sawan) yang menyekat saluran natrium b
 | Indikasi Baharu yang Diramalkan | Sindrom Tourette (Tourette syndrome) |
 | Skor Ramalan TxGNN | 0.9985 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

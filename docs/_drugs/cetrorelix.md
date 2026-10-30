@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CETRORELIX"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "persistent fetal circulation syndrome", "familial isolated trichomegaly", "familial male-limited precocious puberty", "aromatase excess syndrome", "centra precocious puberty 1"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cetrorelix: indikasi baharu diramal Hipertrikosis (hypertrichosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -51,7 +51,7 @@ Model TxGNN meramalkan ia mungkin berguna untuk **Hipertrikosis (hypertrichosis)
 | Indikasi Baharu yang Diramalkan | Hipertrikosis (hypertrichosis) |
 | Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
 | Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 

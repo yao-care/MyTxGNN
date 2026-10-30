@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 90
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -54,7 +54,7 @@ Laporan tersebut oleh itu diklasifikasikan sebagai **tidak lengkap** dan keputus
 | Indikasi Baru yang Diramalkan | **Tertunda** — Data ramalan TxGNN belum tersedia |
 | Skor Ramalan TxGNN | Tertunda |
 | Tahap Bukti | **Tidak Ditentukan** (tiada ramalan untuk dinilai) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tahan** |
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 254
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Daptomycin"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
 description: "Daptomycin: indikasi baharu diramal Osteoartritis (osteoarthritis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -50,7 +50,7 @@ Daptomycin ialah antibiotik lipopeptida kitaran yang digunakan untuk jangkitan b
 | Indikasi Baharu yang Diramal | Osteoartritis (osteoarthritis) |
 | Skor Ramalan TxGNN | 0.9986 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
 | Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Hold |
 

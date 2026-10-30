@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "BROLUCIZUMAB"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices with bleeding", "esophageal varices without bleeding", "exocrine pancreatic insufficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Brolucizumab: indikasi baharu diramal Gangguan fosforilasi oksidatif mitokondria akibat anomali DNA nuklear (mitochondrial oxidative phosphorylation disorder… (tahap bukti L5). Indikasi asal: Tidak d…"
 ---
 
@@ -48,7 +48,7 @@ Brolucizumab ialah serpihan antibodi rantai tunggal (scFv) yang menyekat VEGF-A 
 | Indikasi Baharu yang Diramalkan | Gangguan fosforilasi oksidatif mitokondria akibat anomali DNA nuklear (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) |
 | Skor Ramalan TxGNN | 0,9967 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 

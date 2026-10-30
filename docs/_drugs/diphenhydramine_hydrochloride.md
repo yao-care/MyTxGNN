@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 297
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -50,7 +50,7 @@ Diphenhydramine hydrochloride adalah antihistamin generasi pertama (antagonis re
 | Indikasi Baru yang Diramalkan | **Tiada** — tiada ramalan TxGNN yang tersedia |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | **L5** (Tiada ramalan model atau kajian sokongan) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 34 daripada 34) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 34 daripada 34) |
 | Bilangan Pendaftaran | 34 (sah: 34) |
 | Keputusan Disyorkan | **Tahan** |
 

@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 291
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -50,7 +50,7 @@ Diltiazem Hydrochloride ialah penyekat saluran kalsium kelas benzothiazepine yan
 | Petunjukan Baru Diramalkan | **Tiada** — ramalan TxGNN tidak tersedia |
 | Skor Ramalan TxGNN | T/A |
 | Aras Bukti | T/A |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
 | Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Yang Disyorkan | **Tunda** |
 

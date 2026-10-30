@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 639
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "SELINEXOR"
 predicted_indications: ["drug-induced osteoporosis"]
 description: "Selinexor: indikasi baharu diramal Osteoporosis teraruh ubat (drug-induced osteoporosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,7 +51,7 @@ Model TxGNN meramalkan ubat ini mungkin berkesan untuk **osteoporosis teraruh ub
 | Penunjuk Baharu yang Diramalkan | Osteoporosis teraruh ubat (drug-induced osteoporosis) |
 | Skor Ramalan TxGNN | 0.9922 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 

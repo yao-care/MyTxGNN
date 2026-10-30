@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 510
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "MOCLOBEMIDE"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
 description: "Moclobemide: indikasi baharu diramal Agorafobia (agoraphobia) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,7 +52,7 @@ dengan **0 percubaan klinikal berdaftar** tetapi **10 penerbitan** yang menyokon
 | Indikasi Baharu yang Diramalkan | Agorafobia (agoraphobia) |
 | Skor Ramalan TxGNN | 0.9943 |
 | Tahap Bukti | L1 (mengikut penilaian dalam data yang dikumpulkan; lihat nota di bahagian Kesimpulan) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 

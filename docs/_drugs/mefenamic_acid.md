@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 489
 evidence_level: L2
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "MEFENAMIC ACID"
 predicted_indications: ["rheumatoid arthritis", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
 description: "Mefenamic Acid: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -50,7 +50,7 @@ Asid mefenamik ialah ubat antiradang bukan steroid (NSAID) yang digunakan untuk 
 | Indikasi Baharu yang Diramalkan | Artritis reumatoid (rheumatoid arthritis) |
 | Skor Ramalan TxGNN | 0.9973 |
 | Tahap Bukti | L2 (berdasarkan RCT lama daripada literatur, tanpa percubaan berdaftar) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 36) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 36) |
 | Bilangan Pendaftaran | 36 (sah: 36) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

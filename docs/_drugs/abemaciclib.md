@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 12
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -52,7 +52,7 @@ Abemaciclib adalah penghambat CDK4/6 selektif yang sedang dipasarkan di Malaysia
 | Petunjukan Baru yang Diramalkan | Tiada ramalan tersedia |
 | Skor Ramalan TxGNN | — |
 | Paras Bukti | L5 (ramalan model belum dijana) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
 | Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan yang Disyorkan | **Tahan** |
 

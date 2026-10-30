@@ -3,7 +3,7 @@ layout: default
 title: Calcium Chloride
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 185
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Calcium Chloride: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 indication_count: 0
@@ -44,7 +44,7 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 | Perkara | Kandungan |
 |------|------|
 | Kegunaan diketahui yang direkodkan untuk ubat ini | 2 |
-| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 90 daripada 90) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 90 daripada 90) |
 | Bilangan Pendaftaran | 90 (sah: 90) |
 
 ## Kegunaan diketahui yang direkodkan untuk ubat ini

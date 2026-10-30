@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 31
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -52,7 +52,7 @@ Laporan ini mendokumentasikan status kawal selia semasa di Malaysia dan menggari
 | Petunjuk Baru yang Diramalkan | Tiada ramalan tersedia |
 | Skor Ramalan TxGNN | — |
 | Tahap Bukti | L5 — Ramalan model belum dijalankan; tiada kajian sokongan dalam pakej |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 17 daripada 17) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 17 daripada 17) |
 | Bilangan Pendaftaran | 17 (sah: 17) |
 | Keputusan yang Disyorkan | **Tungguh** |
 

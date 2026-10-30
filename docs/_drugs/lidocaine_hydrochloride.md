@@ -5,7 +5,7 @@ layout: default
 title: Lidocaine Hydrochloride
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 461
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 |------|-----------|
 | Petunjuk Asli | Anestesi lokal; aritmia ventrikel (berdasarkan pengetahuan klinikal yang ditubuhkan; tiada teks petunjuk yang diluluskan diambil) |
 | Petunjuk Baru yang Diramalkan | T/A — tiada ramalan yang dijana |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 19 daripada 19) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 19 daripada 19) |
 | Bilangan Pendaftaran | 19 (sah: 19) |
 
 ---

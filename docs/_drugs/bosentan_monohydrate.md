@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 160
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -51,7 +51,7 @@ Bosentan ialah antagonis reseptor endothelin (ERA) yang diindikasikan terutamany
 | Indikasi Baru yang Diramalkan | **Tiada** (tiada ramalan TxGNN tersedia) |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | **N/A** — Tiada ramalan untuk dinilai |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
 | Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan yang Disyorkan | **Tahan** |
 

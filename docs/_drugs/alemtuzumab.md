@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 39
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -54,7 +54,7 @@ Tiada keputusan penggunaan semula boleh diberikan sehingga jurang-jurang ini dii
 | Indikasi Baru yang Diramalkan | Tiada — tiada calon penggunaan semula yang diramalkan oleh TxGNN |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | T/A (tiada calon penggunaan semula untuk dinilai) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan yang Disyorkan | **Tangguh** |
 

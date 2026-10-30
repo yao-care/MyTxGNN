@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 542
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Olaparib: kegunaan sedia ada dan status pasaran di Malaysia; buat masa ini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Model TxGNN menghasilkan calon untuk Olaparib dengan skor ≥ 0.99. Semua calon 
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejaki ialah kegunaan sedia ada) |
 | Kegunaan sedia ada dalam calon model | 1 |
 | Tahap bukti | Tidak berkenaan |
-| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
 
 ## Kegunaan sedia ada dalam calon model

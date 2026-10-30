@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Vitamin A"
 predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "disease by subcellular system affected", "radiation or chemically induced disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Vitamin A: indikasi baharu diramal Congenital prothrombin deficiency (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,7 +50,7 @@ Vitamin A ialah mikronutrien larut lemak yang dalam data Malaysia dijumpai terut
 | Indikasi Baharu Diramalkan | Congenital prothrombin deficiency |
 | Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 166 daripada 166) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 166 daripada 166) |
 | Bilangan Pendaftaran | 166 (sah: 166) |
 | Bilangan Kelulusan | Sekurang-kurangnya 166 pendaftaran produk (kesemuanya produk gabungan; tiada produk bahan tunggal) |
 | Keputusan Disyorkan | Hold (Tahan) |

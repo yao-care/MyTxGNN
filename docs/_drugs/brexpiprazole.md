@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 163
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -48,7 +48,7 @@ Brexpiprazole adalah antipsikotik atipik yang dipasarkan (ID DrugBank: DB09128) 
 | Indikasi Penggunaan Baru yang Diramalkan | **Tiada** — Tiada ramalan TxGNN tersedia |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
 | Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan yang Disyorkan | **Tahan** |
 

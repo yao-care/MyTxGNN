@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ammonium Chloride"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ammonium Chloride: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,7 +48,7 @@ Ammonium Chloride ialah bahan yang digunakan dalam pelbagai produk sirap batuk d
 | Indikasi Baharu yang Diramalkan | Penyakit rongga hidung (nasal cavity disease) |
 | Skor Ramalan TxGNN | 0,9994 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 36) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 36) |
 | Bilangan Pendaftaran | 36 (sah: 36) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 

@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 43
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -50,7 +50,7 @@ Alfuzosin Hydrochloride ialah antagonis reseptor adrenergi alfa-1 selektif yang 
 | Indikasi Baru Dijangka | Tidak tersedia |
 | Skor Ramalan TxGNN | Tidak tersedia |
 | Tahap Bukti | Tidak Berkenaan — Tiada ramalan dijana |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
 | Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | **Tahan** |
 

@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 11
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -54,7 +54,7 @@ Dengan **6 pendaftaran aktif** disahkan di Malaysia tetapi tiada calon penggunaa
 | Petunjuk Baru yang Diramalkan | Tiada ramalan tersedia |
 | Skor Ramalan TxGNN | Tidak tersedia |
 | Tahap Bukti | T/A |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
 | Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan yang Disyorkan | **Tahan** |
 

@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 130
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -50,7 +50,7 @@ Bendamustine hydrochloride ialah agen antineoplastik pengalkilan yang digunakan 
 | Indikasi Baru Diramal | Tiada — tiada ramalan TxGNN dijana |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 — Ramalan model tidak tersedia |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
 | Bilangan Pendaftaran | 10 (sah: 10) |
 | Keputusan Disyorkan | **Tahan** |
 

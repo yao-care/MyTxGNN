@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 475
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Loratadine: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Loratadine (skor ≥ 0.99) ia
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejaki ialah kegunaan yang diketahui) |
 | Kegunaan diketahui dalam calon model | 1 |
 | Tahap bukti | Tidak berkenaan |
-| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 56 daripada 56) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 56 daripada 56) |
 | Bilangan Pendaftaran | 56 (sah: 56) |
 
 ## Kegunaan diketahui dalam calon model

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 383
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Gemfibrozil: indikasi baharu diramal Rheumatoid arthritis (tahap bukti L4). Indikasi asal: Dislipidemia / hipertrigliseridemia"
 monitor_inn: "Gemfibrozil"
 predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
@@ -50,7 +50,7 @@ Gemfibrozil ialah agonis PPAR-alfa daripada kelas fibrat yang lazimnya digunakan
 | Indikasi Baharu yang Diramalkan | Rheumatoid arthritis |
 | Skor Ramalan TxGNN | 0.9990 |
 | Tahap Bukti | L4 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
 | Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold |
 

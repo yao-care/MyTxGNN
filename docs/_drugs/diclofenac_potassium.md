@@ -5,7 +5,7 @@ layout: default
 title: Diclofenac Potassium
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 285
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baru yang Dijangkakan | — (Tiada ramalan TxGNN tersedia) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
 | Bilangan Pendaftaran | 6 (sah: 6) |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CLADRIBINE"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "liver sarcoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cladribine: indikasi baharu diramal Rabdomiosarkoma embrionik parameningeal (parameningeal embryonal rhabdomyosarcoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,7 +48,7 @@ Cladribine ialah analog nukleosida purin yang menyasarkan limfosit dan monosit. 
 | Indikasi Baharu yang Diramalkan | Rabdomiosarkoma embrionik parameningeal (parameningeal embryonal rhabdomyosarcoma) |
 | Skor Ramalan TxGNN | 0,9977 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 680
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "THYMOL"
 predicted_indications: ["interventricular septum aneurysm", "pulmonary valve disease", "Laubry-Pezzi syndrome", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 22", "Pierre Robin syndrome associated with a chromosomal anomaly", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus"]
 description: "Thymol: indikasi baharu diramal Aneurisme septum interventrikular (interventricular septum aneurysm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,7 +51,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **aneurisme septum interventrik
 | Indikasi Baharu yang Diramalkan | Aneurisme septum interventrikular (interventricular septum aneurysm) |
 | Skor Ramalan TxGNN | 0.9925 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 21 daripada 21) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 21 daripada 21) |
 | Bilangan Pendaftaran | 21 (sah: 21) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 

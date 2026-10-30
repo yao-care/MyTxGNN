@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 166
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Brinzolamide: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Brinzolamide (skor ≥ 0.99) 
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang dapat dikesan sumbernya ialah kegunaan yang diketahui) |
 | Kegunaan diketahui dalam calon model | 1 |
 | Tahap bukti | Tidak berkenaan |
-| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
 | Bilangan Pendaftaran | 3 (sah: 3) |
 
 ## Kegunaan diketahui dalam calon model

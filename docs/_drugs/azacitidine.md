@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 113
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Azacitidine: kegunaan diketahui dan status pasaran di Malaysia; buat masa ini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 | Indikasi baharu yang diramalkan | Tiada (tiada calon model yang mencapai skor 0.99 atau lebih tinggi) |
 | Kegunaan diketahui yang direkodkan untuk ubat ini | 15 |
 | Tahap bukti | Tidak berkenaan |
-| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
 | Bilangan Pendaftaran | 12 (sah: 12) |
 
 ## Kegunaan diketahui yang direkodkan untuk ubat ini

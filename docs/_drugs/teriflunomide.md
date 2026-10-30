@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 674
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Teriflunomide: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Semua calon yang dijana oleh model TxGNN (skor ≥ 0.99) untuk Teriflunomide ial
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang dapat dijejaki ialah kegunaan yang diketahui) |
 | Kegunaan diketahui dalam calon model | 1 |
 | Tahap bukti | Tidak berkenaan |
-| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
 
 ## Kegunaan diketahui dalam calon model

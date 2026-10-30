@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 75
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -50,7 +50,7 @@ Ampicillin Sodium adalah antibiotik beta-laktam spektrum luas yang terkenal, awa
 | Petunjuk Baru Yang Diramalkan | **Tiada** — TxGNN tidak mengembalikan sebarang ramalan |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | N/A (Tiada ramalan yang dijana) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
 | Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | **Tahan** |
 

@@ -5,7 +5,7 @@ layout: default
 title: Ampicillin Trihydrate
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 76
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 |------|---------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Kegunaan Semula yang Diramalkan | Tidak tersedia — tiada ramalan TxGNN dikembalikan |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
 | Bilangan Pendaftaran | 9 (sah: 9) |
 
 ---

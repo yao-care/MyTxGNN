@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 615
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ravulizumab: indikasi baharu diramal Neutropenia kongenital teruk autosomal resesif akibat kekurangan G6PC3 (tahap bukti L5). Indikasi asal: Tiada rekod (tiada lesen berdaftar di Malaysia)"
 monitor_inn: "Ravulizumab"
 predicted_indications: ["autosomal recessive severe congenital neutropenia due to G6PC3 deficiency", "cyclic hematopoiesis", "primary hyperoxaluria", "severe congenital neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "pseudo-von Willebrand disease", "X-linked severe congenital neutropenia", "primary release disorder of platelets", "megaloblastic anemia (disease)"]
@@ -52,7 +52,7 @@ namun **tiada sebarang ujian klinikal** dan **tiada penerbitan** yang menyokong 
 | Indikasi Baharu yang Diramalkan | Neutropenia kongenital teruk autosomal resesif akibat kekurangan G6PC3 |
 | Skor Ramalan TxGNN | 0.9996 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

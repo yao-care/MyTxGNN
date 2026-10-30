@@ -5,7 +5,7 @@ layout: default
 title: Asenapine Maleate
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 96
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 |------|-----------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baru yang Diramalkan | — (Tiada ramalan TxGNN tersedia dalam Pakej Bukti ini) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
 
 ---

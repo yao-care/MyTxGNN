@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 683
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "TILDRAKIZUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "drug-induced osteoporosis"]
 description: "Tildrakizumab: indikasi baharu diramal Retinopati diabetes non-proliferatif teruk (severe nonproliferative diabetic retinopathy) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,7 +51,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **retinopati diabetes non-proli
 | Indikasi Baharu yang Diramalkan | Retinopati diabetes non-proliferatif teruk (severe nonproliferative diabetic retinopathy) |
 | Skor Ramalan TxGNN | 0.9963 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold |
 

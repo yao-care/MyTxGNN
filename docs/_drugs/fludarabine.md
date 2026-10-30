@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 361
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Fludarabine"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
 description: "Fludarabine: indikasi baharu diramal Plasma cell myeloma (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,7 +51,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Plasma Cell Myeloma** (multip
 | Indikasi Baharu yang Diramalkan | Plasma cell myeloma |
 | Skor Ramalan TxGNN | 0.9982 |
 | Tahap Bukti | L1 (mengikut penilaian dalam data; perlu diingat bukti ini datang daripada regimen penyaman/lymphodepletion, bukan Fludarabine sebagai pemboleh ubah yang diuji) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Pagar Pengadang) |
 

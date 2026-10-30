@@ -5,7 +5,7 @@ layout: default
 title: Beractant
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 139
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 |------|----------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Petunjuk Indikasi Baru | **Tiada** (tiada petunjuk TxGNN dihasilkan) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
 
 ---

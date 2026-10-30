@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 668
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tazobactam: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Tazobactam ia
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejak ialah kegunaan diketahui) |
 | Kegunaan diketahui dalam calon model | 2 |
 | Tahap bukti | Tidak berkenaan |
-| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
 | Bilangan Pendaftaran | 9 (sah: 9) |
 
 ## Kegunaan diketahui dalam calon model

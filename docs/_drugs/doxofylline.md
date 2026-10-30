@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 306
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "DOXOFYLLINE"
 predicted_indications: ["Pierre Robin syndrome associated with a chromosomal anomaly", "Laubry-Pezzi syndrome", "Jeune syndrome situs inversus", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 22", "heart disease", "pulmonary valve disease"]
 description: "Doxofylline: indikasi baharu diramal Pierre Robin syndrome associated with a chromosomal anomaly (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -50,7 +50,7 @@ Doxofylline ialah bronkodilator jenis metilxantina yang digunakan untuk asma dan
 | Indikasi Baharu yang Diramalkan | Pierre Robin syndrome associated with a chromosomal anomaly |
 | Skor Ramalan TxGNN | 0.9954 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

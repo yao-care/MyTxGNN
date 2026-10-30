@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 552
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "PALBOCICLIB"
 predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
 description: "Palbociclib: indikasi baharu diramal Hyperthyroidism (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -54,7 +54,7 @@ Bukti masih tidak langsung, jadi ini hanyalah persoalan penyelidikan, bukan cada
 | Indikasi Baharu yang Diramalkan | Hyperthyroidism |
 | Skor Ramalan TxGNN | 0.9944 |
 | Tahap Bukti | L5 (hipertiroidisme: L5) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
 | Bilangan Pendaftaran | 12 (sah: 12) |
 | Keputusan Disyorkan | Hold (artritis reumatoid dikelaskan sebagai "Persoalan Penyelidikan") |
 

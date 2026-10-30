@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 298
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -50,7 +50,7 @@ Diphenoxylate hydrochloride adalah agen antidiarrhea jenis opioid, biasanya digu
 | Petunjuk Penggunaan Baru Diramalkan | — Tiada yang diramalkan |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 (Tiada ramalan atau kajian sokongan) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
 | Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | **Tahan** |
 

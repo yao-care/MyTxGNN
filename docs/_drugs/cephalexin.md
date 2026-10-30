@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 208
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cephalexin: kegunaan sedia ada dan status pasaran di Malaysia; buat masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Cephalexin, yang boleh dikesa
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dikesan ialah kegunaan sedia ada) |
 | Kegunaan sedia ada dalam calon model | 1 |
 | Tahap bukti | Tidak berkenaan |
-| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 26 daripada 26) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 26 daripada 26) |
 | Bilangan Pendaftaran | 26 (sah: 26) |
 
 ## Kegunaan sedia ada dalam calon model

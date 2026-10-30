@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Telmisartan"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Telmisartan: indikasi baharu diramal Angina Prinzmetal (tahap bukti L5). Indikasi asal: Hipertensi dan penyakit serebrovaskular/strok"
 ---
 
@@ -50,8 +50,8 @@ Telmisartan ialah penyekat reseptor angiotensin II jenis 1. Dalam graf pengetahu
 | Indikasi baharu yang diramalkan | Angina Prinzmetal |
 | Skor ramalan TxGNN | 0.9998 |
 | Tahap bukti | L5 |
-| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 59 daripada 59) |
-| Bilangan pendaftaran | 59 (sah: 59) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 59 daripada 59) |
+| Bilangan Pendaftaran | 59 (sah: 59) |
 | Keputusan disyorkan | Hold (Tahan) |
 
 ---

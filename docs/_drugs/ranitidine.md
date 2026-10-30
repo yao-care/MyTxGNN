@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 613
 evidence_level: L3
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "RANITIDINE"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 description: "Ranitidine: indikasi baharu diramal Peptic ulcer perforation (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -50,7 +50,7 @@ Data yang dikumpulkan untuk laporan ini memuatkan **0 percubaan klinikal** dan *
 | Indikasi Baharu yang Diramalkan | Peptic ulcer perforation |
 | Skor Ramalan TxGNN | 0.9988 |
 | Tahap Bukti | L3 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
 | Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 

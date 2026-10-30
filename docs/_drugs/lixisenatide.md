@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 470
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -54,7 +54,7 @@ Rekod Malaysia NPRA mengesahkan ubat ini sedang dipasarkan di bawah 2 pendaftara
 | Indikasi Baru yang Diramalkan | — (tiada data ramalan TxGNN) |
 | Skor Ramalan TxGNN | — |
 | Tahap Bukti | T/A — output ramalan tidak ada |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | **Tunggu** |
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 649
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "SODIUM ACETATE"
 predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "gonococcal urethritis", "Ureaplasma urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
 description: "Sodium Acetate: indikasi baharu diramal Kekurangan protrombin kongenital (congenital prothrombin deficiency) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,7 +51,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan protrombin kongeni
 | Indikasi Baharu yang Diramalkan | Kekurangan protrombin kongenital (congenital prothrombin deficiency) |
 | Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 25 daripada 25) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 25 daripada 25) |
 | Bilangan Pendaftaran | 25 (sah: 25) |
 | Keputusan Disyorkan | Hold |
 

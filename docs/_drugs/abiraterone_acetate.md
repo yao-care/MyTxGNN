@@ -5,7 +5,7 @@ layout: default
 title: Abiraterone Acetate
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 13
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 |------|----------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Ramalan Baru | Belum dijana |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
 | Bilangan Pendaftaran | 11 (sah: 11) |
 
 ---

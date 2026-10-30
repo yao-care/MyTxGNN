@@ -5,7 +5,7 @@ layout: default
 title: Articaine Hydrochloride
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 94
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 |------|-----------|
 | Petunjuk Asal | Tidak direkodkan dalam data tempatan |
 | Petunjuk Baru Dijangka | — (Tiada ramalan dihasilkan) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
 | Bilangan Pendaftaran | 3 (sah: 3) |
 
 ---

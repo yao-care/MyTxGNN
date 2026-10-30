@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 100
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -52,7 +52,7 @@ Penilaian repurposing lengkap tidak dapat diselesaikan sehingga jurang data yang
 | Indikasi Baru Yang Diramal | Tidak tersedia |
 | Skor Ramalan TxGNN | Tidak tersedia |
 | Paras Bukti | Tidak dapat dinilai |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Yang Disyorkan | Tahan |
 

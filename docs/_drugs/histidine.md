@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 401
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "HISTIDINE"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
 description: "Histidine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (gastroparesis (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,7 +51,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **gastroparesis**, tetapi buat 
 | Indikasi Baharu yang Diramalkan | Gastroparesis (gastroparesis (disease)) (gastroparesis (disease)) |
 | Skor Ramalan TxGNN | 0.9955 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 32 daripada 32) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 32 daripada 32) |
 | Bilangan Pendaftaran | 32 (sah: 32) |
 | Keputusan yang Disyorkan | Hold |
 

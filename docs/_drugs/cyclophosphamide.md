@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 245
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "CYCLOPHOSPHAMIDE"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
 description: "Cyclophosphamide: indikasi baharu diramal Leukemia mieloid (myeloid leukemia) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,7 +52,7 @@ Arah ini disokong oleh **34 ujian klinikal** dan **20 penerbitan**. Namun, dalam
 | Indikasi Baharu yang Diramalkan | Leukemia mieloid (myeloid leukemia) |
 | Skor Ramalan TxGNN | 0.9947 |
 | Tahap Bukti | L2 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 

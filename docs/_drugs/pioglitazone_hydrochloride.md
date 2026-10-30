@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 575
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -52,7 +52,7 @@ Setelah ramalan dijana, mekanisme peka insulin dan anti-radang ubat menjadikanny
 | Petunjuk Baru Diramal | Tidak tersedia — ramalan TxGNN belum dijana |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | T/A |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
 | Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | **Tahan** |
 

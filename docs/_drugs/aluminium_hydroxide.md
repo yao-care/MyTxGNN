@@ -5,7 +5,7 @@ layout: default
 title: Aluminium Hydroxide
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 49
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,7 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 | Item | Kandungan |
 |------|-----------|
 | Petunjuk Asal | Tidak direkodkan dalam data tempatan |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 42 daripada 42) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 42 daripada 42) |
 | Bilangan Pendaftaran | 42 (sah: 42) |
 
 ---

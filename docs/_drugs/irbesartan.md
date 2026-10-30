@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Irbesartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Irbesartan: indikasi baharu diramal Penyakit buah pinggang hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,7 +48,7 @@ Irbesartan ialah penyekat reseptor angiotensin II jenis 1 (ARB) yang pada asalny
 | Indikasi Baharu yang Diramalkan | Penyakit buah pinggang hipertensif malignan (malignant hypertensive renal disease) |
 | Skor Ramalan TxGNN | 0.9931 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 47 daripada 47) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 47 daripada 47) |
 | Bilangan Pendaftaran | 47 (sah: 47) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

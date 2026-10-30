@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 684
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "TIOTROPIUM"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
 description: "Tiotropium: indikasi baharu diramal Penyakit paru obstruktif (obstructive lung disease) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,7 +52,7 @@ dengan **40 percubaan klinikal** dan **20 penerbitan** yang dikumpulkan bagi ara
 | Indikasi Baharu yang Diramal | Penyakit paru obstruktif (obstructive lung disease) |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L1 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
 | Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 

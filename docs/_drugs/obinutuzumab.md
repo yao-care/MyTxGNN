@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 536
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Obinutuzumab: kegunaan diketahui dan status pasaran di Malaysia; kini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Obinutuzumab,
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejaki ialah kegunaan yang diketahui) |
 | Kegunaan diketahui dalam kalangan calon model | 2 |
 | Tahap bukti | Tidak berkaitan |
-| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 
 ## Kegunaan diketahui dalam kalangan calon model

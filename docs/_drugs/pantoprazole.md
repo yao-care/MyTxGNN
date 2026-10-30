@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 557
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "PANTOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Pantoprazole: indikasi baharu diramal Duodenal obstruction (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,7 +52,7 @@ Indikasi ramalan ini bertindih dengan kegunaan asal ubat, jadi ia lebih merupaka
 | Indikasi Baharu Diramal | Duodenal obstruction |
 | Skor Ramalan TxGNN | 0.9921 |
 | Tahap Bukti | L5 mengikut data yang dikompilasi; L2 jika hanya dikira daripada ujian yang disenaraikan di bawah (lihat nota) |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 30) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 30) |
 | Bilangan Pendaftaran | 30 (sah: 30) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 

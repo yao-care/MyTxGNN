@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 587
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Polatuzumab Vedotin: indikasi baharu diramal Karsinoma payudara HER2 positif (tahap bukti L5). Indikasi asal: Tiada data indikasi yang diluluskan di Malaysia"
 monitor_inn: "POLATUZUMAB VEDOTIN"
 predicted_indications: ["HER2 positive breast carcinoma"]
@@ -48,7 +48,7 @@ Polatuzumab vedotin ialah konjugat antibodi-ubat (ADC) yang menyasarkan CD79b da
 | Indikasi Baharu yang Diramalkan | Karsinoma payudara HER2 positif |
 | Skor Ramalan TxGNN | 0.9934 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | Hold |
 

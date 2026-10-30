@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 372
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Fluticasone Propionate: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Model pembelajaran mendalam TxGNN (skor ≥ 0.99) menghasilkan calon indikasi un
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang dapat dikesan sumbernya ialah kegunaan yang diketahui) |
 | Kegunaan diketahui dalam calon model | 2 |
 | Tahap bukti | Tidak berkenaan |
-| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 30) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 30) |
 | Bilangan Pendaftaran | 30 (sah: 30) |
 
 ## Kegunaan diketahui dalam calon model

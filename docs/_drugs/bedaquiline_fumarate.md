@@ -5,7 +5,7 @@ layout: default
 title: Bedaquiline Fumarate
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 127
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,7 +42,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 |------|----------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baru yang Diramalkan | **Tiada** — TxGNN tidak mengembalikan sebarang ramalan |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 
 ## Penafian

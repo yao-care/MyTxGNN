@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ARSENIC TRIOXIDE"
 predicted_indications: ["unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "partial deletion of the long arm of chromosome 5", "myelodysplastic syndrome", "Ewing sarcoma", "dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Arsenic Trioxide: indikasi baharu diramal Sindrom mielodisplastik tidak terklasifikasi (unclassified myelodysplastic syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,7 +50,7 @@ Arsenic trioxide ialah ubat antikanser yang digunakan dalam rawatan leukemia hem
 | Indikasi Baharu yang Diramalkan | Sindrom mielodisplastik tidak terklasifikasi (unclassified myelodysplastic syndrome) |
 | Skor Ramalan TxGNN | 0,9993 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

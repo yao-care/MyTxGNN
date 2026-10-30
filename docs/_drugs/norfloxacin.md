@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Norfloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Norfloxacin: indikasi baharu diramal Polyclonal hyperviscosity syndrome (tahap bukti L5). Indikasi asal: Jangkitan bakteria (demam kepialu, salmonelosis…"
 ---
 
@@ -50,7 +50,7 @@ Norfloxacin ialah antibakteria kumpulan fluoroquinolone yang pada asalnya diguna
 | Indikasi Baharu yang Diramalkan | Polyclonal hyperviscosity syndrome |
 | Skor Ramalan TxGNN | 0.9970 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
 | Bilangan Pendaftaran | 5 (sah: 5) |
 | Bilangan Kelulusan | 5 pendaftaran (4 produk bahan tunggal, 1 produk kombinasi) |
 | Keputusan Disyorkan | Hold (Tangguh) |

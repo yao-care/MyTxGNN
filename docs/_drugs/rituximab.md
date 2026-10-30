@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 627
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Rituximab: kegunaan diketahui dan status pasaran di Malaysia; ketika ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Model TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih untuk 
 | Indikasi baharu yang diramalkan | Tiada (tiada calon model dengan skor 0.99 atau lebih) |
 | Kegunaan yang direkodkan untuk ubat ini | 14 |
 | Tahap bukti | Tidak berkenaan |
-| Status pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
 | Bilangan Pendaftaran | 9 (sah: 9) |
 
 ## Kegunaan yang direkodkan untuk ubat ini

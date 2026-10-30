@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Deferasirox"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Deferasirox: indikasi baharu diramal Jangkitan HIV (tahap bukti L5). Indikasi asal: Beta-talasemia dan hemoglobinopati berkaitan"
 ---
 
@@ -48,7 +48,7 @@ Deferasirox ialah ejen pengkelat besi yang dalam graf pengetahuan direkodkan ber
 | Indikasi Baharu yang Diramalkan | Jangkitan HIV |
 | Skor Ramalan TxGNN | 0.9940 |
 | Tahap Bukti | L5 |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
 | Bilangan Pendaftaran | 14 (sah: 14) |
 | Bilangan Kelulusan | 14 pendaftaran produk tunggal yang sah |
 | Keputusan Disyorkan | Hold (Tahan) |

@@ -5,7 +5,7 @@ layout: default
 title: Lidocaine Hcl
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 460
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,7 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 | Item | Kandungan |
 |------|-----------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 21 daripada 21) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 21 daripada 21) |
 | Bilangan Pendaftaran | 21 (sah: 21) |
 
 ---
