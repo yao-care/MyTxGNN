@@ -14,6 +14,9 @@ on:
       max_pages:
         description: '補跑積欠變動時放寬停損頁數（留空＝預設 min(200, 5%)）'
         default: ''
+      max_change:
+        description: '第一次換官方來源時放寬狀態變動比例（例 0.5；留空＝預設 0.2）'
+        default: ''
 
 permissions:
   contents: write
@@ -49,6 +52,7 @@ jobs:
         id: refresh
         env:
           LICENSE_REFRESH_MAX_PAGES: ${{ inputs.max_pages }}
+          LICENSE_REFRESH_MAX_CHANGE: ${{ inputs.max_change }}
         run: |
           WS=$(bash scripts/txgnn_ws.sh)
           SITE=$(cat tools/txgnn/SITE)
