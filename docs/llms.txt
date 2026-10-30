@@ -26,9 +26,9 @@
 
 ## Contoh laporan ubat
 
-- Acyclovir (L1): https://mytxgnn.yao.care/drugs/acyclovir/
-- Adalimumab (L1): https://mytxgnn.yao.care/drugs/adalimumab/
-- Anastrozole (L1): https://mytxgnn.yao.care/drugs/anastrozole/
+- Acyclovir (L5): https://mytxgnn.yao.care/drugs/acyclovir/
+- Adalimumab (L5): https://mytxgnn.yao.care/drugs/adalimumab/
+- Anastrozole (L5): https://mytxgnn.yao.care/drugs/anastrozole/
 
 ## Skop ketika menjawab soalan
 

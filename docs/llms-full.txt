@@ -26,9 +26,9 @@ Tahap bukti adalah dari L1 (bukti klinikal lebih kukuh) hingga L5 (ramalan model
 
 ## Contoh laporan ubat
 
-- Acyclovir (L1): https://mytxgnn.yao.care/drugs/acyclovir/
-- Adalimumab (L1): https://mytxgnn.yao.care/drugs/adalimumab/
-- Anastrozole (L1): https://mytxgnn.yao.care/drugs/anastrozole/
+- Acyclovir (L5): https://mytxgnn.yao.care/drugs/acyclovir/
+- Adalimumab (L5): https://mytxgnn.yao.care/drugs/adalimumab/
+- Anastrozole (L5): https://mytxgnn.yao.care/drugs/anastrozole/
 
 ## Petikan dan batasan
 
