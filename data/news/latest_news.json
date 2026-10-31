@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-31T00:21:30.902074",
+  "fetched": "2026-10-31T06:36:49.552695",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "title": "Malaysian Anaesthesiologist First Asian To Lead Global Pain Association",
@@ -105,26 +105,6 @@
       "published": "2026-10-27T02:00:00",
       "summary": "State exco Daniel Gooi says Penang is the only state that has achieved the national ambulance response target, due to community responders. About 58% of its Priority 1 emergency calls this year were responded to within 15 minutes, surpassing the 50% KPI. The post Penang Hits Ambulance Response Target With Community Responders appeared first on CodeBlue .",
       "keywords_matched": []
-    },
-    {
-      "title": "Malaysian doctor Mary Suma Cardosa makes history as first Asian to lead global pain research body",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/30/malaysian-doctor-mary-suma-cardosa-makes-history-as-first-asian-to-lead-global-pain-research-body/241333",
-      "source": "Malay Mail",
-      "published": "2026-10-30T12:53:21",
-      "summary": "BANGKOK, Oct 30 — Malaysian physician Dr Mary Suma Cardosa has made history as the first Asian to become president...",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Sale of first industrial plots on Silicon Island to start in Q1 2027, says Penang CM",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/30/sale-of-first-industrial-plots-on-silicon-island-to-start-in-q1-2027-says-penang-cm/241306",
-      "source": "Malay Mail",
-      "published": "2026-10-30T09:24:57",
-      "summary": "GEORGE TOWN, Oct 30 — The Penang government hopes to sell the first industrial plots on Silicon Island as early as...",
-      "keywords_matched": [
-        "trial"
-      ]
     }
   ]
 }
