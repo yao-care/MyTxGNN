@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Vitamin E"
 predicted_indications: ["inborn disorder of bilirubin metabolism", "bilirubin metabolism disease", "hereditary North American Indian childhood cirrhosis", "drug-induced liver injury", "microvillus inclusion disease", "hyperbiliverdinemia", "Navajo neurohepatopathy", "nevus of Ito", "adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency", "mitochondrial DNA depletion syndrome, hepatocerebral form"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Vitamin E: indikasi baharu diramal Inborn disorder of bilirubin metabolism (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Vitamin E ialah vitamin larut lemak dan antioksidan yang didaftarkan di Malaysia
 | Indikasi Baharu yang Diramalkan | Inborn disorder of bilirubin metabolism |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 245 daripada 245) |
-| Bilangan Pendaftaran | 245 (sah: 245) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 244 daripada 245) |
+| Bilangan Pendaftaran | 245 (sah: 244) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 3
 monitor_inn: "Albendazole"
 predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Albendazole: indikasi baharu diramal ekinokokosis alveolar (tahap bukti L3)."
 ---
 
@@ -50,8 +50,8 @@ Albendazole ialah ubat antihelmintik daripada kumpulan benzimidazol. Model TxGNN
 | Indikasi Baharu yang Diramalkan | Ekinokokosis alveolar |
 | Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 29 daripada 29) |
-| Bilangan Pendaftaran | 29 (sah: 29) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 28 daripada 29) |
+| Bilangan Pendaftaran | 29 (sah: 28) |
 | Keputusan yang Disyorkan | Teruskan dengan Langkah Pengawalan |
 
 ---

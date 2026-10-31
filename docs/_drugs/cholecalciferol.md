@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CHOLECALCIFEROL"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cholecalciferol: indikasi baharu diramal Displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type) (tahap bukti L5). Indikasi asal: Tidak direkodkan dala…"
 ---
 
@@ -50,8 +50,8 @@ Setakat ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong
 | Indikasi Baharu yang Diramalkan | Displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type) |
 | Skor Ramalan TxGNN | 0.9978 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 800 daripada 800) |
-| Bilangan Pendaftaran | 800 (sah: 800) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 797 daripada 800) |
+| Bilangan Pendaftaran | 800 (sah: 797) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?

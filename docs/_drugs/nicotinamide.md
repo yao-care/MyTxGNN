@@ -11,7 +11,7 @@ brands: []
 permalink: /drugs/nicotinamide/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 370 daripada 370) |
-| Bilangan Pendaftaran | 370 (sah: 370) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 369 daripada 370) |
+| Bilangan Pendaftaran | 370 (sah: 369) |
 | **Nama Ubat** | Nicotinamide |
 | **ID DrugBank** | [DB02701](https://go.drugbank.com/drugs/DB02701) |
 | **Ramalan DL (≥0.7)** | 35 |

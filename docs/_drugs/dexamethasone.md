@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Dexamethasone: indikasi baharu diramal Alopecia areata (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ Dexamethasone ialah kortikosteroid ssintetik berkesan tinggi. Model TxGNN (pembe
 | Indikasi Baharu yang Diramalkan | Alopecia areata |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 38 daripada 38) |
-| Bilangan Pendaftaran | 38 (sah: 38) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 38) |
+| Bilangan Pendaftaran | 38 (sah: 36) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 186
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Calcium Citrate: indikasi baharu diramal Hemoglobinopati (tahap bukti L5). Indikasi asal: Tiada indikasi diluluskan direkodkan dalam data yang dikompilasi (kal…"
 monitor_inn: "CALCIUM CITRATE"
 predicted_indications: ["hemoglobinopathy", "myocardial infarction", "partial deletion of the short arm of chromosome 16", "thrombotic disease"]
@@ -50,8 +50,8 @@ Kalsium sitrat ialah suplemen kalsium yang digunakan untuk membetulkan kekuranga
 | Indikasi Baharu yang Diramalkan | Hemoglobinopati |
 | Skor Ramalan TxGNN | 0.9937 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 48 daripada 48) |
-| Bilangan Pendaftaran | 48 (sah: 48) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 47 daripada 48) |
+| Bilangan Pendaftaran | 48 (sah: 47) |
 | Keputusan Disyorkan | Hold |
 
 ---

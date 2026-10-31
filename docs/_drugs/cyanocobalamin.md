@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Cyanocobalamin"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cyanocobalamin: indikasi baharu diramal biotin metabolic disease (tahap bukti L5). Indikasi asal: Kekurangan vitamin B12, anemia pernisiosa…"
 ---
 
@@ -51,8 +51,8 @@ Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **penya
 | Indikasi Baharu yang Diramalkan | Penyakit metabolik biotin |
 | Skor Ramalan TxGNN | 0.9960 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 428 daripada 428) |
-| Bilangan Pendaftaran | 428 (sah: 428) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 427 daripada 428) |
+| Bilangan Pendaftaran | 428 (sah: 427) |
 | Bilangan Kelulusan | Sekurang-kurangnya 428 pendaftaran (13 produk bahan tunggal, 415 produk kombinasi) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 

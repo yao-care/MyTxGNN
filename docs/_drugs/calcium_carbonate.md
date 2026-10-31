@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 184
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Calcium Carbonate: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ Model TxGNN tidak mempunyai sebarang calon dengan skor 0.99 atau lebih tinggi un
 | Indikasi baharu yang diramalkan | Tiada (tiada calon model dengan skor 0.99 atau lebih tinggi) |
 | Kegunaan diketahui yang direkodkan untuk ubat ini | 10 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 348 daripada 348) |
-| Bilangan Pendaftaran | 348 (sah: 348) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 346 daripada 348) |
+| Bilangan Pendaftaran | 348 (sah: 346) |
 
 ## Kegunaan diketahui yang direkodkan untuk ubat ini
 
@@ -81,7 +81,7 @@ Model TxGNN tidak mempunyai sebarang calon dengan skor 0.99 atau lebih tinggi un
 | MAL21036069NC | Excelife ExcelGold Effervescent Tablet |  | Sah |
 | MAL16035033N | EPOCALDI Softgel Capsule |  | Sah |
 | MAL21046075NC | Janipro ATOZ Multivitamin-Multimineral Lutein & Lycopene Plu |  | Sah |
-| MAL11040029XC | Melaleuca CELWISE |  | Sah |
+| MAL11040029XC | Melaleuca CELWISE |  | Dibatalkan Pendaftaran |
 | MAL16055022N | MRT CALMAG TABLET |  | Sah |
 | MAL06051375X | NUTRILITE DOUBLE X MULTIVITAMIN, TABLET |  | Sah |
 | MAL06061372X | Cal-Mag & D Plus |  | Sah |
