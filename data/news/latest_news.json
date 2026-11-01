@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-10-31T22:10:54.475674",
+  "fetched": "2026-11-01T01:50:36.345169",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
     {
       "title": "Malaysian Anaesthesiologist First Asian To Lead Global Pain Association",
@@ -107,36 +107,14 @@
       "keywords_matched": []
     },
     {
-      "title": "No unhealthy readings: Cheras highest at 77 as 47 areas nationwide record moderate API readings this afternoon",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/31/no-unhealthy-readings-cheras-highest-at-77-as-47-areas-nationwide-record-moderate-api-readings-this-afternoon/241460",
+      "title": "Flushed, binned, forgotten: How unwanted medicines are putting Malaysia’s waterways at risk (VIDEO)",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/01/omla-flushed-binned-forgotten-how-unwanted-medicines-are-putting-malaysias-waterways-at-risk/241120",
       "source": "Malay Mail",
-      "published": "2026-10-31T10:14:58",
-      "summary": "KUALA LUMPUR, Oct 31 — A total of 47 areas across the country recorded Air Pollutant Index (API) readings at a mod...",
+      "published": "2026-10-31T23:00:00",
+      "summary": "KUALA LUMPUR, Nov 1 — From disrupting fish reproduction to altering aquatic behaviour, pharmaceutical residues can...",
       "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Perlis PAS announces death of Mata Ayer rep Wan Badariah",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/31/perlis-pas-announces-death-of-mata-ayer-rep-wan-badariah/241458",
-      "source": "Malay Mail",
-      "published": "2026-10-31T10:03:34",
-      "summary": "KANGAR, Oct 31 — Mata Ayer assemblywoman Wan Badariah Wan Saad died at Hospital Tuanku Fauziah (HTF) here at 4.26p...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Baby buried in Kapit still hospitalised; mother’s postpartum depression link unconfirmed, says Nancy Shukri",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/31/baby-buried-in-kapit-still-hospitalised-mothers-postpartum-depression-link-unconfirmed-says-nancy-shukri/241457",
-      "source": "Malay Mail",
-      "published": "2026-10-31T09:57:29",
-      "summary": "KUCHING, Oct 31 — The Women, Family and Community Development Ministry (KPWKM) has yet to receive medical confirma...",
-      "keywords_matched": [
-        "medical",
-        "hospital",
-        "hospital"
+        "medicine",
+        "pharmaceutical"
       ]
     }
   ]
