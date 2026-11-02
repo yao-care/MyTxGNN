@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-02T07:12:28.153386",
+  "fetched": "2026-11-02T17:48:06.169738",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Liquid Nicotine Exemption Contradicts Planned Vape Ban: Bandar Kuching MP",
+      "url": "https://codeblue.galencentre.org/2026/11/liquid-nicotine-exemption-contradicts-planned-vape-ban-bandar-kuching-mp/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-02T09:17:23",
+      "summary": "Bandar Kuching MP Kelvin Yii tells Putrajaya to be honest about whether it still intends to ban vape, after the Poisons Board reportedly approved a proposed exemption of liquid nicotine from the Poisons List. “The rakyat deserves an honest explanation.” The post Liquid Nicotine Exemption Contradicts Planned Vape Ban: Bandar Kuching MP appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Sejarah Hitam Negaraku: Will Malaysia Repeat The Nicotine Betrayal? — MyWatch",
       "url": "https://codeblue.galencentre.org/2026/11/sejarah-hitam-negaraku-will-malaysia-repeat-the-nicotine-betrayal-mywatch/",
@@ -108,21 +116,21 @@
       ]
     },
     {
-      "title": "Senator: What’s The Use Of ‘Toothless’ Health Service Commission?",
-      "url": "https://codeblue.galencentre.org/2026/10/senator-whats-the-use-of-toothless-health-service-commission/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-28T07:29:24",
-      "summary": "Senator Lingeshwaran asks what's the point of a \"toothless\" Health Service Commission (SPK) without the power to create new positions or set wages for health workers. He backs amendments to the Federal Constitution to authorise such powers for SPK. The post Senator: What’s The Use Of ‘Toothless’ Health Service Commission? appeared first on CodeBlue .",
+      "title": "Police arrest man at Penang airport over RM3.2m cannabis bound for London; RM1.05m drugs seized in Jelutong",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/02/police-arrest-man-at-penang-airport-over-rm32m-cannabis-bound-for-london-rm105m-drugs-seized-in-jelutong/241726",
+      "source": "Malay Mail",
+      "published": "2026-11-02T11:38:04",
+      "summary": "GEORGE TOWN, Nov 2 — Police arrested a local man in possession of 40 kilogrammes (kg) of cannabis buds, valued at...",
       "keywords_matched": [
-        "health"
+        "drug"
       ]
     },
     {
-      "title": "Health Ministry faces shortage of 1,176 drivers, including ambulance personnel",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/02/health-ministry-faces-shortage-of-1176-drivers-including-ambulance-personnel/241649",
+      "title": "No unhealthy API readings as monsoon winds to cut transboundary haze, improve air quality, says DOE",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/02/no-unhealthy-api-readings-as-monsoon-winds-to-cut-transboundary-haze-improve-air-quality-says-doe/241701",
       "source": "Malay Mail",
-      "published": "2026-11-02T02:37:31",
-      "summary": "KUALA LUMPUR, Nov 2 — The Health Ministry (MoH) is reportedly facing a nationwide shortage of 1,176 vehicle driver...",
+      "published": "2026-11-02T09:25:22",
+      "summary": "KUALA LUMPUR, Nov 2 — Air quality is expected to improve further amid increasingly humid conditions and more frequ...",
       "keywords_matched": [
         "health"
       ]
