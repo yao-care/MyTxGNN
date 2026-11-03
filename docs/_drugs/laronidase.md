@@ -4,17 +4,17 @@ title: Laronidase
 parent: Low Evidence (L4-L5)
 nav_order: 446
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-11-03
 monitor_inn: "LARONIDASE"
-predicted_indications: ["lysosomal storage disease with skeletal involvement", "Sanfilippo syndrome"]
-description: "Laronidase: indikasi baharu diramal Penyakit simpanan lisosom dengan penglibatan rangka (lysosomal storage disease with skeletal involvement) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam d…"
+predicted_indications: ["Sanfilippo syndrome"]
+description: "Laronidase: indikasi baharu diramal Sanfilippo syndrome (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Laronidase
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **2** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Laronidase: Penyakit simpanan lisosom dengan penglibatan rangka (lysosomal storage disease with skeletal involvement)
+## Laronidase: Sanfilippo syndrome
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Laronidase ialah enzim alfa-L-iduronidase rekombinan yang pada asalnya digunakan untuk merawat mukopolisakaridosis (MPS) jenis I, termasuk sindrom Hurler, Hurler-Scheie dan Scheie.
-Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit simpanan lisosom dengan penglibatan rangka**, tetapi tiada **percubaan klinikal** berdaftar dan hanya **4 penerbitan** yang disenaraikan, kebanyakannya ulasan, kajian in vitro dan satu laporan kes. Indikasi ini sebahagian besarnya bertindih dengan indikasi asal (MPS I), jadi ia bukan pengalihan guna sebenar.
+Indikasi ini sebahagian besarnya bertindih dengan indikasi asal (MPS I), jadi ia bukan pengalihan guna sebenar.
 
 ---
 
@@ -48,8 +48,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit simpanan lisosom den
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Penyakit simpanan lisosom dengan penglibatan rangka (lysosomal storage disease with skeletal involvement) |
-| Skor Ramalan TxGNN | 0.9931 |
+| Indikasi Baharu yang Diramalkan | Sanfilippo syndrome |
+| Skor Ramalan TxGNN | 0.9922 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
@@ -63,7 +63,7 @@ Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. B
 
 Penglibatan rangka (disostosis multipleks) ialah manifestasi MPS I yang diiktiraf. Oleh itu, indikasi yang diramalkan ini sebahagian besarnya bertindih dengan indikasi berlabel asal. Kajian in vitro (PMID 18758061) menunjukkan laronidase diambil oleh fibroblas dan osteoblas terkultur, dan ini menyokong mekanisme yang munasabah untuk tisu tulang dan rawan.
 
-Walau bagaimanapun, penembusan ke dalam rawan dan tulang yang tidak bervaskular adalah terhad dengan terapi penggantian enzim (ERT) intravena, dan hasil rangka secara amnya sederhana. Skor TxGNN yang tinggi (0.9931) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
+Walau bagaimanapun, penembusan ke dalam rawan dan tulang yang tidak bervaskular adalah terhad dengan terapi penggantian enzim (ERT) intravena, dan hasil rangka secara amnya sederhana.
 
 ---
 
