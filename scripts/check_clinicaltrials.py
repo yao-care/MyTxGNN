@@ -8,7 +8,7 @@ NOTE: Filters out known/approved indications to focus on repurposing evidence.
 2026-11-03 門檻（cache 結構與 key 不變）：
 - 「新試驗」以 StudyFirstPostDate 落在查詢窗內判斷；只是 LastUpdatePostDate 更新的舊試驗寫入 cache、不開 issue。
 - 至少一筆新試驗的 condition 直接對到目前的預測新適應症才開 issue；issue 只列命中的試驗，標題只掛命中的預測。
-- 已核准／已知用途：drug_list 的 approved_indication（search-index 的知識圖譜原適應症）與預測同名者不算命中。
+- 已核准／已知用途：drug_list 的 approved_indication（search-index 的知識圖譜原適應症）與預測同名、或只差 type 2／subtype A 等限定詞者不算命中（見 is_known_indication）。
 """
 
 import json
@@ -23,86 +23,50 @@ import requests
 from github_utils import create_issue, close_older_clinicaltrials_issues
 
 
-def is_known_indication(approved_indication: str, predicted_indication: str) -> bool:
-    """Check if predicted indication overlaps with approved indication.
+# 2026-11-03：已核准用途排除改成嚴格比對。原本的關鍵字比對會誤殺（例如 amlodipine 的
+# pulmonary hypertension 因為 hypertension 被排除）；現在只認兩種情形：
+#   1. 正規化後名稱完全相同
+#   2. 一方是另一方前後加上限定詞（type 2、subtype A、form、variant 等）
+# approved_indication 是 extract_drug_list.py 輸出的「; 」分隔已知適應症（英文疾病名）。
+_QUALIFIER_WORDS = {"type", "subtype", "form", "variant", "group", "class", "grade", "stage"}
 
-    Uses keyword matching to detect if the predicted indication is likely
-    already approved for the drug.
+
+def _norm_indication(name: str) -> list:
+    name = re.sub(r"\((disease|disorder)\)", " ", (name or "").lower())
+    return re.sub(r"[^\w]+", " ", name).split()
+
+
+def _is_qualifier(words: list) -> bool:
+    # 限定詞要以 type／subtype 等字開頭（"type 2"、"subtype a"）；單獨的字母不算（hepatitis b ≠ hepatitis）
+    return bool(words) and words[0] in _QUALIFIER_WORDS and all(
+        w in _QUALIFIER_WORDS or re.fullmatch(r"\d+[a-z]?|[ivx]+|[a-z]", w) for w in words)
+
+
+def _same_or_qualified(a: list, b: list) -> bool:
+    if a == b:
+        return True
+    short, long_ = (a, b) if len(a) < len(b) else (b, a)
+    if not short or len(short) == len(long_):
+        return False
+    n = len(short)
+    for i in range(len(long_) - n + 1):
+        if long_[i:i + n] == short and _is_qualifier(long_[:i] + long_[i + n:]) \
+                and (i == 0 or i + n == len(long_)):
+            return True
+    return False
+
+
+def is_known_indication(approved_indication: str, predicted_indication: str) -> bool:
+    """Is the predicted indication one of the drug's known (approved) indications?
+
+    Strict match against each '; '-separated known indication: identical after
+    normalization, or one is the other plus a qualifier (e.g. 'type 2', 'subtype A').
     """
     if not approved_indication or not predicted_indication:
         return False
-
-    approved_lower = approved_indication.lower()
-    predicted_lower = predicted_indication.lower()
-
-    # Extract meaningful keywords from predicted indication
-    cleaned = re.sub(r'\s*\(disease\)\s*', ' ', predicted_lower)
-    cleaned = re.sub(r'\s*\(disorder\)\s*', ' ', cleaned)
-    cleaned = re.sub(r'[^\w\s]', ' ', cleaned)
-
-    words = cleaned.split()
-
-    # Generic medical terms that are too broad for matching
-    generic_terms = {
-        'disease', 'disorder', 'syndrome', 'type', 'of', 'the', 'and', 'or',
-        'with', 'due', 'to', 'in', 'by', 'for', 'as', 'is', 'a', 'an',
-        'primary', 'secondary', 'chronic', 'acute', 'severe', 'mild',
-        'familial', 'hereditary', 'congenital', 'acquired', 'idiopathic',
-        'cancer', 'tumor', 'carcinoma', 'neoplasm', 'infection', 'infectious',
-        'deficiency', 'failure', 'insufficiency', 'inflammation',
-        'cell', 'cells', 'blood', 'bone', 'muscle', 'nerve', 'skin',
-    }
-
-    # Keep important acronyms even if short
-    important_acronyms = {
-        'hiv', 'aids', 'copd', 'adhd', 'als', 'ms', 'ibd', 'ibs',
-        'hcv', 'hbv', 'tb', 'ra', 'sle', 'ckd', 'chf', 'cad',
-    }
-
-    # Expanded forms for acronyms
-    expanded_terms = {
-        'hiv': 'immunodeficiency virus',
-        'aids': 'acquired immunodeficiency',
-        'copd': 'chronic obstructive pulmonary',
-        'adhd': 'attention deficit',
-        'als': 'amyotrophic lateral sclerosis',
-    }
-
-    keywords = []
-    for w in words:
-        w_lower = w.lower()
-        if w_lower in important_acronyms:
-            keywords.append(w_lower)
-        elif w_lower not in generic_terms and len(w) > 4:
-            keywords.append(w_lower)
-
-    if not keywords:
-        return False
-
-    # Check if specific keywords appear in approved indication
-    matches = 0
-    for kw in keywords:
-        pattern = r'\b' + re.escape(kw) + r'\b'
-        if re.search(pattern, approved_lower):
-            matches += 1
-        elif kw in expanded_terms:
-            if expanded_terms[kw] in approved_lower:
-                matches += 1
-
-    # Need majority of specific keywords to match
-    if len(keywords) >= 2 and matches >= len(keywords) * 0.6:
-        return True
-
-    # Single very specific keyword match
-    for kw in keywords:
-        if len(kw) > 8:
-            pattern = r'\b' + re.escape(kw) + r'\b'
-            if re.search(pattern, approved_lower):
-                return True
-        elif kw in expanded_terms and expanded_terms[kw] in approved_lower:
-            return True
-
-    return False
+    pred = _norm_indication(predicted_indication)
+    return any(_same_or_qualified(pred, _norm_indication(k))
+               for k in re.split(r"[;；]", approved_indication) if k.strip())
 
 # Configuration
 API_BASE = "https://clinicaltrials.gov/api/v2/studies"
@@ -168,14 +132,10 @@ def _clean_condition(name: str) -> str:
     return re.sub(r"\s+", " ", name).strip().replace('"', "")
 
 
-def _norm_indication(name: str) -> str:
-    return " ".join(re.sub(r"[^\w]+", " ", _clean_condition(name).lower()).split())
-
-
 def known_predictions(approved_indication: str, predicted: list) -> list:
-    """預測中與已知原適應症同名者（正規化後完全相同；不用關鍵字模糊比對，避免把 HCV 當成 HBV 的已知用途）。"""
-    approved = {_norm_indication(x) for x in re.split(r"[;；]", approved_indication or "") if x.strip()}
-    return [p for p in predicted if _norm_indication(p) in approved]
+    """預測中屬於已知原適應症者：用 is_known_indication 的嚴格比對（正規化後同名，或一方只多 type 2／subtype A
+    等限定詞）；不用關鍵字模糊比對，避免把 HCV 當成 HBV 的已知用途、把 pulmonary hypertension 當成 hypertension。"""
+    return [p for p in predicted if is_known_indication(approved_indication, p)]
 
 
 def _first_posted(study: dict) -> str:
