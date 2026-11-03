@@ -72,7 +72,7 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 | Limfoma sel mantel (mantle cell lymphoma) |
 | Mieloma sel plasma (plasma cell myeloma) |
 
-## Market information
+## Maklumat Pasaran Malaysia
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|

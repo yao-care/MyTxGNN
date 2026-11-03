@@ -259,6 +259,19 @@ def get_parent_titles(base_dir: Path) -> dict:
 
 
 
+# 2026-11-03：已知用途頁產生器（母目錄 known_use_pages_20261022.py）在舊筆記沒有市場段標題時
+# 預設寫英文「## Market information」，筆記裡也留有英文模板標題；同步到 docs 時換成本站藥物頁既有的寫法。
+# 只換整行完全相同的標題（已是雙語的「## Safety Considerations (…)」不動）。
+TEMPLATE_HEADING_FIXES = {
+    "## Market information": "## Maklumat Pasaran Malaysia",
+    "## Safety Considerations": "## Pertimbangan Keselamatan",
+}
+
+
+def localize_template_headings(md: str) -> str:
+    return "\n".join(TEMPLATE_HEADING_FIXES.get(line.rstrip(), line) for line in md.split("\n"))
+
+
 def demote_body_h1(md: str) -> str:
     """頁首 `# 藥名` + `{: .fs-9 }` 是全頁唯一 h1；筆記內文的 `# 標題` 降為 h2，掛 .text-alpha 保持 h1 外觀。
     （2026-10-27：線上部署檢查 h1-single 規則報藥物頁有 2 個 <h1>。）"""
@@ -363,7 +376,7 @@ indication_count: {indication_count}
 
 """
 
-        full_content = front_matter + demote_body_h1(content) + disclaimer + "\n---\n\n"
+        full_content = front_matter + demote_body_h1(localize_template_headings(content)) + disclaimer + "\n---\n\n"
         full_content = finalize_front_matter(docs_drugs_dir / f"{drug_name}.md", full_content, base_dir)
         (docs_drugs_dir / f"{drug_name}.md").write_text(full_content, encoding="utf-8")
         synced += 1

@@ -69,7 +69,7 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Trastuzumab Emtansine (skor â
 |------|
 | tiada |
 
-## Market information
+## Maklumat Pasaran Malaysia
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|

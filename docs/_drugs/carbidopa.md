@@ -66,7 +66,7 @@ Model TxGNN menghasilkan calon indikasi untuk Carbidopa dengan skor ≥ 0.99. Se
 |------|
 | Tiada |
 
-## Market information
+## Maklumat Pasaran Malaysia
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|

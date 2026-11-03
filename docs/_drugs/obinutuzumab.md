@@ -67,7 +67,7 @@ Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Obinutuzumab,
 |------|
 | Tiada |
 
-## Market information
+## Maklumat Pasaran Malaysia
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|

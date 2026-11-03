@@ -79,7 +79,7 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 | Leukemia mieloid akut diwarisi (inherited acute myeloid leukemia) |
 | Sindrom mielodisplastik (myelodysplastic syndrome) |
 
-## Market information
+## Maklumat Pasaran Malaysia
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|

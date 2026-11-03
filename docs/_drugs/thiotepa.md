@@ -67,7 +67,7 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Thiotepa (skor ≥ 0.99) dan 
 | Koriokarsinoma primer bukan gestasi ovari (primary non-gestational choriocarcinoma of ovary) |
 | Adenokarsinoma sel jernih ovari (ovarian clear cell adenocarcinoma) |
 
-## Market information
+## Maklumat Pasaran Malaysia
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|

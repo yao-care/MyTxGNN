@@ -78,7 +78,7 @@ Model TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih untuk 
 | Limfoma sel mantel (mantle cell lymphoma) |
 | Sindrom Richter (richter syndrome) |
 
-## Market information
+## Maklumat Pasaran Malaysia
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|

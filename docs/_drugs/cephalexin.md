@@ -66,7 +66,7 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Cephalexin, yang boleh dikesa
 |------|
 | Artritis bakteria (bacterial arthritis) |
 
-## Market information
+## Maklumat Pasaran Malaysia
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|

@@ -66,7 +66,7 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Eptinezumab (skor ≥ 0.99) i
 |------|
 | Tiada |
 
-## Market information
+## Maklumat Pasaran Malaysia
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|

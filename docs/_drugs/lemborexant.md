@@ -66,7 +66,7 @@ Model pembelajaran mendalam TxGNN (skor ≥ 0.99) menghasilkan calon untuk Lembo
 |------|
 | Tiada |
 
-## Market information
+## Maklumat Pasaran Malaysia
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|

@@ -66,7 +66,7 @@ Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Triazolam, da
 |------|
 | Tiada |
 
-## Market information
+## Maklumat Pasaran Malaysia
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|

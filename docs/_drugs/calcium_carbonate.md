@@ -74,7 +74,7 @@ Model TxGNN tidak mempunyai sebarang calon dengan skor 0.99 atau lebih tinggi un
 | nefrokalsinosis (nephrocalcinosis) |
 | penyakit metabolisme fosforus (phosphorus metabolism disease) |
 
-## Market information
+## Maklumat Pasaran Malaysia
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|

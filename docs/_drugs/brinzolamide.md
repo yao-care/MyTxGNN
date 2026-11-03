@@ -66,7 +66,7 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Brinzolamide (skor ≥ 0.99) 
 |------|
 | tiada |
 
-## Market information
+## Maklumat Pasaran Malaysia
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|

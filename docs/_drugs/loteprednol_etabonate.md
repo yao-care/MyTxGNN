@@ -99,7 +99,7 @@ Tiada literatur berkaitan secara langsung untuk konjunktivitis folikular kronik.
 
 ---
 
-## Safety Considerations
+## Pertimbangan Keselamatan
 
 **Penyakit/keadaan yang dikenal pasti sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label produk):
 - Hipertensi okular

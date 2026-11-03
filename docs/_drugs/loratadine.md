@@ -66,7 +66,7 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Loratadine (skor ≥ 0.99) ia
 |------|
 | Konjunktivitis papilari (papillary conjunctivitis) |
 
-## Market information
+## Maklumat Pasaran Malaysia
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|

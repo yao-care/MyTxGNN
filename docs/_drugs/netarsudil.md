@@ -66,7 +66,7 @@ Model TxGNN (skor ≥ 0.99) menghasilkan calon untuk Netarsudil, tetapi semua ca
 |------|
 | Tiada |
 
-## Market information
+## Maklumat Pasaran Malaysia
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|
