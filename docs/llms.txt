@@ -14,6 +14,7 @@
 - Laporan Pengesahan Penggunaan Semula Ubat: https://mytxgnn.yao.care/
 - Senarai Ubat: https://mytxgnn.yao.care/drugs/
 - High Evidence (L1-L2): https://mytxgnn.yao.care/evidence-high/
+- Ubat dengan bukti ujian klinikal untuk indikasi baharu: https://mytxgnn.yao.care/clinical-trial-evidence/
 - Medium Evidence (L3): https://mytxgnn.yao.care/evidence-medium/
 - Low Evidence (L4-L5): https://mytxgnn.yao.care/evidence-low/
 - Metodologi: https://mytxgnn.yao.care/methodology/

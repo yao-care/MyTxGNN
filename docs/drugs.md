@@ -31,6 +31,8 @@ Senarai ini berdasarkan data pendaftaran [NPRA](https://npra.gov.my/) (Malaysia)
 
 <!-- local-home:end -->
 
+Senarai pendek: [Ubat di Malaysia dengan bukti ujian klinikal untuk indikasi baharu]({{ '/clinical-trial-evidence/' | relative_url }}) (L1–L2, dengan indikasi yang diramalkan dan bilangan ujian berdaftar yang dipetik).
+
 ## Summary Statistics
 
 | Metric | Count |
