@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-03
 monitor_inn: "terbutaline"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-description: "Terbutaline: indikasi baharu diramal Respiratory malformation (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Terbutaline: indikasi baharu diramal Malformasi pernafasan (respiratory malformation) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Terbutaline
@@ -33,114 +33,74 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Terbutaline: Respiratory malformation
+## Terbutaline: Malformasi pernafasan (respiratory malformation)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Terbutaline ialah agonis beta-2 adrenergik yang pada asalnya digunakan untuk merawat asma, bronkitis dan emfisema paru-paru.
-Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit paru obstruktif (obstructive lung disease)**,
-dengan **14 ujian klinikal** dan **20 penerbitan** dalam data yang disusun untuk laporan ini. Namun, indikasi ramalan ini sangat bertindih dengan indikasi asal, jadi ia lebih tepat dianggap indikasi dalam label atau hampir dalam label, bukannya pengembalian guna (repurposing) yang sebenar.
-
----
+Terbutaline ialah agonis reseptor beta-2 yang digunakan sebagai bronkodilator. Model TxGNN meramalkan ia mungkin berkesan untuk **malformasi pernafasan (respiratory malformation)**, tetapi sokongan buktinya sangat terhad: hanya **1 percubaan klinikal** yang bersifat umum (bukan khusus untuk penyakit ini) dan tiada kajian yang meneliti penyakit ini secara langsung dalam **14 penerbitan** yang disemak.
 
 ## Gambaran Ringkas
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Respiratory malformation |
+| Indikasi Baharu yang Diramalkan | Malformasi pernafasan (respiratory malformation) |
 | Skor Ramalan TxGNN | 0.9952 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
 | Bilangan Pendaftaran | 15 (sah: 15) |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
-
----
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Terbutaline ialah agonis beta-2 adrenergik terpilih. Ia mengikat reseptor beta-2 pada otot licin saluran udara dan mengaktifkan laluan isyarat cAMP, lalu merelaksasikan otot bronkus dan menghasilkan bronkodilasi. Mekanisme ini terbukti baik, walaupun medan mekanisme tindakan (MOA) dalam DrugBank tiada data.
+Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, terbutaline ialah agonis beta-2 yang melegakan bronkospasme boleh balik, dan secara mekanistik mungkin dapat meredakan gejala saluran pernafasan pada anomali saluran udara kongenital.
 
-Penyakit paru obstruktif, termasuk asma dan COPD, dicirikan oleh penyempitan saluran udara yang sebahagiannya boleh dipulihkan. Bronkodilasi melalui reseptor beta-2 secara langsung menyasarkan masalah ini. Ini juga menjelaskan skor TxGNN yang tinggi.
+Namun, kesannya hanya bersifat melegakan gejala dan tidak merawat kecacatan struktur itu sendiri. Pautan ramalan ini berkemungkinan didorong oleh hubungan antara istilah penyakit saluran pernafasan, bukan oleh bukti keberkesanan. Terdapat juga kebimbangan mengenai pendedahan terbutaline sebelum kelahiran dan kesan terhadap perkembangan saraf, yang perlu dipertimbangkan dengan teliti.
 
-Perlu diingat bahawa indikasi ini bertindih rapat dengan indikasi asal (asma, bronkitis, emfisema). Oleh itu, ramalan ini lebih merupakan pengesahan penggunaan sedia ada daripada penemuan kegunaan baharu.
+## Bukti Percubaan Klinikal
 
----
-
-## Bukti Ujian Klinikal
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT02224157](https://clinicaltrials.gov/study/NCT02224157) | Fasa 3 | Selesai | 4215 | Symbicort mengikut keperluan berbanding Pulmicort dua kali sehari ditambah terbutaline mengikut keperluan dalam asma; terbutaline sebagai pelega pembanding aktif |
-| [NCT02149199](https://clinicaltrials.gov/study/NCT02149199) | Fasa 3 | Selesai | 3850 | Symbicort mengikut keperluan berbanding terbutaline mengikut keperluan dan Pulmicort; terbutaline sebagai pembanding langsung |
-| [NCT06626620](https://clinicaltrials.gov/study/NCT06626620) | Fasa 3 | Selesai | 120 | Magnesium sulfat intravena berbanding terbutaline pada kanak-kanak dengan serangan asma akut |
-| [NCT00839800](https://clinicaltrials.gov/study/NCT00839800) | Fasa 3 | Selesai | 2091 | Symbicort SMART berbanding Symbicort ditambah terbutaline mengikut keperluan dalam asma |
-| [NCT00259766](https://clinicaltrials.gov/study/NCT00259766) | Fasa 3 | Selesai | 1970 | Kos penjagaan kesihatan dan kawalan asma dalam amalan sebenar; terbutaline (Bricanyl) dalam lengan pembanding |
-| [NCT00252863](https://clinicaltrials.gov/study/NCT00252863) | Fasa 3 | Selesai | 1600 | Terapi inhaler tunggal Symbicort berbanding amalan terbaik konvensional dalam asma berterusan |
-| [NCT00849095](https://clinicaltrials.gov/study/NCT00849095) | Fasa 3 | Selesai | 860 | Budesonide/formoterol mengikut keperluan berbanding secara tetap ditambah terbutaline mengikut keperluan |
-| [NCT02322788](https://clinicaltrials.gov/study/NCT02322788) | Fasa 3 | Selesai | 95 | Kajian farmakodinamik silang Bricanyl Turbuhaler M3 berbanding M2 terhadap bronkokonstriksi akibat metakolin |
-| [NCT00421122](https://clinicaltrials.gov/study/NCT00421122) | Fasa 3 | Selesai | 315 | Symbicort berbanding Pulmicort pada pesakit COPD di China (dengan Bricasol/terbutaline sebagai ubat tambahan) |
-| [NCT01096017](https://clinicaltrials.gov/study/NCT01096017) | Fasa 3 | Selesai | 24 | Keberkesanan relatif terbutaline Turbuhaler 0.4 mg berbanding salbutamol pMDI pada pesakit asma dewasa Jepun |
-
-Nota: ujian NCT04973345 (kajian pendedahan-tindak balas terbutaline) telah ditarik balik dengan 0 peserta, jadi tidak menyumbang bukti.
-
----
+| [NCT04278404](https://clinicaltrials.gov/study/NCT04278404) | N/A | Sedang merekrut | 5000 | Program farmakokinetik, farmakodinamik dan keselamatan bagi ubat yang kurang dikaji pada kanak-kanak dan dewasa muda; tidak khusus untuk malformasi pernafasan |
 
 ## Bukti Literatur
 
+Literatur yang diperoleh kebanyakannya berkaitan asma, bronkitis atau topik lain, dan tidak menunjukkan keberkesanan pada malformasi pernafasan. Antara yang paling relevan:
+
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [29768149](https://pubmed.ncbi.nlm.nih.gov/29768149/) | 2018 | RCT | N Engl J Med | Budesonide-formoterol mengikut keperluan sebagai alternatif kepada rawatan konvensional dalam asma ringan |
-| [3073804](https://pubmed.ncbi.nlm.nih.gov/3073804/) | 1988 | RCT | Br J Dis Chest | Terbutaline oral meningkatkan daya kontraksi diafragma berbanding plasebo pada pesakit COPD |
-| [6988343](https://pubmed.ncbi.nlm.nih.gov/6988343/) | 1980 | RCT | Int J Clin Pharmacol Ther Toxicol | Perbandingan kesan bronkodilator klenbuterol dan terbutaline pada penyakit paru obstruktif kronik |
-| [6107217](https://pubmed.ncbi.nlm.nih.gov/6107217/) | 1980 | RCT | Chest | Interaksi penyekat beta (metoprolol, propranolol) dengan terbutaline pada pesakit COLD |
-| [23348973](https://pubmed.ncbi.nlm.nih.gov/23348973/) | 2013 | Ulasan | Am J Respir Crit Care Med | Terapi agonis beta-2 dalam penyakit paru-paru; terbutaline memberi pelega gejala pantas |
-| [36227333](https://pubmed.ncbi.nlm.nih.gov/36227333/) | 2023 | Kajian sistematik | Naunyn-Schmiedeberg's Arch Pharmacol | Farmakokinetik klinikal terbutaline pada manusia; digunakan untuk bronkospasma dalam asma, bronkitis, emfisema dan COPD |
-| [30156361](https://pubmed.ncbi.nlm.nih.gov/30156361/) | 2019 | RCT | Acad Emerg Med | Terbutaline nebulis dengan ipratropium berbanding terbutaline sahaja dalam eksaserbasi akut COPD |
-| [10384064](https://pubmed.ncbi.nlm.nih.gov/10384064/) | 1999 | Kajian silang | Lung | Dos tunggal terbutaline (Bricanyl Turbuhaler) terhadap fungsi paru-paru dan kapasiti senaman pada COPD |
-| [1615190](https://pubmed.ncbi.nlm.nih.gov/1615190/) | 1992 | Kajian silang | Respir Med | Terbutaline terhirup terhadap FEV1, FVC, sesak nafas dan jarak berjalan pada COLD |
-| [2662130](https://pubmed.ncbi.nlm.nih.gov/2662130/) | 1989 | Kajian silang | Pediatrics | Terbutaline dan teofilin lepas perlahan dalam terapi jangka panjang asma kanak-kanak |
+| [3281307](https://pubmed.ncbi.nlm.nih.gov/3281307/) | 1988 | RCT | Thorax | Perbandingan adrenalin dan terbutaline subkutaneus dalam asma teruk akut (20 pesakit); bukan malformasi |
+| [1629507](https://pubmed.ncbi.nlm.nih.gov/1629507/) | 1992 | RCT | J Allergy Clin Immunol | Budesonide berbanding terbutaline terhadap keradangan saluran udara dalam asma baharu didiagnosis |
+| [42303000](https://pubmed.ncbi.nlm.nih.gov/42303000/) | 2026 | Kohort | Respiratory Medicine | Penilaian fungsi paru-paru dan HRCT dalam rawatan jangka panjang bronkiolitis obliterans pasca jangkitan pada bayi |
+| [12061354](https://pubmed.ncbi.nlm.nih.gov/12061354/) | 2002 | Kohort | Acta Paediatrica | Siri 14 pesakit stenosis saluran udara pusat pada kanak-kanak; pembezaan diagnosis daripada asma |
+| [11813927](https://pubmed.ncbi.nlm.nih.gov/11813927/) | 2001 | Siri kes | Cardiology in the Young | Terbutaline dalam blok jantung lengkap janin; bukan penyakit pernafasan |
+| [19793774](https://pubmed.ncbi.nlm.nih.gov/19793774/) | 2009 | Hipotesis/Ulasan | Toxicology and Industrial Health | Hipotesis kaitan terbutaline dan kulat dengan gangguan otak, paru-paru dan autisme |
 
----
+## Maklumat Pasaran Malaysia
 
-## Maklumat Pasaran di Malaysia
-
-Maklumat ini kelihatan tidak konsisten dengan penggunaan klinikal terbutaline yang meluas, maka perlu disahkan semula dengan pangkalan data NPRA.
-
----
+Terbutaline berstatus dipasarkan di Malaysia dengan 15 lesen sah dan tiada lesen dibatalkan.
 
 ## Pertimbangan Keselamatan
 
-- **Kontraindikasi (berdasarkan graf pengetahuan PrimeKG, bukan teks label)**: hipertensi, epilepsi, hiperglisemia, kekurangan kalium, diabetes mellitus, ketoasidosis diabetes, sawan jantung mengejut, penyakit pengaliran jantung, kegagalan pernafasan, hipertiroidisme, penyakit Graves, tirotoksikosis, edema pulmonari, iskemia miokardium, penyakit arteri koronari, dan abruptio plasenta.
-- **Interaksi Dubat**: sebanyak 100 interaksi direkodkan. Antara yang utama:
-  - Sederhana: acarbose, isometheptene, famotidine, epinephrine, albiglutide, alogliptin, pioglitazone, loperamide, bisacodyl, canagliflozin, chlorpropamide, clarithromycin, asid pikosulfurik, polietilena glikol.
-  - Ringan: hidrokortison, triamsinolon, deksametason, beklometason dipropionat, betametason, budesonide.
-- **Risiko kelas agonis beta**: takikardia, hipokalemia, gegaran, dan kesan paradoks jika digunakan berlebihan; perlu dipantau. Pendedahan terbutaline sebelum kelahiran juga menimbulkan kebimbangan terhadap hasil perkembangan saraf.
+- **Penyakit yang perlu diberi perhatian (rekod pangkalan data, bukan teks label):** hipertensi, epilepsi, hiperglisemia, kekurangan kalium, diabetes mellitus, ketoasidosis diabetes, sakit jantung berhenti mengejut, penyakit konduksi jantung, kegagalan pernafasan, hipertiroidisme (termasuk penyakit Graves dan tirotoksikosis), edema pulmonari, iskemia miokardium, penyakit arteri koronari dan pemisahan plasenta.
+- **Interaksi ubat:** 100 interaksi direkodkan. Antara yang sederhana: acarbose, isometheptene, famotidine, epinephrine, albiglutide, alogliptin, pioglitazone, loperamide, bisacodyl, canagliflozin, chlorpropamide dan clarithromycin. Interaksi minor termasuk hydrocortisone, triamcinolone, dexamethasone, beclomethasone, betamethasone dan budesonide.
 
-Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi.
-
----
+Sila rujuk sisipan pakej untuk amaran dan kontraindikasi berlabel.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Beberapa ujian Fasa 3 yang besar dan selesai (contohnya NCT02224157 dan NCT02149199) menggunakan terbutaline sebagai pelega pembanding dalam asma, dan mekanisme bronkodilasi beta-2 sudah mantap. Walau bagaimanapun, indikasi ini bertindih dengan indikasi sedia ada, dan terbutaline kebanyakannya ialah pembanding dan bukan agen ujian utama.
+Ramalan ini hanya berasaskan model. Tiada kajian yang meneliti malformasi pernafasan secara langsung, satu-satunya percubaan bersifat umum, dan terbutaline hanya boleh melegakan gejala tanpa merawat kecacatan struktur. Tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Pengesahan status pendaftaran dan pemasaran di Malaysia (data semasa tidak konsisten)
-- Muat turun dan semakan sisipan pek NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat)
-- Data mekanisme tindakan (MOA) rasmi daripada DrugBank
-- Pelan pemantauan keselamatan kardiovaskular, kalium dan glukosa darah, terutamanya bagi pesakit berisiko
+- Data mekanisme tindakan yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Kajian klinikal atau pra-klinikal yang menilai terbutaline secara langsung pada malformasi pernafasan
+- Penilaian keselamatan khusus bagi populasi kanak-kanak dan pendedahan sebelum kelahiran
 
----
-
-## Nota Ringkas Mengenai Ramalan Lain
-
-- **Malformasi pernafasan (respiratory malformation)**: skor 0.9952, tahap bukti L4, keputusan **Hold**. Agonis beta-2 mungkin melegakan bronkospasma yang boleh dipulihkan, tetapi tidak merawat kecacatan struktur. Literatur yang diperoleh kebanyakannya tentang asma atau topik lain, dan satu-satunya ujian ialah program farmakokinetik umum.
-- **Sindrom Rienhoff**: skor 0.9938, tahap bukti L5, keputusan **Hold**. Tiada ujian atau literatur sokongan, dan tiada rasional mekanistik yang jelas.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

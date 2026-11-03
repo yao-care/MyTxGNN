@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-03
 monitor_inn: "Uracil"
 predicted_indications: ["lipoma of colon", "colonic lymphangioma", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "cavernous hemangioma of colon", "cecal disease", "colon leiomyoma"]
-description: "Uracil: indikasi baharu diramal Lipoma of colon (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Uracil: indikasi baharu diramal Lipoma kolon (lipoma of colon) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Uracil
@@ -33,104 +33,61 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-## Uracil: Lipoma of colon
+## Uracil: Lipoma kolon (lipoma of colon)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Urasil ialah sebatian pirimidina yang dalam amalan klinikal digunakan terutamanya sebagai komponen gabungan UFT (tegafur-urasil), tetapi data yang dikompilasi untuk laporan ini tidak mencatatkan sebarang indikasi asal yang berdaftar di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma kolon**, tetapi bukti yang ada hanya menyokong gabungan UFT, bukan urasil secara bersendirian: **1 ujian klinikal** (tidak relevan secara langsung) dan **20 penerbitan** telah ditemui.
+Uracil ialah bes pirimidina semula jadi yang terlibat dalam metabolisme asid nukleik dan digunakan sebagai komponen dalam sesetengah regimen kemoterapi gabungan.
+Model TxGNN meramalkan ia mungkin berkesan untuk **lipoma kolon (lipoma of colon)**,
+tetapi pada masa ini **tiada kajian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini.
 
----
+## Gambaran Keseluruhan
 
-## Gambaran Keseluruhan Pantas
-
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Lipoma of colon |
+| Indikasi Baharu yang Diramalkan | Lipoma kolon (lipoma of colon) |
 | Skor Ramalan TxGNN | 0.9936 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
 | Bilangan Pendaftaran | 5 (sah: 5) |
-| Keputusan Disyorkan | Hold |
-
----
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan urasil tidak tersedia dalam data yang dikompilasi. Berdasarkan maklumat sedia ada, urasil ialah komponen gabungan UFT (tegafur-urasil). Dalam gabungan ini, tegafur ialah prodrug 5-fluorourasil (5-FU), manakala urasil menghalang enzim dihidropirimidina dehidrogenase (DPD) secara kompetitif, lalu meningkatkan pendedahan kepada 5-FU. Urasil sendiri tidak menunjukkan aktiviti antikanser yang terbukti.
+Data terperinci tentang mekanisme tindakan uracil tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, uracil ialah bes pirimidina yang terlibat dalam laluan metabolisme asid nukleik.
 
-Hubungan dengan kanser kolon terutamanya bersifat tidak langsung: melalui metabolisme pirimidina, pembaikan DNA (timina DNA glikosilase, pembaikan eksisi bes yang dimulakan oleh urasil) dan salah-penyatuan urasil yang berkaitan dengan folat/B12.
-
-Oleh itu, ramalan ini lebih tepat difahami sebagai sokongan kepada gabungan UFT dalam kanser kolorektal, dan bukan bukti bahawa urasil sebagai agen tunggal berkesan.
-
----
+Namun, lipoma kolon ialah lesi benigna (tumor lemak yang tidak merebak). Mekanisme sitotoksik berasaskan laluan pirimidina tidak mempunyai asas yang munasabah untuk lesi sebegini. Skor yang tinggi kelihatan lebih mencerminkan kedekatan dalam model dengan nod penyakit kolon, bukannya hubungan farmakologi yang sebenar. Tiada bukti klinikal atau penerbitan yang menyokong ramalan ini, jadi ia perlu dilihat sebagai hipotesis yang sangat awal.
 
 ## Bukti Ujian Klinikal
 
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT04164069](https://clinicaltrials.gov/study/NCT04164069) | Fasa 1 | Selesai | 9 | Dasatinib untuk mencegah neuropati akibat oksaliplatin pada pesakit kanser gastrousus yang menerima FOLFOX. Tidak menguji urasil dan tidak menilai keberkesanan terhadap kanser kolon (kaitan: Gred C). |
-
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [31917122](https://pubmed.ncbi.nlm.nih.gov/31917122/) | 2020 | RCT Fasa 3 | Clin Colorectal Cancer | Ujian ACTS-CC 02: S-1 + oksaliplatin berbanding UFT/LV sebagai kemoterapi adjuvan untuk kanser kolon Fasa III berisiko tinggi |
-| [33714860](https://pubmed.ncbi.nlm.nih.gov/33714860/) | 2021 | RCT (analisis kemandirian) | ESMO Open | Kemandirian keseluruhan 5 tahun ACTS-CC 02: SOX tidak lebih unggul daripada UFT/LV dari segi kemandirian bebas penyakit |
-| [33950962](https://pubmed.ncbi.nlm.nih.gov/33950962/) | 2021 | Kohort + meta-analisis | Medicine | Perbandingan UFT dengan 5-FU sebagai kemoterapi adjuvan untuk kanser kolon Peringkat II dan III menggunakan pangkalan data insurans kesihatan Taiwan |
-| [17952521](https://pubmed.ncbi.nlm.nih.gov/17952521/) | 2007 | Ulasan | Surg Today | UFT sebagai kemoterapi adjuvan pascaoperasi: bukti klinikal, mekanisme dan hala tuju masa depan; RCT menunjukkan manfaat kemandirian |
-| [16111469](https://pubmed.ncbi.nlm.nih.gov/16111469/) | 2005 | Ulasan | Expert Rev Anticancer Ther | Pilihan kemoterapi mengikut peringkat bagi kanser kolon |
-| [25209093](https://pubmed.ncbi.nlm.nih.gov/25209093/) | 2014 | Konsensus/garis panduan | Clin Colorectal Cancer | Penyesuaian garis panduan antarabangsa untuk kanser kolorektal metastatik di Asia |
-| [12576451](https://pubmed.ncbi.nlm.nih.gov/12576451/) | 2003 | Kohort | Clin Cancer Res | Ekspresi gen DPD dan TS sebagai peramal keberkesanan kemoterapi berasaskan fluoropirimidina |
-| [15108041](https://pubmed.ncbi.nlm.nih.gov/15108041/) | 2004 | RCT | Int J Clin Oncol | Imunokemoterapi adjuvan dan kemoterapi adjuvan (termasuk UFT) untuk kanser kolorektal |
-| [11320674](https://pubmed.ncbi.nlm.nih.gov/11320674/) | 2001 | Laporan kes | Cancer Chemother Pharmacol | Anemia hemolitik teraruh UFT pada pesakit kanser kolon metastatik |
-| [11554300](https://pubmed.ncbi.nlm.nih.gov/11554300/) | 2001 | Ulasan | Prog Nucleic Acid Res Mol Biol | Timina DNA glikosilase dan pembaikan DNA yang berkaitan dengan mutasi kanser kolon |
-
----
+Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-
----
-
-## Kesitotoksikan
-
-| Perkara | Kandungan |
-|------|------|
-| Klasifikasi Kesitotoksikan | Urasil sendiri bukan agen sitotoksik; ia digunakan dalam gabungan fluoropirimidina (UFT) yang tergolong dalam kemoterapi sitotoksik konvensional |
-| Risiko Penekanan Sumsum Tulang | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
-| Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
-| Item Pemantauan | Sila rujuk sisipan pakej; secara amnya pemantauan kiraan darah lengkap (CBC), fungsi hati dan buah pinggang bagi rejimen fluoropirimidina |
-| Perlindungan Pengendalian | Sila rujuk sisipan pakej; gabungan yang mengandungi tegafur perlu dikendalikan mengikut peraturan pengendalian ubat sitotoksik |
-
----
+Data yang disusun untuk laporan ini menunjukkan status pasaran "Dipasarkan", dengan 5 lesen yang sah dan tiada lesen yang dibatalkan. Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun.
 
 ## Pertimbangan Keselamatan
 
-- **Interaksi Ubat**: Tiada rekod interaksi ditemui dalam data yang dikompilasi.
-- **Isyarat keselamatan daripada literatur**: Terdapat laporan kes anemia hemolitik pada pesakit yang menerima UFT (tegafur-urasil) untuk kanser kolon metastatik (PMID 11320674).
-
-Untuk maklumat amaran dan kontraindikasi yang lengkap, sila rujuk sisipan pakej.
-
----
+Sila rujuk sisipan pek (package insert) untuk maklumat keselamatan. Tiada interaksi ubat direkodkan dalam data yang disusun.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
-**Rasional:**
-- Bukti yang ada menyokong gabungan UFT (tegafur-urasil), bukan urasil sebagai agen bebas. Satu-satunya ujian klinikal yang ditemui tidak relevan secara langsung, dan urasil tidak mempunyai pendaftaran di Malaysia. Tahap bukti ialah L4 (Fasa 3 ACTS-CC 02 membandingkan rejimen yang mengandungi UFT/LV, bukan urasil sendirian, jadi tidak dikira sebagai L1).
+**Justifikasi:**
+Ramalan ini hanya berasaskan model (L5). Tiada ujian klinikal atau literatur yang mengkaji lipoma kolon secara langsung, dan lipoma kolon ialah lesi benigna tanpa asas mekanistik yang munasabah untuk uracil.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA (amaran dan kontraindikasi) bagi menjalankan saringan keselamatan
-- Data mekanisme tindakan terperinci (contohnya daripada DrugBank)
-- Penjelasan sama ada penilaian ini bertujuan untuk urasil sahaja atau untuk produk gabungan UFT/tegafur-urasil, termasuk status pendaftarannya di Malaysia
-- Bukti klinikal yang menguji urasil secara langsung, jika arah penyelidikan ini diteruskan
-- Pemeriksaan kecocokan laluan pemberian dan bentuk dos (belum dinilai)
+- Maklumat amaran dan kontraindikasi daripada sisipan pek NPRA
+- Data mekanisme tindakan (MOA) yang terperinci
+- Bukti praklinikal atau klinikal yang mengkaji lipoma kolon secara langsung, serta justifikasi mekanistik yang jelas
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

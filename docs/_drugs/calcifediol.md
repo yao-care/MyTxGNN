@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "CALCIFEDIOL"
 predicted_indications: ["renal tubular acidosis"]
 last_modified_at: 2026-11-03
-description: "Calcifediol: indikasi baharu diramal Renal tubular acidosis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Calcifediol: indikasi baharu diramal Asidosis tubul renal (renal tubular acidosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Calcifediol
@@ -33,83 +33,75 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Calcifediol: Renal tubular acidosis
+## Calcifediol: Asidosis tubul renal (renal tubular acidosis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Calcifediol (25-hidroksivitamin D3) ialah bentuk vitamin D yang beredar dalam darah dan merupakan pendahulu langsung kepada calcitriol.
-Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan vitamin D lapuk (obsolete vitamin D deficiency)**,
-tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** dalam data yang dikumpulkan untuk laporan ini yang menyokong ramalan tersebut.
+Calcifediol ialah bentuk vitamin D yang telah dihidroksilasi di hati, dan digunakan dalam pengurusan gangguan metabolisme kalsium, fosfat dan tulang.
+Model TxGNN meramalkan ia mungkin berguna untuk **Asidosis tubul renal (renal tubular acidosis)**,
+tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini, jadi ramalan ini masih pada peringkat model sahaja.
 
----
+## Gambaran Keseluruhan Pantas
 
-## Gambaran Keseluruhan
-
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Renal tubular acidosis |
+| Indikasi Baharu yang Diramalkan | Asidosis tubul renal (renal tubular acidosis) |
 | Skor Ramalan TxGNN | 0.9986 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
 | Bilangan Pendaftaran | 4 (sah: 4) |
-| Keputusan Disyorkan | Hold (Tangguh) |
-
----
+| Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal calcifediol tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, calcifediol ialah pendahulu langsung calcitriol dan penanda biologi piawai bagi status vitamin D. Oleh itu, secara mekanistik, penambahan semula calcifediol dalam keadaan kekurangan vitamin D adalah munasabah.
+Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, calcifediol ialah metabolit vitamin D yang berperanan dalam penyerapan kalsium dan fosfat serta kesihatan tulang.
 
-Perlu diberi perhatian bahawa istilah penyakit ini ditandakan sebagai "lapuk" (obsolete) dalam ontologi, dan berkemungkinan bertindih dengan entri kekurangan vitamin D semasa.
-
----
+Pautan yang munasabah adalah tidak langsung: asidosis tubul renal sering menyebabkan penyakit tulang (riket atau osteomalasia) akibat asidosis kronik dan pengendalian mineral yang terganggu, dan di sini status vitamin D adalah penting. Maknanya, calcifediol mungkin menyokong hasil tulang, bukan merawat kecacatan tubul itu sendiri. Oleh sebab tiada ujian atau literatur disediakan, pautan ini bergantung sepenuhnya pada ramalan model (skor 0,9986).
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
-
----
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan tersedia.
 
----
-
 ## Maklumat Pasaran Malaysia
 
-Status pasaran: dipasarkan. Terdapat 4 lesen sah dan tiada lesen yang dibatalkan. Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
-
----
+Data tempatan menunjukkan status pasaran **dipasarkan**, dengan 4 lesen yang semuanya sah dan tiada yang dibatalkan. Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 
-- **Interaksi Ubat**: Sebanyak 57 interaksi direkodkan. Interaksi **utama (Major)** termasuk:
+- **Interaksi Ubat**: Sebanyak 57 interaksi direkodkan. Interaksi tahap **Major** termasuk:
   - Cholecalciferol
-  - Burosumab
   - Calcitriol
+  - Burosumab
 
-  Interaksi **sederhana (Moderate)** termasuk fosphenytoin, hidroklorotiazid, amobarbital, butalbital, aluminium hidroksida, karbamazepin, kolestiramin, kolesevelam, kolestipol dan digitoksin. Kombinasi dengan analog vitamin D lain, atau dengan diuretik tiazid, memerlukan perhatian terhadap risiko hiperkalsemia.
+  Interaksi tahap sederhana (Moderate) termasuk:
+  - Diuretik tiazid (hydrochlorothiazide, chlorothiazide, chlorthalidone, bendroflumethiazide, benzthiazide)
+  - Antikonvulsan dan barbiturat (fosphenytoin, carbamazepine, amobarbital, butabarbital, butalbital)
+  - Perengkat asid hempedu (cholestyramine, colesevelam, colestipol)
+  - Aluminium hidroksida
+  - Analog vitamin D topikal (calcipotriol, calcitriol)
+  - Digitoxin
 
-Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
-
----
+Untuk maklumat amaran dan kontraindikasi lain, sila rujuk sisipan pakej.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tangguh)**
+**Keputusan: Hold**
 
 **Rasional:**
-Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau penerbitan yang mengkaji penyakit ini secara langsung. Istilah penyakit juga telah lapuk dan bertindih dengan entri kekurangan vitamin D semasa, jadi nilai ramalan ini terhad.
+Ramalan ini hanya disokong oleh model (skor 0,9986) tanpa sebarang ujian klinikal atau penerbitan yang mengkaji penyakit ini secara langsung, jadi tahap bukti ialah L5. Kesan yang mungkin juga lebih bersifat sokongan terhadap tulang berbanding rawatan kecacatan tubul.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Pemetaan istilah lapuk ini kepada entri kekurangan vitamin D yang semasa
-- Pencarian ujian klinikal dan literatur yang mengkaji calcifediol dalam kekurangan vitamin D
-- Data mekanisme tindakan (MOA) terperinci
-- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA
-- Pengesahan kesesuaian laluan pentadbiran dan bentuk dos yang berdaftar di Malaysia
+- Semakan literatur dan pendaftaran ujian klinikal yang mengkaji calcifediol dalam asidosis tubul renal
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan, terutamanya untuk pesakit dengan penyakit ginjal
+- Pelan pemantauan kalsium dan fosfat serum serta fungsi renal, memandangkan risiko hiperkalsemia dan interaksi dengan analog vitamin D lain
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

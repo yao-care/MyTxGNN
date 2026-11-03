@@ -3,10 +3,10 @@
   "total_drugs": 606,
   "level_counts": {
     "L1": 16,
-    "L2": 25,
-    "L3": 19,
-    "L4": 28,
-    "L5": 489
+    "L2": 23,
+    "L3": 18,
+    "L4": 29,
+    "L5": 491
   },
   "all_drugs": [
     {
@@ -414,7 +414,7 @@
     {
       "name": "Betamethasone",
       "slug": "betamethasone",
-      "level": "L2",
+      "level": "L4",
       "indication_count": 7
     },
     {
@@ -2196,7 +2196,7 @@
     {
       "name": "Mefenamic Acid",
       "slug": "mefenamic_acid",
-      "level": "L2",
+      "level": "L5",
       "indication_count": 6
     },
     {
@@ -2838,7 +2838,7 @@
     {
       "name": "Progesterone",
       "slug": "progesterone",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 6
     },
     {

@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Tegafur"
 predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "colonic lymphangioma", "cavernous hemangioma of colon"]
 last_modified_at: 2026-11-03
-description: "Tegafur: indikasi baharu diramal Cecum villous adenoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Tegafur: indikasi baharu diramal Adenoma vilus sekum (cecum villous adenoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Tegafur
@@ -33,80 +33,40 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-## Tegafur: Cecum villous adenoma
+## Tegafur: Adenoma vilus sekum (cecum villous adenoma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Tegafur ialah prodrug 5-fluorourasil (5-FU) oral yang didaftarkan di Malaysia hanya dalam produk kombinasi (TS-ONE dan UFUR). Teks indikasi diluluskan bagi produk ini tiada dalam data yang dihimpunkan untuk laporan ini. Model TxGNN meramalkan ia mungkin berkesan untuk **Neoplasma Kolon**, dan arah ini disokong oleh **17 ujian klinikal** dan **20 penerbitan**, termasuk beberapa RCT Fasa 3 yang telah selesai.
+Tegafur ialah prodrug fluorourasil (5-FU) yang digunakan dalam produk gabungan berlesen di Malaysia. Model TxGNN meramalkan ia mungkin berguna untuk **adenoma vilus sekum (cecum villous adenoma)** dengan skor 0.9986, tetapi **tiada sebarang kajian klinikal atau penerbitan** yang mengkaji penyakit ini secara langsung.
 
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan
 
 | Item | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Cecum villous adenoma |
+| Indikasi Baharu yang Diramalkan | Adenoma vilus sekum (cecum villous adenoma) |
 | Skor Ramalan TxGNN | 0.9986 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
 | Bilangan Pendaftaran | 3 (sah: 3) |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
-
----
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak terdapat dalam pangkalan data rujukan. Berdasarkan maklumat yang diketahui, tegafur ialah prodrug 5-FU yang ditukar terutamanya oleh CYP2A6 hati. 5-FU menghalang timidilat sintase dan memasuki RNA/DNA, satu mekanisme sitotoksik yang mantap dalam kanser kolorektum.
+Data terperinci mengenai mekanisme tindakan tegafur tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umumnya, tegafur ialah prodrug 5-FU, iaitu agen antimetabolit yang menyekat timidilat sintase dan mengganggu sintesis DNA sel yang membahagi dengan pantas.
 
-Dalam formulasi UFT (tegafur + urasil), urasil menghalang enzim DPD secara kompetitif, lalu meningkatkan pendedahan kepada 5-FU. Dalam S-1, gimerasil dan oksonat memainkan peranan modulasi yang serupa. Skor TxGNN yang tinggi selaras dengan mekanisme ini.
-
-Kanser kolon pada hakikatnya merupakan penggunaan yang sudah mantap bagi kombinasi tegafur dalam ujian klinikal, bukan penggunaan semula yang benar-benar baharu. Walau bagaimanapun, teks indikasi diluluskan bagi produk berdaftar di Malaysia tidak tersedia dalam data yang dihimpunkan. Maka laporan ini tidak boleh menyatakan indikasi kolon sebagai diluluskan secara tempatan.
-
----
+Namun, adenoma vilus ialah lesi prakanser benigna yang dirawat dengan reseksi endoskopik atau pembedahan, dan kemoterapi sitotoksik tiada peranan yang mantap. Justeru, asas mekanistik bagi penggunaan ini lemah dan ramalan ini perlu ditafsir dengan sangat berhati-hati.
 
 ## Bukti Ujian Klinikal
 
-Sebanyak 17 ujian klinikal dikenal pasti. Jadual di bawah menyenaraikan 10 yang paling relevan. Kebanyakannya menguji rejimen yang mengandungi tegafur (UFT atau S-1), sehingga kesan tegafur sahaja tidak dapat diasingkan sepenuhnya.
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT03448549](https://clinicaltrials.gov/study/NCT03448549) | Fasa 3 | Tidak diketahui | 1191 | SOX (S-1 + oksaliplatin) berbanding XELOX sebagai kemoterapi adjuvan kanser kolorektum tahap III |
-| [NCT00385970](https://clinicaltrials.gov/study/NCT00385970) | Fasa 3 | Tidak diketahui | 380 | UFT + PSK berbanding UFT + leukovorin sebagai terapi adjuvan kanser kolorektum tahap IIB/III |
-| [NCT00378716](https://clinicaltrials.gov/study/NCT00378716) | Fasa 3 | Selesai | 1608 | UFT + leukovorin berbanding 5-FU + leukovorin dalam kanser kolon tahap II/III yang telah direseksi |
-| [NCT00152230](https://clinicaltrials.gov/study/NCT00152230) | Fasa 3 | Selesai | 900 | UFT adjuvan selepas pembedahan berbanding pembedahan sahaja dalam kanser kolorektum Dukes C |
-| [NCT00392899](https://clinicaltrials.gov/study/NCT00392899) | Fasa 3 | Selesai | 2025 | UFT adjuvan berbanding pemerhatian dalam kanser kolon tahap II yang telah direseksi secara kuratif |
-| [NCT00660894](https://clinicaltrials.gov/study/NCT00660894) | Fasa 3 | Selesai | 1535 | UFT + leukovorin berbanding TS-1 (S-1) sebagai rawatan adjuvan kanser kolon tahap III |
-| [NCT00209742](https://clinicaltrials.gov/study/NCT00209742) | Fasa 3 | Tidak diketahui | 340 | Perbandingan UFT+LV, UFT+LV/UFT dan UFT+LV+PSK/UFT+PSK pascaoperasi untuk kanser kolorektum tahap III |
-| [NCT00905047](https://clinicaltrials.gov/study/NCT00905047) | Fasa 3 | Selesai | 89 | Kajian silang keutamaan pesakit: Xeloda berbanding UFT + asid folinik dalam kanser kolorektum lanjut/metastatik |
-| [NCT00974389](https://clinicaltrials.gov/study/NCT00974389) | Fasa 2 | Tidak diketahui | 40 | S-1 + bevacizumab dalam kanser kolorektum tidak boleh direseksi/berulang selepas kegagalan kemoterapi terdahulu |
-| [NCT01225744](https://clinicaltrials.gov/study/NCT01225744) | Fasa 2 | Selesai | 47 | Setuksimab, irinotekan, oksaliplatin dan UFT sebagai rawatan barisan pertama kanser kolorektum metastatik |
-
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Sebanyak 20 penerbitan dikenal pasti. Jadual menyenaraikan 10 yang paling relevan, dengan keutamaan kepada RCT, kemudian ulasan, kemudian laporan kes.
-
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [31917122](https://pubmed.ncbi.nlm.nih.gov/31917122/) | 2020 | RCT Fasa 3 | Clin Colorectal Cancer | ACTS-CC 02: S-1 + oksaliplatin berbanding UFT/LV sebagai adjuvan kanser kolon tahap III berisiko tinggi |
-| [33714860](https://pubmed.ncbi.nlm.nih.gov/33714860/) | 2021 | RCT Fasa 3 (kemas kini 5 tahun) | ESMO Open | SOX tidak lebih unggul daripada UFT/LV dari segi kemandirian bebas penyakit; kemandirian keseluruhan akhir dilaporkan |
-| [33950962](https://pubmed.ncbi.nlm.nih.gov/33950962/) | 2021 | Kohort kebangsaan + meta-analisis | Medicine | UFT berbanding fluorourasil sebagai adjuvan kanser kolon tahap II dan III (pangkalan data insurans Taiwan) |
-| [15108041](https://pubmed.ncbi.nlm.nih.gov/15108041/) | 2004 | RCT | Int J Clin Oncol | Imunokemoterapi adjuvan (OK-432) dan kemoterapi dengan pirimidin oral, termasuk UFT, dalam kanser kolorektum |
-| [10089948](https://pubmed.ncbi.nlm.nih.gov/10089948/) | 1999 | Meta-analisis data pesakit individu | Jpn J Clin Oncol | Terapi adjuvan fluoropirimidin oral (termasuk tegafur) selepas reseksi kuratif kanser kolorektum |
-| [17952521](https://pubmed.ncbi.nlm.nih.gov/17952521/) | 2007 | Ulasan | Surg Today | UFT sebagai kemoterapi adjuvan pascaoperasi: bukti klinikal, mekanisme dan hala tuju masa depan |
-| [16111469](https://pubmed.ncbi.nlm.nih.gov/16111469/) | 2005 | Ulasan | Expert Rev Anticancer Ther | Pilihan kemoterapi mengikut peringkat dalam kanser kolon |
-| [25209093](https://pubmed.ncbi.nlm.nih.gov/25209093/) | 2014 | Garis panduan/konsensus | Clin Colorectal Cancer | Penyesuaian garis panduan antarabangsa untuk kanser kolorektum metastatik di Asia |
-| [36676634](https://pubmed.ncbi.nlm.nih.gov/36676634/) | 2022 | Kajian kohort | Medicina (Kaunas) | Manfaat UFT sebagai adjuvan pascaoperasi kanser kolon tahap IIA berbanding pemerhatian sahaja |
-| [28441966](https://pubmed.ncbi.nlm.nih.gov/28441966/) | 2017 | Protokol RCT | Trials | Tegafur-urasil penyelenggaraan berbanding pemerhatian selepas rejimen adjuvan berasaskan oksaliplatin (kolon tahap III) |
-
----
+Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
-
-Ketiga-tiga pendaftaran ialah produk **kombinasi** dan semuanya berstatus sah. Tiada pendaftaran bahan tunggal tegafur. Pendaftaran ini tidak boleh digunakan untuk menerangkan status kelulusan tegafur sebagai bahan tunggal. Bentuk dos dan teks indikasi diluluskan tidak tersedia dalam data yang dihimpunkan.
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
@@ -114,43 +74,35 @@ Ketiga-tiga pendaftaran ialah produk **kombinasi** dan semuanya berstatus sah. T
 | MAL19071005AZ | TS-ONE OD Tablet 25 | – | Tidak tersedia |
 | MAL09102913AZ | UFUR Capsule | – | Tidak tersedia |
 
----
+Ketiga-tiga lesen yang sah ialah produk gabungan; tiada lesen produk bahan tunggal.
 
 ## Sitotoksisiti
 
 | Item | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (prodrug fluoropirimidin / 5-FU) |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (kelas fluoropirimidina) |
 | Risiko Penindasan Sumsum Tulang | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pek |
 | Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pek |
-| Perkara Pemantauan | Sila rujuk sisipan pek; pemantauan hematologi (kiraan darah penuh) lazimnya sesuai untuk agen sitotoksik |
-| Perlindungan Pengendalian | Sila rujuk sisipan pek dan ikuti peraturan pengendalian ubat sitotoksik |
-
----
+| Item Pemantauan | Kiraan darah lengkap (CBC), fungsi hati dan buah pinggang |
+| Perlindungan Pengendalian | Ikut peraturan pengendalian ubat sitotoksik |
 
 ## Pertimbangan Keselamatan
 
-Data amaran utama, kontraindikasi dan interaksi ubat tidak tersedia untuk laporan ini. Sila rujuk sisipan pek untuk maklumat keselamatan.
-
-Satu laporan kes menyatakan anemia hemolitik pada pesakit yang menerima UFT untuk kanser kolon metastatik ([PMID 11320674](https://pubmed.ncbi.nlm.nih.gov/11320674/)). Ini hanya isyarat keselamatan daripada laporan kes tunggal dan memerlukan kewaspadaan klinikal.
-
----
+Sila rujuk sisipan pek untuk maklumat keselamatan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
+**Keputusan: Hold (Tangguh)**
 
 **Justifikasi:**
-- Beberapa RCT Fasa 3 yang telah selesai dan berskala besar (contohnya NCT00378716, NCT00152230, NCT00392899, NCT00660894) menguji rejimen berasaskan tegafur dalam kanser kolon, dan skor TxGNN sangat tinggi, jadi tahap bukti ialah L1.
-- Walau bagaimanapun, kebanyakan bukti adalah untuk rejimen kombinasi (UFT dan S-1), dan data keselamatan serta teks indikasi tempatan masih belum lengkap.
+Ramalan ini hanya berasaskan model (L5). Tiada ujian klinikal atau literatur yang mengkaji adenoma vilus sekum, dan lesi benigna ini lazimnya dirawat dengan reseksi tanpa peranan kemoterapi.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pek NPRA (amaran, kontraindikasi, interaksi ubat) dan teks indikasi diluluskan bagi setiap produk berdaftar
-- Data mekanisme tindakan dan klasifikasi ubat daripada DrugBank
-- Pengesahan indikasi kolon yang diluluskan secara tempatan bagi produk kombinasi
-- Pelan pemantauan keselamatan (hematologi, fungsi hati dan buah pinggang), termasuk untuk populasi khas
+- Data mekanisme tindakan (MOA) yang terperinci
+- Maklumat amaran dan kontraindikasi daripada sisipan pek NPRA
+- Bukti pra-klinikal atau klinikal yang mengkaji secara langsung kesan tegafur terhadap adenoma vilus
+- Justifikasi klinikal bahawa terapi sitotoksik bernilai berbanding reseksi endoskopik
 
-Ramalan lain dengan kedudukan lebih rendah (contohnya adenoma vilus sekum, lipoma kolon, hemangioma kavernosa kolon) hampir tiada bukti klinikal dan mekanismenya tidak munasabah, jadi ia disyorkan **Hold**.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Methylprednisolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 last_modified_at: 2026-11-03
-description: "Methylprednisolone: indikasi baharu diramal Alopecia mucinosa (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Methylprednisolone: indikasi baharu diramal Alopesia musinosa (alopecia mucinosa) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Methylprednisolone
@@ -33,58 +33,42 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-## Methylprednisolone: Alopecia mucinosa
+## Methylprednisolone: Alopesia musinosa (alopecia mucinosa)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Methylprednisolone ialah kortikosteroid sistemik yang digunakan untuk pelbagai keadaan autoimun dan radang, seperti penyakit Crohn, penyakit radang usus dan insufisiensi adrenokortikal (menurut hubungan yang direkodkan dalam graf pengetahuan). Model TxGNN meramalkan ia mungkin berkesan untuk **alopecia areata**, dengan **1 ujian klinikal** dan **20 penerbitan** yang disenaraikan dalam data yang dikumpulkan untuk laporan ini, dan sebahagian besar penerbitan itu mengkaji penyakit ini secara langsung.
+Methylprednisolone ialah glukokortikoid sintetik yang digunakan secara meluas sebagai agen anti-radang dan imunosupresif.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Alopesia musinosa (alopecia mucinosa)**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini hanya berasaskan model.
 
-## Gambaran Ringkas
+## Gambaran Keseluruhan
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Alopecia mucinosa |
+| Indikasi Baharu yang Diramalkan | Alopesia musinosa (alopecia mucinosa) |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
 | Bilangan Pendaftaran | 7 (sah: 7) |
-| Bilangan Kelulusan | 7 pendaftaran |
-| Keputusan Disyorkan | Teruskan dengan Langkah Berjaga-jaga |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan. Methylprednisolone ialah glukokortikoid berkuasa tinggi yang diketahui menekan sitokin pro-radang dan aktiviti sel T sitotoksik.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, methylprednisolone ialah sebahagian daripada kelas kortikosteroid yang mempunyai kesan anti-radang dan imunosupresif yang mantap, dan secara mekanistik mungkin boleh digunakan untuk alopesia musinosa.
 
-Alopecia areata ialah serangan autoimun yang diperantarai sel T terhadap folikel rambut, disertai kehilangan "keistimewaan imun" folikel. Oleh sebab methylprednisolone menyasarkan proses imun ini, mekanismenya sejajar dengan patogenesis penyakit. Dos denyut (secara oral atau intravena) digunakan untuk penyakit teruk atau yang berkembang pantas.
+Alopesia musinosa ialah keadaan kulit yang disertai infiltrat radang di sekitar folikel rambut. Oleh sebab itu, aktiviti anti-radang kortikosteroid secara teorinya boleh relevan. Namun, hujah ini bersifat spekulatif dan tidak disokong oleh sebarang bukti klinikal atau kajian yang diperoleh dalam data yang dikumpulkan untuk laporan ini.
 
-Namun, relaps selepas pemberhentian rawatan adalah kerap, dan ketoksikan steroid kumulatif (penindasan paksi HPA, kehilangan tulang, kesan metabolik) mengehadkan penggunaan jangka panjang.
+## Bukti Percubaan Klinikal
 
-## Bukti Ujian Klinikal
-
-| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT01167946](https://clinicaltrials.gov/study/NCT01167946) | Fasa 4 | Selesai | 42 | Methylprednisolone denyut mega oral dos tinggi dan lebih kerap pada alopecia areata teruk yang rintang terhadap terapi |
-
-Ujian ini ialah Fasa 4, dan reka bentuk kawalan rawak tidak dapat disahkan daripada data yang ada. Oleh itu, tahap L2 ialah penempatan konservatif.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [22426909](https://pubmed.ncbi.nlm.nih.gov/22426909/) | 2012 | Kajian klinikal prospektif | Saudi Med J | Penerbitan ujian NCT01167946; regimen steroid denyut intensif untuk alopecia areata teruk |
-| [32270396](https://pubmed.ncbi.nlm.nih.gov/32270396/) | 2020 | Tinjauan sistematik | Dermatol Ther | Siklosporin dengan atau tanpa kortikosteroid sistemik dalam alopecia areata |
-| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Ulasan | Dermatol Pract Concept | Keberkesanan, kadar relaps dan kesan buruk terapi denyut kortikosteroid |
-| [9777767](https://pubmed.ncbi.nlm.nih.gov/9777767/) | 1998 | Kajian prospektif terbuka | J Am Acad Dermatol | Methylprednisolone denyut tunggal IV pada 45 pesakit alopecia areata teruk |
-| [12746668](https://pubmed.ncbi.nlm.nih.gov/12746668/) | 2003 | Kajian terbuka prospektif | Ann Dermatol Venereol | Denyut IV methylprednisolone bulanan pada 66 pesakit |
-| [25566921](https://pubmed.ncbi.nlm.nih.gov/25566921/) | 2015 | Kajian kohort/klinikal | Indian J Dermatol Venereol Leprol | Terapi denyut IV methylprednisolone pada alopecia areata teruk |
-| [23336179](https://pubmed.ncbi.nlm.nih.gov/23336179/) | 2014 | Kajian klinikal | J Dermatolog Treat | Denyut methylprednisolone untuk alopecia areata yang meluas |
-| [35986630](https://pubmed.ncbi.nlm.nih.gov/35986630/) | 2022 | Kohort retrospektif | Dermatol Ther | Methylprednisolone sahaja berbanding gabungan dengan methotrexate pada 26 pesakit |
-| [25872976](https://pubmed.ncbi.nlm.nih.gov/25872976/) | 2015 | Kajian klinikal | Pediatr Dermatol | Kadar relaps tinggi walaupun intervensi awal pada alopecia areata kanak-kanak teruk |
-| [8274789](https://pubmed.ncbi.nlm.nih.gov/8274789/) | 1993 | Kajian klinikal | Dermatology | Penyakit terhenti berkembang pada 8 daripada 9 pesakit selepas denyut IV |
+Pada masa ini tiada literatur berkaitan.
 
-## Maklumat Pasaran di Malaysia
+## Maklumat Pasaran Malaysia
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
@@ -94,45 +78,28 @@ Ujian ini ialah Fasa 4, dan reka bentuk kawalan rawak tidak dapat disahkan darip
 | MAL19870511AZ | DEPO-MEDROL Sterile Aqueous Suspension 40mg/mL | - | - |
 | MAL19990587AZ | MEDIXON TABLET | - | - |
 
-Sebanyak 7 pendaftaran sah disenaraikan; hanya 5 ditunjukkan di sini. Teks indikasi dan bentuk dos tidak tersedia dalam rekod lesen.
+Terdapat 7 kebenaran sah kesemuanya; lima yang utama disenaraikan di atas.
 
 ## Pertimbangan Keselamatan
 
-- **Penyakit yang direkodkan sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): hipertensi, epilepsi, hiperglisemia, kegagalan jantung kongestif, keratitis virus herpes simpleks, campak, kecacatan kitaran urea (contohnya citrullinemia, hiperargininemia) dan pelbagai bentuk kekurangan hormon pituitari.
-- **Interaksi ubat (Major)**: bupropion dan clarithromycin.
-- **Interaksi ubat (Sederhana)**: ubat antidiabetes (metformin, pioglitazone, acarbose, canagliflozin, dapagliflozin, empagliflozin, dll.), amphotericin B, aprepitant, asid asetilsalisilik dan bisacodyl. Ubat antidiabetes penting kerana steroid boleh meningkatkan glukosa darah.
-- Sebanyak 100 interaksi dikesan secara keseluruhan; hanya sebahagian disenaraikan.
+- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan. Interaksi tahap **Major** yang dikenal pasti termasuk **bupropion** dan **clarithromycin**. Banyak interaksi tahap sederhana melibatkan ubat antidiabetes (contohnya acarbose, metformin, pioglitazone, dapagliflozin, empagliflozin), amphotericin B, aprepitant dan asid asetilsalisilik, kerana kortikosteroid boleh meningkatkan paras glukosa darah dan mempengaruhi keseimbangan elektrolit.
+- **Keadaan yang memerlukan berhati-hati**: Data yang dikumpulkan menandakan keadaan seperti hipertensi, epilepsi, hiperglisemia, kegagalan jantung kongestif, keratitis herpes simpleks, campak dan kekurangan hormon pituitari sebagai keadaan yang perlu dipertimbangkan dengan teliti.
 
-Untuk amaran utama dan kontraindikasi rasmi, sila rujuk risalah maklumat produk.
-
-## Indikasi Lain yang Diramalkan
-
-Lapan ramalan lain mempunyai bukti pada tahap L5 sahaja (ramalan model tanpa kajian langsung) dan disyorkan **Hold**:
-
-| Penyakit | Skor TxGNN | Catatan |
-|------|------|------|
-| Alopecia mucinosa | 0.9999 | Tiada bukti diperoleh |
-| Telogen effluvium | 0.9999 | Biasanya sembuh sendiri; nisbah risiko-manfaat tidak menggalakkan |
-| Folikulitis dekalvans Quinquaud | 0.9999 | Tiada bukti diperoleh |
-| Kekurangan antibodi alopecia | 0.9999 | Satu penerbitan tidak berkaitan |
-| Hipotrikosis keturunan dengan vesikel kulit berulang | 0.9999 | Tiada mekanisme imun jelas |
-| Sindrom alopecia-kecacatan intelek-hipogonadisme hipergonadotropik | 0.9999 | Sindrom genetik; tiada bukti |
-| Atrichia dengan lesi papular | 0.9995 | Gangguan genetik; tiada rasional glukokortikoid |
-| Alopecia universalis-onikodistrofi-vitiligo | 0.9970 | — |
+Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Teruskan dengan Langkah Berjaga-jaga**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Satu ujian Fasa 4 yang selesai dan sejumlah kajian kohort serta kajian klinikal mengkaji methylprednisolone denyut secara langsung dalam alopecia areata, dan mekanismenya sejajar dengan patogenesis autoimun.
+Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur, dan rasional mekanistiknya masih spekulatif. Profil keselamatan kortikosteroid sistemik juga memerlukan pertimbangan risiko-faedah yang teliti.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Risalah maklumat produk NPRA untuk amaran dan kontraindikasi rasmi (jurang data yang menyekat saringan keselamatan)
-- Data mekanisme tindakan terperinci daripada DrugBank
-- Bukti daripada ujian terkawal rawak untuk mengesahkan keberkesanan dan kadar relaps
-- Pelan pemantauan keselamatan (paksi HPA, ketumpatan tulang, glukosa darah, tekanan darah) dan strategi dos untuk mengehadkan pendedahan kumulatif
-- Teks indikasi dan bentuk dos yang diluluskan di Malaysia
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan
+- Kajian pra-klinikal, siri kes atau percubaan klinikal yang mengkaji alopesia musinosa secara langsung
+- Penilaian kesesuaian laluan pentadbiran (contohnya topikal atau intralesi berbanding sistemik)
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

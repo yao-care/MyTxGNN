@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-03
 monitor_inn: "TIOTROPIUM"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
-description: "Tiotropium: indikasi baharu diramal Respiratory malformation (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Tiotropium: indikasi baharu diramal Malformasi pernafasan (respiratory malformation) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Tiotropium
@@ -33,14 +33,12 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-## Tiotropium: Respiratory malformation
+## Tiotropium: Malformasi pernafasan (respiratory malformation)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Tiotropium ialah antagonis muskarinik bertindak panjang (LAMA) yang disedut, pada asalnya digunakan untuk bronkitis, asma, dan emfisema paru-paru.
-Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit paru obstruktif (obstructive lung disease)**,
-dengan **40 percubaan klinikal** dan **20 penerbitan** yang dikumpulkan bagi arah ini. Perlu diingat bahawa ramalan ini bertindih dengan indikasi asal ubat ini, jadi ia lebih merupakan penggunaan sedia ada berbanding pengubahan guna (repurposing) yang sebenar.
+Tiotropium ialah ubat antikolinergik jenis antagonis muskarinik bertindak panjang yang disedut. Model TxGNN meramalkan ia mungkin berguna untuk **malformasi pernafasan (respiratory malformation)**. Data yang dikumpulkan mempunyai **3 percubaan klinikal** dan **5 penerbitan** yang dipadankan dengan ramalan ini, tetapi **tiada satu pun mengkaji penyakit ini secara langsung**, jadi sokongan buktinya sangat lemah.
 
 ---
 
@@ -49,43 +47,32 @@ dengan **40 percubaan klinikal** dan **20 penerbitan** yang dikumpulkan bagi ara
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramal | Respiratory malformation |
+| Indikasi Baharu yang Diramalkan | Malformasi pernafasan (respiratory malformation) |
 | Skor Ramalan TxGNN | 0.9995 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
 | Bilangan Pendaftaran | 3 (sah: 3) |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, tiotropium ialah antagonis muskarinik bertindak panjang yang menyekat reseptor M3 pada otot licin saluran udara, menghasilkan pelebaran bronkus (bronkodilasi) yang berpanjangan.
+Data terperinci tentang mekanisme tindakan (MOA) tiotropium tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, tiotropium tergolong dalam kelas antagonis muskarinik. Ubat kelas ini menyekat reseptor muskarinik di saluran udara, lalu mengendurkan otot licin bronkus dan melebarkan saluran udara.
 
-Penyakit paru obstruktif, yang didominasi oleh COPD, berkongsi patofisiologi penyempitan saluran udara yang dimediasi kolinergik dengan indikasi asal (bronkitis, emfisema, asma). Justeru, mekanismenya secara langsung boleh digunakan. Penilaian ini juga menunjukkan bahawa ramalan ini adalah penggunaan atas label atau hampir atas label, bukan pengubahan guna yang baharu.
-
-Ramalan lain dalam senarai (contohnya malformasi pernafasan, sindrom Rienhoff, stenosis trakea, emfisema interstisial) mempunyai bukti yang sangat lemah atau tiada. Pautan bagi "malformasi pernafasan" kemungkinan besar artifak pemetaan ontologi kerana percubaan yang dipadankan ialah kajian fibrosis sista.
+Hubungan dengan malformasi pernafasan hanya tidak langsung. Malformasi struktur tidak boleh dibetulkan oleh ubat. Faedah yang mungkin hanyalah melegakan penyempitan saluran udara sekunder melalui pelebaran bronkus. Tiga percubaan klinikal yang dipadankan dengan ramalan ini sebenarnya mengkaji pesakit fibrosis sista, bukan pesakit malformasi pernafasan. Pemadanan ini besar kemungkinan berpunca daripada pemetaan ontologi dan bukan bukti langsung. Skor TxGNN yang tinggi ialah ramalan model sahaja dan tidak membuktikan keberkesanan.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Berikut ialah percubaan terpilih yang paling relevan untuk penyakit paru obstruktif (gred A dan B, serta beberapa percubaan Fasa 3 besar).
-
 | Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00240435](https://clinicaltrials.gov/study/NCT00240435) | Fasa 3 | Selesai | 491 | Tiotropium Respimat (5 dan 10 mcg) berbanding plasebo dan ipratropium dalam COPD selama 12 minggu; menilai keberkesanan bronkodilator dan keselamatan |
-| [NCT01431274](https://clinicaltrials.gov/study/NCT01431274) | Fasa 3 | Selesai | 2624 | Gabungan dos tetap tiotropium + olodaterol selama 52 minggu berbanding komponen tunggal dalam COPD (TONADO 1) |
-| [NCT00877383](https://clinicaltrials.gov/study/NCT00877383) | Fasa 3 | Selesai | 1142 | Indacaterol + tiotropium berbanding tiotropium sahaja selama 12 minggu dalam COPD sederhana hingga teruk |
-| [NCT00900731](https://clinicaltrials.gov/study/NCT00900731) | Fasa 3 | Selesai | 1598 | Indacaterol berbanding tiotropium selama 12 minggu dalam COPD sederhana hingga teruk |
-| [NCT01854645](https://clinicaltrials.gov/study/NCT01854645) | Fasa 3 | Selesai | 2103 | PT003, PT005 dan PT001 berbanding plasebo dan tiotropium label terbuka selama 24 minggu |
-| [NCT01610037](https://clinicaltrials.gov/study/NCT01610037) | Fasa 3 | Selesai | 1215 | Keselamatan jangka panjang QVA149 selama 52 minggu berbanding plasebo dan tiotropium |
-| [NCT01525615](https://clinicaltrials.gov/study/NCT01525615) | Fasa 3 | Selesai | 404 | Tiotropium + olodaterol terhadap daya tahan senaman selama 12 minggu (TORRACTO) |
-| [NCT00157235](https://clinicaltrials.gov/study/NCT00157235) | Fasa 3 | Selesai | 234 | Tiotropium berbanding plasebo terhadap toleransi senaman semasa pemulihan paru-paru |
-| [NCT02172443](https://clinicaltrials.gov/study/NCT02172443) | Fasa 3 | Selesai | 50 | Tiotropium kapsul 18 mcg berbanding Atrovent MDI; saiz sampel kecil |
-| [NCT04780984](https://clinicaltrials.gov/study/NCT04780984) | Fasa 2 | Selesai | 116 | Kajian pelarasan dos farmakodinamik bagi larutan sedutan tiotropium bromida dalam COPD |
+| [NCT01179347](https://clinicaltrials.gov/study/NCT01179347) | Fasa 3 | Selesai | 464 | Percubaan terkawal plasebo tiotropium 5 mcg sekali sehari melalui alat Respimat selama 12 minggu pada pesakit fibrosis sista; tiada pesakit malformasi pernafasan dikenal pasti |
+| [NCT00737100](https://clinicaltrials.gov/study/NCT00737100) | Fasa 2 | Selesai | 510 | Perbandingan dua dos tiotropium (2.5 dan 5 mcg) dengan plasebo selama 12 minggu pada pesakit fibrosis sista, menilai fungsi paru-paru dan keselamatan |
+| [NCT02172534](https://clinicaltrials.gov/study/NCT02172534) | Fasa 1 | Selesai | 113 | Keselamatan, toleransi dan farmakokinetik dos tunggal dan berganda pada pesakit fibrosis sista kanak-kanak dan dewasa |
 
-Percubaan juga merangkumi asma (contohnya [NCT01316380](https://clinicaltrials.gov/study/NCT01316380), Fasa 3, n=465; [NCT00772538](https://clinicaltrials.gov/study/NCT00772538), Fasa 3, n=459), yang selari dengan indikasi asal.
+Ketiga-tiga percubaan dinilai sebagai berkaitan sangat rendah dengan malformasi pernafasan.
 
 ---
 
@@ -93,48 +80,47 @@ Percubaan juga merangkumi asma (contohnya [NCT01316380](https://clinicaltrials.g
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [28877027](https://pubmed.ncbi.nlm.nih.gov/28877027/) | 2017 | RCT | N Engl J Med | Tiotropium jangka panjang dalam COPD peringkat awal (ringan hingga sederhana), menilai fungsi paru-paru dan kadar kemerosotannya |
-| [29779416](https://pubmed.ncbi.nlm.nih.gov/29779416/) | 2018 | RCT | Am J Respir Crit Care Med | Percubaan SUNSET: penurunan terapi tiga serangkai kepada indacaterol/glycopyrronium dalam COPD |
-| [16844726](https://pubmed.ncbi.nlm.nih.gov/16844726/) | 2006 | Meta-analisis | Thorax | Keberkesanan tiotropium dalam COPD stabil terhadap peristiwa klinikal, gejala, fungsi paru-paru dan kesan buruk |
-| [25046211](https://pubmed.ncbi.nlm.nih.gov/25046211/) | 2014 | Kajian sistematik | Cochrane Database Syst Rev | Tiotropium berbanding plasebo dalam COPD |
-| [23728670](https://pubmed.ncbi.nlm.nih.gov/23728670/) | 2013 | Kajian sistematik | Cochrane Database Syst Rev | Gabungan steroid sedutan + LABA berbanding tiotropium dalam COPD |
-| [32727455](https://pubmed.ncbi.nlm.nih.gov/32727455/) | 2020 | Ulasan | Respir Res | Ulasan perkembangan klinikal tiotropium dalam COPD |
-| [33095662](https://pubmed.ncbi.nlm.nih.gov/33095662/) | 2021 | Ulasan | Curr Med Res Opin | Mengurangkan dan menguruskan eksaserbasi COPD dengan tiotropium + olodaterol |
-| [32274526](https://pubmed.ncbi.nlm.nih.gov/32274526/) | 2020 | Meta-analisis | Eur J Clin Pharmacol | Kaitan penggunaan tiotropium dengan risiko kejadian kardiovaskular buruk dalam COPD |
-| [21672999](https://pubmed.ncbi.nlm.nih.gov/21672999/) | 2011 | Meta-analisis | BMJ | Kematian yang dikaitkan dengan inhaler kabus tiotropium dalam COPD |
-| [12010082](https://pubmed.ncbi.nlm.nih.gov/12010082/) | 2002 | Ulasan | Drugs | Tiotropium antagonis reseptor M1, M2, M3 dengan tempoh tindakan panjang membolehkan dos sekali sehari |
+| [33787023](https://pubmed.ncbi.nlm.nih.gov/33787023/) | 2021 | Laporan kes | Rev Fac Cien Med (Cordoba) | Jangkitan COVID-19 pada pesakit muda dengan pectus excavatum (kecacatan dinding dada); tiada kaitan dengan rawatan tiotropium |
+| [40850565](https://pubmed.ncbi.nlm.nih.gov/40850565/) | 2025 | Pra-klinikal | Chem Biol Interact | Mekanisme gangguan pernafasan pada tikus yang terdedah kepada agen saraf organofosforus; berkaitan isyarat kolinergik, bukan malformasi pernafasan |
 
----
-
-## Maklumat Pasaran Malaysia
-
-Oleh itu tiada jadual kebenaran pemasaran dipaparkan.
+Tiga penerbitan lain yang dipadankan membincangkan keadaan paru-paru yang lain dan tidak mengkaji malformasi pernafasan, maka tidak disenaraikan.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Kontraindikasi/keadaan berisiko (daripada graf pengetahuan, bukan teks label):** hiperplasia prostat benigna, fungsi buah pinggang terjejas, glaukoma sudut tertutup, dan halangan leher pundi kencing.
-- **Interaksi Ubat (DDI):** Sebanyak 100 interaksi dikenal pasti. Majoritinya bertahap **Sederhana**, terutamanya dengan agen antikolinergik/antimuskarinik lain yang berpotensi menambah kesan antikolinergik, seperti hyoscyamine, atropine, glycopyrronium, clidinium, dicyclomine, trospium, mepenzolate, methscopolamine, propantheline dan scopolamine. Interaksi sederhana lain termasuk eluxadoline, prucalopride dan insulin manusia (sedutan, bertindak pantas). Cimetidine bertahap **Minor**.
-- **Isu keselamatan daripada literatur:** terdapat perbincangan mengenai risiko kardiovaskular dan kematian dengan inhaler kabus (PMID 32274526, 21672999); kesan okular juga dikaji dalam NCT06525051.
+**Interaksi Ubat**: Pangkalan data interaksi merekodkan 100 interaksi. Antara yang utama ialah interaksi tahap **sederhana** dengan ubat antikolinergik lain, yang boleh menambah kesan antikolinergik:
+- Hyoscyamine
+- Atropine
+- Glycopyrronium (termasuk bentuk topikal)
+- Clidinium
+- Dicyclomine
+- Trospium
+- Mepenzolate
+- Methscopolamine
+- Propantheline
+- Scopolamine
 
-Sila rujuk risalah pek (package insert) untuk amaran utama dan kontraindikasi rasmi.
+Interaksi tahap sederhana lain termasuk eluxadoline, prucalopride dan insulin manusia sedut (kerja pantas). Cimetidine ialah interaksi tahap **minor**.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
+**Keputusan: Hold**
 
-**Justifikasi:**
-- Terdapat beberapa percubaan RCT Fasa 3 yang selesai (L1) serta meta-analisis yang menyokong tiotropium dalam penyakit paru obstruktif/COPD. Walau bagaimanapun, ini adalah penggunaan sedia ada, bukan pengubahan guna baharu, dan ubat ini belum didaftarkan di Malaysia.
-- Ramalan lain (malformasi pernafasan, sindrom Rienhoff, emfisema kompensatori/interstisial, stenosis trakea, paru hiperlusen, kerentanan jangkitan berkaitan mutasi CD8alpha) berstatus **Hold** kerana bukti tiada atau pautan mekanistik lemah.
+**Rasional:**
+- Tiada percubaan klinikal atau penerbitan yang mengkaji malformasi pernafasan secara langsung, jadi tahap buktinya L5 (ramalan model sahaja).
+- Malformasi struktur tidak mungkin bertindak balas terhadap pelebaran bronkus, dan skor ramalan yang tinggi tidak mencukupi untuk meneruskan.
 
-**Untuk meneruskan, perlu:**
-- Memperoleh dan menghurai risalah pek NPRA bagi amaran dan kontraindikasi (jurang data yang menyekat).
-- Melengkapkan data mekanisme tindakan (MOA) terperinci daripada DrugBank.
-- Menilai laluan pendaftaran di Malaysia, memandangkan tiada lesen sedia ada, serta keserasian laluan pemberian/bentuk dos.
-- Pelan pemantauan keselamatan bagi populasi berisiko (hiperplasia prostat, glaukoma sudut tertutup, gangguan buah pinggang, halangan leher pundi kencing) dan risiko kardiovaskular.
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA.
+- Kajian klinikal atau siri kes yang melibatkan pesakit malformasi pernafasan secara langsung.
+- Penilaian sama ada ada subkumpulan pesakit dengan penyempitan saluran udara sekunder yang mungkin mendapat manfaat.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
