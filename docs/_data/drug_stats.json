@@ -5,8 +5,8 @@
     "L1": 16,
     "L2": 24,
     "L3": 18,
-    "L4": 30,
-    "L5": 489
+    "L4": 31,
+    "L5": 488
   },
   "all_drugs": [
     {
@@ -2160,7 +2160,7 @@
     {
       "name": "Magnesium Sulfate",
       "slug": "magnesium_sulfate",
-      "level": "L5",
+      "level": "L4",
       "indication_count": 8
     },
     {
