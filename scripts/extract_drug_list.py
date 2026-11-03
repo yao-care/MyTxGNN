@@ -38,9 +38,25 @@ def extract_predicted_indication(content: str) -> str:
     return ""
 
 
+def load_original_indications(index_file: Path) -> dict:
+    """2026-11-03：已核准／已知用途來源＝docs/data/search-index.json 的 original 欄
+    （由證據包 drug.original_indications 程式產生的知識圖譜原適應症，「；」分隔）。以 slug 對頁面檔名。"""
+    try:
+        data = json.loads(index_file.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    out = {}
+    for d in data.get("drugs", []):
+        slug, original = d.get("slug"), (d.get("original") or "").strip()
+        if slug and original:
+            out[slug] = "; ".join(x.strip() for x in re.split(r"[;；]", original) if x.strip())
+    return out
+
+
 def main():
     drugs_dir = Path(__file__).parent.parent / "docs" / "_drugs"
     output_file = Path(__file__).parent / "drug_list.json"
+    originals = load_original_indications(Path(__file__).parent.parent / "docs" / "data" / "search-index.json")
 
     drugs = []
 
@@ -73,6 +89,7 @@ def main():
             "predicted_indication": predicted_indication,
             "inn": monitor_inn,
             "predicted_indications": predicted_indications,
+            "approved_indication": originals.get(md_file.stem, ""),
         })
 
     # Save to JSON
@@ -84,6 +101,7 @@ def main():
         }, f, indent=2, ensure_ascii=False)
 
     print(f"Extracted {len(drugs)} drugs to {output_file}")
+    print(f"With approved/known indication (search-index original): {sum(1 for d in drugs if d['approved_indication'])}")
 
     # Print summary
     level_counts = {}

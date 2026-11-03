@@ -4,6 +4,11 @@ Check ClinicalTrials.gov for new clinical trials related to our drug list.
 Creates GitHub Issues when new trials are found.
 
 NOTE: Filters out known/approved indications to focus on repurposing evidence.
+
+2026-11-03 門檻（cache 結構與 key 不變）：
+- 「新試驗」以 StudyFirstPostDate 落在查詢窗內判斷；只是 LastUpdatePostDate 更新的舊試驗寫入 cache、不開 issue。
+- 至少一筆新試驗的 condition 直接對到目前的預測新適應症才開 issue；issue 只列命中的試驗，標題只掛命中的預測。
+- 已核准／已知用途：drug_list 的 approved_indication（search-index 的知識圖譜原適應症）與預測同名者不算命中。
 """
 
 import json
@@ -163,10 +168,33 @@ def _clean_condition(name: str) -> str:
     return re.sub(r"\s+", " ", name).strip().replace('"', "")
 
 
+def _norm_indication(name: str) -> str:
+    return " ".join(re.sub(r"[^\w]+", " ", _clean_condition(name).lower()).split())
+
+
+def known_predictions(approved_indication: str, predicted: list) -> list:
+    """預測中與已知原適應症同名者（正規化後完全相同；不用關鍵字模糊比對，避免把 HCV 當成 HBV 的已知用途）。"""
+    approved = {_norm_indication(x) for x in re.split(r"[;；]", approved_indication or "") if x.strip()}
+    return [p for p in predicted if _norm_indication(p) in approved]
+
+
+def _first_posted(study: dict) -> str:
+    return ((study.get("protocolSection", {}).get("statusModule", {}) or {})
+            .get("studyFirstPostDateStruct", {}) or {}).get("date", "")
+
+
+def _trial_hits(study: dict, indications: list) -> list:
+    """試驗 condition 直接對到哪些預測新適應症（沿用原本 issue 內文「Matched predicted indication」的比對規則）。"""
+    conds = [c.lower() for c in study.get("protocolSection", {}).get("conditionsModule", {}).get("conditions", []) if c]
+    return [i for i in indications
+            if any(_clean_condition(i).lower() in c or c in _clean_condition(i).lower() for c in conds)]
+
+
 def search_trials(drug_name: str, days_back: int = 7, conditions: list = None) -> list:
     """Search for trials updated in the last N days.
 
     2026-10-16：conditions 給預測新適應症時，只抓「藥＋這些疾病」的試驗。
+    2026-11-03：查詢範圍不變（LastUpdatePostDate 窗），多取 StudyFirstPostDate 供判斷是否為新登錄試驗。
     """
     min_date = (datetime.now() - timedelta(days=days_back)).strftime("%Y-%m-%d")
 
@@ -174,7 +202,7 @@ def search_trials(drug_name: str, days_back: int = 7, conditions: list = None) -
         "query.intr": drug_name,
         "filter.advanced": f"AREA[LastUpdatePostDate]RANGE[{min_date},MAX]",
         "pageSize": 50,
-        "fields": "NCTId,BriefTitle,OverallStatus,Phase,EnrollmentCount,Condition,LastUpdatePostDate,InterventionName,InterventionType,InterventionOtherName"
+        "fields": "NCTId,BriefTitle,OverallStatus,Phase,EnrollmentCount,Condition,LastUpdatePostDate,StudyFirstPostDate,InterventionName,InterventionType,InterventionOtherName"
     }
     # ClinicalTrials.gov 對過長片語回 400「Too complicated query」：略過超過 6 個字的疾病名
     conds = [f'"{_clean_condition(c)}"' for c in (conditions or [])
@@ -210,8 +238,11 @@ def _role_flags(text: str) -> str:
     return "; ".join(msg for pat, msg in ROLE_PATTERNS if re.search(pat, t))
 
 
-def create_github_issue(drug_name: str, new_trials: list, indications: list = None):
-    """Create a GitHub Issue for new trials found."""
+def create_github_issue(drug_name: str, new_trials: list, indications: list = None, other_new: int = 0):
+    """Create a GitHub Issue for new trials found.
+
+    new_trials 只放直接命中預測的試驗；indications 只放命中的預測；other_new 是其餘未命中的新試驗數（只記 cache）。
+    """
     indications = indications or []
     ind_label = "; ".join(indications[:2]) + (" …" if len(indications) > 2 else "")
     title = f"🔬 New Clinical Trials: {drug_name} ({len(new_trials)} trials)"
@@ -246,7 +277,7 @@ def create_github_issue(drug_name: str, new_trials: list, indications: list = No
         enrollment = design_module.get("enrollmentInfo", {}).get("count", "Unknown")
 
         conds = protocol.get("conditionsModule", {}).get("conditions", [])
-        hit = [i for i in (indications or []) if any(_clean_condition(i).lower() in c.lower() or c.lower() in _clean_condition(i).lower() for c in conds)]
+        hit = _trial_hits(trial, indications or [])
         role = _role_flags(brief_title)
         trial_details.append(
             f"### {nct_id}\n"
@@ -254,7 +285,8 @@ def create_github_issue(drug_name: str, new_trials: list, indications: list = No
             f"- **Conditions**: {'; '.join(conds) if conds else '-'}\n"
             f"- **Matched predicted indication**: {'; '.join(hit) if hit else '(no direct condition match)'}\n"
             + (f"- **⚠ Role flag**: {role}\n" if role else "")
-            + f"- **Status**: {status}\n"
+            + f"- **First posted**: {_first_posted(trial) or 'Unknown'}\n"
+            f"- **Status**: {status}\n"
             f"- **Phase**: {phase}\n"
             f"- **Enrollment**: {enrollment}\n"
             f"- **Link**: https://clinicaltrials.gov/study/{nct_id}\n"
@@ -277,12 +309,12 @@ This issue was automatically created by GitHub Actions.
 ClinicalTrials.gov
 
 ### Evidence Type
-New/Updated Clinical Trials
+New Clinical Trials (first posted within the check window, condition directly matches a predicted indication)
 
 ### Details
-Found **{len(new_trials)}** new or updated clinical trials:
+Found **{len(new_trials)}** new clinical trials matching a predicted indication:
 
-{"".join(trial_details)}
+{"".join(trial_details)}{f"{chr(10)}_{other_new} other new trial(s) without a direct condition match were recorded in the cache only._{chr(10)}" if other_new else ""}
 
 ### Suggested Actions
 - [ ] Review trial details
@@ -316,24 +348,27 @@ def main():
     new_findings = []
     seen_trials = cache.get("seen_trials", {})
     skipped_known = 0
+    days_back = 7
+    min_first_post = (datetime.now() - timedelta(days=days_back)).strftime("%Y-%m-%d")
+    stats = {"updated_only": 0, "no_direct_match": 0}
 
     for i, drug in enumerate(drugs):
         drug_name = drug["name"]
-        predicted_indication = drug.get("predicted_indication", "")
-        approved_indication = drug.get("approved_indication", "")
-
-        # Skip if predicted indication is a known/approved indication
-        if predicted_indication and approved_indication:
-            if is_known_indication(approved_indication, predicted_indication):
-                skipped_known += 1
-                continue
-
-        print(f"\n[{i+1}/{len(drugs)}] Checking: {drug_name}")
 
         predicted = drug.get("predicted_indications") or []
         if not predicted or not drug.get("inn"):
             continue
-        trials = search_trials(drug["inn"], days_back=7, conditions=predicted)
+
+        # Skip predictions that are known/approved indications (exact match with KG original indications)
+        known = known_predictions(drug.get("approved_indication", ""), predicted)
+        eligible = [x for x in predicted if x not in known]
+        if not eligible:
+            skipped_known += 1
+            continue
+
+        print(f"\n[{i+1}/{len(drugs)}] Checking: {drug_name}")
+
+        trials = search_trials(drug["inn"], days_back=days_back, conditions=predicted)
         time.sleep(RATE_LIMIT_DELAY)
 
         if not trials:
@@ -351,19 +386,30 @@ def main():
                 drug_seen.append(nct_id)
 
         if new_trials:
+            # 新登錄（StudyFirstPostDate 在窗內）才算新試驗；只更新的舊試驗只記 cache
+            first_posted = [t for t in new_trials if _first_posted(t) >= min_first_post]
+            hit_trials = [t for t in first_posted if _trial_hits(t, eligible)]
+            print(f"  [eval] unseen={len(new_trials)} first_posted={len(first_posted)} direct_hit={len(hit_trials)}")
             # Skip issue creation for initial discovery (first time seeing this drug)
             if is_initial_discovery:
                 print(f"  Initial discovery: {len(new_trials)} trials (baseline established)")
             # Skip if only 1 trial - wait for more evidence
-            elif len(new_trials) < 2:
-                print(f"  Only {len(new_trials)} trial found - below threshold")
+            elif len(first_posted) < 2:
+                if len(first_posted) < len(new_trials):
+                    stats["updated_only"] += 1
+                print(f"  Only {len(first_posted)} newly posted trial(s) "
+                      f"({len(new_trials) - len(first_posted)} updated older trial(s) cached only) - below threshold")
+            elif not hit_trials:
+                stats["no_direct_match"] += 1
+                print(f"  {len(first_posted)} new trials, none directly matches a predicted indication - cached only")
             else:
-                print(f"  Found {len(new_trials)} new trials!")
-                conds = " ".join(" ".join(t.get("protocolSection", {}).get("conditionsModule", {}).get("conditions", [])) for t in new_trials).lower()
+                print(f"  Found {len(hit_trials)} new trials matching predicted indications!")
+                hits = {x for t in hit_trials for x in _trial_hits(t, eligible)}
                 new_findings.append({
                     "drug": drug_name,
-                    "trials": new_trials,
-                    "indications": [x for x in predicted if _clean_condition(x).lower() in conds] or predicted,
+                    "trials": hit_trials,
+                    "indications": [x for x in eligible if x in hits],
+                    "other_new": len(first_posted) - len(hit_trials),
                 })
 
         # Update seen trials
@@ -378,12 +424,14 @@ def main():
     print("Summary")
     print("=" * 60)
     print(f"Skipped (known indications): {skipped_known}")
+    print(f"Not opened - only updated older trials: {stats['updated_only']}")
+    print(f"Not opened - no direct predicted-indication match: {stats['no_direct_match']}")
 
     if new_findings:
         print(f"New findings: {len(new_findings)}")
         print("\nCreating Issues...")
         for finding in new_findings:
-            create_github_issue(finding["drug"], finding["trials"], finding["indications"])
+            create_github_issue(finding["drug"], finding["trials"], finding["indications"], finding["other_new"])
     else:
         print("No new trials found.")
 
