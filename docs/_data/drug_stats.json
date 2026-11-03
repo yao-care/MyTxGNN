@@ -2,11 +2,11 @@
   "generated": "2026-11-03",
   "total_drugs": 606,
   "level_counts": {
-    "L1": 16,
+    "L1": 13,
     "L2": 24,
     "L3": 18,
-    "L4": 31,
-    "L5": 488
+    "L4": 32,
+    "L5": 490
   },
   "all_drugs": [
     {
@@ -1236,7 +1236,7 @@
     {
       "name": "Eltrombopag",
       "slug": "eltrombopag",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 1
     },
     {
@@ -2046,7 +2046,7 @@
     {
       "name": "Letrozole",
       "slug": "letrozole",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 4
     },
     {
@@ -2562,7 +2562,7 @@
     {
       "name": "Oxcarbazepine",
       "slug": "oxcarbazepine",
-      "level": "L1",
+      "level": "L4",
       "indication_count": 1
     },
     {
