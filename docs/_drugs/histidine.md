@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-03
 monitor_inn: "HISTIDINE"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
-description: "Histidine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (gastroparesis (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Histidine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Histidine
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **2**
 
 </div>
 
-## Histidine: Gastroparesis (gastroparesis (disease)) (gastroparesis (disease))
+## Histidine: Gastroparesis (gastroparesis (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,7 +48,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **gastroparesis**, tetapi buat 
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Gastroparesis (gastroparesis (disease)) (gastroparesis (disease)) |
+| Indikasi Baharu yang Diramalkan | Gastroparesis (gastroparesis (disease)) |
 | Skor Ramalan TxGNN | 0.9955 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 32 daripada 32) |

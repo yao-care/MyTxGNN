@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 486
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "MEBENDAZOLE"
 predicted_indications: ["acne (disease)"]
-description: "Mebendazole: indikasi baharu diramal Jerawat (acne (disease)) (acne (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Mebendazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Mebendazole
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 </div>
 
-## Mebendazole: Jerawat (acne (disease)) (acne (disease))
+## Mebendazole: Jerawat (acne (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -49,7 +49,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan hanya **1 penerbitan** (la
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramal | Jerawat (acne (disease)) (acne (disease)) |
+| Indikasi Baharu yang Diramal | Jerawat (acne (disease)) |
 | Skor Ramalan TxGNN | 0.9920 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 13 daripada 13) |

@@ -4,17 +4,17 @@ title: Ergocalciferol
 parent: Low Evidence (L4-L5)
 nav_order: 331
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 monitor_inn: "Ergocalciferol"
-predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis", "craniofacial conodysplasia", "hypophosphatemia (disease)", "renal osteodystrophy", "calcium-alkali syndrome"]
-last_modified_at: 2026-10-31
-description: "Ergocalciferol: indikasi baharu diramal Displasia akromesomelik, jenis Campailla Martinelli (tahap bukti L5). Indikasi asal: Tidak tersedia (rekod lesen tempatan tidak mengandungi teks indikasi…"
+predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis", "craniofacial conodysplasia", "renal osteodystrophy", "calcium-alkali syndrome"]
+last_modified_at: 2026-11-03
+description: "Ergocalciferol: indikasi baharu diramal Displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type) (tahap bukti L5)."
 ---
 
 # Ergocalciferol
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **6** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,45 +33,36 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 
 </div>
 
-## Ergocalciferol: Daripada Produk Vitamin D kepada Displasia Akromesomelik, Jenis Campailla Martinelli
+## Ergocalciferol: Displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Ergocalciferol (vitamin D2) ialah sebatian vitamin D yang di Malaysia hanya didaftarkan sebagai ramuan dalam produk kombinasi, seperti multivitamin dan formula nutrisi parenteral.
-Model TxGNN meramalkan ia mungkin berkesan untuk **displasia akromesomelik, jenis Campailla Martinelli** dengan skor tinggi.
-Namun, **tiada percubaan klinikal dan tiada penerbitan** yang menyokong ramalan ini, jadi ia setakat ramalan model.
+Ergocalciferol ialah vitamin D2, sejenis vitamin larut lemak yang digunakan untuk mengimbangi kekurangan vitamin D. Model TxGNN meramalkan ia mungkin berkesan untuk **displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type)**. Namun, **tiada kajian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini dalam data yang dikumpulkan, jadi ia kekal sebagai ramalan model semata-mata.
 
 ## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tidak tersedia (rekod lesen tempatan tidak mengandungi teks indikasi yang diluluskan) |
-| Indikasi Baharu yang Diramalkan | Displasia akromesomelik, jenis Campailla Martinelli |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type) |
 | Skor Ramalan TxGNN | 0.9983 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 10) |
 | Bilangan Pendaftaran | 10 (sah: 9) |
-| Bilangan Lesen | 10 (semuanya produk kombinasi; tiada pendaftaran bahan tunggal) |
-| Keputusan Disyorkan | Hold (Tahan) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk ergocalciferol tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, ergocalciferol ialah vitamin D2 yang berperanan dalam penyerapan kalsium dan fosfat serta metabolisme tulang.
+Data terperinci tentang mekanisme tindakan tidak tersedia pada masa ini. Ergocalciferol ialah vitamin D2 yang membantu penyerapan kalsium dan fosfat serta kesihatan tulang. Sebab itu secara umum ia dikaitkan dengan penyakit tulang.
 
-Displasia akromesomelik ialah gangguan rangka genetik yang jarang berlaku, biasanya dikaitkan dengan laluan isyarat NPR2. Tiada rasional mekanistik yang mantap untuk menjelaskan bagaimana vitamin D2 boleh mengubah perjalanan penyakit ini. Skor tinggi itu datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi.
+Displasia akromesomelik ialah penyakit rangka genetik yang jarang berlaku dan menjejaskan pertumbuhan tulang anggota badan. Ia berpunca daripada kecacatan genetik dalam laluan pertumbuhan tulang, biasanya melibatkan laluan NPR2. Tiada rasional biologi yang jelas menunjukkan vitamin D2 dapat mengubah perjalanan penyakit ini.
 
-## Bukti Percubaan Klinikal
+Skor TxGNN sangat tinggi (0.9983), tetapi skor itu hanya hasil ramalan model. Kemungkinan besar ramalan ini timbul daripada ciri rangka yang dikongsi dan bukannya tindak balas terhadap vitamin D.
 
-Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+## Maklumat Pasaran Malaysia
 
-## Bukti Literatur
-
-Buat masa ini tiada literatur berkaitan yang tersedia.
-
-## Maklumat Pasaran di Malaysia
-
-Semua lesen yang direkodkan ialah produk kombinasi yang berstatus sah. Lesen ini tidak boleh digunakan untuk menggambarkan kelulusan ergocalciferol sebagai bahan tunggal. Teks indikasi yang diluluskan tidak terdapat dalam rekod.
+Menurut data tempatan, terdapat sebahagian lesen yang sah dan sebahagian yang dibatalkan. Semua lesen yang direkodkan ialah produk kombinasi (contohnya multivitamin dan mineral). Tiada lesen produk ergocalciferol bahan tunggal direkodkan, jadi maklumat di bawah tidak menggambarkan kelulusan bagi ergocalciferol sebagai bahan tunggal.
 
 | Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
@@ -81,30 +72,31 @@ Semua lesen yang direkodkan ialah produk kombinasi yang berstatus sah. Lesen ini
 | MAL20020375ARZ | VITALIPID N ADULT, 10ML GLASS AMPOULE | - | Tiada teks indikasi dalam rekod |
 | MAL23046070NC | LAC Men's Mega Multi Active Timed-Release Caplet | - | Tiada teks indikasi dalam rekod |
 
+Sebanyak 9 lesen berstatus sah dan 1 lesen dibatalkan. Senarai di atas hanya menunjukkan lima lesen utama.
+
 ## Pertimbangan Keselamatan
 
-- **Interaksi Ubat**: Sebanyak 55 interaksi direkodkan.
-  - **Major**: kolekalsiferol, kalsifediol, kalsitriol dan doksercalsiferol. Ini ialah analog vitamin D lain, jadi penggunaan serentak berisiko meningkatkan kalsium serum secara berlebihan.
-  - **Moderate** (antara lain): hidroklorotiazid, klorotiazid, klortalidon, karbamazepin, amobarbital, butalbital, rifabutin, digoksin, kolestiramin, kolesevelam, kolestipol, sevelamer dan magnesium oksida.
-  - **Minor**: simetidin.
+**Interaksi Ubat** (55 interaksi direkodkan; yang utama disenaraikan):
 
-Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
+- **Tahap Major**: kolekalsiferol (cholecalciferol), kalsifediol (calcifediol), kalsitriol (calcitriol) dan doksersalsiferol (doxercalciferol). Semuanya sebatian vitamin D lain, dan penggunaan serentak boleh meningkatkan risiko kelebihan vitamin D serta hiperkalsemia.
+- **Tahap Moderate**: diuretik tiazid (hydrochlorothiazide, chlorothiazide, chlorthalidone), barbiturat (amobarbital, butalbital), karbamazepin (carbamazepine), digoksin (digoxin), rifabutin, resin pengikat asid hempedu (cholestyramine, colesevelam, colestipol), sevelamer, magnesium oksida (magnesium oxide), serta kalsipotriol dan kalsitriol topikal.
+- **Tahap Minor**: simetidin (cimetidine).
+
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tahan)**
+**Keputusan: Hold (Tangguh)**
 
-**Rasional:**
-- Ramalan untuk displasia akromesomelik hanya berasaskan model TxGNN (pembelajaran mendalam) dan tidak disokong oleh sebarang percubaan klinikal, literatur atau rasional biologi yang jelas, jadi tahap buktinya L5.
+**Justifikasi:**
+Ramalan ini hanya disokong oleh skor model. Tiada percubaan klinikal atau penerbitan yang mengkaji penyakit ini secara langsung, dan tiada rasional mekanisme biologi yang jelas. Tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) ergocalciferol
-- Sisipan pek NPRA (amaran dan kontraindikasi)
-- Bukti biologi atau praklinikal yang mengaitkan vitamin D2 dengan laluan penyakit ini
+- Data mekanisme tindakan terperinci, serta penilaian sama ada vitamin D2 boleh mempengaruhi laluan patogenesis penyakit ini.
+- Kajian praklinikal atau laporan kes yang mengkaji ergocalciferol secara langsung dalam penyakit ini.
+- Maklumat keselamatan daripada sisipan pakej yang diluluskan oleh NPRA.
+- Penilaian risiko hiperkalsemia dan interaksi ubat sebelum sebarang pertimbangan penggunaan.
 
-**Nota mengenai calon ramalan lain dalam data yang dikumpulkan:**
-- **Osteodistrofi renal** merupakan calon dengan sokongan terkuat. Data menunjukkan percubaan Fasa 4 (NCT01799317, n=60, status tidak diketahui), satu RCT yang membandingkan ergocalciferol dengan kalsitriol dalam CKD-MBD (PMID 27401037), serta beberapa kajian ulasan. Tahap buktinya dinilai L2 dengan syor "Proceed with Guardrails". Pemantauan kalsium, fosfat, PTH dan 25-OH-D diperlukan, dan hiperkalsemia perlu dielakkan. Calon ini wajar dinilai dalam laporan berasingan.
-- **Sindrom kalsium-alkali**: ramalan ini tidak munasabah dari segi biologi dan menimbulkan kebimbangan keselamatan, kerana vitamin D boleh memburukkan hiperkalsemia. Ia tidak disyorkan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -4,17 +4,17 @@ title: Ciprofloxacin
 parent: Low Evidence (L4-L5)
 nav_order: 223
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Ciprofloxacin"
-predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-10-28
-description: "Ciprofloxacin: indikasi baharu diramal Skleroderma meresap (diffuse scleroderma) (tahap bukti L4). Indikasi asal: Jangkitan bakteria, termasuk demam kepialu, salmonelosis, disentri…"
+predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
+last_modified_at: 2026-11-03
+description: "Ciprofloxacin: indikasi baharu diramal Sklerosis sistemik meresap (diffuse scleroderma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ciprofloxacin
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,58 +33,49 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Ciprofloxacin: Daripada Jangkitan Bakteria (cth. Demam Kepialu) kepada Skleroderma Meresap (Diffuse Scleroderma)
+## Ciprofloxacin: Sklerosis sistemik meresap (diffuse scleroderma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Ciprofloxacin ialah antibiotik fluorokuinolon. Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **skleroderma meresap (diffuse scleroderma)**. Setakat ini terdapat **0 percubaan klinikal berdaftar** dan **2 penerbitan** yang menyokong arah ini, dan kedua-duanya tidak kukuh.
+Ciprofloxacin ialah antibiotik fluoroquinolone yang digunakan secara meluas untuk jangkitan bakteria.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sklerosis sistemik meresap (diffuse scleroderma)**,
+tetapi setakat ini **tiada ujian klinikal berdaftar** dan hanya **2 penerbitan** yang berkaitan secara tidak langsung menyokong arah ini.
 
----
+## Gambaran Keseluruhan
 
-## Gambaran Pantas
-
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Jangkitan bakteria, termasuk demam kepialu, salmonelosis, disentri, pneumonia bakteria dan antraks. Ini ialah hubungan yang direkodkan dalam graf pengetahuan, bukan indikasi lulus berdasarkan teks label tempatan. |
-| Indikasi Baharu yang Diramalkan | Skleroderma meresap (diffuse scleroderma) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sklerosis sistemik meresap (diffuse scleroderma) |
 | Skor Ramalan TxGNN | 0.9987 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 42 daripada 42) |
 | Bilangan Pendaftaran | 42 (sah: 42) |
 | Keputusan Disyorkan | Hold |
 
----
-
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Ciprofloxacin ialah antibiotik yang berkesan terhadap banyak jangkitan bakteria. Secara mekanistik, ia mungkin relevan untuk skleroderma melalui dua jalan, dan kedua-duanya tidak langsung.
+Data terperinci mengenai mekanisme tindakan ciprofloxacin tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, ciprofloxacin ialah antibiotik kelas fluoroquinolone dengan kesan antibakteria yang telah terbukti, dan secara mekanistik mungkin berkait dengan sklerosis sistemik meresap melalui dua jalur tidak langsung.
 
-1. **Kesan antifibrotik pada kulit.** Satu kajian (PMID 20507401) menilai sama ada ciprofloxacin oral mengurangkan keterukan skleroderma. Kesan ini mungkin berkaitan dengan biologi fibroblas dan kolagen, tetapi mekanismenya belum disahkan.
-2. **Pertumbuhan lampau bakteria usus kecil.** Ini ialah komplikasi gastrousus yang biasa dalam sklerosis sistemik (PMID 7728404). Ciprofloxacin boleh merawat keadaan ini, tetapi ini merawat komplikasi dan bukan penyakit asas.
+Pertama, satu kajian terkawal buta ganda secara rawak (PMID 20507401) menilai ciprofloxacin oral sebagai agen antifibrosis pada kulit pesakit skleroderma. Kesan ini dicadangkan berlaku melalui pengaruh pada biologi fibroblas dan kolagen, namun mekanisme ini belum disahkan. Kedua, ciprofloxacin boleh merawat pertumbuhan lampau bakteria usus kecil, iaitu komplikasi gastrousus yang lazim dalam sklerosis sistemik (PMID 7728404).
 
-Skleroderma ialah penyakit tisu penghubung autoimun dengan mikrovaskular yang rosak dan fibrosis berlebihan pada kulit serta organ dalaman. Setakat ini tiada rawatan farmakologi yang benar-benar berkesan. Oleh itu, penerokaan ubat sedia ada seperti ciprofloxacin boleh difahami, tetapi hubungan mekanistik masih lemah.
+Kedua-dua kaitan ini bersifat tidak langsung dan tiada ujian klinikal berdaftar, maka ramalan ini lebih sesuai dianggap sebagai persoalan penyelidikan.
 
----
+## Bukti Ujian Klinikal
 
-## Bukti Percubaan Klinikal
-
-Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk indikasi ini.
-
----
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | Percubaan terkawal, buta dua, rawak (menurut abstrak; fasa dan keputusan tidak dapat disahkan) | The Journal of Dermatology | Menilai sama ada ciprofloxacin oral mengurangkan keterukan skleroderma dan berguna sebagai antifibrotik pada kulit pesakit. |
-| [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Kajian kohort/diagnostik | British Journal of Rheumatology | 24 pesakit sklerosis sistemik dengan gejala malabsorpsi (6 daripadanya bentuk meresap) disiasat untuk pertumbuhan lampau bakteria usus kecil. Kajian ini juga melaporkan hasil rawatan. |
-
----
+| [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | Ujian terkawal rawak buta ganda | The Journal of Dermatology | Menilai sama ada ciprofloxacin oral mengurangkan keterukan skleroderma sebagai agen antifibrosis pada kulit |
+| [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Kajian kohort/diagnostik | British Journal of Rheumatology | Pertumbuhan lampau bakteria usus kecil pada 24 pesakit sklerosis sistemik dengan cirit-birit kronik dan penurunan berat badan; kaedah pengesanan dan hasil rawatan dinilai |
 
 ## Maklumat Pasaran di Malaysia
 
-Teks indikasi yang diluluskan dan bentuk dos tidak terdapat dalam data yang dikumpulkan. Hanya lima produk bahan tunggal yang dipilih sebagai contoh daripada 42 pendaftaran. Senarai ini tidak menggambarkan semua pendaftaran.
+Dipasarkan di Malaysia; terdapat 42 lesen berdaftar, semuanya sah (41 produk ingredien tunggal dan 1 produk kombinasi). Senarai di bawah menunjukkan 5 yang utama daripada produk ingredien tunggal.
 
 | Nombor Kebenaran | Nama Produk | Pengilang |
 |---------|------|------|
@@ -94,35 +85,27 @@ Teks indikasi yang diluluskan dan bentuk dos tidak terdapat dalam data yang diku
 | MAL13085047AZ | Ciflox Film Coated Tablet 500mg | Y.S.P. Industries (M) Sdn. Bhd. |
 | MAL16075021AZ | Cipofain (Ciprofloxacin Sterile Ophthalmic Solution 0.3% w/v) | Ain Medicare Sdn. Bhd. |
 
----
-
 ## Pertimbangan Keselamatan
 
-Maklumat di bawah datang daripada graf pengetahuan dan pangkalan data interaksi ubat. Ia bukan teks label atau sisipan pakej.
+- **Penyakit yang dikaitkan dengan kontraindikasi (data hubungan, bukan teks label):** sindrom QT panjang (termasuk jenis keluarga), torsades de pointes, epilepsi, penyakit buah pinggang, kekurangan kalium, tendinitis, neuropati periferi, kolitis *Clostridium difficile*, miastenia gravis dan penyakit sambungan neuromuskular.
+- **Interaksi Ubat:** 100 interaksi direkodkan. Interaksi tahap utama (Major) termasuk hydrocortisone, triamcinolone, dexamethasone, betamethasone dan bupropion. Interaksi tahap sederhana termasuk metformin, pioglitazone, acarbose, famotidine, loperamide, aspirin dan aprepitant.
 
-- **Penyakit yang dikaitkan sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): sindrom QT panjang (termasuk bentuk keluarga), torsades de pointes, epilepsi, penyakit buah pinggang, kekurangan kalium, tendinitis, periartritis, bursitis Achilles, taji tumit (heel spur), penyakit saraf periferi dan neuropati periferi, miastenia gravis dan penyakit simpang neuromuskular, kolitis Clostridium difficile, enterokolitis nekrosis perinatal, serta piouretra.
-- **Interaksi ubat**: sebanyak 100 interaksi direkodkan, dan 20 yang pertama dipaparkan dalam data.
-  - **Tahap Major**: hidrokortison, triamsinolon, deksametason, betametason dan bupropion.
-  - **Tahap Moderate** termasuk: metformin, pioglitazon, alogliptin, albiglutid, akarbosa, famotidin, loperamid, alosetron, aprepitan, asid asetilsalisilik, balsalazid, bisakodil, kalsium fosfat dan budesonid.
-
-Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA belum tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
-
----
+Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
 
 ## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Hold**
 
-**Justifikasi:**
-- Hanya terdapat satu kajian rawak kecil yang menilai ciprofloxacin dalam skleroderma, ditambah satu kajian tentang komplikasi usus. Tiada percubaan berdaftar, hubungan mekanistik hanya tidak langsung, dan keputusan kajian tidak dapat disahkan daripada data yang ada. Skor TxGNN yang tinggi sahaja tidak mencukupi untuk meneruskan.
-- Ciprofloxacin juga mempunyai kaitan dengan kontraindikasi dalam graf pengetahuan yang mungkin relevan kepada pesakit skleroderma, seperti masalah tendon, saraf dan buah pinggang. Ini memerlukan penilaian teliti.
+**Rasional:**
+Tiada ujian klinikal berdaftar, dan hanya dua penerbitan yang berkaitan secara tidak langsung. Tiada kajian yang dipetik menunjukkan keberkesanan yang disahkan pada penyakit ini, maka ramalan ini kekal sebagai persoalan penyelidikan. Kajian antifibrosis kulit (PMID 20507401) menarik tetapi belum mencukupi. Memandangkan kajian yang dipetik berkaitan langsung dengan skleroderma, tahap bukti L4 ditetapkan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Semakan penuh teks, reka bentuk, saiz sampel dan keputusan kajian PMID 20507401, serta pengesahan sama ada hasilnya boleh diulang.
-- Percubaan klinikal yang menilai ciprofloxacin secara langsung dalam skleroderma meresap.
-- Data mekanisme tindakan terperinci untuk menjelaskan kesan antifibrotik yang dicadangkan.
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA, dan teks indikasi yang diluluskan di Malaysia.
-- Penilaian keselamatan khusus untuk pesakit skleroderma, termasuk risiko tendon, saraf periferi dan interaksi dengan kortikosteroid.
+- Hasil penuh dan kesahihan kajian rawak antifibrosis (PMID 20507401), serta replikasi bebas
+- Data mekanisme tindakan terperinci (MOA)
+- Teks amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Penilaian keselamatan khusus untuk pesakit skleroderma, terutamanya risiko tendon, neuropati periferi dan pemanjangan QT
+- Pendaftaran ujian klinikal fasa awal yang menyasarkan penyakit ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -4,17 +4,17 @@ title: Levofloxacin
 parent: Low Evidence (L4-L5)
 nav_order: 456
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-28
-description: "Levofloxacin: indikasi baharu diramal Keratokonjunktivitis epitelium punktat (tahap bukti L5). Indikasi asal: Antibiotik fluorokuinolon spektrum luas"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Levofloxacin"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
+description: "Levofloxacin: indikasi baharu diramal Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Levofloxacin
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,81 +33,71 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Levofloxacin: Daripada Antibiotik Fluorokuinolon kepada Keratokonjunktivitis Epitelium Punktat
+## Levofloxacin: Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Levofloxacin ialah antibiotik fluorokuinolon spektrum luas yang bertindak terhadap bakteria.
-Model TxGNN meramalkan ia mungkin berkesan untuk **keratokonjunktivitis epitelium punktat**, tetapi buat masa ini hanya terdapat **0 ujian klinikal** dan **1 penerbitan** (laporan wabak yang tidak menunjukkan keberkesanan levofloxacin). Ramalan ini pada dasarnya hanya berasaskan model.
+Levofloxacin ialah antibiotik fluorokuinolon spektrum luas. Model TxGNN meramalkan ia mungkin berguna untuk **keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis)** dengan skor 0.9992. Namun, setakat ini **tiada ujian klinikal** dan hanya **1 penerbitan** yang berkaitan secara tidak langsung, dan penerbitan itu tidak menunjukkan keberkesanan levofloxacin.
 
----
+## Gambaran Keseluruhan
 
-## Gambaran Pantas
-
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Antibiotik fluorokuinolon spektrum luas (data indikasi berlesen tempatan tidak tersedia) |
-| Indikasi Baharu yang Diramalkan | Keratokonjunktivitis epitelium punktat |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) |
 | Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 19 daripada 19) |
 | Bilangan Pendaftaran | 19 (sah: 19) |
-| Keputusan Disyorkan | Hold |
-
----
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Levofloxacin ialah fluorokuinolon yang merencat DNA gyrase dan topoisomerase IV bakteria, sehingga menghalang replikasi DNA bakteria. Mekanisme ini sesuai untuk jangkitan bakteria.
+Data terperinci tentang mekanisme tindakan (MOA) belum tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umumnya, levofloxacin ialah fluorokuinolon yang merencat DNA gyrase dan topoisomerase IV bakteria, lalu menghentikan replikasi DNA bakteria.
 
-Keratokonjunktivitis epitelium punktat biasanya berpunca daripada virus atau mikrosporidia, bukan bakteria. Fluorokuinolon tidak mempunyai aktiviti yang mantap terhadap mikrosporidia. Satu-satunya penerbitan yang dipautkan ialah laporan wabak keratokonjunktivitis mikrosporidia di Taiwan, dan ia tidak menunjukkan sebarang keberkesanan levofloxacin.
-
-Skor TxGNN yang tinggi tidak disokong oleh data klinikal. Hubungan mekanistik antara indikasi asal dan indikasi baharu ini lemah.
-
----
+Keratokonjunktivitis epitelium punktat sering berpunca daripada virus atau mikrosporidia, dan bukan bakteria. Fluorokuinolon tidak mempunyai aktiviti yang mantap terhadap mikrosporidia. Satu-satunya penerbitan yang dipautkan ialah laporan wabak keratokonjunktivitis mikrosporidia, yang tidak menunjukkan keberkesanan levofloxacin. Oleh itu, skor ramalan yang tinggi **tidak disokong oleh data klinikal** dan perlu dilihat sebagai isyarat pengiraan sahaja.
 
 ## Bukti Ujian Klinikal
 
 Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
----
-
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [30055152](https://pubmed.ncbi.nlm.nih.gov/30055152/) | 2018 | Laporan wabak | American Journal of Ophthalmology | Melaporkan wabak keratokonjunktivitis mikrosporidia yang dikaitkan dengan pencemaran air kolam renang di Taiwan. Tiada data tentang keberkesanan levofloxacin. |
+| [30055152](https://pubmed.ncbi.nlm.nih.gov/30055152/) | 2018 | Laporan wabak | American Journal of Ophthalmology | Melaporkan wabak keratokonjunktivitis mikrosporidia akibat pencemaran air kolam renang di Taiwan. Tiada data tentang keberkesanan levofloxacin. |
 
----
+## Maklumat Pasaran di Malaysia
+
+Levofloxacin berstatus **dipasarkan** di Malaysia, dengan 19 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat** (carian selesai; jumlah 100 interaksi direkodkan, dan beberapa yang utama disenaraikan di sini):
-- **Major**: Tramadol, Hydrocortisone
-- **Moderate**: contohnya Abiraterone, Acarbose, Famotidine, Formoterol, Ketorolac, Ibuprofen, Ethinylestradiol, Metformin, Pioglitazone, Salbutamol
-- **Minor**: contohnya Paclitaxel, Aldesleukin, Altretamine
+Data amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan terperinci.
 
-Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi.
+**Interaksi Dadah**: Pangkalan data interaksi merekodkan 100 interaksi. Antara yang ditunjukkan:
 
----
+| Ubat yang Berinteraksi | Tahap |
+|------|------|
+| Tramadol | Major (Utama) |
+| Hydrocortisone | Major (Utama) |
+| Abiraterone, Acarbose, Famotidine, Formoterol, Ketorolac, Adenosine, Ibuprofen, Ethinylestradiol, Albiglutide, Salbutamol, Alfuzosin, Alogliptin, Metformin, Pioglitazone, Amifampridine | Moderate (Sederhana) |
+| Paclitaxel, Aldesleukin, Altretamine | Minor (Kecil) |
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Indikasi ini berada pada tahap bukti L5. Tiada ujian klinikal, dan satu-satunya literatur tidak menyokong keberkesanan levofloxacin. Mekanisme antibakteria juga tidak sepadan dengan punca penyakit yang biasanya virus atau mikrosporidia.
+- Tiada ujian klinikal dan tiada kajian yang menunjukkan levofloxacin berkesan untuk keadaan ini. Satu-satunya penerbitan ialah laporan wabak yang tidak berkaitan dengan keberkesanan ubat. Tahap bukti ialah L5, iaitu ramalan model sahaja.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA, termasuk amaran dan kontraindikasi (jurang data yang menghalang saringan keselamatan)
-- Data mekanisme tindakan terperinci daripada sumber seperti DrugBank
-- Bukti pra-klinikal atau klinikal bahawa levofloxacin berkesan terhadap punca sebenar penyakit ini
-- Pengesahan status pendaftaran dan indikasi berlesen di Malaysia, kerana tiada pendaftaran direkodkan
+**Untuk diteruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan yang terperinci dan hujah mekanistik yang menghubungkan levofloxacin dengan punca keadaan ini (virus atau mikrosporidia)
+- Kajian praklinikal atau klinikal yang menilai levofloxacin secara langsung untuk keadaan ini
+- Maklumat amaran dan kontraindikasi daripada sisipan pakej yang diluluskan, serta penilaian keselamatan untuk penggunaan oftalmik jika berkenaan
+- Pengesahan laluan pentadbiran yang sesuai dan bentuk dos yang tersedia di Malaysia
 
-**Nota tambahan:** Antara indikasi lain yang diramalkan, dua mempunyai bukti yang lebih kukuh daripada indikasi utama ini dan wajar dinilai secara berasingan:
-- **Gammopati monoklonal**: ujian fasa 3 RCT TEAMM (PMID 31668592) menunjukkan profilaksis levofloxacin mengurangkan episod demam dan kematian dalam 12 minggu pertama pada pesakit mieloma yang baru didiagnosis. Bukti ini adalah untuk pencegahan jangkitan dalam mieloma bergejala, bukan rawatan gammopati itu sendiri atau MGUS. Keputusan sistem untuk indikasi ini ialah Proceed with Guardrails.
-- **Wabak septisemik**: bukti pra-klinikal pada model primat bukan manusia untuk wabak pneumonik. Ia belum mempunyai ujian pada manusia.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

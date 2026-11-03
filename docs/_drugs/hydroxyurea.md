@@ -4,17 +4,17 @@ title: Hydroxyurea
 parent: Low Evidence (L4-L5)
 nav_order: 406
 evidence_level: L5
-indication_count: 9
+indication_count: 6
 monitor_inn: "Hydroxyurea"
-predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin c disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
-last_modified_at: 2026-10-28
-description: "Hydroxyurea: indikasi baharu diramal Karsinoma payudara wanita (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan yang d…"
+predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
+last_modified_at: 2026-11-03
+description: "Hydroxyurea: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Hydroxyurea
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **9** 
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,53 +33,53 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-## Hydroxyurea: Daripada Indikasi Asal (Tiada Maklumat Label Tempatan) kepada Karsinoma Payudara Wanita
+## Hydroxyurea: Karsinoma payudara wanita (female breast carcinoma)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Hydroxyurea ialah ubat antineoplastik yang berfungsi dengan merencat enzim ribonukleotida reduktase. Dua produk kapsul 500 mg berdaftar di Malaysia, tetapi teks indikasi yang diluluskan tidak terdapat dalam data yang dikompil.
-Model TxGNN meramalkan ia mungkin berkesan untuk **karsinoma payudara wanita**. Setakat ini **tiada ujian klinikal berdaftar**, dan literatur yang ada kebanyakannya kajian prapklinikal atau gabungan kemoterapi lama.
+Hydroxyurea ialah ubat antimetabolit yang menghalang enzim ribonukleotida reduktase dan mengganggu sintesis DNA.
+Model TxGNN meramalkan ia mungkin berkesan untuk **karsinoma payudara wanita (female breast carcinoma)**.
+Bukti setakat ini sangat terhad: **tiada ujian klinikal** berdaftar, dan hanya **20 penerbitan** ditemui. Kebanyakannya kajian praklinikal atau tidak langsung.
 
 ## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada teks indikasi diluluskan dalam data pendaftaran tempatan yang dikompil |
-| Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita (female breast carcinoma) |
 | Skor Ramalan TxGNN | 0.9997 |
-| Tahap Bukti | L5 (kajian prapklinikal dan mekanistik pada sel kanser payudara; tiada ujian klinikal) |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
-| Bilangan Kelulusan | 2 pendaftaran produk bahan tunggal, kedua-duanya sah |
-| Keputusan Disyorkan | Hold (Tangguh) |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikompil. Namun, hydroxyurea diketahui merencat ribonukleotida reduktase. Ini mengurangkan kolam dNTP dan menyebabkan tekanan replikasi DNA, satu mekanisme antiproliferatif yang munasabah untuk sel kanser.
+Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Berdasarkan farmakologi yang diketahui, hydroxyurea menghalang ribonukleotida reduktase. Ini mengurangkan bekalan deoksiribonukleotida (dNTP) dan menyebabkan tekanan replikasi DNA pada sel yang membahagi dengan pantas. Mekanisme antipencambahan ini munasabah untuk sel kanser payudara.
 
-Beberapa kajian prapklinikal menggunakan hydroxyurea sebagai alat untuk mendorong tekanan replikasi dalam sel kanser payudara. Antaranya, asid valproik meningkatkan kepekaan sel kanser payudara terhadap hydroxyurea dengan menghalang pembaikan DNA. Kajian *in silico* juga menilai konjugat hydroxyurea-lipid untuk terapi kanser payudara.
+Kajian praklinikal menyokong kaitan ini. Hydroxyurea digunakan sebagai alat untuk mencetuskan tekanan replikasi dalam model sel kanser payudara. Sebagai contoh, asid valproik didapati meningkatkan kepekaan sel kanser payudara terhadap hydroxyurea melalui penghalangan laluan pembaikan DNA.
 
-Hubungan ini hanya bersifat mekanistik dan *in vitro*. Tiada bukti klinikal langsung bahawa hydroxyurea berkesan untuk kanser payudara. Laporan gabungan kemoterapi lama (1990 dan 1992) kecil dan tidak mengasingkan kesan hydroxyurea sahaja.
+Namun, data hanya menunjukkan kaitan mekanistik dan keberkesanan in vitro. Tiada ujian klinikal berdaftar dan tiada bukti keberkesanan klinikal langsung dalam kanser payudara. Laporan kemoterapi kombinasi lama (1990 dan 1992) kecil dan tidak mengasingkan kesan hydroxyurea sahaja.
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [28837865](https://pubmed.ncbi.nlm.nih.gov/28837865/) | 2017 | Prapklinikal | DNA Repair | Asid valproik meningkatkan kepekaan sel kanser payudara terhadap hydroxyurea dengan menghalang laluan pembaikan DNA melalui RPA2 |
-| [32795962](https://pubmed.ncbi.nlm.nih.gov/32795962/) | 2020 | Prapklinikal | DNA Repair | Sebatian 2-hexyl-4-pentynoic acid berpotensi sebagai terapi karsinoma payudara melalui pembaikan DNA berkaitan RPA2, dengan hydroxyurea sebagai ejen rujukan |
-| [38211596](https://pubmed.ncbi.nlm.nih.gov/38211596/) | 2024 | *In silico* / prapklinikal | Drug Research | Konjugat hydroxyurea-lipid direka untuk meningkatkan kelipofilan dan pengambilan sel dalam terapi kanser payudara, menyasarkan laluan PI3K/AKT/mTOR |
-| [34661718](https://pubmed.ncbi.nlm.nih.gov/34661718/) | 2022 | Prapklinikal | Naunyn-Schmiedeberg's Arch Pharmacol | Nanopartikel hydroxyurea dengan pembebasan bergantung pH, penahanan kitaran sel dan perubahan ekspresi gen p53 serta lincRNA-p21 |
-| [25814515](https://pubmed.ncbi.nlm.nih.gov/25814515/) | 2015 | Prapklinikal | Molecular Pharmacology | Perencat RNR baharu COH29 menghalang pembaikan DNA dalam sel kanser payudara defisit BRCA-1; hydroxyurea disebut sebagai perencat RNR klinikal sedia ada |
-| [21730979](https://pubmed.ncbi.nlm.nih.gov/21730979/) | 2011 | Prapklinikal | Br J Cancer | Perencat ATR baharu NU6027 dinilai pada sel kanser payudara dan ovari |
-| [30159181](https://pubmed.ncbi.nlm.nih.gov/30159181/) | 2018 | Laporan kes | Case Rep Hematol | Cabaran rawatan pesakit dengan kanser payudara dan trombositemia esensial serentak |
-| [1957839](https://pubmed.ncbi.nlm.nih.gov/1957839/) | 1991 | Fasa I | Am J Clin Oncol | Gabungan allopurinol, 5-FU dan leucovorin diikuti hydroxyurea pada 20 pesakit kanser maju (kolorektum, pankreas, perut, payudara) |
-| [1733549](https://pubmed.ncbi.nlm.nih.gov/1733549/) | 1992 | Fasa 1/2 | Cancer Chemother Pharmacol | 5-FU, leucovorin, hydroxyurea dan cisplatin dos meningkat bersama radioterapi pada tumor pepejal maju |
-| [2245491](https://pubmed.ncbi.nlm.nih.gov/2245491/) | 1990 | Kajian perintis | Cancer Chemother Pharmacol | Cisplatin didahului cytarabine dan hydroxyurea serentak, berdasarkan model *in vitro* |
+| [28837865](https://pubmed.ncbi.nlm.nih.gov/28837865/) | 2017 | Praklinikal | DNA Repair | Asid valproik meningkatkan kepekaan sel kanser payudara terhadap hydroxyurea melalui penghalangan pembaikan DNA yang bergantung pada hiperfosforilasi RPA2 |
+| [32795962](https://pubmed.ncbi.nlm.nih.gov/32795962/) | 2020 | Praklinikal | DNA Repair | Sebatian 2-hexyl-4-pentynoic acid dikaji sebagai alternatif asid valproik untuk memperkuat kesan hydroxyurea pada karsinoma payudara |
+| [38211596](https://pubmed.ncbi.nlm.nih.gov/38211596/) | 2024 | In silico / praklinikal | Drug Research | Konjugat hydroxyurea-lipid direka untuk kanser payudara dengan menyasarkan laluan PI3K/AKT/mTOR bagi mengatasi sifat hidrofilik hydroxyurea |
+| [34661718](https://pubmed.ncbi.nlm.nih.gov/34661718/) | 2022 | Praklinikal | Naunyn-Schmiedeberg's Arch Pharmacol | Nanozarah Fe3O4/SiO2/chitosan memuatkan hydroxyurea dengan pembebasan bergantung pada pH; kesan terhadap kitaran sel dan ungkapan gen p53 serta lincRNA-p21 dinilai |
+| [25814515](https://pubmed.ncbi.nlm.nih.gov/25814515/) | 2015 | Praklinikal | Molecular Pharmacology | Perencat RNR baharu COH29 menghalang pembaikan DNA dalam sel kanser payudara kekurangan BRCA-1; hydroxyurea disebut sebagai perencat RNR rujukan |
+| [27504932](https://pubmed.ncbi.nlm.nih.gov/27504932/) | 2017 | Praklinikal | J Cell Physiol | Rintangan kemoterapi sel kanser paru-paru dan payudara yang dikultur dalam keadaan kebuluran serum yang berpanjangan |
+| [1957839](https://pubmed.ncbi.nlm.nih.gov/1957839/) | 1991 | Kajian fasa I | Am J Clin Oncol | Regimen allopurinol, 5-fluorouracil dan leucovorin diikuti hydroxyurea pada 20 pesakit kanser lanjut (termasuk kanser payudara) |
+| [1733549](https://pubmed.ncbi.nlm.nih.gov/1733549/) | 1992 | Fasa 1/2 (kombinasi) | Cancer Chemother Pharmacol | Kajian dos cisplatin dengan 5-FU, hydroxyurea dan radioterapi pada tumor pepejal lanjut; kesan hydroxyurea tidak diasingkan |
+| [2245491](https://pubmed.ncbi.nlm.nih.gov/2245491/) | 1990 | Kajian perintis | Cancer Chemother Pharmacol | Kajian perintis cisplatin selepas cytarabine dan hydroxyurea berdasarkan model in vitro sel kanser kolon, bukan kanser payudara |
+| [30159181](https://pubmed.ncbi.nlm.nih.gov/30159181/) | 2018 | Laporan kes | Case Rep Hematol | Pesakit dengan kanser payudara dan trombositemia esensial serentak; cabaran pemilihan terapi dibincangkan |
 
 ## Maklumat Pasaran di Malaysia
 
@@ -88,40 +88,39 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 | MAL20040573AZ | DHNP HYDROXYUREA CAPSULE 500MG (First Pharmaceutical Sdn. Bhd.) | Kapsul (500 mg) | Tiada maklumat |
 | MAL25036013AZ | HYDRINE Capsule 500mg (Eucogen Pharma Sdn. Bhd.) | Kapsul (500 mg) | Tiada maklumat |
 
-Kedua-dua produk ialah produk bahan tunggal dan berstatus sah.
+Kedua-dua lesen ialah produk bahan tunggal dan masih sah.
 
 ## Sitotoksisiti
 
 | Perkara | Kandungan |
 |------|------|
 | Klasifikasi Sitotoksisiti | Sitotoksik konvensional (antimetabolit, perencat ribonukleotida reduktase) |
-| Risiko Mielosupresi | Tinggi (mielosupresi ialah toksisiti yang lazim; sila rujuk sisipan pakej untuk butiran) |
+| Risiko Mielosupresi | Tinggi (neutropenia, trombositopenia dan anemia merupakan toksisiti yang mengehadkan dos) |
 | Klasifikasi Emetogenisiti | Rendah |
-| Perkara Pemantauan | Kiraan darah lengkap (CBC dengan pembezaan), fungsi hati dan buah pinggang |
-| Perlindungan Pengendalian | Ikuti garis panduan pengendalian ubat sitotoksik |
+| Item Pemantauan | Kiraan darah lengkap (CBC) dengan pembezaan, fungsi hati dan buah pinggang |
+| Perlindungan Pengendalian | Perlu mematuhi garis panduan pengendalian ubat sitotoksik |
 
-Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej untuk maklumat lanjut.
+Sila rujuk juga amaran dan langkah berjaga-jaga dalam sisipan pakej.
 
 ## Pertimbangan Keselamatan
 
-- **Interaksi Ubat**: Pangkalan data interaksi merekodkan 100 interaksi yang berpotensi. Kebanyakannya tidak mempunyai tahap keterukan yang diklasifikasikan. Satu interaksi bertahap Minor ialah levofloxacin. Antara ubat lain yang disenaraikan ialah doxycycline, amphotericin B, hydrocortisone, famotidine, acetylsalicylic acid, pantoprazole, metformin, omeprazole, vancomycin, prednisone dan simvastatin. Tahap keterukannya tidak dinyatakan.
+- **Interaksi Ubat**: Pangkalan data interaksi ubat merekodkan 100 interaksi. Antara yang disenaraikan: levofloxacin (Minor), doxycycline, amphotericin B, hydrocortisone, famotidine, asid asetilsalisilik, pantoprazole, metformin, omeprazole, morphine, vancomycin, prednisone dan simvastatin. Kebanyakannya tidak mempunyai tahap keterukan yang dinyatakan.
 
-Sila rujuk sisipan pakej untuk amaran dan kontraindikasi.
+Maklumat amaran dan kontraindikasi daripada sisipan pakej belum tersedia dalam data yang dihimpunkan. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tangguh)**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan TxGNN sangat tinggi (0.9997), tetapi bukti untuk kanser payudara hanya prapklinikal dan mekanistik. Tiada ujian klinikal berdaftar, dan laporan gabungan kemoterapi lama tidak mengasingkan kesan hydroxyurea.
+Skor ramalan TxGNN sangat tinggi (0.9997), tetapi tiada ujian klinikal berdaftar. Bukti sedia ada terdiri daripada kajian praklinikal, in silico dan laporan kemoterapi kombinasi lama yang tidak mengasingkan kesan hydroxyurea. Tahap bukti ialah L4.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA (amaran, kontraindikasi dan indikasi diluluskan), kerana data keselamatan dan indikasi tempatan belum tersedia
-- Data mekanisme tindakan terperinci daripada sumber rujukan seperti DrugBank
-- Bukti klinikal langsung, sekurang-kurangnya ujian fasa 2 hydroxyurea dalam kanser payudara
-- Pelan pemantauan hematologi yang sesuai, memandangkan risiko mielosupresi
+- Data mekanisme tindakan yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA bagi penilaian keselamatan
+- Data klinikal langsung, seperti ujian klinikal fasa 2 untuk kanser payudara atau kajian pemerhatian yang mengasingkan kesan hydroxyurea
+- Pelan pemantauan keselamatan hematologi, memandangkan risiko mielosupresi yang tinggi
 
-**Nota:** Antara ramalan lain untuk hydroxyurea, penyakit sel sabit hemoglobin SC mempunyai bukti yang jauh lebih kukuh, termasuk ujian fasa 2 (NCT00532883, dihentikan, n=44) dan kajian pada kanak-kanak serta dewasa (2025). Ini mungkin patut dinilai lebih awal.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -4,17 +4,17 @@ title: Ceftriaxone
 parent: Low Evidence (L4-L5)
 nav_order: 205
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 monitor_inn: "CEFTRIAXONE"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "infectious otitis media", "blood group incompatibility", "suppurative otitis media", "chronic otitis media"]
-last_modified_at: 2026-10-28
-description: "Ceftriaxone: indikasi baharu diramal Sindrom hiperviskositi poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
+last_modified_at: 2026-11-03
+description: "Ceftriaxone: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ceftriaxone
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **7** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,62 +33,61 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-## Ceftriaxone: Antibiotik sefalosporin generasi ketiga (beta-laktam) → Sindrom hiperviskositi poliklonal (polyclonal hyperviscosity syndrome)
+## Ceftriaxone: Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Ceftriaxone ialah antibiotik beta-laktam yang menghalang sintesis dinding sel bakteria. Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom hiperviskositi poliklonal (polyclonal hyperviscosity syndrome)**. Data yang dikumpulkan untuk laporan ini mengandungi **0 ujian klinikal** dan **0 penerbitan** yang mengkaji penyakit ini secara langsung, jadi ramalan ini belum disokong oleh bukti sebenar.
+Ceftriaxone ialah antibiotik sefalosporin yang menghalang sintesis dinding sel bakteria dan digunakan untuk pelbagai jangkitan bakteria.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome)**, tetapi pada masa ini **tiada sebarang percubaan klinikal mahupun penerbitan** yang menyokong arah ini.
 
-## Gambaran Ringkas
+## Gambaran Keseluruhan Pantas
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Sindrom hiperviskositi poliklonal (polyclonal hyperviscosity syndrome) |
+| Indikasi Baharu yang Diramalkan | Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) |
 | Skor Ramalan TxGNN | 0.9939 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 28 daripada 28) |
 | Bilangan Pendaftaran | 28 (sah: 28) |
-| Keputusan Disyorkan | Hold (Tahan) |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) ceftriaxone tidak tersedia dalam data yang dikumpulkan. Namun, ceftriaxone diketahui sebagai antibiotik beta-laktam yang menghalang sintesis dinding sel bakteria.
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, ceftriaxone ialah antibakteria beta-laktam yang menghalang sintesis dinding sel bakteria.
 
-Sindrom hiperviskositi poliklonal berpunca daripada peningkatan imunoglobulin serum atau paraprotein yang berlebihan. Antibiotik tidak menangani punca ini. Oleh itu, **tiada hubungan mekanistik yang munasabah** ditemui antara ceftriaxone dan penyakit ini.
+Sindrom hiperkelikatan timbul daripada peningkatan imunoglobulin serum atau paraprotein, satu keadaan yang tidak ditangani oleh antibakteria. Oleh itu, **tiada hubungan mekanistik yang munasabah** ditemui.
 
-Skor TxGNN yang tinggi (0.9939) hanyalah hasil model komputasi. Ia tidak menunjukkan keberkesanan klinikal, dan tiada bukti klinikal atau literatur yang menyokongnya. Skor ini tidak boleh ditafsirkan sebagai bukti bahawa ubat ini berkesan untuk penyakit tersebut.
+## Bukti Percubaan Klinikal
 
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia.
+Pada masa ini tiada literatur berkaitan.
 
 ## Pertimbangan Keselamatan
 
-Maklumat amaran utama dan kontraindikasi daripada sisipan pakej belum tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Interaksi Ubat (DDI):** Sebanyak 100 interaksi direkodkan. Interaksi **Major** yang utama ialah dengan:
+  - Kalsium klorida
+  - Kalsium glukoheptonat
+  - Kalsium glukonat
 
-**Interaksi Ubat**: Sejumlah 100 interaksi direkodkan. Yang utama ialah:
-
-- **Major**: kalsium klorida, kalsium glukoheptonat, kalsium glukonat
-- **Moderate**: kanamycin, neomycin, streptomycin, asid pikosulfurik
+  Interaksi **Sederhana (Moderate)** termasuk kanamisin, neomisin, streptomisin dan asid pikosulfurik.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tahan)**
+**Keputusan: Hold (Tangguh)**
 
 **Justifikasi:**
-- Tiada ujian klinikal atau literatur yang mengkaji penyakit ini secara langsung, dan tiada hubungan mekanistik yang munasabah. Tahap bukti hanyalah L5 (ramalan model sahaja).
+Tiada percubaan klinikal, tiada literatur dan tiada hubungan mekanistik yang munasabah untuk menyokong ramalan ini. Tahap bukti hanyalah L5 (ramalan model sahaja).
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Hipotesis mekanistik yang jelas yang menghubungkan antibiotik beta-laktam dengan patofisiologi hiperviskositi
-- Bukti praklinikal atau klinikal yang mengkaji penyakit ini secara langsung
-- Data mekanisme tindakan (MOA) terperinci
-- Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej produk
+- Bukti pra-klinikal atau klinikal yang secara langsung mengkaji penyakit ini sebelum sebarang pertimbangan lanjut
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

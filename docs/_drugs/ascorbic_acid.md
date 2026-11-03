@@ -4,17 +4,17 @@ title: Ascorbic Acid
 parent: Low Evidence (L4-L5)
 nav_order: 95
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "ASCORBIC ACID"
-predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "disease by subcellular system affected", "vitamin deficiency disorder"]
-last_modified_at: 2026-10-31
-description: "Ascorbic Acid: indikasi baharu diramal Malformasi esofagus bukan sindromik (non-syndromic esophageal malformation) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "disease by subcellular system affected"]
+last_modified_at: 2026-11-03
+description: "Ascorbic Acid: indikasi baharu diramal Malformasi esofagus tidak sindromik (non-syndromic esophageal malformation) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ascorbic Acid
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,20 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Asid Askorbik: Agen antioksidan vitamin C → Malformasi esofagus bukan sindromik (non-syndromic esophageal malformation)
+## Ascorbic Acid: Malformasi esofagus tidak sindromik (non-syndromic esophageal malformation)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Asid askorbik (vitamin C) ialah vitamin larut air yang berperanan sebagai kofaktor enzim dan antioksidan.
-Model TxGNN meramalkan ia mungkin berkesan untuk **malformasi esofagus bukan sindromik (non-syndromic esophageal malformation)**,
-tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini; ramalan ini bersandarkan model sahaja.
+Asid askorbik (vitamin C) ialah nutrien penting yang larut dalam air dan bertindak sebagai antioksidan. Model TxGNN meramalkan ia mungkin berguna untuk **malformasi esofagus tidak sindromik (non-syndromic esophageal malformation)**. Setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan ini, jadi ia kekal sebagai ramalan model sahaja.
 
-## Gambaran Keseluruhan
+## Gambaran Pantas
 
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Malformasi esofagus bukan sindromik (non-syndromic esophageal malformation) |
-| Skor Ramalan TxGNN | 0,9996 |
+| Indikasi Baharu yang Diramalkan | Malformasi esofagus tidak sindromik (non-syndromic esophageal malformation) |
+| Skor Ramalan TxGNN | 0.9996 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1138 daripada 1140) |
 | Bilangan Pendaftaran | 1140 (sah: 1138) |
@@ -56,42 +54,52 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Secara umumnya, asid askorbik diketahui sebagai antioksidan dan kofaktor dalam hidroksilasi kolagen.
+Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Asid askorbik diketahui berfungsi sebagai antioksidan dan kofaktor enzim hidroksilase yang menyokong sintesis kolagen.
 
-Namun, hasil penilaian data yang dikumpulkan menunjukkan **tiada hubungan mekanistik yang dapat dikenal pasti**. Malformasi esofagus kongenital ialah kecacatan perkembangan struktur, dan asid askorbik tidak mempunyai peranan yang diketahui dalam membetulkannya. Skor yang tinggi (0,9996) ialah ramalan berasaskan model semata-mata, tanpa sokongan ujian klinikal atau literatur. Ramalan ini sebaiknya dianggap sebagai hipotesis awal sahaja.
+Namun, tiada kaitan mekanistik yang jelas dengan ramalan ini. Malformasi esofagus kongenital ialah kecacatan perkembangan struktur yang terbentuk semasa embriogenesis. Tiada bukti bahawa asid askorbik boleh membetulkan atau merawat kecacatan sedemikian. Ramalan ini perlu dianggap sebagai hipotesis yang sangat awal.
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi ini.
+Buat masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-Menurut data tempatan, status pasaran ialah **dipasarkan**, dengan 1,140 lesen sah dan tiada lesen dibatalkan. Senarai lesen terperinci tidak disertakan dalam data yang dikumpulkan untuk laporan ini.
+Data yang dikumpulkan untuk laporan ini menunjukkan asid askorbik **dipasarkan** di Malaysia. Daripada 1,140 pendaftaran, 1,138 masih sah dan 2 telah dibatalkan. Butiran setiap pendaftaran (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 
-**Interaksi Ubat** (25 interaksi direkodkan; contoh utama):
-- **Tahap sederhana (Moderate)**: amfetamina, dekstroamfetamina, lisdeksamfetamina, metamfetamina, benzfetamina, aluminium hidroksida, bortezomib, deferoksamina
-- **Tahap ringan (Minor)**: paklitaksel, sisplatin, doksorubisin (termasuk bentuk liposom), pseudoefedrina, efedrina, etinilestradiol, flekainid, flufenazina, indinavir, meksiletin
+- **Interaksi Ubat** (25 interaksi direkodkan). Yang bertahap sederhana (Moderate):
+  - Amphetamine
+  - Dextroamphetamine
+  - Lisdexamfetamine
+  - Metamfetamine
+  - Benzphetamine
+  - Aluminum hydroxide
+  - Bortezomib
+  - Deferoxamine
 
-Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan lengkap.
+  Selebihnya bertahap ringan (Minor), antaranya paclitaxel, cisplatin, doxorubicin, ethinylestradiol, pseudoephedrine, ephedrine, flecainide, fluphenazine, indinavir dan mexiletine.
+
+Untuk amaran, kontraindikasi dan maklumat keselamatan lain, sila rujuk sisipan pakej.
 
 ## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Hold (Tangguh)**
 
-**Justifikasi:**
-Ramalan ini tidak mempunyai ujian klinikal, tiada literatur, dan tiada hubungan mekanistik yang dapat dikenal pasti. Skor model yang tinggi sahaja tidak mencukupi untuk meneruskan penilaian.
+**Rasional:**
+- Ramalan ini hanya berasaskan skor model (0.9996). Tiada ujian klinikal, tiada literatur dan tiada kaitan mekanistik yang dapat dikenal pasti. Tahap buktinya L5.
+- Penyakit sasaran ialah kecacatan struktur kongenital, dan tiada asas biologi yang munasabah bahawa asid askorbik dapat memperbaikinya.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) yang terperinci
-- Bukti praklinikal atau klinikal yang mengaitkan asid askorbik dengan perkembangan atau pembaikan esofagus
-- Amaran dan kontraindikasi daripada sisipan pakej yang dimuat turun daripada NPRA
-- Penilaian kesesuaian laluan pentadbiran
+- Bukti prapklinikal atau mekanistik yang secara langsung menghubungkan asid askorbik dengan perkembangan atau pembaikan esofagus
+- Data mekanisme tindakan (MOA) yang lengkap
+- Semakan sisipan pakej NPRA untuk amaran dan kontraindikasi
+- Penilaian pakar sama ada ramalan ini wajar diteruskan, memandangkan sifat penyakit yang bersifat perkembangan struktur
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
