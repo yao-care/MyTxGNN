@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 706
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "TRYPTOPHAN"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
 description: "Tryptophan: indikasi baharu diramal Sindrom kaki gelisah (restless legs syndrome) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -130,6 +130,7 @@ Yang bertahap **Moderate** termasuk morfin, kodein, hidrokodon, siproheptadin, o
 | Glaukoma keturunan primer | 0.9957 | L5 | Hold | Hanya skor ramalan, tiada bukti |
 | Methemoglobinemia (dan varian alfa, kekurangan reduktase) | 0.9930 / 0.9918 / 0.9908 | L5 | Hold | Tiada kaitan mekanistik; kemungkinan artifak kedekatan rangkaian |
 | Kekurangan protrombin kongenital | 0.9901 | L5 | Hold | Hanya ramalan, tiada mekanisme munasabah |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

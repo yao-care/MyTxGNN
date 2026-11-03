@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 196
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Carbidopa: kegunaan diketahui dan status pasaran di Malaysia; buat masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Model TxGNN menghasilkan calon indikasi untuk Carbidopa dengan skor ≥ 0.99. Semua calon yang dapat dijejaki kepada sumber ialah kegunaan yang sudah diketahui. Oleh itu, buat masa ini tiada indikasi baharu yang diramalkan untuk ubat ini.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejaki ialah kegunaan diketahui) |
@@ -52,16 +53,19 @@ Model TxGNN menghasilkan calon indikasi untuk Carbidopa dengan skor ≥ 0.99. Se
 ## Kegunaan diketahui dalam kalangan calon model
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | Penyakit Parkinson onset lewat keturunan (hereditary late onset Parkinson disease) | Lesen di negara lain; indikasi diluluskan: parkinson disease |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | Tiada | Tiada |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | Tiada |

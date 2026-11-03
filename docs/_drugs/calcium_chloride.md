@@ -3,7 +3,7 @@ layout: default
 title: Calcium Chloride
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 185
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Calcium Chloride: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih tinggi untuk Calcium Chloride, jadi buat masa ini tiada indikasi baharu yang diramalkan. Kegunaan yang direkodkan untuk ubat ini disenaraikan di bawah. Kegunaan tersebut ialah rekod ubat itu sendiri, bukan calon model.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Kegunaan diketahui yang direkodkan untuk ubat ini | 2 |
@@ -50,16 +51,19 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 ## Kegunaan diketahui yang direkodkan untuk ubat ini
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | Tiada | Tiada |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | Tiada | Tiada |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | Henti jantung (cardiac arrest) |

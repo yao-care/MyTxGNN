@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 440
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "Lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
 description: "Lacosamide: indikasi baharu diramal Manic bipolar affective disorder (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -143,6 +143,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 | 8 | Sindrom sakit miofasial | 0.9981 | L5 | Research Question (satu ujian Fasa 2 tanpa keputusan tersedia) |
 | 9 | Gangguan obsesif-kompulsif | 0.9978 | L5 | Hold (ujian berkaitan mengkaji penggunaan alkohol, bukan OCD) |
 | 10 | Konjunktivitis papilari | 0.9972 | L5 | Hold (tiada bukti) |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

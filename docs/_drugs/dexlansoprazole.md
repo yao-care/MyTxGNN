@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 272
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "DEXLANSOPRAZOLE"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
 description: "Dexlansoprazole: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -125,6 +125,7 @@ Ramalan lain dalam kedudukan teratas kebanyakannya berbukti lemah:
 | Ulser gastrojejunal | L4 | Hold | Satu-satunya ujian (NCT04423588) telah ditarik balik tanpa peserta |
 | Achlorhydria | L5 | Hold | Secara mekanisme bertentangan dan mungkin ramalan palsu yang berbahaya |
 | Perforasi ulser peptik, gastroduodenitis, halangan duodenum, refluks duodenogastrik, perut botol kulit | L5 | Hold | Hanya disokong oleh ramalan model |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

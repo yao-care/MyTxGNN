@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 522
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Netarsudil: kegunaan sedia ada dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Model TxGNN (skor ≥ 0.99) menghasilkan calon untuk Netarsudil, tetapi semua calon yang boleh dijejaki kepada sumber ialah kegunaan sedia ada. Oleh itu, buat masa ini tiada indikasi baharu yang diramalkan untuk ubat ini. Halaman ini hanya menyenaraikan kegunaan sedia ada dan status pasaran di Malaysia.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejaki ialah kegunaan sedia ada) |
@@ -52,16 +53,19 @@ Model TxGNN (skor ≥ 0.99) menghasilkan calon untuk Netarsudil, tetapi semua ca
 ## Kegunaan sedia ada dalam kalangan calon model
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | glaukoma (glaucoma) | Lesen di negara lain; indikasi diluluskan: open-angle glaucoma |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | glaukoma primer keturunan (primary hereditary glaucoma) | glaucoma |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | Tiada |

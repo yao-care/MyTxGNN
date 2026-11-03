@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 51
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Amantadine: indikasi baharu diramal Rasmussen subacute encephalitis (tahap bukti L5). Indikasi asal: Penyakit Parkinson (dan gangguan parkinsonisme yang berkaitan)"
 monitor_inn: "amantadine"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
@@ -106,6 +106,7 @@ Data yang dikumpulkan turut merangkumi tiga ramalan lain, dan semuanya juga belu
 | Transaldolase deficiency | 0.9927 | L5 | Tiada bukti dan tiada rasional mekanistik yang jelas; ramalan mungkin didorong oleh kedekatan rangkaian |
 | Myelitis | 0.9924 | L5 | Literatur sebenarnya berkaitan sindrom pasca-polio (contohnya RCT 1995 tentang keletihan, PMID 7611638); kaitan dengan myelitis tidak langsung dan faedahnya tidak jelas |
 | PLA2G6-associated neurodegeneration | 0.9923 | L5 | Hanya satu laporan tidak langsung tentang PKAN (PMID 31366412); ekstrapolasi belum disahkan |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

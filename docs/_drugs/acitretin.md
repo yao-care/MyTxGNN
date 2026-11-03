@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 23
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Acitretin: indikasi baharu diramal Jerawat (acne) (tahap bukti L3). Indikasi asal: Tiada data indikasi yang diluluskan dalam data yang dikumpulkan"
 monitor_inn: "ACITRETIN"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
@@ -141,6 +141,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 | Lupus eritematosus sistemik pediatrik | 0.9935 | L5 | Tiada percubaan atau literatur; kebimbangan keselamatan yang besar pada kanak-kanak (tulang, pertumbuhan, hati) |
 | Eritroblastosis janin | 0.9928 | L5 | Tiada kaitan mekanistik yang munasabah; acitretin dikontraindikasikan sepenuhnya semasa kehamilan |
 | Sindrom predisposisi kanser orofaring dan telangiektasia kutaneus familial | 0.9910 | L5 | Ramalan berkomputer sahaja; rasional spekulatif |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

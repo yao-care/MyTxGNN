@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 674
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Teriflunomide: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Semua calon yang dijana oleh model TxGNN (skor ≥ 0.99) untuk Teriflunomide ialah kegunaan yang sudah diketahui. Oleh itu, pada masa ini tiada indikasi baharu yang diramalkan. Satu kegunaan yang diketahui disenaraikan di bawah beserta sumbernya.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang dapat dijejaki ialah kegunaan yang diketahui) |
@@ -52,16 +53,19 @@ Semua calon yang dijana oleh model TxGNN (skor ≥ 0.99) untuk Teriflunomide ial
 ## Kegunaan diketahui dalam calon model
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | Sklerosis berbilang relaps-remisi (relapsing-remitting multiple sclerosis) | Lesen di negara lain; indikasi diluluskan: multiple sclerosis |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | Tiada | Tiada |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | Tiada |

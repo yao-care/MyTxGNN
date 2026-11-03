@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 413
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "Imiquimod"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
 description: "Imiquimod: indikasi baharu diramal Neoplasma pra-malignan (pre-malignant neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -136,6 +136,7 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi.
 | Neoplasma telinga dalam | 0.9991 | L5 | Hold |
 | Neoplasma kelenjar air liur utama | 0.9991 | L5 | Hold |
 | Schwannoma foramen jugular | 0.9991 | L5 | Hold |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

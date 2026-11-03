@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 475
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Loratadine: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Semua calon yang dihasilkan oleh model TxGNN untuk Loratadine (skor ≥ 0.99) ialah kegunaan yang sudah diketahui. Oleh itu, buat masa ini tiada indikasi baharu yang diramalkan untuk ubat ini. Satu kegunaan yang diketahui direkodkan dalam graf pengetahuan, tetapi tiada kelulusan ditemui untuknya.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejaki ialah kegunaan yang diketahui) |
@@ -52,16 +53,19 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Loratadine (skor ≥ 0.99) ia
 ## Kegunaan diketahui dalam calon model
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | Tiada | Tiada |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | Tiada | Tiada |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | Konjunktivitis papilari (papillary conjunctivitis) |

@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 329
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Eptinezumab: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Semua calon yang dihasilkan oleh model TxGNN untuk Eptinezumab (skor ≥ 0.99) ialah kegunaan yang sudah diketahui. Oleh itu, pada masa ini tiada indikasi baharu yang diramalkan untuk ubat ini. Satu kegunaan yang diketahui disenaraikan di bawah, dan ia bukan indikasi yang diluluskan.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejaki ialah kegunaan diketahui) |
@@ -52,16 +53,19 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Eptinezumab (skor ≥ 0.99) i
 ## Kegunaan diketahui dalam kalangan calon model
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | Tiada | Tiada |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | Migrain dengan aura batang otak (migraine with brainstem aura) | migraine |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | Tiada |

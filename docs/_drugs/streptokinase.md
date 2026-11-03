@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Streptokinase"
 predicted_indications: ["Prinzmetal angina", "hemoglobinopathy", "peripheral vascular disease", "peripheral arterial disease", "partial deletion of the short arm of chromosome 16"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Streptokinase: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -133,6 +133,7 @@ Untuk rujukan, empat ramalan lain tidak disyorkan sebagai calon utama:
 | Penyakit vaskular periferal | 0.9965 | L3 | Mekanisme munasabah; ada kajian perbandingan streptokinase dengan urokinase dan ulasan Cochrane, tetapi bukti streptokinase sudah lama dan ejen lain lebih diutamakan. Tiada ujian berdaftar |
 | Penyakit arteri periferal | 0.9960 | L3 | Mekanisme sama; relevan terutamanya untuk iskemia anggota akut, bukan PAD kronik. Banyak kertas lain menumpukan antiplatelet/antikoagulan dan bukan bukti untuk streptokinase |
 | Penghapusan separa lengan pendek kromosom 16 | 0.9956 | L5 | Tiada hubungan mekanistik, tiada ujian dan tiada literatur; kemungkinan artifak rangkaian |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

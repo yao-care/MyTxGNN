@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 327
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "EPINEPHRINE"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 description: "Epinephrine: indikasi baharu diramal Penyakit paru-paru obstruktif (obstructive lung disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -137,6 +137,7 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. 
 | Anafilaksis aruhan senaman bergantung makanan | 0.9957 | L5 | Research Question (hanya ulasan dan laporan kes; tiada percubaan klinikal; lanjutan indikasi anafilaksis sedia ada) |
 | Sindrom Rienhoff | 0.9957 | L5 | Hold (ramalan pengiraan sahaja; tiada percubaan atau literatur) |
 | Malformasi pernafasan | 0.9956 | L3 | Research Question (satu percubaan Fasa 1 tentang takipnea sementara bayi baru lahir; malformasi struktur tidak akan dibetulkan oleh epinephrine; kebanyakan literatur tidak berkaitan) |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

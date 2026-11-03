@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 724
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "vinblastine"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
 description: "Vinblastine: indikasi baharu diramal Rhabdomyosarcoma (rhabdomyosarcoma (disease)) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -136,6 +136,7 @@ Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej untuk maklumat ra
 | Neuroblastoma | 0.9914 | L3 | Research Question (kebanyakannya praklinikal; laporan ileus teruk dengan cisplatin-vinblastine 1988 ialah isyarat keselamatan) |
 | Prostate embryonal rhabdomyosarcoma | 0.9983 | L5 | Hold (laporan kes sahaja, rejimen pelbagai ubat) |
 | Liver sarcoma | 0.9981 | L4 | Hold (bukti kebanyakannya tidak berkaitan atau tidak langsung) |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

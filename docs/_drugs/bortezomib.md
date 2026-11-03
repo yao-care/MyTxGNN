@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 158
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Bortezomib: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih tinggi untuk Bortezomib, jadi pada masa ini tiada indikasi baharu yang diramalkan. Kegunaan yang direkodkan untuk ubat ini disenaraikan di bawah.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (tiada calon model dengan skor 0.99 atau lebih tinggi) |
@@ -52,6 +53,7 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 ## Kegunaan diketahui yang direkodkan untuk ubat ini
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | Limfoma (lymphoma) | Lesen di negara lain |
@@ -60,11 +62,13 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 | Mieloma (myeloma) | Lesen di negara lain |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | Tiada | Tiada |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | Neoplasma sel B (b-cell neoplasm) |

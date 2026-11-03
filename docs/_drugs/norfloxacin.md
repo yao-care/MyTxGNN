@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Norfloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Norfloxacin: indikasi baharu diramal Polyclonal hyperviscosity syndrome (tahap bukti L5). Indikasi asal: Jangkitan bakteria (demam kepialu, salmonelosis…"
 ---
 
@@ -132,6 +132,7 @@ Sembilan ramalan seterusnya turut tidak mempunyai asas yang kukuh dan semuanya b
 | 8 | Monoclonal gammopathy | 0.9942 | L5 | Satu kajian rintangan antimikrob, bukan bukti keberkesanan |
 | 9 | Hematological disease associated with acquired peripheral neuropathy | 0.9938 | L5 | Fluoroquinolone sendiri boleh menyebabkan neuropati |
 | 10 | Septicemic plague | 0.9937 | L5 | Rasional antibakteria munasabah pada tahap kelas ubat; dua kajian praklinikal tidak mengkaji norfloxacin pada manusia, jadi tahap bukti ditetapkan L5; disyorkan sebagai persoalan penyelidikan |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

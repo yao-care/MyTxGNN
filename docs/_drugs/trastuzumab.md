@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 695
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "TRASTUZUMAB"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 description: "Trastuzumab: indikasi baharu diramal Malignant cutaneous granular cell skin tumor (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -141,6 +141,7 @@ Kardiotoksisiti berkaitan trastuzumab juga dibincangkan dalam literatur yang dip
 | Tumor neuroendokrin telinga tengah | 0.9944 | L5 | Hold | Ramalan model sahaja |
 | Karsinoma sel peralihan sarkomatoid pelvis buah pinggang | 0.9904 | L5 | Hold | HER2 diekspres dalam sebahagian karsinoma uroteli; rasional munasabah tetapi belum diuji |
 | Karsinoma uroteli uretra prostat | 0.9904 | L5 | Hold | Rasional munasabah tetapi belum disahkan |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

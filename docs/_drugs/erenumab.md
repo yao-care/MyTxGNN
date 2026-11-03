@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 330
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Erenumab: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Model pembelajaran mendalam TxGNN (skor ≥ 0.99) menghasilkan calon untuk Erenumab. Namun, semua calon yang boleh dijejaki kepada sumber ialah kegunaan yang sudah diketahui. Oleh itu, pada masa ini tiada indikasi baharu yang diramalkan.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejaki ialah kegunaan diketahui) |
@@ -52,16 +53,19 @@ Model pembelajaran mendalam TxGNN (skor ≥ 0.99) menghasilkan calon untuk Erenu
 ## Kegunaan diketahui dalam kalangan calon model
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | Tiada | Tiada |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | Migrain dengan aura batang otak (migraine with brainstem aura) | migrain (migraine) |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | Tiada |

@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 529
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Nitroglycerin: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L3). Indikasi asal: Tiada data indikasi berdaftar di Malaysia dalam data yang dikumpulkan…"
 monitor_inn: "NITROGLYCERIN"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "primary hereditary glaucoma", "congenital hypotrichosis milia"]
@@ -127,6 +127,7 @@ Maklumat amaran utama daripada sisipan pakej tidak tersedia. Sila rujuk sisipan 
 | Kyphoscoliotic heart disease | 0.9942 | L5 | Tiada percubaan atau literatur; hanya ramalan pengiraan |
 | Primary hereditary glaucoma | 0.9916 | L5 | Tiada bukti; penderma NO dikaji secara eksperimen untuk tekanan intraokular tetapi tidak mantap untuk glaukoma kongenital |
 | Congenital hypotrichosis milia | 0.9902 | L5 | Tiada hubungan mekanisme yang jelas; kemungkinan artifak rangkaian |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

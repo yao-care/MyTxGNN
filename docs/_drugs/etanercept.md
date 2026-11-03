@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 338
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 monitor_inn: "ETANERCEPT"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
 description: "Etanercept: indikasi baharu diramal Hypermobility of coccyx (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -132,6 +132,7 @@ Sila rujuk sisipan pek (package insert) untuk maklumat amaran dan kontraindikasi
 | Penyakit vertebra | 0.9916 | L5 | Research Question | Kategori terlalu luas; sokongan tidak langsung. Perlu dipersempitkan kepada keadaan khusus. |
 | Hipermobiliti koksiks | 0.9963 | L5 | Hold | Hanya skor model; tiada ujian atau literatur. |
 | Penyakit Kummell | 0.9955 | L5 | Hold | Hanya skor model; tiada mekanisme didorong TNF yang jelas. |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

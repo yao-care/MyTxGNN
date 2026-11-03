@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Asfotase alfa"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Steel syndrome", "exocrine pancreatic insufficiency", "Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "familial apolipoprotein C-II deficiency", "esophageal varices without bleeding", "esophageal varices with bleeding", "cystinosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Asfotase Alfa: indikasi baharu diramal Gangguan fosforilasi oksidatif mitokondria akibat anomali DNA nukleus (tahap bukti L5). Indikasi asal: Tiada maklumat (teks indikasi pada lesen tidak tersedia)"
 ---
 
@@ -110,6 +110,7 @@ Sembilan ramalan seterusnya turut berada pada tahap bukti L5 tanpa ujian klinika
 | 8 | Varises esofagus tanpa pendarahan | 0.9968 | Tiada rasional biologi; kemungkinan artifak model |
 | 9 | Varises esofagus dengan pendarahan | 0.9968 | Skor sama dengan entri sebelumnya; kemungkinan artifak nod penyakit |
 | 10 | Sistinosis | 0.9965 | Kecacatan pengangkutan sistin lisosom; tiada kaitan langsung dengan TNSALP |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

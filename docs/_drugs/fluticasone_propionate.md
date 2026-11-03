@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 372
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Fluticasone Propionate: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Model pembelajaran mendalam TxGNN (skor ≥ 0.99) menghasilkan calon indikasi untuk Fluticasone Propionate, tetapi semua calon yang dapat dikesan sumbernya sudah pun merupakan kegunaan yang diketahui. Oleh itu, pada masa ini tiada indikasi baharu yang diramalkan untuk ubat ini. Kedua-dua kegunaan yang diketahui itu direkodkan dalam graf pengetahuan dan tidak ditemui sebagai indikasi yang diluluskan dalam data ini.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang dapat dikesan sumbernya ialah kegunaan yang diketahui) |
@@ -52,16 +53,19 @@ Model pembelajaran mendalam TxGNN (skor ≥ 0.99) menghasilkan calon indikasi un
 ## Kegunaan diketahui dalam calon model
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | Tiada | Tiada |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | Tiada | Tiada |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | Ekzema atopik (atopic eczema) |

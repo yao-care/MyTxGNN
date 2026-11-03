@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 246
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "CYCLOSERINE"
 predicted_indications: ["irritable bowel syndrome", "acne (disease)", "gastroparesis (disease)", "conjunctivitis", "insomnia (disease)", "pharyngitis", "nasal cavity disease"]
 description: "Cycloserine: indikasi baharu diramal Sindrom usus besar terangsang (irritable bowel syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -121,6 +121,7 @@ Indikasi lain yang diramalkan juga hanya berada pada Tahap Bukti L5 dengan keput
 | Insomnia | 0.9921 | Literatur menunjukkan cycloserine **menyebabkan** insomnia dan psikosis (laporan kes 2022); ini isyarat keselamatan, bukan isyarat penggunaan semula |
 | Faringitis | 0.9901 | Tiada bukti; profil keselamatan kurang sesuai untuk keadaan yang lazimnya sembuh sendiri |
 | Penyakit rongga hidung | 0.9901 | Satu laporan kes rinosporidiosis yang tidak menunjukkan keberkesanan cycloserine |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

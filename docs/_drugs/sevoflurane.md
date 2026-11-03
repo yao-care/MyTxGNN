@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 643
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "SEVOFLURANE"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "migraine disorder", "inclusion body myositis"]
 description: "Sevoflurane: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -123,6 +123,7 @@ Sepuluh indikasi teratas semuanya berstatus **Hold**. Tiada satu pun mempunyai p
 | 8 | Trikotilomania | 0.9933 | L5 | Hanya ramalan model |
 | 9 | Gangguan migrain | 0.9923 | L5 | Satu laporan pengalaman anestesia MRI kanak-kanak; mungkin artifak kata kunci |
 | 10 | Miositis jasad inklusi | 0.9909 | L4 | Laporan kes pertimbangan anestesia; risiko keselamatan pada penyakit otot |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

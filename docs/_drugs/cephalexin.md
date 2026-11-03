@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 208
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Cephalexin: kegunaan sedia ada dan status pasaran di Malaysia; buat masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Semua calon yang dihasilkan oleh model TxGNN untuk Cephalexin, yang boleh dikesan kepada sumber, ialah kegunaan sedia ada. Oleh itu, buat masa ini tiada indikasi baharu yang diramalkan. Satu kegunaan sedia ada direkodkan dalam graf pengetahuan, tanpa kelulusan yang ditemui.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dikesan ialah kegunaan sedia ada) |
@@ -52,16 +53,19 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Cephalexin, yang boleh dikesa
 ## Kegunaan sedia ada dalam calon model
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | Tiada | Tiada |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | Tiada | Tiada |
 
 ### Hubungan direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | Artritis bakteria (bacterial arthritis) |

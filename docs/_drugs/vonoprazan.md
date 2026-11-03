@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Vonoprazan"
 predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "achlorhydria", "cascade stomach", "Dieulafoy lesion", "pylorospasm", "gastric dilatation", "hemorrhagic duodenitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Vonoprazan: indikasi baharu diramal Perforasi ulser peptik (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam rekod lesen tempatan"
 ---
 
@@ -115,6 +115,7 @@ Pangkalan data interaksi hanya mencatatkan sasaran farmakologi ATP4A; tiada inte
 | Duodenitis berdarah | 0.9974 | Garis panduan dan RCT fasa 3 untuk ulser gastrik/duodenum (tidak langsung) | Bukti tidak langsung; berhati-hati terhadap isyarat keselamatan jangka panjang |
 | Akhlorhidria | 0.9986 | Tiada | Mekanisme bercanggah; kemungkinan artifak ramalan |
 | Perut lata (cascade stomach), lesi Dieulafoy, pilorospasma, dilatasi gastrik | 0.9985 | Tiada kajian yang relevan | Tiada peranan mekanistik yang jelas; literatur yang ada tidak berkaitan atau melaporkan kesan sampingan |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

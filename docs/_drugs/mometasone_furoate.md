@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 511
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Mometasone Furoate: kegunaan diketahui dan status pasaran di Malaysia; kini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Mometasone Furoate, yang boleh ditelusuri kepada sumber, ialah kegunaan yang sudah diketahui. Oleh itu, buat masa ini tiada indikasi baharu yang diramalkan untuk ubat ini. Dua kegunaan yang diketahui direkodkan dalam graf pengetahuan, dan tiada satu pun daripadanya ditandakan sebagai diluluskan dalam data ini.
 
 ## Gambaran ringkas
+
 | Item | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh ditelusuri ialah kegunaan sedia diketahui) |
@@ -52,16 +53,19 @@ Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Mometasone Fu
 ## Kegunaan diketahui dalam calon model
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | Tiada | Tiada |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | Tiada | Tiada |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | ekzema atopik (atopic eczema) |

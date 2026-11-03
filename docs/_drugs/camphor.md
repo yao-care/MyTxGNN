@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 189
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Camphor: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tiada data (tiada lesen NPRA direkodkan)"
 monitor_inn: "Camphor"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
@@ -126,6 +126,7 @@ Sembilan ramalan lain kekal pada tahap bukti L4–L5 dan disyorkan **Hold**:
 | Penyakit Raynaud | 0.9956 | L5 | Literatur mungkin kekeliruan nama |
 | Atrophoderma vermiculata | 0.9954 | L5 | Tiada ujian atau literatur |
 | Sindrom Tourette | 0.9946 | L5 | Tiada bukti; risiko sawan kamfor merupakan kebimbangan keselamatan untuk penggunaan sasaran CNS |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

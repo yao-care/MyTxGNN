@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 113
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Azacitidine: kegunaan diketahui dan status pasaran di Malaysia; buat masa ini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih tinggi untuk Azacitidine, jadi buat masa ini tiada indikasi baharu yang diramalkan. Kegunaan yang direkodkan untuk ubat ini disenaraikan di bawah. Ia bukan calon model.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (tiada calon model yang mencapai skor 0.99 atau lebih tinggi) |
@@ -52,6 +53,7 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 ## Kegunaan diketahui yang direkodkan untuk ubat ini
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | Leukemia mieloid akut (leukemia, myeloid, acute) | Lesen di negara lain |
@@ -59,11 +61,13 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 | Sindrom mielodisplastik (myelodysplastic syndromes) | Lesen di negara lain |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | Tiada | Tiada |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | Leukemia mieloblastik akut dengan pematangan (acute myeloblastic leukemia with maturation) |

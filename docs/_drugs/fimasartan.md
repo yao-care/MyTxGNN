@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 358
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "fimasartan"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease"]
 description: "Fimasartan: indikasi baharu diramal Pulmonary hypertension owing to lung disease and/or hypoxia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -116,6 +116,7 @@ Indikasi lain dalam senarai ramalan juga berada pada tahap **Hold**:
 | 2 | Hipertensi pulmonari dengan mekanisme multifaktor yang tidak jelas | 0.9920 | L5 | Tiada ujian klinikal atau literatur; etiologi tidak jelas melemahkan inferens mekanistik |
 | 3 | Hipertensi renovaskular malignan | 0.9916 | L5 | Sambungan indikasi hipertensi sedia ada; risiko penurunan fungsi buah pinggang akut pada stenosis arteri renal bilateral atau buah pinggang tunggal |
 | 4 | Penyakit buah pinggang hipertensif malignan | 0.9916 | L5 | Rasional renoprotektif munasabah tetapi tiada bukti khusus fimasartan; perlu menilai hiperkalemia dan kecederaan buah pinggang akut |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

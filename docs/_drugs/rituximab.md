@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 627
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Rituximab: kegunaan diketahui dan status pasaran di Malaysia; ketika ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Model TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih untuk Rituximab, jadi ketika ini tiada indikasi baharu yang diramalkan. Kegunaan yang direkodkan untuk ubat ini disenaraikan di bawah.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (tiada calon model dengan skor 0.99 atau lebih) |
@@ -52,6 +53,7 @@ Model TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih untuk 
 ## Kegunaan yang direkodkan untuk ubat ini
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | Leukemia limfositik kronik sel B (leukemia, lymphocytic, chronic, b-cell) | Lesen di negara lain |
@@ -62,11 +64,13 @@ Model TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih untuk 
 | Granulomatosis Wegener (wegener granulomatosis) | Lesen di negara lain |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | Tiada | Tiada |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | Leukemia limfoblastik akut (acute lymphoblastic/lymphocytic leukemia) |

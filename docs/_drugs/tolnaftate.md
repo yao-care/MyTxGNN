@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 688
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Tolnaftate: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Semua calon yang dihasilkan oleh model TxGNN untuk Tolnaftate ialah kegunaan yang sudah diketahui. Oleh itu, pada masa ini tiada indikasi baharu yang diramalkan. Tiga kegunaan yang diketahui itu direkodkan sebagai hubungan dalam graf pengetahuan, dan tiada yang disokong oleh lesen atau label yang ditemui.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejak ialah kegunaan yang diketahui) |
@@ -52,16 +53,19 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Tolnaftate ialah kegunaan yan
 ## Kegunaan diketahui dalam calon model
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | Tiada | Tiada |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori diluluskan |
 |------|------|
 | Tiada | Tiada |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | Dermatofitosis kawasan pangkal paha dan perianal (dermatophytosis of groin and perianal area) |

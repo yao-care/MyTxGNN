@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Mannitol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Mannitol: indikasi baharu diramal Sindrom antidiuresis tidak wajar nefrogenik (NSIAD) (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan"
 ---
 
@@ -111,6 +111,7 @@ Nota: dua lagi pendaftaran (Dapamac 5 dan Dapamac 10, mengandungi dapagliflozin)
 | 7 | Penyakit multiminicore sederhana dengan penglibatan tangan | 0.9971 | L5 | Tiada bukti. |
 | 8 | Diabetes insipidus nefrogenik | 0.9970 | L5 | Berpotensi memudaratkan; isyarat keselamatan. |
 | 9 | Miopati teras pusat | 0.9969 | L5 | Tiada bukti. |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

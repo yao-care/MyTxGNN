@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 668
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Tazobactam: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Tazobactam ialah kegunaan yang sudah diketahui. Oleh itu, pada masa ini tiada indikasi baharu yang diramalkan. Halaman ini hanya menyenaraikan kegunaan diketahui tersebut beserta sumbernya.
 
 ## Gambaran ringkas
+
 | Item | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejak ialah kegunaan diketahui) |
@@ -52,16 +53,19 @@ Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Tazobactam ia
 ## Kegunaan diketahui dalam calon model
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | Radang paru-paru (pneumonia) | lesen di negara lain; approved indication: hospital-acquired pneumonia (hap), including ventilator associated pneumonia (vap). consideration should be given to official guidance on the appropriate use of antibacterial agents |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | Jangkitan saluran kencing (urinary tract infection (disease)) | urinary tract infection |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | Tiada |

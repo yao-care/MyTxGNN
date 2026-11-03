@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 701
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Triazolam: kegunaan sedia ada dan status pasaran di Malaysia; pada masa ini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Triazolam, dan yang boleh dijejaki kepada sumber, ialah kegunaan sedia ada. Oleh itu, pada masa ini tiada indikasi baharu yang diramalkan untuk ubat ini. Satu kegunaan sedia ada dikenal pasti dalam kalangan calon model, iaitu dalam kategori penyakit yang sama dengan indikasi yang diluluskan.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejaki ialah kegunaan sedia ada) |
@@ -52,16 +53,19 @@ Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Triazolam, da
 ## Kegunaan sedia ada dalam kalangan calon model
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | Tiada | Tiada |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | Gangguan tidur, memulakan dan mengekalkan tidur (sleep disorder, initiating and maintaining sleep) | insomnia |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | Tiada |

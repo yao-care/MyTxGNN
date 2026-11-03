@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 448
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "LEDIPASVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "chronic hepatitis B virus infection", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Ledipasvir: indikasi baharu diramal Jangkitan virus hepatitis B (hepatitis B virus infection) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -147,6 +147,7 @@ Ramalan peringkat lebih rendah tidak disyorkan untuk diteruskan dan semuanya ber
 | Penyakit berjangkit HIV | 0.9970 | L4 | Isyarat datang daripada populasi jangkitan bersama HIV/HCV, bukan rawatan HIV |
 | Sindrom imunodefisiensi didapati feline | 0.9955 | L5 | Kemungkinan artifak ontologi; tiada bukti |
 | Jangkitan virus imunodefisiensi simian | 0.9955 | L5 | Mencerminkan kaitan HIV; tiada data sokongan |
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

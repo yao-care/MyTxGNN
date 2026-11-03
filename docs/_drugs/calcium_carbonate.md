@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 184
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Calcium Carbonate: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Model TxGNN tidak mempunyai sebarang calon dengan skor 0.99 atau lebih tinggi untuk Calcium Carbonate, jadi buat masa ini tiada indikasi baharu yang diramalkan. Kegunaan yang direkodkan untuk ubat ini disenaraikan di bawah.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (tiada calon model dengan skor 0.99 atau lebih tinggi) |
@@ -52,6 +53,7 @@ Model TxGNN tidak mempunyai sebarang calon dengan skor 0.99 atau lebih tinggi un
 ## Kegunaan diketahui yang direkodkan untuk ubat ini
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | anoreksia (anorexia) | lesen di negara lain |
@@ -63,11 +65,13 @@ Model TxGNN tidak mempunyai sebarang calon dengan skor 0.99 atau lebih tinggi un
 | muntah (vomiting) | lesen di negara lain |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | tiada | tiada |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | penyakit hiperkalsemia (hypercalcemia disease) |

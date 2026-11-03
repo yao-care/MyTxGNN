@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 402
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Hydrochlorothiazide: kegunaan diketahui dan status pasaran di Malaysia; kini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih tinggi untuk Hydrochlorothiazide, maka kini tiada indikasi baharu yang diramalkan. Kegunaan yang direkodkan untuk ubat ini disenaraikan di bawah. Senarai tersebut ialah rekod kegunaan ubat itu sendiri, bukan calon daripada model.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (tiada calon model dengan skor 0.99 atau lebih tinggi) |
@@ -52,6 +53,7 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 ## Kegunaan diketahui yang direkodkan untuk ubat ini
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | Kegagalan jantung kongestif (congestive heart failure) | Label rasmi (dikurasi) |
@@ -60,11 +62,13 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 | Hipertensi (hypertension) | Lesen di negara lain |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | Tiada | Tiada |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | Gangguan hipertensi (hypertensive disorder) |

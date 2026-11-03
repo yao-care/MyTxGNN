@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 166
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Brinzolamide: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 Semua calon yang dihasilkan oleh model TxGNN untuk Brinzolamide (skor ≥ 0.99) dan yang dapat dikesan sumbernya ialah kegunaan yang sudah diketahui. Oleh itu, buat masa ini tiada indikasi baharu yang diramalkan untuk ubat ini. Halaman ini menyenaraikan kegunaan yang diketahui dan status pasaran di Malaysia.
 
 ## Gambaran ringkas
+
 | Perkara | Kandungan |
 |------|------|
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang dapat dikesan sumbernya ialah kegunaan yang diketahui) |
@@ -52,16 +53,19 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Brinzolamide (skor ≥ 0.99) 
 ## Kegunaan diketahui dalam calon model
 
 ### Diluluskan (disokong oleh lesen atau label)
+
 | Indikasi | Sumber |
 |------|------|
 | glaukoma herediti primer (primary hereditary glaucoma) | lesen di negara lain; indikasi diluluskan: glaucoma |
 
 ### Berkaitan dengan indikasi yang diluluskan (kategori penyakit yang sama)
+
 | Indikasi | Kategori yang diluluskan |
 |------|------|
 | tiada | tiada |
 
 ### Hubungan yang direkodkan dalam graf pengetahuan (tiada kelulusan ditemui)
+
 | Indikasi |
 |------|
 | tiada |
