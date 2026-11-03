@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 401
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 monitor_inn: "HISTIDINE"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
 description: "Histidine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (gastroparesis (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -109,84 +109,6 @@ Sebagai maklumat tambahan, graf pengetahuan TxGNN (PrimeKG) mencatatkan kaitan p
 
 ---
 
-## Histidine: Daripada Tiada Indikasi Berdaftar kepada Gastroparesis
-{: .text-alpha }
-
-## Ringkasan Satu Ayat
-
-Histidine ialah asid amino dan prekursor histamin tanpa indikasi berdaftar di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **kolangitis sklerosan**, tetapi hanya terdapat **0 percubaan klinikal** dan **8 penerbitan** (kebanyakannya praklinikal) yang sebenarnya mencadangkan bahawa isyarat histamin yang meningkat adalah **memudaratkan**.
-
----
-
-## Gambaran Keseluruhan Pantas
-
-| Perkara | Kandungan |
-|------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar |
-| Indikasi Baharu yang Diramalkan | Kolangitis sklerosan |
-| Skor Ramalan TxGNN | 0.9927 |
-| Tahap Bukti | L4 |
-| Status Pasaran Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan yang Disyorkan | Hold (soalan penyelidikan) |
-
----
-
-## Mengapa Ramalan Ini Munasabah?
-
-Data terperinci mengenai mekanisme tindakan asal histidine tidak tersedia. Namun, histidine ialah prekursor histamin melalui L-histidine decarboxylase (HDC), dan kajian praklinikal mengaitkan histamin daripada sel mast dengan kolangitis sklerosan primer (PSC).
-
-Kajian tersebut menunjukkan bahawa:
-- Perencatan histamin daripada sel mast mengurangkan percambahan biliari dan fibrosis (PMID 27351144).
-- Isyarat cAMP/pERK melalui reseptor H2 mensasarkan kolangiosit besar (PMID 35799467).
-- Tikus tanpa HDC menunjukkan kerosakan biliari dan fibrosis yang lebih rendah (PMID 32054995).
-- Penyekatan reseptor H1/H2 mengurangkan kerosakan dan fibrosis pada tikus Mdr2-/- serta model kolangiokarsinoma manusia (PMID 29601088).
-
-Bukti ini menunjukkan bahawa peningkatan isyarat histamin adalah memudaratkan. Justeru, pemberian histidine (prekursor histamin) berkemungkinan **memburukkan** penyakit dan bukannya merawatnya. Hubungan ini tidak langsung dan berpotensi menjadi kontraindikasi, maka arah repurposing ini tidak disokong oleh bukti yang ada.
-
----
-
-## Bukti Percubaan Klinikal
-
-Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
-
----
-
-## Bukti Literatur
-
-| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
-|------|-----|------|------|---------|
-| [27351144](https://pubmed.ncbi.nlm.nih.gov/27351144/) | 2016 | Praklinikal (haiwan dan in vitro) | Hepatology | Perencatan histamin daripada sel mast mengurangkan percambahan biliari dan fibrosis pada tikus PSC Mdr2-/- |
-| [35799467](https://pubmed.ncbi.nlm.nih.gov/35799467/) | 2022 | Praklinikal (haiwan dan in vitro) | Hepatology Communications | Sel mast mensasarkan kolangiosit besar melalui isyarat cAMP/pERK1/2 yang diperantarai H2HR |
-| [32054995](https://pubmed.ncbi.nlm.nih.gov/32054995/) | 2020 | Praklinikal (tikus knockout) | Laboratory Investigation | Ketiadaan HDC/isyarat histamin memperbaiki kerosakan biliari dan fibrosis hati |
-| [29601088](https://pubmed.ncbi.nlm.nih.gov/29601088/) | 2018 | Praklinikal (haiwan dan sel manusia) | Hepatology | Penyekatan reseptor H1/H2 merencat kerosakan/fibrosis dan tumorigenesis kolangiokarsinoma |
-| [30325540](https://pubmed.ncbi.nlm.nih.gov/30325540/) | 2019 | Kohort (biopenanda) | Hepatology | Metabolit serum sebagai biopenanda diagnostik kolangiokarsinoma, HCC dan PSC |
-| [8020893](https://pubmed.ncbi.nlm.nih.gov/8020893/) | 1994 | Ulasan | Hepatology | Genetik molekul penyakit hati autoimun dan kaitan HLA |
-| [19691661](https://pubmed.ncbi.nlm.nih.gov/19691661/) | 2010 | Kohort (retrospektif) | Transplant International | Insiden dan faktor risiko lesi biliari jenis iskemia selepas pemindahan hati |
-
----
-
-## Pertimbangan Keselamatan
-
-Data keselamatan daripada sisipan pakej tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan.
-
-Graf pengetahuan TxGNN (PrimeKG) mencatatkan kaitan kontraindikasi yang berpotensi untuk histidine, antaranya penyakit buah pinggang (termasuk kegagalan buah pinggang kronik dan peringkat akhir), nefrolitiasis, nefrokalsinosis, hiperkalsemia, sarkoidosis, penyakit jantung dan kardiovaskular, keracunan digitalis, fibrilasi ventrikel, serta fenilketonuria dan gangguan metabolisme fenilalanina. Ini bukan teks label rasmi.
-
----
-
-## Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Hold (soalan penyelidikan)**
-
-**Rasional:**
-- Bukti sedia ada hanyalah praklinikal dan menunjukkan bahawa isyarat histamin yang meningkat memudaratkan kolangitis sklerosan, jadi histidine sebagai prekursor histamin berpotensi memburukkan penyakit.
-
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) histidine
-- Kajian praklinikal yang menilai secara langsung kesan histidine terhadap fibrosis biliari dan paras histamin
-- Sisipan pakej NPRA untuk amaran dan kontraindikasi
-- Penilaian keserasian laluan pentadbiran
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 346
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Evolocumab: indikasi baharu diramal Hemofilia simptomatik pada pembawa wanita (tahap bukti L5). Indikasi asal: Hiperkolesterolemia familial homozigot"
 monitor_inn: "EVOLOCUMAB"
 predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity"]
@@ -32,13 +32,6 @@ Tahap bukti: **L5** | Indikasi diramal: **6**
 ## Laporan penilaian ahli farmasi
 
 </div>
-
-## Evolocumab: Daripada Hiperkolesterolemia Familial Homozigot kepada Purpura Trombositopenik (dan Penunjuk Lain yang Diramalkan)
-{: .text-alpha }
-
-> Nota: Laporan ini menilai penunjuk baharu teratas yang diramalkan, iaitu **simptom hemofilia pada pembawa wanita**. Penunjuk lain turut diringkaskan di bahagian akhir.
-
-## Title Pembetulan
 
 ## Evolocumab: Daripada Hiperkolesterolemia Familial Homozigot kepada Hemofilia Simptomatik pada Pembawa Wanita
 {: .text-alpha }

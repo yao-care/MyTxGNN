@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 710
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "upadacitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
 description: "Upadacitinib: indikasi baharu diramal Sindrom displasia rizomelik-mikroftalmia kolobomatus (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodka…"
@@ -77,58 +77,6 @@ Skor TxGNN yang sangat tinggi (0.9961) hanyalah ramalan model. Kebolehpercayaan 
 
 ---
 
-## Upadacitinib: Daripada Artritis Reumatoid kepada Sindrom displasia rizomelik-mikroftalmia kolobomatus
-{: .text-alpha }
-
-## Ringkasan Satu Ayat
-
-Upadacitinib pada asalnya digunakan untuk merawat artritis reumatoid.
-Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom brakidaktili-sindaktili**,
-tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini.
-
-## Gambaran Ringkas
-
-| Perkara | Kandungan |
-|------|------|
-| Indikasi Asal | Artritis reumatoid |
-| Indikasi Baharu yang Diramalkan | Sindrom brakidaktili-sindaktili |
-| Skor Ramalan TxGNN | 0.9958 |
-| Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
-## Mengapa Ramalan Ini Munasabah?
-
-Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Sindrom brakidaktili-sindaktili ialah kecacatan anggota badan kongenital yang biasanya berpunca daripada faktor genetik dan perkembangan. Perencat JAK yang bersifat imunomodulasi tidak dijangka dapat membetulkan kecacatan struktur.
-
-Skor yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi.
-
-## Keselamatan
-
-Bahagian ini merangkumi kedua-dua indikasi yang diramalkan, kerana maklumat keselamatan adalah sama untuk ubat yang sama.
-
-### Interaksi Ubat
-
-Pertanyaan interaksi ubat telah selesai, dengan 100 interaksi direkodkan. Antara yang utama:
-
-- **Tahap Major:** kortikosteroid (hidrokortison, triamsinolon, deksametason, beklometason dipropionat, betametason, budesonid, prednison, prednisolon), klaritromisin, kobisistat, deferipron, iobenguane (I-131)
-- **Tahap Moderate:** aprepitan, simetidin, mikonazol, deferasirox
-- **Tahap Minor:** zink sulfat, zink asetat, zink glukonat
-
-Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pakej.
-
-## Keputusan Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Hold**
-
-**Justifikasi:**
-- Tiada ujian klinikal atau literatur, dan mekanisme kecacatan kongenital struktur tidak dijangka responsif kepada perencat JAK.
-
-**Untuk diteruskan, perkara berikut diperlukan:**
-- Data MOA dan sisipan pakej NPRA
-- Bukti praklinikal yang menyokong hubungan biologi
-- Pengesahan status pendaftaran dan keserasian laluan pentadbiran
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

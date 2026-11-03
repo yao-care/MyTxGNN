@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 730
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "ZANAMIVIR"
 predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
 description: "Zanamivir: indikasi baharu diramal Pyelonephritis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -111,81 +111,6 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 ---
 
-## Zanamivir: Daripada Influenza kepada Pyelonephritis
-{: .text-alpha }
-
-## Ringkasan Satu Ayat
-
-Zanamivir ialah perencat neuraminidase yang pada asalnya digunakan untuk merawat influenza.
-Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan metabolisme tirosin**,
-dengan **0 ujian klinikal** dan **3 penerbitan** yang diperoleh, tetapi tiada satu pun yang berkaitan secara langsung dengan penyakit ini.
-
----
-
-## Gambaran Keseluruhan Pantas
-
-| Perkara | Kandungan |
-|------|------|
-| Indikasi Asal | Influenza |
-| Indikasi Baharu yang Diramalkan | Gangguan metabolisme tirosin |
-| Skor Ramalan TxGNN | 0.9902 |
-| Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan |
-| Bilangan Pendaftaran | 0 |
-| Keputusan Disyorkan | Hold |
-
----
-
-## Mengapakah Ramalan Ini Munasabah?
-
-Data terperinci tentang mekanisme tindakan zanamivir tidak tersedia. Zanamivir ialah perencat neuraminidase influenza, tetapi tiada kaitan mekanistik yang boleh dipercayai antara perencatan neuraminidase dengan gangguan metabolisme tirosin (contohnya tirosinemia, alkaptonuria) dapat dikenal pasti.
-
-Tiga penerbitan yang diperoleh semuanya berkaitan perencat neuraminidase influenza dan tiada satu pun membincangkan metabolisme tirosin. Padanan literatur ini nampaknya disebabkan oleh artifak kata kunci atau tatatanda mutasi (contohnya H274Y, yang merujuk kepada penggantian histidin kepada tirosin), bukan kaitan penyakit. Ramalan ini hanya bersifat pengiraan, tanpa sokongan klinikal.
-
----
-
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
-
----
-
-## Bukti Literatur
-
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
-|------|-----|------|------|---------|
-| [23675925](https://pubmed.ncbi.nlm.nih.gov/23675925/) | 2013 | Ulasan | Infectious Disorders Drug Targets | Kemunculan rintangan oseltamivir dan pengurusan influenza; mutasi H275Y memberi rintangan (tidak berkaitan dengan metabolisme tirosin) |
-| [25727669](https://pubmed.ncbi.nlm.nih.gov/25727669/) | 2015 | Kaedah in vitro | Journal of Molecular Recognition | Ujian resonans plasmon permukaan untuk kepekaan neuraminidase jenis liar dan mutan H274Y terhadap zanamivir dan oseltamivir |
-| [21367898](https://pubmed.ncbi.nlm.nih.gov/21367898/) | 2011 | Praklinikal (virologi/haiwan) | Journal of Virology | Kesan mutasi N294S neuraminidase terhadap kepatogenan virus H5N1 |
-
----
-
-## Maklumat Pasaran Malaysia
-
-
----
-
-## Pertimbangan Keselamatan
-
-- **Interaksi Ubat** (8 interaksi direkodkan): insulin manusia (disedut, bertindak pantas) pada tahap **Sederhana**; clarithromycin, loratadine, montelukast, ketotifen, fexofenadine, ibuprofen dan diclofenac pada tahap tidak diketahui.
-- **Penyakit yang Dikaitkan dengan Kontraindikasi (berdasarkan graf pengetahuan, bukan teks label)**: epilepsi, COPD, penyakit bronkus, delirium.
-
-Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
-
----
-
-## Kesimpulan dan Langkah Seterusnya
-
-**Keputusan: Hold**
-
-**Rasional:**
-- Tiada kaitan mekanistik atau bukti klinikal yang menyokong; literatur yang diperoleh tidak relevan dan kemungkinan besar hasil padanan kata kunci.
-
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Data MOA yang lengkap
-- Bukti biologi yang menghubungkan perencatan neuraminidase dengan laluan metabolisme tirosin
-- Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA
-- Pertimbangan status pendaftaran di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
