@@ -14,6 +14,8 @@ permalink: /evidence-high/
 Priority candidates for clinical evaluation
 </p>
 
+Ubat yang manakah mempunyai bukti ujian bagi indikasi baharu yang diramalkan, dan berapa banyak ujian berdaftar dipetik? Lihat [Ubat di Malaysia dengan bukti ujian klinikal untuk indikasi baharu]({{ '/clinical-trial-evidence/' | relative_url }}).
+
 ---
 
 ## Evidence Standards
