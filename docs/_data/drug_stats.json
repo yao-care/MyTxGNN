@@ -3,10 +3,10 @@
   "total_drugs": 606,
   "level_counts": {
     "L1": 16,
-    "L2": 23,
+    "L2": 24,
     "L3": 18,
-    "L4": 29,
-    "L5": 491
+    "L4": 30,
+    "L5": 489
   },
   "all_drugs": [
     {
@@ -2196,7 +2196,7 @@
     {
       "name": "Mefenamic Acid",
       "slug": "mefenamic_acid",
-      "level": "L5",
+      "level": "L2",
       "indication_count": 6
     },
     {
@@ -2838,7 +2838,7 @@
     {
       "name": "Progesterone",
       "slug": "progesterone",
-      "level": "L5",
+      "level": "L4",
       "indication_count": 6
     },
     {
