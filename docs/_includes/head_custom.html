@@ -219,7 +219,7 @@ window.TXGNN_ANALYTICS = {
         "@id": "https://www.yao.care/#organization"
       },
       "datePublished": "2026-02-19",
-      "dateModified": "2026-02-19",
+      "dateModified": "{{ page.last_modified_at | default: '2026-02-19' | date: '%Y-%m-%d' }}",
       "mainEntityOfPage": "https://mytxgnn.yao.care/",
       "isAccessibleForFree": true
     },
@@ -252,7 +252,7 @@ window.TXGNN_ANALYTICS = {
       "description": "Tentang laporan bukti penggunaan semula ubat MyTxGNN: gambaran projek, sumber data dan cara memetik",
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-19",
-      "dateModified": "2026-02-19",
+      "dateModified": "{{ page.last_modified_at | default: '2026-02-19' | date: '%Y-%m-%d' }}",
       "mainEntity": {
         "@id": "https://www.yao.care/#organization"
       }
@@ -471,7 +471,7 @@ window.TXGNN_ANALYTICS = {
       "description": {{ page.description | default: page.title | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-21",
-      "dateModified": "2026-02-21",
+      "dateModified": "{{ page.last_modified_at | default: '2026-02-21' | date: '%Y-%m-%d' }}",
       "author": {
         "@id": "https://www.yao.care/#organization"
       },
