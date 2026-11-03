@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-03T07:32:56.102492",
+  "fetched": "2026-11-03T15:48:04.626171",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,38 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Protecting A Generation: Malaysia Must Rethink Its Nicotine Policy — Dr Devadas Pathiyil Ramankutty",
+      "url": "https://codeblue.galencentre.org/2026/11/protecting-a-generation-malaysia-must-rethink-its-nicotine-policy-dr-devadas-pathiyil-ramankutty/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-03T08:51:08",
+      "summary": "Malaysia's reported move towards exempting liquid nicotine from the Poisons List raises fundamental questions about public health priorities, regulatory consistency, and our responsibility to protect the next generation from nicotine addiction. The post Protecting A Generation: Malaysia Must Rethink Its Nicotine Policy — Dr Devadas Pathiyil Ramankutty appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Nicotine Exemption: A Step Backwards For Public Health, Children At Risk Of Addiction — AMAM & FPMPAM",
+      "url": "https://codeblue.galencentre.org/2026/11/nicotine-exemption-a-step-backwards-for-public-health-children-at-risk-of-addiction-amam-fpmpam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-03T08:04:52",
+      "summary": "AMAM and FPMPAM warn that the proposed nicotine exemption risks repeating the unlawful 2023 exemption struck down by the High Court, urging Putrajaya to defer a new order until it addresses the court's findings. The post Nicotine Exemption: A Step Backwards For Public Health, Children At Risk Of Addiction — AMAM & FPMPAM appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Nicotine Exemption: A Betrayal Of Public Health Trust Malaysia Must Not Repeat — MyWatch",
+      "url": "https://codeblue.galencentre.org/2026/11/nicotine-exemption-a-betrayal-of-public-health-trust-malaysia-must-not-repeat-mywatch/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-03T07:52:32",
+      "summary": "MyWatch condemns Health Minister Dzulkefly Ahmad’s reported move to exempt liquid nicotine from the Poisons List, calling it a betrayal of public health. The group urges him to halt the proposal and explain the Poisons Board’s endorsement. The post Nicotine Exemption: A Betrayal Of Public Health Trust Malaysia Must Not Repeat — MyWatch appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Government Must Explain Apparent U-Turn On Vape Ban — MMA",
       "url": "https://codeblue.galencentre.org/2026/11/government-must-explain-apparent-u-turn-on-vape-ban-mma/",
@@ -85,62 +115,11 @@
       ]
     },
     {
-      "title": "Make Lung Cancer A Notifiable Disease With Mandatory Reporting — LCNM",
-      "url": "https://codeblue.galencentre.org/2026/11/make-lung-cancer-a-notifiable-disease-with-mandatory-reporting-lcnm/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-02T03:00:00",
-      "summary": "Lung Cancer Network Malaysia urges the Health Ministry to require all public and private health care facilities to report new lung cancer cases, including clinical staging, to improve national cancer data and health care planning. The post Make Lung Cancer A Notifiable Disease With Mandatory Reporting — LCNM appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "disease",
-        "cancer",
-        "clinical"
-      ]
-    },
-    {
-      "title": "Poisons Board Endorses Proposed Exemption Of Liquid Nicotine",
-      "url": "https://codeblue.galencentre.org/2026/11/poisons-board-endorses-proposed-exemption-of-liquid-nicotine/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-02T02:00:00",
-      "summary": "The Poisons Board has approved Health Minister Dzulkefly Ahmad’s proposal to exempt liquid nicotine from the Poisons List, paving the way to once again legalise nicotine vape via a minister’s order, even as Dr Dzul previously claimed he wanted to ban vape. The post Poisons Board Endorses Proposed Exemption Of Liquid Nicotine appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Malaysian Anaesthesiologist First Asian To Lead Global Pain Association",
-      "url": "https://codeblue.galencentre.org/2026/10/malaysian-anaesthesiologist-first-asian-to-lead-global-pain-association/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-10-30T07:11:03",
-      "summary": "Dr Mary Cardosa becomes the first Asian president of the International Association for the Study of Pain (IASP) in its more than 50-year history, after decades of advancing pain management in Malaysia and Southeast Asia. The post Malaysian Anaesthesiologist First Asian To Lead Global Pain Association appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Anwar: Malaysia needs better tech to counter increasingly sophisticated drug smuggling",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/03/anwar-malaysia-needs-better-tech-to-counter-increasingly-sophisticated-drug-smuggling/241795",
+      "title": "Fashion Valet trial: Investment funds cannot be used to pay dividends, court told",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/03/fashion-valet-trial-investment-funds-cannot-be-used-to-pay-dividends-court-told/241854",
       "source": "Malay Mail",
-      "published": "2026-11-03T05:52:55",
-      "summary": "KUALA LUMPUR, Nov 3 — The increasingly sophisticated methods used in drug smuggling require more advanced det...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Saravanan’s RM1.1m corruption trial set to begin March 2027",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/03/saravanans-rm11m-corruption-trial-set-to-begin-march-2027/241786",
-      "source": "Malay Mail",
-      "published": "2026-11-03T04:52:14",
-      "summary": "KUALA LUMPUR, Nov 3 — The Sessions Court today set trial dates between March and August next year for former human...",
-      "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Road ban stays on e-scooters, but trial findings will shape upcoming laws, says MOT",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/03/road-ban-stays-on-e-scooters-but-trial-findings-will-shape-upcoming-laws-says-mot/241764",
-      "source": "Malay Mail",
-      "published": "2026-11-03T02:06:29",
-      "summary": "KUALA LUMPUR, Nov 3 — Micromobility vehicles such as e-scooters remain strictly prohibited on all public roads for...",
+      "published": "2026-11-03T10:37:27",
+      "summary": "KUALA LUMPUR, Nov 3 — The Sessions Court hearing the case involving Fashion Valet Sdn Bhd (Fashion Valet) fo...",
       "keywords_matched": [
         "trial"
       ]
