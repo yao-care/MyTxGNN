@@ -3,14 +3,14 @@ layout: default
 title: Laporan Ubat
 nav_order: 4
 has_children: true
-description: "Layari 799 laporan pengesahan penggunaan semula ubat mengikut tahap bukti L1-L5."
+description: "Layari laporan pengesahan penggunaan semula ubat mengikut tahap bukti L1-L5."
 permalink: /laporan-ubat/
 ---
 
 # Laporan Ubat
 
 <p style="font-size: 1.1rem; color: #666; margin-bottom: 1.5rem;">
-Layari <strong>799</strong> laporan pengesahan penggunaan semula ubat mengikut tahap bukti
+Layari <strong>{{ site.data.drug_stats.total_drugs }}</strong> laporan pengesahan penggunaan semula ubat mengikut tahap bukti
 </p>
 
 <style>
@@ -116,11 +116,14 @@ Layari <strong>799</strong> laporan pengesahan penggunaan semula ubat mengikut t
 .drug-card.low .drug-card-badge { background: #F5F5F5; color: #757575; }
 </style>
 
+{% comment %}分布數字由 docs/_data/drug_stats.json 計算（scripts/generate_drug_stats.py），不要手寫；scripts/check_seo_docs.py 會擋寫死的數字。{% endcomment %}
+{% assign lc = site.data.drug_stats.level_counts %}{% assign nh = lc.L1 | plus: lc.L2 %}{% assign nm = lc.L3 %}{% assign nl = lc.L4 | plus: lc.L5 %}{% assign nt = nh | plus: nm | plus: nl %}
+{% assign ph = nh | times: 100.0 | divided_by: nt | round: 1 %}{% assign pm = nm | times: 100.0 | divided_by: nt | round: 1 %}{% assign pl = nl | times: 100.0 | divided_by: nt | round: 1 %}
 <div class="drug-dist-container">
   <div class="drug-dist-bar">
-    <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: 14%;" title="Bukti Tinggi: L1-L2">L1-L2</a>
-    <a href="{{ '/evidence-medium' | relative_url }}" class="dist-medium" style="width: 5%;" title="Bukti Sederhana: L3">L3</a>
-    <a href="{{ '/evidence-low' | relative_url }}" class="dist-low" style="width: 81%;" title="Ramalan Model Sahaja: L4-L5">L4-L5</a>
+    <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: {{ ph }}%;" title="Bukti Tinggi: L1-L2">L1-L2</a>
+    <a href="{{ '/evidence-medium' | relative_url }}" class="dist-medium" style="width: {{ pm }}%;" title="Bukti Sederhana: L3">L3</a>
+    <a href="{{ '/evidence-low' | relative_url }}" class="dist-low" style="width: {{ pl }}%;" title="Ramalan Model Sahaja: L4-L5">L4-L5</a>
   </div>
 
   <div class="drug-cards">
