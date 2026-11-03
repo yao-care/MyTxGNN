@@ -144,6 +144,11 @@ National Pharmaceutical Regulatory Agency (NPRA) of Malaysia, responsible for dr
 
 [data.gov.my - Pharmaceutical Products](https://data.gov.my/data-catalogue/pharmaceutical_products)
 
+- Pendaftaran semasa: [pharmaceutical_products.csv](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv)
+- Pendaftaran yang dibatalkan: [pharmaceutical_products_cancelled.csv](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv)
+
+Status pendaftaran dikemas kini secara automatik setiap hari Isnin daripada kedua-dua fail ini.
+
 ### Collected Fields
 
 | Field | Description |

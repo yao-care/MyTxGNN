@@ -47,7 +47,7 @@ ClinicalTrials, serta integrasi rekod kesihatan elektronik SMART on FHIR.
 | Diselenggara Oleh | 藥提醒科技有限公司 (yao.care) |
 | Asas Model | Harvard TxGNN (Zitnik Lab) |
 | Sumber Data | NPRA Malaysia, data.gov.my |
-| Kemas Kini Terakhir | Mac 2026 |
+| Kemas Kini Terakhir | {{ site.data.drug_stats.generated }} |
 
 ### Rujukan Akademik
 
