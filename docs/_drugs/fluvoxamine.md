@@ -4,17 +4,17 @@ title: Fluvoxamine
 parent: Low Evidence (L4-L5)
 nav_order: 373
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Fluvoxamine"
-predicted_indications: ["schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder", "endogenous depression"]
-last_modified_at: 2026-10-28
+predicted_indications: ["schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
+last_modified_at: 2026-11-03
 description: "Fluvoxamine: indikasi baharu diramal Schizoid personality disorder (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Fluvoxamine
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---

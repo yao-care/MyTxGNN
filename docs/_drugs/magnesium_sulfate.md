@@ -4,17 +4,17 @@ title: Magnesium Sulfate
 parent: Low Evidence (L4-L5)
 nav_order: 483
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "MAGNESIUM SULFATE"
-predicted_indications: ["toxemia of pregnancy", "thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
-last_modified_at: 2026-10-28
-description: "Magnesium Sulfate: indikasi baharu diramal Toxemia of pregnancy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
+last_modified_at: 2026-11-03
+description: "Magnesium Sulfate: indikasi baharu diramal Thrombotic disease (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Magnesium Sulfate
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **9** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-## Magnesium Sulfate: Toxemia of pregnancy
+## Magnesium Sulfate: Thrombotic disease
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,8 +47,8 @@ Magnesium sulfate direkodkan dalam pangkalan pengetahuan TxGNN (PrimeKG) untuk s
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu Diramal | Toxemia of pregnancy |
-| Skor Ramalan TxGNN | 1.0000 |
+| Indikasi Baharu Diramal | Thrombotic disease |
+| Skor Ramalan TxGNN | 0.9990 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
 | Bilangan Pendaftaran | 12 (sah: 12) |

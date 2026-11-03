@@ -4,17 +4,17 @@ title: Mefenamic Acid
 parent: High Evidence (L1-L2)
 nav_order: 489
 evidence_level: L2
-indication_count: 7
-last_modified_at: 2026-10-30
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "MEFENAMIC ACID"
-predicted_indications: ["rheumatoid arthritis", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
-description: "Mefenamic Acid: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
+description: "Mefenamic Acid: indikasi baharu diramal Headache disorder (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Mefenamic Acid
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **7** 
+Tahap bukti: **L2** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L2** | Indikasi diramal: **7**
 
 </div>
 
-## Mefenamic Acid: Artritis reumatoid (rheumatoid arthritis)
+## Mefenamic Acid: Headache disorder
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,8 +47,8 @@ Asid mefenamik ialah ubat antiradang bukan steroid (NSAID) yang digunakan untuk 
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Artritis reumatoid (rheumatoid arthritis) |
-| Skor Ramalan TxGNN | 0.9973 |
+| Indikasi Baharu yang Diramalkan | Headache disorder |
+| Skor Ramalan TxGNN | 0.9964 |
 | Tahap Bukti | L2 (berdasarkan RCT lama daripada literatur, tanpa percubaan berdaftar) |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 36) |
 | Bilangan Pendaftaran | 36 (sah: 36) |
@@ -60,7 +60,7 @@ Asid mefenamik ialah ubat antiradang bukan steroid (NSAID) yang digunakan untuk 
 
 Asid mefenamik ialah perencat COX-1/COX-2 yang mengurangkan sintesis prostaglandin. Prostaglandin berperanan dalam keradangan dan kesakitan pada artritis reumatoid. Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan. Namun mekanisme kelas NSAID ini sepadan dengan simptom utama penyakit tersebut, iaitu sendi sakit, bengkak dan kaku pada waktu pagi.
 
-Beberapa kajian klinikal lama (1967–1979) membandingkan asid mefenamik secara langsung dengan NSAID lain dalam pesakit artritis reumatoid. Ubat ini hanya melegakan simptom dan tidak mengubah perjalanan penyakit (*disease-modifying*). NSAID yang lebih diterima baik dan DMARD kini menjadi rawatan standard. Skor TxGNN yang sangat tinggi (0.9973) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan antara penyakit berkaitan yang dipelajari oleh model, bukan bukti biologi; skor ini sebahagian besarnya mencerminkan aktiviti kelas NSAID yang sudah diketahui, dan bukan penemuan baharu yang khusus.
+Beberapa kajian klinikal lama (1967–1979) membandingkan asid mefenamik secara langsung dengan NSAID lain dalam pesakit artritis reumatoid. Ubat ini hanya melegakan simptom dan tidak mengubah perjalanan penyakit (*disease-modifying*). NSAID yang lebih diterima baik dan DMARD kini menjadi rawatan standard.
 
 ---
 

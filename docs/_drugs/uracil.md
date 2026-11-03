@@ -4,17 +4,17 @@ title: Uracil
 parent: Low Evidence (L4-L5)
 nav_order: 711
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-28
+indication_count: 7
+last_modified_at: 2026-11-03
 monitor_inn: "Uracil"
-predicted_indications: ["colonic neoplasm", "gastric carcinoma", "rectosigmoid junction neoplasm", "lipoma of colon", "colonic lymphangioma", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "cavernous hemangioma of colon", "cecal disease", "colon leiomyoma"]
-description: "Uracil: indikasi baharu diramal Neoplasma kolon (colonic neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["lipoma of colon", "colonic lymphangioma", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "cavernous hemangioma of colon", "cecal disease", "colon leiomyoma"]
+description: "Uracil: indikasi baharu diramal Lipoma of colon (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Uracil
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Uracil: Neoplasma kolon (colonic neoplasm)
+## Uracil: Lipoma of colon
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -48,8 +48,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma kolon**, tetapi buk
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Neoplasma kolon (colonic neoplasm) |
-| Skor Ramalan TxGNN | 0.9950 |
+| Indikasi Baharu yang Diramalkan | Lipoma of colon |
+| Skor Ramalan TxGNN | 0.9936 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
 | Bilangan Pendaftaran | 5 (sah: 5) |
@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma kolon**, tetapi buk
 
 Data terperinci tentang mekanisme tindakan urasil tidak tersedia dalam data yang dikompilasi. Berdasarkan maklumat sedia ada, urasil ialah komponen gabungan UFT (tegafur-urasil). Dalam gabungan ini, tegafur ialah prodrug 5-fluorourasil (5-FU), manakala urasil menghalang enzim dihidropirimidina dehidrogenase (DPD) secara kompetitif, lalu meningkatkan pendedahan kepada 5-FU. Urasil sendiri tidak menunjukkan aktiviti antikanser yang terbukti.
 
-Hubungan dengan kanser kolon terutamanya bersifat tidak langsung: melalui metabolisme pirimidina, pembaikan DNA (timina DNA glikosilase, pembaikan eksisi bes yang dimulakan oleh urasil) dan salah-penyatuan urasil yang berkaitan dengan folat/B12. Skor TxGNN yang tinggi (0.995) berkemungkinan mencerminkan hubungan metabolisme pirimidina ini, bukan aktiviti terapeutik bebas urasil.
+Hubungan dengan kanser kolon terutamanya bersifat tidak langsung: melalui metabolisme pirimidina, pembaikan DNA (timina DNA glikosilase, pembaikan eksisi bes yang dimulakan oleh urasil) dan salah-penyatuan urasil yang berkaitan dengan folat/B12.
 
 Oleh itu, ramalan ini lebih tepat difahami sebagai sokongan kepada gabungan UFT dalam kanser kolorektal, dan bukan bukti bahawa urasil sebagai agen tunggal berkesan.
 

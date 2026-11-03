@@ -4,17 +4,17 @@ title: Ferrous Gluconate
 parent: Low Evidence (L4-L5)
 nav_order: 356
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-28
+indication_count: 4
+last_modified_at: 2026-11-03
 monitor_inn: "FERROUS GLUCONATE"
-predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder"]
-description: "Ferrous Gluconate: indikasi baharu diramal Plummer-Vinson syndrome (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder"]
+description: "Ferrous Gluconate: indikasi baharu diramal Vitamin B12- and folate-independent constitutional megaloblastic anemia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ferrous Gluconate
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Ferrous Gluconate: Plummer-Vinson syndrome
+## Ferrous Gluconate: Vitamin B12- and folate-independent constitutional megaloblastic anemia
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -49,7 +49,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Plummer-Vinson syndrome |
+| Indikasi Baharu yang Diramalkan | Vitamin B12- and folate-independent constitutional megaloblastic anemia |
 | Skor Ramalan TxGNN | 0.9994 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |

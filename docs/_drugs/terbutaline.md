@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Terbutaline
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 673
-evidence_level: L1
-indication_count: 3
-last_modified_at: 2026-10-28
+evidence_level: L5
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "terbutaline"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
-description: "Terbutaline: indikasi baharu diramal Penyakit paru obstruktif (obstructive lung disease) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
+description: "Terbutaline: indikasi baharu diramal Respiratory malformation (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Terbutaline
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **3** 
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **3**
 
 </div>
 
-## Terbutaline: Penyakit paru obstruktif (obstructive lung disease)
+## Terbutaline: Respiratory malformation
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -49,9 +49,9 @@ dengan **14 ujian klinikal** dan **20 penerbitan** dalam data yang disusun untuk
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Penyakit paru obstruktif (obstructive lung disease) |
-| Skor Ramalan TxGNN | 0.9996 |
-| Tahap Bukti | L1 |
+| Indikasi Baharu yang Diramalkan | Respiratory malformation |
+| Skor Ramalan TxGNN | 0.9952 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
 | Bilangan Pendaftaran | 15 (sah: 15) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tegafur
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 669
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 8
 monitor_inn: "Tegafur"
-predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "rectosigmoid junction neoplasm", "colonic lymphangioma", "cavernous hemangioma of colon"]
-last_modified_at: 2026-10-28
-description: "Tegafur: indikasi baharu diramal Neoplasma kolon (colonic neoplasm) (tahap bukti L1). Indikasi asal: Tidak dinyatakan dalam teks pendaftaran tempatan"
+predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "colonic lymphangioma", "cavernous hemangioma of colon"]
+last_modified_at: 2026-11-03
+description: "Tegafur: indikasi baharu diramal Cecum villous adenoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Tegafur
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 </div>
 
-## Tegafur: Daripada Indikasi Asal (Tidak Dinyatakan dalam Data Tempatan) kepada Neoplasma Kolon
+## Tegafur: Cecum villous adenoma
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,10 +46,10 @@ Tegafur ialah prodrug 5-fluorourasil (5-FU) oral yang didaftarkan di Malaysia ha
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tidak dinyatakan dalam teks pendaftaran tempatan |
-| Indikasi Baharu yang Diramalkan | Neoplasma kolon (colonic neoplasm) |
-| Skor Ramalan TxGNN | 0.9990 |
-| Tahap Bukti | L1 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Cecum villous adenoma |
+| Skor Ramalan TxGNN | 0.9986 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
 | Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |

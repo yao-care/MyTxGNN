@@ -4,17 +4,17 @@ title: Aripiprazole
 parent: Low Evidence (L4-L5)
 nav_order: 89
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "Aripiprazole"
-predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
-last_modified_at: 2026-10-28
-description: "Aripiprazole: indikasi baharu diramal Gangguan afektif major (major affective disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+last_modified_at: 2026-11-03
+description: "Aripiprazole: indikasi baharu diramal Gaze palsy, familial horizontal, with progressive scoliosis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Aripiprazole
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **9** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-## Aripiprazole: agonis separa D2/5-HT1A dan antagonis 5-HT2A → Gangguan afektif major (major affective disorder)
+## Aripiprazole: Gaze palsy, familial horizontal, with progressive scoliosis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -45,8 +45,8 @@ Aripiprazole ialah ubat antipsikotik atipikal yang bertindak sebagai agonis sepa
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Gangguan afektif major (major affective disorder) |
-| Skor Ramalan TxGNN | 0,9962 |
+| Indikasi Baharu yang Diramalkan | Gaze palsy, familial horizontal, with progressive scoliosis |
+| Skor Ramalan TxGNN | 0.9960 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 26 daripada 26) |
 | Bilangan Pendaftaran | 26 (sah: 26) |

@@ -4,17 +4,17 @@ title: Cefuroxime
 parent: Low Evidence (L4-L5)
 nav_order: 206
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "Cefuroxime"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "urinary tract infection (disease)", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-10-28
-description: "Cefuroxime: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (tahap bukti L5). Indikasi asal: Tiada teks indikasi dalam rekod pendaftaran tempatan"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
+last_modified_at: 2026-11-03
+description: "Cefuroxime: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Cefuroxime
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **9** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 </div>
 
-## Cefuroxime: Daripada Antibiotik Sefalosporin kepada Sindrom Hiperkelikatan Poliklonal
+## Cefuroxime: Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,8 +47,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom hiperkelikatan polikl
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada teks indikasi dalam rekod pendaftaran tempatan; ubat ini dikelaskan sebagai antibiotik sefalosporin |
-| Indikasi Baharu yang Diramalkan | Sindrom hiperkelikatan poliklonal |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) |
 | Skor Ramalan TxGNN | 0.9976 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 39 daripada 39) |
@@ -116,7 +116,7 @@ Ramalan ini tidak mempunyai ujian klinikal atau literatur sokongan dan tiada mek
 - Teks indikasi yang diluluskan dan amaran keselamatan daripada sisipan pek yang didaftarkan di NPRA
 - Sekurang-kurangnya satu kajian yang mengkaji sindrom hiperkelikatan poliklonal secara langsung
 
-**Nota tambahan:** Antara ramalan lain dalam senarai yang sama, jangkitan saluran kencing mempunyai bukti paling banyak (tahap L3), termasuk satu kajian bukan berfasa yang selesai tentang rawatan cefuroxime bagi pielonefritis (NCT04616352). Namun, ia hanyalah hubungan yang direkodkan dalam graf pengetahuan dan bukan indikasi yang diluluskan berdasarkan data pendaftaran yang dikumpulkan. Ia perlu dinilai dalam laporan berasingan.
+Namun, ia hanyalah hubungan yang direkodkan dalam graf pengetahuan dan bukan indikasi yang diluluskan berdasarkan data pendaftaran yang dikumpulkan. Ia perlu dinilai dalam laporan berasingan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

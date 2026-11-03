@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Gimeracil
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 385
-evidence_level: L2
-indication_count: 7
+evidence_level: L5
+indication_count: 6
 monitor_inn: "Gimeracil"
-predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
-last_modified_at: 2026-10-28
-description: "Gimeracil: indikasi baharu diramal Neoplasma kolon (tahap bukti L2). Indikasi asal: Tiada teks indikasi lulus dalam rekod pelesenan tempatan yang dikumpu…"
+predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
+last_modified_at: 2026-11-03
+description: "Gimeracil: indikasi baharu diramal Cecum villous adenoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Gimeracil
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **7** 
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L2** | Indikasi diramal: **7**
 
 </div>
 
-## Gimeracil: Daripada Komponen Gabungan S-1 kepada Neoplasma Kolon
+## Gimeracil: Cecum villous adenoma
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,10 +46,10 @@ Gimeracil ialah komponen perencat DPD dalam gabungan S-1 (tegafur/gimeracil/oter
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada teks indikasi lulus dalam rekod pelesenan tempatan yang dikumpulkan |
-| Indikasi Baharu yang Diramalkan | Neoplasma kolon |
-| Skor Ramalan TxGNN | 0.9988 |
-| Tahap Bukti | L2 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Cecum villous adenoma |
+| Skor Ramalan TxGNN | 0.9982 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Teruskan dengan Langkah Berjaga-jaga |

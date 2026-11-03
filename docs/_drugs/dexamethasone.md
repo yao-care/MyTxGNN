@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dexamethasone
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 269
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 monitor_inn: "Dexamethasone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-31
-description: "Dexamethasone: indikasi baharu diramal Alopecia areata (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
+last_modified_at: 2026-11-03
+description: "Dexamethasone: indikasi baharu diramal Alopecia mucinosa (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Dexamethasone
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-## Dexamethasone: Alopecia areata
+## Dexamethasone: Alopecia mucinosa
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -47,9 +47,9 @@ Dexamethasone ialah kortikosteroid ssintetik berkesan tinggi. Model TxGNN (pembe
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Alopecia areata |
+| Indikasi Baharu yang Diramalkan | Alopecia mucinosa |
 | Skor Ramalan TxGNN | 0.9999 |
-| Tahap Bukti | L3 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 38) |
 | Bilangan Pendaftaran | 38 (sah: 36) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
@@ -120,7 +120,7 @@ Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi rasmi, kerana mak
 **Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
 **Rasional:**
-- Terdapat satu RCT kecil berlabel terbuka (fasa tidak disahkan), beberapa kajian kohort dan satu meta-analisis rangkaian yang terus mengkaji alopecia areata. Namun tiada ujian klinikal berdaftar, dan reka bentuk serta saiz kajian mengehadkan kekuatan bukti, jadi tahap bukti ialah L3.
+- Namun tiada ujian klinikal berdaftar, dan reka bentuk serta saiz kajian mengehadkan kekuatan bukti, jadi tahap bukti ialah L3.
 - Mekanisme imunosupresif munasabah dan produk dexamethasone sudah dipasarkan di Malaysia. Risiko kesan sampingan steroid dan kambuhan selepas penghentian memerlukan langkah kawalan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

@@ -4,17 +4,17 @@ title: Triptorelin
 parent: Low Evidence (L4-L5)
 nav_order: 704
 evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-28
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Triptorelin"
-predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "familial male-limited precocious puberty", "precocious puberty", "familial isolated trichomegaly", "aromatase excess syndrome"]
-description: "Triptorelin: indikasi baharu diramal Hipertrikosis (tahap bukti L4)."
+predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "familial male-limited precocious puberty", "familial isolated trichomegaly", "aromatase excess syndrome"]
+description: "Triptorelin: indikasi baharu diramal Hipertrikosis (hypertrichosis (disease)) (tahap bukti L4)."
 ---
 
 # Triptorelin
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Triptorelin: Daripada Agonis GnRH kepada Hipertrikosis
+## Triptorelin: Hipertrikosis (hypertrichosis (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -44,7 +44,7 @@ Triptorelin ialah agonis hormon pelepas gonadotropin (GnRH) yang menekan hormon 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Baharu yang Diramalkan | Hipertrikosis |
+| Indikasi Baharu yang Diramalkan | Hipertrikosis (hypertrichosis (disease)) |
 | Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L4 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
@@ -87,7 +87,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Sisipan pakej dan maklumat pendaftaran NPRA (amaran dan kontraindikasi), kerana rekod pendaftaran tempatan tidak ditemui
 - Bukti klinikal langsung bahawa triptorelin memberi manfaat untuk hipertrikosis
 
-**Nota tambahan mengenai ramalan lain:** Antara 10 ramalan teratas, **pubertas pramatang (precocious puberty)** mempunyai bukti terkuat (tahap L1, keputusan sistem: Proceed with Guardrails). Terdapat 5 ujian Fasa 3 yang selesai (NCT04736602, NCT00564850, NCT00909844, NCT01467882, NCT05029622) dan beberapa penerbitan, termasuk laporan Fasa 3 (PMID 39412628). Ini ialah kegunaan yang sudah diluluskan di banyak wilayah, jadi ia lebih tepat dianggap penggunaan sedia ada daripada pengalihan guna sebenar. Rekod pasaran dan indikasi asal yang kosong dalam data ini kelihatan seperti jurang data. Disyorkan penilaian berasingan untuk indikasi ini, dengan jaga-jaga: ujian bersifat label terbuka dan tanpa pembanding, hasil jangka panjang (ketinggian akhir, ketumpatan tulang, fungsi pembiakan) perlu disahkan, status kawal selia setiap bidang kuasa perlu disemak, dan bentuk periferi pubertas pramatang perlu disingkirkan sebelum penggunaan.
+Terdapat 5 ujian Fasa 3 yang selesai (NCT04736602, NCT00564850, NCT00909844, NCT01467882, NCT05029622) dan beberapa penerbitan, termasuk laporan Fasa 3 (PMID 39412628). Ini ialah kegunaan yang sudah diluluskan di banyak wilayah, jadi ia lebih tepat dianggap penggunaan sedia ada daripada pengalihan guna sebenar. Rekod pasaran dan indikasi asal yang kosong dalam data ini kelihatan seperti jurang data. Disyorkan penilaian berasingan untuk indikasi ini, dengan jaga-jaga: ujian bersifat label terbuka dan tanpa pembanding, hasil jangka panjang (ketinggian akhir, ketumpatan tulang, fungsi pembiakan) perlu disahkan, status kawal selia setiap bidang kuasa perlu disemak, dan bentuk periferi pubertas pramatang perlu disingkirkan sebelum penggunaan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

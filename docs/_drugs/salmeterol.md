@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Salmeterol
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 637
-evidence_level: L1
-indication_count: 5
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-11-03
 monitor_inn: "salmeterol"
-predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
-description: "Salmeterol: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
+description: "Salmeterol: indikasi baharu diramal Respiratory malformation (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Salmeterol
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L1** | Indikasi diramal: **5**
 
 </div>
 
-## Salmeterol: Bronkitis (bronchitis)
+## Salmeterol: Respiratory malformation
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -49,9 +49,9 @@ Perlu diberi perhatian bahawa indikasi ini sangat hampir dengan indikasi asal (p
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Bronkitis (bronchitis) |
-| Skor Ramalan TxGNN | 0.9992 |
-| Tahap Bukti | L1 |
+| Indikasi Baharu yang Diramalkan | Respiratory malformation |
+| Skor Ramalan TxGNN | 0.9991 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 18 daripada 18) |
 | Bilangan Pendaftaran | 18 (sah: 18) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
@@ -138,7 +138,6 @@ Indikasi lain yang diramalkan tidak dijadikan fokus laporan ini:
 
 | Indikasi | Skor | Tahap Bukti | Cadangan |
 |------|------|------|------|
-| Penyakit paru obstruktif | 0.9989 | L1 | Proceed with Guardrails (sepadan dengan label; bukan penggunaan semula baharu) |
 | Atopik ekzema | 0.9939 | L5 | Research Question (hanya kajian mekanistik/praklinikal) |
 | Malformasi pernafasan | 0.9991 | L5 | Hold (kaitan lemah) |
 | Sindrom Rienhoff | 0.9989 | L5 | Hold (tiada bukti) |

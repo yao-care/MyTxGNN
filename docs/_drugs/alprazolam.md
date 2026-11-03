@@ -4,17 +4,17 @@ title: Alprazolam
 parent: Low Evidence (L4-L5)
 nav_order: 47
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 monitor_inn: "ALPRAZOLAM"
-predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia"]
-last_modified_at: 2026-10-28
+predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
+last_modified_at: 2026-11-03
 description: "Alprazolam: indikasi baharu diramal Insomnia (insomnia (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Alprazolam
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **3** 
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---

@@ -4,17 +4,17 @@ title: Medroxyprogesterone Acetate
 parent: Low Evidence (L4-L5)
 nav_order: 488
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 monitor_inn: "Medroxyprogesterone Acetate"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-10-28
-description: "Medroxyprogesterone Acetate: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
+last_modified_at: 2026-11-03
+description: "Medroxyprogesterone Acetate: indikasi baharu diramal Breast fibrocystic disease (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Medroxyprogesterone Acetate
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **7** 
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-## Medroxyprogesterone Acetate: Amenorea (amenorrhea (disease))
+## Medroxyprogesterone Acetate: Breast fibrocystic disease
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,8 +46,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **amenorea**, tetapi pada masa 
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Amenorea (amenorrhea (disease)) |
-| Skor Ramalan TxGNN | 1.0000 |
+| Indikasi Baharu yang Diramalkan | Breast fibrocystic disease |
+| Skor Ramalan TxGNN | 0.9995 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
 | Bilangan Pendaftaran | 7 (sah: 7) |
@@ -106,7 +106,7 @@ Amaran dan kontraindikasi daripada sisipan pakej NPRA belum tersedia; sila rujuk
 **Keputusan: Hold**
 
 **Rasional:**
-Ramalan amenorea hanya disokong oleh model dan literatur tidak langsung (ulasan kontraseptif); tiada ujian klinikal dan tiada kajian yang meneliti amenorea sebagai sasaran terapeutik secara langsung, maka tahap bukti ialah L5. Selain itu, amenorea juga kesan diketahui MPA depot, dan profil keselamatan (termasuk hubungan kontraindikasi dengan beberapa keadaan lazim) memerlukan semakan teliti.
+Selain itu, amenorea juga kesan diketahui MPA depot, dan profil keselamatan (termasuk hubungan kontraindikasi dengan beberapa keadaan lazim) memerlukan semakan teliti.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi) serta teks indikasi diluluskan bagi setiap lesen

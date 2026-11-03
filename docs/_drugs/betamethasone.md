@@ -4,17 +4,17 @@ title: Betamethasone
 parent: High Evidence (L1-L2)
 nav_order: 141
 evidence_level: L2
-indication_count: 8
+indication_count: 7
 monitor_inn: "Betamethasone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
-last_modified_at: 2026-10-28
-description: "Betamethasone: indikasi baharu diramal Alopesia areata (alopecia areata) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
+last_modified_at: 2026-11-03
+description: "Betamethasone: indikasi baharu diramal Alopecia mucinosa (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Betamethasone
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **8** 
+Tahap bukti: **L2** | Indikasi diramal: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L2** | Indikasi diramal: **8**
 
 </div>
 
-## Betamethasone: kortikosteroid glukokortikoid → Alopesia areata (alopecia areata)
+## Betamethasone: Alopecia mucinosa
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -45,8 +45,8 @@ Betamethasone ialah kortikosteroid glukokortikoid berkuasa tinggi yang digunakan
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Alopesia areata (alopecia areata) |
-| Skor Ramalan TxGNN | 0,9997 |
+| Indikasi Baharu yang Diramalkan | Alopecia mucinosa |
+| Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L2 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 97 daripada 97) |
 | Bilangan Pendaftaran | 97 (sah: 97) |
@@ -65,7 +65,6 @@ Alopesia areata ialah penyakit autoimun yang diperantarai sel T dan menyerang fo
 | [NCT06786689](https://clinicaltrials.gov/study/NCT06786689) | Fasa 2 | Selesai | 60 | Denyutan mini oral betamethasone berbanding denyutan mingguan azathioprine dalam alopesia areata sederhana–teruk |
 | [NCT02350023](https://clinicaltrials.gov/study/NCT02350023) | Fasa 4 | Selesai | 50 | Latanoprost topikal berbanding kortikosteroid topikal (betamethasone) dalam alopesia areata setempat |
 | [NCT06087796](https://clinicaltrials.gov/study/NCT06087796) | Fasa 1 | Tidak diketahui | 60 | Gel pentoxifylline dan metformin topikal berbanding krim betamethasone valerate 0,1% |
-| [NCT05803070](https://clinicaltrials.gov/study/NCT05803070) | Tiada | Tidak diketahui | 59 | Cetirizine topikal 1% berbanding betamethasone valerate 0,1% dalam alopesia areata setempat |
 | [NCT07696585](https://clinicaltrials.gov/study/NCT07696585) | Tiada | Belum merekrut | 60 | Metformin, simvastatin dan betamethasone valerate topikal dalam alopesia areata berpetak |
 | [NCT04207931](https://clinicaltrials.gov/study/NCT04207931) | Fasa 4 | Sedang merekrut | 250 | Hasil rawatan alopesia sikatrik sentrifugal pusat (penyakit berbeza; kaitan tidak langsung) |
 

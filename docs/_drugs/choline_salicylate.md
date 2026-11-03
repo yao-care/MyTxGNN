@@ -4,17 +4,17 @@ title: Choline Salicylate
 parent: Low Evidence (L4-L5)
 nav_order: 218
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Choline salicylate"
-predicted_indications: ["Prinzmetal angina", "rheumatoid arthritis", "hypertensive disorder", "migraine disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Raynaud disease", "pulmonary hypertension"]
-last_modified_at: 2026-10-28
+predicted_indications: ["Prinzmetal angina", "hypertensive disorder", "migraine disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Raynaud disease", "pulmonary hypertension"]
+last_modified_at: 2026-11-03
 description: "Choline Salicylate: indikasi baharu diramal Angina Prinzmetal (Prinzmetal angina) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Choline Salicylate
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---

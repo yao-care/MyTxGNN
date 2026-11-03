@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nystatin
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 535
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-28
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Nystatin"
-predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
-description: "Nystatin: indikasi baharu diramal Vulvovaginitis (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+description: "Nystatin: indikasi baharu diramal Disease of orbital region (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Nystatin
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-## Nystatin: Vulvovaginitis
+## Nystatin: Disease of orbital region
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -49,9 +49,9 @@ tetapi data yang dikompilkan untuk laporan ini mencatatkan **0 percubaan klinika
 | Item | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Vulvovaginitis |
-| Skor Ramalan TxGNN | 0.9992 |
-| Tahap Bukti | L3 |
+| Indikasi Baharu yang Diramalkan | Disease of orbital region |
+| Skor Ramalan TxGNN | 0.9990 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
 | Bilangan Pendaftaran | 11 (sah: 11) |
 | Keputusan Disyorkan | Hold |

@@ -4,17 +4,17 @@ title: Progesterone
 parent: Medium Evidence (L3)
 nav_order: 603
 evidence_level: L3
-indication_count: 7
+indication_count: 6
 monitor_inn: "Progesterone"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-10-28
-description: "Progesterone: indikasi baharu diramal Amenorea (tahap bukti L3). Indikasi asal: Teks indikasi diluluskan tidak tersedia dalam rekod lesen tempatan. H…"
+predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
+last_modified_at: 2026-11-03
+description: "Progesterone: indikasi baharu diramal Breast fibrocystic disease (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **7** 
+Tahap bukti: **L3** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Tahap bukti: **L3** | Indikasi diramal: **7**
 
 </div>
 
-## Progesterone: Daripada Endometriosis kepada Amenorea
+## Progesterone: Breast fibrocystic disease
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Progesterone ialah hormon steroid semula jadi. Ubat ini dikaitkan dengan endometriosis, kanser endometrium dan osteoporosis pascamenopaus. Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **amenorea**, dengan skor 1.0000. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi. Setakat ini terdapat **4 ujian klinikal** dan **18 penerbitan** yang berkaitan, tetapi kebanyakan ujian tertumpu pada estrogen dan bukan pada progesterone semata-mata.
+Progesterone ialah hormon steroid semula jadi. Ubat ini dikaitkan dengan endometriosis, kanser endometrium dan osteoporosis pascamenopaus. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi. Setakat ini terdapat **4 ujian klinikal** dan **18 penerbitan** yang berkaitan, tetapi kebanyakan ujian tertumpu pada estrogen dan bukan pada progesterone semata-mata.
 
 ---
 
@@ -46,9 +46,9 @@ Progesterone ialah hormon steroid semula jadi. Ubat ini dikaitkan dengan endomet
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Teks indikasi diluluskan tidak tersedia dalam rekod lesen tempatan. Hubungan yang direkodkan dalam graf pengetahuan (bukan indikasi diluluskan): endometriosis, kanser endometrium, osteoporosis pascamenopaus, vaginitis atrofik pascamenopaus |
-| Indikasi Baharu yang Diramalkan | Amenorea |
-| Skor Ramalan TxGNN | 1.0000 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Breast fibrocystic disease |
+| Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L3 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
 | Bilangan Pendaftaran | 15 (sah: 15) |

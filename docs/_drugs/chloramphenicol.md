@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Chloramphenicol
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 213
-evidence_level: L3
-indication_count: 9
+evidence_level: L5
+indication_count: 8
 monitor_inn: "Chloramphenicol"
-predicted_indications: ["conjunctivitis", "diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-10-28
-description: "Chloramphenicol: indikasi baharu diramal Konjunktivitis (tahap bukti L3). Indikasi asal: Demam kepialu (hubungan yang direkodkan dalam graf pengetahuan…"
+predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
+last_modified_at: 2026-11-03
+description: "Chloramphenicol: indikasi baharu diramal Diffuse scleroderma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Chloramphenicol
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **9** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **9**
 
 </div>
 
-## Chloramphenicol: Daripada Demam Kepialu kepada Konjunktivitis
+## Chloramphenicol: Diffuse scleroderma
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,10 +46,10 @@ Chloramphenicol ialah antibiotik spektrum luas. Dalam graf pengetahuan, hubungan
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Demam kepialu (hubungan yang direkodkan dalam graf pengetahuan, bukan indikasi diluluskan; teks indikasi lesen tempatan tiada) |
-| Indikasi Baharu yang Diramalkan | Konjunktivitis |
-| Skor Ramalan TxGNN | 0.9966 |
-| Tahap Bukti | L3 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Diffuse scleroderma |
+| Skor Ramalan TxGNN | 0.9965 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
 | Bilangan Pendaftaran | 12 (sah: 12) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Pagar Pengawal) |
@@ -62,7 +62,7 @@ Chloramphenicol ialah antibiotik bakteriostatik spektrum luas. Ia menghalang sub
 
 Konjunktivitis bakteria akut biasanya disebabkan oleh patogen seperti *Staphylococcus*, *Streptococcus* dan *Haemophilus*. Penggunaan topikal ubat antibakteria spektrum luas terhadap patogen ini selari dengan mekanisme chloramphenicol. Penggunaan ini juga telah menjadi amalan klinikal di beberapa negara.
 
-Perlu diberi perhatian bahawa ini lebih merupakan penggunaan yang sudah mantap berbanding pengubahsuaian guna (*repurposing*) yang sebenar. Skor TxGNN yang tinggi selaras dengan spektrum antibakteria yang diketahui. Ramalan ini hanya relevan untuk konjunktivitis bakteria, bukan konjunktivitis virus atau alergi.
+Perlu diberi perhatian bahawa ini lebih merupakan penggunaan yang sudah mantap berbanding pengubahsuaian guna (*repurposing*) yang sebenar. Skor TxGNN yang tinggi selaras dengan spektrum antibakteria yang diketahui.
 
 ---
 
@@ -76,13 +76,11 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk konjunktivitis.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [8333258](https://pubmed.ncbi.nlm.nih.gov/8333258/) | 1993 | RCT | Acta Ophthalmologica | Titis mata asid fusidik 1% (dua kali sehari) dibandingkan dengan chloramphenicol 0.5% (enam kali sehari) pada konjunktivitis akut. Tiada perbezaan ketara dalam penemuan bakteriologi atau respons rawatan. |
 | [32739192](https://pubmed.ncbi.nlm.nih.gov/32739192/) | 2020 | Ulasan | Ophthalmology | Ulasan mengenai titis mata chloramphenicol ("An Old Dog in a New House"). |
 | [25833086](https://pubmed.ncbi.nlm.nih.gov/25833086/) | 2015 | Ulasan | Clinical & Experimental Ophthalmology | Ulasan mengenai chloramphenicol over-the-counter. |
 | [7498557](https://pubmed.ncbi.nlm.nih.gov/7498557/) | 1995 | Ulasan | Eye (London) | Ulasan mengenai penggunaan chloramphenicol topikal: penggunaan wajar atau penyalahgunaan. |
 | [11270936](https://pubmed.ncbi.nlm.nih.gov/11270936/) | 2001 | Ulasan perbandingan | Drugs | Mengkaji 16 sediaan antibakteria oftalmik yang dipasarkan, berdasarkan sifat farmakodinamik, farmakokinetik dan bakteriologi, risiko rintangan serta kos. |
 | [10589371](https://pubmed.ncbi.nlm.nih.gov/10589371/) | 1999 | Ulasan | Clinical Pharmacokinetics | Rawatan jangkitan mata dengan antibakteria topikal, yang menyampaikan kepekatan tinggi ke permukaan mata dengan pendedahan sistemik minimum. |
-| [7153511](https://pubmed.ncbi.nlm.nih.gov/7153511/) | 1982 | In vitro/Klinikal | Journal of Hygiene | Pada bayi dengan konjunktivitis klamidia, chloramphenicol melewatkan permulaan dan mengurangkan gejala, tetapi swab mata masih positif pada 22 daripada 26 bayi yang dirawat (85%). |
 | [31481023](https://pubmed.ncbi.nlm.nih.gov/31481023/) | 2019 | Analisis pelbagai pusat | BMC Infectious Diseases | Epidemiologi dan kerentanan antimikrob patogen oftalmik di pelbagai tetapan penjagaan di UK. |
 | [31033370](https://pubmed.ncbi.nlm.nih.gov/31033370/) | 2019 | Kajian formulasi | Expert Opinion on Drug Delivery | Kompleks chloramphenicol/siklodekstrin bertujuan memanjangkan masa kekal dan meningkatkan bioavailabiliti dalam kantung konjunktiva. |
 | [32959365](https://pubmed.ncbi.nlm.nih.gov/32959365/) | 2020 | Tinjauan sistematik Cochrane | Cochrane Database of Systematic Reviews | Intervensi untuk mencegah oftalmia neonatorum. |

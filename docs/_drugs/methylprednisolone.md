@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Methylprednisolone
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 502
-evidence_level: L2
-indication_count: 9
+evidence_level: L5
+indication_count: 8
 monitor_inn: "Methylprednisolone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-10-28
-description: "Methylprednisolone: indikasi baharu diramal Alopecia areata (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
+last_modified_at: 2026-11-03
+description: "Methylprednisolone: indikasi baharu diramal Alopecia mucinosa (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Methylprednisolone
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **9** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L2** | Indikasi diramal: **9**
 
 </div>
 
-## Methylprednisolone: Alopecia areata
+## Methylprednisolone: Alopecia mucinosa
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -45,9 +45,9 @@ Methylprednisolone ialah kortikosteroid sistemik yang digunakan untuk pelbagai k
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Alopecia areata |
+| Indikasi Baharu yang Diramalkan | Alopecia mucinosa |
 | Skor Ramalan TxGNN | 0.9999 |
-| Tahap Bukti | L2 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
 | Bilangan Pendaftaran | 7 (sah: 7) |
 | Bilangan Kelulusan | 7 pendaftaran |
@@ -118,7 +118,7 @@ Lapan ramalan lain mempunyai bukti pada tahap L5 sahaja (ramalan model tanpa kaj
 | Hipotrikosis keturunan dengan vesikel kulit berulang | 0.9999 | Tiada mekanisme imun jelas |
 | Sindrom alopecia-kecacatan intelek-hipogonadisme hipergonadotropik | 0.9999 | Sindrom genetik; tiada bukti |
 | Atrichia dengan lesi papular | 0.9995 | Gangguan genetik; tiada rasional glukokortikoid |
-| Alopecia universalis-onikodistrofi-vitiligo | 0.9970 | Bertindih dengan alopecia areata, tetapi tiada bukti langsung |
+| Alopecia universalis-onikodistrofi-vitiligo | 0.9970 | — |
 
 ## Kesimpulan dan Langkah Seterusnya
 

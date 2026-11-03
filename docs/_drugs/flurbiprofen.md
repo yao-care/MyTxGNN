@@ -4,17 +4,17 @@ title: Flurbiprofen
 parent: Low Evidence (L4-L5)
 nav_order: 369
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "Flurbiprofen"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
-last_modified_at: 2026-10-28
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
+last_modified_at: 2026-11-03
 description: "Flurbiprofen: indikasi baharu diramal Acromesomelic dysplasia, Hunter-Thompson type (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Flurbiprofen
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **9** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -92,7 +92,7 @@ Teks indikasi yang diluluskan tidak direkodkan dalam data lesen, jadi indikasi b
 **Rasional:**
 - Ramalan ini hanya berasaskan model, tanpa ujian klinikal, tanpa literatur dan tanpa hubungan mekanisme yang munasabah. Oleh itu tahap buktinya L5.
 
-**Calon lain dalam senarai ramalan:** Calon kedudukan ke-7, **ankylosing spondylitis**, mempunyai sokongan literatur yang jauh lebih kukuh (skor TxGNN 0.9997, tahap bukti L3, syor *Proceed with Guardrails*). Terdapat 20 penerbitan, termasuk beberapa kajian perbandingan dua-buta yang terawal.
+Terdapat 20 penerbitan, termasuk beberapa kajian perbandingan dua-buta yang terawal.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
@@ -106,7 +106,6 @@ Ini pada dasarnya penemuan semula kegunaan kelas NSAID yang sudah mantap. Ia buk
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Muat turun dan huraikan sisipan pakej NPRA untuk amaran, kontraindikasi dan indikasi berlesen (jurang data ini menghalang saringan keselamatan).
 - Data mekanisme tindakan terperinci daripada DrugBank.
-- Jika calon ankylosing spondylitis diteruskan, semak teks penuh kajian bagi mengesahkan reka bentuk dan tahap bukti, serta rancang pemantauan risiko gastrousus, kardiovaskular dan renal untuk penggunaan jangka panjang.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

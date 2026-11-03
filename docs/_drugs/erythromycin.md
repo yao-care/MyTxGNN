@@ -4,17 +4,17 @@ title: Erythromycin
 parent: Low Evidence (L4-L5)
 nav_order: 334
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 monitor_inn: "Erythromycin"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
-last_modified_at: 2026-10-28
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
+last_modified_at: 2026-11-03
 description: "Erythromycin: indikasi baharu diramal Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Erythromycin
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---

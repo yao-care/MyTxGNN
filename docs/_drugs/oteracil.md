@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Oteracil
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 548
-evidence_level: L2
-indication_count: 10
-last_modified_at: 2026-10-28
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Oteracil"
-predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "rectosigmoid junction neoplasm", "benign neoplasm of cecum", "colonic lymphangioma", "colon leiomyoma", "cavernous hemangioma of colon"]
-description: "Oteracil: indikasi baharu diramal Neoplasma kolon (colonic neoplasm) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "rectosigmoid junction neoplasm", "benign neoplasm of cecum", "colonic lymphangioma", "colon leiomyoma", "cavernous hemangioma of colon"]
+description: "Oteracil: indikasi baharu diramal Cecum villous adenoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Oteracil
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L2** | Indikasi diramal: **10**
 
 </div>
 
-## Oteracil: Neoplasma kolon (colonic neoplasm)
+## Oteracil: Cecum villous adenoma
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -49,9 +49,9 @@ Setakat ini terdapat **6 ujian klinikal** dan **10 penerbitan** yang berkaitan, 
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Neoplasma kolon (colonic neoplasm) |
-| Skor Ramalan TxGNN | 0.9999 |
-| Tahap Bukti | L2 (satu RCT Fasa 3 selesai; kriteria L1 memerlukan ≥2 RCT Fasa 3 yang selesai) |
+| Indikasi Baharu yang Diramalkan | Cecum villous adenoma |
+| Skor Ramalan TxGNN | 0.9998 |
+| Tahap Bukti | L5 (satu RCT Fasa 3 selesai; kriteria L1 memerlukan ≥2 RCT Fasa 3 yang selesai) |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Pagar Pengadang) |

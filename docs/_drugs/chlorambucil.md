@@ -4,17 +4,17 @@ title: Chlorambucil
 parent: Low Evidence (L4-L5)
 nav_order: 212
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 monitor_inn: "CHLORAMBUCIL"
-predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-10-28
-description: "Chlorambucil: indikasi baharu diramal Leukemia limfositik kronik/limfoma limfositik kecil pra-pusat germinal (tahap bukti L4). Indikasi asal: Limfoma Hodgkin dan penyakit limfoid lain (hubungan direk…"
+predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
+last_modified_at: 2026-11-03
+description: "Chlorambucil: indikasi baharu diramal ALK-positive large B-cell lymphoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Chlorambucil
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **7** 
+Tahap bukti: **L5** | Indikasi diramal: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-## Chlorambucil: Daripada Limfoma Hodgkin kepada Leukemia Limfositik Kronik/Limfoma Limfositik Kecil Pra-Pusat Germinal
+## Chlorambucil: ALK-positive large B-cell lymphoma
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Chlorambucil ialah agen pengalkil sitotoksik. Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **leukemia limfositik kronik/limfoma limfositik kecil pra-pusat germinal** dengan skor 0.9972. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Setakat ini hanya **1 ulasan literatur** dan **tiada ujian klinikal berdaftar** menyokong ramalan ini secara langsung.
+Chlorambucil ialah agen pengalkil sitotoksik. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Setakat ini hanya **1 ulasan literatur** dan **tiada ujian klinikal berdaftar** menyokong ramalan ini secara langsung.
 
 ---
 
@@ -46,9 +46,9 @@ Chlorambucil ialah agen pengalkil sitotoksik. Model TxGNN (pembelajaran mendalam
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Limfoma Hodgkin dan penyakit limfoid lain (hubungan direkodkan dalam graf pengetahuan; teks indikasi dalam lesen tempatan tiada) |
-| Indikasi Baharu yang Diramalkan | Leukemia limfositik kronik/limfoma limfositik kecil pra-pusat germinal |
-| Skor Ramalan TxGNN | 0.9972 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | ALK-positive large B-cell lymphoma |
+| Skor Ramalan TxGNN | 0.9961 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
@@ -61,7 +61,7 @@ Chlorambucil ialah agen pengalkil sitotoksik. Model TxGNN (pembelajaran mendalam
 
 Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Chlorambucil tergolong dalam kelas agen pengalkil, yang merosakkan DNA sel yang membahagi. Kesan ini berkaitan dengan penyakit limfoid yang telah direkodkan dalam graf pengetahuan, dan secara mekanistik mungkin terpakai pada subjenis leukemia limfositik kronik ini.
 
-Skor TxGNN yang tinggi (0.9972) kemungkinan besar mencerminkan kedekatan penyakit ini dengan keluarga neoplasma sel B yang sudah dikaitkan dengan ubat tersebut. Ia belum tentu menunjukkan bukti baharu untuk subjenis ini. Satu-satunya item sokongan ialah ulasan 2003 mengenai pendekatan rawatan berasaskan risiko. Ulasan itu membincangkan penyakit ini tetapi tidak menilai chlorambucil. Tiada data ujian khusus subjenis ini.
+Ia belum tentu menunjukkan bukti baharu untuk subjenis ini. Satu-satunya item sokongan ialah ulasan 2003 mengenai pendekatan rawatan berasaskan risiko. Ulasan itu membincangkan penyakit ini tetapi tidak menilai chlorambucil. Tiada data ujian khusus subjenis ini.
 
 ---
 

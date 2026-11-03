@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Albendazole
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 36
-evidence_level: L3
-indication_count: 3
+evidence_level: L5
+indication_count: 1
 monitor_inn: "Albendazole"
-predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
-last_modified_at: 2026-10-31
-description: "Albendazole: indikasi baharu diramal ekinokokosis alveolar (tahap bukti L3)."
+predicted_indications: ["coenurosis"]
+last_modified_at: 2026-11-03
+description: "Albendazole: indikasi baharu diramal Coenurosis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Albendazole
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **3** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L3** | Indikasi diramal: **3**
 
 </div>
 
-## Albendazole: Daripada Ekinokokosis Sista kepada ekinokokosis alveolar
+## Albendazole: Coenurosis
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -46,10 +46,10 @@ Albendazole ialah ubat antihelmintik daripada kumpulan benzimidazol. Model TxGNN
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Ekinokokosis sista, sistiserkosis dan jangkitan *Echinococcus granulosus*. Ini ialah hubungan yang direkodkan dalam graf pengetahuan, bukan indikasi yang diluluskan. Teks indikasi pada lesen tempatan tidak tersedia. |
-| Indikasi Baharu yang Diramalkan | Ekinokokosis alveolar |
-| Skor Ramalan TxGNN | 0.9997 |
-| Tahap Bukti | L3 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Coenurosis |
+| Skor Ramalan TxGNN | 0.9983 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 28 daripada 29) |
 | Bilangan Pendaftaran | 29 (sah: 28) |
 | Keputusan yang Disyorkan | Teruskan dengan Langkah Pengawalan |

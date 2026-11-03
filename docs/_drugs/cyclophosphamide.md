@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cyclophosphamide
-parent: High Evidence (L1-L2)
+parent: Low Evidence (L4-L5)
 nav_order: 245
-evidence_level: L2
-indication_count: 4
-last_modified_at: 2026-10-30
+evidence_level: L5
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "CYCLOPHOSPHAMIDE"
-predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
-description: "Cyclophosphamide: indikasi baharu diramal Leukemia mieloid (myeloid leukemia) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
+description: "Cyclophosphamide: indikasi baharu diramal Vertebral anomalies and variable endocrine and T-cell dysfunction (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Cyclophosphamide
 {: .fs-9 }
 
-Tahap bukti: **L2** | Indikasi diramal: **4** 
+Tahap bukti: **L5** | Indikasi diramal: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Tahap bukti: **L2** | Indikasi diramal: **4**
 
 </div>
 
-## Cyclophosphamide: Leukemia mieloid (myeloid leukemia)
+## Cyclophosphamide: Vertebral anomalies and variable endocrine and T-cell dysfunction
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
@@ -49,9 +49,9 @@ Arah ini disokong oleh **34 ujian klinikal** dan **20 penerbitan**. Namun, dalam
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Leukemia mieloid (myeloid leukemia) |
-| Skor Ramalan TxGNN | 0.9947 |
-| Tahap Bukti | L2 |
+| Indikasi Baharu yang Diramalkan | Vertebral anomalies and variable endocrine and T-cell dysfunction |
+| Skor Ramalan TxGNN | 0.9938 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Proceed with Guardrails |

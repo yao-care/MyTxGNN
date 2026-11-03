@@ -4,17 +4,17 @@ title: Risperidone
 parent: Low Evidence (L4-L5)
 nav_order: 625
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 monitor_inn: "Risperidone"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
-last_modified_at: 2026-10-28
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
+last_modified_at: 2026-11-03
 description: "Risperidone: indikasi baharu diramal Gaze palsy, familial horizontal, with progressive scoliosis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Risperidone
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **5** 
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -102,7 +102,6 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej produk.
 - Kajian praklinikal atau bukti mekanistik yang menghubungkan risperidone dengan laluan ROBO3 atau panduan akson.
 
 **Calon ramalan lain untuk risperidone** (data yang dikumpulkan untuk laporan ini):
-- **Gangguan afektif major** mempunyai bukti terkuat. Terdapat beberapa ujian fasa 3 yang selesai, termasuk NCT00095134 (n=630) dan NCT00044681 (n=258), serta beberapa meta-analisis tentang terapi tambahan dalam kemurungan rintang rawatan. Penilaian awal ialah "Proceed with Guardrails" dan wajar dinilai dalam laporan berasingan.
 - **Trikotilomania** dan **sindrom Phelan-McDermid** hanya mempunyai bukti peringkat awal (L4: laporan kes, siri kes dan kajian praklinikal ikan zebra) dan dikategorikan sebagai soalan penyelidikan.
 ## Penafian
 

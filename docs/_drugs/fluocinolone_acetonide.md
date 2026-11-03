@@ -4,17 +4,17 @@ title: Fluocinolone Acetonide
 parent: Low Evidence (L4-L5)
 nav_order: 362
 evidence_level: L5
-indication_count: 4
+indication_count: 1
 monitor_inn: "FLUOCINOLONE ACETONIDE"
-predicted_indications: ["annular atrophic lichen planus", "hypertrophic lichen planus", "lichen planus pigmentosus", "lichen planus pemphigoides"]
-last_modified_at: 2026-10-28
-description: "Fluocinolone Acetonide: indikasi baharu diramal Annular atrophic lichen planus (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+predicted_indications: ["lichen planus pemphigoides"]
+last_modified_at: 2026-11-03
+description: "Fluocinolone Acetonide: indikasi baharu diramal Lichen planus pemphigoides (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Fluocinolone Acetonide
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **4** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,20 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-## Fluocinolone Acetonide: Annular atrophic lichen planus
+## Fluocinolone Acetonide: Lichen planus pemphigoides
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
 Fluocinolone acetonide ialah kortikosteroid topikal berkuasa tinggi yang hubungannya dengan pelbagai keadaan kulit radang dan gatal (contohnya ekzema atopik, dermatitis kontak, dermatitis seboroik dan penyakit lichen) direkodkan dalam graf pengetahuan.
-Model TxGNN meramalkan ia mungkin berkesan untuk **lichen planus atrofik anular** (skor 0.9942), tetapi buat masa ini **tiada ujian klinikal** dan **tiada penerbitan** dalam data yang dikumpulkan untuk menyokong ramalan ini.
 
 ## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramal | Annular atrophic lichen planus |
-| Skor Ramalan TxGNN | 0.9942 |
+| Indikasi Baharu yang Diramal | Lichen planus pemphigoides |
+| Skor Ramalan TxGNN | 0.9934 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
 | Bilangan Pendaftaran | 3 (sah: 3) |
@@ -60,7 +59,7 @@ Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang 
 
 Skor TxGNN yang tinggi mungkin mencerminkan kedekatan ini. Lichen planus atrofik anular ialah varian lichen planus, jadi mekanisme anti-radang kortikosteroid mungkin terpakai. Namun begitu, ini hanyalah ramalan model dan tiada kajian yang dipetik secara langsung mengkaji penyakit ini.
 
-Tiga varian lichen planus lain turut diramal dengan skor yang hampir sama, iaitu lichen planus hipertrofik (0.9942), lichen planus pigmentosus (0.9942) dan lichen planus pemfigoid (0.9934). Kesemuanya juga berada pada tahap bukti L5. Bagi lichen planus pemfigoid, komponen lepuh autoimun lazimnya memerlukan terapi sistemik, maka kesesuaian mekanismenya hanya separa.
+Kesemuanya juga berada pada tahap bukti L5. Bagi lichen planus pemfigoid, komponen lepuh autoimun lazimnya memerlukan terapi sistemik, maka kesesuaian mekanismenya hanya separa.
 
 ## Bukti Ujian Klinikal
 
