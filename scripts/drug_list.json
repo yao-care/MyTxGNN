@@ -1,6 +1,6 @@
 {
   "total": 577,
-  "generated_at": "2026-11-04T04:43:16.353277",
+  "generated_at": "2026-11-04T19:17:54.067546",
   "drugs": [
     {
       "name": "Acarbose",
@@ -378,7 +378,7 @@
     {
       "name": "Alprazolam",
       "file": "alprazolam.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 2,
       "predicted_indication": "",
       "inn": "ALPRAZOLAM",
@@ -603,7 +603,7 @@
     {
       "name": "Apixaban",
       "file": "apixaban.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 1,
       "predicted_indication": "",
       "inn": "APIXABAN",
@@ -2300,7 +2300,7 @@
     {
       "name": "Clomipramine",
       "file": "clomipramine.md",
-      "evidence_level": "L3",
+      "evidence_level": "L1",
       "indication_count": 8,
       "predicted_indication": "",
       "inn": "Clomipramine",
@@ -2385,7 +2385,7 @@
     {
       "name": "Clozapine",
       "file": "clozapine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 9,
       "predicted_indication": "",
       "inn": "CLOZAPINE",
@@ -2981,7 +2981,7 @@
     {
       "name": "Diazepam",
       "file": "diazepam.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "Diazepam",
@@ -4484,7 +4484,7 @@
     {
       "name": "Glucagon",
       "file": "glucagon.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 1,
       "predicted_indication": "",
       "inn": "GLUCAGON",
@@ -4703,7 +4703,7 @@
     {
       "name": "Hydrocortisone",
       "file": "hydrocortisone.md",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 9,
       "predicted_indication": "",
       "inn": "Hydrocortisone",
@@ -4723,7 +4723,7 @@
     {
       "name": "Hydrocortisone Acetate",
       "file": "hydrocortisone_acetate.md",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 9,
       "predicted_indication": "",
       "inn": "Hydrocortisone Acetate",
@@ -5302,7 +5302,7 @@
     {
       "name": "Ketoconazole",
       "file": "ketoconazole.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 1,
       "predicted_indication": "",
       "inn": "Ketoconazole",
@@ -5597,7 +5597,7 @@
     {
       "name": "Levonorgestrel",
       "file": "levonorgestrel.md",
-      "evidence_level": "L4",
+      "evidence_level": "L2",
       "indication_count": 5,
       "predicted_indication": "",
       "inn": "LEVONORGESTREL",
@@ -5826,7 +5826,7 @@
     {
       "name": "Magnesium Sulfate",
       "file": "magnesium_sulfate.md",
-      "evidence_level": "L4",
+      "evidence_level": "L3",
       "indication_count": 8,
       "predicted_indication": "",
       "inn": "MAGNESIUM SULFATE",
@@ -6007,7 +6007,7 @@
     {
       "name": "Mercaptopurine",
       "file": "mercaptopurine.md",
-      "evidence_level": "L2",
+      "evidence_level": "L3",
       "indication_count": 8,
       "predicted_indication": "",
       "inn": "Mercaptopurine",
@@ -6185,7 +6185,7 @@
     {
       "name": "Miconazole",
       "file": "miconazole.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 1,
       "predicted_indication": "",
       "inn": "MICONAZOLE",
@@ -6229,7 +6229,7 @@
     {
       "name": "Minoxidil",
       "file": "minoxidil.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "Minoxidil",
@@ -6282,7 +6282,7 @@
     {
       "name": "Moclobemide",
       "file": "moclobemide.md",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 2,
       "predicted_indication": "",
       "inn": "MOCLOBEMIDE",
@@ -6314,7 +6314,7 @@
     {
       "name": "Morphine",
       "file": "morphine.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "morphine",
@@ -6788,7 +6788,7 @@
     {
       "name": "Omalizumab",
       "file": "omalizumab.md",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 9,
       "predicted_indication": "",
       "inn": "Omalizumab",
@@ -7808,7 +7808,7 @@
     {
       "name": "Ranitidine",
       "file": "ranitidine.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 6,
       "predicted_indication": "",
       "inn": "RANITIDINE",
@@ -8387,7 +8387,7 @@
     {
       "name": "Sirolimus",
       "file": "sirolimus.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 6,
       "predicted_indication": "",
       "inn": "Sirolimus",
@@ -8498,7 +8498,7 @@
     {
       "name": "Sorafenib",
       "file": "sorafenib.md",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 6,
       "predicted_indication": "",
       "inn": "sorafenib",
@@ -8981,7 +8981,7 @@
     {
       "name": "Tocilizumab",
       "file": "tocilizumab.md",
-      "evidence_level": "L1",
+      "evidence_level": "L5",
       "indication_count": 5,
       "predicted_indication": "",
       "inn": "Tocilizumab",
@@ -9560,7 +9560,7 @@
     {
       "name": "Vinblastine",
       "file": "vinblastine.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "vinblastine",
