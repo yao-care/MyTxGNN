@@ -679,7 +679,7 @@
           if (!response.ok) throw new Error('Failed to load search index');
 
           searchIndex = await response.json();
-          drugMapper = new MyTxGNN.DrugMapper(searchIndex);
+          drugMapper = new TwTxGNN.DrugMapper(searchIndex);
 
           console.log('Search index loaded:', searchIndex.drug_count, 'drugs');
 
@@ -758,7 +758,7 @@
         // Check DDI
         const ddiSection = document.getElementById('ddi-section');
         const ddiResults = document.getElementById('ddi-results');
-        if (MyTxGNN.DDIChecker && selectedDrugs.length >= 2) {
+        if (typeof MyTxGNN !== 'undefined' && MyTxGNN.DDIChecker && selectedDrugs.length >= 2) {
           const ddiAlerts = MyTxGNN.DDIChecker.checkInteractions(selectedDrugs);
           if (ddiAlerts.length > 0) {
             ddiSection.style.display = 'block';
@@ -774,7 +774,7 @@
         let html = '';
 
         for (const drugName of selectedDrugs) {
-          const match = drugMapper.searchMyTxGNN(drugName);
+          const match = drugMapper.searchTwTxGNN(drugName);
 
           if (match) {
             const indications = match.indications || [];
