@@ -1,6 +1,6 @@
 {
   "total": 577,
-  "generated_at": "2026-11-03T18:59:30.505369",
+  "generated_at": "2026-11-04T04:43:16.353277",
   "drugs": [
     {
       "name": "Acarbose",
@@ -3362,7 +3362,7 @@
     {
       "name": "Eltrombopag",
       "file": "eltrombopag.md",
-      "evidence_level": "L1",
+      "evidence_level": "L5",
       "indication_count": 1,
       "predicted_indication": "",
       "inn": "eltrombopag",
@@ -5538,7 +5538,7 @@
     {
       "name": "Letrozole",
       "file": "letrozole.md",
-      "evidence_level": "L1",
+      "evidence_level": "L5",
       "indication_count": 4,
       "predicted_indication": "",
       "inn": "LETROZOLE",
@@ -6885,7 +6885,7 @@
     {
       "name": "Oxcarbazepine",
       "file": "oxcarbazepine.md",
-      "evidence_level": "L1",
+      "evidence_level": "L4",
       "indication_count": 1,
       "predicted_indication": "",
       "inn": "Oxcarbazepine",
