@@ -98,7 +98,7 @@ Every prediction listed on this site scores 0.99 or higher. A high score with a 
 
 ## Further Reading
 
-- [Evidence Levels Explained](/blog/2026/03/02/evidence-levels-explained/)
+- [Evidence Levels Explained]({{ site.baseurl }}{% post_url 2026-03-02-evidence-levels-explained %})
 - [User Guide](/guide/)
 - [Methodology](/methodology/)
 

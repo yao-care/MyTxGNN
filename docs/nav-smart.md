@@ -61,7 +61,7 @@ MyTxGNN menyokong SMART on FHIR untuk membolehkan integrasi lancar dengan sistem
 |----------|------------|--------|
 | `/fhir/metadata` | Penyata keupayaan pelayan | [Lihat]({{ '/fhir/metadata' | relative_url }}) |
 | `/fhir/MedicationKnowledge/{id}` | Maklumat ubat | [DB00860]({{ '/fhir/MedicationKnowledge/db00860.json' | relative_url }}) |
-| `/fhir/ClinicalUseDefinition/{id}` | Data ramalan | [Contoh]({{ '/fhir/ClinicalUseDefinition/' | relative_url }}) |
+| `/fhir/ClinicalUseDefinition/{id}` | Data ramalan | [DB00860 – alopecia areata]({{ '/fhir/ClinicalUseDefinition/db00860-alopecia-areata.json' | relative_url }}) |
 
 ### Contoh Permintaan
 

@@ -3,7 +3,7 @@ layout: default
 title: Data Keselamatan
 nav_order: 5
 has_children: true
-description: "Data keselamatan ubat termasuk interaksi ubat-ubat, ubat-makanan, dan ubat-herba."
+description: "Data keselamatan ubat: interaksi ubat-ubat (DDI) daripada DDInter 2.0 dan Guide to PHARMACOLOGY."
 permalink: /keselamatan/
 ---
 
@@ -21,20 +21,8 @@ Pangkalan data keselamatan untuk penilaian penggunaan semula ubat
 
 <a href="{{ '/ddi/' | relative_url }}" style="display: block; padding: 1.5rem; background: #fff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-decoration: none; color: inherit; border-left: 4px solid #E53935;">
   <h3 style="margin: 0 0 0.5rem 0; color: #C62828;">Interaksi Ubat-Ubat (DDI)</h3>
-  <p style="margin: 0; color: #666; font-size: 0.9rem;">200,000+ interaksi antara ubat konvensional</p>
+  <p style="margin: 0; color: #666; font-size: 0.9rem;">160,235 pasangan interaksi antara ubat konvensional</p>
   <small style="color: #999;">Sumber: DDInter 2.0</small>
-</a>
-
-<a href="{{ '/dfi/' | relative_url }}" style="display: block; padding: 1.5rem; background: #fff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-decoration: none; color: inherit; border-left: 4px solid #43A047;">
-  <h3 style="margin: 0 0 0.5rem 0; color: #2E7D32;">Interaksi Ubat-Makanan (DFI)</h3>
-  <p style="margin: 0; color: #666; font-size: 0.9rem;">857 interaksi dengan 29 jenis makanan biasa</p>
-  <small style="color: #999;">Sumber: DDInter 2.0</small>
-</a>
-
-<a href="{{ '/dhi/' | relative_url }}" style="display: block; padding: 1.5rem; background: #fff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-decoration: none; color: inherit; border-left: 4px solid #7B1FA2;">
-  <h3 style="margin: 0 0 0.5rem 0; color: #6A1B9A;">Interaksi Ubat-Herba (DHI)</h3>
-  <p style="margin: 0; color: #666; font-size: 0.9rem;">Interaksi dengan ubat tradisional dan herba</p>
-  <small style="color: #999;">Sumber: DDInter 2.0 + Literatur</small>
 </a>
 
 </div>
@@ -77,16 +65,18 @@ Apabila menggunakan semula ubat untuk indikasi baharu, kita perlu mempertimbangk
 <tbody>
 <tr>
   <td><a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener">DDInter 2.0</a></td>
-  <td>DDI, DFI</td>
-  <td>200,000+</td>
+  <td>DDI</td>
+  <td>160,235</td>
 </tr>
 <tr>
-  <td>Literatur</td>
-  <td>DHI</td>
-  <td>Pelbagai</td>
+  <td><a href="https://www.guidetopharmacology.org/" target="_blank" rel="noopener">Guide to PHARMACOLOGY</a></td>
+  <td>DDI</td>
+  <td>4,799</td>
 </tr>
 </tbody>
 </table>
+
+<p><small>Bilangan sama seperti halaman <a href="{{ '/ddi/' | relative_url }}">Interaksi Ubat-Ubat</a>: dikira daripada fail data MyTxGNN sendiri (Release data-20261031-141747, <code>data/external/ddi/</code>).</small></p>
 
 ---
 
@@ -94,5 +84,5 @@ Apabila menggunakan semula ubat untuk indikasi baharu, kita perlu mempertimbangk
 <strong>Penafian</strong><br>
 Data keselamatan adalah untuk <strong>rujukan penyelidikan sahaja</strong> dan bukan nasihat perubatan. Keputusan klinikal hendaklah berdasarkan penilaian profesional kesihatan.
 <br><br>
-<small>Kemas kini terakhir: 2026-03-03 | Pasukan Penyelidikan MyTxGNN</small>
+<small>Kemas kini terakhir: 2026-11-04 | Pasukan Penyelidikan MyTxGNN</small>
 </div>

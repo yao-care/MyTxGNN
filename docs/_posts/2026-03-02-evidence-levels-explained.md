@@ -129,7 +129,7 @@ Uses already approved or recorded for the drug are known uses; the site excludes
 
 ## Further Reading
 
-- [How to Read Reports](/blog/2026/03/01/how-to-read-reports/)
+- [How to Read Reports]({{ site.baseurl }}{% post_url 2026-03-01-how-to-read-reports %})
 - [Methodology](/methodology/)
 - [High Evidence Drugs](/evidence-high/)
 

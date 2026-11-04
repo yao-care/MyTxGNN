@@ -9,24 +9,11 @@
   "ddinter": {
     "last_checked": "2026-02-21",
     "version": "2.0",
-    "ddi_total_pairs": 302516,
+    "ddi_total_pairs": 160235,
+    "ddi_total_pairs_source": "MyTxGNN 自己的資料：Release data-20261031-141747 data/external/ddi/ddinter/ddinter_code_*.csv 跨檔去重後的藥物配對數（222,383 列）；README（母 repo generate_readmes.py 讀這欄）與 docs/ddi.md、docs/nav-safety.md 用同一個數字。DDInter 網站本身的總數不寫在這裡",
     "ddi_with_mechanism": 8466,
     "url": "https://ddinter2.scbdd.com/download/",
     "api_endpoint": "https://ddinter2.scbdd.com/server/interaction-source/",
     "note": "API 回傳有機制描述的 DDI，下載頁面有完整配對"
-  },
-  "ddinter_dfi": {
-    "last_checked": "2026-02-21",
-    "version": "2.0",
-    "record_count": 857,
-    "food_count": 29,
-    "matched_drugs": 56,
-    "api_endpoint": "https://ddinter2.scbdd.com/server/food-interaction-source/"
-  },
-  "dhi_curated": {
-    "last_checked": "2026-02-21",
-    "record_count": 35,
-    "herb_count": 10,
-    "source": "manual_curation"
   }
 }
