@@ -10,7 +10,9 @@
   - 能用 Liquid 的地方一律寫 {{ site.data.drug_stats.total_drugs }}（.md 內文、_includes/*.html）。
   - 不能用 Liquid 的地方才列在 COUNT_SPOTS：README.md 的「藥物報告」列（不經 Jekyll）、
     scripts/drug_count_spots.json 列的各站位置（front matter description、靜態 svg 等）。
-  - 首頁 index.md 的寫死數字由母專案 .claude/update_home_counts.py 維護，這裡不重複管。
+  - 首頁 index.md 也不得寫死藥物總數（2026-11-04 起納入掃描；front matter description 的數字列在
+    scripts/drug_count_spots.json，由本支同步）。母專案 .claude/update_home_counts.py 只會把 index.md 裡
+    與上次相同的舊數字換成新數字，兩邊結果一致。
   - total_drugs＝公開的藥物報告數＝docs/_drugs/*.md 扣掉 noindex 頁與舊 ID 轉址頁
     （和 docs/drugs.md 列表的 where_exp 篩選相同）。
 
@@ -108,14 +110,13 @@ def count_spot_problems(stats, fix=False):
 
 
 def hardcode_problems(stats):
-    """Liquid 可用的檔（docs 下有 front matter 的 .md 內文、_includes/*.html）不得寫死目前的藥物總數。
-    index.md 由 update_home_counts.py 管，不掃。"""
+    """Liquid 可用的檔（docs 下有 front matter 的 .md 內文、_includes/*.html）不得寫死目前的藥物總數（含 index.md）。"""
     errs, total = [], stats["total_drugs"]
     docs = ROOT / "docs"
     cands = [p for p in docs.rglob("*.md")] + list((docs / "_includes").glob("*.html"))
     for p in sorted(cands):
         rel = p.relative_to(ROOT).as_posix()
-        if rel.startswith(("docs/_drugs/", "docs/_news/", "docs/_site/", "docs/_posts/", "docs/fhir/")) or rel == "docs/index.md":
+        if rel.startswith(("docs/_drugs/", "docs/_news/", "docs/_site/", "docs/_posts/", "docs/fhir/")):
             continue
         text = p.read_text(encoding="utf-8", errors="replace")
         body_start = 0
@@ -130,6 +131,27 @@ def hardcode_problems(stats):
                 line = text.count("\n", 0, m.start()) + 1
                 errs.append(f"{rel}:{line}：寫死的藥物數「{m.group(0)}」，改用 {{{{ site.data.drug_stats.total_drugs }}}}")
     return errs
+
+
+INDEX = ROOT / "docs" / "index.md"
+
+
+def index_date_problems(stats, fix=False):
+    """首頁「最後更新」與首頁 JSON-LD dateModified 都讀 docs/index.md front matter 的 last_modified_at
+    （2026-11-04 起；原本是 {{ site.time }}／"now"，每次建置都變，等於宣稱每天更新）。
+    這個日期要等於 drug_stats.json 的 generated：藥物數、等級分布或藥物清單真的變了，本支才會換日期。
+    front matter 沒有 last_modified_at 的 index.md 不管。"""
+    if not INDEX.exists() or not stats.get("generated"):
+        return []
+    raw = INDEX.read_bytes().decode("utf-8")
+    m = re.match(r"(\ufeff?---\r?\n)(.*?)(\r?\n---\r?\n)", raw, re.S)
+    lm = re.search(r"^last_modified_at:[ \t]*(\S*)[ \t]*$", m.group(2), re.M) if m else None
+    if not lm or lm.group(1) == stats["generated"]:
+        return []
+    if fix:
+        a = m.start(2) + lm.start(1)
+        INDEX.write_bytes((raw[:a] + stats["generated"] + raw[m.start(2) + lm.end(1):]).encode("utf-8"))
+    return [f"docs/index.md：front matter last_modified_at {lm.group(1)} 應為 {stats['generated']}（drug_stats.json 的 generated）"]
 
 
 def main():
@@ -148,6 +170,7 @@ def main():
             OUT.write_text(json.dumps(stats, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         print(f"drug_stats.json：{stats['total_drugs']} 個藥，{stats['level_counts']}")
     errs += count_spot_problems(stats, fix=not check)
+    errs += index_date_problems(stats, fix=not check)
     errs += hardcode_problems(stats)
     if check:
         if errs:

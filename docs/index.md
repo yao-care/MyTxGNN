@@ -3,6 +3,7 @@ layout: default
 title: Laporan Pengesahan Penggunaan Semula Ubat
 nav_order: 1
 description: "Ramalan penggunaan semula ubat berkuasa AI untuk ubat yang diluluskan NPRA Malaysia menggunakan model TxGNN (pembelajaran mendalam)."
+last_modified_at: 2026-11-04
 permalink: /
 image: /assets/images/og-default.png
 ---
@@ -29,7 +30,20 @@ Memanfaatkan AI untuk menemui penggunaan terapeutik baharu bagi ubat sedia ada. 
 
 Laman ini menerbitkan laporan bagi **{{ site.data.drug_stats.total_drugs }}** ubat dalam data pendaftaran [NPRA](https://npra.gov.my/) (Malaysia).
 
-Laporan mengikut tahap bukti: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+Set data: [data.gov.my: Pharmaceutical Products (NPRA)](https://data.gov.my/data-catalogue/pharmaceutical_products); dimuat turun dan dibandingkan secara automatik setiap minggu (hari Isnin). Butiran: [Data Sources]({{ '/sources/' | relative_url }}).
+
+Laporan mengikut tahap bukti:
+
+| Tahap bukti | Laporan | Peratusan |
+|---|---|---|
+| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+
+6 pasangan ubat–penyakit yang diramal di laman ini tidak terdapat di mana-mana laman lain antara 30 laman TxGNN.
 
 ### Ubat dengan tahap bukti tertinggi di laman ini
 
@@ -39,12 +53,12 @@ Laporan mengikut tahap bukti: L1 {{ site.data.drug_stats.level_counts.L1 }} · L
 | [Bupropion](/drugs/bupropion/) | L1 |
 | [Busulfan](/drugs/busulfan/) | L1 |
 | [Fludarabine](/drugs/fludarabine/) | L1 |
-| [Tegafur](/drugs/tegafur/) | L1 |
-| [Hydrocortisone](/drugs/hydrocortisone/) | L1 |
-| [Hydrocortisone Acetate](/drugs/hydrocortisone-acetate/) | L1 |
 | [Clofarabine](/drugs/clofarabine/) | L1 |
+| [Clomipramine](/drugs/clomipramine/) | L1 |
 | [Doxorubicin](/drugs/doxorubicin/) | L1 |
-| [Salmeterol](/drugs/salmeterol/) | L1 |
+| [Ketorolac](/drugs/ketorolac/) | L1 |
+| [Tacrolimus](/drugs/tacrolimus/) | L1 |
+| [Dapsone](/drugs/dapsone/) | L1 |
 
 ### Ubat yang hanya diliputi oleh laman ini antara 30 laman TxGNN
 
@@ -143,7 +157,7 @@ Platform ini menggunakan model pembelajaran mendalam <a href="https://www.nature
 | Item | Jumlah |
 |------|--------|
 | Produk Berdaftar NPRA | 27,938 |
-| Ubat dengan Pemetaan DrugBank | 508 |
+| Ubat dengan Pemetaan DrugBank | 1,061 |
 | Indikasi Baharu Diramal | {{ site.data.site_stats.indications }} |
 | Penyakit Unik | 17,041 |
 
@@ -218,22 +232,11 @@ Platform ini mengintegrasikan pelbagai sumber data awam berautoriti untuk memast
 <strong>Penafian</strong><br>
 Laporan ini adalah untuk <strong>tujuan penyelidikan akademik sahaja</strong> dan bukan nasihat perubatan. Penggunaan ubat hendaklah mengikut panduan doktor. Jangan mengubah ubatan sendiri. Sebarang keputusan penggunaan semula ubat memerlukan pengesahan klinikal lengkap dan semakan regulatori.
 <br><br>
-<small>Kemas kini terakhir: 2026-03-03 | Pasukan Penyelidikan MyTxGNN</small>
+<small>Kemas kini terakhir: {{ page.last_modified_at | date: "%Y-%m-%d" }} | Pasukan Penyelidikan MyTxGNN</small>
 </div>
 
 ---
 
 ## Tentang Pembangun
 
-Platform ini dibangunkan dan dikendalikan oleh **藥提醒科技有限公司** (yao.care, nombor pendaftaran
-syarikat 83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan).
-
-MyTxGNN ialah laman Malaysia bagi barisan produk "TxGNN Drug Repurposing" syarikat tersebut.
-Sistem yang sama digunakan di 30 negara dan wilayah, masing-masing dinamakan `{CC}TxGNN`
-(JpTxGNN, UsTxGNN, DETxGNN, dan seterusnya) di `{cc}txgnn.yao.care`.
-Gambaran keseluruhan produk: <https://www.yao.care/medical/txgnn/>.
-
-Model TxGNN itu sendiri dibangunkan oleh Zitnik Lab di Harvard Medical School dan diterbitkan
-dalam *Nature Medicine*. Platform ini ialah sistem pengeluaran yang dibina oleh 藥提醒科技有限公司
-berasaskan model tersebut, merangkumi integrasi data pendaftaran ubat kebangsaan, ramalan pembelajaran mendalam yang mengecualikan kegunaan yang sudah direkodkan dalam graf pengetahuan, penggredan bukti PubMed /
-ClinicalTrials, serta integrasi rekod kesihatan elektronik SMART on FHIR.
+Platform ini dibangunkan dan dikendalikan oleh **藥提醒科技有限公司** (yao.care). Lihat halaman <a href="{{ '/about/' | relative_url }}">Tentang Projek</a> untuk latar belakang penuh syarikat dan metodologi.
