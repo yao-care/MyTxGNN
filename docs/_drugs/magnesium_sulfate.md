@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Magnesium Sulfate
-parent: Low Evidence (L4-L5)
+parent: Medium Evidence (L3)
 nav_order: 483
-evidence_level: L4
+evidence_level: L3
 indication_count: 8
 monitor_inn: "MAGNESIUM SULFATE"
 predicted_indications: ["thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
-last_modified_at: 2026-11-03
-description: "Magnesium Sulfate: indikasi baharu diramal Penyakit trombotik (thrombotic disease) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
+last_modified_at: 2026-11-04
+description: "Magnesium Sulfate: indikasi baharu diramal Penyakit trombotik (thrombotic disease) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Magnesium Sulfate
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **8** 
+Tahap bukti: **L3** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,58 +38,48 @@ Tahap bukti: **L4** | Indikasi diramal: **8**
 
 ## Ringkasan Satu Ayat
 
-Magnesium sulfate ialah garam magnesium yang telah dipasarkan di Malaysia dalam bentuk suntikan dan infusan. Model TxGNN meramalkan ia mungkin berguna untuk **penyakit trombotik (thrombotic disease)**. Sokongan setakat ini lemah: **1 ujian klinikal** (khusus untuk purpura trombositopenik trombotik, status tidak diketahui) dan sebahagian besar kajian prapklinikal. Skor ramalan yang sangat tinggi tidak disokong oleh data klinikal yang kukuh.
+Magnesium sulfat ialah garam magnesium yang telah didaftarkan dan dipasarkan di Malaysia. Model TxGNN meramalkan ia mungkin berguna untuk **penyakit trombotik (thrombotic disease)**. Setakat ini terdapat **1 percubaan klinikal** (Fasa 3, status tidak diketahui, tiada keputusan) dan beberapa kajian praklinikal serta satu kajian perintis tanpa rawak yang menyokong arah ini.
 
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Penyakit trombotik (thrombotic disease) |
 | Skor Ramalan TxGNN | 0.9990 |
-| Tahap Bukti | L4 |
+| Tahap Bukti | L3 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
 | Bilangan Pendaftaran | 12 (sah: 12) |
-| Keputusan Disyorkan | Hold (Tangguh) |
-
----
+| Keputusan Disyorkan | Tahan |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, magnesium berfungsi sebagai antagonis kalsium fisiologi. Ia boleh mempengaruhi tonus saluran darah dan pengagregatan platelet.
+Data terperinci tentang mekanisme tindakan magnesium sulfat tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, kajian praklinikal pada arnab, anjing dan tikus menunjukkan magnesium boleh mengurangkan pemendapan platelet dan pembentukan trombus selepas kerosakan endotelium atau penyempitan arteri. Mekanisme yang mungkin ialah kesan antagonis kalsium, kesan ke atas pengagregatan platelet dan kesan ke atas tonus vaskular.
 
-Kajian prapklinikal pada arnab, anjing dan tikus menunjukkan magnesium sulfate mengurangkan pemendapan platelet dan pembentukan trombus selepas kerosakan endotelium arteri. Satu kajian perintis kecil tanpa rawak pada pesakit yang menjalani intervensi koronari perkutaneus dengan pemasangan stent juga menilai kebolehlaksanaan magnesium untuk tujuan ini.
+Kajian perintis tanpa rawak (PMID 14506544) menguji kebolehlaksanaan pemberian magnesium kepada pesakit yang menjalani pemasangan stent koronari. Satu percubaan Fasa 3 berawak juga sedang menilai magnesium sulfat dalam purpura trombositopenik trombotik (TTP), iaitu sejenis mikroangiopati trombotik.
 
-Walau bagaimanapun, bukti klinikal kekal terhad dan tidak langsung. Sebahagian rujukan yang disenaraikan oleh model tidak berkaitan dengan trombosis, seperti kajian pembedahan tulang belakang dan kajian tikus tentang bahan lain. Isyarat daripada literatur ini sebahagian besarnya hanyalah "bunyi" (noise).
+Skor TxGNN yang sangat tinggi belum disokong oleh data klinikal yang kukuh. Bukti klinikal masih terhad dan sebahagian besar bersifat praklinikal.
 
----
+## Bukti Percubaan Klinikal
 
-## Bukti Ujian Klinikal
-
-| No. Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT03237819](https://clinicaltrials.gov/study/NCT03237819) | Fasa 3 | Tidak diketahui | 74 | Ujian terkawal rawak berbilang pusat tentang magnesium sulfate dalam purpura trombositopenik trombotik (TTP) di rawatan rapi. Tiada keputusan diterbitkan. TTP ialah satu jenis mikroangiopati trombotik yang khusus, jadi kebolehgunaan kepada penyakit trombotik secara am adalah terhad. |
-
----
+| [NCT03237819](https://clinicaltrials.gov/study/NCT03237819) | Fasa 3 | Tidak diketahui | 74 | Percubaan terkawal rawak berbilang pusat tentang magnesium sulfat dalam TTP di unit rawatan rapi. TTP berpunca daripada kekurangan ADAMTS13 yang membawa kepada mikrotrombus. Tiada keputusan diterbitkan. |
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [14506544](https://pubmed.ncbi.nlm.nih.gov/14506544/) | 2003 | Kajian perintis (tanpa rawak) | J Cardiovasc Pharmacol Ther | Menguji kebolehlaksanaan pemberian magnesium pada pesakit yang menjalani PCI bukan akut dengan stent, berdasarkan kesan antitrombotik dalam model haiwan. |
-| [11816720](https://pubmed.ncbi.nlm.nih.gov/11816720/) | 2001 | Prapklinikal | Thromb Haemost | Infusi magnesium sulfate mencegah dan melewatkan pembentukan trombus arteri karotid pada tikus, dengan gangguan pembekuan in vivo. |
-| [3441141](https://pubmed.ncbi.nlm.nih.gov/3441141/) | 1987 | Prapklinikal | Magnesium | Kesan antitrombogenik magnesium sulfate pada tapak kerosakan endotelium selepas penyempitan separa arteri koronari (anjing) dan karotid (arnab). |
-| [7368083](https://pubmed.ncbi.nlm.nih.gov/7368083/) | 1980 | Prapklinikal | Surgery | Magnesium sulfate mengurangkan pemendapan platelet pada arnab selepas oklusi arteri sementara dengan klip pembedahan. |
-| [8024163](https://pubmed.ncbi.nlm.nih.gov/8024163/) | 1994 | Fisiologi/prapklinikal | Angiology | Kesan infusi magnesium sulfate pada noradrenalin dan neuropeptida-Y dalam fenomena Raynaud primer (12 pesakit). Kaitan dengan trombosis hanya tidak langsung. |
-| [14168822](https://pubmed.ncbi.nlm.nih.gov/14168822/) | 1964 | Laporan klinikal lama | The Practitioner | Penggunaan magnesium sulfate parenteral dalam penyakit arteri. Tiada abstrak tersedia. |
-
----
+| [14506544](https://pubmed.ncbi.nlm.nih.gov/14506544/) | 2003 | Kajian perintis tanpa rawak | J Cardiovasc Pharmacol Ther | Menguji kebolehlaksanaan pemberian magnesium pada pesakit yang menjalani pemasangan stent koronari bukan akut, kerana magnesium menghalang trombosis stent akut dalam model haiwan. |
+| [3441141](https://pubmed.ncbi.nlm.nih.gov/3441141/) | 1987 | Praklinikal | Magnesium | Magnesium sulfat menunjukkan kesan antitrombogenik pada tapak kerosakan endotelium selepas penyempitan separa arteri koronari (anjing) dan karotid (arnab). |
+| [11816720](https://pubmed.ncbi.nlm.nih.gov/11816720/) | 2001 | Praklinikal | Thromb Haemost | Infusi magnesium mencegah atau melambatkan pembentukan trombus arteri karotid pada tikus dan menjejaskan pembekuan secara in vivo. |
+| [7368083](https://pubmed.ncbi.nlm.nih.gov/7368083/) | 1980 | Praklinikal | Surgery | Magnesium sulfat mengurangkan pemendapan platelet pada arnab selepas oklusi arteri sementara. |
+| [14168822](https://pubmed.ncbi.nlm.nih.gov/14168822/) | 1964 | Laporan klinikal | The Practitioner | Laporan lama tentang magnesium sulfat parenteral dalam penyakit arteri. Tiada abstrak. |
+| [8024163](https://pubmed.ncbi.nlm.nih.gov/8024163/) | 1994 | Fisiologi | Angiology | Kesan infusi magnesium sulfat ke atas noradrenalin dan neuropeptida Y pada pesakit fenomena Raynaud primer. Hanya berkaitan secara tidak langsung. |
 
 ## Maklumat Pasaran di Malaysia
 
-Status pasaran: **Dipasarkan**. Semua lesen yang direkodkan ialah lesen sah. Berikut ialah lesen produk bahan tunggal yang dipilih.
+Data tempatan merekodkan 12 lesen yang semuanya sah, iaitu 6 produk bahan tunggal dan 6 produk kombinasi. Senarai di bawah hanya memaparkan produk bahan tunggal. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 
 | Nombor Kebenaran | Nama Produk | Pengilang |
 |---------|------|------|
@@ -99,30 +89,26 @@ Status pasaran: **Dipasarkan**. Semua lesen yang direkodkan ialah lesen sah. Ber
 | MAL22126035ACZ | Magnesium sulfate Kalceks 500 mg/ml solution for injection/infusion | Eucogen Sdn. Bhd. |
 | MAL23036016AZ | Magnesium sulfate / DEMO 50% w/v concentrate for solution for injection or infusion | Pahang Pharmacy Sdn. Bhd. |
 
----
-
 ## Pertimbangan Keselamatan
 
-- **Interaksi Ubat** (92 interaksi direkodkan; yang utama disenaraikan):
-  - **Major**: dolutegravir, bictegravir, amikacin
-  - **Moderate**: nifedipine, amlodipine, doksisiklin, tetrasiklin, siprofloksasin, sisatrakurium, hidrokortison, deksametason, betametason, triamsinolon, asid alendronik, asid risedronik, ibandronat, kolekalsiferol, kalsifediol, kalsitriol, baloxavir marboxil
+**Interaksi Ubat**: 92 interaksi direkodkan. Antara yang paling penting:
+- **Major**: dolutegravir, bictegravir, amikacin.
+- **Moderate** (contoh): doxycycline, tetracycline, ciprofloxacin, nifedipine, amlodipine, cisatracurium, bisfosfonat (alendronat, risedronat, ibandronat), vitamin D (kolekalsiferol, kalsifediol, kalsitriol) dan kortikosteroid (hidrokortison, deksametason, betametason, triamsinolon).
 
-Untuk amaran dan kontraindikasi, sila rujuk sisipan pakej produk.
-
----
+Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tangguh)**
+**Keputusan: Tahan**
 
 **Rasional:**
-- Skor TxGNN sangat tinggi (0.9990), tetapi bukti klinikal untuk penyakit trombotik hanya satu ujian Fasa 3 yang khusus untuk TTP (status tidak diketahui, tiada keputusan) dan kajian prapklinikal serta perintis kecil. Bukti ini belum cukup untuk meneruskan.
+- Bukti tahap L3 terdiri daripada satu kajian perintis tanpa rawak dan kajian praklinikal. Percubaan rawak dalam TTP berstatus tidak diketahui dan tiada keputusan. Skor TxGNN yang tinggi belum disokong oleh data klinikal yang mencukupi.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Keputusan atau status terkini NCT03237819, dan ujian terkawal rawak pada jenis trombosis yang khusus, seperti trombosis stent atau vena.
-- Data mekanisme tindakan (MOA) terperinci.
-- Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA.
-- Penilaian risiko pendarahan dan interaksi ubat bagi pesakit yang menggunakan antikoagulan atau antiplatelet.
+- Keputusan atau status terkini percubaan NCT03237819.
+- Percubaan klinikal terkawal yang menilai magnesium sulfat dalam keadaan trombotik yang ditakrifkan dengan jelas.
+- Data mekanisme tindakan yang terperinci.
+- Amaran dan kontraindikasi daripada sisipan pek yang diluluskan di Malaysia, disertai pelan pemantauan keselamatan.
 
 ## Penafian
 

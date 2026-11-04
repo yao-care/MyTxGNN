@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Vinblastine
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 724
-evidence_level: L3
+evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 monitor_inn: "vinblastine"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
-description: "Vinblastine: indikasi baharu diramal Rhabdomyosarcoma (rhabdomyosarcoma (disease)) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Vinblastine: indikasi baharu diramal Rabdomiosarkoma (rhabdomyosarcoma (disease)) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Vinblastine
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **10** 
+Tahap bukti: **L4** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,44 +33,40 @@ Tahap bukti: **L3** | Indikasi diramal: **10**
 
 </div>
 
-## Vinblastine: Rhabdomyosarcoma (rhabdomyosarcoma (disease))
+## Vinblastine: Rabdomiosarkoma (rhabdomyosarcoma (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Vinblastine ialah alkaloid vinca yang pada asalnya digunakan untuk merawat limfoma (termasuk limfoma Hodgkin, limfoma bukan Hodgkin dan mycosis fungoides) serta histiositosis sel Langerhans.
-Model TxGNN meramalkan ia mungkin berkesan untuk **rhabdomyosarcoma**,
-tetapi setakat ini **tiada ujian klinikal berdaftar** dan hanya **7 penerbitan** (kebanyakannya laporan kes dan kajian praklinikal) yang berkaitan dengan arah ini.
+Vinblastine ialah alkaloid vinca yang mengikat tubulin dan menghalang pemasangan mikrotubul sehingga sel terhenti pada fasa mitosis. Model TxGNN meramalkan ia mungkin berkesan untuk **rabdomiosarkoma (rhabdomyosarcoma (disease))**. Setakat ini tiada percubaan klinikal berdaftar, dan sokongan hanya datang daripada **laporan kes** penggunaan kemoterapi yang mengandungi vinblastine serta beberapa kajian praklinikal, jadi tahap bukti ialah **L4**.
 
 ---
 
-## Gambaran Ringkas
+## Gambaran Keseluruhan Pantas
 
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Rhabdomyosarcoma (rhabdomyosarcoma (disease)) |
+| Indikasi Baharu yang Diramalkan | Rabdomiosarkoma (rhabdomyosarcoma (disease)) |
 | Skor Ramalan TxGNN | 0.9986 |
-| Tahap Bukti | L3 |
+| Tahap Bukti | L4 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
-| Keputusan yang Disyorkan | Hold |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan sedia ada, vinblastine ialah alkaloid vinca yang mengikat tubulin dan menghalang pemasangan mikrotubul, lalu menyebabkan sel terhenti pada mitosis. Sel sarkoma yang membahagi dengan pantas secara teorinya sensitif terhadap mekanisme ini.
+Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, vinblastine diketahui sebagai alkaloid vinca yang mengikat tubulin dan menghalang pemasangan mikrotubul, lalu menyebabkan henti mitosis. Sel sarkoma yang membahagi dengan pantas secara teorinya sensitif kepada mekanisme ini.
 
-Indikasi asal vinblastine ialah keganasan hematologi (limfoma), manakala rhabdomyosarcoma ialah sarkoma tisu lembut. Kedua-duanya ialah keganasan berproliferasi pantas yang boleh bertindak balas terhadap ubat antimitosis. Alkaloid vinca (terutamanya vincristine) sudah menjadi tulang belakang rejimen rhabdomyosarcoma, jadi kaitan peringkat kelas ubat adalah kukuh.
-
-Walau bagaimanapun, bukti khusus untuk vinblastine terhad kepada satu kajian perintis rejimen metronomik pediatrik 4 ubat, beberapa laporan kes, dan kajian praklinikal (termasuk sinergi letal sintetik antara perencat PLK1 dan ubat penyahstabil mikrotubul). Sumbangan vinblastine secara berasingan sukar dipastikan kerana kebanyakan laporan menggunakan kombinasi pelbagai ubat.
+Alkaloid vinca, terutamanya vincristine, sudah menjadi tulang belakang kepada regimen rabdomiosarkoma, maka kaitan pada peringkat kelas ubat adalah kukuh. Bukti khusus untuk vinblastine pula terhad kepada satu kajian perintis regimen metronomik pediatrik empat ubat dan beberapa laporan kes. Satu kajian praklinikal mengenai sinergi maut antara perencat PLK1 dan ubat penggoyah mikrotubul dalam model rabdomiosarkoma turut memberi sokongan tambahan.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
@@ -78,26 +74,20 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [38050209](https://pubmed.ncbi.nlm.nih.gov/38050209/) | 2023 | Laporan kes/Ulasan | Medicine | Rhabdomyosarcoma perianal pada orang dewasa; selepas 3 kitaran nivolumab, dacarbazine, cisplatin dan vinblastine, tindak balas separa dicapai sebelum pembedahan |
-| [22156656](https://pubmed.ncbi.nlm.nih.gov/22156656/) | 2011 | Kajian perintis | Oncotarget | Kajian perintis rejimen metronomik pediatrik 4 ubat |
-| [41216926](https://pubmed.ncbi.nlm.nih.gov/41216926/) | 2026 | Kohort | Pediatric Blood & Cancer | Percubaan CWS-96 dan CWS-2002P untuk sarkoma tisu lembut bukan RMS pada kanak-kanak (relevan secara tidak langsung) |
-| [26024389](https://pubmed.ncbi.nlm.nih.gov/26024389/) | 2015 | Praklinikal | Cell Death & Differentiation | Sinergi letal sintetik antara perencat PLK1 dan ubat penyahstabil mikrotubul dalam model RMS |
-| [3329524](https://pubmed.ncbi.nlm.nih.gov/3329524/) | 1987 | Praklinikal | Anti-Cancer Drug Design | Selektiviti terapeutik alkaloid vinca dikaji dalam xenograf rhabdomyosarcoma manusia pada tikus |
-| [2451411](https://pubmed.ncbi.nlm.nih.gov/2451411/) | 1987 | Laporan kes/Ulasan | Hinyokika Kiyo | Rhabdomyosarcoma prostat refraktori pada kanak-kanak; kombinasi cisplatin, vinblastine dan peplomycin mengecilkan jisim pelvis dengan pantas |
-| [14328283](https://pubmed.ncbi.nlm.nih.gov/14328283/) | 1965 | Ulasan (sejarah) | Br J Clin Pract | Ulasan sejarah kemoterapi tumor pada kanak-kanak |
+| [38050209](https://pubmed.ncbi.nlm.nih.gov/38050209/) | 2023 | Laporan kes/Ulasan | Medicine | Rabdomiosarkoma perianal pada orang dewasa; selepas nivolumab, dacarbazine, cisplatin dan vinblastine, respons separa dicapai sebelum pembedahan |
+| [2451411](https://pubmed.ncbi.nlm.nih.gov/2451411/) | 1987 | Laporan kes/Ulasan | Hinyokika kiyo | Rabdomiosarkoma prostat refraktori pada kanak-kanak; gabungan cisplatin, vinblastine dan peplomycin mengecilkan jisim pelvis dengan pantas |
+| [22156656](https://pubmed.ncbi.nlm.nih.gov/22156656/) | 2011 | Kajian perintis | Oncotarget | Kajian perintis regimen metronomik pediatrik empat ubat |
+| [26024389](https://pubmed.ncbi.nlm.nih.gov/26024389/) | 2015 | Praklinikal | Cell Death & Differentiation | Perencat PLK1 dan ubat penggoyah mikrotubul menyebabkan apoptosis secara sinergi dalam model rabdomiosarkoma |
+| [3329524](https://pubmed.ncbi.nlm.nih.gov/3329524/) | 1987 | Praklinikal | Anti-cancer Drug Design | Selektiviti terapeutik alkaloid vinca dikaji dalam xenograf rabdomiosarkoma manusia pada tikus |
+| [14328283](https://pubmed.ncbi.nlm.nih.gov/14328283/) | 1965 | Ulasan (sejarah) | British Journal of Clinical Practice | Ulasan kemoterapi tumor pada kanak-kanak |
+
+Semua laporan kes melibatkan regimen berbilang ubat, maka sumbangan vinblastine sahaja tidak dapat diasingkan.
 
 ---
 
-## Keselamatan
+## Maklumat Pasaran di Malaysia
 
-**Isyarat daripada graf pengetahuan** (bukan teks label): graf pengetahuan TxGNN merekodkan kontraindikasi dengan keadaan seperti kegagalan hati, trombositopenia, neutropenia, agranulositosis, penyakit/neuropati periferal, hiperbilirubinemia (termasuk sindrom Gilbert), penyakit paru-paru, iskemia miokardium/penyakit arteri koronari, dan penyakit berjangkit (termasuk jangkitan kulat).
-
-**Interaksi Ubat**: sebanyak 100 interaksi direkodkan. Yang utama:
-- **Major**: clarithromycin
-- **Moderate**: aprepitant, dexamethasone, metronidazole, eliglustat, miconazole, rolapitant, rosuvastatin, simvastatin, tinidazole, glycerol phenylbutyrate, troglitazone
-- **Minor**: levofloxacin
-
-Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi rasmi.
+Menurut data tempatan, status pasaran ialah **dipasarkan** dan terdapat 1 lesen yang sah. Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ---
 
@@ -106,11 +96,25 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi rasmi.
 | Perkara | Kandungan |
 |------|------|
 | Klasifikasi Sitotoksisiti | Sitotoksik konvensional (alkaloid vinca, perencat mikrotubul) |
+| Risiko Penindasan Sumsum Tulang | Tinggi (neutropenia dan trombositopenia perlu diberi perhatian) |
 | Klasifikasi Emetogenisiti | Rendah hingga sederhana |
-| Item Pemantauan | Kiraan darah penuh (CBC) dengan pembezaan, fungsi hati dan buah pinggang, status neurologi periferal |
+| Item Pemantauan | Kiraan darah lengkap (dengan pembezaan), fungsi hati dan buah pinggang, status neurologi periferi |
 | Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
 
-Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej untuk maklumat rasmi. Penilaian di atas berdasarkan pengetahuan am mengenai kelas ubat ini, bukan data khusus dalam data yang dikumpulkan.
+Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej untuk maklumat lanjut.
+
+---
+
+## Pertimbangan Keselamatan
+
+**Interaksi Ubat** (100 interaksi direkodkan; yang utama disenaraikan):
+- **Major**: clarithromycin
+- **Sederhana**: aprepitant, dexamethasone, metronidazole, eliglustat, miconazole, rolapitant, rosuvastatin, simvastatin, tinidazole, glycerol phenylbutyrate, troglitazone
+- **Minor**: levofloxacin
+
+Daripada literatur yang dikaji, kes ileus teruk dengan infusi cisplatin dan vinblastine (pada neuroblastoma) serta isu neurotoksisiti agen mikrotubul turut perlu diberi perhatian.
+
+Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 ---
 
@@ -119,23 +123,14 @@ Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej untuk maklumat ra
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Skor ramalan tinggi dan kaitan mekanistik peringkat kelas ubat (alkaloid vinca dalam rhabdomyosarcoma) adalah kukuh. Namun, tiada ujian klinikal, bukti khusus vinblastine hanya terdiri daripada laporan kes dan kajian praklinikal, dan vinblastine belum didaftarkan di Malaysia.
+Skor ramalan sangat tinggi dan kelas alkaloid vinca sudah berperanan dalam regimen rabdomiosarkoma, tetapi bukti khusus vinblastine hanya terdiri daripada laporan kes regimen berbilang ubat dan data praklinikal, tanpa sebarang percubaan klinikal. Tahap bukti ialah L4.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan, kerana ini ialah jurang data yang menghalang
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank
-- Perbandingan dengan vincristine/vinorelbine yang sudah mantap dalam rejimen rhabdomyosarcoma, untuk menilai nilai tambah vinblastine
-- Data klinikal prospektif atau ujian terkawal khusus untuk vinblastine dalam rhabdomyosarcoma
-- Pelan laluan pendaftaran dan bekalan kerana tiada produk berdaftar di Malaysia
-
-### Penilaian Calon Indikasi Lain (Ringkas)
-
-| Indikasi Diramalkan | Skor TxGNN | Tahap Bukti | Keputusan |
-|------|------|------|------|
-| Monocytic leukemia | 0.9978 | L3 | Research Question (siri kes lama 1975–1977, relevan klinikal tidak pasti) |
-| Neuroblastoma | 0.9914 | L3 | Research Question (kebanyakannya praklinikal; laporan ileus teruk dengan cisplatin-vinblastine 1988 ialah isyarat keselamatan) |
-| Prostate embryonal rhabdomyosarcoma | 0.9983 | L5 | Hold (laporan kes sahaja, rejimen pelbagai ubat) |
-| Liver sarcoma | 0.9981 | L4 | Hold (bukti kebanyakannya tidak berkaitan atau tidak langsung) |
+- Data mekanisme tindakan yang terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA (halangan kepada saringan keselamatan)
+- Bukti klinikal yang lebih langsung, termasuk kajian yang menilai sumbangan vinblastine dalam regimen rabdomiosarkoma
+- Butiran lesen tempatan (nombor kebenaran, produk, bentuk dos)
+- Pelan pemantauan keselamatan, terutamanya untuk penindasan sumsum tulang dan neurotoksisiti
 
 ## Penafian
 

@@ -3,18 +3,18 @@ layout: default
 title: Hydrocortisone Acetate
 parent: High Evidence (L1-L2)
 nav_order: 404
-evidence_level: L1
+evidence_level: L2
 indication_count: 9
 monitor_inn: "Hydrocortisone Acetate"
 predicted_indications: ["alopecia areata", "telogen effluvium", "alopecia mucinosa", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "seborrheic keratosis"]
-last_modified_at: 2026-10-28
-description: "Hydrocortisone Acetate: indikasi baharu diramal Alopecia areata (tahap bukti L1). Indikasi asal: Tiada teks indikasi diluluskan dalam rekod lesen tempatan. Hubungan y…"
+last_modified_at: 2026-11-04
+description: "Hydrocortisone Acetate: indikasi baharu diramal Alopesia areata (alopecia areata) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Hydrocortisone Acetate
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **9** 
+Tahap bukti: **L2** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,50 +33,51 @@ Tahap bukti: **L1** | Indikasi diramal: **9**
 
 </div>
 
-## Hydrocortisone Acetate: Daripada Penyakit Autoimun dan Insufisiensi Adrenokortikal kepada Alopecia Areata
+## Hydrocortisone Acetate: Alopesia areata (alopecia areata)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Hydrocortisone Acetate ialah kortikosteroid yang dikaitkan dengan penyakit autoimun, insufisiensi adrenokortikal dan penyakit radang usus. Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **alopecia areata**. Skor ini datang daripada model TxGNN dan boleh mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Setakat ini terdapat **1 ujian klinikal** (hydrocortisone sebagai pembanding sahaja) dan **2 penerbitan** yang berkaitan dengan arah ini, dan kedua-duanya terhad nilainya.
+Hydrocortisone Acetate ialah kortikosteroid yang mempunyai kesan anti-radang dan imunosupresif. Model TxGNN meramalkan ia mungkin berguna untuk **alopesia areata (alopecia areata)**. Setakat ini terdapat **1 ujian klinikal** (hydrocortisone hanya sebagai ubat pembanding) dan **2 penerbitan** yang berkaitan, tetapi hanya satu daripadanya mengkaji alopesia areata secara langsung. Tahap bukti ialah **L2**.
 
 ## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada teks indikasi diluluskan dalam rekod lesen tempatan. Hubungan yang direkodkan dalam graf pengetahuan: penyakit autoimun, insufisiensi adrenokortikal, penyakit Crohn, hiperplasia adrenal kongenital |
-| Indikasi Baharu yang Diramalkan | Alopecia areata |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Alopesia areata (alopecia areata) |
 | Skor Ramalan TxGNN | 0.9994 |
-| Tahap Bukti | L1 |
+| Tahap Bukti | L2 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 34 daripada 34) |
 | Bilangan Pendaftaran | 34 (sah: 34) |
-| Bilangan Kelulusan | 34 pendaftaran (13 produk tunggal, 21 produk kombinasi) |
-| Keputusan Disyorkan | Hold |
+| Keputusan Disyorkan | Tangguh |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan belum tersedia. Berdasarkan maklumat yang diketahui, Hydrocortisone Acetate ialah kortikosteroid dengan kesan anti-radang dan imunosupresif. Alopecia areata ialah penyakit autoimun yang melibatkan serangan sel T terhadap folikel rambut, jadi secara mekanisme kortikosteroid mungkin sesuai.
+Data mekanisme tindakan terperinci untuk ubat ini tidak tersedia buat masa ini. Namun, hydrocortisone ialah kortikosteroid dengan kesan anti-radang dan imunosupresif yang diketahui.
 
-Perlu diingat bahawa hydrocortisone topikal berkuasa rendah umumnya dianggap kurang berkesan berbanding kortikosteroid berkuasa tinggi atau suntikan intralesi untuk penyakit ini. Hubungan antara indikasi asal dengan indikasi baharu ini lebih bersifat kemungkinan mekanisme daripada bukti keberkesanan.
+Alopesia areata ialah penyakit autoimun. Sel T menyerang folikel rambut, jadi ubat yang menekan tindak balas imun dan keradangan setempat berpotensi memberi manfaat. Inilah hubung kait mekanisme yang munasabah bagi ramalan tersebut.
+
+Walau bagaimanapun, hydrocortisone topikal berkekuatan rendah umumnya dianggap kurang berkesan berbanding kortikosteroid berkekuatan tinggi atau suntikan intralesi untuk keadaan ini. Ramalan ini perlu ditafsirkan dengan berhati-hati.
 
 ## Bukti Ujian Klinikal
 
 | Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT01453686](https://clinicaltrials.gov/study/NCT01453686) | Fasa 3 | Selesai | 41 | Krim clobetasol propionate 0.05% dibandingkan dengan krim hydrocortisone 1% pada kanak-kanak dengan alopecia areata. Hydrocortisone ialah lengan pembanding, jadi ujian ini tidak membuktikan keberkesanannya |
+| [NCT01453686](https://clinicaltrials.gov/study/NCT01453686) | Fasa 3 | Selesai | 41 | Ujian rawak pada kanak-kanak dengan alopesia areata yang membandingkan krim clobetasol propionate 0.05% dengan krim hydrocortisone 1%. Hydrocortisone ialah ubat pembanding, bukan ubat yang dikaji. |
 
-Ujian ini menunjukkan bahawa hydrocortisone pernah dikaji secara langsung dalam penyakit ini, tetapi saiz sampel yang kecil mengehadkan kekuatan kesimpulan.
+Ujian ini menunjukkan bahawa hydrocortisone pernah dikaji secara langsung dalam penyakit ini. Ia tidak membuktikan keberkesanan hydrocortisone, dan saiz sampel yang kecil (41 peserta) mengehadkan kekuatan kesimpulan.
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [4755919](https://pubmed.ncbi.nlm.nih.gov/4755919/) | 1973 | Siri kes | Przeglad dermatologiczny | Rawatan alopecia areata teruk dengan suntikan intralesi suspensi hydrocortisone acetate |
-| [153470](https://pubmed.ncbi.nlm.nih.gov/153470/) | 1979 | Ulasan | MMW, Munchener medizinische Wochenschrift | Ulasan terapi topikal penyakit kulit; kesan anti-radang fluocortin butyl ester dikatakan hampir sama dengan hydrocortisone acetate. Tidak mengkaji alopecia areata secara langsung |
+| [4755919](https://pubmed.ncbi.nlm.nih.gov/4755919/) | 1973 | Siri kes | Przeglad dermatologiczny | Rawatan alopesia areata yang teruk menggunakan suntikan intralesi hydrocortisone acetate (ringkasan berdasarkan tajuk kerana abstrak tidak tersedia). |
+| [153470](https://pubmed.ncbi.nlm.nih.gov/153470/) | 1979 | Ulasan | MMW, Munchener medizinische Wochenschrift | Ulasan umum kemajuan terapi topikal penyakit kulit. Kesan anti-radang kortikosteroid baharu (fluocortin butyl ester) dilaporkan lebih kurang setara dengan hydrocortisone acetate. Ulasan ini tidak menumpu secara khusus pada alopesia areata. |
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-Teks indikasi diluluskan tidak tersedia dalam data yang dikumpulkan. Berikut ialah 5 daripada 34 pendaftaran produk tunggal (senarai penuh tidak dipaparkan di sini).
+Produk hydrocortisone acetate dipasarkan di Malaysia, dan semua lesen yang direkodkan berstatus sah. Berikut ialah lima produk bahan tunggal yang dipilih:
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
@@ -86,27 +87,25 @@ Teks indikasi diluluskan tidak tersedia dalam data yang dikumpulkan. Berikut ial
 | MAL19870461AZ | Royce Hydrocortisone Acetate Cream 1% w/w | Tiada data | Tiada data |
 | MAL20076037AZ | Mecort (Hydrocortisone Acetate Cream 1% w/w) | Tiada data | Tiada data |
 
-Daripada 34 pendaftaran, 21 ialah produk kombinasi dan tidak digunakan untuk menggambarkan status kelulusan bahan tunggal. Nama produk menunjukkan bahawa produk tunggal yang berdaftar kebanyakannya ialah krim topikal.
+Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 
 ## Pertimbangan Keselamatan
 
-- **Penyakit/keadaan yang dikaitkan dengan kontraindikasi dalam graf pengetahuan** (bukan teks label): hipertensi, epilepsi, ulser gastrik, penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, hiperglisemia, campak, keratitis herpes simplex, serta pelbagai keadaan kekurangan hormon pituitari dan hipogonadisme.
-
-Untuk amaran utama, kontraindikasi rasmi dan interaksi ubat, sila rujuk sisipan pakej kerana data berkenaan belum tersedia.
+Sila rujuk sisipan pek untuk maklumat keselamatan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Tangguh**
 
-**Rasional:**
-Satu-satunya ujian klinikal menggunakan hydrocortisone sebagai pembanding dan bukan sebagai rawatan yang dikaji, manakala literatur adalah lama dan terhad. Hydrocortisone topikal berkuasa rendah juga kurang berkesan berbanding alternatif. Oleh itu, tahap bukti L1 mengikut fasa ujian hanya mempunyai berat praktikal yang sederhana, dan data keselamatan tempatan masih tidak lengkap.
+**Justifikasi:**
+- Hanya satu ujian Fasa 3 yang kecil (41 peserta) mengkaji alopesia areata, dan hydrocortisone digunakan sebagai ubat pembanding, bukan ubat yang dikaji. Bukti lain terhad kepada siri kes lama. Hydrocortisone topikal berkekuatan rendah juga dianggap kurang berkesan berbanding pilihan kortikosteroid yang lebih kuat. Bukti semasa belum mencukupi untuk meneruskan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang)
-- Data mekanisme tindakan terperinci daripada DrugBank
-- Bukti keberkesanan langsung hydrocortisone dalam alopecia areata, dengan hydrocortisone sebagai lengan rawatan dan bukan pembanding
-- Pengesahan bentuk dos dan teks indikasi diluluskan bagi produk tempatan
-- Penilaian laluan pentadbiran yang sesuai (topikal berbanding suntikan intralesi)
+- Data mekanisme tindakan yang terperinci
+- Maklumat amaran dan kontraindikasi daripada sisipan pek
+- Ujian rawak yang meletakkan hydrocortisone sebagai ubat yang dikaji dalam alopesia areata, dengan perbandingan terhadap kortikosteroid berkekuatan lebih tinggi
+- Penilaian kesesuaian laluan pemberian (topikal berbanding intralesi) untuk indikasi ini
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

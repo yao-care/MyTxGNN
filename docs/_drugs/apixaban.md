@@ -3,18 +3,18 @@ layout: default
 title: Apixaban
 parent: Low Evidence (L4-L5)
 nav_order: 84
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
-description: "Apixaban: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tiada data indikasi berdaftar tersedia"
+last_modified_at: 2026-11-04
 monitor_inn: "APIXABAN"
 predicted_indications: ["migraine disorder"]
+description: "Apixaban: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Apixaban
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **1** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,82 +33,74 @@ Tahap bukti: **L4** | Indikasi diramal: **1**
 
 </div>
 
-## Apixaban: Daripada Pencegahan Tromboembolisme kepada Migrain
+## Apixaban: Migrain (migraine disorder)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Apixaban ialah perencat faktor Xa oral langsung (antikoagulan), dan data indikasi asal yang berdaftar di Malaysia tidak tersedia dalam data yang disusun untuk laporan ini.
-Model TxGNN meramalkan ia mungkin berkesan untuk **migrain (migraine disorder)**, tetapi bukti klinikal sangat terhad: **1 percubaan klinikal** yang tidak berkaitan secara langsung dan **3 penerbitan** (kebanyakannya laporan kes yang saling bercanggah).
+Apixaban ialah antikoagulan oral yang merencat faktor Xa secara langsung. Model TxGNN meramalkan ia mungkin berkesan untuk **migrain (migraine disorder)**, tetapi tahap bukti ialah **L5** kerana tiada kajian yang menyokong penggunaan apixaban untuk migrain; dua laporan kes yang ada menunjukkan migrain dengan aura bertambah teruk atau tidak pulih semasa menggunakan apixaban.
 
----
+## Gambaran Keseluruhan
 
-## Gambaran Ringkas
-
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi berdaftar tersedia |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Migrain (migraine disorder) |
 | Skor Ramalan TxGNN | 0.9902 |
-| Tahap Bukti | L4 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 25 daripada 25) |
 | Bilangan Pendaftaran | 25 (sah: 25) |
-| Keputusan Disyorkan | Hold (Tahan) |
-
----
+| Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, apixaban ialah perencat faktor Xa langsung yang mengurangkan pembentukan trombin dan bekuan darah. Hubungan mekanistiknya dengan migrain adalah tidak langsung dan tidak disokong oleh mekanisme yang jelas.
+Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Apixaban ialah perencat langsung faktor Xa yang mengurangkan pembentukan trombin dan bekuan darah.
 
-Satu hipotesis ialah migrain dengan aura, terutamanya apabila berkaitan dengan pirau kanan-ke-kiri seperti patent foramen ovale (PFO) atau antibodi antifosfolipid, mungkin melibatkan mikrotrombus atau embolisme paradoks. Secara teori, antikoagulasi boleh mengurangkan episod aura.
+Hubungan dengan migrain adalah tidak langsung. Satu hipotesis ialah migrain dengan aura, terutamanya apabila disertai pirau kanan-ke-kiri seperti foramen ovale paten (PFO) atau antibodi antifosfolipid, mungkin melibatkan mikrotrombus atau embolisme paradoksikal, sehingga antikoagulasi secara teori boleh mengurangkan episod aura.
 
-Namun, laporan kes yang ada menunjukkan arah bertentangan: satu melaporkan migrain dengan aura bertambah teruk selepas memulakan apixaban, dan satu lagi melaporkan simptom tidak reda dengan apixaban tetapi reda dengan warfarin. Ini tidak menyokong manfaat antikoagulan secara umum. Skor TxGNN yang tinggi (0.9902) hanyalah ramalan pengiraan dan bukan bukti klinikal.
+Namun, laporan kes yang ada bercanggah dengan hipotesis ini: satu melaporkan migrain dengan aura bertambah teruk selepas memulakan apixaban, dan satu lagi melaporkan gejala tidak pulih dengan apixaban tetapi pulih dengan warfarin. Ini tidak menyokong manfaat antikoagulan secara umum. Skor 0,9902 ialah ramalan pengiraan sahaja dan bukan bukti klinikal.
 
----
+## Bukti Ujian Klinikal
 
-## Bukti Percubaan Klinikal
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
+| Nombor Ujian | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Fasa 3 | Selesai | 664 | Penutupan PFO atau antikoagulan berbanding terapi antiplatelet untuk mencegah strok berulang. Migrain bukan indikasi atau titik akhir utama, dan tidak jelas sama ada apixaban digunakan; tidak boleh dijadikan bukti L1. |
-
----
+| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Fasa 3 | Selesai | 664 | Penutupan PFO atau antikoagulan berbanding terapi antiplatelet untuk mencegah strok berulang. Migrain bukan titik akhir utama dan tidak jelas sama ada apixaban digunakan; tidak memberi bukti langsung. |
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [33402037](https://pubmed.ncbi.nlm.nih.gov/33402037/) | 2021 | Kajian retrospektif (75 pesakit) | Lupus | Terapi antitrombotik dalam migrain refraktori dengan antibodi antifosfolipid; penglibatan apixaban perlu disahkan melalui teks penuh. |
-| [37582651](https://pubmed.ncbi.nlm.nih.gov/37582651/) | 2023 | Laporan kes + tinjauan literatur | The Neurologist | Migrain dengan aura bertambah teruk selepas memulakan apixaban; literatur sedia ada terhad dan bercanggah. |
-| [28960288](https://pubmed.ncbi.nlm.nih.gov/28960288/) | 2017 | Laporan kes | Headache | Migrain dengan aura reda dengan warfarin tetapi kembali dengan apixaban; reda semula selepas warfarin disambung. |
+| [28960288](https://pubmed.ncbi.nlm.nih.gov/28960288/) | 2017 | Laporan kes | Headache | Migrain dengan aura reda semasa warfarin selama 12 tahun, kembali dalam 3 minggu selepas bertukar kepada apixaban, dan reda semula apabila warfarin disambung semula. |
+| [37582651](https://pubmed.ncbi.nlm.nih.gov/37582651/) | 2023 | Laporan kes dengan tinjauan literatur | The Neurologist | Migrain dengan aura bertambah teruk selepas memulakan apixaban; literatur tentang kesan antikoagulan oral langsung terhadap migrain sedikit dan bercanggah. |
+| [33402037](https://pubmed.ncbi.nlm.nih.gov/33402037/) | 2021 | Kajian retrospektif (75 pesakit) | Lupus | Respons terhadap terapi antitrombotik dalam migrain refraktori dengan antibodi antifosfolipid; reka bentuk dan penglibatan apixaban belum disahkan, perlu semakan teks penuh. |
 
----
+## Maklumat Pasaran Malaysia
 
-## Keselamatan dan Pertimbangan
+Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **dipasarkan**, dengan 25 lesen sah dan tiada lesen dibatalkan. Butiran setiap lesen tidak disenaraikan dalam data yang ada.
 
-- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan (pangkalan data DDInter); sebahagian disenaraikan di sini.
-  - **Major (Utama)**: Asid asetilsalisilik (aspirin), kobisistat, deferasirox, ibritumomab tiuxetan, tositumomab (termasuk I-131).
-  - **Moderate (Sederhana)**: Aprepitant, klaritromisin, klotrimazol, deksametason, deksfenfluramin, eliglustat, fenfluramin, mikonazol, rolapitant, sibutramin, troglitazon, iodida I-123, iodida I-131, sugammadex.
+## Pertimbangan Keselamatan
 
-Maklumat amaran utama dan kontraindikasi tidak tersedia; sila rujuk sisipan pek (package insert) untuk maklumat keselamatan lengkap. Memandangkan apixaban ialah antikoagulan, risiko pendarahan perlu diberi perhatian khusus, terutamanya apabila digunakan bersama aspirin.
+**Interaksi Ubat** (100 interaksi direkodkan; contoh utama):
+- **Tahap Major**: asid asetilsalisilik, cobicistat, deferasirox, ibritumomab tiuxetan, tositumomab (termasuk I-131).
+- **Tahap Moderate**: aprepitant, klaritromisin, klotrimazol, deksametason, mikonazol, rolapitant, sugammadex, iodida I-123 dan I-131, antara lain.
 
----
+Interaksi dengan agen yang meningkatkan risiko pendarahan, serta perencat atau pencetus enzim metabolik, perlu dinilai dengan teliti.
+
+Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tahan)**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Bukti hanya pada tahap L4: tiada percubaan klinikal yang menilai apixaban secara langsung untuk migrain, dan laporan kes yang ada bercanggah (satu menunjukkan keburukan, satu lagi tiada manfaat). Skor TxGNN yang tinggi tidak mencukupi untuk menyokong kemajuan.
+- Tahap bukti ialah L5: tiada kajian yang menyokong apixaban untuk migrain, dan laporan kes yang ada menunjukkan migrain bertambah teruk atau tidak pulih semasa menggunakan apixaban. Skor TxGNN yang tinggi (0,9902) tidak mencukupi sebagai asas untuk meneruskan.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Sisipan pek NPRA (amaran dan kontraindikasi) bagi melengkapkan tapisan keselamatan; ini merupakan kekurangan data yang menghalang.
-- Data mekanisme tindakan (MOA) daripada DrugBank.
-- Pengesahan teks penuh kajian PMID 33402037 (rekabentuk kajian dan sama ada apixaban terlibat).
-- Penilaian semula data PFO dalam NCT00562289 untuk mana-mana hasil migrain sekunder.
-- Kajian terkawal rawak khusus untuk subkumpulan migrain dengan aura (PFO atau antibodi antifosfolipid) sebelum mempertimbangkan kemajuan.
-- Pengesahan status pendaftaran dan laluan pemberian di Malaysia, kerana tiada produk berdaftar direkodkan.
+**Untuk meneruskan, perlu:**
+- Data mekanisme tindakan yang terperinci.
+- Amaran dan kontraindikasi daripada risalah maklumat produk yang diluluskan.
+- Pengesahan teks penuh kajian retrospektif (PMID 33402037) untuk menentukan sama ada apixaban terlibat.
+- Bukti klinikal yang secara langsung mengkaji apixaban dalam migrain, jika hipotesis ini hendak diteruskan.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

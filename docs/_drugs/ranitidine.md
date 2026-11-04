@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ranitidine
-parent: Medium Evidence (L3)
+parent: Low Evidence (L4-L5)
 nav_order: 613
-evidence_level: L3
+evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-04
 monitor_inn: "RANITIDINE"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
-description: "Ranitidine: indikasi baharu diramal Peptic ulcer perforation (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ranitidine: indikasi baharu diramal Perforasi ulser peptik (peptic ulcer perforation) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ranitidine
 {: .fs-9 }
 
-Tahap bukti: **L3** | Indikasi diramal: **6** 
+Tahap bukti: **L5** | Indikasi diramal: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,89 +33,77 @@ Tahap bukti: **L3** | Indikasi diramal: **6**
 
 </div>
 
-## Ranitidine: Peptic ulcer perforation
+## Ranitidine: Perforasi ulser peptik (peptic ulcer perforation)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Ranitidine ialah antagonis reseptor histamin H2 yang pada asalnya digunakan untuk merawat ulser gastrik, ulser duodenum, penyakit refluks gastroesofagus (GERD), esofagitis dan sindrom Zollinger-Ellison.
-Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit ulser peptik aktif**, tetapi indikasi ini pada dasarnya bertindih dengan indikasi asal, jadi ia bukan pengitlakan semula ubat yang benar-benar baharu.
-Data yang dikumpulkan untuk laporan ini memuatkan **0 percubaan klinikal** dan **18 penerbitan** bagi indikasi teratas ini, dengan hanya **1 RCT** khusus ranitidine yang dikenal pasti (perbandingan omeprazole dengan ranitidine dalam ulser duodenum).
+Ranitidine ialah antagonis reseptor histamin H2 yang menurunkan rembesan asid gastrik. Model TxGNN meramalkan ia mungkin berguna untuk **perforasi ulser peptik (peptic ulcer perforation)**, tetapi bukti masih lemah: tiada percubaan klinikal berdaftar, dan tiada kajian yang menguji ranitidine sebagai rawatan untuk keadaan ini. Tahap bukti ialah **L5**.
 
-## Gambaran Ringkas
+## Gambaran Keseluruhan
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Peptic ulcer perforation |
+| Indikasi Baharu yang Diramalkan | Perforasi ulser peptik (peptic ulcer perforation) |
 | Skor Ramalan TxGNN | 0.9988 |
-| Tahap Bukti | L3 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
 | Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, ranitidine tergolong dalam kelas antagonis reseptor H2, yang menyekat rembesan asid gastrik. Keberkesanannya dalam ulser gastrik dan duodenum telah terbukti, dan secara mekanisme ia sememangnya sesuai untuk penyakit ulser peptik.
+Data terperinci tentang mekanisme tindakan ranitidine tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara amnya, ranitidine menyekat reseptor H2 pada sel parietal dan mengurangkan asid gastrik, jadi penindasan asid munasabah sebagai terapi tambahan bagi penyakit ulser yang boleh membawa kepada perforasi.
 
-Penyakit ulser peptik aktif pada dasarnya merangkumi ulser gastrik dan duodenum, iaitu indikasi asal ranitidine. Oleh itu, ramalan ini lebih mencerminkan pengesahan indikasi sedia ada berbanding penemuan baharu. Kajian ulasan menyatakan ranitidine 300 mg sehari sekurang-kurangnya sama berkesan seperti cimetidine dalam menyembuhkan ulser, dan satu kajian menunjukkan kadar penyembuhan 4 minggu sebanyak 91% (duodenum), 81% (gastrik korpus) dan 68% (prepilorik).
-
-Ramalan lain dalam senarai (contohnya mastositosis, ketidaknormalan rembesan glukagon, halangan duodenum) mempunyai bukti yang lebih lemah atau tiada langsung, dan ada yang tidak mempunyai asas mekanisme yang jelas.
+Namun, perforasi ialah komplikasi pembedahan, bukan penyakit yang dirawat secara langsung oleh sekatan H2. Kajian ulasan mengenai terapi penyelenggaraan antagonis H2 jangka panjang berkaitan pencegahan kambuhan ulser, bukan rawatan perforasi. Maka kaitan mekanistik ini kekal sebagai hipotesis, bukan bukti.
 
 ## Bukti Percubaan Klinikal
 
-Tiada percubaan klinikal yang mendaftarkan ranitidine secara langsung untuk indikasi teratas (penyakit ulser peptik aktif). Bagi indikasi berkaitan "penyakit ulser peptik" (kedudukan ke-7), lima percubaan berikut ditemui, tetapi kebanyakannya menggunakan ranitidine sebagai pembanding dan bukan ubat yang dikaji:
-
-| Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
-|---------|------|------|------|---------|
-| [NCT00633672](https://clinicaltrials.gov/study/NCT00633672) | Fasa 3 | Selesai | 400 | Esomeprazole 40/20 mg vs ranitidine 150 mg dua kali sehari untuk penyembuhan ulser gastrik berkaitan NSAID |
-| [NCT00633412](https://clinicaltrials.gov/study/NCT00633412) | Fasa 3 | Selesai | 400 | Reka bentuk serupa, untuk subjek di AS sahaja |
-| [NCT00401752](https://clinicaltrials.gov/study/NCT00401752) | Fasa 3 | Selesai | 397 | Esomeprazole 20 mg vs ranitidine 150 mg dua kali sehari selama 8 minggu pada ulser gastrik berkaitan NSAID |
-| [NCT00247130](https://clinicaltrials.gov/study/NCT00247130) | Fasa 4 | Ditarik balik | 0 | Omeprazole IV vs ranitidine IV selepas hemostasis endoskopik ulser berdarah; tiada data |
-| [NCT01538797](https://clinicaltrials.gov/study/NCT01538797) | Fasa 1 | Selesai | 22 | YF476 vs plasebo dan ranitidine terhadap pH gastrik pada sukarelawan sihat |
-
-Percubaan ini bersifat tidak langsung dan tidak menunjukkan keberkesanan ranitidine sebagai ubat yang dikaji.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
+Literatur yang ditemui berkaitan secara tidak langsung. Tiada satu pun menguji ranitidine sebagai rawatan perforasi ulser peptik.
+
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [9753259](https://pubmed.ncbi.nlm.nih.gov/9753259/) | 1998 | RCT | Dig Dis Sci | Perbandingan buta-ganda omeprazole dengan ranitidine pada 472 pesakit ulser duodenum untuk tempoh remisi jangka panjang |
-| [6128216](https://pubmed.ncbi.nlm.nih.gov/6128216/) | 1982 | Ulasan | Drugs | Farmakologi dan penggunaan terapeutik ranitidine; 4–10 kali lebih poten daripada cimetidine |
-| [2667937](https://pubmed.ncbi.nlm.nih.gov/2667937/) | 1989 | Ulasan | Drugs | Ranitidine 300 mg sehari sekurang-kurangnya sama berkesan seperti cimetidine untuk penyembuhan ulser |
-| [6317325](https://pubmed.ncbi.nlm.nih.gov/6317325/) | 1983 | Ulasan | Drug Intell Clin Pharm | Ranitidine diluluskan FDA untuk ulser duodenum aktif jangka pendek; sama berkesan seperti cimetidine |
-| [2905237](https://pubmed.ncbi.nlm.nih.gov/2905237/) | 1988 | Ulasan | Drugs | Prostaglandin, antagonis H2 dan penyakit ulser peptik |
-| [3909374](https://pubmed.ncbi.nlm.nih.gov/3909374/) | 1985 | Kajian klinikal | Scand J Gastroenterol | Penyembuhan 4 minggu 91% (duodenum), 68% (prepilorik), 81% (gastrik korpus); pencegahan relaps |
-| [12635419](https://pubmed.ncbi.nlm.nih.gov/12635419/) | 2003 | Ulasan | Gastroenterol Clin North Am | Ulser gastrik dan duodenum semasa kehamilan |
+| [2927479](https://pubmed.ncbi.nlm.nih.gov/2927479/) | 1989 | RCT | New England Journal of Medicine | Percubaan rawak rawatan bukan pembedahan berbanding pembedahan kecemasan untuk perforasi ulser peptik; tidak khusus kepada ranitidine |
+| [7861219](https://pubmed.ncbi.nlm.nih.gov/7861219/) | 1995 | RCT | Journal of Neurosurgery | Ranitidine berbanding plasebo untuk mencegah komplikasi gastroduodenal selepas pembedahan saraf pada pesakit berisiko tinggi; bukan rawatan perforasi |
+| [7901267](https://pubmed.ncbi.nlm.nih.gov/7901267/) | 1993 | Meta-analisis | Journal of Clinical Gastroenterology | Ulasan dan meta-analisis pencegahan kerosakan gastroduodenal akibat NSAID |
+| [8364140](https://pubmed.ncbi.nlm.nih.gov/8364140/) | 1993 | Ulasan | Alimentary Pharmacology & Therapeutics | Keberkesanan terapi berterusan antagonis H2 dalam mengurangkan kambuhan ulser |
+| [8103373](https://pubmed.ncbi.nlm.nih.gov/8103373/) | 1993 | Ulasan | Alimentary Pharmacology & Therapeutics | Pengalaman rawatan berterusan jangka panjang ulser peptik dengan antagonis H2 |
+| [11488789](https://pubmed.ncbi.nlm.nih.gov/11488789/) | 2001 | Kajian terkawal | British Journal of Surgery | Kesan pembasmian H. pylori terhadap kambuhan ulser selepas penutupan mudah perforasi ulser duodenum |
+| [8346951](https://pubmed.ncbi.nlm.nih.gov/8346951/) | 1993 | Kajian klinikal | Archives of Disease in Childhood | Ranitidine intravena dan pH intragastrik pada bayi pramatang yang menerima deksametason |
+| [8165479](https://pubmed.ncbi.nlm.nih.gov/8165479/) | 1994 | Laporan kes | Surgical Endoscopy | Ulser marginal besar sebagai komplikasi gastroenterostomi |
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-Ranitidine tidak mempunyai pendaftaran NPRA yang sah di Malaysia (0 lesen). Tiada produk untuk disenaraikan.
+Status pasaran ialah **dipasarkan**, dengan 6 lesen sah dan tiada lesen dibatalkan. Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 
-- **Amaran Utama**: Tiada data amaran daripada sisip bungkusan NPRA.
-- **Kontraindikasi (daripada graf pengetahuan, bukan teks label)**: porfiria (termasuk porfiria warisan dan penyakit metabolisme porfirin), penyakit buah pinggang, pyoureter, penyakit hati, penyakit pundi hempedu, serta kanser/neoplasma gastrik (termasuk adenokarsinoma gastrik meresap, linitis plastica gastrik dan karsinoma gastrik).
-- **Interaksi Ubat**: Pangkalan data mencatatkan 100 interaksi; 20 yang pertama ialah sampel.
-  - **Major**: atazanavir.
-  - **Moderate**: acalabrutinib, acetohexamide, aminophylline, bacampicillin, bosutinib, brigatinib, cefditoren, cefpodoxime, cefuroxime, ceritinib, chlorpropamide.
-  - **Minor**: acetaminophen, alendronic acid, aluminium hydroxide, atracurium, axitinib, calcium carbonate, cisapride, cisatracurium.
+- **Penyakit yang dikaitkan dengan kontraindikasi (bukan teks label)**: porfiria (termasuk porfiria turunan dan penyakit metabolisme porfirin), penyakit buah pinggang, penyakit hati, penyakit pundi hempedu, dan kanser/neoplasma gastrik. Ini bukan daripada teks label; sila sahkan dengan sisipan pakej.
+- **Interaksi Ubat**: 100 interaksi direkodkan. Contoh utama:
+  - **Major**: atazanavir
+  - **Moderate**: acalabrutinib, acetohexamide, aminophylline, bacampicillin, bosutinib, brigatinib, cefditoren, cefpodoxime, cefuroxime, ceritinib, chlorpropamide
+  - **Minor**: acetaminophen, alendronic acid, aluminium hydroxide, calcium carbonate, cisapride
 
-Sila rujuk sisip bungkusan untuk maklumat keselamatan yang lengkap.
+Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 ## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Indikasi yang diramalkan pada dasarnya bertindih dengan indikasi asal, jadi ia bukan pengitlakan semula yang sebenar. Bukti khusus ranitidine hanya terdiri daripada ulasan dan sedikit kajian klinikal lama, tanpa percubaan klinikal berdaftar yang menguji ranitidine secara langsung.
-- Ini ialah halangan besar kepada pembangunan lanjut. PPI umumnya lebih unggul untuk indikasi ini.
+Tiada kajian yang menguji ranitidine sebagai rawatan perforasi ulser peptik, dan tiada percubaan klinikal berdaftar. Perforasi ialah komplikasi pembedahan, jadi tahap bukti ialah L5 walaupun skor model tinggi.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran dan kontraindikasi daripada sisip bungkusan NPRA (jurang data yang menyekat saringan keselamatan peringkat S1).
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
-- Penilaian status pencemaran NDMA dan kebolehdapatan bekalan yang boleh diterima.
-- Justifikasi kelebihan klinikal berbanding PPI dan antagonis H2 lain yang sudah dipasarkan, atau pertimbangan indikasi yang berbeza daripada indikasi asal.
+- Kajian atau percubaan yang menilai ranitidine secara langsung dalam perforasi ulser peptik (contohnya sebagai terapi tambahan selepas pembedahan)
+- Data mekanisme tindakan terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Butiran lesen tempatan yang lengkap
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

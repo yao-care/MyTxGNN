@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Diazepam
-parent: Low Evidence (L4-L5)
+parent: High Evidence (L1-L2)
 nav_order: 282
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "hallucinogen abuse", "barbiturate abuse", "antidepressant type abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-10-28
-description: "Diazepam: indikasi baharu diramal Insomnia (tahap bukti L5). Indikasi asal: Tidak tersedia (teks indikasi yang diluluskan kosong dalam rekod pend…"
+last_modified_at: 2026-11-04
+description: "Diazepam: indikasi baharu diramal Insomnia (insomnia (disease)) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Diazepam
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **10** 
+Tahap bukti: **L2** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,64 +33,61 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 </div>
 
-## Diazepam: Daripada Indikasi Asal kepada Insomnia
+## Diazepam: Insomnia (insomnia (disease))
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Diazepam ialah ubat daripada kumpulan benzodiazepin yang berdaftar dan dipasarkan di Malaysia, namun teks indikasi yang diluluskan tidak terdapat dalam data yang dikumpulkan untuk laporan ini.
-Model TxGNN meramalkan ia mungkin berkesan untuk **insomnia**, tetapi buat masa ini **tiada percubaan klinikal** dan **tiada kajian yang mengkaji diazepam untuk penyakit ini secara langsung** dalam data yang dikumpulkan; kesusasteraan yang ada terdiri daripada ulasan umum dan kajian lain.
+Diazepam ialah ubat benzodiazepin yang kini dipasarkan di Malaysia. Model TxGNN meramalkan ia mungkin berkesan untuk **Insomnia (insomnia (disease))**. Bukti pada masa ini terdiri daripada **16 penerbitan** dan **tiada ujian klinikal berdaftar**. Hanya satu ujian dwi-buta (1981) membandingkan diazepam secara langsung pada pesakit insomnia, maka tahap bukti ialah **L2**.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tidak tersedia (teks indikasi yang diluluskan kosong dalam rekod pendaftaran) |
-| Indikasi Baharu yang Diramal | Insomnia |
-| Skor Ramalan TxGNN | 0.9999 |
-| Tahap Bukti | L5 |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Insomnia (insomnia (disease)) |
+| Skor Ramalan TxGNN | 1.0000 |
+| Tahap Bukti | L2 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
 | Bilangan Pendaftaran | 8 (sah: 8) |
-| Bilangan Kelulusan | 8 pendaftaran produk tunggal (semua sah) |
-| Keputusan yang Disyorkan | Hold |
+| Keputusan Disyorkan | Teruskan dengan Langkah Kawalan |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan belum tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan am, diazepam ialah modulator alosterik positif reseptor GABA-A (tapak benzodiazepin) yang meningkatkan neurotransmisi perencatan dan menghasilkan kesan sedatif-hipnotik. Secara biologi, ini munasabah untuk insomnia.
+Diazepam ialah pemodulat alosterik positif reseptor GABA-A pada tapak benzodiazepin. Ia meningkatkan neurotransmisi perencatan di otak dan menghasilkan kesan penenang-hipnotik. Mekanisme ini sejajar dengan keperluan rawatan insomnia, iaitu memendekkan masa untuk tidur dan mengurangkan terjaga pada waktu malam. Kajian semakan 2024 tentang pemodulat reseptor GABA-A turut menyenaraikan insomnia sebagai salah satu gangguan neurologi dan psikiatri yang disasarkan oleh kelas ubat ini.
 
-Namun, kesusasteraan yang dikumpulkan terdiri daripada ulasan, gambaran farmakokinetik, kajian ubat herba, dan kajian tentang kemudaratan penggunaan benzodiazepin jangka panjang. Tiada data percubaan khusus untuk diazepam dalam insomnia disediakan. Metabolit aktif diazepam yang bertindak lama (contohnya nordiazepam) menimbulkan kebimbangan tentang kantuk pada hari berikutnya, pengumpulan dalam kalangan warga emas, dan kebergantungan.
-
-Oleh sebab tiada kajian yang dipetik mengkaji diazepam untuk insomnia secara langsung dalam bentuk yang boleh dinilai, tahap bukti ditetapkan pada L5 (ramalan model sahaja).
+Walau bagaimanapun, kebanyakan literatur yang ada ialah semakan, tinjauan farmakokinetik dan kajian tentang mudarat penggunaan jangka panjang benzodiazepin. Data ujian khusus untuk diazepam sangat terhad. Metabolit diazepam yang bertindak lama (contohnya nordiazepam) menimbulkan kebimbangan tentang mengantuk pada hari berikutnya, pengumpulan dalam tubuh warga emas dan kebergantungan. Oleh itu, kemunasabahan mekanistik tidak sama dengan bukti keberkesanan klinikal.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
-## Bukti Kesusasteraan
-
-Berikut ialah penerbitan yang paling berkaitan daripada data yang dikumpulkan. Tiada satu pun ialah RCT diazepam untuk insomnia berkualiti tinggi.
+## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [39581171](https://pubmed.ncbi.nlm.nih.gov/39581171/) | 2024 | Ulasan | Bioorganic Chemistry | Ulasan modulator GABA-A; benzodiazepin seperti diazepam meningkatkan fungsi reseptor, dengan kesan sampingan seperti sedasi |
-| [6113175](https://pubmed.ncbi.nlm.nih.gov/6113175/) | 1981 | Kajian buta ganda | J Int Med Res | Lormetazepam 1 mg berbanding diazepam 5 mg pada 100 pesakit luar dengan insomnia; lormetazepam lebih baik dalam mengurangkan masa untuk tidur |
-| [40583063](https://pubmed.ncbi.nlm.nih.gov/40583063/) | 2025 | Kohort | Cell Mol Biol Lett | Penggunaan jangka panjang benzodiazepin dan ubat-Z dikaitkan dengan risiko kanser payudara lebih tinggi |
-| [36692463](https://pubmed.ncbi.nlm.nih.gov/36692463/) | 2023 | Meta-analisis | Acta Pharm | Penilaian ubat penenang pada warga emas dari segi dos dan kesan buruk |
-| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Ulasan | Expert Opin Drug Metab Toxicol | Gambaran farmakokinetik ubat anxiolitik |
-| [32623439](https://pubmed.ncbi.nlm.nih.gov/32623439/) | 2020 | Praklinikal | Med Sci Monit | Berberin pada tikus insomnia, dengan diazepam digunakan sebagai rujukan |
-| [37984023](https://pubmed.ncbi.nlm.nih.gov/37984023/) | 2024 | Model ramalan | Value Health Reg Issues | Tren dan beban ekonomi penggunaan benzodiazepin; penggunaan jangka panjang dikaitkan dengan hilang ingatan, kebergantungan dan jatuh |
+| [6113175](https://pubmed.ncbi.nlm.nih.gov/6113175/) | 1981 | Ujian dwi-buta 7 hari | The Journal of International Medical Research | 100 pesakit luar dengan insomnia: lormetazepam 1 mg lebih baik daripada diazepam 5 mg dalam memendekkan masa untuk tidur (p<0.05) dan memanjangkan tidur tanpa gangguan |
+| [39581171](https://pubmed.ncbi.nlm.nih.gov/39581171/) | 2024 | Semakan | Bioorganic Chemistry | Pemodulat GABA-A, termasuk diazepam, digunakan untuk epilepsi, kebimbangan, insomnia dan kemurungan, tetapi mempunyai kesan sampingan seperti sedasi |
+| [36692463](https://pubmed.ncbi.nlm.nih.gov/36692463/) | 2023 | Meta-analisis | Acta Pharmaceutica | Menilai dos, hasil dan kesan buruk ubat penenang pada warga emas untuk menentukan ubat dan dos yang selamat |
+| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Semakan | Expert Opinion on Drug Metabolism & Toxicology | Gambaran farmakokinetik ubat anksiolitik |
+| [40583063](https://pubmed.ncbi.nlm.nih.gov/40583063/) | 2025 | Kohort | Cellular & Molecular Biology Letters | Penggunaan jangka panjang benzodiazepin dan ubat-Z dikaitkan dengan peningkatan risiko kanser payudara |
+| [32623439](https://pubmed.ncbi.nlm.nih.gov/32623439/) | 2020 | Praklinikal (tikus) | Medical Science Monitor | Dalam model tikus insomnia, berberin dan diazepam digunakan untuk rawatan; diazepam menjadi ubat pembanding |
+| [37984023](https://pubmed.ncbi.nlm.nih.gov/37984023/) | 2024 | Model ramalan | Value in Health Regional Issues | Benzodiazepin digunakan secara meluas untuk kebimbangan dan insomnia; penggunaan jangka panjang dikaitkan dengan hilang ingatan, kebergantungan dan jatuh pada warga emas |
+| [16671957](https://pubmed.ncbi.nlm.nih.gov/16671957/) | 2006 | Kajian tabiat preskripsi | Fundamental & Clinical Pharmacology | Penggunaan benzodiazepin di Dakar sering tanpa indikasi yang jelas, dengan risiko ketagihan |
 
 ---
 
 ## Maklumat Pasaran di Malaysia
+
+Data tempatan merekodkan 8 lesen yang semuanya sah dan semuanya produk bahan tunggal. Lima daripadanya disenaraikan di bawah.
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
@@ -100,31 +97,38 @@ Berikut ialah penerbitan yang paling berkaitan daripada data yang dikumpulkan. T
 | MAL19984707ACRZ | AA-Diazepam Tablet 10mg | Tiada maklumat | Tiada maklumat |
 | MAL19984716ACRZ | AA-Diazepam Tablet 5mg | Tiada maklumat | Tiada maklumat |
 
-Terdapat 8 pendaftaran produk tunggal yang sah; lima disenaraikan di sini.
-
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Interaksi Ubat**: Sebanyak 100 interaksi direkodkan. Interaksi **utama** termasuk morfin. Interaksi **sederhana** termasuk bupropion, aprepitant, omeprazol, simetidin, klaritromisin, cisapride, klotrimazol, dronabinol, esomeprazol, metoklopramid dan mikonazol. Interaksi **minor** termasuk deksametason, betametason dan antasid (magnesium oksida, aluminium hidroksida, kalsium karbonat).
-- **Kebimbangan daripada kesusasteraan**: kantuk pada hari berikutnya, pengumpulan dalam kalangan warga emas, kebergantungan dan potensi penyalahgunaan.
+**Interaksi Ubat** (100 interaksi direkodkan; yang utama ditunjukkan):
+- **Major**: morfin (risiko sedasi dan kemurungan pernafasan apabila digabungkan dengan ubat penekan sistem saraf pusat).
+- **Sederhana**: bupropion, aprepitant, omeprazol, esomeprazol, simetidin, klaritromisin, sisaprid, klotrimazol, mikonazol, dronabinol, metoklopramid.
+- **Minor**: deksametason, betametason, serta antasid seperti magnesium oksida, aluminium hidroksida dan kalsium karbonat.
 
-Untuk amaran dan kontraindikasi, sila rujuk risalah maklumat produk.
+**Kebimbangan daripada literatur:**
+- Mengantuk pada hari berikutnya dan pengumpulan metabolit aktif, terutamanya pada warga emas.
+- Risiko kebergantungan, toleransi dan gejala tarikan diri.
+- Penggunaan jangka panjang dikaitkan dengan masalah kognitif, jatuh dan, dalam satu kajian kohort, peningkatan risiko kanser payudara.
+
+Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi, kerana maklumat tersebut belum dimuat turun untuk laporan ini.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Teruskan dengan Langkah Kawalan**
 
 **Rasional:**
-Ramalan insomnia munasabah dari segi mekanisme, tetapi tiada percubaan klinikal dan tiada kajian yang dipetik mengkaji diazepam untuk insomnia secara langsung, jadi bukti hanya pada L5. Kebimbangan keselamatan (metabolit bertindak lama, kebergantungan, warga emas) turut menghalang kemajuan.
+- Mekanisme GABA-A munasabah untuk insomnia dan terdapat satu ujian dwi-buta langsung (tahap bukti L2). Namun ujian itu lama (1981), kecil, tanpa kumpulan plasebo dan membandingkan diazepam dengan ubat lain.
+- Kebimbangan tentang kesan lama-tindak, kebergantungan dan penggunaan pada warga emas memerlukan langkah kawalan yang ketat.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Muat turun dan huraikan risalah maklumat produk NPRA untuk indikasi, amaran dan kontraindikasi (data ini penghalang utama)
-- Data mekanisme tindakan terperinci daripada DrugBank
-- Bukti percubaan klinikal terkawal diazepam dalam insomnia, berbanding hipnotik alternatif
-- Pelan pemantauan keselamatan untuk warga emas dan risiko kebergantungan
+- Muat turun dan nilai amaran serta kontraindikasi dalam sisipan pakej NPRA.
+- Data mekanisme tindakan terperinci daripada sumber rujukan ubat.
+- Ujian terkawal plasebo moden bagi diazepam dalam insomnia, termasuk dos, tempoh dan hasil keselamatan.
+- Pelan keselamatan untuk populasi berisiko (warga emas, pengguna morfin atau ubat penekan sistem saraf pusat lain) dan rancangan mengehadkan tempoh rawatan serta pengurangan dos secara beransur-ansur.
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

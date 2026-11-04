@@ -3,18 +3,18 @@ layout: default
 title: Morphine
 parent: Low Evidence (L4-L5)
 nav_order: 513
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-04
 monitor_inn: "morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
-description: "Morphine: indikasi baharu diramal Sindrom sakit miofasial (myofascial pain syndrome) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Morphine: indikasi baharu diramal Sindrom Kesakitan Miofasial (myofascial pain syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Morphine
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **10** 
+Tahap bukti: **L5** | Indikasi diramal: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,100 +33,78 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 </div>
 
-## Morphine: Sindrom sakit miofasial (myofascial pain syndrome)
+## Morphine: Sindrom Kesakitan Miofasial (myofascial pain syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Morfin ialah agonis reseptor opioid mu yang dikenali sebagai analgesik kuat. Indikasi asalnya ialah **penyakit cirit-birit**.
-Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom sakit miofasial**, tetapi setakat ini **tiada ujian klinikal** didaftarkan. Hanya **10 penerbitan** dikenal pasti, dan kebanyakannya bersifat tidak langsung.
-
----
+Morfin ialah agonis reseptor mu-opioid yang digunakan secara meluas sebagai ubat penahan sakit yang kuat. Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Kesakitan Miofasial (myofascial pain syndrome)**, tetapi tahap bukti hanya **L5**: tiada percubaan klinikal berdaftar dan tiada kajian yang menguji morfin secara langsung pada penyakit ini.
 
 ## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Sindrom sakit miofasial (myofascial pain syndrome) |
+| Indikasi Baharu yang Diramalkan | Sindrom Kesakitan Miofasial (myofascial pain syndrome) |
 | Skor Ramalan TxGNN | 0.9975 |
-| Tahap Bukti | L4 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
 | Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
----
-
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) belum tersedia. Berdasarkan maklumat yang diketahui, morfin ialah agonis reseptor opioid mu dengan kesan analgesik yang mantap. Kesannya pada kawalan kesakitan secara teorinya boleh berkaitan dengan sakit otot dan tisu fasia.
+Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Morfin diketahui bertindak sebagai agonis reseptor mu-opioid dengan kesan analgesik yang mantap, jadi pertalian dengan kesakitan otot dan tisu penghubung kelihatan munasabah secara teori.
 
-Indikasi asal (cirit-birit) dan indikasi baharu (sakit miofasial) berbeza jauh dari segi penyakit. Kaitan antara keduanya hanyalah tindakan opioid pada sistem opioid endogen. Ramalan yang skornya tinggi ini tidak disokong oleh kaitan klinikal atau patofisiologi yang jelas.
+Namun, kesakitan miofasial pada amnya tidak responsif terhadap opioid, dan garis panduan lazimnya tidak menggalakkan penggunaan opioid jangka panjang. Skor TxGNN yang tinggi tidak disokong oleh bukti klinikal langsung.
 
-Sindrom sakit miofasial lazimnya tidak responsif terhadap opioid. Garis panduan umumnya tidak menggalakkan penggunaan opioid jangka panjang untuknya. Penerbitan yang diperoleh kebanyakannya tidak langsung, iaitu disfungsi sendi temporomandibular, sakit selepas torakotomi, sindrom sakit selepas pembedahan belakang yang gagal, dan model tikus kalkulus ureter. Skor TxGNN yang tinggi tidak disokong oleh bukti klinikal langsung.
+## Bukti Percubaan Klinikal
 
----
-
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
-
----
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
-Disusun mengikut keutamaan: RCT > Ulasan > Kohort/kes.
+Kebanyakan literatur yang diperoleh bersifat tidak langsung. Kajian rawak pada 2026 (PMID 41664327) membandingkan deksmedetomidin dengan morfin berbanding ropivakain biasa untuk infiltrasi miofasial semasa pembedahan gabungan tulang belakang, iaitu mengenai kesakitan selepas pembedahan, bukan merawat sindrom kesakitan miofasial.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [41664327](https://pubmed.ncbi.nlm.nih.gov/41664327/) | 2026 | RCT | Asian Spine Journal | Perbandingan deksmedetomidin + morfin dengan ropivakain 0.2% biasa untuk infiltrasi miofasial dalam pelakuran spina torakolumbar (RCT buta-dua). Berkaitan sakit lepas pembedahan, bukan rawatan sindrom sakit miofasial. |
-| [39793344](https://pubmed.ncbi.nlm.nih.gov/39793344/) | 2025 | RCT | Eur J Obstet Gynecol Reprod Biol | Menilai sama ada sekatan saraf pudendal memperbaik sakit perioperatif selepas suntikan OnabotulinumtoxinA untuk sakit miofasial pelvis. Morfin bukan intervensi utama. |
-| [17870625](https://pubmed.ncbi.nlm.nih.gov/17870625/) | 2008 | RCT | Eur J Pain | Membandingkan analgesia epidural (bupivakain dan morfin) dengan krioanalgesia saraf interkostal untuk sakit selepas torakotomi (107 pesakit). |
-| [21419546](https://pubmed.ncbi.nlm.nih.gov/21419546/) | 2011 | Ulasan | J Oral Maxillofac Surg | Penggunaan opioid jangka panjang untuk disfungsi sendi temporomandibular tidak dapat disokong mahupun dinafikan oleh bukti semasa. |
-| [16713811](https://pubmed.ncbi.nlm.nih.gov/16713811/) | 2006 | Ulasan | J Oral Maxillofac Surg | Artrosentesis untuk sakit sendi temporomandibular, diikuti infusi morfin intra-artikular bagi kesan jangka panjang. |
-| [16967674](https://pubmed.ncbi.nlm.nih.gov/16967674/) | 2006 | Ulasan | J Calif Dent Assoc | Penggunaan ubat oral, infusi dan suntikan dalam diagnosis pembezaan sakit orofasial kronik. |
-| [35066974](https://pubmed.ncbi.nlm.nih.gov/35066974/) | 2022 | Kohort | Pain Pract | Kajian retrospektif program regangan berstruktur untuk menyelesaikan sakit miofasial dan mengurangkan penggunaan opioid pada pesakit "sakit warisan". |
-| [21691691](https://pubmed.ncbi.nlm.nih.gov/21691691/) | 2011 | Kohort | Rev Assoc Med Bras | Kajian deskriptif pendekatan terapeutik pada 56 pesakit sindrom sakit selepas pembedahan belakang yang gagal. |
-| [15176410](https://pubmed.ncbi.nlm.nih.gov/15176410/) | 2004 | Siri kes | Der Nervenarzt | Rawatan jangka panjang sakit anggota hantu dan sakit tunggul dengan toksin botulinum A selama 12 bulan. |
-| [7478690](https://pubmed.ncbi.nlm.nih.gov/7478690/) | 1995 | Praklinikal | Pain | Model tikus kalkulus ureter buatan: kaitan antara episod sakit viseral dengan hiperalgesia otot lumbar terrujuk. |
+| [41664327](https://pubmed.ncbi.nlm.nih.gov/41664327/) | 2026 | RCT | Asian Spine Journal | Deksmedetomidin + morfin berbanding ropivakain 0,2% untuk infiltrasi miofasial dalam pembedahan gabungan tulang belakang torakolumbar; berkaitan kesakitan pascaoperatif |
+| [35066974](https://pubmed.ncbi.nlm.nih.gov/35066974/) | 2022 | Kohort | Pain Practice | Program regangan berstruktur untuk kesakitan miofasial dan penggunaan opioid dalam pesakit "legacy pain" |
+| [39793344](https://pubmed.ncbi.nlm.nih.gov/39793344/) | 2025 | RCT | Eur J Obstet Gynecol Reprod Biol | Sekatan saraf pudendal untuk kesakitan perioperatif selepas suntikan OnabotulinumtoxinA bagi kesakitan miofasial pelvis |
+| [17870625](https://pubmed.ncbi.nlm.nih.gov/17870625/) | 2008 | RCT | Eur J Pain | Perbandingan analgesia epidural (bupivakain dan morfin) dengan kriolagesia saraf interkostal selepas torakotomi |
+| [21419546](https://pubmed.ncbi.nlm.nih.gov/21419546/) | 2011 | Ulasan | J Oral Maxillofac Surg | Penggunaan opioid jangka panjang dalam disfungsi sendi temporomandibular; bukti tidak menyokong mahupun menolak |
+| [16713811](https://pubmed.ncbi.nlm.nih.gov/16713811/) | 2006 | Ulasan | J Oral Maxillofac Surg | Artrosentesis sendi temporomandibular diikuti infusi morfin intra-artikular |
+| [16967674](https://pubmed.ncbi.nlm.nih.gov/16967674/) | 2006 | Ulasan | J Calif Dent Assoc | Ubat oral, infusi dan suntikan dalam diagnosis pembezaan kesakitan orofasial |
+| [21691691](https://pubmed.ncbi.nlm.nih.gov/21691691/) | 2011 | Kohort | Rev Assoc Med Bras | Pendekatan terapeutik dalam 56 pesakit sindrom kesakitan pascapembedahan belakang gagal |
 
-**Penilaian:** Tiada penerbitan yang menunjukkan morfin berkesan merawat sindrom sakit miofasial secara langsung.
+## Maklumat Pasaran di Malaysia
 
----
+Morfin mempunyai 6 lesen yang sah dan berstatus dipasarkan di Malaysia. Tiada lesen dibatalkan.
 
 ## Pertimbangan Keselamatan
 
-Teks sisipan pek (package insert) di Malaysia tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Sila rujuk sisipan pek untuk amaran dan kontraindikasi rasmi.
+**Penyakit yang dicatatkan sebagai kontraindikasi** (data hubungan penyakit-ubat, bukan teks label): hipertensi, hipotensi ortostatik, sindrom QT panjang, torsades de pointes, kegagalan hati, penyakit hati, penyakit buah pinggang, epilepsi, penyakit paru obstruktif kronik, pankreatitis, penyakit pundi hempedu, hipotiroidisme, gangguan psikotik dan skizofrenia, gangguan kebimbangan, serta kekurangan kalium.
 
-- **Penyakit berkontraindikasi/berisiko (berdasarkan graf pengetahuan TxGNN, bukan teks label):**
-  - Kardiovaskular: hipertensi, hipotensi ortostatik, sindrom takikardia ortostatik posturan, sindrom QT panjang (termasuk familial), torsades de pointes, atrofi sistem berbilang.
-  - Hati dan saluran pencernaan: kegagalan hati, penyakit hati, penyakit pundi hempedu, pankreatitis, ulser gastrik.
-  - Respirasi dan buah pinggang: penyakit pulmonari obstruktif kronik (COPD), penyakit buah pinggang, piouretur.
-  - Neurologi dan psikiatri: epilepsi, diskinesia aruhan ubat, gangguan kebimbangan, gangguan neurotik, gangguan distimik, gangguan psikotik, gangguan skizofreniform, gangguan skizoafektif, gangguan mental.
-  - Endokrin dan metabolik: hipotiroidisme (termasuk miksedema dan kongenital), kekurangan kalium.
-- **Interaksi Ubat:** Pertanyaan selesai dengan 100 interaksi direkodkan, dan 20 contoh dipaparkan.
-  - **Major:** fentanil, dihidrokodeina, kodeina, dikloralfenazon, tramadol, butalbital, etanol (alkohol), alprazolam. Kebanyakannya melibatkan risiko kemurungan sistem saraf pusat dan pernafasan apabila digabungkan dengan opioid atau penenang lain.
-  - **Moderate:** klorfeniramin, asebutolol, nifedipin, aldesleukin, alfentanil, alfuzosin, feniltoloksamin, hidroklorotiazid, cetirizin, almotriptan, metformin, alpelisib.
-- **Risiko opioid umum yang dinyatakan dalam literatur yang diperoleh:** kebergantungan, kemurungan pernafasan, dan hiperalgesia aruhan opioid.
+**Interaksi ubat** (100 interaksi dikenal pasti; antara yang utama):
+- **Tahap Major**: fentanil, dihidrokodeina, kodeina, tramadol, butalbital, etanol, alprazolam, diklorofenazon
+- **Tahap Sederhana**: klorfeniramin, asebutolol, nifedipin, hidroklorotiazida, setirizin, metformin, aldesleukin, alfentanil, alfuzosin, almotriptan, alpelisib
 
----
+Maklumat amaran dan kontraindikasi daripada sisipan pakej tidak tersedia; sila rujuk sisipan pakej.
 
 ## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Skor TxGNN sangat tinggi (0.9975), tetapi tiada ujian klinikal didaftarkan dan literatur hanya tidak langsung (tahap bukti L4).
-- Sindrom sakit miofasial tidak lazimnya responsif terhadap opioid, dan garis panduan tidak menggalakkan penggunaan jangka panjang. Risiko kebergantungan dan interaksi ubat adalah ketara.
-- Morfin tidak berdaftar di Malaysia (0 pendaftaran).
+- Tahap bukti ialah L5. Tiada kajian menguji morfin dalam sindrom kesakitan miofasial, dan kajian rawak yang ada hanya mengenai kesakitan selepas pembedahan tulang belakang.
+- Kesakitan miofasial biasanya tidak responsif terhadap opioid, dan risiko kebergantungan serta hiperalgesia teraruh opioid menjadikan ramalan ini kurang menarik.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
-- Sisipan pek NPRA bagi maklumat amaran dan kontraindikasi rasmi.
-- Kajian klinikal langsung (RCT) morfin untuk sindrom sakit miofasial, dengan perbandingan terhadap terapi standard bukan opioid.
-- Penilaian nisbah manfaat-risiko, termasuk risiko kebergantungan, hiperalgesia aruhan opioid dan sakit kepala akibat penggunaan ubat berlebihan.
-- Pertimbangan laluan pentadbiran dan formulasi yang tersedia di Malaysia, kerana morfin belum berdaftar di sini.
-- Untuk keutamaan kajian lanjut, indikasi ramalan lain mempunyai bukti lebih kukuh daripada sindrom sakit miofasial. Contohnya, sindrom kaki gelisah (restless legs syndrome) disokong oleh data pendaftaran (registry) dan laporan kes morfin intratekal, dan dinilai pada tahap L3.
+- Kajian klinikal atau percubaan terkawal yang menguji morfin secara langsung pada kesakitan miofasial
+- Data mekanisme tindakan terperinci
+- Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan
+- Pelan pemantauan keselamatan, terutamanya risiko kebergantungan dan interaksi dengan depresan sistem saraf pusat
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
