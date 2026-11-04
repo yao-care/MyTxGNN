@@ -28,18 +28,20 @@ Interaksi ubat adalah pertimbangan kritikal untuk penggunaan semula ubat. Apabil
 <tbody>
 <tr>
   <td><a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener">DDInter 2.0</a></td>
-  <td>222,391</td>
-  <td>2,310</td>
+  <td>160,235</td>
+  <td>1,939</td>
   <td>2026-02</td>
 </tr>
 <tr>
   <td><a href="https://www.guidetopharmacology.org/" target="_blank" rel="noopener">Guide to PHARMACOLOGY</a></td>
-  <td>4,636</td>
-  <td>2,156</td>
-  <td>2026-02 (v2025.4)</td>
+  <td>4,799</td>
+  <td>2,248</td>
+  <td>2026-09 (v2026.3)</td>
 </tr>
 </tbody>
 </table>
+
+<p><small>Bilangan dikira daripada fail data MyTxGNN sendiri (Release data-20261031-141747, <code>data/external/ddi/</code>). DDInter: pasangan ubat unik selepas membuang pendua merentas fail kod ATC (222,383 baris). Guide to PHARMACOLOGY: baris interaksi dan bilangan ligan unik.</small></p>
 
 ---
 
