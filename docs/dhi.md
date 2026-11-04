@@ -114,7 +114,6 @@ Maklumat interaksi ubat-herba dikumpulkan dari:
 | Sumber | Penerangan | Pautan |
 |--------|------------|--------|
 | Interaksi Ubat-Ubat | Pangkalan data DDI | [Pergi]({{ '/ddi/' | relative_url }}) |
-| Keselamatan Ubat-Penyakit | Pangkalan data DDSI | [Pergi]({{ '/ddsi/' | relative_url }}) |
 | Interaksi Ubat-Makanan | Pangkalan data DFI | [Pergi]({{ '/dfi/' | relative_url }}) |
 
 ---

@@ -23,14 +23,6 @@
     "matched_drugs": 56,
     "api_endpoint": "https://ddinter2.scbdd.com/server/food-interaction-source/"
   },
-  "ddinter_ddsi": {
-    "last_checked": "2026-02-21",
-    "version": "2.0",
-    "record_count": 8359,
-    "matched_drugs": 115,
-    "api_endpoint": "https://ddinter2.scbdd.com/server/disease-interaction-source/",
-    "status": "integrated"
-  },
   "dhi_curated": {
     "last_checked": "2026-02-21",
     "record_count": 35,

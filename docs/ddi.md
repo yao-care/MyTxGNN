@@ -71,15 +71,6 @@ Setiap bahagian "Pertimbangan Keselamatan" laporan ubat termasuk maklumat intera
 <li>Semak amaran DDI dan kontraindikasi ubat</li>
 </ol>
 
-### Muat Turun Set Data Penuh
-
-Perlukan analisis berskala besar? Muat turun data DDI mentah dari GitHub:
-
-| Data | Penerangan | Pautan |
-|------|------------|--------|
-| Data DDInter | Jadual rujukan DDI lengkap | [GitHub](https://github.com/yao-care/MyTxGNN/tree/main/data/external/ddi) |
-| Data Pharmacology | Interaksi ubat yang diluluskan | [GitHub](https://github.com/yao-care/MyTxGNN/tree/main/data/external/ddi) |
-
 ---
 
 ## Mengapa DDI Penting untuk Penggunaan Semula Ubat

@@ -26,7 +26,6 @@ Ramalan penggunaan semula ubat untuk ubat yang diluluskan NPRA (Malaysia) menggu
 | **Data DDI** | 302,516 |
 | **Data DFI** | 857 |
 | **Data DHI** | 35 |
-| **Data DDSI** | 8,359 |
 | **Sumber FHIR** | 508 MK / 3,832 CUD |
 
 ### Taburan tahap bukti

@@ -138,7 +138,6 @@ Pangkalan data ini meliputi 29 makanan/komponen makanan biasa:
 | Sumber | Penerangan | Pautan |
 |--------|------------|--------|
 | Interaksi Ubat-Ubat | Pangkalan data DDI | [Pergi]({{ '/ddi/' | relative_url }}) |
-| Keselamatan Ubat-Penyakit | Pangkalan data DDSI | [Pergi]({{ '/ddsi/' | relative_url }}) |
 | Interaksi Ubat-Herba | Pangkalan data DHI | [Pergi]({{ '/dhi/' | relative_url }}) |
 
 ---
