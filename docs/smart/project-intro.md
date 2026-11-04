@@ -20,7 +20,6 @@ permalink: /smart/project-intro/
 | Metric | Value |
 |--------|-------|
 | **Drugs Analyzed** | {{ site.data.drug_stats.total_drugs }} |
-| **DL Scored Pairs** | 9,968,985 |
 | **Listed on site (score ≥0.99, up to 10 per drug)** | {{ site.data.site_stats.indications }} |
 | **Unique Diseases** | 17,041 |
 
@@ -57,7 +56,7 @@ Focused on drugs registered with Malaysia's National Pharmaceutical Regulatory A
 |--------|-------------|---------|
 | **NPRA Registration** | Malaysia pharmaceutical products via [data.gov.my](https://data.gov.my/) | 27,938 |
 | **TxGNN** | Harvard deep learning model, a graph neural network trained on a biomedical knowledge graph ([Nature Medicine 2024](https://doi.org/10.1038/s41591-024-03233-x)) | 17,080 diseases |
-| **DrugBank** | Drug standardization and mapping | 508 matched |
+| **DrugBank** | Drug standardization and mapping | 1,061 DrugBank IDs matched |
 
 ---
 
@@ -137,5 +136,5 @@ And cite the original TxGNN paper:
 <strong>Disclaimer</strong><br>
 This platform is for <strong>research purposes only</strong> and does not constitute medical advice. Drug repurposing predictions require clinical validation before application.
 <br><br>
-<small>Last updated: 2026-03-03 | MyTxGNN Research Team</small>
+<small>MyTxGNN Research Team</small>
 </div>

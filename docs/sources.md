@@ -179,8 +179,8 @@ Status pendaftaran dikemas kini secara automatik setiap hari Isnin daripada kedu
 
 | Source | DDI Count | Update Date |
 |--------|-----------|-------------|
-| DDInter | 222,391 records | 2026-02 |
-| GtoPdb | 4,636 records | 2026-02 |
+| DDInter | 160,235 unique drug pairs | 2026-02 |
+| GtoPdb | 4,799 records (v2026.3) | 2026-09 |
 
 ---
 
