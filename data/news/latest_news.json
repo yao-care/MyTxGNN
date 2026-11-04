@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-04T08:36:28.184050",
+  "fetched": "2026-11-04T16:49:41.439077",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
     {
       "title": "Seniors Need Retirement Income Without Burdening Their Children: KALSIS",
@@ -115,35 +115,13 @@
       ]
     },
     {
-      "title": "Kelantan eyes industrial hub, jobs and investment around ECRL station in Pasir Puteh",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/04/kelantan-eyes-industrial-hub-jobs-and-investment-around-ecrl-station-in-pasir-puteh/241974",
+      "title": "Penang DOSH to probe cause of fatal Paya Terubong landslide, developer told to submit documents",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/04/penang-dosh-to-probe-cause-of-fatal-paya-terubong-landslide-developer-told-to-submit-documents/241994",
       "source": "Malay Mail",
-      "published": "2026-11-04T08:16:07",
-      "summary": "KOTA BHARU, Nov 4 — The development of an East Coast Rail Link (ECRL) station in Cherang Tuli, Pasir Pu...",
+      "published": "2026-11-04T11:01:22",
+      "summary": "GEORGE TOWN, Nov 4 — The Penang Department of Occupational Safety and Health (DOSH) is conducting an investigation...",
       "keywords_matched": [
-        "trial"
-      ]
-    },
-    {
-      "title": "Malaysia’s first female education D-G Asiah Abu Samah dies at 89",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/04/malaysias-first-female-education-d-g-asiah-abu-samah-dies-at-89/241937",
-      "source": "Malay Mail",
-      "published": "2026-11-04T05:16:33",
-      "summary": "KUALA LUMPUR, Nov 4 — Renowned education figure Tan Sri Dr Asiah Abu Samah died at a private hospital in the capit...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Penang Hospital to complete new blocks in 2027 and 2029 to tackle overcrowding",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/04/penang-hospital-to-complete-new-blocks-in-2027-and-2029-to-tackle-overcrowding/241935",
-      "source": "Malay Mail",
-      "published": "2026-11-04T05:08:23",
-      "summary": "GEORGE TOWN, Nov 4 — Two new blocks at Penang Hospital are expected to help ease congestion at its Emergency and T...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
+        "health"
       ]
     }
   ]
