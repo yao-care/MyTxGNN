@@ -79,5 +79,6 @@ mydatabase.db
 
 # 2026-10-29 許可證排程更新的暫存輸出
 /.license_refresh/
+/.license_rebuild/
 # 工具鏈複本要進 repo（母 repo .claude/ 的複本）
 !/tools/txgnn/.claude/

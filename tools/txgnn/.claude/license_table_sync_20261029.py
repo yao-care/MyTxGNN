@@ -171,19 +171,19 @@ def sync_market_rows(site, dry=False):
         if st and site != "TwTxGNN":
             want = None
             if ms == "Marketed":  # Kr 2026-10-31 起依 nedrug 註銷狀態，與其他站相同
-                want = ck.marketed_text(site, lang, v, n, partial)
+                want = ck.marketed_text(site, lang, v, n, partial, fc)
             elif ms == "Approved, not marketed":
-                want = ck.NOT_MKT.get(lang, ck.NOT_MKT["en"]).format(n=n)
+                want = ck.not_marketed_text(site, lang, fc)
             elif ms == "Cancelled only":
                 want = ck.cancelled_text(site, lang, n)
             elif ms == "Not marketed":
-                want = ck.not_reg_text(site, lang)
+                want = ck.not_reg_text(site, lang, fc)
             if want and st[1] != want:
                 ch.append((st[0], st[1], want))
         cr = ck.count_row(site, rows)
         if cr and site != "TwTxGNN" and (n is not None or partial):
             # 部分紀錄（total 為空）也要同步：用已收錄張數寫「至少 N」，與狀態列一致（2026-10-31 pm 退件 BR：張數列被跳過而留舊值）
-            want_c = tl[3].format(n=n if n is not None else len(fc.get("licenses") or {})) if partial else tl[2].format(n=n, v=v or 0)
+            want_c = ck.count_text(site, lang, fc)
             if cr[1] != want_c:
                 ch.append((cr[0], cr[1], want_c))
         if not ch:
@@ -216,7 +216,7 @@ def drop_excluded_rows(site, dry=False):
         keep = []
         for l in lines:
             c = [x.strip() for x in l.strip().strip("|").split("|")] if l.startswith("|") else []
-            if c and norm(c[0]) in vet:
+            if c and (norm(c[0]) in vet or norm(re.sub(r"^MA\s*", "", c[0])) in vet):  # Dk 有些表寫「MA 28105835216」
                 out.append((pg.stem, f"許可證表 {c[0]}（獸用）", l.strip(), "（刪除）"))
                 continue
             keep.append(l)

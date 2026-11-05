@@ -206,3 +206,27 @@ M3X	en	> No registered products were found to tabulate.	hit	ms=Marketed;valid=53
 M3X	en	The absence of SAHPRA registration reflects the local regulatory status only.	hit	ms=Marketed;valid=37;cancelled=5
 M3X	en	The TxGNN pipeline returned zero predicted indications because the entry could not be resolved, which is a data matching failure.	miss	ms=Marketed;valid=5;cancelled=0
 M3X	en	A result of zero licences strongly suggests a data ingestion or mapping failure at source.	hit	ms=Marketed;valid=5;cancelled=0
+M3V	en-us	Disopyramide is a class Ia antiarrhythmic drug that is marketed in Canada (as RYTHMODAN).	hit	site=CaTxGNN;ms=Approved, not marketed;valid=0;not_marketed=1
+M3V	en-us	Lurbinectedin was formerly marketed in Canada as ZEPZELCA but is now dormant.	miss	site=CaTxGNN;ms=Approved, not marketed;valid=0;not_marketed=1
+M3V	en-us	All three licences are currently valid single-ingredient products.	miss	site=CaTxGNN;ms=Marketed;valid=2;not_marketed=1;cancelled=0
+M3V	en-us	All four authorisations are valid single-ingredient products.	hit	site=CaTxGNN;ms=Marketed;valid=3;not_marketed=0;cancelled=1
+M3V	en-us	Diclofenac has 20 valid single-ingredient authorizations in Canada and none are cancelled.	hit	site=CaTxGNN;ms=Marketed;valid=18;cancelled=2;partial=1
+M3V	en-us	Sixteen valid single-ingredient licences are on record, and none is cancelled.	miss	site=CaTxGNN;ms=Marketed;valid=14;not_marketed=2;cancelled=0
+M3V	en-us	Estradiol has no recorded Health Canada authorizations in this Evidence Pack (0 DINs).	hit	site=CaTxGNN;ms=Marketed;valid=20;partial=1
+M5	en	| Taiwan Market Status | ✗ Not Marketed |	hit	
+M5	en	| Canada Market Status | Marketed (marketed DINs: 9 of 9) |	miss	
+M3V	es	Ambas autorizaciones corresponden a monofármaco, están vigentes y pertenecen a Allergan Pharmaceuticals International Limited.	hit	site=ESTxGNN;ms=Cancelled only;valid=0;cancelled=2
+M3V	es	Actualmente no está comercializado en España: solo constan autorizaciones canceladas.	miss	site=ESTxGNN;ms=Cancelled only;valid=0;cancelled=2
+M3V	es	Remimazolam es una benzodiazepina de acción ultracorta, autorizada y comercializada en España (Byfavo).	hit	site=ESTxGNN;ms=Approved, not marketed;valid=0;not_marketed=1
+M3V	es	Las 6 autorizaciones están vigentes, son de principio activo único y no hay ninguna cancelada.	hit	site=ESTxGNN;ms=Marketed;valid=5;cancelled=1
+M3V	es	Se muestran 5 de las 10 autorizaciones vigentes (todas de principio activo único, ninguna cancelada).	miss	site=ESTxGNN;ms=Marketed;valid=8;not_marketed=2;cancelled=0
+M3V	es	Siete de las diez autorizaciones están vigentes y tres están canceladas.	miss	site=ESTxGNN;ms=Marketed;valid=7;cancelled=3
+M3V	es	Además, los cuatro registros sanitarios en Colombia están cancelados.	hit	site=COTxGNN;ms=Marketed;valid=4
+M3V	es	Además, la única autorización en España está cancelada.	hit	site=ESTxGNN;ms=Marketed;valid=50;cancelled=17
+M3V	ms	Selain itu, profil keselamatan acitretin menuntut kehati-hatian, dan ubat ini tidak berdaftar di Malaysia.	hit	site=MyTxGNN;ms=Marketed;valid=4
+M3V	ms	Kalsium sitrat tidak mempunyai pendaftaran NPRA yang direkodkan (0 lesen), maka tiada jadual produk dipaparkan.	hit	site=MyTxGNN;ms=Marketed;valid=47;cancelled=1
+M3V	ms	Kesemua 29 pendaftaran berstatus sah dan mengandungi bahan tunggal.	hit	site=MyTxGNN;ms=Marketed;valid=28;cancelled=1
+M3V	ms	Data tempatan merekodkan 800 lesen yang sah, termasuk 71 produk bahan tunggal.	hit	site=MyTxGNN;ms=Marketed;valid=797;cancelled=3
+M3V	ms	Tiada pendaftaran produk vitamin A bahan tunggal.	miss	site=MyTxGNN;ms=Marketed;valid=166
+M3V	ms	Ubat ini tidak berdaftar di Malaysia.	miss	site=MyTxGNN;ms=Not marketed;valid=0
+M3V	ms	Sebanyak 28 daripada 29 pendaftaran berstatus sah.	miss	site=MyTxGNN;ms=Marketed;valid=28;cancelled=1

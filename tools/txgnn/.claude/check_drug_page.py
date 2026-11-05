@@ -329,8 +329,11 @@ SOURCE_STATUS = {
 # TH 2026-10-31 移出：原本的許可證號是程式編造的，改用 Thai FDA 查詢系統（pertento）的真實許可證，狀態列回到一般寫法
 
 
-def marketed_text(site, lang, v, n, partial):
-    """事實是 Marketed 時的狀態列：來源不是許可證資料的站用 SOURCE_STATUS，其他站用 mv2.T"""
+def marketed_text(site, lang, v, n, partial, fc=None):
+    """事實是 Marketed 時的狀態列：來源不是許可證資料的站用 SOURCE_STATUS，SPLIT_STATUS 的站分開寫核准未上市／註銷，其他站用 mv2.T"""
+    if site in SPLIT_STATUS:
+        cfg = SPLIT_STATUS[site]
+        return cfg["part" if partial else "full"].format(v=v, n=n, extra=_split_extra(cfg, fc))
     if site in SOURCE_STATUS:
         return SOURCE_STATUS[site][1 if partial else 0].format(v=v, n=n)
     tl = mv2.T.get(lang) or mv2.T["en"]
@@ -388,8 +391,14 @@ def cancelled_text(site, lang, n):
     return (SCOPE_CANCELLED.get(site) or CANCELLED.get(lang, CANCELLED["en"])).format(n=n)
 
 
-def not_reg_text(site, lang):
-    """查無許可紀錄時的狀態列：EMA 代理站用資料範圍句，其他站用 NOT_REG"""
+# 只有獸用許可（人用 0 張）時的狀態列（2026-11-05，用戶決定；Dk 依 ATC Q 開頭或品名含 Vet. 分出獸用，證據包 veterinary_records）
+VET_ONLY = {"DkTxGNN": "Kun godkendt som veterinærlægemiddel"}
+
+
+def not_reg_text(site, lang, fc=None):
+    """查無許可紀錄時的狀態列：EMA 代理站用資料範圍句，只有獸用許可的站用 VET_ONLY，其他站用 NOT_REG"""
+    if site in VET_ONLY and fc and (fc.get("veterinary") or 0) > 0:
+        return VET_ONLY[site]
     return NO_CENTRAL.get(site) or NOT_REG.get(lang, NOT_REG["en"])
 
 
@@ -459,7 +468,7 @@ NOT_MKT_CLAIM = re.compile(
 NOT_MKT_LOOSE = re.compile(
     r"\b(none|no|not a single|not one)\b[^.\n]{0,40}\b(valid|active)\b|\bingen\b[^.\n]{0,40}gyldig|\bkeine?\b[^.\n]{0,40}gültig|"
     r"\baucune?\b[^.\n]{0,40}valide|\bningun[oa]?\b[^.\n]{0,40}vigente|\bnenhum[a]?\b[^.\n]{0,40}(válid|vigente|ativ)|"
-    r"\bnessun[a]?\b[^.\n]{0,40}valid|\bgeen\b[^.\n]{0,40}geldig|\binga\b[^.\n]{0,40}giltig|\btiada\b[^.\n]{0,40}sah", re.I)
+    r"\bnessun[a]?\b[^.\n]{0,40}valid|\bgeen\b[^.\n]{0,40}geldig|\binga\b[^.\n]{0,40}giltig|\btiada\b[^.\n]{0,40}\bsah\b", re.I)
 # 正數有效張數（N>0）
 POS_VALID = re.compile(
     r"\b[1-9]\d*\s+(\w+\s+){0,2}(remain|remains|are|is|sind|ist|er|sont|est|är|ovat|on|zijn|is|são|é|sono|è|siguen|son)\s+(still\s+|stadig\s+|noch\s+|toujours\s+)?"
@@ -495,7 +504,7 @@ AT_LEAST = re.compile(r"at least|al menos|pelo menos|mindestens|mindst|vähintä
 #       data retrieval failure 這類「查無結果」說法）
 #   M3c 事實有註銷張數（非部分紀錄），正文寫全部有效／沒有註銷，或正文寫的有效張數多於事實
 # 只在 M3X_SITES 的站啟用：新規則上線前，該站頁面要先清到 0（否則許可證排程的 checker 會擋下整批）；selftest 一律測。
-M3X_SITES = {"ZaTxGNN"}
+M3X_SITES = {"MyTxGNN", "ZaTxGNN"}
 M3X_LANGS = ("en", "en-us")
 VALID_CLAIM = re.compile(r"\bvalid status\b|\b(is|are|remains?) (currently |still )?valid\b|\bcurrently valid\b|"
                          r"\bvalid (single[\w-]*|registrations?|licen[cs]es?|authori[sz]ations?|approvals?|SAHPRA|products?|records?|entr(y|ies))\b|"
@@ -508,7 +517,9 @@ NOREG_CLAIM = re.compile(r"\bnot (currently )?registered\b|\bno (SAHPRA|local|So
                          r"\breturned zero (\w+ ){0,2}(registrations?|licen[cs]es?|products?|records?)\b|\bdata (retrieval|collection|matching) (failure|gap|issue|error)|\bretrieval or matching failure|"
                          r"\bno (\w+ ){0,2}(registered |pharmaceutical )?products? (were|was) (found|identified|returned|listed)\b|"
                          r"\babsence of (SAHPRA |local |any )?registration|\bregistration (data|records?) (was|were) not (collected|retrieved)\b|"
-                         r"\bSection 21 unregistered|\bunregistered medicine (provisions?|authori[sz]ation)", re.I)
+                         r"\bSection 21 unregistered|\bunregistered medicine (provisions?|authori[sz]ation)|"
+                         r"\bno recorded (\w+ ){0,3}(authori[sz]ations?|licen[cs]es?|DINs?|approvals?|applications?)\b|\(0 (DINs?|licen[cs]es?|NDAs?)\)|"
+                         r"\bzero (DINs?|NDAs?|applications?|authori[sz]ations?)\b|\bno (Canadian |Health Canada )?DINs? (on record|were found|found|recorded)\b", re.I)
 REG_WORD = re.compile(r"regist|licen[cs]|authori[sz]|market|products?\b|records?\b", re.I)
 REGISTRY_CTX = re.compile(r"trial|SANCTR|PACTR|ICTRP|clinicaltrials|NCT\d|\bregistry\b|\bstud(y|ies)\b", re.I)
 NONE_CANCEL = re.compile(r"\bnone (of them |of these )?(is |are |was |were )?(cancel+ed|revoked|withdrawn)\b|"
@@ -528,7 +539,7 @@ def _num(x):
     return int(x) if x.isdigit() else NUM_WORDS.get(x.lower())
 
 
-def m3x(lang, s, fc):
+def m3x(lang, s, fc, site=None):
     """M3 擴充規則；回傳子類（M3a／M3b／M3c）或 None。fc＝license_facts 一筆（market_status、valid、total、cancelled、partial）"""
     if lang not in M3X_LANGS or not fc or REGISTRY_CTX.search(s):
         return None
@@ -538,14 +549,223 @@ def m3x(lang, s, fc):
         return "M3a"
     if v > 0 and NOREG_CLAIM.search(s) and not POS_VALID.search(s) and REG_WORD.search(s):
         return "M3b"
-    if c > 0 and not fc.get("partial"):
+    if c > 0 and (not fc.get("partial") or site in M3X_PARTIAL):
         if NONE_CANCEL.search(s) or (ALL_VALID.search(s) and not re.search(r"cancel", s, re.I)):
             return "M3c"
+        vl = v + ((fc.get("not_marketed") or 0) if site in LEGAL_NM_VALID else 0)
         for m in VALID_COUNT.finditer(s):
             n = _num(m.group(1) or m.group(5))
             pre = s[max(0, m.start() - 14):m.start()]
-            if n and n > v and not AT_LEAST.search(pre) and not (m.group(1) and re.search(r"\bof (the )?$", pre, re.I)):
+            if n and n > vl and not AT_LEAST.search(pre) and not (m.group(1) and re.search(r"\bof (the )?$", pre, re.I)):
                 return "M3c"
+    return None
+
+
+# 2026-11-05（7 站概覽 vs 內文稽核，用戶決定比照 Za 修）：
+# M3d 事實是「核准未上市」，正文寫上市中（marketed in <國>、is marketed、currently marketed…）
+# LEGAL_NM_VALID：該站的「核准未上市」（Ca DORMANT、ES no comercializada、CO Temp. no comerc - Vigente）法律上仍是有效許可，
+#   M3c 的「有效張數過多」以 有效＋核准未上市 比；M3X_PARTIAL：部分紀錄的頁，已收錄紀錄裡有註銷時也查「沒有註銷／全部有效」。
+LEGAL_NM_VALID = {"CaTxGNN", "ESTxGNN", "COTxGNN"}
+M3X_PARTIAL = {"CaTxGNN", "ESTxGNN", "COTxGNN", "UsTxGNN", "KrTxGNN", "MyTxGNN", "DkTxGNN"}
+MKT_CLAIM_EN = re.compile(r"\bmarketed in (Canada|the (US|U\.S\.|United States)|Denmark|Malaysia|Korea|Spain|Colombia)\b|"
+                          r"\b(is|are|remains?) (currently |still |actively |widely |already )?marketed\b|\bcurrently marketed\b|"
+                          r"\bmarketed (in [A-Z][a-z]+ )?(as|under the brand name)\b|\bon the (Canadian|US|U\.S\.) market\b", re.I)
+FORMER = re.compile(r"\b(formerly|previously|was once|no longer|used to be|had been|discontinued|dormant|cancel)", re.I)
+TW_LEFTOVER = re.compile(r"Taiwan (Market(ing)? Status|Approved Licen|regulatory|TFDA)|Market Status \(Taiwan\)|Licenses? \(Taiwan\)|"
+                         r"taiwan_regulatory|not in Taiwan TFDA|TFDA (query|records?|licen|official|package insert)|parse the TFDA|for the Taiwan context|"
+                         r"대만[^.|]{0,12}(허가|시판|식약|미허가|규제|등록)|\(대만\)|대만\(한국\)|台灣上市|臺灣上市", re.I)
+
+
+_KEEP = {}
+
+
+def license_keep(site):
+    """scripts/license_sentence_fixes.json 裡 keep=true 的句子（與事實矛盾、但混有療效或機轉內容，用戶決定前不刪）"""
+    if site not in _KEEP:
+        p = BASE / site / "scripts/license_sentence_fixes.json"
+        d = json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+        _KEEP[site] = {pg: [m["sentence"] for m in v if m.get("keep")] for pg, v in d.items()}
+    return _KEEP[site]
+
+
+def m3_verdict(site, lang, s, fc):
+    """正文一句跟事實矛盾時回傳 (子類, 說明)；checker 與刪句程式共用（2026-11-05）"""
+    ms, v = fc.get("market_status"), fc.get("valid") or 0
+    if (fc.get("veterinary") or 0) > 0 and v == 0 and not re.search(r"\bhuman|menneske", s, re.I):
+        return None  # 只有獸用許可的頁：正文說許可有效／上市，講的是獸用品（是對的）；只有明講人用時才判
+    if (fc.get("veterinary") or 0) > 0 and VET_CTX.search(s) and not (v > 0 and VET_ONLY_CLAIM.search(s)):
+        return None  # 講的是獸用許可（只有獸用許可的頁說它有效、上市是對的）；但有人用許可時「唯一許可是獸用」仍算矛盾
+    if v > 0 and site in M3X_SITES and VET_ONLY_CLAIM.search(s):
+        return "M3b", f"M3b 事實有人用有效許可 {v} 張，正文寫唯一／全部許可是獸用：{s[:60]}"
+    if v > 0 and (ALL_CANCEL.search(s) or NOT_MKT_CLAIM.search(s) or ((NOT_MKT_LOOSE.search(s) or ONLY_CANCEL.search(s)) and not POS_VALID.search(s))) \
+            and not (still_valid_ok(s) and not NOT_MKT_CLAIM.search(s)):
+        return "M3", f"事實有效 {v} 張，正文寫全部註銷：{s[:60]}"
+    if ms in ("Cancelled only", "Not marketed") and (marketed_word(lang) in s or MKT_CLAIM_EXTRA.search(s)) and not mv2.NEG.search(s):
+        return "M3", f"事實 {ms}，正文寫上市中：{s[:60]}"
+    if site in M3X_SITES:
+        if ms == "Approved, not marketed" and lang in M3X_LANGS and MKT_CLAIM_EN.search(s) and not FORMER.search(s) and not REGISTRY_CTX.search(s):
+            return "M3d", f"M3d 事實 {ms}，正文寫上市中：{s[:60]}"
+        sub = m3x(lang, s, fc, site) or m3x_local(lang, s, fc, site)
+        if sub:
+            return sub, f"{sub} 事實 {ms}（有效 {v}／註銷 {fc.get('cancelled') or 0}），正文：{s[:60]}"
+    return None
+
+
+# 狀態列／張數列的站別寫法（2026-11-05）：Ca 把 DPD 的 DORMANT（核准、未銷售，DIN 未註銷）與 CANCELLED 分開寫
+SPLIT_STATUS = {
+    "ESTxGNN": {"full": "Comercializado (autorizaciones comercializadas: {v} de {n}{extra})",
+                "part": "Comercializado (autorizaciones comercializadas: al menos {v}{extra})",
+                "nm": "autorizadas no comercializadas: {k}", "c": "revocadas o suspendidas: {k}",
+                "count_full": "{n} (comercializadas: {v})", "count_part": "al menos {n}", "sep": "; "},
+    "CaTxGNN": {"full": "Marketed (marketed DINs: {v} of {n}{extra})", "part": "Marketed (marketed DINs on record: at least {v}{extra})",
+                "nm": "dormant: {k}", "c": "cancelled: {k}", "count_full": "{n} (marketed: {v})", "count_part": "at least {n}",
+                "sep": "; "},
+}
+
+
+def _split_extra(cfg, fc):
+    parts = []
+    if fc and (fc.get("not_marketed") or 0):
+        parts.append(cfg["nm"].format(k=fc["not_marketed"]))
+    if fc and (fc.get("cancelled") or 0):
+        parts.append(cfg["c"].format(k=fc["cancelled"]))
+    return (cfg["sep"] + cfg["sep"].join(parts)) if parts else ""
+
+
+def count_text(site, lang, fc):
+    """張數列應有的值（M4 與各寫入程式共用）"""
+    tl = mv2.T.get(lang) or mv2.T["en"]
+    n, v, partial = fc.get("total"), fc.get("valid") or 0, fc.get("partial")
+    cfg = SPLIT_STATUS.get(site)
+    if partial:
+        k = n if n is not None else len(fc.get("licenses") or {})
+        return (cfg["count_part"] if cfg else tl[3]).format(n=k)
+    return (cfg["count_full"] if cfg else tl[2]).format(n=n, v=v)
+
+
+def not_marketed_text(site, lang, fc):
+    """核准未上市的狀態列；部分紀錄（total 為空）時寫「至少 N」（2026-11-05 修 CO「registros: None」）"""
+    n = fc.get("total")
+    if n is None:
+        k = len(fc.get("licenses") or {})
+        tl = mv2.T.get(lang) or mv2.T["en"]
+        n = tl[3].format(n=k)
+    return NOT_MKT.get(lang, NOT_MKT["en"]).format(n=n)
+
+
+
+# 其他語言的 M3 擴充（2026-11-05，7 站逐站加；判定邏輯與 m3x 相同，只換該站語言的寫法）
+_NUMW_ES = {"un": 1, "una": 1, "uno": 1, "dos": 2, "tres": 3, "cuatro": 4, "cinco": 5, "seis": 6, "siete": 7, "ocho": 8, "nueve": 9, "diez": 10,
+            "once": 11, "doce": 12, "trece": 13, "catorce": 14, "quince": 15, "dieciséis": 16, "diecisiete": 17, "dieciocho": 18,
+            "diecinueve": 19, "veinte": 20, "ambas": 2, "ambos": 2}
+_NES = r"(\d+|" + "|".join(sorted(_NUMW_ES, key=len, reverse=True)) + r")"
+X_LOCAL = {
+    "es": dict(
+        neg=re.compile(r"\b(no|ning[uú]n[oa]?|sin|ni|nunca)\b[^.;]{0,35}(vigente|comercializ|activ)", re.I),
+        valid=re.compile(r"\b(est[aá]n?|son|es|figuran?|se encuentran?|sigue[n]?)\s+(tod[oa]s\s+)?vigentes?\b|\bEstado: vigente|"
+                         r"\b(autorizaci\w+|registros?(\s+sanitarios?)?)\s+(\w+\s+){0,3}vigentes?\b|\bmonof[aá]rmacos? vigentes?\b", re.I),
+        mkt=re.compile(r"\bcomercializad[oa]s? en (Españ|Colombi)|\b(est[aá]|se encuentra|queda) (ya |actualmente )?comercializad|"
+                       r"\bse comercializan? (en|como)\b|\bya est[aá] comercializad|\bautorizad[oa] y comercializad", re.I),
+        noreg=re.compile(r"\bno (tiene|cuenta con|dispone de|hay|posee)\b[^.;]{0,30}\b(registros?|autorizaci\w+|productos?)\b[^.;]{0,30}(vigente|activ|en (Españ|Colombi))|"
+                         r"\bsin (ning[uú]n )?registros? (sanitarios? )?(vigentes?|activos?)|\bning[uú]n registro (sanitario )?(vigente|activo)|"
+                         r"\bno figura con ning[uú]n registro|\b0 licencias\b|"
+                         r"\b(registros?|autorizaci\w+)\b[^.;]{0,70}?\b(est[aá]n?|figuran?|son|es|fue|fueron|consta[n]?)\s+(tod[oa]s\s+|actualmente\s+|también\s+|como\s+)*(cancelad|anulad|revocad)|"
+                         r"\b(tod[oa]s|ambos|ambas|el único|la única|su único|su única)\b[^.;]{0,70}?\b(cancelad|anulad|revocad)|"
+                         r"\bno hay (un )?productos? vigentes?|\bno hay registros? (sanitarios? )?vigentes?", re.I),
+        none_cancel=re.compile(r"\bning[uú]n[oa]? (\w+ ){0,3}(est[aá] )?(cancelad|anulad|revocad)|\bsin (\w+ ){0,2}(cancelad|anulad|revocad|cancelaciones|anulaciones)|"
+                               r"\bno hay (\w+ ){0,3}(cancelad|anulad|revocad)", re.I),
+        all_valid=re.compile(r"\btod[oa]s\b[^.;]{0,60}?\b(est[aá]n|son|figuran)\s+(\w+\s+){0,2}vigentes?|\btod[oa]s (\w+ ){0,3}vigentes\b|"
+                             r"\b(ambas|ambos) (autorizaciones|registros)[^.;]{0,40}vigentes", re.I),
+        count=[re.compile(r"\b" + _NES + r"\s+(autorizaciones|registros(?: sanitarios)?)\s+(\w+\s+){0,2}?(vigentes|activos|en vigor)\b", re.I),
+               re.compile(r"\b(?:las|los)\s+" + _NES + r"\s+(autorizaciones|registros(?: sanitarios)?)\b[^.;]{0,50}?\b(est[aá]n|son|figuran)\s+(\w+\s+){0,2}vigentes", re.I)],
+        partner=re.compile(r"\b(de las|de los|de)\s+" + _NES + r"\s*$", re.I),
+        numw=_NUMW_ES, ctx=re.compile(r"ensayo|NCT\d|estudio|registro de ensayos|EudraCT|REEC", re.I)),
+}
+
+
+# 韓文（KrTxGNN，2026-11-05）：韓文否定在後（「유효한 허가가 없」「허가 이력이 없」），valid／mkt 以負向前瞻排除
+_KNEG = r"(?![^.;,()]{0,14}(없|않|아니|미확인|확인되지 않|불가))"
+X_LOCAL["ko"] = dict(
+    neg=re.compile(r"(유효|시판|판매|허가)[^.;,]{0,14}(없|않|아니)"),
+    valid=re.compile(r"유효(한|하며|합니다|하고|하다|함|상태|허가|하게)" + _KNEG + r"|정상 상태" + _KNEG + r"|허가되어 있(습니다|으며|고|는)|"
+                     r"(현재|국내에서?|한국에서) (\w+ ){0,3}허가된" + _KNEG),
+    mkt=re.compile(r"시판 ?중(인|이며|입니다|이다|이고)?" + _KNEG + r"|시판되(고|어) 있" + _KNEG + r"|판매 ?중(인|이며|입니다)?" + _KNEG),
+    noreg=re.compile(r"(허가|시판 허가|시판) ?(이력|기록|내역)(이|은|가|도)? ?(없|전무|부재|0건)|(국내|한국) ?미허가|미허가 (약물|의약품|성분|상태)|"
+                     r"허가(받은|된) (이력|기록|제품|품목)(이|은|가)? ?없|허가증?(이|은|가)? (없|존재하지 않)|허가 기록 0건|"
+                     r"(모두|전부|모든 허가가?) (취소|취하|만료)|유효한 (허가|품목|제품)(증)?(이|은|가)? (없|존재하지 않)"),
+    none_cancel=re.compile(r"(취소|취하)(된|건|된 허가|된 품목)?(은|는|이|가)? ?(없|0건)|(취소|취하) 0건"),
+    all_valid=re.compile(r"(모두|전부|전체가?|모든 허가가?)\s+(\S+\s+){0,2}?(유효|정상)(?![^.;,]{0,8}(없|않|아니))"),
+    count=[re.compile(r"(?<!최소 )(?<![\d.])(\d+)건(?!\s*이상)(의|이|은|가)?\s*((?!\d+건|중\s)\S+\s+){0,3}?(유효|정상)(?![^.;,]{0,8}(없|않|아니))")],
+    partner=re.compile(r"(\d+건\s*(중|가운데)|최소|적어도)\s*$"),
+    numw={}, ctx=re.compile(r"임상|NCT\d|시험|연구|CRIS|등록 ?번호"), cw=r"취소|취하|만료|cancel")
+
+
+# 丹麥文（DkTxGNN，2026-11-05）
+VET_CTX = re.compile(r"veterinær|dyrelæge|\bVet\.|til dyr\b|husdyr", re.I)
+VET_ONLY_CLAIM = re.compile(r"\b(den|det) eneste\b[^.;]{0,60}(veterinær|dyrelæge)|\b(alle|begge)\b[^.;]{0,50}(er|gælder)[^.;]{0,20}(veterinær|dyrelæge)|"
+                            r"\bregistreret (som|i ét|i et|i én|i en)\b[^.;]{0,25}(veterinær|dyrelæge)|\bgodkendt som dyrelægemiddel|"
+                            r"\b(fundne|registrerede|danske) (tilladelser|godkendelser|produkter)\b[^.;]{0,20}\ber veterinær|"
+                            r"\b(det|de) registrerede (produkt|produkter|præparat|præparater)\b[^.;]{0,15}\ber (et |en )?veterinær", re.I)
+X_LOCAL["da"] = dict(
+    neg=re.compile(r"\b(ikke|ingen|nul|uden)\b[^.;]{0,30}(gyldig|markedsført|godkendt)", re.I),
+    valid=re.compile(r"\b(er|var) (\w+ ){0,2}gyldig(e|t)?\b|\bgyldige (tilladelser|markedsføringstilladelser|godkendelser)\b", re.I),
+    mkt=re.compile(r"\b(er|bliver) (\w+ ){0,2}markedsført\b|\bmarkedsført i Danmark\b", re.I),
+    noreg=re.compile(r"\b(nul|ingen) (?!annuller|tilbagekald|afregistrer|inaktiv)(\w+ ){0,2}(danske )?(markedsførings)?(tilladelser|godkendelser?)\b|\bikke markedsført i Danmark\b|"
+                     r"\bingen dansk godkendelse\b|\bikke godkendt i Danmark\b|\bikke (registreret|godkendt) til (human|menneske)|"
+                     r"\bikke godkendt til human brug\b|\bikke registreret (\w+ ){0,2}humane? (præparat|produkt|lægemid)|"
+                     r"\bikke registreret som markedsført\b|\bikke (\w+ ){0,2}tilgængeligt? på det danske marked\b", re.I),
+    none_cancel=re.compile(r"(?!x)x"), all_valid=re.compile(r"(?!x)x"), count=[], partner=re.compile(r"(?!x)x"),
+    numw={}, ctx=re.compile(r"klinisk|NCT\d|forsøg|studie|EudraCT", re.I), cw=r"tilbagekald|afregistrer|cancel",
+    preneg=r"\b(ikke|ingen|nul)\b[^.;]{0,30}$")
+
+
+# 馬來文（MyTxGNN，2026-11-05）
+_NUMW_MS = {"satu": 1, "dua": 2, "tiga": 3, "empat": 4, "lima": 5, "enam": 6, "tujuh": 7, "lapan": 8, "sembilan": 9, "sepuluh": 10}
+_NMS = r"(\d+|" + "|".join(_NUMW_MS) + r")"
+X_LOCAL["ms"] = dict(
+    neg=re.compile(r"\b(tidak|tiada|tanpa|bukan|belum)\b[^.;]{0,25}\b(sah|dipasarkan|berdaftar)\b", re.I),
+    valid=re.compile(r"\bberstatus sah\b|\b(pendaftaran|lesen)( yang)? sah\b|\bmasih sah\b|\badalah sah\b", re.I),
+    mkt=re.compile(r"\b(sedang |telah |masih )?dipasarkan di Malaysia\b|\b(sedang|masih) dipasarkan\b", re.I),
+    noreg=re.compile(r"\btidak (berdaftar|didaftarkan)\b|\btidak (mempunyai|ada) (sebarang )?(pendaftaran|lesen|produk (yang )?berdaftar)\b|"
+                     r"\btiada (sebarang )?(pendaftaran|lesen)\b(?![^.;]{0,40}\btunggal\b)|\(0 lesen\)|\bjumlah (lesen|pendaftaran): 0\b|"
+                     r"\btiada lesen tempatan\b", re.I),
+    none_cancel=re.compile(r"\btiada (\w+ ){0,2}(yang )?(dibatalkan|dibatal)\b|\btiada pembatalan\b|\b0 (dibatalkan|pembatalan)\b", re.I),
+    all_valid=re.compile(r"\b(kesemua|semua)\b[^.;]{0,40}?\b(berstatus sah|adalah sah|masih sah)\b|\b(kesemua|semua) (\w+ ){0,3}(pendaftaran|lesen) (yang )?sah\b", re.I),
+    count=[re.compile(r"\b" + _NMS + r" (pendaftaran|lesen)\b[^.;]{0,20}?\b(yang )?(sah|berstatus sah)\b", re.I),
+           re.compile(r"\b(?:kesemua|semua) " + _NMS + r" (pendaftaran|lesen)\b[^.;]{0,30}?\b(berstatus sah|adalah sah|sah)\b", re.I)],
+    partner=re.compile(r"\b(daripada|dari)\s*$", re.I), numw=_NUMW_MS,
+    ctx=re.compile(r"NCT\d|pendaftaran (ujian|percubaan)|ClinicalTrials|daftar (ujian|percubaan)", re.I),
+    cw=r"batal|cancel|tamat|expir", preneg=r"\b(tidak|tiada|tanpa|bukan|belum)\b[^.;]{0,30}$")
+
+
+def m3x_local(lang, s, fc, site):
+    """M3a／M3b／M3c／M3d 的非英文寫法（X_LOCAL 有該語言才查）"""
+    R = X_LOCAL.get(lang)
+    if not R or not fc or R["ctx"].search(s):
+        return None
+    ms, v, c, nm = fc.get("market_status"), fc.get("valid") or 0, fc.get("cancelled") or 0, fc.get("not_marketed") or 0
+    negd = bool(R["neg"].search(s))
+    if ms in ("Cancelled only", "Not marketed") and (R["valid"].search(s) or R["mkt"].search(s)) and not negd:
+        return "M3a"
+    if ms == "Approved, not marketed" and R["mkt"].search(s) and not negd:
+        return "M3d"
+    cw = R.get("cw", r"cancel|anul|revoc")
+    if ms == "Approved, not marketed" and c > 0 and R["all_valid"].search(s) and not re.search(cw, s, re.I):
+        return "M3c"
+    posv = any(not re.search(R.get("preneg", r"\b(no|ning[uú]n[oa]?|sin|ni|no hay)\b[^.;]{0,30}$"), s[:m.start()], re.I) for m in R["valid"].finditer(s))
+    if v > 0 and R["noreg"].search(s) and not R["none_cancel"].search(s) and not posv:
+        return "M3b"
+    if c > 0 and (not fc.get("partial") or site in M3X_PARTIAL):
+        if R["none_cancel"].search(s) or (R["all_valid"].search(s) and not re.search(cw, s, re.I)):
+            return "M3c"
+        vl = v + (nm if site in LEGAL_NM_VALID else 0)
+        for rx in (R["count"] if not (fc.get("partial") and lang == "ko") else ()):  # 部分紀錄的 v 只是下限（Kr，2026-11-05）
+            for m in rx.finditer(s):
+                g = m.group(1).lower()
+                k = int(g) if g.isdigit() else R["numw"].get(g)
+                pre = s[max(0, m.start() - 14):m.start()]
+                if k and k > vl and not AT_LEAST.search(pre) and not R["partner"].search(pre) and not (re.search(r"\bde( las| los)?\s*$", pre, re.I) and re.search(r"\b(est[aá]n|son|figuran)\b", m.group(0), re.I)):
+                    return "M3c"
     return None
 
 
@@ -1031,11 +1251,15 @@ def check_page(site, f, cls, want_noindex):
             E("M1", "找不到本站狀態列")
         else:
             if ms == "Marketed":
-                want_s = marketed_text(site, lang, v, n, partial)
+                want_s = marketed_text(site, lang, v, n, partial, fc)
                 if st[1] != want_s:
                     E("M1", f"狀態列「{st[1][:40]}」≠「{want_s}」")
             elif ms == "Approved, not marketed":
-                want_s = NOT_MKT.get(lang, NOT_MKT["en"]).format(n=n)
+                want_s = not_marketed_text(site, lang, fc)
+                if st[1] != want_s:
+                    E("M1", f"狀態列「{st[1][:40]}」≠「{want_s}」")
+            elif ms == "Not marketed" and site in VET_ONLY:
+                want_s = not_reg_text(site, lang, fc)
                 if st[1] != want_s:
                     E("M1", f"狀態列「{st[1][:40]}」≠「{want_s}」")
             elif ms == "Not marketed" and site in NO_CENTRAL:
@@ -1063,7 +1287,7 @@ def check_page(site, f, cls, want_noindex):
         # M4（2026-10-31 pm 退件 BR）：張數列要跟狀態列同一套事實、同一套寫法（部分紀錄也要檢查），不得有括號內部註記
         # （例「20 (todos cancelados)」配「pelo menos 20」的狀態列、「0 (consulta realizada com grafia incorreta…)」）。Tw 格式不同，不查。
         if cr is not None and site != "TwTxGNN" and (n is not None or partial):
-            want_c = tl[3].format(n=n if n is not None else len(fc.get("licenses") or {})) if partial else tl[2].format(n=n, v=v or 0)
+            want_c = count_text(site, lang, fc)
             if cr[1] != want_c:
                 E("M4", f"張數列「{cr[1][:50]}」≠「{want_c}」")
         lic = {mv2.norm_id(k): s for k, s in (fc.get("licenses") or {}).items()}
@@ -1079,13 +1303,16 @@ def check_page(site, f, cls, want_noindex):
             if line.startswith("|") or line.startswith("#"):
                 continue
             for s in sentences(line):
-                if v > 0 and (ALL_CANCEL.search(s) or NOT_MKT_CLAIM.search(s) or ((NOT_MKT_LOOSE.search(s) or ONLY_CANCEL.search(s)) and not POS_VALID.search(s))) \
-                        and not (still_valid_ok(s) and not NOT_MKT_CLAIM.search(s)):
-                    E("M3", f"事實有效 {v} 張，正文寫全部註銷：{s[:60]}")
-                elif ms in ("Cancelled only", "Not marketed") and (marketed_word(lang) in s or MKT_CLAIM_EXTRA.search(s)) and not mv2.NEG.search(s):
-                    E("M3", f"事實 {ms}，正文寫上市中：{s[:60]}")
-                elif site in M3X_SITES and (sub := m3x(lang, s, fc)):
-                    E("M3", f"{sub} 事實 {ms}（有效 {v}／註銷 {fc.get('cancelled') or 0}），正文：{s[:60]}")
+                hit = m3_verdict(site, lang, s, fc)
+                if hit and any(k in s for k in license_keep(site).get(f.stem, ())):
+                    continue  # 人工核對過：句子混有療效／機轉內容，不刪（scripts/license_sentence_fixes.json 的 keep 項）
+                if hit:
+                    E("M3", hit[1])
+        # M5（2026-11-05）：非 Tw 站殘留 TwTxGNN 模板的台灣上市狀態列／taiwan_regulatory 欄位／「台灣無許可」句
+        if site != "TwTxGNN":
+            for line in strip_managed(body).split("\n"):
+                if TW_LEFTOVER.search(line) and not any(k in line for k in license_keep(site).get(f.stem, ())):
+                    E("M5", f"殘留台灣模板：{line.strip()[:60]}")
     # N1
     if want_noindex:
         has = bool(re.search(r"^noindex:\s*true", fm, re.M))
@@ -1122,6 +1349,14 @@ def selftest():
             kv = dict(x.split("=", 1) for x in note.split(";") if "=" in x)
             got = bool(m3x(lang, text, {"market_status": kv.get("ms"), "valid": int(kv.get("valid", 0)),
                                         "cancelled": int(kv.get("cancelled", 0)), "partial": kv.get("partial") == "1"}))
+        elif code == "M3V":  # note＝site=<站>;ms=…;valid=…;not_marketed=…;cancelled=…[;partial=1]：m3_verdict（含 M3d、站別規則，2026-11-05）
+            kv = dict(x.split("=", 1) for x in note.split(";") if "=" in x)
+            fcv = {"market_status": kv.get("ms"), "valid": int(kv.get("valid", 0)), "not_marketed": int(kv.get("not_marketed", 0)),
+                   "cancelled": int(kv.get("cancelled", 0)), "partial": kv.get("partial") == "1"}
+            M3X_SITES.add(kv.get("site"))  # 測試案例的站一律啟用
+            got = bool(m3_verdict(kv.get("site"), lang, text, fcv))
+        elif code == "M5":  # text＝一行；非 Tw 站的台灣模板殘留
+            got = bool(TW_LEFTOVER.search(text))
         elif code == "P3C6":  # text＝「已移除病名|句子」：正文提到已移除（非已知用途）的病名（含常見縮寫），已知用途句除外
             name, s = text.split("|", 1)
             rxs = [re.compile(r"(?<![A-Za-z])" + re.escape(name) + r"(?![A-Za-z])", re.I)] + \

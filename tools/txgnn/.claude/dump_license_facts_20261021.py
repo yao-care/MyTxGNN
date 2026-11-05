@@ -21,10 +21,12 @@ for f in sorted(glob.glob("data/bundles/*/drug_bundle.json")):
         out[Path(f).parent.name] = {"error": str(e)[:150]}
         continue
     lic = {x["license_number"]: x["status"] for x in lr.get("licenses", [])}
+    _raw = json.load(open(f, encoding="utf-8"))  # 獸用許可（Dk 2026-11-05：veterinary_records，不算人用）
+    vet = sum(len(x.get("veterinary_records") or []) for x in _raw.values() if isinstance(x, dict) and "records" in x)
     v = sum(1 for s in lic.values() if s == "valid")
     nm = sum(1 for s in lic.values() if s == "not_marketed")
     out[Path(f).parent.name] = {"market_status": lr.get("market_status"), "total": lr.get("total_licenses") if not lr.get("partial_list") else None,
-                                "valid": v, "not_marketed": nm, "cancelled": len(lic) - v - nm, "partial": bool(lr.get("partial_list")), "licenses": lic}
+                                "valid": v, "not_marketed": nm, "cancelled": len(lic) - v - nm, "partial": bool(lr.get("partial_list")), "licenses": lic, **({"veterinary": vet} if vet else {})}
 json.dump(out, sys.stdout, ensure_ascii=False)
 '''
 

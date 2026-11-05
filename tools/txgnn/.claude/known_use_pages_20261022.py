@@ -266,7 +266,7 @@ def facts_for(site, page):
     elif fa.get("market_status") == "Cancelled only":
         mk = f"Cancelled only: {fa.get('total')} licence(s) on record, none valid"
     elif fa.get("market_status") == "Approved, not marketed":  # 與 check_drug_page.NOT_MKT 同一份字彙
-        mk = _ck().NOT_MKT.get(lang, _ck().NOT_MKT["en"]).format(n=fa.get("total"))
+        mk = _ck().not_marketed_text(site, lang, fa)
     elif str(fa.get("market_status", "")).startswith("Unknown"):
         mk = "Unknown (the data source does not record cancellation status)"
     else:

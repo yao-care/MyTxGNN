@@ -3,12 +3,15 @@
 來源：https://storage.data.gov.my/healthcare/pharmaceutical_products.csv（免金鑰）。欄位 reg_no、status、date_end。
 這份檔只收現行有效的註冊（PRODUCT APPROVED／CONDITIONAL REGISTRATION）。
 2026-10-31 加上同站的撤銷資料集 pharmaceutical_products_cancelled.csv（Pihak Berkuasa Kawalan Dadah 撤銷註冊的全量清單），
-在這份查到、現行檔沒有的 reg_no 狀態寫 CANCELLED_STATUS。兩份都查不到的保留原狀態、列在 summary（不推定為撤銷）。
+在這份查到、現行檔沒有的 reg_no 狀態寫 CANCELLED_STATUS。
+2026-11-05（用戶決定）：兩份都查不到的不再預設為有效，改依證據包紀錄的到期日（date_end）判定：已過期 → EXPIRED_STATUS
+（reviewer 的註銷字樣含 expir，算非有效）；未過期 → 保留原狀態、列在 summary（preprocess，本週沒有對到的號碼才處理）。
 登記號尾碼不同就是不同產品（實測同號碼不同尾碼有 5 組是不同藥），只做完全比對。
 證據包（npra 區塊）紀錄 reg_no、status＝NPRA 原文。
 """
 import csv
 import io
+import re
 import time
 
 import requests
@@ -62,8 +65,34 @@ def validate(new, old):
     return p
 
 
+EXPIRED_STATUS = "Expired (not in current NPRA register)"
+_IDX = {}
+
+
 def status_index(new):
-    return {r["reg_no"]: r["status"] for r in new if r["status"]}
+    _IDX.clear()
+    _IDX.update({r["reg_no"]: r["status"] for r in new if r["status"]})
+    return dict(_IDX)
+
+
+def expired(rec, today=None):
+    """現行檔與撤銷檔都查不到、到期日已過的紀錄（2026-11-05）"""
+    from datetime import date
+    end = str(rec.get("date_end") or rec.get("expiry_date") or "").strip()[:10]
+    return bool(re.fullmatch(r"\d{4}-\d{2}-\d{2}", end)) and end < (today or date.today().isoformat())
+
+
+def preprocess(b):
+    """兩份資料都查不到的登記號：到期日已過就改成 EXPIRED_STATUS（不再預設有效）。回傳是否有變"""
+    if not _IDX:
+        return False
+    ch = False
+    for r in (b.get("npra") or {}).get("records") or []:
+        k = record_id(r)
+        if k and k not in _IDX and expired(r) and r.get("status") != EXPIRED_STATUS:
+            r["status"] = EXPIRED_STATUS
+            ch = True
+    return ch
 
 
 def record_id(rec):

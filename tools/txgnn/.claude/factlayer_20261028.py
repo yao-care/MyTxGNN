@@ -237,13 +237,13 @@ def status_value(site, fc):
     tl = ck.mv2.T.get(lang) or ck.mv2.T["en"]
     ms, v, n, partial = fc.get("market_status"), fc.get("valid"), fc.get("total"), fc.get("partial")
     if ms == "Marketed":
-        return ck.marketed_text(site, lang, v, n, partial)
+        return ck.marketed_text(site, lang, v, n, partial, fc)
     if ms == "Approved, not marketed":
-        return ck.NOT_MKT.get(lang, ck.NOT_MKT["en"]).format(n=n)
+        return ck.not_marketed_text(site, lang, fc)
     if ms == "Cancelled only":
         return ck.cancelled_text(site, lang, n)
     if ms == "Not marketed":
-        return ck.not_reg_text(site, lang)
+        return ck.not_reg_text(site, lang, fc)
     return None
 
 

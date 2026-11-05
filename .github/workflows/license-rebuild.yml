@@ -1,0 +1,124 @@
+# 依成分重建許可證（2026-11-05，用戶核准，一次性；做法比照 ZaTxGNN）：重新下載 NPRA 現行註冊與撤銷清單 → 現行與撤銷都查不到的
+# 登記號依到期日判定（已過期＝Expired，不再預設有效）、依成分補收拼法不同的登記 → 程式改概覽表狀態／張數列，刪掉跟新事實矛盾的句子 →
+# checker／gate → 通過才 commit 頁面、發新 data Release（舊 tag 不動）。
+# 全程不用 AI。停損（checker 新錯誤、gate、h1、改太多頁、資料下載失敗）一律不推、開 issue。
+# 觸發：push 修改 .github/license-rebuild.request（雲端 session 沒有 workflow_dispatch 權限時用），或手動。
+#   request 檔內容：mode=dry（只跑、上傳結果，不 commit）或 mode=apply；max_pages=<停損頁數>
+# 規則見 scripts/license_rebuild_run.py、scripts/rebuild_licenses_by_ingredient.py、tools/txgnn/.claude/delete_license_sentences.py。
+name: License rebuild by ingredient
+
+on:
+  push:
+    branches: [main]
+    paths: ['.github/license-rebuild.request']
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'dry（只跑不推）或 apply'
+        default: 'dry'
+      max_pages:
+        description: '停損頁數（留空＝預設 min(200, 5%)）'
+        default: ''
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: license-refresh
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
+
+      - name: Read request
+        run: |
+          set -euo pipefail
+          MODE="${{ inputs.mode }}"; MAXP="${{ inputs.max_pages }}"
+          if [ "${{ github.event_name }}" = "push" ]; then
+            MODE=$(sed -n 's/^mode=//p' .github/license-rebuild.request | tr -d '[:space:]')
+            MAXP=$(sed -n 's/^max_pages=//p' .github/license-rebuild.request | tr -d '[:space:]')
+          fi
+          [[ "$MODE" =~ ^(dry|apply)$ ]] || { echo "mode 只能是 dry 或 apply" >&2; exit 1; }
+          [[ -z "$MAXP" || "$MAXP" =~ ^[0-9]+$ ]] || { echo "max_pages 要是數字" >&2; exit 1; }
+          echo "MODE=$MODE" >> "$GITHUB_ENV"; echo "MAXP=$MAXP" >> "$GITHUB_ENV"
+          echo "mode=$MODE max_pages=${MAXP:-預設}" >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install uv
+          uv sync --frozen
+
+      - name: Restore data from Release
+        run: bash scripts/restore_data.sh
+
+      - name: Rebuild licenses
+        id: rebuild
+        run: |
+          WS=$(bash scripts/txgnn_ws.sh)
+          set +e
+          "$GITHUB_WORKSPACE/.venv/bin/python" scripts/license_rebuild_run.py --ws "$WS" ${MAXP:+--max-pages "$MAXP"}
+          code=$?
+          set -e
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          cat .license_rebuild/summary.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload results
+        if: always()
+        uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6
+        with:
+          name: license-rebuild-${{ env.MODE }}
+          path: .license_rebuild/
+          include-hidden-files: true
+
+      - name: Commit and push pages
+        if: steps.rebuild.outputs.code == '0' && env.MODE == 'apply'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898273+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then echo "頁面沒有變化"; exit 0; fi
+          git commit -m "fix(license): 依成分重建許可證並刪除與新事實矛盾的句子（$(git diff --cached --name-only -- docs/_drugs | wc -l | tr -d ' ') 個藥物頁）" \
+            -m "來源：data.gov.my NPRA 現行註冊（pharmaceutical_products.csv）與撤銷清單（當日下載）；刪句清單見 workflow artifact license-rebuild-apply 的 deletions.tsv。"
+          git pull --rebase
+          git push
+          gh workflow run pages.yml --ref main
+
+      - name: Publish updated data to Release
+        if: steps.rebuild.outputs.code == '0' && env.MODE == 'apply'
+        run: |
+          SITE=$(cat tools/txgnn/SITE)
+          TAG="data-$(date -u +%Y%m%d-%H%M%S)"   # 每次新 tag，舊 tag 一律不覆蓋
+          STAGE=$(mktemp -d)
+          git ls-files --others --ignored --exclude-standard -z -- data | tr '\0' '\n' \
+            | grep -vE '^data/(kg\.csv|node\.csv|kg_directed\.csv|edges\.csv)$|\.DS_Store$|/\._' \
+            | sed "s|^|$SITE/|" > "$STAGE/list"
+          ln -sfn "$GITHUB_WORKSPACE" "$STAGE/$SITE"
+          (cd "$STAGE" && tar -czhf - -T list | split -b 1900m - "$SITE-data.tar.gz.part-")
+          (cd "$STAGE" && sha256sum "$SITE-data".tar.gz.part-* > "$SITE-data.sha256")
+          if gh release view "$TAG" >/dev/null 2>&1; then echo "tag $TAG 已存在，不覆蓋" >&2; exit 1; fi
+          gh release create "$TAG" --title "$SITE 成果資料（$TAG，依成分重建許可證）" \
+            --notes "依成分重建許可證後的完整 data/（data/bundles 的 npra 紀錄：狀態依當日 NPRA 現行註冊與撤銷清單，兩份都查不到且已過期的寫 Expired；依成分補收的紀錄 source 欄註明；data/raw 換成當日下載）。還原：bash scripts/restore_data.sh（預設取最新建立的 data-* tag）。" \
+            "$STAGE/$SITE-data".tar.gz.part-* "$STAGE/$SITE-data.sha256"
+          echo "Release：$TAG" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Open issue on stop
+        if: steps.rebuild.outputs.code != '0' && env.MODE == 'apply'
+        run: |
+          gh label create license-refresh --color B60205 --description "許可證排程更新需要人看" 2>/dev/null || true
+          gh issue create --label license-refresh --title "依成分重建許可證停損（exit ${{ steps.rebuild.outputs.code }}）" \
+            --body "$(cat .license_rebuild/summary.md)
+
+          Run：${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          exit 1
