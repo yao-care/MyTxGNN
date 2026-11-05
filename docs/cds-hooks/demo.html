@@ -159,6 +159,10 @@
     <h1>MyTxGNN CDS Hooks Demo</h1>
     <p class="subtitle">Clinical Decision Support Services for Drug Repurposing</p>
 
+    <div class="disclaimer" style="margin-bottom: 20px;">
+        <strong>Simulated example, not real data.</strong> This page does not call any CDS Hooks service and does not query any database. The responses below are fixed examples written into the page to show what CDS Hooks cards look like.
+    </div>
+
     <div class="card">
         <h2>Available CDS Services</h2>
 
@@ -175,7 +179,7 @@
             <div class="service-icon icon-repurpose">💊</div>
             <div class="service-content">
                 <div class="service-title">Drug Repurposing Candidates</div>
-                <div class="service-desc">Provide TxGNN-based drug repurposing predictions for patient medications and conditions.</div>
+                <div class="service-desc">Illustrates a card that links to this site's TxGNN drug repurposing reports. The demo below does not look up any prediction.</div>
                 <span class="service-hook">order-sign</span>
             </div>
         </div>
@@ -184,7 +188,7 @@
             <div class="service-icon icon-trial">🔬</div>
             <div class="service-content">
                 <div class="service-title">Clinical Trial Matching</div>
-                <div class="service-desc">Automatically search ClinicalTrials.gov for relevant clinical trials.</div>
+                <div class="service-desc">Illustrates a card that links to a ClinicalTrials.gov search. The demo below does not search or count trials.</div>
                 <span class="service-hook">patient-view</span>
             </div>
         </div>
@@ -245,24 +249,23 @@
             result.classList.add('show');
 
             // Simulated responses
-            let html = '<h3>CDS Hooks Response</h3>';
+            let html = '<h3>Simulated CDS Hooks response (example only)</h3>';
 
             // DDI Check
             if ((drug1 === 'prednisolone' && drug2 === 'ibuprofen') ||
                 (drug1 === 'simvastatin' && drug2 === 'ketoconazole')) {
                 html += `
                     <div class="alert-card alert-warning">
-                        <strong>⚠️ Drug Interaction Alert</strong><br>
+                        <strong>⚠️ Example interaction alert</strong><br>
                         <strong>${drug1.charAt(0).toUpperCase() + drug1.slice(1)}</strong> + <strong>${drug2.charAt(0).toUpperCase() + drug2.slice(1)}</strong><br>
-                        Severity: <strong>Moderate</strong><br>
-                        Recommendation: Monitor for adverse effects. Consider alternative if possible.
+                        Fixed example text showing the card format. Severity and management are not assessed by this demo; check a current interaction reference.
                     </div>
                 `;
             } else {
                 html += `
-                    <div class="alert-card alert-success">
-                        <strong>✓ No Major Interactions</strong><br>
-                        No significant drug interactions detected between the selected medications.
+                    <div class="alert-card alert-info">
+                        <strong>Not checked</strong><br>
+                        This demo only has example responses for two drug pairs (prednisolone + ibuprofen, simvastatin + ketoconazole). Other combinations are not checked, so no conclusion about interactions can be drawn here.
                     </div>
                 `;
             }
@@ -270,18 +273,18 @@
             // Repurposing Suggestion
             html += `
                 <div class="alert-card alert-info">
-                    <strong>💊 Drug Repurposing Insight</strong><br>
-                    Based on TxGNN analysis, <strong>${drug1.charAt(0).toUpperCase() + drug1.slice(1)}</strong> has potential applications for related conditions.<br>
-                    <a href="/drugs/">View full predictions →</a>
+                    <strong>💊 Drug Repurposing</strong><br>
+                    Example card only: no prediction was looked up. See the drug reports for the actual TxGNN predictions.<br>
+                    <a href="/drugs/">Browse drug reports →</a>
                 </div>
             `;
 
             // Trial Matching
             html += `
                 <div class="alert-card alert-info">
-                    <strong>🔬 Clinical Trial Opportunities</strong><br>
-                    Found 3 active clinical trials matching patient profile.<br>
-                    <a href="https://clinicaltrials.gov/" target="_blank">View on ClinicalTrials.gov →</a>
+                    <strong>🔬 Clinical Trials</strong><br>
+                    Example card only: no trials were searched or counted.<br>
+                    <a href="https://clinicaltrials.gov/search?cond=${encodeURIComponent(condition)}&intr=${encodeURIComponent(drug1)}" target="_blank" rel="noopener">Search ClinicalTrials.gov →</a>
                 </div>
             `;
 
