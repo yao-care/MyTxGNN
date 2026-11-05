@@ -3,7 +3,7 @@
     {
       "hook": "order-sign",
       "title": "MyTxGNN Drug Interaction Check",
-      "description": "Check for potential drug-drug interactions (PDDI) in prescriptions based on DDInter 2.0 database. Provides contextualized clinical alerts and management recommendations.",
+      "description": "Demo only: no interaction check is run. The demo page shows a simulated result for two example drug pairs (prednisolone + ibuprofen, simvastatin + ketoconazole); it is not checked against the DDInter database, and this static site has no CDS service endpoint.",
       "id": "mytxgnn-ddi-check",
       "prefetch": {
         "patient": "Patient/{{context.patientId}}",
@@ -14,7 +14,7 @@
     {
       "hook": "order-sign",
       "title": "MyTxGNN Drug Repurposing Candidates",
-      "description": "Based on the TxGNN graph neural network, provide drug repurposing prediction candidates for patient medications. Assists clinical decision-making and clinical trial matching.",
+      "description": "Demo only: illustrates a card that links to this site's TxGNN drug repurposing reports; the demo page does not look up any prediction, and this static site has no CDS service endpoint.",
       "id": "mytxgnn-repurposing",
       "prefetch": {
         "patient": "Patient/{{context.patientId}}",
@@ -26,7 +26,7 @@
     {
       "hook": "patient-view",
       "title": "MyTxGNN Clinical Trial Matching",
-      "description": "Automatically search ClinicalTrials.gov for relevant clinical trials based on patient medications and diagnoses.",
+      "description": "Demo only: illustrates a card that links to a ClinicalTrials.gov search; the demo page does not search or count trials, and this static site has no CDS service endpoint.",
       "id": "mytxgnn-trial-match",
       "prefetch": {
         "patient": "Patient/{{context.patientId}}",

@@ -3,7 +3,7 @@ layout: default
 title: Data Keselamatan
 nav_order: 5
 has_children: true
-description: "Data keselamatan ubat: interaksi ubat-ubat (DDI) daripada DDInter dan Guide to PHARMACOLOGY."
+description: "Data keselamatan ubat: interaksi ubat-ubat (DDI) daripada DDInter, serta data ubat–sasaran daripada Guide to PHARMACOLOGY."
 permalink: /keselamatan/
 ---
 
@@ -69,8 +69,8 @@ Apabila menggunakan semula ubat untuk indikasi baharu, kita perlu mempertimbangk
   <td>160,235</td>
 </tr>
 <tr>
-  <td><a href="https://www.guidetopharmacology.org/" target="_blank" rel="noopener">Guide to PHARMACOLOGY</a></td>
-  <td>DDI</td>
+  <td><a href="https://www.guidetopharmacology.org/" target="_blank" rel="noopener">Guide to PHARMACOLOGY</a> (GtoPdb 2026.3)</td>
+  <td>Ubat–sasaran (bukan DDI)</td>
   <td>4,799</td>
 </tr>
 </tbody>

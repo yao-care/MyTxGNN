@@ -24,7 +24,7 @@ Databases and sources used in this project
 | Literature | PubMed | Research evidence validation |
 | Drug Information | DrugBank | Pharmacology and mechanism data |
 | Malaysia Approval | NPRA | Local market information |
-| Drug Interactions | DDInter, GtoPdb | DDI information |
+| Drug Interactions | DDInter (DDI); GtoPdb (drug–target data, not interactions) | DDI information |
 
 ---
 
@@ -173,14 +173,14 @@ Status pendaftaran dikemas kini secara automatik setiap hari Isnin daripada kedu
 
 - **Website**: [https://www.guidetopharmacology.org/](https://www.guidetopharmacology.org/)
 - **Maintained by**: IUPHAR/BPS
-- **Usage**: Approved drug interactions
+- **Usage**: Approved-drug target data (GtoPdb 2026.3: 4,799 drug–target records; not drug–drug interaction data)
 
 ### Data Scale
 
-| Source | DDI Count | Update Date |
+| Source | Records | Update Date |
 |--------|-----------|-------------|
-| DDInter | 160,235 unique drug pairs | 2026-02 |
-| GtoPdb | 4,799 records (v2026.3) | 2026-09 |
+| DDInter | 160,235 unique drug pairs (DDI) | 2026-02 |
+| GtoPdb | 4,799 drug–target records (v2026.3, not interactions) | 2026-09 |
 
 ---
 
