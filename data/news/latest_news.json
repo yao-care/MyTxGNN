@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-05T03:08:20.055902",
+  "fetched": "2026-11-05T11:51:12.713482",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,52 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
+    {
+      "title": "What Is The Status Of Our NG-999? — Dr Sarah Shaikh Abdul Karim",
+      "url": "https://codeblue.galencentre.org/2026/11/what-is-the-status-of-our-ng-999-dr-sarah-shaikh-abdul-karim/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-05T07:30:00",
+      "summary": "One year after NG-999's rollout, retreating to 21 fragmented hospital call centres wastes scarce clinical manpower and stalls emergency dispatch reform. The post What Is The Status Of Our NG-999? — Dr Sarah Shaikh Abdul Karim appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "clinical",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Doctors Have A Voice On Poisons Board, But How Much Weight Does It Carry? — Dr Pearl Leong",
+      "url": "https://codeblue.galencentre.org/2026/11/doctors-have-a-voice-on-poisons-board-but-how-much-weight-does-it-carry-dr-pearl-leong/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-05T05:48:55",
+      "summary": "Dr Pearl Leong questions the Poisons Board’s nicotine exemption U-turn. Business representatives hold four of 12 seats, against three for medical representatives, but “without individual voting records”, doctors cannot be said to have been outvoted. The post Doctors Have A Voice On Poisons Board, But How Much Weight Does It Carry? — Dr Pearl Leong appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "doctor"
+      ]
+    },
+    {
+      "title": "Insurers Must Expand GP Coverage To Curb Rising Private Health Care Costs — PMPASKL",
+      "url": "https://codeblue.galencentre.org/2026/11/insurers-must-expand-gp-coverage-to-curb-rising-private-health-care-costs-pmpaskl/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-05T05:36:32",
+      "summary": "PMPASKL backs APHM’s warning that patients bypassing GPs for routine illnesses are contributing to rising private health care costs. It urges insurers and TPAs to expand outpatient GP coverage to curb unnecessary hospital visits. The post Insurers Must Expand GP Coverage To Curb Rising Private Health Care Costs — PMPASKL appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "patient",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Aged Care Homes Struggle To Upgrade As Families Cannot Afford Higher Fees",
+      "url": "https://codeblue.galencentre.org/2026/11/aged-care-homes-struggle-to-upgrade-as-families-cannot-afford-higher-fees/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-05T03:30:00",
+      "summary": "AgeCope president Delren Terrence Douglas says financial constraints, inconsistent local council rules and staff shortages make it difficult for aged care homes to upgrade. Families cannot afford monthly fees of RM3,000-RM5,000 but expect that standard of care, he says. The post Aged Care Homes Struggle To Upgrade As Families Cannot Afford Higher Fees appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "MMA Loses Moral Authority To Demand Vape Ban",
       "url": "https://codeblue.galencentre.org/2026/11/mma-loses-moral-authority-to-demand-vape-ban/",
@@ -72,64 +116,13 @@
       ]
     },
     {
-      "title": "Nicotine Exemption: A Step Backwards For Public Health, Children At Risk Of Addiction — AMAM & FPMPAM",
-      "url": "https://codeblue.galencentre.org/2026/11/nicotine-exemption-a-step-backwards-for-public-health-children-at-risk-of-addiction-amam-fpmpam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-03T08:04:52",
-      "summary": "AMAM and FPMPAM warn that the proposed nicotine exemption risks repeating the unlawful 2023 exemption struck down by the High Court, urging Putrajaya to defer a new order until it addresses the court's findings. The post Nicotine Exemption: A Step Backwards For Public Health, Children At Risk Of Addiction — AMAM & FPMPAM appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Nicotine Exemption: A Betrayal Of Public Health Trust Malaysia Must Not Repeat — MyWatch",
-      "url": "https://codeblue.galencentre.org/2026/11/nicotine-exemption-a-betrayal-of-public-health-trust-malaysia-must-not-repeat-mywatch/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-03T07:52:32",
-      "summary": "MyWatch condemns Health Minister Dzulkefly Ahmad’s reported move to exempt liquid nicotine from the Poisons List, calling it a betrayal of public health. The group urges him to halt the proposal and explain the Poisons Board’s endorsement. The post Nicotine Exemption: A Betrayal Of Public Health Trust Malaysia Must Not Repeat — MyWatch appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Government Must Explain Apparent U-Turn On Vape Ban — MMA",
-      "url": "https://codeblue.galencentre.org/2026/11/government-must-explain-apparent-u-turn-on-vape-ban-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-03T03:30:00",
-      "summary": "MMA demands Health Minister Dzulkefly Ahmad explain the proposal to exempt liquid nicotine from the Poisons List and reaffirm the government’s commitment to a nationwide vape ban, questioning an apparent U-turn after his pledge to ban vape. The post Government Must Explain Apparent U-Turn On Vape Ban — MMA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Protect Our Children: Stand Against Proposed Nicotine Exemption — WAFIQ",
-      "url": "https://codeblue.galencentre.org/2026/11/protect-our-children-stand-against-proposed-nicotine-exemption-wafiq/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-03T02:10:23",
-      "summary": "WAFIQ has joined MyWatch in opposing the proposed exemption of liquid nicotine from the Poisons List, warning that legalising nicotine vape would expose more children to addiction and poisoning, amid rising youth vaping and drug-laced vape incidents. The post Protect Our Children: Stand Against Proposed Nicotine Exemption — WAFIQ appeared first on CodeBlue .",
+      "title": "Nilai teen tests positive for three drugs after dazed vaping video prompts police investigation",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/05/nilai-teen-tests-positive-for-three-drugs-after-dazed-vaping-video-prompts-police-investigation/242104",
+      "source": "Malay Mail",
+      "published": "2026-11-05T10:28:30",
+      "summary": "SEREMBAN, Nov 5 — A male secondary school student in Nilai has tested positive in a preliminary urine screening fo...",
       "keywords_matched": [
         "drug"
-      ]
-    },
-    {
-      "title": "Seven foreigners held, RM1.08m in drugs seized in Bukit Mertajam raids",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/05/seven-foreigners-held-rm108m-in-drugs-seized-in-bukit-mertajam-raids/242031",
-      "source": "Malay Mail",
-      "published": "2026-11-05T02:09:06",
-      "summary": "BUKIT MERTAJAM, Nov 5 — Police arrested seven foreigners and seized suspected methylenedioxy methamphetamine (MDMA...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Anwar: Hospital Seberang Jaya’s new cardiac services to cut waiting times, ease pressure on Penang Hospital",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/05/anwar-hospital-seberang-jayas-new-cardiac-services-to-cut-waiting-times-ease-pressure-on-penang-hospital/242020",
-      "source": "Malay Mail",
-      "published": "2026-11-05T00:56:46",
-      "summary": "GEORGE TOWN, Nov 5 — Hospital Seberang Jaya (HSJ) has made history as the first Level 2 hospital in Peninsul...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
