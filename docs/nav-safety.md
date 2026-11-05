@@ -69,14 +69,14 @@ Apabila menggunakan semula ubat untuk indikasi baharu, kita perlu mempertimbangk
   <td>160,235</td>
 </tr>
 <tr>
-  <td><a href="https://www.guidetopharmacology.org/" target="_blank" rel="noopener">Guide to PHARMACOLOGY</a> (GtoPdb 2026.3)</td>
+  <td><a href="https://www.guidetopharmacology.org/" target="_blank" rel="noopener">Guide to PHARMACOLOGY</a> (GtoPdb 2026.3.1)</td>
   <td>Ubat–sasaran (bukan DDI)</td>
-  <td>4,799</td>
+  <td>4,808</td>
 </tr>
 </tbody>
 </table>
 
-<p><small>Bilangan sama seperti halaman <a href="{{ '/ddi/' | relative_url }}">Interaksi Ubat-Ubat</a>: dikira daripada fail data MyTxGNN sendiri (Release data-20261031-141747, <code>data/external/ddi/</code>).</small></p>
+<p><small>Bilangan sama seperti halaman <a href="{{ '/ddi/' | relative_url }}">Interaksi Ubat-Ubat</a>: dikira daripada fail data MyTxGNN sendiri (Release data-20261105-123615, <code>data/external/ddi/</code>).</small></p>
 
 ---
 

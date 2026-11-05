@@ -173,14 +173,14 @@ Status pendaftaran dikemas kini secara automatik setiap hari Isnin daripada kedu
 
 - **Website**: [https://www.guidetopharmacology.org/](https://www.guidetopharmacology.org/)
 - **Maintained by**: IUPHAR/BPS
-- **Usage**: Approved-drug target data (GtoPdb 2026.3: 4,799 drug–target records; not drug–drug interaction data)
+- **Usage**: Approved-drug target data (GtoPdb 2026.3.1: 4,808 drug–target records; not drug–drug interaction data)
 
 ### Data Scale
 
 | Source | Records | Update Date |
 |--------|-----------|-------------|
 | DDInter | 160,235 unique drug pairs (DDI) | 2026-02 |
-| GtoPdb | 4,799 drug–target records (v2026.3, not interactions) | 2026-09 |
+| GtoPdb | 4,808 drug–target records (v2026.3.1, not interactions) | 2026-10 |
 
 ---
 
