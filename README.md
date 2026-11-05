@@ -20,27 +20,28 @@ Ramalan penggunaan semula ubat untuk ubat yang diluluskan NPRA (Malaysia) menggu
 | Item | Bilangan |
 |------|------|
 | **Laporan ubat** | 606 |
-| **Jumlah ramalan** | 18,287,982 |
-| **Ubat unik** | 1,000 |
+| **Jumlah ramalan** | 19,982,488 |
+| **Ubat unik** | 1,061 |
 | **Petunjuk unik** | 17,041 |
 | **Data DDI** | 160,235 |
-| **Sumber FHIR** | 508 MK / 3,832 CUD |
+| **Sumber FHIR** | 705 MK / 3,484 CUD |
 
 ### Taburan tahap bukti
 
 | Tahap bukti | Bilangan laporan | Penerangan |
 |---------|-------|------|
-| **L1** | 0 | Pelbagai RCT Fasa 3 |
-| **L2** | 0 | RCT tunggal atau pelbagai Fasa 2 |
-| **L3** | 0 | Kajian pemerhatian |
-| **L4** | 0 | Kajian praklinikal / mekanistik |
-| **L5** | 508 | Ramalan pengkomputeran sahaja |
+| **L1** | 10 | Pelbagai RCT Fasa 3 |
+| **L2** | 27 | RCT tunggal atau pelbagai Fasa 2 |
+| **L3** | 14 | Kajian pemerhatian |
+| **L4** | 32 | Kajian praklinikal / mekanistik |
+| **L5** | 494 | Ramalan pengkomputeran sahaja |
+| **N/A** | 29 | Kegunaan diketahui sahaja (tiada ramalan baharu) |
 
 ### Mengikut sumber
 
 | Sumber | Ramalan |
 |------|------|
-| DL | 18,284,150 |
+| DL | 19,978,656 |
 | KG + DL | 3,301 |
 | KG | 531 |
 
@@ -49,9 +50,9 @@ Ramalan penggunaan semula ubat untuk ubat yang diluluskan NPRA (Malaysia) menggu
 | Keyakinan | Ramalan |
 |------|------|
 | very_high | 2,433 |
-| high | 999,893 |
-| medium | 2,378,077 |
-| low | 14,907,579 |
+| high | 1,092,872 |
+| medium | 2,543,367 |
+| low | 16,343,816 |
 
 ---
 
@@ -70,8 +71,8 @@ uv run python scripts/run_kg_prediction.py
 
 | Metrik | Nilai |
 |------|------|
-| NPRA Jumlah ubat | 13,554 |
-| Dipetakan ke DrugBank | 9,326 (68.8%) |
+| NPRA Jumlah ubat | 13,600 |
+| Dipetakan ke DrugBank | 10,276 (75.6%) |
 | Calon penggunaan semula | 3,832 |
 
 ### Kaedah pembelajaran mendalam
@@ -83,8 +84,8 @@ PYTHONPATH=src python -m mytxgnn.predict.txgnn_model
 
 | Metrik | Nilai |
 |------|------|
-| Jumlah ramalan DL | 1,981,986 |
-| Ubat unik | 1,000 |
+| Jumlah ramalan DL | 2,106,034 |
+| Ubat unik | 1,061 |
 | Petunjuk unik | 17,041 |
 
 ### Tafsiran skor
