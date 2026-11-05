@@ -29,9 +29,12 @@ def _market_status(valid, lics, partial):
         return "Marketed"
     if any(x["status"] == "not_marketed" for x in lics):
         return "Approved, not marketed"
+    if any(x["status"] == "unknown" for x in lics):
+        return "Status unknown"  # 2026-11-05（用戶決定）：沒有有效許可、但有狀態未知的登記號，不寫成全部註銷
     if lics:
         return "Cancelled only" if not partial else "Unknown (partial list)"
     return "Not marketed"
+_UNKNOWN = re.compile(r"^Status unknown \(registration number not found")
 _CANCELLED = re.compile(r"註銷|撤銷|廢止|取消|cancel|withdraw|revok|suspen|expir|lapse|discontinu|retir|inactive|refus|annul|"
                         r"widerruf|zurückgez|ruhend|retirad|cancelad|caducad|revocad|retiré|abrog|revoca|sospes|ritirat|"
                         r"återkall|avregistr|tilbakekall|ingetrokken|vervallen|peruutet|lakkaut|ملغ|موقوف|inativ|archiv|^opinion|\|opinion", re.I)
@@ -122,7 +125,8 @@ class DrugEvidencePackGenerator:
                 continue
             seen.add(lid)
             ings = [i for i in (r.get("ingredients") or r.get("主成分略述") or "").split(";;") if i.strip()] or re.findall(r"[^,\[\]]+\[", str(r.get("active_ingredient") or ""))
-            status = r.get("license_status") or ("cancelled" if _CANCELLED.search(str(r.get("status") or "") + str(r.get("registration_status") or "") + str(r.get("註銷狀態") or "")) else "valid")
+            # 2026-11-05（用戶決定）：NPRA 現行與撤銷清單都查不到、也還沒到期的登記號 → 狀態未知，不算有效也不算註銷
+            status = "unknown" if _UNKNOWN.search(str(r.get("status") or "")) else r.get("license_status") or ("cancelled" if _CANCELLED.search(str(r.get("status") or "") + str(r.get("registration_status") or "") + str(r.get("註銷狀態") or "")) else "valid")
             # 2026-10-21：沒有狀態欄、但有效期已過（Tw 795 筆空白狀態）→ 視為過期失效
             _exp = re.sub(r"[^0-9]", "", str(r.get("expiry_date") or r.get("有效日期") or ""))[:8]
             if status == "valid" and not (r.get("status") or r.get("registration_status") or r.get("註銷狀態")) and len(_exp) == 8 \
@@ -154,6 +158,7 @@ class DrugEvidencePackGenerator:
             "valid_combo": sum(1 for x in valid if x["kind"] == "combo"),
             "cancelled": sum(1 for x in lics if x["status"] == "cancelled"),
             "not_marketed": sum(1 for x in lics if x["status"] == "not_marketed"),
+            "unknown_status": sum(1 for x in lics if x["status"] == "unknown"),
             "licenses": lics,
             "_note": "許可證表與張數由程式產生；不要自行列字號或補列。",
         }

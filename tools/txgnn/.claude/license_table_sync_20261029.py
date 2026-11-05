@@ -178,6 +178,8 @@ def sync_market_rows(site, dry=False):
                 want = ck.cancelled_text(site, lang, n)
             elif ms == "Not marketed":
                 want = ck.not_reg_text(site, lang, fc)
+            elif ms == "Status unknown" and hasattr(ck, "unknown_status_text"):
+                want = ck.unknown_status_text(site, lang, fc)
             if want and st[1] != want:
                 ch.append((st[0], st[1], want))
         cr = ck.count_row(site, rows)

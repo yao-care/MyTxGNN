@@ -36,10 +36,17 @@ CLAIM = [ck.MKT_CLAIM_EN, ck.VALID_COUNT, ck.NONE_CANCEL, ck.VALID_CLAIM, ck.NOR
          re.compile(r"\bmarketed (in|as|under)\b[^,;.]*", re.I), re.compile(r"\b\d+ valid\b[^,;.]*", re.I)]
 for _R in ck.X_LOCAL.values():
     CLAIM += [_R["mkt"], _R["valid"], _R["none_cancel"], _R["noreg"]] + list(_R["count"])
+CLAIM += list(getattr(ck, "NOREG_EXTRA", {}).values())  # 站別補充寫法（CO）
 if hasattr(ck, "VET_ONLY_CLAIM"):
     CLAIM.append(ck.VET_ONLY_CLAIM)  # 「唯一許可是獸用」（Dk）
 START = re.compile(r",\s|;\s|\s(?:that|which|with|and|but|y|con|que|aunque|pero|e|dan|serta|kerana|memandangkan|og|men|med)\s|\s\(", re.I)
 END = re.compile(r",\s|;\s|\s(?:but|and|aunque|pero|y|e|dan|men|og)\s|\.\s*$|$", re.I)
+
+
+def _cuts(m):
+    """人工清單的 cut：字串或字串清單（同一句要刪兩個片段時）"""
+    c = m.get("cut")
+    return [c] if isinstance(c, str) else list(c or [])
 
 
 def clause_cut(site, lang, core, fc, rule):
@@ -73,8 +80,14 @@ def clause_cut(site, lang, core, fc, rule):
             return c2
     if a is None:
         a = m.start() - 1 if m.start() > 0 and core[m.start() - 1] == " " else None
-    if a is None or a < 12:
+    intro = a is not None and re.fullmatch(r"\W*(Además|Asimismo|Sin embargo|Por otra parte|Por otro lado|También|Also|However|Moreover|In addition|Furthermore)", core[:a], re.I)
+    if a is None or (a < 12 and not intro):
         return None
+    back = re.search(r",?\s*\b(dado|ya|puesto|debido a|por lo|lo|así|de modo|de manera|considerando)\s*$", core[:a], re.I)
+    if back and core[a:a + 5].strip().lower().startswith("que"):
+        a = back.start()  # 「…, dado que <矛盾>」：連接詞一起刪
+        if a < 12:
+            return None
     e = END.search(core, m.end())
     b = e.start()
     while True:  # 緊接著的下一個矛盾說法（「… tidak berdaftar di Malaysia dan tiada lesen tempatan」）一起刪
@@ -84,13 +97,32 @@ def clause_cut(site, lang, core, fc, rule):
         b = END.search(core, max(h.end() for h in nxt)).start()
     if loose and len(re.findall(r"\w+", core[b:])) < 2:
         return None  # 矛盾的是句末的受詞（「…registrerer nul tilladelser.」），刪掉只剩半句：整句刪
-    cand = core[:a] + core[b:]
+    sep = re.match(r",?\s+(y|and|dan|og|e)\s+", core[b:], re.I)
+    if intro and not sep:
+        return None  # 「Además, <矛盾>.」整句都是許可說法
+    if sep and core[a:a + 2] == ", " and len(re.findall(r"\w+", core[b + sep.end():])) >= 3:
+        cand = core[:a] + ", " + core[b + sep.end():]  # 「Además, <矛盾> y <其他>」→「Además, <其他>」：對等連接詞一起刪
+    else:
+        cand = core[:a] + core[b:]
     cand = re.sub(r"\s+([,.;])", r"\1", cand).replace(",,", ",").strip()
     cand = re.sub(r"[,;]+(?=[.!?]?\W*$)", "", cand)  # 刪到句末時，前面留下的逗號一併去掉（「Tiada ujian klinikal,.」）
     if not cand.endswith((".", "!", "?", ":", "。")) and core.rstrip().endswith("."):
         cand += "."
     if len(re.findall(r"\w+", cand)) < 3 or ck.m3_verdict(site, lang, cand, fc) or re.search(r"\(\s*\)", cand):
         return None
+    body = re.sub(r"[\s.!?:;*_`)]+$", "", cand)
+    cand = re.sub(r"\.\.$", ".", cand)
+    if re.search(r"\b(dado|ya|puesto|debido a|por lo|lo|que|y|o|de|del|en|con|los|las|el|la|al|a|porque|pues|actualmente|también|además|se suman?|and|or|the|of|to|that|dan|og|men)$", body, re.I) \
+            or re.search(r"\b(a|de|y|con|en|por|para|al|del)\s*,", cand, re.I) \
+            or re.search(r"[:;,]\s*[,.;:]", cand) or re.search(r"\b(los|las|el|la|un|una|del|de|the|a)\s+(y|o|and|or)\b", cand, re.I) \
+            or re.match(r"[\W\d]*[a-záéíóúñ]", cand):
+        return None  # 刪完留下懸空的連接詞、標點連在一起或小寫開頭的殘句：整句刪
+    if re.search(r"\.\s+[A-ZÁÉÍÓÚ]", core[a:b]) or re.search(r",\s*(y|o),|\w y que\b|^\W*\w+,\s+(por )?lo que\b", cand) \
+            or re.search(r":\**\s+\S+(\s+\S+){0,2}[,;]", cand) or re.search(r":\**\s+[^.]{0,25}[;,]\s", cand):
+        return None  # 刪掉的範圍跨過句點（S.A. 等縮寫造成）、留下「, y,」「X, lo que」「標籤:** 主語,」：整句刪
+    if lang.startswith("en") and (re.search(r"\b(given|noting|since|although|because|while|whereas|with)\W*$", body, re.I)
+                                  or re.search(r"\b(given|noting)\s+and\b", cand, re.I) or re.match(r"\s*,?\s*(are|is|were|was)\b", core[a:b], re.I)):
+        return None  # 英文：刪完留下懸空的 given／noting、或只剩主詞（「Both licences, and …」）：整句刪
     if cand.count("(") != cand.count(")") or (lang == "ms" and re.match(r"\W*(Menurut|Berdasarkan|Mengikut)\b[^,]*[.]?\W*$", cand)):
         return None  # 括號不成對、或只剩「Menurut data …」這類引導語：整句刪
     return cand
@@ -176,6 +208,31 @@ def clause_cut_ms(site, lang, core, fc, m):
     return cand
 
 
+_SS = {}
+
+
+def site_status(site, lic):
+    """證據包紀錄以外的許可證號：用站上 license_adapter 讀 Release 的原始狀態檔（valid／not_marketed／cancelled；查不到回 None）"""
+    if site not in _SS:
+        _SS[site] = {}
+        ap = BASE / site / "scripts/license_adapter.py"
+        if ap.exists():
+            try:
+                sp = importlib.util.spec_from_file_location("ad_" + site, ap); ad = importlib.util.module_from_spec(sp); sp.loader.exec_module(ad)
+                raw = json.loads((BASE / site / "data" / ad.RAW_FILE).read_text(encoding="utf-8"))
+                for k, v in ad.status_index(raw).items():
+                    cls = v[1] if isinstance(v, (list, tuple)) and len(v) > 1 else getattr(ad, "CLASS", {}).get(str(v).strip().lower())
+                    if cls:
+                        _SS[site][mv_norm(k)] = cls
+            except Exception:  # noqa: BLE001 — 沒有可用的狀態檔就不查
+                _SS[site] = {}
+    return _SS[site].get(mv_norm(lic))
+
+
+def mv_norm(x):
+    return re.sub(r"[\s\-]", "", str(x)).upper()
+
+
 def split_sentences(line):
     t = line
     for a, b in ABBR:
@@ -222,10 +279,16 @@ def process(site, lang, page, fc, manual):
         if re.search(r"<!-- (review:end \S+|brand-names:end) -->", l):
             in_managed = False
             continue
-        if in_managed or not l.strip() or l.startswith(("#", "{:", "<", "---")):
+        if l.startswith("#"):
+            hc = next((m for m in man if isinstance(m.get("cut"), str) and m["sentence"] in l and m["cut"] in l), None)
+            if hc and not in_managed:  # 標題裡的矛盾片段：只刪人工核對過的片段
+                log.append((page.stem, "MANUAL（標題）", l.strip(), hc["reason"] + f"；刪除片段：{hc['cut']}"))
+                lines[i] = l.replace(hc["cut"], "", 1)
+            continue
+        if in_managed or not l.strip() or l.startswith(("{:", "<", "---")):
             continue
         if l.startswith("|"):
-            crow = next((m for m in man if m.get("cut") and m["sentence"] in l and m["cut"] in l), None)
+            crow = next((m for m in man if isinstance(m.get("cut"), str) and m["sentence"] in l and m["cut"] in l), None)
             if crow:  # 表格列裡只刪指定片段（人工核對過）
                 log.append((page.stem, "MANUAL（儲存格）", l.strip(), crow["reason"] + f"；刪除片段：{crow['cut']}"))
                 lines[i] = l.replace(crow["cut"], "", 1)
@@ -236,6 +299,16 @@ def process(site, lang, page, fc, manual):
                 lines[i] = None
                 tdel.add(i)
                 continue
+            idn = re.match(r"^\|\s*([0-9][\w./-]*)\s*\((cancelad[oa]s?|vencid[oa]|vigente)\)\s*\|", l, re.I) if fc else None
+            if idn:  # 許可證號格裡的狀態註記跟事實不符（CO「20019826 (cancelado)」，2026-10-03 reviewer 誤判）：只刪註記
+                now = {mv_norm(k): v for k, v in (fc.get("licenses") or {}).items()}.get(mv_norm(idn.group(1))) or site_status(site, idn.group(1))
+                said = "valid" if idn.group(2).lower() == "vigente" else "cancelled"
+                if now and (now == "cancelled") != (said == "cancelled"):
+                    nl = l[:idn.start(1)] + idn.group(1) + " " + l[idn.end(2) + 1:].lstrip()
+                    nl = re.sub(r"^(\|\s*\S+)\s+\|", r"\1 |", nl)
+                    log.append((page.stem, "M1（許可證號註記）", l.strip(), f"事實：{idn.group(1)} 是 {now}，刪掉「({idn.group(2)})」"))
+                    lines[i] = nl
+                    continue
             pc = paren_cut(site, lang, l, fc) if fc else None
             if pc:
                 log.append((page.stem, pc[1], l.strip(), pc[2]))
@@ -251,10 +324,16 @@ def process(site, lang, page, fc, manual):
         for s, sp in sents:
             core = re.sub(r"^\s*([-*>]\s*|\d+\.\s+)+", "", s.strip())
             why = None
-            cutm = next((m for m in man if m.get("cut") and m["sentence"] in s), None)
+            cutm = next((m for m in man if m.get("cut") and m["sentence"] in s and all(c in s for c in _cuts(m))), None)
             if cutm:
-                log.append((page.stem, "MANUAL（子句）", s.strip(), cutm["reason"] + f"；刪除片段：{cutm['cut']}"))
-                keep.append((s.replace(cutm["cut"], "", 1), sp)); changed = True; prev_del = False
+                log.append((page.stem, "MANUAL（子句）", s.strip(), cutm["reason"] + f"；刪除片段：{' ／ '.join(_cuts(cutm))}"))
+                ns = s
+                for c in _cuts(cutm):
+                    ns = ns.replace(c, "", 1)
+                if cutm.get("capitalize"):  # 刪掉的是句首子句：留下的句子首字母大寫（人工核對過）
+                    mm = re.search(r"[A-Za-zÁÉÍÓÚÑáéíóúñ]", ns)
+                    ns = ns[:mm.start()] + ns[mm.start()].upper() + ns[mm.start() + 1:] if mm else ns
+                keep.append((ns, sp)); changed = True; prev_del = False
                 continue
             if any(m.get("keep") and m["sentence"] in s for m in man):
                 keep.append((s, sp)); prev_del = False

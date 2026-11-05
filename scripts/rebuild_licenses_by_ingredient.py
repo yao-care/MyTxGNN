@@ -2,7 +2,8 @@
 
 1. 狀態：重新下載 data.gov.my 的 NPRA 現行註冊（pharmaceutical_products.csv）與撤銷清單（scripts/license_adapter.fetch）。
    現行檔的號碼 → 原文狀態（PRODUCT APPROVED／CONDITIONAL REGISTRATION）；撤銷清單 → Cancelled；
-   兩份都查不到的不再預設有效：證據包紀錄的到期日（date_end）已過 → license_adapter.EXPIRED_STATUS，未過期保留原狀態（列進報告）。
+   兩份都查不到的不再預設有效：證據包紀錄的到期日（date_end）已過 → license_adapter.EXPIRED_STATUS，
+   未過期 → license_adapter.UNKNOWN_STATUS（2026-11-05 用戶決定：狀態未知，不算有效也不算註銷）。
 2. 補收：原收集器依藥名比對 active_ingredient，拼法不同的沒收進（selegiline 頁 0 張；NPRA 有 SELEGOS 5MG，成分寫 SELEGILIN HCL）。
    改依成分比：active_ingredient 每個成分（「名稱[含量]」）去掉鹽類／酯類／水合物字尾與括號別名後，等於本藥主體、
    或只差字尾 e（selegilin／selegiline），就補收（只補收、不刪原紀錄；複方也收，與原收集器相同）。
@@ -126,7 +127,9 @@ def main(argv):
                 if r.get("status") != ad.EXPIRED_STATUS:
                     r["status"] = ad.EXPIRED_STATUS; ch = True; n_exp += 1
             else:
-                kept_future += 1
+                kept_future += 1  # 2026-11-05 用戶決定：狀態未知（不算有效也不算註銷）
+                if r.get("status") != ad.UNKNOWN_STATUS:
+                    r["status"] = ad.UNKNOWN_STATUS; ch = True
         terms, salt_named = terms_for(page)
         add = []
         if terms and not any(NO_REBUILD.match(t) for t in terms):
@@ -146,7 +149,7 @@ def main(argv):
                 f.write_text(json.dumps(b, ensure_ascii=False, indent=2), encoding="utf-8")
     if rep:
         Path(rep).write_text("page\told_records\tadded\tterms\tadded_ids\n" + "\n".join(out) + "\n", encoding="utf-8")
-    print(f"改 {changed} 個證據包：補收 {len(out)} 個藥 {n_add} 筆；查不到且已過期改 Expired {n_exp} 筆；查不到、未過期保留原狀態 {kept_future} 筆")
+    print(f"改 {changed} 個證據包：補收 {len(out)} 個藥 {n_add} 筆；查不到且已過期改 Expired {n_exp} 筆；查不到、未過期改狀態未知 {kept_future} 筆")
 
 
 if __name__ == "__main__":

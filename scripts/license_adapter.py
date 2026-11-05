@@ -5,7 +5,8 @@
 2026-10-31 加上同站的撤銷資料集 pharmaceutical_products_cancelled.csv（Pihak Berkuasa Kawalan Dadah 撤銷註冊的全量清單），
 在這份查到、現行檔沒有的 reg_no 狀態寫 CANCELLED_STATUS。
 2026-11-05（用戶決定）：兩份都查不到的不再預設為有效，改依證據包紀錄的到期日（date_end）判定：已過期 → EXPIRED_STATUS
-（reviewer 的註銷字樣含 expir，算非有效）；未過期 → 保留原狀態、列在 summary（preprocess，本週沒有對到的號碼才處理）。
+（reviewer 的註銷字樣含 expir，算非有效）；未過期 → UNKNOWN_STATUS（2026-11-05 用戶決定：不算有效也不算註銷，
+概覽另列「status tidak dapat disahkan」張數；preprocess，本週沒有對到的號碼才處理）。之後任一份清單查到就換成該清單的狀態。
 登記號尾碼不同就是不同產品（實測同號碼不同尾碼有 5 組是不同藥），只做完全比對。
 證據包（npra 區塊）紀錄 reg_no、status＝NPRA 原文。
 """
@@ -66,6 +67,8 @@ def validate(new, old):
 
 
 EXPIRED_STATUS = "Expired (not in current NPRA register)"
+# 不可含 reviewer 的註銷字樣（cancel／withdraw／revok／expir…），reviewer 依 UNKNOWN_RX 判成 unknown
+UNKNOWN_STATUS = "Status unknown (registration number not found in either NPRA dataset, not yet past its end date)"
 _IDX = {}
 
 
@@ -83,15 +86,17 @@ def expired(rec, today=None):
 
 
 def preprocess(b):
-    """兩份資料都查不到的登記號：到期日已過就改成 EXPIRED_STATUS（不再預設有效）。回傳是否有變"""
+    """兩份資料都查不到的登記號：到期日已過就改成 EXPIRED_STATUS，未過期改成 UNKNOWN_STATUS（不再預設有效）。回傳是否有變"""
     if not _IDX:
         return False
     ch = False
     for r in (b.get("npra") or {}).get("records") or []:
         k = record_id(r)
-        if k and k not in _IDX and expired(r) and r.get("status") != EXPIRED_STATUS:
-            r["status"] = EXPIRED_STATUS
-            ch = True
+        if k and k not in _IDX:
+            want = EXPIRED_STATUS if expired(r) else UNKNOWN_STATUS
+            if r.get("status") != want:
+                r["status"] = want
+                ch = True
     return ch
 
 
