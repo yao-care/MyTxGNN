@@ -1,0 +1,19 @@
+{
+  "_note": "由 scripts/sync_ddi_sources.py 依 .github/ddi-versions.json 的 site_data 產生，勿手改。",
+  "ddinter_rows": 222383,
+  "ddinter_unique_pairs": 160235,
+  "ddinter_drug_names": 1939,
+  "gtopdb_version": "2026.3.1",
+  "gtopdb_published": "2026-10-12",
+  "gtopdb_drug_target_records": 4808,
+  "gtopdb_ligands": 2253,
+  "gtopdb_release": "data-20261105-123615",
+  "display": {
+    "ddinter_rows": "222,383",
+    "ddinter_unique_pairs": "160,235",
+    "ddinter_drug_names": "1,939",
+    "gtopdb_drug_target_records": "4,808",
+    "gtopdb_ligands": "2,253",
+    "gtopdb_published_month": "2026-10"
+  }
+}

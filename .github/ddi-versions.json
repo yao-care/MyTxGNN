@@ -24,6 +24,8 @@
     "ddinter_drug_names": 1939,
     "gtopdb_version": "2026.3.1",
     "gtopdb_drug_target_records": 4808,
+    "gtopdb_published": "2026-10-12",
+    "gtopdb_ligands": 2253,
     "gtopdb_release": "data-20261105-123615"
   }
 }

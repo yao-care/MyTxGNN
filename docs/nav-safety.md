@@ -21,7 +21,7 @@ Pangkalan data keselamatan untuk penilaian penggunaan semula ubat
 
 <a href="{{ '/ddi/' | relative_url }}" style="display: block; padding: 1.5rem; background: #fff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-decoration: none; color: inherit; border-left: 4px solid #E53935;">
   <h3 style="margin: 0 0 0.5rem 0; color: #C62828;">Interaksi Ubat-Ubat (DDI)</h3>
-  <p style="margin: 0; color: #666; font-size: 0.9rem;">160,235 pasangan interaksi antara ubat konvensional</p>
+  <p style="margin: 0; color: #666; font-size: 0.9rem;">{{ site.data.ddi_sources.display.ddinter_unique_pairs }} pasangan interaksi antara ubat konvensional</p>
   <small style="color: #999;">Sumber: DDInter (fail muat turun)</small>
 </a>
 
@@ -66,17 +66,17 @@ Apabila menggunakan semula ubat untuk indikasi baharu, kita perlu mempertimbangk
 <tr>
   <td><a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener">DDInter</a> (fail muat turun)</td>
   <td>DDI</td>
-  <td>160,235</td>
+  <td>{{ site.data.ddi_sources.display.ddinter_unique_pairs }}</td>
 </tr>
 <tr>
-  <td><a href="https://www.guidetopharmacology.org/" target="_blank" rel="noopener">Guide to PHARMACOLOGY</a> (GtoPdb 2026.3.1)</td>
+  <td><a href="https://www.guidetopharmacology.org/" target="_blank" rel="noopener">Guide to PHARMACOLOGY</a> (GtoPdb {{ site.data.ddi_sources.gtopdb_version }})</td>
   <td>Ubat–sasaran (bukan DDI)</td>
-  <td>4,808</td>
+  <td>{{ site.data.ddi_sources.display.gtopdb_drug_target_records }}</td>
 </tr>
 </tbody>
 </table>
 
-<p><small>Bilangan sama seperti halaman <a href="{{ '/ddi/' | relative_url }}">Interaksi Ubat-Ubat</a>: dikira daripada fail data MyTxGNN sendiri (Release data-20261105-123615, <code>data/external/ddi/</code>).</small></p>
+<p><small>Bilangan sama seperti halaman <a href="{{ '/ddi/' | relative_url }}">Interaksi Ubat-Ubat</a>: dikira daripada fail data MyTxGNN sendiri (Release {{ site.data.ddi_sources.gtopdb_release }}, <code>data/external/ddi/</code>).</small></p>
 
 ---
 

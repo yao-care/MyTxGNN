@@ -10,7 +10,7 @@ permalink: /ddi/
 # Interaksi Ubat-Ubat (DDI)
 
 <p class="key-answer" data-question="Apakah data DDI yang ada dalam MyTxGNN?">
-Platform ini mengintegrasikan data interaksi ubat-ubat dari <strong>DDInter</strong> (fail muat turun <code>ddinter_code_*.csv</code>), serta data ubat–sasaran daripada <strong>Guide to PHARMACOLOGY</strong> (GtoPdb 2026.3.1, bukan data interaksi), untuk membantu penyelidik mempertimbangkan faktor keselamatan apabila menilai calon penggunaan semula ubat.
+Platform ini mengintegrasikan data interaksi ubat-ubat dari <strong>DDInter</strong> (fail muat turun <code>ddinter_code_*.csv</code>), serta data ubat–sasaran daripada <strong>Guide to PHARMACOLOGY</strong> (GtoPdb {{ site.data.ddi_sources.gtopdb_version }}, bukan data interaksi), untuk membantu penyelidik mempertimbangkan faktor keselamatan apabila menilai calon penggunaan semula ubat.
 </p>
 
 <div class="key-takeaway">
@@ -28,20 +28,20 @@ Interaksi ubat adalah pertimbangan kritikal untuk penggunaan semula ubat. Apabil
 <tbody>
 <tr>
   <td><a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener">DDInter</a> (fail muat turun)</td>
-  <td>160,235</td>
-  <td>1,939</td>
+  <td>{{ site.data.ddi_sources.display.ddinter_unique_pairs }}</td>
+  <td>{{ site.data.ddi_sources.display.ddinter_drug_names }}</td>
   <td>2026-02</td>
 </tr>
 <tr>
   <td><a href="https://www.guidetopharmacology.org/" target="_blank" rel="noopener">Guide to PHARMACOLOGY</a> (data ubat–sasaran ubat yang diluluskan, bukan DDI)</td>
-  <td>4,808</td>
-  <td>2,253</td>
-  <td>2026-10 (v2026.3.1)</td>
+  <td>{{ site.data.ddi_sources.display.gtopdb_drug_target_records }}</td>
+  <td>{{ site.data.ddi_sources.display.gtopdb_ligands }}</td>
+  <td>{{ site.data.ddi_sources.display.gtopdb_published_month }} (v{{ site.data.ddi_sources.gtopdb_version }})</td>
 </tr>
 </tbody>
 </table>
 
-<p><small>Bilangan dikira daripada fail data MyTxGNN sendiri (Release data-20261105-123615, <code>data/external/ddi/</code>). DDInter: pasangan ubat unik selepas membuang pendua merentas fail kod ATC (222,383 baris). Rekod DDI hanya daripada DDInter (160,235 pasangan). Guide to PHARMACOLOGY (GtoPdb 2026.3.1): 4,808 baris data ubat–sasaran, bukan interaksi ubat-ubat, dan bilangan ligan unik.</small></p>
+<p><small>Bilangan dikira daripada fail data MyTxGNN sendiri (Release {{ site.data.ddi_sources.gtopdb_release }}, <code>data/external/ddi/</code>). DDInter: pasangan ubat unik selepas membuang pendua merentas fail kod ATC ({{ site.data.ddi_sources.display.ddinter_rows }} baris). Rekod DDI hanya daripada DDInter ({{ site.data.ddi_sources.display.ddinter_unique_pairs }} pasangan). Guide to PHARMACOLOGY (GtoPdb {{ site.data.ddi_sources.gtopdb_version }}): {{ site.data.ddi_sources.display.gtopdb_drug_target_records }} baris data ubat–sasaran, bukan interaksi ubat-ubat, dan bilangan ligan unik.</small></p>
 
 ---
 

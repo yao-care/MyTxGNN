@@ -17,6 +17,7 @@
   8. llms.txt／llms-full.txt 範例藥物行「名稱 (Lx): 網址」的標籤＝藥物頁 evidence_level，且不指向轉址／noindex／不存在的頁（2026-11-03）。
   9. llms.txt／llms-full.txt 的本站資料區塊（site-data）剛好一個、等級分布＝drug_stats.json、資料集網址出現在本站 sources 頁（2026-11-04）。
   10. docs/_data/hreflang.json 裡本站自己的頁（說明頁等，藥物頁除外）存在、不是 noindex／轉址頁、組裡有自我參照、沒有 x-default（2026-11-04）。
+  12. docs/_data/ddi_sources.json＝.github/ddi-versions.json 的 site_data；頁面的 DDInter／GtoPdb 數字與版本用 Liquid 讀它（scripts/sync_ddi_sources.py，2026-11-05）。
 
 Tw 專屬的檢查（TFDA 許可證表、docs/_data/drug_reviews.json 人工查核紀錄、drug_stats.json）沒有移植；
 本站之後若建立同類機制，再把對應檢查加回來。
@@ -416,6 +417,18 @@ for _f in _ddi_files:
                 _bad.add((_j + 1, _m.group(0)))
     for _ln_no, _num in sorted(_bad):
         errors.append(f"{_f.relative_to(DOCS.parent)}:{_ln_no} 寫了 DDInter／DDI 筆數 {_num}：本站資料只能寫 222,383（列數）或 160,235（去重配對數）")
+
+# 12) DDI／GtoPdb 資料來源數字（2026-11-05 補）：docs/_data/ddi_sources.json＝.github/ddi-versions.json 的 site_data；
+#    頁面正文提到 DDInter／GtoPdb 的地方用 Liquid 讀 site.data.ddi_sources，不手寫 site_data 的數字與 GtoPdb 版本；
+#    Liquid 進不去的位置（scripts/sync_ddi_sources.py 的 SPOTS）與 site_data 一致。修法：python3 scripts/sync_ddi_sources.py
+try:
+    import importlib.util as _ilu
+    _spec = _ilu.spec_from_file_location("sync_ddi_sources", Path(__file__).resolve().parent / "sync_ddi_sources.py")
+    _sds = _ilu.module_from_spec(_spec)
+    _spec.loader.exec_module(_sds)
+    errors.extend(_sds.problems())
+except SystemExit as _e:
+    errors.append(f"scripts/sync_ddi_sources.py：{_e}")
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")

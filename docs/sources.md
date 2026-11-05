@@ -166,21 +166,21 @@ Status pendaftaran dikemas kini secara automatik setiap hari Isnin daripada kedu
 ### DDInter
 
 - **Website**: [https://ddinter2.scbdd.com/](https://ddinter2.scbdd.com/)
-- **Scale**: the DDInter 2.0 website reports 302,516 DDI records and 2,310 drugs; this site uses the DDInter download files (`ddinter_code_*.csv`): 222,383 rows, 160,235 unique drug pairs, 1,939 drug names
+- **Scale**: the DDInter 2.0 website reports 302,516 DDI records and 2,310 drugs; this site uses the DDInter download files (`ddinter_code_*.csv`): {{ site.data.ddi_sources.display.ddinter_rows }} rows, {{ site.data.ddi_sources.display.ddinter_unique_pairs }} unique drug pairs, {{ site.data.ddi_sources.display.ddinter_drug_names }} drug names
 - **Usage**: Drug-drug interaction information
 
 ### Guide to PHARMACOLOGY (GtoPdb)
 
 - **Website**: [https://www.guidetopharmacology.org/](https://www.guidetopharmacology.org/)
 - **Maintained by**: IUPHAR/BPS
-- **Usage**: Approved-drug target data (GtoPdb 2026.3.1: 4,808 drug–target records; not drug–drug interaction data)
+- **Usage**: Approved-drug target data (GtoPdb {{ site.data.ddi_sources.gtopdb_version }}: {{ site.data.ddi_sources.display.gtopdb_drug_target_records }} drug–target records; not drug–drug interaction data)
 
 ### Data Scale
 
 | Source | Records | Update Date |
 |--------|-----------|-------------|
-| DDInter | 160,235 unique drug pairs (DDI) | 2026-02 |
-| GtoPdb | 4,808 drug–target records (v2026.3.1, not interactions) | 2026-10 |
+| DDInter | {{ site.data.ddi_sources.display.ddinter_unique_pairs }} unique drug pairs (DDI) | 2026-02 |
+| GtoPdb | {{ site.data.ddi_sources.display.gtopdb_drug_target_records }} drug–target records (v{{ site.data.ddi_sources.gtopdb_version }}, not interactions) | {{ site.data.ddi_sources.display.gtopdb_published_month }} |
 
 ---
 
