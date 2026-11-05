@@ -395,12 +395,16 @@ if _HL_F.exists():
 
 # 11) DDInter 筆數（2026-11-05 補）：本站的 DDInter 資料是 ddinter_code_*.csv 8 個下載檔，列數與去重後的藥物配對數記在
 #    .github/ddi-versions.json 的 site_data（ddinter_rows、ddinter_unique_pairs；重算方式見 site_data.note）。docs、README.md、CITATION.cff 裡提到 DDInter 或 DDI 的那一行（含後面 3 行，涵蓋 HTML
-#    表格分行的 <td>）只能寫這兩個數；302,516、200,000 是 DDInter 2.0 網站自己的統計，只在同一行寫明「DDInter 2.0」時放行。
+#    表格分行的 <td>）只能寫這兩個數；DDInter 2.0 網站自己公布的總數（ddi-versions.json 的 ddinter.website_ddi_associations）只在同一行寫明「DDInter 2.0」時放行；同一行寫明「DDInter 2.0」、緊接「+」的下限概數（smart/pddi.md 的「200,000+」）不超過該總數時也放行。
 _DDI_NUM = re.compile(r"(?<![\d,.])(\d{3})[,.\u00a0\u202f ](\d{3})(?![\d,.]?\d)")
 # 2026-11-05：允許值改讀 .github/ddi-versions.json 的 site_data（ddinter_rows、ddinter_unique_pairs），不在這裡寫死
-_ddi_sd = json.loads((DOCS.parent / ".github" / "ddi-versions.json").read_text(encoding="utf-8")).get("site_data", {})
+_ddi_ver = json.loads((DOCS.parent / ".github" / "ddi-versions.json").read_text(encoding="utf-8"))
+_ddi_sd = _ddi_ver.get("site_data", {})
 _DDI_OK = {_ddi_sd[_k] for _k in ("ddinter_rows", "ddinter_unique_pairs") if isinstance(_ddi_sd.get(_k), int)}
-_DDI_OK20 = {302516, 200000}
+# 2026-11-05：DDInter 2.0 網站統計的放行值改讀 ddi-versions.json（ddinter.website_ddi_associations），不寫死；200,000 不再寫死，改成「N+」下限概數不超過網站總數時放行
+_DDI_OK20 = {_x for _x in [_ddi_ver.get("ddinter", {}).get("website_ddi_associations")] if isinstance(_x, int)}
+if not _DDI_OK20:
+    errors.append(".github/ddi-versions.json 的 ddinter 缺 website_ddi_associations（DDInter 2.0 網站總數，docs/sources.md 引用、DDInter 筆數檢查要用）")
 if len(_DDI_OK) != 2:
     errors.append(".github/ddi-versions.json 的 site_data 缺 ddinter_rows 或 ddinter_unique_pairs（DDInter 筆數檢查要用）")
 _ddi_files = [_f for _f in DOCS.rglob("*") if _f.suffix in (".md", ".html", ".txt")
@@ -417,7 +421,8 @@ for _f in _ddi_files:
         for _j in range(_i, min(_i + 4, len(_ls))):
             for _m in _DDI_NUM.finditer(_ls[_j]):
                 _v = int(_m.group(1) + _m.group(2))
-                if _v in _DDI_OK or (_v in _DDI_OK20 and "DDInter 2.0" in _ls[_j]):
+                if _v in _DDI_OK or ("DDInter 2.0" in _ls[_j] and (_v in _DDI_OK20 or (
+                        _ls[_j][_m.end():_m.end() + 1] == "+" and _DDI_OK20 and _v <= min(_DDI_OK20)))):
                     continue
                 _bad.add((_j + 1, _m.group(0)))
     for _ln_no, _num in sorted(_bad):
