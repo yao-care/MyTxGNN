@@ -22,9 +22,6 @@
           "interaction": [
             {
               "code": "read"
-            },
-            {
-              "code": "search-type"
             }
           ]
         },
@@ -33,9 +30,6 @@
           "interaction": [
             {
               "code": "read"
-            },
-            {
-              "code": "search-type"
             }
           ]
         }

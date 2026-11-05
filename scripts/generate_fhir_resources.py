@@ -54,11 +54,11 @@ def generate_capability_statement() -> dict:
             "resource": [
                 {
                     "type": "MedicationKnowledge",
-                    "interaction": [{"code": "read"}, {"code": "search-type"}]
+                    "interaction": [{"code": "read"}]
                 },
                 {
                     "type": "ClinicalUseDefinition",
-                    "interaction": [{"code": "read"}, {"code": "search-type"}]
+                    "interaction": [{"code": "read"}]
                 }
             ]
         }]
