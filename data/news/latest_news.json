@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-04T22:24:16.858576",
+  "fetched": "2026-11-05T03:08:20.055902",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "MMA Loses Moral Authority To Demand Vape Ban",
+      "url": "https://codeblue.galencentre.org/2026/11/mma-loses-moral-authority-to-demand-vape-ban/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-05T02:00:00",
+      "summary": "MMA has lost the moral high ground to demand a vape ban, unless it quits the Poisons Board to protest the Board’s endorsement of a proposed nicotine exemption. As an expert advisory body, the Poisons Board holds equal responsibility as the health minister. The post MMA Loses Moral Authority To Demand Vape Ban appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "Seniors Need Retirement Income Without Burdening Their Children: KALSIS",
       "url": "https://codeblue.galencentre.org/2026/11/seniors-need-retirement-income-without-burdening-their-children-kalsis/",
@@ -102,26 +112,24 @@
       ]
     },
     {
-      "title": "Patients Skipping GPs For Private Hospitals Drive Up Medical Costs: APHM",
-      "url": "https://codeblue.galencentre.org/2026/11/patients-skipping-gps-for-private-hospitals-drive-up-medical-costs-aphm/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-03T02:00:00",
-      "summary": "APHM honorary secretary Anwar Anis says patients bypassing GPs for private hospitals are driving up medical costs. Affin Bank says distrust of GP clinics and mandatory MCs for minor illnesses are fuelling unnecessary hospital visits and medication use. The post Patients Skipping GPs For Private Hospitals Drive Up Medical Costs: APHM appeared first on CodeBlue .",
+      "title": "Seven foreigners held, RM1.08m in drugs seized in Bukit Mertajam raids",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/05/seven-foreigners-held-rm108m-in-drugs-seized-in-bukit-mertajam-raids/242031",
+      "source": "Malay Mail",
+      "published": "2026-11-05T02:09:06",
+      "summary": "BUKIT MERTAJAM, Nov 5 — Police arrested seven foreigners and seized suspected methylenedioxy methamphetamine (MDMA...",
       "keywords_matched": [
-        "medical",
-        "hospital",
-        "patient",
-        "hospital"
+        "drug"
       ]
     },
     {
-      "title": "Penang DOSH to probe cause of fatal Paya Terubong landslide, developer told to submit documents",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/04/penang-dosh-to-probe-cause-of-fatal-paya-terubong-landslide-developer-told-to-submit-documents/241994",
+      "title": "Anwar: Hospital Seberang Jaya’s new cardiac services to cut waiting times, ease pressure on Penang Hospital",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/05/anwar-hospital-seberang-jayas-new-cardiac-services-to-cut-waiting-times-ease-pressure-on-penang-hospital/242020",
       "source": "Malay Mail",
-      "published": "2026-11-04T11:01:22",
-      "summary": "GEORGE TOWN, Nov 4 — The Penang Department of Occupational Safety and Health (DOSH) is conducting an investigation...",
+      "published": "2026-11-05T00:56:46",
+      "summary": "GEORGE TOWN, Nov 5 — Hospital Seberang Jaya (HSJ) has made history as the first Level 2 hospital in Peninsul...",
       "keywords_matched": [
-        "health"
+        "hospital",
+        "hospital"
       ]
     }
   ]
