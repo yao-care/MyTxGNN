@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 441
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "LACTIC ACID"
 predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "non-syndromic esophageal malformation", "amenorrhea (disease)", "dry eye syndrome"]
 description: "Lactic Acid: indikasi baharu diramal Koarktasi aorta atipikal (atypical coarctation of aorta) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -38,7 +38,7 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 ## Ringkasan Satu Ayat
 
-Asid laktik (lactic acid) ialah metabolit endogen, dan tiada indikasi asal yang didaftarkan di Malaysia kerana ia tidak mempunyai lesen NPRA.
+Asid laktik (lactic acid) ialah metabolit endogen, dan tiada indikasi asal yang didaftarkan di Malaysia.
 Model TxGNN meramalkan ia mungkin berkesan untuk **koarktasi aorta atipikal** dengan skor tinggi (0.9959),
 tetapi **tiada ujian klinikal** dan **tiada literatur** yang menyokong ramalan ini; skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
@@ -93,7 +93,6 @@ Tiada literatur yang menyokong koarktasi aorta atipikal secara langsung. Untuk i
 ---
 
 ## Maklumat Pasaran di Malaysia
-
 
 ---
 

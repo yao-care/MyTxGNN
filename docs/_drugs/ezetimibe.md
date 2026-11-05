@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ezetimibe"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ezetimibe: indikasi baharu diramal Kekurangan protein pemindahan ester kolesterol (CETP) (tahap bukti L5). Indikasi asal: Hiperlipidemia"
 ---
 
@@ -50,8 +50,8 @@ tetapi pada masa ini **tiada ujian klinikal** dan hanya **2 penerbitan** yang be
 | Indikasi Baharu yang Diramalkan | Kekurangan protein pemindahan ester kolesterol (CETP) |
 | Skor Ramalan TxGNN | 0.9909 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 40 daripada 40) |
-| Bilangan Pendaftaran | 40 (sah: 40) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 42 daripada 42) |
+| Bilangan Pendaftaran | 42 (sah: 42) |
 | Bilangan Kelulusan | 40 pendaftaran (13 produk ezetimibe tunggal, 27 produk kombinasi) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

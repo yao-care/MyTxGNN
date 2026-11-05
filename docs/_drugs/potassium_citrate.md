@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Potassium citrate"
 predicted_indications: ["familial visceral myopathy", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Pendred syndrome", "cystinosis", "autosomal recessive nonsyndromic deafness", "exocrine pancreatic insufficiency", "leukocyte adhesion deficiency", "adult Fanconi syndrome"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Potassium Citrate: indikasi baharu diramal Miopati viseral keluarga (familial visceral myopathy) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Miopati viseral keluarga (familial visceral myopathy) |
 | Skor Ramalan TxGNN | 0.9995 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 31 daripada 31) |
-| Bilangan Pendaftaran | 31 (sah: 31) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 31) |
+| Bilangan Pendaftaran | 31 (sah: 30) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -70,7 +70,7 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan menunjukkan 31 lesen yang sah, terdiri daripada 5 produk ramuan tunggal dan 26 produk gabungan. Tiada lesen yang dibatalkan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lesen utama produk ramuan tunggal:
+Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lesen utama produk ramuan tunggal:
 
 | Nombor Kelulusan | Nama Produk | Pengilang |
 |---------|------|------|

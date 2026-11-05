@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 709
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "TYROSINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "traumatic glaucoma", "aqueous misdirection", "neovascular glaucoma"]
 description: "Tyrosine: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -87,7 +87,6 @@ Pada masa ini tiada literatur berkaitan sindrom cauda equina.
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -103,7 +102,7 @@ Nota: pertimbangan teori yang relevan ialah tirosin ialah substrat sintesis horm
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan sindrom cauda equina hanya berasaskan skor model (L5), tanpa ujian klinikal atau literatur, dan tiada hubungan mekanisme yang munasabah. Tirosin juga tidak berdaftar di Malaysia. Sepuluh ramalan teratas kesemuanya berada pada tahap Hold.
+- Ramalan sindrom cauda equina hanya berasaskan skor model (L5), tanpa ujian klinikal atau literatur, dan tiada hubungan mekanisme yang munasabah. Sepuluh ramalan teratas kesemuanya berada pada tahap Hold.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang penilaian keselamatan)

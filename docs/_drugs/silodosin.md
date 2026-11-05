@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 644
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Silodosin: indikasi baharu diramal Ambras type hypertrichosis universalis congenita (tahap bukti L5). Indikasi asal: Hiperplasia prostat benigna (benign prostatic hyperplasia)"
 monitor_inn: "SILODOSIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
@@ -52,8 +52,8 @@ tetapi ramalan ini **tidak disokong oleh sebarang percubaan klinikal (0) atau pe
 | Indikasi Baharu yang Diramalkan | Ambras type hypertrichosis universalis congenita |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
-| Bilangan Pendaftaran | 1 (sah: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -107,7 +107,7 @@ Sila rujuk risalah maklumat produk untuk maklumat amaran dan kontraindikasi yang
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan hanya berdasarkan model (L5) tanpa sebarang percubaan klinikal atau literatur, dan tiada mekanisme farmakologi yang munasabah antara sekatan alfa-1A dengan asas genetik sindrom Ambras. Ubat ini juga tidak berdaftar di Malaysia.
+- Ramalan hanya berdasarkan model (L5) tanpa sebarang percubaan klinikal atau literatur, dan tiada mekanisme farmakologi yang munasabah antara sekatan alfa-1A dengan asas genetik sindrom Ambras.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Lenalidomide: indikasi baharu diramal Leukemia mieloid (tahap bukti L2). Indikasi asal: Myeloma plasma sel, limfoma sel mantel, neoplasma sel B, limfosarkoma…"
 ---
 
@@ -52,8 +52,8 @@ dengan **40 percubaan klinikal** dan **20 penerbitan** yang dikumpulkan berkaita
 | Indikasi Baharu yang Diramalkan | Leukemia mieloid |
 | Skor Ramalan TxGNN | 0.9949 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 24 daripada 24) |
-| Bilangan Pendaftaran | 24 (sah: 24) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 27 daripada 27) |
+| Bilangan Pendaftaran | 27 (sah: 27) |
 | Bilangan Kelulusan | 24 pendaftaran (semua produk bahan tunggal, semua sah) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 

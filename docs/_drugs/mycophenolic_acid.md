@@ -5,8 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 518
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
-description: "Mycophenolic Acid: indikasi baharu diramal Hemoglobinopati (tahap bukti L3). Indikasi asal: Tiada maklumat (tiada lesen NPRA berdaftar)"
+last_modified_at: 2026-11-06
+description: "Mycophenolic Acid: indikasi baharu diramal Hemoglobinopati (tahap bukti L3). Indikasi asal: Tiada maklumat"
 monitor_inn: "MYCOPHENOLIC ACID"
 predicted_indications: ["hemoglobinopathy", "migraine disorder", "migraine with brainstem aura", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "pyropoikilocytosis, hereditary", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyruvate kinase deficiency of red cells", "rheumatoid arthritis", "antithrombin deficiency type 2"]
 ---
@@ -38,7 +38,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 ## Ringkasan Satu Ayat
 
-Asid mikofenolik (mycophenolic acid) ialah agen imunosupresif yang menghalang enzim inosine monophosphate dehydrogenase (IMPDH); indikasi asalnya tidak dapat disahkan kerana tiada pendaftaran tempatan di Malaysia.
+Asid mikofenolik (mycophenolic acid) ialah agen imunosupresif yang menghalang enzim inosine monophosphate dehydrogenase (IMPDH); indikasi asalnya tidak dapat disahkan.
 Model TxGNN meramalkan ia mungkin berkesan untuk **hemoglobinopati** (skor 0.9960), dengan **1 percubaan klinikal** (hubungan tidak langsung) dan **1 penerbitan** (cadangan dos, bukan bukti keberkesanan) yang menyokong arah ini.
 Tahap bukti masih lemah dan lebih sesuai dianggap sebagai soalan penyelidikan.
 
@@ -48,7 +48,7 @@ Tahap bukti masih lemah dan lebih sesuai dianggap sebagai soalan penyelidikan.
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada maklumat (tiada lesen NPRA berdaftar) |
+| Indikasi Asal | Tiada maklumat |
 | Indikasi Baharu yang Diramalkan | Hemoglobinopati |
 | Skor Ramalan TxGNN | 0.9960 |
 | Tahap Bukti | L5 |
@@ -100,7 +100,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Bukti untuk hemoglobinopati terhad kepada satu percubaan yang tidak menguji asid mikofenolik secara langsung dan satu kertas cadangan dos. Tiada bukti keberkesanan, dan ubat ini tidak berdaftar di Malaysia.
+- Bukti untuk hemoglobinopati terhad kepada satu percubaan yang tidak menguji asid mikofenolik secara langsung dan satu kertas cadangan dos. Tiada bukti keberkesanan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data amaran dan kontraindikasi daripada risalah maklumat NPRA (jurang data yang menghalang saringan keselamatan)

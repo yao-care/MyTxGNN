@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Budesonide"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Budesonide: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ tetapi **tiada percubaan klinikal** didaftarkan dan literatur yang ditemui keban
 | Indikasi Baharu yang Diramalkan | Ekzema atopik (atopic eczema) |
 | Skor Ramalan TxGNN | 0,9996 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 34 daripada 34) |
-| Bilangan Pendaftaran | 34 (sah: 34) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 35 daripada 35) |
+| Bilangan Pendaftaran | 35 (sah: 35) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

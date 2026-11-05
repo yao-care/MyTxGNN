@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "Betamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Betamethasone: indikasi baharu diramal Alopesia musinosa (alopecia mucinosa) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Betamethasone ialah ubat kortikosteroid (glukokortikoid) yang telah dipasarkan d
 | Indikasi Baharu yang Diramalkan | Alopesia musinosa (alopecia mucinosa) |
 | Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 97 daripada 97) |
-| Bilangan Pendaftaran | 97 (sah: 97) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 97 daripada 98) |
+| Bilangan Pendaftaran | 98 (sah: 97) |
 | Keputusan Disyorkan | Tahan |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -70,7 +70,7 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-Semua 97 lesen yang direkodkan berstatus sah. Daripadanya, 44 ialah produk bahan tunggal dan 53 produk gabungan. Jadual di bawah hanya menyenaraikan lima produk bahan tunggal.
+Daripadanya, 44 ialah produk bahan tunggal dan 53 produk gabungan. Jadual di bawah hanya menyenaraikan lima produk bahan tunggal.
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|

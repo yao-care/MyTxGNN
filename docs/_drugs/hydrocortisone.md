@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "Hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Hydrocortisone: indikasi baharu diramal Alopesia areata (alopecia areata) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Hydrocortisone ialah kortikosteroid (glukokortikoid) dengan kesan antiradang dan
 | Indikasi Baharu yang Diramalkan | Alopesia areata (alopecia areata) |
 | Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 58 daripada 58) |
-| Bilangan Pendaftaran | 58 (sah: 58) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 57 daripada 58) |
+| Bilangan Pendaftaran | 58 (sah: 57) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -79,7 +79,7 @@ Walau bagaimanapun, hydrocortisone ialah steroid topikal berkuasa rendah. Bukti 
 
 ## Maklumat Pasaran Malaysia
 
-Data tempatan merekodkan 58 lesen, semuanya sah (29 produk satu bahan dan 29 produk kombinasi). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lesen produk kombinasi tidak menggambarkan kelulusan bahan tunggal, maka hanya produk satu bahan disenaraikan di bawah.
+Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lesen produk kombinasi tidak menggambarkan kelulusan bahan tunggal, maka hanya produk satu bahan disenaraikan di bawah.
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dosej | Indikasi Diluluskan |
 |---------|------|------|-----------|

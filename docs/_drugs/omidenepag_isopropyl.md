@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 546
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Omidenepag Isopropyl: indikasi baharu diramal Pankreatitis (tahap bukti L5). Indikasi asal: Hipertensi okular, glaukoma"
 monitor_inn: "OMIDENEPAG ISOPROPYL"
 predicted_indications: ["pancreatitis", "hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "blepharospasm", "familial visceral myopathy", "alcoholic cardiomyopathy"]
@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Pankreatitis |
 | Skor Ramalan TxGNN | 0.9976 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
-| Bilangan Pendaftaran | 2 (sah: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold |
 
 ---

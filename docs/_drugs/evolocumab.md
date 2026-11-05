@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 346
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Evolocumab: indikasi baharu diramal Hemofilia simptomatik pada pembawa wanita (tahap bukti L5). Indikasi asal: Hiperkolesterolemia familial homozigot"
 monitor_inn: "EVOLOCUMAB"
 predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity"]
@@ -115,7 +115,6 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 - Data amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang saringan keselamatan)
 - Data terperinci mekanisme tindakan (MOA) daripada DrugBank
 - Sebarang bukti praklinikal atau klinikal yang menyokong hubungan antara laluan PCSK9 dengan penunjuk yang diramalkan
-- Pertimbangan status pasaran: evolocumab tidak berdaftar di Malaysia pada masa ini, jadi laluan pendaftaran perlu dinilai
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

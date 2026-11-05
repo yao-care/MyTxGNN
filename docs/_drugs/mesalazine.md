@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 496
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "MESALAZINE"
 predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
 description: "Mesalazine: indikasi baharu diramal Congenital hypotrichosis with juvenile macular dystrophy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan hanya **1 penerbitan** (ka
 | Indikasi Baharu yang Diramalkan | Congenital hypotrichosis with juvenile macular dystrophy |
 | Skor Ramalan TxGNN | 0.9965 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 16) |
-| Bilangan Pendaftaran | 16 (sah: 16) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 17 daripada 17) |
+| Bilangan Pendaftaran | 17 (sah: 17) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -113,7 +113,7 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Semua indikasi yang diramalkan berada pada tahap bukti L4 hingga L5, tanpa percubaan klinikal. Mesalazine juga tidak berdaftar di Malaysia.
+- Semua indikasi yang diramalkan berada pada tahap bukti L4 hingga L5, tanpa percubaan klinikal.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Mendapatkan sisipan pek NPRA serta amaran dan kontraindikasi rasmi (jurang data yang menyekat saringan keselamatan).

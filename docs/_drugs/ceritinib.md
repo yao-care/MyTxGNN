@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 209
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Ceritinib: indikasi baharu diramal Fibromatosis gingiva (tahap bukti L5). Indikasi asal: Kanser paru-paru bukan sel kecil (NSCLC) / kanser paru-paru"
 monitor_inn: "CERITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "junctional epidermolysis bullosa"]
@@ -118,7 +118,7 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi lengkap.
 **Keputusan: Hold**
 
 **Rasional:**
-- Semua ramalan hanya berasaskan model (L5 bagi indikasi utama) tanpa percubaan klinikal, tanpa literatur khusus dan tanpa hubungan mekanistik yang munasabah. Ubat ini juga tidak didaftarkan di Malaysia.
+- Semua ramalan hanya berasaskan model (L5 bagi indikasi utama) tanpa percubaan klinikal, tanpa literatur khusus dan tanpa hubungan mekanistik yang munasabah.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan terperinci (MOA)

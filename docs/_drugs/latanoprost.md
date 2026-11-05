@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 447
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "LATANOPROST"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
 description: "Latanoprost: indikasi baharu diramal Visceral calciphylaxis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -96,13 +96,13 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
 **Keputusan: Hold**
 
 **Rasional:**
-- Latanoprost juga tidak didaftarkan di Malaysia, dan data keselamatan rasmi belum lengkap. Ramalan lain sama ada tidak mempunyai kaitan mekanisme yang jelas atau hanya setakat hipotesis.
+- Data keselamatan rasmi belum lengkap. Ramalan lain sama ada tidak mempunyai kaitan mekanisme yang jelas atau hanya setakat hipotesis.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Memuat turun dan menghurai sisipan pakej NPRA bagi amaran dan kontraindikasi (jurang data yang menyekat saringan keselamatan).
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
 - Tinjauan literatur dan carian pendaftaran percubaan klinikal bagi glaukoma keturunan primer, terutamanya data keselamatan dan keberkesanan pada pesakit kanak-kanak.
-- Menilai kebolehlaksanaan pendaftaran atau pengimportan produk di Malaysia, kerana tiada lesen aktif.
+- Menilai kebolehlaksanaan pendaftaran atau pengimportan produk di Malaysia.
 - Pengesahan tahap keterukan interaksi ubat yang kini tidak diketahui.
 - Jika meneroka hipotrikosis, kaji kesan analog PGF2α pada folikel rambut kulit kepala dengan latar belakang genetik berkaitan.
 ## Penafian

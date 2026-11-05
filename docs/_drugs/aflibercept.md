@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "AFLIBERCEPT"
 predicted_indications: ["esotropia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Aflibercept: indikasi baharu diramal Esotropia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** dalam
 | Indikasi Baharu yang Diramal | Esotropia (esotropia) |
 | Skor Ramalan TxGNN | 0,9938 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
-| Bilangan Pendaftaran | 5 (sah: 5) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

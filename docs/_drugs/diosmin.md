@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 295
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "DIOSMIN"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Diosmin: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ Namun, pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Amenorea (amenorrhea (disease)) |
 | Skor Ramalan TxGNN | 0.9942 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 20 daripada 20) |
-| Bilangan Pendaftaran | 20 (sah: 20) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 22 daripada 22) |
+| Bilangan Pendaftaran | 22 (sah: 22) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -70,7 +70,6 @@ Satu-satunya sokongan ialah skor ramalan model TxGNN (pembelajaran mendalam) TxG
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -84,7 +83,7 @@ Sila rujuk risalah maklumat produk (package insert) untuk maklumat keselamatan. 
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan ini hanya berasaskan skor model (L5) tanpa percubaan klinikal, penerbitan, atau hubungan mekanistik yang disokong data. Diosmin juga tidak berdaftar di Malaysia dan data keselamatan tidak lengkap.
+- Ramalan ini hanya berasaskan skor model (L5) tanpa percubaan klinikal, penerbitan, atau hubungan mekanistik yang disokong data. Data keselamatan tidak lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada risalah produk NPRA (jurang yang menghalang penilaian keselamatan awal)

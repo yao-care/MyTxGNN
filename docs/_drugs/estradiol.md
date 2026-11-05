@@ -11,7 +11,7 @@ brands: []
 permalink: /drugs/estradiol/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 42 daripada 42) |
-| Bilangan Pendaftaran | 42 (sah: 42) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 45 daripada 45) |
+| Bilangan Pendaftaran | 45 (sah: 45) |
 | **Nama Ubat** | Estradiol |
 | **ID DrugBank** | [DB00783](https://go.drugbank.com/drugs/DB00783) |
 | **Ramalan DL (≥0.7)** | 0 |

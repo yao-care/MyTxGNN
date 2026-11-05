@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Diclofenac: indikasi baharu diramal Hypotrichosis simplex of the scalp (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Diclofenac ialah ubat anti-radang bukan steroid (NSAID) yang berdaftar di Malays
 | Indikasi Baharu yang Diramalkan | Hypotrichosis simplex of the scalp |
 | Skor Ramalan TxGNN | 0.9969 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 81 daripada 81) |
-| Bilangan Pendaftaran | 81 (sah: 81) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 81 daripada 82) |
+| Bilangan Pendaftaran | 82 (sah: 81) |
 | Bilangan Lesen | 81 lesen produk tunggal yang sah |
 | Keputusan Disyorkan | Hold (Tahan) |
 

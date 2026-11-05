@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 676
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Testosterone: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Model TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih tinggi
 | Indikasi baharu yang diramalkan | Tiada (tiada calon model dengan skor 0.99 atau lebih tinggi) |
 | Kegunaan diketahui yang direkodkan untuk ubat ini | 15 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
-| Bilangan Pendaftaran | 4 (sah: 4) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 3) |
 
 ## Kegunaan diketahui yang direkodkan untuk ubat ini
 
@@ -89,7 +89,7 @@ Model TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih tinggi
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|
 | MAL06100555AZ | Androgel 50mg, gel of testosterone 1% |  | Sah |
-| MAL06100554ACZ | Androgel 25mg, gel of testosterone 1% |  | Sah |
+| MAL06100554ACZ | Androgel 25mg, gel of testosterone 1% |  | Dibatalkan Pendaftaran |
 | MAL20061572ACRZ | NEBIDO 1000MG SOLUTION FOR INJECTION |  | Sah |
 | MAL24046012AZ | Androgel 16.2mg/g, gel (testosterone) |  | Sah |
 

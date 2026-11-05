@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 457
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Levonorgestrel: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ Tahap bukti ialah **L2**, berdasarkan satu ujian rawak berkawal plasebo bagi pil
 | Indikasi Baharu yang Diramalkan | Jerawat (acne (disease)) |
 | Skor Ramalan TxGNN | 0.9988 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
-| Bilangan Pendaftaran | 15 (sah: 15) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 16) |
+| Bilangan Pendaftaran | 16 (sah: 15) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
@@ -90,7 +90,7 @@ Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-Berdasarkan data tempatan, status pasaran ialah dipasarkan, dengan 15 lesen sah dan tiada lesen dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dihimpunkan untuk laporan ini.
+Butiran setiap lesen tidak tersedia dalam data yang dihimpunkan untuk laporan ini.
 
 ---
 

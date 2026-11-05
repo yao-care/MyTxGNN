@@ -11,7 +11,7 @@ brands: []
 permalink: /drugs/voriconazole/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
-| Bilangan Pendaftaran | 10 (sah: 10) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
+| Bilangan Pendaftaran | 11 (sah: 11) |
 | **Nama Ubat** | Voriconazole |
 | **ID DrugBank** | [DB00582](https://go.drugbank.com/drugs/DB00582) |
 | **Ramalan DL (≥0.7)** | 109 |

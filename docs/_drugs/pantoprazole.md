@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 557
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "PANTOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Pantoprazole: indikasi baharu diramal Duodenal obstruction (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ Indikasi ramalan ini bertindih dengan kegunaan asal ubat, jadi ia lebih merupaka
 | Indikasi Baharu Diramal | Duodenal obstruction |
 | Skor Ramalan TxGNN | 0.9921 |
 | Tahap Bukti | L5 mengikut data yang dikompilasi; L2 jika hanya dikira daripada ujian yang disenaraikan di bawah (lihat nota) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 30) |
-| Bilangan Pendaftaran | 30 (sah: 30) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 31 daripada 31) |
+| Bilangan Pendaftaran | 31 (sah: 31) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 
 *Nota tahap bukti:* Data yang dikompilasi memberikan L1. Namun untuk indikasi ini hanya satu ujian Fasa 3 yang telah selesai disenaraikan (NCT02084420), yang menurut peraturan penentuan setara L2. L1 akan terpakai jika ujian Fasa 3 lain pada ulser duodenum, seperti NCT00261300 dan NCT00374101, diambil kira.
@@ -121,7 +121,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
 **Rasional:**
 - Keberkesanan pantoprazole pada ulser peptik disokong oleh ujian Fasa 3 dan beberapa kajian perbandingan. Indikasi ini sudah menjadi kegunaan sedia ada, jadi nilai pengalihan tujuan baharu adalah rendah.
-- Ubat ini tidak berdaftar di Malaysia dan data keselamatan daripada label belum tersedia, jadi kemajuan perlu disertai langkah kawalan.
+- Data keselamatan daripada label belum tersedia, jadi kemajuan perlu disertai langkah kawalan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Memuat turun dan menganalisis sisipan pakej daripada NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat).

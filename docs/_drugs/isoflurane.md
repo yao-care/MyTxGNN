@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 430
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "ISOFLURANE"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "manic bipolar affective disorder", "trichotillomania", "dysthymic disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
 description: "Isoflurane: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -80,8 +80,6 @@ Setakat ini tiada literatur berkaitan untuk Prinzmetal angina.
 ---
 
 ## Maklumat Pasaran Malaysia
-
-Isoflurane pada masa ini tidak mempunyai pendaftaran NPRA yang sah dalam data yang dikumpulkan (jumlah pendaftaran: 0).
 
 ---
 

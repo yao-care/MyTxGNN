@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 564
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Peppermint oil"
 predicted_indications: ["leprosy", "pneumocystosis", "coronary artery disease", "myocardial ischemia", "echinococcus granulosus infectious disease", "polyp of vocal cord", "uterine polyp", "polyp of middle ear", "cardiovascular disease", "polyp of frontal sinus"]
 description: "Peppermint Oil: indikasi baharu diramal Leprosy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -38,7 +38,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 ## Ringkasan Satu Ayat
 
-Minyak pudina (peppermint oil) tidak mempunyai indikasi asal yang direkodkan dalam data yang dikumpulkan untuk laporan ini, kerana tiada lesen berdaftar di Malaysia.
+Minyak pudina (peppermint oil) tidak mempunyai indikasi asal yang direkodkan dalam data yang dikumpulkan untuk laporan ini.
 Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit kardiovaskular** (skor 0.9913), dan ini merupakan ramalan dengan sokongan paling banyak antara 10 ramalan teratas.
 Setakat ini terdapat **1 ujian klinikal** dan **1 kajian RCT terkawal plasebo** (serta 1 protokolnya) dalam populasi hipertensi, tetapi hanya sebagai bukti tidak langsung.
 
@@ -52,8 +52,8 @@ Setakat ini terdapat **1 ujian klinikal** dan **1 kajian RCT terkawal plasebo** 
 | Indikasi Baharu yang Diramalkan | Leprosy |
 | Skor Ramalan TxGNN | 0.9980 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 45 daripada 45) |
-| Bilangan Pendaftaran | 45 (sah: 45) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 43 daripada 46) |
+| Bilangan Pendaftaran | 46 (sah: 43) |
 | Keputusan Disyorkan | Hold |
 
 > Nota: Ramalan teratas berdasarkan kedudukan ialah *leprosy* (0.9980), tetapi ia hanya berdasarkan model (L5) tanpa sebarang bukti. Laporan ini memfokuskan pada **penyakit kardiovaskular** kerana ia satu-satunya antara 10 ramalan teratas yang mempunyai bukti klinikal yang boleh dinilai.
@@ -100,7 +100,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada data amaran, kontrain
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Bukti terhad kepada satu ujian kecil (n=40) tanpa fasa dan satu RCT dalam populasi hipertensi dengan titik akhir pengganti, jadi ia tidak mencukupi untuk menyokong indikasi kardiovaskular secara umum. Ubat ini juga tidak berdaftar di Malaysia.
+- Bukti terhad kepada satu ujian kecil (n=40) tanpa fasa dan satu RCT dalam populasi hipertensi dengan titik akhir pengganti, jadi ia tidak mencukupi untuk menyokong indikasi kardiovaskular secara umum.
 - Sembilan ramalan lain (termasuk leprosy, pneumocystosis, penyakit arteri koronari, iskemia miokardium dan pelbagai polip) hanyalah ramalan model (L5) tanpa bukti sokongan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

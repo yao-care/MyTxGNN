@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 538
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "OCTREOTIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
 description: "Octreotide: indikasi baharu diramal Keratosis folikular songsang vulva (vulvar inverted follicular keratosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -106,7 +106,7 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej produk.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan hanya berasaskan skor model (tahap bukti L5) tanpa sebarang percubaan klinikal, literatur atau mekanisme biologi yang disokong. Ubat ini juga tidak berdaftar di Malaysia.
+- Ramalan hanya berasaskan skor model (tahap bukti L5) tanpa sebarang percubaan klinikal, literatur atau mekanisme biologi yang disokong.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci, serta bukti ekspresi reseptor somatostatin dalam tisu sasaran

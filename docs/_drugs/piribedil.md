@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 580
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Piribedil: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (tahap bukti L5). Indikasi asal: Gangguan parkinsonian"
 monitor_inn: "PIRIBEDIL"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "paralysis agitans, juvenile, of Hunt", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "PLA2G6-associated neurodegeneration"]
@@ -103,7 +103,7 @@ Sila rujuk sisipan pek untuk maklumat keselamatan. Tiada interaksi ubat direkodk
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5), tanpa ujian klinikal dan tanpa penerbitan yang menilai piribedil dalam distrofi retina. Piribedil juga tidak berdaftar di Malaysia.
+- Ramalan ini hanya berasaskan model (L5), tanpa ujian klinikal dan tanpa penerbitan yang menilai piribedil dalam distrofi retina.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank

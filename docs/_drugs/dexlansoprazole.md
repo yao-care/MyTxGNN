@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 272
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "DEXLANSOPRAZOLE"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
 description: "Dexlansoprazole: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -92,11 +92,11 @@ Perlu diingat juga bahawa dua ujian Fasa 3 yang disenaraikan ialah ujian penyemb
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Bukti langsung untuk penyembuhan ulser peptik masih terhad kerana ujian Fasa 3 yang ada tertumpu pada esofagitis erosif. Dexlansoprazole juga tidak berdaftar di Malaysia, dan data keselamatan daripada sisipan pembungkusan belum diperoleh.
+- Bukti langsung untuk penyembuhan ulser peptik masih terhad kerana ujian Fasa 3 yang ada tertumpu pada esofagitis erosif. Data keselamatan daripada sisipan pembungkusan belum diperoleh.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci
-- Maklumat amaran dan kontraindikasi daripada sisipan pembungkusan (tiada pendaftaran NPRA pada masa ini)
+- Maklumat amaran dan kontraindikasi daripada sisipan pembungkusan
 - Data titik akhir penyembuhan ulser yang langsung, termasuk keputusan ujian Fasa 4 NCT07344506 apabila tersedia
 - Penilaian laluan pendaftaran dan ketersediaan produk di Malaysia
 

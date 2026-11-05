@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 547
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "ORLISTAT"
 predicted_indications: ["hypervitaminosis"]
 description: "Orlistat: indikasi baharu diramal Hipervitaminosis (hypervitaminosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -88,7 +88,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur sokongan. Orlistat juga tidak berdaftar di Malaysia, dan hipervitaminosis sudah ada pendekatan pengurusan yang lazim (menghentikan punca vitamin).
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur sokongan. Hipervitaminosis sudah ada pendekatan pengurusan yang lazim (menghentikan punca vitamin).
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank.

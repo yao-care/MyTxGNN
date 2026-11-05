@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 54
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -50,8 +50,8 @@ Ambroxol Hydrochloride ialah agen mukolitik dan ekspektoran yang telah terbukti 
 | Indikasi Baharu yang Diramalkan | Tidak tersedia — ramalan TxGNN belum dijana |
 | Skor Ramalan TxGNN | Tidak tersedia |
 | Tahap Bukti | T/A (tiada keluaran ramalan) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 20 daripada 20) |
-| Bilangan Pendaftaran | 20 (sah: 20) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 21 daripada 22) |
+| Bilangan Pendaftaran | 22 (sah: 21) |
 | Keputusan yang Disyorkan | Tahan |
 
 ---

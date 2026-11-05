@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "VILDAGLIPTIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Vildagliptin: indikasi baharu diramal Sindrom orang kaku klasik (classic stiff person syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Sindrom orang kaku klasik (classic stiff person syndrome) |
 | Skor Ramalan TxGNN | 0.9988 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
-| Bilangan Pendaftaran | 12 (sah: 12) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
+| Bilangan Pendaftaran | 14 (sah: 14) |
 | Keputusan yang Disyorkan | Hold (Tunggu) |
 
 ## Mengapa Ramalan Ini Munasabah?

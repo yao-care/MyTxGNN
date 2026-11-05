@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "BIOTIN"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Biotin: indikasi baharu diramal Dispepsia (dyspepsia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ Biotin ialah vitamin larut air yang berfungsi sebagai kofaktor kepada enzim karb
 | Indikasi Baharu yang Diramalkan | Dispepsia (dyspepsia) |
 | Skor Ramalan TxGNN | 0.9943 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 338 daripada 338) |
-| Bilangan Pendaftaran | 338 (sah: 338) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 365 daripada 372) |
+| Bilangan Pendaftaran | 372 (sah: 365) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -88,8 +88,6 @@ Penerbitan berikut diperoleh semasa carian, tetapi tiada satu pun menilai biotin
 ---
 
 ## Maklumat Pasaran Malaysia
-
-Menurut data tempatan, status pasaran biotin ialah **dipasarkan**, dengan 338 lesen sah dan tiada lesen yang dibatalkan.
 
 ---
 

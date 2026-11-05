@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 679
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Threonine: indikasi baharu diramal Gastroparesis (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "THREONINE"
 predicted_indications: ["gastroparesis (disease)"]
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **gastroparesis**, tetapi pada 
 | Indikasi Baharu yang Diramalkan | Gastroparesis |
 | Skor Ramalan TxGNN | 0.9932 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 35 daripada 35) |
-| Bilangan Pendaftaran | 35 (sah: 35) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 34 daripada 38) |
+| Bilangan Pendaftaran | 38 (sah: 34) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ---
@@ -91,7 +91,7 @@ Untuk amaran dan kontraindikasi yang lengkap, sila rujuk risalah maklumat produk
 **Keputusan: Hold (Tangguh)**
 
 **Justifikasi:**
-- Ramalan ini hanya disokong oleh skor model (L5). Tiada ujian klinikal, tiada literatur, dan tiada mekanisme yang jelas. Threonine juga tidak mempunyai pendaftaran di Malaysia.
+- Ramalan ini hanya disokong oleh skor model (L5). Tiada ujian klinikal, tiada literatur, dan tiada mekanisme yang jelas.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) daripada DrugBank.

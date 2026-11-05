@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 70
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -54,8 +54,8 @@ Tanpa indikasi yang diramalkan, pencarian ujian klinikal dan bukti literatur bel
 | Indikasi Baru yang Diramalkan | Belum dijana |
 | Skor Ramalan TxGNN | Tidak tersedia |
 | Tahap Bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 66 daripada 66) |
-| Bilangan Pendaftaran | 66 (sah: 66) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 68 daripada 68) |
+| Bilangan Pendaftaran | 68 (sah: 68) |
 | Keputusan yang Disyorkan | **Tunggu** |
 
 ---

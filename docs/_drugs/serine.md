@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 642
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Serine: indikasi baharu diramal Miopati visera familial (familial visceral myopathy) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "Serine"
 predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "unclassified intestinal pseudoobstruction", "myopathic intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]
@@ -52,8 +52,8 @@ Ramalan ini hanya berasaskan model, tanpa bukti sebenar.
 | Indikasi Baharu yang Diramalkan | Miopati visera familial (familial visceral myopathy) |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 55 daripada 55) |
-| Bilangan Pendaftaran | 55 (sah: 55) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 51 daripada 55) |
+| Bilangan Pendaftaran | 55 (sah: 51) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -103,13 +103,13 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 **Justifikasi:**
 - Ramalan ini hanya berasaskan model (L5). Tiada ujian klinikal atau literatur yang menyokong serine untuk miopati visera familial. Literatur berkaitan indikasi lain berpunca daripada padanan nama (protease serine dan kinase serine/threonine), bukan daripada kesan asid amino serine.
-- Serine tidak didaftarkan di Malaysia, dan data keselamatan daripada sisipan pakej belum diperoleh.
+- Data keselamatan daripada sisipan pakej belum diperoleh.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) serine, contohnya daripada DrugBank.
 - Hubungan mekanistik yang munasabah antara serine dengan disfungsi otot licin dalam miopati visera, disahkan melalui kajian praklinikal atau semakan literatur yang disasarkan.
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA.
-- Penilaian status pendaftaran dan laluan pentadbiran yang sesuai di Malaysia (tiada pendaftaran buat masa ini).
+- Penilaian status pendaftaran dan laluan pentadbiran yang sesuai di Malaysia.
 - Penapisan semula literatur untuk menyingkirkan padanan kata kunci yang tidak berkaitan.
 ## Penafian
 

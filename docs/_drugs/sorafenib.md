@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 654
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
 description: "Sorafenib: indikasi baharu diramal Liposarkoma (liposarcoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -48,8 +48,8 @@ Sorafenib ialah perencat multikinase (RAF, VEGFR, PDGFR, KIT) yang digunakan dal
 | Indikasi Baharu yang Diramalkan | Liposarkoma (liposarcoma) |
 | Skor Ramalan TxGNN | 0.9982 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
-| Bilangan Pendaftaran | 4 (sah: 4) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

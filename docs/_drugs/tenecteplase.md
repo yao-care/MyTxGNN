@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 672
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "TENECTEPLASE"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
 description: "Tenecteplase: indikasi baharu diramal Congenital coronary artery anomaly (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -98,7 +98,7 @@ Sila rujuk sisipan pembungkusan untuk amaran dan kontraindikasi lengkap.
 
 **Rasional:**
 - Tiada ujian klinikal atau literatur khusus untuk infarksi miokardium posterolateral (Tahap Bukti L4). Ramalan ini pada asasnya subjenis indikasi sedia ada dan bukan pengitaran semula yang benar.
-- Ubat ini tidak berdaftar di Malaysia (0 lesen), dan data keselamatan daripada label tidak tersedia, jadi tidak boleh meneruskan ke saringan keselamatan.
+- Data keselamatan daripada label tidak tersedia, jadi tidak boleh meneruskan ke saringan keselamatan.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Sisipan pembungkusan NPRA (amaran dan kontraindikasi) serta pengesahan sama ada ubat boleh didaftarkan atau diimport di Malaysia.

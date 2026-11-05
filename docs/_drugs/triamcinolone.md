@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Triamcinolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Triamcinolone: indikasi baharu diramal Alopecia mucinosa (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Triamcinolone ialah kortikosteroid yang hubungan indikasi asalnya direkodkan dal
 | Indikasi Baharu yang Diramalkan | Alopecia mucinosa |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 47 daripada 47) |
-| Bilangan Pendaftaran | 47 (sah: 47) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 45 daripada 47) |
+| Bilangan Pendaftaran | 47 (sah: 45) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

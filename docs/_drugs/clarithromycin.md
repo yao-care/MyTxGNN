@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Clarithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Clarithromycin: indikasi baharu diramal Sindrom hiperviskositi poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Clarithromycin ialah antibiotik daripada kumpulan makrolid yang digunakan terhad
 | Indikasi Baharu yang Diramalkan | Sindrom hiperviskositi poliklonal (polyclonal hyperviscosity syndrome) |
 | Skor Ramalan TxGNN | 0,9935 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 28 daripada 28) |
-| Bilangan Pendaftaran | 28 (sah: 28) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 29 daripada 29) |
+| Bilangan Pendaftaran | 29 (sah: 29) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?

@@ -5,8 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 232
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
-description: "Clobetasone: indikasi baharu diramal Limfoma sel-T kutaneus primer (primary cutaneous T-cell lymphoma) (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA yang direkodkan)"
+last_modified_at: 2026-11-06
+description: "Clobetasone: indikasi baharu diramal Limfoma sel-T kutaneus primer (primary cutaneous T-cell lymphoma) (tahap bukti L5). Indikasi asal: Tiada data"
 monitor_inn: "Clobetasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "Sezary syndrome", "primary cutaneous B-cell lymphoma", "granulomatous slack skin disease", "Crohn's colitis", "adrenocortical insufficiency", "primary cutaneous T-cell non-Hodgkin lymphoma", "nephrotic syndrome", "cystic teratoma", "spinal cord dermoid cyst"]
 ---
@@ -48,7 +48,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen NPRA yang direkodkan) |
+| Indikasi Asal | Tiada data |
 | Indikasi Baharu yang Diramalkan | Limfoma sel-T kutaneus primer (primary cutaneous T-cell lymphoma) |
 | Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L5 |
@@ -107,7 +107,7 @@ Satu perkara penting daripada penilaian rasional: bagi cadangan insufisiensi adr
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Semua ramalan hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur khusus clobetasone, dan produk ini tidak mempunyai pendaftaran di Malaysia.
+- Semua ramalan hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur khusus clobetasone.
 - Antara ramalan, hanya kumpulan limfoma sel-T kutaneus (CTCL) mempunyai rasional kelas yang munasabah. Ramalan seperti teratoma sista dan sista dermoid saraf tunjang tidak mempunyai rasional mekanistik.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

@@ -11,7 +11,7 @@ brands: []
 permalink: /drugs/tibolone/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
-| Bilangan Pendaftaran | 1 (sah: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Tibolone |
 | **ID DrugBank** | [DB09070](https://go.drugbank.com/drugs/DB09070) |
 | **Ramalan DL (≥0.7)** | 38 |

@@ -11,7 +11,7 @@ brands: []
 permalink: /drugs/riboflavin/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 456 daripada 457) |
-| Bilangan Pendaftaran | 457 (sah: 456) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 499 daripada 513) |
+| Bilangan Pendaftaran | 513 (sah: 499) |
 | **Nama Ubat** | Riboflavin |
 | **ID DrugBank** | [DB00140](https://go.drugbank.com/drugs/DB00140) |
 | **Ramalan DL (≥0.7)** | 0 |

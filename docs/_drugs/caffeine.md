@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Caffeine"
 predicted_indications: ["nasal cavity disease", "thrombotic disease", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Caffeine: indikasi baharu diramal Penyakit rongga hidung (tahap bukti L5). Indikasi asal: Tiada teks indikasi lulus dalam data pelesenan tempatan"
 ---
 
@@ -50,8 +50,8 @@ Kafein ialah bahan perangsang sistem saraf pusat yang hubungan dengan rinitis al
 | Indikasi Baharu Diramalkan | Penyakit rongga hidung |
 | Skor Ramalan TxGNN | 0.9991 |
 | Tahap Keterangan | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
-| Bilangan Pendaftaran | 9 (sah: 9) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
+| Bilangan Pendaftaran | 10 (sah: 10) |
 | Keputusan Disyorkan | Hold |
 
 ---

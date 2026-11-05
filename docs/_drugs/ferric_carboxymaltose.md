@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 354
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "FERRIC CARBOXYMALTOSE"
 predicted_indications: ["bronchitis"]
 description: "Ferric Carboxymaltose: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Bronkitis (bronchitis) |
 | Skor Ramalan TxGNN | 0.9900 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
-| Bilangan Pendaftaran | 1 (sah: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan yang Disyorkan | Hold |
 
 ---

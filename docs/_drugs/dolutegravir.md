@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "DOLUTEGRAVIR"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Dolutegravir: indikasi baharu diramal Sindrom kekurangan imun kucing (feline acquired immunodeficiency synd… (tahap bukti L5). Indikasi asal: Jangkitan HIV dan AIDS"
 ---
 
@@ -52,8 +52,8 @@ Setakat ini terdapat **0 ujian klinikal** dan **1 penerbitan** yang berkaitan se
 | Indikasi Baharu yang Diramalkan | Sindrom kekurangan imun kucing (feline acquired immunodeficiency syndrome) |
 | Skor Ramalan TxGNN | 0.9985 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
-| Bilangan Pendaftaran | 7 (sah: 7) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Bilangan Kelulusan | 7 pendaftaran (4 produk tunggal, 3 produk kombinasi) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

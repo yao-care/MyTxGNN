@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 18
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Acetaminophen: kegunaan sedia ada dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Model TxGNN menghasilkan calon untuk Acetaminophen dengan skor ≥ 0.99. Setiap 
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dikesan ialah kegunaan sedia ada) |
 | Kegunaan sedia ada dalam kalangan calon model | 0 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
-| Bilangan Pendaftaran | 5 (sah: 5) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 248 daripada 248) |
+| Bilangan Pendaftaran | 248 (sah: 248) |
 
 ## Kegunaan sedia ada dalam kalangan calon model
 

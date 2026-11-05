@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 339
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "ETHANOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 description: "Ethanol: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,8 +51,8 @@ tetapi kini terdapat **0 percubaan klinikal** dan **20 penerbitan** yang tidak s
 | Indikasi Baharu yang Diramal | Gangguan migrain (migraine disorder) |
 | Skor Ramalan TxGNN | 0.9929 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
-| Bilangan Pendaftaran | 10 (sah: 10) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 10) |
+| Bilangan Pendaftaran | 10 (sah: 9) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -93,8 +93,6 @@ Tiada satu pun kajian di bawah menilai etanol sebagai rawatan migrain. Penerbita
 
 ## Maklumat Pasaran di Malaysia
 
-Tiada lesen berdaftar ditemui di Malaysia bagi etanol dalam data yang dikumpulkan.
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -115,7 +113,7 @@ Maklumat amaran dan kontraindikasi tidak tersedia; sila rujuk sisipan pakej untu
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan TxGNN tinggi, tetapi tiada percubaan klinikal dan tiada kajian yang menunjukkan etanol merawat migrain. Bukti sedia ada lebih menunjukkan etanol sebagai pencetus migrain. Etanol juga tidak berdaftar di Malaysia, maka tahap bukti ialah L5.
+- Ramalan TxGNN tinggi, tetapi tiada percubaan klinikal dan tiada kajian yang menunjukkan etanol merawat migrain. Bukti sedia ada lebih menunjukkan etanol sebagai pencetus migrain.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap

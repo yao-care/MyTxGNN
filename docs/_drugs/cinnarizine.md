@@ -11,7 +11,7 @@ brands: []
 permalink: /drugs/cinnarizine/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
-| Bilangan Pendaftaran | 5 (sah: 5) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | **Nama Ubat** | Cinnarizine |
 | **ID DrugBank** | [DB00568](https://go.drugbank.com/drugs/DB00568) |
 | **Ramalan DL (≥0.7)** | 118 |

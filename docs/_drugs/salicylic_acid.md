@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Salicylic Acid"
 predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "rosacea conjunctivitis", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "myosclerosis", "brachyolmia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Salicylic Acid: indikasi baharu diramal Konjunktivitis papilari (papillary conjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Asid salisilik ialah agen keratolitik topikal yang juga merupakan perencat COX t
 | Indikasi Baharu yang Diramalkan | Konjunktivitis papilari (papillary conjunctivitis) |
 | Skor Ramalan TxGNN | 0.9988 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 71 daripada 71) |
-| Bilangan Pendaftaran | 71 (sah: 71) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 70 daripada 71) |
+| Bilangan Pendaftaran | 71 (sah: 70) |
 | Bilangan Kelulusan | 71 pendaftaran (36 produk bahan tunggal, 35 produk kombinasi) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 

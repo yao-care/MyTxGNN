@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 638
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "selegiline"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
 description: "Selegiline: indikasi baharu diramal Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ Bukti masih terhad kepada tahap pemerhatian dan kajian kecil, dan tiada ujian pe
 | Indikasi Baharu yang Diramalkan | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis |
 | Skor Ramalan TxGNN | 0.9915 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (tiada pendaftaran direkodkan) |
-| Bilangan Pendaftaran | 0 (sah: 0) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (ditahan; dikekalkan sebagai persoalan penyelidikan) |
 
 > Nota: Tahap bukti L3 ditentukan berdasarkan kajian sistematik dan kajian pemerhatian yang ada. Tiada dua ujian Fasa 3 yang selesai.
@@ -115,14 +115,14 @@ Perhatikan bahawa senarai kontraindikasi graf merangkumi gangguan psikotik dan s
 **Keputusan: Hold (dikekalkan sebagai persoalan penyelidikan)**
 
 **Rasional:**
-- Terdapat beberapa ujian rawak kecil dan kajian sistematik tentang gejala negatif skizofrenia, tetapi keputusan terdahulu dilaporkan bercanggah dan satu-satunya ujian berdaftar ialah Fasa Awal 1 tanpa data hasil. Selain itu, ubat ini tidak dipasarkan di Malaysia, dan data keselamatan daripada sisipan pakej tidak tersedia (jurang data yang menghalang penilaian keselamatan).
+- Terdapat beberapa ujian rawak kecil dan kajian sistematik tentang gejala negatif skizofrenia, tetapi keputusan terdahulu dilaporkan bercanggah dan satu-satunya ujian berdaftar ialah Fasa Awal 1 tanpa data hasil. Selain itu, data keselamatan daripada sisipan pakej tidak tersedia (jurang data yang menghalang penilaian keselamatan).
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Semakan menyeluruh hasil ujian rawak sedia ada (termasuk meta-analisis 2023) untuk menilai keberkesanan sebenar pada gejala negatif
 - Penilaian risiko gejala positif bertambah teruk dan interaksi dengan antipsikotik serta agen serotonergik
-- Kajian kebolehlaksanaan status pendaftaran dan laluan pemberian di Malaysia, memandangkan tiada lesen tempatan
+- Kajian kebolehlaksanaan status pendaftaran dan laluan pemberian di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 413
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Imiquimod"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
 description: "Imiquimod: indikasi baharu diramal Neoplasma pra-malignan (pre-malignant neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -95,7 +95,6 @@ Perlu diingat bahawa percubaan Fasa 3 adalah kecil (n=20 dan n=9, yang kedua dit
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -112,7 +111,7 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi.
 **Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
 **Rasional:**
-- Bagi neoplasma pra-malignan, terdapat dua percubaan Fasa 3, beberapa kajian Cochrane dan kajian klinikal yang menyokong arah ini, serta mekanisme TLR7 yang konsisten. Walau bagaimanapun, percubaan adalah kecil, satu ditamatkan awal, dan produk tidak berdaftar di Malaysia, maka kemajuan memerlukan langkah kawalan.
+- Bagi neoplasma pra-malignan, terdapat dua percubaan Fasa 3, beberapa kajian Cochrane dan kajian klinikal yang menyokong arah ini, serta mekanisme TLR7 yang konsisten. Walau bagaimanapun, percubaan adalah kecil, satu ditamatkan awal, maka kemajuan memerlukan langkah kawalan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat saringan keselamatan)

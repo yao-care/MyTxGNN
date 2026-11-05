@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 23
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Acitretin: indikasi baharu diramal Jerawat (acne) (tahap bukti L3). Indikasi asal: Tiada data indikasi yang diluluskan dalam data yang dikumpulkan"
 monitor_inn: "ACITRETIN"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
@@ -122,7 +122,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 **Keputusan: Hold**
 
 **Rasional:**
-- Satu-satunya percubaan klinikal menumpu pada hidradenitis suppurativa dan bukan jerawat vulgaris, tanpa keputusan yang tersedia; bukti yang lain terdiri daripada ulasan, garis panduan dan laporan kes. Selain itu, profil keselamatan acitretin (teratogenisiti, hepatotoksisiti) menuntut kehati-hatian, dan ubat ini tidak berdaftar di Malaysia.
+- Satu-satunya percubaan klinikal menumpu pada hidradenitis suppurativa dan bukan jerawat vulgaris, tanpa keputusan yang tersedia; bukti yang lain terdiri daripada ulasan, garis panduan dan laporan kes. Selain itu, profil keselamatan acitretin (teratogenisiti, hepatotoksisiti) menuntut kehati-hatian.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi) sebagai syarat sebelum saringan keselamatan

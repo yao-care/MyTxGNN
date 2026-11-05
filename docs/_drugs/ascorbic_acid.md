@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ASCORBIC ACID"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "disease by subcellular system affected"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Ascorbic Acid: indikasi baharu diramal Malformasi esofagus tidak sindromik (non-syndromic esophageal malformation) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Asid askorbik (vitamin C) ialah nutrien penting yang larut dalam air dan bertind
 | Indikasi Baharu yang Diramalkan | Malformasi esofagus tidak sindromik (non-syndromic esophageal malformation) |
 | Skor Ramalan TxGNN | 0.9996 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1138 daripada 1140) |
-| Bilangan Pendaftaran | 1140 (sah: 1138) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1199 daripada 1245) |
+| Bilangan Pendaftaran | 1245 (sah: 1199) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?

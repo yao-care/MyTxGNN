@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Insulin Glargine"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Insulin Glargine: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2, diabetes mellitus jenis 1…"
 ---
 
@@ -50,8 +50,8 @@ Insulin glargine ialah analog insulin basal yang pada asalnya digunakan untuk me
 | Indikasi Baharu yang Diramalkan | Autoimmune oophoritis |
 | Skor Ramalan TxGNN | 0.9988 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 13 daripada 13) |
-| Bilangan Pendaftaran | 13 (sah: 13) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 15) |
 | Bilangan Kelulusan | 13 pendaftaran (11 produk bahan tunggal, 2 produk kombinasi) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

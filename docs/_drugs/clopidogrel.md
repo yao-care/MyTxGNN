@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 238
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 description: "Clopidogrel: indikasi baharu diramal Migrain dengan aura batang otak (migraine with brainstem aura) (tahap bukti L5). Indikasi asal: Sindrom koronari akut"
 monitor_inn: "CLOPIDOGREL"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis"]
@@ -54,8 +54,8 @@ dengan **6 percubaan klinikal** dan **20 penerbitan** yang dikumpulkan untuk cal
 | Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder); ramalan kedudukan pertama: migrain dengan aura batang otak |
 | Skor Ramalan TxGNN | 0.9944 (gangguan migrain); 0.9944 (migrain dengan aura batang otak) |
 | Tahap Bukti | L5 (gangguan migrain); L3 (migrain dengan aura batang otak) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 23 daripada 23) |
-| Bilangan Pendaftaran | 23 (sah: 23) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 22 daripada 23) |
+| Bilangan Pendaftaran | 23 (sah: 22) |
 | Keputusan Disyorkan | Hold (dengan satu soalan penyelidikan yang boleh diteruskan untuk subkumpulan PFO) |
 
 ---

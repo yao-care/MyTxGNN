@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 543
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Olmesartan: indikasi baharu diramal Angina Prinzmetal (tahap bukti L5). Indikasi asal: Tiada dalam data pendaftaran NPRA (secara umum: hipertensi)"
 monitor_inn: "olmesartan"
 predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Angina Prinzmetal**, tetapi r
 | Indikasi Baharu yang Diramalkan | Angina Prinzmetal |
 | Skor Ramalan TxGNN | 0.9984 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
-| Bilangan Pendaftaran | 9 (sah: 9) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
+| Bilangan Pendaftaran | 14 (sah: 14) |
 | Keputusan Disyorkan | Hold (Tunda) |
 
 ---
@@ -92,7 +92,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 **Keputusan: Hold (Tunda)**
 
 **Rasional:**
-- Ramalan Angina Prinzmetal hanya berasaskan skor model (Tahap Bukti L5). Tiada ujian klinikal, tiada literatur dan tiada hubungan mekanistik langsung. Olmesartan juga tidak mempunyai pendaftaran di Malaysia.
+- Ramalan Angina Prinzmetal hanya berasaskan skor model (Tahap Bukti L5). Tiada ujian klinikal, tiada literatur dan tiada hubungan mekanistik langsung.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej dan maklumat keselamatan rasmi (amaran dan kontraindikasi) daripada NPRA.

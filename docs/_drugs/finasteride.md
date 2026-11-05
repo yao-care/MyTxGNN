@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 359
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 description: "Finasteride: indikasi baharu diramal Ambras type hypertrichosis universalis congenita (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -115,7 +115,7 @@ Untuk maklumat amaran dan kontraindikasi yang lengkap, sila rujuk sisipan pek pr
 **Keputusan: Hold**
 
 **Rasional:**
-- Skor TxGNN yang tinggi hanyalah ramalan model. Tiada ujian klinikal, literatur yang ada hanya ulasan tidak langsung, dan mekanismenya tidak sepadan dengan hipertrikosis yang tidak bergantung kepada androgen. Risiko teratogenik pada wanita juga menambah kebimbangan. Selain itu, finasteride tidak didaftarkan di Malaysia.
+- Skor TxGNN yang tinggi hanyalah ramalan model. Tiada ujian klinikal, literatur yang ada hanya ulasan tidak langsung, dan mekanismenya tidak sepadan dengan hipertrikosis yang tidak bergantung kepada androgen. Risiko teratogenik pada wanita juga menambah kebimbangan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada sisipan pek NPRA (halangan utama kepada saringan keselamatan)

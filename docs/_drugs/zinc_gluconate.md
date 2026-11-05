@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 735
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Zinc gluconate"
 predicted_indications: ["anemia of prematurity", "injury", "cell proliferation disorder", "perinatal disease", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "radiation or chemically induced disorder", "disease by subcellular system affected", "iatrogenic disease", "regional odontodysplasia"]
 description: "Zinc Gluconate: indikasi baharu diramal Anemia pramatang (anemia of prematurity) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ Ramalan ini masih pada tahap model semata-mata dan bimbang tentang keselamatan, 
 | Indikasi Baharu yang Diramalkan | Anemia pramatang (anemia of prematurity) |
 | Skor Ramalan TxGNN | 0.9994 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 136 daripada 136) |
-| Bilangan Pendaftaran | 136 (sah: 136) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 145 daripada 152) |
+| Bilangan Pendaftaran | 152 (sah: 145) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -81,7 +81,6 @@ Pada masa ini tiada literatur berkaitan untuk anemia pramatang.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -119,7 +118,7 @@ Untuk maklumat amaran dan kontraindikasi lengkap, sila rujuk sisipan pakej produ
 
 **Rasional:**
 - Ramalan anemia pramatang hanya berasaskan model (L5), tanpa ujian klinikal atau literatur, manakala zink berlebihan boleh menyebabkan anemia, satu risiko serius untuk bayi pramatang.
-- Ramalan lain juga tidak mempunyai bukti klinikal yang menyokong, dan produk ini tidak berdaftar di Malaysia.
+- Ramalan lain juga tidak mempunyai bukti klinikal yang menyokong.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi) untuk penyaringan keselamatan, jika produk berdaftar kelak.

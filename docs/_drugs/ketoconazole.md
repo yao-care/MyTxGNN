@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "Ketoconazole"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Ketoconazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ Ketoconazole ialah ubat antikulat azol yang telah didaftarkan di Malaysia dalam 
 | Indikasi Baharu yang Diramalkan | Jerawat (acne (disease)) |
 | Skor Ramalan TxGNN | 0.9980 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 33 daripada 33) |
-| Bilangan Pendaftaran | 33 (sah: 33) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 32 daripada 33) |
+| Bilangan Pendaftaran | 33 (sah: 32) |
 | Keputusan Disyorkan | Hold |
 
 ---

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 476
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
 description: "Lorazepam: indikasi baharu diramal Neoplasma saraf trigeminal (trigeminal nerve neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -102,7 +102,7 @@ Pada masa ini tiada literatur berkaitan.
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan ini berada pada tahap bukti L5 (ramalan model sahaja), tanpa ujian klinikal atau literatur, dan tiada mekanisme antitumor yang munasabah. Lorazepam juga tidak berdaftar di Malaysia.
+- Ramalan ini berada pada tahap bukti L5 (ramalan model sahaja), tanpa ujian klinikal atau literatur, dan tiada mekanisme antitumor yang munasabah.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan bungkusan rasmi (amaran dan kontraindikasi) daripada NPRA, jika produk didaftarkan atau diimport pada masa hadapan

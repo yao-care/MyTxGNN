@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 431
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Isoleucine: indikasi baharu diramal Gastroparesis (tahap bukti L5). Indikasi asal: Tiada rekod indikasi diluluskan"
 monitor_inn: "ISOLEUCINE"
 predicted_indications: ["gastroparesis (disease)"]
@@ -38,7 +38,7 @@ Tahap bukti: **L5** | Indikasi diramal: **1**
 
 ## Ringkasan Satu Ayat
 
-Isoleucine ialah asid amino rantai bercabang (BCAA) yang tidak mempunyai indikasi asal yang direkodkan dalam data yang dikumpulkan untuk laporan ini dan tidak berdaftar di Malaysia.
+Isoleucine ialah asid amino rantai bercabang (BCAA) yang tidak mempunyai indikasi asal yang direkodkan dalam data yang dikumpulkan untuk laporan ini.
 Model TxGNN meramalkan ia mungkin berkesan untuk **gastroparesis**,
 tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini; ramalan ini bergantung sepenuhnya pada skor model.
 
@@ -52,8 +52,8 @@ tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang
 | Indikasi Baharu yang Diramalkan | Gastroparesis |
 | Skor Ramalan TxGNN | 0.9932 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 42 daripada 42) |
-| Bilangan Pendaftaran | 42 (sah: 42) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 43 daripada 49) |
+| Bilangan Pendaftaran | 49 (sah: 43) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -100,7 +100,7 @@ Untuk maklumat keselamatan produk, sila rujuk sisipan pakej.
 **Keputusan: Hold (Tangguh)**
 
 **Justifikasi:**
-- Ramalan ini hanya disokong oleh skor model TxGNN yang tinggi (L5), tanpa percubaan klinikal, literatur, atau data mekanisme. Isoleucine juga tidak berdaftar di Malaysia dan mempunyai beberapa isyarat kontraindikasi daripada graf pengetahuan, terutamanya berkaitan buah pinggang dan jantung.
+- Ramalan ini hanya disokong oleh skor model TxGNN yang tinggi (L5), tanpa percubaan klinikal, literatur, atau data mekanisme. Isoleucine juga mempunyai beberapa isyarat kontraindikasi daripada graf pengetahuan, terutamanya berkaitan buah pinggang dan jantung.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi), kerana ketiadaannya menghalang saringan keselamatan peringkat seterusnya

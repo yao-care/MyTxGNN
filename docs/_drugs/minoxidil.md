@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "Minoxidil"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with chronic hemolytic anemia", "pulmonary arterial hypertension associated with connective tissue disease"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Minoxidil: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Minoxidil ialah ubat pembuka saluran kalium yang melebarkan saluran darah dan ju
 | Indikasi Baharu yang Diramalkan | Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) |
 | Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
-| Bilangan Pendaftaran | 15 (sah: 15) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 13 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 13) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -72,12 +72,12 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-Terdapat 15 lesen sah. Lima yang utama disenaraikan di bawah.
+Lima yang utama disenaraikan di bawah.
 
 | Nombor Kebenaran | Nama Produk | Pengilang | Status |
 |---------|------|------|------|
-| MAL16105054AZ | Axcel Minoxidil 2% Topical Solution | Kotra Pharma (M) Sdn. Bhd. | Sah |
-| MAL16105035AZ | Axcel Minoxidil 5% Topical Solution | Kotra Pharma (M) Sdn. Bhd. | Sah |
+| MAL16105054AZ | Axcel Minoxidil 2% Topical Solution | Kotra Pharma (M) Sdn. Bhd. | Dibatalkan Pendaftaran |
+| MAL16105035AZ | Axcel Minoxidil 5% Topical Solution | Kotra Pharma (M) Sdn. Bhd. | Dibatalkan Pendaftaran |
 | MAL12010007AZ | Reten Five Solution 5g/100ml | Imeks Pharma Sdn. Bhd. | Sah |
 | MAL19985557ACZ | Hirsutin Tablet 5 mg | Zontron Pharmaceuticals Sdn. Bhd. | Sah |
 | MAL19971300AZ | Hairgrow Solution 2% | Antah Pharma Sdn. Bhd. | Sah |

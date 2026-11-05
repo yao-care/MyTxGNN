@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 268
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "desvenlafaxine"
 predicted_indications: ["obsessive-compulsive disorder", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Desvenlafaxine: indikasi baharu diramal Gangguan obsesif-kompulsif (obsessive-compulsive disorder) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -84,7 +84,6 @@ Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -101,7 +100,7 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej produk.
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan OCD hanya disokong oleh kaitan mekanistik kelas SNRI dan literatur tidak langsung, tanpa sebarang ujian klinikal khusus desvenlafaxine. Ubat ini juga tidak didaftarkan di Malaysia.
+- Ramalan OCD hanya disokong oleh kaitan mekanistik kelas SNRI dan literatur tidak langsung, tanpa sebarang ujian klinikal khusus desvenlafaxine.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data keberkesanan langsung desvenlafaxine dalam OCD (ujian klinikal atau kajian terkawal)

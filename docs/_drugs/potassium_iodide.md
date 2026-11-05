@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 594
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "POTASSIUM IODIDE"
 predicted_indications: ["nasal cavity disease"]
 description: "Potassium Iodide: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ tetapi setakat ini hanya terdapat **0 ujian klinikal** dan **4 penerbitan** (kes
 | Indikasi Baharu yang Diramalkan | Penyakit rongga hidung (nasal cavity disease) |
 | Skor Ramalan TxGNN | 0.9995 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 121 daripada 121) |
-| Bilangan Pendaftaran | 121 (sah: 121) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 137 daripada 140) |
+| Bilangan Pendaftaran | 140 (sah: 137) |
 | Keputusan Disyorkan | Hold |
 
 ---

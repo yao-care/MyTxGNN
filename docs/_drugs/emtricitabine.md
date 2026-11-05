@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 322
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "EMTRICITABINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Emtricitabine: indikasi baharu diramal Sindrom imunodefisiensi dapatan kucing (feline acquired immunodeficiency syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ tetapi kini hanya terdapat **0 ujian klinikal** dan **1 penerbitan** (kajian vet
 | Indikasi Baharu yang Diramalkan | Sindrom imunodefisiensi dapatan kucing (feline acquired immunodeficiency syndrome) |
 | Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
-| Bilangan Pendaftaran | 12 (sah: 12) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
+| Bilangan Pendaftaran | 14 (sah: 14) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "RITONAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ritonavir: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -49,8 +49,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan virus imunodefisien
 | Indikasi Baharu yang Diramalkan | Simian immunodeficiency virus infection |
 | Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
-| Bilangan Pendaftaran | 12 (sah: 12) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 13 daripada 13) |
+| Bilangan Pendaftaran | 13 (sah: 13) |
 | Bilangan Kelulusan | 12 pendaftaran (2 produk ritonavir tunggal, 10 produk kombinasi) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 

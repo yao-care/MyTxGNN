@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 522
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Netarsudil: kegunaan sedia ada dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Model TxGNN (skor ≥ 0.99) menghasilkan calon untuk Netarsudil, tetapi semua ca
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejaki ialah kegunaan sedia ada) |
 | Kegunaan sedia ada dalam kalangan calon model | 2 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
-| Bilangan Pendaftaran | 2 (sah: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 
 ## Kegunaan sedia ada dalam kalangan calon model
 

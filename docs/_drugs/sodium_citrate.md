@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Sodium Citrate"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "stomach disease", "postgastrectomy syndrome", "gastroduodenitis", "familial visceral myopathy", "rosacea conjunctivitis", "allergic urticaria"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Sodium Citrate: indikasi baharu diramal Papillary conjunctivitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -53,8 +53,8 @@ Model TxGNN meramalkan ia mungkin berguna untuk **penyakit perut (stomach diseas
 | Indikasi Baharu yang Diramalkan | Papillary conjunctivitis |
 | Skor Ramalan TxGNN | 0.9995 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 36) |
-| Bilangan Pendaftaran | 36 (sah: 36) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 37 daripada 37) |
+| Bilangan Pendaftaran | 37 (sah: 37) |
 | Keputusan Disyorkan | Hold |
 
 Nota tahap bukti: tiada percubaan klinikal atau penerbitan yang mengkaji "penyakit perut" sebagai penyakit sasaran baharu secara langsung. Penerbitan yang ada hanya menyentuh asid gastrik, ulser, kanser gastrik praklinikal dan bahan sampingan. Maka tahap bukti ditetapkan L5.

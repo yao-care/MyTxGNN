@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 726
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Vinorelbine: indikasi baharu diramal Sarkoma Ewing (tahap bukti L2). Indikasi asal: Kanser paru-paru sel bukan kecil (NSCLC)"
 monitor_inn: "Vinorelbine"
 predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "pulmonary sulcus neoplasm", "lung germ cell tumor", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]
@@ -125,7 +125,7 @@ Amaran utama dan kontraindikasi daripada sisipan pakej NPRA belum tersedia; sila
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data khusus Sarkoma Ewing (hasil subkumpulan daripada NCT00180947 dan ujian INTER-EWING-1)
 - Data mekanisme tindakan terperinci (MOA)
-- Amaran dan kontraindikasi daripada sisipan pakej NPRA (ubat ini tidak berdaftar di Malaysia, jadi laluan akses seperti pendaftaran atau penggunaan khas perlu dinilai)
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Pelan pemantauan keselamatan untuk populasi pediatrik, termasuk pengurusan neutropenia dan interaksi dengan perencat CYP3A4 seperti klaritromisin
 
 ---

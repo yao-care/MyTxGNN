@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 440
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
 description: "Lacosamide: indikasi baharu diramal Manic bipolar affective disorder (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -38,7 +38,7 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 
 ## Ringkasan Satu Ayat
 
-Lacosamide ialah ubat antiepilepsi (antikonvulsan) yang menyekat saluran natrium bergantung voltan. Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan migrain**, dengan **4 ujian klinikal** dan **18 penerbitan** yang berkaitan buat masa ini. Data yang dikumpulkan tidak menyatakan indikasi asal yang diluluskan di Malaysia, kerana tiada pendaftaran tempatan ditemui.
+Lacosamide ialah ubat antiepilepsi (antikonvulsan) yang menyekat saluran natrium bergantung voltan. Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan migrain**, dengan **4 ujian klinikal** dan **18 penerbitan** yang berkaitan buat masa ini. Data yang dikumpulkan tidak menyatakan indikasi asal yang diluluskan di Malaysia.
 
 > Nota: Laporan ini memfokuskan pada ramalan kedudukan ke-5 (migrain), kerana ia mempunyai bukti terkuat daripada 10 ramalan yang disenaraikan. Ramalan kedudukan pertama dalam senarai (gangguan afektif bipolar manik) hanya mempunyai bukti L3 yang terhad. Ringkasan semua ramalan diberikan pada akhir laporan.
 
@@ -52,8 +52,8 @@ Lacosamide ialah ubat antiepilepsi (antikonvulsan) yang menyekat saluran natrium
 | Indikasi Baharu yang Diramalkan | Manic bipolar affective disorder |
 | Skor Ramalan TxGNN | 0.9996 |
 | Tahap Bukti | L5 (mengikut penilaian data yang dikumpulkan) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
-| Bilangan Pendaftaran | 4 (sah: 4) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 
 ---
@@ -96,8 +96,6 @@ Hubungan antara indikasi asal (sawan) dengan migrain ialah kedua-duanya melibatk
 
 ## Maklumat Pasaran di Malaysia
 
-Berdasarkan data yang dikompilasi, lacosamide **tidak mempunyai pendaftaran** di Malaysia (0 lesen). Oleh itu tiada jadual lesen dipaparkan.
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -125,7 +123,6 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 - Mengesahkan keputusan NCT00440518, NCT05851781 dan NCT06243692, serta menyemak data penuh RCT 2026 (PMID 41863672)
 - Mendapatkan sisipan pek produk untuk amaran dan kontraindikasi (data ini hilang dan merupakan halangan bagi saringan keselamatan)
 - Melengkapkan data mekanisme tindakan (MOA) daripada DrugBank
-- Memandangkan lacosamide tidak berdaftar di Malaysia, menilai laluan pendaftaran dan ketersediaan bentuk dos
 - Merancang pemantauan interaksi ubat, terutamanya dengan ubat berisiko pemanjangan QT/kardiak
 
 ---

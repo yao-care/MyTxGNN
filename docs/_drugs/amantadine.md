@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 51
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Amantadine: indikasi baharu diramal Rasmussen subacute encephalitis (tahap bukti L5). Indikasi asal: Penyakit Parkinson (dan gangguan parkinsonisme yang berkaitan)"
 monitor_inn: "amantadine"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
@@ -86,7 +86,7 @@ Sila rujuk sisipan pakej produk untuk maklumat amaran dan kontraindikasi yang ra
 **Keputusan: Hold (Tangguh)**
 
 **Justifikasi:**
-- Skor ramalan tinggi (0.9948), tetapi ia hanya ramalan model (L5) tanpa percubaan klinikal atau literatur sokongan. Ubat ini juga tidak berdaftar di Malaysia, dan graf pengetahuan menyenaraikan epilepsi sebagai kontraindikasi.
+- Skor ramalan tinggi (0.9948), tetapi ia hanya ramalan model (L5) tanpa percubaan klinikal atau literatur sokongan. Graf pengetahuan menyenaraikan epilepsi sebagai kontraindikasi.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap

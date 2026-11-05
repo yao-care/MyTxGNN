@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 645
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "SILTUXIMAB"
 predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "Kaposi's sarcoma (disease)", "autosomal recessive familial Mediterranean fever", "aggressive systemic mastocytosis", "autosomal dominant familial periodic fever"]
 description: "Siltuximab: indikasi baharu diramal Mastositoma ekstrakutaneus (extracutaneous mastocytoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -116,14 +116,14 @@ Amaran utama dan kontraindikasi tidak tersedia dalam data yang dikumpulkan. Sila
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan untuk mastositoma ekstrakutaneus hanya disokong oleh skor model (0.9964), tanpa ujian klinikal atau literatur, dan tahap bukti ialah L5. Produk juga tidak berdaftar di Malaysia.
+- Ramalan untuk mastositoma ekstrakutaneus hanya disokong oleh skor model (0.9964), tanpa ujian klinikal atau literatur, dan tahap bukti ialah L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
 - Kajian praklinikal atau kajian mekanisme yang menguji sekatan IL-6 dalam neoplasma sel mast
 - Pertimbangan untuk menilai semula calon sarkoma Kaposi (L4) sebagai soalan penyelidikan yang lebih berpotensi, dengan semakan literatur sistematik
-- Status kelulusan dan akses di Malaysia, memandangkan tiada pendaftaran sedia ada
+- Status kelulusan dan akses di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

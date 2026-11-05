@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 439
 evidence_level: L1
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
 description: "Ketorolac: indikasi baharu diramal Gangguan sakit kepala (headache disorder) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ dengan **16 percubaan klinikal** dan **18 penerbitan** yang disenaraikan dalam d
 | Indikasi Baharu yang Diramalkan | Gangguan sakit kepala (headache disorder) |
 | Skor Ramalan TxGNN | 0.9943 |
 | Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
-| Bilangan Pendaftaran | 6 (sah: 6) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 5) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 > Nota: Tahap bukti L1 mengikut penilaian dalam data yang dikumpulkan. Perlu dinyatakan bahawa percubaan klinikal yang disenaraikan kebanyakannya Fasa 4 atau percubaan kecil, dan bukan dua percubaan RCT Fasa 3 yang jelas selesai dengan ketorolac sebagai agen tunggal. Tahap ini wajar disemak semula.
@@ -107,8 +107,6 @@ Berikut ialah percubaan yang paling relevan (sehingga 10). Terdapat 16 percubaan
 ---
 
 ## Maklumat Pasaran Malaysia
-
-Menurut data yang dikumpulkan untuk laporan ini, ketorolac tidak mempunyai pendaftaran yang sah di Malaysia (0 lesen). Oleh itu, tiada jadual lesen dipaparkan.
 
 ---
 

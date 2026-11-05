@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Chloramphenicol"
 predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Chloramphenicol: indikasi baharu diramal Skleroderma meresap (diffuse scleroderma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Chloramphenicol ialah antibiotik yang telah lama digunakan dan masih dipasarkan 
 | Indikasi Baharu yang Diramalkan | Skleroderma meresap (diffuse scleroderma) |
 | Skor Ramalan TxGNN | 0.9965 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
-| Bilangan Pendaftaran | 12 (sah: 12) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 13 daripada 13) |
+| Bilangan Pendaftaran | 13 (sah: 13) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

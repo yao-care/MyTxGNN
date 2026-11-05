@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 394
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Griseofulvin: indikasi baharu diramal Miasis (myiasis) (tahap bukti L5). Indikasi asal: Tinea pedis, tinea corporis, jangkitan tinea, tinea unguium…"
 monitor_inn: "GRISEOFULVIN"
 predicted_indications: ["myiasis", "furuncular myiasis", "wound myiasis", "creeping myiasis", "echinococcus granulosus infectious disease"]
@@ -109,7 +109,7 @@ Sila rujuk sisipan pek produk untuk maklumat amaran dan kontraindikasi yang rasm
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan hanya berasaskan model (L5) tanpa percubaan klinikal, literatur atau mekanisme biologi yang munasabah. Rawatan sedia ada untuk miasis (pengeluaran larva, ivermektin) jelas berbeza daripada tindakan antikulat griseofulvin. Ubat ini juga tidak didaftarkan di Malaysia, dan profil keselamatannya (hepatotoksisiti, neutropenia, porfiria, lupus) menimbulkan kebimbangan.
+- Ramalan hanya berasaskan model (L5) tanpa percubaan klinikal, literatur atau mekanisme biologi yang munasabah. Rawatan sedia ada untuk miasis (pengeluaran larva, ivermektin) jelas berbeza daripada tindakan antikulat griseofulvin. Profil keselamatannya (hepatotoksisiti, neutropenia, porfiria, lupus) menimbulkan kebimbangan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pek NPRA mengenai amaran dan kontraindikasi (jurang data yang menghalang)

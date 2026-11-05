@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 694
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "TRANEXAMIC ACID"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Tranexamic Acid: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **amenorea**, tetapi buat masa 
 | Indikasi Baharu yang Diramalkan | Amenorea (amenorrhea (disease)) |
 | Skor Ramalan TxGNN | 0.9919 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
-| Bilangan Pendaftaran | 10 (sah: 10) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 12) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---

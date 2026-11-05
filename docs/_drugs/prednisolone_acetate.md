@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Prednisolone acetate"
 predicted_indications: ["serous conjunctivitis except viral", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "conjunctival folliculosis", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "vernal conjunctivitis", "postinfectious vasculitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Prednisolone Acetate: indikasi baharu diramal Serous conjunctivitis except viral (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ Untuk ramalan teratas ini, **tiada satu pun ujian klinikal atau penerbitan** yan
 | Indikasi Baharu yang Diramalkan | Serous conjunctivitis except viral |
 | Skor Ramalan TxGNN | 0.9974 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
-| Bilangan Pendaftaran | 6 (sah: 6) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
 | Bilangan Kelulusan | 6 pendaftaran (4 produk tunggal, 2 produk kombinasi) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

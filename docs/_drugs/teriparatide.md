@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 675
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Teriparatide: indikasi baharu diramal Ulser duodenum (tahap bukti L5). Indikasi asal: Osteoporosis pascamenopaus (osteoporosis)"
 monitor_inn: "TERIPARATIDE"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
@@ -107,7 +107,7 @@ Untuk amaran utama dan kontraindikasi daripada label produk, sila rujuk sisipan 
 **Keputusan: Hold (Tangguh)**
 
 **Justifikasi:**
-- Tiada ujian klinikal, tiada literatur dan tiada kaitan mekanisme yang munasabah menyokong penggunaan teriparatide untuk ulser duodenum. Ubat ini juga tidak berdaftar di Malaysia, jadi ramalan ini tidak wajar diteruskan pada peringkat ini.
+- Tiada ujian klinikal, tiada literatur dan tiada kaitan mekanisme yang munasabah menyokong penggunaan teriparatide untuk ulser duodenum.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Hipotesis mekanisme yang jelas yang menghubungkan isyarat PTH1R/PTH2R dengan patologi ulser duodenum, disokong oleh kajian praklinikal.

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 84
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "APIXABAN"
 predicted_indications: ["migraine disorder"]
 description: "Apixaban: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -48,8 +48,8 @@ Apixaban ialah antikoagulan oral yang merencat faktor Xa secara langsung. Model 
 | Indikasi Baharu yang Diramalkan | Migrain (migraine disorder) |
 | Skor Ramalan TxGNN | 0.9902 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 25 daripada 25) |
-| Bilangan Pendaftaran | 25 (sah: 25) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 32 daripada 32) |
+| Bilangan Pendaftaran | 32 (sah: 32) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?

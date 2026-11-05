@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 598
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Pretomanid: indikasi baharu diramal Kandidiasis (tahap bukti L5). Indikasi asal: Tiada data lesen NPRA (literatur menunjukkan penggunaan dalam TB rint…"
 monitor_inn: "PRETOMANID"
 predicted_indications: ["candidiasis", "leprosy", "coronary artery disease", "myocardial ischemia", "anomalous left coronary artery from the pulmonary artery"]
@@ -52,8 +52,8 @@ Pretomanid ialah ubat antimikobakteria daripada kelas nitroimidazooksazin, yang 
 | Indikasi Baharu yang Diramalkan | Kandidiasis |
 | Skor Ramalan TxGNN | 0.9969 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
-| Bilangan Pendaftaran | 1 (sah: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -111,7 +111,7 @@ Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan bungkusan.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan kandidiasis hanya berasaskan model (L5), tanpa percubaan klinikal, literatur, atau hubungan mekanistik yang munasabah. Ubat ini juga tidak berdaftar di Malaysia.
+- Ramalan kandidiasis hanya berasaskan model (L5), tanpa percubaan klinikal, literatur, atau hubungan mekanistik yang munasabah.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data in vitro atau praklinikal yang menunjukkan aktiviti antikulat pretomanid terhadap *Candida*

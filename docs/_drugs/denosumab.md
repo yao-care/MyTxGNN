@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 263
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Denosumab: indikasi baharu diramal Retinopati diabetik non-proliferatif teruk (tahap bukti L5). Indikasi asal: Osteoporosis, osteoporosis pascamenopaus, osteoporosis akibat ubat"
 monitor_inn: "DENOSUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada kajian langsung** 
 | Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold |
 
-Nota: Indikasi asal di atas diambil daripada pangkalan pengetahuan TxGNN, bukan daripada teks label NPRA, kerana tiada lesen berdaftar di Malaysia.
+Nota: Indikasi asal di atas diambil daripada pangkalan pengetahuan TxGNN, bukan daripada teks label NPRA.
 
 ---
 
@@ -106,11 +106,11 @@ Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur langsung mengenai retina. Denosumab juga tidak berdaftar di Malaysia, dan data keselamatan peringkat label belum tersedia.
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur langsung mengenai retina. Data keselamatan peringkat label belum tersedia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci bagi denosumab
-- Sisipan pakej dan maklumat amaran/kontraindikasi yang disahkan (belum ada kerana tiada pendaftaran NPRA)
+- Sisipan pakej dan maklumat amaran/kontraindikasi yang disahkan
 - Kajian praklinikal atau pemerhatian yang secara khusus menilai hasil retinopati diabetik dengan denosumab
 - Semakan teks penuh PMID 38899553 untuk mengesahkan sama ada data retinopati dilaporkan
 - Penilaian kebolehlaksanaan laluan pentadbiran untuk indikasi mata (status keserasian laluan masih belum ditentukan)

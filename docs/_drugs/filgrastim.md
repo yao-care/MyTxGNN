@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 357
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Filgrastim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
 description: "Filgrastim: indikasi baharu diramal Primary release disorder of platelets (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -105,7 +105,6 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -131,7 +130,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data MOA terperinci (contohnya melalui DrugBank) untuk menilai hubungan mekanistik
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA bagi penilaian keselamatan
-- Data indikasi asal dan status pendaftaran tempatan (kini tiada lesen direkodkan)
+- Data indikasi asal dan status pendaftaran tempatan
 - Kajian praklinikal atau literatur yang menyokong peranan G-CSF dalam gangguan fungsi platelet
 - Penilaian keserasian laluan pentadbiran dan persamaan dengan indikasi asal (kini belum ditentukan)
 ## Penafian

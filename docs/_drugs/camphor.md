@@ -5,8 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 189
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
-description: "Camphor: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tiada data (tiada lesen NPRA direkodkan)"
+last_modified_at: 2026-11-06
+description: "Camphor: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tiada data"
 monitor_inn: "Camphor"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
 ---
@@ -48,12 +48,12 @@ tetapi setakat ini **tiada ujian klinikal** didaftarkan dan hanya terdapat **3 p
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen NPRA direkodkan) |
+| Indikasi Asal | Tiada data |
 | Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder) |
 | Skor Ramalan TxGNN | 0.9985 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 290 daripada 290) |
-| Bilangan Pendaftaran | 290 (sah: 290) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 291 daripada 298) |
+| Bilangan Pendaftaran | 298 (sah: 291) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---
@@ -101,7 +101,7 @@ Sebagai catatan, laporan kes yang ditemui menunjukkan minyak pati pro-konvulsan,
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Bukti setakat ini terhad kepada satu kajian praklinikal pada haiwan dan laporan kes yang tidak langsung (malah mencadangkan potensi pencetus sakit kepala). Tiada ujian klinikal, dan produk ini tidak mempunyai pendaftaran di Malaysia. Penemuan ini lebih sesuai dianggap sebagai soalan penyelidikan.
+- Bukti setakat ini terhad kepada satu kajian praklinikal pada haiwan dan laporan kes yang tidak langsung (malah mencadangkan potensi pencetus sakit kepala). Tiada ujian klinikal. Penemuan ini lebih sesuai dianggap sebagai soalan penyelidikan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data keselamatan lengkap daripada sisipan pek NPRA (amaran dan kontraindikasi)

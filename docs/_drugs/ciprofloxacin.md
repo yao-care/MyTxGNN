@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ciprofloxacin"
 predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Ciprofloxacin: indikasi baharu diramal Sklerosis sistemik meresap (diffuse scleroderma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ tetapi setakat ini **tiada ujian klinikal berdaftar** dan hanya **2 penerbitan**
 | Indikasi Baharu yang Diramalkan | Sklerosis sistemik meresap (diffuse scleroderma) |
 | Skor Ramalan TxGNN | 0.9987 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 42 daripada 42) |
-| Bilangan Pendaftaran | 42 (sah: 42) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 41 daripada 42) |
+| Bilangan Pendaftaran | 42 (sah: 41) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?

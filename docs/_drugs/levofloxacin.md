@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 456
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
 description: "Levofloxacin: indikasi baharu diramal Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -48,8 +48,8 @@ Levofloxacin ialah antibiotik fluorokuinolon spektrum luas. Model TxGNN meramalk
 | Indikasi Baharu yang Diramalkan | Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) |
 | Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 19 daripada 19) |
-| Bilangan Pendaftaran | 19 (sah: 19) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 18 daripada 20) |
+| Bilangan Pendaftaran | 20 (sah: 18) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -70,7 +70,7 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-Levofloxacin berstatus **dipasarkan** di Malaysia, dengan 19 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 730
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "ZANAMIVIR"
 predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
 description: "Zanamivir: indikasi baharu diramal Pyelonephritis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ tetapi pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang men
 | Indikasi Baharu yang Diramalkan | Pyelonephritis |
 | Skor Ramalan TxGNN | 0.9984 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
-| Bilangan Pendaftaran | 1 (sah: 1) |
+| Status Pasaran di Malaysia | Tidak dipasarkan (pendaftaran dibatalkan: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 0) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -64,7 +64,7 @@ Data terperinci tentang mekanisme tindakan (MOA) zanamivir tidak tersedia dalam 
 
 Pyelonephritis pula ialah jangkitan **bakteria** pada buah pinggang, lazimnya disebabkan oleh *Escherichia coli* uropatogenik. Tiada kaitan mekanistik yang kukuh dapat dikenal pasti. Walaupun bakteria juga mempunyai sialidase, tiada data menunjukkan zanamivir merencatnya pada kepekatan yang bermakna secara klinikal, dan tiada bukti kesan antibakteria di saluran kencing.
 
-Skor TxGNN yang sangat tinggi (0.9984) ialah ramalan berasaskan model semata-mata. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Selain itu, ubat ini dipasarkan di Malaysia (1 lesen sah daripada 1), tetapi ketiadaan data MOA menghadkan kebolehlaksanaan.
+Skor TxGNN yang sangat tinggi (0.9984) ialah ramalan berasaskan model semata-mata. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Selain itu, ketiadaan data MOA menghadkan kebolehlaksanaan.
 
 ---
 
@@ -81,7 +81,6 @@ Pada masa ini tiada literatur berkaitan untuk indikasi pyelonephritis.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 

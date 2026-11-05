@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 613
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "RANITIDINE"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 description: "Ranitidine: indikasi baharu diramal Perforasi ulser peptik (peptic ulcer perforation) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -48,8 +48,8 @@ Ranitidine ialah antagonis reseptor histamin H2 yang menurunkan rembesan asid ga
 | Indikasi Baharu yang Diramalkan | Perforasi ulser peptik (peptic ulcer perforation) |
 | Skor Ramalan TxGNN | 0.9988 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
-| Bilangan Pendaftaran | 6 (sah: 6) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 5) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -79,7 +79,7 @@ Literatur yang ditemui berkaitan secara tidak langsung. Tiada satu pun menguji r
 
 ## Maklumat Pasaran di Malaysia
 
-Status pasaran ialah **dipasarkan**, dengan 6 lesen sah dan tiada lesen dibatalkan. Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 

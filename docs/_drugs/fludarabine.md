@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 361
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Fludarabine"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
 description: "Fludarabine: indikasi baharu diramal Plasma cell myeloma (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -38,7 +38,7 @@ Tahap bukti: **L1** | Indikasi diramal: **10**
 
 ## Ringkasan Satu Ayat
 
-Data indikasi asal Fludarabine tidak tersedia dalam data yang dikompilasi untuk laporan ini kerana tiada lesen NPRA direkodkan. Secara umum, ia ialah analog nukleosida purina yang digunakan dalam keganasan hematologi.
+Data indikasi asal Fludarabine tidak tersedia dalam data yang dikompilasi untuk laporan ini. Secara umum, ia ialah analog nukleosida purina yang digunakan dalam keganasan hematologi.
 Model TxGNN meramalkan ia mungkin berkesan untuk **Plasma Cell Myeloma** (multipel mieloma), dengan **30 percubaan klinikal** dan **20 penerbitan** dikaitkan dengan hala tuju ini. Peranannya terutamanya sokongan (lymphodepletion dan penyaman pemindahan), bukan terapi anti-mieloma kendiri.
 
 ---
@@ -104,7 +104,6 @@ Berikut ialah 10 percubaan yang paling relevan (daripada 30 yang direkodkan). Fl
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 

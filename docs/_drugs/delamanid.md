@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 262
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "DELAMANID"
 predicted_indications: ["allergic urticaria"]
 description: "Delamanid: indikasi baharu diramal Allergic urticaria (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -92,7 +92,7 @@ Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan untuk indikasi i
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data kerentanan in vitro (MIC) delamanid terhadap isolat klinikal *M. bovis*
 - Data mekanisme tindakan (MOA) yang terperinci
-- Maklumat keselamatan daripada sisipan pek produk, kerana delamanid tidak berdaftar di Malaysia dan tiada lesen tempatan
+- Maklumat keselamatan daripada sisipan pek produk
 - Penilaian pendaftaran atau laluan akses khas jika ubat ini ingin digunakan di Malaysia
 
 ---

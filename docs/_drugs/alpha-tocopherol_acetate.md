@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "alpha-Tocopherol acetate"
 predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "tetanic cataract", "mature cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "cortical cataract", "nuclear senile cataract", "diabetic retinopathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Alpha-Tocopherol Acetate: indikasi baharu diramal Osteoporosis teraruh ubat (tahap bukti L5). Indikasi asal: Tiada teks indikasi yang diluluskan dalam data pendaftaran tempatan"
 ---
 
@@ -52,8 +52,8 @@ Sokongan paling hampir ialah 3 kajian praklinikal untuk **katarak diabetik** dan
 | Indikasi Baharu yang Diramalkan | Osteoporosis teraruh ubat |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
-| Bilangan Pendaftaran | 5 (sah: 5) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 6) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---

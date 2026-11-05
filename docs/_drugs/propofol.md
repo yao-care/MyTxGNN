@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 604
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "PROPOFOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
 description: "Propofol: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ dengan **3 percubaan klinikal** dan **20 penerbitan** yang menyokong arah ini.
 | Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder) |
 | Skor Ramalan TxGNN | 0.9969 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
-| Bilangan Pendaftaran | 8 (sah: 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---

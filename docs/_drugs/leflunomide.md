@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 449
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "LEFLUNOMIDE"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Leflunomide: indikasi baharu diramal Brachydactyly-syndactyly syndrome (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -84,7 +84,7 @@ Pada masa ini tiada literatur berkaitan.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur, tiada hubungan mekanistik yang dapat ditunjukkan, dan sifat teratogenik leflunomide menimbulkan kebimbangan keselamatan yang besar untuk penyakit kongenital ini. Ubat ini juga tidak berdaftar di Malaysia.
+- Ramalan hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur, tiada hubungan mekanistik yang dapat ditunjukkan, dan sifat teratogenik leflunomide menimbulkan kebimbangan keselamatan yang besar untuk penyakit kongenital ini.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank

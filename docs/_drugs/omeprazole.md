@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Omeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Omeprazole: indikasi baharu diramal Sekatan duodenum (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan"
 ---
 
@@ -50,8 +50,8 @@ Setakat ini terdapat **1 ujian klinikal** (relevansi rendah) dan **5 penerbitan*
 | Indikasi Baharu yang Diramalkan | Sekatan duodenum |
 | Skor Ramalan TxGNN | 0.9964 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 45 daripada 45) |
-| Bilangan Pendaftaran | 45 (sah: 45) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 46 daripada 46) |
+| Bilangan Pendaftaran | 46 (sah: 46) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

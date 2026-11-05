@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Adalimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Adalimumab: indikasi baharu diramal Hipermobiliti tulang ekor (hypermobility of coccyx) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ Adalimumab ialah antibodi monoklonal yang menyekat TNF-α dan digunakan untuk pe
 | Indikasi Baharu yang Diramalkan | Hipermobiliti tulang ekor (hypermobility of coccyx) |
 | Skor Ramalan TxGNN | 0,9977 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
-| Bilangan Pendaftaran | 12 (sah: 12) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 13) |
+| Bilangan Pendaftaran | 13 (sah: 10) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "CITRIC ACID"
 predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Citric Acid: indikasi baharu diramal Penyakit perut (stomach disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ tetapi **tiada percubaan klinikal** didaftarkan dan tiada kajian yang menilai ke
 | Indikasi Baharu yang Diramalkan | Penyakit perut (stomach disease) |
 | Skor Ramalan TxGNN | 0,9974 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 27 daripada 27) |
-| Bilangan Pendaftaran | 27 (sah: 27) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 29 daripada 29) |
+| Bilangan Pendaftaran | 29 (sah: 29) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

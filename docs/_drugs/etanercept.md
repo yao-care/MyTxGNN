@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 338
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "ETANERCEPT"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
 description: "Etanercept: indikasi baharu diramal Hypermobility of coccyx (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -115,7 +115,7 @@ Sila rujuk sisipan pek (package insert) untuk maklumat amaran dan kontraindikasi
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Sokongan hanya berasal daripada skor ramalan model dan rasional mekanistik; tiada ujian klinikal langsung. Literatur menunjukkan etanercept juga boleh mencetuskan vaskulitis, jadi arah kesan tidak pasti. Selain itu, produk ini tidak berdaftar di Malaysia.
+- Sokongan hanya berasal daripada skor ramalan model dan rasional mekanistik; tiada ujian klinikal langsung. Literatur menunjukkan etanercept juga boleh mencetuskan vaskulitis, jadi arah kesan tidak pasti.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank.

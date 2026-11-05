@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Cefoperazone"
 predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "gout", "bronchitis", "meningococcal infection", "infectious otitis media", "IgG4-related sclerosing cholangitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Cefoperazone: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang mengka
 | Indikasi Baharu yang Diramalkan | Kolangitis sklerosis (sclerosing cholangitis) |
 | Skor Ramalan TxGNN | 0,9998 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
-| Bilangan Pendaftaran | 8 (sah: 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

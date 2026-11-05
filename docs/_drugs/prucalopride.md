@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 608
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Prucalopride: indikasi baharu diramal Hipoalfalipoproteinemia (tahap bukti L5). Indikasi asal: Tiada data pendaftaran tempatan"
 monitor_inn: "Prucalopride"
 predicted_indications: ["hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "duodenal ulcer (disease)", "oral candidiasis", "obsolete familial combined hyperlipidemia", "amyloidosis (disease)", "strongyloidiasis", "HIV infectious disease", "primary amyloidosis", "acquired amyloid peripheral neuropathy"]
@@ -106,7 +106,7 @@ Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pembungkusan.
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan hipoalfalipoproteinemia hanya berasaskan model (L5), tanpa ujian klinikal, tanpa literatur dan tanpa pautan mekanistik yang munasabah. Ubat ini juga tidak berdaftar di Malaysia.
+- Ramalan hipoalfalipoproteinemia hanya berasaskan model (L5), tanpa ujian klinikal, tanpa literatur dan tanpa pautan mekanistik yang munasabah.
 - Antara semua ramalan, hanya amiloidosis dan amiloidosis primer (L4) mempunyai rasional tidak langsung untuk kawalan simptom dismotiliti. Ini lebih sesuai dianggap sebagai soalan penyelidikan, bukan calon pengubahsuaian penyakit.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

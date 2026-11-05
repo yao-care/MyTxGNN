@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 274
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "DEXPANTHENOL"
 predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "exanthem (disease)", "punctate epithelial keratoconjunctivitis"]
 description: "Dexpanthenol: indikasi baharu diramal Anorectal stricture (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -98,7 +98,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap, kerana amaran 
 **Keputusan: Hold (Tahan), sebagai Soalan Penyelidikan**
 
 **Rasional:**
-- Hanya terdapat satu percubaan Fasa 3 yang menyokong secara tidak langsung (pencegahan ruam akibat perencat EGFR, dengan keputusan tidak diketahui), dan tiada literatur. Ubat ini juga tidak didaftarkan di Malaysia. Bukti belum mencukupi untuk menaikkan tahap melebihi L4.
+- Hanya terdapat satu percubaan Fasa 3 yang menyokong secara tidak langsung (pencegahan ruam akibat perencat EGFR, dengan keputusan tidak diketahui), dan tiada literatur. Bukti belum mencukupi untuk menaikkan tahap melebihi L4.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Semakan rekod penuh NCT01136005 untuk mengesahkan titik akhir, populasi dan keputusan

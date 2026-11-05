@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Magnesium Hydroxide"
 predicted_indications: ["stomach disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Magnesium Hydroxide: indikasi baharu diramal Penyakit perut (tahap bukti L5). Indikasi asal: Penyakit ulser peptik, penyakit refluks gastroesofagus, esofagitis…"
 ---
 
@@ -50,8 +50,8 @@ Magnesium hydroxide ialah antasid beralkali. Dalam graf pengetahuan, ubat ini di
 | Indikasi Baharu yang Diramalkan | Penyakit perut |
 | Skor Ramalan TxGNN | 0.9923 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 41 daripada 41) |
-| Bilangan Pendaftaran | 41 (sah: 41) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 46 daripada 46) |
+| Bilangan Pendaftaran | 46 (sah: 46) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---

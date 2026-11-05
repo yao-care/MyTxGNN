@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 236
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "CLONAZEPAM"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
 description: "Clonazepam: indikasi baharu diramal Sindrom kaki resah (restless legs syndrome) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -90,8 +90,6 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 ---
 
 ## Maklumat Pasaran Malaysia
-
-Clonazepam pada masa ini tidak mempunyai produk berdaftar yang dikenal pasti dalam data yang dikumpulkan (jumlah pendaftaran: 0).
 
 ---
 

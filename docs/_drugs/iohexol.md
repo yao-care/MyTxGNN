@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 425
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Iohexol: indikasi baharu diramal Insomnia (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan yang tersedia daripada data tempatan (…"
 monitor_inn: "IOHEXOL"
 predicted_indications: ["insomnia (disease)", "anxiety"]
@@ -117,7 +117,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 - Data mekanisme tindakan (MOA) daripada DrugBank
 - Bukti praklinikal atau mekanistik yang menunjukkan aktiviti pada sasaran tidur
 - Pengesahan laluan pentadbiran yang serasi (iohexol ialah agen kontras, bukan ubat tidur oral)
-- Status pendaftaran tempatan, kerana iohexol tidak mempunyai lesen berdaftar dalam data yang dikumpulkan
+- Status pendaftaran tempatan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

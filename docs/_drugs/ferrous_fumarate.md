@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ferrous Fumarate"
 predicted_indications: ["non-syndromic esophageal malformation"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ferrous Fumarate: indikasi baharu diramal Malformasi esofagus bukan sindromik (non-syndromic esophageal malformation) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Ferrous fumarate ialah suplemen zat besi oral yang digunakan untuk membetulkan k
 | Indikasi Baharu yang Diramalkan | Malformasi esofagus bukan sindromik (non-syndromic esophageal malformation) |
 | Skor Ramalan TxGNN | 0.9949 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 152 daripada 152) |
-| Bilangan Pendaftaran | 152 (sah: 152) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 165 daripada 170) |
+| Bilangan Pendaftaran | 170 (sah: 165) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

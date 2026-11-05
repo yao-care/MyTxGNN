@@ -5,8 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 615
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
-description: "Ravulizumab: indikasi baharu diramal Neutropenia kongenital teruk autosomal resesif akibat kekurangan G6PC3 (tahap bukti L5). Indikasi asal: Tiada rekod (tiada lesen berdaftar di Malaysia)"
+last_modified_at: 2026-11-06
+description: "Ravulizumab: indikasi baharu diramal Neutropenia kongenital teruk autosomal resesif akibat kekurangan G6PC3 (tahap bukti L5). Indikasi asal: Tiada rekod"
 monitor_inn: "Ravulizumab"
 predicted_indications: ["autosomal recessive severe congenital neutropenia due to G6PC3 deficiency", "cyclic hematopoiesis", "primary hyperoxaluria", "severe congenital neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "pseudo-von Willebrand disease", "X-linked severe congenital neutropenia", "primary release disorder of platelets", "megaloblastic anemia (disease)"]
 ---
@@ -48,7 +48,7 @@ namun **tiada sebarang ujian klinikal** dan **tiada penerbitan** yang menyokong 
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada rekod (tiada lesen berdaftar di Malaysia) |
+| Indikasi Asal | Tiada rekod |
 | Indikasi Baharu yang Diramalkan | Neutropenia kongenital teruk autosomal resesif akibat kekurangan G6PC3 |
 | Skor Ramalan TxGNN | 0.9996 |
 | Tahap Bukti | L5 |
@@ -84,8 +84,6 @@ Sembilan ramalan lain turut diperoleh. Kesemuanya berada pada tahap bukti L5, ta
 
 ## Maklumat Pasaran Malaysia
 
-Ravulizumab tidak mempunyai sebarang lesen berdaftar di Malaysia (jumlah pendaftaran: 0), maka tiada produk untuk disenaraikan.
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -112,7 +110,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah pek (package insert).
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Semua ramalan hanya berada pada tahap bukti L5 (ramalan model sahaja) tanpa ujian klinikal atau literatur, dan tiada kaitan mekanistik yang munasabah antara perencatan C5 dengan penyakit-penyakit tersebut. Ubat ini juga tidak berdaftar di Malaysia, dan data keselamatan labelnya belum lengkap.
+- Semua ramalan hanya berada pada tahap bukti L5 (ramalan model sahaja) tanpa ujian klinikal atau literatur, dan tiada kaitan mekanistik yang munasabah antara perencatan C5 dengan penyakit-penyakit tersebut. Data keselamatan labelnya belum lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada risalah pek NPRA (jurang data yang menyekat saringan keselamatan)

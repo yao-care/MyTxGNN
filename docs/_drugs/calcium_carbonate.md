@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 184
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Calcium Carbonate: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Model TxGNN tidak mempunyai sebarang calon dengan skor 0.99 atau lebih tinggi un
 | Indikasi baharu yang diramalkan | Tiada (tiada calon model dengan skor 0.99 atau lebih tinggi) |
 | Kegunaan diketahui yang direkodkan untuk ubat ini | 10 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 346 daripada 348) |
-| Bilangan Pendaftaran | 348 (sah: 346) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 367 daripada 378) |
+| Bilangan Pendaftaran | 378 (sah: 367) |
 
 ## Kegunaan diketahui yang direkodkan untuk ubat ini
 
@@ -83,18 +83,18 @@ Model TxGNN tidak mempunyai sebarang calon dengan skor 0.99 atau lebih tinggi un
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|
 | MAL21036069NC | Excelife ExcelGold Effervescent Tablet |  | Sah |
-| MAL16035033N | EPOCALDI Softgel Capsule |  | Sah |
+| MAL16035033N | EPOCALDI Softgel Capsule |  | Dibatalkan Pendaftaran |
 | MAL21046075NC | Janipro ATOZ Multivitamin-Multimineral Lutein & Lycopene Plu |  | Sah |
 | MAL11040029XC | Melaleuca CELWISE |  | Dibatalkan Pendaftaran |
-| MAL16055022N | MRT CALMAG TABLET |  | Sah |
-| MAL06051375X | NUTRILITE DOUBLE X MULTIVITAMIN, TABLET |  | Sah |
-| MAL06061372X | Cal-Mag & D Plus |  | Sah |
-| MAL06061351X | NUTRILITE DOUBLE X MULTIMINERAL, TABLET |  | Sah |
+| MAL16055022N | MRT CALMAG TABLET |  | Dibatalkan Pendaftaran |
+| MAL06051375X | NUTRILITE DOUBLE X MULTIVITAMIN, TABLET |  | Dibatalkan Pendaftaran |
+| MAL06061372X | Cal-Mag & D Plus |  | Dibatalkan Pendaftaran |
+| MAL06061351X | NUTRILITE DOUBLE X MULTIMINERAL, TABLET |  | Dibatalkan Pendaftaran |
 | MAL21076099N | Redoxon C + Calcium + D + B6 Effervescent Tablet (Orange Fla |  | Sah |
 | MAL21076054NC | Nutribridge Calcium Plus Vitamin D3 & K2 Tablet |  | Sah |
 | MAL21076043NCR | Eldon Nutrition FLEXICAL Tablet |  | Sah |
-| MAL21076058NC | PowerLIFE Bonvital Essential Forte Caplet |  | Sah |
-| MAL16075002NC | Kordel's Sea Mineral Complex Tablets |  | Sah |
+| MAL21076058NC | PowerLIFE Bonvital Essential Forte Caplet |  | Dibatalkan Pendaftaran |
+| MAL16075002NC | Kordel's Sea Mineral Complex Tablets |  | Dibatalkan Pendaftaran |
 | MAL11075012NC | Herbalife Calcium Plus  Tablet |  | Sah |
 | MAL11070021XC | Melaleuca Oligo VFL Calcium Complex |  | Sah |
 | MAL06071111X | Live-well OSTECAL PLUS Tablet |  | Sah |

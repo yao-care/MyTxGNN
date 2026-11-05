@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Fenofibrate"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Fenofibrate: indikasi baharu diramal Kekurangan protein pemindahan ester kolesterol (CETP deficiency) (tahap bukti L5). Indikasi asal: Hipertrigliseridemia dan hiperlipidemia (hubungan yang direkodka…"
 ---
 
@@ -50,8 +50,8 @@ Fenofibrate ialah agonis PPAR-alfa yang pada asalnya direkodkan dalam graf penge
 | Indikasi Baharu yang Diramalkan | Kekurangan protein pemindahan ester kolesterol (CETP deficiency) |
 | Skor Ramalan TxGNN | 0.9961 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 13 daripada 13) |
-| Bilangan Pendaftaran | 13 (sah: 13) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
+| Bilangan Pendaftaran | 14 (sah: 14) |
 | Bilangan Kelulusan | 13 pendaftaran (10 produk tunggal, 3 produk gabungan) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CARFILZOMIB"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Carfilzomib: indikasi baharu diramal CMM7 (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ Carfilzomib ialah perencat proteasom yang tidak boleh balik (irreversible). Mode
 | Indikasi Baharu yang Diramalkan | CMM7 (CMM7) |
 | Skor Ramalan TxGNN | 0,9937 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
-| Bilangan Pendaftaran | 2 (sah: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---

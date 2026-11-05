@@ -11,7 +11,7 @@ brands: []
 permalink: /drugs/sitagliptin/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 33 daripada 33) |
-| Bilangan Pendaftaran | 33 (sah: 33) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 45 daripada 45) |
+| Bilangan Pendaftaran | 45 (sah: 45) |
 | **Nama Ubat** | Sitagliptin |
 | **ID DrugBank** | [DB01261](https://go.drugbank.com/drugs/DB01261) |
 | **Ramalan DL (≥0.7)** | 12 |

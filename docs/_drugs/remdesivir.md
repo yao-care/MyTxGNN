@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 616
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "REMDESIVIR"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
 description: "Remdesivir: indikasi baharu diramal Multiple endocrine neoplasia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -80,8 +80,6 @@ Pada masa ini tiada literatur berkaitan tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
-
-Remdesivir tidak mempunyai pendaftaran NPRA yang direkodkan (jumlah lesen: 0), maka tiada jadual pendaftaran dipaparkan.
 
 ---
 

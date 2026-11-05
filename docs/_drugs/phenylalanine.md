@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 571
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "PHENYLALANINE"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
 description: "Phenylalanine: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,8 +51,8 @@ tetapi setakat ini terdapat **0 ujian klinikal** dan hanya **3 penerbitan** yang
 | Indikasi Baharu yang Diramalkan | Kolangitis sklerosis (sclerosing cholangitis) |
 | Skor Ramalan TxGNN | 0.9943 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 35 daripada 35) |
-| Bilangan Pendaftaran | 35 (sah: 35) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 34 daripada 38) |
+| Bilangan Pendaftaran | 38 (sah: 34) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---

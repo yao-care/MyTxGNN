@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Doxorubicin: indikasi baharu diramal Sarkoma Ewing (Ewing sarcoma) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data lesen tempatan (teks petunjuk kosong)"
 ---
 
@@ -52,8 +52,8 @@ Doxorubicin sudah menjadi komponen regimen kemoterapi piawai sarkoma Ewing, jadi
 | Petunjuk Baharu yang Diramalkan | Sarkoma Ewing (Ewing sarcoma) |
 | Skor Ramalan TxGNN | 0.9990 |
 | Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
-| Bilangan Pendaftaran | 8 (sah: 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 7) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Pagar Pengadang) |
 
 ---
@@ -110,7 +110,7 @@ Terdapat 20 penerbitan berkaitan. Jadual di bawah menyenaraikan 10 yang paling r
 
 ## Maklumat Pasaran di Malaysia
 
-Terdapat 8 pendaftaran produk doxorubicin yang sah di Malaysia, semuanya produk bahan tunggal. Jadual menyenaraikan 5 yang utama. Teks petunjuk dan bentuk dos tidak direkodkan dalam data lesen, maka lajur tersebut tidak dipaparkan.
+Jadual menyenaraikan 5 yang utama. Teks petunjuk dan bentuk dos tidak direkodkan dalam data lesen, maka lajur tersebut tidak dipaparkan.
 
 | Nombor Kebenaran | Nama Produk | Pengeluar |
 |---------|------|------|

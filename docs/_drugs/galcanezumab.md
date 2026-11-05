@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 379
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Galcanezumab: indikasi baharu diramal Kekurangan kofaktor heparin 2 (tahap bukti L5). Indikasi asal: Gangguan migrain (migrain dengan atau tanpa aura)"
 monitor_inn: "GALCANEZUMAB"
 predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
@@ -99,7 +99,7 @@ Untuk pesakit dengan kecenderungan trombosis, laluan CGRP mempunyai peranan vask
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan ini berada pada tahap bukti L5 (model sahaja) tanpa sebarang percubaan klinikal atau literatur. Tiada hubungan mekanistik yang boleh dipercayai antara perencatan CGRP dan kekurangan kofaktor heparin 2. Selain itu, ubat ini tidak berdaftar di Malaysia.
+- Ramalan ini berada pada tahap bukti L5 (model sahaja) tanpa sebarang percubaan klinikal atau literatur. Tiada hubungan mekanistik yang boleh dipercayai antara perencatan CGRP dan kekurangan kofaktor heparin 2.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank

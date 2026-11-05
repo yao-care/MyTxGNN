@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Pitavastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Pitavastatin: indikasi baharu diramal kekurangan protein pemindahan ester kolesterol (cholesterol-ester transfer protein deficiency) (tahap bukti L5). Indikasi asal: Tidak tersedia (teks indikasi lulus tiada dalam rekod pelesenan tempa…"
 ---
 
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan protein pemindahan
 | Indikasi Baharu yang Diramalkan | Kekurangan protein pemindahan ester kolesterol (CETP) |
 | Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
-| Bilangan Pendaftaran | 3 (sah: 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---

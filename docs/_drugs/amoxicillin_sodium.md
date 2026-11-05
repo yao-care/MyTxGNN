@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 68
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Sehingga jurang-jurang ini ditangani, tiada tahap bukti yang boleh diberikan dan
 | Indikasi Baru yang Diramalkan | Tiada — tiada ramalan dihasilkan |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | T/A — di bawah L5 (tiada ramalan dihasilkan) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
-| Bilangan Pendaftaran | 5 (sah: 5) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 4) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 658
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "SPIRONOLACTONE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 description: "Spironolactone: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -85,7 +85,7 @@ Maklumat amaran dan kontraindikasi daripada sisipan pakej belum diperoleh. Sila 
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur. Asas biologi juga lemah kerana hipotrikosis simpleks kulit kepala ialah gangguan genetik yang tidak didorong oleh androgen. Produk ini juga tidak didaftarkan di Malaysia.
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur. Asas biologi juga lemah kerana hipotrikosis simpleks kulit kepala ialah gangguan genetik yang tidak didorong oleh androgen.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank.

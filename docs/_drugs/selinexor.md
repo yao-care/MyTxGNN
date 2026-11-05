@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 639
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "SELINEXOR"
 predicted_indications: ["drug-induced osteoporosis"]
 description: "Selinexor: indikasi baharu diramal Osteoporosis teraruh ubat (drug-induced osteoporosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -81,7 +81,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Sitotoksisiti
@@ -120,7 +119,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya disokong oleh skor model (L5) tanpa sebarang ujian klinikal atau literatur, dan ubat ini tidak didaftarkan di Malaysia. Profil ketoksikan ubat antineoplastik ini kurang sesuai untuk penunjuk kronik seperti osteoporosis.
+- Ramalan ini hanya disokong oleh skor model (L5) tanpa sebarang ujian klinikal atau literatur. Profil ketoksikan ubat antineoplastik ini kurang sesuai untuk penunjuk kronik seperti osteoporosis.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) daripada DrugBank bagi menilai kaitan mekanistik

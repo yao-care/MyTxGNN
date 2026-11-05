@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 409
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "ILOPROST"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
 description: "Iloprost: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -112,7 +112,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
 - Bukti prasiklinikal atau klinikal yang menghubungkan iloprost dengan biologi folikel rambut atau hipotrikosis keturunan.
 - Penilaian keserasian laluan pentadbiran (iloprost sedia ada ialah bentuk disedut atau intravena, sedangkan keadaan ini bersifat kulit kepala).
-- Pengesahan status pendaftaran iloprost di Malaysia, kerana tiada lesen berdaftar direkodkan.
+- Pengesahan status pendaftaran iloprost di Malaysia.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

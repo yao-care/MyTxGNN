@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Olanzapine: indikasi baharu diramal Benign paroxysmal torticollis of infancy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **agorafobia**, tetapi setakat 
 | Indikasi Baharu yang Diramalkan | Benign paroxysmal torticollis of infancy |
 | Skor Ramalan TxGNN | 0.9954 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 34 daripada 34) |
-| Bilangan Pendaftaran | 34 (sah: 34) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 32 daripada 34) |
+| Bilangan Pendaftaran | 34 (sah: 32) |
 | Bilangan Kelulusan | 34 lesen pendaftaran (semuanya produk bahan tunggal yang sah) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
@@ -89,7 +89,7 @@ Tiada satu pun daripada penerbitan ini mengkaji agorafobia sebagai penyakit sasa
 
 ## Maklumat Pasaran di Malaysia
 
-Terdapat 34 lesen yang sah, semuanya produk bahan tunggal. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam rekod yang dikumpulkan; senarai di bawah ialah sebahagian daripada lesen utama.
+Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam rekod yang dikumpulkan; senarai di bawah ialah sebahagian daripada lesen utama.
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|

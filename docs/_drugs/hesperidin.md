@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 399
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "HESPERIDIN"
 predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm"]
 description: "Hesperidin: indikasi baharu diramal Neoplasma mieloproliferatif (myeloproliferative neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ tetapi buat masa ini hanya **0 ujian klinikal** dan **1 penerbitan** (kajian *in
 | Indikasi Baharu yang Diramalkan | Neoplasma mieloproliferatif (myeloproliferative neoplasm) |
 | Skor Ramalan TxGNN | 0.9947 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 53 daripada 53) |
-| Bilangan Pendaftaran | 53 (sah: 53) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 53 daripada 55) |
+| Bilangan Pendaftaran | 55 (sah: 53) |
 | Keputusan Disyorkan | Hold |
 
 ---

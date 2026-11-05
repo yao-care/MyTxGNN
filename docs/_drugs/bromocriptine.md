@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 170
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Bromocriptine"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "syndromic myopia"]
 description: "Bromocriptine: indikasi baharu diramal Congenital disorder of glycosylation with defective fucosylation (tahap bukti L5)."
@@ -71,7 +71,7 @@ Sila rujuk sisipan pembungkusan untuk amaran utama dan kontraindikasi.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau penerbitan. Bromocriptine juga tidak berdaftar di Malaysia, dan data mekanisme serta keselamatan belum lengkap.
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau penerbitan. Data mekanisme serta keselamatan belum lengkap.
 - Antara calon ramalan lain untuk ubat ini, **schizophrenia** (peringkat 9) mempunyai satu ujian klinikal Fasa 4 yang kecil dan belum merekrut (NCT03575000, n=15, tertumpu pada kesihatan metabolik). **Retinal dystrophy** (peringkat 3) mempunyai bukti tidak langsung. Satu laporan kes juga mencadangkan risiko psikosis yang dicetuskan oleh bromocriptine, jadi calon-calon ini wajar dinilai secara berasingan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

@@ -5,8 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 720
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
-description: "Vasopressin: indikasi baharu diramal Kekurangan protrombin kongenital (tahap bukti L4). Indikasi asal: Tiada data (tiada lesen NPRA berdaftar)"
+last_modified_at: 2026-11-06
+description: "Vasopressin: indikasi baharu diramal Kekurangan protrombin kongenital (tahap bukti L4). Indikasi asal: Tiada data"
 monitor_inn: "VASOPRESSIN"
 predicted_indications: ["congenital prothrombin deficiency", "drug-induced osteoporosis"]
 ---
@@ -48,7 +48,7 @@ tetapi kini hanya terdapat **0 percubaan klinikal** dan **3 penerbitan** (kebany
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen NPRA berdaftar) |
+| Indikasi Asal | Tiada data |
 | Indikasi Baharu yang Diramalkan | Kekurangan protrombin kongenital |
 | Skor Ramalan TxGNN | 0.9963 |
 | Tahap Bukti | L5 |
@@ -106,7 +106,7 @@ Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pembungkusan.
 
 **Rasional:**
 - Ramalan ini hanya disokong oleh skor model dan literatur tidak langsung mengenai desmopresin (laporan kes dan ulasan). Tiada percubaan klinikal berdaftar, dan mekanismenya tidak meningkatkan protrombin secara langsung.
-- Vasopresin tidak mempunyai pendaftaran di Malaysia, dan data keselamatan daripada sisipan pembungkusan belum tersedia.
+- Data keselamatan daripada sisipan pembungkusan belum tersedia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Muat turun dan huraikan sisipan pembungkusan NPRA untuk amaran dan kontraindikasi (halangan utama sebelum saringan keselamatan)

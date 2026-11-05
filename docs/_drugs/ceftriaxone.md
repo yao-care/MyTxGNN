@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CEFTRIAXONE"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Ceftriaxone: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -49,8 +49,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom hiperkelikatan polikl
 | Indikasi Baharu yang Diramalkan | Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) |
 | Skor Ramalan TxGNN | 0.9939 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 28 daripada 28) |
-| Bilangan Pendaftaran | 28 (sah: 28) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 26 daripada 29) |
+| Bilangan Pendaftaran | 29 (sah: 26) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?

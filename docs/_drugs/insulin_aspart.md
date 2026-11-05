@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 417
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "INSULIN ASPART"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
 description: "Insulin Aspart: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -63,7 +63,6 @@ Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang 
 
 Diabetes jenis 1 ialah keadaan kekurangan insulin mutlak akibat kemusnahan autoimun sel beta pankreas. Penggantian insulin ialah asas rawatan, dan insulin aspart lazimnya digunakan sebagai insulin bolus semasa waktu makan dalam regimen basal-bolus atau melalui pam insulin (CSII). Oleh itu, ramalan ini disokong oleh rasional farmakologi langsung.
 
-
 ---
 
 ## Bukti Ujian Klinikal
@@ -114,7 +113,7 @@ Sila rujuk sisipan pembungkusan untuk maklumat keselamatan.
 
 **Rasional:**
 - Terdapat beberapa ujian Fasa 3 yang selesai dan kajian sistematik yang menyokong penggunaan insulin aspart dalam diabetes jenis 1, dan ia merupakan penggunaan standard yang telah mantap (Tahap Bukti L1).
-- Ubat ini tidak mempunyai pendaftaran di Malaysia dalam data yang dikompilasi, dan maklumat keselamatan dari sisipan pembungkusan belum diperoleh.
+- Maklumat keselamatan dari sisipan pembungkusan belum diperoleh.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Pengesahan status pendaftaran dan pasaran semasa di Malaysia (NPRA)

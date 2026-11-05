@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Atenolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Atenolol: indikasi baharu diramal Penyakit renal hipertensi malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Atenolol ialah penyekat reseptor beta-1 terpilih yang sudah dipasarkan di Malays
 | Indikasi Baharu yang Diramalkan | Penyakit renal hipertensi malignan (malignant hypertensive renal disease) |
 | Skor Ramalan TxGNN | 0,9985 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 30) |
-| Bilangan Pendaftaran | 30 (sah: 30) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 28 daripada 30) |
+| Bilangan Pendaftaran | 30 (sah: 28) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -68,7 +68,7 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Status pasaran: dipasarkan. Terdapat sekurang-kurangnya 30 lesen, semuanya sah (27 produk bahan tunggal dan 3 produk kombinasi). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lima lesen produk bahan tunggal yang utama:
+Status pasaran: dipasarkan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lima lesen produk bahan tunggal yang utama:
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|

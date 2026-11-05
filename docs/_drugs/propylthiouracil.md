@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 606
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "PROPYLTHIOURACIL"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
 description: "Propylthiouracil: indikasi baharu diramal Rintangan hormon tiroid akibat mutasi reseptor hormon tiroid beta (resistance to thyroid hormone due to a mutation in t… (tahap bukti L4). Indikasi asal: Tid…"
@@ -87,7 +87,6 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -116,7 +115,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 - Bukti klinikal langsung bahawa PTU memberi manfaat dalam RTH-beta, dan penilaian risiko goiter/peningkatan TSH
 - Data MOA terperinci (contohnya melalui DrugBank)
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang penapisan keselamatan)
-- Penjelasan status pasaran Malaysia (tiada pendaftaran)
+- Penjelasan status pasaran Malaysia
 
 ---
 

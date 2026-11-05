@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Empagliflozin: indikasi baharu diramal Sindrom orang kaku klasik (classic stiff person syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Empagliflozin ialah perencat SGLT2 yang pada asalnya digunakan untuk merawat dia
 | Indikasi Baharu yang Diramalkan | Sindrom orang kaku klasik (classic stiff person syndrome) |
 | Skor Ramalan TxGNN | 0.9906 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
-| Bilangan Pendaftaran | 15 (sah: 15) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 19 daripada 19) |
+| Bilangan Pendaftaran | 19 (sah: 19) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 553
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "PALIPERIDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
 description: "Paliperidone: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies) (tahap bukti L5). Indikasi asal: Tidak direkodka…"
@@ -50,8 +50,8 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 | Indikasi Baharu yang Diramalkan | Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies) |
 | Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 16) |
-| Bilangan Pendaftaran | 16 (sah: 16) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 19 daripada 19) |
+| Bilangan Pendaftaran | 19 (sah: 19) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -72,7 +72,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-
 ## Pertimbangan Keselamatan
 
 - **Penyakit yang dikenal pasti sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): sindrom QT panjang (termasuk yang familial) dan torsades de pointes; infarksi miokardium dan trombosis koronari; hipotensi ortostatik, sindrom takikardia postural ortostatik dan atrofi sistem berbilang; epilepsi; neutropenia dan agranulositosis; diabetes mellitus, hiperglisemia dan ketoasidosis diabetes; hiperlipidemia dan obesiti; penyakit Crohn dan penyakit radang usus; penyakit ganglia basal, distonia dan blefarospasma; kekurangan kalium; hemoglobinopati; kerosakan fungsi renal; dan karsinoma payudara wanita.
@@ -88,7 +87,7 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. 
 
 **Rasional:**
 - Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur, dan tiada hubungan mekanistik yang munasabah antara antagonisme D2/5-HT2A dengan distrofi retina warisan.
-- Ubat ini tidak didaftarkan di Malaysia, dan data keselamatan daripada sisipan pakej tidak lengkap.
+- Data keselamatan daripada sisipan pakej tidak lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank.

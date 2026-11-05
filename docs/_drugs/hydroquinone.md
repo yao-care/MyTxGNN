@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 405
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Hydroquinone: indikasi baharu diramal Keratosis seboroik (seborrheic keratosis) (tahap bukti L4). Indikasi asal: Tiada data indikasi lesen yang diluluskan dalam data yang dikumpulkan…"
 monitor_inn: "HYDROQUINONE"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "exanthem (disease)", "lichen disease"]
@@ -99,7 +99,7 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk indikasi ini.
 **Keputusan: Hold**
 
 **Rasional:**
-- Bukti hanya setakat tahap L4: tiada percubaan klinikal, hanya satu kajian pemerhatian am mengenai pigmentasi, dan hubungan mekanistik bersifat tidak langsung dan kosmetik. Selain itu, produk ini tidak berdaftar di Malaysia, dan data amaran serta kontraindikasi daripada sisipan pakej belum diperoleh.
+- Bukti hanya setakat tahap L4: tiada percubaan klinikal, hanya satu kajian pemerhatian am mengenai pigmentasi, dan hubungan mekanistik bersifat tidak langsung dan kosmetik. Selain itu, data amaran serta kontraindikasi daripada sisipan pakej belum diperoleh.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menghalang saringan keselamatan)

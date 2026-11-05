@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 633
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Roxithromycin: indikasi baharu diramal Kusta (leprosy) (tahap bukti L5). Indikasi asal: Jangkitan saluran pernafasan, saluran kencing dan tisu lembut"
 monitor_inn: "ROXITHROMYCIN"
 predicted_indications: ["leprosy", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "pulmonary hypertension"]
@@ -98,7 +98,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk (packa
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Bukti untuk kusta hanya terdiri daripada kajian praklinikal dan ulasan tanpa sebarang ujian klinikal. Tambahan pula, roxithromycin tidak berdaftar di Malaysia, dan data keselamatan daripada risalah produk NPRA masih tiada. Clarithromycin juga lebih unggul daripada roxithromycin dalam model haiwan.
+- Bukti untuk kusta hanya terdiri daripada kajian praklinikal dan ulasan tanpa sebarang ujian klinikal. Tambahan pula, data keselamatan daripada risalah produk NPRA masih tiada. Clarithromycin juga lebih unggul daripada roxithromycin dalam model haiwan.
 - Indikasi lain yang diramalkan (contohnya hipertrikosis, sindrom malformasi, hipertensi pulmonari) tidak mempunyai pautan mekanisme yang dikenal pasti atau hanya bukti tidak langsung, dan kekal pada status Hold.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
@@ -106,7 +106,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk (packa
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Bukti klinikal pada manusia (contohnya kajian pemerhatian atau ujian klinikal fasa awal) untuk kusta
 - Penilaian semula tahap bukti (L3 berbanding L4) dan perbandingan dengan makrolid alternatif seperti clarithromycin
-- Kepastian status pendaftaran dan ketersediaan produk di Malaysia, kerana tiada lesen berdaftar pada masa ini
+- Kepastian status pendaftaran dan ketersediaan produk di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

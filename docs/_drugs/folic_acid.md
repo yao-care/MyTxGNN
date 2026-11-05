@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Folic Acid"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Folic Acid: indikasi baharu diramal Biotin metabolic disease (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Asid folik ialah vitamin B yang digunakan untuk merawat kekurangan vitamin dan b
 | Indikasi Baharu yang Diramalkan | Biotin metabolic disease |
 | Skor Ramalan TxGNN | 0.9949 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 392 daripada 392) |
-| Bilangan Pendaftaran | 392 (sah: 392) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 530 daripada 540) |
+| Bilangan Pendaftaran | 540 (sah: 530) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?

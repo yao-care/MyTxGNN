@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 549
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Oxaliplatin: indikasi baharu diramal Mesotelioma pleura malignan (tahap bukti L2). Indikasi asal: Metastasis daripada tumor malignan kolon"
 monitor_inn: "OXALIPLATIN"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
@@ -109,7 +109,7 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Bukti terhad kepada kajian Fasa II kecil dan tidak rawak (sekitar 25–70 pesakit), dengan satu kajian lini kedua yang negatif dan tiada RCT Fasa 3 berbanding standard rawatan cisplatin/pemetrexed. Selain itu, oxaliplatin tidak berdaftar di Malaysia dan data keselamatan rasmi belum lengkap.
+- Bukti terhad kepada kajian Fasa II kecil dan tidak rawak (sekitar 25–70 pesakit), dengan satu kajian lini kedua yang negatif dan tiada RCT Fasa 3 berbanding standard rawatan cisplatin/pemetrexed. Selain itu, data keselamatan rasmi belum lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej/amaran dan kontraindikasi daripada NPRA (jurang data yang menghalang penilaian keselamatan)

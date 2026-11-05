@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 363
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Fluorescein"
 predicted_indications: ["Prinzmetal angina", "antithrombin deficiency type 2", "rheumatoid arthritis", "factor 5 excess with spontaneous thrombosis", "hemoglobinopathy", "heparin cofactor 2 deficiency", "thrombophilia", "hyperthyroidism", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations"]
 description: "Fluorescein: indikasi baharu diramal Angina Prinzmetal (Prinzmetal angina) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -84,7 +84,7 @@ Sila rujuk risalah pek (package insert) untuk maklumat keselamatan.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model tanpa sebarang ujian klinikal, literatur atau hubungan mekanistik. Fluorescein ialah agen diagnostik dan tiada bukti ia boleh merawat angina Prinzmetal. Selain itu, ia tidak mempunyai pendaftaran di Malaysia.
+- Ramalan ini hanya berasaskan model tanpa sebarang ujian klinikal, literatur atau hubungan mekanistik. Fluorescein ialah agen diagnostik dan tiada bukti ia boleh merawat angina Prinzmetal.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data amaran dan kontraindikasi daripada risalah pek NPRA (jurang data yang menghalang saringan keselamatan)

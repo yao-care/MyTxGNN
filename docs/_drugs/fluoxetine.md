@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "Fluoxetine"
 predicted_indications: ["schizotypal personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Fluoxetine: indikasi baharu diramal Schizotypal personality disorder (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Fluoxetine ialah ubat dalam kelas perencat pengambilan semula serotonin terpilih
 | Indikasi Baharu yang Diramalkan | Schizotypal personality disorder |
 | Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
-| Bilangan Pendaftaran | 7 (sah: 7) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 6) |
 | Keputusan Disyorkan | Tahan |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -86,7 +86,7 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 | MAL07031127ACZ | Prozac Capsule 20mg | ZUELLIG PHARMA SDN. BHD. |
 | MAL08010743ACZ | Fluovex capsule 20mg | APEX PHARMACY MARKETING SDN. BHD. |
 
-Terdapat 7 pendaftaran produk tunggal yang sah; 5 yang utama disenaraikan di atas. Dua lagi ialah Magrilan 20mg Capsules (KOMEDIC SDN BHD, MAL10100126AZ) dan Provatine Capsule 20mg (DUOPHARMA (M) SENDIRIAN BERHAD, MAL06011876AZ). Teks indikasi lulus dan bentuk dos tidak direkodkan dalam data yang dikompilasi.
+Dua lagi ialah Magrilan 20mg Capsules (KOMEDIC SDN BHD, MAL10100126AZ) dan Provatine Capsule 20mg (DUOPHARMA (M) SENDIRIAN BERHAD, MAL06011876AZ). Teks indikasi lulus dan bentuk dos tidak direkodkan dalam data yang dikompilasi.
 
 ## Pertimbangan Keselamatan
 

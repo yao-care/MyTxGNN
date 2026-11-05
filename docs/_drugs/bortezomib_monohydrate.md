@@ -5,7 +5,7 @@ layout: default
 title: Bortezomib Monohydrate
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 159
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,8 +42,8 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baru yang Diramalkan | — (Tiada ramalan TxGNN tersedia) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
-| Bilangan Pendaftaran | 1 (sah: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 18 daripada 18) |
+| Bilangan Pendaftaran | 18 (sah: 18) |
 
 ---
 

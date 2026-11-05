@@ -11,7 +11,7 @@ brands: []
 permalink: /drugs/timolol/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 25 daripada 25) |
-| Bilangan Pendaftaran | 25 (sah: 25) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 27 daripada 27) |
+| Bilangan Pendaftaran | 27 (sah: 27) |
 | **Nama Ubat** | Timolol |
 | **ID DrugBank** | [DB00373](https://go.drugbank.com/drugs/DB00373) |
 | **Ramalan DL (≥0.7)** | 21 |

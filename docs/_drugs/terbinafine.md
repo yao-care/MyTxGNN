@@ -11,7 +11,7 @@ brands: []
 permalink: /drugs/terbinafine/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 28 daripada 28) |
-| Bilangan Pendaftaran | 28 (sah: 28) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 30) |
+| Bilangan Pendaftaran | 30 (sah: 30) |
 | **Nama Ubat** | Terbinafine |
 | **ID DrugBank** | [DB00857](https://go.drugbank.com/drugs/DB00857) |
 | **Ramalan DL (≥0.7)** | 28 |

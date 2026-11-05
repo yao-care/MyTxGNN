@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 356
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "FERROUS GLUCONATE"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder"]
 description: "Ferrous Gluconate: indikasi baharu diramal Vitamin B12- and folate-independent constitutional megaloblastic anemia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Vitamin B12- and folate-independent constitutional megaloblastic anemia |
 | Skor Ramalan TxGNN | 0.9994 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
-| Bilangan Pendaftaran | 7 (sah: 7) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 8) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -101,7 +101,6 @@ Data yang disusun turut mengandungi ramalan lain dengan bukti yang lebih lemah:
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -125,7 +124,7 @@ Sila rujuk sisip bungkusan untuk maklumat keselamatan lengkap.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan utama (Sindrom Plummer-Vinson) munasabah secara mekanistik tetapi pada dasarnya lanjutan indikasi anemia kekurangan zat besi sedia ada, tanpa percubaan atau literatur khusus (tahap bukti L4). Ubat ini juga tidak berdaftar di Malaysia, dan data keselamatan label belum tersedia.
+- Ramalan utama (Sindrom Plummer-Vinson) munasabah secara mekanistik tetapi pada dasarnya lanjutan indikasi anemia kekurangan zat besi sedia ada, tanpa percubaan atau literatur khusus (tahap bukti L4). Data keselamatan label belum tersedia.
 
 **Untuk diteruskan, perlu:**
 - Data amaran dan kontraindikasi daripada sisip bungkusan (NPRA atau sumber rujukan lain)

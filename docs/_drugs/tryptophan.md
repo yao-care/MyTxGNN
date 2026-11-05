@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 706
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "TRYPTOPHAN"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
 description: "Tryptophan: indikasi baharu diramal Sindrom kaki gelisah (restless legs syndrome) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom kaki gelisah (restles
 | Indikasi Baharu yang Diramalkan | Sindrom kaki gelisah (restless legs syndrome) |
 | Skor Ramalan TxGNN | 0.9972 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 32 daripada 32) |
-| Bilangan Pendaftaran | 32 (sah: 32) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 28 daripada 32) |
+| Bilangan Pendaftaran | 32 (sah: 28) |
 | Keputusan Disyorkan | Hold |
 
 ---

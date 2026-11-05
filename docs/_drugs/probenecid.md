@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 600
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Probenecid: indikasi baharu diramal Hipourisemia renal (tahap bukti L5). Indikasi asal: Gout"
 monitor_inn: "PROBENECID"
 predicted_indications: ["hypouricemia, renal", "Lesch-Nyhan syndrome", "hypoxanthine guanine phosphoribosyltransferase partial deficiency"]
@@ -105,7 +105,7 @@ Bagi ramalan sekunder (Lesch-Nyhan), hanya dua penerbitan diperoleh dan kedua-du
   - **Moderate**: aspirin (asid asetilsalisilik), sulfonilurea (klorpropamid, glimepirid, glipizid, glibenklamid, tolbutamid, tolazamid, asetoheksamid), repaglinid, nateglinid
   - **Minor**: famotidina, amoksisilin, levofloksasin, eluksadolin
 
-Sisipan bungkusan NPRA tidak tersedia kerana ubat ini tidak didaftarkan di Malaysia. Sila rujuk sisipan bungkusan produk dari bidang kuasa lain untuk amaran lengkap.
+Sisipan bungkusan NPRA tidak tersedia. Sila rujuk sisipan bungkusan produk dari bidang kuasa lain untuk amaran lengkap.
 
 ---
 
@@ -115,7 +115,7 @@ Sisipan bungkusan NPRA tidak tersedia kerana ubat ini tidak didaftarkan di Malay
 
 **Justifikasi:**
 - Tiada ujian klinikal dan tiada penerbitan yang menilai probenecid sebagai rawatan; tahap bukti hanya L5 (ramalan model sahaja).
-- Mekanisme farmakologi (rencatan URAT1) bercanggah dengan punca hipourisemia renal, dan berisiko membahayakan pada Lesch-Nyhan serta kekurangan separa HPRT (kristaluria dan nefrolitiasis). Ubat ini juga tidak didaftarkan di Malaysia.
+- Mekanisme farmakologi (rencatan URAT1) bercanggah dengan punca hipourisemia renal, dan berisiko membahayakan pada Lesch-Nyhan serta kekurangan separa HPRT (kristaluria dan nefrolitiasis).
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Bukti praklinikal atau klinikal bahawa probenecid memberi manfaat terapeutik (bukan sekadar kegunaan diagnostik) pada mana-mana indikasi yang diramalkan

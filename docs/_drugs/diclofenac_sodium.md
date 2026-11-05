@@ -5,7 +5,7 @@ layout: default
 title: Diclofenac Sodium
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 286
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,8 +42,8 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 |------|-----------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baru yang Diramal | — Tiada (ramalan TxGNN belum tersedia) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 68 daripada 68) |
-| Bilangan Pendaftaran | 68 (sah: 68) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 68 daripada 69) |
+| Bilangan Pendaftaran | 69 (sah: 68) |
 
 ---
 

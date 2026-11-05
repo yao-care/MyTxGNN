@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Doxycycline: indikasi baharu diramal Keratokonjunktivitis epitelium berpunktat (tahap bukti L5). Indikasi asal: Tidak dinyatakan dalam teks indikasi pada rekod lesen yang dikumpulkan"
 ---
 
@@ -50,8 +50,8 @@ Doxycycline ialah antibiotik kumpulan tetrasiklin yang sudah didaftarkan di Mala
 | Indikasi Baharu yang Diramalkan | Keratokonjunktivitis epitelium berpunktat |
 | Skor Ramalan TxGNN | 0.9994 (kedudukan 1307) |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 32 daripada 32) |
-| Bilangan Pendaftaran | 32 (sah: 32) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 33 daripada 33) |
+| Bilangan Pendaftaran | 33 (sah: 33) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---

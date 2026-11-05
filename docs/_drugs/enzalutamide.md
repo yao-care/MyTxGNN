@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 326
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "ENZALUTAMIDE"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
 description: "Enzalutamide: indikasi baharu diramal Prostate leiomyoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,8 +51,8 @@ Pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong 
 | Indikasi Baharu yang Diramalkan | Prostate leiomyoma |
 | Skor Ramalan TxGNN | 0.9957 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
-| Bilangan Pendaftaran | 4 (sah: 4) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold |
 
 ---

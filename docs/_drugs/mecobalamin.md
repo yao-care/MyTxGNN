@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 487
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "MECOBALAMIN"
 predicted_indications: ["sclerosing cholangitis", "multiple endocrine neoplasia", "bone Paget disease"]
 description: "Mecobalamin: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **kolangitis sklerosis**, tetap
 | Indikasi Baharu yang Diramalkan | Kolangitis sklerosis (sclerosing cholangitis) |
 | Skor Ramalan TxGNN | 0.9950 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 16) |
-| Bilangan Pendaftaran | 16 (sah: 16) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 17 daripada 17) |
+| Bilangan Pendaftaran | 17 (sah: 17) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---

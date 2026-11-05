@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CLOBAZAM"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "atypical childhood epilepsy with centrotemporal spikes", "photosensitive occipital lobe epilepsy", "cryptogenic late-onset epileptic spasms", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Clobazam: indikasi baharu diramal Sindrom epilepsi berkaitan jangkitan demam (febrile infection-related epilepsy syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ tetapi data yang dihimpunkan hanya mengandungi **0 ujian klinikal** dan **2 pene
 | Indikasi Baharu yang Diramalkan | Sindrom epilepsi berkaitan jangkitan demam (febrile infection-related epilepsy syndrome) |
 | Skor Ramalan TxGNN | 0,9982 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
-| Bilangan Pendaftaran | 1 (sah: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?

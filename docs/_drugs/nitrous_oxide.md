@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 530
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Nitrous Oxide: indikasi baharu diramal Hiperplasia prostat benigna (BPH) (tahap bukti L4). Indikasi asal: Tiada data indikasi lulus daripada pendaftaran tempatan"
 monitor_inn: "NITROUS OXIDE"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
@@ -104,7 +104,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan TxGNN sangat tinggi, tetapi bukti sebenar hanya berkaitan prosedur (pengurangan kebimbangan semasa biopsi), bukan rawatan BPH. Tiada bukti mekanistik atau klinikal langsung, dan produk ini tidak berdaftar di Malaysia.
+- Ramalan TxGNN sangat tinggi, tetapi bukti sebenar hanya berkaitan prosedur (pengurangan kebimbangan semasa biopsi), bukan rawatan BPH. Tiada bukti mekanistik atau klinikal langsung.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang jelas dan hipotesis biologi yang menghubungkan nitrous oxide dengan BPH

@@ -11,7 +11,7 @@ brands: []
 permalink: /drugs/cefixime/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
-| Bilangan Pendaftaran | 5 (sah: 5) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 3) |
 | **Nama Ubat** | Cefixime |
 | **ID DrugBank** | [DB00671](https://go.drugbank.com/drugs/DB00671) |
 | **Ramalan DL (≥0.7)** | 66 |

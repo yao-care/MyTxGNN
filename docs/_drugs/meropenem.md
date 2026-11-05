@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "gonococcal urethritis", "Ureaplasma urethritis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Meropenem: indikasi baharu diramal Artritis bakteria (bacterial arthritis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -49,8 +49,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **artritis bakteria (bacterial 
 | Indikasi Baharu yang Diramalkan | Artritis bakteria (bacterial arthritis) |
 | Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 25 daripada 25) |
-| Bilangan Pendaftaran | 25 (sah: 25) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 29 daripada 29) |
+| Bilangan Pendaftaran | 29 (sah: 29) |
 | Cadangan Keputusan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?

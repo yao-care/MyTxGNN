@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 650
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Sodium Carbonate: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "SODIUM CARBONATE"
 predicted_indications: ["cauda equina syndrome", "anaphylaxis", "food-dependent exercise-induced anaphylaxis", "obsolete neurogenic bladder (disease)", "dry eye syndrome", "ventricular tachycardia"]
@@ -103,7 +103,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada data interaksi dadah 
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan berada pada tahap bukti L5 tanpa percubaan klinikal atau literatur sokongan, dan tiada hubungan mekanistik yang munasabah. Ubat ini juga tidak berdaftar di Malaysia.
+- Ramalan berada pada tahap bukti L5 tanpa percubaan klinikal atau literatur sokongan, dan tiada hubungan mekanistik yang munasabah.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)

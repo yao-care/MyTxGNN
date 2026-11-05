@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 344
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Etoricoxib: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tiada rekod lesen NPRA"
 monitor_inn: "ETORICOXIB"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
@@ -38,7 +38,7 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 ## Ringkasan Satu Ayat
 
-Etorikoksib ialah perencat COX-2 terpilih daripada kelas NSAID, yang secara klinikal digunakan untuk keradangan dan kesakitan (contohnya artritis, sakit belakang, gout), tetapi data lesen NPRA bagi penunjuk asal tidak tersedia kerana ubat ini tidak berdaftar di Malaysia.
+Etorikoksib ialah perencat COX-2 terpilih daripada kelas NSAID, yang secara klinikal digunakan untuk keradangan dan kesakitan (contohnya artritis, sakit belakang, gout), tetapi data lesen NPRA bagi penunjuk asal tidak tersedia.
 Model TxGNN meramalkan ubat ini mungkin berkesan untuk **gangguan migrain** (skor 0.9990),
 tetapi pada masa ini **tiada ujian klinikal** dan hanya **1 penerbitan** (kajian skop yang tidak langsung) menyokong arah ini.
 
@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada ujian klinikal** dan hanya **1 penerbitan** (kajian
 | Penunjuk Baharu yang Diramalkan | Gangguan migrain (*migraine disorder*) |
 | Skor Ramalan TxGNN | 0.9990 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 79 daripada 79) |
-| Bilangan Pendaftaran | 79 (sah: 79) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 81 daripada 81) |
+| Bilangan Pendaftaran | 81 (sah: 81) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -108,7 +108,7 @@ Sila rujuk sisipan pek untuk maklumat keselamatan lengkap.
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan migrain disokong hanya oleh skor model dan satu kajian skop yang tidak langsung (L5), tanpa ujian klinikal. Etorikoksib juga tidak berdaftar di Malaysia.
+- Ramalan migrain disokong hanya oleh skor model dan satu kajian skop yang tidak langsung (L5), tanpa ujian klinikal.
 - Penunjuk berkaitan sakit kepala (gangguan sakit kepala dan sefalalgia autonomik trigeminal) mempunyai bukti peringkat kes (L4) dan wajar dijadikan soalan penyelidikan, bukan keputusan klinikal.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

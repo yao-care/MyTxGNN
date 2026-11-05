@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 396
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "GUAIFENESIN"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
 description: "Guaifenesin: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -113,7 +113,7 @@ Maklumat amaran utama, kontraindikasi label dan interaksi ubat tidak tersedia. S
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan penyakit rongga hidung hanya disokong satu kajian ulasan lama (2002) tanpa ujian klinikal, dan ia sebahagian besarnya bertindih dengan indikasi asal yang sedia ada (rinitis, nasofaringitis, selsema). Ubat ini juga tidak berdaftar di Malaysia, dan maklumat keselamatan daripada label tidak tersedia.
+- Ramalan penyakit rongga hidung hanya disokong satu kajian ulasan lama (2002) tanpa ujian klinikal, dan ia sebahagian besarnya bertindih dengan indikasi asal yang sedia ada (rinitis, nasofaringitis, selsema). Maklumat keselamatan daripada label tidak tersedia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi) bagi menjalankan saringan keselamatan. Ini ialah jurang data yang menyekat (blocking).

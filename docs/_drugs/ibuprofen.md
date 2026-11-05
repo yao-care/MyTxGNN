@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ibuprofen: indikasi baharu diramal displasia akromesomelik, jenis Hunter-Thompson (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan. Hubun…"
 ---
 
@@ -50,8 +50,8 @@ Ibuprofen ialah ubat antiradang bukan steroid (NSAID) yang hubungannya dengan ar
 | Indikasi Baharu yang Diramalkan | Displasia akromesomelik, jenis Hunter-Thompson |
 | Skor Ramalan TxGNN | 0.9974 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 43 daripada 43) |
-| Bilangan Pendaftaran | 43 (sah: 43) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 44 daripada 44) |
+| Bilangan Pendaftaran | 44 (sah: 44) |
 | Bilangan Kelulusan | 43 pendaftaran (41 produk bahan tunggal, 2 produk kombinasi) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

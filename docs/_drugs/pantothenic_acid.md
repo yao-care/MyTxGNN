@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 558
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "PANTOTHENIC ACID"
 predicted_indications: ["congenital prothrombin deficiency", "ochronosis disorder", "glycerol metabolism disease", "folic acid deficiency anemia", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis"]
 description: "Pantothenic Acid: indikasi baharu diramal Kekurangan protrombin kongenital (congenital prothrombin deficiency) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ Ramalan ini hanya berasaskan model (skor tinggi tetapi tanpa bukti sebenar).
 | Indikasi Baharu yang Diramalkan | Kekurangan protrombin kongenital (congenital prothrombin deficiency) |
 | Skor Ramalan TxGNN | 0.9996 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 18 daripada 18) |
-| Bilangan Pendaftaran | 18 (sah: 18) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 19 daripada 19) |
+| Bilangan Pendaftaran | 19 (sah: 19) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -95,7 +95,6 @@ Ramalan lain (okronosis, penyakit metabolisme gliserol, pielonefritis xanthogran
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -111,7 +110,7 @@ Data amaran utama dan interaksi ubat tidak tersedia. Sila rujuk risalah pek untu
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan teratas (kekurangan protrombin kongenital) hanya berasaskan model tanpa ujian klinikal, tanpa literatur dan tanpa hubungan mekanistik yang munasabah (L5). Ubat ini juga tidak berdaftar di Malaysia.
+- Ramalan teratas (kekurangan protrombin kongenital) hanya berasaskan model tanpa ujian klinikal, tanpa literatur dan tanpa hubungan mekanistik yang munasabah (L5).
 - Hanya anemia kekurangan asid folik dan penyakit radang uterus mempunyai isyarat awal (L4), tetapi bukti masih tidak langsung atau praklinikal.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

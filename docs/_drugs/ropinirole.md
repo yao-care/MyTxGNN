@@ -5,8 +5,8 @@ parent: Medium Evidence (L3)
 nav_order: 632
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
-description: "Ropinirole: indikasi baharu diramal Gangguan kurang daya tumpuan-hiperaktiviti (ADHD) (tahap bukti L3). Indikasi asal: Tiada data (tiada lesen NPRA direkodkan)"
+last_modified_at: 2026-11-06
+description: "Ropinirole: indikasi baharu diramal Gangguan kurang daya tumpuan-hiperaktiviti (ADHD) (tahap bukti L3). Indikasi asal: Tiada data"
 monitor_inn: "Ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
 ---
@@ -48,7 +48,7 @@ Sokongan buat masa ini terdiri daripada **0 ujian klinikal berdaftar** dan **8 p
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen NPRA direkodkan) |
+| Indikasi Asal | Tiada data |
 | Indikasi Baharu yang Diramalkan | Gangguan kurang daya tumpuan-hiperaktiviti (ADHD) |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L3 |
@@ -104,7 +104,7 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 **Keputusan: Hold (Soalan Penyelidikan)**
 
 **Rasional:**
-- Bukti terhad kepada ulasan, satu laporan kes dan satu RCT 2026 yang belum disahkan. Tiada ujian klinikal berdaftar, dan tiada lesen ropinirole di Malaysia dalam data yang dikumpulkan.
+- Bukti terhad kepada ulasan, satu laporan kes dan satu RCT 2026 yang belum disahkan. Tiada ujian klinikal berdaftar.
 - Data keselamatan rasmi tidak tersedia, jadi penilaian keselamatan belum dapat diteruskan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

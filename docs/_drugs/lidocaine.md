@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Lidocaine: indikasi baharu diramal Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ Lidocaine ialah anestetik setempat penyekat saluran natrium. Model TxGNN (pembel
 | Indikasi Baharu yang Diramalkan | Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 56 daripada 56) |
-| Bilangan Pendaftaran | 56 (sah: 56) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 56 daripada 57) |
+| Bilangan Pendaftaran | 57 (sah: 56) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---

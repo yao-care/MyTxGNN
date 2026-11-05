@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 473
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -97,7 +97,6 @@ Pakej Bukti ini kekurangan indikasi yang diramalkan oleh TxGNN sepenuhnya, menja
 - [ ] **[Kritikal]** Jalankan semula model TxGNN untuk Loperamide Hydrochloride dan isi `predicted_indications` dengan sekurang-kurangnya satu indikasi calon, termasuk percubaan klinikal dan kesusasteraan yang berkaitan
 - [ ] **[Sekatan — DG001]** Muat turun dan analisis PDF sisipan pakej TFDA/NPRA untuk mengekstrak amaran utama dan kontraindikasi, membolehkan pra-pemeriksaan keselamatan S1
 - [ ] **[Tinggi — DG002]** Pertanyakan API DrugBank menggunakan INN "loperamide" untuk mendapatkan data MOA, kategori ubat, dan ketoksikan yang berstruktur; sahkan DrugBank ID
-- [ ] **[Standard]** Isi semua 9 rekod lesen dalam `taiwan_regulatory.licenses` dengan nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan dari NPRA
 - [ ] **[Standard]** Hantar semula Pakej Bukti yang lengkap untuk laporan pengeluaran semula ubat penuh setelah semua jurang kritikal diselesaikan
 
 ---

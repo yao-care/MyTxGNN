@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 668
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Tazobactam: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Tazobactam ia
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejak ialah kegunaan diketahui) |
 | Kegunaan diketahui dalam calon model | 2 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
-| Bilangan Pendaftaran | 9 (sah: 9) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 8) |
 
 ## Kegunaan diketahui dalam calon model
 
@@ -74,7 +74,7 @@ Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Tazobactam ia
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|
-| MAL20162591ACREZ | hovid Piperacillin + Tazobactam for Injection 4.5g |  | Sah |
+| MAL20162591ACREZ | hovid Piperacillin + Tazobactam for Injection 4.5g |  | Dibatalkan Pendaftaran |
 | MAL19990548AZ | TAZOCIN EF INJECTION 4.5G |  | Sah |
 | MAL16125024ACRZ | Zerbaxa 1.5g powder for solution for injection |  | Sah |
 | MAL17107023ARZ | Piperacillin/Tazobactam Kabi 2g/0.25g Powder for Solution fo |  | Sah |

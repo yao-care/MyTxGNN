@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "dabigatran etexilate"
 predicted_indications: ["sclerosing cholangitis", "obsolete familial combined hyperlipidemia", "hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "primary release disorder of platelets"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Dabigatran Etexilate: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ tetapi setakat ini **tiada ujian klinikal** dan hanya **1 penerbitan** yang berk
 | Indikasi Baharu yang Diramalkan | Kolangitis sklerosis (sclerosing cholangitis) |
 | Skor Ramalan TxGNN | 0,9982 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
-| Bilangan Pendaftaran | 12 (sah: 12) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 15) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

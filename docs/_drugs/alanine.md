@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ALANINE"
 predicted_indications: ["gastroparesis (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Alanine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Alanine ialah asid amino yang tersedia di pasaran Malaysia. Model TxGNN meramalk
 | Indikasi Baharu yang Diramalkan | Gastroparesis (gastroparesis (disease)) |
 | Skor Ramalan TxGNN | 0,9937 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 36) |
-| Bilangan Pendaftaran | 36 (sah: 36) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 32 daripada 36) |
+| Bilangan Pendaftaran | 36 (sah: 32) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?

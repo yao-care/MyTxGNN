@@ -5,7 +5,7 @@ layout: default
 title: Betaxolol Hcl
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 144
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,8 +41,8 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 | Item | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
-| Bilangan Pendaftaran | 2 (sah: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 1) |
 
 ---
 

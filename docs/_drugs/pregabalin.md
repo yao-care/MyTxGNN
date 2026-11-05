@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Pregabalin"
 predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Pregabalin: indikasi baharu diramal Tendinitis (tahap bukti L5). Indikasi asal: Gangguan kebimbangan, fibromialgia, sindrom sakit miofasial…"
 ---
 
@@ -50,8 +50,8 @@ Pregabalin ialah ubat yang dikaitkan dengan gangguan kebimbangan, fibromialgia, 
 | Indikasi Baharu yang Diramalkan | Tendinitis |
 | Skor Ramalan TxGNN | 0.9971 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 63 daripada 63) |
-| Bilangan Pendaftaran | 63 (sah: 63) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 66 daripada 66) |
+| Bilangan Pendaftaran | 66 (sah: 66) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---

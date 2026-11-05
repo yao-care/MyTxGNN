@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ALFACALCIDOL"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Alfacalcidol: indikasi baharu diramal Konodisplasia kraniofasial (tahap bukti L5). Indikasi asal: Hiperparatiroidisme, osteitis fibrosa…"
 ---
 
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **konodisplasia kraniofasial** 
 | Indikasi Baharu yang Diramalkan | Konodisplasia kraniofasial |
 | Skor Ramalan TxGNN | 0.9955 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 16) |
-| Bilangan Pendaftaran | 16 (sah: 16) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 17 daripada 17) |
+| Bilangan Pendaftaran | 17 (sah: 17) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---

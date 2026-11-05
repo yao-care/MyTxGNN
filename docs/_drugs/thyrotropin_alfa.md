@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 681
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Thyrotropin alfa"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Raynaud disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "postural orthostatic tachycardia syndrome", "hyperthyroidism"]
 description: "Thyrotropin Alfa: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -81,8 +81,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Tiada lesen NPRA yang direkodkan untuk thyrotropin alfa dalam data yang dikumpulkan.
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -108,7 +106,7 @@ Nota tambahan daripada analisis ramalan: thyrotropin alfa boleh meningkatkan hor
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan migrain hanya berasaskan model (L5), tanpa percubaan klinikal, literatur atau hubungan mekanistik yang munasabah. Ubat ini juga tidak berdaftar di Malaysia, dan data keselamatan utama masih tidak lengkap.
+- Ramalan migrain hanya berasaskan model (L5), tanpa percubaan klinikal, literatur atau hubungan mekanistik yang munasabah. Data keselamatan utama masih tidak lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data berimpak tinggi yang menghalang saringan keselamatan)

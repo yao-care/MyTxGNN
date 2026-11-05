@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "CALCIUM LACTATE"
 predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Calcium Lactate: indikasi baharu diramal Sindrom kalsium-alkali (calcium-alkali syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Kalsium laktat ialah garam kalsium yang digunakan sebagai suplemen kalsium. Mode
 | Indikasi Baharu yang Diramalkan | Sindrom kalsium-alkali (calcium-alkali syndrome) |
 | Skor Ramalan TxGNN | 0,9976 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 36) |
-| Bilangan Pendaftaran | 36 (sah: 36) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 33 daripada 36) |
+| Bilangan Pendaftaran | 36 (sah: 33) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah (atau Tidak)?
@@ -74,7 +74,7 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Status pasaran: dipasarkan. Sebanyak 36 lesen sah dan tiada lesen dibatalkan. Senarai lesen terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Status pasaran: dipasarkan. Senarai lesen terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 

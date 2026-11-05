@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 529
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Nitroglycerin: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L3). Indikasi asal: Tiada data indikasi berdaftar di Malaysia dalam data yang dikumpulkan…"
 monitor_inn: "NITROGLYCERIN"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "primary hereditary glaucoma", "congenital hypotrichosis milia"]
@@ -50,8 +50,8 @@ Nitrogliserin ialah penderma nitrik oksida (NO) dan nitrat organik yang digunaka
 | Indikasi Baharu yang Diramalkan | Hipertensi pulmonari (pulmonary hypertension) |
 | Skor Ramalan TxGNN | 0.9961 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
-| Bilangan Pendaftaran | 3 (sah: 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold (soalan penyelidikan; perlu bukti dan data keselamatan tambahan) |
 
 ---
@@ -110,7 +110,7 @@ Maklumat amaran utama daripada sisipan pakej tidak tersedia. Sila rujuk sisipan 
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Mekanisme NO-cGMP munasabah dan terdapat beberapa kajian kecil serta satu RCT neonatal, tetapi tiada percubaan fasa 2/3 yang selesai. Produk juga tidak berdaftar di Malaysia, dan data amaran serta kontraindikasi daripada label belum tersedia, jadi saringan keselamatan belum boleh diteruskan.
+- Mekanisme NO-cGMP munasabah dan terdapat beberapa kajian kecil serta satu RCT neonatal, tetapi tiada percubaan fasa 2/3 yang selesai. Data amaran serta kontraindikasi daripada label belum tersedia, jadi saringan keselamatan belum boleh diteruskan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej dan data amaran/kontraindikasi daripada NPRA

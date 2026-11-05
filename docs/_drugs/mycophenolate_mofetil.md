@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 517
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Mycophenolate Mofetil: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
 monitor_inn: "MYCOPHENOLATE MOFETIL"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
@@ -115,7 +115,7 @@ Amaran utama dan kontraindikasi berdasarkan sisipan pembungkusan NPRA tidak ters
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ubat ini tidak mempunyai pendaftaran di Malaysia dan data keselamatan daripada sisipan NPRA tiada. Bukti klinikal untuk HIV tidak mencukupi: ujian terus telah ditarik balik, dan keberkesanan ke atas hasil virus belum terbukti. Risiko imunosupresi pada pesakit HIV juga membimbangkan.
+- Data keselamatan daripada sisipan NPRA tiada. Bukti klinikal untuk HIV tidak mencukupi: ujian terus telah ditarik balik, dan keberkesanan ke atas hasil virus belum terbukti. Risiko imunosupresi pada pesakit HIV juga membimbangkan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Memuat turun dan menganalisis sisipan pembungkusan serta amaran dan kontraindikasi daripada NPRA (jurang data yang menghalang penyaringan keselamatan).

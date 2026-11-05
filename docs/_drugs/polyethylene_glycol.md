@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 588
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "POLYETHYLENE GLYCOL"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
 description: "Polyethylene Glycol: indikasi baharu diramal Eritroderma iktiosiform kongenital (congenital ichthyosiform erythroderma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -70,7 +70,6 @@ Indikasi asal PEG (sembelit, mata kering) tidak bertindih dengan patofisiologi e
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -95,7 +94,7 @@ Senarai ini perlu disahkan dengan sumber label rasmi sebelum digunakan dalam kep
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (tahap bukti L5) tanpa sebarang percubaan klinikal atau penerbitan, dan mekanisme tindakan tidak dapat disahkan. Patofisiologi penyakit sasaran tidak bertindih dengan kegunaan asal PEG. Tiada pendaftaran tempatan, dan data keselamatan daripada sisipan pakej tidak lengkap.
+- Ramalan ini hanya berasaskan model (tahap bukti L5) tanpa sebarang percubaan klinikal atau penerbitan, dan mekanisme tindakan tidak dapat disahkan. Patofisiologi penyakit sasaran tidak bertindih dengan kegunaan asal PEG. Data keselamatan daripada sisipan pakej tidak lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) daripada DrugBank

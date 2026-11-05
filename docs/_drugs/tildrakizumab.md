@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 683
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "TILDRAKIZUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "drug-induced osteoporosis"]
 description: "Tildrakizumab: indikasi baharu diramal Retinopati diabetes non-proliferatif teruk (severe nonproliferative diabetic retinopathy) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -89,7 +89,6 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -113,7 +112,7 @@ Kebanyakan interaksi major dan moderate melibatkan agen imunosupresif atau imuno
 **Keputusan: Hold**
 
 **Rasional:**
-- Semua indikasi yang diramalkan hanya berada pada tahap bukti L5 (ramalan model sahaja), tanpa percubaan klinikal atau literatur. Ubat ini juga tidak berdaftar di Malaysia dan data keselamatan sisipan pakej belum tersedia.
+- Semua indikasi yang diramalkan hanya berada pada tahap bukti L5 (ramalan model sahaja), tanpa percubaan klinikal atau literatur. Data keselamatan sisipan pakej belum tersedia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Muat turun dan analisis sisipan pakej NPRA untuk amaran dan kontraindikasi, yang merupakan jurang data penghalang sebelum saringan keselamatan.

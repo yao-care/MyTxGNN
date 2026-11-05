@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 528
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "NITROFURANTOIN"
 predicted_indications: ["rheumatoid arthritis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "methemoglobinemia, alpha type", "gout", "methemoglobinemia"]
 description: "Nitrofurantoin: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -92,7 +92,6 @@ Tiada satu pun daripada literatur ini menunjukkan manfaat nitrofurantoin untuk R
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -110,7 +109,7 @@ Amaran dan kontraindikasi daripada sisipan pakej tidak tersedia; sila rujuk sisi
 **Keputusan: Hold (Tangguh)**
 
 **Justifikasi:**
-- Ramalan hanya berasaskan model (L5) tanpa ujian klinikal. Literatur menunjukkan kemudaratan, bukan manfaat, dan pesakit RA sering menggunakan metotreksat yang berinteraksi dengan nitrofurantoin untuk toksisiti paru. Ubat ini juga tidak berdaftar di Malaysia.
+- Ramalan hanya berasaskan model (L5) tanpa ujian klinikal. Literatur menunjukkan kemudaratan, bukan manfaat, dan pesakit RA sering menggunakan metotreksat yang berinteraksi dengan nitrofurantoin untuk toksisiti paru.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap.

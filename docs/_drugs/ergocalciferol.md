@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Ergocalciferol"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis", "craniofacial conodysplasia", "renal osteodystrophy", "calcium-alkali syndrome"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Ergocalciferol: indikasi baharu diramal Displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type) (tahap bukti L5)."
 ---
 
@@ -48,8 +48,8 @@ Ergocalciferol ialah vitamin D2, sejenis vitamin larut lemak yang digunakan untu
 | Indikasi Baharu yang Diramalkan | Displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type) |
 | Skor Ramalan TxGNN | 0.9983 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 10) |
-| Bilangan Pendaftaran | 10 (sah: 9) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 17) |
+| Bilangan Pendaftaran | 17 (sah: 14) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?

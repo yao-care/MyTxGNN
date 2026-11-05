@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Estradiol valerate"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "luteoma of pregnancy", "ovarian dysfunction"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Estradiol Valerate: indikasi baharu diramal Symptomatic form of fragile X syndrome in female carrier (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -52,8 +52,8 @@ Tiada kajian yang dipetik membuktikan faedah terapeutik secara langsung; malah, 
 | Indikasi Baharu yang Diramalkan | Symptomatic form of fragile X syndrome in female carrier |
 | Skor Ramalan TxGNN | 0.9994 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
-| Bilangan Pendaftaran | 3 (sah: 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Jumlah Kelulusan | 3 lesen (2 produk tunggal, 1 produk gabungan) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

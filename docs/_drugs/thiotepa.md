@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 678
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Thiotepa: kegunaan diketahui dan status pasaran di Malaysia; kini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Thiotepa (skor ≥ 0.99) dan 
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dikesan ialah kegunaan yang sudah diketahui) |
 | Kegunaan diketahui dalam kalangan calon model | 2 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
-| Bilangan Pendaftaran | 3 (sah: 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 
 ## Kegunaan diketahui dalam kalangan calon model
 

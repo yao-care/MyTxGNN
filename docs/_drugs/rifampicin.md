@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 619
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Rifampicin: indikasi baharu diramal Konjunktivitis (conjunctivitis) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **konjunktivitis**, tetapi **ti
 | Indikasi Baharu yang Diramalkan | Konjunktivitis (conjunctivitis) |
 | Skor Ramalan TxGNN | 0.9995 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
-| Bilangan Pendaftaran | 8 (sah: 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -92,7 +92,6 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk konjunktiviti
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -110,7 +109,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 **Justifikasi:**
 - Walaupun skor TxGNN tinggi dan mekanismenya munasabah, bukti hanya berupa kajian topikal lama, kajian kepekaan dan laporan kes, tanpa percubaan berdaftar.
-- Rifampicin tidak berdaftar di Malaysia dan tiada data amaran atau kontraindikasi daripada sisipan pakej, jadi saringan keselamatan belum boleh dilakukan.
+- Tiada data amaran atau kontraindikasi daripada sisipan pakej, jadi saringan keselamatan belum boleh dilakukan.
 - Sistem penilaian menandakan ini sebagai soalan penyelidikan peringkat S1 dan bukan calon untuk diteruskan.
 
 **Untuk meneruskan, perlu:**

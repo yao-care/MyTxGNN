@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Albendazole"
 predicted_indications: ["coenurosis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Albendazole: indikasi baharu diramal Coenurosis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ Albendazole ialah ubat antihelmintik daripada kumpulan benzimidazol. Model TxGNN
 | Indikasi Baharu yang Diramalkan | Coenurosis |
 | Skor Ramalan TxGNN | 0.9983 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 28 daripada 29) |
-| Bilangan Pendaftaran | 29 (sah: 28) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 29 daripada 30) |
+| Bilangan Pendaftaran | 30 (sah: 29) |
 | Keputusan yang Disyorkan | Teruskan dengan Langkah Pengawalan |
 
 ---
@@ -104,8 +104,6 @@ Teks indikasi yang diluluskan tidak tersedia pada rekod lesen. Jadual ini menyen
 | MAL19920071XRZ | Zentel Suspension 400mg/10ml | Haleon Malaysia Sdn. Bhd. |
 | MAL19970667XZ | Zoben Tablet 200mg | Pharmaniaga Manufacturing Berhad |
 | MAL09020980XZ | Denzol 200mg Film Coated Tablets | Averroes Pharmaceuticals Sdn. Bhd. |
-
-Kesemua 29 pendaftaran berstatus sah dan mengandungi bahan tunggal.
 
 ---
 

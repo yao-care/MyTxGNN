@@ -5,8 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 576
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
-description: "Piperacillin: indikasi baharu diramal Rheumatoid arthritis (tahap bukti L5). Indikasi asal: Tiada data indikasi lulus daripada pendaftaran NPRA (tiada lesen dida…"
+last_modified_at: 2026-11-06
+description: "Piperacillin: indikasi baharu diramal Rheumatoid arthritis (tahap bukti L5). Indikasi asal: Tiada data indikasi lulus daripada pendaftaran NPRA…"
 monitor_inn: "PIPERACILLIN"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "sclerosing cholangitis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "WHIM syndrome"]
 ---
@@ -46,12 +46,12 @@ Piperacillin ialah antibiotik beta-laktam (kumpulan penisilin) yang digunakan un
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data indikasi lulus daripada pendaftaran NPRA (tiada lesen didaftarkan) |
+| Indikasi Asal | Tiada data indikasi lulus daripada pendaftaran NPRA |
 | Indikasi Baharu yang Diramalkan | Rheumatoid arthritis |
 | Skor Ramalan TxGNN | 0.9994 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
-| Bilangan Pendaftaran | 8 (sah: 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 8) |
+| Bilangan Pendaftaran | 8 (sah: 7) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -107,7 +107,7 @@ Nota tambahan: piperacillin memerlukan pelarasan dos pada gangguan buah pinggang
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal, tanpa kajian yang relevan, dan tanpa hubungan mekanistik yang munasabah; produk juga tidak berdaftar di Malaysia.
+- Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal, tanpa kajian yang relevan, dan tanpa hubungan mekanistik yang munasabah.
 - Ramalan lain (contohnya sclerosing cholangitis, osteoarthritis susceptibility, diabetic nephropathy, WHIM syndrome) turut berada pada L5 dan berstatus Hold.
 
 **Untuk meneruskan, perkara berikut diperlukan:**

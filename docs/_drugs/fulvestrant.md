@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 377
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "FULVESTRANT"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Fulvestrant: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -38,7 +38,7 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 ## Ringkasan Satu Ayat
 
-Fulvestrant ialah antagonis sekaligus pendegradasi reseptor estrogen. Data yang dikompil untuk laporan ini tidak mencatatkan indikasi asalnya di Malaysia kerana tiada lesen berdaftar.
+Fulvestrant ialah antagonis sekaligus pendegradasi reseptor estrogen. Data yang dikompil untuk laporan ini tidak mencatatkan indikasi asalnya di Malaysia.
 Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan HIV**, tetapi sokongan buktinya lemah: **0 ujian klinikal** dan **2 penerbitan** (satu kajian prasiklinikal in vitro dan satu kajian mengenai virus lain, HTLV-1).
 
 ---
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan HIV**, tetapi sokon
 | Indikasi Baharu yang Diramalkan | Jangkitan HIV (HIV infectious disease) |
 | Skor Ramalan TxGNN | 0.9991 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
-| Bilangan Pendaftaran | 8 (sah: 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
+| Bilangan Pendaftaran | 11 (sah: 11) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -96,7 +96,7 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan HIV hanya disokong oleh satu kajian in vitro dan skor model, tanpa ujian klinikal. Ubat ini juga tidak berdaftar di Malaysia dan maklumat keselamatan daripada label tiada.
+- Ramalan HIV hanya disokong oleh satu kajian in vitro dan skor model, tanpa ujian klinikal. Maklumat keselamatan daripada label tiada.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Muat turun dan huraikan sisipan pakej NPRA bagi amaran dan kontraindikasi (jurang data yang menyekat).

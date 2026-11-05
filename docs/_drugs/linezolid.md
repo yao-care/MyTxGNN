@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 465
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Tanpa sasaran ramalan, penilaian mekanistik dan klinikal yang lengkap tidak bole
 | Petunjuk Baru yang Diramalkan | Tiada ramalan tersedia |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | T/A — tiada sasaran ramalan untuk dinilai |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
-| Bilangan Pendaftaran | 9 (sah: 9) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
+| Bilangan Pendaftaran | 11 (sah: 11) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

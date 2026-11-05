@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 104
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -50,8 +50,8 @@ Atorvastatin Calcium Trihydrate adalah statin yang telah terbukti keberkesananny
 | Indikasi Baru yang Diramalkan | — Tidak tersedia (predicted_indications adalah kosong) |
 | Skor Ramalan TxGNN | — Tidak tersedia |
 | Tahap Bukti | L5 (data ramalan model tidak ada; tiada kajian sokongan boleh dinilai pada masa ini) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 32 daripada 32) |
-| Bilangan Pendaftaran | 32 (sah: 32) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 71 daripada 71) |
+| Bilangan Pendaftaran | 71 (sah: 71) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

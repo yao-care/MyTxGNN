@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 566
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "PERINDOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 description: "Perindopril: indikasi baharu diramal Penyakit renal hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada percubaan klinikal** didaftarkan dan **tiada litera
 | Indikasi Baharu yang Diramalkan | Penyakit renal hipertensif malignan (malignant hypertensive renal disease) |
 | Skor Ramalan TxGNN | 0.9977 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 39 daripada 39) |
-| Bilangan Pendaftaran | 39 (sah: 39) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 43 daripada 43) |
+| Bilangan Pendaftaran | 43 (sah: 43) |
 | Keputusan yang Disyorkan | Hold |
 
 ---

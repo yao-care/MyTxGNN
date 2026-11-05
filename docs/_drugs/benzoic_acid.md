@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Benzoic Acid"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "dry eye syndrome", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "hereditary angioedema with C1Inh deficiency", "posterior leukoencephalopathy syndrome", "C1 inhibitor deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Benzoic Acid: indikasi baharu diramal Bronkitis (tahap bukti L5). Indikasi asal: Hubungan yang direkodkan dalam graf pengetahuan: pemfigus…"
 ---
 
@@ -48,8 +48,8 @@ Asid benzoik direkodkan dalam graf pengetahuan TxGNN (PrimeKG) berkaitan dengan 
 | Indikasi Baharu yang Diramalkan | Bronkitis |
 | Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 36) |
-| Bilangan Pendaftaran | 36 (sah: 36) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 35 daripada 36) |
+| Bilangan Pendaftaran | 36 (sah: 35) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah (atau Tidak)?
@@ -75,7 +75,7 @@ Tiada kajian yang meneliti asid benzoik untuk bronkitis secara langsung.
 
 ## Maklumat Pasaran Malaysia
 
-Terdapat 36 lesen sah (1 bahan tunggal, 35 kombinasi). Teks indikasi yang diluluskan tidak tersedia pada rekod. Lesen produk kombinasi tidak boleh digunakan untuk menggambarkan kelulusan asid benzoik sebagai bahan tunggal. Berikut ialah lima contoh:
+Teks indikasi yang diluluskan tidak tersedia pada rekod. Lesen produk kombinasi tidak boleh digunakan untuk menggambarkan kelulusan asid benzoik sebagai bahan tunggal. Berikut ialah lima contoh:
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|

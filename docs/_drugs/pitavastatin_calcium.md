@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 583
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Ketiga-tiga komponen data utama — mekanisme tindakan, pelabelan keselamatan, d
 | Petunjuk Baru yang Diramalkan | — *(Tiada ramalan TxGNN tersedia dalam pakej bukti ini)* |
 | Skor Ramalan TxGNN | — |
 | Tahap Bukti | — *(Tiada ramalan untuk dinilai)* |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
-| Bilangan Pendaftaran | 3 (sah: 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

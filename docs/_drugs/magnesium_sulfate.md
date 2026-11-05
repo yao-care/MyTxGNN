@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "MAGNESIUM SULFATE"
 predicted_indications: ["thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 description: "Magnesium Sulfate: indikasi baharu diramal Penyakit trombotik (thrombotic disease) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Magnesium sulfat ialah garam magnesium yang telah didaftarkan dan dipasarkan di 
 | Indikasi Baharu yang Diramalkan | Penyakit trombotik (thrombotic disease) |
 | Skor Ramalan TxGNN | 0.9990 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
-| Bilangan Pendaftaran | 12 (sah: 12) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 11) |
 | Keputusan Disyorkan | Tahan |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -79,7 +79,7 @@ Skor TxGNN yang sangat tinggi belum disokong oleh data klinikal yang kukuh. Bukt
 
 ## Maklumat Pasaran di Malaysia
 
-Data tempatan merekodkan 12 lesen yang semuanya sah, iaitu 6 produk bahan tunggal dan 6 produk kombinasi. Senarai di bawah hanya memaparkan produk bahan tunggal. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
+Senarai di bawah hanya memaparkan produk bahan tunggal. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 
 | Nombor Kebenaran | Nama Produk | Pengilang |
 |---------|------|------|

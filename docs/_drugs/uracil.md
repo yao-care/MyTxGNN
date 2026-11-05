@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 711
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Uracil"
 predicted_indications: ["lipoma of colon", "colonic lymphangioma", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "cavernous hemangioma of colon", "cecal disease", "colon leiomyoma"]
 description: "Uracil: indikasi baharu diramal Lipoma kolon (lipoma of colon) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -50,8 +50,8 @@ tetapi pada masa ini **tiada kajian klinikal** dan **tiada penerbitan** yang men
 | Indikasi Baharu yang Diramalkan | Lipoma kolon (lipoma of colon) |
 | Skor Ramalan TxGNN | 0.9936 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
-| Bilangan Pendaftaran | 5 (sah: 5) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 4) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -70,7 +70,7 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-Data yang disusun untuk laporan ini menunjukkan status pasaran "Dipasarkan", dengan 5 lesen yang sah dan tiada lesen yang dibatalkan. Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun.
+Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun.
 
 ## Pertimbangan Keselamatan
 

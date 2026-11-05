@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 419
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "INSULIN DETEMIR"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 description: "Insulin Detemir: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -129,7 +129,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 - Beberapa ujian Fasa 3 yang selesai (cth. NCT00595374, NCT00447382, NCT00312156, NCT00184639) dan beberapa ulasan sistematik menyokong penggunaan detemir dalam T1D, maka tahap bukti ialah L1.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Mengesahkan status pendaftaran dan ketersediaan di Malaysia (NPRA), memandangkan tiada lesen berdaftar
+- Mengesahkan status pendaftaran dan ketersediaan di Malaysia (NPRA)
 - Memuat turun dan menyemak sisipan pakej untuk amaran dan kontraindikasi (jurang data yang menghalang saringan keselamatan)
 - Data mekanisme tindakan terperinci (MOA) daripada DrugBank
 - Pelan pemantauan keselamatan untuk populasi khusus (kanak-kanak, wanita hamil) dan pengurusan interaksi ubat

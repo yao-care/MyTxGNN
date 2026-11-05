@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 327
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "EPINEPHRINE"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 description: "Epinephrine: indikasi baharu diramal Penyakit paru-paru obstruktif (obstructive lung disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ dengan **15 percubaan klinikal** dan **20 penerbitan** yang disenaraikan dalam d
 | Indikasi Baharu yang Diramalkan | Penyakit paru-paru obstruktif (obstructive lung disease) |
 | Skor Ramalan TxGNN | 0.9971 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
-| Bilangan Pendaftaran | 11 (sah: 11) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 15) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---

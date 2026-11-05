@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Iron"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Iron: indikasi baharu diramal Vitamin B12- and folate-independent constitutional megaloblastic anemia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **anemia megaloblastik konstitu
 | Indikasi Baharu yang Diramalkan | Vitamin B12- and folate-independent constitutional megaloblastic anemia |
 | Skor Ramalan TxGNN | 0.9989 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 80 daripada 80) |
-| Bilangan Pendaftaran | 80 (sah: 80) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 79 daripada 80) |
+| Bilangan Pendaftaran | 80 (sah: 79) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -79,7 +79,7 @@ Setakat ini tiada literatur berkaitan yang tersedia untuk indikasi yang diramalk
 
 ## Maklumat Pasaran di Malaysia
 
-Status pasaran: dipasarkan. Sebanyak 80 lesen direkodkan, kesemuanya sah (30 produk bahan tunggal dan 50 produk gabungan). Tiada lesen dibatalkan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Senarai lima lesen bahan tunggal utama:
+Status pasaran: dipasarkan. Sebanyak 80 lesen direkodkan, kesemuanya sah (30 produk bahan tunggal dan 50 produk gabungan). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Senarai lima lesen bahan tunggal utama:
 
 | Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|

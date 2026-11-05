@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 508
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "MIRTAZAPINE"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
 description: "Mirtazapine: indikasi baharu diramal Sindrom Ohdo dan variannya (Ohdo syndrome and variants) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 | Indikasi Baharu yang Diramalkan | Sindrom Ohdo dan variannya (Ohdo syndrome and variants) |
 | Skor Ramalan TxGNN | 0.9942 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
-| Bilangan Pendaftaran | 8 (sah: 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 12) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---

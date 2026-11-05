@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 537
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "OCRELIZUMAB"
 predicted_indications: ["HER2 positive breast carcinoma", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer"]
 description: "Ocrelizumab: indikasi baharu diramal Karsinoma payudara HER2 positif (HER2 positive breast carcinoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -49,8 +49,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **karsinoma payudara HER2 posit
 | Indikasi Baharu yang Diramalkan | Karsinoma payudara HER2 positif (HER2 positive breast carcinoma) |
 | Skor Ramalan TxGNN | 0.9989 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
-| Bilangan Pendaftaran | 1 (sah: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 Ramalan lain yang berkedudukan tinggi (semuanya L5, Hold): subjenis payudara-normal karsinoma payudara (0.9981), kanser payudara positif reseptor progesteron (0.9981), tumor payudara luminal A atau B (0.9981) dan kanser payudara negatif reseptor progesteron (0.9980).

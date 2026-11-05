@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 448
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "LEDIPASVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "chronic hepatitis B virus infection", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 description: "Ledipasvir: indikasi baharu diramal Jangkitan virus hepatitis B (hepatitis B virus infection) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -99,7 +99,6 @@ Walau bagaimanapun, kajian Fasa 2 (NCT03312023, diterbitkan sebagai PMID 3604550
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -121,7 +120,7 @@ Sila rujuk sisipan pek produk untuk maklumat amaran dan kontraindikasi yang leng
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Terdapat satu kajian Fasa 2 label terbuka sepasukan yang kecil (n=21) yang menguji ledipasvir/sofosbuvir pada HBV secara langsung, tetapi tiada asas mekanistik langsung, dan kesan yang diperhatikan mungkin berpunca daripada sofosbuvir atau dinamik jangkitan bersama. Risiko pengaktifan semula HBV juga menentang penggunaan ini. Ubat ini juga tidak didaftarkan di Malaysia.
+- Terdapat satu kajian Fasa 2 label terbuka sepasukan yang kecil (n=21) yang menguji ledipasvir/sofosbuvir pada HBV secara langsung, tetapi tiada asas mekanistik langsung, dan kesan yang diperhatikan mungkin berpunca daripada sofosbuvir atau dinamik jangkitan bersama. Risiko pengaktifan semula HBV juga menentang penggunaan ini.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Kajian terkawal rawak dengan sampel lebih besar pada pesakit jangkitan mono HBV, dengan perbandingan sofosbuvir sahaja untuk mengasingkan sumbangan ledipasvir

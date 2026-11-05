@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 381
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Gefitinib: indikasi baharu diramal Fibromatosis gingiva (tahap bukti L5). Indikasi asal: Kanser paru-paru sel bukan kecil (NSCLC) / kanser paru-paru"
 monitor_inn: "GEFITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]
@@ -116,7 +116,7 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi, ke
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan untuk fibromatosis gingiva hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur sokongan, manakala gefitinib tidak berdaftar di Malaysia dan mempunyai risiko keselamatan yang ketara (penyakit paru-paru interstisial, toksisiti kulit, interaksi ubat).
+- Ramalan untuk fibromatosis gingiva hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur sokongan dan mempunyai risiko keselamatan yang ketara (penyakit paru-paru interstisial, toksisiti kulit, interaksi ubat).
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Sisipan pakej/amaran dan kontraindikasi (blokir; diperlukan sebelum saringan keselamatan)

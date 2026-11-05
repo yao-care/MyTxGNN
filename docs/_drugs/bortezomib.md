@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 158
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Bortezomib: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 | Indikasi baharu yang diramalkan | Tiada (tiada calon model dengan skor 0.99 atau lebih tinggi) |
 | Kegunaan diketahui yang direkodkan untuk ubat ini | 8 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 17 daripada 17) |
-| Bilangan Pendaftaran | 17 (sah: 17) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 18 daripada 18) |
+| Bilangan Pendaftaran | 18 (sah: 18) |
 
 ## Kegunaan diketahui yang direkodkan untuk ubat ini
 

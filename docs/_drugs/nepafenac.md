@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 521
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Nepafenac"
 predicted_indications: ["eye disease", "optic papillitis", "hypotrichosis simplex of the scalp", "seborrheic keratosis", "von Hippel anomaly", "congenital hypotrichosis milia", "mcpherson robertson cammarano syndrome", "lagophthalmos", "vulvar inverted follicular keratosis", "vitreous detachment"]
 description: "Nepafenac: indikasi baharu diramal Penyakit mata (eye disease) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -141,7 +141,7 @@ Ramalan kedudukan 3 hingga 9 tidak mempunyai asas mekanistik yang jelas; skornya
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pembungkusan NPRA (amaran dan kontraindikasi), yang merupakan jurang data penyekat untuk saringan keselamatan.
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
-- Pengesahan status kawal selia dan indikasi asal, memandangkan rekod menunjukkan tiada pendaftaran di Malaysia.
+- Pengesahan status kawal selia dan indikasi asal.
 - Penilaian berasingan bagi sub-indikasi (edema makula, kesakitan selepas PRP, keradangan selepas laser).
 - Pelan pemantauan keselamatan kornea bagi pesakit berisiko, seperti mata kering, keratitis, ulser kornea dan penyakit graf-lawan-perumah.
 ## Penafian

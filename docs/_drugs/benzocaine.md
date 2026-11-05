@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BENZOCAINE"
 predicted_indications: ["papillary conjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Benzocaine: indikasi baharu diramal Konjunktivitis papilari (papillary conjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -49,8 +49,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Konjunktivitis papilari (papi
 | Indikasi Baharu yang Diramalkan | Konjunktivitis papilari (papillary conjunctivitis) |
 | Skor Ramalan TxGNN | 0,9938 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
-| Bilangan Pendaftaran | 6 (sah: 6) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

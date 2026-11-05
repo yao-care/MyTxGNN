@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ASPARTIC ACID"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Aspartic Acid: indikasi baharu diramal Asidosis tiub renal (renal tubular acidosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Asid aspartik ialah sejenis asid amino yang dipasarkan di Malaysia. Model TxGNN 
 | Indikasi Baharu yang Diramalkan | Asidosis tiub renal (renal tubular acidosis) |
 | Skor Ramalan TxGNN | 0,9947 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 23 daripada 23) |
-| Bilangan Pendaftaran | 23 (sah: 23) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 19 daripada 23) |
+| Bilangan Pendaftaran | 23 (sah: 19) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

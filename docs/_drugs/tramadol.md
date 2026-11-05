@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Tramadol"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Tramadol: indikasi baharu diramal Acromesomelic dysplasia, Hunter-Thompson type (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Tramadol ialah ubat analgesik opioid (agonis reseptor mu dengan aktiviti perenca
 | Indikasi Baharu yang Diramalkan | Acromesomelic dysplasia, Hunter-Thompson type |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 34 daripada 34) |
-| Bilangan Pendaftaran | 34 (sah: 34) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 35 daripada 35) |
+| Bilangan Pendaftaran | 35 (sah: 35) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Wajar (atau Tidak)?

@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 402
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Hydrochlorothiazide: kegunaan diketahui dan status pasaran di Malaysia; kini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 | Indikasi baharu yang diramalkan | Tiada (tiada calon model dengan skor 0.99 atau lebih tinggi) |
 | Kegunaan diketahui yang direkodkan untuk ubat ini | 5 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 58 daripada 58) |
-| Bilangan Pendaftaran | 58 (sah: 58) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 59 daripada 59) |
+| Bilangan Pendaftaran | 59 (sah: 59) |
 
 ## Kegunaan diketahui yang direkodkan untuk ubat ini
 

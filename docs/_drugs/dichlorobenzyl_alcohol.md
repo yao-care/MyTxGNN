@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 283
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Dichlorobenzyl Alcohol: indikasi baharu diramal Bronkitis (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan dalam data yang dikumpulkan (antisepti…"
 monitor_inn: "dichlorobenzyl alcohol"
 predicted_indications: ["bronchitis", "migraine disorder"]
@@ -89,14 +89,14 @@ Nota: Penerbitan ini hanya menyebut terbitan struktur kimia yang berlainan (klen
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan hanya berasaskan model (tahap bukti L5), tanpa percubaan klinikal, tanpa literatur yang relevan, dan tanpa mekanisme tindakan yang disahkan. Produk ini juga tidak berdaftar atau dipasarkan di Malaysia.
+- Ramalan hanya berasaskan model (tahap bukti L5), tanpa percubaan klinikal, tanpa literatur yang relevan, dan tanpa mekanisme tindakan yang disahkan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej (data ini belum diperoleh dan menghalang saringan keselamatan)
 - Data mekanisme tindakan (MOA) terperinci, misalnya daripada DrugBank
 - Semakan literatur yang lebih menyeluruh tentang diklorobenzil alkohol dalam jangkitan saluran pernafasan
 - Penilaian keserasian laluan pemberian (lozenj tekak berbanding keperluan untuk bronkitis)
-- Status pendaftaran atau laluan kawal selia di Malaysia, memandangkan tiada lesen dikesan
+- Status pendaftaran atau laluan kawal selia di Malaysia
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 599
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "PRILOCAINE"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
 description: "Prilocaine: indikasi baharu diramal Konjunktivitis papilari (papillary conjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ Setakat ini **tiada ujian klinikal** dan **tiada literatur** yang menyokong rama
 | Indikasi Baharu yang Diramalkan | Konjunktivitis papilari (papillary conjunctivitis) |
 | Skor Ramalan TxGNN | 0.9978 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
-| Bilangan Pendaftaran | 4 (sah: 4) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---

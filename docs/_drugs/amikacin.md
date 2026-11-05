@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Amikacin: indikasi baharu diramal Demam paratifoid (paratyphoid fever) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Amikacin ialah antibiotik daripada kumpulan aminoglikosida yang digunakan terhad
 | Indikasi Baharu yang Diramalkan | Demam paratifoid (paratyphoid fever) |
 | Skor Ramalan TxGNN | 0,9982 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
-| Bilangan Pendaftaran | 7 (sah: 7) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 9) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

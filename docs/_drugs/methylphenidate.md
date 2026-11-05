@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 501
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Methylphenidate: indikasi baharu diramal Sindrom faciodigitogenital (sindrom Aarskog-Scott) (tahap bukti L5). Indikasi asal: ADHD dan narkolepsi (daripada pangkalan pengetahuan TxGNN…"
 monitor_inn: "METHYLPHENIDATE"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
@@ -46,12 +46,12 @@ Methylphenidate pada asalnya digunakan untuk merawat gangguan hiperaktiviti keku
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | ADHD dan narkolepsi (daripada pangkalan pengetahuan TxGNN, kerana tiada lesen berdaftar di Malaysia) |
+| Indikasi Asal | ADHD dan narkolepsi |
 | Indikasi Baharu yang Diramalkan | Sindrom faciodigitogenital (sindrom Aarskog-Scott) |
 | Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
-| Bilangan Pendaftaran | 11 (sah: 11) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
+| Bilangan Pendaftaran | 14 (sah: 14) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -78,7 +78,7 @@ Pada masa ini tiada literatur berkaitan untuk sindrom faciodigitogenital.
 
 ## Pertimbangan Keselamatan
 
-Maklumat label produk tidak tersedia kerana methylphenidate tidak berdaftar di Malaysia. Sila rujuk sisipan pakej untuk maklumat keselamatan yang rasmi.
+Maklumat label produk tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan yang rasmi.
 
 **Keadaan perubatan yang dikaitkan dengan kontraindikasi** (daripada graf pengetahuan TxGNN, bukan teks label rasmi):
 - Kardiovaskular dan serebrovaskular: hipertensi, penyakit arteri koronari, infarksi miokardium, strok, infarksi serebrum, penyakit konduksi jantung, sudden cardiac arrest
@@ -100,7 +100,7 @@ Maklumat label produk tidak tersedia kerana methylphenidate tidak berdaftar di M
 **Justifikasi:**
 - Ramalan ini hanya berasaskan model (L5), tanpa ujian klinikal atau literatur sokongan.
 - Tiada pautan mekanistik yang munasabah antara methylphenidate dan sindrom faciodigitogenital.
-- Methylphenidate tidak berdaftar di Malaysia, dan data keselamatan label belum lengkap.
+- Data keselamatan label belum lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci, contohnya daripada DrugBank

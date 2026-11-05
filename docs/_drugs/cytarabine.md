@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 249
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "CYTARABINE"
 predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
 description: "Cytarabine: indikasi baharu diramal Karsinoma paru-paru sel kecil (small cell lung carcinoma) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ tetapi setakat ini terdapat **0 ujian klinikal** dan **20 penerbitan** yang berk
 | Indikasi Baharu yang Diramalkan | Karsinoma paru-paru sel kecil (small cell lung carcinoma) |
 | Skor Ramalan TxGNN | 0.9978 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
-| Bilangan Pendaftaran | 3 (sah: 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 3) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -115,7 +115,7 @@ Klasifikasi di atas berdasarkan pengetahuan umum mengenai kelas ubat ini, bukan 
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Skor TxGNN tinggi (0.9978), tetapi tiada ujian klinikal didaftarkan dan tiada bukti khusus sitarabin untuk karsinoma paru-paru sel kecil. Bukti yang ada hanya tahap L4, kebanyakannya daripada kajian NSCLC lama dengan kadar respons rendah (14–18%) dan toksisiti hematologi yang ketara. Sitarabin juga tidak didaftarkan di Malaysia.
+- Skor TxGNN tinggi (0.9978), tetapi tiada ujian klinikal didaftarkan dan tiada bukti khusus sitarabin untuk karsinoma paru-paru sel kecil. Bukti yang ada hanya tahap L4, kebanyakannya daripada kajian NSCLC lama dengan kadar respons rendah (14–18%) dan toksisiti hematologi yang ketara.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej dan maklumat amaran/kontraindikasi rasmi (perlu dimuat turun daripada laman web NPRA). Tanpa ini, saringan keselamatan tidak dapat diteruskan.

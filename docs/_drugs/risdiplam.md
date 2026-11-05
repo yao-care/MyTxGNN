@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 624
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Risdiplam: indikasi baharu diramal Jerawat (acne) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar tempatan"
 monitor_inn: "RISDIPLAM"
 predicted_indications: ["acne (disease)"]
@@ -50,8 +50,8 @@ Risdiplam ialah modulator pemotongan (splicing) pra-mRNA SMN2 yang diketahui dig
 | Indikasi Baharu yang Diramalkan | Jerawat (acne) |
 | Skor Ramalan TxGNN | 0.9945 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
-| Bilangan Pendaftaran | 2 (sah: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -94,7 +94,7 @@ Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pakej.
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan hanya berasaskan model (tahap bukti L5) tanpa sebarang percubaan klinikal atau literatur, dan tiada kaitan mekanistik yang jelas antara risdiplam dan patofisiologi jerawat. Ubat ini juga tidak berdaftar di Malaysia.
+- Ramalan hanya berasaskan model (tahap bukti L5) tanpa sebarang percubaan klinikal atau literatur, dan tiada kaitan mekanistik yang jelas antara risdiplam dan patofisiologi jerawat.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data MOA terperinci daripada DrugBank untuk menilai kaitan mekanistik

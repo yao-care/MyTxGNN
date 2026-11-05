@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 525
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "niraparib"
 predicted_indications: ["epiglottis neoplasm", "cystic neoplasm", "benign neoplasm of hypopharynx", "benign neoplasm of tongue", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "tumor of testis and paratestis", "inner ear neoplasm", "pre-malignant neoplasm", "schwannoma of jugular foramen"]
 description: "Niraparib: indikasi baharu diramal Epiglottis neoplasm (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -126,7 +126,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat pakej.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Satu-satunya percubaan yang aktif (Fasa 2, NCT04716686) masih merekrut tanpa keputusan, manakala dua lagi ditamatkan atau ditarik balik. Literatur kebanyakannya berkaitan kanser ovari serous yang hampir dengan indikasi asal, bukan entiti neoplasma sista yang tersendiri. Niraparib juga tidak didaftarkan di Malaysia.
+- Satu-satunya percubaan yang aktif (Fasa 2, NCT04716686) masih merekrut tanpa keputusan, manakala dua lagi ditamatkan atau ditarik balik. Literatur kebanyakannya berkaitan kanser ovari serous yang hampir dengan indikasi asal, bukan entiti neoplasma sista yang tersendiri.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Penjelasan pemetaan "cystic neoplasm" kepada entiti penyakit klinikal yang sebenar

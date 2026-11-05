@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 716
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Valine: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L4). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "VALINE"
 predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyperthyroidism", "traumatic glaucoma", "aqueous misdirection", "neovascular glaucoma", "glaucomatous atrophy of optic disc", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "obsolete bundle branch block", "hyperthyroxinemia"]
@@ -48,8 +48,8 @@ Valine ialah asid amino rantai bercabang (BCAA) yang tidak mempunyai indikasi ya
 | Indikasi Baharu yang Diramalkan | Kolangitis sklerosis (sclerosing cholangitis) |
 | Skor Ramalan TxGNN | 0.9942 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 41 daripada 41) |
-| Bilangan Pendaftaran | 41 (sah: 41) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 43 daripada 49) |
+| Bilangan Pendaftaran | 49 (sah: 43) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -71,8 +71,6 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Valine tidak mempunyai pendaftaran NPRA pada masa ini (jumlah lesen: 0).
-
 ## Pertimbangan Keselamatan
 
 Sila rujuk risalah pakej untuk maklumat keselamatan. Tiada data interaksi ubat dijumpai dalam data yang dikumpulkan.
@@ -82,7 +80,7 @@ Sila rujuk risalah pakej untuk maklumat keselamatan. Tiada data interaksi ubat d
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan ini hanya disokong oleh skor model dan dua kajian tidak langsung. Tiada percubaan klinikal, tiada mekanisme yang ditetapkan, dan tiada pendaftaran tempatan.
+- Ramalan ini hanya disokong oleh skor model dan dua kajian tidak langsung. Tiada percubaan klinikal, tiada mekanisme yang ditetapkan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci

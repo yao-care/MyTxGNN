@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 556
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Panitumumab: indikasi baharu diramal Osteoporosis teraruh ubat (drug-induced osteoporosis) (tahap bukti L5). Indikasi asal: Neoplasma malignan metastatik pada kolon"
 monitor_inn: "PANITUMUMAB"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy"]
@@ -103,7 +103,7 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang lengkap.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan hanya disokong oleh skor model TxGNN yang tinggi (Tahap Bukti L5), tanpa percubaan klinikal atau literatur. Arah kesan EGFR terhadap tulang tidak pasti dan mungkin memudaratkan, dan ubat ini tidak didaftarkan di Malaysia.
+- Ramalan hanya disokong oleh skor model TxGNN yang tinggi (Tahap Bukti L5), tanpa percubaan klinikal atau literatur. Arah kesan EGFR terhadap tulang tidak pasti dan mungkin memudaratkan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 198
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Carbocisteine: indikasi baharu diramal Gout (tahap bukti L5). Indikasi asal: Tiada data indikasi yang diluluskan daripada pendaftaran NPRA"
 monitor_inn: "CARBOCISTEINE"
 predicted_indications: ["gout"]
@@ -90,7 +90,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur, tiada pautan mekanisme yang kukuh antara carbocisteine dengan patofisiologi gout, dan ubat ini tidak mempunyai pendaftaran di Malaysia.
+- Ramalan hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur, tiada pautan mekanisme yang kukuh antara carbocisteine dengan patofisiologi gout.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan, kerana ketiadaannya menghalang kemajuan.

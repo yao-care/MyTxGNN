@@ -5,7 +5,7 @@ layout: default
 title: Amiloride Hydrochloride
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 56
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -40,8 +40,8 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 
 | Item | Konten |
 |------|--------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
-| Bilangan Pendaftaran | 2 (sah: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Indikasi Asli | Hipertensi, edema, pencegahan hipokalemia yang diinduksi tiazidia |
 | Indikasi Baru yang Diprediksi | Tidak tersedia |
 | Status Pasar Malaysia | ✓ Dipasarkan (Dipasarkan) |

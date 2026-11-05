@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ethinylestradiol"
 predicted_indications: ["zinc, elevated plasma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ethinylestradiol: indikasi baharu diramal Zink plasma meningkat (zinc, elevated plasma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Etinilestradiol ialah estrogen sintetik yang terdapat dalam banyak produk gabung
 | Indikasi Baharu yang Diramalkan | Zink plasma meningkat (zinc, elevated plasma) |
 | Skor Ramalan TxGNN | 0.9963 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 27 daripada 27) |
-| Bilangan Pendaftaran | 27 (sah: 27) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 28 daripada 28) |
+| Bilangan Pendaftaran | 28 (sah: 28) |
 | Bilangan Kelulusan | 27 pendaftaran (semuanya produk gabungan) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 148
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Bicalutamide: indikasi baharu diramal Hipertrikosis (tahap bukti L4). Indikasi asal: Kanser prostat"
 monitor_inn: "BICALUTAMIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "multiple endocrine neoplasia", "pulmonary hypertension", "female breast carcinoma", "nephrogenic syndrome of inappropriate antidiuresis"]
@@ -96,7 +96,7 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Walaupun skor TxGNN tinggi, bukti untuk hipertrikosis hanya satu surat ulasan tanpa ujian klinikal, dan hipertrikosis akibat ubat berbeza daripada hipertrikosis kongenital. Ubat ini juga tidak didaftarkan di Malaysia dan mempunyai isyarat risiko hati.
+- Walaupun skor TxGNN tinggi, bukti untuk hipertrikosis hanya satu surat ulasan tanpa ujian klinikal, dan hipertrikosis akibat ubat berbeza daripada hipertrikosis kongenital. Ubat ini juga mempunyai isyarat risiko hati.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej dan maklumat amaran/kontraindikasi daripada NPRA, atau pengesahan status pendaftaran tempatan.

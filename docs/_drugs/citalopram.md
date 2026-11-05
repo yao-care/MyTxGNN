@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "CITALOPRAM"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Citalopram: indikasi baharu diramal Gangguan Obsesif-Kompulsif (obsessive-compulsive disorder) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Citalopram ialah perencat pengambilan semula serotonin terpilih (SSRI) yang suda
 | Indikasi Baharu yang Diramalkan | Gangguan Obsesif-Kompulsif (obsessive-compulsive disorder) |
 | Skor Ramalan TxGNN | 0,9974 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 27 daripada 27) |
-| Bilangan Pendaftaran | 27 (sah: 27) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 26 daripada 27) |
+| Bilangan Pendaftaran | 27 (sah: 26) |
 | Keputusan Disyorkan | Teruskan dengan Langkah Kawalan |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -83,7 +83,7 @@ Secara mekanisme, tindakan serotonergik citalopram selaras dengan rasional terap
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan merekodkan 27 lesen sah dan tiada yang dibatalkan, jadi status pasaran ialah dipasarkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak disertakan dalam data yang dikumpulkan.
+Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak disertakan dalam data yang dikumpulkan.
 
 ## Pertimbangan Keselamatan
 

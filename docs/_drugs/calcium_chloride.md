@@ -3,7 +3,7 @@ layout: default
 title: Calcium Chloride
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 185
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Calcium Chloride: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 indication_count: 0
@@ -45,8 +45,8 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 | Perkara | Kandungan |
 |------|------|
 | Kegunaan diketahui yang direkodkan untuk ubat ini | 2 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 90 daripada 90) |
-| Bilangan Pendaftaran | 90 (sah: 90) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 86 daripada 90) |
+| Bilangan Pendaftaran | 90 (sah: 86) |
 
 ## Kegunaan diketahui yang direkodkan untuk ubat ini
 
@@ -77,11 +77,11 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 | MAL16085019AZ | PERIOLIMEL N4E, emulsion for infusion |  | Sah |
 | MAL11080013XC | Melaleuca Oligo VFL MULTIVITAMIN & MINERAL |  | Sah |
 | MAL11080012XC | Melaleuca Oligo VFL MULTIVITAMIN & MINERAL + IRON |  | Sah |
-| MAL19962094AZ | NUTRIFLEX PLUS IN 2000ML TWIN FLEX |  | Sah |
-| MAL19962093AZ | NUTRIFLEX PLUS IN 1000ML TWIN FLEX |  | Sah |
+| MAL19962094AZ | NUTRIFLEX PLUS IN 2000ML TWIN FLEX |  | Dibatalkan Pendaftaran |
+| MAL19962093AZ | NUTRIFLEX PLUS IN 1000ML TWIN FLEX |  | Dibatalkan Pendaftaran |
 | MAL11090002ARZ | SmofKabiven, Emulsion for Infusion |  | Sah |
-| MAL19962095AZ | NUTRIFLEX SPECIAL IN 1500ML TWIN FLEX |  | Sah |
-| MAL19962096AZ | NUTRIFLEX SPECIAL IN 1000ML TWIN FLEX |  | Sah |
+| MAL19962095AZ | NUTRIFLEX SPECIAL IN 1500ML TWIN FLEX |  | Dibatalkan Pendaftaran |
+| MAL19962096AZ | NUTRIFLEX SPECIAL IN 1000ML TWIN FLEX |  | Dibatalkan Pendaftaran |
 | MAL06091412AZ | CAPD/DPCA 19 STAY SAFE PERITONEAL DIALYSIS SOLUTION |  | Sah |
 | MAL06091410AZ | CAPD/DPCA 17 STAY  SAFE  PERITONEAL DIALYSIS SOLUTION |  | Sah |
 | MAL06091468AZ | CAPD/DPCA 18 STAY SAFE PERITONEAL DIALYSIS SOLUTION |  | Sah |

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "AMOXICILLIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Amoxicillin: indikasi baharu diramal Hiperamilasemia (hyperamylasemia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ Amoksisilin ialah antibiotik beta-laktam yang bertindak dengan merencat sintesis
 | Indikasi Baharu yang Diramalkan | Hiperamilasemia (hyperamylasemia) |
 | Skor Ramalan TxGNN | 0.9963 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 100 daripada 100) |
-| Bilangan Pendaftaran | 100 (sah: 100) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 99 daripada 100) |
+| Bilangan Pendaftaran | 100 (sah: 99) |
 | Keputusan Disyorkan | Hold |
 
 ---

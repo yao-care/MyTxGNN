@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Zinc Oxide"
 predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Zinc Oxide: indikasi baharu diramal Jerawat (acne) (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam rekod lesen tempatan. Hubungan y…"
 ---
 
@@ -50,8 +50,8 @@ Zinc oxide ialah bahan pelindung kulit yang digunakan secara topikal. Model TxGN
 | Indikasi Baharu Diramal | Jerawat (acne) |
 | Skor Ramalan TxGNN | 0.9986 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 280 daripada 280) |
-| Bilangan Pendaftaran | 280 (sah: 280) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 304 daripada 314) |
+| Bilangan Pendaftaran | 314 (sah: 304) |
 | Bilangan Kelulusan | Sekurang-kurangnya 280 lesen (7 produk bahan tunggal, 273 produk kombinasi) |
 | Keputusan Disyorkan | Hold |
 

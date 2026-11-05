@@ -11,7 +11,7 @@ brands: []
 permalink: /drugs/cefotaxime/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
-| Bilangan Pendaftaran | 4 (sah: 4) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 3) |
 | **Nama Ubat** | Cefotaxime |
 | **ID DrugBank** | [DB00493](https://go.drugbank.com/drugs/DB00493) |
 | **Ramalan DL (≥0.7)** | 97 |

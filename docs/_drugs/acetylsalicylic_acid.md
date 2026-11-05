@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "ACETYLSALICYLIC ACID"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombophilia"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Acetylsalicylic Acid: indikasi baharu diramal Atrofoderma vermikulata (atrophoderma vermiculata) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Asid asetilsalisilik (aspirin) ialah ubat perencat COX dengan kesan antiplatelet
 | Indikasi Baharu yang Diramalkan | Atrofoderma vermikulata (atrophoderma vermiculata) |
 | Skor Ramalan TxGNN | 0.9959 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
-| Bilangan Pendaftaran | 15 (sah: 15) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 22 daripada 23) |
+| Bilangan Pendaftaran | 23 (sah: 22) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?

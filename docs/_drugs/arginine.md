@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ARGININE"
 predicted_indications: ["gastroparesis (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Arginine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Arginine ialah asid amino yang berperanan sebagai substrat untuk sintesis nitrik
 | Indikasi Baharu yang Diramalkan | Gastroparesis (gastroparesis (disease)) |
 | Skor Ramalan TxGNN | 0,9942 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 138 daripada 138) |
-| Bilangan Pendaftaran | 138 (sah: 138) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 126 daripada 138) |
+| Bilangan Pendaftaran | 138 (sah: 126) |
 | Keputusan yang Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -80,7 +80,7 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-Data yang dikumpulkan menunjukkan 138 lesen sah dan tiada lesen dibatalkan. Senarai terperinci lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Senarai terperinci lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 

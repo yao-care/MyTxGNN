@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 72
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Penilaian ujikaji semula lengkap **tidak dapat diteruskan** sehingga jurang ini 
 | Indikasi Baru yang Diramalkan | Tiada — tiada ramalan TxGNN dijana |
 | Skor Ramalan TxGNN | T/A |
 | Tahap Bukti | L5 — Data tidak mencukupi; tiada output model tersedia |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 49 daripada 49) |
-| Bilangan Pendaftaran | 49 (sah: 49) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 61 daripada 61) |
+| Bilangan Pendaftaran | 61 (sah: 61) |
 | Jumlah Pendaftaran | 49 |
 | Keputusan yang Disyorkan | **Tahan** |
 

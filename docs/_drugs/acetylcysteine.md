@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "Acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Acetylcysteine: indikasi baharu diramal Penyakit trombotik (thrombotic disease) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Acetylcysteine ialah agen mukolitik dan antioksidan yang telah lama digunakan da
 | Indikasi Baharu yang Diramalkan | Penyakit trombotik (thrombotic disease) |
 | Skor Ramalan TxGNN | 0,9996 |
 | Tahap Bukti | L1 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 33 daripada 33) |
-| Bilangan Pendaftaran | 33 (sah: 33) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 36) |
+| Bilangan Pendaftaran | 36 (sah: 36) |
 | Keputusan Disyorkan | Teruskan dengan Pagar Pengadang (Proceed with Guardrails) |
 
 ## Mengapa Ramalan Ini Munasabah?

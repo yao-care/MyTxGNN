@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 662
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "SULODEXIDE"
 predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease"]
 description: "Sulodexide: indikasi baharu diramal Glanzmann thrombasthenia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -38,7 +38,7 @@ Tahap bukti: **L5** | Indikasi diramal: **3**
 
 ## Ringkasan Satu Ayat
 
-Sulodexide ialah campuran glikosaminoglikan (heparin bergerak pantas dan dermatan sulfat) dengan aktiviti antitrombotik, profibrinolitik dan perlindungan endotelium. Indikasi asalnya tidak dapat disahkan daripada data yang disusun untuk laporan ini kerana tiada pendaftaran di Malaysia.
+Sulodexide ialah campuran glikosaminoglikan (heparin bergerak pantas dan dermatan sulfat) dengan aktiviti antitrombotik, profibrinolitik dan perlindungan endotelium. Indikasi asalnya tidak dapat disahkan daripada data yang disusun untuk laporan ini.
 Model TxGNN meramalkan ia mungkin berkesan untuk **Glanzmann thrombasthenia**, tetapi terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong arah ini. Ramalan ini hanya berasaskan model.
 
 ---
@@ -74,7 +74,6 @@ Skor TxGNN yang tinggi (0.9943) datang daripada model TxGNN (pembelajaran mendal
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -88,7 +87,7 @@ Sila rujuk sisipan pek untuk maklumat keselamatan. Perlu diberi perhatian bahawa
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur. Mekanisme antikoagulan sulodexide bercanggah dengan keperluan rawatan gangguan pendarahan platelet, dan ubat ini tidak didaftarkan di Malaysia.
+- Ramalan hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur. Mekanisme antikoagulan sulodexide bercanggah dengan keperluan rawatan gangguan pendarahan platelet.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang saringan keselamatan)

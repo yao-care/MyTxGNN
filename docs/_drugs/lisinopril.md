@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 467
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "LISINOPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
 description: "Lisinopril: indikasi baharu diramal Pulmonary hypertension owing to lung disease and/or hypoxia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -64,7 +64,6 @@ Data mekanisme tindakan terperinci untuk lisinopril tidak tersedia dalam data ya
 
 Infarksi miokardium posterolateral ialah subjenis anatomi bagi infarksi miokardium, iaitu penyakit yang lisinopril sedia diindikasikan. Skor TxGNN yang tinggi kemungkinan besar mencerminkan kedekatan ontologi ini, bukan isyarat repurposing yang benar-benar baharu.
 
-
 ---
 
 ## Bukti Ujian Klinikal
@@ -80,7 +79,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk infarksi miokardium 
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -102,7 +100,7 @@ Sila rujuk sisipan pek untuk maklumat keselamatan yang lengkap.
 
 **Justifikasi:**
 - Ramalan ini hanya berasaskan model (L5) tanpa ujian atau literatur khusus, dan kemungkinan besar mencerminkan kedekatan ontologi dengan indikasi infarksi miokardium yang sedia ada. Ia bukan penemuan repurposing yang baharu.
-- Lisinopril tidak berdaftar di Malaysia, dan data keselamatan peringkat label belum lengkap.
+- Data keselamatan peringkat label belum lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Memuat turun dan mengekstrak amaran serta kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang).

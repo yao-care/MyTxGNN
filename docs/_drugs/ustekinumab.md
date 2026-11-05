@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 714
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "USTEKINUMAB"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
 description: "Ustekinumab: indikasi baharu diramal Dermatitis (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ dengan **6 ujian klinikal** dan **20 penerbitan** yang disenaraikan dalam data y
 | Indikasi Baharu yang Diramal | Dermatitis |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
-| Bilangan Pendaftaran | 8 (sah: 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 13 daripada 13) |
+| Bilangan Pendaftaran | 13 (sah: 13) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -111,7 +111,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Terdapat dua ujian Fasa 2 yang menguji ustekinumab secara langsung dalam dermatitis atopik, tetapi saiznya kecil dan keberkesanannya sederhana; rasional mekanistik hanya separa. Ubat ini juga tidak didaftarkan di Malaysia dan data keselamatan label tidak tersedia, jadi ia belum boleh diteruskan.
+- Terdapat dua ujian Fasa 2 yang menguji ustekinumab secara langsung dalam dermatitis atopik, tetapi saiznya kecil dan keberkesanannya sederhana; rasional mekanistik hanya separa. Data keselamatan label tidak tersedia, jadi ia belum boleh diteruskan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada risalah maklumat produk NPRA (halangan utama).

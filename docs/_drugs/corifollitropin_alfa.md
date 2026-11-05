@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 242
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "CORIFOLLITROPIN ALFA"
 predicted_indications: ["gastroduodenitis", "migraine disorder", "peptic ulcer disease", "migraine with brainstem aura", "Raynaud disease", "pulmonary hypertension", "kyphoscoliotic heart disease"]
 description: "Corifollitropin Alfa: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -103,7 +103,7 @@ Buat masa ini tiada literatur berkaitan yang tersedia.
 - Maklumat selitan pek (peringatan dan kontraindikasi) daripada NPRA, yang kini menjadi kekurangan data berstatus penghalang bagi saringan keselamatan.
 - Data mekanisme tindakan (MOA) terperinci, contohnya melalui pertanyaan DrugBank.
 - Hipotesis mekanistik yang boleh diuji dan bukti prapklinikal yang menghubungkan isyarat FSH dengan patologi gastroduodenum.
-- Penilaian status pendaftaran dan laluan pentadbiran yang sesuai, memandangkan ubat ini kini tidak berdaftar di Malaysia.
+- Penilaian status pendaftaran dan laluan pentadbiran yang sesuai.
 - Kajian literatur sistematik untuk mengesahkan sama ada terdapat sebarang bukti yang menyokong atau menyangkal ramalan ini.
 ## Penafian
 

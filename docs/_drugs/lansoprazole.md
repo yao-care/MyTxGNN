@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 445
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "LANSOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Lansoprazole: indikasi baharu diramal Duodenal obstruction (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -100,7 +100,6 @@ Untuk maklumat amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 **Justifikasi:**
 - Ramalan ini hanya disokong oleh model dan satu artikel ulasan umum, tanpa percubaan klinikal. Pautan mekanistik hanya tidak langsung kerana penekanan asid tidak menangani refluks hempedu secara terus.
-- Lansoprazole tidak berdaftar di Malaysia (0 pendaftaran), maka tiada laluan pasaran tempatan sedia ada dan sisipan pakej NPRA tidak tersedia untuk saringan keselamatan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank

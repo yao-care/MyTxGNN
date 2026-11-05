@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 579
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "PIRFENIDONE"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
 description: "Pirfenidone: indikasi baharu diramal Extracutaneous mastocytoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -72,8 +72,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk extracutaneous masto
 
 ## Maklumat Pasaran Malaysia
 
-Pirfenidone pada masa ini tidak mempunyai pendaftaran di Malaysia (jumlah pendaftaran: 0).
-
 ## Pertimbangan Keselamatan
 
 - **Interaksi Ubat**: Pertanyaan interaksi ubat telah selesai dengan 100 interaksi direkodkan. Contoh interaksi tahap sederhana (Moderate) termasuk: bupropion, omeprazole, cimetidine, eliglustat, obeticholic acid, oxandrolone, naltrexone, lansoprazole, miconazole, nitisinone, esomeprazole, glycerol phenylbutyrate, rolapitant, deferasirox, ticlopidine, lumefantrine, disulfiram, primaquine, thiabendazole dan ivacaftor.
@@ -85,7 +83,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah pek (package insert).
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur, dan mekanisme pirfenidone tidak mempunyai kaitan yang mantap dengan penyakit yang didorong oleh KIT. Ubat ini juga tidak didaftarkan di Malaysia.
+- Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur, dan mekanisme pirfenidone tidak mempunyai kaitan yang mantap dengan penyakit yang didorong oleh KIT.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci

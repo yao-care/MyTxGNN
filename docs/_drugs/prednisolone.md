@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "Prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Prednisolone: indikasi baharu diramal Alopesia areata (tahap bukti L2). Indikasi asal: Penyakit autoimun, penyakit Crohn…"
 ---
 
@@ -48,8 +48,8 @@ Prednisolone ialah kortikosteroid sistemik yang digunakan untuk pelbagai keadaan
 | Indikasi Baharu yang Diramalkan | Alopesia areata |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 38 daripada 38) |
-| Bilangan Pendaftaran | 38 (sah: 38) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 40 daripada 40) |
+| Bilangan Pendaftaran | 40 (sah: 40) |
 | Bilangan Kelulusan | 38 pendaftaran (36 produk tunggal, 2 produk gabungan veterinar) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 

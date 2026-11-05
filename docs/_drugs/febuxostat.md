@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 351
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Febuxostat: indikasi baharu diramal Hipourisemia renal (tahap bukti L4). Indikasi asal: Hiperurisemia"
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
@@ -52,8 +52,8 @@ tetapi bukti yang ada sangat terhad: **1 percubaan klinikal** (relevan rendah) d
 | Indikasi Baharu yang Diramalkan | Hipourisemia renal |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
-| Bilangan Pendaftaran | 11 (sah: 11) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 16) |
+| Bilangan Pendaftaran | 16 (sah: 16) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -103,7 +103,7 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi.
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan hipourisemia renal hanya disokong model, tanpa bukti klinikal yang relevan. Menurunkan urat pada keadaan urat sudah rendah tidak mempunyai rasional jelas dan mungkin kontraproduktif. Ubat ini juga tidak berdaftar di Malaysia dan kontraindikasi daripada graf pengetahuan melibatkan penyakit kardiovaskular dan serebrovaskular.
+- Ramalan hipourisemia renal hanya disokong model, tanpa bukti klinikal yang relevan. Menurunkan urat pada keadaan urat sudah rendah tidak mempunyai rasional jelas dan mungkin kontraproduktif. Kontraindikasi daripada graf pengetahuan melibatkan penyakit kardiovaskular dan serebrovaskular.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data amaran dan kontraindikasi daripada sisipan pek NPRA (halangan untuk saringan keselamatan).

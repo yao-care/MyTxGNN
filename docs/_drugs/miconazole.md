@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 504
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 monitor_inn: "MICONAZOLE"
 predicted_indications: ["acne (disease)"]
 description: "Miconazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Jerawat (acne)** dengan skor 
 | Indikasi Baharu yang Diramalkan | Jerawat (acne (disease)) |
 | Skor Ramalan TxGNN | 0.9954 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 39 daripada 39) |
-| Bilangan Pendaftaran | 39 (sah: 39) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 42 daripada 43) |
+| Bilangan Pendaftaran | 43 (sah: 42) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -86,7 +86,7 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Miconazole berstatus dipasarkan di Malaysia, dengan sekurang-kurangnya 39 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ---
 

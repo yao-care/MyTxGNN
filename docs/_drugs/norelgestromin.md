@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 532
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "NORELGESTROMIN"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Norelgestromin: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -88,7 +88,7 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 **Keputusan: Hold**
 
 **Rasional:**
-Ramalan hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur sokongan. Ubat ini juga tidak didaftarkan di Malaysia, dan terdapat senarai panjang kontraindikasi daripada graf pengetahuan yang perlu disahkan.
+Ramalan hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur sokongan. Ubat ini juga terdapat senarai panjang kontraindikasi daripada graf pengetahuan yang perlu disahkan.
 
 **Untuk meneruskan, perlu dilengkapkan:**
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank

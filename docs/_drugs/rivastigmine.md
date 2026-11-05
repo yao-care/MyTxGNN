@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 629
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "RIVASTIGMINE"
 predicted_indications: ["glaucoma"]
 description: "Rivastigmine: indikasi baharu diramal Glaukoma (glaucoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -50,8 +50,8 @@ tetapi setakat ini hanya terdapat **3 penerbitan** (1 kajian praklinikal haiwan,
 | Indikasi Baharu yang Diramalkan | Glaukoma (glaucoma) |
 | Skor Ramalan TxGNN | 0.9927 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
-| Bilangan Pendaftaran | 15 (sah: 15) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 17 daripada 17) |
+| Bilangan Pendaftaran | 17 (sah: 17) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?

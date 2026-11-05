@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 486
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "MEBENDAZOLE"
 predicted_indications: ["acne (disease)"]
 description: "Mebendazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -98,7 +98,7 @@ Untuk maklumat amaran dan kontraindikasi lengkap, sila rujuk sisipan pembungkusa
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan hanya berasaskan model (L5), tanpa percubaan klinikal dan tanpa literatur yang relevan. Ubat ini juga tidak didaftarkan di Malaysia, dan data keselamatan daripada label belum lengkap.
+- Ramalan hanya berasaskan model (L5), tanpa percubaan klinikal dan tanpa literatur yang relevan. Data keselamatan daripada label belum lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap, serta penilaian kemunasabahan biologi terhadap jerawat

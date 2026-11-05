@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 618
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "REVEFENACIN"
 predicted_indications: ["bronchitis"]
 description: "Revefenacin: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -103,7 +103,7 @@ Maklumat amaran dan kontraindikasi daripada sisipan pakej belum tersedia. Sila r
 
 **Justifikasi:**
 - Untuk indikasi bronkitis, hanya satu ujian Fasa 2 dalam populasi COPD dan tiada literatur khusus yang dipautkan, jadi tahap bukti hanya L4. Skor TxGNN yang tinggi berkemungkinan mencerminkan pertindihan dengan COPD dan bukan bukti bebas.
-- Ubat ini tidak mempunyai pendaftaran di Malaysia, dan data keselamatan dalam sisipan pakej belum tersedia.
+- Data keselamatan dalam sisipan pakej belum tersedia.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Ujian klinikal atau kajian literatur khusus untuk populasi bronkitis (termasuk pengesahan sama ada bronkitis kronik dalam konteks COPD boleh dianggap indikasi yang berasingan)

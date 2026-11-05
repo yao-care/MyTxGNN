@@ -5,8 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 323
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
-description: "Enfortumab Vedotin: indikasi baharu diramal Kusta (leprosy) (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen NPRA)"
+last_modified_at: 2026-11-06
+description: "Enfortumab Vedotin: indikasi baharu diramal Kusta (leprosy) (tahap bukti L5). Indikasi asal: Tiada data"
 monitor_inn: "ENFORTUMAB VEDOTIN"
 predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "infectious bovine rhinotracheitis", "malignant catarrh"]
 ---
@@ -38,7 +38,7 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 
 ## Ringkasan Satu Ayat
 
-Enfortumab vedotin ialah konjugat antibodi-ubat (ADC) yang menyasarkan Nectin-4 dan menghantar muatan sitotoksik MMAE; data indikasi asal tidak terdapat dalam data yang dikumpulkan untuk laporan ini kerana ubat ini tidak berdaftar di Malaysia.
+Enfortumab vedotin ialah konjugat antibodi-ubat (ADC) yang menyasarkan Nectin-4 dan menghantar muatan sitotoksik MMAE; data indikasi asal tidak terdapat dalam data yang dikumpulkan untuk laporan ini.
 Model TxGNN meramalkan ia mungkin berkesan untuk **kusta (leprosy)** dengan skor tinggi, tetapi terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini.
 Ramalan ini hanyalah ramalan model TxGNN (pembelajaran mendalam) tanpa bukti sokongan; skor datang daripada model dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
@@ -48,7 +48,7 @@ Ramalan ini hanyalah ramalan model TxGNN (pembelajaran mendalam) tanpa bukti sok
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen NPRA) |
+| Indikasi Asal | Tiada data |
 | Indikasi Baharu yang Diramalkan | Kusta (leprosy) |
 | Skor Ramalan TxGNN | 0.9953 |
 | Tahap Bukti | L5 |

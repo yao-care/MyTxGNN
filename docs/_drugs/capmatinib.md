@@ -5,8 +5,8 @@ parent: Low Evidence (L4-L5)
 nav_order: 192
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
-description: "Capmatinib: indikasi baharu diramal Rheumatoid arthritis (tahap bukti L5). Indikasi asal: Tiada data (tiada lesen berdaftar di Malaysia)"
+last_modified_at: 2026-11-06
+description: "Capmatinib: indikasi baharu diramal Rheumatoid arthritis (tahap bukti L5). Indikasi asal: Tiada data"
 monitor_inn: "CAPMATINIB"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome"]
 ---
@@ -48,7 +48,7 @@ tetapi setakat ini terdapat **0 ujian klinikal** dan hanya **1 penerbitan** (ula
 
 | Perkara | Kandungan |
 |------|------|
-| Indikasi Asal | Tiada data (tiada lesen berdaftar di Malaysia) |
+| Indikasi Asal | Tiada data |
 | Indikasi Baharu yang Diramalkan | Rheumatoid arthritis |
 | Skor Ramalan TxGNN | 0.9945 |
 | Tahap Bukti | L5 |
@@ -103,7 +103,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan ini hanya berasaskan model (L5) tanpa ujian klinikal atau kajian langsung bagi capmatinib dalam RA, dan ubat ini tidak berdaftar di Malaysia.
+- Ramalan ini hanya berasaskan model (L5) tanpa ujian klinikal atau kajian langsung bagi capmatinib dalam RA.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data keselamatan lengkap (amaran dan kontraindikasi) daripada risalah maklumat produk NPRA, yang merupakan jurang data penghalang sebelum saringan keselamatan

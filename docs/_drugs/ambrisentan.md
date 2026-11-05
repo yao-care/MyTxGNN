@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "AMBRISENTAN"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Ambrisentan: indikasi baharu diramal Malformasi arteriovenus pulmonari (pulmonary arteriovenous malformation (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Ambrisentan ialah antagonis reseptor endotelin yang bertindak secara selektif pa
 | Indikasi Baharu yang Diramalkan | Malformasi arteriovenus pulmonari (pulmonary arteriovenous malformation (disease)) |
 | Skor Ramalan TxGNN | 0,9941 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
-| Bilangan Pendaftaran | 2 (sah: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

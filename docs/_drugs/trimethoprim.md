@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Trimethoprim: indikasi baharu diramal Keratokonjunktivitis epitelium berpunktat (tahap bukti L5). Indikasi asal: Hubungan yang direkodkan dalam graf pengetahuan: jangkitan saluran ke…"
 ---
 
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **keratokonjunktivitis epiteliu
 | Indikasi Baharu yang Diramalkan | Keratokonjunktivitis epitelium berpunktat |
 | Skor Ramalan TxGNN | 0.9957 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 70 daripada 70) |
-| Bilangan Pendaftaran | 70 (sah: 70) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 69 daripada 70) |
+| Bilangan Pendaftaran | 70 (sah: 69) |
 | Bilangan Kelulusan | Sekurang-kurangnya 70 lesen yang sah, semuanya produk kombinasi; tiada produk bahan tunggal |
 | Keputusan yang Disyorkan | Hold |
 

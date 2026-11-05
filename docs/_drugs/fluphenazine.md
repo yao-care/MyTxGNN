@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 368
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "fluphenazine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "myopia X-linked", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
 description: "Fluphenazine: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies) (tahap bukti L5). Indikasi asal: Tidak direkodka…"
@@ -99,7 +99,7 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi ini.
 **Keputusan: Hold**
 
 **Justifikasi:**
-- Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal atau literatur, dan tiada mekanisme munasabah yang menghubungkan fluphenazine dengan distrofi retina. Ubat ini juga tidak berdaftar atau dipasarkan di Malaysia, dan profil keselamatannya membawa banyak kontraindikasi yang berpotensi serius.
+- Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal atau literatur, dan tiada mekanisme munasabah yang menghubungkan fluphenazine dengan distrofi retina. Profil keselamatannya membawa banyak kontraindikasi yang berpotensi serius.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank.

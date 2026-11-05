@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 480
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "loxoprofen"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
 description: "Loxoprofen: indikasi baharu diramal Sindrom displasia rizomelik-mikroftalmia kolobomatus (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan …"
@@ -81,7 +81,7 @@ Satu nota berjaga-jaga: NSAID boleh membawa kebimbangan keselamatan perkembangan
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal, literatur atau hubungan mekanistik yang munasabah. Loxoprofen juga tidak berdaftar di Malaysia, dan data keselamatan belum lengkap.
+- Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal, literatur atau hubungan mekanistik yang munasabah. Data keselamatan belum lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Risalah maklumat produk NPRA (amaran dan kontraindikasi), kerana ketiadaannya menghalang saringan keselamatan peringkat seterusnya

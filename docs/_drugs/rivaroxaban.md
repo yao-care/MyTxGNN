@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 628
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Rivaroxaban: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan yang dapat dikenal pasti daripada data…"
 monitor_inn: "RIVAROXABAN"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
@@ -50,8 +50,8 @@ Rivaroxaban ialah perencat Faktor Xa langsung (antikoagulan oral). Model TxGNN m
 | Indikasi Baharu yang Diramalkan | Artritis reumatoid (rheumatoid arthritis) |
 | Skor Ramalan TxGNN | 0.9957 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 47 daripada 47) |
-| Bilangan Pendaftaran | 47 (sah: 47) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 48 daripada 50) |
+| Bilangan Pendaftaran | 50 (sah: 48) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -86,8 +86,6 @@ Tiada satu pun yang menunjukkan rivaroxaban merawat artritis reumatoid.
 ---
 
 ## Maklumat Pasaran di Malaysia
-
-Rivaroxaban tidak mempunyai pendaftaran yang direkodkan di Malaysia dalam data yang dikumpulkan.
 
 ---
 

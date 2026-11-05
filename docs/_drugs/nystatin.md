@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 535
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
 description: "Nystatin: indikasi baharu diramal Penyakit kawasan orbit (disease of orbital region) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -48,8 +48,8 @@ Nystatin ialah ubat antikulat polien yang bertindak pada membran sel kulat. Mode
 | Indikasi Baharu yang Diramalkan | Penyakit kawasan orbit (disease of orbital region) |
 | Skor Ramalan TxGNN | 0.9990 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
-| Bilangan Pendaftaran | 11 (sah: 11) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 12) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?

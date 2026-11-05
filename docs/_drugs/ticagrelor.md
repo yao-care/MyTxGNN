@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 682
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
 description: "Ticagrelor: indikasi baharu diramal Arteriosklerosis intrakranial (intracranial arteriosclerosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ Setakat ini terdapat **2 percubaan klinikal** dan **2 penerbitan** yang berkaita
 | Indikasi Baharu yang Diramalkan | Arteriosklerosis intrakranial (intracranial arteriosclerosis) |
 | Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L5 (sokongan tidak langsung sahaja) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
-| Bilangan Pendaftaran | 8 (sah: 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 16) |
+| Bilangan Pendaftaran | 16 (sah: 16) |
 | Keputusan Disyorkan | Hold (Soalan Penyelidikan) |
 
 ---

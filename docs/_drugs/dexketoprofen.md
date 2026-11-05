@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "dexketoprofen"
 predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
 description: "Dexketoprofen: indikasi baharu diramal Tendinitis (tahap bukti L4)."
@@ -92,7 +92,7 @@ Sila rujuk sisipan pembungkusan untuk maklumat keselamatan.
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Ramalan untuk tendinitis hanya disokong model dan satu kajian berkaitan secara tidak langsung (kesakitan muskuloskeletal umum). Tiada ujian klinikal khusus tendinitis, dan ubat ini tidak mempunyai pendaftaran di Malaysia.
+- Ramalan untuk tendinitis hanya disokong model dan satu kajian berkaitan secara tidak langsung (kesakitan muskuloskeletal umum). Tiada ujian klinikal khusus tendinitis.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Ujian klinikal atau kajian khusus untuk populasi tendinitis

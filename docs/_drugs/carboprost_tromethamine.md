@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 200
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Carboprost Tromethamine: indikasi baharu diramal Koarktasio aorta atipikal (atypical coarctation of aorta) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
 monitor_inn: "Carboprost tromethamine"
 predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "migraine with brainstem aura", "migraine disorder", "pulmonary hypertension", "non-syndromic esophageal malformation", "kyphoscoliotic heart disease", "amenorrhea (disease)", "esophageal disease", "primary hereditary glaucoma"]
@@ -106,7 +106,7 @@ Satu isyarat keselamatan daripada penilaian mekanistik: PGF2α diketahui mempuny
 **Keputusan: Hold**
 
 **Rasional:**
-- Ramalan hanya berasaskan model (L5), tanpa ujian klinikal atau literatur, dan produk tidak mempunyai pendaftaran di Malaysia. Untuk koarktasio aorta atipikal, tiada mekanisme farmakologi yang munasabah; kebanyakan ramalan teratas juga bercanggah dari segi arah mekanistik atau menimbulkan kebimbangan keselamatan.
+- Ramalan hanya berasaskan model (L5), tanpa ujian klinikal atau literatur. Untuk koarktasio aorta atipikal, tiada mekanisme farmakologi yang munasabah; kebanyakan ramalan teratas juga bercanggah dari segi arah mekanistik atau menimbulkan kebimbangan keselamatan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat keselamatan daripada risalah maklumat produk NPRA (amaran dan kontraindikasi) — ini ialah jurang data yang menghalang penyaringan keselamatan

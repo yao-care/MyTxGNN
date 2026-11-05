@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Glycine"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Glycine: indikasi baharu diramal Penyakit rongga hidung (tahap bukti L5). Indikasi asal: Rinitis alergi, rinitis vasomotor, faringitis, selesema biasa…"
 ---
 
@@ -50,8 +50,8 @@ Glycine ialah asid amino yang dikaitkan dengan keadaan seperti rinitis alergi, r
 | Indikasi Baharu yang Diramalkan | Penyakit rongga hidung |
 | Skor Ramalan TxGNN | 0.9985 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 209 daripada 209) |
-| Bilangan Pendaftaran | 209 (sah: 209) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 204 daripada 213) |
+| Bilangan Pendaftaran | 213 (sah: 204) |
 | Bilangan Kelulusan | 209 pendaftaran (16 produk bahan tunggal, 193 produk kombinasi) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
@@ -86,7 +86,7 @@ Kedua-dua penerbitan ialah kajian praklinikal yang tidak mengkaji glycine untuk 
 
 ## Maklumat Pasaran di Malaysia
 
-Data yang dihimpun menunjukkan 209 pendaftaran sah, dan senarai ini lengkap. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia untuk rekod-rekod ini. Hanya produk bahan tunggal disenaraikan di bawah; produk kombinasi tidak menggambarkan status kelulusan glycine sebagai bahan tunggal.
+Teks indikasi yang diluluskan dan bentuk dos tidak tersedia untuk rekod-rekod ini. Hanya produk bahan tunggal disenaraikan di bawah; produk kombinasi tidak menggambarkan status kelulusan glycine sebagai bahan tunggal.
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 411
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "IMIGLUCERASE"
 predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
 description: "Imiglucerase: indikasi baharu diramal Sindrom Hurler (Hurler syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -83,8 +83,6 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 ---
 
 ## Maklumat Pasaran Malaysia
-
-Imiglucerase pada masa ini tidak mempunyai pendaftaran di Malaysia (0 lesen).
 
 ---
 

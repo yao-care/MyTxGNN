@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 523
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "NEVIRAPINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Nevirapine: indikasi baharu diramal Sindrom imunodefisiensi didapati kucing (feline acquired immunodeficiency syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -84,7 +84,6 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -101,7 +100,7 @@ Untuk amaran utama dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Bukti hanya satu kajian in vitro/struktur yang mencadangkan aktiviti nevirapine terhadap RT FIV terhad. Tiada ujian klinikal atau data in vivo, dan indikasi ini veterinar. Tiada pendaftaran di Malaysia.
+- Bukti hanya satu kajian in vitro/struktur yang mencadangkan aktiviti nevirapine terhadap RT FIV terhad. Tiada ujian klinikal atau data in vivo, dan indikasi ini veterinar.
 
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci
