@@ -163,10 +163,10 @@ Status pendaftaran dikemas kini secara automatik setiap hari Isnin daripada kedu
 
 ## Drug-Drug Interactions (DDI)
 
-### DDInter 2.0
+### DDInter
 
 - **Website**: [https://ddinter2.scbdd.com/](https://ddinter2.scbdd.com/)
-- **Scale**: 302,516 DDI records, 2,310 drugs
+- **Scale**: the DDInter 2.0 website reports 302,516 DDI records and 2,310 drugs; this site uses the DDInter download files (`ddinter_code_*.csv`): 222,383 rows, 160,235 unique drug pairs, 1,939 drug names
 - **Usage**: Drug-drug interaction information
 
 ### Guide to PHARMACOLOGY (GtoPdb)

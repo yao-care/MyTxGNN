@@ -3,7 +3,7 @@ layout: default
 title: Data Keselamatan
 nav_order: 5
 has_children: true
-description: "Data keselamatan ubat: interaksi ubat-ubat (DDI) daripada DDInter 2.0 dan Guide to PHARMACOLOGY."
+description: "Data keselamatan ubat: interaksi ubat-ubat (DDI) daripada DDInter dan Guide to PHARMACOLOGY."
 permalink: /keselamatan/
 ---
 
@@ -22,7 +22,7 @@ Pangkalan data keselamatan untuk penilaian penggunaan semula ubat
 <a href="{{ '/ddi/' | relative_url }}" style="display: block; padding: 1.5rem; background: #fff; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); text-decoration: none; color: inherit; border-left: 4px solid #E53935;">
   <h3 style="margin: 0 0 0.5rem 0; color: #C62828;">Interaksi Ubat-Ubat (DDI)</h3>
   <p style="margin: 0; color: #666; font-size: 0.9rem;">160,235 pasangan interaksi antara ubat konvensional</p>
-  <small style="color: #999;">Sumber: DDInter 2.0</small>
+  <small style="color: #999;">Sumber: DDInter (fail muat turun)</small>
 </a>
 
 </div>
@@ -64,7 +64,7 @@ Apabila menggunakan semula ubat untuk indikasi baharu, kita perlu mempertimbangk
 </thead>
 <tbody>
 <tr>
-  <td><a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener">DDInter 2.0</a></td>
+  <td><a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener">DDInter</a> (fail muat turun)</td>
   <td>DDI</td>
   <td>160,235</td>
 </tr>

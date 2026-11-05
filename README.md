@@ -216,7 +216,7 @@ PYTHONPATH=src python -m mytxgnn.predict.txgnn_model
 | **Data ubat** | NPRA | [NPRA](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv) | Malaysia |
 | **Graf pengetahuan** | TxGNN KG | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 diseases, 7,957 drugs |
 | **Pangkalan data ubat** | DrugBank | [DrugBank](https://go.drugbank.com/) | Pemetaan ramuan ubat |
-| **Interaksi ubat** | DDInter 2.0 | [DDInter](https://ddinter2.scbdd.com/) | Pasangan DDI |
+| **Interaksi ubat** | DDInter | [DDInter](https://ddinter2.scbdd.com/) | Pasangan DDI |
 | **Interaksi ubat** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | Interaksi ubat yang diluluskan |
 | **Percubaan klinikal** | ClinicalTrials.gov | [CT.gov API v2](https://clinicaltrials.gov/data-api/api) | Pendaftaran percubaan klinikal |
 | **Percubaan klinikal** | WHO ICTRP | [ICTRP API](https://apps.who.int/trialsearch/api/v1/search) | Platform percubaan klinikal antarabangsa |

@@ -9,6 +9,8 @@ permalink: /smart/cds-hooks/
 
 # Reka Bentuk Seni Bina CDS Hooks
 
+> **Dokumen perancangan**: Halaman ini ialah dokumen perancangan; perkhidmatan yang diterangkan belum dilaksanakan, dan URL `https://mytxgnn.yao.care/cds-services` tidak wujud. Laman ini kini hanya menyediakan perihalan perkhidmatan [cds-services.json]({{ '/cds-hooks/cds-services.json' | relative_url }}) dan [demo dalam pelayar]({{ '/cds-hooks/demo.html' | relative_url }}) yang hasilnya disimulasikan.
+
 <p class="key-answer" data-question="Apakah CDS Hooks?">
 <strong>CDS Hooks</strong> adalah spesifikasi HL7 untuk menyepadukan perkhidmatan sokongan keputusan klinikal (CDS) dengan aliran kerja EHR. Ia membolehkan sistem luaran memberikan cadangan semasa titik keputusan klinikal.
 </p>

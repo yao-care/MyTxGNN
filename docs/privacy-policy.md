@@ -9,7 +9,7 @@ permalink: /privacy-policy/
 
 # Privacy Policy
 
-Last updated: March 2026
+Last updated: 5 November 2026
 
 ---
 
@@ -90,10 +90,7 @@ The pages load the following third-party resources, which may log access accordi
 
 ## Cookies
 
-We may use cookies for:
-
-- **Analytics**: Understanding site usage (via privacy-respecting analytics)
-- **Functionality**: Remembering user preferences
+This site uses Google Analytics 4 analytics cookies (such as `_ga`) to understand site usage. The cookies are set when a page loads. The site sets no cookies of its own for functionality or preferences.
 
 You can disable cookies in your browser settings.
 
@@ -145,13 +142,13 @@ If you have questions about this Privacy Policy, please contact us:
 
 This Service complies with Malaysia's Personal Data Protection Act 2010:
 
-- We do not process personal data without consent
-- We do not share personal data with third parties
+- Apart from the Google Analytics 4 usage statistics described above (analytics cookies set when a page loads), the Service does not process personal data
+- Usage statistics are processed by Google as our analytics provider; we do not otherwise share personal data with third parties
 - Data subjects may request access to their data
 
 ---
 
 <div class="disclaimer">
 <strong>Note</strong><br>
-This platform provides drug repurposing predictions for research purposes only. No personal health information is collected, stored, or processed.
+This platform provides drug repurposing predictions for research purposes only. No personal health information is collected or stored by this site. The SMART app processes medication data in your browser; it sends only the medications' RxNorm codes (no patient identifiers) to the US National Library of Medicine's RxNav service, and the drug and indication names to ClinicalTrials.gov when you ask for trials.
 </div>

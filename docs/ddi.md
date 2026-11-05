@@ -10,7 +10,7 @@ permalink: /ddi/
 # Interaksi Ubat-Ubat (DDI)
 
 <p class="key-answer" data-question="Apakah data DDI yang ada dalam MyTxGNN?">
-Platform ini mengintegrasikan data interaksi ubat dari <strong>DDInter 2.0</strong> dan <strong>Guide to PHARMACOLOGY</strong> untuk membantu penyelidik mempertimbangkan faktor keselamatan apabila menilai calon penggunaan semula ubat.
+Platform ini mengintegrasikan data interaksi ubat dari <strong>DDInter</strong> (fail muat turun <code>ddinter_code_*.csv</code>) dan <strong>Guide to PHARMACOLOGY</strong> untuk membantu penyelidik mempertimbangkan faktor keselamatan apabila menilai calon penggunaan semula ubat.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ Interaksi ubat adalah pertimbangan kritikal untuk penggunaan semula ubat. Apabil
 </thead>
 <tbody>
 <tr>
-  <td><a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener">DDInter 2.0</a></td>
+  <td><a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener">DDInter</a> (fail muat turun)</td>
   <td>160,235</td>
   <td>1,939</td>
   <td>2026-02</td>
