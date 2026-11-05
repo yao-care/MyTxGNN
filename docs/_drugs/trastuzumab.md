@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 695
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "TRASTUZUMAB"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 description: "Trastuzumab: indikasi baharu diramal Malignant cutaneous granular cell skin tumor (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ dengan **13 ujian klinikal** dan **20 penerbitan** yang disenaraikan dalam data 
 | Indikasi Baharu yang Diramalkan | Malignant cutaneous granular cell skin tumor |
 | Skor Ramalan TxGNN | 0.9948 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
-| Bilangan Pendaftaran | 14 (sah: 14) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 13 daripada 14; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 14 (sah: 13; status tidak dapat disahkan: 1) |
 | Keputusan yang Disyorkan | Proceed with Guardrails |
 
 ---

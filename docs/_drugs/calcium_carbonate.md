@@ -47,8 +47,8 @@ Model TxGNN tidak mempunyai sebarang calon dengan skor 0.99 atau lebih tinggi un
 | Indikasi baharu yang diramalkan | Tiada (tiada calon model dengan skor 0.99 atau lebih tinggi) |
 | Kegunaan diketahui yang direkodkan untuk ubat ini | 10 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 367 daripada 378) |
-| Bilangan Pendaftaran | 378 (sah: 367) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 366 daripada 378; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 378 (sah: 366; status tidak dapat disahkan: 1) |
 
 ## Kegunaan diketahui yang direkodkan untuk ubat ini
 

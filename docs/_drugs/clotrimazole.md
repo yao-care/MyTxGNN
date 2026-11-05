@@ -50,8 +50,8 @@ Clotrimazole ialah ubat antikulat daripada kumpulan azol yang telah didaftarkan 
 | Indikasi Baharu yang Diramal | Jerawat (acne (disease)) |
 | Skor Ramalan TxGNN | 0.9986 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 66 daripada 67) |
-| Bilangan Pendaftaran | 67 (sah: 66) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 65 daripada 67; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 67 (sah: 65; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---

@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 27 daripada 27) |
-| Bilangan Pendaftaran | 27 (sah: 27) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 25 daripada 27; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 27 (sah: 25; status tidak dapat disahkan: 2) |
 | **Nama Ubat** | Timolol |
 | **ID DrugBank** | [DB00373](https://go.drugbank.com/drugs/DB00373) |
 | **Ramalan DL (≥0.7)** | 21 |

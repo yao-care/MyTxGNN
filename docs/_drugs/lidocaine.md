@@ -50,8 +50,8 @@ Lidocaine ialah anestetik setempat penyekat saluran natrium. Model TxGNN (pembel
 | Indikasi Baharu yang Diramalkan | Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 56 daripada 57) |
-| Bilangan Pendaftaran | 57 (sah: 56) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 55 daripada 57; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 57 (sah: 55; status tidak dapat disahkan: 1) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---

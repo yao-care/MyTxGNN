@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 531
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "Nonivamide"
 predicted_indications: ["pulmonary hypertension", "peripheral arterial disease", "acute lymphoblastic leukemia (disease)", "kyphoscoliotic heart disease", "peripheral vascular disease", "ventricular tachycardia", "anaphylaxis", "migraine disorder", "catecholaminergic polymorphic ventricular tachycardia", "intermittent vascular claudication"]
 description: "Nonivamide: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ Ramalan ini hanya berasaskan skor model komputasi (Tahap Bukti L5).
 | Indikasi Baharu yang Diramalkan | Hipertensi pulmonari (pulmonary hypertension) |
 | Skor Ramalan TxGNN | 0.9981 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
-| Bilangan Pendaftaran | 5 (sah: 5) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 5; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 5 (sah: 4; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---

@@ -48,8 +48,8 @@ Diclofenac ialah ubat anti-radang bukan steroid (NSAID) yang berdaftar di Malays
 | Indikasi Baharu yang Diramalkan | Hypotrichosis simplex of the scalp |
 | Skor Ramalan TxGNN | 0.9969 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 81 daripada 82) |
-| Bilangan Pendaftaran | 82 (sah: 81) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 79 daripada 82; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 82 (sah: 79; status tidak dapat disahkan: 2) |
 | Bilangan Lesen | 81 lesen produk tunggal yang sah |
 | Keputusan Disyorkan | Hold (Tahan) |
 

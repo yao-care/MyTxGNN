@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Gastroduodenitis |
 | Skor Ramalan TxGNN | 0.9972 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
-| Bilangan Pendaftaran | 5 (sah: 5) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 5; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 5 (sah: 4; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---

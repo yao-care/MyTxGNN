@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
-| Bilangan Pendaftaran | 11 (sah: 11) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 11; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 11 (sah: 9; status tidak dapat disahkan: 2) |
 | **Nama Ubat** | Voriconazole |
 | **ID DrugBank** | [DB00582](https://go.drugbank.com/drugs/DB00582) |
 | **Ramalan DL (≥0.7)** | 109 |

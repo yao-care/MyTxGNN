@@ -54,8 +54,8 @@ Setakat ini terdapat **0 percubaan klinikal** yang berdaftar dan **9 penerbitan*
 | Indikasi Baharu yang Diramalkan | Congenital prothrombin deficiency |
 | Skor Ramalan TxGNN | 0.9970 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
-| Bilangan Pendaftaran | 9 (sah: 9) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 9; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 9 (sah: 7; status tidak dapat disahkan: 2) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---

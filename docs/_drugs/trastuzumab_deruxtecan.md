@@ -51,8 +51,8 @@ Model TxGNN meramalkan ubat ini mungkin berkesan untuk **osteoporosis teraruh ub
 | Indikasi Baharu yang Diramalkan | Osteoporosis teraruh ubat (drug-induced osteoporosis) |
 | Skor Ramalan TxGNN | 0.9931 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
-| Bilangan Pendaftaran | 2 (sah: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 2; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 2 (sah: 1; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---

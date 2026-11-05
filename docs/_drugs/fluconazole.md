@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Fluconazole: indikasi baharu diramal Keratokonjunktivitis epitelium berpunktum (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ Fluconazole ialah ubat antikulat yang dalam pangkalan pengetahuan TxGNN direkodk
 | Indikasi Baharu yang Diramalkan | Keratokonjunktivitis epitelium berpunktum (punctate epithelial keratoconjunctivitis) |
 | Skor Ramalan TxGNN | 0.9924 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 28 daripada 28) |
-| Bilangan Pendaftaran | 28 (sah: 28) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 27 daripada 28; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 28 (sah: 27; status tidak dapat disahkan: 1) |
 | Bilangan Kelulusan | 28 pendaftaran |
 | Keputusan Disyorkan | Hold (Tangguh) |
 

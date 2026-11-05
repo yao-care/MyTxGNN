@@ -5,7 +5,7 @@ layout: default
 title: Adrenaline Tartrate
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 32
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,8 +42,8 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 |------|-----------|
 | Petunjuk Asal | Tidak direkodkan dalam data tempatan |
 | Petunjuk Baru Diramal | Tidak tersedia |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
-| Bilangan Pendaftaran | 5 (sah: 5) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 5; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 5 (sah: 4; status tidak dapat disahkan: 1) |
 
 ---
 

@@ -52,8 +52,8 @@ Tiada kajian yang dipetik membuktikan faedah terapeutik secara langsung; malah, 
 | Indikasi Baharu yang Diramalkan | Symptomatic form of fragile X syndrome in female carrier |
 | Skor Ramalan TxGNN | 0.9994 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
-| Bilangan Pendaftaran | 6 (sah: 6) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 6; status tidak dapat disahkan: 3) |
+| Bilangan Pendaftaran | 6 (sah: 3; status tidak dapat disahkan: 3) |
 | Jumlah Kelulusan | 3 lesen (2 produk tunggal, 1 produk gabungan) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

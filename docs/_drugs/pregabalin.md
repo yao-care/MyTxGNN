@@ -50,8 +50,8 @@ Pregabalin ialah ubat yang dikaitkan dengan gangguan kebimbangan, fibromialgia, 
 | Indikasi Baharu yang Diramalkan | Tendinitis |
 | Skor Ramalan TxGNN | 0.9971 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 66 daripada 66) |
-| Bilangan Pendaftaran | 66 (sah: 66) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 64 daripada 66; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 66 (sah: 64; status tidak dapat disahkan: 2) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---

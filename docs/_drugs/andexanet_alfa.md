@@ -50,8 +50,8 @@ Andexanet alfa ialah protein rekombinan "umpan" faktor Xa yang tidak aktif secar
 | Indikasi Baharu yang Diramalkan | Glanzmann thrombasthenia |
 | Skor Ramalan TxGNN | 0.9977 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
-| Bilangan Pendaftaran | 1 (sah: 1) |
+| Status Pasaran di Malaysia | Status tidak dapat disahkan (pendaftaran: 1; sah: 0; dibatalkan atau tamat tempoh: 0; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 1 (sah: 0; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---

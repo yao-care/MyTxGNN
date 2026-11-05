@@ -41,8 +41,8 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 | Item | Kandungan |
 |------|---------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 6) |
-| Bilangan Pendaftaran | 6 (sah: 5) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 6; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 6 (sah: 4; status tidak dapat disahkan: 1) |
 
 ---
 

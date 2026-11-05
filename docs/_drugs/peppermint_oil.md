@@ -52,8 +52,8 @@ Setakat ini terdapat **1 ujian klinikal** dan **1 kajian RCT terkawal plasebo** 
 | Indikasi Baharu yang Diramalkan | Leprosy |
 | Skor Ramalan TxGNN | 0.9980 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 43 daripada 46) |
-| Bilangan Pendaftaran | 46 (sah: 43) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 42 daripada 46; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 46 (sah: 42; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold |
 
 > Nota: Ramalan teratas berdasarkan kedudukan ialah *leprosy* (0.9980), tetapi ia hanya berdasarkan model (L5) tanpa sebarang bukti. Laporan ini memfokuskan pada **penyakit kardiovaskular** kerana ia satu-satunya antara 10 ramalan teratas yang mempunyai bukti klinikal yang boleh dinilai.

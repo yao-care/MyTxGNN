@@ -48,8 +48,8 @@ Dexamethasone ialah kortikosteroid sintetik daripada kumpulan glukokortikoid yan
 | Indikasi Baharu yang Diramalkan | Alopesia musinosa (alopecia mucinosa) |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 38 daripada 41) |
-| Bilangan Pendaftaran | 41 (sah: 38) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 37 daripada 41; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 41 (sah: 37; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -70,7 +70,7 @@ Buat masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran di Malaysia
 
-Status pasaran: **Dipasarkan**. Daripada keseluruhan 38 lesen, 36 masih sah dan 2 telah dibatalkan. Antara lesen yang sah, 22 ialah produk bahan tunggal dan selebihnya produk gabungan. Jadual di bawah menyenaraikan lima lesen produk bahan tunggal yang sah; bentuk dos tidak direkodkan dalam data tempatan.
+Status pasaran: **Dipasarkan**. Antara lesen yang sah, 22 ialah produk bahan tunggal dan selebihnya produk gabungan. Jadual di bawah menyenaraikan lima lesen produk bahan tunggal yang sah; bentuk dos tidak direkodkan dalam data tempatan.
 
 | Nombor Kelulusan | Nama Produk | Pengilang |
 |---------|------|------|

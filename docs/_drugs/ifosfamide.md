@@ -50,8 +50,8 @@ Ifosfamide ialah agen kemoterapi pengalkilan (analog siklofosfamid) yang sudah l
 | Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita (female breast carcinoma) |
 | Skor Ramalan TxGNN | 0.9991 |
 | Tahap Bukti | L5 (tiada RCT fasa 2/3 yang selesai; sokongan daripada kajian kohort, kajian fasa 2 dan ulasan) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
-| Bilangan Pendaftaran | 2 (sah: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 2; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 2 (sah: 1; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---

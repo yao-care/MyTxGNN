@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan HIV**, tetapi sokon
 | Indikasi Baharu yang Diramalkan | Jangkitan HIV (HIV infectious disease) |
 | Skor Ramalan TxGNN | 0.9991 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
-| Bilangan Pendaftaran | 11 (sah: 11) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 11; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 11 (sah: 10; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---

@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada percubaan klinikal** didaftarkan dan **tiada litera
 | Indikasi Baharu yang Diramalkan | Penyakit renal hipertensif malignan (malignant hypertensive renal disease) |
 | Skor Ramalan TxGNN | 0.9977 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 43 daripada 43) |
-| Bilangan Pendaftaran | 43 (sah: 43) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 38 daripada 43; status tidak dapat disahkan: 5) |
+| Bilangan Pendaftaran | 43 (sah: 38; status tidak dapat disahkan: 5) |
 | Keputusan yang Disyorkan | Hold |
 
 ---

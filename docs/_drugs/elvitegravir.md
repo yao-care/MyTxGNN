@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ELVITEGRAVIR"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Elvitegravir: indikasi baharu diramal Sindrom imunodefisiensi kucing yang diperoleh (feline acquired immunodeficiency syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ Ramalan ini masih pada tahap model sahaja (tahap bukti L5).
 | Indikasi Baharu yang Diramalkan | Sindrom imunodefisiensi kucing yang diperoleh (feline acquired immunodeficiency syndrome) |
 | Skor Ramalan TxGNN | 0.9989 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
-| Bilangan Pendaftaran | 1 (sah: 1) |
+| Status Pasaran di Malaysia | Status tidak dapat disahkan (pendaftaran: 1; sah: 0; dibatalkan atau tamat tempoh: 0; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 1 (sah: 0; status tidak dapat disahkan: 1) |
 | Bilangan Kelulusan | 1 pendaftaran (produk gabungan) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 

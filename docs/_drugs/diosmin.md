@@ -52,8 +52,8 @@ Namun, pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Amenorea (amenorrhea (disease)) |
 | Skor Ramalan TxGNN | 0.9942 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 22 daripada 22) |
-| Bilangan Pendaftaran | 22 (sah: 22) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 21 daripada 22; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 22 (sah: 21; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---

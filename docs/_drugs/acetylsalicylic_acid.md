@@ -48,8 +48,8 @@ Asid asetilsalisilik (aspirin) ialah ubat perencat COX dengan kesan antiplatelet
 | Indikasi Baharu yang Diramalkan | Atrofoderma vermikulata (atrophoderma vermiculata) |
 | Skor Ramalan TxGNN | 0.9959 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 22 daripada 23) |
-| Bilangan Pendaftaran | 23 (sah: 22) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 21 daripada 23; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 23 (sah: 21; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?

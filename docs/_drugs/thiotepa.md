@@ -47,8 +47,8 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Thiotepa (skor ≥ 0.99) dan 
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dikesan ialah kegunaan yang sudah diketahui) |
 | Kegunaan diketahui dalam kalangan calon model | 2 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
-| Bilangan Pendaftaran | 4 (sah: 4) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 4; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 4 (sah: 3; status tidak dapat disahkan: 1) |
 
 ## Kegunaan diketahui dalam kalangan calon model
 
@@ -75,7 +75,7 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Thiotepa (skor ≥ 0.99) dan 
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|
-| MAL23066003AZ | TEPADINA 400 mg powder and solvent for solution for infusion |  | Sah |
+| MAL23066003AZ | TEPADINA 400 mg powder and solvent for solution for infusion |  | Status tidak dapat disahkan |
 | MAL23066002ACRZ | TEPADINA 100 mg powder for concentrate for solution for infu |  | Sah |
 | MAL23066001ACRZ | TEPADINA 15 mg powder for concentrate for solution for infus |  | Sah |
 

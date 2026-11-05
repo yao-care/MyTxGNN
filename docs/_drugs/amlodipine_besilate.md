@@ -52,8 +52,8 @@ Penilaian penggunaan semula ubat **tidak dapat diteruskan** sehingga keluaran ra
 | Indikasi Baru Diramalkan | — (Tidak tersedia) |
 | Skor Ramalan TxGNN | — (Tidak tersedia) |
 | Tahap Bukti | — (Tidak dapat ditentukan) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 81 daripada 81) |
-| Bilangan Pendaftaran | 81 (sah: 81) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 76 daripada 81; status tidak dapat disahkan: 5) |
+| Bilangan Pendaftaran | 81 (sah: 76; status tidak dapat disahkan: 5) |
 | Keputusan yang Disyorkan | **Tangguhkan** |
 
 ---

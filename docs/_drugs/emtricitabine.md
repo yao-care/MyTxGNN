@@ -52,8 +52,8 @@ tetapi kini hanya terdapat **0 ujian klinikal** dan **1 penerbitan** (kajian vet
 | Indikasi Baharu yang Diramalkan | Sindrom imunodefisiensi dapatan kucing (feline acquired immunodeficiency syndrome) |
 | Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
-| Bilangan Pendaftaran | 14 (sah: 14) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 13 daripada 14; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 14 (sah: 13; status tidak dapat disahkan: 1) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---

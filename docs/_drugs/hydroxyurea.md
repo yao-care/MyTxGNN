@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Hydroxyurea"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Hydroxyurea: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ Bukti setakat ini sangat terhad: **tiada ujian klinikal** berdaftar, dan hanya *
 | Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita (female breast carcinoma) |
 | Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
-| Bilangan Pendaftaran | 2 (sah: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 2; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 2 (sah: 1; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

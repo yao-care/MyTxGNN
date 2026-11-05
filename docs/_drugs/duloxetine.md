@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Duloxetine: indikasi baharu diramal Benign paroxysmal torticollis of infancy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -55,8 +55,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **agoraphobia**, tetapi tiada p
 | Penunjuk Baharu yang Diramalkan | Benign paroxysmal torticollis of infancy |
 | Skor Ramalan TxGNN | 0.9985 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 18 daripada 18) |
-| Bilangan Pendaftaran | 18 (sah: 18) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 18; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 18 (sah: 16; status tidak dapat disahkan: 2) |
 | Bilangan Kelulusan | 18 lesen sah (produk tunggal) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

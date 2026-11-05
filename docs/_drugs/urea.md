@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 124 daripada 128) |
-| Bilangan Pendaftaran | 128 (sah: 124) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 122 daripada 128; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 128 (sah: 122; status tidak dapat disahkan: 2) |
 | **Nama Ubat** | Urea |
 | **ID DrugBank** | [DB03904](https://go.drugbank.com/drugs/DB03904) |
 | **Ramalan DL (≥0.7)** | 27 |

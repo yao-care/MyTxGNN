@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 635
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
 description: "Salbutamol: indikasi baharu diramal Konjunktivitis papilari (papillary conjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **konjunktivitis papilari** den
 | Indikasi Baharu yang Diramalkan | Konjunktivitis papilari (papillary conjunctivitis) |
 | Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 (ramalan model sahaja) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 67 daripada 67) |
-| Bilangan Pendaftaran | 67 (sah: 67) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 65 daripada 67; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 67 (sah: 65; status tidak dapat disahkan: 2) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---

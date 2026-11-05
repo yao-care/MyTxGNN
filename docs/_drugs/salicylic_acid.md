@@ -48,8 +48,8 @@ Asid salisilik ialah agen keratolitik topikal yang juga merupakan perencat COX t
 | Indikasi Baharu yang Diramalkan | Konjunktivitis papilari (papillary conjunctivitis) |
 | Skor Ramalan TxGNN | 0.9988 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 70 daripada 71) |
-| Bilangan Pendaftaran | 71 (sah: 70) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 69 daripada 71; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 71 (sah: 69; status tidak dapat disahkan: 1) |
 | Bilangan Kelulusan | 71 pendaftaran (36 produk bahan tunggal, 35 produk kombinasi) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 

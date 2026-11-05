@@ -50,8 +50,8 @@ Rivaroxaban ialah perencat Faktor Xa langsung (antikoagulan oral). Model TxGNN m
 | Indikasi Baharu yang Diramalkan | Artritis reumatoid (rheumatoid arthritis) |
 | Skor Ramalan TxGNN | 0.9957 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 48 daripada 50) |
-| Bilangan Pendaftaran | 50 (sah: 48) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 47 daripada 50; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 50 (sah: 47; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---

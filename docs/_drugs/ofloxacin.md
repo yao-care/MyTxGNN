@@ -52,8 +52,8 @@ Namun, **tiada ujian klinikal** dan **tiada penerbitan** yang mengkaji penyakit 
 | Indikasi Baharu yang Diramalkan | Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) |
 | Skor Ramalan TxGNN | 0.9991 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 145 daripada 148) |
-| Bilangan Pendaftaran | 148 (sah: 145) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 143 daripada 148; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 148 (sah: 143; status tidak dapat disahkan: 2) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---

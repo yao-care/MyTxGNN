@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 5
 monitor_inn: "Lamivudine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Lamivudine: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -50,8 +50,8 @@ Lamivudine ialah perencat transkriptase balik nukleosida yang direkodkan dalam g
 | Indikasi Baharu yang Diramalkan | Simian immunodeficiency virus infection |
 | Skor Ramalan TxGNN | 0.9993 |
 | Tahap Bukti | L4 (kajian praklinikal pada haiwan/in vitro) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 30) |
-| Bilangan Pendaftaran | 30 (sah: 30) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 29 daripada 30; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 30 (sah: 29; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---

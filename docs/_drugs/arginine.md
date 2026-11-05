@@ -48,8 +48,8 @@ Arginine ialah asid amino yang berperanan sebagai substrat untuk sintesis nitrik
 | Indikasi Baharu yang Diramalkan | Gastroparesis (gastroparesis (disease)) |
 | Skor Ramalan TxGNN | 0,9942 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 126 daripada 138) |
-| Bilangan Pendaftaran | 138 (sah: 126) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 121 daripada 138; status tidak dapat disahkan: 5) |
+| Bilangan Pendaftaran | 138 (sah: 121; status tidak dapat disahkan: 5) |
 | Keputusan yang Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?

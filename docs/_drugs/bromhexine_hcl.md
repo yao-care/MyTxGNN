@@ -50,8 +50,8 @@ Bromheksina HCL adalah agen mukolotik yang telah terbukti dan luas digunakan unt
 | Indikasi Baru yang Diramalkan | Tiada (tiada ramalan TxGNN tersedia) |
 | Skor Ramalan TxGNN | N/A |
 | Tahap Bukti | L5 — Tiada ramalan dihasilkan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 38 daripada 38) |
-| Bilangan Pendaftaran | 38 (sah: 38) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 38; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 38 (sah: 36; status tidak dapat disahkan: 2) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

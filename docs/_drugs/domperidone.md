@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 305
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 monitor_inn: "DOMPERIDONE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Domperidone: indikasi baharu diramal Sindrom antidiuresis tidak wajar nefrogenik (nephrogenic syndrome of inappropriate antidiuresis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data temp…"
@@ -50,8 +50,8 @@ Domperidone ialah antagonis reseptor dopamin D2/D3 periferi yang digunakan untuk
 | Indikasi Baharu yang Diramalkan | Sindrom antidiuresis tidak wajar nefrogenik (nephrogenic syndrome of inappropriate antidiuresis) |
 | Skor Ramalan TxGNN | 0.9908 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 17 daripada 17) |
-| Bilangan Pendaftaran | 17 (sah: 17) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 17; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 17 (sah: 16; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---

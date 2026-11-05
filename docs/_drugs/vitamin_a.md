@@ -50,8 +50,8 @@ Vitamin A ialah mikronutrien larut lemak yang dalam data Malaysia dijumpai terut
 | Indikasi Baharu Diramalkan | Congenital prothrombin deficiency |
 | Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 167 daripada 177) |
-| Bilangan Pendaftaran | 177 (sah: 167) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 166 daripada 177; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 177 (sah: 166; status tidak dapat disahkan: 1) |
 | Bilangan Kelulusan | Sekurang-kurangnya 166 pendaftaran produk (kesemuanya produk gabungan; tiada produk bahan tunggal) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

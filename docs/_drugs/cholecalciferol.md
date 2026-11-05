@@ -50,8 +50,8 @@ Setakat ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong
 | Indikasi Baharu yang Diramalkan | Displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type) |
 | Skor Ramalan TxGNN | 0.9978 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 907 daripada 924) |
-| Bilangan Pendaftaran | 924 (sah: 907) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 903 daripada 924; status tidak dapat disahkan: 4) |
+| Bilangan Pendaftaran | 924 (sah: 903; status tidak dapat disahkan: 4) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?

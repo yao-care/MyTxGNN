@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EFAVIRENZ"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Efavirenz: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -52,8 +52,8 @@ Pada masa ini terdapat **0 percubaan klinikal** dan **14 penerbitan** yang berka
 | Indikasi Baharu yang Diramalkan | Simian immunodeficiency virus infection |
 | Skor Ramalan TxGNN | 0.9980 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
-| Bilangan Pendaftaran | 11 (sah: 11) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 11; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 11 (sah: 10; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold |
 
 **Nota tahap bukti:** Kajian yang disenaraikan hanya menggunakan virus kimera (RT-SHIV) dalam makaka, bukan jangkitan SIV jenis liar pada penyakit sasaran itu sendiri. Tiada kajian yang dipetik mengkaji secara langsung penyakit ramalan ini dalam konteks yang boleh diterjemahkan kepada manusia. Oleh itu tahap bukti ditetapkan pada L5 mengikut peraturan siling bukti, walaupun data yang disusun menganggarkan L4.

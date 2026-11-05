@@ -50,8 +50,8 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 | Indikasi Baharu yang Diramalkan | Extracutaneous mastocytoma |
 | Skor Ramalan TxGNN | 0.9971 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
-| Bilangan Pendaftaran | 3 (sah: 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 3; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 3 (sah: 2; status tidak dapat disahkan: 1) |
 | Keputusan yang Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?

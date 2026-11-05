@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Celecoxib"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Celecoxib: indikasi baharu diramal displasia akromesomelik, jenis Hunter-Thompson (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan. Hubun…"
 ---
 
@@ -49,8 +49,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **displasia akromesomelik, jeni
 | Indikasi Baharu yang Diramalkan | Displasia akromesomelik, jenis Hunter-Thompson |
 | Skor Ramalan TxGNN | 0.9988 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 22 daripada 22) |
-| Bilangan Pendaftaran | 22 (sah: 22) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 21 daripada 22; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 22 (sah: 21; status tidak dapat disahkan: 1) |
 | Bilangan Kelulusan | 22 pendaftaran (semua produk bahan tunggal, sah) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 

@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **epilepsi visual (visual epile
 | Indikasi Baharu Diramalkan | Beta-ketothiolase deficiency |
 | Skor Ramalan TxGNN | 0.9990 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 45 daripada 46) |
-| Bilangan Pendaftaran | 46 (sah: 45) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 43 daripada 46; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 46 (sah: 43; status tidak dapat disahkan: 2) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---

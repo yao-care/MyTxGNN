@@ -48,8 +48,8 @@ Fluoxetine ialah ubat dalam kelas perencat pengambilan semula serotonin terpilih
 | Indikasi Baharu yang Diramalkan | Schizotypal personality disorder |
 | Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L3 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 7) |
-| Bilangan Pendaftaran | 7 (sah: 6) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 7; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 7 (sah: 5; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Tahan |
 
 ## Mengapa Ramalan Ini Munasabah?

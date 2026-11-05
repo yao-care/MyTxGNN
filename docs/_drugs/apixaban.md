@@ -48,8 +48,8 @@ Apixaban ialah antikoagulan oral yang merencat faktor Xa secara langsung. Model 
 | Indikasi Baharu yang Diramalkan | Migrain (migraine disorder) |
 | Skor Ramalan TxGNN | 0.9902 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 32 daripada 32) |
-| Bilangan Pendaftaran | 32 (sah: 32) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 32; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 32 (sah: 30; status tidak dapat disahkan: 2) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?

@@ -50,8 +50,8 @@ Atorvastatin Calcium Trihydrate adalah statin yang telah terbukti keberkesananny
 | Indikasi Baru yang Diramalkan | — Tidak tersedia (predicted_indications adalah kosong) |
 | Skor Ramalan TxGNN | — Tidak tersedia |
 | Tahap Bukti | L5 (data ramalan model tidak ada; tiada kajian sokongan boleh dinilai pada masa ini) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 71 daripada 71) |
-| Bilangan Pendaftaran | 71 (sah: 71) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 66 daripada 71; status tidak dapat disahkan: 5) |
+| Bilangan Pendaftaran | 71 (sah: 66; status tidak dapat disahkan: 5) |
 | Keputusan yang Disyorkan | **Tahan** |
 
 ---

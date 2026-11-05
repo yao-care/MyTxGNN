@@ -52,8 +52,8 @@ dengan **3 ujian klinikal** (2 ujian Fasa 2 dan 1 kajian kohort) serta **6 pener
 | Indikasi Baharu yang Diramalkan | Sarkoma Ewing |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
-| Bilangan Pendaftaran | 8 (sah: 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 8; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 8 (sah: 6; status tidak dapat disahkan: 2) |
 | Keputusan yang Disyorkan | Proceed with Guardrails |
 
 ---

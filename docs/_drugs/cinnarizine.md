@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
-| Bilangan Pendaftaran | 6 (sah: 6) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 6; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 6 (sah: 5; status tidak dapat disahkan: 1) |
 | **Nama Ubat** | Cinnarizine |
 | **ID DrugBank** | [DB00568](https://go.drugbank.com/drugs/DB00568) |
 | **Ramalan DL (≥0.7)** | 118 |

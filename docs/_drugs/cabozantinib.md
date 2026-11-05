@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Cabozantinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "angiolipoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Cabozantinib: indikasi baharu diramal Liposarkoma (tahap bukti L5). Indikasi asal: Tiada data (teks indikasi lesen tidak tersedia)"
 ---
 
@@ -52,8 +52,8 @@ dengan **1 percubaan klinikal** (Fasa 2, sarkoma tisu lembut secara umum) dan **
 | Indikasi Baharu yang Diramalkan | Liposarkoma |
 | Skor Ramalan TxGNN | 0.9983 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
-| Bilangan Pendaftaran | 3 (sah: 3) |
+| Status Pasaran di Malaysia | Status tidak dapat disahkan (pendaftaran: 3; sah: 0; dibatalkan atau tamat tempoh: 0; status tidak dapat disahkan: 3) |
+| Bilangan Pendaftaran | 3 (sah: 0; status tidak dapat disahkan: 3) |
 | Bilangan Kelulusan | 3 lesen (semuanya lesen ramuan tunggal yang sah) |
 | Keputusan Disyorkan | Hold |
 

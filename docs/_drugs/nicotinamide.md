@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 377 daripada 388) |
-| Bilangan Pendaftaran | 388 (sah: 377) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 375 daripada 388; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 388 (sah: 375; status tidak dapat disahkan: 2) |
 | **Nama Ubat** | Nicotinamide |
 | **ID DrugBank** | [DB02701](https://go.drugbank.com/drugs/DB02701) |
 | **Ramalan DL (≥0.7)** | 35 |

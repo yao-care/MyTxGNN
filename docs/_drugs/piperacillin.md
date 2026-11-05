@@ -50,8 +50,8 @@ Piperacillin ialah antibiotik beta-laktam (kumpulan penisilin) yang digunakan un
 | Indikasi Baharu yang Diramalkan | Rheumatoid arthritis |
 | Skor Ramalan TxGNN | 0.9994 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 8) |
-| Bilangan Pendaftaran | 8 (sah: 7) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 8; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 8 (sah: 6; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---

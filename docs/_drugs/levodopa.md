@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-06
 description: "Levodopa: indikasi baharu diramal Ensefalitis subakut Rasmussen (tahap bukti L5). Indikasi asal: Penyakit Parkinson (hubungan indikasi direkodkan dalam graf pengetahu…"
 ---
 
@@ -50,8 +50,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Ensefalitis subakut Rasmussen |
 | Skor Ramalan TxGNN | 0.9906 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
-| Bilangan Pendaftaran | 15 (sah: 15) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 15; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 15 (sah: 14; status tidak dapat disahkan: 1) |
 | Bilangan Kelulusan | 15 pendaftaran (kesemuanya produk kombinasi) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 

@@ -48,8 +48,8 @@ Tadalafil ialah perencat PDE5 yang hubungannya dengan disfungsi erektil, hiperte
 | Indikasi Baharu Diramal | Ambras type hypertrichosis universalis congenita |
 | Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 29 daripada 29) |
-| Bilangan Pendaftaran | 29 (sah: 29) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 27 daripada 29; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 29 (sah: 27; status tidak dapat disahkan: 2) |
 | Bilangan Kelulusan | 23 pendaftaran sah (semua produk bahan tunggal) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

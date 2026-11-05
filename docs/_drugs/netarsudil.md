@@ -47,8 +47,8 @@ Model TxGNN (skor ≥ 0.99) menghasilkan calon untuk Netarsudil, tetapi semua ca
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejaki ialah kegunaan sedia ada) |
 | Kegunaan sedia ada dalam kalangan calon model | 2 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
-| Bilangan Pendaftaran | 3 (sah: 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 3; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 3 (sah: 2; status tidak dapat disahkan: 1) |
 
 ## Kegunaan sedia ada dalam kalangan calon model
 
@@ -74,7 +74,7 @@ Model TxGNN (skor ≥ 0.99) menghasilkan calon untuk Netarsudil, tetapi semua ca
 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|
-| MAL25046004ACZ | Rhopressa (netarsudil ophthalmic solution) 0.02% |  | Sah |
+| MAL25046004ACZ | Rhopressa (netarsudil ophthalmic solution) 0.02% |  | Status tidak dapat disahkan |
 | MAL25046005ACZ | Rocklatan (netarsudil and latanoprost ophthalmic solution) 0 |  | Sah |
 
 ## Pertimbangan Keselamatan

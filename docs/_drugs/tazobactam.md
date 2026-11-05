@@ -47,8 +47,8 @@ Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Tazobactam ia
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejak ialah kegunaan diketahui) |
 | Kegunaan diketahui dalam calon model | 2 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 9) |
-| Bilangan Pendaftaran | 9 (sah: 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 9; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 9 (sah: 7; status tidak dapat disahkan: 1) |
 
 ## Kegunaan diketahui dalam calon model
 
@@ -77,7 +77,7 @@ Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Tazobactam ia
 | MAL20162591ACREZ | hovid Piperacillin + Tazobactam for Injection 4.5g |  | Dibatalkan Pendaftaran |
 | MAL19990548AZ | TAZOCIN EF INJECTION 4.5G |  | Sah |
 | MAL16125024ACRZ | Zerbaxa 1.5g powder for solution for injection |  | Sah |
-| MAL17107023ARZ | Piperacillin/Tazobactam Kabi 2g/0.25g Powder for Solution fo |  | Sah |
+| MAL17107023ARZ | Piperacillin/Tazobactam Kabi 2g/0.25g Powder for Solution fo |  | Status tidak dapat disahkan |
 | MAL17107024ARZ | Piperacillin/Tazobactam Kabi 4g/0.5g Powder for Solution for |  | Sah |
 | MAL24036024ACZ | PipTaz-AFT, Piperacillin and Tazobactam Powder for Solution  |  | Sah |
 | MAL09072786ACZ | TAZPEN for Injection 4.5g |  | Sah |

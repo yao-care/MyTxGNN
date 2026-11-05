@@ -52,8 +52,8 @@ tetapi buat masa ini hanya **0 ujian klinikal** dan **1 penerbitan** (kajian *in
 | Indikasi Baharu yang Diramalkan | Neoplasma mieloproliferatif (myeloproliferative neoplasm) |
 | Skor Ramalan TxGNN | 0.9947 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 53 daripada 55) |
-| Bilangan Pendaftaran | 55 (sah: 53) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 52 daripada 55; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 55 (sah: 52; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---

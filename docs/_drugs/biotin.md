@@ -50,8 +50,8 @@ Biotin ialah vitamin larut air yang berfungsi sebagai kofaktor kepada enzim karb
 | Indikasi Baharu yang Diramalkan | Dispepsia (dyspepsia) |
 | Skor Ramalan TxGNN | 0.9943 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 365 daripada 372) |
-| Bilangan Pendaftaran | 372 (sah: 365) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 364 daripada 372; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 372 (sah: 364; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---

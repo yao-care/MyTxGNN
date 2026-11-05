@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
-| Bilangan Pendaftaran | 5 (sah: 5) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 5; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 5 (sah: 3; status tidak dapat disahkan: 2) |
 | **Nama Ubat** | Tafluprost |
 | **ID DrugBank** | [DB08819](https://go.drugbank.com/drugs/DB08819) |
 | **Ramalan DL (≥0.7)** | 27 |

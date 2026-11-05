@@ -48,8 +48,8 @@ Tramadol ialah ubat analgesik opioid (agonis reseptor mu dengan aktiviti perenca
 | Indikasi Baharu yang Diramalkan | Acromesomelic dysplasia, Hunter-Thompson type |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 35 daripada 35) |
-| Bilangan Pendaftaran | 35 (sah: 35) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 34 daripada 35; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 35 (sah: 34; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Wajar (atau Tidak)?

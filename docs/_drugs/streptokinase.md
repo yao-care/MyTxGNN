@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Prinzmetal angina** dengan sk
 | Indikasi Baharu yang Diramalkan | Prinzmetal angina |
 | Skor Ramalan TxGNN | 0.9980 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
-| Bilangan Pendaftaran | 2 (sah: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 2; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 2 (sah: 1; status tidak dapat disahkan: 1) |
 | Bilangan Kelulusan | 1 pendaftaran |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 

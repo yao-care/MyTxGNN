@@ -42,8 +42,8 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 |------|-----------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baru yang Diramal | — Tiada (ramalan TxGNN belum tersedia) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 68 daripada 69) |
-| Bilangan Pendaftaran | 69 (sah: 68) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 66 daripada 69; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 69 (sah: 66; status tidak dapat disahkan: 2) |
 
 ---
 

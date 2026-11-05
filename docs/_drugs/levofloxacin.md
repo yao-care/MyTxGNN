@@ -48,8 +48,8 @@ Levofloxacin ialah antibiotik fluorokuinolon spektrum luas. Model TxGNN meramalk
 | Indikasi Baharu yang Diramalkan | Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) |
 | Skor Ramalan TxGNN | 0.9992 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 18 daripada 20) |
-| Bilangan Pendaftaran | 20 (sah: 18) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 17 daripada 20; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 20 (sah: 17; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 description: "Risperidone: indikasi baharu diramal Gaze palsy, familial horizontal, with progressive scoliosis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Risperidone ialah ubat antipsikotik yang dikaitkan dengan skizofrenia, gangguan 
 | Indikasi Baharu yang Diramalkan | Gaze palsy, familial horizontal, with progressive scoliosis |
 | Skor Ramalan TxGNN | 0.9976 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 25 daripada 25) |
-| Bilangan Pendaftaran | 25 (sah: 25) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 22 daripada 25; status tidak dapat disahkan: 3) |
+| Bilangan Pendaftaran | 25 (sah: 22; status tidak dapat disahkan: 3) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?

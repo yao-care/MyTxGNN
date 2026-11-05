@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Pankreatitis |
 | Skor Ramalan TxGNN | 0.9976 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
-| Bilangan Pendaftaran | 3 (sah: 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 3; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 3 (sah: 2; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold |
 
 ---

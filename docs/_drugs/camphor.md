@@ -52,8 +52,8 @@ tetapi setakat ini **tiada ujian klinikal** didaftarkan dan hanya terdapat **3 p
 | Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder) |
 | Skor Ramalan TxGNN | 0.9985 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 291 daripada 298) |
-| Bilangan Pendaftaran | 298 (sah: 291) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 289 daripada 298; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 298 (sah: 289; status tidak dapat disahkan: 2) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---
