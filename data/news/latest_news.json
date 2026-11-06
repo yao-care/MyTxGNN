@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-06T00:43:35.426344",
+  "fetched": "2026-11-06T07:38:47.162684",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,36 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "One Patient, Multiple Decisions: Interprofessional Care In The Malaysian Health Care System — MHSA",
+      "url": "https://codeblue.galencentre.org/2026/11/one-patient-multiple-decisions-interprofessional-care-in-the-malaysian-health-care-system-mhsa/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-06T06:00:00",
+      "summary": "The Malaysian Healthcare Students Alliance (MHSA) warns that professional hierarchies and poor communication among health care workers can compromise patient safety. The alliance calls for stronger collaboration across disciplines to improve patient care. The post One Patient, Multiple Decisions: Interprofessional Care In The Malaysian Health Care System — MHSA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "patient"
+      ]
+    },
+    {
+      "title": "Malaysia Needs MHTC-Like Agency To Coordinate Long-Term Care",
+      "url": "https://codeblue.galencentre.org/2026/11/malaysia-needs-central-agency-like-mhtc-to-drive-aged-care/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-06T04:00:00",
+      "summary": "Malaysia needs a central agency to prepare for its rapidly ageing population, but aged care responsibilities remain fragmented across ministries, with KPWKM classified as a “Category C” ministry and lacking the clout to lead a national response. The post Malaysia Needs MHTC-Like Agency To Coordinate Long-Term Care appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "An Open Letter To The Sabah Chief Minister: Sarawak Is Investing In Its Future Doctors, But Why Is Sabah Still Falling Behind? — An Exhausted Doctor",
+      "url": "https://codeblue.galencentre.org/2026/11/an-open-letter-to-the-sabah-chief-minister-sarawak-is-investing-in-its-future-doctors-but-why-is-sabah-still-falling-behind-an-exhausted-doctor/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-06T02:00:00",
+      "summary": "A doctor practising in Sabah wants the state government to match Sarawak’s investment in local medical graduates, calling for scholarships and better rural infrastructure, housing and financial incentives to stem the exodus of doctors. The post An Open Letter To The Sabah Chief Minister: Sarawak Is Investing In Its Future Doctors, But Why Is Sabah Still Falling Behind? — An Exhausted Doctor appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "doctor"
+      ]
+    },
     {
       "title": "What Is The Status Of Our NG-999? — Dr Sarah Shaikh Abdul Karim",
       "url": "https://codeblue.galencentre.org/2026/11/what-is-the-status-of-our-ng-999-dr-sarah-shaikh-abdul-karim/",
@@ -85,44 +115,13 @@
       ]
     },
     {
-      "title": "Protect Children First, Not Industry Convenience — MPA",
-      "url": "https://codeblue.galencentre.org/2026/11/protect-children-first-not-industry-convenience-mpa/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-04T03:00:00",
-      "summary": "A policy that legalises nicotine vapes while promising enforcement is not a balanced compromise, says the MPA. The post Protect Children First, Not Industry Convenience — MPA appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Hospital Admissions Drive Up Employees’ Medical Bills 12-Fold, PMCare Says",
-      "url": "https://codeblue.galencentre.org/2026/11/hospital-admissions-drive-up-employees-medical-bills-12-fold-pmcare-says/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-04T02:00:00",
-      "summary": "PMCare data show hospitalised employees incurred median annual medical bills of RM18,548, against RM1,512 for outpatient-only patients. Employees with worsening or multiple chronic conditions can also rack up costs without hospitalisation. The post Hospital Admissions Drive Up Employees’ Medical Bills 12-Fold, PMCare Says appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "hospital",
-        "patient",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Protecting A Generation: Malaysia Must Rethink Its Nicotine Policy — Dr Devadas Pathiyil Ramankutty",
-      "url": "https://codeblue.galencentre.org/2026/11/protecting-a-generation-malaysia-must-rethink-its-nicotine-policy-dr-devadas-pathiyil-ramankutty/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-03T08:51:08",
-      "summary": "Malaysia's reported move towards exempting liquid nicotine from the Poisons List raises fundamental questions about public health priorities, regulatory consistency, and our responsibility to protect the next generation from nicotine addiction. The post Protecting A Generation: Malaysia Must Rethink Its Nicotine Policy — Dr Devadas Pathiyil Ramankutty appeared first on CodeBlue .",
+      "title": "Speaker tells ministers to be on time after Health Ministry no-show in Dewan Rakyat",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/06/speaker-tells-ministers-to-be-on-time-after-health-ministry-no-show-in-dewan-rakyat/242159",
+      "source": "Malay Mail",
+      "published": "2026-11-06T02:48:30",
+      "summary": "KUALA LUMPUR, Nov 6 — Members of the administration have been urged to arrive early for Dewan Rakyat s...",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Nilai teen tests positive for three drugs after dazed vaping video prompts police investigation",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/05/nilai-teen-tests-positive-for-three-drugs-after-dazed-vaping-video-prompts-police-investigation/242104",
-      "source": "Malay Mail",
-      "published": "2026-11-05T10:28:30",
-      "summary": "SEREMBAN, Nov 5 — A male secondary school student in Nilai has tested positive in a preliminary urine screening fo...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
