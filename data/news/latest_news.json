@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-06T07:38:47.162684",
+  "fetched": "2026-11-06T15:39:05.872845",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,16 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 12,
   "items": [
+    {
+      "title": "Vape Group Hails Poisons Board’s Endorsement Of Proposed Nicotine Exemption",
+      "url": "https://codeblue.galencentre.org/2026/11/vape-group-hails-poisons-boards-endorsement-of-proposed-nicotine-exemption/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-06T10:11:24",
+      "summary": "Mevta welcomes the Poisons Board’s endorsement of the government’s proposal to exempt liquid nicotine from the Poisons List. The vape group backs stronger enforcement under Act 852, rather than a blanket ban of vape products under the Poisons Act. The post Vape Group Hails Poisons Board’s Endorsement Of Proposed Nicotine Exemption appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "One Patient, Multiple Decisions: Interprofessional Care In The Malaysian Health Care System — MHSA",
       "url": "https://codeblue.galencentre.org/2026/11/one-patient-multiple-decisions-interprofessional-care-in-the-malaysian-health-care-system-mhsa/",
@@ -104,24 +112,23 @@
       ]
     },
     {
-      "title": "When New Glasses No Longer Help, The Problem May Be Keratoconus",
-      "url": "https://codeblue.galencentre.org/2026/11/when-new-glasses-no-longer-help-the-problem-may-be-keratoconus/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-04T04:00:00",
-      "summary": "Keratoconus can cause progressive vision loss, often going undiagnosed in adolescents. A new procedure called CAIRS, available at Ara Damansara Medical Centre, uses donor corneal tissue to reshape the cornea and improve vision in selected patients. The post When New Glasses No Longer Help, The Problem May Be Keratoconus appeared first on CodeBlue .",
+      "title": "Health Ministry fills 11,969 posts this year, remaining positions to be filled by 2027",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/06/health-ministry-fills-11969-posts-this-year-remaining-positions-to-be-filled-by-2027/242254",
+      "source": "Malay Mail",
+      "published": "2026-11-06T12:34:24",
+      "summary": "PUTRAJAYA, Nov 6 — The Ministry of Health (MOH) has completed filling 11,969 of the 18,640 positions approved for...",
       "keywords_matched": [
-        "medical",
-        "patient"
+        "health"
       ]
     },
     {
-      "title": "Speaker tells ministers to be on time after Health Ministry no-show in Dewan Rakyat",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/06/speaker-tells-ministers-to-be-on-time-after-health-ministry-no-show-in-dewan-rakyat/242159",
+      "title": "Financially vulnerable Malaysians targeted for recruitment as drug mules, police say",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/06/financially-vulnerable-malaysians-targeted-for-recruitment-as-drug-mules-police-say/242235",
       "source": "Malay Mail",
-      "published": "2026-11-06T02:48:30",
-      "summary": "KUALA LUMPUR, Nov 6 — Members of the administration have been urged to arrive early for Dewan Rakyat s...",
+      "published": "2026-11-06T10:15:53",
+      "summary": "KUALA LUMPUR, Nov 6 — Individuals with financial difficulties, especially those from Sarawak and Pahang, have been...",
       "keywords_matched": [
-        "health"
+        "drug"
       ]
     }
   ]
