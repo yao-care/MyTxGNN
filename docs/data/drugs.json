@@ -229,7 +229,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Osteoporosis teraruh ubat",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/alpha-tocopherol-acetate/"
     },
@@ -1499,7 +1499,7 @@
       "evidence_level": "L5",
       "indication_count": 7,
       "original_indication": "",
-      "predicted_indication": "Gastroduodenitis",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/corifollitropin-alfa/"
     },
@@ -2189,7 +2189,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Hipertrikosis",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/ergometrine/"
     },
@@ -2279,7 +2279,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Katarak tetanik",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/ethyl-chloride/"
     },
@@ -3269,7 +3269,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Gangguan afektif bipolar manik",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/lacosamide/"
     },
@@ -3529,7 +3529,7 @@
       "evidence_level": "L5",
       "indication_count": 9,
       "original_indication": "",
-      "predicted_indication": "Fibromatosis gingiva",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/lorlatinib/"
     },
@@ -3539,7 +3539,7 @@
       "evidence_level": "L5",
       "indication_count": 9,
       "original_indication": "",
-      "predicted_indication": "Konjunktivitis folikular kronik",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/loteprednol-etabonate/"
     },
@@ -4279,7 +4279,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Hipertiroidisme",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/palbociclib/"
     },
@@ -5119,7 +5119,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Prinzmetal angina",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/sevoflurane/"
     },
@@ -5129,7 +5129,7 @@
       "evidence_level": "L5",
       "indication_count": 6,
       "original_indication": "",
-      "predicted_indication": "Ambras type hypertrichosis universalis congenita",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/silodosin/"
     },
@@ -5249,7 +5249,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Leukemia limfoblastik akut",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/sotatercept/"
     },
@@ -6059,7 +6059,7 @@
       "evidence_level": "L5",
       "indication_count": 9,
       "original_indication": "",
-      "predicted_indication": "Sindrom Tourette",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/zonisamide/"
     }
