@@ -23,13 +23,25 @@
   M2 事實是已註銷／過期／核准未上市，狀態列不得寫成上市中（kr 不查）
   M3 正文（非表格）說全部註銷／沒有有效許可證但事實有效數 >0，或事實全部註銷／未上市但正文說上市中（kr 不查；pm C1）
      M3 擴充（2026-11-05，英文站、M3X_SITES 啟用）：M3a 未上市卻寫有效、M3b 有效卻寫未註冊／查無註冊、M3c 有註銷卻寫全部有效／沒有註銷／有效張數過多
-N1 noindex（--noindex 時才查）：no_pred_noindex 的頁要有 noindex: true，其他頁不得有
+     M3 英文「全部註銷」漏網寫法（2026-11-06，ALLC_X_SITES 啟用：Us，同日加 Eu、NZ、Au、In、Sg、Uk、Ca、Ph、Za）：all／both／the／only／sole … listings／records／BLAs … cancelled、
+     「The US licences are all cancelled」「the cancelled US market status」、另有 N 張註銷但 N 多於事實、點名的申請號其實有效（all_cancel_x）
+     M3 英文「總數說法」跟事實不符（2026-11-06，TOTAL_X_SITES，同上 10 站）：In total／overall／Of N records／A of the N／all N／N valid … of N／N … in total 的
+     總數、有效、註銷張數跟事實不符（total_x；表格子集合、至少 N、部分紀錄、交互作用筆數不算）
+     M3 英文「有效張數」說法跟事實不符（2026-11-06，VALIDX_SITES，同上 10 站）：「with N valid …」「N valid authorizations」「N licences are valid」寫的有效張數
+     不等於事實（valid_under；至少 N、部分紀錄、表外另有 N 張、表格列出的 N 張、單方張數不少於事實單方有效張數的不算）
+     M3 英文「單方／複方」說法跟事實不符（2026-11-06，COMBO_X_SITES：10 個英文站；Us、Au、In、Ca 修好各站 reviewer 的成分數判定後啟用）：
+     寫全部單方／沒有複方但有效許可有複方、寫只有複方但有單方、單方張數多於事實（combo_x）
+     M3l 清單站（Uk、NZ、Ph）第四輪（2026-11-06）：說許可資料應去 MHRA／Medsafe／FDA PH 擷取、重跑擷取流程、許可資料／紀錄不完整或尚未載入（LIST_PIPE；仿單缺漏不算）
+D1 一頁只能有一份報告（2026-11-03 用戶決定）：報告標題＝H2 後一行是「{: .text-alpha }」；兩個以上就錯
+   （過去產生時殘留的第二份舊報告、或模型自己「更正標題」留下的第二個標題；修法見 drop_duplicate_reports_20261103.py）
+N1 noindex（--noindex 時才查）：no_pred_noindex 的頁、站上 docs/_data/force_noindex.json 列的頁要有 noindex: true，其他頁不得有
 用法（母目錄）：python3 .claude/check_drug_page.py [--selftest] [--noindex] [--pages site:page,...] [站 ...]
 輸出 .claude/audit_20261016/check/results.tsv（site, page, code, detail）；有錯 exit 1。
 """
 import csv
 import importlib.util
 import json
+import os
 import re
 import sys
 from collections import Counter, defaultdict
@@ -37,7 +49,7 @@ from functools import lru_cache
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parents[1]
-OUT = BASE / ".claude/audit_20261016/check"
+OUT = Path(os.environ.get("CK_OUT", BASE / ".claude/audit_20261016/check"))  # CK_OUT：逐站在雲端跑時各自的輸出目錄（可平行）
 RULES = BASE / ".claude/check_rules"
 
 
@@ -307,24 +319,34 @@ NO_CENTRAL = {
     "ThTxGNN": "ไม่พบทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย.",
     # 2026-10-31（pm）：JP 的來源是藥價基準收載醫藥品マスター，不收 OTC 等未收載品目，查不到不等於國內未承認
     "JpTxGNN": "本サイトのデータ（薬価基準収載医薬品マスター）に該当品目なし（国内の承認状況は未確認）",
+    # 2026-11-06（用戶決定）：SG 的來源是 HSA 現行註冊清單（data.gov.sg，只列現行註冊），不在清單不等於沒有藥；
+    # EU 的來源只有 EMA 集中許可，各會員國的國家許可不在資料裡。兩站都只陳述資料範圍，不寫 Not marketed
+    "UkTxGNN": "Not listed in the NHSBSA BNF prescribing code list – MHRA licence status is not included in this data",
+    "NZTxGNN": "Not listed on the Pharmac Pharmaceutical Schedule (Community Medicines) – Medsafe licence status is not included in this data",
+    "PhTxGNN": "Not listed in the Philippine National Formulary (PNF) Essential Medicines List – FDA Philippines registration status is not included in this data",
+    "SgTxGNN": "Not in the current HSA register of therapeutic products (data.gov.sg listing) – registrations no longer listed are not included in this data",
+    "EuTxGNN": "No EMA central authorisation on record – national authorisations in EU member states are not included in this data",
 }
 
 
 # 2026-10-30（用戶選「沿用現有來源排程」）：這些站的「本地資料」不是主管機關許可證資料，狀態列照實陳述來源，
 # 不寫成「已許可、上市中」。{v}／{n}＝在列筆數（同原本的有效／總數）；部分紀錄用第二個模板。
 SOURCE_STATUS = {
-    "NZTxGNN": ("Listed on the Pharmac Pharmaceutical Schedule ({v} of {n} items) – Medsafe licence status is not included in this data",
-                "Listed on the Pharmac Pharmaceutical Schedule (at least {v} items) – Medsafe licence status is not included in this data"),
-    "UkTxGNN": ("Listed in NHSBSA BNF presentation codes ({v} of {n}) – MHRA licence status is not included in this data",
-                "Listed in NHSBSA BNF presentation codes (at least {v}) – MHRA licence status is not included in this data"),
+    # 2026-11-06（用戶決定）：NZ 依成分重建 Pharmac 給付清單筆數；狀態列只陳述資料範圍（給付清單，不含 Medsafe 許可狀態）
+    "NZTxGNN": ("Listed on the Pharmac Pharmaceutical Schedule ({n} Community Medicines items) – Medsafe licence status is not included in this data",
+                "Listed on the Pharmac Pharmaceutical Schedule (at least {v} Community Medicines items) – Medsafe licence status is not included in this data"),
+    # 2026-11-06（用戶決定）：UK 依成分重建 BNF 處方代碼清單筆數；狀態列只陳述資料範圍（處方代碼清單，不含 MHRA 許可狀態）
+    "UkTxGNN": ("Listed in the NHSBSA BNF prescribing code list ({n} presentation codes) – MHRA licence status is not included in this data",
+                "Listed in the NHSBSA BNF prescribing code list (at least {v} presentation codes) – MHRA licence status is not included in this data"),
     "ARTxGNN": ("Incluido en el listado de medicamentos de PAMI ({v} de {n}) – el estado del registro en ANMAT no está incluido en estos datos",
                 "Incluido en el listado de medicamentos de PAMI (al menos {v}) – el estado del registro en ANMAT no está incluido en estos datos"),
     "AuTxGNN": ("Listed on the PBS Schedule ({v} of {n} items) – TGA (ARTG) registration status is not included in this data",
                 "Listed on the PBS Schedule (at least {v} items) – TGA (ARTG) registration status is not included in this data"),
     "InTxGNN": ("Listed in a compiled Indian medicine price dataset ({v} of {n}) – CDSCO approval status is not included in this data",
                 "Listed in a compiled Indian medicine price dataset (at least {v}) – CDSCO approval status is not included in this data"),
-    "PhTxGNN": ("Listed in the Philippine National Formulary ({v} of {n}) – FDA Philippines registration status is not included in this data",
-                "Listed in the Philippine National Formulary (at least {v}) – FDA Philippines registration status is not included in this data"),
+    # 2026-11-06（用戶決定）：PH 依成分重建 PNF 品項數（PNF-EML 2022）；狀態列只陳述資料範圍（處方集，不含 FDA Philippines 註冊狀態）
+    "PhTxGNN": ("Listed in the Philippine National Formulary (PNF entries: {n}) – FDA Philippines registration status is not included in this data",
+                "Listed in the Philippine National Formulary (PNF entries: at least {v}) – FDA Philippines registration status is not included in this data"),
 }
 # TH 2026-10-31 移出：原本的許可證號是程式編造的，改用 Thai FDA 查詢系統（pertento）的真實許可證，狀態列回到一般寫法
 
@@ -340,10 +362,18 @@ def unknown_status_text(site, lang, fc):
     return cfg["only"].format(n=fc.get("total"), c=fc.get("cancelled") or 0, u=fc.get("unknown") or 0) if cfg else None
 
 
+# 狀態未經主管機關確認、但照樣算有效的許可（Za 2026-11-06 用戶決定）：fc["unconfirmed"]＝只在 MPR 價格登錄有、SAHPRA 匯出查不到的
+# 有效註冊數（含在 valid 裡，不是另一種狀態）。狀態列與張數列加註，許可證表該列狀態格寫「Valid (status not confirmed by SAHPRA)」
+UNCONFIRMED_ST = {"ZaTxGNN": {"extra": "; {u} of the valid not confirmed by SAHPRA", "count": "{n} (valid: {v}, of which {u} not confirmed by SAHPRA)"}}
+
+
 def _with_unknown(site, text, fc):
     cfg = UNKNOWN_ST.get(site)
     if cfg and fc and (fc.get("unknown") or 0) and text.endswith(")"):
         return text[:-1] + cfg["extra"].format(u=fc["unknown"]) + ")"
+    cfg = UNCONFIRMED_ST.get(site)
+    if cfg and fc and (fc.get("unconfirmed") or 0) and not fc.get("partial") and text.endswith(")"):
+        return text[:-1] + cfg["extra"].format(u=fc["unconfirmed"]) + ")"
     return text
 
 
@@ -351,6 +381,8 @@ def marketed_text(site, lang, v, n, partial, fc=None):
     """事實是 Marketed 時的狀態列：來源不是許可證資料的站用 SOURCE_STATUS，SPLIT_STATUS 的站分開寫核准未上市／註銷，其他站用 mv2.T"""
     if site in SPLIT_STATUS:
         cfg = SPLIT_STATUS[site]
+        if "fn" in cfg:
+            return cfg["fn"](v, n, partial, fc)
         return cfg["part" if partial else "full"].format(v=v, n=n, extra=_split_extra(cfg, fc))
     if site in SOURCE_STATUS:
         return SOURCE_STATUS[site][1 if partial else 0].format(v=v, n=n)
@@ -401,6 +433,16 @@ SCOPE_CANCELLED = {
     "DETxGNN": "Zentrale EU-Zulassung (EMA) erloschen ({n} von {n}) – nationale Zulassungen (BfArM) sind in den hier ausgewerteten Daten nicht enthalten",
     "FITxGNN": "Keskitetty EU-myyntilupa (EMA) peruttu ({n}/{n}) – kansallisia myyntilupia (Fimea) ei ole tässä käytetyissä tiedoissa",
     "NOTxGNN": "Sentral EU-godkjenning (EMA) avregistrert ({n} av {n}) – nasjonale markedsføringstillatelser (DMP) finnes ikke i dataene som er brukt her",
+    "EuTxGNN": "No valid EMA central authorisation (withdrawn, lapsed or expired: {n} of {n}) – national authorisations in EU member states are not included in this data",
+}
+# 只陳述資料範圍的站（NO_CENTRAL／SCOPE_CANCELLED），事實是查無或全部註銷時，正文斷言「在本國／歐盟沒有上市、買不到」超出資料範圍（2026-11-06，Sg、Eu）
+SCOPE_NOMKT = {
+    "SgTxGNN": re.compile(r"\bnot (currently |yet )?(marketed|available|sold|launched)\b[^.;]{0,25}\b(in Singapore|locally|on the (Singapore|local) market)\b|"
+                          r"\bno longer (marketed|available|sold)\b[^.;]{0,25}\b(in Singapore|locally)\b|\b(unavailable|off the market) in Singapore\b|"
+                          r"\bnot on the (Singapore|local) market\b", re.I),
+    "EuTxGNN": re.compile(r"\bnot (currently |yet )?(marketed|available|sold|authori[sz]ed|launched)\b[^.;]{0,25}\b(in (the )?(EU|European Union|Europe|EEA))\b|"
+                          r"\bno longer (marketed|available|sold|authori[sz]ed)\b[^.;]{0,25}\b(in (the )?(EU|European Union|Europe|EEA))\b|"
+                          r"\b(unavailable|off the market) in (the )?(EU|European Union|Europe)\b|\bnot on the (EU|European) market\b", re.I),
 }
 
 
@@ -456,6 +498,28 @@ ALL_CANCEL = re.compile(
     r"\b(kesemua|semua)\b[^.\n]{0,40}pendaftaran[^.\n]{0,30}dibatalkan|tiada pendaftaran (yang )?sah|"
     r"جميع التراخيص[^.\n]{0,40}(ملغا|ملغى|ملغية|أُلغيت|ألغيت)|لا توجد تراخيص سارية|لا يوجد ترخيص ساري|"
     r"(ทั้งหมด|ทุกรายการ)[^.\n]{0,30}ยกเลิก|ไม่มีทะเบียนที่ยังมีผล", re.I)
+# 2026-11-06（用戶決定修誤判）：「全部…許可…註銷」那一類（all／todos／alle／toutes／tutti／alla／kaikki／semua…開頭）
+# 若「全部」與註銷字之間有否定或有效字樣，講的是「全部有效、沒有註銷」，不是全部註銷
+# （「All four licences are valid, and none has been cancelled.」「Todos los registros están vigentes y ninguno fue cancelado.」）
+_ALL_LEAD = re.compile(r"^(all|every|tod[oa]s|alle|tou(tes|s)|tutt[ei]|alla|kaikki|kesemua|semua|جميع|ทั้งหมด|ทุกรายการ)\b", re.I)
+# 2026-11-06 修 333c1aeb 的漏判：葡萄牙文「no Brasil」的 no 是介系詞（in the），阿拉伯文「لا」原本當子字串比對，
+# 「الثلاثة」「الاثنا」裡就有，真正的「全部註銷」（todos os registros no Brasil estão cancelados、جميع التراخيص الثلاثة ملغاة）被當成否定略過。
+# 拿掉單獨的 no（英文的「全部有效、沒有註銷」都另有 valid／none 等字），阿拉伯文 لا 要是獨立的詞
+_ALL_NEGV = re.compile(r"\b(none|not|neither|nor|never|without|valid|active|current(ly)? (valid|active)|ninguno|ninguna|ningún|ni|sin|vigentes?|"
+                       r"válid[oa]s?|nenhum[a]?|ativ[oa]s?|keine?n?|kein|gültig\w*|aucune?|valides?|nessun[oa]?|validi|valide|geen|geldig\w*|"
+                       r"ingen|giltig\w*|gyldig\w*|ei|voimassa\w*|tiada|sah)\b|ยังมีผล|ไม่มี|السارية|سارية|(?<!\w)و?لا(?!\w)", re.I)
+
+
+def all_cancel(s):
+    """ALL_CANCEL 命中、且不是「全部有效、沒有註銷」的說法"""
+    for m in ALL_CANCEL.finditer(s):
+        g = m.group(0)
+        if _ALL_LEAD.search(g) and _ALL_NEGV.search(g[3:]):
+            continue
+        return True
+    return False
+
+
 # 2026-10-31（pm 退件 BR）：「只有註銷的許可」這類說法（沒寫未上市、但說只剩註銷登記），事實有有效許可時跟狀態列矛盾。
 # 句中同時提到有效／現行許可（POS_VALID）的不算（例：「2 張註銷、3 張有效」）。單純提到「另有 4 個註銷登記」不算，
 # 只抓括號斷言「(registro cancelado)」與「apenas／solo … cancelado」這類「只有」的說法。
@@ -522,18 +586,22 @@ AT_LEAST = re.compile(r"at least|al menos|pelo menos|mindestens|mindst|vähintä
 #       data retrieval failure 這類「查無結果」說法）
 #   M3c 事實有註銷張數（非部分紀錄），正文寫全部有效／沒有註銷，或正文寫的有效張數多於事實
 # 只在 M3X_SITES 的站啟用：新規則上線前，該站頁面要先清到 0（否則許可證排程的 checker 會擋下整批）；selftest 一律測。
-M3X_SITES = {"MyTxGNN", "ZaTxGNN"}
+M3X_SITES = {"COTxGNN", "CaTxGNN", "DkTxGNN", "ESTxGNN", "KrTxGNN", "EuTxGNN", "MyTxGNN", "NZTxGNN", "PhTxGNN", "SgTxGNN", "UkTxGNN", "UsTxGNN", "ZaTxGNN"}
 M3X_LANGS = ("en", "en-us")
 VALID_CLAIM = re.compile(r"\bvalid status\b|\b(is|are|remains?) (currently |still )?valid\b|\bcurrently valid\b|"
                          r"\bvalid (single[\w-]*|registrations?|licen[cs]es?|authori[sz]ations?|approvals?|SAHPRA|products?|records?|entr(y|ies))\b|"
-                         r"\(\s*[^()]*\bvalid\s*\)|\bmarketed in\b|\bis (widely )?(registered|marketed)\b", re.I)
+                         r"\(\s*[^()]*\bvalid\s*\)|\bmarketed in\b(?! other (jurisdictions?|countries|markets|regions)\b)|(?<!indication )\bis (widely )?(registered|marketed)\b", re.I)
+# 2026-11-05（Za d5c6364b6，站上副本先改、11-06 補回母 repo）：「No oral arginine product was identified」講的是某劑型沒有產品，不是沒有註冊；
+#   「no <劑型> product(s) were found」不算 M3b
+# 2026-11-06（Us 依成分重建後續）：「may be marketed in other jurisdictions」不是講本國、「no original indication is registered」是適應症登記，都不是有效許可的說法
 NOREG_CLAIM = re.compile(r"\bnot (currently )?registered\b|\bno (SAHPRA|local|South African|national)[- ](registrations?|licen[cs]es?|registered (products?|medicines?|formulations?))\b|"
                          r"\bholds? no (\w+ ){0,3}(registrations?|licen[cs]es?|marketing authori[sz]ations?)\b|"
                          r"\bzero (\w+ ){0,3}(registrations?|licen[cs]es?)\b|\bzero[- ](registration|licen[cs]e) (result|finding)|"
                          r"\bno (?:(?!cancel|revok|withdraw|combination)\w+ ){0,3}registrations? (on record|on file|were found|was found|were identified|were located|are recorded|"
                          r"(were |are )?recorded|found|returned)\b|\(total licen[cs]es?: 0\)|\b0[- ]registration|\bno registration (records?|data)\b|"
                          r"\breturned zero (\w+ ){0,2}(registrations?|licen[cs]es?|products?|records?)\b|\bdata (retrieval|collection|matching) (failure|gap|issue|error)|\bretrieval or matching failure|"
-                         r"\bno (\w+ ){0,2}(registered |pharmaceutical )?products? (were|was) (found|identified|returned|listed)\b|"
+                         r"\bno (?!(?:\w+ ){0,2}?(?:oral|ophthalmic|topical|injectable|nasal|inhaled|rectal|eye|ear|dermal|vaginal|intravenous|parenteral)\b)"
+                         r"(\w+ ){0,2}(registered |pharmaceutical )?products? (were|was) (found|identified|returned|listed)\b|"
                          r"\babsence of (SAHPRA |local |any )?registration|\bregistration (data|records?) (was|were) not (collected|retrieved)\b|"
                          r"\bSection 21 unregistered|\bunregistered medicine (provisions?|authori[sz]ation)|"
                          r"\bno recorded (\w+ ){0,3}(authori[sz]ations?|licen[cs]es?|DINs?|approvals?|applications?)\b|\(0 (DINs?|licen[cs]es?|NDAs?)\)|"
@@ -565,7 +633,10 @@ def m3x(lang, s, fc, site=None):
     c = fc.get("cancelled") or 0
     if ms in ("Cancelled only", "Not marketed") and VALID_CLAIM.search(s) and not mv2.NEG.search(s):
         return "M3a"
-    if v > 0 and NOREG_CLAIM.search(s) and not POS_VALID.search(s) and REG_WORD.search(s):
+    if v > 0 and (NOREG_CLAIM.search(s) or (site in NOREG_EXTRA and NOREG_EXTRA[site].search(s))) and not POS_VALID.search(s) and REG_WORD.search(s):
+        return "M3b"
+    if v > 0 and c == 0 and not fc.get("partial") and site in CANC_NONE and CANC_NONE[site].search(s) and not CANC_NONE_EXCL.search(s) \
+            and not NONE_CANCEL.search(s):
         return "M3b"
     if c > 0 and (not fc.get("partial") or site in M3X_PARTIAL):
         if NONE_CANCEL.search(s) or (ALL_VALID.search(s) and not re.search(r"cancel", s, re.I)):
@@ -614,6 +685,27 @@ NOREG_EXTRA = {"COTxGNN": re.compile(
     r"\bno (cuenta|tiene|dispone) (actualmente |hoy )?(con )?(ning[uú]n |un )?registros?( sanitarios?)? vigentes?|"
     r"\b(est[aá]n?|es|son) (\w+\s+){0,2}(cancelad[oa]s?)\b(?![^.;]{0,30}vigente)|\bno hay (\w+ ){0,2}presentaciones (\w+ )?vigentes|\bno existe (\w+ ){0,2}(comercializaci\w+|registros?)( sanitarios?)? vigentes?|"
     r"\((actualmente |hoy )?cancelad[oa]s?\)|\b(hoy|actualmente|ya) cancelad[oa]s?\b|\bfigura (hoy )?como cancelad", re.I)}
+# SG（2026-11-06，英文）：舊版 Evidence Pack 頁的「查無註冊」寫法（no registered products、0 registered products、
+# registration records are absent、currently unregistered、total_licenses: 0…）；只在本站有有效註冊時判（m3x 的 M3b）
+NOREG_EXTRA["SgTxGNN"] = re.compile(
+    r"\bno (Singapore |HSA |local )?(registered products?|approval records?|licen[cs]e records?)\b|\b0 registered products?\b|"
+    r"\bno (Singapore )?(HSA )?(regulatory )?registrations?\b(?! (are|were|is|was) (cancel|revok))|\bno Singapore (regulatory |registration |market )+(records?|data|registrations?)\b|"
+    r"\b(registration|regulatory) (registration )?records? (are|is) absent\b|\bcurrently unregistered\b|\bunregistered in Singapore\b|"
+    r"\bregulatory data returned zero\b|\bnot present in regulatory data\b|\btotal_licen[cs]es\W{0,3}[:=]\s*0\b|\bno local regulatory data\b|"
+    r"\bno approved registration\b|\bno Singapore market registration\b|\bno Singapore regulatory\b", re.I)
+# EU（2026-11-06，英文）：舊頁依當時的單筆紀錄寫「本藥（唯一）的 EU 許可已註銷」；本站有有效集中許可時判 M3b
+# （「earlier／previously／in 2017」這類講過去某個許可的句子不算）
+NOREG_EXTRA["EuTxGNN"] = re.compile(
+    r"^(?!.*\b(earlier|previous(ly)?|formerly|in (19|20)\d\d|re-?authori[sz]ed)\b)(?=.*("
+    r"\b(the|its|this|sole|only)( only| sole)?( EU| EMA| centrali[sz]ed| marketing| reference product'?s?)? (authori[sz]ation|licen[cs]e)\b[^.;]{0,40}?\b(is|was|has been|are|were)( also| currently| now)*( recorded| listed| shown)?( as)? (cancel+ed|withdrawn|revoked|lapsed|expired)\b|"
+    r"\bauthori[sz]ation status is (cancel+ed|withdrawn)\b|\bshows the licen[cs]e as cancel+ed\b|"
+    r"\bthe product'?s? (EU )?(authori[sz]ation )?(is|was|has been) (also )?(cancel+ed|withdrawn)\b|"
+    r"\bmarketing authori[sz]ation has (also )?been (cancel+ed|withdrawn)\b))", re.I)
+# EU（2026-11-06）：本藥的 EMA 集中許可全部有效、沒有註銷（c＝0）時，正文說許可已註銷（cancelled／cancellation、authorisation was withdrawn）
+# 一定與事實矛盾（舊頁依當時誤判的狀態寫成）。講過去的事（earlier／previously／historically／in 2017）、「沒有註銷」的否定句不算
+CANC_NONE = {"EuTxGNN": re.compile(r"\bcancel+ed\b|\bcancell?ations?\b|\bauthori[sz]ations? (was|were|has been|have been) withdrawn\b", re.I)}
+CANC_NONE_EXCL = re.compile(r"\b(previously|formerly|earlier|historically|in (19|20)\d\d|from the market (as|for)|later withdrawn)\b|"
+                            r"\b(no|none|not|without|neither|nor)\b[^.;]{0,40}\bcancel|\bcancel+ed:? 0\b", re.I)
 # CO：沒有任何註銷許可（c＝0）時，提到「registro cancelado／estado cancelado／solo cancelados」就是 2026-10-03 誤判留下的錯句
 CANC_NOUN = {"COTxGNN": re.compile(r"\b(registros?|productos?|presentaci\w+)( sanitarios?)?( \w+){0,3} cancelad[oa]s?\b|\bregistros?,? (también |hoy |todos )?cancelad|\bestado( de mercado)? cancelado\b|\bsolo cancelad|"
                                    r"\bcancelad[oa]s?\b(?=[^.;]{0,40}\b(registro|INVIMA|Colombia))", re.I)}
@@ -621,8 +713,241 @@ CANC_NOUN = {"COTxGNN": re.compile(r"\b(registros?|productos?|presentaci\w+)( sa
 CTX_NARROW = {"COTxGNN": re.compile(r"NCT\d|registro de ensayos?|EudraCT|REEC|ClinicalTrials", re.I)}
 
 # 判定前先拿掉 Markdown 粗體／斜體記號的站（「están **cancelados**」原本對不上；只在新上線的站啟用，已上線的站維持原判定）
-EMPH_STRIP = {"COTxGNN"}
+EMPH_STRIP = {"COTxGNN", "NZTxGNN", "PhTxGNN", "SgTxGNN", "UkTxGNN"}
 
+# M3 擴充（2026-11-06，Us 用戶決定）：英文「全部註銷」的漏網寫法。ALL_CANCEL 只認「all … licence … cancelled」且許可字在 all 後 40 字內，
+# 漏掉（例 Us 依成分重建後仍留在正文的舊句）：
+#   「All nine US listings … are marked as cancelled」（listings／records／entries／products／BLAs 不在 _LIC）、
+#   「There are 9 authorizations in total, and all are cancelled」「12 US authorizations, all with cancelled status」（all 在許可字後面）、
+#   「The US licences are all cancelled」「Both US NDAs are cancelled」「The US license is (also listed as) cancelled」
+#   「Idelalisib's sole US license is cancelled」「the product's US market status is "Cancelled only"」「Neither product is currently active」。
+# 判定（fc＝license_facts 一筆）：
+#   全部類（all／both／the／only／sole／neither）：事實有有效許可（valid>0）就矛盾；
+#   部分類（N further／more／other／remaining／a sixth… 也註銷）：N 多於事實的註銷張數就矛盾（沒有任何註銷時一定矛盾）；
+#   句中點名的申請號（NDA／ANDA／BLA＋6 碼）全部有效、句子卻說註銷：矛盾。
+# 「全部有效、沒有註銷」（none／no／not … cancelled）不算（同 333c1aeb 的修正）。只在 ALLC_X_SITES 啟用（新規則上線前該站頁面要先清到 0）。
+# 2026-11-06 用戶決定：Eu 8 句、NZ 1 句錯句刪完後，英文站 Eu、NZ 與掃過為 0 的 Au、In、Sg、Uk、Ca、Ph、Za 一併啟用。
+ALLC_X_SITES = {"UsTxGNN", "EuTxGNN", "NZTxGNN", "AuTxGNN", "InTxGNN", "SgTxGNN", "UkTxGNN", "CaTxGNN", "PhTxGNN", "ZaTxGNN"}
+_LICX = r"(?:licen[cs]es?|authori[sz]ations?|registrations?|approvals?|applications?|listings?|records?|entr(?:y|ies)|products?|A?NDAs?|BLAs?)"
+_US = r"(?:(?:US|U\.S\.|FDA|American|biologics?|generic|marketing|product)\s+)*"
+_CANC_W = r"(?:\*\*|\")?(?:cancel+ed|Cancelled only)\b"
+_STATUS_V = r"(?:\s+(?:also|currently|now|still|both|all|marked|listed|recorded|shown|reported|as|in|with|a|status|of))*\s+"
+ALLC_X = [
+    # all／every／both … 許可字 … cancelled
+    re.compile(r"\b(?:all|every|both)\b[^.;\n]{0,60}?\b" + _LICX + r"\b[^.;\n]{0,70}?" + _CANC_W, re.I),
+    # 許可字 … all／both（are all cancelled、, and all are cancelled、, all with cancelled status、, all cancelled）
+    re.compile(r"\b" + _LICX + r"\b[^.;\n]{0,80}?\b(?:all|both)\b(?:\s+(?:are|were|have been|is|currently|now|also|listed|recorded|marked|shown|with|have|in|as|of them)\b)*[^.;\n]{0,20}?" + _CANC_W, re.I),
+    # 定冠詞／所有格＋（only／sole／single）＋許可字 … is／are（listed as）cancelled
+    re.compile(r"\b(?:the|its|their|this|[A-Z][\w-]*'s)\s+(?:(?:only|sole|single|one)\s+)?" + _US + _LICX + r"(?:\s+records?)?\b[^.;,\n]{0,50}?\b(?:is|are|was|were|has been|have been)"
+               + _STATUS_V + r"(?:\(?)" + _CANC_W, re.I),
+    # 市場狀態寫成「Cancelled only」
+    re.compile(r"\bmarket(?:ing)? status\b[^.;\n]{0,50}?\"?Cancelled only", re.I),
+    re.compile(r"\b(?:licen[cs]e|authori[sz]ation|NDA|BLA)\s+is\s+cancel+ed\s+only\b", re.I),
+    # 「one authorization, and it is marked as cancelled」
+    re.compile(r"\b(?:one|single|only)\s+" + _US + _LICX + r"\b[^.;\n]{0,30}?\b(?:it|which)\s+(?:is|was|has been)" + _STATUS_V + _CANC_W, re.I),
+    # 句首就是許可字（checker 的句界把「U.S. licenses」切開，剩「licenses are cancelled, …」）
+    re.compile(r"^\W*" + _US + _LICX + r"\b[^.;,\n]{0,30}?\s(?:is|are)" + _STATUS_V + _CANC_W, re.I),
+    # 「US licenses are cancelled」「why US licenses are cancelled」（冠以國名、沒有限定詞＝本國全部許可）
+    re.compile(r"\b(?:US|U\.S\.|FDA)\s+(?:(?:biologics?|generic|marketing)\s+)?" + _LICX + r"\s+(?:is|are|were)" + _STATUS_V + _CANC_W, re.I),
+    # 「All 11 are listed as cancelled.」（主詞省略、承上句的許可）
+    re.compile(r"^\W*(?:all|both)\s+(?:" + _NUM + r"\s+)?(?:are|were|have been)" + _STATUS_V + _CANC_W, re.I),
+]
+# Neither … is (currently) active／valid
+ALLC_NEITHER = re.compile(r"\bneither\b(?:\s+(?:of them|of the|product|products|authori[sz]ations?|licen[cs]es?|applications?|NDAs?|BLAs?))+\s+(?:is|are)\s+(?:currently\s+|still\s+)?(?:active|valid)\b", re.I)
+# 「the cancelled US market status」「given the cancelled status of all authorizations」「the cancellation of all US authorizations」
+# 「The US market status is listed as cancelled」：講的是本藥（全部）的市場／許可狀態已註銷，事實有有效許可就矛盾
+ALLC_STATUS = re.compile(r"\bcancel+ed(?:[- ]only)?\s+(?:US\s+|FDA\s+)?(?:market(?:ing)?|regulatory|licen[cs](?:e|ing|ure)|authori[sz]ation|BLA|NDA|US)\s+status\b|"
+                         r"\bcancel+ed\s+status\s+of\s+all\b|\bcancell?ation\s+of\s+all\b|\bcancel+ed[- ]only\s+status\b|"
+                         r"\bmarket(?:ing)?\s+status\b[^.;,\n]{0,30}?\b(?:is|was)\b[^.;,\n]{0,25}?\bcancel+ed\b", re.I)
+# 事實沒有任何停產／註銷的申請（cancelled＝0）時，說許可／申請／市場狀態「已註銷」「註銷的理由」一定矛盾（比照 Eu 的 CANC_NONE）
+ALLC_CANC_ANY = re.compile(r"\bcancel+ed\b|\bcancell?ations?\b", re.I)
+ALLC_LIC_CTX = re.compile(r"licen[cs]|authori[sz]|\b(A?NDA|BLA)s?\b|\bmarket(ing)? status|\bregulatory status|\brecords?\b|\blistings?\b|\bproducts?\b|\bentr(y|ies)\b", re.I)
+_ALLC_SUBSET = re.compile(r"\b(?:further|more|other|remaining|additional|another|second|third|fourth|fifth|sixth|seventh|eighth|ninth|tenth)\b(?:[\s,]+[\w()'.-]+){0,4}?[\s,]+" + _LICX + r"\b", re.I)
+_ALLC_NEG = re.compile(r"\b(?:no|none|not|neither|nor|never|without|zero)\b[^.;,\n]{0,35}\bcancel|\bcancel+ed:?\s*0\b|\b0\s+(?:\w+\s+)?(?:(?:are|is|were)\s+)?cancel|\bwhether\s+(?:the\s+)?(?:\w+\s+){0,4}(?:is|are|was|were|has been|have been)\s+(?:\w+\s+)?cancel", re.I)
+_ALLC_SOME = re.compile(r"\bcancel+ed\b", re.I)
+_ALLC_N = re.compile(r"\b(?:(" + _NUM + r")\s+(?:\w+\s+){0,3}?(?:further|more|additional|other)|(?:remaining|other|additional|further)\s+(" + _NUM + r"))\b", re.I)
+_APPL_ID = re.compile(r"\b(NDA|ANDA|BLA)\s*(\d{6})\b")
+
+
+def all_cancel_x(s, fc):
+    """M3 擴充（英文、ALLC_X_SITES）：回傳說明或 None"""
+    if not fc or _ALLC_NEG.search(s) and not re.search(r"\bneither\b[^.;]{0,60}\b(active|valid)\b", s, re.I):
+        return None
+    v, c = fc.get("valid") or 0, fc.get("cancelled") or 0
+    s2 = re.sub(r"\b(Inc|Ltd|Co|Corp|Labs?)\.", r"\1", s.replace("**", "").replace("U.S.", "US"))
+    lic = {mv2.norm_id(k): x for k, x in (fc.get("licenses") or {}).items()}
+    ids = [mv2.norm_id(m.group(1) + m.group(2)) for m in _APPL_ID.finditer(s2)]
+    if ids and _ALLC_SOME.search(s2) and any(lic.get(i) == "valid" for i in ids) and not re.search(r"\b(valid|active)\b", s2, re.I):
+        ok = [i for i in ids if lic.get(i) == "valid"]
+        return f"點名的申請號 {', '.join(ok[:4])} 事實有效，正文寫成註銷：{s[:60]}"
+    if ids and _ALLC_SOME.search(s2) and all(lic.get(i) == "cancelled" for i in ids):
+        return None  # 點名的申請號確實都已註銷（停產）
+    if c == 0 and v > 0 and ALLC_CANC_ANY.search(s2) and ALLC_LIC_CTX.search(s2) and not CANC_NONE_EXCL.search(s2):
+        return f"事實沒有任何停產／註銷的申請（有效 {v} 張），正文寫已註銷：{s[:60]}"
+    if v > 0 and ALLC_STATUS.search(s2) and not _ALLC_SUBSET.search(s2):
+        return f"事實有效 {v} 張，正文寫本藥的市場／許可狀態已註銷：{s[:60]}"
+    if _ALLC_SUBSET.search(s2) and _ALLC_SOME.search(s2):
+        m = _ALLC_N.search(s2)
+        n = next((_num(w) for w in re.findall(r"\w+", m.group(0)) if w.isdigit() or w.lower() in NUM_WORDS), 1) if m else 1
+        if n and n > c:
+            return f"事實註銷 {c} 張，正文寫另有 {n} 張註銷：{s[:60]}"
+        return None
+    if v > 0 and (ALLC_NEITHER.search(s2) or any(m and not re.search(r"\b(valid|active)\b", m.group(0), re.I) for m in (rx.search(s2) for rx in ALLC_X))):
+        return f"事實有效 {v} 張，正文寫全部（或唯一）許可已註銷：{s[:60]}"
+    return None
+
+
+# M3 擴充（2026-11-06，Us 用戶決定）：正文的「總數說法」跟事實不符。舊頁依當時的部分紀錄寫了總數或有效／註銷張數
+# （「In total, 10 licences are valid and 1 is cancelled」「Of 7 US licence records, 5 are valid and 2 are cancelled」
+# 「Five of the six licences are currently valid」「All 16 US licenses are recorded as valid」「The local data hold 6 licence records in total」），
+# 依成分重建後事實的總數／有效／註銷張數不同就判 M3。只認「總數」語境（in total／overall／altogether／in all／a total of／Of N … records／
+# A of the N／all N／N … in total），句中講的是表格列出的子集（listed／shown／in the table／above／below）、或「至少 N」不算；
+# 部分紀錄的頁（total 未知）不判。數字比對：總數＝事實 total（Us 另認 total＋列名產品數），有效＝valid（LEGAL_NM_VALID 另認 valid＋核准未上市），
+# 註銷＝cancelled。只在 TOTAL_X_SITES 啟用（新規則上線前該站頁面要先清到 0）。
+TOTAL_X_SITES = {"UsTxGNN", "EuTxGNN", "NZTxGNN", "AuTxGNN", "InTxGNN", "SgTxGNN", "UkTxGNN", "CaTxGNN", "PhTxGNN", "ZaTxGNN"}
+_TLIC = r"(?:(?:US|U\.S\.|FDA|EU|EMA|centrali[sz]ed|single-ingredient|generic|marketing|licen[cs]e|local|recorded|current|human|valid|active|cancel+ed)\s+){0,3}" \
+        r"(?:licen[cs]es?|authori[sz]ations?|registrations?|approvals?|applications?|A?NDAs?|BLAs?|DINs?|records?|entries|listings?)\b"
+_TN = r"(\d+|" + "|".join(NUM_WORDS) + r")"
+TOTAL_CUE = re.compile(r"\b(in total|overall|altogether|in all|a total of|total of)\b|^\W*(?:Of|Among)\s+(?:the\s+)?(?:" + _TN + r"\s+)?" + _TLIC +
+                       r"|\b" + _TN + r"\s+of\s+(?:the|these|its|all)?\s*" + _TN + r"\s+" + _TLIC +
+                       r"|\b(?:all|both)\s+" + _TN + r"\s+" + _TLIC +
+                       r"|\b" + _TN + r"\s+(?:valid|active)\s+" + _TLIC + r"\s+(?:out\s+)?of\s+" + _TN + r"\b", re.I)
+TOTAL_NOTLIC = re.compile(r"interact|\bDDIs?\b|\brated (Major|Moderate|Minor)\b|\bdrugs? (were )?identified\b|\binteracting\b", re.I)  # 交互作用筆數不是許可證
+TOTAL_SUBSET = re.compile(r"\b(listed|shown|displayed|in the table|in this table|above|below|on this page|in the list)\b(?!\s+in total)", re.I)
+_T_TOTAL = [re.compile(r"^\W*(?:Of|Among)\s+(?:the\s+)?" + _TN + r"\s+" + _TLIC, re.I),
+            re.compile(r"\b" + _TN + r"\s+of\s+(?:the|these|its|all)?\s*" + _TN + r"\s+" + _TLIC, re.I),  # group(2)
+            re.compile(r"\b(?:all|both)\s+" + _TN + r"\s+" + _TLIC, re.I),
+            re.compile(r"\ba total of\s+" + _TN + r"\b", re.I),
+            re.compile(r"\b" + _TN + r"\s+" + _TLIC + r"(?:\s+(?:are|were|is)\s+(?:listed|recorded|held|on record))?\s+in total\b", re.I),
+            re.compile(r"\bhold\s+" + _TN + r"\s+" + _TLIC + r"[^.;,]{0,20}\bin total\b", re.I),
+            re.compile(r"\b" + _TN + r"\s+(?:valid|active)\s+" + _TLIC + r"\s+(?:out\s+)?of\s+" + _TN + r"\b", re.I)]  # 「3 valid licences of 3」：group(2)
+_T_VALID = [re.compile(r"\b" + _TN + r"\s+of\s+(?:the|these|its|all)?\s*" + _TN + r"\s+" + _TLIC + r"\s+(?:are|is)\s+(?:currently\s+|still\s+)?(?:valid|active)\b", re.I),
+            re.compile(r"(?<!of )(?<!total of )\b" + _TN + r"\s+(?:(?:US|FDA)\s+)?(?:" + _TLIC + r"\s+)?(?:are|is)\s+(?:currently\s+|still\s+)?(?:valid|active)\b", re.I),
+            re.compile(r"\b" + _TN + r"\s+(?:valid|active)\b(?!\s+(?:and|or)\s+\d)", re.I)]
+_T_CANC = [re.compile(r"\b" + _TN + r"\s+(?:(?:US|FDA)\s+)?(?:" + _TLIC + r"\s+)?(?:\([^()]{0,40}\)\s+)?(?:are|is|was|were)\s+(?:also\s+|currently\s+)?cancel+ed\b", re.I),
+           re.compile(r"\b" + _TN + r"\s+cancel+ed\b", re.I)]
+# 刪句工具（delete_license_sentences.CLAIM）用來定位要刪的張數子句（「, with 6 of 6 licenses valid」「(3 of 3 licences are valid)」）
+TOTAL_SPAN = re.compile(r"\b(?:all\s+)?" + _TN + r"\s+of\s+(?:its\s+|the\s+)?" + _TN + r"\s+" + _TLIC + r"(?:\s+(?:are|is))?\s+(?:currently\s+)?(?:valid|active)\b|"
+                        r"\ball\s+" + _TN + r"\s+" + _TLIC + r"\s+(?:are|is)\s+(?:currently\s+)?(?:valid|active)\b|"
+                        r"\(?\b" + _TN + r"\s+(?:valid|active)\s+" + _TLIC + r"\s+(?:out\s+)?of\s+" + _TN + r"\b\)?", re.I)
+_T_ALLV = re.compile(r"\b(?:all|both)\s+(?:" + _TN + r"\s+)?" + _TLIC + r"[^.;,]{0,40}?\b(?:are|is)\s+(?:currently\s+|still\s+)?(?:recorded\s+as\s+|listed\s+as\s+|counted\s+as\s+|marked\s+as\s+)?(?:valid|active)\b", re.I)
+
+
+def total_x(site, s, fc):
+    """總數說法跟事實不符（英文、TOTAL_X_SITES）：回傳說明或 None"""
+    if not fc or fc.get("partial") or fc.get("total") is None:
+        return None
+    s2 = re.sub(r"\b(Inc|Ltd|Co|Corp|Labs?)\.", r"\1", s.replace("**", "").replace("U.S.", "US"))
+    if not TOTAL_CUE.search(s2) or AT_LEAST.search(s2) or re.search(r"\bmay be partial\b|\bpartial list\b", s2, re.I) or TOTAL_NOTLIC.search(s2):
+        return None
+    if TOTAL_SUBSET.search(s2) and not re.search(r"\b(in total|overall|altogether|in all|a total of)\b", s2, re.I):
+        return None
+    if REGISTRY_CTX.search(re.sub(r"\b(NDA|ANDA|BLA)\s*\d{6}\b", "", s2)) and not re.search(r"licen[cs]|authori[sz]|\b(A?NDA|BLA)s?\b", s2, re.I):
+        return None
+    n, v, c = fc.get("total") or 0, fc.get("valid") or 0, fc.get("cancelled") or 0
+    ok_n = {n, n + (fc.get("listed") or 0)}
+    ok_v = {v, v + ((fc.get("not_marketed") or 0) if site in LEGAL_NM_VALID else 0)}
+    bad = []
+    for i, rx in enumerate(_T_TOTAL):
+        m = rx.search(s2)
+        if m:
+            k = _num(m.group(2) if i in (1, len(_T_TOTAL) - 1) else m.group(1))
+            if k is not None and k not in ok_n:
+                bad.append(f"總數 {k}≠{n}")
+            break
+    for rx in _T_VALID:
+        m = rx.search(s2)
+        if m:
+            k = _num(m.group(1))
+            if k is not None and k not in ok_v:
+                bad.append(f"有效 {k}≠{v}")
+            break
+    for rx in _T_CANC:
+        m = rx.search(s2)
+        if m:
+            k = _num(m.group(1))
+            if k is not None and k != c:
+                bad.append(f"註銷 {k}≠{c}")
+            break
+    if c > 0 and _T_ALLV.search(s2) and not re.search(r"\bcancel", s2, re.I):
+        bad.append(f"全部有效≠註銷 {c} 張")
+    if bad:
+        return f"總數說法跟事實不符（{'、'.join(bad)}；事實 {n} 張、有效 {v}、註銷 {c}）：{s[:60]}"
+    return None
+
+# M3 擴充（2026-11-06，用戶決定）：正文的「有效張數」說法跟事實不符（多半是舊頁依當時的部分紀錄寫的，說少了；例 amlodipine
+# 「The drug is marketed in the US, with 11 valid authorizations」，事實有效 68 張）。認得 VALID_COUNT 的寫法（「with N valid …」
+# 「N valid authorizations」「N licences are (currently) valid」）；說「單方」時跟事實的單方有效張數（valid_single）比。
+# 不算：至少 N、部分紀錄的頁、表外「另有 N 張」（further／more／other／remaining／additional／another，張數不超過事實）、
+# 「Of the N listed／shown」這類表格子集合、「A of the N」（由 total_x 管）。只在 VALIDX_SITES 啟用（新規則上線前該站頁面要先清到 0）。
+VALIDX_SITES = {"UsTxGNN", "EuTxGNN", "NZTxGNN", "AuTxGNN", "InTxGNN", "SgTxGNN", "UkTxGNN", "CaTxGNN", "PhTxGNN", "ZaTxGNN"}
+_VX_LIC = re.compile(r"licen[cs]|authori[sz]|registration|approval|application|\b(A?NDA|BLA|DIN)s?\b|\brecords?\b|\bproducts?\b|\blistings?\b|\bentr(y|ies)\b", re.I)
+_VX_ADD = re.compile(r"\b(further|more|other|remaining|additional|another)\b", re.I)
+_VX_SUBSET = re.compile(r"^\W*(?:Of|Among)\s+(?:the\s+)?(?:" + _NUM + r"\s+)?[\w\s-]{0,30}?\b(listed|shown|displayed|above|below|in the table)\b", re.I)
+
+
+def valid_under(site, s, fc):
+    """有效張數說法跟事實不符（英文、VALIDX_SITES）：回傳說明或 None"""
+    if not fc or fc.get("partial") or fc.get("total") is None:
+        return None
+    s2 = s.replace("**", "").replace("U.S.", "US")
+    if TOTAL_NOTLIC.search(s2) or _VX_SUBSET.search(s2) or not _VX_LIC.search(s2):
+        return None
+    v = fc.get("valid") or 0
+    ok = {v, v + ((fc.get("not_marketed") or 0) if site in LEGAL_NM_VALID else 0)}
+    vs = fc.get("valid_single") if re.search(r"\bsingle[- ]ingredient\b|\bsingle[- ]agent\b|\bmono-?(component|substance)\b", s2, re.I) else None
+    for m in VALID_COUNT.finditer(s2):
+        k = _num(m.group(1) or m.group(5))
+        pre = s2[max(0, m.start() - 30):m.start()]
+        if k is None or k in ok or AT_LEAST.search(pre[-16:]) or re.search(r"\bof (the )?$", pre[-14:], re.I):
+            continue
+        if vs is not None and k >= vs:
+            continue  # 說「單方 N 張」：不少於事實的單方有效張數就不判（單方／複方的歸類不在這條規則管）
+        if re.search(r"\bof\s+(?:the\s+|its\s+)?" + _NUM + r"\b", s2[m.end():m.end() + 30], re.I):
+            continue  # 「3 valid licences of 3」由 total_x 管
+        if re.match(r"\s+listed\b", s2[m.end(1) if m.group(1) else m.end(5):]) or re.search(r"\b" + _NUM + r"\s+listed\s+" , m.group(0), re.I):
+            continue  # 「All three listed authorizations are valid」：講的是表格列出的那幾張
+        if _VX_ADD.search(pre[-25:] + " " + m.group(0)) and k <= v:
+            continue  # 表外另有 N 張有效（Two further licences are valid: …）
+        return f"有效張數說法跟事實不符（寫 {k} 張，事實有效 {v} 張{'（單方 ' + str(vs) + '）' if vs is not None else ''}）：{s[:60]}"
+    return None
+
+# M3 擴充（2026-11-06，用戶決定）：正文的「單方／複方」說法跟事實不符。事實層 valid_single／single_total 是該站 reviewer
+# 依許可成分數判定的單方張數（kind＝single／combo）。判定（部分紀錄的頁不判、事實沒有 kind 的頁不判）：
+#   全部單方（All five registrations are valid single-ingredient products、all single-ingredient、no combination products）：有效許可裡有複方就矛盾；
+#   全部複方（only available as a combination、no single-ingredient …）：有單方有效許可就矛盾；
+#   單方張數（N valid single-ingredient …）多於事實的單方張數就矛盾（少於事實由 valid_under 管）。
+# 「All 5 single-ingredient licences are valid」（主詞是單方那幾張）不算。只在 COMBO_X_SITES 啟用（新規則上線前該站頁面要先清到 0）。
+# 啟用站＝事實層 kind 能分出複方的站。Us、Au、In、Ca 原本一律算成單方（reviewer 只認「;;」分隔），2026-11-06 各站改 reviewer 依官方資料的
+# 成分數判定（Us Drugs@FDA／NDC、Ca DPD 的「; 」，Au PBS 品項的「 + 」，In 資料集的 short_composition2）後一併啟用
+COMBO_X_SITES = {"SgTxGNN", "ZaTxGNN", "UkTxGNN", "NZTxGNN", "EuTxGNN", "PhTxGNN", "UsTxGNN", "AuTxGNN", "InTxGNN", "CaTxGNN"}
+_SI = r"single[- ](?:ingredient|agent|substance|component)s?|mono-?(?:component|substance)"
+_CX_ALL_SINGLE = re.compile(r"\b(?:all|both|each|every)\b(?!\s+(?:the\s+)?(?:\w+\s+)?(?:" + _SI + r")\s+\w+\s+(?:are|is|were)\b)[^.;]{0,70}?\b(?:" + _SI + r")\b|"
+                            r"\b(?:entirely|exclusively)\s+(?:of\s+)?(?:" + _SI + r")\b|"
+                            r"\bno\s+(?:combination|fixed-dose|multi-ingredient)\b|\bnone\s+(?:is|are)\s+(?:a\s+)?(?:combination|fixed-dose)\b|\bnot\s+(?:a\s+)?combination\s+product", re.I)
+_CX_ALL_COMBO = re.compile(r"\bonly\s+(?:(?:available|marketed|registered|authori[sz]ed|licensed)\s+)?(?:as|in)\s+(?:a\s+|an?\s+)?(?:fixed-dose\s+)?combination|"
+                           r"\bno\s+(?:" + _SI + r")\b|\b(?:all|both)\b[^.;]{0,50}\b(?:are|is)\s+(?:\w+\s+)?(?:combination|fixed-dose|multi-ingredient)\s+(?:products?|preparations?|registrations?|licen[cs]es?|authori[sz]ations?)", re.I)
+_CX_COUNT = re.compile(r"\b" + _NUM + r"\s+(valid\s+)?(?:" + _SI + r")\b", re.I)
+
+
+def combo_x(site, s, fc):
+    """單方／複方說法跟事實不符（英文、COMBO_X_SITES）：回傳說明或 None"""
+    if not fc or fc.get("partial") or fc.get("valid_single") is None:
+        return None
+    s2 = s.replace("**", "").replace("U.S.", "US")
+    if TOTAL_NOTLIC.search(s2) or not _VX_LIC.search(s2) or re.search(r"\btrials?\b|\bNCT\d|\bregimens?\b|\bcombination (?:with|of|therapy)\b|\bin combination\b|\bwhich\b[^.;]{0,30}\b(?:single|combination)", s2, re.I):
+        return None
+    v, vs, st = fc.get("valid") or 0, fc.get("valid_single") or 0, fc.get("single_total") or 0
+    if _CX_ALL_SINGLE.search(s2) and vs < v:
+        return f"單方說法跟事實不符（寫全部單方／沒有複方，事實有效 {v} 張中單方 {vs} 張）：{s[:60]}"
+    if _CX_ALL_COMBO.search(s2) and vs > 0:
+        return f"複方說法跟事實不符（寫只有複方／沒有單方，事實單方有效 {vs} 張）：{s[:60]}"
+    for m in _CX_COUNT.finditer(s2):
+        k = _num(m.group(1))
+        vsl = vs + ((fc.get("not_marketed") or 0) if site in LEGAL_NM_VALID else 0)  # Ca 等站的「有效」另含核准未上市
+        if k is not None and not AT_LEAST.search(s2[max(0, m.start() - 14):m.start()]) and k > (vsl if m.group(2) else max(vsl, st)):
+            return f"單方張數說法跟事實不符（寫 {k} 張，事實單方有效 {vs} 張、單方共 {st} 張）：{s[:60]}"
+    return None
 
 def m3_verdict(site, lang, s, fc):
     """正文一句跟事實矛盾時回傳 (子類, 說明)；checker 與刪句程式共用（2026-11-05）"""
@@ -635,11 +960,35 @@ def m3_verdict(site, lang, s, fc):
         return None  # 講的是獸用許可（只有獸用許可的頁說它有效、上市是對的）；但有人用許可時「唯一許可是獸用」仍算矛盾
     if v > 0 and site in M3X_SITES and VET_ONLY_CLAIM.search(s):
         return "M3b", f"M3b 事實有人用有效許可 {v} 張，正文寫唯一／全部許可是獸用：{s[:60]}"
-    if v > 0 and (ALL_CANCEL.search(s) or NOT_MKT_CLAIM.search(s) or ((NOT_MKT_LOOSE.search(s) or ONLY_CANCEL.search(s)) and not POS_VALID.search(s))) \
+    if v > 0 and (all_cancel(s) or NOT_MKT_CLAIM.search(s) or ((NOT_MKT_LOOSE.search(s) or ONLY_CANCEL.search(s)) and not POS_VALID.search(s))) \
             and not (still_valid_ok(s) and not NOT_MKT_CLAIM.search(s)):
         return "M3", f"事實有效 {v} 張，正文寫全部註銷：{s[:60]}"
+    if site in ALLC_X_SITES and lang in M3X_LANGS and not REGISTRY_CTX.search(re.sub(r"\b(NDA|ANDA|BLA)\s*\d{6}\b", "", s)) \
+            or site in ALLC_X_SITES and lang in M3X_LANGS and re.search(r"licen[cs]|authori[sz]|\b(A?NDA|BLA)s?\b|\bmarket(ing)? status\b|\blistings?\b", s):
+        h = all_cancel_x(s, fc)
+        if h:
+            return "M3", h
+    if site in TOTAL_X_SITES and lang in M3X_LANGS:
+        h = total_x(site, s, fc)
+        if h:
+            return "M3", h
+    if site in VALIDX_SITES and lang in M3X_LANGS:
+        h = valid_under(site, s, fc)
+        if h:
+            return "M3", h
+    if site in COMBO_X_SITES and lang in M3X_LANGS:
+        h = combo_x(site, s, fc)
+        if h:
+            return "M3", h
     if ms in ("Cancelled only", "Not marketed") and (marketed_word(lang) in s or MKT_CLAIM_EXTRA.search(s)) and not mv2.NEG.search(s):
         return "M3", f"事實 {ms}，正文寫上市中：{s[:60]}"
+    if site in LIST_CLAIM and LIST_PIPE.search(s) and not re.search(r"package insert|SmPC|data sheet", s, re.I):
+        return "M3l", f"M3l 本站資料是處方／給付清單（{fc.get('total')} 筆），依設計不含許可資料；正文說許可資料應擷取／缺漏／擷取失敗：{s[:60]}"
+    if site in LIST_CLAIM and (LIST_CLAIM[site].search(s) and not REGISTRY_CTX.search(s) or LIST_STRONG[site].search(s)) \
+            and not LIST_EXCL.search(s) and not (LIST_REQUEST.search(s) and not LIST_NONE.search(s) and not LIST_STATUS.search(s)):
+        return "M3l", f"M3l 本站資料是處方／給付清單（{fc.get('total')} 筆），不含許可狀態，正文寫成許可／有效／註銷／查無許可：{s[:60]}"
+    if ms in ("Not marketed", "Cancelled only") and site in SCOPE_NOMKT and SCOPE_NOMKT[site].search(s):
+        return "M3s", f"M3s 事實 {ms}（資料只含 {('HSA 現行註冊' if site == 'SgTxGNN' else 'EMA 集中許可')}），正文斷言沒有上市：{s[:60]}"
     if site in M3X_SITES:
         if ms == "Approved, not marketed" and lang in M3X_LANGS and MKT_CLAIM_EN.search(s) and not FORMER.search(s) and not REGISTRY_CTX.search(s):
             return "M3d", f"M3d 事實 {ms}，正文寫上市中：{s[:60]}"
@@ -690,15 +1039,132 @@ def _split_extra(cfg, fc):
     return (cfg["sep"] + cfg["sep"].join(parts)) if parts else ""
 
 
+# 本地資料是處方／給付清單、不是許可證的站（2026-11-06）：張數列只寫清單筆數，不寫「有效 N」
+SOURCE_COUNT = {"UkTxGNN": "{n}", "NZTxGNN": "{n}", "PhTxGNN": "{n}"}
+
+# 這些站的事實是清單筆數，正文把清單品項說成許可、說有效／註銷、說查無許可證／資料抓取失敗，都跟事實矛盾（M3l）
+_LICW = r"(licen[cs]es?|authori[sz]ations?|registrations?|PL numbers?|marketing authori[sz]ations?)"
+def _list_claim(C, R):
+    """C＝國名寫法、R＝主管機關（regex 片段）"""
+    return re.compile((
+    r"\b(valid|cancel+ed|revoked|withdrawn|expired|lapsed)\b[^.;:]{0,25}\b" + _LICW + r"|"
+    r"\b" + _LICW + r"\b[^.;:]{0,30}\b(is|are|remains?|was|were)( currently| still| all)? (valid|cancel+ed|revoked|withdrawn|expired)\b|"
+    r"\b(with (a )?valid status|its status is valid|status is (currently )?valid|listed as valid)\b|"
+    r"\b(zero|no|0)[- ]({C} |{R} |valid |current |local )*(marketing )?(licen[cs]es?|licen[cs]e|authori[sz]ations?|registrations?)\b[^.;]{0,40}\b(recorded|returned|found|on record|result|retrieved|in (this|the) (evidence pack|data))|"
+    r"\b(zero|no)[- ]licen[cs]e (result|record|finding)|\brecords? of zero\b|"
+    r"\b(data|retrieval|ingestion|collection|mapping|pipeline|lookup) (ingestion |retrieval |mapping )?(failure|error)\b[^.;]{0,60}\b({R}|licen|authori|regist)|"
+    r"\b({R}|licen|authori|regist)\w*\b[^.;]{0,60}\b(data|retrieval|ingestion|collection|mapping|pipeline|lookup) (failure|error)\b|"
+    # 清單品項說成許可的張數（「Only one authorisation record is available」「one UK licence recorded」「The three authorisations below」）
+    r"\b(only |the )?(one|1|two|three|four|five|six|seven|eight|nine|ten|a single|\d+) ({C} |{R} |marketing |single-ingredient |valid |current |local )*(authori[sz]ations?|licen[cs]es?|registrations?)\b|"
+    r"\b(the )?(only|single|sole) ({C} |{R} |marketing )*(authori[sz]ation|licen[cs]e|registration)\b|"
+    r"\b(zero|0) (active |{C} |{R} |current |valid )*(marketing )?(authori[sz]ations?|licen[cs]es?|registrations?)\b|"
+    r"\bno ({C} |{R} |current |valid )*(marketing )?(authori[sz]ation|licen[cs]e|registration) (records?|data)\b|"
+    r"\b(licen[cs]e|authori[sz]ation) (records?|table)\b|\(single-ingredient, valid\)|\bvalid\)|"
+    # 說本藥在該國已許可／未許可（本站資料不含主管機關許可狀態）
+    r"\bholds? (no |numerous |several |multiple |a |an )?(\w+ ){0,2}(marketing authori[sz]ations?|{R} (marketing )?authori[sz]ations?|{C} licen[cs]es?)\b|"
+    r"\b(is|are) (currently )?(not )?(licensed|authori[sz]ed|registered)( for marketing)? in {IN}\b|"
+    r"\bnot (currently )?authori[sz]ed for marketing\b|\bexpected to hold\b[^.;]{0,30}authori[sz]ations?|"
+    r"\b(regulatory history)\b[^.;]{0,60}\b(pipeline|mapping|retrieval|ingestion) (error|failure)|"
+    r"\bno ({C} |{R} )?marketing authori[sz]ations?\b|\b(no|without) ({C} )?licen[cs]e number\b|\bmarketing authori[sz]ation details recorded\b|"
+    r"\bthe (licen[cs]e |authori[sz]ation )?record (gives|carries|contains|lists|has|does|is)\b|\b(is|are) currently authori[sz]ed\b|"
+    r"\bthe (one|single|only) (authori[sz]ation|licen[cs]e) on record\b|"
+    # 2026-11-06 第二輪（NZ／Uk 上線後掃出的漏網寫法）
+    r"\b" + _LICW + r"\b[^.;:]{0,80}?\b(is|are|was|were|has been|have been|remains?)( also| currently| still| all| both| now)*( recorded as| listed as| marked as)? (valid|cancel+ed|revoked|withdrawn|expired|lapsed)\b|"
+    r"\b(both|all|each)( \w+){0,4} (are|is|were|was|have been|has been)( also| currently| all| both)* (valid|cancel+ed|revoked|withdrawn|expired)\b|"
+    r"\b" + _LICW + r"\s+(valid|cancel+ed|revoked|withdrawn|expired)\b|\blicen[cs]e validity\b|"
+    r"\bno longer (actively )?(licensed|registered|authori[sz]ed|marketed)\b|"
+    r"\b(zero|no|0) ({C} |{R} |registered |licensed |authori[sz]ed |valid |current |local |product )+(marketing )?(authori[sz]ations?|licen[cs]es?|registrations?)\b|"
+    r"\b(one|two|three|four|five|six|seven|eight|nine|ten|\d+|a sixth|a fifth|one further|two further|three further|four further)( [\w-]+){0,3} (licen[cs]es?|authori[sz]ations?|registrations?)\b|"
+    r"\bno ({R}-)?(registered|licensed|authori[sz]ed) products?\b|"
+    r"\b(were|was|has been|have been)( previously)? (licensed|registered|authori[sz]ed)\b|"
+    r"\bin fact (\w+ )?(authori[sz]ed|licensed|registered)\b|\bdespite the evidence pack\b|\bdata-source discrepancy\b|"
+    r"\b" + _LICW + r"\b[^.;:]{0,40}\bas (valid|cancel+ed|revoked|withdrawn|expired)\b|"
+    r"\b" + _LICW + r"\b[^.;:]{0,80}?\b(has|have)( also| now)? been (cancel+ed|revoked|withdrawn)\b|"
+    r"\b(cancel+ed|revoked|withdrawn|expired|lapsed) ((registration|licen[cs]e|authori[sz]ation|market) )?status\b|\bstatus \((valid|cancel+ed|revoked|withdrawn|expired)\)|"
+    r"\b(is|are) (currently )?(registered|licensed|authori[sz]ed) and marketed\b|\bno longer validly (registered|licensed|authori[sz]ed)\b|"
+    # 2026-11-06 第三輪（Uk、NZ、Ph 全站逐句掃出的漏網寫法）：清單品項／紀錄說成有效或註銷、資料裡的「市場狀態」、
+    # 註銷的名詞寫法（registration cancellation、reason for cancellation）、清單紀錄說成「許可紀錄」
+    r"\bvalid (single[\w-]* |(?!regulatory )\w+ ){0,2}(products?|records?|entr(y|ies)|listings?|presentations?)\b|"
+    r"\b(records?|products?|listings?|entr(y|ies)|presentations?)\b[^.;:]{0,60}?\b(is|are|was|were)( currently| also| still| all| both| now)*( recorded| listed| shown| marked)?( as)? (valid|cancel+ed|revoked|withdrawn|expired)\b|"
+    r"\b(records?|listings?|entr(y|ies))\b[^.;:]{0,60}?\b(is|are)( currently)? marketed\b|"
+    r"\band (it|they|both|all|each) (is|are) (currently |still |all |also )?((recorded|listed|shown|marked) )?(as )?(valid|cancel+ed)\b|"
+    r"\b(no|zero|0) cancel+ed (products?|records?|entries|listings?)\b|\b(listing|record|entry) is a (single )?marketed\b|"
+    r"\bmarket(ing)? status\b(?! (is|are) not included)[^.;]{0,60}?\b(is|was|as|recorded|listed|reported|shown|appears)\b[^.;]{0,25}?\b(marketed|cancel+ed)\b|"
+    r"\b(overall|local) (market(ing)? )?status\b(?! (is|are) not included)|\b(overall )?status:\W{0,3}marketed\b|\brecord status\b|"
+    r"\b(recorded|listed|shown|reported) as (currently )?marketed\b|"
+    r"\b(records?|data)\b[^.;]{0,30}\b(show|shows|list|lists|holds?)\b[^.;]{0,40}\bas (currently )?marketed\b|"
+    r"\b(registration|licen[cs]e|authori[sz]ation)s? cancell?ation\b|\bcancell?ation of the (\w+ ){0,3}(licen[cs]es?|registrations?|authori[sz]ations?)\b|"
+    r"\breason for (the )?(\w+ )?cancell?ation\b|\bcancel+ed ((\w+ ){0,2})?(regulatory|registration|market) status\b|"
+    r"\bmarket status is (marketed|cancel+ed)\b|\bsingle-ingredient (registration|licen[cs]e|authori[sz]ation)\b|"
+    r"\b(local )?(registration|licen[cs]e|authori[sz]ation) records?\b|"
+    # 舊證據包頁說本地資料查不到（search artefact、failed lookup、gap in the evidence pack…）：重建後清單有紀錄，這些說法與事實矛盾
+    r"\b(search|data collection|lookup|query) arte?fact\b|\bfailed lookup\b|\bautomated pull\b[^.;]{0,40}\bfail|\bgap in the evidence pack\b|"
+    r"\bpipeline failures? rather than\b|\babsence of an? ({C} |{R} )?marketing authori[sz]ation\b|\bJapanese-style drug code\b").replace("{C}", "(?:" + C + ")").replace("{R}", "(?:" + R + ")")
+        .replace("{IN}", "(the )?(?:" + C + ")"), re.I)
+
+
+def _list_strong(C, R):
+    """清單站：國名／主管機關直接修飾許可字、或「N valid licences of N」的說法；句子同時講臨床試驗也照判（2026-11-06 第三輪：
+    「…no clinical trials…, and the only New Zealand authorisation has been cancelled」原本被 REGISTRY_CTX 略過）"""
+    L = r"(licen[cs]es?|authori[sz]ations?|registrations?)"
+    return re.compile((
+        r"\b(only|sole|single|the|its|this|product'?s?|both|all|two|three|four|five)( \w+)? ({C}|{R})( \w+)? " + L + r"\b[^.;]{0,30}?"
+        r"\b(is|are|was|were|has been|have been)( all| also| now| currently)? (cancel+ed|revoked|withdrawn|expired|lapsed|valid)\b|"
+        r"\b(cancel+ed|valid) ({C} |{R} )+" + L + r"\b|\b\d+ valid ({C} |{R} )?" + L + r" (of|out of) \d+\b|"
+        r"\bwith all (\w+ )?" + L + r" valid\b|\bvalid (single-ingredient )?(licen[cs]es?|authori[sz]ations?)\b(?! numbers?)").replace("{C}", "(?:" + C + ")")
+        .replace("{R}", "(?:" + R + ")"), re.I)
+
+
+LIST_STRONG = {"UkTxGNN": _list_strong(r"UK|United Kingdom|British", r"MHRA"),
+               "NZTxGNN": _list_strong(r"NZ|New Zealand", r"Medsafe"),
+               "PhTxGNN": _list_strong(r"Philippines?|Philippine|PH|Filipino", r"FDA Philippines|PFDA")}
+LIST_CLAIM = {"UkTxGNN": _list_claim(r"UK|United Kingdom|British", r"MHRA"),
+              "NZTxGNN": _list_claim(r"NZ|New Zealand", r"Medsafe"),
+              "PhTxGNN": _list_claim(r"Philippines?|Philippine|PH|Filipino", r"FDA Philippines|FDA|PFDA")}
+# 「下一步需要的資料」條目（Verification of the UK authorisation record…、Approved indication text from the UK licence record…）
+# 是要去查主管機關資料，不是說本藥許可如何，不算；但條目裡說「查無許可」的（zero-licence result）仍算
+LIST_REQUEST = re.compile(r"^\W*(Verification|Verify|Confirmation|Confirm|Clarification|Clarify|Review|Retrieval|Retrieve|Obtain|Check|Complete|Completion|An assessment of whether|Assessment of whether|"
+                          r"Approved indication|Original licensed|The approved indication|The authori[sz]ed indication|"
+                          r"A (clear |verified )?(UK |MHRA |NZ |New Zealand |Medsafe |Philippines? |Philippine |FDA )?(licen[cs]e|authori[sz]ation|registration) record)\b", re.I)
+LIST_NONE = re.compile(r"\bzero\b|\b0 (marketing )?(licen|authori|regist)|\bno (UK |MHRA |NZ |Medsafe |Philippines? |Philippine |FDA )?(marketing )?(licen|authori|regist)|"
+                       r"\b(one|two|three|four|five|six|seven|eight|nine|ten|\d+|only|single|sole) (UK |MHRA |NZ |Medsafe |Philippines? |Philippine |FDA )?(marketing )?(authori[sz]ations?|licen[cs]es?|registrations?)\b", re.I)
+# 下一步條目裡夾著「因為許可已註銷／N 張有效」這種說法時不豁免（只刪那個子句）；「valid licence number」是要號碼，不算
+LIST_STATUS = re.compile(r"\b(cancel+ed|cancell?ation|revoked|withdrawn|expired|lapsed)\b|\b(is|are)( currently| all| also)? valid\b|"
+                         r"\bvalid (licen[cs]es?|authori[sz]ations?|registrations?)\b(?! number)|\b\d+ (of|out of) \d+\b|\bis marketed\b|\bmarketed (in|with)\b", re.I)
+LIST_EXCL = re.compile(r"status is not included in (this|the) data|not included in (this|the) data|rather than an? (MHRA|Medsafe|FDA)|unlicen[cs]ed|"
+                       r"not (stated|recorded|listed|available) in the (\w+ ){0,2}(licen[cs]e|registration) records?|"
+                       r"(licen[cs]e|registration) records? (compiled for this report )?(does|do) not (state|record|list|include)", re.I)  # 原適應症欄「Not stated in the licence record」講的是缺適應症文字
+
+
+# 清單站（Uk、NZ、Ph）第四輪（2026-11-06 用戶決定）：舊頁說「去 MHRA／Medsafe／FDA PH 抓許可資料補進資料」「重跑資料擷取流程」
+# 「許可資料／許可紀錄不完整、有誤、尚未載入」「這次資料擷取漏了許可」：本站資料依設計是處方／給付清單、不含許可，這些前提與事實不符（M3l）。
+# 下一步條目（LIST_REQUEST）、試驗語境的句子也照判；仿單（package insert／SmPC）缺漏不算。
+_PIPE_R = r"(?:MHRA|Medsafe|FDA(?: Philippines)?|PFDA|regulatory|licen[cs]e|licensing|marketing authori[sz]ation|PL)"
+LIST_PIPE = re.compile(
+    r"\bre-?(?:run|query|queried)\b[^.;]{0,60}\b(?:MHRA|Medsafe|FDA|PFDA|licen[cs]e|PL)\b(?! SmPC)|\b" + _PIPE_R + r"\b[^.;]{0,40}\b(?:ingestion|data pipeline|data collection step|data pull|database query)\b|"
+    r"\bre-?run the data ingestion\b|\bregulatory data pull\b|\bmissed in the (?:current )?data pull\b|\bpopulate `?licen[cs]es`? array\b|\bPL numbers are expected\b|"
+    r"\b" + _PIPE_R + r"\s+(?:licen[cs]e\s+|regulatory\s+)?(?:data|records?|details|entry)\b[^.;]{0,40}\b(?:(?:should|must) be (?:retrieved|loaded|ingested)|(?:have|has) not been loaded|"
+    r"(?:is|are) correctly ingested|(?:is|are) (?:also )?incomplete|appears? erroneous)|\bregulatory entry is incomplete\b|\blicen[cs]e-level records\b|"
+    r"\bdata pipeline has not (?:yet )?been populated\b|\bretrieve (?:current )?PL numbers\b|\bObtain MHRA marketing authori[sz]ation data\b|"
+    r"\babsence of a standalone (?:MHRA |Medsafe )?marketing authori[sz]ation\b|\bClarification of the local licen[cs]e record\b|"
+    r"\blocal (?:licen[cs]e|regulatory) records?\b(?=[^.;]{0,60}\b(?:missing|absent|incomplete))|\b(?:and|,)\s+local regulatory records\b|"
+    r"\bUK (?:licen[cs]e record|authori[sz]ation details)\b[^.;]{0,60}\b(?:is|are) incomplete\b|\bUK licensing data compiled\b|\blicen[cs]e data are (?:also )?incomplete\b|"
+    r"\bMHRA regulatory records\b|\bmarketing authori[sz]ation data (?:must|should) be loaded\b|\bMHRA Product Licen[cs]e (?:Search|Register)\b[^.;]{0,120}\b(?:re-?run|PL numbers|populate)", re.I)
+
+
 def count_text(site, lang, fc):
     """張數列應有的值（M4 與各寫入程式共用）"""
     tl = mv2.T.get(lang) or mv2.T["en"]
     n, v, partial = fc.get("total"), fc.get("valid") or 0, fc.get("partial")
+    if site in SOURCE_COUNT and not partial:
+        return SOURCE_COUNT[site].format(n=n or 0, v=v)
     ex = _export_text(site, fc, "count")
     if ex:
         return ex
     if UNKNOWN_ST.get(site) and (fc.get("unknown") or 0) and not fc.get("partial"):
         return UNKNOWN_ST[site]["count"].format(n=fc.get("total"), v=fc.get("valid") or 0, u=fc["unknown"])
+    if UNCONFIRMED_ST.get(site) and (fc.get("unconfirmed") or 0) and not fc.get("partial"):
+        return UNCONFIRMED_ST[site]["count"].format(n=fc.get("total"), v=fc.get("valid") or 0, u=fc["unconfirmed"])
     cfg = SPLIT_STATUS.get(site)
     if cfg and "count_fn" in cfg:
         return cfg["count_fn"](fc)
@@ -950,7 +1416,7 @@ def search_index(site):
     return {}
 
 
-LOCAL_EN = re.compile(r"^\**(.+?)\**\s*[（(]\s*\**([A-Za-z][^()（）]*?(?:\([^()]*\)[^()（）]*?)?)\**\s*[)）]\s*\**$")
+LOCAL_EN = re.compile(r"^\**(.+?)\**\s*[（(]\s*\**([A-Za-z0-9][^()（）]*?(?:\([^()]*\)[^()（）]*?)?)\**\s*[)）]\s*\**$")
 
 
 @lru_cache(maxsize=None)
@@ -1008,12 +1474,20 @@ def _loc2en(site):
 
 
 def index_english(site, name):
+    if LANG.get(site, "en") in ("en", "en-us"):
+        # 英文站沒有「當地名 (English)」對照：「amenorrhea (disease)」的括號是 TxGNN 病名的一部分
+        #（2026-11-03 Us：198 頁 search-index 因此被誤判 P7，與 local_names 的英文站處理一致）
+        return norm_name(name)
     m = LOCAL_EN.match(str(name).strip())
-    if m:
+    if m and norm_name(m.group(2)) not in ("disease", "disorder"):
         return norm_name(m.group(2))
+    # 「transient ischemic attack (disease)」：括號裡只是 TxGNN 病名的限定詞，整串就是英文病名（2026-11-03 非英文站同一誤判）
+    m2 = None if m else re.match(r"^(.*[^\x00-\x7f].*?)\s*[（(]\s*([^（）()]*[A-Za-z][^（）()]*)\s*[)）]\s*$", str(name).strip())
+    if m2:  # 當地名本身含全形括號、英文名以數字開頭（Hk「46,XY 性發育異常（睪丸類固醇合成缺陷） (46,XY disorder …)」，2026-11-03）
+        return norm_name(m2.group(2))
     n = norm_name(name)
-    if n in local_names(site):
-        return n  # 本身就是英文病名
+    if n in local_names(site) or kf._n(name) in kf._graph()[0]:
+        return n  # 本身就是英文病名（含 TxGNN 疾病節點名稱：站內對照偶有反向或縮寫，例 Nl「kattenaids」、SE「DFSP」，2026-11-03）
     return _loc2en(site).get(n, n)
 
 
@@ -1070,6 +1544,14 @@ MAIN_BY_SCORE = []  # 主預測只靠「概覽分數唯一等於 kept[0]」放�
 MANAGED = re.compile(r"<!-- (review:begin \S+|brand-names:start) -->.*?<!-- (review:end \S+|brand-names:end) -->", re.S)
 
 
+REPORT_TITLE = re.compile(r"^(## .*)\n\{: \.text-alpha \}[ \t]*$", re.M)
+
+
+def report_titles(body):
+    """D1：報告標題（H2 下一行是 {: .text-alpha }）的標題文字清單"""
+    return [m.group(1) for m in REPORT_TITLE.finditer(body)]
+
+
 def strip_managed(body):
     """人工查核框（Tw drug_reviews）與販売名區塊（Jp brand_names）是另外維護的內容，P5／M3 不查（2026-10-29）"""
     return MANAGED.sub("", body)
@@ -1083,9 +1565,12 @@ def check_page(site, f, cls, want_noindex):
         return []
     fm, _, body = t[4:].partition("\n---")
     lang = LANG.get(site, "en")
+    rt = report_titles(body)
+    if len(rt) > 1:  # D1：不需要證據包，先查
+        E("D1", f"一頁 {len(rt)} 份報告標題，第二個：{rt[1][:60]}")
     b = amf.load_bundle(BASE / site, f.stem)
     if b is None:
-        return [("P1", "找不到證據包")]
+        return errs + [("P1", "找不到證據包")]
     d = b.get("drug") or {}
     preds = {norm_name(p["disease_name"]): p for p in d.get("predicted_indications") or [] if p.get("disease_name")}
     top = [p["disease_name"] for p in d.get("predicted_indications") or [] if (p.get("txgnn_score") or 0) >= kf.SCORE_MIN][:10]
@@ -1284,8 +1769,11 @@ def check_page(site, f, cls, want_noindex):
             norm_name(d.get("drugbank_id")), norm_name(d.get("inn")), norm_name(d.get("name"))} - {""}
     ids = [i for i, names in mk.items() if names & keys]
     want = sorted(keptn)
+    # 站上 force_noindex.json 列的頁（用戶核准下架；Us 2026-11-06 PEG 3500）衍生檔依決定拿掉了本藥：不報「找不到」，有的話仍檢查內容
+    _ffp = BASE / site / "docs/_data/force_noindex.json"
+    forced7 = _ffp.exists() and f.stem in json.loads(_ffp.read_text(encoding="utf-8")).get("pages", {})
     if not ids:
-        if kept:
+        if kept and not forced7:
             E("P7", "找不到 MedicationKnowledge")
     for i in ids:
         rows7 = cud.get(i, [])
@@ -1303,7 +1791,7 @@ def check_page(site, f, cls, want_noindex):
             E("P7", f"search-index 病名≠kept（{len(inds)}／{len(kept)}）")
         if any(float(i.get("score") or 0) < 99 for i in inds):
             E("P7", "search-index 有 <0.99 分數")
-    elif kept:
+    elif kept and not forced7:
         E("P7", "search-index 沒有此藥")
 
     # K1（依分區）
@@ -1384,6 +1872,8 @@ def check_page(site, f, cls, want_noindex):
                 k = mv2.norm_id(cells[0]) if cells else ""
                 if lic.get(k) == "valid" and mv2.TABLE_NEG.search(" ".join(cells[1:])):
                     E("M1", f"有效許可證 {cells[0]} 寫成註銷")
+            for code_, detail in row_status_conflicts(site, all_rows, lic):
+                E(code_, detail)
     # M3（pm C1）：正文市場說法與事實矛盾
     if fc:
         ms, v = fc.get("market_status"), fc.get("valid") or 0
@@ -1404,12 +1894,48 @@ def check_page(site, f, cls, want_noindex):
     # N1
     if want_noindex:
         has = bool(re.search(r"^noindex:\s*true", fm, re.M))
-        if (cls == "no_pred_noindex") != has:
+        # 站上 docs/_data/force_noindex.json 列的頁（用戶核准、附依據；Us 2026-11-06 PEG 3500）一律 noindex
+        _ff = BASE / site / "docs/_data/force_noindex.json"
+        forced = _ff.exists() and f.stem in json.loads(_ff.read_text(encoding="utf-8")).get("pages", {})
+        if (cls == "no_pred_noindex" or forced) != has:
             E("N1", f"class={cls} noindex={has}")
     return errs
 
 
 # ---------- 自我測試 ----------
+# M1 擴充（2026-11-06，Us 用戶決定）：許可證表的號碼格夾著狀態字（「NDA208743 (cancelled)」「ANDA… (Hikma), cancelled」），
+# 或狀態寫在別欄（「Not specified (valid)」），而狀態跟事實層不一致 → M1。原本的檢查只認號碼格「恰好是號碼」的列，這種寫法漏掉
+# （Us 2026-11-06：144 頁把有效寫成註銷、44 頁把停產寫成有效）。號碼樣式各站不同，只在 TABLE_ROW_STATUS 的站查。
+TABLE_ROW_STATUS = {"UsTxGNN": re.compile(r"\b(NDA|ANDA|BLA)\s*(\d{6})\b")}
+_ROW_NEG = re.compile(mv2.TABLE_NEG.pattern + r"|discontinu", re.I)
+_ROW_POS = re.compile(r"\bvalid\b|\bactive\b", re.I)
+
+
+def row_status_word(cells):
+    """表格列（含號碼格）寫的狀態：cancelled／valid／None"""
+    txt = " ".join(cells)
+    if _ROW_NEG.search(txt):
+        return "cancelled"
+    return "valid" if _ROW_POS.search(txt) else None
+
+
+def row_status_conflicts(site, rows, lic):
+    """[(代碼, 說明)]：號碼格含本站許可證號（可夾別的字）、列上寫的狀態跟事實相反"""
+    rx = TABLE_ROW_STATUS.get(site)
+    out = []
+    for cells in rows if rx else []:
+        m = rx.search(cells[0]) if cells else None
+        if not m:
+            continue
+        st = lic.get(mv2.norm_id(m.group(1) + m.group(2)))
+        said = row_status_word(cells)
+        if st == "valid" and said == "cancelled":
+            out.append(("M1", f"有效許可證 {cells[0]} 寫成註銷（列上的狀態字）"))
+        elif st == "cancelled" and said == "valid":
+            out.append(("M1", f"已停產／註銷的許可證 {cells[0]} 寫成有效（列上的狀態字）"))
+    return out
+
+
 def selftest():
     rows = list(csv.DictReader(open(RULES / "test_cases.tsv", encoding="utf-8"), delimiter="\t"))
     bad = 0
@@ -1428,7 +1954,7 @@ def selftest():
             got = bool(PRED_ROW.search(text))
         elif code == "M3":  # note＝valid=<n> 或 cancelled（事實）
             if note.startswith("valid="):
-                got = int(note[6:]) > 0 and bool(ALL_CANCEL.search(text) or NOT_MKT_CLAIM.search(text) or
+                got = int(note[6:]) > 0 and bool(all_cancel(text) or NOT_MKT_CLAIM.search(text) or
                                                  (NOT_MKT_LOOSE.search(text) and not POS_VALID.search(text))) \
                     and not (still_valid_ok(text) and not NOT_MKT_CLAIM.search(text))
             else:
@@ -1437,10 +1963,13 @@ def selftest():
             kv = dict(x.split("=", 1) for x in note.split(";") if "=" in x)
             got = bool(m3x(lang, text, {"market_status": kv.get("ms"), "valid": int(kv.get("valid", 0)),
                                         "cancelled": int(kv.get("cancelled", 0)), "partial": kv.get("partial") == "1"}))
-        elif code == "M3V":  # note＝site=<站>;ms=…;valid=…;not_marketed=…;cancelled=…[;partial=1]：m3_verdict（含 M3d、站別規則，2026-11-05）
+        elif code == "M3V":  # note＝site=<站>;ms=…;valid=…;not_marketed=…;cancelled=…[;partial=1][;lic=號碼:狀態,…]：m3_verdict（含 M3d、站別規則，2026-11-05）
             kv = dict(x.split("=", 1) for x in note.split(";") if "=" in x)
             fcv = {"market_status": kv.get("ms"), "valid": int(kv.get("valid", 0)), "not_marketed": int(kv.get("not_marketed", 0)),
-                   "cancelled": int(kv.get("cancelled", 0)), "partial": kv.get("partial") == "1"}
+                   "cancelled": int(kv.get("cancelled", 0)), "partial": kv.get("partial") == "1",
+                   **({"total": int(kv["total"])} if "total" in kv else {}), **({"listed": int(kv["listed"])} if "listed" in kv else {}),
+                   **({"valid_single": int(kv["vs"]), "single_total": int(kv.get("st", kv["vs"]))} if "vs" in kv else {}),
+                   "licenses": dict(x.split(":", 1) for x in kv.get("lic", "").split(",") if ":" in x)}  # lic=NDA123456:valid,ANDA…:cancelled
             M3X_SITES.add(kv.get("site"))  # 測試案例的站一律啟用
             got = bool(m3_verdict(kv.get("site"), lang, text, fcv))
         elif code == "M5":  # text＝一行；非 Tw 站的台灣模板殘留
@@ -1454,6 +1983,13 @@ def selftest():
         elif code == "INDEX_EN":  # text＝「站|search-index 病名」，note＝應得的英文病名
             site, name = text.split("|", 1)
             got = index_english(site, name) == note
+        elif code == "D1":  # text 裡的「\\n」是換行：兩個以上報告標題（H2＋{: .text-alpha }）才算
+            got = len(report_titles(text.replace("\\n", "\n"))) > 1
+        elif code == "ROW_STATUS":  # text＝「站|表格列」，note＝事實（號碼=valid|cancelled）
+            site, row = text.split("|", 1)
+            k, s = note.split("=", 1)
+            cells = [c.strip() for c in row.strip().strip("|").split("|")]
+            got = bool(row_status_conflicts(site, [cells], {mv2.norm_id(k): s}))
         elif code == "STATUS_ROW":  # text＝「站|列標題1;列標題2」，note＝應選中的列標題
             site, labels = text.split("|", 1)
             pick = status_row(site, [[l, "x"] for l in labels.split(";")])

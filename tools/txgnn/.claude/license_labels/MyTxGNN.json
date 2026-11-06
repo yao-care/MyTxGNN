@@ -1,12 +1,10 @@
 {
  "labels": {
   "Sah": "valid",
-  "Dibatalkan Pendaftaran": "cancelled",
-  "Status tidak dapat disahkan": "unknown"
+  "Dibatalkan Pendaftaran": "cancelled"
  },
  "preferred": {
   "valid": "Sah",
-  "cancelled": "Dibatalkan Pendaftaran",
-  "unknown": "Status tidak dapat disahkan"
+  "cancelled": "Dibatalkan Pendaftaran"
  }
 }
