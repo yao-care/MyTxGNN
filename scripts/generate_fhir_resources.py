@@ -42,6 +42,7 @@ def generate_capability_statement() -> dict:
         "url": f"{BASE_URL}/fhir/metadata",
         "version": "1.0.0",
         "name": "MyTxGNNFHIRServer",
+        "title": "Laporan Penggunaan Semula Ubat MyTxGNN - Pelayan FHIR",
         "status": "active",
         "date": datetime.now().strftime("%Y-%m-%d"),
         "publisher": "MyTxGNN Project",
