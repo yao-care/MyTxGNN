@@ -1,0 +1,77 @@
+{
+  "_note": "藥物頁 front matter description 的證據等級字樣改成頁首等級的紀錄（母目錄 .claude/sync_description_levels.py 追加；只換等級字樣，其他文字不動）。還原：把 original_description 寫回該頁 description。",
+  "entries": [
+    {
+      "page": "docs/_drugs/camphor.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Camphor: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tiada data\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/desogestrel.md",
+      "date": "2026-11-06",
+      "from": "L3",
+      "to": "L5",
+      "original_description": "\"Desogestrel: indikasi baharu diramal Amenorea (tahap bukti L3). Indikasi asal: Tidak dinyatakan dalam teks lesen tempatan (kosong)\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/dexketoprofen.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Dexketoprofen: indikasi baharu diramal Tendinitis (tahap bukti L4).\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/dienogest.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Dienogest: indikasi baharu diramal Amenorea (amenorrhea) (tahap bukti L4). Indikasi asal: Tiada data\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/hydroquinone.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Hydroquinone: indikasi baharu diramal Keratosis seboroik (seborrheic keratosis) (tahap bukti L4). Indikasi asal: Tiada data indikasi lesen yang diluluskan dalam data yang dikumpulkan…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/mycophenolate_mofetil.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L2",
+      "original_description": "\"Mycophenolate Mofetil: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar di Malaysia\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/mycophenolic_acid.md",
+      "date": "2026-11-06",
+      "from": "L3",
+      "to": "L5",
+      "original_description": "\"Mycophenolic Acid: indikasi baharu diramal Hemoglobinopati (tahap bukti L3). Indikasi asal: Tiada maklumat\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/nitrous_oxide.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Nitrous Oxide: indikasi baharu diramal Hiperplasia prostat benigna (BPH) (tahap bukti L4). Indikasi asal: Tiada data indikasi lulus daripada pendaftaran tempatan\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/vasopressin.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Vasopressin: indikasi baharu diramal Kekurangan protrombin kongenital (tahap bukti L4). Indikasi asal: Tiada data\"",
+      "tool": ".claude/sync_description_levels.py"
+    }
+  ]
+}

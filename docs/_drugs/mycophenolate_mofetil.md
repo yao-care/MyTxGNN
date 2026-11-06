@@ -6,7 +6,7 @@ nav_order: 517
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-11-06
-description: "Mycophenolate Mofetil: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
+description: "Mycophenolate Mofetil: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L2). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
 monitor_inn: "MYCOPHENOLATE MOFETIL"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
 ---

@@ -25,7 +25,7 @@
   "extension": [
     {
       "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L2"
+      "valueCode": "L5"
     }
   ]
 }

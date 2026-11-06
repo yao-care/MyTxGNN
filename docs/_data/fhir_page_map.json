@@ -1,0 +1,8143 @@
+{
+  "_note": "FHIR MedicationKnowledge（DrugBank ID）→ 本站藥物頁的對照，只收本站沒有該 ID 的轉址頁或 front matter drugbank_id、靠其他站的 dbXXXXX 轉址頁／drugbank_id 指到同一網址 slug 才對到的資源（sources＝提供依據的站）。由母目錄 .claude/sync_fhir_levels.py 產生，scripts/check_seo_docs.py 用它檢查 FHIR 等級＝藥物頁頁首。",
+  "map": {
+    "db00002": {
+      "page": "cetuximab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00005": {
+      "page": "etanercept",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00019": {
+      "page": "pegfilgrastim",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00030": {
+      "page": "insulin_human",
+      "sources": [
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00031": {
+      "page": "tenecteplase",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00035": {
+      "page": "desmopressin",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00040": {
+      "page": "glucagon",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00043": {
+      "page": "omalizumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00046": {
+      "page": "insulin_lispro",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00047": {
+      "page": "insulin_glargine",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00050": {
+      "page": "cetrorelix",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00051": {
+      "page": "adalimumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00053": {
+      "page": "imiglucerase",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00059": {
+      "page": "pegaspargase",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00067": {
+      "page": "vasopressin",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00072": {
+      "page": "trastuzumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00073": {
+      "page": "rituximab",
+      "sources": [
+        "AuTxGNN",
+        "BrTxGNN",
+        "CHTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00090": {
+      "page": "laronidase",
+      "sources": [
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00091": {
+      "page": "cyclosporine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "ITTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00094": {
+      "page": "urofollitropin",
+      "sources": [
+        "DkTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00099": {
+      "page": "filgrastim",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00104": {
+      "page": "octreotide",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00110": {
+      "page": "palivizumab",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00112": {
+      "page": "bevacizumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00115": {
+      "page": "cyanocobalamin",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00117": {
+      "page": "histidine",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00120": {
+      "page": "phenylalanine",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00121": {
+      "page": "biotin",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00125": {
+      "page": "arginine",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00126": {
+      "page": "ascorbic_acid",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00128": {
+      "page": "aspartic_acid",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00133": {
+      "page": "serine",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00134": {
+      "page": "methionine",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00135": {
+      "page": "tyrosine",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00136": {
+      "page": "calcitriol",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00142": {
+      "page": "glutamic_acid",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00145": {
+      "page": "glycine",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00146": {
+      "page": "calcifediol",
+      "sources": [
+        "CHTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00150": {
+      "page": "tryptophan",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00153": {
+      "page": "ergocalciferol",
+      "sources": [
+        "COTxGNN",
+        "HkTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00156": {
+      "page": "threonine",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00158": {
+      "page": "folic_acid",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00160": {
+      "page": "alanine",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00161": {
+      "page": "valine",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00167": {
+      "page": "isoleucine",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00169": {
+      "page": "cholecalciferol",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00177": {
+      "page": "valsartan",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00178": {
+      "page": "ramipril",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00181": {
+      "page": "baclofen",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "NlTxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00186": {
+      "page": "lorazepam",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00188": {
+      "page": "bortezomib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00190": {
+      "page": "carbidopa",
+      "sources": [
+        "SgTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00191": {
+      "page": "phentermine",
+      "sources": [
+        "HkTxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00196": {
+      "page": "fluconazole",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00199": {
+      "page": "erythromycin",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00201": {
+      "page": "caffeine",
+      "sources": [
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00207": {
+      "page": "azithromycin",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00210": {
+      "page": "adapalene",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00213": {
+      "page": "pantoprazole",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00215": {
+      "page": "citalopram",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00218": {
+      "page": "moxifloxacin",
+      "sources": [
+        "ARTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00222": {
+      "page": "glimepiride",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00227": {
+      "page": "lovastatin",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00230": {
+      "page": "pregabalin",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00235": {
+      "page": "milrinone",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db00238": {
+      "page": "nevirapine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00242": {
+      "page": "cladribine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00243": {
+      "page": "ranolazine",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00244": {
+      "page": "mesalazine",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00248": {
+      "page": "cabergoline",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00250": {
+      "page": "dapsone",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00257": {
+      "page": "clotrimazole",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00260": {
+      "page": "cycloserine",
+      "sources": [
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00273": {
+      "page": "topiramate",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00277": {
+      "page": "theophylline",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00281": {
+      "page": "lidocaine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00284": {
+      "page": "acarbose",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00287": {
+      "page": "travoprost",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00291": {
+      "page": "chlorambucil",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00294": {
+      "page": "etonogestrel",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "NlTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00302": {
+      "page": "tranexamic_acid",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00310": {
+      "page": "chlorthalidone",
+      "sources": [
+        "ARTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00313": {
+      "page": "valproic_acid",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00316": {
+      "page": "acetaminophen",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SETxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00317": {
+      "page": "gefitinib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00319": {
+      "page": "piperacillin",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00324": {
+      "page": "fluorometholone",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00328": {
+      "page": "indomethacin",
+      "sources": [
+        "ARTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00334": {
+      "page": "olanzapine",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00335": {
+      "page": "atenolol",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00337": {
+      "page": "pimecrolimus",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00338": {
+      "page": "omeprazole",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SETxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00339": {
+      "page": "pyrazinamide",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00346": {
+      "page": "alfuzosin",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00349": {
+      "page": "clobazam",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00350": {
+      "page": "minoxidil",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00351": {
+      "page": "megestrol_acetate",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00356": {
+      "page": "chlorzoxazone",
+      "sources": [
+        "HkTxGNN"
+      ]
+    },
+    "db00361": {
+      "page": "vinorelbine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00363": {
+      "page": "clozapine",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "NlTxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00367": {
+      "page": "levonorgestrel",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00370": {
+      "page": "mirtazapine",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00377": {
+      "page": "palonosetron",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00389": {
+      "page": "carbimazole",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00390": {
+      "page": "digoxin",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00391": {
+      "page": "sulpiride",
+      "sources": [
+        "ARTxGNN",
+        "CHTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00393": {
+      "page": "nimodipine",
+      "sources": [
+        "ARTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00394": {
+      "page": "beclomethasone_dipropionate",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00396": {
+      "page": "progesterone",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00400": {
+      "page": "griseofulvin",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00404": {
+      "page": "alprazolam",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00410": {
+      "page": "mupirocin",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00415": {
+      "page": "ampicillin",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00421": {
+      "page": "spironolactone",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00422": {
+      "page": "methylphenidate",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00435": {
+      "page": "nitric_oxide",
+      "sources": [
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00437": {
+      "page": "allopurinol",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00438": {
+      "page": "ceftazidime",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00440": {
+      "page": "trimethoprim",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00441": {
+      "page": "gemcitabine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00442": {
+      "page": "entecavir",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00443": {
+      "page": "betamethasone",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00446": {
+      "page": "chloramphenicol",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00448": {
+      "page": "lansoprazole",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SETxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00455": {
+      "page": "loratadine",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "BrTxGNN",
+        "CHTxGNN",
+        "JpTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00459": {
+      "page": "acitretin",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00475": {
+      "page": "chlordiazepoxide",
+      "sources": [
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00480": {
+      "page": "lenalidomide",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00482": {
+      "page": "celecoxib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00494": {
+      "page": "entacapone",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00495": {
+      "page": "zidovudine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00499": {
+      "page": "flutamide",
+      "sources": [
+        "AuTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00501": {
+      "page": "cimetidine",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00502": {
+      "page": "haloperidol",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00503": {
+      "page": "ritonavir",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00514": {
+      "page": "dextromethorphan",
+      "sources": [
+        "ARTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "JpTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00518": {
+      "page": "albendazole",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00525": {
+      "page": "tolnaftate",
+      "sources": [
+        "AuTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00526": {
+      "page": "oxaliplatin",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00527": {
+      "page": "cinchocaine",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "SATxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00531": {
+      "page": "cyclophosphamide",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00537": {
+      "page": "ciprofloxacin",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00544": {
+      "page": "fluorouracil",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00550": {
+      "page": "propylthiouracil",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00554": {
+      "page": "piroxicam",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00555": {
+      "page": "lamotrigine",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00558": {
+      "page": "zanamivir",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00563": {
+      "page": "methotrexate",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00564": {
+      "page": "carbamazepine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00565": {
+      "page": "cisatracurium",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00567": {
+      "page": "cephalexin",
+      "sources": [
+        "SgTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00581": {
+      "page": "lactulose",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00588": {
+      "page": "fluticasone_propionate",
+      "sources": [
+        "AuTxGNN",
+        "BrTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00591": {
+      "page": "fluocinolone_acetonide",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00603": {
+      "page": "medroxyprogesterone_acetate",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00620": {
+      "page": "triamcinolone",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00624": {
+      "page": "testosterone",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00625": {
+      "page": "efavirenz",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00626": {
+      "page": "bacitracin",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00631": {
+      "page": "clofarabine",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00640": {
+      "page": "adenosine",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00641": {
+      "page": "simvastatin",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00643": {
+      "page": "mebendazole",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00646": {
+      "page": "nystatin",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00653": {
+      "page": "magnesium_sulfate",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "SATxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00654": {
+      "page": "latanoprost",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00668": {
+      "page": "epinephrine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00681": {
+      "page": "amphotericin_b",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00683": {
+      "page": "midazolam",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00684": {
+      "page": "tobramycin",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00688": {
+      "page": "mycophenolate_mofetil",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00698": {
+      "page": "nitrofurantoin",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00700": {
+      "page": "eplerenone",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00709": {
+      "page": "lamivudine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00712": {
+      "page": "flurbiprofen",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00717": {
+      "page": "norethisterone",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00722": {
+      "page": "lisinopril",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00724": {
+      "page": "imiquimod",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00727": {
+      "page": "nitroglycerin",
+      "sources": [
+        "CaTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00732": {
+      "page": "atracurium_besylate",
+      "sources": [
+        "SgTxGNN"
+      ]
+    },
+    "db00734": {
+      "page": "risperidone",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00740": {
+      "page": "riluzole",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00741": {
+      "page": "hydrocortisone",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00742": {
+      "page": "mannitol",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00750": {
+      "page": "prilocaine",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00753": {
+      "page": "isoflurane",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00755": {
+      "page": "tretinoin",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00758": {
+      "page": "clopidogrel",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00761": {
+      "page": "potassium_chloride",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00766": {
+      "page": "clavulanic_acid",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00770": {
+      "page": "alprostadil",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00773": {
+      "page": "etoposide",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00776": {
+      "page": "oxcarbazepine",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00778": {
+      "page": "roxithromycin",
+      "sources": [
+        "AuTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "SgTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00784": {
+      "page": "mefenamic_acid",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00787": {
+      "page": "acyclovir",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00788": {
+      "page": "naproxen",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00790": {
+      "page": "perindopril",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "ESTxGNN",
+        "ITTxGNN",
+        "NZTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00796": {
+      "page": "candesartan_cilexetil",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00809": {
+      "page": "tropicamide",
+      "sources": [
+        "ARTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00814": {
+      "page": "meloxicam",
+      "sources": [
+        "AuTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00818": {
+      "page": "propofol",
+      "sources": [
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "NlTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00819": {
+      "page": "acetazolamide",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00820": {
+      "page": "tadalafil",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00829": {
+      "page": "diazepam",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00836": {
+      "page": "loperamide",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00845": {
+      "page": "clofazimine",
+      "sources": [
+        "COTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00850": {
+      "page": "perphenazine",
+      "sources": [
+        "CaTxGNN",
+        "KrTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00851": {
+      "page": "dacarbazine",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00853": {
+      "page": "temozolomide",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00860": {
+      "page": "prednisolone",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00863": {
+      "page": "ranitidine",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00864": {
+      "page": "tacrolimus",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00874": {
+      "page": "guaifenesin",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00877": {
+      "page": "sirolimus",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00879": {
+      "page": "emtricitabine",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00883": {
+      "page": "isosorbide_dinitrate",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00887": {
+      "page": "bumetanide",
+      "sources": [
+        "CaTxGNN",
+        "ESTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00897": {
+      "page": "triazolam",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00898": {
+      "page": "ethanol",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00905": {
+      "page": "bimatoprost",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00909": {
+      "page": "zonisamide",
+      "sources": [
+        "AuTxGNN",
+        "NlTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00916": {
+      "page": "metronidazole",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00927": {
+      "page": "famotidine",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00928": {
+      "page": "azacitidine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db00936": {
+      "page": "salicylic_acid",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00945": {
+      "page": "acetylsalicylic_acid",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00947": {
+      "page": "fulvestrant",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "NlTxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00951": {
+      "page": "isoniazid",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00958": {
+      "page": "carboplatin",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00959": {
+      "page": "methylprednisolone",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00966": {
+      "page": "telmisartan",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00967": {
+      "page": "desloratadine",
+      "sources": [
+        "ARTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "NOTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00973": {
+      "page": "ezetimibe",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00977": {
+      "page": "ethinylestradiol",
+      "sources": [
+        "ARTxGNN",
+        "COTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "NOTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00982": {
+      "page": "isotretinoin",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00985": {
+      "page": "dimenhydrinate",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00987": {
+      "page": "cytarabine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00989": {
+      "page": "rivastigmine",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db00990": {
+      "page": "exemestane",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db00993": {
+      "page": "azathioprine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db00999": {
+      "page": "hydrochlorothiazide",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "BrTxGNN",
+        "CHTxGNN",
+        "JpTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db01001": {
+      "page": "salbutamol",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01005": {
+      "page": "hydroxyurea",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01006": {
+      "page": "letrozole",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db01008": {
+      "page": "busulfan",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db01009": {
+      "page": "ketoprofen",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01013": {
+      "page": "clobetasol_propionate",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01015": {
+      "page": "sulfamethoxazole",
+      "sources": [
+        "ARTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "SETxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01020": {
+      "page": "isosorbide_mononitrate",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db01023": {
+      "page": "felodipine",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01024": {
+      "page": "mycophenolic_acid",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db01026": {
+      "page": "ketoconazole",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01029": {
+      "page": "irbesartan",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01032": {
+      "page": "probenecid",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NZTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01033": {
+      "page": "mercaptopurine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01039": {
+      "page": "fenofibrate",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01042": {
+      "page": "melphalan",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01045": {
+      "page": "rifampicin",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db01050": {
+      "page": "ibuprofen",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01059": {
+      "page": "norfloxacin",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01060": {
+      "page": "amoxicillin",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01068": {
+      "page": "clonazepam",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01083": {
+      "page": "orlistat",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01086": {
+      "page": "benzocaine",
+      "sources": [
+        "AuTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01088": {
+      "page": "iloprost",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01097": {
+      "page": "leflunomide",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01101": {
+      "page": "capecitabine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01110": {
+      "page": "miconazole",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01120": {
+      "page": "gliclazide",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "BrTxGNN",
+        "CHTxGNN",
+        "JpTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db01126": {
+      "page": "dutasteride",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01128": {
+      "page": "bicalutamide",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "NlTxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db01136": {
+      "page": "carvedilol",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01137": {
+      "page": "levofloxacin",
+      "sources": [
+        "ARTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01156": {
+      "page": "bupropion",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01164": {
+      "page": "calcium_chloride",
+      "sources": [
+        "SgTxGNN"
+      ]
+    },
+    "db01165": {
+      "page": "ofloxacin",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01167": {
+      "page": "itraconazole",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01169": {
+      "page": "arsenic_trioxide",
+      "sources": [
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01171": {
+      "page": "moclobemide",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01184": {
+      "page": "domperidone",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01194": {
+      "page": "brinzolamide",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01197": {
+      "page": "captopril",
+      "sources": [
+        "AuTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01202": {
+      "page": "levetiracetam",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01211": {
+      "page": "clarithromycin",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01212": {
+      "page": "ceftriaxone",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01216": {
+      "page": "finasteride",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01217": {
+      "page": "anastrozole",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db01222": {
+      "page": "budesonide",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01229": {
+      "page": "paclitaxel",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01234": {
+      "page": "dexamethasone",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01235": {
+      "page": "levodopa",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01236": {
+      "page": "sevoflurane",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db01238": {
+      "page": "aripiprazole",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01241": {
+      "page": "gemfibrozil",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01248": {
+      "page": "docetaxel",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01249": {
+      "page": "iodixanol",
+      "sources": [
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db01254": {
+      "page": "dasatinib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01257": {
+      "page": "eculizumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01260": {
+      "page": "desonide",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01262": {
+      "page": "decitabine",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01263": {
+      "page": "posaconazole",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01264": {
+      "page": "darunavir",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01267": {
+      "page": "paliperidone",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01268": {
+      "page": "sunitinib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db01269": {
+      "page": "panitumumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01270": {
+      "page": "ranibizumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01282": {
+      "page": "carbetocin",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db01306": {
+      "page": "insulin_aspart",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01307": {
+      "page": "insulin_detemir",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01309": {
+      "page": "insulin_glulisine",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01362": {
+      "page": "iohexol",
+      "sources": [
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "NlTxGNN"
+      ]
+    },
+    "db01394": {
+      "page": "colchicine",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01406": {
+      "page": "danazol",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01409": {
+      "page": "tiotropium",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CaTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01410": {
+      "page": "ciclesonide",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01436": {
+      "page": "alfacalcidol",
+      "sources": [
+        "CaTxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db01558": {
+      "page": "bromazepam",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db01586": {
+      "page": "ursodeoxycholic_acid",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db01590": {
+      "page": "everolimus",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01592": {
+      "page": "iron",
+      "sources": [
+        "CaTxGNN",
+        "DETxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "NZTxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01595": {
+      "page": "nitrazepam",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db01598": {
+      "page": "imipenem",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db01601": {
+      "page": "lopinavir",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "NOTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01606": {
+      "page": "tazobactam",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "NOTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01609": {
+      "page": "deferasirox",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db01628": {
+      "page": "etoricoxib",
+      "sources": [
+        "DkTxGNN",
+        "HkTxGNN",
+        "NlTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01638": {
+      "page": "sorbitol",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "NlTxGNN"
+      ]
+    },
+    "db01783": {
+      "page": "pantothenic_acid",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db01839": {
+      "page": "propylene_glycol",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db02300": {
+      "page": "calcipotriol",
+      "sources": [
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "NlTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db02513": {
+      "page": "thymol",
+      "sources": [
+        "AuTxGNN",
+        "DkTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db02703": {
+      "page": "fusidic_acid",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db03166": {
+      "page": "acetic_acid",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db03209": {
+      "page": "oteracil",
+      "sources": [
+        "DETxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "NOTxGNN"
+      ]
+    },
+    "db03255": {
+      "page": "phenol",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db03614": {
+      "page": "mecobalamin",
+      "sources": [
+        "HkTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db03793": {
+      "page": "benzoic_acid",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db04272": {
+      "page": "citric_acid",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db04339": {
+      "page": "carbocisteine",
+      "sources": [
+        "HkTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db04398": {
+      "page": "lactic_acid",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db04572": {
+      "page": "thiotepa",
+      "sources": [
+        "SgTxGNN"
+      ]
+    },
+    "db04573": {
+      "page": "estriol",
+      "sources": [
+        "AuTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "NlTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db04703": {
+      "page": "hesperidin",
+      "sources": [
+        "HkTxGNN"
+      ]
+    },
+    "db04839": {
+      "page": "cyproterone_acetate",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db04854": {
+      "page": "febuxostat",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db04876": {
+      "page": "vildagliptin",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db04951": {
+      "page": "pirfenidone",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db05039": {
+      "page": "indacaterol",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db05109": {
+      "page": "trabectedin",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db05154": {
+      "page": "pretomanid",
+      "sources": [
+        "DkTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db05332": {
+      "page": "romiplostim",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db05351": {
+      "page": "dexlansoprazole",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db05578": {
+      "page": "ramucirumab",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db05679": {
+      "page": "ustekinumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db05773": {
+      "page": "trastuzumab_emtansine",
+      "sources": [
+        "AuTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db06151": {
+      "page": "acetylcysteine",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "ESTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db06186": {
+      "page": "ipilimumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db06201": {
+      "page": "rufinamide",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db06207": {
+      "page": "silodosin",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db06212": {
+      "page": "tolvaptan",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db06228": {
+      "page": "rivaroxaban",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db06273": {
+      "page": "tocilizumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db06285": {
+      "page": "teriparatide",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db06366": {
+      "page": "pertuzumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db06403": {
+      "page": "ambrisentan",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db06594": {
+      "page": "agomelatine",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db06605": {
+      "page": "apixaban",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "UkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db06612": {
+      "page": "mepolizumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db06626": {
+      "page": "axitinib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db06643": {
+      "page": "denosumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db06650": {
+      "page": "ofatumumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db06674": {
+      "page": "golimumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db06690": {
+      "page": "nitrous_oxide",
+      "sources": [
+        "CaTxGNN"
+      ]
+    },
+    "db06697": {
+      "page": "artemether",
+      "sources": [
+        "ZaTxGNN"
+      ]
+    },
+    "db06699": {
+      "page": "degarelix",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db06713": {
+      "page": "norelgestromin",
+      "sources": [
+        "CaTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db06715": {
+      "page": "potassium_iodide",
+      "sources": [
+        "AuTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db06736": {
+      "page": "aceclofenac",
+      "sources": [
+        "COTxGNN",
+        "ESTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db06767": {
+      "page": "ammonium_chloride",
+      "sources": [
+        "CaTxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db06802": {
+      "page": "nepafenac",
+      "sources": [
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db06809": {
+      "page": "plerixafor",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db08816": {
+      "page": "ticagrelor",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db08826": {
+      "page": "deferiprone",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db08864": {
+      "page": "rilpivirine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "NOTxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db08865": {
+      "page": "crizotinib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db08870": {
+      "page": "brentuximab_vedotin",
+      "sources": [
+        "AuTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db08875": {
+      "page": "cabozantinib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db08879": {
+      "page": "belimumab",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db08880": {
+      "page": "teriflunomide",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db08883": {
+      "page": "perampanel",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db08885": {
+      "page": "aflibercept",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db08889": {
+      "page": "carfilzomib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db08899": {
+      "page": "enzalutamide",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db08906": {
+      "page": "fluticasone_furoate",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db08917": {
+      "page": "ferric_carboxymaltose",
+      "sources": [
+        "AuTxGNN"
+      ]
+    },
+    "db08930": {
+      "page": "dolutegravir",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db08934": {
+      "page": "sofosbuvir",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db08935": {
+      "page": "obinutuzumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db08958": {
+      "page": "hexetidine",
+      "sources": [
+        "UkTxGNN"
+      ]
+    },
+    "db08995": {
+      "page": "diosmin",
+      "sources": [
+        "HkTxGNN"
+      ]
+    },
+    "db09027": {
+      "page": "ledipasvir",
+      "sources": [
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "InTxGNN",
+        "NOTxGNN"
+      ]
+    },
+    "db09036": {
+      "page": "siltuximab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db09037": {
+      "page": "pembrolizumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db09038": {
+      "page": "empagliflozin",
+      "sources": [
+        "ARTxGNN",
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db09051": {
+      "page": "elosulfase_alfa",
+      "sources": [
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db09056": {
+      "page": "amorolfine",
+      "sources": [
+        "AuTxGNN",
+        "HkTxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db09063": {
+      "page": "ceritinib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db09066": {
+      "page": "corifollitropin_alfa",
+      "sources": [
+        "AuTxGNN",
+        "DkTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db09073": {
+      "page": "palbociclib",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db09074": {
+      "page": "olaparib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db09096": {
+      "page": "benzoyl_peroxide",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db09101": {
+      "page": "elvitegravir",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "NOTxGNN"
+      ]
+    },
+    "db09104": {
+      "page": "magnesium_hydroxide",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db09105": {
+      "page": "asfotase_alfa",
+      "sources": [
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db09107": {
+      "page": "methoxy_polyethylene_glycol-epoetin_beta",
+      "sources": [
+        "AuTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db09108": {
+      "page": "simoctocog_alfa",
+      "sources": [
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "ITTxGNN",
+        "NOTxGNN"
+      ]
+    },
+    "db09109": {
+      "page": "turoctocog_alfa",
+      "sources": [
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "ITTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db09125": {
+      "page": "potassium_citrate",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NZTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db09154": {
+      "page": "sodium_citrate",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db09156": {
+      "page": "iopromide",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db09241": {
+      "page": "methylene_blue",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db09242": {
+      "page": "moxonidine",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "ESTxGNN",
+        "FRTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "SATxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db09256": {
+      "page": "tegafur",
+      "sources": [
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN"
+      ]
+    },
+    "db09257": {
+      "page": "gimeracil",
+      "sources": [
+        "DETxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NOTxGNN"
+      ]
+    },
+    "db09281": {
+      "page": "magnesium_trisilicate",
+      "sources": [
+        "AuTxGNN",
+        "HkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db09287": {
+      "page": "polyethylene_glycol",
+      "sources": [
+        "CaTxGNN",
+        "InTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db09303": {
+      "page": "evolocumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db09320": {
+      "page": "procaine_benzylpenicillin",
+      "sources": [
+        "HkTxGNN"
+      ]
+    },
+    "db09321": {
+      "page": "zinc_oxide",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db09325": {
+      "page": "sodium_fluoride",
+      "sources": [
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db09357": {
+      "page": "dexpanthenol",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db09395": {
+      "page": "sodium_acetate",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db09422": {
+      "page": "soybean_oil",
+      "sources": [
+        "CaTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db09460": {
+      "page": "sodium_carbonate",
+      "sources": [
+        "HkTxGNN"
+      ]
+    },
+    "db09481": {
+      "page": "magnesium_carbonate",
+      "sources": [
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db09526": {
+      "page": "hydroquinone",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db09555": {
+      "page": "dexchlorpheniramine_maleate",
+      "sources": [
+        "HkTxGNN",
+        "SgTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db09564": {
+      "page": "insulin_degludec",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db11085": {
+      "page": "resorcinol",
+      "sources": [
+        "AuTxGNN",
+        "COTxGNN",
+        "HkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db11098": {
+      "page": "potassium_bicarbonate",
+      "sources": [
+        "AuTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db11248": {
+      "page": "zinc_gluconate",
+      "sources": [
+        "HkTxGNN",
+        "InTxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db11324": {
+      "page": "nonivamide",
+      "sources": [
+        "HkTxGNN"
+      ]
+    },
+    "db11359": {
+      "page": "guaiacol",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "KrTxGNN"
+      ]
+    },
+    "db11365": {
+      "page": "sennosides",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db11580": {
+      "page": "ravulizumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db11581": {
+      "page": "venetoclax",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db11595": {
+      "page": "atezolizumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db11613": {
+      "page": "velpatasvir",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "NOTxGNN"
+      ]
+    },
+    "db11637": {
+      "page": "delamanid",
+      "sources": [
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN"
+      ]
+    },
+    "db11689": {
+      "page": "selumetinib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db11714": {
+      "page": "durvalumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db11742": {
+      "page": "ebastine",
+      "sources": [
+        "ESTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NlTxGNN",
+        "SATxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db11751": {
+      "page": "cabotegravir",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db11791": {
+      "page": "capmatinib",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db11817": {
+      "page": "baricitinib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db11855": {
+      "page": "revefenacin",
+      "sources": [
+        "HkTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db11942": {
+      "page": "selinexor",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db11945": {
+      "page": "avelumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db11951": {
+      "page": "lemborexant",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db11988": {
+      "page": "ocrelizumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db12015": {
+      "page": "alpelisib",
+      "sources": [
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db12023": {
+      "page": "benralizumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db12070": {
+      "page": "letermovir",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db12130": {
+      "page": "lorlatinib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "JpTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db12141": {
+      "page": "gilteritinib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db12159": {
+      "page": "dupilumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db12240": {
+      "page": "polatuzumab_vedotin",
+      "sources": [
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db12243": {
+      "page": "edaravone",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db12267": {
+      "page": "brigatinib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db12293": {
+      "page": "nefopam",
+      "sources": [
+        "UkTxGNN"
+      ]
+    },
+    "db12319": {
+      "page": "benzbromarone",
+      "sources": [
+        "HkTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SgTxGNN",
+        "UkTxGNN"
+      ]
+    },
+    "db12457": {
+      "page": "rimegepant",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db12466": {
+      "page": "favipiravir",
+      "sources": [
+        "InTxGNN",
+        "SATxGNN"
+      ]
+    },
+    "db12478": {
+      "page": "piribedil",
+      "sources": [
+        "InTxGNN",
+        "SATxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db12808": {
+      "page": "trifarotene",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db13007": {
+      "page": "enfortumab_vedotin",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db13158": {
+      "page": "clobetasone",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db13231": {
+      "page": "calcium_lactate",
+      "sources": [
+        "HkTxGNN"
+      ]
+    },
+    "db13365": {
+      "page": "calcium_lactate_gluconate",
+      "sources": [
+        "SATxGNN"
+      ]
+    },
+    "db13884": {
+      "page": "albutrepenonacog_alfa",
+      "sources": [
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db13923": {
+      "page": "emicizumab",
+      "sources": [
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db13931": {
+      "page": "netarsudil",
+      "sources": [
+        "DETxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db13956": {
+      "page": "estradiol_valerate",
+      "sources": [
+        "HkTxGNN",
+        "KrTxGNN",
+        "SgTxGNN",
+        "UsTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db13998": {
+      "page": "lonoctocog_alfa",
+      "sources": [
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db13999": {
+      "page": "moroctocog_alfa",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "NOTxGNN",
+        "SATxGNN"
+      ]
+    },
+    "db14004": {
+      "page": "tildrakizumab",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db14039": {
+      "page": "erenumab",
+      "sources": [
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "InTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db14040": {
+      "page": "eptinezumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db14042": {
+      "page": "galcanezumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "ITTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db14488": {
+      "page": "ferrous_gluconate",
+      "sources": [
+        "HkTxGNN",
+        "SATxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db14491": {
+      "page": "ferrous_fumarate",
+      "sources": [
+        "AuTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db14498": {
+      "page": "potassium_acetate",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db14509": {
+      "page": "lithium_carbonate",
+      "sources": [
+        "AuTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db14512": {
+      "page": "mometasone_furoate",
+      "sources": [
+        "BrTxGNN",
+        "SgTxGNN"
+      ]
+    },
+    "db14533": {
+      "page": "zinc_chloride",
+      "sources": [
+        "HkTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db14539": {
+      "page": "hydrocortisone_acetate",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "ZaTxGNN"
+      ]
+    },
+    "db14562": {
+      "page": "andexanet_alfa",
+      "sources": [
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db14596": {
+      "page": "loteprednol_etabonate",
+      "sources": [
+        "COTxGNN",
+        "CaTxGNN",
+        "HkTxGNN",
+        "InTxGNN",
+        "KrTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UkTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db14738": {
+      "page": "turoctocog_alfa_pegol",
+      "sources": [
+        "COTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "NOTxGNN",
+        "SATxGNN"
+      ]
+    },
+    "db14761": {
+      "page": "remdesivir",
+      "sources": [
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db14762": {
+      "page": "risankizumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db14864": {
+      "page": "brolucizumab",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db14901": {
+      "page": "inclisiran",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db14962": {
+      "page": "trastuzumab_deruxtecan",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db15035": {
+      "page": "zanubrutinib",
+      "sources": [
+        "AuTxGNN",
+        "CHTxGNN",
+        "COTxGNN",
+        "CaTxGNN",
+        "DETxGNN",
+        "DkTxGNN",
+        "ESTxGNN",
+        "FITxGNN",
+        "FRTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SATxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db15071": {
+      "page": "omidenepag_isopropyl",
+      "sources": [
+        "KrTxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db15119": {
+      "page": "ropeginterferon_alfa-2b",
+      "sources": [
+        "DETxGNN",
+        "DkTxGNN",
+        "FITxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NOTxGNN",
+        "SgTxGNN",
+        "UsTxGNN"
+      ]
+    },
+    "db15305": {
+      "page": "risdiplam",
+      "sources": [
+        "AuTxGNN",
+        "CaTxGNN",
+        "DkTxGNN",
+        "HkTxGNN"
+      ]
+    },
+    "db15566": {
+      "page": "prednisolone_acetate",
+      "sources": [
+        "CaTxGNN",
+        "HkTxGNN",
+        "KrTxGNN",
+        "NZTxGNN",
+        "SgTxGNN",
+        "ZaTxGNN"
+      ]
+    }
+  }
+}
