@@ -27,8 +27,8 @@ Exploratory candidates requiring substantial validation
 
 ## Drug List
 
-{% assign l4_drugs = site.drugs | where: "evidence_level", "L4" | sort: "title" %}
-{% assign l5_drugs = site.drugs | where: "evidence_level", "L5" | sort: "title" %}
+{% assign l4_drugs = site.drugs | where: "evidence_level", "L4" | where_exp: "d", "d.noindex != true" | sort: "title" %}
+{% assign l5_drugs = site.drugs | where: "evidence_level", "L5" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
 ### L4 Level ({{ l4_drugs.size }} drugs)
 

@@ -18,6 +18,7 @@
   9. llms.txt／llms-full.txt 的本站資料區塊（site-data）剛好一個、等級分布＝drug_stats.json、資料集網址出現在本站 sources 頁（2026-11-04）。
   10. docs/_data/hreflang.json 裡本站自己的頁（說明頁等，藥物頁除外）存在、不是 noindex／轉址頁、組裡有自我參照、沒有 x-default（2026-11-04）。
   12. docs/_data/ddi_sources.json＝.github/ddi-versions.json 的 site_data；頁面的 DDInter／GtoPdb 數字與版本用 Liquid 讀它（scripts/sync_ddi_sources.py，2026-11-05）。
+  13. docs/data/drugs.json 等於公開藥物頁：不含 noindex／轉址頁、等級＝頁首、筆數＝drug_stats.json total_drugs（2026-11-06）。
 
 Tw 專屬的檢查（TFDA 許可證表、docs/_data/drug_reviews.json 人工查核紀錄、drug_stats.json）沒有移植；
 本站之後若建立同類機制，再把對應檢查加回來。
@@ -439,6 +440,44 @@ try:
     errors.extend(_sds.problems())
 except SystemExit as _e:
     errors.append(f"scripts/sync_ddi_sources.py：{_e}")
+
+# 13) docs/data/drugs.json（2026-11-06 補）：新聞排程（scripts/process_news.py、generate_news_keywords.py）讀這份檔取藥物的
+#    evidence_level、original_indication，下載頁與部分頁面的 JS 也讀它。它要等於公開藥物頁：不得收 noindex／轉址／
+#    不存在的頁，每筆 evidence_level＝該頁 front matter（沒寫時當 L5，同 generate_drug_stats.py），筆數＝drug_stats.json 的 total_drugs，
+#    公開藥物頁一個不漏。藥物頁改等級、改 noindex 後這份會過期（2026-11-06 實查時本站這份已過期）。
+#    修法：母目錄 python3 .claude/generate_drugs_json.py <本站目錄>（整份重產，只讀 docs/_drugs/*.md 的 front matter）。
+_DJ_F = DOCS / "data" / "drugs.json"
+if _DJ_F.exists():
+    _dj = json.loads(_DJ_F.read_text(encoding="utf-8"))
+    _dj_list = _dj.get("drugs", []) if isinstance(_dj, dict) else _dj
+    _dj_pat = collection_rules().get("drugs", "/drugs/:name/")
+    _dj_pages = {}  # 網址 → (front matter, 是否轉址)
+    for _f in sorted((DOCS / "_drugs").glob("*.md")):
+        _t = _f.read_text(encoding="utf-8", errors="replace")
+        _fm = front_matter(_t)
+        _u = _fm.get("permalink") or re.sub(r":(name|slug|title)\b", jekyll_slugify(_fm.get("slug") or _f.stem), _dj_pat)
+        _dj_pages[norm(_u)] = (_fm, 'http-equiv="refresh"' in _t or _fm.get("layout") == "id_redirect" or bool(_fm.get("redirect_to")))
+    _dj_public = {_u for _u, (_fm, _r) in _dj_pages.items() if not _r and _fm.get("noindex", "").lower() != "true"}
+    _dj_bad, _dj_seen = [], set()
+    for _e in _dj_list:
+        _u = norm(_e.get("url") or f"/drugs/{_e.get('slug', '')}/")
+        _dj_seen.add(_u)
+        if _u not in _dj_pages:
+            _dj_bad.append(f"{_u} 沒有這個藥物頁")
+        elif _dj_pages[_u][1]:
+            _dj_bad.append(f"{_u} 是轉址頁")
+        elif _dj_pages[_u][0].get("noindex", "").lower() == "true":
+            _dj_bad.append(f"{_u} 是 noindex 頁")
+        elif str(_e.get("evidence_level", "")) != (_dj_pages[_u][0].get("evidence_level") or "L5"):
+            _dj_bad.append(f"{_u} 等級 {_e.get('evidence_level')}，頁首 {_dj_pages[_u][0].get('evidence_level') or 'L5'}")
+    _dj_bad += [f"{_u} 是公開藥物頁但不在 drugs.json" for _u in sorted(_dj_public - _dj_seen)]
+    _dj_total = json.loads((DOCS / "_data" / "drug_stats.json").read_text(encoding="utf-8")).get("total_drugs")
+    if len(_dj_list) != _dj_total or (isinstance(_dj, dict) and _dj.get("total_count", len(_dj_list)) != len(_dj_list)):
+        _dj_bad.insert(0, f"筆數 {len(_dj_list)}（total_count {_dj.get('total_count') if isinstance(_dj, dict) else '—'}），"
+                          f"drug_stats.json total_drugs {_dj_total}")
+    if _dj_bad:
+        errors.append(f"docs/data/drugs.json 與藥物頁不一致 {len(_dj_bad)} 項，例：{'；'.join(_dj_bad[:5])}"
+                      f"（母目錄跑 python3 .claude/generate_drugs_json.py <本站目錄>）")
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")

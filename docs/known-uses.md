@@ -10,7 +10,7 @@ description: "Bagi ubat-ubat ini, semua calon daripada model TxGNN sudah merupak
 
 Bagi ubat-ubat ini, semua calon daripada model TxGNN sudah merupakan kegunaan yang diketahui (direkodkan dalam graf pengetahuan atau dalam pendaftaran ubat), jadi tiada indikasi baharu yang diramal. Setiap halaman menyenaraikan kegunaan yang diketahui dan status pasaran tempatan.
 
-{% assign known_drugs = site.drugs | where: "evidence_level", "N/A" | sort: "title" %}
+{% assign known_drugs = site.drugs | where: "evidence_level", "N/A" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
 **{{ known_drugs.size }} ubat**
 
