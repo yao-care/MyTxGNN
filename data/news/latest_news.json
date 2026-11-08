@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-08T04:28:59.287033",
+  "fetched": "2026-11-08T11:41:08.134239",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Vape Group Hails Poisons Board’s Endorsement Of Proposed Nicotine Exemption",
@@ -109,17 +109,6 @@
       "summary": "Many seniors in Malaysia need steady income to fund retirement and health care while remaining independent in their own homes, rather than burdening their children. KALSIS proposes allowing them to unlock their properties’ value while retaining the right to live in them for life. The post Seniors Need Retirement Income Without Burdening Their Children: KALSIS appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "Fire razes ground floor of Brickfields eatery, two women taken to hospital on Deepavali morning",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/08/fire-razes-ground-floor-of-brickfields-eatery-two-women-taken-to-hospital-on-deepavali-morning/242424",
-      "source": "Malay Mail",
-      "published": "2026-11-08T03:18:27",
-      "summary": "KUALA LUMPUR, Nov 8 — Two women were injured when a fire tore through a two-storey restaurant along Jalan Tun Samb...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
