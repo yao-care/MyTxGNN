@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-09T01:25:00.620182",
+  "fetched": "2026-11-09T09:05:49.972547",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
     {
       "title": "Vape Group Hails Poisons Board’s Endorsement Of Proposed Nicotine Exemption",
@@ -109,6 +109,27 @@
       "summary": "Many seniors in Malaysia need steady income to fund retirement and health care while remaining independent in their own homes, rather than burdening their children. KALSIS proposes allowing them to unlock their properties’ value while retaining the right to live in them for life. The post Seniors Need Retirement Income Without Burdening Their Children: KALSIS appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Police say pistol-wielding man in viral Kuala Lumpur chase was conducting anti-drug operation",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/09/police-say-pistol-wielding-man-in-viral-kuala-lumpur-chase-was-conducting-anti-drug-operation/242577",
+      "source": "Malay Mail",
+      "published": "2026-11-09T06:08:32",
+      "summary": "KUALA LUMPUR, Nov 9 — The man seen holding what appeared to be a pistol while pursuing a car in a viral video alon...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "After viral umbrella videos, Seberang Jaya Hospital assesses damage from leaks",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/09/after-viral-umbrella-videos-seberang-jaya-hospital-assesses-damage-from-leaks/242557",
+      "source": "Malay Mail",
+      "published": "2026-11-09T04:11:54",
+      "summary": "BUTTERWORTH, Nov 9 — An assessment of the damage and the implementation of control measures are currently underway...",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
       ]
     }
   ]
