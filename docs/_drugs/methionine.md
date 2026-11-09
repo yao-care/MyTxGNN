@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Methionine"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "nuclear senile cataract", "immature cataract", "mature cataract", "tetanic cataract", "cortical cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "diabetic cataract"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-09
 description: "Methionine: indikasi baharu diramal Jerawat (acne) (tahap bukti L5). Indikasi asal: Tiada teks indikasi yang diluluskan dalam data pendaftaran tempatan"
 ---
 
@@ -52,8 +52,8 @@ Setakat ini terdapat **0 ujian klinikal** dan hanya kajian asas/mekanistik serta
 | Indikasi Baharu yang Diramalkan | Jerawat (acne) |
 | Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 149 daripada 161; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 161 (sah: 149; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 149 daripada 161) |
+| Bilangan Pendaftaran | 161 (sah: 149) |
 | Bilangan Kelulusan | 156 pendaftaran (5 produk bahan tunggal, 151 produk kombinasi) |
 | Keputusan Disyorkan | Hold (Tahan) |
 

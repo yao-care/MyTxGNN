@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 79
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-09
 description: "Andexanet Alfa: indikasi baharu diramal Glanzmann thrombasthenia (tahap bukti L5). Indikasi asal: Tiada data indikasi yang diluluskan dalam data yang dikumpulkan (tiad…"
 monitor_inn: "ANDEXANET ALFA"
 predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "hemophilia"]
@@ -50,8 +50,8 @@ Andexanet alfa ialah protein rekombinan "umpan" faktor Xa yang tidak aktif secar
 | Indikasi Baharu yang Diramalkan | Glanzmann thrombasthenia |
 | Skor Ramalan TxGNN | 0.9977 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Status tidak dapat disahkan (pendaftaran: 1; sah: 0; dibatalkan atau tamat tempoh: 0; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 1 (sah: 0; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Tidak dipasarkan (pendaftaran dibatalkan: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 0) |
 | Keputusan Disyorkan | Hold |
 
 ---
