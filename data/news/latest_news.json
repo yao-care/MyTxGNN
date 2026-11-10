@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-10T03:08:50.426055",
+  "fetched": "2026-11-10T12:05:25.353484",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,26 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
+    {
+      "title": "COP31 Food Waste Action: Leading NGOs Drive Action On Methane And Food Security",
+      "url": "https://codeblue.galencentre.org/2026/11/cop31-food-waste-action-leading-ngos-drive-action-on-methane-and-food-security/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-10T06:00:00",
+      "summary": "Global NGOs urge the COP31 Presidency to formally recognise food loss and waste reductions as a cross-cutting climate solution able to improve resilience and address hunger. This aligns with the priority focus on Zero Waste and Food Security at COP31. The post COP31 Food Waste Action: Leading NGOs Drive Action On Methane And Food Security appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Food Laws Are Getting Stronger, But What About Officers Enforcing Them? — Environmental Health Officer",
+      "url": "https://codeblue.galencentre.org/2026/11/food-laws-are-getting-stronger-but-what-about-officers-enforcing-them-environmental-health-officer/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-10T03:30:00",
+      "summary": "The Food (Amendment) Bill 2026 includes Food Technologists as authorised officers. But what about the existing EHO and AEHO workforce? For many years, environmental health professionals have been involved in food safety enforcement. The post Food Laws Are Getting Stronger, But What About Officers Enforcing Them? — Environmental Health Officer appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
     {
       "title": "MPS Slams Proposed Nicotine Exemption Despite Being On Poisons Board",
       "url": "https://codeblue.galencentre.org/2026/11/mps-slams-proposed-nicotine-exemption-despite-being-on-poisons-board/",
@@ -92,19 +110,21 @@
       ]
     },
     {
-      "title": "Aged Care Homes Struggle To Upgrade As Families Cannot Afford Higher Fees",
-      "url": "https://codeblue.galencentre.org/2026/11/aged-care-homes-struggle-to-upgrade-as-families-cannot-afford-higher-fees/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-05T03:30:00",
-      "summary": "AgeCope president Delren Terrence Douglas says financial constraints, inconsistent local council rules and staff shortages make it difficult for aged care homes to upgrade. Families cannot afford monthly fees of RM3,000-RM5,000 but expect that standard of care, he says. The post Aged Care Homes Struggle To Upgrade As Families Cannot Afford Higher Fees appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Kuala Kangsar Sessions Court orders mental health assessment for accused in rape, attempted murder case",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/10/sessions-court-orders-mental-health-assessment-for-accused-in-rape-attempted-murder-case/242723",
+      "source": "Malay Mail",
+      "published": "2026-11-10T08:40:05",
+      "summary": "KUALA KANGSAR, Nov 10 — The Sessions Court here today ordered a man who pleaded guilty to attempting to...",
+      "keywords_matched": [
+        "health"
+      ]
     },
     {
-      "title": "MMA Loses Moral Authority To Demand Vape Ban",
-      "url": "https://codeblue.galencentre.org/2026/11/mma-loses-moral-authority-to-demand-vape-ban/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-05T02:00:00",
-      "summary": "MMA has lost the moral high ground to demand a vape ban, unless it quits the Poisons Board to protest the Board’s endorsement of a proposed nicotine exemption. As an expert advisory body, the Poisons Board holds equal responsibility as the health minister. The post MMA Loses Moral Authority To Demand Vape Ban appeared first on CodeBlue .",
+      "title": "Health inflation in Malaysia more than doubles to 3pc in 2025, says Stats Dept",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/10/health-inflation-in-malaysia-more-than-doubles-to-3pc-in-2025-says-stats-dept/242710",
+      "source": "Malay Mail",
+      "published": "2026-11-10T07:05:11",
+      "summary": "PUTRAJAYA, Nov 10 — Health Inflation increased 3.0 per cent in 2025 as compared to 1.3 per cent in 2024, according...",
       "keywords_matched": [
         "health"
       ]
