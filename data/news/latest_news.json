@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-10T12:05:25.353484",
+  "fetched": "2026-11-10T20:11:57.783961",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "title": "COP31 Food Waste Action: Leading NGOs Drive Action On Methane And Food Security",
@@ -115,16 +115,6 @@
       "source": "Malay Mail",
       "published": "2026-11-10T08:40:05",
       "summary": "KUALA KANGSAR, Nov 10 — The Sessions Court here today ordered a man who pleaded guilty to attempting to...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Health inflation in Malaysia more than doubles to 3pc in 2025, says Stats Dept",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/10/health-inflation-in-malaysia-more-than-doubles-to-3pc-in-2025-says-stats-dept/242710",
-      "source": "Malay Mail",
-      "published": "2026-11-10T07:05:11",
-      "summary": "PUTRAJAYA, Nov 10 — Health Inflation increased 3.0 per cent in 2025 as compared to 1.3 per cent in 2024, according...",
       "keywords_matched": [
         "health"
       ]
