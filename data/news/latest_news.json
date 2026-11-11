@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-11T00:59:25.588827",
+  "fetched": "2026-11-11T07:40:51.490791",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,39 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
+    {
+      "title": "More Than The Lungs: The Silent Damage Of Smoking And Vaping",
+      "url": "https://codeblue.galencentre.org/2026/11/more-than-the-lungs-the-silent-damage-of-smoking-and-vaping/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-11T06:00:00",
+      "summary": "Smoking is not just a lung habit. It is a whole-body risk. The good news is that stopping, today and not someday, is one of the most powerful things a person can do for their health. The post More Than The Lungs: The Silent Damage Of Smoking And Vaping appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "From Bedside To Beyond: A Future In Critical Care Nursing — Noor Hanita Zaini, Aniza Ahmad & Najat Nadirah Abdul Aziz",
+      "url": "https://codeblue.galencentre.org/2026/11/from-bedside-to-beyond-a-future-in-critical-care-nursing-noor-hanita-zaini-aniza-ahmad-najat-nadirah-abdul-aziz/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-11T03:30:00",
+      "summary": "The future of critical care will bring new technologies and ways of working. Nurses can help shape these changes while keeping care personal. The post From Bedside To Beyond: A Future In Critical Care Nursing — Noor Hanita Zaini, Aniza Ahmad & Najat Nadirah Abdul Aziz appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Weight, Blood Pressure, Glucose Levels: Doctors Identify Three Workplace Health Priorities",
+      "url": "https://codeblue.galencentre.org/2026/11/weight-blood-pressure-glucose-levels-doctors-identify-three-workplace-health-priorities/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-11T02:00:00",
+      "summary": "Doctors urge employers to prioritise weight management, blood pressure control, and diabetes prevention and treatment, rather than conduct screenings without follow-up. An unhealthy workforce also costs companies through absenteeism and lost productivity. The post Weight, Blood Pressure, Glucose Levels: Doctors Identify Three Workplace Health Priorities appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "treatment",
+        "diabetes",
+        "doctor"
+      ]
+    },
     {
       "title": "COP31 Food Waste Action: Leading NGOs Drive Action On Methane And Food Security",
       "url": "https://codeblue.galencentre.org/2026/11/cop31-food-waste-action-leading-ngos-drive-action-on-methane-and-food-security/",
@@ -71,52 +102,6 @@
       "keywords_matched": [
         "medical",
         "doctor"
-      ]
-    },
-    {
-      "title": "What Is The Status Of Our NG-999? — Dr Sarah Shaikh Abdul Karim",
-      "url": "https://codeblue.galencentre.org/2026/11/what-is-the-status-of-our-ng-999-dr-sarah-shaikh-abdul-karim/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-05T07:30:00",
-      "summary": "One year after NG-999's rollout, retreating to 21 fragmented hospital call centres wastes scarce clinical manpower and stalls emergency dispatch reform. The post What Is The Status Of Our NG-999? — Dr Sarah Shaikh Abdul Karim appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "clinical",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Doctors Have A Voice On Poisons Board, But How Much Weight Does It Carry? — Dr Pearl Leong",
-      "url": "https://codeblue.galencentre.org/2026/11/doctors-have-a-voice-on-poisons-board-but-how-much-weight-does-it-carry-dr-pearl-leong/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-05T05:48:55",
-      "summary": "Dr Pearl Leong questions the Poisons Board’s nicotine exemption U-turn. Business representatives hold four of 12 seats, against three for medical representatives, but “without individual voting records”, doctors cannot be said to have been outvoted. The post Doctors Have A Voice On Poisons Board, But How Much Weight Does It Carry? — Dr Pearl Leong appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Insurers Must Expand GP Coverage To Curb Rising Private Health Care Costs — PMPASKL",
-      "url": "https://codeblue.galencentre.org/2026/11/insurers-must-expand-gp-coverage-to-curb-rising-private-health-care-costs-pmpaskl/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-05T05:36:32",
-      "summary": "PMPASKL backs APHM’s warning that patients bypassing GPs for routine illnesses are contributing to rising private health care costs. It urges insurers and TPAs to expand outpatient GP coverage to curb unnecessary hospital visits. The post Insurers Must Expand GP Coverage To Curb Rising Private Health Care Costs — PMPASKL appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "patient",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Kuala Kangsar Sessions Court orders mental health assessment for accused in rape, attempted murder case",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/10/sessions-court-orders-mental-health-assessment-for-accused-in-rape-attempted-murder-case/242723",
-      "source": "Malay Mail",
-      "published": "2026-11-10T08:40:05",
-      "summary": "KUALA KANGSAR, Nov 10 — The Sessions Court here today ordered a man who pleaded guilty to attempting to...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
