@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-11T07:40:51.490791",
+  "fetched": "2026-11-11T15:50:50.205596",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Minister Admits Nicotine Vape Liquid Scheduled Poison After Court Ruling",
+      "url": "https://codeblue.galencentre.org/2026/11/minister-admits-nicotine-vape-liquid-scheduled-poison-after-court-ruling/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-11T08:25:54",
+      "summary": "Dr Dzul makes a major admission in Parliament, saying vape liquids containing nicotine are now subject to the Poisons Act 1952 (Act 366), due to the High Court verdict. Act 366 prohibits the retail sale and supply of poisons, except by pharmacists/doctors. The post Minister Admits Nicotine Vape Liquid Scheduled Poison After Court Ruling appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
     {
       "title": "More Than The Lungs: The Silent Damage Of Smoking And Vaping",
       "url": "https://codeblue.galencentre.org/2026/11/more-than-the-lungs-the-silent-damage-of-smoking-and-vaping/",
@@ -94,14 +104,13 @@
       "keywords_matched": []
     },
     {
-      "title": "An Open Letter To The Sabah Chief Minister: Sarawak Is Investing In Its Future Doctors, But Why Is Sabah Still Falling Behind? — An Exhausted Doctor",
-      "url": "https://codeblue.galencentre.org/2026/11/an-open-letter-to-the-sabah-chief-minister-sarawak-is-investing-in-its-future-doctors-but-why-is-sabah-still-falling-behind-an-exhausted-doctor/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-06T02:00:00",
-      "summary": "A doctor practising in Sabah wants the state government to match Sarawak’s investment in local medical graduates, calling for scholarships and better rural infrastructure, housing and financial incentives to stem the exodus of doctors. The post An Open Letter To The Sabah Chief Minister: Sarawak Is Investing In Its Future Doctors, But Why Is Sabah Still Falling Behind? — An Exhausted Doctor appeared first on CodeBlue .",
+      "title": "Skudai Deepavali fireworks stunt ends in court for four, one just 16",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/11/skudai-deepavali-fireworks-stunt-ends-in-court-for-four-one-just-16/242857",
+      "source": "Malay Mail",
+      "published": "2026-11-11T08:05:07",
+      "summary": "JOHOR BAHRU, Nov 11 — Four men, including a secondary school student, claimed trial at the Magistrate’s Cour...",
       "keywords_matched": [
-        "medical",
-        "doctor"
+        "trial"
       ]
     }
   ]
