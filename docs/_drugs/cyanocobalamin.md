@@ -94,7 +94,13 @@ Senarai di bawah ialah sebahagian daripada lesen produk bahan tunggal cyanocobal
 | MAL23056017AZ | CB12 Solution for Injection 1000mcg/ml | Tiada data | Tiada data |
 | MAL16055001NCZ | NATURE'S BOUNTY VITAMIN B-12 500mcg tablets | Tiada data | Tiada data |
 
-Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi (kebanyakannya multivitamin dan vitamin B kompleks). Lesen produk kombinasi tidak digunakan untuk menggambarkan status kelulusan bahan tunggal.
+Jumlah pendaftaran ialah 486 (472 sah), termasuk 472 produk kombinasi (kebanyakannya multivitamin dan vitamin B kompleks). Lesen produk kombinasi tidak digunakan untuk menggambarkan status kelulusan bahan tunggal.
+
+<!-- review:begin my-lic-20261112-cyanocobalamin-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 486 pendaftaran, 472 sah; 14 bahan tunggal, 472 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-cyanocobalamin-1 -->
 
 ---
 
@@ -118,6 +124,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Kajian praklinikal atau klinikal yang menilai cyanocobalamin secara langsung dalam penyakit metabolik biotin
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA bagi tujuan saringan keselamatan
 - Teks indikasi yang diluluskan dan bentuk dos bagi produk tempatan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi” → “Jumlah pendaftaran ialah 486 (472 sah), termasuk 472 produk kombinasi” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

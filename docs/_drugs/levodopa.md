@@ -73,7 +73,13 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Kesemua 15 pendaftaran yang sah ialah produk kombinasi (levodopa bersama karbidopa/benserazida, atau bersama karbidopa dan entakapon). Lesen produk kombinasi tidak menggambarkan status kelulusan levodopa sebagai bahan tunggal. Teks indikasi diluluskan tidak tersedia dalam rekod.
+Kesemua 15 pendaftaran (14 sah) ialah produk kombinasi (levodopa bersama karbidopa/benserazida, atau bersama karbidopa dan entakapon). Lesen produk kombinasi tidak menggambarkan status kelulusan levodopa sebagai bahan tunggal. Teks indikasi diluluskan tidak tersedia dalam rekod.
+
+<!-- review:begin my-lic-20261112-levodopa-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Kesemua 15 pendaftaran yang sah ialah produk kombinasi" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 15 pendaftaran, semuanya kombinasi; 14 sah, 1 tanpa status. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-levodopa-1 -->
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
@@ -105,6 +111,19 @@ Ramalan ini hanya disokong oleh skor model yang tinggi, tanpa sebarang percubaan
 - Kajian praklinikal atau laporan kes yang menyokong penggunaan levodopa dalam ensefalitis Rasmussen
 - Penilaian keselamatan khusus berkaitan risiko sawan
 - Pengesahan laluan pentadbiran dan bentuk dos yang sesuai
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Kesemua 15 pendaftaran (14 sah) ialah produk kombinasi” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

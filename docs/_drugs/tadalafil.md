@@ -91,7 +91,13 @@ Untuk rujukan, satu-satunya penerbitan dalam senarai ramalan ialah bagi calon ke
 
 ## Maklumat Pasaran Malaysia
 
-Terdapat 23 pendaftaran sah, semuanya produk bahan tunggal. Teks indikasi yang diluluskan tidak tersedia dalam data pendaftaran. Antara pendaftaran utama:
+Terdapat 27 pendaftaran sah: 25 produk bahan tunggal dan 2 produk kombinasi. Teks indikasi yang diluluskan tidak tersedia dalam data pendaftaran. Antara pendaftaran utama:
+
+<!-- review:begin my-lic-20261112-tadalafil-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Terdapat 23 pendaftaran sah, semuanya produk bahan tunggal." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 29 pendaftaran, 27 sah (25 bahan tunggal, 2 kombinasi). Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-tadalafil-1 -->
 
 | Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
@@ -126,6 +132,19 @@ Amaran utama dan kontraindikasi daripada label produk tidak tersedia; sila rujuk
 - Sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat saringan keselamatan)
 - Bukti praklinikal atau klinikal yang mengkaji secara langsung kesan PDE5 pada hipertrikosis
 - Jika mahu meneroka calon alternatif, penyakit jantung kifoskoliotik (hipertensi pulmonari sekunder) paling munasabah secara mekanistik, tetapi memerlukan bukti langsung dan penilaian risiko pertukaran gas
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “Terdapat 23 pendaftaran sah, semuanya produk bahan tunggal.” → “Terdapat 27 pendaftaran sah: 25 produk bahan tunggal dan 2 produk kombinasi.” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

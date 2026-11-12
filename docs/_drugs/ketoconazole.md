@@ -89,7 +89,13 @@ Skor TxGNN yang tinggi ialah ramalan pengiraan, bukan bukti klinikal. Mekanisme 
 
 ## Maklumat Pasaran di Malaysia
 
-Ketoconazole mempunyai 33 lesen berdaftar, semuanya sah (31 produk tunggal dan 2 produk kombinasi). Berikut ialah sebahagian lesen produk tunggal.
+Ketoconazole mempunyai 33 lesen berdaftar, 32 daripadanya sah dan 1 telah tamat tempoh (31 produk tunggal dan 2 produk kombinasi). Berikut ialah sebahagian lesen produk tunggal.
+
+<!-- review:begin my-lic-20261112-ketoconazole-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Ketoconazole mempunyai 33 lesen berdaftar, semuanya sah (31" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 33 pendaftaran, 32 sah, 1 tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-ketoconazole-1 -->
 
 | Nombor Kelulusan | Nama Produk | Pengilang |
 |---------|------|------|
@@ -123,6 +129,18 @@ Tahap bukti ialah L4: hanya terdapat kajian in vitro (perencatan lipase *P. acne
 - Semakan sisipan pek NPRA bagi amaran dan kontraindikasi
 - Penilaian risiko keselamatan hati dan jantung (QT) jika dipertimbangkan penggunaan sistemik, serta pemilihan laluan topikal jika sesuai
 - Data mekanisme tindakan yang lebih lengkap
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “Ketoconazole mempunyai 33 lesen berdaftar, semuanya sah (31” → “Ketoconazole mempunyai 33 lesen berdaftar, 32 daripadanya sah dan 1 telah tamat ” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

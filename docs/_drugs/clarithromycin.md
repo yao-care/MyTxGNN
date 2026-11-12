@@ -68,7 +68,13 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-Terdapat 28 lesen, semuanya sah (27 produk bahan tunggal dan 1 produk kombinasi). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lesen kombinasi tidak digunakan untuk menggambarkan status bahan tunggal.
+Terdapat 29 lesen, semuanya sah (28 produk bahan tunggal dan 1 produk kombinasi). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lesen kombinasi tidak digunakan untuk menggambarkan status bahan tunggal.
+
+<!-- review:begin my-lic-20261112-clarithromycin-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Terdapat 28 lesen, semuanya sah (27 produk bahan tunggal dan 1 produk kombinasi)." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 29 pendaftaran, semuanya sah; 28 bahan tunggal, 1 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-clarithromycin-1 -->
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
@@ -101,6 +107,19 @@ Ramalan ini tidak mempunyai percubaan klinikal, penerbitan atau mekanisme yang m
 - Hipotesis biologi yang jelas yang menghubungkan makrolid dengan hiperviskositi poliklonal, disokong oleh kajian praklinikal
 - Sisipan pakej NPRA bagi amaran dan kontraindikasi
 - Semakan literatur yang sistematik untuk sebarang bukti langsung
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “Terdapat 28 lesen, semuanya sah (27 produk bahan tunggal dan” → “Terdapat 29 lesen, semuanya sah (28 produk bahan tunggal dan 1 produk kombinasi)” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

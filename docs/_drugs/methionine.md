@@ -90,7 +90,13 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk jerawat (mahupun 
 
 ## Maklumat Pasaran Malaysia
 
-Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi). Tiada teks indikasi yang diluluskan dalam data. Kebanyakan adalah produk kombinasi, jadi lesen mereka tidak menggambarkan status kelulusan metionin sebagai bahan tunggal. Senarai produk bahan tunggal (SAM-e dan selenium; perhatian: bahan aktif tepat perlu disahkan):
+Sebanyak 161 pendaftaran dikesan (5 bahan tunggal, 156 kombinasi; 149 sah). Tiada teks indikasi yang diluluskan dalam data. Kebanyakan adalah produk kombinasi, jadi lesen mereka tidak menggambarkan status kelulusan metionin sebagai bahan tunggal. Senarai produk bahan tunggal (SAM-e dan selenium; perhatian: bahan aktif tepat perlu disahkan):
+
+<!-- review:begin my-lic-20261112-methionine-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi)." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 161 pendaftaran, 149 sah; 5 bahan tunggal, 156 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-methionine-1 -->
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
@@ -120,6 +126,19 @@ Ramalan jerawat hanya berasaskan model pengiraan tanpa ujian klinikal dan tanpa 
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang penilaian keselamatan)
 - Kajian praklinikal atau ujian klinikal yang menguji metionin secara langsung pada indikasi sasaran
 - Penilaian keselamatan berkaitan homosistein, terutamanya pada pesakit diabetes dan penyakit vaskular/retina
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombi” → “Sebanyak 161 pendaftaran dikesan (5 bahan tunggal, 156 kombinasi; 149 sah).” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

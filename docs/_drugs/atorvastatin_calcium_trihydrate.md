@@ -80,7 +80,13 @@ Pada masa ini tiada kesusasteraan berkaitan yang tersedia — sasaran ramalan be
 
 ## Maklumat Pasaran Malaysia
 
-Ubat ini memegang **32 pendaftaran** dengan NPRA (Malaysia) dan disahkan sebagai dipasarkan. Walau bagaimanapun, rekod lesen individu yang diperoleh dalam Paket Bukti ini tidak mengandungi sebarang medan yang dipenuhi (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan semuanya kosong). Jadual di bawah mencerminkan keadaan data semasa:
+Ubat ini memegang **71 pendaftaran** (66 sah) dengan NPRA (Malaysia) dan disahkan sebagai dipasarkan. Walau bagaimanapun, rekod lesen individu yang diperoleh dalam Paket Bukti ini tidak mengandungi sebarang medan yang dipenuhi (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan semuanya kosong). Jadual di bawah mencerminkan keadaan data semasa:
+
+<!-- review:begin my-lic-20261112-atorvastatin_calcium_trihydrate-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "**32 pendaftaran** dengan NPRA (Malaysia)" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 71 pendaftaran, 66 sah. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-atorvastatin_calcium_trihydrate-1 -->
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |-----------------|-----------|----------|----------------------|
@@ -112,9 +118,28 @@ Saluran ramalan TxGNN belum menghasilkan keluaran untuk Atorvastatin Calcium Tri
 - [ ] **Jalankan ramalan TxGNN** — jalankan saluran ramalan KG + DL dengan ID DrugBank Atorvastatin untuk menjana indikasi calon yang disenaraikan pangkat
 - [ ] **Ambil ID DrugBank** — medan `drugbank_id` adalah nol; petakan "ATORVASTATIN CALCIUM TRIHYDRATE" kepada entri DrugBank kanoniknya (DB01076) untuk membolehkan input model (Jurang Data DG002)
 - [ ] **Ambil data MOA** — pertanyaan API DrugBank untuk memenuhi mekanisme tindakan (Jurang Data DG002)
-- [ ] **Ambil butiran sisipan pakej NPRA** — muat turun dan parsing teks indikasi yang diluluskan, amaran, dan kontraindikasi untuk 32 produk terdaftar (Jurang Data DG001; ketertiban: Sekatan)
+- [ ] **Ambil butiran sisipan pakej NPRA** — muat turun dan parsing teks indikasi yang diluluskan, amaran, dan kontraindikasi untuk 71 produk terdaftar (Jurang Data DG001; ketertiban: Sekatan)
 - [ ] **Isi data peringkat lesen** — pastikan 32 rekod pendaftaran NPRA termasuk nama produk, bentuk dos, dan teks indikasi yang diluluskan
 - [ ] **Jalankan semula pengumpulan bukti** — setelah indikasi yang diramalkan tersedia, kumpulkan bukti ClinicalTrials.gov, PubMed, dan ICTRP untuk pasangan ubat-penyakit tertentu itu
+
+<!-- review:begin my-lic-20261112-atorvastatin_calcium_trihydrate-2 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "untuk 32 produk terdaftar" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 71 pendaftaran. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-atorvastatin_calcium_trihydrate-2 -->
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “32 pendaftaran** dengan NPRA (Malaysia)” → “71 pendaftaran** (66 sah) dengan NPRA (Malaysia)” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-12 | Bilangan pendaftaran: “untuk 32 produk terdaftar” → “untuk 71 produk terdaftar” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

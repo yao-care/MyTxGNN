@@ -75,7 +75,13 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-Dipasarkan di Malaysia; terdapat 42 lesen berdaftar, semuanya sah (41 produk ingredien tunggal dan 1 produk kombinasi). Senarai di bawah menunjukkan 5 yang utama daripada produk ingredien tunggal.
+Dipasarkan di Malaysia; terdapat 42 lesen berdaftar, 41 daripadanya sah dan 1 telah tamat tempoh (41 produk ingredien tunggal dan 1 produk kombinasi). Senarai di bawah menunjukkan 5 yang utama daripada produk ingredien tunggal.
+
+<!-- review:begin my-lic-20261112-ciprofloxacin-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "terdapat 42 lesen berdaftar, semuanya sah (41 produk" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 42 pendaftaran, 41 sah, 1 tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-ciprofloxacin-1 -->
 
 | Nombor Kebenaran | Nama Produk | Pengilang |
 |---------|------|------|
@@ -105,6 +111,18 @@ Tiada ujian klinikal berdaftar, dan hanya dua penerbitan yang berkaitan secara t
 - Teks amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Penilaian keselamatan khusus untuk pesakit skleroderma, terutamanya risiko tendon, neuropati periferi dan pemanjangan QT
 - Pendaftaran ujian klinikal fasa awal yang menyasarkan penyakit ini
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “terdapat 42 lesen berdaftar, semuanya sah (41 produk” → “terdapat 42 lesen berdaftar, 41 daripadanya sah dan 1 telah tamat tempoh (41 pro” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

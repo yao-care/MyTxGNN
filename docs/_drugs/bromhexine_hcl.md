@@ -38,7 +38,13 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 ## Ringkasan Satu Ayat
 
-Bromheksina HCL adalah agen mukolotik yang telah terbukti dan luas digunakan untuk meredakan batuk produktif yang berkaitan dengan keadaan pernafasan. Model TxGNN **tidak menghasilkan sebarang ramalan penggunaan semula** untuk ubat ini. Dengan **37 pendaftaran** di Malaysia yang mengesahkan ketersediaan pasaran yang luas, pengayaan data lanjut (pemetaan DrugBank, MOA, profil keselamatan) diperlukan sebelum analisis penggunaan semula dapat dilakukan.
+Bromheksina HCL adalah agen mukolotik yang telah terbukti dan luas digunakan untuk meredakan batuk produktif yang berkaitan dengan keadaan pernafasan. Model TxGNN **tidak menghasilkan sebarang ramalan penggunaan semula** untuk ubat ini. Dengan **38 pendaftaran** (36 sah) di Malaysia yang mengesahkan ketersediaan pasaran yang luas, pengayaan data lanjut (pemetaan DrugBank, MOA, profil keselamatan) diperlukan sebelum analisis penggunaan semula dapat dilakukan.
+
+<!-- review:begin my-lic-20261112-bromhexine_hcl-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Dengan **37 pendaftaran** di Malaysia" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 38 pendaftaran, 36 sah. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-bromhexine_hcl-1 -->
 
 ---
 
@@ -107,6 +113,18 @@ Tiada ramalan penggunaan semula TxGNN yang dihasilkan untuk Bromheksina HCL, kem
 - **Isi butiran lesen NPRA**: Pertanyaan semula pangkalan data NPRA untuk mendapatkan nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk 37 produk berdaftar
 - **Dapatkan profil keselamatan**: Muat turun dan analisis sisipan pakej (PIL) untuk amaran utama, kontraindikasi, dan interaksi ubat
 - **Jana semula pakej bukti**: Setelah jurang data di atas diisi, jalankan semula saluran penuh untuk menghasilkan penilaian penggunaan semula yang boleh ditindakkan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “Dengan **37 pendaftaran** di Malaysia” → “Dengan **38 pendaftaran** (36 sah) di Malaysia” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

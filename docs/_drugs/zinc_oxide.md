@@ -87,7 +87,13 @@ Setakat ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Senarai di bawah ialah lima lesen produk bahan tunggal zinc oxide. Jumlah keseluruhan ialah 280 lesen, dan teks indikasi diluluskan tidak tersedia dalam rekod.
+Senarai di bawah ialah lima lesen produk bahan tunggal zinc oxide. Jumlah keseluruhan ialah 314 lesen (304 sah), dan teks indikasi diluluskan tidak tersedia dalam rekod.
+
+<!-- review:begin my-lic-20261112-zinc_oxide-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Jumlah keseluruhan ialah 280 lesen" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 314 pendaftaran, 304 sah. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-zinc_oxide-1 -->
 
 | Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
@@ -120,6 +126,19 @@ Maklumat amaran utama, kontraindikasi berlabel dan interaksi ubat tidak ditemui 
 - Semakan sistematik literatur khusus untuk zinc oxide topikal dalam jerawat
 - Ujian klinikal terkawal untuk menilai keberkesanan dan keselamatan dalam jerawat
 - Pengesahan indikasi diluluskan sebenar produk tempatan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “Jumlah keseluruhan ialah 280 lesen” → “Jumlah keseluruhan ialah 314 lesen (304 sah)” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

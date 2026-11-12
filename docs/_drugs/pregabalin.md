@@ -87,7 +87,13 @@ Ketika ini tiada ujian klinikal berkaitan didaftarkan untuk tendinitis.
 
 ## Maklumat Pasaran di Malaysia
 
-Terdapat 63 pendaftaran produk pregabalin bahan tunggal yang sah di Malaysia. Teks indikasi lulus dan bentuk dosej tidak tersedia dalam data yang dihimpun. Lima contoh pendaftaran utama (produk asal Lyrica):
+Terdapat 64 pendaftaran produk pregabalin bahan tunggal yang sah di Malaysia. Teks indikasi lulus dan bentuk dosej tidak tersedia dalam data yang dihimpun. Lima contoh pendaftaran utama (produk asal Lyrica):
+
+<!-- review:begin my-lic-20261112-pregabalin-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Terdapat 63 pendaftaran produk pregabalin bahan tunggal yang sah" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 66 pendaftaran bahan tunggal, 64 sah. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-pregabalin-1 -->
 
 | Nombor Kebenaran | Nama Produk | Pengeluar |
 |---------|------|------|
@@ -125,6 +131,19 @@ Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia dalam data
 - Data mekanisme tindakan yang lebih lengkap dan sebarang bukti kesan pada tendon.
 - Sisipan pakej NPRA (amaran, kontraindikasi, indikasi lulus) untuk menilai keselamatan dan menyemak percanggahan kontraindikasi.
 - Pertimbangan ramalan lain yang mempunyai kajian lebih langsung, seperti migrain, sebagai soalan penyelidikan berasingan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “Terdapat 63 pendaftaran produk pregabalin bahan tunggal yang” → “Terdapat 64 pendaftaran produk pregabalin bahan tunggal yang sah” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

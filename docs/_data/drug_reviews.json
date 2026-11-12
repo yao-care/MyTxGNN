@@ -1569,6 +1569,26 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：5a37df06（2026-11-05）"
   },
   {
+   "id": "my-lic-20261112-iron-1",
+   "drug": "iron",
+   "file": "iron.md",
+   "action": "correct",
+   "claim": "Sebanyak 80 lesen direkodkan, kesemuanya sah (30",
+   "replacement": "Sebanyak 80 lesen direkodkan, 79 daripadanya sah dan 1 telah tamat tempoh (30",
+   "summary": "Bilangan pendaftaran: “Sebanyak 80 lesen direkodkan, kesemuanya sah (30” → “Sebanyak 80 lesen direkodkan, 79 daripadanya sah dan 1 telah tamat tempoh (30”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 80 pendaftaran, 79 sah, 1 tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫「全部有效」，證據包 1 張 Expired（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
    "id": "my-lic-20261105-isoflurane-1",
    "drug": "isoflurane",
    "file": "isoflurane.md",
@@ -3637,6 +3657,386 @@
    "checked": "2026-11-05",
    "summary": "Dipadam: \"dan produk ini tidak berdaftar di Malaysia\"",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：5a37df06（2026-11-05）"
+  },
+  {
+   "id": "my-lic-20261112-ambroxol_hydrochloride-1",
+   "drug": "ambroxol_hydrochloride",
+   "file": "ambroxol_hydrochloride.md",
+   "action": "correct",
+   "claim": "**20 pendaftaran** dengan NPRA Malaysia dan disahkan",
+   "replacement": "**22 pendaftaran** dengan NPRA Malaysia (21 sah) dan disahkan",
+   "summary": "Bilangan pendaftaran: “20 pendaftaran** dengan NPRA Malaysia dan disahkan” → “22 pendaftaran** dengan NPRA Malaysia (21 sah) dan disahkan”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 22 pendaftaran, 21 sah, 1 tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫 20 張，事實層 22 張（有效 21、過期 1），句子沒寫是有效或總數（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-apixaban-1",
+   "drug": "apixaban",
+   "file": "apixaban.md",
+   "action": "correct",
+   "claim": "dengan 25 lesen sah dan tiada lesen dibatalkan",
+   "replacement": "dengan 30 lesen sah dan tiada lesen dibatalkan",
+   "summary": "Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan 30 lesen sah dan tiada lesen dibatalkan”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 32 pendaftaran, 30 sah, 2 tanpa status dalam data NPRA, tiada yang dibatalkan. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫 25 張有效，事實層有效 30（另 2 張狀態不明、0 張註銷）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-atorvastatin_calcium_trihydrate-1",
+   "drug": "atorvastatin_calcium_trihydrate",
+   "file": "atorvastatin_calcium_trihydrate.md",
+   "action": "correct",
+   "claim": "**32 pendaftaran** dengan NPRA (Malaysia)",
+   "replacement": "**71 pendaftaran** (66 sah) dengan NPRA (Malaysia)",
+   "summary": "Bilangan pendaftaran: “32 pendaftaran** dengan NPRA (Malaysia)” → “71 pendaftaran** (66 sah) dengan NPRA (Malaysia)”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 71 pendaftaran, 66 sah. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫 32 張，事實層 71 張（有效 66、狀態不明 5）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-atorvastatin_calcium_trihydrate-2",
+   "drug": "atorvastatin_calcium_trihydrate",
+   "file": "atorvastatin_calcium_trihydrate.md",
+   "action": "correct",
+   "claim": "untuk 32 produk terdaftar",
+   "replacement": "untuk 71 produk terdaftar",
+   "summary": "Bilangan pendaftaran: “untuk 32 produk terdaftar” → “untuk 71 produk terdaftar”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 71 pendaftaran. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "待辦條目寫 32 個產品，事實層 71 張（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-bromhexine_hcl-1",
+   "drug": "bromhexine_hcl",
+   "file": "bromhexine_hcl.md",
+   "action": "correct",
+   "claim": "Dengan **37 pendaftaran** di Malaysia",
+   "replacement": "Dengan **38 pendaftaran** (36 sah) di Malaysia",
+   "summary": "Bilangan pendaftaran: “Dengan **37 pendaftaran** di Malaysia” → “Dengan **38 pendaftaran** (36 sah) di Malaysia”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 38 pendaftaran, 36 sah. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫 37 張，事實層 38 張（有效 36、狀態不明 2）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-budesonide-1",
+   "drug": "budesonide",
+   "file": "budesonide.md",
+   "action": "correct",
+   "claim": "Terdapat 34 lesen, semuanya sah (25 produk bahan tunggal dan 9 produk kombinasi).",
+   "replacement": "Terdapat 35 lesen, semuanya sah (25 produk bahan tunggal dan 10 produk kombinasi).",
+   "summary": "Bilangan pendaftaran: “Terdapat 34 lesen, semuanya sah (25 produk bahan tunggal dan” → “Terdapat 35 lesen, semuanya sah (25 produk bahan tunggal dan 10 produk kombinasi”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 35 pendaftaran, semuanya sah; 25 bahan tunggal, 10 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫 34 張（複方 9），事實層與證據包 35 張全有效（單方 25、複方 10）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-ciprofloxacin-1",
+   "drug": "ciprofloxacin",
+   "file": "ciprofloxacin.md",
+   "action": "correct",
+   "claim": "terdapat 42 lesen berdaftar, semuanya sah (41 produk",
+   "replacement": "terdapat 42 lesen berdaftar, 41 daripadanya sah dan 1 telah tamat tempoh (41 produk",
+   "summary": "Bilangan pendaftaran: “terdapat 42 lesen berdaftar, semuanya sah (41 produk” → “terdapat 42 lesen berdaftar, 41 daripadanya sah dan 1 telah tamat tempoh (41 pro”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 42 pendaftaran, 41 sah, 1 tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫「全部有效」，證據包 1 張 Expired（not in current NPRA register）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-clarithromycin-1",
+   "drug": "clarithromycin",
+   "file": "clarithromycin.md",
+   "action": "correct",
+   "claim": "Terdapat 28 lesen, semuanya sah (27 produk bahan tunggal dan 1 produk kombinasi).",
+   "replacement": "Terdapat 29 lesen, semuanya sah (28 produk bahan tunggal dan 1 produk kombinasi).",
+   "summary": "Bilangan pendaftaran: “Terdapat 28 lesen, semuanya sah (27 produk bahan tunggal dan” → “Terdapat 29 lesen, semuanya sah (28 produk bahan tunggal dan 1 produk kombinasi)”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 29 pendaftaran, semuanya sah; 28 bahan tunggal, 1 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫 28 張（單方 27），事實層與證據包 29 張全有效（單方 28、複方 1）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-clotrimazole-1",
+   "drug": "clotrimazole",
+   "file": "clotrimazole.md",
+   "action": "correct",
+   "claim": "Sebanyak 64 lesen berdaftar dan semuanya sah (51 produk bahan tunggal, 13 produk kombinasi).",
+   "replacement": "Sebanyak 67 lesen berdaftar; 65 daripadanya sah, 1 telah tamat tempoh dan 1 tidak mempunyai status dalam data NPRA (54 produk bahan tunggal, 13 produk kombinasi).",
+   "summary": "Bilangan pendaftaran: “Sebanyak 64 lesen berdaftar dan semuanya sah (51 produk baha” → “Sebanyak 67 lesen berdaftar; 65 daripadanya sah, 1 telah tamat tempoh dan 1 tida”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 67 pendaftaran, 65 sah, 1 tamat tempoh, 1 tanpa status; 54 bahan tunggal, 13 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫 64 張全有效（單方 51），事實層 67 張（有效 65、過期 1、狀態不明 1；單方 54、複方 13）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-cyanocobalamin-1",
+   "drug": "cyanocobalamin",
+   "file": "cyanocobalamin.md",
+   "action": "correct",
+   "claim": "Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi",
+   "replacement": "Jumlah pendaftaran ialah 486 (472 sah), termasuk 472 produk kombinasi",
+   "summary": "Bilangan pendaftaran: “Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi” → “Jumlah pendaftaran ialah 486 (472 sah), termasuk 472 produk kombinasi”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 486 pendaftaran, 472 sah; 14 bahan tunggal, 472 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫 428 張（複方 415），事實層 486 張（有效 472；單方 14、複方 472）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-ketoconazole-1",
+   "drug": "ketoconazole",
+   "file": "ketoconazole.md",
+   "action": "correct",
+   "claim": "Ketoconazole mempunyai 33 lesen berdaftar, semuanya sah (31",
+   "replacement": "Ketoconazole mempunyai 33 lesen berdaftar, 32 daripadanya sah dan 1 telah tamat tempoh (31",
+   "summary": "Bilangan pendaftaran: “Ketoconazole mempunyai 33 lesen berdaftar, semuanya sah (31” → “Ketoconazole mempunyai 33 lesen berdaftar, 32 daripadanya sah dan 1 telah tamat ”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 33 pendaftaran, 32 sah, 1 tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫「全部有效」，證據包 1 張 Expired（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-levodopa-1",
+   "drug": "levodopa",
+   "file": "levodopa.md",
+   "action": "correct",
+   "claim": "Kesemua 15 pendaftaran yang sah ialah produk kombinasi",
+   "replacement": "Kesemua 15 pendaftaran (14 sah) ialah produk kombinasi",
+   "summary": "Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Kesemua 15 pendaftaran (14 sah) ialah produk kombinasi”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 15 pendaftaran, semuanya kombinasi; 14 sah, 1 tanpa status. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫 15 張「有效的」都是複方，事實層 15 張中有效 14（1 張狀態不明），全是複方（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-methionine-1",
+   "drug": "methionine",
+   "file": "methionine.md",
+   "action": "correct",
+   "claim": "Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi).",
+   "replacement": "Sebanyak 161 pendaftaran dikesan (5 bahan tunggal, 156 kombinasi; 149 sah).",
+   "summary": "Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombi” → “Sebanyak 161 pendaftaran dikesan (5 bahan tunggal, 156 kombinasi; 149 sah).”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 161 pendaftaran, 149 sah; 5 bahan tunggal, 156 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫 156 張（複方 151），事實層 161 張（有效 149；單方 5、複方 156）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-pregabalin-1",
+   "drug": "pregabalin",
+   "file": "pregabalin.md",
+   "action": "correct",
+   "claim": "Terdapat 63 pendaftaran produk pregabalin bahan tunggal yang sah",
+   "replacement": "Terdapat 64 pendaftaran produk pregabalin bahan tunggal yang sah",
+   "summary": "Bilangan pendaftaran: “Terdapat 63 pendaftaran produk pregabalin bahan tunggal yang” → “Terdapat 64 pendaftaran produk pregabalin bahan tunggal yang sah”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 66 pendaftaran bahan tunggal, 64 sah. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫單方有效 63，事實層單方有效 64（單方共 66，2 張狀態不明）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-tadalafil-1",
+   "drug": "tadalafil",
+   "file": "tadalafil.md",
+   "action": "correct",
+   "claim": "Terdapat 23 pendaftaran sah, semuanya produk bahan tunggal.",
+   "replacement": "Terdapat 27 pendaftaran sah: 25 produk bahan tunggal dan 2 produk kombinasi.",
+   "summary": "Bilangan pendaftaran: “Terdapat 23 pendaftaran sah, semuanya produk bahan tunggal.” → “Terdapat 27 pendaftaran sah: 25 produk bahan tunggal dan 2 produk kombinasi.”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 29 pendaftaran, 27 sah (25 bahan tunggal, 2 kombinasi). Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫 23 張有效、全是單方，事實層有效 27（單方 25、複方 2）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-trastuzumab-1",
+   "drug": "trastuzumab",
+   "file": "trastuzumab.md",
+   "action": "correct",
+   "claim": "(data menunjukkan 0 pendaftaran)",
+   "replacement": "(data menunjukkan 14 pendaftaran, 13 daripadanya sah)",
+   "summary": "Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan 14 pendaftaran, 13 daripadanya sah)”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 14 pendaftaran, 13 sah. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "待辦條目寫資料顯示 0 張，事實層 14 張（有效 13）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-vitamin_e-1",
+   "drug": "vitamin_e",
+   "file": "vitamin_e.md",
+   "action": "correct",
+   "claim": "Vitamin E didaftarkan dalam 245 produk (semuanya sah).",
+   "replacement": "Vitamin E didaftarkan dalam 251 produk (231 sah, 19 telah tamat tempoh atau dibatalkan, 1 tidak mempunyai status dalam data NPRA).",
+   "summary": "Bilangan pendaftaran: “Vitamin E didaftarkan dalam 245 produk (semuanya sah).” → “Vitamin E didaftarkan dalam 251 produk (231 sah, 19 telah tamat tempoh atau diba”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 251 pendaftaran: 231 sah, 19 tamat tempoh atau dibatalkan, 1 tanpa status. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫 245 張全有效，事實層 251 張（有效 231、過期 18＋註銷 1、狀態不明 1）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-vitamin_e-2",
+   "drug": "vitamin_e",
+   "file": "vitamin_e.md",
+   "action": "correct",
+   "claim": "36 ialah produk bahan tunggal dan 209 ialah produk kombinasi",
+   "replacement": "36 ialah produk bahan tunggal dan 215 ialah produk kombinasi",
+   "summary": "Bilangan pendaftaran: “36 ialah produk bahan tunggal dan 209 ialah produk kombinasi” → “36 ialah produk bahan tunggal dan 215 ialah produk kombinasi”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 36 bahan tunggal, 215 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫複方 209，事實層 251 張中單方 36、複方 215（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+  },
+  {
+   "id": "my-lic-20261112-zinc_oxide-1",
+   "drug": "zinc_oxide",
+   "file": "zinc_oxide.md",
+   "action": "correct",
+   "claim": "Jumlah keseluruhan ialah 280 lesen",
+   "replacement": "Jumlah keseluruhan ialah 314 lesen (304 sah)",
+   "summary": "Bilangan pendaftaran: “Jumlah keseluruhan ialah 280 lesen” → “Jumlah keseluruhan ialah 314 lesen (304 sah)”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 314 pendaftaran, 304 sah. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫 280 張，事實層 314 張（有效 304）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-09"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
   }
  ]
 }

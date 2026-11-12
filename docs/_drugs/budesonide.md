@@ -82,7 +82,13 @@ Literatur berikut paling hampir dengan topik, tetapi tiada satu pun yang menunju
 
 ## Maklumat Pasaran di Malaysia
 
-Terdapat 34 lesen, semuanya sah (25 produk bahan tunggal dan 9 produk kombinasi). Jadual berikut menyenaraikan lima lesen bahan tunggal sahaja. Teks indikasi yang diluluskan dan bentuk dos tidak direkodkan dalam data tempatan.
+Terdapat 35 lesen, semuanya sah (25 produk bahan tunggal dan 10 produk kombinasi). Jadual berikut menyenaraikan lima lesen bahan tunggal sahaja. Teks indikasi yang diluluskan dan bentuk dos tidak direkodkan dalam data tempatan.
+
+<!-- review:begin my-lic-20261112-budesonide-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Terdapat 34 lesen, semuanya sah (25 produk bahan tunggal dan 9 produk kombinasi)." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 35 pendaftaran, semuanya sah; 25 bahan tunggal, 10 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-budesonide-1 -->
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
@@ -112,6 +118,19 @@ Ramalan ini mempunyai skor model yang tinggi dan rasional farmakologi yang munas
 - Data mekanisme tindakan terperinci
 - Amaran dan kontraindikasi daripada sisipan pek NPRA
 - Pengesahan formulasi dan laluan pemberian topikal yang sesuai
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “Terdapat 34 lesen, semuanya sah (25 produk bahan tunggal dan” → “Terdapat 35 lesen, semuanya sah (25 produk bahan tunggal dan 10 produk kombinasi” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

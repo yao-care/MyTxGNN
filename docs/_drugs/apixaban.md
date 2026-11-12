@@ -76,7 +76,13 @@ Namun, laporan kes yang ada bercanggah dengan hipotesis ini: satu melaporkan mig
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **dipasarkan**, dengan 25 lesen sah dan tiada lesen dibatalkan. Butiran setiap lesen tidak disenaraikan dalam data yang ada.
+Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **dipasarkan**, dengan 30 lesen sah dan tiada lesen dibatalkan. Butiran setiap lesen tidak disenaraikan dalam data yang ada.
+
+<!-- review:begin my-lic-20261112-apixaban-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "dengan 25 lesen sah dan tiada lesen dibatalkan" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 32 pendaftaran, 30 sah, 2 tanpa status dalam data NPRA, tiada yang dibatalkan. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-apixaban-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -100,6 +106,18 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 - Amaran dan kontraindikasi daripada risalah maklumat produk yang diluluskan.
 - Pengesahan teks penuh kajian retrospektif (PMID 33402037) untuk menentukan sama ada apixaban terlibat.
 - Bukti klinikal yang secara langsung mengkaji apixaban dalam migrain, jika hipotesis ini hendak diteruskan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan 30 lesen sah dan tiada lesen dibatalkan” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

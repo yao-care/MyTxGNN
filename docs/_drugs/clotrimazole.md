@@ -82,7 +82,13 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran di Malaysia
 
-Sebanyak 64 lesen berdaftar dan semuanya sah (51 produk bahan tunggal, 13 produk kombinasi). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Antara lesen utama:
+Sebanyak 67 lesen berdaftar; 65 daripadanya sah, 1 telah tamat tempoh dan 1 tidak mempunyai status dalam data NPRA (54 produk bahan tunggal, 13 produk kombinasi). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Antara lesen utama:
+
+<!-- review:begin my-lic-20261112-clotrimazole-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Sebanyak 64 lesen berdaftar dan semuanya sah (51 produk bahan tunggal, 13 produk kombinasi)." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 67 pendaftaran, 65 sah, 1 tamat tempoh, 1 tanpa status; 54 bahan tunggal, 13 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-clotrimazole-1 -->
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
@@ -115,6 +121,18 @@ Tiada percubaan atau penerbitan yang mengkaji clotrimazole secara langsung untuk
 - Muat turun dan semakan sisipan pek NPRA untuk amaran dan kontraindikasi
 - Kajian pra-klinikal atau klinikal yang mengkaji clotrimazole secara langsung untuk jerawat
 - Penilaian kesesuaian laluan pentadbiran (topikal) dan formulasi
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “Sebanyak 64 lesen berdaftar dan semuanya sah (51 produk baha” → “Sebanyak 67 lesen berdaftar; 65 daripadanya sah, 1 telah tamat tempoh dan 1 tida” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

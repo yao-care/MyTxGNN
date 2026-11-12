@@ -64,7 +64,6 @@ Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. 
 
 Sebahagian besar kanser payudara positif PR juga HER2-positif (penyakit HR+/HER2+). Manfaat trastuzumab datang daripada sekatan HER2, bukan status PR. Dalam subkumpulan ini, ia digabungkan dengan kemoterapi dan terapi endokrin. Oleh itu, ini ialah lanjutan dalam indikasi kanser payudara HER2-positif yang telah diluluskan.
 
-
 ---
 
 ## Bukti Ujian Klinikal
@@ -126,8 +125,14 @@ Kardiotoksisiti berkaitan trastuzumab juga dibincangkan dalam literatur yang dip
 - Penggunaan terhad kepada pesakit HER2-positif yang disahkan; kanser PR-positif/HER2-negatif dan triple-negatif bukan sasaran yang sah
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang)
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
-- Pengesahan status pendaftaran di Malaysia (data menunjukkan 0 pendaftaran)
+- Pengesahan status pendaftaran di Malaysia (data menunjukkan 14 pendaftaran, 13 daripadanya sah)
 - Pelan pemantauan jantung dan semakan interaksi ubat
+
+<!-- review:begin my-lic-20261112-trastuzumab-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "(data menunjukkan 0 pendaftaran)" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 14 pendaftaran, 13 sah. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-trastuzumab-1 -->
 
 ---
 
@@ -141,6 +146,18 @@ Kardiotoksisiti berkaitan trastuzumab juga dibincangkan dalam literatur yang dip
 | Tumor neuroendokrin telinga tengah | 0.9944 | L5 | Hold | Ramalan model sahaja |
 | Karsinoma sel peralihan sarkomatoid pelvis buah pinggang | 0.9904 | L5 | Hold | HER2 diekspres dalam sebahagian karsinoma uroteli; rasional munasabah tetapi belum diuji |
 | Karsinoma uroteli uretra prostat | 0.9904 | L5 | Hold | Rasional munasabah tetapi belum disahkan |
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan 14 pendaftaran, 13 daripadanya sah)” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

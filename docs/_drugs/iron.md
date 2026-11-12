@@ -79,13 +79,19 @@ Setakat ini tiada literatur berkaitan yang tersedia untuk indikasi yang diramalk
 
 ## Maklumat Pasaran di Malaysia
 
-Status pasaran: dipasarkan. Sebanyak 80 lesen direkodkan, kesemuanya sah (30 produk bahan tunggal dan 50 produk gabungan). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Senarai lima lesen bahan tunggal utama:
+Status pasaran: dipasarkan. Sebanyak 80 lesen direkodkan, 79 daripadanya sah dan 1 telah tamat tempoh (30 produk bahan tunggal dan 50 produk gabungan). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Senarai lima lesen bahan tunggal utama:
 
 <!-- review:begin my-lic-20261105-iron-1 -->
 
 > **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Tiada lesen dibatalkan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 80 pendaftaran (sah: 79); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-iron-1 -->
+
+<!-- review:begin my-lic-20261112-iron-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Sebanyak 80 lesen direkodkan, kesemuanya sah (30" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 80 pendaftaran, 79 sah, 1 tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-iron-1 -->
 
 | Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
@@ -128,6 +134,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Tiada lesen dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-12 | Bilangan pendaftaran: “Sebanyak 80 lesen direkodkan, kesemuanya sah (30” → “Sebanyak 80 lesen direkodkan, 79 daripadanya sah dan 1 telah tamat tempoh (30” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

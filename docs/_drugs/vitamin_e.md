@@ -70,7 +70,19 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-Vitamin E didaftarkan dalam 245 produk (semuanya sah). Daripada jumlah itu, 36 ialah produk bahan tunggal dan 209 ialah produk kombinasi. Teks indikasi diluluskan dan bentuk dos tidak direkodkan, jadi lajur tersebut tidak disenaraikan. Berikut ialah 5 contoh produk bahan tunggal:
+Vitamin E didaftarkan dalam 251 produk (231 sah, 19 telah tamat tempoh atau dibatalkan, 1 tidak mempunyai status dalam data NPRA). Daripada jumlah itu, 36 ialah produk bahan tunggal dan 215 ialah produk kombinasi. Teks indikasi diluluskan dan bentuk dos tidak direkodkan, jadi lajur tersebut tidak disenaraikan. Berikut ialah 5 contoh produk bahan tunggal:
+
+<!-- review:begin my-lic-20261112-vitamin_e-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Vitamin E didaftarkan dalam 245 produk (semuanya sah)." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 251 pendaftaran: 231 sah, 19 tamat tempoh atau dibatalkan, 1 tanpa status. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-vitamin_e-1 -->
+
+<!-- review:begin my-lic-20261112-vitamin_e-2 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "36 ialah produk bahan tunggal dan 209 ialah produk kombinasi" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 36 bahan tunggal, 215 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-vitamin_e-2 -->
 
 | Nombor Kelulusan | Nama Produk | Pengilang |
 |---------|------|------|
@@ -101,6 +113,20 @@ Sila rujuk sisipan pakej untuk amaran dan kontraindikasi.
 - Data mekanisme tindakan (contohnya daripada DrugBank).
 - Kajian atau ujian klinikal yang menilai vitamin E secara langsung dalam gangguan metabolisme bilirubin atau kolestasis.
 - Penilaian risiko interaksi dengan antikoagulan/antiplatelet sebelum sebarang kajian lanjut.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “Vitamin E didaftarkan dalam 245 produk (semuanya sah).” → “Vitamin E didaftarkan dalam 251 produk (231 sah, 19 telah tamat tempoh atau diba” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-12 | Bilangan pendaftaran: “36 ialah produk bahan tunggal dan 209 ialah produk kombinasi” → “36 ialah produk bahan tunggal dan 215 ialah produk kombinasi” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

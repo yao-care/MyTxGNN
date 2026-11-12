@@ -522,4 +522,4 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 程式改寫的張數不逐筆寫查核紀錄、頁面不加說明框（同 Tw）；查核紀錄 replacement／anchor 所在的句子不改。`apply_drug_reviews.py`（非 --check）結尾與 `build_license_snapshot.py` 寫完快照後都會跑，
 所以每週排程、license_rebuild_run、sync_notes_to_docs 之後張數會跟著事實層更新；gate 第 22 項擋「再跑一次會變」。
 判斷不了的句子（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上）不改，`--list` 列出，2026-11-12 已用 `--uncertain` 加進待查清單（source：正文許可證張數程式改寫判斷不了的句子），要改請寫查核紀錄。
-
+2026-11-12 待查清單裡程式判斷不了的 20 句（18 頁）已逐句對照事實層與證據包 npra.records，以 `my-lic-20261112-*` 改寫（「全部有效」而實際有 Expired 的改成「N daripadanya sah dan 1 telah tamat tempoh」；張數照事實層；單方／複方張數照證據包成分，與事實層一致），待查清單標 resolved。trastuzumab 證據包 18 張、事實層 14 張，照事實層寫。

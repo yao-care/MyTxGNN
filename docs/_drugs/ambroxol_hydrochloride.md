@@ -80,7 +80,13 @@ Pada masa ini tiada kesusasteraan yang berkaitan tersedia dalam Evidence Pack in
 
 ## Maklumat Pasaran Malaysia
 
-Ubat ini memegang **20 pendaftaran** dengan NPRA Malaysia dan disahkan sebagai dipasarkan secara aktif. Walau bagaimanapun, butiran pendaftaran individu (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diisi dalam set data semasa.
+Ubat ini memegang **22 pendaftaran** dengan NPRA Malaysia (21 sah) dan disahkan sebagai dipasarkan secara aktif. Walau bagaimanapun, butiran pendaftaran individu (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diisi dalam set data semasa.
+
+<!-- review:begin my-lic-20261112-ambroxol_hydrochloride-1 -->
+
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "**20 pendaftaran** dengan NPRA Malaysia dan disahkan" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 22 pendaftaran, 21 sah, 1 tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261112-ambroxol_hydrochloride-1 -->
 
 | Item | Status |
 |------|--------|
@@ -114,6 +120,18 @@ Saluran ramalan TxGNN belum menghasilkan keluaran untuk kandidat ini, dan dua ju
 - **[Tinggi]** Pertanyakan API DrugBank untuk Ambroxol Hydrochloride untuk mengisi `drugbank_id`, MOA, kategori, dan data ketoksikan (DG002)
 - **[Sederhana]** Pertanyakan semula NPRA dengan nombor lesen individu untuk mengisi nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk 20 produk berdaftar
 - Setelah di atas diselesaikan, jalankan semula penjanaan Evidence Pack (versi sasaran v5) dan teruskan dengan penilaian S1–S3 yang lengkap
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-12 | Bilangan pendaftaran: “20 pendaftaran** dengan NPRA Malaysia dan disahkan” → “22 pendaftaran** dengan NPRA Malaysia (21 sah) dan disahkan” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 
