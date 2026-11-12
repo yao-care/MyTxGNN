@@ -48,8 +48,8 @@ Asid askorbik (vitamin C) ialah nutrien penting yang larut dalam air dan bertind
 | Indikasi Baharu yang Diramalkan | Malformasi esofagus tidak sindromik (non-syndromic esophageal malformation) |
 | Skor Ramalan TxGNN | 0.9996 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1197 daripada 1245; status tidak dapat disahkan: 2) |
-| Bilangan Pendaftaran | 1245 (sah: 1197; status tidak dapat disahkan: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1199 daripada 1245; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 1245 (sah: 1199; status tidak dapat disahkan: 2) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -68,7 +68,7 @@ Buat masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan untuk laporan ini menunjukkan asid askorbik **dipasarkan** di Malaysia. Daripada 1,245 pendaftaran, 1,197 masih sah dan 46 telah dibatalkan. Butiran setiap pendaftaran (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun untuk laporan ini.
+Data yang dikumpulkan untuk laporan ini menunjukkan asid askorbik **dipasarkan** di Malaysia. Daripada 1,245 pendaftaran, 1,199 masih sah dan 44 telah dibatalkan. Butiran setiap pendaftaran (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 

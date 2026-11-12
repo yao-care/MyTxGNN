@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 627
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-13
 description: "Rituximab: kegunaan diketahui dan status pasaran di Malaysia; ketika ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Model TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih untuk 
 | Indikasi baharu yang diramalkan | Tiada (tiada calon model dengan skor 0.99 atau lebih) |
 | Kegunaan yang direkodkan untuk ubat ini | 14 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
-| Bilangan Pendaftaran | 9 (sah: 9) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 9; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 9 (sah: 7; status tidak dapat disahkan: 2) |
 
 ## Kegunaan yang direkodkan untuk ubat ini
 
@@ -87,8 +87,8 @@ Model TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih untuk 
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|
 | MAL16065058ARZ | MABTHERA 1400MG SOLUTION FOR SUBCUTANEOUS INJECTION |  | Sah |
-| MAL20020817ARSZ | MABTHERA VIALS 500MG/50ML |  | Sah |
-| MAL20020816ARSZ | MABTHERA VIALS 100MG/10ML |  | Sah |
+| MAL20020817ARSZ | MABTHERA VIALS 500MG/50ML |  | Status unknown (registration number not found in either NPRA dataset, not yet past its end date) |
+| MAL20020816ARSZ | MABTHERA VIALS 100MG/10ML |  | Status unknown (registration number not found in either NPRA dataset, not yet past its end date) |
 | MAL22076008AZ | Rixathon Concentrate for Solution for Infusion 500mg/50ml |  | Sah |
 | MAL22076007AZ | Rixathon Concentrate for Solution for Infusion 100mg/10ml |  | Sah |
 | MAL18086131AZ | Truxima(rituximab) 10mg/ml Concentrate for Solution for Infu |  | Sah |

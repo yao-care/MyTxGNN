@@ -48,8 +48,8 @@ Vitamin E ialah vitamin larut lemak dan antioksidan yang didaftarkan di Malaysia
 | Indikasi Baharu yang Diramalkan | Inborn disorder of bilirubin metabolism |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 231 daripada 251; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 251 (sah: 231; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 230 daripada 251; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 251 (sah: 230; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

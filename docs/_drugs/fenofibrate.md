@@ -50,8 +50,8 @@ Fenofibrate ialah agonis PPAR-alfa yang pada asalnya direkodkan dalam graf penge
 | Indikasi Baharu yang Diramalkan | Kekurangan protein pemindahan ester kolesterol (CETP deficiency) |
 | Skor Ramalan TxGNN | 0.9961 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
-| Bilangan Pendaftaran | 14 (sah: 14) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 13 daripada 14; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 14 (sah: 13; status tidak dapat disahkan: 1) |
 | Bilangan Kelulusan | 13 pendaftaran (10 produk tunggal, 3 produk gabungan) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 

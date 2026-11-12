@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 496 daripada 513; status tidak dapat disahkan: 3) |
-| Bilangan Pendaftaran | 513 (sah: 496; status tidak dapat disahkan: 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 494 daripada 513; status tidak dapat disahkan: 3) |
+| Bilangan Pendaftaran | 513 (sah: 494; status tidak dapat disahkan: 3) |
 | **Nama Ubat** | Riboflavin |
 | **ID DrugBank** | [DB00140](https://go.drugbank.com/drugs/DB00140) |
 | **Ramalan DL (≥0.7)** | 0 |

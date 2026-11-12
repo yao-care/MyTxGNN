@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 522
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-13
 description: "Netarsudil: kegunaan sedia ada dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Model TxGNN (skor ≥ 0.99) menghasilkan calon untuk Netarsudil, tetapi semua ca
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejaki ialah kegunaan sedia ada) |
 | Kegunaan sedia ada dalam kalangan calon model | 2 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 3; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 3 (sah: 2; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 3; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 3 (sah: 1; status tidak dapat disahkan: 2) |
 
 ## Kegunaan sedia ada dalam kalangan calon model
 
@@ -75,7 +75,7 @@ Model TxGNN (skor ≥ 0.99) menghasilkan calon untuk Netarsudil, tetapi semua ca
 | No. pendaftaran | Produk | Bentuk dos | Status |
 |------|------|------|------|
 | MAL25046004ACZ | Rhopressa (netarsudil ophthalmic solution) 0.02% |  | Status tidak dapat disahkan |
-| MAL25046005ACZ | Rocklatan (netarsudil and latanoprost ophthalmic solution) 0 |  | Sah |
+| MAL25046005ACZ | Rocklatan (netarsudil and latanoprost ophthalmic solution) 0 |  | Status unknown (registration number not found in either NPRA dataset, not yet past its end date) |
 
 ## Pertimbangan Keselamatan
 

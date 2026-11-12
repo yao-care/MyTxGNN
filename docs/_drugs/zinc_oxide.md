@@ -87,7 +87,7 @@ Setakat ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Senarai di bawah ialah lima lesen produk bahan tunggal zinc oxide. Jumlah keseluruhan ialah 314 lesen (304 sah), dan teks indikasi diluluskan tidak tersedia dalam rekod.
+Senarai di bawah ialah lima lesen produk bahan tunggal zinc oxide. Terdapat 304 lesen sah daripada jumlah keseluruhan 314, dan teks indikasi diluluskan tidak tersedia dalam rekod.
 
 <!-- review:begin my-lic-20261112-zinc_oxide-1 -->
 
@@ -135,7 +135,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “Jumlah keseluruhan ialah 280 lesen” → “Jumlah keseluruhan ialah 314 lesen (304 sah)” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-12 | Bilangan pendaftaran: “Jumlah keseluruhan ialah 280 lesen” → “Terdapat 304 lesen sah daripada jumlah keseluruhan 314” | Dibetulkan (disemak 2026-11-13; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

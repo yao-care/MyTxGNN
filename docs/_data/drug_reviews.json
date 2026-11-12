@@ -4024,8 +4024,8 @@
    "file": "zinc_oxide.md",
    "action": "correct",
    "claim": "Jumlah keseluruhan ialah 280 lesen",
-   "replacement": "Jumlah keseluruhan ialah 314 lesen (304 sah)",
-   "summary": "Bilangan pendaftaran: “Jumlah keseluruhan ialah 280 lesen” → “Jumlah keseluruhan ialah 314 lesen (304 sah)”",
+   "replacement": "Terdapat 304 lesen sah daripada jumlah keseluruhan 314",
+   "summary": "Bilangan pendaftaran: “Jumlah keseluruhan ialah 280 lesen” → “Terdapat 304 lesen sah daripada jumlah keseluruhan 314”",
    "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 314 pendaftaran, 304 sah. Angka semasa terdapat dalam Gambaran Ringkas.",
    "finding": "正文寫 280 張，事實層 314 張（有效 304）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
    "sources": [
@@ -4036,7 +4036,31 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
+   "history": [
+    {
+     "id": "my-lic-20261112-zinc_oxide-1",
+     "drug": "zinc_oxide",
+     "file": "zinc_oxide.md",
+     "action": "correct",
+     "claim": "Jumlah keseluruhan ialah 280 lesen",
+     "replacement": "Jumlah keseluruhan ialah 314 lesen (304 sah)",
+     "summary": "Bilangan pendaftaran: “Jumlah keseluruhan ialah 280 lesen” → “Jumlah keseluruhan ialah 314 lesen (304 sah)”",
+     "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 314 pendaftaran, 304 sah. Angka semasa terdapat dalam Gambaran Ringkas.",
+     "finding": "正文寫 280 張，事實層 314 張（有效 304）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+     "sources": [
+      {
+       "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+       "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+       "accessed": "2026-11-09"
+      }
+     ],
+     "checked": "2026-11-12",
+     "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
+     "retired": "2026-11-13",
+     "reason": "改寫更正文字：「314 lesen (304 sah)」數字正確，但檢查器把「314 lesen … sah」讀成 314 張有效；改成明寫有效張數與總數"
+    }
+   ]
   }
  ]
 }

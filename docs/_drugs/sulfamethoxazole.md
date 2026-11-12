@@ -52,8 +52,8 @@ tetapi setakat ini hanya terdapat **0 percubaan klinikal** dan **1 penerbitan** 
 | Indikasi Baharu yang Diramalkan | Konjunktivitis berjangkit akut (acute contagious conjunctivitis) |
 | Skor Ramalan TxGNN | 0.9963 |
 | Tahap Bukti | L5 (ramalan model dengan kajian kohort sokongan yang terhad; sistem pemarkahan dalaman menyenaraikan L4) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 15) |
-| Bilangan Pendaftaran | 15 (sah: 14) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 15) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---

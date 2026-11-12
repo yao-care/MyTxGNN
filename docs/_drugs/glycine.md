@@ -50,8 +50,8 @@ Glycine ialah asid amino yang dikaitkan dengan keadaan seperti rinitis alergi, r
 | Indikasi Baharu yang Diramalkan | Penyakit rongga hidung |
 | Skor Ramalan TxGNN | 0.9985 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 204 daripada 213) |
-| Bilangan Pendaftaran | 213 (sah: 204) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 205 daripada 213) |
+| Bilangan Pendaftaran | 213 (sah: 205) |
 | Bilangan Kelulusan | 209 pendaftaran (16 produk bahan tunggal, 193 produk kombinasi) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 

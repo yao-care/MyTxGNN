@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **keratokonjunktivitis epiteliu
 | Indikasi Baharu yang Diramalkan | Keratokonjunktivitis epitelium berpunktat |
 | Skor Ramalan TxGNN | 0.9957 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 69 daripada 70) |
-| Bilangan Pendaftaran | 70 (sah: 69) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 70 daripada 70) |
+| Bilangan Pendaftaran | 70 (sah: 70) |
 | Bilangan Kelulusan | Sekurang-kurangnya 70 lesen yang sah, semuanya produk kombinasi; tiada produk bahan tunggal |
 | Keputusan yang Disyorkan | Hold |
 

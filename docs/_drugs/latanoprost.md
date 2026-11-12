@@ -50,8 +50,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Visceral calciphylaxis |
 | Skor Ramalan TxGNN | 0.9983 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 17 daripada 17) |
-| Bilangan Pendaftaran | 17 (sah: 17) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 17; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 17 (sah: 16; status tidak dapat disahkan: 1) |
 | Keputusan yang Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?

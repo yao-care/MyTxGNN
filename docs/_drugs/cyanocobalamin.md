@@ -51,8 +51,8 @@ Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **penya
 | Indikasi Baharu yang Diramalkan | Penyakit metabolik biotin |
 | Skor Ramalan TxGNN | 0.9960 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 472 daripada 486; status tidak dapat disahkan: 3) |
-| Bilangan Pendaftaran | 486 (sah: 472; status tidak dapat disahkan: 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 470 daripada 486; status tidak dapat disahkan: 3) |
+| Bilangan Pendaftaran | 486 (sah: 470; status tidak dapat disahkan: 3) |
 | Bilangan Kelulusan | Sekurang-kurangnya 428 pendaftaran (13 produk bahan tunggal, 415 produk kombinasi) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 

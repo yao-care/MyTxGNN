@@ -52,8 +52,8 @@ Ramalan ini masih pada tahap model semata-mata dan bimbang tentang keselamatan, 
 | Indikasi Baharu yang Diramalkan | Anemia pramatang (anemia of prematurity) |
 | Skor Ramalan TxGNN | 0.9994 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 145 daripada 152) |
-| Bilangan Pendaftaran | 152 (sah: 145) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 146 daripada 152) |
+| Bilangan Pendaftaran | 152 (sah: 146) |
 | Keputusan Disyorkan | Hold |
 
 ---

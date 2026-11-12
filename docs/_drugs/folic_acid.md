@@ -48,8 +48,8 @@ Asid folik ialah vitamin B yang digunakan untuk merawat kekurangan vitamin dan b
 | Indikasi Baharu yang Diramalkan | Biotin metabolic disease |
 | Skor Ramalan TxGNN | 0.9949 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 529 daripada 540; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 540 (sah: 529; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 527 daripada 540; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 540 (sah: 527; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
