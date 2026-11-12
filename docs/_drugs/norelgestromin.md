@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 532
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "NORELGESTROMIN"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Norelgestromin: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -90,12 +90,31 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 **Rasional:**
 Ramalan hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur sokongan. Ubat ini juga terdapat senarai panjang kontraindikasi daripada graf pengetahuan yang perlu disahkan.
 
+<!-- review:begin my-lic-20261105-norelgestromin-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ubat ini juga tidak didaftarkan di Malaysia, dan terdapat senarai panjang kontraindikasi daripada graf pengetahuan yang perlu disahkan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 1 pendaftaran (sah: 1); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-norelgestromin-1 -->
+
 **Untuk meneruskan, perlu dilengkapkan:**
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
 - Penjelasan arah kesan (rawatan amenorea berbanding amenorea sebagai kesan sampingan)
 - Bukti klinikal dan literatur yang menyokong penggunaan dalam amenorea
 - Penilaian keserasian laluan pemberian dan formulasi (tampalan transdermal gabungan berbanding agen tunggal)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "tidak didaftarkan di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

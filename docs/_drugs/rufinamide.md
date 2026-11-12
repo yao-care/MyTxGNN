@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 634
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "RUFINAMIDE"
 predicted_indications: ["perioral myoclonia with absences"]
 description: "Rufinamide: indikasi baharu diramal Perioral myoclonia with absences (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -93,12 +93,31 @@ Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia; sila ruju
 **Rasional:**
 - Ramalan ini hanya berasaskan model (L5) tanpa ujian klinikal atau literatur yang menyokong. Ubat ini juga mekanisme neuroinflamasi FIRES menimbulkan keraguan terhadap keberkesanan modulasi saluran natrium sahaja.
 
+<!-- review:begin my-lic-20261105-rufinamide-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ubat ini juga tidak berdaftar di Malaysia, dan mekanisme neuroinflamasi FIRES menimbulkan keraguan terhadap keberkesanan modulasi saluran natrium sahaja." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 1 pendaftaran (sah: 1); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-rufinamide-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi), kerana ketiadaannya menghalang saringan keselamatan peringkat seterusnya
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Semakan literatur dan pendaftaran ujian klinikal bagi FIRES dan sindrom epilepsi lain yang diramalkan
 - Penilaian status pendaftaran dan ketersediaan produk di Malaysia, serta kesesuaian laluan pemberian
 - Penilaian risiko-faedah mengenai kontraindikasi graf pengetahuan (penyakit hati, leukopenia) dan interaksi ubat
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

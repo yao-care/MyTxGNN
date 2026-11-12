@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "Fluoxetine"
 predicted_indications: ["schizotypal personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fluoxetine: indikasi baharu diramal Schizotypal personality disorder (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -88,6 +88,12 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Dua lagi ialah Magrilan 20mg Capsules (KOMEDIC SDN BHD, MAL10100126AZ) dan Provatine Capsule 20mg (DUOPHARMA (M) SENDIRIAN BERHAD, MAL06011876AZ). Teks indikasi lulus dan bentuk dos tidak direkodkan dalam data yang dikompilasi.
 
+<!-- review:begin my-lic-20261105-fluoxetine-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Terdapat 7 pendaftaran produk tunggal yang sah; 5 yang utama disenaraikan di atas. Dua lagi ialah Magrilan 20mg Capsules (KOMEDIC SDN BHD, MAL10100126AZ) dan Provatine Capsule 20mg (DUOPHARMA (M) SENDIRIAN BERHAD, MAL06011876AZ)." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 7 pendaftaran (sah: 5); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-fluoxetine-1 -->
+
 ## Pertimbangan Keselamatan
 
 - **Isyarat keselamatan daripada literatur**: satu laporan kes (PMID 9664779) menerangkan psikosis sementara dengan polidipsia pada pesakit skizotipal yang mengambil fluoxetine. Ini wajar diberi perhatian dalam populasi sasaran.
@@ -108,6 +114,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 - Data mekanisme tindakan terperinci (contohnya daripada DrugBank).
 - Percubaan klinikal terkawal berplasebo untuk fluoxetine dalam gangguan personaliti skizotipal.
 - Pelan pemantauan keselamatan khusus untuk pesakit dengan ciri psikotik, termasuk risiko interaksi ubat.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Terdapat 7 pendaftaran produk tunggal yang sah; 5 yang utama disenaraikan di atas" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

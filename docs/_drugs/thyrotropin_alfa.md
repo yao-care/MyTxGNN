@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 681
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Thyrotropin alfa"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Raynaud disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "postural orthostatic tachycardia syndrome", "hyperthyroidism"]
 description: "Thyrotropin Alfa: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -77,6 +77,12 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
 
+<!-- review:begin my-lic-20261105-thyrotropin_alfa-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Tiada lesen NPRA yang direkodkan untuk thyrotropin alfa dalam data yang dikumpulkan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 1 pendaftaran (sah: 1); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-thyrotropin_alfa-1 -->
+
 ---
 
 ## Maklumat Pasaran Malaysia
@@ -108,12 +114,32 @@ Nota tambahan daripada analisis ramalan: thyrotropin alfa boleh meningkatkan hor
 **Justifikasi:**
 - Ramalan migrain hanya berasaskan model (L5), tanpa percubaan klinikal, literatur atau hubungan mekanistik yang munasabah. Data keselamatan utama masih tidak lengkap.
 
+<!-- review:begin my-lic-20261105-thyrotropin_alfa-2 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ubat ini juga tidak berdaftar di Malaysia, dan data keselamatan utama masih tidak lengkap." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 1 pendaftaran (sah: 1); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-thyrotropin_alfa-2 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data berimpak tinggi yang menghalang saringan keselamatan)
 - Data mekanisme tindakan (MOA) daripada DrugBank
 - Pengesahan indikasi asal dan status pendaftaran tempatan
 - Bukti praklinikal atau hipotesis mekanistik yang menghubungkan isyarat reseptor TSH dengan patofisiologi migrain
 - Penilaian keselamatan terhadap kesan kardiovaskular dan tiroid sebelum sebarang pertimbangan lanjut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Tiada lesen NPRA yang direkodkan untuk thyrotropin alfa dalam data yang dikumpulkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

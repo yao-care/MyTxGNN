@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 249
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "CYTARABINE"
 predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
 description: "Cytarabine: indikasi baharu diramal Karsinoma paru-paru sel kecil (small cell lung carcinoma) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -117,12 +117,31 @@ Klasifikasi di atas berdasarkan pengetahuan umum mengenai kelas ubat ini, bukan 
 **Rasional:**
 - Skor TxGNN tinggi (0.9978), tetapi tiada ujian klinikal didaftarkan dan tiada bukti khusus sitarabin untuk karsinoma paru-paru sel kecil. Bukti yang ada hanya tahap L4, kebanyakannya daripada kajian NSCLC lama dengan kadar respons rendah (14–18%) dan toksisiti hematologi yang ketara.
 
+<!-- review:begin my-lic-20261105-cytarabine-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Bukti yang ada hanya tahap L4, kebanyakannya daripada kajian NSCLC lama dengan kadar respons rendah (14–18%) dan toksisiti hematologi yang ketara. Sitarabin juga tidak didaftarkan di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 4 pendaftaran (sah: 3); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-cytarabine-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej dan maklumat amaran/kontraindikasi rasmi (perlu dimuat turun daripada laman web NPRA). Tanpa ini, saringan keselamatan tidak dapat diteruskan.
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
 - Semakan literatur khusus karsinoma paru-paru sel kecil, termasuk mendapatkan teks penuh laporan tahun 1987.
 - Penilaian laluan pemberian dan kebolehcapaian ubat di Malaysia, memandangkan tiada produk berdaftar.
 - Sebagai rujukan, antara ramalan lain untuk ubat ini, neuroblastoma mempunyai bukti praklinikal (L4) dan tiga ujian berdaftar yang tidak menguji sitarabin sebagai intervensi utama. Ia dinilai sebagai soalan penyelidikan sahaja.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Sitarabin juga tidak didaftarkan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

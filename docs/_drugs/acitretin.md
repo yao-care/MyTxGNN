@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 23
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Acitretin: indikasi baharu diramal Jerawat (acne) (tahap bukti L3). Indikasi asal: Tiada data indikasi yang diluluskan dalam data yang dikumpulkan"
 monitor_inn: "ACITRETIN"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
@@ -124,6 +124,12 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 **Rasional:**
 - Satu-satunya percubaan klinikal menumpu pada hidradenitis suppurativa dan bukan jerawat vulgaris, tanpa keputusan yang tersedia; bukti yang lain terdiri daripada ulasan, garis panduan dan laporan kes. Selain itu, profil keselamatan acitretin (teratogenisiti, hepatotoksisiti) menuntut kehati-hatian.
 
+<!-- review:begin my-lic-20261105-acitretin-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Selain itu, profil keselamatan acitretin (teratogenisiti, hepatotoksisiti) menuntut kehati-hatian, dan ubat ini tidak berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 4 pendaftaran (sah: 4); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-acitretin-1 -->
+
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi) sebagai syarat sebelum saringan keselamatan
 - Data mekanisme tindakan (MOA) daripada DrugBank
@@ -141,6 +147,18 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 | Lupus eritematosus sistemik pediatrik | 0.9935 | L5 | Tiada percubaan atau literatur; kebimbangan keselamatan yang besar pada kanak-kanak (tulang, pertumbuhan, hati) |
 | Eritroblastosis janin | 0.9928 | L5 | Tiada kaitan mekanistik yang munasabah; acitretin dikontraindikasikan sepenuhnya semasa kehamilan |
 | Sindrom predisposisi kanser orofaring dan telangiektasia kutaneus familial | 0.9910 | L5 | Ramalan berkomputer sahaja; rasional spekulatif |
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "dan ubat ini tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 547
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "ORLISTAT"
 predicted_indications: ["hypervitaminosis"]
 description: "Orlistat: indikasi baharu diramal Hipervitaminosis (hypervitaminosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -90,11 +90,30 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 **Rasional:**
 - Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur sokongan. Hipervitaminosis sudah ada pendekatan pengurusan yang lazim (menghentikan punca vitamin).
 
+<!-- review:begin my-lic-20261105-orlistat-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Orlistat juga tidak berdaftar di Malaysia, dan hipervitaminosis sudah ada pendekatan pengurusan yang lazim (menghentikan punca vitamin)." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 2 pendaftaran (sah: 2); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-orlistat-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank.
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang pemeriksaan keselamatan peringkat seterusnya).
 - Kajian praklinikal atau klinikal yang menunjukkan manfaat pada hipervitaminosis, khususnya jenis A atau D.
 - Penilaian risiko kekurangan vitamin larut lemak lain, serta kesesuaian laluan pentadbiran dan status pendaftaran tempatan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Orlistat juga tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

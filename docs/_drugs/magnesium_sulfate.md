@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "MAGNESIUM SULFATE"
 predicted_indications: ["thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Magnesium Sulfate: indikasi baharu diramal Penyakit trombotik (thrombotic disease) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -81,6 +81,12 @@ Skor TxGNN yang sangat tinggi belum disokong oleh data klinikal yang kukuh. Bukt
 
 Senarai di bawah hanya memaparkan produk bahan tunggal. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 
+<!-- review:begin my-lic-20261105-magnesium_sulfate-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data tempatan merekodkan 12 lesen yang semuanya sah, iaitu 6 produk bahan tunggal dan 6 produk kombinasi. Senarai di bawah hanya memaparkan produk bahan tunggal." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 12 pendaftaran (sah: 11); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-magnesium_sulfate-1 -->
+
 | Nombor Kebenaran | Nama Produk | Pengilang |
 |---------|------|------|
 | MAL19920441ACRZ | DBL Magnesium Sulfate Concentrated Injection | Pfizer (Malaysia) Sdn. Bhd. |
@@ -109,6 +115,18 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 - Percubaan klinikal terkawal yang menilai magnesium sulfat dalam keadaan trombotik yang ditakrifkan dengan jelas.
 - Data mekanisme tindakan yang terperinci.
 - Amaran dan kontraindikasi daripada sisipan pek yang diluluskan di Malaysia, disertai pelan pemantauan keselamatan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Data tempatan merekodkan 12 lesen yang semuanya sah, iaitu 6 produk bahan tunggal dan 6 produk kombinasi" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Atenolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Atenolol: indikasi baharu diramal Penyakit renal hipertensi malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -70,6 +70,12 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 Status pasaran: dipasarkan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lima lesen produk bahan tunggal yang utama:
 
+<!-- review:begin my-lic-20261105-atenolol-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Terdapat sekurang-kurangnya 30 lesen, semuanya sah (27 produk bahan tunggal dan 3 produk kombinasi). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 30 pendaftaran (sah: 28); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-atenolol-1 -->
+
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
 | MAL19913259AZ | DYNORMIN TABLET 100MG | Tablet | Tidak direkodkan |
@@ -97,6 +103,19 @@ Tiada percubaan klinikal atau literatur yang mengkaji penyakit ini secara langsu
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Kajian klinikal atau literatur yang secara langsung menilai atenolol dalam penyakit renal hipertensi malignan
 - Perbandingan dengan terapi standard (ubat parenteral dan penyekat RAAS)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Terdapat sekurang-kurangnya 30 lesen, semuanya sah (27 produk bahan tunggal dan 3 produk kombinasi)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

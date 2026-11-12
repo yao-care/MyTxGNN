@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 675
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Teriparatide: indikasi baharu diramal Ulser duodenum (tahap bukti L5). Indikasi asal: Osteoporosis pascamenopaus (osteoporosis)"
 monitor_inn: "TERIPARATIDE"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
@@ -109,12 +109,31 @@ Untuk amaran utama dan kontraindikasi daripada label produk, sila rujuk sisipan 
 **Justifikasi:**
 - Tiada ujian klinikal, tiada literatur dan tiada kaitan mekanisme yang munasabah menyokong penggunaan teriparatide untuk ulser duodenum.
 
+<!-- review:begin my-lic-20261105-teriparatide-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Tiada ujian klinikal, tiada literatur dan tiada kaitan mekanisme yang munasabah menyokong penggunaan teriparatide untuk ulser duodenum. Ubat ini juga tidak berdaftar di Malaysia, jadi ramalan ini tidak wajar diteruskan pada peringkat ini." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 5 pendaftaran (sah: 5); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-teriparatide-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Hipotesis mekanisme yang jelas yang menghubungkan isyarat PTH1R/PTH2R dengan patologi ulser duodenum, disokong oleh kajian praklinikal.
 - Pengesahan status pendaftaran dan sisipan pakej daripada NPRA, termasuk amaran dan kontraindikasi.
 - Penilaian keselamatan terhadap kontraindikasi dan interaksi ubat yang dinyatakan di atas.
 
 **Nota tambahan:** Antara ramalan lain bagi ubat ini, **osteoporosis berkaitan kehamilan** (kedudukan 8, tahap bukti L3) mempunyai sokongan literatur paling kukuh, termasuk kajian kohort dan semakan sistematik tentang penggunaan teriparatide. Ramalan tersebut, serta **amenorea** (kedudukan 10, bukti tidak langsung melalui kesihatan tulang), mungkin lebih wajar dinilai terlebih dahulu berbanding ulser duodenum.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia, jadi ramalan ini tidak wajar diteruskan pada peringkat ini" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

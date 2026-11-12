@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 263
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Denosumab: indikasi baharu diramal Retinopati diabetik non-proliferatif teruk (tahap bukti L5). Indikasi asal: Osteoporosis, osteoporosis pascamenopaus, osteoporosis akibat ubat"
 monitor_inn: "DENOSUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
@@ -58,6 +58,12 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada kajian langsung** 
 
 Nota: Indikasi asal di atas diambil daripada pangkalan pengetahuan TxGNN, bukan daripada teks label NPRA.
 
+<!-- review:begin my-lic-20261105-denosumab-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Nota: Indikasi asal di atas diambil daripada pangkalan pengetahuan TxGNN, bukan daripada teks label NPRA, kerana tiada lesen berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 6 pendaftaran (sah: 6); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-denosumab-1 -->
+
 ---
 
 ## Mengapakah Ramalan Ini Munasabah?
@@ -108,6 +114,12 @@ Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 **Rasional:**
 - Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau literatur langsung mengenai retina. Data keselamatan peringkat label belum tersedia.
 
+<!-- review:begin my-lic-20261105-denosumab-2 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Denosumab juga tidak berdaftar di Malaysia, dan data keselamatan peringkat label belum tersedia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 6 pendaftaran (sah: 6); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-denosumab-2 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci bagi denosumab
 - Sisipan pakej dan maklumat amaran/kontraindikasi yang disahkan
@@ -115,6 +127,27 @@ Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 - Semakan teks penuh PMID 38899553 untuk mengesahkan sama ada data retinopati dilaporkan
 - Penilaian kebolehlaksanaan laluan pentadbiran untuk indikasi mata (status keserasian laluan masih belum ditentukan)
 - Pelan pemantauan keselamatan untuk pesakit diabetes, termasuk pertimbangan interaksi dengan kortikosteroid
+
+<!-- review:begin my-lic-20261105-denosumab-3 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Sisipan pakej dan maklumat amaran/kontraindikasi yang disahkan (belum ada kerana tiada pendaftaran NPRA)" Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 6 pendaftaran (sah: 6); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-denosumab-3 -->
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "kerana tiada lesen berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Denosumab juga tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "(belum ada kerana tiada pendaftaran NPRA)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

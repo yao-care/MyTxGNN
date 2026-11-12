@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 644
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Silodosin: indikasi baharu diramal Ambras type hypertrichosis universalis congenita (tahap bukti L5). Indikasi asal: Hiperplasia prostat benigna (benign prostatic hyperplasia)"
 monitor_inn: "SILODOSIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
@@ -109,12 +109,31 @@ Sila rujuk risalah maklumat produk untuk maklumat amaran dan kontraindikasi yang
 **Rasional:**
 - Ramalan hanya berdasarkan model (L5) tanpa sebarang percubaan klinikal atau literatur, dan tiada mekanisme farmakologi yang munasabah antara sekatan alfa-1A dengan asas genetik sindrom Ambras.
 
+<!-- review:begin my-lic-20261105-silodosin-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ramalan hanya berdasarkan model (L5) tanpa sebarang percubaan klinikal atau literatur, dan tiada mekanisme farmakologi yang munasabah antara sekatan alfa-1A dengan asas genetik sindrom Ambras. Ubat ini juga tidak berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 2 pendaftaran (sah: 2); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-silodosin-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci
 - Hipotesis mekanistik yang boleh diuji, serta kajian praklinikal untuk mengesahkannya
 - Maklumat amaran dan kontraindikasi daripada risalah maklumat produk NPRA
 - Penilaian kesesuaian laluan pentadbiran dan bentuk dos untuk indikasi baharu
 - Status pendaftaran dan ketersediaan produk di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "Minoxidil"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with chronic hemolytic anemia", "pulmonary arterial hypertension associated with connective tissue disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Minoxidil: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -74,6 +74,12 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Lima yang utama disenaraikan di bawah.
 
+<!-- review:begin my-lic-20261105-minoxidil-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Terdapat 15 lesen sah. Lima yang utama disenaraikan di bawah." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 15 pendaftaran (sah: 13); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-minoxidil-1 -->
+
 | Nombor Kebenaran | Nama Produk | Pengilang | Status |
 |---------|------|------|------|
 | MAL16105054AZ | Axcel Minoxidil 2% Topical Solution | Kotra Pharma (M) Sdn. Bhd. | Dibatalkan Pendaftaran |
@@ -99,6 +105,18 @@ Bukti terhad kepada tiga laporan kes, semuanya dengan terapi gabungan, tanpa uji
 - Data mekanisme tindakan terperinci
 - Siri kes atau ujian berkawal yang dapat mengasingkan kesan minoxidil
 - Pelan pemantauan keselamatan, terutamanya bagi pesakit kanak-kanak dan penggunaan oral
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Terdapat 15 lesen sah" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

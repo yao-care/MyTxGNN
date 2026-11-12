@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 295
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "DIOSMIN"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Diosmin: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -85,12 +85,31 @@ Sila rujuk risalah maklumat produk (package insert) untuk maklumat keselamatan. 
 **Justifikasi:**
 - Ramalan ini hanya berasaskan skor model (L5) tanpa percubaan klinikal, penerbitan, atau hubungan mekanistik yang disokong data. Data keselamatan tidak lengkap.
 
+<!-- review:begin my-lic-20261105-diosmin-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Diosmin juga tidak berdaftar di Malaysia dan data keselamatan tidak lengkap." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 22 pendaftaran (sah: 21); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-diosmin-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada risalah produk NPRA (jurang yang menghalang penilaian keselamatan awal)
 - Data mekanisme tindakan (MOA) yang terperinci, contohnya daripada DrugBank
 - Hubungan mekanistik yang munasabah antara diosmin dan patofisiologi amenorea
 - Kajian praklinikal atau klinikal yang berkaitan, serta semakan literatur
 - Penilaian keserasian laluan pentadbiran dan status pendaftaran produk di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Diosmin juga tidak berdaftar di Malaysia dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

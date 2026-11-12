@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 672
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TENECTEPLASE"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
 description: "Tenecteplase: indikasi baharu diramal Congenital coronary artery anomaly (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -100,11 +100,30 @@ Sila rujuk sisipan pembungkusan untuk amaran dan kontraindikasi lengkap.
 - Tiada ujian klinikal atau literatur khusus untuk infarksi miokardium posterolateral (Tahap Bukti L4). Ramalan ini pada asasnya subjenis indikasi sedia ada dan bukan pengitaran semula yang benar.
 - Data keselamatan daripada label tidak tersedia, jadi tidak boleh meneruskan ke saringan keselamatan.
 
+<!-- review:begin my-lic-20261105-tenecteplase-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ubat ini tidak berdaftar di Malaysia (0 lesen), dan data keselamatan daripada label tidak tersedia, jadi tidak boleh meneruskan ke saringan keselamatan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 2 pendaftaran (sah: 2); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-tenecteplase-1 -->
+
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Sisipan pembungkusan NPRA (amaran dan kontraindikasi) serta pengesahan sama ada ubat boleh didaftarkan atau diimport di Malaysia.
 - Data mekanisme tindakan (MOA) yang terperinci.
 - Bukti klinikal khusus subjenis (contohnya analisis subkumpulan daripada ujian STEMI sedia ada).
 - Pelan pemantauan keselamatan, terutamanya risiko pendarahan dan interaksi dengan antikoagulan/antiplatelet.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini tidak berdaftar di Malaysia (0 lesen), dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

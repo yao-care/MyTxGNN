@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 650
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Sodium Carbonate: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "SODIUM CARBONATE"
 predicted_indications: ["cauda equina syndrome", "anaphylaxis", "food-dependent exercise-induced anaphylaxis", "obsolete neurogenic bladder (disease)", "dry eye syndrome", "ventricular tachycardia"]
@@ -105,12 +105,31 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada data interaksi dadah 
 **Justifikasi:**
 - Ramalan berada pada tahap bukti L5 tanpa percubaan klinikal atau literatur sokongan, dan tiada hubungan mekanistik yang munasabah.
 
+<!-- review:begin my-lic-20261105-sodium_carbonate-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ramalan berada pada tahap bukti L5 tanpa percubaan klinikal atau literatur sokongan, dan tiada hubungan mekanistik yang munasabah. Ubat ini juga tidak berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 4 pendaftaran (sah: 4); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-sodium_carbonate-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang saringan keselamatan)
 - Data mekanisme tindakan (MOA) terperinci
 - Hipotesis mekanistik yang jelas dan bukti praklinikal sebelum sebarang pertimbangan lanjut
 - Pengesahan teks penuh [PMID 27813150](https://pubmed.ncbi.nlm.nih.gov/27813150/) jika sindrom mata kering ingin diteroka
 - Pertimbangan calon ramalan lain yang mempunyai asas biologi lebih kukuh
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

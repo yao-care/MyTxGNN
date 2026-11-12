@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 148
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Bicalutamide: indikasi baharu diramal Hipertrikosis (tahap bukti L4). Indikasi asal: Kanser prostat"
 monitor_inn: "BICALUTAMIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "multiple endocrine neoplasia", "pulmonary hypertension", "female breast carcinoma", "nephrogenic syndrome of inappropriate antidiuresis"]
@@ -98,6 +98,12 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
 **Justifikasi:**
 - Walaupun skor TxGNN tinggi, bukti untuk hipertrikosis hanya satu surat ulasan tanpa ujian klinikal, dan hipertrikosis akibat ubat berbeza daripada hipertrikosis kongenital. Ubat ini juga mempunyai isyarat risiko hati.
 
+<!-- review:begin my-lic-20261105-bicalutamide-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ubat ini juga tidak didaftarkan di Malaysia dan mempunyai isyarat risiko hati." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 3 pendaftaran (sah: 3); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-bicalutamide-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej dan maklumat amaran/kontraindikasi daripada NPRA, atau pengesahan status pendaftaran tempatan.
 - Data mekanisme tindakan (MOA) terperinci daripada pangkalan data ubat.
@@ -105,6 +111,19 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
 - Pelan pemantauan fungsi hati dan keselamatan kardiovaskular.
 
 **Nota tambahan:** Antara ramalan lain dalam data yang dikumpulkan, **karsinoma payudara wanita** (skor 0.9911) mempunyai sokongan lebih kukuh. Ia termasuk ujian Phase 2 [NCT03650894](https://clinicaltrials.gov/study/NCT03650894) (kombinasi nivolumab + ipilimumab + bicalutamide, n=30, aktif tidak merekrut), beberapa kajian praklinikal dan ulasan tentang kanser payudara triple-negative AR-positif, serta satu kajian Phase 2 satu lengan yang dihentikan. Kajian itu menggabungkan bicalutamide dengan perencat aromatase dan tidak menunjukkan sinergi (kadar manfaat klinikal 16.7%, kadar respons objektif 0%). Arah ini wajar dinilai secara berasingan, dengan pemilihan pesakit berdasarkan ekspresi AR.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "tidak didaftarkan di Malaysia dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

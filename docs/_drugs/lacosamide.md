@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 440
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
 description: "Lacosamide: indikasi baharu diramal Manic bipolar affective disorder (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -39,6 +39,12 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 ## Ringkasan Satu Ayat
 
 Lacosamide ialah ubat antiepilepsi (antikonvulsan) yang menyekat saluran natrium bergantung voltan. Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan migrain**, dengan **4 ujian klinikal** dan **18 penerbitan** yang berkaitan buat masa ini. Data yang dikumpulkan tidak menyatakan indikasi asal yang diluluskan di Malaysia.
+
+<!-- review:begin my-lic-20261105-lacosamide-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data yang dikumpulkan tidak menyatakan indikasi asal yang diluluskan di Malaysia, kerana tiada pendaftaran tempatan ditemui." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 7 pendaftaran (sah: 7); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-lacosamide-1 -->
 
 > Nota: Laporan ini memfokuskan pada ramalan kedudukan ke-5 (migrain), kerana ia mempunyai bukti terkuat daripada 10 ramalan yang disenaraikan. Ramalan kedudukan pertama dalam senarai (gangguan afektif bipolar manik) hanya mempunyai bukti L3 yang terhad. Ringkasan semua ramalan diberikan pada akhir laporan.
 
@@ -105,6 +111,12 @@ Hubungan antara indikasi asal (sawan) dengan migrain ialah kedua-duanya melibatk
   - Ceritinib
   - Siponimod
 
+<!-- review:begin my-lic-20261105-lacosamide-2 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Berdasarkan data yang dikompilasi, lacosamide **tidak mempunyai pendaftaran** di Malaysia (0 lesen). Oleh itu tiada jadual lesen dipaparkan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 7 pendaftaran (sah: 7); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-lacosamide-2 -->
+
   Interaksi **Moderate** yang ketara termasuk klaritromisin, etanol, kobisistat, klorokuin, hidroksiklorokuin, mefloquine, lidokain, ketokonazol, pasireotide, alectinib, brigatinib, crizotinib, fingolimod, idelalisib, imatinib, ozanimod dan sunitinib.
 - **Isyarat keselamatan daripada literatur**: Terdapat laporan kes neutropenia yang dicetuskan oleh lacosamide pada pesakit gangguan bipolar dengan epilepsi (PMID 30275630). Meta-analisis RCT (PMID 22779776) boleh dirujuk untuk profil kesan buruk.
 
@@ -125,6 +137,12 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 - Melengkapkan data mekanisme tindakan (MOA) daripada DrugBank
 - Merancang pemantauan interaksi ubat, terutamanya dengan ubat berisiko pemanjangan QT/kardiak
 
+<!-- review:begin my-lic-20261105-lacosamide-3 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Memandangkan lacosamide tidak berdaftar di Malaysia, menilai laluan pendaftaran dan ketersediaan bentuk dos / Merancang pemantauan interaksi ubat, terutamanya dengan ubat berisiko pemanjangan QT/kardiak" Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 7 pendaftaran (sah: 7); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-lacosamide-3 -->
+
 ---
 
 ## Ringkasan Ramalan Lain
@@ -140,6 +158,20 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 | 8 | Sindrom sakit miofasial | 0.9981 | L5 | Research Question (satu ujian Fasa 2 tanpa keputusan tersedia) |
 | 9 | Gangguan obsesif-kompulsif | 0.9978 | L5 | Hold (ujian berkaitan mengkaji penggunaan alkohol, bukan OCD) |
 | 10 | Konjunktivitis papilari | 0.9972 | L5 | Hold (tiada bukti) |
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "kerana tiada pendaftaran tempatan ditemui" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Berdasarkan data yang dikompilasi, lacosamide **tidak mempunyai pendaftaran** di Malaysia (0 lesen). Oleh itu tiada jadual lesen dipaparkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Memandangkan lacosamide tidak berdaftar di Malaysia, menilai laluan pendaftaran dan ketersediaan bentuk dos" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

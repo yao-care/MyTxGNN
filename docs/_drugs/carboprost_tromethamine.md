@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 200
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Carboprost Tromethamine: indikasi baharu diramal Koarktasio aorta atipikal (atypical coarctation of aorta) (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
 monitor_inn: "Carboprost tromethamine"
 predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "migraine with brainstem aura", "migraine disorder", "pulmonary hypertension", "non-syndromic esophageal malformation", "kyphoscoliotic heart disease", "amenorrhea (disease)", "esophageal disease", "primary hereditary glaucoma"]
@@ -108,12 +108,31 @@ Satu isyarat keselamatan daripada penilaian mekanistik: PGF2α diketahui mempuny
 **Rasional:**
 - Ramalan hanya berasaskan model (L5), tanpa ujian klinikal atau literatur. Untuk koarktasio aorta atipikal, tiada mekanisme farmakologi yang munasabah; kebanyakan ramalan teratas juga bercanggah dari segi arah mekanistik atau menimbulkan kebimbangan keselamatan.
 
+<!-- review:begin my-lic-20261105-carboprost_tromethamine-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ramalan hanya berasaskan model (L5), tanpa ujian klinikal atau literatur, dan produk tidak mempunyai pendaftaran di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 3 pendaftaran (sah: 3); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-carboprost_tromethamine-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat keselamatan daripada risalah maklumat produk NPRA (amaran dan kontraindikasi) — ini ialah jurang data yang menghalang penyaringan keselamatan
 - Data mekanisme tindakan terperinci (contohnya daripada DrugBank)
 - Pengesahan indikasi asal dan status pendaftaran di Malaysia
 - Sekiranya mahu meneroka lanjut, glaukoma keturunan primer ialah calon yang paling munasabah dari segi biologi, tetapi memerlukan data praklinikal untuk formulasi oftalmik serta justifikasi berbanding agonis FP sedia ada
 - Penilaian keserasian laluan pentadbiran (kini belum ditentukan)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "dan produk tidak mempunyai pendaftaran di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

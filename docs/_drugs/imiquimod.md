@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 413
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Imiquimod"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
 description: "Imiquimod: indikasi baharu diramal Neoplasma pra-malignan (pre-malignant neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -113,6 +113,12 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi.
 **Rasional:**
 - Bagi neoplasma pra-malignan, terdapat dua percubaan Fasa 3, beberapa kajian Cochrane dan kajian klinikal yang menyokong arah ini, serta mekanisme TLR7 yang konsisten. Walau bagaimanapun, percubaan adalah kecil, satu ditamatkan awal, maka kemajuan memerlukan langkah kawalan.
 
+<!-- review:begin my-lic-20261105-imiquimod-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Walau bagaimanapun, percubaan adalah kecil, satu ditamatkan awal, dan produk tidak berdaftar di Malaysia, maka kemajuan memerlukan langkah kawalan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 2 pendaftaran (sah: 2); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-imiquimod-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat saringan keselamatan)
 - Data mekanisme tindakan terperinci daripada DrugBank
@@ -135,6 +141,18 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi.
 | Neoplasma telinga dalam | 0.9991 | L5 | Hold |
 | Neoplasma kelenjar air liur utama | 0.9991 | L5 | Hold |
 | Schwannoma foramen jugular | 0.9991 | L5 | Hold |
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "dan produk tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

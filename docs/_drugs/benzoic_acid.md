@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Benzoic Acid"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "dry eye syndrome", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "hereditary angioedema with C1Inh deficiency", "posterior leukoencephalopathy syndrome", "C1 inhibitor deficiency"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Benzoic Acid: indikasi baharu diramal Bronkitis (tahap bukti L5). Indikasi asal: Hubungan yang direkodkan dalam graf pengetahuan: pemfigus…"
 ---
 
@@ -77,6 +77,12 @@ Tiada kajian yang meneliti asid benzoik untuk bronkitis secara langsung.
 
 Teks indikasi yang diluluskan tidak tersedia pada rekod. Lesen produk kombinasi tidak boleh digunakan untuk menggambarkan kelulusan asid benzoik sebagai bahan tunggal. Berikut ialah lima contoh:
 
+<!-- review:begin my-lic-20261105-benzoic_acid-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Terdapat 36 lesen sah (1 bahan tunggal, 35 kombinasi). Teks indikasi yang diluluskan tidak tersedia pada rekod." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 36 pendaftaran (sah: 35); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-benzoic_acid-1 -->
+
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
 | MAL19912812XZ | MIFULIN LOTION (bahan tunggal) | Tiada maklumat | Tiada maklumat |
@@ -104,6 +110,19 @@ Ramalan bronkitis hanya berasaskan model (L5), tanpa ujian klinikal dan tanpa ka
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang penilaian keselamatan)
 - Kajian praklinikal atau klinikal yang menilai asid benzoik secara langsung dalam bronkitis
 - Pertimbangan semula calon lain yang munasabah dari segi biologi (fibromatosis palmar, penyakit Ledderhose) sebagai persoalan penyelidikan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Terdapat 36 lesen sah (1 bahan tunggal, 35 kombinasi)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

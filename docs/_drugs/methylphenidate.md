@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 501
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Methylphenidate: indikasi baharu diramal Sindrom faciodigitogenital (sindrom Aarskog-Scott) (tahap bukti L5). Indikasi asal: ADHD dan narkolepsi (daripada pangkalan pengetahuan TxGNN…"
 monitor_inn: "METHYLPHENIDATE"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
@@ -80,6 +80,12 @@ Pada masa ini tiada literatur berkaitan untuk sindrom faciodigitogenital.
 
 Maklumat label produk tidak tersedia. Sila rujuk sisipan pakej untuk maklumat keselamatan yang rasmi.
 
+<!-- review:begin my-lic-20261105-methylphenidate-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Maklumat label produk tidak tersedia kerana methylphenidate tidak berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 14 pendaftaran (sah: 14); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-methylphenidate-1 -->
+
 **Keadaan perubatan yang dikaitkan dengan kontraindikasi** (daripada graf pengetahuan TxGNN, bukan teks label rasmi):
 - Kardiovaskular dan serebrovaskular: hipertensi, penyakit arteri koronari, infarksi miokardium, strok, infarksi serebrum, penyakit konduksi jantung, sudden cardiac arrest
 - Neurologi dan psikiatri: epilepsi, gangguan bipolar, gangguan afektif major, gangguan psikotik, skizoafektif, penyalahgunaan/kebergantungan bahan, anoreksia nervosa
@@ -102,6 +108,12 @@ Maklumat label produk tidak tersedia. Sila rujuk sisipan pakej untuk maklumat ke
 - Tiada pautan mekanistik yang munasabah antara methylphenidate dan sindrom faciodigitogenital.
 - Data keselamatan label belum lengkap.
 
+<!-- review:begin my-lic-20261105-methylphenidate-2 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Methylphenidate tidak berdaftar di Malaysia, dan data keselamatan label belum lengkap." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 14 pendaftaran (sah: 14); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-methylphenidate-2 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci, contohnya daripada DrugBank
 - Carian literatur yang lebih tertumpu tentang methylphenidate dalam sindrom Aarskog-Scott, termasuk gejala tingkah laku seperti ADHD
@@ -109,6 +121,20 @@ Maklumat label produk tidak tersedia. Sila rujuk sisipan pakej untuk maklumat ke
 - Penilaian keselamatan, terutamanya untuk pesakit dengan keadaan kardiovaskular atau psikiatri yang disenaraikan di atas
 
 **Nota tambahan:** Ramalan lain bagi ubat ini juga mempunyai tahap bukti rendah. Kondroidmiksoid fibroma (skor 0.9999, L5) tiada pautan mekanistik yang munasabah dan berkemungkinan hubungan palsu. Gangguan perkembangan spesifik (L4) dan gangguan distimik (L4) mempunyai literatur tidak langsung yang kebanyakannya berkaitan ADHD dan komorbiditi, dan layak dikaji sebagai soalan penyelidikan. Bagi gangguan distimik, kajian komorbiditi ADHD dengan kemurungan subsindrom (PMID 24045603) wajar disemak lebih lanjut.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "kerana methylphenidate tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Methylphenidate tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

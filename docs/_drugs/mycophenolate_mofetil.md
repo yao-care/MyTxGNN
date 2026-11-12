@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 517
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Mycophenolate Mofetil: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L2). Indikasi asal: Tiada data indikasi berdaftar di Malaysia"
 monitor_inn: "MYCOPHENOLATE MOFETIL"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
@@ -117,6 +117,12 @@ Amaran utama dan kontraindikasi berdasarkan sisipan pembungkusan NPRA tidak ters
 **Rasional:**
 - Data keselamatan daripada sisipan NPRA tiada. Bukti klinikal untuk HIV tidak mencukupi: ujian terus telah ditarik balik, dan keberkesanan ke atas hasil virus belum terbukti. Risiko imunosupresi pada pesakit HIV juga membimbangkan.
 
+<!-- review:begin my-lic-20261105-mycophenolate_mofetil-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ubat ini tidak mempunyai pendaftaran di Malaysia dan data keselamatan daripada sisipan NPRA tiada." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 12 pendaftaran (sah: 12); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-mycophenolate_mofetil-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Memuat turun dan menganalisis sisipan pembungkusan serta amaran dan kontraindikasi daripada NPRA (jurang data yang menghalang penyaringan keselamatan).
 - Data mekanisme tindakan terperinci daripada DrugBank.
@@ -125,6 +131,19 @@ Amaran utama dan kontraindikasi berdasarkan sisipan pembungkusan NPRA tidak ters
 - Pengesahan status pendaftaran atau laluan akses ubat ini di Malaysia.
 
 **Nota tentang indikasi lain:** Antara 10 ramalan teratas, **sklerosis berbilang (multiple sclerosis)** mempunyai bukti klinikal yang lebih banyak (beberapa ujian Fasa 1/2 kecil serta ulasan Cochrane), tetapi ulasan Cochrane dan meta-analisis rangkaian mendapati bukti manfaat tidak mencukupi. Lapan ramalan lain tidak mempunyai bukti klinikal yang menyokong dan dinilai Hold.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini tidak mempunyai pendaftaran di Malaysia dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

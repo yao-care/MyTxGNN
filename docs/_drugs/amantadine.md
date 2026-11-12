@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 51
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Amantadine: indikasi baharu diramal Rasmussen subacute encephalitis (tahap bukti L5). Indikasi asal: Penyakit Parkinson (dan gangguan parkinsonisme yang berkaitan)"
 monitor_inn: "amantadine"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
@@ -88,6 +88,12 @@ Sila rujuk sisipan pakej produk untuk maklumat amaran dan kontraindikasi yang ra
 **Justifikasi:**
 - Skor ramalan tinggi (0.9948), tetapi ia hanya ramalan model (L5) tanpa percubaan klinikal atau literatur sokongan. Graf pengetahuan menyenaraikan epilepsi sebagai kontraindikasi.
 
+<!-- review:begin my-lic-20261105-amantadine-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ubat ini juga tidak berdaftar di Malaysia, dan graf pengetahuan menyenaraikan epilepsi sebagai kontraindikasi." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 1 pendaftaran (sah: 1); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-amantadine-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej (data NPRA belum diperoleh; ini menghalang saringan keselamatan)
@@ -106,6 +112,18 @@ Data yang dikumpulkan turut merangkumi tiga ramalan lain, dan semuanya juga belu
 | Transaldolase deficiency | 0.9927 | L5 | Tiada bukti dan tiada rasional mekanistik yang jelas; ramalan mungkin didorong oleh kedekatan rangkaian |
 | Myelitis | 0.9924 | L5 | Literatur sebenarnya berkaitan sindrom pasca-polio (contohnya RCT 1995 tentang keletihan, PMID 7611638); kaitan dengan myelitis tidak langsung dan faedahnya tidak jelas |
 | PLA2G6-associated neurodegeneration | 0.9923 | L5 | Hanya satu laporan tidak langsung tentang PKAN (PMID 31366412); ekstrapolasi belum disahkan |
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

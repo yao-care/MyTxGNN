@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 549
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Oxaliplatin: indikasi baharu diramal Mesotelioma pleura malignan (tahap bukti L2). Indikasi asal: Metastasis daripada tumor malignan kolon"
 monitor_inn: "OXALIPLATIN"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
@@ -111,12 +111,31 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 **Rasional:**
 - Bukti terhad kepada kajian Fasa II kecil dan tidak rawak (sekitar 25–70 pesakit), dengan satu kajian lini kedua yang negatif dan tiada RCT Fasa 3 berbanding standard rawatan cisplatin/pemetrexed. Selain itu, data keselamatan rasmi belum lengkap.
 
+<!-- review:begin my-lic-20261105-oxaliplatin-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Selain itu, oxaliplatin tidak berdaftar di Malaysia dan data keselamatan rasmi belum lengkap." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 9 pendaftaran (sah: 9); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-oxaliplatin-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej/amaran dan kontraindikasi daripada NPRA (jurang data yang menghalang penilaian keselamatan)
 - Data mekanisme tindakan terperinci daripada DrugBank
 - Bukti perbandingan yang lebih kukuh (contohnya percubaan rawak berbanding cisplatin/pemetrexed)
 - Data khusus subjenis histologi (epitelioid, sarkomatoid)
 - Pertimbangan status pendaftaran dan ketersediaan produk di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "oxaliplatin tidak berdaftar di Malaysia dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

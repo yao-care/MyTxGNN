@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "Hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Hydrocortisone: indikasi baharu diramal Alopesia areata (alopecia areata) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -81,6 +81,12 @@ Walau bagaimanapun, hydrocortisone ialah steroid topikal berkuasa rendah. Bukti 
 
 Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lesen produk kombinasi tidak menggambarkan kelulusan bahan tunggal, maka hanya produk satu bahan disenaraikan di bawah.
 
+<!-- review:begin my-lic-20261105-hydrocortisone-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data tempatan merekodkan 58 lesen, semuanya sah (29 produk satu bahan dan 29 produk kombinasi). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 58 pendaftaran (sah: 57); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-hydrocortisone-1 -->
+
 | Nombor Kebenaran | Nama Produk | Bentuk Dosej | Indikasi Diluluskan |
 |---------|------|------|-----------|
 | MAL19870473AZ | Solu-Cortef Injection 100mg (2ml) | Tiada data | Tiada data |
@@ -107,6 +113,18 @@ Terdapat satu ujian rawak terkawal yang menyasarkan alopesia areata secara langs
 - Data amaran dan kontraindikasi daripada sisipan pakej tempatan
 - Bukti keberkesanan hydrocortisone itu sendiri dalam alopesia areata berbanding plasebo atau agen lain
 - Pertimbangan keselamatan bagi populasi khusus (contohnya kanak-kanak) dan laluan pentadbiran yang sesuai
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Data tempatan merekodkan 58 lesen, semuanya sah (29 produk satu bahan dan 29 produk kombinasi)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

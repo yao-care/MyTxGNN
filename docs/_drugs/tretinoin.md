@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 699
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TRETINOIN"
 predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
 description: "Tretinoin: indikasi baharu diramal Rheumatoid nodulosis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -118,12 +118,31 @@ Untuk amaran dan kontraindikasi lengkap, sila rujuk sisipan pek produk.
 **Rasional:**
 - Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur sokongan. Terdapat juga isyarat keselamatan yang ketara, terutamanya untuk populasi kanak-kanak dan penyakit tulang.
 
+<!-- review:begin my-lic-20261105-tretinoin-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur sokongan, dan tretinoin tidak berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 12 pendaftaran (sah: 12); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-tretinoin-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci
 - Amaran dan kontraindikasi daripada sisipan pek NPRA
 - Kajian praklinikal atau semakan literatur tentang retinoid dalam penyakit reumatik
 - Penilaian keselamatan khusus untuk kanak-kanak dan pesakit dengan penyakit tulang, hati, buah pinggang atau pankreas
 - Kajian kesesuaian laluan pemberian dan kebolehsediaan produk di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "dan tretinoin tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

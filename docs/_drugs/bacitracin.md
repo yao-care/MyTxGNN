@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 120
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Bacitracin: indikasi baharu diramal Keratokonjunktivitis epitelium bertitik (punctate epithelial keratoco… (tahap bukti L5). Indikasi asal: Tiada data indikasi lulus dalam rekod pendaftaran tempatan"
 monitor_inn: "Bacitracin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "infective urethral stricture", "post-infectious syndrome", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
@@ -124,12 +124,31 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pembungkusan.
 **Rasional:**
 - Ramalan untuk keratokonjunktivitis epitelium bertitik hanya berasaskan model (L5), tanpa percubaan klinikal atau literatur, dan hubungan mekanistiknya lemah kerana keadaan ini lazimnya bukan berpunca daripada bakteria.
 
+<!-- review:begin my-lic-20261105-bacitracin-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ramalan untuk keratokonjunktivitis epitelium bertitik hanya berasaskan model (L5), tanpa percubaan klinikal atau literatur, dan hubungan mekanistiknya lemah kerana keadaan ini lazimnya bukan berpunca daripada bakteria. Ubat ini juga tidak mempunyai pendaftaran di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 25 pendaftaran (sah: 24); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-bacitracin-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA (jurang data yang menghalang saringan keselamatan)
 - Data mekanisme tindakan (MOA) terperinci
 - Carian literatur dan percubaan klinikal yang disasarkan untuk keratokonjunktivitis dan penyakit permukaan mata
 - Pengesahan kesesuaian laluan pentadbiran (topikal oftalmik) dan status pendaftaran formulasi oftalmik di Malaysia
 - Pertimbangan untuk menilai otitis externa (L4) sebagai soalan penyelidikan alternatif, dengan syarat sumbangan bacitracin dapat diasingkan daripada produk gabungan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak mempunyai pendaftaran di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

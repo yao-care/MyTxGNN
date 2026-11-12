@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 588
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "POLYETHYLENE GLYCOL"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
 description: "Polyethylene Glycol: indikasi baharu diramal Eritroderma iktiosiform kongenital (congenital ichthyosiform erythroderma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -96,12 +96,31 @@ Senarai ini perlu disahkan dengan sumber label rasmi sebelum digunakan dalam kep
 **Rasional:**
 - Ramalan ini hanya berasaskan model (tahap bukti L5) tanpa sebarang percubaan klinikal atau penerbitan, dan mekanisme tindakan tidak dapat disahkan. Patofisiologi penyakit sasaran tidak bertindih dengan kegunaan asal PEG. Data keselamatan daripada sisipan pakej tidak lengkap.
 
+<!-- review:begin my-lic-20261105-polyethylene_glycol-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Tiada pendaftaran tempatan, dan data keselamatan daripada sisipan pakej tidak lengkap." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 9 pendaftaran (sah: 9); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-polyethylene_glycol-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) daripada DrugBank
 - Sisipan pakej dan maklumat amaran/kontraindikasi daripada NPRA (jurang data yang menghalang saringan keselamatan)
 - Kajian praklinikal atau semakan literatur mengenai kesan PEG terhadap penghalang kulit dalam iktiosis
 - Penilaian kesesuaian laluan pentadbiran (contohnya formulasi topikal), yang masih belum ditentukan
 - Pengesahan senarai kontraindikasi graf pengetahuan dengan sumber label rasmi
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Tiada pendaftaran tempatan, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

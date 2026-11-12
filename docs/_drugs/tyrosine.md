@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 709
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TYROSINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "traumatic glaucoma", "aqueous misdirection", "neovascular glaucoma"]
 description: "Tyrosine: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -104,11 +104,30 @@ Nota: pertimbangan teori yang relevan ialah tirosin ialah substrat sintesis horm
 **Rasional:**
 - Ramalan sindrom cauda equina hanya berasaskan skor model (L5), tanpa ujian klinikal atau literatur, dan tiada hubungan mekanisme yang munasabah. Sepuluh ramalan teratas kesemuanya berada pada tahap Hold.
 
+<!-- review:begin my-lic-20261105-tyrosine-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Tirosin juga tidak berdaftar di Malaysia. Sepuluh ramalan teratas kesemuanya berada pada tahap Hold." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 20 pendaftaran (sah: 20); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-tyrosine-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang penilaian keselamatan)
 - Data mekanisme tindakan (MOA) daripada DrugBank
 - Bukti praklinikal atau klinikal yang menunjukkan kesan tirosin pada patologi cauda equina
 - Pertimbangan semula indikasi lain yang mempunyai asas biologi yang lebih jelas
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Tirosin juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

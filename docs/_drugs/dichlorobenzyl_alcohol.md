@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 283
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dichlorobenzyl Alcohol: indikasi baharu diramal Bronkitis (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan dalam data yang dikumpulkan (antisepti…"
 monitor_inn: "dichlorobenzyl alcohol"
 predicted_indications: ["bronchitis", "migraine disorder"]
@@ -91,12 +91,38 @@ Nota: Penerbitan ini hanya menyebut terbitan struktur kimia yang berlainan (klen
 **Rasional:**
 - Ramalan hanya berasaskan model (tahap bukti L5), tanpa percubaan klinikal, tanpa literatur yang relevan, dan tanpa mekanisme tindakan yang disahkan.
 
+<!-- review:begin my-lic-20261105-dichlorobenzyl_alcohol-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ramalan hanya berasaskan model (tahap bukti L5), tanpa percubaan klinikal, tanpa literatur yang relevan, dan tanpa mekanisme tindakan yang disahkan. Produk ini juga tidak berdaftar atau dipasarkan di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 7 pendaftaran (sah: 7); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-dichlorobenzyl_alcohol-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej (data ini belum diperoleh dan menghalang saringan keselamatan)
 - Data mekanisme tindakan (MOA) terperinci, misalnya daripada DrugBank
 - Semakan literatur yang lebih menyeluruh tentang diklorobenzil alkohol dalam jangkitan saluran pernafasan
 - Penilaian keserasian laluan pemberian (lozenj tekak berbanding keperluan untuk bronkitis)
 - Status pendaftaran atau laluan kawal selia di Malaysia
+
+<!-- review:begin my-lic-20261105-dichlorobenzyl_alcohol-2 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Status pendaftaran atau laluan kawal selia di Malaysia, memandangkan tiada lesen dikesan" Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 7 pendaftaran (sah: 7); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-dichlorobenzyl_alcohol-2 -->
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Produk ini juga tidak berdaftar atau dipasarkan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "memandangkan tiada lesen dikesan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

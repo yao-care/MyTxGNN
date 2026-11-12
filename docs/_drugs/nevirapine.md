@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 523
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "NEVIRAPINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Nevirapine: indikasi baharu diramal Sindrom imunodefisiensi didapati kucing (feline acquired immunodeficiency syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -102,6 +102,12 @@ Untuk amaran utama dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan
 **Rasional:**
 - Bukti hanya satu kajian in vitro/struktur yang mencadangkan aktiviti nevirapine terhadap RT FIV terhad. Tiada ujian klinikal atau data in vivo, dan indikasi ini veterinar.
 
+<!-- review:begin my-lic-20261105-nevirapine-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Tiada ujian klinikal atau data in vivo, dan indikasi ini veterinar. Tiada pendaftaran di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 4 pendaftaran (sah: 4); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-nevirapine-1 -->
+
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci
 - Kajian in vivo/veterinar yang mengesahkan keberkesanan dan keselamatan pada kucing
@@ -114,6 +120,19 @@ Untuk amaran utama dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan
 
 - **Jangkitan virus imunodefisiensi simian (SIV)** (skor 0.9985, L4, Hold): SIV secara semula jadi rintang terhadap NNRTI seperti nevirapine disebabkan perbezaan poket RT. Hanya konstruk kimera SIV/SHIV yang membawa RT HIV-1 sensitif, dan ia digunakan sebagai model haiwan praklinikal, bukan sebagai indikasi terapeutik manusia. Tiada ujian klinikal.
 - **Gangguan perkembangan saraf dengan gaya berjalan ataksia, ketiadaan pertuturan dan pengurangan bahan putih korteks** (skor 0.9982, L5, Hold): Tiada hubungan mekanisme yang jelas, tiada ujian klinikal atau literatur; ramalan ini berkemungkinan artifak rangkaian dan memerlukan pengesahan mekanisme bebas.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Tiada pendaftaran di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

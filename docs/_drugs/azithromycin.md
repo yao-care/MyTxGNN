@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "AZITHROMYCIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Azithromycin: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -72,6 +72,12 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 Senarai di bawah ialah lima daripadanya; teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 
+<!-- review:begin my-lic-20261105-azithromycin-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Azithromycin mempunyai 45 pendaftaran yang sah di Malaysia (semuanya produk bahan tunggal), dan tiada yang dibatalkan. Senarai di bawah ialah lima daripadanya; teks indikasi yang diluluskan tidak direkodkan dalam data tempatan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 45 pendaftaran (sah: 44); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-azithromycin-1 -->
+
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
 | MAL16065052AZ | Azicine 250mg Hard Capsule | Tidak direkodkan | Tidak direkodkan |
@@ -97,6 +103,19 @@ Ramalan ini tidak disokong oleh sebarang ujian klinikal atau penerbitan, dan tia
 - Kajian praklinikal atau laporan klinikal yang secara langsung mengkaji penyakit ini
 - Amaran dan kontraindikasi daripada risalah maklumat produk tempatan
 - Penilaian hubungan mekanistik antara kesan azithromycin dengan hiperkelikatan akibat gammopati poliklonal
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Azithromycin mempunyai 45 pendaftaran yang sah di Malaysia (semuanya produk bahan tunggal), dan tiada yang dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

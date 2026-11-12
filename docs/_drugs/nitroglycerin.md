@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 529
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Nitroglycerin: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L3). Indikasi asal: Tiada data indikasi berdaftar di Malaysia dalam data yang dikumpulkan…"
 monitor_inn: "NITROGLYCERIN"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "primary hereditary glaucoma", "congenital hypotrichosis milia"]
@@ -112,6 +112,12 @@ Maklumat amaran utama daripada sisipan pakej tidak tersedia. Sila rujuk sisipan 
 **Justifikasi:**
 - Mekanisme NO-cGMP munasabah dan terdapat beberapa kajian kecil serta satu RCT neonatal, tetapi tiada percubaan fasa 2/3 yang selesai. Data amaran serta kontraindikasi daripada label belum tersedia, jadi saringan keselamatan belum boleh diteruskan.
 
+<!-- review:begin my-lic-20261105-nitroglycerin-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Produk juga tidak berdaftar di Malaysia, dan data amaran serta kontraindikasi daripada label belum tersedia, jadi saringan keselamatan belum boleh diteruskan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 5 pendaftaran (sah: 5); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-nitroglycerin-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej dan data amaran/kontraindikasi daripada NPRA
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
@@ -127,6 +133,18 @@ Maklumat amaran utama daripada sisipan pakej tidak tersedia. Sila rujuk sisipan 
 | Kyphoscoliotic heart disease | 0.9942 | L5 | Tiada percubaan atau literatur; hanya ramalan pengiraan |
 | Primary hereditary glaucoma | 0.9916 | L5 | Tiada bukti; penderma NO dikaji secara eksperimen untuk tekanan intraokular tetapi tidak mantap untuk glaukoma kongenital |
 | Congenital hypotrichosis milia | 0.9902 | L5 | Tiada hubungan mekanisme yang jelas; kemungkinan artifak rangkaian |
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Produk juga tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

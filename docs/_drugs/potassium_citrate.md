@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Potassium citrate"
 predicted_indications: ["familial visceral myopathy", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Pendred syndrome", "cystinosis", "autosomal recessive nonsyndromic deafness", "exocrine pancreatic insufficiency", "leukocyte adhesion deficiency", "adult Fanconi syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Potassium Citrate: indikasi baharu diramal Miopati viseral keluarga (familial visceral myopathy) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -72,6 +72,12 @@ Pada masa ini tiada literatur berkaitan.
 
 Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lesen utama produk ramuan tunggal:
 
+<!-- review:begin my-lic-20261105-potassium_citrate-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data yang dikumpulkan menunjukkan 31 lesen yang sah, terdiri daripada 5 produk ramuan tunggal dan 26 produk gabungan. Tiada lesen yang dibatalkan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 31 pendaftaran (sah: 30); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-potassium_citrate-1 -->
+
 | Nombor Kelulusan | Nama Produk | Pengilang |
 |---------|------|------|
 | MAL19962488X | Rexom Potassium Citrate Mixture | KCK Pharmaceutical Industries Sdn. Bhd. |
@@ -100,6 +106,18 @@ Ramalan ini hanya berasaskan model tanpa sebarang percubaan klinikal atau litera
 - Data mekanisme tindakan (MOA) yang terperinci
 - Bukti praklinikal atau klinikal yang mengkaji secara langsung miopati viseral keluarga
 - Maklumat amaran dan kontraindikasi daripada sisipan pek NPRA
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Data yang dikumpulkan menunjukkan 31 lesen yang sah, terdiri daripada 5 produk ramuan tunggal dan 26 produk gabungan. Tiada lesen yang dibat" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

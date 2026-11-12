@@ -16,6 +16,7 @@
 """
 import importlib.util
 import json
+import os
 import re
 import subprocess
 import sys
@@ -109,7 +110,7 @@ def main(argv):
         run(["git", "diff", "--", "docs"], check=False)
         (OUT / "pages.diff").write_text(run(["git", "diff", "--", "docs"], check=False).stdout, encoding="utf-8")
         if code:
-            run(["git", "checkout", "--", "docs"], check=False)
+            run(["git", "checkout", "--", "docs", "snapshots"], check=False)  # 快照跟頁面一起還原（2026-11-12）
         md()
         print("\n".join(S))
         sys.exit(code)
@@ -141,8 +142,29 @@ def main(argv):
     S.append(f"- 許可證表狀態格改 {len(tch)} 格" + (f"（本站沒有寫法、未改 {len(uns)} 格）" if uns else ""))
     rows = lts.sync_market_rows(SITE)
     S.append(f"- 概覽表狀態／張數列改 {sum(len(v) for v in rows.values())} 格（{len(rows)} 頁）")
+    # 2026-11-12 本站查核機制：刪句前先存一份頁面，刪完把刪掉的子句轉成查核紀錄（docs/_data/drug_reviews.json），
+    # 再重套紀錄、重建許可證快照（gate 的查核紀錄、許可證項目檢查）
+    import shutil
+    before = OUT / "pages_before_delete"
+    shutil.rmtree(before, ignore_errors=True)
+    shutil.copytree(ROOT / "docs/_drugs", before)
     r = run([PY, ".claude/delete_license_sentences.py", SITE, "--log", str(OUT / "deletions.tsv")], cwd=ws)
     S.append("- 矛盾句：" + r.stdout.strip().split("\n")[-1])
+    today_rec = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d")
+    r = run([PY, "scripts/reviews_from_edits.py", "--dirs", str(before), str(ROOT / "docs/_drugs"),
+             "--date", today_rec, "--commit", "license-rebuild " + os.environ.get("GITHUB_RUN_ID", "local"), "--write"], check=False)
+    S.append("- 查核紀錄：" + (r.stdout.strip().split("\n") or [""])[0])
+    if r.returncode != 0:
+        stop(4, "刪句轉查核紀錄失敗：" + (r.stdout + r.stderr)[-300:])
+    r = run([PY, "scripts/apply_drug_reviews.py"], check=False)
+    S.append("- " + (r.stdout.strip().split("\n") or [""])[-1])
+    if r.returncode != 0:
+        stop(4, "查核紀錄套用有問題：" + (r.stdout + r.stderr)[-300:])
+    r = run([PY, "scripts/build_license_snapshot.py", "--ws", str(ws)], check=False)
+    S.append("- " + (r.stdout.strip().split("\n") or [""])[-1])
+    if r.returncode != 0:
+        stop(4, "許可證快照重建失敗：" + (r.stdout + r.stderr)[-300:])
+    shutil.rmtree(before, ignore_errors=True)
     lr = _load("lr", ws / ".claude/license_refresh_20261029.py")
     today = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d")
     n_body = lr.fix_lastmod(SITE, today)

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 377
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "FULVESTRANT"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Fulvestrant: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -40,6 +40,12 @@ Tahap bukti: **L4** | Indikasi diramal: **10**
 
 Fulvestrant ialah antagonis sekaligus pendegradasi reseptor estrogen. Data yang dikompil untuk laporan ini tidak mencatatkan indikasi asalnya di Malaysia.
 Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan HIV**, tetapi sokongan buktinya lemah: **0 ujian klinikal** dan **2 penerbitan** (satu kajian prasiklinikal in vitro dan satu kajian mengenai virus lain, HTLV-1).
+
+<!-- review:begin my-lic-20261105-fulvestrant-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data yang dikompil untuk laporan ini tidak mencatatkan indikasi asalnya di Malaysia kerana tiada lesen berdaftar." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 11 pendaftaran (sah: 10); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-fulvestrant-1 -->
 
 ---
 
@@ -98,6 +104,12 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 **Rasional:**
 - Ramalan HIV hanya disokong oleh satu kajian in vitro dan skor model, tanpa ujian klinikal. Maklumat keselamatan daripada label tiada.
 
+<!-- review:begin my-lic-20261105-fulvestrant-2 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ubat ini juga tidak berdaftar di Malaysia dan maklumat keselamatan daripada label tiada." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 11 pendaftaran (sah: 10); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-fulvestrant-2 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Muat turun dan huraikan sisipan pakej NPRA bagi amaran dan kontraindikasi (jurang data yang menyekat).
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
@@ -112,6 +124,20 @@ Sembilan ramalan lain tidak disyorkan untuk diteruskan pada peringkat ini:
 - **Neoplasia endokrin berganda** (skor 0.9985): ujian yang disenaraikan hampir semuanya melibatkan kanser payudara HR+/HER2-, dengan fulvestrant sebagai pembanding atau tulang belakang gabungan, bukan MEN. Kaitan ini mungkin hasil padanan kata kunci "endokrin".
 - **Artritis reumatoid** (skor 0.9958): kajian haiwan menunjukkan sekatan estrogen boleh memburukkan keradangan, jadi antagonisme ER mungkin memudaratkan. Arah kesannya tidak pasti.
 - **Jangkitan virus imunodefisiensi simia, AIDS felin, jerawat (acne), dan beberapa penyakit genetik jarang** (gangguan neurodevelopmen, sindrom brakidaktili-sindaktili, hemoglobinopati, sindrom displasia rizomelik-mikroftalmia kolobomatus): tiada ujian, tiada literatur dan tiada mekanisme yang disokong; skor datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "kerana tiada lesen berdaftar" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

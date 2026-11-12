@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 558
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PANTOTHENIC ACID"
 predicted_indications: ["congenital prothrombin deficiency", "ochronosis disorder", "glycerol metabolism disease", "folic acid deficiency anemia", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis"]
 description: "Pantothenic Acid: indikasi baharu diramal Kekurangan protrombin kongenital (congenital prothrombin deficiency) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -113,11 +113,30 @@ Data amaran utama dan interaksi ubat tidak tersedia. Sila rujuk risalah pek untu
 - Ramalan teratas (kekurangan protrombin kongenital) hanya berasaskan model tanpa ujian klinikal, tanpa literatur dan tanpa hubungan mekanistik yang munasabah (L5).
 - Hanya anemia kekurangan asid folik dan penyakit radang uterus mempunyai isyarat awal (L4), tetapi bukti masih tidak langsung atau praklinikal.
 
+<!-- review:begin my-lic-20261105-pantothenic_acid-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ramalan teratas (kekurangan protrombin kongenital) hanya berasaskan model tanpa ujian klinikal, tanpa literatur dan tanpa hubungan mekanistik yang munasabah (L5). Ubat ini juga tidak berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 19 pendaftaran (sah: 19); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-pantothenic_acid-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) daripada DrugBank
 - Amaran dan kontraindikasi daripada risalah pek NPRA (jurang data yang menghalang saringan keselamatan)
 - Pertimbangan semula keutamaan: menilai anemia kekurangan asid folik dan penyakit radang uterus sebagai soalan penyelidikan, termasuk kajian praklinikal tambahan
 - Pengesahan sama ada produk asid pantotenik wujud sebagai suplemen/makanan di Malaysia dan laluan pengawalseliaan yang berkaitan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

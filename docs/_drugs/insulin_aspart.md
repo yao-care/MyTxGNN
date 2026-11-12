@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 417
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "INSULIN ASPART"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
 description: "Insulin Aspart: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -115,6 +115,12 @@ Sila rujuk sisipan pembungkusan untuk maklumat keselamatan.
 - Terdapat beberapa ujian Fasa 3 yang selesai dan kajian sistematik yang menyokong penggunaan insulin aspart dalam diabetes jenis 1, dan ia merupakan penggunaan standard yang telah mantap (Tahap Bukti L1).
 - Maklumat keselamatan dari sisipan pembungkusan belum diperoleh.
 
+<!-- review:begin my-lic-20261105-insulin_aspart-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ubat ini tidak mempunyai pendaftaran di Malaysia dalam data yang dikompilasi, dan maklumat keselamatan dari sisipan pembungkusan belum diperoleh." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 16 pendaftaran (sah: 16); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-insulin_aspart-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Pengesahan status pendaftaran dan pasaran semasa di Malaysia (NPRA)
 - Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA (perlu dimuat turun dan dihuraikan)
@@ -134,6 +140,19 @@ Indikasi lain yang diramalkan mempunyai bukti yang lemah atau tiada:
 | Oophoritis autoimun, opsismodisplasia, sindrom disfungsi responsif tiamin, sindrom anggota kaku fokal, sindrom orang kaku klasik, lipodistrofi setempat teraruh ubat, lipodistrofi sentrifugal | L5 | Hold |
 
 Bagi diabetes neonatal kekal dan agenesis pankreas, penggantian insulin munasabah secara mekanistik, tetapi bukti yang diperoleh terhad atau tidak langsung. Bagi lipodistrofi setempat teraruh ubat, ramalan ini berkemungkinan isyarat keselamatan (kesan advers suntikan insulin berulang) dan bukan indikasi terapeutik. Bagi sindrom orang kaku, skor mungkin mencerminkan kaitan dengan diabetes autoimun dan bukan hubungan terapeutik.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini tidak mempunyai pendaftaran di Malaysia dalam data yang dikompilasi, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

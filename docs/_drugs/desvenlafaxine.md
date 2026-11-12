@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 268
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "desvenlafaxine"
 predicted_indications: ["obsessive-compulsive disorder", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Desvenlafaxine: indikasi baharu diramal Gangguan obsesif-kompulsif (obsessive-compulsive disorder) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -102,6 +102,12 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej produk.
 **Rasional:**
 - Ramalan OCD hanya disokong oleh kaitan mekanistik kelas SNRI dan literatur tidak langsung, tanpa sebarang ujian klinikal khusus desvenlafaxine.
 
+<!-- review:begin my-lic-20261105-desvenlafaxine-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ramalan OCD hanya disokong oleh kaitan mekanistik kelas SNRI dan literatur tidak langsung, tanpa sebarang ujian klinikal khusus desvenlafaxine. Ubat ini juga tidak didaftarkan di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 4 pendaftaran (sah: 4); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-desvenlafaxine-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data keberkesanan langsung desvenlafaxine dalam OCD (ujian klinikal atau kajian terkawal)
 - Data mekanisme tindakan (MOA) terperinci
@@ -118,6 +124,19 @@ Walaupun laporan ini memfokuskan pada ramalan teratas (OCD), dua indikasi lain m
 - **Melankolia**: Tahap bukti L3, tetapi ini sebahagian besarnya pengulangan indikasi sedia ada (kemurungan major) dan bukannya indikasi baharu yang sebenar.
 
 Indikasi lain (gangguan personaliti skizotipal/skizoid/paranoid/histrionik, sindrom Ohdo, tortikolis paroksismal jinak bayi, agorafobia) hanya berasaskan ramalan model (L5) tanpa bukti sokongan. Skor yang serupa merentasi gangguan personaliti mencadangkan artifak model peringkat kelas dan bukannya isyarat khusus ubat.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak didaftarkan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

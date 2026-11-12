@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 716
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Valine: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L4). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "VALINE"
 predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyperthyroidism", "traumatic glaucoma", "aqueous misdirection", "neovascular glaucoma", "glaucomatous atrophy of optic disc", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "obsolete bundle branch block", "hyperthyroxinemia"]
@@ -62,6 +62,12 @@ Tiada mekanisme langsung yang mengaitkan valine dengan kolangitis sklerosis tela
 
 Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
+<!-- review:begin my-lic-20261105-valine-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Valine tidak mempunyai pendaftaran NPRA pada masa ini (jumlah lesen: 0)." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 49 pendaftaran (sah: 43); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-valine-1 -->
+
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
@@ -82,6 +88,12 @@ Sila rujuk risalah pakej untuk maklumat keselamatan. Tiada data interaksi ubat d
 **Rasional:**
 - Ramalan ini hanya disokong oleh skor model dan dua kajian tidak langsung. Tiada percubaan klinikal, tiada mekanisme yang ditetapkan.
 
+<!-- review:begin my-lic-20261105-valine-2 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Tiada percubaan klinikal, tiada mekanisme yang ditetapkan, dan tiada pendaftaran tempatan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 49 pendaftaran (sah: 43); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-valine-2 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci
 - Maklumat amaran dan kontraindikasi daripada risalah pakej NPRA (jurang data yang menghalang saringan keselamatan)
@@ -91,6 +103,20 @@ Sila rujuk risalah pakej untuk maklumat keselamatan. Tiada data interaksi ubat d
 ---
 
 **Nota tentang calon indikasi lain:** Calon peringkat 2–10 (glaukoma sudut tertutup, hipertiroidisme, glaukoma traumatik, salah arah akueus, glaukoma neovaskular, atrofi glaukomatus cakera optik, rintangan hormon tiroid, blok cabang berkas yang usang, dan hiperteroksinemia) turut mendapat keputusan **Hold**. Kebanyakannya tidak mempunyai bukti, atau bukti yang ada hanyalah laporan kes genetik di mana "Val" merujuk kepada penggantian asid amino dalam protein reseptor dan bukan kesan valine sebagai ubat. Bagi hipertiroidisme, kajian yang ada hanya menunjukkan perubahan metabolisme BCAA akibat status tiroid, bukan kesan terapeutik valine.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Valine tidak mempunyai pendaftaran NPRA pada masa ini (jumlah lesen: 0)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "dan tiada pendaftaran tempatan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

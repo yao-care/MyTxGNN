@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 557
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PANTOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Pantoprazole: indikasi baharu diramal Duodenal obstruction (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -123,12 +123,31 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 - Keberkesanan pantoprazole pada ulser peptik disokong oleh ujian Fasa 3 dan beberapa kajian perbandingan. Indikasi ini sudah menjadi kegunaan sedia ada, jadi nilai pengalihan tujuan baharu adalah rendah.
 - Data keselamatan daripada label belum tersedia, jadi kemajuan perlu disertai langkah kawalan.
 
+<!-- review:begin my-lic-20261105-pantoprazole-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ubat ini tidak berdaftar di Malaysia dan data keselamatan daripada label belum tersedia, jadi kemajuan perlu disertai langkah kawalan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 31 pendaftaran (sah: 31); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-pantoprazole-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Memuat turun dan menganalisis sisipan pakej daripada NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat).
 - Memperoleh data mekanisme tindakan (MOA) terperinci, contohnya melalui API DrugBank.
 - Mengesahkan perincian lengan pantoprazole dalam NCT02084420.
 - Mengesahkan status pendaftaran dan laluan pendaftaran di Malaysia.
 - Merangka pelan pemantauan keselamatan, termasuk interaksi ubat (terutamanya atazanavir dan acalabrutinib) serta risiko pada pesakit osteoporosis atau kekurangan vitamin B12.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini tidak berdaftar di Malaysia dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 339
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "ETHANOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 description: "Ethanol: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -79,6 +79,12 @@ Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Tiada satu pun kajian di bawah menilai etanol sebagai rawatan migrain. Penerbitan berikut dipilih sebagai paling relevan; tiada RCT yang menguji etanol.
 
+<!-- review:begin my-lic-20261105-ethanol-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Tiada lesen berdaftar ditemui di Malaysia bagi etanol dalam data yang dikumpulkan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 10 pendaftaran (sah: 9); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-ethanol-1 -->
+
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
 | [36373782](https://pubmed.ncbi.nlm.nih.gov/36373782/) | 2022 | Ulasan | Headache | Hubungan kompleks antara alkohol dengan migrain (alkohol dikenali sebagai pencetus) |
@@ -115,12 +121,32 @@ Maklumat amaran dan kontraindikasi tidak tersedia; sila rujuk sisipan pakej untu
 **Justifikasi:**
 - Ramalan TxGNN tinggi, tetapi tiada percubaan klinikal dan tiada kajian yang menunjukkan etanol merawat migrain. Bukti sedia ada lebih menunjukkan etanol sebagai pencetus migrain.
 
+<!-- review:begin my-lic-20261105-ethanol-2 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Bukti sedia ada lebih menunjukkan etanol sebagai pencetus migrain. Etanol juga tidak berdaftar di Malaysia, maka tahap bukti ialah L5." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 10 pendaftaran (sah: 9); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-ethanol-2 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang penilaian keselamatan)
 - Penilaian semula arah hubungan etanol–migrain (pencetus berbanding terapeutik) sebelum sebarang kajian lanjut
 - Kajian praklinikal atau klinikal yang menunjukkan kesan terapeutik, termasuk laluan pentadbiran yang sesuai
 - Pelan pemantauan keselamatan, terutama kerana interaksi ubat dan sifat etanol sebagai pencetus migrain
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Tiada lesen berdaftar ditemui di Malaysia bagi etanol dalam data yang dikumpulkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Etanol juga tidak berdaftar di Malaysia, maka tahap bukti ialah L5" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

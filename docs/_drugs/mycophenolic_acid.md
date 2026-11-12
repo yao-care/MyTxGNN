@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 518
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Mycophenolic Acid: indikasi baharu diramal Hemoglobinopati (tahap bukti L5). Indikasi asal: Tiada maklumat"
 monitor_inn: "MYCOPHENOLIC ACID"
 predicted_indications: ["hemoglobinopathy", "migraine disorder", "migraine with brainstem aura", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "pyropoikilocytosis, hereditary", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyruvate kinase deficiency of red cells", "rheumatoid arthritis", "antithrombin deficiency type 2"]
@@ -41,6 +41,12 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 Asid mikofenolik (mycophenolic acid) ialah agen imunosupresif yang menghalang enzim inosine monophosphate dehydrogenase (IMPDH); indikasi asalnya tidak dapat disahkan.
 Model TxGNN meramalkan ia mungkin berkesan untuk **hemoglobinopati** (skor 0.9960), dengan **1 percubaan klinikal** (hubungan tidak langsung) dan **1 penerbitan** (cadangan dos, bukan bukti keberkesanan) yang menyokong arah ini.
 Tahap bukti masih lemah dan lebih sesuai dianggap sebagai soalan penyelidikan.
+
+<!-- review:begin my-lic-20261105-mycophenolic_acid-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Asid mikofenolik (mycophenolic acid) ialah agen imunosupresif yang menghalang enzim inosine monophosphate dehydrogenase (IMPDH); indikasi asalnya tidak dapat disahkan kerana tiada pendaftaran tempatan di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 5 pendaftaran (sah: 5); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-mycophenolic_acid-1 -->
 
 ---
 
@@ -102,11 +108,31 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 **Rasional:**
 - Bukti untuk hemoglobinopati terhad kepada satu percubaan yang tidak menguji asid mikofenolik secara langsung dan satu kertas cadangan dos. Tiada bukti keberkesanan.
 
+<!-- review:begin my-lic-20261105-mycophenolic_acid-2 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Tiada bukti keberkesanan, dan ubat ini tidak berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 5 pendaftaran (sah: 5); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-mycophenolic_acid-2 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data amaran dan kontraindikasi daripada risalah maklumat NPRA (jurang data yang menghalang saringan keselamatan)
 - Data mekanisme tindakan terperinci daripada DrugBank
 - Bukti klinikal keberkesanan (contohnya RCT atau kajian cerapan) bagi MMF/asid mikofenolik dalam profilaksis GVHD pada pesakit talasemia
 - Penjelasan status pendaftaran dan formulasi yang tersedia di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "kerana tiada pendaftaran tempatan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "dan ubat ini tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

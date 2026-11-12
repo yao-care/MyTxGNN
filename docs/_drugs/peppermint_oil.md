@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 564
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Peppermint oil"
 predicted_indications: ["leprosy", "pneumocystosis", "coronary artery disease", "myocardial ischemia", "echinococcus granulosus infectious disease", "polyp of vocal cord", "uterine polyp", "polyp of middle ear", "cardiovascular disease", "polyp of frontal sinus"]
 description: "Peppermint Oil: indikasi baharu diramal Leprosy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -41,6 +41,12 @@ Tahap bukti: **L5** | Indikasi diramal: **10**
 Minyak pudina (peppermint oil) tidak mempunyai indikasi asal yang direkodkan dalam data yang dikumpulkan untuk laporan ini.
 Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit kardiovaskular** (skor 0.9913), dan ini merupakan ramalan dengan sokongan paling banyak antara 10 ramalan teratas.
 Setakat ini terdapat **1 ujian klinikal** dan **1 kajian RCT terkawal plasebo** (serta 1 protokolnya) dalam populasi hipertensi, tetapi hanya sebagai bukti tidak langsung.
+
+<!-- review:begin my-lic-20261105-peppermint_oil-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Minyak pudina (peppermint oil) tidak mempunyai indikasi asal yang direkodkan dalam data yang dikumpulkan untuk laporan ini, kerana tiada lesen berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 46 pendaftaran (sah: 42); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-peppermint_oil-1 -->
 
 ---
 
@@ -103,12 +109,32 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada data amaran, kontrain
 - Bukti terhad kepada satu ujian kecil (n=40) tanpa fasa dan satu RCT dalam populasi hipertensi dengan titik akhir pengganti, jadi ia tidak mencukupi untuk menyokong indikasi kardiovaskular secara umum.
 - Sembilan ramalan lain (termasuk leprosy, pneumocystosis, penyakit arteri koronari, iskemia miokardium dan pelbagai polip) hanyalah ramalan model (L5) tanpa bukti sokongan.
 
+<!-- review:begin my-lic-20261105-peppermint_oil-2 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Bukti terhad kepada satu ujian kecil (n=40) tanpa fasa dan satu RCT dalam populasi hipertensi dengan titik akhir pengganti, jadi ia tidak mencukupi untuk menyokong indikasi kardiovaskular secara umum. Ubat ini juga tidak berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 46 pendaftaran (sah: 42); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-peppermint_oil-2 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data keselamatan: amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat)
 - Data mekanisme tindakan (MOA) daripada DrugBank
 - Keputusan terperinci RCT hipertensi (PMID 42024666 dan NCT05561543), termasuk perubahan tekanan darah dan kesan sampingan
 - Kajian yang lebih besar dengan titik akhir kardiovaskular yang bermakna
 - Status pendaftaran dan kategori produk (ubat, suplemen atau makanan) serta kesesuaian laluan pentadbiran di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "kerana tiada lesen berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

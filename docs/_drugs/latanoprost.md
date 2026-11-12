@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 447
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "LATANOPROST"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
 description: "Latanoprost: indikasi baharu diramal Visceral calciphylaxis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -98,6 +98,12 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
 **Rasional:**
 - Data keselamatan rasmi belum lengkap. Ramalan lain sama ada tidak mempunyai kaitan mekanisme yang jelas atau hanya setakat hipotesis.
 
+<!-- review:begin my-lic-20261105-latanoprost-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Latanoprost juga tidak didaftarkan di Malaysia, dan data keselamatan rasmi belum lengkap." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 17 pendaftaran (sah: 17); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-latanoprost-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Memuat turun dan menghurai sisipan pakej NPRA bagi amaran dan kontraindikasi (jurang data yang menyekat saringan keselamatan).
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
@@ -105,6 +111,26 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
 - Menilai kebolehlaksanaan pendaftaran atau pengimportan produk di Malaysia.
 - Pengesahan tahap keterukan interaksi ubat yang kini tidak diketahui.
 - Jika meneroka hipotrikosis, kaji kesan analog PGF2α pada folikel rambut kulit kepala dengan latar belakang genetik berkaitan.
+
+<!-- review:begin my-lic-20261105-latanoprost-2 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Menilai kebolehlaksanaan pendaftaran atau pengimportan produk di Malaysia, kerana tiada lesen aktif." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 17 pendaftaran (sah: 17); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-latanoprost-2 -->
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Latanoprost juga tidak didaftarkan di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "kerana tiada lesen aktif" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 396
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "GUAIFENESIN"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
 description: "Guaifenesin: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -115,12 +115,31 @@ Maklumat amaran utama, kontraindikasi label dan interaksi ubat tidak tersedia. S
 **Justifikasi:**
 - Ramalan penyakit rongga hidung hanya disokong satu kajian ulasan lama (2002) tanpa ujian klinikal, dan ia sebahagian besarnya bertindih dengan indikasi asal yang sedia ada (rinitis, nasofaringitis, selsema). Maklumat keselamatan daripada label tidak tersedia.
 
+<!-- review:begin my-lic-20261105-guaifenesin-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ubat ini juga tidak berdaftar di Malaysia, dan maklumat keselamatan daripada label tidak tersedia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 23 pendaftaran (sah: 23); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-guaifenesin-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi) bagi menjalankan saringan keselamatan. Ini ialah jurang data yang menyekat (blocking).
 - Data mekanisme tindakan (MOA) daripada DrugBank bagi menganalisis kaitan mekanistik.
 - Ujian klinikal atau kajian terkawal untuk penyakit rongga hidung.
 - Pengesahan status pendaftaran dan sama ada produk guaifenesin tersedia di Malaysia.
 - Penilaian kaitan kontraindikasi daripada graf pengetahuan dengan teks label sebenar.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

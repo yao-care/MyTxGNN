@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ARGININE"
 predicted_indications: ["gastroparesis (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Arginine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -82,6 +82,12 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 Senarai terperinci lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
+<!-- review:begin my-lic-20261105-arginine-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data yang dikumpulkan menunjukkan 138 lesen sah dan tiada lesen dibatalkan. Senarai terperinci lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 138 pendaftaran (sah: 121); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-arginine-1 -->
+
 ## Pertimbangan Keselamatan
 
 Penyakit berikut dicatatkan sebagai keadaan yang perlu diberi perhatian apabila arginine digunakan (berdasarkan hubungan data sekunder, bukan teks label produk):
@@ -107,6 +113,19 @@ Ramalan ini hanya disokong oleh kajian haiwan dan mekanisme; tiada kajian yang m
 - Amaran dan kontraindikasi daripada sisipan pek produk NPRA
 - Kajian praklinikal atau klinikal yang menguji arginine secara langsung pada gastroparesis
 - Penilaian keselamatan untuk pesakit dengan penyakit buah pinggang, diabetes dan penyakit kardiovaskular, yang lazim dalam populasi gastroparesis
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Data yang dikumpulkan menunjukkan 138 lesen sah dan tiada lesen dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 538
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "OCTREOTIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
 description: "Octreotide: indikasi baharu diramal Keratosis folikular songsang vulva (vulvar inverted follicular keratosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -108,11 +108,30 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej produk.
 **Rasional:**
 - Ramalan hanya berasaskan skor model (tahap bukti L5) tanpa sebarang percubaan klinikal, literatur atau mekanisme biologi yang disokong.
 
+<!-- review:begin my-lic-20261105-octreotide-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ramalan hanya berasaskan skor model (tahap bukti L5) tanpa sebarang percubaan klinikal, literatur atau mekanisme biologi yang disokong. Ubat ini juga tidak berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 6 pendaftaran (sah: 6); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-octreotide-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) terperinci, serta bukti ekspresi reseptor somatostatin dalam tisu sasaran
 - Kajian praklinikal atau laporan kes yang berkaitan dengan indikasi yang diramalkan
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA untuk saringan keselamatan
 - Pengesahan laluan pendaftaran dan bentuk dos/laluan pentadbiran yang sesuai untuk indikasi baharu
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Glycine"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Glycine: indikasi baharu diramal Penyakit rongga hidung (tahap bukti L5). Indikasi asal: Rinitis alergi, rinitis vasomotor, faringitis, selesema biasa…"
 ---
 
@@ -88,6 +88,12 @@ Kedua-dua penerbitan ialah kajian praklinikal yang tidak mengkaji glycine untuk 
 
 Teks indikasi yang diluluskan dan bentuk dos tidak tersedia untuk rekod-rekod ini. Hanya produk bahan tunggal disenaraikan di bawah; produk kombinasi tidak menggambarkan status kelulusan glycine sebagai bahan tunggal.
 
+<!-- review:begin my-lic-20261105-glycine-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data yang dihimpun menunjukkan 209 pendaftaran sah, dan senarai ini lengkap. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia untuk rekod-rekod ini." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 213 pendaftaran (sah: 204); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-glycine-1 -->
+
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
 | MAL21116043N | DZR PHARMA L-GLYCINE 250MG CAPSULE | Kapsul (menurut nama produk) | Tiada teks indikasi tersedia |
@@ -115,6 +121,19 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
 - Data mekanisme tindakan (MOA) glycine daripada DrugBank.
 - Kajian praklinikal atau klinikal yang menilai glycine secara langsung untuk penyakit rongga hidung.
 - Penjelasan tentang laluan pemberian dan bentuk dos yang sesuai untuk kegunaan hidung.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Data yang dihimpun menunjukkan 209 pendaftaran sah, dan senarai ini lengkap" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

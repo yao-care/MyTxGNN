@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 323
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Enfortumab Vedotin: indikasi baharu diramal Kusta (leprosy) (tahap bukti L5). Indikasi asal: Tiada data"
 monitor_inn: "ENFORTUMAB VEDOTIN"
 predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "infectious bovine rhinotracheitis", "malignant catarrh"]
@@ -41,6 +41,12 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 Enfortumab vedotin ialah konjugat antibodi-ubat (ADC) yang menyasarkan Nectin-4 dan menghantar muatan sitotoksik MMAE; data indikasi asal tidak terdapat dalam data yang dikumpulkan untuk laporan ini.
 Model TxGNN meramalkan ia mungkin berkesan untuk **kusta (leprosy)** dengan skor tinggi, tetapi terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong arah ini.
 Ramalan ini hanyalah ramalan model TxGNN (pembelajaran mendalam) tanpa bukti sokongan; skor datang daripada model dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
+
+<!-- review:begin my-lic-20261105-enfortumab_vedotin-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Enfortumab vedotin ialah konjugat antibodi-ubat (ADC) yang menyasarkan Nectin-4 dan menghantar muatan sitotoksik MMAE; data indikasi asal tidak terdapat dalam data yang dikumpulkan untuk laporan ini kerana ubat ini tidak berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 2 pendaftaran (sah: 2); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-enfortumab_vedotin-1 -->
 
 ---
 
@@ -138,6 +144,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pembungkusan.
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Bukti praklinikal atau mekanistik yang menghubungkan Nectin-4/MMAE dengan patogenesis kusta
 - Penilaian kesamaan dengan indikasi asal dan keserasian laluan pentadbiran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "kerana ubat ini tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

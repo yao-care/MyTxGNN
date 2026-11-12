@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "Betamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Betamethasone: indikasi baharu diramal Alopesia musinosa (alopecia mucinosa) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -72,6 +72,12 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Daripadanya, 44 ialah produk bahan tunggal dan 53 produk gabungan. Jadual di bawah hanya menyenaraikan lima produk bahan tunggal.
 
+<!-- review:begin my-lic-20261105-betamethasone-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Semua 97 lesen yang direkodkan berstatus sah. Daripadanya, 44 ialah produk bahan tunggal dan 53 produk gabungan." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 98 pendaftaran (sah: 97); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-betamethasone-1 -->
+
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
 | MAL19940031AZ | YSP Betamethasone Tablet 0.5mg | Tidak direkodkan | Tidak direkodkan |
@@ -101,6 +107,18 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 - Data mekanisme tindakan yang terperinci
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA
 - Penilaian laluan pemberian dan bentuk dos yang sesuai (contohnya topikal atau intralesi)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Semua 97 lesen yang direkodkan berstatus sah" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

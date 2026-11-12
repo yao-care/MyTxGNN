@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 170
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Bromocriptine"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "syndromic myopia"]
 description: "Bromocriptine: indikasi baharu diramal Congenital disorder of glycosylation with defective fucosylation (tahap bukti L5)."
@@ -74,11 +74,30 @@ Sila rujuk sisipan pembungkusan untuk amaran utama dan kontraindikasi.
 - Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau penerbitan. Data mekanisme serta keselamatan belum lengkap.
 - Antara calon ramalan lain untuk ubat ini, **schizophrenia** (peringkat 9) mempunyai satu ujian klinikal Fasa 4 yang kecil dan belum merekrut (NCT03575000, n=15, tertumpu pada kesihatan metabolik). **Retinal dystrophy** (peringkat 3) mempunyai bukti tidak langsung. Satu laporan kes juga mencadangkan risiko psikosis yang dicetuskan oleh bromocriptine, jadi calon-calon ini wajar dinilai secara berasingan.
 
+<!-- review:begin my-lic-20261105-bromocriptine-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Bromocriptine juga tidak berdaftar di Malaysia, dan data mekanisme serta keselamatan belum lengkap." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 2 pendaftaran (sah: 2); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-bromocriptine-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang lengkap, contohnya daripada DrugBank
 - Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA
 - Kajian praklinikal atau penerbitan yang menghubungkan bromocriptine dengan jalur glikosilasi/fukosilasi
 - Maklumat indikasi asal dan status pendaftaran di Malaysia untuk menilai kebolehlaksanaan tempatan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Bromocriptine juga tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

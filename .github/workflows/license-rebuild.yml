@@ -87,7 +87,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898273+github-actions[bot]@users.noreply.github.com"
-          git add docs
+          git add docs snapshots   # snapshots/：許可證快照（gate；2026-11-12 本站查核機制）
           if git diff --cached --quiet; then echo "頁面沒有變化"; exit 0; fi
           git commit -m "fix(license): 依成分重建許可證並刪除與新事實矛盾的句子（$(git diff --cached --name-only -- docs/_drugs | wc -l | tr -d ' ') 個藥物頁）" \
             -m "來源：data.gov.my NPRA 現行註冊（pharmaceutical_products.csv）與撤銷清單（當日下載）；刪句清單見 workflow artifact license-rebuild-apply 的 deletions.tsv。"

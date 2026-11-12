@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 628
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Rivaroxaban: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L5). Indikasi asal: Tiada data indikasi diluluskan yang dapat dikenal pasti daripada data…"
 monitor_inn: "RIVAROXABAN"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
@@ -83,6 +83,12 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk artritis reu
 
 Tiada satu pun yang menunjukkan rivaroxaban merawat artritis reumatoid.
 
+<!-- review:begin my-lic-20261105-rivaroxaban-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Rivaroxaban tidak mempunyai pendaftaran yang direkodkan di Malaysia dalam data yang dikumpulkan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 50 pendaftaran (sah: 47); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-rivaroxaban-1 -->
+
 ---
 
 ## Maklumat Pasaran di Malaysia
@@ -119,6 +125,19 @@ Sila rujuk sisipan pek untuk maklumat amaran utama dan kontraindikasi rasmi.
 ## Nota: Ramalan Lain
 
 Ramalan lain dalam data (semuanya bertahap **Hold**) ialah **gout** (L5, tiada ujian klinikal; literatur tidak relevan dari segi keberkesanan), **jangkitan HIV** (L4, hanya isu DDI dan keselamatan; satu ujian kohort EINSTEIN CYP tidak menguji rawatan HIV), dan **sindrom brakidaktili-sindaktili** (L5, tiada bukti dan tiada pautan mekanistik yang munasabah).
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Rivaroxaban tidak mempunyai pendaftaran yang direkodkan di Malaysia dalam data yang dikumpulkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

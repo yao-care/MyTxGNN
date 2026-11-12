@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 356
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "FERROUS GLUCONATE"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder"]
 description: "Ferrous Gluconate: indikasi baharu diramal Vitamin B12- and folate-independent constitutional megaloblastic anemia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -126,12 +126,31 @@ Sila rujuk sisip bungkusan untuk maklumat keselamatan lengkap.
 **Rasional:**
 - Ramalan utama (Sindrom Plummer-Vinson) munasabah secara mekanistik tetapi pada dasarnya lanjutan indikasi anemia kekurangan zat besi sedia ada, tanpa percubaan atau literatur khusus (tahap bukti L4). Data keselamatan label belum tersedia.
 
+<!-- review:begin my-lic-20261105-ferrous_gluconate-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ubat ini juga tidak berdaftar di Malaysia, dan data keselamatan label belum tersedia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 8 pendaftaran (sah: 8); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-ferrous_gluconate-1 -->
+
 **Untuk diteruskan, perlu:**
 - Data amaran dan kontraindikasi daripada sisip bungkusan (NPRA atau sumber rujukan lain)
 - Data mekanisme tindakan (MOA) terperinci
 - Semakan literatur klinikal mengenai terapi zat besi dalam sindrom Plummer-Vinson
 - Penilaian laluan pentadbiran dan formulasi yang sesuai serta status pendaftaran tempatan
 - Pelan pemantauan keselamatan, terutamanya untuk pesakit dengan keadaan berisiko (cth. hemokromatosis, penyakit radang usus) dan panduan jarak masa dengan ubat berinteraksi
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

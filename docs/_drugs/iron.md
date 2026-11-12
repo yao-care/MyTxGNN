@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Iron"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Iron: indikasi baharu diramal Vitamin B12- and folate-independent constitutional megaloblastic anemia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -81,6 +81,12 @@ Setakat ini tiada literatur berkaitan yang tersedia untuk indikasi yang diramalk
 
 Status pasaran: dipasarkan. Sebanyak 80 lesen direkodkan, kesemuanya sah (30 produk bahan tunggal dan 50 produk gabungan). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Senarai lima lesen bahan tunggal utama:
 
+<!-- review:begin my-lic-20261105-iron-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Tiada lesen dibatalkan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 80 pendaftaran (sah: 79); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-iron-1 -->
+
 | Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
 | MAL21036012XC | HAEMO XL SYRUP (Iron (III) Hydroxide Polymaltose Complex) | Tiada data | Tiada data |
@@ -112,6 +118,18 @@ Tiada ujian klinikal atau literatur yang menyokong ramalan ini, dan zat besi buk
 - Kajian praklinikal atau klinikal yang menilai zat besi secara langsung dalam penyakit yang diramalkan ini
 - Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA
 - Penilaian keserasian laluan pemberian dan bentuk dos
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Tiada lesen dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

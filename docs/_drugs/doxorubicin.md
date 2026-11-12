@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Doxorubicin: indikasi baharu diramal Sarkoma Ewing (Ewing sarcoma) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data lesen tempatan (teks petunjuk kosong)"
 ---
 
@@ -112,6 +112,12 @@ Terdapat 20 penerbitan berkaitan. Jadual di bawah menyenaraikan 10 yang paling r
 
 Jadual menyenaraikan 5 yang utama. Teks petunjuk dan bentuk dos tidak direkodkan dalam data lesen, maka lajur tersebut tidak dipaparkan.
 
+<!-- review:begin my-lic-20261105-doxorubicin-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Terdapat 8 pendaftaran produk doxorubicin yang sah di Malaysia, semuanya produk bahan tunggal. Jadual menyenaraikan 5 yang utama." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 8 pendaftaran (sah: 7); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-doxorubicin-1 -->
+
 | Nombor Kebenaran | Nama Produk | Pengeluar |
 |---------|------|------|
 | MAL06061702AZ | A.D. Mycin injection 2mg/ml | First Pharmaceutical Sdn. Bhd. |
@@ -161,6 +167,19 @@ Beberapa percubaan fasa 3 yang telah selesai dan RCT yang diterbitkan dalam sark
 - Data mekanisme tindakan terperinci daripada sumber rujukan ubat
 - Pelan pemantauan keselamatan, terutamanya kardiotoksisiti kumulatif dan penekanan sumsum tulang, untuk pesakit kanak-kanak dan dewasa muda
 - Penilaian sumbangan doxorubicin secara berasingan dalam regimen berbilang ubat, serta pilihan antara formulasi biasa dan liposom
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Terdapat 8 pendaftaran produk doxorubicin yang sah di Malaysia, semuanya produk bahan tunggal" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

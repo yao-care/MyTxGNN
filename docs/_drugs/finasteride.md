@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 359
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 description: "Finasteride: indikasi baharu diramal Ambras type hypertrichosis universalis congenita (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -117,12 +117,31 @@ Untuk maklumat amaran dan kontraindikasi yang lengkap, sila rujuk sisipan pek pr
 **Rasional:**
 - Skor TxGNN yang tinggi hanyalah ramalan model. Tiada ujian klinikal, literatur yang ada hanya ulasan tidak langsung, dan mekanismenya tidak sepadan dengan hipertrikosis yang tidak bergantung kepada androgen. Risiko teratogenik pada wanita juga menambah kebimbangan.
 
+<!-- review:begin my-lic-20261105-finasteride-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Risiko teratogenik pada wanita juga menambah kebimbangan. Selain itu, finasteride tidak didaftarkan di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 8 pendaftaran (sah: 8); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-finasteride-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Maklumat amaran dan kontraindikasi daripada sisipan pek NPRA (halangan utama kepada saringan keselamatan)
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Bukti klinikal langsung yang membezakan hipertrikosis sejati daripada hirsutisme
 - Penilaian status pendaftaran dan laluan kawal selia di Malaysia
 - Pelan keselamatan untuk populasi berisiko, terutamanya wanita usia subur
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Selain itu, finasteride tidak didaftarkan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

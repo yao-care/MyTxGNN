@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 606
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "PROPYLTHIOURACIL"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
 description: "Propylthiouracil: indikasi baharu diramal Rintangan hormon tiroid akibat mutasi reseptor hormon tiroid beta (resistance to thyroid hormone due to a mutation in t… (tahap bukti L4). Indikasi asal: Tid…"
@@ -117,11 +117,30 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang penapisan keselamatan)
 - Penjelasan status pasaran Malaysia
 
+<!-- review:begin my-lic-20261105-propylthiouracil-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Penjelasan status pasaran Malaysia (tiada pendaftaran)" Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 1 pendaftaran (sah: 1); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-propylthiouracil-1 -->
+
 ---
 
 ### Nota Tambahan: Indikasi Ramalan Lain
 
 - **Hipertiroksinemia** (skor 0.9908, L4, cadangan: Hold): kategori ini heterogen (contohnya hipertiroksinemia disalbuminemik familial di mana ubat antitiroid tidak sesuai), tiada bukti terkawal, dan bertindih dengan indikasi hipertiroidisme sedia ada, jadi nilai penggunaan semula adalah rendah.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "(tiada pendaftaran)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

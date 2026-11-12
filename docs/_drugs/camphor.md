@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 189
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Camphor: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tiada data"
 monitor_inn: "Camphor"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
@@ -103,6 +103,12 @@ Sebagai catatan, laporan kes yang ditemui menunjukkan minyak pati pro-konvulsan,
 **Rasional:**
 - Bukti setakat ini terhad kepada satu kajian praklinikal pada haiwan dan laporan kes yang tidak langsung (malah mencadangkan potensi pencetus sakit kepala). Tiada ujian klinikal. Penemuan ini lebih sesuai dianggap sebagai soalan penyelidikan.
 
+<!-- review:begin my-lic-20261105-camphor-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Tiada ujian klinikal, dan produk ini tidak mempunyai pendaftaran di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 298 pendaftaran (sah: 289); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-camphor-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data keselamatan lengkap daripada sisipan pek NPRA (amaran dan kontraindikasi)
 - Data mekanisme tindakan (MOA) yang terperinci daripada sumber seperti DrugBank
@@ -126,6 +132,18 @@ Sembilan ramalan lain kekal pada tahap bukti L4–L5 dan disyorkan **Hold**:
 | Penyakit Raynaud | 0.9956 | L5 | Literatur mungkin kekeliruan nama |
 | Atrophoderma vermiculata | 0.9954 | L5 | Tiada ujian atau literatur |
 | Sindrom Tourette | 0.9946 | L5 | Tiada bukti; risiko sawan kamfor merupakan kebimbangan keselamatan untuk penggunaan sasaran CNS |
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "dan produk ini tidak mempunyai pendaftaran di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

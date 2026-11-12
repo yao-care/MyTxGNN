@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 439
 evidence_level: L1
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
 description: "Ketorolac: indikasi baharu diramal Gangguan sakit kepala (headache disorder) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -114,6 +114,12 @@ Berikut ialah percubaan yang paling relevan (sehingga 10). Terdapat 16 percubaan
 
 **Kontraindikasi daripada graf pengetahuan TxGNN (bukan teks label produk):** antara lain hipertensi, ulser gastrik/ulser peptik aktif, penyakit hati, penyakit pundi hempedu, penyakit radang usus, asma, diabetes mellitus dan ketoasidosis diabetik, gangguan pembekuan darah/hemofilia, strok dan gangguan serebrovaskular, infarksi miokardium, penyakit kardiovaskular, anemia, gangguan fungsi buah pinggang, serta sindrom mata kering.
 
+<!-- review:begin my-lic-20261105-ketorolac-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Menurut data yang dikumpulkan untuk laporan ini, ketorolac tidak mempunyai pendaftaran yang sah di Malaysia (0 lesen). Oleh itu, tiada jadual lesen dipaparkan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 6 pendaftaran (sah: 5); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-ketorolac-1 -->
+
 **Interaksi Ubat:** Sebanyak 100 interaksi dikenal pasti; 20 yang pertama dipaparkan dalam data. Yang utama:
 - **Major:** asid asetilsalisilik (aspirin)
 - **Moderate:** kortikosteroid (betametason, budesonid, deksametason, hidrokortison), sulfonilurea (asetoheksamid, klorpropamid, glimepirid, glipizid, gliburid), eksenatid, balsalazid, kanamisin, levofloksasin, fenfluramin/deksfenfluramin
@@ -145,6 +151,19 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 - Sisipan pakej NPRA (amaran dan kontraindikasi), yang kini tiada dan merupakan jurang data penyekat untuk saringan keselamatan
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Pelan pemantauan keselamatan untuk populasi berisiko (warga emas, kecacatan buah pinggang, penyakit gastrousus dan kardiovaskular) serta had tempoh rawatan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Menurut data yang dikumpulkan untuk laporan ini, ketorolac tidak mempunyai pendaftaran yang sah di Malaysia (0 lesen). Oleh itu, tiada jadua" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

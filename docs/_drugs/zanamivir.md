@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 730
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "ZANAMIVIR"
 predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
 description: "Zanamivir: indikasi baharu diramal Pyelonephritis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -66,6 +66,12 @@ Pyelonephritis pula ialah jangkitan **bakteria** pada buah pinggang, lazimnya di
 
 Skor TxGNN yang sangat tinggi (0.9984) ialah ramalan berasaskan model semata-mata. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Selain itu, ketiadaan data MOA menghadkan kebolehlaksanaan.
 
+<!-- review:begin my-lic-20261105-zanamivir-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Selain itu, ubat ini dipasarkan di Malaysia (1 lesen sah daripada 1), tetapi ketiadaan data MOA menghadkan kebolehlaksanaan." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 1 pendaftaran (sah: 0); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-zanamivir-1 -->
+
 ---
 
 ## Bukti Ujian Klinikal
@@ -109,6 +115,18 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 - Pertimbangan status pendaftaran dan ketersediaan produk di Malaysia
 
 ---
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "ubat ini dipasarkan di Malaysia (1 lesen sah daripada 1), tetapi" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

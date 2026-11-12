@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dexamethasone: indikasi baharu diramal Alopesia musinosa (alopecia mucinosa) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -72,6 +72,12 @@ Buat masa ini tiada literatur berkaitan.
 
 Status pasaran: **Dipasarkan**. Antara lesen yang sah, 22 ialah produk bahan tunggal dan selebihnya produk gabungan. Jadual di bawah menyenaraikan lima lesen produk bahan tunggal yang sah; bentuk dos tidak direkodkan dalam data tempatan.
 
+<!-- review:begin my-lic-20261105-dexamethasone-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Daripada keseluruhan 38 lesen, 36 masih sah dan 2 telah dibatalkan. Antara lesen yang sah, 22 ialah produk bahan tunggal dan selebihnya produk gabungan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 41 pendaftaran (sah: 37); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-dexamethasone-1 -->
+
 | Nombor Kelulusan | Nama Produk | Pengilang |
 |---------|------|------|
 | MAL20162625ACREZ | hovid Dexamethasone Phosphate Injection 4mg/ml | Hovid Berhad |
@@ -102,6 +108,18 @@ Ramalan ini mempunyai skor model yang tinggi (0,9999), tetapi tiada ujian klinik
 - Amaran, kontraindikasi dan maklumat keselamatan daripada risalah maklumat produk NPRA
 - Penilaian laluan pemberian yang sesuai (topikal, intralesi atau sistemik) berbanding produk yang didaftarkan
 - Pelan saringan untuk menyingkirkan limfoma sel-T kutaneus yang mendasari sebelum sebarang percubaan rawatan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Daripada keseluruhan 38 lesen, 36 masih sah dan 2 telah dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

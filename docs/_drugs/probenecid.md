@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 600
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Probenecid: indikasi baharu diramal Hipourisemia renal (tahap bukti L5). Indikasi asal: Gout"
 monitor_inn: "PROBENECID"
 predicted_indications: ["hypouricemia, renal", "Lesch-Nyhan syndrome", "hypoxanthine guanine phosphoribosyltransferase partial deficiency"]
@@ -107,6 +107,12 @@ Bagi ramalan sekunder (Lesch-Nyhan), hanya dua penerbitan diperoleh dan kedua-du
 
 Sisipan bungkusan NPRA tidak tersedia. Sila rujuk sisipan bungkusan produk dari bidang kuasa lain untuk amaran lengkap.
 
+<!-- review:begin my-lic-20261105-probenecid-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Sisipan bungkusan NPRA tidak tersedia kerana ubat ini tidak didaftarkan di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 1 pendaftaran (sah: 1); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-probenecid-1 -->
+
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
@@ -117,11 +123,31 @@ Sisipan bungkusan NPRA tidak tersedia. Sila rujuk sisipan bungkusan produk dari 
 - Tiada ujian klinikal dan tiada penerbitan yang menilai probenecid sebagai rawatan; tahap bukti hanya L5 (ramalan model sahaja).
 - Mekanisme farmakologi (rencatan URAT1) bercanggah dengan punca hipourisemia renal, dan berisiko membahayakan pada Lesch-Nyhan serta kekurangan separa HPRT (kristaluria dan nefrolitiasis).
 
+<!-- review:begin my-lic-20261105-probenecid-2 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Mekanisme farmakologi (rencatan URAT1) bercanggah dengan punca hipourisemia renal, dan berisiko membahayakan pada Lesch-Nyhan serta kekurangan separa HPRT (kristaluria dan nefrolitiasis). Ubat ini juga tidak didaftarkan di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 1 pendaftaran (sah: 1); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-probenecid-2 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Bukti praklinikal atau klinikal bahawa probenecid memberi manfaat terapeutik (bukan sekadar kegunaan diagnostik) pada mana-mana indikasi yang diramalkan
 - Data mekanisme tindakan terperinci daripada DrugBank
 - Sisipan bungkusan dan data amaran/kontraindikasi yang disahkan
 - Penilaian semula keperluan klinikal dan laluan pendaftaran di Malaysia jika ada hipotesis baharu yang kukuh
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "kerana ubat ini tidak didaftarkan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak didaftarkan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

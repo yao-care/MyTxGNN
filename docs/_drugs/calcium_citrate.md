@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 186
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Calcium Citrate: indikasi baharu diramal Hemoglobinopati (tahap bukti L5). Indikasi asal: Tiada indikasi diluluskan direkodkan dalam data yang dikompilasi (kal…"
 monitor_inn: "CALCIUM CITRATE"
 predicted_indications: ["hemoglobinopathy", "myocardial infarction", "partial deletion of the short arm of chromosome 16", "thrombotic disease"]
@@ -76,6 +76,12 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 Pada masa ini tiada literatur berkaitan untuk hemoglobinopati.
 
+<!-- review:begin my-lic-20261105-calcium_citrate-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Kalsium sitrat tidak mempunyai pendaftaran NPRA yang direkodkan (0 lesen), maka tiada jadual produk dipaparkan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 52 pendaftaran (sah: 49); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-calcium_citrate-1 -->
+
 ---
 
 ## Maklumat Pasaran Malaysia
@@ -107,6 +113,19 @@ Untuk maklumat amaran dan kontraindikasi, sila rujuk risalah maklumat produk.
 - Maklumat indikasi asal yang diluluskan dan status pendaftaran tempatan
 - Kajian pra-klinikal atau klinikal yang menyokong sebarang indikasi baharu sebelum pertimbangan lanjut
 - Penilaian keselamatan kardiovaskular sekiranya indikasi infarksi miokardium dipertimbangkan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Kalsium sitrat tidak mempunyai pendaftaran NPRA yang direkodkan (0 lesen), maka tiada jadual produk dipaparkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

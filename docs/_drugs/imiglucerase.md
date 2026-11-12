@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 411
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "IMIGLUCERASE"
 predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
 description: "Imiglucerase: indikasi baharu diramal Sindrom Hurler (Hurler syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -90,6 +90,12 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 - **Interaksi Ubat**: Interaksi tahap **Sederhana** dengan **Miglustat** (sumber: DDInter).
 
+<!-- review:begin my-lic-20261105-imiglucerase-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Imiglucerase pada masa ini tidak mempunyai pendaftaran di Malaysia (0 lesen)." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 1 pendaftaran (sah: 1); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-imiglucerase-1 -->
+
 Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pek produk.
 
 ---
@@ -116,6 +122,19 @@ Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pek produk.
 - Data mekanisme tindakan (MOA) yang terperinci
 - Data amaran dan kontraindikasi daripada sisipan pek produk NPRA (jurang data yang menghalang saringan keselamatan)
 - Bukti praklinikal atau klinikal yang menunjukkan aktiviti imiglucerase terhadap pengumpulan glikosaminoglikan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Imiglucerase pada masa ini tidak mempunyai pendaftaran di Malaysia (0 lesen)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

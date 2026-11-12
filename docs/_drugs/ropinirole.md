@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 632
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ropinirole: indikasi baharu diramal Gangguan kurang daya tumpuan-hiperaktiviti (ADHD) (tahap bukti L3). Indikasi asal: Tiada data"
 monitor_inn: "Ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
@@ -107,6 +107,12 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 - Bukti terhad kepada ulasan, satu laporan kes dan satu RCT 2026 yang belum disahkan. Tiada ujian klinikal berdaftar.
 - Data keselamatan rasmi tidak tersedia, jadi penilaian keselamatan belum dapat diteruskan.
 
+<!-- review:begin my-lic-20261105-ropinirole-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Tiada ujian klinikal berdaftar, dan tiada lesen ropinirole di Malaysia dalam data yang dikumpulkan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 4 pendaftaran (sah: 4); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-ropinirole-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Muat turun dan huraikan sisipan pakej NPRA untuk amaran dan kontraindikasi.
 - Sahkan reka bentuk, hasil utama dan keselamatan RCT 2026 (PMID 42640474).
@@ -120,6 +126,19 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 - **Skizofrenia** (skor 0.9990, L4, Soalan Penyelidikan): Agonisme D2/D3 bertentangan dengan antagonisme antipsikotik standard dan boleh memburukkan gejala positif. Bukti terdiri daripada kajian praklinikal, satu laporan kes dan tinjauan sistematik kelas prodopaminergik (bukan khusus ropinirole). Terdapat juga kebimbangan keselamatan gangguan perjudian.
 - **Lapan ramalan lain** (sindrom faciodigitogenital, polimikrogiria, distrofi retina, miopia X-linked, miopia 26, gangguan glikosilasi, ensefalopati glisin atipikal, penyakit Charcot-Marie-Tooth 1G): Hanya ramalan model (L5), tiada literatur atau ujian, dan tiada kaitan mekanistik yang jelas. Keputusan: Hold.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "dan tiada lesen ropinirole di Malaysia dalam data yang dikumpulkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

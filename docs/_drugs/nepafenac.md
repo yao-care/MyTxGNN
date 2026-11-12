@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 521
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Nepafenac"
 predicted_indications: ["eye disease", "optic papillitis", "hypotrichosis simplex of the scalp", "seborrheic keratosis", "von Hippel anomaly", "congenital hypotrichosis milia", "mcpherson robertson cammarano syndrome", "lagophthalmos", "vulvar inverted follicular keratosis", "vitreous detachment"]
 description: "Nepafenac: indikasi baharu diramal Penyakit mata (eye disease) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -144,6 +144,25 @@ Ramalan kedudukan 3 hingga 9 tidak mempunyai asas mekanistik yang jelas; skornya
 - Pengesahan status kawal selia dan indikasi asal.
 - Penilaian berasingan bagi sub-indikasi (edema makula, kesakitan selepas PRP, keradangan selepas laser).
 - Pelan pemantauan keselamatan kornea bagi pesakit berisiko, seperti mata kering, keratitis, ulser kornea dan penyakit graf-lawan-perumah.
+
+<!-- review:begin my-lic-20261105-nepafenac-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Pengesahan status kawal selia dan indikasi asal, memandangkan rekod menunjukkan tiada pendaftaran di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 1 pendaftaran (sah: 1); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-nepafenac-1 -->
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "memandangkan rekod menunjukkan tiada pendaftaran di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

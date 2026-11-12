@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 351
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Febuxostat: indikasi baharu diramal Hipourisemia renal (tahap bukti L4). Indikasi asal: Hiperurisemia"
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
@@ -105,12 +105,31 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi.
 **Rasional:**
 - Ramalan hipourisemia renal hanya disokong model, tanpa bukti klinikal yang relevan. Menurunkan urat pada keadaan urat sudah rendah tidak mempunyai rasional jelas dan mungkin kontraproduktif. Kontraindikasi daripada graf pengetahuan melibatkan penyakit kardiovaskular dan serebrovaskular.
 
+<!-- review:begin my-lic-20261105-febuxostat-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ubat ini juga tidak berdaftar di Malaysia dan kontraindikasi daripada graf pengetahuan melibatkan penyakit kardiovaskular dan serebrovaskular." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 16 pendaftaran (sah: 14); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-febuxostat-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data amaran dan kontraindikasi daripada sisipan pek NPRA (halangan untuk saringan keselamatan).
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
 - Pengesahan rekod pendaftaran NCT04398251 untuk menentukan kaitannya.
 - Bukti klinikal yang lebih kukuh sebelum mempertimbangkan indikasi ini.
 - Pertimbangan alternatif: **kekurangan separa HPRT** dan **sindrom Lesch-Nyhan** (status: soalan penyelidikan) memerlukan penilaian risiko nefropati xanthine dan keselamatan pediatrik.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

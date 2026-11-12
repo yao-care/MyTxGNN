@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 467
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "LISINOPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
 description: "Lisinopril: indikasi baharu diramal Pulmonary hypertension owing to lung disease and/or hypoxia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -102,6 +102,12 @@ Sila rujuk sisipan pek untuk maklumat keselamatan yang lengkap.
 - Ramalan ini hanya berasaskan model (L5) tanpa ujian atau literatur khusus, dan kemungkinan besar mencerminkan kedekatan ontologi dengan indikasi infarksi miokardium yang sedia ada. Ia bukan penemuan repurposing yang baharu.
 - Data keselamatan peringkat label belum lengkap.
 
+<!-- review:begin my-lic-20261105-lisinopril-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Lisinopril tidak berdaftar di Malaysia, dan data keselamatan peringkat label belum lengkap." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 9 pendaftaran (sah: 9); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-lisinopril-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Memuat turun dan mengekstrak amaran serta kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang).
 - Data mekanisme tindakan (MOA) daripada DrugBank.
@@ -125,6 +131,19 @@ Calon lain yang dinilai semuanya L5 dan **Hold**, kecuali satu:
 | 10 | Sindrom hematuria familial autosomal dominan-tortuositi arteriol retina-kontraktur | 0.9933 | L5 | Gangguan COL4A1 yang jarang; tiada kaitan mekanistik |
 
 Antara semua calon, **penyakit jantung pulmonari kronik** mempunyai isyarat literatur paling bermakna (dua kajian klinikal lisinopril), tetapi ia masih memerlukan penyiasatan lanjut dan bukan syor rawatan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Lisinopril tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 344
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Etoricoxib: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tiada rekod lesen NPRA"
 monitor_inn: "ETORICOXIB"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
@@ -41,6 +41,12 @@ Tahap bukti: **L5** | Indikasi diramal: **9**
 Etorikoksib ialah perencat COX-2 terpilih daripada kelas NSAID, yang secara klinikal digunakan untuk keradangan dan kesakitan (contohnya artritis, sakit belakang, gout), tetapi data lesen NPRA bagi penunjuk asal tidak tersedia.
 Model TxGNN meramalkan ubat ini mungkin berkesan untuk **gangguan migrain** (skor 0.9990),
 tetapi pada masa ini **tiada ujian klinikal** dan hanya **1 penerbitan** (kajian skop yang tidak langsung) menyokong arah ini.
+
+<!-- review:begin my-lic-20261105-etoricoxib-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Etorikoksib ialah perencat COX-2 terpilih daripada kelas NSAID, yang secara klinikal digunakan untuk keradangan dan kesakitan (contohnya artritis, sakit belakang, gout), tetapi data lesen NPRA bagi penunjuk asal tidak tersedia kerana ubat ini tidak berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 81 pendaftaran (sah: 81); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-etoricoxib-1 -->
 
 ---
 
@@ -111,12 +117,32 @@ Sila rujuk sisipan pek untuk maklumat keselamatan lengkap.
 - Ramalan migrain disokong hanya oleh skor model dan satu kajian skop yang tidak langsung (L5), tanpa ujian klinikal.
 - Penunjuk berkaitan sakit kepala (gangguan sakit kepala dan sefalalgia autonomik trigeminal) mempunyai bukti peringkat kes (L4) dan wajar dijadikan soalan penyelidikan, bukan keputusan klinikal.
 
+<!-- review:begin my-lic-20261105-etoricoxib-2 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ramalan migrain disokong hanya oleh skor model dan satu kajian skop yang tidak langsung (L5), tanpa ujian klinikal. Etorikoksib juga tidak berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 81 pendaftaran (sah: 81); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-etoricoxib-2 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pek NPRA (amaran dan kontraindikasi) bagi saringan keselamatan; ini data yang menghalang kemajuan
 - Data mekanisme tindakan terperinci daripada DrugBank
 - Kajian terkawal (RCT) etorikoksib dalam migrain atau sakit kepala primer
 - Penilaian keselamatan sistematik (kardiovaskular, renal, serebrovaskular)
 - Penjelasan status pendaftaran dan kebolehcapaian produk di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "kerana ubat ini tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Etorikoksib juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

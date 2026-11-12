@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 683
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "TILDRAKIZUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "drug-induced osteoporosis"]
 description: "Tildrakizumab: indikasi baharu diramal Retinopati diabetes non-proliferatif teruk (severe nonproliferative diabetic retinopathy) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -114,6 +114,12 @@ Kebanyakan interaksi major dan moderate melibatkan agen imunosupresif atau imuno
 **Rasional:**
 - Semua indikasi yang diramalkan hanya berada pada tahap bukti L5 (ramalan model sahaja), tanpa percubaan klinikal atau literatur. Data keselamatan sisipan pakej belum tersedia.
 
+<!-- review:begin my-lic-20261105-tildrakizumab-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ubat ini juga tidak berdaftar di Malaysia dan data keselamatan sisipan pakej belum tersedia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 1 pendaftaran (sah: 1); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-tildrakizumab-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Muat turun dan analisis sisipan pakej NPRA untuk amaran dan kontraindikasi, yang merupakan jurang data penghalang sebelum saringan keselamatan.
 - Data mekanisme tindakan (MOA) daripada DrugBank bagi menyokong analisis kaitan mekanisme.
@@ -121,6 +127,19 @@ Kebanyakan interaksi major dan moderate melibatkan agen imunosupresif atau imuno
 - Kajian penembusan okular dan keserasian laluan pemberian, termasuk pilihan intravitreal atau sistemik.
 - Perbandingan dengan piawaian rawatan sedia ada (anti-VEGF, laser, kortikosteroid) bagi menunjukkan nilai tambah.
 - Penilaian risiko interaksi ubat dalam populasi pesakit diabetes yang menggunakan imunosupresan atau vaksin.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

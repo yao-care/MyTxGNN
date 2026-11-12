@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "CITALOPRAM"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Citalopram: indikasi baharu diramal Gangguan Obsesif-Kompulsif (obsessive-compulsive disorder) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -85,6 +85,12 @@ Secara mekanisme, tindakan serotonergik citalopram selaras dengan rasional terap
 
 Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak disertakan dalam data yang dikumpulkan.
 
+<!-- review:begin my-lic-20261105-citalopram-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data yang dikumpulkan merekodkan 27 lesen sah dan tiada yang dibatalkan, jadi status pasaran ialah dipasarkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak disertakan dalam data yang dikumpulkan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 27 pendaftaran (sah: 26); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-citalopram-1 -->
+
 ## Pertimbangan Keselamatan
 
 **Interaksi Ubat** (daripada 100 interaksi direkodkan, antara yang utama berkeparahan Major):
@@ -114,6 +120,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Teks amaran dan kontraindikasi daripada sisipan pakej yang diluluskan
 - Ujian terkawal rawak yang mengkaji citalopram secara khusus dalam OCD
 - Pelan pemantauan keselamatan, terutamanya untuk pemanjangan selang QT dan interaksi ubat utama
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Data yang dikumpulkan merekodkan 27 lesen sah dan tiada yang dibatalkan, jadi status pasaran ialah dipasarkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

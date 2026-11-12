@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 616
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "REMDESIVIR"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
 description: "Remdesivir: indikasi baharu diramal Multiple endocrine neoplasia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -77,6 +77,12 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 Pada masa ini tiada literatur berkaitan tersedia.
 
+<!-- review:begin my-lic-20261105-remdesivir-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Remdesivir tidak mempunyai pendaftaran NPRA yang direkodkan (jumlah lesen: 0), maka tiada jadual pendaftaran dipaparkan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 1 pendaftaran (sah: 1); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-remdesivir-1 -->
+
 ---
 
 ## Maklumat Pasaran Malaysia
@@ -107,6 +113,19 @@ Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 - Data sisipan pek NPRA (amaran dan kontraindikasi), yang kini menghalang saringan keselamatan
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Bukti praklinikal atau mekanistik yang menghubungkan remdesivir dengan patofisiologi sindrom endokrin neoplasia (contohnya laluan MEN1/RET)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Remdesivir tidak mempunyai pendaftaran NPRA yang direkodkan (jumlah lesen: 0), maka tiada jadual pendaftaran dipaparkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 598
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Pretomanid: indikasi baharu diramal Kandidiasis (tahap bukti L5). Indikasi asal: Tiada data lesen NPRA (literatur menunjukkan penggunaan dalam TB rint…"
 monitor_inn: "PRETOMANID"
 predicted_indications: ["candidiasis", "leprosy", "coronary artery disease", "myocardial ischemia", "anomalous left coronary artery from the pulmonary artery"]
@@ -113,6 +113,12 @@ Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan bungkusan.
 **Justifikasi:**
 - Ramalan kandidiasis hanya berasaskan model (L5), tanpa percubaan klinikal, literatur, atau hubungan mekanistik yang munasabah.
 
+<!-- review:begin my-lic-20261105-pretomanid-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ramalan kandidiasis hanya berasaskan model (L5), tanpa percubaan klinikal, literatur, atau hubungan mekanistik yang munasabah. Ubat ini juga tidak berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 2 pendaftaran (sah: 2); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-pretomanid-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data in vitro atau praklinikal yang menunjukkan aktiviti antikulat pretomanid terhadap *Candida*
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
@@ -134,6 +140,19 @@ Empat ramalan lain juga berada pada tahap L5 dengan keputusan **Hold**:
 | 5 | Arteri koronari kiri anomali dari arteri pulmonari | 0.9908 | Kelainan struktur kongenital yang memerlukan pembedahan |
 
 Antara semuanya, kusta mempunyai rasional biologi yang paling munasabah, tetapi masih memerlukan data khusus kusta sebelum dipertimbangkan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

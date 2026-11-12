@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 381
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Gefitinib: indikasi baharu diramal Fibromatosis gingiva (tahap bukti L5). Indikasi asal: Kanser paru-paru sel bukan kecil (NSCLC) / kanser paru-paru"
 monitor_inn: "GEFITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]
@@ -118,12 +118,31 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi, ke
 **Rasional:**
 - Ramalan untuk fibromatosis gingiva hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur sokongan dan mempunyai risiko keselamatan yang ketara (penyakit paru-paru interstisial, toksisiti kulit, interaksi ubat).
 
+<!-- review:begin my-lic-20261105-gefitinib-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ramalan untuk fibromatosis gingiva hanya berasaskan model (L5) tanpa percubaan klinikal atau literatur sokongan, manakala gefitinib tidak berdaftar di Malaysia dan mempunyai risiko keselamatan yang ketara (penyakit paru-paru interstisial, toksisiti kulit, interaksi ubat)." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 10 pendaftaran (sah: 10); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-gefitinib-1 -->
+
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Sisipan pakej/amaran dan kontraindikasi (blokir; diperlukan sebelum saringan keselamatan)
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Bukti pra-klinikal atau klinikal bahawa laluan EGFR memacu fibromatosis gingiva
 - Penilaian keserasian laluan pentadbiran dan formulasi yang sesuai
 - Status pendaftaran dan ketersediaan produk di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "manakala gefitinib tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

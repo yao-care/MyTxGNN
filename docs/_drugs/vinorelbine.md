@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 726
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Vinorelbine: indikasi baharu diramal Sarkoma Ewing (tahap bukti L2). Indikasi asal: Kanser paru-paru sel bukan kecil (NSCLC)"
 monitor_inn: "Vinorelbine"
 predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "pulmonary sulcus neoplasm", "lung germ cell tumor", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]
@@ -128,11 +128,30 @@ Amaran utama dan kontraindikasi daripada sisipan pakej NPRA belum tersedia; sila
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Pelan pemantauan keselamatan untuk populasi pediatrik, termasuk pengurusan neutropenia dan interaksi dengan perencat CYP3A4 seperti klaritromisin
 
+<!-- review:begin my-lic-20261105-vinorelbine-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Amaran dan kontraindikasi daripada sisipan pakej NPRA (ubat ini tidak berdaftar di Malaysia, jadi laluan akses seperti pendaftaran atau penggunaan khas perlu dinilai)" Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 8 pendaftaran (sah: 6); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-vinorelbine-1 -->
+
 ---
 
 ## Catatan Mengenai Indikasi Lain yang Diramalkan
 
 Indikasi peringkat lebih rendah berada pada status **Hold**: fibromatosis gingiva, fibroma paru-paru, neoplasma sulkus pulmonari, tumor sel germa paru-paru, hamartoma paru-paru, neoplasma benigna paru-paru, karsinoma hilum paru-paru dan blastoma pulmonari. Kebanyakannya tiada ujian klinikal atau hanya bukti tidak langsung. Karsinoma paru-paru sel kecil mempunyai banyak bukti Fasa 3, tetapi hampir semuanya untuk NSCLC (indikasi asal) dan bukan SCLC, jadi ia dianggap sebagai soalan penyelidikan selepas histologi dijelaskan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "(ubat ini tidak berdaftar di Malaysia, jadi laluan akses seperti pendaftaran atau penggunaan khas perlu dinilai)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

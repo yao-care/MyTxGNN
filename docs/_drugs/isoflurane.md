@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 430
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "ISOFLURANE"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "manic bipolar affective disorder", "trichotillomania", "dysthymic disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
 description: "Isoflurane: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -77,6 +77,12 @@ Setakat ini tiada ujian klinikal berkaitan didaftarkan.
 
 Setakat ini tiada literatur berkaitan untuk Prinzmetal angina.
 
+<!-- review:begin my-lic-20261105-isoflurane-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Isoflurane pada masa ini tidak mempunyai pendaftaran NPRA yang sah dalam data yang dikumpulkan (jumlah pendaftaran: 0)." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 2 pendaftaran (sah: 2); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-isoflurane-1 -->
+
 ---
 
 ## Maklumat Pasaran Malaysia
@@ -137,6 +143,19 @@ Selain Prinzmetal angina, model juga meramalkan indikasi berikut. Semuanya berad
 **Gangguan bipolar (mania):** Bukti tidak langsung sahaja. Kajian label terbuka 1993 (PMID 8462536) membandingkan anestesia isoflurane letusan-penindasan dengan terapi kejutan elektrik (ECT) dalam kemurungan teruk, serta kajian PET model haiwan mania (PMID 18930636). Tiada data terkawal pada manusia.
 
 **Migrain:** Ini ialah sokongan mekanistik yang paling munasabah. Kajian praklinikal (PMID 8665587, 1996) melaporkan bahawa anestetik sedutan merencat *cortical spreading depression*, korelat aura migrain. Dua laporan kes (PMID 26323741 dan 26363696, versi bahasa berbeza bagi laporan yang sama) menerangkan anestesia am untuk *status migrainosus*. Penggunaan yang boleh dibayangkan hanyalah untuk kes *status migrainosus* refraktori, dengan halangan praktikal berupa keperluan anestesia am dan beban keselamatan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Isoflurane pada masa ini tidak mempunyai pendaftaran NPRA yang sah dalam data yang dikumpulkan (jumlah pendaftaran: 0)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

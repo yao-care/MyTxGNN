@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 473
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -99,9 +99,27 @@ Pakej Bukti ini kekurangan indikasi yang diramalkan oleh TxGNN sepenuhnya, menja
 - [ ] **[Tinggi — DG002]** Pertanyakan API DrugBank menggunakan INN "loperamide" untuk mendapatkan data MOA, kategori ubat, dan ketoksikan yang berstruktur; sahkan DrugBank ID
 - [ ] **[Standard]** Hantar semula Pakej Bukti yang lengkap untuk laporan pengeluaran semula ubat penuh setelah semua jurang kritikal diselesaikan
 
+<!-- review:begin my-lic-20261105-loperamide_hydrochloride-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "[ ] **[Standard]** Isi semua 9 rekod lesen dalam `taiwan_regulatory.licenses` dengan nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan dari NPRA / [ ] **[Standard]** Hantar semula Pakej Bukti yang lengkap untuk laporan pengeluaran semula ubat penuh setelah semua jurang kritikal diselesaikan" Dipadam: teks templat sisa mengenai TFDA Taiwan, yang tidak berkaitan dengan halaman Malaysia ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-loperamide_hydrochloride-1 -->
+
 ---
 
 > ⚠️ **Penafian**: Laporan ini hanya untuk rujukan penyelidikan dan tidak membentuk nasihat perubatan. Calon pengeluaran semula ubat memerlukan pengesahan klinikal sebelum sebarang aplikasi.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "[ ] **[Standard]** Isi semua 9 rekod lesen dalam `taiwan_regulatory.licenses` dengan nombor kebenaran, nama produk, bentuk dos, dan teks ind" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

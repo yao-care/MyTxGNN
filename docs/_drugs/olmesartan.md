@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 543
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Olmesartan: indikasi baharu diramal Angina Prinzmetal (tahap bukti L5). Indikasi asal: Tiada dalam data pendaftaran NPRA (secara umum: hipertensi)"
 monitor_inn: "olmesartan"
 predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
@@ -94,6 +94,12 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 **Rasional:**
 - Ramalan Angina Prinzmetal hanya berasaskan skor model (Tahap Bukti L5). Tiada ujian klinikal, tiada literatur dan tiada hubungan mekanistik langsung.
 
+<!-- review:begin my-lic-20261105-olmesartan-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Tiada ujian klinikal, tiada literatur dan tiada hubungan mekanistik langsung. Olmesartan juga tidak mempunyai pendaftaran di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 14 pendaftaran (sah: 14); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-olmesartan-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej dan maklumat keselamatan rasmi (amaran dan kontraindikasi) daripada NPRA.
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
@@ -103,6 +109,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 **Nota tambahan:** Antara indikasi lain yang diramalkan dalam data yang dikumpulkan, dua mempunyai sokongan bukti lebih baik daripada angina Prinzmetal dan wajar dipertimbangkan sebagai persoalan penyelidikan:
 - **Gangguan migrain** (Tahap Bukti L3): terdapat tiga penerbitan, termasuk kajian olmesartan pada pesakit hipertensi atau prehipertensi dan satu kajian sistematik ACE inhibitor/ARB (2019). Reka bentuk kajian dan saiz kesan belum dapat disahkan.
 - **Hipertensi pulmonari** (Tahap Bukti L4): kajian praklinikal pada tikus menyokong rasional biologi, tetapi tiada data keberkesanan pada manusia.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Olmesartan juga tidak mempunyai pendaftaran di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

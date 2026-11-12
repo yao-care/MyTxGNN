@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 476
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
 description: "Lorazepam: indikasi baharu diramal Neoplasma saraf trigeminal (trigeminal nerve neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -104,11 +104,30 @@ Pada masa ini tiada literatur berkaitan.
 **Rasional:**
 - Ramalan ini berada pada tahap bukti L5 (ramalan model sahaja), tanpa ujian klinikal atau literatur, dan tiada mekanisme antitumor yang munasabah.
 
+<!-- review:begin my-lic-20261105-lorazepam-1 -->
+
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ramalan ini berada pada tahap bukti L5 (ramalan model sahaja), tanpa ujian klinikal atau literatur, dan tiada mekanisme antitumor yang munasabah. Lorazepam juga tidak berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 5 pendaftaran (sah: 5); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261105-lorazepam-1 -->
+
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan bungkusan rasmi (amaran dan kontraindikasi) daripada NPRA, jika produk didaftarkan atau diimport pada masa hadapan
 - Data terperinci mengenai mekanisme tindakan daripada DrugBank
 - Bukti praklinikal atau klinikal yang menghubungkan lorazepam dengan tumor saraf trigeminal
 - Penilaian risiko kebergantungan, toleransi dan kesan kognitif sekiranya penggunaan jangka panjang dipertimbangkan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-05 | Dipadam: "Lorazepam juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
