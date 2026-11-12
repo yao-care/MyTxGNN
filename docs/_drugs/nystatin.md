@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 535
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
 description: "Nystatin: indikasi baharu diramal Penyakit kawasan orbit (disease of orbital region) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -70,7 +70,7 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **dipasarkan**, dengan 11 lesen yang sah dan tiada lesen dibatalkan. Butiran lesen individu tidak tersedia dalam data yang dikumpulkan.
+Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **dipasarkan**, dengan 12 lesen yang sah dan tiada lesen dibatalkan. Butiran lesen individu tidak tersedia dalam data yang dikumpulkan.
 
 ## Pertimbangan Keselamatan
 

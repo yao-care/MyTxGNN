@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Prednisolone acetate"
 predicted_indications: ["serous conjunctivitis except viral", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "conjunctival folliculosis", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "vernal conjunctivitis", "postinfectious vasculitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Prednisolone Acetate: indikasi baharu diramal Serous conjunctivitis except viral (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -104,7 +104,7 @@ Literatur terpilih untuk ramalan lain:
 | MAL18126006HAC | Surolan Topical Suspension (produk kombinasi) | Tidak dinyatakan | Tidak dinyatakan |
 | MAL25086048HAR | Chanear Ear Drops and Cutaneous Suspension for Cats and Dogs (produk kombinasi) | Tidak dinyatakan | Tidak dinyatakan |
 
-Nota: Semua 6 lesen sah. Lesen kombinasi (Surolan dan Chanear) tidak boleh digunakan untuk menggambarkan kelulusan bahan tunggal.
+Nota: Semua 7 lesen sah. Lesen kombinasi (Surolan dan Chanear) tidak boleh digunakan untuk menggambarkan kelulusan bahan tunggal.
 
 ## Pertimbangan Keselamatan
 

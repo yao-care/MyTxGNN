@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Triamcinolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Triamcinolone: indikasi baharu diramal Alopecia mucinosa (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -71,7 +71,7 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-Terdapat 47 pendaftaran aktif (24 bahan tunggal, 23 kombinasi). Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam rekod. Di bawah ialah lima produk bahan tunggal sebagai contoh (senarai lengkap tidak diulang di sini).
+Terdapat 45 pendaftaran aktif (22 bahan tunggal, 23 kombinasi). Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam rekod. Di bawah ialah lima produk bahan tunggal sebagai contoh (senarai lengkap tidak diulang di sini).
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|

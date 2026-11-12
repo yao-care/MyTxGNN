@@ -32,8 +32,10 @@
   21. 查核紀錄裡重審撤回（verdict=withdraw）的預測，不出現在 search-index.json、FHIR ClinicalUseDefinition、
       證據監測清單 scripts/drug_list.json（src/mytxgnn/regulatory/withdrawn.py）（2026-11-12）。
 
+  22. 正文許可證張數（「N lesen／N pendaftaran」這類敘述）＝依 snapshots/my_licenses.json.gz 事實層程式改寫的結果
+      （scripts/rewrite_license_counts.py、src/mytxgnn/regulatory/count_prose.py；再跑一次不會變）（2026-11-12）。
 2026-11-12 起本站有自己的查核機制（核心流程比照 TwTxGNN，用戶決定 30 站各自建立）：第 18–21 項對應 Tw 的
-查核紀錄、許可證、頁首等級、撤回預測檢查，規則在本站 src/mytxgnn/regulatory/ 與 scripts/apply_drug_reviews.py。
+查核紀錄、許可證、頁首等級、撤回預測檢查（第 22 項：正文許可證張數，對應 Tw gate 第 6 項的張數檢查），規則在本站 src/mytxgnn/regulatory/ 與 scripts/apply_drug_reviews.py。
 
 用法：python3 scripts/check_seo_docs.py      # 非零＝不通過
 """
@@ -802,6 +804,8 @@ _left = _Wd.published_withdrawn(DOCS)
 if _left:
     errors.append(f"重審撤回的預測仍對外發布 {len(_left)} 處：{'；'.join(_left[:5])}"
                   "（重產 search-index／FHIR／scripts/drug_list.json，撤回名單見 src/mytxgnn/regulatory/withdrawn.py）")
+from rewrite_license_counts import check_errors as _count_errors  # noqa: E402
+errors += _count_errors()  # 22) 正文許可證張數＝程式改寫結果
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")

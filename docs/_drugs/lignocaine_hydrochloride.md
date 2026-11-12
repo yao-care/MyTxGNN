@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 462
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -82,7 +82,7 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk petunjuk pengubahan 
 
 ## Maklumat Pasaran Malaysia
 
-Lignocaine Hydrochloride berdaftar di Malaysia (NPRA) dengan **6 lesen aktif**. Maklumat peringkat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diperolehi dalam Pakej Bukti ini dan mesti ditambah terus daripada pangkalan data NPRA.
+Lignocaine Hydrochloride berdaftar di Malaysia (NPRA) dengan **5 lesen aktif**. Maklumat peringkat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diperolehi dalam Pakej Bukti ini dan mesti ditambah terus daripada pangkalan data NPRA.
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |------------------|------------|-----------|--------------------------|

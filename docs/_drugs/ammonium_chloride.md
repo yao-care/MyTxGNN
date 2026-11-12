@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ammonium Chloride"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ammonium Chloride: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -70,7 +70,7 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Status pasaran: dipasarkan. Data yang dikumpulkan menunjukkan 36 lesen, kesemuanya sah. Daripada jumlah ini, 2 ialah produk bahan tunggal dan 34 ialah produk gabungan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
+Status pasaran: dipasarkan. Data yang dikumpulkan menunjukkan 37 lesen, kesemuanya sah. Daripada jumlah ini, 2 ialah produk bahan tunggal dan 35 ialah produk gabungan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 
 | No. Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ALFACALCIDOL"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Alfacalcidol: indikasi baharu diramal Konodisplasia kraniofasial (tahap bukti L5). Indikasi asal: Hiperparatiroidisme, osteitis fibrosa…"
 ---
 
@@ -79,7 +79,7 @@ Buat masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran di Malaysia
 
-Sebanyak 16 produk alfacalcidol berdaftar dan sah di Malaysia. Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan, jadi jadual ini tidak menyatakan indikasi berlesen. Lima produk utama disenaraikan di bawah.
+Sebanyak 17 produk alfacalcidol berdaftar dan sah di Malaysia. Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan, jadi jadual ini tidak menyatakan indikasi berlesen. Lima produk utama disenaraikan di bawah.
 
 | Nombor Kebenaran | Nama Produk | Pengilang |
 |---------|------|------|

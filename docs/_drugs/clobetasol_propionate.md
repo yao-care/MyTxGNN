@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Clobetasol Propionate"
 predicted_indications: ["vulvar inverted follicular keratosis", "acrodermatitis chronica atrophicans", "exanthem (disease)", "acne keloid", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Clobetasol Propionate: indikasi baharu diramal Keratosis folikular songsang vulva (tahap bukti L5). Indikasi asal: Teks indikasi yang diluluskan tidak tersedia dalam rekod pelesenan te…"
 ---
 
@@ -80,7 +80,7 @@ Buat masa ini tiada literatur berkaitan tersedia untuk indikasi yang diramalkan 
 
 ## Maklumat Pasaran di Malaysia
 
-Senarai di bawah ialah 5 daripada 28 pendaftaran yang sah. Teks indikasi yang diluluskan tidak tersedia dalam rekod pelesenan tersebut.
+Senarai di bawah ialah 5 daripada 27 pendaftaran yang sah. Teks indikasi yang diluluskan tidak tersedia dalam rekod pelesenan tersebut.
 
 | Nombor Kebenaran | Nama Produk | Pengilang |
 |---------|------|------|

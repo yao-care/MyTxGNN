@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ASCORBIC ACID"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "disease by subcellular system affected"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ascorbic Acid: indikasi baharu diramal Malformasi esofagus tidak sindromik (non-syndromic esophageal malformation) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -68,7 +68,7 @@ Buat masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan untuk laporan ini menunjukkan asid askorbik **dipasarkan** di Malaysia. Daripada 1,140 pendaftaran, 1,138 masih sah dan 2 telah dibatalkan. Butiran setiap pendaftaran (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun untuk laporan ini.
+Data yang dikumpulkan untuk laporan ini menunjukkan asid askorbik **dipasarkan** di Malaysia. Daripada 1,245 pendaftaran, 1,197 masih sah dan 46 telah dibatalkan. Butiran setiap pendaftaran (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 

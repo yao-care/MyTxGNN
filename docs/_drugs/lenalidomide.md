@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Lenalidomide: indikasi baharu diramal Leukemia mieloid (tahap bukti L2). Indikasi asal: Myeloma plasma sel, limfoma sel mantel, neoplasma sel B, limfosarkoma…"
 ---
 
@@ -111,7 +111,7 @@ Nota: kebanyakan penerbitan membincangkan MDS, bukan AML secara langsung.
 
 ## Maklumat Pasaran Malaysia
 
-Terdapat 24 pendaftaran sah (semua produk bahan tunggal). Teks indikasi diluluskan tidak tersedia dalam data yang dikumpulkan. Lima kelulusan utama:
+Terdapat 27 pendaftaran sah (semua produk bahan tunggal). Teks indikasi diluluskan tidak tersedia dalam data yang dikumpulkan. Lima kelulusan utama:
 
 | Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|

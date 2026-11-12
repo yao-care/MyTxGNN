@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "AFLIBERCEPT"
 predicted_indications: ["esotropia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Aflibercept: indikasi baharu diramal Esotropia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -72,7 +72,7 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Aflibercept berstatus dipasarkan di Malaysia dengan 5 lesen sah dan tiada lesen dibatalkan. Butiran lesen individu tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.
+Aflibercept berstatus dipasarkan di Malaysia dengan 8 lesen sah dan tiada lesen dibatalkan. Butiran lesen individu tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 

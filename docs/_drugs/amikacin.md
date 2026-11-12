@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Amikacin: indikasi baharu diramal Demam paratifoid (paratyphoid fever) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -79,7 +79,7 @@ Penerbitan berikut dikembalikan untuk demam paratifoid. Tiada satu pun ialah RCT
 
 ## Maklumat Pasaran Malaysia
 
-Data tempatan merekodkan status **Dipasarkan**, dengan 7 lesen sah dan 0 dibatalkan. Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Data tempatan merekodkan status **Dipasarkan**, dengan 9 lesen sah dan 0 dibatalkan. Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ## Pertimbangan Keselamatan
 

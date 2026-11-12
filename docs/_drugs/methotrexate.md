@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Methotrexate: indikasi baharu diramal Pulmonary blastoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -82,7 +82,7 @@ Setakat ini tiada literatur berkaitan tersedia untuk blastoma pulmonari.
 
 ## Maklumat Pasaran Malaysia
 
-Terdapat 6 pendaftaran produk methotrexate satu bahan yang sah di Malaysia. Lima yang utama disenaraikan di bawah. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data pendaftaran yang dikumpulkan.
+Terdapat 7 pendaftaran produk methotrexate satu bahan yang sah di Malaysia. Lima yang utama disenaraikan di bawah. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data pendaftaran yang dikumpulkan.
 
 | Nombor Kebenaran | Nama Produk | Pengilang |
 |---------|------|------|

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Adalimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Adalimumab: indikasi baharu diramal Hipermobiliti tulang ekor (hypermobility of coccyx) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -86,7 +86,7 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi ini.
 | MAL22016007ACZ | Hyrimoz 40mg/0.8ml Solution for Injection in Pre-Filled Pen | Tiada rekod | Tiada rekod |
 | MAL17107006ACRZ | Humira Solution for Injection in Pre-filled Pen 40mg/0.4ml | Tiada rekod | Tiada rekod |
 
-Terdapat 12 kebenaran yang sah secara keseluruhan; lima yang utama disenaraikan di atas.
+Terdapat 10 kebenaran yang sah secara keseluruhan; lima yang utama disenaraikan di atas.
 
 ---
 

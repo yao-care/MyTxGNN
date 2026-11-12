@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 160
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -110,7 +110,7 @@ Pakej Bukti ini tidak lengkap — tiada indikasi yang diramalkan oleh TxGNN, tia
 
 1. **Penyelesaian ID DrugBank** — Petakan "BOSENTAN MONOHYDRATE" kepada ID DrugBanknya (dijangka: **DB00559**) supaya graf pengetahuan TxGNN boleh menghubungkannya dengan nod penyakit
 2. **Pelaksanaan Ramalan TxGNN** — Jalankan semula saluran ramalan KG dan/atau DL dengan pemetaan DrugBank yang diperbetulkan untuk menjana `predicted_indications`
-3. **Populasi Butir Lesen NPRA** — Pertanyakan semula pangkalan data NPRA untuk mengisi nombor kebenaran, nama produk, bentuk sediaan, dan teks indikasi yang diluluskan untuk semua 5 pendaftaran
+3. **Populasi Butir Lesen NPRA** — Pertanyakan semula pangkalan data NPRA untuk mengisi nombor kebenaran, nama produk, bentuk sediaan, dan teks indikasi yang diluluskan untuk semua 4 pendaftaran
 4. **Pengambilan Data Mekanisme Tindakan** — Pertanyakan API DrugBank untuk mekanisme tindakan (antagonisme reseptor endothelin)
 5. **Pengumpulan Data Keselamatan** — Ekstrak amaran utama, kontraindikasi, dan interaksi ubat–ubatan daripada risalah pakej atau DrugBank
 6. **Pengumpulan Bukti** — Setelah indikasi yang diramalkan tersedia, jalankan pemungut ClinicalTrials.gov, PubMed, dan ICTRP untuk bukti sokongan

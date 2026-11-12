@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ethinylestradiol"
 predicted_indications: ["zinc, elevated plasma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ethinylestradiol: indikasi baharu diramal Zink plasma meningkat (zinc, elevated plasma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -71,7 +71,7 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Kesemua 27 lesen yang aktif ialah produk gabungan (etinilestradiol bersama progestogen); tiada lesen bahan tunggal. Lesen gabungan tidak boleh digunakan untuk menggambarkan status kelulusan etinilestradiol sebagai bahan tunggal. Teks indikasi diluluskan tidak tersedia dalam rekod. Lima lesen utama disenaraikan di bawah:
+Kesemua 28 lesen yang aktif ialah produk gabungan (etinilestradiol bersama progestogen); tiada lesen bahan tunggal. Lesen gabungan tidak boleh digunakan untuk menggambarkan status kelulusan etinilestradiol sebagai bahan tunggal. Teks indikasi diluluskan tidak tersedia dalam rekod. Lima lesen utama disenaraikan di bawah:
 
 | Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|

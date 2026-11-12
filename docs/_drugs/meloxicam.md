@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Meloxicam"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Meloxicam: indikasi baharu diramal Acromesomelic dysplasia, Hunter-Thompson type (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -69,7 +69,7 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Terdapat 24 lesen sah, semuanya produk bahan tunggal. Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan. Antara lesen utama (sebahagian produk ialah produk veterinar):
+Terdapat 25 lesen sah, semuanya produk bahan tunggal. Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan. Antara lesen utama (sebahagian produk ialah produk veterinar):
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|

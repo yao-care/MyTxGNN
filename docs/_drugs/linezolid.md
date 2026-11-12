@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 465
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -115,7 +115,7 @@ Evidence Pack untuk Linezolid pada masa ini tidak mengandungi ramalan penggubaha
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 
-- **[Kritikal — DG001]** Muat turun dan analisis PDF risalah produk NPRA / pemula untuk mengekstrak petunjuk yang diluluskan, amaran, dan kontraindikasi bagi semua 9 produk terdaftar.
+- **[Kritikal — DG001]** Muat turun dan analisis PDF risalah produk NPRA / pemula untuk mengekstrak petunjuk yang diluluskan, amaran, dan kontraindikasi bagi semua 11 produk terdaftar.
 - **[Kritikal — DG002]** Kueri API DrugBank untuk Linezolid (DB00601) untuk mendapatkan semula mekanisme tindakan yang lengkap, farmakodinamik, dan profil ketoksikan.
 - **[Kritikal]** Jalankan semula saluran ramalan TxGNN untuk menjana `predicted_indications` untuk Linezolid; sahkan sama ada senarai kosong mencerminkan output model yang benar (tiada calon di atas ambang) atau kegagalan saluran.
 - **[Tinggi]** Kueri semula NPRA dengan pengekstrakan medan berstruktur untuk memenuhi semua 9 rekod lesen (nombor kebenaran, nama produk, bentuk dos, teks petunjuk).

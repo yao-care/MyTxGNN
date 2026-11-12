@@ -1,4 +1,205 @@
 {
  "_doc": "藥物頁待查清單（2026-11-12 建，比照 TwTxGNN docs/_data/drug_reviews_uncertain.json）。項目不刪：查清標 status: resolved（附 record_ids，指向 docs/_data/drug_reviews.json 的紀錄），查不出定論標 status: unresolvable（附 searched、unresolvable_reason）。",
- "items": []
+ "items": [
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "ambroxol_hydrochloride",
+   "file": "ambroxol_hydrochloride.md",
+   "status": "open",
+   "claim": "Ubat ini memegang **20 pendaftaran** dengan NPRA Malaysia dan disahkan sebagai dipasarkan secara aktif.",
+   "reason": "ambiguous",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "apixaban",
+   "file": "apixaban.md",
+   "status": "open",
+   "claim": "Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **dipasarkan**, dengan 25 lesen sah dan tiada lesen dibatalkan.",
+   "reason": "premise",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "atorvastatin_calcium_trihydrate",
+   "file": "atorvastatin_calcium_trihydrate.md",
+   "status": "open",
+   "claim": "Ubat ini memegang **32 pendaftaran** dengan NPRA (Malaysia) dan disahkan sebagai dipasarkan.",
+   "reason": "ambiguous",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "atorvastatin_calcium_trihydrate",
+   "file": "atorvastatin_calcium_trihydrate.md",
+   "status": "open",
+   "claim": "- [ ] **Ambil butiran sisipan pakej NPRA** — muat turun dan parsing teks indikasi yang diluluskan, amaran, dan kontraindikasi untuk 32 produk terdaftar (Jurang Data DG001; ketertiban: Sekatan)",
+   "reason": "ambiguous",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "bromhexine_hcl",
+   "file": "bromhexine_hcl.md",
+   "status": "open",
+   "claim": "Dengan **37 pendaftaran** di Malaysia yang mengesahkan ketersediaan pasaran yang luas, pengayaan data lanjut (pemetaan DrugBank, MOA, profil keselamatan) diperlukan sebelum analisis penggunaan semula dapat dilakukan.",
+   "reason": "ambiguous",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "budesonide",
+   "file": "budesonide.md",
+   "status": "open",
+   "claim": "Terdapat 34 lesen, semuanya sah (25 produk bahan tunggal dan 9 produk kombinasi).",
+   "reason": "premise",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "ciprofloxacin",
+   "file": "ciprofloxacin.md",
+   "status": "open",
+   "claim": "Dipasarkan di Malaysia; terdapat 42 lesen berdaftar, semuanya sah (41 produk ingredien tunggal dan 1 produk kombinasi).",
+   "reason": "premise",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "clarithromycin",
+   "file": "clarithromycin.md",
+   "status": "open",
+   "claim": "Terdapat 28 lesen, semuanya sah (27 produk bahan tunggal dan 1 produk kombinasi).",
+   "reason": "premise",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "clotrimazole",
+   "file": "clotrimazole.md",
+   "status": "open",
+   "claim": "Sebanyak 64 lesen berdaftar dan semuanya sah (51 produk bahan tunggal, 13 produk kombinasi).",
+   "reason": "ambiguous",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "cyanocobalamin",
+   "file": "cyanocobalamin.md",
+   "status": "open",
+   "claim": "Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi (kebanyakannya multivitamin dan vitamin B kompleks).",
+   "reason": "ambiguous",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "iron",
+   "file": "iron.md",
+   "status": "open",
+   "claim": "Sebanyak 80 lesen direkodkan, kesemuanya sah (30 produk bahan tunggal dan 50 produk gabungan).",
+   "reason": "premise",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "ketoconazole",
+   "file": "ketoconazole.md",
+   "status": "open",
+   "claim": "Ketoconazole mempunyai 33 lesen berdaftar, semuanya sah (31 produk tunggal dan 2 produk kombinasi).",
+   "reason": "premise",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "levodopa",
+   "file": "levodopa.md",
+   "status": "open",
+   "claim": "Kesemua 15 pendaftaran yang sah ialah produk kombinasi (levodopa bersama karbidopa/benserazida, atau bersama karbidopa dan entakapon).",
+   "reason": "premise",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "methionine",
+   "file": "methionine.md",
+   "status": "open",
+   "claim": "Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi).",
+   "reason": "ambiguous",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "pregabalin",
+   "file": "pregabalin.md",
+   "status": "open",
+   "claim": "Terdapat 63 pendaftaran produk pregabalin bahan tunggal yang sah di Malaysia.",
+   "reason": "ambiguous",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "tadalafil",
+   "file": "tadalafil.md",
+   "status": "open",
+   "claim": "Terdapat 23 pendaftaran sah, semuanya produk bahan tunggal.",
+   "reason": "premise",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "trastuzumab",
+   "file": "trastuzumab.md",
+   "status": "open",
+   "claim": "- Pengesahan status pendaftaran di Malaysia (data menunjukkan 0 pendaftaran)",
+   "reason": "ambiguous",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "vitamin_e",
+   "file": "vitamin_e.md",
+   "status": "open",
+   "claim": "Vitamin E didaftarkan dalam 245 produk (semuanya sah).",
+   "reason": "ambiguous",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "vitamin_e",
+   "file": "vitamin_e.md",
+   "status": "open",
+   "claim": "Daripada jumlah itu, 36 ialah produk bahan tunggal dan 209 ialah produk kombinasi.",
+   "reason": "ambiguous",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "zinc_oxide",
+   "file": "zinc_oxide.md",
+   "status": "open",
+   "claim": "Jumlah keseluruhan ialah 280 lesen, dan teks indikasi diluluskan tidak tersedia dalam rekod.",
+   "reason": "ambiguous",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  }
+ ]
 }

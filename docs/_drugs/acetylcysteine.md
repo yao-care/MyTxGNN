@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "Acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Acetylcysteine: indikasi baharu diramal Penyakit trombotik (thrombotic disease) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -89,7 +89,7 @@ Perlu diberi perhatian bahawa data klinikal adalah heterogen merentasi subjenis 
 
 ## Maklumat Pasaran di Malaysia
 
-Status pasaran: dipasarkan. Menurut data tempatan, terdapat 33 lesen sah (28 produk ramuan tunggal dan 5 produk gabungan). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
+Status pasaran: dipasarkan. Menurut data tempatan, terdapat 36 lesen sah (31 produk ramuan tunggal dan 5 produk gabungan). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|

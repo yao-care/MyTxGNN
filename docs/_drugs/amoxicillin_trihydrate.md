@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 69
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -82,7 +82,7 @@ Pada masa ini tiada literatur berkaitan tersedia untuk repurposing.
 
 ## Maklumat Pasaran Malaysia
 
-81 pendaftaran aktif direkodkan dalam pangkalan data Malaysia NPRA. Bagaimanapun, butir-butir produk individu — termasuk nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan — tidak diperolehi dalam proses analisis ini. Jadual di bawah tidak dapat diisi sehingga soalan peringkat produk NPRA yang lengkap selesai.
+90 pendaftaran aktif direkodkan dalam pangkalan data Malaysia NPRA. Bagaimanapun, butir-butir produk individu — termasuk nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan — tidak diperolehi dalam proses analisis ini. Jadual di bawah tidak dapat diisi sehingga soalan peringkat produk NPRA yang lengkap selesai.
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |------------------|------------|-----------|---------------------|

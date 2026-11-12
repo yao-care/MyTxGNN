@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Ergocalciferol"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis", "craniofacial conodysplasia", "renal osteodystrophy", "calcium-alkali syndrome"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ergocalciferol: indikasi baharu diramal Displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type) (tahap bukti L5)."
 ---
 
@@ -72,7 +72,7 @@ Menurut data tempatan, terdapat sebahagian lesen yang sah dan sebahagian yang di
 | MAL20020375ARZ | VITALIPID N ADULT, 10ML GLASS AMPOULE | - | Tiada teks indikasi dalam rekod |
 | MAL23046070NC | LAC Men's Mega Multi Active Timed-Release Caplet | - | Tiada teks indikasi dalam rekod |
 
-Sebanyak 9 lesen berstatus sah dan 1 lesen dibatalkan. Senarai di atas hanya menunjukkan lima lesen utama.
+Sebanyak 14 lesen berstatus sah dan 3 lesen dibatalkan. Senarai di atas hanya menunjukkan lima lesen utama.
 
 ## Pertimbangan Keselamatan
 

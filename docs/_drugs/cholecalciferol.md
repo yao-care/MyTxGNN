@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CHOLECALCIFEROL"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cholecalciferol: indikasi baharu diramal Displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type) (tahap bukti L5). Indikasi asal: Tidak direkodkan dala…"
 ---
 
@@ -70,7 +70,7 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Data tempatan merekodkan 800 lesen yang sah, termasuk 71 produk bahan tunggal. Lesen produk kombinasi tidak digunakan untuk menerangkan status produk bahan tunggal. Teks indikasi dan bentuk dosej tidak direkodkan dalam data tempatan. Contoh produk bahan tunggal:
+Data tempatan merekodkan 903 lesen yang sah, termasuk 73 produk bahan tunggal. Lesen produk kombinasi tidak digunakan untuk menerangkan status produk bahan tunggal. Teks indikasi dan bentuk dosej tidak direkodkan dalam data tempatan. Contoh produk bahan tunggal:
 
 | Nombor Kelulusan | Nama Produk | Pengeluar |
 |---------|------|------|

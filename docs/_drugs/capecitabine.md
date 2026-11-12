@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Capecitabine: indikasi baharu diramal Adenokarsinoma gaster dan poliposis proksimal gaster (gastric adenocarcinoma and proximal polyposis of the stomach) (tahap bukti L5). Indikasi asal: Tidak direko…"
 ---
 
@@ -72,7 +72,7 @@ Skor ramalan sangat tinggi (0,9994), tetapi ia kelihatan mencerminkan kedekatan 
 | MAL23066015ACZ | CAPTAB Capecitabine 150 mg Film Coated Tablets | – | Tidak direkodkan dalam data tempatan |
 | MAL23066016ACZ | CAPTAB Capecitabine 500 mg Film Coated Tablets | – | Tidak direkodkan dalam data tempatan |
 
-Sebanyak 12 kebenaran sah didaftarkan; lima yang pertama disenaraikan di atas.
+Sebanyak 15 kebenaran sah didaftarkan; lima yang pertama disenaraikan di atas.
 
 ## Sitotoksisiti
 

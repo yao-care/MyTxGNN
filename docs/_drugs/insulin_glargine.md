@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Insulin Glargine"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Insulin Glargine: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2, diabetes mellitus jenis 1…"
 ---
 
@@ -79,7 +79,7 @@ Buat masa ini tiada literatur berkaitan yang tersedia untuk autoimmune oophoriti
 
 ## Maklumat Pasaran Malaysia
 
-Teks indikasi lulus dan bentuk dosej tidak tersedia dalam data yang dikumpulkan. Senarai di bawah menunjukkan 5 daripada 13 pendaftaran yang sah (11 bahan tunggal dan 2 kombinasi). Produk kombinasi (Soliqua) tidak disenaraikan kerana lesennya tidak menggambarkan status insulin glargine sebagai bahan tunggal.
+Teks indikasi lulus dan bentuk dosej tidak tersedia dalam data yang dikumpulkan. Senarai di bawah menunjukkan 5 daripada 15 pendaftaran yang sah (13 bahan tunggal dan 2 kombinasi). Produk kombinasi (Soliqua) tidak disenaraikan kerana lesennya tidak menggambarkan status insulin glargine sebagai bahan tunggal.
 
 | Nombor Kelulusan | Nama Produk | Pengilang | Status |
 |---------|------|------|-----------|

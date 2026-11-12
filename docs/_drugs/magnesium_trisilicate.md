@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Magnesium Trisilicate"
 predicted_indications: ["gastroduodenitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Magnesium Trisilicate: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Penyakit ulser peptik, GERD, esofagitis, dispepsia"
 ---
 
@@ -83,7 +83,7 @@ Buat masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran di Malaysia
 
-Semua 14 pendaftaran ialah produk kombinasi dan berstatus sah. Teks indikasi yang diluluskan tidak tersedia dalam data yang dihimpunkan. Lesen produk kombinasi tidak boleh digunakan untuk menggambarkan status kelulusan bahan tunggal magnesium trisilikat. Senarai di bawah menunjukkan 5 yang pertama sahaja.
+Semua 15 pendaftaran ialah produk kombinasi dan berstatus sah. Teks indikasi yang diluluskan tidak tersedia dalam data yang dihimpunkan. Lesen produk kombinasi tidak boleh digunakan untuk menggambarkan status kelulusan bahan tunggal magnesium trisilikat. Senarai di bawah menunjukkan 5 yang pertama sahaja.
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Pengilang |
 |---------|------|------|-----------|

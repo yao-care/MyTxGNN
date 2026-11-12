@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 70
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -40,7 +40,7 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 ## Ringkasan Satu Ayat
 
-Amoxycillin ialah antibiotik aminopenicillin yang digunakan secara meluas dan ditunjukkan untuk pelbagai jangkauan jangkitan bakteria, dengan 66 produk yang didaftar di Malaysia mengesahkan kehadiran pasaran yang kukuh.
+Amoxycillin ialah antibiotik aminopenicillin yang digunakan secara meluas dan ditunjukkan untuk pelbagai jangkauan jangkitan bakteria, dengan 68 produk yang didaftar di Malaysia mengesahkan kehadiran pasaran yang kukuh.
 Model TxGNN **belum menghasilkan ramalan repurposing** untuk ubat ini dalam Pek Bukti semasa.
 Tanpa indikasi yang diramalkan, pencarian ujian klinikal dan bukti literatur belum dimulakan, dan penilaian repurposing penuh tidak boleh diteruskan pada peringkat ini.
 

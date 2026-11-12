@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 654
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
 description: "Sorafenib: indikasi baharu diramal Liposarkoma (liposarcoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -77,7 +77,7 @@ Namun, sambutan sarkoma tisu lembut terhadap rawatan sangat bergantung pada subj
 
 ## Maklumat Pasaran di Malaysia
 
-Status pasaran di Malaysia: dipasarkan, dengan 4 lesen sah. Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Status pasaran di Malaysia: dipasarkan, dengan 5 lesen sah. Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 ## Sitotoksisiti
 

@@ -79,3 +79,6 @@ if __name__ == "__main__":
     if not re.fullmatch(r"(data-[\w-]+)?", tag):
         sys.exit("--release-tag 要是 data-… 的 tag")
     build(ws, tag)
+    # 2026-11-12：快照換了事實，正文許可證張數跟著改寫（每週排程是先套紀錄再建快照，所以這裡用新快照再跑一次）
+    import subprocess
+    subprocess.run([sys.executable, str(ROOT / "scripts" / "rewrite_license_counts.py")], check=True)

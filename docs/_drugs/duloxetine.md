@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Duloxetine: indikasi baharu diramal Benign paroxysmal torticollis of infancy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -92,7 +92,7 @@ Oleh itu, secara mekanistik duloxetine mungkin sesuai untuk agoraphobia. Namun b
 
 ## Maklumat Pasaran Malaysia
 
-Teks penunjuk yang diluluskan dan bentuk dos tidak tersedia dalam data yang disusun. Lima daripada 18 lesen sah disenaraikan:
+Teks penunjuk yang diluluskan dan bentuk dos tidak tersedia dalam data yang disusun. Lima daripada 16 lesen sah disenaraikan:
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Penunjuk Diluluskan |
 |---------|------|------|-----------|

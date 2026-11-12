@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Deferasirox"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Deferasirox: indikasi baharu diramal Jangkitan HIV (tahap bukti L5). Indikasi asal: Beta-talasemia dan hemoglobinopati berkaitan"
 ---
 
@@ -74,7 +74,7 @@ Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Terdapat 14 pendaftaran yang sah, kesemuanya produk bahan tunggal. Lima yang utama disenaraikan di bawah (teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data yang dikumpulkan).
+Terdapat 21 pendaftaran yang sah, kesemuanya produk bahan tunggal. Lima yang utama disenaraikan di bawah (teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data yang dikumpulkan).
 
 | Nombor Kebenaran | Nama Produk | Pengilang | Indikasi Diluluskan |
 |---------|------|------|-----------|

@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 31
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -71,7 +71,7 @@ Daripada farmakoloji yang ditetapkan, Adrenalin bertindak sebagai agonis adrener
 
 ## Maklumat Pasaran Malaysia
 
-17 pendaftaran aktif telah dikenalpasti dalam pangkalan data NPRA untuk Adrenalin (Epinefrin). Walau bagaimanapun, butiran produk individu tidak diisi dalam Pakej Bukti semasa dan memerlukan langkah pengambilan data susulan.
+16 pendaftaran aktif telah dikenalpasti dalam pangkalan data NPRA untuk Adrenalin (Epinefrin). Walau bagaimanapun, butiran produk individu tidak diisi dalam Pakej Bukti semasa dan memerlukan langkah pengambilan data susulan.
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
 |-----------------|------------|-----------|----------------------|

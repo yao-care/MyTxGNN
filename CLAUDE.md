@@ -516,3 +516,10 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 
 2026-10-31～11-06 依成分重建後直接刪掉的矛盾子句，2026-11-12 已用 `scripts/reviews_from_edits.py --git` 轉成 181 筆紀錄（157 頁；沒有因 AI 重產而原句已不在頁面的）。
 `scripts/sync_notes_to_docs.py` 依 notes 重寫整頁時，會重套紀錄（有程式許可證表的站也保留舊頁的程式區塊），notes 裡的舊錯句會被紀錄再更正一次。
+
+正文許可證張數由程式改寫（2026-11-12 用戶決定；比照 Tw 的 `page_postprocess.rewrite_count_prose`）：`scripts/rewrite_license_counts.py` 依 `snapshots/my_licenses.json.gz` 的事實層改寫正文的馬來文「N lesen sah／N pendaftaran／N produk berdaftar」張數，
+規則在 `src/mytxgnn/regulatory/count_prose.py`（只改句型明確的；有保留、講證據包或查詢、相對數、劑型或廠商子集、顯示筆數、partial 頁不動；同一行有句子判斷不了就整行不動；數字已等於總數或有效數任一讀法就不動）。
+程式改寫的張數不逐筆寫查核紀錄、頁面不加說明框（同 Tw）；查核紀錄 replacement／anchor 所在的句子不改。`apply_drug_reviews.py`（非 --check）結尾與 `build_license_snapshot.py` 寫完快照後都會跑，
+所以每週排程、license_rebuild_run、sync_notes_to_docs 之後張數會跟著事實層更新；gate 第 22 項擋「再跑一次會變」。
+判斷不了的句子（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上）不改，`--list` 列出，2026-11-12 已用 `--uncertain` 加進待查清單（source：正文許可證張數程式改寫判斷不了的句子），要改請寫查核紀錄。
+

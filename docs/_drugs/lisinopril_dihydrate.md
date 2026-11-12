@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 468
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -38,7 +38,7 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 ## Ringkasan Satu Ayat
 
-Lisinopril dihydrate adalah produk farmaseutikal berdaftar di Malaysia dengan 3 kebenaran pemasaran aktif, disahkan oleh rekod NPRA.
+Lisinopril dihydrate adalah produk farmaseutikal berdaftar di Malaysia dengan 9 kebenaran pemasaran aktif, disahkan oleh rekod NPRA.
 Walau bagaimanapun, Evidence Pack semasa adalah **amat tidak lengkap**: tiada ramalan ubat baru dari ubat lama TxGNN telah dijana, dan kedua-dua mekanisme tindakan dan butiran indikasi yang diluluskan tidak ada.
 Laporan ini mendokumentasikan keadaan data semasa dan menggariskan langkah-langkah wajib sebelum penilaian ubat baru dari ubat lama yang lengkap dapat diteruskan.
 
@@ -71,7 +71,7 @@ Selain itu, 3 rekod lesen NPRA telah diambil dari segi jumlah, tetapi semua meda
 
 ## Maklumat Pasaran Malaysia
 
-Rekod NPRA mengesahkan 3 pendaftaran aktif untuk lisinopril dihydrate di Malaysia. Maklumat lesen terperinci tidak ditangkap dalam tarik data semasa dan mesti diambil dalam kitaran berikutnya.
+Rekod NPRA mengesahkan 9 pendaftaran aktif untuk lisinopril dihydrate di Malaysia. Maklumat lesen terperinci tidak ditangkap dalam tarik data semasa dan mesti diambil dalam kitaran berikutnya.
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |------------------|------------|-----------|------------------------|

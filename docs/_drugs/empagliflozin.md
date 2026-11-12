@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Empagliflozin: indikasi baharu diramal Sindrom orang kaku klasik (classic stiff person syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -70,7 +70,7 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Terdapat 15 lesen sah dalam data yang dikumpulkan. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam rekod. Lima lesen utama (ingredien tunggal) disenaraikan di bawah.
+Terdapat 19 lesen sah dalam data yang dikumpulkan. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam rekod. Lima lesen utama (ingredien tunggal) disenaraikan di bawah.
 
 | Nombor Kebenaran | Nama Produk | Pengilang |
 |---------|------|-----------|

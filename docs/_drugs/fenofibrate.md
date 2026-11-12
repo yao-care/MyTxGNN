@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Fenofibrate"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Fenofibrate: indikasi baharu diramal Kekurangan protein pemindahan ester kolesterol (CETP deficiency) (tahap bukti L5). Indikasi asal: Hipertrigliseridemia dan hiperlipidemia (hubungan yang direkodka…"
 ---
 
@@ -95,7 +95,7 @@ Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data yang diku
 | MAL07124602ACZ | Fenosup Lidose 160 mg Capsule | Kapsul | Tiada maklumat |
 | MAL10053648AZ | Lipanthyl Penta 145, film coated tablet | Tablet bersalut filem | Tiada maklumat |
 
-Jumlah pendaftaran ialah 13 (10 produk tunggal dan 3 produk gabungan); senarai penuh tidak diulang di sini.
+Jumlah pendaftaran ialah 14 (11 produk tunggal dan 3 produk gabungan); senarai penuh tidak diulang di sini.
 
 ---
 

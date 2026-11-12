@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Caffeine"
 predicted_indications: ["nasal cavity disease", "thrombotic disease", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Caffeine: indikasi baharu diramal Penyakit rongga hidung (tahap bukti L5). Indikasi asal: Tiada teks indikasi lulus dalam data pelesenan tempatan"
 ---
 
@@ -86,7 +86,7 @@ Tiada satu pun kajian di bawah mengkaji penyakit rongga hidung sebagai sasaran r
 
 ## Maklumat Pasaran Malaysia
 
-Kesemua 9 pendaftaran ialah produk kombinasi; ia tidak boleh digunakan untuk menggambarkan status kelulusan kafein sebagai bahan tunggal. Teks indikasi yang diluluskan tidak tersedia dalam data untuk semua rekod.
+Kesemua 10 pendaftaran ialah produk kombinasi; ia tidak boleh digunakan untuk menggambarkan status kelulusan kafein sebagai bahan tunggal. Teks indikasi yang diluluskan tidak tersedia dalam data untuk semua rekod.
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
@@ -96,7 +96,7 @@ Kesemua 9 pendaftaran ialah produk kombinasi; ia tidak boleh digunakan untuk men
 | MAL13035053ACZ | Cafergot Tablet | – | – |
 | MAL20033465AEZ | PANADOL COLD EXTRA CAPLETS | – | – |
 
-Senarai di atas menunjukkan 5 daripada 9 pendaftaran.
+Senarai di atas menunjukkan 5 daripada 10 pendaftaran.
 
 ---
 

@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 72
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -38,7 +38,7 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 ## Ringkasan Satu Ayat
 
-Amoxycillin trihydrate adalah antibiotik spektrum luas dengan 49 pendaftaran produk dalam pangkalan data NPRA Malaysia, mengesahkan kehadiran pasaran yang aktif.
+Amoxycillin trihydrate adalah antibiotik spektrum luas dengan 61 pendaftaran produk dalam pangkalan data NPRA Malaysia, mengesahkan kehadiran pasaran yang aktif.
 Walau bagaimanapun, Evidence Pack ini mengandungi **tiada indikasi baru yang diramalkan oleh TxGNN**, dan bidang data penting termasuk mekanisme tindakan, butir lesen, dan amaran keselamatan kekal tidak diisi.
 Penilaian ujikaji semula lengkap **tidak dapat diteruskan** sehingga jurang ini diselesaikan.
 
@@ -61,7 +61,7 @@ Penilaian ujikaji semula lengkap **tidak dapat diteruskan** sehingga jurang ini 
 
 ## Maklumat Pasaran Malaysia
 
-49 kebenaran produk untuk amoxycillin trihydrate telah dicatatkan dalam pangkalan data NPRA. Butir rekod individu (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diperoleh semasa tarikan data ini dan mesti ditanya semula.
+61 kebenaran produk untuk amoxycillin trihydrate telah dicatatkan dalam pangkalan data NPRA. Butir rekod individu (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diperoleh semasa tarikan data ini dan mesti ditanya semula.
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------------------|--------------|-------------|---------------------|
