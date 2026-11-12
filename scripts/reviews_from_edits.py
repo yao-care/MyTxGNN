@@ -294,9 +294,13 @@ def pick(cands, cur_body):
     return None
 
 
+restored = []  # finalize 跳過的已還原句（檔名, 原句）
+
+
 def finalize(by, current, regen, fixes, facts, existing_ids):
     """草稿 → 正式紀錄；回傳 (紀錄, 無法定位的草稿)"""
     out, lost = [], []
+    restored.clear()
     for fname, recs in sorted(by.items()):
         stem = fname[:-3]
         cur = current(fname)
@@ -315,12 +319,17 @@ def finalize(by, current, regen, fixes, facts, existing_ids):
                 else:
                     lost.append((fname, {"claim": c0, "replacement": r0}))
                     continue
+            if fname in getattr(C, "RESTORED", {}):
+                restored.append((fname, got[0]))  # 這頁的刪句是依錯配事實刪的、之後已修正事實（site.py RESTORED），不是錯誤，不轉紀錄
+                continue
             r = dict(r, claim=got[0], replacement=got[1], anchor=got[2], how=got[3])
             n += 1
             first, last = r["_meta"][0], r["_meta"][-1]
             rm = removed_text(r["claim"], r["replacement"])
             reason = manual_reason(fixes, stem, r["claim"])
-            kind = (C.reason_kind(reason) if reason and hasattr(C, "reason_kind") else None) or classify(rm)
+            # 刪掉的字太短（例 ES「no comercializado」→「comercializado」只刪 "no"）時改用整句分類
+            kind = (C.reason_kind(reason) if reason and hasattr(C, "reason_kind") else None) or \
+                classify(rm if len(rm.strip()) >= 8 else r["claim"])
             rec = {
                 "id": f"{C.CODE}-lic-{first['date'].replace('-', '')}-{stem}-{n}",
                 "drug": stem, "file": fname, "action": "correct",
@@ -394,6 +403,8 @@ def main(argv):
           f"無法定位 {len(lost)} 筆")
     for fn, r in lost[:30]:
         print(f"  ? {fn}：{r['claim'][:90]!r} → {r['replacement'][:60]!r}")
+    if restored:
+        print(f"已還原、不轉紀錄 {len(restored)} 筆（site.py RESTORED）：" + "；".join(f"{fn}「{c[:50]}」" for fn, c in restored))
     if "--write" in argv:
         write(recs)
         print(f"已寫入 {DATA.relative_to(ROOT)}")

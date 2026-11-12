@@ -91,6 +91,7 @@ def page_problems(stem, text):
     lines = body.replace("\r\n", "\n").split("\n")
     errs = []
     own = {ck.mv2.norm_id(x) for x in e["own"]}
+    own |= {ck.mv2.norm_id(x) for x in (getattr(C, "EXTRA_OWN", {}).get(stem) or {})}  # 事實層漏收、已人工對照主管機關清單的號碼
     a, b = section(lines)
     partial = bool((e.get("facts") or {}).get("partial"))
     if a is not None:
