@@ -80,5 +80,6 @@ if __name__ == "__main__":
         sys.exit("--release-tag 要是 data-… 的 tag")
     build(ws, tag)
     # 2026-11-12：快照換了事實，正文許可證張數跟著改寫（每週排程是先套紀錄再建快照，所以這裡用新快照再跑一次）
-    import subprocess
-    subprocess.run([sys.executable, str(ROOT / "scripts" / "rewrite_license_counts.py")], check=True)
+    if "--no-rewrite" not in a:  # license_rebuild_run 轉紀錄前建快照時不改寫正文（不然改寫會被當成刪改轉成紀錄）
+        import subprocess
+        subprocess.run([sys.executable, str(ROOT / "scripts" / "rewrite_license_counts.py")], check=True)
