@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-12T03:35:19.271343",
+  "fetched": "2026-11-12T12:10:15.607979",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,25 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "We Are Regulating Aged Care When We Should Be Building It — Greg King",
+      "url": "https://codeblue.galencentre.org/2026/11/we-are-regulating-aged-care-when-we-should-be-building-it-greg-king/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-12T06:00:00",
+      "summary": "Aged care funding is a problem for every family, every employer, and every taxpayer in Malaysia. Most of us have simply not received the bill yet. The post We Are Regulating Aged Care When We Should Be Building It — Greg King appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Enforce Poisons Act Against Nicotine Vape Sales, Withdraw Proposed Nicotine Exemption — FPMPAM & AMAM",
+      "url": "https://codeblue.galencentre.org/2026/11/enforce-poisons-act-against-nicotine-vape-sales-withdraw-proposed-nicotine-exemption-fpmpam-amam/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-12T04:11:04",
+      "summary": "FPMPAM and AMAM demand immediate enforcement of the Poisons Act against the retail sale of nicotine vapes, after the health minister confirmed that nicotine e-liquid is a scheduled poison. Doctors also oppose a proposed re-exemption of liquid nicotine. The post Enforce Poisons Act Against Nicotine Vape Sales, Withdraw Proposed Nicotine Exemption — FPMPAM & AMAM appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "doctor"
+      ]
+    },
     {
       "title": "How Long Can Dental Implants Last? Understanding Their Lifespan And The Factors That Can Lead To Failure — Assoc Prof Dr Akram Hassan",
       "url": "https://codeblue.galencentre.org/2026/11/how-long-can-dental-implants-last-understanding-their-lifespan-and-the-factors-that-can-lead-to-failure/",
@@ -85,22 +104,6 @@
       "keywords_matched": [
         "health"
       ]
-    },
-    {
-      "title": "MPS Slams Proposed Nicotine Exemption Despite Being On Poisons Board",
-      "url": "https://codeblue.galencentre.org/2026/11/mps-slams-proposed-nicotine-exemption-despite-being-on-poisons-board/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-10T02:00:00",
-      "summary": "MPS slams a proposed exemption of liquid nicotine from the Poisons List, even as it remains on the Poisons Board that approved the proposal. The pharmacists' group wants Putrajaya to reaffirm its commitment to a vape ban, after Dr Dzul's previous pledge. The post MPS Slams Proposed Nicotine Exemption Despite Being On Poisons Board appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Vape Group Hails Poisons Board’s Endorsement Of Proposed Nicotine Exemption",
-      "url": "https://codeblue.galencentre.org/2026/11/vape-group-hails-poisons-boards-endorsement-of-proposed-nicotine-exemption/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-06T10:11:24",
-      "summary": "Mevta welcomes the Poisons Board’s endorsement of the government’s proposal to exempt liquid nicotine from the Poisons List. The vape group backs stronger enforcement under Act 852, rather than a blanket ban of vape products under the Poisons Act. The post Vape Group Hails Poisons Board’s Endorsement Of Proposed Nicotine Exemption appeared first on CodeBlue .",
-      "keywords_matched": []
     }
   ]
 }
