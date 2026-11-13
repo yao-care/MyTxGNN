@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-12T20:38:19.281607",
+  "fetched": "2026-11-13T01:39:55.665970",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "We Are Regulating Aged Care When We Should Be Building It — Greg King",
@@ -103,6 +103,16 @@
       "summary": "The Food (Amendment) Bill 2026 includes Food Technologists as authorised officers. But what about the existing EHO and AEHO workforce? For many years, environmental health professionals have been involved in food safety enforcement. The post Food Laws Are Getting Stronger, But What About Officers Enforcing Them? — Environmental Health Officer appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "MediAsas: What Malaysians need to know about the new basic medical insurance plan",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/13/mediasas-what-malaysians-need-to-know-about-the-new-basic-medical-insurance-plan/242126",
+      "source": "Malay Mail",
+      "published": "2026-11-12T23:00:00",
+      "summary": "KUALA LUMPUR, Nov 13 — Malaysians struggling with rising medical insurance premiums may have a more affordabl...",
+      "keywords_matched": [
+        "medical"
       ]
     }
   ]
