@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-13T09:04:52.528266",
+  "fetched": "2026-11-13T17:29:37.587967",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "title": "Extend Jakim Guidelines For Muslim Employees To Tobacco, Vape Sales — MyWatch",
@@ -103,21 +103,33 @@
       ]
     },
     {
-      "title": "Police foil attempt to smuggle over 9kg of syabu worth RM476,180 to Indonesia via Port Dickson jetty",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/13/police-foil-attempt-to-smuggle-over-9kg-of-syabu-worth-rm476180-to-indonesia-via-port-dickson-jetty/243107",
+      "title": "HKL monitors cop after successful hand reattachment following Kepong machete attack",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/13/hkl-monitors-cop-after-successful-hand-reattachment-following-kepong-machete-attack/243163",
       "source": "Malay Mail",
-      "published": "2026-11-13T07:02:20",
-      "summary": "SEREMBAN, Nov 13 — Negeri Sembilan police foiled an attempt to smuggle 9.238 kilogrammes (kg) of drugs believed to...",
+      "published": "2026-11-13T12:27:13",
+      "summary": "KUALA LUMPUR, Nov 13 — The Ministry of Health (MOH), through the Kuala Lumpur Hospital (HKL), is closely monitorin...",
       "keywords_matched": [
-        "drug"
+        "health",
+        "hospital",
+        "hospital"
       ]
     },
     {
-      "title": "Retired teacher claims trial to 17 charges of physical sexual assault on seven students in Teluk Intan",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/13/retired-teacher-claims-trial-to-17-charges-of-physical-sexual-assault-on-seven-students-in-teluk-intan/243095",
+      "title": "UEC holders: No change to entry requirements for private medical degrees, says Fahmi",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/13/uec-holders-no-change-to-entry-requirements-for-private-medical-degrees-says-fahmi/243139",
       "source": "Malay Mail",
-      "published": "2026-11-13T06:11:14",
-      "summary": "TELUK INTAN, Nov 13 — A retired teacher pleaded not guilty in the Sessions Court here today to 17 charges of physi...",
+      "published": "2026-11-13T10:07:25",
+      "summary": "KUALA LUMPUR, Nov 13 — The government has agreed today to maintain the existing minimum entry requirements for Uni...",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
+    {
+      "title": "Former Perlis MB Azlan Man faces Jan 20, 2027 decision in RM1.18m false claims trial",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/13/former-perlis-mb-azlan-man-faces-jan-20-2027-decision-in-rm118m-false-claims-trial/243130",
+      "source": "Malay Mail",
+      "published": "2026-11-13T09:04:35",
+      "summary": "KUALA LUMPUR, Nov 13 — The Sessions Court here will decide on Jan 20 whether former Perlis Menteri Besar Datuk Ser...",
       "keywords_matched": [
         "trial"
       ]
