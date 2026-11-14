@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-13T23:14:44.461189",
+  "fetched": "2026-11-14T04:56:52.396834",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
     {
       "title": "Extend Jakim Guidelines For Muslim Employees To Tobacco, Vape Sales — MyWatch",
@@ -103,35 +103,14 @@
       ]
     },
     {
-      "title": "HKL monitors cop after successful hand reattachment following Kepong machete attack",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/13/hkl-monitors-cop-after-successful-hand-reattachment-following-kepong-machete-attack/243163",
+      "title": "MB: Johor govt hopes filling of posts at Hospital Pasir Gudang can be expedited as nurses, specialists in short supply",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/14/mb-johor-govt-hopes-filling-of-posts-at-hospital-pasir-gudang-can-be-expedited-as-nurses-specialists-in-short-supply/243199",
       "source": "Malay Mail",
-      "published": "2026-11-13T12:27:13",
-      "summary": "KUALA LUMPUR, Nov 13 — The Ministry of Health (MOH), through the Kuala Lumpur Hospital (HKL), is closely monitorin...",
+      "published": "2026-11-14T02:47:14",
+      "summary": "JOHOR BAHRU, Nov 14 — The Johor State Government hopes the filling of posts at Hospital Pasir Gudang (HPG) can be...",
       "keywords_matched": [
-        "health",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "UEC holders: No change to entry requirements for private medical degrees, says Fahmi",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/13/uec-holders-no-change-to-entry-requirements-for-private-medical-degrees-says-fahmi/243139",
-      "source": "Malay Mail",
-      "published": "2026-11-13T10:07:25",
-      "summary": "KUALA LUMPUR, Nov 13 — The government has agreed today to maintain the existing minimum entry requirements for Uni...",
-      "keywords_matched": [
-        "medical"
-      ]
-    },
-    {
-      "title": "Former Perlis MB Azlan Man faces Jan 20, 2027 decision in RM1.18m false claims trial",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/13/former-perlis-mb-azlan-man-faces-jan-20-2027-decision-in-rm118m-false-claims-trial/243130",
-      "source": "Malay Mail",
-      "published": "2026-11-13T09:04:35",
-      "summary": "KUALA LUMPUR, Nov 13 — The Sessions Court here will decide on Jan 20 whether former Perlis Menteri Besar Datuk Ser...",
-      "keywords_matched": [
-        "trial"
       ]
     }
   ]
