@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-14T04:56:52.396834",
+  "fetched": "2026-11-14T11:57:48.813284",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "Extend Jakim Guidelines For Muslim Employees To Tobacco, Vape Sales — MyWatch",
@@ -100,17 +100,6 @@
       "summary": "Smoking is not just a lung habit. It is a whole-body risk. The good news is that stopping, today and not someday, is one of the most powerful things a person can do for their health. The post More Than The Lungs: The Silent Damage Of Smoking And Vaping appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
-      ]
-    },
-    {
-      "title": "MB: Johor govt hopes filling of posts at Hospital Pasir Gudang can be expedited as nurses, specialists in short supply",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/14/mb-johor-govt-hopes-filling-of-posts-at-hospital-pasir-gudang-can-be-expedited-as-nurses-specialists-in-short-supply/243199",
-      "source": "Malay Mail",
-      "published": "2026-11-14T02:47:14",
-      "summary": "JOHOR BAHRU, Nov 14 — The Johor State Government hopes the filling of posts at Hospital Pasir Gudang (HPG) can be...",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     }
   ]
