@@ -10,6 +10,11 @@ permalink: /evidence-medium/
 
 # Medium Evidence Drugs
 
+<!-- page-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
+{% assign pd_m = site.data.drug_stats.level_counts.L3 | plus: site.data.drug_stats.level_counts.L4 %}
+Halaman ini menyenaraikan **{{ pd_m }}** daripada **{{ site.data.drug_stats.total_drugs }}** ubat yang mempunyai laporan di laman ini ({{ pd_m | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}%). Takrif tahap: [Metodologi]({{ '/methodology/' | relative_url }}).
+<!-- page-data:end -->
+
 <p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
 Candidates worth investigating with additional research
 </p>
