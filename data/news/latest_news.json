@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-14T21:58:00.760336",
+  "fetched": "2026-11-15T01:39:06.136544",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Extend Jakim Guidelines For Muslim Employees To Tobacco, Vape Sales — MyWatch",
@@ -100,6 +100,17 @@
       "summary": "Smoking is not just a lung habit. It is a whole-body risk. The good news is that stopping, today and not someday, is one of the most powerful things a person can do for their health. The post More Than The Lungs: The Silent Damage Of Smoking And Vaping appeared first on CodeBlue .",
       "keywords_matched": [
         "health"
+      ]
+    },
+    {
+      "title": "Health Ministry reassures patients after cyber breach targets file-sharing platform",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/15/health-ministry-reassures-patients-after-cyber-breach-targets-file-sharing-platform/243301",
+      "source": "Malay Mail",
+      "published": "2026-11-15T00:52:59",
+      "summary": "KUALA LUMPUR, Nov 15 — All major operational systems, as well as the Ministry of Health’s (MOH) healthcare a...",
+      "keywords_matched": [
+        "health",
+        "patient"
       ]
     }
   ]
