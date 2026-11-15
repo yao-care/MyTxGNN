@@ -24,7 +24,7 @@ Ramalan penggunaan semula ubat untuk ubat yang diluluskan NPRA (Malaysia) menggu
 | **Ubat unik** | 1,061 |
 | **Petunjuk unik** | 17,041 |
 | **Data DDI** | 160,235 |
-| **Sumber FHIR** | 615 MK / 3,484 CUD |
+| **Sumber FHIR** | 601 MK / 3,432 CUD |
 
 ### Taburan tahap bukti
 
