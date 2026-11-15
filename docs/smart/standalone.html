@@ -6,7 +6,7 @@
   <link rel="canonical" href="https://mytxgnn.yao.care/smart/standalone.html">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MyTxGNN SMART App - Standalone Test Mode</title>
+  <title>MyTxGNN SMART App - Mod ujian kendiri</title>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-W7ZNBYKJHJ"></script>
   <script>
     window.TXGNN_ANALYTICS = Object.assign({"measurementId": "G-W7ZNBYKJHJ", "contentGroup": "MyTxGNN", "language": "ms", "citationHosts": ["npra.gov.my"], "linkerDomains": ["yao.care", "www.yao.care", "mytxgnn.yao.care", "www.ods.yao.care", "app.ods.yao.care"], "pageType": "smart", "pagePath": "/smart/standalone.html"}, { pageTitle: document.title });
@@ -561,75 +561,75 @@
 <body>
   <header class="header">
     <h1>MyTxGNN SMART App</h1>
-    <p>Drug Repurposing Candidate Search</p>
-    <span class="mode-badge">Standalone test mode</span>
+    <p>Carian calon penggunaan semula ubat</p>
+    <span class="mode-badge">Mod ujian kendiri</span>
   </header>
 
   <main class="content">
     <div class="info-card">
-      <h3>Standalone test mode</h3>
+      <h3>Mod ujian kendiri</h3>
       <p>
-        This page lets you enter <strong>drug names</strong> manually to test MyTxGNN drug repurposing predictions
-        without connecting to an EHR. Enter drug names in English (e.g. Famotidine, Docetaxel, Paclitaxel).
+        Halaman ini membolehkan anda memasukkan <strong>nama ubat</strong> secara manual untuk menguji ramalan penggunaan semula ubat MyTxGNN
+        tanpa sambungan ke rekod kesihatan elektronik. Masukkan nama dalam bahasa Inggeris (nama generik antarabangsa, cth. Acetylcysteine, Bupropion, Busulfan).
       </p>
       <p style="margin-top: 8px; color: #856404;">
-        <strong>Note:</strong> enter a drug name, not a disease name, e.g. "Famotidine" rather than "diabetes".
-        Click an example button below for a quick test.
+        <strong>Nota:</strong> masukkan nama ubat, bukan nama penyakit, cth. "Acetylcysteine" dan bukan "diabetes".
+        Klik butang contoh di bawah untuk ujian pantas.
       </p>
     </div>
 
     <section class="section">
-      <h2 class="section-title">Enter drug names</h2>
+      <h2 class="section-title">Masukkan nama ubat</h2>
 
       <div class="input-group">
-        <input type="text" id="drug-input" placeholder="Enter a drug name, e.g. Famotidine, Docetaxel..." autocomplete="off">
-        <button class="btn btn-primary" id="add-btn">Add</button>
+        <input type="text" id="drug-input" placeholder="Nama ubat, cth. Acetylcysteine, Bupropion..." autocomplete="off">
+        <button class="btn btn-primary" id="add-btn">Tambah</button>
       </div>
 
       <div class="drug-tags" id="drug-tags">
-        <span style="color: #999; font-size: 14px;">No drugs added yet</span>
+        <span style="color: #999; font-size: 14px;">Belum ada ubat ditambah</span>
       </div>
 
       <div style="display: flex; gap: 12px;">
-        <button class="btn btn-primary" id="query-btn">Search repurposing candidates</button>
-        <button class="btn btn-secondary" id="clear-btn">Clear all</button>
+        <button class="btn btn-primary" id="query-btn">Cari calon penggunaan semula</button>
+        <button class="btn btn-secondary" id="clear-btn">Kosongkan semua</button>
       </div>
 
       <div class="sample-drugs">
-        <p>Examples of L1 high-evidence drugs (click to add):</p>
+        <p>Contoh ubat dengan tahap bukti tertinggi di laman ini (klik untuk tambah):</p>
         <div class="sample-list">
-          <button class="sample-btn" data-drug="Famotidine">Famotidine</button>
-          <button class="sample-btn" data-drug="Docetaxel">Docetaxel</button>
-          <button class="sample-btn" data-drug="Paclitaxel">Paclitaxel</button>
-          <button class="sample-btn" data-drug="Remdesivir">Remdesivir</button>
-          <button class="sample-btn" data-drug="Vitamin E">Vitamin E</button>
-          <button class="sample-btn" data-drug="Isosorbide dinitrate">Isosorbide dinitrate</button>
-          <button class="sample-btn" data-drug="Dronedarone">Dronedarone</button>
-          <button class="sample-btn" data-drug="Nepafenac">Nepafenac</button>
+          <button class="sample-btn" data-drug="Acetylcysteine">Acetylcysteine (L1)</button>
+          <button class="sample-btn" data-drug="Bupropion">Bupropion (L1)</button>
+          <button class="sample-btn" data-drug="Busulfan">Busulfan (L1)</button>
+          <button class="sample-btn" data-drug="Fludarabine">Fludarabine (L1)</button>
+          <button class="sample-btn" data-drug="Clofarabine">Clofarabine (L1)</button>
+          <button class="sample-btn" data-drug="Clomipramine">Clomipramine (L1)</button>
+          <button class="sample-btn" data-drug="Doxorubicin">Doxorubicin (L1)</button>
+          <button class="sample-btn" data-drug="Ketorolac">Ketorolac (L1)</button>
         </div>
       </div>
     </section>
 
     <section class="ddi-section" id="ddi-section" style="display: none;">
-      <h2 class="section-title">⚠️ Drug interaction alerts</h2>
+      <h2 class="section-title">⚠️ Amaran interaksi ubat</h2>
       <div id="ddi-results"></div>
     </section>
 
     <section class="section">
-      <h2 class="section-title">Results</h2>
+      <h2 class="section-title">Keputusan</h2>
       <div id="results">
         <div class="empty-state">
-          <p>Add drugs and click the "Search" button</p>
+          <p>Tambah ubat dan klik "Cari calon penggunaan semula"</p>
         </div>
       </div>
     </section>
 
     <div class="disclaimer">
-      <strong>Disclaimer</strong>
-      This content is for research reference only and is not a substitute for professional medical advice. All drug repurposing predictions require clinical validation before use.
-      If you have health concerns, please consult a qualified healthcare professional.
+      <strong>Penafian</strong>
+      Kandungan ini hanya untuk rujukan penyelidikan dan tidak menggantikan nasihat perubatan profesional. Semua ramalan penggunaan semula ubat memerlukan pengesahan klinikal sebelum digunakan.
+      Jika anda mempunyai masalah kesihatan, sila rujuk profesional penjagaan kesihatan yang bertauliah.
       <br><br>
-      <a href="/privacy-policy/" style="color: #856404;">Privacy policy</a>
+      <a href="/privacy-policy/" style="color: #856404;">Dasar privasi</a>
     </div>
   </main>
 
@@ -673,7 +673,7 @@
       // Load search index
       async function init() {
         try {
-          resultsDiv.innerHTML = '<div class="loading">Loading drug database...</div>';
+          resultsDiv.innerHTML = '<div class="loading">Memuatkan pangkalan data ubat...</div>';
 
           const response = await fetch(CONFIG.searchIndexUrl);
           if (!response.ok) throw new Error('Failed to load search index');
@@ -696,18 +696,18 @@
             // Auto-query
             await queryRepurposing();
           } else {
-            resultsDiv.innerHTML = '<div class="empty-state"><p>Add drugs and click the "Search" button</p></div>';
+            resultsDiv.innerHTML = '<div class="empty-state"><p>Tambah ubat dan klik "Cari calon penggunaan semula"</p></div>';
           }
         } catch (error) {
           console.error('Init error:', error);
-          resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>Failed to load the drug database</p></div>';
+          resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>Gagal memuatkan pangkalan data ubat</p></div>';
         }
       }
 
       // Render drug tags
       function renderTags() {
         if (selectedDrugs.length === 0) {
-          drugTags.innerHTML = '<span style="color: #999; font-size: 14px;">No drugs added yet</span>';
+          drugTags.innerHTML = '<span style="color: #999; font-size: 14px;">Belum ada ubat ditambah</span>';
           return;
         }
 
@@ -743,17 +743,17 @@
       // Query repurposing candidates
       async function queryRepurposing() {
         if (selectedDrugs.length === 0) {
-          resultsDiv.innerHTML = '<div class="empty-state"><p>Please add at least one drug</p></div>';
+          resultsDiv.innerHTML = '<div class="empty-state"><p>Sila tambah sekurang-kurangnya satu ubat</p></div>';
           document.getElementById('ddi-section').style.display = 'none';
           return;
         }
 
         if (!drugMapper) {
-          resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>The drug database has not loaded yet</p></div>';
+          resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>Pangkalan data ubat belum dimuatkan</p></div>';
           return;
         }
 
-        resultsDiv.innerHTML = '<div class="loading">Searching...</div>';
+        resultsDiv.innerHTML = '<div class="loading">Mencari...</div>';
 
         // Check DDI
         const ddiSection = document.getElementById('ddi-section');
@@ -765,7 +765,7 @@
             ddiResults.innerHTML = MyTxGNN.DDIChecker.formatAlertsHTML(ddiAlerts);
           } else {
             ddiSection.style.display = 'block';
-            ddiResults.innerHTML = '<div class="ddi-no-alerts">✓ No known drug interaction alerts</div>';
+            ddiResults.innerHTML = '<div class="ddi-no-alerts">✓ Tiada amaran interaksi ubat yang diketahui</div>';
           }
         } else {
           ddiSection.style.display = 'none';
@@ -786,13 +786,13 @@
                     <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank">${escapeHtml(match.name)}</a>
                     <span class="level-badge level-${match.level}">${match.level}</span>
                   </h3>
-                  <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank" class="view-full">View full report →</a>
+                  <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank" class="view-full">Lihat laporan penuh →</a>
                 </div>
                 <div class="result-original">
-                  <strong>Original indication:</strong>${escapeHtml(match.original) || '—'}
+                  <strong>Indikasi asal:</strong>${escapeHtml(match.original) || '—'}
                 </div>
                 <div>
-                  <strong>Predicted new indications (repurposing candidates):</strong>
+                  <strong>Indikasi baharu yang diramalkan (calon penggunaan semula):</strong>
                   <div class="indication-list">
             `;
 
@@ -806,7 +806,7 @@
                       <span class="ind-name">${escapeHtml(ind.name)}</span>
                       <span class="ind-score">${ind.score}%</span>
                       <button class="trials-btn" onclick="loadClinicalTrials('${escapeHtml(match.name)}', '${escapeHtml(ind.name)}', '${trialsContainerId}')">
-                        🔬 Clinical trials
+                        🔬 Ujian klinikal
                       </button>
                     </div>
                     <div class="trials-container" id="${trialsContainerId}"></div>
@@ -817,13 +817,13 @@
               if (indications.length > 10) {
                 html += `
                   <div class="more-link">
-                    ...and ${indications.length - 10} more predicted indications
-                    <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank">View all</a>
+                    ...dan ${indications.length - 10} lagi indikasi yang diramalkan
+                    <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank">Lihat semua</a>
                   </div>
                 `;
               }
             } else {
-              html += '<p style="color: #666; padding: 8px 0;">No predicted new indications</p>';
+              html += '<p style="color: #666; padding: 8px 0;">Tiada indikasi baharu yang diramalkan</p>';
             }
 
             html += '</div></div></div>';
@@ -835,10 +835,10 @@
                   <h3>${escapeHtml(drugName)}</h3>
                 </div>
                 <p class="no-match">
-                  "${escapeHtml(drugName)}" was not found in the MyTxGNN database.
+                  "${escapeHtml(drugName)}" tidak dijumpai dalam pangkalan data MyTxGNN.
                   <br><span style="font-style: normal; color: #666;">
-                    Check that this is a drug name (not a disease), or try the generic name.
-                    The database covers medicines approved in Malaysia.
+                    Pastikan ini nama ubat (bukan penyakit), atau cuba nama generik.
+                    Pangkalan data ini meliputi ubat yang didaftarkan di Malaysia.
                   </span>
                 </p>
               </div>
@@ -846,7 +846,7 @@
           }
         }
 
-        resultsDiv.innerHTML = html || '<div class="empty-state"><p>No results</p></div>';
+        resultsDiv.innerHTML = html || '<div class="empty-state"><p>Tiada keputusan</p></div>';
       }
 
       function escapeHtml(text) {
@@ -914,18 +914,18 @@
         const container = document.getElementById(containerId);
         if (!container) return;
 
-        container.innerHTML = '<span class="trials-loading">Searching clinical trials...</span>';
+        container.innerHTML = '<span class="trials-loading">Mencari ujian klinikal...</span>';
 
         const result = await searchClinicalTrials(drugName, indicationName);
 
         if (result.totalCount === 0) {
-          container.innerHTML = '<span class="trials-none">No related clinical trials</span>';
+          container.innerHTML = '<span class="trials-none">Tiada ujian klinikal berkaitan</span>';
           return;
         }
 
         let html = `
           <div class="trials-summary">
-            <strong>${result.totalCount}</strong> related clinical trials found
+            <strong>${result.totalCount}</strong> ujian klinikal berkaitan dijumpai
           </div>
           <div class="trials-list">
         `;
@@ -946,7 +946,7 @@
           const searchUrl = `https://clinicaltrials.gov/search?cond=${encodeURIComponent(indicationName)}&intr=${encodeURIComponent(drugName)}`;
           html += `
             <a href="${searchUrl}" target="_blank" class="trials-more">
-              View all ${result.totalCount} clinical trials →
+              Lihat kesemua ${result.totalCount} ujian klinikal →
             </a>
           `;
         }
@@ -974,14 +974,14 @@
        */
       function formatTrialStatus(status) {
         const statusMap = {
-          'RECRUITING': 'Recruiting',
-          'ACTIVE_NOT_RECRUITING': 'Active, not recruiting',
-          'COMPLETED': 'Completed',
-          'TERMINATED': 'Terminated',
-          'NOT_YET_RECRUITING': 'Not yet recruiting',
-          'SUSPENDED': 'Suspended',
-          'WITHDRAWN': 'Withdrawn',
-          'ENROLLING_BY_INVITATION': 'Enrolling by invitation'
+          'RECRUITING': 'Sedang merekrut',
+          'ACTIVE_NOT_RECRUITING': 'Aktif, tidak merekrut',
+          'COMPLETED': 'Selesai',
+          'TERMINATED': 'Ditamatkan',
+          'NOT_YET_RECRUITING': 'Belum merekrut',
+          'SUSPENDED': 'Digantung',
+          'WITHDRAWN': 'Ditarik balik',
+          'ENROLLING_BY_INVITATION': 'Pendaftaran melalui jemputan'
         };
         return statusMap[status] || status;
       }
@@ -1004,7 +1004,7 @@
       clearBtn.addEventListener('click', () => {
         selectedDrugs = [];
         renderTags();
-        resultsDiv.innerHTML = '<div class="empty-state"><p>Add drugs and click the "Search" button</p></div>';
+        resultsDiv.innerHTML = '<div class="empty-state"><p>Tambah ubat dan klik "Cari calon penggunaan semula"</p></div>';
       });
 
       // Sample drug buttons
