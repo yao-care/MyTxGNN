@@ -1,56 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/bortezomib-monohydrate/
 sitemap: false
-layout: default
-title: Bortezomib Monohydrate
-parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
-nav_order: 159
-last_modified_at: 2026-11-06
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Bortezomib Monohydrate
-{: .fs-9 }
-
-Tahap bukti: **N/A** | Indikasi diramal: **0** 
-{: .fs-6 .fw-300 }
-
----
-
-## Isi kandungan
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## Laporan penilaian ahli farmasi
-
-</div>
-
-## Bortezomib Monohydrate
-{: .text-alpha }
-
-## Tinjauan Pantas
-
-| Item | Kandungan |
-|------|------|
-| Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baru yang Diramalkan | — (Tiada ramalan TxGNN tersedia) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 18 daripada 18) |
-| Bilangan Pendaftaran | 18 (sah: 18) |
-
----
-
-## Penafian
-
-Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
-Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/bortezomib/">
+<meta http-equiv="refresh" content="0; url=/drugs/bortezomib/">
+<script>location="/drugs/bortezomib/"</script>
+<a href="/drugs/bortezomib/">/drugs/bortezomib/</a>
+</html>
