@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Diphenhydramine Hydrochloride
 parent: Low Evidence (L4-L5)
-nav_order: 297
+nav_order: 296
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-10-30
-predicted_indications: []
+indication_count: 1
+drugbank_id: DB01075
+monitor_inn: "Diphenhydramine"
+predicted_indications: ["rosacea conjunctivitis"]
+last_modified_at: 2026-11-16
+description: "Diphenhydramine Hydrochloride: indikasi baharu diramal Konjungtivitis rosasea (rosacea conjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Diphenhydramine Hydrochloride
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **0** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,102 +34,87 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-## Diphenhydramine Hydrochloride: Laporan Penilaian Penggunaan Kembali Ubat
+## Diphenhydramine Hydrochloride: Konjungtivitis rosasea (rosacea conjunctivitis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Diphenhydramine hydrochloride adalah antihistamin generasi pertama (antagonis reseptor H1) yang digunakan secara meluas untuk keadaan alergik, mabuk perjalanan, dan insomnia. Model TxGNN **belum menghasilkan sebarang indikasi baru yang diramalkan** untuk ubat ini. Pada masa ini, terdapat **jurang data yang kritikal** yang mesti diselesaikan sebelum penilaian penggunaan kembali dapat diteruskan.
+Diphenhydramine hydrochloride ialah antihistamin H1 generasi pertama yang didaftarkan di Malaysia, kebanyakannya dalam produk kombinasi sirap batuk dan ekspektoran.
+Model TxGNN meramalkan ia mungkin berkesan untuk **konjungtivitis rosasea (rosacea conjunctivitis)**,
+tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** dalam data yang dikumpulkan untuk laporan ini yang menyokong arah ini.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Keseluruhan
 
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak tersedia (butiran lesen ditunggu) |
-| Indikasi Baru yang Diramalkan | **Tiada** — tiada ramalan TxGNN yang tersedia |
-| Skor Ramalan TxGNN | N/A |
-| Tahap Bukti | **L5** (Tiada ramalan model atau kajian sokongan) |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Konjungtivitis rosasea (rosacea conjunctivitis) |
+| Skor Ramalan TxGNN | 0.9920 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 34 daripada 34) |
 | Bilangan Pendaftaran | 34 (sah: 34) |
-| Keputusan Disyorkan | **Tahan** |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, model TxGNN belum menghasilkan sebarang indikasi baru yang diramalkan untuk Diphenhydramine Hydrochloride, jadi penilaian kelayakan mekanistik tidak dapat dijalankan pada ketika ini.
+Data terperinci tentang mekanisme tindakan asal diphenhydramine tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan am, diphenhydramine ialah antihistamin H1 generasi pertama dengan aktiviti antikolinergik. Secara teori, sifat ini boleh mengurangkan gatal dan kemerahan mata yang dimediasi histamin.
 
-> Data mekanisme tindakan (MOA) yang terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan farmakologi yang telah ditubuhkan dengan baik, Diphenhydramine adalah antihistamin H1 generasi pertama yang menghalang histamin secara kompetitif pada reseptor H1. Ia juga mempunyai sifat antikolin, antitusif, antiemetik, dan sedatif ringan. Aktiviti multi-reseptor ini secara teorinya boleh menyokong hipotesis penggunaan kembali, tetapi tiada ramalan TxGNN khusus yang telah dijana untuk dinilai.
+Namun, rosasea okular didorong terutamanya oleh disfungsi kelenjar meibomian, ketidakstabilan lapisan air mata dan keradangan (termasuk penglibatan Demodex dan mikrob). Faktor-faktor ini tidak ditangani secara langsung oleh antihistamin. Antihistamin generasi pertama, sama ada topikal atau sistemik, juga boleh memburukkan mata kering yang sering wujud pada rosasea okular.
 
-Sebelum sebarang analisis penggunaan kembali dapat diteruskan, perkara berikut mesti diselesaikan:
-1. Penyelesaian pemetaan ID DrugBank (pada masa ini `null`) untuk membolehkan pautannya dengan graf pengetahuan TxGNN.
-2. Pelaksanaan berjaya saluran ramalan TxGNN untuk menjana indikasi calon.
-3. Pemerolehan data MOA daripada DrugBank untuk menyokong penalaran mekanistik.
+Oleh itu, pautan mekanistik ini munasabah tetapi belum disahkan. Ramalan ini harus dianggap sebagai hipotesis sahaja, dengan skor tinggi model sebagai satu-satunya sokongan.
 
 ---
 
 ## Bukti Percubaan Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan — tiada indikasi yang diramalkan tersedia untuk dicari.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-Pada masa ini tiada kesusasteraan berkaitan tersedia — tiada indikasi yang diramalkan tersedia untuk dicari.
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| *(Butiran ditunggu)* | *(Butiran ditunggu)* | *(Butiran ditunggu)* | *(Butiran ditunggu)* |
+Beberapa kelulusan utama yang direkodkan (senarai penuh disediakan oleh sistem tapak; teks indikasi yang diluluskan tidak direkodkan dalam data tempatan):
 
-> **Nota:** 34 pendaftaran produk telah dikenal pasti melalui pertanyaan NPRA, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) belum diisi dalam pakej bukti ini. Pemerolehan data daripada NPRA diperlukan.
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL19962540AZ | DIPHENMIN LINCTUS | Tidak direkodkan | Tidak direkodkan |
+| MAL16105026AZ | BENA EXPECTORANT | Tidak direkodkan | Tidak direkodkan |
+| MAL12015019AZ | Diphendry Syrup | Tidak direkodkan | Tidak direkodkan |
+| MAL20020262AZ | ALLAVIN EXPECTORANT | Tidak direkodkan | Tidak direkodkan |
+| MAL19860272AZ | SUNTUSS SYRUP | Tidak direkodkan | Tidak direkodkan |
+
+Daripada 34 lesen, 1 ialah produk bahan tunggal yang sah dan 33 ialah produk kombinasi yang sah. Lesen produk kombinasi tidak boleh digunakan untuk menggambarkan kelulusan bahan tunggal.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-> Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pakej bukti ini dan mesti diambil daripada pangkalan data NPRA atau fail PDF sisipan pakej.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tangguh)**
 
 **Justifikasi:**
-Pakej bukti ini mengandungi jurang data yang kritikal yang menghalang sebarang penilaian penggunaan kembali yang bermakna. Tiada ramalan indikasi TxGNN telah dijana, ID DrugBank tidak dipetakan, data MOA hilang, butiran lesen kosong, dan maklumat keselamatan tidak tersedia. Penilaian tidak dapat diteruskan sehingga elemen data asas ini diselesaikan.
+Ramalan ini hanya disokong oleh skor model yang tinggi, tanpa sebarang percubaan klinikal atau penerbitan yang mengkaji penyakit ini secara langsung. Mekanisme yang munasabah belum disahkan, dan antihistamin generasi pertama berpotensi memburukkan mata kering yang lazim pada rosasea okular.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-
-1. **[Menghalang] Selesaikan pemetaan ID DrugBank** — Cari DrugBank untuk "Diphenhydramine Hydrochloride" (dijangka: DB01075) dan kemas kini pakej bukti
-2. **[Menghalang] Jalankan saluran ramalan TxGNN** — Laksanakan ramalan KG + DL dengan ID DrugBank yang dipetakan untuk menjana indikasi baru yang calon
-3. **[Menghalang] Ambil butiran lesen NPRA** — Isi nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk 34 pendaftaran yang dikenal pasti
-4. **[Tinggi] Ambil data MOA** — Cari API DrugBank untuk mekanisme tindakan, farmakoinetik, dan maklumat sasaran
-5. **[Tinggi] Ambil data keselamatan** — Muat turun dan parskan fail PDF sisipan pakej daripada NPRA untuk amaran utama, kontraindikasi, dan interaksi ubat
-6. **[Sederhana] Kumpul bukti** — Setelah indikasi yang diramalkan tersedia, cari ClinicalTrials.gov, PubMed, dan ICTRP untuk bukti sokongan
-
----
-
-### Ringkasan Jurang Data
-
-| ID | Kategori | Item | Keseriusan | Penyelesaian |
-|----|----------|------|----------|-------------|
-| DG001 | Tahap Ubat | Sisipan Pakej NPRA (Amaran/Kontraindikasi) | **Menghalang** | Muat turun dan parskan PDF daripada laman web NPRA |
-| DG002 | Tahap Ubat | Mekanisme Tindakan (MOA) | **Tinggi** | Cari API DrugBank |
-| — | Tahap Ubat | ID DrugBank | **Menghalang** | Cari DrugBank (mungkin DB01075) |
-| — | Ramalan | Indikasi yang Diramalkan TxGNN | **Menghalang** | Jalankan saluran ramalan selepas pemetaan DrugBank |
-| — | Kawal Selia | Butiran Lesen NPRA | **Tinggi** | Cari semula NPRA dengan pengekstrakan medan penuh |
-
----
-
-*Penafian: Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Sebarang calon penggunaan kembali ubat memerlukan pengesahan klinikal sebelum aplikasi.*
-
+- Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan
+- Data mekanisme tindakan (MOA) yang terperinci
+- Bukti klinikal atau praklinikal yang mengkaji secara langsung rosasea okular atau konjungtivitis rosasea
+- Penilaian kesesuaian laluan pentadbiran dan bentuk dos untuk kegunaan oftalmik
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

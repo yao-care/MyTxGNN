@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Benazepril Hydrochloride
 parent: Low Evidence (L4-L5)
 nav_order: 129
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-10-30
-predicted_indications: []
+indication_count: 4
+drugbank_id: DB00542
+monitor_inn: "Benazepril"
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+last_modified_at: 2026-11-16
+description: "Benazepril Hydrochloride: indikasi baharu diramal Penyakit renal hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Benazepril Hydrochloride
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **0** 
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,96 +34,84 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-## Benazepril Hydrochloride: Penilaian Penggunaan Semula Ubat — Laporan Awal
+## Benazepril Hydrochloride: Penyakit renal hipertensif malignan (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Benazepril Hydrochloride ialah penghambat ACE yang sedang dipasarkan di Malaysia dengan 2 produk terdaftar. **Tiada petunjuk penggunaan baru telah diramalkan oleh TxGNN pada masa ini**, dan jurang data penting (ID DrugBank, MOA, teks petunjuk yang diluluskan, dan maklumat keselamatan) mesti diselesaikan sebelum penilaian penuh dapat diteruskan.
+Benazepril hydrochloride ialah perencat ACE yang berfungsi menyekat pembentukan angiotensin II untuk menurunkan tekanan darah.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit renal hipertensif malignan (malignant hypertensive renal disease)**,
+tetapi data yang disusun untuk laporan ini tidak mengandungi sebarang ujian klinikal atau penerbitan yang mengkaji penyakit ini secara langsung, jadi ramalan ini masih bersifat pengiraan semata-mata.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Keseluruhan
 
 | Item | Kandungan |
 |------|------|
-| Petunjuk Asal | *(Data tidak tersedia — teks petunjuk lesen kosong)* |
-| Petunjuk Penggunaan Baru yang Diramalkan | **Tiada** — tiada ramalan TxGNN dijana |
-| Skor Ramalan TxGNN | N/A |
-| Tahap Bukti | **L5** (Tiada ramalan, tiada kajian untuk dinilai) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Penyakit renal hipertensif malignan (malignant hypertensive renal disease) |
+| Skor Ramalan TxGNN | 0.9965 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
-| Keputusan yang Disyorkan | **Tahan** |
+| Keputusan Disyorkan | Hold |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini **tiada ramalan TxGNN** tersedia untuk Benazepril Hydrochloride. Tatasusunan `predicted_indications` kosong, bermakna model sama ada belum dilaksanakan untuk ubat ini atau tiada calon memenuhi ambang skor.
+Data mekanisme tindakan terperinci tidak tersedia dalam data yang disusun. Berdasarkan maklumat sedia ada, benazepril ialah perencat ACE yang menyekat pembentukan angiotensin II, sekali gus menurunkan tekanan darah dan tekanan intraglomerular. Kelas ubat ini lazim digunakan untuk hipertensi dan untuk memperlahankan perkembangan penyakit buah pinggang kronik, maka terdapat kaitan yang munasabah secara biologi dengan penyakit renal hipertensif.
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan maklumat yang diketahui umum, Benazepril ialah penghambat enzim angiotensin-menukar (ACE) yang menghalang penukaran angiotensin I kepada angiotensin II, dengan itu mengurangkan vasopengerutan dan sekresi aldosteron. Ia digunakan secara meluas untuk rawatan hipertensi dan kegagalan jantung kongestif. Kelas ubat ini juga telah disiasat untuk kesan nefroprotektif dalam nefropati berdiabetes dan keadaan lain.
+Namun, tiada data khusus untuk fenotip hipertensi malignan (dipercepat) disediakan. Skor TxGNN yang tinggi hanyalah ramalan pengiraan. Dalam keadaan akut hipertensi malignan, ejen intravena yang boleh dititrasi dengan cepat juga lazimnya lebih diutamakan berbanding perencat ACE. Bukti tidak langsung daripada kelas ubat menyokong kemungkinan, tetapi bukan syor khusus.
 
-Sebelum penilaian penggunaan semula ubat dapat diteruskan, saluran paip ramalan TxGNN mesti dilaksanakan dengan pemetaan DrugBank yang sah untuk Benazepril (ID DrugBank: **DB00542**, berdasarkan data umum yang diketahui) untuk menjana petunjuk calon.
+Disebabkan tiada kajian yang mengkaji penyakit ini secara langsung, tahap bukti ditetapkan pada L5 (ramalan model sahaja), walaupun penilaian awal dalam data menyebut L4.
 
 ---
 
-## Bukti Uji Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada petunjuk ramalan untuk dicari. Bukti uji klinikal akan dikumpulkan sebaik sahaja ramalan TxGNN tersedia.
+Setakat ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada petunjuk ramalan untuk dicari. Bukti literatur akan dikumpulkan sebaik sahaja ramalan TxGNN tersedia.
+Setakat ini tiada literatur berkaitan tersedia.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
-| *(kosong)* | *(kosong)* | *(kosong)* | *(kosong)* |
-| *(kosong)* | *(kosong)* | *(kosong)* | *(kosong)* |
+| MAL24066004ARZ | Amtrel (Amlodipine 5mg / Benazepril hydrochloride 10mg) Tablet | Tidak direkodkan | Tidak direkodkan |
+| MAL15020010HA | FORTEKOR® Flavor 5 mg Tablets | Tidak direkodkan | Tidak direkodkan |
 
-> **Nota:** Dua pendaftaran telah ditemui oleh pertanyaan NPRA (tarikh pertanyaan: 2026-03-27), tetapi medan terperinci lesen (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) semuanya kosong dalam pakej bukti ini. Ini perlu diekstrak semula daripada pangkalan data NPRA.
+Nota: Amtrel ialah produk kombinasi (amlodipine + benazepril), dan lesennya tidak boleh digunakan untuk menggambarkan status kelulusan benazepril sebagai bahan tunggal.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-> Sila rujuk surat kapsul untuk maklumat keselamatan. Semua medan keselamatan (amaran utama, kontraindikasi, interaksi ubat) pada masa ini hilang daripada pakej bukti ini.
+Sila rujuk risalah maklumat produk (package insert) untuk maklumat keselamatan.
+
+Satu perkara umum bagi kelas perencat ACE yang perlu diberi perhatian: dalam stenosis arteri renal dua hala atau stenosis pada buah pinggang tunggal, perencat ACE boleh mencetuskan kecederaan buah pinggang akut. Perkara ini berkaitan terutamanya dengan ramalan lain dalam senarai (hipertensi renovaskular) dan memerlukan penilaian keselamatan khusus sebelum sebarang penilaian lanjut.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Penilaian ini tidak dapat diteruskan kerana tiada petunjuk ramalan TxGNN dan pelbagai jurang data kritikal tetap tidak diselesaikan. Pakej bukti tidak lengkap pada peringkat paling asas — tanpa petunjuk ramalan, tiada penilaian penggunaan semula boleh dilakukan.
+**Rasional:**
+Tiada ujian klinikal atau literatur yang mengkaji penyakit renal hipertensif malignan secara langsung, dan skor TxGNN 0,9965 ialah ramalan pengiraan sahaja. Tambahan pula, pengurusan akut keadaan ini lazimnya menggunakan ejen intravena yang boleh dititrasi.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-
-1. **Pemetaan ID DrugBank** — Sahkan ID DrugBank (berkemungkinan DB00542) dan sepadukan ke dalam pakej bukti
-2. **Jalankan semula ramalan TxGNN** — Laksanakan saluran paip ramalan KG dan DL dengan pemetaan DrugBank yang betul untuk menjana petunjuk calon
-3. **Isi terperinci lesen NPRA** — Pertanyaan semula pangkalan data NPRA untuk mengisi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan untuk 2 produk terdaftar
-4. **Dapatkan data MOA** — Pertanyaan API DrugBank untuk mendapatkan mekanisme tindakan (laluan penghambatan ACE)
-5. **Dapatkan data keselamatan** — Muat turun dan parse PDF surat kapsul (仿單) daripada NPRA/pengeluar untuk mengekstrak amaran, kontraindikasi, dan maklumat interaksi ubat
-6. **Pengumpulan bukti** — Sebaik sahaja petunjuk ramalan tersedia, jalankan pengumpul ClinicalTrials.gov, PubMed, dan ICTRP untuk bukti sokongan
-
----
-
-### Ringkasan Jurang Data
-
-| ID | Item | Keterukan | Remediasi |
-|----|------|----------|-------------|
-| DG001 | Amaran/kontraindikasi surat kapsul | **Menghalang** | Muat turun PDF surat kapsul daripada NPRA dan parse |
-| DG002 | Mekanisme Tindakan (MOA) | Tinggi | Pertanyaan API DrugBank |
-| — | ID DrugBank | Tinggi | Peta BENAZEPRIL HYDROCHLORIDE → DB00542 |
-| — | Petunjuk ramalan TxGNN | **Menghalang** | Jalankan semula saluran paip ramalan |
-| — | Terperinci lesen NPRA | Sederhana | Pertanyaan semula NPRA dengan ekstraksi medan lengkap |
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci
+- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA
+- Kajian klinikal atau pemerhatian yang mengkaji hipertensi malignan dengan penglibatan renal secara langsung
+- Penilaian keselamatan khusus untuk populasi sasaran, termasuk risiko kecederaan buah pinggang
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

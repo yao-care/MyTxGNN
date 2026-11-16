@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Ambroxol Hcl
 parent: Low Evidence (L4-L5)
 nav_order: 53
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-10-30
-predicted_indications: []
+indication_count: 4
+drugbank_id: DB06742
+monitor_inn: "Ambroxol"
+predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
+last_modified_at: 2026-11-16
+description: "Ambroxol Hcl: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ambroxol Hcl
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **0** 
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,86 +34,77 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-## Ambroxol HCl: Penilaian Penggunaan Semula — Menunggu Data Ramalan TxGNN
+## Ambroxol Hcl: Penyakit rongga hidung (nasal cavity disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Ambroxol HCl ialah agen mukoitik dan ekspektoran yang telah ditubuhkan digunakan untuk keadaan pernafasan yang melibatkan sekresi mukus yang tidak normal atau berlebihan.
-Pakej Bukti ini tidak mengandungi hasil ramalan model TxGNN — tiada sasaran indikasi baru telah dikenal pasti untuk penilaian pada masa ini.
-Penilaian keseluruhan sedang **Ditangguhkan**, menunggu penyelesaian saluran ramalan dan penambahan jurang data kritikal.
+Ambroxol HCl ialah agen mukolitik/sekretolitik yang membantu pembersihan mukus saluran pernafasan. Model TxGNN meramalkan ia mungkin berguna untuk **penyakit rongga hidung (nasal cavity disease)**. Setakat ini terdapat **0 ujian klinikal** dan **1 penerbitan** yang berkaitan secara tidak langsung, dan tiada satu pun mengkaji penyakit rongga hidung secara khusus.
 
 ---
 
-## Ikhtisar Pantas
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
-|--------|----------|
-| Indikasi Asal | Penyakit saluran pernafasan dengan mukus yang berlebihan atau likat (cth., bronkitis, COPD) |
-| Indikasi Baru yang Diramalkan | Tidak tersedia — ramalan TxGNN belum dilakukan |
-| Skor Ramalan TxGNN | Tidak tersedia |
-| Tahap Bukti | L5 (tiada kajian sebenar boleh dipulihkan; ramalan model tidak hadir) |
+|------|------|
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Penyakit rongga hidung (nasal cavity disease) |
+| Skor Ramalan TxGNN | 0.9991 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
-| Keputusan yang Disyorkan | **Ditangguhkan** |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Tiada hasil ramalan TxGNN disertakan dalam Pakej Bukti ini (`predicted_indications` kosong). Justifikasi mekanistik untuk sebarang indikasi baru khusus tidak dapat disediakan pada peringkat ini.
+Data terperinci tentang mekanisme tindakan belum tersedia. Berdasarkan maklumat sedia ada, ambroxol ialah agen mukolitik/sekretolitik yang meningkatkan pembersihan mukosiliari. Ia juga dilaporkan mempunyai kesan anestetik tempatan ringan (penyekatan saluran natrium) dan sifat anti-radang. Secara teori, ciri-ciri ini boleh meredakan lebihan rembesan mukus dan kerengsaan saluran pernafasan atas, jadi ia mungkin berkaitan dengan penyakit rongga hidung.
 
-Untuk konteks latar belakang: ambroxol HCl ialah metabolit aktif bromhexine (bromheksina). Ia berfungsi dengan merangsang sintesis surfaktan dalam pneumosit Jenis II, mempromosikan sekresi serus dalam kelenjar bronkial, dan meningkatkan pembersihan mukosilier — mekanisme yang telah dicirikan dengan baik dalam pengurusan penyakit saluran pernafasan obstruktif dan inflamasi.
-
-Melampaui peranan mukoitik klasikalnya, literatur yang diterbitkan telah menyiasat ambroxol sebagai **pendamping farmakologi untuk glucocerebrosidase (GBA1)**, menimbulkan minat dalam gangguan penyimpanan lisosomal dan penyakit Parkinson pada pembawa mutasi GBA1. Terdapat juga bukti praklinikal mencadangkan sifat anestesi tempatan dan anti-inflamasi. Arahan ini mewakili hipotesis penggunaan semula yang munasabah, tetapi tidak dapat dinilai secara formal di sini tanpa skor TxGNN dan pakej bukti berstruktur.
+Namun, satu-satunya rekod berkaitan ialah artikel ulasan 2015 tentang rawatan batuk akut. Artikel itu membincangkan gejala pernafasan secara umum, bukan penyakit rongga hidung. Pautan ini oleh itu tidak langsung. Skor TxGNN yang sangat tinggi ialah ramalan pengiraan dan bukan pengesahan klinikal.
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan tersedia dalam Pakej Bukti ini.
+Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan tersedia dalam Pakej Bukti ini.
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+|------|-----|------|------|---------|
+| [26525480](https://pubmed.ncbi.nlm.nih.gov/26525480/) | 2015 | Ulasan | Vestnik otorinolaringologii | Membincangkan kemungkinan rawatan baharu untuk batuk akut yang berkaitan dengan influenza dan jangkitan virus pernafasan akut. Tidak mengkaji penyakit rongga hidung secara langsung. |
 
 ---
 
-## Maklumat Pasaran Malaysia
-
-Satu pendaftaran direkodkan dalam pangkalan data Malaysia (NPRA); bagaimanapun, rekod kebenaran terperinci tidak diperoleh dalam Pakej Bukti ini.
+## Maklumat Pasaran di Malaysia
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|-----------------|------------|-----------|----------------------|
-| — | — | — | Butiran tidak diperoleh |
+|---------|------|------|-----------|
+| MAL12050010X | MUCERA Syrup 15mg/5ml | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+Sila rujuk sisipan pek untuk maklumat keselamatan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Ditangguhkan**
+**Keputusan: Tahan**
 
-**Rasional:**
-Pakej Bukti ini tidak mengandungi hasil ramalan TxGNN dan tiada bukti klinikal, menjadikannya mustahil untuk mengenal pasti atau menilai sasaran penggunaan semula. Penilaian tidak dapat diteruskan sehingga saluran ramalan diselesaikan dan jurang data wajib diselesaikan.
+**Justifikasi:**
+Tiada ujian klinikal atau kajian yang mengkaji penyakit rongga hidung secara langsung, jadi tahap bukti ialah L5 dan ramalan ini baru pada peringkat soalan penyelidikan. Skor model yang tinggi sahaja tidak mencukupi untuk meneruskan.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-
-- **Jalankan saluran ramalan TxGNN** untuk Ambroxol HCl untuk menjana calon penggunaan semula yang berpangkat
-- **Ambil butiran pendaftaran NPRA** (nombor lesen, nama produk, bentuk dos, teks indikasi yang diluluskan) — rekod semasa mengandungi medan kosong walaupun merekodkan 1 lesen
-- **Dapatkan ID DrugBank dan MOA** — ID DrugBank adalah null; pertanyaan API DrugBank ialah pemulihan yang disyorkan
-- **Muat turun dan urai PDF sisipan pakej** dari portal NPRA Malaysia untuk mengisi amaran keselamatan dan kontraindikasi (pada masa ini menghalang saringan keselamatan selanjutnya)
-- **Jalankan semula pengumpulan bukti** (ClinicalTrials.gov, PubMed) apabila indikasi sasaran disahkan dari output ramalan
-
-> ⚠️ *Laporan ini hanya untuk rujukan penyelidikan dan tidak merupakan nasihat perubatan. Semua calon penggunaan semula memerlukan pengesahan klinikal sebelum sebarang aplikasi.*
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Kajian klinikal atau literatur yang menilai ambroxol secara langsung pada penyakit rongga hidung
+- Data mekanisme tindakan yang terperinci
+- Amaran, kontraindikasi dan maklumat interaksi ubat daripada sisipan pek yang diluluskan
+- Pengesahan bentuk dos dan laluan pemberian yang sesuai untuk indikasi ini
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

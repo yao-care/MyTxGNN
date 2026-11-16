@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Benzydamine Hydrochloride
 parent: Low Evidence (L4-L5)
 nav_order: 137
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-10-30
-predicted_indications: []
+indication_count: 1
+drugbank_id: DB09084
+monitor_inn: "Benzydamine"
+predicted_indications: ["benign prostatic hyperplasia (disease)"]
+last_modified_at: 2026-11-16
+description: "Benzydamine Hydrochloride: indikasi baharu diramal Benign prostatic hyperplasia (disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Benzydamine Hydrochloride
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **0** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,69 +34,72 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-## Benzydamine Hydrochloride: Penilaian Penggunaan Semula Ubat
+## Benzydamine Hydrochloride: Benign prostatic hyperplasia (disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Benzydamine hydrochloride adalah ubat anti-radang bukan steroid (NSAID) yang bertindak setempat dengan sifat analgesik dan anestesia tempatan, yang biasanya digunakan untuk keadaan radang mulut dan tekak.
-Pada masa ini, model TxGNN **tidak telah menghasilkan sebarang petunjuk petunjuk baru** untuk ubat ini, dan jurang data penting kekal dalam mekanisme tindakan, profil keselamatan, dan butiran kawal selia.
+Benzydamine hydrochloride ialah agen anti-radang, analgesik dan anestetik tempatan yang digunakan terutamanya dalam bentuk topikal atau mukosa (cecair kumur, semburan tekak, lozenj).
+Model TxGNN meramalkan ia mungkin berkesan untuk **Hiperplasia Prostat Benigna (benign prostatic hyperplasia)**,
+tetapi pada masa ini **tiada kajian klinikal** dan **tiada penerbitan** dalam data yang dikumpulkan menyokong arah ini.
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
-| Petunjuk Asal | Tidak tersedia (data pendaftaran tidak lengkap) |
-| Petunjuk Baru Yang Diramalkan | Tiada (tiada ramalan TxGNN tersedia) |
-| Skor Ramalan TxGNN | N/A |
-| Tahap Bukti | L5 — Tiada ramalan atau kajian sokongan |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Benign prostatic hyperplasia (disease) |
+| Skor Ramalan TxGNN | 0.9926 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 20 daripada 20) |
 | Bilangan Pendaftaran | 20 (sah: 20) |
-| Keputusan Disyorkan | **Tahan** |
+| Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dari pak bukti. Berdasarkan maklumat yang diketahui umum, benzydamine hydrochloride adalah NSAID yang bertindak setempat daripada kelas indazole. Ia menunjukkan aktiviti anti-radang, analgesik, dan anestesia tempatan, dan digunakan terutamanya secara topikal untuk keadaan seperti faringitis, stomatitis, dan keadaan radang lain rongga orofaring.
+Data mekanisme tindakan terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, benzydamine ialah agen tempatan seakan-NSAID dengan sifat anti-radang, analgesik dan anestetik tempatan. Ia dipercayai bertindak melalui perencatan penghasilan sitokin pro-radang (contohnya TNF-alfa dan IL-1beta) serta kesan penstabilan membran, dan bukannya perencatan COX klasik.
 
-Kerana model TxGNN belum menghasilkan sebarang petunjuk baru yang diramalkan untuk benzydamine hydrochloride, penilaian kebolehmungkinan mekanistik tidak boleh dilakukan pada masa ini. Ketiadaan ramalan mungkin disebabkan oleh mekanisme tindakan ubat yang predominan setempat (bukan sistemik), perwakilan terhad dalam graf pengetahuan, atau data pemetaan yang tidak mencukupi (ID DrugBank tidak diselesaikan dalam pak bukti).
+Satu rasional yang munasabah tetapi belum disahkan ialah radang kronik prostat dikaitkan dengan perkembangan hiperplasia prostat benigna (BPH). Justeru, ubat yang mengurangkan radang secara teori boleh melegakan gejala saluran kencing bawah yang berkaitan dengan radang.
 
-Sebelum sebarang penilaian penggunaan semula boleh diteruskan, pemetaan DrugBank mesti diselesaikan, mekanisme tindakan disahkan, dan saluran ramalan TxGNN dilaksanakan semula dengan input yang betul.
+Namun, skor ramalan yang tinggi hanyalah inferens berasaskan rangkaian dan bukan bukti klinikal. Benzydamine digunakan terutamanya sebagai agen topikal atau mukosa, dan tiada data mengenai pendedahan sistemik atau penembusan ke tisu prostat. Kebolehlaksanaan farmakokinetik dan keterlibatan sasaran dalam prostat belum dibuktikan.
 
-## Bukti Uji Klinik
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinik berkaitan yang didaftarkan (tiada petunjuk yang diramalkan untuk dinilai).
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
-## Bukti Kesusasteraan
+## Bukti Literatur
 
-Pada masa ini tiada kesusasteraan berkaitan yang tersedia (tiada petunjuk yang diramalkan untuk dinilai).
+Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk Diluluskan |
-|------|------|------|------|
-| *(Data ditangguhkan)* | *(Data ditangguhkan)* | *(Data ditangguhkan)* | *(Data ditangguhkan)* |
+Berdasarkan data yang dikumpulkan, terdapat 20 lesen, dengan 13 produk bahan tunggal dan 7 produk kombinasi; kesemuanya berstatus sah. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Hanya produk bahan tunggal disenaraikan di bawah (sehingga 5 yang utama).
 
-> **Nota:** 20 pendaftaran telah dikenalpasti melalui pertanyaan NPRA, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan petunjuk yang diluluskan) tidak diisi dalam pak bukti. Data ini perlu diambil daripada pangkalan data NPRA.
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL22076021ACZ | MediThroat Spray 3.0 mg/ml | Tidak direkodkan | Tidak direkodkan |
+| MAL20172944AEZ | Cifflam Lozenges | Tidak direkodkan | Tidak direkodkan |
+| MAL22096027AZ | Zipelor Forte Benzydamine 0.3% w/v oromucosal spray | Tidak direkodkan | Tidak direkodkan |
+| MAL12115061ACZ | Difflam Solution 0.15% W/V | Tidak direkodkan | Tidak direkodkan |
+| MAL18016029AZ | Easiflam Mouthwash 0.15% w/v | Tidak direkodkan | Tidak direkodkan |
 
 ## Pertimbangan Keselamatan
 
-> Sila rujuk sisipan pakej untuk maklumat keselamatan. Data amaran utama, kontraindikasi, dan interaksi ubat tidak tersedia dalam pak bukti semasa dan mesti diambil daripada pangkalan data NPRA atau PDF sisipan pakej.
+Sila rujuk risalah maklumat produk untuk maklumat keselamatan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Rasional:**
-Pak bukti mengandungi jurang data yang penting — tiada pemetaan ID DrugBank, tiada data mekanisme tindakan, tiada petunjuk yang diramalkan daripada TxGNN, dan tiada butiran kawal selia yang diisi. Tanpa petunjuk baru yang diramalkan, penilaian penggunaan semula tidak boleh diteruskan.
+Ramalan ini hanya disokong oleh model TxGNN (tahap bukti L5) tanpa sebarang ujian klinikal atau literatur yang mengkaji penyakit ini secara langsung. Selain itu, produk tempatan ialah formulasi topikal/mukosa dan kebolehlaksanaan pendedahan di tisu prostat belum dibuktikan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- **Selesaikan pemetaan DrugBank**: Pertanyakan DrugBank untuk "Benzydamine" (DB09084) dan sahkan pautan ubat-ID
-- **Ambil mekanisme tindakan (MOA)**: Dapatkan data farmakologi daripada DrugBank atau sisipan pakej
-- **Isi butiran pendaftaran NPRA**: Ekstrak nombor kebenaran, nama produk, bentuk dos, dan petunjuk yang diluluskan untuk 20 lesen yang dikenalpasti
-- **Ambil data keselamatan**: Muat turun dan analisis PDF sisipan pakej untuk amaran utama, kontraindikasi, dan interaksi ubat
-- **Jalankan semula saluran ramalan TxGNN**: Dengan ID DrugBank yang betul dan data input lengkap, laksanakan semula model ramalan graf pengetahuan dan pembelajaran mendalam
-- **Janakan semula pak bukti**: Setelah ramalan tersedia, kumpulkan bukti ujian klinik dan kesusasteraan sokongan
-
+- Data mekanisme tindakan (MOA) yang lengkap
+- Maklumat amaran dan kontraindikasi daripada risalah maklumat produk NPRA
+- Kajian praklinikal atau klinikal yang mengkaji benzydamine secara langsung dalam BPH
+- Data farmakokinetik mengenai pendedahan sistemik dan penembusan ke tisu prostat
+- Penilaian keserasian laluan pemberian, memandangkan produk sedia ada ialah bentuk topikal/mukosa
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

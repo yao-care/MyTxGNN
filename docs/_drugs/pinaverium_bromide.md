@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Pinaverium Bromide
 parent: Low Evidence (L4-L5)
-nav_order: 574
+nav_order: 573
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-10-30
-predicted_indications: []
+indication_count: 1
+drugbank_id: DB09090
+monitor_inn: "Pinaverium"
+predicted_indications: ["benign prostatic hyperplasia (disease)"]
+last_modified_at: 2026-11-16
+description: "Pinaverium Bromide: indikasi baharu diramal Benign prostatic hyperplasia (disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Pinaverium Bromide
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **0** 
+Tahap bukti: **L5** | Indikasi diramal: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,67 +34,84 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-## Bromida Pinaverium: Penilaian Repurposing Ubat — Penyelesaian Data Tertunda
+## Pinaverium Bromide: Benign prostatic hyperplasia (disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Bromida pinaverium adalah agen antispasmodium selektif kalsium yang terutamanya ditunjukkan untuk gangguan gastrointestinal berfungsi, termasuk sindrom usus besar yang mudah terangsang (IBS).
-Saluran paip repurposing TxGNN **tidak dapat menghasilkan petunjukan baru yang diramal** untuk ubat ini, kerana dua jurang data hulu yang kritikal — DrugBank ID yang hilang dan mekanisme tindakan (MOA) — menghalang perjalanan graf pengetahuan.
-Laporan ini mendokumentasikan status penilaian semasa dan langkah pemulihan khusus yang diperlukan sebelum penilaian repurposing penuh dapat diteruskan.
+Pinaverium bromide ialah antispasmodik yang bertindak pada otot licin saluran gastrousus sebagai penyekat saluran kalsium jenis-L.
+Model TxGNN meramalkan ia mungkin berkesan untuk **Hiperplasia Prostat Benigna (benign prostatic hyperplasia)**.
+Namun, **tiada ujian klinikal** dan **tiada penerbitan** dalam data yang dikumpulkan untuk laporan ini menyokong ramalan tersebut; ia kekal sebagai ramalan model sahaja.
 
 ---
 
-## Gambaran Keseluruhan Pantas
+## Gambaran Keseluruhan
 
-| Item | Kandungan |
-|------|-----------|
-| Petunjukan Asal | Gangguan gastrointestinal berfungsi / IBS (pengetahuan farmakologi umum; tidak disahkan dalam Pakej Bukti semasa) |
-| Petunjukan Baru yang Diramal | Tiada ramalan tersedia — saluran paip tidak lengkap |
-| Skor Ramalan TxGNN | Tiada |
-| Tahap Bukti | Tidak boleh dinilai |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Benign prostatic hyperplasia (disease) |
+| Skor Ramalan TxGNN | 0.9922 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
-| Keputusan Disyorkan | **Tahan** |
+| Keputusan Disyorkan | Hold (Tahan) |
+
+---
+
+## Mengapa Ramalan Ini Munasabah?
+
+Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan. Berdasarkan farmakologi yang diketahui, pinaverium bromide ialah penyekat saluran kalsium jenis-L yang selektif pada saluran gastrousus, menghalang kemasukan kalsium ke dalam sel otot licin.
+
+Stroma prostat, leher pundi kencing dan otot detrusor mengandungi otot licin, dan pengecutan bergantung kalsium dipercayai menyumbang kepada gejala saluran kkencing bawah (LUTS) dalam hiperplasia prostat benigna. Secara teori, merehatkan otot licin ini boleh mengurangkan LUTS.
+
+Namun, terdapat beberapa kekangan penting:
+- Tiada bukti klinikal atau penerbitan dalam data yang tersedia menyokong hubungan ini.
+- Pinaverium diserap dengan buruk secara sistemik (bioavailabiliti <10%) dan bertindak terutamanya secara setempat dalam usus, jadi tidak pasti sama ada kepekatan yang mencukupi dapat dicapai dalam tisu prostat atau pundi kencing.
+- Skor TxGNN yang sangat tinggi (0,9922) ialah ramalan pengiraan sahaja dan mungkin mencerminkan kedekatan rangkaian dengan modulator kalsium atau pelemas otot licin lain, bukan mekanisme yang disahkan.
+- Kelas ubat BPH piawai (penyekat alfa-1, perencat 5-alfa reduktase, perencat PDE5) bertindak melalui laluan yang lebih jelas dicirikan.
+
+---
+
+## Bukti Ujian Klinikal
+
+Pada masa ini tiada ujian klinikal berdaftar yang berkaitan.
+
+---
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Pertanyaan NPRA (2026-03-27) mengesahkan **2 pendaftaran aktif** di Malaysia. Walau bagaimanapun, medan lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan petunjukan yang diluluskan) tidak diisi dalam ekstrak data semasa dan memerlukan pengambilan susulan.
-
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjukan yang Diluluskan |
-|---------------------|-------------|-------------|---------------------|
-| — | — | — | Tidak tersedia dalam ekstrak semasa |
-| — | — | — | Tidak tersedia dalam ekstrak semasa |
-
-> Untuk mendapatkan butiran lesen penuh, soal pangkalan data Pendaftaran Produk NPRA terus menggunakan istilah pencarian "PINAVERIUM BROMIDE".
+| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+|---------|------|------|-----------|
+| MAL12045092ACZ | Dicetel 50mg Film-Coated Tablet | Tablet bersalut filem | Tidak direkodkan dalam data tempatan |
+| MAL20122215ACZ | DICETEL 100MG FILM-COATED TABLET | Tablet bersalut filem | Tidak direkodkan dalam data tempatan |
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
-
-> Tiada interaksi ubat-ubat yang dikenal pasti (status pertanyaan DDI: tidak ditemui, 0 interaksi). Amaran utama dan kontraindikasi kini tidak tersedia tertunggak pengambilan sisipan pakej (Jurang Data DG001 — Keterukan Menyekat).
+Sila rujuk sisipan pembungkusan untuk maklumat keselamatan. Tiada interaksi ubat dijumpai dalam data yang dikumpulkan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
-**Alasan:**
-Saluran paip ramalan graf pengetahuan TxGNN memerlukan DrugBank ID yang sah untuk memetakan Bromida Pinaverium ke atas graf pengetahuan ubat-penyakit. Tanpa pemetaan ini, tiada calon repurposing boleh dimarkahkan atau disusun, menjadikan penilaian bukti yang bermakna mustahil pada tahap ini.
+**Justifikasi:**
+Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau penerbitan yang mengkaji hiperplasia prostat benigna secara langsung. Penyerapan sistemik yang rendah juga menimbulkan keraguan sama ada ubat mencapai tisu sasaran.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-
-- **[DG001 — Menyekat]** Ambil sisipan pakej yang diluluskan Malaysia daripada NPRA atau label produk Dicetel® untuk mengeluarkan petunjukan yang diluluskan, amaran utama, dan kontraindikasi; ini diperlukan sebelum praskrining keselamatan (Peringkat S1) boleh dimulai
-- **[DG002 — Tinggi]** Dapatkan DrugBank ID dan perihalan MOA penuh — cari DrugBank untuk "pinaverium" (kemasukan jangkaan: DB06716) — untuk membolehkan perjalanan graf pengetahuan dan menghasilkan calon repurposing TxGNN
-- **Jalankan semula saluran paip TxGNN** selepas menyelesaikan DG001 dan DG002; keluaran yang dijangkakan termasuk kedudukan calon repurposing, bukti percubaan klinikal sokongan, dan petikan kesusasteraan
-- **Isi butiran lesen NPRA** (nombor kebenaran, nama produk, bentuk dos, petunjukan yang diluluskan) daripada portal pendaftaran NPRA untuk menyelesaikan bahagian kawal selia Malaysia
-- **Sahkan status pasaran dan skop petunjukan** melalui rekod NPRA rasmi untuk mengesahkan sama ada kelulusan Malaysia semasa sudah meliputi mana-mana petunjukan baru yang diramal (yang akan memudahkan laluan kawal selia)
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Maklumat amaran dan kontraindikasi daripada sisipan pembungkusan NPRA (jurang data yang menghalang saringan keselamatan)
+- Data mekanisme tindakan yang disahkan
+- Kajian praklinikal atau farmakokinetik tentang pendedahan tisu prostat dan pundi kencing
+- Bukti klinikal atau literatur yang mengkaji pinaverium secara langsung dalam BPH/LUTS
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
