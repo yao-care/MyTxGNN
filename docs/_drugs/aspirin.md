@@ -8,8 +8,8 @@ indication_count: 7
 drugbank_id: DB00945
 monitor_inn: "Acetylsalicylic acid"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombophilia"]
-last_modified_at: 2026-11-16
-description: "Aspirin: indikasi baharu diramal Atrophoderma vermiculata (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+last_modified_at: 2026-11-17
+description: "Aspirin: indikasi baharu diramal Atrofoderma vermikulata (atrophoderma vermiculata) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Aspirin
@@ -34,87 +34,60 @@ Tahap bukti: **L5** | Indikasi diramal: **7**
 
 </div>
 
-## Aspirin: Atrophoderma vermiculata
+## Aspirin: Atrofoderma vermikulata (atrophoderma vermiculata)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Aspirin ialah ubat antiplatelet dan anti-radang yang memerencat enzim siklooksigenase (COX). Indikasi yang diluluskan tidak direkodkan dalam data tempatan yang dikumpulkan untuk laporan ini. Model TxGNN meramalkan aspirin mungkin berkesan untuk **Migrain dengan aura batang otak (migraine with brainstem aura)**. Sokongan buat masa ini hanya terdiri daripada **0 ujian klinikal** dan **kira-kira 10 penerbitan berkaitan migrain secara umum**. Tiada kajian yang meneliti subjenis aura batang otak secara langsung.
-
----
+Aspirin ialah ubat daripada kelas perencat siklooksigenase (COX) yang digunakan sebagai antiplatelet dan anti-radang. Data tempatan yang dikumpulkan untuk laporan ini tidak merekodkan teks indikasi yang diluluskan.
+Model TxGNN meramalkan ubat ini mungkin berkesan untuk **atrofoderma vermikulata (atrophoderma vermiculata)**, tetapi **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong arah ini setakat ini.
 
 ## Gambaran Keseluruhan
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Atrophoderma vermiculata |
+| Indikasi Baharu yang Diramalkan | Atrofoderma vermikulata (atrophoderma vermiculata) |
 | Skor Ramalan TxGNN | 0.9959 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 20 daripada 22; status tidak dapat disahkan: 1) |
 | Bilangan Pendaftaran | 22 (sah: 20; status tidak dapat disahkan: 1) |
-| Keputusan Disyorkan | Hold |
-
----
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan aspirin tidak terdapat dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, aspirin merencat COX-1 secara tidak boleh balik, sekali gus mengurangkan pengeluaran tromboksan A2 dan pengagregatan platelet. Ia juga mengurangkan sintesis prostaglandin yang berkaitan dengan keradangan dan kesakitan.
+Data terperinci tentang mekanisme tindakan tidak tersedia pada masa ini. Secara umum, aspirin merencat COX-1 platelet secara tidak boleh balik, lalu mengurangkan thromboxane A2 dan pengagregatan platelet. Ia juga mempunyai kesan anti-radang melalui perencatan prostaglandin.
 
-Terdapat dua jalur yang mungkin menghubungkan aspirin dengan migrain beraura. Pertama, kesan antiplatelet boleh mengurangkan pengagregatan platelet serta peristiwa mikroembolik atau vasoreaktif yang dikaitkan dengan aura. Kedua, kesusasteraan ada membangkitkan kemungkinan hubungan dengan patent foramen ovale (PFO) melalui embolisme paradoks. Kajian retrospektif 2014 mencadangkan kemungkinan manfaat pencegahan pada migrain beraura. Ulasan sistematik 2025 tentang ubat antitrombotik pula hanya memberi sokongan terhad dan tidak seragam.
-
-Namun, semua bukti yang ada adalah untuk migrain beraura secara umum. Tiada bukti khusus untuk subjenis aura batang otak, jadi keberkesanan pada subjenis ini masih satu andaian.
-
----
+Atrofoderma vermikulata ialah gangguan atrofi folikular yang jarang berlaku. Berdasarkan data yang ada, tiada hubungan mekanisme yang jelas antara perencatan COX-1 atau aktiviti anti-radang aspirin dengan penyakit ini. Skor tinggi 0.9959 ialah ramalan model sahaja dan tidak disokong oleh bukti klinikal atau penerbitan. Ramalan ini mungkin mencerminkan kedekatan rangkaian dengan penyakit kulit genetik jarang yang lain, bukan rasional mekanisme yang sebenar. Ia perlu dianggap sebagai hipotesis penyelidikan sahaja.
 
 ## Bukti Ujian Klinikal
 
-Setakat ini tiada ujian klinikal berkaitan yang didaftarkan untuk indikasi yang diramalkan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
----
+## Bukti Literatur
 
-## Bukti Kesusasteraan
+Pada masa ini tiada literatur berkaitan.
 
-| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
-|------|-----|------|------|---------|
-| [10448545](https://pubmed.ncbi.nlm.nih.gov/10448545/) | 1999 | RCT | Cephalalgia | Percubaan dua buta, rawak, berbilang pusat (278 pesakit) membandingkan aspirin lisinat intravena, sumatriptan subkutaneus dan plasebo dalam rawatan akut serangan migrain dengan atau tanpa aura |
-| [39989443](https://pubmed.ncbi.nlm.nih.gov/39989443/) | 2025 | Ulasan sistematik | Headache | Menilai peranan ubat antitrombotik dalam pencegahan migrain; sokongan terhad dan tidak seragam |
-| [25729594](https://pubmed.ncbi.nlm.nih.gov/25729594/) | 2014 | Kajian kohort retrospektif | Current Health Sciences Journal | Kajian ke atas 203 pesakit migrain beraura; 95 pesakit menerima aspirin dos rendah sebagai profilaksis. Mencadangkan kemungkinan manfaat pencegahan |
-| [16796580](https://pubmed.ncbi.nlm.nih.gov/16796580/) | 2006 | Garis panduan | European Journal of Neurology | Garis panduan EFNS tentang rawatan ubat migrain, termasuk migrain dengan dan tanpa aura |
-| [19708964](https://pubmed.ncbi.nlm.nih.gov/19708964/) | 2009 | Garis panduan | European Journal of Neurology | Semakan semula garis panduan EFNS tentang rawatan ubat migrain |
-| [9606899](https://pubmed.ncbi.nlm.nih.gov/9606899/) | 1998 | Laporan klinikal | Zhurnal Nevrologii i Psikhiatrii | Terapi pencegahan dengan aspirin (1000, 500 dan 100 mg) pada 105 pesakit migrain tanpa aura; membincangkan peramal dan kontraindikasi |
-| [15265054](https://pubmed.ncbi.nlm.nih.gov/15265054/) | 2004 | Kajian mekanisme (dua buta, silang) | Cephalalgia | Membandingkan kesan aspirin intravena dan zolmitriptan oral pada pemprosesan kesakitan trigeminal menggunakan refleks kerdip nosiseptif |
-| [1589237](https://pubmed.ncbi.nlm.nih.gov/1589237/) | 1992 | Kajian mekanisme (rawak, dua buta, silang) | Pain | Menilai kesan aspirin pada refleks antinosiseptif batang otak pada pesakit migrain tanpa aura, pesakit sakit kepala jenis tegang dan individu sihat |
-| [16362645](https://pubmed.ncbi.nlm.nih.gov/16362645/) | 2005 | Kohort/pemerhatian | Journal of Headache and Pain | Kelaziman PFO yang tinggi pada pesakit migrain beraura, menyokong hipotesis jalur embolisme paradoks |
-| [26908949](https://pubmed.ncbi.nlm.nih.gov/26908949/) | 2016 | RCT | European Heart Journal | Percubaan PRIMA tentang penutupan PFO melalui kulit pada migrain beraura yang tidak bertindak balas terhadap rawatan ubat; tidak menguji aspirin secara langsung |
+## Maklumat Pasaran Malaysia
 
----
-
-## Maklumat Pasaran di Malaysia
-
-Aspirin dipasarkan di Malaysia dan mempunyai lesen yang sah. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan yang dikumpulkan untuk laporan ini. Senarai lesen terperinci dijana oleh sistem tapak dan tidak diulang di sini.
-
----
+Aspirin dipasarkan di Malaysia, dan terdapat beberapa lesen yang sah, termasuk produk bahan tunggal dan produk kombinasi. Lesen kombinasi tidak boleh digunakan untuk menggambarkan status kelulusan aspirin sebagai bahan tunggal. Senarai lesen terperinci dijana oleh program. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pek untuk maklumat keselamatan.
-
----
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-- Tiada ujian klinikal didaftarkan, dan kesusasteraan yang ada hanya merangkumi migrain beraura secara umum, bukan subjenis aura batang otak. Oleh itu tahap bukti kekal pada L5.
-- Mekanisme antiplatelet munasabah, tetapi sokongan klinikal masih terhad dan tidak seragam.
+Ramalan ini tiada sokongan ujian klinikal atau literatur untuk atrofoderma vermikulata, dan tiada hubungan mekanisme yang munasabah dengan tindakan aspirin. Tahap bukti ialah L5, jadi ramalan ini tidak wajar diteruskan setakat ini.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-- Kajian klinikal atau siri kes yang meneliti aspirin secara khusus pada migrain dengan aura batang otak.
-- Percubaan terkawal rawak untuk keberkesanan pencegahan aspirin pada migrain beraura, dengan analisis subjenis.
-- Data mekanisme tindakan terperinci (MOA) daripada sumber rujukan ubat.
-- Amaran, kontraindikasi dan maklumat interaksi ubat daripada sisipan pek yang diluluskan, sebelum penilaian keselamatan dilakukan.
+**Untuk meneruskan, perlu:**
+- Bukti langsung (kajian klinikal atau prakllinikal) yang mengkaji aspirin dalam atrofoderma vermikulata
+- Data mekanisme tindakan (MOA) yang lengkap serta analisis hubungan mekanisme dengan patofisiologi penyakit
+- Amaran dan kontraindikasi daripada sisipan pakej NPRA untuk saringan keselamatan
+- Penilaian kesesuaian laluan pentadbiran, kerana penyakit ini ialah gangguan kulit
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

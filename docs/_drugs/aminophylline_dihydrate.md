@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01223
 monitor_inn: "Aminophylline"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Aminophylline Dihydrate: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -39,15 +39,13 @@ Tahap bukti: **L4** | Indikasi diramal: **9**
 
 ## Ringkasan Satu Ayat
 
-Aminofilin dihidrat ialah sebatian metilxantin yang bertindak sebagai antagonis reseptor adenosin tidak selektif dan perencat fosfodiesterase.
-Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan migrain (migraine disorder)**.
-Buat masa ini terdapat **0 ujian klinikal** dan **4 penerbitan** yang menyokong arah ini, dan hanya satu daripadanya ialah kajian semula khusus tentang aminofilin dalam migrain.
+Aminofilin dihidrat ialah ubat kumpulan metilxantin yang bertindak sebagai antagonis reseptor adenosin dan perencat fosfodiesterase. Model TxGNN meramalkan ia mungkin berguna untuk **gangguan migrain (migraine disorder)**. Setakat ini tiada percubaan klinikal berdaftar, dan hanya **4 penerbitan** yang dikumpulkan, termasuk satu ulasan 2023 yang membincangkan aminofilin dalam kesakitan dan migrain. Bukti masih peringkat awal.
 
 ---
 
-## Gambaran Keseluruhan
+## Gambaran Pantas
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder) |
@@ -55,67 +53,61 @@ Buat masa ini terdapat **0 ujian klinikal** dan **4 penerbitan** yang menyokong 
 | Tahap Bukti | L4 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
-| Keputusan Disyorkan | Tahan |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, aminofilin ialah antagonis reseptor adenosin tidak selektif dan perencat fosfodiesterase. Isyarat adenosin dikaitkan dengan pengaktifan trigeminovaskular dan modulasi kesakitan.
+Data terperinci mengenai mekanisme tindakan ubat ini tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Indikasi yang diluluskan juga tidak direkodkan dalam data tempatan. Berdasarkan farmakologi am, aminofilin ialah antagonis reseptor adenosin bukan selektif dan perencat fosfodiesterase.
 
-Kajian semula 2023 bertajuk *Aminophylline in pain and migraine* mencadangkan bahawa migrain mungkin didorong oleh metabolisme tenaga otak yang terjejas dengan paras adenosin yang tinggi secara patologi. Kajian itu juga melaporkan bahawa aminofilin, sebagai antagonis reseptor adenosin, mungkin memberi kelegaan terapeutik pada kesakitan, terutamanya sakit kepala selepas pungsi dura.
+Isyarat adenosin dikaitkan dengan pelebaran saluran darah serebral dan nosisepsi trigeminovaskular, dua proses yang berkait dengan sakit kepala migrain. Menyekat adenosin secara teori boleh memodulasi kesakitan dan migrain.
 
-Laporan kes yang berkaitan menyokong hipotesis ini secara tidak langsung. Satu episod migrain hemiplegik dicetuskan oleh regadenoson, iaitu agonis reseptor adenosin A2A. Satu kes lain menghubungkan kesan adenosin berlebihan dengan "migrain miokardium". Jika agonis adenosin boleh mencetuskan peristiwa seperti migrain, antagonisme adenosin adalah konsep terapeutik yang munasabah.
-
-Namun, ini masih hipotesis mekanistik. Tiada ujian klinikal berdaftar, dan bukti sedia ada terdiri daripada kajian semula serta laporan kes.
+Ulasan 2023 (PMID 38059379) mencadangkan migrain mungkin didorong oleh metabolisme tenaga otak yang terjejas dan paras adenosin yang tinggi secara patologi. Ulasan itu menyatakan aminofilin boleh memberi kelegaan terapeutik dalam kesakitan, terutamanya sakit kepala pasca-dural. Satu laporan kes migrain hemiplegik yang dicetuskan oleh regadenoson, agonis reseptor adenosin A2A (PMID 34308528), turut menyokong penglibatan adenosin dalam patofisiologi migrain. Namun, sebahagian besar literatur lain bersifat sejarah atau berbentuk laporan kes, jadi ramalan ini lebih sesuai dianggap hipotesis untuk dikaji.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-Buat masa ini tiada ujian klinikal berkaitan didaftarkan untuk gangguan migrain.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [38059379](https://pubmed.ncbi.nlm.nih.gov/38059379/) | 2023 | Kajian semula | Pain Management | Migrain mungkin didorong oleh metabolisme tenaga otak yang terjejas dan paras adenosin yang tinggi. Aminofilin, antagonis reseptor adenosin, dilaporkan memberi kelegaan terapeutik pada kesakitan, terutamanya sakit kepala selepas pungsi dura. Satu siri kes pemerhatian terdahulu turut dirujuk. |
-| [34308528](https://pubmed.ncbi.nlm.nih.gov/34308528/) | 2022 | Laporan kes | Journal of Nuclear Cardiology | Episod migrain hemiplegik dicetuskan oleh regadenoson (agonis adenosin A2A). Metilxantin seperti aminofilin digunakan untuk membalikkan kesan advers regadenoson. |
-| [7728647](https://pubmed.ncbi.nlm.nih.gov/7728647/) | 1995 | Laporan kes | Canadian Journal of Cardiology | Pesakit sindrom X dengan kesan adenosin berlebihan ("migrain miokardium" tanpa iskemia miokardium), yang menghubungkan isyarat adenosin dengan keadaan seperti migrain. |
-| [14168418](https://pubmed.ncbi.nlm.nih.gov/14168418/) | 1964 | Kajian semula | Aggiornamenti Clinicoterapeutici | Kajian semula lama tentang sakit kepala perubatan. Tiada abstrak, jadi kandungan terperinci tidak dapat disemak. |
+| [38059379](https://pubmed.ncbi.nlm.nih.gov/38059379/) | 2023 | Ulasan | Pain Management | Membincangkan migrain sebagai kemungkinan akibat metabolisme tenaga otak terjejas dan adenosin tinggi. Aminofilin, antagonis adenosin, dilaporkan memberi kelegaan dalam kesakitan, terutamanya sakit kepala pasca-dural. |
+| [34308528](https://pubmed.ncbi.nlm.nih.gov/34308528/) | 2022 | Laporan kes | Journal of Nuclear Cardiology | Episod migrain hemiplegik dicetuskan oleh regadenoson (agonis adenosin A2A), menyokong penglibatan adenosin dalam migrain. |
+| [7728647](https://pubmed.ncbi.nlm.nih.gov/7728647/) | 1995 | Laporan kes | Canadian Journal of Cardiology | Pesakit dengan sindrom X yang dikaitkan dengan kesan adenosin berlebihan ("migrain miokardium"). Kaitan langsung dengan migrain kepala terhad. |
+| [14168418](https://pubmed.ncbi.nlm.nih.gov/14168418/) | 1964 | Ulasan | Aggiornamenti Clinicoterapeutici | Ulasan lama mengenai sakit kepala perubatan. Tiada abstrak, jadi dapatan terperinci tidak dapat disimpulkan. |
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Pengeluar | Status |
-|---------|------|------|------|
-| MAL20021376AZ | AMINOPHYLLINE/DEMO INJECTION 250MG/10ML | Pahang Pharmacy Sdn. Bhd. | Sah |
-| MAL06051295ARZ | AMINOPHYLLIN IV-FRESENIUS 250MG/10ML, INJECTION | Fresenius Kabi Malaysia Sdn. Bhd. | Sah |
+Aminofilin dihidrat berstatus **dipasarkan** di Malaysia, dengan produk suntikan yang berdaftar dan berstatus sah. Butiran lesen (nombor kelulusan, bentuk dos dan pengilang) disediakan secara berasingan oleh sistem tapak.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah pakej untuk maklumat keselamatan. Data amaran, kontraindikasi dan interaksi ubat tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Sila rujuk sisipan pembungkusan (package insert) untuk maklumat keselamatan. Data amaran utama, kontraindikasi dan interaksi ubat tidak tersedia dalam data yang dikumpulkan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Ramalan TxGNN sangat tinggi dan terdapat satu kajian semula terkini yang secara langsung membincangkan aminofilin dalam migrain. Walau bagaimanapun, tiada ujian klinikal berdaftar dan bukti lain terhad kepada laporan kes. Data keselamatan juga belum tersedia, jadi isu ini masih tahap soalan penyelidikan dan belum sedia untuk diteruskan.
+Tiada percubaan klinikal yang mengkaji migrain, dan literatur sedia ada terdiri daripada satu ulasan naratif serta laporan kes. Hipotesis adenosin menarik, tetapi bukti belum mencukupi untuk bergerak ke hadapan, dan data keselamatan tempatan juga belum lengkap.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Maklumat amaran dan kontraindikasi daripada risalah pakej produk berdaftar di Malaysia
-- Data mekanisme tindakan terperinci yang disahkan
-- Kajian klinikal terkawal (sekurang-kurangnya fasa 2) untuk menilai keberkesanan dan keselamatan aminofilin dalam migrain
-- Penilaian kesesuaian laluan pentadbiran dan dos, memandangkan produk berdaftar tempatan ialah suntikan
-- Analisis risiko-manfaat untuk populasi khusus, termasuk pesakit dengan penyakit kardiovaskular
+- Sisipan pembungkusan NPRA untuk amaran dan kontraindikasi, yang kini menjadi halangan kepada saringan keselamatan.
+- Data mekanisme tindakan terperinci daripada sumber seperti DrugBank.
+- Kajian klinikal terkawal yang menilai aminofilin dalam migrain, termasuk dos, laluan pentadbiran dan profil keselamatan.
+- Ulasan sistematik literatur untuk menilai kajian kes siri yang dirujuk dalam ulasan 2023.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

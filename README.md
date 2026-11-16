@@ -30,11 +30,11 @@ Ramalan penggunaan semula ubat untuk ubat yang diluluskan NPRA (Malaysia) menggu
 
 | Tahap bukti | Bilangan laporan | Penerangan |
 |---------|-------|------|
-| **L1** | 13 | Pelbagai RCT Fasa 3 |
-| **L2** | 27 | RCT tunggal atau pelbagai Fasa 2 |
+| **L1** | 11 | Pelbagai RCT Fasa 3 |
+| **L2** | 29 | RCT tunggal atau pelbagai Fasa 2 |
 | **L3** | 14 | Kajian pemerhatian |
-| **L4** | 36 | Kajian praklinikal / mekanistik |
-| **L5** | 527 | Ramalan pengkomputeran sahaja |
+| **L4** | 34 | Kajian praklinikal / mekanistik |
+| **L5** | 529 | Ramalan pengkomputeran sahaja |
 | **N/A** | 29 | Kegunaan diketahui sahaja (tiada ramalan baharu) |
 
 ### Mengikut sumber

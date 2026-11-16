@@ -8,8 +8,8 @@ indication_count: 5
 drugbank_id: DB00290
 monitor_inn: "Bleomycin"
 predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
-last_modified_at: 2026-11-16
-description: "Bleomycin Sulfate: indikasi baharu diramal Neoplasma kauda ekuina (cauda equina neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+last_modified_at: 2026-11-17
+description: "Bleomycin Sulfate: indikasi baharu diramal Neoplasma cauda equina (cauda equina neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Bleomycin Sulfate
@@ -34,91 +34,75 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 </div>
 
-## Bleomycin Sulfate: Neoplasma kauda ekuina (cauda equina neoplasm)
+## Bleomycin Sulfate: Neoplasma cauda equina (cauda equina neoplasm)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Bleomycin sulfat ialah agen kemoterapi sitotoksik, dan indikasi yang diluluskan tidak direkodkan dalam data tempatan yang dikumpulkan untuk laporan ini. Model TxGNN meramalkan ia mungkin berguna untuk **neoplasma kauda ekuina (cauda equina neoplasm)**. Setakat ini terdapat **0 ujian klinikal** dan **1 penerbitan** yang hanya berkaitan secara tidak langsung, jadi sokongan bukti sangat lemah.
+Bleomycin sulfat ialah ubat antikanser sitotoksik yang menyebabkan keretakan untai DNA.
+Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma cauda equina (cauda equina neoplasm)**, tetapi setakat ini hanya **1 penerbitan** yang dipautkan (laporan kohort mengenai germinoma CNS yang relaps) dan **tiada percubaan klinikal** didaftarkan. Bukti langsung untuk penyakit ini tidak ditemui.
 
----
-
-## Gambaran Keseluruhan
+## Gambaran Keseluruhan Pantas
 
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Neoplasma kauda ekuina (cauda equina neoplasm) |
+| Indikasi Baharu yang Diramal | Neoplasma cauda equina (cauda equina neoplasm) |
 | Skor Ramalan TxGNN | 0.9930 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Status Pasaran Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
-| Keputusan Disyorkan | Hold |
-
----
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Bleomycin ialah antibiotik glikopeptida sitotoksik. Ia diketahui menyebabkan pemotongan untai DNA yang bergantung pada Fe(II), dan ia ialah komponen rejimen berasaskan platinum/bleomycin untuk tumor sel germa.
+Data terperinci mengenai mekanisme tindakan tidak tersedia untuk laporan ini. Secara umum, bleomycin diketahui mengakibatkan keretakan untai DNA dan merupakan komponen rejimen tumor sel germa berasaskan platinum (seperti BEP/PVB).
 
-Hubungan dengan neoplasma kauda ekuina bersifat tidak langsung. Satu-satunya penerbitan yang dipautkan membincangkan germinoma CNS yang relaps selepas kemoterapi. Maka kaitannya hanya dirumuskan daripada persamaan histologi (tumor sel germa), bukan ditunjukkan secara langsung. Skor TxGNN yang tinggi (0.9930) ialah ramalan pengiraan dan tidak disokong oleh bukti klinikal dalam data ini.
+Satu-satunya artikel yang dipautkan membincangkan germinoma CNS yang relaps selepas kemoterapi primer (termasuk karboplatin, etoposid dan bleomycin), yang boleh melibatkan paksi spinal. Ini ialah inferens tidak langsung berasaskan histologi tumor dan **bukan bukti dalam neoplasma cauda equina**. Penembusan CNS yang lemah dan ketoksikan pulmonari juga mengehadkan kebolehjadian manfaat. Oleh sebab tiada kajian yang meneliti penyakit ini secara langsung, tahap bukti ditetapkan pada L5 walaupun skor model tinggi.
 
----
+## Bukti Percubaan Klinikal
 
-## Bukti Ujian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
-
----
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [9440744](https://pubmed.ncbi.nlm.nih.gov/9440744/) | 1998 | Siri kes/kohort | Journal of Clinical Oncology | Menilai radioterapi sebagai terapi penyelamat untuk germinoma CNS yang relaps selepas kemoterapi utama yang mengandungi karboplatin, etoposid dan bleomycin (PEB). Kajian ini tidak mengkaji neoplasma kauda ekuina secara langsung. |
+| [9440744](https://pubmed.ncbi.nlm.nih.gov/9440744/) | 1998 | Kohort | Journal of Clinical Oncology | Kajian retrospektif terhadap keupayaan radioterapi menyelamatkan pesakit germinoma CNS yang relaps selepas kemoterapi primer (karboplatin, etoposid, bleomycin). Bukan kajian neoplasma cauda equina. |
 
----
+## Maklumat Pasaran Malaysia
 
-## Maklumat Pasaran di Malaysia
-
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
 | MAL23126019AZ | BLEOSOL (Bleomycin serbuk untuk larutan suntikan/infusi 15 unit) | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
 | MAL19950510ARZ | DBL™ Bleomycin Sulfate for Injection 15 units | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-
----
 
 ## Sitotoksisiti
 
 | Perkara | Kandungan |
 |------|------|
-| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (antibiotik glikopeptida antineoplastik; pemotongan untai DNA) |
-| Risiko Penindasan Sumsum Tulang | Rendah (literatur menyebut bleomycin kurang menyebabkan mielosupresi) |
+| Klasifikasi Sitotoksisiti | Sitotoksik konvensional (antibiotik antitumor glikopeptida) |
+| Risiko Penindasan Sumsum Tulang | Rendah berbanding sitotoksik lain; sila rujuk sisipan pakej |
 | Klasifikasi Emetogenisiti | Rendah |
-| Item Pemantauan | Fungsi paru-paru dan pengimejan dada (toksisiti paru-paru kumulatif), kiraan darah lengkap, fungsi buah pinggang, kulit dan suhu badan |
-| Perlindungan Pengendalian | Perlu mengikut garis panduan pengendalian ubat sitotoksik |
-
----
+| Item Pemantauan | Fungsi dan pengimejan pulmonari (risiko fibrosis/pneumonitis), fungsi hati dan buah pinggang, tanda-tanda kulit dan mukosa |
+| Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
 
 ## Pertimbangan Keselamatan
 
-- **Isyarat keselamatan daripada literatur yang dikumpulkan:** toksisiti paru-paru (pneumonitis interstisial dan fibrosis), hiperpireksia idiosinkratik yang boleh membawa maut, dan toksisiti kulit seperti dermatitis flagelat. Toksisiti paru-paru amat penting jika bleomycin digunakan dalam tumor yang melibatkan struktur saraf atau paru-paru.
-- Data amaran utama dan kontraindikasi daripada sisipan pakej belum diperoleh. Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
-
----
+Ketoksikan pulmonari yang mengehadkan dos ialah kebimbangan utama bagi bleomycin dan perlu diberi perhatian khusus. Untuk maklumat amaran, kontraindikasi dan interaksi ubat yang lengkap, sila rujuk sisipan pakej.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
-**Justifikasi:**
-Tiada ujian klinikal didaftarkan dan tiada kajian yang menyiasat neoplasma kauda ekuina secara langsung. Satu-satunya penerbitan berkaitan germinoma CNS, jadi tahap bukti ialah L5 dan skor tinggi hanyalah ramalan model.
+**Rasional:**
+Ramalan ini hanya disokong oleh skor model dan satu laporan kohort tidak langsung mengenai germinoma CNS. Tiada percubaan klinikal atau kajian yang meneliti neoplasma cauda equina secara langsung, manakala penembusan CNS yang terhad dan ketoksikan pulmonari menimbulkan kebimbangan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Memuat turun dan menghurai sisipan pakej NPRA untuk amaran dan kontraindikasi, kerana ini ialah jurang data yang menghalang penilaian keselamatan.
-- Data mekanisme tindakan terperinci daripada DrugBank.
-- Kajian klinikal atau siri kes yang secara langsung melibatkan tumor kauda ekuina atau tumor sel germa tulang belakang.
-- Penilaian penembusan sawar darah-otak dan risiko toksisiti paru-paru untuk populasi sasaran.
+- Kajian atau siri kes yang meneliti bleomycin secara langsung dalam neoplasma cauda equina
+- Data mekanisme tindakan terperinci (MOA)
+- Amaran, kontraindikasi dan maklumat keselamatan daripada sisipan pakej NPRA
+- Penilaian penembusan CNS/spinal dan laluan pemberian yang sesuai
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

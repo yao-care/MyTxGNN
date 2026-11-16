@@ -8,8 +8,8 @@ indication_count: 4
 drugbank_id: DB09060
 monitor_inn: "Avibactam"
 predicted_indications: ["ureter tuberculosis", "urinary schistosomiasis", "hyperamylasemia", "polyclonal hyperviscosity syndrome"]
-last_modified_at: 2026-11-16
-description: "Avibactam Sodium: indikasi baharu diramal Ureter tuberculosis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+last_modified_at: 2026-11-17
+description: "Avibactam Sodium: indikasi baharu diramal Tuberkulosis ureter (ureter tuberculosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Avibactam Sodium
@@ -34,80 +34,64 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-## Avibactam Sodium: Ureter tuberculosis
+## Avibactam Sodium: Tuberkulosis ureter (ureter tuberculosis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Avibactam sodium ialah perencat beta-laktamase bukan beta-laktam yang tidak mempunyai aktiviti antibakteria sendiri dan dipasarkan hanya dalam gabungan dengan antibiotik beta-laktam.
-Model TxGNN meramalkan ia mungkin berkesan untuk **Pneumonia streptokokus (streptococcal pneumonia)**,
-tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** dalam data yang dikumpulkan untuk laporan ini yang menyokong arah ini.
+Avibactam sodium ialah perencat beta-laktamase bukan beta-laktam yang digunakan bersama antibiotik beta-laktam pasangan. Model TxGNN meramalkan ia mungkin berguna untuk **tuberkulosis ureter (ureter tuberculosis)**, tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** dalam data yang dikumpulkan untuk laporan ini yang menyokong arah ini. Ramalan ini hanya berasaskan model.
 
----
+## Gambaran Keseluruhan
 
-## Gambaran Keseluruhan Pantas
-
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Ureter tuberculosis |
+| Indikasi Baharu yang Diramalkan | Tuberkulosis ureter (ureter tuberculosis) |
 | Skor Ramalan TxGNN | 0.9911 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
-| Keputusan Disyorkan | Hold (Tangguh) |
-
----
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, avibactam ialah perencat beta-laktamase kelas A, C dan sebahagian kelas D. Ia tidak mempunyai aktiviti antibakteria sendiri, dan hanya digunakan bersama antibiotik beta-laktam sebagai rakan gabungan.
+Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, avibactam ialah perencat beta-laktamase kelas diazabisiklooktana yang memulihkan aktiviti antibiotik beta-laktam pasangan terhadap enzim Ambler kelas A, C dan sebahagian kelas D.
 
-Rintangan *Streptococcus pneumoniae* terutamanya disebabkan oleh perubahan protein pengikat penisilin, dan bukan penghasilan beta-laktamase. Oleh itu, perencat beta-laktamase tidak dijangka menambah manfaat yang bermakna. Sebarang aktiviti yang mungkin berlaku adalah daripada beta-laktam rakan gabungan, bukan daripada avibactam.
-
----
+*Mycobacterium tuberculosis* menghasilkan beta-laktamase kelas A berkod kromosom (BlaC). Kajian in vitro menunjukkan avibactam boleh merencat BlaC, justeru terdapat rasional antibakteria secara teori. Namun, ini belum disokong oleh sebarang kajian klinikal untuk penyakit ini. Avibactam dipasarkan hanya dalam bentuk kombinasi, dan penggunaannya dalam tuberkulosis bergantung pada pasangan beta-laktam serta bukan regimen yang mantap. Skor model (0,9911) ialah ramalan sahaja dan tidak boleh dianggap sebagai bukti keberkesanan.
 
 ## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
-
----
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
 
----
+## Maklumat Pasaran di Malaysia
 
-## Maklumat Pasaran Malaysia
-
-Rekod lesen tempatan hanya mengandungi produk gabungan. Produk gabungan ini tidak boleh digunakan untuk menggambarkan kelulusan atau pemasaran avibactam sebagai bahan tunggal.
-
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
 | MAL20126001ACZ | Zavicefta (Ceftazidime 2g/Avibactam 0.5g) Powder for Concentrate for Solution for Infusion | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
 | MAL26036004AZ | Emblaveo (Avibactam 0.5g/Aztreonam 1.5g) Powder for concentrate for solution for infusion | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
 
----
+Kedua-dua produk ialah produk kombinasi dan berstatus sah. Lesen kombinasi ini tidak menggambarkan kelulusan avibactam sebagai bahan tunggal.
 
 ## Pertimbangan Keselamatan
 
 Sila rujuk risalah pakej (package insert) untuk maklumat keselamatan.
 
----
-
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tangguh)**
+**Keputusan: Hold (Tahan)**
 
 **Justifikasi:**
-Ramalan ini hanya berasaskan model (tahap bukti L5) tanpa sebarang ujian klinikal atau literatur yang menyokong. Mekanisme rintangan pneumokokus tidak melibatkan beta-laktamase, jadi rasional farmakologi untuk avibactam adalah lemah.
+Ramalan ini hanya berasaskan model tanpa sebarang ujian klinikal atau literatur yang mengkaji tuberkulosis ureter secara langsung. Avibactam tidak mempunyai kegunaan bersendirian dan bergantung pada pasangan beta-laktam, jadi bukti masih di Tahap L5.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Data mekanisme tindakan (MOA) yang terperinci
-- Muat turun dan penghuraian risalah pakej NPRA untuk amaran dan kontraindikasi
-- Bukti klinikal atau praklinikal yang mengkaji pneumonia streptokokus secara langsung, termasuk data aktiviti gabungan dengan antibiotik rakan
-- Penilaian keselamatan awal (saringan S1) selepas data risalah pakej diperoleh
+- Data mekanisme tindakan (MOA) yang lengkap
+- Muat turun dan semakan amaran serta kontraindikasi daripada risalah pakej NPRA
+- Kajian in vitro dan praklinikal avibactam bersama beta-laktam pasangan terhadap *M. tuberculosis*, termasuk penembusan ke dalam saluran kencing
+- Penentuan pasangan beta-laktam dan regimen yang sesuai, serta pelan keselamatan sebelum sebarang kajian klinikal
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

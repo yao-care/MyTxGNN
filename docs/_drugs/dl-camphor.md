@@ -3,19 +3,19 @@ layout: default
 title: Dl-Camphor
 parent: Low Evidence (L4-L5)
 nav_order: 298
-evidence_level: L4
+evidence_level: L5
 indication_count: 9
 drugbank_id: DB01744
 monitor_inn: "Camphor"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
-last_modified_at: 2026-11-16
-description: "Dl-Camphor: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
+last_modified_at: 2026-11-17
+description: "Dl-Camphor: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Dl-Camphor
 {: .fs-9 }
 
-Tahap bukti: **L4** | Indikasi diramal: **9** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,65 +39,82 @@ Tahap bukti: **L4** | Indikasi diramal: **9**
 
 ## Ringkasan Satu Ayat
 
-DL-Camphor ialah bahan aktif yang terdapat dalam produk gabungan topikal pelega sakit di pasaran Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan migrain (migraine disorder)**.
-Buat masa ini terdapat **0 ujian klinikal** dan **1 kajian praklinikal haiwan** yang mengkaji migrain secara langsung, ditambah **2 laporan kes** tentang sakit kepala kluster yang hanya berkaitan secara tidak langsung.
+DL-Camphor ialah bahan aktif yang digunakan dalam produk topikal kombinasi, dan sebatian ini diketahui memodulasi saluran TRP (TRPV1, TRPA1 dan TRPM8).
+Model TxGNN meramalkan ia mungkin berguna untuk **gangguan migrain (migraine disorder)**.
+Bukti setakat ini sangat terhad: **tiada ujian klinikal** didaftarkan, dan hanya **beberapa laporan kes serta satu kajian haiwan** yang menyokong arah ini.
 
-## Gambaran Ringkas
+---
+
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder) |
 | Skor Ramalan TxGNN | 0.9985 |
-| Tahap Bukti | L4 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 9; status tidak dapat disahkan: 1) |
 | Bilangan Pendaftaran | 9 (sah: 8; status tidak dapat disahkan: 1) |
 | Keputusan Disyorkan | Tangguh |
 
-## Mengapa Ramalan Ini Munasabah?
+---
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, kamfor ialah pengubah suai saluran TRP (TRPV1, TRPA1 dan TRPM8). Saluran ini terlibat dalam penghantaran isyarat sakit trigeminovaskular dan perembesan CGRP. Ini memberi kaitan yang munasabah dengan sakit kepala, tetapi ia masih hipotesis.
+## Mengapakah Ramalan Ini Munasabah?
 
-Satu-satunya isyarat mekanistik langsung ialah kajian praklinikal (PMID 42849823). Kajian itu melaporkan bahawa (+)-kamfor semula jadi mengurangkan migrain teraruh reserpin dengan vasospasma serebrum setempat pada model haiwan, melalui perencatan laluan p38β MAPK/ATF2. **Tahun penerbitan yang tercatat ialah 2027, iaitu lewat daripada tarikh semasa, jadi rekod ini perlu disahkan sebelum dijadikan sandaran.**
+Data terperinci tentang mekanisme tindakan ubat ini tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, camphor memodulasi saluran TRP, iaitu penyahpekaan TRPV1 serta modulasi TRPA1 dan TRPM8. Saluran ini terlibat dalam nosisepsi trigeminovaskular dan pelepasan CGRP, dua proses yang penting dalam patofisiologi sakit kepala migrain. Atas dasar itu, rasional mekanistik untuk gangguan sakit kepala adalah munasabah.
 
-Bukti pada manusia terhad kepada dua laporan kes tentang sakit kepala kluster yang dikaitkan dengan minyak pati, termasuk kamfor. Ia merupakan gangguan sakit kepala yang berbeza dan tidak menunjukkan keberkesanan kamfor.
+Namun, sokongan data masih lemah. Terdapat laporan kes sakit kepala kluster yang berkaitan dengan pendedahan kepada minyak pati yang mengandungi camphor. Terdapat juga satu kajian praklinikal haiwan tentang camphor semula jadi dalam model migrain. Tiada data keberkesanan pada manusia untuk migrain.
+
+Camphor juga diketahui boleh menyebabkan neurotoksisiti (sawan) pada dos tinggi. Sebarang penggunaan sistemik memerlukan kajian keselamatan terlebih dahulu.
+
+---
 
 ## Bukti Ujian Klinikal
 
-Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+
+---
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [42849823](https://pubmed.ncbi.nlm.nih.gov/42849823/) | 2027 (perlu disahkan) | Praklinikal (model haiwan) | Journal of Ethnopharmacology | (+)-Kamfor semula jadi mengurangkan migrain teraruh reserpin dengan vasospasma serebrum setempat melalui perencatan laluan p38β MAPK/ATF2 |
-| [34373243](https://pubmed.ncbi.nlm.nih.gov/34373243/) | 2021 | Laporan kes | BMJ Case Reports | Dua kes sakit kepala kluster yang berkait masa dengan ubat gigi mengandungi minyak pati kamfor dan eukaliptus; bukan bukti keberkesanan |
-| [35856604](https://pubmed.ncbi.nlm.nih.gov/35856604/) | 2022 | Siri kes | Headache | Lima kes sakit kepala kluster sekunder akibat penggunaan ubat gigi mengandungi minyak pati pro-konvulsan; bukan bukti keberkesanan |
+| [35856604](https://pubmed.ncbi.nlm.nih.gov/35856604/) | 2022 | Siri kes | Headache | Lima kes sakit kepala kluster yang dikaitkan dengan penggunaan ubat gigi yang mengandungi minyak pati pro-konvulsan. Ini bukan bukti keberkesanan terhadap migrain. |
+| [34373243](https://pubmed.ncbi.nlm.nih.gov/34373243/) | 2021 | Laporan kes | BMJ Case Reports | Dua kes sakit kepala kluster yang berkaitan dari segi masa dengan ubat gigi yang mengandungi minyak camphor dan eucalyptus. Ini menunjukkan isyarat keselamatan, bukan manfaat. |
+| [42849823](https://pubmed.ncbi.nlm.nih.gov/42849823/) | 2027* | Praklinikal (haiwan) | Journal of Ethnopharmacology | (+)-Camphor semula jadi mengurangkan migrain akibat reserpin dengan vasospasme serebral setempat melalui perencatan laluan p38β MAPK/ATF2 dalam model haiwan. |
+
+*Tahun terbitan rekod ini (2027) melepasi tarikh laporan (2026-11-16). Rekod bibliografinya mesti disahkan sebelum dijadikan sandaran.
+
+Satu-satunya kajian yang menumpu pada migrain ialah kajian haiwan ini. Disebabkan rekod bibliografinya belum disahkan, kami tidak menganggapnya sebagai bukti langsung yang boleh dipercayai, dan tahap bukti ditetapkan pada L5.
+
+---
 
 ## Maklumat Pasaran di Malaysia
 
-Status pasaran di Malaysia ialah dipasarkan. Semua rekod pendaftaran tempatan yang dikumpulkan ialah produk gabungan, dan tiada rekod produk bahan tunggal. Oleh itu, status pendaftaran produk gabungan ini tidak boleh dijadikan asas untuk menyatakan bagaimana DL-Camphor sebagai bahan tunggal diluluskan atau dipasarkan, apatah lagi untuk indikasi migrain.
+Semua pendaftaran tempatan yang direkodkan untuk DL-Camphor ialah produk kombinasi, seperti tampal dan losyen pelega sakit. Tiada pendaftaran produk bahan tunggal. Oleh itu, status pasaran bagi DL-Camphor sebagai bahan tunggal tidak dapat ditentukan daripada data ini.
+
+---
 
 ## Pertimbangan Keselamatan
 
-- **Amaran daripada literatur**: Minyak pati yang mempunyai sifat pro-konvulsan, termasuk yang mengandungi kamfor, diketahui boleh mencetuskan sawan dan boleh memburukkan migrain. Dua laporan kes yang dipetik di atas mengaitkan ubat gigi mengandungi kamfor dan eukaliptus dengan sakit kepala kluster.
+Maklumat amaran, kontraindikasi dan interaksi ubat tidak tersedia dalam data yang dikumpulkan. Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-Sila rujuk sisipan pek produk untuk maklumat amaran, kontraindikasi dan interaksi ubat yang lengkap. Data tersebut belum tersedia dalam data yang dikumpulkan.
+Laporan kes yang disebut di atas mengaitkan minyak pati yang mengandungi camphor dengan sakit kepala kluster. Literatur juga menyebut sifat pro-konvulsan camphor, jadi penggunaan sistemik pada pesakit migrain perlu ditimbang dengan teliti.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Tangguh**
 
 **Rasional:**
-Bukti hanya terdiri daripada satu kajian praklinikal haiwan yang tahun penerbitannya tidak normal, tanpa sebarang ujian klinikal. Laporan kes pada manusia pula berkaitan sakit kepala kluster dan menimbulkan kebimbangan keselamatan, bukan menunjukkan manfaat. Kesesuaian laluan pentadbiran juga belum dinilai.
+Skor ramalan tinggi (0.9985) dan rasional saluran TRP adalah munasabah. Walau bagaimanapun, tiada ujian klinikal, tiada data keberkesanan pada manusia, dan satu-satunya kajian khusus migrain ialah kajian haiwan dengan rekod bibliografi yang perlu disahkan. Camphor juga mempunyai risiko neurotoksisiti, maka ini setakat ini hanyalah soalan penyelidikan.
 
-**Untuk diteruskan, perkara berikut diperlukan:**
-- Pengesahan rekod PMID 42849823, termasuk tahun penerbitan sebenar, dan semakan kritis reka bentuk kajian
-- Data mekanisme tindakan terperinci
-- Maklumat amaran dan kontraindikasi daripada sisipan pek yang diluluskan oleh NPRA
-- Kajian praklinikal tambahan dan, jika wajar, ujian klinikal yang mengkaji migrain secara langsung
-- Penilaian risiko neurotoksisiti dan sawan, serta kesesuaian laluan pentadbiran bagi indikasi migrain
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Mengesahkan rekod bibliografi PMID 42849823 dan menilai kualiti kajian haiwan tersebut.
+- Melengkapkan data mekanisme tindakan (MOA) daripada sumber rujukan ubat.
+- Memuat turun dan menghurai sisipan pakej NPRA untuk amaran dan kontraindikasi, kerana kekosongan data ini menghalang penilaian keselamatan.
+- Menjalankan kajian praklinikal dan klinikal awal yang menumpu pada migrain, serta kajian keselamatan neurologi sekiranya laluan sistemik dipertimbangkan.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

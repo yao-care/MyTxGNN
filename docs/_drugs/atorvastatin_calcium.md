@@ -3,19 +3,19 @@ layout: default
 title: Atorvastatin Calcium
 parent: High Evidence (L1-L2)
 nav_order: 103
-evidence_level: L1
+evidence_level: L2
 indication_count: 4
 drugbank_id: DB01076
 monitor_inn: "Atorvastatin"
 predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-16
-description: "Atorvastatin Calcium: indikasi baharu diramal HIV infectious disease (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
+last_modified_at: 2026-11-17
+description: "Atorvastatin Calcium: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Atorvastatin Calcium
 {: .fs-9 }
 
-Tahap bukti: **L1** | Indikasi diramal: **4** 
+Tahap bukti: **L2** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -34,36 +34,36 @@ Tahap bukti: **L1** | Indikasi diramal: **4**
 
 </div>
 
-## Atorvastatin Calcium: HIV infectious disease
+## Atorvastatin Calcium: Jangkitan HIV (HIV infectious disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Atorvastatin kalsium ialah ubat statin yang menurunkan kolesterol LDL dengan menghalang enzim HMG-CoA reduktase. Model TxGNN meramalkan ia berkesan untuk **hiperkolesterolemia familial (familial hypercholesterolemia)**. Ramalan ini disokong oleh **14 percubaan klinikal** dan **19 penerbitan** dalam data yang disusun untuk laporan ini. Kebanyakan percubaan menggunakan atorvastatin sebagai terapi asas atau pembanding, dan hanya sebahagian kecil menguji atorvastatin secara langsung.
+Atorvastatin kalsium ialah ubat golongan statin yang telah lama digunakan secara klinikal dan berdaftar di Malaysia. Model TxGNN meramalkan ubat ini mungkin bermanfaat untuk **Jangkitan HIV (HIV infectious disease)**, terutamanya bagi mengurangkan keradangan kronik, pengaktifan imun dan risiko kardiovaskular, dan bukan untuk menghapuskan virus. Arah ini disokong oleh **14 percubaan klinikal** dan **20 penerbitan** dalam data yang dikumpulkan untuk laporan ini.
 
 ---
 
 ## Gambaran Ringkas
 
-| Perkara | Kandungan |
+| Item | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | HIV infectious disease |
+| Indikasi Baharu yang Diramalkan | Jangkitan HIV (HIV infectious disease) |
 | Skor Ramalan TxGNN | 0.9931 |
-| Tahap Bukti | L1 |
+| Tahap Bukti | L2 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 66 daripada 71; status tidak dapat disahkan: 5) |
 | Bilangan Pendaftaran | 71 (sah: 66; status tidak dapat disahkan: 5) |
-| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Pagar Pengadang) |
+| Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Atorvastatin menghalang HMG-CoA reduktase, enzim kunci dalam sintesis kolesterol di hati. Perencatan ini meningkatkan bilangan reseptor LDL pada sel hati, lalu menurunkan kolesterol LDL (LDL-C) dalam darah. Data mekanisme terperinci tidak tersedia dalam data tempatan, tetapi mekanisme statin ini sudah mantap.
+Pada masa ini, data terperinci mengenai mekanisme tindakan tidak tersedia. Berdasarkan maklumat sedia ada, atorvastatin tergolong dalam statin, yang dikenali mempunyai kesan pleiotropik anti-radang dan imunomodulasi. Secara mekanisme, ubat ini mungkin sesuai untuk jangkitan HIV.
 
-Hiperkolesterolemia familial ialah gangguan genetik yang menyebabkan LDL-C sangat tinggi dan penyakit kardiovaskular pramatang. Mekanisme penurunan LDL-C oleh statin sepadan terus dengan masalah ini. Kajian label terbuka lama (1997) pada pesakit hiperkolesterolemia familial menunjukkan atorvastatin berkesan menurunkan lipid, dan percubaan fasa 3 dalam kanak-kanak dan remaja menyokong keberkesanan serta ketoleransi jangka panjang.
+Pada orang yang hidup dengan HIV, keradangan kronik dan pengaktifan imun berterusan walaupun virus ditekan oleh terapi antiretroviral (ART). Keadaan ini dikaitkan dengan penyakit kardiovaskular dan gangguan neurokognitif berkaitan HIV (HAND). Statin dilaporkan mengurangkan pengaktifan monosit/makrofaj dan penanda keradangan seperti sCD14, hsCRP dan Lp-PLA2. Statin juga boleh melambatkan perkembangan aterosklerosis. Atorvastatin turut digunakan untuk mengurus dislipidemia akibat perencat protease. Sasaran pengalihan guna yang dicadangkan ialah risiko kardiovaskular, keradangan dan HAND, bukan pembasmian virus.
 
-Keberkesanan dijangka lebih rendah pada bentuk homozigot, kerana reseptor LDL hampir atau langsung tidak berfungsi. Pada pesakit ini, atorvastatin biasanya digabungkan dengan terapi penurun lipid lain.
+Satu perkara perlu diberi perhatian. Atorvastatin dimetabolismekan oleh CYP3A4, jadi interaksi dengan perencat protease dan efavirenz memerlukan had dos yang jelas.
 
 ---
 
@@ -71,18 +71,16 @@ Keberkesanan dijangka lebih rendah pada bentuk homozigot, kerana reseptor LDL ha
 
 | Nombor Percubaan | Fasa | Status | Pendaftaran | Penemuan Utama |
 |---------|------|------|------|---------|
-| [NCT00827606](https://clinicaltrials.gov/study/NCT00827606) | Fasa 3 | Selesai | 272 | Kajian label terbuka 3 tahun terhadap atorvastatin pada kanak-kanak dan remaja dengan hiperkolesterolemia familial heterozigot, menilai pertumbuhan, perkembangan dan penurunan kolesterol |
-| [NCT00136981](https://clinicaltrials.gov/study/NCT00136981) | Fasa 3 | Selesai | 800 | Rawak, buta ganda: gabungan torcetrapib/atorvastatin berbanding atorvastatin sahaja; ultrabunyi karotid selama 24 bulan (projek torcetrapib ditamatkan kerana isu keselamatan) |
-| [NCT00134485](https://clinicaltrials.gov/study/NCT00134485) | Fasa 3 | Selesai | 400 | Rawak, buta ganda: torcetrapib/atorvastatin berbanding atorvastatin sahaja selama 6 bulan pada hiperkolesterolemia familial heterozigot |
-| [NCT00134511](https://clinicaltrials.gov/study/NCT00134511) | Fasa 3 | Selesai | 30 | Label terbuka, titrasi paksa gabungan torcetrapib/atorvastatin pada hiperkolesterolemia familial homozigot |
-| [NCT03884452](https://clinicaltrials.gov/study/NCT03884452) | Fasa 3 | Selesai | 50 | Ezetimibe 10 mg ditambah pada atorvastatin atau simvastatin pada hiperkolesterolemia familial homozigot |
-| [NCT03885921](https://clinicaltrials.gov/study/NCT03885921) | Fasa 3 | Selesai | 44 | Lanjutan label terbuka 24 bulan untuk keselamatan jangka panjang ezetimibe bersama atorvastatin atau simvastatin |
-| [NCT00739999](https://clinicaltrials.gov/study/NCT00739999) | Fasa 1 | Selesai | 39 | Farmakokinetik, farmakodinamik, keselamatan dan ketoleransi atorvastatin selama 8 minggu pada kanak-kanak dan remaja dengan hiperkolesterolemia familial heterozigot |
-| [NCT01709500](https://clinicaltrials.gov/study/NCT01709500) | Fasa 3 | Selesai | 249 | Alirocumab berbanding plasebo pada hiperkolesterolemia familial heterozigot yang tidak terkawal dengan terapi lipid sedia ada (atorvastatin kemungkinan terapi asas) |
-| [NCT03510884](https://clinicaltrials.gov/study/NCT03510884) | Fasa 3 | Selesai | 153 | Alirocumab berbanding plasebo pada kanak-kanak dan remaja dengan hiperkolesterolemia familial heterozigot, atas dos statin yang stabil |
-| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Fasa 3 | Selesai | 18 | Alirocumab label terbuka pada kanak-kanak dan remaja dengan hiperkolesterolemia familial homozigot; sampel kecil |
-
-Kebanyakan percubaan di atas menilai gabungan ubat atau ubat lain dengan atorvastatin sebagai terapi asas atau pembanding. Hanya NCT00827606 dan NCT00739999 menguji atorvastatin sahaja secara langsung pada hiperkolesterolemia familial.
+| [NCT02081638](https://clinicaltrials.gov/study/NCT02081638) | Fasa 2 | Selesai | 53 | Statin berbanding aspirin pada pengawal elit dan pesakit HIV+ yang menerima ART; menilai keradangan dan pengaktifan imun |
+| [NCT03037372](https://clinicaltrials.gov/study/NCT03037372) | Fasa 3 | Tidak diketahui | 320 | Atorvastatin berbanding rosuvastatin sebagai terapi tambahan selama 36 bulan pada dewasa HIV yang menerima HAART di Afrika; hasil belum dilaporkan |
+| [NCT01766076](https://clinicaltrials.gov/study/NCT01766076) | Fasa 3 | Selesai | 30 | Atorvastatin sebagai terapi tambahan pada pesakit dengan pemulihan CD4 suboptimum (RCT, kohort Afrika) |
+| [NCT00367458](https://clinicaltrials.gov/study/NCT00367458) | Fasa 2 | Selesai | 24 | RCT terkawal plasebo; kesan atorvastatin terhadap beban virus dan penanda pengaktifan imun pada pesakit HIV tanpa ART |
+| [NCT00965185](https://clinicaltrials.gov/study/NCT00965185) | NA | Selesai | 40 | Terapi statin untuk mengurangkan keradangan plak dan memperbaik fungsi endotelium pada pesakit HIV |
+| [NCT01600170](https://clinicaltrials.gov/study/NCT01600170) | Fasa 4 | Selesai | 11 | Modulasi pengaktifan monosit/makrofaj oleh statin untuk HAND; sampel sangat kecil |
+| [NCT01263938](https://clinicaltrials.gov/study/NCT01263938) | Fasa 4 | Selesai | 5 | Kajian perintis kesan atorvastatin terhadap pengaktifan monosit pada pesakit HAART; kuasa statistik rendah |
+| [NCT00355251](https://clinicaltrials.gov/study/NCT00355251) | Fasa 4 | Ditamatkan | 5 | Pengaruh atorvastatin terhadap replikasi virus sebelum gangguan ART; peserta terlalu sedikit |
+| [NCT00663234](https://clinicaltrials.gov/study/NCT00663234) | Fasa 1/2 | Ditamatkan | 28 | Keselamatan dan keberkesanan atorvastatin untuk LDL tinggi akibat perencat protease pada kanak-kanak dan remaja HIV |
+| [NCT00000941](https://clinicaltrials.gov/study/NCT00000941) | Fasa 1 | Selesai | 56 | Interaksi farmakokinetik antara perencat protease dan ubat penurun lipid; data panduan keselamatan dan dos |
 
 ---
 
@@ -90,50 +88,46 @@ Kebanyakan percubaan di atas menilai gabungan ubat atau ubat lain dengan atorvas
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [9301631](https://pubmed.ncbi.nlm.nih.gov/9301631/) | 1997 | Kajian label terbuka (rawak dua dos) | Arterioscler Thromb Vasc Biol | Atorvastatin 80 mg sehari berkesan dan selamat sebagai agen pengubah lipid pada hiperkolesterolemia familial (22 subjek) |
-| [12883464](https://pubmed.ncbi.nlm.nih.gov/12883464/) | 2003 | Kajian klinikal | Med Sci Monit | Atorvastatin mengurangkan mikroalbuminuria pada pesakit hiperkolesterolemia familial dengan toleransi glukosa normal |
-| [25760954](https://pubmed.ncbi.nlm.nih.gov/25760954/) | 2015 | Kajian sistematik (Cochrane) | Cochrane Database Syst Rev | Magnitud kesan atorvastatin yang bergantung kepada dos terhadap lipid darah (umum, bukan khusus untuk hiperkolesterolemia familial) |
-| [15199433](https://pubmed.ncbi.nlm.nih.gov/15199433/) | 2004 | Kajian | Semin Vasc Med | Aspek diagnostik, klinikal dan terapeutik hiperkolesterolemia familial pada kanak-kanak |
-| [28437620](https://pubmed.ncbi.nlm.nih.gov/28437620/) | 2017 | Garis panduan | Endocr Pract | Garis panduan AACE/ACE untuk pengurusan dislipidemia dan pencegahan penyakit kardiovaskular |
-| [34640319](https://pubmed.ncbi.nlm.nih.gov/34640319/) | 2021 | Kajian kohort | J Clin Med | Ciri klinikal hiperkolesterolemia familial pada kanak-kanak dan dewasa di pusat penyakit jarang di Poland |
-| [35361995](https://pubmed.ncbi.nlm.nih.gov/35361995/) | 2022 | Kajian genetik | Pharmacogenomics J | Menggabungkan ujian genetik hiperkolesterolemia familial dengan farmakogenomik statin |
-| [10582478](https://pubmed.ncbi.nlm.nih.gov/10582478/) | 1999 | Kajian ubat | Rev Med Brux | Ulasan atorvastatin sebagai statin generasi kedua dan keberkesanan biologinya |
+| [25441397](https://pubmed.ncbi.nlm.nih.gov/25441397/) | 2015 | RCT (silang, terkawal plasebo) | Trop Med Int Health | Atorvastatin mengurangkan pengaktifan dan kelesuan sel T pada pesakit HIV di Uganda yang respons imunnya suboptimum |
+| [37450602](https://pubmed.ncbi.nlm.nih.gov/37450602/) | 2023 | RCT (label terbuka) | AIDS | Atorvastatin berbanding aspirin pada pengawal elit dan pesakit HIV yang menerima ART, dengan sasaran keradangan sisa |
+| [37772075](https://pubmed.ncbi.nlm.nih.gov/37772075/) | 2021 | RCT (dubel buta, terkawal plasebo) | F1000Research | Kesan atorvastatin terhadap aterosklerosis subklinikal pada pesakit HIV tertekan virus dengan seropositiviti CMV |
+| [18991624](https://pubmed.ncbi.nlm.nih.gov/18991624/) | 2008 | RCT (label terbuka) | Curr HIV Res | Perbandingan rosuvastatin, pravastatin dan atorvastatin untuk hiperkolesterolemia pada 94 pesakit HIV yang menerima perencat protease |
+| [10449305](https://pubmed.ncbi.nlm.nih.gov/10449305/) | 1999 | Tidak dikelaskan | AIDS | Atorvastatin untuk hiperlipidemia berkaitan perencat protease |
+| [26658651](https://pubmed.ncbi.nlm.nih.gov/26658651/) | 2016 | Ulasan | Curr Opin Infect Dis | Menilai bukti bahawa statin mengurangkan risiko kardiovaskular pada pesakit HIV |
+| [29804227](https://pubmed.ncbi.nlm.nih.gov/29804227/) | 2018 | Ulasan | Curr Infect Dis Rep | Ringkasan peranan terapi statin dalam mengurangkan risiko CVD pada pesakit HIV yang menerima ART |
+| [28364370](https://pubmed.ncbi.nlm.nih.gov/28364370/) | 2017 | Cadangan klinikal | Am J Cardiovasc Drugs | Cadangan pengurusan interaksi ubat antara statin dan ubat HIV |
+| [32028327](https://pubmed.ncbi.nlm.nih.gov/32028327/) | 2020 | Percubaan klinikal (kohort) | AIDS | Penuaan tidak mengubah magnitud interaksi antara atorvastatin dan darunavir yang dipertingkat pada pesakit HIV berumur ≥55 tahun |
+| [41774493](https://pubmed.ncbi.nlm.nih.gov/41774493/) | 2026 | Praklinikal (tikus) | JCI Insight | Atorvastatin menyekat fibrosis dan disfungsi jantung akibat HIV/ubat antiretroviral dengan menyekat isyarat TGF-β1 platelet |
 
 ---
 
 ## Maklumat Pasaran di Malaysia
 
-Berdasarkan data tempatan, ubat ini berstatus **dipasarkan**. Terdapat produk bahan tunggal yang sah dan produk gabungan, dan beberapa lesen berstatus tidak diketahui. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Di bawah ialah lima kelulusan bahan tunggal utama sebagai contoh:
-
-| Nombor Kelulusan | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL11060015AZ | STORVAS C 10mg Tablet | RANBAXY (MALAYSIA) SDN. BHD. |
-| MAL11060016AZ | STORVAS C 20mg Tablet | RANBAXY (MALAYSIA) SDN. BHD. |
-| MAL11060017AZ | STORVAS C 40mg Tablet | RANBAXY (MALAYSIA) SDN. BHD. |
-| MAL11060020AZ | STORVAS C 80mg Tablet | RANBAXY (MALAYSIA) SDN. BHD. |
-| MAL21106028AZ | ATOSTIN FILM COATED TABLET 80MG | Y.S.P. INDUSTRIES (M) SDN. BHD. |
+Atorvastatin kalsium berstatus **dipasarkan** di Malaysia. Terdapat banyak produk berdaftar yang sah daripada pelbagai pengeluar, dalam kekuatan 10 mg hingga 80 mg. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan yang dikumpulkan untuk laporan ini.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+- **Interaksi ubat dengan ubat HIV**: Data percubaan dan literatur menunjukkan atorvastatin dimetabolismekan oleh CYP3A4. Perencat protease (misalnya ritonavir, darunavir, nelfinavir, saquinavir) dan efavirenz boleh mengubah kepekatan statin dalam darah. Kajian farmakokinetik fasa 1 (NCT00000941, NCT00017758) menilai perkara ini. Pemilihan dos perlu berhati-hati apabila digabungkan dengan ART.
+
+Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Proceed with Guardrails (Teruskan dengan Pagar Pengadang)**
+**Keputusan: Proceed with Guardrails (Teruskan dengan Langkah Kawalan)**
 
 **Rasional:**
-- Mekanisme penurunan LDL-C oleh atorvastatin sepadan terus dengan hiperkolesterolemia familial. Beberapa percubaan fasa 3 yang selesai, termasuk dua percubaan rawak dengan atorvastatin sebagai pembanding dan satu percubaan label terbuka 3 tahun pada kanak-kanak, menyokong arah ini.
-- Kebanyakan bukti bersifat tidak langsung (atorvastatin sebagai terapi asas atau pembanding), dan keberkesanan pada bentuk homozigot dijangka terhad. Penggunaan perlu dipandu oleh pagar pengadang klinikal.
+Beberapa percubaan fasa 2 dan fasa 3 serta RCT yang diterbitkan mengkaji atorvastatin terus pada pesakit HIV, dengan fokus pada keradangan, pengaktifan imun dan risiko kardiovaskular. Namun satu-satunya percubaan fasa 3 berskala besar (NCT03037372) berstatus tidak diketahui tanpa hasil dilaporkan, dan banyak percubaan lain bersaiz kecil. Tahap bukti ditetapkan pada L2, bukan L1.
 
-**Untuk meneruskan, perlu dilengkapkan:**
-- Amaran, kontraindikasi dan interaksi ubat daripada sisipan pakej yang diluluskan di Malaysia, kerana data keselamatan tempatan belum lengkap
-- Data mekanisme tindakan terperinci daripada sumber rujukan ubat
-- Pengesahan indikasi yang diluluskan dalam teks label tempatan
-- Pelan pemantauan khusus untuk pesakit kanak-kanak dan pesakit homozigot, termasuk keperluan terapi gabungan
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Hasil lengkap percubaan fasa 3 (NCT03037372) atau percubaan fasa 3 selesai yang lain.
+- Data amaran dan kontraindikasi daripada sisipan pek NPRA.
+- Data mekanisme tindakan terperinci.
+- Panduan dos dan pemantauan untuk interaksi dengan perencat protease dan efavirenz.
+- Penentuan sasaran klinikal yang jelas (risiko kardiovaskular, keradangan atau HAND), dan bukan pembasmian virus.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

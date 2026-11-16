@@ -2,11 +2,11 @@
   "generated": "2026-11-16",
   "total_drugs": 646,
   "level_counts": {
-    "L1": 13,
-    "L2": 27,
+    "L1": 11,
+    "L2": 29,
     "L3": 14,
-    "L4": 36,
-    "L5": 527
+    "L4": 34,
+    "L5": 529
   },
   "all_drugs": [
     {
@@ -222,7 +222,7 @@
     {
       "name": "Aminophylline Anhydrous",
       "slug": "aminophylline_anhydrous",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 9
     },
     {
@@ -402,13 +402,13 @@
     {
       "name": "Atorvastatin Calcium",
       "slug": "atorvastatin_calcium",
-      "level": "L1",
+      "level": "L2",
       "indication_count": 4
     },
     {
       "name": "Atorvastatin Calcium Trihydrate",
       "slug": "atorvastatin_calcium_trihydrate",
-      "level": "L1",
+      "level": "L2",
       "indication_count": 4
     },
     {
@@ -1338,7 +1338,7 @@
     {
       "name": "Dl-Camphor",
       "slug": "dl-camphor",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 9
     },
     {

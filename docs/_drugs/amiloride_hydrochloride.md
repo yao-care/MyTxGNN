@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00594
 monitor_inn: "Amiloride"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Amiloride Hydrochloride: indikasi baharu diramal Penyakit renal hipertensi malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -39,7 +39,7 @@ Tahap bukti: **L5** | Indikasi diramal: **5**
 
 ## Ringkasan Satu Ayat
 
-Amiloride hydrochloride ialah diuretik penjimat kalium yang menyekat saluran natrium epitelium (ENaC) pada nefron distal. Model TxGNN meramalkan ia mungkin berguna untuk **penyakit renal hipertensi malignan (malignant hypertensive renal disease)**. Pada masa ini **tiada kajian klinikal** dan **tiada literatur** dalam data yang disusun untuk laporan ini yang menyokong ramalan tersebut, jadi ia kekal sebagai ramalan model sahaja.
+Amiloride hydrochloride ialah diuretik penjimat kalium yang menyekat saluran natrium epitelium (ENaC) di nefron distal. Model TxGNN meramalkan ia mungkin berguna untuk **penyakit renal hipertensi malignan (malignant hypertensive renal disease)**. Setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang mengkaji penggunaan ini secara langsung, jadi ramalan ini hanya berasaskan model.
 
 ---
 
@@ -59,38 +59,35 @@ Amiloride hydrochloride ialah diuretik penjimat kalium yang menyekat saluran nat
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) belum tersedia dalam data yang disusun. Amiloride diketahui menyekat ENaC pada nefron distal, dan tindakan ini boleh menurunkan tekanan darah yang bergantung pada natrium. Ini memberi asas biologi yang munasabah untuk hipertensi.
+Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Amiloride diketahui menyekat ENaC di nefron distal dan mempunyai kesan diuretik penjimat kalium serta antihipertensi. Secara biologi, kesan penurunan tekanan darah dan isi padu cecair adalah munasabah. Ini menjadi asas mengapa model meramalkan kaitan dengan penyakit buah pinggang akibat hipertensi.
 
-Hubungan ini belum disahkan oleh mana-mana kajian. Tiada percubaan klinikal atau literatur yang ditemui untuk penyakit ini, dan medan MOA asal juga tidak lengkap. Oleh itu, kaitan antara penyekatan ENaC dan penyakit renal hipertensi malignan kekal sebagai hipotesis.
-
-Penyakit renal hipertensi malignan juga ialah keadaan di mana hiperkalemia dan fungsi renal yang merosot menjadikan diuretik penjimat kalium lebih berisiko. Risiko ini perlu ditimbang dengan teliti sebelum sebarang pertimbangan lanjut.
+Walau bagaimanapun, skor yang tinggi (0.9982) ialah ramalan komputasi semata-mata. Tiada ujian klinikal atau literatur yang diperoleh untuk menyokong indikasi ini. Hipertensi malignan dengan kerosakan buah pinggang ialah keadaan akut berisiko tinggi yang lazimnya diuruskan dengan ubat bertindak pantas. Amiloride pula membawa risiko hiperkalemia, terutamanya apabila fungsi buah pinggang terjejas, dan ini menjadi kebimbangan keselamatan yang ketara bagi populasi ini.
 
 ---
 
-## Bukti Percubaan Klinikal
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
+Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan.
+Buat masa ini tiada literatur berkaitan yang tersedia untuk indikasi ini.
 
 ---
 
 ## Maklumat Pasaran di Malaysia
 
-Status pasaran tempatan ialah **dipasarkan**. Ketiga-tiga pendaftaran tempatan yang sah ialah produk **kombinasi** (bukan produk bahan tunggal). Pendaftaran produk kombinasi tidak boleh digunakan untuk menggambarkan status kelulusan amiloride sebagai bahan tunggal. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
+Data yang dikumpulkan untuk laporan ini menunjukkan semua lesen yang sah di Malaysia (3 lesen) ialah produk kombinasi. Tiada lesen produk bahan tunggal amiloride yang sah dicatatkan. Lesen produk kombinasi tidak boleh digunakan untuk menerangkan status kelulusan amiloride sebagai bahan tunggal.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-- **Risiko hiperkalemia:** Sebagai diuretik penjimat kalium, amiloride berisiko menyebabkan hiperkalemia. Risiko ini lebih tinggi apabila fungsi renal terjejas, seperti dalam hipertensi malignan dengan penglibatan renal.
-- **Interaksi ubat:** Tiada interaksi ubat direkodkan dalam data yang disusun.
+Data amaran utama, kontraindikasi dan interaksi ubat tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Sila rujuk sisipan pek produk untuk maklumat keselamatan.
 
-Sila rujuk sisip bungkusan (package insert) untuk maklumat amaran dan kontraindikasi yang lengkap.
+Satu perkara perlu diberi perhatian walaupun bukan data label: amiloride boleh menyebabkan hiperkalemia, dan risikonya meningkat apabila fungsi buah pinggang terjejas. Ini sangat relevan bagi pesakit dengan penyakit renal.
 
 ---
 
@@ -98,14 +95,15 @@ Sila rujuk sisip bungkusan (package insert) untuk maklumat amaran dan kontraindi
 
 **Keputusan: Hold**
 
-**Rasional:**
-Ramalan ini hanya berasaskan skor model (0.9982) tanpa sebarang percubaan klinikal atau literatur yang mengkaji penyakit ini secara langsung (Tahap Bukti L5). Risiko hiperkalemia dalam keadaan fungsi renal terjejas juga menambah keperluan untuk berhati-hati.
+**Justifikasi:**
+- Ramalan ini hanya berasaskan model (tahap bukti L5), tanpa sebarang ujian klinikal atau penerbitan yang mengkaji penyakit ini secara langsung.
+- Risiko hiperkalemia dalam populasi dengan kerosakan buah pinggang menambah kebimbangan keselamatan.
 
-**Untuk meneruskan, perlu dilengkapkan:**
-- Data mekanisme tindakan (MOA) yang lengkap, contohnya daripada DrugBank.
-- Amaran dan kontraindikasi daripada sisip bungkusan NPRA untuk saringan keselamatan.
-- Carian literatur dan percubaan klinikal yang mengkaji amiloride secara langsung dalam penyakit renal hipertensi malignan.
-- Penilaian risiko hiperkalemia dan fungsi renal bagi populasi sasaran.
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Mendapatkan dan menghuraikan sisipan pek NPRA untuk amaran dan kontraindikasi.
+- Melengkapkan data mekanisme tindakan (MOA) daripada DrugBank.
+- Mencari bukti praklinikal atau klinikal yang mengkaji amiloride secara langsung dalam penyakit renal hipertensi malignan.
+- Menilai keselamatan (khususnya risiko hiperkalemia) dalam pesakit dengan fungsi buah pinggang terjejas sebelum sebarang pertimbangan klinikal.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

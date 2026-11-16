@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB01551
 monitor_inn: "Dihydrocodeine"
 predicted_indications: ["nasal cavity disease", "allergic urticaria", "papillary conjunctivitis", "faucial diphtheria", "cervical disc degenerative disorder", "headache disorder", "cold urticaria", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Dihydrocodeine Tartrate: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -39,14 +39,15 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 ## Ringkasan Satu Ayat
 
-Dihidrokodeina tartrat ialah ubat opioid dengan kesan antitusif dan analgesik.
-Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit rongga hidung (nasal cavity disease)**, tetapi data yang dikumpulkan untuk laporan ini **tidak mengandungi sebarang ujian klinikal atau penerbitan** yang mengkaji penyakit tersebut secara langsung. Tahap bukti ialah L5 (ramalan model sahaja).
+Dihydrocodeine tartrate ialah ubat opioid yang telah didaftarkan di Malaysia dalam bentuk produk berasaskan bahan tunggal.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit rongga hidung (nasal cavity disease)**,
+tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang mengkaji penyakit ini secara langsung, jadi ramalan ini masih pada peringkat model sahaja.
 
 ---
 
 ## Gambaran Keseluruhan
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baharu yang Diramalkan | Penyakit rongga hidung (nasal cavity disease) |
@@ -54,27 +55,27 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit rongga hidung (nasal
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
 | Bilangan Pendaftaran | 3 (sah: 3) |
-| Keputusan Disyorkan | Hold (Tahan) |
+| Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat umum, dihidrokodeina ialah agonis reseptor opioid mu yang memberikan kesan penekanan batuk dan analgesia melalui tindakan pada sistem saraf pusat.
+Data terperinci tentang mekanisme tindakan dihydrocodeine tidak tersedia dalam data yang dikompilasi untuk laporan ini. Secara umum, dihydrocodeine ialah agonis opioid dengan kesan antitusif dan analgesik. Kaitan dengan penyakit rongga hidung hanya boleh dihuraikan secara spekulatif, misalnya melalui kelegaan gejala seperti batuk atau hingus.
 
-Tiada mekanisme yang jelas menghubungkan dihidrokodeina dengan penyakit rongga hidung. Paling jauh, sebarang manfaat hanya bersifat tidak langsung, contohnya melalui penekanan batuk, dan ini tidak disokong oleh data yang ada. Skor 0,9999 ialah ramalan berasaskan model sahaja dan tidak boleh ditafsirkan sebagai bukti keberkesanan.
+Skor TxGNN yang tinggi (0,9999) ialah ramalan berasaskan model sahaja. Tiada data klinikal atau literatur yang mengesahkan hubungan ini, dan kesamaan dengan indikasi asal masih belum dinilai. Ramalan ini tidak boleh disahkan buat masa ini.
 
 ---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ---
 
 ## Bukti Literatur
 
-Pada masa ini tiada literatur berkaitan.
+Pada masa ini tiada literatur berkaitan yang tersedia untuk penyakit rongga hidung.
 
 ---
 
@@ -82,19 +83,17 @@ Pada masa ini tiada literatur berkaitan.
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Pengilang |
 |---------|------|------|-----------|
-| MAL05090018AZ | Suncodin Tablet | Tablet | Sunward Pharmaceutical Sdn. Bhd. |
-| MAL20021420AZ | P.P. Dihydrocodeine Tablet | Tablet | Noripharma Sdn. Bhd. |
-| MAL19970290AZ | Dicodine Tablet | Tablet | Royce Pharma Manufacturing Sdn. Bhd. |
+| MAL05090018AZ | Suncodin Tablet | Tidak direkodkan | Sunward Pharmaceutical Sdn. Bhd. |
+| MAL20021420AZ | P.P. Dihydrocodeine Tablet | Tidak direkodkan | Noripharma Sdn. Bhd. |
+| MAL19970290AZ | Dicodine Tablet | Tidak direkodkan | Royce Pharma Manufacturing Sdn. Bhd. |
 
-Ketiga-tiga pendaftaran ialah produk satu bahan aktif dan semuanya sah.
+Ketiga-tiga lesen ialah produk bahan tunggal dan masih sah.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah pek (package insert) untuk maklumat keselamatan.
-
-Nota: bagi opioid secara amnya, risiko pergantungan dan penyalahgunaan perlu diberi perhatian.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ---
 
@@ -103,13 +102,13 @@ Nota: bagi opioid secara amnya, risiko pergantungan dan penyalahgunaan perlu dib
 **Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Ramalan ini hanya berasaskan model; tiada ujian klinikal atau penerbitan yang mengkaji penyakit rongga hidung secara langsung, dan tiada mekanisme yang jelas menghubungkan dihidrokodeina dengan penyakit ini.
+Ramalan untuk penyakit rongga hidung hanya bersandarkan skor model; tiada percubaan klinikal atau penerbitan yang mengkaji penyakit ini secara langsung, maka tahap bukti ialah L5. Data mekanisme tindakan dan maklumat keselamatan juga belum tersedia.
 
-**Untuk meneruskan, perlu dilengkapkan:**
-- Data keselamatan daripada risalah pek NPRA (amaran dan kontraindikasi)
-- Data mekanisme tindakan terperinci (MOA)
-- Kajian klinikal atau literatur yang mengkaji penyakit rongga hidung secara langsung
-- Penilaian keserasian laluan pentadbiran
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan
+- Data mekanisme tindakan (MOA) yang terperinci
+- Kajian praklinikal atau klinikal yang menilai dihydrocodeine secara langsung dalam penyakit rongga hidung
+- Penilaian kebolehlaksanaan laluan pentadbiran, kerana ubat ini berbentuk tablet oral
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -8,8 +8,8 @@ indication_count: 4
 drugbank_id: DB00612
 monitor_inn: "Bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-16
-description: "Bisoprolol Fumarate: indikasi baharu diramal Malignant hypertensive renal disease (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+last_modified_at: 2026-11-17
+description: "Bisoprolol Fumarate: indikasi baharu diramal Penyakit renal hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Bisoprolol Fumarate
@@ -34,63 +34,87 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-## Bisoprolol Fumarate: Malignant hypertensive renal disease
+## Bisoprolol Fumarate: Penyakit renal hipertensif malignan (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Bisoprolol fumarate ialah penyekat adrenergik beta-1 terpilih yang telah didaftarkan dan dipasarkan di Malaysia.
-Model TxGNN meramalkan ia mungkin berkesan untuk **hipertensi renovaskular malignan (malignant renovascular hypertension)**,
-tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** dalam data yang dikumpulkan untuk laporan ini yang menyokong arah ini; ramalan ini hanya berasaskan model.
+Bisoprolol fumarate ialah penyekat adrenergik beta-1 terpilih yang telah didaftarkan di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit renal hipertensif malignan (malignant hypertensive renal disease)**,
+tetapi **tiada kajian klinikal** dan **tiada penerbitan** dalam data yang dikumpulkan untuk laporan ini yang menyokong ramalan tersebut.
 
-## Gambaran Ringkas
+---
+
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Malignant hypertensive renal disease |
+| Indikasi Baharu yang Diramalkan | Penyakit renal hipertensif malignan (malignant hypertensive renal disease) |
 | Skor Ramalan TxGNN | 0.9994 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 32 daripada 32) |
 | Bilangan Pendaftaran | 32 (sah: 32) |
-| Keputusan Disyorkan | Hold (Tangguh) |
+| Keputusan Disyorkan | Hold |
+
+---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Bisoprolol ialah penyekat beta-1 terpilih yang menurunkan tekanan darah dengan mengurangkan kadar denyutan jantung, output kardiak dan perembesan renin. Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini, maka huraian ini berdasarkan pengetahuan farmakologi umum kelas ubat ini.
+Bisoprolol ialah penyekat beta-1 terpilih. Ia menurunkan tekanan darah dengan mengurangkan kadar denyutan jantung, curahan jantung dan rembesan renin. Pengurangan renin secara teori boleh membantu dalam penyakit renal yang berkaitan dengan hipertensi, maka hubungan ini koheren dari sudut biologi.
 
-Hipertensi renovaskular dipacu oleh pengaktifan sistem renin-angiotensin. Penurunan renin oleh penyekatan beta-1 secara biologi boleh dipercayai berkaitan dengan keadaan ini.
+Namun begitu, data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Hipertensi malignan ialah kecemasan hipertensif yang biasanya diurus dengan agen intravena yang boleh dititrasi; penyekat beta oral hanya bersifat tambahan. Skor TxGNN yang sangat tinggi (0,9994) ialah ramalan pengiraan semata-mata, dan ia berkemungkinan mencerminkan aktiviti antihipertensif yang sedia diketahui, bukannya isyarat penggunaan semula yang benar-benar baharu.
 
-Namun, hipertensi malignan ialah kecemasan hipertensi yang biasanya diurus dengan ubat intravena. Skor yang tinggi kemungkinan besar didorong oleh perkaitan umum kelas antihipertensi dan bukannya bukti khusus penyakit ini. Tiada bukti klinikal yang menunjukkan manfaat bisoprolol bagi keadaan ini.
+---
 
 ## Bukti Ujian Klinikal
 
-Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Setakat ini tiada literatur berkaitan.
+Pada masa ini tiada literatur berkaitan yang tersedia.
+
+---
 
 ## Maklumat Pasaran di Malaysia
 
-Bisoprolol fumarate mempunyai pendaftaran yang sah di Malaysia dan berstatus dipasarkan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Jadual lesen disediakan oleh program tapak dan tidak disenaraikan semula di sini.
+Bisoprolol fumarate mempunyai status **Dipasarkan** di Malaysia. Berdasarkan rekod lesen tempatan, 24 lesen produk ingredien tunggal dan 8 lesen produk kombinasi berada dalam status sah, tanpa lesen yang dibatalkan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
+
+Contoh produk ingredien tunggal yang sah:
+
+| Nombor Kebenaran | Nama Produk | Pengilang |
+|---------|------|------|
+| MAL19890389AZ | Concor 5mg Film coated Tablet | Merck Sdn. Bhd. |
+| MAL19890390AZ | Concor 10mg Film coated Tablet | Merck Sdn. Bhd. |
+| MAL20020792AZ | Concor 2.5mg Film Coated Tablet | Merck Sdn. Bhd. |
+| MAL16075026AZ | Bisocor Tablet 5mg | Y.S.P. Industries (M) Sdn. Bhd. |
+| MAL23056039AE | Bisoprovid Film-Coated Tablet 5 mg | Hovid Berhad |
+
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pembungkusan produk untuk maklumat keselamatan.
+Sila rujuk risalah maklumat produk untuk maklumat keselamatan.
+
+Satu nota keselamatan daripada penilaian ramalan: penyekat beta boleh mengurangkan rizab inotropik dan kronotropik ventrikel kanan, jadi berhati-hati diperlukan jika digunakan dalam keadaan yang melibatkan hipertensi pulmonari.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold (Tangguh)**
+**Keputusan: Hold**
 
-**Rasional:**
-Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau penerbitan yang mengkaji penyakit ini secara langsung. Mekanisme yang dicadangkan bersifat tidak langsung, dan hipertensi malignan biasanya diurus dengan agen intravena.
+**Justifikasi:**
+Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau penerbitan yang mengkaji penyakit ini secara langsung. Hubungan mekanisme munasabah tetapi kemungkinan besar hanya mencerminkan kesan antihipertensif sedia ada, dan penyakit sasaran ialah kecemasan yang diurus dengan agen intravena.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA (jurang data yang menghalang pemeriksaan keselamatan)
-- Data mekanisme tindakan (MOA) terperinci
-- Bukti klinikal atau literatur yang mengkaji hipertensi renovaskular malignan secara langsung
-- Penilaian pakar mengenai kesesuaian bisoprolol berbanding agen standard bagi kecemasan hipertensi
+- Risalah maklumat produk NPRA untuk amaran dan kontraindikasi
+- Data mekanisme tindakan terperinci (MOA)
+- Kajian klinikal atau literatur yang mengkaji bisoprolol secara langsung dalam penyakit renal hipertensif malignan
+- Penilaian peranan penyekat beta oral berbanding rawatan intravena standard dalam keadaan ini
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

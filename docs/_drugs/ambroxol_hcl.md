@@ -8,8 +8,8 @@ indication_count: 4
 drugbank_id: DB06742
 monitor_inn: "Ambroxol"
 predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
-last_modified_at: 2026-11-16
-description: "Ambroxol Hcl: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+last_modified_at: 2026-11-17
+description: "Ambroxol Hcl: indikasi baharu diramal penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Ambroxol Hcl
@@ -34,77 +34,63 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-## Ambroxol Hcl: Penyakit rongga hidung (nasal cavity disease)
+## Ambroxol Hcl: penyakit rongga hidung (nasal cavity disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Ambroxol HCl ialah agen mukolitik/sekretolitik yang membantu pembersihan mukus saluran pernafasan. Model TxGNN meramalkan ia mungkin berguna untuk **penyakit rongga hidung (nasal cavity disease)**. Setakat ini terdapat **0 ujian klinikal** dan **1 penerbitan** yang berkaitan secara tidak langsung, dan tiada satu pun mengkaji penyakit rongga hidung secara khusus.
+Ambroxol HCL ialah agen mukolitik/sekretolitik yang telah didaftarkan di Malaysia. Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit rongga hidung (nasal cavity disease)**, tetapi setakat ini tiada percubaan klinikal berdaftar dan hanya **1 penerbitan** yang berkaitan secara tidak langsung (batuk akut), jadi sokongan bukti masih sangat terhad.
 
----
-
-## Gambaran Ringkas
+## Gambaran Keseluruhan
 
 | Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Penyakit rongga hidung (nasal cavity disease) |
+| Indikasi Baharu yang Diramalkan | penyakit rongga hidung (nasal cavity disease) |
 | Skor Ramalan TxGNN | 0.9991 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
-| Keputusan Disyorkan | Tahan |
-
----
+| Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan belum tersedia. Berdasarkan maklumat sedia ada, ambroxol ialah agen mukolitik/sekretolitik yang meningkatkan pembersihan mukosiliari. Ia juga dilaporkan mempunyai kesan anestetik tempatan ringan (penyekatan saluran natrium) dan sifat anti-radang. Secara teori, ciri-ciri ini boleh meredakan lebihan rembesan mukus dan kerengsaan saluran pernafasan atas, jadi ia mungkin berkaitan dengan penyakit rongga hidung.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat umum, ambroxol ialah agen mukolitik/sekretolitik yang meningkatkan pembersihan mukosilia. Ia juga dilaporkan mempunyai kesan anestetik tempatan ringan (penyekatan saluran Nav) dan sifat anti-radang. Kesan ini mungkin relevan kepada keadaan saluran pernafasan atas dan mukosa hidung.
 
-Namun, satu-satunya rekod berkaitan ialah artikel ulasan 2015 tentang rawatan batuk akut. Artikel itu membincangkan gejala pernafasan secara umum, bukan penyakit rongga hidung. Pautan ini oleh itu tidak langsung. Skor TxGNN yang sangat tinggi ialah ramalan pengiraan dan bukan pengesahan klinikal.
+Namun, satu-satunya literatur yang ada membincangkan batuk akut, iaitu indikasi pernafasan yang bersebelahan dan bukan bukti langsung untuk penyakit rongga hidung. Skor TxGNN yang sangat tinggi ialah ramalan berasaskan rangkaian, bukan bukti klinikal. Perkaitan ini bersifat tidak langsung.
 
----
+## Bukti Percubaan Klinikal
 
-## Bukti Ujian Klinikal
-
-Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
-
----
+Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Bukti Literatur
 
 | PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
-| [26525480](https://pubmed.ncbi.nlm.nih.gov/26525480/) | 2015 | Ulasan | Vestnik otorinolaringologii | Membincangkan kemungkinan rawatan baharu untuk batuk akut yang berkaitan dengan influenza dan jangkitan virus pernafasan akut. Tidak mengkaji penyakit rongga hidung secara langsung. |
-
----
+| [26525480](https://pubmed.ncbi.nlm.nih.gov/26525480/) | 2015 | Ulasan | Vestnik otorinolaringologii | Membincangkan batuk akut yang berkaitan dengan influenza dan jangkitan virus pernafasan akut (ARVI), serta pilihan rawatan baharu. Tidak mengkaji penyakit rongga hidung secara langsung. |
 
 ## Maklumat Pasaran di Malaysia
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
-| MAL12050010X | MUCERA Syrup 15mg/5ml | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-
----
+| MAL12050010X | MUCERA Syrup 15mg/5ml | Tidak dicatat | Tidak dicatat |
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pek untuk maklumat keselamatan.
-
----
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
 **Justifikasi:**
-Tiada ujian klinikal atau kajian yang mengkaji penyakit rongga hidung secara langsung, jadi tahap bukti ialah L5 dan ramalan ini baru pada peringkat soalan penyelidikan. Skor model yang tinggi sahaja tidak mencukupi untuk meneruskan.
+Tiada kajian yang meneliti penyakit rongga hidung secara langsung, dan satu-satunya penerbitan hanya berkaitan batuk akut. Skor TxGNN yang tinggi ialah ramalan komputasi dan bukan bukti klinikal, maka ramalan ini kekal sebagai persoalan penyelidikan.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Kajian klinikal atau literatur yang menilai ambroxol secara langsung pada penyakit rongga hidung
-- Data mekanisme tindakan yang terperinci
-- Amaran, kontraindikasi dan maklumat interaksi ubat daripada sisipan pek yang diluluskan
-- Pengesahan bentuk dos dan laluan pemberian yang sesuai untuk indikasi ini
+- Data amaran dan kontraindikasi daripada sisipan pakej NPRA
+- Data mekanisme tindakan (MOA) yang terperinci
+- Kajian klinikal atau literatur yang mengkaji penyakit rongga hidung secara langsung
+- Penilaian kesesuaian laluan pentadbiran (contohnya, sama ada bentuk sirap sesuai untuk indikasi hidung)
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

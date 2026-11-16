@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01118
 monitor_inn: "Amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Amiodarone Hydrochloride: indikasi baharu diramal Takikardia ventrikel polimorfik katekolaminergik (catecholaminergic polymorphic ventricular tachycardia) (tahap bukti L4)."
 ---
 
@@ -39,9 +39,13 @@ Tahap bukti: **L4** | Indikasi diramal: **9**
 
 ## Ringkasan Satu Ayat
 
-Amiodarone ialah ubat antiaritmia yang digunakan untuk merawat gangguan rentak jantung. Model TxGNN meramalkan ia mungkin berguna untuk **takikardia ventrikel polimorfik katekolaminergik (catecholaminergic polymorphic ventricular tachycardia, CPVT)**. Sokongan buat masa ini lemah: **tiada ujian klinikal** berdaftar dan hanya **9 penerbitan** yang ditemui, kebanyakannya laporan kes, kohort kecil dan kajian semula.
+Amiodarone ialah ubat antiaritmia pelbagai saluran yang dipasarkan di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **takikardia ventrikel polimorfik katekolaminergik (catecholaminergic polymorphic ventricular tachycardia, CPVT)**.
+Setakat ini terdapat **0 ujian klinikal** dan **9 penerbitan** yang berkaitan dengan penyakit ini. Penerbitan tersebut kebanyakannya laporan kes dan kohort, dan tiada satu pun menunjukkan manfaat khusus amiodarone.
 
-## Gambaran Keseluruhan
+---
+
+## Gambaran Keseluruhan Pantas
 
 | Perkara | Kandungan |
 |------|------|
@@ -53,61 +57,65 @@ Amiodarone ialah ubat antiaritmia yang digunakan untuk merawat gangguan rentak j
 | Bilangan Pendaftaran | 7 (sah: 7) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
+---
+
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak terdapat dalam data yang dihimpunkan untuk laporan ini. Berdasarkan farmakologi amiodarone yang diketahui, ubat ini menyekat saluran kalium, natrium dan kalsium serta mempunyai kesan antagonis beta-adrenergik. Ciri-ciri ini menjadikannya antiaritmia berspektrum luas.
+Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara farmakologi yang diketahui umum, amiodarone ialah antiaritmia pelbagai saluran. Ia menyekat saluran K⁺, Na⁺ dan Ca²⁺ serta mempunyai kesan sekatan beta-adrenergik. Oleh itu, secara teori ia boleh menekan aritmia ventrikel yang dicetuskan oleh rangsangan adrenergik.
 
-CPVT ialah gangguan rentak jantung turunan yang jarang berlaku. Aritmia ventrikel dicetuskan oleh rangsangan adrenergik, seperti senaman atau tekanan emosi. Kesan anti-adrenergik dan penyekatan saluran ion amiodarone secara teori boleh menekan aritmia yang dicetuskan oleh katekolamin dan dimediasi oleh RYR2 ini.
+CPVT ialah gangguan aritmia diwarisi yang jarang berlaku. Aritmia ventrikel dicetuskan oleh senaman atau tekanan simpatetik. Puncanya ialah kebocoran Ca²⁺ diastolik berkaitan RYR2/CASQ2 dan pasca-depolarisasi lewat. Terapi yang mantap ialah penyekat beta dan flecainide, yang bertindak sebahagiannya pada RyR2. Tiada bukti dalam data ini bahawa amiodarone membetulkan kecacatan teras tersebut.
 
-Namun, ramalan ini masih bersifat teori. Literatur yang diperoleh terhad kepada laporan kes, kohort kecil dan kajian semula. Penyekat beta dan flecainide ialah terapi yang telah mantap untuk CPVT, manakala amiodarone kelihatan digunakan terutamanya sebagai ubat penyelamat dalam kes yang tidak bertindak balas terhadap rawatan lain. Tiada ujian klinikal yang mengkaji amiodarone dalam CPVT dikenal pasti.
+Skor TxGNN yang sangat tinggi (0.9978) ialah ramalan pengiraan sahaja dan bukan bukti klinikal. Dalam literatur yang diperoleh, amiodarone muncul sebagai ubat penyelamat atau ubat latar. Agen yang berkesan ialah flecainide dan penyekat beta. Manfaat khusus amiodarone untuk CPVT tidak dapat disahkan.
+
+---
 
 ## Bukti Ujian Klinikal
 
-Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [35892906](https://pubmed.ncbi.nlm.nih.gov/35892906/) | 2022 | Kajian sistematik | Life (Basel) | Meneliti ciri klinikal, asas genetik dan hasil aritmia pesakit CPVT dari China berbanding negara Barat. |
-| [39076628](https://pubmed.ncbi.nlm.nih.gov/39076628/) | 2022 | Kohort retrospektif | Reviews in Cardiovascular Medicine | Menilai ciri klinikal, asas genetik, penggunaan sumber penjagaan kesihatan dan kos pesakit CPVT di sebuah bandar di China. |
-| [26513538](https://pubmed.ncbi.nlm.nih.gov/26513538/) | 2015 | Kajian semula | Expert Opinion on Pharmacotherapy | Ubat antiaritmia kekal penting untuk penukaran akut dan pencegahan jangka panjang aritmia ventrikel. |
-| [39735866](https://pubmed.ncbi.nlm.nih.gov/39735866/) | 2024 | Laporan kes | Frontiers in Cardiovascular Medicine | Penyelesaian CPVT pada seorang remaja melalui denervasi simpatetik jantung kanan selepas denervasi kiri. |
-| [22553997](https://pubmed.ncbi.nlm.nih.gov/22553997/) | 2012 | Laporan kes | PACE | Flecainide menekan "ribut" aritmia akibat renjatan defibrilator pada kanak-kanak lelaki berusia 14 tahun dengan CPVT. |
-| [29668588](https://pubmed.ncbi.nlm.nih.gov/29668588/) | 2018 | Laporan kes | Medicine | Diagnosis CPVT yang lewat selama 6 tahun pada kanak-kanak berusia 9 tahun dengan mutasi RYR2. |
-| [30116135](https://pubmed.ncbi.nlm.nih.gov/30116135/) | 2018 | Laporan kes | Turk Pediatri Arsivi | CPVT sebagai punca jarang bagi serangan jantung mengejut pada kanak-kanak berusia 2 tahun. |
-| [37852665](https://pubmed.ncbi.nlm.nih.gov/37852665/) | 2023 | Laporan kes | BMJ Case Reports | Kanak-kanak yang terselamat daripada serangan jantung luar hospital dengan VT/VF berulang yang memerlukan pendekatan berbeza daripada garis panduan resusitasi piawai. |
-| [22218697](https://pubmed.ncbi.nlm.nih.gov/22218697/) | 2012 | Laporan kes | Anesthesia and Analgesia | Neonat dengan sindrom QT panjang dan aritmia ventrikel refraktori yang dirawat dengan lidocaine, esmolol dan amiodarone serta pacing ventrikel. |
+| [35892906](https://pubmed.ncbi.nlm.nih.gov/35892906/) | 2022 | Kohort (ulasan sistematik) | Life (Basel) | Ciri klinikal, asas genetik dan hasil aritmia pesakit CPVT dari China berbanding negara Barat |
+| [39076628](https://pubmed.ncbi.nlm.nih.gov/39076628/) | 2022 | Kohort retrospektif | Reviews in Cardiovascular Medicine | Ciri klinikal, genetik, penggunaan sumber penjagaan kesihatan dan kos pesakit CPVT di sebuah bandar di China |
+| [26513538](https://pubmed.ncbi.nlm.nih.gov/26513538/) | 2015 | Ulasan | Expert Opinion on Pharmacotherapy | Kemajuan rawatan farmakologi aritmia ventrikel. Ubat antiaritmia kekal penting untuk penukaran akut dan pencegahan kronik |
+| [39735866](https://pubmed.ncbi.nlm.nih.gov/39735866/) | 2024 | Laporan kes | Frontiers in Cardiovascular Medicine | CPVT remaja diselesaikan melalui denervasi simpatetik jantung kanan selepas denervasi kiri |
+| [22553997](https://pubmed.ncbi.nlm.nih.gov/22553997/) | 2012 | Laporan kes | PACE | Flecainide menekan "ribut" aritmia akibat defibrilator pada budak lelaki 14 tahun dengan CPVT (mutasi kalsekuestrin-2) |
+| [30116135](https://pubmed.ncbi.nlm.nih.gov/30116135/) | 2018 | Laporan kes | Turk Pediatri Arsivi | Sebab jarang henti jantung mengejut pada kanak-kanak 2 tahun, iaitu CPVT |
+| [37852665](https://pubmed.ncbi.nlm.nih.gov/37852665/) | 2023 | Laporan kes | BMJ Case Reports | Kanak-kanak yang terselamat daripada henti jantung luar hospital dengan VT/VF berulang. Menekankan bila perlu menyimpang daripada garis panduan resusitasi standard |
+| [29668588](https://pubmed.ncbi.nlm.nih.gov/29668588/) | 2018 | Laporan kes | Medicine | Diagnosis CPVT lewat selama 6 tahun pada kanak-kanak 9 tahun dengan mutasi RYR2 |
+| [22218697](https://pubmed.ncbi.nlm.nih.gov/22218697/) | 2012 | Laporan kes | Anesthesia & Analgesia | Neonat dengan sindrom QT panjang (bukan CPVT) dan aritmia ventrikel refraktori. Amiodarone digunakan bersama lidocaine dan esmolol, serta pacing ventrikel |
+
+---
 
 ## Maklumat Pasaran di Malaysia
 
-Berikut ialah 5 daripada 7 lesen yang direkodkan, semuanya berstatus sah.
+Semua pendaftaran tempatan produk amiodarone adalah sah dan berasaskan bahan tunggal. Nama produk menunjukkan terdapat bentuk tablet dan suntikan. Teks indikasi diluluskan tidak direkodkan dalam data tempatan.
 
-| Nombor Kelulusan | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL20014330ACZ | AMIOHEXAL 200 | IMEKS PHARMA SDN. BHD. |
-| MAL12010005AZ | AMIODARONE HCL 150mg/3mL INJECTION Bioindustria L.I.M. | MMS PHARMA (MALAYSIA) SDN. BHD. |
-| MAL18086165AZ | MYDRON Amiodarone Hydrochloride Injection 50mg/ml | UNIMED SDN. BHD. |
-| MAL19871890AZ | CORDARONE INJ 150MG (3ML AMP) | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. |
-| MAL19987968ARZ | CORDARONE 200MG | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. |
+---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
+Sila rujuk risalah pakej untuk maklumat keselamatan.
+
+---
 
 ## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Hold (Tahan)**
 
-**Justifikasi:**
-- Skor ramalan tinggi (0.9978), tetapi tiada ujian klinikal dan literatur hanya terdiri daripada laporan kes, kohort kecil dan kajian semula. Tiada satu pun daripadanya menunjukkan keberkesanan amiodarone dalam CPVT.
-- Penyekat beta dan flecainide ialah terapi yang telah mantap. Amiodarone paling banyak berperanan sebagai ubat penyelamat, jadi nilai tambahnya masih belum dibuktikan.
+**Rasional:**
+- Skor TxGNN tinggi, tetapi bukti yang ada hanyalah laporan kes dan kohort mengenai CPVT, tanpa ujian klinikal. Tiada satu pun menunjukkan manfaat khusus amiodarone.
+- Terapi yang mantap (penyekat beta dan flecainide) sudah wujud, dan tiada bukti amiodarone membetulkan mekanisme teras penyakit ini.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
-- Maklumat amaran, kontraindikasi dan interaksi ubat daripada sisipan pakej yang diluluskan NPRA.
-- Data terperinci mengenai mekanisme tindakan (MOA) daripada sumber rujukan ubat.
-- Kajian kohort atau ujian klinikal yang membandingkan amiodarone secara langsung dengan penyekat beta dan flecainide dalam pesakit CPVT, terutamanya kes refraktori.
-- Pelan pemantauan keselamatan untuk populasi khusus seperti kanak-kanak dan remaja, yang merupakan kumpulan utama pesakit CPVT.
+- Semakan teks penuh literatur untuk menilai peranan sebenar amiodarone dalam CPVT, sama ada ubat penyelamat atau ubat latar.
+- Data mekanisme tindakan terperinci untuk menganalisis pautan mekanistik.
+- Maklumat amaran dan kontraindikasi daripada risalah pakej yang diluluskan, bagi membolehkan saringan keselamatan.
+- Pertimbangan ujian klinikal atau data pemerhatian yang membandingkan amiodarone dengan terapi sedia ada dalam CPVT.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

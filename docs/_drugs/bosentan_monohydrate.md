@@ -8,8 +8,8 @@ indication_count: 8
 drugbank_id: DB00559
 monitor_inn: "Bosentan"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
-last_modified_at: 2026-11-16
-description: "Bosentan Monohydrate: indikasi baharu diramal Artritis Reumatoid (rheumatoid arthritis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+last_modified_at: 2026-11-17
+description: "Bosentan Monohydrate: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Bosentan Monohydrate
@@ -34,76 +34,92 @@ Tahap bukti: **L5** | Indikasi diramal: **8**
 
 </div>
 
-## Bosentan Monohydrate: Artritis Reumatoid (rheumatoid arthritis)
+## Bosentan Monohydrate: Artritis reumatoid (rheumatoid arthritis)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Bosentan monohydrate ialah antagonis reseptor endotelin dwi-sasaran (ET-A/ET-B). Model TxGNN meramalkan ia mungkin berkesan untuk **Artritis Reumatoid (rheumatoid arthritis)**. Setakat ini **tiada ujian klinikal berdaftar** dan **tiada kajian yang meneliti kesan bosentan terhadap penyakit sendi artritis reumatoid pada manusia** dalam data yang dikumpulkan untuk laporan ini; sokongan hanya terdiri daripada kajian praklinikal haiwan dan ulasan tentang penyakit tisu penghubung.
+Bosentan monohydrat ialah antagonis reseptor endotelin dwi (ETA/ETB) yang dipasarkan di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **artritis reumatoid (rheumatoid arthritis)**,
+tetapi data yang dikompilasi untuk laporan ini tidak memuatkan **sebarang percubaan klinikal** dan hanya **literatur tidak langsung** (kebanyakannya berkaitan hipertensi arteri pulmonari dalam penyakit tisu penghubung serta kajian pada tikus), jadi bukti masih sangat terhad.
+
+---
 
 ## Gambaran Keseluruhan
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Artritis Reumatoid (rheumatoid arthritis) |
+| Indikasi Baharu yang Diramalkan | Artritis reumatoid (rheumatoid arthritis) |
 | Skor Ramalan TxGNN | 0.9980 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
 | Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
+---
+
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, bosentan tergolong dalam kelas antagonis reseptor endotelin, dan endotelin-1 terlibat dalam keradangan sinovium, angiogenesis dan disfungsi vaskular. Secara biologi, penyekatan reseptor endotelin mungkin relevan kepada artritis reumatoid.
+Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikompilasi. Bosentan diketahui sebagai antagonis reseptor endotelin dwi (ETA/ETB). Endotelin-1 dikaitkan dengan vaskulopati, keradangan sinovium dan fibrosis dalam penyakit tisu penghubung, dan ini menjadi asas kepada hipotesis bahawa menyekat laluan ini mungkin relevan kepada artritis reumatoid.
 
-Namun, kebanyakan literatur yang dikumpulkan berkaitan bosentan dalam hipertensi arteri pulmonari yang berkait dengan penyakit tisu penghubung (CTD-PAH), atau topik yang tidak berkaitan (contohnya model artritis tikus berasaskan IL-17, serta sindrom Eisenmenger bersama artritis idiopati juvana). Tiada satu pun menunjukkan bosentan merawat penyakit sendi artritis reumatoid. Skor TxGNN yang tinggi berkemungkinan mencerminkan kedekatan rangkaian dengan CTD dan PAH, bukan keberkesanan langsung terhadap artritis reumatoid.
+Namun, literatur yang diperoleh kebanyakannya membincangkan hipertensi arteri pulmonari (PAH) yang berkaitan dengan penyakit tisu penghubung, yang mana bosentan digunakan untuk merawat komplikasi vaskular. Ia tidak menunjukkan bahawa bosentan merawat penyakit sendi artritis reumatoid itu sendiri. Bukti ini oleh itu tidak langsung. Skor TxGNN yang sangat tinggi ialah ramalan model sahaja dan tidak disokong oleh percubaan khusus untuk artritis reumatoid.
 
-Satu kajian praklinikal pada tikus (PMID 22249931) melaporkan bosentan memperbaik artritis teraruh kolagen, tetapi ini belum diterjemahkan kepada bukti pada manusia.
+---
 
-## Bukti Ujian Klinikal
+## Bukti Percubaan Klinikal
 
-Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
+
+---
 
 ## Bukti Literatur
 
-Tiada kajian yang meneliti secara langsung kesan bosentan terhadap artritis reumatoid pada manusia. Literatur yang paling berkaitan disenaraikan di bawah.
+Tiada satu pun kajian di bawah menilai bosentan secara langsung pada pesakit artritis reumatoid. Hanya satu kajian praklinikal (tikus) menguji bosentan dalam model artritis.
 
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
-| [22249931](https://pubmed.ncbi.nlm.nih.gov/22249931/) | 2012 | Praklinikal (tikus) | Inflammation Research | Bosentan memperbaik artritis teraruh kolagen; peranan TNF-α dalam induksi gen sistem endotelin |
-| [18515326](https://pubmed.ncbi.nlm.nih.gov/18515326/) | 2008 | Praklinikal (tikus) | Journal of Leukocyte Biology | Endotelin mengawal tindak balas keradangan dalam artritis teraruh zymosan |
-| [16766656](https://pubmed.ncbi.nlm.nih.gov/16766656/) | 2006 | Praklinikal (tikus) | PNAS | Hipernosiseptif keradangan oleh IL-15 dihalang oleh antagonis reseptor endotelin ET-A/ET-B |
-| [19969421](https://pubmed.ncbi.nlm.nih.gov/19969421/) | 2010 | Praklinikal (tikus) | Pain | IL-17 menjadi pengantara hipernosiseptif sendi dalam artritis teraruh antigen (tidak menguji bosentan) |
-| [24268012](https://pubmed.ncbi.nlm.nih.gov/24268012/) | 2014 | Ulasan | Rheumatic Diseases Clinics of North America | Ulasan PAH berkaitan penyakit tisu penghubung |
-| [16218473](https://pubmed.ncbi.nlm.nih.gov/16218473/) | 2005 | Ulasan | Lupus | PAH dalam penyakit tisu penghubung, termasuk artritis reumatoid pada tahap yang lebih rendah |
-| [20054770](https://pubmed.ncbi.nlm.nih.gov/20054770/) | 2009 | Laporan kes | Kardiologia Polska | Sindrom Eisenmenger dirawat bosentan dengan artritis idiopati juvana yang didiagnosis kemudian; bukan bukti kesan terhadap artritis |
+| [22249931](https://pubmed.ncbi.nlm.nih.gov/22249931/) | 2012 | Praklinikal (tikus) | Inflamm Res | Bosentan mengurangkan artritis teraruh kolagen pada tikus; peranan TNF-α dalam induksi gen sistem endotelin |
+| [18515326](https://pubmed.ncbi.nlm.nih.gov/18515326/) | 2008 | Praklinikal (tikus) | J Leukoc Biol | Endotelin mengubah suai tindak balas keradangan dalam artritis teraruh zimosan |
+| [16766656](https://pubmed.ncbi.nlm.nih.gov/16766656/) | 2006 | Praklinikal (tikus) | Proc Natl Acad Sci U S A | Hipernosiseptor akibat IL-15 dihalang oleh antagonis reseptor endotelin dwi |
+| [24268012](https://pubmed.ncbi.nlm.nih.gov/24268012/) | 2014 | Ulasan | Rheum Dis Clin North Am | PAH berkaitan penyakit tisu penghubung: morbiditi tinggi, pilihan rawatan semakin bertambah |
+| [16218473](https://pubmed.ncbi.nlm.nih.gov/16218473/) | 2005 | Ulasan | Lupus | PAH ialah komplikasi penyakit tisu penghubung, termasuk artritis reumatoid pada tahap lebih rendah |
+| [21165350](https://pubmed.ncbi.nlm.nih.gov/21165350/) | 2010 | Ulasan | Can Respir J | Rawatan hipertensi pulmonari dalam penyakit tisu penghubung dengan penyakit paru interstisial |
+| [19487226](https://pubmed.ncbi.nlm.nih.gov/19487226/) | 2009 | Ulasan | Rheumatology (Oxford) | Vaskulopati dan PAH dalam SLE dan sindrom Sjögren |
+| [20054770](https://pubmed.ncbi.nlm.nih.gov/20054770/) | 2009 | Laporan kes | Kardiol Pol | Kanak-kanak dengan sindrom Eisenmenger dirawat dengan bosentan, kemudian didiagnosis artritis reumatoid juvana |
+| [25274237](https://pubmed.ncbi.nlm.nih.gov/25274237/) | 2014 | Laporan kes | Intern Med | Peralihan daripada epoprostenol kepada terapi oral termasuk bosentan pada PAH berkaitan sindrom Sjögren |
+
+---
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|
-| MAL19021007AZ | PROART TABLETS 62.5MG | Tidak direkodkan | Tidak direkodkan |
-| MAL19021008AZ | PROART TABLETS 125MG | Tidak direkodkan | Tidak direkodkan |
-| MAL20041085ACRZ | TRACLEER TABLET 125 MG | Tidak direkodkan | Tidak direkodkan |
-| MAL21016011AZ | Silkay 125mg Tablet | Tidak direkodkan | Tidak direkodkan |
+| MAL19021007AZ | PROART TABLETS 62.5MG | – | – |
+| MAL19021008AZ | PROART TABLETS 125MG | – | – |
+| MAL20041085ACRZ | TRACLEER TABLET 125 MG | – | – |
+| MAL21016011AZ | Silkay 125mg Tablet | – | – |
+
+---
 
 ## Pertimbangan Keselamatan
 
 Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
+---
+
 ## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Hold (Tangguh)**
 
-**Justifikasi:**
-Tiada ujian klinikal dan tiada kajian manusia yang meneliti bosentan terhadap penyakit sendi artritis reumatoid; sokongan terhad kepada data praklinikal tikus dan ulasan tentang CTD-PAH. Oleh itu tahap bukti ialah L5 dan skor TxGNN yang tinggi tidak mencukupi untuk bergerak ke hadapan.
+**Rasional:**
+Tiada percubaan klinikal dan tiada kajian yang menilai bosentan secara langsung dalam artritis reumatoid pada manusia; bukti hanya tidak langsung (PAH dalam penyakit tisu penghubung) dan data tikus. Skor tinggi ialah ramalan model sahaja.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Sisipan pakej NPRA (amaran dan kontraindikasi) untuk saringan keselamatan
-- Data mekanisme tindakan (MOA) yang terperinci
-- Kajian klinikal atau sekurang-kurangnya kajian translasi yang menilai bosentan secara langsung dalam artritis reumatoid
-- Penilaian risiko teratogenisiti dan hepatotoksisiti sebelum sebarang pertimbangan penggunaan baharu
+- Data mekanisme tindakan terperinci daripada sumber rujukan ubat
+- Percubaan klinikal fasa awal khusus untuk artritis reumatoid yang menilai bosentan
+- Penilaian risiko-manfaat, termasuk risiko teratogenik dan hepatotoksisiti, bagi populasi artritis reumatoid
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

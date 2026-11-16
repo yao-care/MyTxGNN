@@ -8,8 +8,8 @@ indication_count: 4
 drugbank_id: DB00542
 monitor_inn: "Benazepril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-11-16
-description: "Benazepril Hydrochloride: indikasi baharu diramal Penyakit renal hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+last_modified_at: 2026-11-17
+description: "Benazepril Hydrochloride: indikasi baharu diramal Penyakit buah pinggang hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5)."
 ---
 
 # Benazepril Hydrochloride
@@ -34,84 +34,92 @@ Tahap bukti: **L5** | Indikasi diramal: **4**
 
 </div>
 
-## Benazepril Hydrochloride: Penyakit renal hipertensif malignan (malignant hypertensive renal disease)
+## Benazepril Hydrochloride: Penyakit buah pinggang hipertensif malignan (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Benazepril hydrochloride ialah perencat ACE yang berfungsi menyekat pembentukan angiotensin II untuk menurunkan tekanan darah.
-Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit renal hipertensif malignan (malignant hypertensive renal disease)**,
-tetapi data yang disusun untuk laporan ini tidak mengandungi sebarang ujian klinikal atau penerbitan yang mengkaji penyakit ini secara langsung, jadi ramalan ini masih bersifat pengiraan semata-mata.
+Benazepril hydrochloride ialah perencat ACE yang digunakan untuk merendahkan tekanan darah.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit buah pinggang hipertensif malignan (malignant hypertensive renal disease)**,
+tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang mengkaji penyakit ini secara langsung, maka ramalan ini berasaskan model sahaja.
 
 ---
 
 ## Gambaran Keseluruhan
 
-| Item | Kandungan |
+| Perkara | Kandungan |
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baharu yang Diramalkan | Penyakit renal hipertensif malignan (malignant hypertensive renal disease) |
+| Indikasi Baharu yang Diramalkan | Penyakit buah pinggang hipertensif malignan (malignant hypertensive renal disease) |
 | Skor Ramalan TxGNN | 0.9965 |
 | Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
-| Keputusan Disyorkan | Hold |
+| Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang disusun. Berdasarkan maklumat sedia ada, benazepril ialah perencat ACE yang menyekat pembentukan angiotensin II, sekali gus menurunkan tekanan darah dan tekanan intraglomerular. Kelas ubat ini lazim digunakan untuk hipertensi dan untuk memperlahankan perkembangan penyakit buah pinggang kronik, maka terdapat kaitan yang munasabah secara biologi dengan penyakit renal hipertensif.
+Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Namun, benazepril tergolong dalam kelas perencat ACE. Secara umum, kelas ini menyekat pembentukan angiotensin II, lalu menurunkan tekanan darah dan tekanan intraglomerulus. Mekanisme ini selari dengan patologi penyakit buah pinggang hipertensif.
 
-Namun, tiada data khusus untuk fenotip hipertensi malignan (dipercepat) disediakan. Skor TxGNN yang tinggi hanyalah ramalan pengiraan. Dalam keadaan akut hipertensi malignan, ejen intravena yang boleh dititrasi dengan cepat juga lazimnya lebih diutamakan berbanding perencat ACE. Bukti tidak langsung daripada kelas ubat menyokong kemungkinan, tetapi bukan syor khusus.
+Walau bagaimanapun, perlu diingat bahawa perencat ACE sememangnya sudah mantap untuk kawalan tekanan darah dan perlindungan buah pinggang secara umum. Ramalan ini lebih mencerminkan penggunaan sedia ada bagi kelas ubat ini, bukannya isyarat penggunaan semula yang benar-benar baharu. Bukti khusus untuk nefropati hipertensif malignan masih perlu dikumpulkan.
 
-Disebabkan tiada kajian yang mengkaji penyakit ini secara langsung, tahap bukti ditetapkan pada L5 (ramalan model sahaja), walaupun penilaian awal dalam data menyebut L4.
+Skor TxGNN yang tinggi (0,9965) ialah ramalan pengiraan sahaja dan bukan bukti klinikal.
+
+---
+
+## Ramalan Lain dalam Senarai
+
+Ramalan lain bagi ubat ini turut berada pada tahap bukti L5 dan berstatus Hold:
+
+| Penyakit Diramalkan | Skor TxGNN | Catatan |
+|------|------|------|
+| Pulmonary hypertension with unclear multifactorial mechanism | 0,9960 | Tiada ujian klinikal atau penerbitan; risiko hipotensi sistemik |
+| Pulmonary hypertension owing to lung disease and/or hypoxia | 0,9960 | Tiga penerbitan yang diperoleh tidak berkaitan dengan benazepril (kajian haiwan ubat herba mengenai fibrosis miokardium dan buah pinggang) |
+| Braddock syndrome | 0,9944 | Tiada hubungan mekanistik yang jelas; tiada bukti klinikal |
 
 ---
 
 ## Bukti Ujian Klinikal
 
-Setakat ini tiada ujian klinikal berkaitan didaftarkan.
+Pada masa ini tiada ujian klinikal berdaftar yang berkaitan.
 
 ---
 
 ## Bukti Literatur
 
-Setakat ini tiada literatur berkaitan tersedia.
+Pada masa ini tiada literatur berkaitan yang tersedia untuk penyakit buah pinggang hipertensif malignan.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
 |---------|------|------|-----------|
-| MAL24066004ARZ | Amtrel (Amlodipine 5mg / Benazepril hydrochloride 10mg) Tablet | Tidak direkodkan | Tidak direkodkan |
+| MAL24066004ARZ | Amtrel (Amlodipine 5mg / Benazepril hydrochloride 10mg) Tablet (produk kombinasi) | Tidak direkodkan | Tidak direkodkan |
 | MAL15020010HA | FORTEKOR® Flavor 5 mg Tablets | Tidak direkodkan | Tidak direkodkan |
-
-Nota: Amtrel ialah produk kombinasi (amlodipine + benazepril), dan lesennya tidak boleh digunakan untuk menggambarkan status kelulusan benazepril sebagai bahan tunggal.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk risalah maklumat produk (package insert) untuk maklumat keselamatan.
-
-Satu perkara umum bagi kelas perencat ACE yang perlu diberi perhatian: dalam stenosis arteri renal dua hala atau stenosis pada buah pinggang tunggal, perencat ACE boleh mencetuskan kecederaan buah pinggang akut. Perkara ini berkaitan terutamanya dengan ramalan lain dalam senarai (hipertensi renovaskular) dan memerlukan penilaian keselamatan khusus sebelum sebarang penilaian lanjut.
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Hold**
+**Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-Tiada ujian klinikal atau literatur yang mengkaji penyakit renal hipertensif malignan secara langsung, dan skor TxGNN 0,9965 ialah ramalan pengiraan sahaja. Tambahan pula, pengurusan akut keadaan ini lazimnya menggunakan ejen intravena yang boleh dititrasi.
+Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau penerbitan yang mengkaji penyakit ini secara langsung. Penggunaan perencat ACE untuk hipertensi dan perlindungan buah pinggang secara umum bukanlah isyarat penggunaan semula yang baharu.
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Data mekanisme tindakan (MOA) yang terperinci
-- Amaran dan kontraindikasi daripada risalah maklumat produk NPRA
-- Kajian klinikal atau pemerhatian yang mengkaji hipertensi malignan dengan penglibatan renal secara langsung
-- Penilaian keselamatan khusus untuk populasi sasaran, termasuk risiko kecederaan buah pinggang
+- Bukti klinikal atau literatur yang mengkaji benazepril secara langsung dalam nefropati hipertensif malignan
+- Amaran, kontraindikasi dan maklumat interaksi ubat daripada sisipan pakej NPRA bagi menilai keselamatan
+- Pengesahan indikasi yang diluluskan bagi setiap lesen tempatan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

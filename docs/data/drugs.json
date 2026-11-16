@@ -356,7 +356,7 @@
     {
       "slug": "aminophylline-anhydrous",
       "name": "Aminophylline Anhydrous",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 9,
       "original_indication": "",
       "predicted_indication": "",
@@ -656,7 +656,7 @@
     {
       "slug": "atorvastatin-calcium",
       "name": "Atorvastatin Calcium",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 4,
       "original_indication": "",
       "predicted_indication": "",
@@ -666,7 +666,7 @@
     {
       "slug": "atorvastatin-calcium-trihydrate",
       "name": "Atorvastatin Calcium Trihydrate",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 4,
       "original_indication": "",
       "predicted_indication": "",
@@ -2216,7 +2216,7 @@
     {
       "slug": "dl-camphor",
       "name": "Dl-Camphor",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 9,
       "original_indication": "",
       "predicted_indication": "",
