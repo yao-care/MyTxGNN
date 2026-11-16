@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-16T08:59:40.399981",
+  "fetched": "2026-11-16T19:29:19.449700",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 10,
   "items": [
     {
       "title": "Health Reforms Can’t Wait: Ring-Fence Funds For Innovative Medicines And Build Rare Disease Capacity In Budget 2027 — Jeremy Ang",
@@ -112,36 +112,6 @@
       "keywords_matched": [
         "health",
         "doctor"
-      ]
-    },
-    {
-      "title": "Missing Penang doctor, 74, found dead after going missing off Tanjung Bungah",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/16/missing-penang-doctor-74-found-dead-after-going-missing-off-tanjung-bungah/243482",
-      "source": "Malay Mail",
-      "published": "2026-11-16T06:45:57",
-      "summary": "GEORGE TOWN, Nov 16 — An elderly man who went missing while windsurfing off Tanjung Bungah here yesterday was foun...",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Govt commits RM10.6m to Long Lellang STOLport safety works after fatal Flying Doctor Service crash",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/16/govt-commits-rm106m-to-long-lellang-stolport-safety-works-after-fatal-flying-doctor-service-crash/243470",
-      "source": "Malay Mail",
-      "published": "2026-11-16T06:38:05",
-      "summary": "KUALA LUMPUR, Nov 16 — The government has allocated RM10.615 million to upgrade infrastructure and facilities at t...",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Dr Dzul: Nutrition Bill to regulate unhealthy food marketing, targeted for 2027 tabling",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/16/dr-dzul-nutrition-bill-to-regulate-unhealthy-food-marketing-targeted-for-2027-tabling/243449",
-      "source": "Malay Mail",
-      "published": "2026-11-16T03:45:28",
-      "summary": "KUALA LUMPUR, Nov 16 — The Ministry of Health plans to introduce legislation that would regulate the marketing of...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
