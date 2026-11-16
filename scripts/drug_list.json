@@ -1,7 +1,21 @@
 {
-  "total": 577,
-  "generated_at": "2026-11-16T04:37:53.082362",
+  "total": 617,
+  "generated_at": "2026-11-16T21:36:13.851138",
   "drugs": [
+    {
+      "name": "Abacavir Sulfate",
+      "file": "abacavir_sulfate.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": "",
+      "inn": "Abacavir",
+      "predicted_indications": [
+        "simian immunodeficiency virus infection",
+        "feline acquired immunodeficiency syndrome",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      ],
+      "approved_indication": ""
+    },
     {
       "name": "Acarbose",
       "file": "acarbose.md",
@@ -287,6 +301,26 @@
       "approved_indication": ""
     },
     {
+      "name": "Alectinib Hydrochloride",
+      "file": "alectinib_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Alectinib",
+      "predicted_indications": [
+        "fibromatosis, gingival",
+        "fibroma of lung",
+        "hamartoma of lung",
+        "lung benign neoplasm",
+        "pulmonary sulcus neoplasm",
+        "lung germ cell tumor",
+        "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome",
+        "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia",
+        "junctional epidermolysis bullosa"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Alfacalcidol",
       "file": "alfacalcidol.md",
       "evidence_level": "L5",
@@ -299,6 +333,18 @@
         "renal tubular acidosis"
       ],
       "approved_indication": "hyperparathyroidism; osteitis fibrosa; hypoparathyroidism; renal osteodystrophy"
+    },
+    {
+      "name": "Alfentanil Hydrochloride",
+      "file": "alfentanil_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "",
+      "inn": "Alfentanil",
+      "predicted_indications": [
+        "nephrogenic syndrome of inappropriate antidiuresis"
+      ],
+      "approved_indication": ""
     },
     {
       "name": "Alfuzosin",
@@ -409,6 +455,26 @@
       "approved_indication": ""
     },
     {
+      "name": "Alverine Citrate",
+      "file": "alverine_citrate.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Alverine",
+      "predicted_indications": [
+        "dysthymic disorder",
+        "neurotic disorder",
+        "anxiety disorder",
+        "migraine disorder",
+        "neurotic depression",
+        "melancholia",
+        "benign paroxysmal torticollis of infancy",
+        "agoraphobia",
+        "congenital isolated adrenocorticotropic hormone deficiency (disease)"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Amantadine",
       "file": "amantadine.md",
       "evidence_level": "L5",
@@ -440,6 +506,36 @@
       "approved_indication": "pulmonary arterial hypertension"
     },
     {
+      "name": "Ambroxol Hcl",
+      "file": "ambroxol_hcl.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Ambroxol",
+      "predicted_indications": [
+        "nasal cavity disease",
+        "vulvovaginal candidiasis",
+        "faucial diphtheria",
+        "cervical disc degenerative disorder"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Ambroxol Hydrochloride",
+      "file": "ambroxol_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Ambroxol",
+      "predicted_indications": [
+        "nasal cavity disease",
+        "vulvovaginal candidiasis",
+        "faucial diphtheria",
+        "cervical disc degenerative disorder"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Amikacin",
       "file": "amikacin.md",
       "evidence_level": "L5",
@@ -459,6 +555,122 @@
         "meningococcemia"
       ],
       "approved_indication": "bacterial pneumonia; Pseudomonas aeruginosa infectious disease; cholangitis; suppurative cholangitis; sclerosing cholangitis; IgG4-related sclerosing cholangitis; bacterial meningitis; viral meningitis; pneumonia caused by gram negative bacteria; rhinoscleroma; arthropathy; bacterial arthritis; escherichia coli infection; staphylococcal pneumonia; Escherichia coli meningitis"
+    },
+    {
+      "name": "Amiloride Hydrochloride",
+      "file": "amiloride_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "predicted_indication": "",
+      "inn": "Amiloride",
+      "predicted_indications": [
+        "malignant hypertensive renal disease",
+        "pulmonary hypertension with unclear multifactorial mechanism",
+        "pulmonary hypertension owing to lung disease and/or hypoxia",
+        "Braddock syndrome",
+        "chronic pulmonary heart disease"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Aminophylline Anhydrous",
+      "file": "aminophylline_anhydrous.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Aminophylline",
+      "predicted_indications": [
+        "migraine disorder",
+        "migraine with brainstem aura",
+        "atrophoderma vermiculata",
+        "ulerythema ophryogenesis",
+        "Prinzmetal angina",
+        "pulmonary hypertension",
+        "sciatic neuropathy",
+        "hyperthyroidism",
+        "kyphoscoliotic heart disease"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Aminophylline Dihydrate",
+      "file": "aminophylline_dihydrate.md",
+      "evidence_level": "L4",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Aminophylline",
+      "predicted_indications": [
+        "migraine disorder",
+        "migraine with brainstem aura",
+        "atrophoderma vermiculata",
+        "ulerythema ophryogenesis",
+        "Prinzmetal angina",
+        "pulmonary hypertension",
+        "sciatic neuropathy",
+        "hyperthyroidism",
+        "kyphoscoliotic heart disease"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Amiodarone Hydrochloride",
+      "file": "amiodarone_hydrochloride.md",
+      "evidence_level": "L4",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Amiodarone",
+      "predicted_indications": [
+        "catecholaminergic polymorphic ventricular tachycardia",
+        "incessant infant ventricular tachycardia",
+        "obsolete bundle branch block",
+        "rheumatoid arthritis",
+        "brachydactyly-syndactyly syndrome",
+        "heparin cofactor 2 deficiency",
+        "trichotillomania",
+        "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+        "gout"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Amlodipine Besilate",
+      "file": "amlodipine_besilate.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Amlodipine",
+      "predicted_indications": [
+        "brain stem infarction",
+        "pulmonary hypertension owing to lung disease and/or hypoxia",
+        "pulmonary hypertension with unclear multifactorial mechanism",
+        "malignant hypertensive renal disease",
+        "cerebral artery occlusion",
+        "Braddock syndrome",
+        "MRI defined brain infarct",
+        "ABri amyloidosis",
+        "intracerebral hemorrhage"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Amlodipine Besylate",
+      "file": "amlodipine_besylate.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Amlodipine",
+      "predicted_indications": [
+        "brain stem infarction",
+        "pulmonary hypertension owing to lung disease and/or hypoxia",
+        "pulmonary hypertension with unclear multifactorial mechanism",
+        "malignant hypertensive renal disease",
+        "cerebral artery occlusion",
+        "Braddock syndrome",
+        "MRI defined brain infarct",
+        "ABri amyloidosis",
+        "intracerebral hemorrhage"
+      ],
+      "approved_indication": ""
     },
     {
       "name": "Ammonium Chloride",
@@ -601,6 +813,20 @@
       "approved_indication": ""
     },
     {
+      "name": "Antazoline Hydrochloride",
+      "file": "antazoline_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": "",
+      "inn": "Antazoline",
+      "predicted_indications": [
+        "recalcitrant atopic dermatitis",
+        "IgE responsiveness, atopic",
+        "nasal cavity disease"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Apixaban",
       "file": "apixaban.md",
       "evidence_level": "L5",
@@ -705,6 +931,21 @@
       "approved_indication": ""
     },
     {
+      "name": "Articaine Hydrochloride",
+      "file": "articaine_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Articaine",
+      "predicted_indications": [
+        "gout",
+        "exostosis",
+        "allergic asthma",
+        "intrinsic asthma"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Ascorbic Acid",
       "file": "ascorbic_acid.md",
       "evidence_level": "L5",
@@ -721,6 +962,26 @@
         "perinatal disease",
         "florid cemento-osseous dysplasia",
         "disease by subcellular system affected"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Asenapine Maleate",
+      "file": "asenapine_maleate.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Asenapine",
+      "predicted_indications": [
+        "retinal dystrophy with or without extraocular anomalies",
+        "congenital disorder of glycosylation with defective fucosylation",
+        "hydranencephaly (disease)",
+        "syndromic myopia",
+        "myopia X-linked",
+        "Charcot-Marie-Tooth disease, demyelinating, type 1G",
+        "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis",
+        "myopia 26, X-linked, female-limited",
+        "atypical glycine encephalopathy"
       ],
       "approved_indication": ""
     },
@@ -758,6 +1019,39 @@
       "approved_indication": ""
     },
     {
+      "name": "Aspirin",
+      "file": "aspirin.md",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "predicted_indication": "",
+      "inn": "Acetylsalicylic acid",
+      "predicted_indications": [
+        "atrophoderma vermiculata",
+        "ulerythema ophryogenesis",
+        "heparin cofactor 2 deficiency",
+        "factor 5 excess with spontaneous thrombosis",
+        "antithrombin deficiency type 2",
+        "trigeminal autonomic cephalalgia",
+        "thrombophilia"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Atazanavir Sulfate",
+      "file": "atazanavir_sulfate.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Atazanavir",
+      "predicted_indications": [
+        "feline acquired immunodeficiency syndrome",
+        "simian immunodeficiency virus infection",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
+        "obsolete familial combined hyperlipidemia"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Atenolol",
       "file": "atenolol.md",
       "evidence_level": "L5",
@@ -789,6 +1083,36 @@
         "intestinal variant cervical mucinous adenocarcinoma"
       ],
       "approved_indication": "transitional cell carcinoma"
+    },
+    {
+      "name": "Atorvastatin Calcium",
+      "file": "atorvastatin_calcium.md",
+      "evidence_level": "L2",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Atorvastatin",
+      "predicted_indications": [
+        "HIV infectious disease",
+        "brain stem infarction",
+        "cholesterol-ester transfer protein deficiency",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Atorvastatin Calcium Trihydrate",
+      "file": "atorvastatin_calcium_trihydrate.md",
+      "evidence_level": "L2",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Atorvastatin",
+      "predicted_indications": [
+        "HIV infectious disease",
+        "brain stem infarction",
+        "cholesterol-ester transfer protein deficiency",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      ],
+      "approved_indication": ""
     },
     {
       "name": "Atosiban",
@@ -864,6 +1188,21 @@
         "kidney pelvis sarcomatoid transitional cell carcinoma"
       ],
       "approved_indication": "cutaneous neuroendocrine carcinoma"
+    },
+    {
+      "name": "Avibactam Sodium",
+      "file": "avibactam_sodium.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Avibactam",
+      "predicted_indications": [
+        "ureter tuberculosis",
+        "urinary schistosomiasis",
+        "hyperamylasemia",
+        "polyclonal hyperviscosity syndrome"
+      ],
+      "approved_indication": ""
     },
     {
       "name": "Axitinib",
@@ -1011,6 +1350,42 @@
       "approved_indication": "systemic lupus erythematosus (disease); pediatric systemic lupus erythematosus"
     },
     {
+      "name": "Benazepril Hydrochloride",
+      "file": "benazepril_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Benazepril",
+      "predicted_indications": [
+        "malignant hypertensive renal disease",
+        "pulmonary hypertension with unclear multifactorial mechanism",
+        "pulmonary hypertension owing to lung disease and/or hypoxia",
+        "Braddock syndrome"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Bendamustine Hydrochloride",
+      "file": "bendamustine_hydrochloride.md",
+      "evidence_level": "L1",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "inn": "Bendamustine",
+      "predicted_indications": [
+        "mantle cell lymphoma",
+        "chronic myelogenous leukemia, BCR-ABL1 positive",
+        "Hodgkins lymphoma",
+        "small intestinal Burkitt lymphoma",
+        "small intestinal mucosa-associated lymphoid tissue lymphoma",
+        "thyroid gland mucosa-associated lymphoid tissue lymphoma",
+        "breast mucosa-associated lymphoid tissue lymphoma",
+        "tonsillar lymphoma",
+        "MALT lymphoma",
+        "relapsing-remitting multiple sclerosis"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Benralizumab",
       "file": "benralizumab.md",
       "evidence_level": "L5",
@@ -1083,6 +1458,18 @@
         "2-hydroxyethyl methacrylate sensitization",
         "acrodermatitis chronica atrophicans",
         "acne keloid"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Benzydamine Hydrochloride",
+      "file": "benzydamine_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "",
+      "inn": "Benzydamine",
+      "predicted_indications": [
+        "benign prostatic hyperplasia (disease)"
       ],
       "approved_indication": ""
     },
@@ -1179,6 +1566,56 @@
         "gastroparesis (disease)"
       ],
       "approved_indication": "nutritional biotin deficiency"
+    },
+    {
+      "name": "Bisoprolol Fumarate",
+      "file": "bisoprolol_fumarate.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Bisoprolol",
+      "predicted_indications": [
+        "malignant hypertensive renal disease",
+        "pulmonary hypertension owing to lung disease and/or hypoxia",
+        "pulmonary hypertension with unclear multifactorial mechanism",
+        "Braddock syndrome"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Bleomycin Sulfate",
+      "file": "bleomycin_sulfate.md",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "predicted_indication": "",
+      "inn": "Bleomycin",
+      "predicted_indications": [
+        "cauda equina neoplasm",
+        "adult astrocytic tumour",
+        "primary pulmonary lymphoma",
+        "pulmonary blastoma",
+        "well-differentiated fetal adenocarcinoma of the lung"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Bosentan Monohydrate",
+      "file": "bosentan_monohydrate.md",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "predicted_indication": "",
+      "inn": "Bosentan",
+      "predicted_indications": [
+        "rheumatoid arthritis",
+        "brachydactyly-syndactyly syndrome",
+        "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+        "pseudoxanthoma elasticum, forme fruste",
+        "kyphoscoliotic heart disease",
+        "elastoma",
+        "gout",
+        "hypertrichosis (disease)"
+      ],
+      "approved_indication": ""
     },
     {
       "name": "Brentuximab Vedotin",
@@ -2945,6 +3382,22 @@
       "approved_indication": "peptic ulcer disease; gastroesophageal reflux disease; esophagitis (disease); peptic esophagitis"
     },
     {
+      "name": "Dexmedetomidine Hydrochloride",
+      "file": "dexmedetomidine_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "predicted_indication": "",
+      "inn": "Dexmedetomidine",
+      "predicted_indications": [
+        "nephrogenic syndrome of inappropriate antidiuresis",
+        "migraine disorder",
+        "migraine with brainstem aura",
+        "headache disorder",
+        "trigeminal autonomic cephalalgia"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Dexpanthenol",
       "file": "dexpanthenol.md",
       "evidence_level": "L5",
@@ -2977,6 +3430,22 @@
         "allergic urticaria"
       ],
       "approved_indication": "allergic rhinitis; vasomotor rhinitis; pharyngitis; common cold; rhinitis; nasopharyngitis; headache disorder"
+    },
+    {
+      "name": "Dextromethorphan Hbr",
+      "file": "dextromethorphan_hbr.md",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "predicted_indication": "",
+      "inn": "Dextromethorphan",
+      "predicted_indications": [
+        "nasal cavity disease",
+        "faucial diphtheria",
+        "trigeminal autonomic cephalalgia",
+        "cervical disc degenerative disorder",
+        "allergic urticaria"
+      ],
+      "approved_indication": ""
     },
     {
       "name": "Diazepam",
@@ -3034,6 +3503,19 @@
       "approved_indication": ""
     },
     {
+      "name": "Dicyclomine Hydrochloride",
+      "file": "dicyclomine_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": "",
+      "inn": "Dicyclomine",
+      "predicted_indications": [
+        "cauda equina syndrome",
+        "obsolete neurogenic bladder (disease)"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Dienogest",
       "file": "dienogest.md",
       "evidence_level": "L5",
@@ -3071,6 +3553,25 @@
       "approved_indication": "atrial fibrillation (disease); digitalis poisoning"
     },
     {
+      "name": "Dihydrocodeine Tartrate",
+      "file": "dihydrocodeine_tartrate.md",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "predicted_indication": "",
+      "inn": "Dihydrocodeine",
+      "predicted_indications": [
+        "nasal cavity disease",
+        "allergic urticaria",
+        "papillary conjunctivitis",
+        "faucial diphtheria",
+        "cervical disc degenerative disorder",
+        "headache disorder",
+        "cold urticaria",
+        "trigeminal autonomic cephalalgia"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Dimenhydrinate",
       "file": "dimenhydrinate.md",
       "evidence_level": "L5",
@@ -3096,6 +3597,71 @@
       "approved_indication": ""
     },
     {
+      "name": "Diphenhydramine Hcl",
+      "file": "diphenhydramine_hcl.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "",
+      "inn": "Diphenhydramine",
+      "predicted_indications": [
+        "rosacea conjunctivitis"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Diphenhydramine Hydrochloride",
+      "file": "diphenhydramine_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "",
+      "inn": "Diphenhydramine",
+      "predicted_indications": [
+        "rosacea conjunctivitis"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Dl-Camphor",
+      "file": "dl-camphor.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Camphor",
+      "predicted_indications": [
+        "migraine disorder",
+        "migraine with brainstem aura",
+        "erectile dysfunction (disease)",
+        "pulmonary hypertension",
+        "kyphoscoliotic heart disease",
+        "ulerythema ophryogenesis",
+        "Raynaud disease",
+        "atrophoderma vermiculata",
+        "Tourette syndrome"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Dobutamine Hydrochloride",
+      "file": "dobutamine_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "inn": "Dobutamine",
+      "predicted_indications": [
+        "alopecia",
+        "hypotrichosis simplex of the scalp",
+        "congenital hypotrichosis milia",
+        "diffuse alopecia areata",
+        "open-angle glaucoma",
+        "Raynaud disease",
+        "primary hereditary glaucoma",
+        "headache disorder",
+        "hypertrichosis (disease)",
+        "migraine disorder"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Docetaxel",
       "file": "docetaxel.md",
       "evidence_level": "L2",
@@ -3112,6 +3678,19 @@
         "parameningeal embryonal rhabdomyosarcoma"
       ],
       "approved_indication": "non-small cell lung carcinoma (disease); lung cancer; prostate cancer; familial prostate carcinoma; prostate carcinoma; head and neck cancer; upper aerodigestive tract neoplasm; gastric cancer; gastric neoplasm; diffuse gastric adenocarcinoma; gastric linitis plastica; gastric carcinoma; breast carcinoma; breast neoplasm"
+    },
+    {
+      "name": "Docusate Sodium",
+      "file": "docusate_sodium.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": "",
+      "inn": "Docusate",
+      "predicted_indications": [
+        "Plummer-Vinson syndrome",
+        "vitamin B12- and folate-independent constitutional megaloblastic anemia"
+      ],
+      "approved_indication": ""
     },
     {
       "name": "Dolutegravir",
@@ -5611,6 +6190,21 @@
       "approved_indication": "postmenopausal osteoporosis; osteoporosis"
     },
     {
+      "name": "Levothyroxine Sodium",
+      "file": "levothyroxine_sodium.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Levothyroxine",
+      "predicted_indications": [
+        "renal hypodysplasia/aplasia",
+        "bilateral renal agenesis",
+        "Potter sequence",
+        "Carney complex"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Lidocaine",
       "file": "lidocaine.md",
       "evidence_level": "L5",
@@ -5630,6 +6224,20 @@
         "sporadic idiopathic steroid-resistant nephrotic syndrome"
       ],
       "approved_indication": "dermatitis; neuralgia; Pthirus pubis infestation; Pediculus humanus capitis infestation; hemorrhoid; urethritis (disease); premature ejaculation (disease); psychologic dyspareunia; postherpetic neuralgia; scabies; Norwegian scabies; mite infestation"
+    },
+    {
+      "name": "Lincomycin Hydrochloride",
+      "file": "lincomycin_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": "",
+      "inn": "Lincomycin",
+      "predicted_indications": [
+        "polyclonal hyperviscosity syndrome",
+        "hyperamylasemia",
+        "congenital analbuminemia"
+      ],
+      "approved_indication": ""
     },
     {
       "name": "Lisinopril",
@@ -7265,6 +7873,38 @@
       "approved_indication": "atopic eczema; dermatitis, atopic"
     },
     {
+      "name": "Pinaverium Bromide",
+      "file": "pinaverium_bromide.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "",
+      "inn": "Pinaverium",
+      "predicted_indications": [
+        "benign prostatic hyperplasia (disease)"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Pioglitazone Hydrochloride",
+      "file": "pioglitazone_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Pioglitazone",
+      "predicted_indications": [
+        "opsismodysplasia",
+        "focal stiff limb syndrome",
+        "classic stiff person syndrome",
+        "thiamine-responsive dysfunction syndrome",
+        "drug-induced localized lipodystrophy",
+        "centrifugal lipodystrophy",
+        "pressure-induced localized lipoatrophy",
+        "idiopathic localized lipodystrophy",
+        "pancreatic agenesis"
+      ],
+      "approved_indication": ""
+    },
+    {
       "name": "Piperacillin",
       "file": "piperacillin.md",
       "evidence_level": "L5",
@@ -7352,6 +7992,20 @@
         "HIV infectious disease",
         "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
         "feline acquired immunodeficiency syndrome"
+      ],
+      "approved_indication": ""
+    },
+    {
+      "name": "Pitolisant Hydrochloride",
+      "file": "pitolisant_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": "",
+      "inn": "Pitolisant",
+      "predicted_indications": [
+        "insomnia (disease)",
+        "attention deficit-hyperactivity disorder",
+        "faciodigitogenital syndrome"
       ],
       "approved_indication": ""
     },

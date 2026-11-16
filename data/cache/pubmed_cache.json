@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-11-16T04:53:47.092169",
+  "last_check": "2026-11-16T21:55:18.241204",
   "seen_pmids": {
     "Abemaciclib": [
       "42858629",
@@ -9490,6 +9490,9 @@
     ],
     "Tiotropium": [
       "42914145"
+    ],
+    "Bendamustine Hydrochloride": [
+      "43016696"
     ]
   }
 }
