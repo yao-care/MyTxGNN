@@ -1,56 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/lidocaine-hydrochloride/
 sitemap: false
-layout: default
-title: Lidocaine Hydrochloride
-parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
-nav_order: 461
-last_modified_at: 2026-10-30
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Lidocaine Hydrochloride
-{: .fs-9 }
-
-Tahap bukti: **N/A** | Indikasi diramal: **0** 
-{: .fs-6 .fw-300 }
-
----
-
-## Isi kandungan
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## Laporan penilaian ahli farmasi
-
-</div>
-
-## Lidocaine Hydrochloride
-{: .text-alpha }
-
-## Gambaran Pantas
-
-| Item | Kandungan |
-|------|-----------|
-| Petunjuk Asli | Anestesi lokal; aritmia ventrikel (berdasarkan pengetahuan klinikal yang ditubuhkan; tiada teks petunjuk yang diluluskan diambil) |
-| Petunjuk Baru yang Diramalkan | T/A — tiada ramalan yang dijana |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 19 daripada 19) |
-| Bilangan Pendaftaran | 19 (sah: 19) |
-
----
-
-## Penafian
-
-Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
-Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/lidocaine/">
+<meta http-equiv="refresh" content="0; url=/drugs/lidocaine/">
+<script>location="/drugs/lidocaine/"</script>
+<a href="/drugs/lidocaine/">/drugs/lidocaine/</a>
+</html>

@@ -1,56 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/azithromycin-dihydrate/
 sitemap: false
-layout: default
-title: Azithromycin Dihydrate
-parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
-nav_order: 118
-last_modified_at: 2026-11-06
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Azithromycin Dihydrate
-{: .fs-9 }
-
-Tahap bukti: **N/A** | Indikasi diramal: **0** 
-{: .fs-6 .fw-300 }
-
----
-
-## Isi kandungan
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## Laporan penilaian ahli farmasi
-
-</div>
-
-## Azithromycin Dihydrate
-{: .text-alpha }
-
-## Gambaran Pantas
-
-| Item | Kandungan |
-|------|---------|
-| Petunjuk Asal | Tidak direkodkan dalam data tempatan |
-| Petunjuk Baru Diramalkan | **Tiada** — TxGNN tidak mengembalikan sebarang ramalan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 44 daripada 45) |
-| Bilangan Pendaftaran | 45 (sah: 44) |
-
----
-
-## Penafian
-
-Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
-Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/azithromycin/">
+<meta http-equiv="refresh" content="0; url=/drugs/azithromycin/">
+<script>location="/drugs/azithromycin/"</script>
+<a href="/drugs/azithromycin/">/drugs/azithromycin/</a>
+</html>

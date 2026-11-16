@@ -1,54 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/bedaquiline-fumarate/
 sitemap: false
-layout: default
-title: Bedaquiline Fumarate
-parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
-nav_order: 127
-last_modified_at: 2026-10-30
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+search_exclude: true
+nav_exclude: true
 ---
-
-# Bedaquiline Fumarate
-{: .fs-9 }
-
-Tahap bukti: **N/A** | Indikasi diramal: **0** 
-{: .fs-6 .fw-300 }
-
----
-
-## Isi kandungan
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## Laporan penilaian ahli farmasi
-
-</div>
-
-## Bedaquiline Fumarate
-{: .text-alpha }
-
-## Gambaran Pantas
-
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asal | Tidak direkodkan dalam data tempatan |
-| Indikasi Baru yang Diramalkan | **Tiada** — TxGNN tidak mengembalikan sebarang ramalan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
-| Bilangan Pendaftaran | 1 (sah: 1) |
-
-## Penafian
-
-Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
-Pengesahan klinikal diperlukan sebelum sebarang aplikasi klinikal.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/bedaquiline/">
+<meta http-equiv="refresh" content="0; url=/drugs/bedaquiline/">
+<script>location="/drugs/bedaquiline/"</script>
+<a href="/drugs/bedaquiline/">/drugs/bedaquiline/</a>
+</html>
