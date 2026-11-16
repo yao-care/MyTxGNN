@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "articaine-hydrochloride-exostosis",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/articaine-hydrochloride"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "exostosis"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN deep learning model"
+    }
+  ]
+}

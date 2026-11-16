@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "levothyroxine-sodium-renal-hypodysplasia-aplasia",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/levothyroxine-sodium"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "renal hypodysplasia/aplasia"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN deep learning model"
+    }
+  ]
+}

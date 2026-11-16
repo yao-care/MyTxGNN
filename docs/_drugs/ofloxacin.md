@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Ofloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-16
 description: "Ofloxacin: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -52,8 +52,8 @@ Namun, **tiada ujian klinikal** dan **tiada penerbitan** yang mengkaji penyakit 
 | Indikasi Baharu yang Diramalkan | Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) |
 | Skor Ramalan TxGNN | 0.9991 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 143 daripada 148; status tidak dapat disahkan: 2) |
-| Bilangan Pendaftaran | 148 (sah: 143; status tidak dapat disahkan: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 142 daripada 148; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 148 (sah: 142; status tidak dapat disahkan: 2) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---

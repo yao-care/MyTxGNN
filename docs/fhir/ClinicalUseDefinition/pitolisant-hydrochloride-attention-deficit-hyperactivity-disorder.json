@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "pitolisant-hydrochloride-attention-deficit-hyperactivity-disorder",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/pitolisant-hydrochloride"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "attention deficit-hyperactivity disorder"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN deep learning model"
+    }
+  ]
+}

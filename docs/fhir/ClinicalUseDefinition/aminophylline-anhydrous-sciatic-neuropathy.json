@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "aminophylline-anhydrous-sciatic-neuropathy",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/aminophylline-anhydrous"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "sciatic neuropathy"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L4"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN deep learning model"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "pioglitazone-hydrochloride-drug-induced-localized-lipodystrophy",
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/pioglitazone-hydrochloride"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "drug-induced localized lipodystrophy"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://mytxgnn.yao.care/fhir/StructureDefinition/source",
+      "valueString": "TxGNN deep learning model"
+    }
+  ]
+}
