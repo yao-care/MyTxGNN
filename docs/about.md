@@ -125,6 +125,14 @@ Platform ini menggabungkan pelbagai sumber data awam termasuk ramalan AI, ujian 
 
 ---
 
+## Muat Turun Dataset
+
+<p class="key-answer" data-question="Di mana saya boleh muat turun set data ramalan penggunaan semula ubat secara percuma?">
+Set data ramalan dan kod sumber platform ini disiarkan secara terbuka di repositori GitHub awam <a href="https://github.com/yao-care/MyTxGNN">github.com/yao-care/MyTxGNN</a>, bersama data pendaftaran ubat NPRA asal daripada <a href="https://data.gov.my/">data.gov.my</a>. Semua ramalan yang dipaparkan di laman ini berasaskan data terbuka tersebut dan boleh diakses tanpa caj.
+</p>
+
+---
+
 ## Skala Projek
 
 | Item | Jumlah |
