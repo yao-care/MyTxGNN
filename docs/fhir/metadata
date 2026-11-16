@@ -6,9 +6,9 @@
   "name": "MyTxGNNFHIRServer",
   "title": "Laporan Penggunaan Semula Ubat MyTxGNN - Pelayan FHIR",
   "status": "active",
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "publisher": "MyTxGNN Project",
-  "description": "Malaysia drug repurposing predictions using TxGNN. Contains 601 drugs and 3432 predicted indications.",
+  "description": "Malaysia drug repurposing predictions using TxGNN. Contains 639 drugs and 3634 predicted indications.",
   "kind": "instance",
   "fhirVersion": "4.0.1",
   "format": [
@@ -43,15 +43,15 @@
       "extension": [
         {
           "url": "MedicationKnowledge",
-          "valueInteger": 601
+          "valueInteger": 639
         },
         {
           "url": "ClinicalUseDefinition",
-          "valueInteger": 3432
+          "valueInteger": 3634
         },
         {
           "url": "countedAt",
-          "valueDate": "2026-11-15"
+          "valueDate": "2026-11-16"
         }
       ]
     }
