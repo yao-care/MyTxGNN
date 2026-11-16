@@ -190,6 +190,7 @@
       "page": "adalimumab",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -376,6 +377,7 @@
     "db00110": {
       "page": "palivizumab",
       "sources": [
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -472,6 +474,7 @@
     "db00125": {
       "page": "arginine",
       "sources": [
+        "BrTxGNN",
         "CaTxGNN",
         "HkTxGNN",
         "UkTxGNN",
@@ -517,6 +520,7 @@
     "db00134": {
       "page": "methionine",
       "sources": [
+        "BrTxGNN",
         "CaTxGNN",
         "HkTxGNN",
         "UkTxGNN",
@@ -830,6 +834,7 @@
         "FITxGNN",
         "HkTxGNN",
         "InTxGNN",
+        "KrTxGNN",
         "NOTxGNN",
         "NZTxGNN",
         "SATxGNN",
@@ -1081,6 +1086,7 @@
       "page": "cabergoline",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -1530,6 +1536,7 @@
         "HkTxGNN",
         "ITTxGNN",
         "InTxGNN",
+        "KrTxGNN",
         "SATxGNN",
         "SgTxGNN",
         "UkTxGNN",
@@ -1628,6 +1635,7 @@
       "page": "levonorgestrel",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -2097,6 +2105,7 @@
       "page": "lenalidomide",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -2265,22 +2274,6 @@
         "ZaTxGNN"
       ]
     },
-    "db00514": {
-      "page": "dextromethorphan",
-      "sources": [
-        "ARTxGNN",
-        "CHTxGNN",
-        "COTxGNN",
-        "CaTxGNN",
-        "ESTxGNN",
-        "HkTxGNN",
-        "JpTxGNN",
-        "SATxGNN",
-        "SgTxGNN",
-        "UsTxGNN",
-        "ZaTxGNN"
-      ]
-    },
     "db00518": {
       "page": "albendazole",
       "sources": [
@@ -2339,6 +2332,7 @@
       "page": "cyclophosphamide",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "CaTxGNN",
         "ESTxGNN",
@@ -2593,6 +2587,7 @@
       "page": "triamcinolone",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "CaTxGNN",
         "FRTxGNN",
@@ -2668,6 +2663,7 @@
     "db00640": {
       "page": "adenosine",
       "sources": [
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -2716,6 +2712,7 @@
         "InTxGNN",
         "NZTxGNN",
         "SATxGNN",
+        "SETxGNN",
         "UkTxGNN",
         "UsTxGNN",
         "ZaTxGNN"
@@ -3400,6 +3397,7 @@
       "page": "acetazolamide",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -3760,6 +3758,7 @@
         "KrTxGNN",
         "NZTxGNN",
         "SATxGNN",
+        "SETxGNN",
         "SgTxGNN",
         "UkTxGNN",
         "UsTxGNN",
@@ -3808,21 +3807,6 @@
         "SATxGNN",
         "SgTxGNN",
         "UsTxGNN",
-        "ZaTxGNN"
-      ]
-    },
-    "db00945": {
-      "page": "acetylsalicylic_acid",
-      "sources": [
-        "AuTxGNN",
-        "CHTxGNN",
-        "CaTxGNN",
-        "DETxGNN",
-        "FITxGNN",
-        "NOTxGNN",
-        "SATxGNN",
-        "SgTxGNN",
-        "UkTxGNN",
         "ZaTxGNN"
       ]
     },
@@ -4110,6 +4094,7 @@
       "page": "salbutamol",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -4144,6 +4129,7 @@
         "AuTxGNN",
         "CaTxGNN",
         "HkTxGNN",
+        "SETxGNN",
         "SgTxGNN",
         "UkTxGNN"
       ]
@@ -4379,7 +4365,6 @@
     "db01050": {
       "page": "ibuprofen",
       "sources": [
-        "ARTxGNN",
         "AuTxGNN",
         "CHTxGNN",
         "COTxGNN",
@@ -4529,6 +4514,7 @@
       "sources": [
         "ARTxGNN",
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -4629,6 +4615,7 @@
       "page": "bicalutamide",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CaTxGNN",
         "HkTxGNN",
         "NlTxGNN",
@@ -4662,6 +4649,7 @@
       "page": "levofloxacin",
       "sources": [
         "ARTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -4685,6 +4673,7 @@
       "page": "bupropion",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "CaTxGNN",
         "DETxGNN",
@@ -4926,6 +4915,7 @@
         "AuTxGNN",
         "CaTxGNN",
         "HkTxGNN",
+        "SETxGNN",
         "SgTxGNN",
         "UkTxGNN"
       ]
@@ -5047,6 +5037,7 @@
         "NOTxGNN",
         "NZTxGNN",
         "SATxGNN",
+        "SETxGNN",
         "SgTxGNN",
         "UkTxGNN",
         "UsTxGNN",
@@ -5218,6 +5209,7 @@
       "sources": [
         "ARTxGNN",
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -6135,6 +6127,7 @@
       "page": "teriparatide",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -6202,6 +6195,7 @@
     "db06594": {
       "page": "agomelatine",
       "sources": [
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "DETxGNN",
@@ -6253,6 +6247,7 @@
       "page": "axitinib",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -6347,6 +6342,7 @@
     "db06697": {
       "page": "artemether",
       "sources": [
+        "SETxGNN",
         "ZaTxGNN"
       ]
     },
@@ -6381,6 +6377,7 @@
     "db06736": {
       "page": "aceclofenac",
       "sources": [
+        "BrTxGNN",
         "COTxGNN",
         "ESTxGNN",
         "ITTxGNN",
@@ -6557,6 +6554,7 @@
     "db08879": {
       "page": "belimumab",
       "sources": [
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -6618,6 +6616,7 @@
       "page": "aflibercept",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -6640,6 +6639,7 @@
       "page": "carfilzomib",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -6863,6 +6863,7 @@
       "page": "amorolfine",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "HkTxGNN",
         "SgTxGNN",
         "UkTxGNN"
@@ -6899,6 +6900,7 @@
       "page": "palbociclib",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CaTxGNN",
         "DkTxGNN",
         "HkTxGNN"
@@ -7325,6 +7327,7 @@
       "page": "atezolizumab",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",
@@ -7606,6 +7609,7 @@
         "ESTxGNN",
         "FITxGNN",
         "HkTxGNN",
+        "KrTxGNN",
         "NOTxGNN",
         "SATxGNN",
         "SgTxGNN"
@@ -7654,6 +7658,7 @@
       "page": "brigatinib",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CHTxGNN",
         "COTxGNN",
         "CaTxGNN",

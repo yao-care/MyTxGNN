@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Atazanavir Sulfate
 parent: Low Evidence (L4-L5)
 nav_order: 100
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-10-30
-predicted_indications: []
+indication_count: 4
+drugbank_id: DB01072
+monitor_inn: "Atazanavir"
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
+last_modified_at: 2026-11-16
+description: "Atazanavir Sulfate: indikasi baharu diramal Sindrom kekurangan imun diperoleh kucing (feline acquired immunodeficiency syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Atazanavir Sulfate
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **0** 
+Tahap bukti: **L5** | Indikasi diramal: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,66 +34,67 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-## Atazanavir Sulfate: Perencat Protease HIV — Analisis Repurposing Menunggu Tindakan
+## Atazanavir Sulfate: Sindrom kekurangan imun diperoleh kucing (feline acquired immunodeficiency syndrome)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Atazanavir Sulfate adalah perencat protease antiretroviral yang digunakan dalam terapi kombinasi untuk jangkitan HIV-1.
-Pakej bukti ini mengandungi **tiada ramalan repurposing TxGNN**, dan data peringkat ubat yang kritikal — termasuk mekanisme tindakan, butiran lesen, dan amaran keselamatan — tidak tersedia.
-Penilaian repurposing lengkap tidak dapat diselesaikan sehingga jurang data yang dikenal pasti diselesaikan.
+Atazanavir sulfate ialah perencat protease HIV-1 yang didaftarkan di Malaysia.
+Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom kekurangan imun diperoleh kucing (feline acquired immunodeficiency syndrome)**.
+Pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong ramalan ini. Ia juga merupakan keadaan veterinar, bukan indikasi manusia.
 
----
-
-## Gambaran Keseluruhan Pantas
+## Gambaran Ringkas
 
 | Perkara | Kandungan |
-|--------|----------|
-| Indikasi Asal | Jangkitan HIV-1 (terapi antiretroviral kombinasi) |
-| Indikasi Baru Yang Diramal | Tidak tersedia |
-| Skor Ramalan TxGNN | Tidak tersedia |
-| Paras Bukti | Tidak dapat dinilai |
+|------|------|
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu Diramalkan | Sindrom kekurangan imun diperoleh kucing (feline acquired immunodeficiency syndrome) |
+| Skor Ramalan TxGNN | 0.9998 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
 | Bilangan Pendaftaran | 1 (sah: 1) |
-| Keputusan Yang Disyorkan | Tahan |
+| Keputusan Disyorkan | Hold (Tahan) |
 
-> **Nota:** Bahagian Bukti Ujian Klinikal, Bukti Literatur, dan "Mengapa Ramalan Ini Munasabah?" ditinggalkan kerana `predicted_indications` adalah kosong dalam pakej bukti ini. Setelah ramalan TxGNN dihasilkan, bahagian tersebut akan dipenuhi secara automatik.
+## Mengapa Ramalan Ini Munasabah?
 
----
+Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Menurut pengetahuan umum, atazanavir merencat protease HIV-1 dan menghalang pematangan virion berjangkit.
+
+Virus imunodefisiensi kucing (FIV) ialah lentivirus, iaitu kumpulan yang sama dengan HIV. Namun, protease FIV berbeza dari segi struktur daripada protease HIV-1 dan mempunyai profil kepekaan perencat yang berlainan. Oleh itu, kebolehgunaan atazanavir terhadap FIV tidak terjamin.
+
+Skor yang tinggi besar kemungkinan mencerminkan kaitan dengan penyakit berkaitan HIV, bukan bukti langsung. Keadaan ini juga merupakan penyakit haiwan dan bukan indikasi manusia, jadi kaitannya dengan penggunaan klinikal di Malaysia sangat terhad.
+
+## Bukti Percubaan Klinikal
+
+Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
+
+## Bukti Literatur
+
+Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi ini.
 
 ## Maklumat Pasaran Malaysia
 
-Pertanyaan NPRA mengesahkan 1 produk terdaftar dengan status pasaran **Dipasarkan**. Walau bagaimanapun, semua medan peringkat produk (nombor kebenaran, nama produk, bentuk dos, pengilang, indikasi yang diluluskan) dikembalikan sebagai rentetan kosong dalam pakej bukti ini dan tidak dapat dipaparkan.
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL15045142AZ | Atazor-300 (Atazanavir Capsules 300 mg) | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Yang Diluluskan |
-|------------------|-------------|-----------|-------------------------|
-| — | — | — | — |
-
-*Data pendaftaran terperinci harus diambil terus dari [Carian Pendaftaran Produk NPRA](https://www.npra.gov.my/index.php/en/registration/product-registration.html).*
-
----
+Pengeluar: MEDISPEC (M) SDN. BHD. Status lesen: sah.
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk sisipan pakej untuk maklumat keselamatan.
-
----
+Sila rujuk sisipan pek untuk maklumat keselamatan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
-**Alasan:**
-Tiada ramalan repurposing TxGNN yang ada dalam pakej bukti ini, dan data peringkat ubat dan peraturan yang penting hilang — menjadikan sebarang penilaian repurposing yang bermakna mustahil pada peringkat ini.
+**Rasional:**
+Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal atau literatur yang mengkaji penyakit ini secara langsung. Penyakit ini juga bersifat veterinar, dengan perbezaan struktur protease antara FIV dan HIV-1.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-
-- **Jalankan saluran ramalan TxGNN** untuk Atazanavir Sulfate untuk menjana indikasi repurposing calon
-- **Isi data DrugBank** (MOA, kategori ubat, interaksi yang diketahui) — pertanyaan DrugBank mengembalikan 1 hasil tetapi tiada medan yang ditangkap; entri DrugBank untuk atazanavir ialah `DB01072`
-- **Muat turun dan analisis PDF sisipan pakej NPRA / TFDA** untuk mengekstrak amaran, kontraindikasi, dan teks indikasi yang diluluskan secara rasmi (Data Gap DG001 — diklasifikasikan sebagai *Pemblokiran*)
-- **Bertanya semula daftar produk NPRA** untuk mendapatkan nombor kebenaran, nama produk, bentuk dos, dan butiran pengilang untuk 1 pendaftaran yang disahkan
-- **Selesaikan jurang data MOA (DG002)** melalui API DrugBank untuk membolehkan analisis kebolehpercayaan mekanik bagi sebarang indikasi yang diramal
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan yang terperinci
+- Bukti prapklinikal bahawa atazanavir merencat protease FIV
+- Penilaian sama ada indikasi veterinar berada dalam skop penilaian ini
+- Muat turun dan semakan sisipan pek NPRA untuk amaran dan kontraindikasi
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Dihydrocodeine Tartrate
 parent: Low Evidence (L4-L5)
-nav_order: 290
+nav_order: 289
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-10-30
-predicted_indications: []
+indication_count: 8
+drugbank_id: DB01551
+monitor_inn: "Dihydrocodeine"
+predicted_indications: ["nasal cavity disease", "allergic urticaria", "papillary conjunctivitis", "faucial diphtheria", "cervical disc degenerative disorder", "headache disorder", "cold urticaria", "trigeminal autonomic cephalalgia"]
+last_modified_at: 2026-11-16
+description: "Dihydrocodeine Tartrate: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Dihydrocodeine Tartrate
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **0** 
+Tahap bukti: **L5** | Indikasi diramal: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,88 +34,82 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-## Dihydrocodeine Tartrate: Penilaian Tujuan Baru Ubat
+## Dihydrocodeine Tartrate: Penyakit rongga hidung (nasal cavity disease)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Dihydrocodeine Tartrate ialah terbitan opioid separa sintetik yang kini dipasarkan di Malaysia dengan 3 produk berdaftar. Model TxGNN **belum menjana sebarang indikasi baru yang diramalkan** untuk ubat ini, dan pakej bukti mengandungi jurang data yang signifikan dalam butiran kawal selia, mekanisme tindakan, dan maklumat keselamatan, yang menghalang penilaian penemuan semula kegunaan yang bermakna pada masa ini.
+Dihidrokodeina tartrat ialah ubat opioid dengan kesan antitusif dan analgesik.
+Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit rongga hidung (nasal cavity disease)**, tetapi data yang dikumpulkan untuk laporan ini **tidak mengandungi sebarang ujian klinikal atau penerbitan** yang mengkaji penyakit tersebut secara langsung. Tahap bukti ialah L5 (ramalan model sahaja).
 
 ---
 
-## Gambaran Keseluruhan Cepat
+## Gambaran Keseluruhan
 
 | Item | Kandungan |
 |------|------|
-| Indikasi Asal | (Butiran pendaftaran tidak tersedia — lihat Jurang Data di bawah) |
-| Indikasi Baru yang Diramalkan | **Tiada** — tiada ramalan TxGNN tersedia |
-| Skor Ramalan TxGNN | T/A |
-| Tahap Bukti | L5 (Tiada ramalan atau kajian sokongan) |
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Penyakit rongga hidung (nasal cavity disease) |
+| Skor Ramalan TxGNN | 0.9999 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
 | Bilangan Pendaftaran | 3 (sah: 3) |
-| Keputusan yang Disyorkan | **Tahan** |
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ---
 
 ## Mengapa Ramalan Ini Munasabah?
 
-**Tiada ramalan TxGNN untuk dinilai** untuk Dihydrocodeine Tartrate pada masa ini. Senarai indikasi yang diramalkan adalah kosong, bermakna model sama ada tidak mengenal pasti calon penemuan semula kegunaan yang berdaya maju atau ubat tidak dapat dipetakan ke dalam graf pengetahuan (tiada ID DrugBank telah diselesaikan dalam pakej bukti).
+Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat umum, dihidrokodeina ialah agonis reseptor opioid mu yang memberikan kesan penekanan batuk dan analgesia melalui tindakan pada sistem saraf pusat.
 
-Pada masa ini, data mekanisme tindakan yang terperinci tidak tersedia dalam pakej bukti ini. Berdasarkan pengetahuan farmakologi umum, Dihydrocodeine ialah agonis analgesik opioid separa sintetik yang berkaitan secara struktur dengan kodein. Ia bertindak terutamanya sebagai agonis reseptor μ-opioid dan biasanya digunakan untuk pelepasan rasa sakit sederhana dan sebagai antitusif (perencat batuk). Tanpa pemetaan DrugBank yang disahkan dan pautan graf pengetahuan TxGNN, model tidak dapat menjana ramalan penemuan semula kegunaan.
-
-Sebelum sebarang analisis penemuan semula kegunaan dapat diteruskan, jurang data asas — khususnya pemetaan ID DrugBank dan mekanisme tindakan — mesti diselesaikan.
+Tiada mekanisme yang jelas menghubungkan dihidrokodeina dengan penyakit rongga hidung. Paling jauh, sebarang manfaat hanya bersifat tidak langsung, contohnya melalui penekanan batuk, dan ini tidak disokong oleh data yang ada. Skor 0,9999 ialah ramalan berasaskan model sahaja dan tidak boleh ditafsirkan sebagai bukti keberkesanan.
 
 ---
 
-## Bukti Uji Klinik
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada ujian klinik yang berkaitan berdaftar (tiada indikasi yang diramalkan untuk disoalkan).
-
----
-
-## Bukti Kesusasteraan
-
-Pada masa ini tiada kesusasteraan yang berkaitan tersedia (tiada indikasi yang diramalkan untuk disoalkan).
+Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ---
 
-## Maklumat Pasaran Malaysia
+## Bukti Literatur
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|------|------|------|------|
-| (tidak tersedia) | (tidak tersedia) | (tidak tersedia) | (tidak tersedia) |
-| (tidak tersedia) | (tidak tersedia) | (tidak tersedia) | (tidak tersedia) |
-| (tidak tersedia) | (tidak tersedia) | (tidak tersedia) | (tidak tersedia) |
+Pada masa ini tiada literatur berkaitan.
 
-> **Nota:** 3 pendaftaran telah disahkan melalui pertanyaan NPRA (2026-03-27), tetapi maklumat lesen terperinci (nama produk, bentuk dos, indikasi yang diluluskan) tidak diisi dalam pakej bukti. Data ini perlu dikumpul semula dari pangkalan data NPRA.
+---
+
+## Maklumat Pasaran di Malaysia
+
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Pengilang |
+|---------|------|------|-----------|
+| MAL05090018AZ | Suncodin Tablet | Tablet | Sunward Pharmaceutical Sdn. Bhd. |
+| MAL20021420AZ | P.P. Dihydrocodeine Tablet | Tablet | Noripharma Sdn. Bhd. |
+| MAL19970290AZ | Dicodine Tablet | Tablet | Royce Pharma Manufacturing Sdn. Bhd. |
+
+Ketiga-tiga pendaftaran ialah produk satu bahan aktif dan semuanya sah.
 
 ---
 
 ## Pertimbangan Keselamatan
 
-> Sila rujuk sisipan pakej untuk maklumat keselamatan. Pakej bukti semasa tidak mengandungi amaran yang diselesaikan, kontraindikasi, atau data interaksi ubat untuk Dihydrocodeine Tartrate. Sebagai analgesik opioid, langkah berjaga-jaga opioid standard (depresi pernafasan, potensi kebergantungan, depresi SSP dengan sedatif serentak) perlu diandaikan sambil menunggu pengumpulan data formal.
+Sila rujuk risalah pek (package insert) untuk maklumat keselamatan.
+
+Nota: bagi opioid secara amnya, risiko pergantungan dan penyalahgunaan perlu diberi perhatian.
 
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
 **Rasional:**
-Tiada ramalan penemuan semula kegunaan TxGNN wujud untuk Dihydrocodeine Tartrate, dan pelbagai jurang data kritikal (ID DrugBank, MOA, butiran kawal selia, profil keselamatan) menghalang sebarang penilaian yang bermakna. Calon tidak dapat maju tanpa data asas.
+Ramalan ini hanya berasaskan model; tiada ujian klinikal atau penerbitan yang mengkaji penyakit rongga hidung secara langsung, dan tiada mekanisme yang jelas menghubungkan dihidrokodeina dengan penyakit ini.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-
-1. **Selesaikan pemetaan ID DrugBank** — Soalkan DrugBank untuk "Dihydrocodeine" (DB01955 ialah ID yang dijangkakan) dan sahkan pautan graf pengetahuan
-2. **Ambil mekanisme tindakan (MOA)** daripada DrugBank atau rujukan farmakologi utama
-3. **Kumpul semula butiran pendaftaran NPRA** — Nombor lesen, nama produk, bentuk dos, dan teks indikasi yang diluluskan untuk semua 3 pendaftaran
-4. **Kumpul data keselamatan** — Amaran sisipan pakej, kontraindikasi, dan interaksi ubat-ubatan (terutamanya perencat SSP, MAOIs, dan perencat CYP2D6)
-5. **Jalankan semula saluran ramalan TxGNN** apabila pemetaan DrugBank telah ditetapkan, untuk menentukan sama ada calon penemuan semula kegunaan yang berdaya maju muncul
-
----
-
-*Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Sebarang calon penemuan semula kegunaan ubat memerlukan pengesahan klinis sebelum aplikasi.*
-
+**Untuk meneruskan, perlu dilengkapkan:**
+- Data keselamatan daripada risalah pek NPRA (amaran dan kontraindikasi)
+- Data mekanisme tindakan terperinci (MOA)
+- Kajian klinikal atau literatur yang mengkaji penyakit rongga hidung secara langsung
+- Penilaian keserasian laluan pentadbiran
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Amiodarone Hydrochloride
 parent: Low Evidence (L4-L5)
 nav_order: 59
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-10-30
-predicted_indications: []
+evidence_level: L4
+indication_count: 9
+drugbank_id: DB01118
+monitor_inn: "Amiodarone"
+predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
+last_modified_at: 2026-11-16
+description: "Amiodarone Hydrochloride: indikasi baharu diramal Takikardia ventrikel polimorfik katekolaminergik (catecholaminergic polymorphic ventricular tachycardia) (tahap bukti L4)."
 ---
 
 # Amiodarone Hydrochloride
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **0** 
+Tahap bukti: **L4** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,90 +34,80 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-## Amiodarone Hydrochloride: Penilaian Pemanfaatan Semula Ubat — Menunggu Ramalan TxGNN
+## Amiodarone Hydrochloride: Takikardia ventrikel polimorfik katekolaminergik (catecholaminergic polymorphic ventricular tachycardia)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Amiodarone Hydrochloride ialah agen antiaritmik Kelas III yang telah mantap digunakan untuk pengurusan aritmia ventrikel dan supraventrikel.
-**Tiada ramalan pemanfaatan semula TxGNN yang telah dijana** untuk sebatian ini — saluran paip ramalan belum selesai untuk calon ini.
-Laporan ini mendokumenkan status data semasa dan menggariskan langkah-langkah yang diperlukan sebelum penilaian pemanfaatan semula lengkap dapat diteruskan.
+Amiodarone ialah ubat antiaritmia yang digunakan untuk merawat gangguan rentak jantung. Model TxGNN meramalkan ia mungkin berguna untuk **takikardia ventrikel polimorfik katekolaminergik (catecholaminergic polymorphic ventricular tachycardia, CPVT)**. Sokongan buat masa ini lemah: **tiada ujian klinikal** berdaftar dan hanya **9 penerbitan** yang ditemui, kebanyakannya laporan kes, kohort kecil dan kajian semula.
 
----
+## Gambaran Keseluruhan
 
-## Gambaran Keseluruhan Pantas
-
-| Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Agen antiaritmik (teks indikasi yang diluluskan secara rasmi masih dalam pemerolehan) |
-| Indikasi Baharu yang Diramalkan | Belum dijana lagi |
-| Skor Ramalan TxGNN | T/K |
-| Tahap Bukti | L5 — saluran paip ramalan belum selesai |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Takikardia ventrikel polimorfik katekolaminergik (catecholaminergic polymorphic ventricular tachycardia) |
+| Skor Ramalan TxGNN | 0.9978 |
+| Tahap Bukti | L4 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
 | Bilangan Pendaftaran | 7 (sah: 7) |
-| Keputusan yang Disyorkan | **Tahan** — jurang data kritis mesti diselesaikan terlebih dahulu |
-
----
+| Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Tiada ramalan pemanfaatan semula TxGNN telah dikembalikan untuk Amiodarone Hydrochloride pada masa ini, jadi nisbah mekanik untuk indikasi baharu yang spesifik tidak dapat diberikan dalam laporan ini.
+Data terperinci tentang mekanisme tindakan (MOA) tidak terdapat dalam data yang dihimpunkan untuk laporan ini. Berdasarkan farmakologi amiodarone yang diketahui, ubat ini menyekat saluran kalium, natrium dan kalsium serta mempunyai kesan antagonis beta-adrenergik. Ciri-ciri ini menjadikannya antiaritmia berspektrum luas.
 
-Dari pengetahuan farmakoloji yang telah ditubuhkan, Amiodarone adalah agen antiaritmik Kelas III yang unik secara struktural yang menghasilkan kesan merentas saluran ion berganda — menyekat saluran kalium, natrium, dan kalsium — sambil juga mempamerkan aktiviti penyekatan alfa- dan beta-adrenergik. Profil elektrofisiologi yang luar biasa luas ini telah secara sejarah mendorong penyelidik untuk meneroka potensinya di luar aritmia, termasuk dalam keadaan radang, jangkitan tertentu, dan bahkan konteks onkologi, walaupun tiada arah ini yang telah dinilai secara rasmi melalui saluran paip TxGNN untuk calon ini.
+CPVT ialah gangguan rentak jantung turunan yang jarang berlaku. Aritmia ventrikel dicetuskan oleh rangsangan adrenergik, seperti senaman atau tekanan emosi. Kesan anti-adrenergik dan penyekatan saluran ion amiodarone secara teori boleh menekan aritmia yang dicetuskan oleh katekolamin dan dimediasi oleh RYR2 ini.
 
-Setelah saluran paip ramalan selesai dan sasaran penyakit berpangkat teratas dikenal pasti, bahagian ini akan dikemas kini dengan analisis sambungan mekanik lengkap yang menghubungkan MOA Amiodarone yang diketahui dengan indikasi baharu yang diramalkan.
+Namun, ramalan ini masih bersifat teori. Literatur yang diperoleh terhad kepada laporan kes, kohort kecil dan kajian semula. Penyekat beta dan flecainide ialah terapi yang telah mantap untuk CPVT, manakala amiodarone kelihatan digunakan terutamanya sebagai ubat penyelamat dalam kes yang tidak bertindak balas terhadap rawatan lain. Tiada ujian klinikal yang mengkaji amiodarone dalam CPVT dikenal pasti.
 
----
+## Bukti Ujian Klinikal
 
-## Bukti Percubaan Klinikal
+Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
 
-Kini tiada percubaan klinikal yang berkaitan telah didaftarkan — ramalan pemanfaatan semula TxGNN sedang dipertahankan. Setelah indikasi sasaran dikenal pasti, bukti percubaan klinikal akan diisi di sini.
+## Bukti Literatur
 
----
+| PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
+|------|-----|------|------|---------|
+| [35892906](https://pubmed.ncbi.nlm.nih.gov/35892906/) | 2022 | Kajian sistematik | Life (Basel) | Meneliti ciri klinikal, asas genetik dan hasil aritmia pesakit CPVT dari China berbanding negara Barat. |
+| [39076628](https://pubmed.ncbi.nlm.nih.gov/39076628/) | 2022 | Kohort retrospektif | Reviews in Cardiovascular Medicine | Menilai ciri klinikal, asas genetik, penggunaan sumber penjagaan kesihatan dan kos pesakit CPVT di sebuah bandar di China. |
+| [26513538](https://pubmed.ncbi.nlm.nih.gov/26513538/) | 2015 | Kajian semula | Expert Opinion on Pharmacotherapy | Ubat antiaritmia kekal penting untuk penukaran akut dan pencegahan jangka panjang aritmia ventrikel. |
+| [39735866](https://pubmed.ncbi.nlm.nih.gov/39735866/) | 2024 | Laporan kes | Frontiers in Cardiovascular Medicine | Penyelesaian CPVT pada seorang remaja melalui denervasi simpatetik jantung kanan selepas denervasi kiri. |
+| [22553997](https://pubmed.ncbi.nlm.nih.gov/22553997/) | 2012 | Laporan kes | PACE | Flecainide menekan "ribut" aritmia akibat renjatan defibrilator pada kanak-kanak lelaki berusia 14 tahun dengan CPVT. |
+| [29668588](https://pubmed.ncbi.nlm.nih.gov/29668588/) | 2018 | Laporan kes | Medicine | Diagnosis CPVT yang lewat selama 6 tahun pada kanak-kanak berusia 9 tahun dengan mutasi RYR2. |
+| [30116135](https://pubmed.ncbi.nlm.nih.gov/30116135/) | 2018 | Laporan kes | Turk Pediatri Arsivi | CPVT sebagai punca jarang bagi serangan jantung mengejut pada kanak-kanak berusia 2 tahun. |
+| [37852665](https://pubmed.ncbi.nlm.nih.gov/37852665/) | 2023 | Laporan kes | BMJ Case Reports | Kanak-kanak yang terselamat daripada serangan jantung luar hospital dengan VT/VF berulang yang memerlukan pendekatan berbeza daripada garis panduan resusitasi piawai. |
+| [22218697](https://pubmed.ncbi.nlm.nih.gov/22218697/) | 2012 | Laporan kes | Anesthesia and Analgesia | Neonat dengan sindrom QT panjang dan aritmia ventrikel refraktori yang dirawat dengan lidocaine, esmolol dan amiodarone serta pacing ventrikel. |
 
-## Bukti Kesusasteraan
+## Maklumat Pasaran di Malaysia
 
-Kini tiada kesusasteraan yang berkaitan tersedia — ramalan pemanfaatan semula TxGNN sedang dipertahankan. Setelah indikasi sasaran dikenal pasti, penerbitan sokongan akan diringkaskan di sini.
+Berikut ialah 5 daripada 7 lesen yang direkodkan, semuanya berstatus sah.
 
----
-
-## Maklumat Pasaran Malaysia
-
-Amiodarone Hydrochloride memegang **7 pendaftaran produk** di Malaysia. Walau bagaimanapun, rekod lesen terperinci (nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan) tidak dikembalikan dalam Pakej Bukti ini. Jadual di bawah mencerminkan keadaan data semasa; butiran penuh harus diambil terus dari pangkalan data pendaftaran produk NPRA.
-
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|------------------|-------------|-----------|-------------------------|
-| (Menunggu pemerolehan) | — | — | — |
-
-> **Nota:** 7 pendaftaran disahkan sebagai aktif. Butiran lesen penuh memerlukan suplementasi dari pertanyaan pangkalan data NPRA.
-
----
+| Nombor Kelulusan | Nama Produk | Pengilang |
+|---------|------|------|
+| MAL20014330ACZ | AMIOHEXAL 200 | IMEKS PHARMA SDN. BHD. |
+| MAL12010005AZ | AMIODARONE HCL 150mg/3mL INJECTION Bioindustria L.I.M. | MMS PHARMA (MALAYSIA) SDN. BHD. |
+| MAL18086165AZ | MYDRON Amiodarone Hydrochloride Injection 50mg/ml | UNIMED SDN. BHD. |
+| MAL19871890AZ | CORDARONE INJ 150MG (3ML AMP) | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. |
+| MAL19987968ARZ | CORDARONE 200MG | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. |
 
 ## Pertimbangan Keselamatan
 
-Data keselamatan lengkap (amaran, kontraindikasi, dan langkah berjaga-jaga utama) tidak dapat dinilai dari Pakej Bukti ini. Pemerolehan sisipan pakej rasmi adalah **keperluan penyekatan** sebelum calon ini dapat maju ke pra-saringan keselamatan (lihat Jurang Data di bawah).
-
-Berdasarkan kesusasteraan klinikal yang diterbitkan secara meluas, Amiodarone secara luas diiktiraf sebagai ubat dengan profil interaksi yang ketara — ia adalah perencat yang kuat bagi CYP2C9, CYP3A4, dan P-glikoprotein, dan membawa risiko yang terdokumentasi dengan baik termasuk toksisiti pulmonari, hepatotoksisiti, disfungsi tiroid (kedua-dua hipotiroidisme dan hipertiroidisme), dan mikrodeposit kornea. Risiko yang diketahui ini mesti disahkan secara rasmi terhadap sisipan pakej yang diluluskan NPRA sebelum sebarang penilaian keselamatan pemanfaatan semula diteruskan.
-
-Tiada data interaksi ubat-ubat yang dikembalikan oleh pertanyaan DDI dalam Pakej Bukti ini.
-
----
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold (Tahan)**
 
-**Nisbah:**
-Tiada ramalan pemanfaatan semula TxGNN yang tersedia pada masa ini, dan dua jurang data kritis — amaran keselamatan/kontraindikasi (keterukan penyekatan) dan mekanisme tindakan (keterukan tinggi) — mesti diselesaikan sebelum calon ini dapat memasuki aliran kerja penilaian piawai.
+**Justifikasi:**
+- Skor ramalan tinggi (0.9978), tetapi tiada ujian klinikal dan literatur hanya terdiri daripada laporan kes, kohort kecil dan kajian semula. Tiada satu pun daripadanya menunjukkan keberkesanan amiodarone dalam CPVT.
+- Penyekat beta dan flecainide ialah terapi yang telah mantap. Amiodarone paling banyak berperanan sebagai ubat penyelamat, jadi nilai tambahnya masih belum dibuktikan.
 
-**Untuk meneruskan, berikut adalah yang diperlukan:**
-
-1. **[Menyekat — DG001]** Ambil sisipan pakej rasmi (amaran dan kontraindikasi) dari laman web TFDA/NPRA untuk membolehkan Langkah Pra-saringan Keselamatan S1
-2. **[Tinggi — DG002]** Pertanyaan API DrugBank untuk mendapatkan MOA lengkap, kategori ubat, dan data sitotoksisiti; sahkan ID DrugBank (kini belum diselesaikan) untuk membuka kunci analisis DDI
-3. **[Saluran Paip]** Lengkapkan larian ramalan TxGNN untuk Amiodarone Hydrochloride untuk menghasilkan calon pemanfaatan semula yang berpangkat — tanpa ini, tiada analisis mekanik atau bukti dapat dilakukan
-4. **[Kesempurnaan Data]** Isi semua 7 rekod lesen NPRA Malaysia (nama produk, bentuk dos, pengeluar, teks indikasi yang diluluskan) dari pangkalan data pendaftaran produk NPRA
-5. **[Penilaian Semula]** Setelah di atas selesai, jana semula Pakej Bukti dan teruskan ke penarafan bukti L1–L5 lengkap terhadap indikasi yang diramalkan berpangkat teratas
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Maklumat amaran, kontraindikasi dan interaksi ubat daripada sisipan pakej yang diluluskan NPRA.
+- Data terperinci mengenai mekanisme tindakan (MOA) daripada sumber rujukan ubat.
+- Kajian kohort atau ujian klinikal yang membandingkan amiodarone secara langsung dengan penyekat beta dan flecainide dalam pesakit CPVT, terutamanya kes refraktori.
+- Pelan pemantauan keselamatan untuk populasi khusus seperti kanak-kanak dan remaja, yang merupakan kumpulan utama pesakit CPVT.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

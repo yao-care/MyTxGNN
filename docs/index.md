@@ -43,30 +43,42 @@ Laporan mengikut tahap bukti:
 | L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
 {% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
 
-6 pasangan ubat–penyakit yang diramal di laman ini tidak terdapat di mana-mana laman lain antara 30 laman TxGNN.
+160 pasangan ubat–penyakit yang diramal di laman ini tidak terdapat di mana-mana laman lain antara 30 laman TxGNN.
 
 ### Ubat dengan tahap bukti tertinggi di laman ini
 
 | Ubat | Tahap bukti |
 |---|---|
 | [Acetylcysteine](/drugs/acetylcysteine/) | L1 |
+| [Bendamustine Hydrochloride](/drugs/bendamustine-hydrochloride/) | L1 |
 | [Bupropion](/drugs/bupropion/) | L1 |
 | [Busulfan](/drugs/busulfan/) | L1 |
 | [Fludarabine](/drugs/fludarabine/) | L1 |
 | [Clofarabine](/drugs/clofarabine/) | L1 |
 | [Clomipramine](/drugs/clomipramine/) | L1 |
 | [Doxorubicin](/drugs/doxorubicin/) | L1 |
-| [Ketorolac](/drugs/ketorolac/) | L1 |
-| [Tacrolimus](/drugs/tacrolimus/) | L1 |
-| [Dapsone](/drugs/dapsone/) | L1 |
+| [Atorvastatin Calcium](/drugs/atorvastatin-calcium/) | L1 |
+| [Atorvastatin Calcium Trihydrate](/drugs/atorvastatin-calcium-trihydrate/) | L1 |
 
 ### Ubat yang hanya diliputi oleh laman ini antara 30 laman TxGNN
 
 | Ubat | Tahap bukti |
 |---|---|
+| [Bendamustine Hydrochloride](/drugs/bendamustine-hydrochloride/) | L1 |
+| [Aminophylline Anhydrous](/drugs/aminophylline-anhydrous/) | L4 |
+| [Aminophylline Dihydrate](/drugs/aminophylline-dihydrate/) | L4 |
+| [Dl-Camphor](/drugs/dl-camphor/) | L4 |
 | [Estradiol Benzoate](/drugs/estradiol-benzoate/) | L4 |
-| [Sulodexide](/drugs/sulodexide/) | L5 |
-| [Gliclazide](/drugs/gliclazide/) | N/A |
+| [Dobutamine Hydrochloride](/drugs/dobutamine-hydrochloride/) | L5 |
+| [Alectinib Hydrochloride](/drugs/alectinib-hydrochloride/) | L5 |
+| [Amlodipine Besilate](/drugs/amlodipine-besilate/) | L5 |
+| [Asenapine Maleate](/drugs/asenapine-maleate/) | L5 |
+| [Pioglitazone Hydrochloride](/drugs/pioglitazone-hydrochloride/) | L5 |
+| [Bosentan Monohydrate](/drugs/bosentan-monohydrate/) | L5 |
+| [Dihydrocodeine Tartrate](/drugs/dihydrocodeine-tartrate/) | L5 |
+| [Aspirin](/drugs/aspirin/) | L5 |
+| [Bleomycin Sulfate](/drugs/bleomycin-sulfate/) | L5 |
+| [Dexmedetomidine Hydrochloride](/drugs/dexmedetomidine-hydrochloride/) | L5 |
 
 <!-- local-home:end -->
 

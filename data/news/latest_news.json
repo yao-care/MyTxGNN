@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-16T01:33:53.121000",
+  "fetched": "2026-11-16T08:59:40.399981",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,58 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Health Reforms Can’t Wait: Ring-Fence Funds For Innovative Medicines And Build Rare Disease Capacity In Budget 2027 — Jeremy Ang",
+      "url": "https://codeblue.galencentre.org/2026/11/health-reforms-cant-wait-ring-fence-funds-for-innovative-medicines-and-build-rare-disease-capacity-in-budget-2027-jeremy-ang/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-16T08:38:21",
+      "summary": "Budget 2027 must deliver immediate measures that ensure a diagnosis in a Malaysian public hospital leads to timely treatment and care, rather than years of uncertainty and waiting. The post Health Reforms Can’t Wait: Ring-Fence Funds For Innovative Medicines And Build Rare Disease Capacity In Budget 2027 — Jeremy Ang appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medicine",
+        "treatment",
+        "disease",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Dzulkefly Touts National Health Fund With Federal-State Involvement",
+      "url": "https://codeblue.galencentre.org/2026/11/dzulkefly-touts-national-health-fund-with-federal-state-involvement/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-16T08:20:15",
+      "summary": "Dr Dzul touts a National Health Fund (DKN) that will require legislative changes and federal-state involvement. MOH is studying actuarial modelling, package of benefits etc. The bill is targeted in 2029. The 15th Parliament automatically dissolves in 2027. The post Dzulkefly Touts National Health Fund With Federal-State Involvement appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Selgate Specialist Hospital Sepang Starts Operations As First Private Hospital In Sepang",
+      "url": "https://codeblue.galencentre.org/2026/11/selgate-specialist-hospital-sepang-starts-operations-as-first-private-hospital-in-sepang/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-16T03:43:19",
+      "summary": "As Sepang's first private hospital, SSH Sepang strengthens access to specialist health care along the Sepang–Nilai corridor. Key disciplines include orthopaedics, metabolic health, O&G, paediatrics, and general surgery. It currently has 15 specialists. The post Selgate Specialist Hospital Sepang Starts Operations As First Private Hospital In Sepang appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Sarawak, Johor, Selangor Record Highest Vacancies For Specialists In MOH Hospitals",
+      "url": "https://codeblue.galencentre.org/2026/11/sarawak-johor-selangor-record-highest-vacancies-for-specialists-in-moh-hospitals/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-16T02:00:00",
+      "summary": "Sarawak, Johor, and Selangor have the highest vacancies for specialist doctors in MOH. There are 1,370 unfilled specialist posts in MOH hospitals nationwide, but only 18 contract specialists. MOH has 4,127 medical officer vacancies and 4,568 contract MOs. The post Sarawak, Johor, Selangor Record Highest Vacancies For Specialists In MOH Hospitals appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
     {
       "title": "Extend Jakim Guidelines For Muslim Employees To Tobacco, Vape Sales — MyWatch",
       "url": "https://codeblue.galencentre.org/2026/11/extend-jakim-guidelines-for-muslim-employees-to-tobacco-vape-sales-mywatch/",
@@ -65,51 +115,33 @@
       ]
     },
     {
-      "title": "How Long Can Dental Implants Last? Understanding Their Lifespan And The Factors That Can Lead To Failure — Assoc Prof Dr Akram Hassan",
-      "url": "https://codeblue.galencentre.org/2026/11/how-long-can-dental-implants-last-understanding-their-lifespan-and-the-factors-that-can-lead-to-failure/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-12T03:30:00",
-      "summary": "Understanding how long dental implants last and the factors that may lead to their failure is important for improving long-term dental care. The post How Long Can Dental Implants Last? Understanding Their Lifespan And The Factors That Can Lead To Failure — Assoc Prof Dr Akram Hassan appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "NGOs, MPs Demand Vape Ban After Minister Confirms Liquid Nicotine Scheduled Poison",
-      "url": "https://codeblue.galencentre.org/2026/11/ngos-mps-demand-vape-ban-after-minister-confirms-liquid-nicotine-scheduled-poison/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-12T02:24:24",
-      "summary": "Anti-tobacco groups and MPs want a nationwide vape ban, after the health minister's confirmation that e-liquids containing nicotine are a poison subject to Act 366. MCTC tells the government to explain why it's considering a \"temporary\" nicotine exemption. The post NGOs, MPs Demand Vape Ban After Minister Confirms Liquid Nicotine Scheduled Poison appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Minister Admits Nicotine Vape Liquid Scheduled Poison After Court Ruling",
-      "url": "https://codeblue.galencentre.org/2026/11/minister-admits-nicotine-vape-liquid-scheduled-poison-after-court-ruling/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-11T08:25:54",
-      "summary": "Dr Dzul makes a major admission in Parliament, saying vape liquids containing nicotine are now subject to the Poisons Act 1952 (Act 366), due to the High Court verdict. Act 366 prohibits the retail sale and supply of poisons, except by pharmacists/doctors. The post Minister Admits Nicotine Vape Liquid Scheduled Poison After Court Ruling appeared first on CodeBlue .",
+      "title": "Missing Penang doctor, 74, found dead after going missing off Tanjung Bungah",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/16/missing-penang-doctor-74-found-dead-after-going-missing-off-tanjung-bungah/243482",
+      "source": "Malay Mail",
+      "published": "2026-11-16T06:45:57",
+      "summary": "GEORGE TOWN, Nov 16 — An elderly man who went missing while windsurfing off Tanjung Bungah here yesterday was foun...",
       "keywords_matched": [
         "doctor"
       ]
     },
     {
-      "title": "More Than The Lungs: The Silent Damage Of Smoking And Vaping",
-      "url": "https://codeblue.galencentre.org/2026/11/more-than-the-lungs-the-silent-damage-of-smoking-and-vaping/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-11T06:00:00",
-      "summary": "Smoking is not just a lung habit. It is a whole-body risk. The good news is that stopping, today and not someday, is one of the most powerful things a person can do for their health. The post More Than The Lungs: The Silent Damage Of Smoking And Vaping appeared first on CodeBlue .",
+      "title": "Govt commits RM10.6m to Long Lellang STOLport safety works after fatal Flying Doctor Service crash",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/16/govt-commits-rm106m-to-long-lellang-stolport-safety-works-after-fatal-flying-doctor-service-crash/243470",
+      "source": "Malay Mail",
+      "published": "2026-11-16T06:38:05",
+      "summary": "KUALA LUMPUR, Nov 16 — The government has allocated RM10.615 million to upgrade infrastructure and facilities at t...",
       "keywords_matched": [
-        "health"
+        "doctor"
       ]
     },
     {
-      "title": "Parit Yaani crash: Johor govt to bear medical costs, provide monthly aid to orphaned siblings, says exco",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/15/parit-yaani-crash-johor-govt-to-bear-medical-costs-provide-monthly-aid-to-orphaned-siblings-says-exco/243408",
+      "title": "Dr Dzul: Nutrition Bill to regulate unhealthy food marketing, targeted for 2027 tabling",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/16/dr-dzul-nutrition-bill-to-regulate-unhealthy-food-marketing-targeted-for-2027-tabling/243449",
       "source": "Malay Mail",
-      "published": "2026-11-15T11:33:47",
-      "summary": "BATU PAHAT, Nov 15 — The Johor government, through the Johor State Islamic Religious Council (MAINJ), will cover t...",
+      "published": "2026-11-16T03:45:28",
+      "summary": "KUALA LUMPUR, Nov 16 — The Ministry of Health plans to introduce legislation that would regulate the marketing of...",
       "keywords_matched": [
-        "medical"
+        "health"
       ]
     }
   ]

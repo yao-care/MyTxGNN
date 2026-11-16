@@ -19,7 +19,7 @@ Ramalan penggunaan semula ubat untuk ubat yang diluluskan NPRA (Malaysia) menggu
 
 | Item | Bilangan |
 |------|------|
-| **Laporan ubat** | 606 |
+| **Laporan ubat** | 646 |
 | **Jumlah ramalan** | 19,982,488 |
 | **Ubat unik** | 1,061 |
 | **Petunjuk unik** | 17,041 |
@@ -30,11 +30,11 @@ Ramalan penggunaan semula ubat untuk ubat yang diluluskan NPRA (Malaysia) menggu
 
 | Tahap bukti | Bilangan laporan | Penerangan |
 |---------|-------|------|
-| **L1** | 10 | Pelbagai RCT Fasa 3 |
+| **L1** | 13 | Pelbagai RCT Fasa 3 |
 | **L2** | 27 | RCT tunggal atau pelbagai Fasa 2 |
 | **L3** | 14 | Kajian pemerhatian |
-| **L4** | 32 | Kajian praklinikal / mekanistik |
-| **L5** | 494 | Ramalan pengkomputeran sahaja |
+| **L4** | 36 | Kajian praklinikal / mekanistik |
+| **L5** | 527 | Ramalan pengkomputeran sahaja |
 | **N/A** | 29 | Kegunaan diketahui sahaja (tiada ramalan baharu) |
 
 ### Mengikut sumber

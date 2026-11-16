@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Aminophylline Anhydrous
 parent: Low Evidence (L4-L5)
 nav_order: 57
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-06
-predicted_indications: []
+evidence_level: L4
+indication_count: 9
+drugbank_id: DB01223
+monitor_inn: "Aminophylline"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
+last_modified_at: 2026-11-16
+description: "Aminophylline Anhydrous: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Aminophylline Anhydrous
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **0** 
+Tahap bukti: **L4** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,100 +34,71 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-## Aminophylline Anhydrous: Bronkodilator dengan Data Ubah Tujuan Penggunaan Tidak Mencukupi
+## Aminophylline Anhydrous: Gangguan migrain (migraine disorder)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Aminophylline Anhydrous adalah bronkodilator metilksantin yang secara klasik digunakan untuk asma bronkial dan penyakit paru obstruktif kronik (PPOK).
-Tiada ramalan ubah tujuan TxGNN yang tersedia untuk ubat ini pada masa ini — medan `predicted_indications` kosong — bermakna **tiada sasaran indikasi baru** dan **tiada bukti sokongan** boleh dilaporkan pada masa ini.
-Laporan ini mendokumentasikan status data semasa dan menggariskan langkah pemulihan sebelum penilaian ubah tujuan penggunaan penuh boleh diteruskan.
+Aminophylline anhydrous ialah ubat kumpulan metilxantina yang bertindak sebagai perencat fosfodiesterase dan antagonis reseptor adenosin.
+Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan migrain (migraine disorder)**,
+tetapi setakat ini **tiada ujian klinikal berdaftar** dan hanya **4 penerbitan** yang berkaitan secara tidak langsung (satu ulasan, dua laporan kes dan satu ulasan lama 1964).
 
----
+## Gambaran Keseluruhan
 
-## Gambaran Pantas
-
-| Item | Kandungan |
-|------|----------|
-| Indikasi Asli | Asma bronkial / PPOK / Bronkospasme akut (berdasarkan farmakologi yang diketahui; teks kemasukan pakej tidak diambil) |
-| Indikasi Baru yang Diramalkan | — (Tiada ramalan TxGNN tersedia) |
-| Skor Ramalan TxGNN | — |
-| Tahap Bukti | L5 (Ramalan model belum dijana) |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder) |
+| Skor Ramalan TxGNN | 0.9988 |
+| Tahap Bukti | L4 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
 | Bilangan Pendaftaran | 2 (sah: 2) |
-| Keputusan yang Disyorkan | **Tahan** |
-
----
+| Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Tiada ramalan ubah tujuan TxGNN tersedia untuk calon ini pada masa laporan dijana (`predicted_indications: []`). Oleh itu, pautan mekanik kepada mana-mana indikasi baru tidak dapat dinilai.
+Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, aminophylline ialah antagonis reseptor adenosin tidak selektif dan perencat fosfodiesterase.
 
-Daripada farmakologi yang ditubuhkan, Aminophylline adalah kompleks 2:1 teofolin dan etilendiamin. Teofolin bertindak terutamanya sebagai **penghambat fosfodiesterase (PDE) bukan selektif**, meningkatkan tahap cAMP dan cGMP intrasel, yang membawa kepada relaksasi otot halus bronkial. Ia juga bertindak sebagai **antagonis reseptor adenosina** (A1, A2A), yang menyumbang kepada kesan sampingan termasuk kronotropi positif, diuresis ringan, dan rangsangan pernafasan pusat.
+Isyarat adenosin dikaitkan dengan pengaktifan trigeminovaskular dan vasodilatasi serebrum. Metilxantina telah dilaporkan melegakan sesetengah jenis sakit kepala, contohnya sakit kepala selepas pencucukan dura. Ulasan 2023 "Aminophylline in pain and migraine" mencadangkan migrain mungkin dipacu oleh metabolisme tenaga otak yang terjejas dengan paras adenosin yang tinggi. Selain itu, satu episod migrain hemiplegik yang dicetuskan oleh regadenoson (agonis adenosin) memberi sokongan tidak langsung.
 
-Mekanisme pleiotropik ini — terutamanya antagonisme adenosina dan kesan anti-radang melalui penghambatan PDE4 — telah menjana minat dalam pengubahan semula ksantin menuju kepada keadaan neurologi, kardiologi, dan radang. Bagaimanapun, tanpa skor TxGNN atau bukti sokongan, tiada calon ubah tujuan penggunaan khusus dapat disyorkan pada peringkat ini.
+Sokongan ini hanya pada peringkat hipotesis. Tiada kajian yang menilai keberkesanan aminophylline pada pesakit migrain secara terkawal.
 
----
+## Bukti Ujian Klinikal
 
-## Bukti Percubaan Klinikal
+Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk migrain.
 
-Pada masa ini tiada percubaan klinikal yang berhubung didaftarkan untuk indikasi baru yang diramalkan (data ramalan tidak tersedia).
+## Bukti Literatur
 
----
+| PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
+|------|-----|------|------|---------|
+| [38059379](https://pubmed.ncbi.nlm.nih.gov/38059379/) | 2023 | Ulasan | Pain management | Migrain mungkin dipacu oleh metabolisme tenaga otak terjejas dan adenosin tinggi; aminophylline, antagonis adenosin, mungkin melegakan kesakitan, terutamanya sakit kepala selepas dura |
+| [34308528](https://pubmed.ncbi.nlm.nih.gov/34308528/) | 2022 | Laporan kes | Journal of Nuclear Cardiology | Episod migrain hemiplegik dicetuskan oleh regadenoson (agonis adenosin A2A); metilxantina boleh membalikkan kesan advers |
+| [7728647](https://pubmed.ncbi.nlm.nih.gov/7728647/) | 1995 | Laporan kes | Canadian Journal of Cardiology | Pesakit sindrom X dengan kesan adenosin berlebihan ("migrain miokardium") tanpa iskemia miokardium |
+| [14168418](https://pubmed.ncbi.nlm.nih.gov/14168418/) | 1964 | Ulasan | Aggiornamenti Clinicoterapeutici | Ulasan lama tentang sakit kepala perubatan; tiada abstrak tersedia |
 
-## Bukti Kesusasteraan
-
-Pada masa ini tiada kesusasteraan yang berhubung tersedia untuk indikasi baru yang diramalkan (data ramalan tidak tersedia).
-
----
-
-## Maklumat Pasaran Malaysia
-
-Pakej Bukti melaporkan **1 pendaftaran aktif** di Malaysia, tetapi semua medan butiran lesen (nombor kebenaran, nama produk, bentuk dos, pengilang, teks indikasi yang diluluskan) dikembalikan sebagai rentetan kosong. Yang berikut adalah pemegang tempat sementara tertunda pemulihan data:
+## Maklumat Pasaran di Malaysia
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|----------|----------|----------|
-| *(Tertunda pemulihan)* | Aminophylline Anhydrous | *(Tertunda)* | *(Tertunda — muat turun kemasukan pakej daripada portal NPRA)* |
-
-> **Tindakan diperlukan**: Soal pangkalan data produk NPRA secara langsung untuk produk tunggal yang terdaftar untuk mengisi medan ini.
-
----
+|---------|------|------|-----------|
+| MAL06051295ARZ | AMINOPHYLLIN IV-FRESENIUS 250MG/10ML, INJECTION | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
+| MAL20021376AZ | AMINOPHYLLINE/DEMO INJECTION 250MG/10ML | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
 
 ## Pertimbangan Keselamatan
 
-Sila rujuk kemasukan pakej untuk maklumat keselamatan.
-
-> Semua medan keselamatan (amaran utama, kontraindikasi, interaksi ubat) dikembalikan sebagai `[Data Gap]` atau kosong. Kebimbangan keselamatan yang diketahui berikut didokumentasikan dalam rujukan antarabangsa dan harus disahkan terhadap kemasukan pakej yang diluluskan Malaysia sebelum penggunaan klinikal:
->
-> - **Indeks terapeutik sempit**: Tahap serum teofolin mesti dipantau (sasaran 10–20 µg/mL; ketoksikan di atas 20 µg/mL).
-> - **Kardiovaskular**: Risiko takikardia, aritmia, dan hipotensi — gunakan dengan berhati-hati dalam penyakit jantung.
-> - **CNS**: Kejang-kejang dilaporkan pada kepekatan toksik.
-> - **Interaksi ubat**: Pelbagai interaksi penting (cth., dengan siprofloksasin, simetdin, rifampisin, feniton) yang mengubah penjelasan teofolin; modul DDI mengembalikan 0 hasil dan memerlukan soal semula.
->
-> Ini adalah pemerhatian rujukan sahaja dan tidak menggantikan label setempat yang diluluskan.
-
----
+Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tahan**
+**Keputusan: Hold**
 
-**Alasan:**
-Paip ramalan TxGNN belum mengembalikan mana-mana calon ubah tujuan penggunaan untuk Aminophylline Anhydrous, menjadikan mustahil untuk mengenalpasti indikasi baru, menilai kebolehmangsaan mekanik, atau menilai bukti sokongan. Profil keselamatan tidak dapat disemak secara formal sehingga kemasukan pakej diambil.
+**Justifikasi:**
+Ramalan ini berskor tinggi dan mempunyai logik mekanistik yang munasabah melalui antagonisme adenosin. Namun tiada kajian yang menguji aminophylline secara langsung pada pesakit migrain; bukti hanya berupa satu ulasan, laporan kes dan ulasan lama. Maka tahap bukti sebenar setakat ini tidak melepasi hipotesis.
 
-**Untuk meneruskan, yang berikut diperlukan:**
-
-- [ ] **Jalankan semula ramalan TxGNN** — Sahkan bahawa `AMINOPHYLLINE ANHYDROUS` dipetakan dengan betul ke entri DrugBank-nya (teofolin: DB00277; aminofolin: DB01223) dan jalankan semula paip ramalan KG dan DL untuk mengisi `predicted_indications`.
-- [ ] **Selesaikan ID DrugBank** — `drugbank_id` adalah `null`; pautan kepada DrugBank DB01223 (aminofolin) atau DB00277 (teofolin) untuk membuka data MOA, ketoksikan, dan DDI.
-- [ ] **Ambil kemasukan pakej NPRA** — Muat turun dan huraikan PDF daripada portal NPRA untuk mengisi `approved_indication_text`, amaran, dan kontraindikasi (Jurang Data DG001, DG002).
-- [ ] **Isi butiran lesen** — Rekod pendaftaran tunggal mempunyai semua medan kosong; ambil nama produk, bentuk dos, dan pengilang daripada pangkalan data NPRA.
-- [ ] **Soal semula modul DDI** — Setelah ID DrugBank diselesaikan, jalankan semula soalan interaksi ubat-ubatan untuk menggantikan tatasusunan `interactions` kosong.
-- [ ] **Terbitkan semula laporan ini** selepas jurang data di atas diselesaikan untuk membolehkan penilaian gred bukti L1–L5 penuh dan keputusan Lanjut / Teruskan dengan Langkah Pelindung yang substantif.
-
----
-
-> ⚠️ *Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Mana-mana calon ubah tujuan penggunaan ubat memerlukan pengesahan klinikal sebelum aplikasi.*
-
+**Untuk meneruskan, perkara berikut diperlukan:**
+- Data mekanisme tindakan (MOA) yang terperinci
+- Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA, kerana data keselamatan belum tersedia
+- Kajian klinikal terkawal (sekurang-kurangnya fasa 2) untuk menilai aminophylline dalam migrain
+- Penilaian laluan pentadbiran, kerana produk tempatan yang berdaftar ialah suntikan intravena sahaja, manakala migrain biasanya memerlukan rawatan berulang atau pencegahan
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

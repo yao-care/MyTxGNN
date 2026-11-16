@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Amlodipine Besilate
 parent: Low Evidence (L4-L5)
 nav_order: 61
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-06
-predicted_indications: []
+indication_count: 9
+drugbank_id: DB00381
+monitor_inn: "Amlodipine"
+predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
+last_modified_at: 2026-11-16
+description: "Amlodipine Besilate: indikasi baharu diramal Infarksi batang otak (brain stem infarction) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
 # Amlodipine Besilate
 {: .fs-9 }
 
-Tahap bukti: **L5** | Indikasi diramal: **0** 
+Tahap bukti: **L5** | Indikasi diramal: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,60 +34,60 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 </div>
 
-## Amlodipine Besilate: Daripada Hipertensi / Angina — Tiada Ramalan TxGNN Tersedia
+## Amlodipine Besilate: Infarksi batang otak (brain stem infarction)
 {: .text-alpha }
 
 ## Ringkasan Satu Ayat
 
-Amlodipine Besilate ialah penyekat saluran kalsium dihidropiridin yang mantap digunakan secara meluas untuk hipertensi dan angina pektoris, dengan 76 produk berdaftar sedang dipasarkan di Malaysia.
-Pakej Bukti semasa mengandungi **tiada ramalan model TxGNN** untuk indikasi baru — ini mungkin mencerminkan bahawa saluran paip ramalan belum dijalankan, atau hasil tidak disertakan dalam penyerahan ini.
-Penilaian penggunaan semula ubat **tidak dapat diteruskan** sehingga keluaran ramalan, data MOA, dan butiran pendaftaran produk diperoleh.
+Amlodipine besilate ialah ubat penyekat saluran kalsium yang digunakan secara meluas untuk merendahkan tekanan darah. Model TxGNN meramalkan ia mungkin berkesan untuk **infarksi batang otak (brain stem infarction)**. Setakat ini **tiada ujian klinikal** dan **tiada penerbitan** dalam data yang dikumpulkan yang mengkaji penyakit ini secara langsung, jadi ramalan ini ialah ramalan model sahaja.
 
 ---
 
-## Gambaran Pantas
+## Gambaran Ringkas
 
-| Item | Kandungan |
-|------|-----------|
-| Indikasi Asal | Hipertensi / Angina pektoris (berdasarkan pengetahuan kelas ubat; tiada teks indikasi yang diluluskan disediakan dalam Pakej Bukti) |
-| Indikasi Baru Diramalkan | — (Tidak tersedia) |
-| Skor Ramalan TxGNN | — (Tidak tersedia) |
-| Tahap Bukti | — (Tidak dapat ditentukan) |
+| Perkara | Kandungan |
+|------|------|
+| Indikasi Asal | Tidak direkodkan dalam data tempatan |
+| Indikasi Baharu yang Diramalkan | Infarksi batang otak (brain stem infarction) |
+| Skor Ramalan TxGNN | 0.9994 |
+| Tahap Bukti | L5 |
 | Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 76 daripada 81; status tidak dapat disahkan: 5) |
 | Bilangan Pendaftaran | 81 (sah: 76; status tidak dapat disahkan: 5) |
-| Keputusan yang Disyorkan | **Tangguhkan** |
+| Keputusan Disyorkan | Tahan |
 
 ---
 
-## Mengapa Ramalan Ini Boleh Dipertanggungjawabkan?
+## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data mekanisme tindakan terperinci tidak tersedia dalam Pakej Bukti ini (ditandai sebagai Jurang Data DG002). Berdasarkan pengetahuan farmakoloji yang ditubuhkan, Amlodipine Besilate ialah penyekat saluran kalsium dihidropiridin generasi ketiga. Ia secara selektif menghalang aliran ion kalsium melalui saluran voltan terkunci jenis-L dalam sel otot licin vaskular dan sel otot jantung, menghasilkan vasodilatasi periferi, pengurangan rintangan vaskular sistemik, dan pengurangan permintaan oksigen miokard — menjadikannya berkesan untuk kedua-dua hipertensi dan angina stabil/vasospastik.
+Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Amlodipine tergolong dalam kelas penyekat saluran kalsium dihidropiridina. Ia menyekat kemasukan kalsium ke dalam sel otot licin vaskular, menyebabkan vasodilasi dan penurunan tekanan darah.
 
-Kerana tiada indikasi baru yang diramalkan telah dijana oleh TxGNN untuk ubat ini dalam Pakej Bukti semasa, tidak mungkin untuk menilai sambungan mekanik antara indikasi asal dan mana-mana sasaran penggunaan semula ubat pada masa ini.
-
----
-
-## Bukti Kajian Klinikal
-
-Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan — tiada indikasi baru yang diramalkan tersedia dalam Pakej Bukti ini untuk menambat carian ujian klinikal.
+Hubungan yang boleh dibuat dengan infarksi batang otak hanya tidak langsung. Kawalan tekanan darah ialah faktor utama dalam pencegahan sekunder strok, jadi ubat penurun tekanan darah secara teori boleh menyumbang kepada pengurangan risiko strok berulang. Namun, tiada data dalam laporan ini yang menyokong kesan khusus terhadap infarksi batang otak, sama ada daripada ujian klinikal, kajian pada haiwan atau laporan kes. Kemunasabahan mekanistik ini kekal sebagai hipotesis.
 
 ---
 
-## Bukti Kesusasteraan
+## Bukti Ujian Klinikal
 
-Pada masa ini tiada kesusasteraan berkaitan tersedia — tiada indikasi baru yang diramalkan tersedia dalam Pakej Bukti ini untuk menambat carian kesusasteraan.
+Buat masa ini tiada ujian klinikal berdaftar yang berkaitan.
+
+---
+
+## Bukti Literatur
+
+Buat masa ini tiada literatur berkaitan yang tersedia.
 
 ---
 
 ## Maklumat Pasaran Malaysia
 
-Pakej Bukti mengesahkan **76 produk berdaftar** untuk Amlodipine Besilate di Malaysia dengan status pasaran semasa **Dipasarkan**. Walau bagaimanapun, medan peringkat produk terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diisi dalam penyerahan ini.
+Amlodipine besilate dipasarkan di Malaysia. Data tempatan merekodkan 36 lesen sah untuk produk bahan tunggal. Rekod lesen tidak mengandungi teks indikasi yang diluluskan. Senarai di bawah menunjukkan lima lesen produk bahan tunggal sebagai contoh.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|------------------|------------|-----------|--------------------------|
-| — | — | — | Rekod peringkat produk terperinci tidak disediakan dalam Pakej Bukti ini |
-
-> ⚠️ Data peringkat produk untuk semua 76 pendaftaran hendaklah diambil daripada pangkalan data NPRA untuk melengkapkan bahagian ini.
+| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
+|---------|------|------|-----------|
+| MAL07010992AZ | VAMLO TABLETS 5MG | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
+| MAL07010993AZ | VAMLO TABLETS 10 MG | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
+| MAL16085018AZ | AMLOCOR TABLETS 5MG | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
+| MAL11090016AZ | Amdepin Tablet 5mg | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
+| MAL11090017AZ | Amdepin Tablet 10mg | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
 
 ---
 
@@ -94,25 +95,21 @@ Pakej Bukti mengesahkan **76 produk berdaftar** untuk Amlodipine Besilate di Mal
 
 Sila rujuk sisipan pakej untuk maklumat keselamatan.
 
-> ⚠️ **Jurang Data Menyekat (DG001):** Amaran sisipan pakej TFDA/NPRA dan kontraindikasi belum diambil. Jurang ini diklasifikasikan sebagai **Menyekat** dan menghalang kemasukan ke peringkat pra-penilaian keselamatan S1. Remediasi: muat turun dan huraikan PDF sisipan pakej daripada laman web pihak berkuasa kawal selia rasmi.
-
 ---
 
 ## Kesimpulan dan Langkah Seterusnya
 
-**Keputusan: Tangguhkan**
+**Keputusan: Tahan**
 
-**Nisbah:**
-Pakej Bukti ini tidak lengkap — tiada keluaran ramalan TxGNN hadir, data MOA hilang, semua butiran pendaftaran peringkat produk tidak diisi, dan amaran keselamatan disekat oleh jurang data genting. Pada masa ini tiada calon penggunaan semula ubat untuk dinilai.
+**Justifikasi:**
+Ramalan ini bergantung sepenuhnya pada skor model. Tiada ujian klinikal atau penerbitan yang mengkaji infarksi batang otak secara langsung, maka tahap bukti ialah L5. Hubungan mekanistik hanya tidak langsung, melalui penurunan tekanan darah.
 
-**Untuk meneruskan, perkara berikut diperlukan:**
-
-- **[Genting]** Jalankan saluran paip ramalan TxGNN dan sertakan keluaran `predicted_indications` dalam Pakej Bukti
-- **[Menyekat]** Ambil sisipan pakej NPRA/TFDA (DG001) untuk mengisi amaran keselamatan, kontraindikasi, dan butiran bentuk dos
-- **[Tinggi]** Dapatkan data MOA daripada API DrugBank (DG002) untuk membolehkan analisis kelayakan mekanisme
-- **[Diperlukan]** Isi semua 76 rekod lesen dengan nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan daripada pangkalan data NPRA
-- Setelah di atas tersedia, jalankan semula penjanaan Pakej Bukti dan hantar semula untuk penilaian penuh
-
+**Untuk meneruskan, yang berikut diperlukan:**
+- Kajian pra-klinikal atau klinikal yang menilai amlodipine secara langsung dalam infarksi batang otak.
+- Data mekanisme tindakan yang lengkap.
+- Maklumat amaran dan kontraindikasi daripada sisipan pakej yang diluluskan.
+- Penilaian keselamatan khusus untuk pesakit strok, termasuk risiko hipotensi.
+- Penilaian berasingan bagi ramalan lain yang disenaraikan untuk ubat ini, kerana ramalan itu tidak mengubah keputusan untuk ramalan utama ini.
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

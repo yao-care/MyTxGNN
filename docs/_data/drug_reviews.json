@@ -3676,7 +3676,10 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "The report was regenerated on 2026-11-16 with new predictions; this sentence is no longer on the page"
   },
   {
    "id": "my-lic-20261112-apixaban-1",
@@ -3716,7 +3719,10 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "The report was regenerated on 2026-11-16 with new predictions; this sentence is no longer on the page"
   },
   {
    "id": "my-lic-20261112-atorvastatin_calcium_trihydrate-2",
@@ -3736,7 +3742,10 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "The report was regenerated on 2026-11-16 with new predictions; this sentence is no longer on the page"
   },
   {
    "id": "my-lic-20261112-bromhexine_hcl-1",

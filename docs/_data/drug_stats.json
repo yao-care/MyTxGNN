@@ -1,14 +1,20 @@
 {
-  "generated": "2026-11-04",
-  "total_drugs": 606,
+  "generated": "2026-11-16",
+  "total_drugs": 646,
   "level_counts": {
-    "L1": 10,
+    "L1": 13,
     "L2": 27,
     "L3": 14,
-    "L4": 32,
-    "L5": 494
+    "L4": 36,
+    "L5": 527
   },
   "all_drugs": [
+    {
+      "name": "Abacavir Sulfate",
+      "slug": "abacavir_sulfate",
+      "level": "L5",
+      "indication_count": 3
+    },
     {
       "name": "Acarbose",
       "slug": "acarbose",
@@ -118,10 +124,22 @@
       "indication_count": 6
     },
     {
+      "name": "Alectinib Hydrochloride",
+      "slug": "alectinib_hydrochloride",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
       "name": "Alfacalcidol",
       "slug": "alfacalcidol",
       "level": "L5",
       "indication_count": 3
+    },
+    {
+      "name": "Alfentanil Hydrochloride",
+      "slug": "alfentanil_hydrochloride",
+      "level": "L5",
+      "indication_count": 1
     },
     {
       "name": "Alfuzosin",
@@ -160,6 +178,12 @@
       "indication_count": 9
     },
     {
+      "name": "Alverine Citrate",
+      "slug": "alverine_citrate",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
       "name": "Amantadine",
       "slug": "amantadine",
       "level": "L5",
@@ -172,10 +196,58 @@
       "indication_count": 5
     },
     {
+      "name": "Ambroxol Hcl",
+      "slug": "ambroxol_hcl",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Ambroxol Hydrochloride",
+      "slug": "ambroxol_hydrochloride",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
       "name": "Amikacin",
       "slug": "amikacin",
       "level": "L5",
       "indication_count": 10
+    },
+    {
+      "name": "Amiloride Hydrochloride",
+      "slug": "amiloride_hydrochloride",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Aminophylline Anhydrous",
+      "slug": "aminophylline_anhydrous",
+      "level": "L4",
+      "indication_count": 9
+    },
+    {
+      "name": "Aminophylline Dihydrate",
+      "slug": "aminophylline_dihydrate",
+      "level": "L4",
+      "indication_count": 9
+    },
+    {
+      "name": "Amiodarone Hydrochloride",
+      "slug": "amiodarone_hydrochloride",
+      "level": "L4",
+      "indication_count": 9
+    },
+    {
+      "name": "Amlodipine Besilate",
+      "slug": "amlodipine_besilate",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Amlodipine Besylate",
+      "slug": "amlodipine_besylate",
+      "level": "L5",
+      "indication_count": 9
     },
     {
       "name": "Ammonium Chloride",
@@ -232,6 +304,12 @@
       "indication_count": 4
     },
     {
+      "name": "Antazoline Hydrochloride",
+      "slug": "antazoline_hydrochloride",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
       "name": "Apixaban",
       "slug": "apixaban",
       "level": "L5",
@@ -268,8 +346,20 @@
       "indication_count": 8
     },
     {
+      "name": "Articaine Hydrochloride",
+      "slug": "articaine_hydrochloride",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
       "name": "Ascorbic Acid",
       "slug": "ascorbic_acid",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Asenapine Maleate",
+      "slug": "asenapine_maleate",
       "level": "L5",
       "indication_count": 9
     },
@@ -286,6 +376,18 @@
       "indication_count": 1
     },
     {
+      "name": "Aspirin",
+      "slug": "aspirin",
+      "level": "L5",
+      "indication_count": 7
+    },
+    {
+      "name": "Atazanavir Sulfate",
+      "slug": "atazanavir_sulfate",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
       "name": "Atenolol",
       "slug": "atenolol",
       "level": "L5",
@@ -296,6 +398,18 @@
       "slug": "atezolizumab",
       "level": "L5",
       "indication_count": 6
+    },
+    {
+      "name": "Atorvastatin Calcium",
+      "slug": "atorvastatin_calcium",
+      "level": "L1",
+      "indication_count": 4
+    },
+    {
+      "name": "Atorvastatin Calcium Trihydrate",
+      "slug": "atorvastatin_calcium_trihydrate",
+      "level": "L1",
+      "indication_count": 4
     },
     {
       "name": "Atosiban",
@@ -320,6 +434,12 @@
       "slug": "avelumab",
       "level": "L5",
       "indication_count": 9
+    },
+    {
+      "name": "Avibactam Sodium",
+      "slug": "avibactam_sodium",
+      "level": "L5",
+      "indication_count": 4
     },
     {
       "name": "Axitinib",
@@ -382,6 +502,18 @@
       "indication_count": 6
     },
     {
+      "name": "Benazepril Hydrochloride",
+      "slug": "benazepril_hydrochloride",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Bendamustine Hydrochloride",
+      "slug": "bendamustine_hydrochloride",
+      "level": "L1",
+      "indication_count": 10
+    },
+    {
       "name": "Benralizumab",
       "slug": "benralizumab",
       "level": "L5",
@@ -410,6 +542,12 @@
       "slug": "benzoyl_peroxide",
       "level": "L5",
       "indication_count": 4
+    },
+    {
+      "name": "Benzydamine Hydrochloride",
+      "slug": "benzydamine_hydrochloride",
+      "level": "L5",
+      "indication_count": 1
     },
     {
       "name": "Betamethasone",
@@ -442,10 +580,28 @@
       "indication_count": 2
     },
     {
+      "name": "Bisoprolol Fumarate",
+      "slug": "bisoprolol_fumarate",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
+      "name": "Bleomycin Sulfate",
+      "slug": "bleomycin_sulfate",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
       "name": "Bortezomib",
       "slug": "bortezomib",
       "level": "N/A",
       "indication_count": 0
+    },
+    {
+      "name": "Bosentan Monohydrate",
+      "slug": "bosentan_monohydrate",
+      "level": "L5",
+      "indication_count": 8
     },
     {
       "name": "Brentuximab Vedotin",
@@ -1090,6 +1246,12 @@
       "indication_count": 4
     },
     {
+      "name": "Dexmedetomidine Hydrochloride",
+      "slug": "dexmedetomidine_hydrochloride",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
       "name": "Dexpanthenol",
       "slug": "dexpanthenol",
       "level": "L5",
@@ -1098,6 +1260,12 @@
     {
       "name": "Dextromethorphan",
       "slug": "dextromethorphan",
+      "level": "L5",
+      "indication_count": 5
+    },
+    {
+      "name": "Dextromethorphan Hbr",
+      "slug": "dextromethorphan_hbr",
       "level": "L5",
       "indication_count": 5
     },
@@ -1120,6 +1288,12 @@
       "indication_count": 10
     },
     {
+      "name": "Dicyclomine Hydrochloride",
+      "slug": "dicyclomine_hydrochloride",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
       "name": "Dienogest",
       "slug": "dienogest",
       "level": "L5",
@@ -1130,6 +1304,12 @@
       "slug": "digoxin",
       "level": "L5",
       "indication_count": 5
+    },
+    {
+      "name": "Dihydrocodeine Tartrate",
+      "slug": "dihydrocodeine_tartrate",
+      "level": "L5",
+      "indication_count": 8
     },
     {
       "name": "Dimenhydrinate",
@@ -1144,10 +1324,40 @@
       "indication_count": 1
     },
     {
+      "name": "Diphenhydramine Hcl",
+      "slug": "diphenhydramine_hcl",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Diphenhydramine Hydrochloride",
+      "slug": "diphenhydramine_hydrochloride",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Dl-Camphor",
+      "slug": "dl-camphor",
+      "level": "L4",
+      "indication_count": 9
+    },
+    {
+      "name": "Dobutamine Hydrochloride",
+      "slug": "dobutamine_hydrochloride",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
       "name": "Docetaxel",
       "slug": "docetaxel",
       "level": "L2",
       "indication_count": 7
+    },
+    {
+      "name": "Docusate Sodium",
+      "slug": "docusate_sodium",
+      "level": "L5",
+      "indication_count": 2
     },
     {
       "name": "Dolutegravir",
@@ -2074,10 +2284,22 @@
       "indication_count": 5
     },
     {
+      "name": "Levothyroxine Sodium",
+      "slug": "levothyroxine_sodium",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
       "name": "Lidocaine",
       "slug": "lidocaine",
       "level": "L5",
       "indication_count": 10
+    },
+    {
+      "name": "Lincomycin Hydrochloride",
+      "slug": "lincomycin_hydrochloride",
+      "level": "L5",
+      "indication_count": 3
     },
     {
       "name": "Lisinopril",
@@ -2704,6 +2926,18 @@
       "indication_count": 3
     },
     {
+      "name": "Pinaverium Bromide",
+      "slug": "pinaverium_bromide",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Pioglitazone Hydrochloride",
+      "slug": "pioglitazone_hydrochloride",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
       "name": "Piperacillin",
       "slug": "piperacillin",
       "level": "L5",
@@ -2732,6 +2966,12 @@
       "slug": "pitavastatin",
       "level": "L5",
       "indication_count": 4
+    },
+    {
+      "name": "Pitolisant Hydrochloride",
+      "slug": "pitolisant_hydrochloride",
+      "level": "L5",
+      "indication_count": 3
     },
     {
       "name": "Plerixafor",
