@@ -1,0 +1,15 @@
+{
+ "branches": [
+  "checker-m3x-20261105",
+  "dependabot/bundler/docs/jekyll-seo-tag-2.9.0"
+ ],
+ "releases": [
+  "data-20261029",
+  "data-20261029-162221",
+  "data-20261105-165403",
+  "data-20261105-230436",
+  "data-20261112-164750",
+  "data-20261116-092717"
+ ],
+ "_note": "2026-11-17 用戶同意的清理：已關 PR 的 dependabot 分支、已併進 main 的 11-05 一次性分支；data-* Release 只刪 repo 內沒有引用、內容只有本站 data 檔、且不是最新兩版的。"
+}
