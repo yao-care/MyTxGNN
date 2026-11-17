@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-17
 description: "Dexamethasone: indikasi baharu diramal Alopesia musinosa (alopecia mucinosa) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Dexamethasone ialah kortikosteroid sintetik daripada kumpulan glukokortikoid yan
 | Indikasi Baharu yang Diramalkan | Alopesia musinosa (alopecia mucinosa) |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 37 daripada 41; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 41 (sah: 37; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 37 daripada 41) |
+| Bilangan Pendaftaran | 41 (sah: 37) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Cyanocobalamin"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-17
 description: "Cyanocobalamin: indikasi baharu diramal biotin metabolic disease (tahap bukti L5). Indikasi asal: Kekurangan vitamin B12, anemia pernisiosa…"
 ---
 
@@ -51,8 +51,8 @@ Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **penya
 | Indikasi Baharu yang Diramalkan | Penyakit metabolik biotin |
 | Skor Ramalan TxGNN | 0.9960 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 470 daripada 486; status tidak dapat disahkan: 3) |
-| Bilangan Pendaftaran | 486 (sah: 470; status tidak dapat disahkan: 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 470 daripada 486; status tidak dapat disahkan: 2) |
+| Bilangan Pendaftaran | 486 (sah: 470; status tidak dapat disahkan: 2) |
 | Bilangan Kelulusan | Sekurang-kurangnya 428 pendaftaran (13 produk bahan tunggal, 415 produk kombinasi) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 
@@ -94,11 +94,11 @@ Senarai di bawah ialah sebahagian daripada lesen produk bahan tunggal cyanocobal
 | MAL23056017AZ | CB12 Solution for Injection 1000mcg/ml | Tiada data | Tiada data |
 | MAL16055001NCZ | NATURE'S BOUNTY VITAMIN B-12 500mcg tablets | Tiada data | Tiada data |
 
-Jumlah pendaftaran ialah 486 (472 sah), termasuk 472 produk kombinasi (kebanyakannya multivitamin dan vitamin B kompleks). Lesen produk kombinasi tidak digunakan untuk menggambarkan status kelulusan bahan tunggal.
+Jumlah pendaftaran ialah 486 (470 sah), termasuk 472 produk kombinasi (kebanyakannya multivitamin dan vitamin B kompleks). Lesen produk kombinasi tidak digunakan untuk menggambarkan status kelulusan bahan tunggal.
 
 <!-- review:begin my-lic-20261112-cyanocobalamin-1 -->
 
-> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 486 pendaftaran, 472 sah; 14 bahan tunggal, 472 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-17)**: Asalnya dinyatakan: "Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): 486 pendaftaran, 470 sah, 472 produk kombinasi. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled).
 
 <!-- review:end my-lic-20261112-cyanocobalamin-1 -->
 
@@ -133,7 +133,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi” → “Jumlah pendaftaran ialah 486 (472 sah), termasuk 472 produk kombinasi” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-17 | Bilangan pendaftaran: “Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi” → “Jumlah pendaftaran ialah 486 (470 sah), termasuk 472 produk kombinasi” | Dibetulkan (disemak 2026-11-17; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
 
 <!-- review:end log -->
 

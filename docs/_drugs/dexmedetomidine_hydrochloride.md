@@ -71,7 +71,13 @@ Buat masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran di Malaysia
 
-Data tempatan menunjukkan status pasaran **dipasarkan**. Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibatalkan. Senarai lesen terperinci dijana oleh program tapak dan tidak diulang di sini.
+Data tempatan menunjukkan status pasaran **dipasarkan**. Terdapat 10 pendaftaran produk bahan tunggal, dengan 9 sah dan 1 dibatalkan. Senarai lesen terperinci dijana oleh program tapak dan tidak diulang di sini.
+
+<!-- review:begin my-lic-20261117-dexmedetomidine_hydrochloride-1 -->
+
+> **Pembetulan semakan (2026-11-17)**: Asalnya dinyatakan: "Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibatalkan." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): 10 pendaftaran (semuanya bahan tunggal), 9 sah, 1 dibatalkan atau tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled).
+
+<!-- review:end my-lic-20261117-dexmedetomidine_hydrochloride-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -89,6 +95,19 @@ Ramalan ini tidak disokong oleh sebarang ujian klinikal atau literatur untuk pen
 - Bukti praklinikal atau klinikal yang mengkaji secara langsung penyakit ini
 - Amaran dan kontraindikasi daripada risalah pakej NPRA untuk saringan keselamatan
 - Pertimbangan berasingan bagi ramalan lain dalam senarai (misalnya migrain, skor 0.9949, dan gangguan sakit kepala, skor 0.9930). Setiap satu perlu dinilai secara bebas dan bukan sebagai pengganti ramalan utama ini.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-17 | Status pendaftaran: “Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibatalkan.” → “Terdapat 10 pendaftaran produk bahan tunggal, dengan 9 sah dan 1 dibatalkan.” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 562
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-17
 monitor_inn: "pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
 description: "Pemetrexed: indikasi baharu diramal Pleural adenomatoid tumor (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ Arah ini disokong oleh **7 ujian klinikal** dan **20 penerbitan**. Kebanyakan bu
 | Indikasi Baharu yang Diramalkan | Pleural adenomatoid tumor |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 (satu ujian Phase 2 selesai yang merangkumi populasi peritoneum, tetapi bukan rawak dan tapak campuran) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 22 daripada 25; status tidak dapat disahkan: 2) |
-| Bilangan Pendaftaran | 25 (sah: 22; status tidak dapat disahkan: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 24 daripada 25) |
+| Bilangan Pendaftaran | 25 (sah: 24) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 
 ---

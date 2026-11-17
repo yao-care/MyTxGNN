@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Estradiol valerate"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "luteoma of pregnancy", "ovarian dysfunction"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-17
 description: "Estradiol Valerate: indikasi baharu diramal Symptomatic form of fragile X syndrome in female carrier (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -52,8 +52,8 @@ Tiada kajian yang dipetik membuktikan faedah terapeutik secara langsung; malah, 
 | Indikasi Baharu yang Diramalkan | Symptomatic form of fragile X syndrome in female carrier |
 | Skor Ramalan TxGNN | 0.9994 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 6; status tidak dapat disahkan: 3) |
-| Bilangan Pendaftaran | 6 (sah: 3; status tidak dapat disahkan: 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 3) |
 | Jumlah Kelulusan | 3 lesen (2 produk tunggal, 1 produk gabungan) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
@@ -106,7 +106,13 @@ Kebanyakan penerbitan ini menggunakan estradiol valerate untuk mencetuskan penya
 | MAL09020972ARZ | Progynova Tablet 2mg | Tidak direkodkan | Tidak direkodkan |
 | MAL20021014AZ | PROGYLUTON TABLETS (produk gabungan) | Tidak direkodkan | Tidak direkodkan |
 
-Semua lesen berstatus sah dan dipegang oleh Bayer Co. (Malaysia) Sdn. Bhd. Lesen produk gabungan (Progyluton) tidak boleh digunakan untuk menggambarkan status kelulusan bahan tunggal.
+Ketiga-tiga nombor pendaftaran di atas tidak lagi tersenarai dalam daftar semasa NPRA; produk yang sama kini berdaftar sebagai MAL09020971ACRZ, MAL09020972ACRZ dan MAL20021014ACZ, dipegang oleh A. Menarini Singapore Pte. Ltd. Lesen produk gabungan (Progyluton) tidak boleh digunakan untuk menggambarkan status kelulusan bahan tunggal.
+
+<!-- review:begin my-lic-20261117-estradiol_valerate-1 -->
+
+> **Pembetulan semakan (2026-11-17)**: Asalnya dinyatakan: "Semua lesen berstatus sah dan dipegang oleh Bayer Co. (Malaysia) Sdn. Bhd." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): MAL09020971ARZ, MAL09020972ARZ dan MAL20021014AZ tiada dalam daftar semasa mahupun senarai pembatalan; produk yang sama (nama dan bahan aktif sama) kini disenaraikan sebagai MAL09020971ACRZ, MAL09020972ACRZ dan MAL20021014ACZ dengan pemegang A. Menarini Singapore Pte. Ltd. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled).
+
+<!-- review:end my-lic-20261117-estradiol_valerate-1 -->
 
 ---
 
@@ -129,6 +135,19 @@ Calon lain (contohnya sindrom X rapuh, BPES dan kelainan kromosom) hanya mempuny
 - Keputusan atau status terkini ujian NCT02186782
 - Ujian klinikal rawak Fasa 2/3 yang mengkaji anovulasi secara langsung
 - Penilaian keserasian laluan pentadbiran dan kumpulan pesakit sasaran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-17 | Status pendaftaran: “Semua lesen berstatus sah dan dipegang oleh Bayer Co. (Malaysia) Sdn. Bhd.” → “Ketiga-tiga nombor pendaftaran di atas tidak lagi tersenarai dalam daftar semasa” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

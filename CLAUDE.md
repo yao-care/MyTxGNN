@@ -523,3 +523,20 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 所以每週排程、license_rebuild_run、sync_notes_to_docs 之後張數會跟著事實層更新；gate 第 22 項擋「再跑一次會變」。
 判斷不了的句子（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上）不改，`--list` 列出，2026-11-12 已用 `--uncertain` 加進待查清單（source：正文許可證張數程式改寫判斷不了的句子），要改請寫查核紀錄。
 2026-11-12 待查清單裡程式判斷不了的 20 句（18 頁）已逐句對照事實層與證據包 npra.records，以 `my-lic-20261112-*` 改寫（「全部有效」而實際有 Expired 的改成「N daripadanya sah dan 1 telah tamat tempoh」；張數照事實層；單方／複方張數照證據包成分，與事實層一致），待查清單標 resolved。trastuzumab 證據包 18 張、事實層 14 張，照事實層寫。
+
+## 新資料查不到的登記號（2026-11-17）
+
+2026-11-16 每週排程列出 324 張「新資料查不到」（證據包 12,462 張，超過 2% 開 issue）。用戶要求確認實際狀態：重新下載 data.gov.my
+的 pharmaceutical_products.csv（現行註冊，28,387 筆）與 pharmaceutical_products_cancelled.csv（撤銷，1,623 筆；data.gov.my 只有這兩份藥品註冊資料集）逐號比對。
+大小寫、空白、號碼格式都對得上（0 張是寫法差異），分三類：
+- 50 張是同一張註冊換了尾碼（NPRA 登記號後的類別字母改了，或到期後以新尾碼續證；例：MAL09020971ARZ→MAL09020971ACRZ（Progynova，持有人 Bayer→Menarini）、
+  MAL21046030AZ 2026-04-02 到期→MAL21046030ARZ）。判定：前 8 位數字相同、產品名與有效成分相同、現行檔裡只有一個這樣的號。
+  `scripts/license_adapter.py` 的 status_index 讓舊號沿用新號的狀態：新號不在同一個證據包（12 張）→ 有效（「… (now listed as 新號)」）；
+  新號已在同一個證據包（38 張）→ RETIRED_STATUS（算非有效，免得同一張註冊算兩張）。產品名或成分不同的同號不同尾碼（5 張，例：MAL11030014AZ Prevulcer／MAL11030014HA Toltravet）不認。
+- 209 張兩份都沒有、證據包到期日已過（原本就是 EXPIRED_STATUS）：`confirmed_absent()` 讓排程列成「現行清單確認已不列」，不算查不到；preprocess 另記 npra_not_listed（第一次發現日，又出現就拿掉）。
+- 65 張兩份都沒有、到期日未到（例：Cymbalta MAL05092473ARZ、Forxiga 5mg MAL14015013ARZ）：維持 2026-11-05 用戶決定的 UNKNOWN_STATUS、照舊列在「新資料查不到」。
+  NPRA QUEST3+ 單筆查詢擋自動化請求，沒能逐號確認，不推定撤銷。
+兩份資料集任一份下載失敗或現行號碼少於 MIN_CURRENT（20,000）時不做上述判定。
+- 頁面：概覽狀態列／張數列由程式同步（32 頁）；正文與表格跟新事實矛盾的以 `my-lic-20261117-*`、`my-row-20261117-*` 更正（cefoperazone、estradiol_valerate、dexmedetomidine_hydrochloride、netarsudil 2 列、thiotepa 1 列），
+  apixaban、cyanocobalamin、vitamin_e 的 11-12 紀錄同 id 重發（前版存 history）。
+- 同日修 `src/mytxgnn/regulatory/count_prose.py`：「1 sah dan 1 dibatalkan」的第一個數字被當成註銷數（中間跳過 sah），ambroxol 會被改成「0 sah dan 0 dibatalkan」；註銷角色的中間字不能是 sah／aktif 或數字。

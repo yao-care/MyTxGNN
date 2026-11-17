@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 84
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-17
 monitor_inn: "APIXABAN"
 predicted_indications: ["migraine disorder"]
 description: "Apixaban: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -48,8 +48,8 @@ Apixaban ialah antikoagulan oral yang merencat faktor Xa secara langsung. Model 
 | Indikasi Baharu yang Diramalkan | Migrain (migraine disorder) |
 | Skor Ramalan TxGNN | 0.9902 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 32; status tidak dapat disahkan: 2) |
-| Bilangan Pendaftaran | 32 (sah: 30; status tidak dapat disahkan: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 32) |
+| Bilangan Pendaftaran | 32 (sah: 30) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -76,11 +76,11 @@ Namun, laporan kes yang ada bercanggah dengan hipotesis ini: satu melaporkan mig
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **dipasarkan**, dengan 30 lesen sah dan tiada lesen dibatalkan. Butiran setiap lesen tidak disenaraikan dalam data yang ada.
+Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **dipasarkan**, dengan 30 lesen sah; 2 nombor pendaftaran lama (MAL23056021AZ, MAL23056022AZ) tidak lagi tersenarai kerana produk yang sama kini berdaftar sebagai MAL23056021ARZ dan MAL23056022ARZ. Butiran setiap lesen tidak disenaraikan dalam data yang ada.
 
 <!-- review:begin my-lic-20261112-apixaban-1 -->
 
-> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "dengan 25 lesen sah dan tiada lesen dibatalkan" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 32 pendaftaran, 30 sah, 2 tanpa status dalam data NPRA, tiada yang dibatalkan. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-17)**: Asalnya dinyatakan: "dengan 25 lesen sah dan tiada lesen dibatalkan" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): 32 rekod pendaftaran, 30 sah; MAL23056021AZ dan MAL23056022AZ tiada dalam daftar semasa mahupun senarai pembatalan, dan produk yang sama (GENEXIBAN) kini disenaraikan sebagai MAL23056021ARZ dan MAL23056022ARZ. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled).
 
 <!-- review:end my-lic-20261112-apixaban-1 -->
 
@@ -115,7 +115,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan 30 lesen sah dan tiada lesen dibatalkan” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-17 | Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan 30 lesen sah; 2 nombor pendaftaran lama (MAL23056021AZ, MAL23056022AZ) ti” | Dibetulkan (disemak 2026-11-17; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
 
 <!-- review:end log -->
 

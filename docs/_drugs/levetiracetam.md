@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 454
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-17
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Levetiracetam: indikasi baharu diramal Beta-ketothiolase deficiency (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **epilepsi visual (visual epile
 | Indikasi Baharu Diramalkan | Beta-ketothiolase deficiency |
 | Skor Ramalan TxGNN | 0.9990 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 43 daripada 46; status tidak dapat disahkan: 2) |
-| Bilangan Pendaftaran | 46 (sah: 43; status tidak dapat disahkan: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 43 daripada 46) |
+| Bilangan Pendaftaran | 46 (sah: 43) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 591
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-17
 monitor_inn: "POTASSIUM BICARBONATE"
 predicted_indications: ["gastroduodenitis"]
 description: "Potassium Bicarbonate: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Gastroduodenitis |
 | Skor Ramalan TxGNN | 0.9972 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 5; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 5 (sah: 4; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 4) |
 | Keputusan Disyorkan | Hold |
 
 ---

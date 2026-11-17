@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Streptokinase"
 predicted_indications: ["Prinzmetal angina", "hemoglobinopathy", "peripheral vascular disease", "peripheral arterial disease", "partial deletion of the short arm of chromosome 16"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-17
 description: "Streptokinase: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Prinzmetal angina** dengan sk
 | Indikasi Baharu yang Diramalkan | Prinzmetal angina |
 | Skor Ramalan TxGNN | 0.9980 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 2; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 2 (sah: 1; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 1) |
 | Bilangan Kelulusan | 1 pendaftaran |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 

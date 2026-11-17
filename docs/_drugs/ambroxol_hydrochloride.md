@@ -79,7 +79,7 @@ Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 | MAL20001061X | MUCOCLEAR SYRUP | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
 | MAL24016039XC | PRESMEDIC AMBROXOL TABLET 30MG | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
 
-Terdapat 22 lesen dalam rekod tempatan; 1 sah dan 1 dibatalkan. Hanya 5 yang utama disenaraikan di atas.
+Terdapat 22 lesen dalam rekod tempatan; 21 sah dan 1 dibatalkan. Hanya 5 yang utama disenaraikan di atas.
 
 ## Pertimbangan Keselamatan
 

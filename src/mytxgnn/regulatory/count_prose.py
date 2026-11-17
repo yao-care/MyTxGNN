@@ -48,7 +48,8 @@ def _role(s, a, b):
         return "display"
     head = re.match(rf"\s*(?:{NOUN}\s*)?(?:yang\s+)?(?:\w+\s+){{0,3}}", right)
     near = right[:40]
-    if re.match(r"\s*(?:\w+\s+){0,3}(telah\s+)?dibatalkan", near):
+    # 中間的字不能是 sah／aktif 或另一個數字（「1 sah dan 1 dibatalkan」的第一個 1 是有效數；2026-11-17 修）
+    if re.match(r"\s*(?:(?!(?:sah|aktif)\b|\d)\w+\s+){0,3}(telah\s+)?dibatalkan", near):
         return "cancelled"
     if re.match(r"\s*(?:\w+\s+){0,2}(?:ialah\s+|untuk\s+)?produk\s+(?:\w+\s+)?(?:gabungan|kombinasi)", near) \
             or re.match(r"\s*(?:\w+\s+){0,1}(?:ialah\s+)?(?:produk\s+)?(?:gabungan|kombinasi)", near):

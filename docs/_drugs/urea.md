@@ -11,7 +11,7 @@ brands: []
 permalink: /drugs/urea/
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-17
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 122 daripada 128; status tidak dapat disahkan: 2) |
-| Bilangan Pendaftaran | 128 (sah: 122; status tidak dapat disahkan: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 123 daripada 128; status tidak dapat disahkan: 1) |
+| Bilangan Pendaftaran | 128 (sah: 123; status tidak dapat disahkan: 1) |
 | **Nama Ubat** | Urea |
 | **ID DrugBank** | [DB03904](https://go.drugbank.com/drugs/DB03904) |
 | **Ramalan DL (≥0.7)** | 27 |

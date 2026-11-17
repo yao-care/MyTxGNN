@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Vitamin E"
 predicted_indications: ["inborn disorder of bilirubin metabolism", "bilirubin metabolism disease", "hereditary North American Indian childhood cirrhosis", "drug-induced liver injury", "microvillus inclusion disease", "hyperbiliverdinemia", "Navajo neurohepatopathy", "nevus of Ito", "adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency", "mitochondrial DNA depletion syndrome, hepatocerebral form"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-17
 description: "Vitamin E: indikasi baharu diramal Inborn disorder of bilirubin metabolism (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
@@ -48,8 +48,8 @@ Vitamin E ialah vitamin larut lemak dan antioksidan yang didaftarkan di Malaysia
 | Indikasi Baharu yang Diramalkan | Inborn disorder of bilirubin metabolism |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 230 daripada 251; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 251 (sah: 230; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 230 daripada 251) |
+| Bilangan Pendaftaran | 251 (sah: 230) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -70,11 +70,11 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-Vitamin E didaftarkan dalam 251 produk (231 sah, 19 telah tamat tempoh atau dibatalkan, 1 tidak mempunyai status dalam data NPRA). Daripada jumlah itu, 36 ialah produk bahan tunggal dan 215 ialah produk kombinasi. Teks indikasi diluluskan dan bentuk dos tidak direkodkan, jadi lajur tersebut tidak disenaraikan. Berikut ialah 5 contoh produk bahan tunggal:
+Vitamin E didaftarkan dalam 251 produk (230 sah, 21 telah tamat tempoh, dibatalkan atau digantikan dengan nombor pendaftaran baharu). Daripada jumlah itu, 36 ialah produk bahan tunggal dan 215 ialah produk kombinasi. Teks indikasi diluluskan dan bentuk dos tidak direkodkan, jadi lajur tersebut tidak disenaraikan. Berikut ialah 5 contoh produk bahan tunggal:
 
 <!-- review:begin my-lic-20261112-vitamin_e-1 -->
 
-> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Vitamin E didaftarkan dalam 245 produk (semuanya sah)." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 251 pendaftaran: 231 sah, 19 tamat tempoh atau dibatalkan, 1 tanpa status. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-17)**: Asalnya dinyatakan: "Vitamin E didaftarkan dalam 245 produk (semuanya sah)." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): 251 pendaftaran: 230 sah, 21 tamat tempoh, dibatalkan atau nombor lama yang telah digantikan. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled).
 
 <!-- review:end my-lic-20261112-vitamin_e-1 -->
 
@@ -122,7 +122,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “Vitamin E didaftarkan dalam 245 produk (semuanya sah).” → “Vitamin E didaftarkan dalam 251 produk (231 sah, 19 telah tamat tempoh atau diba” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-17 | Bilangan pendaftaran: “Vitamin E didaftarkan dalam 245 produk (semuanya sah).” → “Vitamin E didaftarkan dalam 251 produk (230 sah, 21 telah tamat tempoh, dibatalk” | Dibetulkan (disemak 2026-11-17; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
 | 2026-11-12 | Bilangan pendaftaran: “36 ialah produk bahan tunggal dan 209 ialah produk kombinasi” → “36 ialah produk bahan tunggal dan 215 ialah produk kombinasi” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->

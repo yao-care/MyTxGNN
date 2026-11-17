@@ -50,8 +50,8 @@ tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang mengka
 | Indikasi Baharu yang Diramalkan | Kolangitis sklerosis (sclerosing cholangitis) |
 | Skor Ramalan TxGNN | 0,9998 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 9; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 9 (sah: 8; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 8) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -70,7 +70,13 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **Dipasarkan**, dengan 8 lesen yang sah dan tiada yang dibatalkan. Butiran lesen individu tidak tersedia dalam data ini.
+Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **Dipasarkan**, dengan 8 lesen yang sah; 1 nombor pendaftaran lama (MAL19993017ASZ, SULPERAZON 1G IM/IV) tidak lagi tersenarai kerana produk yang sama kini berdaftar sebagai MAL19993017ACSZ. Butiran lesen individu tidak tersedia dalam data ini.
+
+<!-- review:begin my-lic-20261117-cefoperazone-1 -->
+
+> **Pembetulan semakan (2026-11-17)**: Asalnya dinyatakan: "dengan 8 lesen yang sah dan tiada yang dibatalkan" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): 9 rekod pendaftaran, 8 sah; MAL19993017ASZ tiada dalam daftar semasa mahupun senarai pembatalan, dan produk yang sama (nama, bahan aktif dan nombor asas sama) kini disenaraikan sebagai MAL19993017ACSZ. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled).
+
+<!-- review:end my-lic-20261117-cefoperazone-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -93,6 +99,19 @@ Ramalan ini tidak disokong oleh sebarang ujian klinikal atau penerbitan, dan tia
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Kajian praklinikal atau klinikal yang mengkaji cefoperazone secara langsung dalam kolangitis sklerosis
 - Penilaian keserasian laluan pemberian
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-17 | Status pendaftaran: “dengan 8 lesen yang sah dan tiada yang dibatalkan” → “dengan 8 lesen yang sah; 1 nombor pendaftaran lama (MAL19993017ASZ, SULPERAZON 1” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

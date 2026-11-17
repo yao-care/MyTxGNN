@@ -3687,19 +3687,48 @@
    "file": "apixaban.md",
    "action": "correct",
    "claim": "dengan 25 lesen sah dan tiada lesen dibatalkan",
-   "replacement": "dengan 30 lesen sah dan tiada lesen dibatalkan",
-   "summary": "Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan 30 lesen sah dan tiada lesen dibatalkan”",
-   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 32 pendaftaran, 30 sah, 2 tanpa status dalam data NPRA, tiada yang dibatalkan. Angka semasa terdapat dalam Gambaran Ringkas.",
-   "finding": "正文寫 25 張有效，事實層有效 30（另 2 張狀態不明、0 張註銷）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "replacement": "dengan 30 lesen sah; 2 nombor pendaftaran lama (MAL23056021AZ, MAL23056022AZ) tidak lagi tersenarai kerana produk yang sama kini berdaftar sebagai MAL23056021ARZ dan MAL23056022ARZ",
+   "summary": "Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan 30 lesen sah; 2 nombor pendaftaran lama (MAL23056021AZ, MAL23056022AZ) ti”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): 32 rekod pendaftaran, 30 sah; MAL23056021AZ dan MAL23056022AZ tiada dalam daftar semasa mahupun senarai pembatalan, dan produk yang sama (GENEXIBAN) kini disenaraikan sebagai MAL23056021ARZ dan MAL23056022ARZ. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "11-12 版寫「30 有效、0 註銷」（另 2 張狀態不明）；2026-11-17 查明那 2 張（GENEXIBAN AZ）是換尾碼的舊號，新號 ARZ 在現行檔且已在本藥證據包，事實層 32 張：有效 30、非有效 2",
    "sources": [
     {
      "title": "NPRA pharmaceutical product registrations (data.gov.my)",
      "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
-     "accessed": "2026-11-09"
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled",
+     "accessed": "2026-11-17"
     }
    ],
-   "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+   "checked": "2026-11-17",
+   "method": "2026-11-17 人工查核（11-16 排程「新資料查不到」的登記號逐號對照 data.gov.my 現行註冊與撤銷清單；舊號換尾碼由產品名＋有效成分＋前 8 位數字比對）",
+   "history": [
+    {
+     "id": "my-lic-20261112-apixaban-1",
+     "drug": "apixaban",
+     "file": "apixaban.md",
+     "action": "correct",
+     "claim": "dengan 25 lesen sah dan tiada lesen dibatalkan",
+     "replacement": "dengan 30 lesen sah dan tiada lesen dibatalkan",
+     "summary": "Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan 30 lesen sah dan tiada lesen dibatalkan”",
+     "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 32 pendaftaran, 30 sah, 2 tanpa status dalam data NPRA, tiada yang dibatalkan. Angka semasa terdapat dalam Gambaran Ringkas.",
+     "finding": "正文寫 25 張有效，事實層有效 30（另 2 張狀態不明、0 張註銷）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+     "sources": [
+      {
+       "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+       "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+       "accessed": "2026-11-09"
+      }
+     ],
+     "checked": "2026-11-12",
+     "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
+     "retired": "2026-11-17",
+     "reason": "2026-11-17 查明狀態不明的 2 張是換尾碼的舊號，事實層改算非有效；「tiada lesen dibatalkan」不再成立"
+    }
+   ]
   },
   {
    "id": "my-lic-20261112-atorvastatin_calcium_trihydrate-1",
@@ -3853,19 +3882,48 @@
    "file": "cyanocobalamin.md",
    "action": "correct",
    "claim": "Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi",
-   "replacement": "Jumlah pendaftaran ialah 486 (472 sah), termasuk 472 produk kombinasi",
-   "summary": "Bilangan pendaftaran: “Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi” → “Jumlah pendaftaran ialah 486 (472 sah), termasuk 472 produk kombinasi”",
-   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 486 pendaftaran, 472 sah; 14 bahan tunggal, 472 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas.",
-   "finding": "正文寫 428 張（複方 415），事實層 486 張（有效 472；單方 14、複方 472）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "replacement": "Jumlah pendaftaran ialah 486 (470 sah), termasuk 472 produk kombinasi",
+   "summary": "Bilangan pendaftaran: “Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi” → “Jumlah pendaftaran ialah 486 (470 sah), termasuk 472 produk kombinasi”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): 486 pendaftaran, 470 sah, 472 produk kombinasi. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "事實層 486 張：有效 470、非有效 14（含換尾碼的舊號 MAL20106039N、MAL23056089N）、狀態不明 2；單方 14、複方 472",
    "sources": [
     {
      "title": "NPRA pharmaceutical product registrations (data.gov.my)",
      "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
-     "accessed": "2026-11-09"
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled",
+     "accessed": "2026-11-17"
     }
    ],
-   "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+   "checked": "2026-11-17",
+   "method": "2026-11-17 人工查核（11-16 排程「新資料查不到」的登記號逐號對照 data.gov.my 現行註冊與撤銷清單；舊號換尾碼由產品名＋有效成分＋前 8 位數字比對）",
+   "history": [
+    {
+     "id": "my-lic-20261112-cyanocobalamin-1",
+     "drug": "cyanocobalamin",
+     "file": "cyanocobalamin.md",
+     "action": "correct",
+     "claim": "Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi",
+     "replacement": "Jumlah pendaftaran ialah 486 (472 sah), termasuk 472 produk kombinasi",
+     "summary": "Bilangan pendaftaran: “Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi” → “Jumlah pendaftaran ialah 486 (472 sah), termasuk 472 produk kombinasi”",
+     "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 486 pendaftaran, 472 sah; 14 bahan tunggal, 472 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas.",
+     "finding": "正文寫 428 張（複方 415），事實層 486 張（有效 472；單方 14、複方 472）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+     "sources": [
+      {
+       "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+       "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+       "accessed": "2026-11-09"
+      }
+     ],
+     "checked": "2026-11-12",
+     "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
+     "retired": "2026-11-17",
+     "reason": "2026-11-17 事實層有效數為 470（換尾碼舊號改算非有效），更正文字的「472 sah」不再成立"
+    }
+   ]
   },
   {
    "id": "my-lic-20261112-ketoconazole-1",
@@ -3993,19 +4051,48 @@
    "file": "vitamin_e.md",
    "action": "correct",
    "claim": "Vitamin E didaftarkan dalam 245 produk (semuanya sah).",
-   "replacement": "Vitamin E didaftarkan dalam 251 produk (231 sah, 19 telah tamat tempoh atau dibatalkan, 1 tidak mempunyai status dalam data NPRA).",
-   "summary": "Bilangan pendaftaran: “Vitamin E didaftarkan dalam 245 produk (semuanya sah).” → “Vitamin E didaftarkan dalam 251 produk (231 sah, 19 telah tamat tempoh atau diba”",
-   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 251 pendaftaran: 231 sah, 19 tamat tempoh atau dibatalkan, 1 tanpa status. Angka semasa terdapat dalam Gambaran Ringkas.",
-   "finding": "正文寫 245 張全有效，事實層 251 張（有效 231、過期 18＋註銷 1、狀態不明 1）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "replacement": "Vitamin E didaftarkan dalam 251 produk (230 sah, 21 telah tamat tempoh, dibatalkan atau digantikan dengan nombor pendaftaran baharu).",
+   "summary": "Bilangan pendaftaran: “Vitamin E didaftarkan dalam 245 produk (semuanya sah).” → “Vitamin E didaftarkan dalam 251 produk (230 sah, 21 telah tamat tempoh, dibatalk”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): 251 pendaftaran: 230 sah, 21 tamat tempoh, dibatalkan atau nombor lama yang telah digantikan. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "事實層 251 張：有效 230、非有效 21（含換尾碼的舊號 MAL20106039N）；原「1 張狀態不明」已查明",
    "sources": [
     {
      "title": "NPRA pharmaceutical product registrations (data.gov.my)",
      "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
-     "accessed": "2026-11-09"
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled",
+     "accessed": "2026-11-17"
     }
    ],
-   "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+   "checked": "2026-11-17",
+   "method": "2026-11-17 人工查核（11-16 排程「新資料查不到」的登記號逐號對照 data.gov.my 現行註冊與撤銷清單；舊號換尾碼由產品名＋有效成分＋前 8 位數字比對）",
+   "history": [
+    {
+     "id": "my-lic-20261112-vitamin_e-1",
+     "drug": "vitamin_e",
+     "file": "vitamin_e.md",
+     "action": "correct",
+     "claim": "Vitamin E didaftarkan dalam 245 produk (semuanya sah).",
+     "replacement": "Vitamin E didaftarkan dalam 251 produk (231 sah, 19 telah tamat tempoh atau dibatalkan, 1 tidak mempunyai status dalam data NPRA).",
+     "summary": "Bilangan pendaftaran: “Vitamin E didaftarkan dalam 245 produk (semuanya sah).” → “Vitamin E didaftarkan dalam 251 produk (231 sah, 19 telah tamat tempoh atau diba”",
+     "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 251 pendaftaran: 231 sah, 19 tamat tempoh atau dibatalkan, 1 tanpa status. Angka semasa terdapat dalam Gambaran Ringkas.",
+     "finding": "正文寫 245 張全有效，事實層 251 張（有效 231、過期 18＋註銷 1、狀態不明 1）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+     "sources": [
+      {
+       "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+       "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+       "accessed": "2026-11-09"
+      }
+     ],
+     "checked": "2026-11-12",
+     "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
+     "retired": "2026-11-17",
+     "reason": "2026-11-17 狀態不明的 1 張查明是換尾碼的舊號，事實層有效 230、非有效 21"
+    }
+   ]
   },
   {
    "id": "my-lic-20261112-vitamin_e-2",
@@ -4070,6 +4157,156 @@
      "reason": "改寫更正文字：「314 lesen (304 sah)」數字正確，但檢查器把「314 lesen … sah」讀成 314 張有效；改成明寫有效張數與總數"
     }
    ]
+  },
+  {
+   "id": "my-lic-20261117-cefoperazone-1",
+   "drug": "cefoperazone",
+   "file": "cefoperazone.md",
+   "action": "correct",
+   "claim": "dengan 8 lesen yang sah dan tiada yang dibatalkan",
+   "replacement": "dengan 8 lesen yang sah; 1 nombor pendaftaran lama (MAL19993017ASZ, SULPERAZON 1G IM/IV) tidak lagi tersenarai kerana produk yang sama kini berdaftar sebagai MAL19993017ACSZ",
+   "summary": "Status pendaftaran: “dengan 8 lesen yang sah dan tiada yang dibatalkan” → “dengan 8 lesen yang sah; 1 nombor pendaftaran lama (MAL19993017ASZ, SULPERAZON 1”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): 9 rekod pendaftaran, 8 sah; MAL19993017ASZ tiada dalam daftar semasa mahupun senarai pembatalan, dan produk yang sama (nama, bahan aktif dan nombor asas sama) kini disenaraikan sebagai MAL19993017ACSZ. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "MAL19993017ASZ 不在現行檔與撤銷檔；同產品名、同成分、同前 8 位數字的 MAL19993017ACSZ 在現行檔（PRODUCT APPROVED，2024-12-28～2029-12-28），且已在本藥證據包；舊號是換尾碼後的重複一筆，事實層算非有效：9 張中有效 8",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 人工查核（11-16 排程「新資料查不到」的登記號逐號對照 data.gov.my 現行註冊與撤銷清單；舊號換尾碼由產品名＋有效成分＋前 8 位數字比對）"
+  },
+  {
+   "id": "my-lic-20261117-estradiol_valerate-1",
+   "drug": "estradiol_valerate",
+   "file": "estradiol_valerate.md",
+   "action": "correct",
+   "claim": "Semua lesen berstatus sah dan dipegang oleh Bayer Co. (Malaysia) Sdn. Bhd.",
+   "replacement": "Ketiga-tiga nombor pendaftaran di atas tidak lagi tersenarai dalam daftar semasa NPRA; produk yang sama kini berdaftar sebagai MAL09020971ACRZ, MAL09020972ACRZ dan MAL20021014ACZ, dipegang oleh A. Menarini Singapore Pte. Ltd.",
+   "summary": "Status pendaftaran: “Semua lesen berstatus sah dan dipegang oleh Bayer Co. (Malaysia) Sdn. Bhd.” → “Ketiga-tiga nombor pendaftaran di atas tidak lagi tersenarai dalam daftar semasa”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): MAL09020971ARZ, MAL09020972ARZ dan MAL20021014AZ tiada dalam daftar semasa mahupun senarai pembatalan; produk yang sama (nama dan bahan aktif sama) kini disenaraikan sebagai MAL09020971ACRZ, MAL09020972ACRZ dan MAL20021014ACZ dengan pemegang A. Menarini Singapore Pte. Ltd. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "表上 3 個舊號都不在現行檔與撤銷檔；同名同成分的新號在現行檔（PRODUCT APPROVED；Progynova 至 2029-02-22／23、Progyluton 至 2027-08-25），持有人改為 A. MENARINI SINGAPORE PTE. LTD.；正文「全部有效、持有人 Bayer」兩項都不成立",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 人工查核（11-16 排程「新資料查不到」的登記號逐號對照 data.gov.my 現行註冊與撤銷清單；舊號換尾碼由產品名＋有效成分＋前 8 位數字比對）"
+  },
+  {
+   "id": "my-lic-20261117-dexmedetomidine_hydrochloride-1",
+   "drug": "dexmedetomidine_hydrochloride",
+   "file": "dexmedetomidine_hydrochloride.md",
+   "action": "correct",
+   "claim": "Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibatalkan.",
+   "replacement": "Terdapat 10 pendaftaran produk bahan tunggal, dengan 9 sah dan 1 dibatalkan.",
+   "summary": "Status pendaftaran: “Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibatalkan.” → “Terdapat 10 pendaftaran produk bahan tunggal, dengan 9 sah dan 1 dibatalkan.”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): 10 pendaftaran (semuanya bahan tunggal), 9 sah, 1 dibatalkan atau tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "11-16 AI 重產的句子張數自相矛盾（9 張中 1 有效 1 註銷）；事實層 10 張全單方、有效 9、註銷 1（MAL20014305ACRZ）。2026-11-17 修 count_prose 的角色判斷後程式會把「1 sah」改成 9、總數仍 9，所以整句以紀錄改寫",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 人工查核（11-16 排程「新資料查不到」的登記號逐號對照 data.gov.my 現行註冊與撤銷清單；舊號換尾碼由產品名＋有效成分＋前 8 位數字比對）"
+  },
+  {
+   "id": "my-row-20261117-netarsudil-1",
+   "drug": "netarsudil",
+   "file": "netarsudil.md",
+   "action": "correct",
+   "claim": "| MAL25046004ACZ | Rhopressa (netarsudil ophthalmic solution) 0.02% |  | Status tidak dapat disahkan |",
+   "replacement": "| MAL25046004ACZ | Rhopressa (netarsudil ophthalmic solution) 0.02% |  | Nombor pendaftaran lama; produk yang sama kini didaftarkan sebagai MAL25046004ARZ |",
+   "summary": "Status jadual: MAL25046004ACZ “Status tidak dapat disahkan” → nombor lama, kini MAL25046004ARZ",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): MAL25046004ACZ tiada dalam daftar semasa mahupun senarai pembatalan; produk yang sama kini disenaraikan sebagai MAL25046004ARZ (PRODUCT APPROVED, 2025-04-29 hingga 2030-04-29).",
+   "finding": "Rhopressa ACZ→ARZ 換尾碼（同名同成分同持有人 Santen），新號在現行檔且已在本藥證據包，舊號事實層算非有效",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 人工查核（11-16 排程「新資料查不到」的登記號逐號對照 data.gov.my 現行註冊與撤銷清單；舊號換尾碼由產品名＋有效成分＋前 8 位數字比對）"
+  },
+  {
+   "id": "my-row-20261117-netarsudil-2",
+   "drug": "netarsudil",
+   "file": "netarsudil.md",
+   "action": "correct",
+   "claim": "| MAL25046005ACZ | Rocklatan (netarsudil and latanoprost ophthalmic solution) 0 |  | Status unknown (registration number not found in either NPRA dataset, not yet past its end date) |",
+   "replacement": "| MAL25046005ACZ | Rocklatan (netarsudil and latanoprost ophthalmic solution) 0 |  | Sah (kini disenaraikan sebagai MAL25046005ARZ) |",
+   "summary": "Status jadual: MAL25046005ACZ “Status unknown …” → Sah (kini MAL25046005ARZ)",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): MAL25046005ACZ tiada dalam daftar semasa; produk yang sama kini disenaraikan sebagai MAL25046005ARZ (PRODUCT APPROVED, 2025-04-29 hingga 2030-04-29), jadi pendaftaran ini masih sah.",
+   "finding": "Rocklatan ACZ→ARZ 換尾碼（同名同成分同持有人），新號在現行檔、不在本藥證據包；舊號沿用新號的現行狀態＝有效",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 人工查核（11-16 排程「新資料查不到」的登記號逐號對照 data.gov.my 現行註冊與撤銷清單；舊號換尾碼由產品名＋有效成分＋前 8 位數字比對）"
+  },
+  {
+   "id": "my-row-20261117-thiotepa-1",
+   "drug": "thiotepa",
+   "file": "thiotepa.md",
+   "action": "correct",
+   "claim": "| MAL23066003AZ | TEPADINA 400 mg powder and solvent for solution for infusion |  | Status tidak dapat disahkan |",
+   "replacement": "| MAL23066003AZ | TEPADINA 400 mg powder and solvent for solution for infusion |  | Nombor pendaftaran lama; produk yang sama kini didaftarkan sebagai MAL23066003ARZ |",
+   "summary": "Status jadual: MAL23066003AZ “Status tidak dapat disahkan” → nombor lama, kini MAL23066003ARZ",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): MAL23066003AZ tiada dalam daftar semasa mahupun senarai pembatalan; produk yang sama kini disenaraikan sebagai MAL23066003ARZ (PRODUCT APPROVED, 2023-06-08 hingga 2028-06-08).",
+   "finding": "TEPADINA 400 mg AZ→ARZ 換尾碼（同名同成分同持有人 DKSH），新號在現行檔且已在本藥證據包，舊號事實層算非有效",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-17"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled",
+     "accessed": "2026-11-17"
+    }
+   ],
+   "checked": "2026-11-17",
+   "method": "2026-11-17 人工查核（11-16 排程「新資料查不到」的登記號逐號對照 data.gov.my 現行註冊與撤銷清單；舊號換尾碼由產品名＋有效成分＋前 8 位數字比對）"
   }
  ]
 }

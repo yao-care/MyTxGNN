@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 184
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-17
 description: "Calcium Carbonate: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -47,8 +47,8 @@ Model TxGNN tidak mempunyai sebarang calon dengan skor 0.99 atau lebih tinggi un
 | Indikasi baharu yang diramalkan | Tiada (tiada calon model dengan skor 0.99 atau lebih tinggi) |
 | Kegunaan diketahui yang direkodkan untuk ubat ini | 10 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 366 daripada 378; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 378 (sah: 366; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 366 daripada 378) |
+| Bilangan Pendaftaran | 378 (sah: 366) |
 
 ## Kegunaan diketahui yang direkodkan untuk ubat ini
 
