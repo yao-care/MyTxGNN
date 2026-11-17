@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-16T19:29:19.449700",
+  "fetched": "2026-11-17T02:45:42.019598",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,19 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 13,
   "items": [
+    {
+      "title": "A Call For Fair Specialist Placements In Malaysia — Medical Officers From Specialist Training Cohort 2022-2026",
+      "url": "https://codeblue.galencentre.org/2026/11/a-call-for-fair-specialist-placements-in-malaysia-medical-officers-from-specialist-training-cohort-2022-2026/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-17T02:00:00",
+      "summary": "As the 2022–2026 specialist-training cohort approaches placement, doctors who served in Sabah, Sarawak, and underserved districts are calling for transparent decisions that recognise past sacrifice. The post A Call For Fair Specialist Placements In Malaysia — Medical Officers From Specialist Training Cohort 2022-2026 appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "doctor"
+      ]
+    },
     {
       "title": "Health Reforms Can’t Wait: Ring-Fence Funds For Innovative Medicines And Build Rare Disease Capacity In Budget 2027 — Jeremy Ang",
       "url": "https://codeblue.galencentre.org/2026/11/health-reforms-cant-wait-ring-fence-funds-for-innovative-medicines-and-build-rare-disease-capacity-in-budget-2027-jeremy-ang/",
@@ -104,14 +115,35 @@
       "keywords_matched": []
     },
     {
-      "title": "Enforce Poisons Act Against Nicotine Vape Sales, Withdraw Proposed Nicotine Exemption — FPMPAM & AMAM",
-      "url": "https://codeblue.galencentre.org/2026/11/enforce-poisons-act-against-nicotine-vape-sales-withdraw-proposed-nicotine-exemption-fpmpam-amam/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-12T04:11:04",
-      "summary": "FPMPAM and AMAM demand immediate enforcement of the Poisons Act against the retail sale of nicotine vapes, after the health minister confirmed that nicotine e-liquid is a scheduled poison. Doctors also oppose a proposed re-exemption of liquid nicotine. The post Enforce Poisons Act Against Nicotine Vape Sales, Withdraw Proposed Nicotine Exemption — FPMPAM & AMAM appeared first on CodeBlue .",
+      "title": "Thai drug haul: Two of five arrested Malaysians linked to previous narcotics offences",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/17/thai-drug-haul-two-of-five-arrested-malaysians-linked-to-previous-narcotics-offences/243547",
+      "source": "Malay Mail",
+      "published": "2026-11-17T01:27:28",
+      "summary": "KUALA LUMPUR, Nov 17 —  Two of the five Malaysian men arrested by Thai authorities on suspicion of smuggling...",
       "keywords_matched": [
-        "health",
-        "doctor"
+        "drug"
+      ]
+    },
+    {
+      "title": "Appeals Court upholds dismissal of medical negligence suit against Penang General Hospital",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/17/appeals-court-upholds-dismissal-of-medical-negligence-suit-against-penang-general-hospital/243537",
+      "source": "Malay Mail",
+      "published": "2026-11-17T00:49:33",
+      "summary": "PUTRJAJAYA, Nov 17 — The Court of Appeal today dismissed an appeal by a religious teacher in a medical neglig...",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Quartz ridges, ivory tusks and ‘perahu payang’: How four flagship ECRL stations celebrate local heritage and geography",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/17/quartz-ridges-ivory-tusks-and-perahu-payang-how-four-flagship-ecrl-stations-celebrate-local-heritage-and-geography/243514",
+      "source": "Malay Mail",
+      "published": "2026-11-16T23:00:00",
+      "summary": "KUALA LUMPUR, Nov 17 — As trial operations accelerate ahead of commercial passenger services next month, four flag...",
+      "keywords_matched": [
+        "trial"
       ]
     }
   ]
