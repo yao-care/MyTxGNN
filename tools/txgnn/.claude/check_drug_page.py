@@ -305,7 +305,7 @@ CANCELLED = {"en": "Not marketed (licences cancelled: {n} of {n})",
 "fi": "Ei markkinoilla (perutut luvat: {n}/{n})",
 "fr": "Non commercialisé (autorisations annulées : {n} sur {n})",
 "zh": "未上市（已註銷許可證 {n} 張／共 {n} 張）",
-"it": "Non in commercio (autorizzazioni revocate: {n} su {n})",
+"it": "Non in commercio (autorizzazioni non più valide: {n} su {n})",  # 2026-11-17：AIFA 不列的 AIC 分不出撤銷或失效（decadenza），用中性寫法
 "ja": "販売なし（承認 {n} 件すべて取消・整理済み）",
 "ko": "미시판 (취소된 허가 {n}건 / 전체 {n}건)",
 "ms": "Tidak dipasarkan (pendaftaran dibatalkan: {n} daripada {n})",
@@ -439,6 +439,15 @@ SCOPE_CANCELLED = {
     "FITxGNN": "Keskitetty EU-myyntilupa (EMA) peruttu ({n}/{n}) – kansallisia myyntilupia (Fimea) ei ole tässä käytetyissä tiedoissa",
     "NOTxGNN": "Sentral EU-godkjenning (EMA) avregistrert ({n} av {n}) – nasjonale markedsføringstillatelser (DMP) finnes ikke i dataene som er brukt her",
     "EuTxGNN": "No valid EMA central authorisation (withdrawn, lapsed or expired: {n} of {n}) – national authorisations in EU member states are not included in this data",
+    # 2026-11-17（用戶要求確認 JP 新資料查不到的コード）：JP 的來源是薬価基準収載医薬品マスター，コード消失＝薬価基準から削除（経過措置満了），
+    # 不等於承認取消；全部削除的頁只陳述資料範圍
+    "JpTxGNN": "薬価基準収載品目なし（本サイトのデータの {n} 件はすべて薬価基準から削除済み、国内の承認状況は未確認）",
+    # 2026-11-17（用戶要求確認 AR 新資料查不到的代碼）：AR 的來源是 PAMI 給付價目表（ALFABETA 代碼，不是 ANMAT certificado），
+    # 代碼消失＝ya no figura en el listado de PAMI，不等於 ANMAT 註冊失效；全部不在清單的頁只陳述資料範圍
+    "ARTxGNN": "No figura en el listado vigente de PAMI (los {n} productos de estos datos ya no figuran) – el estado del registro en ANMAT no está incluido en estos datos",
+    # 2026-11-17（用戶要求確認 AU 新資料查不到的代碼）：AU 的來源是 PBS Schedule（pbs_code＝給付品項代碼，不是 ARTG 號碼），
+    # 代碼消失＝no longer listed on the PBS Schedule，不等於 TGA 註冊失效；全部不在當期清單的頁只陳述資料範圍
+    "AuTxGNN": "Not on the current PBS Schedule ({n} of {n} PBS items in this data no longer listed) – TGA (ARTG) registration status is not included in this data",
 }
 # 只陳述資料範圍的站（NO_CENTRAL／SCOPE_CANCELLED），事實是查無或全部註銷時，正文斷言「在本國／歐盟沒有上市、買不到」超出資料範圍（2026-11-06，Sg、Eu）
 SCOPE_NOMKT = {
@@ -1677,7 +1686,7 @@ X_LOCAL["ja"] = dict(
                     r"(承認|販売|供給|市販)[^。]{0,20}[（(][^）)]{0,10}" + _CANC_JA + r"|" + _CANC_JA + r"(済み)?[^。]{0,5}(の|後の)(経緯|理由|背景|供給)"),
     hist=re.compile(r"(19|20)\d\d\s*年|過去に|以前は|かつて|試験[^。]{0,10}(中止|取消|取り下げ)|適応[^。]{0,10}(削除|取消)|動物用"),
     none_cancel=re.compile(r"(取消|整理|失効)(済み|・整理済み)?(の承認)?(は)?(なし|ありません|0\s*件)"),
-    all_valid=re.compile(r"(すべて|全て|いずれも)[^。]{0,8}有効"),
+    all_valid=re.compile(r"(すべて|全て|いずれも)[^。]{0,8}有効(?!性)"),  # 「いずれも有効性を支持するものではありません」は承認状態でない（2026-11-17）
     count=[re.compile(r"有効な承認(?:は|が)?\s*(?:少なくとも\s*)?(\d+)\s*件"), re.compile(r"(?<![\d.])(\d+)\s*件の承認(は|が)?(すべて|全て)?有効"),
            re.compile(r"承認\s*(\d+)\s*件(は|が)?(すべて|全て)有効"), re.compile(r"のうち\s*(\d+)\s*件が有効")],
     ccount=[re.compile(r"(?<![\d.])(\d+)\s*件の(取消|整理|失効)(済み)?の?承認")],
