@@ -539,4 +539,7 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 兩份資料集任一份下載失敗或現行號碼少於 MIN_CURRENT（20,000）時不做上述判定。
 - 頁面：概覽狀態列／張數列由程式同步（32 頁）；正文與表格跟新事實矛盾的以 `my-lic-20261117-*`、`my-row-20261117-*` 更正（cefoperazone、estradiol_valerate、dexmedetomidine_hydrochloride、netarsudil 2 列、thiotepa 1 列），
   apixaban、cyanocobalamin、vitamin_e 的 11-12 紀錄同 id 重發（前版存 history）。
+- 同日修正換尾碼的「同一個證據包」判定：原本用全站聯集（舊號只要在任何一個也含新號的證據包就整站標 RETIRED_STATUS），同一個舊號在好幾個藥的證據包時會誤判。
+  改成逐個證據包判斷（preprocess 標 `npra_duplicate_of`、update 換成 RETIRED_STATUS；其他證據包沿用新號的現行狀態）。受影響 5 個證據包 6 筆：trastuzumab（Enhertu MAL24046001ACZ，新號只在 trastuzumab_deruxtecan；14 張中 13→14 張有效，`my-lic-20261112-trastuzumab-1` 同 id 重發）、
+  ofloxacin（Ducressa MAL23076003ACZ；142→143 張有效）、calcium_pantothenate、sodium_phosphate、vitamin_d（後三個沒有藥物頁）。trastuzumab 頁收 Enhertu／Kadcyla、ofloxacin 頁收 levofloxacin 產品，是原收集器依藥名子字串比對的既有規則，照舊。
 - 同日修 `src/mytxgnn/regulatory/count_prose.py`：「1 sah dan 1 dibatalkan」的第一個數字被當成註銷數（中間跳過 sah），ambroxol 會被改成「0 sah dan 0 dibatalkan」；註銷角色的中間字不能是 sah／aktif 或數字。

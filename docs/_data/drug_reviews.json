@@ -4031,19 +4031,43 @@
    "file": "trastuzumab.md",
    "action": "correct",
    "claim": "(data menunjukkan 0 pendaftaran)",
-   "replacement": "(data menunjukkan 14 pendaftaran, 13 daripadanya sah)",
-   "summary": "Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan 14 pendaftaran, 13 daripadanya sah)”",
-   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 14 pendaftaran, 13 sah. Angka semasa terdapat dalam Gambaran Ringkas.",
-   "finding": "待辦條目寫資料顯示 0 張，事實層 14 張（有效 13）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "replacement": "(data menunjukkan 14 pendaftaran, semuanya sah)",
+   "summary": "Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan 14 pendaftaran, semuanya sah)”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): 14 pendaftaran, semuanya sah; Enhertu MAL24046001ACZ kini disenaraikan sebagai MAL24046001ACRZ (produk yang sama). Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "11-12 版寫「14 張、13 有效」；2026-11-17 換尾碼判定改成逐個證據包：Enhertu 舊號 MAL24046001ACZ 的新號 ACRZ 只在 trastuzumab_deruxtecan 證據包、不在本藥證據包，舊號沿用新號的現行狀態，事實層 14 張全部有效（Enhertu、Kadcyla 是原收集器依藥名子字串比對收進的，照本站規則）",
    "sources": [
     {
      "title": "NPRA pharmaceutical product registrations (data.gov.my)",
      "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
-     "accessed": "2026-11-09"
+     "accessed": "2026-11-17"
     }
    ],
-   "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+   "checked": "2026-11-17",
+   "method": "2026-11-17 人工查核（換尾碼舊號依「新號是否在同一個證據包」逐頁判斷後重算事實層）",
+   "history": [
+    {
+     "id": "my-lic-20261112-trastuzumab-1",
+     "drug": "trastuzumab",
+     "file": "trastuzumab.md",
+     "action": "correct",
+     "claim": "(data menunjukkan 0 pendaftaran)",
+     "replacement": "(data menunjukkan 14 pendaftaran, 13 daripadanya sah)",
+     "summary": "Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan 14 pendaftaran, 13 daripadanya sah)”",
+     "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 14 pendaftaran, 13 sah. Angka semasa terdapat dalam Gambaran Ringkas.",
+     "finding": "待辦條目寫資料顯示 0 張，事實層 14 張（有效 13）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+     "sources": [
+      {
+       "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+       "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+       "accessed": "2026-11-09"
+      }
+     ],
+     "checked": "2026-11-12",
+     "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
+     "retired": "2026-11-17",
+     "reason": "2026-11-17 修正換尾碼判定：Enhertu 舊號 MAL24046001ACZ 的新號 MAL24046001ACRZ 不在本藥證據包，舊號沿用新號的現行狀態（有效），事實層 14 張全部有效"
+    }
+   ]
   },
   {
    "id": "my-lic-20261112-vitamin_e-1",

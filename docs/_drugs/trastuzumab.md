@@ -52,8 +52,8 @@ dengan **13 ujian klinikal** dan **20 penerbitan** yang disenaraikan dalam data 
 | Indikasi Baharu yang Diramalkan | Malignant cutaneous granular cell skin tumor |
 | Skor Ramalan TxGNN | 0.9948 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 13 daripada 14) |
-| Bilangan Pendaftaran | 14 (sah: 13) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
+| Bilangan Pendaftaran | 14 (sah: 14) |
 | Keputusan yang Disyorkan | Proceed with Guardrails |
 
 ---
@@ -125,12 +125,12 @@ Kardiotoksisiti berkaitan trastuzumab juga dibincangkan dalam literatur yang dip
 - Penggunaan terhad kepada pesakit HER2-positif yang disahkan; kanser PR-positif/HER2-negatif dan triple-negatif bukan sasaran yang sah
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang)
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
-- Pengesahan status pendaftaran di Malaysia (data menunjukkan 14 pendaftaran, 13 daripadanya sah)
+- Pengesahan status pendaftaran di Malaysia (data menunjukkan 14 pendaftaran, semuanya sah)
 - Pelan pemantauan jantung dan semakan interaksi ubat
 
 <!-- review:begin my-lic-20261112-trastuzumab-1 -->
 
-> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "(data menunjukkan 0 pendaftaran)" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 14 pendaftaran, 13 sah. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-17)**: Asalnya dinyatakan: "(data menunjukkan 0 pendaftaran)" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): 14 pendaftaran, semuanya sah; Enhertu MAL24046001ACZ kini disenaraikan sebagai MAL24046001ACRZ (produk yang sama). Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261112-trastuzumab-1 -->
 
@@ -155,7 +155,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan 14 pendaftaran, 13 daripadanya sah)” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-17 | Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan 14 pendaftaran, semuanya sah)” | Dibetulkan (disemak 2026-11-17; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

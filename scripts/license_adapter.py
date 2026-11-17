@@ -14,6 +14,7 @@
   以 MAL21046030ARZ 續證）。判定條件：前 8 位數字相同，產品名與有效成分（去 HTML 實體、空白、大小寫）都相同（持有人可不同，
   例：Progynova 由 Bayer 轉 Menarini）。新號不在同一個證據包（12 張）：status_index 讓舊號沿用新號的現行狀態；
   新號已在同一個證據包（38 張）：舊號是同一張註冊的重複一筆，寫 RETIRED_STATUS（算非有效，免得算兩張）。ALIASES 記對照。
+  「同一個證據包」逐個證據包判斷（preprocess 標 npra_duplicate_of，update 換狀態；2026-11-17 修正，原本用全站聯集）。
   產品名或成分不同的同號不同尾碼（例：MAL11030014AZ Prevulcer／MAL11030014HA Toltravet）不認。
 - 兩份都沒有、證據包到期日已過（208 張＋同號不同產品 1 張）＝NPRA 現行註冊已不列且未續證：preprocess 照舊寫 EXPIRED_STATUS，
   另記 npra_not_listed（第一次發現日；又出現在清單就拿掉）；confirmed_absent() 讓排程列成「現行清單確認已不列」，不算查不到。
@@ -147,10 +148,10 @@ def status_index(new):
                 a = _alias(k, rec)
                 if a and _CUR_ROWS[a]["status"]:
                     ALIASES[k] = a
-                    if a in _CO_IDS.get(k, ()):  # 新號已在同一個證據包：舊號是重複的一筆，不再算有效（免得同一張註冊算兩張）
-                        _IDX[k] = RETIRED_STATUS.format(a)
-                    else:
-                        _IDX[k] = f"{_CUR_ROWS[a]['status']} (now listed as {a})"
+                    # 全站共用的狀態只能是「沿用新號」；新號是否在「同一個」證據包要逐個證據包判斷（同一個舊號可能在好幾個藥的證據包裡，
+                    # 例：Enhertu MAL24046001ACZ 在 trastuzumab 與 trastuzumab_deruxtecan，新號只在後者），由 preprocess 標 npra_duplicate_of、
+                    # update 換成 RETIRED_STATUS（2026-11-17 修正：原本用全站聯集判斷，trastuzumab 頁少算 1 張）
+                    _IDX[k] = f"{_CUR_ROWS[a]['status']} (now listed as {a})"
     return dict(_IDX)
 
 
@@ -176,8 +177,17 @@ def preprocess(b):
         return False
     today = time.strftime("%Y-%m-%d")
     ch = False
-    for r in (b.get("npra") or {}).get("records") or []:
+    recs = (b.get("npra") or {}).get("records") or []
+    ids = {record_id(r) for r in recs}
+    for r in recs:
         k = record_id(r)
+        a = ALIASES.get(k)
+        if a and a in ids:  # 新號在同一個證據包：舊號是同一張註冊的重複一筆（update 會寫 RETIRED_STATUS）
+            if r.get("npra_duplicate_of") != a:
+                r["npra_duplicate_of"] = a
+                ch = True
+        elif CURRENT and r.pop("npra_duplicate_of", None) is not None:
+            ch = True
         if k and k not in _IDX:
             want = EXPIRED_STATUS if expired(r) else UNKNOWN_STATUS
             if r.get("status") != want:
@@ -197,6 +207,9 @@ def record_id(rec):
 
 
 def update(rec, new):
+    a = ALIASES.get(record_id(rec))
+    if a and rec.get("npra_duplicate_of") == a:  # preprocess 判定新號在同一個證據包
+        new = RETIRED_STATUS.format(a)
     if rec.get("status") == new:
         return False
     rec["status"] = new
