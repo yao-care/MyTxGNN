@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-18T02:43:29.581392",
+  "fetched": "2026-11-18T11:07:40.334084",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,39 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "Diabetes And The Feet: An Early Check That Takes A Minute — Dr Andrew Choong",
+      "url": "https://codeblue.galencentre.org/2026/11/diabetes-and-the-feet-an-early-check-that-takes-a-minute-dr-andrew-choong/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-18T07:30:00",
+      "summary": "Earlier attention to the feet is something every system, and every one of us who looks after people with diabetes, can keep improving. The post Diabetes And The Feet: An Early Check That Takes A Minute — Dr Andrew Choong appeared first on CodeBlue .",
+      "keywords_matched": [
+        "diabetes"
+      ]
+    },
+    {
+      "title": "MediAsas: Affordable Assurance At The Expense Of Meaningful Health Care Protection? — Dr Mohamed Rafick Khan",
+      "url": "https://codeblue.galencentre.org/2026/11/mediasas-affordable-assurance-at-the-expense-of-meaningful-health-care-protection-dr-mohamed-rafick-khan/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-18T06:00:00",
+      "summary": "The main weakness in the argument for MediAsas is touting affordable premiums rather than comprehensive health care protection. Assurance should protect against financial catastrophe, not merely cover the average hospital bill. Another issue is copayments. The post MediAsas: Affordable Assurance At The Expense Of Meaningful Health Care Protection? — Dr Mohamed Rafick Khan appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "hospital"
+      ]
+    },
+    {
+      "title": "Regaining Your Life After Stroke Is Possible, Say SMCV Experts",
+      "url": "https://codeblue.galencentre.org/2026/11/regaining-your-life-after-stroke-is-possible-say-smcv-experts/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-18T03:30:00",
+      "summary": "Stroke recovery can take months or years, but rehab helps survivors regain lost functions and independence, say SMCV consultants. From conventional therapies to rTMS, recovery requires sustained care after hospital discharge. The post Regaining Your Life After Stroke Is Possible, Say SMCV Experts appeared first on CodeBlue .",
+      "keywords_matched": [
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "MOF Studying Potential Refund Of RM377m Nicotine Vape Tax After Court Ruling",
       "url": "https://codeblue.galencentre.org/2026/11/mof-studying-potential-refund-of-rm377m-nicotine-vape-tax-after-court-ruling/",
@@ -71,42 +104,6 @@
       "summary": "Dental assistants deserve a real profession with clear standards and career paths, and patients deserve to know that everyone at the chairside is qualified to be there. The post Malaysian Dentistry Deserves Better: It Is Time To Professionalise Dental Assisting — Rachel Chin appeared first on CodeBlue .",
       "keywords_matched": [
         "patient"
-      ]
-    },
-    {
-      "title": "Proposed National Health Fund Mustn’t Burden Malaysians: MMA",
-      "url": "https://codeblue.galencentre.org/2026/11/proposed-national-health-fund-mustnt-burden-malaysians-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-17T03:47:42",
-      "summary": "MMA says a proposed National Health Fund mustn't shift the financial burden of health care onto the public, adding that clarity is needed on whether the fund will support workforce needs like staffing, remuneration, and retention, beyond funding services. The post Proposed National Health Fund Mustn’t Burden Malaysians: MMA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "A Call For Fair Specialist Placements In Malaysia — Medical Officers From Specialist Training Cohort 2022-2026",
-      "url": "https://codeblue.galencentre.org/2026/11/a-call-for-fair-specialist-placements-in-malaysia-medical-officers-from-specialist-training-cohort-2022-2026/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-17T02:00:00",
-      "summary": "As the 2022–2026 specialist-training cohort approaches placement, doctors who served in Sabah, Sarawak, and underserved districts are calling for transparent decisions that recognise past sacrifice. The post A Call For Fair Specialist Placements In Malaysia — Medical Officers From Specialist Training Cohort 2022-2026 appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "doctor"
-      ]
-    },
-    {
-      "title": "Health Reforms Can’t Wait: Ring-Fence Funds For Innovative Medicines And Build Rare Disease Capacity In Budget 2027 — Jeremy Ang",
-      "url": "https://codeblue.galencentre.org/2026/11/health-reforms-cant-wait-ring-fence-funds-for-innovative-medicines-and-build-rare-disease-capacity-in-budget-2027-jeremy-ang/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-16T08:38:21",
-      "summary": "Budget 2027 must deliver immediate measures that ensure a diagnosis in a Malaysian public hospital leads to timely treatment and care, rather than years of uncertainty and waiting. The post Health Reforms Can’t Wait: Ring-Fence Funds For Innovative Medicines And Build Rare Disease Capacity In Budget 2027 — Jeremy Ang appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medicine",
-        "treatment",
-        "disease",
-        "hospital",
-        "hospital"
       ]
     }
   ]
