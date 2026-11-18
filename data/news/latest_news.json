@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-17T20:27:52.818970",
+  "fetched": "2026-11-18T02:43:29.581392",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,22 @@
   ],
   "total_items": 10,
   "items": [
+    {
+      "title": "MOF Studying Potential Refund Of RM377m Nicotine Vape Tax After Court Ruling",
+      "url": "https://codeblue.galencentre.org/2026/11/mof-studying-potential-refund-of-rm377m-nicotine-vape-tax-after-court-ruling/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-18T02:30:01",
+      "summary": "MOF is studying a potential need to refund vape businesses RM377 million in excise duties collected on nicotine vapes after a High Court ruling six months ago. Finance Minister Anwar says MOF is seeking MOH's response on the direction of vape products. The post MOF Studying Potential Refund Of RM377m Nicotine Vape Tax After Court Ruling appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Act 852 Unproven In Combating Vape: Ex-Poisons Board Member",
+      "url": "https://codeblue.galencentre.org/2026/11/act-852-unproven-in-combating-vape-ex-poisons-board-member/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-18T02:00:00",
+      "summary": "Former Poisons Board member Dr Ashok Philip says Act 852 is unproven in enforcement against vape and liquid nicotine should remain on the Poisons List. Galen Centre's Azrul says the sale of nicotine vape is illegal today, pending a new exemption order. The post Act 852 Unproven In Combating Vape: Ex-Poisons Board Member appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Dzulkefly Touts Eventual End Of Emergency Green Zone",
       "url": "https://codeblue.galencentre.org/2026/11/dzulkefly-touts-eventual-end-of-emergency-green-zone/",
@@ -89,28 +105,6 @@
         "medicine",
         "treatment",
         "disease",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Dzulkefly Touts National Health Fund With Federal-State Involvement",
-      "url": "https://codeblue.galencentre.org/2026/11/dzulkefly-touts-national-health-fund-with-federal-state-involvement/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-16T08:20:15",
-      "summary": "Dr Dzul touts a National Health Fund (DKN) that will require legislative changes and federal-state involvement. MOH is studying actuarial modelling, package of benefits etc. The bill is targeted in 2029. The 15th Parliament automatically dissolves in 2027. The post Dzulkefly Touts National Health Fund With Federal-State Involvement appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Selgate Specialist Hospital Sepang Starts Operations As First Private Hospital In Sepang",
-      "url": "https://codeblue.galencentre.org/2026/11/selgate-specialist-hospital-sepang-starts-operations-as-first-private-hospital-in-sepang/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-16T03:43:19",
-      "summary": "As Sepang's first private hospital, SSH Sepang strengthens access to specialist health care along the Sepang–Nilai corridor. Key disciplines include orthopaedics, metabolic health, O&G, paediatrics, and general surgery. It currently has 15 specialists. The post Selgate Specialist Hospital Sepang Starts Operations As First Private Hospital In Sepang appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
         "hospital",
         "hospital"
       ]
