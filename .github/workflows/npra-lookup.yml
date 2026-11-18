@@ -1,0 +1,74 @@
+# NPRA QUEST3+ 查詢請求（2026-11-18，用戶要求）：雲端 session 連 QUEST3+ 回 Request Blocked，
+# 改成 push .github/npra-request.json 到 main 觸發，runner 以一般請求（不偽裝瀏覽器）逐筆 GET／POST，間隔至少 delay 秒；
+# 被擋（4xx／Request Blocked）就停，不重試繞過。結果推 claude/npra-lookup-<run_id> 分支的 out/，給人工查核清單比對。
+# 請求格式同 ZaTxGNN 的 medapps-lookup.yml；只允許 quest3plus.bpfk.gov.my。
+name: NPRA lookup
+
+on:
+  push:
+    branches: [main]
+    paths: ['.github/npra-request.json']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: npra-lookup
+  cancel-in-progress: false
+
+jobs:
+  lookup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Fetch requested medapps pages
+        run: |
+          mkdir -p out
+          python3 - <<'PY'
+          import json, time, urllib.request, urllib.parse, urllib.error, hashlib
+          req = json.load(open(".github/npra-request.json"))
+          delay = max(float(req.get("delay", 2)), 1.0)
+          meta = []
+          for g in req.get("get", []):
+              url = g["url"]
+              if urllib.parse.urlsplit(url).hostname != "quest3plus.bpfk.gov.my":
+                  meta.append({"name": g.get("name"), "url": url, "error": "host not allowed"}); continue
+              name = g.get("name") or hashlib.sha1(url.encode()).hexdigest()[:12]
+              rec = {"name": name, "url": url}
+              for attempt in range(3):
+                  try:
+                      data = urllib.parse.urlencode(g["form"]).encode() if g.get("form") is not None else None
+                      rq = urllib.request.Request(url, data=data, method="POST" if data is not None else "GET")
+                      if data is not None:
+                          rq.add_header("X-Requested-With", "XMLHttpRequest")
+                      with urllib.request.urlopen(rq, timeout=300) as r:
+                          body = r.read()
+                          rec.update(status=r.status, ctype=r.headers.get("Content-Type"), bytes=len(body))
+                      open(f"out/{name}", "wb").write(body)
+                      rec.pop("error", None)
+                      break
+                  except urllib.error.HTTPError as e:
+                      rec.update(status=e.code, error="HTTPError")
+                      open(f"out/{name}", "wb").write(e.read() or b"")
+                      break
+                  except Exception as e:
+                      rec["error"] = repr(e)[:300]
+                      time.sleep(10 * (attempt + 1))
+              meta.append(rec)
+              if rec.get("status") in (400, 403, 429):
+                  print("blocked, stop:", rec); break
+              time.sleep(delay)
+          json.dump(meta, open("out/_meta.json", "w"), indent=1)
+          print(sum(1 for m in meta if "status" in m), "of", len(meta), "ok")
+          PY
+      - name: Push results branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          b="claude/npra-lookup-${GITHUB_RUN_ID}"
+          git checkout -q --orphan "$b"
+          git rm -rq --cached .
+          git add -f out
+          git commit -qm "npra lookup results ${GITHUB_RUN_ID}"
+          git push -q origin "$b"

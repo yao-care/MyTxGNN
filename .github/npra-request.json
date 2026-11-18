@@ -1,0 +1,4 @@
+{"delay": 3, "get": [
+ {"name": "robots.txt", "url": "https://quest3plus.bpfk.gov.my/robots.txt"},
+ {"name": "index.html", "url": "https://quest3plus.bpfk.gov.my/pmo2/index.php"}
+]}
