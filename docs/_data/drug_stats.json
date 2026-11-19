@@ -1,12 +1,12 @@
 {
   "generated": "2026-11-19",
-  "total_drugs": 642,
+  "total_drugs": 639,
   "level_counts": {
     "L1": 11,
     "L2": 28,
     "L3": 14,
     "L4": 34,
-    "L5": 526
+    "L5": 523
   },
   "all_drugs": [
     {
@@ -196,12 +196,6 @@
       "indication_count": 5
     },
     {
-      "name": "Ambroxol Hcl",
-      "slug": "ambroxol_hcl",
-      "level": "L5",
-      "indication_count": 4
-    },
-    {
       "name": "Ambroxol Hydrochloride",
       "slug": "ambroxol_hydrochloride",
       "level": "L5",
@@ -234,12 +228,6 @@
     {
       "name": "Amlodipine Besilate",
       "slug": "amlodipine_besilate",
-      "level": "L5",
-      "indication_count": 9
-    },
-    {
-      "name": "Amlodipine Besylate",
-      "slug": "amlodipine_besylate",
       "level": "L5",
       "indication_count": 9
     },
@@ -1302,12 +1290,6 @@
     {
       "name": "Diphenhydramine Hcl",
       "slug": "diphenhydramine_hcl",
-      "level": "L5",
-      "indication_count": 1
-    },
-    {
-      "name": "Diphenhydramine Hydrochloride",
-      "slug": "diphenhydramine_hydrochloride",
       "level": "L5",
       "indication_count": 1
     },

@@ -49,8 +49,8 @@ Ambroxol hydrochloride ialah agen mukolitik/sekretolitik yang digunakan untuk me
 | Indikasi Baharu yang Diramalkan | Penyakit rongga hidung (nasal cavity disease) |
 | Skor Ramalan TxGNN | 0.9991 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 21 daripada 22) |
-| Bilangan Pendaftaran | 22 (sah: 21) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 22 daripada 23) |
+| Bilangan Pendaftaran | 23 (sah: 22) |
 | Keputusan Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -79,7 +79,7 @@ Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 | MAL20001061X | MUCOCLEAR SYRUP | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
 | MAL24016039XC | PRESMEDIC AMBROXOL TABLET 30MG | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
 
-Terdapat 22 lesen dalam rekod tempatan; 21 sah dan 1 dibatalkan. Hanya 5 yang utama disenaraikan di atas.
+Terdapat 23 lesen dalam rekod tempatan; 22 sah dan 1 dibatalkan. Hanya 5 yang utama disenaraikan di atas.
 
 ## Pertimbangan Keselamatan
 

@@ -565,3 +565,8 @@ aspirin→acetylsalicylic_acid（22⊂23 張；字數平手；本站頁名照 NP
 aminophylline_anhydrous→aminophylline_dihydrate（2 張相同、字數平手，保留等級較高的 L4 頁）。被轉址頁都沒有查核紀錄。
 沒轉（登記號不是子集，要人工決定）：DB00381 amlodipine_besilate（81 張）／amlodipine_besylate（50 張，共同 3 張）、DB01075 diphenhydramine_hcl（21）／diphenhydramine_hydrochloride（34，共同 19）、DB06742 ambroxol_hcl（1）／ambroxol_hydrochloride（22，共同 0）。
 公開藥物頁 646→642；被轉址頁自己的 MK 由 sync_fhir_levels 當重複刪（MK 645→641、CUD 3673→3648）；衍生檔、hreflang 照重產。
+2026-11-19 同日（用戶決定「合併後轉址」）：上面沒轉的 3 組改成先合併許可證再轉址（同一個鹽的不同拼法，原收集器依頁名寫法比對 active_ingredient 才分成兩頁；DrugBank ID、預測相同）。
+保留頁照當日規則（查核紀錄數→字數，差 5% 內算平手→NPRA 成分名寫法）：amlodipine_besilate（字數多 8%，也是 NPRA 多數寫法 78 vs 47）、diphenhydramine_hcl（字數多 7%；NPRA 多數寫法是 hydrochloride 34 vs 2，規則上字數先決）、ambroxol_hydrochloride（1 筆查核紀錄）。
+`scripts/merge_duplicate_bundles.py`（MERGES 表）把被轉址頁證據包的紀錄（原樣，依 reg_no 去重，記 merged_from、added）併進保留頁證據包；只加不刪、可重複執行，license-refresh.yml 在排程前先跑；`scripts/rebuild_licenses_by_ingredient.py` 的 MERGE_TERMS 讓保留頁也收另一種拼法的新註冊（只列這 3 頁，不放寬一般鹽類規則）。
+amlodipine_besilate 81→128 張（有效 76→123）、diphenhydramine_hcl 21→36 張（全部有效）、ambroxol_hydrochloride 22→23 張（有效 21→22）；amlodipine_besylate→amlodipine_besilate、diphenhydramine_hydrochloride→diphenhydramine_hcl、ambroxol_hcl→ambroxol_hydrochloride。
+狀態列／張數列由 sync_market_rows 同步，正文張數由 count_prose 程式改寫（3 句），沒有新的查核紀錄；被轉址頁沒有查核紀錄。公開藥物頁 642→639；被轉址頁的 MK 由 sync_fhir_levels 當重複刪（MK 641→638、CUD 3648→3634）；衍生檔、hreflang 照重產。

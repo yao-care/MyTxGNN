@@ -40,6 +40,10 @@ SYN = {"vitamin a": ["retinol"], "retinol": ["vitamin a"], "acetaminophen": ["pa
        "tocopherol": ["vitamin e"], "alpha tocopherol": ["vitamin e", "tocopherol"], "epinephrine": ["adrenaline"],
        "norepinephrine": ["noradrenaline"], "acetylsalicylic acid": ["aspirin"], "levothyroxine": ["thyroxine"],
        "glyceryl trinitrate": ["nitroglycerin"], "nitroglycerin": ["glyceryl trinitrate"]}
+# 2026-11-19 合併後轉址（scripts/merge_duplicate_bundles.py）：保留頁也收被轉址頁的成分寫法（同一個鹽的另一種拼法），
+# 之後新註冊的另一種寫法才會收進保留頁。只列這幾頁，不放寬一般的鹽類規則。
+MERGE_TERMS = {"amlodipine_besilate": ["amlodipine besylate"], "diphenhydramine_hcl": ["diphenhydramine hydrochloride"],
+               "ambroxol_hydrochloride": ["ambroxol hcl"]}
 NO_REBUILD = re.compile(r"^(calcium|copper|magnesium|zinc|iron|iodine|potassium|sodium|chromium|selenium|manganese|fluoride|chloride|"
                         r"phosphorus|phosphate|water|glucose|dextrose|oxygen|nitrogen|sodium chloride|potassium chloride|hydrogen peroxide)$")
 
@@ -75,7 +79,7 @@ def terms_for(page):
     salt_named = base(full) != base(full, keep_salt=True)
     b = base(full, keep_salt=salt_named)
     out = set()
-    for t in {b} | set(SYN.get(b, [])):
+    for t in {b} | set(SYN.get(b, [])) | {base(norm(x), keep_salt=salt_named) for x in MERGE_TERMS.get(page, [])}:
         out |= variants(t)
     return {t for t in out if len(t) >= 4}, salt_named
 

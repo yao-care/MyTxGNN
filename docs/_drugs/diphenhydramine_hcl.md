@@ -50,8 +50,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **konjunktivitis rosasea (rosac
 | Indikasi Baharu yang Diramalkan | Konjunktivitis rosasea (rosacea conjunctivitis) |
 | Skor Ramalan TxGNN | 0.9920 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 21 daripada 21) |
-| Bilangan Pendaftaran | 21 (sah: 21) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 36 daripada 36) |
+| Bilangan Pendaftaran | 36 (sah: 36) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -70,7 +70,7 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran di Malaysia
 
-Berdasarkan data yang dikumpulkan, terdapat 21 lesen, iaitu 1 produk bahan tunggal dan 20 produk kombinasi, semuanya sah. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lesen produk kombinasi tidak menggambarkan status kelulusan diphenhydramine sebagai bahan tunggal.
+Berdasarkan data yang dikumpulkan, terdapat 36 lesen, iaitu 1 produk bahan tunggal dan 35 produk kombinasi, semuanya sah. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lesen produk kombinasi tidak menggambarkan status kelulusan diphenhydramine sebagai bahan tunggal.
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|

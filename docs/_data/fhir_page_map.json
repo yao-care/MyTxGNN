@@ -477,7 +477,6 @@
       "page": "arginine",
       "sources": [
         "ARTxGNN",
-        "BrTxGNN",
         "COTxGNN",
         "CaTxGNN",
         "HkTxGNN",

@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-19",
-  "total_count": 642,
+  "total_count": 639,
   "source": "MyTxGNN",
   "drugs": [
     {
@@ -314,16 +314,6 @@
       "url": "/drugs/ambrisentan/"
     },
     {
-      "slug": "ambroxol-hcl",
-      "name": "Ambroxol Hcl",
-      "evidence_level": "L5",
-      "indication_count": 4,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/ambroxol-hcl/"
-    },
-    {
       "slug": "ambroxol-hydrochloride",
       "name": "Ambroxol Hydrochloride",
       "evidence_level": "L5",
@@ -382,16 +372,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/amlodipine-besilate/"
-    },
-    {
-      "slug": "amlodipine-besylate",
-      "name": "Amlodipine Besylate",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amlodipine-besylate/"
     },
     {
       "slug": "ammonium-chloride",
@@ -2162,16 +2142,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/diphenhydramine-hcl/"
-    },
-    {
-      "slug": "diphenhydramine-hydrochloride",
-      "name": "Diphenhydramine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/diphenhydramine-hydrochloride/"
     },
     {
       "slug": "dl-camphor",

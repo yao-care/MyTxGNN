@@ -51,6 +51,9 @@ jobs:
       - name: Restore data from Release
         run: bash scripts/restore_data.sh
 
+      - name: Merge duplicate-page bundles   # 同一 DrugBank ID 合併後轉址的頁：被轉址頁的許可證併進保留頁證據包（2026-11-19，只加不刪）
+        run: python3 scripts/merge_duplicate_bundles.py
+
       - name: Refresh licenses
         id: refresh
         env:

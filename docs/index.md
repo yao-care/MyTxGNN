@@ -43,7 +43,7 @@ Laporan mengikut tahap bukti:
 | L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
 {% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
 
-139 pasangan ubat–penyakit yang diramal di laman ini tidak terdapat di mana-mana laman lain antara 30 laman TxGNN.
+134 pasangan ubat–penyakit yang diramal di laman ini tidak terdapat di mana-mana laman lain antara 30 laman TxGNN.
 
 ### Ubat dengan tahap bukti tertinggi di laman ini
 
@@ -77,8 +77,8 @@ Laporan mengikut tahap bukti:
 | [Dihydrocodeine Tartrate](/drugs/dihydrocodeine-tartrate/) | L5 |
 | [Bleomycin Sulfate](/drugs/bleomycin-sulfate/) | L5 |
 | [Dexmedetomidine Hydrochloride](/drugs/dexmedetomidine-hydrochloride/) | L5 |
-| [Ambroxol Hcl](/drugs/ambroxol-hcl/) | L5 |
 | [Avibactam Sodium](/drugs/avibactam-sodium/) | L5 |
+| [Bisoprolol Fumarate](/drugs/bisoprolol-fumarate/) | L5 |
 
 <!-- local-home:end -->
 

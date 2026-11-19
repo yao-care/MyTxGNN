@@ -8,7 +8,7 @@
   "status": "active",
   "date": "2026-11-19",
   "publisher": "MyTxGNN Project",
-  "description": "Malaysia drug repurposing predictions using TxGNN. Contains 641 drugs and 3648 predicted indications.",
+  "description": "Malaysia drug repurposing predictions using TxGNN. Contains 638 drugs and 3634 predicted indications.",
   "kind": "instance",
   "fhirVersion": "4.0.1",
   "format": [
@@ -43,11 +43,11 @@
       "extension": [
         {
           "url": "MedicationKnowledge",
-          "valueInteger": 641
+          "valueInteger": 638
         },
         {
           "url": "ClinicalUseDefinition",
-          "valueInteger": 3648
+          "valueInteger": 3634
         },
         {
           "url": "countedAt",

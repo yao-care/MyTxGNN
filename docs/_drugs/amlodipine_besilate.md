@@ -49,8 +49,8 @@ Amlodipine besilate ialah ubat penyekat saluran kalsium yang berdaftar di Malays
 | Indikasi Baharu yang Diramalkan | Infarksi batang otak (brain stem infarction) |
 | Skor Ramalan TxGNN | 0.9994 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 76 daripada 81) |
-| Bilangan Pendaftaran | 81 (sah: 76) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 123 daripada 128) |
+| Bilangan Pendaftaran | 128 (sah: 123) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -69,7 +69,7 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran di Malaysia
 
-Data tempatan menunjukkan status pasaran **dipasarkan**. Antara lesen yang direkodkan, 36 ialah produk bahan tunggal yang sah. Contoh produk bahan tunggal:
+Data tempatan menunjukkan status pasaran **dipasarkan**. Antara lesen yang direkodkan, 55 ialah produk bahan tunggal yang sah. Contoh produk bahan tunggal:
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
 |---------|------|------|-----------|

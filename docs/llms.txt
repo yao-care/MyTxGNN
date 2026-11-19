@@ -13,7 +13,7 @@
 ## Data laman
 
 - Set data ubat: NPRA, data.gov.my Pharmaceutical Products (pendaftaran semasa dan pendaftaran yang dibatalkan) — https://storage.data.gov.my/healthcare/pharmaceutical_products.csv, https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv
-- Tahap bukti bagi 642 laporan ubat: L1 11 · L2 28 · L3 14 · L4 34 · L5 526 · N/A 29 (N/A = Kegunaan diketahui sahaja (tiada ramalan baharu))
+- Tahap bukti bagi 639 laporan ubat: L1 11 · L2 28 · L3 14 · L4 34 · L5 523 · N/A 29 (N/A = Kegunaan diketahui sahaja (tiada ramalan baharu))
 <!-- site-data:end -->
 
 ## Halaman utama
