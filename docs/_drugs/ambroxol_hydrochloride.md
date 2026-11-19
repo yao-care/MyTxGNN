@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB06742
 monitor_inn: "Ambroxol"
 predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-19
 description: "Ambroxol Hydrochloride: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 

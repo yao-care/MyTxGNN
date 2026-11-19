@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 668
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-19
 description: "Tazobactam: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---

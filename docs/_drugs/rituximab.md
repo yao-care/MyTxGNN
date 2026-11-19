@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 627
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-19
 description: "Rituximab: kegunaan diketahui dan status pasaran di Malaysia; ketika ini tiada calon indikasi baharu"
 predicted_indications: []
 ---

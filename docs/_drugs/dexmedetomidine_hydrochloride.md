@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00633
 monitor_inn: "Dexmedetomidine"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 description: "Dexmedetomidine Hydrochloride: indikasi baharu diramal Sindrom antidiuresis tidak wajar nefrogenik (nephrogenic syndrome of inappropriate antidiuresis) (tahap bukti L5)."
 ---
 

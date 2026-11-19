@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 564
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-19
 monitor_inn: "Peppermint oil"
 predicted_indications: ["leprosy", "pneumocystosis", "coronary artery disease", "myocardial ischemia", "echinococcus granulosus infectious disease", "polyp of vocal cord", "uterine polyp", "polyp of middle ear", "cardiovascular disease", "polyp of frontal sinus"]
 description: "Peppermint Oil: indikasi baharu diramal Leprosy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"

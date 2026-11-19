@@ -4,6 +4,7 @@ permalink: /drugs/lisinopril-dihydrate/
 sitemap: false
 search_exclude: true
 nav_exclude: true
+last_modified_at: 2026-11-16
 ---
 <!DOCTYPE html>
 <html lang="en">

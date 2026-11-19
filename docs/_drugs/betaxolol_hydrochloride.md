@@ -5,7 +5,7 @@ layout: default
 title: Betaxolol Hydrochloride
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 145
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-19
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

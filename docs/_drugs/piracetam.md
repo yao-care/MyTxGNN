@@ -5,7 +5,7 @@ layout: default
 title: Piracetam
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 578
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-19
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

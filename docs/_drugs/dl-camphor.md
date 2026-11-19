@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01744
 monitor_inn: "Camphor"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-19
 description: "Dl-Camphor: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
 ---
 
