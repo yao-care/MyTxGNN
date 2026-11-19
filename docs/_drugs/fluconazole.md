@@ -50,8 +50,8 @@ Fluconazole ialah ubat antikulat yang dalam pangkalan pengetahuan TxGNN direkodk
 | Indikasi Baharu yang Diramalkan | Keratokonjunktivitis epitelium berpunktum (punctate epithelial keratoconjunctivitis) |
 | Skor Ramalan TxGNN | 0.9924 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 27 daripada 28; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 28 (sah: 27; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 27 daripada 28) |
+| Bilangan Pendaftaran | 28 (sah: 27) |
 | Bilangan Kelulusan | 28 pendaftaran |
 | Keputusan Disyorkan | Hold (Tangguh) |
 

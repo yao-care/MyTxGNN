@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 25 daripada 26; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 26 (sah: 25; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 25 daripada 26) |
+| Bilangan Pendaftaran | 26 (sah: 25) |
 | **Nama Ubat** | Dapagliflozin |
 | **ID DrugBank** | [DB06292](https://go.drugbank.com/drugs/DB06292) |
 | **Ramalan DL (≥0.7)** | 12 |

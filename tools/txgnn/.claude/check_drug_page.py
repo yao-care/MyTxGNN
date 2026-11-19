@@ -448,6 +448,9 @@ SCOPE_CANCELLED = {
     # 2026-11-17（用戶要求確認 AU 新資料查不到的代碼）：AU 的來源是 PBS Schedule（pbs_code＝給付品項代碼，不是 ARTG 號碼），
     # 代碼消失＝no longer listed on the PBS Schedule，不等於 TGA 註冊失效；全部不在當期清單的頁只陳述資料範圍
     "AuTxGNN": "Not on the current PBS Schedule ({n} of {n} PBS items in this data no longer listed) – TGA (ARTG) registration status is not included in this data",
+    # 2026-11-19（用戶以 NPRA QUEST3+ 人工查核 MY 狀態未知的登記號）：兩份 data.gov.my 資料集與 QUEST3+ 都不列的號算非有效，
+    # 但 NPRA 沒有公開撤銷；全部非有效的頁不寫成全部 dibatalkan，照撤銷、到期、已不在現行註冊三種情形一起寫
+    "MyTxGNN": "Tidak dipasarkan (tiada pendaftaran semasa: {n} daripada {n} dibatalkan, tamat tempoh atau tidak lagi tersenarai dalam daftar NPRA)",
 }
 # 只陳述資料範圍的站（NO_CENTRAL／SCOPE_CANCELLED），事實是查無或全部註銷時，正文斷言「在本國／歐盟沒有上市、買不到」超出資料範圍（2026-11-06，Sg、Eu）
 SCOPE_NOMKT = {

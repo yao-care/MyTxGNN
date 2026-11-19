@@ -52,8 +52,8 @@ Ramalan ini hanya berasaskan skor model komputasi (Tahap Bukti L5).
 | Indikasi Baharu yang Diramalkan | Hipertensi pulmonari (pulmonary hypertension) |
 | Skor Ramalan TxGNN | 0.9981 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 5; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 5 (sah: 4; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 4) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -98,7 +98,6 @@ Buat masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -115,7 +114,13 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan lanjut.
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Semua ramalan hanya bergantung pada skor model TxGNN (pembelajaran mendalam) (Tahap Bukti L5) tanpa percubaan klinikal atau literatur sokongan; skor ini mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Ubat ini dipasarkan di Malaysia (5 lesen sah daripada 5), dan data mekanisme tindakan serta keselamatan masih tidak lengkap.
+- Semua ramalan hanya bergantung pada skor model TxGNN (pembelajaran mendalam) (Tahap Bukti L5) tanpa percubaan klinikal atau literatur sokongan; skor ini mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Ubat ini dipasarkan di Malaysia (4 lesen sah daripada 5; 1 tidak lagi tersenarai dalam daftar semasa NPRA), dan data mekanisme tindakan serta keselamatan masih tidak lengkap.
+
+<!-- review:begin my-lic-20261119-nonivamide-1 -->
+
+> **Pembetulan semakan (2026-11-19)**: Asalnya dinyatakan: "(5 lesen sah daripada 5)" Dibetulkan mengikut data pendaftaran produk NPRA: 5 pendaftaran, 4 sah. MAL26026009X (ROIHI-TSUBOKO PLASTER) tiada dalam daftar semasa mahupun senarai pembatalan NPRA (data.gov.my, versi 2026-11-19 03:00) dan tidak ditemui dalam NPRA QUEST3+ melalui nombor pendaftaran atau nama produk (semakan manual 2026-11-19); tarikh pengeluaran daripada daftar tidak diterbitkan. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv).
+
+<!-- review:end my-lic-20261119-nonivamide-1 -->
 
 **Untuk meneruskan, perkara berikut diperlukan:**
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menyekat peringkat saringan keselamatan seterusnya)
@@ -123,6 +128,19 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan lanjut.
 - Semakan literatur dan percubaan klinikal khusus nonivamide, terutamanya untuk migrain (calon paling koheren secara mekanistik) dan hipertensi pulmonari
 - Penilaian keserasian laluan pentadbiran (topikal, intranasal atau sistemik) bagi setiap indikasi calon
 - Penilaian keselamatan kardiovaskular sebelum mempertimbangkan sebarang indikasi kardiak
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Bilangan pendaftaran: “5 lesen sah daripada 5” → 4 sah daripada 5 | Dibetulkan | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

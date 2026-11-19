@@ -50,8 +50,8 @@ Clotrimazole ialah ubat antikulat daripada kumpulan azol yang telah didaftarkan 
 | Indikasi Baharu yang Diramal | Jerawat (acne (disease)) |
 | Skor Ramalan TxGNN | 0.9986 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 65 daripada 67; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 67 (sah: 65; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 65 daripada 67) |
+| Bilangan Pendaftaran | 67 (sah: 65) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -82,11 +82,11 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran di Malaysia
 
-Sebanyak 67 lesen berdaftar; 65 daripadanya sah, 1 telah tamat tempoh dan 1 tidak mempunyai status dalam data NPRA (54 produk bahan tunggal, 13 produk kombinasi). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Antara lesen utama:
+Sebanyak 67 lesen berdaftar; 65 daripadanya sah, 1 telah tamat tempoh dan 1 tidak lagi tersenarai dalam daftar semasa NPRA (54 produk bahan tunggal, 13 produk kombinasi). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Antara lesen utama:
 
 <!-- review:begin my-lic-20261112-clotrimazole-1 -->
 
-> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Sebanyak 64 lesen berdaftar dan semuanya sah (51 produk bahan tunggal, 13 produk kombinasi)." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 67 pendaftaran, 65 sah, 1 tamat tempoh, 1 tanpa status; 54 bahan tunggal, 13 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-19)**: Asalnya dinyatakan: "Sebanyak 64 lesen berdaftar dan semuanya sah (51 produk bahan tunggal, 13 produk kombinasi)." Dibetulkan mengikut data pendaftaran produk NPRA: 67 pendaftaran, 65 sah, 1 tamat tempoh; 54 bahan tunggal, 13 kombinasi. MAL07090895XZ, yang dahulunya tanpa status, tiada dalam daftar semasa mahupun senarai pembatalan NPRA (data.gov.my, versi 2026-11-19 03:00) dan tidak ditemui dalam NPRA QUEST3+ melalui nombor pendaftaran atau nama produk (semakan manual 2026-11-19); tarikh pengeluaran daripada daftar tidak diterbitkan. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv).
 
 <!-- review:end my-lic-20261112-clotrimazole-1 -->
 
@@ -130,7 +130,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “Sebanyak 64 lesen berdaftar dan semuanya sah (51 produk baha” → “Sebanyak 67 lesen berdaftar; 65 daripadanya sah, 1 telah tamat tempoh dan 1 tida” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Bilangan pendaftaran: 67 pendaftaran; 65 sah, 1 tamat tempoh, 1 tidak lagi tersenarai dalam daftar semasa NPRA | Dibetulkan (disemak 2026-11-19; versi terdahulu disimpan dalam rekod) | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
 
 <!-- review:end log -->
 

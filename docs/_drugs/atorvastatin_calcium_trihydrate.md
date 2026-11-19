@@ -51,8 +51,8 @@ Atorvastatin ialah ubat statin yang digunakan secara meluas untuk menurunkan kol
 | Indikasi Baharu yang Diramalkan | Jangkitan HIV (HIV infectious disease) |
 | Skor Ramalan TxGNN | 0.9931 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 66 daripada 71; status tidak dapat disahkan: 5) |
-| Bilangan Pendaftaran | 71 (sah: 66; status tidak dapat disahkan: 5) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 66 daripada 71) |
+| Bilangan Pendaftaran | 71 (sah: 66) |
 | Keputusan Disyorkan | Teruskan dengan langkah kawalan |
 
 ---

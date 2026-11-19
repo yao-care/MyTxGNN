@@ -50,8 +50,8 @@ Lamivudine ialah perencat transkriptase balik nukleosida yang direkodkan dalam g
 | Indikasi Baharu yang Diramalkan | Simian immunodeficiency virus infection |
 | Skor Ramalan TxGNN | 0.9993 |
 | Tahap Bukti | L4 (kajian praklinikal pada haiwan/in vitro) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 29 daripada 30; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 30 (sah: 29; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 29 daripada 30) |
+| Bilangan Pendaftaran | 30 (sah: 29) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---

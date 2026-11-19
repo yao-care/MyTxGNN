@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 4; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 4 (sah: 3; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 3) |
 | **Nama Ubat** | Oxytocin |
 | **ID DrugBank** | [DB00107](https://go.drugbank.com/drugs/DB00107) |
 | **Ramalan DL (≥0.7)** | 0 |

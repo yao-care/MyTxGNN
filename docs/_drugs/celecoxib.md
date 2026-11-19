@@ -49,8 +49,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **displasia akromesomelik, jeni
 | Indikasi Baharu yang Diramalkan | Displasia akromesomelik, jenis Hunter-Thompson |
 | Skor Ramalan TxGNN | 0.9988 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 21 daripada 22; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 22 (sah: 21; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 21 daripada 22) |
+| Bilangan Pendaftaran | 22 (sah: 21) |
 | Bilangan Kelulusan | 22 pendaftaran (semua produk bahan tunggal, sah) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 

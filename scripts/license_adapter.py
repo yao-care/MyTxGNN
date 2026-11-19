@@ -21,6 +21,14 @@
 - 兩份都沒有、到期日未到（65 張，例：Cymbalta MAL05092473ARZ）：維持 2026-11-05 用戶決定的 UNKNOWN_STATUS（不推定撤銷；
   NPRA QUEST 單筆查詢擋自動化請求，無法逐號確認），照舊列在「新資料查不到」。
 兩份資料集任一份下載失敗或現行號碼少於 MIN_CURRENT 時不做上述判定（CURRENT 留空）。
+2026-11-19（用戶以瀏覽器在 NPRA QUEST3+ https://quest3plus.bpfk.gov.my/pmo2/index.php 逐筆查上面 65 張 UNKNOWN_STATUS 的號碼，
+並對照 data.gov.my 兩份資料集 2026-11-19 03:00 版；結果 txgnn/.claude/manual_license_lookup_20261117/my_npra_result_20261119.csv）：
+- 換號 3 張（前 8 碼相同、持有人與成分相同，產品名不同所以自動換尾碼規則認不到）收在 MY_RENUMBERED（人工確認表，每筆附依據）：
+  處理同換尾碼（新號不在同一個證據包→沿用新號狀態並寫 now listed as；在同一個證據包→RETIRED_STATUS）。不放寬自動規則。
+- 61 張兩份資料集都沒有、QUEST3+ 依號碼與品名也查不到，收在 MY_NOT_LISTED_CONFIRMED：preprocess 寫 NOT_LISTED_STATUS、
+  license_status＝cancelled（事實層非有效；NPRA 沒有公開撤銷日，頁面不寫成 dibatalkan）、npra_manual_check＝查核日；
+  confirmed_absent 回真。這張表不依賴下載；之後任一份清單又查到就照清單狀態並拿掉這些標記。
+- MAL19890435ACZ TUSSIFED SYRUP：QUEST3+ 仍列、data.gov.my 兩份都不列，兩邊矛盾，維持 UNKNOWN_STATUS。
 """
 import csv
 import html
@@ -42,6 +50,87 @@ _CUR_ROWS = {}         # 現行檔：reg_no → {product, active_ingredient, sta
 ALIASES = {}           # status_index 填：舊登記號 → 現行檔裡同一產品的新登記號
 # 舊號、新號都在同一個證據包時舊號的狀態（含 reviewer 的註銷字樣 retir，算非有效；新號那筆照常算有效）
 RETIRED_STATUS = "Registration number retired (not in current NPRA register; same product now listed as {})"
+
+_MANUAL_BASIS = ("NPRA QUEST3+ (https://quest3plus.bpfk.gov.my/pmo2/index.php) manual search by registration number and product name, 2026-11-19; "
+                 "data.gov.my pharmaceutical_products.csv / pharmaceutical_products_cancelled.csv, version 2026-11-19 03:00 (MYT)")
+# 2026-11-19 人工確認的換號：舊號 → (新號, 依據)。新號在 data.gov.my 現行檔為 PRODUCT APPROVED
+MY_RENUMBERED = {
+    "MAL16035030N": ("MAL16035030NC", _MANUAL_BASIS + "; new number MAL16035030NC 'MHD NutriCenta Enteric-Coated Softgel', "
+                     "CAMERON BIOSCIENCE (M) SDN. BHD. (same holder), PRODUCT APPROVED, end date 2031-03-26"),
+    "MAL23046028ACZ": ("MAL23046028AZ", _MANUAL_BASIS + "; Xostavid 40 now listed as MAL23046028AZ 'Urilog 40 (Febuxostat Film Coated "
+                       "Tablets 40 mg)', HEALOL PHARMACEUTICALS SDN. BHD. (same holder, same ingredient), PRODUCT APPROVED, end date 2028-04-06"),
+    "MAL23046029ACZ": ("MAL23046029AZ", _MANUAL_BASIS + "; now listed as MAL23046029AZ 'Urilog 80 (Febuxostat Film Coated Tablets 80 mg)', "
+                       "HEALOL PHARMACEUTICALS SDN. BHD. (same holder, same ingredient), PRODUCT APPROVED, end date 2028-04-06"),
+}
+# 2026-11-19 人工確認：兩份 data.gov.my 資料集都沒有、QUEST3+ 依號碼與品名都查不到的號碼 → 證據包品名（依據同 _MANUAL_BASIS）
+# MAL20066031NC：同前 8 碼的 MAL20066031NCR 是 watsons 魚油、持有人不同，不是換號
+MY_MANUAL_CHECKED = "2026-11-19"
+MY_NOT_LISTED_CONFIRMED = {
+    "MAL17025022ACZ": "Genvoya (Elvitegravir 150mg/Cobicistat 150mg/Emtricitabine 200mg/Tenofovir alafenamide10mg) Film-Coated Tablets",
+    "MAL20040573AZ": "DHNP HYDROXYUREA CAPSULE 500MG",
+    "MAL16115027ACRZ": "ESBRIET HARD CAPSULES 267MG",
+    "MAL19970944XZ": "ASPIRIN CARDIO",
+    "MAL21056004AZ": "Triveram 10mg/5mg/5mg (atorvastatin/perindopril arginine/amlodipine) film-coated tablets",
+    "MAL21056005AZ": "Triveram 20mg/5mg/5mg (atorvastatin/perindopril arginine/amlodipine) film-coated tablets",
+    "MAL21056006AZ": "Triveram 20mg/10mg/5mg (atorvastatin/perindopril arginine/amlodipine) film-coated tablets",
+    "MAL21056007AZ": "Triveram 20mg/10mg/10mg (atorvastatin/perindopril arginine/amlodipine) film-coated tablets",
+    "MAL21056008AZ": "Triveram 40mg/10mg/10mg (atorvastatin/perindopril arginine/amlodipine) film-coated tablets",
+    "MAL22056017NC": "JH NUTRITION HEMACEL TABLET",
+    "MAL19871097ACRZ": "MADOPAR ROCHE 125 CAPSULE",
+    "MAL19871056AZ": "SALMODIL SYRUP",
+    "MAL20132279AZ": "Salmodil-SF Expectorant Syrup",
+    "MAL19962487X": "MULTI ELIXIR",
+    "MAL26026009X": "ROIHI-TSUBOKO PLASTER",
+    "MAL13045055XC": "Chimpanzee Brand Medicated Oil",
+    "MAL20000004ARZ": "CELEBREX CAPSULE 100MG",
+    "MAL20066031NC": "Bio+ Omega3 TG Fish Oil EPA/DHA 540/360 Plus Softgel",
+    "MAL07090895XZ": "Mycoderm-C  Powder 1% w/w",
+    "MAL19116032ACRZ": "CUBICIN (DAPTOMYCIN FOR INJECTION) 500MG VIAL",
+    "MAL19890423AZ": "REMETHAN 50 E.C. TABLET",
+    "MAL19990992ACRZ": "CATAFLAM 1.5% DROPS",
+    "MAL10063022XCS": "daflon 500mg tablets",
+    "MAL19872253AZ": "MOTILIUM ORAL SUSPENSION 1MG/ML",
+    "MAL05092473ARZ": "Cymbalta Capsule 30mg",
+    "MAL05092474ARZ": "Cymbalta Capsule 60mg",
+    "MAL16125023AZ": "FORSTAVIR-LE ( Efavirenz 600 mg, Lamivudine 300 mg and Tenofovir Disoproxil Fumarate 300 mg ) Film-coated Tablets",
+    "MAL18046182ARZ": "Fluconazole Kabi 2mg/ml solution for infusion",
+    "MAL07031127ACZ": "Prozac Capsule 20mg",
+    "MAL06081215AZ": "LIGNOCAINE HCl - FRESENIUS 2% INJECTION",
+    "MAL20040909ARZ": "TARIVID OPHTHALMIC SOLUTION",
+    "MAL17107023ARZ": "Piperacillin/Tazobactam Kabi 2g/0.25g Powder for Solution for Infusion",
+    "MAL19056024AZ": "ALOJA 75 (Pregabalin Capsules 75 mg)",
+    "MAL19056025AZ": "ALOJA 150 (Pregabalin Capsules 150 mg)",
+    "MAL20041156AZ": "RISPERDAL CONSTA 25MG",
+    "MAL20041157AZ": "RISPERDAL CONSTA 37.5MG",
+    "MAL20041158AZ": "RISPERDAL CONSTA 50MG",
+    "MAL20020816ARSZ": "MABTHERA VIALS 100MG/10ML",
+    "MAL20020817ARSZ": "MABTHERA VIALS 500MG/50ML",
+    "MAL22026008AZ": "TRAMASURE-100 Tramadol Hydrochloride Injection 50mg/ml",
+    "MAL19950210AZ": "NAVELBINE 10MG,INJECTABLE SOLUTION",
+    "MAL19950211AZ": "NAVELBINE INJECTABLE 50MG",
+    "MAL19126017ARZ": "Noradrenaline Sintetica 1mg/ml Concentrate for Solution for Infusion",
+    "MAL09011482ACZ": "Cancidas Injection 50mg/vial",
+    "MAL24106008XCE": "Cortal Glucosamine Chondroitin MSM Capsule",
+    "MAL14015013ARZ": "FORXIGA 5MG FILM-COATED TABLET",
+    "MAL19056104AZ": "BEVESPI AEROSPHERE 7.2 / 5.0 micrograms pressurised inhalation, suspension",
+    "MAL25026029XCZ": "Cortal Sore Throat Spray 0.45 %w/v",
+    "MAL20102073AZ": "VICTOZA 6MG/ML SOLUTION FOR INJECTION IN PRE-FILLED PEN",
+    "MAL25036144XC": "Cortal Analgesic Cream",
+    "MAL16115037AZ": "BLOKTIENE CHEWABLE TABLET 4mg",
+    "MAL16115038AZ": "BLOKTIENE CHEWABLE TABLET 5MG",
+    "MAL23026029NC": "SLOAGE TABLET",
+    "MAL19870712AZ": "Oxytocin-Richter solution for injection 10 I.U / 1 ml",
+    "MAL07021408ARZ": "Nootropil Tablet  800 mg",
+    "MAL07021409ARZ": "Nootropil Tablet 1200 mg",
+    "MAL09061595ARZ": "Sodium Chloride Kabi 0.9%w/v Solution for Infusion",
+    "MAL20081740AZ": "CHAMPIX 0.5MG FILM-COATED TABLETS",
+    "MAL20081741AZ": "CHAMPIX 1.0MG FILM-COATED TABLETS",
+    "MAL20040542AZ": "VFEND 50MG TABLET",
+    "MAL20071669ACZ": "VFEND POWDER FOR ORAL SUSPENSION 40MG/ML",
+}
+# 不可以 "Status unknown (registration number not found" 開頭（reviewer 會判成 unknown）；不寫 cancelled（NPRA 沒有公開撤銷）
+NOT_LISTED_STATUS = ("Not in current NPRA register (checked " + MY_MANUAL_CHECKED + " in NPRA QUEST3+ and both data.gov.my datasets; "
+                     "date of removal from the register not published)")
 
 
 def _get(url):
@@ -152,6 +241,10 @@ def status_index(new):
                     # 例：Enhertu MAL24046001ACZ 在 trastuzumab 與 trastuzumab_deruxtecan，新號只在後者），由 preprocess 標 npra_duplicate_of、
                     # update 換成 RETIRED_STATUS（2026-11-17 修正：原本用全站聯集判斷，trastuzumab 頁少算 1 張）
                     _IDX[k] = f"{_CUR_ROWS[a]['status']} (now listed as {a})"
+        for k, (a, _basis) in MY_RENUMBERED.items():  # 2026-11-19 人工確認的換號（產品名不同，自動規則認不到）
+            if k not in _IDX and a in _CUR_ROWS and _CUR_ROWS[a]["status"]:
+                ALIASES[k] = a
+                _IDX[k] = f"{_CUR_ROWS[a]['status']} (now listed as {a})"
     return dict(_IDX)
 
 
@@ -160,6 +253,8 @@ def confirmed_absent(lid):
     k = str(lid or "").strip()
     if not CURRENT or not _IDX or k in _IDX:
         return False
+    if k in MY_NOT_LISTED_CONFIRMED:  # 2026-11-19 人工確認（QUEST3+＋data.gov.my）
+        return True
     rec = _bundle_records().get(k)
     return bool(rec) and expired(rec)
 
@@ -189,15 +284,24 @@ def preprocess(b):
         elif CURRENT and r.pop("npra_duplicate_of", None) is not None:
             ch = True
         if k and k not in _IDX:
-            want = EXPIRED_STATUS if expired(r) else UNKNOWN_STATUS
+            manual = k in MY_NOT_LISTED_CONFIRMED
+            want = NOT_LISTED_STATUS if manual else EXPIRED_STATUS if expired(r) else UNKNOWN_STATUS
             if r.get("status") != want:
                 r["status"] = want
+                ch = True
+            if manual and (r.get("license_status") != "cancelled" or r.get("npra_manual_check") != MY_MANUAL_CHECKED):
+                r["license_status"] = "cancelled"  # 事實層非有效（2026-11-19 人工確認不在 NPRA 現行註冊）
+                r["npra_manual_check"] = MY_MANUAL_CHECKED
                 ch = True
             if CURRENT and not r.get("npra_not_listed"):
                 r["npra_not_listed"] = today  # 2026-11-17：兩份資料集都沒有，第一次發現的日期
                 ch = True
         elif k and r.get("npra_not_listed"):
             r.pop("npra_not_listed", None)
+            ch = True
+        if k and k in _IDX and r.get("npra_manual_check"):  # 人工確認不列的號又出現在清單：照清單狀態（update 寫），拿掉標記
+            r.pop("npra_manual_check", None)
+            r.pop("license_status", None)
             ch = True
     return ch
 

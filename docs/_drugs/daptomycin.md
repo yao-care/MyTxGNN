@@ -50,8 +50,8 @@ Daptomycin ialah antibiotik lipopeptida kitaran yang digunakan untuk jangkitan b
 | Indikasi Baharu yang Diramal | Osteoartritis (osteoarthritis) |
 | Skor Ramalan TxGNN | 0.9986 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 4; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 4 (sah: 3; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 3) |
 | Keputusan Disyorkan | Hold |
 
 ---

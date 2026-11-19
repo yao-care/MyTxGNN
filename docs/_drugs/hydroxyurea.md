@@ -50,8 +50,8 @@ Bukti setakat ini sangat terhad: **tiada ujian klinikal** berdaftar, dan hanya *
 | Indikasi Baharu yang Diramalkan | Karsinoma payudara wanita (female breast carcinoma) |
 | Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 2; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 2 (sah: 1; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

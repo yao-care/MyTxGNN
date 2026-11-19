@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **aneurisme septum interventrik
 | Indikasi Baharu yang Diramalkan | Aneurisme septum interventrikular (interventricular septum aneurysm) |
 | Skor Ramalan TxGNN | 0.9925 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 20 daripada 21; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 21 (sah: 20; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 20 daripada 21) |
+| Bilangan Pendaftaran | 21 (sah: 20) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---

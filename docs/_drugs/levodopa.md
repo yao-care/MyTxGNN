@@ -50,8 +50,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Ensefalitis subakut Rasmussen |
 | Skor Ramalan TxGNN | 0.9906 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 15; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 15 (sah: 14; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 14) |
 | Bilangan Kelulusan | 15 pendaftaran (kesemuanya produk kombinasi) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
@@ -73,11 +73,11 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Kesemua 15 pendaftaran (14 sah) ialah produk kombinasi (levodopa bersama karbidopa/benserazida, atau bersama karbidopa dan entakapon). Lesen produk kombinasi tidak menggambarkan status kelulusan levodopa sebagai bahan tunggal. Teks indikasi diluluskan tidak tersedia dalam rekod.
+Daripada 15 pendaftaran, 14 sah dan 1 tidak lagi tersenarai dalam daftar semasa NPRA; kesemuanya ialah produk kombinasi (levodopa bersama karbidopa/benserazida, atau bersama karbidopa dan entakapon). Lesen produk kombinasi tidak menggambarkan status kelulusan levodopa sebagai bahan tunggal. Teks indikasi diluluskan tidak tersedia dalam rekod.
 
 <!-- review:begin my-lic-20261112-levodopa-1 -->
 
-> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Kesemua 15 pendaftaran yang sah ialah produk kombinasi" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 15 pendaftaran, semuanya kombinasi; 14 sah, 1 tanpa status. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-19)**: Asalnya dinyatakan: "Kesemua 15 pendaftaran yang sah ialah produk kombinasi" Dibetulkan mengikut data pendaftaran produk NPRA: 15 pendaftaran, semuanya kombinasi; 14 sah. MAL19871097ACRZ (MADOPAR ROCHE 125 CAPSULE) tiada dalam daftar semasa mahupun senarai pembatalan NPRA (data.gov.my, versi 2026-11-19 03:00) dan tidak ditemui dalam NPRA QUEST3+ melalui nombor pendaftaran atau nama produk (semakan manual 2026-11-19); tarikh pengeluaran daripada daftar tidak diterbitkan. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv).
 
 <!-- review:end my-lic-20261112-levodopa-1 -->
 
@@ -120,7 +120,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Kesemua 15 pendaftaran (14 sah) ialah produk kombinasi” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Daripada 15 pendaftaran, 14 sah dan 1 tidak lagi tersenarai dalam daftar semasa NPRA; kesemuanya kombinasi” | Dibetulkan (disemak 2026-11-19; versi terdahulu disimpan dalam rekod) | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
 
 <!-- review:end log -->
 

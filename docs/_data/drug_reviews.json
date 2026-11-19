@@ -3862,19 +3862,53 @@
    "file": "clotrimazole.md",
    "action": "correct",
    "claim": "Sebanyak 64 lesen berdaftar dan semuanya sah (51 produk bahan tunggal, 13 produk kombinasi).",
-   "replacement": "Sebanyak 67 lesen berdaftar; 65 daripadanya sah, 1 telah tamat tempoh dan 1 tidak mempunyai status dalam data NPRA (54 produk bahan tunggal, 13 produk kombinasi).",
-   "summary": "Bilangan pendaftaran: “Sebanyak 64 lesen berdaftar dan semuanya sah (51 produk baha” → “Sebanyak 67 lesen berdaftar; 65 daripadanya sah, 1 telah tamat tempoh dan 1 tida”",
-   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 67 pendaftaran, 65 sah, 1 tamat tempoh, 1 tanpa status; 54 bahan tunggal, 13 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas.",
-   "finding": "正文寫 64 張全有效（單方 51），事實層 67 張（有效 65、過期 1、狀態不明 1；單方 54、複方 13）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "replacement": "Sebanyak 67 lesen berdaftar; 65 daripadanya sah, 1 telah tamat tempoh dan 1 tidak lagi tersenarai dalam daftar semasa NPRA (54 produk bahan tunggal, 13 produk kombinasi).",
+   "summary": "Bilangan pendaftaran: 67 pendaftaran; 65 sah, 1 tamat tempoh, 1 tidak lagi tersenarai dalam daftar semasa NPRA",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA: 67 pendaftaran, 65 sah, 1 tamat tempoh; 54 bahan tunggal, 13 kombinasi. MAL07090895XZ, yang dahulunya tanpa status, tiada dalam daftar semasa mahupun senarai pembatalan NPRA (data.gov.my, versi 2026-11-19 03:00) dan tidak ditemui dalam NPRA QUEST3+ melalui nombor pendaftaran atau nama produk (semakan manual 2026-11-19); tarikh pengeluaran daripada daftar tidak diterbitkan. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "11-12 版寫「1 張 tanpa status」；2026-11-19 用戶人工查核確認那張（MAL07090895XZ）不在 NPRA 現行註冊，事實層 67 張：有效 65、非有效 2（另 1 張原本就已到期）",
    "sources": [
     {
-     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
-     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
-     "accessed": "2026-11-09"
+     "title": "NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)",
+     "url": "https://quest3plus.bpfk.gov.my/pmo2/index.php",
+     "accessed": "2026-11-19"
+    },
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)",
+     "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products.csv",
+     "accessed": "2026-11-19"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)",
+     "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv",
+     "accessed": "2026-11-19"
     }
    ],
-   "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+   "checked": "2026-11-19",
+   "method": "2026-11-19 用戶人工查核（NPRA QUEST3+ 依登記號與品名逐筆查詢 65 張狀態未知的號碼，對照 data.gov.my 現行註冊與撤銷清單 2026-11-19 03:00 版；結果見 txgnn/.claude/manual_license_lookup_20261117/my_npra_result_20261119.csv）",
+   "history": [
+    {
+     "id": "my-lic-20261112-clotrimazole-1",
+     "drug": "clotrimazole",
+     "file": "clotrimazole.md",
+     "action": "correct",
+     "claim": "Sebanyak 64 lesen berdaftar dan semuanya sah (51 produk bahan tunggal, 13 produk kombinasi).",
+     "replacement": "Sebanyak 67 lesen berdaftar; 65 daripadanya sah, 1 telah tamat tempoh dan 1 tidak mempunyai status dalam data NPRA (54 produk bahan tunggal, 13 produk kombinasi).",
+     "summary": "Bilangan pendaftaran: “Sebanyak 64 lesen berdaftar dan semuanya sah (51 produk baha” → “Sebanyak 67 lesen berdaftar; 65 daripadanya sah, 1 telah tamat tempoh dan 1 tida”",
+     "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 67 pendaftaran, 65 sah, 1 tamat tempoh, 1 tanpa status; 54 bahan tunggal, 13 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas.",
+     "finding": "正文寫 64 張全有效（單方 51），事實層 67 張（有效 65、過期 1、狀態不明 1；單方 54、複方 13）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+     "sources": [
+      {
+       "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+       "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+       "accessed": "2026-11-09"
+      }
+     ],
+     "checked": "2026-11-12",
+     "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
+     "retired": "2026-11-19",
+     "reason": "2026-11-19 人工查核確認狀態不明的那張不在 NPRA 現行註冊；「tidak mempunyai status」不再準確"
+    }
+   ]
   },
   {
    "id": "my-lic-20261112-cyanocobalamin-1",
@@ -3951,19 +3985,53 @@
    "file": "levodopa.md",
    "action": "correct",
    "claim": "Kesemua 15 pendaftaran yang sah ialah produk kombinasi",
-   "replacement": "Kesemua 15 pendaftaran (14 sah) ialah produk kombinasi",
-   "summary": "Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Kesemua 15 pendaftaran (14 sah) ialah produk kombinasi”",
-   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 15 pendaftaran, semuanya kombinasi; 14 sah, 1 tanpa status. Angka semasa terdapat dalam Gambaran Ringkas.",
-   "finding": "正文寫 15 張「有效的」都是複方，事實層 15 張中有效 14（1 張狀態不明），全是複方（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+   "replacement": "Daripada 15 pendaftaran, 14 sah dan 1 tidak lagi tersenarai dalam daftar semasa NPRA; kesemuanya ialah produk kombinasi",
+   "summary": "Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Daripada 15 pendaftaran, 14 sah dan 1 tidak lagi tersenarai dalam daftar semasa NPRA; kesemuanya kombinasi”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA: 15 pendaftaran, semuanya kombinasi; 14 sah. MAL19871097ACRZ (MADOPAR ROCHE 125 CAPSULE) tiada dalam daftar semasa mahupun senarai pembatalan NPRA (data.gov.my, versi 2026-11-19 03:00) dan tidak ditemui dalam NPRA QUEST3+ melalui nombor pendaftaran atau nama produk (semakan manual 2026-11-19); tarikh pengeluaran daripada daftar tidak diterbitkan. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "11-12 版寫「14 sah、1 tanpa status」；2026-11-19 用戶人工查核確認狀態不明的 MAL19871097ACRZ 不在 NPRA 現行註冊（兩份 data.gov.my 清單與 QUEST3+ 都查不到），事實層 15 張：有效 14、非有效 1，全是複方",
    "sources": [
     {
-     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
-     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
-     "accessed": "2026-11-09"
+     "title": "NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)",
+     "url": "https://quest3plus.bpfk.gov.my/pmo2/index.php",
+     "accessed": "2026-11-19"
+    },
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)",
+     "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products.csv",
+     "accessed": "2026-11-19"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)",
+     "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv",
+     "accessed": "2026-11-19"
     }
    ],
-   "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+   "checked": "2026-11-19",
+   "method": "2026-11-19 用戶人工查核（NPRA QUEST3+ 依登記號與品名逐筆查詢 65 張狀態未知的號碼，對照 data.gov.my 現行註冊與撤銷清單 2026-11-19 03:00 版；結果見 txgnn/.claude/manual_license_lookup_20261117/my_npra_result_20261119.csv）",
+   "history": [
+    {
+     "id": "my-lic-20261112-levodopa-1",
+     "drug": "levodopa",
+     "file": "levodopa.md",
+     "action": "correct",
+     "claim": "Kesemua 15 pendaftaran yang sah ialah produk kombinasi",
+     "replacement": "Kesemua 15 pendaftaran (14 sah) ialah produk kombinasi",
+     "summary": "Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Kesemua 15 pendaftaran (14 sah) ialah produk kombinasi”",
+     "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 15 pendaftaran, semuanya kombinasi; 14 sah, 1 tanpa status. Angka semasa terdapat dalam Gambaran Ringkas.",
+     "finding": "正文寫 15 張「有效的」都是複方，事實層 15 張中有效 14（1 張狀態不明），全是複方（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+     "sources": [
+      {
+       "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+       "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+       "accessed": "2026-11-09"
+      }
+     ],
+     "checked": "2026-11-12",
+     "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
+     "retired": "2026-11-19",
+     "reason": "2026-11-19 人工查核確認狀態不明的那張不在 NPRA 現行註冊，事實層改算非有效；「tanpa status」與「Kesemua 15 pendaftaran (14 sah)」的寫法不再準確"
+    }
+   ]
   },
   {
    "id": "my-lic-20261112-methionine-1",
@@ -4331,6 +4399,186 @@
    ],
    "checked": "2026-11-17",
    "method": "2026-11-17 人工查核（11-16 排程「新資料查不到」的登記號逐號對照 data.gov.my 現行註冊與撤銷清單；舊號換尾碼由產品名＋有效成分＋前 8 位數字比對）"
+  },
+  {
+   "id": "my-lic-20261119-duloxetine-1",
+   "drug": "duloxetine",
+   "file": "duloxetine.md",
+   "action": "correct",
+   "claim": "Lima daripada 16 lesen sah disenaraikan:",
+   "replacement": "Lima daripada 18 lesen disenaraikan (16 sah; MAL05092474ARZ dan MAL05092473ARZ, Cymbalta 60 mg dan 30 mg, tidak lagi tersenarai dalam daftar semasa NPRA):",
+   "summary": "Pengenalan jadual: “Lima daripada 16 lesen sah” → 5 daripada 18 lesen (16 sah; 2 Cymbalta tidak lagi tersenarai)",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA: 18 pendaftaran, 16 sah. MAL05092474ARZ dan MAL05092473ARZ (Cymbalta Capsule 60mg, 30mg) tiada dalam daftar semasa mahupun senarai pembatalan NPRA (data.gov.my, versi 2026-11-19 03:00) dan tidak ditemui dalam NPRA QUEST3+ melalui nombor pendaftaran atau nama produk (semakan manual 2026-11-19); tarikh pengeluaran daripada daftar tidak diterbitkan. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "表前文說列出的 5 張都在 16 張有效裡，其中 Cymbalta 60／30 mg 兩張 2026-11-19 人工查核確認不在 NPRA 現行註冊；事實層 18 張：有效 16、非有效 2",
+   "sources": [
+    {
+     "title": "NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)",
+     "url": "https://quest3plus.bpfk.gov.my/pmo2/index.php",
+     "accessed": "2026-11-19"
+    },
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)",
+     "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products.csv",
+     "accessed": "2026-11-19"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)",
+     "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv",
+     "accessed": "2026-11-19"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "2026-11-19 用戶人工查核（NPRA QUEST3+ 依登記號與品名逐筆查詢 65 張狀態未知的號碼，對照 data.gov.my 現行註冊與撤銷清單 2026-11-19 03:00 版；結果見 txgnn/.claude/manual_license_lookup_20261117/my_npra_result_20261119.csv）"
+  },
+  {
+   "id": "my-lic-20261119-duloxetine-2",
+   "drug": "duloxetine",
+   "file": "duloxetine.md",
+   "action": "correct",
+   "claim": "terdapat 18 lesen produk tunggal yang sah kesemuanya",
+   "replacement": "terdapat 18 lesen produk tunggal; 16 daripadanya sah dan 2 (Cymbalta 60 mg dan 30 mg) tidak lagi tersenarai dalam daftar semasa NPRA",
+   "summary": "Bilangan pendaftaran: “18 lesen produk tunggal yang sah kesemuanya” → 18 lesen, 16 sah, 2 tidak lagi tersenarai",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA: 18 pendaftaran bahan tunggal, 16 sah. MAL05092474ARZ dan MAL05092473ARZ (Cymbalta) tiada dalam daftar semasa mahupun senarai pembatalan NPRA (data.gov.my, versi 2026-11-19 03:00) dan tidak ditemui dalam NPRA QUEST3+ melalui nombor pendaftaran atau nama produk (semakan manual 2026-11-19); tarikh pengeluaran daripada daftar tidak diterbitkan. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫 18 張單方「全部有效」，2026-11-19 人工查核確認 Cymbalta 兩張不在 NPRA 現行註冊；事實層 18 張單方：有效 16、非有效 2",
+   "sources": [
+    {
+     "title": "NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)",
+     "url": "https://quest3plus.bpfk.gov.my/pmo2/index.php",
+     "accessed": "2026-11-19"
+    },
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)",
+     "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products.csv",
+     "accessed": "2026-11-19"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)",
+     "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv",
+     "accessed": "2026-11-19"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "2026-11-19 用戶人工查核（NPRA QUEST3+ 依登記號與品名逐筆查詢 65 張狀態未知的號碼，對照 data.gov.my 現行註冊與撤銷清單 2026-11-19 03:00 版；結果見 txgnn/.claude/manual_license_lookup_20261117/my_npra_result_20261119.csv）"
+  },
+  {
+   "id": "my-lic-20261119-nonivamide-1",
+   "drug": "nonivamide",
+   "file": "nonivamide.md",
+   "action": "correct",
+   "claim": "(5 lesen sah daripada 5)",
+   "replacement": "(4 lesen sah daripada 5; 1 tidak lagi tersenarai dalam daftar semasa NPRA)",
+   "summary": "Bilangan pendaftaran: “5 lesen sah daripada 5” → 4 sah daripada 5",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA: 5 pendaftaran, 4 sah. MAL26026009X (ROIHI-TSUBOKO PLASTER) tiada dalam daftar semasa mahupun senarai pembatalan NPRA (data.gov.my, versi 2026-11-19 03:00) dan tidak ditemui dalam NPRA QUEST3+ melalui nombor pendaftaran atau nama produk (semakan manual 2026-11-19); tarikh pengeluaran daripada daftar tidak diterbitkan. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "finding": "正文寫 5 張全有效，2026-11-19 人工查核確認 MAL26026009X 不在 NPRA 現行註冊；事實層 5 張：有效 4、非有效 1",
+   "sources": [
+    {
+     "title": "NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)",
+     "url": "https://quest3plus.bpfk.gov.my/pmo2/index.php",
+     "accessed": "2026-11-19"
+    },
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)",
+     "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products.csv",
+     "accessed": "2026-11-19"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)",
+     "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv",
+     "accessed": "2026-11-19"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "2026-11-19 用戶人工查核（NPRA QUEST3+ 依登記號與品名逐筆查詢 65 張狀態未知的號碼，對照 data.gov.my 現行註冊與撤銷清單 2026-11-19 03:00 版；結果見 txgnn/.claude/manual_license_lookup_20261117/my_npra_result_20261119.csv）"
+  },
+  {
+   "id": "my-row-20261119-rituximab-1",
+   "drug": "rituximab",
+   "file": "rituximab.md",
+   "action": "correct",
+   "claim": "| MAL20020817ARSZ | MABTHERA VIALS 500MG/50ML |  | Status unknown (registration number not found in either NPRA dataset, not yet past its end date) |",
+   "replacement": "| MAL20020817ARSZ | MABTHERA VIALS 500MG/50ML |  | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |",
+   "summary": "Status jadual: MAL20020817ARSZ “Status unknown (registration number not ” → tidak lagi tersenarai dalam daftar semasa NPRA",
+   "note": "Dibetulkan: MAL20020817ARSZ (MABTHERA VIALS 500MG/50ML) tiada dalam daftar semasa mahupun senarai pembatalan NPRA (data.gov.my, versi 2026-11-19 03:00) dan tidak ditemui dalam NPRA QUEST3+ melalui nombor pendaftaran atau nama produk (semakan manual 2026-11-19); tarikh pengeluaran daripada daftar tidak diterbitkan.",
+   "finding": "表格寫狀態不明，2026-11-19 用戶人工查核確認 MAL20020817ARSZ 不在 NPRA 現行註冊（事實層非有效）",
+   "sources": [
+    {
+     "title": "NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)",
+     "url": "https://quest3plus.bpfk.gov.my/pmo2/index.php",
+     "accessed": "2026-11-19"
+    },
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)",
+     "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products.csv",
+     "accessed": "2026-11-19"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)",
+     "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv",
+     "accessed": "2026-11-19"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "2026-11-19 用戶人工查核（NPRA QUEST3+ 依登記號與品名逐筆查詢 65 張狀態未知的號碼，對照 data.gov.my 現行註冊與撤銷清單 2026-11-19 03:00 版；結果見 txgnn/.claude/manual_license_lookup_20261117/my_npra_result_20261119.csv）"
+  },
+  {
+   "id": "my-row-20261119-rituximab-2",
+   "drug": "rituximab",
+   "file": "rituximab.md",
+   "action": "correct",
+   "claim": "| MAL20020816ARSZ | MABTHERA VIALS 100MG/10ML |  | Status unknown (registration number not found in either NPRA dataset, not yet past its end date) |",
+   "replacement": "| MAL20020816ARSZ | MABTHERA VIALS 100MG/10ML |  | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |",
+   "summary": "Status jadual: MAL20020816ARSZ “Status unknown (registration number not ” → tidak lagi tersenarai dalam daftar semasa NPRA",
+   "note": "Dibetulkan: MAL20020816ARSZ (MABTHERA VIALS 100MG/10ML) tiada dalam daftar semasa mahupun senarai pembatalan NPRA (data.gov.my, versi 2026-11-19 03:00) dan tidak ditemui dalam NPRA QUEST3+ melalui nombor pendaftaran atau nama produk (semakan manual 2026-11-19); tarikh pengeluaran daripada daftar tidak diterbitkan.",
+   "finding": "表格寫狀態不明，2026-11-19 用戶人工查核確認 MAL20020816ARSZ 不在 NPRA 現行註冊（事實層非有效）",
+   "sources": [
+    {
+     "title": "NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)",
+     "url": "https://quest3plus.bpfk.gov.my/pmo2/index.php",
+     "accessed": "2026-11-19"
+    },
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)",
+     "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products.csv",
+     "accessed": "2026-11-19"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)",
+     "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv",
+     "accessed": "2026-11-19"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "2026-11-19 用戶人工查核（NPRA QUEST3+ 依登記號與品名逐筆查詢 65 張狀態未知的號碼，對照 data.gov.my 現行註冊與撤銷清單 2026-11-19 03:00 版；結果見 txgnn/.claude/manual_license_lookup_20261117/my_npra_result_20261119.csv）"
+  },
+  {
+   "id": "my-row-20261119-tazobactam-1",
+   "drug": "tazobactam",
+   "file": "tazobactam.md",
+   "action": "correct",
+   "claim": "| MAL17107023ARZ | Piperacillin/Tazobactam Kabi 2g/0.25g Powder for Solution fo |  | Status tidak dapat disahkan |",
+   "replacement": "| MAL17107023ARZ | Piperacillin/Tazobactam Kabi 2g/0.25g Powder for Solution fo |  | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |",
+   "summary": "Status jadual: MAL17107023ARZ “Status tidak dapat disahkan” → tidak lagi tersenarai dalam daftar semasa NPRA",
+   "note": "Dibetulkan: MAL17107023ARZ (Piperacillin/Tazobactam Kabi 2g/0.25g Powder for Solution for Infusion) tiada dalam daftar semasa mahupun senarai pembatalan NPRA (data.gov.my, versi 2026-11-19 03:00) dan tidak ditemui dalam NPRA QUEST3+ melalui nombor pendaftaran atau nama produk (semakan manual 2026-11-19); tarikh pengeluaran daripada daftar tidak diterbitkan.",
+   "finding": "表格寫狀態不明，2026-11-19 用戶人工查核確認 MAL17107023ARZ 不在 NPRA 現行註冊（事實層非有效）",
+   "sources": [
+    {
+     "title": "NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)",
+     "url": "https://quest3plus.bpfk.gov.my/pmo2/index.php",
+     "accessed": "2026-11-19"
+    },
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)",
+     "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products.csv",
+     "accessed": "2026-11-19"
+    },
+    {
+     "title": "NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)",
+     "url": "https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv",
+     "accessed": "2026-11-19"
+    }
+   ],
+   "checked": "2026-11-19",
+   "method": "2026-11-19 用戶人工查核（NPRA QUEST3+ 依登記號與品名逐筆查詢 65 張狀態未知的號碼，對照 data.gov.my 現行註冊與撤銷清單 2026-11-19 03:00 版；結果見 txgnn/.claude/manual_license_lookup_20261117/my_npra_result_20261119.csv）"
   }
  ]
 }

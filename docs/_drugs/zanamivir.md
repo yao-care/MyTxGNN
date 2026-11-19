@@ -52,7 +52,7 @@ tetapi pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang men
 | Indikasi Baharu yang Diramalkan | Pyelonephritis |
 | Skor Ramalan TxGNN | 0.9984 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Tidak dipasarkan (pendaftaran dibatalkan: 1 daripada 1) |
+| Status Pasaran di Malaysia | Tidak dipasarkan (tiada pendaftaran semasa: 1 daripada 1 dibatalkan, tamat tempoh atau tidak lagi tersenarai dalam daftar NPRA) |
 | Bilangan Pendaftaran | 1 (sah: 0) |
 | Keputusan Disyorkan | Hold |
 

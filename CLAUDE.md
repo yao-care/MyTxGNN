@@ -534,8 +534,21 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   `scripts/license_adapter.py` 的 status_index 讓舊號沿用新號的狀態：新號不在同一個證據包（12 張）→ 有效（「… (now listed as 新號)」）；
   新號已在同一個證據包（38 張）→ RETIRED_STATUS（算非有效，免得同一張註冊算兩張）。產品名或成分不同的同號不同尾碼（5 張，例：MAL11030014AZ Prevulcer／MAL11030014HA Toltravet）不認。
 - 209 張兩份都沒有、證據包到期日已過（原本就是 EXPIRED_STATUS）：`confirmed_absent()` 讓排程列成「現行清單確認已不列」，不算查不到；preprocess 另記 npra_not_listed（第一次發現日，又出現就拿掉）。
-- 65 張兩份都沒有、到期日未到（例：Cymbalta MAL05092473ARZ、Forxiga 5mg MAL14015013ARZ）：維持 2026-11-05 用戶決定的 UNKNOWN_STATUS、照舊列在「新資料查不到」。
-  NPRA QUEST3+ 單筆查詢擋自動化請求，沒能逐號確認，不推定撤銷。
+- 65 張兩份都沒有、到期日未到（例：Cymbalta MAL05092473ARZ、Forxiga 5mg MAL14015013ARZ）：當時維持 2026-11-05 用戶決定的 UNKNOWN_STATUS（NPRA QUEST3+ 單筆查詢擋自動化請求）；
+  2026-11-19 用戶以瀏覽器在 QUEST3+（https://quest3plus.bpfk.gov.my/pmo2/index.php）逐筆查，並對照 data.gov.my 兩份資料集 2026-11-19 03:00 版
+  （txgnn/.claude/manual_license_lookup_20261117/my_npra_result_20261119.csv；QUEST3+ 只顯示號碼／品名／持有人、不顯示狀態），結果：
+  - 換號 3 張（前 8 碼、持有人、成分相同，產品名不同所以自動換尾碼規則認不到；不放寬自動規則）收在 `scripts/license_adapter.py` 的人工確認表 MY_RENUMBERED（每筆附依據）：
+    MAL16035030N→MAL16035030NC（MHD NutriCenta，Cameron Bioscience，到期 2031-03-26）、MAL23046028ACZ→MAL23046028AZ（Xostavid 40→Urilog 40，febuxostat，Healol，2028-04-06）、
+    MAL23046029ACZ→MAL23046029AZ（Urilog 80）。處理同換尾碼：新號已在同一個證據包→RETIRED_STATUS（febuxostat、riboflavin、ascorbic_acid 等），不在（vitamin_c）→沿用新號狀態。
+  - 61 張兩份資料集都沒有、QUEST3+ 依號碼與品名也查不到（例：Genvoya MAL17025022ACZ、ESBRIET 膠囊 MAL16115027ACRZ——現在只剩膠衣錠 MAL24036008／9ACRZ、Cymbalta 30／60 mg、MabThera 小瓶 2 張）
+    收在人工確認表 MY_NOT_LISTED_CONFIRMED：preprocess 寫 NOT_LISTED_STATUS（「Not in current NPRA register (checked 2026-11-19 …); date of removal from the register not published」）、
+    license_status＝cancelled（事實層非有效）＋npra_manual_check；confirmed_absent 回真；不依賴下載，任一份清單又查到就照清單狀態並拿掉標記。NPRA 沒有公開撤銷，頁面不寫成 dibatalkan。
+    MAL20066031NC 同前 8 碼的 MAL20066031NCR 是 watsons 魚油、持有人不同，不算換號，歸這類。
+  - MAL19890435ACZ TUSSIFED SYRUP：QUEST3+ 仍列、data.gov.my 兩份都不列，兩邊矛盾，維持 UNKNOWN_STATUS（每週排程「新資料查不到」1 張）。
+  - 頁面（2026-11-19）：56 頁概覽狀態列／張數列照事實層同步（「status tidak dapat disahkan」拿掉）；全部非有效的頁狀態列改用母目錄 check_drug_page.py 的 SCOPE_CANCELLED["MyTxGNN"]
+    「Tidak dipasarkan (tiada pendaftaran semasa: N daripada N dibatalkan, tamat tempoh atau tidak lagi tersenarai dalam daftar NPRA)」（本站 tools/txgnn 同步同一份；
+    elvitegravir 1 頁新變成全部非有效，依成分對現行檔確認沒有其他 elvitegravir 產品；原本全部註銷的 andexanet_alfa、betaxolol_hydrochloride、tolbutamide、zanamivir 跟著換寫法）。
+    正文與表格以 `my-lic-20261119-*`（duloxetine 2、nonivamide 1）、`my-row-20261119-*`（rituximab 2 列、tazobactam 1 列）更正，`my-lic-20261112-levodopa-1`、`my-lic-20261112-clotrimazole-1` 同 id 重發（「tanpa status」不再成立，前版存 history）。
 兩份資料集任一份下載失敗或現行號碼少於 MIN_CURRENT（20,000）時不做上述判定。
 - 頁面：概覽狀態列／張數列由程式同步（32 頁）；正文與表格跟新事實矛盾的以 `my-lic-20261117-*`、`my-row-20261117-*` 更正（cefoperazone、estradiol_valerate、dexmedetomidine_hydrochloride、netarsudil 2 列、thiotepa 1 列），
   apixaban、cyanocobalamin、vitamin_e 的 11-12 紀錄同 id 重發（前版存 history）。

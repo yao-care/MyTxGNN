@@ -48,8 +48,8 @@ Benserazide hydrochloride ialah perencat dekarboxilase DOPA periferal, biasanya 
 | Petunjuk Baru yang Diramalkan | — (Tiada ramalan dijana) |
 | Skor Ramalan TxGNN | — |
 | Tahap Bukti | L5 (Tiada kajian; tiada ramalan model tersedia) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 3; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 3 (sah: 2; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 2) |
 | Keputusan Disyorkan | **Tunggu** |
 
 ## Mengapa Ramalan Ini Munasabah?

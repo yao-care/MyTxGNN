@@ -42,7 +42,7 @@ Tahap bukti: **N/A** | Indikasi diramal: **0**
 |------|------|
 | Indikasi Asal | Tidak direkodkan dalam data tempatan |
 | Indikasi Baru yang Diramalkan | **Tiada** (tiada ramalan TxGNN dihasilkan) |
-| Status Pasaran di Malaysia | Tidak dipasarkan (pendaftaran dibatalkan: 1 daripada 1) |
+| Status Pasaran di Malaysia | Tidak dipasarkan (tiada pendaftaran semasa: 1 daripada 1 dibatalkan, tamat tempoh atau tidak lagi tersenarai dalam daftar NPRA) |
 | Bilangan Pendaftaran | 1 (sah: 0) |
 | Jumlah Pendaftaran | 1 |
 

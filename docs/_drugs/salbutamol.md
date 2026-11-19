@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **konjunktivitis papilari** den
 | Indikasi Baharu yang Diramalkan | Konjunktivitis papilari (papillary conjunctivitis) |
 | Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 (ramalan model sahaja) |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 65 daripada 67; status tidak dapat disahkan: 2) |
-| Bilangan Pendaftaran | 67 (sah: 65; status tidak dapat disahkan: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 65 daripada 67) |
+| Bilangan Pendaftaran | 67 (sah: 65) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---

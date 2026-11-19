@@ -50,8 +50,8 @@ Model TxGNN meramalkan ubat ini mungkin berkesan untuk **atrofoderma vermikulata
 | Indikasi Baharu yang Diramalkan | Atrofoderma vermikulata (atrophoderma vermiculata) |
 | Skor Ramalan TxGNN | 0.9959 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 20 daripada 22; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 22 (sah: 20; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 20 daripada 22) |
+| Bilangan Pendaftaran | 22 (sah: 20) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?

@@ -55,8 +55,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **agoraphobia**, tetapi tiada p
 | Penunjuk Baharu yang Diramalkan | Benign paroxysmal torticollis of infancy |
 | Skor Ramalan TxGNN | 0.9985 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 18; status tidak dapat disahkan: 2) |
-| Bilangan Pendaftaran | 18 (sah: 16; status tidak dapat disahkan: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 16 daripada 18) |
+| Bilangan Pendaftaran | 18 (sah: 16) |
 | Bilangan Kelulusan | 18 lesen sah (produk tunggal) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
@@ -92,7 +92,13 @@ Oleh itu, secara mekanistik duloxetine mungkin sesuai untuk agoraphobia. Namun b
 
 ## Maklumat Pasaran Malaysia
 
-Teks penunjuk yang diluluskan dan bentuk dos tidak tersedia dalam data yang disusun. Lima daripada 16 lesen sah disenaraikan:
+Teks penunjuk yang diluluskan dan bentuk dos tidak tersedia dalam data yang disusun. Lima daripada 18 lesen disenaraikan (16 sah; MAL05092474ARZ dan MAL05092473ARZ, Cymbalta 60 mg dan 30 mg, tidak lagi tersenarai dalam daftar semasa NPRA):
+
+<!-- review:begin my-lic-20261119-duloxetine-1 -->
+
+> **Pembetulan semakan (2026-11-19)**: Asalnya dinyatakan: "Lima daripada 16 lesen sah disenaraikan:" Dibetulkan mengikut data pendaftaran produk NPRA: 18 pendaftaran, 16 sah. MAL05092474ARZ dan MAL05092473ARZ (Cymbalta Capsule 60mg, 30mg) tiada dalam daftar semasa mahupun senarai pembatalan NPRA (data.gov.my, versi 2026-11-19 03:00) dan tidak ditemui dalam NPRA QUEST3+ melalui nombor pendaftaran atau nama produk (semakan manual 2026-11-19); tarikh pengeluaran daripada daftar tidak diterbitkan. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv).
+
+<!-- review:end my-lic-20261119-duloxetine-1 -->
 
 | Nombor Kebenaran | Nama Produk | Bentuk Dos | Penunjuk Diluluskan |
 |---------|------|------|-----------|
@@ -102,7 +108,13 @@ Teks penunjuk yang diluluskan dan bentuk dos tidak tersedia dalam data yang disu
 | MAL22076015AZ | ONELAR 60MG Hard Gastro-Resistant Capsules | Kapsul | Tidak tersedia |
 | MAL21016017AZ | CYMBALOX 60 mg Delayed-Release Capsules | Kapsul | Tidak tersedia |
 
-Senarai ini tidak lengkap; terdapat 18 lesen produk tunggal yang sah kesemuanya.
+Senarai ini tidak lengkap; terdapat 18 lesen produk tunggal; 16 daripadanya sah dan 2 (Cymbalta 60 mg dan 30 mg) tidak lagi tersenarai dalam daftar semasa NPRA.
+
+<!-- review:begin my-lic-20261119-duloxetine-2 -->
+
+> **Pembetulan semakan (2026-11-19)**: Asalnya dinyatakan: "terdapat 18 lesen produk tunggal yang sah kesemuanya" Dibetulkan mengikut data pendaftaran produk NPRA: 18 pendaftaran bahan tunggal, 16 sah. MAL05092474ARZ dan MAL05092473ARZ (Cymbalta) tiada dalam daftar semasa mahupun senarai pembatalan NPRA (data.gov.my, versi 2026-11-19 03:00) dan tidak ditemui dalam NPRA QUEST3+ melalui nombor pendaftaran atau nama produk (semakan manual 2026-11-19); tarikh pengeluaran daripada daftar tidak diterbitkan. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv).
+
+<!-- review:end my-lic-20261119-duloxetine-2 -->
 
 ---
 
@@ -131,6 +143,20 @@ Ramalan agoraphobia hanya disokong secara tidak langsung oleh kajian label terbu
 - Penilaian interaksi ubat Major (cth. bupropion) bagi populasi sasaran
 
 **Catatan mengenai ramalan lain:** OCD (skor 0.9984) mempunyai bukti terbanyak, termasuk percubaan Fasa 4 yang selesai (NCT00464698, n=20) dan kajian label terbuka (PMID 25637377), tetapi tiada RCT Fasa 3. Ia wajar dikaji sebagai persoalan penyelidikan. Ramalan lain (gangguan personaliti, sindrom Ohdo, ligneous conjunctivitis, benign paroxysmal torticollis of infancy) tidak mempunyai bukti dan kekal pada tahap L5 dengan keputusan Hold.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Pengenalan jadual: “Lima daripada 16 lesen sah” → 5 daripada 18 lesen (16 sah; 2 Cymbalta tidak lagi tersenarai) | Dibetulkan | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
+| 2026-11-19 | Bilangan pendaftaran: “18 lesen produk tunggal yang sah kesemuanya” → 18 lesen, 16 sah, 2 tidak lagi tersenarai | Dibetulkan | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

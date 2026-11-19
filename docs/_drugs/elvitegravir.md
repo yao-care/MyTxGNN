@@ -50,8 +50,8 @@ Ramalan ini masih pada tahap model sahaja (tahap bukti L5).
 | Indikasi Baharu yang Diramalkan | Sindrom imunodefisiensi kucing yang diperoleh (feline acquired immunodeficiency syndrome) |
 | Skor Ramalan TxGNN | 0.9989 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Status tidak dapat disahkan (pendaftaran: 1; sah: 0; dibatalkan atau tamat tempoh: 0; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 1 (sah: 0; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Tidak dipasarkan (tiada pendaftaran semasa: 1 daripada 1 dibatalkan, tamat tempoh atau tidak lagi tersenarai dalam daftar NPRA) |
+| Bilangan Pendaftaran | 1 (sah: 0) |
 | Bilangan Kelulusan | 1 pendaftaran (produk gabungan) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 

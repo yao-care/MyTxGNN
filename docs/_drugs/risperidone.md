@@ -48,8 +48,8 @@ Risperidone ialah ubat antipsikotik yang dikaitkan dengan skizofrenia, gangguan 
 | Indikasi Baharu yang Diramalkan | Gaze palsy, familial horizontal, with progressive scoliosis |
 | Skor Ramalan TxGNN | 0.9976 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 22 daripada 25; status tidak dapat disahkan: 3) |
-| Bilangan Pendaftaran | 25 (sah: 22; status tidak dapat disahkan: 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 22 daripada 25) |
+| Bilangan Pendaftaran | 25 (sah: 22) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?

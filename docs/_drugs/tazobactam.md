@@ -47,8 +47,8 @@ Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Tazobactam ia
 | Indikasi baharu yang diramalkan | Tiada (semua calon model yang boleh dijejak ialah kegunaan diketahui) |
 | Kegunaan diketahui dalam calon model | 2 |
 | Tahap bukti | Tidak berkenaan |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 9; status tidak dapat disahkan: 1) |
-| Bilangan Pendaftaran | 9 (sah: 7; status tidak dapat disahkan: 1) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 7) |
 
 ## Kegunaan diketahui dalam calon model
 
@@ -77,12 +77,18 @@ Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Tazobactam ia
 | MAL20162591ACREZ | hovid Piperacillin + Tazobactam for Injection 4.5g |  | Dibatalkan Pendaftaran |
 | MAL19990548AZ | TAZOCIN EF INJECTION 4.5G |  | Sah |
 | MAL16125024ACRZ | Zerbaxa 1.5g powder for solution for injection |  | Sah |
-| MAL17107023ARZ | Piperacillin/Tazobactam Kabi 2g/0.25g Powder for Solution fo |  | Status tidak dapat disahkan |
+| MAL17107023ARZ | Piperacillin/Tazobactam Kabi 2g/0.25g Powder for Solution fo |  | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |
 | MAL17107024ARZ | Piperacillin/Tazobactam Kabi 4g/0.5g Powder for Solution for |  | Sah |
 | MAL24036024ACZ | PipTaz-AFT, Piperacillin and Tazobactam Powder for Solution  |  | Sah |
 | MAL09072786ACZ | TAZPEN for Injection 4.5g |  | Sah |
 | MAL15015046AZ | Tapicin Powder For Injection 4.5g |  | Sah |
 | MAL16045059AZ | Aurotaz-P Powder for Injections 4.5 g |  | Sah |
+
+<!-- review:begin my-row-20261119-tazobactam-1 -->
+
+> **Pembetulan semakan (2026-11-19)**: Asalnya dinyatakan: "MAL17107023ARZ / Piperacillin/Tazobactam Kabi 2g/0.25g Powder for Solution fo /  / Status tidak dapat disahkan" Dibetulkan: MAL17107023ARZ (Piperacillin/Tazobactam Kabi 2g/0.25g Powder for Solution for Infusion) tiada dalam daftar semasa mahupun senarai pembatalan NPRA (data.gov.my, versi 2026-11-19 03:00) dan tidak ditemui dalam NPRA QUEST3+ melalui nombor pendaftaran atau nama produk (semakan manual 2026-11-19); tarikh pengeluaran daripada daftar tidak diterbitkan. Sumber: [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv).
+
+<!-- review:end my-row-20261119-tazobactam-1 -->
 
 ## Keselamatan dan Pertimbangan
 
@@ -100,6 +106,18 @@ Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Tazobactam ia
 Untuk amaran utama, kontraindikasi rasmi dan interaksi ubat, sila rujuk sisipan pakej.
 
 ---
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Status jadual: MAL17107023ARZ “Status tidak dapat disahkan” → tidak lagi tersenarai dalam daftar semasa NPRA | Dibetulkan | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
+
+<!-- review:end log -->
 
 ## Penafian
 
