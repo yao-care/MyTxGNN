@@ -1,0 +1,451 @@
+{
+ "_about": "本檔由 scripts/local_facts.py 產生（母目錄 .claude/local_facts_lib.py），勿手改；cross 欄位由母目錄 .claude/gen_local_pages_20261119.py 更新",
+ "drugs_total": 639,
+ "level_counts": {
+  "L1": 11,
+  "L2": 28,
+  "L3": 14,
+  "L4": 34,
+  "L5": 523
+ },
+ "level_na": 29,
+ "public_pages": 639,
+ "licence_snapshot": "my_licenses.json.gz",
+ "licence": {
+  "drugs_with_data": 639,
+  "drugs_with_current": 636,
+  "drugs_none_current": 3,
+  "drugs_without_data": 0,
+  "drugs_partial": 0,
+  "items_total": 13724,
+  "items_current": 13284
+ },
+ "reviews": {
+  "records": 213,
+  "pages": 183,
+  "public_pages_with_records": 181,
+  "by_action": {
+   "correct": 213
+  }
+ },
+ "fhir": {
+  "medication_knowledge": 638,
+  "clinical_use_definition": 3634
+ },
+ "top_licensed": [
+  {
+   "t": "Ascorbic Acid",
+   "u": "/drugs/ascorbic-acid/",
+   "l": "L5",
+   "lt": 1245,
+   "lv": 1199,
+   "r": 0,
+   "i": "Malformasi esofagus tidak sindromik"
+  },
+  {
+   "t": "Cholecalciferol",
+   "u": "/drugs/cholecalciferol/",
+   "l": "L5",
+   "lt": 924,
+   "lv": 902,
+   "r": 0,
+   "i": "Displasia akromesomelik jenis Campailla Martinelli"
+  },
+  {
+   "t": "Folic Acid",
+   "u": "/drugs/folic-acid/",
+   "l": "L5",
+   "lt": 540,
+   "lv": 527,
+   "r": 0,
+   "i": "biotin metabolic disease"
+  },
+  {
+   "t": "Cyanocobalamin",
+   "u": "/drugs/cyanocobalamin/",
+   "l": "L5",
+   "lt": 486,
+   "lv": 470,
+   "r": 1,
+   "i": "biotin metabolic disease"
+  },
+  {
+   "t": "Calcium Carbonate",
+   "u": "/drugs/calcium-carbonate/",
+   "l": "N/A",
+   "lt": 378,
+   "lv": 366,
+   "r": 0,
+   "i": ""
+  },
+  {
+   "t": "Biotin",
+   "u": "/drugs/biotin/",
+   "l": "L5",
+   "lt": 372,
+   "lv": 363,
+   "r": 1,
+   "i": "Dispepsia"
+  },
+  {
+   "t": "Zinc Oxide",
+   "u": "/drugs/zinc-oxide/",
+   "l": "L5",
+   "lt": 314,
+   "lv": 304,
+   "r": 1,
+   "i": "acne (disease)"
+  },
+  {
+   "t": "Camphor",
+   "u": "/drugs/camphor/",
+   "l": "L5",
+   "lt": 298,
+   "lv": 289,
+   "r": 1,
+   "i": "Gangguan migrain"
+  }
+ ],
+ "no_current": [
+  {
+   "t": "Andexanet Alfa",
+   "u": "/drugs/andexanet-alfa/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 1,
+   "i": "Glanzmann thrombasthenia"
+  },
+  {
+   "t": "Elvitegravir",
+   "u": "/drugs/elvitegravir/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 0,
+   "i": "Sindrom imunodefisiensi kucing yang diperoleh"
+  },
+  {
+   "t": "Zanamivir",
+   "u": "/drugs/zanamivir/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 1,
+   "i": "pyelonephritis"
+  }
+ ],
+ "no_current_more": 0,
+ "most_reviewed": [
+  {
+   "t": "Denosumab",
+   "u": "/drugs/denosumab/",
+   "l": "L5",
+   "lt": 6,
+   "lv": 6,
+   "r": 3,
+   "i": "severe nonproliferative diabetic retinopathy"
+  },
+  {
+   "t": "Lacosamide",
+   "u": "/drugs/lacosamide/",
+   "l": "L5",
+   "lt": 7,
+   "lv": 7,
+   "r": 3,
+   "i": "manic bipolar affective disorder"
+  },
+  {
+   "t": "Atorvastatin Calcium Trihydrate",
+   "u": "/drugs/atorvastatin-calcium-trihydrate/",
+   "l": "L2",
+   "lt": 71,
+   "lv": 66,
+   "r": 2,
+   "i": "Jangkitan HIV"
+  },
+  {
+   "t": "Dexlansoprazole",
+   "u": "/drugs/dexlansoprazole/",
+   "l": "L5",
+   "lt": 2,
+   "lv": 2,
+   "r": 2,
+   "i": "gastroduodenitis"
+  },
+  {
+   "t": "Dichlorobenzyl Alcohol",
+   "u": "/drugs/dichlorobenzyl-alcohol/",
+   "l": "L5",
+   "lt": 7,
+   "lv": 7,
+   "r": 2,
+   "i": "bronchitis"
+  },
+  {
+   "t": "Duloxetine",
+   "u": "/drugs/duloxetine/",
+   "l": "L5",
+   "lt": 18,
+   "lv": 16,
+   "r": 2,
+   "i": "benign paroxysmal torticollis of infancy"
+  }
+ ],
+ "example": {
+  "t": "Acetylcysteine",
+  "u": "/drugs/acetylcysteine/",
+  "l": "L1",
+  "lt": 36,
+  "lv": 36,
+  "r": 0,
+  "i": "Penyakit trombotik"
+ },
+ "recent_reviews": [
+  {
+   "t": "Tazobactam",
+   "u": "/drugs/tazobactam/",
+   "s": "Status jadual: MAL17107023ARZ “Status tidak dapat disahkan” → tidak lagi tersenarai dalam daftar semasa NPRA",
+   "d": "2026-11-19"
+  },
+  {
+   "t": "Rituximab",
+   "u": "/drugs/rituximab/",
+   "s": "Status jadual: MAL20020816ARSZ “Status unknown (registration number not ” → tidak lagi tersenarai dalam…",
+   "d": "2026-11-19"
+  },
+  {
+   "t": "Nonivamide",
+   "u": "/drugs/nonivamide/",
+   "s": "Bilangan pendaftaran: “5 lesen sah daripada 5” → 4 sah daripada 5",
+   "d": "2026-11-19"
+  },
+  {
+   "t": "Duloxetine",
+   "u": "/drugs/duloxetine/",
+   "s": "Bilangan pendaftaran: “18 lesen produk tunggal yang sah kesemuanya” → 18 lesen, 16 sah, 2 tidak lagi…",
+   "d": "2026-11-19"
+  },
+  {
+   "t": "Levodopa",
+   "u": "/drugs/levodopa/",
+   "s": "Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Daripada 15 pendaftaran, 14…",
+   "d": "2026-11-19"
+  },
+  {
+   "t": "Clotrimazole",
+   "u": "/drugs/clotrimazole/",
+   "s": "Bilangan pendaftaran: 67 pendaftaran; 65 sah, 1 tamat tempoh, 1 tidak lagi tersenarai dalam daftar semasa NPRA",
+   "d": "2026-11-19"
+  },
+  {
+   "t": "Thiotepa",
+   "u": "/drugs/thiotepa/",
+   "s": "Status jadual: MAL23066003AZ “Status tidak dapat disahkan” → nombor lama, kini MAL23066003ARZ",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Netarsudil",
+   "u": "/drugs/netarsudil/",
+   "s": "Status jadual: MAL25046005ACZ “Status unknown …” → Sah (kini MAL25046005ARZ)",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Estradiol Valerate",
+   "u": "/drugs/estradiol-valerate/",
+   "s": "Status pendaftaran: “Semua lesen berstatus sah dan dipegang oleh Bayer Co. (Malaysia) Sdn. Bhd.” →…",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Dexmedetomidine Hydrochloride",
+   "u": "/drugs/dexmedetomidine-hydrochloride/",
+   "s": "Status pendaftaran: “Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibatalkan.” → “Terdapat…",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Cefoperazone",
+   "u": "/drugs/cefoperazone/",
+   "s": "Status pendaftaran: “dengan 8 lesen yang sah dan tiada yang dibatalkan” → “dengan 8 lesen yang sah; 1 nombor…",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Vitamin E",
+   "u": "/drugs/vitamin-e/",
+   "s": "Bilangan pendaftaran: “Vitamin E didaftarkan dalam 245 produk (semuanya sah).” → “Vitamin E didaftarkan dalam…",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Trastuzumab",
+   "u": "/drugs/trastuzumab/",
+   "s": "Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan 14 pendaftaran, semuanya sah)”",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Cyanocobalamin",
+   "u": "/drugs/cyanocobalamin/",
+   "s": "Bilangan pendaftaran: “Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi” → “Jumlah pendaftaran…",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Apixaban",
+   "u": "/drugs/apixaban/",
+   "s": "Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan 30 lesen sah; 2 nombor…",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Zinc Oxide",
+   "u": "/drugs/zinc-oxide/",
+   "s": "Bilangan pendaftaran: “Jumlah keseluruhan ialah 280 lesen” → “Terdapat 304 lesen sah daripada jumlah…",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Tadalafil",
+   "u": "/drugs/tadalafil/",
+   "s": "Bilangan pendaftaran: “Terdapat 23 pendaftaran sah, semuanya produk bahan tunggal.” → “Terdapat 27…",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Pregabalin",
+   "u": "/drugs/pregabalin/",
+   "s": "Bilangan pendaftaran: “Terdapat 63 pendaftaran produk pregabalin bahan tunggal yang” → “Terdapat 64…",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Methionine",
+   "u": "/drugs/methionine/",
+   "s": "Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombi” → “Sebanyak 161…",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Ketoconazole",
+   "u": "/drugs/ketoconazole/",
+   "s": "Bilangan pendaftaran: “Ketoconazole mempunyai 33 lesen berdaftar, semuanya sah (31” → “Ketoconazole mempunyai…",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Iron",
+   "u": "/drugs/iron/",
+   "s": "Bilangan pendaftaran: “Sebanyak 80 lesen direkodkan, kesemuanya sah (30” → “Sebanyak 80 lesen direkodkan, 79…",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Clarithromycin",
+   "u": "/drugs/clarithromycin/",
+   "s": "Bilangan pendaftaran: “Terdapat 28 lesen, semuanya sah (27 produk bahan tunggal dan” → “Terdapat 29 lesen…",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Ciprofloxacin",
+   "u": "/drugs/ciprofloxacin/",
+   "s": "Bilangan pendaftaran: “terdapat 42 lesen berdaftar, semuanya sah (41 produk” → “terdapat 42 lesen berdaftar…",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Budesonide",
+   "u": "/drugs/budesonide/",
+   "s": "Bilangan pendaftaran: “Terdapat 34 lesen, semuanya sah (25 produk bahan tunggal dan” → “Terdapat 35 lesen…",
+   "d": "2026-11-12"
+  }
+ ],
+ "recent_licence_reviews": [
+  {
+   "t": "Tazobactam",
+   "u": "/drugs/tazobactam/",
+   "s": "Status jadual: MAL17107023ARZ “Status tidak dapat disahkan” → tidak lagi tersenarai dalam daftar semasa NPRA",
+   "d": "2026-11-19"
+  },
+  {
+   "t": "Rituximab",
+   "u": "/drugs/rituximab/",
+   "s": "Status jadual: MAL20020816ARSZ “Status unknown (registration number not ” → tidak lagi tersenarai dalam…",
+   "d": "2026-11-19"
+  },
+  {
+   "t": "Nonivamide",
+   "u": "/drugs/nonivamide/",
+   "s": "Bilangan pendaftaran: “5 lesen sah daripada 5” → 4 sah daripada 5",
+   "d": "2026-11-19"
+  },
+  {
+   "t": "Duloxetine",
+   "u": "/drugs/duloxetine/",
+   "s": "Bilangan pendaftaran: “18 lesen produk tunggal yang sah kesemuanya” → 18 lesen, 16 sah, 2 tidak lagi…",
+   "d": "2026-11-19"
+  },
+  {
+   "t": "Levodopa",
+   "u": "/drugs/levodopa/",
+   "s": "Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Daripada 15 pendaftaran, 14…",
+   "d": "2026-11-19"
+  },
+  {
+   "t": "Clotrimazole",
+   "u": "/drugs/clotrimazole/",
+   "s": "Bilangan pendaftaran: 67 pendaftaran; 65 sah, 1 tamat tempoh, 1 tidak lagi tersenarai dalam daftar semasa NPRA",
+   "d": "2026-11-19"
+  },
+  {
+   "t": "Thiotepa",
+   "u": "/drugs/thiotepa/",
+   "s": "Status jadual: MAL23066003AZ “Status tidak dapat disahkan” → nombor lama, kini MAL23066003ARZ",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Netarsudil",
+   "u": "/drugs/netarsudil/",
+   "s": "Status jadual: MAL25046005ACZ “Status unknown …” → Sah (kini MAL25046005ARZ)",
+   "d": "2026-11-17"
+  }
+ ],
+ "files": {
+  "search_index": 639,
+  "drugs_json": 639
+ },
+ "by_level": {
+  "L1": {
+   "n": 11,
+   "current": 11
+  },
+  "L2": {
+   "n": 28,
+   "current": 28
+  },
+  "L3": {
+   "n": 14,
+   "current": 14
+  },
+  "L4": {
+   "n": 34,
+   "current": 34
+  },
+  "L5": {
+   "n": 523,
+   "current": 520
+  }
+ },
+ "cross": {
+  "unique_pairs": 10,
+  "unique_examples": [
+   {
+    "t": "Estradiol Benzoate",
+    "u": "/drugs/estradiol-benzoate/",
+    "i": "migraine disorder"
+   },
+   {
+    "t": "Antazoline Hydrochloride",
+    "u": "/drugs/antazoline-hydrochloride/",
+    "i": "Dermatitis atopik yang degil"
+   },
+   {
+    "t": "Pinaverium Bromide",
+    "u": "/drugs/pinaverium-bromide/",
+    "i": "benign prostatic hyperplasia (disease)"
+   },
+   {
+    "t": "Sulodexide",
+    "u": "/drugs/sulodexide/",
+    "i": "Glanzmann thrombasthenia"
+   }
+  ]
+ }
+}

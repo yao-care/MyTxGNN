@@ -111,13 +111,32 @@ Our Service is not directed to anyone under 13. We do not knowingly collect info
 
 ---
 
-## Your Rights
+<!-- privacy-law:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改；法規與連結見 .claude/privacy_text_20261119.py）-->
+## Applicable law
 
-You have the right to:
+For visitors in Malaysia the relevant law is the Personal Data Protection Act 2010 (Act 709), administered by the [Department of Personal Data Protection (JPDP)](https://www.pdp.gov.my/ppdpv1/akta-709/). The Act's seven data protection principles apply to commercial processing of personal data; the only personal data involved here is the usage data collected by Google Analytics 4 cookies, which Google processes outside Malaysia.
 
-- **Access**: Request information about data we have about you
-- **Deletion**: Request deletion of any personal data
-- **Opt-out**: Disable cookies or analytics
+## Your rights and how to use them
+
+- Right of access to your personal data.
+- Right to correct inaccurate data.
+- Right to withdraw consent, for example by blocking the analytics cookies.
+- Right to complain to the Personal Data Protection Commissioner.
+
+Requests: service@yao.care (there are no accounts, so tell us the date and pages of your visit). Analytics cookies can be blocked or deleted in your browser.
+
+## Copyright and data sources
+
+Site texts are protected under the Copyright Act 1987 (Act 332), administered by [MyIPO](https://www.myipo.gov.my/). The site's code is published under the MIT License in the [GitHub repository](https://github.com/yao-care/MyTxGNN); report texts are © 藥提醒科技有限公司 (yao.care).
+
+Data sources used on this site and their terms:
+
+- **TxGNN** data (Harvard Dataverse): CC0 1.0; cite Huang et al., *Nature Medicine* 2024.
+- **ClinicalTrials.gov**, **PubMed**: [ClinicalTrials.gov terms](https://clinicaltrials.gov/about-site/terms-conditions), [NCBI policies](https://www.ncbi.nlm.nih.gov/home/about/policies/).
+- **DrugBank**: [DrugBank](https://go.drugbank.com/) licence terms, non-commercial use.
+- **Local dataset** – [data.gov.my: Pharmaceutical Products (NPRA)](https://data.gov.my/data-catalogue/pharmaceutical_products): Creative Commons Attribution 4.0 (CC BY 4.0), per data.gov.my (https://data.gov.my/).
+
+<!-- privacy-law:end -->
 
 ---
 
@@ -133,18 +152,6 @@ If you have questions about this Privacy Policy, please contact us:
 
 - **GitHub Issues**: [MyTxGNN Issues](https://github.com/yao-care/MyTxGNN/issues)
 - **Project Website**: https://mytxgnn.yao.care
-
----
-
-## Malaysia-Specific Provisions
-
-### Personal Data Protection Act 2010 (PDPA)
-
-This Service complies with Malaysia's Personal Data Protection Act 2010:
-
-- Apart from the Google Analytics 4 usage statistics described above (analytics cookies set when a page loads), the Service does not process personal data
-- Usage statistics are processed by Google as our analytics provider; we do not otherwise share personal data with third parties
-- Data subjects may request access to their data
 
 ---
 
