@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-16",
-  "total_count": 646,
+  "generated": "2026-11-19",
+  "total_count": 642,
   "source": "MyTxGNN",
   "drugs": [
     {
@@ -354,16 +354,6 @@
       "url": "/drugs/amiloride-hydrochloride/"
     },
     {
-      "slug": "aminophylline-anhydrous",
-      "name": "Aminophylline Anhydrous",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/aminophylline-anhydrous/"
-    },
-    {
       "slug": "aminophylline-dihydrate",
       "name": "Aminophylline Dihydrate",
       "evidence_level": "L4",
@@ -614,16 +604,6 @@
       "url": "/drugs/aspartic-acid/"
     },
     {
-      "slug": "aspirin",
-      "name": "Aspirin",
-      "evidence_level": "L5",
-      "indication_count": 7,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/aspirin/"
-    },
-    {
       "slug": "atazanavir-sulfate",
       "name": "Atazanavir Sulfate",
       "evidence_level": "L5",
@@ -652,16 +632,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/atezolizumab/"
-    },
-    {
-      "slug": "atorvastatin-calcium",
-      "name": "Atorvastatin Calcium",
-      "evidence_level": "L2",
-      "indication_count": 4,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/atorvastatin-calcium/"
     },
     {
       "slug": "atorvastatin-calcium-trihydrate",
@@ -2092,16 +2062,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/dextromethorphan/"
-    },
-    {
-      "slug": "dextromethorphan-hbr",
-      "name": "Dextromethorphan Hbr",
-      "evidence_level": "L5",
-      "indication_count": 5,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/dextromethorphan-hbr/"
     },
     {
       "slug": "diazepam",

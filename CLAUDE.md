@@ -556,3 +556,12 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   改成逐個證據包判斷（preprocess 標 `npra_duplicate_of`、update 換成 RETIRED_STATUS；其他證據包沿用新號的現行狀態）。受影響 5 個證據包 6 筆：trastuzumab（Enhertu MAL24046001ACZ，新號只在 trastuzumab_deruxtecan；14 張中 13→14 張有效，`my-lic-20261112-trastuzumab-1` 同 id 重發）、
   ofloxacin（Ducressa MAL23076003ACZ；142→143 張有效）、calcium_pantothenate、sodium_phosphate、vitamin_d（後三個沒有藥物頁）。trastuzumab 頁收 Enhertu／Kadcyla、ofloxacin 頁收 levofloxacin 產品，是原收集器依藥名子字串比對的既有規則，照舊。
 - 同日修 `src/mytxgnn/regulatory/count_prose.py`：「1 sah dan 1 dibatalkan」的第一個數字被當成註銷數（中間跳過 sah），ambroxol 會被改成「0 sah dan 0 dibatalkan」；註銷角色的中間字不能是 sah／aktif 或數字。
+
+## 同一 DrugBank ID 的重複公開頁改轉址（2026-11-19）
+
+用戶 2026-11-19 決定（照 ARTxGNN 同日做法）：公開藥物頁同一 DrugBank ID（front matter drugbank_id，沒有的用證據包推斷）、預測相同的，留一頁、另一頁改轉址（layout: id_redirect、permalink 不變、sitemap: false、search_exclude、nav_exclude）。
+只轉「被轉址頁的 NPRA 登記號是保留頁的子集」的組（不丟市場資料），保留頁等級不低於被轉址頁。4 頁：dextromethorphan_hbr→dextromethorphan（24⊂45 張）、
+aspirin→acetylsalicylic_acid（22⊂23 張；字數平手；本站頁名照 NPRA 成分名，acetylsalicylic_acid 是 NPRA 寫法且多收 1 張）、atorvastatin_calcium→atorvastatin_calcium_trihydrate（71 張相同，保留頁有 2 筆查核紀錄）、
+aminophylline_anhydrous→aminophylline_dihydrate（2 張相同、字數平手，保留等級較高的 L4 頁）。被轉址頁都沒有查核紀錄。
+沒轉（登記號不是子集，要人工決定）：DB00381 amlodipine_besilate（81 張）／amlodipine_besylate（50 張，共同 3 張）、DB01075 diphenhydramine_hcl（21）／diphenhydramine_hydrochloride（34，共同 19）、DB06742 ambroxol_hcl（1）／ambroxol_hydrochloride（22，共同 0）。
+公開藥物頁 646→642；被轉址頁自己的 MK 由 sync_fhir_levels 當重複刪（MK 645→641、CUD 3673→3648）；衍生檔、hreflang 照重產。

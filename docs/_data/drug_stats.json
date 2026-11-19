@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-16",
-  "total_drugs": 646,
+  "generated": "2026-11-19",
+  "total_drugs": 642,
   "level_counts": {
     "L1": 11,
-    "L2": 29,
+    "L2": 28,
     "L3": 14,
     "L4": 34,
-    "L5": 529
+    "L5": 526
   },
   "all_drugs": [
     {
@@ -220,12 +220,6 @@
       "indication_count": 5
     },
     {
-      "name": "Aminophylline Anhydrous",
-      "slug": "aminophylline_anhydrous",
-      "level": "L5",
-      "indication_count": 9
-    },
-    {
       "name": "Aminophylline Dihydrate",
       "slug": "aminophylline_dihydrate",
       "level": "L4",
@@ -376,12 +370,6 @@
       "indication_count": 1
     },
     {
-      "name": "Aspirin",
-      "slug": "aspirin",
-      "level": "L5",
-      "indication_count": 7
-    },
-    {
       "name": "Atazanavir Sulfate",
       "slug": "atazanavir_sulfate",
       "level": "L5",
@@ -398,12 +386,6 @@
       "slug": "atezolizumab",
       "level": "L5",
       "indication_count": 6
-    },
-    {
-      "name": "Atorvastatin Calcium",
-      "slug": "atorvastatin_calcium",
-      "level": "L2",
-      "indication_count": 4
     },
     {
       "name": "Atorvastatin Calcium Trihydrate",
@@ -1260,12 +1242,6 @@
     {
       "name": "Dextromethorphan",
       "slug": "dextromethorphan",
-      "level": "L5",
-      "indication_count": 5
-    },
-    {
-      "name": "Dextromethorphan Hbr",
-      "slug": "dextromethorphan_hbr",
       "level": "L5",
       "indication_count": 5
     },

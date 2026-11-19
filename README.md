@@ -19,22 +19,22 @@ Ramalan penggunaan semula ubat untuk ubat yang diluluskan NPRA (Malaysia) menggu
 
 | Item | Bilangan |
 |------|------|
-| **Laporan ubat** | 646 |
+| **Laporan ubat** | 642 |
 | **Jumlah ramalan** | 19,982,488 |
 | **Ubat unik** | 1,061 |
 | **Petunjuk unik** | 17,041 |
 | **Data DDI** | 160,235 |
-| **Sumber FHIR** | 645 MK / 3,673 CUD |
+| **Sumber FHIR** | 641 MK / 3,648 CUD |
 
 ### Taburan tahap bukti
 
 | Tahap bukti | Bilangan laporan | Penerangan |
 |---------|-------|------|
 | **L1** | 11 | Pelbagai RCT Fasa 3 |
-| **L2** | 29 | RCT tunggal atau pelbagai Fasa 2 |
+| **L2** | 28 | RCT tunggal atau pelbagai Fasa 2 |
 | **L3** | 14 | Kajian pemerhatian |
 | **L4** | 34 | Kajian praklinikal / mekanistik |
-| **L5** | 529 | Ramalan pengkomputeran sahaja |
+| **L5** | 526 | Ramalan pengkomputeran sahaja |
 | **N/A** | 29 | Kegunaan diketahui sahaja (tiada ramalan baharu) |
 
 ### Mengikut sumber
