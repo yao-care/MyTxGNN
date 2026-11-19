@@ -1,6 +1,6 @@
 {
-  "total": 617,
-  "generated_at": "2026-11-19T05:47:58.860357",
+  "total": 610,
+  "generated_at": "2026-11-19T19:54:44.338347",
   "drugs": [
     {
       "name": "Abacavir Sulfate",
@@ -506,21 +506,6 @@
       "approved_indication": "pulmonary arterial hypertension"
     },
     {
-      "name": "Ambroxol Hcl",
-      "file": "ambroxol_hcl.md",
-      "evidence_level": "L5",
-      "indication_count": 4,
-      "predicted_indication": "",
-      "inn": "Ambroxol",
-      "predicted_indications": [
-        "nasal cavity disease",
-        "vulvovaginal candidiasis",
-        "faucial diphtheria",
-        "cervical disc degenerative disorder"
-      ],
-      "approved_indication": ""
-    },
-    {
       "name": "Ambroxol Hydrochloride",
       "file": "ambroxol_hydrochloride.md",
       "evidence_level": "L5",
@@ -573,26 +558,6 @@
       "approved_indication": ""
     },
     {
-      "name": "Aminophylline Anhydrous",
-      "file": "aminophylline_anhydrous.md",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "predicted_indication": "",
-      "inn": "Aminophylline",
-      "predicted_indications": [
-        "migraine disorder",
-        "migraine with brainstem aura",
-        "atrophoderma vermiculata",
-        "ulerythema ophryogenesis",
-        "Prinzmetal angina",
-        "pulmonary hypertension",
-        "sciatic neuropathy",
-        "hyperthyroidism",
-        "kyphoscoliotic heart disease"
-      ],
-      "approved_indication": ""
-    },
-    {
       "name": "Aminophylline Dihydrate",
       "file": "aminophylline_dihydrate.md",
       "evidence_level": "L4",
@@ -635,26 +600,6 @@
     {
       "name": "Amlodipine Besilate",
       "file": "amlodipine_besilate.md",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "predicted_indication": "",
-      "inn": "Amlodipine",
-      "predicted_indications": [
-        "brain stem infarction",
-        "pulmonary hypertension owing to lung disease and/or hypoxia",
-        "pulmonary hypertension with unclear multifactorial mechanism",
-        "malignant hypertensive renal disease",
-        "cerebral artery occlusion",
-        "Braddock syndrome",
-        "MRI defined brain infarct",
-        "ABri amyloidosis",
-        "intracerebral hemorrhage"
-      ],
-      "approved_indication": ""
-    },
-    {
-      "name": "Amlodipine Besylate",
-      "file": "amlodipine_besylate.md",
       "evidence_level": "L5",
       "indication_count": 9,
       "predicted_indication": "",
@@ -1019,24 +964,6 @@
       "approved_indication": ""
     },
     {
-      "name": "Aspirin",
-      "file": "aspirin.md",
-      "evidence_level": "L5",
-      "indication_count": 7,
-      "predicted_indication": "",
-      "inn": "Acetylsalicylic acid",
-      "predicted_indications": [
-        "atrophoderma vermiculata",
-        "ulerythema ophryogenesis",
-        "heparin cofactor 2 deficiency",
-        "factor 5 excess with spontaneous thrombosis",
-        "antithrombin deficiency type 2",
-        "trigeminal autonomic cephalalgia",
-        "thrombophilia"
-      ],
-      "approved_indication": ""
-    },
-    {
       "name": "Atazanavir Sulfate",
       "file": "atazanavir_sulfate.md",
       "evidence_level": "L5",
@@ -1083,21 +1010,6 @@
         "intestinal variant cervical mucinous adenocarcinoma"
       ],
       "approved_indication": "transitional cell carcinoma"
-    },
-    {
-      "name": "Atorvastatin Calcium",
-      "file": "atorvastatin_calcium.md",
-      "evidence_level": "L2",
-      "indication_count": 4,
-      "predicted_indication": "",
-      "inn": "Atorvastatin",
-      "predicted_indications": [
-        "HIV infectious disease",
-        "brain stem infarction",
-        "cholesterol-ester transfer protein deficiency",
-        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
-      ],
-      "approved_indication": ""
     },
     {
       "name": "Atorvastatin Calcium Trihydrate",
@@ -3432,22 +3344,6 @@
       "approved_indication": "allergic rhinitis; vasomotor rhinitis; pharyngitis; common cold; rhinitis; nasopharyngitis; headache disorder"
     },
     {
-      "name": "Dextromethorphan Hbr",
-      "file": "dextromethorphan_hbr.md",
-      "evidence_level": "L5",
-      "indication_count": 5,
-      "predicted_indication": "",
-      "inn": "Dextromethorphan",
-      "predicted_indications": [
-        "nasal cavity disease",
-        "faucial diphtheria",
-        "trigeminal autonomic cephalalgia",
-        "cervical disc degenerative disorder",
-        "allergic urticaria"
-      ],
-      "approved_indication": ""
-    },
-    {
       "name": "Diazepam",
       "file": "diazepam.md",
       "evidence_level": "L2",
@@ -3599,18 +3495,6 @@
     {
       "name": "Diphenhydramine Hcl",
       "file": "diphenhydramine_hcl.md",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "predicted_indication": "",
-      "inn": "Diphenhydramine",
-      "predicted_indications": [
-        "rosacea conjunctivitis"
-      ],
-      "approved_indication": ""
-    },
-    {
-      "name": "Diphenhydramine Hydrochloride",
-      "file": "diphenhydramine_hydrochloride.md",
       "evidence_level": "L5",
       "indication_count": 1,
       "predicted_indication": "",
