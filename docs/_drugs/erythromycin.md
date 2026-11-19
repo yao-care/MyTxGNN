@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Erythromycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 last_modified_at: 2026-11-03
-description: "Erythromycin: indikasi baharu diramal Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Erythromycin: indikasi baharu diramal Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 40 (sah: 40)"
 ---
 
 # Erythromycin

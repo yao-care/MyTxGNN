@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-06
 monitor_inn: "MIRTAZAPINE"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
-description: "Mirtazapine: indikasi baharu diramal Sindrom Ohdo dan variannya (Ohdo syndrome and variants) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Mirtazapine: indikasi baharu diramal Sindrom Ohdo dan variannya (Ohdo syndrome and variants) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 12 (sah: 12)"
 ---
 
 # Mirtazapine

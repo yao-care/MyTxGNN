@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "Fluorescein"
 predicted_indications: ["Prinzmetal angina", "antithrombin deficiency type 2", "rheumatoid arthritis", "factor 5 excess with spontaneous thrombosis", "hemoglobinopathy", "heparin cofactor 2 deficiency", "thrombophilia", "hyperthyroidism", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations"]
-description: "Fluorescein: indikasi baharu diramal Angina Prinzmetal (Prinzmetal angina) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Fluorescein: indikasi baharu diramal Angina Prinzmetal (Prinzmetal angina) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Fluorescein

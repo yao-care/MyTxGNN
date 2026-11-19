@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Albendazole"
 predicted_indications: ["coenurosis"]
 last_modified_at: 2026-11-12
-description: "Albendazole: indikasi baharu diramal Coenurosis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Albendazole: indikasi baharu diramal Coenurosis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 30 (sah: 29)"
 ---
 
 # Albendazole

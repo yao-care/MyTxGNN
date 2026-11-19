@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "BIOTIN"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
 last_modified_at: 2026-11-17
-description: "Biotin: indikasi baharu diramal Dispepsia (dyspepsia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Biotin: indikasi baharu diramal Dispepsia (dyspepsia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 372 (sah: 363)"
 ---
 
 # Biotin

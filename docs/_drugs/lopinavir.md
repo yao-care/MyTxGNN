@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "LOPINAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 last_modified_at: 2026-10-28
-description: "Lopinavir: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Lopinavir: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 
 # Lopinavir

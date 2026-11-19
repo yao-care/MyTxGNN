@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-28
 monitor_inn: "MUPIROCIN"
 predicted_indications: ["pleural empyema (disease)", "punctate epithelial keratoconjunctivitis"]
-description: "Mupirocin: indikasi baharu diramal Pleural empyema (disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Mupirocin: indikasi baharu diramal Pleural empyema (disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 12 (sah: 12)"
 ---
 
 # Mupirocin

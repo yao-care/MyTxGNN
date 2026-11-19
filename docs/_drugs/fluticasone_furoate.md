@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-28
 monitor_inn: "FLUTICASONE FUROATE"
 predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis"]
-description: "Fluticasone Furoate: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Fluticasone Furoate: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
 # Fluticasone Furoate

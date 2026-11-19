@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-12
 monitor_inn: "FERROUS GLUCONATE"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder"]
-description: "Ferrous Gluconate: indikasi baharu diramal Vitamin B12- and folate-independent constitutional megaloblastic anemia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ferrous Gluconate: indikasi baharu diramal Vitamin B12- and folate-independent constitutional megaloblastic anemia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 8 (sah: 8)"
 ---
 
 # Ferrous Gluconate

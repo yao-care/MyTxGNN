@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "ESTRIOL"
 predicted_indications: ["amenorrhea (disease)"]
-description: "Estriol: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Estriol: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L3). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Estriol

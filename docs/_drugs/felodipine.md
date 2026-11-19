@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-28
 monitor_inn: "FELODIPINE"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
-description: "Felodipine: indikasi baharu diramal Pulmonary hypertension with unclear multifactorial mechanism (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Felodipine: indikasi baharu diramal Pulmonary hypertension with unclear multifactorial mechanism (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
 ---
 
 # Felodipine

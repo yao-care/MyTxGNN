@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Clomipramine"
 predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "agoraphobia", "attention deficit-hyperactivity disorder"]
 last_modified_at: 2026-11-04
-description: "Clomipramine: indikasi baharu diramal Gangguan kecemasan (anxiety disorder) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Clomipramine: indikasi baharu diramal Gangguan kecemasan (anxiety disorder) (tahap bukti L1). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Clomipramine

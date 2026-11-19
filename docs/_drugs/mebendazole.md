@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "MEBENDAZOLE"
 predicted_indications: ["acne (disease)"]
-description: "Mebendazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Mebendazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 13 (sah: 13)"
 ---
 
 # Mebendazole

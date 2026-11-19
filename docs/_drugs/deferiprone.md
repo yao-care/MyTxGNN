@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "DEFERIPRONE"
 predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
-description: "Deferiprone: indikasi baharu diramal Porfiria hepatik (hepatic porphyria) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Deferiprone: indikasi baharu diramal Porfiria hepatik (hepatic porphyria) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
 # Deferiprone

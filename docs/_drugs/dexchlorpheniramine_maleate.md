@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "DEXCHLORPHENIRAMINE MALEATE"
 predicted_indications: ["acute intermittent porphyria"]
-description: "Dexchlorpheniramine Maleate: indikasi baharu diramal Porfiria intermiten akut (acute intermittent porphyria) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Dexchlorpheniramine Maleate: indikasi baharu diramal Porfiria intermiten akut (acute intermittent porphyria) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 18 (sah: 18)"
 ---
 
 # Dexchlorpheniramine Maleate

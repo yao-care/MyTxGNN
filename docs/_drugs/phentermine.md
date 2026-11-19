@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-28
 monitor_inn: "PHENTERMINE"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
-description: "Phentermine: indikasi baharu diramal Hipervitaminosis (hypervitaminosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Phentermine: indikasi baharu diramal Hipervitaminosis (hypervitaminosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Phentermine

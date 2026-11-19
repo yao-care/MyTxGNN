@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-04
 monitor_inn: "Tocilizumab"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
-description: "Tocilizumab: indikasi baharu diramal Spondilitis ankilosis (ankylosing spondylitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Tocilizumab: indikasi baharu diramal Spondilitis ankilosis (ankylosing spondylitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Tocilizumab

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-17
 monitor_inn: "Ifosfamide"
 predicted_indications: ["female breast carcinoma", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "rhabdomyosarcoma (disease)", "myelodysplastic syndrome", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-description: "Ifosfamide: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ifosfamide: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 1)"
 ---
 
 # Ifosfamide

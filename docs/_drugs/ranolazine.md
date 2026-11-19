@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "RANOLAZINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-description: "Ranolazine: indikasi baharu diramal Nephrogenic syndrome of inappropriate antidiuresis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ranolazine: indikasi baharu diramal Nephrogenic syndrome of inappropriate antidiuresis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Ranolazine

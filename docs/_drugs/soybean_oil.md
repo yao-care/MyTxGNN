@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "SOYBEAN OIL"
 predicted_indications: ["amenorrhea (disease)"]
-description: "Soybean Oil: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Soybean Oil: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
 # Soybean Oil

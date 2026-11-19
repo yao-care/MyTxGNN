@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "CANDESARTAN CILEXETIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 last_modified_at: 2026-10-28
-description: "Candesartan Cilexetil: indikasi baharu diramal Penyakit renal hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Candesartan Cilexetil: indikasi baharu diramal Penyakit renal hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 13 (sah: 13)"
 ---
 
 # Candesartan Cilexetil

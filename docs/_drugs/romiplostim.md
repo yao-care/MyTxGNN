@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-30
 monitor_inn: "Romiplostim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "platelet-type bleeding disorder", "autosomal dominant macrothrombocytopenia", "Ehlers-Danlos syndrome, fibronectinemic type"]
-description: "Romiplostim: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of platelets) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Romiplostim: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of platelets) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Romiplostim

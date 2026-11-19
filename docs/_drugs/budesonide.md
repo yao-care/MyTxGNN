@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Budesonide"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
 last_modified_at: 2026-11-12
-description: "Budesonide: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Budesonide: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 35 (sah: 35)"
 ---
 
 # Budesonide

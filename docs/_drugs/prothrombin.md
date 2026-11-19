@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-28
 monitor_inn: "prothrombin"
 predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets"]
-description: "Prothrombin: indikasi baharu diramal Glanzmann thrombasthenia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Prothrombin: indikasi baharu diramal Glanzmann thrombasthenia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Prothrombin

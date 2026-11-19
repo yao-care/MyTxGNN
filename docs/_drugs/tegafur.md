@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Tegafur"
 predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "colonic lymphangioma", "cavernous hemangioma of colon"]
 last_modified_at: 2026-11-03
-description: "Tegafur: indikasi baharu diramal Adenoma vilus sekum (cecum villous adenoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Tegafur: indikasi baharu diramal Adenoma vilus sekum (cecum villous adenoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Tegafur

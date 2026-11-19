@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-28
 monitor_inn: "HEXETIDINE"
 predicted_indications: ["interventricular septum aneurysm", "pulmonary valve disease", "orofacial clefting syndrome", "Laubry-Pezzi syndrome", "genetic syndromic Pierre Robin syndrome", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 22", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus"]
-description: "Hexetidine: indikasi baharu diramal Aneurisma septum interventrikular (interventricular septum aneurysm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Hexetidine: indikasi baharu diramal Aneurisma septum interventrikular (interventricular septum aneurysm) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Hexetidine

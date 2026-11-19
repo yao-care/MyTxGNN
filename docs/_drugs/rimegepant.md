@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-28
 monitor_inn: "RIMEGEPANT"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
-description: "Rimegepant: indikasi baharu diramal Atrophoderma vermiculata (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Rimegepant: indikasi baharu diramal Atrophoderma vermiculata (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Rimegepant

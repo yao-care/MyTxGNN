@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-28
 monitor_inn: "MAGNESIUM CARBONATE"
 predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "stomach disease", "duodenal obstruction"]
-description: "Magnesium Carbonate: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Magnesium Carbonate: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 34 (sah: 34)"
 ---
 
 # Magnesium Carbonate

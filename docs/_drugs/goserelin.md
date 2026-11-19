@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-28
 monitor_inn: "goserelin"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
-description: "Goserelin: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Goserelin: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Goserelin

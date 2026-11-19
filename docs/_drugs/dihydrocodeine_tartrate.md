@@ -9,7 +9,7 @@ drugbank_id: DB01551
 monitor_inn: "Dihydrocodeine"
 predicted_indications: ["nasal cavity disease", "allergic urticaria", "papillary conjunctivitis", "faucial diphtheria", "cervical disc degenerative disorder", "headache disorder", "cold urticaria", "trigeminal autonomic cephalalgia"]
 last_modified_at: 2026-11-17
-description: "Dihydrocodeine Tartrate: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Dihydrocodeine Tartrate: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Dihydrocodeine Tartrate

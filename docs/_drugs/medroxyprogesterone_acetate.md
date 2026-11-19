@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Medroxyprogesterone Acetate"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 last_modified_at: 2026-11-03
-description: "Medroxyprogesterone Acetate: indikasi baharu diramal Penyakit fibrosistik payudara (breast fibrocystic disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Medroxyprogesterone Acetate: indikasi baharu diramal Penyakit fibrosistik payudara (breast fibrocystic disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 
 # Medroxyprogesterone Acetate

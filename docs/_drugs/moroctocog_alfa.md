@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-28
 monitor_inn: "MOROCTOCOG ALFA"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "acquired coagulation factor deficiency", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency"]
-description: "Moroctocog Alfa: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of platelets) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Moroctocog Alfa: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of platelets) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
 # Moroctocog Alfa

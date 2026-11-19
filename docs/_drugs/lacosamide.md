@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "Lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
-description: "Lacosamide: indikasi baharu diramal Manic bipolar affective disorder (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Lacosamide: indikasi baharu diramal Manic bipolar affective disorder (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 
 # Lacosamide

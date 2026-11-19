@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-28
 monitor_inn: "DIGOXIN"
 predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "hypoalphalipoproteinemia"]
-description: "Digoxin: indikasi baharu diramal Angina Prinzmetal (Prinzmetal angina) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Digoxin: indikasi baharu diramal Angina Prinzmetal (Prinzmetal angina) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
 # Digoxin

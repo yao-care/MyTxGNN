@@ -9,7 +9,7 @@ drugbank_id: DB00559
 monitor_inn: "Bosentan"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
 last_modified_at: 2026-11-17
-description: "Bosentan Monohydrate: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Bosentan Monohydrate: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
 # Bosentan Monohydrate

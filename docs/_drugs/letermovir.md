@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "LETERMOVIR"
 predicted_indications: ["vulvovaginal candidiasis"]
-description: "Letermovir: indikasi baharu diramal Kandidiasis vulvovaginal (vulvovaginal candidiasis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Letermovir: indikasi baharu diramal Kandidiasis vulvovaginal (vulvovaginal candidiasis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Letermovir

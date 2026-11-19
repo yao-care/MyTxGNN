@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-17
 monitor_inn: "POTASSIUM BICARBONATE"
 predicted_indications: ["gastroduodenitis"]
-description: "Potassium Bicarbonate: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Potassium Bicarbonate: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 4)"
 ---
 
 # Potassium Bicarbonate

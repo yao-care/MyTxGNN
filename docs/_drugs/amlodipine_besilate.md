@@ -9,7 +9,7 @@ drugbank_id: DB00381
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
 last_modified_at: 2026-11-19
-description: "Amlodipine Besilate: indikasi baharu diramal Infarksi batang otak (brain stem infarction) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Amlodipine Besilate: indikasi baharu diramal Infarksi batang otak (brain stem infarction) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 128 (sah: 123)"
 ---
 
 # Amlodipine Besilate

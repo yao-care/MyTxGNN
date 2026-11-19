@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-19
 monitor_inn: "Nonivamide"
 predicted_indications: ["pulmonary hypertension", "peripheral arterial disease", "acute lymphoblastic leukemia (disease)", "kyphoscoliotic heart disease", "peripheral vascular disease", "ventricular tachycardia", "anaphylaxis", "migraine disorder", "catecholaminergic polymorphic ventricular tachycardia", "intermittent vascular claudication"]
-description: "Nonivamide: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Nonivamide: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 4)"
 ---
 
 # Nonivamide

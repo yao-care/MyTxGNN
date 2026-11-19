@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "SORBITOL"
 predicted_indications: ["exercise-induced malignant hyperthermia"]
-description: "Sorbitol: indikasi baharu diramal Hipertermia malignan akibat senaman (exercise-induced malignant hyperthermia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Sorbitol: indikasi baharu diramal Hipertermia malignan akibat senaman (exercise-induced malignant hyperthermia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Sorbitol

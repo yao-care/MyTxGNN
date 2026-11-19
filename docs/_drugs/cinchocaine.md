@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "CINCHOCAINE"
 predicted_indications: ["bronchitis", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "hydroa vacciniforme, familial", "amyopathic dermatomyositis"]
 last_modified_at: 2026-10-30
-description: "Cinchocaine: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Cinchocaine: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Cinchocaine

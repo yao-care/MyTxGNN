@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-19
 monitor_inn: "THYMOL"
 predicted_indications: ["interventricular septum aneurysm", "pulmonary valve disease", "Laubry-Pezzi syndrome", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 22", "Pierre Robin syndrome associated with a chromosomal anomaly", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus"]
-description: "Thymol: indikasi baharu diramal Aneurisme septum interventrikular (interventricular septum aneurysm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Thymol: indikasi baharu diramal Aneurisme septum interventrikular (interventricular septum aneurysm) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 21 (sah: 20)"
 ---
 
 # Thymol

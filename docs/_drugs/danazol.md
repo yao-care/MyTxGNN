@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Danazol"
 predicted_indications: ["amenorrhea (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
 last_modified_at: 2026-11-03
-description: "Danazol: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Danazol: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Danazol

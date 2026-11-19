@@ -9,7 +9,7 @@ drugbank_id: DB11642
 monitor_inn: "Pitolisant"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
 last_modified_at: 2026-11-16
-description: "Pitolisant Hydrochloride: indikasi baharu diramal Insomnia (insomnia (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Pitolisant Hydrochloride: indikasi baharu diramal Insomnia (insomnia (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Pitolisant Hydrochloride

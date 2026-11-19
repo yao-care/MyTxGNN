@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Vitamin A"
 predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "disease by subcellular system affected", "radiation or chemically induced disorder"]
 last_modified_at: 2026-11-19
-description: "Vitamin A: indikasi baharu diramal Congenital prothrombin deficiency (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Vitamin A: indikasi baharu diramal Congenital prothrombin deficiency (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 177 (sah: 166)"
 ---
 
 # Vitamin A

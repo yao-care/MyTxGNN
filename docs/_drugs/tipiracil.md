@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Tipiracil"
 predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "colonic lymphangioma", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "cavernous hemangioma of colon", "colorectal gastrointestinal stromal tumor"]
 last_modified_at: 2026-11-03
-description: "Tipiracil: indikasi baharu diramal Adenoma vilus sekum (cecum villous adenoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Tipiracil: indikasi baharu diramal Adenoma vilus sekum (cecum villous adenoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Tipiracil

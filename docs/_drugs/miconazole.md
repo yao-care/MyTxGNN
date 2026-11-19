@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "MICONAZOLE"
 predicted_indications: ["acne (disease)"]
-description: "Miconazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Miconazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 43 (sah: 42)"
 ---
 
 # Miconazole

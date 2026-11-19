@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-28
 monitor_inn: "INSULIN GLULISINE"
 predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
-description: "Insulin Glulisine: indikasi baharu diramal Thiamine-responsive dysfunction syndrome (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Insulin Glulisine: indikasi baharu diramal Thiamine-responsive dysfunction syndrome (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Insulin Glulisine

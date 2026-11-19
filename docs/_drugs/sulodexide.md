@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "SULODEXIDE"
 predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease"]
-description: "Sulodexide: indikasi baharu diramal Glanzmann thrombasthenia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Sulodexide: indikasi baharu diramal Glanzmann thrombasthenia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Sulodexide

@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Chloramphenicol"
 predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
 last_modified_at: 2026-11-06
-description: "Chloramphenicol: indikasi baharu diramal Skleroderma meresap (diffuse scleroderma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Chloramphenicol: indikasi baharu diramal Skleroderma meresap (diffuse scleroderma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 13 (sah: 13)"
 ---
 
 # Chloramphenicol

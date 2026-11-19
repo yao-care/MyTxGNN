@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "CLOFAZIMINE"
 predicted_indications: ["pneumocystosis", "malaria", "gastrin secretion abnormality"]
 last_modified_at: 2026-10-28
-description: "Clofazimine: indikasi baharu diramal Pneumosistosis (pneumocystosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Clofazimine: indikasi baharu diramal Pneumosistosis (pneumocystosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
 # Clofazimine

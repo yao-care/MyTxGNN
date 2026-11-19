@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "ETHANOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-description: "Ethanol: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ethanol: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 10 (sah: 9)"
 ---
 
 # Ethanol

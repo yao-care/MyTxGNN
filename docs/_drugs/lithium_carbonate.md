@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-28
 monitor_inn: "LITHIUM CARBONATE"
 predicted_indications: ["pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "myosclerosis", "brachyolmia-amelogenesis imperfecta syndrome", "brachydactyly-syndactyly syndrome", "Behr syndrome", "WHIM syndrome", "combined immunodeficiency due to moesin deficiency"]
-description: "Lithium Carbonate: indikasi baharu diramal Pseudoachondroplasia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Lithium Carbonate: indikasi baharu diramal Pseudoachondroplasia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Lithium Carbonate

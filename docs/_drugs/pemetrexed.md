@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-17
 monitor_inn: "pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
-description: "Pemetrexed: indikasi baharu diramal Pleural adenomatoid tumor (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Pemetrexed: indikasi baharu diramal Pleural adenomatoid tumor (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 25 (sah: 24)"
 ---
 
 # Pemetrexed

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "INSULIN DETEMIR"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
-description: "Insulin Detemir: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Insulin Detemir: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Insulin Detemir

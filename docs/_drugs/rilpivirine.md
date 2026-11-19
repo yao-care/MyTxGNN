@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "RILPIVIRINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-description: "Rilpivirine: indikasi baharu diramal Sindrom imunodefisiensi dapatan kucing (feline acquired immunodeficiency syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Rilpivirine: indikasi baharu diramal Sindrom imunodefisiensi dapatan kucing (feline acquired immunodeficiency syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Rilpivirine

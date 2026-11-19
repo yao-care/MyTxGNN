@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Streptokinase"
 predicted_indications: ["Prinzmetal angina", "hemoglobinopathy", "peripheral vascular disease", "peripheral arterial disease", "partial deletion of the short arm of chromosome 16"]
 last_modified_at: 2026-11-17
-description: "Streptokinase: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Streptokinase: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 1)"
 ---
 
 # Streptokinase

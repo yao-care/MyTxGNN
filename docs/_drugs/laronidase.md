@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-03
 monitor_inn: "LARONIDASE"
 predicted_indications: ["Sanfilippo syndrome"]
-description: "Laronidase: indikasi baharu diramal Sindrom Sanfilippo (Sanfilippo syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Laronidase: indikasi baharu diramal Sindrom Sanfilippo (Sanfilippo syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Laronidase

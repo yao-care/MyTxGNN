@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "Imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
-description: "Imipenem: indikasi baharu diramal Skleroderma meresap (diffuse scleroderma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Imipenem: indikasi baharu diramal Skleroderma meresap (diffuse scleroderma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
 ---
 
 # Imipenem

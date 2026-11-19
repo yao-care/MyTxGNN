@@ -9,7 +9,7 @@ drugbank_id: DB11089
 monitor_inn: "Docusate"
 predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia"]
 last_modified_at: 2026-11-16
-description: "Docusate Sodium: indikasi baharu diramal Sindrom Plummer-Vinson (Plummer-Vinson syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Docusate Sodium: indikasi baharu diramal Sindrom Plummer-Vinson (Plummer-Vinson syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Docusate Sodium

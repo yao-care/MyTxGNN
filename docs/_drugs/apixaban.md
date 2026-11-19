@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-17
 monitor_inn: "APIXABAN"
 predicted_indications: ["migraine disorder"]
-description: "Apixaban: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Apixaban: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 32 (sah: 30)"
 ---
 
 # Apixaban

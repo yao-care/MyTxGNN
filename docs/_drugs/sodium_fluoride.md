@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-28
 monitor_inn: "SODIUM FLUORIDE"
 predicted_indications: ["epiglottitis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "laryngitis"]
-description: "Sodium Fluoride: indikasi baharu diramal Epiglotitis (epiglottitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Sodium Fluoride: indikasi baharu diramal Epiglotitis (epiglottitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Sodium Fluoride

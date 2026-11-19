@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-06
 monitor_inn: "SODIUM ACETATE"
 predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "gonococcal urethritis", "Ureaplasma urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
-description: "Sodium Acetate: indikasi baharu diramal Kekurangan protrombin kongenital (congenital prothrombin deficiency) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Sodium Acetate: indikasi baharu diramal Kekurangan protrombin kongenital (congenital prothrombin deficiency) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 25 (sah: 21)"
 ---
 
 # Sodium Acetate

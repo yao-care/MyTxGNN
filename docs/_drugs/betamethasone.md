@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "Betamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
 last_modified_at: 2026-11-12
-description: "Betamethasone: indikasi baharu diramal Alopesia musinosa (alopecia mucinosa) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Betamethasone: indikasi baharu diramal Alopesia musinosa (alopecia mucinosa) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 98 (sah: 97)"
 ---
 
 # Betamethasone

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "PANTOTHENIC ACID"
 predicted_indications: ["congenital prothrombin deficiency", "ochronosis disorder", "glycerol metabolism disease", "folic acid deficiency anemia", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis"]
-description: "Pantothenic Acid: indikasi baharu diramal Kekurangan protrombin kongenital (congenital prothrombin deficiency) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Pantothenic Acid: indikasi baharu diramal Kekurangan protrombin kongenital (congenital prothrombin deficiency) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 19 (sah: 19)"
 ---
 
 # Pantothenic Acid

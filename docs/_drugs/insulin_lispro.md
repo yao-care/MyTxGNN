@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "INSULIN LISPRO"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
-description: "Insulin Lispro: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Insulin Lispro: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Insulin Lispro

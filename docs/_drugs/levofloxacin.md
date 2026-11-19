@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-17
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
-description: "Levofloxacin: indikasi baharu diramal Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Levofloxacin: indikasi baharu diramal Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 20 (sah: 17)"
 ---
 
 # Levofloxacin

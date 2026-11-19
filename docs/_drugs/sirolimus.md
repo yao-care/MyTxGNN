@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Sirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
 last_modified_at: 2026-11-04
-description: "Sirolimus: indikasi baharu diramal Liposarkoma (liposarcoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Sirolimus: indikasi baharu diramal Liposarkoma (liposarcoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Sirolimus

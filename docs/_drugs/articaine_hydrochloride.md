@@ -9,7 +9,7 @@ drugbank_id: DB09009
 monitor_inn: "Articaine"
 predicted_indications: ["gout", "exostosis", "allergic asthma", "intrinsic asthma"]
 last_modified_at: 2026-11-16
-description: "Articaine Hydrochloride: indikasi baharu diramal Gout (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Articaine Hydrochloride: indikasi baharu diramal Gout (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Articaine Hydrochloride

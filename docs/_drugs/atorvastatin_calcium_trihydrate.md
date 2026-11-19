@@ -9,7 +9,7 @@ drugbank_id: DB01076
 monitor_inn: "Atorvastatin"
 predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 last_modified_at: 2026-11-19
-description: "Atorvastatin Calcium Trihydrate: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Atorvastatin Calcium Trihydrate: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 71 (sah: 66)"
 ---
 
 # Atorvastatin Calcium Trihydrate

@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-28
 monitor_inn: "CYCLOSERINE"
 predicted_indications: ["irritable bowel syndrome", "acne (disease)", "gastroparesis (disease)", "conjunctivitis", "insomnia (disease)", "pharyngitis", "nasal cavity disease"]
-description: "Cycloserine: indikasi baharu diramal Sindrom usus besar terangsang (irritable bowel syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Cycloserine: indikasi baharu diramal Sindrom usus besar terangsang (irritable bowel syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Cycloserine

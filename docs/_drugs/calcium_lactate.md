@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "CALCIUM LACTATE"
 predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization"]
 last_modified_at: 2026-11-12
-description: "Calcium Lactate: indikasi baharu diramal Sindrom kalsium-alkali (calcium-alkali syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Calcium Lactate: indikasi baharu diramal Sindrom kalsium-alkali (calcium-alkali syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 36 (sah: 33)"
 ---
 
 # Calcium Lactate

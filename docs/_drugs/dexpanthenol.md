@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-12
 monitor_inn: "DEXPANTHENOL"
 predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "exanthem (disease)", "punctate epithelial keratoconjunctivitis"]
-description: "Dexpanthenol: indikasi baharu diramal Anorectal stricture (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Dexpanthenol: indikasi baharu diramal Anorectal stricture (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
 # Dexpanthenol

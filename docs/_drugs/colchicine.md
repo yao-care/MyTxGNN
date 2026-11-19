@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-28
 monitor_inn: "COLCHICINE"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
-description: "Colchicine: indikasi baharu diramal Malaria Plasmodium falciparum (Plasmodium falciparum malaria) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Colchicine: indikasi baharu diramal Malaria Plasmodium falciparum (Plasmodium falciparum malaria) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 
 # Colchicine

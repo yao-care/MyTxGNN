@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-12
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
-description: "Finasteride: indikasi baharu diramal Ambras type hypertrichosis universalis congenita (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Finasteride: indikasi baharu diramal Ambras type hypertrichosis universalis congenita (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 8 (sah: 8)"
 ---
 
 # Finasteride

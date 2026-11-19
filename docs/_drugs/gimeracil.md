@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Gimeracil"
 predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
 last_modified_at: 2026-11-03
-description: "Gimeracil: indikasi baharu diramal Adenoma vilus sekum (cecum villous adenoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Gimeracil: indikasi baharu diramal Adenoma vilus sekum (cecum villous adenoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Gimeracil

@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Hydroxyurea"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
 last_modified_at: 2026-11-19
-description: "Hydroxyurea: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Hydroxyurea: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 1)"
 ---
 
 # Hydroxyurea

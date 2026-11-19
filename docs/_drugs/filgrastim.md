@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "Filgrastim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
-description: "Filgrastim: indikasi baharu diramal Primary release disorder of platelets (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Filgrastim: indikasi baharu diramal Primary release disorder of platelets (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 10 (sah: 10)"
 ---
 
 # Filgrastim

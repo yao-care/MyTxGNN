@@ -9,7 +9,7 @@ drugbank_id: DB00841
 monitor_inn: "Dobutamine"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "Raynaud disease", "primary hereditary glaucoma", "headache disorder", "hypertrichosis (disease)", "migraine disorder"]
 last_modified_at: 2026-11-16
-description: "Dobutamine Hydrochloride: indikasi baharu diramal Alopesia (alopecia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Dobutamine Hydrochloride: indikasi baharu diramal Alopesia (alopecia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
 # Dobutamine Hydrochloride

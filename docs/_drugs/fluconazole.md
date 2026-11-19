@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 last_modified_at: 2026-11-19
-description: "Fluconazole: indikasi baharu diramal Keratokonjunktivitis epitelium berpunktum (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Fluconazole: indikasi baharu diramal Keratokonjunktivitis epitelium berpunktum (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 28 (sah: 27)"
 ---
 
 # Fluconazole

@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Potassium citrate"
 predicted_indications: ["familial visceral myopathy", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Pendred syndrome", "cystinosis", "autosomal recessive nonsyndromic deafness", "exocrine pancreatic insufficiency", "leukocyte adhesion deficiency", "adult Fanconi syndrome"]
 last_modified_at: 2026-11-12
-description: "Potassium Citrate: indikasi baharu diramal Miopati viseral keluarga (familial visceral myopathy) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Potassium Citrate: indikasi baharu diramal Miopati viseral keluarga (familial visceral myopathy) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 31 (sah: 30)"
 ---
 
 # Potassium Citrate

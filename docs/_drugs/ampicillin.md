@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "AMPICILLIN"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
 last_modified_at: 2026-10-28
-description: "Ampicillin: indikasi baharu diramal Laringitis (laryngitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ampicillin: indikasi baharu diramal Laringitis (laryngitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 18 (sah: 18)"
 ---
 
 # Ampicillin

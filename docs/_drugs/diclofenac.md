@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
 last_modified_at: 2026-11-19
-description: "Diclofenac: indikasi baharu diramal Hypotrichosis simplex of the scalp (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Diclofenac: indikasi baharu diramal Hypotrichosis simplex of the scalp (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 82 (sah: 79)"
 ---
 
 # Diclofenac

@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "ALPELISIB"
 predicted_indications: ["pulmonary hypertension"]
 last_modified_at: 2026-10-28
-description: "Alpelisib: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Alpelisib: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Alpelisib

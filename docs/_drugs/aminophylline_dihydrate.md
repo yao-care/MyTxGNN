@@ -9,7 +9,7 @@ drugbank_id: DB01223
 monitor_inn: "Aminophylline"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
 last_modified_at: 2026-11-17
-description: "Aminophylline Dihydrate: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Aminophylline Dihydrate: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Aminophylline Dihydrate

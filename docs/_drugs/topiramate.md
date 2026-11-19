@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "TOPIRAMATE"
 predicted_indications: ["trigeminal nerve neoplasm"]
-description: "Topiramate: indikasi baharu diramal Neoplasma saraf trigeminal (trigeminal nerve neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Topiramate: indikasi baharu diramal Neoplasma saraf trigeminal (trigeminal nerve neoplasm) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 12 (sah: 12)"
 ---
 
 # Topiramate

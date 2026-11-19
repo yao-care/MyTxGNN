@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "BACLOFEN"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
 last_modified_at: 2026-10-28
-description: "Baclofen: indikasi baharu diramal Gangguan Hiperaktiviti Kekurangan Perhatian (attention deficit-hyperactivity disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Baclofen: indikasi baharu diramal Gangguan Hiperaktiviti Kekurangan Perhatian (attention deficit-hyperactivity disorder) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
 # Baclofen

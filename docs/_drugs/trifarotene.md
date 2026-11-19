@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-28
 monitor_inn: "TRIFAROTENE"
 predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"]
-description: "Trifarotene: indikasi baharu diramal Zink plasma meningkat (zinc, elevated plasma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Trifarotene: indikasi baharu diramal Zink plasma meningkat (zinc, elevated plasma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Trifarotene

@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Ciprofloxacin"
 predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
 last_modified_at: 2026-11-16
-description: "Ciprofloxacin: indikasi baharu diramal Sklerosis sistemik meresap (diffuse scleroderma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ciprofloxacin: indikasi baharu diramal Sklerosis sistemik meresap (diffuse scleroderma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 42 (sah: 40)"
 ---
 
 # Ciprofloxacin

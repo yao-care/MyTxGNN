@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-12
 monitor_inn: "PALBOCICLIB"
 predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
-description: "Palbociclib: indikasi baharu diramal Hyperthyroidism (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Palbociclib: indikasi baharu diramal Hyperthyroidism (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 12 (sah: 12)"
 ---
 
 # Palbociclib

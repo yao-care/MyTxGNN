@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "hallucinogen abuse", "barbiturate abuse", "antidepressant type abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
 last_modified_at: 2026-11-04
-description: "Diazepam: indikasi baharu diramal Insomnia (insomnia (disease)) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Diazepam: indikasi baharu diramal Insomnia (insomnia (disease)) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 8 (sah: 8)"
 ---
 
 # Diazepam

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "NITROFURANTOIN"
 predicted_indications: ["rheumatoid arthritis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "methemoglobinemia, alpha type", "gout", "methemoglobinemia"]
-description: "Nitrofurantoin: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Nitrofurantoin: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Nitrofurantoin

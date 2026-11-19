@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "LEDIPASVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "chronic hepatitis B virus infection", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
-description: "Ledipasvir: indikasi baharu diramal Jangkitan virus hepatitis B (hepatitis B virus infection) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ledipasvir: indikasi baharu diramal Jangkitan virus hepatitis B (hepatitis B virus infection) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Ledipasvir

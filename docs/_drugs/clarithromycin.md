@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Clarithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
 last_modified_at: 2026-11-12
-description: "Clarithromycin: indikasi baharu diramal Sindrom hiperviskositi poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Clarithromycin: indikasi baharu diramal Sindrom hiperviskositi poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 29 (sah: 29)"
 ---
 
 # Clarithromycin

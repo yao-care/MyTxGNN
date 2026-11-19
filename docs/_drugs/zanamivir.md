@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-19
 monitor_inn: "ZANAMIVIR"
 predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
-description: "Zanamivir: indikasi baharu diramal Pyelonephritis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Zanamivir: indikasi baharu diramal Pyelonephritis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 0)"
 ---
 
 # Zanamivir

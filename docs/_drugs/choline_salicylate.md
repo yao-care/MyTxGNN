@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Choline salicylate"
 predicted_indications: ["Prinzmetal angina", "hypertensive disorder", "migraine disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Raynaud disease", "pulmonary hypertension"]
 last_modified_at: 2026-11-03
-description: "Choline Salicylate: indikasi baharu diramal Angina Prinzmetal (Prinzmetal angina) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Choline Salicylate: indikasi baharu diramal Angina Prinzmetal (Prinzmetal angina) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
 ---
 
 # Choline Salicylate

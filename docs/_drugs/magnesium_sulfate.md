@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "MAGNESIUM SULFATE"
 predicted_indications: ["thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
 last_modified_at: 2026-11-12
-description: "Magnesium Sulfate: indikasi baharu diramal Penyakit trombotik (thrombotic disease) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Magnesium Sulfate: indikasi baharu diramal Penyakit trombotik (thrombotic disease) (tahap bukti L3). Di Malaysia, pendaftaran NPRA: 12 (sah: 11)"
 ---
 
 # Magnesium Sulfate

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "IPILIMUMAB"
 predicted_indications: ["choroideremia"]
-description: "Ipilimumab: indikasi baharu diramal Choroideremia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ipilimumab: indikasi baharu diramal Choroideremia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Ipilimumab

@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Ketoconazole"
 predicted_indications: ["acne (disease)"]
 last_modified_at: 2026-11-12
-description: "Ketoconazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ketoconazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 33 (sah: 32)"
 ---
 
 # Ketoconazole

@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "CAPTOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 last_modified_at: 2026-10-28
-description: "Captopril: indikasi baharu diramal Penyakit buah pinggang hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Captopril: indikasi baharu diramal Penyakit buah pinggang hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
 # Captopril

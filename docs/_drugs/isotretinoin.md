@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "ISOTRETINOIN"
 predicted_indications: ["malignant hypertensive renal disease"]
-description: "Isotretinoin: indikasi baharu diramal Penyakit renal hipertensi malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Isotretinoin: indikasi baharu diramal Penyakit renal hipertensi malignan (malignant hypertensive renal disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 8 (sah: 8)"
 ---
 
 # Isotretinoin

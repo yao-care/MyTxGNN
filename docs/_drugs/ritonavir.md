@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "RITONAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 last_modified_at: 2026-11-06
-description: "Ritonavir: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ritonavir: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 13 (sah: 13)"
 ---
 
 # Ritonavir

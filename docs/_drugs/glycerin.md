@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-06
 monitor_inn: "glycerin"
 predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
-description: "Glycerin: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Glycerin: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 12 (sah: 10)"
 ---
 
 # Glycerin

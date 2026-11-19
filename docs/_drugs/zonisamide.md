@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-30
 monitor_inn: "ZONISAMIDE"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
-description: "Zonisamide: indikasi baharu diramal Sindrom Tourette (Tourette syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Zonisamide: indikasi baharu diramal Sindrom Tourette (Tourette syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Zonisamide

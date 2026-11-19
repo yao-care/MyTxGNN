@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Ceftazidime"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "blood group incompatibility", "infectious otitis media", "Peptostreptococcus infectious disease"]
 last_modified_at: 2026-11-03
-description: "Ceftazidime: indikasi baharu diramal Hiperamilasemia (hyperamylasemia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ceftazidime: indikasi baharu diramal Hiperamilasemia (hyperamylasemia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 11 (sah: 11)"
 ---
 
 # Ceftazidime

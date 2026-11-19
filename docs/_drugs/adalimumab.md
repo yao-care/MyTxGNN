@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "Adalimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
 last_modified_at: 2026-11-12
-description: "Adalimumab: indikasi baharu diramal Hipermobiliti tulang ekor (hypermobility of coccyx) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Adalimumab: indikasi baharu diramal Hipermobiliti tulang ekor (hypermobility of coccyx) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 13 (sah: 10)"
 ---
 
 # Adalimumab

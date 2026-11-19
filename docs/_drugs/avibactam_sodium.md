@@ -9,7 +9,7 @@ drugbank_id: DB09060
 monitor_inn: "Avibactam"
 predicted_indications: ["ureter tuberculosis", "urinary schistosomiasis", "hyperamylasemia", "polyclonal hyperviscosity syndrome"]
 last_modified_at: 2026-11-17
-description: "Avibactam Sodium: indikasi baharu diramal Tuberkulosis ureter (ureter tuberculosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Avibactam Sodium: indikasi baharu diramal Tuberkulosis ureter (ureter tuberculosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Avibactam Sodium

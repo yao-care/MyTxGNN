@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "CITALOPRAM"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder"]
 last_modified_at: 2026-11-12
-description: "Citalopram: indikasi baharu diramal Gangguan Obsesif-Kompulsif (obsessive-compulsive disorder) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Citalopram: indikasi baharu diramal Gangguan Obsesif-Kompulsif (obsessive-compulsive disorder) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 27 (sah: 26)"
 ---
 
 # Citalopram

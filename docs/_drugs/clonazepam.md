@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "CLONAZEPAM"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
-description: "Clonazepam: indikasi baharu diramal Sindrom kaki resah (restless legs syndrome) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Clonazepam: indikasi baharu diramal Sindrom kaki resah (restless legs syndrome) (tahap bukti L3). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
 # Clonazepam

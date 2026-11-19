@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Atenolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
 last_modified_at: 2026-11-12
-description: "Atenolol: indikasi baharu diramal Penyakit renal hipertensi malignan (malignant hypertensive renal disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Atenolol: indikasi baharu diramal Penyakit renal hipertensi malignan (malignant hypertensive renal disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 30 (sah: 28)"
 ---
 
 # Atenolol

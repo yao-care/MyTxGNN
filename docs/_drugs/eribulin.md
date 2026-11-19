@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "eribulin"
 predicted_indications: ["autosomal recessive familial Mediterranean fever", "dermatofibrosarcoma protuberans", "pleural mesothelioma", "malignant peritoneal mesothelioma", "pleural adenomatoid tumor", "pleural biphasic mesothelioma", "fibroblastic neoplasm", "pleural epithelioid mesothelioma", "heart fibrosarcoma"]
-description: "Eribulin: indikasi baharu diramal Demam Mediterranean familial resesif autosom (autosomal recessive familial Mediterranean fever) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Eribulin: indikasi baharu diramal Demam Mediterranean familial resesif autosom (autosomal recessive familial Mediterranean fever) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Eribulin

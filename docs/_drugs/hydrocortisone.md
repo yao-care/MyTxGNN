@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 last_modified_at: 2026-11-12
-description: "Hydrocortisone: indikasi baharu diramal Alopesia areata (alopecia areata) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Hydrocortisone: indikasi baharu diramal Alopesia areata (alopecia areata) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 58 (sah: 57)"
 ---
 
 # Hydrocortisone

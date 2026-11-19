@@ -9,7 +9,7 @@ drugbank_id: DB00804
 monitor_inn: "Dicyclomine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
 last_modified_at: 2026-11-16
-description: "Dicyclomine Hydrochloride: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Dicyclomine Hydrochloride: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
 # Dicyclomine Hydrochloride

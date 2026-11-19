@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "PERAMPANEL"
 predicted_indications: ["beta-ketothiolase deficiency"]
-description: "Perampanel: indikasi baharu diramal Beta-ketothiolase deficiency (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Perampanel: indikasi baharu diramal Beta-ketothiolase deficiency (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Perampanel

@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-12
 monitor_inn: "LACTIC ACID"
 predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "non-syndromic esophageal malformation", "amenorrhea (disease)", "dry eye syndrome"]
-description: "Lactic Acid: indikasi baharu diramal Koarktasi aorta atipikal (atypical coarctation of aorta) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Lactic Acid: indikasi baharu diramal Koarktasi aorta atipikal (atypical coarctation of aorta) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 
 # Lactic Acid

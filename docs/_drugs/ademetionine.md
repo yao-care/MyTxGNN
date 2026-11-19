@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "ademetionine"
 predicted_indications: ["acne (disease)", "colonic neoplasm", "cecum villous adenoma", "lipoma of colon", "rectosigmoid junction neoplasm", "colonic lymphangioma", "cecum neuroendocrine tumor G1", "cecal disease", "benign neoplasm of cecum", "colon leiomyoma"]
 last_modified_at: 2026-10-28
-description: "Ademetionine: indikasi baharu diramal Jerawat (acne) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ademetionine: indikasi baharu diramal Jerawat (acne) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Ademetionine

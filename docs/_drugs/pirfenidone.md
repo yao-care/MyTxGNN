@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-19
 monitor_inn: "PIRFENIDONE"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
-description: "Pirfenidone: indikasi baharu diramal Extracutaneous mastocytoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Pirfenidone: indikasi baharu diramal Extracutaneous mastocytoma (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 2)"
 ---
 
 # Pirfenidone

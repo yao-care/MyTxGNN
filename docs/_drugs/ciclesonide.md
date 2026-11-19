@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "CICLESONIDE"
 predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis"]
 last_modified_at: 2026-10-28
-description: "Ciclesonide: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ciclesonide: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
 ---
 
 # Ciclesonide

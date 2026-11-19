@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-28
 monitor_inn: "Travoprost"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "idiopathic spontaneous coronary artery dissection", "lymphangiectasis", "hemangioendothelioma"]
-description: "Travoprost: indikasi baharu diramal Visceral calciphylaxis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Travoprost: indikasi baharu diramal Visceral calciphylaxis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
 # Travoprost

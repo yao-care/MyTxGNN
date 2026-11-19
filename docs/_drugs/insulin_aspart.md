@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "INSULIN ASPART"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
-description: "Insulin Aspart: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Insulin Aspart: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 16 (sah: 16)"
 ---
 
 # Insulin Aspart

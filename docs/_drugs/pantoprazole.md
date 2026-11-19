@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "PANTOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
-description: "Pantoprazole: indikasi baharu diramal Duodenal obstruction (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Pantoprazole: indikasi baharu diramal Duodenal obstruction (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 31 (sah: 31)"
 ---
 
 # Pantoprazole

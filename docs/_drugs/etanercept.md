@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "ETANERCEPT"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-description: "Etanercept: indikasi baharu diramal Hypermobility of coccyx (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Etanercept: indikasi baharu diramal Hypermobility of coccyx (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 8 (sah: 8)"
 ---
 
 # Etanercept

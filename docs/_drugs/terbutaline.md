@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-03
 monitor_inn: "terbutaline"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
-description: "Terbutaline: indikasi baharu diramal Malformasi pernafasan (respiratory malformation) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Terbutaline: indikasi baharu diramal Malformasi pernafasan (respiratory malformation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
 ---
 
 # Terbutaline

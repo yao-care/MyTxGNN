@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-12
 monitor_inn: "ISOFLURANE"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "manic bipolar affective disorder", "trichotillomania", "dysthymic disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
-description: "Isoflurane: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Isoflurane: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Isoflurane

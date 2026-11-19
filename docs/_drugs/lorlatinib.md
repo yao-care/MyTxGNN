@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-28
 monitor_inn: "LORLATINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
-description: "Lorlatinib: indikasi baharu diramal Fibromatosis gingiva (fibromatosis, gingival) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Lorlatinib: indikasi baharu diramal Fibromatosis gingiva (fibromatosis, gingival) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Lorlatinib

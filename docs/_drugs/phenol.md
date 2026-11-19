@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-28
 monitor_inn: "PHENOL"
 predicted_indications: ["acrodermatitis chronica atrophicans", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "dry eye syndrome"]
-description: "Phenol: indikasi baharu diramal Acrodermatitis chronica atrophicans (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Phenol: indikasi baharu diramal Acrodermatitis chronica atrophicans (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 30 (sah: 30)"
 ---
 
 # Phenol

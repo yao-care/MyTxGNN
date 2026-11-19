@@ -9,7 +9,7 @@ drugbank_id: DB01616
 monitor_inn: "Alverine"
 predicted_indications: ["dysthymic disorder", "neurotic disorder", "anxiety disorder", "migraine disorder", "neurotic depression", "melancholia", "benign paroxysmal torticollis of infancy", "agoraphobia", "congenital isolated adrenocorticotropic hormone deficiency (disease)"]
 last_modified_at: 2026-11-16
-description: "Alverine Citrate: indikasi baharu diramal Gangguan distimik (dysthymic disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Alverine Citrate: indikasi baharu diramal Gangguan distimik (dysthymic disorder) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Alverine Citrate

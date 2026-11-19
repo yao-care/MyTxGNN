@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-28
 monitor_inn: "Sotatercept"
 predicted_indications: ["acute lymphoblastic leukemia (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis", "diabetic cataract", "HER2 positive breast carcinoma", "transitional cell carcinoma", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant"]
-description: "Sotatercept: indikasi baharu diramal Leukemia limfoblastik akut (acute lymphoblastic leukemia (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Sotatercept: indikasi baharu diramal Leukemia limfoblastik akut (acute lymphoblastic leukemia (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Sotatercept

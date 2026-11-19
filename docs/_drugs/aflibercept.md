@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "AFLIBERCEPT"
 predicted_indications: ["esotropia"]
 last_modified_at: 2026-11-12
-description: "Aflibercept: indikasi baharu diramal Esotropia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Aflibercept: indikasi baharu diramal Esotropia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 8 (sah: 8)"
 ---
 
 # Aflibercept

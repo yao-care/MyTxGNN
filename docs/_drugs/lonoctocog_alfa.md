@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-28
 monitor_inn: "LONOCTOCOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome"]
-description: "Lonoctocog Alfa: indikasi baharu diramal Pseudo-von Willebrand disease (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Lonoctocog Alfa: indikasi baharu diramal Pseudo-von Willebrand disease (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
 ---
 
 # Lonoctocog Alfa

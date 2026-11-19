@@ -9,7 +9,7 @@ drugbank_id: DB01132
 monitor_inn: "Pioglitazone"
 predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 last_modified_at: 2026-11-16
-description: "Pioglitazone Hydrochloride: indikasi baharu diramal Opsismodisplasia (opsismodysplasia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Pioglitazone Hydrochloride: indikasi baharu diramal Opsismodisplasia (opsismodysplasia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
 # Pioglitazone Hydrochloride

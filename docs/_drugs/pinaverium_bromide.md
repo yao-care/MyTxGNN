@@ -9,7 +9,7 @@ drugbank_id: DB09090
 monitor_inn: "Pinaverium"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
 last_modified_at: 2026-11-16
-description: "Pinaverium Bromide: indikasi baharu diramal Benign prostatic hyperplasia (disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Pinaverium Bromide: indikasi baharu diramal Benign prostatic hyperplasia (disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Pinaverium Bromide

@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-28
 monitor_inn: "LACTULOSE"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
-description: "Lactulose: indikasi baharu diramal Acute urate nephropathy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Lactulose: indikasi baharu diramal Acute urate nephropathy (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 12 (sah: 12)"
 ---
 
 # Lactulose

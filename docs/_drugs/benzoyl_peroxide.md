@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "BENZOYL PEROXIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "2-hydroxyethyl methacrylate sensitization", "acrodermatitis chronica atrophicans", "acne keloid"]
 last_modified_at: 2026-10-28
-description: "Benzoyl Peroxide: indikasi baharu diramal Keratosis folikel songsang vulva (vulvar inverted follicular keratosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Benzoyl Peroxide: indikasi baharu diramal Keratosis folikel songsang vulva (vulvar inverted follicular keratosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 9 (sah: 9)"
 ---
 
 # Benzoyl Peroxide

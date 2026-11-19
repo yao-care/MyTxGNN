@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-12
 monitor_inn: "TENECTEPLASE"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
-description: "Tenecteplase: indikasi baharu diramal Congenital coronary artery anomaly (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Tenecteplase: indikasi baharu diramal Congenital coronary artery anomaly (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Tenecteplase

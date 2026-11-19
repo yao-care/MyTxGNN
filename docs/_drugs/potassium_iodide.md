@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-06
 monitor_inn: "POTASSIUM IODIDE"
 predicted_indications: ["nasal cavity disease"]
-description: "Potassium Iodide: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Potassium Iodide: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 140 (sah: 137)"
 ---
 
 # Potassium Iodide

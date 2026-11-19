@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "EDARAVONE"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis"]
-description: "Edaravone: indikasi baharu diramal Kekurangan kofaktor heparin 2 (heparin cofactor 2 deficiency) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Edaravone: indikasi baharu diramal Kekurangan kofaktor heparin 2 (heparin cofactor 2 deficiency) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Edaravone

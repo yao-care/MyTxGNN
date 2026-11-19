@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "DACARBAZINE"
 predicted_indications: ["upper aerodigestive tract neoplasm"]
-description: "Dacarbazine: indikasi baharu diramal Neoplasma saluran aerodigestif atas (upper aerodigestive tract neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Dacarbazine: indikasi baharu diramal Neoplasma saluran aerodigestif atas (upper aerodigestive tract neoplasm) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Dacarbazine

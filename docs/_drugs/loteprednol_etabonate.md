@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "LOTEPREDNOL ETABONATE"
 predicted_indications: ["chronic follicular conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "parasitic conjunctivitis", "pseudomembranous conjunctivitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
-description: "Loteprednol Etabonate: indikasi baharu diramal Chronic follicular conjunctivitis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Loteprednol Etabonate: indikasi baharu diramal Chronic follicular conjunctivitis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Loteprednol Etabonate

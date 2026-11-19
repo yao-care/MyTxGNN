@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-28
 monitor_inn: "streptomycin"
 predicted_indications: ["conjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "Lyme disease", "infectious otitis interna"]
-description: "Streptomycin: indikasi baharu diramal Konjunktivitis (conjunctivitis) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Streptomycin: indikasi baharu diramal Konjunktivitis (conjunctivitis) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
 ---
 
 # Streptomycin

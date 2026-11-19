@@ -9,7 +9,7 @@ drugbank_id: DB08799
 monitor_inn: "Antazoline"
 predicted_indications: ["recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "nasal cavity disease"]
 last_modified_at: 2026-11-17
-description: "Antazoline Hydrochloride: indikasi baharu diramal Dermatitis atopik yang degil (recalcitrant atopic dermatitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Antazoline Hydrochloride: indikasi baharu diramal Dermatitis atopik yang degil (recalcitrant atopic dermatitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Antazoline Hydrochloride

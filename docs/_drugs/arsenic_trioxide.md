@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "ARSENIC TRIOXIDE"
 predicted_indications: ["unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "partial deletion of the long arm of chromosome 5", "myelodysplastic syndrome", "Ewing sarcoma", "dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
 last_modified_at: 2026-10-30
-description: "Arsenic Trioxide: indikasi baharu diramal Sindrom mielodisplastik tidak terklasifikasi (unclassified myelodysplastic syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Arsenic Trioxide: indikasi baharu diramal Sindrom mielodisplastik tidak terklasifikasi (unclassified myelodysplastic syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Arsenic Trioxide

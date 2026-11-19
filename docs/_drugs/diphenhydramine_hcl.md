@@ -9,7 +9,7 @@ drugbank_id: DB01075
 monitor_inn: "Diphenhydramine"
 predicted_indications: ["rosacea conjunctivitis"]
 last_modified_at: 2026-11-19
-description: "Diphenhydramine Hcl: indikasi baharu diramal Konjunktivitis rosasea (rosacea conjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Diphenhydramine Hcl: indikasi baharu diramal Konjunktivitis rosasea (rosacea conjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 36 (sah: 36)"
 ---
 
 # Diphenhydramine Hcl

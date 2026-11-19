@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-28
 monitor_inn: "Topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
-description: "Topotecan: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Topotecan: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Topotecan

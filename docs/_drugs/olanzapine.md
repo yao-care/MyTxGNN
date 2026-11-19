@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 last_modified_at: 2026-11-12
-description: "Olanzapine: indikasi baharu diramal Benign paroxysmal torticollis of infancy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Olanzapine: indikasi baharu diramal Benign paroxysmal torticollis of infancy (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 34 (sah: 32)"
 ---
 
 # Olanzapine

@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-28
 monitor_inn: "NIMODIPINE"
 predicted_indications: ["homozygous familial hypercholesterolemia", "nephrogenic syndrome of inappropriate antidiuresis"]
-description: "Nimodipine: indikasi baharu diramal Hiperkolesterolemia familial homozigot (homozygous familial hypercholesterolemia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Nimodipine: indikasi baharu diramal Hiperkolesterolemia familial homozigot (homozygous familial hypercholesterolemia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Nimodipine

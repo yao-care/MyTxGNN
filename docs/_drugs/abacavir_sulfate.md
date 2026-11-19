@@ -9,7 +9,7 @@ drugbank_id: DB01048
 monitor_inn: "Abacavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 last_modified_at: 2026-11-16
-description: "Abacavir Sulfate: indikasi baharu diramal Jangkitan virus imunodefisiensi simian (simian immunodeficiency virus infection) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Abacavir Sulfate: indikasi baharu diramal Jangkitan virus imunodefisiensi simian (simian immunodeficiency virus infection) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
 # Abacavir Sulfate

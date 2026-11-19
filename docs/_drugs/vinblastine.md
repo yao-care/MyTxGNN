@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-04
 monitor_inn: "vinblastine"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
-description: "Vinblastine: indikasi baharu diramal Rabdomiosarkoma (rhabdomyosarcoma (disease)) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Vinblastine: indikasi baharu diramal Rabdomiosarkoma (rhabdomyosarcoma (disease)) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Vinblastine

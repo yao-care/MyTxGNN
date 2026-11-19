@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-28
 monitor_inn: "fimasartan"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease"]
-description: "Fimasartan: indikasi baharu diramal Pulmonary hypertension owing to lung disease and/or hypoxia (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Fimasartan: indikasi baharu diramal Pulmonary hypertension owing to lung disease and/or hypoxia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Fimasartan

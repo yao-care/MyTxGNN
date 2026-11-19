@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "PEMBROLIZUMAB"
 predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "pulmonary sulcus neoplasm", "lung germ cell tumor", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
-description: "Pembrolizumab: indikasi baharu diramal Fibromatosis gingiva (fibromatosis, gingival) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Pembrolizumab: indikasi baharu diramal Fibromatosis gingiva (fibromatosis, gingival) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Pembrolizumab

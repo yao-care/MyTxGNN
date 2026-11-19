@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "dabigatran etexilate"
 predicted_indications: ["sclerosing cholangitis", "obsolete familial combined hyperlipidemia", "hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "primary release disorder of platelets"]
 last_modified_at: 2026-11-06
-description: "Dabigatran Etexilate: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Dabigatran Etexilate: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
 ---
 
 # Dabigatran Etexilate

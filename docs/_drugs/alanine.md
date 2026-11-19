@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "ALANINE"
 predicted_indications: ["gastroparesis (disease)"]
 last_modified_at: 2026-11-06
-description: "Alanine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Alanine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 36 (sah: 32)"
 ---
 
 # Alanine

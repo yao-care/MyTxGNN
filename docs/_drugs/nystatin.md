@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "Nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
-description: "Nystatin: indikasi baharu diramal Penyakit kawasan orbit (disease of orbital region) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Nystatin: indikasi baharu diramal Penyakit kawasan orbit (disease of orbital region) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 12 (sah: 12)"
 ---
 
 # Nystatin

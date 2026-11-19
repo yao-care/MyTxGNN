@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-12
 monitor_inn: "MESALAZINE"
 predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
-description: "Mesalazine: indikasi baharu diramal Congenital hypotrichosis with juvenile macular dystrophy (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Mesalazine: indikasi baharu diramal Congenital hypotrichosis with juvenile macular dystrophy (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 17 (sah: 17)"
 ---
 
 # Mesalazine

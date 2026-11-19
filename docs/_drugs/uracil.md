@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-12
 monitor_inn: "Uracil"
 predicted_indications: ["lipoma of colon", "colonic lymphangioma", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "cavernous hemangioma of colon", "cecal disease", "colon leiomyoma"]
-description: "Uracil: indikasi baharu diramal Lipoma kolon (lipoma of colon) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Uracil: indikasi baharu diramal Lipoma kolon (lipoma of colon) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 4)"
 ---
 
 # Uracil

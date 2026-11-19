@@ -9,7 +9,7 @@ drugbank_id: DB06769
 monitor_inn: "Bendamustine"
 predicted_indications: ["mantle cell lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Hodgkins lymphoma", "small intestinal Burkitt lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "MALT lymphoma", "relapsing-remitting multiple sclerosis"]
 last_modified_at: 2026-11-16
-description: "Bendamustine Hydrochloride: indikasi baharu diramal Limfoma sel mantel (mantle cell lymphoma) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Bendamustine Hydrochloride: indikasi baharu diramal Limfoma sel mantel (mantle cell lymphoma) (tahap bukti L1). Di Malaysia, pendaftaran NPRA: 10 (sah: 10)"
 ---
 
 # Bendamustine Hydrochloride

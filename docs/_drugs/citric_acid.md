@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "CITRIC ACID"
 predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
 last_modified_at: 2026-11-12
-description: "Citric Acid: indikasi baharu diramal Penyakit perut (stomach disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Citric Acid: indikasi baharu diramal Penyakit perut (stomach disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 29 (sah: 29)"
 ---
 
 # Citric Acid

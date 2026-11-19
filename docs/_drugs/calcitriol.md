@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "CALCITRIOL"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
 last_modified_at: 2026-10-28
-description: "Calcitriol: indikasi baharu diramal Vitamin D kekurangan lapuk (obsolete vitamin D deficiency) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Calcitriol: indikasi baharu diramal Vitamin D kekurangan lapuk (obsolete vitamin D deficiency) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 
 # Calcitriol

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
-description: "Midazolam: indikasi baharu diramal Insomnia (insomnia (disease)) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Midazolam: indikasi baharu diramal Insomnia (insomnia (disease)) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
 ---
 
 # Midazolam

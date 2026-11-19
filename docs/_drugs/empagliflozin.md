@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia"]
 last_modified_at: 2026-11-12
-description: "Empagliflozin: indikasi baharu diramal Sindrom orang kaku klasik (classic stiff person syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Empagliflozin: indikasi baharu diramal Sindrom orang kaku klasik (classic stiff person syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 19 (sah: 19)"
 ---
 
 # Empagliflozin

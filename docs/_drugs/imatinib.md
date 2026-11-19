@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
 last_modified_at: 2026-10-28
-description: "Imatinib: indikasi baharu diramal Heart fibrosarcoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Imatinib: indikasi baharu diramal Heart fibrosarcoma (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 22 (sah: 22)"
 ---
 
 # Imatinib

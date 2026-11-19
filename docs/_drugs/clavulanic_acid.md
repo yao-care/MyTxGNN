@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Clavulanic Acid"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urogenital tuberculosis", "celiac trunk compression syndrome", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "lymph node palisaded myofibroblastoma", "disease of uterine broad ligament"]
 last_modified_at: 2026-10-28
-description: "Clavulanic Acid: indikasi baharu diramal Uretritis Ureaplasma (Ureaplasma urethritis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Clavulanic Acid: indikasi baharu diramal Uretritis Ureaplasma (Ureaplasma urethritis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 20 (sah: 20)"
 ---
 
 # Clavulanic Acid

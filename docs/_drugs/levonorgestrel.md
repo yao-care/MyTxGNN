@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-12
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-description: "Levonorgestrel: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Levonorgestrel: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 16 (sah: 15)"
 ---
 
 # Levonorgestrel

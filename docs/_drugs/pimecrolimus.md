@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-28
 monitor_inn: "PIMECROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
-description: "Pimecrolimus: indikasi baharu diramal Seborrheic dermatitis (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Pimecrolimus: indikasi baharu diramal Seborrheic dermatitis (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Pimecrolimus

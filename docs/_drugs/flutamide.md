@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-28
 monitor_inn: "FLUTAMIDE"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
-description: "Flutamide: indikasi baharu diramal Fibroma of prostate (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Flutamide: indikasi baharu diramal Fibroma of prostate (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Flutamide

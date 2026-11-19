@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
 last_modified_at: 2026-11-17
-description: "Dexamethasone: indikasi baharu diramal Alopesia musinosa (alopecia mucinosa) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Dexamethasone: indikasi baharu diramal Alopesia musinosa (alopecia mucinosa) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 41 (sah: 37)"
 ---
 
 # Dexamethasone

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "METHYLENE BLUE"
 predicted_indications: ["bronchitis"]
-description: "Methylene Blue: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Methylene Blue: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Methylene Blue

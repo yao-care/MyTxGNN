@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
-description: "Lorazepam: indikasi baharu diramal Neoplasma saraf trigeminal (trigeminal nerve neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Lorazepam: indikasi baharu diramal Neoplasma saraf trigeminal (trigeminal nerve neoplasm) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
 ---
 
 # Lorazepam

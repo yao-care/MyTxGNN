@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Desonide"
 predicted_indications: ["polyp of vocal cord", "polyp of middle ear", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "polyp of vulva", "fibroepithelial polyp", "neoplastic polyp", "epulis", "uterine polyp"]
 last_modified_at: 2026-10-28
-description: "Desonide: indikasi baharu diramal Polyp of vocal cord (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Desonide: indikasi baharu diramal Polyp of vocal cord (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 35 (sah: 35)"
 ---
 
 # Desonide

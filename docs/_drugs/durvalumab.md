@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Durvalumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
 last_modified_at: 2026-10-28
-description: "Durvalumab: indikasi baharu diramal Uterine ligament adenocarcinoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Durvalumab: indikasi baharu diramal Uterine ligament adenocarcinoma (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Durvalumab

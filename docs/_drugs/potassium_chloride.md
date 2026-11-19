@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Potassium Chloride"
 predicted_indications: ["renal tubular acidosis"]
 last_modified_at: 2026-10-28
-description: "Potassium Chloride: indikasi baharu diramal Renal tubular acidosis (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Potassium Chloride: indikasi baharu diramal Renal tubular acidosis (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 115 (sah: 115)"
 ---
 
 # Potassium Chloride

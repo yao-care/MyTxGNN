@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "BENRALIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
 last_modified_at: 2026-10-28
-description: "Benralizumab: indikasi baharu diramal Trombositopenia akibat pemusnahan imun (thrombocytopenia due to immune destruction) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Benralizumab: indikasi baharu diramal Trombositopenia akibat pemusnahan imun (thrombocytopenia due to immune destruction) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Benralizumab

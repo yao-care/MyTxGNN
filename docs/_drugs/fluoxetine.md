@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Fluoxetine"
 predicted_indications: ["schizotypal personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
 last_modified_at: 2026-11-19
-description: "Fluoxetine: indikasi baharu diramal Schizotypal personality disorder (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Fluoxetine: indikasi baharu diramal Schizotypal personality disorder (tahap bukti L3). Di Malaysia, pendaftaran NPRA: 7 (sah: 5)"
 ---
 
 # Fluoxetine

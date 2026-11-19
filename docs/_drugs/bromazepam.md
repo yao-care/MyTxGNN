@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "BROMAZEPAM"
 predicted_indications: ["migraine disorder"]
 last_modified_at: 2026-10-28
-description: "Bromazepam: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Bromazepam: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Bromazepam

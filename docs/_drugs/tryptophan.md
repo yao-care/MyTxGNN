@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-06
 monitor_inn: "TRYPTOPHAN"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
-description: "Tryptophan: indikasi baharu diramal Sindrom kaki gelisah (restless legs syndrome) (tahap bukti L3). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Tryptophan: indikasi baharu diramal Sindrom kaki gelisah (restless legs syndrome) (tahap bukti L3). Di Malaysia, pendaftaran NPRA: 32 (sah: 28)"
 ---
 
 # Tryptophan

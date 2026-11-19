@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "URSODEOXYCHOLIC ACID"
 predicted_indications: ["homozygous familial hypercholesterolemia"]
-description: "Ursodeoxycholic Acid: indikasi baharu diramal Hiperkolesterolemia familial homozigot (homozygous familial hypercholesterolemia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ursodeoxycholic Acid: indikasi baharu diramal Hiperkolesterolemia familial homozigot (homozygous familial hypercholesterolemia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Ursodeoxycholic Acid

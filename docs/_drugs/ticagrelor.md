@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-06
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
-description: "Ticagrelor: indikasi baharu diramal Arteriosklerosis intrakranial (intracranial arteriosclerosis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ticagrelor: indikasi baharu diramal Arteriosklerosis intrakranial (intracranial arteriosclerosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 16 (sah: 16)"
 ---
 
 # Ticagrelor

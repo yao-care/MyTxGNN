@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "POLYETHYLENE GLYCOL"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
-description: "Polyethylene Glycol: indikasi baharu diramal Eritroderma iktiosiform kongenital (congenital ichthyosiform erythroderma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Polyethylene Glycol: indikasi baharu diramal Eritroderma iktiosiform kongenital (congenital ichthyosiform erythroderma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 9 (sah: 9)"
 ---
 
 # Polyethylene Glycol

@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-28
 monitor_inn: "estradiol benzoate"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "thrombotic disease"]
-description: "Estradiol Benzoate: indikasi baharu diramal Migraine disorder (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Estradiol Benzoate: indikasi baharu diramal Migraine disorder (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Estradiol Benzoate

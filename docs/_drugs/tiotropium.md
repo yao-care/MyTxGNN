@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-03
 monitor_inn: "TIOTROPIUM"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
-description: "Tiotropium: indikasi baharu diramal Malformasi pernafasan (respiratory malformation) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Tiotropium: indikasi baharu diramal Malformasi pernafasan (respiratory malformation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Tiotropium

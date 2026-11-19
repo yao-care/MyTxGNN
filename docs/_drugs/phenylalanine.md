@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-06
 monitor_inn: "PHENYLALANINE"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
-description: "Phenylalanine: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Phenylalanine: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 38 (sah: 34)"
 ---
 
 # Phenylalanine

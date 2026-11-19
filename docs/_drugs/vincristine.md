@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "vincristine"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 last_modified_at: 2026-10-28
-description: "Vincristine: indikasi baharu diramal Vertebral anomalies and variable endocrine and T-cell dysfunction (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Vincristine: indikasi baharu diramal Vertebral anomalies and variable endocrine and T-cell dysfunction (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Vincristine

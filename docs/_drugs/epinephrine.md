@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-06
 monitor_inn: "EPINEPHRINE"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
-description: "Epinephrine: indikasi baharu diramal Penyakit paru-paru obstruktif (obstructive lung disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Epinephrine: indikasi baharu diramal Penyakit paru-paru obstruktif (obstructive lung disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
 ---
 
 # Epinephrine

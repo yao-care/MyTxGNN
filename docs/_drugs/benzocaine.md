@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "BENZOCAINE"
 predicted_indications: ["papillary conjunctivitis"]
 last_modified_at: 2026-11-06
-description: "Benzocaine: indikasi baharu diramal Konjunktivitis papilari (papillary conjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Benzocaine: indikasi baharu diramal Konjunktivitis papilari (papillary conjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 
 # Benzocaine

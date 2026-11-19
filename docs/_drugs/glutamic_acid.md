@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-06
 monitor_inn: "GLUTAMIC ACID"
 predicted_indications: ["postmenopausal osteoporosis", "pregnancy associated osteoporosis", "primary hereditary glaucoma", "gastroparesis (disease)"]
-description: "Glutamic Acid: indikasi baharu diramal Osteoporosis pascamenopaus (postmenopausal osteoporosis) (tahap bukti L4). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Glutamic Acid: indikasi baharu diramal Osteoporosis pascamenopaus (postmenopausal osteoporosis) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 31 (sah: 26)"
 ---
 
 # Glutamic Acid

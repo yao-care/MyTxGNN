@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "ARGININE"
 predicted_indications: ["gastroparesis (disease)"]
 last_modified_at: 2026-11-19
-description: "Arginine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Arginine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 138 (sah: 121)"
 ---
 
 # Arginine

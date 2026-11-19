@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-28
 monitor_inn: "MOXIFLOXACIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
-description: "Moxifloxacin: indikasi baharu diramal Hiperamilasemia (hyperamylasemia) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Moxifloxacin: indikasi baharu diramal Hiperamilasemia (hyperamylasemia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 21 (sah: 21)"
 ---
 
 # Moxifloxacin

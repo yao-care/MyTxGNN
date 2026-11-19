@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "TRABECTEDIN"
 predicted_indications: ["female breast carcinoma"]
-description: "Trabectedin: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Trabectedin: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Trabectedin

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-06
 monitor_inn: "RIVASTIGMINE"
 predicted_indications: ["glaucoma"]
-description: "Rivastigmine: indikasi baharu diramal Glaukoma (glaucoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Rivastigmine: indikasi baharu diramal Glaukoma (glaucoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 17 (sah: 17)"
 ---
 
 # Rivastigmine

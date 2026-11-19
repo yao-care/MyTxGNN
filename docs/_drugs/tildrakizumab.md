@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-12
 monitor_inn: "TILDRAKIZUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "drug-induced osteoporosis"]
-description: "Tildrakizumab: indikasi baharu diramal Retinopati diabetes non-proliferatif teruk (severe nonproliferative diabetic retinopathy) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Tildrakizumab: indikasi baharu diramal Retinopati diabetes non-proliferatif teruk (severe nonproliferative diabetic retinopathy) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Tildrakizumab

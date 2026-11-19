@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-06
 monitor_inn: "ISONIAZID"
 predicted_indications: ["conjunctivitis"]
-description: "Isoniazid: indikasi baharu diramal Konjunktivitis (conjunctivitis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Isoniazid: indikasi baharu diramal Konjunktivitis (conjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 
 # Isoniazid

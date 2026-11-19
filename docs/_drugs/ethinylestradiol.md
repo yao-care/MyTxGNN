@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Ethinylestradiol"
 predicted_indications: ["zinc, elevated plasma"]
 last_modified_at: 2026-11-12
-description: "Ethinylestradiol: indikasi baharu diramal Zink plasma meningkat (zinc, elevated plasma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ethinylestradiol: indikasi baharu diramal Zink plasma meningkat (zinc, elevated plasma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 28 (sah: 28)"
 ---
 
 # Ethinylestradiol

@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-28
 monitor_inn: "DIMENHYDRINATE"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
-description: "Dimenhydrinate: indikasi baharu diramal Urtikaria alergik (allergic urticaria) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Dimenhydrinate: indikasi baharu diramal Urtikaria alergik (allergic urticaria) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
 ---
 
 # Dimenhydrinate

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-28
 monitor_inn: "Dasatinib"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
-description: "Dasatinib: indikasi baharu diramal Sarkoma Ewing (Ewing sarcoma) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Dasatinib: indikasi baharu diramal Sarkoma Ewing (Ewing sarcoma) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Dasatinib

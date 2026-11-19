@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "Nepafenac"
 predicted_indications: ["eye disease", "optic papillitis", "hypotrichosis simplex of the scalp", "seborrheic keratosis", "von Hippel anomaly", "congenital hypotrichosis milia", "mcpherson robertson cammarano syndrome", "lagophthalmos", "vulvar inverted follicular keratosis", "vitreous detachment"]
-description: "Nepafenac: indikasi baharu diramal Penyakit mata (eye disease) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Nepafenac: indikasi baharu diramal Penyakit mata (eye disease) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Nepafenac

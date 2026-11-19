@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-12
 monitor_inn: "selegiline"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
-description: "Selegiline: indikasi baharu diramal Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Selegiline: indikasi baharu diramal Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Selegiline

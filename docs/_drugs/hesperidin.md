@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-19
 monitor_inn: "HESPERIDIN"
 predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm"]
-description: "Hesperidin: indikasi baharu diramal Neoplasma mieloproliferatif (myeloproliferative neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Hesperidin: indikasi baharu diramal Neoplasma mieloproliferatif (myeloproliferative neoplasm) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 55 (sah: 52)"
 ---
 
 # Hesperidin

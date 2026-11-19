@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Ferrous Fumarate"
 predicted_indications: ["non-syndromic esophageal malformation"]
 last_modified_at: 2026-11-06
-description: "Ferrous Fumarate: indikasi baharu diramal Malformasi esofagus bukan sindromik (non-syndromic esophageal malformation) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ferrous Fumarate: indikasi baharu diramal Malformasi esofagus bukan sindromik (non-syndromic esophageal malformation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 170 (sah: 165)"
 ---
 
 # Ferrous Fumarate

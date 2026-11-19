@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-28
 monitor_inn: "DAPSONE"
 predicted_indications: ["pneumocystosis"]
-description: "Dapsone: indikasi baharu diramal Pneumocystosis (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Dapsone: indikasi baharu diramal Pneumocystosis (tahap bukti L1). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Dapsone

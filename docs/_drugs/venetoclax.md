@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-28
 monitor_inn: "VENETOCLAX"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
-description: "Venetoclax: indikasi baharu diramal Hodgkins lymphoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Venetoclax: indikasi baharu diramal Hodgkins lymphoma (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Venetoclax

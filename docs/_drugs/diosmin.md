@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-19
 monitor_inn: "DIOSMIN"
 predicted_indications: ["amenorrhea (disease)"]
-description: "Diosmin: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Diosmin: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 22 (sah: 21)"
 ---
 
 # Diosmin

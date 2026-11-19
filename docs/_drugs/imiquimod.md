@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "Imiquimod"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
-description: "Imiquimod: indikasi baharu diramal Neoplasma pra-malignan (pre-malignant neoplasm) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Imiquimod: indikasi baharu diramal Neoplasma pra-malignan (pre-malignant neoplasm) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Imiquimod

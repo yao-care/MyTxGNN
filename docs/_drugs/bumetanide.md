@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "BUMETANIDE"
 predicted_indications: ["acute pulmonary heart disease"]
 last_modified_at: 2026-10-28
-description: "Bumetanide: indikasi baharu diramal Penyakit jantung pulmonari akut (acute pulmonary heart disease) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Bumetanide: indikasi baharu diramal Penyakit jantung pulmonari akut (acute pulmonary heart disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Bumetanide

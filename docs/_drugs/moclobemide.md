@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-04
 monitor_inn: "MOCLOBEMIDE"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
-description: "Moclobemide: indikasi baharu diramal Agorafobia (agoraphobia) (tahap bukti L2). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Moclobemide: indikasi baharu diramal Agorafobia (agoraphobia) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Moclobemide

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-12
 monitor_inn: "Fludarabine"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
-description: "Fludarabine: indikasi baharu diramal Plasma cell myeloma (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Fludarabine: indikasi baharu diramal Plasma cell myeloma (tahap bukti L1). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Fludarabine

@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Cetuximab"
 predicted_indications: ["chondroid hamartoma", "non-seminomatous lesion", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "epiglottis neoplasm", "cystic neoplasm", "pre-malignant neoplasm"]
 last_modified_at: 2026-10-28
-description: "Cetuximab: indikasi baharu diramal Hamartoma kondroid (chondroid hamartoma) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Cetuximab: indikasi baharu diramal Hamartoma kondroid (chondroid hamartoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Cetuximab

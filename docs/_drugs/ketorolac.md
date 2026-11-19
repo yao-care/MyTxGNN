@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
-description: "Ketorolac: indikasi baharu diramal Gangguan sakit kepala (headache disorder) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Ketorolac: indikasi baharu diramal Gangguan sakit kepala (headache disorder) (tahap bukti L1). Di Malaysia, pendaftaran NPRA: 6 (sah: 5)"
 ---
 
 # Ketorolac

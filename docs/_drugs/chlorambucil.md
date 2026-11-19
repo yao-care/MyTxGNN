@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "CHLORAMBUCIL"
 predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
 last_modified_at: 2026-11-03
-description: "Chlorambucil: indikasi baharu diramal ALK-positive large B-cell lymphoma (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Chlorambucil: indikasi baharu diramal ALK-positive large B-cell lymphoma (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Chlorambucil

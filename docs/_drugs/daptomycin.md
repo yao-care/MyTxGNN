@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-19
 monitor_inn: "Daptomycin"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
-description: "Daptomycin: indikasi baharu diramal Osteoartritis (osteoarthritis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Daptomycin: indikasi baharu diramal Osteoartritis (osteoarthritis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 3)"
 ---
 
 # Daptomycin

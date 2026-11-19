@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "BRIGATINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
 last_modified_at: 2026-10-28
-description: "Brigatinib: indikasi baharu diramal Fibromatosis gingiva (fibromatosis, gingival) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Brigatinib: indikasi baharu diramal Fibromatosis gingiva (fibromatosis, gingival) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Brigatinib

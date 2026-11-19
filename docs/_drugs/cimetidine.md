@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Cimetidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
 last_modified_at: 2026-10-28
-description: "Cimetidine: indikasi baharu diramal Perforasi ulser peptik (peptic ulcer perforation) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Cimetidine: indikasi baharu diramal Perforasi ulser peptik (peptic ulcer perforation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 21 (sah: 21)"
 ---
 
 # Cimetidine

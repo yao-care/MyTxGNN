@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "FAVIPIRAVIR"
 predicted_indications: ["hemophagocytic syndrome associated with an infection", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency"]
-description: "Favipiravir: indikasi baharu diramal Hemophagocytic syndrome associated with an infection (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan"
+description: "Favipiravir: indikasi baharu diramal Hemophagocytic syndrome associated with an infection (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Favipiravir
