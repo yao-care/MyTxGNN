@@ -100,6 +100,7 @@ These cases help understand the difference between prediction scores and evidenc
 ## All Articles
 
 {% if site.posts.size > 0 %}
+
 | Date | Category | Title |
 |------|----------|-------|
 {% for post in site.posts %}| {{ post.date | date: "%Y-%m-%d" }} | {{ post.categories | first }} | [{{ post.title }}]({{ post.url | relative_url }}) |
