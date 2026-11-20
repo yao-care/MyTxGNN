@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ADAPALENE"
 predicted_indications: ["zinc, elevated plasma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Adapalene: indikasi baharu diramal Zink plasma meningkat (zinc, elevated plasma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
 ---
 

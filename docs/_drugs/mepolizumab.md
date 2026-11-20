@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 493
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 monitor_inn: "MEPOLIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
 description: "Mepolizumab: indikasi baharu diramal Trombositopenia akibat pemusnahan imun (thrombocytopenia due to immune destruction) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"

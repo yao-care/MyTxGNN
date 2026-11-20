@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Methylprednisolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Methylprednisolone: indikasi baharu diramal Alopesia musinosa (alopecia mucinosa) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 

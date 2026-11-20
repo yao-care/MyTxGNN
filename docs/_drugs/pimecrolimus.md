@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 573
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 monitor_inn: "PIMECROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
 description: "Pimecrolimus: indikasi baharu diramal Seborrheic dermatitis (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"

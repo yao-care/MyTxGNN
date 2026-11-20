@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CEFTRIAXONE"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Ceftriaxone: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 29 (sah: 26)"
 ---
 

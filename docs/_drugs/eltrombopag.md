@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 318
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "eltrombopag"
 predicted_indications: ["HIV infectious disease"]
 description: "Eltrombopag: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 637
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 monitor_inn: "salmeterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
 description: "Salmeterol: indikasi baharu diramal Malformasi pernafasan (respiratory malformation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 18 (sah: 18)"

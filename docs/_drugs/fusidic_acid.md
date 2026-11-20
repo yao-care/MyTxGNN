@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Fusidic Acid"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "parasitic eyelid infestation"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Fusidic Acid: indikasi baharu diramal Keratitis pendedahan (exposure keratitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 38 (sah: 38)"
 ---
 

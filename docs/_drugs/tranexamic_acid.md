@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 694
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 monitor_inn: "TRANEXAMIC ACID"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Tranexamic Acid: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 12 (sah: 12)"

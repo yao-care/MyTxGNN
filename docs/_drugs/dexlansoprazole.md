@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 272
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "DEXLANSOPRAZOLE"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
 description: "Dexlansoprazole: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"

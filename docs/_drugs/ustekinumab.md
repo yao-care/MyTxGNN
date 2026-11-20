@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 714
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "USTEKINUMAB"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
 description: "Ustekinumab: indikasi baharu diramal Dermatitis (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 13 (sah: 13)"

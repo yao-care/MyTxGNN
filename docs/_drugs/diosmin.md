@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 295
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 monitor_inn: "DIOSMIN"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Diosmin: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 22 (sah: 21)"

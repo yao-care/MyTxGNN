@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 513
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
 description: "Morphine: indikasi baharu diramal Sindrom Kesakitan Miofasial (myofascial pain syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"

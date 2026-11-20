@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Folic Acid"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 description: "Folic Acid: indikasi baharu diramal Biotin metabolic disease (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 540 (sah: 527)"
 ---
 

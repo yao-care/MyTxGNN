@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 665
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 monitor_inn: "TACROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: indikasi baharu diramal Seborrheic dermatitis (tahap bukti L1). Di Malaysia, pendaftaran NPRA: 16 (sah: 16)"

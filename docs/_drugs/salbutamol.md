@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 635
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 monitor_inn: "Salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
 description: "Salbutamol: indikasi baharu diramal Konjunktivitis papilari (papillary conjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 67 (sah: 65)"

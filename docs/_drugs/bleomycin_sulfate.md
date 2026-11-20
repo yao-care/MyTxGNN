@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00290
 monitor_inn: "Bleomycin"
 predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Bleomycin Sulfate: indikasi baharu diramal Neoplasma cauda equina (cauda equina neoplasm) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 

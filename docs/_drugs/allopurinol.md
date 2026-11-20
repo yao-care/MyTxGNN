@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Allopurinol"
 predicted_indications: ["hepatic porphyria", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Allopurinol: indikasi baharu diramal Porfiria hepatik (hepatic porphyria) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 11 (sah: 11)"
 ---
 

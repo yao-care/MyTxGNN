@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00542
 monitor_inn: "Benazepril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Benazepril Hydrochloride: indikasi baharu diramal Penyakit buah pinggang hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5)."
 ---
 

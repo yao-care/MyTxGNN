@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 monitor_inn: "DESMOPRESSIN"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
 description: "Desmopressin: indikasi baharu diramal Congenital prothrombin deficiency (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 9 (sah: 7)"

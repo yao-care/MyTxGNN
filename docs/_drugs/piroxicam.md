@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Piroxicam"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Piroxicam: indikasi baharu diramal Colobomatous microphthalmia-rhizomelic dysplasia syndrome (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 8 (sah: 8)"
 ---
 

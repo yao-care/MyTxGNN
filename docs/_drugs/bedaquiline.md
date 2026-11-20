@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Bedaquiline"
 predicted_indications: ["vulvovaginal candidiasis", "fascioliasis", "urea cycle disorder", "esophageal candidiasis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Bedaquiline: indikasi baharu diramal Kandidiasis vulvovaginal (vulvovaginal candidiasis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "Hydrocortisone Acetate"
 predicted_indications: ["alopecia areata", "telogen effluvium", "alopecia mucinosa", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "seborrheic keratosis"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 description: "Hydrocortisone Acetate: indikasi baharu diramal Alopesia areata (alopecia areata) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 34 (sah: 34)"
 ---
 

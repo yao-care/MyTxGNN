@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB01072
 monitor_inn: "Atazanavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Atazanavir Sulfate: indikasi baharu diramal Sindrom kekurangan imun diperoleh kucing (feline acquired immunodeficiency syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 

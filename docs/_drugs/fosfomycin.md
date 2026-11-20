@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "fosfomycin"
 predicted_indications: ["uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "epiglottitis", "urogenital tuberculosis", "laryngitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "pyelitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Fosfomycin: indikasi baharu diramal Uterine inflammatory disease (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
 ---
 

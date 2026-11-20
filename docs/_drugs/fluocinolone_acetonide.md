@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FLUOCINOLONE ACETONIDE"
 predicted_indications: ["lichen planus pemphigoides"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Fluocinolone Acetonide: indikasi baharu diramal Lichen planus pemphigoides (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 737
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 monitor_inn: "ZONISAMIDE"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
 description: "Zonisamide: indikasi baharu diramal Sindrom Tourette (Tourette syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"

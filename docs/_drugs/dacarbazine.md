@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 251
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 monitor_inn: "DACARBAZINE"
 predicted_indications: ["upper aerodigestive tract neoplasm"]
 description: "Dacarbazine: indikasi baharu diramal Neoplasma saluran aerodigestif atas (upper aerodigestive tract neoplasm) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"

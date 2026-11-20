@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB09084
 monitor_inn: "Benzydamine"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Benzydamine Hydrochloride: indikasi baharu diramal Benign prostatic hyperplasia (disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 20 (sah: 20)"
 ---
 

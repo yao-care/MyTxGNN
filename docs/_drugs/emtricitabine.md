@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 322
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 monitor_inn: "EMTRICITABINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Emtricitabine: indikasi baharu diramal Sindrom imunodefisiensi dapatan kucing (feline acquired immunodeficiency syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 14 (sah: 13)"

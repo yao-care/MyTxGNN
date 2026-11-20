@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 242
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "CORIFOLLITROPIN ALFA"
 predicted_indications: ["gastroduodenitis", "migraine disorder", "peptic ulcer disease", "migraine with brainstem aura", "Raynaud disease", "pulmonary hypertension", "kyphoscoliotic heart disease"]
 description: "Corifollitropin Alfa: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"

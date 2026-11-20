@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "AMOXICILLIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Amoxicillin: indikasi baharu diramal Hiperamilasemia (hyperamylasemia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 100 (sah: 99)"
 ---
 

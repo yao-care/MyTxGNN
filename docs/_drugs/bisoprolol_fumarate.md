@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00612
 monitor_inn: "Bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Bisoprolol Fumarate: indikasi baharu diramal Penyakit renal hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 32 (sah: 32)"
 ---
 

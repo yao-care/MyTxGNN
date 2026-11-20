@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 453
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "LETROZOLE"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Letrozole: indikasi baharu diramal Karsinoma puting (nipple carcinoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"

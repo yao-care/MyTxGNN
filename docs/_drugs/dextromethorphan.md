@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 275
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 monitor_inn: "DEXTROMETHORPHAN"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria"]
 description: "Dextromethorphan: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 45 (sah: 45)"

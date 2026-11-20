@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 254
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 monitor_inn: "Daptomycin"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
 description: "Daptomycin: indikasi baharu diramal Osteoartritis (osteoarthritis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 3)"

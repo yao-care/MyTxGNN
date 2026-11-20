@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 472
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "LOPERAMIDE"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "conjunctival folliculosis", "parasitic conjunctivitis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "Angelucci syndrome"]
 description: "Loperamide: indikasi baharu diramal Konjunktivitis berjangkit akut (acute contagious conjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 10 (sah: 10)"

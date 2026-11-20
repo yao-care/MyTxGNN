@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 489
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 monitor_inn: "MEFENAMIC ACID"
 predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
 description: "Mefenamic Acid: indikasi baharu diramal Gangguan sakit kepala (headache disorder) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 37 (sah: 37)"

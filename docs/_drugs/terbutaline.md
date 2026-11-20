@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 673
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 monitor_inn: "terbutaline"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
 description: "Terbutaline: indikasi baharu diramal Malformasi pernafasan (respiratory malformation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"

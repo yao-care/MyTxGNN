@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Insulin Human"
 predicted_indications: ["autoimmune oophoritis", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Insulin Human: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 22 (sah: 22)"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Decitabine"
 predicted_indications: ["refractory cytopenia of childhood"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Decitabine: indikasi baharu diramal refractory cytopenia of childhood (tahap bukti L5). Indikasi asal: Leukemia mieloid dan subjenis leukemia mieloid akut"
 ---
 

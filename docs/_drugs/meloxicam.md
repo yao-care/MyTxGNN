@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Meloxicam"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Meloxicam: indikasi baharu diramal Acromesomelic dysplasia, Hunter-Thompson type (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 25 (sah: 25)"
 ---
 

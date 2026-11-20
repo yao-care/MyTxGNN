@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB06216
 monitor_inn: "Asenapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Asenapine Maleate: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies) (tahap bukti L5)."
 ---
 

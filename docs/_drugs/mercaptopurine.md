@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "Mercaptopurine"
 predicted_indications: ["myeloid leukemia", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 description: "Mercaptopurine: indikasi baharu diramal Leukemia mieloid (myeloid leukemia) (tahap bukti L3). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 

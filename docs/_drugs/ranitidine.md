@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 613
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "RANITIDINE"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 description: "Ranitidine: indikasi baharu diramal Perforasi ulser peptik (peptic ulcer perforation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 5)"

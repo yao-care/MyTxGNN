@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 457
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Levonorgestrel: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 16 (sah: 15)"

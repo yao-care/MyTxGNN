@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 550
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
 description: "Oxcarbazepine: indikasi baharu diramal Sindrom Kaki Resah (restless legs syndrome) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"

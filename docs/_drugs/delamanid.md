@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 262
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "DELAMANID"
 predicted_indications: ["allergic urticaria"]
 description: "Delamanid: indikasi baharu diramal Allergic urticaria (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"

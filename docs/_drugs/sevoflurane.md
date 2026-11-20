@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 643
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 monitor_inn: "SEVOFLURANE"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "migraine disorder", "inclusion body myositis"]
 description: "Sevoflurane: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"

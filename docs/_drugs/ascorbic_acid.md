@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ASCORBIC ACID"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "disease by subcellular system affected"]
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 description: "Ascorbic Acid: indikasi baharu diramal Malformasi esofagus tidak sindromik (non-syndromic esophageal malformation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1245 (sah: 1199)"
 ---
 

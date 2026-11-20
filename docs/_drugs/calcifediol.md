@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CALCIFEDIOL"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Calcifediol: indikasi baharu diramal Asidosis tubul renal (renal tubular acidosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Agomelatine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Agomelatine: indikasi baharu diramal Benign paroxysmal torticollis of infancy (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 

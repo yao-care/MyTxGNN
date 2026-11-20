@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "gonococcal urethritis", "Ureaplasma urethritis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Meropenem: indikasi baharu diramal Artritis bakteria (bacterial arthritis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 29 (sah: 29)"
 ---
 

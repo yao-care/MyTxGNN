@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ADENOSINE"
 predicted_indications: ["obsolete bundle branch block"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Adenosine: indikasi baharu diramal Blok berkas cabang usang (obsolete bundle branch block) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 

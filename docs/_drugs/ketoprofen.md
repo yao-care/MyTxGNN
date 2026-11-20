@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ketoprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Ketoprofen: indikasi baharu diramal Acromesomelic dysplasia, Hunter-Thompson type (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
 ---
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 705
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 monitor_inn: "TROPICAMIDE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
 description: "Tropicamide: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"

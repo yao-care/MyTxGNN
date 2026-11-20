@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01118
 monitor_inn: "Amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Amiodarone Hydrochloride: indikasi baharu diramal Takikardia ventrikel polimorfik katekolaminergik (catecholaminergic polymorphic ventricular tachycardia) (tahap bukti L4)."
 ---
 

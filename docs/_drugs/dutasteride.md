@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 312
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 monitor_inn: "DUTASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
 description: "Dutasteride: indikasi baharu diramal Ambras type hypertrichosis universalis congenita (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 14 (sah: 14)"

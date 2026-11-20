@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00594
 monitor_inn: "Amiloride"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Amiloride Hydrochloride: indikasi baharu diramal Penyakit renal hipertensi malignan (malignant hypertensive renal disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CARFILZOMIB"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Carfilzomib: indikasi baharu diramal CMM7 (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 

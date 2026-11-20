@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 445
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "LANSOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 description: "Lansoprazole: indikasi baharu diramal Duodenal obstruction (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"

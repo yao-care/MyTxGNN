@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 471
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 monitor_inn: "LONOCTOCOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome"]
 description: "Lonoctocog Alfa: indikasi baharu diramal Pseudo-von Willebrand disease (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"

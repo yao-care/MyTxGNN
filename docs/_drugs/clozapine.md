@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "CLOZAPINE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 description: "Clozapine: indikasi baharu diramal Mania gangguan afektif bipolar (manic bipolar affective disorder) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 9 (sah: 9)"
 ---
 

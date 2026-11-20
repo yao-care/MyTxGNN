@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB11363
 monitor_inn: "Alectinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Alectinib Hydrochloride: indikasi baharu diramal Fibromatosis gingiva (fibromatosis, gingival) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 467
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "LISINOPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
 description: "Lisinopril: indikasi baharu diramal Pulmonary hypertension owing to lung disease and/or hypoxia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 9 (sah: 9)"

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 500
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 monitor_inn: "METHYLENE BLUE"
 predicted_indications: ["bronchitis"]
 description: "Methylene Blue: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"

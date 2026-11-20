@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Irbesartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Irbesartan: indikasi baharu diramal Penyakit buah pinggang hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 47 (sah: 46)"
 ---
 

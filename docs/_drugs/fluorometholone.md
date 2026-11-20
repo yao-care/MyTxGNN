@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Fluorometholone"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy", "glaucomatocyclitic crisis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Fluorometholone: indikasi baharu diramal Postinfectious vasculitis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 

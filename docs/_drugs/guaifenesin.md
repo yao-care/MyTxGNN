@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 396
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "GUAIFENESIN"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
 description: "Guaifenesin: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 23 (sah: 23)"

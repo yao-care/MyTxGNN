@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Indomethacin"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Indomethacin: indikasi baharu diramal Brachydactyly-syndactyly syndrome (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 

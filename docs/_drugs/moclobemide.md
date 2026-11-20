@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 510
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "MOCLOBEMIDE"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
 description: "Moclobemide: indikasi baharu diramal Agorafobia (agoraphobia) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"

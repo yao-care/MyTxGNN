@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 538
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "OCTREOTIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
 description: "Octreotide: indikasi baharu diramal Keratosis folikular songsang vulva (vulvar inverted follicular keratosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"

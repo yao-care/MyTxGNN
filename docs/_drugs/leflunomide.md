@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 449
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "LEFLUNOMIDE"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 description: "Leflunomide: indikasi baharu diramal Brachydactyly-syndactyly syndrome (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"

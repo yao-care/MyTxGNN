@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 253
 evidence_level: L1
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 monitor_inn: "DAPSONE"
 predicted_indications: ["pneumocystosis"]
 description: "Dapsone: indikasi baharu diramal Pneumocystosis (tahap bukti L1). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"

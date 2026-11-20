@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 6
 monitor_inn: "Progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Progesterone: indikasi baharu diramal Penyakit fibrosistik payudara (breast fibrocystic disease) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
 ---
 

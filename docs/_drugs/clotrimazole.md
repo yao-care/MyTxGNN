@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Clotrimazole"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 description: "Clotrimazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 67 (sah: 65)"
 ---
 

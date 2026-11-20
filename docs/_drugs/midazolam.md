@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 505
 evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
 description: "Midazolam: indikasi baharu diramal Insomnia (insomnia (disease)) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Alprostadil"
 predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Alprostadil: indikasi baharu diramal Malformasi aorta (aortic malformation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Omeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 description: "Omeprazole: indikasi baharu diramal Sekatan duodenum (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan"
 ---
 

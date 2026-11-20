@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Prednisolone acetate"
 predicted_indications: ["serous conjunctivitis except viral", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "conjunctival folliculosis", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "vernal conjunctivitis", "postinfectious vasculitis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Prednisolone Acetate: indikasi baharu diramal Serous conjunctivitis except viral (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 

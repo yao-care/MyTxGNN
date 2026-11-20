@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01627
 monitor_inn: "Lincomycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Lincomycin Hydrochloride: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 20 (sah: 20)"
 ---
 

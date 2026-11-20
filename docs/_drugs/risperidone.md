@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 description: "Risperidone: indikasi baharu diramal Gaze palsy, familial horizontal, with progressive scoliosis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 25 (sah: 22)"
 ---
 

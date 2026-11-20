@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "ARTEMETHER"
 predicted_indications: ["acquired angioedema", "angioedema", "hereditary angioedema", "nephrogenic syndrome of inappropriate antidiuresis", "acute contagious conjunctivitis", "scleroderma (disease)", "conjunctivitis", "renin-angiotensin-aldosterone system-blocker-induced angioedema"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Artemether: indikasi baharu diramal Angioedema didapati (acquired angioedema) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 

@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00451
 monitor_inn: "Levothyroxine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Levothyroxine Sodium: indikasi baharu diramal Hipodisplasia/aplasia renal (renal hypodysplasia/aplasia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 9 (sah: 9)"
 ---
 

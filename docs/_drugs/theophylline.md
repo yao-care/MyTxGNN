@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Theophylline"
 predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "pharyngitis", "acute laryngopharyngitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Theophylline: indikasi baharu diramal Penyakit trombotik (tahap bukti L5). Indikasi asal: Asma, bronkitis…"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "Minoxidil"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with chronic hemolytic anemia", "pulmonary arterial hypertension associated with connective tissue disease"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Minoxidil: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 15 (sah: 13)"
 ---
 

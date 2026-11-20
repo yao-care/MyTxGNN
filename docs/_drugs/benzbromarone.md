@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BENZBROMARONE"
 predicted_indications: ["hypouricemia, renal"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Benzbromarone: indikasi baharu diramal Hipourisemia renal (hypouricemia, renal) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 

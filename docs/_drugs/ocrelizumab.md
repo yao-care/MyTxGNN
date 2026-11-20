@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 537
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-20
 monitor_inn: "OCRELIZUMAB"
 predicted_indications: ["HER2 positive breast carcinoma", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer"]
 description: "Ocrelizumab: indikasi baharu diramal Karsinoma payudara HER2 positif (HER2 positive breast carcinoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"

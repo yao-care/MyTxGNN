@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 388
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "GLUCAGON"
 predicted_indications: ["irritable bowel syndrome"]
 description: "Glucagon: indikasi baharu diramal Sindrom usus besar yang meradang (irritable bowel syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"

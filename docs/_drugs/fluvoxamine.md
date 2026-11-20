@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Fluvoxamine"
 predicted_indications: ["schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Fluvoxamine: indikasi baharu diramal Schizoid personality disorder (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
