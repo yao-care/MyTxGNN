@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-19T18:51:34.589282",
+  "fetched": "2026-11-20T01:01:58.286938",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 12,
   "items": [
     {
       "title": "No Specific Allocation Under 2026 Budget For GLP-1 Drugs: Dzulkefly",
@@ -116,6 +116,26 @@
         "perubatan",
         "ubat",
         "hospital"
+      ]
+    },
+    {
+      "title": "Malaysian govt weighs changes to drug law to shift focus from punishment to rehabilitation",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/19/malaysian-govt-weighs-changes-to-drug-law-to-shift-focus-from-punishment-to-rehabilitation/243934",
+      "source": "Malay Mail",
+      "published": "2026-11-19T08:50:00",
+      "summary": "KUALA LUMPUR، Nov 19 — The government is willing to consider a review of Section 15(1) of the Dangerous Drugs Act 1952 a...",
+      "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Pontian fire damages 100m of conveyor belts linking jetty to coal storage",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/19/pontian-fire-damages-100m-of-conveyor-belts-linking-jetty-to-coal-storage/243930",
+      "source": "Malay Mail",
+      "published": "2026-11-19T08:39:00",
+      "summary": "PONTIAN, Nov 19 — A midday fire damaged three industrial rubber conveyor belts connecting the marine jetty to the coal s...",
+      "keywords_matched": [
+        "trial"
       ]
     }
   ]
