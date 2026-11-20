@@ -59,7 +59,7 @@ Model TxGNN (deep learning) meramalkan ia mungkin berkesan untuk **skleroderma m
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Imipenem ialah (terjemahan tidak rasmi): “Perencat protein pengikat penisilin bakteria” Teks asal bahasa Inggeris: "Bacterial penicillin-binding protein inhibitor" ([ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat sedia ada, imipenem tergolong dalam kelas karbapenem, iaitu antibakteria yang merencat sintesis dinding sel bakteria melalui protein pengikat penisilin (PBP). Keberkesanannya dalam jangkitan bakteria yang teruk telah mantap.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Imipenem ialah (terjemahan tidak rasmi): “Perencat protein pengikat penisilin bakteria”. Teks asal bahasa Inggeris: "Bacterial penicillin-binding protein inhibitor" ([ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat sedia ada, imipenem tergolong dalam kelas karbapenem, iaitu antibakteria yang merencat sintesis dinding sel bakteria melalui protein pengikat penisilin (PBP). Keberkesanannya dalam jangkitan bakteria yang teruk telah mantap.
 
 Skleroderma meresap ialah penyakit autoimun yang menyebabkan fibrosis, dan bukan jangkitan bakteria. Tiada rasional mekanistik yang jelas menghubungkan perencatan sintesis dinding sel bakteria dengan patogenesis penyakit ini. Skor yang tinggi (0.9999) datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan petunjuk keberkesanan sebenar atau bukti biologi.
 
@@ -114,7 +114,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708) |
 
 <!-- review:end log -->
 

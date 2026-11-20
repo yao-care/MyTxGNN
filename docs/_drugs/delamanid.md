@@ -60,7 +60,7 @@ tetapi setakat ini hanya terdapat **0 percubaan klinikal** dan **1 penerbitan** 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Delamanid ialah (terjemahan tidak rasmi): “Perencat Mycobacterium tuberculosis H37Rv” Teks asal bahasa Inggeris: "Mycobacterium tuberculosis H37Rv inhibitor" ([ChEMBL CHEMBL218650 (delamanid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL218650), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat sedia ada, delamanid ialah ubat nitroimidazol yang telah terbukti berkesan dalam MDR-TB. Secara mekanistik, ia mungkin boleh digunakan untuk tuberkulosis bovin. Secara umum, delamanid dikenali merencat sintesis asid mikolik dalam kompleks *Mycobacterium tuberculosis*.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Delamanid ialah (terjemahan tidak rasmi): “Perencat Mycobacterium tuberculosis H37Rv”. Teks asal bahasa Inggeris: "Mycobacterium tuberculosis H37Rv inhibitor" ([ChEMBL CHEMBL218650 (delamanid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL218650), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat sedia ada, delamanid ialah ubat nitroimidazol yang telah terbukti berkesan dalam MDR-TB. Secara mekanistik, ia mungkin boleh digunakan untuk tuberkulosis bovin. Secara umum, delamanid dikenali merencat sintesis asid mikolik dalam kompleks *Mycobacterium tuberculosis*.
 
 *Mycobacterium bovis* ialah ahli kompleks yang sama, maka aktiviti delamanid adalah munasabah. Walau bagaimanapun, kerentanan *M. bovis* terhadap nitroimidazol seperti delamanid belum dibuktikan dalam data klinikal. *M. bovis* juga rintang secara semula jadi terhadap pirazinamid, yang menunjukkan bahawa corak kerentanannya berbeza daripada *M. tuberculosis*.
 
@@ -122,7 +122,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "kerana delamanid tidak berdaftar di Malaysia dan tiada lesen tempatan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL218650 (delamanid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL218650) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL218650 (delamanid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL218650) |
 
 <!-- review:end log -->
 

@@ -66,7 +66,7 @@ Hipourisemia renal pula ialah keadaan yang disebabkan kehilangan fungsi URAT1 (S
 
 Skor TxGNN yang tinggi (0,9907) berkemungkinan besar mencerminkan perkaitan rangkaian antara sasaran ubat (URAT1) dengan gen penyakit, bukan hubungan terapeutik. Ubat ini dijangka **memburukkan** keadaan, termasuk risiko kegagalan buah pinggang akut akibat senaman dan batu urat (nefrolitiasis). Dalam literatur, benzbromarone digunakan sebagai **bahan ujian diagnostik** (ujian penindasan pirazinamid/benzbromarone) untuk mengklasifikasikan kecacatan pengangkutan urat, bukan sebagai rawatan.
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Benzbromarone ialah (terjemahan tidak rasmi): “Perencat ahli 12 famili pembawa zat terlarut 22” Teks asal bahasa Inggeris: "Solute carrier family 22 member 12 inhibitor" ([ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590), CC BY-SA 3.0; diakses 2026-11-19).
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Benzbromarone ialah (terjemahan tidak rasmi): “Perencat ahli 12 famili pembawa zat terlarut 22”. Teks asal bahasa Inggeris: "Solute carrier family 22 member 12 inhibitor" ([ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590), CC BY-SA 3.0; diakses 2026-11-19).
 
 ---
 
@@ -133,7 +133,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590) |
 
 <!-- review:end log -->
 

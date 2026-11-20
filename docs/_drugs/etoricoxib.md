@@ -66,7 +66,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan hanya **1 penerbitan** (kajian
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Etoricoxib ialah (terjemahan tidak rasmi): “Perencat siklooksigenase-2” Teks asal bahasa Inggeris: "Cyclooxygenase-2 inhibitor" ([ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, etorikoksib ialah perencat COX-2 terpilih (gen sasaran PTGS2) yang mengurangkan sintesis prostaglandin E2.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Etoricoxib ialah (terjemahan tidak rasmi): “Perencat siklooksigenase-2”. Teks asal bahasa Inggeris: "Cyclooxygenase-2 inhibitor" ([ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, etorikoksib ialah perencat COX-2 terpilih (gen sasaran PTGS2) yang mengurangkan sintesis prostaglandin E2.
 
 Pengurangan prostaglandin E2 dan keradangan neurogenik berkemungkinan relevan dengan patofisiologi migrain, dan NSAID ialah kelas ubat yang mantap untuk migrain akut. Maka secara mekanistik, ramalan ini boleh diterima.
 
@@ -140,7 +140,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "kerana ubat ini tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-05 | Dipadam: "Etorikoksib juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146) |
 
 <!-- review:end log -->
 

@@ -66,7 +66,7 @@ tetapi **tiada ujian klinikal** dan **tiada literatur** yang menyokong ramalan i
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Lactic Acid ialah (terjemahan tidak rasmi): “Agen penurun pH” Teks asal bahasa Inggeris: "pH lowering agent" ([ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, asid laktik ialah metabolit endogen, dan tiada kesan farmakologi yang diketahui terhadap patologi perkembangan atau struktur aorta.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Lactic Acid ialah (terjemahan tidak rasmi): “Agen penurun pH”. Teks asal bahasa Inggeris: "pH lowering agent" ([ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, asid laktik ialah metabolit endogen, dan tiada kesan farmakologi yang diketahui terhadap patologi perkembangan atau struktur aorta.
 
 Koarktasi aorta ialah kecacatan struktur kongenital yang dirawat melalui pembedahan atau intervensi kateter, bukan secara farmakologi. Oleh itu, tiada hubungan mekanistik yang kukuh dapat ditubuhkan. Skor model TxGNN (pembelajaran mendalam) yang tinggi (0.9959) mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi, dan tidak boleh dianggap sebagai bukti keberkesanan.
 
@@ -136,7 +136,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "kerana ia tidak mempunyai lesen NPRA" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559) |
 
 <!-- review:end log -->
 

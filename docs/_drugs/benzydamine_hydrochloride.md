@@ -57,7 +57,7 @@ tetapi pada masa ini **tiada kajian klinikal** dan **tiada penerbitan** dalam da
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Benzydamine Hydrochloride ialah (terjemahan tidak rasmi): “Perencat siklooksigenase” Teks asal bahasa Inggeris: "Cyclooxygenase inhibitor" ([ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, benzydamine ialah agen tempatan seakan-NSAID dengan sifat anti-radang, analgesik dan anestetik tempatan. Ia dipercayai bertindak melalui perencatan penghasilan sitokin pro-radang (contohnya TNF-alfa dan IL-1beta) serta kesan penstabilan membran, dan bukannya perencatan COX klasik.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Benzydamine Hydrochloride ialah (terjemahan tidak rasmi): “Perencat siklooksigenase”. Teks asal bahasa Inggeris: "Cyclooxygenase inhibitor" ([ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, benzydamine ialah agen tempatan seakan-NSAID dengan sifat anti-radang, analgesik dan anestetik tempatan. Ia dipercayai bertindak melalui perencatan penghasilan sitokin pro-radang (contohnya TNF-alfa dan IL-1beta) serta kesan penstabilan membran, dan bukannya perencatan COX klasik.
 
 Satu rasional yang munasabah tetapi belum disahkan ialah radang kronik prostat dikaitkan dengan perkembangan hiperplasia prostat benigna (BPH). Justeru, ubat yang mengurangkan radang secara teori boleh melegakan gejala saluran kencing bawah yang berkaitan dengan radang.
 
@@ -109,7 +109,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610) |
 
 <!-- review:end log -->
 

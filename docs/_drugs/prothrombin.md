@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Glanzmann thrombasthenia**, t
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Prothrombin ialah (terjemahan tidak rasmi): “Protein eksogen trombin” Teks asal bahasa Inggeris: "Thrombin exogenous protein" ([ChEMBL CHEMBL6068492 (prothrombin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL6068492), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat sedia ada, protrombin ialah faktor pembekuan plasma yang ditukar kepada trombin, lalu membantu pembentukan fibrin.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Prothrombin ialah (terjemahan tidak rasmi): “Protein eksogen trombin”. Teks asal bahasa Inggeris: "Thrombin exogenous protein" ([ChEMBL CHEMBL6068492 (prothrombin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL6068492), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat sedia ada, protrombin ialah faktor pembekuan plasma yang ditukar kepada trombin, lalu membantu pembentukan fibrin.
 
 Glanzmann thrombasthenia ialah gangguan platelet keturunan akibat kekurangan atau disfungsi integrin alfa-IIb/beta-3 (GPIIb/IIIa), yang menjejaskan agregasi platelet. Protrombin bertindak di hilir dalam lata pembekuan, jadi pembekalannya tidak membetulkan kecacatan utama agregasi platelet. Sebarang manfaat yang mungkin hanyalah tidak langsung, iaitu menyokong penjanaan trombin dan pembentukan fibrin.
 
@@ -126,7 +126,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL6068492 (prothrombin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL6068492) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL6068492 (prothrombin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL6068492) |
 
 <!-- review:end log -->
 

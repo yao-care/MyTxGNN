@@ -61,7 +61,7 @@ Ramalan ini hanyalah ramalan model (L5) dan belum disokong oleh bukti sebenar.
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Agomelatine ialah (terjemahan tidak rasmi): “Agonis reseptor melatonin; Antagonis reseptor serotonin 2c (5-HT2c)” Teks asal bahasa Inggeris: "Melatonin receptor agonist; Serotonin 2c (5-HT2c) receptor antagonist" ([ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan data farmakologi yang dikumpulkan, agomelatine bertindak pada reseptor MT1 dan MT2 (agonis melatonin) serta reseptor 5-HT2C (antagonis), dan turut berinteraksi dengan reseptor 5-HT2A dan 5-HT2B.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Agomelatine ialah (terjemahan tidak rasmi): “Agonis reseptor melatonin; Antagonis reseptor serotonin 2c (5-HT2c)”. Teks asal bahasa Inggeris: "Melatonin receptor agonist; Serotonin 2c (5-HT2c) receptor antagonist" ([ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan data farmakologi yang dikumpulkan, agomelatine bertindak pada reseptor MT1 dan MT2 (agonis melatonin) serta reseptor 5-HT2C (antagonis), dan turut berinteraksi dengan reseptor 5-HT2A dan 5-HT2B.
 
 Benign paroxysmal torticollis of infancy ialah gangguan jarang yang terhad dengan sendirinya, berkait dengan migrain dan sering dikaitkan dengan gen CACNA1A (gangguan saluran ion). Mana-mana kaitan dengan agomelatine adalah spekulatif, misalnya melalui modulasi sirkadian atau serotonergik terhadap episod setara migrain. Skor tinggi TxGNN ialah ramalan model semata-mata.
 
@@ -135,7 +135,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ Namun, pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Diosmin ialah (terjemahan tidak rasmi): “Tidak diketahui” Teks asal bahasa Inggeris: "Unknown" ([ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat umum, diosmin ialah flavonoid venoaktif yang dikatakan memberi kesan kepada tonus vena dan mikrosirkulasi, serta mempunyai sifat anti-radang dan antioksidan. Namun, tiada indikasi asal yang direkodkan dalam data yang dikumpulkan, dan hubungan mekanistik dengan amenorea tidak disokong oleh data yang ada.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Diosmin ialah (terjemahan tidak rasmi): “Tidak diketahui”. Teks asal bahasa Inggeris: "Unknown" ([ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat umum, diosmin ialah flavonoid venoaktif yang dikatakan memberi kesan kepada tonus vena dan mikrosirkulasi, serta mempunyai sifat anti-radang dan antioksidan. Namun, tiada indikasi asal yang direkodkan dalam data yang dikumpulkan, dan hubungan mekanistik dengan amenorea tidak disokong oleh data yang ada.
 
 Amenorea melibatkan gangguan paksi hipotalamus-pituitari-ovari, kehamilan, atau punca struktur dan endokrin. Sebarang kaitan antara kesan venoaktif atau anti-radang diosmin dengan keadaan ini bersifat spekulatif dan perlu dibuktikan secara bebas daripada set data ini.
 
@@ -107,7 +107,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Diosmin juga tidak berdaftar di Malaysia dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884) |
 
 <!-- review:end log -->
 

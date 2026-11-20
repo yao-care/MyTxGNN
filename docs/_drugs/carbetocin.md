@@ -56,7 +56,7 @@ Pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyoko
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Carbetocin ialah (terjemahan tidak rasmi): “Agonis reseptor oksitosin” Teks asal bahasa Inggeris: "Oxytocin receptor agonist" ([ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668), CC BY-SA 3.0; diakses 2026-11-19). Carbetocin diketahui sebagai analog oksitosin bertindak panjang yang mengaktifkan reseptor oksitosin (OXTR). Namun, tiada hubungan mekanistik antara pengaktifan reseptor ini dengan patofisiologi sindrom seperti isotretinoin dapat dibina daripada data yang dikumpulkan untuk laporan ini.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Carbetocin ialah (terjemahan tidak rasmi): “Agonis reseptor oksitosin”. Teks asal bahasa Inggeris: "Oxytocin receptor agonist" ([ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668), CC BY-SA 3.0; diakses 2026-11-19). Carbetocin diketahui sebagai analog oksitosin bertindak panjang yang mengaktifkan reseptor oksitosin (OXTR). Namun, tiada hubungan mekanistik antara pengaktifan reseptor ini dengan patofisiologi sindrom seperti isotretinoin dapat dibina daripada data yang dikumpulkan untuk laporan ini.
 
 Skor yang tinggi (0,9915) kemungkinan besar mencerminkan kedekatan rangkaian data dengan penyakit-penyakit sindromik lain, bukan laluan biologi yang telah disahkan. Ini ialah ramalan pengiraan sahaja dan belum disokong oleh bukti bebas. Keserasian laluan pentadbiran dan kesamaan dengan indikasi asal juga belum dinilai.
 
@@ -91,7 +91,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit von Willebrand palsu
 
 ## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Albutrepenonacog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan IX” Teks asal bahasa Inggeris: "Coagulation factor IX exogenous protein" ([ChEMBL CHEMBL5315076 (albutrepenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315076), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, albutrepenonacog alfa ialah faktor IX rekombinan yang menggantikan faktor IX yang kurang dan menyokong lata pembekuan intrinsik.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Albutrepenonacog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan IX”. Teks asal bahasa Inggeris: "Coagulation factor IX exogenous protein" ([ChEMBL CHEMBL5315076 (albutrepenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315076), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, albutrepenonacog alfa ialah faktor IX rekombinan yang menggantikan faktor IX yang kurang dan menyokong lata pembekuan intrinsik.
 
 Penyakit von Willebrand palsu (jenis platelet) berpunca daripada mutasi peningkatan fungsi pada GPIbα platelet. Ini meningkatkan pertalian platelet terhadap faktor von Willebrand (VWF), lalu platelet dibersihkan dengan cepat dan multimer VWF berberat molekul tinggi hilang. Kecacatan ini terletak pada laluan platelet/VWF, bukan kekurangan faktor IX. Oleh itu, tiada hubungan mekanistik yang munasabah antara penggantian faktor IX dengan penyakit ini.
 
@@ -98,7 +98,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL5315076 (albutrepenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315076) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL5315076 (albutrepenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315076) |
 
 <!-- review:end log -->
 

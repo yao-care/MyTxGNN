@@ -54,7 +54,7 @@ Azathioprine ialah ubat imunosupresif daripada kelas antimetabolit purin. Model 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Azathioprine ialah (terjemahan tidak rasmi): “Perencat amidofosforibosiltransferase; perencat DNA” Teks asal bahasa Inggeris: "Amidophosphoribosyltransferase inhibitor; DNA inhibitor" ([ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542), CC BY-SA 3.0; diakses 2026-11-19). Secara umumnya, azathioprine ialah antimetabolit purin yang menekan keupayaan sistem imun.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Azathioprine ialah (terjemahan tidak rasmi): “Perencat amidofosforibosiltransferase; perencat DNA”. Teks asal bahasa Inggeris: "Amidophosphoribosyltransferase inhibitor; DNA inhibitor" ([ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542), CC BY-SA 3.0; diakses 2026-11-19). Secara umumnya, azathioprine ialah antimetabolit purin yang menekan keupayaan sistem imun.
 
 Sindrom yang diramalkan ini ialah sindrom malformasi perkembangan yang jarang berlaku, melibatkan mata dan rangka. Tiada hubungan mekanistik yang jelas dengan tindakan imunosupresif azathioprine, kerana patologinya tidak bersifat imun atau radang. Skor TxGNN yang sangat tinggi (hampir 1) hanyalah ramalan model dan tidak disokong oleh bukti klinikal atau penerbitan. Skor ini tidak boleh ditafsirkan sebagai bukti keberkesanan.
 
@@ -97,7 +97,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542) |
 
 <!-- review:end log -->
 

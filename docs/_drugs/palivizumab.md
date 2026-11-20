@@ -58,7 +58,7 @@ Palivizumab ialah antibodi monoklonal manusiawi (humanized) yang menyasarkan pro
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Palivizumab ialah (terjemahan tidak rasmi): “Perencat glikoprotein gabungan F0” Teks asal bahasa Inggeris: "Fusion glycoprotein F0 inhibitor" ([ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat sedia ada, palivizumab ialah antibodi monoklonal yang menyasarkan protein F RSV, iaitu antigen virus, dan bukan antigen tumor.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Palivizumab ialah (terjemahan tidak rasmi): “Perencat glikoprotein gabungan F0”. Teks asal bahasa Inggeris: "Fusion glycoprotein F0 inhibitor" ([ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat sedia ada, palivizumab ialah antibodi monoklonal yang menyasarkan protein F RSV, iaitu antigen virus, dan bukan antigen tumor.
 
 Tiada hubungan mekanistik yang munasabah antara peneutralan protein F RSV dan neoplasma jinak lidah. Skor TxGNN yang tinggi (0.9994) ialah ramalan pengiraan sahaja dan tidak disokong oleh sebarang ujian atau literatur. Lesi jinak juga biasanya tidak memerlukan terapi antibodi sistemik.
 
@@ -117,7 +117,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Palivizumab pada masa ini tidak mempunyai pendaftaran di Malaysia (0 lesen) mengikut data NPRA yang dikompilasi" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586) |
 
 <!-- review:end log -->
 

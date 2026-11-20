@@ -58,7 +58,7 @@ Carbimazole ialah ubat antitiroid yang bertindak sebagai prodrug kepada metimazo
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Carbimazole ialah prodrug kepada metimazol. Ia merencat peroksidase tiroid dan mengurangkan sintesis hormon tiroid. Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Carbimazole ialah (terjemahan tidak rasmi): “Perencat peroksidase tiroid” Teks asal bahasa Inggeris: "Thyroid peroxidase inhibitor" ([ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102), CC BY-SA 3.0; diakses 2026-11-19).
+Carbimazole ialah prodrug kepada metimazol. Ia merencat peroksidase tiroid dan mengurangkan sintesis hormon tiroid. Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Carbimazole ialah (terjemahan tidak rasmi): “Perencat peroksidase tiroid”. Teks asal bahasa Inggeris: "Thyroid peroxidase inhibitor" ([ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102), CC BY-SA 3.0; diakses 2026-11-19).
 
 Dalam rintangan hormon tiroid jenis beta (RTH-beta), kecacatan terletak pada tindak balas tisu di peringkat reseptor. Ciri biokimianya ialah tiroksin bebas (fT4) yang tinggi dan TSH yang tidak tertekan. Skor TxGNN yang tinggi berkemungkinan mencerminkan fenotip biokimia yang sama, iaitu hormon tiroid yang meningkat, dan bukan kesesuaian terapeutik sebenar.
 
@@ -108,7 +108,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102) |
 
 <!-- review:end log -->
 

@@ -59,7 +59,7 @@ Norfloxacin ialah antibakteria kumpulan fluoroquinolone yang pada asalnya diguna
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Norfloxacin ialah (terjemahan tidak rasmi): “Perencat topoisomerase IV; Perencat DNA girase bakteria” Teks asal bahasa Inggeris: "Topoisomerase IV inhibitor; Bacterial DNA gyrase inhibitor" ([ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9), CC BY-SA 3.0; diakses 2026-11-19). Secara umum diketahui bahawa norfloxacin ialah fluoroquinolone yang menghalang DNA gyrase dan topoisomerase IV bakteria, dan keberkesanannya dalam jangkitan bakteria telah dibuktikan.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Norfloxacin ialah (terjemahan tidak rasmi): “Perencat topoisomerase IV; Perencat DNA girase bakteria”. Teks asal bahasa Inggeris: "Topoisomerase IV inhibitor; Bacterial DNA gyrase inhibitor" ([ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9), CC BY-SA 3.0; diakses 2026-11-19). Secara umum diketahui bahawa norfloxacin ialah fluoroquinolone yang menghalang DNA gyrase dan topoisomerase IV bakteria, dan keberkesanannya dalam jangkitan bakteria telah dibuktikan.
 
 Namun, polyclonal hyperviscosity syndrome disebabkan oleh lebihan imunoglobulin dan tidak mempunyai sasaran antibakteria yang jelas. **Tiada hubungan mekanistik yang munasabah dapat dikenal pasti.** Skor TxGNN yang tinggi (0.9970) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Skor ini tidak disokong oleh data percubaan atau literatur. Ramalan ini perlu dilihat sebagai isyarat komputasi, bukan rasional biologi.
 
@@ -141,7 +141,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9) |
 
 <!-- review:end log -->
 

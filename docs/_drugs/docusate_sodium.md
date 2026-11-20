@@ -55,7 +55,7 @@ Docusate sodium ialah surfaktan anionik yang bertindak sebagai pelembut najis. M
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Docusate Sodium ialah (terjemahan tidak rasmi): “Julap surfaktan” Teks asal bahasa Inggeris: "Surfactant laxative" ([ChEMBL CHEMBL1477036 (docusate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1477036), CC BY-SA 3.0; diakses 2026-11-19). Docusate sodium ialah surfaktan anionik yang bertindak secara setempat dan meningkatkan penembusan air serta lemak ke dalam najis.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Docusate Sodium ialah (terjemahan tidak rasmi): “Julap surfaktan”. Teks asal bahasa Inggeris: "Surfactant laxative" ([ChEMBL CHEMBL1477036 (docusate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1477036), CC BY-SA 3.0; diakses 2026-11-19). Docusate sodium ialah surfaktan anionik yang bertindak secara setempat dan meningkatkan penembusan air serta lemak ke dalam najis.
 
 Sindrom Plummer-Vinson dicirikan oleh anemia kekurangan zat besi, disfagia dan web esofagus, dan dirawat dengan penggantian zat besi serta pelebaran esofagus. Tiada kaitan mekanistik yang boleh dipercayai dikenal pasti antara kedua-duanya. Aktiviti surfaktan secara teori boleh mengubah kebolehtelapan mukosa atau mengganggu penyerapan zat besi, tetapi ini hanya spekulasi dan, jika ada, lebih menunjukkan ketiadaan manfaat. Skor tinggi daripada model kelihatan sebagai ramalan semata-mata tanpa asas biologi yang menyokong.
 
@@ -98,7 +98,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL1477036 (docusate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1477036) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL1477036 (docusate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1477036) |
 
 <!-- review:end log -->
 

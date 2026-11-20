@@ -62,7 +62,7 @@ Nota tahap bukti: tiada ujian klinikal atau penerbitan yang mengkaji streptokina
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Streptokinase ialah (terjemahan tidak rasmi): “Pengaktif plasminogen” Teks asal bahasa Inggeris: "Plasminogen activator" ([ChEMBL CHEMBL2108147 (streptokinase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108147), CC BY-SA 3.0; diakses 2026-11-19). Streptokinase diketahui sebagai pengaktif plasminogen yang menukar plasminogen kepada plasmin, lalu menguraikan fibrin dalam trombus.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Streptokinase ialah (terjemahan tidak rasmi): “Pengaktif plasminogen”. Teks asal bahasa Inggeris: "Plasminogen activator" ([ChEMBL CHEMBL2108147 (streptokinase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108147), CC BY-SA 3.0; diakses 2026-11-19). Streptokinase diketahui sebagai pengaktif plasminogen yang menukar plasminogen kepada plasmin, lalu menguraikan fibrin dalam trombus.
 
 Angina Prinzmetal (varian) terutamanya disebabkan oleh **spasma arteri koronari**, bukan trombus, jadi kesesuaian mekanistiknya lemah.
 
@@ -141,7 +141,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL2108147 (streptokinase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108147) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL2108147 (streptokinase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108147) |
 
 <!-- review:end log -->
 

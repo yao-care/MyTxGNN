@@ -58,7 +58,7 @@ Domperidone ialah antagonis reseptor dopamin D2/D3 periferi yang digunakan untuk
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Domperidone ialah (terjemahan tidak rasmi): “Antagonis reseptor dopamina D2” Teks asal bahasa Inggeris: "Dopamine D2 receptor antagonist" ([ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, domperidone ialah antagonis reseptor dopamin D2 (DRD2) dan D3 (DRD3) periferi. Kegunaannya dalam gangguan gastrousus telah mantap, tetapi hubungan mekanistiknya dengan NSIAD belum terbukti.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Domperidone ialah (terjemahan tidak rasmi): “Antagonis reseptor dopamina D2”. Teks asal bahasa Inggeris: "Dopamine D2 receptor antagonist" ([ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, domperidone ialah antagonis reseptor dopamin D2 (DRD2) dan D3 (DRD3) periferi. Kegunaannya dalam gangguan gastrousus telah mantap, tetapi hubungan mekanistiknya dengan NSIAD belum terbukti.
 
 NSIAD berpunca daripada mutasi gain-of-function pada reseptor vasopresin V2 (AVPR2, contohnya R137C/R137L) atau, dalam sesetengah kes, isyarat berkaitan GNAS. Ini menyebabkan antidiuresis berterusan tanpa bergantung pada vasopresin. Domperidone tidak mempunyai kesan yang diketahui terhadap reseptor V2 atau laluan hiliran cAMP/akuaporin-2.
 
@@ -114,7 +114,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916) |
 
 <!-- review:end log -->
 

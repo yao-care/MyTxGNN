@@ -54,7 +54,7 @@ Tegafur ialah prodrug fluorourasil (5-FU) yang digunakan dalam produk gabungan b
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Tegafur ialah (terjemahan tidak rasmi): “Perencat RNA; Perencat timidilat sintase; Perencat DNA” Teks asal bahasa Inggeris: "RNA inhibitor; Thymidylate synthase inhibitor; DNA inhibitor" ([ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883), CC BY-SA 3.0; diakses 2026-11-19). Secara umumnya, tegafur ialah prodrug 5-FU, iaitu agen antimetabolit yang menyekat timidilat sintase dan mengganggu sintesis DNA sel yang membahagi dengan pantas.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Tegafur ialah (terjemahan tidak rasmi): “Perencat RNA; Perencat timidilat sintase; Perencat DNA”. Teks asal bahasa Inggeris: "RNA inhibitor; Thymidylate synthase inhibitor; DNA inhibitor" ([ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883), CC BY-SA 3.0; diakses 2026-11-19). Secara umumnya, tegafur ialah prodrug 5-FU, iaitu agen antimetabolit yang menyekat timidilat sintase dan mengganggu sintesis DNA sel yang membahagi dengan pantas.
 
 Namun, adenoma vilus ialah lesi prakanser benigna yang dirawat dengan reseksi endoskopik atau pembedahan, dan kemoterapi sitotoksik tiada peranan yang mantap. Justeru, asas mekanistik bagi penggunaan ini lemah dan ramalan ini perlu ditafsir dengan sangat berhati-hati.
 
@@ -111,7 +111,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883) |
 
 <!-- review:end log -->
 

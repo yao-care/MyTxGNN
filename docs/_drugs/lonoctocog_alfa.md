@@ -60,7 +60,7 @@ Ramalan ini hanya berasaskan model pengiraan.
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Lonoctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII” Teks asal bahasa Inggeris: "Coagulation factor VIII exogenous protein" ([ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, lonoctocog alfa ialah faktor VIII rekombinan rantai tunggal dengan afiniti yang dipertingkat terhadap faktor von Willebrand (VWF). Keberkesanannya dalam hemofilia telah dibuktikan, dan secara mekanisme ia mungkin releven kepada penyakit pseudo-von Willebrand.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Lonoctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII”. Teks asal bahasa Inggeris: "Coagulation factor VIII exogenous protein" ([ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, lonoctocog alfa ialah faktor VIII rekombinan rantai tunggal dengan afiniti yang dipertingkat terhadap faktor von Willebrand (VWF). Keberkesanannya dalam hemofilia telah dibuktikan, dan secara mekanisme ia mungkin releven kepada penyakit pseudo-von Willebrand.
 
 Penyakit pseudo-von Willebrand (VWD jenis platelet) disebabkan oleh varian gain-of-function pada GP1BA yang meningkatkan pengikatan GPIb platelet kepada VWF. Ini menyebabkan kehilangan multimer VWF berat molekul tinggi dan seterusnya mengurangkan kestabilan FVIII. Oleh itu, wujud kaitan teori melalui interaksi FVIII-VWF.
 
@@ -106,7 +106,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603) |
 
 <!-- review:end log -->
 

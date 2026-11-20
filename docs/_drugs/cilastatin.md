@@ -54,7 +54,7 @@ Cilastatin ialah perencat dehidropeptidase-I buah pinggang yang dicampurkan deng
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Cilastatin ialah (terjemahan tidak rasmi): “Perencat dipeptidase renal” Teks asal bahasa Inggeris: "Renal dipeptidase inhibitor" ([ChEMBL CHEMBL766 (cilastatin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL766), CC BY-SA 3.0; diakses 2026-11-19). Cilastatin diketahui sebagai perencat dehidropeptidase-I buah pinggang tanpa aktiviti anti-bakteria sendiri. Ia digunakan bersama imipenem supaya karbapenem itu tidak dimetabolismekan di buah pinggang.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Cilastatin ialah (terjemahan tidak rasmi): “Perencat dipeptidase renal”. Teks asal bahasa Inggeris: "Renal dipeptidase inhibitor" ([ChEMBL CHEMBL766 (cilastatin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL766), CC BY-SA 3.0; diakses 2026-11-19). Cilastatin diketahui sebagai perencat dehidropeptidase-I buah pinggang tanpa aktiviti anti-bakteria sendiri. Ia digunakan bersama imipenem supaya karbapenem itu tidak dimetabolismekan di buah pinggang.
 
 Oleh itu, isyarat ramalan ini ialah kesan produk gabungan, bukan kesan penggunaan semula cilastatin sahaja. Kesan anti-*S. aureus* berpunca daripada imipenem. Cilastatin mungkin menambah perlindungan buah pinggang dalam regimen antibiotik, tetapi perkara ini tidak ditunjukkan untuk indikasi ini.
 
@@ -123,7 +123,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL766 (cilastatin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL766) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL766 (cilastatin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL766) |
 
 <!-- review:end log -->
 

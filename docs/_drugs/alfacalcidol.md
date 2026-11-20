@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **konodisplasia kraniofasial** 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Alfacalcidol ialah (terjemahan tidak rasmi): “Agonis reseptor vitamin D” Teks asal bahasa Inggeris: "Vitamin D receptor agonist" ([ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, alfacalcidol ialah analog vitamin D yang telah dihidroksilasi pada kedudukan alfa-1 dan ditukarkan di hati kepada kalsitriol. Ia mengawal keseimbangan kalsium dan fosfat serta mineralisasi tulang. Secara mekanistik, ia mungkin relevan kepada penyakit rangka yang mempunyai komponen metabolisme mineral.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Alfacalcidol ialah (terjemahan tidak rasmi): “Agonis reseptor vitamin D”. Teks asal bahasa Inggeris: "Vitamin D receptor agonist" ([ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, alfacalcidol ialah analog vitamin D yang telah dihidroksilasi pada kedudukan alfa-1 dan ditukarkan di hati kepada kalsitriol. Ia mengawal keseimbangan kalsium dan fosfat serta mineralisasi tulang. Secara mekanistik, ia mungkin relevan kepada penyakit rangka yang mempunyai komponen metabolisme mineral.
 
 Walau bagaimanapun, hubungan ini belum disahkan. Konodisplasia kraniofasial ialah gangguan rangka yang jarang berlaku, dan tiada data yang tersedia untuk menyokong mekanisme khusus yang menghubungkan alfacalcidol dengan penyakit ini. Skor TxGNN yang tinggi hanyalah ramalan pengiraan dan tidak boleh dianggap sebagai bukti keberkesanan.
 
@@ -119,7 +119,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669) |
 
 <!-- review:end log -->
 

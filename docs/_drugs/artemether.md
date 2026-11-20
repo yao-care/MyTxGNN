@@ -54,7 +54,7 @@ Artemether ialah ubat daripada kumpulan artemisinin yang berdaftar di Malaysia. 
 
 ## Mengapa Ramalan Ini Wajar Dipertimbangkan?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Artemether ialah (terjemahan tidak rasmi): “Perencat feriprotoporfirin IX” Teks asal bahasa Inggeris: "Ferriprotoporphyrin IX inhibitor" ([ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534), CC BY-SA 3.0; diakses 2026-11-19).
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Artemether ialah (terjemahan tidak rasmi): “Perencat feriprotoporfirin IX”. Teks asal bahasa Inggeris: "Ferriprotoporphyrin IX inhibitor" ([ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534), CC BY-SA 3.0; diakses 2026-11-19).
 
 Angioedema didapati melibatkan laluan bradikinin atau komplemen (perencat C1), dan tiada bukti bahawa artemether mempengaruhi laluan ini. Tiada hubungan mekanisme yang munasabah dapat dikenal pasti. Skor TxGNN yang tinggi (0.9990) merupakan ramalan model sahaja dan tidak disokong oleh ujian klinikal mahupun literatur.
 
@@ -102,7 +102,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534) |
 
 <!-- review:end log -->
 

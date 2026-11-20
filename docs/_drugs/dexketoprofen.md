@@ -59,7 +59,7 @@ Setakat ini **tiada ujian klinikal** dan hanya **1 penerbitan** berkaitan secara
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Dexketoprofen ialah (terjemahan tidak rasmi): “Perencat siklooksigenase” Teks asal bahasa Inggeris: "Cyclooxygenase inhibitor" ([ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, deksketoprofen tergolong dalam kelas NSAID yang merencat enzim COX-1 dan COX-2, dan secara mekanisme mungkin sesuai untuk tendinitis.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Dexketoprofen ialah (terjemahan tidak rasmi): “Perencat siklooksigenase”. Teks asal bahasa Inggeris: "Cyclooxygenase inhibitor" ([ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, deksketoprofen tergolong dalam kelas NSAID yang merencat enzim COX-1 dan COX-2, dan secara mekanisme mungkin sesuai untuk tendinitis.
 
 Perencatan COX mengurangkan penghasilan prostaglandin, iaitu perantara utama keradangan dan kesakitan. Tendinitis ialah keradangan tendon yang disertai kesakitan, jadi pengurangan keradangan dan kesakitan melalui perencatan prostaglandin secara teori munasabah.
 
@@ -117,7 +117,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "dan ubat ini tidak mempunyai pendaftaran di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435) |
 
 <!-- review:end log -->
 

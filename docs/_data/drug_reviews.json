@@ -4910,7 +4910,7 @@
    "file": "agomelatine.md",
    "action": "mechanism",
    "claim": "Data mekanisme tindakan terperinci tidak tersedia buat masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Agomelatine ialah (terjemahan tidak rasmi): “Agonis reseptor melatonin; Antagonis reseptor serotonin 2c (5-HT2c)” Teks asal bahasa Inggeris: \"Melatonin receptor agonist; Serotonin 2c (5-HT2c) receptor antagonist\" ([ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Agomelatine ialah (terjemahan tidak rasmi): “Agonis reseptor melatonin; Antagonis reseptor serotonin 2c (5-HT2c)”. Teks asal bahasa Inggeris: \"Melatonin receptor agonist; Serotonin 2c (5-HT2c) receptor antagonist\" ([ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -4927,7 +4927,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Agomelatine ialah (terjemahan tidak rasmi): “Agonis reseptor melatonin; Antagonis reseptor serotonin 2c (5-HT2c)” Teks asal bahasa Inggeris: \"Melatonin receptor agonist; Serotonin 2c (5-HT2c) receptor antagonist\" ([ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-albutrepenonacog_alfa-1",
@@ -4935,7 +4942,7 @@
    "file": "albutrepenonacog_alfa.md",
    "action": "mechanism",
    "claim": "Butiran mekanisme tindakan asal tidak terdapat dalam data yang dihimpunkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Albutrepenonacog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan IX” Teks asal bahasa Inggeris: \"Coagulation factor IX exogenous protein\" ([ChEMBL CHEMBL5315076 (albutrepenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315076), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Albutrepenonacog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan IX”. Teks asal bahasa Inggeris: \"Coagulation factor IX exogenous protein\" ([ChEMBL CHEMBL5315076 (albutrepenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315076), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -4952,7 +4959,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Albutrepenonacog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan IX” Teks asal bahasa Inggeris: \"Coagulation factor IX exogenous protein\" ([ChEMBL CHEMBL5315076 (albutrepenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315076), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-alectinib_hydrochloride-1",
@@ -4987,7 +5001,7 @@
    "file": "alfacalcidol.md",
    "action": "mechanism",
    "claim": "Maklumat terperinci tentang mekanisme tindakan tidak tersedia buat masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Alfacalcidol ialah (terjemahan tidak rasmi): “Agonis reseptor vitamin D” Teks asal bahasa Inggeris: \"Vitamin D receptor agonist\" ([ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Alfacalcidol ialah (terjemahan tidak rasmi): “Agonis reseptor vitamin D”. Teks asal bahasa Inggeris: \"Vitamin D receptor agonist\" ([ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -5004,7 +5018,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Alfacalcidol ialah (terjemahan tidak rasmi): “Agonis reseptor vitamin D” Teks asal bahasa Inggeris: \"Vitamin D receptor agonist\" ([ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-alfuzosin-1",
@@ -5552,7 +5573,7 @@
    "file": "artemether.md",
    "action": "mechanism",
    "claim": "Data mekanisme tindakan terperinci untuk artemether tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Artemether ialah (terjemahan tidak rasmi): “Perencat feriprotoporfirin IX” Teks asal bahasa Inggeris: \"Ferriprotoporphyrin IX inhibitor\" ([ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Artemether ialah (terjemahan tidak rasmi): “Perencat feriprotoporfirin IX”. Teks asal bahasa Inggeris: \"Ferriprotoporphyrin IX inhibitor\" ([ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -5569,7 +5590,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Artemether ialah (terjemahan tidak rasmi): “Perencat feriprotoporfirin IX” Teks asal bahasa Inggeris: \"Ferriprotoporphyrin IX inhibitor\" ([ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-ascorbic_acid-1",
@@ -5739,7 +5767,7 @@
    "file": "atosiban.md",
    "action": "mechanism",
    "claim": "Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Atosiban ialah (terjemahan tidak rasmi): “Antagonis reseptor oksitosin” Teks asal bahasa Inggeris: \"Oxytocin receptor antagonist\" ([ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Atosiban ialah (terjemahan tidak rasmi): “Antagonis reseptor oksitosin”. Teks asal bahasa Inggeris: \"Oxytocin receptor antagonist\" ([ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -5756,7 +5784,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Atosiban ialah (terjemahan tidak rasmi): “Antagonis reseptor oksitosin” Teks asal bahasa Inggeris: \"Oxytocin receptor antagonist\" ([ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-atracurium_besylate-1",
@@ -5872,7 +5907,7 @@
    "file": "azathioprine.md",
    "action": "mechanism",
    "claim": "Data terperinci tentang mekanisme tindakan azathioprine tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Azathioprine ialah (terjemahan tidak rasmi): “Perencat amidofosforibosiltransferase; perencat DNA” Teks asal bahasa Inggeris: \"Amidophosphoribosyltransferase inhibitor; DNA inhibitor\" ([ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Azathioprine ialah (terjemahan tidak rasmi): “Perencat amidofosforibosiltransferase; perencat DNA”. Teks asal bahasa Inggeris: \"Amidophosphoribosyltransferase inhibitor; DNA inhibitor\" ([ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -5889,7 +5924,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Azathioprine ialah (terjemahan tidak rasmi): “Perencat amidofosforibosiltransferase; perencat DNA” Teks asal bahasa Inggeris: \"Amidophosphoribosyltransferase inhibitor; DNA inhibitor\" ([ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-azithromycin-1",
@@ -5924,7 +5966,7 @@
    "file": "bacitracin.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan (MOA) pada masa ini tidak tersedia.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Bacitracin ialah (terjemahan tidak rasmi): “Perencat C55-isoprenil pirofosfat” Teks asal bahasa Inggeris: \"C55-isoprenyl pyrophosphate inhibitor\" ([ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Bacitracin ialah (terjemahan tidak rasmi): “Perencat C55-isoprenil pirofosfat”. Teks asal bahasa Inggeris: \"C55-isoprenyl pyrophosphate inhibitor\" ([ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -5941,7 +5983,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Bacitracin ialah (terjemahan tidak rasmi): “Perencat C55-isoprenil pirofosfat” Teks asal bahasa Inggeris: \"C55-isoprenyl pyrophosphate inhibitor\" ([ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-baclofen-1",
@@ -6138,7 +6187,7 @@
    "file": "benzbromarone.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Benzbromarone ialah (terjemahan tidak rasmi): “Perencat ahli 12 famili pembawa zat terlarut 22” Teks asal bahasa Inggeris: \"Solute carrier family 22 member 12 inhibitor\" ([ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Benzbromarone ialah (terjemahan tidak rasmi): “Perencat ahli 12 famili pembawa zat terlarut 22”. Teks asal bahasa Inggeris: \"Solute carrier family 22 member 12 inhibitor\" ([ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -6155,7 +6204,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Benzbromarone ialah (terjemahan tidak rasmi): “Perencat ahli 12 famili pembawa zat terlarut 22” Teks asal bahasa Inggeris: \"Solute carrier family 22 member 12 inhibitor\" ([ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-benzoyl_peroxide-1",
@@ -6190,7 +6246,7 @@
    "file": "benzydamine_hydrochloride.md",
    "action": "mechanism",
    "claim": "Data mekanisme tindakan terperinci tidak tersedia pada masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Benzydamine Hydrochloride ialah (terjemahan tidak rasmi): “Perencat siklooksigenase” Teks asal bahasa Inggeris: \"Cyclooxygenase inhibitor\" ([ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Benzydamine Hydrochloride ialah (terjemahan tidak rasmi): “Perencat siklooksigenase”. Teks asal bahasa Inggeris: \"Cyclooxygenase inhibitor\" ([ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -6207,7 +6263,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Benzydamine Hydrochloride ialah (terjemahan tidak rasmi): “Perencat siklooksigenase” Teks asal bahasa Inggeris: \"Cyclooxygenase inhibitor\" ([ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-betamethasone-1",
@@ -6431,7 +6494,7 @@
    "file": "bromazepam.md",
    "action": "mechanism",
    "claim": "Data terperinci tentang mekanisme tindakan bromazepam tidak tersedia dalam data yang dihimpunkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Bromazepam ialah (terjemahan tidak rasmi): “Pemodulat alosterik positif subunit alfa-2 reseptor GABA” Teks asal bahasa Inggeris: \"GABA receptor alpha-2 subunit positive allosteric modulator\" ([ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Bromazepam ialah (terjemahan tidak rasmi): “Pemodulat alosterik positif subunit alfa-2 reseptor GABA”. Teks asal bahasa Inggeris: \"GABA receptor alpha-2 subunit positive allosteric modulator\" ([ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -6448,7 +6511,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Bromazepam ialah (terjemahan tidak rasmi): “Pemodulat alosterik positif subunit alfa-2 reseptor GABA” Teks asal bahasa Inggeris: \"GABA receptor alpha-2 subunit positive allosteric modulator\" ([ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-bromocriptine-1",
@@ -6861,7 +6931,7 @@
    "file": "carbetocin.md",
    "action": "mechanism",
    "claim": "Data mekanisme tindakan terperinci tidak tersedia pada masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Carbetocin ialah (terjemahan tidak rasmi): “Agonis reseptor oksitosin” Teks asal bahasa Inggeris: \"Oxytocin receptor agonist\" ([ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Carbetocin ialah (terjemahan tidak rasmi): “Agonis reseptor oksitosin”. Teks asal bahasa Inggeris: \"Oxytocin receptor agonist\" ([ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -6878,7 +6948,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Carbetocin ialah (terjemahan tidak rasmi): “Agonis reseptor oksitosin” Teks asal bahasa Inggeris: \"Oxytocin receptor agonist\" ([ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-carbimazole-1",
@@ -6886,7 +6963,7 @@
    "file": "carbimazole.md",
    "action": "mechanism",
    "claim": "Data terperinci tentang mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini, maka penerangan di atas berdasarkan pengetahuan farmakologi umum.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Carbimazole ialah (terjemahan tidak rasmi): “Perencat peroksidase tiroid” Teks asal bahasa Inggeris: \"Thyroid peroxidase inhibitor\" ([ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Carbimazole ialah (terjemahan tidak rasmi): “Perencat peroksidase tiroid”. Teks asal bahasa Inggeris: \"Thyroid peroxidase inhibitor\" ([ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -6903,7 +6980,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Carbimazole ialah (terjemahan tidak rasmi): “Perencat peroksidase tiroid” Teks asal bahasa Inggeris: \"Thyroid peroxidase inhibitor\" ([ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-carboplatin-1",
@@ -7343,7 +7427,7 @@
    "file": "cholecalciferol.md",
    "action": "mechanism",
    "claim": "Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Cholecalciferol ialah (terjemahan tidak rasmi): “Agonis reseptor vitamin D” Teks asal bahasa Inggeris: \"Vitamin D receptor agonist\" ([ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Cholecalciferol ialah (terjemahan tidak rasmi): “Agonis reseptor vitamin D”. Teks asal bahasa Inggeris: \"Vitamin D receptor agonist\" ([ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -7360,7 +7444,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Cholecalciferol ialah (terjemahan tidak rasmi): “Agonis reseptor vitamin D” Teks asal bahasa Inggeris: \"Vitamin D receptor agonist\" ([ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-ciclesonide-1",
@@ -7395,7 +7486,7 @@
    "file": "cilastatin.md",
    "action": "mechanism",
    "claim": "Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Cilastatin ialah (terjemahan tidak rasmi): “Perencat dipeptidase renal” Teks asal bahasa Inggeris: \"Renal dipeptidase inhibitor\" ([ChEMBL CHEMBL766 (cilastatin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL766), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Cilastatin ialah (terjemahan tidak rasmi): “Perencat dipeptidase renal”. Teks asal bahasa Inggeris: \"Renal dipeptidase inhibitor\" ([ChEMBL CHEMBL766 (cilastatin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL766), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -7412,7 +7503,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Cilastatin ialah (terjemahan tidak rasmi): “Perencat dipeptidase renal” Teks asal bahasa Inggeris: \"Renal dipeptidase inhibitor\" ([ChEMBL CHEMBL766 (cilastatin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL766), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-cimetidine-1",
@@ -7771,7 +7869,7 @@
    "file": "corifollitropin_alfa.md",
    "action": "mechanism",
    "claim": "Data mekanisme tindakan (MOA) terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Corifollitropin Alfa ialah (terjemahan tidak rasmi): “Agonis reseptor hormon perangsang folikel” Teks asal bahasa Inggeris: \"Follicle stimulating hormone receptor agonist\" ([ChEMBL CHEMBL2108185 (corifollitropin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108185), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Corifollitropin Alfa ialah (terjemahan tidak rasmi): “Agonis reseptor hormon perangsang folikel”. Teks asal bahasa Inggeris: \"Follicle stimulating hormone receptor agonist\" ([ChEMBL CHEMBL2108185 (corifollitropin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108185), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -7788,7 +7886,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Corifollitropin Alfa ialah (terjemahan tidak rasmi): “Agonis reseptor hormon perangsang folikel” Teks asal bahasa Inggeris: \"Follicle stimulating hormone receptor agonist\" ([ChEMBL CHEMBL2108185 (corifollitropin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108185), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-crizotinib-1",
@@ -7985,7 +8090,7 @@
    "file": "dacarbazine.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dihimpunkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Dacarbazine ialah (terjemahan tidak rasmi): “Perencat DNA” Teks asal bahasa Inggeris: \"DNA inhibitor\" ([ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Dacarbazine ialah (terjemahan tidak rasmi): “Perencat DNA”. Teks asal bahasa Inggeris: \"DNA inhibitor\" ([ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -8002,7 +8107,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Dacarbazine ialah (terjemahan tidak rasmi): “Perencat DNA” Teks asal bahasa Inggeris: \"DNA inhibitor\" ([ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-dapsone-1",
@@ -8253,7 +8365,7 @@
    "file": "delamanid.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Delamanid ialah (terjemahan tidak rasmi): “Perencat Mycobacterium tuberculosis H37Rv” Teks asal bahasa Inggeris: \"Mycobacterium tuberculosis H37Rv inhibitor\" ([ChEMBL CHEMBL218650 (delamanid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL218650), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Delamanid ialah (terjemahan tidak rasmi): “Perencat Mycobacterium tuberculosis H37Rv”. Teks asal bahasa Inggeris: \"Mycobacterium tuberculosis H37Rv inhibitor\" ([ChEMBL CHEMBL218650 (delamanid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL218650), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -8270,7 +8382,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Delamanid ialah (terjemahan tidak rasmi): “Perencat Mycobacterium tuberculosis H37Rv” Teks asal bahasa Inggeris: \"Mycobacterium tuberculosis H37Rv inhibitor\" ([ChEMBL CHEMBL218650 (delamanid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL218650), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-denosumab-1",
@@ -8440,7 +8559,7 @@
    "file": "dexketoprofen.md",
    "action": "mechanism",
    "claim": "Pada masa ini, data terperinci mengenai mekanisme tindakan tidak tersedia.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Dexketoprofen ialah (terjemahan tidak rasmi): “Perencat siklooksigenase” Teks asal bahasa Inggeris: \"Cyclooxygenase inhibitor\" ([ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Dexketoprofen ialah (terjemahan tidak rasmi): “Perencat siklooksigenase”. Teks asal bahasa Inggeris: \"Cyclooxygenase inhibitor\" ([ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -8457,7 +8576,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Dexketoprofen ialah (terjemahan tidak rasmi): “Perencat siklooksigenase” Teks asal bahasa Inggeris: \"Cyclooxygenase inhibitor\" ([ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-dexlansoprazole-1",
@@ -8654,7 +8780,7 @@
    "file": "diosmin.md",
    "action": "mechanism",
    "claim": "Pada masa ini, data terperinci mengenai mekanisme tindakan tidak tersedia.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Diosmin ialah (terjemahan tidak rasmi): “Tidak diketahui” Teks asal bahasa Inggeris: \"Unknown\" ([ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Diosmin ialah (terjemahan tidak rasmi): “Tidak diketahui”. Teks asal bahasa Inggeris: \"Unknown\" ([ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -8671,7 +8797,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Diosmin ialah (terjemahan tidak rasmi): “Tidak diketahui” Teks asal bahasa Inggeris: \"Unknown\" ([ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-diphenhydramine_hcl-1",
@@ -8733,7 +8866,7 @@
    "file": "docusate_sodium.md",
    "action": "mechanism",
    "claim": "Data mekanisme tindakan (MOA) terperinci tidak tersedia buat masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Docusate Sodium ialah (terjemahan tidak rasmi): “Julap surfaktan” Teks asal bahasa Inggeris: \"Surfactant laxative\" ([ChEMBL CHEMBL1477036 (docusate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1477036), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Docusate Sodium ialah (terjemahan tidak rasmi): “Julap surfaktan”. Teks asal bahasa Inggeris: \"Surfactant laxative\" ([ChEMBL CHEMBL1477036 (docusate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1477036), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -8750,7 +8883,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Docusate Sodium ialah (terjemahan tidak rasmi): “Julap surfaktan” Teks asal bahasa Inggeris: \"Surfactant laxative\" ([ChEMBL CHEMBL1477036 (docusate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1477036), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-dolutegravir-1",
@@ -8785,7 +8925,7 @@
    "file": "domperidone.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan asal tidak tersedia pada masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Domperidone ialah (terjemahan tidak rasmi): “Antagonis reseptor dopamina D2” Teks asal bahasa Inggeris: \"Dopamine D2 receptor antagonist\" ([ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Domperidone ialah (terjemahan tidak rasmi): “Antagonis reseptor dopamina D2”. Teks asal bahasa Inggeris: \"Dopamine D2 receptor antagonist\" ([ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -8802,7 +8942,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Domperidone ialah (terjemahan tidak rasmi): “Antagonis reseptor dopamina D2” Teks asal bahasa Inggeris: \"Dopamine D2 receptor antagonist\" ([ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-doxorubicin-1",
@@ -8918,7 +9065,7 @@
    "file": "ebastine.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Ebastine ialah (terjemahan tidak rasmi): “Agonis songsang reseptor histamin H1” Teks asal bahasa Inggeris: \"Histamine H1 receptor inverse agonist\" ([ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Ebastine ialah (terjemahan tidak rasmi): “Agonis songsang reseptor histamin H1”. Teks asal bahasa Inggeris: \"Histamine H1 receptor inverse agonist\" ([ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -8935,7 +9082,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Ebastine ialah (terjemahan tidak rasmi): “Agonis songsang reseptor histamin H1” Teks asal bahasa Inggeris: \"Histamine H1 receptor inverse agonist\" ([ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-eculizumab-1",
@@ -9402,7 +9556,7 @@
    "file": "etoricoxib.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan (MOA) daripada pangkalan data tidak tersedia pada masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Etoricoxib ialah (terjemahan tidak rasmi): “Perencat siklooksigenase-2” Teks asal bahasa Inggeris: \"Cyclooxygenase-2 inhibitor\" ([ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Etoricoxib ialah (terjemahan tidak rasmi): “Perencat siklooksigenase-2”. Teks asal bahasa Inggeris: \"Cyclooxygenase-2 inhibitor\" ([ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -9419,7 +9573,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Etoricoxib ialah (terjemahan tidak rasmi): “Perencat siklooksigenase-2” Teks asal bahasa Inggeris: \"Cyclooxygenase-2 inhibitor\" ([ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-everolimus-1",
@@ -9562,7 +9723,7 @@
    "file": "favipiravir.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini, tetapi sifat perencatan RdRp ini telah diketahui secara umum.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Favipiravir ialah (terjemahan tidak rasmi): “Perencat RNA polimerase bergantung RNA” Teks asal bahasa Inggeris: \"RNA-directed RNA polymerase inhibitor\" ([ChEMBL CHEMBL221722 (favipiravir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL221722), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Favipiravir ialah (terjemahan tidak rasmi): “Perencat RNA polimerase bergantung RNA”. Teks asal bahasa Inggeris: \"RNA-directed RNA polymerase inhibitor\" ([ChEMBL CHEMBL221722 (favipiravir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL221722), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -9579,7 +9740,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Favipiravir ialah (terjemahan tidak rasmi): “Perencat RNA polimerase bergantung RNA” Teks asal bahasa Inggeris: \"RNA-directed RNA polymerase inhibitor\" ([ChEMBL CHEMBL221722 (favipiravir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL221722), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-febuxostat-1",
@@ -10073,7 +10241,7 @@
    "file": "fusidic_acid.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Fusidic Acid ialah (terjemahan tidak rasmi): “Perencat faktor pemanjangan G” Teks asal bahasa Inggeris: \"Elongation factor G inhibitor\" ([ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Fusidic Acid ialah (terjemahan tidak rasmi): “Perencat faktor pemanjangan G”. Teks asal bahasa Inggeris: \"Elongation factor G inhibitor\" ([ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -10090,7 +10258,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Fusidic Acid ialah (terjemahan tidak rasmi): “Perencat faktor pemanjangan G” Teks asal bahasa Inggeris: \"Elongation factor G inhibitor\" ([ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-galcanezumab-1",
@@ -10368,7 +10543,7 @@
    "file": "guaifenesin.md",
    "action": "mechanism",
    "claim": "Data mekanisme tindakan yang terperinci tidak tersedia buat masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Guaifenesin ialah (terjemahan tidak rasmi): “Tidak diketahui” Teks asal bahasa Inggeris: \"Unknown\" ([ChEMBL CHEMBL980 (guaifenesin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL980), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Guaifenesin ialah (terjemahan tidak rasmi): “Tidak diketahui”. Teks asal bahasa Inggeris: \"Unknown\" ([ChEMBL CHEMBL980 (guaifenesin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL980), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -10385,7 +10560,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Guaifenesin ialah (terjemahan tidak rasmi): “Tidak diketahui” Teks asal bahasa Inggeris: \"Unknown\" ([ChEMBL CHEMBL980 (guaifenesin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL980), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-guselkumab-1",
@@ -10690,7 +10872,7 @@
    "file": "imipenem.md",
    "action": "mechanism",
    "claim": "Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Imipenem ialah (terjemahan tidak rasmi): “Perencat protein pengikat penisilin bakteria” Teks asal bahasa Inggeris: \"Bacterial penicillin-binding protein inhibitor\" ([ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Imipenem ialah (terjemahan tidak rasmi): “Perencat protein pengikat penisilin bakteria”. Teks asal bahasa Inggeris: \"Bacterial penicillin-binding protein inhibitor\" ([ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -10707,7 +10889,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Imipenem ialah (terjemahan tidak rasmi): “Perencat protein pengikat penisilin bakteria” Teks asal bahasa Inggeris: \"Bacterial penicillin-binding protein inhibitor\" ([ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-inclisiran-1",
@@ -11012,7 +11201,7 @@
    "file": "isoflurane.md",
    "action": "mechanism",
    "claim": "Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Isoflurane ialah (terjemahan tidak rasmi): “Pemodulat positif reseptor glisina (alfa-1/beta); reseptor GABA-A; pemodulat alosterik positif saluran anion; pembuka ahli 10 subfamili K saluran kalium; pembuka ahli 18 subfamili K saluran kalium” Teks asal bahasa Inggeris: \"Glycine receptor (alpha-1/beta) positive modulator; GABA-A receptor; anion channel positive allosteric modulator; Potassium channel subfamily K member 10 opener; Potassium channel subfamily K member 18 opener\" ([ChEMBL CHEMBL1256 (isoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1256), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Isoflurane ialah (terjemahan tidak rasmi): “Pemodulat positif reseptor glisina (alfa-1/beta); reseptor GABA-A; pemodulat alosterik positif saluran anion; pembuka ahli 10 subfamili K saluran kalium; pembuka ahli 18 subfamili K saluran kalium”. Teks asal bahasa Inggeris: \"Glycine receptor (alpha-1/beta) positive modulator; GABA-A receptor; anion channel positive allosteric modulator; Potassium channel subfamily K member 10 opener; Potassium channel subfamily K member 18 opener\" ([ChEMBL CHEMBL1256 (isoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1256), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -11029,7 +11218,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Isoflurane ialah (terjemahan tidak rasmi): “Pemodulat positif reseptor glisina (alfa-1/beta); reseptor GABA-A; pemodulat alosterik positif saluran anion; pembuka ahli 10 subfamili K saluran kalium; pembuka ahli 18 subfamili K saluran kalium” Teks asal bahasa Inggeris: \"Glycine receptor (alpha-1/beta) positive modulator; GABA-A receptor; anion channel positive allosteric modulator; Potassium channel subfamily K member 10 opener; Potassium channel subfamily K member 18 opener\" ([ChEMBL CHEMBL1256 (isoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1256), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-isoniazid-1",
@@ -11280,7 +11476,7 @@
    "file": "lactic_acid.md",
    "action": "mechanism",
    "claim": "Data terperinci tentang mekanisme tindakan asid laktik tidak tersedia pada masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Lactic Acid ialah (terjemahan tidak rasmi): “Agen penurun pH” Teks asal bahasa Inggeris: \"pH lowering agent\" ([ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Lactic Acid ialah (terjemahan tidak rasmi): “Agen penurun pH”. Teks asal bahasa Inggeris: \"pH lowering agent\" ([ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -11297,7 +11493,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Lactic Acid ialah (terjemahan tidak rasmi): “Agen penurun pH” Teks asal bahasa Inggeris: \"pH lowering agent\" ([ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-lactulose-1",
@@ -11467,7 +11670,7 @@
    "file": "ledipasvir.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Ledipasvir ialah (terjemahan tidak rasmi): “Perencat protein bukan struktur 5A” Teks asal bahasa Inggeris: \"Nonstructural protein 5A inhibitor\" ([ChEMBL CHEMBL2374220 (ledipasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2374220), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Ledipasvir ialah (terjemahan tidak rasmi): “Perencat protein bukan struktur 5A”. Teks asal bahasa Inggeris: \"Nonstructural protein 5A inhibitor\" ([ChEMBL CHEMBL2374220 (ledipasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2374220), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -11484,7 +11687,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Ledipasvir ialah (terjemahan tidak rasmi): “Perencat protein bukan struktur 5A” Teks asal bahasa Inggeris: \"Nonstructural protein 5A inhibitor\" ([ChEMBL CHEMBL2374220 (ledipasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2374220), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-leflunomide-1",
@@ -11789,7 +11999,7 @@
    "file": "lonoctocog_alfa.md",
    "action": "mechanism",
    "claim": "Data terperinci tentang mekanisme tindakan asal tidak tersedia buat masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Lonoctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII” Teks asal bahasa Inggeris: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Lonoctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII”. Teks asal bahasa Inggeris: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -11806,7 +12016,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Lonoctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII” Teks asal bahasa Inggeris: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-loperamide-1",
@@ -11841,7 +12058,7 @@
    "file": "lopinavir.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Lopinavir ialah (terjemahan tidak rasmi): “Perencat protease virus kurang daya tahan manusia jenis 1” Teks asal bahasa Inggeris: \"Human immunodeficiency virus type 1 protease inhibitor\" ([ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Lopinavir ialah (terjemahan tidak rasmi): “Perencat protease virus kurang daya tahan manusia jenis 1”. Teks asal bahasa Inggeris: \"Human immunodeficiency virus type 1 protease inhibitor\" ([ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -11858,7 +12075,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Lopinavir ialah (terjemahan tidak rasmi): “Perencat protease virus kurang daya tahan manusia jenis 1” Teks asal bahasa Inggeris: \"Human immunodeficiency virus type 1 protease inhibitor\" ([ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-lorazepam-1",
@@ -11974,7 +12198,7 @@
    "file": "loxoprofen.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan (MOA) pada masa ini tidak tersedia daripada data yang dihimpunkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Loxoprofen ialah (terjemahan tidak rasmi): “Perencat siklooksigenase” Teks asal bahasa Inggeris: \"Cyclooxygenase inhibitor\" ([ChEMBL CHEMBL19299 (loxoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19299), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Loxoprofen ialah (terjemahan tidak rasmi): “Perencat siklooksigenase”. Teks asal bahasa Inggeris: \"Cyclooxygenase inhibitor\" ([ChEMBL CHEMBL19299 (loxoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19299), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -11991,7 +12215,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Loxoprofen ialah (terjemahan tidak rasmi): “Perencat siklooksigenase” Teks asal bahasa Inggeris: \"Cyclooxygenase inhibitor\" ([ChEMBL CHEMBL19299 (loxoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19299), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-mannitol-1",
@@ -12485,7 +12716,7 @@
    "file": "minoxidil.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dihimpunkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Minoxidil ialah (terjemahan tidak rasmi): “Reseptor sulfonilurea 2, pembuka Kir6.2” Teks asal bahasa Inggeris: \"Sulfonylurea receptor 2, Kir6.2 opener\" ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Minoxidil ialah (terjemahan tidak rasmi): “Reseptor sulfonilurea 2, pembuka Kir6.2”. Teks asal bahasa Inggeris: \"Sulfonylurea receptor 2, Kir6.2 opener\" ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -12502,7 +12733,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Minoxidil ialah (terjemahan tidak rasmi): “Reseptor sulfonilurea 2, pembuka Kir6.2” Teks asal bahasa Inggeris: \"Sulfonylurea receptor 2, Kir6.2 opener\" ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-mirtazapine-1",
@@ -12564,7 +12802,7 @@
    "file": "moclobemide.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Moclobemide ialah (terjemahan tidak rasmi): “Perencat monoamina oksidase A” Teks asal bahasa Inggeris: \"Monoamine oxidase A inhibitor\" ([ChEMBL CHEMBL86304 (moclobemide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL86304), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Moclobemide ialah (terjemahan tidak rasmi): “Perencat monoamina oksidase A”. Teks asal bahasa Inggeris: \"Monoamine oxidase A inhibitor\" ([ChEMBL CHEMBL86304 (moclobemide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL86304), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -12581,7 +12819,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Moclobemide ialah (terjemahan tidak rasmi): “Perencat monoamina oksidase A” Teks asal bahasa Inggeris: \"Monoamine oxidase A inhibitor\" ([ChEMBL CHEMBL86304 (moclobemide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL86304), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-moroctocog_alfa-1",
@@ -12589,7 +12834,7 @@
    "file": "moroctocog_alfa.md",
    "action": "mechanism",
    "claim": "Maklumat terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Moroctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII” Teks asal bahasa Inggeris: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL2109137 (moroctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109137), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Moroctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII”. Teks asal bahasa Inggeris: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL2109137 (moroctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109137), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -12606,7 +12851,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Moroctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII” Teks asal bahasa Inggeris: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL2109137 (moroctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109137), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-morphine-1",
@@ -12668,7 +12920,7 @@
    "file": "moxonidine.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Moxonidine ialah (terjemahan tidak rasmi): “Agonis nischarin” Teks asal bahasa Inggeris: \"Nischarin agonist\" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Moxonidine ialah (terjemahan tidak rasmi): “Agonis nischarin”. Teks asal bahasa Inggeris: \"Nischarin agonist\" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -12685,7 +12937,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Moxonidine ialah (terjemahan tidak rasmi): “Agonis nischarin” Teks asal bahasa Inggeris: \"Nischarin agonist\" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-mupirocin-1",
@@ -12990,7 +13249,7 @@
    "file": "norfloxacin.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang disusun untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Norfloxacin ialah (terjemahan tidak rasmi): “Perencat topoisomerase IV; Perencat DNA girase bakteria” Teks asal bahasa Inggeris: \"Topoisomerase IV inhibitor; Bacterial DNA gyrase inhibitor\" ([ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Norfloxacin ialah (terjemahan tidak rasmi): “Perencat topoisomerase IV; Perencat DNA girase bakteria”. Teks asal bahasa Inggeris: \"Topoisomerase IV inhibitor; Bacterial DNA gyrase inhibitor\" ([ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -13007,7 +13266,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Norfloxacin ialah (terjemahan tidak rasmi): “Perencat topoisomerase IV; Perencat DNA girase bakteria” Teks asal bahasa Inggeris: \"Topoisomerase IV inhibitor; Bacterial DNA gyrase inhibitor\" ([ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-nystatin-1",
@@ -13339,7 +13605,7 @@
    "file": "palivizumab.md",
    "action": "mechanism",
    "claim": "Data mekanisme tindakan terperinci untuk ubat ini tidak tersedia dalam data yang dikompilasi.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Palivizumab ialah (terjemahan tidak rasmi): “Perencat glikoprotein gabungan F0” Teks asal bahasa Inggeris: \"Fusion glycoprotein F0 inhibitor\" ([ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Palivizumab ialah (terjemahan tidak rasmi): “Perencat glikoprotein gabungan F0”. Teks asal bahasa Inggeris: \"Fusion glycoprotein F0 inhibitor\" ([ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -13356,7 +13622,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Palivizumab ialah (terjemahan tidak rasmi): “Perencat glikoprotein gabungan F0” Teks asal bahasa Inggeris: \"Fusion glycoprotein F0 inhibitor\" ([ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-palonosetron-1",
@@ -14012,7 +14285,7 @@
    "file": "prochlorperazine.md",
    "action": "mechanism",
    "claim": "Pada masa ini, data terperinci tentang mekanisme tindakan (MOA) tidak tersedia.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Prochlorperazine ialah (terjemahan tidak rasmi): “Antagonis reseptor dopamina D2” Teks asal bahasa Inggeris: \"Dopamine D2 receptor antagonist\" ([ChEMBL CHEMBL728 (prochlorperazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL728), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Prochlorperazine ialah (terjemahan tidak rasmi): “Antagonis reseptor dopamina D2”. Teks asal bahasa Inggeris: \"Dopamine D2 receptor antagonist\" ([ChEMBL CHEMBL728 (prochlorperazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL728), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -14029,7 +14302,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Prochlorperazine ialah (terjemahan tidak rasmi): “Antagonis reseptor dopamina D2” Teks asal bahasa Inggeris: \"Dopamine D2 receptor antagonist\" ([ChEMBL CHEMBL728 (prochlorperazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL728), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-progesterone-1",
@@ -14118,7 +14398,7 @@
    "file": "prothrombin.md",
    "action": "mechanism",
    "claim": "Butiran mekanisme tindakan (MOA) protrombin tidak tersedia dalam data yang dikumpulkan.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Prothrombin ialah (terjemahan tidak rasmi): “Protein eksogen trombin” Teks asal bahasa Inggeris: \"Thrombin exogenous protein\" ([ChEMBL CHEMBL6068492 (prothrombin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL6068492), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Prothrombin ialah (terjemahan tidak rasmi): “Protein eksogen trombin”. Teks asal bahasa Inggeris: \"Thrombin exogenous protein\" ([ChEMBL CHEMBL6068492 (prothrombin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL6068492), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -14135,7 +14415,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Prothrombin ialah (terjemahan tidak rasmi): “Protein eksogen trombin” Teks asal bahasa Inggeris: \"Thrombin exogenous protein\" ([ChEMBL CHEMBL6068492 (prothrombin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL6068492), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-prucalopride-1",
@@ -14170,7 +14457,7 @@
    "file": "pyrazinamide.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Pyrazinamide ialah (terjemahan tidak rasmi): “Perencat sintase asid lemak; perencat ribosom 70S” Teks asal bahasa Inggeris: \"Fatty acid synthase inhibitor; 70S ribosome inhibitor\" ([ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Pyrazinamide ialah (terjemahan tidak rasmi): “Perencat sintase asid lemak; perencat ribosom 70S”. Teks asal bahasa Inggeris: \"Fatty acid synthase inhibitor; 70S ribosome inhibitor\" ([ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -14187,7 +14474,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Pyrazinamide ialah (terjemahan tidak rasmi): “Perencat sintase asid lemak; perencat ribosom 70S” Teks asal bahasa Inggeris: \"Fatty acid synthase inhibitor; 70S ribosome inhibitor\" ([ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-ramipril-1",
@@ -14897,7 +15191,7 @@
    "file": "sevoflurane.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan (MOA) buat masa ini tidak tersedia.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Sevoflurane ialah (terjemahan tidak rasmi): “Pemodulat positif reseptor glisina (alfa-1/beta); reseptor GABA-A; pemodulat alosterik positif saluran anion; pembuka ahli 10 subfamili K saluran kalium; pembuka ahli 18 subfamili K saluran kalium” Teks asal bahasa Inggeris: \"Glycine receptor (alpha-1/beta) positive modulator; GABA-A receptor; anion channel positive allosteric modulator; Potassium channel subfamily K member 10 opener; Potassium channel subfamily K member 18 opener\" ([ChEMBL CHEMBL1200694 (sevoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200694), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Sevoflurane ialah (terjemahan tidak rasmi): “Pemodulat positif reseptor glisina (alfa-1/beta); reseptor GABA-A; pemodulat alosterik positif saluran anion; pembuka ahli 10 subfamili K saluran kalium; pembuka ahli 18 subfamili K saluran kalium”. Teks asal bahasa Inggeris: \"Glycine receptor (alpha-1/beta) positive modulator; GABA-A receptor; anion channel positive allosteric modulator; Potassium channel subfamily K member 10 opener; Potassium channel subfamily K member 18 opener\" ([ChEMBL CHEMBL1200694 (sevoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200694), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -14914,7 +15208,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Sevoflurane ialah (terjemahan tidak rasmi): “Pemodulat positif reseptor glisina (alfa-1/beta); reseptor GABA-A; pemodulat alosterik positif saluran anion; pembuka ahli 10 subfamili K saluran kalium; pembuka ahli 18 subfamili K saluran kalium” Teks asal bahasa Inggeris: \"Glycine receptor (alpha-1/beta) positive modulator; GABA-A receptor; anion channel positive allosteric modulator; Potassium channel subfamily K member 10 opener; Potassium channel subfamily K member 18 opener\" ([ChEMBL CHEMBL1200694 (sevoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200694), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-silodosin-1",
@@ -14949,7 +15250,7 @@
    "file": "simoctocog_alfa.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Simoctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII” Teks asal bahasa Inggeris: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL2108319 (simoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108319), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Simoctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII”. Teks asal bahasa Inggeris: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL2108319 (simoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108319), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -14966,7 +15267,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Simoctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII” Teks asal bahasa Inggeris: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL2108319 (simoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108319), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-simvastatin-1",
@@ -15082,7 +15390,7 @@
    "file": "streptokinase.md",
    "action": "mechanism",
    "claim": "Data terperinci tentang mekanisme tindakan tidak tersedia pada masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Streptokinase ialah (terjemahan tidak rasmi): “Pengaktif plasminogen” Teks asal bahasa Inggeris: \"Plasminogen activator\" ([ChEMBL CHEMBL2108147 (streptokinase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108147), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Streptokinase ialah (terjemahan tidak rasmi): “Pengaktif plasminogen”. Teks asal bahasa Inggeris: \"Plasminogen activator\" ([ChEMBL CHEMBL2108147 (streptokinase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108147), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -15099,7 +15407,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Streptokinase ialah (terjemahan tidak rasmi): “Pengaktif plasminogen” Teks asal bahasa Inggeris: \"Plasminogen activator\" ([ChEMBL CHEMBL2108147 (streptokinase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108147), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-sulfamethoxazole-1",
@@ -15107,7 +15422,7 @@
    "file": "sulfamethoxazole.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan (MOA) ubat ini tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Sulfamethoxazole ialah (terjemahan tidak rasmi): “Perencat dihidropteroat sintase bakteria” Teks asal bahasa Inggeris: \"Bacterial dihydropteroate synthase inhibitor\" ([ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Sulfamethoxazole ialah (terjemahan tidak rasmi): “Perencat dihidropteroat sintase bakteria”. Teks asal bahasa Inggeris: \"Bacterial dihydropteroate synthase inhibitor\" ([ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -15124,7 +15439,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Sulfamethoxazole ialah (terjemahan tidak rasmi): “Perencat dihidropteroat sintase bakteria” Teks asal bahasa Inggeris: \"Bacterial dihydropteroate synthase inhibitor\" ([ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-sunitinib-1",
@@ -15240,7 +15562,7 @@
    "file": "tegafur.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan tegafur tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Tegafur ialah (terjemahan tidak rasmi): “Perencat RNA; Perencat timidilat sintase; Perencat DNA” Teks asal bahasa Inggeris: \"RNA inhibitor; Thymidylate synthase inhibitor; DNA inhibitor\" ([ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Tegafur ialah (terjemahan tidak rasmi): “Perencat RNA; Perencat timidilat sintase; Perencat DNA”. Teks asal bahasa Inggeris: \"RNA inhibitor; Thymidylate synthase inhibitor; DNA inhibitor\" ([ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -15257,7 +15579,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Tegafur ialah (terjemahan tidak rasmi): “Perencat RNA; Perencat timidilat sintase; Perencat DNA” Teks asal bahasa Inggeris: \"RNA inhibitor; Thymidylate synthase inhibitor; DNA inhibitor\" ([ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-telmisartan-1",
@@ -15913,7 +16242,7 @@
    "file": "turoctocog_alfa.md",
    "action": "mechanism",
    "claim": "Data terperinci tentang mekanisme tindakan asal pada masa ini tidak tersedia.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Turoctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII” Teks asal bahasa Inggeris: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL2108286 (turoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108286), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Turoctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII”. Teks asal bahasa Inggeris: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL2108286 (turoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108286), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -15930,7 +16259,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Turoctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII” Teks asal bahasa Inggeris: \"Coagulation factor VIII exogenous protein\" ([ChEMBL CHEMBL2108286 (turoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108286), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-upadacitinib-1",
@@ -15965,7 +16301,7 @@
    "file": "urofollitropin.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Urofollitropin ialah (terjemahan tidak rasmi): “Agonis reseptor hormon perangsang folikel” Teks asal bahasa Inggeris: \"Follicle stimulating hormone receptor agonist\" ([ChEMBL CHEMBL1201520 (urofollitropin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201520), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Urofollitropin ialah (terjemahan tidak rasmi): “Agonis reseptor hormon perangsang folikel”. Teks asal bahasa Inggeris: \"Follicle stimulating hormone receptor agonist\" ([ChEMBL CHEMBL1201520 (urofollitropin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201520), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -15982,7 +16318,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Urofollitropin ialah (terjemahan tidak rasmi): “Agonis reseptor hormon perangsang folikel” Teks asal bahasa Inggeris: \"Follicle stimulating hormone receptor agonist\" ([ChEMBL CHEMBL1201520 (urofollitropin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201520), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-ustekinumab-1",
@@ -16152,7 +16495,7 @@
    "file": "velpatasvir.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Velpatasvir ialah (terjemahan tidak rasmi): “Perencat protein bukan struktur 5A” Teks asal bahasa Inggeris: \"Nonstructural protein 5A inhibitor\" ([ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Velpatasvir ialah (terjemahan tidak rasmi): “Perencat protein bukan struktur 5A”. Teks asal bahasa Inggeris: \"Nonstructural protein 5A inhibitor\" ([ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -16169,7 +16512,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Velpatasvir ialah (terjemahan tidak rasmi): “Perencat protein bukan struktur 5A” Teks asal bahasa Inggeris: \"Nonstructural protein 5A inhibitor\" ([ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-venetoclax-1",
@@ -16204,7 +16554,7 @@
    "file": "vildagliptin.md",
    "action": "mechanism",
    "claim": "Data terperinci mengenai mekanisme tindakan asal tidak tersedia pada masa ini.",
-   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Vildagliptin ialah (terjemahan tidak rasmi): “Perencat dipeptidil peptidase IV” Teks asal bahasa Inggeris: \"Dipeptidyl peptidase IV inhibitor\" ([ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703), CC BY-SA 3.0; diakses 2026-11-19).",
+   "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Vildagliptin ialah (terjemahan tidak rasmi): “Perencat dipeptidil peptidase IV”. Teks asal bahasa Inggeris: \"Dipeptidyl peptidase IV inhibitor\" ([ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703), CC BY-SA 3.0; diakses 2026-11-19).",
    "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -16221,7 +16571,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Vildagliptin ialah (terjemahan tidak rasmi): “Perencat dipeptidil peptidase IV” Teks asal bahasa Inggeris: \"Dipeptidyl peptidase IV inhibitor\" ([ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703), CC BY-SA 3.0; diakses 2026-11-19)."
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-vinblastine-1",

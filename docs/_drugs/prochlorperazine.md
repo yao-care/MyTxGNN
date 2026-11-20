@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **distrofi retina dengan atau t
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Prochlorperazine ialah (terjemahan tidak rasmi): “Antagonis reseptor dopamina D2” Teks asal bahasa Inggeris: "Dopamine D2 receptor antagonist" ([ChEMBL CHEMBL728 (prochlorperazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL728), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, prochlorperazine ialah antagonis dopamin D2 dengan kegunaan antiemetik dan antipsikotik. Tiada hubungan mekanistik yang diketahui antara tindakan ini dengan distrofi retina keturunan.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Prochlorperazine ialah (terjemahan tidak rasmi): “Antagonis reseptor dopamina D2”. Teks asal bahasa Inggeris: "Dopamine D2 receptor antagonist" ([ChEMBL CHEMBL728 (prochlorperazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL728), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, prochlorperazine ialah antagonis dopamin D2 dengan kegunaan antiemetik dan antipsikotik. Tiada hubungan mekanistik yang diketahui antara tindakan ini dengan distrofi retina keturunan.
 
 Skor TxGNN yang sangat tinggi (1.0000) ialah ramalan daripada model TxGNN (pembelajaran mendalam) sahaja dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Ia tidak disokong oleh ujian klinikal, penerbitan atau rasional biologi yang jelas. Oleh itu, ramalan ini patut dianggap sebagai isyarat komputasi yang belum disahkan, bukan petunjuk kebolehgunaan semula yang kukuh.
 
@@ -127,7 +127,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL728 (prochlorperazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL728) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL728 (prochlorperazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL728) |
 
 <!-- review:end log -->
 

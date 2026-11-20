@@ -60,7 +60,7 @@ Namun, **5 ujian klinikal** dan **20 penerbitan** yang dikumpulkan hampir semuan
 
 ## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Velpatasvir ialah (terjemahan tidak rasmi): “Perencat protein bukan struktur 5A” Teks asal bahasa Inggeris: "Nonstructural protein 5A inhibitor" ([ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, velpatasvir ialah perencat NS5A HCV dan lazimnya digunakan bersama sofosbuvir (perencat polimerase NS5B) dalam gabungan dos tetap. Keberkesanannya dalam jangkitan HCV kronik telah dibuktikan secara meluas.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Velpatasvir ialah (terjemahan tidak rasmi): “Perencat protein bukan struktur 5A”. Teks asal bahasa Inggeris: "Nonstructural protein 5A inhibitor" ([ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, velpatasvir ialah perencat NS5A HCV dan lazimnya digunakan bersama sofosbuvir (perencat polimerase NS5B) dalam gabungan dos tetap. Keberkesanannya dalam jangkitan HCV kronik telah dibuktikan secara meluas.
 
 Dari sudut mekanisme, tiada asas langsung untuk aktiviti anti-HBV. HBV ialah virus DNA yang bereplikasi melalui transkriptase balik dan cccDNA, serta tidak mempunyai homolog NS5A. Skor tinggi daripada TxGNN berkemungkinan mencerminkan kedekatan rangkaian pengetahuan antara HCV, HBV dan ubat antivirus lain, dan bukannya kesan terapeutik sebenar.
 
@@ -141,7 +141,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062) |
 
 <!-- review:end log -->
 

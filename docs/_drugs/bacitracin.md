@@ -58,7 +58,7 @@ Bacitracin ialah antibiotik polipeptida topikal yang aktif terhadap bakteria Gra
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Bacitracin ialah (terjemahan tidak rasmi): “Perencat C55-isoprenil pirofosfat” Teks asal bahasa Inggeris: "C55-isoprenyl pyrophosphate inhibitor" ([ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, bacitracin ialah antibiotik polipeptida topikal yang aktif terhadap bakteria Gram-positif dan telah digunakan dalam salap oftalmik.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Bacitracin ialah (terjemahan tidak rasmi): “Perencat C55-isoprenil pirofosfat”. Teks asal bahasa Inggeris: "C55-isoprenyl pyrophosphate inhibitor" ([ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, bacitracin ialah antibiotik polipeptida topikal yang aktif terhadap bakteria Gram-positif dan telah digunakan dalam salap oftalmik.
 
 Keratokonjunktivitis epitelium bertitik lazimnya berpunca daripada virus atau faktor toksik/keradangan, bukan jangkitan bakteria primer. Oleh itu, hubungan mekanistik hanya lemah: bacitracin mungkin berguna untuk mencegah jangkitan bakteria sekunder pada permukaan mata yang terjejas.
 
@@ -146,7 +146,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak mempunyai pendaftaran di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558) |
 
 <!-- review:end log -->
 

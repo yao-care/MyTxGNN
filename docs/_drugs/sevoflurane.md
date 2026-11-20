@@ -60,7 +60,7 @@ Ramalan ini hanya berdasarkan model (tahap bukti L5) dan masih bersifat spekulat
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Sevoflurane ialah (terjemahan tidak rasmi): “Pemodulat positif reseptor glisina (alfa-1/beta); reseptor GABA-A; pemodulat alosterik positif saluran anion; pembuka ahli 10 subfamili K saluran kalium; pembuka ahli 18 subfamili K saluran kalium” Teks asal bahasa Inggeris: "Glycine receptor (alpha-1/beta) positive modulator; GABA-A receptor; anion channel positive allosteric modulator; Potassium channel subfamily K member 10 opener; Potassium channel subfamily K member 18 opener" ([ChEMBL CHEMBL1200694 (sevoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200694), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, sevoflurane ialah anestetik volatil yang digunakan dalam keadaan terkawal, dan hubungan mekanistiknya dengan angina vasospastik belum dibuktikan.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Sevoflurane ialah (terjemahan tidak rasmi): “Pemodulat positif reseptor glisina (alfa-1/beta); reseptor GABA-A; pemodulat alosterik positif saluran anion; pembuka ahli 10 subfamili K saluran kalium; pembuka ahli 18 subfamili K saluran kalium”. Teks asal bahasa Inggeris: "Glycine receptor (alpha-1/beta) positive modulator; GABA-A receptor; anion channel positive allosteric modulator; Potassium channel subfamily K member 10 opener; Potassium channel subfamily K member 18 opener" ([ChEMBL CHEMBL1200694 (sevoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200694), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, sevoflurane ialah anestetik volatil yang digunakan dalam keadaan terkawal, dan hubungan mekanistiknya dengan angina vasospastik belum dibuktikan.
 
 Satu kaitan yang bersifat spekulatif ialah anestetik volatil boleh mempengaruhi pengendalian kalsium dalam otot licin vaskular dan mungkin mengurangkan vasospasme. Namun, tiada bukti dalam data yang disediakan untuk menyokong hal ini.
 
@@ -132,7 +132,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL1200694 (sevoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200694) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL1200694 (sevoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200694) |
 
 <!-- review:end log -->
 
