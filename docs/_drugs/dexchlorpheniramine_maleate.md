@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 270
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "DEXCHLORPHENIRAMINE MALEATE"
 predicted_indications: ["acute intermittent porphyria"]
 description: "Dexchlorpheniramine Maleate: indikasi baharu diramal Porfiria intermiten akut (acute intermittent porphyria) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 18 (sah: 18)"
@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **porfiria intermiten akut (acu
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan ubat ini tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, dexchlorpheniramine ialah antihistamin H1 generasi pertama. Namun, hubungan mekanistik yang jelas dengan porfiria intermiten akut (AIP) masih belum dapat ditentukan.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Dexchlorpheniramine Maleate (terjemahan tidak rasmi): “Dexchlorpheniramine maleate ialah antihistamin dengan kesan sampingan antikolinergik (pengeringan) dan sedatif. Antihistamin kelihatan bersaing dengan histamin untuk tapak reseptor sel pada sel efektor.” Teks asal bahasa Inggeris: "Dexchlorpheniramine maleate is an antihistamine with anticholinergic (drying) and sedative side effects. Antihistamines appear to compete with histamine for cell receptor sites on effector cells." ([DailyMed: Corphena (dexchlorpheniramine maleate) prescribing information, BluCrest Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4694616b-4ef4-28a4-e063-6394a90ac5f6), versi 2026-10-15; diakses 2026-11-20). Berdasarkan maklumat yang diketahui, dexchlorpheniramine ialah antihistamin H1 generasi pertama. Namun, hubungan mekanistik yang jelas dengan porfiria intermiten akut (AIP) masih belum dapat ditentukan.
 
 AIP ialah gangguan biosintesis heme akibat kekurangan porphobilinogen deaminase, dengan serangan neuroviseral. Sesetengah antihistamin dianggap selamat untuk pesakit porfiria dan boleh digunakan untuk kawalan gejala seperti pruritus, loya atau sedasi. Namun, ini ialah penggunaan simptomatik, bukan pengubahsuaian penyakit.
 
@@ -103,11 +103,12 @@ Perhatian khusus: klasifikasi porfirinogenisiti dexchlorpheniramine tidak disedi
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "dan ubat ini tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-20 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Corphena (dexchlorpheniramine maleate) prescribing information, BluCrest Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4694616b-4ef4-28a4-e063-6394a90ac5f6) |
 
 <!-- review:end log -->
 

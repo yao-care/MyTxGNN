@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 413
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Imiquimod"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
 description: "Imiquimod: indikasi baharu diramal Neoplasma pra-malignan (pre-malignant neoplasm) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -63,7 +63,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma pra-malignan**, den
 
 Imiquimod ialah agonis TLR7 yang mencetuskan tindak balas imun semula jadi dan adaptif setempat (IFN-alfa, TNF-alfa, IL-12) serta menggalakkan pembersihan epitelium displastik. Mekanisme ini selaras dengan penggunaannya dalam keratosis aktinik, neoplasia intraepitelial (vulva, dubur, serviks) dan lesi Bowenoid.
 
-Data mekanisme terperinci daripada pangkalan data ubat tidak tersedia. Namun, berdasarkan maklumat yang diketahui, keadaan pra-malignan yang disebabkan HPV atau kerosakan sinaran UV mempunyai ciri imun setempat yang boleh disasarkan oleh pengaktifan TLR7, sekali gus menjadikan ramalan ini munasabah dari segi mekanisme.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Imiquimod (terjemahan tidak rasmi): “Mekanisme tindakan ZYCLARA dalam rawatan AK dan EGW tidak diketahui.” Teks asal bahasa Inggeris: "The mechanism of action of ZYCLARA in the treatment of AK and EGW is unknown." ([DailyMed: Zyclara (imiquimod) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=28cd9b5b-680b-480f-b33d-9c5b52bbf03d), versi 2025-05-23; diakses 2026-11-20). Namun, berdasarkan maklumat yang diketahui, keadaan pra-malignan yang disebabkan HPV atau kerosakan sinaran UV mempunyai ciri imun setempat yang boleh disasarkan oleh pengaktifan TLR7, sekali gus menjadikan ramalan ini munasabah dari segi mekanisme.
 
 Perlu diingat bahawa percubaan Fasa 3 adalah kecil (n=20 dan n=9, yang kedua ditamatkan awal) dan data adalah heterogen merentasi jenis lesi.
 
@@ -146,11 +146,12 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "dan produk tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-20 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Zyclara (imiquimod) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=28cd9b5b-680b-480f-b33d-9c5b52bbf03d) |
 
 <!-- review:end log -->
 

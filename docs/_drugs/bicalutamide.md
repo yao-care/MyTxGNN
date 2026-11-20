@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 148
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Bicalutamide: indikasi baharu diramal Hipertrikosis (tahap bukti L4). Indikasi asal: Kanser prostat"
 monitor_inn: "BICALUTAMIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "multiple endocrine neoplasia", "pulmonary hypertension", "female breast carcinoma", "nephrogenic syndrome of inappropriate antidiuresis"]
@@ -64,7 +64,7 @@ Bicalutamide menyekat reseptor androgen. Isyarat androgen mendorong folikel ramb
 
 Satu-satunya penerbitan yang ditemui ialah ulasan terhadap kajian retrospektif ke atas 35 pesakit. Kajian itu menilai bicalutamide untuk hipertrikosis akibat minoxidil pada kerontokan rambut corak wanita. Ini bukti tidak langsung. Ia berkaitan hipertrikosis akibat ubat, bukan hipertrikosis kongenital atau umum yang mekanismenya berbeza.
 
-Data mekanisme terperinci daripada pangkalan data ubat tidak tersedia buat masa ini. Penjelasan di atas berdasarkan sifat farmakologi am bicalutamide.
+Penjelasan di atas berdasarkan sifat farmakologi am bicalutamide. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Bicalutamide (terjemahan tidak rasmi): “CASODEX ialah perencat reseptor androgen bukan steroid. Ia merencat tindakan androgen secara kompetitif dengan mengikat pada reseptor androgen sitosol dalam tisu sasaran. Karsinoma prostat diketahui sensitif terhadap androgen dan bertindak balas terhadap rawatan yang menentang kesan androgen dan/atau menyingkirkan sumber androgen.” Teks asal bahasa Inggeris: "CASODEX is a non-steroidal androgen receptor inhibitor. It competitively inhibits the action of androgens by binding to cytosol androgen receptors in the target tissue. Prostatic carcinoma is known to be androgen sensitive and responds to treatment that counteracts the effect of androgen and/or removes the source of androgen." ([DailyMed: Casodex (bicalutamide) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfee4fe7-8478-4a3e-925d-00be3cd0ab67), versi 2026-02-27; diakses 2026-11-20).
 
 ---
 
@@ -116,11 +116,12 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "tidak didaftarkan di Malaysia dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-20 | "Data mekanisme terperinci daripada pangkalan data ubat tidak tersedia buat masa ini. Penjelasan di atas berdasarkan sifat farmakologi am bicalutamide" replaced with a sourced mechanism-of-action statement | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [DailyMed: Casodex (bicalutamide) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfee4fe7-8478-4a3e-925d-00be3cd0ab67) |
 
 <!-- review:end log -->
 

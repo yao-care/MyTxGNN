@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 description: "Lidocaine: indikasi baharu diramal Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 57 (sah: 55)"
 ---
 
@@ -58,7 +58,7 @@ Lidocaine ialah anestetik setempat penyekat saluran natrium. Model TxGNN (pembel
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, lidocaine ialah penyekat saluran natrium yang memberikan anestesia permukaan mata secara setempat. Secara mekanistik, ia mungkin berguna untuk melegakan **simptom** ketidakselesaan permukaan mata.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Lidocaine (terjemahan tidak rasmi): “Lidocaine hydrochloride memberikan kesan antiaritmia dengan meningkatkan ambang rangsangan elektrik ventrikel semasa diastol. Pada dos terapeutik biasa, lidocaine hydrochloride tidak menghasilkan sebarang perubahan dalam kebolehcutan miokardium, dalam tekanan arteri sistemik, atau dalam tempoh refraktori mutlak.” Teks asal bahasa Inggeris: "Lidocaine hydrochloride exerts an antiarrhythmic effect by increasing the electrical stimulation threshold of the ventricle during diastole. In usual therapeutic doses, lidocaine hydrochloride produces no change in myocardial contractility, in systemic arterial pressure, or in absolute refractory period." ([DailyMed: Lidocaine Hydrochloride And Dextrose (lidocaine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f21512ea-c7c3-4766-b976-b2c0b5616bf0), versi 2026-02-20; diakses 2026-11-20). Berdasarkan maklumat yang diketahui, lidocaine ialah penyekat saluran natrium yang memberikan anestesia permukaan mata secara setempat. Secara mekanistik, ia mungkin berguna untuk melegakan **simptom** ketidakselesaan permukaan mata.
 
 Walau bagaimanapun, tiada mekanisme yang mengubah perjalanan penyakit kelihatan jelas untuk keratokonjunktivitis epitelium punktat. Skor TxGNN yang sangat tinggi tidak disokong oleh sebarang ujian atau penerbitan. Terdapat juga kebimbangan keselamatan. Penyalahgunaan anestetik topikal diketahui boleh menyebabkan keratopati epitelium, jadi penggunaan berulang pada permukaan mata yang sudah bermasalah boleh memburukkan keadaan.
 
@@ -119,6 +119,19 @@ Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA.
 - Kajian praklinikal atau klinikal yang menilai lidocaine dalam keratokonjunktivitis epitelium punktat, termasuk keselamatan epitelium kornea.
 - Penilaian formulasi dan laluan pentadbiran oftalmik yang sesuai.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-20 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lidocaine Hydrochloride And Dextrose (lidocaine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f21512ea-c7c3-4766-b976-b2c0b5616bf0) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 562
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 monitor_inn: "pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
 description: "Pemetrexed: indikasi baharu diramal Pleural adenomatoid tumor (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 25 (sah: 24)"
@@ -60,7 +60,7 @@ Arah ini disokong oleh **7 ujian klinikal** dan **20 penerbitan**. Kebanyakan bu
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pemetrexed ialah antifolat berbilang sasaran yang menyekat thymidylate synthase (TS), DHFR dan GARFT. Dengan itu, sintesis purin dan pirimidina dalam sel tumor yang membahagi dengan cepat terjejas. Data mekanisme terperinci daripada pangkalan data ubat tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Huraian di atas diambil daripada analisis rasional pemindahan indikasi.
+Pemetrexed ialah antifolat berbilang sasaran yang menyekat thymidylate synthase (TS), DHFR dan GARFT. Dengan itu, sintesis purin dan pirimidina dalam sel tumor yang membahagi dengan cepat terjejas. Huraian di atas diambil daripada analisis rasional pemindahan indikasi. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Pemetrexed (terjemahan tidak rasmi): “Pemetrexed ialah perencat metabolik analog folat yang mengganggu proses metabolik bergantung kepada folat yang penting untuk replikasi sel. Kajian in vitro menunjukkan bahawa pemetrexed merencat thymidylate synthase (TS), dihydrofolate reductase (DHFR), dan glycinamide ribonucleotide formyltransferase (GARFT), iaitu enzim bergantung kepada folat yang terlibat dalam biosintesis de novo nukleotida timidina dan purina.” Teks asal bahasa Inggeris: "Pemetrexed is a folate analog metabolic inhibitor that disrupts folate-dependent metabolic processes essential for cell replication. In vitro studies show that pemetrexed inhibits thymidylate synthase (TS), dihydrofolate reductase (DHFR), and glycinamide ribonucleotide formyltransferase (GARFT), which are folate-dependent enzymes involved in the de novo biosynthesis of thymidine and purine nucleotides." ([DailyMed: Pemfexy (pemetrexed) prescribing information, Acacia Pharma, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0), versi 2026-06-18; diakses 2026-11-20).
 
 Pemetrexed digabungkan dengan cisplatin sudah menjadi rawatan piawai untuk mesotelioma pleura malignan, yang merupakan indikasi asalnya. Mesotelioma peritoneum berkongsi histologi dan biologi asas dengan bentuk pleura, jadi mekanisme ubat dijangka terpakai juga. Dalam amalan klinikal, gabungan pemetrexed dan platinum memang digunakan untuk bentuk peritoneum. Cuma, bukti khusus peritoneum jarang kerana penyakit ini sangat jarang berlaku, dan cadangan rawatan sistemik kebanyakannya diekstrapolasi daripada ujian mesotelioma pleura.
 
@@ -143,6 +143,19 @@ Amaran utama dan kontraindikasi daripada label rasmi tidak tersedia. Sila rujuk 
 - Pelan pemantauan keselamatan untuk pesakit dengan gangguan renal, sitopenia sedia ada atau yang mengambil ubat berinteraksi.
 
 Peramal lain dalam senarai (mesotelioma pleura, epitelioid, sarkomatoid, bifasik) sebahagian besarnya ialah indikasi asal atau subjenis berkaitan. Peramal tanpa rasional mekanisme yang munasabah, seperti iminoglycinuria dan tumor adenomatoid pleura, patut ditahan (Hold).
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-20 | "Data mekanisme terperinci daripada pangkalan data ubat tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Huraian di atas diambil daripada analisis rasional pemindahan indikasi" replaced with a sourced mechanism-of-action statement | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [DailyMed: Pemfexy (pemetrexed) prescribing information, Acacia Pharma, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

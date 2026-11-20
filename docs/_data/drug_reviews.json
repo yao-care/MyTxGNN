@@ -9420,9 +9420,9 @@
    "drug": "epinephrine",
    "file": "epinephrine.md",
    "action": "mechanism",
-   "claim": "Perlu diingatkan bahawa data mekanisme tindakan (MOA) asal tidak tersedia dalam data yang dikumpulkan.",
-   "replacement": "Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Epinephrine (terjemahan tidak rasmi): “Epinefrina bertindak pada kedua-dua reseptor alfa dan beta-adrenergik. Melalui tindakannya pada reseptor alfa-adrenergik, epinefrina mengurangkan vasodilatasi dan peningkatan ketelapan vaskular yang berlaku semasa anafilaksis, yang boleh membawa kepada kehilangan isi padu cecair intravaskular dan hipotensi.” Teks asal bahasa Inggeris: \"Epinephrine acts on both alpha and beta-adrenergic receptors. Through its action on alpha-adrenergic receptors, epinephrine lessens the vasodilation and increased vascular permeability that occurs during anaphylaxis, which can lead to loss of intravascular fluid volume and hypotension.\" ([DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf), versi 2026-09-18; diakses 2026-11-19).",
-   "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+   "claim": "Perlu diingatkan bahawa data mekanisme tindakan (MOA) asal tidak tersedia dalam data yang dikumpulkan. Hubungan mekanisme di atas bergantung pada farmakologi yang mantap, bukan pada medan MOA yang dibekalkan.",
+   "replacement": "Hubungan mekanisme di atas bergantung pada farmakologi yang mantap, bukan pada medan MOA yang dibekalkan. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Epinephrine (terjemahan tidak rasmi): “Epinefrina bertindak pada kedua-dua reseptor alfa dan beta-adrenergik. Melalui tindakannya pada reseptor alfa-adrenergik, epinefrina mengurangkan vasodilatasi dan peningkatan ketelapan vaskular yang berlaku semasa anafilaksis, yang boleh membawa kepada kehilangan isi padu cecair intravaskular dan hipotensi.” Teks asal bahasa Inggeris: \"Epinephrine acts on both alpha and beta-adrenergic receptors. Through its action on alpha-adrenergic receptors, epinephrine lessens the vasodilation and increased vascular permeability that occurs during anaphylaxis, which can lead to loss of intravascular fluid volume and hypotension.\" ([DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf), versi 2026-09-18; diakses 2026-11-19).",
+   "summary": "\"Perlu diingatkan bahawa data mekanisme tindakan (MOA) asal tidak tersedia dalam data yang dikumpulkan. Hubungan mekanisme di atas bergantung pada farmakologi yang mantap, bukan pada medan MOA yang dibekalkan\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
     {
@@ -9439,8 +9439,39 @@
      "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
     }
    ],
-   "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "my-moa-20261119-epinephrine-1",
+     "drug": "epinephrine",
+     "file": "epinephrine.md",
+     "action": "mechanism",
+     "claim": "Perlu diingatkan bahawa data mekanisme tindakan (MOA) asal tidak tersedia dalam data yang dikumpulkan.",
+     "replacement": "Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Epinephrine (terjemahan tidak rasmi): “Epinefrina bertindak pada kedua-dua reseptor alfa dan beta-adrenergik. Melalui tindakannya pada reseptor alfa-adrenergik, epinefrina mengurangkan vasodilatasi dan peningkatan ketelapan vaskular yang berlaku semasa anafilaksis, yang boleh membawa kepada kehilangan isi padu cecair intravaskular dan hipotensi.” Teks asal bahasa Inggeris: \"Epinephrine acts on both alpha and beta-adrenergic receptors. Through its action on alpha-adrenergic receptors, epinephrine lessens the vasodilation and increased vascular permeability that occurs during anaphylaxis, which can lead to loss of intravascular fluid volume and hypotension.\" ([DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf), versi 2026-09-18; diakses 2026-11-19).",
+     "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf",
+       "accessed": "2026-11-19",
+       "excerpt": "Epinephrine acts on both alpha and beta-adrenergic receptors. Through its action on alpha-adrenergic receptors, epinephrine lessens the vasodilation and increased vascular permeability that occurs during anaphylaxis, which can lead to loss of intravascular fluid volume and hypotension.",
+       "label_version": "2026-09-18",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "5f40988b-8365-4f7b-84d1-b88e053725cf",
+       "translation": "Epinefrina bertindak pada kedua-dua reseptor alfa dan beta-adrenergik. Melalui tindakannya pada reseptor alfa-adrenergik, epinefrina mengurangkan vasodilatasi dan peningkatan ketelapan vaskular yang berlaku semasa anafilaksis, yang boleh membawa kepada kehilangan isi padu cecair intravaskular dan hipotensi.",
+       "translation_lang": "ms",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-19",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-eplerenone-1",
@@ -10574,9 +10605,9 @@
    "drug": "guselkumab",
    "file": "guselkumab.md",
    "action": "mechanism",
-   "claim": "Data terperinci tentang mekanisme tindakan (MOA) daripada pangkalan data rujukan tidak tersedia.",
-   "replacement": "Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Guselkumab (terjemahan tidak rasmi): “Guselkumab ialah antibodi monoklonal IgG1λ manusia yang mengikat secara selektif pada subunit p19 interleukin 23 (IL-23) dan merencat interaksinya dengan reseptor IL-23. IL-23 ialah sitokin semula jadi yang terlibat dalam tindak balas keradangan dan imun yang normal.” Teks asal bahasa Inggeris: \"Guselkumab is a human monoclonal IgG1λ antibody that selectively binds to the p19 subunit of interleukin 23 (IL-23) and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in normal inflammatory and immune responses.\" ([DailyMed: Tremfya (guselkumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56), versi 2026-10-20; diakses 2026-11-19).",
-   "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+   "claim": "Data terperinci tentang mekanisme tindakan (MOA) daripada pangkalan data rujukan tidak tersedia. Huraian di atas berdasarkan literatur yang disenaraikan dalam laporan ini.",
+   "replacement": "Huraian di atas berdasarkan literatur yang disenaraikan dalam laporan ini. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Guselkumab (terjemahan tidak rasmi): “Guselkumab ialah antibodi monoklonal IgG1λ manusia yang mengikat secara selektif pada subunit p19 interleukin 23 (IL-23) dan merencat interaksinya dengan reseptor IL-23. IL-23 ialah sitokin semula jadi yang terlibat dalam tindak balas keradangan dan imun yang normal.” Teks asal bahasa Inggeris: \"Guselkumab is a human monoclonal IgG1λ antibody that selectively binds to the p19 subunit of interleukin 23 (IL-23) and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in normal inflammatory and immune responses.\" ([DailyMed: Tremfya (guselkumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56), versi 2026-10-20; diakses 2026-11-19).",
+   "summary": "\"Data terperinci tentang mekanisme tindakan (MOA) daripada pangkalan data rujukan tidak tersedia. Huraian di atas berdasarkan literatur yang disenaraikan dalam laporan ini\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
     {
@@ -10593,8 +10624,39 @@
      "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
     }
    ],
-   "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "my-moa-20261119-guselkumab-1",
+     "drug": "guselkumab",
+     "file": "guselkumab.md",
+     "action": "mechanism",
+     "claim": "Data terperinci tentang mekanisme tindakan (MOA) daripada pangkalan data rujukan tidak tersedia.",
+     "replacement": "Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Guselkumab (terjemahan tidak rasmi): “Guselkumab ialah antibodi monoklonal IgG1λ manusia yang mengikat secara selektif pada subunit p19 interleukin 23 (IL-23) dan merencat interaksinya dengan reseptor IL-23. IL-23 ialah sitokin semula jadi yang terlibat dalam tindak balas keradangan dan imun yang normal.” Teks asal bahasa Inggeris: \"Guselkumab is a human monoclonal IgG1λ antibody that selectively binds to the p19 subunit of interleukin 23 (IL-23) and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in normal inflammatory and immune responses.\" ([DailyMed: Tremfya (guselkumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56), versi 2026-10-20; diakses 2026-11-19).",
+     "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Tremfya (guselkumab) prescribing information, Janssen Biotech, Inc.",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56",
+       "accessed": "2026-11-19",
+       "excerpt": "Guselkumab is a human monoclonal IgG1λ antibody that selectively binds to the p19 subunit of interleukin 23 (IL-23) and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in normal inflammatory and immune responses.",
+       "label_version": "2026-10-20",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56",
+       "translation": "Guselkumab ialah antibodi monoklonal IgG1λ manusia yang mengikat secara selektif pada subunit p19 interleukin 23 (IL-23) dan merencat interaksinya dengan reseptor IL-23. IL-23 ialah sitokin semula jadi yang terlibat dalam tindak balas keradangan dan imun yang normal.",
+       "translation_lang": "ms",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-19",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-haloperidol-1",
@@ -12688,9 +12750,9 @@
    "drug": "midazolam",
    "file": "midazolam.md",
    "action": "mechanism",
-   "claim": "Medan data mekanisme tindakan asal tidak tersedia, dan status pasaran juga belum disahkan secara bebas.",
-   "replacement": "Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Midazolam (terjemahan tidak rasmi): “Midazolam ialah depresan sistem saraf pusat (SSP) benzodiazepina bertindak singkat.” Teks asal bahasa Inggeris: \"Midazolam is a short-acting benzodiazepine central nervous system (CNS) depressant.\" ([DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e), versi 2025-07-31; diakses 2026-11-19).",
-   "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+   "claim": "Medan data mekanisme tindakan asal tidak tersedia, dan status pasaran juga belum disahkan secara bebas. Penerangan mekanisme di atas berdasarkan analisis pautan mekanistik yang disusun untuk laporan ini.",
+   "replacement": "Penerangan mekanisme di atas berdasarkan analisis pautan mekanistik yang disusun untuk laporan ini. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Midazolam (terjemahan tidak rasmi): “Midazolam ialah depresan sistem saraf pusat (SSP) benzodiazepina bertindak singkat.” Teks asal bahasa Inggeris: \"Midazolam is a short-acting benzodiazepine central nervous system (CNS) depressant.\" ([DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e), versi 2025-07-31; diakses 2026-11-19).",
+   "summary": "\"Medan data mekanisme tindakan asal tidak tersedia, dan status pasaran juga belum disahkan secara bebas. Penerangan mekanisme di atas berdasarkan analisis pautan mekanistik yang disusun untuk laporan ini\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
     {
@@ -12707,8 +12769,39 @@
      "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
     }
    ],
-   "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "my-moa-20261119-midazolam-1",
+     "drug": "midazolam",
+     "file": "midazolam.md",
+     "action": "mechanism",
+     "claim": "Medan data mekanisme tindakan asal tidak tersedia, dan status pasaran juga belum disahkan secara bebas.",
+     "replacement": "Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Midazolam (terjemahan tidak rasmi): “Midazolam ialah depresan sistem saraf pusat (SSP) benzodiazepina bertindak singkat.” Teks asal bahasa Inggeris: \"Midazolam is a short-acting benzodiazepine central nervous system (CNS) depressant.\" ([DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e), versi 2025-07-31; diakses 2026-11-19).",
+     "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e",
+       "accessed": "2026-11-19",
+       "excerpt": "Midazolam is a short-acting benzodiazepine central nervous system (CNS) depressant.",
+       "label_version": "2025-07-31",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "f051776f-94c5-4e34-80ed-f45b9c36881e",
+       "translation": "Midazolam ialah depresan sistem saraf pusat (SSP) benzodiazepina bertindak singkat.",
+       "translation_lang": "ms",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-19",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-minoxidil-1",
@@ -15001,9 +15094,9 @@
    "drug": "ropinirole",
    "file": "ropinirole.md",
    "action": "mechanism",
-   "claim": "Data terperinci mengenai mekanisme tindakan (MOA) daripada pangkalan data ubat tidak tersedia buat masa ini.",
-   "replacement": "Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ropinirole (terjemahan tidak rasmi): “Ropinirol ialah agonis dopamina bukan ergolina. Mekanisme tindakan ropinirol yang tepat sebagai rawatan penyakit Parkinson tidak diketahui, walaupun ia dipercayai berkaitan dengan keupayaannya merangsang reseptor dopamina D 2 di dalam kaudat-putamen di otak.” Teks asal bahasa Inggeris: \"Ropinirole is a non-ergoline dopamine agonist. The precise mechanism of action of ropinirole as a treatment for Parkinson’s disease is unknown, although it is thought to be related to its ability to stimulate dopamine D 2 receptors within the caudate-putamen in the brain.\" ([DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da), versi 2026-11-06; diakses 2026-11-19).",
-   "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+   "claim": "Data terperinci mengenai mekanisme tindakan (MOA) daripada pangkalan data ubat tidak tersedia buat masa ini. Penerangan ini berdasarkan pengetahuan farmakologi am.",
+   "replacement": "Penerangan ini berdasarkan pengetahuan farmakologi am. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ropinirole (terjemahan tidak rasmi): “Ropinirol ialah agonis dopamina bukan ergolina. Mekanisme tindakan ropinirol yang tepat sebagai rawatan penyakit Parkinson tidak diketahui, walaupun ia dipercayai berkaitan dengan keupayaannya merangsang reseptor dopamina D 2 di dalam kaudat-putamen di otak.” Teks asal bahasa Inggeris: \"Ropinirole is a non-ergoline dopamine agonist. The precise mechanism of action of ropinirole as a treatment for Parkinson’s disease is unknown, although it is thought to be related to its ability to stimulate dopamine D 2 receptors within the caudate-putamen in the brain.\" ([DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da), versi 2026-11-06; diakses 2026-11-19).",
+   "summary": "\"Data terperinci mengenai mekanisme tindakan (MOA) daripada pangkalan data ubat tidak tersedia buat masa ini. Penerangan ini berdasarkan pengetahuan farmakologi am\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
     {
@@ -15020,8 +15113,39 @@
      "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
     }
    ],
-   "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "my-moa-20261119-ropinirole-1",
+     "drug": "ropinirole",
+     "file": "ropinirole.md",
+     "action": "mechanism",
+     "claim": "Data terperinci mengenai mekanisme tindakan (MOA) daripada pangkalan data ubat tidak tersedia buat masa ini.",
+     "replacement": "Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ropinirole (terjemahan tidak rasmi): “Ropinirol ialah agonis dopamina bukan ergolina. Mekanisme tindakan ropinirol yang tepat sebagai rawatan penyakit Parkinson tidak diketahui, walaupun ia dipercayai berkaitan dengan keupayaannya merangsang reseptor dopamina D 2 di dalam kaudat-putamen di otak.” Teks asal bahasa Inggeris: \"Ropinirole is a non-ergoline dopamine agonist. The precise mechanism of action of ropinirole as a treatment for Parkinson’s disease is unknown, although it is thought to be related to its ability to stimulate dopamine D 2 receptors within the caudate-putamen in the brain.\" ([DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da), versi 2026-11-06; diakses 2026-11-19).",
+     "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: ropinirole prescribing information, Bryant Ranch Prepack",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da",
+       "accessed": "2026-11-19",
+       "excerpt": "Ropinirole is a non-ergoline dopamine agonist. The precise mechanism of action of ropinirole as a treatment for Parkinson’s disease is unknown, although it is thought to be related to its ability to stimulate dopamine D 2 receptors within the caudate-putamen in the brain.",
+       "label_version": "2026-11-06",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "e9ba4108-7095-4771-840e-bf1e08b5f4da",
+       "translation": "Ropinirol ialah agonis dopamina bukan ergolina. Mekanisme tindakan ropinirol yang tepat sebagai rawatan penyakit Parkinson tidak diketahui, walaupun ia dipercayai berkaitan dengan keupayaannya merangsang reseptor dopamina D 2 di dalam kaudat-putamen di otak.",
+       "translation_lang": "ms",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-19",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
   },
   {
    "id": "my-moa-20261119-rufinamide-1",
@@ -16848,6 +16972,257 @@
     }
    ],
    "checked": "2026-11-19",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "my-moa-20261120-bicalutamide-1",
+   "drug": "bicalutamide",
+   "file": "bicalutamide.md",
+   "action": "mechanism",
+   "claim": "Data mekanisme terperinci daripada pangkalan data ubat tidak tersedia buat masa ini. Penjelasan di atas berdasarkan sifat farmakologi am bicalutamide.",
+   "replacement": "Penjelasan di atas berdasarkan sifat farmakologi am bicalutamide. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Bicalutamide (terjemahan tidak rasmi): “CASODEX ialah perencat reseptor androgen bukan steroid. Ia merencat tindakan androgen secara kompetitif dengan mengikat pada reseptor androgen sitosol dalam tisu sasaran. Karsinoma prostat diketahui sensitif terhadap androgen dan bertindak balas terhadap rawatan yang menentang kesan androgen dan/atau menyingkirkan sumber androgen.” Teks asal bahasa Inggeris: \"CASODEX is a non-steroidal androgen receptor inhibitor. It competitively inhibits the action of androgens by binding to cytosol androgen receptors in the target tissue. Prostatic carcinoma is known to be androgen sensitive and responds to treatment that counteracts the effect of androgen and/or removes the source of androgen.\" ([DailyMed: Casodex (bicalutamide) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfee4fe7-8478-4a3e-925d-00be3cd0ab67), versi 2026-02-27; diakses 2026-11-20).",
+   "summary": "\"Data mekanisme terperinci daripada pangkalan data ubat tidak tersedia buat masa ini. Penjelasan di atas berdasarkan sifat farmakologi am bicalutamide\" replaced with a sourced mechanism-of-action statement",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Casodex (bicalutamide) prescribing information, ANI Pharmaceuticals, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfee4fe7-8478-4a3e-925d-00be3cd0ab67",
+     "accessed": "2026-11-20",
+     "excerpt": "CASODEX is a non-steroidal androgen receptor inhibitor. It competitively inhibits the action of androgens by binding to cytosol androgen receptors in the target tissue. Prostatic carcinoma is known to be androgen sensitive and responds to treatment that counteracts the effect of androgen and/or removes the source of androgen.",
+     "label_version": "2026-02-27",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "dfee4fe7-8478-4a3e-925d-00be3cd0ab67",
+     "translation": "CASODEX ialah perencat reseptor androgen bukan steroid. Ia merencat tindakan androgen secara kompetitif dengan mengikat pada reseptor androgen sitosol dalam tisu sasaran. Karsinoma prostat diketahui sensitif terhadap androgen dan bertindak balas terhadap rawatan yang menentang kesan androgen dan/atau menyingkirkan sumber androgen.",
+     "translation_lang": "ms",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "my-moa-20261120-bicalutamide-1",
+     "drug": "bicalutamide",
+     "file": "bicalutamide.md",
+     "action": "mechanism",
+     "claim": "Data mekanisme terperinci daripada pangkalan data ubat tidak tersedia buat masa ini.",
+     "replacement": "Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Bicalutamide (terjemahan tidak rasmi): “CASODEX ialah perencat reseptor androgen bukan steroid. Ia merencat tindakan androgen secara kompetitif dengan mengikat pada reseptor androgen sitosol dalam tisu sasaran. Karsinoma prostat diketahui sensitif terhadap androgen dan bertindak balas terhadap rawatan yang menentang kesan androgen dan/atau menyingkirkan sumber androgen.” Teks asal bahasa Inggeris: \"CASODEX is a non-steroidal androgen receptor inhibitor. It competitively inhibits the action of androgens by binding to cytosol androgen receptors in the target tissue. Prostatic carcinoma is known to be androgen sensitive and responds to treatment that counteracts the effect of androgen and/or removes the source of androgen.\" ([DailyMed: Casodex (bicalutamide) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfee4fe7-8478-4a3e-925d-00be3cd0ab67), versi 2026-02-27; diakses 2026-11-20).",
+     "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Casodex (bicalutamide) prescribing information, ANI Pharmaceuticals, Inc.",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfee4fe7-8478-4a3e-925d-00be3cd0ab67",
+       "accessed": "2026-11-20",
+       "excerpt": "CASODEX is a non-steroidal androgen receptor inhibitor. It competitively inhibits the action of androgens by binding to cytosol androgen receptors in the target tissue. Prostatic carcinoma is known to be androgen sensitive and responds to treatment that counteracts the effect of androgen and/or removes the source of androgen.",
+       "label_version": "2026-02-27",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "dfee4fe7-8478-4a3e-925d-00be3cd0ab67",
+       "translation": "CASODEX ialah perencat reseptor androgen bukan steroid. Ia merencat tindakan androgen secara kompetitif dengan mengikat pada reseptor androgen sitosol dalam tisu sasaran. Karsinoma prostat diketahui sensitif terhadap androgen dan bertindak balas terhadap rawatan yang menentang kesan androgen dan/atau menyingkirkan sumber androgen.",
+       "translation_lang": "ms",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-20",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
+  },
+  {
+   "id": "my-moa-20261120-dexchlorpheniramine_maleate-1",
+   "drug": "dexchlorpheniramine_maleate",
+   "file": "dexchlorpheniramine_maleate.md",
+   "action": "mechanism",
+   "claim": "Butiran mekanisme tindakan ubat ini tidak tersedia pada masa ini.",
+   "replacement": "Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Dexchlorpheniramine Maleate (terjemahan tidak rasmi): “Dexchlorpheniramine maleate ialah antihistamin dengan kesan sampingan antikolinergik (pengeringan) dan sedatif. Antihistamin kelihatan bersaing dengan histamin untuk tapak reseptor sel pada sel efektor.” Teks asal bahasa Inggeris: \"Dexchlorpheniramine maleate is an antihistamine with anticholinergic (drying) and sedative side effects. Antihistamines appear to compete with histamine for cell receptor sites on effector cells.\" ([DailyMed: Corphena (dexchlorpheniramine maleate) prescribing information, BluCrest Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4694616b-4ef4-28a4-e063-6394a90ac5f6), versi 2026-10-15; diakses 2026-11-20).",
+   "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 Clinical Pharmacology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Corphena (dexchlorpheniramine maleate) prescribing information, BluCrest Pharmaceuticals LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4694616b-4ef4-28a4-e063-6394a90ac5f6",
+     "accessed": "2026-11-20",
+     "excerpt": "Dexchlorpheniramine maleate is an antihistamine with anticholinergic (drying) and sedative side effects. Antihistamines appear to compete with histamine for cell receptor sites on effector cells.",
+     "label_version": "2026-10-15",
+     "section": "Clinical Pharmacology",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "4694616b-4ef4-28a4-e063-6394a90ac5f6",
+     "translation": "Dexchlorpheniramine maleate ialah antihistamin dengan kesan sampingan antikolinergik (pengeringan) dan sedatif. Antihistamin kelihatan bersaing dengan histamin untuk tapak reseptor sel pada sel efektor.",
+     "translation_lang": "ms",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "my-moa-20261120-etonogestrel-1",
+   "drug": "etonogestrel",
+   "file": "etonogestrel.md",
+   "action": "mechanism",
+   "claim": "Butiran mekanisme tindakan (MOA) tidak tersedia pada masa ini.",
+   "replacement": "Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Etonogestrel (terjemahan tidak rasmi): “Kesan kontraseptif NEXPLANON dicapai melalui penindasan ovulasi, peningkatan kelikatan mukus serviks, dan perubahan pada endometrium.” Teks asal bahasa Inggeris: \"The contraceptive effect of NEXPLANON is achieved by suppression of ovulation, increased viscosity of the cervical mucus, and alterations in the endometrium.\" ([DailyMed: Nexplanon (etonogestrel) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=487f8a62-e142-457c-97cc-2e398fde7594), versi 2026-05-28; diakses 2026-11-20).",
+   "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Nexplanon (etonogestrel) prescribing information, Organon LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=487f8a62-e142-457c-97cc-2e398fde7594",
+     "accessed": "2026-11-20",
+     "excerpt": "The contraceptive effect of NEXPLANON is achieved by suppression of ovulation, increased viscosity of the cervical mucus, and alterations in the endometrium.",
+     "label_version": "2026-05-28",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "487f8a62-e142-457c-97cc-2e398fde7594",
+     "translation": "Kesan kontraseptif NEXPLANON dicapai melalui penindasan ovulasi, peningkatan kelikatan mukus serviks, dan perubahan pada endometrium.",
+     "translation_lang": "ms",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "my-moa-20261120-imiquimod-1",
+   "drug": "imiquimod",
+   "file": "imiquimod.md",
+   "action": "mechanism",
+   "claim": "Data mekanisme terperinci daripada pangkalan data ubat tidak tersedia.",
+   "replacement": "Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Imiquimod (terjemahan tidak rasmi): “Mekanisme tindakan ZYCLARA dalam rawatan AK dan EGW tidak diketahui.” Teks asal bahasa Inggeris: \"The mechanism of action of ZYCLARA in the treatment of AK and EGW is unknown.\" ([DailyMed: Zyclara (imiquimod) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=28cd9b5b-680b-480f-b33d-9c5b52bbf03d), versi 2025-05-23; diakses 2026-11-20).",
+   "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Zyclara (imiquimod) prescribing information, Bausch Health US, LLC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=28cd9b5b-680b-480f-b33d-9c5b52bbf03d",
+     "accessed": "2026-11-20",
+     "excerpt": "The mechanism of action of ZYCLARA in the treatment of AK and EGW is unknown.",
+     "label_version": "2025-05-23",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "28cd9b5b-680b-480f-b33d-9c5b52bbf03d",
+     "translation": "Mekanisme tindakan ZYCLARA dalam rawatan AK dan EGW tidak diketahui.",
+     "translation_lang": "ms",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "my-moa-20261120-lidocaine-1",
+   "drug": "lidocaine",
+   "file": "lidocaine.md",
+   "action": "mechanism",
+   "claim": "Butiran mekanisme tindakan terperinci tidak tersedia buat masa ini.",
+   "replacement": "Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Lidocaine (terjemahan tidak rasmi): “Lidocaine hydrochloride memberikan kesan antiaritmia dengan meningkatkan ambang rangsangan elektrik ventrikel semasa diastol. Pada dos terapeutik biasa, lidocaine hydrochloride tidak menghasilkan sebarang perubahan dalam kebolehcutan miokardium, dalam tekanan arteri sistemik, atau dalam tempoh refraktori mutlak.” Teks asal bahasa Inggeris: \"Lidocaine hydrochloride exerts an antiarrhythmic effect by increasing the electrical stimulation threshold of the ventricle during diastole. In usual therapeutic doses, lidocaine hydrochloride produces no change in myocardial contractility, in systemic arterial pressure, or in absolute refractory period.\" ([DailyMed: Lidocaine Hydrochloride And Dextrose (lidocaine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f21512ea-c7c3-4766-b976-b2c0b5616bf0), versi 2026-02-20; diakses 2026-11-20).",
+   "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Lidocaine Hydrochloride And Dextrose (lidocaine hydrochloride) prescribing information, Baxter Healthcare Corporation",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f21512ea-c7c3-4766-b976-b2c0b5616bf0",
+     "accessed": "2026-11-20",
+     "excerpt": "Lidocaine hydrochloride exerts an antiarrhythmic effect by increasing the electrical stimulation threshold of the ventricle during diastole. In usual therapeutic doses, lidocaine hydrochloride produces no change in myocardial contractility, in systemic arterial pressure, or in absolute refractory period.",
+     "label_version": "2026-02-20",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "f21512ea-c7c3-4766-b976-b2c0b5616bf0",
+     "translation": "Lidocaine hydrochloride memberikan kesan antiaritmia dengan meningkatkan ambang rangsangan elektrik ventrikel semasa diastol. Pada dos terapeutik biasa, lidocaine hydrochloride tidak menghasilkan sebarang perubahan dalam kebolehcutan miokardium, dalam tekanan arteri sistemik, atau dalam tempoh refraktori mutlak.",
+     "translation_lang": "ms",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "my-moa-20261120-pemetrexed-1",
+   "drug": "pemetrexed",
+   "file": "pemetrexed.md",
+   "action": "mechanism",
+   "claim": "Data mekanisme terperinci daripada pangkalan data ubat tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Huraian di atas diambil daripada analisis rasional pemindahan indikasi.",
+   "replacement": "Huraian di atas diambil daripada analisis rasional pemindahan indikasi. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Pemetrexed (terjemahan tidak rasmi): “Pemetrexed ialah perencat metabolik analog folat yang mengganggu proses metabolik bergantung kepada folat yang penting untuk replikasi sel. Kajian in vitro menunjukkan bahawa pemetrexed merencat thymidylate synthase (TS), dihydrofolate reductase (DHFR), dan glycinamide ribonucleotide formyltransferase (GARFT), iaitu enzim bergantung kepada folat yang terlibat dalam biosintesis de novo nukleotida timidina dan purina.” Teks asal bahasa Inggeris: \"Pemetrexed is a folate analog metabolic inhibitor that disrupts folate-dependent metabolic processes essential for cell replication. In vitro studies show that pemetrexed inhibits thymidylate synthase (TS), dihydrofolate reductase (DHFR), and glycinamide ribonucleotide formyltransferase (GARFT), which are folate-dependent enzymes involved in the de novo biosynthesis of thymidine and purine nucleotides.\" ([DailyMed: Pemfexy (pemetrexed) prescribing information, Acacia Pharma, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0), versi 2026-06-18; diakses 2026-11-20).",
+   "summary": "\"Data mekanisme terperinci daripada pangkalan data ubat tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Huraian di atas diambil daripada analisis rasional pemindahan indikasi\" replaced with a sourced mechanism-of-action statement",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Pemfexy (pemetrexed) prescribing information, Acacia Pharma, Ltd.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0",
+     "accessed": "2026-11-20",
+     "excerpt": "Pemetrexed is a folate analog metabolic inhibitor that disrupts folate-dependent metabolic processes essential for cell replication. In vitro studies show that pemetrexed inhibits thymidylate synthase (TS), dihydrofolate reductase (DHFR), and glycinamide ribonucleotide formyltransferase (GARFT), which are folate-dependent enzymes involved in the de novo biosynthesis of thymidine and purine nucleotides.",
+     "label_version": "2026-06-18",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "caef07ce-066b-4c48-98dc-974b05ebbbe0",
+     "translation": "Pemetrexed ialah perencat metabolik analog folat yang mengganggu proses metabolik bergantung kepada folat yang penting untuk replikasi sel. Kajian in vitro menunjukkan bahawa pemetrexed merencat thymidylate synthase (TS), dihydrofolate reductase (DHFR), dan glycinamide ribonucleotide formyltransferase (GARFT), iaitu enzim bergantung kepada folat yang terlibat dalam biosintesis de novo nukleotida timidina dan purina.",
+     "translation_lang": "ms",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "my-moa-20261120-pemetrexed-1",
+     "drug": "pemetrexed",
+     "file": "pemetrexed.md",
+     "action": "mechanism",
+     "claim": "Data mekanisme terperinci daripada pangkalan data ubat tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+     "replacement": "Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Pemetrexed (terjemahan tidak rasmi): “Pemetrexed ialah perencat metabolik analog folat yang mengganggu proses metabolik bergantung kepada folat yang penting untuk replikasi sel. Kajian in vitro menunjukkan bahawa pemetrexed merencat thymidylate synthase (TS), dihydrofolate reductase (DHFR), dan glycinamide ribonucleotide formyltransferase (GARFT), iaitu enzim bergantung kepada folat yang terlibat dalam biosintesis de novo nukleotida timidina dan purina.” Teks asal bahasa Inggeris: \"Pemetrexed is a folate analog metabolic inhibitor that disrupts folate-dependent metabolic processes essential for cell replication. In vitro studies show that pemetrexed inhibits thymidylate synthase (TS), dihydrofolate reductase (DHFR), and glycinamide ribonucleotide formyltransferase (GARFT), which are folate-dependent enzymes involved in the de novo biosynthesis of thymidine and purine nucleotides.\" ([DailyMed: Pemfexy (pemetrexed) prescribing information, Acacia Pharma, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0), versi 2026-06-18; diakses 2026-11-20).",
+     "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Pemfexy (pemetrexed) prescribing information, Acacia Pharma, Ltd.",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0",
+       "accessed": "2026-11-20",
+       "excerpt": "Pemetrexed is a folate analog metabolic inhibitor that disrupts folate-dependent metabolic processes essential for cell replication. In vitro studies show that pemetrexed inhibits thymidylate synthase (TS), dihydrofolate reductase (DHFR), and glycinamide ribonucleotide formyltransferase (GARFT), which are folate-dependent enzymes involved in the de novo biosynthesis of thymidine and purine nucleotides.",
+       "label_version": "2026-06-18",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "caef07ce-066b-4c48-98dc-974b05ebbbe0",
+       "translation": "Pemetrexed ialah perencat metabolik analog folat yang mengganggu proses metabolik bergantung kepada folat yang penting untuk replikasi sel. Kajian in vitro menunjukkan bahawa pemetrexed merencat thymidylate synthase (TS), dihydrofolate reductase (DHFR), dan glycinamide ribonucleotide formyltransferase (GARFT), iaitu enzim bergantung kepada folat yang terlibat dalam biosintesis de novo nukleotida timidina dan purina.",
+       "translation_lang": "ms",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-20",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
+  },
+  {
+   "id": "my-moa-20261120-thyrotropin_alfa-1",
+   "drug": "thyrotropin_alfa",
+   "file": "thyrotropin_alfa.md",
+   "action": "mechanism",
+   "claim": "Butiran mekanisme tindakan (MOA) tidak tersedia pada masa ini.",
+   "replacement": "Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Thyrotropin Alfa (terjemahan tidak rasmi): “Thyrotropin (TSH) ialah hormon pituitari yang merangsang kelenjar tiroid untuk menghasilkan hormon tiroid. Pengikatan thyrotropin alfa pada reseptor TSH pada sel epitelium tiroid normal atau pada tisu kanser tiroid yang terbeza dengan baik merangsang pengambilan dan organifikasi iodin, serta sintesis dan rembesan tiroglobulin (Tg), triiodotironina (T3) dan tiroksina (T4).” Teks asal bahasa Inggeris: \"Thyrotropin (TSH) is a pituitary hormone that stimulates the thyroid gland to produce thyroid hormone. Binding of thyrotropin alfa to TSH receptors on normal thyroid epithelial cells or on well-differentiated thyroid cancer tissue stimulates iodine uptake and organification, and synthesis and secretion of thyroglobulin (Tg), triiodothyronine (T3) and thyroxine (T4).\" ([DailyMed: Thyrogen (thyrotropin alfa) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b52dfa36-f90b-4e19-9b5e-26db9d04df2b), versi 2023-02-24; diakses 2026-11-20).",
+   "summary": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Thyrogen (thyrotropin alfa) prescribing information, Genzyme Corporation",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b52dfa36-f90b-4e19-9b5e-26db9d04df2b",
+     "accessed": "2026-11-20",
+     "excerpt": "Thyrotropin (TSH) is a pituitary hormone that stimulates the thyroid gland to produce thyroid hormone. Binding of thyrotropin alfa to TSH receptors on normal thyroid epithelial cells or on well-differentiated thyroid cancer tissue stimulates iodine uptake and organification, and synthesis and secretion of thyroglobulin (Tg), triiodothyronine (T3) and thyroxine (T4).",
+     "label_version": "2023-02-24",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "b52dfa36-f90b-4e19-9b5e-26db9d04df2b",
+     "translation": "Thyrotropin (TSH) ialah hormon pituitari yang merangsang kelenjar tiroid untuk menghasilkan hormon tiroid. Pengikatan thyrotropin alfa pada reseptor TSH pada sel epitelium tiroid normal atau pada tisu kanser tiroid yang terbeza dengan baik merangsang pengambilan dan organifikasi iodin, serta sintesis dan rembesan tiroglobulin (Tg), triiodotironina (T3) dan tiroksina (T4).",
+     "translation_lang": "ms",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
    "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
   }
  ]

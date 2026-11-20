@@ -69,7 +69,12 @@ L = {'KW': 'mekanisme tindakan|mekanisme kerja|\\bMOA\\b',
                'Teks asal bahasa Inggeris: "{ex}" ([{title}]({url}), CC BY-SA 3.0; diakses {acc}).'}
 REGULATOR_LOCAL = False  # True＝本站就是美國（寫「FDA-approved」，不加「US」）
 
+# 2026-11-20：補偵測漏抓的寫法（試跑交付前驗證時，用全量候選句逐句標註 A／B 校準：A＝本藥作用機轉資料不可得的獨立句，B＝以缺資料為前提的模型推論，不改）。
+# 原本的 KW／NEG／DATA 照舊；L2 是新增寫法，只有新增寫法比中的句子才再用 NOT 排除推論句。
+L2 = {"KW": r"data mekanisme|maklumat mekanisme", "NEG": r"", "DATA": r"butiran", "NOT": r""}
 KW = re.compile(L["KW"], re.I)
+KW2, NEG2, DATA2 = (re.compile("|".join(x for x in (L[k], L2[k]) if x), re.I) for k in ("KW", "NEG", "DATA"))
+NOT2 = re.compile(L2["NOT"], re.I) if L2["NOT"] else None
 DATA = re.compile(L["DATA"], re.I)
 NEG = re.compile(L["NEG"], re.I)
 EXCL = re.compile(L["EXCL"], re.I)
@@ -99,7 +104,75 @@ def is_na(sentence):
     s = sentence.strip()
     if not s or len(s) > L.get("maxlen", 320):
         return False
-    return bool(KW.search(s) and DATA.search(s) and NEG.search(s))
+    return bool(KW.search(s) and DATA.search(s) and NEG.search(s))\
+        or (bool(KW2.search(s) and DATA2.search(s) and NEG2.search(s)) and not (NOT2 and NOT2.search(s)))
+
+
+# 2026-11-20：節錄後面若接著 AI 說明「上面這段描述的依據」的句子（This description reflects／is based on…），
+# 留在節錄後面會讀成美國仿單的出處；那句移到節錄前面（原文一字不改，只換順序）。英文站才有接回的後半句與下一句。
+SRC_TAIL = re.compile(r"(?:This|The)(?: general| mechanistic| class)? (?:description|reasoning|rationale|explanation|class assignment|"
+                      r"mechanism described (?:above|here)|mechanism above|pharmacology above|description (?:above|here)|reasoning above|above)\b"
+                      r"[^.]*?\b(?:is (?:based|drawn|derived)|was drawn|reflects|relies|rests|comes|draws|derives)\b|This is based on")
+_SENT_END = re.compile(r"[.!?](?=\s|$)")
+
+# 非英文站：下一句是講「上面描述依據」的句子時（2026-11-20 逐句標註校準的本站寫法）
+SRC_LOCAL = re.compile(r"(?:(?:Huraian|Penerangan|Penjelasan)(?: mekanisme)?(?: di atas| ini)|Hubungan mekanisme di atas)\b[^.]*?\b(?:berdasarkan|diambil daripada|bergantung pada)")
+
+
+def reorder_src_tail(text, claim, rep):
+    """回傳 (claim, rep)：claim 後面（同一句的後半或下一句）是講「上面描述依據」的句子時，claim 延伸涵蓋那句、rep 改成「那句＋節錄」。"""
+    j = text.find(claim)
+    if j < 0:
+        return claim, rep
+    rest = text[j + len(claim):].split("\n", 1)[0]
+    if LANG != "en":
+        if SRC_LOCAL is None:
+            return claim, rep
+        body = rest.lstrip()
+        sep = rest[:len(rest) - len(body)]
+        segs = [x for x in SENT_SPLIT.split(body) if x]
+        sent = segs[0].rstrip() if segs else ""
+        if sent and SRC_LOCAL.match(sent) and body.startswith(sent):
+            return claim + sep + sent, sent + (sep or "") + rep
+        return claim, rep
+    if claim and claim[-1].islower() and rep[-2:-1] == " ":   # 同一句的後半（claim 以「, so t」收尾、rep 以「 T」收尾）
+        m = _SENT_END.search(rest)
+        if not m:
+            return claim, rep
+        sent = rep[-1] + rest[:m.end()]
+        if SRC_TAIL.match(sent):
+            return claim + rest[:m.end()], sent + " " + rep[:-2].rstrip()
+        return claim, rep
+    lead = len(rest) - len(rest.lstrip(" "))
+    if lead != 1:
+        return claim, rep
+    m = _SENT_END.search(rest, 1)
+    if not m:
+        return claim, rep
+    sent = rest[1:m.end()]
+    if SRC_TAIL.match(sent):
+        return claim + rest[:m.end()], sent + " " + rep
+    return claim, rep
+
+# 2026-11-20：同頁上方已引用同一段節錄（同頁兩句「不可得」相鄰時）就不再重複引用，改成指向上方節錄的一句
+POINTER_SENTENCE = 'Mekanisme tindakan dipetik di atas bersama sumbernya.'
+
+
+def pointer_sentence(src):
+    """指向上方節錄的一句，附同一個來源連結（mechanism 的 replacement 一律要附來源連結）。"""
+    link = f"[{'DailyMed' if 'dailymed' in src['url'] else 'ChEMBL'}]({src['url']})"
+    s = POINTER_SENTENCE
+    if s[-1] in "。":
+        return s[:-1] + f"（{link}）" + s[-1]
+    if s[-1] not in ".!?":
+        return s + f" ({link})"
+    return s[:-1] + f" ({link})" + s[-1]
+
+
+def _excerpt(r):
+    s = r.get("sources")
+    s = s[0] if isinstance(s, list) and s else s
+    return (s or {}).get("excerpt", "")
 
 
 def find_claim(text, protect=()):
@@ -130,7 +203,7 @@ def find_claim(text, protect=()):
                     rest = s[m.end():]
                     if rest:
                         return clause + conn + rest[0], rest[0].upper()
-                n = NEG.search(s)
+                n = NEG2.search(s) or NEG.search(s)  # 2026-11-20：新增寫法的否定詞也要算（不然會在否定詞前面的 , but 切開、換錯半句）
                 m2 = re.compile(r", (?:so|but) ").search(s, n.end() if n else 0)
                 if m2 and m2.end() < len(s):
                     return s[:m2.end() + 1], s[m2.end()].upper()
@@ -664,7 +737,13 @@ def main():
                 claim, tail = find_claim(text_local, prot)
                 if not claim:
                     break
-            rep = replacement_text(name, src, a.date, translation) + (" " + tail if tail else "")
+            core = replacement_text(name, src, a.date, translation)
+            cpos = text_local.find(claim)
+            if any(r.get("file") == p.name and _excerpt(r) == src["excerpt"] and 0 <= text_local.find(r.get("replacement", "\0")) < cpos
+                   for r in list(rev0) + added):
+                core = pointer_sentence(src)
+            rep = core + (" " + tail if tail else "")
+            claim, rep = reorder_src_tail(text_local, claim, rep)
             rec = {
                 "id": f"{PREFIX}-{a.date.replace('-', '')}-{p.stem}-{n + 1}",
                 "drug": p.stem,

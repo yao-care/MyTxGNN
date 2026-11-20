@@ -66,7 +66,7 @@ Midazolam ialah benzodiazepin bertindak singkat yang bertindak sebagai modulator
 
 Indikasi asal (keresahan dan sedasi) bergantung pada tindakan GABAergik yang sama. Oleh itu, ramalan ini lebih tepat dilihat sebagai penerokaan semula kesan farmakologi yang sudah diketahui, bukan mekanisme baharu. Midazolam oral pernah dikaji untuk gangguan tidur pada tahun 1980-an hingga 1990-an, termasuk kajian penentuan dos dan perbandingan multipusat dengan flurazepam.
 
-Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Midazolam (terjemahan tidak rasmi): “Midazolam ialah depresan sistem saraf pusat (SSP) benzodiazepina bertindak singkat.” Teks asal bahasa Inggeris: "Midazolam is a short-acting benzodiazepine central nervous system (CNS) depressant." ([DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e), versi 2025-07-31; diakses 2026-11-19). Penerangan mekanisme di atas berdasarkan analisis pautan mekanistik yang disusun untuk laporan ini.
+Penerangan mekanisme di atas berdasarkan analisis pautan mekanistik yang disusun untuk laporan ini. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Midazolam (terjemahan tidak rasmi): “Midazolam ialah depresan sistem saraf pusat (SSP) benzodiazepina bertindak singkat.” Teks asal bahasa Inggeris: "Midazolam is a short-acting benzodiazepine central nervous system (CNS) depressant." ([DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e), versi 2025-07-31; diakses 2026-11-19).
 
 ---
 
@@ -137,7 +137,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e) |
+| 2026-11-20 | "Medan data mekanisme tindakan asal tidak tersedia, dan status pasaran juga belum disahkan secara bebas. Penerangan mekanisme di atas berdasarkan analisis pautan mekanistik yang disusun untuk laporan ini" replaced with a sourced mechanism-of-action statement | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [DailyMed: Midazolam In Sodium Chloride (midazolam) prescribing information, WG Critical Care, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f051776f-94c5-4e34-80ed-f45b9c36881e) |
 
 <!-- review:end log -->
 

@@ -65,7 +65,7 @@ Guselkumab menyekat subunit p19 bagi IL-23. IL-23 mendorong pembezaan dan pengek
 
 Dalam kolitis ulseratif, IL-23 menggalakkan tindak balas Th17 pada mukosa dan keradangan usus kronik. Penyekatan selektif p19 disokong oleh data fasa 2b/3 (QUASAR).
 
-Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Guselkumab (terjemahan tidak rasmi): “Guselkumab ialah antibodi monoklonal IgG1λ manusia yang mengikat secara selektif pada subunit p19 interleukin 23 (IL-23) dan merencat interaksinya dengan reseptor IL-23. IL-23 ialah sitokin semula jadi yang terlibat dalam tindak balas keradangan dan imun yang normal.” Teks asal bahasa Inggeris: "Guselkumab is a human monoclonal IgG1λ antibody that selectively binds to the p19 subunit of interleukin 23 (IL-23) and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in normal inflammatory and immune responses." ([DailyMed: Tremfya (guselkumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56), versi 2026-10-20; diakses 2026-11-19). Huraian di atas berdasarkan literatur yang disenaraikan dalam laporan ini.
+Huraian di atas berdasarkan literatur yang disenaraikan dalam laporan ini. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Guselkumab (terjemahan tidak rasmi): “Guselkumab ialah antibodi monoklonal IgG1λ manusia yang mengikat secara selektif pada subunit p19 interleukin 23 (IL-23) dan merencat interaksinya dengan reseptor IL-23. IL-23 ialah sitokin semula jadi yang terlibat dalam tindak balas keradangan dan imun yang normal.” Teks asal bahasa Inggeris: "Guselkumab is a human monoclonal IgG1λ antibody that selectively binds to the p19 subunit of interleukin 23 (IL-23) and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in normal inflammatory and immune responses." ([DailyMed: Tremfya (guselkumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56), versi 2026-10-20; diakses 2026-11-19).
 
 ---
 
@@ -138,7 +138,7 @@ Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tinda
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Tremfya (guselkumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56) |
+| 2026-11-20 | "Data terperinci tentang mekanisme tindakan (MOA) daripada pangkalan data rujukan tidak tersedia. Huraian di atas berdasarkan literatur yang disenaraikan dalam laporan ini" replaced with a sourced mechanism-of-action statement | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [DailyMed: Tremfya (guselkumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56) |
 
 <!-- review:end log -->
 

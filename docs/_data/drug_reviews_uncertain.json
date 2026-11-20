@@ -1515,6 +1515,32 @@
     "ChEMBL drug mechanism"
    ],
    "reason": "no single-ingredient US prescription label for 'vitamin e' with a mechanism or clinical pharmacology section in openFDA; ChEMBL CHEMBL3989727 has no mechanism entry"
+  },
+  {
+   "file": "estradiol_benzoate.md",
+   "drug": "estradiol_benzoate",
+   "source": "mechanism of action",
+   "status": "open",
+   "added": "2026-11-20",
+   "issue": "Page says mechanism-of-action data is not available; no citable source found",
+   "searched": [
+    "openFDA drug label (US prescribing information)",
+    "ChEMBL drug mechanism"
+   ],
+   "reason": "no single-ingredient US prescription label for 'estradiol benzoate' with a mechanism or clinical pharmacology section in openFDA; no approved ChEMBL molecule named 'estradiol benzoate'"
+  },
+  {
+   "file": "sulodexide.md",
+   "drug": "sulodexide",
+   "source": "mechanism of action",
+   "status": "open",
+   "added": "2026-11-20",
+   "issue": "Page says mechanism-of-action data is not available; no citable source found",
+   "searched": [
+    "openFDA drug label (US prescribing information)",
+    "ChEMBL drug mechanism"
+   ],
+   "reason": "no single-ingredient US prescription label for 'sulodexide' with a mechanism or clinical pharmacology section in openFDA; no approved ChEMBL molecule named 'sulodexide'"
   }
  ]
 }

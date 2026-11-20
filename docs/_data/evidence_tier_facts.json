@@ -294,7 +294,7 @@
     "lt": 15,
     "lv": 15,
     "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "rs": "\"Medan data mekanisme tindakan asal tidak tersedia, dan status pasaran juga belum disahkan secara bebas.…",
     "x": 0
    },
    {
@@ -678,7 +678,7 @@
     "i": "hypertrichosis (disease)",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"tidak didaftarkan di Malaysia dan\"",
     "x": 0
    },
@@ -1009,7 +1009,7 @@
   "with_current": 520,
   "none_current": 3,
   "without_data": 0,
-  "with_reviews": 436,
+  "with_reviews": 439,
   "rows": [
    {
     "t": "Ascorbic Acid",
@@ -1304,8 +1304,8 @@
     "i": "Keratokonjunktivitis epitelium punktat",
     "lt": 57,
     "lv": 55,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1953,8 +1953,8 @@
     "i": "pleural adenomatoid tumor",
     "lt": 25,
     "lv": 24,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Data mekanisme terperinci daripada pangkalan data ubat tidak tersedia dalam data yang dikumpulkan untuk…",
     "x": 0
    },
    {
@@ -2261,7 +2261,7 @@
     "i": "Porfiria intermiten akut",
     "lt": 18,
     "lv": 18,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"dan ubat ini tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -2449,7 +2449,7 @@
     "lt": 15,
     "lv": 15,
     "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "rs": "\"Perlu diingatkan bahawa data mekanisme tindakan (MOA) asal tidak tersedia dalam data yang dikumpulkan.…",
     "x": 0
    },
    {
@@ -5265,7 +5265,7 @@
     "lt": 2,
     "lv": 2,
     "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "rs": "\"Data terperinci tentang mekanisme tindakan (MOA) daripada pangkalan data rujukan tidak tersedia. Huraian di…",
     "x": 0
    },
    {
@@ -5275,7 +5275,7 @@
     "i": "Neoplasma pra-malignan",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"dan produk tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -6012,8 +6012,8 @@
     "i": "Amenorea",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6639,7 +6639,7 @@
     "i": "Migrain",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia, dan\"",
     "x": 0
    },

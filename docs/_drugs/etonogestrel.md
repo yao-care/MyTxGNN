@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 342
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 monitor_inn: "ETONOGESTREL"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "blunt duct adenosis of breast", "apocrine adenosis of breast", "benign mammary dysplasia"]
 description: "Etonogestrel: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **amenorea**, tetapi pada masa 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, etonogestrel ialah progestin berkesan yang menekan ovulasi dan menyebabkan atrofi endometrium.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Etonogestrel (terjemahan tidak rasmi): “Kesan kontraseptif NEXPLANON dicapai melalui penindasan ovulasi, peningkatan kelikatan mukus serviks, dan perubahan pada endometrium.” Teks asal bahasa Inggeris: "The contraceptive effect of NEXPLANON is achieved by suppression of ovulation, increased viscosity of the cervical mucus, and alterations in the endometrium." ([DailyMed: Nexplanon (etonogestrel) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=487f8a62-e142-457c-97cc-2e398fde7594), versi 2026-05-28; diakses 2026-11-20). Berdasarkan maklumat yang diketahui, etonogestrel ialah progestin berkesan yang menekan ovulasi dan menyebabkan atrofi endometrium.
 
 Amenorea merupakan kesan yang diketahui bagi implan etonogestrel. Skor tinggi model kemungkinan besar mencerminkan kesan farmakologi ini. Ia merupakan **kesan advers atau kesan yang dijangka**, bukan indikasi terapeutik. Menggunakannya sebagai sasaran repurposing memerlukan rasional klinikal yang jelas, contohnya rawatan amenorea sekunder, dan rasional sedemikian tidak disokong oleh data yang ada.
 
@@ -112,6 +112,19 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 - Rasional klinikal yang jelas untuk penggunaan terapeutik (contohnya amenorea sekunder) berbanding kesan advers
 - Bukti klinikal atau literatur yang berkaitan
 - Penilaian keserasian laluan pentadbiran dan status pendaftaran tempatan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-20 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Nexplanon (etonogestrel) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=487f8a62-e142-457c-97cc-2e398fde7594) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.
