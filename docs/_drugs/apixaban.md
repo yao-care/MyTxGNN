@@ -54,7 +54,7 @@ Apixaban ialah antikoagulan oral yang merencat faktor Xa secara langsung. Model 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Apixaban ialah perencat langsung faktor Xa yang mengurangkan pembentukan trombin dan bekuan darah.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Apixaban (terjemahan tidak rasmi): “Apixaban ialah perencat selektif FXa. Ia tidak memerlukan antitrombin III untuk aktiviti antitrombotik. Apixaban merencat FXa bebas dan FXa yang terikat pada bekuan, serta aktiviti protrombinase. Apixaban tidak mempunyai kesan langsung terhadap pengagregatan platelet, tetapi secara tidak langsung merencat pengagregatan platelet yang dicetuskan oleh trombin.” Teks asal bahasa Inggeris: "Apixaban is a selective inhibitor of FXa. It does not require antithrombin III for antithrombotic activity. Apixaban inhibits free and clot-bound FXa, and prothrombinase activity. Apixaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin." ([DailyMed: Eliquis (apixaban) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41a133ef-e461-48ad-8221-b735bdd0ec25), versi 2026-09-24; diakses 2026-11-19). Apixaban ialah perencat langsung faktor Xa yang mengurangkan pembentukan trombin dan bekuan darah.
 
 Hubungan dengan migrain adalah tidak langsung. Satu hipotesis ialah migrain dengan aura, terutamanya apabila disertai pirau kanan-ke-kiri seperti foramen ovale paten (PFO) atau antibodi antifosfolipid, mungkin melibatkan mikrotrombus atau embolisme paradoksikal, sehingga antikoagulasi secara teori boleh mengurangkan episod aura.
 
@@ -111,11 +111,12 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-17 | Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan 30 lesen sah; 2 nombor pendaftaran lama (MAL23056021AZ, MAL23056022AZ) ti” | Dibetulkan (disemak 2026-11-17; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Eliquis (apixaban) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41a133ef-e461-48ad-8221-b735bdd0ec25) |
 
 <!-- review:end log -->
 

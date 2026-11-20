@@ -60,7 +60,7 @@ Tahap bukti ialah **L2**, berdasarkan satu ujian rawak berkawal plasebo bagi pil
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia. Levonorgestrel ialah progestin dengan sedikit aktiviti androgenik sisa (PMID 7825629), jadi dengan sendirinya ia bukan terapi jerawat yang jelas.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Levonorgestrel (terjemahan tidak rasmi): “Mekanisme setempat bagaimana LNG yang dilepaskan secara berterusan menyumbang kepada keberkesanan kontraseptif Skyla belum dibuktikan secara muktamad. Kajian terhadap Skyla dan prototaip IUS LNG yang serupa telah mencadangkan beberapa mekanisme yang mencegah kehamilan: penebalan mukus serviks yang menghalang laluan sperma ke dalam uterus, perencatan kapasitasi atau kemandirian sperma, dan perubahan endometrium.” Teks asal bahasa Inggeris: "The local mechanism by which continuously released LNG contributes to the contraceptive effectiveness of Skyla has not been conclusively demonstrated. Studies of Skyla and similar LNG IUS prototypes have suggested several mechanisms that prevent pregnancy: thickening of cervical mucus preventing passage of sperm into the uterus, inhibition of sperm capacitation or survival, and alteration of the endometrium." ([DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309), versi 2026-03-04; diakses 2026-11-19). Levonorgestrel ialah progestin dengan sedikit aktiviti androgenik sisa (PMID 7825629), jadi dengan sendirinya ia bukan terapi jerawat yang jelas.
 
 Manfaat terhadap jerawat biasanya dikaitkan dengan komponen estrogen atau progestin anti-androgenik dalam pil kontraseptif oral gabungan (contohnya klormadinon asetat, PMID 21895044). Estrogen dosis rendah dalam gabungan boleh menurunkan androgen bioavailabel, dan androgen memainkan peranan penting dalam jerawat.
 
@@ -125,11 +125,12 @@ Terdapat satu RCT berkawal plasebo (tahap bukti L2) bagi gabungan etinilestradio
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Berdasarkan data tempatan, status pasaran ialah dipasarkan, dengan 15 lesen sah dan tiada lesen dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309) |
 
 <!-- review:end log -->
 

@@ -62,7 +62,7 @@ Bukti masih terhad kepada tahap pemerhatian dan kajian kecil, dan tiada ujian pe
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, selegiline ialah perencat MAO-B (dan turut menghalang MAO-A pada dos lebih tinggi) yang meningkatkan ketersediaan dopamin. Keberkesanannya dalam penyakit Parkinson telah terbukti, dan secara mekanistik ia mungkin sesuai untuk skizofrenia.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Selegiline (terjemahan tidak rasmi): “Selegilin ialah perencat tidak berbalik monoamina oksidase (MAO), yang mengawal atur degradasi metabolik katekolamina dan serotonin dalam sistem saraf pusat dan tisu periferi. Pada dos yang disyorkan, selegilin adalah selektif terhadap MAO jenis B (MAO-B), iaitu bentuk utama di dalam otak.” Teks asal bahasa Inggeris: "Selegiline is an irreversible inhibitor of monoamine oxidase (MAO), which regulates the metabolic degradation of catecholamines and serotonin in the central nervous system and peripheral tissues. At recommended doses, selegiline is selective for MAO type B (MAO-B), the major form in the brain." ([DailyMed: Zelapar (selegiline hydrochloride) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=380d7717-2a79-42f3-a712-efe5e7696ba0), versi 2021-06-01; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, selegiline ialah perencat MAO-B (dan turut menghalang MAO-A pada dos lebih tinggi) yang meningkatkan ketersediaan dopamin. Keberkesanannya dalam penyakit Parkinson telah terbukti, dan secara mekanistik ia mungkin sesuai untuk skizofrenia.
 
 Gejala negatif skizofrenia (seperti kurang motivasi dan penarikan diri) dikaitkan dengan fungsi dopaminergik prefrontal yang rendah. Peningkatan dopamin oleh selegiline boleh menyasarkan masalah ini sebagai terapi tambahan kepada ubat antipsikotik. Selegiline juga mungkin mempunyai kesan antioksidan atau pelindung saraf, dan tinjauan Cochrane tentang rawatan antioksidan untuk skizofrenia ada disenaraikan dalam literatur. Bentuk transdermal juga mempunyai kaitan antidepresan.
 
@@ -140,12 +140,13 @@ Perhatikan bahawa senarai kontraindikasi graf merangkumi gangguan psikotik dan s
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "ubat ini tidak dipasarkan di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-05 | Dipadam: "memandangkan tiada lesen tempatan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Zelapar (selegiline hydrochloride) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=380d7717-2a79-42f3-a712-efe5e7696ba0) |
 
 <!-- review:end log -->
 

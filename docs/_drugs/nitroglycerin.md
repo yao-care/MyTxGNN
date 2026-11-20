@@ -60,7 +60,7 @@ Nitrogliserin ialah penderma nitrik oksida (NO) dan nitrat organik yang digunaka
 
 Nitrogliserin ialah nitrat organik dan penderma NO. NO mengaktifkan *soluble guanylate cyclase* dalam otot licin vaskular, meningkatkan cGMP dan menyebabkan vasodilasi. Laluan NO-cGMP ini juga merupakan paksi vasodilator pulmonari yang digunakan dalam hipertensi pulmonari.
 
-Data mekanisme tindakan terperinci (MOA) daripada pangkalan data tidak tersedia, namun penerangan mekanisme di atas konsisten dengan farmakologi nitrat yang diketahui. Penghantaran secara disedut atau dinebulis berpotensi menurunkan rintangan vaskular pulmonari secara lebih terpilih sambil mengehadkan hipotensi sistemik.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Nitroglycerin (terjemahan tidak rasmi): “Nitrogliserin membentuk radikal bebas nitrik oksida (NO), yang mengaktifkan guanilat siklase, mengakibatkan peningkatan guanosina 3',5'-monofosfat (GMP siklik) dalam otot licin dan tisu lain. Ini akhirnya membawa kepada penyahfosforilan rantai ringan miosin, yang mengawal keadaan pengecutan dalam otot licin dan mengakibatkan vasodilatasi.” Teks asal bahasa Inggeris: "Nitroglycerin forms free radical nitric oxide (NO), which activates guanylate cyclase, resulting in an increase of guanosine 3',5'-monophosphate (cyclic GMP) in smooth muscle and other tissues. This eventually leads to dephosphorylation of myosin light chains, which regulates the contractile state in smooth muscle and results in vasodilatation." ([DailyMed: Nitroglycerin Lingual (nitroglycerin) prescribing information, Allegis Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fadd07b7-189b-4678-ad0f-bf1e4d3d1300), versi 2025-12-17; diakses 2026-11-19). Penghantaran secara disedut atau dinebulis berpotensi menurunkan rintangan vaskular pulmonari secara lebih terpilih sambil mengehadkan hipotensi sistemik.
 
 Beberapa kaveat perlu diambil kira: toleransi nitrat, kemungkinan pemburukan padanan ventilasi-perfusi, dan ketiadaan percubaan terkawal berskala besar.
 
@@ -138,11 +138,12 @@ Maklumat amaran utama daripada sisipan pakej tidak tersedia. Sila rujuk sisipan 
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Produk juga tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Nitroglycerin Lingual (nitroglycerin) prescribing information, Allegis Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fadd07b7-189b-4678-ad0f-bf1e4d3d1300) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ Asid salisilik ialah agen keratolitik topikal yang juga merupakan perencat COX t
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, asid salisilik ialah agen keratolitik topikal dan perencat COX tidak selektif. Melalui pengurangan keradangan yang dimediasi prostaglandin, secara teori ia boleh dikaitkan dengan keadaan keradangan atau alahan pada permukaan mata.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Salicylic Acid (terjemahan tidak rasmi): “Walaupun cara tindakan sebenar asid salisilik dalam rawatan ketuat tidak diketahui, aktivitinya kelihatan berkaitan dengan tindakan keratolitiknya, yang mengakibatkan penyingkiran mekanikal sel epidermis yang dijangkiti virus ketuat.” Teks asal bahasa Inggeris: "Although the exact mode of action for salicylic acid in the treatment of warts is unknown, its activity appears to be associated with its keratolytic action, which results in mechanical removal of epidermal cells infected with wart viruses." ([DailyMed: Xalix (salicylic acid) prescribing information, Cintex Services, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41369b38-7f15-b597-e063-6394a90a614b), versi 2025-10-15; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, asid salisilik ialah agen keratolitik topikal dan perencat COX tidak selektif. Melalui pengurangan keradangan yang dimediasi prostaglandin, secara teori ia boleh dikaitkan dengan keadaan keradangan atau alahan pada permukaan mata.
 
 Namun, hubungan ini bersifat spekulatif dan hanya bersandarkan skor ramalan model TxGNN (pembelajaran mendalam), yang mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Tiada penggunaan oftalmik disokong, dan penggunaan terus pada mata menimbulkan kebimbangan iritasi dan ketoksikan kornea.
 
@@ -100,6 +100,19 @@ Ramalan ini hanya berasaskan model (tahap bukti L5) tanpa sebarang percubaan kli
 - Amaran dan kontraindikasi daripada sisip bungkusan NPRA
 - Kajian praklinikal keselamatan oftalmik dan kesesuaian laluan pemberian
 - Bukti literatur atau percubaan yang mengkaji konjunktivitis papilari secara langsung
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Xalix (salicylic acid) prescribing information, Cintex Services, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41369b38-7f15-b597-e063-6394a90a614b) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

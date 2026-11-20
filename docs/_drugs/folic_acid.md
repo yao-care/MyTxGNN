@@ -54,7 +54,7 @@ Asid folik ialah vitamin B yang digunakan untuk merawat kekurangan vitamin dan b
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data terperinci tentang mekanisme tindakan asid folik tidak tersedia. Berdasarkan maklumat yang diketahui, asid folik ialah vitamin B yang terlibat dalam metabolisme satu karbon, dan kegunaannya dalam anemia kekurangan folat telah dikenali. Namun, kebolehgunaannya pada penyakit metabolik biotin belum dapat disahkan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Folic Acid (terjemahan tidak rasmi): “Asid folik bertindak ke atas sumsum tulang megaloblastik untuk menghasilkan sumsum normoblastik. Pada manusia, sumber folat eksogen diperlukan untuk sintesis nukleoprotein dan pengekalan eritropoiesis normal. Asid folik ialah prekursor asid tetrahidrofolik, yang terlibat sebagai kofaktor bagi tindak balas transformilasi dalam biosintesis purin dan timidilat asid nukleik.” Teks asal bahasa Inggeris: "Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, an exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids." ([DailyMed: Quiofic (folic acid) prescribing information, Solubiomix, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b868b314-591d-458b-be82-2bcd0b73cce1), versi 2026-10-05; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, asid folik ialah vitamin B yang terlibat dalam metabolisme satu karbon, dan kegunaannya dalam anemia kekurangan folat telah dikenali. Namun, kebolehgunaannya pada penyakit metabolik biotin belum dapat disahkan.
 
 Penyakit metabolik biotin (contohnya kekurangan biotinidase dan kekurangan holokarboksilase sintetase) melibatkan kecacatan dalam kitar semula biotin atau pengaktifan karboksilase yang bergantung pada biotin. Penyakit ini dirawat dengan suplemen biotin, bukan folat. Asid folik tidak diketahui dapat membetulkan kecacatan enzim asas tersebut.
 
@@ -99,6 +99,19 @@ Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia; sila ruju
 - Muat turun dan huraian sisipan pakej NPRA (amaran dan kontraindikasi) – jurang data yang menghalang saringan keselamatan.
 - Semakan literatur dan pendaftaran kajian untuk menilai sama ada terdapat sebarang bukti langsung bagi penyakit metabolik biotin.
 - Penilaian pakar sama ada asid folik boleh berperanan sebagai sokongan sahaja (contohnya jika terdapat kekurangan folat serentak), berbanding rawatan biotin standard.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Quiofic (folic acid) prescribing information, Solubiomix, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b868b314-591d-458b-be82-2bcd0b73cce1) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -61,7 +61,7 @@ Ramalan ini hanya berdasarkan model komputer (L5) dan tidak mempunyai asas mekan
 
 ## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Iopromide diketahui sebagai agen kontras beriodin bukan ionik yang digunakan untuk pengimejan diagnostik. Ia tidak mempunyai tindakan farmakologi yang diketahui terhadap rawan sendi atau laluan keradangan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Iopromide (terjemahan tidak rasmi): “Suntikan intravaskular iopromida melegapkan salur darah yang mengandungi agen kontras, membolehkan visualisasi radiografi struktur dalaman melalui pengecilan foton. Dalam pengimejan badan, agen kontras beriodin meresap daripada salur darah ke dalam ruang ekstravaskular.” Teks asal bahasa Inggeris: "Intravascular injection of iopromide opacifies those vessels where the contrast agent is present, permitting radiographic visualization of the internal structures through attenuation of photons. In imaging of the body, iodinated contrast agents diffuse from the vessels into the extravascular space." ([DailyMed: Ultravist (iopromide) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df917c3a-59a2-4ed1-8470-8a5394c73325), versi 2026-03-02; diakses 2026-11-19). Iopromide diketahui sebagai agen kontras beriodin bukan ionik yang digunakan untuk pengimejan diagnostik. Ia tidak mempunyai tindakan farmakologi yang diketahui terhadap rawan sendi atau laluan keradangan.
 
 Satu-satunya kaitan yang munasabah dengan penyakit sendi ialah penggunaannya sebagai medium kontras intra-artikular untuk artrografi. Ini ialah kegunaan **diagnostik**, bukan **terapeutik**. Oleh itu, tiada pautan mekanisme yang kukuh antara iopromide dan osteoartritis.
 
@@ -112,6 +112,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah pek (package insert).
 - Data mekanisme tindakan (MOA) daripada DrugBank
 - Teks indikasi yang diluluskan bagi kedua-dua pendaftaran di Malaysia
 - Sebarang bukti praklinikal atau klinikal yang mengkaji iopromide secara langsung dalam osteoartritis sebelum pertimbangan lanjut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ultravist (iopromide) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df917c3a-59a2-4ed1-8470-8a5394c73325) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -60,7 +60,7 @@ tetapi setakat ini hanya terdapat **0 percubaan klinikal** dan **1 penerbitan** 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) ubat ini tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan umum, sulfametoksazol ialah antibakteria sulfonamida yang menghalang enzim dihidropteroat sintase bakteria, lalu menyekat sintesis folat yang diperlukan untuk pertumbuhan bakteria.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Sulfamethoxazole ialah (terjemahan tidak rasmi): “Perencat dihidropteroat sintase bakteria” Teks asal bahasa Inggeris: "Bacterial dihydropteroate synthase inhibitor" ([ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan pengetahuan umum, sulfametoksazol ialah antibakteria sulfonamida yang menghalang enzim dihidropteroat sintase bakteria, lalu menyekat sintesis folat yang diperlukan untuk pertumbuhan bakteria.
 
 Konjunktivitis berjangkit akut lazimnya disebabkan oleh bakteria (contohnya *Staphylococcus aureus*, *Streptococcus pneumoniae* dan *Haemophilus influenzae*), maka mekanisme antibakteria secara teorinya boleh digunakan. Namun, konjunktivitis sudah pun tersenarai dalam indikasi asal ubat ini, jadi ramalan ini lebih tepat dianggap indikasi yang bertindih atau dilabel semula berbanding calon pelanggaran semula yang sebenar.
 
@@ -83,7 +83,6 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -114,6 +113,19 @@ Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA tidak tersedia. S
 - Penilaian kesesuaian laluan pemberian (sediaan oftalmik berbanding sistemik)
 - Bukti klinikal tambahan (percubaan terkawal rawak atau kajian keberkesanan) serta data kerentanan bakteria tempatan
 - Semakan status pendaftaran dan kemungkinan pemasaran di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

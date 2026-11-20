@@ -58,7 +58,7 @@ Atezolizumab ialah antibodi monoklonal yang dalam graf pengetahuan TxGNN direkod
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Atezolizumab ialah perencat PD-L1 yang bertujuan memulihkan aktiviti sel T terhadap tumor. Tahap skor model sangat tinggi, tetapi ini tidak menggantikan bukti klinikal.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Atezolizumab (terjemahan tidak rasmi): “PD L1 boleh diekspresikan pada sel tumor dan/atau sel imun yang menginfiltrasi tumor dan boleh menyumbang kepada perencatan tindak balas imun antitumor dalam mikropersekitaran tumor. Pengikatan PD L1 kepada reseptor PD 1 dan B7.1 yang terdapat pada sel T dan sel pembentang antigen menyekat aktiviti sel T sitotoksik, proliferasi sel T dan penghasilan sitokin. […] Atezolizumab ialah antibodi monoklonal yang mengikat PD L1 dan menyekat interaksinya dengan kedua-dua reseptor PD 1 dan B7.1.” Teks asal bahasa Inggeris: "PD L1 may be expressed on tumor cells and/or tumor infiltrating immune cells and can contribute to the inhibition of the anti-tumor immune response in the tumor microenvironment. Binding of PD L1 to the PD 1 and B7.1 receptors found on T cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation and cytokine production. […] Atezolizumab is a monoclonal antibody that binds to PD L1 and blocks its interactions with both PD 1 and B7.1 receptors." ([DailyMed: Tecentriq (atezolizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee), versi 2026-10-13; diakses 2026-11-19). Atezolizumab ialah perencat PD-L1 yang bertujuan memulihkan aktiviti sel T terhadap tumor. Tahap skor model sangat tinggi, tetapi ini tidak menggantikan bukti klinikal.
 
 Hubungan yang mungkin ialah perencatan PD-L1 pada adenokarsinoma ginekologi. Hubungan ini bersifat spekulatif bagi entiti yang jarang berlaku dan khusus kepada tapak ini. Kaitan dengan indikasi asal (karsinoma sel peralihan) juga belum dinilai, dan tiada data klinikal untuk menyokong kesesuaian mekanisme.
 
@@ -136,6 +136,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek.
 - Data mekanisme tindakan daripada DrugBank.
 - Carian literatur dan pendaftaran ujian khusus untuk adenokarsinoma ligamen uterus, atau penilaian sama ada ia boleh dikaji bersama kohort kanser serviks/ginekologi.
 - Pertimbangan untuk menilai semula ramalan karsinoma endoserviks, yang mempunyai bukti awal lebih kukuh walaupun sampelnya kecil.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Tecentriq (atezolizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

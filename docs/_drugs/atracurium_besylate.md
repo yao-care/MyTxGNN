@@ -54,7 +54,7 @@ Atracurium besylate ialah penyekat neuromuskular bukan depolarisasi yang digunak
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia. Atracurium diketahui sebagai antagonis reseptor asetilkolin nikotinik pada sambungan neuromuskular, dan ia turut menyebabkan pembebasan histamin serta pelebaran saluran darah sementara.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Atracurium Besylate (terjemahan tidak rasmi): “Atracurium besylate ialah pelemas otot rangka tanpa penyahkutuban. Agen tanpa penyahkutuban mengantagonis tindakan neurotransmiter asetilkolina dengan terikat secara kompetitif pada tapak reseptor kolinergik di plat hujung motor.” Teks asal bahasa Inggeris: "Atracurium besylate is a nondepolarizing skeletal muscle relaxant. Nondepolarizing agents antagonize the neurotransmitter action of acetylcholine by binding competitively with cholinergic receptor sites on the motor end-plate." ([DailyMed: atracurium besylate prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efe90ee2-fe9e-421f-9e54-2961085d3b12), versi 2024-12-04; diakses 2026-11-19). Atracurium diketahui sebagai antagonis reseptor asetilkolin nikotinik pada sambungan neuromuskular, dan ia turut menyebabkan pembebasan histamin serta pelebaran saluran darah sementara.
 
 Tiada hubungan mekanistik yang mantap antara tindakan ini dengan patofisiologi preeklampsia, iaitu disfungsi plasenta, ketidakseimbangan angiogenik dan kecederaan endotelium. Dalam praktik obstetrik, penyekat neuromuskular hanya digunakan sebagai bahan tambahan anestesia semasa pembedahan. Magnesium sulfat, yang digunakan dalam preeklampsia, menguatkan sekatan neuromuskular. Ini merupakan isu keselamatan, bukan asas terapeutik.
 
@@ -86,6 +86,19 @@ Tiada ujian klinikal, penerbitan atau hubungan mekanistik yang munasabah untuk m
 - Kajian praklinikal atau kajian klinikal yang mengkaji secara langsung kesan atracurium terhadap preeklampsia
 - Amaran, kontraindikasi dan maklumat interaksi ubat daripada risalah maklumat produk NPRA, terutamanya interaksi dengan magnesium sulfat
 - Penilaian keserasian laluan pentadbiran (atracurium diberikan secara intravena sahaja)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: atracurium besylate prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efe90ee2-fe9e-421f-9e54-2961085d3b12) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

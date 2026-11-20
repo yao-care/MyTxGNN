@@ -59,7 +59,7 @@ Iodixanol ialah agen kontras radiografi beryodium, bukan ionik dan iso-osmolar y
 
 ## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Iodixanol dikenali sebagai agen kontras beryodium bukan ionik dan iso-osmolar yang berfungsi menyerap sinar-X untuk meningkatkan kejelasan imej. Tiada aktiviti pengubah penyakit atau pelega simptom yang diketahui dalam osteoartritis.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Iodixanol (terjemahan tidak rasmi): “Suntikan intravaskular iodixanol melegapkan salur darah di sepanjang laluan aliran agen kontras, membolehkan visualisasi struktur dalaman. Dalam pengimejan badan, agen kontras beriodin meresap dari ruang vaskular ke dalam ruang ekstravaskular.” Teks asal bahasa Inggeris: "Intravascular injection of iodixanol opacifies vessels in the path of flow of the contrast agent, permitting visualization of internal structures. In imaging of the body, iodinated contrast agents diffuse from the vascular into the extravascular space." ([DailyMed: Visipaque (iodixanol) prescribing information, GE Healthcare Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d964c13-88ad-43be-88d4-a3a7ea4d5b5e), versi 2026-10-16; diakses 2026-11-19). Iodixanol dikenali sebagai agen kontras beryodium bukan ionik dan iso-osmolar yang berfungsi menyerap sinar-X untuk meningkatkan kejelasan imej. Tiada aktiviti pengubah penyakit atau pelega simptom yang diketahui dalam osteoartritis.
 
 Kesusasteraan yang ditemui hanya menggunakan iodixanol sebagai bahan penyiasat pengimejan, misalnya CT dipertingkat kontras bagi tulang rawan, dan kajian resapan bahan larut merentasi antara muka osteokondral. Ini menunjukkan perkaitan dengan osteoartritis dari segi pengimejan dan bukan terapeutik. Kajian keserasian in vitro dengan plasma kaya platelet (PRP) hanya menunjukkan bahawa agen kontras beryodium tidak menjejaskan fungsi PRP pada peringkat awal, iaitu penemuan keserasian untuk prosedur berpandukan imej.
 
@@ -127,6 +127,19 @@ Tiada kajian yang menilai iodixanol secara langsung sebagai rawatan osteoartriti
 ## Ramalan Kedua (Rujukan): Artritis Reumatoid
 
 Skor TxGNN ialah 0.9900 dan tahap bukti L5 (keputusan: Hold). Tiada percubaan klinikal. Satu-satunya penerbitan ([PMID 36628042](https://pubmed.ncbi.nlm.nih.gov/36628042/), 2022, *Cureus*) ialah laporan kes penyahpekaan terhadap agen kontras lain (iohexol) pada pesakit dengan amiloidosis sekunder akibat artritis reumatoid. Ia bukan bukti keberkesanan dan tidak melibatkan iodixanol. Tiada mekanisme imunomodulasi atau anti-radang yang diketahui bagi iodixanol.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Visipaque (iodixanol) prescribing information, GE Healthcare Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d964c13-88ad-43be-88d4-a3a7ea4d5b5e) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

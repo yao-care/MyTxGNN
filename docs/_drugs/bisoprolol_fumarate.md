@@ -63,7 +63,7 @@ tetapi **tiada kajian klinikal** dan **tiada penerbitan** dalam data yang dikump
 
 Bisoprolol ialah penyekat beta-1 terpilih. Ia menurunkan tekanan darah dengan mengurangkan kadar denyutan jantung, curahan jantung dan rembesan renin. Pengurangan renin secara teori boleh membantu dalam penyakit renal yang berkaitan dengan hipertensi, maka hubungan ini koheren dari sudut biologi.
 
-Namun begitu, data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Hipertensi malignan ialah kecemasan hipertensif yang biasanya diurus dengan agen intravena yang boleh dititrasi; penyekat beta oral hanya bersifat tambahan. Skor TxGNN yang sangat tinggi (0,9994) ialah ramalan pengiraan semata-mata, dan ia berkemungkinan mencerminkan aktiviti antihipertensif yang sedia diketahui, bukannya isyarat penggunaan semula yang benar-benar baharu.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Bisoprolol Fumarate (terjemahan tidak rasmi): “BISOPROLOL FUMARATE ialah agen penyekat adrenoseptor beta 1 -selektif (kardioselektif) tanpa aktiviti penstabilan membran yang ketara atau aktiviti simpatomimetik intrinsik dalam julat dos terapeutiknya. Walau bagaimanapun, kardioselektiviti tidak mutlak, dan pada dos yang lebih tinggi (≥ 20 mg) bisoprolol fumarate juga merencat adrenoseptor beta 2, yang terletak terutamanya dalam otot bronkus dan vaskular; oleh itu, untuk mengekalkan selektiviti adalah penting untuk menggunakan dos berkesan yang paling rendah.” Teks asal bahasa Inggeris: "BISOPROLOL FUMARATE is a beta 1 -selective (cardioselective) adrenoceptor blocking agent without significant membrane stabilizing activity or intrinsic sympathomimetic activity in its therapeutic dosage range. Cardioselectivity is not absolute, however, and at higher doses (≥ 20 mg) bisoprolol fumarate also inhibits beta 2 -adrenoceptors, chiefly located in the bronchial and vascular musculature; to retain selectivity it is therefore important to use the lowest effective dose." ([DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e), versi 2026-11-11; diakses 2026-11-19). Hipertensi malignan ialah kecemasan hipertensif yang biasanya diurus dengan agen intravena yang boleh dititrasi; penyekat beta oral hanya bersifat tambahan. Skor TxGNN yang sangat tinggi (0,9994) ialah ramalan pengiraan semata-mata, dan ia berkemungkinan mencerminkan aktiviti antihipertensif yang sedia diketahui, bukannya isyarat penggunaan semula yang benar-benar baharu.
 
 ---
 
@@ -115,6 +115,19 @@ Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau pener
 - Data mekanisme tindakan terperinci (MOA)
 - Kajian klinikal atau literatur yang mengkaji bisoprolol secara langsung dalam penyakit renal hipertensif malignan
 - Penilaian peranan penyekat beta oral berbanding rawatan intravena standard dalam keadaan ini
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

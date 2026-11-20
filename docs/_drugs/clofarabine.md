@@ -56,7 +56,7 @@ dengan **41 percubaan klinikal** dan **20 penerbitan** yang disenaraikan dalam d
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Clofarabine ialah analog nukleosida purin generasi kedua. Ia menghalang ribonukleotida reduktase dan DNA polimerase, mengurangkan kolam deoksinukleosida trifosfat yang diperlukan untuk replikasi DNA, dan mencetuskan apoptosis melalui laluan mitokondria. Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan; huraian ini berdasarkan farmakologi clofarabine yang diketahui dalam literatur yang disenaraikan.
+Clofarabine ialah analog nukleosida purin generasi kedua. Ia menghalang ribonukleotida reduktase dan DNA polimerase, mengurangkan kolam deoksinukleosida trifosfat yang diperlukan untuk replikasi DNA, dan mencetuskan apoptosis melalui laluan mitokondria. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Clofarabine (terjemahan tidak rasmi): “Clofarabine dimetabolismekan secara berturutan di dalam sel kepada metabolit 5’-monofosfat oleh deoksisitidina kinase dan mono- dan di-fosfo-kinase kepada metabolit aktif 5’-trifosfat. Clofarabine mempunyai afiniti terhadap enzim pemfosforilan pengaktif, deoksisitidina kinase, yang sama dengan atau lebih besar daripada afiniti substrat semula jadi, deoksisitidina.” Teks asal bahasa Inggeris: "Clofarabine is sequentially metabolized intracellularly to the 5’-monophosphate metabolite by deoxycytidine kinase and mono- and di-phospho-kinases to the active 5’-triphosphate metabolite. Clofarabine has affinity for the activating phosphorylating enzyme, deoxycytidine kinase, equal to or greater than that of the natural substrate, deoxycytidine." ([DailyMed: clofarabine prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26b2de66-6518-49ab-820e-492454cbc873), versi 2026-08-24; diakses 2026-11-19).
 
 Mekanisme ini bertindak ke atas sel blast hematopoietik yang membahagi dengan cepat, yang sama dalam pelbagai leukemia akut. Oleh itu, kaitan biologi antara leukemia limfoblastik dengan leukemia mieloid adalah munasabah. Percubaan klinikal Fasa 3 yang melibatkan pesakit leukemia mieloid akut (AML) turut menyokong arah ini.
 
@@ -123,6 +123,19 @@ Dua percubaan Fasa 3 yang selesai (NCT02085408 dan NCT00317642) mengkaji clofara
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Data mekanisme tindakan yang dirujuk daripada DrugBank
 - Pelan pemantauan keselamatan untuk pesakit warga tua dan pesakit dengan gangguan hati atau buah pinggang
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: clofarabine prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26b2de66-6518-49ab-820e-492454cbc873) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -55,7 +55,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **malformasi pernafasan (respir
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Salmeterol diketahui tergolong dalam kelas agonis beta-2 bertindak panjang yang merelaksasikan otot licin saluran udara.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Salmeterol (terjemahan tidak rasmi): “Salmeterol ialah LABA selektif. Kajian in vitro menunjukkan salmeterol sekurang-kurangnya 50 kali lebih selektif terhadap adrenoseptor beta 2 berbanding albuterol. Walaupun adrenoseptor beta 2 ialah reseptor adrenergik utama dalam otot licin bronkus dan adrenoseptor beta 1 ialah reseptor utama dalam jantung, terdapat juga adrenoseptor beta 2 dalam jantung manusia yang merangkumi 10% hingga 50% daripada jumlah adrenoseptor beta.” Teks asal bahasa Inggeris: "Salmeterol is a selective LABA. In vitro studies show salmeterol to be at least 50 times more selective for beta 2 -adrenoceptors than albuterol. Although beta 2 -adrenoceptors are the predominant adrenergic receptors in bronchial smooth muscle and beta 1 -adrenoceptors are the predominant receptors in the heart, there are also beta 2 -adrenoceptors in the human heart comprising 10% to 50% of the total beta-adrenoceptors." ([DailyMed: Serevent Diskus (salmeterol xinafoate) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d9728e-6b5c-4aee-bfb0-745e542ed2e4), versi 2022-10-10; diakses 2026-11-19). Salmeterol diketahui tergolong dalam kelas agonis beta-2 bertindak panjang yang merelaksasikan otot licin saluran udara.
 
 Hujah teori yang ada bersandar pada rangsangan frekuensi denyutan silia oleh agonis beta-2, yang mungkin relevan dalam gangguan silia seperti diskinesia silia primer. Namun, "malformasi pernafasan" ialah kategori struktur yang sangat heterogen, dan tiada bukti klinikal langsung menunjukkan salmeterol memberi manfaat. Kaitan ini lemah dan tidak langsung.
 
@@ -106,6 +106,18 @@ Ramalan ini hanya disokong oleh model; percubaan dan penerbitan yang ada tidak m
 - Kajian praklinikal atau klinikal yang menyasarkan subjenis malformasi pernafasan tertentu, termasuk gangguan silia
 - Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA
 - Penilaian keselamatan bagi populasi sasaran, terutamanya pesakit dengan masalah kardiovaskular atau pemanjangan QT
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Serevent Diskus (salmeterol xinafoate) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d9728e-6b5c-4aee-bfb0-745e542ed2e4) |
+
+<!-- review:end log -->
 
 ## Penafian
 

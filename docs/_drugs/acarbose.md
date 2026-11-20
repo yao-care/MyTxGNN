@@ -54,7 +54,7 @@ Acarbose ialah perencat alfa-glukosidase usus yang pada asalnya digunakan untuk 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan am, acarbose ialah perencat alfa-glukosidase yang bertindak secara setempat di usus untuk melambatkan pencernaan karbohidrat dan mengurangkan lonjakan glukosa selepas makan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Acarbose (terjemahan tidak rasmi): “Berbeza dengan sulfonilurea, Tablet Acarbose tidak meningkatkan rembesan insulin. Tindakan antihiperglisemik acarbose terhasil daripada perencatan kompetitif dan boleh balik terhadap enzim alfa-amilase pankreas dan enzim hidrolase alfa-glukosida usus yang terikat pada membran.” Teks asal bahasa Inggeris: "In contrast to sulfonylureas, Acarbose Tablets do not enhance insulin secretion. The antihyperglycemic action of acarbose results from a competitive, reversible inhibition of pancreatic alpha-amylase and membrane-bound intestinal alpha-glucoside hydrolase enzymes." ([DailyMed: acarbose prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ba7a072-03b0-41f2-be7a-101145bdef3a), versi 2026-08-11; diakses 2026-11-19). Berdasarkan pengetahuan am, acarbose ialah perencat alfa-glukosidase yang bertindak secara setempat di usus untuk melambatkan pencernaan karbohidrat dan mengurangkan lonjakan glukosa selepas makan.
 
 Sindrom anggota kaku dan sindrom orang kaku (stiff person syndrome) ialah gangguan autoimun/neurologi pada sistem saraf pusat, berkaitan disfungsi neurotransmisi GABA/glisin dan sering dikaitkan dengan autoantibodi anti-GAD65. Tiada hubungan mekanistik yang jelas dengan acarbose.
 
@@ -101,6 +101,19 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi, kerana da
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Bukti praklinikal atau klinikal yang mengkaji penyakit ini secara langsung
 - Penilaian pakar neurologi mengenai rasional biologi sebelum sebarang kajian lanjut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: acarbose prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ba7a072-03b0-41f2-be7a-101145bdef3a) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

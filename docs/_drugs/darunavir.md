@@ -59,7 +59,7 @@ Nota: Kajian yang diperoleh menggunakan model makak SIV, iaitu jangkitan haiwan.
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat sedia ada, darunavir tergolong dalam kelas perencat protease HIV-1, dan mekanismenya terhadap HIV-1 telah diketahui secara umum. Secara mekanistik ia mungkin boleh diaplikasikan kepada SIV.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Darunavir (terjemahan tidak rasmi): “Darunavir ialah ubat antivirus HIV-1. […] Darunavir ialah perencat protease HIV-1. Ia secara selektif merencatkan pembelahan poliprotein Gag-Pol yang dikodkan oleh HIV-1 dalam sel yang dijangkiti, seterusnya mencegah pembentukan partikel virus yang matang.” Teks asal bahasa Inggeris: "Darunavir is an HIV-1 antiviral drug. […] Darunavir is an inhibitor of the HIV-1 protease. It selectively inhibits the cleavage of HIV-1 encoded Gag-Pol polyproteins in infected cells, thereby preventing the formation of mature virus particles." ([DailyMed: Prezista (darunavir) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814301f9-c990-46a5-b481-2879a521a16f), versi 2025-08-29; diakses 2026-11-19). Berdasarkan maklumat sedia ada, darunavir tergolong dalam kelas perencat protease HIV-1, dan mekanismenya terhadap HIV-1 telah diketahui secara umum. Secara mekanistik ia mungkin boleh diaplikasikan kepada SIV.
 
 SIV ialah virus lentivirus primata bukan manusia yang setara dengan HIV. Protease SIV mempunyai struktur dan fungsi yang berkait dengan protease HIV, maka hubungan mekanistik adalah munasabah. Namun, indikasi ini pada dasarnya ialah model veterinar/praklinikal bagi penyakit HIV, jadi nilai terapeutik baharu untuk manusia adalah kecil.
 
@@ -105,6 +105,19 @@ Bukti hanya terdiri daripada kajian makak praklinikal yang menguji regimen gabun
 - Amaran dan kontraindikasi daripada sisipan pek NPRA (jurang data yang menghalang saringan keselamatan)
 - Kajian yang mengasingkan sumbangan darunavir dalam model SIV
 - Penjelasan sama ada indikasi veterinar/model ini relevan untuk keputusan pembangunan manusia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Prezista (darunavir) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814301f9-c990-46a5-b481-2879a521a16f) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

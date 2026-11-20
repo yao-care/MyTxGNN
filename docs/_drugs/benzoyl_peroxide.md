@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan benzoyl peroxide tidak tersedia dalam data yang dikumpulkan untuk laporan ini, jadi hujah berasaskan mekanisme tidak dapat dibina.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Benzoyl Peroxide (terjemahan tidak rasmi): “Benzoyl peroxide ialah agen pengoksidaan dengan kesan bakterisidal dan keratolitik tetapi mekanisme tindakan yang tepat dalam rawatan rosasea tidak diketahui.” Teks asal bahasa Inggeris: "Benzoyl peroxide is an oxidizing agent with bactericidal and keratolytic effects but the precise mechanism of action in the treatment of rosacea is unknown." ([DailyMed: Epsolay (benzoyl peroxide) prescribing information, Mayne Pharma Commercial LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c), versi 2025-08-11; diakses 2026-11-19).
 
 Keratosis folikel songsang ialah lesi jinak pada infundibulum folikel yang berkait rapat dengan keratosis seboreik. Hubungan nosologi yang longgar ini mungkin menjadi punca isyarat model. Namun, tiada ujian klinikal atau penerbitan yang menyokong penggunaan di kawasan vulva.
 
@@ -93,6 +93,19 @@ Ramalan ini hanya berasaskan model (tahap bukti L5) tanpa ujian klinikal atau li
 - Amaran dan kontraindikasi daripada sisip bungkusan NPRA
 - Kajian kes atau siri kes klinikal tentang penggunaan topikal pada lesi vulva
 - Penilaian toleransi dan risiko kerengsaan pada kulit dan mukosa vulva
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Epsolay (benzoyl peroxide) prescribing information, Mayne Pharma Commercial LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

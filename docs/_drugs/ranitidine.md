@@ -54,7 +54,7 @@ Ranitidine ialah antagonis reseptor histamin H2 yang menurunkan rembesan asid ga
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan ranitidine tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara amnya, ranitidine menyekat reseptor H2 pada sel parietal dan mengurangkan asid gastrik, jadi penindasan asid munasabah sebagai terapi tambahan bagi penyakit ulser yang boleh membawa kepada perforasi.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ranitidine (terjemahan tidak rasmi): “Tablet Ranitidina ialah perencat kompetitif dan berbalik terhadap tindakan histamina pada reseptor histamina H 2, termasuk reseptor pada sel gastrik. Tablet Ranitidina tidak menurunkan Ca ++ serum dalam keadaan hiperkalsemia.” Teks asal bahasa Inggeris: "Ranitidine Tablets are a competitive, reversible inhibitor of the action of histamine at the histamine H 2 -receptors, including receptors on the gastric cells. Ranitidine Tablets do not lower serum Ca ++ in hypercalcemic states." ([DailyMed: ranitidine prescribing information, Atland Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcf27c99-8bd4-41fb-bff8-38fed9de76d9), versi 2026-09-24; diakses 2026-11-19). Secara amnya, ranitidine menyekat reseptor H2 pada sel parietal dan mengurangkan asid gastrik, jadi penindasan asid munasabah sebagai terapi tambahan bagi penyakit ulser yang boleh membawa kepada perforasi.
 
 Namun, perforasi ialah komplikasi pembedahan, bukan penyakit yang dirawat secara langsung oleh sekatan H2. Kajian ulasan mengenai terapi penyelenggaraan antagonis H2 jangka panjang berkaitan pencegahan kambuhan ulser, bukan rawatan perforasi. Maka kaitan mekanistik ini kekal sebagai hipotesis, bukan bukti.
 
@@ -114,11 +114,12 @@ Tiada kajian yang menguji ranitidine sebagai rawatan perforasi ulser peptik, dan
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Status pasaran ialah **dipasarkan**, dengan 6 lesen sah dan tiada lesen dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: ranitidine prescribing information, Atland Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcf27c99-8bd4-41fb-bff8-38fed9de76d9) |
 
 <!-- review:end log -->
 

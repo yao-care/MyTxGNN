@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **infarksi miokardium posterola
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, tenecteplase ialah pengaktif plasminogen tisu spesifik fibrin yang melarutkan bekuan koronari. Keberkesanannya dalam infarksi miokardium telah diketahui, dan secara mekanistik ia boleh digunakan untuk subjenis anatomi infarksi.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Tenecteplase (terjemahan tidak rasmi): “Tenekteplase ialah bentuk terubah suai pengaktif plasminogen tisu manusia (tPA) yang terikat pada fibrin dan menukarkan plasminogen kepada plasmin. Dengan kehadiran fibrin, kajian in vitro menunjukkan bahawa penukaran plasminogen kepada plasmin yang diperantarakan oleh tenekteplase meningkat berbanding penukarannya tanpa kehadiran fibrin.” Teks asal bahasa Inggeris: "Tenecteplase is a modified form of human tissue plasminogen activator (tPA) that binds to fibrin and converts plasminogen to plasmin. In the presence of fibrin, in vitro studies demonstrate that tenecteplase-mediated conversion of plasminogen to plasmin is increased relative to its conversion in the absence of fibrin." ([DailyMed: Tnkase (tenecteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e647640d-c395-4b4b-a0be-1162f9c21d84), versi 2025-12-15; diakses 2026-11-19). Berdasarkan maklumat sedia ada, tenecteplase ialah pengaktif plasminogen tisu spesifik fibrin yang melarutkan bekuan koronari. Keberkesanannya dalam infarksi miokardium telah diketahui, dan secara mekanistik ia boleh digunakan untuk subjenis anatomi infarksi.
 
 Infarksi miokardium posterolateral ialah subjenis wilayah bagi indikasi infarksi miokardium yang sedia ada. Mekanisme pelarutan trombus sama sahaja, maka kebolehgunaan mekanisme adalah langsung.
 
@@ -116,11 +116,12 @@ Sila rujuk sisipan pembungkusan untuk amaran dan kontraindikasi lengkap.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini tidak berdaftar di Malaysia (0 lesen), dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Tnkase (tenecteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e647640d-c395-4b4b-a0be-1162f9c21d84) |
 
 <!-- review:end log -->
 

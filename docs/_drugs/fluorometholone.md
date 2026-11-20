@@ -56,7 +56,7 @@ Fluorometholone ialah kortikosteroid topikal yang digunakan dalam bentuk titisan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, fluorometholone ialah kortikosteroid sintetik yang bertindak pada reseptor glukokortikoid (NR3C1), dengan kesan anti-radang dan imunosupresif. Ia digunakan secara topikal untuk keradangan konjunktiva.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Fluorometholone (terjemahan tidak rasmi): “Kortikosteroid merencat tindak balas keradangan terhadap pelbagai agen pencetus dan mungkin menangguhkan atau melambatkan penyembuhan. Ia merencat edema, pemendapan fibrin, pelebaran kapilari, migrasi leukosit, proliferasi kapilari, proliferasi fibroblas, pemendapan kolagen dan pembentukan parut yang berkaitan dengan keradangan. […] Dalam kajian klinikal terhadap individu yang didokumenkan bertindak balas terhadap steroid, fluorometholone menunjukkan purata masa yang jauh lebih lama untuk menghasilkan peningkatan tekanan intraokular berbanding deksametason fosfat; walau bagaimanapun, dalam peratusan kecil individu, peningkatan ketara tekanan intraokular berlaku dalam tempoh satu minggu.” Teks asal bahasa Inggeris: "Corticosteroids inhibit the inflammatory response to a variety of inciting agents and probably delay or slow healing. They inhibit the edema, fibrin deposition, capillary dilation, leukocyte migration, capillary proliferation, fibroblast proliferation, deposition of collagen, and scar formation associated with inflammation. […] In clinical studies of documented steroid-responders, fluorometholone demonstrated a significantly longer average time to produce a rise in intraocular pressure than dexamethasone phosphate; however, in a small percentage of individuals, a significant rise in intraocular pressure occurred within one week." ([DailyMed: Fluorometholone Ophthalmic Suspension (fluorometholone) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7988a3b-e432-4d42-a8d2-63ca017e6a01), versi 2026-08-12; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, fluorometholone ialah kortikosteroid sintetik yang bertindak pada reseptor glukokortikoid (NR3C1), dengan kesan anti-radang dan imunosupresif. Ia digunakan secara topikal untuk keradangan konjunktiva.
 
 Bagi **postinfectious vasculitis** (ramalan teratas), vaskulitis yang dimediasi imun secara teori boleh bertindak balas terhadap glukokortikoid. Namun, dos topikal untuk mata memberikan pendedahan sistemik yang boleh diabaikan, dan pautan ini hanyalah ramalan model tanpa sokongan ujian atau literatur.
 
@@ -105,6 +105,19 @@ Semua ramalan hanya berasaskan model tanpa ujian klinikal dan tanpa kajian yang 
 - Kajian klinikal atau literatur yang menilai fluorometholone secara langsung untuk keratokonjunktivitis epitelium berpunktat
 - Teks indikasi yang diluluskan daripada lesen tempatan serta bentuk dos
 - Penilaian keserasian laluan pemberian bagi indikasi bukan mata
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Fluorometholone Ophthalmic Suspension (fluorometholone) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7988a3b-e432-4d42-a8d2-63ca017e6a01) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

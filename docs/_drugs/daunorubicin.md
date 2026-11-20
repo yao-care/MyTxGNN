@@ -59,7 +59,7 @@ Daunorubicin ialah ubat sitotoksik daripada kumpulan antrasiklin. Data kelulusan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang disusun. Berdasarkan pengetahuan am, daunorubicin ialah antrasiklin yang menyelit ke dalam DNA dan merencat topoisomerase II, mekanisme yang relevan untuk keganasan limfoid.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Daunorubicin (terjemahan tidak rasmi): “Daunorubisin mempunyai aktiviti antimitotik dan sitotoksik melalui beberapa mekanisme tindakan yang dicadangkan. Daunorubisin membentuk kompleks dengan DNA melalui interkalasi di antara pasangan bes. Ia merencat aktiviti topoisomerase II dengan menstabilkan kompleks DNA-topoisomerase II, sekali gus menghalang bahagian pengikatan semula dalam tindak balas pengikatan-pengikatan semula yang dimangkinkan oleh topoisomerase II.” Teks asal bahasa Inggeris: "Daunorubicin has antimitotic and cytotoxic activity through a number of proposed mechanisms of action. Daunorubicin forms complexes with DNA by intercalation between base pairs. It inhibits topoisomerase II activity by stabilizing the DNA-topoisomerase II complex, preventing the religation portion of the ligation-religation reaction that topoisomerase II catalyzes." ([DailyMed: daunorubicin hydrochloride prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff6b9bd4-8a9f-400f-a0b9-70e25fa8a28f), versi 2025-05-21; diakses 2026-11-19). Berdasarkan pengetahuan am, daunorubicin ialah antrasiklin yang menyelit ke dalam DNA dan merencat topoisomerase II, mekanisme yang relevan untuk keganasan limfoid.
 
 Namun, hubungan dengan Limfoma Hodgkin adalah tidak langsung. Dua percubaan Fasa 2 yang dipautkan ialah protokol kemoterapi pelbagai ubat untuk limfoma bukan Hodgkin (satu daripadanya pediatrik), maka sumbangan daunorubicin sendiri tidak dapat diasingkan. Rejimen piawai untuk Limfoma Hodgkin lanjutan, seperti ABVD, menggunakan doxorubicin dan bukan daunorubicin.
 
@@ -136,6 +136,19 @@ Tiada percubaan atau kajian yang dipetik mengkaji daunorubicin dalam Limfoma Hod
 - Kajian atau data klinikal yang menilai daunorubicin secara langsung dalam Limfoma Hodgkin
 - Perbandingan dengan doxorubicin, antrasiklin yang digunakan dalam rejimen piawai
 - Pelan pemantauan keselamatan jantung dan hematologi
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: daunorubicin hydrochloride prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff6b9bd4-8a9f-400f-a0b9-70e25fa8a28f) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

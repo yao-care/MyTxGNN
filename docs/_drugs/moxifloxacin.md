@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **hiperamilasemia** dengan skor
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, moxifloxacin ialah antibakteria kelas fluorokuinolon yang telah terbukti berkesan dalam jangkitan bakteria. Namun, tiada hubungan mekanistik yang dapat dikenal pasti dengan hiperamilasemia.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Moxifloxacin (terjemahan tidak rasmi): “Tablet Moksifloksasin ialah ahli kelas fluorokuinolon bagi agen antibakteria. […] Tindakan bakterisid moksifloksasin terhasil daripada perencatan topoisomerase II (DNA girase) dan topoisomerase IV yang diperlukan untuk replikasi, transkripsi, pembaikan dan rekombinasi DNA bakteria.” Teks asal bahasa Inggeris: "Moxifloxacin Tablet is a member of the fluoroquinolone class of antibacterial agents. […] The bactericidal action of moxifloxacin results from inhibition of the topoisomerase II (DNA gyrase) and topoisomerase IV required for bacterial DNA replication, transcription, repair, and recombination." ([DailyMed: Moxifloxacin (moxifloxacin hydrochloride) prescribing information, Kesin Pharma Corportation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6d3ff1-e853-a3d8-e063-6394a90a18f5), versi 2026-11-06; diakses 2026-11-19). Berdasarkan maklumat sedia ada, moxifloxacin ialah antibakteria kelas fluorokuinolon yang telah terbukti berkesan dalam jangkitan bakteria. Namun, tiada hubungan mekanistik yang dapat dikenal pasti dengan hiperamilasemia.
 
 Hiperamilasemia ialah penemuan makmal dengan banyak punca bukan berjangkit. Walaupun skor TxGNN sangat tinggi (0.9998), tiada percubaan atau literatur yang menyokongnya.
 
@@ -80,7 +80,6 @@ Setakat ini tiada literatur berkaitan untuk hiperamilasemia.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -134,6 +133,19 @@ Perhatian khas: fluorokuinolon dikaitkan dengan gangguan paras glukosa darah (di
 ### Nota mengenai Wabak Bubonik (Kedudukan 10)
 
 Ini ialah ramalan yang paling munasabah, tetapi ia lebih merupakan lanjutan dalam patogen yang sama (wabak dan wabak pneumonik sudah tersenarai antara indikasi asal) berbanding pemindahan sebenar. Moxifloxacin merencat DNA girase dan topoisomerase IV bakteria. Kajian praklinikal (PMID 20052916, 15555886, 21115791, 21486959) menunjukkan aktiviti terhadap *Yersinia pestis* dalam model haiwan dan model farmakodinamik *in vitro*, termasuk regimen yang dioptimumkan untuk pembunuhan bakteria. Tiada percubaan klinikal manusia dikenal pasti. Laporan PMID 29623187 (tinitus aruhan moxifloxacin) ialah laporan keselamatan, bukan bukti keberkesanan. Syor sistem ialah "Research Question" (soalan penyelidikan) pada peringkat S1.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Moxifloxacin (moxifloxacin hydrochloride) prescribing information, Kesin Pharma Corportation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6d3ff1-e853-a3d8-e063-6394a90a18f5) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

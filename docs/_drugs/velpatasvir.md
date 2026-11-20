@@ -60,7 +60,7 @@ Namun, **5 ujian klinikal** dan **20 penerbitan** yang dikumpulkan hampir semuan
 
 ## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, velpatasvir ialah perencat NS5A HCV dan lazimnya digunakan bersama sofosbuvir (perencat polimerase NS5B) dalam gabungan dos tetap. Keberkesanannya dalam jangkitan HCV kronik telah dibuktikan secara meluas.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Velpatasvir ialah (terjemahan tidak rasmi): “Perencat protein bukan struktur 5A” Teks asal bahasa Inggeris: "Nonstructural protein 5A inhibitor" ([ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, velpatasvir ialah perencat NS5A HCV dan lazimnya digunakan bersama sofosbuvir (perencat polimerase NS5B) dalam gabungan dos tetap. Keberkesanannya dalam jangkitan HCV kronik telah dibuktikan secara meluas.
 
 Dari sudut mekanisme, tiada asas langsung untuk aktiviti anti-HBV. HBV ialah virus DNA yang bereplikasi melalui transkriptase balik dan cccDNA, serta tidak mempunyai homolog NS5A. Skor tinggi daripada TxGNN berkemungkinan mencerminkan kedekatan rangkaian pengetahuan antara HCV, HBV dan ubat antivirus lain, dan bukannya kesan terapeutik sebenar.
 
@@ -99,7 +99,6 @@ Tiada satu pun daripada penerbitan ini menunjukkan keberkesanan velpatasvir terh
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -133,6 +132,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk kerana data
 - Jika dikaji lanjut, ujian yang membezakan kesan velpatasvir daripada agen anti-HBV bersama (seperti TAF)
 
 Nota: indikasi lain yang diramalkan (hepatitis E, hepatitis A, HIV, demam berdarah Omsk, penyakit hutan Kyasanur, dan lain-lain) juga tidak mempunyai bukti sokongan dan kesemuanya berada pada tahap Tangguh.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL3545062 (velpatasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3545062) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -57,7 +57,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia pada masa ini. Lincomycin diketahui tergolong dalam kelas antibiotik lincosamide, yang menghalang sintesis protein bakteria dengan mengikat subunit ribosom 50S.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Lincomycin Hydrochloride (terjemahan tidak rasmi): “Lincomycin merencat sintesis protein bakteria dengan terikat pada RNA 23S subunit 50S ribosom bakteria. Lincomycin kebanyakannya bersifat bakteriostatik in vitro.” Teks asal bahasa Inggeris: "Lincomycin inhibits bacterial protein synthesis by binding to the 23S RNA of the 50S subunit of the bacterial ribosome. Lincomycin is predominantly bacteriostatic in vitro." ([DailyMed: Lincocin (lincomycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c01906fa-2c73-4c13-9765-2fd06628d263), versi 2025-03-10; diakses 2026-11-19). Lincomycin diketahui tergolong dalam kelas antibiotik lincosamide, yang menghalang sintesis protein bakteria dengan mengikat subunit ribosom 50S.
 
 Sindrom hiperkelikatan poliklonal pula berpunca daripada peningkatan imunoglobulin serum (contohnya dalam penyakit autoimun atau jangkitan kronik) yang menaikkan kelikatan darah. Agen antibakteria tidak diketahui memberi kesan langsung terhadap paras imunoglobulin atau kelikatan plasma.
 
@@ -101,6 +101,19 @@ Ramalan ini hanya berasaskan model (L5), tanpa percubaan klinikal, tanpa literat
 - Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA
 - Kajian praklinikal atau klinikal yang mengkaji secara langsung kesan lincomycin terhadap penyakit yang diramalkan
 - Penilaian kesesuaian laluan pentadbiran dan kesamaan dengan indikasi asal
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lincocin (lincomycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c01906fa-2c73-4c13-9765-2fd06628d263) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

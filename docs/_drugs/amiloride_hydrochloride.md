@@ -59,7 +59,7 @@ Amiloride hydrochloride ialah diuretik penjimat kalium yang menyekat saluran nat
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Amiloride diketahui menyekat ENaC di nefron distal dan mempunyai kesan diuretik penjimat kalium serta antihipertensi. Secara biologi, kesan penurunan tekanan darah dan isi padu cecair adalah munasabah. Ini menjadi asas mengapa model meramalkan kaitan dengan penyakit buah pinggang akibat hipertensi.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Amiloride Hydrochloride (terjemahan tidak rasmi): “Amiloride HCl ialah ubat penjimat kalium (antikaliuretik) yang mempunyai aktiviti natriuretik, diuretik dan antihipertensi yang lemah (berbanding dengan diuretik tiazida). Kesan-kesan ini didapati sebahagiannya bersifat aditif kepada kesan diuretik tiazida dalam sesetengah kajian klinikal.” Teks asal bahasa Inggeris: "Amiloride HCl is a potassium-conserving (antikaliuretic) drug that possesses weak (compared with thiazide diuretics) natriuretic, diuretic, and antihypertensive activity. These effects have been partially additive to the effects of thiazide diuretics in some clinical studies." ([DailyMed: amiloride hydrochloride prescribing information, Kesin Pharma Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5eedadbd-9be9-b920-e063-6394a90afa68), versi 2026-11-11; diakses 2026-11-19). Amiloride diketahui menyekat ENaC di nefron distal dan mempunyai kesan diuretik penjimat kalium serta antihipertensi. Secara biologi, kesan penurunan tekanan darah dan isi padu cecair adalah munasabah. Ini menjadi asas mengapa model meramalkan kaitan dengan penyakit buah pinggang akibat hipertensi.
 
 Walau bagaimanapun, skor yang tinggi (0.9982) ialah ramalan komputasi semata-mata. Tiada ujian klinikal atau literatur yang diperoleh untuk menyokong indikasi ini. Hipertensi malignan dengan kerosakan buah pinggang ialah keadaan akut berisiko tinggi yang lazimnya diuruskan dengan ubat bertindak pantas. Amiloride pula membawa risiko hiperkalemia, terutamanya apabila fungsi buah pinggang terjejas, dan ini menjadi kebimbangan keselamatan yang ketara bagi populasi ini.
 
@@ -104,6 +104,19 @@ Satu perkara perlu diberi perhatian walaupun bukan data label: amiloride boleh m
 - Melengkapkan data mekanisme tindakan (MOA) daripada DrugBank.
 - Mencari bukti praklinikal atau klinikal yang mengkaji amiloride secara langsung dalam penyakit renal hipertensi malignan.
 - Menilai keselamatan (khususnya risiko hiperkalemia) dalam pesakit dengan fungsi buah pinggang terjejas sebelum sebarang pertimbangan klinikal.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: amiloride hydrochloride prescribing information, Kesin Pharma Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5eedadbd-9be9-b920-e063-6394a90afa68) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

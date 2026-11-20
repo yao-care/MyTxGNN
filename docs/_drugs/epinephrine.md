@@ -64,7 +64,7 @@ Epinephrine ialah agonis adrenergik bukan selektif. Rangsangan reseptor beta-2 m
 
 Penyakit paru-paru obstruktif merangkumi asma dan penyakit pulmonari obstruktif kronik (COPD). Oleh sebab asma sudah pun termasuk dalam indikasi asal, ramalan ini sebahagian besarnya ialah lanjutan indikasi sedia ada dan bukan isyarat penggunaan semula yang benar-benar baharu.
 
-Perlu diingatkan bahawa data mekanisme tindakan (MOA) asal tidak tersedia dalam data yang dikumpulkan. Hubungan mekanisme di atas bergantung pada farmakologi yang mantap, bukan pada medan MOA yang dibekalkan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Epinephrine (terjemahan tidak rasmi): “Epinefrina bertindak pada kedua-dua reseptor alfa dan beta-adrenergik. Melalui tindakannya pada reseptor alfa-adrenergik, epinefrina mengurangkan vasodilatasi dan peningkatan ketelapan vaskular yang berlaku semasa anafilaksis, yang boleh membawa kepada kehilangan isi padu cecair intravaskular dan hipotensi.” Teks asal bahasa Inggeris: "Epinephrine acts on both alpha and beta-adrenergic receptors. Through its action on alpha-adrenergic receptors, epinephrine lessens the vasodilation and increased vascular permeability that occurs during anaphylaxis, which can lead to loss of intravascular fluid volume and hypotension." ([DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf), versi 2026-09-18; diakses 2026-11-19). Hubungan mekanisme di atas bergantung pada farmakologi yang mantap, bukan pada medan MOA yang dibekalkan.
 
 ---
 
@@ -137,6 +137,18 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. 
 | Anafilaksis aruhan senaman bergantung makanan | 0.9957 | L5 | Research Question (hanya ulasan dan laporan kes; tiada percubaan klinikal; lanjutan indikasi anafilaksis sedia ada) |
 | Sindrom Rienhoff | 0.9957 | L5 | Hold (ramalan pengiraan sahaja; tiada percubaan atau literatur) |
 | Malformasi pernafasan | 0.9956 | L3 | Research Question (satu percubaan Fasa 1 tentang takipnea sementara bayi baru lahir; malformasi struktur tidak akan dibetulkan oleh epinephrine; kebanyakan literatur tidak berkaitan) |
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf) |
+
+<!-- review:end log -->
 
 ## Penafian
 

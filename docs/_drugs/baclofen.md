@@ -54,7 +54,7 @@ Baclofen ialah agonis reseptor GABA-B yang telah didaftarkan di Malaysia. Model 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia. Baclofen diketahui sebagai agonis reseptor GABA-B. Satu hipotesis yang munasabah ialah modulasi GABA pada litar kortiko-striatum yang terlibat dalam impulsiviti dan tik boleh memberi kesan pada ADHD.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Baclofen (terjemahan tidak rasmi): “Mekanisme tindakan baclofen yang tepat belum difahami sepenuhnya. Baclofen merencat kedua-dua refleks monosinaptik dan polisinaptik pada peringkat spinal, mungkin dengan mengurangkan pembebasan neurotransmiter eksitatori daripada terminal aferen, walaupun tindakan di tapak supraspinal juga mungkin berlaku dan menyumbang kepada kesan klinikalnya.” Teks asal bahasa Inggeris: "The precise mechanism of action of baclofen is not fully understood. Baclofen inhibits both monosynaptic and polysynaptic reflexes at the spinal level, possibly by decreasing excitatory neurotransmitter release from afferent terminals, although actions at supraspinal sites may also occur and contribute to its clinical effect." ([DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2), versi 2026-09-22; diakses 2026-11-19). Baclofen diketahui sebagai agonis reseptor GABA-B. Satu hipotesis yang munasabah ialah modulasi GABA pada litar kortiko-striatum yang terlibat dalam impulsiviti dan tik boleh memberi kesan pada ADHD.
 
 Walau bagaimanapun, hipotesis ini bersifat spekulatif dan tidak disokong oleh rekod yang ada. Skor TxGNN sangat tinggi, tetapi tiada kajian dalam data yang menilai baclofen dalam ADHD. Kajian yang ditemui hanya berkaitan sindrom Tourette, agonis alfa-2 adrenergik, preskripsi metilfenidat dan kajian haiwan mengenai impulsiviti serta pembuatan keputusan. Oleh itu, ramalan ini masih pada tahap hipotesis.
 
@@ -101,6 +101,19 @@ Walaupun skor TxGNN sangat tinggi (0,9932), tiada ujian klinikal dan tiada kajia
 - Data mekanisme tindakan terperinci yang menghubungkan modulasi GABA-B dengan patofisiologi ADHD
 - Amaran dan kontraindikasi daripada sisipan pek yang diluluskan
 - Pelan pemantauan keselamatan, terutamanya untuk kanak-kanak dan interaksi dengan ubat penenang CNS
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

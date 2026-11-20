@@ -60,7 +60,7 @@ Setakat ini terdapat **0 ujian klinikal** dan **18 penerbitan** yang berkaitan, 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Penerbitan yang dikumpulkan menerangkan perampanel sebagai antagonis reseptor AMPA yang selektif dan tidak kompetitif. Ia menghalang rangsangan glutamat pada membran pascasinaps. Data terperinci tentang mekanisme tindakan asal tidak tersedia daripada pangkalan data ubat, jadi penerangan ini bergantung pada abstrak penerbitan.
+Penerbitan yang dikumpulkan menerangkan perampanel sebagai antagonis reseptor AMPA yang selektif dan tidak kompetitif. Ia menghalang rangsangan glutamat pada membran pascasinaps. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Perampanel (terjemahan tidak rasmi): “Perampanel ialah antagonis bukan kompetitif reseptor glutamat α-amino-3-hidroksi-5-metil-4-isoksazolpropionik asid (AMPA) ionotropik pada neuron pascasinaps. Glutamat ialah neurotransmiter eksitatori utama dalam sistem saraf pusat dan terlibat dalam beberapa gangguan neurologi yang disebabkan oleh pengujaan berlebihan neuron.” Teks asal bahasa Inggeris: "Perampanel is a non-competitive antagonist of the ionotropic α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) glutamate receptor on post-synaptic neurons. Glutamate is the primary excitatory neurotransmitter in the central nervous system and is implicated in a number of neurological disorders caused by neuronal over excitation." ([DailyMed: Fycompa (perampanel) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71cf3309-e182-473c-8b0b-280cabd0e122), versi 2022-12-28; diakses 2026-11-19).
 
 Perampanel telah terbukti sebagai terapi tambahan untuk kejang separa dan kejang tonik-klonik umum. Ia berkait dengan kegairahan berlebihan korteks, dan sekatan AMPA secara teori boleh mengurangkan kegairahan ini. Model haiwan epilepsi refleks (kejang audiogenik) juga menunjukkan aktiviti antikejang perampanel.
 
@@ -122,6 +122,19 @@ Maklumat amaran dan kontraindikasi daripada sisipan pek NPRA belum tersedia, jad
 - Bukti khusus untuk epilepsi visual atau fotosensitif, misalnya siri kes, kajian pemerhatian atau ujian klinikal kecil
 - Pelan pemantauan keselamatan, terutamanya kesan psikiatri dan interaksi dengan ubat penekan sistem saraf pusat
 - Sebagai perbandingan, indikasi lain yang diramalkan dalam data yang sama, **status epilepticus**, mempunyai bukti lebih kukuh (tahap L3). Ia mempunyai tinjauan sistematik dan siri kes, serta empat ujian klinikal: satu Fasa 3 dan satu Fasa 4 yang ditamatkan dengan seorang peserta setiap satu, satu Fasa 2 yang sedang merekrut, dan satu kohort retrospektif. Indikasi ini wajar dinilai secara berasingan sebagai keutamaan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Fycompa (perampanel) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71cf3309-e182-473c-8b0b-280cabd0e122) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

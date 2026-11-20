@@ -62,7 +62,7 @@ dengan **3 percubaan klinikal** dan **20 penerbitan** yang berkaitan, tetapi buk
 
 Topotecan ialah perencat topoisomerase I yang menyebabkan kerosakan DNA dalam sel yang membahagi dengan pantas. Kajian praklinikal (PMID 37987734) mencadangkan bahawa perencatan TOP1 menyebabkan pengumpulan R-loop dan "synthetic lethality" dalam kanser yang didorong MYC. Kanser sebegini lazim pada subjenis payudara yang agresif, seperti kanser payudara triple-negative. Topotecan juga merupakan substrat BCRP/ABCG2, yang boleh mempengaruhi rintangan dalam tumor payudara.
 
-Namun, aktiviti klinikalnya dalam kanser payudara tergolong sederhana. Kajian fasa II infusi berterusan topotecan dalam kanser payudara lanjutan (PMID 9413954) tidak menunjukkan bukti peningkatan keberkesanan. Butiran mekanisme tindakan daripada pangkalan data rujukan tidak tersedia untuk laporan ini, jadi analisis pautan mekanistik berdasarkan pengetahuan farmakologi am.
+Namun, aktiviti klinikalnya dalam kanser payudara tergolong sederhana. Kajian fasa II infusi berterusan topotecan dalam kanser payudara lanjutan (PMID 9413954) tidak menunjukkan bukti peningkatan keberkesanan. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Topotecan (terjemahan tidak rasmi): “Topoisomerase I melegakan tegangan kilasan dalam DNA dengan mengaruh pemutusan bebenang tunggal yang boleh balik. Topotecan mengikat kepada kompleks topoisomerase I-DNA dan menghalang pengikatan semula pemutusan bebenang tunggal ini. Kesitotoksikan topotecan dipercayai disebabkan oleh kerosakan DNA bebenang berganda yang terhasil semasa sintesis DNA, apabila enzim replikasi berinteraksi dengan kompleks ternari yang dibentuk oleh topotecan, topoisomerase I, dan DNA.” Teks asal bahasa Inggeris: "Topoisomerase I relieves torsional strain in DNA by inducing reversible single-strand breaks. Topotecan binds to the topoisomerase I-DNA complex and prevents re-ligation of these single-strand breaks. The cytotoxicity of topotecan is thought to be due to double-strand DNA damage produced during DNA synthesis, when replication enzymes interact with the ternary complex formed by topotecan, topoisomerase I, and DNA." ([DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579), versi 2023-09-18; diakses 2026-11-19).
 
 Perlu diingat bahawa data yang disusun tidak mengandungi indikasi asal yang berdaftar bagi topotecan, maka hubungan antara indikasi asal dan indikasi baharu tidak dapat dinilai secara rasmi. Topotecan secara am diketahui sebagai pilihan barisan kedua untuk kanser ovari berulang, dan ini memberi asas bagi beberapa ramalan lain dalam senarai TxGNN (kanser ovari pelbagai histologi).
 
@@ -133,6 +133,19 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi.
 - Data klinikal khusus topotecan dalam kanser payudara (terutamanya subjenis triple-negative atau didorong MYC)
 - Pengesahan status pendaftaran dan ketersediaan di Malaysia
 - Pertimbangan keutamaan: ramalan untuk kanser ovari (clear cell, endometrioid, mucinous) mempunyai bukti lebih kukuh (tahap L2) dan wajar dinilai secara berasingan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -21,11 +21,12 @@
   "items_current": 13284
  },
  "reviews": {
-  "records": 213,
-  "pages": 183,
-  "public_pages_with_records": 181,
+  "records": 658,
+  "pages": 512,
+  "public_pages_with_records": 510,
   "by_action": {
-   "correct": 213
+   "correct": 213,
+   "mechanism": 445
   }
  },
  "fhir": {
@@ -39,7 +40,7 @@
    "l": "L5",
    "lt": 1245,
    "lv": 1199,
-   "r": 0,
+   "r": 1,
    "i": "Malformasi esofagus tidak sindromik"
   },
   {
@@ -48,7 +49,7 @@
    "l": "L5",
    "lt": 924,
    "lv": 902,
-   "r": 0,
+   "r": 1,
    "i": "Displasia akromesomelik jenis Campailla Martinelli"
   },
   {
@@ -57,7 +58,7 @@
    "l": "L5",
    "lt": 540,
    "lv": 527,
-   "r": 0,
+   "r": 1,
    "i": "biotin metabolic disease"
   },
   {
@@ -66,7 +67,7 @@
    "l": "L5",
    "lt": 486,
    "lv": 470,
-   "r": 1,
+   "r": 2,
    "i": "biotin metabolic disease"
   },
   {
@@ -93,7 +94,7 @@
    "l": "L5",
    "lt": 314,
    "lv": 304,
-   "r": 1,
+   "r": 2,
    "i": "acne (disease)"
   },
   {
@@ -113,7 +114,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 1,
+   "r": 2,
    "i": "Glanzmann thrombasthenia"
   },
   {
@@ -122,7 +123,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 0,
+   "r": 1,
    "i": "Sindrom imunodefisiensi kucing yang diperoleh"
   },
   {
@@ -131,7 +132,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 1,
+   "r": 2,
    "i": "pyelonephritis"
   }
  ],
@@ -143,7 +144,7 @@
    "l": "L5",
    "lt": 6,
    "lv": 6,
-   "r": 3,
+   "r": 4,
    "i": "severe nonproliferative diabetic retinopathy"
   },
   {
@@ -152,17 +153,8 @@
    "l": "L5",
    "lt": 7,
    "lv": 7,
-   "r": 3,
+   "r": 4,
    "i": "manic bipolar affective disorder"
-  },
-  {
-   "t": "Atorvastatin Calcium Trihydrate",
-   "u": "/drugs/atorvastatin-calcium-trihydrate/",
-   "l": "L2",
-   "lt": 71,
-   "lv": 66,
-   "r": 2,
-   "i": "Jangkitan HIV"
   },
   {
    "t": "Dexlansoprazole",
@@ -170,17 +162,8 @@
    "l": "L5",
    "lt": 2,
    "lv": 2,
-   "r": 2,
+   "r": 3,
    "i": "gastroduodenitis"
-  },
-  {
-   "t": "Dichlorobenzyl Alcohol",
-   "u": "/drugs/dichlorobenzyl-alcohol/",
-   "l": "L5",
-   "lt": 7,
-   "lv": 7,
-   "r": 2,
-   "i": "bronchitis"
   },
   {
    "t": "Duloxetine",
@@ -188,8 +171,26 @@
    "l": "L5",
    "lt": 18,
    "lv": 16,
-   "r": 2,
+   "r": 3,
    "i": "benign paroxysmal torticollis of infancy"
+  },
+  {
+   "t": "Etoricoxib",
+   "u": "/drugs/etoricoxib/",
+   "l": "L5",
+   "lt": 81,
+   "lv": 81,
+   "r": 3,
+   "i": "Gangguan migrain"
+  },
+  {
+   "t": "Fulvestrant",
+   "u": "/drugs/fulvestrant/",
+   "l": "L4",
+   "lt": 11,
+   "lv": 10,
+   "r": 3,
+   "i": "Jangkitan HIV"
   }
  ],
  "example": {
@@ -198,7 +199,7 @@
   "l": "L1",
   "lt": 36,
   "lv": 36,
-  "r": 0,
+  "r": 1,
   "i": "Penyakit trombotik"
  },
  "recent_reviews": [

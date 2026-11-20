@@ -58,7 +58,7 @@ Methylphenidate pada asalnya digunakan untuk merawat gangguan hiperaktiviti keku
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Methylphenidate ialah perencat penyerapan semula dopamin dan norepinefrin. Data terperinci mengenai mekanisme tindakan tidak terdapat dalam data yang dikumpulkan untuk laporan ini, jadi penerangan ini berdasarkan pengetahuan am. Mekanisme ini mantap bagi ADHD, iaitu gangguan perkembangan saraf.
+Methylphenidate ialah perencat penyerapan semula dopamin dan norepinefrin. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Methylphenidate (terjemahan tidak rasmi): “Methylphenidate hydrochloride ialah perangsang sistem saraf pusat (CNS). Mod tindakan terapeutik METADATE CD dalam rawatan ADHD pada pesakit pediatrik berumur 6 tahun ke atas tidak diketahui. Methylphenidate menyekat pengambilan semula norepinefrina dan dopamina ke dalam neuron prasinaps dan meningkatkan pelepasan monoamina ini ke dalam ruang ekstraneuron.” Teks asal bahasa Inggeris: "Methylphenidate hydrochloride is a central nervous system (CNS) stimulant. The mode of therapeutic action of METADATE CD in the treatment of ADHD in pediatric patients 6 years of age and older is not known. Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increases the release of these monoamines into the extraneuronal space." ([DailyMed: Metadate Cd (methylphenidate hydrochloride) prescribing information, Lannett Company, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4), versi 2026-10-21; diakses 2026-11-19). Mekanisme ini mantap bagi ADHD, iaitu gangguan perkembangan saraf.
 
 Sindrom faciodigitogenital ialah gangguan perkembangan yang disebabkan oleh mutasi gen *FGD1* dan menjejaskan perkembangan rangka serta organ genital. **Tiada pautan mekanistik yang disokong oleh data yang ada.** Satu penjelasan yang mungkin ialah pesakit sindrom ini kadangkala menunjukkan ciri tingkah laku seperti ADHD, dan ini boleh menjadi asas tidak langsung bagi ramalan model. Namun ini hanya andaian dan tidak disokong oleh sebarang kajian dalam data yang dikumpulkan. Skor yang tinggi harus dilihat sebagai hasil pengiraan model sahaja.
 
@@ -126,12 +126,13 @@ Maklumat label produk tidak tersedia. Sila rujuk sisipan pakej untuk maklumat ke
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "kerana methylphenidate tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-05 | Dipadam: "Methylphenidate tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Metadate Cd (methylphenidate hydrochloride) prescribing information, Lannett Company, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4) |
 
 <!-- review:end log -->
 

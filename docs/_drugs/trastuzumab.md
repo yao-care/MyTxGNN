@@ -60,7 +60,7 @@ dengan **13 ujian klinikal** dan **20 penerbitan** yang disenaraikan dalam data 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, trastuzumab menyasarkan reseptor HER2 pada sel tumor, dan keberkesanannya dalam kanser payudara HER2-positif telah terbukti.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Trastuzumab (terjemahan tidak rasmi): “Proto-onkogen HER2 (atau c-erbB2) mengekod protein reseptor transmembran bersaiz 185 kDa, yang berkait secara struktur dengan reseptor faktor pertumbuhan epidermis. Produk trastuzumab telah ditunjukkan, dalam kedua-dua asai in vitro dan pada haiwan, merencat proliferasi sel tumor manusia yang mengekspresikan HER2 secara berlebihan.” Teks asal bahasa Inggeris: "The HER2 (or c-erbB2) proto-oncogene encodes a transmembrane receptor protein of 185 kDa, which is structurally related to the epidermal growth factor receptor. Trastuzumab products have been shown, in both in vitro assays and in animals, to inhibit the proliferation of human tumor cells that overexpress HER2." ([DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c), versi 2026-06-26; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, trastuzumab menyasarkan reseptor HER2 pada sel tumor, dan keberkesanannya dalam kanser payudara HER2-positif telah terbukti.
 
 Sebahagian besar kanser payudara positif PR juga HER2-positif (penyakit HR+/HER2+). Manfaat trastuzumab datang daripada sekatan HER2, bukan status PR. Dalam subkumpulan ini, ia digabungkan dengan kemoterapi dan terapi endokrin. Oleh itu, ini ialah lanjutan dalam indikasi kanser payudara HER2-positif yang telah diluluskan.
 
@@ -151,11 +151,12 @@ Kardiotoksisiti berkaitan trastuzumab juga dibincangkan dalam literatur yang dip
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-17 | Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan 14 pendaftaran, semuanya sah)” | Dibetulkan (disemak 2026-11-17; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ Dobutamine hydrochloride ialah agen inotropik jenis agonis adrenergik beta-1 yan
 
 ## Mengapa Ramalan Ini Dibuat?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Dobutamine ialah agonis adrenergik beta-1 yang meningkatkan daya kontraksi jantung. Tiada mekanisme biologi langsung yang diketahui menghubungkan tindakan inotropik ini dengan pertumbuhan folikel rambut.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Dobutamine Hydrochloride (terjemahan tidak rasmi): “Dobutamine hidroklorida ialah agen inotropik bertindak langsung yang aktiviti utamanya terhasil daripada rangsangan reseptor beta jantung sambil menghasilkan kesan kronotropik, hipertensif, aritmogenik, dan vasodilatasi yang secara perbandingan ringan. Ia tidak menyebabkan pembebasan norepinefrina endogen, seperti yang dilakukan oleh dopamine.” Teks asal bahasa Inggeris: "Dobutamine hydrochloride is a direct-acting inotropic agent whose primary activity results from stimulation of the beta-receptors of the heart while producing comparatively mild chronotropic, hypertensive, arrhythmogenic, and vasodilative effects. It does not cause the release of endogenous norepinephrine, as does dopamine." ([DailyMed: Dobutamine Hydrochloride In Dextrose (dobutamine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b17b98b-e06d-42ed-925f-69aa2699dead), versi 2023-09-08; diakses 2026-11-19). Dobutamine ialah agonis adrenergik beta-1 yang meningkatkan daya kontraksi jantung. Tiada mekanisme biologi langsung yang diketahui menghubungkan tindakan inotropik ini dengan pertumbuhan folikel rambut.
 
 Skor yang tinggi besar kemungkinan didorong oleh kedekatan rangkaian dengan minoxidil. Minoxidil ialah vasodilator yang digunakan untuk alopesia dan juga menyebabkan kesan buruk pada jantung. Oleh itu, skor ini lebih mencerminkan hubungan statistik antara nod dalam model berbanding bukti biologi atau klinikal bahawa dobutamine merawat alopesia. Ramalan ini perlu dianggap sebagai hipotesis awal sahaja.
 
@@ -98,6 +98,19 @@ Ramalan ini hanya berasaskan model (L5). Tiada ujian klinikal atau kajian yang m
 - Kajian praklinikal (contohnya model folikel rambut) untuk menguji kebolehlaksanaan
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA
 - Penilaian kebolehlaksanaan laluan pentadbiran bagi indikasi ini
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Dobutamine Hydrochloride In Dextrose (dobutamine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b17b98b-e06d-42ed-925f-69aa2699dead) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

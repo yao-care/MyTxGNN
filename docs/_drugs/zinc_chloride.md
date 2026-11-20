@@ -63,7 +63,7 @@ Ramalan lain dalam kedudukan teratas (untuk rujukan):
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) bagi zink klorida tidak tersedia pada masa ini. Skor TxGNN (0.9934) ialah ramalan model TxGNN (pembelajaran mendalam) sahaja dan tidak disokong oleh ujian klinikal atau literatur.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Zinc Chloride (terjemahan tidak rasmi): “Zink ialah unsur surih perlu. Zink berfungsi sebagai kofaktor pelbagai enzim termasuk DNA polimerase, RNA polimerase, alkohol dehidrogenase, dan fosfatase alkali. Zink ialah penyelaras pelipatan struktur protein, seperti pelipatan motif “Zinc finger” yang berinteraksi dengan pelbagai protein, lipid, dan asid nukleik.” Teks asal bahasa Inggeris: "Zinc is an essential trace element. Zinc functions as a cofactor of various enzymes including DNA polymerases, RNA polymerases, alcohol dehydrogenase, and alkaline phosphatases. Zinc is a coordinator of protein structural folding, such as folding of “Zinc finger” motif that interacts with a variety of proteins, lipids, and nucleic acids." ([DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757), versi 2026-03-04; diakses 2026-11-19). Skor TxGNN (0.9934) ialah ramalan model TxGNN (pembelajaran mendalam) sahaja dan tidak disokong oleh ujian klinikal atau literatur.
 
 Secara spekulatif, zink berperanan dalam fungsi enzim antioksidan (contohnya SOD) dan metabolisme retina, yang mungkin berkaitan dengan retinopati diabetik. Namun hubungan ini tidak disokong oleh bukti yang dikumpulkan, jadi ia tidak boleh dianggap sebagai mekanisme yang telah disahkan.
 
@@ -98,6 +98,19 @@ Amaran utama dan kontraindikasi daripada sisipan pakej NPRA tidak tersedia; sila
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (halangan untuk saringan keselamatan)
 - Carian literatur dan ujian klinikal berkaitan retinopati diabetik, sindrom Sjögren dan mata kering
 - Pengesahan kesesuaian laluan pentadbiran (contohnya laluan topikal/oftalmik) dan status pendaftaran produk di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -60,7 +60,7 @@ tetapi setakat ini hanya terdapat **0 percubaan klinikal** dan **1 penerbitan** 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, hydroquinone diketahui menghalang tirosinase dan mengurangkan sintesis melanin. Secara mekanistik, ini mungkin boleh meringankan hiperpigmentasi pada lesi keratosis seboroik.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Hydroquinone (terjemahan tidak rasmi): “Aplikasi topikal hydroquinone menghasilkan depigmentasi kulit yang boleh berbalik melalui perencatan pengoksidaan enzimatik tirosina kepada 3,4-dihidroksifenilalanina (dopa) (Denton, C. et al., 1952)1 dan penindasan proses metabolik melanosit yang lain (Jimbow, K. et al., 1974)2. Pendedahan kepada cahaya matahari atau cahaya ultraungu akan menyebabkan pigmentasi semula kawasan yang telah dilunturkan (Parrish, L.A. et al., 1978)3.” Teks asal bahasa Inggeris: "Topical application of hydroquinone produces a reversible depigmentation of the skin by inhibition of the enzymatic oxidation of tyrosine to 3,4-dihydroxyphenylalanine (dopa) (Denton, C. et al., 1952)1 and suppression of other melanocyte metabolic processes (Jimbow, K. et al., 1974)2. Exposure to sunlight or ultraviolet light will cause repigmentation of bleached areas (Parrish, L.A. et al., 1978)3." ([DailyMed: Hydroquinone 4% (hydroquinone) prescribing information, Acella Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595dfc50-ee6f-41b5-ab5b-4c293aee342b), versi 2026-07-10; diakses 2026-11-19). Berdasarkan maklumat sedia ada, hydroquinone diketahui menghalang tirosinase dan mengurangkan sintesis melanin. Secara mekanistik, ini mungkin boleh meringankan hiperpigmentasi pada lesi keratosis seboroik.
 
 Walau bagaimanapun, keratosis seboroik ialah percambahan epidermis yang jinak. Penyahpigmenan lesi tidak merawat sifat hiperkeratotik dan proliferatifnya. Hubungan ini bersifat kosmetik dan tidak langsung. Skor TxGNN yang tinggi (0.9973) hanyalah ramalan berkomputer dan tidak disokong oleh data klinikal secara langsung.
 
@@ -118,11 +118,12 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk indikasi ini.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "produk ini tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Hydroquinone 4% (hydroquinone) prescribing information, Acella Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595dfc50-ee6f-41b5-ab5b-4c293aee342b) |
 
 <!-- review:end log -->
 

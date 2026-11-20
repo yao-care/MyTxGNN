@@ -59,7 +59,7 @@ Levothyroxine sodium ialah hormon tiroid sintetik yang telah didaftarkan dan dip
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan ubat ini tidak tersedia buat masa ini. Levothyroxine ialah bentuk sintetik hormon tiroid. Secara teori, isyarat hormon tiroid boleh mempengaruhi perkembangan buah pinggang (nefrogenesis), dan ini merupakan satu-satunya kaitan yang munasabah tetapi belum disahkan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Levothyroxine Sodium (terjemahan tidak rasmi): “Hormon tiroid memberikan tindakan fisiologinya melalui kawalan transkripsi DNA dan sintesis protein. Triiodotironina (T3) dan L-tiroksina (T4) meresap ke dalam nukleus sel dan terikat pada protein reseptor tiroid yang melekat pada DNA.” Teks asal bahasa Inggeris: "Thyroid hormones exert their physiologic actions through control of DNA transcription and protein synthesis. Triiodothyronine (T3) and L-thyroxine (T4) diffuse into the cell nucleus and bind to thyroid receptor proteins attached to DNA." ([DailyMed: Levoxyl (levothyroxine sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=758588c3-c63e-491b-0aa2-4f50d80cb174), versi 2026-11-06; diakses 2026-11-19). Levothyroxine ialah bentuk sintetik hormon tiroid. Secara teori, isyarat hormon tiroid boleh mempengaruhi perkembangan buah pinggang (nefrogenesis), dan ini merupakan satu-satunya kaitan yang munasabah tetapi belum disahkan.
 
 Hipodisplasia/aplasia renal ialah kecacatan struktur kongenital yang terutamanya didorong oleh varian genetik (contohnya *PAX2*, *HNF1B* dan *RET*). Kecacatan ini terbentuk semasa perkembangan janin. Oleh itu, levothyroxine yang diberikan selepas kelahiran tidak mungkin dapat membalikkan atau memulihkan struktur buah pinggang yang tidak terbentuk dengan sempurna. Skor yang tinggi (0.9967) hanyalah ramalan pengiraan dan tidak membuktikan keberkesanan.
 
@@ -102,6 +102,19 @@ Sila rujuk sisipan pek untuk maklumat keselamatan.
 - Data mekanisme tindakan ubat yang terperinci.
 - Pemeriksaan sisipan pek NPRA (amaran dan kontraindikasi) sebelum sebarang penilaian keselamatan.
 - Bukti klinikal atau literatur yang mengkaji secara langsung penggunaan levothyroxine dalam penyakit ini.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Levoxyl (levothyroxine sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=758588c3-c63e-491b-0aa2-4f50d80cb174) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

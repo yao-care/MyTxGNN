@@ -62,7 +62,7 @@ dengan **3 percubaan klinikal** dan **10 penerbitan** yang berkaitan, tetapi seb
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, niraparib ialah perencat PARP-1/2 yang memanfaatkan "letalitas sintetik" dalam tumor yang mengalami kekurangan pembaikan rekombinasi homolog (HRD). Keberkesanannya dalam kanser ovari dan peritoneum telah ditunjukkan, dan secara mekanisme ia mungkin terpakai kepada tumor lain yang mempunyai ciri HRD.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Niraparib (terjemahan tidak rasmi): “Niraparib ialah perencat enzim PARP, termasuk PARP-1 dan PARP-2, yang memainkan peranan dalam pembaikan DNA. Kajian in vitro telah menunjukkan bahawa sitotoksisiti yang diaruh oleh niraparib mungkin melibatkan perencatan aktiviti enzimatik PARP dan peningkatan pembentukan kompleks PARP-DNA yang mengakibatkan kerosakan DNA, apoptosis dan kematian sel.” Teks asal bahasa Inggeris: "Niraparib is an inhibitor of PARP enzymes, including PARP-1 and PARP-2, that play a role in DNA repair. In vitro studies have shown that niraparib-induced cytotoxicity may involve inhibition of PARP enzymatic activity and increased formation of PARP-DNA complexes resulting in DNA damage, apoptosis, and cell death." ([DailyMed: Zejula (niraparib) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b7f675e2-159c-490c-b6f4-3f16d9492b7d), versi 2026-07-28; diakses 2026-11-19). Berdasarkan maklumat sedia ada, niraparib ialah perencat PARP-1/2 yang memanfaatkan "letalitas sintetik" dalam tumor yang mengalami kekurangan pembaikan rekombinasi homolog (HRD). Keberkesanannya dalam kanser ovari dan peritoneum telah ditunjukkan, dan secara mekanisme ia mungkin terpakai kepada tumor lain yang mempunyai ciri HRD.
 
 Percubaan dan literatur yang dipautkan melibatkan karsinoma serous endometrium dan karsinoma serous gred tinggi ovari, yang sering HRD-positif dan berkongsi ciri molekul (ketidakstabilan kromosom, perubahan bilangan salinan). Pautan ini koheren dari segi mekanisme.
 
@@ -148,11 +148,12 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat pakej.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Niraparib juga tidak didaftarkan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Zejula (niraparib) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b7f675e2-159c-490c-b6f4-3f16d9492b7d) |
 
 <!-- review:end log -->
 

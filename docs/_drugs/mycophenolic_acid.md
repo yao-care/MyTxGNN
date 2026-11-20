@@ -66,7 +66,7 @@ Tahap bukti masih lemah dan lebih sesuai dianggap sebagai soalan penyelidikan.
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat yang diketahui, asid mikofenolik menghalang IMPDH, sekali gus menyekat percambahan limfosit T dan B. Ia ialah bentuk aktif bagi prodrug mikofenolat mofetil (MMF) yang digunakan secara meluas sebagai imunosupresan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Mycophenolic Acid (terjemahan tidak rasmi): “Asid mikofenolik (MPA), suatu imunosupresan, ialah perencat tak kompetitif dan berbalik bagi inosina monofosfat dehidrogenase (IMPDH), dan oleh itu merencat laluan de novo sintesis nukleotida guanosina tanpa penggabungan ke dalam DNA. Limfosit T dan B amat bergantung pada sintesis purina de novo untuk proliferasinya, manakala jenis sel lain boleh menggunakan laluan penyelamatan.” Teks asal bahasa Inggeris: "Mycophenolic acid (MPA), an immunosuppressant, is an uncompetitive and reversible inhibitor of inosine monophosphate dehydrogenase (IMPDH), and therefore inhibits the de novo pathway of guanosine nucleotide synthesis without incorporation to DNA. T- and B-lymphocytes are critically dependent for their proliferation on de novo synthesis of purines, whereas other cell types can utilize salvage pathways." ([DailyMed: Myfortic (mycophenolic acid) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eed26501-890d-4ff6-88e7-6dbea4726e53), versi 2026-07-29; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, asid mikofenolik menghalang IMPDH, sekali gus menyekat percambahan limfosit T dan B. Ia ialah bentuk aktif bagi prodrug mikofenolat mofetil (MMF) yang digunakan secara meluas sebagai imunosupresan.
 
 Dalam hemoglobinopati (contohnya talasemia), ubat ini **tidak** menyasarkan kecacatan globin yang mendasari. Kertas 2025 mengenai dos MMF off-label untuk pesakit talasemia kanak-kanak menyokong penggunaan ini, tetapi ia ialah cadangan dos berasaskan farmakokinetik populasi, bukan bukti keberkesanan.
 
@@ -124,12 +124,13 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "kerana tiada pendaftaran tempatan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-05 | Dipadam: "dan ubat ini tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Myfortic (mycophenolic acid) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eed26501-890d-4ff6-88e7-6dbea4726e53) |
 
 <!-- review:end log -->
 

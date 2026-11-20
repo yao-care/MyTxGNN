@@ -54,7 +54,7 @@ Acetazolamide ialah perencat karbonik anhidrase yang sudah didaftarkan dan dipas
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan acetazolamide tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, acetazolamide ialah perencat karbonik anhidrase yang mengubah keseimbangan asid-bes dalam badan.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Acetazolamide (terjemahan tidak rasmi): “Acetazolamide ialah perencat karbonik anhidrase yang poten, berkesan dalam mengawal rembesan cecair (cth., sesetengah jenis glaukoma), dalam rawatan gangguan sawan tertentu (cth., epilepsi), dan dalam menggalakkan diuresis dalam keadaan penahanan cecair yang abnormal (cth., edema jantung). Acetazolamide bukan diuretik merkuri.” Teks asal bahasa Inggeris: "Acetazolamide is a potent carbonic anhydrase inhibitor, effective in the control of fluid secretion (e.g., some types of glaucoma), in the treatment of certain convulsive disorders (e.g., epilepsy), and in the promotion of diuresis in instances of abnormal fluid retention (e.g., cardiac edema). Acetazolamide is not a mercurial diuretic." ([DailyMed: acetazolamide prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8e48a25-5f6c-4b5a-a5f2-ee87aabea33b), versi 2026-11-10; diakses 2026-11-19). Secara umum, acetazolamide ialah perencat karbonik anhidrase yang mengubah keseimbangan asid-bes dalam badan.
 
 Satu kaitan yang mungkin ialah perubahan keseimbangan asid-bes boleh memberi kesan kepada keterujaan otot dan gandingan pengujaan-pengecutan. Namun, ini hanyalah andaian dan tidak disokong oleh data yang ada. Skor TxGNN yang sangat tinggi (0,9995) hanyalah ramalan pengiraan dan bukan bukti keberkesanan klinikal.
 
@@ -91,6 +91,19 @@ Data amaran utama dan kontraindikasi tidak tersedia. Sila rujuk sisipan pek untu
 - Amaran dan kontraindikasi daripada sisipan pek produk
 - Kajian praklinikal atau klinikal yang mengkaji secara langsung kesan acetazolamide terhadap demam panas malignan akibat senaman
 - Penilaian keselamatan berkaitan interaksi ubat utama (aspirin dan cisapride)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: acetazolamide prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8e48a25-5f6c-4b5a-a5f2-ee87aabea33b) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

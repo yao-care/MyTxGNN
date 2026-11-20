@@ -60,7 +60,7 @@ dengan **1 ujian klinikal** (Fasa 2, selesai) dan **18 penerbitan** yang menyoko
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan farmakologi yang diketahui, pimecrolimus ialah perencat kalsineurin yang menyekat pengaktifan sel T serta pembebasan sitokin keradangan (seperti IL-2, IFN-gamma dan TNF-alfa), dan juga merencat degranulasi sel mast.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Pimecrolimus (terjemahan tidak rasmi): “Mekanisme tindakan pimecrolimus dalam dermatitis atopik tidak diketahui. Walaupun perkara berikut telah diperhatikan, kepentingan klinikal pemerhatian ini dalam dermatitis atopik tidak diketahui. Telah ditunjukkan bahawa pimecrolimus terikat dengan afiniti tinggi kepada makrofilin-12 (FKBP-12) dan merencat fosfatase bergantung kalsium, kalsineurin.” Teks asal bahasa Inggeris: "The mechanism of action of pimecrolimus in atopic dermatitis is not known. While the following have been observed, the clinical significance of these observations in atopic dermatitis is not known. It has been demonstrated that pimecrolimus binds with high affinity to macrophilin-12 (FKBP-12) and inhibits the calcium-dependent phosphatase, calcineurin." ([DailyMed: pimecrolimus prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6601e43e-ce7d-446a-8568-8e7b24b86f06), versi 2026-04-30; diakses 2026-11-19). Berdasarkan farmakologi yang diketahui, pimecrolimus ialah perencat kalsineurin yang menyekat pengaktifan sel T serta pembebasan sitokin keradangan (seperti IL-2, IFN-gamma dan TNF-alfa), dan juga merencat degranulasi sel mast.
 
 Dermatitis seborea melibatkan tindak balas keradangan terhadap yis *Malassezia*. Perencat kalsineurin topikal turut dilaporkan mempunyai aktiviti antikulat terhadap *Malassezia*. Mekanisme ini berkait rapat dengan indikasi ekzema atopik yang telah diluluskan, kerana kedua-dua penyakit ialah dermatosis keradangan yang didorong sel T.
 
@@ -97,7 +97,6 @@ Satu-satunya ujian ini menguji indikasi sasaran secara langsung, tetapi ia Fasa 
 
 ## Maklumat Pasaran di Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -130,6 +129,19 @@ Amaran dan kontraindikasi daripada sisip bungkusan tidak tersedia; sila rujuk si
 - Kategori ini sebahagian besarnya bertindih dengan indikasi asal (ekzema atopik), jadi lebih kepada pengesahan penggunaan sedia ada daripada pengalihan guna sebenar. Terdapat beberapa ujian Fasa 3 yang selesai (contohnya dermatitis tangan kronik, n=652; dermatitis perioral, n=124) serta RCT 5 tahun pada bayi (PMID 25802354).
 - **Exanthem:** skor 0.9932, tahap bukti L2, dengan syor penyelidikan. Ujian tertumpu pada keadaan berbeza (liken planus oral, liken sklerosus vulva, ruam akibat perencat EGFR) dan semuanya kecil.
 - **Acrodermatitis chronica atrophicans:** skor 0.9901, tahap bukti L5, keputusan Hold. Tiada bukti klinikal atau literatur, dan imunosupresi tidak mempunyai rasional jelas untuk manifestasi lewat borreliosis Lyme.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: pimecrolimus prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6601e43e-ce7d-446a-8568-8e7b24b86f06) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

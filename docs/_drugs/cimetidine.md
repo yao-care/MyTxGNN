@@ -56,7 +56,7 @@ tetapi setakat ini **tiada ujian klinikal** didaftarkan dan hanya terdapat **20 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Cimetidine diketahui sebagai antagonis reseptor H2 yang menurunkan rembesan asid gastrik, dan ia digunakan dalam penyakit ulser gastrik dan duodenum. Perforasi merupakan komplikasi penyakit ulser peptik, maka hubungan melalui penindasan asid dan penyembuhan ulser kelihatan munasabah.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Cimetidine (terjemahan tidak rasmi): “Tablet cimetidine merencat secara kompetitif tindakan histamina pada reseptor histamina H 2 sel parietal dan oleh itu merupakan antagonis reseptor histamina H 2 . Cimetidine bukan agen antikolinergik. Kajian telah menunjukkan bahawa tablet cimetidine merencat kedua-dua rembesan asid gastrik basal pada waktu siang dan pada waktu malam.” Teks asal bahasa Inggeris: "Cimetidine tablets competitively inhibits the action of histamine at the histamine H 2 receptors of the parietal cells and thus is a histamine H 2 -receptor antagonist. Cimetidine is not an anticholinergic agent. Studies have shown that cimetidine tablets inhibit both daytime and nocturnal basal gastric acid secretion." ([DailyMed: cimetidine prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=06c0a509-026f-44e0-9975-a94a8de51d43), versi 2026-07-15; diakses 2026-11-19). Cimetidine diketahui sebagai antagonis reseptor H2 yang menurunkan rembesan asid gastrik, dan ia digunakan dalam penyakit ulser gastrik dan duodenum. Perforasi merupakan komplikasi penyakit ulser peptik, maka hubungan melalui penindasan asid dan penyembuhan ulser kelihatan munasabah.
 
 Walau bagaimanapun, perforasi ialah kecemasan pembedahan akut. Literatur yang diperoleh menunjukkan bahawa perforasi lazimnya berlaku **semasa** terapi cimetidine (contohnya "Perforation on cimetidine" dan "Duodenal ulcer perforation whilst on cimetidine therapy"), dan tidak menunjukkan bahawa ubat ini merawat perforasi. Skor TxGNN yang tinggi berkemungkinan mencerminkan kedekatan dengan indikasi ulser sedia ada dan bukan kesan terapeutik baharu. Peranan tambahan atau pasca pembedahan bagi penindasan asid mungkin wujud, tetapi tidak disokong oleh data yang dikumpulkan.
 
@@ -109,6 +109,19 @@ Tiada ujian klinikal dan tiada kajian yang meneliti perforasi ulser peptik sebag
 - Data mekanisme tindakan terperinci
 - Amaran dan kontraindikasi daripada risalah maklumat produk NPRA
 - Pelan pemantauan keselamatan, terutamanya bagi interaksi ubat sederhana
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: cimetidine prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=06c0a509-026f-44e0-9975-a94a8de51d43) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -54,7 +54,7 @@ Clozapine ialah antipsikotik atipikal dengan profil reseptor yang luas. Model Tx
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan. Namun, profil reseptor clozapine yang luas, iaitu antagonisme D2/D4 dan 5-HT2A serta aktiviti muskarinik dan adrenergik, secara munasabah menyokong kesan antimania dan penstabil mood, terutamanya dalam mania yang rintang rawatan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Clozapine (terjemahan tidak rasmi): “Mekanisme tindakan clozapine tidak diketahui. Walau bagaimanapun, telah dicadangkan bahawa keberkesanan terapeutik clozapine dalam skizofrenia diperantarakan melalui antagonisme reseptor dopamina jenis 2 (D 2 ) dan reseptor serotonin jenis 2A (5-HT 2A ).” Teks asal bahasa Inggeris: "The mechanism of action of clozapine is unknown. However, it has been proposed that the therapeutic efficacy of clozapine in schizophrenia is mediated through antagonism of the dopamine type 2 (D 2 ) and the serotonin type 2A (5-HT 2A ) receptors." ([DailyMed: Versacloz (clozapine) prescribing information, TruPharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2592c9a8-fd74-4e0d-a895-b07b014cf355), versi 2026-09-06; diakses 2026-11-19). Namun, profil reseptor clozapine yang luas, iaitu antagonisme D2/D4 dan 5-HT2A serta aktiviti muskarinik dan adrenergik, secara munasabah menyokong kesan antimania dan penstabil mood, terutamanya dalam mania yang rintang rawatan.
 
 Kajian sistematik dan meta-analisis (PMID 32182485) mendapati clozapine setanding dengan antipsikotik lain dalam episod mania dan lebih baik dalam gangguan bipolar rintang rawatan. Kajian itu berasaskan tiga kajian perbandingan yang kecil, justeru keyakinan terhadap kesimpulan ini terhad. Satu percubaan Fasa 2 berkawalan plasebo dalam mania rintang rawatan juga telah selesai, tetapi tiada percubaan Fasa 3 untuk label ini. Bukti terutamanya terpakai pada populasi yang rintang rawatan.
 
@@ -104,6 +104,18 @@ Terdapat satu percubaan Fasa 2 yang telah selesai serta kajian sistematik dan me
 - Data mekanisme tindakan yang terperinci
 - Pelan pemantauan keselamatan: kiraan darah (agranulositosis), fungsi jantung (miokarditis), risiko sawan dan parameter metabolik
 - Pengesahan dalam populasi mania rintang rawatan melalui percubaan yang lebih besar
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Versacloz (clozapine) prescribing information, TruPharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2592c9a8-fd74-4e0d-a895-b07b014cf355) |
+
+<!-- review:end log -->
 
 ## Penafian
 

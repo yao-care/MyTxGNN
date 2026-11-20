@@ -58,7 +58,7 @@ Lamivudine ialah perencat transkriptase balik nukleosida yang direkodkan dalam g
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, lamivudine ialah perencat transkriptase balik nukleosida (NRTI) yang berkaitan dengan rawatan HIV-1 dan hepatitis B. Secara mekanisme, ia mungkin berkesan terhadap virus yang serupa.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Lamivudine (terjemahan tidak rasmi): “Lamivudin ialah agen antiretrovirus. […] Lamivudin ialah analog nukleosida sintetik. Di dalam sel, lamivudin difosforilasikan kepada metabolit 5′-trifosfat aktifnya, lamivudin trifosfat (3TC-TP). Cara tindakan utama 3TC-TP ialah perencatan transkriptase berbalik (RT) HIV-1 melalui penamatan rantai DNA selepas penggabungan analog nukleotida.” Teks asal bahasa Inggeris: "Lamivudine is an antiretroviral agent. […] Lamivudine is a synthetic nucleoside analogue. Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC-TP). The principal mode of action of 3TC-TP is inhibition of HIV-1 reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue." ([DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8), versi 2024-08-15; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, lamivudine ialah perencat transkriptase balik nukleosida (NRTI) yang berkaitan dengan rawatan HIV-1 dan hepatitis B. Secara mekanisme, ia mungkin berkesan terhadap virus yang serupa.
 
 SIV ialah saudara lentivirus yang rapat dengan HIV dan mempunyai transkriptase balik yang homolog. Aktiviti NRTI terhadap SIV oleh itu munasabah dari segi mekanisme. Kajian pada makak menunjukkan bahawa SIV yang membawa mutasi M184V (mutasi rintangan lamivudine) mempunyai kecergasan yang berkurang. Kajian tersebut juga menunjukkan bahawa rejimen kombinasi yang mengandungi NRTI menghasilkan penurunan viral yang pantas.
 
@@ -125,6 +125,19 @@ Amaran utama dan kontraindikasi daripada sisipan bungkusan tidak tersedia. Sila 
 - Data mekanisme tindakan terperinci (MOA) daripada DrugBank.
 - Amaran, kontraindikasi dan teks indikasi yang diluluskan daripada sisipan bungkusan NPRA.
 - Penilaian nilai penggunaan sebenar, iaitu sama ada SIV hanya relevan sebagai model penyelidikan HIV dan bukan sasaran terapeutik manusia.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

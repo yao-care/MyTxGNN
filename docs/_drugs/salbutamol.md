@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **konjunktivitis papilari** den
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, salbutamol ialah agonis reseptor beta-2 adrenergik. Mekanisme ini boleh mengendurkan otot licin dan secara teori mengurangkan pembebasan perantara sel mast dalam keradangan alahan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Salbutamol (terjemahan tidak rasmi): “Albuterol sulfat ialah agonis adrenergik beta 2 . Kesan farmakologi albuterol sulfat adalah disebabkan oleh pengaktifan reseptor adrenergik beta 2 pada otot licin saluran udara. Pengaktifan reseptor adrenergik beta 2 membawa kepada pengaktifan adenilsiklase dan peningkatan kepekatan intrasel siklik-3', 5’-adenosina monofosfat (AMP siklik).” Teks asal bahasa Inggeris: "Albuterol sulfate is a beta 2 -adrenergic agonist. The pharmacologic effects of albuterol sulfate are attributable to activation of beta 2 -adrenergic receptors on airway smooth muscle. Activation of beta 2 -adrenergic receptors leads to the activation of adenylcyclase and to an increase in the intracellular concentration of cyclic-3', 5’-adenosine monophosphate (cyclic AMP)." ([DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d), versi 2024-12-20; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, salbutamol ialah agonis reseptor beta-2 adrenergik. Mekanisme ini boleh mengendurkan otot licin dan secara teori mengurangkan pembebasan perantara sel mast dalam keradangan alahan.
 
 Konjunktivitis papilari ialah keadaan keradangan mata yang sering berkait dengan tindak balas alahan. Secara teori, tindakan beta-2 yang mengurangkan pembebasan perantara sel mast mungkin relevan. Namun, hujah ini bersifat spekulatif dan tidak disokong oleh sebarang bukti yang diperoleh. Hubungan dengan indikasi asal tidak dapat dinilai kerana rekod indikasi asal tiada.
 
@@ -115,6 +115,19 @@ Senarai penuh perlu disemak sebelum sebarang penggunaan klinikal.
 - Mengumpulkan bukti praklinikal atau klinikal khusus untuk keadaan ini. Kajian haiwan lama untuk konjunktivitis alahan (contohnya PMID 3666475 pada guinea pig) wujud untuk indikasi yang berhampiran, tetapi tiada data manusia.
 
 Ini ialah penggunaan standard bronkodilator dan bukan pengalihan guna baharu. Ia menguatkan keperluan membetulkan rekod data ubat sebelum sebarang keputusan dibuat.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

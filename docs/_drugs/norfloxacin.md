@@ -59,7 +59,7 @@ Norfloxacin ialah antibakteria kumpulan fluoroquinolone yang pada asalnya diguna
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang disusun untuk laporan ini. Secara umum diketahui bahawa norfloxacin ialah fluoroquinolone yang menghalang DNA gyrase dan topoisomerase IV bakteria, dan keberkesanannya dalam jangkitan bakteria telah dibuktikan.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Norfloxacin ialah (terjemahan tidak rasmi): “Perencat topoisomerase IV; Perencat DNA girase bakteria” Teks asal bahasa Inggeris: "Topoisomerase IV inhibitor; Bacterial DNA gyrase inhibitor" ([ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9), CC BY-SA 3.0; diakses 2026-11-19). Secara umum diketahui bahawa norfloxacin ialah fluoroquinolone yang menghalang DNA gyrase dan topoisomerase IV bakteria, dan keberkesanannya dalam jangkitan bakteria telah dibuktikan.
 
 Namun, polyclonal hyperviscosity syndrome disebabkan oleh lebihan imunoglobulin dan tidak mempunyai sasaran antibakteria yang jelas. **Tiada hubungan mekanistik yang munasabah dapat dikenal pasti.** Skor TxGNN yang tinggi (0.9970) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Skor ini tidak disokong oleh data percubaan atau literatur. Ramalan ini perlu dilihat sebagai isyarat komputasi, bukan rasional biologi.
 
@@ -132,6 +132,18 @@ Sembilan ramalan seterusnya turut tidak mempunyai asas yang kukuh dan semuanya b
 | 8 | Monoclonal gammopathy | 0.9942 | L5 | Satu kajian rintangan antimikrob, bukan bukti keberkesanan |
 | 9 | Hematological disease associated with acquired peripheral neuropathy | 0.9938 | L5 | Fluoroquinolone sendiri boleh menyebabkan neuropati |
 | 10 | Septicemic plague | 0.9937 | L5 | Rasional antibakteria munasabah pada tahap kelas ubat; dua kajian praklinikal tidak mengkaji norfloxacin pada manusia, jadi tahap bukti ditetapkan L5; disyorkan sebagai persoalan penyelidikan |
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9) |
+
+<!-- review:end log -->
 
 ## Penafian
 

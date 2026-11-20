@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan pengetahuan am tentang kelas ubat ini, paclitaxel ialah agen sitotoksik penstabil mikrotubul yang menahan sel yang membahagi dengan cepat pada fasa G2/M. Mekanisme antimitotik sebegini secara teorinya boleh relevan untuk tumor yang berpercambahan pesat seperti sarkoma tisu lembut, termasuk rabdomiosarkoma embrionik. Namun, ini ialah inferens daripada kelas ubat dan bukan daripada data yang dikumpulkan untuk laporan ini.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Paclitaxel (terjemahan tidak rasmi): “Partikel terikat protein paklitaksel untuk suspensi boleh suntik (terikat albumin) ialah perencat mikrotubul yang menggalakkan pemasangan mikrotubul daripada dimer tubulin dan menstabilkan mikrotubul dengan menghalang depolimerisasi. Kestabilan ini mengakibatkan perencatan penyusunan semula dinamik normal rangkaian mikrotubul yang penting untuk fungsi selular interfasa dan mitosis yang vital.” Teks asal bahasa Inggeris: "Paclitaxel protein-bound particles for injectable suspension (albumin-bound) is a microtubule inhibitor that promotes the assembly of microtubules from tubulin dimers and stabilizes microtubules by preventing depolymerization. This stability results in the inhibition of the normal dynamic reorganization of the microtubule network that is essential for vital interphase and mitotic cellular functions." ([DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c), versi 2025-09-17; diakses 2026-11-19). Berdasarkan pengetahuan am tentang kelas ubat ini, paclitaxel ialah agen sitotoksik penstabil mikrotubul yang menahan sel yang membahagi dengan cepat pada fasa G2/M. Mekanisme antimitotik sebegini secara teorinya boleh relevan untuk tumor yang berpercambahan pesat seperti sarkoma tisu lembut, termasuk rabdomiosarkoma embrionik. Namun, ini ialah inferens daripada kelas ubat dan bukan daripada data yang dikumpulkan untuk laporan ini.
 
 Rejimen piawai rabdomiosarkoma bergantung pada agen lain (contohnya vincristine, actinomycin D, cyclophosphamide). Tiada data yang menunjukkan paclitaxel memberi manfaat tambahan atau pernah diuji dalam keadaan ini. Ramalan kedua dalam senarai (rabdomiosarkoma embrionik jenis botrioid pada vagina, skor 0.9973) kemungkinan besar didorong oleh kejiranan ontologi penyakit yang sama, jadi kedua-duanya tidak wajar dianggap sebagai isyarat bebas.
 
@@ -113,6 +113,19 @@ Skor TxGNN tinggi, tetapi tiada percubaan klinikal atau penerbitan yang mengkaji
 - Tinjauan literatur dan pendaftaran percubaan klinikal untuk paclitaxel dalam rabdomiosarkoma
 - Data praklinikal atau klinikal yang menunjukkan manfaat tambahan berbanding rejimen piawai
 - Penilaian keselamatan dan dos untuk populasi pediatrik
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

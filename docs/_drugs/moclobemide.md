@@ -60,7 +60,7 @@ Setakat ini terdapat **0 ujian klinikal berdaftar** dan **10 penerbitan** yang m
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan farmakologi am, moclobemide merencat monoamina oksidase-A (MAO-A) secara boleh balik, lalu meningkatkan serotonin, noradrenalin dan dopamin di sinaps. Data farmakologi turut mengesahkan sasarannya ialah MAO-A dan MAO-B.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Moclobemide ialah (terjemahan tidak rasmi): “Perencat monoamina oksidase A” Teks asal bahasa Inggeris: "Monoamine oxidase A inhibitor" ([ChEMBL CHEMBL86304 (moclobemide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL86304), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan farmakologi am, moclobemide merencat monoamina oksidase-A (MAO-A) secara boleh balik, lalu meningkatkan serotonin, noradrenalin dan dopamin di sinaps. Data farmakologi turut mengesahkan sasarannya ialah MAO-A dan MAO-B.
 
 Sistem monoamina ini berkait rapat dengan gangguan kebimbangan, termasuk gangguan panik dengan atau tanpa agorafobia serta fobia sosial. Oleh itu, secara mekanistik tindakan moclobemide munasabah untuk agorafobia. Perlu diingat bahawa kaitan ini bersandarkan farmakologi am, bukan rekod mekanisme yang dibekalkan, dan skor TxGNN yang tinggi hanyalah ramalan model.
 
@@ -109,6 +109,18 @@ Dua RCT (satu terkawal plasebo dan satu dengan pembanding aktif) dalam gangguan 
 - Data terperinci mekanisme tindakan (MOA)
 - Kajian klinikal yang menilai agorafobia sebagai hasil utama
 - Pelan pemantauan keselamatan, terutamanya interaksi ubat dengan agen serotonergik
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL86304 (moclobemide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL86304) |
+
+<!-- review:end log -->
 
 ## Penafian
 

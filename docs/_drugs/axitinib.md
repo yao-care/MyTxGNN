@@ -56,7 +56,7 @@ Setakat ini terdapat **0 percubaan klinikal** dan **1 penerbitan praklinikal** y
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, axitinib diketahui sebagai perencat tirosin kinase yang bertindak ke atas laluan VEGFR/PDGFR yang mendorong angiogenesis tumor.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Axitinib (terjemahan tidak rasmi): “Axitinib telah ditunjukkan merencat kinase tirosina reseptor termasuk reseptor faktor pertumbuhan endotelium vaskular (VEGFR)-1, VEGFR-2 dan VEGFR-3 pada kepekatan plasma terapeutik. Reseptor-reseptor ini terlibat dalam angiogenesis patologi, pertumbuhan tumor dan perkembangan kanser.” Teks asal bahasa Inggeris: "Axitinib has been shown to inhibit receptor tyrosine kinases including vascular endothelial growth factor receptors (VEGFR)-1, VEGFR-2, and VEGFR-3 at therapeutic plasma concentrations. These receptors are implicated in pathologic angiogenesis, tumor growth, and cancer progression." ([DailyMed: Inlyta (axitinib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8a903e31-936e-4ed7-8a59-59f32374f338), versi 2026-03-12; diakses 2026-11-19). Walau bagaimanapun, axitinib diketahui sebagai perencat tirosin kinase yang bertindak ke atas laluan VEGFR/PDGFR yang mendorong angiogenesis tumor.
 
 Satu kajian praklinikal pada 2016 melaporkan bahawa axitinib mempunyai aktiviti antiangiogenik dan antitumor dalam liposarkoma miksoid, iaitu sejenis sarkoma tisu lembut yang jarang berlaku. Ini selaras dengan rasional bahawa menyekat angiogenesis boleh memperlahankan pertumbuhan tumor tersebut.
 
@@ -108,6 +108,19 @@ Bukti hanya terdiri daripada satu kajian praklinikal dalam liposarkoma miksoid t
 - Bukti klinikal awal (contohnya percubaan fasa 2) dalam liposarkoma
 - Pengesahan keberkesanan merentas subjenis liposarkoma, bukan miksoid sahaja
 - Pelan pemantauan keselamatan, termasuk pengurusan interaksi dengan perencat/pendorong CYP3A4
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Inlyta (axitinib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8a903e31-936e-4ed7-8a59-59f32374f338) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

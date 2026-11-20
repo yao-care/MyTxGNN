@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **retinopati diabetes non-proli
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam rekod yang dikumpulkan. Berdasarkan kelas ubat, tildrakizumab ialah antibodi anti-IL-23 p19 yang menyekat laluan keradangan IL-23/IL-17.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Tildrakizumab (terjemahan tidak rasmi): “Tildrakizumab ialah antibodi monoklonal IgG1/k terhumanisasi yang mengikat secara selektif kepada subunit p19 IL-23 dan merencatkan interaksinya dengan reseptor IL-23. IL-23 ialah sitokin semula jadi yang terlibat dalam tindak balas keradangan dan imun.” Teks asal bahasa Inggeris: "Tildrakizumab is a humanized IgG1/k monoclonal antibody that selectively binds to the p19 subunit of IL-23 and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in inflammatory and immune responses." ([DailyMed: Ilumya (tildrakizumab-asmn) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6a322bb-51b9-4f0e-8642-62a9682ffcde), versi 2026-11-02; diakses 2026-11-19). Berdasarkan kelas ubat, tildrakizumab ialah antibodi anti-IL-23 p19 yang menyekat laluan keradangan IL-23/IL-17.
 
 Kaitan yang mungkin ialah keradangan kronik tahap rendah dalam retinopati diabetes. Sitokin paksi IL-17/IL-23 boleh menyumbang kepada kerosakan vaskular retina dan leukostasis. **Kaitan ini bersifat spekulatif.** Tiada bukti klinikal atau literatur dibekalkan, dan skor 0.9963 hanyalah ramalan komputasi.
 
@@ -132,11 +132,12 @@ Kebanyakan interaksi major dan moderate melibatkan agen imunosupresif atau imuno
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ilumya (tildrakizumab-asmn) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6a322bb-51b9-4f0e-8642-62a9682ffcde) |
 
 <!-- review:end log -->
 

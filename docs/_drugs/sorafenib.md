@@ -54,7 +54,7 @@ Sorafenib ialah perencat multikinase (RAF, VEGFR, PDGFR, KIT) yang digunakan dal
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, sorafenib ialah perencat multikinase yang menyasarkan laluan RAF/MEK/ERK serta reseptor VEGFR dan PDGFR. Secara teori, ia boleh menyekat isyarat MAPK dan angiogenesis dalam tumor sarkoma.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Sorafenib (terjemahan tidak rasmi): “Sorafenib ialah perencat kinase yang mengurangkan proliferasi sel tumor in vitro. Sorafenib telah ditunjukkan merencat pelbagai kinase intraselular (c-CRAF, BRAF dan BRAF mutan) dan kinase permukaan sel (KIT, FLT- 3, RET, RET/PTC, VEGFR-1, VEGFR- 2, VEGFR- 3, dan PDGFR-ß).” Teks asal bahasa Inggeris: "Sorafenib is a kinase inhibitor that decreases tumor cell proliferation in vitro. Sorafenib was shown to inhibit multiple intracellular (c-CRAF, BRAF and mutant BRAF) and cell surface kinases (KIT, FLT- 3, RET, RET/PTC, VEGFR-1, VEGFR- 2, VEGFR- 3, and PDGFR-ß)." ([DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0), versi 2023-08-28; diakses 2026-11-19). Berdasarkan maklumat sedia ada, sorafenib ialah perencat multikinase yang menyasarkan laluan RAF/MEK/ERK serta reseptor VEGFR dan PDGFR. Secara teori, ia boleh menyekat isyarat MAPK dan angiogenesis dalam tumor sarkoma.
 
 Namun, sambutan sarkoma tisu lembut terhadap rawatan sangat bergantung pada subjenis histologi, dan liposarkoma bukan subjenis yang dikenali responsif terhadap sorafenib. Data praklinikal yang ada ialah pada sel tumor selubung saraf periferi malignan dan garisan sel liposarkoma dedifferentiated dalam satu kajian, tetapi ini tidak menunjukkan keberkesanan klinikal dalam liposarkoma. Oleh itu, ramalan ini lebih sesuai dianggap sebagai soalan penyelidikan.
 
@@ -107,6 +107,18 @@ Tiada kajian yang menguji sorafenib secara langsung dalam liposarkoma. Ujian kli
 - Data mekanisme tindakan (MOA) yang terperinci
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej
 - Pelan pemantauan keselamatan, termasuk pengurusan interaksi ubat
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0) |
+
+<!-- review:end log -->
 
 ## Penafian
 

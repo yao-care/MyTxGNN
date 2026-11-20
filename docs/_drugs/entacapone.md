@@ -59,7 +59,7 @@ Entacapone ialah perencat COMT periferi yang digunakan sebagai tambahan kepada l
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Entacapone secara umumnya diketahui sebagai perencat COMT periferi yang memanjangkan pendedahan kepada levodopa, dan kegunaannya dalam penyakit Parkinson direkodkan dalam graf pengetahuan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Entacapone (terjemahan tidak rasmi): “Entacapone ialah perencat COMT yang selektif dan berbalik. Pada mamalia, COMT tertabur di seluruh pelbagai organ dengan aktiviti tertinggi dalam hati dan ginjal. COMT juga terdapat dalam jantung, paru-paru, otot licin dan otot rangka, saluran usus, organ pembiakan, pelbagai kelenjar, tisu adipos, kulit, sel darah dan tisu neuron, terutamanya dalam sel glia.” Teks asal bahasa Inggeris: "Entacapone is a selective and reversible inhibitor of COMT. In mammals, COMT is distributed throughout various organs with the highest activities in the liver and kidney. COMT also occurs in the heart, lung, smooth and skeletal muscles, intestinal tract, reproductive organs, various glands, adipose tissue, skin, blood cells, and neuronal tissues, especially in glial cells." ([DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd), versi 2026-02-16; diakses 2026-11-19). Entacapone secara umumnya diketahui sebagai perencat COMT periferi yang memanjangkan pendedahan kepada levodopa, dan kegunaannya dalam penyakit Parkinson direkodkan dalam graf pengetahuan.
 
 PLAN merangkumi distrofi neuroaksonal bayi dan distonia-parkinsonisme berkaitan PLA2G6. Fenotip parkinsonian bertindih dengan indikasi asal, maka sokongan dopaminergik secara simptomatik boleh dibayangkan. Walau bagaimanapun, entacapone tidak diketahui memberi kesan kepada patologi asas, iaitu pembentukan semula fosfolipid dan pengumpulan besi.
 
@@ -113,6 +113,19 @@ Tiada percubaan klinikal atau penerbitan yang mengkaji PLAN secara langsung, dan
 - Teks amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Bukti praklinikal atau laporan kes bagi penggunaan dalam PLAN, termasuk data keselamatan pediatrik
 - Penilaian keselamatan hati dan psikiatri dalam populasi sasaran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

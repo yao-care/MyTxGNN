@@ -54,7 +54,7 @@ Anastrozole ialah perencat aromatase yang menyekat penghasilan estrogen. Model T
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Secara umumnya, anastrozole ialah perencat aromatase yang mengurangkan paras estrogen, dan kelas ubat ini digunakan untuk tumor yang bergantung kepada hormon.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Anastrozole (terjemahan tidak rasmi): “Pertumbuhan kebanyakan kanser payudara dirangsang atau dikekalkan oleh estrogen. Pada wanita pascamenopaus, estrogen kebanyakannya terhasil daripada tindakan enzim aromatase, yang menukarkan androgen adrenal (terutamanya androstenedion dan testosteron) kepada estron dan estradiol. […] Anastrozol ialah perencat aromatase bukan steroid yang selektif.” Teks asal bahasa Inggeris: "The growth of many cancers of the breast is stimulated or maintained by estrogens. In postmenopausal women, estrogens are mainly derived from the action of the aromatase enzyme, which converts adrenal androgens (primarily androstenedione and testosterone) to estrone and estradiol. […] Anastrozole is a selective non-steroidal aromatase inhibitor." ([DailyMed: Arimidex (anastrozole) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de), versi 2026-03-02; diakses 2026-11-19). Secara umumnya, anastrozole ialah perencat aromatase yang mengurangkan paras estrogen, dan kelas ubat ini digunakan untuk tumor yang bergantung kepada hormon.
 
 Namun, hubungan mekanistik dengan neuroblastoma tidak dapat ditunjukkan. Neuroblastoma bukan tumor klasik yang didorong oleh estrogen, dan tiada biologi bergantung aromatase yang telah dibuktikan. Skor yang tinggi (0,9953) ialah ramalan pengiraan sahaja dan tidak boleh dianggap sebagai bukti keberkesanan klinikal.
 
@@ -98,6 +98,19 @@ Ramalan neuroblastoma hanya berasaskan skor model (0,9953) tanpa sebarang percub
 - Kajian praklinikal (in vitro/in vivo) pada model neuroblastoma
 - Amaran dan kontraindikasi daripada sisip pakej NPRA
 - Penilaian keselamatan untuk populasi pediatrik, kerana neuroblastoma terutamanya menyerang kanak-kanak
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Arimidex (anastrozole) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **leukemia mieloid**, tetapi so
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Zanubrutinib ialah perencat BTK terpilih generasi seterusnya. Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, zanubrutinib tergolong dalam kelas perencat BTK, keberkesanannya dalam keganasan sel B telah dibuktikan, dan secara mekanistik ia mungkin boleh digunakan untuk leukemia mieloid.
+Zanubrutinib ialah perencat BTK terpilih generasi seterusnya. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Zanubrutinib (terjemahan tidak rasmi): “Zanubrutinib ialah perencat molekul kecil bagi Bruton's tyrosine kinase (BTK). Zanubrutinib membentuk ikatan kovalen dengan residu sisteina dalam tapak aktif BTK, yang membawa kepada perencatan aktiviti BTK. BTK ialah molekul pengisyaratan bagi laluan reseptor antigen sel-B (BCR) dan reseptor sitokin.” Teks asal bahasa Inggeris: "Zanubrutinib is a small-molecule inhibitor of Bruton's tyrosine kinase (BTK). Zanubrutinib forms a covalent bond with a cysteine residue in the BTK active site, leading to inhibition of BTK activity. BTK is a signaling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways." ([DailyMed: Brukinsa (zanubrutinib) prescribing information, BeOne Medicines USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e08fe23-d70e-424c-bc51-1222e320f902), versi 2026-09-04; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, zanubrutinib tergolong dalam kelas perencat BTK, keberkesanannya dalam keganasan sel B telah dibuktikan, dan secara mekanistik ia mungkin boleh digunakan untuk leukemia mieloid.
 
 Isyarat BTK aktif dalam keganasan sel B. BTK turut diekspresikan dalam sesetengah sel mieloid dan telah dicadangkan menyumbang kepada kemandirian sel AML. Namun, ini masih hipotesis dan **tidak disokong oleh bukti yang diperoleh**. Skor TxGNN yang tinggi (0.9965) hanyalah ramalan berkomputer.
 
@@ -130,6 +130,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 ---
 
 **Nota tambahan:** Ramalan peringkat 2 hingga 6 (sindrom kongenital yang jarang berlaku, ganglioneuroblastoma, neoplasma retroperitoneal, sarkoma Ewing dan neuroblastoma) mempunyai skor TxGNN antara 0.9921 dan 0.9938 tetapi tiada percubaan klinikal atau kesusasteraan yang relevan. Semuanya berada pada tahap bukti L5 dan berstatus Hold.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Brukinsa (zanubrutinib) prescribing information, BeOne Medicines USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e08fe23-d70e-424c-bc51-1222e320f902) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

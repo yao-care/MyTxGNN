@@ -56,7 +56,7 @@ Oleh itu tahap bukti ditetapkan pada L5 dan keputusan pada Hold sehingga data uj
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan. Namun, valbenazine diketahui sebagai perencat VMAT2 terpilih yang mengurangkan pembungkusan dan pelepasan dopamin di sinaps prasinaps.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Valbenazine (terjemahan tidak rasmi): “Mekanisme tindakan valbenazin bagi rawatan diskinesia tardif dan korea pada pesakit penyakit Huntington tidak jelas, tetapi dipercayai diperantarakan melalui perencatan berbalik pengangkut monoamina vesikular 2 (VMAT2), iaitu pengangkut yang mengawal atur pengambilan monoamina dari sitoplasma ke dalam vesikel sinaptik untuk penyimpanan dan pembebasan.” Teks asal bahasa Inggeris: "The mechanism of action of valbenazine for the treatment of tardive dyskinesia and chorea in patients with Huntington’s disease is unclear, but is thought to be mediated through the reversible inhibition of vesicular monoamine transporter 2 (VMAT2), a transporter that regulates monoamine uptake from the cytoplasm to the synaptic vesicle for storage and release." ([DailyMed: Ingrezza (valbenazine) prescribing information, Neurocrine Biosciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c970164-cafb-421f-9eb5-c226ef0a3417), versi 2026-04-17; diakses 2026-11-19). Namun, valbenazine diketahui sebagai perencat VMAT2 terpilih yang mengurangkan pembungkusan dan pelepasan dopamin di sinaps prasinaps.
 
 Tik dikaitkan dengan aktiviti dopamin yang berlebihan dalam litar kortiko-striato-talamo-kortikal. Perencatan VMAT2 mengurangkan muatan dan pelepasan dopamin vesikular. Rasional ini dikongsi dengan tetrabenazine dan deutetrabenazine yang digunakan dalam pengurusan tik. Ulasan klinikal juga menyatakan bahawa perencat VMAT2 berkesan untuk gangguan pergerakan hiperkinetik dan oleh itu mungkin berguna untuk sindrom Tourette.
 
@@ -106,6 +106,18 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Data mekanisme tindakan yang terperinci
 - Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan di Malaysia
 - Data keselamatan dan dos untuk populasi kanak-kanak, memandangkan gangguan tik biasanya bermula pada zaman kanak-kanak
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ingrezza (valbenazine) prescribing information, Neurocrine Biosciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c970164-cafb-421f-9eb5-c226ef0a3417) |
+
+<!-- review:end log -->
 
 ## Penafian
 

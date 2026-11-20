@@ -58,7 +58,7 @@ Ramipril ialah perencat enzim penukar angiotensin (ACE) yang telah didaftarkan d
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan umum, ramipril ialah perencat ACE yang mengurangkan pembentukan angiotensin II. Angiotensin II menyebabkan penyempitan saluran darah dan pembentukan semula (remodelling) vaskular, jadi perencatan ACE secara teori boleh mengurangkan vasokonstriksi paru-paru dan remodelling saluran darah paru-paru.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ramipril (terjemahan tidak rasmi): “Ramipril dan ramiprilat merencat ACE pada subjek manusia dan haiwan. Enzim penukar angiotensin ialah peptidil dipeptidase yang memangkinkan penukaran angiotensin I kepada bahan vasokonstriktor, angiotensin II. Angiotensin II juga merangsang rembesan aldosteron oleh korteks adrenal.” Teks asal bahasa Inggeris: "Ramipril and ramiprilat inhibit ACE in human subjects and animals. Angiotensin converting enzyme is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex." ([DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59), versi 2026-11-11; diakses 2026-11-19). Berdasarkan pengetahuan umum, ramipril ialah perencat ACE yang mengurangkan pembentukan angiotensin II. Angiotensin II menyebabkan penyempitan saluran darah dan pembentukan semula (remodelling) vaskular, jadi perencatan ACE secara teori boleh mengurangkan vasokonstriksi paru-paru dan remodelling saluran darah paru-paru.
 
 Satu kajian praklinikal pada tikus (PMID 9200213, 1996) melaporkan bahawa pentadbiran ramipril semasa pendedahan kepada hipoksia kronik menghasilkan tekanan perfusi asas yang lebih rendah dalam paru-paru terpencil, dan perencatan ACE melemahkan kesan hipoksia kronik terhadap saluran darah paru-paru. Ini selari secara biologi dengan indikasi yang diramalkan. Namun, kajian lain yang diperoleh meliputi remodelling jantung, mikrovaskular buah pinggang dan topik lain, dan hanya memberi sokongan tidak langsung.
 
@@ -116,6 +116,19 @@ Skor ramalan model adalah tinggi, tetapi bukti hanya terdiri daripada kajian hai
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Kajian praklinikal tambahan yang disahkan, dan kajian klinikal awal pada manusia
 - Penilaian keselamatan untuk populasi sasaran (contohnya pesakit dengan penyakit paru-paru dan risiko hipotensi atau hiperkalemia)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

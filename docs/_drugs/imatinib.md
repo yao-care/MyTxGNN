@@ -55,7 +55,7 @@ Imatinib ialah perencat tirosin kinase. Menurut literatur yang dikumpulkan, ia m
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan. Imatinib diketahui menghalang kinase ABL, KIT dan PDGFR. Khasiatnya dalam penyakit yang didorong oleh kinase tersebut telah dibuktikan, tetapi ini tidak bermakna ia berkesan untuk fibrosarkoma jantung.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Imatinib (terjemahan tidak rasmi): “Imatinib mesylate ialah perencat kinase tirosina protein yang merencat kinase tirosina BCR-ABL, iaitu kinase tirosina abnormal konstitutif yang terhasil akibat keabnormalan kromosom Philadelphia dalam CML. Imatinib merencat proliferasi dan mengaruh apoptosis dalam titisan sel positif BCR-ABL serta sel leukemia segar daripada leukemia mieloid kronik positif kromosom Philadelphia.” Teks asal bahasa Inggeris: "Imatinib mesylate is a protein-tyrosine kinase inhibitor that inhibits the BCR-ABL tyrosine kinase, the constitutive abnormal tyrosine kinase created by the Philadelphia chromosome abnormality in CML. Imatinib inhibits proliferation and induces apoptosis in BCR-ABL positive cell lines as well as fresh leukemic cells from Philadelphia chromosome positive chronic myeloid leukemia." ([DailyMed: Gleevec (imatinib mesylate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=211ef2da-2868-4a77-8055-1cb2cd78e24b), versi 2026-07-13; diakses 2026-11-19). Imatinib diketahui menghalang kinase ABL, KIT dan PDGFR. Khasiatnya dalam penyakit yang didorong oleh kinase tersebut telah dibuktikan, tetapi ini tidak bermakna ia berkesan untuk fibrosarkoma jantung.
 
 Tumor jenis fibrosarkoma mungkin didorong oleh PDGFB, seperti dalam dermatofibrosarkoma protuberans (DFSP). Dalam kes itu, penghalangan isyarat PDGFR oleh imatinib boleh memberi kesan. Namun, tiada data khusus tumor untuk tumor primer jantung. Kaitan ini hanyalah ramalan model TxGNN dan belum disokong oleh kajian langsung.
 
@@ -111,6 +111,19 @@ Tiada percubaan klinikal atau kajian yang mengkaji fibrosarkoma jantung secara l
 - Data profil molekul tumor (contohnya fusi COL1A1-PDGFB atau pengaktifan PDGFR/KIT) untuk menentukan sama ada mekanisme imatinib relevan.
 - Teks sisipan pek NPRA (amaran, kontraindikasi dan indikasi diluluskan).
 - Data mekanisme tindakan terperinci daripada pangkalan data ubat.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Gleevec (imatinib mesylate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=211ef2da-2868-4a77-8055-1cb2cd78e24b) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -56,7 +56,7 @@ tetapi data yang dikumpulkan untuk laporan ini **tidak mempunyai sebarang ujian 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, cetuximab menyasarkan EGFR, dan sasaran ini ialah asas penggunaannya dalam beberapa jenis kanser berasaskan sel epitelium.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Cetuximab (terjemahan tidak rasmi): “Reseptor faktor pertumbuhan epidermis (EGFR, HER1, c-ErbB-1) ialah glikoprotein transmembran yang merupakan ahli subfamili tirosina kinase reseptor jenis I termasuk EGFR, HER2, HER3 dan HER4. EGFR diekspresikan secara konstitutif dalam banyak tisu epitelium normal, termasuk kulit dan folikel rambut. […] Cetuximab terikat secara khusus pada EGFR pada kedua-dua sel normal dan sel tumor, dan merencat secara kompetitif pengikatan faktor pertumbuhan epidermis (EGF) dan ligan lain, seperti faktor pertumbuhan transformasi-alfa.” Teks asal bahasa Inggeris: "The epidermal growth factor receptor (EGFR, HER1, c-ErbB-1) is a transmembrane glycoprotein that is a member of a subfamily of type I receptor tyrosine kinases including EGFR, HER2, HER3, and HER4. The EGFR is constitutively expressed in many normal epithelial tissues, including the skin and hair follicle. […] Cetuximab binds specifically to the EGFR on both normal and tumor cells, and competitively inhibits the binding of epidermal growth factor (EGF) and other ligands, such as transforming growth factor-alpha." ([DailyMed: Erbitux (cetuximab) prescribing information, ImClone LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9), versi 2026-04-16; diakses 2026-11-19). Berdasarkan maklumat sedia ada, cetuximab menyasarkan EGFR, dan sasaran ini ialah asas penggunaannya dalam beberapa jenis kanser berasaskan sel epitelium.
 
 Namun, hamartoma kondroid ialah lesi benigna. Tiada ujian klinikal, penerbitan atau data mekanisme dalam data yang dikumpulkan yang menunjukkan bahawa lesi ini bergantung pada isyarat EGFR. Hubungan mekanisme langsung tidak dapat dikenal pasti, dan skor yang tinggi (0,9995) hanyalah ramalan berasaskan model, bukan bukti biologi atau klinikal.
 
@@ -95,6 +95,19 @@ Tiada ujian klinikal atau penerbitan yang mengkaji hamartoma kondroid secara lan
 - Kajian praklinikal atau laporan kes yang menyokong penggunaan ini
 - Amaran, kontraindikasi dan maklumat keselamatan daripada risalah pek NPRA
 - Penilaian nisbah risiko-faedah, kerana lesi ini benigna sedangkan cetuximab mempunyai toksisiti ketara (contohnya reaksi kulit dan reaksi infusi)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Erbitux (cetuximab) prescribing information, ImClone LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

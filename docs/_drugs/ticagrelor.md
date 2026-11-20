@@ -60,7 +60,7 @@ Setakat ini terdapat **2 percubaan klinikal** dan **2 penerbitan** yang berkaita
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Ticagrelor ialah perencat reseptor P2Y12 platelet yang bersifat boleh balik dan tidak bergantung pada pengaktifan CYP2C19. Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dihimpunkan, tetapi mekanisme farmakologi yang diketahui sudah memadai untuk menjelaskan kaitannya.
+Ticagrelor ialah perencat reseptor P2Y12 platelet yang bersifat boleh balik dan tidak bergantung pada pengaktifan CYP2C19. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ticagrelor (terjemahan tidak rasmi): “Ticagrelor dan metabolit utamanya berinteraksi secara berbalik dengan reseptor ADP P2Y 12 platelet untuk menghalang transduksi isyarat dan pengaktifan platelet. Ticagrelor dan metabolit aktifnya mempunyai potensi yang lebih kurang setara.” Teks asal bahasa Inggeris: "Ticagrelor and its major metabolite reversibly interact with the platelet P2Y 12 ADP-receptor to prevent signal transduction and platelet activation. Ticagrelor and its active metabolite are approximately equipotent." ([DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8), versi 2026-05-07; diakses 2026-11-19).
 
 Dalam stenosis aterosklerotik intrakranial, trombosis yang didorong platelet pada plak dan embolisme arteri-ke-arteri merupakan punca utama strok. Mekanisme ini serupa dengan penyakit koronari dan vaskular periferal, iaitu indikasi asal ticagrelor. Penghalang platelet berpotensi mengurangkan risiko strok iskemia pada pesakit ini.
 
@@ -111,6 +111,19 @@ Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila ruju
 - Amaran dan kontraindikasi daripada sisipan pakej, yang perlu dimuat turun daripada laman web NPRA.
 - Penilaian risiko pendarahan, terutamanya dengan terapi aspirin serentak, serta strategi pemilihan pesakit mengikut indikasi dan genotip.
 - Pertimbangan laluan kawal selia kerana ubat ini belum didaftarkan di Malaysia.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

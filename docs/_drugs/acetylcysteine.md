@@ -54,7 +54,7 @@ Acetylcysteine ialah agen mukolitik dan antioksidan yang telah lama digunakan da
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan. Namun, berdasarkan maklumat sedia ada, acetylcysteine ialah sebatian tiol yang boleh memutuskan ikatan disulfida dalam multimer faktor von Willebrand (VWF) yang sangat besar. Ini mengurangkan lekatan platelet yang dimangkinkan oleh VWF dan pembentukan mikrotrombus.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Acetylcysteine (terjemahan tidak rasmi): “Acetylcysteine telah terbukti mengurangkan tahap kecederaan hati selepas dos berlebihan acetaminophen. Dos acetaminophen sebanyak 150 mg/kg atau lebih telah dikaitkan dengan hepatotoksisiti. Acetylcysteine berkemungkinan melindungi hati dengan mengekalkan atau memulihkan paras glutation, atau dengan bertindak sebagai substrat alternatif untuk konjugasi dengan, dan seterusnya penyahtoksikan, metabolit reaktif acetaminophen.” Teks asal bahasa Inggeris: "Acetylcysteine has been shown to reduce the extent of liver injury following acetaminophen overdose. Acetaminophen doses of 150 mg/kg or greater have been associated with hepatotoxicity. Acetylcysteine probably protects the liver by maintaining or restoring the glutathione levels, or by acting as an alternate substrate for conjugation with, and thus detoxification of, the reactive metabolite of acetaminophen." ([DailyMed: Acetadote (acetylcysteine) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=472f158a-5ab9-4308-8e49-1116e6ea3d39), versi 2025-04-30; diakses 2026-11-19). Namun, berdasarkan maklumat sedia ada, acetylcysteine ialah sebatian tiol yang boleh memutuskan ikatan disulfida dalam multimer faktor von Willebrand (VWF) yang sangat besar. Ini mengurangkan lekatan platelet yang dimangkinkan oleh VWF dan pembentukan mikrotrombus.
 
 Selain itu, aktiviti antioksidannya mungkin mengurangkan kecederaan endotelium dan pengaktifan platelet. Ini berkait secara munasabah dengan mikroangiopati trombotik seperti purpura trombositopenik trombotik (TTP) dan TMA berkaitan pemindahan. Model praklinikal tikus dan babun TTP menyokong mekanisme ini, dan satu kajian lain melaporkan kesan trombolitik pada trombus arteri.
 
@@ -121,6 +121,19 @@ Terdapat satu percubaan Fasa 3 yang telah selesai dalam TA-TMA serta RCT profila
 - Amaran dan kontraindikasi daripada risalah maklumat produk NPRA
 - Menentukan subjenis penyakit trombotik sasaran, dos dan laluan pemberian (oral berbanding intravena) yang sesuai
 - Pelan pemantauan keselamatan untuk populasi khusus dan interaksi ubat
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Acetadote (acetylcysteine) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=472f158a-5ab9-4308-8e49-1116e6ea3d39) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

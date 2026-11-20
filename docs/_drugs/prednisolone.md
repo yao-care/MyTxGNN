@@ -55,7 +55,7 @@ Prednisolone ialah kortikosteroid sistemik yang digunakan untuk pelbagai keadaan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Namun, prednisolone ialah glukokortikoid dengan aktiviti anti-radang dan imunosupresif yang luas, termasuk menekan pengaktifan sel T dan sitokin pro-radang.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Prednisolone (terjemahan tidak rasmi): “Prednisolone ialah ubat steroid adrenokorteks sintetik dengan sifat glukokortikoid yang dominan. Sebahagian daripada sifat ini menghasilkan semula tindakan fisiologi glukokortikosteroid endogen, tetapi yang lain tidak semestinya mencerminkan mana-mana fungsi normal hormon adrenal; sifat tersebut hanya dilihat selepas pemberian dos terapeutik ubat yang besar.” Teks asal bahasa Inggeris: "Prednisolone is a synthetic adrenocortical steroid drug with predominantly glucocorticoid properties. Some of these properties reproduce the physiological actions of endogenous glucocorticosteroids, but others do not necessarily reflect any of the adrenal hormones' normal functions; they are seen only after administration of large therapeutic doses of the drug." ([DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1), versi 2025-06-03; diakses 2026-11-19). Namun, prednisolone ialah glukokortikoid dengan aktiviti anti-radang dan imunosupresif yang luas, termasuk menekan pengaktifan sel T dan sitokin pro-radang.
 
 Alopesia areata ialah penyakit autoimun yang diperantarai sel T: sel T CD8+ sitotoksik menyerang folikel rambut yang kehilangan keistimewaan imunnya. Keadaan ini selari dengan penggunaan prednisolone dalam penyakit autoimun lain yang direkodkan dalam graf pengetahuan. Mekanisme ini munasabah secara biologi.
 
@@ -121,6 +121,19 @@ Terdapat RCT terkawal plasebo dan kajian semula sistematik yang terus mengkaji a
 - Penjelasan bentuk dos dan indikasi diluluskan bagi produk tempatan.
 
 **Nota mengenai indikasi lain yang diramalkan:** Calon lain (alopesia mucinosa, telogen effluvium, folikulitis dekalvans Quinquaud, dan lain-lain) mempunyai bukti sangat terhad atau tiada, dan semuanya disyorkan **Hold** pada peringkat ini.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

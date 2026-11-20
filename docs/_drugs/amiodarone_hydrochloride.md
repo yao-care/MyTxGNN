@@ -61,7 +61,7 @@ Setakat ini terdapat **0 ujian klinikal** dan **9 penerbitan** yang berkaitan de
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara farmakologi yang diketahui umum, amiodarone ialah antiaritmia pelbagai saluran. Ia menyekat saluran K⁺, Na⁺ dan Ca²⁺ serta mempunyai kesan sekatan beta-adrenergik. Oleh itu, secara teori ia boleh menekan aritmia ventrikel yang dicetuskan oleh rangsangan adrenergik.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Amiodarone Hydrochloride (terjemahan tidak rasmi): “Amiodarone dianggap sebagai ubat antiaritmia kelas III, tetapi ia mempunyai ciri elektrofisiologi bagi keempat-empat kelas Vaughan Williams. Seperti ubat kelas I, amiodarone menyekat saluran natrium pada frekuensi rentak pantas, dan seperti ubat kelas II, amiodarone memberikan tindakan antisimpatetik bukan kompetitif.” Teks asal bahasa Inggeris: "Amiodarone is considered a class III antiarrhythmic drug, but it possesses electrophysiologic characteristics of all four Vaughan Williams classes. Like class I drugs, amiodarone blocks sodium channels at rapid pacing frequencies, and like class II drugs, amiodarone exerts a noncompetitive antisympathetic action." ([DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3), versi 2025-11-05; diakses 2026-11-19). Secara farmakologi yang diketahui umum, amiodarone ialah antiaritmia pelbagai saluran. Ia menyekat saluran K⁺, Na⁺ dan Ca²⁺ serta mempunyai kesan sekatan beta-adrenergik. Oleh itu, secara teori ia boleh menekan aritmia ventrikel yang dicetuskan oleh rangsangan adrenergik.
 
 CPVT ialah gangguan aritmia diwarisi yang jarang berlaku. Aritmia ventrikel dicetuskan oleh senaman atau tekanan simpatetik. Puncanya ialah kebocoran Ca²⁺ diastolik berkaitan RYR2/CASQ2 dan pasca-depolarisasi lewat. Terapi yang mantap ialah penyekat beta dan flecainide, yang bertindak sebahagiannya pada RyR2. Tiada bukti dalam data ini bahawa amiodarone membetulkan kecacatan teras tersebut.
 
@@ -116,6 +116,19 @@ Sila rujuk risalah pakej untuk maklumat keselamatan.
 - Data mekanisme tindakan terperinci untuk menganalisis pautan mekanistik.
 - Maklumat amaran dan kontraindikasi daripada risalah pakej yang diluluskan, bagi membolehkan saringan keselamatan.
 - Pertimbangan ujian klinikal atau data pemerhatian yang membandingkan amiodarone dengan terapi sedia ada dalam CPVT.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

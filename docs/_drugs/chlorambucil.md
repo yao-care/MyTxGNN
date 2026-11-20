@@ -59,7 +59,7 @@ Chlorambucil ialah agen pengalkil sitotoksik. Skor ini datang daripada model TxG
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Chlorambucil tergolong dalam kelas agen pengalkil, yang merosakkan DNA sel yang membahagi. Kesan ini berkaitan dengan penyakit limfoid yang telah direkodkan dalam graf pengetahuan, dan secara mekanistik mungkin terpakai pada subjenis leukemia limfositik kronik ini.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Chlorambucil (terjemahan tidak rasmi): “Chlorambucil, derivatif mustard nitrogen aromatik, ialah agen pengalkilan. Chlorambucil mengganggu replikasi DNA dan mengaruh apoptosis selular melalui pengumpulan p53 sitosolik dan pengaktifan seterusnya Bax, iaitu penggalak apoptosis.” Teks asal bahasa Inggeris: "Chlorambucil, an aromatic nitrogen mustard derivative, is an alkylating agent. Chlorambucil interferes with DNA replication and induces cellular apoptosis via the accumulation of cytosolic p53 and subsequent activation of Bax, an apoptosis promoter." ([DailyMed: Leukeran (chlorambucil) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58a3c995-5ad6-465d-8437-5970c9088213), versi 2025-01-08; diakses 2026-11-19). Chlorambucil tergolong dalam kelas agen pengalkil, yang merosakkan DNA sel yang membahagi. Kesan ini berkaitan dengan penyakit limfoid yang telah direkodkan dalam graf pengetahuan, dan secara mekanistik mungkin terpakai pada subjenis leukemia limfositik kronik ini.
 
 Ia belum tentu menunjukkan bukti baharu untuk subjenis ini. Satu-satunya item sokongan ialah ulasan 2003 mengenai pendekatan rawatan berasaskan risiko. Ulasan itu membincangkan penyakit ini tetapi tidak menilai chlorambucil. Tiada data ujian khusus subjenis ini.
 
@@ -129,6 +129,19 @@ Amaran dan kontraindikasi daripada label tempatan tidak tersedia. Sila rujuk sis
 - Kajian atau ujian khusus yang menilai chlorambucil dalam subjenis CLL/SLL ini.
 - Pelan pemantauan keselamatan hematologi untuk populasi sasaran.
 - Calon lain dalam senarai, seperti limfoma pulmonari primer (bukti L3), mempunyai bukti klinikal yang lebih banyak dan boleh dinilai secara berasingan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Leukeran (chlorambucil) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58a3c995-5ad6-465d-8437-5970c9088213) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -60,7 +60,7 @@ Ramalan ini datang daripada model TxGNN (pembelajaran mendalam) sahaja dan mungk
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk ubat ini tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Fluphenazine dikenali sebagai antagonis reseptor dopamin D2 daripada kumpulan fenotiazin. Keberkesanannya dalam skizofrenia dan psikosis sudah mantap.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Fluphenazine (terjemahan tidak rasmi): “Fluphenazine hidroklorida mempunyai aktiviti pada semua peringkat sistem saraf pusat serta pada pelbagai sistem organ. Mekanisme yang melaluinya tindakan terapeutiknya dihasilkan tidak diketahui.” Teks asal bahasa Inggeris: "Fluphenazine hydrochloride has activity at all levels of the central nervous system as well as on multiple organ systems. The mechanism whereby its therapeutic action is exerted is unknown." ([DailyMed: Fluphenazine Hydrochoride (fluphenazine hydrochloride) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91b85b8d-4c10-4395-915e-272b81ef3b12), versi 2026-07-03; diakses 2026-11-19). Fluphenazine dikenali sebagai antagonis reseptor dopamin D2 daripada kumpulan fenotiazin. Keberkesanannya dalam skizofrenia dan psikosis sudah mantap.
 
 Namun, **tiada kaitan mekanistik yang munasabah** dapat dibuktikan antara antagonisme D2 dengan degenerasi retina yang diwarisi. Skor TxGNN yang tinggi (0.9999) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Ia tidak disokong oleh bukti farmakologi atau klinikal dalam data yang ada. Ramalan ini perlu dianggap sebagai hipotesis yang amat awal dan boleh jadi artifak model.
 
@@ -118,11 +118,12 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi ini.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar atau dipasarkan di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Fluphenazine Hydrochoride (fluphenazine hydrochloride) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91b85b8d-4c10-4395-915e-272b81ef3b12) |
 
 <!-- review:end log -->
 

@@ -57,7 +57,7 @@ tetapi setakat ini **tiada ujian klinikal berdaftar** dan hanya **9 penerbitan**
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, beclomethasone dipropionate ialah glukokortikoid dengan aktiviti antiradang dan imunosupresif yang luas, iaitu penekanan sitokin dan sel keradangan melalui reseptor glukokortikoid. Penerangan ini disimpulkan daripada kelas ubat, bukan daripada data khusus ubat yang disahkan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Beclomethasone Dipropionate (terjemahan tidak rasmi): “Beclomethasone dipropionate ialah prodrug yang ditukarkan secara meluas kepada metabolit aktif, beclomethasone-17-monopropionate. Mekanisme tepat yang melaluinya beclomethasone dipropionate mempengaruhi gejala rinitis tidak diketahui.” Teks asal bahasa Inggeris: "Beclomethasone dipropionate is a prodrug that is extensively converted to the active metabolite, beclomethasone-17-monopropionate. The precise mechanism through which beclomethasone dipropionate affects rhinitis symptoms is unknown." ([DailyMed: Qnasl (beclomethasone dipropionate) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b8d8e84-b5d2-4e56-97ec-4f72971465c5), versi 2020-02-29; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, beclomethasone dipropionate ialah glukokortikoid dengan aktiviti antiradang dan imunosupresif yang luas, iaitu penekanan sitokin dan sel keradangan melalui reseptor glukokortikoid. Penerangan ini disimpulkan daripada kelas ubat, bukan daripada data khusus ubat yang disahkan.
 
 Ekzema atopik ialah penyakit keradangan kulit yang condong kepada Th2, dan kortikosteroid topikal ialah rawatan piawai. Indikasi asal (asma alergi, rinitis alergi) juga berkongsi latar belakang atopik/Th2 yang sama, maka kesesuaian mekanistik adalah kukuh dan skor tinggi TxGNN kelihatan munasabah.
 
@@ -121,6 +121,19 @@ Kesesuaian mekanistik adalah kukuh dan skor TxGNN tinggi, tetapi tiada ujian kli
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Pengesahan formulasi topikal dan laluan pentadbiran yang sesuai untuk pasaran Malaysia
 - Pelan pemantauan keselamatan (pertumbuhan dan fungsi adrenal), terutamanya pada kanak-kanak
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Qnasl (beclomethasone dipropionate) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b8d8e84-b5d2-4e56-97ec-4f72971465c5) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

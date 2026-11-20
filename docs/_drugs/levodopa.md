@@ -57,7 +57,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia buat masa ini. Levodopa diketahui sebagai prekursor dopamin yang membetulkan kekurangan dopamin striatum dalam parkinsonisme.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Levodopa (terjemahan tidak rasmi): “Levodopa, prekursor metabolik dopamina, merentasi sawar darah-otak dan dianggap ditukarkan kepada dopamina di dalam otak. Ini dipercayai merupakan mekanisme yang membolehkan levodopa melegakan simptom penyakit Parkinson.” Teks asal bahasa Inggeris: "Levodopa, the metabolic precursor of dopamine, crosses the blood-brain barrier and presumably is converted to dopamine in the brain. This is thought to be the mechanism whereby levodopa relieves symptoms of Parkinson's disease." ([DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb), versi 2026-07-20; diakses 2026-11-19). Levodopa diketahui sebagai prekursor dopamin yang membetulkan kekurangan dopamin striatum dalam parkinsonisme.
 
 Ensefalitis Rasmussen ialah proses keradangan unilateral bermediasikan imun (sitotoksik sel T) yang menyebabkan atrofi hemisfera yang progresif, sawan fokal yang sukar dikawal (termasuk *epilepsia partialis continua*) dan hemiparesis. Hubungan yang mungkin ialah pertindihan fenotip, iaitu ciri neurologi seperti hemiatrofi, defisit motor unilateral dan penglibatan ganglia basal, yang mungkin dikaitkan oleh graf pengetahuan dengan sindrom hemiparkinsonisme-hemiatrofi, salah satu hubungan indikasi levodopa yang direkodkan dalam graf pengetahuan.
 
@@ -116,11 +116,12 @@ Ramalan ini hanya disokong oleh skor model yang tinggi, tanpa sebarang percubaan
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Daripada 15 pendaftaran, 14 sah dan 1 tidak lagi tersenarai dalam daftar semasa NPRA; kesemuanya kombinasi” | Dibetulkan (disemak 2026-11-19; versi terdahulu disimpan dalam rekod) | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb) |
 
 <!-- review:end log -->
 

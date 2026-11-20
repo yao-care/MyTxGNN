@@ -60,7 +60,7 @@ tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong rama
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, octreotide ialah analog somatostatin yang secara amnya bertindak pada reseptor somatostatin (SSTR2/SSTR5) untuk merencat rembesan hormon seperti hormon pertumbuhan (GH). Keberkesanannya dalam akromegali dan sindrom karsinoid telah diketahui, tetapi hubungan mekanistik dengan indikasi baharu tidak dapat dinilai.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Octreotide (terjemahan tidak rasmi): “Sandostatin Suntikan memberikan tindakan farmakologi yang serupa dengan hormon semula jadi, somatostatin. Ia merupakan perencat GH, glukagon dan insulin yang lebih poten daripada somatostatin. […] Berdasarkan tindakan farmakologi ini, oktreotida telah digunakan untuk merawat simptom yang berkaitan dengan tumor karsinoid metastatik (kemerahan muka dan cirit-birit), dan adenoma yang merembeskan VIP (cirit-birit berair).” Teks asal bahasa Inggeris: "Sandostatin Injection exerts pharmacologic actions similar to the natural hormone, somatostatin. It is an even more potent inhibitor of GH, glucagon, and insulin than somatostatin. […] By virtue of these pharmacological actions, octreotide has been used to treat the symptoms associated with metastatic carcinoid tumors (flushing and diarrhea), and VIP secreting adenomas (watery diarrhea)." ([DailyMed: Sandostatin (octreotide acetate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e2c9856-1836-49f0-9472-4dbeeb408f39), versi 2026-07-22; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, octreotide ialah analog somatostatin yang secara amnya bertindak pada reseptor somatostatin (SSTR2/SSTR5) untuk merencat rembesan hormon seperti hormon pertumbuhan (GH). Keberkesanannya dalam akromegali dan sindrom karsinoid telah diketahui, tetapi hubungan mekanistik dengan indikasi baharu tidak dapat dinilai.
 
 Hubungan ini hanya berasaskan skor ramalan tinggi (0.9958) daripada model TxGNN (pembelajaran mendalam), dan skor ini boleh mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Data yang dikumpulkan tidak menyokong sebarang laluan biologi yang menghubungkan octreotide dengan lesi epitelium jinak ini. Ekspresi reseptor somatostatin pada keratinosit atau epitelium folikular hanyalah andaian dan belum disahkan.
 
@@ -124,11 +124,12 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej produk.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Sandostatin (octreotide acetate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e2c9856-1836-49f0-9472-4dbeeb408f39) |
 
 <!-- review:end log -->
 

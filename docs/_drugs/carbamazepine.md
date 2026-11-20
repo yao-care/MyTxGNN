@@ -56,7 +56,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma saraf trigeminal**,
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan pengetahuan am, carbamazepine menyekat saluran natrium bergantung voltan dan mengurangkan nyahcas saraf ektopik. Ia merupakan rawatan mantap untuk neuralgia trigeminal.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Carbamazepine (terjemahan tidak rasmi): “Tegretol telah menunjukkan sifat antikonvulsan pada tikus dan mencit dengan sawan yang diaruhkan secara elektrik dan kimia. Ia kelihatan bertindak dengan mengurangkan respons polisinaptik dan menyekat potensiasi pasca-tetanik. […] Metabolit utama Tegretol, carbamazepine-10,11-epoxide, mempunyai aktiviti antikonvulsan seperti yang ditunjukkan dalam beberapa model haiwan in vivo bagi sawan.” Teks asal bahasa Inggeris: "Tegretol has demonstrated anticonvulsant properties in rats and mice with electrically and chemically induced seizures. It appears to act by reducing polysynaptic responses and blocking the post-tetanic potentiation. […] The principal metabolite of Tegretol, carbamazepine-10,11-epoxide, has anticonvulsant activity as demonstrated in several in vivo animal models of seizures." ([DailyMed: Tegretol (carbamazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d409411-aa9f-4f3a-a52c-fbcb0c3ec053), versi 2026-08-20; diakses 2026-11-19). Berdasarkan pengetahuan am, carbamazepine menyekat saluran natrium bergantung voltan dan mengurangkan nyahcas saraf ektopik. Ia merupakan rawatan mantap untuk neuralgia trigeminal.
 
 Tumor pada saraf trigeminal boleh menyebabkan neuralgia trigeminal sekunder melalui mampatan atau infiltrasi saraf. Dalam keadaan ini, carbamazepine mungkin melegakan simptom sakit. Tiada bukti bahawa ia bertindak ke atas tumor itu sendiri (kesan antineoplastik).
 
@@ -116,6 +116,19 @@ Tiada percubaan klinikal dan tiada kajian yang secara langsung mengkaji carbamaz
 - Data mekanisme tindakan (MOA) daripada DrugBank
 - Kajian klinikal yang menilai carbamazepine untuk kesakitan neuropatik sekunder akibat tumor saraf trigeminal
 - Pelan pemantauan keselamatan (kiraan darah, natrium, fungsi hati, interaksi ubat)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Tegretol (carbamazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d409411-aa9f-4f3a-a52c-fbcb0c3ec053) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

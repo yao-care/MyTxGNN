@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, vildagliptin ialah perencat DPP-4 yang meningkatkan paras incretin (GLP-1, GIP) dan menambah baik rembesan insulin serta menekan glukagon dalam diabetes jenis 2. Data farmakologi yang dikumpulkan turut menunjukkan sasarannya termasuk DPP4, DPP8, DPP9 dan TRPV4.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Vildagliptin ialah (terjemahan tidak rasmi): “Perencat dipeptidil peptidase IV” Teks asal bahasa Inggeris: "Dipeptidyl peptidase IV inhibitor" ([ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, vildagliptin ialah perencat DPP-4 yang meningkatkan paras incretin (GLP-1, GIP) dan menambah baik rembesan insulin serta menekan glukagon dalam diabetes jenis 2. Data farmakologi yang dikumpulkan turut menunjukkan sasarannya termasuk DPP4, DPP8, DPP9 dan TRPV4.
 
 Sindrom orang kaku ialah gangguan autoimun yang melibatkan neurotransmisi GABAergik (biasanya antibodi anti-GAD65). Tiada hubungan mekanistik disokong oleh data yang dikumpulkan. Satu-satunya kaitan yang boleh dibayangkan ialah pertindihan dengan autoimuniti GAD65 dalam diabetes autoimun, tetapi ini bersifat spekulatif dan tidak dibuktikan. Skor yang tinggi (0.9988) ialah ramalan model sahaja.
 
@@ -102,6 +102,19 @@ Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau p
 - Teks indikasi yang diluluskan bagi lesen tempatan
 - Bukti praklinikal atau klinikal yang mengkaji secara langsung kaitan perencatan DPP-4 dengan sindrom orang kaku
 - Penilaian semula sama ada skor ramalan ini, yang datang daripada model TxGNN (pembelajaran mendalam), hanya mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -60,7 +60,7 @@ namun kini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang menyokong
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) asal tidak tersedia. Berdasarkan maklumat yang diketahui, ranolazine ialah perencat arus natrium lewat (INaL) dengan kesan tambahan ke atas pengoksidaan separa asid lemak dan beberapa saluran ion (contohnya hERG/IKr).
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ranolazine (terjemahan tidak rasmi): “Mekanisme tindakan bagi kesan antiangina ranolazine belum dapat ditentukan. Ranolazine mempunyai kesan anti-iskemia dan antiangina yang tidak bergantung kepada pengurangan kadar denyutan jantung atau tekanan darah. Ia tidak menjejaskan hasil darab kadar-tekanan, iaitu ukuran kerja miokardium, pada senaman maksimum.” Teks asal bahasa Inggeris: "The mechanism of action of ranolazine's antianginal effects has not been determined. Ranolazine has anti-ischemic and antianginal effects that do not depend upon reductions in heart rate or blood pressure. It does not affect the rate-pressure product, a measure of myocardial work, at maximal exercise." ([DailyMed: Aspruzyo Sprinkle (ranolazine) prescribing information, SUN PHARMACEUTICAL INDUSTRIES, INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd9f81e4-50da-4551-aed5-559d304df42e), versi 2025-01-29; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, ranolazine ialah perencat arus natrium lewat (INaL) dengan kesan tambahan ke atas pengoksidaan separa asid lemak dan beberapa saluran ion (contohnya hERG/IKr).
 
 NSIAD disebabkan oleh mutasi gain-of-function pada gen reseptor vasopressin V2 (AVPR2), yang menyebabkan penyerapan semula air yang tidak wajar di duktus pengumpul tanpa bergantung pada vasopressin. Tiada satu pun tindakan ranolazine yang diketahui bertindak ke atas isyarat reseptor V2 atau pengangkutan akuaporin-2.
 
@@ -108,6 +108,19 @@ Untuk maklumat amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 - Kajian praklinikal untuk menilai sebarang kesan ke atas isyarat V2/cAMP atau pengangkutan akuaporin-2
 - Semakan literatur menyeluruh dan penilaian kebolehlaksanaan klinikal bagi penyakit yang sangat jarang berlaku ini
 - Penilaian keserasian laluan pemberian dan status pendaftaran tempatan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Aspruzyo Sprinkle (ranolazine) prescribing information, SUN PHARMACEUTICAL INDUSTRIES, INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd9f81e4-50da-4551-aed5-559d304df42e) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

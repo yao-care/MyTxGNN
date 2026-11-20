@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan pelepasan primer pla
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat yang diketahui, CERA ialah agen perangsang eritropoiesis (ESA) yang bertindak pada reseptor eritropoietin di sel progenitor eritroid untuk merangsang pengeluaran sel darah merah.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Methoxy Polyethylene Glycol-Epoetin Beta (terjemahan tidak rasmi): “Mircera ialah pengaktif reseptor eritropoietin dengan aktiviti in vivo yang lebih tinggi serta separuh hayat yang lebih panjang, berbanding eritropoietin. Sebagai faktor pertumbuhan utama bagi perkembangan eritroid, eritropoietin dihasilkan di dalam ginjal dan dilepaskan ke dalam aliran darah sebagai tindak balas terhadap hipoksia.” Teks asal bahasa Inggeris: "Mircera is an erythropoietin receptor activator with greater activity in vivo as well as increased half-life, in contrast to erythropoietin. A primary growth factor for erythroid development, erythropoietin is produced in the kidney and released into the bloodstream in response to hypoxia." ([DailyMed: Mircera (methoxy polyethylene glycol-epoetin beta) prescribing information, Vifor (International) Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=22c56f2a-f73c-60e7-e054-00144ff88e88), versi 2026-08-14; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, CERA ialah agen perangsang eritropoiesis (ESA) yang bertindak pada reseptor eritropoietin di sel progenitor eritroid untuk merangsang pengeluaran sel darah merah.
 
 **Tiada hubungan mekanistik yang jelas** antara tindakan ini dengan gangguan pelepasan primer platelet, iaitu kecacatan kualitatif fungsi platelet. Sebarang kaitan hanyalah spekulatif (contohnya kesan tidak langsung eritropoiesis terhadap interaksi platelet dengan dinding salur darah). Skor yang tinggi (0.9936) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Selain itu, ESA dikaitkan dengan risiko trombosis, yang tidak sejajar dengan keadaan ini.
 
@@ -79,7 +79,6 @@ Semua ramalan lain juga berada pada tahap bukti L5 dan berstatus Hold:
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -105,6 +104,19 @@ Berdasarkan penilaian mekanistik dalam data yang dikumpulkan, perkara berikut pe
 - Data mekanisme tindakan (MOA) yang terperinci daripada DrugBank
 - Data indikasi asal dan status pendaftaran di Malaysia
 - Bukti praklinikal atau klinikal yang menyokong sebarang hubungan mekanistik dengan indikasi yang diramalkan sebelum penilaian lanjut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Mircera (methoxy polyethylene glycol-epoetin beta) prescribing information, Vifor (International) Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=22c56f2a-f73c-60e7-e054-00144ff88e88) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

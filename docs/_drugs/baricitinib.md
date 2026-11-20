@@ -54,7 +54,7 @@ Baricitinib ialah ubat perencat JAK yang telah berdaftar di Malaysia. Model TxGN
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia pada masa ini. Baricitinib diketahui sebagai perencat JAK1/JAK2, tetapi data yang dikumpulkan untuk laporan ini tidak mendokumenkan sebarang kaitan antara isyarat JAK-STAT dengan sindrom perkembangan yang jarang berlaku ini (mikroftalmia dengan kolobuma dan displasia rangka rizomelik).
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Baricitinib (terjemahan tidak rasmi): “Baricitinib ialah perencat Janus kinase (JAK). JAK ialah enzim intrasel yang menghantar isyarat yang timbul daripada interaksi sitokin atau reseptor faktor pertumbuhan pada membran sel untuk mempengaruhi proses selular hematopoiesis dan fungsi sel imun.” Teks asal bahasa Inggeris: "Baricitinib is a Janus kinase (JAK) inhibitor. JAKs are intracellular enzymes which transmit signals arising from cytokine or growth factor-receptor interactions on the cellular membrane to influence cellular processes of hematopoiesis and immune cell function." ([DailyMed: Olumiant (baricitinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf), versi 2026-10-09; diakses 2026-11-19). Baricitinib diketahui sebagai perencat JAK1/JAK2, tetapi data yang dikumpulkan untuk laporan ini tidak mendokumenkan sebarang kaitan antara isyarat JAK-STAT dengan sindrom perkembangan yang jarang berlaku ini (mikroftalmia dengan kolobuma dan displasia rangka rizomelik).
 
 Satu-satunya sokongan ialah skor ramalan TxGNN yang sangat tinggi (0,9994). Skor ini ialah hasil pengiraan model dan bukan bukti klinikal atau eksperimen. Sebarang kaitan mekanistik pada peringkat ini adalah spekulatif dan perlu disahkan secara bebas, misalnya dengan menyemak asas genetik sindrom ini dan sama ada ia melibatkan isyarat sitokin atau JAK-STAT.
 
@@ -92,6 +92,19 @@ Ramalan ini hanya disokong oleh skor model (0,9994) tanpa sebarang ujian klinika
 - Kajian asas genetik dan patofisiologi sindrom ini untuk menilai kaitan dengan laluan JAK-STAT
 - Data pra-klinikal atau laporan kes yang mengkaji baricitinib dalam penyakit ini
 - Amaran dan kontraindikasi daripada sisipan pek NPRA untuk saringan keselamatan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Olumiant (baricitinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

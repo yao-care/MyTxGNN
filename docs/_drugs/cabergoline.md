@@ -54,7 +54,7 @@ Cabergoline ialah agonis reseptor dopamin D2. Model TxGNN meramalkan ubat ini mu
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Penerangan terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan. Cabergoline diketahui bertindak sebagai agonis reseptor dopamin D2.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Cabergoline (terjemahan tidak rasmi): “Cabergoline ialah derivatif ergot dan agonis reseptor dopamina dengan afiniti yang tinggi terhadap reseptor D2. Keputusan kajian in vitro menunjukkan bahawa cabergoline memberikan kesan perencatan langsung ke atas rembesan prolaktin oleh laktotrof pituitari tikus.” Teks asal bahasa Inggeris: "Cabergoline is an ergot derivative and dopamine receptor agonist with a high affinity for D2 receptors. Results of in vitro studies demonstrate that cabergoline exerts a direct inhibitory effect on the secretion of prolactin by rat pituitary lactotrophs." ([DailyMed: cabergoline prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e497366b-a124-4d7f-bd45-a883c392d4bb), versi 2026-06-30; diakses 2026-11-19). Cabergoline diketahui bertindak sebagai agonis reseptor dopamin D2.
 
 Tiada hubungan mekanistik yang jelas dikenal pasti antara laluan dopaminergik dan sindrom yang sangat jarang ini. Skor 0.9906 ialah ramalan model sahaja, dan kemungkinan besar didorong oleh perkaitan peringkat rangkaian, bukan oleh bukti biologi atau klinikal yang diketahui. Oleh itu, ramalan ini perlu dianggap sebagai hipotesis awal yang belum disahkan.
 
@@ -85,6 +85,19 @@ Pada masa ini tiada literatur berkaitan tersedia.
 - Kajian praklinikal atau laporan kes yang menyokong hipotesis ini
 - Amaran dan kontraindikasi daripada sisipan pakej produk yang didaftarkan di NPRA, bagi penilaian keselamatan
 - Semakan interaksi ubat, terutamanya interaksi tahap Major, sebelum sebarang pertimbangan klinikal
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: cabergoline prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e497366b-a124-4d7f-bd45-a883c392d4bb) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

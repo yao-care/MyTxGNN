@@ -59,7 +59,7 @@ Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **neopl
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan lorazepam tidak terdapat dalam data yang dikompilasi untuk laporan ini. Berdasarkan farmakologi yang diketahui, lorazepam ialah modulator alosterik positif reseptor GABA-A. Ia mengukuhkan perencatan saraf, sekali gus menghasilkan kesan penenang, antikebimbangan dan antikonvulsan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Lorazepam (terjemahan tidak rasmi): “Lorazepam memberikan kesannya untuk rawatan gangguan keresahan melalui pengikatan pada tapak benzodiazepina reseptor asid gamma-aminobutirik-A (GABA A ) di dalam otak dan meningkatkan perencatan sinaptik yang diperantarakan oleh GABA.” Teks asal bahasa Inggeris: "Lorazepam exerts its effect for the treatment of anxiety disorders through binding to the benzodiazepine site of the gamma-aminobutyric acid-A (GABA A ) receptors in the brain and enhances GABA-mediated synaptic inhibition." ([DailyMed: Loreev Xr (lorazepam) prescribing information, Almatica Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=227734c1-bf01-9607-73ea-5a1f38a89bd9), versi 2025-10-08; diakses 2026-11-19). Berdasarkan farmakologi yang diketahui, lorazepam ialah modulator alosterik positif reseptor GABA-A. Ia mengukuhkan perencatan saraf, sekali gus menghasilkan kesan penenang, antikebimbangan dan antikonvulsan.
 
 Indikasi asal (kebimbangan dan sawan) berkait dengan hiperkeupayaan neuron, dan mekanisme GABAergik sesuai untuk keadaan tersebut. Sebaliknya, tiada mekanisme antitumor yang munasabah dan mantap bagi lorazepam terhadap tumor saraf trigeminal. Skor TxGNN yang tinggi (0.9987) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin hanya mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Paling jauh, lorazepam mungkin berguna untuk kawalan simptom (contohnya kebimbangan atau sedasi semasa prosedur). Itu bukan indikasi yang mengubah perjalanan penyakit.
 
@@ -120,11 +120,12 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Lorazepam juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Loreev Xr (lorazepam) prescribing information, Almatica Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=227734c1-bf01-9607-73ea-5a1f38a89bd9) |
 
 <!-- review:end log -->
 

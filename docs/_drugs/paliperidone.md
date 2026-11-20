@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan asal tidak tersedia dalam data yang disusun untuk laporan ini. Walau bagaimanapun, berdasarkan pengetahuan umum, paliperidone ialah antagonis reseptor D2 dan 5-HT2A, dan keberkesanannya dalam skizofrenia telah dibuktikan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Paliperidone (terjemahan tidak rasmi): “Paliperidon ialah metabolit aktif utama risperidon. Mekanisme tindakan paliperidon dalam skizofrenia adalah tidak jelas. Walau bagaimanapun, kesan terapeutik ubat ini dalam skizofrenia mungkin diperantarakan melalui gabungan antagonisme reseptor dopamina Jenis 2 (D 2 ) dan serotonin Jenis 2 (5HT 2A ) pusat.” Teks asal bahasa Inggeris: "Paliperidone is the major active metabolite of risperidone. The mechanism of action of paliperidone in schizophrenia is unclear. However, the drug's therapeutic effect in schizophrenia could be mediated through a combination of central dopamine Type 2 (D 2 ) and serotonin Type 2 (5HT 2A ) receptor antagonism." ([DailyMed: Invega (paliperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b8e5b26-b9e4-4704-921b-3c3c0d159916), versi 2025-01-31; diakses 2026-11-19). Walau bagaimanapun, berdasarkan pengetahuan umum, paliperidone ialah antagonis reseptor D2 dan 5-HT2A, dan keberkesanannya dalam skizofrenia telah dibuktikan.
 
 Tiada hubungan mekanistik yang jelas dapat dikenal pasti antara tindakan ini dengan distrofi retina warisan. Skor yang tinggi (0.9992) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Oleh itu, ramalan ini perlu dianggap sebagai hipotesis awal sahaja dan bukan cadangan klinikal.
 
@@ -105,11 +105,12 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. 
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini tidak didaftarkan di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Invega (paliperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b8e5b26-b9e4-4704-921b-3c3c0d159916) |
 
 <!-- review:end log -->
 

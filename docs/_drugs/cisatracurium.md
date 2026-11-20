@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, cisatracurium bertindak pada reseptor asetilkolin nikotinik di plat hujung motor untuk melumpuhkan otot rangka buat sementara waktu, dan digunakan dalam konteks pembiusan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Cisatracurium (terjemahan tidak rasmi): “Cisatracurium besylate terikat secara kompetitif pada reseptor kolinergik pada plat hujung motor untuk mengantagonis tindakan asetilkolina, menyebabkan sekatan transmisi neuromuskular. Tindakan ini diantagonis oleh perencat asetilkolinesterase seperti neostigmine.” Teks asal bahasa Inggeris: "Cisatracurium besylate binds competitively to cholinergic receptors on the motor end-plate to antagonize the action of acetylcholine, resulting in blockade of neuromuscular transmission. This action is antagonized by acetylcholinesterase inhibitors such as neostigmine." ([DailyMed: cisatracurium besylate prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67908e20-044d-454d-9c51-bf106e817bd0), versi 2026-10-14; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, cisatracurium bertindak pada reseptor asetilkolin nikotinik di plat hujung motor untuk melumpuhkan otot rangka buat sementara waktu, dan digunakan dalam konteks pembiusan.
 
 Sindrom cauda equina ialah kecemasan pembedahan saraf akibat mampatan akar saraf. Tiada mekanisme terapeutik yang munasabah dikenal pasti untuk menghubungkan sekatan neuromuskular dengan keadaan ini. Skor yang tinggi hanyalah ramalan berasaskan model dan tidak disokong oleh bukti klinikal atau kajian terbitan. Oleh itu, ramalan ini harus dianggap sangat awal dan bersifat hipotesis.
 
@@ -93,6 +93,19 @@ Ramalan ini hanya berasaskan model (L5), tanpa ujian klinikal atau literatur yan
 - Bukti praklinikal atau klinikal yang mengkaji sindrom cauda equina secara langsung
 - Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA
 - Penilaian kebolehlaksanaan laluan pentadbiran dan tetapan penggunaan (ubat ini disuntik secara intravena di hospital)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: cisatracurium besylate prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67908e20-044d-454d-9c51-bf106e817bd0) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

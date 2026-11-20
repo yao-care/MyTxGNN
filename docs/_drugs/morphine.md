@@ -54,7 +54,7 @@ Morfin ialah agonis reseptor mu-opioid yang digunakan secara meluas sebagai ubat
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Morfin diketahui bertindak sebagai agonis reseptor mu-opioid dengan kesan analgesik yang mantap, jadi pertalian dengan kesakitan otot dan tisu penghubung kelihatan munasabah secara teori.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Morphine (terjemahan tidak rasmi): “Morfin ialah agonis opioid penuh dan agak selektif terhadap reseptor opioid mu, walaupun ia boleh terikat pada reseptor opioid lain pada dos yang lebih tinggi. Tindakan terapeutik utama morfin ialah analgesia. Seperti semua agonis opioid penuh, tiada kesan siling untuk analgesia dengan morfin.” Teks asal bahasa Inggeris: "Morphine is a full opioid agonist and is relatively selective for the mu-opioid receptor, although it can bind to other opioid receptors at higher doses. The principal therapeutic action of morphine is analgesia. Like all full opioid agonists, there is no ceiling effect for analgesia with morphine." ([DailyMed: Ms Contin (morphine sulfate) prescribing information, Rhodes Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c354b3bf-86c0-4bb8-8b1f-be2164942698), versi 2026-08-14; diakses 2026-11-19). Morfin diketahui bertindak sebagai agonis reseptor mu-opioid dengan kesan analgesik yang mantap, jadi pertalian dengan kesakitan otot dan tisu penghubung kelihatan munasabah secara teori.
 
 Namun, kesakitan miofasial pada amnya tidak responsif terhadap opioid, dan garis panduan lazimnya tidak menggalakkan penggunaan opioid jangka panjang. Skor TxGNN yang tinggi tidak disokong oleh bukti klinikal langsung.
 
@@ -104,6 +104,18 @@ Maklumat amaran dan kontraindikasi daripada sisipan pakej tidak tersedia; sila r
 - Data mekanisme tindakan terperinci
 - Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan
 - Pelan pemantauan keselamatan, terutamanya risiko kebergantungan dan interaksi dengan depresan sistem saraf pusat
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ms Contin (morphine sulfate) prescribing information, Rhodes Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c354b3bf-86c0-4bb8-8b1f-be2164942698) |
+
+<!-- review:end log -->
 
 ## Penafian
 

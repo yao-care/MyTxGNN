@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia berkesan untuk **diabetes mellitus jenis 1**, dengan *
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikompilasi untuk laporan ini. Berdasarkan maklumat sedia ada, insulin aspart ialah analog insulin bertindak pantas yang mengikat reseptor insulin dan menggantikan insulin endogen yang kurang. Keberkesanannya dalam diabetes mellitus telah terbukti, dan secara mekanistik ia sememangnya sesuai untuk diabetes jenis 1.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Insulin Aspart (terjemahan tidak rasmi): “Aktiviti utama insulin, termasuk NOVOLOG MIX 70/30, ialah pengawalaturan metabolisme glukosa. Insulin dan analognya menurunkan glukosa darah dengan merangsang pengambilan glukosa periferi, terutamanya oleh otot rangka dan lemak, dan dengan merencat penghasilan glukosa hepatik.” Teks asal bahasa Inggeris: "The primary activity of insulin, including NOVOLOG MIX 70/30 is the regulation of glucose metabolism. Insulin and its analog lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85), versi 2026-05-18; diakses 2026-11-19). Berdasarkan maklumat sedia ada, insulin aspart ialah analog insulin bertindak pantas yang mengikat reseptor insulin dan menggantikan insulin endogen yang kurang. Keberkesanannya dalam diabetes mellitus telah terbukti, dan secara mekanistik ia sememangnya sesuai untuk diabetes jenis 1.
 
 Diabetes jenis 1 ialah keadaan kekurangan insulin mutlak akibat kemusnahan autoimun sel beta pankreas. Penggantian insulin ialah asas rawatan, dan insulin aspart lazimnya digunakan sebagai insulin bolus semasa waktu makan dalam regimen basal-bolus atau melalui pam insulin (CSII). Oleh itu, ramalan ini disokong oleh rasional farmakologi langsung.
 
@@ -145,11 +145,12 @@ Bagi diabetes neonatal kekal dan agenesis pankreas, penggantian insulin munasaba
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini tidak mempunyai pendaftaran di Malaysia dalam data yang dikompilasi, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85) |
 
 <!-- review:end log -->
 

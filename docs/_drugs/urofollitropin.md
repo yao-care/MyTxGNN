@@ -59,7 +59,7 @@ Model TxGNN meramalkan ubat ini mungkin berkesan untuk **migrain (migraine disor
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, urofollitropin ialah sediaan FSH (gonadotropin yang berasal daripada air kencing) yang bertindak pada reseptor FSH di gonad. Tiada mekanisme yang mantap yang menghubungkannya dengan migrain.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Urofollitropin ialah (terjemahan tidak rasmi): “Agonis reseptor hormon perangsang folikel” Teks asal bahasa Inggeris: "Follicle stimulating hormone receptor agonist" ([ChEMBL CHEMBL1201520 (urofollitropin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201520), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat sedia ada, urofollitropin ialah sediaan FSH (gonadotropin yang berasal daripada air kencing) yang bertindak pada reseptor FSH di gonad. Tiada mekanisme yang mantap yang menghubungkannya dengan migrain.
 
 Perubahan hormon, terutamanya penurunan estrogen, dikaitkan dengan migrain haid. Namun, tiada data menunjukkan bahawa FSH atau urofollitropin mengubah suai migrain. Skor TxGNN yang tinggi (0.9985) ialah ramalan model TxGNN (pembelajaran mendalam) sahaja dan tidak disokong oleh sebarang percubaan atau penerbitan dalam data yang disusun.
 
@@ -68,7 +68,6 @@ Ramalan lain dalam senarai juga tidak mempunyai asas mekanistik yang jelas. Rama
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -93,6 +92,19 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan lain, termasuk amaran dan ko
 - Bukti pra-klinikal atau hipotesis mekanistik yang menghubungkan isyarat FSH dengan patofisiologi migrain
 - Kajian literatur sistematik dan carian pendaftaran percubaan klinikal yang lebih luas
 - Penilaian keserasian laluan pemberian dan ketersediaan produk di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL1201520 (urofollitropin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201520) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

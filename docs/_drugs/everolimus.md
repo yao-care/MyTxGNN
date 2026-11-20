@@ -59,7 +59,7 @@ Everolimus ialah perencat mTOR yang hubungannya dengan karsinoma sel renal, kars
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, everolimus ialah perencat mTORC1, dan kesannya terhadap tumor yang bergantung pada laluan PI3K/AKT/mTOR telah dikenali dalam indikasi asalnya.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Everolimus (terjemahan tidak rasmi): “Everolimus merencat pengaktifan dan proliferasi limfosit T dan B yang dirangsang oleh antigen dan interleukin (IL-2 dan IL-15). Di dalam sel, everolimus terikat kepada protein sitoplasma, FK506 Binding Protein-12 (FKBP-12), untuk membentuk kompleks imunosupresif (everolimus: FKBP-12) yang terikat kepada dan merencat sasaran rapamisin mamalia (mTOR), sejenis kinase pengawalaturan utama.” Teks asal bahasa Inggeris: "Everolimus inhibits antigenic and interleukin (IL-2 and IL-15) stimulated activation and proliferation of T and B lymphocytes. In cells, everolimus binds to a cytoplasmic protein, the FK506 Binding Protein-12 (FKBP-12), to form an immunosuppressive complex (everolimus: FKBP-12) that binds to and inhibits the mammalian target of rapamycin (mTOR), a key regulatory kinase." ([DailyMed: Zortress (everolimus) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a), versi 2026-09-16; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, everolimus ialah perencat mTORC1, dan kesannya terhadap tumor yang bergantung pada laluan PI3K/AKT/mTOR telah dikenali dalam indikasi asalnya.
 
 Liposarkoma terdediferensiasi dicirikan oleh amplifikasi MDM2/CDK4 dan pengaktifan kerap laluan PI3K/AKT/mTOR. Everolimus merencat mTORC1, manakala ribociclib merencat CDK4/6, jadi gabungan keduanya menyasarkan dua laluan percambahan yang saling melengkapi. Data praklinikal model PDOX dan terapi gabungan menyokong hipotesis ini, tetapi bersifat tidak langsung.
 
@@ -134,6 +134,19 @@ Teks amaran dan kontraindikasi daripada sisipan pek tidak tersedia. Sila rujuk s
 - Data MOA terperinci
 - Amaran, kontraindikasi dan indikasi diluluskan daripada sisipan pek NPRA
 - Pelan pemantauan keselamatan (hematologi, glukosa, lipid, paru) dan semakan interaksi ubat
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Zortress (everolimus) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

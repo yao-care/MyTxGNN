@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, adenosine bertindak pada reseptor A1 dalam nod AV dan digunakan untuk menamatkan aritmia supraventrikular serta sebagai alat diagnostik.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Adenosine (terjemahan tidak rasmi): “Suntikan Adenosine melambatkan masa konduksi melalui nod A-V, boleh mengganggu laluan masuk semula (reentry) melalui nod A-V, dan boleh memulihkan ritma sinus normal pada pesakit dengan takikardia supraventrikular paroksismal (PSVT), termasuk PSVT yang berkaitan dengan Sindrom Wolff-Parkinson-White. Suntikan Adenosine diantagonis secara kompetitif oleh metilxantina seperti kafeina dan teofilina, dan dipotensikan oleh penyekat pengangkutan nukleosida seperti dipyridamole.” Teks asal bahasa Inggeris: "Adenosine Injection slows conduction time through the A-V node, can interrupt the reentry pathways through the A-V node, and can restore normal sinus rhythm in patients with paroxysmal supraventricular tachycardia (PSVT), including PSVT associated with Wolff-Parkinson-White Syndrome. Adenosine Injection is antagonized competitively by methylxanthines such as caffeine and theophylline, and potentiated by blockers of nucleoside transport such as dipyridamole." ([DailyMed: adenosine prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9508caf5-0e3a-4d32-909d-bff7ea40ec30), versi 2026-08-31; diakses 2026-11-19). Secara umum, adenosine bertindak pada reseptor A1 dalam nod AV dan digunakan untuk menamatkan aritmia supraventrikular serta sebagai alat diagnostik.
 
 Namun, blok berkas cabang ialah kecacatan pengaliran intraventrikular di bawah nod AV. Tiada rasional mekanistik yang mantap untuk merawatnya dengan adenosine. Skor model sangat tinggi (0,9994), tetapi istilah penyakit ini ditandakan sebagai "usang" (obsolete), yang menunjukkan entri ontologi lama atau pendua. Ramalan ini mungkin sekadar artifak model dan bukan isyarat terapeutik sebenar. Ramalan ini perlu ditafsirkan dengan sangat berhati-hati.
 
@@ -86,6 +86,19 @@ Ramalan ini hanya berasaskan model tanpa sebarang percubaan klinikal atau penerb
 - Data mekanisme tindakan (MOA) yang terperinci
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Kajian praklinikal atau klinikal yang mengkaji secara langsung kesan adenosine terhadap kecacatan pengaliran intraventrikular
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: adenosine prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9508caf5-0e3a-4d32-909d-bff7ea40ec30) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

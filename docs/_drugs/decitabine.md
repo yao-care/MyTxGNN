@@ -58,7 +58,7 @@ Decitabine ialah agen hipometilasi (analog nukleosida). Model TxGNN (pembelajara
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan am tentang kelas ubat ini, decitabine ialah analog nukleosida yang menghalang DNA metiltransferase. Ia sudah digunakan dalam keganasan mieloid, termasuk sindrom mielodisplastik (MDS). Hubungan mekanistik ini dirumuskan daripada kelas ubat, bukan daripada rekod yang dibekalkan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Decitabine (terjemahan tidak rasmi): “Desitabin dipercayai memberikan kesan antineoplastiknya selepas pemfosforilan dan penggabungan langsung ke dalam DNA serta perencatan DNA metiltransferase, yang menyebabkan hipometilasi DNA dan pembezaan sel atau apoptosis. Desitabin merencat metilasi DNA secara in vitro, yang dicapai pada kepekatan yang tidak menyebabkan penyekatan utama sintesis DNA.” Teks asal bahasa Inggeris: "Decitabine is believed to exert its antineoplastic effects after phosphorylation and direct incorporation into DNA and inhibition of DNA methyltransferase, causing hypomethylation of DNA and cellular differentiation or apoptosis. Decitabine inhibits DNA methylation in vitro, which is achieved at concentrations that do not cause major suppression of DNA synthesis." ([DailyMed: decitabine prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5975fa81-1e29-4d56-e063-6394a90a9cd5), versi 2026-11-03; diakses 2026-11-19). Berdasarkan pengetahuan am tentang kelas ubat ini, decitabine ialah analog nukleosida yang menghalang DNA metiltransferase. Ia sudah digunakan dalam keganasan mieloid, termasuk sindrom mielodisplastik (MDS). Hubungan mekanistik ini dirumuskan daripada kelas ubat, bukan daripada rekod yang dibekalkan.
 
 Sitopenia refraktori zaman kanak-kanak (RCC) ialah subjenis MDS pediatrik yang paling lazim. Biologi yang dikongsi, iaitu hematopoiesis klon yang tidak normal dan disregulasi epigenetik, menjadikan ramalan ini munasabah. Namun skor TxGNN yang sangat tinggi (0.9903) hanyalah ramalan pengiraan dan bukan bukti klinikal.
 
@@ -130,6 +130,19 @@ Ramalan TxGNN adalah tinggi dan mekanismenya munasabah. Namun tiada ujian klinik
 - Data mekanisme tindakan yang disahkan daripada DrugBank.
 - Kajian yang secara langsung meneliti decitabine dalam RCC, terutamanya ujian klinikal berdaftar atau siri kes yang lebih besar.
 - Pelan pemantauan keselamatan khusus untuk populasi pediatrik.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: decitabine prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5975fa81-1e29-4d56-e063-6394a90a9cd5) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

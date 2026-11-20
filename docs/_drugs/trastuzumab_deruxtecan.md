@@ -59,7 +59,7 @@ Model TxGNN meramalkan ubat ini mungkin berkesan untuk **osteoporosis teraruh ub
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikompilasi. Berdasarkan maklumat yang diketahui, trastuzumab deruxtecan ialah ADC yang menyasarkan HER2 dengan muatan sitotoksik perencat topoisomerase I.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Trastuzumab Deruxtecan (terjemahan tidak rasmi): “Fam-trastuzumab deruxtecan-nxki ialah konjugat antibodi-ubat yang disasarkan kepada HER2. Antibodi tersebut ialah IgG1 anti-HER2 yang dimanusiakan. Molekul kecil, DXd, ialah perencat topoisomerase I yang dilekatkan pada antibodi melalui penghubung boleh belah.” Teks asal bahasa Inggeris: "Fam-trastuzumab deruxtecan-nxki is a HER2-directed antibody-drug conjugate. The antibody is a humanized anti-HER2 IgG1. The small molecule, DXd, is a topoisomerase I inhibitor attached to the antibody by a cleavable linker." ([DailyMed: Enhertu (fam-trastuzumab deruxtecan-nxki) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e67e73e-ddf4-4e4d-8b50-09d7514910b6), versi 2026-05-15; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, trastuzumab deruxtecan ialah ADC yang menyasarkan HER2 dengan muatan sitotoksik perencat topoisomerase I.
 
 Skor model yang tinggi (0.9931) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi. Tiada mekanisme pelindung tulang yang jelas dapat dikenal pasti daripada data sedia ada.
 
@@ -80,7 +80,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 ---
 
 ## Maklumat Pasaran di Malaysia
-
 
 ---
 
@@ -132,6 +131,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pembungkusan.
 - Semakan literatur sistematik tentang kesan ADC ini terhadap kesihatan tulang
 - Pengesahan status pendaftaran dan ketersediaan di Malaysia
 - Analisis keserasian laluan pentadbiran dan penilaian risiko-manfaat bagi populasi sasaran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Enhertu (fam-trastuzumab deruxtecan-nxki) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e67e73e-ddf4-4e4d-8b50-09d7514910b6) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

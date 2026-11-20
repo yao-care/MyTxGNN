@@ -58,7 +58,7 @@ Zidovudine ialah ubat antiretroviral (perencat transkriptase balik nukleosida, N
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan terperinci tidak tersedia daripada data yang dikumpulkan. Namun zidovudine diketahui sebagai NRTI. Selepas difosforilasi dalam sel, ia menyekat transkriptase balik virus dan menghalang replikasi virus.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Zidovudine (terjemahan tidak rasmi): “Zidovudine ialah agen antiretrovirus. […] Zidovudine ialah analog nukleosida sintetik. Di dalam sel, zidovudine difosforilasikan kepada metabolit 5′-trifosfat aktifnya, zidovudine trifosfat (ZDV-TP). Mod tindakan utama ZDV-TP ialah perencatan transkriptase berbalik (RT) melalui penamatan rantai DNA selepas penggabungan analog nukleotida tersebut.” Teks asal bahasa Inggeris: "Zidovudine is an antiretroviral agent. […] Zidovudine is a synthetic nucleoside analogue. Intracellularly, zidovudine is phosphorylated to its active 5′-triphosphate metabolite, zidovudine triphosphate (ZDV-TP). The principal mode of action of ZDV-TP is inhibition of reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue." ([DailyMed: Retrovir (zidovudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6df09f15-b102-431c-adde-d7aeef6f5d84), versi 2024-11-13; diakses 2026-11-19). Namun zidovudine diketahui sebagai NRTI. Selepas difosforilasi dalam sel, ia menyekat transkriptase balik virus dan menghalang replikasi virus.
 
 SIV ialah lentivirus yang sangat rapat hubungannya dengan HIV dan menggunakan sasaran transkriptase balik yang sama. Oleh itu, hubungan mekanistik antara indikasi asal dan indikasi ramalan adalah kukuh. Banyak kajian pada makak menunjukkan zidovudine boleh mengurangkan beban virus, melindungi bayi makak daripada AIDS yang cepat berkembang, dan memanjangkan kemandirian.
 
@@ -123,6 +123,19 @@ Sebanyak 100 interaksi dikenal pasti. Antara yang utama:
 
 **Catatan tambahan:**
 Dalam data yang sama, indikasi *AIDS related complex* dan *HIV kongenital* mempunyai bukti yang lebih kukuh (tahap L1, termasuk ujian fasa 3). Kedua-duanya tergolong dalam keluarga indikasi HIV asal, jadi bukan repurposing sebenar. Penggunaan klinikalnya perlu dalam terapi antiretroviral gabungan semasa dengan pemantauan hematologi, dan bukan monoterapi.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Retrovir (zidovudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6df09f15-b102-431c-adde-d7aeef6f5d84) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

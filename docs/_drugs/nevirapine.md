@@ -60,7 +60,7 @@ tetapi setakat ini hanya terdapat **0 ujian klinikal** dan **1 penerbitan** (kaj
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, nevirapine ialah NNRTI yang menyasarkan transkriptase balik (RT) HIV-1, keberkesanannya dalam jangkitan HIV telah terbukti, dan secara mekanisme mungkin boleh digunakan untuk jangkitan lentivirus yang berkaitan.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Nevirapine (terjemahan tidak rasmi): “Nevirapina ialah ubat antiretrovirus. […] Nevirapina ialah perencat transkriptase berbalik bukan nukleosida (NNRTI) HIV-1. Nevirapina mengikat secara langsung kepada transkriptase berbalik (RT) dan menyekat aktiviti DNA polimerase bergantung RNA dan bergantung DNA dengan menyebabkan gangguan pada tapak pemangkin enzim tersebut.” Teks asal bahasa Inggeris: "Nevirapine is an antiretroviral drug. […] Nevirapine is a non-nucleoside reverse transcriptase inhibitor (NNRTI) of HIV-1. Nevirapine binds directly to reverse transcriptase (RT) and blocks the RNA-dependent and DNA-dependent DNA polymerase activities by causing a disruption of the enzyme's catalytic site." ([DailyMed: nevirapine prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f6c3eed-2a5d-46ed-9a7c-59715f338a15), versi 2026-10-08; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, nevirapine ialah NNRTI yang menyasarkan transkriptase balik (RT) HIV-1, keberkesanannya dalam jangkitan HIV telah terbukti, dan secara mekanisme mungkin boleh digunakan untuk jangkitan lentivirus yang berkaitan.
 
 Virus imunodefisiensi kucing (FIV) ialah lentivirus yang juga mempunyai transkriptase balik, jadi secara teorinya ia boleh menjadi sasaran perencat RT. Namun, struktur RT FIV berbeza daripada RT HIV-1 pada poket pengikatan NNRTI. Kajian biokimia dan struktur pada 2023 mencadangkan NNRTI, termasuk nevirapine, mempunyai aktiviti yang terhad atau berbeza terhadap RT FIV berbanding RT HIV-1.
 
@@ -125,11 +125,12 @@ Untuk amaran utama dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Tiada pendaftaran di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: nevirapine prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f6c3eed-2a5d-46ed-9a7c-59715f338a15) |
 
 <!-- review:end log -->
 

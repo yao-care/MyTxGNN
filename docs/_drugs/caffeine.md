@@ -58,7 +58,7 @@ Kafein ialah bahan perangsang sistem saraf pusat yang hubungan dengan rinitis al
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan kafein tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Secara umum diketahui, kafein ialah antagonis reseptor adenosin dan perencat fosfodiesterase, serta mempunyai kesan vasokonstriktif yang secara teorinya boleh mengurangkan kesesakan mukosa hidung.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Caffeine (terjemahan tidak rasmi): “Caffeine berkait secara struktur dengan metilxantina lain, theophylline dan theobromine. Ia ialah perelaks otot licin bronkus, perangsang SSP, perangsang otot jantung dan diuretik. Walaupun mekanisme tindakan caffeine dalam apnea pramatang tidak diketahui, beberapa mekanisme telah dihipotesiskan.” Teks asal bahasa Inggeris: "Caffeine is structurally related to other methylxanthines, theophylline, and theobromine. It is a bronchial smooth muscle relaxant, a CNS stimulant, a cardiac muscle stimulant, and a diuretic. Although the mechanism of action of caffeine in apnea of prematurity is not known, several mechanisms have been hypothesized." ([DailyMed: caffeine citrate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f38c395-0093-4afd-89ec-f96e5dc0934a), versi 2026-07-29; diakses 2026-11-19). Secara umum diketahui, kafein ialah antagonis reseptor adenosin dan perencat fosfodiesterase, serta mempunyai kesan vasokonstriktif yang secara teorinya boleh mengurangkan kesesakan mukosa hidung.
 
 Hubungan rinitis alahan dan rinitis vasomotor dengan kafein hanyalah hubungan yang direkodkan dalam graf pengetahuan, bukan indikasi yang diluluskan. Skor ramalan yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi.
 
@@ -138,6 +138,19 @@ Tiada ujian klinikal dan tiada kajian yang menilai kafein secara langsung untuk 
 | 8 | Penyakit vena | 0.9906 | L4* | Hold |
 
 *Tahap L4 dalam data asal tidak disokong oleh kajian yang mengkaji penyakit tersebut secara langsung dengan kafein sebagai rawatan; penyemakan semula kepada L5 dicadangkan. Bagi sefalgia autonomik trigeminal, sebahagian besar bertindih dengan hubungan sakit kepala kluster yang sedia direkodkan dalam graf pengetahuan, dan terdapat risiko isyarat keselamatan protrombotik atau pendarahan bagi penyakit trombotik.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: caffeine citrate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f38c395-0093-4afd-89ec-f96e5dc0934a) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

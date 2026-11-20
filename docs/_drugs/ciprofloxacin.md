@@ -56,7 +56,7 @@ tetapi setakat ini **tiada ujian klinikal berdaftar** dan hanya **2 penerbitan**
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan ciprofloxacin tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, ciprofloxacin ialah antibiotik kelas fluoroquinolone dengan kesan antibakteria yang telah terbukti, dan secara mekanistik mungkin berkait dengan sklerosis sistemik meresap melalui dua jalur tidak langsung.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ciprofloxacin (terjemahan tidak rasmi): “Ciprofloxacin ialah ahli kelas fluorokuinolon bagi agen antibakteria. […] Tindakan bakterisid ciprofloxacin terhasil daripada perencatan enzim topoisomerase II (DNA girase) dan topoisomerase IV (kedua-duanya topoisomerase Jenis II), yang diperlukan untuk replikasi, transkripsi, pembaikan dan rekombinasi DNA bakteria.” Teks asal bahasa Inggeris: "Ciprofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] The bactericidal action of ciprofloxacin results from inhibition of the enzymes topoisomerase II (DNA gyrase) and topoisomerase IV (both Type II topoisomerases), which are required for bacterial DNA replication, transcription, repair, and recombination." ([DailyMed: Ciprofloxacin In Dextrose (ciprofloxacin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbbbf939-3219-4515-a48e-ca264daa4d07), versi 2025-11-04; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, ciprofloxacin ialah antibiotik kelas fluoroquinolone dengan kesan antibakteria yang telah terbukti, dan secara mekanistik mungkin berkait dengan sklerosis sistemik meresap melalui dua jalur tidak langsung.
 
 Pertama, satu kajian terkawal buta ganda secara rawak (PMID 20507401) menilai ciprofloxacin oral sebagai agen antifibrosis pada kulit pesakit skleroderma. Kesan ini dicadangkan berlaku melalui pengaruh pada biologi fibroblas dan kolagen, namun mekanisme ini belum disahkan. Kedua, ciprofloxacin boleh merawat pertumbuhan lampau bakteria usus kecil, iaitu komplikasi gastrousus yang lazim dalam sklerosis sistemik (PMID 7728404).
 
@@ -116,11 +116,12 @@ Tiada ujian klinikal berdaftar, dan hanya dua penerbitan yang berkaitan secara t
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-12 | Bilangan pendaftaran: “terdapat 42 lesen berdaftar, semuanya sah (41 produk” → “terdapat 42 lesen berdaftar, 41 daripadanya sah dan 1 telah tamat tempoh (41 pro” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ciprofloxacin In Dextrose (ciprofloxacin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbbbf939-3219-4515-a48e-ca264daa4d07) |
 
 <!-- review:end log -->
 

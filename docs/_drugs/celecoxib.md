@@ -56,7 +56,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **displasia akromesomelik, jeni
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia buat masa ini. Celecoxib secara amnya diketahui sebagai perencat COX-2 yang mengurangkan keradangan dan kesakitan melalui penindasan prostaglandin. Hubungan yang direkodkan dalam graf pengetahuan merangkumi pelbagai penyakit sendi dan tulang.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Celecoxib (terjemahan tidak rasmi): “Celecoxib mempunyai sifat analgesik, antiradang dan antipiretik. Mekanisme tindakan celecoxib dipercayai disebabkan oleh perencatan sintesis prostaglandin, terutamanya melalui perencatan COX-2. Celecoxib ialah perencat sintesis prostaglandin yang poten in vitro.” Teks asal bahasa Inggeris: "Celecoxib has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of celecoxib is believed to be due to inhibition of prostaglandin synthesis, primarily via inhibition of COX-2. Celecoxib is a potent inhibitor of prostaglandin synthesis in vitro." ([DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d), versi 2025-07-31; diakses 2026-11-19). Celecoxib secara amnya diketahui sebagai perencat COX-2 yang mengurangkan keradangan dan kesakitan melalui penindasan prostaglandin. Hubungan yang direkodkan dalam graf pengetahuan merangkumi pelbagai penyakit sendi dan tulang.
 
 Displasia akromesomelik jenis Hunter-Thompson disebabkan oleh varian kehilangan fungsi pada gen GDF5 (ahli keluarga BMP) yang menjejaskan pembentukan tulang rawan. Celecoxib tidak mempunyai keupayaan yang diketahui untuk membetulkan kecacatan perkembangan rangka ini. Skor tinggi (0.9988) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi. Kaitan mekanistik ini bersifat spekulatif.
 
@@ -101,6 +101,19 @@ Tiada percubaan klinikal atau penerbitan yang mengkaji penyakit ini secara langs
 - Data mekanisme tindakan (MOA) daripada DrugBank
 - Bukti praklinikal atau klinikal yang mengkaji displasia akromesomelik jenis Hunter-Thompson secara langsung
 - Penilaian kesesuaian laluan pemberian dan populasi pesakit
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

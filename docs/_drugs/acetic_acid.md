@@ -56,7 +56,7 @@ tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyok
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan asid asetik tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, asid asetik mempunyai aktiviti antibakteria melalui pengasidan persekitaran setempat.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Acetic Acid (terjemahan tidak rasmi): “Asid asetik bersifat antibakteria dan antikulat; propilena glikol bersifat hidrofilik dan memberikan tegangan permukaan yang rendah; benzetonium klorida ialah agen aktif permukaan yang menggalakkan sentuhan larutan dengan tisu.” Teks asal bahasa Inggeris: "Acetic acid is antibacterial and antifungal; propylene glycol is hydrophilic and provides a low surface tension; benzethonium chloride is a surface active agent that promotes contact of the solution with tissues." ([DailyMed: acetic acid prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1c28375-9b03-4590-9d39-ab28403da93d), versi 2026-03-18; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, asid asetik mempunyai aktiviti antibakteria melalui pengasidan persekitaran setempat.
 
 Walau bagaimanapun, kaitan antara kesan antibakteria ini dengan gangguan pasca-bakteria (keadaan susulan jangkitan yang lazimnya bersifat imun) tidak disokong oleh data yang ada. Pengasidan topikal tidak mempunyai hubungan mekanisme yang jelas dengan proses imun selepas jangkitan. Oleh itu, ramalan ini perlu dianggap sebagai hipotesis awal sahaja.
 
@@ -91,6 +91,19 @@ Ramalan ini hanya berasaskan model (skor 0,9998) tanpa sebarang ujian klinikal a
 - Amaran dan kontraindikasi daripada risalah pek NPRA
 - Kajian praklinikal atau klinikal yang menilai asid asetik secara langsung untuk gangguan pasca-bakteria
 - Penilaian keserasian laluan pentadbiran (topikal berbanding keperluan penyakit sasaran)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: acetic acid prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1c28375-9b03-4590-9d39-ab28403da93d) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

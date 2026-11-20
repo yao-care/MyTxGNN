@@ -56,7 +56,7 @@ Setakat ini terdapat **1 ujian klinikal** (relevansi rendah) dan **5 penerbitan*
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, omeprazole ialah perencat pam proton yang dikenali umum, yang menyekat rembesan asid gastrik. Berdasarkan maklumat yang diketahui, mekanisme ini menjelaskan hubungannya dengan penyakit ulser peptik.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Omeprazole (terjemahan tidak rasmi): “Omeprazol tergolong dalam kelas sebatian antisekretori, iaitu benzimidazol tergantikan, yang menindas rembesan asid gastrik melalui perencatan spesifik sistem enzim H + /K + ATPase pada permukaan rembesan sel parietal gastrik. Oleh sebab sistem enzim ini dianggap sebagai pam asid (proton) dalam mukosa gastrik, omeprazol telah dicirikan sebagai perencat pam asid gastrik, kerana ia menyekat langkah terakhir penghasilan asid.” Teks asal bahasa Inggeris: "Omeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H + /K + ATPase enzyme system at the secretory surface of the gastric parietal cell. Because this enzyme system is regarded as the acid (proton) pump within the gastric mucosa, omeprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179), versi 2024-03-19; diakses 2026-11-19). Walau bagaimanapun, omeprazole ialah perencat pam proton yang dikenali umum, yang menyekat rembesan asid gastrik. Berdasarkan maklumat yang diketahui, mekanisme ini menjelaskan hubungannya dengan penyakit ulser peptik.
 
 Sekatan duodenum (seperti stenosis duodenum) sering berlaku sebagai komplikasi ulser peptik. Menekan asid mungkin membantu menyembuhkan ulser asas dan mengurangkan edema keradangan yang menyumbang kepada penyempitan lumen, dan rawatan sering digabungkan dengan pembasmian *H. pylori*.
 
@@ -113,6 +113,19 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi yang rasmi.
 - Data mekanisme tindakan terperinci
 - Amaran dan kontraindikasi daripada sisipan pek NPRA (belum tersedia) serta teks indikasi diluluskan bagi setiap pendaftaran
 - Penilaian keselamatan bagi populasi khusus (contohnya penyakit hati, osteoporosis) dan interaksi ubat utama
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

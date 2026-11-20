@@ -58,7 +58,7 @@ Aripiprazole ialah ubat antipsikotik atipikal yang sudah didaftarkan dan dipasar
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan aripiprazole tidak terdapat dalam data yang dikumpulkan untuk laporan ini. Aripiprazole tergolong dalam kelas antipsikotik atipikal yang bertindak pada reseptor dopamin dan serotonin. Namun, tiada pautan mekanistik yang dapat ditunjukkan antara tindakan ini dengan penyakit yang diramalkan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Aripiprazole (terjemahan tidak rasmi): “Mekanisme tindakan aripiprazole dalam rawatan skizofrenia dan gangguan bipolar I tidak diketahui. Keberkesanan aripiprazole mungkin diperantarakan melalui gabungan aktiviti agonis separa pada reseptor dopamine D 2 dan serotonin 5-HT 1A serta aktiviti antagonis pada reseptor 5-HT 2A.” Teks asal bahasa Inggeris: "The mechanism of action of aripiprazole in the treatment of schizophrenia and bipolar I disorder is unknown. The efficacy of aripiprazole could be mediated through a combination of partial agonist activity at dopamine D 2 and serotonin 5-HT 1A receptors and antagonist activity at 5-HT 2A receptors." ([DailyMed: Abilify Asimtufii (aripiprazole) prescribing information, Otsuka America Pharmaceutical, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da4c07fd-1130-4341-bb44-63acfa4162be), versi 2025-04-04; diakses 2026-11-19). Aripiprazole tergolong dalam kelas antipsikotik atipikal yang bertindak pada reseptor dopamin dan serotonin. Namun, tiada pautan mekanistik yang dapat ditunjukkan antara tindakan ini dengan penyakit yang diramalkan.
 
 Penyakit ini ialah gangguan neurodevelopmen yang jarang berlaku. Ia melibatkan gangguan pergerakan mata mendatar dan skoliosis yang bertambah teruk. Tiada sasaran dopaminergik atau serotonergik yang munasabah dikaitkan dengannya.
 
@@ -115,6 +115,18 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 - Kajian praklinikal atau laporan kes yang menyokong kaitan dengan penyakit ini.
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA.
 - Penilaian pakar neurologi dan genetik klinikal tentang kewajaran meneruskan kajian.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Abilify Asimtufii (aripiprazole) prescribing information, Otsuka America Pharmaceutical, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da4c07fd-1130-4341-bb44-63acfa4162be) |
+
+<!-- review:end log -->
 
 ## Penafian
 

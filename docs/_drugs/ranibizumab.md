@@ -57,7 +57,7 @@ Nota: Tahap bukti ditetapkan pada L5 kerana tiada kajian yang dipetik mengkaji k
 
 ## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, ranibizumab ialah serpihan Fab anti-VEGF-A yang digunakan untuk penyakit retina neovaskular dan edema makula. Ia menyekat isyarat VEGF yang menggalakkan pertumbuhan salur darah baharu dan kebocoran vaskular.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ranibizumab (terjemahan tidak rasmi): “Produk ranibizumab mengikat kepada tapak pengikatan reseptor bentuk aktif VEGF-A, termasuk bentuk molekul ini yang aktif secara biologi dan telah dibelah, iaitu VEGF110. VEGF-A telah terbukti menyebabkan neovaskularisasi dan kebocoran dalam model angiogenesis okular dan oklusi vaskular dan dipercayai menyumbang kepada patofisiologi AMD neovaskular, mCNV, DR, DME dan edema makula berikutan RVO.” Teks asal bahasa Inggeris: "Ranibizumab products bind to the receptor binding site of active forms of VEGF-A, including the biologically active, cleaved form of this molecule, VEGF110. VEGF-A has been shown to cause neovascularization and leakage in models of ocular angiogenesis and vascular occlusion and is thought to contribute to pathophysiology of neovascular AMD, mCNV, DR, DME and macular edema following RVO." ([DailyMed: Nufymco (ranibizumab-leyk) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=05ed75bc-ae21-480b-9be4-cbc51689dd8a), versi 2026-11-05; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, ranibizumab ialah serpihan Fab anti-VEGF-A yang digunakan untuk penyakit retina neovaskular dan edema makula. Ia menyekat isyarat VEGF yang menggalakkan pertumbuhan salur darah baharu dan kebocoran vaskular.
 
 Katarak ialah kekeruhan kanta yang berpunca daripada perubahan protein kanta, tekanan oksidatif dan penuaan. Ia bukan penyakit yang didorong oleh VEGF, dan tiada rasional mekanistik yang mantap bagi menggunakan anti-VEGF untuk merawatnya.
 
@@ -99,6 +99,19 @@ Tiada ujian klinikal dan tiada kajian yang mengkaji ranibizumab sebagai rawatan 
 - Teks indikasi yang diluluskan bagi pendaftaran tempatan
 - Kajian praklinikal atau klinikal yang menilai kesan anti-VEGF terhadap kekeruhan kanta secara langsung
 - Penilaian kesesuaian laluan pemberian (intravitreal berbanding keperluan segmen anterior)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Nufymco (ranibizumab-leyk) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=05ed75bc-ae21-480b-9be4-cbc51689dd8a) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

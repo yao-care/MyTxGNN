@@ -54,7 +54,7 @@ Eplerenone ialah antagonis reseptor mineralokortikoid yang pada asalnya direkodk
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, eplerenone diketahui sebagai antagonis selektif reseptor mineralokortikoid (MR). Hipoksia kronik, seperti dalam apnea tidur obstruktif, boleh mengaktifkan isyarat MR dan mendorong fibrosis buah pinggang, remodeling atrium, keradangan vaskular dan kekakuan arteri.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Eplerenone (terjemahan tidak rasmi): “Eplerenone terikat kepada reseptor mineralokortikoid dan menyekat pengikatan aldosteron, satu komponen sistem renin-angiotensin-aldosteron (RAAS). Sintesis aldosteron, yang berlaku terutamanya dalam kelenjar adrenal, dimodulasi oleh pelbagai faktor, termasuk angiotensin II dan pengantara bukan RAAS seperti hormon adrenokortikotropik (ACTH) dan kalium.” Teks asal bahasa Inggeris: "Eplerenone binds to the mineralocorticoid receptor and blocks the binding of aldosterone, a component of the renin-angiotensin-aldosterone-system (RAAS). Aldosterone synthesis, which occurs primarily in the adrenal gland, is modulated by multiple factors, including angiotensin II and non-RAAS mediators such as adrenocorticotropic hormone (ACTH) and potassium." ([DailyMed: Inspra (eplerenone) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a52bedc-8e2c-4116-a296-a87770676b4a), versi 2025-06-23; diakses 2026-11-19). Walau bagaimanapun, eplerenone diketahui sebagai antagonis selektif reseptor mineralokortikoid (MR). Hipoksia kronik, seperti dalam apnea tidur obstruktif, boleh mengaktifkan isyarat MR dan mendorong fibrosis buah pinggang, remodeling atrium, keradangan vaskular dan kekakuan arteri.
 
 Kajian pada tikus menunjukkan eplerenone mengurangkan remodeling akibat hipoksia, dan satu kajian klinikal kecil menilai kesannya terhadap keterukan apnea tidur dan kekakuan arteri pada pesakit hipertensi rintang. Kajian mekanistik lain juga mengaitkan aldosteron dengan remodeling vaskular pulmonari dan menunjukkan eplerenone mengurangkan remodeling vaskular pulmonari dalam model hipertensi arteri pulmonari haiwan.
 
@@ -109,6 +109,19 @@ Walaupun skor ramalan tinggi (0.9950), tiada kajian yang diberikan mengkaji peny
 - Data mekanisme tindakan terperinci (MOA)
 - Teks amaran, kontraindikasi dan indikasi daripada sisipan pakej NPRA
 - Penilaian keselamatan khusus, terutamanya risiko hiperkalemia dan gangguan buah pinggang serta interaksi major yang disenaraikan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Inspra (eplerenone) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a52bedc-8e2c-4116-a296-a87770676b4a) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

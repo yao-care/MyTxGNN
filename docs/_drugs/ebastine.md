@@ -55,7 +55,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit arteri koronari** (d
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, ebastine ialah antagonis reseptor H1 generasi kedua, dan keberkesanannya dalam keadaan alergi telah diketahui. Namun, kaitan mekanistik dengan penyakit arteri koronari masih bersifat spekulatif.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Ebastine ialah (terjemahan tidak rasmi): “Agonis songsang reseptor histamin H1” Teks asal bahasa Inggeris: "Histamine H1 receptor inverse agonist" ([ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat sedia ada, ebastine ialah antagonis reseptor H1 generasi kedua, dan keberkesanannya dalam keadaan alergi telah diketahui. Namun, kaitan mekanistik dengan penyakit arteri koronari masih bersifat spekulatif.
 
 Secara hipotesis, histamin dan aktiviti sel mast pernah dicadangkan berperanan dalam vasospasma koronari dan aterosklerosis, justeru antagonisme H1 mungkin mempengaruhi tonus koronari atau keradangan. Walau bagaimanapun, hipotesis ini tidak disokong oleh sebarang data dalam laporan ini.
 
@@ -89,6 +89,19 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 - Kajian praklinikal atau semakan literatur untuk menyokong kaitan antara antagonisme H1 dengan penyakit arteri koronari
 - Penilaian keselamatan jantung, terutamanya risiko pemanjangan sela QT
 - Pengesahan kesesuaian laluan pentadbiran dan formulasi
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

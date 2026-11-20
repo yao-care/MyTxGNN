@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Sindrom Sanfilippo (Sanfilipp
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan laronidase tidak tersedia dalam data yang dihimpun untuk laporan ini. Laronidase ialah alpha-L-iduronidase rekombinan, iaitu enzim yang berperanan dalam laluan penguraian heparan sulfat.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Laronidase (terjemahan tidak rasmi): “Gangguan penyimpanan mukopolisakarida disebabkan oleh kekurangan enzim lisosom spesifik yang diperlukan untuk katabolisme glikosaminoglikan (GAG). Mukopolisakaridosis I (MPS I) dicirikan oleh kekurangan α-L-iduronidase, iaitu hidrolase lisosom yang memangkinkan hidrolisis sisa asid α-L-iduronik terminal pada dermatan sulfat dan heparan sulfat. […] Pengambilan ALDURAZYME oleh sel ke dalam lisosom berkemungkinan besar diperantarakan oleh pengikatan rantai oligosakarida laronidase yang berakhir dengan mannose-6-fosfat kepada reseptor mannose-6-fosfat yang spesifik.” Teks asal bahasa Inggeris: "Mucopolysaccharide storage disorders are caused by the deficiency of specific lysosomal enzymes required for the catabolism of glycosaminoglycans (GAG). Mucopolysaccharidosis I (MPS I) is characterized by the deficiency of α-L-iduronidase, a lysosomal hydrolase which catalyzes the hydrolysis of terminal α-L-iduronic acid residues of dermatan sulfate and heparan sulfate. […] ALDURAZYME uptake by cells into lysosomes is most likely mediated by the mannose-6-phosphate-terminated oligosaccharide chains of laronidase binding to specific mannose-6-phosphate receptors." ([DailyMed: Aldurazyme (laronidase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a80ac249-cae4-41f3-88bb-344088b20e60), versi 2026-09-11; diakses 2026-11-19). Laronidase ialah alpha-L-iduronidase rekombinan, iaitu enzim yang berperanan dalam laluan penguraian heparan sulfat.
 
 Sindrom Sanfilippo (MPS III) disebabkan oleh kekurangan enzim lain dalam laluan penguraian heparan sulfat yang sama (sulfamidase, N-acetyl-alpha-glucosaminidase, acetyl-CoA:alpha-glucosaminide acetyltransferase dan N-acetylglucosamine-6-sulfatase). Kaitan antara kedua-duanya hanyalah pertindihan substrat secara tidak langsung.
 
@@ -121,6 +121,18 @@ Tiada kajian yang mengkaji laronidase secara langsung dalam Sindrom Sanfilippo. 
 - Penilaian kebolehlaksanaan laluan pentadbiran alternatif (contohnya intratekal) jika kajian praklinikal menyokong
 
 ---
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Aldurazyme (laronidase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a80ac249-cae4-41f3-88bb-344088b20e60) |
+
+<!-- review:end log -->
 
 ## Penafian
 

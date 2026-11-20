@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan bromazepam tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Berdasarkan farmakologi kelas benzodiazepin, bromazepam ialah pemodulat alosterik positif reseptor GABA-A.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Bromazepam ialah (terjemahan tidak rasmi): “Pemodulat alosterik positif subunit alfa-2 reseptor GABA” Teks asal bahasa Inggeris: "GABA receptor alpha-2 subunit positive allosteric modulator" ([ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan farmakologi kelas benzodiazepin, bromazepam ialah pemodulat alosterik positif reseptor GABA-A.
 
 Pautan yang mungkin tetapi belum disahkan: peningkatan perencatan GABAergik boleh mengurangkan keterujaan berlebihan korteks dan sistem trigeminovaskular, atau melegakan ketegangan otot dan kebimbangan yang sering menyertai sakit kepala jenis tegang dan migrain. Pautan ini bergantung pada farmakologi umum kelas ubat, bukan data khusus bagi bromazepam.
 
@@ -82,6 +82,19 @@ Tiada percubaan klinikal atau penerbitan yang mengkaji bromazepam dalam migrain;
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Kajian praklinikal atau klinikal yang mengkaji bromazepam secara langsung dalam migrain
 - Penilaian nisbah manfaat-risiko berbanding terapi migrain sedia ada
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

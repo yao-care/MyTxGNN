@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **miasis** (skor 0.9941), tetap
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, griseofulvin ialah antikulat yang mengganggu fungsi mikrotubul dan mitosis dalam dermatofit. Keberkesanannya terhadap tinea telah dibuktikan, tetapi tiada asas mekanistik yang jelas untuk menjangkakan ia berkesan terhadap miasis.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Griseofulvin (terjemahan tidak rasmi): “Mekanisme griseofulvin terdiri daripada pengikatan protein mikrotubul, yang diperlukan untuk mitosis. […] Mekanisme griseofulvin terdiri daripada pengikatan protein mikrotubul, yang diperlukan untuk mitosis. Aktiviti In Vivo Griseofulvin mungkin aktif terhadap kebanyakan strain dermatofit berikut seperti yang diterangkan dalam bahagian INDIKASI DAN PENGGUNAAN: Epidermophyton floccosum, Microsporum audouinii, Microsporum canis, Microsporum gypseum, Trichophyton crateriformis, Trichophyton gallinae, Trichophyton interdigitalis, Trichophyton megnini, Trichophyton mentagrophytes, Trichophyton rubrum, Trichophyton sulphureum, Trichophyton schoenleini, Trichophyton tonsurans dan Trichophyton verrucosum.” Teks asal bahasa Inggeris: "The mechanism of griseofulvin consists of binding microtubular proteins, which are required for mitosis. […] The mechanism of griseofulvin consists of binding microtubular proteins, which are required for mitosis. Activity In Vivo Griseofulvin may be active against most strains of the following dermatophytes as described in the INDICATIONS AND USAGE section: Epidermophyton floccosum, Microsporum audouinii, Microsporum canis, Microsporum gypseum, Trichophyton crateriformis, Trichophyton gallinae, Trichophyton interdigitalis, Trichophyton megnini, Trichophyton mentagrophytes, Trichophyton rubrum, Trichophyton sulphureum, Trichophyton schoenleini, Trichophyton tonsurans and Trichophyton verrucosum." ([DailyMed: griseofulvin prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98829d90-b289-4bec-a625-7af412a5cb2d), versi 2025-05-14; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, griseofulvin ialah antikulat yang mengganggu fungsi mikrotubul dan mitosis dalam dermatofit. Keberkesanannya terhadap tinea telah dibuktikan, tetapi tiada asas mekanistik yang jelas untuk menjangkakan ia berkesan terhadap miasis.
 
 Miasis ialah infestasi larva lalat (keadaan ektoparasit). Rawatan piawai ialah pengeluaran larva atau antiparasit seperti ivermektin. Skor TxGNN yang tinggi (0.9941) hanyalah ramalan model TxGNN (pembelajaran mendalam) dan tidak disokong oleh rasional biologi. Kesan spekulatif pada tubulin artropod belum pernah ditunjukkan.
 
@@ -128,11 +128,12 @@ Sila rujuk sisipan pek produk untuk maklumat amaran dan kontraindikasi yang rasm
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak didaftarkan di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: griseofulvin prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98829d90-b289-4bec-a625-7af412a5cb2d) |
 
 <!-- review:end log -->
 

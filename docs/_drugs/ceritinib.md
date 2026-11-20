@@ -60,7 +60,7 @@ tetapi **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong arah
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, ceritinib ialah perencat kinase tirosin ALK/ROS1 dan keberkesanannya dalam NSCLC positif ALK telah dibuktikan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ceritinib (terjemahan tidak rasmi): “Ceritinib ialah perencat kinase. Sasaran perencatan ceritinib yang dikenal pasti dalam asai biokimia atau selular pada kepekatan yang relevan secara klinikal termasuk ALK, reseptor faktor pertumbuhan seperti insulin 1 (IGF-1R), reseptor insulin (InsR) dan ROS1.” Teks asal bahasa Inggeris: "Ceritinib is a kinase inhibitor. Targets of ceritinib inhibition identified in either biochemical or cellular assays at clinically relevant concentrations include ALK, insulin-like growth factor 1 receptor (IGF-1R), insulin receptor (InsR), and ROS1." ([DailyMed: Zykadia (ceritinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fff5d805-4ffd-4e8e-8e63-6f129697563e), versi 2026-10-28; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, ceritinib ialah perencat kinase tirosin ALK/ROS1 dan keberkesanannya dalam NSCLC positif ALK telah dibuktikan.
 
 Namun, analisis data yang dikumpulkan untuk laporan ini **tidak menemui hubungan mekanistik** antara ceritinib dengan fibromatosis gingiva. Tiada patologi didorong ALK yang ditetapkan dalam keadaan ini. Skor TxGNN yang tinggi merupakan ramalan pengiraan semata-mata daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
@@ -138,11 +138,12 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi lengkap.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak didaftarkan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Zykadia (ceritinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fff5d805-4ffd-4e8e-8e63-6f129697563e) |
 
 <!-- review:end log -->
 

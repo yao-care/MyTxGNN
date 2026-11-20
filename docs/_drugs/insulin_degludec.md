@@ -60,7 +60,7 @@ Perlu diperhatikan bahawa ini lebih merupakan penggunaan dalam label (on-label) 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, insulin degludec ialah insulin basal analog yang mengikat reseptor insulin dan menurunkan paras glukosa darah. Keberkesanannya dalam diabetes mellitus telah terbukti, dan secara mekanistik ia sesuai untuk diabetes jenis 1.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Insulin Degludec (terjemahan tidak rasmi): “Aktiviti utama insulin, termasuk TRESIBA, ialah pengawalaturan metabolisme glukosa. Insulin dan analognya merendahkan glukosa darah dengan merangsang pengambilan glukosa periferi, terutamanya oleh otot rangka dan lemak, dan dengan merencat penghasilan glukosa hepar.” Teks asal bahasa Inggeris: "The primary activity of insulin, including TRESIBA, is regulation of glucose metabolism. Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17), versi 2024-02-22; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, insulin degludec ialah insulin basal analog yang mengikat reseptor insulin dan menurunkan paras glukosa darah. Keberkesanannya dalam diabetes mellitus telah terbukti, dan secara mekanistik ia sesuai untuk diabetes jenis 1.
 
 Diabetes jenis 1 ialah keadaan kekurangan insulin. Oleh itu, penggunaan insulin degludec di sini ialah penggunaan farmakologi teras ubat tersebut, bukan penggunaan semula yang sebenar.
 
@@ -131,6 +131,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Dapatkan sisipan pakej NPRA untuk amaran dan kontraindikasi (jurang data yang menyekat saringan keselamatan)
 - Dapatkan data mekanisme tindakan terperinci daripada DrugBank
 - Semak relevansi bukti, kerana banyak percubaan menggunakan degludec sebagai terapi latar atau pembanding sahaja
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -58,7 +58,7 @@ Corifollitropin alfa ialah analog FSH (hormon perangsang folikel) rekombinan ber
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, corifollitropin alfa ialah analog FSH bertindak panjang (subunit beta FSH yang digabungkan dengan peptida hujung-C hCG) yang bertindak pada reseptor FSH dalam tisu gonad.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Corifollitropin Alfa ialah (terjemahan tidak rasmi): “Agonis reseptor hormon perangsang folikel” Teks asal bahasa Inggeris: "Follicle stimulating hormone receptor agonist" ([ChEMBL CHEMBL2108185 (corifollitropin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108185), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat sedia ada, corifollitropin alfa ialah analog FSH bertindak panjang (subunit beta FSH yang digabungkan dengan peptida hujung-C hCG) yang bertindak pada reseptor FSH dalam tisu gonad.
 
 Tiada pautan mekanistik yang jelas dikenal pasti antara isyarat reseptor FSH dengan patologi mukosa gastroduodenum. Skor TxGNN yang tinggi (0.9965) merupakan ramalan pengiraan sahaja dan tidak boleh dianggap sebagai bukti biologi atau klinikal. Oleh sebab indikasi asal juga tidak direkodkan, hubungan antara indikasi asal dengan indikasi baharu tidak dapat dinilai.
 
@@ -116,11 +116,12 @@ Buat masa ini tiada literatur berkaitan yang tersedia.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "memandangkan ubat ini kini tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL2108185 (corifollitropin alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108185) |
 
 <!-- review:end log -->
 

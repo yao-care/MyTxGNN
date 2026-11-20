@@ -54,7 +54,7 @@ Simvastatin ialah ubat golongan statin yang, menurut hubungan yang direkodkan da
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Secara umumnya, simvastatin ialah perencat HMG-CoA reduktase yang menurunkan kolesterol, dan statin mempunyai kesan pleiotropik yang berpotensi melindungi saraf (anti-radang, menstabilkan endotelium dan plak).
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Simvastatin (terjemahan tidak rasmi): “Simvastatin ialah prodrug dan dihidrolisis kepada bentuk β-hidroksiasid aktifnya, asid simvastatin, selepas pemberian. Asid simvastatin dan metabolitnya ialah perencat HMG-CoA reduktase, enzim penentu kadar yang menukarkan HMG-CoA kepada mevalonat, iaitu prekursor kolesterol.” Teks asal bahasa Inggeris: "Simvastatin is a prodrug and is hydrolyzed to its active β-hydroxyacid form, simvastatin acid, after administration. Simvastatin acid and its metabolites are inhibitors of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol." ([DailyMed: Zocor (simvastatin) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f55d5de-5a4f-4a39-8c84-c53976dd6af9), versi 2025-03-28; diakses 2026-11-19). Secara umumnya, simvastatin ialah perencat HMG-CoA reduktase yang menurunkan kolesterol, dan statin mempunyai kesan pleiotropik yang berpotensi melindungi saraf (anti-radang, menstabilkan endotelium dan plak).
 
 Infark batang otak ialah subjenis anatomi strok iskemik. Skor tinggi ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
@@ -105,6 +105,19 @@ Ramalan infark batang otak tidak disokong oleh sebarang ujian klinikal dan tiada
 - Data mekanisme tindakan (MOA) yang terperinci
 - Amaran, kontraindikasi dan teks indikasi daripada sisipan pek NPRA
 - Pelan pemantauan keselamatan, terutamanya risiko miopati/rabdomiolisis dan interaksi ubat
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Zocor (simvastatin) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f55d5de-5a4f-4a39-8c84-c53976dd6af9) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

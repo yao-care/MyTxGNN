@@ -61,7 +61,7 @@ tetapi data yang dikompilasi untuk laporan ini tidak memuatkan **sebarang percub
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikompilasi. Bosentan diketahui sebagai antagonis reseptor endotelin dwi (ETA/ETB). Endotelin-1 dikaitkan dengan vaskulopati, keradangan sinovium dan fibrosis dalam penyakit tisu penghubung, dan ini menjadi asas kepada hipotesis bahawa menyekat laluan ini mungkin relevan kepada artritis reumatoid.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Bosentan Monohydrate (terjemahan tidak rasmi): “Bosentan ialah antagonis spesifik dan kompetitif pada reseptor endotelin jenis ET A dan ET B. Bosentan mempunyai afiniti yang sedikit lebih tinggi terhadap reseptor ET A berbanding reseptor ET B. Kesan klinikal sekatan dwi endotelin tidak diketahui.” Teks asal bahasa Inggeris: "Bosentan is a specific and competitive antagonist at endothelin receptor types ET A and ET B. Bosentan has a slightly higher affinity for ET A receptors than for ET B receptors. The clinical impact of dual endothelin blockage is unknown." ([DailyMed: Tracleer (bosentan) prescribing information, Actelion Pharmaceuticals US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=749e42fb-2fe0-45dd-9268-b43bb3f4081c), versi 2025-11-17; diakses 2026-11-19). Bosentan diketahui sebagai antagonis reseptor endotelin dwi (ETA/ETB). Endotelin-1 dikaitkan dengan vaskulopati, keradangan sinovium dan fibrosis dalam penyakit tisu penghubung, dan ini menjadi asas kepada hipotesis bahawa menyekat laluan ini mungkin relevan kepada artritis reumatoid.
 
 Namun, literatur yang diperoleh kebanyakannya membincangkan hipertensi arteri pulmonari (PAH) yang berkaitan dengan penyakit tisu penghubung, yang mana bosentan digunakan untuk merawat komplikasi vaskular. Ia tidak menunjukkan bahawa bosentan merawat penyakit sendi artritis reumatoid itu sendiri. Bukti ini oleh itu tidak langsung. Skor TxGNN yang sangat tinggi ialah ramalan model sahaja dan tidak disokong oleh percubaan khusus untuk artritis reumatoid.
 
@@ -120,6 +120,19 @@ Tiada percubaan klinikal dan tiada kajian yang menilai bosentan secara langsung 
 - Data mekanisme tindakan terperinci daripada sumber rujukan ubat
 - Percubaan klinikal fasa awal khusus untuk artritis reumatoid yang menilai bosentan
 - Penilaian risiko-manfaat, termasuk risiko teratogenik dan hepatotoksisiti, bagi populasi artritis reumatoid
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Tracleer (bosentan) prescribing information, Actelion Pharmaceuticals US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=749e42fb-2fe0-45dd-9268-b43bb3f4081c) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

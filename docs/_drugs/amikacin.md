@@ -54,7 +54,7 @@ Amikacin ialah antibiotik daripada kumpulan aminoglikosida yang digunakan terhad
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Amikacin ialah aminoglikosida dengan aktiviti terhadap bakteria gram-negatif Enterobacterales, termasuk *Salmonella*, jadi secara teori ia boleh bertindak terhadap bakteria penyebab demam paratifoid.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Amikacin (terjemahan tidak rasmi): “Amikacin, sejenis aminoglikosida, mengikat ribosom prokariot, lalu merencat sintesis protein dalam bakteria yang rentan. Ia bersifat bakterisid secara in vitro terhadap bakteria Gram-positif dan Gram-negatif.” Teks asal bahasa Inggeris: "Amikacin, an aminoglycoside, binds to the prokaryotic ribosome, inhibiting protein synthesis in susceptible bacteria. It is bactericidal in vitro against Gram-positive and Gram-negative bacteria." ([DailyMed: amikacin sulfate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f260ff2a-76a0-4672-9516-91c344b67890), versi 2026-07-27; diakses 2026-11-19). Amikacin ialah aminoglikosida dengan aktiviti terhadap bakteria gram-negatif Enterobacterales, termasuk *Salmonella*, jadi secara teori ia boleh bertindak terhadap bakteria penyebab demam paratifoid.
 
 Namun, terdapat had penting. Aminoglikosida menembusi sel dengan lemah, sedangkan *Salmonella* penyebab demam enterik bertahan di dalam sel. Oleh itu aminoglikosida tidak boleh diharapkan secara klinikal untuk demam enterik. Rawatan piawai bergantung pada fluorokuinolon, azitromisin atau sefalosporin generasi ketiga. Ramalan ini lebih bersifat aktiviti in vitro yang munasabah daripada bukti keberkesanan klinikal.
 
@@ -100,6 +100,19 @@ Tiada kajian yang menilai secara langsung keberkesanan amikacin terhadap demam p
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Kajian terkawal atau data klinikal yang membandingkan amikacin dengan rawatan piawai (fluorokuinolon, azitromisin, sefalosporin generasi ketiga)
 - Penilaian risiko-manfaat yang mengambil kira nefrotoksisiti dan ototoksisiti aminoglikosida
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: amikacin sulfate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f260ff2a-76a0-4672-9516-91c344b67890) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

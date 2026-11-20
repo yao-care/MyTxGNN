@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom hiperkelikatan polikl
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan cefuroxime tidak tersedia buat masa ini. Secara umum, cefuroxime ialah antibiotik beta-laktam yang menghalang sintesis dinding sel bakteria, dan kegunaan antibakterianya sudah lama diketahui.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Cefuroxime (terjemahan tidak rasmi): “Cefuroxime ialah agen bakterisidal yang bertindak dengan merencat sintesis dinding sel bakteria. Cefuroxime mempunyai aktiviti dengan kehadiran sesetengah beta-laktamase, kedua-dua penisilinase dan sefalosporinase, daripada bakteria Gram-negatif dan Gram-positif.” Teks asal bahasa Inggeris: "Cefuroxime is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Cefuroxime has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: cefuroxime sodium prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a145288-733a-4966-b7ae-dc96eb103d8c), versi 2025-03-27; diakses 2026-11-19). Secara umum, cefuroxime ialah antibiotik beta-laktam yang menghalang sintesis dinding sel bakteria, dan kegunaan antibakterianya sudah lama diketahui.
 
 Sindrom hiperkelikatan poliklonal pula berpunca daripada paras imunoglobulin serum yang tinggi, dan ia bukan jangkitan bakteria. Tiada mekanisme yang munasabah menghubungkan antibiotik beta-laktam dengan keadaan ini. Skor ramalan yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Ramalan ini tidak disokong oleh mana-mana ujian atau penerbitan.
 
@@ -117,6 +117,19 @@ Ramalan ini tidak mempunyai ujian klinikal atau literatur sokongan dan tiada mek
 - Sekurang-kurangnya satu kajian yang mengkaji sindrom hiperkelikatan poliklonal secara langsung
 
 Namun, ia hanyalah hubungan yang direkodkan dalam graf pengetahuan dan bukan indikasi yang diluluskan berdasarkan data pendaftaran yang dikumpulkan. Ia perlu dinilai dalam laporan berasingan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: cefuroxime sodium prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a145288-733a-4966-b7ae-dc96eb103d8c) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

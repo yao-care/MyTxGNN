@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit pseudo-von Willebran
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak terdapat dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, emicizumab menghubungkan faktor IXa (FIXa) dengan faktor X (FX) dan menggantikan fungsi kofaktor FVIIIa dalam kompleks tenase. Oleh sebab itu ia berkesan untuk hemofilia A, termasuk pesakit yang mempunyai perencat FVIII.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Emicizumab (terjemahan tidak rasmi): “HEMLIBRA menjambatani faktor IX teraktif dan faktor X untuk memulihkan fungsi faktor VIII teraktif yang tiada, yang diperlukan untuk hemostasis yang berkesan.” Teks asal bahasa Inggeris: "HEMLIBRA bridges activated factor IX and factor X to restore the function of missing activated factor VIII that is needed for effective hemostasis." ([DailyMed: Hemlibra (emicizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2483adba-fab6-4d1b-96c5-c195577ed071), versi 2025-07-11; diakses 2026-11-19). Berdasarkan maklumat sedia ada, emicizumab menghubungkan faktor IXa (FIXa) dengan faktor X (FX) dan menggantikan fungsi kofaktor FVIIIa dalam kompleks tenase. Oleh sebab itu ia berkesan untuk hemofilia A, termasuk pesakit yang mempunyai perencat FVIII.
 
 Penyakit pseudo-von Willebrand ialah gangguan jenis platelet. Ia disebabkan oleh mutasi gain-of-function pada GPIbα, yang menyebabkan kehilangan multimer VWF berat molekul tinggi. Kecacatan ini terletak pada interaksi platelet-VWF, bukan pada kekurangan FVIII atau langkah tenase FIXa/FX.
 
@@ -109,6 +109,19 @@ Ramalan lain (rank 2–4 dan 6–10) kebanyakannya tidak mempunyai sokongan meka
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank.
 - Bukti klinikal langsung untuk penyakit pseudo-von Willebrand. Tanpa bukti ini, tiada sebab untuk meneruskan penilaian indikasi ini.
 - Jika tumpuan dialihkan kepada hemofilia A terakru, semakan pendaftaran ujian klinikal (nombor NCT) dan penilaian risiko trombotik khusus populasi.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Hemlibra (emicizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2483adba-fab6-4d1b-96c5-c195577ed071) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

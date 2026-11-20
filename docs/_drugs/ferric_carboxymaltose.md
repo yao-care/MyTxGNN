@@ -60,7 +60,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, ferric carboxymaltose ialah produk besi intravena yang membetulkan defisiensi besi dan anemia kekurangan besi. Tiada kaitan mekanistik yang mantap dengan bronkitis telah ditemui.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ferric Carboxymaltose (terjemahan tidak rasmi): “Ferric carboxymaltose ialah ferum (III) hidroksida koloid dalam kompleks dengan karboksimaltosa, suatu polimer karbohidrat yang membebaskan ferum.” Teks asal bahasa Inggeris: "Ferric carboxymaltose is a colloidal iron (III) hydroxide in complex with carboxymaltose, a carbohydrate polymer that releases iron." ([DailyMed: ferric carboxymaltose prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8e8e95f4-8d3a-4658-9f6c-09edf2210341), versi 2026-09-16; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, ferric carboxymaltose ialah produk besi intravena yang membetulkan defisiensi besi dan anemia kekurangan besi. Tiada kaitan mekanistik yang mantap dengan bronkitis telah ditemui.
 
 Satu hubungan spekulatif boleh dibuat melalui status besi dan fungsi imun atau respiratori, kerana defisiensi besi boleh menjejaskan tindak balas imun. Namun, bronkitis kebanyakannya merupakan keadaan saluran udara yang bersifat berjangkit atau radang, dan suplemen besi bukan rawatan yang diterima untuknya.
 
@@ -69,7 +69,6 @@ Selain itu, besi intravena sebenarnya boleh menimbulkan kebimbangan semasa jangk
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -104,6 +103,19 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi.
 - Kajian praklinikal atau klinikal yang menilai besi intravena dalam bronkitis, termasuk risiko dalam jangkitan aktif
 - Penilaian kesesuaian laluan pentadbiran dan persamaan dengan indikasi asal
 - Status pendaftaran atau laluan akses di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: ferric carboxymaltose prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8e8e95f4-8d3a-4658-9f6c-09edf2210341) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

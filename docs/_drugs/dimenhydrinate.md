@@ -60,7 +60,7 @@ tetapi setakat ini terdapat **0 percubaan klinikal** dan hanya **1 penerbitan** 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan asal (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, dimenhydrinate ialah garam bagi diphenhydramine dan 8-chlorotheophylline. Komponen diphenhydramine menyekat reseptor histamin H1, dan kesannya dalam vertigo serta mabuk perjalanan telah dikenali. Secara mekanistik ia mungkin boleh digunakan untuk urtikaria alergik.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Dimenhydrinate (terjemahan tidak rasmi): “Walaupun cara tindakan tepat dimenhydrinate tidak diketahui, ia mempunyai tindakan depresan ke atas fungsi labirin yang terlampau dirangsang.” Teks asal bahasa Inggeris: "While the precise mode of action of dimenhydrinate is not known, it has a depressant action on hyperstimulated labyrinthine function." ([DailyMed: dimenhydrinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc71539e-1a33-4709-8a24-c2894e8dbc1c), versi 2025-01-15; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, dimenhydrinate ialah garam bagi diphenhydramine dan 8-chlorotheophylline. Komponen diphenhydramine menyekat reseptor histamin H1, dan kesannya dalam vertigo serta mabuk perjalanan telah dikenali. Secara mekanistik ia mungkin boleh digunakan untuk urtikaria alergik.
 
 Dalam urtikaria alergik, histamin yang dilepaskan melalui reseptor H1 menyebabkan tindak balas bengkak dan kemerahan (wheal-and-flare). Oleh itu, penyekatan reseptor H1 oleh komponen diphenhydramine mempunyai asas farmakologi yang munasabah. Diphenhydramine sendiri digunakan secara klinikal untuk urtikaria dan tindak balas alergik akut. Skor TxGNN yang tinggi (0.9974) selaras dengan kesan kelas antihistamin ini.
 
@@ -108,6 +108,19 @@ Maklumat tambahan daripada graf pengetahuan dan pangkalan data interaksi ubat:
 - Bukti klinikal pada manusia untuk dimenhydrinate (atau diphenhydramine) dalam urtikaria, serta perbandingan dengan antihistamin generasi kedua yang tidak menyebabkan kantuk
 - Penilaian status pendaftaran dan ketersediaan produk di Malaysia, termasuk kesesuaian laluan pemberian dan bentuk dos
 - Pelan pemantauan keselamatan, terutamanya bagi pesakit dengan keadaan kontraindikasi yang disenaraikan dan mereka yang mengambil ubat antikolinergik, opioid, atau suplemen kalium
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: dimenhydrinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc71539e-1a33-4709-8a24-c2894e8dbc1c) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

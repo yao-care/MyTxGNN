@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada literatur** yang m
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, moxonidine ialah agonis pusat bagi reseptor imidazolin I1 dan reseptor adrenergik alfa-2 yang mengurangkan aliran keluar simpatetik. Data farmakologi yang dikumpulkan menunjukkan ia berinteraksi dengan reseptor alfa-2A, alfa-2B dan alfa-2C (ADRA2A, ADRA2B, ADRA2C).
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Moxonidine ialah (terjemahan tidak rasmi): “Agonis nischarin” Teks asal bahasa Inggeris: "Nischarin agonist" ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, moxonidine ialah agonis pusat bagi reseptor imidazolin I1 dan reseptor adrenergik alfa-2 yang mengurangkan aliran keluar simpatetik. Data farmakologi yang dikumpulkan menunjukkan ia berinteraksi dengan reseptor alfa-2A, alfa-2B dan alfa-2C (ADRA2A, ADRA2B, ADRA2C).
 
 Hipotrikosis simpleks kulit kepala ialah gangguan genetik folikel rambut (contohnya varian CDSN, APCDD1, SNRPE) dan tiada hubungan diketahui dengan laluan ini. **Tiada hubungan mekanistik yang disokong.** Skor model TxGNN (deep learning) yang sangat tinggi mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi atau klinikal.
 
@@ -73,7 +73,6 @@ Pada masa ini tiada literatur berkaitan tersedia untuk hipotrikosis simpleks kul
 (Untuk rujukan: bagi ramalan alopesia (kedudukan 4), satu laporan kes [PMID 40007390](https://pubmed.ncbi.nlm.nih.gov/40007390/) mengenai sindrom Graham-Little-Piccardi-Lasseur diperoleh, tetapi ia tidak mengkaji moxonidine dan tidak dianggap sebagai bukti sokongan.)
 
 ## Maklumat Pasaran Malaysia
-
 
 ## Pertimbangan Keselamatan
 
@@ -94,6 +93,19 @@ Sila rujuk risalah maklumat produk untuk maklumat keselamatan lain.
 - Kajian praklinikal atau mekanistik yang menghubungkan laluan alfa-2/imidazolin I1 dengan biologi folikel rambut
 - Penilaian kesesuaian laluan pentadbiran (contohnya topikal berbanding sistemik)
 - Jika mahu meneruskan penerokaan, pertimbangkan ramalan L4 (hipertensi renovaskular malignan dan penyakit renal hipertensif malignan) sebagai persoalan penyelidikan, dengan mengambil kira bahawa ia bertindih dengan indikasi asal
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -60,7 +60,7 @@ dengan **3 ujian klinikal** (2 ujian Fasa 2 dan 1 kajian kohort) serta **6 pener
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan daripada pangkalan data ubat tidak tersedia buat masa ini. Namun, vinorelbine diketahui sebagai alkaloid vinca yang merencat pempolimeran mikrotubul, menyebabkan penahanan mitosis dan apoptosis dalam sel yang membahagi dengan pantas. Keberkesanannya dalam NSCLC telah dibuktikan, dan secara mekanistik ia mungkin boleh digunakan untuk tumor lain yang membahagi dengan cepat.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Vinorelbine (terjemahan tidak rasmi): “Vinorelbine ialah alkaloid vinca yang mengganggu pemasangan mikrotubul. Aktiviti antitumor vinorelbine dipercayai disebabkan terutamanya oleh perencatan mitosis pada metafasa melalui interaksinya dengan tubulin. Vinorelbine juga mungkin mengganggu: 1) metabolisme asid amino, AMP siklik dan glutation, 2) aktiviti ATPase pengangkutan Ca++ yang bergantung kepada kalmodulin, 3) respirasi sel, dan 4) biosintesis asid nukleik dan lipid.” Teks asal bahasa Inggeris: "Vinorelbine is a vinca alkaloid that interferes with microtubule assembly. The antitumor activity of vinorelbine is thought to be due primarily to inhibition of mitosis at metaphase through its interaction with tubulin. Vinorelbine may also interfere with: 1) amino acid, cyclic AMP and glutathione metabolism, 2) calmodulin-dependent Ca++-transport ATPase activity, 3) cellular respiration, and 4) nucleic acid and lipid biosynthesis." ([DailyMed: vinorelbine prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10a70995-e04d-4044-b1dc-c9aa27460397), versi 2024-08-16; diakses 2026-11-19). Namun, vinorelbine diketahui sebagai alkaloid vinca yang merencat pempolimeran mikrotubul, menyebabkan penahanan mitosis dan apoptosis dalam sel yang membahagi dengan pantas. Keberkesanannya dalam NSCLC telah dibuktikan, dan secara mekanistik ia mungkin boleh digunakan untuk tumor lain yang membahagi dengan cepat.
 
 Bagi Sarkoma Ewing, vinorelbine yang digabungkan dengan siklofosfamid dos rendah berterusan (metronomik) telah menunjukkan aktiviti dalam sarkoma kanak-kanak yang kambuh atau refraktori. Kajian praklinikal juga melaporkan sinergi antara ubat pengganggu mikrotubul (termasuk vinorelbine) dengan perencat PLK1 dalam sel Ewing. Skor TxGNN yang sangat tinggi selaras dengan isyarat klinikal ini.
 
@@ -144,11 +144,12 @@ Indikasi peringkat lebih rendah berada pada status **Hold**: fibromatosis gingiv
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "(ubat ini tidak berdaftar di Malaysia, jadi laluan akses seperti pendaftaran atau penggunaan khas perlu dinilai)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: vinorelbine prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10a70995-e04d-4044-b1dc-c9aa27460397) |
 
 <!-- review:end log -->
 

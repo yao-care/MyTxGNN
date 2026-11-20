@@ -54,7 +54,7 @@ Norelgestromin ialah progestin (metabolit aktif norgestimat) yang biasanya digun
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, norelgestromin ialah progestin yang bertindak sebagai agonis reseptor progesteron. Ia merupakan metabolit aktif norgestimat dan lazimnya diberikan dalam tampalan kontraseptif gabungan bersama etinilestradiol.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi norelgestromin and ethinyl estradiol (ubat gabungan yang mengandungi Norelgestromin) (terjemahan tidak rasmi): “NGMN ialah progestin aktif yang sebahagian besarnya bertanggungjawab bagi aktiviti progestational yang berlaku pada wanita selepas penggunaan sistem transdermal norelgestromin dan etinil estradiol.” Teks asal bahasa Inggeris: "NGMN is the active progestin largely responsible for the progestational activity that occurs in women following application of norelgestromin and ethinyl estradiol transdermal system." ([DailyMed: norelgestromin and ethinyl estradiol prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10fa1458-c8ed-4197-922a-1ba7271d2b02), versi 2026-04-16; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, norelgestromin ialah progestin yang bertindak sebagai agonis reseptor progesteron. Ia merupakan metabolit aktif norgestimat dan lazimnya diberikan dalam tampalan kontraseptif gabungan bersama etinilestradiol.
 
 Progestin digunakan secara klinikal untuk mencetuskan pendarahan putus (withdrawal bleeding) dalam amenorea sekunder serta mengurus gangguan haid berkaitan hormon. Oleh itu, ramalan TxGNN (skor 0.9951) munasabah dari segi biologi.
 
@@ -107,11 +107,12 @@ Ramalan hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau literatur
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "tidak didaftarkan di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: norelgestromin and ethinyl estradiol prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10fa1458-c8ed-4197-922a-1ba7271d2b02) |
 
 <!-- review:end log -->
 

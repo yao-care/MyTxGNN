@@ -59,7 +59,7 @@ Ofatumumab ialah antibodi monoklonal manusia anti-CD20. Dalam graf pengetahuan, 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Ofatumumab ialah antibodi monoklonal manusia sepenuhnya yang mensasarkan CD20. Ia mengikat epitop berhampiran membran pada CD20 dan mendorong sitotoksisiti bersandarkan komplemen (CDC) serta sitotoksisiti selular bersandarkan antibodi (ADCC). Data mekanisme tindakan terperinci daripada DrugBank tidak tersedia, tetapi kelas mekanisme ini sama dengan rituximab.
+Ofatumumab ialah antibodi monoklonal manusia sepenuhnya yang mensasarkan CD20. Ia mengikat epitop berhampiran membran pada CD20 dan mendorong sitotoksisiti bersandarkan komplemen (CDC) serta sitotoksisiti selular bersandarkan antibodi (ADCC). Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ofatumumab (terjemahan tidak rasmi): “Mekanisme tepat bagaimana ofatumumab memberikan kesan terapeutiknya dalam sklerosis berbilang tidak diketahui, tetapi dianggap melibatkan pengikatan kepada CD20, suatu antigen permukaan sel yang terdapat pada limfosit pra-B dan limfosit B matang. Selepas pengikatan pada permukaan sel limfosit B, ofatumumab mengakibatkan sitolisis selular bergantung antibodi dan lisis diperantarakan komplemen.” Teks asal bahasa Inggeris: "The precise mechanism by which ofatumumab exerts its therapeutic effects in multiple sclerosis is unknown, but is presumed to involve binding to CD20, a cell surface antigen present on pre-B and mature B lymphocytes. Following cell surface binding to B lymphocytes, ofatumumab results in antibody-dependent cellular cytolysis and complement-mediated lysis." ([DailyMed: Kesimpta (ofatumumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a8a3f53-2062-48ff-9dbe-b939df133ca3), versi 2026-04-01; diakses 2026-11-19).
 
 Limfoma folikular ialah keganasan sel B yang menzahirkan CD20, jadi sasaran ubat terdapat terus pada sel tumor. Indikasi asal yang direkodkan (keganasan sel B seperti leukemia limfoblastik/limfositik dan sindrom Richter) berkongsi sasaran molekul yang sama. Aktiviti dalam penyakit refraktori terhadap rituximab turut dilaporkan, dan skor TxGNN yang sangat tinggi selaras dengan rasional biologi ini.
 
@@ -157,6 +157,19 @@ Beberapa ujian fasa 2 yang selesai, termasuk ujian rawak (CALGB 50904) dan kajia
 | Histiositosis sel Langerhans | 0.9934 | L5 | Tahan |
 
 Bagi neoplasma metastatik, hanya satu kajian perintis fasa 2 kecil (n=10) dalam melanoma metastatik yang ditemui, manakala dua penerbitan yang diperoleh berkaitan CLL dan penjimatan kos, bukan keberkesanan dalam kanser metastatik. Tiada kajian yang mengkaji penyakit itu secara langsung, maka tahap bukti ialah L5. Bagi spiradenoma malignan dan histiositosis sel Langerhans, tiada ujian atau literatur ditemui dan rasional anti-CD20 lemah.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Kesimpta (ofatumumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a8a3f53-2062-48ff-9dbe-b939df133ca3) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

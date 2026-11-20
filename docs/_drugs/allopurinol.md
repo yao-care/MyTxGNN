@@ -55,7 +55,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Porfiria hepatik (hepatic por
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan allopurinol tidak tersedia dalam data yang dihimpunkan. Secara umumnya, allopurinol diketahui sebagai perencat xantina oksidase, enzim dalam laluan metabolisme purin.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Allopurinol (terjemahan tidak rasmi): “Allopurinol ialah analog struktur bagi bes purina semula jadi, hipoksantina. Allopurinol dan metabolitnya oxypurinol merencat xantina oksidase, enzim yang bertanggungjawab untuk penukaran hipoksantina kepada xantina dan xantina kepada asid urik, iaitu hasil akhir metabolisme purina pada manusia.” Teks asal bahasa Inggeris: "Allopurinol is a structural analogue of the natural purine base, hypoxanthine. Allopurinol and its oxypurinol metabolite inhibitor xanthine oxidase, the enzyme responsible for the conversion of hypoxanthine to xanthine and of xanthine to uric acid, the end product of purine metabolism in humans." ([DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449), versi 2022-02-18; diakses 2026-11-19). Secara umumnya, allopurinol diketahui sebagai perencat xantina oksidase, enzim dalam laluan metabolisme purin.
 
 Hubungan mekanistik dengan porfiria hepatik adalah tidak langsung dan lemah. Literatur lama menunjukkan allopurinol boleh menjejaskan metabolisme hem hati dalam model rodensia, yang berpotensi memudaratkan dan bukan bersifat terapeutik dalam porfiria. Kertas hipotesis 2019 membincangkan penyasaran metabolik 5-aminolevulinat sintase dan tidak menunjukkan sebarang peranan allopurinol.
 
@@ -98,6 +98,19 @@ Tiada ujian klinikal dan tiada kajian yang mengkaji allopurinol secara langsung 
 - Kajian praklinikal yang menilai kesan allopurinol terhadap sintesis hem dan 5-ALA sintase dalam model porfiria.
 - Penilaian keselamatan khusus, memandangkan risiko pencetusan serangan porfiria dan kontraindikasi penyakit hati.
 - Butiran lesen tempatan (nombor kebenaran, bentuk dosej) untuk penilaian pasaran.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

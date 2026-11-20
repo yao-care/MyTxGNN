@@ -60,7 +60,7 @@ Setakat ini terdapat **0 ujian klinikal** dan **1 penerbitan** yang menyokong su
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, venetoclax ialah perencat BCL-2. Keberkesanannya telah dibuktikan dalam keganasan sel B yang lain, dan secara mekanistik ia mungkin sesuai untuk CLL/SLL jenis pra-pusat germinal.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Venetoclax (terjemahan tidak rasmi): “Venetoclax ialah perencat molekul kecil BCL-2 yang selektif dan bioboleh didapati secara oral, iaitu sejenis protein anti-apoptotik. Ekspresi berlebihan BCL-2 telah ditunjukkan dalam sel CLL dan AML yang mana ia mengantara kemandirian sel tumor dan telah dikaitkan dengan kerintangan terhadap agen kemoterapeutik.” Teks asal bahasa Inggeris: "Venetoclax is a selective and orally bioavailable small-molecule inhibitor of BCL-2, an anti-apoptotic protein. Overexpression of BCL-2 has been demonstrated in CLL and AML cells where it mediates tumor cell survival and has been associated with resistance to chemotherapeutics." ([DailyMed: Venclexta (venetoclax) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b118a40d-6b56-cee3-10f6-ded821a97018), versi 2026-05-20; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, venetoclax ialah perencat BCL-2. Keberkesanannya telah dibuktikan dalam keganasan sel B yang lain, dan secara mekanistik ia mungkin sesuai untuk CLL/SLL jenis pra-pusat germinal.
 
 Sel CLL/SLL bergantung pada pengekspresan berlebihan BCL-2 untuk terus hidup, jadi menyekat BCL-2 boleh mencetuskan kematian sel kanser. Indikasi asal (leukemia limfoid dan sindrom Richter) juga merupakan keganasan sel limfoid, jadi terdapat persamaan biologi dengan indikasi baharu ini.
 
@@ -127,6 +127,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Maklumat keselamatan daripada sisipan pakej, termasuk amaran dan kontraindikasi.
 - Pengesahan status pendaftaran dan ketersediaan produk di Malaysia (NPRA).
 - Pelan pengurusan interaksi ubat (CYP3A/P-gp) serta pemantauan sindrom lisis tumor dan sitopenia.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Venclexta (venetoclax) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b118a40d-6b56-cee3-10f6-ded821a97018) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

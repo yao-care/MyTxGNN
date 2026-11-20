@@ -54,7 +54,7 @@ Sunitinib ialah perencat kinase tirosina reseptor berbilang sasaran (VEGFR, PDGF
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia daripada pangkalan data rujukan. Berdasarkan pengetahuan am, sunitinib menyekat reseptor tirosina kinase seperti VEGFR dan PDGFR. Dengan itu, ia boleh menghalang angiogenesis tumor dan isyarat pertumbuhan sel tumor.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Sunitinib (terjemahan tidak rasmi): “Sunitinib ialah molekul kecil yang merencat pelbagai reseptor tirosina kinase (RTK), sebahagiannya terlibat dalam pertumbuhan tumor, angiogenesis patologi dan perkembangan metastatik kanser.” Teks asal bahasa Inggeris: "Sunitinib is a small molecule that inhibits multiple receptor tyrosine kinases (RTKs), some of which are implicated in tumor growth, pathologic angiogenesis, and metastatic progression of cancer." ([DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c), versi 2026-02-20; diakses 2026-11-19). Berdasarkan pengetahuan am, sunitinib menyekat reseptor tirosina kinase seperti VEGFR dan PDGFR. Dengan itu, ia boleh menghalang angiogenesis tumor dan isyarat pertumbuhan sel tumor.
 
 Laluan VEGF dan PDGFR dipercayai menyumbang kepada pertumbuhan sarkoma tisu lembut, termasuk liposarkoma. Mekanisme ini wajar untuk dikaji dalam liposarkoma. Namun, pautan mekanistik ini disimpulkan daripada pengetahuan am dan bukan daripada set data yang dibekalkan, jadi ia perlu disahkan.
 
@@ -119,6 +119,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah pakej.
 - Hasil terperinci subkumpulan liposarkoma daripada NCT00474994 dan NCT00400569.
 - Pengesahan indikasi lesen tempatan, kerana teks indikasi lesen kosong dalam data yang dikumpulkan.
 - Pelan pemantauan keselamatan, termasuk pengurusan interaksi ubat bertahap Major dan Sederhana.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

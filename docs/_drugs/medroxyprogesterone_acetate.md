@@ -54,7 +54,7 @@ Medroxyprogesterone acetate ialah progestin sintetik yang telah didaftarkan di M
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia. Berdasarkan maklumat yang diketahui, medroxyprogesterone acetate ialah sejenis progestin, dan perubahan fibrosistik pada payudara responsif terhadap hormon. Progestin pernah digunakan pada masa lalu untuk mengubah suai mastalgia dan perubahan sista, jadi pertalian secara mekanisme boleh difikirkan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Medroxyprogesterone Acetate (terjemahan tidak rasmi): “Depo-Provera CI (medroxyprogesterone acetate [MPA]) merencat rembesan gonadotropin yang terutamanya menghalang pematangan folikel dan ovulasi serta menyebabkan penebalan mukus serviks. Tindakan-tindakan ini menyumbang kepada kesan kontraseptifnya.” Teks asal bahasa Inggeris: "Depo-Provera CI (medroxyprogesterone acetate [MPA]) inhibits the secretion of gonadotropins which primarily prevents follicular maturation and ovulation and causes thickening of cervical mucus. These actions contribute to its contraceptive effect." ([DailyMed: Depo-Provera (medroxyprogesterone acetate) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=199cf13e-0859-4a73-9b45-e700d0cd1049), versi 2026-08-25; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, medroxyprogesterone acetate ialah sejenis progestin, dan perubahan fibrosistik pada payudara responsif terhadap hormon. Progestin pernah digunakan pada masa lalu untuk mengubah suai mastalgia dan perubahan sista, jadi pertalian secara mekanisme boleh difikirkan.
 
 Namun, arah mekanisme ini tidak jelas dan mungkin tidak menguntungkan. Medroxyprogesterone acetate umumnya dikaitkan dengan percambahan tisu payudara dan peningkatan risiko kanser payudara apabila digunakan dalam terapi hormon gabungan. Tiada ujian klinikal atau penerbitan yang diperoleh untuk menyokong keberkesanannya dalam penyakit ini, maka bukti hanyalah ramalan model.
 
@@ -96,6 +96,18 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA
 - Kajian praklinikal atau klinikal yang menilai keberkesanan dan keselamatan payudara dalam penyakit fibrosistik
 - Penilaian risiko payudara yang teliti sebelum sebarang kajian lanjut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Depo-Provera (medroxyprogesterone acetate) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=199cf13e-0859-4a73-9b45-e700d0cd1049) |
+
+<!-- review:end log -->
 
 ## Penafian
 

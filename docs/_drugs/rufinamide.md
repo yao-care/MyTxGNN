@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** dalam dat
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan am, rufinamide ialah modulator saluran natrium yang memanjangkan keadaan tidak aktif saluran natrium bergantung voltan, dan telah diluluskan untuk sawan dalam sindrom Lennox-Gastaut. Oleh itu, secara mekanisme ia mungkin boleh digunakan untuk epilepsi refraktori yang teruk lain.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Rufinamide (terjemahan tidak rasmi): “Mekanisme tepat yang melaluinya rufinamid memberikan kesan antiepilepsinya tidak diketahui. Keputusan kajian in vitro mencadangkan bahawa mekanisme tindakan utama rufinamid ialah modulasi aktiviti saluran natrium dan, khususnya, pemanjangan keadaan tidak aktif saluran tersebut.” Teks asal bahasa Inggeris: "The precise mechanism(s) by which rufinamide exerts its antiepileptic effect is unknown. The results of in vitro studies suggest that the principal mechanism of action of rufinamide is modulation of the activity of sodium channels and, in particular, prolongation of the inactive state of the channel." ([DailyMed: Banzel (rufinamide) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a3fa925-1abd-458a-bd57-4ae780a1ef2d), versi 2022-12-15; diakses 2026-11-19). Berdasarkan pengetahuan am, rufinamide ialah modulator saluran natrium yang memanjangkan keadaan tidak aktif saluran natrium bergantung voltan, dan telah diluluskan untuk sawan dalam sindrom Lennox-Gastaut. Oleh itu, secara mekanisme ia mungkin boleh digunakan untuk epilepsi refraktori yang teruk lain.
 
 FIRES ialah epilepsi refraktori yang teruk selepas penyakit demam. Ia dipercayai didorong sebahagian besarnya oleh keradangan saraf (neuroinflamasi), maka penyekatan saluran natrium sahaja berkemungkinan tidak mencukupi untuk menanganinya. Hubungan mekanisme ini munasabah tetapi belum disahkan.
 
@@ -110,11 +110,12 @@ Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia; sila ruju
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Banzel (rufinamide) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a3fa925-1abd-458a-bd57-4ae780a1ef2d) |
 
 <!-- review:end log -->
 

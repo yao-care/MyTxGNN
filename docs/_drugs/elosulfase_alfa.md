@@ -58,7 +58,7 @@ Elosulfase alfa ialah terapi penggantian enzim (ERT) yang pada asalnya digunakan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, elosulfase alfa ialah enzim rekombinan N-asetilgalaktosamina-6-sulfatase yang menguraikan keratan sulfat dan kondroitin-6-sulfat. Keberkesanannya dalam MPS IVA telah dibuktikan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Elosulfase Alfa (terjemahan tidak rasmi): “Mukopolisakaridosis merangkumi sekumpulan gangguan penyimpanan lisosom yang disebabkan oleh kekurangan enzim lisosom khusus yang diperlukan untuk katabolisme glikosaminoglikan (GAG). Mukopolisakaridosis IVA (MPS IVA, Sindrom Morquio A) dicirikan oleh ketiadaan atau pengurangan ketara aktiviti N -asetilgalaktosamina-6-sulfatase. […] Pengambilan elosulfase alfa oleh sel ke dalam lisosom diantara oleh pengikatan rantai oligosakarida berterminal manosa-6-fosfat elosulfase alfa kepada reseptor manosa-6-fosfat.” Teks asal bahasa Inggeris: "Mucopolysaccharidoses comprise a group of lysosomal storage disorders caused by the deficiency of specific lysosomal enzymes required for the catabolism of glycosaminoglycans (GAG). Mucopolysaccharidosis IVA (MPS IVA, Morquio A Syndrome) is characterized by the absence or marked reduction in N -acetylgalactosamine-6-sulfatase activity. […] Elosulfase alfa uptake by cells into lysosomes is mediated by the binding of mannose-6-phosphate-terminated oligosaccharide chains of elosulfase alfa to mannose-6-phosphate receptors." ([DailyMed: Vimizim (elosulfase alfa) prescribing information, BioMarin Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0caa2565-12b2-0ad0-1f9a-273e81c3d4cc), versi 2025-10-30; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, elosulfase alfa ialah enzim rekombinan N-asetilgalaktosamina-6-sulfatase yang menguraikan keratan sulfat dan kondroitin-6-sulfat. Keberkesanannya dalam MPS IVA telah dibuktikan.
 
 Sindrom Scheie (bentuk MPS I yang lebih ringan) disebabkan oleh kekurangan alfa-L-iduronidase, yang menyebabkan pengumpulan dermatan sulfat dan heparan sulfat. Enzim dan substrat ini berbeza daripada elosulfase alfa, maka ubat ini **tidak menggantikan enzim yang kurang**. Skor TxGNN yang tinggi berkemungkinan mencerminkan ciri kelas MPS yang dikongsi, bukan padanan mekanisme sebenar. Oleh itu, kemunasabahan mekanisme adalah **rendah**.
 
@@ -99,6 +99,19 @@ Sila rujuk risalah maklumat produk untuk maklumat keselamatan. Tiada interaksi u
 - Data praklinikal atau percubaan klinikal yang menunjukkan aktiviti terhadap Sindrom Scheie
 - Pertimbangan terapi sedia ada yang lebih sesuai (ERT khusus MPS I)
 - Penilaian laluan pentadbiran dan status pendaftaran di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Vimizim (elosulfase alfa) prescribing information, BioMarin Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0caa2565-12b2-0ad0-1f9a-273e81c3d4cc) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

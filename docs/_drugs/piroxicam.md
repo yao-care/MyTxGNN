@@ -61,7 +61,7 @@ Perlu diingat bahawa penggunaan NSAID dalam JIA sudah wujud, jadi ini bukan peng
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan umum, piroxicam ialah perencat COX-1/COX-2 yang tidak selektif. Perencatan ini mengurangkan sintesis prostaglandin, lalu mengurangkan keradangan sendi, kesakitan dan kekakuan, iaitu mekanisme simptomatik yang munasabah dalam JIA.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Piroxicam (terjemahan tidak rasmi): “Piroksikam mempunyai sifat analgesik, anti-radang, dan antipiretik. Mekanisme tindakan Kapsul Piroksikam, seperti NSAID lain, tidak difahami sepenuhnya tetapi melibatkan perencatan siklooksigenase (COX-1 dan COX-2).” Teks asal bahasa Inggeris: "Piroxicam has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of Piroxicam Capsules, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: piroxicam prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41425352-2a59-43ef-bccc-f8cc69e72be4), versi 2026-09-29; diakses 2026-11-19). Berdasarkan pengetahuan umum, piroxicam ialah perencat COX-1/COX-2 yang tidak selektif. Perencatan ini mengurangkan sintesis prostaglandin, lalu mengurangkan keradangan sendi, kesakitan dan kekakuan, iaitu mekanisme simptomatik yang munasabah dalam JIA.
 
 Piroxicam mempunyai separuh hayat yang panjang sehingga membolehkan dos sekali sehari. Data farmakokinetik pada kanak-kanak juga wujud (PMID 1782984, separuh hayat purata sekitar 32.6 jam). Walau bagaimanapun, piroxicam bukan agen pengubah penyakit. Rawatan JIA semasa bergantung pada DMARD dan agen biologi, jadi peranannya hanya sebagai adjunk dan simptomatik.
 
@@ -129,6 +129,19 @@ Terdapat penerbitan yang mengkaji piroxicam secara langsung dalam JIA (dua kajia
 - Data mekanisme tindakan (contohnya daripada DrugBank)
 - Semakan kedudukan piroxicam dalam garis panduan JIA semasa berbanding NSAID lain, DMARD dan agen biologi
 - Pertimbangan keselamatan paediatrik, termasuk risiko gastrousus, buah pinggang dan kulit
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: piroxicam prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41425352-2a59-43ef-bccc-f8cc69e72be4) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -62,7 +62,7 @@ dengan **3 percubaan klinikal** dan **20 penerbitan** yang menyokong arah ini.
 
 Propofol ialah modulator alosterik positif reseptor GABA-A. Peningkatan perencatan GABAergik berpotensi meredakan hipereksitabiliti korteks dan sistem trigeminovaskular serta menyekat *cortical spreading depression* (disokong oleh kajian praklinikal dengan propofol hemisuccinate). Ini memberi asas yang munasabah untuk menamatkan serangan migrain refraktori dengan pantas.
 
-Perlu diingat, bukti hanya terhad kepada penggunaan akut, dos rendah dan di bawah penyeliaan di jabatan kecemasan. Ia bukan terapi kronik atau pencegahan. Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Perlu diingat, bukti hanya terhad kepada penggunaan akut, dos rendah dan di bawah penyeliaan di jabatan kecemasan. Ia bukan terapi kronik atau pencegahan. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Propofol (terjemahan tidak rasmi): “Mekanisme tindakan, seperti semua anestetik am, kurang difahami. Walau bagaimanapun, propofol dipercayai menghasilkan kesan sedatif/anestetiknya melalui modulasi positif fungsi perencatan neurotransmiter GABA melalui reseptor GABA A berpagar ligan.” Teks asal bahasa Inggeris: "The mechanism of action, like all general anesthetics, is poorly understood. However, propofol is thought to produce its sedative/anesthetic effects by the positive modulation of the inhibitory function of the neurotransmitter GABA through the ligand-gated GABA A receptors." ([DailyMed: Diprivan (propofol) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3105799-a4b6-f3f4-e6e2-b2b29bbdb538), versi 2025-09-11; diakses 2026-11-19).
 
 Ramalan lain dalam senarai (migrain dengan aura batang otak, angina Prinzmetal, sindrom antidiuresis tidak wajar nefrogenik, sindrom Tourette) mempunyai bukti yang lemah atau tidak bersandarkan faedah terapeutik, dan tidak dijadikan fokus laporan ini.
 
@@ -117,6 +117,19 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi yang lengkap.
 - Data mekanisme tindakan terperinci daripada DrugBank
 - Semakan keputusan RCT utama (kesan, kadar kambuhan, kejadian buruk)
 - Protokol keselamatan untuk populasi khas (pediatrik, pesakit dengan epilepsi, hipotensi atau kegagalan pernafasan)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Diprivan (propofol) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3105799-a4b6-f3f4-e6e2-b2b29bbdb538) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -60,7 +60,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada literatur khusus**
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan litium karbonat tidak tersedia dalam data yang disusun untuk laporan ini. Berdasarkan maklumat sedia ada, litium diketahui menghalang GSK-3 dan mempengaruhi isyarat Wnt/beta-catenin, dan kesannya dalam gangguan bipolar telah dibuktikan. Secara teori, laluan ini boleh mempengaruhi fungsi kondrosit dan pertumbuhan rangka.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Lithium Carbonate (terjemahan tidak rasmi): “Mekanisme tindakan litium sebagai agen penstabil mood tidak diketahui.” Teks asal bahasa Inggeris: "The mechanism of action of lithium as a mood stabilizing agent is unknown." ([DailyMed: Lithium Carbonate Lithium Carbonate (lithium carbonate) prescribing information, Alembic Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ca2b977-b94c-4232-9b7e-835db97c9544), versi 2022-11-03; diakses 2026-11-19). Berdasarkan maklumat sedia ada, litium diketahui menghalang GSK-3 dan mempengaruhi isyarat Wnt/beta-catenin, dan kesannya dalam gangguan bipolar telah dibuktikan. Secara teori, laluan ini boleh mempengaruhi fungsi kondrosit dan pertumbuhan rangka.
 
 Pseudoachondroplasia disebabkan oleh mutasi gen COMP yang menyebabkan protein salah lipatan tertahan dalam retikulum endoplasma dan tekanan pada kondrosit. Tiada data yang dibekalkan menyokong hubungan langsung antara litium dengan patologi COMP ini. Skor tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
@@ -81,7 +81,6 @@ Pada masa ini tiada literatur berkaitan untuk pseudoachondroplasia.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -114,6 +113,19 @@ Sila rujuk risalah maklumat produk untuk maklumat keselamatan yang lengkap, kera
 ---
 
 *Nota: Calon lain yang diramalkan (contohnya displasia akromesomelik jenis Hunter-Thompson, brakiolmia, sindrom Behr, sindrom WHIM) juga berada pada tahap bukti L5 dengan keputusan Hold, tanpa percubaan klinikal; satu-satunya literatur yang ditemui ialah ulasan umum mengenai gangguan rangka genetik (PMID 31888683) yang tidak mengkaji litium secara khusus.*
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lithium Carbonate Lithium Carbonate (lithium carbonate) prescribing information, Alembic Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ca2b977-b94c-4232-9b7e-835db97c9544) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

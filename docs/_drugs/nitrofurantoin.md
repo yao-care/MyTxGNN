@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **artritis reumatoid** dengan s
 
 ## Mengapa Ramalan Ini Dibuat?
 
-Data mekanisme tindakan (MOA) tidak tersedia pada masa ini. Tiada mekanisme terapeutik untuk artritis reumatoid dapat ditubuhkan berdasarkan data yang dikumpulkan.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Nitrofurantoin (terjemahan tidak rasmi): “Nitrofurantoin ialah ubat antibakteria. […] Nitrofurantoin diturunkan oleh pelbagai enzim termasuk flavoprotein bakteria kepada perantara reaktif yang merosakkan makromolekul seperti DNA dan protein.” Teks asal bahasa Inggeris: "Nitrofurantoin is an antibacterial drug. […] Nitrofurantoin is reduced by a wide range of enzymes including bacterial flavoproteins to reactive intermediates which are damaging to macromolecules such as DNA and proteins." ([DailyMed: nitrofurantoin prescribing information, Somerset Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd99ba40-edff-47c3-9ee4-7e5b7774e5b5), versi 2026-01-22; diakses 2026-11-19). Tiada mekanisme terapeutik untuk artritis reumatoid dapat ditubuhkan berdasarkan data yang dikumpulkan.
 
 Literatur yang diperoleh menunjukkan nitrofurantoin sebagai punca kesan sampingan (fibrosis pulmonari, interaksi dengan metotreksat) pada pesakit RA, atau pendedahan antibiotik sebagai pencetus kambuhan RA. Laporan sedemikian menunjukkan kemudaratan, bukan manfaat. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
@@ -127,11 +127,12 @@ Amaran dan kontraindikasi daripada sisipan pakej tidak tersedia; sila rujuk sisi
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: nitrofurantoin prescribing information, Somerset Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd99ba40-edff-47c3-9ee4-7e5b7774e5b5) |
 
 <!-- review:end log -->
 

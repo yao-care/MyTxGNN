@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Edaravone secara amnya diketahui sebagai penyental radikal bebas yang mengurangkan tekanan oksidatif. Kesannya dalam strok iskemia dan ALS telah dikaitkan dengan sifat ini, dan secara teori ia mungkin berkaitan dengan keadaan berkaitan trombosis.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Edaravone (terjemahan tidak rasmi): “Mekanisme yang melaluinya suntikan edaravone memberikan kesan terapeutiknya pada pesakit ALS tidak diketahui.” Teks asal bahasa Inggeris: "The mechanism by which edaravone injection exert its therapeutic effect in patients with ALS is unknown." ([DailyMed: edaravone prescribing information, Piramal Critical Care Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19862ae9-d6e1-70e6-e063-6394a90ae749), versi 2025-10-07; diakses 2026-11-19). Edaravone secara amnya diketahui sebagai penyental radikal bebas yang mengurangkan tekanan oksidatif. Kesannya dalam strok iskemia dan ALS telah dikaitkan dengan sifat ini, dan secara teori ia mungkin berkaitan dengan keadaan berkaitan trombosis.
 
 Namun, kekurangan kofaktor heparin 2 ialah gangguan trombofilik akibat penurunan perencatan trombin yang bergantung pada dermatan sulfat. Tindakan antioksidan edaravone tidak menangani kekurangan ini, jadi hubungan mekanistik yang dicadangkan hanyalah spekulatif. Skor TxGNN yang tinggi (0.9947) merupakan ramalan komputasi semata-mata dan tidak disokong oleh bukti percubaan atau literatur.
 
@@ -98,11 +98,12 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan. Pada masa ini tiada data in
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Edaravone tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: edaravone prescribing information, Piramal Critical Care Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19862ae9-d6e1-70e6-e063-6394a90ae749) |
 
 <!-- review:end log -->
 

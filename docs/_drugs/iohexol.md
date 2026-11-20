@@ -58,7 +58,7 @@ Iohexol ialah agen kontras radiografi beryodium bukan ionik yang digunakan dalam
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data terperinci tentang mekanisme tindakan tidak tersedia. Iohexol ialah agen kontras beryodium bukan ionik untuk pengimejan radiografi, dan tiada aktiviti farmakologi yang diketahui pada sasaran sistem saraf pusat yang terlibat dalam pengawalaturan tidur (contohnya GABA-A, orexin, histamin H1 atau reseptor melatonin).
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Iohexol (terjemahan tidak rasmi): “Atom iodin dalam iohexol menyebabkan pengecilan sinar-X yang berkadar langsung dengan kepekatan iohexol. Oleh sebab kepekatan berubah mengikut masa, iohexol memberikan kontras imej yang bergantung pada masa yang boleh membantu dalam visualisasi struktur badan.” Teks asal bahasa Inggeris: "The iodine atoms in iohexol provide attenuation of X-rays in direct proportion to the concentration of iohexol. Since concentration changes over time, iohexol provides time-dependent image contrast which may assist in visualizing body structures." ([DailyMed: Omnipaque (iohexol) prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=508c42eb-f5e5-44f1-e063-6294a90a4d1f), versi 2026-04-28; diakses 2026-11-19). Iohexol ialah agen kontras beryodium bukan ionik untuk pengimejan radiografi, dan tiada aktiviti farmakologi yang diketahui pada sasaran sistem saraf pusat yang terlibat dalam pengawalaturan tidur (contohnya GABA-A, orexin, histamin H1 atau reseptor melatonin).
 
 Skor TxGNN yang sangat tinggi (0.9987) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan (100 interaksi ubat direkodkan), dan bukannya bukti biologi. Tiada hubungan mekanistik yang kukuh dapat dikenal pasti antara indikasi asal dengan insomnia.
 
@@ -129,11 +129,12 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "kerana iohexol tidak mempunyai lesen berdaftar dalam data yang dikumpulkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Omnipaque (iohexol) prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=508c42eb-f5e5-44f1-e063-6294a90a4d1f) |
 
 <!-- review:end log -->
 

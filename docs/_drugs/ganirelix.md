@@ -60,7 +60,7 @@ Ramalan ini hanya berasaskan model (tahap bukti L5).
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan daripada pangkalan data tidak tersedia pada masa ini. Berdasarkan maklumat farmakologi yang diketahui, ganirelix ialah antagonis reseptor GnRH₁ (gen GNRHR) yang menyekat rembesan LH dan FSH, lalu menurunkan pengeluaran hormon seks gonad, termasuk androgen.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ganirelix (terjemahan tidak rasmi): “Pembebasan GnRH secara berdenyut merangsang sintesis dan rembesan hormon peluteinan (LH) dan hormon perangsang folikel (FSH). Kekerapan denyutan LH pada fasa folikular pertengahan dan akhir adalah lebih kurang 1 denyutan sejam. […] Ganirelix acetate bertindak dengan menyekat secara kompetitif reseptor GnRH pada gonadotrof pituitari dan laluan transduksi seterusnya.” Teks asal bahasa Inggeris: "The pulsatile release of GnRH stimulates the synthesis and secretion of luteinizing hormone (LH) and follicle-stimulating hormone (FSH). The frequency of LH pulses in the mid and late follicular phase is approximately 1 pulse per hour. […] Ganirelix acetate acts by competitively blocking the GnRH receptors on the pituitary gonadotroph and subsequent transduction pathway." ([DailyMed: Fyremadel (ganirelix acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f0908b5-3551-47fd-95f7-3669b0dff7f1), versi 2026-10-16; diakses 2026-11-19). Berdasarkan maklumat farmakologi yang diketahui, ganirelix ialah antagonis reseptor GnRH₁ (gen GNRHR) yang menyekat rembesan LH dan FSH, lalu menurunkan pengeluaran hormon seks gonad, termasuk androgen.
 
 Secara teori, pengurangan isyarat androgen boleh menjejaskan pertumbuhan rambut yang sensitif terhadap androgen. Namun, kebanyakan bentuk hipertrikosis tidak bergantung kepada androgen (genetik, aruhan ubat atau metabolik). Hubungan mekanistik ini **lemah dan spekulatif**. Skor yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
@@ -126,6 +126,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 - Semakan literatur sistematik untuk hipertrikosis dan, secara berasingan, untuk akil baligh pramatang pusat sebagai calon yang lebih munasabah
 - Penilaian keserasian laluan pentadbiran dan formulasi
 - Penilaian status pendaftaran dan ketersediaan di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Fyremadel (ganirelix acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f0908b5-3551-47fd-95f7-3669b0dff7f1) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

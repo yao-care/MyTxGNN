@@ -54,7 +54,7 @@ Polatuzumab vedotin ialah konjugat antibodi-ubat (ADC) yang menyasarkan CD79b da
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan asal tidak tersedia dalam rekod yang dikumpulkan. Berdasarkan pengetahuan am, polatuzumab vedotin ialah ADC yang menyasarkan CD79b, komponen reseptor sel B yang terdapat pada sel B normal dan malignan, lalu menghantar MMAE, agen yang mengganggu mikrotubul.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Polatuzumab Vedotin (terjemahan tidak rasmi): “Polatuzumab vedotin-piiq ialah konjugat antibodi-ubat yang diarahkan kepada CD79b dengan aktiviti terhadap sel B yang sedang membahagi. Molekul kecil, MMAE, ialah agen antimitosis yang terikat secara kovalen kepada antibodi melalui penghubung yang boleh dibelah. Antibodi monoklonal tersebut mengikat kepada CD79b, protein permukaan khusus sel B, yang merupakan komponen reseptor sel B.” Teks asal bahasa Inggeris: "Polatuzumab vedotin-piiq is a CD79b-directed antibody-drug conjugate with activity against dividing B cells. The small molecule, MMAE, is an anti-mitotic agent covalently attached to the antibody via a cleavable linker. The monoclonal antibody binds to CD79b, a B-cell specific surface protein, which is a component of the B-cell receptor." ([DailyMed: Polivy (polatuzumab vedotin) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20a16ab2-f338-4abb-9dcd-254bd949a2bc), versi 2026-08-24; diakses 2026-11-19). Berdasarkan pengetahuan am, polatuzumab vedotin ialah ADC yang menyasarkan CD79b, komponen reseptor sel B yang terdapat pada sel B normal dan malignan, lalu menghantar MMAE, agen yang mengganggu mikrotubul.
 
 Pertalian yang mungkin hanyalah muatan sitotoksik MMAE, yang turut digunakan dalam ADC lain (contohnya brentuximab vedotin) dan secara teori boleh menjejaskan sel tumor pepejal yang membahagi dengan cepat. Namun, CD79b bukan sasaran yang diiktiraf dalam karsinoma payudara HER2 positif. Pertalian ini juga tidak khusus kepada biologi HER2 dan bergantung pada pengambilan ubat yang bebas daripada CD79b, yang belum dibuktikan.
 
@@ -113,11 +113,12 @@ Untuk maklumat amaran utama dan kontraindikasi, sila rujuk risalah maklumat prod
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Polivy (polatuzumab vedotin) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=20a16ab2-f338-4abb-9dcd-254bd949a2bc) |
 
 <!-- review:end log -->
 

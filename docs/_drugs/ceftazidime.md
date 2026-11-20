@@ -58,7 +58,7 @@ Ceftazidime ialah antibiotik sefalosporin generasi ketiga yang disuntik. Model T
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan ceftazidime tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, ceftazidime ialah antibiotik beta-laktam yang menghalang sintesis dinding sel bakteria.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ceftazidime (terjemahan tidak rasmi): “Ceftazidime ialah agen bakterisid yang bertindak dengan merencat sintesis dinding sel bakteria. Ceftazidime mempunyai aktiviti dengan kehadiran sesetengah beta-laktamase, kedua-dua penisilinase dan sefalosporinase, bakteria Gram-negatif dan Gram-positif.” Teks asal bahasa Inggeris: "Ceftazidime is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Ceftazidime has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: ceftazidime prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=112c5457-8d71-49f5-b531-9761d7d38c93), versi 2026-08-03; diakses 2026-11-19). Secara umum, ceftazidime ialah antibiotik beta-laktam yang menghalang sintesis dinding sel bakteria.
 
 Hiperamilasemia ialah penemuan makmal (paras amilase darah tinggi) yang biasanya berkaitan dengan keadaan pankreas atau metabolik. Penilaian terhadap data ini tidak menemui hubungan mekanistik yang munasabah antara tindakan antibakteria ceftazidime dengan keadaan ini. Tiada asas farmakologi yang menunjukkan ubat ini boleh merawat atau menurunkan paras amilase.
 
@@ -109,6 +109,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 - Sisipan pakej NPRA untuk amaran dan kontraindikasi
 - Sekurang-kurangnya satu kajian klinikal atau pra-klinikal yang mengkaji hubungan ceftazidime dengan hiperamilasemia secara langsung
 - Penilaian sama ada ramalan ini hanya artifak pemodelan sebelum sebarang sumber dilaburkan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: ceftazidime prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=112c5457-8d71-49f5-b531-9761d7d38c93) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

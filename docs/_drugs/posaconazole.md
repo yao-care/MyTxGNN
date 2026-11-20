@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **pneumocystosis**, tetapi soko
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) asal tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Berdasarkan pengetahuan umum, posaconazole ialah antikulat triazole yang menghalang enzim lanosterol 14-alfa-demetilase (CYP51), lalu menyekat sintesis ergosterol dalam membran sel kulat.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Posaconazole (terjemahan tidak rasmi): “Posaconazole ialah agen antikulat azol. […] Posaconazole menyekat sintesis ergosterol, komponen utama membran sel kulat, melalui perencatan enzim lanosterol 14α-demetilase yang bergantung kepada sitokrom P-450 yang bertanggungjawab untuk penukaran lanosterol kepada ergosterol dalam membran sel kulat. Ini mengakibatkan pengumpulan prekursor sterol termetil dan pengurangan ergosterol dalam membran sel, sekali gus melemahkan struktur dan fungsi membran sel kulat.” Teks asal bahasa Inggeris: "Posaconazole is an azole antifungal agent. […] Posaconazole blocks the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14α-demethylase responsible for the conversion of lanosterol to ergosterol in the fungal cell membrane. This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane." ([DailyMed: Noxafil (posaconazole) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b073b082-7b57-4423-8c06-4fd4263d6f84), versi 2026-02-13; diakses 2026-11-19). Berdasarkan pengetahuan umum, posaconazole ialah antikulat triazole yang menghalang enzim lanosterol 14-alfa-demetilase (CYP51), lalu menyekat sintesis ergosterol dalam membran sel kulat.
 
 Namun, *Pneumocystis jirovecii* tidak mempunyai ergosterol dalam membran selnya dan menggunakan kolesterol serta sterol lain. Oleh itu, mekanisme azole hanya mempunyai asas biologi yang sangat terhad untuk organisma ini. Skor yang sangat tinggi (0.9977) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi.
 
@@ -112,6 +112,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 - Bukti praklinikal atau klinikal yang menilai posaconazole secara langsung terhadap *Pneumocystis*
 - Penilaian status pendaftaran dan ketersediaan di Malaysia
 - Penilaian keserasian laluan pentadbiran dan kesan interaksi ubat yang bermakna secara klinikal
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Noxafil (posaconazole) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b073b082-7b57-4423-8c06-4fd4263d6f84) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

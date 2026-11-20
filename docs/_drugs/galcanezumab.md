@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan kofaktor heparin 2
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) asal tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, galcanezumab ialah antibodi monoklonal yang meneutralkan CGRP, iaitu laluan neurovaskular yang terlibat dalam migrain.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Galcanezumab (terjemahan tidak rasmi): “Galcanezumab-gnlm ialah antibodi monoklonal yang dimanusiakan yang terikat kepada ligan peptida berkaitan gen kalsitonin (CGRP) dan menyekat pengikatannya kepada reseptor.” Teks asal bahasa Inggeris: "Galcanezumab-gnlm is a humanized monoclonal antibody that binds to calcitonin gene-related peptide (CGRP) ligand and blocks its binding to the receptor." ([DailyMed: Emgality (galcanezumab-gnlm) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33a147be-233a-40e8-a55e-e40936e28db0), versi 2026-06-05; diakses 2026-11-19). Berdasarkan maklumat sedia ada, galcanezumab ialah antibodi monoklonal yang meneutralkan CGRP, iaitu laluan neurovaskular yang terlibat dalam migrain.
 
 Kekurangan kofaktor heparin II ialah gangguan perencatan trombin yang dimediasi serpin dalam lata pembekuan darah. Isyarat CGRP tidak diketahui mengawal tahap atau fungsi kofaktor heparin II. **Tiada hubungan mekanistik yang boleh dipercayai dikenal pasti.**
 
@@ -117,11 +117,12 @@ Untuk pesakit dengan kecenderungan trombosis, laluan CGRP mempunyai peranan vask
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Selain itu, ubat ini tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Emgality (galcanezumab-gnlm) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33a147be-233a-40e8-a55e-e40936e28db0) |
 
 <!-- review:end log -->
 

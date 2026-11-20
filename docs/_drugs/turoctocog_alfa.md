@@ -60,7 +60,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapakah Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan asal pada masa ini tidak tersedia. Berdasarkan maklumat yang diketahui, turoctocog alfa ialah produk pengganti FVIII rekombinan, keberkesanannya dalam hemofilia (kekurangan FVIII) telah dibuktikan, dan secara mekanistik hanya boleh dikaitkan dengan gangguan platelet secara tidak langsung.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Turoctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII” Teks asal bahasa Inggeris: "Coagulation factor VIII exogenous protein" ([ChEMBL CHEMBL2108286 (turoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108286), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, turoctocog alfa ialah produk pengganti FVIII rekombinan, keberkesanannya dalam hemofilia (kekurangan FVIII) telah dibuktikan, dan secara mekanistik hanya boleh dikaitkan dengan gangguan platelet secara tidak langsung.
 
 Gangguan pelepasan platelet berpunca daripada kecacatan intrinsik dalam perembesan granul platelet, bukan kekurangan FVIII. Oleh itu, tiada rasional mekanistik langsung. Satu kaitan yang lemah dan tidak langsung hanya mungkin melalui peranan FVIII dalam penjanaan trombin pada permukaan platelet yang diaktifkan.
 
@@ -119,6 +119,19 @@ Satu perkara perlu diberi perhatian: bagi purpura trombotik trombositopenik (TTP
 - Carian bukti tertumpu pada kekurangan faktor pembekuan yang diperoleh, termasuk hemofilia A yang diperoleh
 - Pengesahan istilah "flood factor deficiency" terhadap ontologi sumber
 - Penilaian status pendaftaran dan kesesuaian laluan pentadbiran di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL2108286 (turoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108286) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

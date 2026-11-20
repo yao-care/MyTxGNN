@@ -54,7 +54,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **congenital disorder of glycos
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Bromocriptine diketahui bertindak sebagai agonis reseptor dopamin D2. Namun, data yang dikompilasi tidak menunjukkan sebarang hubungan mekanistik antara tindakan dopaminergik ini dengan gangguan glikosilasi kongenital yang dikaitkan dengan kecacatan fukosilasi.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Bromocriptine (terjemahan tidak rasmi): “CYCLOSET mengandungi bromocriptine mesylate, iaitu agonis reseptor dopamine D2 yang bersifat simpatolitik. Pada pesakit diabetes jenis 2, pemberian CYCLOSET pada waktu pagi yang ditetapkan dikaitkan dengan peningkatan kepekaan insulin dan pelupusan glukosa serta pengurangan hiperglisemia semasa puasa dan selepas makan sepanjang waktu makan sehari tanpa meningkatkan paras insulin plasma.” Teks asal bahasa Inggeris: "CYCLOSET contains bromocriptine mesylate, a sympatholytic, dopamine D2 receptor agonist. In patients with type 2 diabetes, timed morning administration of CYCLOSET is associated with increased insulin sensitivity and glucose disposal and reduced fasting and postprandial hyperglycemia throughout the meals of the day without raising plasma insulin levels." ([DailyMed: Cycloset (bromocriptine mesylate) prescribing information, Avvisto Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e42ba916-16b9-4d1c-8d09-9d2fbb1b6c20), versi 2026-01-12; diakses 2026-11-19). Bromocriptine diketahui bertindak sebagai agonis reseptor dopamin D2. Namun, data yang dikompilasi tidak menunjukkan sebarang hubungan mekanistik antara tindakan dopaminergik ini dengan gangguan glikosilasi kongenital yang dikaitkan dengan kecacatan fukosilasi.
 
 Skor TxGNN yang tinggi (0.998) ialah ramalan model semata-mata. Ia tidak disokong oleh ujian klinikal, penerbitan atau data praklinikal. Maklumat indikasi asal dan kesamaan dengan indikasi baharu juga belum dapat dinilai, jadi kewajaran biologi ramalan ini belum dapat disahkan.
 
@@ -90,11 +90,12 @@ Sila rujuk sisipan pembungkusan untuk amaran utama dan kontraindikasi.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Bromocriptine juga tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Cycloset (bromocriptine mesylate) prescribing information, Avvisto Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e42ba916-16b9-4d1c-8d09-9d2fbb1b6c20) |
 
 <!-- review:end log -->
 

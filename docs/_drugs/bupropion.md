@@ -54,7 +54,7 @@ Bupropion ialah ubat yang bertindak merencat pengambilan semula norepinefrin dan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan. Namun, kajian ulasan yang disenaraikan menerangkan bahawa bupropion merencat pengambilan semula norepinefrin dan dopamin, tanpa aktiviti serotonergik. Laluan katekolaminergik yang sama menjadi sasaran rawatan ADHD yang mantap seperti perangsang dan atomoxetine.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Bupropion (terjemahan tidak rasmi): “Mekanisme tepat bagaimana tablet pelepasan lanjutan bupropion hydrochloride (SR) meningkatkan keupayaan pesakit untuk berhenti merokok tidak diketahui tetapi dianggap berkaitan dengan mekanisme noradrenergik dan/atau dopaminergik. Bupropion ialah perencat yang agak lemah terhadap pengambilan semula norepinefrina dan dopamina oleh neuron, dan tidak merencat pengambilan semula serotonin.” Teks asal bahasa Inggeris: "The exact mechanism by which bupropion hydrochloride extended-release tablets (SR) enhances the ability of patients to abstain from smoking is not known but is presumed to be related to noradrenergic and/or dopaminergic mechanisms. Bupropion is a relatively weak inhibitor of the neuronal reuptake of norepinephrine and dopamine, and does not inhibit the reuptake of serotonin." ([DailyMed: Bupropion Hydrochloride Sr (bupropion hydrochloride) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfb45438-1116-48f2-9bfe-776ebbf1e119), versi 2026-11-11; diakses 2026-11-19). Namun, kajian ulasan yang disenaraikan menerangkan bahawa bupropion merencat pengambilan semula norepinefrin dan dopamin, tanpa aktiviti serotonergik. Laluan katekolaminergik yang sama menjadi sasaran rawatan ADHD yang mantap seperti perangsang dan atomoxetine.
 
 Oleh itu, secara mekanistik, bupropion berpotensi sesuai untuk ADHD. Ulasan sistematik dan meta-analisis yang disenaraikan menunjukkan manfaat yang sederhana, terutamanya pada orang dewasa. Penggunaannya berkemungkinan sebagai pilihan lini kedua selepas ubat lini pertama.
 
@@ -108,6 +108,19 @@ Terdapat percubaan Fasa 3 yang selesai dan terkawal plasebo untuk ADHD, ditambah
 - Amaran dan kontraindikasi daripada risalah pek NPRA
 - Pelan pemantauan sawan, tekanan darah dan interaksi ubat (terutamanya substrat CYP2D6 dan opioid)
 - Pengesahan butiran lesen dan bentuk dos yang tersedia di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Bupropion Hydrochloride Sr (bupropion hydrochloride) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfb45438-1116-48f2-9bfe-776ebbf1e119) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

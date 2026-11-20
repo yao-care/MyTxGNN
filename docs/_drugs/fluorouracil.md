@@ -61,7 +61,7 @@ Setakat ini **tiada percubaan klinikal** dan **tiada penerbitan** yang mengkaji 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan. Namun, fluorouracil secara amnya dikenali sebagai perencat timidilat sintase dan antimetabolit yang mengganggu sintesis DNA/RNA dalam sel yang membahagi dengan pantas.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Fluorouracil (terjemahan tidak rasmi): “Fluorouracil ialah perencat metabolik nukleosida yang mengganggu sintesis asid deoksiribonukleik (DNA) dan pada tahap yang lebih rendah merencat pembentukan asid ribonukleik (RNA); kesan ini menjejaskan sel yang tumbuh dengan cepat dan boleh membawa kepada kematian sel. Fluorouracil ditukarkan kepada tiga metabolit aktif utama: 5-fluoro-2′-deoksiuridina-5′-monofosfat (FdUMP), 5-fluorouridina-5′trifosfat (FUTP) dan 5-fluoro-2′-deoksiuridina-5′-trifosfat (FdUTP).” Teks asal bahasa Inggeris: "Fluorouracil is a nucleoside metabolic inhibitor that interferes with the synthesis of deoxyribonucleic acid (DNA) and to a lesser extent inhibits the formation of ribonucleic acid (RNA); these affect rapidly growing cells and may lead to cell death. Fluorouracil is converted to three main active metabolites: 5-fluoro-2′-deoxyuridine-5′-monophosphate (FdUMP), 5-fluorouridine-5′triphosphate (FUTP) and 5-fluoro-2′-deoxyuridine-5′-triphosphate (FdUTP)." ([DailyMed: Favlyxa (fluorouracil) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b), versi 2026-10-23; diakses 2026-11-19). Namun, fluorouracil secara amnya dikenali sebagai perencat timidilat sintase dan antimetabolit yang mengganggu sintesis DNA/RNA dalam sel yang membahagi dengan pantas.
 
 Rhabdomiosarkoma embrional ialah sarkoma yang berpercambahan pantas, jadi kesan sitotoksik secara teori adalah munasabah. Namun, sokongan sebenar hanyalah skor ramalan TxGNN yang tinggi (0.9975). Rejimen piawai rhabdomiosarkoma (berasaskan VAC/VDC) tidak mengandungi fluorouracil, maka nilai tambahnya tidak jelas.
 
@@ -127,6 +127,19 @@ Ramalan ini hanya disokong oleh skor model (L5) tanpa sebarang percubaan atau pe
 - Data mekanisme tindakan (MOA) terperinci
 - Bukti klinikal atau praklinikal yang mengkaji fluorouracil dalam rhabdomiosarkoma embrional
 - Penilaian pakar onkologi pediatrik/ginekologi mengenai nilai tambah berbanding rejimen piawai
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Favlyxa (fluorouracil) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

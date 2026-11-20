@@ -54,7 +54,7 @@ Irbesartan ialah penyekat reseptor angiotensin II jenis 1 (ARB) yang pada asalny
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, irbesartan menyekat reseptor AT1 dalam sistem renin-angiotensin. Kesannya dalam hipertensi dan nefropati diabetik direkodkan dalam graf pengetahuan, dan secara mekanisme ia mungkin berkaitan dengan penyakit buah pinggang hipertensif malignan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Irbesartan (terjemahan tidak rasmi): “Angiotensin II ialah vasokonstriktor kuat yang terbentuk daripada angiotensin I dalam tindak balas yang dimangkinkan oleh enzim penukar angiotensin (ACE, kininase II). Angiotensin II ialah hormon vasoaktif utama sistem renin-angiotensin, dan komponen penting dalam patofisiologi hipertensi. […] Irbesartan menyekat kesan vasokonstriktor dan perembesan aldosteron angiotensin II dengan mengikat secara selektif pada reseptor angiotensin II AT 1 yang terdapat dalam banyak tisu (cth., otot licin vaskular, kelenjar adrenal).” Teks asal bahasa Inggeris: "Angiotensin II is a potent vasoconstrictor formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the primary vasoactive hormone of the renin-angiotensin system, and an important component in the pathophysiology of hypertension. […] Irbesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively binding to the AT 1 angiotensin II receptor found in many tissues (e.g., vascular smooth muscle, adrenal gland)." ([DailyMed: Avapro (irbesartan) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7885b2a8-be4e-48ab-8113-4e6ab791eb98), versi 2026-08-24; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, irbesartan menyekat reseptor AT1 dalam sistem renin-angiotensin. Kesannya dalam hipertensi dan nefropati diabetik direkodkan dalam graf pengetahuan, dan secara mekanisme ia mungkin berkaitan dengan penyakit buah pinggang hipertensif malignan.
 
 Dalam nefrosklerosis hipertensif malignan, vasokonstriksi dan kerosakan buah pinggang yang didorong oleh angiotensin II adalah faktor utama, maka penyekatan sistem ini munasabah dari segi biologi. Skor TxGNN yang tinggi berkemungkinan mencerminkan kedekatan penyakit ini dengan penyakit asal.
 
@@ -82,7 +82,6 @@ Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan. Lima k
 | MAL20016136AZ | IRBEMAC 300MG Tablet | Tidak dinyatakan | Tidak dinyatakan |
 | MAL12075073AZ | Irbel Tablets 150 mg | Tidak dinyatakan | Tidak dinyatakan |
 
-
 ## Pertimbangan Keselamatan
 
 - **Kontraindikasi (hubungan direkodkan dalam graf pengetahuan, bukan teks label):** angioedema (termasuk angioedema akibat penyekat sistem renin-angiotensin dan angioedema herediter), pankreatitis, lupus eritematosus sistemik, miopati dan rabdomiolisis, kekurangan kalium, diabetes mellitus dan ketoasidosis diabetik, hipotensi, anuria, gout, hiperkalsemia, penyakit hepar (koma dan ensefalopati hepatik), sumbatan arteri renal, serta beberapa keadaan lain.
@@ -102,6 +101,19 @@ Tiada ujian klinikal atau literatur yang mengkaji penyakit buah pinggang hiperte
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Kajian klinikal atau pemerhatian yang menilai irbesartan dalam penyakit buah pinggang hipertensif malignan
 - Penilaian keselamatan khusus untuk fungsi buah pinggang, kalium serum dan stenosis arteri renal
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Avapro (irbesartan) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7885b2a8-be4e-48ab-8113-4e6ab791eb98) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -54,7 +54,7 @@ Cyclophosphamide ialah ubat sitotoksik daripada kumpulan agen pengalkil yang jug
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan cyclophosphamide tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, cyclophosphamide ialah agen sitotoksik yang menekan sel yang membahagi dengan cepat dan melemahkan fungsi imun.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Cyclophosphamide (terjemahan tidak rasmi): “Mekanisme tindakan belum dicirikan sepenuhnya. Walau bagaimanapun, pemautan silang DNA sel tumor mungkin terlibat. Metabolit pengalkilan aktif siklofosfamid mengganggu pertumbuhan sel malignan rentan yang berproliferasi dengan pesat.” Teks asal bahasa Inggeris: "The mechanism of action has not been fully characterized. However, cross-linking of tumor cell DNA may be involved. The active alkylating metabolites of cyclophosphamide interfere with the growth of susceptible rapidly proliferating malignant cells." ([DailyMed: Frindovyx (cyclophosphamide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ad8ea65-4c98-487a-9c8d-df778765ec5e), versi 2026-08-26; diakses 2026-11-19). Secara umum, cyclophosphamide ialah agen sitotoksik yang menekan sel yang membahagi dengan cepat dan melemahkan fungsi imun.
 
 Penilaian terhadap ramalan ini **tidak menemui hubungan mekanistik yang jelas**. Penyakit yang diramal ialah sindrom genetik yang jarang berlaku dan melibatkan kecacatan imun, khususnya kekurangan fungsi sel T. Oleh sebab cyclophosphamide menekan imun, ubat ini secara teori boleh **memburukkan** kekurangan sel T dan bukannya memperbaikinya. Kesamaan dengan indikasi asal juga belum dinilai.
 
@@ -114,6 +114,18 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek.
 - Amaran dan kontraindikasi daripada sisipan pek NPRA.
 - Kajian praklinikal atau mekanistik yang menilai kesan cyclophosphamide pada penyakit sasaran ini.
 - Penilaian keselamatan khusus untuk pesakit dengan kekurangan imun.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Frindovyx (cyclophosphamide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ad8ea65-4c98-487a-9c8d-df778765ec5e) |
+
+<!-- review:end log -->
 
 ## Penafian
 

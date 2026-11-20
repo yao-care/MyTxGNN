@@ -60,7 +60,7 @@ tetapi pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang men
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, iloprost ialah analog prostasiklin (PGI2) yang stabil. Keberkesanannya dalam PAH sudah dibuktikan, dan secara mekanistik ia mungkin ada kaitan dengan isyarat prostaglandin dalam biologi folikel rambut.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Iloprost (terjemahan tidak rasmi): “Iloprost ialah analog sintetik prostasiklin PGI 2. Iloprost ialah vasodilator dan merencat pengagregatan platelet.” Teks asal bahasa Inggeris: "Iloprost is a synthetic analog of prostacyclin PGI 2. Iloprost is a vasodilator and inhibits platelet aggregation." ([DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4), versi 2026-08-13; diakses 2026-11-19). Berdasarkan maklumat sedia ada, iloprost ialah analog prostasiklin (PGI2) yang stabil. Keberkesanannya dalam PAH sudah dibuktikan, dan secara mekanistik ia mungkin ada kaitan dengan isyarat prostaglandin dalam biologi folikel rambut.
 
 Kaitan ini bersifat teori. Beberapa analog prostaglandin F2α diketahui menggalakkan pertumbuhan rambut, manakala PGD2 menghalangnya. Kesan iloprost sebagai agonis prostasiklin ke atas pertumbuhan rambut belum pasti dan tiada data yang menyokongnya di sini.
 
@@ -124,11 +124,12 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "kerana tiada lesen berdaftar direkodkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4) |
 
 <!-- review:end log -->
 

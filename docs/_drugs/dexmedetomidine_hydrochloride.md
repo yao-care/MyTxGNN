@@ -57,7 +57,7 @@ Setakat ini **tiada sebarang ujian klinikal atau penerbitan** yang menyokong ram
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Dexmedetomidine diketahui sebagai agonis alfa-2 adrenergik. Hubungan yang boleh dipertimbangkan ialah modulasi tidak langsung terhadap perembesan vasopresin atau pengendalian air oleh buah pinggang.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Dexmedetomidine Hydrochloride (terjemahan tidak rasmi): “PRECEDEX ialah agonis adrenergik alfa 2 bertindak secara pusat yang agak selektif dengan sifat sedatif. Keselektifan alfa 2 diperhatikan pada haiwan selepas infusi intravena perlahan dos rendah dan sederhana (10-300 mcg/kg).” Teks asal bahasa Inggeris: "PRECEDEX is a relatively selective centrally acting alpha 2 -adrenergic agonist with sedative properties. Alpha 2 selectivity is observed in animals following slow intravenous infusion of low and medium doses (10-300 mcg/kg)." ([DailyMed: Precedex (dexmedetomidine hydrochloride) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=92b7ddaa-e45a-4b64-a802-bb5df8771dd6), versi 2026-06-17; diakses 2026-11-19). Dexmedetomidine diketahui sebagai agonis alfa-2 adrenergik. Hubungan yang boleh dipertimbangkan ialah modulasi tidak langsung terhadap perembesan vasopresin atau pengendalian air oleh buah pinggang.
 
 Sindrom antidiuresis tidak wajar nefrogenik ialah gangguan jarang yang disebabkan oleh varian gain-of-function pada reseptor vasopresin V2 (AVPR2). Reseptor ini aktif secara konstitutif tanpa bergantung pada vasopresin. Oleh itu, penindasan vasopresin secara pusat tidak mungkin membantu. Rasional mekanistik untuk ramalan ini lemah dan tidak disokong oleh data, dan skor tinggi model hanyalah keluaran pengiraan.
 
@@ -100,11 +100,12 @@ Ramalan ini tidak disokong oleh sebarang ujian klinikal atau literatur untuk pen
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-17 | Status pendaftaran: “Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibatalkan.” → “Terdapat 10 pendaftaran produk bahan tunggal, dengan 9 sah dan 1 dibatalkan.” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Precedex (dexmedetomidine hydrochloride) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=92b7ddaa-e45a-4b64-a802-bb5df8771dd6) |
 
 <!-- review:end log -->
 

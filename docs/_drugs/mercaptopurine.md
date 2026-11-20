@@ -58,7 +58,7 @@ Mercaptopurine ialah antimetabolit thiopurin yang telah digunakan dalam rawatan 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan daripada pangkalan data ubat tidak tersedia. Namun, berdasarkan pengetahuan farmakologi umum, mercaptopurine ialah antimetabolit thiopurin. Metabolitnya (nukleotida thioguanine) tergabung ke dalam DNA dan RNA serta merencat sintesis purin *de novo*, lalu mengganggu percambahan sel leukemia yang membahagi dengan pantas.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Mercaptopurine (terjemahan tidak rasmi): “Mercaptopurine ialah analog purina yang menjalani pengangkutan intrasel dan pengaktifan untuk membentuk metabolit termasuk nukleotida tioguanina (TGN). Penggabungan TGN ke dalam DNA atau RNA mengakibatkan penahanan kitaran sel dan kematian sel.” Teks asal bahasa Inggeris: "Mercaptopurine is a purine analog that undergoes intracellular transport and activation to form metabolites including thioguanine nucleotides (TGNs). Incorporation of TGNs into DNA or RNA results in cell-cycle arrest and cell death." ([DailyMed: mercaptopurine prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a366cf3-91f0-4aa4-8f34-a7a27cad8f15), versi 2026-07-22; diakses 2026-11-19). Namun, berdasarkan pengetahuan farmakologi umum, mercaptopurine ialah antimetabolit thiopurin. Metabolitnya (nukleotida thioguanine) tergabung ke dalam DNA dan RNA serta merencat sintesis purin *de novo*, lalu mengganggu percambahan sel leukemia yang membahagi dengan pantas.
 
 Ubat ini mantap dalam rawatan penyelenggaraan leukemia limfoid. Dalam leukemia mieloid, peranannya terutamanya sebagai kemoterapi penyelenggaraan oral dalam rejimen berbilang ubat, contohnya 6-MP bersama methotrexate dalam leukemia mieloid akut (AML) dan leukemia promielositik akut (APL). Oleh itu, mekanisme ini boleh digunakan secara munasabah pada sel mieloid yang berkembang pesat.
 
@@ -144,6 +144,18 @@ Skor ramalan sangat tinggi (0,9994) dan terdapat kajian kohort serta kajian peri
 - Data mekanisme tindakan terperinci
 - Hasil ujian yang sedang berjalan (NCT06199557, NCT05506332) dan, jika boleh, ujian rawak yang mengasingkan sumbangan mercaptopurine
 - Pelan pemantauan keselamatan, termasuk ujian genotip NUDT15/TPMT sebelum rawatan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: mercaptopurine prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a366cf3-91f0-4aa4-8f34-a7a27cad8f15) |
+
+<!-- review:end log -->
 
 ## Penafian
 

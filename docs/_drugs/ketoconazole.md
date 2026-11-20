@@ -58,7 +58,7 @@ Ketoconazole ialah ubat antikulat azol yang telah didaftarkan di Malaysia dalam 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dihimpunkan. Namun, ketoconazole diketahui sebagai antikulat azol yang merencat CYP51 (lanosterol 14-alfa-demetilase) pada kulat, lalu menyekat sintesis ergosterol.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ketoconazole (terjemahan tidak rasmi): “Ketoconazole menyekat sintesis ergosterol, iaitu komponen utama membran sel kulat, melalui perencatan enzim lanosterol 14α-demetilase yang bergantung pada sitokrom P-450 yang bertanggungjawab bagi penukaran lanosterol kepada ergosterol dalam membran sel kulat. Ini mengakibatkan pengumpulan prekursor sterol bermetil dan pengurangan ergosterol dalam membran sel, sekali gus melemahkan struktur dan fungsi membran sel kulat.” Teks asal bahasa Inggeris: "Ketoconazole blocks the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14α-demethylase responsible for the conversion of lanosterol to ergosterol in the fungal cell membrane. This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane." ([DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371), versi 2025-11-18; diakses 2026-11-19). Namun, ketoconazole diketahui sebagai antikulat azol yang merencat CYP51 (lanosterol 14-alfa-demetilase) pada kulat, lalu menyekat sintesis ergosterol.
 
 Kaitan dengan jerawat bersifat tidak langsung. Pertama, ketoconazole aktif terhadap *Malassezia* (*Pityrosporum*) yang menyebabkan folikulitis *Malassezia*, satu keadaan yang secara klinikal menyerupai jerawat dan kerap tersalah diagnosis. Kedua, kajian in vitro melaporkan azol antikulat aktif terhadap *Propionibacterium* (*Cutibacterium*) *acnes*, dan ketoconazole didapati merencat aktiviti lipase bakteria tersebut. Ketiga, kesan antiradang pada kulit mungkin menyumbang. Keempat, perencatan sistemik enzim CYP steroidogenik (CYP17A1, CYP11A1) mengurangkan sintesis androgen dan secara teori boleh mengurangkan pengeluaran sebum.
 
@@ -134,11 +134,12 @@ Tahap bukti ialah L4: hanya terdapat kajian in vitro (perencatan lipase *P. acne
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-12 | Bilangan pendaftaran: “Ketoconazole mempunyai 33 lesen berdaftar, semuanya sah (31” → “Ketoconazole mempunyai 33 lesen berdaftar, 32 daripadanya sah dan 1 telah tamat ” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371) |
 
 <!-- review:end log -->
 

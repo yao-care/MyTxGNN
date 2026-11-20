@@ -54,7 +54,7 @@ Glukagon ialah hormon pankreas yang bertindak pada reseptor glukagon dan diketah
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan glukagon tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau begitu, glukagon dan GLP-1 berasal daripada prekursor yang sama (proglukagon) dan bertindak pada reseptor berkaitan daripada keluarga GPCR kelas B. Glukagon juga dikenali sebagai perencat farmakologi motiliti gastrousus (digunakan sebagai antispasmodik semasa endoskopi dan radiologi). Ini memberi hubungan mekanistik yang munasabah dengan simptom IBS seperti hipersensitiviti visera dan dismotiliti, terutamanya IBS jenis sembelit.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Glucagon (terjemahan tidak rasmi): “Glukagon meningkatkan kepekatan glukosa darah dengan mengaktifkan reseptor glukagon hepar, dan dengan itu merangsang penguraian glikogen dan pembebasan glukosa daripada hati. Simpanan glikogen hepar diperlukan bagi glukagon untuk menghasilkan kesan antihipoglisemik.” Teks asal bahasa Inggeris: "Glucagon increases blood glucose concentration by activating hepatic glucagon receptors, thereby stimulating glycogen breakdown and release of glucose from the liver. Hepatic stores of glycogen are necessary for glucagon to produce an antihypoglycemic effect." ([DailyMed: glucagon prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e4be1c0e-0fe6-45a0-9229-5cde98434b84), versi 2020-09-16; diakses 2026-11-19). Walau begitu, glukagon dan GLP-1 berasal daripada prekursor yang sama (proglukagon) dan bertindak pada reseptor berkaitan daripada keluarga GPCR kelas B. Glukagon juga dikenali sebagai perencat farmakologi motiliti gastrousus (digunakan sebagai antispasmodik semasa endoskopi dan radiologi). Ini memberi hubungan mekanistik yang munasabah dengan simptom IBS seperti hipersensitiviti visera dan dismotiliti, terutamanya IBS jenis sembelit.
 
 Namun, hubungan ini tidak langsung. Percubaan klinikal dan literatur yang ditemui berkaitan dengan laluan GLP-1 (GLP-1 asli, ROSE-010 iaitu analog GLP-1), bukan glukagon. Oleh itu, ia tidak boleh dianggap bukti langsung. Separuh hayat glukagon yang pendek dan kesan hiperglisemianya turut mengehadkan penterjemahan kepada kegunaan klinikal.
 
@@ -102,6 +102,18 @@ Skor TxGNN tinggi (0.9924), tetapi tiada kajian yang menguji glukagon dalam sind
 - Data mekanisme tindakan yang terperinci
 - Maklumat amaran dan kontraindikasi daripada risalah maklumat produk
 - Penilaian kesan hiperglisemia dan separuh hayat pendek glukagon untuk kegunaan jangka panjang
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: glucagon prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e4be1c0e-0fe6-45a0-9229-5cde98434b84) |
+
+<!-- review:end log -->
 
 ## Penafian
 

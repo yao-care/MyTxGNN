@@ -66,7 +66,7 @@ Trabectedin ialah pengikat alur minor DNA yang membentuk adukt DNA dan menggangg
 
 Kanser ovari dan sebahagian kanser payudara berkongsi biologi pembaikan DNA dan BRCA yang serupa. Kajian fasa 2 pada pembawa mutasi germinal BRCA1/2 dengan kanser payudara metastatik, serta kajian praklinikal yang melaporkan kesan antitumor yang dipertingkatkan apabila digabungkan dengan IL-12 dalam kanser payudara triple-negative, menyokong kemunasabahan mekanistik ini.
 
-Skor TxGNN yang sangat tinggi (0.9973) selaras dengan biologi tersebut, tetapi ia ialah ramalan pengiraan dan bukan bukti klinikal. Data terperinci tentang mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan; huraian di atas adalah berdasarkan rasional pengubahsuaian semula (repurposing) yang dinyatakan dan pengetahuan literatur.
+Skor TxGNN yang sangat tinggi (0.9973) selaras dengan biologi tersebut, tetapi ia ialah ramalan pengiraan dan bukan bukti klinikal. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Trabectedin (terjemahan tidak rasmi): “Trabektedin ialah ubat pengalkilan yang mengikat residu guanina dalam alur minor DNA, membentuk adduk dan menyebabkan pembengkokan heliks DNA ke arah alur major. Pembentukan adduk mencetuskan lata peristiwa yang boleh menjejaskan aktiviti seterusnya protein pengikat DNA, termasuk sesetengah faktor transkripsi, dan laluan pembaikan DNA, mengakibatkan gangguan kitaran sel dan akhirnya kematian sel.” Teks asal bahasa Inggeris: "Trabectedin is an alkylating drug that binds guanine residues in the minor groove of DNA, forming adducts and resulting in a bending of the DNA helix towards the major groove. Adduct formation triggers a cascade of events that can affect the subsequent activity of DNA binding proteins, including some transcription factors, and DNA repair pathways, resulting in perturbation of the cell cycle and eventual cell death." ([DailyMed: Evdi (trabectedin) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1d50f5c-4202-27f3-4798-a9708114ddea), versi 2026-06-29; diakses 2026-11-19).
 
 ---
 
@@ -96,7 +96,6 @@ Skor TxGNN yang sangat tinggi (0.9973) selaras dengan biologi tersebut, tetapi i
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -135,6 +134,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Semakan teks penuh kajian fasa 2 (PMID 25239225, 24692579, 27266804) untuk mengesahkan hasil keberkesanan dan keselamatan
 - Pengesahan status pendaftaran dan ketersediaan di Malaysia
 - Penilaian relevansi bagi penerbitan yang masih berstatus "pending"
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Evdi (trabectedin) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1d50f5c-4202-27f3-4798-a9708114ddea) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

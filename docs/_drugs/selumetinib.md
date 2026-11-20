@@ -58,7 +58,7 @@ Ramalan ini masih berada pada peringkat soalan penyelidikan dan bukan bukti kece
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan. Namun selumetinib diketahui sebagai perencat MEK1/2 dalam laluan RAF/MEK/ERK.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Selumetinib (terjemahan tidak rasmi): “Selumetinib ialah perencat kinase kinase protein yang diaktifkan mitogen 1 dan 2 (MEK1/2). Protein MEK1/2 ialah pengawal atur huluan laluan kinase berkaitan isyarat ekstrasel (ERK). Kedua-dua MEK dan ERK ialah komponen penting laluan RAF-MEK-ERK yang dikawal atur oleh RAS, yang sering diaktifkan dalam pelbagai jenis kanser.” Teks asal bahasa Inggeris: "Selumetinib is an inhibitor of mitogen-activated protein kinase kinases 1 and 2 (MEK1/2). MEK1/2 proteins are upstream regulators of the extracellular signal-related kinase (ERK) pathway. Both MEK and ERK are critical components of the RAS-regulated RAF-MEK-ERK pathway, which is often activated in different types of cancers." ([DailyMed: Koselugo (selumetinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d042c61-f28f-4ab5-ab10-d7558c0d49ff), versi 2026-05-26; diakses 2026-11-19). Namun selumetinib diketahui sebagai perencat MEK1/2 dalam laluan RAF/MEK/ERK.
 
 Schwannoma dalam schwannomatosis berkaitan NF2 melibatkan kehilangan fungsi merlin, yang membawa kepada pengaktifan laluan RAF/MEK/ERK dan PI3K/mTOR. Perencatan MEK oleh itu munasabah secara mekanistik. Selain itu, selumetinib dilaporkan telah diluluskan untuk neurofibroma pleksiform NF1, iaitu tumor sel Schwann yang berkaitan, dan ini mengukuhkan rasional tersebut. (Kelulusan ini disebut dalam sumber ulasan yang dikumpulkan, bukan daripada teks lesen tempatan.)
 
@@ -125,6 +125,19 @@ Ramalan lain dalam senarai (rank 1, 2, 4–8 dan 10) ialah L5 tanpa ujian atau l
 - Keputusan ujian NCT03095248 dan kemajuan NCT07707947
 - Pelan pemantauan keselamatan, termasuk pengurusan interaksi ubat utama (perencat CYP3A4 kuat dan agen antitrombotik)
 - Pengesahan laluan pemberian dan bentuk dos untuk populasi sasaran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Koselugo (selumetinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d042c61-f28f-4ab5-ab10-d7558c0d49ff) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

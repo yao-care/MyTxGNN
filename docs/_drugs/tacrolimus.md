@@ -56,7 +56,7 @@ dengan **2 ujian klinikal** yang berkaitan secara langsung (termasuk 1 ujian Fas
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan asal (MOA) tidak tersedia dalam data yang dihimpunkan. Namun, berdasarkan analisis mekanistik yang disertakan, tacrolimus topikal merencat calcineurin, lalu menyekat pengaktifan sel T yang bergantung pada NFAT serta pembebasan sitokin pro-radang (seperti IL-2, IL-4 dan IFN-gamma).
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Tacrolimus (terjemahan tidak rasmi): “Takrolimus mengikat kepada protein intraselular, FKBP-12. Kompleks takrolimus-FKBP-12, kalsium, kalmodulin dan kalsineurin (enzim intraselular mamalia yang terdapat di mana-mana) kemudiannya terbentuk dan aktiviti fosfatase kalsineurin direncat.” Teks asal bahasa Inggeris: "Tacrolimus binds to an intracellular protein, FKBP-12. A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (an ubiquitous mammalian intracellular enzyme) is then formed and the phosphatase activity of calcineurin inhibited." ([DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7), versi 2025-02-26; diakses 2026-11-19). Namun, berdasarkan analisis mekanistik yang disertakan, tacrolimus topikal merencat calcineurin, lalu menyekat pengaktifan sel T yang bergantung pada NFAT serta pembebasan sitokin pro-radang (seperti IL-2, IL-4 dan IFN-gamma).
 
 Dermatitis seboroik melibatkan tindak balas radang terhadap yis *Malassezia* dan berkongsi laluan radang dengan dermatitis atopik. Oleh itu, tindakan anti-radang tacrolimus berkemungkinan relevan. Skor TxGNN yang tinggi (0.9926) selaras dengan mekanisme bersama ini.
 
@@ -85,7 +85,6 @@ Kajian ulasan turut menyokong peranan perencat calcineurin topikal dalam dermati
 
 ## Maklumat Pasaran di Malaysia
 
-
 ## Pertimbangan Keselamatan
 
 Data amaran utama dan kontraindikasi daripada sisipan pembungkusan tidak tersedia. Sila rujuk sisipan pembungkusan untuk maklumat keselamatan.
@@ -113,6 +112,19 @@ Maklumat tambahan daripada data yang dihimpunkan:
 ---
 
 **Catatan tambahan:** Ramalan kedua dalam data (parapsoriasis, tahap bukti L4, hanya laporan kes) dan ramalan ketiga (dermatitis, yang sebahagian besarnya bertindih dengan indikasi atopik asal) tidak dihuraikan dalam laporan ini, kerana laporan tertumpu pada ramalan teratas.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

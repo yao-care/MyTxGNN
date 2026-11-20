@@ -58,7 +58,7 @@ Pregabalin ialah ubat yang dikaitkan dengan gangguan kebimbangan, fibromialgia, 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dihimpun untuk laporan ini. Berdasarkan farmakologi yang diketahui, pregabalin mengikat subunit alfa2-delta saluran kalsium bergantung voltan dan mengurangkan pelepasan neurotransmitter rangsangan. Ini boleh membantu komponen sakit neuropatik atau sensitisasi pusat dalam sakit otot-rangka kronik.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Pregabalin (terjemahan tidak rasmi): “Pregabalin mengikat dengan afiniti tinggi kepada tapak alfa 2 ‑delta (subunit tambahan saluran kalsium berpagar voltan) dalam tisu sistem saraf pusat. Walaupun mekanisme tindakan pregabalin belum dijelaskan sepenuhnya, keputusan dengan mencit yang diubah suai secara genetik dan dengan sebatian yang berkaitan secara struktur dengan pregabalin (seperti gabapentin) mencadangkan bahawa pengikatan kepada subunit alfa 2 ‑delta mungkin terlibat dalam kesan antinosiseptif dan antisawan pregabalin pada haiwan.” Teks asal bahasa Inggeris: "Pregabalin binds with high affinity to the alpha 2 ‑delta site (an auxiliary subunit of voltage‑gated calcium channels) in central nervous system tissues. Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha 2 ‑delta subunit may be involved in pregabalin’s anti‑nociceptive and antiseizure effects in animals." ([DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd), versi 2026-03-12; diakses 2026-11-19). Berdasarkan farmakologi yang diketahui, pregabalin mengikat subunit alfa2-delta saluran kalsium bergantung voltan dan mengurangkan pelepasan neurotransmitter rangsangan. Ini boleh membantu komponen sakit neuropatik atau sensitisasi pusat dalam sakit otot-rangka kronik.
 
 Indikasi asal pregabalin (fibromialgia, sakit miofasial) ialah keadaan sakit kronik. Oleh itu, model mungkin menangkap persamaan antara keadaan tersebut dengan tendinitis yang disertai kesakitan. Walau bagaimanapun, pregabalin tidak diketahui bertindak pada keradangan atau pemulihan tendon. Kesan yang munasabah hanyalah melegakan kesakitan, bukan merawat tendinitis itu sendiri.
 
@@ -136,11 +136,12 @@ Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia dalam data
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-12 | Bilangan pendaftaran: “Terdapat 63 pendaftaran produk pregabalin bahan tunggal yang” → “Terdapat 64 pendaftaran produk pregabalin bahan tunggal yang sah” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ Data yang dikumpulkan untuk laporan ini tidak mengandungi **sebarang ujian klini
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan ubat ini tidak tersedia dalam data yang dikumpulkan. Candesartan cilexetil tergolong dalam kelas ARB, yang menyekat sistem renin-angiotensin (RAS). Penyekatan RAS berkaitan dengan kerosakan buah pinggang akibat tekanan darah tinggi, dan ARB mempunyai peranan perlindungan buah pinggang yang mantap dalam beberapa keadaan renal berkaitan. Atas dasar ini, ramalan tersebut munasabah dari sudut mekanisme.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Candesartan Cilexetil (terjemahan tidak rasmi): “Angiotensin II terbentuk daripada angiotensin I dalam tindak balas yang dimangkinkan oleh enzim penukar angiotensin (ACE, kininase II). Angiotensin II ialah agen presor utama sistem renin-angiotensin, dengan kesan-kesan yang termasuk vasokonstriksi, rangsangan sintesis dan pembebasan aldosteron, rangsangan jantung, dan penyerapan semula natrium oleh buah pinggang. […] Candesartan menyekat kesan vasokonstriktor dan kesan perembesan aldosteron oleh angiotensin II dengan menyekat secara selektif pengikatan angiotensin II kepada reseptor AT 1 dalam banyak tisu, seperti otot licin vaskular dan kelenjar adrenal.” Teks asal bahasa Inggeris: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Candesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: Atacand (candesartan cilexetil) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94a59260-d2b6-464a-b5b9-bbc599e57e10), versi 2025-12-22; diakses 2026-11-19). Candesartan cilexetil tergolong dalam kelas ARB, yang menyekat sistem renin-angiotensin (RAS). Penyekatan RAS berkaitan dengan kerosakan buah pinggang akibat tekanan darah tinggi, dan ARB mempunyai peranan perlindungan buah pinggang yang mantap dalam beberapa keadaan renal berkaitan. Atas dasar ini, ramalan tersebut munasabah dari sudut mekanisme.
 
 Namun, hipertensi malignan dengan penglibatan renal akut ialah kecemasan klinikal. Ia biasanya diurus dengan ubat parenteral yang dititrasi, dan ARB bukan pilihan lini pertama yang standard. Ramalan ini tidak disokong oleh sebarang ujian atau literatur dalam data yang tersedia, jadi ia perlu dianggap sebagai hipotesis awal sahaja.
 
@@ -97,6 +97,19 @@ Sila rujuk risalah maklumat produk (package insert) untuk maklumat keselamatan. 
 - Amaran dan kontraindikasi daripada risalah maklumat produk NPRA
 - Penilaian kesesuaian laluan pemberian ubat (oral berbanding keperluan klinikal kecemasan)
 - Data interaksi ubat dan pelan pemantauan keselamatan, terutamanya fungsi renal dan kalium serum
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Atacand (candesartan cilexetil) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94a59260-d2b6-464a-b5b9-bbc599e57e10) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

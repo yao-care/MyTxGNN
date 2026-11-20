@@ -55,7 +55,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Malformasi aorta (aortic malf
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Namun, alprostadil (prostaglandin E1) diketahui melegakan otot licin duktus arteriosus dan mengekalkan patensinya. Ini ialah strategi penghubung yang mantap dalam lesi jantung kongenital yang bergantung pada duktus, termasuk lengkung aorta terputus dan transposisi arteri besar.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Alprostadil (terjemahan tidak rasmi): “Alprostadil (PGE1) ialah prostaglandin dengan pelbagai jenis tindakan farmakologi termasuk vasodilatasi dan perencatan agregasi platelet. Alprostadil mengaruh ereksi melalui pengenduran otot licin trabekular dan melalui pelebaran arteri kavernosa dengan terikat kepada reseptornya dan meningkatkan paras adenosina monofosfat siklik (cAMP) intrasel melalui modulasi adenilat siklase.” Teks asal bahasa Inggeris: "Alprostadil (PGE1) is a prostaglandin with a wide variety of pharmacological actions including vasodilation and inhibition of platelet aggregation. Alprostadil induces erection by relaxation of trabecular smooth muscle and by dilation of cavernosal arteries by binding to its receptors and increasing intracellular cyclic adenosine monophosphate (cAMP) levels via modulation of adenylate cyclase." ([DailyMed: Caverject (alprostadil) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98), versi 2024-05-13; diakses 2026-11-19). Namun, alprostadil (prostaglandin E1) diketahui melegakan otot licin duktus arteriosus dan mengekalkan patensinya. Ini ialah strategi penghubung yang mantap dalam lesi jantung kongenital yang bergantung pada duktus, termasuk lengkung aorta terputus dan transposisi arteri besar.
 
 Oleh itu, kaitan dengan malformasi aorta munasabah dari segi mekanisme dan digunakan secara klinikal. Namun, perlu diingat bahawa penggunaan ini sebahagian besarnya sudah menjadi amalan standard untuk lesi neonatal yang bergantung pada duktus, jadi ia bukan pengagihan semula ubat yang benar-benar baharu.
 
@@ -106,6 +106,18 @@ Tiada percubaan klinikal dan tiada kajian terkawal yang mengkaji malformasi aort
 - Data mekanisme tindakan (MOA) yang terperinci
 - Pengesahan indikasi pada label dan kekuatan bukti untuk anomali aorta tertentu
 - Data keselamatan untuk infusi berpanjangan pada neonat
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Caverject (alprostadil) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98) |
+
+<!-- review:end log -->
 
 ## Penafian
 

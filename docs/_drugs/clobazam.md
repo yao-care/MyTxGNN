@@ -56,7 +56,7 @@ tetapi data yang dihimpunkan hanya mengandungi **0 ujian klinikal** dan **2 pene
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Clobazam ialah pemodulat alosterik positif reseptor GABA-A. Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dihimpunkan, tetapi kelas ubat ini diketahui meningkatkan perencatan neuron melalui saluran klorida yang dikawal GABA.
+Clobazam ialah pemodulat alosterik positif reseptor GABA-A. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Clobazam (terjemahan tidak rasmi): “Mekanisme tindakan yang tepat bagi clobazam, sejenis 1,5-benzodiazepina, tidak difahami sepenuhnya tetapi dipercayai melibatkan potensiasi neurotransmisi GABAergik yang terhasil daripada pengikatan pada tapak benzodiazepina reseptor GABA A.” Teks asal bahasa Inggeris: "The exact mechanism of action for clobazam, a 1,5-benzodiazepine, is not fully understood but is thought to involve potentiation of GABAergic neurotransmission resulting from binding at the benzodiazepine site of the GABA A receptor." ([DailyMed: Onfi (clobazam) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de03bd69-2dca-459c-93b4-541fd3e9571c), versi 2026-10-16; diakses 2026-11-19).
 
 Sindrom epilepsi berkaitan jangkitan demam ialah ensefalopati epilepsi refraktori yang berlaku pada kanak-kanak yang sebelumnya sihat. Ubat GABAergik (benzodiazepin dan barbiturat) digunakan dalam pengurusannya. Oleh itu, secara mekanistik, clobazam mungkin sesuai, tetapi pautan ini hanya berasaskan kelas ubat.
 
@@ -94,6 +94,19 @@ Skor ramalan tinggi (0,9982), tetapi tiada ujian klinikal dan tiada kajian yang 
 - Data mekanisme tindakan yang terperinci
 - Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA untuk saringan keselamatan
 - Pelan pemantauan keselamatan bagi populasi pediatrik, termasuk risiko interaksi dengan ubat sedatif dan opioid
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Onfi (clobazam) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de03bd69-2dca-459c-93b4-541fd3e9571c) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

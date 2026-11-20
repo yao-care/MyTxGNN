@@ -54,7 +54,7 @@ Asid askorbik (vitamin C) ialah nutrien penting yang larut dalam air dan bertind
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Asid askorbik diketahui berfungsi sebagai antioksidan dan kofaktor enzim hidroksilase yang menyokong sintesis kolagen.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ascorbic Acid (terjemahan tidak rasmi): “Mekanisme tindakan sebenar asid askorbik bagi rawatan simptom dan tanda skurvi (gangguan yang disebabkan oleh kekurangan teruk vitamin C) tidak diketahui; walau bagaimanapun, pemberian asid askorbik kepada pesakit skurvi dipercayai memulihkan simpanan asid askorbik dalam badan.” Teks asal bahasa Inggeris: "The exact mechanism of action of ascorbic acid for the treatment of symptoms and signs of scurvy (a disorder caused by severe deficiency in vitamin C) is unknown; however, administration of ascorbic acid in patients with scurvy is thought to restore the body pool of ascorbic acid." ([DailyMed: ascorbic acid prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6), versi 2026-09-03; diakses 2026-11-19). Asid askorbik diketahui berfungsi sebagai antioksidan dan kofaktor enzim hidroksilase yang menyokong sintesis kolagen.
 
 Namun, tiada kaitan mekanistik yang jelas dengan ramalan ini. Malformasi esofagus kongenital ialah kecacatan perkembangan struktur yang terbentuk semasa embriogenesis. Tiada bukti bahawa asid askorbik boleh membetulkan atau merawat kecacatan sedemikian. Ramalan ini perlu dianggap sebagai hipotesis yang sangat awal.
 
@@ -99,6 +99,18 @@ Untuk amaran, kontraindikasi dan maklumat keselamatan lain, sila rujuk sisipan p
 - Data mekanisme tindakan (MOA) yang lengkap
 - Semakan sisipan pakej NPRA untuk amaran dan kontraindikasi
 - Penilaian pakar sama ada ramalan ini wajar diteruskan, memandangkan sifat penyakit yang bersifat perkembangan struktur
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: ascorbic acid prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6) |
+
+<!-- review:end log -->
 
 ## Penafian
 

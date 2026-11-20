@@ -56,7 +56,7 @@ tetapi setakat ini **tiada percubaan klinikal** dan **tiada penerbitan** yang me
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Berdasarkan maklumat sedia ada, bevacizumab meneutralkan VEGF-A dan merencat angiogenesis tumor. Mekanisme ini secara teori boleh bersesuaian dengan tumor kepala dan leher, termasuk tumor epiglotis.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Bevacizumab (terjemahan tidak rasmi): “Produk bevacizumab mengikat VEGF dan menghalang interaksi VEGF dengan reseptornya (Flt-1 dan KDR) pada permukaan sel endotelium. Interaksi VEGF dengan reseptornya membawa kepada proliferasi sel endotelium dan pembentukan salur darah baharu dalam model angiogenesis in vitro.” Teks asal bahasa Inggeris: "Bevacizumab products bind VEGF and prevent the interaction of VEGF to its receptors (Flt-1 and KDR) on the surface of endothelial cells. The interaction of VEGF with its receptors leads to endothelial cell proliferation and new blood vessel formation in in vitro models of angiogenesis." ([DailyMed: Vegzelma (bevacizumab-adcd) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4cdcccda-7b9a-49d0-ac50-f4605a3c0ebe), versi 2026-08-21; diakses 2026-11-19). Berdasarkan maklumat sedia ada, bevacizumab meneutralkan VEGF-A dan merencat angiogenesis tumor. Mekanisme ini secara teori boleh bersesuaian dengan tumor kepala dan leher, termasuk tumor epiglotis.
 
 Namun, sokongan yang ada hanyalah skor ramalan yang tinggi. Tiada percubaan klinikal atau literatur yang mengkaji bevacizumab untuk penyakit ini secara langsung, maka kemunasabahan ini kekal pada peringkat hipotesis.
 
@@ -115,6 +115,19 @@ Ramalan ini hanya disokong oleh skor model (0,9990) tanpa sebarang percubaan kli
 - Data mekanisme tindakan (MOA) yang terperinci
 - Amaran dan kontraindikasi daripada sisipan pek NPRA untuk penilaian keselamatan
 - Penilaian keserasian laluan pemberian dan nisbah risiko-manfaat bagi populasi sasaran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Vegzelma (bevacizumab-adcd) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4cdcccda-7b9a-49d0-ac50-f4605a3c0ebe) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

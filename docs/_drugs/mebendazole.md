@@ -60,7 +60,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan hanya **1 penerbitan** (la
 
 ## Mengapakah Ramalan Ini Munasabah?
 
-Pada masa ini, data terperinci mengenai mekanisme tindakan tidak tersedia. Berdasarkan maklumat yang diketahui, mebendazol ialah ubat antihelmintik yang dikenali menghalang pempolimeran tubulin pada cacing parasit, dan keberkesanannya dalam jangkitan cacing usus telah terbukti. Dari segi mekanisme, kaitannya dengan jerawat tidak jelas.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Mebendazole (terjemahan tidak rasmi): “Mebendazol, suatu benzimidazol, ialah antihelmintik. […] Mebendazol mengganggu pembentukan tubulin sel dalam helmin dan menyebabkan perubahan degeneratif ultrastruktur dalam ususnya. Akibatnya, pengambilan glukosanya serta fungsi pencernaan dan pembiakannya terganggu, yang membawa kepada imobilisasi, perencatan penghasilan telur dan kematian helmin tersebut.” Teks asal bahasa Inggeris: "Mebendazole, a benzimidazole, is an anthelmintic. […] Mebendazole interferes with cellular tubulin formation in the helminth and causes ultrastructural degenerative changes in its intestine. As a result, its glucose uptake and the digestive and reproductive functions are disrupted, leading to immobilization, inhibition of egg production and death of the helminth." ([DailyMed: Vermox (mebendazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a720c424-517a-461b-8e13-6c37caf8aa3f), versi 2021-10-05; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, mebendazol ialah ubat antihelmintik yang dikenali menghalang pempolimeran tubulin pada cacing parasit, dan keberkesanannya dalam jangkitan cacing usus telah terbukti. Dari segi mekanisme, kaitannya dengan jerawat tidak jelas.
 
 Dalam bidang onkologi, mebendazol telah dikaji untuk kesan antiproliferatif dan antiangiogenik. Secara spekulatif, kesan terhadap percambahan keratinosit atau keradangan mungkin berkaitan dengan jerawat, tetapi data yang disediakan tidak menyokong hubungan ini.
 
@@ -117,11 +117,12 @@ Untuk maklumat amaran dan kontraindikasi lengkap, sila rujuk sisipan pembungkusa
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak didaftarkan di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Vermox (mebendazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a720c424-517a-461b-8e13-6c37caf8aa3f) |
 
 <!-- review:end log -->
 

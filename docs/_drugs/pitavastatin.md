@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan protein pemindahan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data terperinci tentang mekanisme tindakan tidak tersedia. Berdasarkan maklumat yang diketahui, pitavastatin menghalang enzim HMG-CoA reduktase dan bertindak ke atas metabolisme lipid. Secara mekanistik, ia mungkin berkaitan dengan gangguan metabolisme lipid seperti kekurangan CETP.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Pitavastatin (terjemahan tidak rasmi): “Pitavastatin ialah perencat reduktase 3-hidroksi-3-metilglutaril-koenzim A (HMG-CoA), iaitu enzim yang memangkinkan penukaran HMG-CoA kepada mevalonat, satu langkah penentu kadar dalam laluan biosintesis kolesterol. Akibatnya, ekspresi reseptor LDL yang diikuti oleh pengambilan LDL dari darah ke hati dipercepatkan dan kemudian TC plasma berkurangan.” Teks asal bahasa Inggeris: "Pitavastatin is an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, a rate-limiting step in the biosynthetic pathway for cholesterol. As a result, the expression of LDL-receptors followed by the uptake of LDL from blood to liver is accelerated and then the plasma TC decreases." ([DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2), versi 2026-03-31; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, pitavastatin menghalang enzim HMG-CoA reduktase dan bertindak ke atas metabolisme lipid. Secara mekanistik, ia mungkin berkaitan dengan gangguan metabolisme lipid seperti kekurangan CETP.
 
 Kekurangan CETP ialah gangguan metabolisme lipid yang ditandai kolesterol HDL tinggi. Hubungannya dengan pitavastatin munasabah pada tahap laluan biokimia. Walau bagaimanapun, kekurangan CETP lazimnya merupakan sifat genetik yang jinak, malah mungkin melindungi jantung, jadi keperluan terapeutik yang jelas tidak wujud. Skor ramalan ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi atau isyarat rawatan sebenar.
 
@@ -140,6 +140,19 @@ Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pakej produk.
   - takrifkan indikasi sebagai pencegahan penyakit kardiovaskular pada HIV, bukan terapi HIV;
   - semak interaksi dengan ubat antiretroviral;
   - pantau kesan ke atas glukosa dan miopati.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

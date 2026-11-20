@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, upadacitinib umumnya dikenali sebagai perencat JAK1 terpilih yang berkesan dalam artritis reumatoid melalui pengurangan keradangan yang dimediasi oleh laluan JAK-STAT. Namun, perkara ini tidak disahkan oleh data yang dikumpulkan untuk laporan ini.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Upadacitinib (terjemahan tidak rasmi): “Upadacitinib ialah perencat Janus kinase (JAK). JAK ialah enzim intrasel yang menghantar isyarat yang timbul daripada interaksi sitokin atau reseptor faktor pertumbuhan pada membran sel untuk mempengaruhi proses selular hematopoiesis dan fungsi sel imun.” Teks asal bahasa Inggeris: "Upadacitinib is a Janus kinase (JAK) inhibitor. JAKs are intracellular enzymes which transmit signals arising from cytokine or growth factor-receptor interactions on the cellular membrane to influence cellular processes of hematopoiesis and immune cell function." ([DailyMed: Rinvoq (upadacitinib) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2966aec7-2ef0-923c-d8ff-fe1a957bf095), versi 2026-06-30; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, upadacitinib umumnya dikenali sebagai perencat JAK1 terpilih yang berkesan dalam artritis reumatoid melalui pengurangan keradangan yang dimediasi oleh laluan JAK-STAT. Namun, perkara ini tidak disahkan oleh data yang dikumpulkan untuk laporan ini.
 
 Sindrom yang diramalkan ialah sindrom perkembangan yang sangat jarang berlaku (koloboma okular, mikroftalmia, displasia rizomelik rangka). Sindrom sebegini biasanya didorong oleh kecacatan perkembangan atau genetik, bukan keradangan yang dimediasi JAK-STAT. Tiada hubungan laluan yang didokumenkan antara upadacitinib dengan penyakit ini.
 
@@ -76,6 +76,18 @@ Skor TxGNN yang sangat tinggi (0.9961) hanyalah ramalan model. Kebolehpercayaan 
 - Penilaian keserasian laluan pentadbiran dan pemeriksaan keselamatan peringkat S1
 
 ---
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Rinvoq (upadacitinib) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2966aec7-2ef0-923c-d8ff-fe1a957bf095) |
+
+<!-- review:end log -->
 
 ## Penafian
 

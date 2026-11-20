@@ -59,7 +59,7 @@ Pitolisant hydrochloride ialah ubat perangsang jaga (wake-promoting) yang bertin
 
 ## Mengapa Ramalan Ini Perlu Dinilai dengan Berhati-hati?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, literatur menerangkan pitolisant sebagai antagonis/agonis songsang selektif reseptor histamin H3 yang meningkatkan isyarat histaminergik yang menggalakkan kesedaran.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Pitolisant Hydrochloride (terjemahan tidak rasmi): “Mekanisme tindakan pitolisant dalam rasa mengantuk berlebihan pada waktu siang (EDS) atau katapleksi pada pesakit berumur 6 tahun ke atas yang menghidap narkolepsi tidak jelas. Walau bagaimanapun, keberkesanannya mungkin diperantarakan melalui aktivitinya sebagai antagonis/agonis songsang pada reseptor histamina-3 (H3).” Teks asal bahasa Inggeris: "The mechanism of action of pitolisant in excessive daytime sleepiness (EDS) or cataplexy in patients 6 years and older with narcolepsy is unclear. However, its efficacy could be mediated through its activity as an antagonist/inverse agonist at histamine-3 (H3) receptors." ([DailyMed: Wakix (pitolisant hydrochloride) prescribing information, Harmony Biosciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8daa5562-824e-476c-9652-26ceef3d4b0e), versi 2026-02-13; diakses 2026-11-19). Walau bagaimanapun, literatur menerangkan pitolisant sebagai antagonis/agonis songsang selektif reseptor histamin H3 yang meningkatkan isyarat histaminergik yang menggalakkan kesedaran.
 
 Mekanisme ini bertentangan dengan keperluan rawatan insomnia, iaitu mengurangkan rangsangan jaga. Insomnia sendiri diiktiraf sebagai kesan advers pitolisant. Skor TxGNN yang tinggi (0,9971) kemungkinan besar mencerminkan kedekatan dengan gangguan tidur-jaga lain seperti narkolepsi dan apnea tidur obstruktif, dan bukan manfaat terapeutik untuk insomnia.
 
@@ -113,6 +113,19 @@ Tiada kajian yang menilai pitolisant untuk insomnia secara langsung, dan mekanis
 - Data mekanisme tindakan yang terperinci
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA
 - Sebarang kajian praklinikal atau klinikal yang menilai pitolisant secara langsung dalam insomnia, termasuk penilaian risiko insomnia sebagai kesan advers
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Wakix (pitolisant hydrochloride) prescribing information, Harmony Biosciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8daa5562-824e-476c-9652-26ceef3d4b0e) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

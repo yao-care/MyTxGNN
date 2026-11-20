@@ -60,7 +60,7 @@ Ramalan ini pada masa ini hanyalah ramalan berasaskan model komputer.
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, lorlatinib ialah perencat tirosin kinase ALK/ROS1 yang berkesan dalam NSCLC positif-ALK, tetapi secara mekanistik tiada hubungan yang jelas dengan fibromatosis gingiva.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Lorlatinib (terjemahan tidak rasmi): “Lorlatinib ialah perencat kinase dengan aktiviti in vitro terhadap ALK dan ROS1 serta TYK1, FER, FPS, TRKA, TRKB, TRKC, FAK, FAK2 dan ACK. Lorlatinib menunjukkan aktiviti in vitro terhadap pelbagai bentuk mutan enzim ALK, termasuk beberapa mutasi yang dikesan dalam tumor semasa perkembangan penyakit dengan crizotinib dan perencat ALK yang lain.” Teks asal bahasa Inggeris: "Lorlatinib is a kinase inhibitor with in vitro activity against ALK and ROS1 as well as TYK1, FER, FPS, TRKA, TRKB, TRKC, FAK, FAK2, and ACK. Lorlatinib demonstrated in vitro activity against multiple mutant forms of the ALK enzyme, including some mutations detected in tumors at the time of disease progression on crizotinib and other ALK inhibitors." ([DailyMed: Lorbrena (lorlatinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b34d62d-e02a-4af3-bc0d-1571dd4ee76d), versi 2026-06-26; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, lorlatinib ialah perencat tirosin kinase ALK/ROS1 yang berkesan dalam NSCLC positif-ALK, tetapi secara mekanistik tiada hubungan yang jelas dengan fibromatosis gingiva.
 
 Penilaian mekanisme menyimpulkan bahawa tiada kaitan mekanistik dikenal pasti. Skor TxGNN yang tinggi hanyalah ramalan komputasi. Tiada patologi didorong ALK yang telah dibuktikan dalam fibromatosis gingiva, dan tiada percubaan klinikal atau literatur diperoleh. Oleh itu, ramalan ini perlu ditafsirkan dengan sangat berhati-hati.
 
@@ -121,6 +121,19 @@ Isyarat keselamatan daripada literatur (dalam persekitaran NSCLC): hiperlipidemi
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Bukti pra-klinikal bahawa laluan ALK/ROS1 terlibat dalam fibromatosis gingiva
 - Sebagai arah penyelidikan sekunder, tumor sel germa paru-paru (kedudukan 6, L3) boleh dikaji lanjut, tertakluk kepada pengesahan perubahan ALK dalam tumor dan pemantauan isyarat ketoksikan pulmonari
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lorbrena (lorlatinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b34d62d-e02a-4af3-bc0d-1571dd4ee76d) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

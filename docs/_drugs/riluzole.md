@@ -54,7 +54,7 @@ Riluzole ialah ubat yang bertindak mengubah suai penghantaran glutamat dalam sis
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Riluzole mengurangkan pembebasan glutamat, meningkatkan pengambilan semula glutamat dan menyekat saluran natrium bergantung voltan. Butiran lanjut tentang mekanisme tindakan tidak terdapat dalam data yang dikumpulkan untuk laporan ini.
+Riluzole mengurangkan pembebasan glutamat, meningkatkan pengambilan semula glutamat dan menyekat saluran natrium bergantung voltan. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Riluzole (terjemahan tidak rasmi): “Mekanisme yang melaluinya riluzol memberikan kesan terapeutiknya pada pesakit ALS tidak diketahui.” Teks asal bahasa Inggeris: "The mechanism by which riluzole exerts its therapeutic effects in patients with ALS is unknown." ([DailyMed: Tiglutik (riluzole) prescribing information, EDW PHARMA, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857), versi 2026-07-27; diakses 2026-11-19).
 
 Polimikrogiria ialah kecacatan perkembangan korteks otak yang sering disertai ciri epileptogenik dan eksitotoksik. Maka, rasional pengubahsuaian glutamat boleh dibayangkan. Namun, ia bersifat **spekulatif**: kecacatan struktur perkembangan saraf tidak dijangka akan bertindak balas terhadap agen neuroprotektif yang dipasarkan untuk orang dewasa. Skor TxGNN hanyalah ramalan berasaskan model, tanpa sokongan kajian sebenar.
 
@@ -102,6 +102,18 @@ Ramalan ini hanya berasaskan model (tahap bukti L5) tanpa sebarang ujian klinika
 - Data mekanisme tindakan terperinci (MOA)
 - Bukti praklinikal atau klinikal yang mengkaji penyakit ini secara langsung
 - Penilaian kebolehlaksanaan laluan pentadbiran dan populasi pesakit sasaran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Tiglutik (riluzole) prescribing information, EDW PHARMA, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857) |
+
+<!-- review:end log -->
 
 ## Penafian
 

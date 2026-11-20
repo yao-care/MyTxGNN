@@ -54,7 +54,7 @@ Megestrol acetate ialah progestin sintetik yang telah didaftarkan di Malaysia, t
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Megestrol acetate diketahui sebagai progestin yang mempunyai aktiviti dalam tumor ginekologi dan payudara yang responsif kepada hormon. Secara teori, mekanisme hormon ini mungkin berkaitan dengan penyakit yang diramalkan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Megestrol Acetate (terjemahan tidak rasmi): “Beberapa penyelidik telah melaporkan tentang sifat peningkatan selera makan megestrol asetat dan kemungkinan penggunaannya dalam kakeksia. Mekanisme tepat yang melaluinya megestrol asetat menghasilkan kesan dalam anoreksia dan kakeksia tidak diketahui pada masa ini.” Teks asal bahasa Inggeris: "Several investigators have reported on the appetite enhancing property of megestrol acetate and its possible use in cachexia. The precise mechanism by which megestrol acetate produces effects in anorexia and cachexia is unknown at the present time." ([DailyMed: megestrol acetate prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc921d5-e423-4379-a345-151e87d13651), versi 2026-04-14; diakses 2026-11-19). Megestrol acetate diketahui sebagai progestin yang mempunyai aktiviti dalam tumor ginekologi dan payudara yang responsif kepada hormon. Secara teori, mekanisme hormon ini mungkin berkaitan dengan penyakit yang diramalkan.
 
 Walau bagaimanapun, tiada data yang dikumpulkan menghubungkan ubat ini dengan pengurangan risiko atau rawatan kanser berkaitan BRCA. Skor TxGNN yang tinggi (0.9989) hanyalah ramalan pengiraan, dan hubungan mekanistik masih belum disahkan.
 
@@ -117,6 +117,19 @@ Maklumat amaran utama dan kontraindikasi tidak tersedia. Sila rujuk sisipan pemb
 - Data mekanisme tindakan yang terperinci.
 - Bukti klinikal atau praklinikal yang mengkaji penyakit ramalan ini secara langsung.
 - Jika arah kajian beralih kepada kanser ovari, semak keputusan sebenar kajian Fasa II dan pastikan populasi serta penetapan penyakit yang dikaji.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: megestrol acetate prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc921d5-e423-4379-a345-151e87d13651) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

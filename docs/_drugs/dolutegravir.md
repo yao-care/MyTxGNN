@@ -61,7 +61,7 @@ Setakat ini terdapat **0 ujian klinikal** dan **1 penerbitan** yang berkaitan se
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan umum, dolutegravir menghalang langkah pemindahan untai (strand transfer) integrase HIV-1, iaitu enzim yang diperlukan virus untuk memasukkan DNA virus ke dalam genom perumah.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Dolutegravir (terjemahan tidak rasmi): “Dolutegravir ialah agen antiretrovirus HIV-1. […] Dolutegravir merencatkan integrase HIV dengan terikat kepada tapak aktif integrase dan menyekat langkah pemindahan bebenang dalam integrasi DNA retrovirus yang penting untuk kitaran replikasi HIV. Asai biokimia pemindahan bebenang menggunakan integrase HIV-1 yang telah ditulenkan dan DNA substrat yang telah dipraproses menghasilkan nilai IC 50 sebanyak 2.7 nM dan 12.6 nM.” Teks asal bahasa Inggeris: "Dolutegravir is an HIV-1 antiretroviral agent. […] Dolutegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral DNA integration which is essential for the HIV replication cycle. Strand transfer biochemical assays using purified HIV-1 integrase and pre-processed substrate DNA resulted in IC 50 values of 2.7 nM and 12.6 nM." ([DailyMed: Tivicay (dolutegravir sodium) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63df5af3-b8ac-4e76-9830-2dbb340af922), versi 2026-08-25; diakses 2026-11-19). Berdasarkan pengetahuan umum, dolutegravir menghalang langkah pemindahan untai (strand transfer) integrase HIV-1, iaitu enzim yang diperlukan virus untuk memasukkan DNA virus ke dalam genom perumah.
 
 Virus imunodefisiensi kucing (FIV) ialah lentivirus yang juga mempunyai enzim integrase dengan hubungan struktur kepada integrase HIV. Secara mekanistik, aktiviti dolutegravir terhadap FIV adalah munasabah. Walau bagaimanapun, ini masih satu hipotesis.
 
@@ -125,6 +125,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pembungkusan (package 
 
 - **Jangkitan virus imunodefisiensi simian (SIV)**: Skor 0.9985. Terdapat kajian praklinikal pada makak dan kajian in vitro (contohnya PMID 30381490, 24920794), yang menunjukkan aktiviti antivirus sebenar. Namun SIV pada makak ialah model untuk HIV dan bukan indikasi manusia yang baharu. Ia dicadangkan sebagai soalan penyelidikan sahaja.
 - **Gangguan perkembangan saraf dengan gaya berjalan ataksia, ketiadaan pertuturan dan pengurangan bahan putih korteks**: Skor 0.9980. Tiada ujian atau literatur, dan tiada hubungan mekanistik yang munasabah. Skor ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Tahan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Tivicay (dolutegravir sodium) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63df5af3-b8ac-4e76-9830-2dbb340af922) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

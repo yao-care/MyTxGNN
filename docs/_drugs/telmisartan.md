@@ -58,7 +58,7 @@ Telmisartan ialah penyekat reseptor angiotensin II jenis 1. Dalam graf pengetahu
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, telmisartan menyekat reseptor angiotensin II jenis 1 dan juga bertindak sebagai agonis separa PPAR-gamma. Dari segi mekanisme, kedua-dua ciri ini boleh mengurangkan vasospasme dan disfungsi endotel, dan vasospasme koronari ialah ciri utama angina Prinzmetal.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Telmisartan (terjemahan tidak rasmi): “Angiotensin II terbentuk daripada angiotensin I dalam tindak balas yang dimangkinkan oleh enzim penukar angiotensin (ACE, kininase II). Angiotensin II ialah agen presor utama sistem renin-angiotensin, dengan kesan yang merangkumi vasokonstriksi, rangsangan sintesis dan pembebasan aldosteron, rangsangan jantung, dan penyerapan semula natrium oleh ginjal. […] Telmisartan menyekat kesan vasokonstriktor dan perembesan aldosteron oleh angiotensin II dengan menyekat secara selektif pengikatan angiotensin II pada reseptor AT 1 dalam banyak tisu, seperti otot licin vaskular dan kelenjar adrenal.” Teks asal bahasa Inggeris: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the reninangiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Telmisartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10), versi 2026-11-02; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, telmisartan menyekat reseptor angiotensin II jenis 1 dan juga bertindak sebagai agonis separa PPAR-gamma. Dari segi mekanisme, kedua-dua ciri ini boleh mengurangkan vasospasme dan disfungsi endotel, dan vasospasme koronari ialah ciri utama angina Prinzmetal.
 
 Hubungan antara hipertensi dan angina Prinzmetal ialah kedua-duanya melibatkan tonus dan fungsi endotel saluran darah. Namun, **tiada kajian atau ujian yang dibekalkan untuk menyokong hubungan ini**, jadi ia kekal spekulatif.
 
@@ -129,6 +129,19 @@ Untuk pendarahan intraserebral, kesan tidak boleh dikaitkan dengan telmisartan s
 - Data mekanisme tindakan terperinci dan maklumat keselamatan daripada sisipan pakej NPRA.
 - Kajian praklinikal atau percubaan perintis yang menunjukkan kesan terhadap vasospasme koronari.
 - Sebagai alternatif, utamakan penilaian pendarahan intraserebral (selepas menyemak hasil TRIDENT daripada penerbitan utama), kerana ia mempunyai bukti klinikal paling kukuh.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -58,7 +58,7 @@ Letrozole ialah perencat aromatase yang menurunkan paras estrogen dalam badan. M
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan letrozole tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, letrozole tergolong dalam kelas perencat aromatase, yang menyekat penghasilan estrogen. Jika tumor bersifat positif reseptor hormon, perencatan aromatase secara teori boleh relevan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Letrozole (terjemahan tidak rasmi): “Pertumbuhan sesetengah kanser payudara dirangsang atau dikekalkan oleh estrogen. Rawatan kanser payudara yang dianggap responsif terhadap hormon (iaitu, positif reseptor estrogen dan/atau progesteron atau status reseptor tidak diketahui) telah merangkumi pelbagai usaha untuk mengurangkan paras estrogen (ovariektomi, adrenalektomi, hipofisektomi) atau merencat kesan estrogen (antiestrogen dan agen progestasional). […] Letrozole ialah perencat kompetitif bukan steroid bagi sistem enzim aromatase; ia merencat penukaran androgen kepada estrogen.” Teks asal bahasa Inggeris: "The growth of some cancers of the breast is stimulated or maintained by estrogens. Treatment of breast cancer thought to be hormonally responsive (i.e., estrogen and/or progesterone receptor positive or receptor unknown) has included a variety of efforts to decrease estrogen levels (ovariectomy, adrenalectomy, hypophysectomy) or inhibit estrogen effects (antiestrogens and progestational agents). […] Letrozole is a nonsteroidal competitive inhibitor of the aromatase enzyme system; it inhibits the conversion of androgens to estrogens." ([DailyMed: Femara (letrozole) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406), versi 2026-06-11; diakses 2026-11-19). Secara umum, letrozole tergolong dalam kelas perencat aromatase, yang menyekat penghasilan estrogen. Jika tumor bersifat positif reseptor hormon, perencatan aromatase secara teori boleh relevan.
 
 Namun, hubungan ini bersifat tidak langsung dan diekstrapolasi daripada kanser payudara secara umum. Tiada kajian yang menguji letrozole secara langsung pada karsinoma puting. Skor model yang tinggi tidak menggantikan bukti klinikal.
 
@@ -111,6 +111,18 @@ Untuk maklumat amaran dan kontraindikasi, sila rujuk risalah maklumat produk.
 - Data mekanisme tindakan yang terperinci
 - Maklumat amaran dan kontraindikasi daripada risalah maklumat produk
 - Penilaian keselamatan bagi populasi sasaran, termasuk kesan ke atas tulang dan fungsi hati
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Femara (letrozole) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406) |
+
+<!-- review:end log -->
 
 ## Penafian
 

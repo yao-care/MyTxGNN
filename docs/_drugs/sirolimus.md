@@ -58,7 +58,7 @@ Sirolimus ialah perencat mTOR yang sudah dipasarkan di Malaysia. Model TxGNN mer
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Walau bagaimanapun, sirolimus diketahui merencat mTORC1. Laluan PI3K/AKT/mTOR sering diaktifkan dalam sarkoma tisu lembut, dan liposarkoma dengan amplifikasi MDM2/CDK4 mungkin bergantung pada isyarat mTOR.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Sirolimus (terjemahan tidak rasmi): “Sirolimus dalam FYARRO ialah perencat kinase sasaran mekanistik rapamisin (mTOR, sebelum ini dikenali sebagai sasaran rapamisin mamalia). mTOR, iaitu kinase serina treonina, terletak di hiliran laluan PI3K/AKT, mengawal proses selular utama seperti kemandirian, pertumbuhan dan proliferasi sel, dan lazimnya mengalami disregulasi dalam beberapa kanser manusia. Di dalam sel, sirolimus mengikat kepada imunofilin, FK Binding Protein-12 (FKBP-12), untuk menghasilkan kompleks imunosupresif.” Teks asal bahasa Inggeris: "Sirolimus in FYARRO is an inhibitor of mechanistic target of rapamycin kinase (mTOR, previously known as mammalian target of rapamycin). mTOR, a serine threonine kinase, is downstream of the PI3K/AKT pathway, controls key cellular processes such as cell survival, growth, and proliferation, and is commonly dysregulated in several human cancers. In cells, sirolimus binds to the immunophilin, FK Binding Protein-12 (FKBP-12), to generate an immunosuppressive complex." ([DailyMed: Fyarro (sirolimus) prescribing information, Aadi Bioscience, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f9bb784-53e2-46f9-a65d-1c6c2a230eaf), versi 2026-09-09; diakses 2026-11-19). Walau bagaimanapun, sirolimus diketahui merencat mTORC1. Laluan PI3K/AKT/mTOR sering diaktifkan dalam sarkoma tisu lembut, dan liposarkoma dengan amplifikasi MDM2/CDK4 mungkin bergantung pada isyarat mTOR.
 
 Ini memberikan asas mekanisme yang munasabah untuk menguji sirolimus dalam liposarkoma. Namun, tiada data hasil keberkesanan yang dibekalkan, jadi hubungan ini masih bersifat hipotesis dan perlu disahkan melalui kajian klinikal.
 
@@ -108,6 +108,18 @@ Maklumat amaran utama dan kontraindikasi tidak tersedia. Sila rujuk sisipan pemb
 - Data mekanisme tindakan terperinci
 - Amaran dan kontraindikasi daripada sisipan pembungkusan yang diluluskan NPRA
 - Pelan pemantauan keselamatan, termasuk pengurusan interaksi ubat yang bertaraf Major
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Fyarro (sirolimus) prescribing information, Aadi Bioscience, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f9bb784-53e2-46f9-a65d-1c6c2a230eaf) |
+
+<!-- review:end log -->
 
 ## Penafian
 

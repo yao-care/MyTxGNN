@@ -62,7 +62,7 @@ dengan **16 percubaan klinikal** dan **18 penerbitan** yang disenaraikan dalam d
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data asal. Berdasarkan farmakologi kelas ubat ini, ketorolac ialah NSAID yang menyekat enzim COX-1 dan COX-2, lalu mengurangkan sintesis prostaglandin. Prostaglandin menyumbang kepada keradangan neurogenik, pemekaan trigeminovaskular dan isyarat kesakitan dalam migrain serta sakit kepala jenis tegang.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ketorolac (terjemahan tidak rasmi): “Ketorolac tromethamine ialah ubat antiradang bukan steroid (NSAID) yang menunjukkan aktiviti analgesik dalam model haiwan. Mekanisme tindakan ketorolac, seperti NSAID lain, tidak difahami sepenuhnya tetapi mungkin berkaitan dengan perencatan prostaglandin sintetase.” Teks asal bahasa Inggeris: "Ketorolac tromethamine is a nonsteroidal anti-inflammatory drug (NSAID) that exhibits analgesic activity in animal models. The mechanism of action of ketorolac, like that of other NSAIDs, is not completely understood but may be related to prostaglandin synthetase inhibition." ([DailyMed: Toronova Ii Suik (ketorolac tromethamine) prescribing information, Advanced Rx of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49dd153c-10e8-505b-e063-6394a90a595f), versi 2026-11-13; diakses 2026-11-19). Berdasarkan farmakologi kelas ubat ini, ketorolac ialah NSAID yang menyekat enzim COX-1 dan COX-2, lalu mengurangkan sintesis prostaglandin. Prostaglandin menyumbang kepada keradangan neurogenik, pemekaan trigeminovaskular dan isyarat kesakitan dalam migrain serta sakit kepala jenis tegang.
 
 Indikasi asal (konjunktivitis alergi) juga bergantung pada perencatan COX yang bersifat antiradang. Maka, kesan analgesik dan antiradang yang sama boleh diterapkan pada sakit kepala akut.
 
@@ -156,11 +156,12 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Menurut data yang dikumpulkan untuk laporan ini, ketorolac tidak mempunyai pendaftaran yang sah di Malaysia (0 lesen). Oleh itu, tiada jadua" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Toronova Ii Suik (ketorolac tromethamine) prescribing information, Advanced Rx of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49dd153c-10e8-505b-e063-6394a90a595f) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada kajian literatur** yan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, pyrazinamide ialah komponen rejimen anti-tuberkulosis berbilang ubat, keberkesanannya dalam tuberkulosis telah terbukti, dan aktivitinya bergantung kepada pH berasid melalui asid pirazinoik, yang aktif terhadap *Mycobacterium tuberculosis*.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Pyrazinamide ialah (terjemahan tidak rasmi): “Perencat sintase asid lemak; perencat ribosom 70S” Teks asal bahasa Inggeris: "Fatty acid synthase inhibitor; 70S ribosome inhibitor" ([ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, pyrazinamide ialah komponen rejimen anti-tuberkulosis berbilang ubat, keberkesanannya dalam tuberkulosis telah terbukti, dan aktivitinya bergantung kepada pH berasid melalui asid pirazinoik, yang aktif terhadap *Mycobacterium tuberculosis*.
 
 Skor TxGNN yang tinggi (0.9996) datang daripada model TxGNN (pembelajaran mendalam) dan berkemungkinan mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, seperti otitis tuberkulosis, dan bukan bukti biologi tentang hubungan antibakteria yang sebenar. Otitis media berjangkit biasa disebabkan oleh *Streptococcus pneumoniae*, *Haemophilus influenzae* dan *Moraxella catarrhalis*, yang tidak dilitupi oleh pyrazinamide. Oleh itu, kemunasabahan mekanistik untuk indikasi ini **lemah**.
 
@@ -125,6 +125,19 @@ Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi rasmi.
 - Bukti klinikal atau praklinikal yang menunjukkan aktiviti terhadap patogen otitis media yang relevan
 - Penilaian semula sama ada hanya otitis tuberkulosis (lanjutan indikasi sedia ada) yang perlu difokuskan
 - Pertimbangan status pendaftaran dan ketersediaan produk di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

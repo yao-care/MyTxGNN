@@ -61,7 +61,7 @@ Nota: Indikasi baharu yang disenaraikan di atas ialah pilihan kedua dalam senara
 
 ## Mengapakah Ramalan Ini Munasabah?
 
-Finasteride merencat 5-alfa-reduktase jenis II dan menurunkan dihidrotestosteron (DHT). Mekanisme ini mantap untuk BPH serta alopesia androgenetik, dan telah dikaji dalam hirsutisme. Data terperinci mengenai mekanisme tindakan asal (MOA) tidak terdapat dalam data yang dihimpunkan untuk laporan ini, namun mekanisme di atas adalah pengetahuan farmakologi umum.
+Finasteride merencat 5-alfa-reduktase jenis II dan menurunkan dihidrotestosteron (DHT). Mekanisme ini mantap untuk BPH serta alopesia androgenetik, dan telah dikaji dalam hirsutisme. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Finasteride (terjemahan tidak rasmi): “Perkembangan dan pembesaran kelenjar prostat bergantung kepada androgen poten, 5α-dihidrotestosteron (DHT). 5α-reduktase Jenis II memetabolismekan testosteron kepada DHT dalam kelenjar prostat, hati dan kulit. […] Finasteride ialah perencat kompetitif dan khusus bagi 5α-reduktase Jenis II yang dengannya ia membentuk kompleks enzim yang stabil secara perlahan.” Teks asal bahasa Inggeris: "The development and enlargement of the prostate gland is dependent on the potent androgen, 5α-dihydrotestosterone (DHT). Type II 5α-reductase metabolizes testosterone to DHT in the prostate gland, liver and skin. […] Finasteride is a competitive and specific inhibitor of Type II 5α-reductase with which it slowly forms a stable enzyme complex." ([DailyMed: Proscar (finasteride) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f988153-fc74-4ca4-b29a-111f750c4a4b), versi 2026-03-18; diakses 2026-11-19).
 
 Hubungan antara indikasi asal dengan indikasi baharu ini **lemah**. Hipertrikosis ditakrifkan sebagai pertumbuhan rambut berlebihan di kawasan yang **tidak bergantung kepada androgen**, sedangkan finasteride bertindak melalui penurunan isyarat androgen. Oleh itu, keberkesanannya pada hipertrikosis sejati tidak dijangka secara mekanistik.
 
@@ -134,11 +134,12 @@ Untuk maklumat amaran dan kontraindikasi yang lengkap, sila rujuk sisipan pek pr
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Selain itu, finasteride tidak didaftarkan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Proscar (finasteride) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f988153-fc74-4ca4-b29a-111f750c4a4b) |
 
 <!-- review:end log -->
 

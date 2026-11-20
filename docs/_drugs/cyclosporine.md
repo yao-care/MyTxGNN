@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit granulomatus kronik 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, siklosporin ialah perencat kalsineurin yang menindas pengaktifan sel T, dan keberkesanannya dalam penyakit autoimun serta keradangan telah terbukti.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Cyclosporine (terjemahan tidak rasmi): “Siklosporin ialah agen imunosupresif yang poten yang, dalam haiwan, memanjangkan kemandirian transplan alogenik yang melibatkan kulit, ginjal, hati, jantung, pankreas, sumsum tulang, usus kecil dan paru-paru. Siklosporin telah ditunjukkan menyekat sebahagian imuniti humoral dan, pada tahap yang lebih besar, tindak balas imun berperantara sel seperti penolakan alograf, hipersensitiviti tertunda, ensefalomielitis alergik eksperimen, artritis adjuvan Freund dan penyakit graf lawan perumah dalam banyak spesies haiwan bagi pelbagai organ.” Teks asal bahasa Inggeris: "Cyclosporine is a potent immunosuppressive agent that in animals prolongs survival of allogeneic transplants involving skin, kidney, liver, heart, pancreas, bone marrow, small intestine, and lung. Cyclosporine has been demonstrated to suppress some humoral immunity and to a greater extent, cell-mediated immune reactions such as allograft rejection, delayed hypersensitivity, experimental allergic encephalomyelitis, Freund’s adjuvant arthritis, and graft versus host disease in many animal species for a variety of organs." ([DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f), versi 2026-09-10; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, siklosporin ialah perencat kalsineurin yang menindas pengaktifan sel T, dan keberkesanannya dalam penyakit autoimun serta keradangan telah terbukti.
 
 Dalam penyakit granulomatus kronik (CGD), kecacatan utama terletak pada enzim NADPH oksidase fagosit. Satu-satunya penerbitan yang ada berkaitan pemindahan sel stem hematopoietik (HSCT), di mana siklosporin mungkin digunakan sebagai profilaksis GVHD atau sokongan penyesuaian, dan bukan sebagai rawatan bagi kecacatan asas tersebut. Hubungan mekanistik ini bersifat tidak langsung dan sokongan sahaja.
 
@@ -82,7 +82,6 @@ Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -125,6 +124,19 @@ Untuk amaran utama dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan
 | 7 | Prolaps kelenjar lakrimal | 0.9908 | L5 | Hold |
 
 Bagi aneurisma otak, hanya dua kajian kecil lama (1991 dan 1997) mengkaji siklosporin untuk vasospasme selepas pendarahan subaraknoid, bukan pembentukan aneurisma. Kajian tetikus 2017 pula mendapati fungsi sel T tidak diperlukan untuk pembentukan aneurisma, yang bercanggah dengan rasional perencatan sel T. Bukti adalah lama, kecil dan tidak direplikasi.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

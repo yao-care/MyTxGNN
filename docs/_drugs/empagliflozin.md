@@ -54,7 +54,7 @@ Empagliflozin ialah perencat SGLT2 yang pada asalnya digunakan untuk merawat dia
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, empagliflozin ialah perencat SGLT2 yang digunakan dalam diabetes jenis 2, tetapi tiada mekanisme biologi yang jelas menghubungkannya dengan sindrom orang kaku.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Empagliflozin (terjemahan tidak rasmi): “Empagliflozin ialah perencat SGLT2, pengangkut utama yang bertanggungjawab bagi penyerapan semula glukosa daripada filtrat glomerulus kembali ke dalam peredaran. Dengan merencat SGLT2, empagliflozin mengurangkan penyerapan semula glukosa terturas oleh ginjal dan merendahkan ambang ginjal bagi glukosa, dan dengan itu meningkatkan perkumuhan glukosa dalam air kencing.” Teks asal bahasa Inggeris: "Empagliflozin is an inhibitor of SGLT2, the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation. By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion." ([DailyMed: Jardiance (empagliflozin) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=faf3dd6a-9cd0-39c2-0d2e-232cb3f67565), versi 2026-11-10; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, empagliflozin ialah perencat SGLT2 yang digunakan dalam diabetes jenis 2, tetapi tiada mekanisme biologi yang jelas menghubungkannya dengan sindrom orang kaku.
 
 Sindrom orang kaku ialah gangguan neurologi autoimun yang dikaitkan dengan antibodi anti-GAD65 dan gangguan isyarat GABA. Ia sering wujud bersama diabetes jenis 1 atau jenis 2. Ramalan tersebut berkemungkinan besar mencerminkan persamaan yang dipelajari model TxGNN (pembelajaran mendalam) antara penyakit berkaitan diabetes, dan bukan mekanisme yang munasabah secara biologi untuk merawat keadaan neurologi ini. Tiada rasional mekanistik langsung untuk perencatan SGLT2 dalam penyakit ini.
 
@@ -98,6 +98,19 @@ Skor ramalan ini datang daripada model TxGNN (pembelajaran mendalam), tanpa seba
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang yang menghalang saringan keselamatan)
 - Bukti praklinikal atau klinikal yang mengkaji perencatan SGLT2 secara langsung dalam sindrom orang kaku
 - Teks indikasi yang diluluskan bagi lesen tempatan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Jardiance (empagliflozin) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=faf3dd6a-9cd0-39c2-0d2e-232cb3f67565) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

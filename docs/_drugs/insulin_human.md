@@ -55,7 +55,7 @@ Insulin Human ialah hormon pengganti yang digunakan untuk merawat diabetes melli
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Insulin diketahui menggantikan kekurangan hormon dalam diabetes, dan tidak merawat autoimuniti ovari secara langsung.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Insulin Human (terjemahan tidak rasmi): “Pengawalaturan metabolisme glukosa ialah aktiviti utama insulin, termasuk HUMULIN R U-500. Insulin merendahkan glukosa darah dengan merangsang pengambilan glukosa periferi oleh otot rangka dan lemak, dan dengan merencat penghasilan glukosa hepar.” Teks asal bahasa Inggeris: "Regulation of glucose metabolism is the primary activity of insulins, including HUMULIN R U-500. Insulins lower blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Humulin R U-500 Kwikpen (insulin human) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60e8dd0-1d48-4dc9-87fd-e14675255e8c), versi 2026-07-01; diakses 2026-11-19). Insulin diketahui menggantikan kekurangan hormon dalam diabetes, dan tidak merawat autoimuniti ovari secara langsung.
 
 Hubungan yang mungkin tetapi belum disahkan ialah autoimmune oophoritis sering wujud bersama sindrom poliendokrin autoimun, termasuk diabetes jenis 1, yang berkongsi laluan autoimun dengan indikasi insulin sedia ada. Oleh sebab itu, alasan terapeutik langsung adalah lemah dan skor tinggi TxGNN (0.9984) datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
@@ -106,6 +106,19 @@ Tiada ujian klinikal atau literatur yang menyokong penggunaan insulin untuk auto
 - Data mekanisme tindakan (MOA) terperinci
 - Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA untuk saringan keselamatan
 - Penilaian sama ada isyarat ramalan hanya mencerminkan komorbiditi diabetes jenis 1, bukan indikasi baharu yang sebenar
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Humulin R U-500 Kwikpen (insulin human) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60e8dd0-1d48-4dc9-87fd-e14675255e8c) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

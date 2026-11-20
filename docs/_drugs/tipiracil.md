@@ -55,7 +55,7 @@ Model TxGNN meramalkan ia mungkin berguna untuk **adenoma vilus sekum (cecum vil
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Tipiracil diketahui sebagai perencat timidina fosforilase. Dalam gabungan trifluridina/tipiracil, ia melindungi trifluridina daripada penguraian supaya kesan antikanser ubat itu bertahan lebih lama.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi trifluridine and tipiracil (ubat gabungan yang mengandungi Tipiracil) (terjemahan tidak rasmi): “LONSURF terdiri daripada analog nukleosida berasaskan timidina, trifluridine, dan perencat timidina fosforilase, tipiracil, pada nisbah molar 1:0.5 (nisbah berat, 1:0.471). Kemasukan tipiracil meningkatkan pendedahan trifluridine dengan merencatkan metabolismenya oleh timidina fosforilase.” Teks asal bahasa Inggeris: "LONSURF consists of a thymidine-based nucleoside analog, trifluridine, and the thymidine phosphorylase inhibitor, tipiracil, at a molar ratio 1:0.5 (weight ratio, 1:0.471). Inclusion of tipiracil increases trifluridine exposure by inhibiting its metabolism by thymidine phosphorylase." ([DailyMed: Lonsurf (trifluridine and tipiracil) prescribing information, Taiho Pharmaceutical Co., Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f5beed22-d71d-4c0d-8dca-2c7317d65d85), versi 2025-11-05; diakses 2026-11-19). Tipiracil diketahui sebagai perencat timidina fosforilase. Dalam gabungan trifluridina/tipiracil, ia melindungi trifluridina daripada penguraian supaya kesan antikanser ubat itu bertahan lebih lama.
 
 Adenoma vilus ialah lesi prakanser jinak pada kolon, yang berdekatan dengan neoplasia kolorektum dari segi anatomi dan biologi. Skor tinggi model berkemungkinan besar didorong oleh kedekatan ini. Namun begitu, tiada bukti langsung untuk adenoma vilus. Penyakit ini lazimnya diurus melalui polipektomi endoskopik atau pembedahan, bukan kemoterapi sitotoksik, maka asas mekanismenya lemah.
 
@@ -107,6 +107,18 @@ Ramalan ini hanya berasaskan model (L5). Tiada percubaan klinikal atau penerbita
 - Amaran dan kontraindikasi daripada sisipan pek NPRA
 - Kajian praklinikal atau klinikal yang menilai secara langsung penyakit ini
 - Justifikasi klinikal bahawa terapi sitotoksik memberi manfaat berbanding polipektomi
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lonsurf (trifluridine and tipiracil) prescribing information, Taiho Pharmaceutical Co., Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f5beed22-d71d-4c0d-8dca-2c7317d65d85) |
+
+<!-- review:end log -->
 
 ## Penafian
 

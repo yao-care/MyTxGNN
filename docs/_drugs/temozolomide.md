@@ -59,7 +59,7 @@ Temozolomide ialah agen pengalkilan oral yang pada asalnya direkodkan dalam graf
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Temozolomide ialah agen pengalkilan oral yang memetilasi DNA (pada O6-guanina, N7-guanina dan N3-adenina), lalu menyebabkan sitotoksisiti dalam sel tumor yang sedang membahagi. Data mekanisme tindakan (MOA) rasmi tidak tersedia dalam data yang dihimpunkan untuk laporan ini, jadi huraian ini bergantung pada pengetahuan am tentang ubat tersebut, bukan data yang dibekalkan.
+Temozolomide ialah agen pengalkilan oral yang memetilasi DNA (pada O6-guanina, N7-guanina dan N3-adenina), lalu menyebabkan sitotoksisiti dalam sel tumor yang sedang membahagi. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Temozolomide (terjemahan tidak rasmi): “Temozolomid tidak aktif secara langsung tetapi mengalami penukaran bukan enzimatik yang pantas pada pH fisiologi kepada sebatian reaktif 5-(3-metiltriazen-1-il)-imidazol-4-karboksamida (MTIC). Kesitotoksikan MTIC dipercayai terutamanya disebabkan oleh pengalkilan DNA, terutamanya pada kedudukan O 6 dan N 7 guanina, yang menyebabkan pemutusan dua bebenang DNA dan mengakibatkan kematian sel terprogram.” Teks asal bahasa Inggeris: "Temozolomide is not directly active but undergoes rapid nonenzymatic conversion at physiologic pH to the reactive compound 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide (MTIC). The cytotoxicity of MTIC is thought to be primarily due to DNA alkylation, mainly at the O 6 and N 7 positions of guanine, which causes DNA double strand breaks and results in programmed cell death." ([DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56), versi 2026-02-20; diakses 2026-11-19).
 
 Indikasi asalnya ialah glioma SSP, maka penembusan ke sistem saraf pusat sudah diketahui. Tumor cauda equina paling kerap ialah ependimoma miksopapilari, iaitu tumor berasal daripada garis keturunan glia. Ini menyokong kaitan yang munasabah melalui kepekaan kerosakan DNA yang sama, yang berkemungkinan dipengaruhi oleh status metilasi promoter MGMT.
 
@@ -136,6 +136,19 @@ Skor ramalan tinggi dan mekanisme am munasabah, tetapi bukti hanya satu laporan 
 - Kajian atau siri kes yang lebih kukuh tentang temozolomide dalam tumor kawasan cauda equina (contohnya ependimoma miksopapilari), termasuk status MGMT
 - Semakan literatur lanjut untuk menilai kaitan dua laporan kes yang lain
 - Pertimbangan bentuk dos dan laluan pemberian yang sesuai
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

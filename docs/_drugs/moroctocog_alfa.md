@@ -60,7 +60,7 @@ Walau bagaimanapun, kini terdapat **0 percubaan klinikal** dan **0 penerbitan** 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Maklumat terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, moroctocog alfa ialah faktor VIII (FVIII) rekombinan yang menggantikan FVIII yang kurang dalam laluan koagulasi intrinsik. Keberkesanannya dalam hemofilia telah dibuktikan.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Moroctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII” Teks asal bahasa Inggeris: "Coagulation factor VIII exogenous protein" ([ChEMBL CHEMBL2109137 (moroctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109137), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat sedia ada, moroctocog alfa ialah faktor VIII (FVIII) rekombinan yang menggantikan FVIII yang kurang dalam laluan koagulasi intrinsik. Keberkesanannya dalam hemofilia telah dibuktikan.
 
 Namun, gangguan pelepasan primer platelet ialah kecacatan kualitatif fungsi platelet, sedangkan tahap FVIII adalah normal. Oleh itu, tiada asas mekanistik yang jelas untuk penggantian FVIII dalam keadaan ini. Skor yang tinggi (0.9997) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi; ia tidak disokong oleh sebarang percubaan atau penerbitan.
 
@@ -94,7 +94,6 @@ Buat masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -116,6 +115,19 @@ Sila rujuk risalah pakej (package insert) untuk maklumat keselamatan. Data inter
 - Pemetaan istilah "flood factor deficiency" kepada keadaan penyakit yang ditakrifkan
 - Jika ingin diteruskan, utamakan **kekurangan faktor pembekuan yang diperoleh** untuk semakan literatur dan penilaian peranan autoantibodi perencat
 - Maklumat laluan pentadbiran dan kesesuaian formulasi bagi mana-mana indikasi baharu
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL2109137 (moroctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109137) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

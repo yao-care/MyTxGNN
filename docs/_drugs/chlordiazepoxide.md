@@ -59,7 +59,7 @@ Chlordiazepoxide ialah benzodiazepin yang bertindak sebagai penenang dan antians
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Chlordiazepoxide dikenali sebagai benzodiazepin yang meningkatkan isyarat reseptor GABA-A, lalu menghasilkan kesan sedatif dan antiansiet. Mekanisme ini munasabah untuk insomnia, kerana benzodiazepin hipnotik ialah kelas ubat yang mapan.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Chlordiazepoxide (terjemahan tidak rasmi): “Chlordiazepoxide HCl mempunyai tindakan antiansieti, sedatif, perangsang selera makan dan analgesik lemah. Mekanisme tindakan yang tepat tidak diketahui. Ubat ini menyekat rangsangan EEG akibat stimulasi formasi retikular batang otak.” Teks asal bahasa Inggeris: "Chlordiazepoxide HCl has antianxiety, sedative, appetite-stimulating and weak analgesic actions. The precise mechanism of action is not known. The drug blocks EEG arousal from stimulation of the brain stem reticular formation." ([DailyMed: chlordiazepoxide hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cbd7cee-c4d7-4c95-93d8-09428169b937), versi 2026-11-05; diakses 2026-11-19). Chlordiazepoxide dikenali sebagai benzodiazepin yang meningkatkan isyarat reseptor GABA-A, lalu menghasilkan kesan sedatif dan antiansiet. Mekanisme ini munasabah untuk insomnia, kerana benzodiazepin hipnotik ialah kelas ubat yang mapan.
 
 Namun, literatur yang diperoleh kebanyakannya ulasan peringkat kelas, gambaran farmakokinetik dan kajian lama mengenai kebimbangan. Tiada percubaan insomnia khusus untuk chlordiazepoxide. Kebimbangan keselamatan juga menentang cadangan ini, iaitu penggunaan yang tidak sesuai pada warga emas, kebergantungan dan kantuk pada hari berikutnya. Skor model yang tinggi tidak dengan sendirinya membuktikan manfaat klinikal.
 
@@ -122,6 +122,19 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pek produk.
 - Sisipan pek yang dimuat turun daripada NPRA untuk amaran dan kontraindikasi.
 - Data mekanisme tindakan terperinci (contohnya daripada DrugBank).
 - Penilaian risiko-manfaat berbanding hipnotik sedia ada, terutama untuk populasi warga emas.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: chlordiazepoxide hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cbd7cee-c4d7-4c95-93d8-09428169b937) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

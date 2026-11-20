@@ -60,7 +60,7 @@ Doxorubicin sudah menjadi komponen regimen kemoterapi piawai sarkoma Ewing, jadi
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, doxorubicin ialah perencat topoisomerase II dan penyelit (intercalator) DNA. Ia merosakkan DNA sel yang membahagi dengan pantas.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Doxorubicin (terjemahan tidak rasmi): “Kesan sitotoksik doksorubisin hidroklorida terhadap sel malignan dan kesan toksiknya terhadap pelbagai organ dianggap berkaitan dengan aktiviti interkalasi bes nukleotida dan pengikatan lipid membran sel oleh doksorubisin. Interkalasi merencat replikasi nukleotida dan tindakan DNA dan RNA polimerase.” Teks asal bahasa Inggeris: "The cytotoxic effect of doxorubicin hydrochloride on malignant cells and its toxic effects on various organs are thought to be related to nucleotide base intercalation and cell membrane lipid binding activities of doxorubicin. Intercalation inhibits nucleotide replication and action of DNA and RNA polymerases." ([DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd), versi 2026-11-12; diakses 2026-11-19). Berdasarkan maklumat sedia ada, doxorubicin ialah perencat topoisomerase II dan penyelit (intercalator) DNA. Ia merosakkan DNA sel yang membahagi dengan pantas.
 
 Sarkoma Ewing ialah tumor tulang dan tisu lembut yang terutamanya menyerang remaja dan dewasa muda. Sel tumornya yang didorong oleh EWS-FLI1 membiak dengan pantas dan sensitif terhadap kemoterapi. Doxorubicin ialah komponen tulang belakang regimen kemoterapi berbilang ubat piawai, seperti VDC/IE dan VAC/VAI (vincristine, doxorubicin, cyclophosphamide, selang-seli dengan ifosfamide dan etoposide).
 
@@ -172,11 +172,12 @@ Beberapa percubaan fasa 3 yang telah selesai dan RCT yang diterbitkan dalam sark
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Terdapat 8 pendaftaran produk doxorubicin yang sah di Malaysia, semuanya produk bahan tunggal" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd) |
 
 <!-- review:end log -->
 

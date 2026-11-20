@@ -55,7 +55,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom antidiuresis tidak wa
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Secara umum, mannitol dikenali sebagai diuretik osmotik yang boleh meningkatkan pengeluaran air bebas secara teori.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Mannitol (terjemahan tidak rasmi): “Mannitol, apabila diberikan secara intravena, memberikan kesan diuretik osmotiknya sebagai zat terlarut bersaiz molekul yang agak kecil yang sebahagian besarnya terhad kepada ruang ekstrasel. Mannitol menghalang penyerapan semula air oleh tubul dan meningkatkan perkumuhan natrium dan klorida dengan meningkatkan osmolariti filtrat glomerulus.” Teks asal bahasa Inggeris: "Mannitol, when administered intravenously, exerts its osmotic diuretic effect as a solute of relatively small molecular size being largely confined to the extracellular space. Mannitol hinders tubular reabsorption of water and enhances excretion of sodium and chloride by elevating the osmolarity of the glomerular filtrate." ([DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc), versi 2025-08-26; diakses 2026-11-19). Secara umum, mannitol dikenali sebagai diuretik osmotik yang boleh meningkatkan pengeluaran air bebas secara teori.
 
 Namun, NSIAD disebabkan oleh mutasi peningkatan fungsi pada reseptor vasopresin V2. Beban osmotik daripada mannitol tidak membetulkan kecacatan asas ini. Satu-satunya penerbitan yang dipautkan ialah ulasan umum tentang kesilapan lazim dalam penilaian hiponatremia dan tidak mengandungi bukti khusus tentang mannitol. Skor tinggi TxGNN hanyalah ramalan komputasi, dan hubungan mekanistik yang kukuh tidak dapat disahkan.
 
@@ -111,6 +111,18 @@ Nota: dua lagi pendaftaran (Dapamac 5 dan Dapamac 10, mengandungi dapagliflozin)
 | 7 | Penyakit multiminicore sederhana dengan penglibatan tangan | 0.9971 | L5 | Tiada bukti. |
 | 8 | Diabetes insipidus nefrogenik | 0.9970 | L5 | Berpotensi memudaratkan; isyarat keselamatan. |
 | 9 | Miopati teras pusat | 0.9969 | L5 | Tiada bukti. |
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc) |
+
+<!-- review:end log -->
 
 ## Penafian
 

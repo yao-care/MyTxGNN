@@ -62,7 +62,7 @@ Bukti masih tidak langsung, jadi ini hanyalah persoalan penyelidikan, bukan cada
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan asal tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, palbociclib tergolong dalam kelas perencat CDK4/6, yang digunakan dalam kanser payudara HR-positif/HER2-negatif, dan secara mekanistik mungkin sesuai untuk artritis reumatoid.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Palbociclib (terjemahan tidak rasmi): “Palbociclib ialah perencat kinase bergantung siklin (CDK) 4 dan 6. Siklin D1 dan CDK4/6 berada di hilir laluan isyarat yang membawa kepada proliferasi sel. In vitro, palbociclib mengurangkan proliferasi sel bagi titisan sel kanser payudara positif reseptor estrogen (ER) dengan menyekat perkembangan sel daripada fasa G1 ke fasa S kitaran sel.” Teks asal bahasa Inggeris: "Palbociclib is an inhibitor of cyclin-dependent kinases (CDK) 4 and 6. Cyclin D1 and CDK4/6 are downstream of signaling pathways which lead to cellular proliferation. In vitro, palbociclib reduced cellular proliferation of estrogen receptor (ER)-positive breast cancer cell lines by blocking progression of the cell from G1 into S phase of the cell cycle." ([DailyMed: Ibrance (palbociclib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89a142d5-7e61-48bf-9e77-e2cd124c4792), versi 2026-07-06; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, palbociclib tergolong dalam kelas perencat CDK4/6, yang digunakan dalam kanser payudara HR-positif/HER2-negatif, dan secara mekanistik mungkin sesuai untuk artritis reumatoid.
 
 Perencatan CDK4/6 boleh menyekat percambahan sel. Kajian praklinikal menunjukkan bahawa perencatan kitaran sel pada fibroblas sinovium memperbaiki penyakit dalam model haiwan RA tanpa melemahkan imuniti perolehan (PMID 25165034). Kajian lain mendapati hiperplasia sinovium bergantung pada CDK6 dan bukannya CDK4 (PMID 39940918).
 
@@ -137,11 +137,12 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang lengkap.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "dan produk tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ibrance (palbociclib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89a142d5-7e61-48bf-9e77-e2cd124c4792) |
 
 <!-- review:end log -->
 

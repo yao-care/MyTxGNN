@@ -54,7 +54,7 @@ Asid asetilsalisilik (aspirin) ialah ubat perencat COX dengan kesan antiplatelet
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, aspirin menghalang enzim COX dan sintesis prostaglandin serta tromboksan, lalu mengurangkan pengagregatan platelet dan keradangan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi aspirin and extended - release dipyridamole (ubat gabungan yang mengandungi Acetylsalicylic Acid) (terjemahan tidak rasmi): “Aspirin Aspirin merencat pengagregatan platelet melalui perencatan tidak boleh balik terhadap siklooksigenase platelet dan dengan itu merencat penjanaan tromboksan A 2, iaitu pencetus kuat pengagregatan platelet dan vasokonstriksi.” Teks asal bahasa Inggeris: "Aspirin Aspirin inhibits platelet aggregation by irreversible inhibition of platelet cyclooxygenase and thus inhibits the generation of thromboxane A 2, a powerful inducer of platelet aggregation and vasoconstriction." ([DailyMed: Aspirin And Extended - Release Dipyridamole Capsules, 25 Mg / 200 Mg (aspirin and extended - release dipyridamole) prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6e652e1-b2e4-47ba-bed2-c5e902f8b8f1), versi 2026-08-19; diakses 2026-11-19). Secara umum, aspirin menghalang enzim COX dan sintesis prostaglandin serta tromboksan, lalu mengurangkan pengagregatan platelet dan keradangan.
 
 Penilaian mekanistik tidak menemui kaitan yang jelas antara tindakan ini dengan atrofoderma vermikulata. Penyakit ini ialah gangguan atrofi folikel kulit yang jarang berlaku, dan tiada hubungan yang diketahui dengan perencatan COX atau fungsi platelet. Skor yang tinggi (0.9959) hanyalah keluaran model dan tidak disokong oleh data klinikal atau literatur. Oleh itu, kemungkinan manfaat aspirin dalam penyakit ini masih sangat spekulatif.
 
@@ -85,6 +85,19 @@ Data amaran utama dan kontraindikasi tidak tersedia. Sila rujuk sisipan pakej un
 - Amaran dan kontraindikasi daripada sisipan pakej tempatan (NPRA)
 - Pertimbangan laluan pentadbiran yang sesuai untuk penyakit kulit
 - Pendapat pakar dermatologi sebelum sebarang kajian awal dirancang
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Aspirin And Extended - Release Dipyridamole Capsules, 25 Mg / 200 Mg (aspirin and extended - release dipyridamole) prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6e652e1-b2e4-47ba-bed2-c5e902f8b8f1) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

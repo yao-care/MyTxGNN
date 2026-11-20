@@ -56,7 +56,7 @@ tetapi **tiada sebarang ujian klinikal atau penerbitan** yang menyokong ramalan 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Bimatoprost diketahui sebagai analog prostamida F2α yang bertindak pada reseptor prostaglandin/prostamida.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Bimatoprost (terjemahan tidak rasmi): “Bimatoprost, analog prostaglandin, ialah analog struktur sintetik prostaglandin dengan aktiviti hipotensif okular. Bimatoprost dipercayai menurunkan IOP pada manusia dengan meningkatkan aliran keluar humor akueus melalui kedua-dua laluan jaringan trabekular (konvensional) dan uveosklera (tidak konvensional).” Teks asal bahasa Inggeris: "Bimatoprost, a prostaglandin analog, is a synthetic structural analog of prostaglandin with ocular hypotensive activity. Bimatoprost is believed to lower IOP in humans by increasing outflow of aqueous humor through both the trabecular meshwork (conventional) and uveoscleral routes (unconventional)." ([DailyMed: Durysta (bimatoprost) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3f59da84-0bcc-4c84-b3e2-e215681ef341), versi 2024-10-16; diakses 2026-11-19). Bimatoprost diketahui sebagai analog prostamida F2α yang bertindak pada reseptor prostaglandin/prostamida.
 
 Kami tidak menemui sebarang hubungan mekanistik yang munasabah antara bimatoprost dengan sindrom malformasi gigi dan/atau periodontium. Sindrom ini ialah kecacatan struktur, manakala bimatoprost topikal tidak mempunyai laluan yang jelas untuk membetulkan kecacatan perkembangan tersebut. Skor TxGNN yang tinggi hanyalah ramalan berasaskan model dan tidak boleh dianggap sebagai bukti kegunaan klinikal.
 
@@ -94,6 +94,19 @@ Ramalan ini tidak disokong oleh sebarang ujian klinikal, literatur atau hubungan
 - Data mekanisme tindakan (MOA) yang terperinci
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Penilaian kesesuaian laluan pentadbiran (laluan topikal/oftalmik berbanding keperluan penyakit)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Durysta (bimatoprost) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3f59da84-0bcc-4c84-b3e2-e215681ef341) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -60,7 +60,7 @@ dengan **6 ujian klinikal** dan **20 penerbitan** yang disenaraikan dalam data y
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia daripada data yang dikompilasi. Berdasarkan maklumat yang diketahui, ustekinumab menyekat subunit p40 yang dikongsi oleh IL-12 dan IL-23, lalu merencat laluan Th1 dan Th17. Laluan ini menyumbang kepada keradangan kulit, dan keberkesanannya dalam psoriasis telah dibuktikan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ustekinumab (terjemahan tidak rasmi): “Produk ustekinumab ialah antibodi monoklonal IgG1κ manusia yang mengikat secara spesifik kepada subunit protein p40 yang digunakan oleh kedua-dua sitokin IL-12 dan IL-23. IL-12 dan IL-23 ialah sitokin semula jadi yang terlibat dalam tindak balas keradangan dan imun, seperti pengaktifan sel pembunuh semula jadi serta pembezaan dan pengaktifan sel T CD4+.” Teks asal bahasa Inggeris: "Ustekinumab products are human IgG1κ monoclonal antibodies that bind with specificity to the p40 protein subunit used by both the IL-12 and IL-23 cytokines. IL-12 and IL-23 are naturally occurring cytokines that are involved in inflammatory and immune responses, such as natural killer cell activation and CD4+ T-cell differentiation and activation." ([DailyMed: Selarsdi (ustekinumab-aekn) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=87f75b59-e48b-47c7-a4c0-5fe5965660e7), versi 2026-11-11; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, ustekinumab menyekat subunit p40 yang dikongsi oleh IL-12 dan IL-23, lalu merencat laluan Th1 dan Th17. Laluan ini menyumbang kepada keradangan kulit, dan keberkesanannya dalam psoriasis telah dibuktikan.
 
 Dermatitis atopik terutamanya didorong oleh Th2, tetapi lesi kronik turut melibatkan Th1/Th17 dan IL-23. Oleh itu, rasional mekanistik adalah munasabah tetapi separa sahaja. Ini selaras dengan keberkesanan yang sederhana dalam ujian kecil.
 
@@ -129,11 +129,12 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak didaftarkan di Malaysia dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Selarsdi (ustekinumab-aekn) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=87f75b59-e48b-47c7-a4c0-5fe5965660e7) |
 
 <!-- review:end log -->
 

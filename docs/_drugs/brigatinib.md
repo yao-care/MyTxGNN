@@ -56,7 +56,7 @@ tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang menyok
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan brigatinib tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, brigatinib dikenali sebagai perencat tirosin kinase yang menyasarkan ALK, dan ia juga dilaporkan menyasarkan EGFR dan ROS1.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Brigatinib (terjemahan tidak rasmi): “Brigatinib ialah perencat kinase tirosina (TKI) dengan aktiviti in vitro pada kepekatan yang boleh dicapai secara klinikal terhadap pelbagai kinase termasuk ALK, ROS1, reseptor faktor pertumbuhan seperti insulin-1 (IGF-1R) dan FLT-3 serta delesi dan mutasi titik EGFR. Brigatinib merencat autofosforilasi ALK dan fosforilasi pengantaraan ALK bagi protein pengisyaratan hiliran STAT3, AKT, ERK1/2 dan S6 dalam asai in vitro dan in vivo.” Teks asal bahasa Inggeris: "Brigatinib is a tyrosine kinase inhibitor (TKI) with in vitro activity at clinically achievable concentrations against multiple kinases including ALK, ROS1, insulin-like growth factor-1 receptor (IGF-1R), and FLT-3 as well as EGFR deletion and point mutations. Brigatinib inhibited autophosphorylation of ALK and ALK-mediated phosphorylation of the downstream signaling proteins STAT3, AKT, ERK1/2, and S6 in in vitro and in vivo assays." ([DailyMed: Alunbrig (brigatinib) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fe9ff20-d402-41f3-bc1e-7002ea7007db), versi 2026-01-12; diakses 2026-11-19). Secara umum, brigatinib dikenali sebagai perencat tirosin kinase yang menyasarkan ALK, dan ia juga dilaporkan menyasarkan EGFR dan ROS1.
 
 Dalam data yang dikumpulkan, tiada kaitan mekanistik yang jelas dikenal pasti antara perencatan kinase ini dengan fibromatosis gingiva. Skor yang tinggi (0,9989) datang daripada ramalan berasaskan model sahaja, dan tidak disokong oleh ujian klinikal atau literatur. Oleh itu, ramalan ini harus dianggap sebagai hipotesis awal yang belum disahkan.
 
@@ -100,6 +100,19 @@ Ramalan ini hanya berasaskan skor model (0,9989) tanpa sebarang ujian klinikal, 
 - Kajian praklinikal atau laporan kes yang mengkaji penyakit ini secara langsung
 - Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA
 - Penilaian keserasian laluan pentadbiran dan formulasi untuk indikasi baharu ini
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Alunbrig (brigatinib) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fe9ff20-d402-41f3-bc1e-7002ea7007db) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

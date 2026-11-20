@@ -60,7 +60,7 @@ Namun, **tiada kajian klinikal** dan **tiada penerbitan** yang menyokong ramalan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Haloperidol diketahui bertindak sebagai antagonis reseptor dopamin D2.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Haloperidol (terjemahan tidak rasmi): “Mekanisme tindakan haloperidol decanoate untuk rawatan skizofrenia pada orang dewasa tidak jelas. Walau bagaimanapun, kesannya dalam skizofrenia mungkin diperantarakan melalui aktivitinya sebagai antagonis pada reseptor dopamina jenis 2 pusat.” Teks asal bahasa Inggeris: "The mechanism of action of haloperidol decanoate for the treatment of schizophrenia in adults is unclear. However, its effect in schizophrenia could be mediated through its activity as an antagonist at central dopamine type 2 receptors." ([DailyMed: haloperidol decanoate prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d011250-a517-4c27-8ce3-d59d441ea61c), versi 2026-11-03; diakses 2026-11-19). Haloperidol diketahui bertindak sebagai antagonis reseptor dopamin D2.
 
 Tiada hubungan mekanistik yang munasabah dapat dikenal pasti antara penyekatan reseptor D2 dengan laluan fukosilasi, misalnya pengangkutan GDP-fukosa melalui SLC35C1. Ramalan ini perlu dianggap sebagai hipotesis yang belum disokong.
 
@@ -116,6 +116,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Data mekanisme tindakan yang lengkap (contohnya daripada DrugBank).
 - Sisipan pakej NPRA yang lengkap, termasuk indikasi yang diluluskan, amaran dan kontraindikasi, bagi membolehkan saringan keselamatan.
 - Penilaian risiko-manfaat memandangkan beban interaksi dadah yang tinggi dan risiko yang diketahui bagi kelas ubat ini, seperti simptom ekstrapiramidal, pemanjangan QTc dan diskinesia tardif.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: haloperidol decanoate prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d011250-a517-4c27-8ce3-d59d441ea61c) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

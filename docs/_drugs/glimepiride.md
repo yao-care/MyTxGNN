@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada literatur berkaita
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan glimepirida tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, glimepirida tergolong dalam kelas sulfonilurea, keberkesanannya dalam diabetes mellitus jenis 2 telah terbukti, dan secara mekanistik penerapannya kepada sindrom anggota kaku fokal masih belum dapat disahkan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Glimepiride (terjemahan tidak rasmi): “Glimepirid terutamanya merendahkan glukosa darah dengan merangsang pembebasan insulin daripada sel beta pankreas. Sulfonilurea mengikat pada reseptor sulfonilurea dalam membran plasma sel beta pankreas, yang membawa kepada penutupan saluran kalium yang sensitif terhadap ATP, dan dengan itu merangsang pembebasan insulin.” Teks asal bahasa Inggeris: "Glimepiride primarily lowers blood glucose by stimulating the release of insulin from pancreatic beta cells. Sulfonylureas bind to the sulfonylurea receptor in the pancreatic beta-cell plasma membrane, leading to closure of the ATP-sensitive potassium channel, thereby stimulating the release of insulin." ([DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa), versi 2024-08-20; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, glimepirida tergolong dalam kelas sulfonilurea, keberkesanannya dalam diabetes mellitus jenis 2 telah terbukti, dan secara mekanistik penerapannya kepada sindrom anggota kaku fokal masih belum dapat disahkan.
 
 Satu kaitan yang munasabah tetapi belum disahkan ialah gangguan spektrum anggota kaku/sindrom orang kaku (stiff person) sering bersifat autoimun (anti-GAD65) dan kerap wujud bersama diabetes. Ini mungkin mencerminkan kedekatan rangkaian dengan gen berkaitan diabetes dalam model, dan bukannya kesan terapeutik glimepirida.
 
@@ -106,6 +106,19 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. 
 - Kajian praklinikal atau laporan kes yang menyokong kesan glimepirida terhadap sindrom anggota kaku/sindrom orang kaku
 - Penilaian status pendaftaran dan ketersediaan produk di Malaysia
 - Semakan keserasian laluan pentadbiran (belum dinilai)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -58,7 +58,7 @@ Arsenic trioxide ialah ubat antikanser yang digunakan dalam rawatan leukemia hem
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) arsenic trioxide tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, ubat ini bertindak pada sel darah malignan melalui aruhan apoptosis, rangsangan pembezaan sel, dan pengubahsuaian persekitaran sumsum tulang.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Arsenic Trioxide (terjemahan tidak rasmi): “Mekanisme tindakan TRISENOX tidak difahami sepenuhnya. Arsenik trioksida menyebabkan perubahan morfologi dan fragmentasi DNA yang merupakan ciri apoptosis dalam sel leukemia promielositik manusia NB4 secara in vitro. Arsenik trioksida juga menyebabkan kerosakan atau degradasi protein gabungan leukemia promielositik (PML)-reseptor asid retinoik (RAR)-alfa.” Teks asal bahasa Inggeris: "The mechanism of action of TRISENOX is not completely understood. Arsenic trioxide causes morphological changes and DNA fragmentation characteristic of apoptosis in NB4 human promyelocytic leukemia cells in vitro. Arsenic trioxide also causes damage or degradation of the fusion protein promyelocytic leukemia (PML)-retinoic acid receptor (RAR)-alpha." ([DailyMed: Trisenox (arsenic trioxide) prescribing information, Cephalon, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=101fc347-d0ad-4aee-8b06-9feb187fd741), versi 2022-06-30; diakses 2026-11-19). Berdasarkan maklumat sedia ada, ubat ini bertindak pada sel darah malignan melalui aruhan apoptosis, rangsangan pembezaan sel, dan pengubahsuaian persekitaran sumsum tulang.
 
 Sindrom mielodisplastik tidak terklasifikasi ialah subjenis kategori sindrom mielodisplastik (MDS) yang lebih luas. Untuk kategori MDS yang lebih luas, arsenic trioxide mempunyai data klinikal, tetapi data tersebut tidak dikaitkan dengan subjenis ini. Sebarang bukti perlu diekstrapolasi daripada entri MDS umum, bukan daripada kajian subjenis ini sendiri.
 
@@ -126,6 +126,19 @@ Skor TxGNN sangat tinggi, tetapi tiada ujian klinikal atau penerbitan yang mengk
 - Data mekanisme tindakan (MOA) yang terperinci
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA untuk saringan keselamatan
 - Pelan pemantauan keselamatan, terutamanya untuk pemanjangan QT dan ketidakseimbangan elektrolit
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Trisenox (arsenic trioxide) prescribing information, Cephalon, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=101fc347-d0ad-4aee-8b06-9feb187fd741) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

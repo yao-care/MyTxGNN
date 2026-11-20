@@ -59,7 +59,7 @@ Pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang menyokong 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, enzalutamide ialah perencat isyarat reseptor androgen, dan keberkesanannya dalam kanser prostat telah terbukti. Secara mekanistik, ia mungkin berkaitan dengan entiti ramalan ini kerana pertindihan dengan kanser prostat.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Enzalutamide (terjemahan tidak rasmi): “Enzalutamide ialah perencat reseptor androgen yang bertindak pada pelbagai langkah dalam laluan isyarat reseptor androgen. Enzalutamide telah ditunjukkan merencat secara kompetitif pengikatan androgen kepada reseptor androgen; dan akibatnya, merencat translokasi nukleus reseptor androgen dan interaksinya dengan DNA.” Teks asal bahasa Inggeris: "Enzalutamide is an androgen receptor inhibitor that acts on different steps in the androgen receptor signaling pathway. Enzalutamide has been shown to competitively inhibit androgen binding to androgen receptors; and consequently, inhibits nuclear translocation of androgen receptors and their interaction with DNA." ([DailyMed: Xtandi (enzalutamide) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf), versi 2026-07-28; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, enzalutamide ialah perencat isyarat reseptor androgen, dan keberkesanannya dalam kanser prostat telah terbukti. Secara mekanistik, ia mungkin berkaitan dengan entiti ramalan ini kerana pertindihan dengan kanser prostat.
 
 Namun, ramalan ini perlu dinilai dengan berhati-hati. "Kerentanan kanser prostat/kanser otak" ialah entiti kerentanan genetik, bukan penyakit yang boleh dirawat secara langsung, dan ia bertindih dengan indikasi asal iaitu kanser prostat. Tiada kaitan mekanistik yang mapan antara perencatan reseptor androgen dan kanser otak.
 
@@ -115,6 +115,19 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pakej belum tersedia. 
 - Bukti klinikal atau pra-klinikal yang menghubungkan perencatan reseptor androgen dengan indikasi yang dicadangkan
 
 **Nota:** Antara ramalan lain dalam data yang dikumpulkan, kategori "kanser organ pembiakan lelaki" mempunyai banyak ujian klinikal dan literatur. Namun, bukti tersebut didominasi oleh kanser prostat, iaitu indikasi asal enzalutamide, jadi ia mencerminkan penggunaan sedia ada dan bukan penggunaan semula yang sebenar.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Xtandi (enzalutamide) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

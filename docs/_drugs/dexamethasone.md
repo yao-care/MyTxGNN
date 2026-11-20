@@ -54,7 +54,7 @@ Dexamethasone ialah kortikosteroid sintetik daripada kumpulan glukokortikoid yan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan dexamethasone tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, ia ialah glukokortikoid yang menekan tindak balas keradangan dan imun.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Dexamethasone (terjemahan tidak rasmi): “Deksametason ialah kortikosteroid dengan kesan anti-radang dan aktiviti mineralokortikoid yang rendah. Mekanisme tindakan yang tepat dalam mieloma berganda tidak diketahui. Deksametason mengaruh apoptosis sel mieloma berganda.” Teks asal bahasa Inggeris: "Dexamethasone is a corticosteroid with anti-inflammatory effects and low mineralocorticoid activity. The precise mechanism of action in multiple myeloma is unknown. Dexamethasone induces apoptosis of multiple myeloma cells." ([DailyMed: Hemady (dexamethasone) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b9cf32c-6d60-4853-bbfd-2304ffc2c129), versi 2026-01-09; diakses 2026-11-19). Secara umum, ia ialah glukokortikoid yang menekan tindak balas keradangan dan imun.
 
 Alopesia musinosa (juga dikenali sebagai follicular mucinosis) ialah gangguan keradangan folikel rambut. Oleh itu, ubat anti-radang seperti glukokortikoid munasabah secara prinsip. Namun, kemunasabahan ini bersifat teori sahaja kerana tiada ujian klinikal atau literatur yang menyokongnya.
 
@@ -113,11 +113,12 @@ Ramalan ini mempunyai skor model yang tinggi (0,9999), tetapi tiada ujian klinik
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Daripada keseluruhan 38 lesen, 36 masih sah dan 2 telah dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Hemady (dexamethasone) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b9cf32c-6d60-4853-bbfd-2304ffc2c129) |
 
 <!-- review:end log -->
 

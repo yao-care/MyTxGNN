@@ -60,7 +60,7 @@ tetapi setakat ini terdapat **0 ujian klinikal** dan hanya **12 penerbitan** yan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan isoniazid tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, isoniazid ialah ubat antimikobakteria, keberkesanannya dalam tuberkulosis pulmonari telah terbukti, dan secara mekanistik ia mungkin sesuai untuk jenis konjunktivitis yang berkaitan dengan mikobakteria.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Isoniazid (terjemahan tidak rasmi): “Isoniazid merencat sintesis asid mikolik, iaitu komponen penting dinding sel bakteria. Pada paras terapeutik, isoniazid bersifat bakterisidal terhadap organisma Mycobacterium tuberculosis intrasel dan ekstrasel yang sedang aktif membiak.” Teks asal bahasa Inggeris: "Isoniazid inhibits the synthesis of mycoloic acids, an essential component of the bacterial cell wall. At therapeutic levels isoniazid is bactericidal against actively growing intracellular and extracellular Mycobacterium tuberculosis organisms." ([DailyMed: isoniazid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dab7b7b-a3a9-47ef-b423-134bc6970d8b), versi 2026-09-04; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, isoniazid ialah ubat antimikobakteria, keberkesanannya dalam tuberkulosis pulmonari telah terbukti, dan secara mekanistik ia mungkin sesuai untuk jenis konjunktivitis yang berkaitan dengan mikobakteria.
 
 Hubungan yang paling munasabah ialah keratokonjunktivitis fliktenular, iaitu tindak balas hipersensitiviti terhadap antigen mikobakteria, serta tuberkulosis primer konjunktiva. Satu laporan dari Alaska (1965) mengenai profilaksis isoniazid terhadap keratokonjunktivitis fliktenular ialah isyarat yang paling hampir, namun ia hanyalah pemerhatian sejarah peringkat populasi dalam kawasan endemik TB.
 
@@ -116,6 +116,19 @@ Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi rasmi.
 - Bukti klinikal yang lebih kukuh, contohnya ujian klinikal pada keratokonjunktivitis fliktenular atau tuberkulosis okular
 - Penilaian kesesuaian laluan pemberian (sistemik berbanding setempat) untuk penggunaan okular
 - Profil keselamatan hati dan saraf periferi yang jelas bagi populasi sasaran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: isoniazid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dab7b7b-a3a9-47ef-b423-134bc6970d8b) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

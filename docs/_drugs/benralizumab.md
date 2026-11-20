@@ -54,7 +54,7 @@ Benralizumab ialah antibodi monoklonal yang menyasarkan reseptor alfa interleuki
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Secara umumnya, benralizumab ialah antibodi anti-IL-5Rα yang menghapuskan eosinofil dan basofil melalui sitotoksisiti selular bergantung antibodi (ADCC).
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Benralizumab (terjemahan tidak rasmi): “Benralizumab ialah antibodi monoklonal (IgG1, kappa) termanusia tanpa fukosa yang terikat secara langsung pada subunit alfa reseptor interleukin-5 manusia (IL-5Rα) dengan pemalar penceraian 11 pM. Reseptor IL-5 diekspresikan pada permukaan eosinofil dan basofil.” Teks asal bahasa Inggeris: "Benralizumab is a humanized afucosylated, monoclonal antibody (IgG1, kappa) that directly binds to the alpha subunit of the human interleukin-5 receptor (IL-5Rα) with a dissociation constant of 11 pM. The IL-5 receptor is expressed on the surface of eosinophils and basophils." ([DailyMed: Fasenra (benralizumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da6aca1a-19ed-44a4-abb7-696c7d58b784), versi 2026-05-13; diakses 2026-11-19). Secara umumnya, benralizumab ialah antibodi anti-IL-5Rα yang menghapuskan eosinofil dan basofil melalui sitotoksisiti selular bergantung antibodi (ADCC).
 
 Hubungan mekanistik dengan trombositopenia imun adalah **bersifat spekulatif**. Pemusnahan platelet dalam keadaan ini terutamanya disebabkan oleh autoantibodi dan disregulasi sel T, dan tiada peranan eosinofil yang mantap dalam proses tersebut. Skor TxGNN yang tinggi (0,9934) ialah ramalan pengiraan semata-mata dan bukan bukti klinikal.
 
@@ -84,6 +84,19 @@ Ramalan ini hanya berasaskan model, tanpa sebarang kajian klinikal atau literatu
 - Maklumat amaran dan kontraindikasi daripada risalah maklumat produk NPRA
 - Kajian praklinikal atau laporan kes yang menunjukkan kaitan antara penghapusan eosinofil/basofil dengan trombositopenia imun
 - Rancangan pemantauan keselamatan sekiranya kajian klinikal dipertimbangkan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Fasenra (benralizumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da6aca1a-19ed-44a4-abb7-696c7d58b784) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

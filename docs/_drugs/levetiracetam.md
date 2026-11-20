@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **epilepsi visual (visual epile
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak terdapat dalam data yang disusun. Berdasarkan kesusasteraan yang diperoleh, levetiracetam mengikat protein vesikel sinaptik SV2A dan mengubah suai pelepasan neurotransmitter. Ini boleh mengurangkan keterujaan berlebihan korteks otak.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Levetiracetam (terjemahan tidak rasmi): “Mekanisme tepat bagaimana levetiracetam memberikan kesan antiepileptiknya tidak diketahui. Tapak pengikatan neuron yang boleh tepu dan stereoselektif dalam tisu otak tikus telah diterangkan bagi levetiracetam. Data eksperimen menunjukkan bahawa tapak pengikatan ini ialah protein vesikel sinaps SV2A, yang dipercayai terlibat dalam pengawalaturan eksositosis vesikel.” Teks asal bahasa Inggeris: "The precise mechanism(s) by which levetiracetam exerts its antiepileptic effect is unknown. A saturable and stereoselective neuronal binding site in rat brain tissue has been described for levetiracetam. Experimental data indicate that this binding site is the synaptic vesicle protein SV2A, thought to be involved in the regulation of vesicle exocytosis." ([DailyMed: Keppra (levetiracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6d5784d-abf9-45fe-ac5a-d5c53bd50f7e), versi 2026-11-11; diakses 2026-11-19). Berdasarkan kesusasteraan yang diperoleh, levetiracetam mengikat protein vesikel sinaptik SV2A dan mengubah suai pelepasan neurotransmitter. Ini boleh mengurangkan keterujaan berlebihan korteks otak.
 
 Mekanisme antisawan levetiracetam yang luas secara teorinya sesuai untuk keadaan ini.
 
@@ -124,6 +124,19 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 **Nota tambahan tentang ramalan lain dalam data:**
 - **Status epileptikus** mempunyai bukti terkuat (L1, Proceed with Guardrails). Ia disokong oleh RCT Fasa 3 [NCT01960075](https://clinicaltrials.gov/study/NCT01960075) (478 pesakit; penerbitan [PMID 31774955](https://pubmed.ncbi.nlm.nih.gov/31774955/)) dan [NCT01150331](https://clinicaltrials.gov/study/NCT01150331) (203 pesakit). Penggunaannya sebagai terapi barisan kedua selepas benzodiazepin patut dinilai sebagai calon utama.
 - **Epilepsi terkejut (startle epilepsy)** berada pada tahap L3 (soalan penyelidikan). Terdapat kajian kecil dan laporan kes, tetapi tiada ujian klinikal berdaftar.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Keppra (levetiracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6d5784d-abf9-45fe-ac5a-d5c53bd50f7e) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

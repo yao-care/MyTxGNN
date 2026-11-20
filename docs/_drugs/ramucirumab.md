@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **adenokarsinoma ligamen uterus
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan umum, ramucirumab ialah antibodi yang menyasarkan VEGFR2, dan penyekatan angiogenesis munasabah dalam adenokarsinoma. Ini selaras dengan penggunaannya dalam adenokarsinoma gastrik, kanser paru-paru bukan sel kecil dan karsinoma hepatoselular. Pautan mekanistik ini disimpulkan daripada pengetahuan umum dan bukan daripada data yang dibekalkan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ramucirumab (terjemahan tidak rasmi): “Ramucirumab ialah antagonis VEGFR2 yang mengikat VEGFR2 secara khusus dan menyekat pengikatan ligan VEGFR, VEGF-A, VEGF-C dan VEGF-D. Akibatnya, ramucirumab merencatkan pengaktifan VEGFR2 yang dirangsang oleh ligan, sekali gus merencatkan proliferasi dan migrasi sel endotelium manusia yang diaruh oleh ligan. Ramucirumab merencatkan angiogenesis dalam model haiwan in vivo.” Teks asal bahasa Inggeris: "Ramucirumab is a VEGFR2 antagonist that specifically binds VEGFR2 and blocks binding of VEGFR ligands, VEGF-A, VEGF-C, and VEGF-D. As a result, ramucirumab inhibits ligand-stimulated activation of VEGFR2, thereby inhibiting ligand-induced proliferation, and migration of human endothelial cells. Ramucirumab inhibited angiogenesis in an in vivo animal model." ([DailyMed: Cyramza (ramucirumab) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6080942-dee6-423e-b688-1272c2ae90d4), versi 2026-06-09; diakses 2026-11-19). Berdasarkan pengetahuan umum, ramucirumab ialah antibodi yang menyasarkan VEGFR2, dan penyekatan angiogenesis munasabah dalam adenokarsinoma. Ini selaras dengan penggunaannya dalam adenokarsinoma gastrik, kanser paru-paru bukan sel kecil dan karsinoma hepatoselular. Pautan mekanistik ini disimpulkan daripada pengetahuan umum dan bukan daripada data yang dibekalkan.
 
 Adenokarsinoma ligamen uterus sangat jarang berlaku, dan tiada bukti sokongan dibekalkan. Skor yang tinggi mungkin sebahagiannya mencerminkan kedekatan ontologi dengan istilah adenokarsinoma lain dan bukan bukti bebas. Kesamaan dengan indikasi asal masih belum dinilai.
 
@@ -68,7 +68,6 @@ Ramalan lain dengan skor serupa (kira-kira 0.9994–0.9995) ialah karsinoma endo
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -95,6 +94,19 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. 
 - Carian percubaan klinikal dan literatur khusus untuk ramucirumab dalam karsinoma serviks dan adenokarsinoma ligamen uterus
 - Penilaian kesamaan dengan indikasi asal serta keserasian laluan pentadbiran
 - Pertimbangan status pendaftaran dan ketersediaan ubat di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Cyramza (ramucirumab) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6080942-dee6-423e-b688-1272c2ae90d4) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

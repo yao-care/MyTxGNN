@@ -54,7 +54,7 @@ Ergocalciferol ialah vitamin D2, sejenis vitamin larut lemak yang digunakan untu
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia pada masa ini. Ergocalciferol ialah vitamin D2 yang membantu penyerapan kalsium dan fosfat serta kesihatan tulang. Sebab itu secara umum ia dikaitkan dengan penyakit tulang.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ergocalciferol (terjemahan tidak rasmi): “Sintesis in vivo metabolit utama vitamin D yang aktif secara biologi berlaku dalam dua langkah. Hidroksilasi pertama ergocalciferol berlaku dalam hati (kepada 25-hidroksivitamin D) dan yang kedua dalam ginjal (kepada 1, 25-dihidroksivitamin D).” Teks asal bahasa Inggeris: "The in vivo synthesis of the major biologically active metabolites of vitamin D occurs in two steps. The first hydroxylation of ergocalciferol takes place in the liver (to 25-hydroxyvitamin D) and the second in the kidneys (to 1, 25-dihydroxyvitamin D)." ([DailyMed: Vitamin D (ergocalciferol) prescribing information, Preferred Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba2076ef-1650-45e1-b092-a4c449dd6210), versi 2026-11-02; diakses 2026-11-19). Ergocalciferol ialah vitamin D2 yang membantu penyerapan kalsium dan fosfat serta kesihatan tulang. Sebab itu secara umum ia dikaitkan dengan penyakit tulang.
 
 Displasia akromesomelik ialah penyakit rangka genetik yang jarang berlaku dan menjejaskan pertumbuhan tulang anggota badan. Ia berpunca daripada kecacatan genetik dalam laluan pertumbuhan tulang, biasanya melibatkan laluan NPR2. Tiada rasional biologi yang jelas menunjukkan vitamin D2 dapat mengubah perjalanan penyakit ini.
 
@@ -96,6 +96,18 @@ Ramalan ini hanya disokong oleh skor model. Tiada percubaan klinikal atau penerb
 - Kajian praklinikal atau laporan kes yang mengkaji ergocalciferol secara langsung dalam penyakit ini.
 - Maklumat keselamatan daripada sisipan pakej yang diluluskan oleh NPRA.
 - Penilaian risiko hiperkalsemia dan interaksi ubat sebelum sebarang pertimbangan penggunaan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Vitamin D (ergocalciferol) prescribing information, Preferred Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba2076ef-1650-45e1-b092-a4c449dd6210) |
+
+<!-- review:end log -->
 
 ## Penafian
 

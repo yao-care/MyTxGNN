@@ -60,7 +60,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan asal tretinoin tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, tretinoin ialah retinoid yang berfungsi melalui isyarat reseptor asid retinoik. Keberkesanannya telah terbukti dalam jerawat dan leukemia promielositik akut, dan secara mekanisme mungkin boleh digunakan untuk rheumatoid nodulosis.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Tretinoin (terjemahan tidak rasmi): “Tretinoin mengaruh sitodiferensiasi dan pengurangan proliferasi sel APL dalam kultur dan in vivo. Pada pesakit APL, rawatan tretinoin menghasilkan pematangan awal promielosit primitif yang berasal daripada klon leukemia, diikuti oleh pemenuhan semula sumsum tulang dan darah periferi oleh sel hematopoietik poliklonal yang normal pada pesakit yang mencapai remisi lengkap (CR).” Teks asal bahasa Inggeris: "Tretinoin induces cytodifferentiation and decreased proliferation of APL cells in culture and in vivo. In APL patients, tretinoin treatment produces an initial maturation of the primitive promyelocytes derived from the leukemic clone, followed by a repopulation of the bone marrow and peripheral blood by normal, polyclonal hematopoietic cells in patients achieving complete remission (CR)." ([DailyMed: tretinoin prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c4ae9d9-c2a0-4995-a27a-e3f0f0284db9), versi 2026-08-20; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, tretinoin ialah retinoid yang berfungsi melalui isyarat reseptor asid retinoik. Keberkesanannya telah terbukti dalam jerawat dan leukemia promielositik akut, dan secara mekanisme mungkin boleh digunakan untuk rheumatoid nodulosis.
 
 Asid retinoik dikaitkan dengan kesan imunomodulasi terhadap pembezaan sel T (keseimbangan Th17/Treg), yang secara teorinya boleh berkaitan dengan keradangan jenis reumatoid. Namun, ini hanyalah hipotesis. Tiada ujian atau penerbitan menyokong indikasi khusus ini, dan indikasi asal (kulit dan leukemia) agak jauh daripada penyakit reumatik.
 
@@ -135,11 +135,12 @@ Untuk amaran dan kontraindikasi lengkap, sila rujuk sisipan pek produk.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "dan tretinoin tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: tretinoin prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c4ae9d9-c2a0-4995-a27a-e3f0f0284db9) |
 
 <!-- review:end log -->
 

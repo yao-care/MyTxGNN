@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **koarktasio aorta atipikal**, 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia pada masa ini. Carboprost diketahui sebagai analog PGF2α yang bertindak sebagai agonis reseptor FP dan merangsang pengecutan otot licin uterus. Tiada indikasi asal yang berdaftar di Malaysia dapat disahkan daripada data yang dikumpulkan.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Carboprost Tromethamine (terjemahan tidak rasmi): “Carboprost tromethamine yang diberikan secara intramuskular merangsang pengecutan miometrium dalam uterus hamil yang serupa dengan pengecutan bersalin pada akhir kehamilan cukup bulan. Sama ada pengecutan ini terhasil daripada kesan langsung carboprost ke atas miometrium atau tidak masih belum ditentukan.” Teks asal bahasa Inggeris: "Carboprost tromethamine administered intramuscularly stimulates in the gravid uterus myometrial contractions similar to labor contractions at the end of a full term pregnancy. Whether or not these contractions result from a direct effect of carboprost on the myometrium has not been determined." ([DailyMed: Hemabate (carboprost tromethamine) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d282998-ff0c-480a-bd80-155606ef0a65), versi 2026-03-30; diakses 2026-11-19). Carboprost diketahui sebagai analog PGF2α yang bertindak sebagai agonis reseptor FP dan merangsang pengecutan otot licin uterus. Tiada indikasi asal yang berdaftar di Malaysia dapat disahkan daripada data yang dikumpulkan.
 
 Hubungan mekanistik dengan koarktasio aorta atipikal **tidak disokong**. Keadaan ini ialah kecacatan struktur kongenital yang tidak mungkin dibetulkan secara farmakologi oleh agonis FP. Prostaglandin E1 (bukan F2α) digunakan untuk mengekalkan patensi duktus arteriosus dalam koarktasio, jadi ini bukan rasional peringkat kelas. Skor TxGNN yang tinggi mencerminkan ramalan model TxGNN (pembelajaran mendalam) sahaja.
 
@@ -125,11 +125,12 @@ Satu isyarat keselamatan daripada penilaian mekanistik: PGF2α diketahui mempuny
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "dan produk tidak mempunyai pendaftaran di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Hemabate (carboprost tromethamine) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d282998-ff0c-480a-bd80-155606ef0a65) |
 
 <!-- review:end log -->
 

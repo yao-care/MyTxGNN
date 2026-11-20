@@ -58,7 +58,7 @@ Carfilzomib ialah perencat proteasom yang tidak boleh balik (irreversible). Mode
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Carfilzomib ialah perencat proteasom yang tidak boleh balik. Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Perencatan proteasom secara amnya boleh mencetuskan tekanan proteotoksik dan apoptosis dalam sel tumor, dan hubungan dengan penyakit jenis melanoma adalah munasabah secara teori.
+Carfilzomib ialah perencat proteasom yang tidak boleh balik. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Carfilzomib (terjemahan tidak rasmi): “Carfilzomib ialah perencat proteasom tetrapeptida epoksiketon yang terikat secara tidak berbalik pada tapak aktif yang mengandungi treonina terminal-N bagi proteasom 20S, iaitu zarah teras proteolitik dalam proteasom 26S. Carfilzomib mempunyai aktiviti antiproliferatif dan proapoptotik in vitro dalam sel tumor pepejal dan hematologi.” Teks asal bahasa Inggeris: "Carfilzomib is a tetrapeptide epoxyketone proteasome inhibitor that irreversibly binds to the N-terminal threonine-containing active sites of the 20S proteasome, the proteolytic core particle within the 26S proteasome. Carfilzomib had antiproliferative and proapoptotic activities in vitro in solid and hematologic tumor cells." ([DailyMed: Kyprolis (carfilzomib) prescribing information, Onyx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea66eb30-e665-4693-99a1-a9d3b4bbe2d6), versi 2025-06-18; diakses 2026-11-19). Perencatan proteasom secara amnya boleh mencetuskan tekanan proteotoksik dan apoptosis dalam sel tumor, dan hubungan dengan penyakit jenis melanoma adalah munasabah secara teori.
 
 Namun begitu, hubungan ini belum disokong oleh data dalam laporan ini. Label penyakit "CMM7" juga tidak ditakrifkan dengan jelas dan perlu disemak berdasarkan ontologi penyakit sebelum kerja lanjut dijalankan.
 
@@ -109,6 +109,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 - Data mekanisme tindakan (MOA) carfilzomib yang terperinci
 - Amaran dan kontraindikasi daripada risalah maklumat produk yang diluluskan
 - Kajian praklinikal atau klinikal yang mengkaji penyakit ini secara langsung
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Kyprolis (carfilzomib) prescribing information, Onyx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea66eb30-e665-4693-99a1-a9d3b4bbe2d6) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

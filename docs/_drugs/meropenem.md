@@ -55,7 +55,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **artritis bakteria (bacterial 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, meropenem ialah antibiotik karbapenem yang mengikat protein pengikat penisilin (PBP) dan menghalang sintesis dinding sel bakteria. Ia aktif terhadap banyak bakteria Gram-positif, Gram-negatif dan anaerob, termasuk *Burkholderia pseudomallei* yang menyebabkan melioidosis osteoartikular.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Meropenem (terjemahan tidak rasmi): “Meropenem ialah ubat antibakteria. […] Aktiviti bakterisid meropenem terhasil daripada perencatan sintesis dinding sel. Meropenem menembusi dinding sel kebanyakan bakteria gram-positif dan gram-negatif untuk terikat kepada sasaran protein pengikat penisilin (PBP).” Teks asal bahasa Inggeris: "Meropenem is an antibacterial drug. […] The bactericidal activity of meropenem results from the inhibition of cell wall synthesis. Meropenem penetrates the cell wall of most gram-positive and gram-negative bacteria to bind penicillin-binding-protein (PBP) targets." ([DailyMed: meropenem prescribing information, Civica, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b0075b72-c3cc-f844-e053-2a95a90a417f), versi 2026-11-02; diakses 2026-11-19). Berdasarkan maklumat sedia ada, meropenem ialah antibiotik karbapenem yang mengikat protein pengikat penisilin (PBP) dan menghalang sintesis dinding sel bakteria. Ia aktif terhadap banyak bakteria Gram-positif, Gram-negatif dan anaerob, termasuk *Burkholderia pseudomallei* yang menyebabkan melioidosis osteoartikular.
 
 Oleh sebab artritis bakteria disebabkan oleh patogen yang berkemungkinan sensitif kepada karbapenem, aktiviti meropenem terhadap jangkitan sendi secara mekanisme adalah munasabah. Contohnya, laporan kes artritis septik akibat *Klebsiella pneumoniae* penghasil ESBL dirawat dengan jayanya menggunakan meropenem bersama amikasin dan pembersihan sendi secara artroskopi. Dalam satu siri retrospektif melioidosis muskuloskeletal, semua isolat didapati sensitif kepada meropenem.
 
@@ -112,6 +112,18 @@ Skor ramalan sangat tinggi (0,9992), tetapi tiada ujian klinikal dan tiada kajia
 - Data mekanisme tindakan terperinci daripada sumber rujukan ubat
 - Kajian klinikal (terutamanya ujian terkawal atau kohort perbandingan) bagi meropenem dalam jangkitan sendi bakteria
 - Pertimbangan pengurusan antimikrob, kerana karbapenem harus disimpan untuk jangkitan rintang pelbagai ubat
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: meropenem prescribing information, Civica, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b0075b72-c3cc-f844-e053-2a95a90a417f) |
+
+<!-- review:end log -->
 
 ## Penafian
 

@@ -56,7 +56,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan virus imunodefisien
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang disusun untuk laporan ini. Namun, abacavir tergolong dalam kelas NRTI. Metabolit aktifnya, karbovir trifosfat, bersaing dengan dGTP dan menamatkan rantai DNA provirus. Virus imunodefisiensi simian (SIV) ialah lentivirus yang berkait rapat dengan HIV dan mempunyai transkriptase balik yang serupa, jadi asas mekanistik yang munasabah wujud.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi abacavir and lamivudine (ubat gabungan yang mengandungi Abacavir Sulfate) (terjemahan tidak rasmi): “Abakavir dan lamivudin ialah agen antiretrovirus dengan aktiviti terhadap HIV-1.” Teks asal bahasa Inggeris: "Abacavir and lamivudine is an antiretroviral agent with activity against HIV-1." ([DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c), versi 2026-09-18; diakses 2026-11-19). Namun, abacavir tergolong dalam kelas NRTI. Metabolit aktifnya, karbovir trifosfat, bersaing dengan dGTP dan menamatkan rantai DNA provirus. Virus imunodefisiensi simian (SIV) ialah lentivirus yang berkait rapat dengan HIV dan mempunyai transkriptase balik yang serupa, jadi asas mekanistik yang munasabah wujud.
 
 Namun begitu, kerentanan berbeza antara HIV-2, SIV dan SHIV. Jangkitan SIV juga ialah penyakit model haiwan tanpa aplikasi klinikal langsung pada manusia. Skor TxGNN yang tinggi (0,9979) lebih berkemungkinan mencerminkan persamaan struktur antara nod penyakit berkaitan HIV, dan bukan bukti keberkesanan.
 
@@ -99,6 +99,19 @@ Tiada ujian klinikal dan hanya satu kajian in vitro menyokong ramalan ini. Jangk
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Bukti praklinikal atau klinikal yang mengkaji secara langsung penyakit yang diramalkan
 - Penjelasan sama ada ramalan ini mempunyai nilai terjemahan kepada kegunaan manusia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

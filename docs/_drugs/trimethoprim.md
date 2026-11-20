@@ -60,7 +60,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **keratokonjunktivitis epiteliu
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Secara umumnya, trimethoprim menghalang dihidrofolat reduktase pada bakteria yang sensitif, dan ini menjelaskan aktiviti antibakterianya. Satu kaitan yang munasabah ialah aktiviti antibakteria pada permukaan mata, tetapi skor model TxGNN (pembelajaran mendalam) mungkin hanya mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Trimethoprim (terjemahan tidak rasmi): “Trimetoprim menyekat penghasilan asid tetrahidrofolik daripada asid dihidrofolik dengan mengikat dan merencat secara berbalik enzim yang diperlukan, iaitu dihidrofolat reduktase. Ikatan ini jauh lebih kuat bagi enzim bakteria berbanding enzim mamalia yang sepadan.” Teks asal bahasa Inggeris: "Trimethoprim blocks the production of tetrahydrofolic acid from dihydrofolic acid by binding to and reversibly inhibiting the required enzyme, dihydrofolate reductase. This binding is very much stronger for the bacterial enzyme than for the corresponding mammalian enzyme." ([DailyMed: trimethoprim prescribing information, SQUARE PHARMACEUTICALS PLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e53ccf1b-315f-4454-824e-f69769908597), versi 2026-11-15; diakses 2026-11-19). Secara umumnya, trimethoprim menghalang dihidrofolat reduktase pada bakteria yang sensitif, dan ini menjelaskan aktiviti antibakterianya. Satu kaitan yang munasabah ialah aktiviti antibakteria pada permukaan mata, tetapi skor model TxGNN (pembelajaran mendalam) mungkin hanya mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
 Walau bagaimanapun, keratokonjunktivitis epitelium punktat sering bersifat virus (contohnya adenovirus) atau bukan berjangkit. Trimethoprim tidak mempunyai aktiviti antivirus yang mantap. Oleh itu, komponen bakteria atau pencegahan jangkitan sekunder perlu ditunjukkan terlebih dahulu. Skor TxGNN yang tinggi (0.9957) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi mahupun keberkesanan yang disahkan.
 
@@ -119,6 +119,19 @@ Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau p
 - Data mekanisme tindakan (MOA) daripada DrugBank
 - Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA (jurang data yang menghalang saringan keselamatan)
 - Penilaian keserasian laluan pentadbiran (formulasi oftalmik) dan status lesen produk bahan tunggal
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: trimethoprim prescribing information, SQUARE PHARMACEUTICALS PLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e53ccf1b-315f-4454-824e-f69769908597) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

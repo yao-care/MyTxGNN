@@ -57,7 +57,7 @@ Namun, **tiada kajian klinikal** dan **tiada penerbitan** yang menyokong ramalan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat farmakologi yang ada, pertuzumab ialah antibodi yang menyasarkan reseptor tirosin kinase ERBB2 (HER2) dan digunakan untuk kanser payudara dengan lebihan ekspresi HER2, dalam kombinasi dengan ubat lain. Penerangan penyekatan pendimeran HER2/HER3 ialah penilaian awal daripada analisis rasional, bukan data label.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Pertuzumab (terjemahan tidak rasmi): “Pertuzumab menyasarkan domain pendimeran ekstrasel (Subdomain II) protein reseptor faktor pertumbuhan epidermis manusia 2 (HER2) dan, dengan itu, menyekat pemheterodimeran HER2 yang bergantung kepada ligan dengan ahli keluarga HER yang lain, termasuk EGFR, HER3 dan HER4. Akibatnya, pertuzumab merencatkan pengisyaratan intrasel yang dimulakan oleh ligan melalui dua laluan isyarat utama, kinase protein diaktifkan mitogen (MAP) dan kinase fosfoinositida 3 (PI3K).” Teks asal bahasa Inggeris: "Pertuzumab targets the extracellular dimerization domain (Subdomain II) of the human epidermal growth factor receptor 2 protein (HER2) and, thereby, blocks ligand-dependent heterodimerization of HER2 with other HER family members, including EGFR, HER3, and HER4. As a result, pertuzumab inhibits ligand-initiated intracellular signaling through two major signal pathways, mitogen-activated protein (MAP) kinase, and phosphoinositide 3-kinase (PI3K)." ([DailyMed: Perjeta (pertuzumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=17f85d17-ab71-4f5b-9fe3-0b8c822f69ff), versi 2026-04-30; diakses 2026-11-19). Berdasarkan maklumat farmakologi yang ada, pertuzumab ialah antibodi yang menyasarkan reseptor tirosin kinase ERBB2 (HER2) dan digunakan untuk kanser payudara dengan lebihan ekspresi HER2, dalam kombinasi dengan ubat lain. Penerangan penyekatan pendimeran HER2/HER3 ialah penilaian awal daripada analisis rasional, bukan data label.
 
 Hubungan antara indikasi asal dan ectomesenchymoma (tumor jarang campuran neuroektoderma dan mesenkima) belum dapat disahkan. Tiada percubaan klinikal atau literatur yang menghubungkan kebergantungan HER2 dengan tumor ini. Skor TxGNN yang tinggi (0.997) hanya mencerminkan ramalan model TxGNN (pembelajaran mendalam).
 
@@ -103,6 +103,19 @@ Ramalan ini hanya berasaskan model dengan tahap bukti L5; tiada percubaan klinik
 - Kajian praklinikal atau laporan kes yang mengkaji pertuzumab dalam tumor ini
 
 **Nota tambahan:** Lima ramalan lain dalam senarai ini (tumor sel granular kulit malignan, tumor berkaitan HHV-8, tumor neuroendokrin telinga tengah, karsinoma urotelial uretra prostat, dan karsinoma sel peralihan sarkomatoid pelvis buah pinggang) juga berada pada tahap L5 tanpa bukti sokongan. Antaranya, karsinoma urotelial (uretra prostat dan pelvis buah pinggang) secara biologinya lebih munasabah kerana sebahagian kes menunjukkan perubahan HER2, tetapi ini masih memerlukan pengesahan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Perjeta (pertuzumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=17f85d17-ab71-4f5b-9fe3-0b8c822f69ff) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

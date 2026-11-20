@@ -54,7 +54,7 @@ Oxcarbazepine ialah ubat antiepilepsi yang bertindak dengan menyekat saluran nat
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, oxcarbazepine ialah derivatif keto bagi carbamazepine dan dipercayai menyekat saluran natrium bergantung voltan, lalu mengurangkan kerencatan hipereksitabiliti neuron.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Oxcarbazepine (terjemahan tidak rasmi): “Aktiviti farmakologi TRILEPTAL terutamanya dihasilkan melalui metabolit 10-monohidroksi (MHD) okskarbazepina. Mekanisme tepat bagaimana okskarbazepina dan MHD menghasilkan kesan anti-sawan tidak diketahui; walau bagaimanapun, kajian elektrofisiologi in vitro menunjukkan bahawa ia menghasilkan sekatan saluran natrium yang sensitif voltan, menyebabkan penstabilan membran neural yang terlampau teruja, perencatan pencetusan neuron berulang, dan pengurangan penyebaran impuls sinaptik.” Teks asal bahasa Inggeris: "The pharmacological activity of TRILEPTAL is primarily exerted through the 10-monohydroxy metabolite (MHD) of oxcarbazepine. The precise mechanism by which oxcarbazepine and MHD exert their anti-seizure effect is unknown; however, in vitro electrophysiological studies indicate that they produce blockade of voltage-sensitive sodium channels, resulting in stabilization of hyperexcited neural membranes, inhibition of repetitive neuronal firing, and diminution of propagation of synaptic impulses." ([DailyMed: Trileptal (oxcarbazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b), versi 2026-10-28; diakses 2026-11-19). Secara umum, oxcarbazepine ialah derivatif keto bagi carbamazepine dan dipercayai menyekat saluran natrium bergantung voltan, lalu mengurangkan kerencatan hipereksitabiliti neuron.
 
 Hipotesis yang dicadangkan ialah hipereksitabiliti neuron turut berperanan dalam sindrom kaki resah, dan ubat antikonvulsan sedia digunakan untuk keadaan ini (contohnya gabapentin dan carbamazepine). Oleh itu, penyekatan saluran natrium secara mekanistik mungkin releven. Namun, pautan ini masih lemah dan bersifat hipotesis, kerana bukti klinikal terhad kepada laporan kes. Terdapat juga pilihan yang lebih mantap, iaitu agonis dopamin dan ligan alfa-2-delta.
 
@@ -93,6 +93,18 @@ Bukti hanya terdiri daripada laporan kes dan ulasan naratif (tahap L4), tanpa pe
 - Percubaan terkawal rawak dalam sindrom kaki resah
 - Perbandingan dengan agonis dopamin dan ligan alfa-2-delta
 - Penilaian interaksi ubat dalam populasi sasaran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Trileptal (oxcarbazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b) |
+
+<!-- review:end log -->
 
 ## Penafian
 

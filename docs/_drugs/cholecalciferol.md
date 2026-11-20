@@ -56,7 +56,7 @@ Setakat ini **tiada percubaan klinikal** dan **tiada penerbitan** yang menyokong
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, cholecalciferol ditukar di hati dan buah pinggang kepada bentuk aktif (calcitriol), yang mengawal kalsium dan fosfat untuk pemineralan tulang.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Cholecalciferol ialah (terjemahan tidak rasmi): “Agonis reseptor vitamin D” Teks asal bahasa Inggeris: "Vitamin D receptor agonist" ([ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042), CC BY-SA 3.0; diakses 2026-11-19). Secara umum, cholecalciferol ditukar di hati dan buah pinggang kepada bentuk aktif (calcitriol), yang mengawal kalsium dan fosfat untuk pemineralan tulang.
 
 Keadaan yang diramalkan ialah displasia rangka genetik yang sangat jarang berlaku. Tiada hubungan mekanistik yang jelas antara vitamin D dengan kecacatan genetik asas penyakit ini. Satu-satunya kaitan yang boleh dibayangkan ialah kesan umum vitamin D terhadap metabolisme tulang dan mineral, yang tidak mungkin menangani punca genetik. Skor yang tinggi (0.9978) ialah ramalan model sahaja dan tidak boleh dianggap bukti keberkesanan.
 
@@ -98,6 +98,19 @@ Sila rujuk sisipan pakej untuk amaran dan kontraindikasi yang lengkap.
 - Kajian praklinikal atau laporan kes yang menghubungkan vitamin D dengan penyakit ini
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Penilaian keselamatan, terutamanya risiko hiperkalsemia pada dos tinggi
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

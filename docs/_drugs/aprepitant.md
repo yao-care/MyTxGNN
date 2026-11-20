@@ -54,7 +54,7 @@ Aprepitant ialah antagonis reseptor substance P/NK1. Model TxGNN meramalkan ia m
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dihimpunkan. Aprepitant diketahui sebagai antagonis reseptor substance P/NK1.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Aprepitant (terjemahan tidak rasmi): “Aprepitan ialah antagonis selektif berafiniti tinggi bagi reseptor bahan P/neurokinin 1 (NK 1 ) manusia. Aprepitan mempunyai sedikit atau tiada afiniti terhadap reseptor serotonin (5-HT 3 ), dopamina, dan kortikosteroid. Aprepitan telah ditunjukkan dalam model haiwan merencatkan emesis yang diaruh oleh agen kemoterapi sitotoksik, seperti cisplatin, melalui tindakan pusat.” Teks asal bahasa Inggeris: "Aprepitant is a selective high-affinity antagonist of human substance P/neurokinin 1 (NK 1 ) receptors. Aprepitant has little or no affinity for serotonin (5-HT 3 ), dopamine, and corticosteroid receptors. Aprepitant has been shown in animal models to inhibit emesis induced by cytotoxic chemotherapeutic agents, such as cisplatin, via central actions." ([DailyMed: Cinvanti (aprepitant) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c218d3a-a508-4abc-9ed8-a6e8e191d1b4), versi 2026-04-01; diakses 2026-11-19). Aprepitant diketahui sebagai antagonis reseptor substance P/NK1.
 
 Sindrom antidiuresis tidak wajar nefrogenik disebabkan oleh mutasi pemerolehan fungsi pada reseptor vasopresin V2 (AVPR2) atau isyarat berkaitan GNAS. Tiada hubungan mekanistik yang mantap antara perencatan NK1 dengan laluan ini; sebarang kaitan hanyalah spekulatif. Skor TxGNN yang tinggi merupakan ramalan model semata-mata dan tidak disokong oleh sebarang ujian atau literatur dalam data yang ada.
 
@@ -91,6 +91,19 @@ Ramalan ini hanya berasaskan model (L5), tanpa ujian klinikal atau literatur yan
 - Amaran dan kontraindikasi daripada risalah maklumat produk NPRA
 - Bukti praklinikal atau klinikal yang mengkaji aprepitant secara langsung dalam penyakit ini
 - Pengesahan hubungan antara perencatan NK1 dengan isyarat reseptor V2 vasopresin
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Cinvanti (aprepitant) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c218d3a-a508-4abc-9ed8-a6e8e191d1b4) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

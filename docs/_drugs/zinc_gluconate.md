@@ -60,7 +60,7 @@ Ramalan ini masih pada tahap model semata-mata dan bimbang tentang keselamatan, 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, zink glukonat ialah sumber zink, mineral perlu yang terlibat dalam pelbagai laluan enzim, termasuk eritropoiesis serta metabolisme besi dan kuprum.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Zinc Gluconate (terjemahan tidak rasmi): “Zink ialah unsur surih perlu. Zink berfungsi sebagai kofaktor pelbagai enzim termasuk DNA polimerase, RNA polimerase, alkohol dehidrogenase, dan fosfatase alkali. Zink ialah penyelaras pelipatan struktur protein, seperti pelipatan motif “Zinc finger” yang berinteraksi dengan pelbagai protein, lipid, dan asid nukleik.” Teks asal bahasa Inggeris: "Zinc is an essential trace element. Zinc functions as a cofactor of various enzymes including DNA polymerases, RNA polymerases, alcohol dehydrogenase, and alkaline phosphatases. Zinc is a coordinator of protein structural folding, such as folding of “Zinc finger” motif that interacts with a variety of proteins, lipids, and nucleic acids." ([DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757), versi 2026-03-04; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, zink glukonat ialah sumber zink, mineral perlu yang terlibat dalam pelbagai laluan enzim, termasuk eritropoiesis serta metabolisme besi dan kuprum.
 
 Namun, tiada pautan langsung antara zink glukonat dengan anemia pramatang yang disokong oleh data yang disediakan. Sebaliknya, pengambilan zink berlebihan diketahui boleh mendorong kekurangan kuprum dan seterusnya anemia. Ini menimbulkan kebimbangan keselamatan yang serius untuk bayi pramatang, kumpulan yang sangat rentan.
 
@@ -136,11 +136,12 @@ Untuk maklumat amaran dan kontraindikasi lengkap, sila rujuk sisipan pakej produ
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "dan produk ini tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757) |
 
 <!-- review:end log -->
 

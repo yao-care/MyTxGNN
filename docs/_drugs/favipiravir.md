@@ -56,7 +56,7 @@ tetapi setakat ini hanya terdapat **0 ujian klinikal** dan **2 penerbitan** (ked
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Favipiravir ialah perencat luas RNA-dependent RNA polymerase (RdRp) virus. Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini, tetapi sifat perencatan RdRp ini telah diketahui secara umum.
+Favipiravir ialah perencat luas RNA-dependent RNA polymerase (RdRp) virus. Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Favipiravir ialah (terjemahan tidak rasmi): “Perencat RNA polimerase bergantung RNA” Teks asal bahasa Inggeris: "RNA-directed RNA polymerase inhibitor" ([ChEMBL CHEMBL221722 (favipiravir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL221722), CC BY-SA 3.0; diakses 2026-11-19).
 
 Sindrom hemofagositik berkaitan jangkitan sering dicetuskan oleh patogen virus, termasuk virus RNA seperti virus sindrom demam teruk dengan trombositopenia (SFTSV) dan virus Heartland (kedua-duanya bandavirus). Jika virus pencetus ditekan oleh antivirus, ribut sitokin yang mendorong HLH sekunder mungkin berkurang.
 
@@ -107,11 +107,12 @@ Dua ramalan lain, iaitu HLH berkaitan keganasan dan kardioensefalomiopati bayi a
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "kerana ubat ini tiada pendaftaran di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL221722 (favipiravir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL221722) |
 
 <!-- review:end log -->
 

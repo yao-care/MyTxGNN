@@ -55,7 +55,7 @@ Simoctocog alfa ialah faktor VIII manusia rekombinan (domain B dipadamkan) yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat sedia ada, simoctocog alfa ialah faktor VIII rekombinan yang menggantikan faktor VIII yang kurang pada pesakit hemofilia A.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Simoctocog Alfa ialah (terjemahan tidak rasmi): “Protein eksogen faktor pembekuan VIII” Teks asal bahasa Inggeris: "Coagulation factor VIII exogenous protein" ([ChEMBL CHEMBL2108319 (simoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108319), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat sedia ada, simoctocog alfa ialah faktor VIII rekombinan yang menggantikan faktor VIII yang kurang pada pesakit hemofilia A.
 
 Penyakit von Willebrand palsu ialah gangguan jenis platelet yang disebabkan oleh kecacatan gandaan fungsi (gain-of-function) pada GP1BA, menyebabkan platelet terikat lebih banyak kepada faktor von Willebrand. Penggantian faktor VIII tidak menangani kecacatan reseptor platelet ini, jadi hubungan mekanistik adalah **lemah**. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi, dan tidak disokong oleh bukti klinikal atau penerbitan.
 
@@ -110,6 +110,19 @@ Ramalan ini hanya berasaskan model (L5) tanpa ujian klinikal atau literatur, dan
 - Teks indikasi yang diluluskan bagi setiap pendaftaran tempatan
 - Kajian praklinikal atau klinikal yang secara langsung mengkaji penyakit yang diramalkan
 - Jika penerokaan diteruskan, pertimbangkan kekurangan faktor pembekuan yang diperoleh (kedudukan 5) sebagai calon yang paling munasabah secara biologi, dengan mengambil kira isu autoantibodi perencat
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL2108319 (simoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108319) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

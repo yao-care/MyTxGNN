@@ -59,7 +59,7 @@ Naproxen ialah ubat antiradang bukan steroid (NSAID) yang hubungannya dengan kea
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia buat masa ini. Naproxen secara amnya dikenali sebagai perencat COX-1/COX-2 tidak selektif, tetapi maklumat ini tidak terdapat dalam data yang dikumpulkan untuk laporan ini.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Naproxen (terjemahan tidak rasmi): “Naproksen mempunyai sifat analgesik, anti-radang dan antipiretik. Mekanisme tindakan NAPRELAN, seperti NSAID lain, tidak difahami sepenuhnya tetapi melibatkan perencatan siklooksigenase (COX-1 dan COX-2).” Teks asal bahasa Inggeris: "Naproxen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of NAPRELAN, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Naprelan (naproxen sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8a51c9a-488e-4377-a041-436f6a2f8893), versi 2026-01-08; diakses 2026-11-19). Naproxen secara amnya dikenali sebagai perencat COX-1/COX-2 tidak selektif, tetapi maklumat ini tidak terdapat dalam data yang dikumpulkan untuk laporan ini.
 
 Sindrom brakidaktili-sindaktili ialah kecacatan anggota badan kongenital yang jarang berlaku. Tiada asas biologi yang mantap untuk menunjukkan bahawa perencatan sintesis prostaglandin boleh mengubah patologi perkembangannya. Skor yang tinggi (0.9935) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
@@ -125,6 +125,19 @@ Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau pener
 - Kajian praklinikal atau laporan kes yang berkaitan secara langsung dengan penyakit ini
 - Amaran dan kontraindikasi daripada risalah maklumat produk NPRA
 - Pengesahan laluan pentadbiran dan bentuk dos yang sesuai
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Naprelan (naproxen sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8a51c9a-488e-4377-a041-436f6a2f8893) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

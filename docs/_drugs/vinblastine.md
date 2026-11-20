@@ -58,7 +58,7 @@ Vinblastine ialah alkaloid vinca yang mengikat tubulin dan menghalang pemasangan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, vinblastine diketahui sebagai alkaloid vinca yang mengikat tubulin dan menghalang pemasangan mikrotubul, lalu menyebabkan henti mitosis. Sel sarkoma yang membahagi dengan pantas secara teorinya sensitif kepada mekanisme ini.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Vinblastine (terjemahan tidak rasmi): “Kajian lain menunjukkan bahawa vinblastin sulfat mempunyai kesan terhadap penghasilan tenaga sel yang diperlukan untuk mitosis dan mengganggu sintesis asid nukleik. Mekanisme tindakan vinblastin telah dikaitkan dengan perencatan pembentukan mikrotubul dalam gelendong mitotik, yang mengakibatkan penahanan sel yang sedang membahagi pada peringkat metafasa.” Teks asal bahasa Inggeris: "Other studies indicate that vinblastine sulfate has an effect on cell-energy production required for mitosis and interferes with nucleic acid synthesis. The mechanism of action of vinblastine has been related to the inhibition of microtubule formation in the mitotic spindle, resulting in an arrest of dividing cells at the metaphase stage." ([DailyMed: vinblastine sulfate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f073b58e-56d6-4c8d-a2ce-b37719402d77), versi 2025-04-15; diakses 2026-11-19). Walau bagaimanapun, vinblastine diketahui sebagai alkaloid vinca yang mengikat tubulin dan menghalang pemasangan mikrotubul, lalu menyebabkan henti mitosis. Sel sarkoma yang membahagi dengan pantas secara teorinya sensitif kepada mekanisme ini.
 
 Alkaloid vinca, terutamanya vincristine, sudah menjadi tulang belakang kepada regimen rabdomiosarkoma, maka kaitan pada peringkat kelas ubat adalah kukuh. Bukti khusus untuk vinblastine pula terhad kepada satu kajian perintis regimen metronomik pediatrik empat ubat dan beberapa laporan kes. Satu kajian praklinikal mengenai sinergi maut antara perencat PLK1 dan ubat penggoyah mikrotubul dalam model rabdomiosarkoma turut memberi sokongan tambahan.
 
@@ -131,6 +131,18 @@ Skor ramalan sangat tinggi dan kelas alkaloid vinca sudah berperanan dalam regim
 - Bukti klinikal yang lebih langsung, termasuk kajian yang menilai sumbangan vinblastine dalam regimen rabdomiosarkoma
 - Butiran lesen tempatan (nombor kebenaran, produk, bentuk dos)
 - Pelan pemantauan keselamatan, terutamanya untuk penindasan sumsum tulang dan neurotoksisiti
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: vinblastine sulfate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f073b58e-56d6-4c8d-a2ce-b37719402d77) |
+
+<!-- review:end log -->
 
 ## Penafian
 

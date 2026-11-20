@@ -58,7 +58,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **epiglotitis**, tetapi pada ma
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) natrium fluorida tidak tersedia buat masa ini. Skor model yang tinggi (0.9992) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi mahupun bukti klinikal.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Sodium Fluoride (terjemahan tidak rasmi): “Fluorida yang dihantar daripada Clinpro 5000 merencat penyahmineralan gigi yang sihat dan meningkatkan pemineralan semula (iaitu pembaikan) gigi yang telah mengalami penyahmineralan. Semasa memberus gigi, fluorida diambil oleh gigi dan plak gigi.” Teks asal bahasa Inggeris: "Fluoride delivered from Clinpro 5000 inhibits the demineralization of sound teeth and enhances the remineralization (i.e., repair) of demineralized teeth. During tooth brushing, fluoride is taken up by teeth and dental plaque." ([DailyMed: Clinpro 5000 (sodium fluoride) prescribing information, Solventum US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a20d3cf0-2e1f-4191-971e-9e47936b4580), versi 2024-08-01; diakses 2026-11-19). Skor model yang tinggi (0.9992) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi mahupun bukti klinikal.
 
 Epiglotitis ialah jangkitan bakteria akut pada saluran pernafasan (biasanya *Haemophilus influenzae*) dan sudah mempunyai rawatan antibiotik piawai. Natrium fluorida tidak mempunyai peranan antibakteria yang mapan dalam keadaan ini. Oleh itu, tiada hubungan mekanistik yang disokong oleh data, dan kebolehgunaan mekanismenya untuk indikasi baharu ini tidak dapat disahkan.
 
@@ -81,7 +81,6 @@ Pada masa ini tiada literatur berkaitan tersedia untuk epiglotitis.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -106,6 +105,19 @@ Data interaksi ubat tidak ditemui. Sila rujuk sisipan pembungkusan untuk makluma
 - Kajian praklinikal atau klinikal yang menunjukkan aktiviti natrium fluorida terhadap indikasi yang diramalkan
 - Pengesahan kesesuaian laluan pentadbiran dan formulasi
 - Penilaian kontraindikasi daripada graf pengetahuan, terutamanya penyakit buah pinggang
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Clinpro 5000 (sodium fluoride) prescribing information, Solventum US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a20d3cf0-2e1f-4191-971e-9e47936b4580) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

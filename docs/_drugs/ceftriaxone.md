@@ -55,7 +55,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom hiperkelikatan polikl
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, ceftriaxone ialah antibakteria beta-laktam yang menghalang sintesis dinding sel bakteria.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ceftriaxone (terjemahan tidak rasmi): “Ceftriaxone ialah ubat antibakteria. […] Ceftriaxone ialah agen bakterisid yang bertindak dengan merencat sintesis dinding sel bakteria. Ceftriaxone mempunyai aktiviti dengan kehadiran sesetengah beta-laktamase, kedua-dua penisilinase dan sefalosporinase, bakteria Gram-negatif dan Gram-positif.” Teks asal bahasa Inggeris: "Ceftriaxone is an antibacterial drug. […] Ceftriaxone is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Ceftriaxone has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: Ceftriaxone And Dextrose (ceftriaxone) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67153914-16bc-490d-82d7-638061618467), versi 2022-01-13; diakses 2026-11-19). Secara umum, ceftriaxone ialah antibakteria beta-laktam yang menghalang sintesis dinding sel bakteria.
 
 Sindrom hiperkelikatan timbul daripada peningkatan imunoglobulin serum atau paraprotein, satu keadaan yang tidak ditangani oleh antibakteria. Oleh itu, **tiada hubungan mekanistik yang munasabah** ditemui.
 
@@ -87,6 +87,18 @@ Tiada percubaan klinikal, tiada literatur dan tiada hubungan mekanistik yang mun
 - Data mekanisme tindakan (MOA) yang terperinci
 - Amaran dan kontraindikasi daripada sisipan pakej produk
 - Bukti pra-klinikal atau klinikal yang secara langsung mengkaji penyakit ini sebelum sebarang pertimbangan lanjut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ceftriaxone And Dextrose (ceftriaxone) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67153914-16bc-490d-82d7-638061618467) |
+
+<!-- review:end log -->
 
 ## Penafian
 

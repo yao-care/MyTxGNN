@@ -60,7 +60,7 @@ tetapi setakat ini **tiada ujian klinikal** dan **tiada kajian yang menilai migr
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan chlorzoxazone tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, ubat ini dilaporkan mengaktifkan saluran kalium bersandar kalsium (jenis SK/BK).
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Chlorzoxazone (terjemahan tidak rasmi): “Data yang tersedia daripada eksperimen haiwan serta kajian manusia menunjukkan bahawa chlorzoxazone bertindak terutamanya pada peringkat saraf tunjang dan kawasan subkorteks otak di mana ia merencat lengkung refleks multisinaptik yang terlibat dalam menghasilkan dan mengekalkan kekejangan otot rangka pelbagai etiologi. Hasil klinikalnya ialah pengurangan kekejangan otot rangka dengan kelegaan kesakitan dan peningkatan mobiliti otot yang terlibat.” Teks asal bahasa Inggeris: "Data available from animal experiments as well as human study indicate that chlorzoxazone acts primarily at the level of the spinal cord and subcortical areas of the brain where it inhibits multisynaptic reflex arcs involved in producing and maintaining skeletal muscle spasm of varied etiology. The clinical result is a reduction of the skeletal muscle spasm with relief of pain and increased mobility of the involved muscles." ([DailyMed: chlorzoxazone prescribing information, Solubiomix](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c3d40a90-6df8-4b44-bc61-d7655c52bacb), versi 2026-10-05; diakses 2026-11-19). Walau bagaimanapun, ubat ini dilaporkan mengaktifkan saluran kalium bersandar kalsium (jenis SK/BK).
 
 Satu kajian haiwan (PMID 23115190) menunjukkan bahawa pengaktif saluran kalium bersandar kalsium dapat melegakan ataksia serebelum yang disebabkan oleh arus CaV2.1 yang meningkat pada tikus mutan. Gen *CACNA1A*, yang mengekod CaV2.1, juga dikaitkan dengan migrain hemiplegik familial. Oleh itu, terdapat kaitan pada peringkat saluran ion yang munasabah tetapi tidak langsung.
 
@@ -117,6 +117,19 @@ Tiada ujian klinikal dan tiada kajian yang menilai migrain secara langsung; hany
 - Amaran dan kontraindikasi daripada sisipan pek NPRA
 - Kajian praklinikal atau klinikal yang menilai chlorzoxazone secara langsung dalam migrain
 - Penilaian risiko hati dan interaksi dengan ubat penenang/opioid sebelum sebarang kajian
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: chlorzoxazone prescribing information, Solubiomix](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c3d40a90-6df8-4b44-bc61-d7655c52bacb) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

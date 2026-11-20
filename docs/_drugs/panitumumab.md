@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **osteoporosis teraruh ubat**, 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan pengetahuan am tentang kelas ubat ini, panitumumab ialah antibodi monoklonal manusia sepenuhnya terhadap EGFR, dan keberkesanannya dalam kanser kolon metastatik telah diketahui.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Panitumumab (terjemahan tidak rasmi): “EGFR ialah glikoprotein transmembran yang merupakan ahli subfamili kinase tirosina reseptor jenis I, termasuk EGFR, HER2, HER3, dan HER4. EGFR diekspresikan secara konstitutif dalam tisu epitelium normal, termasuk kulit dan folikel rambut. […] Panitumumab terikat secara spesifik kepada EGFR pada kedua-dua sel normal dan sel tumor, dan secara kompetitif merencat pengikatan ligan bagi EGFR.” Teks asal bahasa Inggeris: "The EGFR is a transmembrane glycoprotein that is a member of a subfamily of type I receptor tyrosine kinases, including EGFR, HER2, HER3, and HER4. EGFR is constitutively expressed in normal epithelial tissues, including the skin and hair follicle. […] Panitumumab binds specifically to EGFR on both normal and tumor cells, and competitively inhibits the binding of ligands for EGFR." ([DailyMed: Vectibix (panitumumab) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e0fa4bca-f245-4d92-ae29-b0c630a315c2), versi 2026-06-23; diakses 2026-11-19). Berdasarkan pengetahuan am tentang kelas ubat ini, panitumumab ialah antibodi monoklonal manusia sepenuhnya terhadap EGFR, dan keberkesanannya dalam kanser kolon metastatik telah diketahui.
 
 Isyarat EGFR berperanan dalam pembezaan osteoblas dan pembentukan semula tulang, jadi sekatan EGFR secara teori boleh menjejaskan metabolisme tulang. Namun, arah kesannya tidak pasti dan mungkin memudaratkan, bukan bermanfaat. Hipomagnesemia dan hipokalsemia, kesan sampingan yang diketahui bagi antibodi anti-EGFR, berpotensi memburukkan lagi kesihatan tulang.
 
@@ -122,11 +122,12 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang lengkap.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "dan ubat ini tidak didaftarkan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Vectibix (panitumumab) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e0fa4bca-f245-4d92-ae29-b0c630a315c2) |
 
 <!-- review:end log -->
 

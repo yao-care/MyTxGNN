@@ -60,7 +60,7 @@ tetapi setakat ini **tiada ujian klinikal** didaftarkan untuk indikasi ini, dan 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Berdasarkan pengetahuan am, dacarbazine ialah agen pengalkilan, iaitu prodrug yang pengaktifannya berlaku melalui metabolisme hepatik kepada MTIC, lalu memetilasi DNA. Keberkesanannya dalam melanoma dan limfoma Hodgkin telah mantap.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Dacarbazine ialah (terjemahan tidak rasmi): “Perencat DNA” Teks asal bahasa Inggeris: "DNA inhibitor" ([ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan pengetahuan am, dacarbazine ialah agen pengalkilan, iaitu prodrug yang pengaktifannya berlaku melalui metabolisme hepatik kepada MTIC, lalu memetilasi DNA. Keberkesanannya dalam melanoma dan limfoma Hodgkin telah mantap.
 
 Kaitan dengan indikasi baharu bersifat tidak langsung dan berasaskan lokasi. Melanoma mukosa dan limfoma Hodgkin boleh melibatkan kawasan kepala dan leher atau saluran aerodigestif atas (contohnya metastasis mukosa dan penglibatan nodal/ekstranodal kepala dan leher). Walau bagaimanapun, kategori "neoplasma saluran aerodigestif atas" terdiri terutamanya daripada karsinoma sel skuamus, yang bukan histologi yang dikenali responsif terhadap dacarbazine.
 
@@ -127,6 +127,19 @@ Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
 - Bukti khusus bagi histologi spesifik dalam kategori ini (contohnya melanoma mukosa kepala dan leher), bukannya kategori luas "neoplasma saluran aerodigestif atas"
 - Penilaian status pendaftaran dan akses ubat di Malaysia
 - Ujian klinikal atau data pemerhatian yang menyokong keberkesanan dan keselamatan dalam populasi sasaran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

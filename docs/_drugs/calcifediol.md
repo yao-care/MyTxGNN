@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, calcifediol ialah metabolit vitamin D yang berperanan dalam penyerapan kalsium dan fosfat serta kesihatan tulang.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Calcifediol (terjemahan tidak rasmi): “Calcifediol (25-hidroksivitamin D 3 ) ialah prohormon bagi bentuk aktif vitamin D 3, iaitu calcitriol (1,25‑dihidroksivitamin D 3 ). Calcifediol ditukarkan kepada calcitriol oleh sitokrom P450 27B1 (CYP27B1), juga dikenali sebagai 1-alfa hidroksilase, terutamanya di dalam buah pinggang.” Teks asal bahasa Inggeris: "Calcifediol (25-hydroxyvitamin D 3 ) is a prohormone of the active form of vitamin D 3, calcitriol (1,25‑dihydroxyvitamin D 3 ). Calcifediol is converted to calcitriol by cytochrome P450 27B1 (CYP27B1), also called 1-alpha hydroxylase, primarily in the kidney." ([DailyMed: Rayaldee (calcifediol) prescribing information, OPKO Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a95effd-32a5-46b6-a30e-7f4f9bf8cc77), versi 2024-01-19; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, calcifediol ialah metabolit vitamin D yang berperanan dalam penyerapan kalsium dan fosfat serta kesihatan tulang.
 
 Pautan yang munasabah adalah tidak langsung: asidosis tubul renal sering menyebabkan penyakit tulang (riket atau osteomalasia) akibat asidosis kronik dan pengendalian mineral yang terganggu, dan di sini status vitamin D adalah penting. Maknanya, calcifediol mungkin menyokong hasil tulang, bukan merawat kecacatan tubul itu sendiri. Oleh sebab tiada ujian atau literatur disediakan, pautan ini bergantung sepenuhnya pada ramalan model (skor 0,9986).
 
@@ -101,6 +101,18 @@ Ramalan ini hanya disokong oleh model (skor 0,9986) tanpa sebarang ujian klinika
 - Data mekanisme tindakan (MOA) yang terperinci
 - Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan, terutamanya untuk pesakit dengan penyakit ginjal
 - Pelan pemantauan kalsium dan fosfat serum serta fungsi renal, memandangkan risiko hiperkalsemia dan interaksi dengan analog vitamin D lain
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Rayaldee (calcifediol) prescribing information, OPKO Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a95effd-32a5-46b6-a30e-7f4f9bf8cc77) |
+
+<!-- review:end log -->
 
 ## Penafian
 

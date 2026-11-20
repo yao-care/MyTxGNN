@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **kalsifilaksis viseral**, teta
 
 ## Mengapakah Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat sedia ada, travoprost tergolong dalam kelas analog prostaglandin F2-alfa yang bertindak sebagai agonis reseptor FP. Keberkesanannya dalam glaukoma sudut terbuka dan hipertensi okular telah terbukti, dan secara teorinya agonisme reseptor FP boleh mempengaruhi tonus vaskular.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Travoprost (terjemahan tidak rasmi): “Asid bebas travoprost, suatu analog prostaglandin, ialah agonis reseptor prostanoid FP yang selektif, yang dipercayai mengurangkan IOP dengan meningkatkan aliran keluar uveoskleral. Mekanisme tindakan yang tepat tidak diketahui pada masa ini.” Teks asal bahasa Inggeris: "Travoprost free acid, a prostaglandin analog is a selective FP prostanoid receptor agonist, which is believed to reduce IOP by increasing uveoscleral outflow. The exact mechanism of action is unknown at this time." ([DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5), versi 2026-09-28; diakses 2026-11-19). Berdasarkan maklumat sedia ada, travoprost tergolong dalam kelas analog prostaglandin F2-alfa yang bertindak sebagai agonis reseptor FP. Keberkesanannya dalam glaukoma sudut terbuka dan hipertensi okular telah terbukti, dan secara teorinya agonisme reseptor FP boleh mempengaruhi tonus vaskular.
 
 Walau bagaimanapun, kaitan ini bersifat spekulatif dan belum diuji untuk vaskulopati berkalsium. Travoprost ialah agen oftalmik topikal dengan pendedahan sistemik yang minimum, yang menjadikan kebolehjadian untuk penyakit vaskular viseral yang bersifat sistemik sangat terhad.
 
@@ -108,6 +108,19 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi.
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Kajian praklinikal yang menunjukkan kesan travoprost pada patologi kalsifikasi vaskular
 - Penilaian kesesuaian laluan pentadbiran dan pendedahan sistemik yang diperlukan, termasuk formulasi bukan oftalmik
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

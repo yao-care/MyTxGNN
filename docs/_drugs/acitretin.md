@@ -60,7 +60,7 @@ dengan **1 percubaan klinikal** dan **17 penerbitan** yang berkaitan setakat ini
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, acitretin ialah retinoid oral generasi kedua yang menormalkan pembezaan dan percambahan keratinosit serta mengurangkan hiperkeratinisasi folikel. Ia juga mempunyai kesan anti-radang dan imunomodulasi.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Acitretin (terjemahan tidak rasmi): “Mekanisme tindakan acitretin tidak diketahui.” Teks asal bahasa Inggeris: "The mechanism of action of acitretin is unknown." ([DailyMed: acitretin prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6af396c2-af3e-436d-ba9a-583637495910), versi 2026-10-20; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, acitretin ialah retinoid oral generasi kedua yang menormalkan pembezaan dan percambahan keratinosit serta mengurangkan hiperkeratinisasi folikel. Ia juga mempunyai kesan anti-radang dan imunomodulasi.
 
 Jerawat dan hidradenitis suppurativa (acne inversa) ialah penyakit folikel pilosebasea. Kesan acitretin ke atas aktiviti kelenjar sebum lebih lemah daripada isotretinoin, maka bukti lebih kukuh bagi hidradenitis suppurativa berbanding jerawat vulgaris. Laporan kes menerangkan pesakit jerawat nodulokistik dan hidradenitis suppurativa yang dirawat dengan acitretin, dan garis panduan S1 Eropah untuk hidradenitis suppurativa menyenaraikannya sebagai pilihan sistemik barisan kedua.
 
@@ -152,11 +152,12 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "dan ubat ini tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: acitretin prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6af396c2-af3e-436d-ba9a-583637495910) |
 
 <!-- review:end log -->
 

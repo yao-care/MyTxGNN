@@ -56,7 +56,7 @@ tetapi **tiada percubaan klinikal** didaftarkan dan literatur yang ditemui keban
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Berdasarkan maklumat yang diketahui, budesonid ialah glukokortikosteroid dengan aktiviti antiradang, dan kortikosteroid topikal secara amnya merupakan terapi piawai untuk keradangan kulit atopik. Secara mekanistik, ini menjadikan ramalan tersebut munasabah.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Budesonide (terjemahan tidak rasmi): “Budesonide ialah kortikosteroid antiradang yang menunjukkan aktiviti glukokortikoid yang kuat dan aktiviti mineralokortikoid yang lemah. Dalam model in vitro dan haiwan piawai, budesonide mempunyai afiniti kira-kira 200 kali ganda lebih tinggi terhadap reseptor glukokortikoid dan potensi antiradang topikal 1000 kali ganda lebih tinggi berbanding kortisol (asai edema telinga minyak croton tikus).” Teks asal bahasa Inggeris: "Budesonide is an anti-inflammatory corticosteroid that exhibits potent glucocorticoid activity and weak mineralocorticoid activity. In standard in vitro and animal models, budesonide has approximately a 200-fold higher affinity for the glucocorticoid receptor and a 1000-fold higher topical anti-inflammatory potency than cortisol (rat croton oil ear edema assay)." ([DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da), versi 2026-06-10; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, budesonid ialah glukokortikosteroid dengan aktiviti antiradang, dan kortikosteroid topikal secara amnya merupakan terapi piawai untuk keradangan kulit atopik. Secara mekanistik, ini menjadikan ramalan tersebut munasabah.
 
 Namun, sokongan ini bersifat teori. Literatur yang diperoleh kebanyakannya tentang formulasi kulit (pengekalan pada kulit, hidrogel nanozarah), ujian tampalan dan alahan kontak terhadap budesonid, atau topik yang tidak berkaitan (esofagitis eosinofilik, asma, dermatitis atopik pada anjing). Tiada data keberkesanan klinikal pada manusia dengan ekzema atopik ditemui. Laporan alahan kontak merupakan isyarat keselamatan yang menentang penggunaan.
 
@@ -123,11 +123,12 @@ Ramalan ini mempunyai skor model yang tinggi dan rasional farmakologi yang munas
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-12 | Bilangan pendaftaran: “Terdapat 34 lesen, semuanya sah (25 produk bahan tunggal dan” → “Terdapat 35 lesen, semuanya sah (25 produk bahan tunggal dan 10 produk kombinasi” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da) |
 
 <!-- review:end log -->
 

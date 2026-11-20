@@ -54,7 +54,7 @@ Data lesen tempatan yang dikumpulkan untuk laporan ini tidak mengandungi teks in
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mengenai mekanisme tindakan terperinci tidak tersedia buat masa ini. Phenytoin diketahui menyekat saluran natrium bergantung voltan, yang mengurangkan pencetusan impuls berfrekuensi tinggi yang tidak normal pada gentian saraf. Mekanisme ini berkaitan dengan kawalan sakit saraf, bukan dengan kesan anti-tumor.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Phenytoin (terjemahan tidak rasmi): “Mekanisme tepat bagaimana fenitoin menghasilkan kesan terapeutiknya belum dipastikan tetapi dipercayai melibatkan sekatan bergantung voltan terhadap saluran natrium membran yang menyebabkan pengurangan nyahcas neuron berfrekuensi tinggi yang berterusan.” Teks asal bahasa Inggeris: "The precise mechanism by which phenytoin exerts its therapeutic effect has not been established but is thought to involve the voltage-dependent blockade of membrane sodium channels resulting in a reduction in sustained high-frequency neuronal discharges." ([DailyMed: Extended Phenytoin Sodium (phenytoin sodium) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=363cd347-d25e-42b9-9ce7-30642f3cb353), versi 2026-06-25; diakses 2026-11-19). Phenytoin diketahui menyekat saluran natrium bergantung voltan, yang mengurangkan pencetusan impuls berfrekuensi tinggi yang tidak normal pada gentian saraf. Mekanisme ini berkaitan dengan kawalan sakit saraf, bukan dengan kesan anti-tumor.
 
 Skor TxGNN yang sangat tinggi (0.9999) berkemungkinan besar datang daripada model TxGNN (deep learning) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi, dengan **neuralgia trigeminal**, iaitu simptom yang dikaitkan dengan lesi saraf trigeminal. Ia tidak menunjukkan aktiviti anti-neoplastik. Phenytoin mungkin melegakan sakit saraf yang berkaitan dengan tumor, tetapi itu hanya melegakan simptom dan tidak mengubah perjalanan penyakit. Penerbitan yang dijumpai juga tidak menyokong kesan anti-tumor. Tiada hubungan mekanistik yang boleh dipercayai antara Phenytoin dengan rawatan neoplasma saraf trigeminal.
 
@@ -110,6 +110,19 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pek tidak tersedia. Si
 - Data mekanisme tindakan terperinci daripada DrugBank
 - Semakan abstrak penuh dan reka bentuk kajian bagi penerbitan neuralgia trigeminal
 - Penilaian berasingan untuk neuralgia trigeminal sebagai indikasi sasaran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Extended Phenytoin Sodium (phenytoin sodium) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=363cd347-d25e-42b9-9ce7-30642f3cb353) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

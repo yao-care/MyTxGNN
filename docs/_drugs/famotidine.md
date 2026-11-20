@@ -60,7 +60,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **halangan duodenum (duodenal o
 
 ## Mengapakah Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, famotidine ialah antagonis reseptor H2 yang mengurangkan rembesan asid gastrik. Ia berkaitan dengan penyakit ulser dan hipersekresi asid.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Famotidine (terjemahan tidak rasmi): “Famotidine ialah perencat kompetitif reseptor histamin-2 (H2). Aktiviti farmakologi utama famotidine yang penting secara klinikal ialah perencatan rembesan gastrik. Kedua-dua kepekatan asid dan isi padu rembesan gastrik ditindas oleh famotidine, manakala perubahan dalam rembesan pepsin adalah berkadar dengan output isi padu.” Teks asal bahasa Inggeris: "Famotidine is a competitive inhibitor of histamine-2 (H2) receptors. The primary clinically important pharmacologic activity of famotidine is inhibition of gastric secretion. Both the acid concentration and volume of gastric secretion are suppressed by famotidine, while changes in pepsin secretion are proportional to volume output." ([DailyMed: Pepcid (famotidine) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a06502d9-7903-4f37-833e-e5763d502def), versi 2024-06-01; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, famotidine ialah antagonis reseptor H2 yang mengurangkan rembesan asid gastrik. Ia berkaitan dengan penyakit ulser dan hipersekresi asid.
 
 Kaitan yang mungkin ialah halangan duodenum yang disebabkan oleh penyakit peptik (contohnya parut ulser) boleh mendapat manfaat daripada kawalan asid untuk melegakan simptom atau mengawal ulser. Namun ini hanyalah rawatan sokongan dan tidak merawat halangan itu sendiri. Skor TxGNN yang sangat tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi atau bukti klinikal bahawa famotidine merawat halangan.
 
@@ -122,6 +122,19 @@ Tiada percubaan klinikal dan hanya dua laporan kes yang tidak mengkaji famotidin
 - Data mekanisme tindakan (MOA) daripada DrugBank
 - Kajian klinikal yang terus mengkaji famotidine dalam halangan duodenum
 - Penjelasan sama ada tujuannya ialah rawatan sokongan dan bukan penyembuhan halangan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Pepcid (famotidine) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a06502d9-7903-4f37-833e-e5763d502def) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

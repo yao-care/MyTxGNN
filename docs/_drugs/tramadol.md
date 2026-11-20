@@ -54,7 +54,7 @@ Tramadol ialah ubat analgesik opioid (agonis reseptor mu dengan aktiviti perenca
 
 ## Mengapa Ramalan Ini Wajar (atau Tidak)?
 
-Maklumat terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan. Secara umum diketahui bahawa tramadol bertindak sebagai agonis reseptor opioid mu dengan aktiviti perencatan pengambilan semula serotonin dan norepinefrina.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Tramadol (terjemahan tidak rasmi): “Kapsul Pelepasan Lanjutan Tramadol Hidroklorida mengandungi tramadol, agonis opioid, dan perencat pengambilan semula norepinefrina dan serotonin. Walaupun mod tindakannya tidak difahami sepenuhnya, berdasarkan ujian haiwan, sekurang-kurangnya dua mekanisme pelengkap kelihatan terpakai: pengikatan sebatian induk dan metabolit M1 kepada reseptor mu-opioid dan perencatan lemah pengambilan semula norepinefrina dan serotonin.” Teks asal bahasa Inggeris: "Tramadol Hydrochloride Extended-Release Capsules contain tramadol, an opioid agonist, and an inhibitor of reuptake of norepinephrine and serotonin. Although its mode of action is not completely understood, from animal tests, at least two complementary mechanisms appear applicable: binding of parent and M1 metabolite to mu-opioid receptors and weak inhibition of reuptake of norepinephrine and serotonin." ([DailyMed: Tramadol Hydrochloride Extended-Release (tramadol hydrochloride) prescribing information, Trigen Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0bc7218-3fd0-4646-96f4-25355fc84aa9), versi 2026-01-23; diakses 2026-11-19). Secara umum diketahui bahawa tramadol bertindak sebagai agonis reseptor opioid mu dengan aktiviti perencatan pengambilan semula serotonin dan norepinefrina.
 
 Displasia akromesomelik jenis Hunter-Thompson ialah penyakit rangka yang jarang berlaku, disebabkan mutasi kehilangan fungsi pada gen CDMP1/GDF5 yang menjejaskan pembentukan tulang rawan. Tramadol tidak mempunyai kesan yang diketahui terhadap laluan isyarat GDF5/BMP. Oleh itu, **tiada kaitan mekanistik yang boleh dipercayai**. Paling jauh, tramadol hanya boleh dipertimbangkan untuk pengurusan kesakitan simptomatik, dan itu bukan indikasi yang mengubah perjalanan penyakit.
 
@@ -121,6 +121,19 @@ Ramalan ini tidak mempunyai percubaan klinikal, tiada literatur yang mengkaji pe
 - Data mekanisme tindakan terperinci daripada DrugBank
 - Teks indikasi diluluskan bagi setiap pendaftaran tempatan
 - Bukti praklinikal atau klinikal yang mengkaji penyakit yang diramalkan secara langsung sebelum sebarang pertimbangan lanjut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Tramadol Hydrochloride Extended-Release (tramadol hydrochloride) prescribing information, Trigen Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0bc7218-3fd0-4646-96f4-25355fc84aa9) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

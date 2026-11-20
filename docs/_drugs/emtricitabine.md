@@ -60,7 +60,7 @@ tetapi kini hanya terdapat **0 ujian klinikal** dan **1 penerbitan** (kajian vet
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang disusun untuk laporan ini. Berdasarkan maklumat sedia ada, emtricitabine ialah NRTI yang aktif terhadap HIV-1. Selepas difosforilasi di dalam sel, ia menghentikan pemanjangan rantai DNA virus dan menyekat transkriptase balik.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Emtricitabine (terjemahan tidak rasmi): “Emtricitabine ialah ubat antiretrovirus. […] FTC, analog nukleosida sintetik bagi sitidina, difosforilasikan oleh enzim sel untuk membentuk emtricitabine 5'-trifosfat (FTC-TP), yang merencat aktiviti transkriptase berbalik (RT) HIV-1 dengan bersaing dengan substrat semula jadi deoksisitidina 5'-trifosfat dan dengan diinkorporasikan ke dalam DNA virus yang baru terbentuk, mengakibatkan penamatan rantai. FTC-TP ialah perencat lemah bagi DNA polimerase α, β, ε mamalia dan DNA polimerase γ mitokondria.” Teks asal bahasa Inggeris: "Emtricitabine is an antiretroviral drug. […] FTC, a synthetic nucleoside analog of cytidine, is phosphorylated by cellular enzymes to form emtricitabine 5'-triphosphate (FTC-TP), which inhibits the activity of the HIV-1 reverse transcriptase (RT) by competing with the natural substrate deoxycytidine 5'-triphosphate and by being incorporated into nascent viral DNA resulting in chain termination. FTC-TP is a weak inhibitor of mammalian DNA polymerases α, β, ε, and mitochondrial DNA polymerase γ." ([DailyMed: Emtriva (emtricitabine) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6599395-3944-44f9-97f2-e0424c6b6a1f), versi 2026-11-06; diakses 2026-11-19). Berdasarkan maklumat sedia ada, emtricitabine ialah NRTI yang aktif terhadap HIV-1. Selepas difosforilasi di dalam sel, ia menghentikan pemanjangan rantai DNA virus dan menyekat transkriptase balik.
 
 Virus imunodefisiensi kucing (FIV) ialah lentivirus yang transkriptase baliknya berkait rapat secara struktur dengan transkriptase balik HIV. Oleh itu, aktiviti NRTI terhadap FIV adalah munasabah. Satu kajian ART kombinasi pada kucing yang dijangkiti FIV (PMID 37112803) menggunakan dolutegravir, tenofovir dan emtricitabine, tetapi ia bukti tidak langsung dan hanya melibatkan haiwan.
 
@@ -124,6 +124,19 @@ Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila ruju
 - Sisipan pakej NPRA (amaran dan kontraindikasi), kerana jurang ini menghalang saringan keselamatan peringkat seterusnya
 - Pengesahan sama ada emtricitabine diuji dan apa hasilnya dalam kajian PMID 37112803
 - Penilaian sama ada sasaran veterinar sesuai dengan objektif repurposing untuk manusia, atau sama ada penyelidikan perlu dialihkan kepada indikasi manusia yang lain
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Emtriva (emtricitabine) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6599395-3944-44f9-97f2-e0424c6b6a1f) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

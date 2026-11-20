@@ -56,7 +56,7 @@ Bukti setakat ini sangat terhad: **tiada ujian klinikal** berdaftar, dan hanya *
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Berdasarkan farmakologi yang diketahui, hydroxyurea menghalang ribonukleotida reduktase. Ini mengurangkan bekalan deoksiribonukleotida (dNTP) dan menyebabkan tekanan replikasi DNA pada sel yang membahagi dengan pantas. Mekanisme antipencambahan ini munasabah untuk sel kanser payudara.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Hydroxyurea (terjemahan tidak rasmi): “Mekanisme tepat bagaimana hydroxyurea menghasilkan kesan sitotoksik dan sitoreduktifnya tidak diketahui. Walau bagaimanapun, pelbagai kajian menyokong hipotesis bahawa hydroxyurea menyebabkan perencatan serta-merta sintesis DNA dengan bertindak sebagai perencat ribonukleotida reduktase, tanpa mengganggu sintesis asid ribonukleik atau protein.” Teks asal bahasa Inggeris: "The precise mechanism by which hydroxyurea produces its cytotoxic and cytoreductive effects is not known. However, various studies support the hypothesis that hydroxyurea causes an immediate inhibition of DNA synthesis by acting as a ribonucleotide reductase inhibitor, without interfering with the synthesis of ribonucleic acid or of protein." ([DailyMed: Xromi (hydroxyurea) prescribing information, Nova Laboratories, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b37d336-86da-4363-aef1-34a7d3ba973b), versi 2026-02-02; diakses 2026-11-19). Berdasarkan farmakologi yang diketahui, hydroxyurea menghalang ribonukleotida reduktase. Ini mengurangkan bekalan deoksiribonukleotida (dNTP) dan menyebabkan tekanan replikasi DNA pada sel yang membahagi dengan pantas. Mekanisme antipencambahan ini munasabah untuk sel kanser payudara.
 
 Kajian praklinikal menyokong kaitan ini. Hydroxyurea digunakan sebagai alat untuk mencetuskan tekanan replikasi dalam model sel kanser payudara. Sebagai contoh, asid valproik didapati meningkatkan kepekaan sel kanser payudara terhadap hydroxyurea melalui penghalangan laluan pembaikan DNA.
 
@@ -120,6 +120,18 @@ Skor ramalan TxGNN sangat tinggi (0.9997), tetapi tiada ujian klinikal berdaftar
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA bagi penilaian keselamatan
 - Data klinikal langsung, seperti ujian klinikal fasa 2 untuk kanser payudara atau kajian pemerhatian yang mengasingkan kesan hydroxyurea
 - Pelan pemantauan keselamatan hematologi, memandangkan risiko mielosupresi yang tinggi
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Xromi (hydroxyurea) prescribing information, Nova Laboratories, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b37d336-86da-4363-aef1-34a7d3ba973b) |
+
+<!-- review:end log -->
 
 ## Penafian
 

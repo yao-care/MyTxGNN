@@ -59,7 +59,7 @@ Aminofilin dihidrat ialah ubat kumpulan metilxantin yang bertindak sebagai antag
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan ubat ini tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Indikasi yang diluluskan juga tidak direkodkan dalam data tempatan. Berdasarkan farmakologi am, aminofilin ialah antagonis reseptor adenosin bukan selektif dan perencat fosfodiesterase.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Aminophylline Dihydrate (terjemahan tidak rasmi): “Teofilina mempunyai dua tindakan berbeza dalam saluran udara pesakit dengan obstruksi boleh balik; pengenduran otot licin (iaitu, bronkodilatasi) dan penindasan tindak balas saluran udara terhadap rangsangan (iaitu, kesan profilaktik bukan bronkodilator).” Teks asal bahasa Inggeris: "Theophylline has two distinct actions in the airways of patients with reversible obstruction; smooth muscle relaxation (i.e., bronchodilation) and suppression of the response of the airways to stimuli (i.e., nonbronchodilator prophylactic effects)." ([DailyMed: aminophylline prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52bbc6cd-4baf-7859-e063-6394a90ac87d), versi 2026-05-26; diakses 2026-11-19). Indikasi yang diluluskan juga tidak direkodkan dalam data tempatan. Berdasarkan farmakologi am, aminofilin ialah antagonis reseptor adenosin bukan selektif dan perencat fosfodiesterase.
 
 Isyarat adenosin dikaitkan dengan pelebaran saluran darah serebral dan nosisepsi trigeminovaskular, dua proses yang berkait dengan sakit kepala migrain. Menyekat adenosin secara teori boleh memodulasi kesakitan dan migrain.
 
@@ -108,6 +108,19 @@ Tiada percubaan klinikal yang mengkaji migrain, dan literatur sedia ada terdiri 
 - Data mekanisme tindakan terperinci daripada sumber seperti DrugBank.
 - Kajian klinikal terkawal yang menilai aminofilin dalam migrain, termasuk dos, laluan pentadbiran dan profil keselamatan.
 - Ulasan sistematik literatur untuk menilai kajian kes siri yang dirujuk dalam ulasan 2023.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: aminophylline prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52bbc6cd-4baf-7859-e063-6394a90ac87d) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

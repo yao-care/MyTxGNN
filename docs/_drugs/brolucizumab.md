@@ -54,7 +54,7 @@ Brolucizumab ialah serpihan antibodi rantai tunggal (scFv) yang menyekat VEGF-A 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal pada masa ini tidak tersedia. Brolucizumab diketahui sebagai serpihan antibodi anti-VEGF-A yang disuntik ke dalam vitreus.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Brolucizumab (terjemahan tidak rasmi): “Brolucizumab ialah perencat VEGF manusia. Brolucizumab terikat pada tiga isoform utama VEGF-A (cth., VEGF 110, VEGF 121, dan VEGF 165 ), sekali gus menghalang interaksi dengan reseptor VEGFR-1 dan VEGFR-2. Dengan merencat VEGF-A, brolucizumab menyekat proliferasi sel endotelium, neovaskularisasi, dan ketelapan vaskular.” Teks asal bahasa Inggeris: "Brolucizumab is a human VEGF inhibitor. Brolucizumab binds to the three major isoforms of VEGF-A (e.g., VEGF 110, VEGF 121, and VEGF 165 ), thereby preventing interaction with receptors VEGFR-1 and VEGFR-2. By inhibiting VEGF-A, brolucizumab suppresses endothelial cell proliferation, neovascularization, and vascular permeability." ([DailyMed: Beovu (brolucizumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d1dc1fa-a2d3-46ed-9e9a-c1a036590d3d), versi 2026-10-26; diakses 2026-11-19). Brolucizumab diketahui sebagai serpihan antibodi anti-VEGF-A yang disuntik ke dalam vitreus.
 
 Hubungan mekanistik dengan penyakit yang diramalkan **tidak jelas**. Gangguan OXPHOS mitokondria primer berpunca daripada kecacatan DNA nuklear pada subunit rantai respirasi atau faktor pemasangan, dan perencatan VEGF-A tidak menangani patofisiologi ini. Sebarang kaitan teori, misalnya manifestasi retina penyakit mitokondria yang disertai neovaskularisasi, hanyalah spekulatif.
 
@@ -84,6 +84,19 @@ Maklumat amaran dan kontraindikasi daripada sisip bungkusan tidak tersedia dalam
 - Data praklinikal atau klinikal yang mengkaji penyakit ini secara langsung
 - Maklumat amaran dan kontraindikasi daripada sisip bungkusan NPRA
 - Penilaian kesesuaian laluan pemberian (intravitreal berbanding keperluan penyakit sasaran)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Beovu (brolucizumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d1dc1fa-a2d3-46ed-9e9a-c1a036590d3d) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

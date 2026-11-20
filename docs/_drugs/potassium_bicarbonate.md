@@ -60,7 +60,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) kalium bikarbonat tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, kalium bikarbonat berfungsi sebagai agen pengalkali dan penimbal seakan antasid, yang boleh meneutralkan asid gastrik dan mengurangkan kerengsaan mukosa.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Potassium Bicarbonate (terjemahan tidak rasmi): “Terapi natrium bikarbonat intravena meningkatkan bikarbonat plasma, menimbal kepekatan ion hidrogen yang berlebihan, menaikkan pH darah.” Teks asal bahasa Inggeris: "Intravenous sodium bicarbonate therapy increases plasma bicarbonate, buffers excess hydrogen ion concentration, raises blood pH." ([DailyMed: sodium bicarbonate prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50c858a-00c8-4cb2-ad73-8797f19e656d), versi 2026-08-14; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, kalium bikarbonat berfungsi sebagai agen pengalkali dan penimbal seakan antasid, yang boleh meneutralkan asid gastrik dan mengurangkan kerengsaan mukosa.
 
 Indikasi asalnya (ulser peptik, GERD, esofagitis, dispepsia) ialah keadaan saluran gastrousus atas yang berkaitan dengan asid. Gastroduodenitis bersebelahan dari segi anatomi dan patofisiologi dengan keadaan ini, dan ini mungkin menjelaskan skor TxGNN yang sangat tinggi (0.9972).
 
@@ -81,7 +81,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -109,6 +108,19 @@ Untuk amaran dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan pakej
 - Bukti klinikal atau literatur yang menyokong kegunaan dalam gastroduodenitis
 - Penilaian keserasian laluan pemberian dan formulasi, serta status pendaftaran di Malaysia
 - Pelan pemantauan kalium serum, terutamanya bagi pesakit yang menggunakan ubat berisiko hiperkalemia atau yang mempunyai gangguan jantung atau buah pinggang
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: sodium bicarbonate prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50c858a-00c8-4cb2-ad73-8797f19e656d) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

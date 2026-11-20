@@ -58,7 +58,7 @@ Risankizumab ialah antibodi monoklonal yang menyasarkan subunit p19 IL-23 dan di
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Risankizumab (Skyrizi) ialah antibodi monoklonal IgG yang dihumanisasi dan menyasarkan subunit p19 IL-23. Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan, jadi penerangan ini berdasarkan kajian literatur yang diterbitkan. Kajian tersebut melaporkan bahawa ubat ini diluluskan di peringkat global untuk penyakit kulit autoimun seperti psoriasis, tetapi ini bukan teks label tempatan di Malaysia.
+Risankizumab (Skyrizi) ialah antibodi monoklonal IgG yang dihumanisasi dan menyasarkan subunit p19 IL-23. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Risankizumab (terjemahan tidak rasmi): “Risankizumab-rzaa ialah antibodi monoklonal IgG1 yang dimanusiakan yang terikat secara selektif pada subunit p19 sitokin IL-23 manusia dan merencat interaksinya dengan reseptor IL-23. IL-23 ialah sitokin semula jadi yang terlibat dalam tindak balas keradangan dan imun.” Teks asal bahasa Inggeris: "Risankizumab-rzaa is a humanized IgG1 monoclonal antibody that selectively binds to the p19 subunit of human IL-23 cytokine and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in inflammatory and immune responses." ([DailyMed: Skyrizi (risankizumab-rzaa) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7148c8eb-b39e-e20a-6494-a6df82392858), versi 2026-10-23; diakses 2026-11-19). Kajian tersebut melaporkan bahawa ubat ini diluluskan di peringkat global untuk penyakit kulit autoimun seperti psoriasis, tetapi ini bukan teks label tempatan di Malaysia.
 
 Isyarat IL-23/Th17 menyumbang kepada keradangan dalam sesetengah fenotip dermatitis, terutamanya dermatitis berbentuk psoriasis dan penyakit campuran psoriasis-atopik. Bagi dermatitis atopik klasik yang didominasi Th2, asas mekanismenya lebih lemah. RCT Fasa 2 (PMID 36588137) menguji hipotesis ini secara langsung pada dermatitis atopik sederhana-teruk. Hasil lengkapnya perlu disahkan sebelum sebarang kesimpulan dibuat.
 
@@ -133,6 +133,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek kerana data terseb
 - Tentukan subjenis dermatitis sasaran (contohnya penyakit campuran psoriasis-atopik) dan kaji risiko ekzema paradoks.
 
 Sembilan indikasi lain yang diramalkan (antaranya dermatomiositis neonatal, dermatomiositis amiopatik dan retinopati diabetik bukan proliferatif teruk) tidak mempunyai percubaan klinikal atau literatur sokongan. Tahap buktinya L5 dan disyorkan Hold.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Skyrizi (risankizumab-rzaa) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7148c8eb-b39e-e20a-6494-a6df82392858) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

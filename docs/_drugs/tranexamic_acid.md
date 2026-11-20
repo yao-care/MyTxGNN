@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **amenorea**, tetapi buat masa 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan (MOA) rasmi tidak tersedia dalam data yang disusun. Namun, asid traneksamik secara umumnya dikenali sebagai analog lisina yang menghalang pengikatan plasminogen kepada fibrin, lalu mengurangkan pendarahan haid yang banyak. Ini memberi kaitan yang munasabah dengan penindasan haid.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Tranexamic Acid (terjemahan tidak rasmi): “Asid traneksamik ialah derivatif asid amino lisina sintetik, yang mengurangkan pelarutan fibrin hemostatik oleh plasmin. Dengan kehadiran asid traneksamik, tapak pengikatan reseptor lisina plasmin untuk fibrin diduduki, menghalang pengikatan kepada monomer fibrin, lalu mengekalkan dan menstabilkan struktur matriks fibrin.” Teks asal bahasa Inggeris: "Tranexamic acid is a synthetic lysine amino acid derivative, which diminishes the dissolution of hemostatic fibrin by plasmin. In the presence of tranexamic acid, the lysine receptor binding sites of plasmin for fibrin are occupied, preventing binding to fibrin monomers, thus preserving and stabilizing fibrin's matrix structure." ([DailyMed: Cyklokapron (tranexamic acid) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e89a7d9-4da4-42aa-b7f8-c602c24eefe5), versi 2025-09-03; diakses 2026-11-19). Namun, asid traneksamik secara umumnya dikenali sebagai analog lisina yang menghalang pengikatan plasminogen kepada fibrin, lalu mengurangkan pendarahan haid yang banyak. Ini memberi kaitan yang munasabah dengan penindasan haid.
 
 Walau bagaimanapun, kaitan ini lemah. Asid traneksamik tidak mendorong amenorea melalui mekanisme hormon atau endometrium. Amenorea ialah ketiadaan haid, iaitu keadaan klinikal yang berbeza daripada pengurangan pendarahan. Agen antifibrinolitik tidak dijangka menyebabkan atau merawat keadaan ini. Ramalan tersebut mungkin mencerminkan kekeliruan antara kegunaan penindasan haid dengan amenorea sebagai entiti penyakit.
 
@@ -107,6 +107,19 @@ Kedua-dua penerbitan menyebut asid traneksamik sebagai salah satu pilihan sahaja
 - Kajian klinikal langsung yang menilai asid traneksamik untuk indikasi yang dicadangkan
 - Penilaian risiko tromboembolisme, terutamanya jika digunakan bersama hormon
 - Penjelasan status pendaftaran dan pasaran di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Cyklokapron (tranexamic acid) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e89a7d9-4da4-42aa-b7f8-c602c24eefe5) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

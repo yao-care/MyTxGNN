@@ -59,7 +59,7 @@ Insulin glargine ialah analog insulin basal yang pada asalnya digunakan untuk me
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, insulin glargine ialah analog insulin basal yang bertindak melalui reseptor insulin untuk mengawal paras glukosa darah.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Insulin Glargine (terjemahan tidak rasmi): “Aktiviti utama insulin, termasuk produk insulin glargine, ialah pengawalaturan metabolisme glukosa. Insulin dan analognya merendahkan glukosa darah dengan merangsang pengambilan glukosa periferi, terutamanya oleh otot rangka dan lemak, dan dengan merencat penghasilan glukosa hepar.” Teks asal bahasa Inggeris: "The primary activity of insulin, including insulin glargine products, is regulation of glucose metabolism. Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Langlara (insulin glargine-aldy) prescribing information, Lanexa Biologics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5328761e-59d3-ca7a-e063-6394a90ae810), versi 2026-10-15; diakses 2026-11-19). Berdasarkan maklumat sedia ada, insulin glargine ialah analog insulin basal yang bertindak melalui reseptor insulin untuk mengawal paras glukosa darah.
 
 Tiada hubungan mekanistik langsung yang dapat dikenal pasti antara insulin glargine dan autoimmune oophoritis. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Insulin glargine tidak mempunyai tindakan imunomodulasi yang diketahui berkaitan dengan autoimuniti ovari. Oleh itu, ramalan ini perlu dianggap sebagai isyarat model yang lemah dari segi mekanisme.
 
@@ -117,6 +117,19 @@ Tiada ujian klinikal atau literatur yang mengkaji autoimmune oophoritis secara l
 ---
 
 **Nota tambahan mengenai ramalan lain:** Sembilan ramalan teratas yang lain (termasuk thiamine-responsive dysfunction syndrome, stiff person syndrome, pancreatic agenesis dan pelbagai lipodistrofi setempat) juga kekal pada keputusan Hold. Kebanyakannya mencerminkan komorbiditi diabetes atau kesan buruk insulin, dan bukan isyarat penggunaan semula ubat yang sebenar. Pancreatic agenesis pula pada dasarnya ialah llanjutan indikasi asal (kekurangan insulin), dan literatur yang ditemui hanya berkaitan diabetes secara umum tanpa kajian glargine secara langsung.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Langlara (insulin glargine-aldy) prescribing information, Lanexa Biologics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5328761e-59d3-ca7a-e063-6394a90ae810) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

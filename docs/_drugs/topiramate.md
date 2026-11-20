@@ -60,7 +60,7 @@ Penunjuk baharu yang lebih berpotensi dalam data ini ialah kumpulan sawan reflek
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan topiramate tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, topiramate ialah ubat antiseizur spektrum luas yang telah terbukti berkesan dalam epilepsi. Kajian dalam literatur menyebut tindakan melalui sekatan saluran natrium, peningkatan GABA-A, antagonis reseptor AMPA/kainat dan perencatan karbonik anhidrase yang lemah.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Topiramate (terjemahan tidak rasmi): “Mekanisme tepat yang melaluinya topiramate memberikan kesan antikonvulsan dan kesan pencegahan migrainnya tidak diketahui; walau bagaimanapun, kajian praklinikal telah mendedahkan empat sifat yang mungkin menyumbang kepada keberkesanan topiramate untuk epilepsi dan rawatan pencegahan migrain.” Teks asal bahasa Inggeris: "The precise mechanisms by which topiramate exerts its anticonvulsant and preventive migraine effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy and the preventive treatment of migraine." ([DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e), versi 2026-10-05; diakses 2026-11-19). Berdasarkan maklumat sedia ada, topiramate ialah ubat antiseizur spektrum luas yang telah terbukti berkesan dalam epilepsi. Kajian dalam literatur menyebut tindakan melalui sekatan saluran natrium, peningkatan GABA-A, antagonis reseptor AMPA/kainat dan perencatan karbonik anhidrase yang lemah.
 
 Bagi neoplasma saraf trigeminal, tiada asas mekanisme yang kukuh. Sebarang kaitan hanya terhad kepada kawalan simptomatik seperti sakit neuropatik atau sawan yang berkaitan, dan ini tidak disokong oleh data yang ada. Skor 0.9970 datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi, dan tidak boleh dianggap sebagai bukti keberkesanan.
 
@@ -88,7 +88,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk neoplasma saraf trig
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -119,6 +118,19 @@ Kontraindikasi ini diperoleh daripada graf pengetahuan dan bukan daripada sisipa
 - Kajian yang menilai topiramate secara langsung untuk sawan refleks atau kesakitan/sawan berkaitan tumor saraf trigeminal
 - Pertimbangan semula penunjuk keutamaan (contohnya sawan berfikir) berbanding neoplasma saraf trigeminal
 - Pelan pemantauan keselamatan, khususnya untuk pesakit dengan penyakit buah pinggang, penyakit hati atau asidosis, serta semakan interaksi ubat
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

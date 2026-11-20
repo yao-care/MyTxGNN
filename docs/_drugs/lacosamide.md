@@ -66,7 +66,7 @@ Lacosamide ialah ubat antiepilepsi (antikonvulsan) yang menyekat saluran natrium
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia daripada pangkalan data ubat. Walau bagaimanapun, berdasarkan analisis kaitan mekanistik yang dikompilasi: lacosamide meningkatkan penyahaktifan perlahan saluran natrium bergantung voltan dan memodulasi CRMP2 (*collapsin response mediator protein 2*). Kedua-dua mekanisme ini bertindih dengan antiepilepsi penstabil mood dan pencegah migrain yang mantap, jadi kelas sasaran ini munasabah.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Lacosamide (terjemahan tidak rasmi): “Mekanisme tepat bagaimana larutan oral Lacosamide memberikan kesan antiepileptiknya pada manusia masih belum dijelaskan sepenuhnya. Kajian elektrofisiologi in vitro telah menunjukkan bahawa lacosamide secara selektif meningkatkan penyahaktifan perlahan saluran natrium berget voltan, yang mengakibatkan penstabilan membran neuron yang hiperteruja dan perencatan cetusan neuron berulang.” Teks asal bahasa Inggeris: "The precise mechanism by which Lacosamide oral solution exerts its antiepileptic effects in humans remains to be fully elucidated. In vitro electrophysiological studies have shown that lacosamide selectively enhances slow inactivation of voltage-gated sodium channels, resulting in stabilization of hyperexcitable neuronal membranes and inhibition of repetitive neuronal firing." ([DailyMed: Lacosamide Oral Solution (lacosamide) prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b10986e-0809-b6d1-e063-6394a90a5738), versi 2026-09-09; diakses 2026-11-19). Walau bagaimanapun, berdasarkan analisis kaitan mekanistik yang dikompilasi: lacosamide meningkatkan penyahaktifan perlahan saluran natrium bergantung voltan dan memodulasi CRMP2 (*collapsin response mediator protein 2*). Kedua-dua mekanisme ini bertindih dengan antiepilepsi penstabil mood dan pencegah migrain yang mantap, jadi kelas sasaran ini munasabah.
 
 Hipotesis utama ialah lacosamide boleh merencat pembebasan CGRP (*calcitonin gene-related peptide*) dalam sistem trigeminal melalui CRMP2, dan CGRP berperanan penting dalam serangan migrain. Data praklinikal menyokong hal ini: lacosamide mempengaruhi *cortical spreading depolarization* pada tikus, iaitu mekanisme aura migrain yang diiktiraf, dan model praklinikal sakit kepala sefalik turut dilaporkan.
 
@@ -163,13 +163,14 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "kerana tiada pendaftaran tempatan ditemui" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-05 | Dipadam: "Berdasarkan data yang dikompilasi, lacosamide **tidak mempunyai pendaftaran** di Malaysia (0 lesen). Oleh itu tiada jadual lesen dipaparkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-05 | Dipadam: "Memandangkan lacosamide tidak berdaftar di Malaysia, menilai laluan pendaftaran dan ketersediaan bentuk dos" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lacosamide Oral Solution (lacosamide) prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b10986e-0809-b6d1-e063-6394a90a5738) |
 
 <!-- review:end log -->
 

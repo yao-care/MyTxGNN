@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **artritis bakteria**, tetapi k
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan am, penisilin G ialah antibiotik beta-laktam yang menghalang sintesis dinding sel bakteria dan aktif terhadap organisma Gram-positif yang sensitif, seperti streptokokus dan stafilokokus yang sensitif kepada penisilin. Organisma ini boleh menyebabkan artritis septik, jadi secara biologi ramalan ini munasabah.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi penicillin g benzathine and penicillin g procaine (ubat gabungan yang mengandungi Procaine Benzylpenicillin) (terjemahan tidak rasmi): “Penicillin G memberikan tindakan bakterisid terhadap mikroorganisma yang rentan terhadap penisilin semasa peringkat pembiakan aktif.” Teks asal bahasa Inggeris: "Penicillin G exerts a bactericidal action against penicillin-susceptible microorganisms during the stage of active multiplication." ([DailyMed: Bicillin C-R 900/300 (penicillin g benzathine and penicillin g procaine) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba7b9199-4710-4189-a85d-77ed75befe4d), versi 2026-07-21; diakses 2026-11-19). Berdasarkan pengetahuan am, penisilin G ialah antibiotik beta-laktam yang menghalang sintesis dinding sel bakteria dan aktif terhadap organisma Gram-positif yang sensitif, seperti streptokokus dan stafilokokus yang sensitif kepada penisilin. Organisma ini boleh menyebabkan artritis septik, jadi secara biologi ramalan ini munasabah.
 
 Namun begitu, procaine benzylpenicillin ialah formulasi depot intramuskular dengan kepekatan serum puncak yang rendah dan penembusan sendi yang lemah berbanding terapi intravena. Oleh itu, ia bukan pilihan standard untuk jangkitan sendi. Skor TxGNN hanyalah ramalan, dan tiada percubaan klinikal atau literatur disediakan untuk menyokongnya.
 
@@ -121,6 +121,19 @@ Ramalan ini hanya berdasarkan model (tahap bukti L5) tanpa sebarang percubaan kl
 - Teks indikasi yang diluluskan dan bentuk dos bagi setiap lesen tempatan
 - Kajian klinikal atau literatur yang secara langsung menilai procaine benzylpenicillin untuk artritis bakteria
 - Penilaian keserasian laluan pentadbiran, kerana laluan intramuskular mungkin tidak sesuai untuk jangkitan sendi
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Bicillin C-R 900/300 (penicillin g benzathine and penicillin g procaine) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba7b9199-4710-4189-a85d-77ed75befe4d) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -59,7 +59,7 @@ Fenofibrate ialah agonis PPAR-alfa yang pada asalnya direkodkan dalam graf penge
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan pengetahuan umum dan data yang dikumpulkan untuk laporan ini, fenofibrate ialah agonis PPAR-alfa yang meningkatkan kolesterol HDL dan menurunkan trigliserida, sebahagiannya dengan meningkatkan ekspresi apoA-I dan aktiviti lipoprotein lipase. Ia juga mengaruh gen protein pemindahan fosfolipid (PLTP), yang menyumbang kepada pembesaran HDL (PMID 11342537, kajian pada tikus).
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Fenofibrate (terjemahan tidak rasmi): “Moieti aktif Antara ialah asid fenofibrik. Kesan farmakologi asid fenofibrik pada haiwan dan manusia telah dikaji melalui pemberian fenofibrate secara oral. Kesan pengubahsuaian lipid oleh asid fenofibrik yang dilihat dalam amalan klinikal telah dijelaskan secara in vivo pada tikus transgenik dan secara in vitro dalam kultur hepatosit manusia melalui pengaktifan reseptor PPAR alfa.” Teks asal bahasa Inggeris: "The active moiety of Antara is fenofibric acid. The pharmacological effects of fenofibric acid in both animals and humans have been studied through oral administration of fenofibrate. The lipid-modifying effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of PPAR alpha receptor." ([DailyMed: Antara (fenofibrate) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=24790a18-0291-4b88-a724-acac43b616ce), versi 2025-10-01; diakses 2026-11-19). Berdasarkan pengetahuan umum dan data yang dikumpulkan untuk laporan ini, fenofibrate ialah agonis PPAR-alfa yang meningkatkan kolesterol HDL dan menurunkan trigliserida, sebahagiannya dengan meningkatkan ekspresi apoA-I dan aktiviti lipoprotein lipase. Ia juga mengaruh gen protein pemindahan fosfolipid (PLTP), yang menyumbang kepada pembesaran HDL (PMID 11342537, kajian pada tikus).
 
 Kekurangan CETP ialah keadaan genetik yang dicirikan oleh HDL kolesterol yang sangat tinggi dan aktiviti CETP yang rendah. Kaitan dengan fenofibrate hanyalah tidak langsung: kedua-duanya melibatkan HDL serta laluan pemindahan lipid oleh CETP/PLTP. Fenofibrate tidak dijangka membetulkan kekurangan CETP, dan meningkatkan HDL lagi bukanlah matlamat terapeutik yang jelas dalam keadaan ini.
 
@@ -120,6 +120,19 @@ Tiada kajian yang dipetik mengkaji kekurangan CETP secara langsung; ketiga-tiga 
 - Rasional terapeutik yang jelas bahawa rawatan diperlukan dan bermanfaat dalam keadaan ini
 - Data mekanisme tindakan (MOA) terperinci
 - Amaran dan kontraindikasi daripada sisipan pek NPRA, serta teks indikasi diluluskan bagi setiap produk
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Antara (fenofibrate) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=24790a18-0291-4b88-a724-acac43b616ce) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

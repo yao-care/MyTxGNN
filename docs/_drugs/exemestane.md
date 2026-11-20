@@ -60,7 +60,7 @@ Exemestane ialah perencat aromatase steroid yang lazimnya digunakan dalam rawata
 
 ## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat yang diketahui, exemestane ialah perencat aromatase steroid yang menurunkan sintesis estrogen dengan menyekat penukaran androgen kepada estrogen.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Exemestane (terjemahan tidak rasmi): “Pertumbuhan sel kanser payudara mungkin bergantung kepada estrogen. Aromatase ialah enzim utama yang menukarkan androgen kepada estrogen pada wanita pra- dan pascamenopaus. […] Exemestane ialah penyahaktif aromatase steroid yang tidak berbalik, yang berkaitan secara struktur dengan substrat semula jadi androstenedion.” Teks asal bahasa Inggeris: "Breast cancer cell growth may be estrogen-dependent. Aromatase is the principal enzyme that converts androgens to estrogens both in pre- and postmenopausal women. […] Exemestane is an irreversible, steroidal aromatase inactivator, structurally related to the natural substrate androstenedione." ([DailyMed: Aromasin (exemestane) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cf066b7a-032a-416c-8d40-15ba581423e3), versi 2025-12-24; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, exemestane ialah perencat aromatase steroid yang menurunkan sintesis estrogen dengan menyekat penukaran androgen kepada estrogen.
 
 Literatur yang diperoleh untuk amenorea berkait dengan pesakit kanser payudara, iaitu amenorea akibat kemoterapi, pemulihan fungsi ovari selepas bertukar daripada tamoxifen kepada exemestane, serta penindasan ovari dengan analog LHRH. Dalam konteks ini, amenorea ialah **kesan atau penanda** rawatan, bukan keadaan yang dirawat oleh exemestane. Menyebabkan kekurangan estrogen bukanlah matlamat terapeutik untuk amenorea, sehingga ramalan TxGNN berkemungkinan besar mencerminkan perkaitan kesan sampingan atau indikasi dan bukan peluang penggunaan semula yang sebenar.
 
@@ -121,6 +121,19 @@ Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Semakan penuh abstrak dan reka bentuk kajian untuk literatur yang diperoleh, serta pengesahan jenis kajian
 - Maklumat indikasi asal dan status pendaftaran sebenar di Malaysia
 - Bukti praklinikal atau klinikal yang menyokong secara langsung sebarang indikasi baharu sebelum pertimbangan lanjut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Aromasin (exemestane) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cf066b7a-032a-416c-8d40-15ba581423e3) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

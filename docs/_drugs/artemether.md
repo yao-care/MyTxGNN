@@ -54,7 +54,7 @@ Artemether ialah ubat daripada kumpulan artemisinin yang berdaftar di Malaysia. 
 
 ## Mengapa Ramalan Ini Wajar Dipertimbangkan?
 
-Data mekanisme tindakan terperinci untuk artemether tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Artemether ialah (terjemahan tidak rasmi): “Perencat feriprotoporfirin IX” Teks asal bahasa Inggeris: "Ferriprotoporphyrin IX inhibitor" ([ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534), CC BY-SA 3.0; diakses 2026-11-19).
 
 Angioedema didapati melibatkan laluan bradikinin atau komplemen (perencat C1), dan tiada bukti bahawa artemether mempengaruhi laluan ini. Tiada hubungan mekanisme yang munasabah dapat dikenal pasti. Skor TxGNN yang tinggi (0.9990) merupakan ramalan model sahaja dan tidak disokong oleh ujian klinikal mahupun literatur.
 
@@ -93,6 +93,19 @@ Ramalan ini hanya berdasarkan model (L5), tanpa ujian klinikal, tanpa literatur,
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Kajian praklinikal yang mengesahkan sebarang kesan pada laluan bradikinin atau komplemen
 - Penilaian risiko pemanjangan QT dan interaksi ubat sebelum sebarang kajian pada populasi baharu
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

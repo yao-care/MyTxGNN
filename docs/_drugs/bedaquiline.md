@@ -59,7 +59,7 @@ Model TxGNN meramalkan ubat ini mungkin berkesan untuk **kandidiasis vulvovagina
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, bedaquiline diketahui merencat sub-unit c sintase ATP F1F0 pada mikobakteria. Sintase ATP mitokondria kulat berbeza dari segi struktur, dan tiada aktiviti antikulat terhadap *Candida* telah dibuktikan dalam data yang ada.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Bedaquiline (terjemahan tidak rasmi): “Bedaquiline ialah ubat antimikobakteria diarilkuinolina. […] SIRTURO ialah ubat antimikobakteria diarilkuinolina yang merencat ATP (adenosina 5'-trifosfat) sintase mikobakteria, dengan terikat pada subunit c enzim tersebut yang penting untuk penjanaan tenaga dalam M. tuberculosis.” Teks asal bahasa Inggeris: "Bedaquiline is a diarylquinoline antimycobacterial drug. […] SIRTURO is a diarylquinoline antimycobacterial drug that inhibits mycobacterial ATP (adenosine 5'- triphosphate) synthase, by binding to subunit c of the enzyme that is essential for the generation of energy in M. tuberculosis." ([DailyMed: Sirturo (bedaquiline fumarate) prescribing information, Janssen Products, LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1534c9ae-4948-4cf4-9f66-222a99db6d0e), versi 2025-10-17; diakses 2026-11-19). Secara umum, bedaquiline diketahui merencat sub-unit c sintase ATP F1F0 pada mikobakteria. Sintase ATP mitokondria kulat berbeza dari segi struktur, dan tiada aktiviti antikulat terhadap *Candida* telah dibuktikan dalam data yang ada.
 
 Skor TxGNN yang tinggi (0.9988) hanyalah ramalan model dan tidak boleh disahkan melalui mekanisme yang diketahui. Sebarang kaitan antara bedaquiline dan kandidiasis vulvovaginal pada ketika ini bersifat spekulatif. Selain itu, antikulat yang berkesan dan mantap sudah wujud untuk keadaan ini, jadi keperluan klinikal yang belum dipenuhi adalah rendah.
 
@@ -109,6 +109,19 @@ Maklumat amaran dan kontraindikasi daripada sisip bungkusan tidak tersedia; sila
 - Data in vitro aktiviti bedaquiline terhadap spesies *Candida*
 - Amaran dan kontraindikasi daripada sisip bungkusan NPRA
 - Penilaian keselamatan (termasuk pemanjangan QT dan hepatotoksisiti) serta kesesuaian laluan pemberian bagi indikasi yang dicadangkan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Sirturo (bedaquiline fumarate) prescribing information, Janssen Products, LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1534c9ae-4948-4cf4-9f66-222a99db6d0e) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

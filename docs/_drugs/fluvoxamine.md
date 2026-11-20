@@ -56,7 +56,7 @@ Setakat ini terdapat **0 ujian klinikal** dan **1 penerbitan** yang berkaitan, d
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Fluvoxamine diketahui sebagai SSRI dan agonis reseptor sigma-1. Namun begitu, tiada rasional mekanisme khusus yang menghubungkannya dengan gangguan personaliti skizoid.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Fluvoxamine (terjemahan tidak rasmi): “Mekanisme tindakan fluvoxamine maleate dalam gangguan obsesif kompulsif dianggap berkait dengan perencatan pengambilan semula serotonin yang spesifik dalam neuron otak. Fluvoxamine telah ditunjukkan sebagai perencat kuat pengangkut pengambilan semula serotonin dalam kajian praklinikal, secara in vitro dan in vivo.” Teks asal bahasa Inggeris: "The mechanism of action of fluvoxamine maleate in obsessive compulsive disorder is presumed to be linked to its specific serotonin reuptake inhibition in brain neurons. Fluvoxamine has been shown to be a potent inhibitor of the serotonin reuptake transporter in preclinical studies, both in vitro and in vivo." ([DailyMed: fluvoxamine maleate prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9972efbb-46cd-45b7-b71c-35032311b70c), versi 2026-10-26; diakses 2026-11-19). Fluvoxamine diketahui sebagai SSRI dan agonis reseptor sigma-1. Namun begitu, tiada rasional mekanisme khusus yang menghubungkannya dengan gangguan personaliti skizoid.
 
 Satu-satunya penerbitan yang dipetik membincangkan gangguan personaliti sebagai komorbiditi dalam gangguan dismorfik badan, dan bukan rawatan dengan fluvoxamine.
 
@@ -105,6 +105,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Data mekanisme tindakan yang lengkap
 - Teks indikasi dan maklumat keselamatan (amaran dan kontraindikasi) daripada sisipan pakej NPRA
 - Pelan pemantauan interaksi ubat memandangkan beban interaksi yang tinggi
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: fluvoxamine maleate prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9972efbb-46cd-45b7-b71c-35032311b70c) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

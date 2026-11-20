@@ -59,7 +59,7 @@ Alectinib hydrochloride ialah perencat kinase ALK/RET yang berdaftar di Malaysia
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Alectinib diketahui sebagai perencat kinase ALK/RET, dan aktivitinya yang mapan terhad kepada keganasan yang didorong oleh penyusunan semula ALK.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Alectinib Hydrochloride (terjemahan tidak rasmi): “Alectinib ialah perencat tirosina kinase yang menyasarkan ALK dan RET. Dalam kajian bukan klinikal, alectinib merencat fosforilasi ALK dan pengaktifan protein pengisyaratan hiliran STAT3 dan AKT yang diperantarakan oleh ALK, serta mengurangkan kebolehhidupan sel tumor dalam pelbagai titisan sel yang membawa fusi, amplifikasi atau mutasi pengaktifan ALK.” Teks asal bahasa Inggeris: "Alectinib is a tyrosine kinase inhibitor that targets ALK and RET. In nonclinical studies, alectinib inhibited ALK phosphorylation and ALK-mediated activation of the downstream signaling proteins STAT3 and AKT, and decreased tumor cell viability in multiple cell lines harboring ALK fusions, amplifications, or activating mutations." ([DailyMed: Alecensa (alectinib hydrochloride) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42c49deb-713b-427a-9670-08af08adcffb), versi 2026-08-21; diakses 2026-11-19). Alectinib diketahui sebagai perencat kinase ALK/RET, dan aktivitinya yang mapan terhad kepada keganasan yang didorong oleh penyusunan semula ALK.
 
 Tiada patologi didorong ALK yang didokumenkan untuk fibromatosis gingiva herediti. Oleh itu, tiada hubungan mekanistik yang disokong oleh data yang ada. Skor 0.9997 ialah ramalan berasaskan model sahaja dan tidak boleh dianggap bukti keberkesanan.
 
@@ -117,6 +117,19 @@ Ramalan ini tidak disokong oleh sebarang ujian klinikal atau penerbitan yang men
 - Amaran dan kontraindikasi daripada sisipan pek NPRA, yang diperlukan untuk saringan keselamatan.
 - Bukti praklinikal atau biologi yang menunjukkan penglibatan laluan ALK/RET dalam fibromatosis gingiva.
 - Sebarang kajian klinikal atau laporan kes yang berkaitan secara langsung dengan penyakit ini.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Alecensa (alectinib hydrochloride) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42c49deb-713b-427a-9670-08af08adcffb) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -66,7 +66,7 @@ Nota tahap bukti: tiada percubaan atau penerbitan yang dipetik mengkaji agorapho
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat sedia ada, duloxetine ialah SNRI yang menghalang penyerapan semula serotonin dan norepinefrin. SSRI dan SNRI ialah rawatan mantap untuk gangguan panik dan kebimbangan, dan agoraphobia sering berlaku bersama gangguan panik.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Duloxetine (terjemahan tidak rasmi): “Walaupun mekanisme tepat tindakan antidepresan, perencatan kesakitan pusat dan anksiolitik duloksetin pada manusia tidak diketahui, tindakan ini dipercayai berkaitan dengan potensiasi aktiviti serotonergik dan noradrenergik dalam CNS.” Teks asal bahasa Inggeris: "Although the exact mechanisms of the antidepressant, central pain inhibitory and anxiolytic actions of duloxetine in humans are unknown, these actions are believed to be related to its potentiation of serotonergic and noradrenergic activity in the CNS." ([DailyMed: Duloxetine Delayed-Release (duloxetine hydrochloride) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b), versi 2026-08-20; diakses 2026-11-19). Berdasarkan maklumat sedia ada, duloxetine ialah SNRI yang menghalang penyerapan semula serotonin dan norepinefrin. SSRI dan SNRI ialah rawatan mantap untuk gangguan panik dan kebimbangan, dan agoraphobia sering berlaku bersama gangguan panik.
 
 Oleh itu, secara mekanistik duloxetine mungkin sesuai untuk agoraphobia. Namun begitu, ini hanyalah kebolehpercayaan biologi. Kajian yang ada ialah kajian label terbuka dalam gangguan panik (dengan atau tanpa agoraphobia) dan laporan kes, bukan ujian rawak khusus untuk agoraphobia.
 
@@ -148,12 +148,13 @@ Ramalan agoraphobia hanya disokong secara tidak langsung oleh kajian label terbu
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Pengenalan jadual: “Lima daripada 16 lesen sah” → 5 daripada 18 lesen (16 sah; 2 Cymbalta tidak lagi tersenarai) | Dibetulkan | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
 | 2026-11-19 | Bilangan pendaftaran: “18 lesen produk tunggal yang sah kesemuanya” → 18 lesen, 16 sah, 2 tidak lagi tersenarai | Dibetulkan | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Duloxetine Delayed-Release (duloxetine hydrochloride) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b) |
 
 <!-- review:end log -->
 

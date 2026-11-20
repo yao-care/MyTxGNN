@@ -58,7 +58,7 @@ Risdiplam ialah modulator pemotongan (splicing) pra-mRNA SMN2 yang diketahui dig
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, risdiplam ialah modulator pemotongan pra-mRNA SMN2 yang diluluskan untuk SMA. Walau bagaimanapun, tiada kaitan mekanistik langsung dengan patofisiologi jerawat (pengeluaran sebum, hiperkeratinisasi folikel, kolonisasi *Cutibacterium acnes*, keradangan) dapat ditunjukkan daripada data yang dikumpulkan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Risdiplam (terjemahan tidak rasmi): “Risdiplam ialah pengubah suai splicing survival of motor neuron 2 (SMN2) yang direka untuk merawat pesakit atrofi otot spina (SMA) yang disebabkan oleh mutasi pada kromosom 5q yang membawa kepada kekurangan protein SMN. Melalui asai in vitro dan kajian dalam model haiwan transgenik SMA, risdiplam telah ditunjukkan meningkatkan kemasukan ekson 7 dalam transkrip asid ribonukleik utusan (mRNA) SMN2 dan penghasilan protein SMN panjang penuh di dalam otak.” Teks asal bahasa Inggeris: "Risdiplam is a survival of motor neuron 2 (SMN2) splicing modifier designed to treat patients with spinal muscular atrophy (SMA) caused by mutations in chromosome 5q that lead to SMN protein deficiency. Using in vitro assays and studies in transgenic animal models of SMA, risdiplam was shown to increase exon 7 inclusion in SMN2 messenger ribonucleic acid (mRNA) transcripts and production of full-length SMN protein in the brain." ([DailyMed: Evrysdi (risdiplam) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eceb9a99-7191-4be5-87c3-0102707cf98e), versi 2026-11-02; diakses 2026-11-19). Berdasarkan maklumat sedia ada, risdiplam ialah modulator pemotongan pra-mRNA SMN2 yang diluluskan untuk SMA. Walau bagaimanapun, tiada kaitan mekanistik langsung dengan patofisiologi jerawat (pengeluaran sebum, hiperkeratinisasi folikel, kolonisasi *Cutibacterium acnes*, keradangan) dapat ditunjukkan daripada data yang dikumpulkan.
 
 Skor ramalan sangat tinggi (0.9945), tetapi ia hanya skor daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi. Sebarang kaitan, contohnya melalui kesan berkaitan pemotongan RNA atau kesan di luar sasaran pada laluan yang tidak didokumenkan di sini, adalah spekulatif. Indikasi asal dan MOA juga tiada dalam data.
 
@@ -113,11 +113,12 @@ Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pakej.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Evrysdi (risdiplam) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eceb9a99-7191-4be5-87c3-0102707cf98e) |
 
 <!-- review:end log -->
 

@@ -61,7 +61,7 @@ Ramalan kedua ialah **retinopati diabetik** (kategori induk), dengan skor 0.9973
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, pegfilgrastim ialah G-CSF bertindak panjang yang merangsang percambahan neutrofil dan sel progenitor hematopoietik. Kaitan mekanistiknya dengan retinopati diabetik belum disahkan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Pegfilgrastim (terjemahan tidak rasmi): “Produk pegfilgrastim ialah faktor perangsang koloni yang bertindak ke atas sel hematopoietik dengan terikat kepada reseptor permukaan sel yang spesifik, seterusnya merangsang proliferasi, pembezaan, komitmen, dan pengaktifan fungsi sel akhir.” Teks asal bahasa Inggeris: "Pegfilgrastim products are colony-stimulating factor that acts on hematopoietic cells by binding to specific cell surface receptors, thereby stimulating proliferation, differentiation, commitment, and end cell functional activation." ([DailyMed: Armlupeg (pegfilgrastim-unne) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c48fe1a7-63d7-4dce-bb53-a913cb0ade83), versi 2026-10-29; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, pegfilgrastim ialah G-CSF bertindak panjang yang merangsang percambahan neutrofil dan sel progenitor hematopoietik. Kaitan mekanistiknya dengan retinopati diabetik belum disahkan.
 
 Satu hipotesis yang munasabah tetapi belum terbukti ialah G-CSF menggerakkan sel progenitor endotelium daripada sumsum tulang, yang mungkin membantu pembaikan saluran darah retina. Namun kesan sebaliknya juga munasabah: sel progenitor yang digerakkan dan pengaktifan keradangan boleh menggalakkan neovaskularisasi patologi. Oleh itu arah kesannya tidak jelas.
 
@@ -108,6 +108,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Kajian praklinikal atau literatur mengenai G-CSF dalam retinopati diabetik, terutamanya risiko neovaskularisasi
 - Pengesahan status pendaftaran dan ketersediaan produk di Malaysia
 - Penilaian keserasian laluan pemberian (pada masa ini belum ditentukan) untuk kegunaan okular atau sistemik
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Armlupeg (pegfilgrastim-unne) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c48fe1a7-63d7-4dce-bb53-a913cb0ade83) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

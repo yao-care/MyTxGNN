@@ -62,7 +62,7 @@ Setakat ini terdapat **0 percubaan klinikal** yang berdaftar dan **9 penerbitan*
 
 ## Mengapakah Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, berdasarkan maklumat yang diketahui, desmopressin ialah analog sintetik vasopressin yang merangsang pelepasan faktor von Willebrand (VWF) dan faktor VIII daripada simpanan endotelium. Kesannya meningkatkan lekatan platelet dan memendekkan masa pendarahan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Desmopressin (terjemahan tidak rasmi): “Desmopresin asetat meningkatkan paras plasma aktiviti faktor VIII dalam pesakit hemofilia dan penyakit von Willebrand Jenis I. Kesan antidiuretik desmopresin asetat diperantarakan oleh rangsangan reseptor vasopresin 2 (V2), sekali gus meningkatkan penyerapan semula air dalam ginjal, dan seterusnya mengurangkan penghasilan air kencing. Desmopresin asetat ialah hormon gantian bagi hormon antidiuretik dalam rawatan diabetes insipidus pusat.” Teks asal bahasa Inggeris: "Desmopressin acetate increases plasma levels of factor VIII activity in patients with hemophilia and von Willebrand's disease Type I. The antidiuretic effects of desmopressin acetate are mediated by stimulation of vasopressin 2 (V2) receptors, thereby increasing water re-absorption in the kidney, and hence reducing urine production. Desmopressin acetate is a replacement hormone for antidiuretic hormone in the treatment of central diabetes insipidus." ([DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244), versi 2022-09-28; diakses 2026-11-19). Walau bagaimanapun, berdasarkan maklumat yang diketahui, desmopressin ialah analog sintetik vasopressin yang merangsang pelepasan faktor von Willebrand (VWF) dan faktor VIII daripada simpanan endotelium. Kesannya meningkatkan lekatan platelet dan memendekkan masa pendarahan.
 
 Penyakit von Willebrand ialah gangguan hemostasis primer yang berpunca daripada kelainan lekatan platelet. Gangguan pelepasan platelet (termasuk kecacatan seperti aspirin dan sindrom Hermansky-Pudlak) turut menjejaskan fungsi platelet yang bergantung kepada perembesan. Oleh itu, kesan desmopressin terhadap hemostasis primer berpotensi relevan.
 
@@ -93,7 +93,6 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -133,6 +132,19 @@ Sila rujuk sisipan pek untuk maklumat keselamatan lanjut.
 - Protokol infusi ujian dengan pemantauan tindak balas, serta pemantauan cecair dan natrium untuk mengelakkan hiponatremia
 - Pengesahan melalui kajian terkawal atau siri kes yang lebih besar
 - Penjelasan identiti penyakit bagi entri "flood factor deficiency" sebelum sebarang penilaian lanjut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

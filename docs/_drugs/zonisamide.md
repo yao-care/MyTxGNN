@@ -74,7 +74,7 @@ Zonisamide ialah ubat antikonvulsan (anti-sawan) yang menyekat saluran natrium b
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci (MOA) tidak tersedia daripada data yang dikumpulkan. Berdasarkan maklumat yang diketahui, zonisamide menyekat saluran natrium bergantung voltan dan saluran kalsium jenis-T, serta merencat karbonik anhidrase secara lemah. Hubungan dengan litar tik dalam Sindrom Tourette bersifat **spekulatif**.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Zonisamide (terjemahan tidak rasmi): “Mekanisme tepat yang melaluinya zonisamid memberikan kesan antisawannya tidak diketahui. Zonisamid menunjukkan aktiviti antikonvulsan dalam beberapa model eksperimen. Pada haiwan, zonisamid berkesan terhadap sawan ekstensi tonik yang diaruh oleh kejutan elektrik maksimum tetapi tidak berkesan terhadap sawan klonik yang diaruh oleh pentilenetetrazol subkutaneus.” Teks asal bahasa Inggeris: "The precise mechanism(s) by which zonisamide exerts its antiseizure effect is unknown. Zonisamide demonstrated anticonvulsant activity in several experimental models. In animals, zonisamide was effective against tonic extension seizures induced by maximal electroshock but ineffective against clonic seizures induced by subcutaneous pentylenetetrazol." ([DailyMed: Zonegran (zonisamide) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12de43e-3ac3-4335-bc85-70d7366a91eb), versi 2026-09-23; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, zonisamide menyekat saluran natrium bergantung voltan dan saluran kalsium jenis-T, serta merencat karbonik anhidrase secara lemah. Hubungan dengan litar tik dalam Sindrom Tourette bersifat **spekulatif**.
 
 Satu ulasan yang diperoleh (PMID 36005856) menerangkan tik yang disebabkan oleh ubat anti-sawan. Ini lebih merupakan **isyarat keselamatan** berbanding sokongan terhadap ramalan.
 
@@ -165,6 +165,19 @@ Maklumat amaran dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila r
 - Mendapatkan data MOA terperinci daripada DrugBank
 - Mengesahkan reka bentuk kajian zonisamide bagi absence epilepsy dan bipolar (kini kecil atau pemerhatian)
 - Menilai semula ramalan methemoglobinemia dan konjunktivitis sebagai kemungkinan persamaan yang dipelajari oleh model TxGNN (pembelajaran mendalam) antara penyakit berkaitan, bukan bukti biologi
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Zonegran (zonisamide) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12de43e-3ac3-4335-bc85-70d7366a91eb) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

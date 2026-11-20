@@ -55,7 +55,7 @@ Bukti langsung amat terhad: **2 percubaan klinikal** dan **1 penerbitan** ditemu
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, fosfomycin menghalang enzim MurA dan seterusnya sintesis dinding sel bakteria. Ia mencapai kepekatan tinggi dalam air kencing dan aktif terhadap beberapa bakteria Gram-negatif yang rintang pelbagai ubat.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Fosfomycin (terjemahan tidak rasmi): “CONTEPO ialah ubat antibakteria. […] Fosfomycin ialah ubat antibakteria epoksida yang mengganggu sintesis dinding sel bakteria dengan terikat secara kovalen kepada dan merencat fosfoenolpiruvat transferase (MurA), lantas menyekat sintesis peptidoglikan. Fosfomycin bersifat bakterisidal terhadap Enterobacterales.” Teks asal bahasa Inggeris: "CONTEPO is an antibacterial drug. […] Fosfomycin is an epoxide antibacterial drug that disrupts bacterial cell wall synthesis by covalently binding and inhibiting phosphoenolpyruvate transferase (MurA), thereby blocking the synthesis of peptidoglycan. Fosfomycin is bactericidal against Enterobacterales." ([DailyMed: Contepo (fosfomycin disodium) prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=855574f2-39f8-43bc-a3d2-79dbb578cb94), versi 2025-11-04; diakses 2026-11-19). Secara umum, fosfomycin menghalang enzim MurA dan seterusnya sintesis dinding sel bakteria. Ia mencapai kepekatan tinggi dalam air kencing dan aktif terhadap beberapa bakteria Gram-negatif yang rintang pelbagai ubat.
 
 Radang uterus dan pelvis sering melibatkan jangkitan bakteria. Oleh itu, aktiviti antibakteria fosfomycin secara teori boleh relevan. Namun, hubungan ini bersifat tidak langsung. Dua percubaan klinikal yang ditemui ialah kajian farmakokinetik am pada kanak-kanak, dan satu-satunya penerbitan membincangkan sistitis pada pesakit endometriosis, bukan keradangan uterus. Ramalan ini perlu dianggap sebagai hipotesis yang belum disokong oleh kajian khusus.
 
@@ -108,6 +108,19 @@ Tiada percubaan klinikal atau penerbitan yang mengkaji penyakit radang uterus se
 - Data mekanisme tindakan yang terperinci
 - Kajian yang menilai keberkesanan fosfomycin secara langsung dalam penyakit radang uterus, misalnya data mikrobiologi, penembusan tisu uterus dan percubaan klinikal
 - Penilaian keserasian laluan pentadbiran (oral berbanding intravena) untuk indikasi ini
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Contepo (fosfomycin disodium) prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=855574f2-39f8-43bc-a3d2-79dbb578cb94) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

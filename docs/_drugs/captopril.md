@@ -54,7 +54,7 @@ Captopril ialah perencat ACE yang telah dipasarkan di Malaysia. Model TxGNN mera
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan captopril tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan umum, captopril ialah perencat ACE, iaitu ia menghalang pembentukan angiotensin II dan dengan itu mengurangkan aktiviti sistem renin-angiotensin-aldosteron (RAAS).
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Captopril (terjemahan tidak rasmi): “Mekanisme tindakan tablet captopril masih belum dijelaskan sepenuhnya. Kesan bermanfaatnya dalam hipertensi dan kegagalan jantung nampaknya terhasil terutamanya daripada penindasan sistem renin-angiotensin-aldosteron.” Teks asal bahasa Inggeris: "The mechanism of action of captopril tablets have not yet been fully elucidated. Its beneficial effects in hypertension and heart failure appear to result primarily from suppression of the renin-angiotensin-aldosterone system." ([DailyMed: captopril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ccbffd30-4b21-4522-bdb8-abba8d592017), versi 2026-11-11; diakses 2026-11-19). Berdasarkan pengetahuan umum, captopril ialah perencat ACE, iaitu ia menghalang pembentukan angiotensin II dan dengan itu mengurangkan aktiviti sistem renin-angiotensin-aldosteron (RAAS).
 
 Hipertensi malignan dengan penglibatan buah pinggang dikaitkan dengan pengaktifan RAAS dan kecederaan saluran darah buah pinggang. Oleh itu, perencatan ACE munasabah dari segi mekanisme. Namun, ini baru hipotesis. Satu-satunya penerbitan yang diperoleh ialah laporan kes diagnostik tentang renografi captopril yang positif pada pesakit karsinoma sel renal. Laporan itu tidak memberi bukti terapeutik dan tidak mengkaji penyakit yang diramalkan ini secara langsung. Skor ramalan yang tinggi tidak disokong oleh data klinikal langsung.
 
@@ -88,6 +88,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 - Data mekanisme tindakan (MOA) yang terperinci.
 - Amaran dan kontraindikasi daripada risalah maklumat produk yang diluluskan oleh NPRA, bagi membolehkan penilaian keselamatan.
 - Penilaian keselamatan khusus untuk pesakit dengan kecederaan buah pinggang, termasuk pemantauan fungsi renal dan kalium.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: captopril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ccbffd30-4b21-4522-bdb8-abba8d592017) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

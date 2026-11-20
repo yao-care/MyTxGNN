@@ -57,7 +57,7 @@ Ramalan lain yang berkedudukan tinggi (semuanya L5, Hold): subjenis payudara-nor
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, ocrelizumab ialah antibodi monoklonal manusiawi anti-CD20 yang menyusutkan sel B. Keberkesanannya dalam sklerosis berbilang telah dibuktikan melalui kajian pivotal.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ocrelizumab (terjemahan tidak rasmi): “Mekanisme tepat bagaimana okrelizumab memberikan kesan terapeutiknya dalam sklerosis berbilang tidak diketahui, tetapi dianggap melibatkan pengikatan kepada CD20, suatu antigen permukaan sel yang terdapat pada limfosit pra-B dan limfosit B matang. Selepas pengikatan pada permukaan sel limfosit B, okrelizumab mengakibatkan sitolisis selular bergantung antibodi dan lisis diperantarakan komplemen.” Teks asal bahasa Inggeris: "The precise mechanism by which ocrelizumab exerts its therapeutic effects in multiple sclerosis is unknown, but is presumed to involve binding to CD20, a cell surface antigen present on pre-B and mature B lymphocytes. Following cell surface binding to B lymphocytes, ocrelizumab results in antibody-dependent cellular cytolysis and complement-mediated lysis." ([DailyMed: Ocrevus (ocrelizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9da42362-3bb5-4b83-b4bb-b59fd4e55f0d), versi 2026-05-14; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, ocrelizumab ialah antibodi monoklonal manusiawi anti-CD20 yang menyusutkan sel B. Keberkesanannya dalam sklerosis berbilang telah dibuktikan melalui kajian pivotal.
 
 Walau bagaimanapun, **tiada hubungan mekanistik yang disokong oleh data** antara penyusutan sel B berasaskan CD20 dengan karsinoma payudara HER2 positif. Penyakit ini didorong oleh amplifikasi HER2, bukan laluan berkaitan CD20. Skor TxGNN yang sangat tinggi (0.9989) ialah ramalan model sahaja dan tidak boleh dianggap sebagai bukti klinikal. Kesamaan dengan indikasi asal juga belum dinilai.
 
@@ -81,7 +81,6 @@ Kajian ini menyokong indikasi asal, bukan indikasi kanser payudara.
 
 ## Maklumat Pasaran Malaysia
 
-
 ## Pertimbangan Keselamatan
 
 **Interaksi Ubat** (pertanyaan selesai; jumlah rekod 100, sebahagian disenaraikan di bawah):
@@ -103,6 +102,19 @@ Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila ruju
 - Bukti praklinikal atau mekanistik yang menghubungkan penyusutan sel B/CD20 dengan karsinoma payudara HER2 positif
 - Semakan literatur yang disasarkan, dengan penapisan padanan kata kunci yang tidak relevan
 - Penilaian kebolehlaksanaan laluan pentadbiran dan status pendaftaran tempatan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ocrevus (ocrelizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9da42362-3bb5-4b83-b4bb-b59fd4e55f0d) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

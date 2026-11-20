@@ -55,7 +55,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom faciodigitogenital (f
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Clonidine diketahui sebagai agonis alfa-2 adrenergik yang mengurangkan pelepasan noradrenalin pusat.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Clonidine (terjemahan tidak rasmi): “Clonidine merangsang alfa-adrenoreseptor di dalam batang otak. Tindakan ini menyebabkan pengurangan aliran keluar simpatetik daripada sistem saraf pusat dan penurunan rintangan periferi, rintangan vaskular renal, kadar denyutan jantung, dan tekanan darah.” Teks asal bahasa Inggeris: "Clonidine stimulates alpha-adrenoreceptors in the brain stem. This action results in reduced sympathetic outflow from the central nervous system and in decreases in peripheral resistance, renal vascular resistance, heart rate, and blood pressure." ([DailyMed: Qlonilik (clonidine hydrochloride) prescribing information, CMP Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=826de1dc-378e-4c90-86d1-e33f7a4248cd), versi 2026-08-12; diakses 2026-11-19). Clonidine diketahui sebagai agonis alfa-2 adrenergik yang mengurangkan pelepasan noradrenalin pusat.
 
 Namun, tiada hubungan mekanistik yang dapat dikenal pasti antara tindakan ini dengan patofisiologi sindrom genetik yang jarang ditemui ini. Skor TxGNN yang sangat tinggi (0,9999) hanyalah ramalan berasaskan model, tanpa sokongan ujian klinikal atau literatur. Ramalan ini perlu dianggap sebagai hipotesis yang belum disahkan.
 
@@ -98,6 +98,19 @@ Ramalan ini hanya berasaskan skor model tanpa sebarang ujian klinikal, literatur
 - Penjelasan hubungan biologi antara agonisme alfa-2 dengan sindrom faciodigitogenital
 - Sisipan pek NPRA bagi amaran dan kontraindikasi
 - Sebarang kajian praklinikal atau laporan kes yang berkaitan sebelum pertimbangan lanjut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Qlonilik (clonidine hydrochloride) prescribing information, CMP Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=826de1dc-378e-4c90-86d1-e33f7a4248cd) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

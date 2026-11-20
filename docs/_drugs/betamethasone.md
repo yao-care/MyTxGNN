@@ -54,7 +54,7 @@ Betamethasone ialah ubat kortikosteroid (glukokortikoid) yang telah dipasarkan d
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan betamethasone tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umumnya, betamethasone ialah glukokortikoid berkesan tinggi yang menekan tindak balas keradangan dan imun.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Betamethasone (terjemahan tidak rasmi): “Kortikosteroid memainkan peranan dalam pengisyaratan sel, fungsi imun, keradangan dan pengawalaturan protein; namun, mekanisme tindakan SERNIVO Spray yang tepat dalam psoriasis tidak diketahui.” Teks asal bahasa Inggeris: "Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action of SERNIVO Spray in psoriasis is unknown." ([DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66), versi 2026-04-22; diakses 2026-11-19). Secara umumnya, betamethasone ialah glukokortikoid berkesan tinggi yang menekan tindak balas keradangan dan imun.
 
 Alopesia musinosa (juga dikenali sebagai mucinosis folikular) ditandai dengan infiltrat radang di sekeliling folikel rambut dan pemendapan musin. Kortikosteroid boleh mengurangkan keradangan ini, jadi kaitan mekanistiknya munasabah. Namun, ia hanyalah hipotesis.
 
@@ -112,11 +112,12 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Semua 97 lesen yang direkodkan berstatus sah" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66) |
 
 <!-- review:end log -->
 

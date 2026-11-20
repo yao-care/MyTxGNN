@@ -56,7 +56,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma cauda equina (cauda
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia untuk laporan ini. Secara umum, bleomycin diketahui mengakibatkan keretakan untai DNA dan merupakan komponen rejimen tumor sel germa berasaskan platinum (seperti BEP/PVB).
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Bleomycin Sulfate (terjemahan tidak rasmi): “Walaupun mekanisme tindakan tepat bleomycin tidak diketahui, bukti yang ada menunjukkan bahawa cara tindakan utamanya ialah perencatan sintesis DNA, dengan sedikit bukti perencatan yang lebih rendah terhadap sintesis RNA dan protein. Bleomycin diketahui menyebabkan pemutusan bebenang tunggal dan, pada tahap yang lebih rendah, pemutusan bebenang berganda dalam DNA.” Teks asal bahasa Inggeris: "Although the exact mechanism of action of bleomycin is unknown, available evidence indicates that the main mode of action is the inhibition of DNA synthesis with some evidence of lesser inhibition of RNA and protein synthesis. Bleomycin is known to cause single, and to a lesser extent, double-stranded breaks in DNA." ([DailyMed: Bleomycin (bleomycin sulfate) prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=640602f9-a7df-46f0-a9b1-19c471008bee), versi 2026-04-17; diakses 2026-11-19). Secara umum, bleomycin diketahui mengakibatkan keretakan untai DNA dan merupakan komponen rejimen tumor sel germa berasaskan platinum (seperti BEP/PVB).
 
 Satu-satunya artikel yang dipautkan membincangkan germinoma CNS yang relaps selepas kemoterapi primer (termasuk karboplatin, etoposid dan bleomycin), yang boleh melibatkan paksi spinal. Ini ialah inferens tidak langsung berasaskan histologi tumor dan **bukan bukti dalam neoplasma cauda equina**. Penembusan CNS yang lemah dan ketoksikan pulmonari juga mengehadkan kebolehjadian manfaat. Oleh sebab tiada kajian yang meneliti penyakit ini secara langsung, tahap bukti ditetapkan pada L5 walaupun skor model tinggi.
 
@@ -103,6 +103,19 @@ Ramalan ini hanya disokong oleh skor model dan satu laporan kohort tidak langsun
 - Data mekanisme tindakan terperinci (MOA)
 - Amaran, kontraindikasi dan maklumat keselamatan daripada sisipan pakej NPRA
 - Penilaian penembusan CNS/spinal dan laluan pemberian yang sesuai
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Bleomycin (bleomycin sulfate) prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=640602f9-a7df-46f0-a9b1-19c471008bee) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

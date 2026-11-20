@@ -54,7 +54,7 @@ Citalopram ialah perencat pengambilan semula serotonin terpilih (SSRI) yang suda
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan citalopram tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Namun, citalopram diketahui tergolong dalam kelas SSRI. Ketakseimbangan sistem serotonin dalam litar kortikostriatotalamokortikal dikaitkan dengan OCD, dan SSRI ialah kelas ubat lini pertama yang mapan untuk gangguan ini.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Citalopram (terjemahan tidak rasmi): “Mekanisme tindakan citalopram tidak jelas, tetapi dianggap berkaitan dengan potensiasi aktiviti serotonergik dalam sistem saraf pusat (CNS) akibat perencatan pengambilan semula serotonin (5-HT) oleh neuron CNS.” Teks asal bahasa Inggeris: "The mechanism of action of citalopram is unclear, but is presumed to be related to potentiation of serotonergic activity in the central nervous system (CNS) resulting from its inhibition of CNS neuronal reuptake of serotonin (5-HT)." ([DailyMed: Celexa (citalopram) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4259d9b1-de34-43a4-85a8-41dd214e9177), versi 2023-10-09; diakses 2026-11-19). Namun, citalopram diketahui tergolong dalam kelas SSRI. Ketakseimbangan sistem serotonin dalam litar kortikostriatotalamokortikal dikaitkan dengan OCD, dan SSRI ialah kelas ubat lini pertama yang mapan untuk gangguan ini.
 
 Secara mekanisme, tindakan serotonergik citalopram selaras dengan rasional terapeutik OCD. Beberapa kajian terbuka dan kohort yang disenaraikan di bawah, termasuk pada kanak-kanak dan remaja serta pesakit OCD yang tidak responsif kepada rawatan lain, melaporkan penambahbaikan gejala dengan citalopram. Namun, kebanyakannya kajian kecil tanpa kumpulan kawalan.
 
@@ -125,11 +125,12 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Data yang dikumpulkan merekodkan 27 lesen sah dan tiada yang dibatalkan, jadi status pasaran ialah dipasarkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Celexa (citalopram) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4259d9b1-de34-43a4-85a8-41dd214e9177) |
 
 <!-- review:end log -->
 

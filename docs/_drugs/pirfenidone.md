@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, pirfenidone ialah agen anti-fibrotik oral dan keberkesanannya dalam fibrosis pulmonari idiopatik telah dibuktikan. Secara teori, aktiviti anti-fibrotik dan pemodulasian TGF-beta mungkin berkaitan dengan indikasi baharu, tetapi hubungan ini belum disahkan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Pirfenidone (terjemahan tidak rasmi): “Mekanisme tindakan pirfenidone dalam rawatan IPF belum dapat dipastikan.” Teks asal bahasa Inggeris: "The mechanism of action of pirfenidone in the treatment of IPF has not been established." ([DailyMed: Esbriet (pirfenidone) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e8c3537-36d7-4de5-9b5c-7a624b9a9e6e), versi 2025-12-05; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, pirfenidone ialah agen anti-fibrotik oral dan keberkesanannya dalam fibrosis pulmonari idiopatik telah dibuktikan. Secara teori, aktiviti anti-fibrotik dan pemodulasian TGF-beta mungkin berkaitan dengan indikasi baharu, tetapi hubungan ini belum disahkan.
 
 Extracutaneous mastocytoma ialah neoplasma sel mast yang terutamanya didorong oleh isyarat KIT. Aktiviti pirfenidone terhadap TGF-beta tidak mempunyai kaitan yang mantap dengan penyakit ini, dan tiada data klinikal atau literatur yang disediakan untuk menyokongnya. Skor 0.9971 ialah ramalan pengiraan semata-mata.
 
@@ -107,12 +107,13 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah pek (package insert).
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Pirfenidone pada masa ini tidak mempunyai pendaftaran di Malaysia (jumlah pendaftaran: 0)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak didaftarkan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Esbriet (pirfenidone) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e8c3537-36d7-4de5-9b5c-7a624b9a9e6e) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **kekurangan protein pemindahan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan pengetahuan umum, lovastatin ialah perencat HMG-CoA reduktase yang menurunkan kolesterol LDL. Kekurangan CETP pula ialah keadaan genetik yang dicirikan oleh HDL-C yang tinggi dan pemindahan ester kolesterol yang berkurangan.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Lovastatin (terjemahan tidak rasmi): “Mekanisme kesan penurunan LDL oleh lovastatin mungkin melibatkan kedua-dua pengurangan kepekatan VLDL-C dan aruhan reseptor LDL, yang membawa kepada pengurangan penghasilan dan/atau peningkatan katabolisme LDL-C. Apolipoprotein B juga menurun semasa rawatan dengan lovastatin. Lovastatin ialah perencat spesifik HMG-CoA reduktase, enzim yang memangkinkan penukaran HMG-CoA kepada mevalonat.” Teks asal bahasa Inggeris: "The mechanism of the LDL-lowering effect of lovastatin may involve both reduction of VLDL-C concentration, and induction of the LDL receptor, leading to reduced production and/or increased catabolism of LDL-C. Apolipoprotein B also falls during treatment with lovastatin. Lovastatin is a specific inhibitor of HMG-CoA reductase, the enzyme which catalyzes the conversion of HMG-CoA to mevalonate." ([DailyMed: lovastatin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac86821f-d741-4ab1-bd03-ce8797dd4f34), versi 2026-11-13; diakses 2026-11-19). Berdasarkan pengetahuan umum, lovastatin ialah perencat HMG-CoA reduktase yang menurunkan kolesterol LDL. Kekurangan CETP pula ialah keadaan genetik yang dicirikan oleh HDL-C yang tinggi dan pemindahan ester kolesterol yang berkurangan.
 
 Kaitan yang mungkin terletak pada laluan metabolisme lipoprotein yang sama. Skor tinggi model berkemungkinan mencerminkan kedekatan rangkaian dengan gangguan lipid dalam indikasi asal (contohnya hipoalfalipoproteinemia dan hiperlipidemia familial). Namun, tiada mekanisme langsung yang dapat dibuktikan.
 
@@ -126,6 +126,19 @@ Ramalan ini hanya berasaskan model (skor 0.9942) tanpa sebarang percubaan klinik
 - Data mekanisme tindakan (MOA) lovastatin daripada DrugBank
 - Kajian praklinikal atau klinikal yang secara langsung menilai lovastatin dalam kekurangan CETP
 - Penjelasan keperluan klinikal untuk rawatan penurun lipid dalam keadaan ini
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: lovastatin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac86821f-d741-4ab1-bd03-ce8797dd4f34) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

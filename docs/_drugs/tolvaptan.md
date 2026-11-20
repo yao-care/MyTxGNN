@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **displasia renal-hepatik-pankr
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, tolvaptan ialah antagonis selektif reseptor vasopresin V2 yang mengurangkan isyarat cAMP dalam sel duktus pengumpul renal dan memperlahankan pertumbuhan sista dalam penyakit ginjal polisistik dominan autosom (ADPKD).
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Tolvaptan (terjemahan tidak rasmi): “Tolvaptan ialah antagonis reseptor V 2 vasopresin selektif dengan afiniti terhadap reseptor V 2 yang 1.8 kali ganda afiniti arginina vasopresin (AVP) asli. Afiniti tolvaptan terhadap reseptor V 2 adalah 29 kali ganda afinitinya terhadap reseptor V 1a.” Teks asal bahasa Inggeris: "Tolvaptan is a selective vasopressin V 2 -receptor antagonist with an affinity for the V 2 -receptor that is 1.8 times that of native arginine vasopressin (AVP). Tolvaptan affinity for the V 2 -receptor is 29 times that for the V 1a -receptor." ([DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4), versi 2026-09-30; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, tolvaptan ialah antagonis selektif reseptor vasopresin V2 yang mengurangkan isyarat cAMP dalam sel duktus pengumpul renal dan memperlahankan pertumbuhan sista dalam penyakit ginjal polisistik dominan autosom (ADPKD).
 
 Displasia renal-hepatik-pankreas ialah ciliopati yang dikaitkan dengan varian NPHP3 dan mempunyai ciri penyakit sista renal. Oleh itu, hubungan melalui sistogenesis yang didorong oleh cAMP adalah munasabah secara biologi. Namun begitu, tiada bukti langsung wujud, dan skor TxGNN yang sangat tinggi hanyalah ramalan komputasi.
 
@@ -132,6 +132,19 @@ Ramalan untuk displasia renal-hepatik-pankreas hanya berasaskan model komputasi 
 - Data mekanisme tindakan (MOA) terperinci daripada sumber seperti DrugBank
 - Kajian praklinikal atau klinikal yang menilai tolvaptan secara langsung dalam displasia renal-hepatik-pankreas atau ciliopati renal berkaitan
 - Penilaian keselamatan khusus untuk populasi pediatrik dan pesakit dengan penyakit hati atau ginjal
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

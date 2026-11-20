@@ -54,7 +54,7 @@ Clarithromycin ialah antibiotik daripada kumpulan makrolid yang digunakan terhad
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mengenai mekanisme tindakan terperinci bagi clarithromycin tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, clarithromycin ialah antibiotik makrolid, dan tiada laluan yang didokumenkan yang menghubungkan makrolid dengan pengurusan hiperviskositi akibat hipergamaglobulinemia poliklonal.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Clarithromycin (terjemahan tidak rasmi): “Clarithromycin ialah ubat antimikrob makrolida. […] Clarithromycin menghasilkan tindakan antibakterianya dengan mengikat kepada subunit ribosom 50S bakteria yang rentan, menyebabkan perencatan sintesis protein.” Teks asal bahasa Inggeris: "Clarithromycin is a macrolide antimicrobial drug. […] Clarithromycin exerts its antibacterial action by binding to the 50S ribosomal subunit of susceptible bacteria resulting in inhibition of protein synthesis." ([DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460), versi 2026-11-12; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, clarithromycin ialah antibiotik makrolid, dan tiada laluan yang didokumenkan yang menghubungkan makrolid dengan pengurusan hiperviskositi akibat hipergamaglobulinemia poliklonal.
 
 Sebarang hubungan, contohnya melalui kesan imunomodulasi, hanyalah spekulatif dan tidak disokong oleh data yang dikumpulkan untuk laporan ini. Skor 0,9935 yang tinggi mencerminkan ramalan model sahaja, bukan bukti klinikal.
 
@@ -112,11 +112,12 @@ Ramalan ini tidak mempunyai percubaan klinikal, penerbitan atau mekanisme yang m
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-12 | Bilangan pendaftaran: “Terdapat 28 lesen, semuanya sah (27 produk bahan tunggal dan” → “Terdapat 29 lesen, semuanya sah (28 produk bahan tunggal dan 1 produk kombinasi)” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460) |
 
 <!-- review:end log -->
 

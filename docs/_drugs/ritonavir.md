@@ -58,7 +58,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan virus imunodefisien
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, ritonavir ialah perencat protease HIV-1 dan juga perencat kuat CYP3A4 yang digunakan sebagai penggalak farmakokinetik. SIV ialah lentivirus berkait rapat dengan HIV dan proteasenya mempunyai persamaan struktur dengan protease HIV-1, maka hubungan mekanistik adalah munasabah.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ritonavir (terjemahan tidak rasmi): “Ritonavir ialah ubat antiretrovirus. […] Ritonavir ialah perencat peptidomimetik protease HIV-1. Perencatan protease HIV menyebabkan enzim tersebut tidak berupaya memproses prekursor poliprotein Gag-Pol, yang membawa kepada penghasilan partikel HIV tidak matang yang tidak berjangkit.” Teks asal bahasa Inggeris: "Ritonavir is an antiretroviral drug. […] Ritonavir is a peptidomimetic inhibitor of the HIV-1 protease. Inhibition of HIV protease renders the enzyme incapable of processing the Gag-Pol polyprotein precursor which leads to production of non-infectious immature HIV particles." ([DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3), versi 2026-07-23; diakses 2026-11-19). Berdasarkan maklumat sedia ada, ritonavir ialah perencat protease HIV-1 dan juga perencat kuat CYP3A4 yang digunakan sebagai penggalak farmakokinetik. SIV ialah lentivirus berkait rapat dengan HIV dan proteasenya mempunyai persamaan struktur dengan protease HIV-1, maka hubungan mekanistik adalah munasabah.
 
 Sokongan yang ada terhad kepada kajian in vitro dan praklinikal. Kajian kerentanan menunjukkan SIVmac239 direncat oleh ritonavir dengan EC50 sekitar 13 nM, berbanding sekitar 25 nM untuk HIV-1 (PMID 12709355). Kajian lain menilai kerentanan HIV-2, SIV dan SHIV terhadap sebatian anti-HIV-1 (PMID 15040537).
 
@@ -116,6 +116,19 @@ Tiada ujian klinikal, dan bukti hanya terdiri daripada kajian in vitro dan prima
 - Data mekanisme tindakan terperinci (MOA)
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Penentuan sama ada indikasi ini mempunyai relevan klinikal bagi manusia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

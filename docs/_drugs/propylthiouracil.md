@@ -60,7 +60,7 @@ tetapi setakat ini terdapat **0 percubaan klinikal** dan **4 penerbitan** (kes l
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, PTU merencat tiroid peroksidase, mengurangkan sintesis hormon tiroid dan menyekat penukaran T4 kepada T3 di bahagian periferi. Keberkesanannya dalam hipertiroidisme sudah mantap.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Propylthiouracil (terjemahan tidak rasmi): “Propiltiourasil merencat sintesis hormon tiroid dan dengan itu berkesan dalam rawatan hipertiroidisme. Ubat ini tidak menyahaktifkan tiroksina dan triiodotironina sedia ada yang tersimpan dalam tiroid atau beredar dalam darah, dan tidak juga mengganggu keberkesanan hormon tiroid yang diberikan secara oral atau melalui suntikan.” Teks asal bahasa Inggeris: "Propylthiouracil inhibits the synthesis of thyroid hormones and thus is effective in the treatment of hyperthyroidism. The drug does not inactivate existing thyroxine and triiodothyronine that are stored in the thyroid or circulating in the blood, nor does it interfere with the effectiveness of thyroid hormones given by mouth or by injection." ([DailyMed: propylthiouracil prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d819e532-09ac-434a-84a6-636c4204c7aa), versi 2026-08-27; diakses 2026-11-19). Berdasarkan maklumat sedia ada, PTU merencat tiroid peroksidase, mengurangkan sintesis hormon tiroid dan menyekat penukaran T4 kepada T3 di bahagian periferi. Keberkesanannya dalam hipertiroidisme sudah mantap.
 
 Namun, dalam rintangan hormon tiroid (RTH-beta), kecacatan terletak pada reseptor. Menurunkan paras hormon secara amnya bukan matlamat terapeutik dan boleh meningkatkan TSH serta mencetuskan goiter. Skor TxGNN yang tinggi berkemungkinan mencerminkan kedekatan rangkaian (gen laluan hormon tiroid dan fenotip yang dikongsi), bukan rasional terapeutik yang telah disahkan.
 
@@ -133,11 +133,12 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang lengkap.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "(tiada pendaftaran)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: propylthiouracil prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d819e532-09ac-434a-84a6-636c4204c7aa) |
 
 <!-- review:end log -->
 

@@ -53,7 +53,7 @@ Triptorelin ialah agonis hormon pelepas gonadotropin (GnRH) yang menekan hormon 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Triptorelin tergolong dalam kelas agonis GnRH. Secara teori, ia menurunkan androgen gonad dan boleh mengurangkan hirsutisme yang bergantung kepada androgen.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Triptorelin (terjemahan tidak rasmi): “Triptorelin ialah analog agonis dekapeptida sintetik bagi hormon pelepas gonadotropin (GnRH). Kajian perbandingan in vitro menunjukkan bahawa triptorelin adalah 100 kali ganda lebih aktif daripada GnRH asli dalam merangsang pelepasan hormon peluteinan daripada lapisan tunggal sel pituitari tikus tersebar dalam kultur dan 20 kali ganda lebih aktif daripada GnRH asli dalam menyesarkan 125 I-GnRH daripada tapak reseptor pituitari.” Teks asal bahasa Inggeris: "Triptorelin is a synthetic decapeptide agonist analog of gonadotropin releasing hormone (GnRH). Comparative in vitro studies showed that triptorelin was 100-fold more active than native GnRH in stimulating luteinizing hormone release from monolayers of dispersed rat pituitary cells in culture and 20-fold more active than native GnRH in displacing 125 I-GnRH from pituitary receptor sites." ([DailyMed: Trelstar (triptorelin pamoate) prescribing information, Verity Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b84d62-a369-a4b7-5c41-dd1f553a18f3), versi 2026-06-30; diakses 2026-11-19). Triptorelin tergolong dalam kelas agonis GnRH. Secara teori, ia menurunkan androgen gonad dan boleh mengurangkan hirsutisme yang bergantung kepada androgen.
 
 Namun, hirsutisme berbeza daripada hipertrikosis umum, yang biasanya tidak bergantung kepada androgen. Satu-satunya penerbitan yang ditemui melaporkan hipertrikosis akibat siklosporin pada wanita transgender yang menerima estradiol dan triptorelin. Hipertrikosis itu berlaku walaupun androgen ditekan, jadi laporan tersebut tidak menunjukkan manfaat triptorelin, malah menunjukkan penekanan androgen tidak mencegahnya. Skor TxGNN yang tinggi tidak disokong oleh mekanisme yang munasabah.
 
@@ -88,6 +88,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Bukti klinikal langsung bahawa triptorelin memberi manfaat untuk hipertrikosis
 
 Terdapat 5 ujian Fasa 3 yang selesai (NCT04736602, NCT00564850, NCT00909844, NCT01467882, NCT05029622) dan beberapa penerbitan, termasuk laporan Fasa 3 (PMID 39412628). Ini ialah kegunaan yang sudah diluluskan di banyak wilayah, jadi ia lebih tepat dianggap penggunaan sedia ada daripada pengalihan guna sebenar. Rekod pasaran dan indikasi asal yang kosong dalam data ini kelihatan seperti jurang data. Disyorkan penilaian berasingan untuk indikasi ini, dengan jaga-jaga: ujian bersifat label terbuka dan tanpa pembanding, hasil jangka panjang (ketinggian akhir, ketumpatan tulang, fungsi pembiakan) perlu disahkan, status kawal selia setiap bidang kuasa perlu disemak, dan bentuk periferi pubertas pramatang perlu disingkirkan sebelum penggunaan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Trelstar (triptorelin pamoate) prescribing information, Verity Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b84d62-a369-a4b7-5c41-dd1f553a18f3) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

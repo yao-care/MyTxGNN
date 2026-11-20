@@ -55,7 +55,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **displasia akromesomelik, jeni
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia. Ketoprofen diketahui sebagai NSAID yang menghalang enzim COX-1 dan COX-2, dan digunakan untuk melegakan sakit dan keradangan.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ketoprofen (terjemahan tidak rasmi): “Dalam model antiradang, ketoprofen telah ditunjukkan mempunyai kesan perencatan terhadap sintesis prostaglandin dan leukotriena, mempunyai aktiviti antibradikinin, serta mempunyai tindakan penstabilan membran lisosom. Walau bagaimanapun, cara tindakannya, seperti ubat antiradang bukan steroid yang lain, tidak difahami sepenuhnya.” Teks asal bahasa Inggeris: "In anti-inflammatory models ketoprofen has been shown to have inhibitory effects on prostaglandin and leukotriene synthesis, to have antibradykinin activity, as well as to have lysosomal membrane-stabilizing action. However, its mode of action, like that of other non-steroidal anti-inflammatory drugs, is not fully understood." ([DailyMed: Orudis (ketoprofen) prescribing information, Allegis Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=47d0b808-7142-c7a9-e063-6394a90a6e0d), versi 2026-01-07; diakses 2026-11-19). Ketoprofen diketahui sebagai NSAID yang menghalang enzim COX-1 dan COX-2, dan digunakan untuk melegakan sakit dan keradangan.
 
 Displasia akromesomelik jenis Hunter-Thompson ialah gangguan rangka yang jarang berlaku, disebabkan oleh varian kehilangan fungsi pada gen GDF5 (isyarat BMP dalam pembentukan tulang rawan). Tiada laluan yang diketahui menghubungkan perencatan COX dengan isyarat GDF5 atau pembetulan pertumbuhan rangka.
 
@@ -104,6 +104,19 @@ Ramalan ini hanya berasaskan model, tanpa sebarang percubaan klinikal atau pener
 - Bukti praklinikal atau klinikal yang mengkaji penyakit ini secara langsung
 
 **Catatan tambahan:** Antara sembilan ramalan teratas, hanya **artritis juvenil akibat kecacatan LACC1** mempunyai asas simptomatik yang munasabah (NSAID digunakan untuk melegakan sakit artritis juvenil), tetapi ia kekal sebagai hipotesis tanpa bukti khusus dan tidak membetulkan kecacatan asas. Ramalan lain (brakiolmia, miosklerosis, pseudoakondroplasia, sindrom WHIM, dan lain-lain) juga tidak mempunyai bukti sokongan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Orudis (ketoprofen) prescribing information, Allegis Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=47d0b808-7142-c7a9-e063-6394a90a6e0d) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

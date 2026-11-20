@@ -54,7 +54,7 @@ Minoxidil ialah ubat pembuka saluran kalium yang melebarkan saluran darah dan ju
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Namun begitu, ulasan literatur menerangkan bahawa metabolit aktif minoxidil (minoxidil sulfat) membuka saluran kalium, memanjangkan fasa anagen, membesarkan saiz folikel rambut dan meningkatkan aliran darah kulit kepala.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Minoxidil ialah (terjemahan tidak rasmi): “Reseptor sulfonilurea 2, pembuka Kir6.2” Teks asal bahasa Inggeris: "Sulfonylurea receptor 2, Kir6.2 opener" ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; diakses 2026-11-19). Namun begitu, ulasan literatur menerangkan bahawa metabolit aktif minoxidil (minoxidil sulfat) membuka saluran kalium, memanjangkan fasa anagen, membesarkan saiz folikel rambut dan meningkatkan aliran darah kulit kepala.
 
 Hipotrikosis simpleks keturunan ialah gangguan ketumpatan rambut yang berkurangan. Mekanisme perangsangan folikel minoxidil secara teorinya sesuai untuk keadaan ini. Namun, laporan sedia ada ialah laporan kes kecil di mana minoxidil digabungkan dengan bahan lain (faktor pertumbuhan, ekstrak botani, plasma kaya platelet), jadi sumbangan minoxidil sahaja tidak dapat diasingkan.
 
@@ -110,11 +110,12 @@ Bukti terhad kepada tiga laporan kes, semuanya dengan terapi gabungan, tanpa uji
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Terdapat 15 lesen sah" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802) |
 
 <!-- review:end log -->
 

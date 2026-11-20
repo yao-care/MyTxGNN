@@ -62,7 +62,7 @@ dengan **6 percubaan klinikal** dan **20 penerbitan** yang dikumpulkan untuk cal
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, clopidogrel ialah perencat reseptor P2Y12 pada platelet, dan keberkesanannya dalam mencegah peristiwa trombotik pada sindrom koronari akut dan strok iskemia telah terbukti. Secara mekanistik, ia mungkin terpakai untuk migrain.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Clopidogrel (terjemahan tidak rasmi): “Clopidogrel ialah perencat pengaktifan dan pengagregatan platelet melalui pengikatan tidak berbalik metabolit aktifnya kepada kelas reseptor ADP P2Y 12 pada platelet.” Teks asal bahasa Inggeris: "Clopidogrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets." ([DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227), versi 2025-05-30; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, clopidogrel ialah perencat reseptor P2Y12 pada platelet, dan keberkesanannya dalam mencegah peristiwa trombotik pada sindrom koronari akut dan strok iskemia telah terbukti. Secara mekanistik, ia mungkin terpakai untuk migrain.
 
 Hubungan yang dicadangkan: pada sebahagian pesakit migrain, terutamanya yang mempunyai pirau kanan ke kiri (seperti PFO), pengaktifan platelet dan embolisasi paradoks mikro, atau pembebasan bahan vasoaktif daripada platelet (contohnya serotonin), mungkin mencetuskan serangan. Perencatan P2Y12 oleh clopidogrel boleh mengurangkan proses ini. Hubungan ini paling munasabah untuk migrain berkaitan PFO atau selepas penutupan septum.
 
@@ -132,6 +132,19 @@ Sila rujuk sisipan pek untuk amaran dan kontraindikasi rasmi.
 - Data mekanisme tindakan terperinci daripada DrugBank
 - Semakan hasil penuh RCT BMJ 2026 (COMPETE) dan kajian sistematik 2025 untuk menilai magnitud kesan dan keselamatan
 - Definisi subkumpulan sasaran (migrain dengan PFO/pirau kanan ke kiri) dan pelan pemantauan risiko pendarahan serta interaksi ubat, terutamanya dengan perencat pam proton
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -60,7 +60,7 @@ Belimumab menyasarkan BLyS (BAFF), satu faktor yang menyokong kemandirian sel B.
 
 Namun, gangguan pembebasan (sekresi) platelet pada amnya merupakan kecacatan intrinsik pada granul atau isyarat platelet, dan tidak diperantarai oleh sel B. Tiada kaitan mekanistik yang munasabah dikenal pasti. Skor TxGNN yang tinggi merupakan ramalan berkomputer sahaja dan tidak disokong oleh data percubaan atau literatur. Oleh itu, ramalan ini perlu ditafsirkan dengan sangat berhati-hati.
 
-Data terperinci mengenai mekanisme tindakan (MOA) daripada pangkalan data tidak tersedia buat masa ini.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Belimumab (terjemahan tidak rasmi): “BENLYSTA ialah perencat khusus BLyS yang menyekat pengikatan BLyS larut, iaitu faktor kemandirian sel B, pada reseptornya di sel B. BENLYSTA tidak terikat secara langsung pada sel B, tetapi dengan mengikat BLyS, BENLYSTA merencat kemandirian sel B, termasuk sel B autoreaktif, dan mengurangkan pembezaan sel B kepada sel plasma yang menghasilkan imunoglobulin.” Teks asal bahasa Inggeris: "BENLYSTA is a BLyS-specific inhibitor that blocks the binding of soluble BLyS, a B-cell survival factor, to its receptors on B cells. BENLYSTA does not bind B cells directly, but by binding BLyS, BENLYSTA inhibits the survival of B cells, including autoreactive B cells, and reduces the differentiation of B cells into immunoglobulin-producing plasma cells." ([DailyMed: Benlysta (belimumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2fa3c528-1777-4628-8a55-a69dae2381a3), versi 2026-10-30; diakses 2026-11-19).
 
 ## Bukti Percubaan Klinikal
 
@@ -92,6 +92,19 @@ Secara amnya, penggunaan bersama ubat imunosupresif atau biologik lain dan vaksi
 - Data terperinci mekanisme tindakan (MOA)
 - Bukti praklinikal atau klinikal yang mengkaji penyakit ini secara langsung
 - Penilaian semula kaitan mekanistik sebelum sebarang pertimbangan lanjut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Benlysta (belimumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2fa3c528-1777-4628-8a55-a69dae2381a3) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

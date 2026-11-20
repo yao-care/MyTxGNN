@@ -60,7 +60,7 @@ Namun, data yang dikumpulkan untuk laporan ini mendapati **0 ujian klinikal** da
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Methotrexate ialah perencat dihidrofolat reduktase (DHFR). Ia menyekat sintesis nukleotida dalam sel yang membahagi dengan pantas. Data mekanisme tindakan (MOA) terperinci tidak tersedia dalam data yang dikumpulkan, jadi penerangan ini berdasarkan pengetahuan farmakologi am.
+Methotrexate ialah perencat dihidrofolat reduktase (DHFR). Ia menyekat sintesis nukleotida dalam sel yang membahagi dengan pantas. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Methotrexate (terjemahan tidak rasmi): “Methotrexate merencat reduktase asid dihidrofolik. Dihidrofolat mesti diturunkan kepada tetrahidrofolat oleh enzim ini sebelum ia boleh digunakan sebagai pembawa kumpulan satu-karbon dalam sintesis nukleotida purina dan timidilat.” Teks asal bahasa Inggeris: "Methotrexate inhibits dihydrofolic acid reductase. Dihydrofolates must be reduced to tetrahydrofolates by this enzyme before they can be utilized as carriers of one-carbon groups in the synthesis of purine nucleotides and thymidylate." ([DailyMed: Jylamvo (methotrexate) prescribing information, SHORLA ONCOLOGY INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96e931f5-51ae-4bdf-a441-bb0dd26d4c0e), versi 2026-11-05; diakses 2026-11-19).
 
 Blastoma pulmonari ialah tumor toraks blastema yang agresif. Rasional sitotoksik untuknya boleh diterima secara teori, tetapi tidak lebih daripada itu.
 
@@ -129,6 +129,19 @@ Amaran utama dan kontraindikasi daripada sisipan pek tidak tersedia. Sila rujuk 
 - Data MOA terperinci dan analisis kaitan mekanistik.
 - Amaran dan kontraindikasi rasmi daripada sisipan pek NPRA, yang diperlukan sebelum penilaian keselamatan.
 - Pertimbangan untuk menilai calon ramalan lain bagi methotrexate yang mempunyai bahan penyokong berkaitan lebih banyak (contohnya rabdomiosarkoma dan limfoma pulmonari primer) sebelum melabur dalam penyakit yang tiada bukti langsung ini.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Jylamvo (methotrexate) prescribing information, SHORLA ONCOLOGY INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96e931f5-51ae-4bdf-a441-bb0dd26d4c0e) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

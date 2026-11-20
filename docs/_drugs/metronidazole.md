@@ -54,7 +54,7 @@ Metronidazole ialah ubat antimikrob nitroimidazol yang digunakan terhadap jangki
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Metronidazole diketahui aktif terhadap bakteria anaerob dan protozoa melalui pengaktifan yang bergantung pada nitroreduktase.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Metronidazole (terjemahan tidak rasmi): “Metronidazol, suatu nitroimidazol, memberikan kesan antibakteria dalam persekitaran anaerobik terhadap kebanyakan anaerob obligat. Sebaik sahaja metronidazol memasuki organisma melalui resapan pasif dan diaktifkan dalam sitoplasma bakteria anaerobik yang rentan, ia diturunkan; proses ini melibatkan penderma pengangkutan elektron intrasel seperti ferredoksin dan pemindahan satu elektron kepada kumpulan nitro metronidazol yang membawa kepada pembentukan radikal bebas nitroso yang berhayat singkat.” Teks asal bahasa Inggeris: "Metronidazole, a nitroimidazole, exerts antibacterial effects in an anaerobic environment against most obligate anaerobes. Once metronidazole enters the organism by passive diffusion and activated in the cytoplasm of susceptible anaerobic bacteria, it is reduced; this process includes intra-cellular electron transport donors such as ferredoxin and transfer of an electron to the nitro group of the metronidazole leading to formation of a short-lived nitroso free radical." ([DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255), versi 2026-11-02; diakses 2026-11-19). Metronidazole diketahui aktif terhadap bakteria anaerob dan protozoa melalui pengaktifan yang bergantung pada nitroreduktase.
 
 Namun, *Pneumocystis* ialah kulat yang tidak mempunyai laluan pengaktifan nitroreduktase tersebut. Skor TxGNN yang tinggi oleh itu **tidak disokong oleh mekanisme yang munasabah**. Rawatan standard untuk pneumonia *Pneumocystis* ialah trimetoprim-sulfametoksazol, dan dalam literatur yang ditemui metronidazole hanya disebut sebagai ubat untuk jangkitan lain (contohnya amoebiasis) yang berlaku bersama pada pesakit yang sama.
 
@@ -107,6 +107,19 @@ Untuk maklumat amaran dan kontraindikasi lain, sila rujuk sisipan pakej.
 - Data mekanisme tindakan (MOA) yang terperinci
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Pertimbangan semula calon ramalan lain yang mempunyai sokongan bukti lebih baik dalam senarai yang sama
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

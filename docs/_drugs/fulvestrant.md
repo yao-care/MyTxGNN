@@ -65,7 +65,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **jangkitan HIV**, tetapi sokon
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, fulvestrant ialah antagonis reseptor estrogen (ER) yang juga mendegradasikan reseptor tersebut, dan mekanisme ini mungkin relevan kepada jangkitan HIV melalui laluan ER dalam sel imun.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Fulvestrant (terjemahan tidak rasmi): “Banyak kanser payudara mempunyai reseptor estrogen (ER) dan pertumbuhan tumor ini boleh dirangsang oleh estrogen. Fulvestrant ialah antagonis reseptor estrogen yang terikat kepada reseptor estrogen secara kompetitif dengan afiniti yang setanding dengan estradiol dan menurunkan pengawalaturan protein ER dalam sel kanser payudara manusia.” Teks asal bahasa Inggeris: "Many breast cancers have estrogen receptors (ER) and the growth of these tumors can be stimulated by estrogen. Fulvestrant is an estrogen receptor antagonist that binds to the estrogen receptor in a competitive manner with affinity comparable to that of estradiol and downregulates the ER protein in human breast cancer cells." ([DailyMed: Cligavyx (fulvestrant) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e20d8ca3-8837-4003-8b01-1ebec342062a), versi 2026-10-16; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, fulvestrant ialah antagonis reseptor estrogen (ER) yang juga mendegradasikan reseptor tersebut, dan mekanisme ini mungkin relevan kepada jangkitan HIV melalui laluan ER dalam sel imun.
 
 Reseptor estrogen alfa (ERα) terdapat dalam sel T CD4+ dan nampaknya mempengaruhi kependaman (latensi) HIV. Kajian 2026 (PMID 42430506) meneliti kesan ligan ER dan agen pembalik latensi terhadap ERα dalam sel ini, dan menggunakan fulvestrant sebagai alat untuk menyiasat laluan tersebut. Ini mengaitkan fulvestrant dengan pengawalaturan latensi secara munasabah.
 
@@ -129,12 +129,13 @@ Sembilan ramalan lain tidak disyorkan untuk diteruskan pada peringkat ini:
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "kerana tiada lesen berdaftar" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Cligavyx (fulvestrant) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e20d8ca3-8837-4003-8b01-1ebec342062a) |
 
 <!-- review:end log -->
 

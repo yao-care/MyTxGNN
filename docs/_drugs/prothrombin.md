@@ -61,7 +61,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Glanzmann thrombasthenia**, t
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan (MOA) protrombin tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, protrombin ialah faktor pembekuan plasma yang ditukar kepada trombin, lalu membantu pembentukan fibrin.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Prothrombin ialah (terjemahan tidak rasmi): “Protein eksogen trombin” Teks asal bahasa Inggeris: "Thrombin exogenous protein" ([ChEMBL CHEMBL6068492 (prothrombin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL6068492), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat sedia ada, protrombin ialah faktor pembekuan plasma yang ditukar kepada trombin, lalu membantu pembentukan fibrin.
 
 Glanzmann thrombasthenia ialah gangguan platelet keturunan akibat kekurangan atau disfungsi integrin alfa-IIb/beta-3 (GPIIb/IIIa), yang menjejaskan agregasi platelet. Protrombin bertindak di hilir dalam lata pembekuan, jadi pembekalannya tidak membetulkan kecacatan utama agregasi platelet. Sebarang manfaat yang mungkin hanyalah tidak langsung, iaitu menyokong penjanaan trombin dan pembentukan fibrin.
 
@@ -96,7 +96,6 @@ Penerbitan yang diperoleh terdiri daripada ulasan, laporan kes, kajian kohort da
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -118,6 +117,19 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan. Tiada amaran utama, kontrai
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Bukti praklinikal atau kajian kes yang menilai protrombin dalam Glanzmann thrombasthenia
 - Pertimbangan perbandingan dengan terapi sedia ada (transfusi platelet, rFVIIa) sebelum sebarang kajian lanjut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL6068492 (prothrombin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL6068492) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

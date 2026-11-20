@@ -60,7 +60,7 @@ Setakat ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang mengkaji
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Indomethacin merencat COX-1 dan COX-2, lalu mengurangkan sintesis prostaglandin. Kesan ini menjelaskan kegunaannya untuk keradangan, kesakitan dan demam. Data terperinci tentang mekanisme tindakan daripada pangkalan data ubat tidak tersedia buat masa ini, jadi huraian ini berdasarkan sifat farmakologi am bagi kelas NSAID.
+Indomethacin merencat COX-1 dan COX-2, lalu mengurangkan sintesis prostaglandin. Kesan ini menjelaskan kegunaannya untuk keradangan, kesakitan dan demam. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Indomethacin (terjemahan tidak rasmi): “Indomethacin mempunyai sifat analgesik, anti-radang dan antipiretik. Mekanisme tindakan INDOCIN, seperti NSAID lain, tidak difahami sepenuhnya tetapi melibatkan perencatan siklooksigenase (COX-1 dan COX-2).” Teks asal bahasa Inggeris: "Indomethacin has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of INDOCIN, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Indocin (indomethacin) prescribing information, Zyla Life Sciences US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73878376-1d24-423b-9f37-3666e83c95da), versi 2024-12-16; diakses 2026-11-19).
 
 Sindrom brakidaktili-sindaktili ialah gangguan perkembangan anggota badan yang berpunca daripada genetik. Penilaian mekanistik yang disusun untuk laporan ini **tidak menemui sebarang pautan mekanistik**. Perencatan prostaglandin tidak dijangka dapat membetulkan kecacatan perkembangan asas penyakit ini. Skor itu sahaja tidak mencukupi untuk menyokong kerja lanjut.
 
@@ -114,6 +114,19 @@ Amaran utama dan kontraindikasi daripada sisipan pakej tidak tersedia dalam data
 - Muat turun dan huraian sisipan pakej daripada NPRA untuk amaran, kontraindikasi dan indikasi yang diluluskan.
 - Data mekanisme tindakan yang terperinci daripada pangkalan data ubat.
 - Pertimbangan semula keutamaan: ramalan lain dalam senarai yang sama, terutamanya artritis idiopatik juvenil, mempunyai asas biologi yang lebih munasabah. Namun ia ialah penggunaan NSAID yang sudah lama dikenali dan bukan isyarat penggunaan semula yang baharu.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Indocin (indomethacin) prescribing information, Zyla Life Sciences US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73878376-1d24-423b-9f37-3666e83c95da) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -60,7 +60,7 @@ tetapi setakat ini terdapat **0 ujian klinikal** dan **20 penerbitan** yang berk
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data terperinci mengenai mekanisme tindakan tidak tersedia. Berdasarkan maklumat yang diketahui, sitarabin ialah analog nukleosid pirimidina yang menghalang sintesis DNA dan bertindak khusus pada fasa S kitaran sel. Keberkesanannya dalam leukemia akut sudah mantap, dan secara mekanistik ia mungkin sesuai untuk tumor yang membahagi dengan pantas seperti karsinoma paru-paru sel kecil.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Cytarabine (terjemahan tidak rasmi): “Walaupun mekanisme tindakannya tidak difahami sepenuhnya, cytarabine kelihatan bertindak melalui perencatan DNA polimerase. Penggabungan cytarabine yang terhad, tetapi signifikan, ke dalam kedua-dua DNA dan RNA juga telah dilaporkan.” Teks asal bahasa Inggeris: "Although the mechanism of action is not completely understood, it appears that cytarabine acts through the inhibition of DNA polymerase. A limited, but significant, incorporation of cytarabine into both DNA and RNA has also been reported." ([DailyMed: cytarabine prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3a8c0e9-19ed-49b7-8464-11e8806f47fd), versi 2026-10-19; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, sitarabin ialah analog nukleosid pirimidina yang menghalang sintesis DNA dan bertindak khusus pada fasa S kitaran sel. Keberkesanannya dalam leukemia akut sudah mantap, dan secara mekanistik ia mungkin sesuai untuk tumor yang membahagi dengan pantas seperti karsinoma paru-paru sel kecil.
 
 Walau bagaimanapun, hubungan ini masih tidak langsung. Kebanyakan literatur yang diperoleh berkaitan NSCLC, meningitis karsinomatosa dan antimetabolit lain (gemcitabine, decitabine, topotecan). Tiada bukti khusus sitarabin untuk karsinoma paru-paru sel kecil yang jelas, kecuali satu laporan lama (1987) yang tajuknya menyebut sitarabin dos tinggi dalam kanser paru-paru sel kecil. Abstraknya tidak tersedia, jadi hasilnya tidak dapat dinilai.
 
@@ -134,11 +134,12 @@ Klasifikasi di atas berdasarkan pengetahuan umum mengenai kelas ubat ini, bukan 
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Sitarabin juga tidak didaftarkan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: cytarabine prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3a8c0e9-19ed-49b7-8464-11e8806f47fd) |
 
 <!-- review:end log -->
 

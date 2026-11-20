@@ -61,7 +61,7 @@ Bukti langsung bahawa tamoxifen merawat penyakit ini adalah sangat terhad, jadi 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tamoxifen tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, tamoxifen ialah modulator reseptor estrogen terpilih yang digunakan dalam terapi endokrin untuk kanser payudara positif reseptor hormon.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Tamoxifen (terjemahan tidak rasmi): “Tamoksifen ialah agonis/antagonis estrogen. Tamoksifen bersaing dengan estrogen untuk mengikat kepada reseptor estrogen, yang boleh menyebabkan penurunan pertumbuhan yang bergantung kepada isyarat reseptor estrogen dalam tisu payudara. Tamoksifen telah menunjukkan aktiviti antitumor terhadap titisan sel kanser payudara manusia yang dixenograf pada tikus.” Teks asal bahasa Inggeris: "Tamoxifen is an estrogen agonist/antagonist. Tamoxifen competes with estrogen for binding to the estrogen receptor, which can result in a decrease in estrogen receptor signaling-dependent growth in breast tissue. Tamoxifen has demonstrated antitumor activity against human breast cancer cell lines xenografted in mice." ([DailyMed: Soltamox (tamoxifen citrate) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6ff055-590c-41e6-9530-1fdf04cdbd02), versi 2021-11-29; diakses 2026-11-19). Secara umum, tamoxifen ialah modulator reseptor estrogen terpilih yang digunakan dalam terapi endokrin untuk kanser payudara positif reseptor hormon.
 
 Penyakit Paget payudara sering berkaitan dengan karsinoma duktal in situ atau kanser payudara invasif yang mendasarinya, dan sebahagian besar tumor ini positif reseptor hormon. Oleh itu, wujud kaitan tidak langsung yang munasabah melalui keganasan payudara yang mendasari.
 
@@ -129,6 +129,19 @@ Tiada kajian yang dipetik menguji tamoxifen secara langsung untuk penyakit Paget
 ---
 
 *Nota: Dua ramalan lain (karsinoma Ehrlich, iaitu model tumor tikus yang bukan penyakit manusia, dan rabdomiosarkoma embrional jenis botrioid pada vagina, tanpa sebarang bukti) juga berada pada tahap bukti L5 dan tidak dinilai lanjut dalam laporan ini.*
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Soltamox (tamoxifen citrate) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6ff055-590c-41e6-9530-1fdf04cdbd02) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -61,7 +61,7 @@ Nota: Indikasi lain dalam senarai ramalan (kedudukan 2–10) juga berada pada ta
 
 ## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan pengetahuan umum, filgrastim ialah G-CSF yang bertindak pada keturunan mieloid (percambahan dan pembezaan neutrofil), bukan pada pelepasan granul platelet atau fungsi platelet.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Filgrastim (terjemahan tidak rasmi): “Faktor perangsang koloni ialah glikoprotein yang bertindak pada sel hematopoietik dengan terikat kepada reseptor permukaan sel khusus dan merangsang proliferasi‚ komitmen pembezaan‚ dan sesetengah pengaktifan fungsi sel akhir. G-CSF endogen ialah faktor perangsang koloni khusus turunan yang dihasilkan oleh monosit‚ fibroblas dan sel endotelium.” Teks asal bahasa Inggeris: "Colony-stimulating factors are glycoproteins which act on hematopoietic cells by binding to specific cell surface receptors and stimulating proliferation‚ differentiation commitment‚ and some end-cell functional activation. Endogenous G-CSF is a lineage-specific colony-stimulating factor that is produced by monocytes‚ fibroblasts, and endothelial cells." ([DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7), versi 2026-11-10; diakses 2026-11-19). Berdasarkan pengetahuan umum, filgrastim ialah G-CSF yang bertindak pada keturunan mieloid (percambahan dan pembezaan neutrofil), bukan pada pelepasan granul platelet atau fungsi platelet.
 
 Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi, tanpa sokongan klinikal atau literatur. Tiada hubungan mekanistik yang munasabah dengan kecacatan rembesan platelet dapat dikenal pasti. Begitu juga bagi indikasi lain yang diramalkan:
 
@@ -144,11 +144,12 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "(kini tiada lesen direkodkan)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7) |
 
 <!-- review:end log -->
 

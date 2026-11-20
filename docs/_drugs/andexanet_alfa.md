@@ -58,7 +58,7 @@ Andexanet alfa ialah protein rekombinan "umpan" faktor Xa yang tidak aktif secar
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Namun, berdasarkan maklumat umum, andexanet alfa ialah protein rekombinan yang tidak aktif secara katalitik dan bertindak sebagai umpan faktor Xa. Ia mengikat dan meneutralkan perencat FXa langsung dan tidak langsung.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Andexanet Alfa (terjemahan tidak rasmi): “Faktor pembekuan Xa (rekombinan), inaktif-zhzo memberikan kesan prokoagulannya dengan mengikat dan menyekuester perencat FXa, rivaroxaban dan apixaban. Satu lagi kesan prokoagulan yang diperhatikan bagi protein ANDEXXA ialah keupayaannya untuk mengikat, dan merencat aktiviti, Perencat Laluan Faktor Tisu (TFPI).” Teks asal bahasa Inggeris: "Coagulation factor Xa (recombinant), inactivated-zhzo exerts its procoagulant effect by binding and sequestering the FXa inhibitors, rivaroxaban and apixaban. Another observed procoagulant effect of the ANDEXXA protein is its ability to bind to, and inhibit the activity of, Tissue Factor Pathway Inhibitor (TFPI)." ([DailyMed: Andexxa (andexanet alfa) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d9d90a6-63e6-46ef-96ff-dd6519ae7b6c), versi 2025-05-23; diakses 2026-11-19). Namun, berdasarkan maklumat umum, andexanet alfa ialah protein rekombinan yang tidak aktif secara katalitik dan bertindak sebagai umpan faktor Xa. Ia mengikat dan meneutralkan perencat FXa langsung dan tidak langsung.
 
 Glanzmann thrombasthenia ialah gangguan platelet yang diwarisi, disebabkan oleh kekurangan atau disfungsi integrin alphaIIb/beta3. Tiada mekanisme yang munasabah yang menghubungkan peneutralan perencat FXa dengan keadaan ini. Tiada ujian klinikal atau literatur menyokong hubungan tersebut.
 
@@ -127,11 +127,12 @@ Untuk maklumat keselamatan, sila rujuk risalah maklumat produk. Satu perkara yan
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Andexxa (andexanet alfa) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d9d90a6-63e6-46ef-96ff-dd6519ae7b6c) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ Rivaroxaban ialah perencat Faktor Xa langsung (antikoagulan oral). Model TxGNN m
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Rivaroxaban diketahui sebagai perencat Faktor Xa langsung, yang menghalang penjanaan trombin dalam lata pembekuan darah.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Rivaroxaban (terjemahan tidak rasmi): “XARELTO ialah perencat selektif FXa. Ia tidak memerlukan kofaktor (seperti Antitrombin III) untuk aktiviti. Rivaroksaban merencat FXa bebas dan aktiviti protrombinase. Rivaroksaban tidak mempunyai kesan langsung terhadap agregasi platelet, tetapi secara tidak langsung merencat agregasi platelet yang diaruh oleh trombin.” Teks asal bahasa Inggeris: "XARELTO is a selective inhibitor of FXa. It does not require a cofactor (such as Anti-thrombin III) for activity. Rivaroxaban inhibits free FXa and prothrombinase activity. Rivaroxaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin." ([DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610), versi 2026-09-10; diakses 2026-11-19). Rivaroxaban diketahui sebagai perencat Faktor Xa langsung, yang menghalang penjanaan trombin dalam lata pembekuan darah.
 
 Satu rasional tidak langsung yang munasabah ialah pembekuan darah dan penjanaan trombin tidak seimbang dalam keradangan autoimun, dan risiko trombosis meningkat pada pesakit artritis reumatoid. Ini boleh menyokong penggunaan untuk **pencegahan trombosis**, bukan **pengubahsuaian penyakit**. Tiada data yang menunjukkan rivaroxaban menjejaskan aktiviti atau perkembangan artritis reumatoid.
 
@@ -130,11 +130,12 @@ Ramalan lain dalam data (semuanya bertahap **Hold**) ialah **gout** (L5, tiada u
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Rivaroxaban tidak mempunyai pendaftaran yang direkodkan di Malaysia dalam data yang dikumpulkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ Palivizumab ialah antibodi monoklonal manusiawi (humanized) yang menyasarkan pro
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk ubat ini tidak tersedia dalam data yang dikompilasi. Berdasarkan maklumat sedia ada, palivizumab ialah antibodi monoklonal yang menyasarkan protein F RSV, iaitu antigen virus, dan bukan antigen tumor.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Palivizumab ialah (terjemahan tidak rasmi): “Perencat glikoprotein gabungan F0” Teks asal bahasa Inggeris: "Fusion glycoprotein F0 inhibitor" ([ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat sedia ada, palivizumab ialah antibodi monoklonal yang menyasarkan protein F RSV, iaitu antigen virus, dan bukan antigen tumor.
 
 Tiada hubungan mekanistik yang munasabah antara peneutralan protein F RSV dan neoplasma jinak lidah. Skor TxGNN yang tinggi (0.9994) ialah ramalan pengiraan sahaja dan tidak disokong oleh sebarang ujian atau literatur. Lesi jinak juga biasanya tidak memerlukan terapi antibodi sistemik.
 
@@ -112,11 +112,12 @@ Sila rujuk sisipan pakej (package insert) untuk maklumat keselamatan. Tiada inte
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Palivizumab pada masa ini tidak mempunyai pendaftaran di Malaysia (0 lesen) mengikut data NPRA yang dikompilasi" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586) |
 
 <!-- review:end log -->
 

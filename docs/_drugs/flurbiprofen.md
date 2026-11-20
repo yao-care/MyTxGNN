@@ -55,7 +55,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **displasia akromesomelik, jeni
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Secara umum, flurbiprofen menghalang COX-1 dan COX-2 serta mengurangkan sintesis prostaglandin. Ini menjelaskan kesan analgesik dan anti-radangnya.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Flurbiprofen (terjemahan tidak rasmi): “Flurbiprofen mempunyai sifat analgesik, anti-radang dan antipiretik. Mekanisme tindakan flurbiprofen, seperti NSAID lain, tidak difahami sepenuhnya tetapi melibatkan perencatan siklooksigenase (COX-1 dan COX-2).” Teks asal bahasa Inggeris: "Flurbiprofen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of flurbiprofen, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763), versi 2026-10-05; diakses 2026-11-19). Secara umum, flurbiprofen menghalang COX-1 dan COX-2 serta mengurangkan sintesis prostaglandin. Ini menjelaskan kesan analgesik dan anti-radangnya.
 
 Displasia akromesomelik jenis Hunter-Thompson disebabkan oleh varian kehilangan fungsi pada gen CDMP1/GDF5. Kecacatan ini menjejaskan isyarat GDF5/BMP dalam perkembangan rangka. Perencatan COX tidak menangani kecacatan isyarat ini, maka **tiada hubungan mekanisme yang jelas** ditemui.
 
@@ -106,6 +106,19 @@ Ini pada dasarnya penemuan semula kegunaan kelas NSAID yang sudah mantap. Ia buk
 **Untuk diteruskan, perkara berikut diperlukan:**
 - Muat turun dan huraikan sisipan pakej NPRA untuk amaran, kontraindikasi dan indikasi berlesen (jurang data ini menghalang saringan keselamatan).
 - Data mekanisme tindakan terperinci daripada DrugBank.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

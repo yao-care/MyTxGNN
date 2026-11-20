@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) pada masa ini tidak tersedia daripada data yang dihimpunkan untuk laporan ini. Berdasarkan maklumat yang diketahui, loxoprofen ialah prodrug NSAID bukan selektif; metabolit aktifnya (trans-alkohol) menghalang enzim COX dan mengurangkan sintesis prostaglandin. Kesannya dalam artritis reumatoid, iaitu penyakit radang, adalah selaras dengan mekanisme ini.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Loxoprofen ialah (terjemahan tidak rasmi): “Perencat siklooksigenase” Teks asal bahasa Inggeris: "Cyclooxygenase inhibitor" ([ChEMBL CHEMBL19299 (loxoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19299), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, loxoprofen ialah prodrug NSAID bukan selektif; metabolit aktifnya (trans-alkohol) menghalang enzim COX dan mengurangkan sintesis prostaglandin. Kesannya dalam artritis reumatoid, iaitu penyakit radang, adalah selaras dengan mekanisme ini.
 
 Walau bagaimanapun, sindrom displasia rizomelik-mikroftalmia kolobomatus ialah gangguan perkembangan yang jarang berlaku (koloboma mata, mikroftalmia, displasia rangka rizomelik) dan tiada patologi radang atau patologi bergantung prostaglandin yang diiktiraf, yang boleh ditangani oleh perencatan COX. Maka, **tiada hubungan mekanistik yang disokong oleh data yang ada**. Skor TxGNN yang tinggi (0.9980) hanyalah ramalan model TxGNN (pembelajaran mendalam) tanpa pengesahan klinikal atau literatur, dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
@@ -99,11 +99,12 @@ Satu nota berjaga-jaga: NSAID boleh membawa kebimbangan keselamatan perkembangan
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Loxoprofen juga tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL19299 (loxoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19299) |
 
 <!-- review:end log -->
 

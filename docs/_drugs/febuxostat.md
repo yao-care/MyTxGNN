@@ -60,7 +60,7 @@ tetapi bukti yang ada sangat terhad: **1 percubaan klinikal** (relevan rendah) d
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, febuxostat ialah perencat xanthine oxidase yang menurunkan pembentukan asid urik, dan keberkesanannya dalam hiperurisemia telah dibuktikan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Febuxostat (terjemahan tidak rasmi): “ULORIC, perencat xantina oksidase, mencapai kesan terapeutiknya dengan mengurangkan asid urik serum. ULORIC tidak dijangka merencat enzim lain yang terlibat dalam sintesis dan metabolisme purina dan pirimidina pada kepekatan terapeutik.” Teks asal bahasa Inggeris: "ULORIC, a xanthine oxidase inhibitor, achieves its therapeutic effect by decreasing serum uric acid. ULORIC is not expected to inhibit other enzymes involved in purine and pyrimidine synthesis and metabolism at therapeutic concentrations." ([DailyMed: Uloric (febuxostat) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=54de10ef-fe5f-4930-b91d-6bbb04c664bd), versi 2025-12-24; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, febuxostat ialah perencat xanthine oxidase yang menurunkan pembentukan asid urik, dan keberkesanannya dalam hiperurisemia telah dibuktikan.
 
 Namun, hubungan mekanistik dengan hipourisemia renal **lemah**. Keadaan ini dicirikan oleh asid urik serum yang sudah rendah akibat kecacatan penyerapan semula urat di buah pinggang (contohnya kehilangan fungsi URAT1/GLUT9). Menurunkan urat lagi tidak mempunyai rasional terapeutik yang jelas dan mungkin memudaratkan.
 
@@ -122,11 +122,12 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi rasmi.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Uloric (febuxostat) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=54de10ef-fe5f-4930-b91d-6bbb04c664bd) |
 
 <!-- review:end log -->
 

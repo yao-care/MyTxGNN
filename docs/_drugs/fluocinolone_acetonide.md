@@ -55,7 +55,7 @@ Fluocinolone acetonide ialah kortikosteroid topikal berkuasa tinggi yang hubunga
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan. Namun, data farmakologi menunjukkan sasaran fluocinolone acetonide ialah reseptor glukokortikoid (NR3C1). Pengaktifan reseptor ini menekan keradangan yang didorong oleh sel T, dan ini munasabah secara biologi untuk penyakit lichenoid.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Fluocinolone Acetonide (terjemahan tidak rasmi): “Kortikosteroid memainkan peranan dalam isyarat selular, fungsi imun, keradangan dan pengawalaturan protein; walau bagaimanapun, mekanisme tindakan yang tepat dalam psoriasis kulit kepala tidak diketahui.” Teks asal bahasa Inggeris: "Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action in psoriasis of the scalp is unknown." ([DailyMed: Derma-Smoothe/Fs (fluocinolone acetonide) prescribing information, Royal Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=113e167a-a9fe-440e-9446-d6d87963ef46), versi 2026-10-27; diakses 2026-11-19). Namun, data farmakologi menunjukkan sasaran fluocinolone acetonide ialah reseptor glukokortikoid (NR3C1). Pengaktifan reseptor ini menekan keradangan yang didorong oleh sel T, dan ini munasabah secara biologi untuk penyakit lichenoid.
 
 Skor TxGNN yang tinggi mungkin mencerminkan kedekatan ini. Lichen planus atrofik anular ialah varian lichen planus, jadi mekanisme anti-radang kortikosteroid mungkin terpakai. Namun begitu, ini hanyalah ramalan model dan tiada kajian yang dipetik secara langsung mengkaji penyakit ini.
 
@@ -98,6 +98,19 @@ Ramalan hanya bersandarkan skor model (Tahap L5) tanpa sebarang ujian klinikal a
 - Sisipan pek NPRA (amaran dan kontraindikasi) serta teks indikasi lesen
 - Data terperinci mekanisme tindakan
 - Pengesahan keserasian laluan pemberian dan bentuk dos untuk indikasi baharu
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Derma-Smoothe/Fs (fluocinolone acetonide) prescribing information, Royal Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=113e167a-a9fe-440e-9446-d6d87963ef46) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

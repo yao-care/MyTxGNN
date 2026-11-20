@@ -54,7 +54,7 @@ Triamcinolone ialah kortikosteroid yang hubungan indikasi asalnya direkodkan dal
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, triamcinolone ialah kortikosteroid dengan kesan anti-keradangan dan imunosupresif. Kortikosteroid intralesi atau topikal secara teori munasabah untuk infiltrat keradangan di sekeliling folikel rambut dalam mucinosis folikular.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Triamcinolone (terjemahan tidak rasmi): “Kajian menunjukkan bahawa berikutan satu dos intramuskular tunggal 60 mg hingga 100 mg triamcinolone acetonide, supresi adrenal berlaku dalam tempoh 24 hingga 48 jam dan kemudian kembali normal secara beransur-ansur, biasanya dalam 30 hingga 40 hari. Penemuan ini berkait rapat dengan tempoh tindakan terapeutik lanjutan yang dicapai dengan ubat ini.” Teks asal bahasa Inggeris: "Studies indicate that following a single intramuscular dose of 60 mg to 100 mg of triamcinolone acetonide, adrenal suppression occurs within 24 to 48 hours and then gradually returns to normal, usually in 30 to 40 days. This finding correlates closely with the extended duration of therapeutic action achieved with the drug." ([DailyMed: Kenalog-40 (triamcinolone acetonide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ce116aa-b330-4da9-9cdd-ba8e6be0c4ad), versi 2026-01-05; diakses 2026-11-19). Berdasarkan maklumat sedia ada, triamcinolone ialah kortikosteroid dengan kesan anti-keradangan dan imunosupresif. Kortikosteroid intralesi atau topikal secara teori munasabah untuk infiltrat keradangan di sekeliling folikel rambut dalam mucinosis folikular.
 
 Walau bagaimanapun, kajian yang ditemui hanyalah laporan kes: satu merawat pesakit dengan gel bexarotene (bukan triamcinolone) dan satu lagi ialah laporan kes bahasa Jepun tahun 1964 tanpa abstrak. Oleh itu, tiada bukti langsung yang menyokong triamcinolone untuk penyakit ini. Skor tinggi TxGNN ialah ramalan model dan belum disahkan secara klinikal.
 
@@ -102,6 +102,19 @@ Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
 - Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan NPRA
 - Kajian klinikal atau siri kes yang menilai triamcinolone intralesi/topikal secara khusus untuk mucinosis folikular
 - Pengesahan laluan pemberian yang sesuai (topikal atau intralesi) dan produk berdaftar yang berkaitan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Kenalog-40 (triamcinolone acetonide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ce116aa-b330-4da9-9cdd-ba8e6be0c4ad) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -57,7 +57,7 @@ Untuk ramalan teratas ini, **tiada satu pun ujian klinikal atau penerbitan** yan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) pada masa ini tidak tersedia. Berdasarkan maklumat sedia ada, prednisolone acetate ialah kortikosteroid dan produknya yang berdaftar termasuk bentuk oftalmik (PRED FORTE). Kortikosteroid topikal secara umumnya mempunyai kesan anti-keradangan yang luas, maka secara mekanistik ia mungkin sesuai untuk keradangan konjunktiva yang bukan viral.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Prednisolone Acetate (terjemahan tidak rasmi): “Prednisolone ialah ubat steroid adrenokorteks sintetik dengan sifat glukokortikoid yang dominan. Sebahagian daripada sifat ini menghasilkan semula tindakan fisiologi glukokortikosteroid endogen, tetapi yang lain tidak semestinya mencerminkan mana-mana fungsi normal hormon adrenal; sifat tersebut hanya dilihat selepas pemberian dos terapeutik ubat yang besar.” Teks asal bahasa Inggeris: "Prednisolone is a synthetic adrenocortical steroid drug with predominantly glucocorticoid properties. Some of these properties reproduce the physiological actions of endogenous glucocorticosteroids, but others do not necessarily reflect any of the adrenal hormones' normal functions; they are seen only after administration of large therapeutic doses of the drug." ([DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1), versi 2025-06-03; diakses 2026-11-19). Berdasarkan maklumat sedia ada, prednisolone acetate ialah kortikosteroid dan produknya yang berdaftar termasuk bentuk oftalmik (PRED FORTE). Kortikosteroid topikal secara umumnya mempunyai kesan anti-keradangan yang luas, maka secara mekanistik ia mungkin sesuai untuk keradangan konjunktiva yang bukan viral.
 
 Perlu ditegaskan bahawa tiada ujian klinikal atau literatur untuk penyakit utama ini. Kesesuaian sebenar bergantung pada etiologi (berjangkit, toksik atau alergi). Ramalan TxGNN yang lain dalam kumpulan yang sama (konjunktivitis folikular kronik, parasit, folikulosis konjunktiva, Angelucci, hemoragik akut) juga hanya berasaskan model tanpa bukti sokongan; bagi konjunktivitis parasit dan hemoragik akut (biasanya viral), kortikosteroid mungkin memburukkan jangkitan.
 
@@ -125,6 +125,19 @@ Ramalan teratas (serous conjunctivitis kecuali viral) hanya berasaskan model (L5
 - Kajian atau ujian klinikal yang menilai prednisolone acetate secara langsung dalam penyakit konjunktiva sasaran
 - Penjelasan etiologi (alergi, toksik, berjangkit) dan pengesahan kesesuaian laluan pentadbiran oftalmik
 - Pelan pemantauan tekanan intraokular dan keselamatan jangka panjang
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -55,7 +55,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **leukemia limfositik kronik/li
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan. Secara umum, pegaspargase memecahkan asparagin dalam peredaran darah kepada aspartat dan ammonia. Sel limfoid yang malignan, terutamanya sel leukemia limfoblastik akut, mempunyai ekspresi asparagin sintetase yang rendah. Sel-sel ini bergantung pada asparagin luar sel, jadi penyusutannya menyebabkan sitotoksisiti secara selektif.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Pegaspargase (terjemahan tidak rasmi): “L-asparaginase ialah enzim yang memangkinkan penukaran asid amino L-asparagina kepada asid aspartik dan ammonia. Kesan farmakologi ONCASPAR dipercayai berasaskan pembunuhan sel leukemia akibat pengurangan asparagina plasma.” Teks asal bahasa Inggeris: "L-asparaginase is an enzyme that catalyzes the conversion of the amino acid L-asparagine into aspartic acid and ammonia. The pharmacological effect of ONCASPAR is thought to be based on the killing of leukemic cells due to depletion of plasma asparagine." ([DailyMed: Oncaspar (pegaspargase) prescribing information, Servier Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac7b6a6f-6ddb-48c6-8088-d8a8e3fea6ce), versi 2024-10-07; diakses 2026-11-19). Secara umum, pegaspargase memecahkan asparagin dalam peredaran darah kepada aspartat dan ammonia. Sel limfoid yang malignan, terutamanya sel leukemia limfoblastik akut, mempunyai ekspresi asparagin sintetase yang rendah. Sel-sel ini bergantung pada asparagin luar sel, jadi penyusutannya menyebabkan sitotoksisiti secara selektif.
 
 Leukemia limfositik kronik/limfoma limfositik kecil juga ialah keganasan limfoid. Secara teori, penyusutan asparagin boleh menjejaskan keganasan seperti ini. Namun, penyakit ini **tidak diiktiraf sebagai penyakit yang sensitif terhadap asparaginase**, dan tiada data mekanisme khusus disediakan. Skor ramalan ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Oleh itu, ramalan ini harus dianggap sebagai hipotesis penyelidikan sahaja.
 
@@ -110,6 +110,19 @@ Ramalan ini hanya disokong oleh skor model (0.9995) tanpa sebarang ujian klinika
 - Data mekanisme tindakan yang terperinci
 - Kajian praklinikal atau klinikal yang mengkaji secara langsung kebergantungan sel leukemia limfositik kronik/limfoma limfositik kecil pada asparagin
 - Pertimbangan sama ada entri ramalan lain yang lebih disokong bukti (misalnya limfoma sel NK/T) wajar dinilai secara berasingan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Oncaspar (pegaspargase) prescribing information, Servier Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac7b6a6f-6ddb-48c6-8088-d8a8e3fea6ce) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -60,7 +60,7 @@ Antara semua indikasi yang diramalkan, bukti yang paling kukuh ialah untuk **Pri
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, felodipine ialah penyekat saluran kalsium L-type jenis dihidropiridin yang menyebabkan otot licin vaskular mengendur. Keberkesanannya dalam hipertensi telah terbukti, dan secara mekanisme ia mungkin boleh digunakan untuk pulmonary hypertension melalui vasodilasi pulmonari.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Felodipine (terjemahan tidak rasmi): “Felodipine ialah ahli kelas dihidropiridina antagonis saluran kalsium (penyekat saluran kalsium). Ia bersaing secara berbalik dengan nitrendipine dan/atau penyekat saluran kalsium lain bagi tapak pengikatan dihidropiridina, menyekat arus Ca ++ bergantung voltan dalam otot licin vaskular dan sel atrium arnab yang dikultur, dan menyekat kontraktur vena portal tikus yang diaruh oleh kalium.” Teks asal bahasa Inggeris: "Felodipine is a member of the dihydropyridine class of calcium channel antagonists (calcium channel blockers). It reversibly competes with nitrendipine and/or other calcium channel blockers for dihydropyridine binding sites, blocks voltage-dependent Ca ++ currents in vascular smooth muscle and cultured rabbit atrial cells, and blocks potassium-induced contracture of the rat portal vein." ([DailyMed: Felopdipine (felodipine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=129c48eb-29f2-462b-ad8a-b3bf1b193115), versi 2024-08-07; diakses 2026-11-19). Berdasarkan maklumat sedia ada, felodipine ialah penyekat saluran kalsium L-type jenis dihidropiridin yang menyebabkan otot licin vaskular mengendur. Keberkesanannya dalam hipertensi telah terbukti, dan secara mekanisme ia mungkin boleh digunakan untuk pulmonary hypertension melalui vasodilasi pulmonari.
 
 Namun, rasional ini bersifat munasabah tetapi tidak disokong bukti. Penyekat saluran kalsium hanya berguna dalam subset kecil pesakit hipertensi arteri pulmonari yang responsif terhadap vasodilator, dan indikasi ini heterogen serta takrifannya kurang jelas. Skor TxGNN yang sangat tinggi tidak setara dengan bukti klinikal.
 
@@ -126,6 +126,19 @@ Sila rujuk risalah pek untuk maklumat amaran dan kontraindikasi rasmi.
 - Semakan sistematik literatur dan pendaftaran percubaan untuk pulmonary hypertension
 - Pertimbangan status pendaftaran/pemasaran felodipine di Malaysia
 - Untuk Prinzmetal angina: pengesahan melalui percubaan rawak yang lebih besar dan penilaian keselamatan populasi khusus
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Felopdipine (felodipine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=129c48eb-29f2-462b-ad8a-b3bf1b193115) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

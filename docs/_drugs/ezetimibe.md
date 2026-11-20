@@ -57,7 +57,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan hanya **2 penerbitan** yang be
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan asal tidak tersedia pada masa ini. Berdasarkan maklumat sedia ada, ezetimibe merencat pengambilan kolesterol di usus yang dimediasi NPC1L1, sekali gus menurunkan LDL-C. Ini ialah penilaian am dan tidak dapat disahkan terhadap rekod sumber dalam data yang dikumpulkan untuk laporan ini.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ezetimibe (terjemahan tidak rasmi): “Ezetimibe mengurangkan kolesterol darah dengan merencat penyerapan kolesterol oleh usus kecil. Sasaran molekul ezetimibe telah ditunjukkan sebagai pengangkut sterol, Niemann-Pick C1-Like 1 (NPC1L1), yang terlibat dalam pengambilan kolesterol dan fitosterol oleh usus.” Teks asal bahasa Inggeris: "Ezetimibe reduces blood cholesterol by inhibiting the absorption of cholesterol by the small intestine. The molecular target of ezetimibe has been shown to be the sterol transporter, Niemann-Pick C1-Like 1 (NPC1L1), which is involved in the intestinal uptake of cholesterol and phytosterols." ([DailyMed: ezetimibe prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c37c695b-fb40-423c-9b73-d1aa58a34db9), versi 2026-10-08; diakses 2026-11-19). Berdasarkan maklumat sedia ada, ezetimibe merencat pengambilan kolesterol di usus yang dimediasi NPC1L1, sekali gus menurunkan LDL-C. Ini ialah penilaian am dan tidak dapat disahkan terhadap rekod sumber dalam data yang dikumpulkan untuk laporan ini.
 
 Kekurangan CETP dicirikan oleh HDL-C yang tinggi dan metabolisme lipoprotein yang berubah. Kaitan mekanistik hanya munasabah secara longgar kerana kedua-duanya melibatkan metabolisme lipid; tiada hubungan laluan langsung didokumenkan dalam data. Skor TxGNN yang tinggi hanyalah ramalan model dan tidak disokong oleh data klinikal.
 
@@ -113,6 +113,19 @@ Ramalan ini hanya berasaskan model (L5): tiada ujian klinikal dan tiada kajian y
 - Data mekanisme tindakan (MOA) yang disahkan daripada DrugBank
 - Bukti klinikal atau praklinikal yang mengkaji kekurangan CETP secara langsung
 - Justifikasi klinikal bahawa rawatan penurun lipid diperlukan dalam populasi sasaran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: ezetimibe prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c37c695b-fb40-423c-9b73-d1aa58a34db9) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

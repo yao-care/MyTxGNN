@@ -60,7 +60,7 @@ tetapi setakat ini hanya terdapat **0 ujian klinikal** dan **1 penerbitan** (kaj
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, rilpivirine tergolong dalam kelas NNRTI, keberkesanannya dalam jangkitan HIV telah dibuktikan, dan dari segi mekanisme ia mungkin terpakai untuk jangkitan virus imunodefisiensi kucing (FIV).
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Rilpivirine (terjemahan tidak rasmi): “Rilpivirin ialah ubat antivirus. […] Rilpivirin ialah perencat transkriptase berbalik bukan nukleosida (NNRTI) diarilpirimidina bagi virus kurang daya tahan melawan penyakit manusia jenis 1 (HIV-1) dan merencat replikasi HIV-1 melalui perencatan tidak kompetitif terhadap transkriptase berbalik (RT) HIV-1. Rilpivirin tidak merencat polimerase DNA selular manusia α, β dan γ.” Teks asal bahasa Inggeris: "Rilpivirine is an antiviral drug. […] Rilpivirine is a diarylpyrimidine non-nucleoside reverse transcriptase inhibitor (NNRTI) of human immunodeficiency virus type 1 (HIV-1) and inhibits HIV-1 replication by non-competitive inhibition of HIV-1 reverse transcriptase (RT). Rilpivirine does not inhibit the human cellular DNA polymerases α, β and γ." ([DailyMed: Edurant (rilpivirine hydrochloride) prescribing information, Janssen Products, LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03880372-2c68-45c6-a53a-f420c49541d6), versi 2025-08-28; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, rilpivirine tergolong dalam kelas NNRTI, keberkesanannya dalam jangkitan HIV telah dibuktikan, dan dari segi mekanisme ia mungkin terpakai untuk jangkitan virus imunodefisiensi kucing (FIV).
 
 FIV juga bergantung pada transkriptase balik untuk replikasi, justeru wujud asas mekanistik yang munasabah. Satu-satunya penerbitan yang dikenal pasti (PMID 38031646, 2023) ialah perbandingan biokimia dan struktur NNRTI (nevirapine, efavirenz dan rilpivirine) terhadap transkriptase balik FIV dan HIV. Ini hanyalah bukti in vitro dan struktur; tiada data in vivo atau klinikal pada kucing.
 
@@ -129,11 +129,12 @@ Ramalan lain yang disenaraikan tidak menunjukkan penemuan baharu yang kukuh:
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "(kerana ubat tidak berdaftar di Malaysia, rujuk sumber penerbit atau pengawal selia lain)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Edurant (rilpivirine hydrochloride) prescribing information, Janssen Products, LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=03880372-2c68-45c6-a53a-f420c49541d6) |
 
 <!-- review:end log -->
 

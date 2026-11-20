@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **empiema pleura**, tetapi seta
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan asal tidak tersedia dalam data yang disusun untuk laporan ini. Berdasarkan maklumat sedia ada, mupirocin diketahui merencat isoleusil-tRNA sintetase bakteria dan aktif terutamanya terhadap *Staphylococcus aureus* (termasuk MRSA) serta *Streptococcus pyogenes*. Kedua-dua bakteria ini juga boleh menyebabkan empiema pleura, dan inilah asas kepada kaitan mekanistik yang diramalkan.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Mupirocin (terjemahan tidak rasmi): “Mupirosin ialah antibakteria perencat RNA sintetase. […] Mupirosin merencat sintesis protein bakteria dengan mengikat secara berbalik dan spesifik kepada isoleusil-RNA pemindahan (tRNA) sintetase bakteria. Mupirosin bersifat bakterisidal pada kepekatan yang dicapai melalui pemberian topikal.” Teks asal bahasa Inggeris: "Mupirocin is an RNA synthetase inhibitor antibacterial. […] Mupirocin inhibits bacterial protein synthesis by reversibly and specifically binding to bacterial isoleucyl-transfer RNA (tRNA) synthetase. Mupirocin is bactericidal at concentrations achieved by topical administration." ([DailyMed: Pirnuo (mupirocin) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89c43f7b-1a88-45bf-a356-07518d4e7870), versi 2020-03-20; diakses 2026-11-19). Berdasarkan maklumat sedia ada, mupirocin diketahui merencat isoleusil-tRNA sintetase bakteria dan aktif terutamanya terhadap *Staphylococcus aureus* (termasuk MRSA) serta *Streptococcus pyogenes*. Kedua-dua bakteria ini juga boleh menyebabkan empiema pleura, dan inilah asas kepada kaitan mekanistik yang diramalkan.
 
 Namun, terdapat halangan besar. Mupirocin ialah agen topikal dengan pendedahan sistemik yang boleh diabaikan kerana ia cepat dimetabolismekan kepada asid monik yang tidak aktif. Oleh itu, ia tidak dapat mencapai kepekatan terapeutik di ruang pleura melalui penghantaran sistemik. Penghantaran intrapleura atau secara langsung belum pernah dibuktikan.
 
@@ -102,6 +102,19 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang lengkap.
 - Penilaian keserasian laluan pentadbiran (laluan yang ada berbanding yang diperlukan)
 - Carian literatur dan pendaftaran percubaan untuk empiema pleura dan keratokonjunktivitis epitelium berpunktat
 - Penjelasan status pendaftaran dan ketersediaan produk di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Pirnuo (mupirocin) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89c43f7b-1a88-45bf-a356-07518d4e7870) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

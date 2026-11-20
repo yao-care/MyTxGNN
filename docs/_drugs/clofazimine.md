@@ -54,7 +54,7 @@ Clofazimine ialah ubat riminofenazin yang bersifat lipofilik dengan aktiviti ant
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) clofazimine tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, clofazimine ialah riminofenazin lipofilik dengan aktiviti antimikobakteria dan anti-radang.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Clofazimine (terjemahan tidak rasmi): “LAMPRENE ialah ubat anti-mikobakteria. […] Klofazimin memberikan kesan bakterisidal yang perlahan terhadap Mycobacterium leprae (basilus Hansen). Klofazimin merencat pertumbuhan mikobakteria dan terikat secara keutamaan kepada DNA mikobakteria. Klofazimin juga mempunyai sifat anti-radang dalam merawat reaksi eritema nodosum leprosum.” Teks asal bahasa Inggeris: "LAMPRENE is an anti-mycobacterial drug. […] Clofazimine exerts a slow bactericidal effect on Mycobacterium leprae (Hansen’s bacillus). Clofazimine inhibits mycobacterial growth and binds preferentially to mycobacterial DNA. Clofazimine also exerts anti-inflammatory properties in treating erythema nodosum leprosum reactions." ([DailyMed: Lamprene (clofazimine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e07448f-f888-4747-80ab-570c1b621250), versi 2026-08-17; diakses 2026-11-19). Secara umum, clofazimine ialah riminofenazin lipofilik dengan aktiviti antimikobakteria dan anti-radang.
 
 Hubungan mekanistik yang kukuh dengan *Pneumocystis* tidak dapat ditunjukkan. Skor TxGNN sangat tinggi (0,9990), tetapi ia hanyalah ramalan model. Pneumocystis ialah sejenis kulat, dan tiada aktiviti clofazimine terhadapnya didokumenkan dalam data yang ada. Penerbitan yang ditemui berkaitan dengan profilaksis jangkitan *Mycobacterium avium complex* (MAC) pada pesakit AIDS dan satu kes ko-jangkitan *M. kansasii* bersama pneumonia Pneumocystis. Kedua-duanya mencerminkan ko-jangkitan pada pesakit imunokompromi, bukan keberkesanan terhadap Pneumocystis.
 
@@ -92,6 +92,19 @@ Ramalan ini hanya berasaskan model dan tiada kajian yang mengkaji clofazimine se
 - Kajian in vitro atau praklinikal yang menguji clofazimine terhadap *Pneumocystis*
 - Amaran dan kontraindikasi daripada sisipan pek NPRA untuk penilaian keselamatan
 - Penilaian interaksi ubat, terutamanya dengan ubat yang memanjangkan selang QT (cisapride, dolasetron)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lamprene (clofazimine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e07448f-f888-4747-80ab-570c1b621250) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

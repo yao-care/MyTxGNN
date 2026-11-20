@@ -54,7 +54,7 @@ Cabotegravir ialah perencat pemindahan untai integrase HIV-1 (INSTI). Model TxGN
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia pada masa ini. Cabotegravir diketahui sebagai perencat integrase HIV-1, tetapi tiada laluan bergantung integrase yang munasabah dalam patogenesis artritis reumatoid (contohnya isyarat TNF, IL-6 atau JAK/STAT) telah dikenal pasti.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Cabotegravir (terjemahan tidak rasmi): “Cabotegravir ialah ubat antiretroviral HIV-1. […] Cabotegravir merencat integrase HIV dengan terikat pada tapak aktif integrase dan menyekat langkah pemindahan bebenang dalam integrasi asid deoksiribonukleik (DNA) retrovirus yang penting untuk kitaran replikasi HIV. Nilai min kepekatan perencatan 50% (IC 50 ) cabotegravir dalam asai pemindahan bebenang menggunakan integrase HIV-1 rekombinan yang ditulenkan ialah 3.0 nM.” Teks asal bahasa Inggeris: "Cabotegravir is an HIV-1 antiretroviral drug. […] Cabotegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral deoxyribonucleic acid (DNA) integration that is essential for the HIV replication cycle. The mean 50% inhibitory concentration (IC 50 ) value of cabotegravir in a strand transfer assay using purified recombinant HIV-1 integrase was 3.0 nM." ([DailyMed: Vocabria (cabotegravir sodium) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66d450fb-cca4-476c-b0c7-c0730e3e4cf3), versi 2025-04-11; diakses 2026-11-19). Cabotegravir diketahui sebagai perencat integrase HIV-1, tetapi tiada laluan bergantung integrase yang munasabah dalam patogenesis artritis reumatoid (contohnya isyarat TNF, IL-6 atau JAK/STAT) telah dikenal pasti.
 
 Skor yang tinggi (0,9945) ialah hasil ramalan model komputasi sahaja. Sebarang hipotesis memerlukan pengesahan in vitro yang bebas sebelum boleh dipertimbangkan.
 
@@ -95,6 +95,19 @@ Ramalan ini hanya berasaskan model, tanpa sebarang ujian klinikal atau penerbita
 - Hipotesis mekanisme yang dapat disahkan melalui kajian in vitro dan praklinikal
 - Amaran dan kontraindikasi daripada risalah maklumat produk NPRA untuk penilaian keselamatan
 - Penilaian keserasian laluan pemberian dan formulasi bagi indikasi sasaran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Vocabria (cabotegravir sodium) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66d450fb-cca4-476c-b0c7-c0730e3e4cf3) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

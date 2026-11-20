@@ -59,7 +59,7 @@ Theophylline ialah bronkodilator kumpulan xanthine yang dalam pangkalan pengetah
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan farmakologi am, theophylline ialah perencat fosfodiesterase tidak selektif dan antagonis reseptor adenosina. Pengagregatan platelet dipengaruhi oleh paras cAMP dan isyarat adenosina, maka terdapat kaitan tidak langsung yang munasabah secara teori.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Theophylline (terjemahan tidak rasmi): “Teofilina mempunyai dua tindakan berbeza dalam saluran udara pesakit dengan obstruksi boleh balik: pengenduran otot licin (iaitu, bronkodilatasi) dan penindasan tindak balas saluran udara terhadap rangsangan (iaitu, kesan profilaktik bukan bronkodilator).” Teks asal bahasa Inggeris: "Theophylline has two distinct actions in the airways of patients with reversible obstruction: smooth muscle relaxation (i.e., bronchodilation) and suppression of the response of the airways to stimuli (i.e., non-bronchodilator prophylactic effects)." ([DailyMed: Theo-24 (theophylline anhydrous) prescribing information, ENDO USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7a108fa0-c230-475f-be93-6f864b98a410), versi 2024-07-08; diakses 2026-11-19). Berdasarkan pengetahuan farmakologi am, theophylline ialah perencat fosfodiesterase tidak selektif dan antagonis reseptor adenosina. Pengagregatan platelet dipengaruhi oleh paras cAMP dan isyarat adenosina, maka terdapat kaitan tidak langsung yang munasabah secara teori.
 
 Namun begitu, arah kesan bersih tidak jelas. Antagonisme adenosina boleh mengurangkan kesan antiplatelet adenosina endogen. Kebanyakan literatur yang diperoleh berkisar tentang pengukuran biopenanda platelet, pemprosesan sampel, dan agen antiplatelet lain (milrinone, ticlopidine, prostaglandin), bukan theophylline. Tiada kajian menunjukkan manfaat antitrombotik klinikal theophylline.
 
@@ -132,6 +132,19 @@ Ramalan penyakit trombotik hanya disokong oleh skor model. Tiada ujian klinikal 
 ### Nota Tambahan: Ramalan Lain yang Dikaji
 
 Ramalan peringkat lebih rendah turut dikaji. Penyakit rongga hidung (rinitis alergi) mempunyai bukti paling hampir: satu kajian manusia lama (PMID 9648963, 1998) menguji theophylline pelepasan perlahan terhadap cabaran alergen nasal; ini wajar dijadikan soalan penyelidikan. Ramalan penyakit trakea, faringitis, laringotrakeitis dan laringofaringitis akut tidak mempunyai bukti klinikal langsung bagi theophylline.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Theo-24 (theophylline anhydrous) prescribing information, ENDO USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7a108fa0-c230-475f-be93-6f864b98a410) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

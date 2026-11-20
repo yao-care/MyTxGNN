@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **neoplasma saraf trigeminal** 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan lamotrigine tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan am, lamotrigine menyekat saluran natrium bergantung voltan dan merencatkan pelepasan glutamat, yang menjelaskan kesannya dalam epilepsi.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Lamotrigine (terjemahan tidak rasmi): “Mekanisme tepat bagaimana lamotrigine memberikan tindakan antikonvulsannya tidak diketahui. Dalam model haiwan yang direka untuk mengesan aktiviti antikonvulsan, lamotrigine berkesan dalam mencegah penyebaran sawan dalam ujian kejutan elektrik maksimum (MES) dan pentilenatetrazol (scMet), dan mencegah sawan dalam ujian nyahcas susulan yang dicetuskan secara visual dan elektrik (EEAD) bagi aktiviti antiepileptik.” Teks asal bahasa Inggeris: "The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action are unknown. In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock (MES) and pentylenetetrazol (scMet) tests, and prevented seizures in the visually and electrically evoked after-discharge (EEAD) tests for antiepileptic activity." ([DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4), versi 2026-10-12; diakses 2026-11-19). Berdasarkan pengetahuan am, lamotrigine menyekat saluran natrium bergantung voltan dan merencatkan pelepasan glutamat, yang menjelaskan kesannya dalam epilepsi.
 
 Skor TxGNN (model pembelajaran mendalam) yang sangat tinggi mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, iaitu gangguan saraf trigeminal dengan neuralgia trigeminal, dan bukan bukti biologi. Lamotrigine mempunyai mekanisme berkaitan saluran natrium yang munasabah untuk neuralgia tersebut. Ini tidak bermakna lamotrigine merawat tumor itu sendiri.
 
@@ -142,6 +142,19 @@ Kedua-dua ujian terlalu kecil untuk menetapkan keberkesanan secara kukuh, jadi b
 - Data mekanisme tindakan yang lengkap dan bukti prapklinikal bahawa lamotrigine mempunyai kesan terhadap sel tumor saraf trigeminal.
 - Sisipan pakej daripada NPRA, termasuk amaran dan kontraindikasi, serta teks indikasi diluluskan.
 - Pertimbangan untuk menilai neuralgia trigeminal secara berasingan sebagai calon utama. Ia memerlukan pengesahan fasa indikasi bagi NCT00203229 dan percubaan lebih besar sebelum dikira sebagai bukti kukuh.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

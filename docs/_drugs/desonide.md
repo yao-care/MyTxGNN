@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **polip pita suara**, tetapi ki
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat sedia ada, desonide ialah kortikosteroid topikal berkuasa rendah dengan aktiviti anti-radang. Secara teori, ia mungkin mengurangkan keradangan atau edema pada lesi pita suara. Pautan ini belum disahkan oleh sebarang data.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Desonide (terjemahan tidak rasmi): “Mekanisme tindakan desonide tidak diketahui.” Teks asal bahasa Inggeris: "The mechanism of action of desonide is unknown." ([DailyMed: desonide prescribing information, Cintex Services, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6192416-09b4-47fa-e053-2a95a90add96), versi 2020-07-31; diakses 2026-11-19). Berdasarkan maklumat sedia ada, desonide ialah kortikosteroid topikal berkuasa rendah dengan aktiviti anti-radang. Secara teori, ia mungkin mengurangkan keradangan atau edema pada lesi pita suara. Pautan ini belum disahkan oleh sebarang data.
 
 Terdapat juga halangan praktikal yang besar. Desonide ialah formulasi topikal dermatologi dan tiada laluan penghantaran yang mapan ke larynx. Ia bukan bukti klinikal, dan tiada kajian yang meneliti penyakit ini secara langsung.
 
@@ -112,6 +112,19 @@ Ramalan ini berada pada tahap bukti L5, iaitu ramalan model sahaja tanpa ujian k
 - Data mekanisme tindakan (MOA) daripada DrugBank
 - Penilaian kebolehlaksanaan laluan pemberian ke laryngeal (formulasi dan kaedah penghantaran)
 - Kajian praklinikal atau klinikal awal yang meneliti polip pita suara secara langsung
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: desonide prescribing information, Cintex Services, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6192416-09b4-47fa-e053-2a95a90add96) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

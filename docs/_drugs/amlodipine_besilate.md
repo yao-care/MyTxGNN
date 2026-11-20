@@ -55,7 +55,7 @@ Amlodipine besilate ialah ubat penyekat saluran kalsium yang berdaftar di Malays
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan ubat ini tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Amlodipine tergolong dalam kelas penyekat saluran kalsium, yang melebarkan saluran darah periferi dan menurunkan tekanan darah. Secara teori, kesan ini boleh dikaitkan dengan perlindungan vaskular dan pencegahan strok secara umum.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Amlodipine Besilate (terjemahan tidak rasmi): “Amlodipina ialah antagonis kalsium dihidropiridina (antagonis ion kalsium atau penyekat saluran perlahan) yang merencatkan influks transmembran ion kalsium ke dalam otot licin vaskular dan otot jantung. Data eksperimen mencadangkan bahawa amlodipina terikat kepada kedua-dua tapak pengikatan dihidropiridina dan bukan dihidropiridina.” Teks asal bahasa Inggeris: "Amlodipine is a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker) that inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle. Experimental data suggest that amlodipine binds to both dihydropyridine and nondihydropyridine binding sites." ([DailyMed: Sdamlo (amlodipine) prescribing information, Pangea Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=886a7f97-60a4-4206-a6c7-5206069ed487), versi 2026-09-28; diakses 2026-11-19). Amlodipine tergolong dalam kelas penyekat saluran kalsium, yang melebarkan saluran darah periferi dan menurunkan tekanan darah. Secara teori, kesan ini boleh dikaitkan dengan perlindungan vaskular dan pencegahan strok secara umum.
 
 Namun, hubungan ini bersifat tidak langsung. Tiada data dalam laporan ini yang khusus kepada infarksi batang otak, jadi kemunasabahan mekanistik tidak dapat disahkan. Skor yang tinggi menunjukkan model mengesan corak yang serupa, tetapi ia bukan bukti klinikal.
 
@@ -95,6 +95,19 @@ Maklumat amaran, kontraindikasi dan interaksi ubat tidak tersedia dalam data yan
 - Mendapatkan data mekanisme tindakan (MOA) yang lengkap daripada sumber rujukan ubat.
 - Memuat turun dan menganalisis sisipan pek daripada NPRA untuk amaran dan kontraindikasi.
 - Mencari kajian praklinikal atau klinikal yang menyasarkan infarksi batang otak secara langsung sebelum menilai semula keputusan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Sdamlo (amlodipine) prescribing information, Pangea Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=886a7f97-60a4-4206-a6c7-5206069ed487) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

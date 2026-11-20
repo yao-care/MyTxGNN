@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Jerawat (acne)** dengan skor 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara amnya, miconazole ialah antikulat imidazol yang menghalang enzim lanosterol 14-alfa-demetilase (CYP51) dan mengganggu sintesis ergosterol pada kulat. Penjelasan ini berdasarkan pengetahuan am tentang azol, bukan data yang diberikan.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Miconazole (terjemahan tidak rasmi): “Mikonazol ialah ubat antikulat. […] Mikonazol merencat enzim sitokrom P450 14α-demetilase yang membawa kepada perencatan sintesis ergosterol, komponen penting membran sel kulat. Mikonazol juga menjejaskan sintesis trigliserida dan asid lemak serta merencat enzim oksidatif dan peroksidatif, sekali gus meningkatkan jumlah spesies oksigen reaktif di dalam sel.” Teks asal bahasa Inggeris: "Miconazole is an antifungal drug. […] Miconazole inhibits the enzyme cytochrome P450 14α-demethylase which leads to inhibition of ergosterol synthesis, an essential component of the fungal cell membrane. Miconazole also affects the synthesis of triglycerides and fatty acids and inhibits oxidative and peroxidative enzymes, increasing the amount of reactive oxygen species within the cell." ([DailyMed: Oravig (miconazole) prescribing information, Galt Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dc2427ff-e566-4b48-b289-9e51c011250a), versi 2026-01-08; diakses 2026-11-19). Secara amnya, miconazole ialah antikulat imidazol yang menghalang enzim lanosterol 14-alfa-demetilase (CYP51) dan mengganggu sintesis ergosterol pada kulat. Penjelasan ini berdasarkan pengetahuan am tentang azol, bukan data yang diberikan.
 
 Kaitan dengan jerawat boleh dilihat melalui beberapa laluan. Pertama, kajian in vitro menunjukkan agen antikulat azol mempunyai aktiviti terhadap *Cutibacterium (Propionibacterium) acnes*, bakteria penyebab jerawat (PMID 20045949). Kedua, miconazole aktif terhadap ragi *Malassezia (Pityrosporum)* yang menyebabkan folikulitis Malassezia, keadaan yang secara klinikal menyerupai jerawat vulgaris dan sering tersalah diagnosis (PMID 8593718). Ketiga, sebuah ulasan melaporkan kesan antibakteria dan anti-radang miconazole pada kulit (PMID 18627330).
 
@@ -121,11 +121,12 @@ Skor ramalan tinggi dan terdapat asas mekanistik yang munasabah, tetapi bukti ha
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Miconazole berstatus dipasarkan di Malaysia, dengan sekurang-kurangnya 39 lesen sah dan tiada lesen yang dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Oravig (miconazole) prescribing information, Galt Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dc2427ff-e566-4b48-b289-9e51c011250a) |
 
 <!-- review:end log -->
 

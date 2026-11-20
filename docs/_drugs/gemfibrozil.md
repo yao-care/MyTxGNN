@@ -58,7 +58,7 @@ Gemfibrozil ialah agonis PPAR-alfa daripada kelas fibrat yang lazimnya digunakan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, gemfibrozil ialah agonis PPAR-alfa. Pengaktifan PPAR mempunyai kesan anti-radang dan imunomodulatori, termasuk pengurangan sitokin pro-radang dan kesan ke atas pembezaan sel T. Ini memberikan hubung kait mekanistik yang munasabah dengan RA, penyakit autoimun yang didorong oleh keradangan kronik.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Gemfibrozil (terjemahan tidak rasmi): “Gemfibrozil ialah agen pengawal atur lipid yang menurunkan trigliserida serum dan kolesterol lipoprotein berketumpatan sangat rendah (VLDL), serta meningkatkan kolesterol lipoprotein berketumpatan tinggi (HDL). Walaupun penurunan sederhana dalam kolesterol total dan kolesterol lipoprotein berketumpatan rendah (LDL) mungkin diperhatikan dengan terapi gemfibrozil, rawatan pesakit dengan trigliserida yang meningkat akibat hiperlipoproteinemia Jenis IV sering mengakibatkan peningkatan kolesterol-LDL.” Teks asal bahasa Inggeris: "Gemfibrozil is a lipid regulating agent which decreases serum triglycerides and very low density lipoprotein (VLDL) cholesterol, and increases high density lipoprotein (HDL) cholesterol. While modest decreases in total and low density lipoprotein (LDL) cholesterol may be observed with gemfibrozil therapy, treatment of patients with elevated triglycerides due to Type IV hyperlipoproteinemia often results in a rise in LDL-cholesterol." ([DailyMed: gemfibrozil prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5501438d-5247-4f2a-8e15-085276d01725), versi 2026-11-10; diakses 2026-11-19). Berdasarkan maklumat sedia ada, gemfibrozil ialah agonis PPAR-alfa. Pengaktifan PPAR mempunyai kesan anti-radang dan imunomodulatori, termasuk pengurangan sitokin pro-radang dan kesan ke atas pembezaan sel T. Ini memberikan hubung kait mekanistik yang munasabah dengan RA, penyakit autoimun yang didorong oleh keradangan kronik.
 
 Hubungan antara indikasi asal (gangguan lipid) dengan RA tidak langsung. Kedua-duanya berkaitan metabolisme dan keradangan, dan pesakit RA diketahui mempunyai risiko kardiovaskular yang lebih tinggi. Kajian praklinikal menunjukkan agonis PPAR lain (bezafibrat) mengurangkan keradangan dalam model RA eksperimen. Satu kajian tikus juga melaporkan gemfibrozil bersama dos steroid yang dikurangkan memberikan kawalan penyakit yang setanding dengan dos steroid penuh.
 
@@ -110,6 +110,19 @@ Setakat ini tiada ujian klinikal berkaitan yang didaftarkan untuk gemfibrozil da
 - Penilaian risiko interaksi ubat, terutamanya dengan statin, kerana pesakit RA sering menerima pelbagai ubat
 
 **Nota tambahan:** Antara ramalan lain dalam data yang sama, **pengurusan dislipidemia/hipertrigliseridemia berkaitan terapi antiretroviral pada pesakit HIV** mempunyai bukti lebih kukuh (tahap L2, termasuk kajian RCT buta-ganda PMID 12409741). Ini ialah pengurusan komplikasi metabolik, bukan rawatan jangkitan HIV itu sendiri. Ia wajar dinilai secara berasingan sebagai soalan penyelidikan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: gemfibrozil prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5501438d-5247-4f2a-8e15-085276d01725) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

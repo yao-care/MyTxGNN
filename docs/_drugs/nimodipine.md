@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **hiperkolesterolemia familial 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, nimodipine tergolong dalam kelas penyekat saluran kalsium dihidropiridina jenis L, dan keberkesanannya dalam perdarahan subaraknoid telah diketahui. Namun, kemungkinan ia sesuai untuk hiperkolesterolemia familial homozigot hanya berasaskan ramalan model.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Nimodipine (terjemahan tidak rasmi): “Nimodipin ialah penyekat saluran kalsium dihidropiridina. Proses pengecutan sel otot licin bergantung pada ion kalsium, yang memasuki sel-sel ini semasa depolarisasi sebagai arus ion transmembran perlahan.” Teks asal bahasa Inggeris: "Nimodipine is a dihydropyridine calcium channel blocker. The contractile processes of smooth muscle cells are dependent upon calcium ions, which enter these cells during depolarization as slow ionic transmembrane currents." ([DailyMed: Nymalize (nimodipine) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e660fa26-b5c4-4d6d-8887-9e22b6666a10), versi 2024-08-30; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, nimodipine tergolong dalam kelas penyekat saluran kalsium dihidropiridina jenis L, dan keberkesanannya dalam perdarahan subaraknoid telah diketahui. Namun, kemungkinan ia sesuai untuk hiperkolesterolemia familial homozigot hanya berasaskan ramalan model.
 
 Hiperkolesterolemia familial homozigot disebabkan oleh kecacatan laluan reseptor LDL (LDLR, APOB, PCSK9, LDLRAP1). Laluan ini bukan sasaran jelas bagi penyekatan saluran kalsium. Sesetengah literatur praklinikal mencadangkan penyekat saluran kalsium mungkin mempunyai kesan anti-aterosklerosis atau kesan vaskular, tetapi ini bersifat tidak langsung dan tidak menangani kecacatan metabolisme lipid yang utama.
 
@@ -84,7 +84,6 @@ Pada masa ini tiada literatur berkaitan tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -113,6 +112,19 @@ Untuk amaran utama dan kontraindikasi daripada label, sila rujuk sisipan pek pro
 - Amaran dan kontraindikasi daripada sisipan pek produk
 - Penilaian status pendaftaran dan ketersediaan produk di Malaysia, termasuk kesesuaian laluan pentadbiran
 - Pelan pemantauan keselamatan, khususnya bagi risiko hipotensi dan interaksi ubat utama (contohnya penghambat CYP3A4 seperti clarithromycin)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Nymalize (nimodipine) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e660fa26-b5c4-4d6d-8887-9e22b6666a10) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

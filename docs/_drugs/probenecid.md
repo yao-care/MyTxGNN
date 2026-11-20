@@ -60,7 +60,7 @@ tetapi setakat ini terdapat **0 ujian klinikal** dan **20 penerbitan** yang memb
 
 ## Mengapakah Ramalan Ini Wajar (atau Tidak)?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Berdasarkan maklumat sedia ada, probenecid ialah agen urikosurik yang merencat URAT1 (SLC22A12) serta OAT1/OAT3, lalu mengurangkan penyerapan semula urat di tubul renal dan menurunkan urat serum. Kesannya telah terbukti dalam gout.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Probenecid (terjemahan tidak rasmi): “Probenesid ialah agen urikosurik dan penyekat tubul renal.” Teks asal bahasa Inggeris: "Probenecid is a uricosuric and renal tubular blocking agent." ([DailyMed: probenecid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65b4888c-d49a-433f-9bfd-17880ae40069), versi 2026-11-06; diakses 2026-11-19). Berdasarkan maklumat sedia ada, probenecid ialah agen urikosurik yang merencat URAT1 (SLC22A12) serta OAT1/OAT3, lalu mengurangkan penyerapan semula urat di tubul renal dan menurunkan urat serum. Kesannya telah terbukti dalam gout.
 
 Hipourisemia renal pula dicirikan oleh perkumuhan urat melalui buah pinggang yang berlebihan, kebanyakannya akibat mutasi hilang-fungsi pada URAT1 (SLC22A12) atau GLUT9 (SLC2A9). Oleh itu, probenecid dijangka **memburukkan** kecacatan asas ini dan bukannya membetulkannya. Skor TxGNN yang tinggi berkemungkinan mencerminkan laluan biologi yang dikongsi (pengangkutan urat), bukan manfaat terapeutik.
 
@@ -139,12 +139,13 @@ Sisipan bungkusan NPRA tidak tersedia. Sila rujuk sisipan bungkusan produk dari 
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "kerana ubat ini tidak didaftarkan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak didaftarkan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: probenecid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65b4888c-d49a-433f-9bfd-17880ae40069) |
 
 <!-- review:end log -->
 

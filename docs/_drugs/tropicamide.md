@@ -60,7 +60,7 @@ tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, tropicamide ialah antagonis reseptor muskarinik (data farmakologi menunjukkan ia mengikat reseptor M2, M3, M4 dan M5). Keberkesanannya sebagai midriatik dan sikloplegik jangka pendek telah mantap.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Tropicamide (terjemahan tidak rasmi): “Sediaan antikolinergik ini menyekat tindak balas otot sfinkter iris dan otot siliari terhadap rangsangan kolinergik, lalu mengembangkan pupil (midriasis). Sediaan yang lebih kuat (1%) juga melumpuhkan akomodasi.” Teks asal bahasa Inggeris: "This anticholinergic preparation blocks the responses of the sphincter muscle of the iris and the ciliary muscle to cholinergic stimulation, dilating the pupil (mydriasis). The stronger preparation (1%) also paralyzes accommodation." ([DailyMed: Mydriacyl (tropicamide) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4f4a2e-eb00-4c65-b3fa-baf5738d468d), versi 2023-02-15; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, tropicamide ialah antagonis reseptor muskarinik (data farmakologi menunjukkan ia mengikat reseptor M2, M3, M4 dan M5). Keberkesanannya sebagai midriatik dan sikloplegik jangka pendek telah mantap.
 
 Secara teori, tindakan antikolinergik boleh mengurangkan hiperaktiviti detrusor pada pundi kencing, yang kadangkala menyertai sindrom cauda equina. Namun, patologi teras sindrom ini ialah mampatan mekanikal akar saraf yang memerlukan dekompresi pembedahan. Antimuskarinik paling banyak hanya boleh menangani gejala hiliran, bukan penyakit itu sendiri. Tropicamide juga diformulasikan sebagai agen oftalmik dengan pendedahan sistemik yang minimum, yang melemahkan lagi hubungan ini.
 
@@ -86,7 +86,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -114,6 +113,19 @@ Untuk amaran utama dan kontraindikasi daripada sisip bungkusan, sila rujuk sisip
 - Pemetaan istilah penyakit usang kepada istilah semasa (cth. disfungsi saluran kencing bawah neurogenik)
 - Penilaian kesesuaian laluan pentadbiran dan formulasi (pada masa ini belum ditentukan)
 - Kajian praklinikal atau kajian pengesahan lain sebelum sebarang penilaian klinikal
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Mydriacyl (tropicamide) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4f4a2e-eb00-4c65-b3fa-baf5738d468d) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

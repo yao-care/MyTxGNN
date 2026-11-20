@@ -60,7 +60,7 @@ tetapi setakat ini **tiada ujian klinikal** didaftarkan dan hanya **20 penerbita
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, ampicillin ialah antibiotik beta-laktam yang merencat sintesis dinding sel bakteria dan aktif terhadap kuman saluran pernafasan atas seperti *Haemophilus influenzae* dan streptokokus. Kuman ini menyebabkan epiglotitis bakteria dan jangkitan leher dalam, sebab itu model mengaitkan ubat ini dengan keradangan laring.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ampicillin (terjemahan tidak rasmi): “Ampisilin adalah serupa dengan penisilin dalam tindakan bakterisidnya terhadap bakteria yang rentan semasa peringkat pembiakan aktif. Ia bertindak melalui perencatan biosintesis dinding sel yang membawa kepada kematian bakteria.” Teks asal bahasa Inggeris: "Ampicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication. It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria." ([DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1), versi 2026-07-27; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, ampicillin ialah antibiotik beta-laktam yang merencat sintesis dinding sel bakteria dan aktif terhadap kuman saluran pernafasan atas seperti *Haemophilus influenzae* dan streptokokus. Kuman ini menyebabkan epiglotitis bakteria dan jangkitan leher dalam, sebab itu model mengaitkan ubat ini dengan keradangan laring.
 
 Namun, pautan ini tidak langsung. Kajian yang diperoleh membincangkan epiglotitis, abses laring dan pilihan antibiotik perioperatif, bukan laringitis. Kebanyakan laringitis berpunca daripada virus dan tidak akan bertindak balas terhadap ampicillin. Oleh itu, skor ramalan yang tinggi tidak boleh dianggap sebagai bukti keberkesanan klinikal.
 
@@ -119,6 +119,19 @@ Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pek produk.
 - Data mekanisme tindakan yang terperinci
 - Amaran dan kontraindikasi daripada sisipan pek NPRA
 - Pertimbangan penjagaan antibiotik (antimicrobial stewardship) dan corak rintangan semasa
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

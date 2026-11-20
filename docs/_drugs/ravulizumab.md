@@ -60,7 +60,7 @@ namun **tiada sebarang ujian klinikal** dan **tiada penerbitan** yang menyokong 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Namun, ravulizumab diketahui sebagai perencat komplemen C5 yang menyekat pengaktifan komplemen terminal.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ravulizumab (terjemahan tidak rasmi): “Ravulizumab-cwvz ialah perencat komplemen terminal yang terikat secara spesifik kepada protein komplemen C5 dengan afiniti tinggi, seterusnya merencat pembelahannya kepada C5a (anafilatoksin proradang) dan C5b (subunit pemula kompleks serangan membran [MAC atau C5b-9]) dan dengan itu mencegah pembentukan MAC. ULTOMIRIS merencat hemolisis intravaskular yang diperantarakan oleh komplemen terminal pada pesakit PNH dan mikroangiopati trombotik (TMA) yang diperantarakan oleh komplemen pada pesakit aHUS.” Teks asal bahasa Inggeris: "Ravulizumab-cwvz is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a (the proinflammatory anaphylatoxin) and C5b (the initiating subunit of the membrane attack complex [MAC or C5b-9]) thus preventing MAC formation. ULTOMIRIS inhibits terminal complement-mediated intravascular hemolysis in patients with PNH and complement-mediated thrombotic microangiopathy (TMA) in patients with aHUS." ([DailyMed: Ultomiris (ravulizumab) prescribing information, Alexion Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9a590d9-0217-43c7-908d-e62a71279791), versi 2026-10-29; diakses 2026-11-19). Namun, ravulizumab diketahui sebagai perencat komplemen C5 yang menyekat pengaktifan komplemen terminal.
 
 Berdasarkan penilaian mekanistik, **tiada kaitan yang mantap** antara pengaktifan komplemen terminal dengan neutropenia akibat kekurangan G6PC3. Penyakit ini berpunca daripada aktiviti glukosa-6-fosfatase yang terjejas dan apoptosis neutrofil, bukan daripada proses yang dimediasi komplemen. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi; tiada sokongan ujian atau literatur. Kesamaan dengan indikasi asal masih belum dinilai.
 
@@ -135,12 +135,13 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah pek (package insert).
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ravulizumab tidak mempunyai sebarang lesen berdaftar di Malaysia (jumlah pendaftaran: 0), maka tiada produk untuk disenaraikan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ultomiris (ravulizumab) prescribing information, Alexion Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9a590d9-0217-43c7-908d-e62a71279791) |
 
 <!-- review:end log -->
 

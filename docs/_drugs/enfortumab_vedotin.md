@@ -66,7 +66,7 @@ Ramalan ini hanyalah ramalan model TxGNN (pembelajaran mendalam) tanpa bukti sok
 
 ## Mengapakah Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, enfortumab vedotin ialah ADC yang diarahkan kepada Nectin-4, menghantar MMAE, perencat mikrotubul sitotoksik, dan digunakan dalam bidang onkologi.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Enfortumab Vedotin (terjemahan tidak rasmi): “Enfortumab vedotin-ejfv ialah ADC. Antibodi tersebut ialah IgG1 kappa manusia yang ditujukan terhadap Nectin-4, sejenis protein lekatan yang terletak pada permukaan sel. Molekul kecil, MMAE, ialah agen pengganggu mikrotubul, yang dilekatkan pada antibodi melalui penghubung yang boleh dibelah oleh protease.” Teks asal bahasa Inggeris: "Enfortumab vedotin-ejfv is an ADC. The antibody is a human IgG1 kappa directed against Nectin-4, an adhesion protein located on the surface of cells. The small molecule, MMAE, is a microtubule-disrupting agent, attached to the antibody via a protease-cleavable linker." ([DailyMed: Padcev Ejfv (enfortumab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5631d3e-4604-4363-8f20-11dfc5a4a8ed), versi 2026-08-04; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, enfortumab vedotin ialah ADC yang diarahkan kepada Nectin-4, menghantar MMAE, perencat mikrotubul sitotoksik, dan digunakan dalam bidang onkologi.
 
 Tiada pautan mekanistik dapat dikenal pasti antara ubat ini dengan jangkitan *Mycobacterium leprae* atau imunopatologi kusta. Skor TxGNN yang tinggi hanyalah ramalan model TxGNN (pembelajaran mendalam) dan tidak disokong oleh data klinikal atau literatur. Kesamaan dengan indikasi asal masih belum dinilai.
 
@@ -149,11 +149,12 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pembungkusan.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "kerana ubat ini tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Padcev Ejfv (enfortumab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5631d3e-4604-4363-8f20-11dfc5a4a8ed) |
 
 <!-- review:end log -->
 

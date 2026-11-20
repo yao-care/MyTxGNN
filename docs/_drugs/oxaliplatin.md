@@ -60,7 +60,7 @@ dengan **3 percubaan klinikal** (2 daripadanya berkaitan secara langsung) dan **
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) daripada pangkalan data ubat tidak tersedia. Berdasarkan maklumat sedia ada, oxaliplatin ialah agen platinum generasi ketiga yang membentuk adduct DNA, merencat replikasi dan transkripsi, lalu mencetuskan apoptosis.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Oxaliplatin (terjemahan tidak rasmi): “Oksaliplatin mengalami penukaran bukan enzimatik dalam larutan fisiologi kepada derivatif aktif melalui penyesaran ligan oksalat yang labil. Beberapa spesies reaktif sementara terbentuk, termasuk monoakuo dan diakuo DACH platinum, yang terikat secara kovalen dengan makromolekul.” Teks asal bahasa Inggeris: "Oxaliplatin undergoes nonenzymatic conversion in physiologic solutions to active derivatives via displacement of the labile oxalate ligand. Several transient reactive species are formed, including monoaquo and diaquo DACH platinum, which covalently bind with macromolecules." ([DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5), versi 2026-08-24; diakses 2026-11-19). Berdasarkan maklumat sedia ada, oxaliplatin ialah agen platinum generasi ketiga yang membentuk adduct DNA, merencat replikasi dan transkripsi, lalu mencetuskan apoptosis.
 
 Agen platinum lain (cisplatin, carboplatin) ialah tulang belakang kemoterapi mesotelioma yang mantap, jadi platinum berkaitan mempunyai kebolehpercayaan biologi. Kesan oxaliplatin terhadap kanser kolon telah terbukti, dan mekanisme kerosakan DNA yang sama mungkin terpakai kepada mesotelioma.
 
@@ -128,11 +128,12 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "oxaliplatin tidak berdaftar di Malaysia dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5) |
 
 <!-- review:end log -->
 

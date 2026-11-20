@@ -59,7 +59,7 @@ Pioglitazone hydrochloride ialah ubat penyensitif insulin daripada kelas tiazoli
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) pioglitazone tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat umum, pioglitazone ialah agonis PPAR-gamma yang meningkatkan kepekaan insulin.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Pioglitazone Hydrochloride (terjemahan tidak rasmi): “ACTOS ialah tiazolidinedion yang bergantung kepada kehadiran insulin untuk mekanisme tindakannya. ACTOS mengurangkan rintangan insulin di periferi dan di hati, menyebabkan peningkatan pelupusan glukosa yang bergantung kepada insulin dan pengurangan pengeluaran glukosa oleh hati. […] Pioglitazone bukan sekretagog insulin.” Teks asal bahasa Inggeris: "ACTOS is a thiazolidinedione that depends on the presence of insulin for its mechanism of action. ACTOS decreases insulin resistance in the periphery and in the liver resulting in increased insulin-dependent glucose disposal and decreased hepatic glucose output. […] Pioglitazone is not an insulin secretagogue." ([DailyMed: Actos (pioglitazone) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2ddc491-88a9-4063-9150-443b4fa4330c), versi 2025-03-28; diakses 2026-11-19). Berdasarkan maklumat umum, pioglitazone ialah agonis PPAR-gamma yang meningkatkan kepekaan insulin.
 
 Opsismodisplasia ialah displasia rangka yang jarang berlaku, disebabkan oleh mutasi gen INPPL1 (kekurangan SHIP2), yang menjejaskan isyarat PI3K/AKT dan pengosifikasian endokondral. Tiada kaitan mekanistik yang jelas dapat dikenal pasti antara agonisme PPAR-gamma dengan laluan ini. Sebarang hubungan adalah spekulatif dan hanya bersandar pada skor tinggi model, tanpa sokongan data ujian atau literatur.
 
@@ -109,6 +109,19 @@ Ramalan ini hanya berasaskan skor model tanpa sebarang ujian klinikal atau pener
 - Maklumat amaran dan kontraindikasi daripada sisipan pembungkusan NPRA
 - Kajian praklinikal yang menilai kesan agonisme PPAR-gamma terhadap isyarat PI3K/AKT dan pengosifikasian endokondral dalam model kekurangan SHIP2
 - Pengesahan indikasi yang diluluskan daripada rekod lesen tempatan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Actos (pioglitazone) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2ddc491-88a9-4063-9150-443b4fa4330c) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

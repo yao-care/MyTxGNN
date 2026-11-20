@@ -54,7 +54,7 @@ Chloramphenicol ialah antibiotik yang telah lama digunakan dan masih dipasarkan 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan chloramphenicol tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Oleh itu, hubungan mekanistik antara ubat ini dengan skleroderma meresap tidak dapat dinilai secara langsung.
+Menurut bahagian “Clinical Pharmacology” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Chloramphenicol (terjemahan tidak rasmi): “Chloramphenicol ialah antibiotik spektrum luas yang pada asalnya diasingkan daripada Streptomyces venezuelae. Ia merencat sintesis protein bakteria dengan mengganggu pemindahan asid amino teraktif daripada RNA larut kepada ribosom.” Teks asal bahasa Inggeris: "Chloramphenicol is a broad-spectrum antibiotic originally isolated from Streptomyces venezuelae. It inhibits bacterial protein synthesis by interfering with the transfer of activated amino acids from soluble RNA to ribosomes." ([DailyMed: chloramphenicol sodium succinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3), versi 2024-10-10; diakses 2026-11-19). Oleh itu, hubungan mekanistik antara ubat ini dengan skleroderma meresap tidak dapat dinilai secara langsung.
 
 Penerbitan yang ditemui menumpukan pada biologi penyakit. Ia membincangkan isyarat TGF-beta/Smad3 dan peningkatan transkripsi gen prokolagen alfa1(I) dalam fibroblas skleroderma. Kertas-kertas ini tidak menilai chloramphenicol, dan tiada mekanisme antibiotik yang jelas untuk mengubah fibrosis. Toksisiti sumsum tulang chloramphenicol juga tidak sesuai untuk penyakit autoimun/fibrotik kronik. Ramalan ini hanya berdasarkan model dan belum disokong bukti sebenar.
 
@@ -107,6 +107,18 @@ Untuk amaran dan kontraindikasi lengkap, sila rujuk sisip bungkusan produk.
 - Kajian praklinikal atau klinikal yang menilai chloramphenicol secara langsung dalam skleroderma
 - Amaran dan kontraindikasi daripada sisip bungkusan yang diluluskan
 - Penilaian nisbah manfaat-risiko, terutamanya untuk toksisiti hematologi
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: chloramphenicol sodium succinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3) |
+
+<!-- review:end log -->
 
 ## Penafian
 

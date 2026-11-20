@@ -59,7 +59,7 @@ Ibuprofen ialah ubat antiradang bukan steroid (NSAID) yang hubungannya dengan ar
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk ibuprofen tidak tersedia pada masa ini. Berdasarkan pengetahuan am, ibuprofen ialah perencat siklooksigenase (COX) yang mengurangkan pengeluaran prostaglandin, justeru memberi kesan antiradang dan analgesik.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ibuprofen (terjemahan tidak rasmi): “Ibuprofen mempunyai sifat analgesik, antiradang dan antipiretik. Mekanisme tindakan CALDOLOR, seperti NSAID lain, tidak difahami sepenuhnya tetapi melibatkan perencatan siklooksigenase (COX-1 dan COX-2).” Teks asal bahasa Inggeris: "Ibuprofen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of CALDOLOR, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684), versi 2026-01-29; diakses 2026-11-19). Berdasarkan pengetahuan am, ibuprofen ialah perencat siklooksigenase (COX) yang mengurangkan pengeluaran prostaglandin, justeru memberi kesan antiradang dan analgesik.
 
 Hubungan antara indikasi asal dengan indikasi baharu ini **lemah**. Displasia akromesomelik jenis Hunter-Thompson ialah gangguan rangka yang jarang berlaku, disebabkan mutasi kehilangan fungsi gen CDMP1/GDF5 yang menjejaskan isyarat BMP dan pembentukan tulang rawan. Perencatan COX tidak membetulkan laluan ini. Skor yang tinggi (0.9974) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Tiada hubungan mekanistik yang disokong dapat dikenal pasti.
 
@@ -115,6 +115,19 @@ Ramalan ini hanya berasaskan model dengan skor tinggi (0.9974), tanpa sebarang p
 - Amaran dan kontraindikasi daripada risalah bungkusan yang diluluskan NPRA
 - Bukti praklinikal atau klinikal yang mengkaji penyakit ini secara langsung
 - Penilaian keselamatan untuk populasi sasaran, termasuk kanak-kanak
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

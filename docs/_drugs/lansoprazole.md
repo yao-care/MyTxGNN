@@ -60,7 +60,7 @@ tetapi setakat ini terdapat **0 percubaan klinikal** dan hanya **1 penerbitan** 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat sedia ada, lansoprazole tergolong dalam kelas perencat pam proton yang menyekat rembesan asid gastrik. Keberkesanannya dalam GERD, esofagitis dan penyakit ulser peptik telah terbukti, dan secara mekanistik ia mungkin boleh digunakan untuk refluks duodenogastrik.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Lansoprazole (terjemahan tidak rasmi): “Lansoprazole tergolong dalam kelas sebatian antisekretori, iaitu benzimidazol tersubstitusi, yang menyekat rembesan asid gastrik melalui perencatan spesifik sistem enzim (H +, K + )-ATPase pada permukaan sekretori sel parietal gastrik. Oleh sebab sistem enzim ini dianggap sebagai pam asid (proton) di dalam sel parietal, lansoprazole telah dicirikan sebagai perencat pam asid gastrik, kerana ia menyekat langkah terakhir penghasilan asid.” Teks asal bahasa Inggeris: "Lansoprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the (H +, K + )-ATPase enzyme system at the secretory surface of the gastric parietal cell. Because this enzyme system is regarded as the acid (proton) pump within the parietal cell, lansoprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Prevacid (lansoprazole) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71ba78cb-7e46-43eb-9425-fa130f537f84), versi 2025-07-08; diakses 2026-11-19). Berdasarkan maklumat sedia ada, lansoprazole tergolong dalam kelas perencat pam proton yang menyekat rembesan asid gastrik. Keberkesanannya dalam GERD, esofagitis dan penyakit ulser peptik telah terbukti, dan secara mekanistik ia mungkin boleh digunakan untuk refluks duodenogastrik.
 
 Refluks duodenogastrik (refluks hempedu dan kandungan duodenum ke dalam perut) berkait rapat dari segi patofisiologi dengan gangguan saluran gastrousus atas berkaitan asid yang telah menjadi indikasi lansoprazole. Ini menjadikan skor TxGNN yang tinggi (0.9968) boleh diterima.
 
@@ -124,11 +124,12 @@ Ramalan kedua, **obstruksi duodenum** (skor TxGNN 0.9968, tahap bukti L5, keputu
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Lansoprazole tidak berdaftar di Malaysia (0 pendaftaran), maka tiada laluan pasaran tempatan sedia ada dan sisipan pakej NPRA tidak tersedia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Prevacid (lansoprazole) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71ba78cb-7e46-43eb-9425-fa130f537f84) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ Ifosfamide ialah agen kemoterapi pengalkilan (analog siklofosfamid) yang sudah l
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan tidak tersedia dalam data yang dikompilasi. Berdasarkan maklumat sedia ada, ifosfamide ialah prodrug pengalkilan yang diaktifkan oleh sitokrom P450 hati kepada isofosforamid mustard. Metabolit ini membentuk taut silang DNA dan mendorong apoptosis dalam sel tumor yang membahagi dengan cepat. Mekanisme ini boleh terpakai pada karsinoma payudara.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ifosfamide (terjemahan tidak rasmi): “Ifosfamide ialah prodrug yang memerlukan pengaktifan metabolik oleh isoenzim sitokrom P450 hepatik untuk menghasilkan aktiviti sitotoksiknya. Pengaktifan berlaku melalui hidroksilasi pada atom karbon gelang, membentuk perantara tidak stabil 4-hidroksiifosfamide dan tautomer aldo gelang terbukanya, yang terurai untuk menghasilkan sebatian sitotoksik dan urotoksik akrolein serta isofosforamida mustard yang bersifat pengalkilan.” Teks asal bahasa Inggeris: "Ifosfamide is a prodrug that requires metabolic activation by hepatic cytochrome P450 isoenzymes to exert its cytotoxic activity. Activation occurs by hydroxylation at the ring carbon atom forming the unstable intermediate 4-hydroxyifosfamide and its ring-opened aldo tautomer, which decomposes to yield the cytotoxic and urotoxic compound acrolein and an alkylating isophosphoramide mustard." ([DailyMed: Ifex (ifosfamide) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b7241707-7538-4d1a-91e7-3a25a91e0b9a), versi 2026-10-07; diakses 2026-11-19). Berdasarkan maklumat sedia ada, ifosfamide ialah prodrug pengalkilan yang diaktifkan oleh sitokrom P450 hati kepada isofosforamid mustard. Metabolit ini membentuk taut silang DNA dan mendorong apoptosis dalam sel tumor yang membahagi dengan cepat. Mekanisme ini boleh terpakai pada karsinoma payudara.
 
 Ifosfamide ialah analog siklofosfamid, yang sudah lama digunakan dalam kemoterapi kanser payudara. Kajian awal sejak 1974 melaporkan kadar respons objektif kira-kira 20% sebagai agen tunggal. Ulasan lain melaporkan kadar respons 7–30% pada pesakit yang telah menerima rawatan terdahulu, dan kadar yang lebih menarik apabila digabungkan dengan ubat aktif lain. Kajian terkini juga meneroka kemoterapi berasaskan ifosfamide untuk kanser payudara metaplastik dan tumor filodes malignan.
 
@@ -133,6 +133,19 @@ Data ketoksikan khusus tidak tersedia dalam data yang dikompilasi; sila rujuk am
 - Melengkapkan data mekanisme tindakan (contohnya daripada DrugBank).
 - Mencari bukti yang lebih terkini, idealnya percubaan rawak, untuk menentukan nilai tambah ifosfamide berbanding rejimen piawai kanser payudara, termasuk subjenis metaplastik.
 - Calon lain dalam senarai ramalan yang sama, iaitu **rabdomiosarkoma** (L1, dengan beberapa RCT fasa 3 sarkoma tisu lembut), wajar dinilai berasingan sebagai keutamaan yang lebih kukuh. Ramalan seperti sindrom mielodisplastik dan leukemia monositik lebih mencerminkan isyarat bahaya (neoplasma sekunder) dan tidak disyorkan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ifex (ifosfamide) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b7241707-7538-4d1a-91e7-3a25a91e0b9a) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

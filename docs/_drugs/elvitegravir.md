@@ -57,7 +57,7 @@ Ramalan ini masih pada tahap model sahaja (tahap bukti L5).
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan asal tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, elvitegravir tergolong dalam kelas perencat pemindahan untai integrase (INSTI) yang menyasarkan enzim integrase retrovirus, dan mekanismenya mungkin boleh digunakan untuk virus yang berkaitan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate (ubat gabungan yang mengandungi Elvitegravir) (terjemahan tidak rasmi): “STRIBILD ialah kombinasi dos tetap ubat antiretrovirus elvitegravir (dirangsang oleh perencat CYP3A cobicistat), emtricitabine dan TDF.” Teks asal bahasa Inggeris: "STRIBILD is a fixed-dose combination of antiretroviral drugs elvitegravir (boosted by the CYP3A inhibitor cobicistat), emtricitabine, and TDF." ([DailyMed: Stribild (elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74ae2a93-b267-444c-8f0f-a2a6522260ee), versi 2025-02-04; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, elvitegravir tergolong dalam kelas perencat pemindahan untai integrase (INSTI) yang menyasarkan enzim integrase retrovirus, dan mekanismenya mungkin boleh digunakan untuk virus yang berkaitan.
 
 Virus imunodefisiensi kucing (FIV) ialah lentivirus yang berkait dengan HIV-1 dan juga mengekodkan enzim integrase. Secara analogi kelas, aktiviti terhadap integrase FIV adalah munasabah. Namun, jujukan integrase FIV berbeza daripada HIV-1, jadi kerentanan tidak boleh diandaikan.
 
@@ -101,6 +101,19 @@ Antasid dan suplemen yang mengandungi kation polivalen (zink, magnesium, alumini
 - Kajian in vitro tentang kerentanan integrase FIV terhadap elvitegravir
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Pengesahan sama ada penggunaan veterinar berada dalam skop penilaian ini
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Stribild (elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74ae2a93-b267-444c-8f0f-a2a6522260ee) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

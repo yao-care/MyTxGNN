@@ -60,14 +60,13 @@ tetapi setakat ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang m
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat sedia ada, loteprednol etabonat ialah kortikosteroid topikal (glukokortikoid) yang telah digunakan untuk keadaan keradangan dan alergi pada mata. Secara mekanistik, ia mungkin boleh digunakan untuk konjunktivitis folikular kronik.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Loteprednol Etabonate (terjemahan tidak rasmi): “Loteprednol etabonate ialah kortikosteroid. Kortikosteroid telah terbukti merencat tindak balas keradangan terhadap pelbagai agen pencetus. Kortikosteroid merencat edema, pemendapan fibrin, pelebaran kapilari, penghijrahan leukosit, proliferasi kapilari, proliferasi fibroblas, pemendapan kolagen dan pembentukan parut yang berkaitan dengan keradangan.” Teks asal bahasa Inggeris: "Loteprednol etabonate is a corticosteroid. Corticosteroids have been shown to inhibit the inflammatory response to a variety of inciting agents. They inhibit the edema, fibrin deposition, capillary dilation, leukocyte migration, capillary proliferation, fibroblast proliferation, deposition of collagen, and scar formation associated with inflammation." ([DailyMed: Lotemax Sm (loteprednol etabonate) prescribing information, Bausch & Lomb Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f9477b5-699f-4d3b-b9a6-0cc238266237), versi 2026-03-31; diakses 2026-11-19). Berdasarkan maklumat sedia ada, loteprednol etabonat ialah kortikosteroid topikal (glukokortikoid) yang telah digunakan untuk keadaan keradangan dan alergi pada mata. Secara mekanistik, ia mungkin boleh digunakan untuk konjunktivitis folikular kronik.
 
 Indikasi asal merangkumi beberapa bentuk konjunktivitis keradangan dan alergi (atopik, vernal, papilari). Konjunktivitis folikular kronik juga melibatkan keradangan permukaan mata, jadi kesan anti-radang glukokortikoid secara teorinya boleh mengurangkan keradangan folikular pada konjunktiva.
 
 Namun, ini baru hipotesis. Tiada percubaan klinikal atau penerbitan yang menyokongnya dalam data yang dikumpulkan.
 
 ### Indikasi Lain yang Diramalkan
-
 
 | Kedudukan | Indikasi Diramalkan | Skor | Syor Awal | Ringkasan |
 |------|------|------|------|------|
@@ -131,6 +130,19 @@ Untuk amaran utama dan kontraindikasi daripada label produk, sila rujuk risalah 
 - Penyaringan etiologi (menyisih jangkitan virus, parasit, bakteria atau kulat) sebelum penggunaan steroid
 - Pelan pemantauan tekanan intraokular dan glaukoma
 - Pengesahan laluan dan formulasi yang sesuai serta status pendaftaran di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lotemax Sm (loteprednol etabonate) prescribing information, Bausch & Lomb Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f9477b5-699f-4d3b-b9a6-0cc238266237) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

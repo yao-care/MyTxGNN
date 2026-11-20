@@ -58,7 +58,7 @@ Asid mefenamik ialah ubat antiradang bukan steroid (NSAID) yang menghalang sinte
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asid mefenamik tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, ia dikenali sebagai perencat sintesis dan tindakan prostaglandin.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Mefenamic Acid (terjemahan tidak rasmi): “Asid mefenamik mempunyai sifat analgesik, antiradang dan antipiretik. Mekanisme tindakan asid mefenamik, seperti NSAID lain, tidak difahami sepenuhnya tetapi melibatkan perencatan siklooksigenase (COX-1 dan COX-2).” Teks asal bahasa Inggeris: "Mefenamic acid has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of mefenamic acid, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: mefenamic acid prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d15733a9-d5fd-4d5f-86ce-e7ed8c706c7f), versi 2026-04-20; diakses 2026-11-19). Walau bagaimanapun, ia dikenali sebagai perencat sintesis dan tindakan prostaglandin.
 
 Prostaglandin menyumbang kepada keradangan neurogenik dan sensitisasi kesakitan yang terlibat dalam sakit kepala. Perencatan sintesisnya boleh mengurangkan proses ini. Percubaan buta-ganda dalam migrain (berbanding asetaminofen, serta berbanding propranolol dan plasebo) menyokong mekanisme ini.
 
@@ -109,6 +109,18 @@ Beberapa percubaan buta-ganda kecil menunjukkan asid mefenamik berguna dalam mig
 - Data mekanisme tindakan terperinci
 - Percubaan terkawal yang lebih besar, sebaik-baiknya fasa 3, dalam migrain
 - Pelan pemantauan: kursus perimenstrual yang singkat, serta pemantauan risiko gastrousus, buah pinggang dan sakit kepala akibat penggunaan ubat berlebihan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: mefenamic acid prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d15733a9-d5fd-4d5f-86ce-e7ed8c706c7f) |
+
+<!-- review:end log -->
 
 ## Penafian
 

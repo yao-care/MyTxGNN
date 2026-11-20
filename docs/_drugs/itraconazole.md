@@ -60,7 +60,7 @@ namun data yang dikumpulkan untuk laporan ini mencatatkan **0 percubaan klinikal
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Itraconazole ialah antikulat azol yang merencat enzim sitokrom P450 14-alfa-demetilase (CYP51) kulat, lalu menghalang sintesis ergosterol dalam membran sel kulat. Data terperinci tentang mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini, jadi penerangan di atas berdasarkan pengetahuan farmakologi am.
+Itraconazole ialah antikulat azol yang merencat enzim sitokrom P450 14-alfa-demetilase (CYP51) kulat, lalu menghalang sintesis ergosterol dalam membran sel kulat. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Itraconazole (terjemahan tidak rasmi): “Kajian in vitro telah menunjukkan bahawa itraconazole merencat sintesis ergosterol yang bergantung pada sitokrom P450, iaitu komponen penting membran sel kulat.” Teks asal bahasa Inggeris: "In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes." ([DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0), versi 2026-07-13; diakses 2026-11-19).
 
 Skor TxGNN yang tinggi (0.9934) berkemungkinan didorong oleh kedekatan rangkaian dengan jangkitan kulat dan jangkitan oportunistik lain (histoplasmosis, aspergillosis, kandidiasis), dan bukan oleh mekanisme yang telah disahkan. *Pneumocystis jirovecii* tidak mempunyai ergosterol dalam membran selnya dan menggunakan kolesterol, maka sasaran utama azol tidak jelas bagi organisma ini.
 
@@ -105,6 +105,19 @@ Senarai berikut dipilih mengikut keutamaan: RCT > ulasan > laporan kes. Kebanyak
 - Data mekanisme tindakan (MOA) yang lengkap daripada DrugBank
 - Pengesahan status pendaftaran dan sumber bekalan di Malaysia, termasuk sisipan pakej NPRA
 - Penilaian keselamatan sebelum sebarang pertimbangan lanjut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

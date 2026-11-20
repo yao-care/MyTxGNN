@@ -60,7 +60,7 @@ Secara umum, ramalan ini hanyalah ramalan model komputer (tahap bukti L5).
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan am, isosorbide mononitrate ialah penderma NO yang meningkatkan cGMP dan menyebabkan pelebaran saluran darah.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Isosorbide Mononitrate (terjemahan tidak rasmi): “Tablet pelepasan lanjutan isosorbide mononitrate ialah formulasi oral pelepasan lanjutan ISMN, iaitu metabolit aktif utama isosorbide dinitrate; kebanyakan aktiviti klinikal dinitrat disebabkan oleh mononitrat. Tindakan farmakologi utama ISMN dan semua nitrat organik secara amnya ialah pengenduran otot licin vaskular, yang menghasilkan pelebaran arteri dan vena periferi, terutamanya vena.” Teks asal bahasa Inggeris: "Isosorbide mononitrate extended-release tablet are an oral extended-release formulation of ISMN, the major active metabolite of isosorbide dinitrate; most of the clinical activity of the dinitrate is attributable to the mononitrate. The principal pharmacological action of ISMN and all organic nitrates in general is relaxation of vascular smooth muscle, producing dilatation of peripheral arteries and veins, especially the latter." ([DailyMed: isosorbide mononitrate prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=86be0e85-5337-bee4-e053-2a91aa0a8158), versi 2026-11-10; diakses 2026-11-19). Berdasarkan pengetahuan am, isosorbide mononitrate ialah penderma NO yang meningkatkan cGMP dan menyebabkan pelebaran saluran darah.
 
 Tiada mekanisme mantap yang menghubungkan ubat ini dengan hipertrikosis. Satu hipotesis spekulatif ialah pelebaran saluran darah boleh mempengaruhi aliran darah di sekitar folikel rambut, serupa dengan profil vasodilator minoxidil. Namun, tiada data sokongan, dan skor tinggi model ini harus dianggap sebagai ramalan pengiraan semata-mata.
 
@@ -117,6 +117,19 @@ Sila rujuk risalah pek untuk maklumat keselamatan lengkap, kerana amaran dan kon
 - Data indikasi asal dan status pendaftaran tempatan yang jelas
 - Bukti praklinikal atau klinikal langsung bagi ubat ini pada indikasi yang diramal
 - Untuk PAH: kajian khusus mengenai kesan hemodinamik, toleransi nitrat dan risiko hipotensi, termasuk strategi mengelakkan penggunaan bersama perencat PDE5
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: isosorbide mononitrate prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=86be0e85-5337-bee4-e053-2a91aa0a8158) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

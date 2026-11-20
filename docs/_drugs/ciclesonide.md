@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Ekzema atopik (atopic eczema)
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Namun, ciclesonide ialah kortikosteroid yang disedut dan diaktifkan menjadi des-ciclesonide, yang bertindak pada reseptor glukokortikoid dengan kesan anti-radang yang luas.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ciclesonide (terjemahan tidak rasmi): “Ciclesonide ialah prodrug yang dihidrolisis secara enzimatik kepada metabolit aktif secara farmakologi, C21-desisobutyryl-ciclesonide (des-ciclesonide atau RM1) selepas penyedutan oral. Des-ciclesonide mempunyai aktiviti antiradang dengan afiniti terhadap reseptor glukokortikoid yang 120 kali lebih besar daripada sebatian induk dan 12 kali lebih besar daripada dexamethasone.” Teks asal bahasa Inggeris: "Ciclesonide is a prodrug that is enzymatically hydrolyzed to a pharmacologically active metabolite, C21-desisobutyryl-ciclesonide (des-ciclesonide or RM1) following oral inhalation. Des-ciclesonide has anti-inflammatory activity with affinity for glucocorticoid receptors that is 120 times greater than the parent compound and 12 times greater than dexamethasone." ([DailyMed: Alvesco (ciclesonide) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6112fb-78ef-43cf-8ae3-36370eb45468), versi 2025-02-28; diakses 2026-11-19). Namun, ciclesonide ialah kortikosteroid yang disedut dan diaktifkan menjadi des-ciclesonide, yang bertindak pada reseptor glukokortikoid dengan kesan anti-radang yang luas.
 
 Dari segi biologi, ini munasabah untuk ekzema atopik, kerana kortikosteroid topikal ialah terapi piawai bagi keadaan tersebut. Kesan anti-radang yang menekan tindak balas imun akan selari dengan keperluan rawatan penyakit kulit radang ini.
 
@@ -114,6 +114,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah pek (package insert).
 - Penilaian kesesuaian laluan pemberian (formulasi disedut berbanding keperluan topikal)
 - Pemerolehan dan penghuraian risalah pek NPRA untuk amaran dan kontraindikasi
 - Penggabungan entri "atopic eczema" dan "dermatitis, atopic" untuk mengelakkan pertindihan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Alvesco (ciclesonide) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6112fb-78ef-43cf-8ae3-36370eb45468) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

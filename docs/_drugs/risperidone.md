@@ -54,7 +54,7 @@ Risperidone ialah ubat antipsikotik yang dikaitkan dengan skizofrenia, gangguan 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, risperidone diketahui bertindak sebagai antagonis reseptor dopamin D2 dan serotonin 5-HT2A, dan sifat ini mendasari penggunaannya dalam gangguan psikiatri.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Risperidone (terjemahan tidak rasmi): “Mekanisme tindakan risperidon dalam skizofrenia tidak jelas. Aktiviti terapeutik ubat ini dalam skizofrenia mungkin diperantarakan melalui gabungan antagonisme reseptor dopamina Jenis 2 (D 2 ) dan serotonin Jenis 2 (5HT 2 ).” Teks asal bahasa Inggeris: "The mechanism of action of risperidone in schizophrenia is unclear. The drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D 2 ) and serotonin Type 2 (5HT 2 ) receptor antagonism." ([DailyMed: Risperdal (risperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e117c7e-02fc-4343-92a1-230061dfc5e0), versi 2026-10-23; diakses 2026-11-19). Secara umum, risperidone diketahui bertindak sebagai antagonis reseptor dopamin D2 dan serotonin 5-HT2A, dan sifat ini mendasari penggunaannya dalam gangguan psikiatri.
 
 Penyakit yang diramalkan ialah gangguan yang sangat jarang berlaku, berkaitan dengan gangguan panduan akson (gen ROBO3). Tiada hubungan mekanistik yang munasabah dapat ditunjukkan antara penyakit ini dengan antagonisme D2/5-HT2A risperidone. Skor yang sangat tinggi (0.9976) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Ramalan ini perlu dianggap sebagai hipotesis yang belum disokong.
 
@@ -103,6 +103,19 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej produk.
 
 **Calon ramalan lain untuk risperidone** (data yang dikumpulkan untuk laporan ini):
 - **Trikotilomania** dan **sindrom Phelan-McDermid** hanya mempunyai bukti peringkat awal (L4: laporan kes, siri kes dan kajian praklinikal ikan zebra) dan dikategorikan sebagai soalan penyelidikan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Risperdal (risperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e117c7e-02fc-4343-92a1-230061dfc5e0) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

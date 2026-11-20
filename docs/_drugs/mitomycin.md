@@ -56,7 +56,7 @@ tetapi data yang dikumpulkan untuk laporan ini **tidak mempunyai sebarang kajian
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, mitomycin ialah agen pengalkil yang memaut silang DNA dan menghalang replikasi sel tumor. Mekanisme sitotoksik ini secara teori boleh terpakai kepada neoplasma epitelium pankreas yang berkaitan.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Mitomycin (terjemahan tidak rasmi): “Mitomisin secara selektif merencat sintesis asid deoksiribonukleik (DNA). Kandungan guanina dan sitosina berkorelasi dengan tahap paut silang yang diaruh oleh mitomisin. Pada kepekatan ubat yang tinggi, sintesis RNA dan protein sel juga ditindas.” Teks asal bahasa Inggeris: "Mitomycin selectively inhibits the synthesis of deoxyribonucleic acid (DNA). The guanine and cytosine content correlates with the degree of mitomycin-induced cross-linking. At high concentrations of the drug, cellular RNA and protein synthesis are also suppressed." ([DailyMed: Mutamycin (mitomycin) prescribing information, Accord BioPharma Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbf0f6ba-3a53-4791-9a85-5c6b271eeb8e), versi 2025-03-12; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, mitomycin ialah agen pengalkil yang memaut silang DNA dan menghalang replikasi sel tumor. Mekanisme sitotoksik ini secara teori boleh terpakai kepada neoplasma epitelium pankreas yang berkaitan.
 
 Namun, mekanisme ini tidak khusus kepada histologi tertentu. Neoplasma pseudopapilari pepejal biasanya bersifat lembap (indolen) dan lazimnya dirawat melalui pembedahan. Tiada percubaan klinikal atau literatur yang menyokong manfaat kemoterapi bagi penyakit ini, maka kemunasabahan ramalan ini kekal bersifat inferens.
 
@@ -102,6 +102,18 @@ Ramalan ini bersandarkan skor model sahaja (L5) tanpa sebarang percubaan klinika
 - Amaran dan kontraindikasi daripada sisipan pek NPRA
 - Bukti klinikal atau siri kes yang mengkaji kemoterapi dalam penyakit ini
 - Penilaian keselamatan untuk pesakit dengan masalah buah pinggang, gangguan darah atau kegagalan jantung
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Mutamycin (mitomycin) prescribing information, Accord BioPharma Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbf0f6ba-3a53-4791-9a85-5c6b271eeb8e) |
+
+<!-- review:end log -->
 
 ## Penafian
 

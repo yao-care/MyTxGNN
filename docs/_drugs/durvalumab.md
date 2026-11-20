@@ -62,7 +62,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **karsinoma endoserviks**, deng
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat sedia ada, durvalumab ialah perencat PD-L1 yang memulihkan aktiviti sel T terhadap tumor. Secara umum, kanser serviks sering menunjukkan ekspresi PD-L1 dan bersifat imunogenik kerana dikaitkan dengan jangkitan HPV, yang menyokong rasional perencatan pusat semak imun.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Durvalumab (terjemahan tidak rasmi): “Ekspresi ligan-1 kematian sel terprogram (PD-L1) boleh diaruh oleh isyarat keradangan (cth., IFN-gamma) dan boleh diekspresikan pada kedua-dua sel tumor dan sel imun berkaitan tumor dalam persekitaran mikro tumor. PD-L1 menyekat fungsi dan pengaktifan sel T melalui interaksi dengan PD-1 dan CD80 (B7.1). […] Durvalumab ialah antibodi monoklonal imunoglobulin G1 kappa (IgG1κ) manusia yang terikat kepada PD-L1 dan menyekat interaksi PD-L1 dengan PD-1 dan CD80 (B7.1).” Teks asal bahasa Inggeris: "Expression of programmed cell death ligand-1 (PD-L1) can be induced by inflammatory signals (e.g., IFN-gamma) and can be expressed on both tumor cells and tumor-associated immune cells in the tumor microenvironment. PD-L1 blocks T-cell function and activation through interaction with PD-1 and CD80 (B7.1). […] Durvalumab is a human immunoglobulin G1 kappa (IgG1κ) monoclonal antibody that binds to PD-L1 and blocks the interaction of PD-L1 with PD-1 and CD80 (B7.1)." ([DailyMed: Imfinzi (durvalumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3), versi 2026-08-31; diakses 2026-11-19). Berdasarkan maklumat sedia ada, durvalumab ialah perencat PD-L1 yang memulihkan aktiviti sel T terhadap tumor. Secara umum, kanser serviks sering menunjukkan ekspresi PD-L1 dan bersifat imunogenik kerana dikaitkan dengan jangkitan HPV, yang menyokong rasional perencatan pusat semak imun.
 
 Radioterapi juga boleh mencetuskan kematian sel imunogenik dan mungkin bersinergi dengan sekatan PD-L1. Namun, ini ialah rasional tersirat dan belum terbukti untuk karsinoma endoserviks. Indikasi asal (karsinoma sel peralihan) ialah tumor pepejal yang berbeza dari segi organ, jadi perkaitan hanya bersifat mekanistik umum, iaitu tumor yang mungkin bergantung pada laluan PD-1/PD-L1.
 
@@ -120,6 +120,19 @@ Untuk amaran dan kontraindikasi, sila rujuk risalah pakej.
 - Data keberkesanan daripada percubaan Fasa 2/3 yang menyasarkan karsinoma endoserviks atau kanser serviks secara langsung
 - Data ekspresi PD-L1 bagi histologi yang diramalkan
 - Teks indikasi diluluskan pada lesen tempatan untuk mengesahkan status penggunaan sedia ada
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Imfinzi (durvalumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

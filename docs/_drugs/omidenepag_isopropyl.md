@@ -60,7 +60,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Omidenepag isopropil ialah prodrug. Metabolit aktifnya, omidenepag, ialah agonis reseptor EP2 selektif yang meningkatkan cAMP. Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Omidenepag isopropil ialah prodrug. Metabolit aktifnya, omidenepag, ialah agonis reseptor EP2 selektif yang meningkatkan cAMP. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Omidenepag Isopropyl (terjemahan tidak rasmi): “Omidenepag ialah agonis reseptor EP2 yang agak selektif yang menurunkan tekanan intraokular (IOP). Mekanisme tindakan yang tepat tidak diketahui pada masa ini. IOP yang meningkat merupakan faktor risiko utama bagi kehilangan medan penglihatan glaukomatus.” Teks asal bahasa Inggeris: "Omidenepag is a relatively selective EP2 receptor agonist which decreases intraocular pressure (IOP). The exact mechanism of action is unknown at this time. Elevated IOP represents a major risk factor for glaucomatous field loss." ([DailyMed: Omlonti (omidenepag isopropyl) prescribing information, Ocuvex Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4258e437-7e92-4b09-baf1-01cb158cfc05), versi 2025-04-21; diakses 2026-11-19).
 
 Tiada hubungan mekanistik langsung antara agonis EP2 dengan pankreatitis ditunjukkan dalam data yang ada. Satu hipotesis spekulatif ialah modulasi keradangan melalui EP2/cAMP, tetapi ini tidak disokong oleh bukti dalam data ini. Skor TxGNN yang tinggi (0.9976) ialah ramalan pengiraan sahaja dan mungkin mencerminkan artifak rangkaian pengetahuan dan bukannya biologi sebenar. Persamaan dengan indikasi asal masih belum dinilai.
 
@@ -103,6 +103,19 @@ Tiada data interaksi ubat ditemui untuk ubat ini dalam data yang dikumpulkan.
 - Kajian praklinikal atau semakan literatur untuk menilai peranan EP2/cAMP dalam pankreatitis
 - Penilaian kesesuaian laluan pentadbiran (titisan mata topikal berbanding laluan sistemik yang mungkin diperlukan)
 - Penilaian sama ada ubat ini akan didaftarkan atau diperoleh di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Omlonti (omidenepag isopropyl) prescribing information, Ocuvex Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4258e437-7e92-4b09-baf1-01cb158cfc05) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -56,7 +56,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **konjunktivitis rosasea (rosac
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, diphenhydramine ialah antagonis (agonis songsang) reseptor H1 generasi pertama dengan sifat antikolinergik. Hubungan yang munasabah ialah melegakan gejala gatal mata dan hiperemia yang dicetuskan histamin pada konjunktivitis yang mempunyai komponen keradangan atau alahan.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Diphenhydramine Hcl (terjemahan tidak rasmi): “Difenhidramin hidroklorida ialah antihistamin dengan kesan sampingan antikolinergik (mengeringkan) dan sedatif. Antihistamin kelihatan bersaing dengan histamin untuk tapak reseptor sel pada sel efektor. Difenhidramin hidroklorida dalam bentuk suntikan mempunyai mula tindakan yang cepat.” Teks asal bahasa Inggeris: "Diphenhydramine hydrochloride is an antihistamine with anticholinergic (drying) and sedative side effects. Antihistamines appear to compete with histamine for cell receptor sites on effector cells. Diphenhydramine hydrochloride in the injectable form has a rapid onset of action." ([DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4), versi 2026-10-28; diakses 2026-11-19). Secara umum, diphenhydramine ialah antagonis (agonis songsang) reseptor H1 generasi pertama dengan sifat antikolinergik. Hubungan yang munasabah ialah melegakan gejala gatal mata dan hiperemia yang dicetuskan histamin pada konjunktivitis yang mempunyai komponen keradangan atau alahan.
 
 Namun, hubungan ini lemah. Rosasea okular terutamanya didorong oleh disfungsi kelenjar meibom, ketidakstabilan lapisan air mata, kolonisasi *Demodex* dan laluan keradangan imun semula jadi. Sekatan histamin bukan rawatan yang mantap untuk faktor-faktor ini. Antihistamin generasi pertama yang bersifat antikolinergik, terutamanya secara oral atau sistemik, juga boleh memburukkan mata kering yang lazim dalam rosasea okular, jadi kesan bersihnya mungkin memudaratkan. Skor 0,9920 ialah ramalan pengiraan, bukan bukti klinikal.
 
@@ -99,6 +99,19 @@ Ramalan ini hanya disokong oleh skor model (0,9920) tanpa sebarang percubaan kli
 - Kajian praklinikal atau klinikal yang menilai antihistamin dalam konjunktivitis rosasea
 - Penilaian kesan antikolinergik terhadap mata kering pada pesakit rosasea okular
 - Pertimbangan laluan pemberian (contohnya titisan mata topikal berbanding sistemik), yang belum ditentukan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

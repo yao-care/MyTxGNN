@@ -54,7 +54,7 @@ Progesterone ialah hormon steroid progestogen yang telah dipasarkan di Malaysia 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Namun, penyakit fibrosistik payudara dikenali sebagai keadaan yang responsif terhadap hormon. Kajian lama (PMID 3511705) menyatakan patofisiologinya berkait dengan dominasi estrogen dan kekurangan progesterone, manakala kajian nisbah estradiol/progesterone pada fasa luteal lewat (PMID 31168213) mengkaji hubungan ini pada 50 wanita dengan penyakit tersebut berbanding 40 kawalan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Progesterone (terjemahan tidak rasmi): “Progesterone ialah steroid semula jadi yang dirembeskan oleh ovari, plasenta dan kelenjar adrenal. Dengan kehadiran estrogen yang mencukupi, progesterone mengubah endometrium proliferatif kepada endometrium sekretori.” Teks asal bahasa Inggeris: "Progesterone is a naturally occurring steroid that is secreted by the ovary, placenta, and adrenal gland. In the presence of adequate estrogen, progesterone transforms a proliferative endometrium into a secretory endometrium." ([DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1), versi 2026-10-05; diakses 2026-11-19). Namun, penyakit fibrosistik payudara dikenali sebagai keadaan yang responsif terhadap hormon. Kajian lama (PMID 3511705) menyatakan patofisiologinya berkait dengan dominasi estrogen dan kekurangan progesterone, manakala kajian nisbah estradiol/progesterone pada fasa luteal lewat (PMID 31168213) mengkaji hubungan ini pada 50 wanita dengan penyakit tersebut berbanding 40 kawalan.
 
 Kajian histohormon dan imunohistokimia reseptor turut menunjukkan reseptor estrogen dan progesterone wujud dalam sebahagian lesi payudara jinak. Ini memberi asas biologi bahawa penggantian atau pelarasan isyarat progesterone mungkin relevan. Walau bagaimanapun, ia masih hipotesis: penerbitan yang ditemui bersifat endokrinologi dan mekanistik, bukan ujian rawatan progesterone, dan hubungan pendedahan progestogen dengan risiko kanser payudara masih tidak pasti.
 
@@ -110,6 +110,18 @@ Terdapat asas biologi yang munasabah (hubungan hormon dan reseptor), tetapi tiad
 - Maklumat amaran dan kontraindikasi daripada risalah pek NPRA
 - Penilaian risiko kanser payudara dan pelan pemantauan keselamatan
 - Penentuan laluan pemberian (contohnya topikal atau oral) yang sesuai untuk payudara
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1) |
+
+<!-- review:end log -->
 
 ## Penafian
 

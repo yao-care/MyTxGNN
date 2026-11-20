@@ -62,7 +62,7 @@ Nota: Indikasi baharu dipilih daripada ramalan berpangkat ketiga kerana dua rama
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, lactulose ialah disakarida sintetik yang tidak diserap; ia diurai oleh bakteria kolon, menurunkan pH kolon dan mengurangkan beban toksin berasal usus, dan keberkesanannya dalam ensefalopati hepar telah dibuktikan. Secara mekanistik, ia mungkin boleh digunakan untuk penyakit kuning obstruktif.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Lactulose (terjemahan tidak rasmi): “Laktulosa menyebabkan penurunan kepekatan ammonia darah dan mengurangkan tahap ensefalopati portosistemik. Tindakan ini dianggap sebagai hasil daripada yang berikut: Penguraian laktulosa oleh bakteria dalam kolon mengasidkan kandungan kolon.” Teks asal bahasa Inggeris: "Lactulose causes a decrease in blood ammonia concentration and reduces the degree of portalsystemic encephalopathy. These actions are considered to be results of the following: Bacterial degradation of lactulose in the colon acidifies the colonic contents." ([DailyMed: Enulose (lactulose) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa3aae7c-6f98-4fbb-85dc-32affe9874d5), versi 2024-12-18; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, lactulose ialah disakarida sintetik yang tidak diserap; ia diurai oleh bakteria kolon, menurunkan pH kolon dan mengurangkan beban toksin berasal usus, dan keberkesanannya dalam ensefalopati hepar telah dibuktikan. Secara mekanistik, ia mungkin boleh digunakan untuk penyakit kuning obstruktif.
 
 Dalam penyakit kuning obstruktif, ketiadaan garam hempedu dalam usus menyebabkan kerosakan benteng usus, translokasi bakteria dan endotoksemia. Keadaan ini menyumbang kepada disfungsi buah pinggang selepas pembedahan dan kecederaan hati. Lactulose dihipotesiskan dapat mengurangkan beban endotoksin daripada usus, memperbaik fungsi benteng usus dan menurunkan endotoksemia.
 
@@ -97,7 +97,6 @@ Berikut ialah penerbitan yang paling relevan (tahap bukti dan jenis kajian mengi
 
 ## Maklumat Pasaran di Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -122,6 +121,19 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej, serta data pendaftaran NPRA.
 - Penilaian keserasian laluan pemberian dan formulasi yang tersedia di Malaysia.
 - Ujian klinikal moden yang direka dengan baik, jika hendak diteruskan sebagai soalan penyelidikan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Enulose (lactulose) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa3aae7c-6f98-4fbb-85dc-32affe9874d5) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

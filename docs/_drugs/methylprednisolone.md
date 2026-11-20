@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, methylprednisolone ialah sebahagian daripada kelas kortikosteroid yang mempunyai kesan anti-radang dan imunosupresif yang mantap, dan secara mekanistik mungkin boleh digunakan untuk alopesia musinosa.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Methylprednisolone (terjemahan tidak rasmi): “Glukokortikoid yang wujud secara semula jadi (hidrokortison dan kortison), yang juga mempunyai sifat menahan garam, digunakan sebagai terapi penggantian dalam keadaan kekurangan adrenokortikal. Analog sintetiknya digunakan terutamanya untuk kesan anti-radang yang poten dalam gangguan pelbagai sistem organ.” Teks asal bahasa Inggeris: "Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states. Their synthetic analogs are primarily used for their potent anti-inflammatory effects in disorders of many organ systems." ([DailyMed: methylprednisolone prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97256c7e-5694-4148-926f-594b9d5c34f4), versi 2026-07-01; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, methylprednisolone ialah sebahagian daripada kelas kortikosteroid yang mempunyai kesan anti-radang dan imunosupresif yang mantap, dan secara mekanistik mungkin boleh digunakan untuk alopesia musinosa.
 
 Alopesia musinosa ialah keadaan kulit yang disertai infiltrat radang di sekitar folikel rambut. Oleh sebab itu, aktiviti anti-radang kortikosteroid secara teorinya boleh relevan. Namun, hujah ini bersifat spekulatif dan tidak disokong oleh sebarang bukti klinikal atau kajian yang diperoleh dalam data yang dikumpulkan untuk laporan ini.
 
@@ -99,6 +99,18 @@ Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau l
 - Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan
 - Kajian pra-klinikal, siri kes atau percubaan klinikal yang mengkaji alopesia musinosa secara langsung
 - Penilaian kesesuaian laluan pentadbiran (contohnya topikal atau intralesi berbanding sistemik)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: methylprednisolone prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97256c7e-5694-4148-926f-594b9d5c34f4) |
+
+<!-- review:end log -->
 
 ## Penafian
 

@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, leflunomide telah terbukti berkesan dalam artritis reumatoid dan artritis psoriatik. Secara umum, ia diketahui merencat enzim dihidroorotat dehidrogenase (DHODH) dan menyekat sintesis pirimidina dalam limfosit yang berpercambah, tetapi maklumat ini datang dari luar data yang dikumpulkan dan perlu disahkan melalui sumber primer.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Leflunomide (terjemahan tidak rasmi): “Leflunomide ialah agen imunomodulator isoksazol yang merencat dihidroorotat dehidrogenase (enzim mitokondria yang terlibat dalam sintesis pirimidina de novo) dan mempunyai aktiviti antiproliferatif. Beberapa model eksperimen in vivo dan in vitro telah menunjukkan kesan antiradang.” Teks asal bahasa Inggeris: "Leflunomide is an isoxazole immunomodulatory agent that inhibits dihydroorotate dehydrogenase (a mitochondrial enzyme involved in de novo pyrimidine synthesis) and has antiproliferative activity. Several in vivo and in vitro experimental models have demonstrated an anti-inflammatory effect." ([DailyMed: Arava (leflunomide) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=320f63f2-fac3-4aee-aff8-85724e00ef52), versi 2025-06-04; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, leflunomide telah terbukti berkesan dalam artritis reumatoid dan artritis psoriatik. Secara umum, ia diketahui merencat enzim dihidroorotat dehidrogenase (DHODH) dan menyekat sintesis pirimidina dalam limfosit yang berpercambah, tetapi maklumat ini datang dari luar data yang dikumpulkan dan perlu disahkan melalui sumber primer.
 
 Tiada hubungan mekanistik antara leflunomide dengan laluan pembentukan anggota badan dalam sindrom brakidaktili-sindaktili dapat dibuktikan daripada data yang ada. Skor TxGNN (0.9993) ialah ramalan komputasi semata-mata dan tidak disokong oleh bukti klinikal atau literatur.
 
@@ -107,11 +107,12 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Arava (leflunomide) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=320f63f2-fac3-4aee-aff8-85724e00ef52) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Terbutaline ialah agonis reseptor beta-2 yang digunakan sebagai bronkodilator. M
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, terbutaline ialah agonis beta-2 yang melegakan bronkospasme boleh balik, dan secara mekanistik mungkin dapat meredakan gejala saluran pernafasan pada anomali saluran udara kongenital.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Terbutaline (terjemahan tidak rasmi): “Kajian farmakologi in vitro dan in vivo telah menunjukkan bahawa terbutalin memberikan kesan keutamaan terhadap reseptor adrenergik beta 2 . Walaupun diakui bahawa reseptor adrenergik beta2 ialah reseptor yang dominan dalam otot licin bronkus, data menunjukkan bahawa terdapat populasi reseptor beta2 dalam jantung manusia, wujud pada kepekatan antara 10% hingga 50%.” Teks asal bahasa Inggeris: "In vitro and in vivo pharmacologic studies have demonstrated that terbutaline exerts a preferential effect on beta 2 -adrenergic receptors. While it is recognized that beta2-adrenergic receptors are the predominant receptors in bronchial smooth muscle, data indicate that there is a population of beta2-receptors in the human heart, existing in a concentration between 10% to 50%." ([DailyMed: terbutaline sulfate prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726), versi 2025-12-10; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, terbutaline ialah agonis beta-2 yang melegakan bronkospasme boleh balik, dan secara mekanistik mungkin dapat meredakan gejala saluran pernafasan pada anomali saluran udara kongenital.
 
 Namun, kesannya hanya bersifat melegakan gejala dan tidak merawat kecacatan struktur itu sendiri. Pautan ramalan ini berkemungkinan didorong oleh hubungan antara istilah penyakit saluran pernafasan, bukan oleh bukti keberkesanan. Terdapat juga kebimbangan mengenai pendedahan terbutaline sebelum kelahiran dan kesan terhadap perkembangan saraf, yang perlu dipertimbangkan dengan teliti.
 
@@ -100,6 +100,18 @@ Ramalan ini hanya berasaskan model. Tiada kajian yang meneliti malformasi pernaf
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Kajian klinikal atau pra-klinikal yang menilai terbutaline secara langsung pada malformasi pernafasan
 - Penilaian keselamatan khusus bagi populasi kanak-kanak dan pendedahan sebelum kelahiran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: terbutaline sulfate prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726) |
+
+<!-- review:end log -->
 
 ## Penafian
 

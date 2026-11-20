@@ -60,7 +60,7 @@ tetapi pada masa ini **tiada percubaan klinikal berdaftar** dan hanya **2 penerb
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, fluticasone furoate ialah agonis reseptor glukokortikoid yang berpotensi tinggi dengan aktiviti anti-radang. Keberkesanannya dalam asma dan rinitis alergik telah dibuktikan, dan secara mekanistik ia mungkin sesuai untuk ekzema atopik.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Fluticasone Furoate (terjemahan tidak rasmi): “Fluticasone furoate ialah kortikosteroid trifluorinasi sintetik dengan aktiviti anti-radang. Fluticasone furoate telah ditunjukkan secara in vitro mempamerkan afiniti pengikatan terhadap reseptor glukokortikoid manusia yang lebih kurang 29.9 kali ganda berbanding dexamethasone dan 1.7 kali ganda berbanding fluticasone propionate.” Teks asal bahasa Inggeris: "Fluticasone furoate is a synthetic trifluorinated corticosteroid with anti-inflammatory activity. Fluticasone furoate has been shown in vitro to exhibit a binding affinity for the human glucocorticoid receptor that is approximately 29.9 times that of dexamethasone and 1.7 times that of fluticasone propionate." ([DailyMed: Fluticasone Furoate Ellipta (fluticasone furoate) prescribing information, Prasco Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d3e797fc-2636-49a0-b89e-5246b18ee440), versi 2025-03-06; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, fluticasone furoate ialah agonis reseptor glukokortikoid yang berpotensi tinggi dengan aktiviti anti-radang. Keberkesanannya dalam asma dan rinitis alergik telah dibuktikan, dan secara mekanistik ia mungkin sesuai untuk ekzema atopik.
 
 Kortikosteroid topikal ialah terapi piawai untuk ekzema atopik, jadi mekanisme anti-radang ini munasabah. Asma, rinitis alergik dan ekzema atopik juga sering wujud bersama sebagai penyakit atopik/alergik.
 
@@ -84,7 +84,6 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -128,6 +127,18 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan yang rasmi.
 | Dermatitis kontak | 0.9946 | L5 | Mekanisme munasabah, tiada bukti. |
 | Dermatitis pekerjaan | 0.9933 | L5 | Mekanisme munasabah, tiada bukti. |
 | Dermatitis fototoksik | 0.9912 | L5 | Pengurusan utama ialah mengelakkan pencetus; tiada bukti. |
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Fluticasone Furoate Ellipta (fluticasone furoate) prescribing information, Prasco Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d3e797fc-2636-49a0-b89e-5246b18ee440) |
+
+<!-- review:end log -->
 
 ## Penafian
 

@@ -58,7 +58,7 @@ Acyclovir ialah ubat antivirus yang digunakan terhadap jangkitan virus herpes. M
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan. Secara umumnya diketahui bahawa acyclovir diaktifkan oleh timidina kinase virus herpes, lalu menghalang DNA polimerase virus tersebut.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Acyclovir (terjemahan tidak rasmi): “Asiklovir ialah analog nukleosida purin sintetik dengan aktiviti perencatan in vitro dan in vivo terhadap virus herpes simpleks jenis 1 (HSV-1), 2 (HSV-2), dan virus varisela-zoster (VZV). Aktiviti perencatan asiklovir sangat selektif disebabkan oleh afinitinya terhadap enzim timidina kinase (TK) yang dikodkan oleh HSV dan VZV.” Teks asal bahasa Inggeris: "Acyclovir is a synthetic purine nucleoside analogue with in vitro and in vivo inhibitory activity against herpes simplex virus types 1 (HSV-1), 2 (HSV-2), and varicella-zoster virus (VZV). The inhibitory activity of acyclovir is highly selective due to its affinity for the enzyme thymidine kinase (TK) encoded by HSV and VZV." ([DailyMed: acyclovir prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=499c6a98-0614-4ded-8526-909942bae8a4), versi 2026-06-26; diakses 2026-11-19). Secara umumnya diketahui bahawa acyclovir diaktifkan oleh timidina kinase virus herpes, lalu menghalang DNA polimerase virus tersebut.
 
 Dua penerbitan yang diperoleh tidak menyokong ramalan ini. Satu ialah siri kes keratokonjunktivitis mikrosporidia, dan satu lagi ialah laporan lipidosis kornea pada pesakit AIDS. Kedua-duanya bukan penyakit herpes, jadi tiada hubungan mekanistik yang disokong oleh bukti. Skor TxGNN yang tinggi nampaknya mencerminkan kedekatan rangkaian dengan penyakit mata herpetik, bukan bukti langsung. Ramalan ini perlu dianggap sebagai hipotesis sahaja.
 
@@ -113,6 +113,19 @@ Tiada ujian klinikal dan tiada kajian yang meneliti penyakit ini secara langsung
 - Data mekanisme tindakan yang terperinci
 - Amaran dan kontraindikasi daripada risalah maklumat produk yang diluluskan oleh NPRA
 - Pertimbangan laluan pentadbiran (oral, intravena, atau topikal untuk mata) kerana produk tempatan kebanyakannya bukan formulasi oftalmik
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: acyclovir prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=499c6a98-0614-4ded-8526-909942bae8a4) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

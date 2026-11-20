@@ -60,7 +60,7 @@ Setakat ini terdapat **2 ujian klinikal Fasa 3** dan **3 penerbitan** yang dikai
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, dexlansoprazole tergolong dalam kelas perencat pam proton (H+/K+ ATPase) yang menyekat rembesan asid gastrik. Keberkesanannya dalam penyakit berkaitan asid telah dibuktikan, dan secara mekanisme ia boleh digunakan untuk penyembuhan ulser.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Dexlansoprazole (terjemahan tidak rasmi): “Dexlansoprazole tergolong dalam satu kelas sebatian antisekretori, iaitu benzimidazol tertukar ganti, yang menyekat rembesan asid gastrik melalui perencatan spesifik (H +, K + )-ATPase pada permukaan rembesan sel parietal gastrik. Oleh sebab enzim ini dianggap sebagai pam asid (proton) dalam sel parietal, dexlansoprazole telah dicirikan sebagai perencat pam proton gastrik, kerana ia menyekat langkah terakhir penghasilan asid.” Teks asal bahasa Inggeris: "Dexlansoprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the (H +, K + )-ATPase at the secretory surface of the gastric parietal cell. Because this enzyme is regarded as the acid (proton) pump within the parietal cell, dexlansoprazole has been characterized as a gastric proton-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Dexlansoprazole Delayed Release (dexlansoprazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55c550b4-eb8b-4e69-9c09-fa5125a52e65), versi 2026-11-04; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, dexlansoprazole tergolong dalam kelas perencat pam proton (H+/K+ ATPase) yang menyekat rembesan asid gastrik. Keberkesanannya dalam penyakit berkaitan asid telah dibuktikan, dan secara mekanisme ia boleh digunakan untuk penyembuhan ulser.
 
 Oleh itu, ramalan ini lebih tepat difahami sebagai pengesahan indikasi sedia ada, bukan penemuan indikasi baharu.
 
@@ -142,12 +142,13 @@ Ramalan lain dalam kedudukan teratas kebanyakannya berbukti lemah:
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Dexlansoprazole juga tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-05 | Dipadam: "(tiada pendaftaran NPRA pada masa ini)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Dexlansoprazole Delayed Release (dexlansoprazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55c550b4-eb8b-4e69-9c09-fa5125a52e65) |
 
 <!-- review:end log -->
 

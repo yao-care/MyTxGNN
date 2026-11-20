@@ -60,7 +60,7 @@ Pretomanid ialah ubat antimikobakteria daripada kelas nitroimidazooksazin, yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan umum, pretomanid ialah nitroimidazooksazin yang aktif terhadap *Mycobacterium tuberculosis* melalui perencatan sintesis asid mikolik dinding sel dan pembebasan nitrik oksida dalam keadaan anaerobik.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Pretomanid (terjemahan tidak rasmi): “Pretomanid ialah ubat antimikobakteria nitroimidazooksazina. […] Tablet Pretomanid ialah ubat antimikobakteria nitroimidazooksazina. Pretomanid membunuh M. tuberculosis yang sedang aktif bereplikasi dengan merencatkan biosintesis asid mikolik, sekali gus menyekat penghasilan dinding sel. Dalam keadaan anaerobik, terhadap bakteria yang tidak bereplikasi, pretomanid bertindak sebagai racun pernafasan berikutan pelepasan nitrik oksida.” Teks asal bahasa Inggeris: "Pretomanid is a nitroimidazooxazine antimycobacterial drug. […] Pretomanid Tablet is a nitroimidazooxazine antimycobacterial drug. Pretomanid kills actively replicating M. tuberculosis by inhibiting mycolic acid biosynthesis, thereby blocking cell wall production. Under anaerobic conditions, against non-replicating bacteria, pretomanid acts as a respiratory poison following nitric oxide release." ([DailyMed: pretomanid prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1906fc9-cb3c-4e13-8a4a-da76100c1bf3), versi 2024-11-15; diakses 2026-11-19). Berdasarkan pengetahuan umum, pretomanid ialah nitroimidazooksazin yang aktif terhadap *Mycobacterium tuberculosis* melalui perencatan sintesis asid mikolik dinding sel dan pembebasan nitrik oksida dalam keadaan anaerobik.
 
 Aktiviti antikulat terhadap *Candida* tidak dapat dibuktikan. Tiada hubungan mekanistik yang disokong oleh data yang ada. Skor 0.9969 datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Ramalan ini perlu dilayan dengan berhati-hati.
 
@@ -145,11 +145,12 @@ Antara semuanya, kusta mempunyai rasional biologi yang paling munasabah, tetapi 
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: pretomanid prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1906fc9-cb3c-4e13-8a4a-da76100c1bf3) |
 
 <!-- review:end log -->
 

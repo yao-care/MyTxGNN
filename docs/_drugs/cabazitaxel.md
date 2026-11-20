@@ -56,7 +56,7 @@ Data yang dikumpulkan untuk laporan ini mengandungi **0 percubaan klinikal berda
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, cabazitaxel ialah taxane separa sintetik yang menstabilkan mikrotubul dan menghalang dinamik gelendong mitosis. Mekanisme ini sama dengan docetaxel dan paclitaxel, dua taxane yang telah mantap dalam rawatan kanser payudara.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Cabazitaxel (terjemahan tidak rasmi): “Cabazitaxel ialah perencat mikrotubul. Cabazitaxel terikat pada tubulin dan menggalakkan pemasangannya menjadi mikrotubul sambil pada masa yang sama merencat penguraiannya. Ini membawa kepada penstabilan mikrotubul, yang mengakibatkan perencatan fungsi selular mitosis dan interfasa.” Teks asal bahasa Inggeris: "Cabazitaxel is a microtubule inhibitor. Cabazitaxel binds to tubulin and promotes its assembly into microtubules while simultaneously inhibiting disassembly. This leads to the stabilization of microtubules, which results in the inhibition of mitotic and interphase cellular functions." ([DailyMed: Jevtana (cabazitaxel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de3d9c26-572b-4ea4-9b2d-dd58a2b3e8fa), versi 2025-10-07; diakses 2026-11-19). Berdasarkan maklumat sedia ada, cabazitaxel ialah taxane separa sintetik yang menstabilkan mikrotubul dan menghalang dinamik gelendong mitosis. Mekanisme ini sama dengan docetaxel dan paclitaxel, dua taxane yang telah mantap dalam rawatan kanser payudara.
 
 Cabazitaxel juga merupakan substrat lemah bagi pengepaman P-glycoprotein. Oleh itu, ia mungkin mengekalkan aktiviti dalam tumor yang tahan terhadap taxane lain. Kajian sel MCF-7 (kanser payudara) menunjukkan cabazitaxel kurang rintangan silang berbanding paclitaxel dan docetaxel.
 
@@ -111,6 +111,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek.
 - Data mekanisme tindakan (MOA) terperinci, contohnya daripada DrugBank.
 - Pengesahan percubaan klinikal berdaftar dan keputusan lengkap kajian GENEVIEVE, termasuk hasil jangka panjang.
 - Pelan pemantauan keselamatan hematologi dan pengurusan interaksi ubat.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Jevtana (cabazitaxel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de3d9c26-572b-4ea4-9b2d-dd58a2b3e8fa) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

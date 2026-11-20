@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) pada masa ini tidak tersedia dalam data yang dihimpunkan. Berdasarkan maklumat sedia ada, latanoprost ialah analog prostaglandin F2-alfa yang menurunkan tekanan intraokular (IOP) dengan meningkatkan aliran keluar uveosklera. Ini ialah mekanisme yang mapan bagi glaukoma sudut terbuka.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Latanoprost (terjemahan tidak rasmi): “Latanoprost ialah analog prostaglandin F 2α yang dipercayai mengurangkan tekanan intraokular (IOP) dengan meningkatkan aliran keluar humor akueus. Kajian pada haiwan dan manusia mencadangkan bahawa mekanisme tindakan utamanya ialah peningkatan aliran keluar uveosklera.” Teks asal bahasa Inggeris: "Latanoprost is a prostaglandin F 2α analogue that is believed to reduce the intraocular pressure (IOP) by increasing the outflow of aqueous humor. Studies in animals and man suggest that the main mechanism of action is increased uveoscleral outflow." ([DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded), versi 2025-12-18; diakses 2026-11-19). Berdasarkan maklumat sedia ada, latanoprost ialah analog prostaglandin F2-alfa yang menurunkan tekanan intraokular (IOP) dengan meningkatkan aliran keluar uveosklera. Ini ialah mekanisme yang mapan bagi glaukoma sudut terbuka.
 
 Glaukoma keturunan primer (contohnya bentuk kongenital atau juvenil) mempunyai patofisiologi yang sama, iaitu IOP yang meningkat. Oleh itu, ramalan ini munasabah dari sudut mekanisme. Walau bagaimanapun, kelainan sudut dan perkembangan pada pesakit kanak-kanak mungkin bertindak balas secara berbeza terhadap terapi berasaskan aliran keluar.
 
@@ -122,12 +122,13 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Latanoprost juga tidak didaftarkan di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-05 | Dipadam: "kerana tiada lesen aktif" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded) |
 
 <!-- review:end log -->
 

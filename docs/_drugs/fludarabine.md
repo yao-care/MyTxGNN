@@ -65,7 +65,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Plasma Cell Myeloma** (multip
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, Fludarabine ialah analog nukleosida purina yang menghalang sintesis DNA dan mendorong apoptosis dalam sel limfoid.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Fludarabine (terjemahan tidak rasmi): “Fludarabine fosfat ditukarkan dengan cepat kepada 2-fluoro-ara-ATP aktif, yang nampaknya merencat sintesis DNA melalui perencatan DNA polimerase alfa, ribonukleotida reduktase dan DNA primase.” Teks asal bahasa Inggeris: "Fludarabine phosphate is rapidly converted to active 2-fluoro-ara-ATP, which appears to inhibit DNA synthesis through inhibition of DNA polymerase alpha, ribonucleotide reductase and DNA primase." ([DailyMed: fludarabine phosphate prescribing information, Hisun Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=291f6ee2-f5d2-ae6c-e063-6294a90a5951), versi 2026-09-20; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, Fludarabine ialah analog nukleosida purina yang menghalang sintesis DNA dan mendorong apoptosis dalam sel limfoid.
 
 Dalam mieloma, Fludarabine digunakan terutamanya sebagai agen lymphodepletion (bersama siklofosfamid) sebelum infusi CAR-T BCMA, dan sebagai komponen penyaman keamatan terkurang untuk pemindahan alogenik. Kajian praklinikal juga menunjukkan aktiviti antitumor langsung terhadap sel mieloma (PMID 17976186, dalam data indikasi berkaitan mieloma indolen).
 
@@ -164,11 +164,12 @@ Beberapa ramalan lain turut dinilai:
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "kerana tiada lesen NPRA direkodkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: fludarabine phosphate prescribing information, Hisun Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=291f6ee2-f5d2-ae6c-e063-6294a90a5951) |
 
 <!-- review:end log -->
 

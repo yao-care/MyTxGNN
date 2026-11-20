@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Angina Prinzmetal**, tetapi s
 
 ## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan farmakologi umum, digoxin merencat Na+/K+-ATPase sehingga meningkatkan kalsium intrasel. Kesannya ialah daya kontraksi jantung meningkat dan kadar ventrikel dalam fibrilasi atrium terkawal.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Digoxin (terjemahan tidak rasmi): “Semua tindakan digoksin diperantarakan melalui kesannya terhadap Na-K ATPase. Enzim ini, iaitu “pam natrium,” bertanggungjawab mengekalkan persekitaran intrasel di seluruh badan dengan memindahkan ion natrium keluar dari sel dan ion kalium ke dalam sel.” Teks asal bahasa Inggeris: "All of digoxin’s actions are mediated through its effects on Na-K ATPase. This enzyme, the “sodium pump,” is responsible for maintaining the intracellular milieu throughout the body by moving sodium ions out of and potassium ions into cells." ([DailyMed: Lanoxin (digoxin) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ec84cac-6ecc-43dc-8006-6ccc029e2707), versi 2025-10-17; diakses 2026-11-19). Berdasarkan pengetahuan farmakologi umum, digoxin merencat Na+/K+-ATPase sehingga meningkatkan kalsium intrasel. Kesannya ialah daya kontraksi jantung meningkat dan kadar ventrikel dalam fibrilasi atrium terkawal.
 
 Bagi angina Prinzmetal (angina varian), **tiada hubungan mekanistik yang jelas**. Peningkatan kalsium intrasel secara teori boleh meningkatkan tonus otot licin vaskular dan memburukkan vasospasme koronari. Ini bertentangan dengan arah terapeutik yang diperlukan, kerana rawatan piawai ialah vasodilator seperti penyekat saluran kalsium dan nitrat.
 
@@ -82,7 +82,6 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -108,6 +107,19 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi rasmi.
 - Data mekanisme tindakan (MOA) yang terperinci
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Bukti praklinikal atau klinikal bahawa digoxin tidak memburukkan vasospasme koronari
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lanoxin (digoxin) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ec84cac-6ecc-43dc-8006-6ccc029e2707) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

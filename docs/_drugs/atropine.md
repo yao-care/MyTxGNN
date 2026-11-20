@@ -60,7 +60,7 @@ namun setakat ini **tiada ujian klinikal** didaftarkan dan hanya terdapat **11 p
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, atropin ialah antagonis reseptor muskarinik asetilkolin yang tidak selektif. Daripada literatur yang dikenal pasti, isyarat kolinergik dalam sel mast meninges dan laluan parasimpatetik (ganglion sfenopalatin) menyumbang kepada keradangan neurogenik dan ekstravasasi protein plasma dura, kedua-duanya dikaitkan dengan patofisiologi migrain.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Atropine (terjemahan tidak rasmi): “Atropine menyekat secara kompetitif kesan asetilkolina, termasuk asetilkolina berlebihan akibat keracunan organofosforus, pada reseptor kolinergik muskarinik di otot licin, otot jantung, sel kelenjar rembesan, dan di ganglia autonomi periferi serta sistem saraf pusat.” Teks asal bahasa Inggeris: "Atropine competitively blocks the effects of acetylcholine, including excess acetylcholine due to organophosphorus poisoning, at muscarinic cholinergic receptors on smooth muscle, cardiac muscle, secretory gland cells, and in peripheral autonomic ganglia and the central nervous system." ([DailyMed: Atropen Auto-Injector (atropine) prescribing information, Meridian Medical Technologies LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2d4307d-da8f-49f5-aac0-02355dd9ffb7), versi 2022-09-15; diakses 2026-11-19). Berdasarkan maklumat sedia ada, atropin ialah antagonis reseptor muskarinik asetilkolin yang tidak selektif. Daripada literatur yang dikenal pasti, isyarat kolinergik dalam sel mast meninges dan laluan parasimpatetik (ganglion sfenopalatin) menyumbang kepada keradangan neurogenik dan ekstravasasi protein plasma dura, kedua-duanya dikaitkan dengan patofisiologi migrain.
 
 Selain itu, penglibatan sistem kolinergik pusat dalam antinosisepsi dan penglibatan autonomik dalam sefalgia autonomik trigeminal (contohnya hemikrania paroksismal kronik, di mana atropin sistemik mengurangkan peluh, lakrimasi dan rembesan hidung semasa serangan) memberikan kebolehpercayaan tidak langsung tambahan.
 
@@ -133,11 +133,12 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Atropin juga tidak mempunyai lesen berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Atropen Auto-Injector (atropine) prescribing information, Meridian Medical Technologies LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2d4307d-da8f-49f5-aac0-02355dd9ffb7) |
 
 <!-- review:end log -->
 

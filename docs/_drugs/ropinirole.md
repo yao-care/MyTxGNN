@@ -60,7 +60,7 @@ Sokongan buat masa ini terdiri daripada **0 ujian klinikal berdaftar** dan **8 p
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Ropinirole ialah agonis dopamin D2/D3. Data terperinci mengenai mekanisme tindakan (MOA) daripada pangkalan data ubat tidak tersedia buat masa ini. Penerangan ini berdasarkan pengetahuan farmakologi am.
+Ropinirole ialah agonis dopamin D2/D3. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ropinirole (terjemahan tidak rasmi): “Ropinirol ialah agonis dopamina bukan ergolina. Mekanisme tindakan ropinirol yang tepat sebagai rawatan penyakit Parkinson tidak diketahui, walaupun ia dipercayai berkaitan dengan keupayaannya merangsang reseptor dopamina D 2 di dalam kaudat-putamen di otak.” Teks asal bahasa Inggeris: "Ropinirole is a non-ergoline dopamine agonist. The precise mechanism of action of ropinirole as a treatment for Parkinson’s disease is unknown, although it is thought to be related to its ability to stimulate dopamine D 2 receptors within the caudate-putamen in the brain." ([DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da), versi 2026-11-06; diakses 2026-11-19). Penerangan ini berdasarkan pengetahuan farmakologi am.
 
 ADHD melibatkan ketakseimbangan isyarat dopaminergik. ADHD juga kerap berlaku bersama sindrom kaki gelisah (RLS), yang bertindak balas terhadap agonis dopamin. Kajian ulasan (PMID 16218085) membincangkan perkaitan ini dan potensi rawatan farmakologi yang sama untuk kedua-dua keadaan.
 
@@ -131,11 +131,12 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "dan tiada lesen ropinirole di Malaysia dalam data yang dikumpulkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da) |
 
 <!-- review:end log -->
 

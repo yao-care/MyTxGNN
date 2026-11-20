@@ -54,7 +54,7 @@ Carboplatin ialah ubat kemoterapi berasaskan platinum yang berfungsi dengan meng
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat umum, carboplatin ialah agen sitotoksik platinum yang mengikat silang DNA dan menghalang pembahagian sel. Mekanisme am ini menunjukkan ia secara teori boleh digunakan pada tumor pepejal lain.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Carboplatin (terjemahan tidak rasmi): “Carboplatin ialah ubat berasaskan platinum yang mengikat kepada DNA dan membentuk paut silang DNA. Paut silang ini merencat replikasi dan transkripsi DNA serta mencetuskan proses sitotoksik yang membawa kepada kematian sel.” Teks asal bahasa Inggeris: "Carboplatin is a platinum-based drug that binds to DNA and forms DNA cross-links. These crosslinks inhibit DNA replication and transcription and trigger cytotoxic processes that lead to cell death." ([DailyMed: Kyxata (carboplatin) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f91c48da-68d1-4aa7-89b8-d84a3e8b629b), versi 2026-11-09; diakses 2026-11-19). Berdasarkan maklumat umum, carboplatin ialah agen sitotoksik platinum yang mengikat silang DNA dan menghalang pembahagian sel. Mekanisme am ini menunjukkan ia secara teori boleh digunakan pada tumor pepejal lain.
 
 Namun, tiada apa-apa dalam data yang dikumpulkan menyokong penggunaannya khusus pada adenokarsinoma mukinus rektum. Skor tinggi ialah ramalan model sahaja dan belum disahkan oleh kajian sebenar.
 
@@ -106,6 +106,19 @@ Ramalan ini hanya berasaskan model (skor 0,9928) tanpa sebarang ujian klinikal a
 - Data mekanisme tindakan (MOA) yang terperinci
 - Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA
 - Penilaian kedudukan carboplatin berbanding rawatan piawai sedia ada bagi kanser rektum
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Kyxata (carboplatin) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f91c48da-68d1-4aa7-89b8-d84a3e8b629b) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

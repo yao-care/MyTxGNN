@@ -59,7 +59,7 @@ Vancomycin ialah antibiotik glikopeptida yang berdaftar di Malaysia (7 pendaftar
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Secara umum diketahui bahawa vancomycin ialah antibiotik glikopeptida yang merencat sintesis dinding sel bakteria, terutamanya terhadap bakteria Gram-positif.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Vancomycin (terjemahan tidak rasmi): “Vancomycin ialah ubat antibakteria. […] Tindakan bakterisid vancomycin terhasil terutamanya daripada perencatan biosintesis dinding sel. Di samping itu, vancomycin mengubah ketelapan membran sel bakteria dan sintesis RNA.” Teks asal bahasa Inggeris: "Vancomycin is an antibacterial drug. […] The bactericidal action of vancomycin results primarily from inhibition of cell-wall biosynthesis. In addition, vancomycin alters bacterial-cell-membrane permeability and RNA synthesis." ([DailyMed: Tyzavan (vancomycin) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e9c5e2-07cc-4a8b-ba64-b2e7619ea560), versi 2026-08-19; diakses 2026-11-19). Secara umum diketahui bahawa vancomycin ialah antibiotik glikopeptida yang merencat sintesis dinding sel bakteria, terutamanya terhadap bakteria Gram-positif.
 
 Diffuse scleroderma pula ialah penyakit autoimun dengan fibrosis. Tiada hubungan mekanistik yang munasabah antara kedua-duanya. Skor TxGNN yang tinggi (kedudukan 1663) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi.
 
@@ -119,6 +119,19 @@ Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pakej.
 - Bukti praklinikal atau klinikal yang mengkaji vancomycin dalam scleroderma secara langsung, sebelum sebarang penilaian lanjut.
 
 **Catatan mengenai ramalan lain (kedudukan 2–10):** Kebanyakannya berstatus L5 dan Hold kerana tiada asas mekanistik (contohnya demam paratifoid, salmonelosis dan demam kepialu, yang disebabkan bakteria Gram-negatif yang rintang secara semula jadi terhadap vancomycin). Satu-satunya pengecualian ialah **pneumonia streptokokus**. Hubungannya munasabah secara biologi dan vancomycin sememangnya pilihan untuk jangkitan Gram-positif yang teruk atau rintang, jadi ini penggunaan antibakteria yang sudah mantap, bukan penemuan repurposing sebenar. Literatur yang diperoleh bersifat epidemiologi dan panduan, tanpa kajian yang menilai vancomycin secara langsung untuk penyakit ini, dan satu laporan mengenai pneumokokus toleran vancomycin menjadi peringatan berhati-hati. Ia dinilai sebagai Research Question dan bukan Go.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Tyzavan (vancomycin) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e9c5e2-07cc-4a8b-ba64-b2e7619ea560) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

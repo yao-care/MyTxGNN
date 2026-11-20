@@ -61,7 +61,7 @@ Nota: Indikasi kedua yang diramalkan, **hipertensi renovaskular malignan**, memp
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Isotretinoin ialah retinoid, dan indikasi asal yang direkodkan dalam graf pengetahuan ialah hipertensi. Hubungan mekanistik dengan penyakit renal hipertensi malignan tidak dapat dibuktikan daripada data yang ada.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Isotretinoin (terjemahan tidak rasmi): “Mekanisme tindakan sebenar Zenatane dalam rawatan akne nodular rekalsitran yang teruk pada pesakit tidak hamil berumur 12 tahun ke atas dengan pelbagai nodul radang berdiameter 5 mm atau lebih yang tidak bertindak balas terhadap terapi konvensional, termasuk antibiotik sistemik, tidak diketahui. Isotretinoin, iaitu suatu retinoid, merencat fungsi kelenjar sebum dan keratinisasi.” Teks asal bahasa Inggeris: "The exact mechanism of action of Zenatane in the treatment of severe recalcitrant nodular acne in nonpregnant patients 12 years of age and older with multiple inflammatory nodules with a diameter of 5 mm or greater who are unresponsive to conventional therapy, including systemic antibiotics is unknown. Isotretinoin, a retinoid, inhibits sebaceous gland function and keratinization." ([DailyMed: Zenatane (isotretinoin) prescribing information, Dr. Reddy's Laboratories Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=27b3cf26-f22e-5b70-1c24-009933b7c6ee), versi 2026-09-20; diakses 2026-11-19). Isotretinoin ialah retinoid, dan indikasi asal yang direkodkan dalam graf pengetahuan ialah hipertensi. Hubungan mekanistik dengan penyakit renal hipertensi malignan tidak dapat dibuktikan daripada data yang ada.
 
 Skor tinggi (0.9901) ialah keluaran pengiraan model dan bukan bukti keberkesanan. Kajian mengenai kesan retinoid terhadap biologi renal dan vaskular tidak disokong oleh data yang ada dan perlu disahkan secara bebas.
 
@@ -82,7 +82,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -117,6 +116,19 @@ Untuk amaran utama dan kontraindikasi berasaskan label, sila rujuk risalah maklu
 - Kajian praklinikal atau literatur bebas mengenai kesan retinoid terhadap biologi renal dan vaskular.
 - Penilaian keselamatan pada pesakit hipertensi teruk dan kemerosotan renal, serta pelan pengurusan risiko teratogenik.
 - Pengesahan kebolehlaksanaan laluan pentadbiran dan status pendaftaran tempatan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Zenatane (isotretinoin) prescribing information, Dr. Reddy's Laboratories Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=27b3cf26-f22e-5b70-1c24-009933b7c6ee) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

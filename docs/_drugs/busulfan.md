@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berguna untuk **Sindrom mielodisplastik (myelo
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang disusun. Berdasarkan maklumat sedia ada, busulfan ialah agen pengalkilan dwifungsi yang merentas-pautkan DNA dan menyebabkan penghapusan sumsum tulang (mieloablasi).
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Busulfan (terjemahan tidak rasmi): “Busulfan ialah agen pengalkilan dwifungsi yang mana dua kumpulan metanasulfonat labil dilekatkan pada hujung bertentangan rantai alkil empat karbon. Dalam medium akueus, busulfan terhidrolisis untuk membebaskan kumpulan metanasulfonat.” Teks asal bahasa Inggeris: "Busulfan is a bifunctional alkylating agent in which two labile methanesulfonate groups are attached to opposite ends of a four-carbon alkyl chain. In aqueous media, busulfan hydrolyzes to release the methanesulfonate groups." ([DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203), versi 2026-07-29; diakses 2026-11-19). Berdasarkan maklumat sedia ada, busulfan ialah agen pengalkilan dwifungsi yang merentas-pautkan DNA dan menyebabkan penghapusan sumsum tulang (mieloablasi).
 
 Dalam sindrom mielodisplastik (MDS), busulfan digunakan sebagai tulang belakang rejimen pengkondisian, contohnya bersama fludarabin atau siklofosfamid. Rejimen ini bertujuan menghapuskan klon malignan dan menyediakan ruang dalam sumsum tulang untuk sel stem penderma sebelum pemindahan sel stem alogenik. Ini ialah kegunaan pengkondisian, bukan terapi tunggal yang mengubah perjalanan penyakit.
 
@@ -145,6 +145,19 @@ Terdapat beberapa percubaan fasa 3 dan fasa 2/3 serta ujian rawak yang diterbitk
 - Data mekanisme tindakan terperinci
 - Butiran lesen tempatan (indikasi diluluskan, bentuk dos dan laluan pemberian)
 - Pelan pemantauan keselamatan (sitopenia, toksisiti hati, keganasan sekunder) dan penetapan penggunaan di pusat pemindahan sel stem
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -60,7 +60,7 @@ Namun, **tiada ujian klinikal** dan **tiada penerbitan** yang mengkaji penyakit 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Ofloxacin diketahui tergolong dalam kelas fluoroquinolone, yang menghalang enzim DNA gyrase dan topoisomerase IV bakteria. Kesannya terbukti pada jangkitan bakteria, tetapi tiada pautan mekanistik yang munasabah kepada sindrom hiperkelikatan poliklonal.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Ofloxacin (terjemahan tidak rasmi): “Ofloksasin memberikan aktiviti antibakterianya dengan merencat DNA girase, suatu topoisomerase bakteria. DNA girase ialah enzim penting yang mengawal topologi DNA dan membantu dalam replikasi, pembaikan, penyahaktifan dan transkripsi DNA.” Teks asal bahasa Inggeris: "Ofloxacin exerts its antibacterial activity by inhibiting DNA gyrase, a bacterial topoisomerase. DNA gyrase is an essential enzyme which controls DNA topology and assists in DNA replication, repair, deactivation, and transcription." ([DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de), versi 2026-10-23; diakses 2026-11-19). Ofloxacin diketahui tergolong dalam kelas fluoroquinolone, yang menghalang enzim DNA gyrase dan topoisomerase IV bakteria. Kesannya terbukti pada jangkitan bakteria, tetapi tiada pautan mekanistik yang munasabah kepada sindrom hiperkelikatan poliklonal.
 
 Sindrom ini berkait dengan kelikatan serum yang tinggi akibat pengeluaran imunoglobulin yang berlebihan. Tiada bukti bahawa ofloxacin mempengaruhi kelikatan serum atau pengeluaran imunoglobulin. Skor tinggi ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi atau klinikal.
 
@@ -119,6 +119,19 @@ Amaran utama dan kontraindikasi daripada sisipan pek tidak tersedia. Sila rujuk 
 - Amaran dan kontraindikasi daripada sisipan pek NPRA.
 - Kajian literatur sistematik untuk sindrom hiperkelikatan poliklonal.
 - Sebagai catatan sampingan, dalam senarai ramalan yang sama, **septicemic plague** (ranking ke-8) mempunyai sokongan praklinikal daripada kajian in vitro dan haiwan. Ia ialah petunjuk yang lebih munasabah untuk dikaji lanjut berbanding indikasi di atas, tetapi masih belum ada ujian pada manusia.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

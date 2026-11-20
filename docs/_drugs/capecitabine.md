@@ -56,7 +56,7 @@ tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** dalam data 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan farmakologi umum, capecitabine ialah prodrug yang ditukar menjadi 5-fluorourasil. Bahan ini merencat timidilat sintase dan diselitkan ke dalam RNA dan DNA, lalu bersifat sitotoksik terhadap sel yang membahagi dengan pesat, termasuk sel adenokarsinoma gaster.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Capecitabine (terjemahan tidak rasmi): “Capecitabine dimetabolismekan kepada fluorouracil secara in vivo. Kedua-dua sel normal dan sel tumor memetabolismekan fluorouracil kepada 5-fluoro-2'-deoksiuridina monofosfat (FdUMP) dan 5-fluorouridina trifosfat (FUTP). Metabolit-metabolit ini menyebabkan kecederaan sel melalui dua mekanisme yang berbeza.” Teks asal bahasa Inggeris: "Capecitabine is metabolized to fluorouracil in vivo. Both normal and tumor cells metabolize fluorouracil to 5-fluoro-2'-deoxyuridine monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). These metabolites cause cell injury by two different mechanisms." ([DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5), versi 2026-02-05; diakses 2026-11-19). Berdasarkan pengetahuan farmakologi umum, capecitabine ialah prodrug yang ditukar menjadi 5-fluorourasil. Bahan ini merencat timidilat sintase dan diselitkan ke dalam RNA dan DNA, lalu bersifat sitotoksik terhadap sel yang membahagi dengan pesat, termasuk sel adenokarsinoma gaster.
 
 GAPPS ialah sindrom keturunan yang jarang berlaku, dikaitkan dengan mutasi promoter 1B gen APC dan membawa risiko adenokarsinoma gaster jenis usus. Oleh itu, sebarang manfaat yang mungkin hanya terhad kepada rawatan komponen adenokarsinoma, bukan poliposis asas atau punca genetiknya.
 
@@ -102,6 +102,19 @@ Ramalan ini tidak disokong oleh sebarang ujian klinikal atau penerbitan yang men
 - Data mekanisme tindakan (MOA) yang disahkan
 - Amaran dan kontraindikasi daripada sisipan pek NPRA
 - Penilaian keselamatan lanjut bagi pesakit dengan kekurangan DPD, gangguan hati atau buah pinggang, dan penindasan sumsum tulang
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

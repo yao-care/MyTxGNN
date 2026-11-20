@@ -57,7 +57,7 @@ tetapi setakat ini **tiada ujian klinikal** dan **hanya 1 penerbitan** (mengenai
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan umum, valsartan menyekat reseptor AT1 angiotensin II, sekali gus menurunkan tekanan darah dan tekanan intraglomerulus. Secara biologi, ini munasabah untuk nefropati hipertensi malignan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Valsartan (terjemahan tidak rasmi): “Angiotensin II terbentuk daripada angiotensin I dalam tindak balas yang dimangkinkan oleh enzim penukar angiotensin (ACE, kininase II). Angiotensin II ialah agen presor utama sistem renin-angiotensin, dengan kesan yang merangkumi vasokonstriksi, rangsangan sintesis dan pembebasan aldosteron, rangsangan jantung, dan penyerapan semula natrium oleh ginjal. […] Diovan (valsartan) menyekat kesan vasokonstriktor dan perembesan aldosteron oleh angiotensin II dengan menyekat secara selektif pengikatan angiotensin II kepada reseptor AT 1 dalam banyak tisu, seperti otot licin vaskular dan kelenjar adrenal.” Teks asal bahasa Inggeris: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Diovan (valsartan) blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: Diovan (valsartan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ddba454-f3e6-43c2-a7a6-58365d297213), versi 2026-08-11; diakses 2026-11-19). Berdasarkan pengetahuan umum, valsartan menyekat reseptor AT1 angiotensin II, sekali gus menurunkan tekanan darah dan tekanan intraglomerulus. Secara biologi, ini munasabah untuk nefropati hipertensi malignan.
 
 Namun, indikasi ramalan ini sangat hampir dengan indikasi asal (hipertensi), jadi ia lebih merupakan lanjutan daripada pengulangan guna yang sebenar. Satu-satunya penerbitan yang ditemui (PMID 24368192) mengkaji avosentan, antagonis reseptor endotelin, pada tikus transgenik, bukan valsartan. Oleh itu tiada bukti langsung yang mengkaji valsartan dalam penyakit ini, dan tahap bukti dihadkan kepada L5.
 
@@ -114,6 +114,19 @@ Tiada ujian klinikal atau kajian langsung mengenai valsartan dalam penyakit buah
 | Angina Prinzmetal | 0.9945 | L5 | Satu penerbitan tidak berkaitan |
 
 Nota: bagi tiga indikasi dengan literatur, tiada kajian yang dipetik secara langsung mengkaji valsartan dalam penyakit itu sendiri, maka tahap bukti dihadkan kepada L5.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Diovan (valsartan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ddba454-f3e6-43c2-a7a6-58365d297213) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

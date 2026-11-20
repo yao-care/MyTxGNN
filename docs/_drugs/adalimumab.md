@@ -58,7 +58,7 @@ Adalimumab ialah antibodi monoklonal yang menyekat TNF-α dan digunakan untuk pe
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Adalimumab diketahui sebagai perencat TNF-α, iaitu sitokin utama dalam keradangan sendi dan tulang belakang.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Adalimumab (terjemahan tidak rasmi): “Produk adalimumab terikat secara spesifik kepada TNF-alfa dan menyekat interaksinya dengan reseptor TNF permukaan sel p55 dan p75. Produk adalimumab juga melisiskan sel yang mengekspresikan TNF permukaan secara in vitro dengan kehadiran komplemen.” Teks asal bahasa Inggeris: "Adalimumab products bind specifically to TNF-alpha and block its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab products also lyse surface TNF expressing cells in vitro in the presence of complement." ([DailyMed: Simlandi (adalimumab-ryvk) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12f609c9-2088-bb05-e063-6394a90a9ecc), versi 2026-11-11; diakses 2026-11-19). Adalimumab diketahui sebagai perencat TNF-α, iaitu sitokin utama dalam keradangan sendi dan tulang belakang.
 
 Namun, hipermobiliti tulang ekor pada umumnya merupakan keadaan mekanikal atau pasca-trauma, bukan keadaan radang. Tiada mekanisme berasaskan TNF yang munasabah telah dikenal pasti untuk keadaan ini. Skor yang sangat tinggi (0,9977) berkemungkinan didorong oleh kedekatan dalam rangkaian model dengan penyakit muskuloskeletal paksi atau tulang belakang (contohnya spondilitis ankilosing), dan bukan oleh bukti sebenar. Oleh itu, kaitan mekanistik ini lemah dan tidak disokong oleh data klinikal.
 
@@ -113,6 +113,19 @@ Untuk amaran dan kontraindikasi, sila rujuk sisipan pakej.
 - Sisipan pakej NPRA yang lengkap (amaran dan kontraindikasi)
 - Kajian asas atau laporan kes yang mengkaji secara langsung peranan keradangan yang dimediasi TNF dalam hipermobiliti tulang ekor
 - Pengesahan kesesuaian laluan pemberian dan populasi pesakit sasaran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Simlandi (adalimumab-ryvk) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12f609c9-2088-bb05-e063-6394a90a9ecc) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

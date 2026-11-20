@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berguna untuk **Hipertrikosis (hypertrichosis)
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan yang terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Namun, cetrorelix diketahui menyekat reseptor GnRH (GNRHR), lalu merendahkan rembesan LH dan FSH serta paras hormon seks di hiliran.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Cetrorelix (terjemahan tidak rasmi): “GnRH mengaruh penghasilan dan pembebasan hormon peluteinan (LH) dan hormon perangsang folikel (FSH) daripada sel gonadotrofik pituitari anterior. Disebabkan oleh suap balik positif estradiol (E2) pada pertengahan kitaran, pembebasan GnRH dipertingkatkan, menyebabkan lonjakan LH.” Teks asal bahasa Inggeris: "GnRH induces the production and release of luteinizing hormone (LH) and follicle stimulating hormone (FSH) from the gonadotrophic cells of the anterior pituitary. Due to a positive estradiol (E2) feedback at midcycle, GnRH liberation is enhanced resulting in an LH-surge." ([DailyMed: Cetrotide (cetrorelix acetate) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aca7768e-28a7-4027-b1d8-e66247665f79), versi 2025-09-22; diakses 2026-11-19). Namun, cetrorelix diketahui menyekat reseptor GnRH (GNRHR), lalu merendahkan rembesan LH dan FSH serta paras hormon seks di hiliran.
 
 Secara teori, penurunan paras androgen boleh menjejaskan pertumbuhan rambut yang bergantung pada androgen (hirsutisme). Walau bagaimanapun, hipertrikosis pada umumnya **tidak bergantung pada androgen**, maka asas mekanistik adalah **lemah**. Skor TxGNN yang tinggi hanyalah ramalan berasaskan rangkaian dan tidak disokong oleh data klinikal atau literatur.
 
@@ -97,6 +97,19 @@ Ramalan ini hanya berasaskan model (L5), tanpa sebarang percubaan klinikal atau 
 - Carian literatur dan percubaan klinikal yang menyasarkan hipertrikosis secara langsung
 - Maklumat amaran dan kontraindikasi daripada sisipan pek NPRA
 - Penilaian rasional biologi yang lebih kukuh sebelum sebarang kajian lanjut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Cetrotide (cetrorelix acetate) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aca7768e-28a7-4027-b1d8-e66247665f79) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

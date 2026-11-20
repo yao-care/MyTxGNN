@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **hipoalfalipoproteinemia**, te
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Prucalopride diketahui sebagai agonis 5-HT4 terpilih yang merangsang motiliti gastrousus. Tiada hubungan mekanistik yang diketahui antara tindakan ini dengan metabolisme HDL atau pengawalaturan ApoA-I.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Prucalopride (terjemahan tidak rasmi): “Prucalopride, agonis reseptor serotonin jenis 4 (5-HT 4 ) yang selektif, ialah agen prokinetik gastrousus (GI) yang merangsang peristalsis kolon (pengecutan merambat beramplitud tinggi [HAPCs]), yang meningkatkan motiliti usus. Prucalopride tidak mempunyai kesan yang diperantarakan melalui reseptor 5-HT 2A, 5-HT 2B, 5-HT 3, motilin atau CCK-A secara in vitro pada kepekatan yang melebihi afiniti reseptor 5-HT 4 sebanyak 150 kali ganda atau lebih.” Teks asal bahasa Inggeris: "Prucalopride, a selective serotonin type 4 (5-HT 4 ) receptor agonist, is a gastrointestinal (GI) prokinetic agent that stimulates colonic peristalsis (high-amplitude propagating contractions [HAPCs]), which increases bowel motility. Prucalopride was devoid of effects mediated via 5-HT 2A, 5-HT 2B, 5-HT 3, motilin or CCK-A receptors in vitro at concentrations exceeding 5-HT 4 receptor affinity by 150-fold or greater." ([DailyMed: Motegrity (prucalopride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bca1e4c6-4b2b-4876-8ab3-654629c4ff1b), versi 2025-07-17; diakses 2026-11-19). Prucalopride diketahui sebagai agonis 5-HT4 terpilih yang merangsang motiliti gastrousus. Tiada hubungan mekanistik yang diketahui antara tindakan ini dengan metabolisme HDL atau pengawalaturan ApoA-I.
 
 Penilaian mekanistik mendapati **tiada pautan biologi yang munasabah**. Skor tinggi itu datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
@@ -125,11 +125,12 @@ Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pembungkusan.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Motegrity (prucalopride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bca1e4c6-4b2b-4876-8ab3-654629c4ff1b) |
 
 <!-- review:end log -->
 

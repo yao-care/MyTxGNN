@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom usus besar terangsang
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, cycloserine ialah analog D-alanina yang merencat sintesis dinding sel bakteria, dan juga agonis separa pada tapak glisina reseptor NMDA. Keberkesanannya dalam tuberkulosis pulmonari telah diketahui.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Cycloserine (terjemahan tidak rasmi): “Aktiviti antibakteria Sikloserin terhasil daripada perencatan sintesis dinding sel dalam strain bakteria gram-positif dan gram-negatif yang rentan.” Teks asal bahasa Inggeris: "The antibacterial activity of Cycloserine results from inhibition of cell-wall synthesis in susceptible strains of gram-positive and gram-negative bacteria." ([DailyMed: cycloserine prescribing information, Dr. Reddys Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8e7e2665-7a3d-3f54-9f92-5fe845f02ef9), versi 2024-07-30; diakses 2026-11-19). Berdasarkan maklumat sedia ada, cycloserine ialah analog D-alanina yang merencat sintesis dinding sel bakteria, dan juga agonis separa pada tapak glisina reseptor NMDA. Keberkesanannya dalam tuberkulosis pulmonari telah diketahui.
 
 Walau bagaimanapun, data yang dikumpulkan untuk laporan ini tidak menunjukkan sebarang kaitan mekanistik antara cycloserine dengan patofisiologi IBS. Skor TxGNN yang tinggi (0.9995) merupakan ramalan pengiraan sahaja dan tidak boleh dianggap sebagai bukti klinikal.
 
@@ -78,7 +78,6 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -121,6 +120,18 @@ Indikasi lain yang diramalkan juga hanya berada pada Tahap Bukti L5 dengan keput
 | Insomnia | 0.9921 | Literatur menunjukkan cycloserine **menyebabkan** insomnia dan psikosis (laporan kes 2022); ini isyarat keselamatan, bukan isyarat penggunaan semula |
 | Faringitis | 0.9901 | Tiada bukti; profil keselamatan kurang sesuai untuk keadaan yang lazimnya sembuh sendiri |
 | Penyakit rongga hidung | 0.9901 | Satu laporan kes rinosporidiosis yang tidak menunjukkan keberkesanan cycloserine |
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: cycloserine prescribing information, Dr. Reddys Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8e7e2665-7a3d-3f54-9f92-5fe845f02ef9) |
+
+<!-- review:end log -->
 
 ## Penafian
 

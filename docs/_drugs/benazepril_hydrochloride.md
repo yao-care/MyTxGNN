@@ -61,7 +61,7 @@ tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang mengka
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Namun, benazepril tergolong dalam kelas perencat ACE. Secara umum, kelas ini menyekat pembentukan angiotensin II, lalu menurunkan tekanan darah dan tekanan intraglomerulus. Mekanisme ini selari dengan patologi penyakit buah pinggang hipertensif.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Benazepril Hydrochloride (terjemahan tidak rasmi): “Benazepril dan benazeprilat merencat enzim penukar angiotensin (ACE) pada subjek manusia dan haiwan. Benazeprilat mempunyai aktiviti perencatan ACE yang jauh lebih tinggi berbanding benazepril. ACE ialah peptidil dipeptidase yang memangkinkan penukaran angiotensin I kepada bahan vasokonstriktor, angiotensin II.” Teks asal bahasa Inggeris: "Benazepril and benazeprilat inhibit angiotensin-converting enzyme (ACE) in human subjects and animals. Benazeprilat has much greater ACE inhibitory activity than does benazepril. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II." ([DailyMed: Lotensin (benazepril hydrochloride) prescribing information, Validus Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2abb091b-a53e-46b0-9b84-e5ee8f2bdd8e), versi 2025-09-30; diakses 2026-11-19). Namun, benazepril tergolong dalam kelas perencat ACE. Secara umum, kelas ini menyekat pembentukan angiotensin II, lalu menurunkan tekanan darah dan tekanan intraglomerulus. Mekanisme ini selari dengan patologi penyakit buah pinggang hipertensif.
 
 Walau bagaimanapun, perlu diingat bahawa perencat ACE sememangnya sudah mantap untuk kawalan tekanan darah dan perlindungan buah pinggang secara umum. Ramalan ini lebih mencerminkan penggunaan sedia ada bagi kelas ubat ini, bukannya isyarat penggunaan semula yang benar-benar baharu. Bukti khusus untuk nefropati hipertensif malignan masih perlu dikumpulkan.
 
@@ -120,6 +120,19 @@ Ramalan ini hanya berasaskan model (L5) tanpa sebarang ujian klinikal atau pener
 - Bukti klinikal atau literatur yang mengkaji benazepril secara langsung dalam nefropati hipertensif malignan
 - Amaran, kontraindikasi dan maklumat interaksi ubat daripada sisipan pakej NPRA bagi menilai keselamatan
 - Pengesahan indikasi yang diluluskan bagi setiap lesen tempatan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lotensin (benazepril hydrochloride) prescribing information, Validus Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2abb091b-a53e-46b0-9b84-e5ee8f2bdd8e) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

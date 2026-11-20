@@ -61,7 +61,7 @@ Namun, penggunaan ini sudah mantap dalam amalan klinikal (profilaksis PCP), jadi
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan farmakologi sulfon yang diketahui, dapson merencat enzim dihidropteroat sintase dalam laluan sintesis folat, iaitu sasaran yang sama dengan sulfonamida seperti sulfametoksazol. Perlu diingat bahawa pautan mekanisme ini disimpulkan daripada pengetahuan farmakologi umum, bukan daripada data yang dibekalkan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Dapsone (terjemahan tidak rasmi): “Mekanisme tindakan dalam Dermatitis herpetiformis belum ditentukan. Melalui kaedah kinetik pada mencit, Dapsone adalah bakterisidal serta bakteriostatik terhadap Mycobacterium leprae.” Teks asal bahasa Inggeris: "The mechanism of action in Dermatitis herpetiformis has not been established. By the kinetic method in mice, Dapsone is bactericidal as well as bacteriostatic against Mycobacterium leprae." ([DailyMed: dapsone prescribing information, Proficient Rx LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=347c753b-8daa-40f8-9391-0339c9d6679c), versi 2026-10-01; diakses 2026-11-19). Berdasarkan farmakologi sulfon yang diketahui, dapson merencat enzim dihidropteroat sintase dalam laluan sintesis folat, iaitu sasaran yang sama dengan sulfonamida seperti sulfametoksazol. Perlu diingat bahawa pautan mekanisme ini disimpulkan daripada pengetahuan farmakologi umum, bukan daripada data yang dibekalkan.
 
 *Pneumocystis jirovecii* bergantung pada laluan folat ini, maka mekanisme antimikrob tersebut munasabah secara biologi dan selaras dengan skor ramalan TxGNN yang sangat tinggi. Dapson juga mempunyai kesan antimikrob dan anti-radang, yang menjelaskan penggunaannya dalam kusta dan penyakit kulit neutrofilik.
 
@@ -133,6 +133,19 @@ Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA tidak diperoleh; 
 - Data mekanisme tindakan (MOA) yang disahkan daripada DrugBank.
 - Protokol saringan G6PD sebelum permulaan dan pemantauan methemoglobinemia, kiraan darah penuh dan fungsi hati semasa rawatan.
 - Penilaian risiko tindak balas silang pada pesakit dengan alahan sulfonamida, dan semakan interaksi ubat dengan senarai ubat pesakit.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: dapsone prescribing information, Proficient Rx LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=347c753b-8daa-40f8-9391-0339c9d6679c) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

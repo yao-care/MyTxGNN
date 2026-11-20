@@ -59,7 +59,7 @@ Gemcitabine ialah ubat sitotoksik (analog nukleosida) yang, menurut hubungan yan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, gemcitabine ialah analog nukleosida yang menghalang sintesis DNA dan enzim ribonukleotida reduktase. Mekanisme sitotoksik am ini secara teorinya boleh terpakai kepada pelbagai adenokarsinoma, termasuk adenokarsinoma mukinus rektum.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Gemcitabine (terjemahan tidak rasmi): “Gemsitabin membunuh sel yang sedang menjalani sintesis DNA dan menyekat perkembangan sel melalui sempadan fasa G1/S. Gemsitabin dimetabolismekan oleh kinase nukleosida kepada nukleosida difosfat (dFdCDP) dan trifosfat (dFdCTP).” Teks asal bahasa Inggeris: "Gemcitabine kills cells undergoing DNA synthesis and blocks the progression of cells through the G1/S-phase boundary. Gemcitabine is metabolized by nucleoside kinases to diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides." ([DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84), versi 2026-07-27; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, gemcitabine ialah analog nukleosida yang menghalang sintesis DNA dan enzim ribonukleotida reduktase. Mekanisme sitotoksik am ini secara teorinya boleh terpakai kepada pelbagai adenokarsinoma, termasuk adenokarsinoma mukinus rektum.
 
 Walau bagaimanapun, rasional ini bersifat umum. Tiada mekanisme khusus untuk histologi mukinus disokong oleh data yang dikumpulkan. Skor TxGNN yang tinggi hanyalah ramalan pengiraan dan tidak boleh dianggap sebagai bukti keberkesanan klinikal.
 
@@ -143,6 +143,19 @@ Ramalan lain dalam kedudukan teratas (tiada tahap bukti melebihi L3):
 | 8 | Adenokarsinoma endometrioid endometrium kaya mukin | 0.9973 | L5 | Tiada ujian atau literatur |
 
 *Tahap bukti diturunkan kepada L5 kerana tiada kajian yang disenaraikan mengkaji penyakit tersebut secara langsung (hanya keadaan berkaitan). Keputusan bagi semua ramalan ini ialah Hold.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

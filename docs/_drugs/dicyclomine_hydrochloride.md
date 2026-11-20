@@ -60,7 +60,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom cauda equina (cauda e
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, dicyclomine ialah agen antimuskarinik/antispasmodik yang merehatkan otot licin, termasuk otot detrusor pundi kencing.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Dicyclomine Hydrochloride (terjemahan tidak rasmi): “Dicyclomine melegakan kekejangan otot licin saluran gastrousus. Kajian haiwan menunjukkan bahawa tindakan ini dicapai melalui mekanisme dwi: kesan antikolinergik spesifik (antimuskarinik) pada tapak reseptor asetilkolina dengan kira-kira 1/8 potensi miligram atropine ( in vitro, ileum babi guinea); dan kesan langsung ke atas otot licin (muskulotropik) seperti yang dibuktikan oleh antagonisme dicyclomine terhadap kekejangan teraruh bradikinin dan histamina pada ileum babi guinea yang diasingkan.” Teks asal bahasa Inggeris: "Dicyclomine relieves smooth muscle spasm of the gastrointestinal tract. Animal studies indicate that this action is achieved via a dual mechanism: a specific anticholinergic effect (antimuscarinic) at the acetylcholine-receptor sites with approximately 1/8 the milligram potency of atropine ( in vitro, guinea pig ileum); and a direct effect upon smooth muscle (musculotropic) as evidenced by dicyclomine’s antagonism of bradykinin- and histamine-induced spasms of the isolated guinea pig ileum." ([DailyMed: dicyclomine hydrochloride prescribing information, Slate Run Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e20a1ccf-2f3a-4872-811e-d93fb56b8e83), versi 2026-11-13; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, dicyclomine ialah agen antimuskarinik/antispasmodik yang merehatkan otot licin, termasuk otot detrusor pundi kencing.
 
 Sindrom cauda equina sering disertai disfungsi pundi kencing, seperti retensi kencing atau inkontinens limpahan. Secara teori, terdapat kaitan hanya untuk melegakan simptom spasme atau aktiviti berlebihan detrusor.
 
@@ -113,6 +113,19 @@ Ramalan ini hanya berasaskan model pengiraan (tahap bukti L5) tanpa sebarang uji
 - Data mekanisme tindakan (MOA) yang terperinci
 - Kajian klinikal atau literatur yang mengkaji penyakit ini secara langsung
 - Penilaian risiko retensi kencing akibat kesan antikolinergik
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: dicyclomine hydrochloride prescribing information, Slate Run Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e20a1ccf-2f3a-4872-811e-d93fb56b8e83) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

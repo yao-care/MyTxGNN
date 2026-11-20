@@ -61,7 +61,7 @@ dengan **40 percubaan klinikal** dan **20 penerbitan** yang dikumpulkan berkaita
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan am, lenalidomide ialah modulator ligase E3 cereblon yang menyebabkan degradasi IKZF1/3 dan CK1α. Degradasi CK1α mendorong tindak balas pada MDS del(5q). Ia juga mempunyai kesan imunomodulatori dan anti-angiogenik.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Lenalidomide (terjemahan tidak rasmi): “Lenalidomide ialah analog thalidomide dengan sifat imunomodulator, antiangiogenik dan antineoplastik. Aktiviti selular lenalidomide diperantarakan melalui sasarannya cereblon, iaitu komponen kompleks enzim ligase ubiquitin E3 gelang cullin.” Teks asal bahasa Inggeris: "Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties. Cellular activities of lenalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex." ([DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be), versi 2023-03-24; diakses 2026-11-19). Berdasarkan pengetahuan am, lenalidomide ialah modulator ligase E3 cereblon yang menyebabkan degradasi IKZF1/3 dan CK1α. Degradasi CK1α mendorong tindak balas pada MDS del(5q). Ia juga mempunyai kesan imunomodulatori dan anti-angiogenik.
 
 MDS dan leukemia mieloid akut (AML) berkait rapat dari segi biologi: MDS berisiko berubah menjadi AML. Mekanisme ini munasabah untuk penyakit mieloid, terutamanya yang mempunyai del(5q). Percubaan NCT00352365 menyasarkan tepat subkumpulan AML del(5q) ini.
 
@@ -172,6 +172,19 @@ Terdapat banyak percubaan Fasa 1/2 dan beberapa percubaan rawak Fasa 2 yang seca
 - Risalah maklumat produk NPRA (amaran, kontraindikasi dan indikasi diluluskan)
 - Hasil percubaan rawak Fasa 2/3 dalam AML, terutamanya subkumpulan del(5q)
 - Pelan pemantauan keselamatan (kiraan darah, status TP53, risiko tromboembolisme) dan semakan interaksi dengan statin
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

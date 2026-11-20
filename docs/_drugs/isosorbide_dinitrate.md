@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **alopesia**, tetapi **tiada se
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, isosorbide dinitrate ialah nitrat yang bertindak melalui pelepasan nitrik oksida dan vasodilatasi. Hubungannya dengan alopesia hanya berbentuk teori.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi hydralazine hydrochloride and isosorbide dinitrate (ubat gabungan yang mengandungi Isosorbide Dinitrate) (terjemahan tidak rasmi): “Isosorbida dinitrat ialah vasodilator yang menjejaskan kedua-dua arteri dan vena.” Teks asal bahasa Inggeris: "Isosorbide dinitrate is a vasodilator affecting both arteries and veins." ([DailyMed: Bidil (hydralazine hydrochloride and isosorbide dinitrate) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e1e63cd5-d1e4-4af5-bad5-1ad41ea46b00), versi 2025-11-30; diakses 2026-11-19). Berdasarkan maklumat sedia ada, isosorbide dinitrate ialah nitrat yang bertindak melalui pelepasan nitrik oksida dan vasodilatasi. Hubungannya dengan alopesia hanya berbentuk teori.
 
 Secara teori, vasodilatasi melalui pelepasan nitrik oksida boleh meningkatkan perfusi kulit kepala, seperti yang pernah dicadangkan untuk minoxidil. Namun hujah ini bersifat spekulatif. Tiada mekanisme yang mantap, dan skor ramalan yang tinggi tidak disokong oleh bukti klinikal atau literatur.
 
@@ -112,6 +112,19 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pek produk.
 - Penilaian kebolehlaksanaan laluan pentadbiran (contohnya formulasi topikal).
 
 **Catatan:** Dalam data yang dikumpulkan, ramalan lain mempunyai bukti yang lebih banyak, terutamanya **hipertensi pulmonari**. Bukti untuknya terdiri daripada kajian hemodinamik kecil dan model haiwan, tanpa ujian klinikal berdaftar. Ia lebih sesuai dijadikan soalan penyelidikan lanjut berbanding alopesia.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Bidil (hydralazine hydrochloride and isosorbide dinitrate) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e1e63cd5-d1e4-4af5-bad5-1ad41ea46b00) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

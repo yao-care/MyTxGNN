@@ -54,7 +54,7 @@ Atenolol ialah penyekat reseptor beta-1 terpilih yang sudah dipasarkan di Malays
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan atenolol tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, atenolol ialah penyekat beta-1 terpilih yang digunakan untuk merendahkan tekanan darah. Secara mekanistik, penurunan tekanan darah dan pengurangan perembesan renin mungkin dapat membantu pesakit hipertensi malignan yang melibatkan buah pinggang.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Atenolol (terjemahan tidak rasmi): “TENORMIN ialah agen penyekat reseptor beta-adrenergik selektif beta 1 (kardioselektif) tanpa aktiviti penstabilan membran atau simpatomimetik intrinsik (agonis separa). Walau bagaimanapun, kesan keutamaan ini tidak mutlak, dan pada dos yang lebih tinggi, TENORMIN merencatkan adrenoreseptor beta 2 , yang terletak terutamanya dalam otot bronkus dan vaskular.” Teks asal bahasa Inggeris: "TENORMIN is a beta 1 -selective (cardioselective) beta-adrenergic receptor blocking agent without membrane stabilizing or intrinsic sympathomimetic (partial agonist) activities. This preferential effect is not absolute, however, and at higher doses, TENORMIN inhibits beta 2 -adrenoreceptors, chiefly located in the bronchial and vascular musculature." ([DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a), versi 2025-09-18; diakses 2026-11-19). Berdasarkan maklumat sedia ada, atenolol ialah penyekat beta-1 terpilih yang digunakan untuk merendahkan tekanan darah. Secara mekanistik, penurunan tekanan darah dan pengurangan perembesan renin mungkin dapat membantu pesakit hipertensi malignan yang melibatkan buah pinggang.
 
 Walau bagaimanapun, skor TxGNN yang sangat tinggi (0,9985) berkemungkinan hanya mencerminkan kedekatan penyakit ini dengan keadaan hipertensi biasa dalam data model, dan bukan bukti bebas. Dalam amalan, pengurusan hipertensi malignan bergantung pada ubat parenteral yang bertindak pantas dan sekatan sistem RAAS, maka atenolol oral bukanlah pilihan terapeutik yang ditetapkan.
 
@@ -108,11 +108,12 @@ Tiada percubaan klinikal atau literatur yang mengkaji penyakit ini secara langsu
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Terdapat sekurang-kurangnya 30 lesen, semuanya sah (27 produk bahan tunggal dan 3 produk kombinasi)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a) |
 
 <!-- review:end log -->
 

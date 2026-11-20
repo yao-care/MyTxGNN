@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** dalam
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, avelumab ialah antibodi anti-PD-L1 yang boleh meningkatkan aktiviti sel T terhadap sel tumor.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Avelumab (terjemahan tidak rasmi): “PD-L1 boleh diekspresikan pada sel tumor dan sel imun yang menginfiltrasi tumor dan boleh menyumbang kepada perencatan tindak balas imun antitumor dalam mikropersekitaran tumor. Pengikatan PD-L1 kepada reseptor PD-1 dan B7.1 yang terdapat pada sel T dan sel pembentang antigen menyekat aktiviti sel T sitotoksik, proliferasi sel T dan penghasilan sitokin. […] Avelumab mengikat PD-L1 dan menyekat interaksi antara PD-L1 dengan reseptornya, PD-1 dan B7.1.” Teks asal bahasa Inggeris: "PD-L1 may be expressed on tumor cells and tumor-infiltrating immune cells and can contribute to the inhibition of the anti-tumor immune response in the tumor microenvironment. Binding of PD-L1 to the PD-1 and B7.1 receptors found on T cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation, and cytokine production. […] Avelumab binds PD-L1 and blocks the interaction between PD-L1 and its receptors PD-1 and B7.1." ([DailyMed: Bavencio (avelumab) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5cd725a1-2fa4-408a-a651-57a7b84b2118), versi 2026-09-22; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, avelumab ialah antibodi anti-PD-L1 yang boleh meningkatkan aktiviti sel T terhadap sel tumor.
 
 Tumor berkaitan HHV-8 (contohnya sarkoma Kaposi dan limfoma efusi primer) melibatkan pengelakan imun oleh virus dan peningkatan ekspresi PD-L1. Oleh itu, sekatan pusat semak secara biologi munasabah. Namun, hubungan ini hanya bersandarkan ramalan model TxGNN dan penaakulan mekanistik umum; tiada percubaan klinikal atau literatur yang dibekalkan untuk mengesahkannya.
 
@@ -103,6 +103,19 @@ Ramalan ini hanya berasaskan model TxGNN (skor 0,9997) tanpa sebarang percubaan 
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Penilaian keselamatan interaksi dengan lenalidomida, pomalidomida dan talidomida, yang sering digunakan dalam tumor hematologi
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Bavencio (avelumab) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5cd725a1-2fa4-408a-a651-57a7b84b2118) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

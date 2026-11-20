@@ -58,7 +58,7 @@ Tiotropium ialah ubat antikolinergik jenis antagonis muskarinik bertindak panjan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tiotropium tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, tiotropium tergolong dalam kelas antagonis muskarinik. Ubat kelas ini menyekat reseptor muskarinik di saluran udara, lalu mengendurkan otot licin bronkus dan melebarkan saluran udara.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Tiotropium (terjemahan tidak rasmi): “Tiotropium ialah agen antimuskarinik bertindak lama, yang sering dirujuk sebagai antikolinergik. Ia mempunyai afiniti yang serupa terhadap subjenis reseptor muskarinik, M 1 hingga M 5. Dalam saluran udara, ia menunjukkan kesan farmakologi melalui perencatan reseptor M 3 pada otot licin yang membawa kepada bronkodilatasi.” Teks asal bahasa Inggeris: "Tiotropium is a long-acting, antimuscarinic agent, which is often referred to as an anticholinergic. It has similar affinity to the subtypes of muscarinic receptors, M 1 to M 5. In the airways, it exhibits pharmacological effects through inhibition of M 3 -receptors at the smooth muscle leading to bronchodilation." ([DailyMed: Spiriva Handihaler (tiotropium bromide) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=820839ef-e53d-47e8-a3b9-d911ff92e6a9), versi 2025-11-10; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, tiotropium tergolong dalam kelas antagonis muskarinik. Ubat kelas ini menyekat reseptor muskarinik di saluran udara, lalu mengendurkan otot licin bronkus dan melebarkan saluran udara.
 
 Hubungan dengan malformasi pernafasan hanya tidak langsung. Malformasi struktur tidak boleh dibetulkan oleh ubat. Faedah yang mungkin hanyalah melegakan penyempitan saluran udara sekunder melalui pelebaran bronkus. Tiga percubaan klinikal yang dipadankan dengan ramalan ini sebenarnya mengkaji pesakit fibrosis sista, bukan pesakit malformasi pernafasan. Pemadanan ini besar kemungkinan berpunca daripada pemetaan ontologi dan bukan bukti langsung. Skor TxGNN yang tinggi ialah ramalan model sahaja dan tidak membuktikan keberkesanan.
 
@@ -120,6 +120,18 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA.
 - Kajian klinikal atau siri kes yang melibatkan pesakit malformasi pernafasan secara langsung.
 - Penilaian sama ada ada subkumpulan pesakit dengan penyempitan saluran udara sekunder yang mungkin mendapat manfaat.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Spiriva Handihaler (tiotropium bromide) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=820839ef-e53d-47e8-a3b9-d911ff92e6a9) |
+
+<!-- review:end log -->
 
 ## Penafian
 

@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit rongga hidung (nasal
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan yang terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, guaifenesin ialah ekspektoran yang menipiskan dan melonggarkan hingus saluran pernafasan. Indikasi asalnya (rinitis alergi, rinitis vasomotor, rinitis, nasofaringitis dan selsema biasa) sudah melibatkan mukosa hidung, dan secara mekanistik ia mungkin boleh digunakan untuk penyakit rongga hidung secara umum.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Guaifenesin ialah (terjemahan tidak rasmi): “Tidak diketahui” Teks asal bahasa Inggeris: "Unknown" ([ChEMBL CHEMBL980 (guaifenesin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL980), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, guaifenesin ialah ekspektoran yang menipiskan dan melonggarkan hingus saluran pernafasan. Indikasi asalnya (rinitis alergi, rinitis vasomotor, rinitis, nasofaringitis dan selsema biasa) sudah melibatkan mukosa hidung, dan secara mekanistik ia mungkin boleh digunakan untuk penyakit rongga hidung secara umum.
 
 Hubungan ini bergantung pada pertindihan indikasi, bukan mekanisme yang telah ditentukan. Skor TxGNN sangat tinggi (0.9998), tetapi ia ialah ramalan pengiraan dan sebahagian besarnya bertindih dengan penggunaan berlabel sedia ada. Oleh itu, nilai penemuan "baharu" ini terhad.
 
@@ -132,11 +132,12 @@ Maklumat amaran utama, kontraindikasi label dan interaksi ubat tidak tersedia. S
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL980 (guaifenesin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL980) |
 
 <!-- review:end log -->
 

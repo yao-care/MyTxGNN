@@ -60,7 +60,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, dutasteride ialah perencat dwi 5-alfa-reduktase yang menurunkan dihidrotestosteron (DHT). Keberkesanannya dalam BPH telah dibuktikan, dan secara teori kesan anti-androgen ini boleh mempengaruhi pertumbuhan rambut yang bergantung kepada androgen.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Dutasteride (terjemahan tidak rasmi): “Dutasteride merencat penukaran testosteron kepada DHT. DHT ialah androgen yang terutamanya bertanggungjawab bagi perkembangan awal dan pembesaran seterusnya kelenjar prostat. Testosteron ditukar kepada DHT oleh enzim 5 alfa-reduktase, yang wujud sebagai 2 isoform, jenis 1 dan jenis 2.” Teks asal bahasa Inggeris: "Dutasteride inhibits the conversion of testosterone to DHT. DHT is the androgen primarily responsible for the initial development and subsequent enlargement of the prostate gland. Testosterone is converted to DHT by the enzyme 5 alpha-reductase, which exists as 2 isoforms, type 1 and type 2." ([DailyMed: dutasteride prescribing information, Strides Pharma Science Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c78d18cf-05df-4154-b2f9-39cc374ca9e3), versi 2026-08-27; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, dutasteride ialah perencat dwi 5-alfa-reduktase yang menurunkan dihidrotestosteron (DHT). Keberkesanannya dalam BPH telah dibuktikan, dan secara teori kesan anti-androgen ini boleh mempengaruhi pertumbuhan rambut yang bergantung kepada androgen.
 
 Namun, sindrom Ambras ialah gangguan kongenital yang jarang berlaku, disebabkan oleh penyusunan semula genom yang menjejaskan regulasi TRPS1, dan bukan terutamanya didorong oleh androgen. Rasional mekanistik adalah **lemah dan spekulatif**.
 
@@ -108,6 +108,19 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi utama ini.
 - Bukti pra-klinikal atau laporan kes yang menunjukkan peranan laluan androgen/5-alfa-reduktase dalam hipertrikosis jenis Ambras
 - Penilaian status pendaftaran dan laluan pentadbiran yang tersedia di Malaysia
 - Pertimbangkan untuk menumpukan kajian lanjut pada calon yang lebih munasabah secara biologi, seperti hipotrikosis simpleks kulit kepala (kategori "Research Question"), berbanding indikasi kedudukan teratas ini
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: dutasteride prescribing information, Strides Pharma Science Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c78d18cf-05df-4154-b2f9-39cc374ca9e3) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

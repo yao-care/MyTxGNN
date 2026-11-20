@@ -62,7 +62,7 @@ Pada masa ini terdapat **0 percubaan klinikal** dan **14 penerbitan** yang berka
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang disusun untuk laporan ini. Berdasarkan maklumat yang diketahui, efavirenz ialah NNRTI yang merencat transkriptase balik HIV-1. Keberkesanannya dalam jangkitan HIV-1 telah dibuktikan, dan secara mekanisme ia mungkin terpakai kepada virus yang mengekodkan transkriptase balik HIV-1.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Efavirenz (terjemahan tidak rasmi): “Efavirenz ialah ubat antivirus. […] Efavirenz ialah NNRTI HIV-1. Aktiviti efavirenz diperantarakan terutamanya oleh perencatan tidak kompetitif transkriptase berbalik HIV-1. Transkriptase berbalik HIV-2 dan polimerase DNA sel manusia α,β, γ, dan δ tidak direncatkan oleh efavirenz.” Teks asal bahasa Inggeris: "Efavirenz is an antiviral drug. […] Efavirenz is an NNRTI of HIV-1. Efavirenz activity is mediated predominantly by noncompetitive inhibition of HIV-1 reverse transcriptase. HIV-2 reverse transcriptase and human cellular DNA polymerases α,β, γ, and δ are not inhibited by efavirenz." ([DailyMed: efavirenz prescribing information, Macleods Pharmaceuticals Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13ca3456-e5bf-4bb1-af95-b1378658a358), versi 2024-06-28; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, efavirenz ialah NNRTI yang merencat transkriptase balik HIV-1. Keberkesanannya dalam jangkitan HIV-1 telah dibuktikan, dan secara mekanisme ia mungkin terpakai kepada virus yang mengekodkan transkriptase balik HIV-1.
 
 Penerbitan yang ditemui berkaitan dengan RT-SHIV, iaitu SIV kimera yang transkriptase baliknya digantikan dengan versi HIV-1. Ini menjadikan virus tersebut sensitif kepada NNRTI dan boleh menjangkiti makaka. Pautan mekanisme memang langsung (perencatan RT HIV-1), tetapi bukti terhad kepada model primata bukan manusia dengan virus yang direka secara buatan. SIV jenis liar secara semula jadi rintang terhadap NNRTI, jadi dapatan ini tidak boleh digeneralisasikan kepada jangkitan SIV secara umum.
 
@@ -136,6 +136,19 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej produk.
 
 - **Sindrom imunodefisiensi didapati kucing (FIV):** Skor TxGNN 0.9980. Hanya satu kajian biokimia/struktur in vitro tersedia, tanpa percubaan klinikal atau data in vivo pada kucing. RT FIV umumnya kurang sensitif kepada NNRTI, jadi aktiviti efavirenz tidak pasti. Ini indikasi veterinar tanpa kaitan klinikal untuk manusia. Tahap bukti L5, keputusan Hold.
 - **Gangguan perkembangan saraf dengan gaya berjalan ataksia, ketiadaan pertuturan dan pengurangan jirim putih kortikal:** Skor TxGNN 0.9977. Tiada percubaan klinikal atau literatur. Kesan sampingan neuropsikiatri efavirenz yang diketahui menjadi kebimbangan keselamatan pada populasi perkembangan saraf. Tahap bukti L5, keputusan Hold.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: efavirenz prescribing information, Macleods Pharmaceuticals Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13ca3456-e5bf-4bb1-af95-b1378658a358) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -9,7 +9,7 @@
   "with_current": 39,
   "none_current": 0,
   "without_data": 0,
-  "with_reviews": 13,
+  "with_reviews": 34,
   "rows": [
    {
     "t": "Acetylcysteine",
@@ -18,8 +18,8 @@
     "i": "Penyakit trombotik",
     "lt": 36,
     "lv": 36,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -40,8 +40,8 @@
     "i": "Gangguan Hiperaktiviti Kurang Perhatian",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -51,8 +51,8 @@
     "i": "Sindrom mielodisplastik",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -62,8 +62,8 @@
     "i": "leukemia mieloid",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -84,8 +84,8 @@
     "i": "pneumocystosis",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -95,7 +95,7 @@
     "i": "Sarkoma Ewing",
     "lt": 8,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Terdapat 8 pendaftaran produk doxorubicin yang sah di Malaysia, semuanya produk bahan tunggal\"",
     "x": 0
    },
@@ -106,7 +106,7 @@
     "i": "plasma cell myeloma",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"kerana tiada lesen NPRA direkodkan\"",
     "x": 0
    },
@@ -117,7 +117,7 @@
     "i": "Gangguan sakit kepala",
     "lt": 6,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Menurut data yang dikumpulkan untuk laporan ini, ketorolac tidak mempunyai pendaftaran yang sah di…",
     "x": 0
    },
@@ -128,8 +128,8 @@
     "i": "seborrheic dermatitis",
     "lt": 16,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -150,7 +150,7 @@
     "i": "Gangguan Obsesif-Kompulsif",
     "lt": 27,
     "lv": 26,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Data yang dikumpulkan merekodkan 27 lesen sah dan tiada yang dibatalkan, jadi status pasaran ialah…",
     "x": 0
    },
@@ -161,8 +161,8 @@
     "i": "Mania gangguan afektif bipolar",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -172,8 +172,8 @@
     "i": "Sarkoma Ewing",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -205,8 +205,8 @@
     "i": "liposarcoma",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -216,8 +216,8 @@
     "i": "Amenorea",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -227,7 +227,7 @@
     "i": "Alopesia areata",
     "lt": 58,
     "lv": 57,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Data tempatan merekodkan 58 lesen, semuanya sah (29 produk satu bahan dan 29 produk kombinasi)\"",
     "x": 0
    },
@@ -238,8 +238,8 @@
     "i": "Alopesia areata",
     "lt": 34,
     "lv": 34,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -249,7 +249,7 @@
     "i": "Jangkitan virus hepatitis B",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak didaftarkan di Malaysia\"",
     "x": 0
    },
@@ -260,8 +260,8 @@
     "i": "myeloid leukemia",
     "lt": 27,
     "lv": 27,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -271,7 +271,7 @@
     "i": "Jerawat",
     "lt": 16,
     "lv": 15,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Berdasarkan data tempatan, status pasaran ialah dipasarkan, dengan 15 lesen sah dan tiada lesen…",
     "x": 0
    },
@@ -282,8 +282,8 @@
     "i": "Gangguan sakit kepala",
     "lt": 37,
     "lv": 37,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -293,8 +293,8 @@
     "i": "Insomnia",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -304,8 +304,8 @@
     "i": "Agorafobia",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -326,7 +326,7 @@
     "i": "Penyakit mata",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"memandangkan rekod menunjukkan tiada pendaftaran di Malaysia\"",
     "x": 0
    },
@@ -337,8 +337,8 @@
     "i": "follicular lymphoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -348,7 +348,7 @@
     "i": "malignant pleural mesothelioma",
     "lt": 9,
     "lv": 9,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"oxaliplatin tidak berdaftar di Malaysia dan\"",
     "x": 0
    },
@@ -359,8 +359,8 @@
     "i": "seborrheic dermatitis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -370,8 +370,8 @@
     "i": "alopecia areata",
     "lt": 40,
     "lv": 40,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -381,8 +381,8 @@
     "i": "Gangguan migrain",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -392,8 +392,8 @@
     "i": "dermatitis",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -414,8 +414,8 @@
     "i": "liposarcoma",
     "lt": 20,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -425,7 +425,7 @@
     "i": "dermatitis",
     "lt": 13,
     "lv": 13,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak didaftarkan di Malaysia dan\"",
     "x": 0
    },
@@ -436,7 +436,7 @@
     "i": "Ewing sarcoma",
     "lt": 8,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"(ubat ini tidak berdaftar di Malaysia, jadi laluan akses seperti pendaftaran atau penggunaan khas…",
     "x": 0
    }
@@ -460,7 +460,7 @@
   "with_current": 48,
   "none_current": 0,
   "without_data": 0,
-  "with_reviews": 20,
+  "with_reviews": 36,
   "rows": [
    {
     "t": "Acitretin",
@@ -469,7 +469,7 @@
     "i": "acne (disease)",
     "lt": 4,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"dan ubat ini tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -480,8 +480,8 @@
     "i": "Insomnia",
     "lt": 14,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -502,8 +502,8 @@
     "i": "Jangkitan Staphylococcus aureus",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -513,7 +513,7 @@
     "i": "Sindrom kaki resah",
     "lt": 4,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Clonazepam pada masa ini tidak mempunyai produk berdaftar yang dikenal pasti dalam data yang…",
     "x": 0
    },
@@ -568,8 +568,8 @@
     "i": "Leukemia mieloid",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -579,7 +579,7 @@
     "i": "Hipertensi pulmonari",
     "lt": 5,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Produk juga tidak berdaftar di Malaysia, dan\"",
     "x": 0
    },
@@ -590,7 +590,7 @@
     "i": "Konjunktivitis",
     "lt": 9,
     "lv": 9,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Rifampicin tidak berdaftar di Malaysia dan\"",
     "x": 0
    },
@@ -601,7 +601,7 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 4,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"dan tiada lesen ropinirole di Malaysia dalam data yang dikumpulkan\"",
     "x": 0
    },
@@ -623,8 +623,8 @@
     "i": "Gangguan migrain",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -634,8 +634,8 @@
     "i": "Takikardia ventrikel polimorfik katekolaminergik",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -645,7 +645,7 @@
     "i": "Gangguan migrain",
     "lt": 13,
     "lv": 13,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Atropin juga tidak mempunyai lesen berdaftar di Malaysia\"",
     "x": 0
    },
@@ -656,8 +656,8 @@
     "i": "Liposarkoma",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -667,7 +667,7 @@
     "i": "Alopesia musinosa",
     "lt": 98,
     "lv": 97,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Semua 97 lesen yang direkodkan berstatus sah\"",
     "x": 0
    },
@@ -689,8 +689,8 @@
     "i": "autosomal resesif",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -711,7 +711,7 @@
     "i": "Karsinoma paru-paru sel kecil",
     "lt": 4,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Sitarabin juga tidak didaftarkan di Malaysia\"",
     "x": 0
    },
@@ -722,7 +722,7 @@
     "i": "Porfiria hepatik",
     "lt": 6,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"memandangkan tiada lesen berdaftar\"",
     "x": 0
    },
@@ -733,7 +733,7 @@
     "i": "Gangguan obsesif-kompulsif",
     "lt": 4,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak didaftarkan di Malaysia\"",
     "x": 0
    },
@@ -766,7 +766,7 @@
     "i": "hypouricemia, renal",
     "lt": 16,
     "lv": 14,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia dan\"",
     "x": 0
    },
@@ -777,7 +777,7 @@
     "i": "Jangkitan HIV",
     "lt": 11,
     "lv": 10,
-    "r": 2,
+    "r": 3,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia dan\"",
     "x": 0
    },
@@ -788,8 +788,8 @@
     "i": "rheumatoid arthritis",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -810,7 +810,7 @@
     "i": "Jerawat",
     "lt": 33,
     "lv": 32,
-    "r": 1,
+    "r": 2,
     "rs": "Bilangan pendaftaran: “Ketoconazole mempunyai 33 lesen berdaftar, semuanya sah (31” → “Ketoconazole mempunyai…",
     "x": 0
    },
@@ -821,8 +821,8 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 30,
     "lv": 29,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -832,7 +832,7 @@
     "i": "Jerawat",
     "lt": 43,
     "lv": 42,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Miconazole berstatus dipasarkan di Malaysia, dengan sekurang-kurangnya 39 lesen sah dan tiada lesen…",
     "x": 0
    },
@@ -843,7 +843,7 @@
     "i": "Hipotrikosis simpleks kulit kepala",
     "lt": 15,
     "lv": 13,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Terdapat 15 lesen sah\"",
     "x": 0
    },
@@ -854,8 +854,8 @@
     "i": "Sindrom Kaki Resah",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -865,8 +865,8 @@
     "i": "Gangguan migrain",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -909,8 +909,8 @@
     "i": "Penyakit fibrosistik payudara",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -920,7 +920,7 @@
     "i": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"(tiada pendaftaran)\"",
     "x": 0
    },
@@ -942,8 +942,8 @@
     "i": "Hipertrikosis",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -964,8 +964,8 @@
     "i": "Jangkitan virus hepatitis B",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -975,8 +975,8 @@
     "i": "Rabdomiosarkoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -986,8 +986,8 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    }
   ],
@@ -1009,7 +1009,7 @@
   "with_current": 520,
   "none_current": 3,
   "without_data": 0,
-  "with_reviews": 144,
+  "with_reviews": 436,
   "rows": [
    {
     "t": "Ascorbic Acid",
@@ -1018,8 +1018,8 @@
     "i": "Malformasi esofagus tidak sindromik",
     "lt": 1245,
     "lv": 1199,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1029,8 +1029,8 @@
     "i": "Displasia akromesomelik jenis Campailla Martinelli",
     "lt": 924,
     "lv": 902,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1040,8 +1040,8 @@
     "i": "biotin metabolic disease",
     "lt": 540,
     "lv": 527,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1051,7 +1051,7 @@
     "i": "biotin metabolic disease",
     "lt": 486,
     "lv": 470,
-    "r": 1,
+    "r": 2,
     "rs": "Bilangan pendaftaran: “Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi” → “Jumlah pendaftaran…",
     "x": 0
    },
@@ -1073,7 +1073,7 @@
     "i": "acne (disease)",
     "lt": 314,
     "lv": 304,
-    "r": 1,
+    "r": 2,
     "rs": "Bilangan pendaftaran: “Jumlah keseluruhan ialah 280 lesen” → “Terdapat 304 lesen sah daripada jumlah…",
     "x": 0
    },
@@ -1150,7 +1150,7 @@
     "i": "Anemia pramatang",
     "lt": 152,
     "lv": 146,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"dan produk ini tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -1161,8 +1161,8 @@
     "i": "Sindrom hiperkelikatan poliklonal",
     "lt": 148,
     "lv": 143,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1172,8 +1172,8 @@
     "i": "Infarksi batang otak",
     "lt": 128,
     "lv": 123,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1194,8 +1194,8 @@
     "i": "Hiperamilasemia",
     "lt": 100,
     "lv": 99,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1205,7 +1205,7 @@
     "i": "Gangguan migrain",
     "lt": 81,
     "lv": 81,
-    "r": 2,
+    "r": 3,
     "rs": "Dipadam: \"Etorikoksib juga tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -1216,8 +1216,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 82,
     "lv": 79,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1238,8 +1238,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 70,
     "lv": 70,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1249,8 +1249,8 @@
     "i": "Konjunktivitis papilari",
     "lt": 71,
     "lv": 69,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1260,7 +1260,7 @@
     "i": "Jerawat",
     "lt": 67,
     "lv": 65,
-    "r": 1,
+    "r": 2,
     "rs": "Bilangan pendaftaran: 67 pendaftaran; 65 sah, 1 tamat tempoh, 1 tidak lagi tersenarai dalam daftar semasa NPRA",
     "x": 0
    },
@@ -1271,8 +1271,8 @@
     "i": "Konjunktivitis papilari",
     "lt": 67,
     "lv": 65,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1282,7 +1282,7 @@
     "i": "tendinitis",
     "lt": 66,
     "lv": 64,
-    "r": 1,
+    "r": 2,
     "rs": "Bilangan pendaftaran: “Terdapat 63 pendaftaran produk pregabalin bahan tunggal yang” → “Terdapat 64…",
     "x": 0
    },
@@ -1293,8 +1293,8 @@
     "i": "Prinzmetal angina",
     "lt": 62,
     "lv": 62,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1337,8 +1337,8 @@
     "i": "brain stem infarction",
     "lt": 50,
     "lv": 50,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1359,7 +1359,7 @@
     "i": "Artritis reumatoid",
     "lt": 50,
     "lv": 47,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Rivaroxaban tidak mempunyai pendaftaran yang direkodkan di Malaysia dalam data yang dikumpulkan\"",
     "x": 0
    },
@@ -1370,8 +1370,8 @@
     "i": "Keratokonjunktivitis epitelium punktat",
     "lt": 46,
     "lv": 46,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1381,8 +1381,8 @@
     "i": "Penyakit buah pinggang hipertensif malignan",
     "lt": 47,
     "lv": 46,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1403,8 +1403,8 @@
     "i": "duodenal obstruction",
     "lt": 46,
     "lv": 46,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1414,8 +1414,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 46,
     "lv": 46,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1425,8 +1425,8 @@
     "i": "Penyakit rongga hidung",
     "lt": 45,
     "lv": 45,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1436,8 +1436,8 @@
     "i": "alopecia mucinosa",
     "lt": 47,
     "lv": 45,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1447,7 +1447,7 @@
     "i": "Sindrom hiperkelikatan poliklonal",
     "lt": 45,
     "lv": 44,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Azithromycin mempunyai 45 pendaftaran yang sah di Malaysia (semuanya produk bahan tunggal), dan…",
     "x": 0
    },
@@ -1458,8 +1458,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 44,
     "lv": 44,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1480,8 +1480,8 @@
     "i": "beta-ketothiolase deficiency",
     "lt": 46,
     "lv": 43,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1491,8 +1491,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 42,
     "lv": 42,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1513,7 +1513,7 @@
     "i": "Sklerosis sistemik meresap",
     "lt": 42,
     "lv": 40,
-    "r": 1,
+    "r": 2,
     "rs": "Bilangan pendaftaran: “terdapat 42 lesen berdaftar, semuanya sah (41 produk” → “terdapat 42 lesen berdaftar…",
     "x": 0
    },
@@ -1535,8 +1535,8 @@
     "i": "Sindrom hiperkelikatan poliklonal",
     "lt": 39,
     "lv": 39,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1546,8 +1546,8 @@
     "i": "Keratitis pendedahan",
     "lt": 38,
     "lv": 38,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1579,7 +1579,7 @@
     "i": "Alopesia musinosa",
     "lt": 41,
     "lv": 37,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Daripada keseluruhan 38 lesen, 36 masih sah dan 2 telah dibatalkan\"",
     "x": 0
    },
@@ -1601,8 +1601,8 @@
     "i": "Konjunktivitis rosasea",
     "lt": 36,
     "lv": 36,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1623,7 +1623,7 @@
     "i": "Ekzema atopik",
     "lt": 35,
     "lv": 35,
-    "r": 1,
+    "r": 2,
     "rs": "Bilangan pendaftaran: “Terdapat 34 lesen, semuanya sah (25 produk bahan tunggal dan” → “Terdapat 35 lesen…",
     "x": 0
    },
@@ -1634,8 +1634,8 @@
     "i": "polyp of vocal cord",
     "lt": 35,
     "lv": 35,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1667,8 +1667,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 35,
     "lv": 34,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1711,8 +1711,8 @@
     "i": "Penyakit renal hipertensif malignan",
     "lt": 32,
     "lv": 32,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1744,7 +1744,7 @@
     "i": "Migrain",
     "lt": 32,
     "lv": 30,
-    "r": 1,
+    "r": 2,
     "rs": "Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan 30 lesen sah; 2 nombor…",
     "x": 0
    },
@@ -1799,7 +1799,7 @@
     "i": "Sindrom hiperviskositi poliklonal",
     "lt": 29,
     "lv": 29,
-    "r": 1,
+    "r": 2,
     "rs": "Bilangan pendaftaran: “Terdapat 28 lesen, semuanya sah (27 produk bahan tunggal dan” → “Terdapat 29 lesen…",
     "x": 0
    },
@@ -1810,8 +1810,8 @@
     "i": "Artritis bakteria",
     "lt": 29,
     "lv": 29,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1821,7 +1821,7 @@
     "i": "Penyakit renal hipertensi malignan",
     "lt": 30,
     "lv": 28,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Terdapat sekurang-kurangnya 30 lesen, semuanya sah (27 produk bahan tunggal dan 3 produk kombinasi)\"",
     "x": 0
    },
@@ -1854,8 +1854,8 @@
     "i": "pneumocystosis",
     "lt": 28,
     "lv": 28,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1865,8 +1865,8 @@
     "i": "atopic eczema",
     "lt": 27,
     "lv": 27,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1898,7 +1898,7 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 29,
     "lv": 27,
-    "r": 1,
+    "r": 2,
     "rs": "Bilangan pendaftaran: “Terdapat 23 pendaftaran sah, semuanya produk bahan tunggal.” → “Terdapat 27…",
     "x": 0
    },
@@ -1909,8 +1909,8 @@
     "i": "Palsi pandangan mendatar familial dengan skoliosis progresif",
     "lt": 26,
     "lv": 26,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1920,8 +1920,8 @@
     "i": "Sindrom hiperkelikatan poliklonal",
     "lt": 29,
     "lv": 26,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1931,8 +1931,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 25,
     "lv": 25,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1942,7 +1942,7 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 25,
     "lv": 24,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak mempunyai pendaftaran di Malaysia\"",
     "x": 0
    },
@@ -1964,8 +1964,8 @@
     "i": "nasal cavity disease",
     "lt": 23,
     "lv": 23,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1975,7 +1975,7 @@
     "i": "Penyakit rongga hidung",
     "lt": 23,
     "lv": 23,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia, dan\"",
     "x": 0
    },
@@ -1997,8 +1997,8 @@
     "i": "Migrain dengan aura batang otak",
     "lt": 23,
     "lv": 22,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2008,8 +2008,8 @@
     "i": "heart fibrosarcoma",
     "lt": 22,
     "lv": 22,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2019,8 +2019,8 @@
     "i": "autoimmune oophoritis",
     "lt": 22,
     "lv": 22,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2030,8 +2030,8 @@
     "i": "gaze palsy, familial horizontal, with progressive scoliosis",
     "lt": 25,
     "lv": 22,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2041,8 +2041,8 @@
     "i": "Atrofoderma vermikulata",
     "lt": 23,
     "lv": 21,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2052,8 +2052,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 22,
     "lv": 21,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2063,8 +2063,8 @@
     "i": "Perforasi ulser peptik",
     "lt": 21,
     "lv": 21,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2074,8 +2074,8 @@
     "i": "HIV infectious disease",
     "lt": 21,
     "lv": 21,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2085,7 +2085,7 @@
     "i": "Amenorea",
     "lt": 22,
     "lv": 21,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Diosmin juga tidak berdaftar di Malaysia dan\"",
     "x": 0
    },
@@ -2096,8 +2096,8 @@
     "i": "Hiperamilasemia",
     "lt": 21,
     "lv": 21,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2129,8 +2129,8 @@
     "i": "benign prostatic hyperplasia (disease)",
     "lt": 20,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2151,8 +2151,8 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 20,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2162,8 +2162,8 @@
     "i": "Sindrom hiperkelikatan poliklonal",
     "lt": 20,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2206,8 +2206,8 @@
     "i": "Sindrom orang kaku klasik",
     "lt": 19,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2217,7 +2217,7 @@
     "i": "Distrofi retina dengan atau tanpa anomali ekstraokular",
     "lt": 19,
     "lv": 19,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini tidak didaftarkan di Malaysia, dan\"",
     "x": 0
    },
@@ -2239,8 +2239,8 @@
     "i": "Laringitis",
     "lt": 18,
     "lv": 18,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2272,8 +2272,8 @@
     "i": "Malformasi pernafasan",
     "lt": 18,
     "lv": 18,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2283,8 +2283,8 @@
     "i": "craniofacial conodysplasia",
     "lt": 17,
     "lv": 17,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2294,7 +2294,7 @@
     "i": "visceral calciphylaxis",
     "lt": 17,
     "lv": 17,
-    "r": 2,
+    "r": 3,
     "rs": "Dipadam: \"kerana tiada lesen aktif\"",
     "x": 0
    },
@@ -2338,8 +2338,8 @@
     "i": "brachydactyly-syndactyly syndrome",
     "lt": 17,
     "lv": 17,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2349,8 +2349,8 @@
     "i": "Glaukoma",
     "lt": 17,
     "lv": 17,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2360,8 +2360,8 @@
     "i": "Sindrom antidiuresis tidak wajar nefrogenik",
     "lt": 17,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2371,7 +2371,7 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 18,
     "lv": 16,
-    "r": 2,
+    "r": 3,
     "rs": "Bilangan pendaftaran: “18 lesen produk tunggal yang sah kesemuanya” → 18 lesen, 16 sah, 2 tidak lagi…",
     "x": 0
    },
@@ -2382,8 +2382,8 @@
     "i": "rectum mucinous adenocarcinoma",
     "lt": 16,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2393,7 +2393,7 @@
     "i": "autoimmune oophoritis",
     "lt": 16,
     "lv": 16,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini tidak mempunyai pendaftaran di Malaysia dalam data yang dikompilasi, dan\"",
     "x": 0
    },
@@ -2404,8 +2404,8 @@
     "i": "Arteriosklerosis intrakranial",
     "lt": 16,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2415,8 +2415,8 @@
     "i": "Adenokarsinoma gaster dan poliposis proksimal gaster",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2426,8 +2426,8 @@
     "i": "Kolangitis sklerosis",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2437,8 +2437,8 @@
     "i": "Urtikaria alergik",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2448,8 +2448,8 @@
     "i": "Penyakit paru-paru obstruktif",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2459,8 +2459,8 @@
     "i": "duodenal obstruction",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2470,8 +2470,8 @@
     "i": "autoimmune oophoritis",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2481,8 +2481,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2503,8 +2503,8 @@
     "i": "Konjunktivitis berjangkit akut",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2514,8 +2514,8 @@
     "i": "Malformasi pernafasan",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2525,8 +2525,8 @@
     "i": "Penyakit buah pinggang hipertensi malignan",
     "lt": 14,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2536,8 +2536,8 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 14,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2547,8 +2547,8 @@
     "i": "Displasia akromesomelik jenis Campailla Martinelli",
     "lt": 17,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2558,8 +2558,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 14,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2569,7 +2569,7 @@
     "i": "Rasmussen subacute encephalitis",
     "lt": 15,
     "lv": 14,
-    "r": 1,
+    "r": 2,
     "rs": "Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Daripada 15 pendaftaran, 14…",
     "x": 0
    },
@@ -2580,7 +2580,7 @@
     "i": "faciodigitogenital syndrome",
     "lt": 14,
     "lv": 14,
-    "r": 2,
+    "r": 3,
     "rs": "Dipadam: \"Methylphenidate tidak berdaftar di Malaysia, dan\"",
     "x": 0
    },
@@ -2602,7 +2602,7 @@
     "i": "malignant cutaneous granular cell skin tumor",
     "lt": 14,
     "lv": 14,
-    "r": 1,
+    "r": 2,
     "rs": "Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan 14 pendaftaran, semuanya sah)”",
     "x": 0
    },
@@ -2613,8 +2613,8 @@
     "i": "Sindrom orang kaku klasik",
     "lt": 14,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2624,8 +2624,8 @@
     "i": "Penyakit renal hipertensif malignan",
     "lt": 13,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2635,8 +2635,8 @@
     "i": "Skleroderma meresap",
     "lt": 13,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2646,8 +2646,8 @@
     "i": "Sindrom imunodefisiensi dapatan kucing",
     "lt": 14,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2657,7 +2657,7 @@
     "i": "Jerawat",
     "lt": 13,
     "lv": 13,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak didaftarkan di Malaysia, dan\"",
     "x": 0
    },
@@ -2668,8 +2668,8 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 13,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2679,8 +2679,8 @@
     "i": "acute urate nephropathy",
     "lt": 12,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2690,8 +2690,8 @@
     "i": "Sindrom Ohdo dan variannya",
     "lt": 12,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2701,8 +2701,8 @@
     "i": "pleural empyema (disease)",
     "lt": 12,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2712,8 +2712,8 @@
     "i": "Penyakit kawasan orbit",
     "lt": 12,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2723,8 +2723,8 @@
     "i": "parameningeal embryonal rhabdomyosarcoma",
     "lt": 13,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2734,7 +2734,7 @@
     "i": "hyperthyroidism",
     "lt": 12,
     "lv": 12,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"dan produk tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -2745,8 +2745,8 @@
     "i": "Neoplasma saraf trigeminal",
     "lt": 12,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2756,8 +2756,8 @@
     "i": "Amenorea",
     "lt": 12,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2767,7 +2767,7 @@
     "i": "rheumatoid nodulosis",
     "lt": 12,
     "lv": 12,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"dan tretinoin tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -2778,8 +2778,8 @@
     "i": "Porfiria hepatik",
     "lt": 11,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2789,8 +2789,8 @@
     "i": "Hiperamilasemia",
     "lt": 11,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2811,8 +2811,8 @@
     "i": "PLA2G6-associated neurodegeneration",
     "lt": 11,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2822,8 +2822,8 @@
     "i": "Hipermobiliti tulang ekor",
     "lt": 13,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2833,8 +2833,8 @@
     "i": "Preeklampsia",
     "lt": 10,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2844,8 +2844,8 @@
     "i": "nasal cavity disease",
     "lt": 10,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2855,8 +2855,8 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 11,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2866,7 +2866,7 @@
     "i": "primary release disorder of platelets",
     "lt": 10,
     "lv": 10,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"(kini tiada lesen direkodkan)\"",
     "x": 0
    },
@@ -2888,8 +2888,8 @@
     "i": "Sindrom anggota kaku fokal",
     "lt": 10,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2910,7 +2910,7 @@
     "i": "Konjunktivitis berjangkit akut",
     "lt": 10,
     "lv": 10,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"(memandangkan produk tidak berdaftar di Malaysia, rujuk sumber sisipan pakej lain)\"",
     "x": 0
    },
@@ -2921,8 +2921,8 @@
     "i": "Demam paratifoid",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2932,8 +2932,8 @@
     "i": "Keratosis folikel songsang vulva",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2943,8 +2943,8 @@
     "i": "Neoplasma epiglotis",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2954,7 +2954,7 @@
     "i": "Sindrom antidiuresis tidak wajar nefrogenik",
     "lt": 10,
     "lv": 9,
-    "r": 1,
+    "r": 2,
     "rs": "Status pendaftaran: “Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibatalkan.” → “Terdapat…",
     "x": 0
    },
@@ -2976,8 +2976,8 @@
     "i": "Hipodisplasia/aplasia renal",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -2987,7 +2987,7 @@
     "i": "pulmonary hypertension owing to lung disease and/or hypoxia",
     "lt": 9,
     "lv": 9,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Lisinopril tidak berdaftar di Malaysia, dan\"",
     "x": 0
    },
@@ -3009,8 +3009,8 @@
     "i": "esotropia",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3020,8 +3020,8 @@
     "i": "Sindrom antidiuresis tidak wajar nefrogenik",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3031,8 +3031,8 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3064,8 +3064,8 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3097,7 +3097,7 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 8,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Selain itu, finasteride tidak didaftarkan di Malaysia\"",
     "x": 0
    },
@@ -3108,8 +3108,8 @@
     "i": "Penyakit renal hipertensi malignan",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3119,8 +3119,8 @@
     "i": "pneumocystosis",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3130,8 +3130,8 @@
     "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3152,8 +3152,8 @@
     "i": "pulmonary hypertension owing to lung disease and/or hypoxia",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3163,8 +3163,8 @@
     "i": "thrombotic disease",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3174,8 +3174,8 @@
     "i": "Gangguan pasca-bakteria",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3196,8 +3196,8 @@
     "i": "Vitamin D kekurangan lapuk",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3218,8 +3218,8 @@
     "i": "congenital prothrombin deficiency",
     "lt": 9,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3240,8 +3240,8 @@
     "i": "Konjunktivitis",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3251,7 +3251,7 @@
     "i": "manic bipolar affective disorder",
     "lt": 7,
     "lv": 7,
-    "r": 3,
+    "r": 4,
     "rs": "Dipadam: \"Memandangkan lacosamide tidak berdaftar di Malaysia, menilai laluan pendaftaran dan ketersediaan…",
     "x": 0
    },
@@ -3262,7 +3262,7 @@
     "i": "Koarktasi aorta atipikal",
     "lt": 7,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"kerana ia tidak mempunyai lesen NPRA\"",
     "x": 0
    },
@@ -3273,8 +3273,8 @@
     "i": "Karsinoma puting",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3284,8 +3284,8 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3295,8 +3295,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3306,8 +3306,8 @@
     "i": "Penyakit fibrosistik payudara",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3317,8 +3317,8 @@
     "i": "pulmonary blastoma",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3328,8 +3328,8 @@
     "i": "Alopesia musinosa",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3350,8 +3350,8 @@
     "i": "serous conjunctivitis except viral",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3361,8 +3361,8 @@
     "i": "Gangguan pelepasan primer platelet",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3372,8 +3372,8 @@
     "i": "diffuse scleroderma",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3383,8 +3383,8 @@
     "i": "Jangkitan virus imunodefisiensi simian",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3394,8 +3394,8 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 7,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3416,8 +3416,8 @@
     "i": "Gangguan Hiperaktiviti Kekurangan Perhatian",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3427,8 +3427,8 @@
     "i": "Asidosis tubul renal",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3449,8 +3449,8 @@
     "i": "Penyakit buah pinggang hipertensif malignan",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3460,8 +3460,8 @@
     "i": "refractory cytopenia of childhood",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3471,7 +3471,7 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 6,
     "lv": 6,
-    "r": 3,
+    "r": 4,
     "rs": "Dipadam: \"(belum ada kerana tiada pendaftaran NPRA)\"",
     "x": 0
    },
@@ -3493,8 +3493,8 @@
     "i": "schizoid personality disorder",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3504,7 +3504,7 @@
     "i": "Miasis",
     "lt": 6,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak didaftarkan di Malaysia, dan\"",
     "x": 0
    },
@@ -3526,7 +3526,7 @@
     "i": "insomnia (disease)",
     "lt": 6,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"kerana iohexol tidak mempunyai lesen berdaftar dalam data yang dikumpulkan\"",
     "x": 0
    },
@@ -3537,7 +3537,7 @@
     "i": "duodenal obstruction",
     "lt": 6,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Lansoprazole tidak berdaftar di Malaysia (0 pendaftaran), maka tiada laluan pasaran tempatan sedia…",
     "x": 0
    },
@@ -3548,8 +3548,8 @@
     "i": "Gangguan pelepasan primer platelet",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3559,8 +3559,8 @@
     "i": "Sindrom Kesakitan Miofasial",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3570,7 +3570,7 @@
     "i": "Keratosis folikular songsang vulva",
     "lt": 6,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -3581,8 +3581,8 @@
     "i": "Opsismodisplasia",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3603,8 +3603,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3625,8 +3625,8 @@
     "i": "Prinzmetal angina",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3647,8 +3647,8 @@
     "i": "renal-hepatic-pancreatic dysplasia",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3658,8 +3658,8 @@
     "i": "focal stiff limb syndrome",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3669,8 +3669,8 @@
     "i": "Zink plasma meningkat",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3691,8 +3691,8 @@
     "i": "Ekzema atopik",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3702,8 +3702,8 @@
     "i": "prostate leiomyoma",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3713,8 +3713,8 @@
     "i": "pulmonary hypertension with unclear multifactorial mechanism",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3724,8 +3724,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3735,8 +3735,8 @@
     "i": "uterine inflammatory disease",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3746,8 +3746,8 @@
     "i": "Skleroderma meresap",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3757,8 +3757,8 @@
     "i": "autoimmune oophoritis",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3768,7 +3768,7 @@
     "i": "brachydactyly-syndactyly syndrome",
     "lt": 5,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -3779,8 +3779,8 @@
     "i": "pseudo-von Willebrand disease",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3790,7 +3790,7 @@
     "i": "Neoplasma saraf trigeminal",
     "lt": 5,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Lorazepam juga tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -3801,7 +3801,7 @@
     "i": "hemoglobinopathy",
     "lt": 5,
     "lv": 5,
-    "r": 2,
+    "r": 3,
     "rs": "Dipadam: \"dan ubat ini tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -3823,8 +3823,8 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3834,8 +3834,8 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3845,8 +3845,8 @@
     "i": "kekurangan protein pemindahan ester kolesterol",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3867,8 +3867,8 @@
     "i": "Otitis media berjangkit",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3878,7 +3878,7 @@
     "i": "Perforasi ulser peptik",
     "lt": 6,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Status pasaran ialah dipasarkan, dengan 6 lesen sah dan tiada lesen dibatalkan\"",
     "x": 0
    },
@@ -3889,8 +3889,8 @@
     "i": "Liposarkoma",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3900,8 +3900,8 @@
     "i": "cauda equina neoplasm",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3922,8 +3922,8 @@
     "i": "migraine disorder",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3933,8 +3933,8 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3944,8 +3944,8 @@
     "i": "Penyakit von Willebrand palsu",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3955,8 +3955,8 @@
     "i": "neuroblastoma",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3966,8 +3966,8 @@
     "i": "Angioedema didapati",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3977,8 +3977,8 @@
     "i": "Artritis reumatoid",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3988,8 +3988,8 @@
     "i": "Karsinoma payudara wanita",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3999,8 +3999,8 @@
     "i": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4010,8 +4010,8 @@
     "i": "Sindrom cauda equina",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4021,8 +4021,8 @@
     "i": "Pneumosistosis",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4043,8 +4043,8 @@
     "i": "Sindrom cauda equina",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4054,8 +4054,8 @@
     "i": "Angina Prinzmetal",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4065,8 +4065,8 @@
     "i": "Alopesia",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4076,8 +4076,8 @@
     "i": "Jangkitan HIV",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4087,8 +4087,8 @@
     "i": "Ekzema atopik",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4098,8 +4098,8 @@
     "i": "osteoarthritis",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4109,8 +4109,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4120,8 +4120,8 @@
     "i": "Gangguan pelepasan primer platelet",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4131,7 +4131,7 @@
     "i": "Sindrom imunodefisiensi didapati kucing",
     "lt": 4,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Tiada pendaftaran di Malaysia\"",
     "x": 0
    },
@@ -4153,8 +4153,8 @@
     "i": "Retinopati diabetik bukan proliferatif teruk",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4175,8 +4175,8 @@
     "i": "gastroduodenitis",
     "lt": 5,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4186,8 +4186,8 @@
     "i": "Penyakit von Willebrand palsu",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4208,8 +4208,8 @@
     "i": "visceral calciphylaxis",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4252,8 +4252,8 @@
     "i": "demam panas malignan akibat senaman",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4263,8 +4263,8 @@
     "i": "Hipertensi pulmonari",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4274,8 +4274,8 @@
     "i": "Malformasi arteriovenus pulmonari",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4285,8 +4285,8 @@
     "i": "Penyakit renal hipertensi malignan",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4318,8 +4318,8 @@
     "i": "Sindrom displasia rizomelik-mikroftalmia kolobomatus",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4329,8 +4329,8 @@
     "i": "malformation syndrome with odontal and/or periodontal component",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4340,8 +4340,8 @@
     "i": "Fibromatosis gingiva",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4362,8 +4362,8 @@
     "i": "liposarcoma",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4373,8 +4373,8 @@
     "i": "Adenokarsinoma mukinus rektum",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4384,7 +4384,7 @@
     "i": "Koarktasio aorta atipikal",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"dan produk tidak mempunyai pendaftaran di Malaysia\"",
     "x": 0
    },
@@ -4395,8 +4395,8 @@
     "i": "CMM7",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4406,8 +4406,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4417,8 +4417,8 @@
     "i": "Glaukoma keturunan primer",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4450,8 +4450,8 @@
     "i": "Osteoartritis",
     "lt": 4,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4461,8 +4461,8 @@
     "i": "Hodgkins lymphoma",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4472,7 +4472,7 @@
     "i": "tendinitis",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"dan ubat ini tidak mempunyai pendaftaran di Malaysia\"",
     "x": 0
    },
@@ -4494,7 +4494,7 @@
     "i": "symptomatic form of fragile X syndrome in female carrier",
     "lt": 6,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Status pendaftaran: “Semua lesen berstatus sah dan dipegang oleh Bayer Co. (Malaysia) Sdn. Bhd.” →…",
     "x": 0
    },
@@ -4505,8 +4505,8 @@
     "i": "lichen planus pemphigoides",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4516,8 +4516,8 @@
     "i": "congenital disorder of glycosylation with defective fucosylation",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4527,7 +4527,7 @@
     "i": "Keratosis seboroik",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"produk ini tidak berdaftar di Malaysia, dan\"",
     "x": 0
    },
@@ -4538,8 +4538,8 @@
     "i": "brachydactyly-syndactyly syndrome",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4560,7 +4560,7 @@
     "i": "autoimmune oophoritis",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -4571,8 +4571,8 @@
     "i": "alopecia",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4582,8 +4582,8 @@
     "i": "hereditary breast ovarian cancer syndrome",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4593,8 +4593,8 @@
     "i": "Hipotrikosis simpleks kulit kepala",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4604,8 +4604,8 @@
     "i": "beta-ketothiolase deficiency",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4615,8 +4615,8 @@
     "i": "ectomesenchymoma",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4626,8 +4626,8 @@
     "i": "Hipervitaminosis",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4637,8 +4637,8 @@
     "i": "pneumocystosis",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4648,8 +4648,8 @@
     "i": "Artritis bakteria",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4670,8 +4670,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4681,8 +4681,8 @@
     "i": "Epiglotitis",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4714,8 +4714,8 @@
     "i": "Adenoma vilus sekum",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4725,8 +4725,8 @@
     "i": "Malformasi pernafasan",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4736,8 +4736,8 @@
     "i": "Keratitis pendedahan",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4747,8 +4747,8 @@
     "i": "Sindrom displasia rizomelik-mikroftalmia kolobomatus",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4769,8 +4769,8 @@
     "i": "Neoplasma saraf trigeminal",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4780,8 +4780,8 @@
     "i": "Hodgkins lymphoma",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4802,8 +4802,8 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4813,8 +4813,8 @@
     "i": "Blok berkas cabang usang",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4824,8 +4824,8 @@
     "i": "Malformasi aorta",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4846,8 +4846,8 @@
     "i": "Distrofi retina dengan atau tanpa anomali ekstraokular",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4857,8 +4857,8 @@
     "i": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4868,8 +4868,8 @@
     "i": "uterine ligament adenocarcinoma",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4879,8 +4879,8 @@
     "i": "Glaukoma keturunan primer",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4901,8 +4901,8 @@
     "i": "Sindrom mikroftalmia kolobomatus-displasia rizomelik",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4912,8 +4912,8 @@
     "i": "Penyakit buah pinggang hipertensif malignan",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4923,8 +4923,8 @@
     "i": "Neoplasma cauda equina",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4934,8 +4934,8 @@
     "i": "Migrain",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4945,7 +4945,7 @@
     "i": "congenital disorder of glycosylation with defective fucosylation",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Bromocriptine juga tidak berdaftar di Malaysia, dan\"",
     "x": 0
    },
@@ -4956,8 +4956,8 @@
     "i": "Artritis reumatoid",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -4978,8 +4978,8 @@
     "i": "Sindrom seperti isotretinoin",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5000,8 +5000,8 @@
     "i": "Sindrom epilepsi berkaitan jangkitan demam",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5011,7 +5011,7 @@
     "i": "gastroduodenitis",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"memandangkan ubat ini kini tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -5022,8 +5022,8 @@
     "i": "Fibromatosis gingiva",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5033,8 +5033,8 @@
     "i": "Neoplasma saluran aerodigestif atas",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5044,8 +5044,8 @@
     "i": "Hipertrikosis",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5055,7 +5055,7 @@
     "i": "gastroduodenitis",
     "lt": 2,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Dipadam: \"(tiada pendaftaran NPRA pada masa ini)\"",
     "x": 0
    },
@@ -5066,8 +5066,8 @@
     "i": "Penyakit arteri koronari",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5077,8 +5077,8 @@
     "i": "pseudo-von Willebrand disease",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5088,7 +5088,7 @@
     "i": "Kusta",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"kerana ubat ini tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -5099,8 +5099,8 @@
     "i": "pulmonary hypertension owing to lung disease and/or hypoxia",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5132,8 +5132,8 @@
     "i": "well-differentiated fetal adenocarcinoma of the lung",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5143,7 +5143,7 @@
     "i": "symptomatic form of hemophilia in female carriers",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Pertimbangan status pasaran: evolocumab tidak berdaftar di Malaysia pada masa ini, jadi laluan…",
     "x": 0
    },
@@ -5154,8 +5154,8 @@
     "i": "antithrombin deficiency type 2",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5165,8 +5165,8 @@
     "i": "Bronkitis",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5187,8 +5187,8 @@
     "i": "botryoid-type embryonal rhabdomyosarcoma of the vagina",
     "lt": 3,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5209,7 +5209,7 @@
     "i": "Distrofi retina dengan atau tanpa anomali ekstraokular",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar atau dipasarkan di Malaysia, dan\"",
     "x": 0
    },
@@ -5220,7 +5220,7 @@
     "i": "heparin cofactor 2 deficiency",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Selain itu, ubat ini tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -5242,8 +5242,8 @@
     "i": "hypermobility of coccyx",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5264,8 +5264,8 @@
     "i": "drug-induced osteoporosis",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5286,8 +5286,8 @@
     "i": "osteoarthritis",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5297,7 +5297,7 @@
     "i": "Prinzmetal angina",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Isoflurane pada masa ini tidak mempunyai pendaftaran NPRA yang sah dalam data yang dikumpulkan…",
     "x": 0
    },
@@ -5308,8 +5308,8 @@
     "i": "Kandidiasis vulvovaginal",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5319,8 +5319,8 @@
     "i": "Fibromatosis gingiva",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5330,8 +5330,8 @@
     "i": "chronic follicular conjunctivitis",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5341,8 +5341,8 @@
     "i": "female breast carcinoma",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5352,8 +5352,8 @@
     "i": "Trombositopenia akibat pemusnahan imun",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5374,8 +5374,8 @@
     "i": "Hiperkolesterolemia familial homozigot",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5385,8 +5385,8 @@
     "i": "Karsinoma payudara HER2 positif",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5396,8 +5396,8 @@
     "i": "pancreatitis",
     "lt": 3,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5440,7 +5440,7 @@
     "i": "extracutaneous mastocytoma",
     "lt": 3,
     "lv": 2,
-    "r": 2,
+    "r": 3,
     "rs": "Dipadam: \"Ubat ini juga tidak didaftarkan di Malaysia\"",
     "x": 0
    },
@@ -5451,8 +5451,8 @@
     "i": "Insomnia",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5462,7 +5462,7 @@
     "i": "HER2 positive breast carcinoma",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -5473,7 +5473,7 @@
     "i": "candidiasis",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -5484,7 +5484,7 @@
     "i": "hypoalphalipoproteinemia",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -5495,8 +5495,8 @@
     "i": "uterine ligament adenocarcinoma",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5506,8 +5506,8 @@
     "i": "familial generalized lentiginosis",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5517,7 +5517,7 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -5561,7 +5561,7 @@
     "i": "congenital coronary artery anomaly",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini tidak berdaftar di Malaysia (0 lesen), dan\"",
     "x": 0
    },
@@ -5572,8 +5572,8 @@
     "i": "Adenoma vilus sekum",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5594,8 +5594,8 @@
     "i": "Karsinoma payudara wanita",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5605,7 +5605,7 @@
     "i": "congenital prothrombin deficiency",
     "lt": 2,
     "lv": 2,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Vasopresin tidak mempunyai pendaftaran di Malaysia, dan\"",
     "x": 0
    },
@@ -5638,8 +5638,8 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5649,8 +5649,8 @@
     "i": "Fibromatosis gingiva",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5671,7 +5671,7 @@
     "i": "Rasmussen subacute encephalitis",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia, dan\"",
     "x": 0
    },
@@ -5704,8 +5704,8 @@
     "i": "Sindrom mielodisplastik tidak terklasifikasi",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5715,8 +5715,8 @@
     "i": "Sindrom kekurangan imun diperoleh kucing",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5726,8 +5726,8 @@
     "i": "Tumor berkaitan virus herpes manusia 8",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5737,8 +5737,8 @@
     "i": "Kandidiasis vulvovaginal",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5748,8 +5748,8 @@
     "i": "Gangguan pembebasan primer platelet",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5759,8 +5759,8 @@
     "i": "Trombositopenia akibat pemusnahan imun",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5770,8 +5770,8 @@
     "i": "Hipourisemia renal",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5792,8 +5792,8 @@
     "i": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5803,8 +5803,8 @@
     "i": "Sindrom progeria-ketinggian pendek-nevus berpigmen",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5814,7 +5814,7 @@
     "i": "fibromatosis, gingival",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak didaftarkan di Malaysia\"",
     "x": 0
    },
@@ -5825,8 +5825,8 @@
     "i": "Hamartoma kondroid",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5836,8 +5836,8 @@
     "i": "ALK-positive large B-cell lymphoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5847,8 +5847,8 @@
     "i": "insomnia (disease)",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5858,8 +5858,8 @@
     "i": "Gangguan migrain",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5880,8 +5880,8 @@
     "i": "Sindrom faciodigitogenital",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5891,8 +5891,8 @@
     "i": "Anomali vertebra dan disfungsi endokrin serta sel T yang berubah-ubah",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5902,8 +5902,8 @@
     "i": "Sindrom usus besar terangsang",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5913,8 +5913,8 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5924,7 +5924,7 @@
     "i": "allergic urticaria",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"kerana delamanid tidak berdaftar di Malaysia dan tiada lesen tempatan\"",
     "x": 0
    },
@@ -5935,8 +5935,8 @@
     "i": "Sindrom Plummer-Vinson",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5957,8 +5957,8 @@
     "i": "uterine ligament adenocarcinoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5968,8 +5968,8 @@
     "i": "cyclic hematopoiesis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -5979,7 +5979,7 @@
     "i": "Kekurangan kofaktor heparin 2",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Edaravone tidak berdaftar di Malaysia, dan\"",
     "x": 0
    },
@@ -5990,8 +5990,8 @@
     "i": "Sindrom Scheie",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6023,7 +6023,7 @@
     "i": "hemophagocytic syndrome associated with an infection",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"kerana ubat ini tiada pendaftaran di Malaysia\"",
     "x": 0
    },
@@ -6034,7 +6034,7 @@
     "i": "Angina Prinzmetal",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Selain itu, ia tidak mempunyai pendaftaran di Malaysia\"",
     "x": 0
    },
@@ -6045,8 +6045,8 @@
     "i": "postinfectious vasculitis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6078,8 +6078,8 @@
     "i": "Hipertrikosis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6089,8 +6089,8 @@
     "i": "Polio bulbar",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6100,8 +6100,8 @@
     "i": "Sindrom usus besar yang meradang",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6122,8 +6122,8 @@
     "i": "Karsinoma payudara wanita",
     "lt": 2,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6133,8 +6133,8 @@
     "i": "Karsinoma payudara wanita",
     "lt": 2,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6144,7 +6144,7 @@
     "i": "Hipotrikosis simpleks kulit kepala",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"kerana tiada lesen berdaftar direkodkan\"",
     "x": 0
    },
@@ -6155,7 +6155,7 @@
     "i": "Sindrom Hurler",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Imiglucerase pada masa ini tidak mempunyai pendaftaran di Malaysia (0 lesen)\"",
     "x": 0
    },
@@ -6166,8 +6166,8 @@
     "i": "Kekurangan kalium",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6199,8 +6199,8 @@
     "i": "Hipertrikosis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6210,8 +6210,8 @@
     "i": "Sindrom Sanfilippo",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6221,8 +6221,8 @@
     "i": "pseudoachondroplasia",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6232,7 +6232,7 @@
     "i": "Sindrom displasia rizomelik-mikroftalmia kolobomatus",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Loxoprofen juga tidak berdaftar di Malaysia, dan\"",
     "x": 0
    },
@@ -6243,8 +6243,8 @@
     "i": "Bronkitis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6254,8 +6254,8 @@
     "i": "Karsinoma pseudopapilari pepejal pankreas",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6276,7 +6276,7 @@
     "i": "epiglottis neoplasm",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Niraparib juga tidak didaftarkan di Malaysia\"",
     "x": 0
    },
@@ -6298,8 +6298,8 @@
     "i": "malformation syndrome with odontal and/or periodontal component",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6309,7 +6309,7 @@
     "i": "Artritis reumatoid",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -6320,7 +6320,7 @@
     "i": "Amenorea",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"tidak didaftarkan di Malaysia, dan\"",
     "x": 0
    },
@@ -6331,7 +6331,7 @@
     "i": "benign neoplasm of tongue",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Palivizumab pada masa ini tidak mempunyai pendaftaran di Malaysia (0 lesen) mengikut data NPRA yang…",
     "x": 0
    },
@@ -6342,7 +6342,7 @@
     "i": "Osteoporosis teraruh ubat",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"dan ubat ini tidak didaftarkan di Malaysia\"",
     "x": 0
    },
@@ -6353,8 +6353,8 @@
     "i": "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6386,8 +6386,8 @@
     "i": "Distrofi retina dengan atau tanpa anomali ekstraokular",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6408,7 +6408,7 @@
     "i": "hypouricemia, renal",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Dipadam: \"Ubat ini juga tidak didaftarkan di Malaysia\"",
     "x": 0
    },
@@ -6419,8 +6419,8 @@
     "i": "Glanzmann thrombasthenia",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6430,8 +6430,8 @@
     "i": "tetanic cataract",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6441,7 +6441,7 @@
     "i": "autosomal recessive severe congenital neutropenia due to G6PC3 deficiency",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia, dan\"",
     "x": 0
    },
@@ -6452,7 +6452,7 @@
     "i": "multiple endocrine neoplasia",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Remdesivir tidak mempunyai pendaftaran NPRA yang direkodkan (jumlah lesen: 0), maka tiada jadual…",
     "x": 0
    },
@@ -6474,7 +6474,7 @@
     "i": "Sindrom imunodefisiensi dapatan kucing",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"(kerana ubat tidak berdaftar di Malaysia, rujuk sumber penerbit atau pengawal selia lain)\"",
     "x": 0
    },
@@ -6485,8 +6485,8 @@
     "i": "Polimikrogiria parieto-oksipital parasagital bilateral",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6496,8 +6496,8 @@
     "i": "atrophoderma vermiculata",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6507,7 +6507,7 @@
     "i": "acne (disease)",
     "lt": 2,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -6518,8 +6518,8 @@
     "i": "Gangguan pelepasan primer platelet",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6529,8 +6529,8 @@
     "i": "Sindrom Laubry-Pezzi",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6551,7 +6551,7 @@
     "i": "perioral myoclonia with absences",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"tidak berdaftar di Malaysia, dan\"",
     "x": 0
    },
@@ -6562,7 +6562,7 @@
     "i": "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis",
     "lt": 1,
     "lv": 1,
-    "r": 2,
+    "r": 3,
     "rs": "Dipadam: \"memandangkan tiada lesen tempatan\"",
     "x": 0
    },
@@ -6595,8 +6595,8 @@
     "i": "Liposarkoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6617,8 +6617,8 @@
     "i": "Prinzmetal angina",
     "lt": 2,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6628,8 +6628,8 @@
     "i": "Penyakit Paget payudara",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6650,7 +6650,7 @@
     "i": "Retinopati diabetes non-proliferatif teruk",
     "lt": 1,
     "lv": 1,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia dan\"",
     "x": 0
    },
@@ -6661,8 +6661,8 @@
     "i": "Karsinoma payudara wanita",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6672,8 +6672,8 @@
     "i": "Osteoporosis teraruh ubat",
     "lt": 2,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6694,8 +6694,8 @@
     "i": "Sindrom cauda equina",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6705,8 +6705,8 @@
     "i": "psychogenic movement disorders",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6716,8 +6716,8 @@
     "i": "Leukemia mieloid",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6727,8 +6727,8 @@
     "i": "Sindrom Tourette",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6738,7 +6738,7 @@
     "i": "Glanzmann thrombasthenia",
     "lt": 1,
     "lv": 0,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"Ubat ini juga tidak berdaftar di Malaysia\"",
     "x": 0
    },
@@ -6749,8 +6749,8 @@
     "i": "Sindrom imunodefisiensi kucing yang diperoleh",
     "lt": 1,
     "lv": 0,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -6760,7 +6760,7 @@
     "i": "pyelonephritis",
     "lt": 1,
     "lv": 0,
-    "r": 1,
+    "r": 2,
     "rs": "Dipadam: \"ubat ini dipasarkan di Malaysia (1 lesen sah daripada 1), tetapi\"",
     "x": 0
    }

@@ -58,7 +58,7 @@ Alprazolam ialah ubat golongan benzodiazepin yang berfungsi sebagai ubat penenan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia untuk laporan ini. Berdasarkan golongan ubatnya, alprazolam ialah benzodiazepin yang diketahui meningkatkan isyarat reseptor GABA-A. Tindakan ini menghasilkan kesan penenang dan pelali, jadi secara farmakologi ia mungkin berkaitan dengan insomnia, terutamanya insomnia yang berlaku bersama kebimbangan. Kaitan ini disimpulkan daripada golongan ubat, bukan daripada data mekanisme yang disediakan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Alprazolam (terjemahan tidak rasmi): “Alprazolam ialah 1,4 benzodiazepina. Alprazolam memberikan kesannya bagi rawatan gangguan panik melalui pengikatan pada tapak benzodiazepina reseptor asid gamma‑aminobutirik-A (GABA A ) di dalam otak dan meningkatkan perencatan sinaptik yang diperantarakan oleh GABA.” Teks asal bahasa Inggeris: "Alprazolam is a 1,4 benzodiazepine. Alprazolam exerts its effect for the treatment of panic disorder through binding to the benzodiazepine site of gamma‑aminobutyric acid-A (GABA A ) receptors in the brain and enhances GABA-mediated synaptic inhibition." ([DailyMed: Alprazolam Xr (alprazolam) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1338d1c9-7c75-42ed-95f3-9eb1b6fc51d3), versi 2025-02-11; diakses 2026-11-19). Berdasarkan golongan ubatnya, alprazolam ialah benzodiazepin yang diketahui meningkatkan isyarat reseptor GABA-A. Tindakan ini menghasilkan kesan penenang dan pelali, jadi secara farmakologi ia mungkin berkaitan dengan insomnia, terutamanya insomnia yang berlaku bersama kebimbangan. Kaitan ini disimpulkan daripada golongan ubat, bukan daripada data mekanisme yang disediakan.
 
 Skor TxGNN yang sangat tinggi (0.9981) ialah ramalan pengiraan dan bukan bukti klinikal. Kajian terkini yang diperoleh juga tidak menunjukkan keberkesanan alprazolam secara bersendirian untuk insomnia. Kebanyakannya ialah kajian am atau sampingan, seperti ulasan farmakokinetik ubat anxiolitik dan trend penggunaan benzodiazepin.
 
@@ -116,6 +116,18 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 - Data mekanisme tindakan terperinci
 - Amaran dan kontraindikasi daripada risalah maklumat produk yang diluluskan
 - Pelan pemantauan keselamatan untuk populasi berisiko, terutamanya warga emas
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Alprazolam Xr (alprazolam) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1338d1c9-7c75-42ed-95f3-9eb1b6fc51d3) |
+
+<!-- review:end log -->
 
 ## Penafian
 

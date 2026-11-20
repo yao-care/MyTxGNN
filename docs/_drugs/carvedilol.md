@@ -56,7 +56,7 @@ tetapi setakat ini **tiada ujian klinikal** dan **tiada penerbitan** yang mengka
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan carvedilol tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Namun, carvedilol diketahui sebagai penyekat beta tidak selektif dengan sekatan alfa-1, dan kesan penurunan tekanan darahnya telah mantap. Secara mekanistik, penurunan tekanan darah munasabah relevan untuk hipertensi malignan yang melibatkan buah pinggang.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Carvedilol (terjemahan tidak rasmi): “COREG ialah campuran rasemik di mana aktiviti penyekatan β-adrenoreseptor tidak selektif terdapat pada enantiomer S(-) dan aktiviti penyekatan α1-adrenergik terdapat pada kedua-dua enantiomer R(+) dan S(-) dengan potensi yang sama. COREG tidak mempunyai aktiviti simpatomimetik intrinsik.” Teks asal bahasa Inggeris: "COREG is a racemic mixture in which nonselective β-adrenoreceptor blocking activity is present in the S(-) enantiomer and α1-adrenergic blocking activity is present in both R(+) and S(-) enantiomers at equal potency. COREG has no intrinsic sympathomimetic activity." ([DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39), versi 2026-07-31; diakses 2026-11-19). Namun, carvedilol diketahui sebagai penyekat beta tidak selektif dengan sekatan alfa-1, dan kesan penurunan tekanan darahnya telah mantap. Secara mekanistik, penurunan tekanan darah munasabah relevan untuk hipertensi malignan yang melibatkan buah pinggang.
 
 Perlu diingatkan bahawa skor yang tinggi (0,9955) hanyalah ramalan model dan berkemungkinan mencerminkan kedekatan penyakit ini dengan keadaan hipertensi biasa. Hipertensi malignan lazimnya diuruskan dalam suasana akut dengan ubat intravena, maka peranan carvedilol oral kemungkinan terhad.
 
@@ -93,6 +93,19 @@ Tiada ujian klinikal atau penerbitan yang mengkaji penyakit buah pinggang hipert
 - Amaran dan kontraindikasi daripada sisipan pek NPRA
 - Kajian klinikal atau literatur yang secara langsung mengkaji carvedilol dalam penyakit buah pinggang hipertensi malignan
 - Penilaian pakar tentang kesesuaian pemberian oral dalam keadaan akut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

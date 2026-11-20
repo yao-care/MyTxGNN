@@ -60,7 +60,7 @@ tetapi kini hanya terdapat **0 percubaan klinikal** dan **3 penerbitan** (kebany
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal vasopresin tidak tersedia dalam data yang dikumpulkan. Namun, vasopresin dan analognya, desmopresin (DDAVP), diketahui bertindak pada reseptor V2 untuk merembeskan faktor von Willebrand dan faktor VIII daripada simpanan endotelium.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Vasopressin (terjemahan tidak rasmi): “Vasopresin menyebabkan vasokonstriksi dengan mengikat kepada reseptor V 1 pada otot licin vaskular yang digandingkan dengan laluan Gq/11-fosfolipase C-fosfatidil-inositol-trifosfat, mengakibatkan pembebasan kalsium intrasel. Di samping itu, vasopresin merangsang antidiuresis melalui rangsangan reseptor V 2 yang digandingkan dengan adenil siklase.” Teks asal bahasa Inggeris: "Vasopressin causes vasoconstriction by binding to V 1 receptors on vascular smooth muscle coupled to the Gq/11-phospholipase C-phosphatidyl-inositol-triphosphate pathway, resulting in the release of intracellular calcium. In addition, vasopressin stimulates antidiuresis via stimulation of V 2 receptors which are coupled to adenyl cyclase." ([DailyMed: Vasostrict (vasopressin) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1147beb-743e-4c62-8927-91192447f8b8), versi 2026-04-21; diakses 2026-11-19). Namun, vasopresin dan analognya, desmopresin (DDAVP), diketahui bertindak pada reseptor V2 untuk merembeskan faktor von Willebrand dan faktor VIII daripada simpanan endotelium.
 
 Mekanisme ini relevan untuk kekurangan faktor VIII serta kekurangan gabungan faktor V dan VIII. Walau bagaimanapun, ia **tidak meningkatkan protrombin (faktor II) secara langsung**. Skor TxGNN yang tinggi (0.9963) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, seperti kekurangan faktor pembekuan lain, bukan bukti biologi atau hubungan mekanistik langsung dengan protrombin.
 
@@ -131,11 +131,12 @@ Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pembungkusan.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Vasopresin tidak mempunyai pendaftaran di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Vasostrict (vasopressin) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1147beb-743e-4c62-8927-91192447f8b8) |
 
 <!-- review:end log -->
 

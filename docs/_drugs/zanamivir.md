@@ -60,7 +60,7 @@ tetapi pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang men
 
 ## Mengapakah Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) zanamivir tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, zanamivir ialah perencat sialidase (neuraminidase) virus influenza, dan keberkesanannya dalam influenza telah dibuktikan.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Zanamivir (terjemahan tidak rasmi): “Zanamivir ialah ubat antivirus dengan aktiviti terhadap virus influenza. […] Zanamivir ialah perencat neuraminidase (NA) virus influenza, iaitu enzim yang membebaskan partikel virus daripada membran plasma sel yang dijangkiti dan menggalakkan penyebaran virus dalam saluran pernafasan. Dalam asai perencatan neuraminidase, zanamivir aktif terhadap semua subjenis enzim NA N1 hingga N9.” Teks asal bahasa Inggeris: "Zanamivir is an antiviral drug with activity against influenza virus. […] Zanamivir is an inhibitor of influenza virus neuraminidase (NA), an enzyme that releases viral particles from the plasma membrane of infected cells and promotes virus spread in the respiratory tract. In neuraminidase inhibition assays, zanamivir is active against all NA enzyme subtypes N1 to N9." ([DailyMed: Relenza (zanamivir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b4e68930-4e6d-4d27-b1f0-abf60d12e28d), versi 2026-07-23; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, zanamivir ialah perencat sialidase (neuraminidase) virus influenza, dan keberkesanannya dalam influenza telah dibuktikan.
 
 Pyelonephritis pula ialah jangkitan **bakteria** pada buah pinggang, lazimnya disebabkan oleh *Escherichia coli* uropatogenik. Tiada kaitan mekanistik yang kukuh dapat dikenal pasti. Walaupun bakteria juga mempunyai sialidase, tiada data menunjukkan zanamivir merencatnya pada kepekatan yang bermakna secara klinikal, dan tiada bukti kesan antibakteria di saluran kencing.
 
@@ -120,11 +120,12 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "ubat ini dipasarkan di Malaysia (1 lesen sah daripada 1), tetapi" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Relenza (zanamivir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b4e68930-4e6d-4d27-b1f0-abf60d12e28d) |
 
 <!-- review:end log -->
 

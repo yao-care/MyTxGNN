@@ -54,10 +54,9 @@ Meloxicam ialah ubat antiradang bukan steroid (NSAID) yang pada asalnya digunaka
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal meloxicam tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umum, meloxicam ialah NSAID yang cenderung menyekat COX-2 dan mengurangkan sintesis prostaglandin, dan keberkesanannya untuk keradangan sendi telah diketahui.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Meloxicam (terjemahan tidak rasmi): “Meloksikam mempunyai sifat analgesik, antiradang dan antipiretik. Mekanisme tindakan Zybic™, seperti NSAID lain, tidak difahami sepenuhnya tetapi melibatkan perencatan siklooksigenase (COX-1 dan COX-2).” Teks asal bahasa Inggeris: "Meloxicam has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of Zybic™, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Zybic (meloxicam) prescribing information, Redmont Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec), versi 2026-09-25; diakses 2026-11-19). Secara umum, meloxicam ialah NSAID yang cenderung menyekat COX-2 dan mengurangkan sintesis prostaglandin, dan keberkesanannya untuk keradangan sendi telah diketahui.
 
 Walau bagaimanapun, **tiada hubungan mekanistik yang boleh dipercayai dikenal pasti**. Displasia akromesomelik jenis Hunter-Thompson ialah displasia rangka yang jarang berlaku, disebabkan varian kehilangan fungsi pada CDMP1/GDF5 yang menjejaskan isyarat BMP dan pembentukan tulang rawan. Perencatan COX-2 tidak membetulkan kecacatan faktor pertumbuhan perkembangan ini.
-
 
 ## Bukti Percubaan Klinikal
 
@@ -99,6 +98,19 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi yang rasmi.
 - Bukti praklinikal atau klinikal yang mengkaji secara langsung penyakit ini
 - Penilaian semula kesesuaian laluan pemberian dan kaitan dengan indikasi asal
 - Rujukan sampingan: antara ramalan lain dalam senarai, pseudoachondroplasia ialah yang paling munasabah secara biologi, tetapi hanya sebagai hipotesis pelega gejala
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Zybic (meloxicam) prescribing information, Redmont Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

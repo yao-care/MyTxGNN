@@ -60,7 +60,7 @@ dengan **1 percubaan klinikal** dan **15 penerbitan** yang menyokong arah ini, t
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Walau bagaimanapun, goserelin diketahui sebagai agonis GnRH. Pendedahan berterusan menyebabkan reseptor GnRH pituitari menjadi tidak peka, lalu merencatkan LH/FSH dan penghasilan estradiol oleh ovari. Ini menghasilkan keadaan hipoestrogen yang boleh pulih disertai amenorea.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Goserelin (terjemahan tidak rasmi): “ZOLADEX ialah analog dekapeptida sintetik GnRH. ZOLADEX bertindak sebagai perencat rembesan gonadotropin pituitari apabila diberikan dalam formulasi biodegradasi. Dalam kajian haiwan dan in vitro, pemberian goserelin mengakibatkan regresi atau perencatan pertumbuhan tumor mamari tikus aruhan dimetilbenzantrasena (DMBA) dan tumor prostat Dunning R3327 yang sensitif terhadap hormon.” Teks asal bahasa Inggeris: "ZOLADEX is a synthetic decapeptide analogue of GnRH. ZOLADEX acts as an inhibitor of pituitary gonadotropin secretion when administered in the biodegradable formulation. In animal and in vitro studies, administration of goserelin resulted in the regression or inhibition of growth of the hormonally sensitive dimethylbenzanthracene (DMBA)-induced rat mammary tumor and Dunning R3327 prostate tumor." ([DailyMed: Zoladex (goserelin) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=294b168b-6e5f-4db9-bf70-d599271458b3), versi 2026-03-24; diakses 2026-11-19). Walau bagaimanapun, goserelin diketahui sebagai agonis GnRH. Pendedahan berterusan menyebabkan reseptor GnRH pituitari menjadi tidak peka, lalu merencatkan LH/FSH dan penghasilan estradiol oleh ovari. Ini menghasilkan keadaan hipoestrogen yang boleh pulih disertai amenorea.
 
 Kesan ini ialah asas penggunaannya dalam endometriosis dan kanser payudara pramenopaus. Oleh itu, amenorea di sini sebahagian besarnya merupakan kesan yang dijangka semasa rawatan atau penanda pengganti penekanan ovari, dan bukan sasaran terapeutik dengan sendirinya.
 
@@ -120,6 +120,19 @@ Dua ramalan lain (hipoplasia renal dan hipoplasia renal bilateral, skor 0.9906) 
 - Data mekanisme tindakan terperinci (MOA) daripada DrugBank.
 - Kajian klinikal langsung bagi indikasi yang ditakrifkan semula.
 - Pertimbangan status pendaftaran dan kesediaan laluan pentadbiran di Malaysia.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Zoladex (goserelin) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=294b168b-6e5f-4db9-bf70-d599271458b3) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

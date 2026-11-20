@@ -56,7 +56,7 @@ tetapi setakat ini hanya terdapat **3 penerbitan** (1 kajian praklinikal haiwan,
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) yang disusun tidak tersedia. Berdasarkan maklumat sedia ada, rivastigmin tergolong dalam kelas perencat kolinesterase (asetilkolinesterase dan butirilkolinesterase). Keberkesanannya dalam penyakit Alzheimer telah diketahui, dan secara mekanistik ia mungkin boleh digunakan untuk glaukoma.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Rivastigmine (terjemahan tidak rasmi): “Walaupun mekanisme tindakan rivastigmin yang tepat tidak diketahui, ia dipercayai memberikan kesan terapeutiknya dengan meningkatkan fungsi kolinergik. Ini dicapai dengan meningkatkan kepekatan asetilkolina melalui perencatan berbalik hidrolisisnya oleh kolinesterase.” Teks asal bahasa Inggeris: "Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase." ([DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d), versi 2025-11-11; diakses 2026-11-19). Berdasarkan maklumat sedia ada, rivastigmin tergolong dalam kelas perencat kolinesterase (asetilkolinesterase dan butirilkolinesterase). Keberkesanannya dalam penyakit Alzheimer telah diketahui, dan secara mekanistik ia mungkin boleh digunakan untuk glaukoma.
 
 Peningkatan nada kolinergik pada mata, seperti yang berlaku dengan ubat miotik parasimpatomimetik (contohnya pilokarpin), boleh meningkatkan aliran keluar humor akueus melalui pengecutan otot siliari dan kesan pada jejaring trabekular, lalu merendahkan tekanan intraokular (IOP). Kajian praklinikal pada 2000 melaporkan bahawa rivastigmin topikal menurunkan IOP pada arnab. Kajian genetik sistem dan molekul pada 2024 mengenai agen kolinergik untuk penurunan IOP memberikan sokongan tidak langsung.
 
@@ -96,6 +96,19 @@ Maklumat tambahan daripada graf pengetahuan (bukan teks label rasmi):
 - Kajian praklinikal tambahan dan pengesahan keselamatan okular bagi formulasi topikal (formulasi mata belum wujud; keserasian laluan pentadbiran belum dinilai)
 - Penilaian risiko kesan sistemik kolinergik (contohnya bradikardia, kesan bronkus) berdasarkan senarai kontraindikasi graf pengetahuan
 - Pelan percubaan klinikal fasa awal jika kajian praklinikal menyokong
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

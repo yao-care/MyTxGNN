@@ -55,7 +55,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Vitamin D kekurangan lapuk (o
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Calcitriol ialah bentuk aktif vitamin D, jadi kaitan biologi dengan kekurangan vitamin D memang munasabah dari segi teori.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Calcitriol (terjemahan tidak rasmi): “Sintesis dan katabolisme endogen calcitriol, serta mekanisme kawalan fisiologi yang mempengaruhi proses-proses ini, memainkan peranan kritikal dalam mengawal atur paras calcitriol dalam serum. Penghasilan harian fisiologi biasanya ialah 0.5 hingga 1.0 mcg dan agak lebih tinggi semasa tempoh peningkatan sintesis tulang (cth., pertumbuhan atau kehamilan).” Teks asal bahasa Inggeris: "Endogenous synthesis and catabolism of calcitriol, as well as physiological control mechanisms affecting these processes, play a critical role regulating the serum level of calcitriol. Physiological daily production is normally 0.5 to 1.0 mcg and is somewhat higher during periods of increased bone synthesis (eg, growth or pregnancy)." ([DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e), versi 2026-10-15; diakses 2026-11-19). Calcitriol ialah bentuk aktif vitamin D, jadi kaitan biologi dengan kekurangan vitamin D memang munasabah dari segi teori.
 
 Namun begitu, istilah penyakit ini ditandakan sebagai lapuk (obsolete), maka ia berkemungkinan hanya label ontologi lama yang tiada kajian atau penerbitan yang dipetakan. Skor tinggi TxGNN hanya mencerminkan kedekatan dalam model, bukan bukti klinikal. Untuk pemulihan kekurangan vitamin D secara pemakanan, agen piawai ialah cholecalciferol atau ergocalciferol; calcitriol pada amnya tidak digunakan untuk keadaan ini.
 
@@ -91,6 +91,19 @@ Tiada ujian klinikal atau penerbitan yang mengkaji penyakit ini secara langsung,
 - Data mekanisme tindakan (MOA)
 - Amaran dan kontraindikasi daripada risalah maklumat produk NPRA
 - Sebarang kajian klinikal yang membandingkan calcitriol dengan cholecalciferol atau ergocalciferol
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

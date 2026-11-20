@@ -54,7 +54,7 @@ Fluorescein ialah pewarna pendarfluor yang digunakan dalam bidang diagnostik, te
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data terperinci tentang mekanisme tindakan tidak tersedia. Berdasarkan maklumat yang diketahui, fluorescein ialah pewarna pendarfluor untuk diagnostik dan tidak mempunyai aktiviti vasodilatasi atau anti-vasospasme yang diketahui.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Fluorescein (terjemahan tidak rasmi): “Natrium fluorescein bertindak balas terhadap sinaran elektromagnet dan cahaya antara panjang gelombang 465 hingga 490 nm dan berpendarfluor, iaitu memancarkan cahaya pada panjang gelombang 520 hingga 530 nm. Oleh itu, hidrokarbon tersebut diuja oleh cahaya biru dan memancarkan cahaya yang kelihatan hijau kekuningan.” Teks asal bahasa Inggeris: "Fluorescein sodium responds to electromagnetic radiation and light between the wavelengths of 465 to 490 nm and fluoresces, i.e., emits light at wavelengths of 520 to 530 nm. Thus, the hydrocarbon is excited by blue light and emits light that appears yellowish green." ([DailyMed: Ak-Fluor (fluorescein) prescribing information, Long Grove Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73511e79-c050-4dc0-aa2f-a79ed320b5b0), versi 2026-02-26; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, fluorescein ialah pewarna pendarfluor untuk diagnostik dan tidak mempunyai aktiviti vasodilatasi atau anti-vasospasme yang diketahui.
 
 Analisis data yang dikumpulkan untuk laporan ini tidak menemui sebarang hubungan mekanistik antara fluorescein dengan angina Prinzmetal. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi, tanpa sokongan klinikal.
 
@@ -102,11 +102,12 @@ Sila rujuk risalah pek (package insert) untuk maklumat keselamatan.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Selain itu, ia tidak mempunyai pendaftaran di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ak-Fluor (fluorescein) prescribing information, Long Grove Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73511e79-c050-4dc0-aa2f-a79ed320b5b0) |
 
 <!-- review:end log -->
 

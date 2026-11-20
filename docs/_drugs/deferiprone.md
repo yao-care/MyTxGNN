@@ -60,7 +60,7 @@ tetapi setakat ini hanya terdapat **0 percubaan klinikal** dan **2 penerbitan** 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) deferiprone tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, deferiprone ialah pengelat besi oral, keberkesanannya dalam lebihan besi akibat beta-talasemia telah diketahui, dan secara mekanistik ia mungkin sesuai untuk porfiria hepatik.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Deferiprone (terjemahan tidak rasmi): “Deferiprone ialah agen pengkelat dengan afiniti terhadap ion ferik (besi III). Deferiprone terikat dengan ion ferik untuk membentuk kompleks neutral 3:1 (deferiprone:besi) yang stabil pada pH fisiologi.” Teks asal bahasa Inggeris: "Deferiprone is a chelating agent with an affinity for ferric ions (iron III). Deferiprone binds with ferric ions to form neutral 3:1 (deferiprone:iron) complexes that are stable at physiological pH." ([DailyMed: Ferriprox (deferiprone) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=946718ff-df43-1baa-74d1-e5bcfbe8ad86), versi 2026-01-28; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, deferiprone ialah pengelat besi oral, keberkesanannya dalam lebihan besi akibat beta-talasemia telah diketahui, dan secara mekanistik ia mungkin sesuai untuk porfiria hepatik.
 
 Dalam porfiria, ketersediaan besi boleh mengganggu laluan sintesis hem dan menyebabkan pengumpulan porfirin (contohnya uroporfiria hepatik dalam model haiwan). Oleh itu, mengurangkan besi labil ialah mekanisme yang munasabah. Bukti praklinikal daripada model tikus uroporfiria (PMID 17854053) dan laporan dalam porfiria eritropoietik kongenital (PMID 32678895) menyokong idea ini secara tidak langsung.
 
@@ -118,11 +118,12 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "memandangkan tiada lesen berdaftar" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ferriprox (deferiprone) prescribing information, Chiesi USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=946718ff-df43-1baa-74d1-e5bcfbe8ad86) |
 
 <!-- review:end log -->
 

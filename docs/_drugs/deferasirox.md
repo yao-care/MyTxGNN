@@ -55,7 +55,7 @@ Deferasirox ialah ejen pengkelat besi yang dalam graf pengetahuan direkodkan ber
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, deferasirox ialah pengkelat besi, dan secara mekanistik penurunan ketersediaan besi mungkin menjejaskan proses biologi yang bergantung kepada besi.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Deferasirox (terjemahan tidak rasmi): “Exjade (deferasirox) ialah agen pengkelat aktif secara oral yang selektif terhadap besi (sebagai Fe 3+ ). Ia ialah ligan tridentat yang mengikat besi dengan afiniti tinggi dalam nisbah 2:1. Walaupun deferasirox mempunyai afiniti yang sangat rendah terhadap zink dan kuprum, terdapat penurunan yang berbeza-beza dalam kepekatan serum logam surih ini selepas pemberian deferasirox.” Teks asal bahasa Inggeris: "Exjade (deferasirox) is an orally active chelator that is selective for iron (as Fe 3+ ). It is a tridentate ligand that binds iron with high affinity in a 2:1 ratio. Although deferasirox has very low affinity for zinc and copper there are variable decreases in the serum concentration of these trace metals after the administration of deferasirox." ([DailyMed: Exjade (deferasirox) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85), versi 2026-01-28; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, deferasirox ialah pengkelat besi, dan secara mekanistik penurunan ketersediaan besi mungkin menjejaskan proses biologi yang bergantung kepada besi.
 
 Satu kajian praklinikal (PMID 34550543) melaporkan bahawa besi dalam endolisosom mempengaruhi transaktivasi LTR HIV-1 yang dimediasi oleh protein Tat. Oleh itu, pengurangan besi secara teori boleh menjejaskan transkripsi virus. Namun, ini hanyalah bukti mekanistik tidak langsung pada peringkat praklinikal, dan kajian tersebut tidak menguji deferasirox sebagai rawatan HIV.
 
@@ -107,6 +107,19 @@ Ramalan ini disokong hanya oleh skor model dan satu kajian praklinikal tidak lan
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Penilaian interaksi dengan terapi antiretroviral
 - Pelan pemantauan keselamatan untuk fungsi hati, buah pinggang dan hematologi
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Exjade (deferasirox) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

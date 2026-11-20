@@ -57,7 +57,7 @@ Buat masa ini tiada percubaan klinikal didaftarkan, dan hanya **3 penerbitan** p
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Namun, lopinavir diketahui secara umum sebagai perencat protease HIV. SIV ialah lentivirus yang berkait rapat dengan HIV, dan proteasenya mempunyai struktur yang serupa dengan protease HIV-1, iaitu sasaran lopinavir. Secara mekanistik, ramalan ini selaras dengan penggunaan asal.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Lopinavir ialah (terjemahan tidak rasmi): “Perencat protease virus kurang daya tahan manusia jenis 1” Teks asal bahasa Inggeris: "Human immunodeficiency virus type 1 protease inhibitor" ([ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729), CC BY-SA 3.0; diakses 2026-11-19). Namun, lopinavir diketahui secara umum sebagai perencat protease HIV. SIV ialah lentivirus yang berkait rapat dengan HIV, dan proteasenya mempunyai struktur yang serupa dengan protease HIV-1, iaitu sasaran lopinavir. Secara mekanistik, ramalan ini selaras dengan penggunaan asal.
 
 Walau bagaimanapun, jangkitan SIV ialah penyakit model primata bukan manusia. Ini adalah konteks penyelidikan praklinikal atau veterinar, bukan peluang penggunaan semula ubat untuk manusia.
 
@@ -107,6 +107,19 @@ Indikasi yang diramalkan ialah penyakit haiwan primata bukan manusia, dengan han
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
 - Penjelasan sama ada terdapat nilai praktikal di luar konteks penyelidikan haiwan
 - Kajian khusus lopinavir dalam model SIV sebelum sebarang pertimbangan lanjut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL729 (lopinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL729) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

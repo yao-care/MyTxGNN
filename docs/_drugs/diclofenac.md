@@ -55,7 +55,7 @@ Diclofenac ialah ubat anti-radang bukan steroid (NSAID) yang berdaftar di Malays
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Diclofenac ialah perencat COX-1/COX-2 yang mengurangkan keradangan, kesakitan dan kekakuan melalui prostaglandin.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Diclofenac (terjemahan tidak rasmi): “Diklofenak mempunyai sifat analgesik, anti-radang dan antipiretik. Mekanisme tindakan diklofenak, seperti NSAID lain, tidak difahami sepenuhnya tetapi melibatkan perencatan siklooksigenase (COX-1 dan COX-2).” Teks asal bahasa Inggeris: "Diclofenac has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of diclofenac, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970), versi 2026-09-24; diakses 2026-11-19). Diclofenac ialah perencat COX-1/COX-2 yang mengurangkan keradangan, kesakitan dan kekakuan melalui prostaglandin.
 
 Hypotrichosis simplex ialah gangguan genetik folikel rambut. Ia dikaitkan dengan varian gen seperti CDSN, APCDD1 dan RPL21, dan tidak didorong oleh keradangan yang diperantarai prostaglandin. Tiada hubungan mekanisme yang munasabah dikenal pasti antara perencatan COX dengan penyakit ini. Skor tinggi daripada model TxGNN (pembelajaran mendalam) mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi, dan tidak disokong oleh data klinikal atau literatur. Ramalan ini perlu dianggap sebagai hipotesis yang lemah.
 
@@ -111,6 +111,19 @@ Lapan ramalan lain (termasuk gangguan rangka dan rambut yang jarang berlaku sert
 - Data mekanisme tindakan (MOA) daripada DrugBank.
 - Bukti praklinikal atau klinikal yang menghubungkan diclofenac dengan biologi folikel rambut.
 - Jika mahu meneruskan penerokaan, pertimbangkan JIA sebagai calon utama dengan langkah kawalan: sahkan dos pediatrik, pantau keselamatan GI, renal dan kardiovaskular, letakkannya sebagai terapi tambahan kepada DMARD atau biologik, dan semak pelabelan peraturan terkini.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

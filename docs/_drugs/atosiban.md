@@ -54,7 +54,7 @@ Atosiban ialah antagonis reseptor oksitosin dan vasopresin (V1A) yang digunakan 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat farmakologi yang diketahui, atosiban berikatan dengan reseptor oksitosin (OXTR) serta reseptor vasopresin V1A, V1B dan V2.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Atosiban ialah (terjemahan tidak rasmi): “Antagonis reseptor oksitosin” Teks asal bahasa Inggeris: "Oxytocin receptor antagonist" ([ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat farmakologi yang diketahui, atosiban berikatan dengan reseptor oksitosin (OXTR) serta reseptor vasopresin V1A, V1B dan V2.
 
 Tiada data yang menyokong kaitan langsung antara tindakan ini dengan aliran keluar aqueous humour melalui trabecular meshwork atau pengawalan tekanan intraokular. Skor yang tinggi (0,9992) ialah keluaran model sahaja dan tidak boleh dianggap sebagai bukti biologi. Skor ini lebih mungkin mencerminkan kedekatan dalam struktur data model daripada hubungan biologi sebenar. Oleh itu, sebarang hubungan mekanistik, misalnya kesan reseptor vasopresin/oksitosin terhadap hemodinamik okular, adalah spekulatif.
 
@@ -88,6 +88,19 @@ Ramalan ini hanya berasaskan model tanpa sebarang percubaan klinikal atau penerb
 - Semakan literatur sasaran mengenai reseptor oksitosin/vasopresin dalam tisu mata
 - Amaran dan kontraindikasi daripada sisipan pembungkusan yang diluluskan oleh NPRA
 - Penilaian kebolehlaksanaan laluan pentadbiran (atosiban ialah produk suntikan, manakala glaukoma lazimnya dirawat secara topikal atau oral)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

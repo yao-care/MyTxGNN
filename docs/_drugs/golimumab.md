@@ -58,7 +58,7 @@ Golimumab ialah antibodi monoklonal manusia yang menyekat TNF-alfa. Ia digunakan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, golimumab menneutralkan TNF-alfa larut dan TNF-alfa transmembran. Sitokin ini penting dalam keradangan artritis reumatoid, dan keberkesanan golimumab dalam penyakit itu telah dibuktikan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Golimumab (terjemahan tidak rasmi): “Golimumab ialah antibodi monoklonal manusia yang terikat kepada kedua-dua bentuk bioaktif larut dan transmembran TNFα manusia. Interaksi ini menghalang pengikatan TNFα kepada reseptornya, seterusnya merencat aktiviti biologi TNFα (suatu protein sitokin).” Teks asal bahasa Inggeris: "Golimumab is a human monoclonal antibody that binds to both the soluble and transmembrane bioactive forms of human TNFα. This interaction prevents the binding of TNFα to its receptors, thereby inhibiting the biological activity of TNFα (a cytokine protein)." ([DailyMed: Simponi (golimumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f86cb4a7-c358-4136-ae57-b32bda9bba00), versi 2026-11-02; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, golimumab menneutralkan TNF-alfa larut dan TNF-alfa transmembran. Sitokin ini penting dalam keradangan artritis reumatoid, dan keberkesanan golimumab dalam penyakit itu telah dibuktikan.
 
 Vaskulitis reumatoid ialah manifestasi luar sendi artritis reumatoid yang lebih kerap berlaku pada pesakit seropositif. TNF-alfa dipercayai turut terlibat dalam kerosakan saluran darah, jadi secara mekanisme golimumab mungkin boleh digunakan. Namun hubungan ini **tidak langsung**: tiada data menunjukkan golimumab berkesan dalam vaskulitis reumatoid itu sendiri.
 
@@ -111,6 +111,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Penilaian risiko vaskulitis paradoks semasa terapi anti-TNF.
 - Data mekanisme tindakan (MOA) yang terperinci.
 - Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan oleh NPRA.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Simponi (golimumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f86cb4a7-c358-4136-ae57-b32bda9bba00) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -60,7 +60,7 @@ Setakat ini terdapat **0 ujian klinikal** dan **1 penerbitan** (laporan kes berk
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia daripada pangkalan data ubat. Namun etoposide dikenali sebagai perencat topoisomerase II. Ia menyebabkan pemecahan dwirantai DNA dalam sel yang membahagi dengan pantas, jadi ia lazim digunakan dalam regimen kemoterapi untuk pelbagai tumor agresif.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Etoposide (terjemahan tidak rasmi): “Etoposide menyebabkan aruhan pemutusan bebenang DNA melalui interaksi dengan DNA-topoisomerase II atau pembentukan radikal bebas, yang membawa kepada penahanan kitaran sel, terutamanya pada peringkat G2 kitaran sel, dan kematian sel.” Teks asal bahasa Inggeris: "Etoposide causes the induction of DNA strand breaks by an interaction with DNA-topoisomerase II or the formation of free radicals, leading to cell cycle arrest, primarily at the G2 stage of the cell cycle, and cell death." ([DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059), versi 2026-10-07; diakses 2026-11-19). Namun etoposide dikenali sebagai perencat topoisomerase II. Ia menyebabkan pemecahan dwirantai DNA dalam sel yang membahagi dengan pantas, jadi ia lazim digunakan dalam regimen kemoterapi untuk pelbagai tumor agresif.
 
 Adenokarsinoma janin berdiferensiasi baik ialah salah satu komponen dalam keluarga blastoma pulmonari, iaitu tumor paru-paru yang sangat jarang berlaku dan tiada garis panduan rawatan piawai. Mekanisme etoposide boleh dipakai pada tumor yang membahagi pantas, tetapi hubungan ini masih tidak langsung.
 
@@ -132,6 +132,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 - Data mekanisme tindakan (MOA) terperinci daripada pangkalan data ubat
 - Pengesahan indikasi yang diluluskan dan bentuk dos bagi kedua-dua pendaftaran tempatan
 - Pelan pemantauan keselamatan, khususnya untuk penekanan sumsum tulang dan risiko malignansi sekunder
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

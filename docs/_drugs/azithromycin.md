@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada sebarang ujian klinikal dan tiada penerbitan** yang
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk azithromycin tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Azithromycin diketahui sebagai antibiotik makrolid dengan aktiviti antibakteria dan, menurut sebahagian literatur umum, kesan imunomodulasi.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Azithromycin (terjemahan tidak rasmi): “Azithromycin ialah ubat antibakteria makrolida. […] Azithromycin bertindak dengan mengikat kepada 23S rRNA subunit ribosom 50S mikroorganisma yang rentan, lalu merencat sintesis protein bakteria dan menghalang pemasangan subunit ribosom 50S.” Teks asal bahasa Inggeris: "Azithromycin is a macrolide antibacterial drug. […] Azithromycin acts by binding to the 23S rRNA of the 50S ribosomal subunit of susceptible microorganisms inhibiting bacterial protein synthesis and impeding the assembly of the 50S ribosomal subunit." ([DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a), versi 2026-09-09; diakses 2026-11-19). Azithromycin diketahui sebagai antibiotik makrolid dengan aktiviti antibakteria dan, menurut sebahagian literatur umum, kesan imunomodulasi.
 
 Namun, berdasarkan data yang ada, tiada hubungan mekanistik yang munasabah dapat ditunjukkan antara aktiviti antibakteria atau imunomodulasi azithromycin dengan hiperkelikatan akibat gammopati poliklonal. Skor tinggi (0,9981) berasal daripada ramalan berasaskan model sahaja, dan ia perlu dianggap sebagai isyarat yang belum disahkan sehingga ada bukti yang membuktikan sebaliknya.
 
@@ -108,11 +108,12 @@ Ramalan ini tidak disokong oleh sebarang ujian klinikal atau penerbitan, dan tia
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Azithromycin mempunyai 45 pendaftaran yang sah di Malaysia (semuanya produk bahan tunggal), dan tiada yang dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a) |
 
 <!-- review:end log -->
 

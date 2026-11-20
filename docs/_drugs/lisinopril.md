@@ -60,7 +60,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada literatur khusus** yan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk lisinopril tidak tersedia dalam data yang dihimpunkan untuk laporan ini. Berdasarkan maklumat yang diketahui, lisinopril tergolong dalam kelas perencat ACE, keberkesanannya dalam hipertensi dan infarksi miokardium telah dibuktikan, dan secara mekanistik ia mungkin terpakai kepada subjenis infarksi miokardium.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Lisinopril (terjemahan tidak rasmi): “Lisinopril merencat enzim penukar angiotensin (ACE) pada subjek manusia dan haiwan. ACE ialah peptidil dipeptidase yang memangkinkan penukaran angiotensin I kepada bahan vasokonstriktor, angiotensin II. Angiotensin II juga merangsang rembesan aldosteron oleh korteks adrenal.” Teks asal bahasa Inggeris: "Lisinopril inhibits angiotensin-converting enzyme (ACE) in human subjects and animals. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex." ([DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c), versi 2025-12-16; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, lisinopril tergolong dalam kelas perencat ACE, keberkesanannya dalam hipertensi dan infarksi miokardium telah dibuktikan, dan secara mekanistik ia mungkin terpakai kepada subjenis infarksi miokardium.
 
 Infarksi miokardium posterolateral ialah subjenis anatomi bagi infarksi miokardium, iaitu penyakit yang lisinopril sedia diindikasikan. Skor TxGNN yang tinggi kemungkinan besar mencerminkan kedekatan ontologi ini, bukan isyarat repurposing yang benar-benar baharu.
 
@@ -136,11 +136,12 @@ Antara semua calon, **penyakit jantung pulmonari kronik** mempunyai isyarat lite
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Lisinopril tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Crizotinib ialah perencat kinase tirosin yang menyasarkan ALK, ROS1 dan MET. Mod
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, crizotinib merencat ALK, ROS1 dan MET, iaitu kinase yang menjadi pemacu onkogenik dalam sesetengah tumor.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Crizotinib (terjemahan tidak rasmi): “Crizotinib ialah perencat tirosina kinase reseptor termasuk ALK, Reseptor Faktor Pertumbuhan Hepatosit (HGFR, c-Met), ROS1 (c-ros), dan Recepteur d'Origine Nantais (RON). Translokasi boleh menjejaskan gen ALK lalu menyebabkan pengekspresan protein gabungan onkogenik.” Teks asal bahasa Inggeris: "Crizotinib is an inhibitor of receptor tyrosine kinases including ALK, Hepatocyte Growth Factor Receptor (HGFR, c-Met), ROS1 (c-ros), and Recepteur d'Origine Nantais (RON). Translocations can affect the ALK gene resulting in the expression of oncogenic fusion proteins." ([DailyMed: Xalkori (crizotinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a51b0de-47d6-455e-a94c-d2c737b04ff7), versi 2026-10-29; diakses 2026-11-19). Berdasarkan maklumat sedia ada, crizotinib merencat ALK, ROS1 dan MET, iaitu kinase yang menjadi pemacu onkogenik dalam sesetengah tumor.
 
 Namun, tiada pautan mekanistik yang dapat ditunjukkan antara sasaran-sasaran ini dengan fibromatosis gingiva. Skor yang tinggi (0.9981) ialah keluaran model sahaja dan tidak boleh dianggap sebagai bukti klinikal. Kesahihan biologi ramalan ini masih belum dibuktikan.
 
@@ -101,6 +101,19 @@ Ramalan ini hanya berasaskan model (L5) tanpa percubaan klinikal, literatur atau
 - Kajian praklinikal atau laporan kes yang berkaitan secara langsung
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Penilaian keselamatan, terutamanya risiko jantung dan interaksi ubat major
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Xalkori (crizotinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a51b0de-47d6-455e-a94c-d2c737b04ff7) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -60,7 +60,7 @@ tetapi setakat ini **tiada ujian klinikal berdaftar**, dan sokongan hanya datang
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Clonazepam ialah benzodiazepin yang meningkatkan perencatan melalui reseptor GABA-A. Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini; mekanisme di sini disimpulkan daripada golongan ubat tersebut. Peningkatan perencatan GABA boleh mengurangkan kerangsangan berlebihan deria-motor dan pemecahan tidur yang berkaitan dengan sindrom kaki resah serta pergerakan anggota berkala semasa tidur.
+Clonazepam ialah benzodiazepin yang meningkatkan perencatan melalui reseptor GABA-A. Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Clonazepam (terjemahan tidak rasmi): “Mekanisme tepat yang melaluinya klonazepam memberikan kesan antisawan dan antipaniknya tidak diketahui, walaupun ia dipercayai berkaitan dengan keupayaannya untuk meningkatkan aktiviti asid gamma aminobutirik (GABA), neurotransmiter perencat utama dalam sistem saraf pusat.” Teks asal bahasa Inggeris: "The precise mechanism by which clonazepam exerts its antiseizure and antipanic effects is unknown, although it is believed to be related to its ability to enhance the activity of gamma aminobutyric acid (GABA), the major inhibitory neurotransmitter in the central nervous system." ([DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1), versi 2025-12-01; diakses 2026-11-19). Peningkatan perencatan GABA boleh mengurangkan kerangsangan berlebihan deria-motor dan pemecahan tidur yang berkaitan dengan sindrom kaki resah serta pergerakan anggota berkala semasa tidur.
 
 Kesan ini berkemungkinan bersifat simptomatik (kesinambungan tidur yang lebih baik) dan bukan mengubah perjalanan penyakit. Skor ramalan yang sangat tinggi (0.9965) selari dengan sejarah penggunaan klinikal yang panjang, termasuk kajian sistematik Cochrane khusus mengenai benzodiazepin untuk sindrom kaki resah. Kajian tinjauan menyatakan kira-kira 25% pesakit sindrom kaki resah dirawat dengan benzodiazepin, dan di sesetengah negara Asia clonazepam masih lazim digunakan, walaupun agonis dopamin ialah pilihan lini pertama.
 
@@ -143,11 +143,12 @@ Penggunaan jangka panjang benzodiazepin juga menimbulkan kebimbangan kesihatan a
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Clonazepam pada masa ini tidak mempunyai produk berdaftar yang dikenal pasti dalam data yang dikumpulkan (jumlah pendaftaran: 0)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1) |
 
 <!-- review:end log -->
 

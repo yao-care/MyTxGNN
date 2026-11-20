@@ -60,7 +60,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Pada masa ini, data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia daripada data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan farmakologi umum, mirtazapine ialah antagonis adrenergik alfa-2 dengan kesan antagonis terhadap reseptor 5-HT2, 5-HT3 dan H1. Keberkesanannya dalam kemurungan dan kebimbangan telah diketahui.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Mirtazapine (terjemahan tidak rasmi): “Mekanisme tindakan mirtazapina untuk rawatan gangguan kemurungan major adalah tidak jelas. Walau bagaimanapun, keberkesanannya mungkin diperantarakan melalui aktivitinya sebagai antagonis pada autoreseptor dan heteroreseptor perencat α 2 -adrenergik prasinaps pusat serta peningkatan aktiviti noradrenergik dan serotonergik pusat.” Teks asal bahasa Inggeris: "The mechanism of action of mirtazapine for the treatment of major depressive disorder, is unclear. However, its efficacy could be mediated through its activity as an antagonist at central presynaptic α 2 -adrenergic inhibitory autoreceptors and heteroreceptors and enhancing central noradrenergic and serotonergic activity." ([DailyMed: Remeronsoltab (mirtazapine) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98ad1917-a094-44f5-a28f-a64a8cfcd887), versi 2025-08-06; diakses 2026-11-19). Berdasarkan pengetahuan farmakologi umum, mirtazapine ialah antagonis adrenergik alfa-2 dengan kesan antagonis terhadap reseptor 5-HT2, 5-HT3 dan H1. Keberkesanannya dalam kemurungan dan kebimbangan telah diketahui.
 
 Sindrom Ohdo (berkaitan KAT6B) ialah gangguan neuroperkembangan genetik yang jarang berlaku. Tiada kaitan mekanistik yang mantap antara farmakologi reseptor mirtazapine dengan patologi asas sindrom ini. Sebarang manfaat yang munasabah hanya bersifat simptomatik, contohnya untuk tidur, selera makan, atau komorbiditi mood/kebimbangan.
 
@@ -85,7 +85,6 @@ Pada masa ini tiada literatur berkaitan tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -119,6 +118,19 @@ Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA tidak tersedia. S
 - Semakan literatur dan pendaftaran ujian klinikal untuk sindrom Ohdo/spektrum KAT6B bagi mencari sebarang bukti praklinikal atau laporan kes
 - Rasional mekanistik yang jelas, atau sasaran simptomatik yang ditentukan (cth. tidur, selera makan, kebimbangan)
 - Penilaian risiko-faedah khusus untuk populasi kanak-kanak, termasuk amaran berkotak tentang risiko bunuh diri pada pesakit muda
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Remeronsoltab (mirtazapine) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98ad1917-a094-44f5-a28f-a64a8cfcd887) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

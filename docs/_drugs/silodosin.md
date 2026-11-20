@@ -60,7 +60,7 @@ tetapi ramalan ini **tidak disokong oleh sebarang percubaan klinikal (0) atau pe
 
 ## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, silodosin ialah antagonis reseptor alfa-1A adrenergik selektif, dan keberkesanannya dalam BPH telah dibuktikan. Namun, tiada laluan mekanistik yang jelas menghubungkannya dengan indikasi baharu yang diramalkan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Silodosin (terjemahan tidak rasmi): “Silodosin ialah antagonis selektif adrenoreseptor alfa-1 pascasinaps, yang terletak di prostat manusia, dasar pundi kencing, leher pundi kencing, kapsul prostat dan uretra prostat. Penyekatan adrenoreseptor alfa-1 ini boleh menyebabkan otot licin dalam tisu-tisu ini mengendur, mengakibatkan peningkatan aliran air kencing dan pengurangan gejala BPH.” Teks asal bahasa Inggeris: "Silodosin is a selective antagonist of post-synaptic alpha-1 adrenoreceptors, which are located in the human prostate, bladder base, bladder neck, prostatic capsule, and prostatic urethra. Blockade of these alpha-1 adrenoreceptors can cause smooth muscle in these tissues to relax, resulting in an improvement in urine flow and a reduction in BPH symptoms." ([DailyMed: silodosin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94bca72c-c74a-4181-8b6a-a0a2f654a0a7), versi 2026-10-30; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, silodosin ialah antagonis reseptor alfa-1A adrenergik selektif, dan keberkesanannya dalam BPH telah dibuktikan. Namun, tiada laluan mekanistik yang jelas menghubungkannya dengan indikasi baharu yang diramalkan.
 
 Sindrom Ambras ialah keadaan kongenital yang dikaitkan dengan penyusunan semula kromosom 8q22 yang menjejaskan pengawalaturan TRPS1. Sekatan reseptor alfa-1A tidak mempunyai laluan yang jelas kepada asas genetik ini. Skor tinggi (0.9999) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi dan bukan rasional farmakologi.
 
@@ -126,11 +126,12 @@ Sila rujuk risalah maklumat produk untuk maklumat amaran dan kontraindikasi yang
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: silodosin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94bca72c-c74a-4181-8b6a-a0a2f654a0a7) |
 
 <!-- review:end log -->
 

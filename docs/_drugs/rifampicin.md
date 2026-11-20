@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **konjunktivitis**, tetapi **ti
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat yang diketahui, rifampicin menghalang RNA polimerase bergantung DNA pada bakteria. Ia aktif terhadap organisma Gram-positif, *Chlamydia* dan *Staphylococcus*, iaitu punca lazim konjunktivitis bakteria.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Rifampicin (terjemahan tidak rasmi): “Rifampin merencatkan aktiviti polimerase RNA yang bergantung kepada DNA dalam organisma Mycobacterium tuberculosis yang rentan. Secara khusus, ia berinteraksi dengan polimerase RNA bakteria tetapi tidak merencatkan enzim mamalia.” Teks asal bahasa Inggeris: "Rifampin inhibits DNA-dependent RNA polymerase activity in susceptible Mycobacterium tuberculosis organisms. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme." ([DailyMed: rifampin prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8be91604-d7cd-4f2b-997d-e3364e4092e5), versi 2026-05-05; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, rifampicin menghalang RNA polimerase bergantung DNA pada bakteria. Ia aktif terhadap organisma Gram-positif, *Chlamydia* dan *Staphylococcus*, iaitu punca lazim konjunktivitis bakteria.
 
 Kajian kepekaan antibiotik dan laporan kes menyokong kaitan ini. Antaranya ialah kajian pada isolat pesakit konjunktivitis dan laporan sindrom okuloglandular Parinaud akibat *Bartonella*. Bukti kukuh yang lebih langsung datang daripada kerja topikal lama dalam jangkitan klamidia pada mata.
 
@@ -139,11 +139,12 @@ Indikasi lain dalam senarai ramalan tidak dijadikan fokus laporan ini:
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Rifampicin tidak berdaftar di Malaysia dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: rifampin prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8be91604-d7cd-4f2b-997d-e3364e4092e5) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ namun ramalan ini berada pada **Tahap Bukti L5** dengan **0 ujian klinikal** dan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Inclisiran ialah siRNA yang menyasarkan mRNA PCSK9 dalam hepatosit bagi menurunkan LDL-C. Data terperinci mengenai mekanisme tindakan daripada pangkalan data tidak tersedia, tetapi mekanisme am di atas diperoleh daripada analisis rasional yang disertakan dalam data.
+Inclisiran ialah siRNA yang menyasarkan mRNA PCSK9 dalam hepatosit bagi menurunkan LDL-C. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Inclisiran (terjemahan tidak rasmi): “Inclisiran ialah asid ribonukleik pengganggu kecil (siRNA) dwi-bebenang, yang dikonjugasikan pada bebenang deria dengan N-Asetilgalaktosamina (GalNAc) triantena untuk memudahkan pengambilan oleh hepatosit. Dalam hepatosit, inclisiran menggunakan mekanisme gangguan RNA dan mengarahkan penguraian katalitik mRNA bagi PCSK9.” Teks asal bahasa Inggeris: "Inclisiran is a double-stranded small interfering ribonucleic acid (siRNA), conjugated on the sense strand with triantennary N-Acetylgalactosamine (GalNAc) to facilitate uptake by hepatocytes. In hepatocytes, inclisiran utilizes the RNA interference mechanism and directs catalytic breakdown of mRNA for PCSK9." ([DailyMed: Leqvio (inclisiran) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44), versi 2026-08-19; diakses 2026-11-19).
 
 Tiada kaitan mekanistik yang diketahui antara penyenyapan PCSK9 dan homeostasis kalium. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Tiada sokongan biologi atau klinikal dalam data yang dikumpulkan. Oleh itu, ramalan ini perlu dianggap sebagai hipotesis yang sangat awal dan spekulatif.
 
@@ -84,7 +84,6 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-
 ---
 
 ## Pertimbangan Keselamatan
@@ -106,6 +105,19 @@ Sila rujuk risalah maklumat produk (package insert) untuk maklumat keselamatan. 
 - Hipotesis mekanistik yang munasabah dan bukti praklinikal yang menghubungkan inclisiran dengan metabolisme atau homeostasis kalium
 - Semakan literatur sistematik untuk mengenal pasti sebarang isyarat klinikal berkaitan
 - Pengesahan status pendaftaran dan indikasi berdaftar di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Leqvio (inclisiran) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

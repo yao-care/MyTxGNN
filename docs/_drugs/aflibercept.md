@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** dalam
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, aflibercept menyekat VEGF-A, VEGF-B dan PlGF, dan digunakan secara intravitreal dalam penyakit mata neovaskular.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Aflibercept (terjemahan tidak rasmi): “Faktor pertumbuhan endotelium vaskular-A (VEGF-A) dan faktor pertumbuhan plasenta (PlGF) ialah ahli keluarga VEGF bagi faktor angiogenik yang boleh bertindak sebagai faktor mitogenik, kemotaktik dan kebolehtelapan vaskular bagi sel endotelium. VEGF bertindak melalui dua reseptor tirosina kinase, VEGFR-1 dan VEGFR-2, yang terdapat pada permukaan sel endotelium. […] Produk aflibercept bertindak sebagai reseptor umpan larut yang mengikat VEGF - A dan PlGF, dan dengan itu boleh merencat pengikatan dan pengaktifan reseptor VEGF serumpun ini.” Teks asal bahasa Inggeris: "Vascular endothelial growth factor-A (VEGF-A) and placental growth factor (PlGF) are members of the VEGF family of angiogenic factors that can act as mitogenic, chemotactic, and vascular permeability factors for endothelial cells. VEGF acts via two receptor tyrosine kinases, VEGFR-1 and VEGFR-2, present on the surface of endothelial cells. […] Aflibercept products act as a soluble decoy receptor that binds VEGF - A and PlGF, and thereby can inhibit the binding and activation of these cognate VEGF receptors." ([DailyMed: Pavblu (aflibercept-ayyh) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c61062f3-80ec-4a20-8c28-46e468592a06), versi 2026-10-29; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, aflibercept menyekat VEGF-A, VEGF-B dan PlGF, dan digunakan secara intravitreal dalam penyakit mata neovaskular.
 
 Skor ramalan yang tinggi (0,9938) berkemungkinan mencerminkan kedekatan dalam rangkaian model dengan penyakit mata lain yang berkaitan dengan aflibercept, seperti degenerasi makula, edema makula diabetik dan oklusi arteri retina. Namun, esotropia terutamanya gangguan penjajaran mata yang disebabkan oleh faktor neuromuskular, refraktif atau akomodatif, bukan oleh angiogenesis patologi atau kebolehtelapan vaskular yang berlebihan. Tiada laluan mekanisme langsung daripada perencatan VEGF kepada pembetulan esotropia yang jelas.
 
@@ -92,6 +92,19 @@ Ramalan ini hanya disokong oleh skor model (0,9938) tanpa sebarang percubaan kli
 - Data mekanisme tindakan (MOA) terperinci
 - Kajian praklinikal atau klinikal yang mengkaji perencatan VEGF dalam esotropia
 - Analisis kesesuaian laluan pentadbiran (suntikan intravitreal berbanding keperluan untuk esotropia)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Pavblu (aflibercept-ayyh) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c61062f3-80ec-4a20-8c28-46e468592a06) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

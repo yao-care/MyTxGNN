@@ -62,7 +62,7 @@ tetapi pada masa ini terdapat **0 ujian klinikal** dan **0 penerbitan** yang men
 
 ## Mengapakah Ramalan Ini Munasabah?
 
-Evolocumab ialah antibodi monoklonal yang menyekat PCSK9, lalu meningkatkan ketersediaan reseptor LDL dan menurunkan LDL-C. Data terperinci mengenai mekanisme tindakan (MOA) tidak terdapat dalam data yang disusun untuk laporan ini, tetapi sasaran farmakologinya, PCSK9 (gen *PCSK9*), diketahui.
+Evolocumab ialah antibodi monoklonal yang menyekat PCSK9, lalu meningkatkan ketersediaan reseptor LDL dan menurunkan LDL-C. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Evolocumab (terjemahan tidak rasmi): “Evolocumab ialah IgG2 monoklonal manusia yang ditujukan terhadap proprotein convertase subtilisin kexin jenis 9 (PCSK9) manusia. PCSK9 terikat kepada reseptor lipoprotein berketumpatan rendah (LDLR) pada permukaan hepatosit untuk menggalakkan degradasi LDLR dalam hati.” Teks asal bahasa Inggeris: "Evolocumab is a human monoclonal IgG2 directed against human proprotein convertase subtilisin kexin type 9 (PCSK9). PCSK9 binds to the low-density lipoprotein receptor (LDLR) on the surface of hepatocytes to promote LDLR degradation within the liver." ([DailyMed: Repatha (evolocumab) prescribing information, Amgen USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd61e902-166d-4aa6-9f3c-a18c1008d07e), versi 2026-10-12; diakses 2026-11-19).
 
 Hemofilia pada pembawa wanita berpunca daripada aktiviti faktor pembekuan VIII atau IX yang berkurangan (diwarisi secara terangkai-X, dengan penyahaktifan-X yang condong). Mekanisme ini **tidak berkaitan** dengan laluan PCSK9/LDLR.
 
@@ -126,11 +126,12 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Pertimbangan status pasaran: evolocumab tidak berdaftar di Malaysia pada masa ini, jadi laluan pendaftaran perlu dinilai" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Repatha (evolocumab) prescribing information, Amgen USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd61e902-166d-4aa6-9f3c-a18c1008d07e) |
 
 <!-- review:end log -->
 

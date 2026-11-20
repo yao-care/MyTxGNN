@@ -60,7 +60,7 @@ Dasatinib ialah perencat kinase berbilang sasaran (BCR-ABL dan keluarga SRC) yan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Maklumat terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Namun, dasatinib diketahui merencat kinase keluarga SRC selain BCR-ABL, dan keberkesanannya dalam CML telah terbukti.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Dasatinib (terjemahan tidak rasmi): “Dasatinib, pada kepekatan nanomolar, merencatkan kinase berikut: BCR-ABL, keluarga SRC (SRC, LCK, YES, FYN), c-KIT, EPHA2, dan PDGFRβ. Berdasarkan kajian pemodelan, dasatinib diramalkan terikat kepada pelbagai konformasi kinase ABL.” Teks asal bahasa Inggeris: "Dasatinib, at nanomolar concentrations, inhibits the following kinases: BCR-ABL, SRC family (SRC, LCK, YES, FYN), c-KIT, EPHA2, and PDGFRβ. Based on modeling studies, dasatinib is predicted to bind to multiple conformations of the ABL kinase." ([DailyMed: Sprycel (dasatinib) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4764f37b-c9e6-4ede-bcc2-8a03b7c521df), versi 2026-10-16; diakses 2026-11-19). Namun, dasatinib diketahui merencat kinase keluarga SRC selain BCR-ABL, dan keberkesanannya dalam CML telah terbukti.
 
 Dalam Sarkoma Ewing, isyarat Src/FAK mendorong pencerobohan, penghijrahan dan pembentukan invadopodia sel tumor. Kajian praklinikal menunjukkan dasatinib mempunyai aktiviti antiproliferatif dan antimigrasi dalam titisan sel Ewing. Ini memberikan asas mekanistik yang munasabah.
 
@@ -130,6 +130,19 @@ Sila rujuk sisipan pakej untuk amaran utama dan kontraindikasi.
 - Melengkapkan data mekanisme tindakan (MOA) daripada sumber seperti DrugBank.
 - Mendapatkan hasil khusus Sarkoma Ewing daripada ujian Phase 2 sarkoma (NCT00464620) dan menilai data regimen kombinasi (contohnya RIST) dalam ujian yang lebih besar.
 - Menyediakan pelan pemantauan keselamatan, termasuk pengurusan interaksi dengan penekan asid dan pemantauan efusi pleura.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Sprycel (dasatinib) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4764f37b-c9e6-4ede-bcc2-8a03b7c521df) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

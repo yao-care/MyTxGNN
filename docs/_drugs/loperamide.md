@@ -60,7 +60,7 @@ tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, loperamide ialah agonis reseptor mu-opioid periferi yang bertindak pada neuron mienterik usus untuk mengurangkan motiliti dan rembesan, dan keberkesanannya dalam cirit-birit telah mantap.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Loperamide (terjemahan tidak rasmi): “Kajian in vitro dan haiwan menunjukkan bahawa kapsul loperamide hydrochloride bertindak dengan memperlahankan motiliti usus dan dengan menjejaskan pergerakan air dan elektrolit melalui usus. Loperamide terikat pada reseptor opiat di dinding usus.” Teks asal bahasa Inggeris: "In vitro and animal studies show that loperamide hydrochloride capsules act by slowing intestinal motility and by affecting water and electrolyte movement through the bowel. Loperamide binds to the opiate receptor in the gut wall." ([DailyMed: loperamide hydrochloride prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74b9893a-18c3-4117-85c2-edab8e7b3b3b), versi 2026-07-09; diakses 2026-11-19). Berdasarkan maklumat sedia ada, loperamide ialah agonis reseptor mu-opioid periferi yang bertindak pada neuron mienterik usus untuk mengurangkan motiliti dan rembesan, dan keberkesanannya dalam cirit-birit telah mantap.
 
 Walau bagaimanapun, **tiada pautan mekanistik yang munasabah** dikenal pasti antara tindakan ini dengan konjunktivitis berjangkit. Loperamide mempunyai pendedahan okular yang boleh diabaikan dan tiada aktiviti antimikrob atau anti-radang yang relevan. Skor tinggi (0.9997) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
 
@@ -126,11 +126,12 @@ Untuk amaran dan kontraindikasi daripada sisipan pakej, sila rujuk sisipan pakej
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "(memandangkan produk tidak berdaftar di Malaysia, rujuk sumber sisipan pakej lain)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: loperamide hydrochloride prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74b9893a-18c3-4117-85c2-edab8e7b3b3b) |
 
 <!-- review:end log -->
 

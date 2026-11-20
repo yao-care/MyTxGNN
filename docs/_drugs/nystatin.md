@@ -54,7 +54,7 @@ Nystatin ialah ubat antikulat polien yang bertindak pada membran sel kulat. Mode
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia buat masa ini. Secara umum, nystatin ialah antikulat polien yang mengikat ergosterol pada membran sel kulat, dan tindakan ini relevan untuk jangkitan kulat.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Nystatin (terjemahan tidak rasmi): “Nistatin bertindak dengan terikat pada sterol dalam membran sel spesies Candida yang rentan, yang mengakibatkan perubahan kebolehtelapan membran yang membenarkan kebocoran komponen intrasel. Nistatin tidak menunjukkan aktiviti yang ketara terhadap bakteria, protozoa atau virus.” Teks asal bahasa Inggeris: "Nystatin acts by binding to sterols in the cell membrane of susceptible Candida species with a resultant change in membrane permeability allowing leakage of intracellular components. Nystatin exhibits no appreciable activity against bacteria, protozoa, or viruses." ([DailyMed: Nystatin Oral Suspension (nystatin) prescribing information, Xttrium Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4a670371-d373-1ba6-e063-6394a90a13b6), versi 2026-02-06; diakses 2026-11-19). Secara umum, nystatin ialah antikulat polien yang mengikat ergosterol pada membran sel kulat, dan tindakan ini relevan untuk jangkitan kulat.
 
 Sehingga kini tiada hubungan mekanistik yang munasabah antara tindakan antikulat nystatin pada membran dengan penyakit kawasan orbit. Skor TxGNN yang tinggi (0,9990) merupakan keluaran model sahaja dan tidak disokong oleh bukti klinikal. Ramalan ini perlu dianggap sebagai hipotesis yang belum disahkan.
 
@@ -90,6 +90,18 @@ Ramalan ini hanya berasaskan model (L5). Tiada percubaan klinikal atau literatur
 - Bukti praklinikal atau klinikal yang secara langsung mengkaji nystatin dalam penyakit kawasan orbit
 - Amaran dan kontraindikasi daripada sisipan pek NPRA
 - Penilaian kebolehlaksanaan laluan pentadbiran (route) untuk indikasi ini
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Nystatin Oral Suspension (nystatin) prescribing information, Xttrium Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4a670371-d373-1ba6-e063-6394a90a13b6) |
+
+<!-- review:end log -->
 
 ## Penafian
 

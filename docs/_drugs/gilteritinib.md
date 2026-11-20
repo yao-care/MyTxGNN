@@ -60,7 +60,7 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 
 ## Mengapakah Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, gilteritinib ialah perencat kinase FLT3/AXL yang dibangunkan untuk AML dengan mutasi FLT3. Keberkesanannya dalam indikasi asal telah dikaitkan dengan sasaran ini.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Gilteritinib (terjemahan tidak rasmi): “Gilteritinib ialah molekul kecil yang merencat pelbagai kinase tirosina reseptor, termasuk kinase tirosina 3 seperti FMS (FLT3). Gilteritinib menunjukkan keupayaan untuk merencat isyarat reseptor FLT3 dan proliferasi dalam sel yang mengekspresikan FLT3 secara eksogen termasuk FLT3-ITD, mutasi domain kinase tirosina (TKD) FLT3-D835Y dan FLT3-ITD-D835Y, dan ia mengaruh apoptosis dalam sel leukemia yang mengekspresikan FLT3-ITD.” Teks asal bahasa Inggeris: "Gilteritinib is a small molecule that inhibits multiple receptor tyrosine kinases, including FMS-like tyrosine kinase 3 (FLT3). Gilteritinib demonstrated the ability to inhibit FLT3 receptor signaling and proliferation in cells exogenously expressing FLT3 including FLT3-ITD, tyrosine kinase domain mutations (TKD) FLT3-D835Y and FLT3-ITD-D835Y, and it induced apoptosis in leukemic cells expressing FLT3-ITD." ([DailyMed: Xospata (gilteritinib) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5ff59aa-9c0d-49a8-9053-1f179b482383), versi 2026-10-01; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, gilteritinib ialah perencat kinase FLT3/AXL yang dibangunkan untuk AML dengan mutasi FLT3. Keberkesanannya dalam indikasi asal telah dikaitkan dengan sasaran ini.
 
 Polio bulbar pula ialah jangkitan virus pada neuron motor batang otak yang disebabkan oleh poliovirus. Perencatan kinase tidak mempunyai kesan antivirus atau neuroperlindungan terhadap poliovirus yang telah ditunjukkan. Tiada pautan mekanistik yang munasabah antara gilteritinib dengan penyakit ini.
 
@@ -81,7 +81,6 @@ Pada masa ini tiada literatur berkaitan.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -110,6 +109,19 @@ Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang lengkap.
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA (ubat ini belum berdaftar di Malaysia)
 - Penilaian keserasian laluan pemberian dan kesamaan dengan indikasi asal
 - Pertimbangan semula indikasi lain yang mempunyai asas bukti lebih kukuh
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Xospata (gilteritinib) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5ff59aa-9c0d-49a8-9053-1f179b482383) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

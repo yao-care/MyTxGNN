@@ -58,7 +58,7 @@ Daptomycin ialah antibiotik lipopeptida kitaran yang digunakan untuk jangkitan b
 
 ## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-Data mekanisme tindakan terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, daptomycin ialah lipopeptida kitaran yang bertindak ke atas membran sel bakteria Gram-positif. Keberkesanannya dalam jangkitan bakteria telah terbukti, tetapi tiada mekanisme yang boleh dipercayai menghubungkannya dengan rawatan osteoartritis degeneratif.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Daptomycin (terjemahan tidak rasmi): “Daptomisin ialah ubat antibakteria. […] Daptomisin terikat kepada membran sel bakteria dan menyebabkan depolarisasi pesat keupayaan membran. Kehilangan keupayaan membran ini menyebabkan perencatan sintesis DNA, RNA dan protein, yang mengakibatkan kematian sel bakteria.” Teks asal bahasa Inggeris: "Daptomycin is an antibacterial drug. […] Daptomycin binds to bacterial cell membranes and causes a rapid depolarization of membrane potential. This loss of membrane potential causes inhibition of DNA, RNA, and protein synthesis, which results in bacterial cell death." ([DailyMed: Dapzura Rt (daptomycin) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb1283e1-35b8-425c-b338-d9ac0c7161f8), versi 2022-01-25; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, daptomycin ialah lipopeptida kitaran yang bertindak ke atas membran sel bakteria Gram-positif. Keberkesanannya dalam jangkitan bakteria telah terbukti, tetapi tiada mekanisme yang boleh dipercayai menghubungkannya dengan rawatan osteoartritis degeneratif.
 
 Kesusasteraan yang diperoleh merujuk kepada penggunaan daptomycin untuk jangkitan tulang, sendi dan sendi prostetik yang disebabkan oleh bakteria Gram-positif (contohnya *Staphylococcus*). Ini ialah kegunaan anti-jangkitan, bukan kesan anti-osteoartritik. Skor TxGNN yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan, bukan bukti biologi atau kesan terapeutik sebenar.
 
@@ -121,6 +121,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah pakej.
 - Pengesahan penemuan kajian praklinikal artritis reumatoid terhadap teks penuh, diikuti data in vivo tambahan
 - Penilaian keserasian laluan pentadbiran, kerana daptomycin ialah ubat suntikan intravena
 - Pemantauan keselamatan khusus (contohnya CK dan fungsi otot) sekiranya penyelidikan lanjut dijalankan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Dapzura Rt (daptomycin) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb1283e1-35b8-425c-b338-d9ac0c7161f8) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

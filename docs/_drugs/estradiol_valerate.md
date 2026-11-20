@@ -63,7 +63,7 @@ Nota: Calon kedudukan pertama dalam senarai ramalan ialah sindrom X rapuh simpto
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia pada masa ini. Estradiol valerate ialah pro-ubat estradiol, hormon estrogen, dan estrogen terlibat dalam pengawalan kitaran haid, endometrium dan lendir serviks.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Estradiol Valerate (terjemahan tidak rasmi): “Walaupun estrogen dalam peredaran wujud dalam keseimbangan dinamik antara penukaran metabolik, estradiol ialah estrogen intrasel utama manusia dan jauh lebih poten berbanding metabolitnya, estron dan estriol, pada peringkat reseptor. Sumber utama estrogen pada wanita dewasa yang mempunyai kitaran normal ialah folikel ovari, yang merembeskan 70 hingga 500 mcg estradiol setiap hari, bergantung pada fasa kitaran haid.” Teks asal bahasa Inggeris: "Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol, at the receptor level. The primary source of estrogen in normally cycling adult women is the ovarian follicle, which secretes 70 to 500 mcg of estradiol daily, depending on the phase of the menstrual cycle." ([DailyMed: Delestrogen (estradiol valerate) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8f94df9-0692-4462-a7f0-fe019a0a3f07), versi 2026-05-13; diakses 2026-11-19). Estradiol valerate ialah pro-ubat estradiol, hormon estrogen, dan estrogen terlibat dalam pengawalan kitaran haid, endometrium dan lendir serviks.
 
 Dalam konteks aruhan ovulasi, estradiol kadangkala ditambah bersama klomifen sitrat untuk memperbaiki ketebalan endometrium dan lendir serviks, kerana klomifen mempunyai kesan anti-estrogenik. Ini memberi sedikit rasional mekanistik untuk ramalan tersebut.
 
@@ -140,11 +140,12 @@ Calon lain (contohnya sindrom X rapuh, BPES dan kelainan kromosom) hanya mempuny
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-17 | Status pendaftaran: “Semua lesen berstatus sah dan dipegang oleh Bayer Co. (Malaysia) Sdn. Bhd.” → “Ketiga-tiga nombor pendaftaran di atas tidak lagi tersenarai dalam daftar semasa” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Delestrogen (estradiol valerate) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8f94df9-0692-4462-a7f0-fe019a0a3f07) |
 
 <!-- review:end log -->
 

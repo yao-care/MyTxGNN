@@ -68,7 +68,7 @@ Nota: Indikasi asal di atas diambil daripada pangkalan pengetahuan TxGNN, bukan 
 
 ## Mengapakah Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) denosumab tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, denosumab ialah antibodi yang menyekat RANKL (ligan bagi RANK) dan keberkesanannya dalam osteoporosis telah mantap. Secara mekanisme, laluan RANKL/RANK/osteoprotegerin dikaitkan dengan pengkalsifikasian vaskular, keradangan dan patologi mikrovaskular berkaitan diabetes.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Denosumab (terjemahan tidak rasmi): “Produk denosumab terikat kepada RANKL, iaitu protein transmembran atau larut yang penting untuk pembentukan, fungsi, dan kemandirian osteoklas, iaitu sel yang bertanggungjawab untuk penyerapan tulang. Produk denosumab menghalang RANKL daripada mengaktifkan reseptornya, RANK, pada permukaan osteoklas dan prekursornya.” Teks asal bahasa Inggeris: "Denosumab products bind to RANKL, a transmembrane or soluble protein essential for the formation, function, and survival of osteoclasts, the cells responsible for bone resorption. Denosumab products prevent RANKL from activating its receptor, RANK, on the surface of osteoclasts and their precursors." ([DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd), versi 2026-11-04; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, denosumab ialah antibodi yang menyekat RANKL (ligan bagi RANK) dan keberkesanannya dalam osteoporosis telah mantap. Secara mekanisme, laluan RANKL/RANK/osteoprotegerin dikaitkan dengan pengkalsifikasian vaskular, keradangan dan patologi mikrovaskular berkaitan diabetes.
 
 Secara teori, perencatan RANKL oleh denosumab boleh memodulasi proses ini pada retina. Namun begitu, tiada bukti retina secara langsung dikemukakan, dan hubungan ini masih bersifat hipotesis. Skor TxGNN yang sangat tinggi (0.9963) ialah ramalan pengiraan sahaja dan tidak boleh dianggap sebagai bukti keberkesanan klinikal.
 
@@ -138,13 +138,14 @@ Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "kerana tiada lesen berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-05 | Dipadam: "Denosumab juga tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-05 | Dipadam: "(belum ada kerana tiada pendaftaran NPRA)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd) |
 
 <!-- review:end log -->
 

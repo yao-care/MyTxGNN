@@ -60,7 +60,7 @@ tetapi setakat ini **tiada ujian klinikal** dan hanya **3 penerbitan** yang tida
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Desvenlafaxine ialah SNRI. Antidepresan serotonergik merupakan farmakoterapi yang mantap untuk OCD, maka wujud kaitan mekanistik yang munasabah. Data terperinci tentang mekanisme tindakan asal (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini; penilaian di sini berdasarkan klasifikasi farmakologi ubat tersebut.
+Desvenlafaxine ialah SNRI. Antidepresan serotonergik merupakan farmakoterapi yang mantap untuk OCD, maka wujud kaitan mekanistik yang munasabah. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Desvenlafaxine (terjemahan tidak rasmi): “Mekanisme tepat tindakan antidepresan desvenlafaksin tidak diketahui, tetapi dianggap berkaitan dengan potensiasi serotonin dan norepinefrin dalam sistem saraf pusat, melalui perencatan pengambilan semulanya. Kajian bukan klinikal telah menunjukkan bahawa desvenlafaksin ialah SNRI yang poten dan selektif.” Teks asal bahasa Inggeris: "The exact mechanism of the antidepressant action of desvenlafaxine is unknown, but is thought to be related to the potentiation of serotonin and norepinephrine in the central nervous system, through inhibition of their reuptake. Non-clinical studies have shown that desvenlafaxine is a potent and selective SNRI." ([DailyMed: Pristiq Extended-Release (desvenlafaxine succinate) prescribing information, Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f43610c-f290-46ea-d186-4f998ed99fce), versi 2026-04-28; diakses 2026-11-19).
 
 Kemurungan dan gangguan kecemasan (indikasi asal) sering bertindih dengan OCD dari segi klinikal dan neurobiologi, terutamanya melalui sistem serotonin. Namun, tinjauan literatur yang diperoleh hanya bersifat umum atau tidak langsung dan tidak menunjukkan keberkesanan khusus desvenlafaxine dalam OCD. Oleh itu, kaitan ini masih berupa hipotesis.
 
@@ -129,11 +129,12 @@ Indikasi lain (gangguan personaliti skizotipal/skizoid/paranoid/histrionik, sind
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak didaftarkan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Pristiq Extended-Release (desvenlafaxine succinate) prescribing information, Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f43610c-f290-46ea-d186-4f998ed99fce) |
 
 <!-- review:end log -->
 

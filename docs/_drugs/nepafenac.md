@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **penyakit mata (eye disease)**
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Nepafenac ialah prodrug yang ditukar oleh hidrolase tisu mata kepada amfenac, iaitu perencat COX-1 dan COX-2. Perencatan ini mengurangkan sintesis prostaglandin, lalu menekan keradangan mata, kesakitan dan kerosakan sawar darah-retina. Data mekanisme tindakan asal (MOA) tidak tersedia dalam rekod, tetapi maklumat di atas diperoleh daripada analisis hubungan mekanistik dalam data yang dikompilasi.
+Nepafenac ialah prodrug yang ditukar oleh hidrolase tisu mata kepada amfenac, iaitu perencat COX-1 dan COX-2. Perencatan ini mengurangkan sintesis prostaglandin, lalu menekan keradangan mata, kesakitan dan kerosakan sawar darah-retina. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Nepafenac (terjemahan tidak rasmi): “Selepas pendosan okular topikal, nepafenak menembusi kornea dan ditukar oleh hidrolase tisu okular kepada amfenak, suatu NSAID. Nepafenak dan amfenak dipercayai merencat tindakan prostaglandin H sintase (siklooksigenase), enzim yang diperlukan untuk penghasilan prostaglandin.” Teks asal bahasa Inggeris: "After topical ocular dosing, nepafenac penetrates the cornea and is converted by ocular tissue hydrolases to amfenac, a NSAID. Nepafenac and amfenac are thought to inhibit the action of prostaglandin H synthase (cyclooxygenase), an enzyme required for prostaglandin production." ([DailyMed: Ilevro (nepafenac) prescribing information, Harrow Eye, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10f411d3-a81e-074a-e063-6294a90ab547), versi 2026-04-01; diakses 2026-11-19).
 
 Bukti paling kukuh ialah untuk keradangan dan kesakitan selepas pembedahan katarak. Label "penyakit mata" ialah kategori yang luas. Sub-indikasi seperti edema makula, kesakitan selepas fotokoagulasi panretina (PRP) dan keradangan selepas laser patut dinilai secara berasingan.
 
@@ -155,11 +155,12 @@ Ramalan kedudukan 3 hingga 9 tidak mempunyai asas mekanistik yang jelas; skornya
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "memandangkan rekod menunjukkan tiada pendaftaran di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ilevro (nepafenac) prescribing information, Harrow Eye, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10f411d3-a81e-074a-e063-6294a90ab547) |
 
 <!-- review:end log -->
 

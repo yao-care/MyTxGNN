@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **Prinzmetal angina** (skor 0.9
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, isoflurane ialah anestetik meruap (volatile) yang telah terbukti berkesan untuk anestesia am, dan secara mekanistik mungkin boleh digunakan untuk Prinzmetal angina.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Isoflurane ialah (terjemahan tidak rasmi): “Pemodulat positif reseptor glisina (alfa-1/beta); reseptor GABA-A; pemodulat alosterik positif saluran anion; pembuka ahli 10 subfamili K saluran kalium; pembuka ahli 18 subfamili K saluran kalium” Teks asal bahasa Inggeris: "Glycine receptor (alpha-1/beta) positive modulator; GABA-A receptor; anion channel positive allosteric modulator; Potassium channel subfamily K member 10 opener; Potassium channel subfamily K member 18 opener" ([ChEMBL CHEMBL1256 (isoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1256), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, isoflurane ialah anestetik meruap (volatile) yang telah terbukti berkesan untuk anestesia am, dan secara mekanistik mungkin boleh digunakan untuk Prinzmetal angina.
 
 Satu kaitan yang munasabah tetapi belum disahkan ialah anestetik meruap boleh mengurangkan ketegangan otot licin vaskular dan aliran masuk kalsium, yang secara teori boleh melawan vasospasme koronari. Ini bersifat spekulatif dan tidak disokong oleh data yang dikumpulkan. Persamaan antara indikasi asal dengan indikasi baharu masih belum dinilai.
 
@@ -148,11 +148,12 @@ Selain Prinzmetal angina, model juga meramalkan indikasi berikut. Semuanya berad
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Isoflurane pada masa ini tidak mempunyai pendaftaran NPRA yang sah dalam data yang dikumpulkan (jumlah pendaftaran: 0)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL1256 (isoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1256) |
 
 <!-- review:end log -->
 

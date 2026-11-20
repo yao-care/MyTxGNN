@@ -54,7 +54,7 @@ Adapalene ialah retinoid topikal generasi ketiga yang digunakan terutamanya dala
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Adapalene diketahui sebagai retinoid topikal generasi ketiga yang mengikat secara selektif reseptor RAR-beta dan RAR-gamma, lalu mengawal pembezaan keratinosit dan keradangan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Adapalene (terjemahan tidak rasmi): “Adapalena terikat kepada reseptor nuklear asid retinoik yang spesifik tetapi tidak terikat kepada protein reseptor sitosol. Kajian profil biokimia dan farmakologi telah menunjukkan bahawa adapalena ialah modulator pembezaan sel, keratinisasi, dan proses keradangan.” Teks asal bahasa Inggeris: "Adapalene binds to specific retinoic acid nuclear receptors but does not bind to cytosolic receptor protein. Biochemical and pharmacological profile studies have demonstrated that adapalene is a modulator of cellular differentiation, keratinization, and inflammatory processes." ([DailyMed: Differin (adapalene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec), versi 2023-12-27; diakses 2026-11-19). Adapalene diketahui sebagai retinoid topikal generasi ketiga yang mengikat secara selektif reseptor RAR-beta dan RAR-gamma, lalu mengawal pembezaan keratinosit dan keradangan.
 
 Namun, zink plasma yang meningkat ialah keabnormalan makmal berkaitan metabolisme atau pendedahan (contohnya suplemen berlebihan, punca buah pinggang atau hemolitik), bukan penyakit yang dipacu oleh isyarat reseptor retinoid. Tiada hubungan mekanistik yang kukuh dapat ditunjukkan antara kedua-duanya.
 
@@ -90,6 +90,19 @@ Tiada kajian yang mengkaji zink plasma meningkat secara langsung, tiada hubungan
 - Amaran dan kontraindikasi daripada risalah pakej NPRA
 - Bukti praklinikal atau klinikal yang mengkaji secara langsung kesan adapalene terhadap paras zink plasma
 - Penilaian kebolehlaksanaan laluan pentadbiran, kerana adapalene ialah produk topikal dan data keserasian laluan belum tersedia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Differin (adapalene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

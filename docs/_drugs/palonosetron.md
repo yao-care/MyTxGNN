@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan migrain (migraine di
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, palonosetron tergolong dalam kelas antagonis reseptor 5-HT3. Laluan serotonergik diketahui terlibat dalam patofisiologi migrain, dan antagonis 5-HT3 pernah diterokai untuk migrain serta loya yang berkaitan dengan migrain. Secara mekanistik, ini memberi asas teori yang lemah untuk ramalan tersebut.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Palonosetron (terjemahan tidak rasmi): “Palonosetron ialah antagonis reseptor 5-HT 3 dengan afiniti pengikatan yang kuat terhadap reseptor ini dan sedikit atau tiada afiniti terhadap reseptor lain. Kemoterapi kanser mungkin dikaitkan dengan insiden loya dan muntah yang tinggi, terutamanya apabila agen tertentu, seperti cisplatin, digunakan.” Teks asal bahasa Inggeris: "Palonosetron is a 5-HT 3 receptor antagonist with a strong binding affinity for this receptor and little or no affinity for other receptors. Cancer chemotherapy may be associated with a high incidence of nausea and vomiting, particularly when certain agents, such as cisplatin, are used." ([DailyMed: Posfrea (palonosetron) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13a201ba-c86d-48c5-a0e1-a3e0b4e6a2a7), versi 2025-04-29; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, palonosetron tergolong dalam kelas antagonis reseptor 5-HT3. Laluan serotonergik diketahui terlibat dalam patofisiologi migrain, dan antagonis 5-HT3 pernah diterokai untuk migrain serta loya yang berkaitan dengan migrain. Secara mekanistik, ini memberi asas teori yang lemah untuk ramalan tersebut.
 
 Namun begitu, bukti sedia ada menunjuk ke arah yang bertentangan. Satu-satunya literatur langsung ialah laporan kes bertajuk "Palonosetron-induced migraine-type headache", yang mencadangkan palonosetron mungkin mencetuskan sakit kepala jenis migrain sebagai kesan advers. Skor TxGNN yang sangat tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi, dan bukan arah terapeutik.
 
@@ -121,6 +121,19 @@ Untuk maklumat amaran, kontraindikasi dan keselamatan lain, sila rujuk risalah b
 - Kajian preklinikal atau percubaan klinikal yang menilai palonosetron untuk migrain, serta penjelasan sama ada isyarat sakit kepala ialah kesan advers
 - Penilaian risiko pemanjangan QT dan interaksi dengan ubat serotonergik, terutamanya triptan
 - Pengesahan status pendaftaran dan laluan pentadbiran yang sesuai di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Posfrea (palonosetron) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13a201ba-c86d-48c5-a0e1-a3e0b4e6a2a7) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada literatur** dalam 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) amantadine tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Penilaian awal menunjukkan bahawa amantadine ialah antagonis reseptor NMDA, dan secara teori ia boleh mengurangkan eksitotoksisiti yang dimediasi glutamat serta keradangan saraf.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Amantadine (terjemahan tidak rasmi): “Mekanisme amantadine memberikan keberkesanan dalam rawatan diskinesia pada pesakit dengan penyakit Parkinson atau sebagai rawatan tambahan kepada levodopa/carbidopa pada pesakit dengan penyakit Parkinson yang mengalami episod 'off' tidak diketahui. Amantadine ialah antagonis tidak kompetitif yang lemah bagi reseptor NMDA.” Teks asal bahasa Inggeris: "The mechanism by which amantadine exerts efficacy in the treatment of dyskinesia in patients with Parkinson's disease or as adjunctive treatment to levodopa/carbidopa in patients with Parkinson's disease experiencing 'off' episodes is unknown. Amantadine is a weak uncompetitive antagonist of the NMDA receptor." ([DailyMed: Gocovri (amantadine) prescribing information, Adamas Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82ff865f-78f3-4c94-b6a9-727a54944b28), versi 2026-10-05; diakses 2026-11-19). Penilaian awal menunjukkan bahawa amantadine ialah antagonis reseptor NMDA, dan secara teori ia boleh mengurangkan eksitotoksisiti yang dimediasi glutamat serta keradangan saraf.
 
 Rasmussen encephalitis ialah ensefalitis kronik yang bersifat imun dan disertai epilepsi. Secara teori, pengurangan eksitotoksisiti glutamat mungkin relevan. Namun, ini hanyalah hipotesis berasaskan ramalan komputasi; tiada data klinikal dalam set data ini yang menyokongnya.
 
@@ -117,11 +117,12 @@ Data yang dikumpulkan turut merangkumi tiga ramalan lain, dan semuanya juga belu
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia, dan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Gocovri (amantadine) prescribing information, Adamas Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82ff865f-78f3-4c94-b6a9-727a54944b28) |
 
 <!-- review:end log -->
 

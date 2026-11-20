@@ -58,7 +58,7 @@ Alpelisib ialah perencat PI3K-alfa yang digunakan dalam rawatan kanser. Model Tx
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Alpelisib diketahui sebagai perencat PI3K-alfa. Isyarat PI3K/AKT yang tidak terkawal dikaitkan dengan pembentukan semula vaskular paru-paru serta percambahan sel otot licin dan endotelium, maka secara teori perencatan laluan ini munasabah dari sudut biologi.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Alpelisib (terjemahan tidak rasmi): “Alpelisib ialah perencat fosfatidilinositol-3-kinase (PI3K) dengan aktiviti perencatan terutamanya terhadap PI3Kα. Mutasi gandaan fungsi dalam gen yang mengekodkan subunit-α pemangkin PI3K (PIK3CA) membawa kepada pengaktifan PI3Kα dan isyarat Akt, transformasi sel dan penjanaan tumor dalam model in vitro dan in vivo.” Teks asal bahasa Inggeris: "Alpelisib is an inhibitor of phosphatidylinositol-3-kinase (PI3K) with inhibitory activity predominantly against PI3Kα. Gain-of-function mutations in the gene encoding the catalytic α-subunit of PI3K (PIK3CA) lead to activation of PI3Kα and Akt-signaling, cellular transformation and the generation of tumors in in vitro and in vivo models." ([DailyMed: Piqray (alpelisib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b20b4e18-7a4b-4500-a08f-06c6dab0ee5b), versi 2026-10-28; diakses 2026-11-19). Alpelisib diketahui sebagai perencat PI3K-alfa. Isyarat PI3K/AKT yang tidak terkawal dikaitkan dengan pembentukan semula vaskular paru-paru serta percambahan sel otot licin dan endotelium, maka secara teori perencatan laluan ini munasabah dari sudut biologi.
 
 Namun, kaitan ini bersifat spekulatif dan tidak disokong oleh bukti yang ada. Skor TxGNN yang tinggi (0,9903) hanyalah ramalan model dan tiada rasional mekanistik diberikan dalam data. Satu-satunya penerbitan yang ditemui ialah laporan kes penyakit paru-paru interstisial yang disebabkan oleh alpelisib, iaitu isyarat kesan buruk pada paru-paru yang menuntut sikap berhati-hati dan bukan bukti manfaat.
 
@@ -100,6 +100,19 @@ Ramalan ini hanya berasaskan model (L5): tiada ujian klinikal dan tiada kajian y
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Penilaian risiko penyakit paru-paru interstisial dan keselamatan paru-paru
 - Pertimbangan laluan pentadbiran dan kesesuaian formulasi
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Piqray (alpelisib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b20b4e18-7a4b-4500-a08f-06c6dab0ee5b) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

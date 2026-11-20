@@ -59,7 +59,7 @@ Desloratadine ialah antagonis reseptor H1 periferi terpilih yang pada asalnya di
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, desloratadine ialah antagonis reseptor H1 periferi terpilih. Ia direkodkan dalam graf pengetahuan untuk rinitis alergi, yang sendiri merupakan penyakit rongga hidung, dan secara mekanistik penyekatan H1 boleh meredakan gejala yang dimediasi histamin.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Desloratadine (terjemahan tidak rasmi): “Desloratadin ialah antagonis histamin trisiklik bertindakan panjang dengan aktiviti antagonis histamin reseptor H1 yang selektif. Data pengikatan reseptor menunjukkan bahawa pada kepekatan 2-3 ng/mL (7 nanomolar), desloratadin menunjukkan interaksi yang ketara dengan reseptor H1 histamin manusia.” Teks asal bahasa Inggeris: "Desloratadine is a long-acting tricyclic histamine antagonist with selective H1-receptor histamine antagonist activity. Receptor binding data indicates that at a concentration of 2-3 ng/mL (7 nanomolar), desloratadine shows significant interaction with the human histamine H1-receptor." ([DailyMed: Desloratadine Oral Solution (desloratadine) prescribing information, INA Pharmaceutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41d5e0d4-6188-847b-e063-6294a90a2e2f), versi 2025-10-23; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, desloratadine ialah antagonis reseptor H1 periferi terpilih. Ia direkodkan dalam graf pengetahuan untuk rinitis alergi, yang sendiri merupakan penyakit rongga hidung, dan secara mekanistik penyekatan H1 boleh meredakan gejala yang dimediasi histamin.
 
 Perlu diberi perhatian: skor TxGNN yang tinggi berkemungkinan besar hanya mencerminkan pertindihan dengan indikasi sedia ada (rinitis alergi ialah sejenis penyakit rongga hidung), maka ia bukan isyarat penggunaan semula yang sebenar. Dua penerbitan yang diperoleh ialah kajian praklinikal ke atas haiwan yang menguji agen lain (hesperidin/timol; loratadine bersama montelukast), bukan desloratadine. Ia hanya menyokong kesan kelas antagonis H1 secara tidak langsung.
 
@@ -119,6 +119,19 @@ Sila rujuk sisipan pakej untuk amaran dan kontraindikasi rasmi.
 - Data mekanisme tindakan (MOA) yang terperinci
 - Definisi indikasi baharu yang lebih spesifik daripada "penyakit rongga hidung" yang terlalu luas
 - Kajian atau percubaan yang menguji desloratadine secara langsung pada penyakit sasaran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Desloratadine Oral Solution (desloratadine) prescribing information, INA Pharmaceutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41d5e0d4-6188-847b-e063-6294a90a2e2f) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

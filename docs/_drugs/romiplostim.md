@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **gangguan pelepasan primer pla
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, romiplostim ialah agonis reseptor trombopoietin (MPL) yang merangsang percambahan megakariosit dan pengeluaran platelet. Keberkesanannya dalam ITP telah mapan dalam literatur.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Romiplostim (terjemahan tidak rasmi): “Nplate meningkatkan penghasilan platelet melalui pengikatan dan pengaktifan reseptor TPO, iaitu mekanisme yang serupa dengan TPO endogen.” Teks asal bahasa Inggeris: "Nplate increases platelet production through binding and activation of the TPO receptor, a mechanism analogous to endogenous TPO." ([DailyMed: Nplate (romiplostim) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c45f9a58-37c1-4f76-8e36-97d38c577037), versi 2026-06-23; diakses 2026-11-19). Berdasarkan maklumat sedia ada, romiplostim ialah agonis reseptor trombopoietin (MPL) yang merangsang percambahan megakariosit dan pengeluaran platelet. Keberkesanannya dalam ITP telah mapan dalam literatur.
 
 Namun, hubungan mekanistik dengan indikasi yang diramalkan adalah **tidak langsung dan lemah**. Gangguan pelepasan platelet ialah kecacatan fungsi kualitatif (perembesan granul terjejas), maka meningkatkan kiraan platelet tidak akan membetulkan kelainan fungsi asas. Satu-satunya literatur (PMID 25682608) mengenai autoantibodi antiplatelet yang menghalang pembentukan proplatelet dalam ITP, bukan gangguan pelepasan platelet. Skor TxGNN yang sangat tinggi tidak disokong oleh bukti klinikal.
 
@@ -80,7 +80,6 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -126,6 +125,19 @@ Data juga merangkumi indikasi lain yang diramalkan. Hampir semuanya berada pada 
 | 10 | Sindrom Ehlers-Danlos, jenis fibronektinemik | 0.9985 | L5 | Hold |
 
 **Calon yang paling wajar diterokai:** FNAIT (kedudukan 4) mempunyai sokongan tidak langsung daripada 6 penerbitan (kajian semula dan laporan kes mengenai ITP, kehamilan dan neonatus), tetapi tiada bukti khusus FNAIT. Keselamatan janin/neonatus dan pemindahan melalui plasenta masih belum diselesaikan. Trombositopenia konstitusi dan makrotrombositopenia autosomal dominan munasabah secara teori bagi subjenis dengan isyarat MPL yang terpelihara, tetapi tiada bukti diperoleh.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Nplate (romiplostim) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c45f9a58-37c1-4f76-8e36-97d38c577037) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

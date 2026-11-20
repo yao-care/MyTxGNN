@@ -56,7 +56,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan asal tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, alfuzosin ialah antagonis reseptor alfa-1 adrenergik, keberkesanannya dalam BPH telah terbukti, tetapi secara mekanistik tiada hubungan yang mantap dengan hipertrikosis kongenital universalis jenis Ambras.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Alfuzosin (terjemahan tidak rasmi): “Alfuzosin ialah antagonis selektif bagi adrenoreseptor alfa 1 pascasinaps, yang terletak di prostat, dasar pundi kencing, leher pundi kencing, kapsul prostat dan uretra prostat.” Teks asal bahasa Inggeris: "Alfuzosin is a selective antagonist of post-synaptic alpha 1 -adrenoreceptors, which are located in the prostate, bladder base, bladder neck, prostatic capsule, and prostatic urethra." ([DailyMed: Uroxatral (alfuzosin hcl) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9fc7f119-f36b-44cf-945d-940160f3afe3), versi 2024-12-05; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, alfuzosin ialah antagonis reseptor alfa-1 adrenergik, keberkesanannya dalam BPH telah terbukti, tetapi secara mekanistik tiada hubungan yang mantap dengan hipertrikosis kongenital universalis jenis Ambras.
 
 Sindrom Ambras berpunca daripada asas genetik (penyusunan semula kromosom 8q22 / pengawalaturan TRPS1). Tiada mekanisme yang diketahui menghubungkan sekatan alfa-1 dengan asas genetik ini.
 
@@ -71,7 +71,6 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
-
 
 ## Pertimbangan Keselamatan
 
@@ -92,6 +91,19 @@ Sila rujuk risalah maklumat produk untuk amaran dan kontraindikasi rasmi.
 - Amaran dan kontraindikasi daripada risalah maklumat produk NPRA
 - Kajian praklinikal atau mekanistik yang menghubungkan sekatan alfa-1 dengan fenotip sasaran
 - Penilaian semula indikasi lain yang lebih munasabah secara biologi (contohnya urtikaria alergi) sebelum sebarang pelaburan lanjut
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Uroxatral (alfuzosin hcl) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9fc7f119-f36b-44cf-945d-940160f3afe3) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

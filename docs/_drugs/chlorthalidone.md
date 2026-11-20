@@ -54,7 +54,7 @@ Chlorthalidone ialah ubat diuretik yang digunakan terutamanya untuk merendahkan 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Butiran mekanisme tindakan (MOA) chlorthalidone tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Chlorthalidone ialah diuretik jenis tiazid yang mengubah keseimbangan cecair dan elektrolit. Satu kaitan yang munasabah tetapi belum terbukti ialah perubahan keseimbangan cecair mungkin mempengaruhi tekanan intraokular. Perencatan karbonik anhidrase pernah diterangkan untuk chlorthalidone, tetapi ia tidak terbukti relevan secara klinikal untuk glaukoma.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Chlorthalidone (terjemahan tidak rasmi): “Chlorthalidone ialah diuretik oral bertindak lama dengan aktiviti antihipertensi. Kesan diuretik chlorthalidone dan diuretik benzotiadiazina (tiazida) kelihatan timbul daripada mekanisme yang serupa dan kesan maksimum chlorthalidone dan tiazida kelihatan serupa.” Teks asal bahasa Inggeris: "Chlorthalidone is a long-acting oral diuretic with antihypertensive activity. The diuretic effects of chlorthalidone and the benzothiadiazine (thiazide) diuretics appear to arise from similar mechanisms and the maximal effect of chlorthalidone and the thiazides appear to be similar." ([DailyMed: Thalitone (chlorthalidone) prescribing information, Casper Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc5a0299-115b-4e60-bb3f-c75a95c51c15), versi 2026-06-25; diakses 2026-11-19). Chlorthalidone ialah diuretik jenis tiazid yang mengubah keseimbangan cecair dan elektrolit. Satu kaitan yang munasabah tetapi belum terbukti ialah perubahan keseimbangan cecair mungkin mempengaruhi tekanan intraokular. Perencatan karbonik anhidrase pernah diterangkan untuk chlorthalidone, tetapi ia tidak terbukti relevan secara klinikal untuk glaukoma.
 
 Perlu diberi perhatian bahawa glaukoma keturunan dipacu oleh faktor genetik (contohnya gen *MYOC* dan *CYP1B1*). Diuretik tidak mungkin menangani punca asasnya. Skor TxGNN yang sangat tinggi hanyalah ramalan pengiraan dan bukan bukti keberkesanan.
 
@@ -87,6 +87,19 @@ Tiada ujian klinikal atau literatur yang mengkaji glaukoma keturunan primer seca
 - Kajian praklinikal atau klinikal yang menilai chlorthalidone terhadap tekanan intraokular atau glaukoma
 - Amaran dan kontraindikasi daripada sisipan pek yang diluluskan oleh NPRA
 - Penilaian keserasian laluan pemberian dan formulasi untuk kegunaan oftalmik atau sistemik
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Thalitone (chlorthalidone) prescribing information, Casper Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc5a0299-115b-4e60-bb3f-c75a95c51c15) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

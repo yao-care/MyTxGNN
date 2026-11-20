@@ -57,7 +57,7 @@ Ramalan ini hanya berasaskan model (tahap bukti L5).
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Asfotase alfa diketahui sebagai enzim ganti TNSALP rekombinan yang menghidrolisis substrat ekstraselular seperti pirofosfat tak organik dan piridoksal-5'-fosfat.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Asfotase Alfa (terjemahan tidak rasmi): “HPP disebabkan oleh kekurangan aktiviti enzim TNSALP, yang membawa kepada peningkatan beberapa substrat TNSALP, termasuk pirofosfat tak organik (PPi). TNSALP ialah enzim logam yang memangkinkan hidrolisis fosfomonoester dengan pembebasan fosfat tak organik dan alkohol.” Teks asal bahasa Inggeris: "HPP is caused by a deficiency in TNSALP enzyme activity, which leads to elevations in several TNSALP substrates, including inorganic pyrophosphate (PPi). TNSALP is a metallo-enzyme that catalyzes the hydrolysis of phosphomonoesters with release of inorganic phosphate and alcohol." ([DailyMed: Strensiq (asfotase alfa) prescribing information, Alexion Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3387574f-5eaa-4501-a71d-4cbfbd563031), versi 2025-12-12; diakses 2026-11-19). Asfotase alfa diketahui sebagai enzim ganti TNSALP rekombinan yang menghidrolisis substrat ekstraselular seperti pirofosfat tak organik dan piridoksal-5'-fosfat.
 
 Tiada kaitan mekanistik yang mantap antara tindakan ini dengan kecacatan OXPHOS mitokondria yang didorong oleh DNA nukleus. Kecacatan tersebut bersifat intraselular, dan enzim ekstraselular tidak mungkin membetulkan disfungsi dalam mitokondria. Skor tinggi ini harus dianggap sebagai ramalan model semata-mata, bukan bukti keberkesanan.
 
@@ -110,6 +110,18 @@ Sembilan ramalan seterusnya turut berada pada tahap bukti L5 tanpa ujian klinika
 | 8 | Varises esofagus tanpa pendarahan | 0.9968 | Tiada rasional biologi; kemungkinan artifak model |
 | 9 | Varises esofagus dengan pendarahan | 0.9968 | Skor sama dengan entri sebelumnya; kemungkinan artifak nod penyakit |
 | 10 | Sistinosis | 0.9965 | Kecacatan pengangkutan sistin lisosom; tiada kaitan langsung dengan TNSALP |
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Strensiq (asfotase alfa) prescribing information, Alexion Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3387574f-5eaa-4501-a71d-4cbfbd563031) |
+
+<!-- review:end log -->
 
 ## Penafian
 

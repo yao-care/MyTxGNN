@@ -60,7 +60,7 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan (MOA) terperinci tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, dextromethorphan dikaitkan dengan beberapa keadaan rinitis dan saluran pernafasan atas, dan secara mekanistik mungkin berkaitan dengan penyakit rongga hidung. Namun hubungan ini tidak dapat disahkan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi dextromethorphan hydrobromide, bupropion hydrochloride (ubat gabungan yang mengandungi Dextromethorphan) (terjemahan tidak rasmi): “Dextromethorphan ialah antagonis tidak kompetitif reseptor NMDA (reseptor glutamat ionotropik) dan agonis reseptor sigma-1. Mekanisme dextromethorphan dalam rawatan MDD dan agitasi yang berkaitan dengan demensia akibat penyakit Alzheimer tidak jelas.” Teks asal bahasa Inggeris: "Dextromethorphan is an uncompetitive antagonist of the NMDA receptor (an ionotropic glutamate receptor) and a sigma-1 receptor agonist. The mechanism of dextromethorphan in the treatment of MDD and agitation associated with dementia due to Alzheimer’s disease is unclear." ([DailyMed: Auvelity (dextromethorphan hydrobromide, bupropion hydrochloride) prescribing information, Axsome Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcefda7c-9a68-278e-e053-2995a90aec79), versi 2026-08-17; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, dextromethorphan dikaitkan dengan beberapa keadaan rinitis dan saluran pernafasan atas, dan secara mekanistik mungkin berkaitan dengan penyakit rongga hidung. Namun hubungan ini tidak dapat disahkan.
 
 Analisis menunjukkan skor yang tinggi (0.9998) datang daripada model TxGNN (deep learning) dan kemungkinan besar mencerminkan persamaan yang dipelajari oleh model antara penyakit berkaitan dengan indikasi sedia ada (rinitis alergik, rinitis vasomotor, rinitis, nasofaringitis), bukan bukti biologi atau mekanisme baharu. Tindakan antitusif dextromethorphan (agonis sigma-1, antagonis NMDA) bukan mekanisme yang diiktiraf untuk merawat penyakit struktur atau radang hidung itu sendiri.
 
@@ -77,7 +77,6 @@ Analisis menunjukkan skor yang tinggi (0.9998) datang daripada model TxGNN (deep
 ---
 
 ## Maklumat Pasaran di Malaysia
-
 
 ---
 
@@ -105,6 +104,19 @@ Maklumat amaran dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila r
 - Kajian literatur terfokus, terutamanya untuk sefalgia autonomik trigeminal yang paling munasabah secara biologi
 - Penilaian keserasian laluan pemberian dan kesamaan dengan indikasi asal
 - Kajian status pendaftaran dan peluang kemasukan ke pasaran Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Auvelity (dextromethorphan hydrobromide, bupropion hydrochloride) prescribing information, Axsome Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcefda7c-9a68-278e-e053-2995a90aec79) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

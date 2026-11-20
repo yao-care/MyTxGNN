@@ -56,7 +56,7 @@ Melphalan ialah agen pengalkilan jenis nitrogen mustard yang berdaftar di Malays
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, melphalan ialah agen pengalkilan bifungsi jenis nitrogen mustard yang membentuk taut silang antara untai DNA, menyebabkan penahanan kitaran sel dan apoptosis dalam sel tumor yang membahagi.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Melphalan (terjemahan tidak rasmi): “Melphalan ialah agen pengalkilan jenis bis-kloroetilamina. Oleh itu, sitotoksisitinya kelihatan berkaitan dengan tahap paut silang antara bebenang dengan DNA, mungkin melalui pengikatan pada kedudukan N 7 guanina.” Teks asal bahasa Inggeris: "Melphalan is an alkylating agent of the bischloroethylamine type. As a result, its cytotoxicity appears to be related to the extent of its interstrand cross-linking with DNA, probably by binding at the N 7 position of guanine." ([DailyMed: Evomela (melphalan) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69f55869-dc11-408e-8fc7-47634269a52c), versi 2026-09-15; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, melphalan ialah agen pengalkilan bifungsi jenis nitrogen mustard yang membentuk taut silang antara untai DNA, menyebabkan penahanan kitaran sel dan apoptosis dalam sel tumor yang membahagi.
 
 Mekanisme sitotoksik umum ini munasabah untuk karsinoma payudara. Melphalan pernah dikaji secara sejarah dalam rawatan adjuvan dan dalam dos tinggi dengan sokongan sel stem autologus. Namun, penggunaannya dalam kanser payudara bukan rawatan standard hari ini. Skor TxGNN yang tinggi (0.9967) disokong oleh isyarat aktiviti klinikal lama, bukan oleh ujian perbandingan moden.
 
@@ -128,6 +128,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisip bungkusan.
 - Data mekanisme tindakan (MOA) terperinci
 - Kajian semula sistematik bukti moden untuk melphalan dalam kanser payudara berbanding rawatan standard semasa
 - Pelan pemantauan keselamatan untuk penekanan sumsum tulang dan interaksi ubat
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Evomela (melphalan) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69f55869-dc11-408e-8fc7-47634269a52c) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

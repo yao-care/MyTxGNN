@@ -60,7 +60,7 @@ Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **penya
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan asal tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, cyanocobalamin ialah vitamin B12 yang bertindak sebagai kofaktor kepada metionina sintase dan metilmalonil-CoA mutase. Kegunaannya dalam kekurangan B12 dan anemia berkaitan sudah mantap.
+Menurut bahagian “Clinical Pharmacology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Cyanocobalamin (terjemahan tidak rasmi): “FARMAKOLOGI KLINIKAL Vitamin B12 adalah penting untuk pertumbuhan, pembiakan sel, hematopoiesis, dan sintesis nukleoprotein dan mielin.” Teks asal bahasa Inggeris: "CLINICAL PHAMRACOLOGY Vitamin B12 is essential to growth, cell reproduction, hematopoiesis, and nucleoprotein and myelin synthesis." ([DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d), versi 2025-12-08; diakses 2026-11-19). Berdasarkan maklumat sedia ada, cyanocobalamin ialah vitamin B12 yang bertindak sebagai kofaktor kepada metionina sintase dan metilmalonil-CoA mutase. Kegunaannya dalam kekurangan B12 dan anemia berkaitan sudah mantap.
 
 Biotin pula ialah kofaktor bagi karboksilase (contohnya propionil-CoA karboksilase dan piruvat karboksilase). Kedua-dua laluan metabolik ini bertemu pada metabolisme propionat dan metilmalonat, dan ini mungkin menjelaskan persamaan yang dipelajari oleh model TxGNN (pembelajaran mendalam) antara penyakit berkaitan; skor model mungkin mencerminkan persamaan ini, bukan bukti biologi.
 
@@ -129,11 +129,12 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-17 | Bilangan pendaftaran: “Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi” → “Jumlah pendaftaran ialah 486 (470 sah), termasuk 472 produk kombinasi” | Dibetulkan (disemak 2026-11-17; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d) |
 
 <!-- review:end log -->
 

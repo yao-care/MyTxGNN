@@ -59,7 +59,7 @@ Asenapine maleate ialah ubat antipsikotik atipikal yang berfungsi sebagai antago
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Asenapine diketahui sebagai antipsikotik atipikal dengan aktiviti antagonis pada reseptor serotonin, dopamin, adrenergik dan histamin. Walau bagaimanapun, tiada data yang dikumpulkan untuk laporan ini yang menunjukkan hubungan farmakologi yang munasabah antara profil reseptor tersebut dengan mekanisme genetik distrofi retina warisan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Asenapine Maleate (terjemahan tidak rasmi): “Mekanisme tindakan asenapina, dalam skizofrenia dan gangguan bipolar I, tidak diketahui. Telah dicadangkan bahawa keberkesanan asenapina dalam skizofrenia mungkin diperantarakan melalui gabungan aktiviti antagonis pada reseptor D 2 dan 5-HT 2A .” Teks asal bahasa Inggeris: "The mechanism of action of asenapine, in schizophrenia and bipolar I disorder, is unknown. It has been suggested that the efficacy of asenapine in schizophrenia could be mediated through a combination of antagonist activity at D 2 and 5-HT 2A receptors." ([DailyMed: Saphris (asenapine maleate) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5429f134-839f-4ffc-9944-55f51238def8), versi 2025-01-31; diakses 2026-11-19). Asenapine diketahui sebagai antipsikotik atipikal dengan aktiviti antagonis pada reseptor serotonin, dopamin, adrenergik dan histamin. Walau bagaimanapun, tiada data yang dikumpulkan untuk laporan ini yang menunjukkan hubungan farmakologi yang munasabah antara profil reseptor tersebut dengan mekanisme genetik distrofi retina warisan.
 
 Skor TxGNN yang tinggi (0.9977) hanyalah hasil ramalan model berasaskan corak data. Skor ini bukan bukti klinikal, dan ia tidak membuktikan bahawa ubat ini akan berkesan. Tanpa kajian praklinikal, ujian klinikal atau penerbitan yang mengkaji penyakit ini secara langsung, hubungan mekanistik masih spekulatif.
 
@@ -108,6 +108,19 @@ Ramalan ini hanya berasaskan model, tanpa sebarang ujian klinikal atau penerbita
 - Kajian praklinikal (contohnya model retina) yang mengkaji penyakit ini secara langsung.
 - Amaran, kontraindikasi dan maklumat interaksi ubat daripada sisipan pek yang diluluskan oleh NPRA.
 - Penilaian keselamatan khusus untuk populasi pesakit sasaran, termasuk kesan ke atas penglihatan dan mata.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Saphris (asenapine maleate) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5429f134-839f-4ffc-9944-55f51238def8) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

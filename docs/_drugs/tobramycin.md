@@ -59,7 +59,7 @@ Tobramycin ialah antibiotik aminoglikosida yang pada asalnya digunakan untuk jan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, tobramycin ialah aminoglikosida dengan aktiviti luas terhadap bakteria Gram-negatif dan *Staphylococcus aureus*, dan digunakan secara topikal untuk jangkitan bakteria mata.
+Menurut bahagian “Mechanism of Action” dan “Microbiology” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Tobramycin (terjemahan tidak rasmi): “Tobramycin ialah antibakteria aminoglikosida. […] Tobramycin ialah antibakteria aminoglikosida yang dihasilkan oleh Streptomyces tenebrarius. Ia bertindak terutamanya dengan mengganggu sintesis protein yang membawa kepada perubahan ketelapan membran sel, gangguan progresif sampul sel, dan akhirnya kematian sel.” Teks asal bahasa Inggeris: "Tobramycin is an aminoglycoside antibacterial. […] Tobramycin is an aminoglycoside antibacterial produced by Streptomyces tenebrarius. It acts primarily by disrupting protein synthesis leading to altered cell membrane permeability, progressive disruption of the cell envelope, and eventual cell death." ([DailyMed: Tobi Podhaler (tobramycin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4b5bb1f-e158-4ac1-9c35-e98a416c743a), versi 2026-04-15; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, tobramycin ialah aminoglikosida dengan aktiviti luas terhadap bakteria Gram-negatif dan *Staphylococcus aureus*, dan digunakan secara topikal untuk jangkitan bakteria mata.
 
 Keratitis pendedahan berlaku apabila kornea tidak dilindungi dengan baik (contohnya kelopak mata tidak dapat menutup), dan boleh dijangkiti secara sekunder oleh bakteria. Oleh itu, liputan antibakteria secara teorinya munasabah.
 
@@ -124,6 +124,19 @@ Sila rujuk sisipan pembungkusan untuk maklumat amaran dan kontraindikasi yang le
 - Data mekanisme tindakan (MOA) yang terperinci
 - Amaran dan kontraindikasi daripada sisipan pembungkusan NPRA serta teks indikasi lulus bagi setiap lesen
 - Pengesahan kesesuaian laluan pentadbiran dan bentuk dos untuk indikasi ini
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Tobi Podhaler (tobramycin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4b5bb1f-e158-4ac1-9c35-e98a416c743a) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

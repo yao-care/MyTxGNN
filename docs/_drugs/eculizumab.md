@@ -59,7 +59,7 @@ Model TxGNN (pembelajaran mendalam) meramalkan ia mungkin berkesan untuk **hemat
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, eculizumab ialah perencat protein komplemen C5 yang menyekat pengaktifan laluan komplemen terminal. Ia digunakan secara klinikal dalam penyakit yang didorong komplemen seperti paroxysmal nocturnal haemoglobinuria (PNH), sindrom uremik hemolitik atipikal (aHUS) dan myasthenia gravis.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Eculizumab (terjemahan tidak rasmi): “Eculizumab, bahan aktif dalam SOLIRIS, ialah antibodi monoklonal yang terikat secara spesifik kepada protein komplemen C5 dengan afiniti tinggi, seterusnya merencatkan pembelahannya kepada C5a dan C5b serta mencegah penjanaan kompleks komplemen terminal C5b-9. SOLIRIS merencatkan hemolisis intravaskular yang diperantarakan oleh komplemen terminal dalam pesakit PNH dan mikroangiopati trombotik (TMA) yang diperantarakan oleh komplemen dalam pesakit aHUS.” Teks asal bahasa Inggeris: "Eculizumab, the active ingredient in SOLIRIS, is a monoclonal antibody that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a and C5b and preventing the generation of the terminal complement complex C5b-9. SOLIRIS inhibits terminal complement-mediated intravascular hemolysis in PNH patients and complement-mediated thrombotic microangiopathy (TMA) in patients with aHUS." ([DailyMed: Soliris (eculizumab) prescribing information, Alexion Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ebcd67fa-b4d1-4a22-b33d-ee8bf6b9c722), versi 2026-07-08; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, eculizumab ialah perencat protein komplemen C5 yang menyekat pengaktifan laluan komplemen terminal. Ia digunakan secara klinikal dalam penyakit yang didorong komplemen seperti paroxysmal nocturnal haemoglobinuria (PNH), sindrom uremik hemolitik atipikal (aHUS) dan myasthenia gravis.
 
 Hematopoiesis kitaran (neutropenia kitaran, berkaitan ELANE) disebabkan oleh mutasi neutrophil elastase, bukan disregulasi komplemen. **Tiada kaitan mekanistik yang munasabah dikenal pasti.** Skor TxGNN yang tinggi (0.9997) datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit berkaitan, bukan bukti biologi.
 
@@ -113,6 +113,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 - Maklumat indikasi asal dan status pendaftaran di Malaysia
 - Bukti praklinikal atau klinikal khusus penyakit yang menunjukkan peranan komplemen C5 dalam neutropenia kongenital/kitaran
 - Penilaian keserasian laluan pentadbiran dan pelan pemantauan jangkitan (vaksinasi meningokokus) sekiranya dipertimbangkan semula
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Soliris (eculizumab) prescribing information, Alexion Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ebcd67fa-b4d1-4a22-b33d-ee8bf6b9c722) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

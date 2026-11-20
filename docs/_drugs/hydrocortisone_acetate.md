@@ -54,7 +54,7 @@ Hydrocortisone Acetate ialah kortikosteroid yang mempunyai kesan anti-radang dan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci untuk ubat ini tidak tersedia buat masa ini. Namun, hydrocortisone ialah kortikosteroid dengan kesan anti-radang dan imunosupresif yang diketahui.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Hydrocortisone Acetate (terjemahan tidak rasmi): “Hydrocortisone ialah glukokortikoid. Glukokortikoid, iaitu steroid adrenokortikal, menyebabkan pelbagai kesan metabolik. Di samping itu, ia mengubah suai gerak balas imun badan terhadap pelbagai rangsangan..” Teks asal bahasa Inggeris: "Hydrocortisone is a glucocorticoid. Glucocorticoids, adrenocortical steroids, cause varied metabolic effects. In addition, they modify the body's immune responses to diverse stimuli.." ([DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682), versi 2026-04-21; diakses 2026-11-19). Namun, hydrocortisone ialah kortikosteroid dengan kesan anti-radang dan imunosupresif yang diketahui.
 
 Alopesia areata ialah penyakit autoimun. Sel T menyerang folikel rambut, jadi ubat yang menekan tindak balas imun dan keradangan setempat berpotensi memberi manfaat. Inilah hubung kait mekanisme yang munasabah bagi ramalan tersebut.
 
@@ -105,6 +105,18 @@ Sila rujuk sisipan pek untuk maklumat keselamatan.
 - Maklumat amaran dan kontraindikasi daripada sisipan pek
 - Ujian rawak yang meletakkan hydrocortisone sebagai ubat yang dikaji dalam alopesia areata, dengan perbandingan terhadap kortikosteroid berkekuatan lebih tinggi
 - Penilaian kesesuaian laluan pemberian (topikal berbanding intralesi) untuk indikasi ini
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682) |
+
+<!-- review:end log -->
 
 ## Penafian
 

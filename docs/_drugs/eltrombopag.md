@@ -54,7 +54,7 @@ Eltrombopag ialah agonis reseptor trombopoietin yang merangsang pembiakan dan pe
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat yang diketahui, eltrombopag meningkatkan kiraan platelet melalui reseptor trombopoietin pada megakaryosit.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Eltrombopag (terjemahan tidak rasmi): “Eltrombopag ialah agonis reseptor TPO yang berinteraksi dengan domain transmembran reseptor TPO manusia (juga dikenali sebagai cMpl) dan memulakan lata pengisyaratan yang mengaruh proliferasi dan pembezaan megakariosit yang membawa kepada peningkatan penghasilan platelet.” Teks asal bahasa Inggeris: "Eltrombopag is a TPO-receptor agonist that interacts with the transmembrane domain of the human TPO-receptor (also known as cMpl) and initiates signaling cascades that induce proliferation and differentiation of megakaryocytes leading to increased platelet production." ([DailyMed: Eltrombopag Olamine (eltrombopag) prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4af8f855-f710-e96f-e063-6294a90abb46), versi 2026-05-20; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, eltrombopag meningkatkan kiraan platelet melalui reseptor trombopoietin pada megakaryosit.
 
 Jangkitan HIV sering menyebabkan trombositopenia imun sekunder, dan kadangkala kegagalan sumsum tulang atau anemia aplastik. Justifikasi pengambilan semula ubat ini oleh itu bersifat simptomatik dan hematologi: merawat trombositopenia berkaitan HIV, bukan virus itu sendiri. Skor TxGNN yang sangat tinggi mungkin mencerminkan kedekatan dengan penyakit trombositopenia imun yang menjadi asas penggunaan asal ubat ini.
 
@@ -99,6 +99,18 @@ Tiada kajian yang meneliti rawatan jangkitan HIV itu sendiri dengan eltrombopag;
 - Data mekanisme tindakan yang terperinci
 - Amaran dan kontraindikasi daripada risalah maklumat produk
 - Menjelaskan sasaran: jika matlamatnya ialah trombositopenia berkaitan HIV, nilaikan sebagai cadangan indikasi hematologi yang berasingan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Eltrombopag Olamine (eltrombopag) prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4af8f855-f710-e96f-e063-6294a90abb46) |
+
+<!-- review:end log -->
 
 ## Penafian
 

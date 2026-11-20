@@ -59,14 +59,13 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **bronkitis**, tetapi pada masa
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia pada masa ini. Berdasarkan maklumat yang diketahui, metilena biru ialah agen pembawa elektron yang telah terbukti berkesan dalam methemoglobinemia, dan secara mekanistik mungkin boleh digunakan untuk bronkitis. Hujah yang munasabah tetapi belum terbukti ialah ia merencat nitrik oksida sintase dan guanilat siklase serta mempunyai sifat anti-radang dan modulasi redoks.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Methylene Blue (terjemahan tidak rasmi): “Metilena biru ialah pewarna tiazina larut air yang menggalakkan penukaran redoks bukan enzimatik metHb kepada hemoglobin. In situ, metilena biru mula-mula ditukarkan kepada leukometilena biru (LMB) melalui NADPH reduktase. Molekul LMB inilah yang kemudiannya menurunkan ferum ferik metHb kepada keadaan ferus hemoglobin normal.” Teks asal bahasa Inggeris: "Methylene blue is a water soluble thiazine dye that promotes a non-enyzmatic redox conversion of metHb to hemoglobin. In situ, methylene blue is first converted to leucomethylene blue (LMB) via NADPH reductase. It is the LMB molecule which then reduces the ferric iron of metHb to the ferrous state of normal hemoglobin." ([DailyMed: Provayblue (methylene blue) prescribing information, American Regent, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232), versi 2025-05-28; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, metilena biru ialah agen pembawa elektron yang telah terbukti berkesan dalam methemoglobinemia, dan secara mekanistik mungkin boleh digunakan untuk bronkitis. Hujah yang munasabah tetapi belum terbukti ialah ia merencat nitrik oksida sintase dan guanilat siklase serta mempunyai sifat anti-radang dan modulasi redoks.
 
 Namun, tiada data yang disediakan menguji hipotesis ini dalam bronkitis. Kesusasteraan yang diperoleh tidak berkaitan dengan rawatan bronkitis menggunakan metilena biru. Ramalan ini besar kemungkinan didorong oleh perkaitan kata kunci (bronkial/pernafasan) dan bukannya bukti sebenar. Skor TxGNN yang sangat tinggi tidak boleh dianggap sebagai bukti klinikal.
 
 ### Ramalan Lain yang Lebih Rapat dengan Indikasi Asal
 
 Data yang dikumpulkan juga mengandungi dua ramalan lain yang berkait rapat dengan indikasi asal:
-
 
 ---
 
@@ -125,6 +124,19 @@ Untuk amaran utama dan kontraindikasi berdasarkan label, sila rujuk sisipan pek 
 - Bukti praklinikal dan klinikal sebenar bagi metilena biru dalam bronkitis
 - Pengesahan status pasaran dan laluan pentadbiran yang tersedia
 - Jika diteruskan untuk methemoglobinemia akibat kekurangan reduktase: saringan G6PD (risiko hemolisis), pelan pemantauan risiko sindrom serotonin, dan kajian manusia yang lebih kukuh berbanding kes veterinar/laporan kes
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Provayblue (methylene blue) prescribing information, American Regent, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

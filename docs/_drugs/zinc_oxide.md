@@ -61,7 +61,7 @@ Nota: tiga penerbitan yang disenaraikan hanya menyentuh jerawat secara umum, nan
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan zinc oxide tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, sebatian zinc dilaporkan mempunyai aktiviti anti-radang ringan dan antibakteria (contohnya terhadap *Cutibacterium acnes*). Zinc oxide pula lazim digunakan sebagai pelindung kulit dalam dermatitis dan keadaan kulit radang lain.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi miconazole nitrate, zinc oxide, white petrolatum (ubat gabungan yang mengandungi Zinc Oxide) (terjemahan tidak rasmi): “Mekanisme tindakan petrolatum putih dan zink oksida untuk rawatan tambahan dermatitis lampin tidak diketahui.” Teks asal bahasa Inggeris: "The mechanism of action of white petrolatum and zinc oxide for the adjunctive treatment of diaper dermatitis is unknown." ([DailyMed: Vusion (miconazole nitrate, zinc oxide, white petrolatum) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b44b452d-3630-4cb5-8ed1-1f8edac4690c), versi 2018-08-15; diakses 2026-11-19). Berdasarkan maklumat sedia ada, sebatian zinc dilaporkan mempunyai aktiviti anti-radang ringan dan antibakteria (contohnya terhadap *Cutibacterium acnes*). Zinc oxide pula lazim digunakan sebagai pelindung kulit dalam dermatitis dan keadaan kulit radang lain.
 
 Jerawat ialah penyakit kulit radang yang sebahagiannya didorong oleh bakteria. Oleh itu terdapat pertindihan yang munasabah dengan kegunaan zinc oxide dalam keadaan kulit radang. Namun, ini ialah inferens sahaja dan tidak disahkan oleh data yang dikumpulkan. Skor TxGNN yang tinggi ialah ramalan pengiraan, bukan bukti klinikal.
 
@@ -131,11 +131,12 @@ Maklumat amaran utama, kontraindikasi berlabel dan interaksi ubat tidak ditemui 
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-12 | Bilangan pendaftaran: “Jumlah keseluruhan ialah 280 lesen” → “Terdapat 304 lesen sah daripada jumlah keseluruhan 314” | Dibetulkan (disemak 2026-11-13; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Vusion (miconazole nitrate, zinc oxide, white petrolatum) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b44b452d-3630-4cb5-8ed1-1f8edac4690c) |
 
 <!-- review:end log -->
 

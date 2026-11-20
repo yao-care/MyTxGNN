@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **distrofi retina (dengan atau 
 
 ## Mengapa Ramalan Ini Dibuat?
 
-Perphenazine ialah antipsikotik fenotiazina yang bertindak sebagai antagonis reseptor dopamin D2. Pada masa ini data terperinci tentang mekanisme tindakan tidak tersedia. Berdasarkan maklumat yang diketahui, perphenazine tergolong dalam kumpulan fenotiazina dan keberkesanannya dalam skizofrenia serta gangguan kebimbangan-kemurungan telah dibuktikan. Namun, tiada data yang menunjukkan mekanisme tersebut boleh digunakan untuk distrofi retina.
+Perphenazine ialah antipsikotik fenotiazina yang bertindak sebagai antagonis reseptor dopamin D2. Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Perphenazine (terjemahan tidak rasmi): “Perfenazina mempunyai tindakan pada semua peringkat sistem saraf pusat, terutamanya hipotalamus. Walau bagaimanapun, tapak dan mekanisme tindakan bagi kesan terapeutik tidak diketahui.” Teks asal bahasa Inggeris: "Perphenazine has actions at all levels of the central nervous system, particularly the hypothalamus. However, the site and mechanism of action of therapeutic effect are not known." ([DailyMed: perphenazine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e87e78e-d39c-44fc-95a0-70cdb2a91941), versi 2026-11-11; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, perphenazine tergolong dalam kumpulan fenotiazina dan keberkesanannya dalam skizofrenia serta gangguan kebimbangan-kemurungan telah dibuktikan. Namun, tiada data yang menunjukkan mekanisme tersebut boleh digunakan untuk distrofi retina.
 
 Skor model TxGNN (pembelajaran mendalam) sangat tinggi (0.9996), tetapi skor ini mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi atau klinikal yang disahkan. Distrofi retina ialah kumpulan penyakit degeneratif retina yang kebanyakannya berpunca daripada genetik. Tiada hubungan farmakologi yang didokumenkan antara penyekatan reseptor D2 dan pembetulan atau perlambatan keadaan ini.
 
@@ -112,6 +112,19 @@ Maklumat amaran dan kontraindikasi daripada risalah pakej tidak tersedia dalam d
 - Pertimbangan laluan pendaftaran dan bentuk dos, memandangkan tiada produk berdaftar di Malaysia
 
 **Nota tambahan:** Antara sembilan ramalan teratas yang lain, tiada satu pun mempunyai bukti klinikal atau literatur.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: perphenazine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e87e78e-d39c-44fc-95a0-70cdb2a91941) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

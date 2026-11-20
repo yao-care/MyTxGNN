@@ -60,7 +60,7 @@ Ramalan ini lebih bersifat pengiraan model berbanding bukti klinikal.
 
 ## Mengapa Ramalan Ini Munasabah (atau Tidak)?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan maklumat sedia ada, imiglucerase ialah enzim beta-glukoserebrosidase (GBA) rekombinan yang menghidrolisis glukosilseramida, dan keberkesanannya dalam penyakit Gaucher telah dibuktikan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Imiglucerase (terjemahan tidak rasmi): “Penyakit Gaucher dicirikan oleh kekurangan aktiviti β-glukoserebrosidase, yang mengakibatkan pengumpulan glukoserebrosida dalam pelbagai tisu termasuk hati, limpa dan sumsum tulang. Gula manosa pada imiglucerase mengantara pengikatan pada dan internalisasi oleh sel termasuk makrofaj.” Teks asal bahasa Inggeris: "Gaucher disease is characterized by a deficiency of β-glucocerebrosidase activity, which results in accumulation of glucocerebroside in various tissues including liver, spleen, and bone marrow. The mannose sugars on imiglucerase mediate binding to and internalization by cells including macrophages." ([DailyMed: Cerezyme (imiglucerase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df60f030-866b-4374-a31f-8ae3f6b45c38), versi 2026-08-27; diakses 2026-11-19). Berdasarkan maklumat sedia ada, imiglucerase ialah enzim beta-glukoserebrosidase (GBA) rekombinan yang menghidrolisis glukosilseramida, dan keberkesanannya dalam penyakit Gaucher telah dibuktikan.
 
 Sindrom Hurler (MPS I) pula disebabkan oleh kekurangan enzim alfa-L-iduronidase, yang menyebabkan pengumpulan glikosaminoglikan (dermatan sulfat dan heparan sulfat). Kedua-dua enzim ini berbeza dan mempunyai substrat yang berbeza, maka imiglucerase **tidak mempunyai peranan pemangkinan langsung** dalam MPS I. Satu-satunya kaitan ialah konsep umum terapi penggantian enzim (ERT) untuk penyakit simpanan lisosom.
 
@@ -127,11 +127,12 @@ Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pek produk.
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Imiglucerase pada masa ini tidak mempunyai pendaftaran di Malaysia (0 lesen)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Cerezyme (imiglucerase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df60f030-866b-4374-a31f-8ae3f6b45c38) |
 
 <!-- review:end log -->
 

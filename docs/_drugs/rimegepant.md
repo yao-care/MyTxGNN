@@ -60,7 +60,7 @@ tetapi setakat ini **tiada ujian klinikal didaftarkan** untuk subjenis ini, mana
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Namun, rimegepant dikenali sebagai antagonis reseptor CGRP yang diluluskan untuk rawatan akut migrain (dengan atau tanpa aura) dan rawatan pencegahan migrain episodik pada orang dewasa. Ia tersedia dalam bentuk tablet hancur oral (ODT).
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Rimegepant (terjemahan tidak rasmi): “Rimegepant ialah antagonis reseptor peptida berkaitan gen kalsitonin.” Teks asal bahasa Inggeris: "Rimegepant is a calcitonin gene-related peptide receptor antagonist." ([DailyMed: Nurtec Odt (rimegepant sulfate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ef08e09-1098-35cc-e053-2a95a90a3e1d), versi 2026-06-04; diakses 2026-11-19). Namun, rimegepant dikenali sebagai antagonis reseptor CGRP yang diluluskan untuk rawatan akut migrain (dengan atau tanpa aura) dan rawatan pencegahan migrain episodik pada orang dewasa. Ia tersedia dalam bentuk tablet hancur oral (ODT).
 
 Migrain dengan aura batang otak ialah subjenis migrain yang berkongsi patofisiologi trigeminovaskular dan perantaraan CGRP dengan penyakit induk. Oleh itu, pertalian mekanistik adalah kukuh dan indikasi baharu ini sangat hampir dengan indikasi asal.
 
@@ -120,6 +120,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah pek (package insert).
 ---
 
 **Nota mengenai ramalan lain:** Lima ramalan lain (atrofoderma vermiculata, ulerythema ophryogenesis, kekurangan kofaktor heparin 2, kekurangan antitrombin jenis 2, dan lebihan faktor 5 dengan trombosis spontan) berskor TxGNN tinggi (0.9957–0.9976) tetapi tidak mempunyai pertalian mekanistik yang dapat dikenal pasti, tiada ujian klinikal dan tiada literatur (Tahap Bukti L5, keputusan: **Hold**). Untuk gangguan trombotik, pertimbangan keselamatan kardiovaskular juga diperlukan.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Nurtec Odt (rimegepant sulfate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ef08e09-1098-35cc-e053-2a95a90a3e1d) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

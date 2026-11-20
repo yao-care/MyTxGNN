@@ -55,7 +55,7 @@ Nitric oxide ialah gas perubatan yang dalam graf pengetahuan direkodkan berkaita
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data mekanisme tindakan terperinci tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, nitric oxide ialah molekul isyarat dengan peranan fisiologi yang luas. Skor ramalan datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Secara mekanistik, ia mungkin berkaitan dengan keadaan lain yang melibatkan tisu vaskular dan keradangan, tetapi ini belum dibuktikan untuk indikasi baharu ini.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Nitric Oxide (terjemahan tidak rasmi): “Nitrik oksida mengendurkan otot licin vaskular dengan mengikat kepada moieti hem guanilat siklase sitosolik, mengaktifkan guanilat siklase dan meningkatkan paras intrasel guanosina 3',5'-monofosfat siklik, yang kemudiannya membawa kepada vasodilatasi. Apabila disedut, nitrik oksida secara selektif mengembangkan vaskulatur pulmonari, dan disebabkan oleh penyingkiran yang cekap oleh hemoglobin, mempunyai kesan yang minimum ke atas vaskulatur sistemik.” Teks asal bahasa Inggeris: "Nitric oxide relaxes vascular smooth muscle by binding to the heme moiety of cytosolic guanylate cyclase, activating guanylate cyclase and increasing intracellular levels of cyclic guanosine 3',5'-monophosphate, which then leads to vasodilation. When inhaled, nitric oxide selectively dilates the pulmonary vasculature, and because of efficient scavenging by hemoglobin, has minimal effect on the systemic vasculature." ([DailyMed: Inomax (nitric oxide) prescribing information, INO Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=762b51be-1893-4cd1-9511-e645fc420d3a), versi 2025-12-12; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, nitric oxide ialah molekul isyarat dengan peranan fisiologi yang luas. Skor ramalan datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari model antara penyakit yang berkaitan, bukan bukti biologi. Secara mekanistik, ia mungkin berkaitan dengan keadaan lain yang melibatkan tisu vaskular dan keradangan, tetapi ini belum dibuktikan untuk indikasi baharu ini.
 
 Kajian yang diperoleh menunjukkan bahawa nitric oxide berperanan dalam keradangan gusi dan tindak balas perumah periodontal. Mikrobiom mulut juga mengambil bahagian dalam laluan nitrat-nitrit-nitric oxide. Walau bagaimanapun, kajian tersebut berkaitan dengan model periodontitis umum (kultur sel, tikus, ekstrak herba) dan bukan sindrom malformasi. Tiada hubungan langsung antara nitric oxide terhirup atau terapeutik dengan kategori sindrom ini.
 
@@ -111,6 +111,19 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 - Data mekanisme tindakan terperinci daripada DrugBank
 - Kajian praklinikal atau klinikal yang mengkaji sindrom malformasi periodontal ini secara langsung
 - Pertimbangan calon ramalan lain yang bukti sokongannya lebih kukuh, seperti malformasi arteriovena pulmonari (kajian pemerhatian nitric oxide terhirup) dan hipertensi arteri pulmonari berkaitan penyakit jantung kongenital. Yang kedua banyak bertindih dengan penggunaan asal, jadi ia bukan repurposing sebenar.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Inomax (nitric oxide) prescribing information, INO Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=762b51be-1893-4cd1-9511-e645fc420d3a) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

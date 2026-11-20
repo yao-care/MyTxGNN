@@ -61,7 +61,7 @@ dengan **1 percubaan klinikal** (Fasa 2, sarkoma tisu lembut secara umum) dan **
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan. Berdasarkan maklumat sedia ada, cabozantinib ialah perencat tirosin kinase pelbagai sasaran (VEGFR2, MET, AXL, RET, KIT). Isyarat angiogenesis dan MET/AXL dikaitkan dengan biologi sarkoma tisu lembut, termasuk liposarkoma.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Cabozantinib (terjemahan tidak rasmi): “Asai biokimia dan/atau selular in vitro telah menunjukkan bahawa cabozantinib merencat aktiviti tirosina kinase MET, VEGFR-1, -2 dan -3, AXL, RET, ROS1, TYRO3, MER, KIT, TRKB, FLT-3, dan TIE-2. Tirosina kinase reseptor ini terlibat dalam fungsi selular normal dan juga proses patologi seperti onkogenesis, metastasis, angiogenesis tumor, kerintangan ubat, dan pengekalan mikropersekitaran tumor.” Teks asal bahasa Inggeris: "In vitro biochemical and/or cellular assays have shown that cabozantinib inhibits the tyrosine kinase activity of MET, VEGFR-1, -2 and -3, AXL, RET, ROS1, TYRO3, MER, KIT, TRKB, FLT-3, and TIE-2. These receptor tyrosine kinases are involved in both normal cellular function and pathologic processes such as oncogenesis, metastasis, tumor angiogenesis, drug resistance, and maintenance of the tumor microenvironment." ([DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5), versi 2025-10-19; diakses 2026-11-19). Berdasarkan maklumat sedia ada, cabozantinib ialah perencat tirosin kinase pelbagai sasaran (VEGFR2, MET, AXL, RET, KIT). Isyarat angiogenesis dan MET/AXL dikaitkan dengan biologi sarkoma tisu lembut, termasuk liposarkoma.
 
 Gabungan dengan perencatan pusat semak imun (ipilimumab/nivolumab) munasabah dari segi mekanisme, kerana perencatan VEGFR/AXL mungkin mengurangkan isyarat persekitaran tumor yang menekan imun. Skor TxGNN yang sangat tinggi selaras dengan rasional ini, tetapi ia hanyalah ramalan model.
 
@@ -131,6 +131,19 @@ Tiada kajian yang dipetik mengkaji liposarkoma secara langsung; percubaan Fasa 2
 - Data mekanisme tindakan (MOA) terperinci
 - Keputusan percubaan NCT05836571 dan data khusus subjenis liposarkoma
 - Penilaian risiko keselamatan (pendarahan, hipertensi, hepatotoksisiti) bagi populasi sasaran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

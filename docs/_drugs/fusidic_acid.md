@@ -58,7 +58,7 @@ Asid fusidik ialah antibiotik yang pada asalnya digunakan untuk jangkitan bakter
 
 ## Mengapakah Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berdasarkan pengetahuan umum, asid fusidik merencat sintesis protein bakteria dengan mengikat faktor pemanjangan G (EF-G), dan mempunyai aktiviti kuat terhadap bakteria Gram-positif seperti *Staphylococcus aureus*.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Fusidic Acid ialah (terjemahan tidak rasmi): “Perencat faktor pemanjangan G” Teks asal bahasa Inggeris: "Elongation factor G inhibitor" ([ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan pengetahuan umum, asid fusidik merencat sintesis protein bakteria dengan mengikat faktor pemanjangan G (EF-G), dan mempunyai aktiviti kuat terhadap bakteria Gram-positif seperti *Staphylococcus aureus*.
 
 Keratitis pendedahan terutamanya ialah kerosakan kornea yang tidak berjangkit, disebabkan penutupan kelopak mata yang tidak lengkap. Maka, sebarang manfaat asid fusidik mungkin terhad kepada pencegahan atau rawatan jangkitan bakteria sekunder. Satu-satunya penerbitan yang dipautkan ialah siri kes mengenai jangkitan mata oleh *Tsukamurella*, iaitu organisma Actinomycetales yang bukan sasaran tipikal asid fusidik. Oleh itu, pautan ini tidak langsung dan lemah.
 
@@ -118,6 +118,19 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk risalah pakej (package i
 - Data mekanisme tindakan (MOA) rasmi daripada DrugBank.
 - Kajian atau ujian terkawal yang menilai asid fusidik (khususnya formulasi mata) dalam keratitis pendedahan atau pencegahan jangkitan sekunder.
 - Pengesahan indikasi dan bentuk dos lesen bahan tunggal yang berkaitan dengan penggunaan mata.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

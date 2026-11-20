@@ -60,7 +60,7 @@ Ramalan ini hanya berasaskan model, dan tiada asas farmakologi yang munasabah di
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat sedia ada, phentermine ialah amina simpatomimetik yang merangsang pembebasan norepinefrin dan menekan selera makan. Ia digunakan untuk pengurusan berat badan.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Phentermine (terjemahan tidak rasmi): “Phentermine ialah amina simpatomimetik dengan aktiviti farmakologi yang serupa dengan ubat prototaip kelas ini yang digunakan dalam obesiti, iaitu amfetamina (d- dan dll-amfetamina). Ubat kelas ini yang digunakan dalam obesiti lazimnya dikenali sebagai “anoreksik” atau “anoreksigenik.” Belum dapat dipastikan bahawa tindakan utama ubat sedemikian dalam merawat obesiti ialah penindasan selera makan kerana tindakan lain pada sistem saraf pusat, atau kesan metabolik, mungkin juga terlibat.” Teks asal bahasa Inggeris: "Phentermine is a sympathomimetic amine with pharmacologic activity similar to the prototype drugs of this class used in obesity, amphetamine (d- and dll-amphetamine). Drugs of this class used in obesity are commonly known as “anorectics” or “anorexigenics.” It has not been established that the primary action of such drugs in treating obesity is one of appetite suppression since other central nervous system actions, or metabolic effects, may also be involved." ([DailyMed: Lomaira (phentermine hydrochloride) prescribing information, Calvin Scott & Co., Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0718f0f3-77f2-45d7-be12-1ed718c8b806), versi 2026-05-21; diakses 2026-11-19). Berdasarkan maklumat sedia ada, phentermine ialah amina simpatomimetik yang merangsang pembebasan norepinefrin dan menekan selera makan. Ia digunakan untuk pengurusan berat badan.
 
 Hipervitaminosis pula berpunca daripada pengambilan atau pengumpulan vitamin yang berlebihan. Tiada hubungan mekanistik yang munasabah dapat dikenal pasti antara penekanan selera makan dan keadaan ini. Skor TxGNN yang tinggi (0.9957) hanyalah ramalan model TxGNN (pembelajaran mendalam) dan tidak disokong oleh asas farmakologi, ujian klinikal atau literatur.
 
@@ -87,7 +87,6 @@ Buat masa ini tiada literatur berkaitan yang tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -122,6 +121,19 @@ Berdasarkan graf pengetahuan TxGNN (bukan teks label rasmi), phentermine dikaitk
 - Rasional farmakologi yang jelas serta bukti praklinikal atau klinikal sebelum sebarang penilaian lanjut
 - Jika sindrom mikropenghapusan 16p11.2 dikaji, penilaian khusus tentang keselamatan kardiovaskular dan neuropsikiatri dalam populasi tersebut
 - Penilaian status pendaftaran dan ketersediaan produk di Malaysia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lomaira (phentermine hydrochloride) prescribing information, Calvin Scott & Co., Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0718f0f3-77f2-45d7-be12-1ed718c8b806) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

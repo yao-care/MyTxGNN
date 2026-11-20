@@ -60,7 +60,7 @@ dengan **5 percubaan klinikal** dan **20 penerbitan** yang berkaitan. Namun, han
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci mengenai mekanisme tindakan (MOA) tidak tersedia buat masa ini. Berdasarkan maklumat yang diketahui, ledipasvir ialah perencat protein NS5A HCV, dan keberkesanannya dalam hepatitis C telah terbukti. Secara mekanistik, ia mungkin sahaja berkaitan dengan hepatitis B, tetapi hubungan ini lemah.
+Menurut ChEMBL (EMBL-EBI), mekanisme tindakan yang direkodkan bagi Ledipasvir ialah (terjemahan tidak rasmi): “Perencat protein bukan struktur 5A” Teks asal bahasa Inggeris: "Nonstructural protein 5A inhibitor" ([ChEMBL CHEMBL2374220 (ledipasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2374220), CC BY-SA 3.0; diakses 2026-11-19). Berdasarkan maklumat yang diketahui, ledipasvir ialah perencat protein NS5A HCV, dan keberkesanannya dalam hepatitis C telah terbukti. Secara mekanistik, ia mungkin sahaja berkaitan dengan hepatitis B, tetapi hubungan ini lemah.
 
 Ledipasvir tidak mempunyai aktiviti langsung yang sahih terhadap polimerase HBV, dan NS5A ialah protein HCV tanpa homolog dalam HBV. Sebarang kesan anti-HBV mungkin kecil atau tidak langsung. Dalam jangkitan bersama HCV/HBV, penyingkiran HCV boleh mengubah dinamik replikasi HBV (termasuk risiko pengaktifan semula), dan ini tidak semestinya mencerminkan aktiviti anti-HBV sebenar.
 
@@ -157,11 +157,12 @@ Ramalan peringkat lebih rendah tidak disyorkan untuk diteruskan dan semuanya ber
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "Ubat ini juga tidak didaftarkan di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [ChEMBL CHEMBL2374220 (ledipasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2374220) |
 
 <!-- review:end log -->
 

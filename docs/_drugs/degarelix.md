@@ -59,7 +59,7 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **hipertrikosis**, tetapi ramal
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Maklumat terperinci mengenai mekanisme tindakan (MOA) tidak tersedia dalam data yang dikumpulkan. Berdasarkan pengetahuan farmakologi umum, degarelix ialah antagonis reseptor GnRH yang menyekat paksi hipotalamus-pituitari-gonad, lalu merendahkan LH/FSH, testosteron dan androgen hiliran.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Degarelix (terjemahan tidak rasmi): “Degarelix ialah antagonis reseptor GnRH. Ia terikat secara berbalik kepada reseptor GnRH pituitari, seterusnya mengurangkan pembebasan gonadotropin dan akibatnya testosteron.” Teks asal bahasa Inggeris: "Degarelix is a GnRH receptor antagonist. It binds reversibly to the pituitary GnRH receptors, thereby reducing the release of gonadotropins and consequently testosterone." ([DailyMed: Firmagon (degarelix) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ab11dd8a-0fd9-4013-89ab-e114557c7e4b), versi 2024-01-30; diakses 2026-11-19). Berdasarkan pengetahuan farmakologi umum, degarelix ialah antagonis reseptor GnRH yang menyekat paksi hipotalamus-pituitari-gonad, lalu merendahkan LH/FSH, testosteron dan androgen hiliran.
 
 Hubungan mekanistik dengan hipertrikosis adalah **lemah dan spekulatif**. Hipertrikosis pada amnya tidak didorong androgen (berbeza dengan hirsutisme), jadi penindasan androgen tidak dijangka menjadi penyelesaian yang jelas.
 
@@ -84,7 +84,6 @@ Setakat ini tiada literatur berkaitan tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
-
 
 ---
 
@@ -116,6 +115,19 @@ Untuk amaran dan kontraindikasi rasmi, sila rujuk sisipan pek produk.
 - Semakan literatur dan pendaftaran percubaan untuk penunjuk yang paling munasabah, terutamanya akil baligh pramatang pusat.
 - Penilaian keserasian laluan pemberian dan formulasi, serta penilaian keselamatan pediatrik jika penunjuk akil baligh pramatang diteruskan.
 - Pengesahan status pendaftaran dan penunjuk asal ubat ini di Malaysia.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Firmagon (degarelix) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ab11dd8a-0fd9-4013-89ab-e114557c7e4b) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

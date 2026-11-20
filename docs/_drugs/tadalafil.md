@@ -55,7 +55,7 @@ Tadalafil ialah perencat PDE5 yang hubungannya dengan disfungsi erektil, hiperte
 
 ## Mengapa Ramalan Ini Munasabah?
 
-Data terperinci tentang mekanisme tindakan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Secara umumnya, tadalafil ialah perencat PDE5 yang meningkatkan cGMP dan menyebabkan vasodilatasi.
+Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan oleh FDA Amerika Syarikat (Prescribing Information) bagi Tadalafil (terjemahan tidak rasmi): “Ereksi zakar semasa rangsangan seksual disebabkan oleh peningkatan aliran darah zakar hasil daripada pengenduran arteri zakar dan otot licin korpus kavernosum. Tindak balas ini diperantarakan oleh pembebasan nitrik oksida (NO) daripada terminal saraf dan sel endotelium, yang merangsang sintesis cGMP dalam sel otot licin. […] Tadalafil merencat PDE5.” Teks asal bahasa Inggeris: "Penile erection during sexual stimulation is caused by increased penile blood flow resulting from the relaxation of penile arteries and corpus cavernosal smooth muscle. This response is mediated by the release of nitric oxide (NO) from nerve terminals and endothelial cells, which stimulates the synthesis of cGMP in smooth muscle cells. […] Tadalafil inhibits PDE5." ([DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895), versi 2026-06-03; diakses 2026-11-19). Secara umumnya, tadalafil ialah perencat PDE5 yang meningkatkan cGMP dan menyebabkan vasodilatasi.
 
 Hubungan antara indikasi asal dan indikasi baharu adalah lemah. Laluan cGMP tiada peranan yang diketahui dalam asas genetik sindrom Ambras, iaitu hipertrikosis kongenita yang dikaitkan dengan penyusunan semula genom yang menjejaskan pengawalaturan TRPS1. Kesan pertumbuhan rambut melalui vasodilatasi, seperti pada minoksidil, hanyalah perbandingan spekulatif tanpa sokongan bukti. Malah, merawat rambut berlebihan dengan agen vasodilator bercanggah dengan logik mekanistik.
 
@@ -137,11 +137,12 @@ Amaran utama dan kontraindikasi daripada label produk tidak tersedia; sila rujuk
 
 ## Rekod Semakan
 
-Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-12 | Bilangan pendaftaran: “Terdapat 23 pendaftaran sah, semuanya produk bahan tunggal.” → “Terdapat 27 pendaftaran sah: 25 produk bahan tunggal dan 2 produk kombinasi.” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895) |
 
 <!-- review:end log -->
 
