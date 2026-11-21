@@ -545,6 +545,7 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
     license_status＝cancelled（事實層非有效）＋npra_manual_check；confirmed_absent 回真；不依賴下載，任一份清單又查到就照清單狀態並拿掉標記。NPRA 沒有公開撤銷，頁面不寫成 dibatalkan。
     MAL20066031NC 同前 8 碼的 MAL20066031NCR 是 watsons 魚油、持有人不同，不算換號，歸這類。
   - MAL19890435ACZ TUSSIFED SYRUP：QUEST3+ 仍列、data.gov.my 兩份都不列，兩邊矛盾，維持 UNKNOWN_STATUS（每週排程「新資料查不到」1 張）。
+    2026-11-21 pm 以瀏覽器在 QUEST3+ 複查：註冊號、品名 TUSSIFED、前 8 碼 MAL19890435 搜尋都只有 MAL19890435ACZ 一筆；詳細頁 Product Name／Registration No／Holder 皆 N/A，成分與包裝看起來是別的產品，沒有狀態、有效期限或撤銷字樣。仍判斷不了，維持 UNKNOWN_STATUS（結果在母目錄 .claude/manual_license_lookup_20261117/four_unknown_result_20261121.csv）。
   - 頁面（2026-11-19）：56 頁概覽狀態列／張數列照事實層同步（「status tidak dapat disahkan」拿掉）；全部非有效的頁狀態列改用母目錄 check_drug_page.py 的 SCOPE_CANCELLED["MyTxGNN"]
     「Tidak dipasarkan (tiada pendaftaran semasa: N daripada N dibatalkan, tamat tempoh atau tidak lagi tersenarai dalam daftar NPRA)」（本站 tools/txgnn 同步同一份；
     elvitegravir 1 頁新變成全部非有效，依成分對現行檔確認沒有其他 elvitegravir 產品；原本全部註銷的 andexanet_alfa、betaxolol_hydrochloride、tolbutamide、zanamivir 跟著換寫法）。
