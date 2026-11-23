@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-23T07:15:17.579673",
+  "fetched": "2026-11-23T19:49:54.967377",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,14 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "UK’s Generational Tobacco Ban Set For January 2027",
+      "url": "https://codeblue.galencentre.org/2026/11/uks-generational-tobacco-ban-set-for-january-2027/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-23T08:09:41",
+      "summary": "The UK's generational smoking ban will come into force on Jan 1, 2027, making it illegal to sell tobacco to anyone born on or after Jan 1, 2009. Vapes and other nicotine products are banned for minors aged <18. The UK plans new rules for nicotine pouches. The post UK’s Generational Tobacco Ban Set For January 2027 appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
     {
       "title": "Deputy Minister Lacks Updates About Nicotine Exemption Order",
       "url": "https://codeblue.galencentre.org/2026/11/deputy-minister-lacks-updates-about-nicotine-exemption-order/",
@@ -103,17 +111,6 @@
       "keywords_matched": [
         "treatment",
         "cancer"
-      ]
-    },
-    {
-      "title": "Johor Cardiothoracic Service Head Quits Due To Frustration",
-      "url": "https://codeblue.galencentre.org/2026/11/johors-cardiothoracic-service-head-quits-due-to-frustration/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-20T02:00:00",
-      "summary": "Dr Saravana Kumar has resigned as head of Johor's cardiothoracic service, head of the southern zone's cardiothoracic specialty, and HOD at HSAJB. His resignation letter cites the cardiothoracic service being stretched across two hospitals: HSAJB and HSI. The post Johor Cardiothoracic Service Head Quits Due To Frustration appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "hospital"
       ]
     },
     {
