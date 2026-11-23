@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-22T23:58:42.597883",
+  "fetched": "2026-11-23T07:15:17.579673",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,51 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 11,
   "items": [
+    {
+      "title": "Deputy Minister Lacks Updates About Nicotine Exemption Order",
+      "url": "https://codeblue.galencentre.org/2026/11/deputy-minister-lacks-updates-about-nicotine-exemption-order/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-23T06:14:19",
+      "summary": "Deputy Health Minister Hanifah says she doesn’t have any update on if or when a minister’s exemption order to remove liquid nicotine from the Poisons List will be gazetted because this is under the health minister’s responsibility. The post Deputy Minister Lacks Updates About Nicotine Exemption Order appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "Unions Demand National Standards For Dental Surgery Assistants",
+      "url": "https://codeblue.galencentre.org/2026/11/unions-demand-national-standards-for-dental-surgery-assistants/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-23T06:00:00",
+      "summary": "Three unions demand a National Dental Assistant Competency Framework to standardise qualifications, training, and competencies for dental surgery assistants across the public and private sectors. Formalising the profession also needs legislative changes. The post Unions Demand National Standards For Dental Surgery Assistants appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "What Proton Therapy In Singapore Can And Can’t Treat, Say Radiation Oncologists",
+      "url": "https://codeblue.galencentre.org/2026/11/what-proton-therapy-in-singapore-can-and-cant-treat-say-radiation-oncologists/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-23T03:40:00",
+      "summary": "Proton beam therapy, which Malaysians can access in Singapore, is used to treat certain early-stage or locally advanced cancers, such as head and neck, brain, lung, and liver cancers, in patients suitable for curative treatment, say radiation oncologists. The post What Proton Therapy In Singapore Can And Can’t Treat, Say Radiation Oncologists appeared first on CodeBlue .",
+      "keywords_matched": [
+        "treatment",
+        "therapy",
+        "cancer",
+        "patient"
+      ]
+    },
+    {
+      "title": "Anaesthesiologists Raise Potential Quality, Safety Issues With Generic Spinal Anaesthetic Drug",
+      "url": "https://codeblue.galencentre.org/2026/11/anaesthesiologists-raise-potential-quality-safety-issues-with-generic-spinal-anaesthetic-drug/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-23T02:00:00",
+      "summary": "Anaesthesiologists in Malaysian public hospitals raise serious potential quality and safety issues with Bupispine, a generic spinal anaesthesia drug (bupivacaine) manufactured by an Indian company. At least one failure was reported in a C-section surgery. The post Anaesthesiologists Raise Potential Quality, Safety Issues With Generic Spinal Anaesthetic Drug appeared first on CodeBlue .",
+      "keywords_matched": [
+        "drug",
+        "hospital",
+        "hospital"
+      ]
+    },
     {
       "title": "Same Duty, Different Screen: Digital Care, Evidence, And The Doctor’s Accountability — JJ Chan & Dr Arasu R.",
       "url": "https://codeblue.galencentre.org/2026/11/same-duty-different-screen-digital-care-evidence-and-the-doctors-accountability-jj-chan-dr-arasu-r/",
@@ -74,80 +117,15 @@
       ]
     },
     {
-      "title": "No Specific Allocation Under 2026 Budget For GLP-1 Drugs: Dzulkefly",
-      "url": "https://codeblue.galencentre.org/2026/11/no-specific-allocation-under-2026-budget-for-glp-1-drugs-dzulkefly/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-19T06:00:00",
-      "summary": "MOH doesn't have a specific allocation under Budget 2026 for GLP-1 drugs used to treat obesity and type 2 diabetes. A total of 240 applications for the medicine were approved from January to September 2026 under a Special Approval Medication mechanism. The post No Specific Allocation Under 2026 Budget For GLP-1 Drugs: Dzulkefly appeared first on CodeBlue .",
+      "title": "Negeri Sembilan MB Ismail Lasim unwell, receiving hospital treatment, son confirms",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/22/negeri-sembilan-mb-ismail-lasim-unwell-receiving-hospital-treatment-son-confirms/244329",
+      "source": "Malay Mail",
+      "published": "2026-11-22T08:25:00",
+      "summary": "SEREMBAN, Nov 22 — Negeri Sembilan Menteri Besar Datuk Ismail Lasim is reportedly unwell and is currently receiving trea...",
       "keywords_matched": [
-        "medicine",
-        "drug",
-        "diabetes"
-      ]
-    },
-    {
-      "title": "MOH Must Become An Employer That Doctors Actually Want To Work For — Dr R",
-      "url": "https://codeblue.galencentre.org/2026/11/moh-must-become-an-employer-that-doctors-actually-want-to-work-for-dr-r/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-19T03:30:00",
-      "summary": "The problem with MOH isn't simply about salaries, long working hours, or staff shortages. It's about an organisational culture that often treats highly trained professionals as manpower to fulfil service requirements rather than skilled individuals. The post MOH Must Become An Employer That Doctors Actually Want To Work For — Dr R appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor"
-      ]
-    },
-    {
-      "title": "Patients Must Never Be Put At Risk By Failing Hospital Infrastructure — MMA",
-      "url": "https://codeblue.galencentre.org/2026/11/patients-must-never-be-put-at-risk-by-failing-hospital-infrastructure-mma/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-19T02:26:23",
-      "summary": "No patient should have to undergo surgery under adverse conditions, and no doctor should be forced to compromise on patient care because essential hospital systems have failed. The post Patients Must Never Be Put At Risk By Failing Hospital Infrastructure — MMA appeared first on CodeBlue .",
-      "keywords_matched": [
-        "hospital",
-        "doctor",
-        "patient",
-        "hospital"
-      ]
-    },
-    {
-      "title": "PAC Questions MOH’s DRG Pricing Data Covering Only 39% Of Private Hospital Cases",
-      "url": "https://codeblue.galencentre.org/2026/11/pac-questions-mohs-drg-pricing-data-covering-only-39-of-private-hospital-cases/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-19T02:00:00",
-      "summary": "The PAC questions whether private hospital billing data voluntarily submitted to MOH, covering just 39.4% of estimated cases, is representative enough to set DRG rates. MOH says MediAsas will initially use a hybrid payment arrangement. The post PAC Questions MOH’s DRG Pricing Data Covering Only 39% Of Private Hospital Cases appeared first on CodeBlue .",
-      "keywords_matched": [
+        "treatment",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Thailand only a transit route for drug syndicates targeting Malaysia, says Kelantan police chief after 700kg meth bust",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/21/thailand-only-a-transit-route-for-drug-syndicates-targeting-malaysia-says-kelantan-police-chief-after-700kg-meth-bust/244244",
-      "source": "Malay Mail",
-      "published": "2026-11-21T12:16:00",
-      "summary": "KOTA BHARU, Nov 21 — Malaysia-Thailand cross-border security cooperation has continued to strengthen, with authorities i...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "National health fund, cheaper insurance by 2027: Economy Ministry’s healthcare reform wish list",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/21/national-health-fund-cheaper-insurance-by-2027-economy-ministrys-healthcare-reform-wish-list/244227",
-      "source": "Malay Mail",
-      "published": "2026-11-21T08:44:00",
-      "summary": "KUALA LUMPUR, Nov 21 — The Ministry of Economy has outlined four strategic priorities to support the healthcare reform a...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "Not a specialist yet, so no specialist pay: Health DG explains on-call allowance row",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/21/not-a-specialist-yet-so-no-specialist-pay-health-dg-explains-on-call-allowance-row/244179",
-      "source": "Malay Mail",
-      "published": "2026-11-21T03:57:00",
-      "summary": "PUTRAJAYA, Nov 21 — Medical officers undergoing Supervised Work Experience (SWE) are only eligible for the On-Call Allow...",
-      "keywords_matched": [
-        "health",
-        "medical"
       ]
     }
   ]
