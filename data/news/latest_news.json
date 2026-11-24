@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-23T19:49:54.967377",
+  "fetched": "2026-11-24T04:35:45.560442",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,32 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "Private Hospitals, Specialists Face Different Insurer Empanelment Rules: IHH CEO",
+      "url": "https://codeblue.galencentre.org/2026/11/private-hospitals-specialists-face-different-insurer-empanelment-rules-ihh-ceo/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-24T03:30:00",
+      "summary": "IHH Healthcare Malaysia CEO Dr Kamal Amzan says insurers use different criteria to empanel private hospitals and specialists. Some insurance companies cover all doctors at their panel hospitals, whereas others impose tiered arrangements. The post Private Hospitals, Specialists Face Different Insurer Empanelment Rules: IHH CEO appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
+    {
+      "title": "National O&G Service Desperately Seeks Doctors For Temporary Sabah Deployment",
+      "url": "https://codeblue.galencentre.org/2026/11/national-og-service-desperately-seeks-doctors-for-temporary-sabah-deployment/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-24T02:00:00",
+      "summary": "The national head of O&G services urges peninsula-based medical officers to volunteer for temporary and time-bound deployment to Sabah because nearly all public hospitals in the state providing O&G services are running at below 50% of required MO numbers. The post National O&G Service Desperately Seeks Doctors For Temporary Sabah Deployment appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "hospital",
+        "doctor",
+        "hospital"
+      ]
+    },
     {
       "title": "UK’s Generational Tobacco Ban Set For January 2027",
       "url": "https://codeblue.galencentre.org/2026/11/uks-generational-tobacco-ban-set-for-january-2027/",
@@ -90,39 +116,13 @@
       ]
     },
     {
-      "title": "LGBTQ+ Students Distrust Doctors, Delay Care In Malaysia, Study Finds",
-      "url": "https://codeblue.galencentre.org/2026/11/lgbtq-students-distrust-doctors-delay-care-in-malaysia-study-finds/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-20T02:09:23",
-      "summary": "A Malaysian study reveals how the health care system fails LGBTQ+ university students, with widespread distrust of doctors, discrimination, and moral policing driving patients away from medical care despite professional anti-discrimination rules. The post LGBTQ+ Students Distrust Doctors, Delay Care In Malaysia, Study Finds appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "medical",
-        "doctor",
-        "patient"
-      ]
-    },
-    {
-      "title": "Making Cancer Treatment Work Around Women’s Lives",
-      "url": "https://codeblue.galencentre.org/2026/11/making-cancer-treatment-work-around-womens-lives/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-20T02:08:23",
-      "summary": "Icon Oncology Women’s Cancer Programme brings together specialist expertise and supportive care to address the unique challenges women face throughout their cancer experience like juggling daily life commitments, fertility, body image, and intimacy. The post Making Cancer Treatment Work Around Women’s Lives appeared first on CodeBlue .",
-      "keywords_matched": [
-        "treatment",
-        "cancer"
-      ]
-    },
-    {
-      "title": "Negeri Sembilan MB Ismail Lasim unwell, receiving hospital treatment, son confirms",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/22/negeri-sembilan-mb-ismail-lasim-unwell-receiving-hospital-treatment-son-confirms/244329",
+      "title": "No more ‘white, round pills’: MySejahtera’s second life as Malaysia’s digital health hub",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/24/no-more-white-round-pills-mysejahteras-second-life-as-malaysias-digital-health-hub/243784",
       "source": "Malay Mail",
-      "published": "2026-11-22T08:25:00",
-      "summary": "SEREMBAN, Nov 22 — Negeri Sembilan Menteri Besar Datuk Ismail Lasim is reportedly unwell and is currently receiving trea...",
+      "published": "2026-11-23T23:00:00",
+      "summary": "KUALA LUMPUR, Nov 24 — What began as a mandatory crisis response tool at the height of the Covid-19 pandemic has evolved...",
       "keywords_matched": [
-        "treatment",
-        "hospital",
-        "hospital"
+        "health"
       ]
     }
   ]
