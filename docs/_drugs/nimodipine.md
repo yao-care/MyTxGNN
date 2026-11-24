@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 524
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "NIMODIPINE"
 predicted_indications: ["homozygous familial hypercholesterolemia", "nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Nimodipine: indikasi baharu diramal Hiperkolesterolemia familial homozigot (homozygous familial hypercholesterolemia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -84,6 +84,15 @@ Pada masa ini tiada literatur berkaitan tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09100243AZ | Nimodipine HEXAL 30 mg Film-coated Tablet | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL19940480ACZ | NIMOTOP INFUSION SOLUTION 0.02% 50ML | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

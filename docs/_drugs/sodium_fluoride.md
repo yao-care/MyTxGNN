@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 652
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "SODIUM FLUORIDE"
 predicted_indications: ["epiglottitis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "laryngitis"]
 description: "Sodium Fluoride: indikasi baharu diramal Epiglotitis (epiglottitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
@@ -81,6 +81,16 @@ Pada masa ini tiada literatur berkaitan tersedia untuk epiglotitis.
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL08111766ACRZ | Duraphat Dental Suspension 50mg/ml | Bahan tunggal | Colgate-Palmolive (Marketing) Sdn Bhd | Sah (pendaftaran bersyarat) |
+| MAL18016139ACRZ | Addaven Concentrate for Solution for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL20021424ACRZ | PEDITRACE | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+
+<!-- licenses:end -->
 
 ---
 

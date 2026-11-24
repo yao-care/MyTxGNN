@@ -70,11 +70,23 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05061487AZ | LOXOF TABLETS 500mg | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL06030806AZ | Glevo Tablets 250 mg | Bahan tunggal | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. | Sah (pendaftaran bersyarat) |
+| MAL09032008AZ | LEVOFLOXOL (Levofloxacin 5mg/mL Intravenous Infusion) | Bahan tunggal | AIN MEDICARE SDN. BHD. | Sah |
+| MAL11010021AZ | Olfovel 500mg Tablet | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL12020003ACSZ | Cravit IV 5mg/ml | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 20 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 <!-- review:begin my-lic-20261105-levofloxacin-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Levofloxacin berstatus **dipasarkan** di Malaysia, dengan 19 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Levofloxacin berstatus **dipasarkan** di Malaysia, dengan 19 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Ayat yang tinggal, "Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.", turut dipadam (2026-11-24): bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-levofloxacin-1 -->
 
@@ -112,7 +124,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Levofloxacin berstatus **dipasarkan** di Malaysia, dengan 19 lesen sah dan tiada lesen yang dibatalkan" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Levofloxacin berstatus **dipasarkan** di Malaysia, dengan 19 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini." | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

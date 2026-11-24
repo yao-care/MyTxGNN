@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "Axitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Axitinib: indikasi baharu diramal Liposarkoma (liposarcoma) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -74,7 +74,22 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Data tempatan menunjukkan status pasaran **dipasarkan**, dengan 2 lesen yang sah dan tiada yang dibatalkan. Butiran lesen individu tidak tersedia dalam data yang dikumpulkan.
+Data tempatan menunjukkan status pasaran **dipasarkan**, dengan 2 lesen yang sah dan tiada yang dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13115126AZ | Inlyta Film-coated Tablets 1mg | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL13115127AZ | Inlyta Film-coated Tablets 5mg | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-axitinib-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran lesen individu tidak tersedia dalam data yang dikumpulkan." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-axitinib-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -113,11 +128,12 @@ Bukti hanya terdiri daripada satu kajian praklinikal dalam liposarkoma miksoid t
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Inlyta (axitinib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8a903e31-936e-4ed7-8a59-59f32374f338) |
+| 2026-11-24 | Dipadam: "Butiran lesen individu tidak tersedia dalam data yang dikumpulkan." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

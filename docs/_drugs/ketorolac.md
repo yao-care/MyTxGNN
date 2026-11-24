@@ -108,6 +108,20 @@ Berikut ialah percubaan yang paling relevan (sehingga 10). Terdapat 16 percubaan
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07082844AZ | Keto Injection 30mg/ml | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL17111021AZ | Xevolac 10 mg/ml Solution for Injection | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL17111022AZ | Xevolac 30 mg/ml Solution for Injection | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL20000081AZ | KETO FILM COATED TABLET 10MG | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL20013345ARZ | ACULAR OPHTHALMIC SOLUTION 0.5% | Bahan tunggal | ABBVIE SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

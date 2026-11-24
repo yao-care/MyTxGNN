@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01744
 monitor_inn: "Camphor"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-24
 description: "Dl-Camphor: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 9 (sah: 8)"
 ---
 
@@ -92,6 +92,20 @@ Satu-satunya kajian yang menumpu pada migrain ialah kajian haiwan ini. Disebabka
 ## Maklumat Pasaran di Malaysia
 
 Semua pendaftaran tempatan yang direkodkan untuk DL-Camphor ialah produk kombinasi, seperti tampal dan losyen pelega sakit. Tiada pendaftaran produk bahan tunggal. Oleh itu, status pasaran bagi DL-Camphor sebagai bahan tunggal tidak dapat ditentukan daripada data ini.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL08032212XS | Salonpas | Kombinasi | Hisamitsu Pharmaceutical Malaysia Sdn. Bhd. | Sah |
+| MAL09032037XR | Panaflex Pain Relief Patch | Kombinasi | Haleon Malaysia Sdn. Bhd. | Sah |
+| MAL15085068X | Counterpain Patch | Kombinasi | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL18086099XC | TIGER BALM BACK PAIN PATCH | Kombinasi | TIGER BALM (M) SDN. BHD. | Sah |
+| MAL18116051X | NEW AMMELTZ YOKO YOKO GOLD TOPICAL LIQUID | Kombinasi | KOBAYASHI Healthcare (Malaysia) Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 9 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

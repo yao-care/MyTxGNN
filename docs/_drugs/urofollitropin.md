@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 712
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "UROFOLLITROPIN"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "Raynaud disease"]
 description: "Urofollitropin: indikasi baharu diramal Migraine disorder (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
@@ -68,6 +68,18 @@ Ramalan lain dalam senarai juga tidak mempunyai asas mekanistik yang jelas. Rama
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11040005AZ | Foliculin Injection 75IU (Urofollitropin for injection BP-Freeze Dried) | Bahan tunggal | BSV BIOSCIENCE MALAYSIA SDN. BHD. | Sah |
+| MAL11080005AZ | BSV Humog 75 (Menotrophin 75 IU Powder and Solvent for Solution for Injection B.P) | Bahan tunggal | BSV BIOSCIENCE MALAYSIA SDN. BHD. | Sah |
+| MAL12055017AZ | Foliculin Injection 150IU (Urofollitropin for injection BP-Freeze Dried) | Bahan tunggal | BSV BIOSCIENCE MALAYSIA SDN. BHD. | Sah |
+| MAL23106016AZ | Sanzyme FSH 75 IU (Urofollitropin Lyophilised Powder for Solution for Injection BP, 75 IU/vial) & So… | Bahan tunggal | Haczen Sdn Bhd | Sah |
+| MAL23106017AZ | Sanzyme FSH 150 IU (Urofollitropin Lyophilised Powder for Solution for Injection BP, 150 IU/vial) &… | Bahan tunggal | Haczen Sdn Bhd | Sah |
+
+<!-- licenses:end -->
 
 ---
 

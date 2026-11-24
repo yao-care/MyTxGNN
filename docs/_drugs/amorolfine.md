@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 65
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "Amorolfine"
 predicted_indications: ["drug-induced osteoporosis", "disease of retroperitoneum", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "abdominal ectopic pregnancy", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "urethral disease"]
 description: "Amorolfine: indikasi baharu diramal Osteoporosis teraruh ubat (drug-induced osteoporosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
@@ -80,6 +80,15 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18121005X | Mycofine 5% w/v Nail Lacquer | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL19984307X | LOCERYL NAIL LACQUER 5% SOLUTION | Bahan tunggal | Galderma Malaysia Sdn Bhd | Sah |
+| MAL21066038X | Oflomil Nail Lacquer 5% w/v | Bahan tunggal | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

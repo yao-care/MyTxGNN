@@ -86,7 +86,7 @@ Sebaik sahaja indikasi sasaran dikenal pasti, penerbitan yang relevan harus diam
 
 ## Maklumat Pasaran Malaysia
 
-Pakej Bukti mengesahkan **1 kebenaran pasaran aktif** di Malaysia; walau bagaimanapun, semua medan terperinci pendaftaran kini kosong.
+Pakej Bukti mengesahkan **1 kebenaran pasaran aktif** di Malaysia.
 
 <!-- licenses:begin -->
 
@@ -96,7 +96,17 @@ Pakej Bukti mengesahkan **1 kebenaran pasaran aktif** di Malaysia; walau bagaima
 
 <!-- licenses:end -->
 
-Untuk mengisi jadual ini, rekod pendaftaran NPRA lengkap untuk Artesunate mesti diambil semula dan dianalisis.
+<!-- review:begin my-lic-20261124b-artesunate-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "; walau bagaimanapun, semua medan terperinci pendaftaran kini kosong." Dibetulkan: bahagian ayat ini yang menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong) dipadam, kerana jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-artesunate-1 -->
+
+<!-- review:begin my-lic-20261124b-artesunate-2 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Untuk mengisi jadual ini, rekod pendaftaran NPRA lengkap untuk Artesunate mesti diambil semula dan dianalisis." Dipadam: tindakan ini bertujuan mengisi jadual pendaftaran, dan jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-artesunate-2 -->
 
 ---
 
@@ -122,6 +132,19 @@ Pakej Bukti ini tidak lengkap dalam dua dimensi penghalang: (1) saluran ramalan 
 - **[Penghalang — Ramalan]** Diagnosis mengapa `predicted_indications` kosong — sahkan bahawa ID DrugBank Artesunate ada dalam senarai nod graf pengetahuan TxGNN (`data/node.csv`) dan jalankan semula saluran ramalan (`scripts/run_kg_prediction.py`)
 - **[Sederhana]** Isi terperinci lesen NPRA (nama produk, bentuk ubatan, nombor kebenaran) daripada rekod kawal selia yang disahkan ada (1 pendaftaran ditemui)
 - **[Selepas pemulihan]** Sebaik sahaja ramalan dan MOA tersedia, jalankan semula penjanaan Pakej Bukti lengkap untuk membolehkan penilaian tahap bukti L1–L5 yang lengkap dan keputusan Go / Teruskan dengan Keadaan Keselamatan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: "; walau bagaimanapun, semua medan terperinci pendaftaran kini kosong." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-24 | Dipadam: "Untuk mengisi jadual ini, rekod pendaftaran NPRA lengkap untuk Artesunate mesti diambil semula dan dianalisis." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 702
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "TRIFAROTENE"
 predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"]
 description: "Trifarotene: indikasi baharu diramal Zink plasma meningkat (zinc, elevated plasma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -82,6 +82,13 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24076001ARZ | AKLIEF CREAM 50MCG/G | Bahan tunggal | Galderma Malaysia Sdn Bhd | Sah |
+
+<!-- licenses:end -->
 
 ---
 

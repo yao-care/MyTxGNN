@@ -90,6 +90,20 @@ Sebagai rujukan, literatur yang ditemui untuk ramalan lain (bukan bukti sokongan
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18056073AE | LOPERAX CAPSULE 2MG | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+| MAL19861523AZ | LOMIDE CAPSULE 2MG | Bahan tunggal | SPG PHARMA (MALAYSIA) SDN BHD | Sah |
+| MAL19871473ARZ | IMODIUM CAPSULE 2MG | Bahan tunggal | JNTL (MALAYSIA) SDN. BHD. | Sah |
+| MAL19900404AZ | PRIMODIUM CAPSULES 2MG | Bahan tunggal | PRIME PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19913258AZ | LOMODIUM CAPSULE | Bahan tunggal | DYNAPHARM (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 10 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

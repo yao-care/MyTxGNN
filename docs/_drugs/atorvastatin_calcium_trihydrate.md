@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB01076
 monitor_inn: "Atorvastatin"
 predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-24
 description: "Atorvastatin Calcium Trihydrate: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 71 (sah: 66)"
 ---
 
@@ -104,6 +104,20 @@ Kesan langsung atorvastatin terhadap replikasi virus belum terbukti. Kajian NCT0
 ## Maklumat Pasaran di Malaysia
 
 Atorvastatin dipasarkan di Malaysia. Terdapat banyak produk atorvastatin tunggal yang sah daripada pelbagai pengeluar, termasuk jenama asal dan generik. Terdapat juga produk kombinasi tetap yang mengandungi atorvastatin. Lesen produk kombinasi tidak boleh digunakan untuk menggambarkan status kelulusan atorvastatin tunggal. Jadual lesen terperinci dijana oleh program tapak.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06081187AZ | Atorvas Tablet 20mg | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL06081188AZ | ATORVAS TABLET 10 MG | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL06081189AZ | ATORVAS TABLET 40MG | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL10070541AZ | Atorv 20 mg Film-coated tablet | Bahan tunggal | AV MANUFACTURING SDN.BHD | Sah |
+| MAL10100165ARZ | Zarator 80mg Film Coated Tablet | Bahan tunggal | MYLAN HEALTHCARE SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 71 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

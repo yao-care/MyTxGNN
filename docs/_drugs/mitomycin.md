@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 509
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "mitomycin"
 predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteoclastic giant cell tumor of pancreas", "pancreatic carcinoma with mixed differentiation", "mixed ductal-endocrine carcinoma of pancreas", "undifferentiated pancreatic carcinoma", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
 description: "Mitomycin: indikasi baharu diramal Karsinoma pseudopapilari pepejal pankreas (solid pseudopapillary carcinoma of pancreas) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -70,7 +70,21 @@ Buat masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Status pasaran: dipasarkan. Terdapat 1 lesen yang sah dalam data tempatan; butiran produk tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Status pasaran: dipasarkan. Terdapat 1 lesen yang sah dalam data tempatan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24016009AZ | MITONCO 10mg powder for solution for injection/infusion or intravesical | Bahan tunggal | FIRST PHARMACEUTICAL SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-mitomycin-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "; butiran produk tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dibetulkan: bahagian ayat ini yang menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan dipadam, kerana bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-mitomycin-1 -->
 
 ## Sitotoksisiti
 
@@ -107,11 +121,12 @@ Ramalan ini bersandarkan skor model sahaja (L5) tanpa sebarang percubaan klinika
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Mutamycin (mitomycin) prescribing information, Accord BioPharma Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbf0f6ba-3a53-4791-9a85-5c6b271eeb8e) |
+| 2026-11-24 | Dipadam: "; butiran produk tidak tersedia dalam data yang dikumpulkan untuk laporan ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

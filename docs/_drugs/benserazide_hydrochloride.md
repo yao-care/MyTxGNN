@@ -80,7 +80,11 @@ Jadual di atas menyenaraikan 1 daripada 3 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 
-> **Nota:** Tiga pendaftaran telah dikenalpasti dalam pangkalan data NPRA, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam pakej bukti. Ini mewakili jurang data yang perlu diperbetulkan dengan membuat pertanyaan ke pangkalan data NPRA secara langsung.
+<!-- review:begin my-lic-20261124b-benserazide_hydrochloride-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "**Nota:** Tiga pendaftaran telah dikenalpasti dalam pangkalan data NPRA, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam pakej bukti. Ini mewakili jurang data yang perlu diperbetulkan dengan membuat pertanyaan ke pangkalan data NPRA secara langsung." Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-benserazide_hydrochloride-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -104,6 +108,18 @@ Tiada calon repurposing yang diramalkan oleh TxGNN untuk benserazide hydrochlori
 ---
 
 *Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Sebarang calon repurposing ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: "**Nota:** Tiga pendaftaran telah dikenalpasti dalam pangkalan data NPRA, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam pakej bukti. Ini mewakili jurang data yang perlu diperbetulkan dengan membuat pertanyaan ke pangkalan data NPRA secara langsung." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

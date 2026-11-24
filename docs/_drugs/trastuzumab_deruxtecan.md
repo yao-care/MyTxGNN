@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 696
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TRASTUZUMAB DERUXTECAN"
 predicted_indications: ["drug-induced osteoporosis"]
 description: "Trastuzumab Deruxtecan: indikasi baharu diramal Osteoporosis teraruh ubat (drug-induced osteoporosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 1)"
@@ -80,6 +80,15 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 ---
 
 ## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24046001ACRZ | Enhertu Powder For Concentrate For Solution For Infusion 100 mg/vial | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+| MAL24046001ACZ | Enhertu Powder For Concentrate For Solution For Infusion 100 mg/vial | Bahan tunggal | ASTRAZENECA SDN. BHD. | Nombor pendaftaran lama; produk yang sama kini didaftarkan sebagai MAL24046001ACRZ |
+
+<!-- licenses:end -->
 
 ---
 

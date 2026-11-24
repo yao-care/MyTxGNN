@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ARSENIC TRIOXIDE"
 predicted_indications: ["unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "partial deletion of the long arm of chromosome 5", "myelodysplastic syndrome", "Ewing sarcoma", "dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Arsenic Trioxide: indikasi baharu diramal Sindrom mielodisplastik tidak terklasifikasi (unclassified myelodysplastic syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -80,7 +80,21 @@ Pada masa ini tiada literatur berkaitan tersedia untuk penyakit ini.
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan menunjukkan status pasaran "Dipasarkan" dengan 1 lesen sah. Butiran lesen (nombor kebenaran, nama produk, bentuk dos) ditambah oleh program dan tidak disenaraikan di sini.
+Data yang dikumpulkan menunjukkan status pasaran "Dipasarkan" dengan 1 lesen sah. Butiran lesen (nombor kebenaran, nama produk, bentuk dos) ditambah oleh program.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20071712AZ | ASADIN INJECTION 1.0MG/ML | Bahan tunggal | PHARM-D SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-arsenic_trioxide-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "ditambah oleh program dan tidak disenaraikan di sini." Dibetulkan: bahagian ayat ini yang menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan dipadam, kerana bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-arsenic_trioxide-1 -->
 
 ---
 
@@ -131,11 +145,12 @@ Skor TxGNN sangat tinggi, tetapi tiada ujian klinikal atau penerbitan yang mengk
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Trisenox (arsenic trioxide) prescribing information, Cephalon, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=101fc347-d0ad-4aee-8b06-9feb187fd741) |
+| 2026-11-24 | Dibetulkan: "ditambah oleh program dan tidak disenaraikan di sini." → "ditambah oleh program." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

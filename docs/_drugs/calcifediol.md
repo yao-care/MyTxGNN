@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CALCIFEDIOL"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Calcifediol: indikasi baharu diramal Asidosis tubul renal (renal tubular acidosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
@@ -70,7 +70,27 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Data tempatan menunjukkan status pasaran **dipasarkan**, dengan 6 lesen yang semuanya sah dan tiada yang dibatalkan. Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Data tempatan menunjukkan status pasaran **dipasarkan**, dengan 6 lesen yang semuanya sah dan tiada yang dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL25036004ACZ | Hidroferol 0.266mg Soft Capsules (Calcifediol monohydrate) | Bahan tunggal | EURODRUG LABORATORIES (M) SDN. BHD. | Sah |
+| MAL25126055NC | Vitpro® CALCIFEDIOL 10g CAPSULE | Bahan tunggal | World Medicare Supplies Sdn Bhd | Sah |
+| MAL26086184NC | Healthynation Calcifediol (25-hydroxyvitamin D3) 10mcg Capsule | Bahan tunggal | ANCOM TRUELIFE SDN. BHD. | Sah |
+| MAL26106064NC | Activ MD Capsule | Bahan tunggal | Md Healthcare Sdn Bhd | Sah |
+| MAL25106068N | C'LOVES Calcifediol-K2 Plus Capsule | Kombinasi | STELLAR BIO SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-calcifediol-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-calcifediol-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -106,11 +126,12 @@ Ramalan ini hanya disokong oleh model (skor 0,9986) tanpa sebarang ujian klinika
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Rayaldee (calcifediol) prescribing information, OPKO Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a95effd-32a5-46b6-a30e-7f4f9bf8cc77) |
+| 2026-11-24 | Dipadam: "Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

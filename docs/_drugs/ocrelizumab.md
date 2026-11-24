@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 537
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "OCRELIZUMAB"
 predicted_indications: ["HER2 positive breast carcinoma", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer"]
 description: "Ocrelizumab: indikasi baharu diramal Karsinoma payudara HER2 positif (HER2 positive breast carcinoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -80,6 +80,15 @@ Untuk rujukan, 18 rekod literatur disenaraikan bagi ramalan peringkat ke-4 (tumo
 Kajian ini menyokong indikasi asal, bukan indikasi kanser payudara.
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL23116001ARZ | OCREVUS 300mg/10mL Concentrate for Solution for Infusion | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL26036011ARZ | Ocrevus 920mg/23ml Solution for Injection | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

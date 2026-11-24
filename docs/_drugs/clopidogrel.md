@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 238
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clopidogrel: indikasi baharu diramal Migrain dengan aura batang otak (migraine with brainstem aura) (tahap bukti L5). Indikasi asal: Sindrom koronari akut"
 monitor_inn: "CLOPIDOGREL"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis"]
@@ -105,6 +105,20 @@ Percubaan di bawah dikumpulkan untuk gangguan migrain. Tiada percubaan klinikal 
 ## Maklumat Pasaran Malaysia
 
 Pengesahan semula dengan NPRA disyorkan sebelum sebarang perancangan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06061677AZ | Clopivid tablet 75 mg | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL07090937AZ | Apo-Clopidogrel 75mg Film-Coated Tablets | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL08010791AZ | CERUVIN TABLETS 75 mg | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL09122044AZ | Kogrel 75mg film coated tablets | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+| MAL10043690AZ | DEPLATT TABLET USP 75MG | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 23 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

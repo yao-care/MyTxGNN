@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 261
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DEGARELIX"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "malformation syndrome with odontal and/or periodontal component", "isolated genetic hair shaft abnormality", "allergic urticaria", "cold urticaria", "familial male-limited precocious puberty", "centra precocious puberty 1", "familial isolated trichomegaly"]
 description: "Degarelix: indikasi baharu diramal Hipertrikosis (hypertrichosis (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -84,6 +84,15 @@ Setakat ini tiada literatur berkaitan tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13055074ARZ | Firmagon 120mg Powder and Solvent for Solution for Injection | Bahan tunggal | Ferring Sdn. Bhd. | Sah |
+| MAL13055075ARZ | Firmagon 80mg Powder and Solvent for Solution for Injection | Bahan tunggal | Ferring Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

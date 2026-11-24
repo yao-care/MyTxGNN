@@ -95,6 +95,20 @@ Penerbitan berikut diperoleh semasa carian, tetapi tiada satu pun menilai biotin
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05041948X | GNC Biotin 600 mcg | Bahan tunggal | GNC LIVEWELL MALAYSIA SDN. BHD. | Sah |
+| MAL22046039NC | LAC Biotin 900mcg Tablets | Bahan tunggal | LAC GLOBAL BRANDS (MALAYSIA) SDN. BHD. | Sah |
+| MAL24016043NC | Vitalita Biotin 900 mcg Tablet | Bahan tunggal | PHARM-D HEALTH SCIENCE SDN. BHD. | Sah |
+| MAL25036056NC | Vitalita Biotin 900mcg Capsule | Bahan tunggal | QUANTUM UPSTREAM SDN. BHD. | Sah |
+| MAL04125493X | GNC Teens Mega Teen | Kombinasi | GNC LIVEWELL MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 372 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

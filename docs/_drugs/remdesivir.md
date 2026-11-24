@@ -87,6 +87,14 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22076001ACRZ | Veklury lyophilized powder for injection (remdesivir 100 mg/vial) | Bahan tunggal | Gilead Sciences Malaysia Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

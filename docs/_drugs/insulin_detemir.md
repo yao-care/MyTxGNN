@@ -104,7 +104,21 @@ Berikut ialah 10 ujian yang paling relevan (daripada 38 ujian yang ditemui).
 
 ## Maklumat Pasaran Malaysia
 
-Oleh itu, jadual pendaftaran tidak dipaparkan.
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16045063ASZ | Levemir FlexPen 100U/ML Solution for injection in a prefilled pen | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL20061574AZ | LEVEMIR FLEXPEN 100U/ML, 3ML | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL21066010ASZ | Levemir FlexPen 100 U/ml Solution for Injection in Pre-filled Pen | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-insulin_detemir-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Oleh itu, jadual pendaftaran tidak dipaparkan." Dipadam: ayat ini merujuk kepada kenyataan asal bahawa ubat ini tiada pendaftaran di Malaysia (kenyataan itu telah dipadam dalam pembetulan pendaftaran mengikut bahan aktif); data pendaftaran produk NPRA (data.gov.my) merekodkan pendaftaran ubat ini, seperti dalam jadual pendaftaran di bahagian ini. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-insulin_detemir-1 -->
 
 ---
 
@@ -151,6 +165,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-05 | Dipadam: "memandangkan tiada lesen berdaftar" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-24 | Dipadam: "Oleh itu, jadual pendaftaran tidak dipaparkan." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

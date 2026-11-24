@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 665
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TACROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: indikasi baharu diramal Seborrheic dermatitis (tahap bukti L1). Di Malaysia, pendaftaran NPRA: 16 (sah: 16)"
@@ -84,6 +84,20 @@ Kajian ulasan turut menyokong peranan perencat calcineurin topikal dalam dermati
 | [15461548](https://pubmed.ncbi.nlm.nih.gov/15461548/) | 2004 | Ulasan | Expert Opinion on Pharmacotherapy | Salap tacrolimus untuk dermatitis atopik dan penyakit radang kulit lain |
 
 ## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12115072AZ | Advagraf 5mg Prolonged-release hard capsules | Bahan tunggal | Astellas Pharma Malaysia Sdn Bhd | Sah |
+| MAL12115073AZ | Advagraf 1mg Prolonged-release hard capsules | Bahan tunggal | Astellas Pharma Malaysia Sdn Bhd | Sah |
+| MAL12115074AZ | Advagraf 0.5mg Prolonged-release hard capsules | Bahan tunggal | Astellas Pharma Malaysia Sdn Bhd | Sah |
+| MAL18071001AZ | TRANSGRAF CAPSULE 0.5MG | Bahan tunggal | Ascend Laboratories Sdn Bhd | Sah |
+| MAL18071002AZ | TRANSGRAF CAPSULE 1.0 MG | Bahan tunggal | Ascend Laboratories Sdn Bhd | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 16 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

@@ -80,6 +80,15 @@ Skor TxGNN yang tinggi (0.9943) datang daripada model TxGNN (pembelajaran mendal
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19992678AZ | VESSEL DUE F 600 LSU AMPOULE | Bahan tunggal | EP PLUS GROUP SDN. BHD. | Sah |
+| MAL19992679AZ | VESSEL DUE F 250 LSU CAPSULE | Bahan tunggal | EP PLUS GROUP SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

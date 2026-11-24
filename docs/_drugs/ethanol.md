@@ -99,6 +99,20 @@ Tiada satu pun kajian di bawah menilai etanol sebagai rawatan migrain. Penerbita
 
 ## Maklumat Pasaran di Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20016153X | <p>Deb InstantFOAM® Complete Hand Sanitizer 80% w/w</p> | Bahan tunggal | SC JOHNSON PROFESSIONAL SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL06041426XC | Softa-Man Cutaneous Solution | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL09011527XCS | Septi-Sol Solution | Kombinasi | STERILINE SDN. BHD. | Sah |
+| MAL19912380XZ | PINETARSOL SOLUTION | Kombinasi | EGO PHARM MALAYSIA SDN. BHD. | Sah |
+| MAL20031761ARZ | VOLUVEN 6% (FREEFLEX WITH OVERWRAP) | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 10 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

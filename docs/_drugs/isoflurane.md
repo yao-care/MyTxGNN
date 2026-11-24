@@ -87,6 +87,15 @@ Setakat ini tiada literatur berkaitan untuk Prinzmetal angina.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09020968AZ | ISORANE (Isoflurane Inhalation Liquid 100% V/V) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL22076046HAC | ISOFLURIN 1000 mg/g Inhalation Vapour, Liquid | Bahan tunggal | My Vet Care Sdn Bhd | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

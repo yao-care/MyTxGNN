@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "BUSULFAN"
 predicted_indications: ["myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "seborrheic keratosis", "simian immunodeficiency virus infection"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Busulfan: indikasi baharu diramal Sindrom mielodisplastik (myelodysplastic syndrome) (tahap bukti L1). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -105,7 +105,22 @@ Berikut ialah percubaan terpilih yang paling relevan (kebanyakannya menguji busu
 
 ## Maklumat Pasaran di Malaysia
 
-Data yang disusun menunjukkan status pasaran **Dipasarkan**, dengan 2 lesen sah dan tiada lesen dibatalkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data tempatan, dan teks indikasi yang diluluskan tidak direkodkan.
+Data yang disusun menunjukkan status pasaran **Dipasarkan**, dengan 2 lesen sah dan tiada lesen dibatalkan. Teks indikasi yang diluluskan tidak direkodkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19071006AZ | Busulfan Kabi Injection 6mg/ml Concentrate for Solution for Infusion | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL22116020AZ | CANBUSUL- Busulfan Injection 6 mg/ml Concentrate for Solution for Infusion | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-busulfan-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data tempatan, dan teks indikasi" Dibetulkan: bahagian ayat ini yang menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan dipadam, kerana bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-busulfan-1 -->
 
 ---
 
@@ -150,11 +165,12 @@ Terdapat beberapa percubaan fasa 3 dan fasa 2/3 serta ujian rawak yang diterbitk
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203) |
+| 2026-11-24 | Dibetulkan: "Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data tempatan, dan teks indikasi" → "Teks indikasi" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

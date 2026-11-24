@@ -92,6 +92,20 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk konjunktiviti
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19860789AZ | RIFASYNT 150 CAPSULE | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL19860793AZ | Royce Rifampicin Capsule 150mg | Bahan tunggal | ROYCE PHARMA MANUFACTURING SDN. BHD. | Sah |
+| MAL19860825AZ | RIFASYNT 300 CAPSULE | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL19860827AZ | Royce Rifampicin Capsule 300mg | Bahan tunggal | ROYCE PHARMA MANUFACTURING SDN. BHD. | Sah |
+| MAL06011712AZ | AKuriT Tablet | Kombinasi | PAHANG PHARMACY SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 9 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CICLESONIDE"
 predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ciclesonide: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
 ---
 
@@ -83,7 +83,25 @@ Buat masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-Menurut data tempatan, status pasaran ialah **dipasarkan**, dengan 5 lesen yang sah dan tiada lesen yang dibatalkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Menurut data tempatan, status pasaran ialah **dipasarkan**, dengan 5 lesen yang sah dan tiada lesen yang dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20051456ACZ | ALVESCO 80 INHALER (120 PUFFS) | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL20051457ACZ | ALVESCO 160 INHALER (120 PUFFS) | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL20051458ACZ | ALVESCO 80 INHALER (60 PUFFS) | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL20051459ACZ | ALVESCO 160 INHALER (60 PUFFS) | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL20102029ACRZ | OMNARIS NASAL SPRAY 50MCG 120 PUFFS | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-ciclesonide-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-ciclesonide-1 -->
 
 ---
 
@@ -119,11 +137,12 @@ Untuk amaran utama dan kontraindikasi, sila rujuk risalah pek (package insert).
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Alvesco (ciclesonide) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6112fb-78ef-43cf-8ae3-36370eb45468) |
+| 2026-11-24 | Dipadam: "Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

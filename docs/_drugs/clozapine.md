@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "CLOZAPINE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clozapine: indikasi baharu diramal Mania gangguan afektif bipolar (manic bipolar affective disorder) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 9 (sah: 9)"
 ---
 
@@ -78,7 +78,27 @@ Kajian sistematik dan meta-analisis (PMID 32182485) mendapati clozapine setandin
 
 ## Maklumat Pasaran Malaysia
 
-Data tempatan menunjukkan status pasaran **dipasarkan**, dengan 9 lesen sah. Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Data tempatan menunjukkan status pasaran **dipasarkan**, dengan 9 lesen sah.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06061680AZ | Clopine 25 mg Tablets | Bahan tunggal | SCHMIDT BIOMEDTECH SDN. BHD. | Sah |
+| MAL06061681AZ | Clopine 100 mg Tablets | Bahan tunggal | SCHMIDT BIOMEDTECH SDN. BHD. | Sah |
+| MAL06100579ARZ | Anzaril Tablets 100 mg | Bahan tunggal | GoodScience Sdn. Bhd. | Sah |
+| MAL06100580ARZ | Anzaril Tablets 25 mg | Bahan tunggal | GoodScience Sdn. Bhd. | Sah |
+| MAL07090952AZ | Zapine Tablets 100mg | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 9 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-clozapine-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-clozapine-1 -->
 
 ## Sitotoksisiti
 
@@ -109,11 +129,12 @@ Terdapat satu percubaan Fasa 2 yang telah selesai serta kajian sistematik dan me
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Versacloz (clozapine) prescribing information, TruPharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2592c9a8-fd74-4e0d-a895-b07b014cf355) |
+| 2026-11-24 | Dipadam: "Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

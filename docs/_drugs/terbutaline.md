@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 673
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "terbutaline"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
 description: "Terbutaline: indikasi baharu diramal Malformasi pernafasan (respiratory malformation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
@@ -80,6 +80,20 @@ Literatur yang diperoleh kebanyakannya berkaitan asma, bronkitis atau topik lain
 ## Maklumat Pasaran Malaysia
 
 Terbutaline berstatus dipasarkan di Malaysia dengan 15 lesen sah dan tiada lesen dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19870759AZ | ATALINE TABLET 2.5MG | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL19880212AZ | BUTALINE SYRUP 1.5MG/5ML | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL19890080AZ | BRITALINE TABLET 2.5MG | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL19900372AZ | PRITALIN SYRUP 1.5ML/5ML | Bahan tunggal | PRIME PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19900380AZ | ASMALIN SYRUP 1.5MG/5ML | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

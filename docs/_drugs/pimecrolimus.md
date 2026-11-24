@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 573
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PIMECROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
 description: "Pimecrolimus: indikasi baharu diramal Seborrheic dermatitis (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -96,6 +96,14 @@ Satu-satunya ujian ini menguji indikasi sasaran secara langsung, tetapi ia Fasa 
 ---
 
 ## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20034628ARZ | ELIDEL 1% CREAM | Bahan tunggal | MYLAN HEALTHCARE SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

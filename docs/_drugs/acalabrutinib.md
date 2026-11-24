@@ -84,7 +84,7 @@ Pada masa ini tiada kesusasteraan berkaitan boleh dibentangkan untuk petunjuk pe
 
 ## Maklumat Pasaran Malaysia
 
-Kueri log NPRA (2026-03-27) mengesahkan **2 pendaftaran aktif** dengan status hasil yang berjaya. Walau bagaimanapun, medan perincian lesen tidak diisi dalam ekstrak data semasa. Jadual di bawah mencerminkan keadaan mentah Pakej Bukti.
+Kueri log NPRA (2026-03-27) mengesahkan **2 pendaftaran aktif** dengan status hasil yang berjaya.
 
 <!-- licenses:begin -->
 
@@ -97,7 +97,19 @@ Jadual di atas menyenaraikan 2 daripada 3 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 
-> **Tindakan diperlukan:** Jalankan semula saluran ekstraksi data NPRA dengan pengambilan perincian lesen didayakan untuk mengisi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan.
+<!-- review:begin my-lic-20261124b-acalabrutinib-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Walau bagaimanapun, medan perincian lesen tidak diisi dalam ekstrak data semasa. Jadual di bawah mencerminkan keadaan mentah Pakej Bukti." Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-acalabrutinib-1 -->
+
+<!-- review:begin my-lic-20261124b-acalabrutinib-2 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "untuk mengisi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan" Dibetulkan: premis bahawa nombor pendaftaran dan nama produk belum tersedia telah dipadam (kini disenaraikan dalam jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA, data.gov.my); cadangan tindakan lain tidak diubah. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-acalabrutinib-2 -->
+
+> **Tindakan diperlukan:** Jalankan semula saluran ekstraksi data NPRA dengan pengambilan perincian lesen didayakan untuk mengisi bentuk dos dan teks petunjuk yang diluluskan.
 
 ---
 
@@ -137,6 +149,19 @@ Pakej Bukti untuk Acalabrutinib (DB11703 / v4) adalah kritikal tidak lengkap: sa
 - **[Kritikal]** Diagnosis dan jalankan semula saluran ramalan TxGNN untuk Acalabrutinib untuk mengisi `predicted_indications`; tanpa keluaran ramalan, tiada sasaran penggunaan semula wujud
 - **[Disyorkan]** Jalankan semula ekstraksi data NPRA dengan membolehkan pengambilan perincian lesen penuh untuk mengisi nombor kebenaran, bentuk dos, dan teks petunjuk yang diluluskan
 - Sebaik sahaja semua jurang diselesaikan, jana semula laporan ini sebagai Pakej Bukti v5 dan teruskan ke aliran kerja penilaian standard S1–S4
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: "Walau bagaimanapun, medan perincian lesen tidak diisi dalam ekstrak data semasa. Jadual di bawah mencerminkan keadaan mentah Pakej Bukti." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-24 | Dibetulkan: "untuk mengisi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan" → "untuk mengisi bentuk dos dan teks petunjuk yang diluluskan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

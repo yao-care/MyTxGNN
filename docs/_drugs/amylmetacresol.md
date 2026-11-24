@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Amylmetacresol"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "ciliary body disease", "panuveitis (disease)", "iris disease", "infectious anterior uveitis", "uveitis", "ciliary body cancer", "benign neoplasm of ciliary body"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Amylmetacresol: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 20 (sah: 20)"
 ---
 
@@ -69,7 +69,27 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran "Dipasarkan", dengan 20 lesen sah dan tiada lesen dibatalkan. Butiran lesen individu tidak disenaraikan dalam data yang ada.
+Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran "Dipasarkan", dengan 20 lesen sah dan tiada lesen dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06011903XS | Strepsils Lemon & Herb Sugar Free Lozenges | Kombinasi | RB (HEALTH) MALAYSIA SDN BHD | Sah |
+| MAL09042399XR | Strepsils Strawberry Sugar Free Lozenges | Kombinasi | RB (HEALTH) MALAYSIA SDN BHD | Sah |
+| MAL09082784X | DifflamAB Sore Throat Lozenges (Honey Lemon) | Kombinasi | iNova Pharmaceuticals (Singapore) Pte Ltd (incorporated In Singapore)… | Sah |
+| MAL16025027X | Strepsils Warm Ginger Lozenges | Kombinasi | RB (HEALTH) MALAYSIA SDN BHD | Sah |
+| MAL18056089X | THROATSIL LOZENGES (MENTHOL FLAVOUR) | Kombinasi | HNB ALLIANCE SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 20 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-amylmetacresol-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran lesen individu tidak disenaraikan dalam data yang ada." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-amylmetacresol-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -87,6 +107,19 @@ Ramalan ini tidak disokong oleh sebarang ujian klinikal, literatur atau pautan m
 - Amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Sebarang bukti praklinikal atau klinikal yang mengkaji penyakit ini secara langsung
 - Penilaian kebolehlaksanaan laluan pentadbiran
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: "Butiran lesen individu tidak disenaraikan dalam data yang ada." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

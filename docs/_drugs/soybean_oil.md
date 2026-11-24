@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 657
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "SOYBEAN OIL"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Soybean Oil: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
@@ -69,6 +69,19 @@ Skor yang sangat tinggi (0.9961) juga mungkin mencerminkan penggunaan minyak ini
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06091374XRS | INTRALIPID 20% | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL14055022X | CELEPID 10% Intravenous Fat Emulsion | Bahan tunggal | BioCare Pharmaceutical (M) Sdn. Bhd. | Sah |
+| MAL14055023X | CELEPID 20% Intravenous Fat Emulsion | Bahan tunggal | BioCare Pharmaceutical (M) Sdn. Bhd. | Sah |
+| MAL11120007X | PIASCLEDINE Capsule | Kombinasi | HYPHENS PHARMA SDN. BHD. | Sah |
+| MAL20033362ARZ | KABIVEN PERIPHERAL | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

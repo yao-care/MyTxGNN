@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 42
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ALFUZOSIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "allergic urticaria", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 description: "Alfuzosin: indikasi baharu diramal Ambras type hypertrichosis universalis congenita (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 6)"
@@ -71,6 +71,20 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11060024AZ | RANFUZOSIN MODIFIED RELEASE TABLETS 10 MG | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL12055030AZ | AZOSIN XL 10mg PROLONGED RELEASE TABLET | Bahan tunggal | MMS PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL17055013ASZ | RANFUZOSIN MODIFIED RELEASE TABLETS 10 MG | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL17107014AZ | ALFUTOR ER TABLETS 10 MG | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL20020894ARZ | XATRAL XL 10MG TABLET | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

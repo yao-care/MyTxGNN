@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB06769
 monitor_inn: "Bendamustine"
 predicted_indications: ["mantle cell lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Hodgkins lymphoma", "small intestinal Burkitt lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "MALT lymphoma", "relapsing-remitting multiple sclerosis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Bendamustine Hydrochloride: indikasi baharu diramal Limfoma sel mantel (mantle cell lymphoma) (tahap bukti L1). Di Malaysia, pendaftaran NPRA: 10 (sah: 10)"
 ---
 
@@ -106,6 +106,20 @@ Berikut ialah sepuluh ujian paling relevan untuk limfoma sel mantel.
 ## Maklumat Pasaran di Malaysia
 
 Semua lesen tempatan bagi bendamustine hydrochloride berstatus sah dan merupakan produk bahan tunggal. Produk ini dikeluarkan oleh beberapa pengilang, antaranya Fresenius Kabi, Dr. Reddy's, Medispec, Perniagaan Normahas, Johnson & Johnson dan Unimed. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL15045157ACRZ | RIBOMUSTIN 100MG/VIAL POWDER FOR CONCENTRATE FOR SOLUTION FOR INFUSION | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL15045159ACRZ | RIBOMUSTIN 25MG/VIAL POWDER FOR CONCENTRATE FOR SOLUTION FOR INFUSION | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL21116012AZ | Bendamustine Hydrochloride Kabi 100mg Powder for Concentrate for Solution for Infusion | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL21116013AZ | Bendamustine Hydrochloride Kabi 25mg Powder for Concentrate for Solution for Infusion | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL23016014AZ | BENDARED (Bendamustine Hydrochloride concentrate for solution for infusion 180mg/4mL) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 10 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

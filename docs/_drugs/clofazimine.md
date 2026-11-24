@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CLOFAZIMINE"
 predicted_indications: ["pneumocystosis", "malaria", "gastrin secretion abnormality"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clofazimine: indikasi baharu diramal Pneumosistosis (pneumocystosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
@@ -73,6 +73,17 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 ## Maklumat Pasaran Malaysia
 
 Ubat ini dipasarkan di Malaysia dan semua 4 lesen yang direkodkan masih sah. Butiran lesen individu ditambah oleh program tapak.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09102930AZ | Fazim 50 mg Capsule | Bahan tunggal | ZULAT PHARMACY SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL10012442AZ | FAZIM 100MG CAPSULE | Bahan tunggal | ZULAT PHARMACY SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL25096019AZ | Mycofaz 100 (Clofazimine Film Coated Tablets 100 mg) | Bahan tunggal | Macleods Pharmaceuticals Sdn. Bhd. | Sah |
+| MAL25096020AZ | Mycofaz 50 (Clofazimine Film Coated Tablets 50 mg) | Bahan tunggal | Macleods Pharmaceuticals Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

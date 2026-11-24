@@ -98,6 +98,18 @@ Buat masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18116051X | NEW AMMELTZ YOKO YOKO GOLD TOPICAL LIQUID | Kombinasi | KOBAYASHI Healthcare (Malaysia) Sdn. Bhd. | Sah |
+| MAL19076006X | NEW AMMELTZ YOKO YOKO PLUS MASSAGE TOPICAL LIQUID | Kombinasi | KOBAYASHI Healthcare (Malaysia) Sdn. Bhd. | Sah |
+| MAL20014030X | NEW AMMELTZ YOKO YOKO | Kombinasi | KOBAYASHI Healthcare (Malaysia) Sdn. Bhd. | Sah (pendaftaran bersyarat) |
+| MAL22076010XR | Panaflex Hot Patch | Kombinasi | Haleon Malaysia Sdn. Bhd. | Sah |
+| MAL26026009X | ROIHI-TSUBOKO PLASTER | Kombinasi | MKA JOYCARE SDN. BHD. | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 737
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ZONISAMIDE"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
 description: "Zonisamide: indikasi baharu diramal Sindrom Tourette (Tourette syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -130,7 +130,19 @@ Tiada literatur berkaitan untuk Sindrom Tourette (ramalan utama). Berikut ialah 
 
 ## Maklumat Pasaran Malaysia
 
-Status ini perlu disahkan semula kerana ia mungkin tidak mencerminkan kelulusan serantau.
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL15085074ACZ | Zonegran 100mg Tablets | Bahan tunggal | EISAI (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-zonisamide-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Status ini perlu disahkan semula kerana ia mungkin tidak mencerminkan kelulusan serantau." Dipadam: ayat ini merujuk kepada kenyataan asal bahawa ubat ini tiada pendaftaran di Malaysia (kenyataan itu telah dipadam dalam pembetulan pendaftaran mengikut bahan aktif); data pendaftaran produk NPRA (data.gov.my) merekodkan pendaftaran ubat ini, seperti dalam jadual pendaftaran di bahagian ini. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-zonisamide-1 -->
 
 ---
 
@@ -170,11 +182,12 @@ Maklumat amaran dan kontraindikasi daripada sisipan pakej tidak tersedia. Sila r
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Zonegran (zonisamide) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12de43e-3ac3-4335-bc85-70d7366a91eb) |
+| 2026-11-24 | Dipadam: "Status ini perlu disahkan semula kerana ia mungkin tidak mencerminkan kelulusan serantau." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

@@ -82,6 +82,20 @@ Pada masa ini tiada literatur berkaitan untuk anemia pramatang.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06061547X | GNC Zinc 50mg Tablet | Bahan tunggal | GNC LIVEWELL MALAYSIA SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL06030876XC | Vitalux Plus Time Release | Kombinasi | ALCON LABORATORIES (MALAYSIA) SDN. BHD. | Sah |
+| MAL07031147XC | EnerCaM | Kombinasi | VIGORACE SDN BHD | Sah |
+| MAL07124603X | evelle | Kombinasi | PHARMA NORD SDN. BHD. | Sah |
+| MAL08010753XC | Vigorshield | Kombinasi | VIGORACE SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 152 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

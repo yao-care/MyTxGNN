@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "BENZOYL PEROXIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "2-hydroxyethyl methacrylate sensitization", "acrodermatitis chronica atrophicans", "acne keloid"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benzoyl Peroxide: indikasi baharu diramal Keratosis folikel songsang vulva (vulvar inverted follicular keratosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 9 (sah: 9)"
 ---
 
@@ -72,7 +72,27 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-Menurut data tempatan, status pasaran ialah dipasarkan, dengan 9 lesen sah dan 0 lesen dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Menurut data tempatan, status pasaran ialah dipasarkan, dengan 9 lesen sah dan 0 lesen dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19962881XZ | OXY 5 LOTION | Bahan tunggal | ROHTO-MENTHOLATUM (MALAYSIA) SDN. BHD. | Sah |
+| MAL19962882XZ | OXY 10 LOTION | Bahan tunggal | ROHTO-MENTHOLATUM (MALAYSIA) SDN. BHD. | Sah |
+| MAL19962883XZ | OXY COVER CREAM | Bahan tunggal | ROHTO-MENTHOLATUM (MALAYSIA) SDN. BHD. | Sah |
+| MAL19984074XRZ | BENZAC AC 5% GEL | Bahan tunggal | Galderma Malaysia Sdn Bhd | Sah |
+| MAL19984075XRZ | BENZAC AC 2.5% GEL | Bahan tunggal | Galderma Malaysia Sdn Bhd | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 9 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-benzoyl_peroxide-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-benzoyl_peroxide-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -98,11 +118,12 @@ Ramalan ini hanya berasaskan model (tahap bukti L5) tanpa ujian klinikal atau li
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Epsolay (benzoyl peroxide) prescribing information, Mayne Pharma Commercial LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c) |
+| 2026-11-24 | Dipadam: "Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

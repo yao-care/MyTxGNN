@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 481
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "MAGNESIUM CARBONATE"
 predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "stomach disease", "duodenal obstruction"]
 description: "Magnesium Carbonate: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 34 (sah: 34)"
@@ -84,6 +84,19 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13035061XC | Windcalm Mixture 40mg/ml | Bahan tunggal | Po Sen Tong Medical Products Sdn. Bhd. | Sah |
+| MAL21126032NC | Kordel's Magnesium 200mg Effervescent Tablet | Bahan tunggal | CAMBERT(M) SDN. BHD. | Sah |
+| MAL24036055NC | VitaHealth V-Style Magnesium 300mg Effervescent Tablet (Lemon-Lime Flavour) | Bahan tunggal | VITAHEALTH BIOTECH SDN BHD | Sah |
+| MAL24046130NC | HERBS OF GOLD MAGNESIUM 300MG EFFERVESCENT TABLET (LEMON-LIME FLAVOUR) | Bahan tunggal | Herbs of Gold Sdn Bhd | Sah |
+| MAL25096059NC | LA LIFE ARMOR MAGNESIUM 200 MG EFFERVESCENT TABLETS | Bahan tunggal | Biofizz Marketing Sdn Bhd | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 34 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

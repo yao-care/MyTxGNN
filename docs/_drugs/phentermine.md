@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 570
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PHENTERMINE"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
 description: "Phentermine: indikasi baharu diramal Hipervitaminosis (hypervitaminosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
@@ -87,6 +87,16 @@ Buat masa ini tiada literatur berkaitan yang tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL14035007ACRZ | Duromine capsule 30mg | Bahan tunggal | iNova Pharmaceuticals (Singapore) Pte Ltd (incorporated In Singapore)… | Sah |
+| MAL14035017ACRZ | Duromine capsule 15mg | Bahan tunggal | iNova Pharmaceuticals (Singapore) Pte Ltd (incorporated In Singapore)… | Sah |
+| MAL16105033AZ | AXCEL PHENTERMINE-30MG TABLETS | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

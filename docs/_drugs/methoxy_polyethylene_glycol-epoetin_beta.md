@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 499
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 description: "Methoxy Polyethylene Glycol-Epoetin Beta: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of platelets) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam da…"
@@ -79,6 +79,20 @@ Semua ramalan lain juga berada pada tahap bukti L5 dan berstatus Hold:
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20081745ARZ | MIRCERA SOLUTION FOR INJECTION IN PRE FILLED SYRINGE, 50MCG/0.3ML | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20081746ARZ | MIRCERA SOLUTION FOR INJECTION IN PRE FILLED SYRINGE, 100MCG/0.3ML | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20081747ARZ | MIRCERA SOLUTION FOR INJECTION IN PRE FILLED SYRINGE, 75MCG/0.3ML | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20081748ARZ | MIRCERA SOLUTION FOR INJECTION IN PRE FILLED SYRINGE, 150MCG/0.3ML | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20081749ARZ | MIRCERA SOLUTION FOR INJECTION IN PRE FILLED SYRINGE, 200MCG/0.3ML | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

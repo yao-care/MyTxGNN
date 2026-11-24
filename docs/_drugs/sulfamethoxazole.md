@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 661
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "SULFAMETHOXAZOLE"
 predicted_indications: ["acute contagious conjunctivitis"]
 description: "Sulfamethoxazole: indikasi baharu diramal Konjunktivitis berjangkit akut (acute contagious conjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
@@ -83,6 +83,20 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL08082721ACRZ | DBL™ SULFAMETHOXAZOLE AND TRIMETHOPRIM CONCENTRATE INJECTION | Kombinasi | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL13120060HA | CenST 240 Oral Suspension | Kombinasi | Life Biopharma Sdn. Bhd. | Sah |
+| MAL15010007HA | Zoltrim 480 Premix | Kombinasi | Life Biopharma Sdn. Bhd. | Sah |
+| MAL15070059HA | ZOLTRIM 480 Oral Suspension | Kombinasi | Life Biopharma Sdn. Bhd. | Sah |
+| MAL19016102HA | TP-HITRIM 40/200MG/ML SOLUTION | Kombinasi | Thye Pharma Sdn. Bhd | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

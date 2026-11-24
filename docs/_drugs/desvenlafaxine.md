@@ -84,6 +84,17 @@ Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20091918ARZ | PRISTIQ 50 MG EXTENDED- RELEASE TABLETS | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL20091919AZ | PRISTIQ 100 MG EXTENDED-RELEASE TABLETS | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL21076007AZ | DESTIQ ER 100 MG TABLETS | Bahan tunggal | GENPHARMA SDN. BHD | Sah |
+| MAL21076008AZ | DESTIQ ER 50 MG TABLETS | Bahan tunggal | GENPHARMA SDN. BHD | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

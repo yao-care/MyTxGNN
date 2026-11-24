@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "amodiaquine"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "nephrogenic syndrome of inappropriate antidiuresis", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Amodiaquine: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -80,7 +80,21 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran di Malaysia
 
-Status pasaran: dipasarkan. Terdapat 1 lesen, dan kesemuanya sah. Butiran lesen (nombor kelulusan, bentuk dos) tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.
+Status pasaran: dipasarkan. Terdapat 1 lesen, dan kesemuanya sah.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20172696AEZ | Sunoquine Tablet 100mg | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-amodiaquine-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran lesen (nombor kelulusan, bentuk dos) tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-amodiaquine-1 -->
 
 ---
 
@@ -103,6 +117,19 @@ Ramalan hipertensi pulmonari hanya disokong oleh skor model (Tahap L5), tanpa uj
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA
 - Penilaian keselamatan sebelum sebarang kajian klinikal, termasuk risiko hepatotoksisiti dan agranulositosis yang perlu disahkan melalui sisipan pakej rasmi
 - Penilaian kesesuaian laluan pentadbiran dan bentuk dos
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: "Butiran lesen (nombor kelulusan, bentuk dos) tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

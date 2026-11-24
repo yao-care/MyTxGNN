@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clavulanic Acid"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urogenital tuberculosis", "celiac trunk compression syndrome", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "lymph node palisaded myofibroblastoma", "disease of uterine broad ligament"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Clavulanic Acid: indikasi baharu diramal Uretritis Ureaplasma (Ureaplasma urethritis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 20 (sah: 20)"
 ---
 
@@ -78,6 +78,20 @@ Tiada satu pun kajian di atas mengkaji asid klavulanik untuk uretritis Ureaplasm
 ## Maklumat Pasaran Malaysia
 
 Kesemua 20 lesen yang direkodkan ialah produk gabungan (kebanyakannya amoksisilin dengan asid klavulanik) dan semuanya sah. Lesen gabungan tidak menggambarkan status kelulusan bahan tunggal. Senarai lesen dijana oleh program.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07122779AZ | Moxiclav 1G F.C Tablets | Kombinasi | KOMEDIC SDN BHD | Sah |
+| MAL07124630AZ | Clamentin Film Coated Tablet 625mg. | Kombinasi | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL08091407AZ | KOACT TABLET 375 MG | Kombinasi | UNIMED SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL09032000AZ | Clamentin powder for syrup 31.25mg/ml | Kombinasi | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL09042415AZ | Remedica Co-Amoxiclav 375mg F.C. Tablet | Kombinasi | EUCOGEN SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 20 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

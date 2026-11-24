@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DESMOPRESSIN"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
 description: "Desmopressin: indikasi baharu diramal Congenital prothrombin deficiency (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 9 (sah: 7)"
@@ -93,6 +93,20 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19890565ARZ | MINIRIN INJECTION 4MCG/ML | Bahan tunggal | Ferring Sdn. Bhd. | Sah |
+| MAL19950096AZ | MINIRIN TABLET 0.1MG | Bahan tunggal | Ferring Sdn. Bhd. | Sah |
+| MAL19950097AZ | MINIRIN TABLET 0.2MG | Bahan tunggal | Ferring Sdn. Bhd. | Sah |
+| MAL20116002ACRZ | Nocdurna Oral Lyophilisate for Sublingual 25 mcg | Bahan tunggal | Ferring Sdn. Bhd. | Sah |
+| MAL20116003ACRZ | Nocdurna Oral Lyophilisate for Sublingual 50 mcg | Bahan tunggal | Ferring Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 9 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

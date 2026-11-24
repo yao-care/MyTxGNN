@@ -70,6 +70,20 @@ Satu-satunya sokongan ialah skor ramalan model TxGNN (pembelajaran mendalam) TxG
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06021257X | Dofomin 500mg Tablet | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL07031274X | Homecare Davmorid Film Coated Tablet | Kombinasi | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL18016141X | AVEFLON TABLET | Kombinasi | APEX PHARMACY MARKETING SDN. BHD. | Sah |
+| MAL18116050X | Daflon 1000mg Film-Coated Tablet | Kombinasi | SERVIER MALAYSIA SDN. BHD. | Sah |
+| MAL19056016X | Hemo Rid CT Tablet | Kombinasi | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 22 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

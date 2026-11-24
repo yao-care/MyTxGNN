@@ -77,6 +77,20 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09072751X | GNC MEN"S MEGA MEN ACTIVE TABLET | Kombinasi | GNC LIVEWELL MALAYSIA SDN. BHD. | Sah |
+| MAL11070005ARZ | Aminoven Infant 10% w/v | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11080004ARZ | SmofKabiven Peripheral (Emulsion for Infusion) | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11090002ARZ | SmofKabiven, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11090008ARZ | SmofKabiven Electrolyte Free, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 49 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ## Pertimbangan Keselamatan
 
 Sila rujuk risalah pakej untuk maklumat keselamatan. Tiada data interaksi ubat dijumpai dalam data yang dikumpulkan.

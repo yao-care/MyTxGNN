@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "BACLOFEN"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Baclofen: indikasi baharu diramal Gangguan Hiperaktiviti Kekurangan Perhatian (attention deficit-hyperactivity disorder) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
@@ -79,7 +79,27 @@ Tiada satu pun daripada kajian berikut menilai baclofen dalam ADHD secara langsu
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan menunjukkan baclofen berstatus dipasarkan di Malaysia dengan 6 lesen sah. Butiran lesen individu tidak tersedia untuk disenaraikan.
+Data yang dikumpulkan menunjukkan baclofen berstatus dipasarkan di Malaysia dengan 6 lesen sah.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07021433AZ | Liobac Tablet 10mg | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL20000748ARZ | LIORESAL 10MG TABLET | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL20002272AZ | MUSAFEN TABLET 10MG | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL20046064ARZ | Baclofen Intrathecal Sintetica 0.05mg/ml Solution Injectable | Bahan tunggal | Intega Sdn. Bhd. | Sah |
+| MAL20046065ARZ | Baclofen Intrathecal Sintetica 0.5mg/ml Solution Injectable | Bahan tunggal | Intega Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-baclofen-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran lesen individu tidak tersedia untuk disenaraikan." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-baclofen-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -106,11 +126,12 @@ Walaupun skor TxGNN sangat tinggi (0,9932), tiada ujian klinikal dan tiada kajia
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2) |
+| 2026-11-24 | Dipadam: "Butiran lesen individu tidak tersedia untuk disenaraikan." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

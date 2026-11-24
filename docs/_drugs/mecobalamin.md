@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 487
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 monitor_inn: "MECOBALAMIN"
 predicted_indications: ["sclerosing cholangitis", "multiple endocrine neoplasia", "bone Paget disease"]
 description: "Mecobalamin: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 17 (sah: 17)"
@@ -71,6 +71,19 @@ Dua ramalan lain turut direkodkan, juga pada tahap L5 dan berstatus Hold:
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06071098XR | Mecobal Tablet 500mcg | Bahan tunggal | GoodScience Sdn. Bhd. | Sah |
+| MAL06071119X | Live-well MECOMIN Capsule | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL07050936X | Mecobamin Coated Tablet 500 mcg | Bahan tunggal | NOVA LABORATORIES SDN. BHD. | Sah |
+| MAL07061578X | N-cobal 0.5mg film-coated tablet | Bahan tunggal | AV MANUFACTURING SDN.BHD | Sah |
+| MAL09032033XC | Vecobal 500mcg Tablet | Bahan tunggal | ELDON HEALTHCARE SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 17 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

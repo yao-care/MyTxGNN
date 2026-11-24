@@ -95,7 +95,13 @@ Pada masa ini tiada kesusasteraan berkaitan tersedia — tiada indikasi yang dir
 
 <!-- licenses:end -->
 
-> **Nota:** Pertanyaan NPRA (Query Log ID 1, dilaksanakan 2026-03-27) mengesahkan 1 lesen aktif dan `market_status: Marketed` (Dipasarkan). Bagaimanapun, semua medan butiran lesen — nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan — adalah kosong dalam Evidence Pack semasa. Butiran lesen lengkap harus diambil terus daripada pangkalan data pendaftaran produk NPRA.
+<!-- review:begin my-lic-20261124b-alemtuzumab-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Bagaimanapun, semua medan butiran lesen — nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan — adalah kosong dalam Evidence Pack semasa." Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-alemtuzumab-1 -->
+
+> **Nota:** Pertanyaan NPRA (Query Log ID 1, dilaksanakan 2026-03-27) mengesahkan 1 lesen aktif dan `market_status: Marketed` (Dipasarkan). Butiran lesen lengkap harus diambil terus daripada pangkalan data pendaftaran produk NPRA.
 
 ---
 
@@ -139,6 +145,18 @@ Tiada indikasi yang diramalkan oleh TxGNN dikembalikan untuk Alemtuzumab, dan du
 ---
 
 > ⚠️ *Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Semua calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: "Bagaimanapun, semua medan butiran lesen — nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan — adalah kosong dalam Evidence Pack semasa." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

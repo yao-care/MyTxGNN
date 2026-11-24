@@ -93,6 +93,20 @@ Tiada satu pun yang menunjukkan rivaroxaban merawat artritis reumatoid.
 
 ## Maklumat Pasaran di Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11115001AZ | Xarelto 20 mg film-coated tablet | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
+| MAL11115002AZ | Xarelto 15 mg film-coated tablet | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
+| MAL20046076AZ | Xarelto 2.5mg Film-Coated Tablets | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
+| MAL20091883AZ | XARELTO FILM-COATED TABLETS 10MG | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
+| MAL21046030ARZ | RIVAXORED (Rivaroxaban Tablets 10mg) | Bahan tunggal | GoodScience Sdn. Bhd. | Sah (pendaftaran bersyarat) |
+
+Jadual di atas menyenaraikan 5 daripada 50 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

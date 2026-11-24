@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 367
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "flupentixol"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "myopia X-linked", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
 description: "Flupentixol: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies) (tahap bukti L5). Indikasi asal: Tidak direkodkan…"
@@ -72,6 +72,14 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18086153AZ | Fluanxol 0.5mg film-coated tablets | Bahan tunggal | Lundbeck Malaysia Sdn. Bhd. | Sah |
+| MAL19890545AZ | FLUANXOL DEPOT INJ 20MG/ML (1ML) | Bahan tunggal | Lundbeck Malaysia Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

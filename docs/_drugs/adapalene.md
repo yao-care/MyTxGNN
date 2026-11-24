@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ADAPALENE"
 predicted_indications: ["zinc, elevated plasma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adapalene: indikasi baharu diramal Zink plasma meningkat (zinc, elevated plasma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
 ---
 
@@ -70,7 +70,25 @@ Buat masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Menurut data yang dikumpulkan untuk laporan ini, drug ini berstatus dipasarkan di Malaysia dan mempunyai 5 lesen yang sah. Butiran lesen individu tidak tersedia dalam data ini.
+Menurut data yang dikumpulkan untuk laporan ini, drug ini berstatus dipasarkan di Malaysia dan mempunyai 5 lesen yang sah.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL04103438ARZ | Differin Cream 0.1% | Bahan tunggal | Galderma Malaysia Sdn Bhd | Sah |
+| MAL09122819AZ | T3 Ada Gel 0.1% | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL10120013AZ | Deriva MS Aqueous Gel 0.1% w/w | Bahan tunggal | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. | Sah |
+| MAL20001212ARZ | DIFFERIN GEL 0.1% | Bahan tunggal | Galderma Malaysia Sdn Bhd | Sah |
+| MAL20102080ARZ | EPIDUO 0.1%/ 2.5% GEL | Kombinasi | Galderma Malaysia Sdn Bhd | Sah |
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-adapalene-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran lesen individu tidak tersedia dalam data ini." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-adapalene-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -95,11 +113,12 @@ Tiada kajian yang mengkaji zink plasma meningkat secara langsung, tiada hubungan
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Differin (adapalene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec) |
+| 2026-11-24 | Dipadam: "Butiran lesen individu tidak tersedia dalam data ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

@@ -62,7 +62,7 @@ Disyorkan untuk melengkapkan data dan melaksanakan semula proses ramalan, kemudi
 
 ## Maklumat Pasaran Malaysia
 
-Pertanyaan NPRA mengembalikan 1 pendaftaran Dipasarkan, tetapi Evidence Pack ini belum mendapatkan medan pendaftaran terperinci (nama produk, bentuk dos, indikasi yang diluluskan, dll.).
+Pertanyaan NPRA mengembalikan 1 pendaftaran Dipasarkan.
 
 <!-- licenses:begin -->
 
@@ -72,7 +72,19 @@ Pertanyaan NPRA mengembalikan 1 pendaftaran Dipasarkan, tetapi Evidence Pack ini
 
 <!-- licenses:end -->
 
-> **Langkah Pemulihan**: Melalui antara muka pertanyaan rasmi NPRA, dapatkan maklumat produk lengkap menggunakan nombor pendaftaran dan isikan jadual di atas.
+<!-- review:begin my-lic-20261124b-atovaquone-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: ", tetapi Evidence Pack ini belum mendapatkan medan pendaftaran terperinci (nama produk, bentuk dos, indikasi yang diluluskan, dll.)." Dibetulkan: bahagian ayat ini yang menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong) dipadam, kerana jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-atovaquone-1 -->
+
+<!-- review:begin my-lic-20261124b-atovaquone-2 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "dan isikan jadual di atas." Dibetulkan: premis bahawa nombor pendaftaran dan nama produk belum tersedia telah dipadam (kini disenaraikan dalam jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA, data.gov.my); cadangan tindakan lain tidak diubah. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-atovaquone-2 -->
+
+> **Langkah Pemulihan**: Melalui antara muka pertanyaan rasmi NPRA, dapatkan maklumat produk lengkap menggunakan nombor pendaftaran.
 
 ---
 
@@ -102,6 +114,19 @@ Evidence Pack Atovaquone ini mempunyai beberapa jurang kritis — hasil ramalan 
 ---
 
 > ⚠️ **Penafian YMYL**: Hasil laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak merupakan sebarang nasihat perubatan. Ubat calon penggunaan semula ubat mesti melalui pengesahan klinikal rasmi sebelum dapat digunakan dalam keputusan penjagaan kesihatan sebenarnya.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: ", tetapi Evidence Pack ini belum mendapatkan medan pendaftaran terperinci (nama produk, bentuk dos, indikasi yang diluluskan, dll.)." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-24 | Dipadam: "dan isikan jadual di atas." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

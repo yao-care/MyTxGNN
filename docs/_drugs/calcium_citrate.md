@@ -86,6 +86,20 @@ Pada masa ini tiada literatur berkaitan untuk hemoglobinopati.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL04125493X | GNC Teens Mega Teen | Kombinasi | GNC LIVEWELL MALAYSIA SDN. BHD. | Sah |
+| MAL06021228X | GNC Men"s Mega Men Tablet | Kombinasi | GNC LIVEWELL MALAYSIA SDN. BHD. | Sah |
+| MAL06021229X | GNC Multivitamin Mega Women Tablet | Kombinasi | GNC LIVEWELL MALAYSIA SDN. BHD. | Sah |
+| MAL06061542X | Milical Tablet | Kombinasi | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. | Sah |
+| MAL06071111X | Live-well OSTECAL PLUS Tablet | Kombinasi | PAHANG PHARMACY SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 52 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

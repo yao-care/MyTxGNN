@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "CITRIC ACID"
 predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Citric Acid: indikasi baharu diramal Penyakit perut (stomach disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 29 (sah: 29)"
 ---
 
@@ -81,6 +81,20 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 ## Maklumat Pasaran Malaysia
 
 Data yang dikumpulkan menunjukkan status pasaran **dipasarkan**, dengan 29 lesen sah. Senarai terperinci lesen dijana oleh program tapak.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19940179XC | U-ALKALIZER POTASSIUM CITRATE MIXTURE | Bahan tunggal | TERAPUTICS SDN BHD | Sah |
+| MAL19972539X | Prime's Mixture Potassium Citrate | Bahan tunggal | PRIME PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL05041881XR | ENO FRUIT SALT GINGER | Kombinasi | Haleon Malaysia Sdn. Bhd. | Sah |
+| MAL05072037XCR | Ural Effervescent Granules | Kombinasi | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+| MAL05072133T | GNC Natural Brand Apple Cider with Cayenne, Ginger and Garcina Gambogia Tablet | Kombinasi | GNC LIVEWELL MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 29 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

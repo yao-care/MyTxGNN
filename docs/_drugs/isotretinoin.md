@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 435
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ISOTRETINOIN"
 predicted_indications: ["malignant hypertensive renal disease"]
 description: "Isotretinoin: indikasi baharu diramal Penyakit renal hipertensi malignan (malignant hypertensive renal disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 8 (sah: 8)"
@@ -82,6 +82,20 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06021192AZ | Acnotin 10mg Capsule | Bahan tunggal | MEGA LIFESCIENCES SDN. BHD. | Sah |
+| MAL06021200AZ | Acnotin 20mg Capsule | Bahan tunggal | MEGA LIFESCIENCES SDN. BHD. | Sah |
+| MAL15085073ACZ | Oratane 5mg Capsule | Bahan tunggal | SCHMIDT BIOMEDTECH SDN. BHD. | Sah |
+| MAL19991720ACRZ | ROACCUTANE CAPSULE 10MG | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL19991721ACRZ | ROACCUTANE CAPSULE 20MG | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

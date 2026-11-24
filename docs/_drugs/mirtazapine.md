@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 508
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MIRTAZAPINE"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
 description: "Mirtazapine: indikasi baharu diramal Sindrom Ohdo dan variannya (Ohdo syndrome and variants) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 12 (sah: 12)"
@@ -85,6 +85,20 @@ Pada masa ini tiada literatur berkaitan tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL14015018ACRZ | REMERON SOLTAB 15MG | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+| MAL14015019ACRZ | REMERON SOLTAB 30MG | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+| MAL17075013AZ | MENELAT 30 MG TABLETS | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL17075015AZ | MENELAT 45 MG TABLETS | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL18086119AZ | AUROZAPINE 15 (Mirtazapine Tablets 15 mg) | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 12 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

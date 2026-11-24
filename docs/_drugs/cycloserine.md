@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 246
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "CYCLOSERINE"
 predicted_indications: ["irritable bowel syndrome", "acne (disease)", "gastroparesis (disease)", "conjunctivitis", "insomnia (disease)", "pharyngitis", "nasal cavity disease"]
 description: "Cycloserine: indikasi baharu diramal Sindrom usus besar terangsang (irritable bowel syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -78,6 +78,14 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06091379AZ | Coxerin ( Cycloserine Capsules USP 250mg) | Bahan tunggal | ZULAT PHARMACY SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

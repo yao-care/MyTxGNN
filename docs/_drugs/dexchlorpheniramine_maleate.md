@@ -69,6 +69,20 @@ Skor yang tinggi datang daripada model TxGNN (pembelajaran mendalam) dan mungkin
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06051328AZ | ANPRODEX TABLETS 2 MG | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL08042472AZ | Dexmin Syrup 2mg/5ml | Bahan tunggal | STERILINE SDN. BHD. | Sah |
+| MAL19860103AZ | DEXCHLORAMINE TABLET 2MG | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL19860104AZ | Dexchloramine Syrup 2mg/5mL | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL19861206AZ | POLARAX SYRUP 2MG/5ML | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 18 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

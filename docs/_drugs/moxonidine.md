@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 515
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MOXONIDINE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "primary hereditary glaucoma"]
 description: "Moxonidine: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
@@ -73,6 +73,16 @@ Pada masa ini tiada literatur berkaitan tersedia untuk hipotrikosis simpleks kul
 (Untuk rujukan: bagi ramalan alopesia (kedudukan 4), satu laporan kes [PMID 40007390](https://pubmed.ncbi.nlm.nih.gov/40007390/) mengenai sindrom Graham-Little-Piccardi-Lasseur diperoleh, tetapi ia tidak mengkaji moxonidine dan tidak dianggap sebagai bukti sokongan.)
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20033335ACZ | PHYSIOTENS 0.2MG TABLET | Bahan tunggal | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+| MAL20033336ACZ | PHYSIOTENS 0.3MG TABLET | Bahan tunggal | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+| MAL20033337ACZ | PHYSIOTENS 0.4MG TABLET | Bahan tunggal | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

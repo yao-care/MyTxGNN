@@ -76,13 +76,33 @@ Namun, laporan kes yang ada bercanggah dengan hipotesis ini: satu melaporkan mig
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **dipasarkan**, dengan lesen yang sah (bilangan semasa dalam Gambaran Ringkas); 2 nombor pendaftaran lama (MAL23056021AZ, MAL23056022AZ) tidak lagi tersenarai kerana produk yang sama kini berdaftar sebagai MAL23056021ARZ dan MAL23056022ARZ. Butiran setiap lesen tidak disenaraikan dalam data yang ada.
+Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **dipasarkan**, dengan lesen yang sah (bilangan semasa dalam Gambaran Ringkas); 2 nombor pendaftaran lama (MAL23056021AZ, MAL23056022AZ) tidak lagi tersenarai kerana produk yang sama kini berdaftar sebagai MAL23056021ARZ dan MAL23056022ARZ.
 
 <!-- review:begin my-lic-20261112-apixaban-1 -->
 
 > **Pembetulan semakan (2026-11-17)**: Asalnya dinyatakan: "dengan 25 lesen sah dan tiada lesen dibatalkan" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): 32 rekod pendaftaran, 30 sah; MAL23056021AZ dan MAL23056022AZ tiada dalam daftar semasa mahupun senarai pembatalan, dan produk yang sama (GENEXIBAN) kini disenaraikan sebagai MAL23056021ARZ dan MAL23056022ARZ. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled).
 
 <!-- review:end my-lic-20261112-apixaban-1 -->
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13085062ARZ | Eliquis 2.5mg film-coated tablets | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL13085063ARZ | Eliquis 5mg film-coated tablets | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL23046037AZ | Apexib 2.5mg Film Coated Tablets | Bahan tunggal | NOVUGEN PHARMA SDN. BHD. | Sah |
+| MAL23046038AZ | Apexib 5mg Film Coated Tablets | Bahan tunggal | NOVUGEN PHARMA SDN. BHD. | Sah |
+| MAL23056021ARZ | GENEXIBAN (Apixaban Film-Coated Tablets 2.5mg) | Bahan tunggal | GoodScience Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 32 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-apixaban-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran setiap lesen tidak disenaraikan dalam data yang ada." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-apixaban-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -117,6 +137,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 |------|------|------|------|
 | 2026-11-17 | Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan lesen yang sah (bilangan semasa dalam Gambaran Ringkas); 2 nomb” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Eliquis (apixaban) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41a133ef-e461-48ad-8221-b735bdd0ec25) |
+| 2026-11-24 | Dipadam: "Butiran setiap lesen tidak disenaraikan dalam data yang ada." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

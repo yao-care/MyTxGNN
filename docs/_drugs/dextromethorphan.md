@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 275
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DEXTROMETHORPHAN"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria"]
 description: "Dextromethorphan: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 45 (sah: 45)"
@@ -77,6 +77,20 @@ Analisis menunjukkan skor yang tinggi (0.9998) datang daripada model TxGNN (deep
 ---
 
 ## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06021205AZ | Dexfen Syrup | Bahan tunggal | STERILINE SDN. BHD. | Sah |
+| MAL19870806AZ | DEXCOPHAN PAEDIATRIC LINCTUS 5.5MG* | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL19890367AZ | PRIME'S DEXTROMETHORPHAN SYRUP 15MG/5ML | Bahan tunggal | PRIME PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19900381AZ | SUNTHORPHAN SYRUP 15MG/5ML | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19910024AZ | TUSSIDEX FORTE LINCTUS | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 45 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

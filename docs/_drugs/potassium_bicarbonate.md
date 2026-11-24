@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 591
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "POTASSIUM BICARBONATE"
 predicted_indications: ["gastroduodenitis"]
 description: "Potassium Bicarbonate: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 4)"
@@ -81,6 +81,18 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05121192XR | Gaviscon Advance - Peppermint Flavour | Kombinasi | RB (HEALTH) MALAYSIA SDN BHD | Sah (pendaftaran bersyarat) |
+| MAL15095029X | Gascovid Advance Liquid | Kombinasi | HOVID BERHAD | Sah |
+| MAL25046041XC | Remeco PEPTICON Advance Oral Suspension | Kombinasi | Abio Marketing Sdn Bhd | Sah |
+| MAL25116058X | Nova Gastrix Suspension | Kombinasi | NOVA LABORATORIES SDN. BHD. | Sah |
+| MAL05121192X | Gaviscon Advance - Peppermint Flavour | Kombinasi | RB (HEALTH) MALAYSIA SDN BHD | Nombor pendaftaran lama; produk yang sama kini didaftarkan sebagai MAL05121192XR |
+
+<!-- licenses:end -->
 
 ---
 

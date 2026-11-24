@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 721
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "VELPATASVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Velpatasvir: indikasi baharu diramal Jangkitan virus hepatitis B (hepatitis B virus infection) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -98,6 +98,15 @@ Tiada satu pun daripada penerbitan ini menunjukkan keberkesanan velpatasvir terh
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18046002AZ | Epclusa (sofosbuvir 400mg/ velpatasvir 100mg) Film-Coated Tablets | Kombinasi | Gilead Sciences Malaysia Sdn. Bhd. | Sah |
+| MAL20096010AZ | MyHep ALL (Sofosbuvir and Velpatasvir Film Coated Tablets 400mg/100mg) | Kombinasi | MYLAN HEALTHCARE SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

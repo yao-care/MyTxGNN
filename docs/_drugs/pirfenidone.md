@@ -78,6 +78,16 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk extracutaneous masto
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24036008ACRZ | Esbriet 801mg Film-Coated Tablets | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL24036009ACRZ | Esbriet 267mg Film-Coated Tablets | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL16115027ACRZ | ESBRIET HARD CAPSULES 267MG | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |
+
+<!-- licenses:end -->
+
 ## Pertimbangan Keselamatan
 
 - **Interaksi Ubat**: Pertanyaan interaksi ubat telah selesai dengan 100 interaksi direkodkan. Contoh interaksi tahap sederhana (Moderate) termasuk: bupropion, omeprazole, cimetidine, eliglustat, obeticholic acid, oxandrolone, naltrexone, lansoprazole, miconazole, nitisinone, esomeprazole, glycerol phenylbutyrate, rolapitant, deferasirox, ticlopidine, lumefantrine, disulfiram, primaquine, thiabendazole dan ivacaftor.

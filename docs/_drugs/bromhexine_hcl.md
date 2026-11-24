@@ -96,7 +96,11 @@ Jadual di atas menyenaraikan 1 daripada 38 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 
-> **Nota:** Walaupun 37 pendaftaran NPRA telah diambil untuk Bromheksina HCL, butiran lesen individu (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diisi dalam pakej bukti. Pertanyaan susulan ke pangkalan data NPRA diperlukan untuk melengkapkan bahagian ini.
+<!-- review:begin my-lic-20261124b-bromhexine_hcl-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "**Nota:** Walaupun 37 pendaftaran NPRA telah diambil untuk Bromheksina HCL, butiran lesen individu (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diisi dalam pakej bukti. Pertanyaan susulan ke pangkalan data NPRA diperlukan untuk melengkapkan bahagian ini." Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-bromhexine_hcl-1 -->
 
 ---
 
@@ -129,6 +133,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-12 | Bilangan pendaftaran: “Dengan **37 pendaftaran** di Malaysia” → “Dengan **pendaftaran NPRA yang sah** di Malaysia (bilangan semasa dala” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-24 | Dipadam: "**Nota:** Walaupun 37 pendaftaran NPRA telah diambil untuk Bromheksina HCL, butiran lesen individu (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diisi dalam pakej bukti. Pertanyaan susulan ke pangkalan data NPRA diperlukan untuk melengkapkan bahagian ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

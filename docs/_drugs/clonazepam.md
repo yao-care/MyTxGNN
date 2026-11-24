@@ -91,6 +91,17 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19860961ACRZ | RIVOTRIL TABLET 0.5MG | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL19860962ACRZ | RIVOTRIL TABLET 2MG | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL19950145AZ | RIVOPAM TABLET 0.5MG | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL19950146AZ | RIVOPAM TABLET 2MG | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Kecytotoksikan

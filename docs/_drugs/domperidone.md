@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 305
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DOMPERIDONE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Domperidone: indikasi baharu diramal Sindrom antidiuresis tidak wajar nefrogenik (nephrogenic syndrome of inappropriate antidiuresis) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data temp…"
@@ -79,6 +79,20 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06011683AZ | Motidom Oral Suspension 1mg/ml | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL06091404AZ | RABUGEN 5 mg/ 5 mL Suspension | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL10120032AZ | Motigut Suspension 1mg/ml | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL12070005AZ | Hovid Smood-10 Tablet | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL19872254AZ | MOTILIUM TABLET 10MG | Bahan tunggal | JNTL (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 17 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

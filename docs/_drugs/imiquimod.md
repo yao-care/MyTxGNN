@@ -95,6 +95,15 @@ Perlu diingat bahawa percubaan Fasa 3 adalah kecil (n=20 dan n=9, yang kedua dit
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19126023AZ | Imiquad Cream (Imiquimod Cream USP 5% w/w) | Bahan tunggal | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. | Sah |
+| MAL22036009ACZ | ALDARA CREAM 5% w/w | Bahan tunggal | iNova Pharmaceuticals (Singapore) Pte Ltd (incorporated In Singapore)… | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

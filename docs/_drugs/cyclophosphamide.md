@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 245
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "CYCLOPHOSPHAMIDE"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 description: "Cyclophosphamide: indikasi baharu diramal Anomali vertebra dan disfungsi endokrin serta sel T yang berubah-ubah (vertebral anomalies and variable endocrine and T-cell dysfunction) (tahap bukti L5)."
@@ -70,7 +70,21 @@ Setakat ini tiada literatur berkaitan untuk indikasi ini.
 
 ## Maklumat Pasaran Malaysia
 
-Cyclophosphamide berstatus **dipasarkan** di Malaysia, dan data menunjukkan 1 lesen yang sah serta tiada lesen yang dibatalkan. Butiran lesen (nombor kebenaran, nama produk, bentuk dos dan teks indikasi) tidak tersedia dalam data yang dikumpulkan, maka tiada jadual lesen dipaparkan.
+Cyclophosphamide berstatus **dipasarkan** di Malaysia, dan data menunjukkan 1 lesen yang sah serta tiada lesen yang dibatalkan. Teks indikasi tidak tersedia dalam data yang dikumpulkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19890356AZ | ENDOXAN INJ 1GM (50ML VIAL) | Bahan tunggal | BAXTER HEALTHCARE (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-cyclophosphamide-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran lesen (nombor kebenaran, nama produk, bentuk dos dan teks indikasi) tidak tersedia dalam data yang dikumpulkan, maka tiada jadual lesen dipaparkan." Dibetulkan: bahagian ayat ini yang menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan dipadam, kerana bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-cyclophosphamide-1 -->
 
 ## Sitotoksisiti
 
@@ -119,11 +133,12 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek.
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Frindovyx (cyclophosphamide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ad8ea65-4c98-487a-9c8d-df778765ec5e) |
+| 2026-11-24 | Dibetulkan: "Butiran lesen (nombor kebenaran, nama produk, bentuk dos dan teks indikasi) tidak tersedia dalam data yang dikumpulkan, maka tiada jadual lesen dipaparkan." → "Teks indikasi tidak tersedia dalam data yang dikumpulkan." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

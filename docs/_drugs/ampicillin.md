@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "AMPICILLIN"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ampicillin: indikasi baharu diramal Laringitis (laryngitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 18 (sah: 18)"
 ---
 
@@ -95,7 +95,27 @@ Di bawah ialah penerbitan terpilih (kebanyakannya tinjauan atau laporan kes; tia
 
 ## Maklumat Pasaran di Malaysia
 
-Data tempatan merekodkan 18 lesen yang sah dan tiada lesen dibatalkan. Senarai lesen terperinci tidak disertakan dalam data yang dikumpulkan untuk laporan ini.
+Data tempatan merekodkan 18 lesen yang sah dan tiada lesen dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07061439AZ | KAMPIBIOTIC 500 Injection | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL13010004HAC | AMPIVET 50% Water Soluble Powder | Bahan tunggal | Lim Seng Pharmachem Sdn Bhd | Sah |
+| MAL19860005AZ | AMILLIN CAPSULES 250MG | Bahan tunggal | INSPIRAPHARMA SDN. BHD. | Sah |
+| MAL19860391AZ | PAMECIL CAPSULE 250MG | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL19860396AZ | PAMECIL CAPSULE 500MG | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 18 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-ampicillin-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Senarai lesen terperinci tidak disertakan dalam data yang dikumpulkan untuk laporan ini." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-ampicillin-1 -->
 
 ---
 
@@ -124,11 +144,12 @@ Untuk maklumat amaran dan kontraindikasi, sila rujuk sisipan pek produk.
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1) |
+| 2026-11-24 | Dipadam: "Senarai lesen terperinci tidak disertakan dalam data yang dikumpulkan untuk laporan ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

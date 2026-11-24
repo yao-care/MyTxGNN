@@ -80,7 +80,11 @@ Jadual di atas menyenaraikan 1 daripada 6 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 
-> **Nota:** 6 lesen dilaporkan sebagai terdaftar, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan indikasi penggunaan yang diluluskan) tidak tersedia dalam dataset semasa. Daftar NPRA harus diminta semula untuk mengisi bidang-bidang ini.
+<!-- review:begin my-lic-20261124b-brexpiprazole-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "**Nota:** 6 lesen dilaporkan sebagai terdaftar, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan indikasi penggunaan yang diluluskan) tidak tersedia dalam dataset semasa. Daftar NPRA harus diminta semula untuk mengisi bidang-bidang ini." Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-brexpiprazole-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -106,6 +110,18 @@ Tiada ramalan indikasi penggunaan TxGNN tersedia untuk Brexpiprazole, dan jurang
 ---
 
 *Laporan ini untuk tujuan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: "**Nota:** 6 lesen dilaporkan sebagai terdaftar, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan indikasi penggunaan yang diluluskan) tidak tersedia dalam dataset semasa. Daftar NPRA harus diminta semula untuk mengisi bidang-bidang ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

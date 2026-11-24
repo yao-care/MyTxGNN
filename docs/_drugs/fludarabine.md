@@ -111,6 +111,15 @@ Berikut ialah 10 percubaan yang paling relevan (daripada 30 yang direkodkan). Fl
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16015069AZ | Fludarabine Kabi 50mg Lyophilized Powder for Solution for Injection or Infusion | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL17085063ACZ | Fludarabine Sandoz 50 mg/2ml concentrate for solution for injection or infusion | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Sitotoksisiti

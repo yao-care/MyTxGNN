@@ -40,8 +40,8 @@
     "i": "Gangguan Hiperaktiviti Kurang Perhatian",
     "lt": 2,
     "lv": 2,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
     "x": 0
    },
    {
@@ -51,8 +51,8 @@
     "i": "Sindrom mielodisplastik",
     "lt": 2,
     "lv": 2,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dibetulkan: \"Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data…",
     "x": 0
    },
    {
@@ -62,8 +62,8 @@
     "i": "leukemia mieloid",
     "lt": 1,
     "lv": 1,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang…",
     "x": 0
    },
    {
@@ -161,8 +161,8 @@
     "i": "Mania gangguan afektif bipolar",
     "lt": 9,
     "lv": 9,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang…",
     "x": 0
    },
    {
@@ -460,7 +460,7 @@
   "with_current": 48,
   "none_current": 0,
   "without_data": 0,
-  "with_reviews": 36,
+  "with_reviews": 37,
   "rows": [
    {
     "t": "Acitretin",
@@ -491,8 +491,8 @@
     "i": "Keratosis seboroik",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Dipadam: \"Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang…",
     "x": 0
    },
    {
@@ -656,8 +656,8 @@
     "i": "Liposarkoma",
     "lt": 2,
     "lv": 2,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan.\"",
     "x": 0
    },
    {
@@ -854,8 +854,8 @@
     "i": "Sindrom Kaki Resah",
     "lt": 2,
     "lv": 2,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
     "x": 0
    },
    {
@@ -975,8 +975,8 @@
     "i": "Rabdomiosarkoma",
     "lt": 1,
     "lv": 1,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang…",
     "x": 0
    },
    {
@@ -1009,7 +1009,7 @@
   "with_current": 520,
   "none_current": 3,
   "without_data": 0,
-  "with_reviews": 442,
+  "with_reviews": 447,
   "rows": [
    {
     "t": "Ascorbic Acid",
@@ -1018,8 +1018,8 @@
     "i": "Malformasi esofagus tidak sindromik",
     "lt": 1245,
     "lv": 1199,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran setiap pendaftaran (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam…",
     "x": 0
    },
    {
@@ -1184,7 +1184,7 @@
     "lt": 138,
     "lv": 121,
     "r": 1,
-    "rs": "Dipadam: \"Data yang dikumpulkan menunjukkan 138 lesen sah dan tiada lesen dibatalkan\"",
+    "rs": "Dipadam: \"Data yang dikumpulkan menunjukkan 138 lesen sah dan tiada lesen dibatalkan. Senarai terperinci…",
     "x": 0
    },
    {
@@ -1679,7 +1679,7 @@
     "lt": 36,
     "lv": 33,
     "r": 1,
-    "rs": "Dipadam: \"Sebanyak 36 lesen sah dan tiada lesen dibatalkan\"",
+    "rs": "Dipadam: \"Sebanyak 36 lesen sah dan tiada lesen dibatalkan. Senarai lesen terperinci tidak tersedia dalam…",
     "x": 0
    },
    {
@@ -1744,8 +1744,8 @@
     "i": "Migrain",
     "lt": 32,
     "lv": 30,
-    "r": 2,
-    "rs": "Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan lesen yang sah (bilangan…",
+    "r": 3,
+    "rs": "Dipadam: \"Butiran setiap lesen tidak disenaraikan dalam data yang ada.\"",
     "x": 0
    },
    {
@@ -2118,8 +2118,8 @@
     "i": "Sindrom cauda equina",
     "lt": 20,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Dipadam: \"Butiran lesen individu tidak disenaraikan dalam data yang ada.\"",
     "x": 0
    },
    {
@@ -2239,8 +2239,8 @@
     "i": "Laringitis",
     "lt": 18,
     "lv": 18,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Senarai lesen terperinci tidak disertakan dalam data yang dikumpulkan untuk laporan ini.\"",
     "x": 0
    },
    {
@@ -2272,8 +2272,8 @@
     "i": "Malformasi pernafasan",
     "lt": 18,
     "lv": 18,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan.\"",
     "x": 0
    },
    {
@@ -2306,7 +2306,7 @@
     "lt": 20,
     "lv": 17,
     "r": 1,
-    "rs": "Dipadam: \"Levofloxacin berstatus dipasarkan di Malaysia, dengan 19 lesen sah dan tiada lesen yang dibatalkan\"",
+    "rs": "Dipadam: \"Levofloxacin berstatus dipasarkan di Malaysia, dengan 19 lesen sah dan tiada lesen yang dibatalkan.…",
     "x": 0
    },
    {
@@ -2712,8 +2712,8 @@
     "i": "Penyakit kawasan orbit",
     "lt": 12,
     "lv": 12,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan.\"",
     "x": 0
    },
    {
@@ -2778,8 +2778,8 @@
     "i": "Porfiria hepatik",
     "lt": 11,
     "lv": 11,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dihimpunkan.\"",
     "x": 0
    },
    {
@@ -2921,8 +2921,8 @@
     "i": "Demam paratifoid",
     "lt": 9,
     "lv": 9,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
     "x": 0
    },
    {
@@ -2932,8 +2932,8 @@
     "i": "Keratosis folikel songsang vulva",
     "lt": 9,
     "lv": 9,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
     "x": 0
    },
    {
@@ -2954,8 +2954,8 @@
     "i": "Sindrom antidiuresis tidak wajar nefrogenik",
     "lt": 10,
     "lv": 9,
-    "r": 2,
-    "rs": "Bilangan pendaftaran: “Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibata” → “Kesemua…",
+    "r": 3,
+    "rs": "Dibetulkan: \"dijana oleh program tapak dan tidak diulang di sini.\" → \"dijana oleh program tapak.\"",
     "x": 0
    },
    {
@@ -3009,8 +3009,8 @@
     "i": "esotropia",
     "lt": 8,
     "lv": 8,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.\"",
     "x": 0
    },
    {
@@ -3020,8 +3020,8 @@
     "i": "Sindrom antidiuresis tidak wajar nefrogenik",
     "lt": 8,
     "lv": 8,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak disenaraikan dalam data yang dihimpunkan.\"",
     "x": 0
    },
    {
@@ -3042,8 +3042,8 @@
     "i": "Kolangitis sklerosis",
     "lt": 9,
     "lv": 8,
-    "r": 1,
-    "rs": "Bilangan pendaftaran: “dengan 8 lesen yang sah dan tiada yang dibatalkan” → “dengan lesen yang sah (bilangan…",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data ini.\"",
     "x": 0
    },
    {
@@ -3174,8 +3174,8 @@
     "i": "Gangguan pasca-bakteria",
     "lt": 7,
     "lv": 7,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak disenaraikan dalam data tersebut.\"",
     "x": 0
    },
    {
@@ -3196,8 +3196,8 @@
     "i": "Vitamin D kekurangan lapuk",
     "lt": 7,
     "lv": 7,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
     "x": 0
    },
    {
@@ -3207,8 +3207,8 @@
     "i": "Malaria Plasmodium falciparum",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Dipadam: \"Maklumat ini bercanggah dengan penggunaan klinikal colchicine yang meluas, maka ia perlu disemak…",
     "x": 0
    },
    {
@@ -3416,8 +3416,8 @@
     "i": "Gangguan Hiperaktiviti Kekurangan Perhatian",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak tersedia untuk disenaraikan.\"",
     "x": 0
    },
    {
@@ -3427,8 +3427,8 @@
     "i": "Asidosis tubul renal",
     "lt": 6,
     "lv": 6,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang…",
     "x": 0
    },
    {
@@ -3669,8 +3669,8 @@
     "i": "Zink plasma meningkat",
     "lt": 5,
     "lv": 5,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data ini.\"",
     "x": 0
    },
    {
@@ -3680,8 +3680,8 @@
     "i": "Angina Prinzmetal",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Dipadam: \"Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
     "x": 0
    },
    {
@@ -3691,8 +3691,8 @@
     "i": "Ekzema atopik",
     "lt": 5,
     "lv": 5,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang…",
     "x": 0
    },
    {
@@ -3879,7 +3879,7 @@
     "lt": 6,
     "lv": 5,
     "r": 2,
-    "rs": "Dipadam: \"Status pasaran ialah dipasarkan, dengan 6 lesen sah dan tiada lesen dibatalkan\"",
+    "rs": "Dipadam: \"Status pasaran ialah dipasarkan, dengan 6 lesen sah dan tiada lesen dibatalkan. Butiran lesen…",
     "x": 0
    },
    {
@@ -3889,8 +3889,8 @@
     "i": "Liposarkoma",
     "lt": 5,
     "lv": 5,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
     "x": 0
    },
    {
@@ -3944,8 +3944,8 @@
     "i": "Penyakit von Willebrand palsu",
     "lt": 4,
     "lv": 4,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dibetulkan: \"dijana oleh program tapak dan tidak disenaraikan di sini.\" → \"dijana oleh program tapak.\"",
     "x": 0
    },
    {
@@ -3955,8 +3955,8 @@
     "i": "neuroblastoma",
     "lt": 4,
     "lv": 4,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak disenaraikan di sini.\"",
     "x": 0
    },
    {
@@ -3966,8 +3966,8 @@
     "i": "Angioedema didapati",
     "lt": 4,
     "lv": 4,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak disenaraikan di sini.\"",
     "x": 0
    },
    {
@@ -4252,8 +4252,8 @@
     "i": "demam panas malignan akibat senaman",
     "lt": 3,
     "lv": 3,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
     "x": 0
    },
    {
@@ -4274,8 +4274,8 @@
     "i": "Malformasi arteriovenus pulmonari",
     "lt": 3,
     "lv": 3,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
     "x": 0
    },
    {
@@ -4340,8 +4340,8 @@
     "i": "Fibromatosis gingiva",
     "lt": 3,
     "lv": 3,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran senarai lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data ini.\"",
     "x": 0
    },
    {
@@ -4549,8 +4549,8 @@
     "i": "autoimmune oophoritis",
     "lt": 3,
     "lv": 3,
-    "r": 1,
-    "rs": "Dipadam: \"memandangkan tiada lesen berdaftar\"",
+    "r": 2,
+    "rs": "Dipadam: \"Oleh itu, jadual pendaftaran tidak dipaparkan.\"",
     "x": 0
    },
    {
@@ -4879,8 +4879,8 @@
     "i": "Glaukoma keturunan primer",
     "lt": 2,
     "lv": 2,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
     "x": 0
    },
    {
@@ -4901,8 +4901,8 @@
     "i": "Sindrom mikroftalmia kolobomatus-displasia rizomelik",
     "lt": 2,
     "lv": 2,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan di sini.\"",
     "x": 0
    },
    {
@@ -4934,8 +4934,8 @@
     "i": "Migrain",
     "lt": 2,
     "lv": 2,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dihimpunkan untuk laporan ini.\"",
     "x": 0
    },
    {
@@ -4956,8 +4956,8 @@
     "i": "Artritis reumatoid",
     "lt": 2,
     "lv": 2,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.\"",
     "x": 0
    },
    {
@@ -4978,8 +4978,8 @@
     "i": "Sindrom seperti isotretinoin",
     "lt": 2,
     "lv": 2,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu (nombor kelulusan, produk, bentuk dos) tidak tersedia dalam data yang…",
     "x": 0
    },
    {
@@ -5418,8 +5418,8 @@
     "i": "Adenoma vilus sekum",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Dipadam: \"Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data ini.\"",
     "x": 0
    },
    {
@@ -5682,8 +5682,8 @@
     "i": "Hipertensi pulmonari",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Dipadam: \"Butiran lesen (nombor kelulusan, bentuk dos) tidak disenaraikan dalam data yang dikumpulkan untuk…",
     "x": 0
    },
    {
@@ -5704,8 +5704,8 @@
     "i": "Sindrom mielodisplastik tidak terklasifikasi",
     "lt": 1,
     "lv": 1,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dibetulkan: \"ditambah oleh program dan tidak disenaraikan di sini.\" → \"ditambah oleh program.\"",
     "x": 0
    },
    {
@@ -5726,8 +5726,8 @@
     "i": "Tumor berkaitan virus herpes manusia 8",
     "lt": 1,
     "lv": 1,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \", tetapi butiran lesen individu tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.\"",
     "x": 0
    },
    {
@@ -5770,8 +5770,8 @@
     "i": "Hipourisemia renal",
     "lt": 1,
     "lv": 1,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam laporan ini.\"",
     "x": 0
    },
    {
@@ -5858,8 +5858,8 @@
     "i": "Gangguan migrain",
     "lt": 1,
     "lv": 1,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data ini.\"",
     "x": 0
    },
    {
@@ -5891,8 +5891,8 @@
     "i": "Anomali vertebra dan disfungsi endokrin serta sel T yang berubah-ubah",
     "lt": 1,
     "lv": 1,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dibetulkan: \"Butiran lesen (nombor kebenaran, nama produk, bentuk dos dan teks indikasi) tidak tersedia dalam…",
     "x": 0
    },
    {
@@ -6254,8 +6254,8 @@
     "i": "Karsinoma pseudopapilari pepejal pankreas",
     "lt": 1,
     "lv": 1,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"; butiran produk tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
     "x": 0
    },
    {
@@ -6705,8 +6705,8 @@
     "i": "psychogenic movement disorders",
     "lt": 1,
     "lv": 1,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang…",
     "x": 0
    },
    {
@@ -6727,8 +6727,8 @@
     "i": "Sindrom Tourette",
     "lt": 1,
     "lv": 1,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Dipadam: \"Status ini perlu disahkan semula kerana ia mungkin tidak mencerminkan kelulusan serantau.\"",
     "x": 0
    },
    {

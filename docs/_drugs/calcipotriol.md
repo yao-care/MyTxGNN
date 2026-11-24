@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "CALCIPOTRIOL"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Calcipotriol: indikasi baharu diramal Keratosis seboroik (seborrheic keratosis) (tahap bukti L3). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
@@ -85,7 +85,27 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Data tempatan menunjukkan status **dipasarkan**, dengan 6 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Data tempatan menunjukkan status **dipasarkan**, dengan 6 lesen sah dan tiada lesen yang dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19921382AZ | DAIVONEX OINTMENT | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL10120015AZ | Xamiol Gel | Kombinasi | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL20026049AZ | Enstilar (Calcipotriol 50 mcg/g + Bethamethasone Dipropionate 0.5 mg/g) Cutaneous Foam | Kombinasi | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL20040816AZ | DAIVOBET OINTMENT | Kombinasi | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL22046016AZ | CALCIBET Ointment (Calcipotriol 50mcg/g and Betamethasone 0.5mg/g) | Kombinasi | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-calcipotriol-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-calcipotriol-1 -->
 
 ---
 
@@ -111,6 +131,19 @@ Data amaran utama dan kontraindikasi daripada sisipan pek tidak tersedia. Sila r
 - Percubaan terkawal rawak atau kajian prospektif yang lebih besar bagi keratosis seboroik
 - Butiran lesen tempatan (nombor kebenaran, produk, bentuk dos)
 - Penilaian keselamatan untuk penggunaan topikal jangka panjang (3–8 bulan), termasuk risiko kerengsaan kulit dan hiperkalsemia
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: "Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

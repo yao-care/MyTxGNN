@@ -60,8 +60,6 @@ Dua jurang data yang menghalang (MOA dan sisipan pakej) mesti diselesaikan sebel
 
 ## Maklumat Pasaran Malaysia
 
-9 pendaftaran NPRA telah disahkan, tetapi semua rekod lesen individu dalam Evidence Pack ini tidak dipenuhi (rentetan kosong). Maklumat peringkat produk yang terperinci tidak tersedia sehingga data lesen diambil dari pangkalan data NPRA.
-
 <!-- licenses:begin -->
 
 | No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
@@ -72,6 +70,12 @@ Dua jurang data yang menghalang (MOA dan sisipan pakej) mesti diselesaikan sebel
 Jadual di atas menyenaraikan 2 daripada 10 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-linagliptin-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "9 pendaftaran NPRA telah disahkan, tetapi semua rekod lesen individu dalam Evidence Pack ini tidak dipenuhi (rentetan kosong). Maklumat peringkat produk yang terperinci tidak tersedia sehingga data lesen diambil dari pangkalan data NPRA." Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-linagliptin-1 -->
 
 ---
 
@@ -96,6 +100,18 @@ Tatasusunan `predicted_indications` adalah kosong, bermakna tiada calon tujuan b
 2. **Selesaikan DG002 (Tinggi)** — Pertanyaan API DrugBank untuk mekanisme tindakan Linagliptin (DB08882); data MOA diperlukan oleh saluran TxGNN untuk pemarkahan kesamaan mekanik.
 3. **Jalankan semula saluran ramalan TxGNN** dengan input lengkap untuk mengisi `predicted_indications`; hanya kemudian boleh sasaran penyakit dan tahap bukti diberikan.
 4. **Ambil butiran lesen NPRA** untuk 9 produk berdaftar (nama produk, bentuk dos, teks petunjuk yang diluluskan) untuk melengkapkan bahagian Maklumat Pasaran Malaysia.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: "9 pendaftaran NPRA telah disahkan, tetapi semua rekod lesen individu dalam Evidence Pack ini tidak dipenuhi (rentetan kosong). Maklumat peringkat produk yang terperinci tidak tersedia sehingga data lesen diambil dari pangkalan data NPRA." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

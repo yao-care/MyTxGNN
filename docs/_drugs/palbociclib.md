@@ -89,6 +89,20 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16065002AZ | Ibrance Capsules 75mg | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL16065003AZ | Ibrance Capsules 100mg | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL16065004AZ | Ibrance Capsules 125mg | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL22086019AZ | PALVORED 125 (PALBOCICLIB CAPSULES 125MG) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL22086020AZ | PALVORED 100 (PALBOCICLIB CAPSULES 100MG) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 12 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

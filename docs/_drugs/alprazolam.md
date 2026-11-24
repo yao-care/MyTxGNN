@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 2
 monitor_inn: "ALPRAZOLAM"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alprazolam: indikasi baharu diramal Insomnia (insomnia (disease)) (tahap bukti L3). Di Malaysia, pendaftaran NPRA: 14 (sah: 14)"
 ---
 
@@ -88,6 +88,20 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 ## Maklumat Pasaran di Malaysia
 
 Status pasaran ialah **dipasarkan**. Data yang dikumpulkan untuk laporan ini mencatatkan 14 lesen yang sah dan tiada lesen yang dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05121161ACRSZ | Xanax Tablet 0.5 mg | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+| MAL05121165ACRSZ | Xanax Tablet 0.25 mg | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+| MAL05121166ACRSZ | Xanax Tablet 1 mg | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+| MAL06011717AZ | Alpranax Tablet 0.5mg | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL07090924AZ | Alpraline Tablets 0.5mg "S.T." | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 14 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

@@ -70,13 +70,33 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **Dipasarkan**, dengan lesen yang sah (bilangan semasa dalam Gambaran Ringkas); 1 nombor pendaftaran lama (MAL19993017ASZ, SULPERAZON 1G IM/IV) tidak lagi tersenarai kerana produk yang sama kini berdaftar sebagai MAL19993017ACSZ. Butiran lesen individu tidak tersedia dalam data ini.
+Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **Dipasarkan**, dengan lesen yang sah (bilangan semasa dalam Gambaran Ringkas); 1 nombor pendaftaran lama (MAL19993017ASZ, SULPERAZON 1G IM/IV) tidak lagi tersenarai kerana produk yang sama kini berdaftar sebagai MAL19993017ACSZ.
 
 <!-- review:begin my-lic-20261117-cefoperazone-1 -->
 
 > **Pembetulan semakan (2026-11-17)**: Asalnya dinyatakan: "dengan 8 lesen yang sah dan tiada yang dibatalkan" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): 9 rekod pendaftaran, 8 sah; MAL19993017ASZ tiada dalam daftar semasa mahupun senarai pembatalan, dan produk yang sama (nama, bahan aktif dan nombor asas sama) kini disenaraikan sebagai MAL19993017ACSZ. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled).
 
 <!-- review:end my-lic-20261117-cefoperazone-1 -->
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19984028AZ | BICAFAR 1G STERILE | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL20020793AZ | MEDOCEF 1G POWDER FOR INJECTION | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL20020794AZ | MEDOCEF 2GM POWDER FOR INJECTION | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL09062135AZ | Cefpar SB Injection 1 g | Kombinasi | AVERROES PHARMACEUTICALS SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL10043683AZ | CEFPER 1 g POWDER FOR INJECTION | Kombinasi | MEDISPEC (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 9 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-cefoperazone-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran lesen individu tidak tersedia dalam data ini." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-cefoperazone-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -109,6 +129,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-17 | Bilangan pendaftaran: “dengan 8 lesen yang sah dan tiada yang dibatalkan” → “dengan lesen yang sah (bilangan semasa dalam Gambaran Ringkas); 1 nomb” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
+| 2026-11-24 | Dipadam: "Butiran lesen individu tidak tersedia dalam data ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

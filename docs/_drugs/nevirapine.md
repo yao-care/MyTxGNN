@@ -84,6 +84,17 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06011684AZ | Hirapine Tablet 200mg | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL08010705AZ | NEVIREX (Nevirapine Oral suspension 50mg/5ml) | Bahan tunggal | UNIMED SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL08042461AZ | NEVIREX 200 (Nevirapine Tablets USP 200 mg) | Bahan tunggal | UNIMED SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL12115051AZ | Zidovex LN (Lamivudine 150mg, Zidovudine 300mg, Nevirapine 200mg Tablets) | Kombinasi | UNIMED SDN. BHD. | Sah (pendaftaran bersyarat) |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

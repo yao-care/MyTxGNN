@@ -68,7 +68,7 @@ Setelah ramalan TxGNN dihasilkan dan diisi ke dalam pakej bukti ini, kebolehplau
 
 ## Maklumat Pasaran Malaysia
 
-Pakej bukti merekodkan **6 pendaftaran produk** dengan status pasaran "Dipasarkan." Walau bagaimanapun, semua butir peringkat lesen (nombor kelulusan, nama produk, bentuk dos, dan teks petunjukan yang diluluskan) sedang hilang dari data pada masa ini.
+Pakej bukti merekodkan **6 pendaftaran produk** dengan status pasaran "Dipasarkan."
 
 <!-- licenses:begin -->
 
@@ -82,7 +82,19 @@ Jadual di atas menyenaraikan 3 daripada 6 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 
-> **Tindakan diperlukan:** Ambil rekod pendaftaran NPRA lengkap untuk Diltiazem Hydrochloride untuk mengisi nombor kelulusan, nama produk, bentuk dos, dan teks petunjukan yang diluluskan.
+<!-- review:begin my-lic-20261124b-diltiazem_hydrochloride-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Walau bagaimanapun, semua butir peringkat lesen (nombor kelulusan, nama produk, bentuk dos, dan teks petunjukan yang diluluskan) sedang hilang dari data pada masa ini." Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-diltiazem_hydrochloride-1 -->
+
+<!-- review:begin my-lic-20261124b-diltiazem_hydrochloride-2 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "untuk mengisi nombor kelulusan, nama produk, bentuk dos, dan teks petunjukan yang diluluskan" Dibetulkan: premis bahawa nombor pendaftaran dan nama produk belum tersedia telah dipadam (kini disenaraikan dalam jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA, data.gov.my); cadangan tindakan lain tidak diubah. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-diltiazem_hydrochloride-2 -->
+
+> **Tindakan diperlukan:** Ambil rekod pendaftaran NPRA lengkap untuk Diltiazem Hydrochloride untuk mengisi bentuk dos dan teks petunjukan yang diluluskan.
 
 ---
 
@@ -119,6 +131,19 @@ Pakej bukti ini kekurangan data kritikal yang diperlukan untuk penilaian penggun
 ---
 
 *Penafian: Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Sebarang calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: "Walau bagaimanapun, semua butir peringkat lesen (nombor kelulusan, nama produk, bentuk dos, dan teks petunjukan yang diluluskan) sedang hilang dari data pada masa ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-24 | Dibetulkan: "untuk mengisi nombor kelulusan, nama produk, bentuk dos, dan teks petunjukan yang diluluskan" → "untuk mengisi bentuk dos dan teks petunjukan yang diluluskan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

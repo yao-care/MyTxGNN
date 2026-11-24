@@ -72,6 +72,20 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20046067AZ | INVEGA TRINZA 175mg/0.875mL Prolonged-Release Suspension for Intramuscular Injection | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL20046068AZ | INVEGA TRINZA 263mg/1.315mL Prolonged-Release Suspension for Intramuscular Injection | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL20046069AZ | INVEGA TRINZA 350mg/1.750mL Prolonged-Release Suspension for Intramuscular Injection | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL20046070AZ | INVEGA TRINZA 525mg/2.625mL Prolonged-Release Suspension for Intramuscular Injection | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL20081766AZ | INVEGA 3 MG EXTENDED RELEASE TABLETS | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 19 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ## Pertimbangan Keselamatan
 
 - **Penyakit yang dikenal pasti sebagai kontraindikasi dalam graf pengetahuan** (bukan teks label): sindrom QT panjang (termasuk yang familial) dan torsades de pointes; infarksi miokardium dan trombosis koronari; hipotensi ortostatik, sindrom takikardia postural ortostatik dan atrofi sistem berbilang; epilepsi; neutropenia dan agranulositosis; diabetes mellitus, hiperglisemia dan ketoasidosis diabetes; hiperlipidemia dan obesiti; penyakit Crohn dan penyakit radang usus; penyakit ganglia basal, distonia dan blefarospasma; kekurangan kalium; hemoglobinopati; kerosakan fungsi renal; dan karsinoma payudara wanita.

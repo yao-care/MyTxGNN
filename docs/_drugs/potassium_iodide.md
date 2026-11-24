@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 594
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 monitor_inn: "POTASSIUM IODIDE"
 predicted_indications: ["nasal cavity disease"]
 description: "Potassium Iodide: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 140 (sah: 137)"
@@ -87,6 +87,19 @@ Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05072112X | Live-well™ KIDZSENTIAL™ with Lysine Children's Chewable Multivitamin & Minerals Tablet | Kombinasi | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL06021228X | GNC Men"s Mega Men Tablet | Kombinasi | GNC LIVEWELL MALAYSIA SDN. BHD. | Sah |
+| MAL06021229X | GNC Multivitamin Mega Women Tablet | Kombinasi | GNC LIVEWELL MALAYSIA SDN. BHD. | Sah |
+| MAL06030841XC | Shine Dailivite Multivitamins + Minerals Softgels | Kombinasi | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL06071133X | Everlife LifeFit Actif Multivitamin & Mineral Tablet | Kombinasi | NOVA LABORATORIES SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 140 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

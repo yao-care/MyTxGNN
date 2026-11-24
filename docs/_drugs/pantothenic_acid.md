@@ -95,6 +95,20 @@ Ramalan lain (okronosis, penyakit metabolisme gliserol, pielonefritis xanthogran
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07050908XC | FloraPlus | Kombinasi | VIGORACE SDN BHD | Sah |
+| MAL07061381XC | Bio-Life Pil-Food Capsule | Kombinasi | BIO-LIFE MARKETING SDN. BHD. | Sah |
+| MAL07122854X | DHA Emulsion Plus | Kombinasi | HOVID BERHAD | Sah |
+| MAL19913315XR | NUTRILITE NATURAL B COMPLEX TABLET | Kombinasi | AMWAY (MALAYSIA) SDN. BHD. | Sah |
+| MAL19972139XZ | VIVA B COMPLEX TABLET | Kombinasi | VIVA LIFE SCIENCE SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 19 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

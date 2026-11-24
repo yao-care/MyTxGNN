@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "AFLIBERCEPT"
 predicted_indications: ["esotropia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Aflibercept: indikasi baharu diramal Esotropia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 8 (sah: 8)"
 ---
 
@@ -72,7 +72,27 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Aflibercept berstatus dipasarkan di Malaysia dengan 8 lesen sah dan tiada lesen dibatalkan. Butiran lesen individu tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.
+Aflibercept berstatus dipasarkan di Malaysia dengan 8 lesen sah dan tiada lesen dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13035065AZ | EYLEA 40MG/ML SOLUTION FOR INJECTION IN VIAL | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL13035066ACZ | EYLEA 40MG/ML SOLUTION FOR INJECTION IN PREFILLED SYRINGE | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL14075033AZ | Zaltrap 25mg/ml Concentrate for Solution for Infusion | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL24126015ACZ | Yesafili 40mg/mL solution for injection in a vial | Bahan tunggal | BIOCON SDN BHD | Sah |
+| MAL25086006ACRZ | Eylea 114.3 mg/ml Solution for Injection | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-aflibercept-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran lesen individu tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-aflibercept-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -97,11 +117,12 @@ Ramalan ini hanya disokong oleh skor model (0,9938) tanpa sebarang percubaan kli
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Pavblu (aflibercept-ayyh) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c61062f3-80ec-4a20-8c28-46e468592a06) |
+| 2026-11-24 | Dipadam: "Butiran lesen individu tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

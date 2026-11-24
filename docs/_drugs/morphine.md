@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 513
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
 description: "Morphine: indikasi baharu diramal Sindrom Kesakitan Miofasial (myofascial pain syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
@@ -80,6 +80,20 @@ Kebanyakan literatur yang diperoleh bersifat tidak langsung. Kajian rawak pada 2
 ## Maklumat Pasaran di Malaysia
 
 Morfin mempunyai 6 lesen yang sah dan berstatus dipasarkan di Malaysia. Tiada lesen dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19920157ACZ | MST CONTINUS TABLETS 30MG | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL19920158ACZ | MST CONTINUS TABLET 10MG | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL19961325AZ | PHARMANIAGA MORPHINE SULPHATE 10MG/ML INJECTION | Bahan tunggal | PHARMANIAGA LIFESCIENCE SDN. BHD. | Sah |
+| MAL19973689AZ | MORPHEAS INJECTION 10 MG/ ML | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL20040803ACZ | MORPHINE-HAMELN 10MG/ML INJECTION,1ML | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

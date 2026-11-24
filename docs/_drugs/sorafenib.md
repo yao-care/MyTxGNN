@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 654
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
 description: "Sorafenib: indikasi baharu diramal Liposarkoma (liposarcoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
@@ -77,7 +77,25 @@ Namun, sambutan sarkoma tisu lembut terhadap rawatan sangat bergantung pada subj
 
 ## Maklumat Pasaran di Malaysia
 
-Status pasaran di Malaysia: dipasarkan, dengan 5 lesen sah. Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Status pasaran di Malaysia: dipasarkan, dengan 5 lesen sah.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20071668ACZ | NEXAVAR FILM-COATED TABLETS 200 MG | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
+| MAL23046035ACZ | RENOPLAST 200 mg FILM-COATED TABLETS (SORAFENIB) | Bahan tunggal | LOTUS HEALTHCARE MALAYSIA SDN. BHD. | Sah |
+| MAL23046036ACZ | inFENIB (Sorafenib 200mg) Film Coated Tablet | Bahan tunggal | Intega Sdn. Bhd. | Sah |
+| MAL25036168AZ | SORAVAR 200 (Sorafenib Film Coated Tablets 200mg) | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL26106028AZ | SANGROL (Sorafenib Film-Coated Tablets 200mg) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-sorafenib-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-sorafenib-1 -->
 
 ## Sitotoksisiti
 
@@ -112,11 +130,12 @@ Tiada kajian yang menguji sorafenib secara langsung dalam liposarkoma. Ujian kli
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0) |
+| 2026-11-24 | Dipadam: "Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

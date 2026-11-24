@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ceftazidime"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "blood group incompatibility", "infectious otitis media", "Peptostreptococcus infectious disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ceftazidime: indikasi baharu diramal Hiperamilasemia (hyperamylasemia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 11 (sah: 11)"
 ---
 
@@ -81,6 +81,20 @@ Pada masa ini tiada literatur yang berkaitan.
 ## Maklumat Pasaran Malaysia
 
 Ceftazidime berstatus **dipasarkan** di Malaysia. Kesemua 11 lesen yang direkodkan masih sah: 10 untuk produk satu bahan aktif dan 1 untuk produk gabungan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Jadual lesen terperinci dijana secara berasingan oleh sistem laman web.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL15055034AZ | CEFTAZIDIME-ZHIJUN 500mg Powder for Injection | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL15055035AZ | CEFTAZIDIME-ZHIJUN 1.0g Powder for Injection | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL19871019ACRZ | FORTUM INJECTION 1G/VIAL | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+| MAL19871020ACRZ | FORTUM INJECTION 2G/VIAL | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+| MAL20014320AZ | CEF-4 1G INJECTION | Bahan tunggal | SPG PHARMA (MALAYSIA) SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 11 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

@@ -101,6 +101,20 @@ Data yang disusun turut mengandungi ramalan lain dengan bukti yang lebih lemah:
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL10033197X | R.B. Tone Syrup | Kombinasi | UNIMED SDN. BHD. | Sah |
+| MAL19911002X | SANGOBION COMPLETE CAPSULE | Kombinasi | PROCTER & GAMBLE (MALAYSIA ) SDN.BHD. | Sah (pendaftaran bersyarat) |
+| MAL21126038NC | Novophane L-Cysteine Plus Capsule | Kombinasi | NEOASIA (M) SDN. BHD. | Sah |
+| MAL21126056NC | Excelife Kids Multivitamin & Minerals Effervescent Tablet (Blackcurrant Flavour) | Kombinasi | E HEALTH SDN. BHD. | Sah |
+| MAL21126058NC | NH KID'S MULTIVITAMIN PLUS EFFERVESCENT TABLET (BLACKCURRANT FLAVOUR) | Kombinasi | HERBALCEUTICAL (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CRIZOTINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Crizotinib: indikasi baharu diramal Fibromatosis gingiva (fibromatosis, gingival) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -69,6 +69,15 @@ Pada masa ini tiada literatur berkaitan tersedia untuk indikasi ini.
 ## Maklumat Pasaran Malaysia
 
 Berdasarkan data tempatan, status pasaran ialah **dipasarkan**, dengan 2 lesen yang sah dan tiada lesen yang dibatalkan. Butiran setiap lesen disediakan oleh program tapak.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12095102AZ | Xalkori 200mg Hard Capsules | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL12095103AZ | Xalkori 250mg Hard Capsules | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Sitotoksisiti
 

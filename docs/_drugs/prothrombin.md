@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 607
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "prothrombin"
 predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets"]
 description: "Prothrombin: indikasi baharu diramal Glanzmann thrombasthenia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -95,6 +95,14 @@ Penerbitan yang diperoleh terdiri daripada ulasan, laporan kes, kajian kohort da
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20041197ARZ | BERIPLEX P/N 500 POWDER FOR SOLUTION FOR INJECTION | Kombinasi | DKSH MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

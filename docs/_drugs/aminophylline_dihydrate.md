@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01223
 monitor_inn: "Aminophylline"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Aminophylline Dihydrate: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -87,6 +87,15 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 ## Maklumat Pasaran di Malaysia
 
 Aminofilin dihidrat berstatus **dipasarkan** di Malaysia, dengan produk suntikan yang berdaftar dan berstatus sah. Butiran lesen (nombor kelulusan, bentuk dos dan pengilang) disediakan secara berasingan oleh sistem tapak.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06051295ARZ | AMINOPHYLLIN IV-FRESENIUS 250MG/10ML, INJECTION | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL20021376AZ | AMINOPHYLLINE/DEMO INJECTION 250MG/10ML | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

@@ -105,6 +105,20 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12035084ACZ | Zarzio 30 MU/0.5 ml solution for injection or infusion | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+| MAL13085067ARZ | Nivestim 300mcg/0.5ml solution for Injection/Infusion | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL19921256AZ | NEUPOGEN 30 MIO U 0.3MG/ML VIAL | Bahan tunggal | Amgen Biopharmaceuticals Malaysia Sdn Bhd | Sah |
+| MAL20012685AZ | NEUPOGEN PRE-FILLED SYRINGES 30MU/0.5ML | Bahan tunggal | Amgen Biopharmaceuticals Malaysia Sdn Bhd | Sah |
+| MAL20071654AZ | NEULASTIM PRE- FILLED SYRINGES 6 MG/0.6ML | Bahan tunggal | Amgen Biopharmaceuticals Malaysia Sdn Bhd | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 10 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

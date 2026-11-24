@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ASCORBIC ACID"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "disease by subcellular system affected"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ascorbic Acid: indikasi baharu diramal Malformasi esofagus tidak sindromik (non-syndromic esophageal malformation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1245 (sah: 1199)"
 ---
 
@@ -68,7 +68,27 @@ Buat masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan untuk laporan ini menunjukkan asid askorbik **dipasarkan** di Malaysia. Daripada 1,245 pendaftaran, 1,199 masih sah dan 46 telah dibatalkan. Butiran setiap pendaftaran (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun untuk laporan ini.
+Data yang dikumpulkan untuk laporan ini menunjukkan asid askorbik **dipasarkan** di Malaysia. Daripada 1,245 pendaftaran, 1,199 masih sah dan 46 telah dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05051055XZ | GNC Vitamin C 1000 Tablet | Bahan tunggal | GNC LIVEWELL MALAYSIA SDN. BHD. | Sah |
+| MAL05061511XZ | Cebion Orange Effervescent Tablet | Bahan tunggal | PROCTER & GAMBLE (MALAYSIA ) SDN.BHD. | Sah |
+| MAL05121179XZ | Effervescent Chewette C 1000 mg Orange Flavour | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL06030894XZ | Nova C 500 Tablet | Bahan tunggal | NOVA LABORATORIES SDN. BHD. | Sah |
+| MAL06071120XZ | Nova Vit - C Chewable tablet | Bahan tunggal | NOVA LABORATORIES SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 1245 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-ascorbic_acid-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran setiap pendaftaran (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun untuk laporan ini." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-ascorbic_acid-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -104,11 +124,12 @@ Untuk amaran, kontraindikasi dan maklumat keselamatan lain, sila rujuk sisipan p
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: ascorbic acid prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6) |
+| 2026-11-24 | Dipadam: "Butiran setiap pendaftaran (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun untuk laporan ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

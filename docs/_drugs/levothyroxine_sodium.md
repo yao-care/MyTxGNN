@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00451
 monitor_inn: "Levothyroxine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Levothyroxine Sodium: indikasi baharu diramal Hipodisplasia/aplasia renal (renal hypodysplasia/aplasia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 9 (sah: 9)"
 ---
 
@@ -80,6 +80,20 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 ## Maklumat Pasaran di Malaysia
 
 Semua lesen levothyroxine sodium yang direkodkan di NPRA berstatus sah. Semuanya produk bahan tunggal daripada beberapa pemegang lesen, termasuk Aspen Medical Products Malaysia, Idaman Pharma, Merck dan Unimed. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06071058AZ | OROXINE 100mcg Tablet | Bahan tunggal | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+| MAL06071059AZ | OROXINE 50mcg Tablet | Bahan tunggal | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+| MAL19963154AZ | THYROSIT 100 MCG TABLET | Bahan tunggal | IDAMAN PHARMA SDN. BHD. | Sah |
+| MAL19985514AZ | EUTHYROX 100MCG TABLET | Bahan tunggal | MERCK SDN. BHD. | Sah |
+| MAL20032259AZ | EUTHYROX 25MCG TABLET | Bahan tunggal | MERCK SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 9 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

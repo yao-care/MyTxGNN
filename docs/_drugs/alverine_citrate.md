@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01616
 monitor_inn: "Alverine"
 predicted_indications: ["dysthymic disorder", "neurotic disorder", "anxiety disorder", "migraine disorder", "neurotic depression", "melancholia", "benign paroxysmal torticollis of infancy", "agoraphobia", "congenital isolated adrenocorticotropic hormone deficiency (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Alverine Citrate: indikasi baharu diramal Gangguan distimik (dysthymic disorder) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -82,6 +82,15 @@ Pada masa ini tiada literatur berkaitan yang mengkaji gangguan distimik secara l
 ## Maklumat Pasaran di Malaysia
 
 Status pasaran di Malaysia: **dipasarkan**. Semua rekod pendaftaran yang sah dalam data tempatan ialah produk kombinasi, dan teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Pendaftaran produk kombinasi ini tidak boleh digunakan untuk menggambarkan status kelulusan alverine citrate sebagai bahan tunggal.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12090004ACZ | Avarin Soft Capsule | Kombinasi | MEGA LIFESCIENCES SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL19990251ACZ | METEOSPASMYL CAPSULE | Kombinasi | EP PLUS GROUP SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

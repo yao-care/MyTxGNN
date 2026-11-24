@@ -88,7 +88,11 @@ Buat masa ini tiada literatur yang berkaitan tersedia — tiada petunjuk kegunaa
 
 <!-- licenses:end -->
 
-> **Nota:** Satu lesen dicatat dalam pangkalan data NPRA, tetapi semua medan perincian (nombor lesen, nama produk, bentuk dos, petunjuk kegunaan yang diluluskan) adalah kosong dalam pakej bukti semasa. Ini perlu diambil daripada portal NPRA.
+<!-- review:begin my-lic-20261124b-bismuth_subgallate-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "**Nota:** Satu lesen dicatat dalam pangkalan data NPRA, tetapi semua medan perincian (nombor lesen, nama produk, bentuk dos, petunjuk kegunaan yang diluluskan) adalah kosong dalam pakej bukti semasa. Ini perlu diambil daripada portal NPRA." Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-bismuth_subgallate-1 -->
 
 ---
 
@@ -118,6 +122,18 @@ Tiada ramalan penambahan kegunaan TxGNN telah dihasilkan untuk Bismuth Subgallat
 ---
 
 *Penafian: Laporan ini adalah untuk tujuan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Sebarang calon penambahan kegunaan ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: "**Nota:** Satu lesen dicatat dalam pangkalan data NPRA, tetapi semua medan perincian (nombor lesen, nama produk, bentuk dos, petunjuk kegunaan yang diluluskan) adalah kosong dalam pakej bukti semasa. Ini perlu diambil daripada portal NPRA." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

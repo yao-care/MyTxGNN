@@ -68,7 +68,7 @@ Setelah ramalan TxGNN dijana, bahagian ini akan menilai kesetaraan mekanik dari 
 
 ## Maklumat Pasaran Malaysia
 
-Pakej Bukti merekodkan **3 produk berdaftar** di Malaysia (status pertanyaan NPRA: berjaya), tetapi semua medan peringkat produk — nombor kebenaran, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan — dikembalikan sebagai kosong dalam larian pengumpulan ini. Jadual di bawah tidak dapat diisi sehingga butiran pendaftaran NPRA dipertanyakan semula.
+Pakej Bukti merekodkan **3 produk berdaftar** di Malaysia (status pertanyaan NPRA: berjaya).
 
 <!-- licenses:begin -->
 
@@ -79,6 +79,12 @@ Pakej Bukti merekodkan **3 produk berdaftar** di Malaysia (status pertanyaan NPR
 Jadual di atas menyenaraikan 1 daripada 3 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-apremilast-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: ", tetapi semua medan peringkat produk — nombor kebenaran, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan — dikembalikan sebagai kosong dalam larian pengumpulan ini. Jadual di bawah tidak dapat diisi sehingga butiran pendaftaran NPRA dipertanyakan semula." Dibetulkan: bahagian ayat ini yang menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong) dipadam, kerana jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-apremilast-1 -->
 
 **Tindakan diperlukan:** Pertanyaan semula NPRA dengan nama ubat "APREMILAST" dan ambil rekod butiran produk penuh untuk semua 3 lesen.
 
@@ -109,6 +115,18 @@ Pakej Bukti kehilangan tiga keperluan minimum untuk penilaian penggunaan semula 
 ---
 
 > ⚠️ **Penafian:** Laporan ini hanya untuk rujukan penyelidikan dan bukan merupakan nasihat perubatan. Calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum sebarang aplikasi terapeutik.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: ", tetapi semua medan peringkat produk — nombor kebenaran, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan — dikembalikan sebagai kosong dalam larian pengumpulan ini. Jadual di bawah tidak dapat diisi sehingga butiran pendaftaran NPRA dipertanyakan semula." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

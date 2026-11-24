@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 446
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LARONIDASE"
 predicted_indications: ["Sanfilippo syndrome"]
 description: "Laronidase: indikasi baharu diramal Sindrom Sanfilippo (Sanfilippo syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -92,6 +92,14 @@ Tiada penerbitan yang mengkaji laronidase secara langsung dalam Sindrom Sanfilip
 ## Maklumat Pasaran Malaysia
 
 Status pasaran: dipasarkan. Data tempatan merekodkan 1 lesen yang sah dan tiada lesen dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20091892ACZ | ALDURAZYME (LARONIDASE) | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+
+<!-- licenses:end -->
 
 ---
 

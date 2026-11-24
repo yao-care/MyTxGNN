@@ -70,6 +70,20 @@ Indikasi asal PEG (sembelit, mata kering) tidak bertindih dengan patofisiologi e
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL17035019X | HoraLAX Powder for Oral Solution 350g | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL20081745ARZ | MIRCERA SOLUTION FOR INJECTION IN PRE FILLED SYRINGE, 50MCG/0.3ML | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20081746ARZ | MIRCERA SOLUTION FOR INJECTION IN PRE FILLED SYRINGE, 100MCG/0.3ML | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20081747ARZ | MIRCERA SOLUTION FOR INJECTION IN PRE FILLED SYRINGE, 75MCG/0.3ML | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20081748ARZ | MIRCERA SOLUTION FOR INJECTION IN PRE FILLED SYRINGE, 150MCG/0.3ML | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 9 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

@@ -86,11 +86,23 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06011687AZ | Micozol Oral Gel 2%w/w | Bahan tunggal | PRIME PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL06051302AZ | MECANDIN CREAM 2% W/W | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL07010892AZ | Decozol Oral Gel 2%w/w | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL09020969AZ | Miconazole Cream BP 2%w/w | Bahan tunggal | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. | Sah |
+| MAL19900252AZ | TINAZOL CREAM 2% | Bahan tunggal | HOVID BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 43 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 <!-- review:begin my-lic-20261105-miconazole-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Miconazole berstatus dipasarkan di Malaysia, dengan sekurang-kurangnya 39 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Miconazole berstatus dipasarkan di Malaysia, dengan sekurang-kurangnya 39 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Ayat yang tinggal, "Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.", turut dipadam (2026-11-24): bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-miconazole-1 -->
 
@@ -125,7 +137,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Miconazole berstatus dipasarkan di Malaysia, dengan sekurang-kurangnya 39 lesen sah dan tiada lesen yang dibatalkan" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Miconazole berstatus dipasarkan di Malaysia, dengan sekurang-kurangnya 39 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini." | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Oravig (miconazole) prescribing information, Galt Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dc2427ff-e566-4b48-b289-9e51c011250a) |
 
 <!-- review:end log -->

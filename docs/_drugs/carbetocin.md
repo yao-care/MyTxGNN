@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "CARBETOCIN"
 predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carbetocin: indikasi baharu diramal Sindrom seperti isotretinoin (isotretinoin-like syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -62,7 +62,22 @@ Skor yang tinggi (0,9915) kemungkinan besar mencerminkan kedekatan rangkaian dat
 
 ## Maklumat Pasaran di Malaysia
 
-Data yang dikumpulkan menunjukkan carbetocin berstatus dipasarkan di Malaysia, dengan 2 lesen yang sah dan tiada lesen dibatalkan. Butiran lesen individu (nombor kelulusan, produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan, jadi tiada jadual dipaparkan.
+Data yang dikumpulkan menunjukkan carbetocin berstatus dipasarkan di Malaysia, dengan 2 lesen yang sah dan tiada lesen dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20040963AZ | DURATOCIN RTS 100mcg/ml | Bahan tunggal | Ferring Sdn. Bhd. | Sah |
+| MAL20046123AZ | Pharmidea Carbetocin 100 microgram/ml solution for injection | Bahan tunggal | Eucogen Pharma Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-carbetocin-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran lesen individu (nombor kelulusan, produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan, jadi tiada jadual dipaparkan." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-carbetocin-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -87,11 +102,12 @@ Ramalan ini hanya berasaskan model dengan skor 0,9915, tanpa sebarang percubaan 
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668) |
+| 2026-11-24 | Dipadam: "Butiran lesen individu (nombor kelulusan, produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan, jadi tiada jadual dipaparkan." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

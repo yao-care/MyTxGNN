@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "ALBUTREPENONACOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Albutrepenonacog Alfa: indikasi baharu diramal Penyakit von Willebrand palsu (pseudo-von Willebrand disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
@@ -71,7 +71,24 @@ Setakat ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Status pasaran di Malaysia ialah dipasarkan, dan kesemua 4 lesen yang direkodkan masih sah. Senarai lesen terperinci dijana oleh program tapak dan tidak disenaraikan di sini.
+Status pasaran di Malaysia ialah dipasarkan, dan kesemua 4 lesen yang direkodkan masih sah. Senarai lesen terperinci dijana oleh program tapak.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18046017ARZ | IDELVION 250 IU powder and solvent for solution for injection | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL18046018ARZ | IDELVION 500 IU powder and solvent for solution for injection | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL18046019ARZ | IDELVION 1000 IU powder and solvent for solution for injection | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL18046020ARZ | IDELVION 2000 IU powder and solvent for solution for injection | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah (pendaftaran bersyarat) |
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-albutrepenonacog_alfa-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "dijana oleh program tapak dan tidak disenaraikan di sini." Dibetulkan: bahagian ayat ini yang menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan dipadam, kerana bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-albutrepenonacog_alfa-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -94,11 +111,12 @@ Tiada kajian yang meneliti penyakit von Willebrand palsu secara langsung, jadi t
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL5315076 (albutrepenonacog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5315076) |
+| 2026-11-24 | Dibetulkan: "dijana oleh program tapak dan tidak disenaraikan di sini." → "dijana oleh program tapak." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

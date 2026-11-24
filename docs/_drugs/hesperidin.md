@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 399
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-24
 monitor_inn: "HESPERIDIN"
 predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm"]
 description: "Hesperidin: indikasi baharu diramal Neoplasma mieloproliferatif (myeloproliferative neoplasm) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 55 (sah: 52)"
@@ -93,6 +93,19 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06021257X | Dofomin 500mg Tablet | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL07031274X | Homecare Davmorid Film Coated Tablet | Kombinasi | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL08010735X | NATURERICH ESTER-C WITH BIOFLAVONOIDS PLUS | Kombinasi | PRO NUTRITION (MALAYSIA) SDN. BHD. | Sah |
+| MAL08031422XCR | MRT ESTER-C 500 PLUS TABLET | Kombinasi | ELEGANT WORLD (M) SDN. BHD. | Sah |
+| MAL09032053X | Ester-C 500 mg with Citrus Bioflavonoids Vegetable Capsule | Kombinasi | ONI Global (Malaysia) Sdn Bhd | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 55 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

@@ -100,6 +100,20 @@ Tiada literatur yang menyokong koarktasi aorta atipikal secara langsung. Untuk i
 
 ## Maklumat Pasaran di Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07010906ACZ | Prismasol BO | Kombinasi | Vantive Sdn. Bhd. | Sah |
+| MAL09102925ACZ | Prismasol 2 mmol/l Potassium | Kombinasi | Vantive Sdn. Bhd. | Sah |
+| MAL13075065AZ | HEMACOM AB (CONTINUOUS RENAL REPLACEMENT THERAPY SOLUTION) | Kombinasi | AIN MEDICARE SDN. BHD. | Sah |
+| MAL18106034XCR | Duofilm Solution | Kombinasi | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL19912360AZ | A.N.B. LACTATED RINGER'S INJ | Kombinasi | DELFI MARKETING SDN.BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

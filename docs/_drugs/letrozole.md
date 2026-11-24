@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 453
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LETROZOLE"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Letrozole: indikasi baharu diramal Karsinoma puting (nipple carcinoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
@@ -88,6 +88,20 @@ Literatur yang ditemui kebanyakannya laporan kes tentang subjenis tumor payudara
 ## Maklumat Pasaran Malaysia
 
 Letrozole dipasarkan di Malaysia dengan 7 pendaftaran yang sah dan tiada yang dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12065066AZ | LETROTAS 2.5MG TABLET | Bahan tunggal | JETPHARMA SDN. BHD. | Sah |
+| MAL12095086AZ | LETARA 2.5 mg tablets | Bahan tunggal | SCHMIDT BIOMEDTECH SDN. BHD. | Sah |
+| MAL14125128AZ | Lebreta 2.5mg (Letrozole Tablets) | Bahan tunggal | DUOPHARMA HAPI SDN. BHD. | Sah |
+| MAL18056179AZ | LETERO (Letrozole Tablets 2.5 mg) | Bahan tunggal | CAMBER LABORATORIES SDN. BHD. | Sah |
+| MAL19973303ARZ | FEMARA 2.5MG FILM-COATED TABLET | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

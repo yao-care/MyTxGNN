@@ -186,8 +186,8 @@
    "file": "arginine.md",
    "action": "correct",
    "claim": "Data yang dikumpulkan menunjukkan 138 lesen sah dan tiada lesen dibatalkan. Senarai terperinci lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Senarai terperinci lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "replacement": "",
+   "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Ayat yang tinggal, \"Senarai terperinci lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\", turut dipadam (2026-11-24): bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -197,8 +197,8 @@
     }
    ],
    "checked": "2026-11-05",
-   "summary": "Dipadam: \"Data yang dikumpulkan menunjukkan 138 lesen sah dan tiada lesen dibatalkan\"",
-   "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+   "summary": "Dipadam: \"Data yang dikumpulkan menunjukkan 138 lesen sah dan tiada lesen dibatalkan. Senarai terperinci lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "method": "2026-11-24 第二輪同 id 重發（市場段落補程式許可證表後，原留下的「明細不可得」句一併刪除；前版存 history）",
    "history": [
     {
      "id": "my-lic-20261105-arginine-1",
@@ -221,8 +221,31 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：5a37df06（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：更正文字與說明裡寫死的張數改成不寫數字的寫法（張數見本頁 Gambaran Ringkas）"
+    },
+    {
+     "id": "my-lic-20261105-arginine-1",
+     "drug": "arginine",
+     "file": "arginine.md",
+     "action": "correct",
+     "claim": "Data yang dikumpulkan menunjukkan 138 lesen sah dan tiada lesen dibatalkan. Senarai terperinci lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+     "replacement": "Senarai terperinci lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+     "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+       "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "Dipadam: \"Data yang dikumpulkan menunjukkan 138 lesen sah dan tiada lesen dibatalkan\"",
+     "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+     "retired": "2026-11-24",
+     "reason": "2026-11-24 第二輪（用戶決定「缺表的頁補程式表」）：市場段落補上程式許可證表，留下的「明細不可得」句跟表矛盾，一併刪除"
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "my-lic-20261105-atenolol-1",
@@ -674,8 +697,8 @@
    "file": "calcium_lactate.md",
    "action": "correct",
    "claim": "Sebanyak 36 lesen sah dan tiada lesen dibatalkan. Senarai lesen terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Senarai lesen terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "replacement": "",
+   "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Ayat yang tinggal, \"Senarai lesen terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\", turut dipadam (2026-11-24): bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -685,8 +708,8 @@
     }
    ],
    "checked": "2026-11-05",
-   "summary": "Dipadam: \"Sebanyak 36 lesen sah dan tiada lesen dibatalkan\"",
-   "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+   "summary": "Dipadam: \"Sebanyak 36 lesen sah dan tiada lesen dibatalkan. Senarai lesen terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "method": "2026-11-24 第二輪同 id 重發（市場段落補程式許可證表後，原留下的「明細不可得」句一併刪除；前版存 history）",
    "history": [
     {
      "id": "my-lic-20261105-calcium_lactate-1",
@@ -709,8 +732,31 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：5a37df06（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：更正文字與說明裡寫死的張數改成不寫數字的寫法（張數見本頁 Gambaran Ringkas）"
+    },
+    {
+     "id": "my-lic-20261105-calcium_lactate-1",
+     "drug": "calcium_lactate",
+     "file": "calcium_lactate.md",
+     "action": "correct",
+     "claim": "Sebanyak 36 lesen sah dan tiada lesen dibatalkan. Senarai lesen terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+     "replacement": "Senarai lesen terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+     "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+       "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "Dipadam: \"Sebanyak 36 lesen sah dan tiada lesen dibatalkan\"",
+     "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+     "retired": "2026-11-24",
+     "reason": "2026-11-24 第二輪（用戶決定「缺表的頁補程式表」）：市場段落補上程式許可證表，留下的「明細不可得」句跟表矛盾，一併刪除"
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "my-lic-20261105-camphor-1",
@@ -938,8 +984,8 @@
    "file": "citalopram.md",
    "action": "correct",
    "claim": "Data yang dikumpulkan merekodkan 27 lesen sah dan tiada yang dibatalkan, jadi status pasaran ialah dipasarkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak disertakan dalam data yang dikumpulkan.",
-   "replacement": "Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak disertakan dalam data yang dikumpulkan.",
-   "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "replacement": "",
+   "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Ayat yang tinggal, \"Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak disertakan dalam data yang dikumpulkan.\", turut dipadam (2026-11-24): bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -949,8 +995,8 @@
     }
    ],
    "checked": "2026-11-05",
-   "summary": "Dipadam: \"Data yang dikumpulkan merekodkan 27 lesen sah dan tiada yang dibatalkan, jadi status pasaran ialah dipasarkan\"",
-   "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+   "summary": "Dipadam: \"Data yang dikumpulkan merekodkan 27 lesen sah dan tiada yang dibatalkan, jadi status pasaran ialah dipasarkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak disertakan dalam data yang dikumpulkan.\"",
+   "method": "2026-11-24 第二輪同 id 重發（市場段落補程式許可證表後，原留下的「明細不可得」句一併刪除；前版存 history）",
    "history": [
     {
      "id": "my-lic-20261105-citalopram-1",
@@ -973,8 +1019,31 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：5a37df06（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：更正文字與說明裡寫死的張數改成不寫數字的寫法（張數見本頁 Gambaran Ringkas）"
+    },
+    {
+     "id": "my-lic-20261105-citalopram-1",
+     "drug": "citalopram",
+     "file": "citalopram.md",
+     "action": "correct",
+     "claim": "Data yang dikumpulkan merekodkan 27 lesen sah dan tiada yang dibatalkan, jadi status pasaran ialah dipasarkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak disertakan dalam data yang dikumpulkan.",
+     "replacement": "Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak disertakan dalam data yang dikumpulkan.",
+     "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+       "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "Dipadam: \"Data yang dikumpulkan merekodkan 27 lesen sah dan tiada yang dibatalkan, jadi status pasaran ialah dipasarkan\"",
+     "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+     "retired": "2026-11-24",
+     "reason": "2026-11-24 第二輪（用戶決定「缺表的頁補程式表」）：市場段落補上程式許可證表，留下的「明細不可得」句跟表矛盾，一併刪除"
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "my-lic-20261105-clobetasone-1",
@@ -4074,8 +4143,8 @@
    "file": "levofloxacin.md",
    "action": "correct",
    "claim": "Levofloxacin berstatus **dipasarkan** di Malaysia, dengan 19 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "replacement": "",
+   "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Ayat yang tinggal, \"Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\", turut dipadam (2026-11-24): bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -4085,8 +4154,8 @@
     }
    ],
    "checked": "2026-11-05",
-   "summary": "Dipadam: \"Levofloxacin berstatus **dipasarkan** di Malaysia, dengan 19 lesen sah dan tiada lesen yang dibatalkan\"",
-   "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+   "summary": "Dipadam: \"Levofloxacin berstatus **dipasarkan** di Malaysia, dengan 19 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "method": "2026-11-24 第二輪同 id 重發（市場段落補程式許可證表後，原留下的「明細不可得」句一併刪除；前版存 history）",
    "history": [
     {
      "id": "my-lic-20261105-levofloxacin-1",
@@ -4109,8 +4178,31 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：5a37df06（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：更正文字與說明裡寫死的張數改成不寫數字的寫法（張數見本頁 Gambaran Ringkas）"
+    },
+    {
+     "id": "my-lic-20261105-levofloxacin-1",
+     "drug": "levofloxacin",
+     "file": "levofloxacin.md",
+     "action": "correct",
+     "claim": "Levofloxacin berstatus **dipasarkan** di Malaysia, dengan 19 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+     "replacement": "Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+     "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+       "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "Dipadam: \"Levofloxacin berstatus **dipasarkan** di Malaysia, dengan 19 lesen sah dan tiada lesen yang dibatalkan\"",
+     "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+     "retired": "2026-11-24",
+     "reason": "2026-11-24 第二輪（用戶決定「缺表的頁補程式表」）：市場段落補上程式許可證表，留下的「明細不可得」句跟表矛盾，一併刪除"
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "my-lic-20261105-levonorgestrel-1",
@@ -4118,8 +4210,8 @@
    "file": "levonorgestrel.md",
    "action": "correct",
    "claim": "Berdasarkan data tempatan, status pasaran ialah dipasarkan, dengan 15 lesen sah dan tiada lesen dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dihimpunkan untuk laporan ini.",
-   "replacement": "Butiran setiap lesen tidak tersedia dalam data yang dihimpunkan untuk laporan ini.",
-   "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "replacement": "",
+   "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Ayat yang tinggal, \"Butiran setiap lesen tidak tersedia dalam data yang dihimpunkan untuk laporan ini.\", turut dipadam (2026-11-24): bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -4129,8 +4221,8 @@
     }
    ],
    "checked": "2026-11-05",
-   "summary": "Dipadam: \"Berdasarkan data tempatan, status pasaran ialah dipasarkan, dengan 15 lesen sah dan tiada lesen dibatalkan\"",
-   "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+   "summary": "Dipadam: \"Berdasarkan data tempatan, status pasaran ialah dipasarkan, dengan 15 lesen sah dan tiada lesen dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dihimpunkan untuk laporan ini.\"",
+   "method": "2026-11-24 第二輪同 id 重發（市場段落補程式許可證表後，原留下的「明細不可得」句一併刪除；前版存 history）",
    "history": [
     {
      "id": "my-lic-20261105-levonorgestrel-1",
@@ -4153,8 +4245,31 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：5a37df06（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：更正文字與說明裡寫死的張數改成不寫數字的寫法（張數見本頁 Gambaran Ringkas）"
+    },
+    {
+     "id": "my-lic-20261105-levonorgestrel-1",
+     "drug": "levonorgestrel",
+     "file": "levonorgestrel.md",
+     "action": "correct",
+     "claim": "Berdasarkan data tempatan, status pasaran ialah dipasarkan, dengan 15 lesen sah dan tiada lesen dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dihimpunkan untuk laporan ini.",
+     "replacement": "Butiran setiap lesen tidak tersedia dalam data yang dihimpunkan untuk laporan ini.",
+     "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+       "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "Dipadam: \"Berdasarkan data tempatan, status pasaran ialah dipasarkan, dengan 15 lesen sah dan tiada lesen dibatalkan\"",
+     "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+     "retired": "2026-11-24",
+     "reason": "2026-11-24 第二輪（用戶決定「缺表的頁補程式表」）：市場段落補上程式許可證表，留下的「明細不可得」句跟表矛盾，一併刪除"
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "my-lic-20261105-lisinopril-1",
@@ -4578,8 +4693,8 @@
    "file": "miconazole.md",
    "action": "correct",
    "claim": "Miconazole berstatus dipasarkan di Malaysia, dengan sekurang-kurangnya 39 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "replacement": "",
+   "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Ayat yang tinggal, \"Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\", turut dipadam (2026-11-24): bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -4589,8 +4704,8 @@
     }
    ],
    "checked": "2026-11-05",
-   "summary": "Dipadam: \"Miconazole berstatus dipasarkan di Malaysia, dengan sekurang-kurangnya 39 lesen sah dan tiada lesen yang dibatalkan\"",
-   "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+   "summary": "Dipadam: \"Miconazole berstatus dipasarkan di Malaysia, dengan sekurang-kurangnya 39 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "method": "2026-11-24 第二輪同 id 重發（市場段落補程式許可證表後，原留下的「明細不可得」句一併刪除；前版存 history）",
    "history": [
     {
      "id": "my-lic-20261105-miconazole-1",
@@ -4613,8 +4728,31 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：5a37df06（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：更正文字與說明裡寫死的張數改成不寫數字的寫法（張數見本頁 Gambaran Ringkas）"
+    },
+    {
+     "id": "my-lic-20261105-miconazole-1",
+     "drug": "miconazole",
+     "file": "miconazole.md",
+     "action": "correct",
+     "claim": "Miconazole berstatus dipasarkan di Malaysia, dengan sekurang-kurangnya 39 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+     "replacement": "Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+     "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+       "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "Dipadam: \"Miconazole berstatus dipasarkan di Malaysia, dengan sekurang-kurangnya 39 lesen sah dan tiada lesen yang dibatalkan\"",
+     "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+     "retired": "2026-11-24",
+     "reason": "2026-11-24 第二輪（用戶決定「缺表的頁補程式表」）：市場段落補上程式許可證表，留下的「明細不可得」句跟表矛盾，一併刪除"
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "my-lic-20261105-minoxidil-1",
@@ -6210,8 +6348,8 @@
    "file": "ranitidine.md",
    "action": "correct",
    "claim": "Status pasaran ialah **dipasarkan**, dengan 6 lesen sah dan tiada lesen dibatalkan. Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "replacement": "Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
-   "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "replacement": "",
+   "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Ayat yang tinggal, \"Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\", turut dipadam (2026-11-24): bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -6221,8 +6359,8 @@
     }
    ],
    "checked": "2026-11-05",
-   "summary": "Dipadam: \"Status pasaran ialah **dipasarkan**, dengan 6 lesen sah dan tiada lesen dibatalkan\"",
-   "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+   "summary": "Dipadam: \"Status pasaran ialah **dipasarkan**, dengan 6 lesen sah dan tiada lesen dibatalkan. Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "method": "2026-11-24 第二輪同 id 重發（市場段落補程式許可證表後，原留下的「明細不可得」句一併刪除；前版存 history）",
    "history": [
     {
      "id": "my-lic-20261105-ranitidine-1",
@@ -6245,8 +6383,31 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：5a37df06（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：更正文字與說明裡寫死的張數改成不寫數字的寫法（張數見本頁 Gambaran Ringkas）"
+    },
+    {
+     "id": "my-lic-20261105-ranitidine-1",
+     "drug": "ranitidine",
+     "file": "ranitidine.md",
+     "action": "correct",
+     "claim": "Status pasaran ialah **dipasarkan**, dengan 6 lesen sah dan tiada lesen dibatalkan. Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+     "replacement": "Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+     "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+       "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "Dipadam: \"Status pasaran ialah **dipasarkan**, dengan 6 lesen sah dan tiada lesen dibatalkan\"",
+     "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+     "retired": "2026-11-24",
+     "reason": "2026-11-24 第二輪（用戶決定「缺表的頁補程式表」）：市場段落補上程式許可證表，留下的「明細不可得」句跟表矛盾，一併刪除"
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "my-lic-20261105-ravulizumab-1",
@@ -7670,8 +7831,8 @@
    "file": "uracil.md",
    "action": "correct",
    "claim": "Data yang disusun untuk laporan ini menunjukkan status pasaran \"Dipasarkan\", dengan 5 lesen yang sah dan tiada lesen yang dibatalkan. Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun.",
-   "replacement": "Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun.",
-   "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "replacement": "",
+   "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Ayat yang tinggal, \"Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun.\", turut dipadam (2026-11-24): bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -7681,8 +7842,8 @@
     }
    ],
    "checked": "2026-11-05",
-   "summary": "Dipadam: \"Data yang disusun untuk laporan ini menunjukkan status pasaran \"Dipasarkan\", dengan 5 lesen yang sah dan tiada lesen yang dibatalkan\"",
-   "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+   "summary": "Dipadam: \"Data yang disusun untuk laporan ini menunjukkan status pasaran \"Dipasarkan\", dengan 5 lesen yang sah dan tiada lesen yang dibatalkan. Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun.\"",
+   "method": "2026-11-24 第二輪同 id 重發（市場段落補程式許可證表後，原留下的「明細不可得」句一併刪除；前版存 history）",
    "history": [
     {
      "id": "my-lic-20261105-uracil-1",
@@ -7705,8 +7866,31 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：5a37df06（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：更正文字與說明裡寫死的張數改成不寫數字的寫法（張數見本頁 Gambaran Ringkas）"
+    },
+    {
+     "id": "my-lic-20261105-uracil-1",
+     "drug": "uracil",
+     "file": "uracil.md",
+     "action": "correct",
+     "claim": "Data yang disusun untuk laporan ini menunjukkan status pasaran \"Dipasarkan\", dengan 5 lesen yang sah dan tiada lesen yang dibatalkan. Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun.",
+     "replacement": "Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun.",
+     "note": "Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+       "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "Dipadam: \"Data yang disusun untuk laporan ini menunjukkan status pasaran \"Dipasarkan\", dengan 5 lesen yang sah dan tiada lesen yang dibatalkan\"",
+     "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+     "retired": "2026-11-24",
+     "reason": "2026-11-24 第二輪（用戶決定「缺表的頁補程式表」）：市場段落補上程式許可證表，留下的「明細不可得」句跟表矛盾，一併刪除"
     }
-   ]
+   ],
+   "anchor": "<!-- licenses:end -->"
   },
   {
    "id": "my-lic-20261105-ustekinumab-1",
@@ -22367,6 +22551,1581 @@
    ],
    "checked": "2026-11-24",
    "method": "2026-11-24 人工查核（市場段落換成程式許可證表後，寬偵測全量掃正文張數句，逐句對照快照事實層與證據包 npra.records）"
+  },
+  {
+   "id": "my-lic-20261124b-acetazolamide-1",
+   "drug": "acetazolamide",
+   "file": "acetazolamide.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-acetic_acid-1",
+   "drug": "acetic_acid",
+   "file": "acetic_acid.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak disenaraikan dalam data tersebut.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak disenaraikan dalam data tersebut.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-adapalene-1",
+   "drug": "adapalene",
+   "file": "adapalene.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak tersedia dalam data ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-aflibercept-1",
+   "drug": "aflibercept",
+   "file": "aflibercept.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-allopurinol-1",
+   "drug": "allopurinol",
+   "file": "allopurinol.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak tersedia dalam data yang dihimpunkan.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dihimpunkan.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-ambrisentan-1",
+   "drug": "ambrisentan",
+   "file": "ambrisentan.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-amikacin-1",
+   "drug": "amikacin",
+   "file": "amikacin.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-amodiaquine-1",
+   "drug": "amodiaquine",
+   "file": "amodiaquine.md",
+   "action": "correct",
+   "claim": " Butiran lesen (nombor kelulusan, bentuk dos) tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen (nombor kelulusan, bentuk dos) tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-ampicillin-1",
+   "drug": "ampicillin",
+   "file": "ampicillin.md",
+   "action": "correct",
+   "claim": " Senarai lesen terperinci tidak disertakan dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Senarai lesen terperinci tidak disertakan dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-amylmetacresol-1",
+   "drug": "amylmetacresol",
+   "file": "amylmetacresol.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak disenaraikan dalam data yang ada.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak disenaraikan dalam data yang ada.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-anastrozole-1",
+   "drug": "anastrozole",
+   "file": "anastrozole.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak disenaraikan di sini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak disenaraikan di sini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-apixaban-1",
+   "drug": "apixaban",
+   "file": "apixaban.md",
+   "action": "correct",
+   "claim": " Butiran setiap lesen tidak disenaraikan dalam data yang ada.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran setiap lesen tidak disenaraikan dalam data yang ada.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-aprepitant-1",
+   "drug": "aprepitant",
+   "file": "aprepitant.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak disenaraikan dalam data yang dihimpunkan.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak disenaraikan dalam data yang dihimpunkan.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-artemether-1",
+   "drug": "artemether",
+   "file": "artemether.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak disenaraikan di sini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak disenaraikan di sini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-ascorbic_acid-1",
+   "drug": "ascorbic_acid",
+   "file": "ascorbic_acid.md",
+   "action": "correct",
+   "claim": " Butiran setiap pendaftaran (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran setiap pendaftaran (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-atosiban-1",
+   "drug": "atosiban",
+   "file": "atosiban.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-axitinib-1",
+   "drug": "axitinib",
+   "file": "axitinib.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak tersedia dalam data yang dikumpulkan.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-baclofen-1",
+   "drug": "baclofen",
+   "file": "baclofen.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak tersedia untuk disenaraikan.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak tersedia untuk disenaraikan.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-baricitinib-1",
+   "drug": "baricitinib",
+   "file": "baricitinib.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan di sini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan di sini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-benzbromarone-1",
+   "drug": "benzbromarone",
+   "file": "benzbromarone.md",
+   "action": "correct",
+   "claim": " Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-benzoyl_peroxide-1",
+   "drug": "benzoyl_peroxide",
+   "file": "benzoyl_peroxide.md",
+   "action": "correct",
+   "claim": " Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-brigatinib-1",
+   "drug": "brigatinib",
+   "file": "brigatinib.md",
+   "action": "correct",
+   "claim": " Butiran senarai lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran senarai lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-bromazepam-1",
+   "drug": "bromazepam",
+   "file": "bromazepam.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak tersedia dalam data yang dihimpunkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dihimpunkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-bupropion-1",
+   "drug": "bupropion",
+   "file": "bupropion.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-cabotegravir-1",
+   "drug": "cabotegravir",
+   "file": "cabotegravir.md",
+   "action": "correct",
+   "claim": " Butiran lesen tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-calcifediol-1",
+   "drug": "calcifediol",
+   "file": "calcifediol.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-calcipotriol-1",
+   "drug": "calcipotriol",
+   "file": "calcipotriol.md",
+   "action": "correct",
+   "claim": " Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-calcitriol-1",
+   "drug": "calcitriol",
+   "file": "calcitriol.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-carbetocin-1",
+   "drug": "carbetocin",
+   "file": "carbetocin.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu (nombor kelulusan, produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan, jadi tiada jadual dipaparkan.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu (nombor kelulusan, produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan, jadi tiada jadual dipaparkan.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-cefoperazone-1",
+   "drug": "cefoperazone",
+   "file": "cefoperazone.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak tersedia dalam data ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-chlorzoxazone-1",
+   "drug": "chlorzoxazone",
+   "file": "chlorzoxazone.md",
+   "action": "correct",
+   "claim": " Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-choline_salicylate-1",
+   "drug": "choline_salicylate",
+   "file": "choline_salicylate.md",
+   "action": "correct",
+   "claim": " Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-ciclesonide-1",
+   "drug": "ciclesonide",
+   "file": "ciclesonide.md",
+   "action": "correct",
+   "claim": " Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-clofarabine-1",
+   "drug": "clofarabine",
+   "file": "clofarabine.md",
+   "action": "correct",
+   "claim": " Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-clozapine-1",
+   "drug": "clozapine",
+   "file": "clozapine.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-nystatin-1",
+   "drug": "nystatin",
+   "file": "nystatin.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak tersedia dalam data yang dikumpulkan.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-oteracil-1",
+   "drug": "oteracil",
+   "file": "oteracil.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-oxcarbazepine-1",
+   "drug": "oxcarbazepine",
+   "file": "oxcarbazepine.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-salmeterol-1",
+   "drug": "salmeterol",
+   "file": "salmeterol.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak tersedia dalam data yang dikumpulkan.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-sorafenib-1",
+   "drug": "sorafenib",
+   "file": "sorafenib.md",
+   "action": "correct",
+   "claim": " Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-valbenazine-1",
+   "drug": "valbenazine",
+   "file": "valbenazine.md",
+   "action": "correct",
+   "claim": " Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-vinblastine-1",
+   "drug": "vinblastine",
+   "file": "vinblastine.md",
+   "action": "correct",
+   "claim": " Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-avelumab-1",
+   "drug": "avelumab",
+   "file": "avelumab.md",
+   "action": "correct",
+   "claim": ", tetapi butiran lesen individu tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": ".",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \", tetapi butiran lesen individu tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dibetulkan: bahagian ayat ini yang menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan dipadam, kerana bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-mitomycin-1",
+   "drug": "mitomycin",
+   "file": "mitomycin.md",
+   "action": "correct",
+   "claim": "; butiran produk tidak tersedia dalam data yang dikumpulkan untuk laporan ini.",
+   "replacement": ".",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"; butiran produk tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
+   "note": "Dibetulkan: bahagian ayat ini yang menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan dipadam, kerana bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-busulfan-1",
+   "drug": "busulfan",
+   "file": "busulfan.md",
+   "action": "correct",
+   "claim": "Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data tempatan, dan teks indikasi",
+   "replacement": "Teks indikasi",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dibetulkan: \"Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data tempatan, dan teks indikasi\" → \"Teks indikasi\"",
+   "note": "Dibetulkan: bahagian ayat ini yang menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan dipadam, kerana bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-cyclophosphamide-1",
+   "drug": "cyclophosphamide",
+   "file": "cyclophosphamide.md",
+   "action": "correct",
+   "claim": "Butiran lesen (nombor kebenaran, nama produk, bentuk dos dan teks indikasi) tidak tersedia dalam data yang dikumpulkan, maka tiada jadual lesen dipaparkan.",
+   "replacement": "Teks indikasi tidak tersedia dalam data yang dikumpulkan.",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dibetulkan: \"Butiran lesen (nombor kebenaran, nama produk, bentuk dos dan teks indikasi) tidak tersedia dalam data yang dikumpulkan, maka tiada jadual lesen dipaparkan.\" → \"Teks indikasi tidak tersedia dalam data yang dikumpulkan.\"",
+   "note": "Dibetulkan: bahagian ayat ini yang menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan dipadam, kerana bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-arsenic_trioxide-1",
+   "drug": "arsenic_trioxide",
+   "file": "arsenic_trioxide.md",
+   "action": "correct",
+   "claim": " ditambah oleh program dan tidak disenaraikan di sini.",
+   "replacement": " ditambah oleh program.",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dibetulkan: \"ditambah oleh program dan tidak disenaraikan di sini.\" → \"ditambah oleh program.\"",
+   "note": "Dibetulkan: bahagian ayat ini yang menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan dipadam, kerana bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-albutrepenonacog_alfa-1",
+   "drug": "albutrepenonacog_alfa",
+   "file": "albutrepenonacog_alfa.md",
+   "action": "correct",
+   "claim": " dijana oleh program tapak dan tidak disenaraikan di sini.",
+   "replacement": " dijana oleh program tapak.",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dibetulkan: \"dijana oleh program tapak dan tidak disenaraikan di sini.\" → \"dijana oleh program tapak.\"",
+   "note": "Dibetulkan: bahagian ayat ini yang menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan dipadam, kerana bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-dexmedetomidine_hydrochloride-1",
+   "drug": "dexmedetomidine_hydrochloride",
+   "file": "dexmedetomidine_hydrochloride.md",
+   "action": "correct",
+   "claim": " dijana oleh program tapak dan tidak diulang di sini.",
+   "replacement": " dijana oleh program tapak.",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dibetulkan: \"dijana oleh program tapak dan tidak diulang di sini.\" → \"dijana oleh program tapak.\"",
+   "note": "Dibetulkan: bahagian ayat ini yang menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan dipadam, kerana bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "正文說個別許可證明細不可得／未列出；2026-11-24 第二輪市場段落補上程式許可證表後跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-acalabrutinib-1",
+   "drug": "acalabrutinib",
+   "file": "acalabrutinib.md",
+   "action": "correct",
+   "claim": " Walau bagaimanapun, medan perincian lesen tidak diisi dalam ekstrak data semasa. Jadual di bawah mencerminkan keadaan mentah Pakej Bukti.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Walau bagaimanapun, medan perincian lesen tidak diisi dalam ekstrak data semasa. Jadual di bawah mencerminkan keadaan mentah Pakej Bukti.\"",
+   "note": "Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-acalabrutinib-2",
+   "drug": "acalabrutinib",
+   "file": "acalabrutinib.md",
+   "action": "correct",
+   "claim": "untuk mengisi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan",
+   "replacement": "untuk mengisi bentuk dos dan teks petunjuk yang diluluskan",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dibetulkan: \"untuk mengisi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan\" → \"untuk mengisi bentuk dos dan teks petunjuk yang diluluskan\"",
+   "note": "Dibetulkan: premis bahawa nombor pendaftaran dan nama produk belum tersedia telah dipadam (kini disenaraikan dalam jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA, data.gov.my); cadangan tindakan lain tidak diubah.",
+   "finding": "待辦以「號碼、品名未取得」為前提；程式表已列出，只拿掉錯的前提，建議內容不動",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-alemtuzumab-1",
+   "drug": "alemtuzumab",
+   "file": "alemtuzumab.md",
+   "action": "correct",
+   "claim": " Bagaimanapun, semua medan butiran lesen — nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan — adalah kosong dalam Evidence Pack semasa.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Bagaimanapun, semua medan butiran lesen — nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan — adalah kosong dalam Evidence Pack semasa.\"",
+   "note": "Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-apremilast-1",
+   "drug": "apremilast",
+   "file": "apremilast.md",
+   "action": "correct",
+   "claim": ", tetapi semua medan peringkat produk — nombor kebenaran, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan — dikembalikan sebagai kosong dalam larian pengumpulan ini. Jadual di bawah tidak dapat diisi sehingga butiran pendaftaran NPRA dipertanyakan semula.",
+   "replacement": ".",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \", tetapi semua medan peringkat produk — nombor kebenaran, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan — dikembalikan sebagai kosong dalam larian pengumpulan ini. Jadual di bawah tidak dapat diisi sehingga butiran pendaftaran NPRA dipertanyakan semula.\"",
+   "note": "Dibetulkan: bahagian ayat ini yang menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong) dipadam, kerana jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-artesunate-1",
+   "drug": "artesunate",
+   "file": "artesunate.md",
+   "action": "correct",
+   "claim": "; walau bagaimanapun, semua medan terperinci pendaftaran kini kosong.",
+   "replacement": ".",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"; walau bagaimanapun, semua medan terperinci pendaftaran kini kosong.\"",
+   "note": "Dibetulkan: bahagian ayat ini yang menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong) dipadam, kerana jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-artesunate-2",
+   "drug": "artesunate",
+   "file": "artesunate.md",
+   "action": "correct",
+   "claim": "Untuk mengisi jadual ini, rekod pendaftaran NPRA lengkap untuk Artesunate mesti diambil semula dan dianalisis.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Untuk mengisi jadual ini, rekod pendaftaran NPRA lengkap untuk Artesunate mesti diambil semula dan dianalisis.\"",
+   "note": "Dipadam: tindakan ini bertujuan mengisi jadual pendaftaran, dan jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status.",
+   "finding": "待辦唯一目的是「填滿許可證表」；程式表已列出，整條刪除",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-atovaquone-1",
+   "drug": "atovaquone",
+   "file": "atovaquone.md",
+   "action": "correct",
+   "claim": ", tetapi Evidence Pack ini belum mendapatkan medan pendaftaran terperinci (nama produk, bentuk dos, indikasi yang diluluskan, dll.).",
+   "replacement": ".",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \", tetapi Evidence Pack ini belum mendapatkan medan pendaftaran terperinci (nama produk, bentuk dos, indikasi yang diluluskan, dll.).\"",
+   "note": "Dibetulkan: bahagian ayat ini yang menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong) dipadam, kerana jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-atovaquone-2",
+   "drug": "atovaquone",
+   "file": "atovaquone.md",
+   "action": "correct",
+   "claim": " dan isikan jadual di atas.",
+   "replacement": ".",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"dan isikan jadual di atas.\"",
+   "note": "Dibetulkan: premis bahawa nombor pendaftaran dan nama produk belum tersedia telah dipadam (kini disenaraikan dalam jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA, data.gov.my); cadangan tindakan lain tidak diubah.",
+   "finding": "待辦以「號碼、品名未取得」為前提；程式表已列出，只拿掉錯的前提，建議內容不動",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-avanafil-1",
+   "drug": "avanafil",
+   "file": "avanafil.md",
+   "action": "correct",
+   "claim": "; walau bagaimanapun, data pendaftaran terperinci (nombor MAL, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam Evidence Pack yang dikembalikan oleh pertanyaan NPRA.",
+   "replacement": ".",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"; walau bagaimanapun, data pendaftaran terperinci (nombor MAL, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam Evidence Pack yang dikembalikan oleh pertanyaan NPRA.\"",
+   "note": "Dibetulkan: bahagian ayat ini yang menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong) dipadam, kerana jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-diltiazem_hydrochloride-1",
+   "drug": "diltiazem_hydrochloride",
+   "file": "diltiazem_hydrochloride.md",
+   "action": "correct",
+   "claim": " Walau bagaimanapun, semua butir peringkat lesen (nombor kelulusan, nama produk, bentuk dos, dan teks petunjukan yang diluluskan) sedang hilang dari data pada masa ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Walau bagaimanapun, semua butir peringkat lesen (nombor kelulusan, nama produk, bentuk dos, dan teks petunjukan yang diluluskan) sedang hilang dari data pada masa ini.\"",
+   "note": "Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-diltiazem_hydrochloride-2",
+   "drug": "diltiazem_hydrochloride",
+   "file": "diltiazem_hydrochloride.md",
+   "action": "correct",
+   "claim": "untuk mengisi nombor kelulusan, nama produk, bentuk dos, dan teks petunjukan yang diluluskan",
+   "replacement": "untuk mengisi bentuk dos dan teks petunjukan yang diluluskan",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dibetulkan: \"untuk mengisi nombor kelulusan, nama produk, bentuk dos, dan teks petunjukan yang diluluskan\" → \"untuk mengisi bentuk dos dan teks petunjukan yang diluluskan\"",
+   "note": "Dibetulkan: premis bahawa nombor pendaftaran dan nama produk belum tersedia telah dipadam (kini disenaraikan dalam jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA, data.gov.my); cadangan tindakan lain tidak diubah.",
+   "finding": "待辦以「號碼、品名未取得」為前提；程式表已列出，只拿掉錯的前提，建議內容不動",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-lixisenatide-1",
+   "drug": "lixisenatide",
+   "file": "lixisenatide.md",
+   "action": "correct",
+   "claim": " Walau bagaimanapun, butiran lesen individu — seperti nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan — tidak dikembalikan dalam pakej bukti ini (kesemua medan adalah rentetan kosong).",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Walau bagaimanapun, butiran lesen individu — seperti nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan — tidak dikembalikan dalam pakej bukti ini (kesemua medan adalah rentetan kosong).\"",
+   "note": "Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-colchicine-1",
+   "drug": "colchicine",
+   "file": "colchicine.md",
+   "action": "correct",
+   "claim": "Maklumat ini bercanggah dengan penggunaan klinikal colchicine yang meluas, maka ia perlu disemak semula dengan sumber NPRA.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Maklumat ini bercanggah dengan penggunaan klinikal colchicine yang meluas, maka ia perlu disemak semula dengan sumber NPRA.\"",
+   "note": "Dipadam: ayat ini merujuk kepada kenyataan asal bahawa ubat ini tiada pendaftaran di Malaysia (kenyataan itu telah dipadam dalam pembetulan pendaftaran mengikut bahan aktif); data pendaftaran produk NPRA (data.gov.my) merekodkan pendaftaran ubat ini, seperti dalam jadual pendaftaran di bahagian ini. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "10-29 刪掉「本藥在馬來西亞沒有登記」句後留下的殘句，前提已不成立（快照事實層有登記，程式表已列出）",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-zonisamide-1",
+   "drug": "zonisamide",
+   "file": "zonisamide.md",
+   "action": "correct",
+   "claim": "Status ini perlu disahkan semula kerana ia mungkin tidak mencerminkan kelulusan serantau.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Status ini perlu disahkan semula kerana ia mungkin tidak mencerminkan kelulusan serantau.\"",
+   "note": "Dipadam: ayat ini merujuk kepada kenyataan asal bahawa ubat ini tiada pendaftaran di Malaysia (kenyataan itu telah dipadam dalam pembetulan pendaftaran mengikut bahan aktif); data pendaftaran produk NPRA (data.gov.my) merekodkan pendaftaran ubat ini, seperti dalam jadual pendaftaran di bahagian ini. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "10-29 刪掉「本藥在馬來西亞沒有登記」句後留下的殘句，前提已不成立（快照事實層有登記，程式表已列出）",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-insulin_detemir-1",
+   "drug": "insulin_detemir",
+   "file": "insulin_detemir.md",
+   "action": "correct",
+   "claim": "Oleh itu, jadual pendaftaran tidak dipaparkan.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Oleh itu, jadual pendaftaran tidak dipaparkan.\"",
+   "note": "Dipadam: ayat ini merujuk kepada kenyataan asal bahawa ubat ini tiada pendaftaran di Malaysia (kenyataan itu telah dipadam dalam pembetulan pendaftaran mengikut bahan aktif); data pendaftaran produk NPRA (data.gov.my) merekodkan pendaftaran ubat ini, seperti dalam jadual pendaftaran di bahagian ini. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "10-29 刪掉「本藥在馬來西亞沒有登記」句後留下的殘句，前提已不成立（快照事實層有登記，程式表已列出）",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-azelastine_hydrochloride-1",
+   "drug": "azelastine_hydrochloride",
+   "file": "azelastine_hydrochloride.md",
+   "action": "correct",
+   "claim": "> **Nota:** Dua pendaftaran telah dikenalpasti oleh pertanyaan NPRA (tarikh pertanyaan: 2026-03-27), tetapi medan lesen yang terperinci (nombor kebenaran, nama produk, bentuk ubat, indikasi yang diluluskan) tidak diisi dalam paket bukti. Pengambilan semula data NPRA diperlukan.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"**Nota:** Dua pendaftaran telah dikenalpasti oleh pertanyaan NPRA (tarikh pertanyaan: 2026-03-27), tetapi medan lesen yang terperinci (nombor kebenaran, nama produk, bentuk ubat, indikasi yang diluluskan) tidak diisi dalam paket bukti. Pengambilan semula data NPRA diperlukan.\"",
+   "note": "Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-baloxavir_marboxil-1",
+   "drug": "baloxavir_marboxil",
+   "file": "baloxavir_marboxil.md",
+   "action": "correct",
+   "claim": "> **Nota:** Pertanyaan NPRA mengesahkan 1 pendaftaran untuk Baloxavir marboxil di Malaysia, tetapi butiran lesen (nombor kebenaran, nama produk, bentuk dos, dan teks petunjukan yang diluluskan) tidak diisi dalam Evidence Pack. Jurang data ini harus diperbaiki dengan menanyakan [pangkalan data NPRA Quest3+](https://quest3plus.bpfk.gov.my/).",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"**Nota:** Pertanyaan NPRA mengesahkan 1 pendaftaran untuk Baloxavir marboxil di Malaysia, tetapi butiran lesen (nombor kebenaran, nama produk, bentuk dos, dan teks petunjukan yang diluluskan) tidak diisi dalam Evidence Pack. Jurang data ini harus diperbaiki dengan menanyakan [pangkalan data NPRA Quest3+](https://quest3plus.bpfk.gov.my/).\"",
+   "note": "Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-benserazide_hydrochloride-1",
+   "drug": "benserazide_hydrochloride",
+   "file": "benserazide_hydrochloride.md",
+   "action": "correct",
+   "claim": "> **Nota:** Tiga pendaftaran telah dikenalpasti dalam pangkalan data NPRA, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam pakej bukti. Ini mewakili jurang data yang perlu diperbetulkan dengan membuat pertanyaan ke pangkalan data NPRA secara langsung.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"**Nota:** Tiga pendaftaran telah dikenalpasti dalam pangkalan data NPRA, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam pakej bukti. Ini mewakili jurang data yang perlu diperbetulkan dengan membuat pertanyaan ke pangkalan data NPRA secara langsung.\"",
+   "note": "Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-bismuth_subgallate-1",
+   "drug": "bismuth_subgallate",
+   "file": "bismuth_subgallate.md",
+   "action": "correct",
+   "claim": "> **Nota:** Satu lesen dicatat dalam pangkalan data NPRA, tetapi semua medan perincian (nombor lesen, nama produk, bentuk dos, petunjuk kegunaan yang diluluskan) adalah kosong dalam pakej bukti semasa. Ini perlu diambil daripada portal NPRA.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"**Nota:** Satu lesen dicatat dalam pangkalan data NPRA, tetapi semua medan perincian (nombor lesen, nama produk, bentuk dos, petunjuk kegunaan yang diluluskan) adalah kosong dalam pakej bukti semasa. Ini perlu diambil daripada portal NPRA.\"",
+   "note": "Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-brexpiprazole-1",
+   "drug": "brexpiprazole",
+   "file": "brexpiprazole.md",
+   "action": "correct",
+   "claim": "> **Nota:** 6 lesen dilaporkan sebagai terdaftar, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan indikasi penggunaan yang diluluskan) tidak tersedia dalam dataset semasa. Daftar NPRA harus diminta semula untuk mengisi bidang-bidang ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"**Nota:** 6 lesen dilaporkan sebagai terdaftar, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan indikasi penggunaan yang diluluskan) tidak tersedia dalam dataset semasa. Daftar NPRA harus diminta semula untuk mengisi bidang-bidang ini.\"",
+   "note": "Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-bromhexine_hcl-1",
+   "drug": "bromhexine_hcl",
+   "file": "bromhexine_hcl.md",
+   "action": "correct",
+   "claim": "> **Nota:** Walaupun 37 pendaftaran NPRA telah diambil untuk Bromheksina HCL, butiran lesen individu (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diisi dalam pakej bukti. Pertanyaan susulan ke pangkalan data NPRA diperlukan untuk melengkapkan bahagian ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"**Nota:** Walaupun 37 pendaftaran NPRA telah diambil untuk Bromheksina HCL, butiran lesen individu (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diisi dalam pakej bukti. Pertanyaan susulan ke pangkalan data NPRA diperlukan untuk melengkapkan bahagian ini.\"",
+   "note": "Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-dextrose_anhydrous-1",
+   "drug": "dextrose_anhydrous",
+   "file": "dextrose_anhydrous.md",
+   "action": "correct",
+   "claim": "> **Nota:** 15 pendaftaran telah dikenal pasti dalam pangkalan data NPRA untuk Dekstrosa Anhidrat, tetapi rekod lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam bungkus bukti. Jurang data ini harus diperbetulkan dengan membuat pertanyaan semula kepada pangkalan data NPRA.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"**Nota:** 15 pendaftaran telah dikenal pasti dalam pangkalan data NPRA untuk Dekstrosa Anhidrat, tetapi rekod lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam bungkus bukti. Jurang data ini harus diperbetulkan dengan membuat pertanyaan semula kepada pangkalan data NPRA.\"",
+   "note": "Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-diphenoxylate_hydrochloride-1",
+   "drug": "diphenoxylate_hydrochloride",
+   "file": "diphenoxylate_hydrochloride.md",
+   "action": "correct",
+   "claim": "> **Nota:** 4 pendaftaran direkodkan dalam pangkalan data peraturan, tetapi maklumat lesen terperinci (nombor kelulusan, nama produk, bentuk dos, dan teks petunjuk penggunaan yang diluluskan) tidak diisi dalam pakej bukti semasa. Data ini harus diambil daripada pangkalan data NPRA untuk melengkapkan penilaian.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"**Nota:** 4 pendaftaran direkodkan dalam pangkalan data peraturan, tetapi maklumat lesen terperinci (nombor kelulusan, nama produk, bentuk dos, dan teks petunjuk penggunaan yang diluluskan) tidak diisi dalam pakej bukti semasa. Data ini harus diambil daripada pangkalan data NPRA untuk melengkapkan penilaian.\"",
+   "note": "Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-linagliptin-1",
+   "drug": "linagliptin",
+   "file": "linagliptin.md",
+   "action": "correct",
+   "claim": "9 pendaftaran NPRA telah disahkan, tetapi semua rekod lesen individu dalam Evidence Pack ini tidak dipenuhi (rentetan kosong). Maklumat peringkat produk yang terperinci tidak tersedia sehingga data lesen diambil dari pangkalan data NPRA.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"9 pendaftaran NPRA telah disahkan, tetapi semua rekod lesen individu dalam Evidence Pack ini tidak dipenuhi (rentetan kosong). Maklumat peringkat produk yang terperinci tidak tersedia sehingga data lesen diambil dari pangkalan data NPRA.\"",
+   "note": "Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-linezolid-1",
+   "drug": "linezolid",
+   "file": "linezolid.md",
+   "action": "correct",
+   "claim": "Sembilan pendaftaran aktif direkodkan dengan Agensi Kawal Selia Farmaseutikal Kebangsaan (NPRA) Malaysia. Walau bagaimanapun, semua medan butiran lesen (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) telah dikembalikan sebagai rentetan kosong dalam gabungan data semasa. Jadual di bawah mencerminkan jurang data ini.",
+   "replacement": "Pendaftaran aktif linezolid direkodkan dengan Agensi Kawal Selia Farmaseutikal Kebangsaan (NPRA) Malaysia.",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dibetulkan: \"Sembilan pendaftaran aktif direkodkan dengan Agensi Kawal Selia Farmaseutikal Kebangsaan (NPRA) Malaysia. Walau bagaimanapun, semua medan butiran lesen (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) telah dikembalikan sebagai rentetan kosong dalam gabungan data semasa. Jadual di bawah mencerminkan jurang data ini.\" → \"Pendaftaran aktif linezolid direkodkan dengan Agensi Kawal Selia Farmaseutikal Kebangsaan (NPRA) Malaysia.\"",
+   "note": "Dibetulkan: bilangan \"Sembilan\" ialah bilangan lama daripada pakej bukti semasa laporan ditulis (data NPRA kini merekodkan lebih banyak pendaftaran), dan ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "報告原表是空白佔位表、正文講證據包欄位空白；2026-11-24 換成程式表後已有號碼、品名、持有人，跟表矛盾；正文寫死的張數跟快照事實層不符，改成不寫數字（張數見 Gambaran Ringkas）",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124b-linezolid-2",
+   "drug": "linezolid",
+   "file": "linezolid.md",
+   "action": "correct",
+   "claim": "> **Tindakan diperlukan:** Kueri semula pangkalan data NPRA dengan pengekstrakan medan yang jelas untuk semua 9 pendaftaran, atau muat turun risalah maklumat produk yang sepadan, untuk memenuhi jadual ini.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"**Tindakan diperlukan:** Kueri semula pangkalan data NPRA dengan pengekstrakan medan yang jelas untuk semua 9 pendaftaran, atau muat turun risalah maklumat produk yang sepadan, untuk memenuhi jadual ini.\"",
+   "note": "Dipadam: tindakan ini bertujuan mengisi jadual pendaftaran, dan jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status.",
+   "finding": "待辦唯一目的是「填滿許可證表」；程式表已列出，整條刪除",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
   }
  ]
 }

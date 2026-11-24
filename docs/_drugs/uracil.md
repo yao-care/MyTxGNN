@@ -70,11 +70,21 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun.
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19930398AZ | PROPYL TABLET 50MG | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL19950200ARZ | DBL® Fluorouracil Injection BP 500mg/10ml | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL09082788AZ | FLURAC INJECTION B.P. 50MG/ML | Bahan tunggal | JETPHARMA SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL09102913AZ | UFUR Capsule | Kombinasi | PHARM-D SDN. BHD. | Sah |
+| MAL19871320AZ | VERRUMAL SOLUTION | Kombinasi | ZUELLIG PHARMA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 <!-- review:begin my-lic-20261105-uracil-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data yang disusun untuk laporan ini menunjukkan status pasaran "Dipasarkan", dengan 5 lesen yang sah dan tiada lesen yang dibatalkan. Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data yang disusun untuk laporan ini menunjukkan status pasaran "Dipasarkan", dengan 5 lesen yang sah dan tiada lesen yang dibatalkan. Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Ayat yang tinggal, "Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun.", turut dipadam (2026-11-24): bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-uracil-1 -->
 
@@ -102,7 +112,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Data yang disusun untuk laporan ini menunjukkan status pasaran "Dipasarkan", dengan 5 lesen yang sah dan tiada lesen yang dibatalkan" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Data yang disusun untuk laporan ini menunjukkan status pasaran "Dipasarkan", dengan 5 lesen yang sah dan tiada lesen yang dibatalkan. Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun." | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

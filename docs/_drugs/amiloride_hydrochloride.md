@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00594
 monitor_inn: "Amiloride"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amiloride Hydrochloride: indikasi baharu diramal Penyakit renal hipertensi malignan (malignant hypertensive renal disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
@@ -80,6 +80,16 @@ Buat masa ini tiada literatur berkaitan yang tersedia untuk indikasi ini.
 ## Maklumat Pasaran di Malaysia
 
 Data yang dikumpulkan untuk laporan ini menunjukkan semua lesen yang sah di Malaysia (3 lesen) ialah produk kombinasi. Tiada lesen produk bahan tunggal amiloride yang sah dicatatkan. Lesen produk kombinasi tidak boleh digunakan untuk menerangkan status kelulusan amiloride sebagai bahan tunggal.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09072804AZ | Amilozide Tablet | Kombinasi | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL19900184AZ | MODURIDE TABLET | Kombinasi | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL19984702ACRZ | AA-Amilzide Tablet 50mg/5mg | Kombinasi | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

@@ -99,6 +99,14 @@ Walau bagaimanapun, kajian Fasa 2 (NCT03312023, diterbitkan sebagai PMID 3604550
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20116010AZ | VIRPAS - Ledipasvir & Sofosbuvir Tablets 90mg/400mg | Kombinasi | UNIMED SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

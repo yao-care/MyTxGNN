@@ -91,7 +91,7 @@ Pada masa ini tiada kesusasteraan berkaitan tersedia dalam Evidence Pack ini.
 
 ## Maklumat Pasaran Malaysia
 
-Tiga pendaftaran produk disahkan sebagai berdaftar pada masa ini di Malaysia; walau bagaimanapun, data pendaftaran terperinci (nombor MAL, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam Evidence Pack yang dikembalikan oleh pertanyaan NPRA.
+Tiga pendaftaran produk disahkan sebagai berdaftar pada masa ini di Malaysia.
 
 <!-- licenses:begin -->
 
@@ -102,6 +102,12 @@ Tiga pendaftaran produk disahkan sebagai berdaftar pada masa ini di Malaysia; wa
 | MAL22016003AZ | Spedra 200mg Tablets | Bahan tunggal | A. MENARINI SINGAPORE PTE. LTD. | Sah |
 
 <!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-avanafil-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "; walau bagaimanapun, data pendaftaran terperinci (nombor MAL, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam Evidence Pack yang dikembalikan oleh pertanyaan NPRA." Dibetulkan: bahagian ayat ini yang menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong) dipadam, kerana jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-avanafil-1 -->
 
 Untuk mendapatkan butiran pendaftaran yang lengkap, pertanyakan pangkalan data e-Farmasi NPRA secara langsung menggunakan INN "AVANAFIL". 3 produk berdaftar dijangka akan membawa petunjuk yang diluluskan bagi disfungsi ereksi.
 
@@ -140,6 +146,18 @@ Evidence Pack untuk Avanafil amat tidak lengkap — tiada ramalan penggunaan sem
 ---
 
 > ⚠️ *Laporan ini untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Semua calon penggunaan semula ubat memerlukan pengesahan klinikal sebelum sebarang aplikasi terapeutik.*
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: "; walau bagaimanapun, data pendaftaran terperinci (nombor MAL, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam Evidence Pack yang dikembalikan oleh pertanyaan NPRA." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

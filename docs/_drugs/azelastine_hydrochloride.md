@@ -79,7 +79,11 @@ Pada masa ini tiada kesusasteraan berkaitan yang tersedia — tiada indikasi yan
 
 <!-- licenses:end -->
 
-> **Nota:** Dua pendaftaran telah dikenalpasti oleh pertanyaan NPRA (tarikh pertanyaan: 2026-03-27), tetapi medan lesen yang terperinci (nombor kebenaran, nama produk, bentuk ubat, indikasi yang diluluskan) tidak diisi dalam paket bukti. Pengambilan semula data NPRA diperlukan.
+<!-- review:begin my-lic-20261124b-azelastine_hydrochloride-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "**Nota:** Dua pendaftaran telah dikenalpasti oleh pertanyaan NPRA (tarikh pertanyaan: 2026-03-27), tetapi medan lesen yang terperinci (nombor kebenaran, nama produk, bentuk ubat, indikasi yang diluluskan) tidak diisi dalam paket bukti. Pengambilan semula data NPRA diperlukan." Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-azelastine_hydrochloride-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -103,6 +107,18 @@ Tiada calon penghematan ubat telah diprediksi oleh TxGNN untuk Azelastina Hidrok
 ---
 
 *Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak membentuk nasihat perubatan. Semua calon penghematan ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: "**Nota:** Dua pendaftaran telah dikenalpasti oleh pertanyaan NPRA (tarikh pertanyaan: 2026-03-27), tetapi medan lesen yang terperinci (nombor kebenaran, nama produk, bentuk ubat, indikasi yang diluluskan) tidak diisi dalam paket bukti. Pengambilan semula data NPRA diperlukan." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

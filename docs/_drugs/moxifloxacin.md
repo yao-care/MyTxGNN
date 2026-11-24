@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 514
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MOXIFLOXACIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
 description: "Moxifloxacin: indikasi baharu diramal Hiperamilasemia (hyperamylasemia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 21 (sah: 21)"
@@ -80,6 +80,20 @@ Setakat ini tiada literatur berkaitan untuk hiperamilasemia.
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16015044AZ | ZANAFLOX EYE DROPS 0.5% W/V | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+| MAL16035023AZ | MOXI 400 (MOXIFLOXACIN HYDROCHLORIDE TABLETS 400 MG) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL17107039ACREZ | hovid Moxifloxacin Ophthalmic Solution 0.5% w/v | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL18026179AZ | MOSI (Moxifloxacin Ophthalmic Solution 0.5%w/v) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL18106020AZ | MOXIMAC 400MG TABLETS (MOXIFLOXACIN TABLET) | Bahan tunggal | SYNERRV SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 21 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

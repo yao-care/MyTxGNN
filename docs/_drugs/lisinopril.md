@@ -80,6 +80,20 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk infarksi miokardium 
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05101664AZ | Dapril 10mg Tablets | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL05101665AZ | Dapril 20mg tablets | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL05101666AZ | Dapril 5mg tablets | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL19890679ACZ | ZESTRIL 5MG TABLET | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL19890680ACZ | ZESTRIL 10MG TABLET | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 9 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

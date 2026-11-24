@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 660
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "streptomycin"
 predicted_indications: ["conjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "Lyme disease", "infectious otitis interna"]
 description: "Streptomycin: indikasi baharu diramal Konjunktivitis (conjunctivitis) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
@@ -93,6 +93,17 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL14070077HAC | SPECTIVET 50% Water Soluble Powder | Bahan tunggal | Lim Seng Pharmachem Sdn Bhd | Sah |
+| MAL20013448AZ | STREPTIN INJECTION 1GM | Bahan tunggal | SM PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL14090122HA | Pen & Strep suspension for injection | Kombinasi | Borneosew Medical Trading (M) Sdn Bhd | Sah |
+| MAL22026023HA | Penstrep-400 Suspension for Injection | Kombinasi | Danberg (m) Sdn Bhd | Sah |
+| MAL23046045HA | Vime Penstrep Suspension Injectable | Kombinasi | Vemedim Sdn Bhd | Sah |
+
+<!-- licenses:end -->
 
 ---
 

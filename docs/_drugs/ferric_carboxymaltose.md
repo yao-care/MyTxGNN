@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 354
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "FERRIC CARBOXYMALTOSE"
 predicted_indications: ["bronchitis"]
 description: "Ferric Carboxymaltose: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -69,6 +69,15 @@ Selain itu, besi intravena sebenarnya boleh menimbulkan kebimbangan semasa jangk
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21056003ACZ | Ferinject 50 mg iron/mL solution for injection/infusion | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL26076022AZ | REDCYTEPLUS (50 mg Iron/mL Solution for Injection/Infusion) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

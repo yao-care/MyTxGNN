@@ -1546,109 +1546,169 @@
    "source": "市場段落換成程式許可證表後，正文講證據包欄位空白／表待補的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "acalabrutinib",
    "file": "acalabrutinib.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Walau bagaimanapun, medan perincian lesen tidak diisi dalam ekstrak data semasa.",
    "added": "2026-11-24",
-   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄"
+   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄",
+   "record_ids": [
+    "my-lic-20261124b-acalabrutinib-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪：講證據包欄位空白／表待補的句子以查核紀錄刪除或只拿掉錯的前提（程式表已列出號碼、品名、持有人與狀態）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文講證據包欄位空白／表待補的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "acalabrutinib",
    "file": "acalabrutinib.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Jadual di bawah mencerminkan keadaan mentah Pakej Bukti.",
    "added": "2026-11-24",
-   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄"
+   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄",
+   "record_ids": [
+    "my-lic-20261124b-acalabrutinib-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪：講證據包欄位空白／表待補的句子以查核紀錄刪除或只拿掉錯的前提（程式表已列出號碼、品名、持有人與狀態）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文講證據包欄位空白／表待補的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "acalabrutinib",
    "file": "acalabrutinib.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "> **Tindakan diperlukan:** Jalankan semula saluran ekstraksi data NPRA dengan pengambilan perincian lesen didayakan untuk mengisi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan.",
    "added": "2026-11-24",
-   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄"
+   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄",
+   "record_ids": [
+    "my-lic-20261124b-acalabrutinib-2"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪：講證據包欄位空白／表待補的句子以查核紀錄刪除或只拿掉錯的前提（程式表已列出號碼、品名、持有人與狀態）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文講證據包欄位空白／表待補的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "artesunate",
    "file": "artesunate.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Pakej Bukti mengesahkan **1 kebenaran pasaran aktif** di Malaysia; walau bagaimanapun, semua medan terperinci pendaftaran kini kosong.",
    "added": "2026-11-24",
-   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄"
+   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄",
+   "record_ids": [
+    "my-lic-20261124b-artesunate-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪：講證據包欄位空白／表待補的句子以查核紀錄刪除或只拿掉錯的前提（程式表已列出號碼、品名、持有人與狀態）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文講證據包欄位空白／表待補的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "artesunate",
    "file": "artesunate.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Untuk mengisi jadual ini, rekod pendaftaran NPRA lengkap untuk Artesunate mesti diambil semula dan dianalisis.",
    "added": "2026-11-24",
-   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄"
+   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄",
+   "record_ids": [
+    "my-lic-20261124b-artesunate-2"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪：講證據包欄位空白／表待補的句子以查核紀錄刪除或只拿掉錯的前提（程式表已列出號碼、品名、持有人與狀態）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文講證據包欄位空白／表待補的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "atovaquone",
    "file": "atovaquone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Pertanyaan NPRA mengembalikan 1 pendaftaran Dipasarkan, tetapi Evidence Pack ini belum mendapatkan medan pendaftaran terperinci (nama produk, bentuk dos, indikasi yang diluluskan, dll.).",
    "added": "2026-11-24",
-   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄"
+   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄",
+   "record_ids": [
+    "my-lic-20261124b-atovaquone-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪：講證據包欄位空白／表待補的句子以查核紀錄刪除或只拿掉錯的前提（程式表已列出號碼、品名、持有人與狀態）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文講證據包欄位空白／表待補的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "atovaquone",
    "file": "atovaquone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "> **Langkah Pemulihan**: Melalui antara muka pertanyaan rasmi NPRA, dapatkan maklumat produk lengkap menggunakan nombor pendaftaran dan isikan jadual di atas.",
    "added": "2026-11-24",
-   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄"
+   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄",
+   "record_ids": [
+    "my-lic-20261124b-atovaquone-2"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪：講證據包欄位空白／表待補的句子以查核紀錄刪除或只拿掉錯的前提（程式表已列出號碼、品名、持有人與狀態）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文講證據包欄位空白／表待補的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "baloxavir_marboxil",
    "file": "baloxavir_marboxil.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "> **Nota:** Pertanyaan NPRA mengesahkan 1 pendaftaran untuk Baloxavir marboxil di Malaysia, tetapi butiran lesen (nombor kebenaran, nama produk, bentuk dos, dan teks petunjukan yang diluluskan) tidak diisi dalam Evidence Pack.",
    "added": "2026-11-24",
-   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄"
+   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄",
+   "record_ids": [
+    "my-lic-20261124b-baloxavir_marboxil-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪：講證據包欄位空白／表待補的句子以查核紀錄刪除或只拿掉錯的前提（程式表已列出號碼、品名、持有人與狀態）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文講證據包欄位空白／表待補的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "benserazide_hydrochloride",
    "file": "benserazide_hydrochloride.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "> **Nota:** Tiga pendaftaran telah dikenalpasti dalam pangkalan data NPRA, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam pakej bukti.",
    "added": "2026-11-24",
-   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄"
+   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄",
+   "record_ids": [
+    "my-lic-20261124b-benserazide_hydrochloride-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪：講證據包欄位空白／表待補的句子以查核紀錄刪除或只拿掉錯的前提（程式表已列出號碼、品名、持有人與狀態）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文講證據包欄位空白／表待補的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "diphenoxylate_hydrochloride",
    "file": "diphenoxylate_hydrochloride.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "> **Nota:** 4 pendaftaran direkodkan dalam pangkalan data peraturan, tetapi maklumat lesen terperinci (nombor kelulusan, nama produk, bentuk dos, dan teks petunjuk penggunaan yang diluluskan) tidak diisi dalam pakej bukti semasa.",
    "added": "2026-11-24",
-   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄"
+   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄",
+   "record_ids": [
+    "my-lic-20261124b-diphenoxylate_hydrochloride-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪：講證據包欄位空白／表待補的句子以查核紀錄刪除或只拿掉錯的前提（程式表已列出號碼、品名、持有人與狀態）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文講證據包欄位空白／表待補的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "linagliptin",
    "file": "linagliptin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "9 pendaftaran NPRA telah disahkan, tetapi semua rekod lesen individu dalam Evidence Pack ini tidak dipenuhi (rentetan kosong).",
    "added": "2026-11-24",
-   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄"
+   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄",
+   "record_ids": [
+    "my-lic-20261124b-linagliptin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪：講證據包欄位空白／表待補的句子以查核紀錄刪除或只拿掉錯的前提（程式表已列出號碼、品名、持有人與狀態）"
   },
   {
    "source": "市場段落換成程式許可證表後，正文講證據包欄位空白／表待補的句子（scripts/sync_license_tables.py，2026-11-24）",
    "drug": "linagliptin",
    "file": "linagliptin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Maklumat peringkat produk yang terperinci tidak tersedia sehingga data lesen diambil dari pangkalan data NPRA.",
    "added": "2026-11-24",
-   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄"
+   "note": "報告原表是空白佔位表（證據包當時沒有登記欄位），2026-11-24 換成程式依證據包產生的表後已有內容；這句講的是證據包／資料收集過程（照 Kr/My/Br 規則講證據包的句子程式不改），讀起來會跟上面的表矛盾。要刪或改寫請寫查核紀錄",
+   "record_ids": [
+    "my-lic-20261124b-linagliptin-1"
+   ],
+   "resolved": "2026-11-24",
+   "resolution": "2026-11-24 第二輪：講證據包欄位空白／表待補的句子以查核紀錄刪除或只拿掉錯的前提（程式表已列出號碼、品名、持有人與狀態）"
   }
  ]
 }

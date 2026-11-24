@@ -99,6 +99,20 @@ Kajian lain dalam data yang dikompilasi ialah kajian haiwan dan ulasan farmakolo
 
 Mana-mana penggunaan klinikal akan memerlukan pengesahan status pendaftaran dengan NPRA terlebih dahulu.
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL08061577AZ | PANTAZ 40mg Tablets Pantoprazole Sodium | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL09051573AZ | Pantium-20mg Tablets | Bahan tunggal | JETPHARMA SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL09051574AZ | Pantium-40mg Tablets | Bahan tunggal | JETPHARMA SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL10021801AZ | PANTOR 20MG TABLET | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL10021802AZ | PANTOR 40MG TABLET | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 31 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 637
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "salmeterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
 description: "Salmeterol: indikasi baharu diramal Malformasi pernafasan (respiratory malformation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 18 (sah: 18)"
@@ -83,7 +83,27 @@ Tiada satu pun penerbitan ini mengkaji malformasi pernafasan secara langsung.
 
 ## Maklumat Pasaran Malaysia
 
-Menurut data yang dikumpulkan untuk laporan ini, status pasaran salmeterol di Malaysia ialah **dipasarkan**, dengan 18 lesen yang sah dan tiada yang dibatalkan. Butiran lesen individu tidak tersedia dalam data yang dikumpulkan.
+Menurut data yang dikumpulkan untuk laporan ini, status pasaran salmeterol di Malaysia ialah **dipasarkan**, dengan 18 lesen yang sah dan tiada yang dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07090897AZ | Seroflo-125 inhaler | Kombinasi | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL07090898AZ | Seroflo -250 Inhaler | Kombinasi | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL11040017ARZ | Seretide Evohaler Dose Counter 25 /50 mcg | Kombinasi | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL11040018ARZ | Seretide Evohaler Dose Counter 25 /125 mcg | Kombinasi | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL11040019ARZ | Seretide Evohaler Dose Counter 25 /250 mcg | Kombinasi | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 18 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-salmeterol-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Butiran lesen individu tidak tersedia dalam data yang dikumpulkan." Dipadam: ayat ini menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan, tetapi bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-salmeterol-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -111,11 +131,12 @@ Ramalan ini hanya disokong oleh model; percubaan dan penerbitan yang ada tidak m
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Serevent Diskus (salmeterol xinafoate) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d9728e-6b5c-4aee-bfb0-745e542ed2e4) |
+| 2026-11-24 | Dipadam: "Butiran lesen individu tidak tersedia dalam data yang dikumpulkan." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

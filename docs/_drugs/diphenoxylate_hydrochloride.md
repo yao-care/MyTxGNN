@@ -90,7 +90,11 @@ Jadual di atas menyenaraikan 1 daripada 4 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 
-> **Nota:** 4 pendaftaran direkodkan dalam pangkalan data peraturan, tetapi maklumat lesen terperinci (nombor kelulusan, nama produk, bentuk dos, dan teks petunjuk penggunaan yang diluluskan) tidak diisi dalam pakej bukti semasa. Data ini harus diambil daripada pangkalan data NPRA untuk melengkapkan penilaian.
+<!-- review:begin my-lic-20261124b-diphenoxylate_hydrochloride-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "**Nota:** 4 pendaftaran direkodkan dalam pangkalan data peraturan, tetapi maklumat lesen terperinci (nombor kelulusan, nama produk, bentuk dos, dan teks petunjuk penggunaan yang diluluskan) tidak diisi dalam pakej bukti semasa. Data ini harus diambil daripada pangkalan data NPRA untuk melengkapkan penilaian." Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-diphenoxylate_hydrochloride-1 -->
 
 ---
 
@@ -117,6 +121,18 @@ Model TxGNN tidak menghasilkan sebarang petunjuk penggunaan baru yang diramalkan
 - **Pengambilan butiran lesen NPRA**: Isikan 4 rekod lesen dengan nombor kelulusan, nama produk, bentuk dos, dan teks petunjuk penggunaan yang diluluskan
 - **Pengekstrakan data keselamatan**: Muat turun dan parskan PDF sisipan pakej daripada NPRA untuk memperoleh amaran, kontraindikasi, dan data interaksi (Jurang Data DG001 — **Menghalang**)
 - **Dokumentasi mekanisme tindakan**: Ambil butiran MOA daripada DrugBank untuk membolehkan analisis kesempurnaan mekanik masa depan
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: "**Nota:** 4 pendaftaran direkodkan dalam pangkalan data peraturan, tetapi maklumat lesen terperinci (nombor kelulusan, nama produk, bentuk dos, dan teks petunjuk penggunaan yang diluluskan) tidak diisi dalam pakej bukti semasa. Data ini harus diambil daripada pangkalan data NPRA untuk melengkapkan penilaian." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

@@ -86,7 +86,7 @@ Jeranji tiada kesusasteraan yang berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Dua lesen produk didaftarkan di bawah NPRA Malaysia untuk lixisenatide. Walau bagaimanapun, butiran lesen individu — seperti nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan — tidak dikembalikan dalam pakej bukti ini (kesemua medan adalah rentetan kosong).
+Dua lesen produk didaftarkan di bawah NPRA Malaysia untuk lixisenatide.
 
 <!-- licenses:begin -->
 
@@ -96,6 +96,12 @@ Dua lesen produk didaftarkan di bawah NPRA Malaysia untuk lixisenatide. Walau ba
 | MAL19056044AZ | Soliqua SoloStar 100units/mL+50mcg/mL solution for injection in a pre-filled pen | Kombinasi | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
 
 <!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-lixisenatide-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Walau bagaimanapun, butiran lesen individu — seperti nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan — tidak dikembalikan dalam pakej bukti ini (kesemua medan adalah rentetan kosong)." Dipadam: ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-lixisenatide-1 -->
 
 Sila sahkan secara langsung melalui **portal e-Search NPRA**: https://www.npra.gov.my/index.php/en/industry/registration/product-registration/check-product-registration-status.html
 
@@ -123,6 +129,18 @@ Pakej bukti ini tidak lengkap secara struktur — tiada hasil ramalan model TxGN
 - **Analisis PDF sisipan pakej NPRA/pengeluar** untuk mengekstrak indikasi yang diluluskan, amaran utama, dan kontraindikasi (DG001 — Penghalang)
 - **Isi butiran lesen** (nama produk, bentuk dos, teks indikasi yang diluluskan) dari rekod NPRA untuk 2 produk berdaftar
 - Apabila indikasi yang diramalkan dikenalpasti, **kumpul semula bukti ujian klinikal** (ClinicalTrials.gov / ICTRP) dan **bukti kesusasteraan PubMed** untuk memberikan tahap bukti yang sesuai (L1–L5)
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: "Walau bagaimanapun, butiran lesen individu — seperti nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan — tidak dikembalikan dalam pakej bukti ini (kesemua medan adalah rentetan kosong)." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

@@ -102,6 +102,20 @@ Hubungan antara indikasi asal (sawan) dengan migrain ialah kedua-duanya melibatk
 
 ## Maklumat Pasaran di Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24026044AZ | LACOTOR FILM-COATED TABLETS 150MG | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL24026045AZ | LACOTOR FILM-COATED TABLETS 100MG | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL24026046AZ | LACOTOR FILM-COATED TABLETS 50MG | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL24026048AZ | LACOTOR FILM-COATED TABLETS 200MG | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL26096012AZ | Lacasa 50 Lacosamide Film Coated Tablets Ph. Eur. 50 mg | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 289
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DIGOXIN"
 predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "hypoalphalipoproteinemia"]
 description: "Digoxin: indikasi baharu diramal Angina Prinzmetal (Prinzmetal angina) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
@@ -82,6 +82,17 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19861532AZ | LANOXIN PAEDIATRIC/GERIATRIC ELIXIR | Bahan tunggal | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+| MAL19973575AZ | LANOXIN PG 62.5MCG TABLETS | Bahan tunggal | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+| MAL19983999AZ | LANOXIN 250 MICROGRAMS TABLET | Bahan tunggal | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+| MAL21036004ACZ | Lanoxin Injection 0.5mg/2ml | Bahan tunggal | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+
+<!-- licenses:end -->
 
 ---
 

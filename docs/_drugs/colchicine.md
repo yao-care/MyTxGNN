@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 241
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "COLCHICINE"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
 description: "Colchicine: indikasi baharu diramal Malaria Plasmodium falciparum (Plasmodium falciparum malaria) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
@@ -85,7 +85,25 @@ Setakat ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Maklumat ini bercanggah dengan penggunaan klinikal colchicine yang meluas, maka ia perlu disemak semula dengan sumber NPRA.
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11035010AZ | GOUTNOR 0.5MG TABLET | Bahan tunggal | Noripharma Sdn. Bhd. | Sah |
+| MAL11035011AZ | GOUTNOR 0.6MG TABLET | Bahan tunggal | Noripharma Sdn. Bhd. | Sah |
+| MAL19930494AZ | TOLCHICINE TABLET 0.6MG | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL19962516AZ | Dyna Colchicine Tablet 0.5mg | Bahan tunggal | DYNAPHARM (M) SDN. BHD. | Sah |
+| MAL20116012ACZ | Colchimil 0.6mg Tablet | Bahan tunggal | MILRIN PHARMACEUTICAL COMPANY (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-colchicine-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Maklumat ini bercanggah dengan penggunaan klinikal colchicine yang meluas, maka ia perlu disemak semula dengan sumber NPRA." Dipadam: ayat ini merujuk kepada kenyataan asal bahawa ubat ini tiada pendaftaran di Malaysia (kenyataan itu telah dipadam dalam pembetulan pendaftaran mengikut bahan aktif); data pendaftaran produk NPRA (data.gov.my) merekodkan pendaftaran ubat ini, seperti dalam jadual pendaftaran di bahagian ini. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-colchicine-1 -->
 
 ---
 
@@ -119,6 +137,19 @@ Untuk amaran utama dan kontraindikasi rasmi, sila rujuk sisipan pakej.
 ## Nota Tambahan: Ramalan Lain
 
 - **Dermatofibrosarcoma protuberans** (skor 0.9937, tahap bukti L5): Tiada ujian klinikal mahupun literatur. Penyakit ini didorong oleh gabungan COL1A1-PDGFB dan dirawat dengan pembedahan serta imatinib; tiada rasional mapan untuk colchicine. Keputusan: Hold.
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dipadam: "Maklumat ini bercanggah dengan penggunaan klinikal colchicine yang meluas, maka ia perlu disemak semula dengan sumber NPRA." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

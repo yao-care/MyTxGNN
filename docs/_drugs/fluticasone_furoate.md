@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 371
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "FLUTICASONE FUROATE"
 predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis"]
 description: "Fluticasone Furoate: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
@@ -84,6 +84,17 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20081823ARZ | AVAMYS NASAL SPRAY | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL24026030AZ | ANSONIDE Nasal Spray 27.5 mcg/dose | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL14115017ARZ | Relvar Ellipta 100/25 micrograms inhalation powder, pre-dispensed | Kombinasi | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL14115018ARZ | Relvar Ellipta 200/25 micrograms inhalation powder, pre-dispensed | Kombinasi | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

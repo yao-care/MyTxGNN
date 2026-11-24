@@ -88,6 +88,14 @@ Pada masa ini tiada literatur berkaitan untuk indikasi pyelonephritis.
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20061471ARZ | RELENZA ROTADISK 5MG | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

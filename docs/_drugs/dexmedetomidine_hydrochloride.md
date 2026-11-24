@@ -71,13 +71,33 @@ Buat masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran di Malaysia
 
-Data tempatan menunjukkan status pasaran **dipasarkan**. Kesemua pendaftaran ialah produk bahan tunggal; ada yang telah dibatalkan atau tamat tempoh (bilangan semasa dalam Gambaran Ringkas). Senarai lesen terperinci dijana oleh program tapak dan tidak diulang di sini.
+Data tempatan menunjukkan status pasaran **dipasarkan**. Kesemua pendaftaran ialah produk bahan tunggal; ada yang telah dibatalkan atau tamat tempoh (bilangan semasa dalam Gambaran Ringkas). Senarai lesen terperinci dijana oleh program tapak.
 
 <!-- review:begin my-lic-20261117-dexmedetomidine_hydrochloride-1 -->
 
 > **Pembetulan semakan (2026-11-17)**: Asalnya dinyatakan: "Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibatalkan." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): 10 pendaftaran (semuanya bahan tunggal), 9 sah, 1 dibatalkan atau tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled).
 
 <!-- review:end my-lic-20261117-dexmedetomidine_hydrochloride-1 -->
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL17065012ACRZ | Dexmedetomidine Kabi 0.1mg/mL Concentrate for Infusion | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL19106012AZ | ICUNES 100mcg/ml Concentrate for Solution for Infusion | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL19116033AZ | HYDEX (Dexmedetomidine Concentrate For Infusion 100mcg/ml, 2 ml vial) | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL21036022AZ | Emidex 100mcg/ml Concentrate for Solution for Infusion | Bahan tunggal | NOVUGEN PHARMA SDN. BHD. | Sah |
+| MAL24036033AZ | Dexmedetomidine EVER Pharma 200 µg/2ml Concentrate for solution for infusion | Bahan tunggal | TERAJU PHARMA SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 10 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124b-dexmedetomidine_hydrochloride-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "dijana oleh program tapak dan tidak diulang di sini." Dibetulkan: bahagian ayat ini yang menyatakan butiran lesen individu tidak tersedia atau tidak disenaraikan dipadam, kerana bahagian ini kini mempunyai jadual pendaftaran NPRA yang dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-dexmedetomidine_hydrochloride-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -106,6 +126,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 |------|------|------|------|
 | 2026-11-17 | Bilangan pendaftaran: “Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibata” → “Kesemua pendaftaran ialah produk bahan tunggal; ada yang telah dibatal” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Precedex (dexmedetomidine hydrochloride) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=92b7ddaa-e45a-4b64-a802-bb5df8771dd6) |
+| 2026-11-24 | Dibetulkan: "dijana oleh program tapak dan tidak diulang di sini." → "dijana oleh program tapak." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

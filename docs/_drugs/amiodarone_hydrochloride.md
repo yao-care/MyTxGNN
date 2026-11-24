@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01118
 monitor_inn: "Amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amiodarone Hydrochloride: indikasi baharu diramal Takikardia ventrikel polimorfik katekolaminergik (catecholaminergic polymorphic ventricular tachycardia) (tahap bukti L4)."
 ---
 
@@ -94,6 +94,20 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 ## Maklumat Pasaran di Malaysia
 
 Semua pendaftaran tempatan produk amiodarone adalah sah dan berasaskan bahan tunggal. Nama produk menunjukkan terdapat bentuk tablet dan suntikan. Teks indikasi diluluskan tidak direkodkan dalam data tempatan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL10080068AZ | Eurythmic Tablet 200mg | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL12010005AZ | AMIODARONE HCL 150mg/3mL INJECTION Bioindustria L.I.M. | Bahan tunggal | MMS PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL14055149AZ | Eurythmic 50mg/ml Injection | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL18086165AZ | MYDRON Amiodarone Hydrochloride Injection 50mg/ml | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL19871890AZ | CORDARONE INJ 150MG (3ML AMP) | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

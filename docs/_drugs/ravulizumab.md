@@ -90,6 +90,14 @@ Sembilan ramalan lain turut diperoleh. Kesemuanya berada pada tahap bukti L5, ta
 
 ## Maklumat Pasaran Malaysia
 
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24096028ACRZ | Ultomiris 100mg/mL Concentrate For Solution For Infusion | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

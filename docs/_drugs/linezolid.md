@@ -84,7 +84,7 @@ Tiada petunjuk yang diramalkan tersedia dalam Evidence Pack ini; oleh itu, tiada
 
 ## Maklumat Pasaran Malaysia
 
-Sembilan pendaftaran aktif direkodkan dengan Agensi Kawal Selia Farmaseutikal Kebangsaan (NPRA) Malaysia. Walau bagaimanapun, semua medan butiran lesen (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) telah dikembalikan sebagai rentetan kosong dalam gabungan data semasa. Jadual di bawah mencerminkan jurang data ini.
+Pendaftaran aktif linezolid direkodkan dengan Agensi Kawal Selia Farmaseutikal Kebangsaan (NPRA) Malaysia.
 
 <!-- licenses:begin -->
 
@@ -96,7 +96,17 @@ Jadual di atas menyenaraikan 1 daripada 11 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 
-> **Tindakan diperlukan:** Kueri semula pangkalan data NPRA dengan pengekstrakan medan yang jelas untuk semua 9 pendaftaran, atau muat turun risalah maklumat produk yang sepadan, untuk memenuhi jadual ini.
+<!-- review:begin my-lic-20261124b-linezolid-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Sembilan pendaftaran aktif direkodkan dengan Agensi Kawal Selia Farmaseutikal Kebangsaan (NPRA) Malaysia. Walau bagaimanapun, semua medan butiran lesen (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) telah dikembalikan sebagai rentetan kosong dalam gabungan data semasa. Jadual di bawah mencerminkan jurang data ini." Dibetulkan: bilangan "Sembilan" ialah bilangan lama daripada pakej bukti semasa laporan ditulis (data NPRA kini merekodkan lebih banyak pendaftaran), dan ayat ini menerangkan keadaan pakej bukti semasa laporan ditulis (medan butiran pendaftaran kosong); jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my) dan mengandungi nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-linezolid-1 -->
+
+<!-- review:begin my-lic-20261124b-linezolid-2 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "**Tindakan diperlukan:** Kueri semula pangkalan data NPRA dengan pengekstrakan medan yang jelas untuk semua 9 pendaftaran, atau muat turun risalah maklumat produk yang sepadan, untuk memenuhi jadual ini." Dipadam: tindakan ini bertujuan mengisi jadual pendaftaran, dan jadual pendaftaran NPRA dalam bahagian ini kini dijana oleh program daripada data pendaftaran produk NPRA (data.gov.my), dengan nombor pendaftaran, nama produk, pemegang pendaftaran dan status. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124b-linezolid-2 -->
 
 ---
 
@@ -131,6 +141,19 @@ Evidence Pack untuk Linezolid pada masa ini tidak mengandungi ramalan penggubaha
 ---
 
 *Laporan ini adalah untuk rujukan penyelidikan sahaja dan tidak merupakan nasihat perubatan. Sebarang calon penggubahan semula ubat memerlukan pengesahan klinikal sebelum aplikasi.*
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dibetulkan: "Sembilan pendaftaran aktif direkodkan dengan Agensi Kawal Selia Farmaseutikal Kebangsaan (NPRA) Malaysia. Walau bagaimanapun, semua medan butiran lesen (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) telah dikembalikan sebagai rentetan kosong dalam gabungan data semasa. Jadual di bawah mencerminkan jurang data ini." → "Pendaftaran aktif linezolid direkodkan dengan Agensi Kawal Selia Farmaseutikal Kebangsaan (NPRA) Malaysia." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-24 | Dipadam: "**Tindakan diperlukan:** Kueri semula pangkalan data NPRA dengan pengekstrakan medan yang jelas untuk semua 9 pendaftaran, atau muat turun risalah maklumat produk yang sepadan, untuk memenuhi jadual ini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
 
 ## Penafian
 

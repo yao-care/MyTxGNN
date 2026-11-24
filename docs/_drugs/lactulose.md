@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 442
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LACTULOSE"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
 description: "Lactulose: indikasi baharu diramal Acute urate nephropathy (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 12 (sah: 12)"
@@ -96,6 +96,20 @@ Berikut ialah penerbitan yang paling relevan (tahap bukti dan jenis kajian mengi
 ---
 
 ## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13125056XZ | NOPHALAC SOLUTION 670mg/ml | Bahan tunggal | Noripharma Sdn. Bhd. | Sah |
+| MAL16065040XZ | ANPROLAC SOLUTION 670mg/ml | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL17015016XZ | UNILAC LACTULOSE 3.35G/5ML ORAL SOLUTION USP | Bahan tunggal | KCK PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL17117040XCZ | AVELAC ORAL SOLUTION 667mg/ml | Bahan tunggal | APEX PHARMACY MARKETING SDN. BHD. | Sah |
+| MAL19921431XZ | DUPHALAC SYRUP | Bahan tunggal | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 12 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

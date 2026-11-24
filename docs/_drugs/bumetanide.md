@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BUMETANIDE"
 predicted_indications: ["acute pulmonary heart disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Bumetanide: indikasi baharu diramal Penyakit jantung pulmonari akut (acute pulmonary heart disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
@@ -79,6 +79,16 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 ## Maklumat Pasaran Malaysia
 
 Bumetanide berstatus dipasarkan di Malaysia, dengan 3 lesen sah dan tiada yang dibatalkan.
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL10100009AZ | BUMET 1MG TABLET | Bahan tunggal | Noripharma Sdn. Bhd. | Sah |
+| MAL13115202ACZ | Burinex Injection 0.5mg/ml (4ml) | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL19913216ACZ | BURINEX TABLET 1MG | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

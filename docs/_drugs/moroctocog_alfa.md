@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 512
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MOROCTOCOG ALFA"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "acquired coagulation factor deficiency", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency"]
 description: "Moroctocog Alfa: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of platelets) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
@@ -93,6 +93,17 @@ Buat masa ini tiada literatur berkaitan yang tersedia.
 ---
 
 ## Maklumat Pasaran Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20091989AZ | Xyntha 250 IU Powder and Solvent for Solution for Injection | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL20091990AZ | Xyntha 500 IU Powder and Solvent for Solution for Injection | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL20091991AZ | Xyntha 1000 IU Powder and Solvent for Solution for Injection | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL20091992AZ | Xyntha 2000 IU Powder and Solvent for Solution for Injection | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 
