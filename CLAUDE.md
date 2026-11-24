@@ -651,3 +651,22 @@ amlodipine_besilate 81→128 張（有效 76→123）、diphenhydramine_hcl 21�
 - 補表頁正文張數另寫寬偵測（數字＋lesen／pendaftaran／produk，含文字數詞，對事實層任一讀法）：60 個數字 0 個不符。
 - checker 全量前後都是 P5 1（cyclosporine，原有）；gate exit 0。正文或表有變的 195 頁 last_modified_at 改 2026-11-24。
 
+
+## 第三輪：證據包排除鹽類部分屬於另一個藥的登記、缺市場段落的頁（2026-11-24）
+
+用戶 2026-11-24 第三輪決定（A「證據包成分對照修正」、B「整頁沒有市場段落的公開頁補程式表」）：
+- A. 原收集器（collectors/npra.py）依頁名子字串比對，arginine 頁收進 COVERSYL 5MG（PERINDOPRIL ARGININE；成分是 perindopril，arginine 只是鹽類）並在程式表列成 Bahan tunggal。
+  `scripts/exclude_salt_part_records.py`：SALT_PART 表（每筆附依據）列出「本藥只是另一個藥的鹽類／共晶／溶劑合物／配位基部分」的寫法；登記的成分裡含本藥名稱的都符合表上寫法、
+  而且沒有任何成分本身就是本藥時，移到 `npra.excluded_records`（原紀錄照存，加 excluded_reason／excluded_basis／excluded），不刪資料。
+  全站以成分主體比對掃出同類：arginine←perindopril arginine 23、potassium_chloride←glucosamine sulfate potassium chloride 17、sodium_chloride←同 13（沒有藥物頁）、
+  mannitol←dapagliflozin mannitol（Dapamac）2、propylene_glycol←dasatinib propylene glycol（TAZATRED）2、polyethylene_glycol←methoxy PEG-epoetin beta（MIRCERA）6、
+  potassium_acetate←7-hydroxymatairesinol potassium acetate 2、methionine←zinc methionine 19、sodium_phosphate←betamethasone／dexamethasone／prednisolone／riboflavin sodium phosphate 44（沒有藥物頁）、
+  zinc←bacitracin zinc 14（沒有藥物頁），共 10 個證據包 142 筆（arginine glutamate 等本藥本身的鹽照收）。
+  `rebuild_licenses_by_ingredient.py` 不補回 excluded_records；`.github/workflows/license-refresh.yml` 在 merge_duplicate_bundles 之後跑這支（重新收集證據包後也要再跑）。
+  7 頁概覽列、程式表、description 由程式同步；正文矛盾 2 句以 `my-lic-20261124c-mannitol-1`（刪 Dapamac 說明）、`my-lic-20261124c-propylene_glycol-1`（「Tiga pendaftaran ditemui」改成不寫數字）更正。
+  沒處理（不是鹽類部分，原收集器子字串規則的既有結果，要用戶決定）：glycine 頁收「Glycine max」（大豆）約 150 筆、ofloxacin 收 marbofloxacin／levofloxacin、citalopram 收 escitalopram、
+  omeprazole 收 esomeprazole、desonide 收 budesonide、loratadine 收 desloratadine 等（公開頁 85 頁有成分不含本藥名稱的紀錄、93 頁有本藥名稱只是更長名稱一部分的紀錄）。
+- B. 公開頁整頁沒有「## Maklumat Pasaran (di) Malaysia」、證據包有紀錄的 222 頁（新版報告格式）：`sync_license_tables.add_section` 在安全性段落前（沒有就結論、再沒有就 Penafian 前）補段落與程式表；
+  超過 200 頁，照工作說明先回報用戶，`ADD_SECTIONS` 預設關閉（`--add-sections` 才做），同意後改 True 並在 gate 加「公開頁有證據包紀錄卻沒有市場段落」。license_adapter PAGE_NOTE 已放行標題行。
+- `scripts/build_license_snapshot.py` 不帶 `--ws` 時不重建快照，只重排程式表、跑正文張數改寫。
+- checker 全量前後都是 P5 1（cyclosporine，原有）；gate exit 0。
