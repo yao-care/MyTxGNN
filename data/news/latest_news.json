@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T04:35:45.560442",
+  "fetched": "2026-11-24T15:30:26.029586",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -9,6 +9,37 @@
   ],
   "total_items": 11,
   "items": [
+    {
+      "title": "MediAsas: Affordable Assurance Means Little Without Affordable Health Care",
+      "url": "https://codeblue.galencentre.org/2026/11/mediasas-affordable-assurance-means-little-without-affordable-health-care/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-24T07:25:00",
+      "summary": "We cannot build affordable medical assurance on top of an unaffordable health care system. There is no evidence that MediAsas will halt future premium increase. The government must confront the more difficult issue of making health care itself affordable. The post MediAsas: Affordable Assurance Means Little Without Affordable Health Care appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "medical"
+      ]
+    },
+    {
+      "title": "MMA Calls For Fair On-Call Pay For Pre-Gazettement Doctors — MMA",
+      "url": "https://codeblue.galencentre.org/2026/11/mma-calls-for-fair-on-call-pay-for-pre-gazettement-doctors/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-24T06:40:50",
+      "summary": "Doctors deciding whether to build their careers in public service should be able to count on proper supervision and fair pay for the work they are already doing. The post MMA Calls For Fair On-Call Pay For Pre-Gazettement Doctors — MMA appeared first on CodeBlue .",
+      "keywords_matched": [
+        "doctor"
+      ]
+    },
+    {
+      "title": "We Cannot Medicate Our Way Out Of Obesity — Prof Dr Nirmala Bhoo Pathy",
+      "url": "https://codeblue.galencentre.org/2026/11/we-cannot-medicate-our-way-out-of-obesity-prof-dr-nirmala-bhoo-pathy/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-24T05:15:00",
+      "summary": "Neither advice nor medicine will be enough until those who shape how we live, move, and eat are held to their part too. The post We Cannot Medicate Our Way Out Of Obesity — Prof Dr Nirmala Bhoo Pathy appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medicine"
+      ]
+    },
     {
       "title": "Private Hospitals, Specialists Face Different Insurer Empanelment Rules: IHH CEO",
       "url": "https://codeblue.galencentre.org/2026/11/private-hospitals-specialists-face-different-insurer-empanelment-rules-ihh-ceo/",
@@ -84,35 +115,6 @@
         "drug",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "Same Duty, Different Screen: Digital Care, Evidence, And The Doctor’s Accountability — JJ Chan & Dr Arasu R.",
-      "url": "https://codeblue.galencentre.org/2026/11/same-duty-different-screen-digital-care-evidence-and-the-doctors-accountability-jj-chan-dr-arasu-r/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-20T09:08:57",
-      "summary": "Know what a remote assessment can and cannot establish. Say so to the patient, in terms they understand. Arrange a timely in-person assessment where the limits matter, and ensure appropriate follow-up. And write all of it down. The post Same Duty, Different Screen: Digital Care, Evidence, And The Doctor’s Accountability — JJ Chan & Dr Arasu R. appeared first on CodeBlue .",
-      "keywords_matched": [
-        "doctor",
-        "patient"
-      ]
-    },
-    {
-      "title": "Malaysia’s Pork Imports Surge More Than Fivefold In Five Years",
-      "url": "https://codeblue.galencentre.org/2026/11/malaysias-pork-imports-surge-more-than-fivefold-in-five-years/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-20T07:13:26",
-      "summary": "Malaysia’s pork imports surged 5.5-fold between 2020 and 2025, meeting about 37% of domestic requirements. KPKM approved 181 importer registrations from 11 countries, while live pig exports remain limited to Singapore. The post Malaysia’s Pork Imports Surge More Than Fivefold In Five Years appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "Regulatory Capture In Malaysian Health Care",
-      "url": "https://codeblue.galencentre.org/2026/11/regulatory-capture-in-malaysian-health-care/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-20T02:10:16",
-      "summary": "The consequences of regulatory capture are diminished safety standards, higher health care costs, and reduced access to care. The post Regulatory Capture In Malaysian Health Care appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health"
       ]
     },
     {
