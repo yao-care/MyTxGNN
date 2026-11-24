@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 590
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "POTASSIUM ACETATE"
 predicted_indications: ["renal tubular acidosis"]
-description: "Potassium Acetate: indikasi baharu diramal Renal tubular acidosis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 8 (sah: 8)"
+description: "Potassium Acetate: indikasi baharu diramal Renal tubular acidosis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
 # Potassium Acetate
@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Renal tubular acidosis |
 | Skor Ramalan TxGNN | 0.9990 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
-| Bilangan Pendaftaran | 8 (sah: 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan yang Disyorkan | Hold |
 
 ---

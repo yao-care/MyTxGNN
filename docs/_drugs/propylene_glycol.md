@@ -48,8 +48,8 @@ Propylene glycol ialah bahan yang digunakan dalam produk penjagaan mata, dan hub
 | Indikasi Baharu yang Diramalkan | Bronkitis |
 | Skor Ramalan TxGNN | 0.9990 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
-| Bilangan Pendaftaran | 3 (sah: 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Bilangan kelulusan | 3 pendaftaran (2 produk tunggal, 1 produk gabungan) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
@@ -73,14 +73,18 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan untuk bronkiti
 
 ## Maklumat Pasaran Malaysia
 
-Tiga pendaftaran ditemui. Tiada teks indikasi yang diluluskan dalam rekod, dan produk di bawah mungkin tidak mewakili propylene glycol sebagai bahan tunggal.
+Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Tiada teks indikasi yang diluluskan dalam rekod, dan produk di bawah mungkin tidak mewakili propylene glycol sebagai bahan tunggal.
+
+<!-- review:begin my-lic-20261124c-propylene_glycol-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Tiga pendaftaran ditemui." Dua daripada tiga pendaftaran asal ialah TAZATRED 50 mg dan 70 mg (MAL24026019ACZ, MAL24026020ACZ), dengan bahan aktif "Dasatinib (S) propylene glycol", iaitu solvat propilena glikol bagi dasatinib; bahan aktifnya ialah dasatinib, jadi kedua-duanya tidak lagi dikira sebagai pendaftaran propilena glikol. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124c-propylene_glycol-1 -->
 
 <!-- licenses:begin -->
 
 | No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
 |------|------|------|------|------|
-| MAL24026019ACZ | TAZATRED (Dasatinib Film-Coated Tablets 50mg) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
-| MAL24026020ACZ | TAZATRED (Dasatinib Film-Coated Tablets 70mg) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
 | MAL19871130AZ | OTEK-P EAR DROPS | Kombinasi | UNIMED SDN. BHD. | Sah |
 
 <!-- licenses:end -->
@@ -105,6 +109,19 @@ Ramalan lain dalam senarai (retinopati diabetik, pelbagai jenis katarak) juga ke
 - Data mekanisme tindakan (MOA) daripada DrugBank
 - Sebarang kajian klinikal yang secara langsung menilai propylene glycol untuk bronkitis, termasuk penilaian keselamatan penyedutan
 - Pengesahan produk berdaftar yang benar-benar mengandungi propylene glycol sebagai bahan aktif atau eksipien
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Dibetulkan: "Tiga pendaftaran ditemui." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

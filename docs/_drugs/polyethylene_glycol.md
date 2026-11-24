@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-24
 monitor_inn: "POLYETHYLENE GLYCOL"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
-description: "Polyethylene Glycol: indikasi baharu diramal Eritroderma iktiosiform kongenital (congenital ichthyosiform erythroderma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 9 (sah: 9)"
+description: "Polyethylene Glycol: indikasi baharu diramal Eritroderma iktiosiform kongenital (congenital ichthyosiform erythroderma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Polyethylene Glycol
@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Eritroderma iktiosiform kongenital (congenital ichthyosiform erythroderma) |
 | Skor Ramalan TxGNN | 0.9903 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 9) |
-| Bilangan Pendaftaran | 9 (sah: 9) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -75,12 +75,8 @@ Indikasi asal PEG (sembelit, mata kering) tidak bertindih dengan patofisiologi e
 | No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
 |------|------|------|------|------|
 | MAL17035019X | HoraLAX Powder for Oral Solution 350g | Bahan tunggal | HOVID BERHAD | Sah |
-| MAL20081745ARZ | MIRCERA SOLUTION FOR INJECTION IN PRE FILLED SYRINGE, 50MCG/0.3ML | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
-| MAL20081746ARZ | MIRCERA SOLUTION FOR INJECTION IN PRE FILLED SYRINGE, 100MCG/0.3ML | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
-| MAL20081747ARZ | MIRCERA SOLUTION FOR INJECTION IN PRE FILLED SYRINGE, 75MCG/0.3ML | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
-| MAL20081748ARZ | MIRCERA SOLUTION FOR INJECTION IN PRE FILLED SYRINGE, 150MCG/0.3ML | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
-
-Jadual di atas menyenaraikan 5 daripada 9 pendaftaran NPRA bagi ubat ini.
+| MAL20021428X | FORTRANS | Kombinasi | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL25116061X | KLEARIT (Polyethylene Glycol 3350 and Electrolytes for Oral Solution USP) | Kombinasi | BioCare Pharmaceutical (M) Sdn. Bhd. | Sah |
 
 <!-- licenses:end -->
 

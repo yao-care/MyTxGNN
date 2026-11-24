@@ -9,6 +9,7 @@ meta：產生日、Release tag、規則所在檔案。
 什麼時候跑：證據包或事實層變了之後（每週許可證排程、依成分重建都會自動跑，並把 snapshots/ 跟 docs/ 一起 commit）。
 用法（repo 根目錄，先還原 data/ 並在工作目錄跑 dump_license_facts）：
   python3 scripts/build_license_snapshot.py --ws <工作目錄> [--release-tag data-YYYYMMDD-HHMMSS]
+  python3 scripts/build_license_snapshot.py   （不帶 --ws：不重建快照，只重排程式表＋正文張數改寫；2026-11-24）
 """
 import datetime as dt
 import gzip
@@ -89,11 +90,13 @@ if __name__ == "__main__":
     _dl_p = _lf_os.path.join(_dl_root, "tools", "txgnn", ".claude", "drug_meta_description.py")
     _lf_ax.register(lambda: "--check" in _lf_sys.argv or not _lf_os.path.exists(_dl_p) or _lf_chk(_lf_sp.run([_lf_sys.executable, _dl_p, "--apply", "--root", _dl_root]), "drug_meta_description.py --apply"))
     a = sys.argv[1:]
-    ws = a[a.index("--ws") + 1]
     tag = a[a.index("--release-tag") + 1] if "--release-tag" in a else ""
     if not re.fullmatch(r"(data-[\w-]+)?", tag):
         sys.exit("--release-tag 要是 data-… 的 tag")
-    build(ws, tag)
+    if "--ws" in a:
+        build(a[a.index("--ws") + 1], tag)
+    else:  # 2026-11-24 第三輪：不帶 --ws 時不重建快照（沒有事實層），只依現有快照／證據包重排程式表、跑正文張數改寫
+        print("沒有 --ws：快照不重建，只重排程式許可證表、改寫正文張數")
     # 2026-11-24：快照換了，市場段落的程式許可證表先依同一份證據包重排（每週排程的 sync_tables 只重排狀態有變的藥時，
     # 證據包補收、排序變了的藥也跟上；只改程式區塊）
     _tbl = _slt()

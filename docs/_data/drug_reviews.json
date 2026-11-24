@@ -24126,6 +24126,47 @@
    ],
    "checked": "2026-11-24",
    "method": "2026-11-24 第二輪人工查核（用戶決定「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」；逐句對照證據包 npra.records、快照事實層與程式表）"
+  },
+  {
+   "id": "my-lic-20261124c-mannitol-1",
+   "drug": "mannitol",
+   "file": "mannitol.md",
+   "action": "correct",
+   "claim": "dua lagi pendaftaran (Dapamac 5 dan Dapamac 10, mengandungi dapagliflozin) turut dipadankan dalam rekod tetapi tidak disenaraikan di sini. ",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"dua lagi pendaftaran (Dapamac 5 dan Dapamac 10, mengandungi dapagliflozin) turut dipadankan dalam rekod tetapi tidak disenaraikan di sini.\"",
+   "note": "Dipadam: Dapamac 5 dan Dapamac 10 (MAL25036001AZ, MAL25036002AZ) mempunyai bahan aktif \"Dapagliflozin Mannitol\", iaitu kokristal dapagliflozin dengan manitol; bahan aktifnya ialah dapagliflozin, bukan manitol. Kedua-dua pendaftaran ini tidak lagi dikira sebagai pendaftaran manitol. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "證據包排除鹽類部分屬於另一個藥的登記後，正文跟新事實矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪（用戶決定「證據包成分對照修正」）：scripts/exclude_salt_part_records.py 把本藥只是另一個藥鹽類／共晶／溶劑合物部分的登記移出證據包後，逐句對照證據包 npra.records 與程式表"
+  },
+  {
+   "id": "my-lic-20261124c-propylene_glycol-1",
+   "drug": "propylene_glycol",
+   "file": "propylene_glycol.md",
+   "action": "correct",
+   "claim": "Tiga pendaftaran ditemui.",
+   "replacement": "Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "summary": "Dibetulkan: \"Tiga pendaftaran ditemui.\"",
+   "note": "Dua daripada tiga pendaftaran asal ialah TAZATRED 50 mg dan 70 mg (MAL24026019ACZ, MAL24026020ACZ), dengan bahan aktif \"Dasatinib (S) propylene glycol\", iaitu solvat propilena glikol bagi dasatinib; bahan aktifnya ialah dasatinib, jadi kedua-duanya tidak lagi dikira sebagai pendaftaran propilena glikol.",
+   "finding": "證據包排除鹽類部分屬於另一個藥的登記後，正文跟新事實矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-23"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪（用戶決定「證據包成分對照修正」）：scripts/exclude_salt_part_records.py 把本藥只是另一個藥鹽類／共晶／溶劑合物部分的登記移出證據包後，逐句對照證據包 npra.records 與程式表"
   }
  ]
 }

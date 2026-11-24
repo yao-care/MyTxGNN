@@ -885,8 +885,8 @@
     "u": "/drugs/potassium-chloride/",
     "l": "L4",
     "i": "renal tubular acidosis",
-    "lt": 115,
-    "lv": 115,
+    "lt": 98,
+    "lv": 98,
     "r": 0,
     "rs": "",
     "x": 0
@@ -1009,7 +1009,7 @@
   "with_current": 520,
   "none_current": 3,
   "without_data": 0,
-  "with_reviews": 447,
+  "with_reviews": 448,
   "rows": [
    {
     "t": "Ascorbic Acid",
@@ -1133,17 +1133,6 @@
     "x": 0
    },
    {
-    "t": "Methionine",
-    "u": "/drugs/methionine/",
-    "l": "L5",
-    "i": "acne (disease)",
-    "lt": 161,
-    "lv": 149,
-    "r": 1,
-    "rs": "Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi).” → “Pendaftaran…",
-    "x": 0
-   },
-   {
     "t": "Zinc Gluconate",
     "u": "/drugs/zinc-gluconate/",
     "l": "L5",
@@ -1166,6 +1155,17 @@
     "x": 0
    },
    {
+    "t": "Methionine",
+    "u": "/drugs/methionine/",
+    "l": "L5",
+    "i": "acne (disease)",
+    "lt": 142,
+    "lv": 131,
+    "r": 1,
+    "rs": "Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi).” → “Pendaftaran…",
+    "x": 0
+   },
+   {
     "t": "Amlodipine Besilate",
     "u": "/drugs/amlodipine-besilate/",
     "l": "L5",
@@ -1181,8 +1181,8 @@
     "u": "/drugs/arginine/",
     "l": "L5",
     "i": "Gastroparesis",
-    "lt": 138,
-    "lv": 121,
+    "lt": 115,
+    "lv": 103,
     "r": 1,
     "rs": "Dipadam: \"Data yang dikumpulkan menunjukkan 138 lesen sah dan tiada lesen dibatalkan. Senarai terperinci…",
     "x": 0
@@ -2992,17 +2992,6 @@
     "x": 0
    },
    {
-    "t": "Polyethylene Glycol",
-    "u": "/drugs/polyethylene-glycol/",
-    "l": "L5",
-    "i": "Eritroderma iktiosiform kongenital",
-    "lt": 9,
-    "lv": 9,
-    "r": 1,
-    "rs": "Dipadam: \"Tiada pendaftaran tempatan, dan\"",
-    "x": 0
-   },
-   {
     "t": "Aflibercept",
     "u": "/drugs/aflibercept/",
     "l": "L5",
@@ -3132,17 +3121,6 @@
     "lv": 8,
     "r": 1,
     "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
-    "x": 0
-   },
-   {
-    "t": "Potassium Acetate",
-    "u": "/drugs/potassium-acetate/",
-    "l": "L5",
-    "i": "renal tubular acidosis",
-    "lt": 8,
-    "lv": 8,
-    "r": 0,
-    "rs": "",
     "x": 0
    },
    {
@@ -3282,17 +3260,6 @@
     "u": "/drugs/lopinavir/",
     "l": "L5",
     "i": "simian immunodeficiency virus infection",
-    "lt": 7,
-    "lv": 7,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
-    "x": 0
-   },
-   {
-    "t": "Mannitol",
-    "u": "/drugs/mannitol/",
-    "l": "L5",
-    "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 7,
     "lv": 7,
     "r": 1,
@@ -3597,6 +3564,17 @@
     "x": 0
    },
    {
+    "t": "Potassium Acetate",
+    "u": "/drugs/potassium-acetate/",
+    "l": "L5",
+    "i": "renal tubular acidosis",
+    "lt": 6,
+    "lv": 6,
+    "r": 0,
+    "rs": "",
+    "x": 0
+   },
+   {
     "t": "Prochlorperazine",
     "u": "/drugs/prochlorperazine/",
     "l": "L5",
@@ -3792,6 +3770,17 @@
     "lv": 5,
     "r": 2,
     "rs": "Dipadam: \"Lorazepam juga tidak berdaftar di Malaysia\"",
+    "x": 0
+   },
+   {
+    "t": "Mannitol",
+    "u": "/drugs/mannitol/",
+    "l": "L5",
+    "i": "nephrogenic syndrome of inappropriate antidiuresis",
+    "lt": 5,
+    "lv": 5,
+    "r": 2,
+    "rs": "Dipadam: \"dua lagi pendaftaran (Dapamac 5 dan Dapamac 10, mengandungi dapagliflozin) turut dipadankan dalam…",
     "x": 0
    },
    {
@@ -4631,6 +4620,17 @@
     "x": 0
    },
    {
+    "t": "Polyethylene Glycol",
+    "u": "/drugs/polyethylene-glycol/",
+    "l": "L5",
+    "i": "Eritroderma iktiosiform kongenital",
+    "lt": 3,
+    "lv": 3,
+    "r": 1,
+    "rs": "Dipadam: \"Tiada pendaftaran tempatan, dan\"",
+    "x": 0
+   },
+   {
     "t": "Posaconazole",
     "u": "/drugs/posaconazole/",
     "l": "L5",
@@ -4650,17 +4650,6 @@
     "lv": 3,
     "r": 1,
     "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
-    "x": 0
-   },
-   {
-    "t": "Propylene Glycol",
-    "u": "/drugs/propylene-glycol/",
-    "l": "L5",
-    "i": "bronchitis",
-    "lt": 3,
-    "lv": 3,
-    "r": 0,
-    "rs": "",
     "x": 0
    },
    {
@@ -6410,6 +6399,17 @@
     "lv": 1,
     "r": 3,
     "rs": "Dipadam: \"Ubat ini juga tidak didaftarkan di Malaysia\"",
+    "x": 0
+   },
+   {
+    "t": "Propylene Glycol",
+    "u": "/drugs/propylene-glycol/",
+    "l": "L5",
+    "i": "bronchitis",
+    "lt": 1,
+    "lv": 1,
+    "r": 1,
+    "rs": "Dibetulkan: \"Tiga pendaftaran ditemui.\"",
     "x": 0
    },
    {

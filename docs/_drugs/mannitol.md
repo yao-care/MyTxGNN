@@ -49,8 +49,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **sindrom antidiuresis tidak wa
 | Indikasi Baharu yang Diramalkan | Sindrom antidiuresis tidak wajar nefrogenik (NSIAD) |
 | Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
-| Bilangan Pendaftaran | 7 (sah: 7) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
+| Bilangan Pendaftaran | 5 (sah: 5) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -81,11 +81,15 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 | MAL20000381AZ | INFUSOL M20 | Bahan tunggal | AIN MEDICARE SDN. BHD. | Sah |
 | MAL19910407AZ | B. BRAUN OSMOFUNDIN 10% (500ML) | Bahan tunggal | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
-
 <!-- licenses:end -->
 
-Nota: dua lagi pendaftaran (Dapamac 5 dan Dapamac 10, mengandungi dapagliflozin) turut dipadankan dalam rekod tetapi tidak disenaraikan di sini. Produk kombinasi tidak boleh digunakan untuk menggambarkan status kelulusan bahan tunggal.
+<!-- review:begin my-lic-20261124c-mannitol-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "dua lagi pendaftaran (Dapamac 5 dan Dapamac 10, mengandungi dapagliflozin) turut dipadankan dalam rekod tetapi tidak disenaraikan di sini." Dipadam: Dapamac 5 dan Dapamac 10 (MAL25036001AZ, MAL25036002AZ) mempunyai bahan aktif "Dapagliflozin Mannitol", iaitu kokristal dapagliflozin dengan manitol; bahan aktifnya ialah dapagliflozin, bukan manitol. Kedua-dua pendaftaran ini tidak lagi dikira sebagai pendaftaran manitol. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124c-mannitol-1 -->
+
+Nota: Produk kombinasi tidak boleh digunakan untuk menggambarkan status kelulusan bahan tunggal.
 
 ## Pertimbangan Keselamatan
 
@@ -122,11 +126,12 @@ Nota: dua lagi pendaftaran (Dapamac 5 dan Dapamac 10, mengandungi dapagliflozin)
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc) |
+| 2026-11-24 | Dipadam: "dua lagi pendaftaran (Dapamac 5 dan Dapamac 10, mengandungi dapagliflozin) turut dipadankan dalam rekod tetapi tidak disenaraikan di sini." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

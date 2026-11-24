@@ -54,6 +54,9 @@ jobs:
       - name: Merge duplicate-page bundles   # 同一 DrugBank ID 合併後轉址的頁：被轉址頁的許可證併進保留頁證據包（2026-11-19，只加不刪）
         run: python3 scripts/merge_duplicate_bundles.py
 
+      - name: Exclude salt-part records   # 本藥只是另一個藥的鹽類／共晶／溶劑合物部分的登記（perindopril arginine 等）移出證據包（2026-11-24 第三輪，附依據）
+        run: python3 scripts/exclude_salt_part_records.py
+
       - name: Refresh licenses
         id: refresh
         env:

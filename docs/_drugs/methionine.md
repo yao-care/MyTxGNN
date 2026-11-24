@@ -52,8 +52,8 @@ Setakat ini terdapat **0 ujian klinikal** dan hanya kajian asas/mekanistik serta
 | Indikasi Baharu yang Diramalkan | Jerawat (acne) |
 | Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 149 daripada 161) |
-| Bilangan Pendaftaran | 161 (sah: 149) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 131 daripada 142) |
+| Bilangan Pendaftaran | 142 (sah: 131) |
 | Bilangan Kelulusan | 156 pendaftaran (5 produk bahan tunggal, 151 produk kombinasi) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
@@ -108,7 +108,7 @@ Pendaftaran yang dikesan kebanyakannya produk kombinasi, dengan sebilangan kecil
 | MAL22016045NC | LAC Selenium 100 mcg Tablet | Bahan tunggal | LAC GLOBAL BRANDS (MALAYSIA) SDN. BHD. | Sah |
 | MAL23096034NC | THORNE Selenium 200mcg Capsule | Bahan tunggal | MITSUI & CO. (MALAYSIA) SDN. BHD. | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 161 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 142 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

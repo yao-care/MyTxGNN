@@ -8,6 +8,7 @@
    改依成分比：active_ingredient 每個成分（「名稱[含量]」）去掉鹽類／酯類／水合物字尾與括號別名後，等於本藥主體、
    或只差字尾 e（selegilin／selegiline），就補收（只補收、不刪原紀錄；複方也收，與原收集器相同）。
    頁名本身帶鹽類或 dl-／d-／l- 前綴時，只收同一個鹽／同一寫法。
+   npra.excluded_records（scripts/exclude_salt_part_records.py 排除的、本藥只是另一個藥鹽類部分的登記）不補回（2026-11-24）。
 用法（repo 根目錄）：python3 scripts/rebuild_licenses_by_ingredient.py [--skip-download] [--dry-run] [--report out.tsv] [頁 ...]
 """
 import csv
@@ -137,7 +138,7 @@ def main(argv):
         terms, salt_named = terms_for(page)
         add = []
         if terms and not any(NO_REBUILD.match(t) for t in terms):
-            have = {ad.record_id(r) for r in recs}
+            have = {ad.record_id(r) for r in recs} | {ad.record_id(r) for r in reg.get("excluded_records") or []}  # 2026-11-24：exclude_salt_part_records.py 排除的不補回
             hit = set()
             for t in terms:
                 hit |= index.get((t, salt_named), set())

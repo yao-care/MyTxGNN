@@ -213,7 +213,7 @@ def process(text, rows, nrows):
     lines = text.split("\n")
     a, b = bounds(lines)
     if a is None:
-        return None
+        return add_section(text, rows, nrows) if ADD_SECTIONS else None
     sec = lines[a:b]
     if BEGIN in sec and END in sec:
         i, j = a + sec.index(BEGIN), a + sec.index(END)
@@ -235,6 +235,38 @@ def process(text, rows, nrows):
         rest = [l for l in lines[y + 1:b] if not SHOW_RX.match(l.strip()) and l.strip() not in (NONE_LINE, PART_NOTE)]
         lines = lines[:x] + ([""] if lines[x - 1].strip() else []) + wrap(block_from_rows(rows, nrows, n)) + [""] + rest + lines[b:]
     t2 = re.sub(r"\n{3,}", "\n\n", "\n".join(lines))
+    return t2 if t2 != text else None
+
+
+# 2026-11-24 第三輪（用戶決定 B，比照 JpTxGNN 的 add_section）：公開頁整頁沒有「## Maklumat Pasaran di Malaysia」段落、證據包卻有紀錄的
+# （量測 222 頁，多是新版報告格式），補一個段落放程式表（列數 min(5, 總數)，總數較多時加 SHOW 句）。
+# 位置：安全性段落（Pertimbangan Keselamatan／Keselamatan…／Maklumat Keselamatan）之前；沒有就「(Keputusan )Kesimpulan／Keputusan dan
+# Langkah Seterusnya」之前；再沒有就「Penafian」之前（緊接在前的「---」分隔線與查核紀錄區塊標記之前）。noindex 頁與證據包沒有紀錄的頁不補。
+# 超過 200 頁，套用前先回報用戶（brief_round3）：ADD_SECTIONS 預設關閉，--add-sections 才做；用戶同意後改成 True 並接上 gate。
+ADD_SECTIONS = False
+ADD_TITLE = "## Maklumat Pasaran di Malaysia"
+ADD_BEFORE = (re.compile(r"^## (Pertimbangan Keselamatan|Keselamatan\b.*|Maklumat Keselamatan)\s*$"),
+              re.compile(r"^## (Keputusan )?(Kesimpulan|Keputusan) dan Langkah Seterusnya\s*$"),
+              re.compile(r"^## Penafian\s*$"))
+
+
+def add_section(text, rows, nrows):
+    fm = text.split("---", 2)[1] if text.startswith("---") else ""
+    if re.search(r"^noindex:\s*true", fm, re.M) or not rows:
+        return None
+    lines = text.split("\n")
+    at = None
+    for rx in ADD_BEFORE:
+        at = next((i for i, l in enumerate(lines) if rx.match(l)), None)
+        if at is not None:
+            break
+    if at is None:
+        return None
+    k = at
+    while k > 0 and (lines[k - 1].strip() in ("", "---", "<!-- review:begin log -->")):
+        k -= 1
+    sec = ["", ADD_TITLE, ""] + wrap(block_from_rows(rows, nrows)) + [""]
+    t2 = re.sub(r"\n{3,}", "\n\n", "\n".join(lines[:k] + sec + lines[k:]))
     return t2 if t2 != text else None
 
 
@@ -345,5 +377,7 @@ if __name__ == "__main__":
     if "--pins" in a:
         print(f"原表選列：{len(make_pins())} 頁 → {PINS_FILE.relative_to(ROOT)}")
         sys.exit(0)
+    if "--add-sections" in a:
+        ADD_SECTIONS = True
     ch = run({x for x in a if not x.startswith("--")} or None, "--dry-run" in a, True if "--from-snapshot" in a else None)
     print(f"許可證表{'（試跑）' if '--dry-run' in a else ''}改 {len(ch)} 頁")

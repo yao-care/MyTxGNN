@@ -192,9 +192,9 @@
       "date": "2026-11-19"
     },
     "arginine": {
-      "tail": "Di Malaysia, pendaftaran NPRA: 138 (sah: 121)",
+      "tail": "Di Malaysia, pendaftaran NPRA: 115 (sah: 103)",
       "original": "Indikasi asal: Tidak direkodkan dalam data tempatan",
-      "date": "2026-11-19"
+      "date": "2026-11-24"
     },
     "arsenic_trioxide": {
       "tail": "Di Malaysia, pendaftaran NPRA: 1 (sah: 1)",
@@ -1717,9 +1717,9 @@
       "date": "2026-11-19"
     },
     "polyethylene_glycol": {
-      "tail": "Di Malaysia, pendaftaran NPRA: 9 (sah: 9)",
+      "tail": "Di Malaysia, pendaftaran NPRA: 3 (sah: 3)",
       "original": "Indikasi asal: Tidak direkodkan dalam data tempatan",
-      "date": "2026-11-19"
+      "date": "2026-11-24"
     },
     "posaconazole": {
       "tail": "Di Malaysia, pendaftaran NPRA: 3 (sah: 3)",
@@ -1727,9 +1727,9 @@
       "date": "2026-11-19"
     },
     "potassium_acetate": {
-      "tail": "Di Malaysia, pendaftaran NPRA: 8 (sah: 8)",
+      "tail": "Di Malaysia, pendaftaran NPRA: 6 (sah: 6)",
       "original": "Indikasi asal: Tidak direkodkan dalam data tempatan",
-      "date": "2026-11-19"
+      "date": "2026-11-24"
     },
     "potassium_bicarbonate": {
       "tail": "Di Malaysia, pendaftaran NPRA: 5 (sah: 4)",
@@ -1737,9 +1737,9 @@
       "date": "2026-11-19"
     },
     "potassium_chloride": {
-      "tail": "Di Malaysia, pendaftaran NPRA: 115 (sah: 115)",
+      "tail": "Di Malaysia, pendaftaran NPRA: 98 (sah: 98)",
       "original": "Indikasi asal: Tidak direkodkan dalam data tempatan",
-      "date": "2026-11-19"
+      "date": "2026-11-24"
     },
     "potassium_citrate": {
       "tail": "Di Malaysia, pendaftaran NPRA: 31 (sah: 30)",
@@ -5329,6 +5329,34 @@
       "date": "2026-11-19",
       "from": "\"Zonisamide: indikasi baharu diramal Sindrom Tourette (Tourette syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempatan\"",
       "to": "\"Zonisamide: indikasi baharu diramal Sindrom Tourette (Tourette syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/arginine.md",
+      "date": "2026-11-24",
+      "from": "\"Arginine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 138 (sah: 121)\"",
+      "to": "\"Arginine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 115 (sah: 103)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/polyethylene_glycol.md",
+      "date": "2026-11-24",
+      "from": "\"Polyethylene Glycol: indikasi baharu diramal Eritroderma iktiosiform kongenital (congenital ichthyosiform erythroderma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 9 (sah: 9)\"",
+      "to": "\"Polyethylene Glycol: indikasi baharu diramal Eritroderma iktiosiform kongenital (congenital ichthyosiform erythroderma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/potassium_acetate.md",
+      "date": "2026-11-24",
+      "from": "\"Potassium Acetate: indikasi baharu diramal Renal tubular acidosis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 8 (sah: 8)\"",
+      "to": "\"Potassium Acetate: indikasi baharu diramal Renal tubular acidosis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/potassium_chloride.md",
+      "date": "2026-11-24",
+      "from": "\"Potassium Chloride: indikasi baharu diramal Renal tubular acidosis (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 115 (sah: 115)\"",
+      "to": "\"Potassium Chloride: indikasi baharu diramal Renal tubular acidosis (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 98 (sah: 98)\"",
       "tool": ".claude/drug_meta_description.py --apply"
     }
   ]

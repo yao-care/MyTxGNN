@@ -17,15 +17,15 @@
   "drugs_none_current": 3,
   "drugs_without_data": 0,
   "drugs_partial": 0,
-  "items_total": 13724,
-  "items_current": 13284
+  "items_total": 13653,
+  "items_current": 13219
  },
  "reviews": {
-  "records": 750,
-  "pages": 541,
-  "public_pages_with_records": 522,
+  "records": 752,
+  "pages": 542,
+  "public_pages_with_records": 523,
   "by_action": {
-   "correct": 298,
+   "correct": 300,
    "mechanism": 452
   }
  },
@@ -204,6 +204,18 @@
  },
  "recent_reviews": [
   {
+   "t": "Propylene Glycol",
+   "u": "/drugs/propylene-glycol/",
+   "s": "Dibetulkan: \"Tiga pendaftaran ditemui.\"",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Mannitol",
+   "u": "/drugs/mannitol/",
+   "s": "Dipadam: \"dua lagi pendaftaran (Dapamac 5 dan Dapamac 10, mengandungi dapagliflozin) turut dipadankan dalam…",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Zonisamide",
    "u": "/drugs/zonisamide/",
    "s": "Dipadam: \"Status ini perlu disahkan semula kerana ia mungkin tidak mencerminkan kelulusan serantau.\"",
@@ -334,21 +346,21 @@
    "u": "/drugs/calcipotriol/",
    "s": "Dipadam: \"Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang…",
    "d": "2026-11-24"
-  },
-  {
-   "t": "Calcifediol",
-   "u": "/drugs/calcifediol/",
-   "s": "Dipadam: \"Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Cabotegravir",
-   "u": "/drugs/cabotegravir/",
-   "s": "Dipadam: \"Butiran lesen tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.\"",
-   "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
+  {
+   "t": "Propylene Glycol",
+   "u": "/drugs/propylene-glycol/",
+   "s": "Dibetulkan: \"Tiga pendaftaran ditemui.\"",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Mannitol",
+   "u": "/drugs/mannitol/",
+   "s": "Dipadam: \"dua lagi pendaftaran (Dapamac 5 dan Dapamac 10, mengandungi dapagliflozin) turut dipadankan dalam…",
+   "d": "2026-11-24"
+  },
   {
    "t": "Zonisamide",
    "u": "/drugs/zonisamide/",
@@ -383,18 +395,6 @@
    "t": "Oxcarbazepine",
    "u": "/drugs/oxcarbazepine/",
    "s": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Oteracil",
-   "u": "/drugs/oteracil/",
-   "s": "Dipadam: \"Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data ini.\"",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Nystatin",
-   "u": "/drugs/nystatin/",
-   "s": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan.\"",
    "d": "2026-11-24"
   }
  ],

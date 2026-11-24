@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "ARGININE"
 predicted_indications: ["gastroparesis (disease)"]
 last_modified_at: 2026-11-24
-description: "Arginine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 138 (sah: 121)"
+description: "Arginine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 115 (sah: 103)"
 ---
 
 # Arginine
@@ -48,8 +48,8 @@ Arginine ialah asid amino yang berperanan sebagai substrat untuk sintesis nitrik
 | Indikasi Baharu yang Diramalkan | Gastroparesis (gastroparesis (disease)) |
 | Skor Ramalan TxGNN | 0,9942 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 121 daripada 138) |
-| Bilangan Pendaftaran | 138 (sah: 121) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 103 daripada 115) |
+| Bilangan Pendaftaran | 115 (sah: 103) |
 | Keputusan yang Disyorkan | Hold |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -88,9 +88,9 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 | MAL09010813XR | L-Arginine 1000mg | Bahan tunggal | 21ST CENTURY PRODUCTS SDN. BHD. | Sah |
 | MAL17046001N | Nova Arginine 750 mg Tablet | Bahan tunggal | NOVA LABORATORIES SDN. BHD. | Sah |
 | MAL19116072N | STAR Arginine 600mg Capsule | Bahan tunggal | HERBAL SCIENCE SDN. BHD. | Sah |
-| MAL20081837AZ | COVERSYL 5MG FILM-COATED TABLETS | Bahan tunggal | SERVIER MALAYSIA SDN. BHD. | Sah |
+| MAL23016039NC | LAC L-Arginine 500 mg Capsule | Bahan tunggal | LAC GLOBAL BRANDS (MALAYSIA) SDN. BHD. | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 138 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 115 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

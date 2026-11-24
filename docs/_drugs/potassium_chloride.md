@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Potassium Chloride"
 predicted_indications: ["renal tubular acidosis"]
 last_modified_at: 2026-11-24
-description: "Potassium Chloride: indikasi baharu diramal Renal tubular acidosis (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 115 (sah: 115)"
+description: "Potassium Chloride: indikasi baharu diramal Renal tubular acidosis (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 98 (sah: 98)"
 ---
 
 # Potassium Chloride
@@ -50,8 +50,8 @@ Kalium klorida ialah garam kalium yang digunakan untuk menambah kalium dalam bad
 | Indikasi Baharu yang Diramalkan | Renal tubular acidosis |
 | Skor Ramalan TxGNN | 0.9987 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 115 daripada 115) |
-| Bilangan Pendaftaran | 115 (sah: 115) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 98 daripada 98) |
+| Bilangan Pendaftaran | 98 (sah: 98) |
 | Keputusan Disyorkan | Tahan |
 
 ---
@@ -93,7 +93,7 @@ Tiada ujian terkawal rawak dalam senarai ini. Penerbitan yang ada kebanyakannya 
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpul menunjukkan 115 pendaftaran, iaitu 24 produk bahan tunggal dan 91 produk kombinasi. Semuanya berstatus sah dan tiada yang dibatalkan. Teks indikasi lulus bagi setiap pendaftaran tiada dalam data, jadi indikasi yang diluluskan tidak dapat dinyatakan. Di bawah ialah lima produk kalium klorida bahan tunggal.
+Data yang dikumpul menunjukkan 98 pendaftaran, iaitu 12 produk bahan tunggal dan 86 produk kombinasi. Semuanya berstatus sah dan tiada yang dibatalkan. Teks indikasi lulus bagi setiap pendaftaran tiada dalam data, jadi indikasi yang diluluskan tidak dapat dinyatakan. Di bawah ialah lima produk kalium klorida bahan tunggal.
 
 <!-- licenses:begin -->
 
@@ -105,7 +105,7 @@ Data yang dikumpul menunjukkan 115 pendaftaran, iaitu 24 produk bahan tunggal da
 | MAL19970962AZ | POTAXINE INJECTION 10% W/V (10ML AMPOULE) | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
 | MAL25036026XC | Votaride 500mg/5ml Potassium Chloride Oral Solution | Bahan tunggal | PHARM-D SDN. BHD. | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 115 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 98 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 
