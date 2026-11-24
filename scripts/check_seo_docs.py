@@ -26,7 +26,9 @@
   18. docs/_data/drug_reviews.json 的查核紀錄（更正／加註／待重審／重審結果）都還套在藥物頁上
       （頁面被產線或排程改寫會蓋掉；修法：python3 scripts/apply_drug_reviews.py）（2026-11-12，本站查核機制）。
   19. 藥物頁的許可證資訊＝snapshots/my_licenses.json.gz：市場段落表格的號碼屬於本藥、狀態列與張數列＝事實層寫法、
-      表格列狀態不跟事實相反；有程式表的站另驗程式區塊（src/mytxgnn/regulatory/licenses.py）（2026-11-12）。
+      表格列狀態不跟事實相反（src/mytxgnn/regulatory/licenses.py）（2026-11-12）；市場段落的程式許可證表
+      （<!-- licenses:begin/end -->，scripts/sync_license_tables.py）＝快照重算的結果、段落裡沒有程式區塊以外的表格
+      （site.py program_block_problems）（2026-11-24）。
   20. 藥物頁頁首等級＝Quick Overview 證據等級格依本站規則算出的等級（主預測撤回時為其他預測表最高等級或 N/A），
       parent 對應列表頁（src/mytxgnn/regulatory/page_format.py、site.py 的 HEADER_RULE）（2026-11-12）。
   21. 查核紀錄裡重審撤回（verdict=withdraw）的預測，不出現在 search-index.json、FHIR ClinicalUseDefinition、

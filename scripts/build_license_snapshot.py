@@ -3,7 +3,8 @@
 
 gate（scripts/check_seo_docs.py）要在沒有 data/ 的環境也能驗證頁面上的號碼屬於本藥、狀態列與張數列跟事實一致
 （有程式許可證表的站另驗程式表），所以把驗證要用的部分存成快照放進 git。
-內容（鍵＝藥物頁檔名去 .md）：facts（事實層那一筆）、own（本藥擁有的許可證號）、rows／total（有程式表的站：程式算出的表格列與總數）；
+內容（鍵＝藥物頁檔名去 .md）：facts（事實層那一筆）、own（本藥擁有的許可證號）、rows／nrows（2026-11-24 起：市場段落程式許可證表
+最多可列的 30 列與可列總數，scripts/sync_license_tables.py 的 program_rows；gate 比頁面上的前 N 列）；
 meta：產生日、Release tag、規則所在檔案。
 什麼時候跑：證據包或事實層變了之後（每週許可證排程、依成分重建都會自動跑，並把 snapshots/ 跟 docs/ 一起 commit）。
 用法（repo 根目錄，先還原 data/ 並在工作目錄跑 dump_license_facts）：
@@ -31,7 +32,7 @@ def _slt():
     s = importlib.util.spec_from_file_location(f"{C.SITE}_slt", SLT)
     m = importlib.util.module_from_spec(s)
     s.loader.exec_module(m)
-    return m if hasattr(m, "rows_of") else None
+    return m if hasattr(m, "program_rows") else None
 
 
 def bundle_for(stem):
@@ -59,9 +60,8 @@ def build(ws, tag=""):
         tf = b.get(C.BUNDLE_KEY) or {}
         fc = fs.get(key) or fs.get(page.stem) or fs.get(page.stem.replace("-", "_"))
         e = {"bundle": key, "facts": fc, "own": C.own_ids(tf)}
-        if S is not None:
-            r, total = S.rows_of(tf, fc)
-            e["rows"], e["total"] = r[:20], total
+        if S is not None:  # 2026-11-24：市場段落程式許可證表最多可列的 30 列與可列總數（選列依 config/license_table_pins.json）
+            e["rows"], e["nrows"] = S.program_rows(tf, fc, S.pins_for(page.stem))
         drugs[page.stem] = e
     meta = {"built": dt.date.today().isoformat(), "release_tag": tag, "pages": len(drugs),
             "rule": "事實層：tools/txgnn/.claude/dump_license_facts_20261021.py；號碼：src/mytxgnn/regulatory/site.py own_ids"}
@@ -94,6 +94,11 @@ if __name__ == "__main__":
     if not re.fullmatch(r"(data-[\w-]+)?", tag):
         sys.exit("--release-tag 要是 data-… 的 tag")
     build(ws, tag)
+    # 2026-11-24：快照換了，市場段落的程式許可證表先依同一份證據包重排（每週排程的 sync_tables 只重排狀態有變的藥時，
+    # 證據包補收、排序變了的藥也跟上；只改程式區塊）
+    _tbl = _slt()
+    if _tbl is not None:
+        print(f"程式許可證表：重排 {len(_tbl.run())} 頁")
     # 2026-11-12：快照換了事實，正文許可證張數跟著改寫（每週排程是先套紀錄再建快照，所以這裡用新快照再跑一次）
     if "--no-rewrite" not in a:  # license_rebuild_run 轉紀錄前建快照時不改寫正文（不然改寫會被當成刪改轉成紀錄）
         import subprocess

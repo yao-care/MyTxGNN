@@ -1,0 +1,1648 @@
+{
+ "_note": "換表當時（2026-11-24）報告原表依序列出、屬於本藥證據包的 NPRA 登記號；scripts/sync_license_tables.py 選列時放在最前面（見該檔說明）；adalimumab、alpha-tocopherol_acetate、clobetasol_propionate、dexamethasone 四頁的正文說表上列的都是 sah，原表選列中已非有效的登記號從選列拿掉（程式改列其他有效登記）",
+ "pins": {
+  "abacavir_sulfate": [
+   "MAL20001015ACRZ",
+   "MAL20001014ACRZ",
+   "MAL10100007AZ",
+   "MAL09122043AZ"
+  ],
+  "acarbose": [
+   "MAL06100582AZ",
+   "MAL23046040AE",
+   "MAL23046039AE",
+   "MAL09100265AZ",
+   "MAL09100266AZ"
+  ],
+  "aceclofenac": [
+   "MAL20026048AZ"
+  ],
+  "acetaminophen": [
+   "MAL22056057XE",
+   "MAL22086037XE",
+   "MAL20051462AZ",
+   "MAL23026010AZ",
+   "MAL19116027XZ"
+  ],
+  "acetylcysteine": [
+   "MAL20014507X",
+   "MAL21126012X",
+   "MAL22026018AZ",
+   "MAL17055002ACZ",
+   "MAL17107049XCZ"
+  ],
+  "acyclovir": [
+   "MAL19971376AZ",
+   "MAL19962829ARZ",
+   "MAL19962817ARZ",
+   "MAL19860861ARZ",
+   "MAL22096025AZ"
+  ],
+  "adalimumab": [
+   "MAL22016007ACZ",
+   "MAL17107006ACRZ"
+  ],
+  "agomelatine": [
+   "MAL20091965AZ"
+  ],
+  "albendazole": [
+   "MAL19984364XZ",
+   "MAL19046014XCR",
+   "MAL19920071XRZ",
+   "MAL19970667XZ",
+   "MAL09020980XZ"
+  ],
+  "alectinib_hydrochloride": [
+   "MAL18086130ACRZ"
+  ],
+  "alfacalcidol": [
+   "MAL21066036XC",
+   "MAL06100623X",
+   "MAL07061574X",
+   "MAL14125078ACZ",
+   "MAL19913212XC"
+  ],
+  "alfentanil_hydrochloride": [
+   "MAL22126011ACZ"
+  ],
+  "alpha-tocopherol_acetate": [
+   "MAL06061350X",
+   "MAL11070020X",
+   "MAL19016015N",
+   "MAL10021840X"
+  ],
+  "alprostadil": [
+   "MAL19970629ARZ",
+   "MAL19921252AZ"
+  ],
+  "ambroxol_hydrochloride": [
+   "MAL06071101X",
+   "MAL07050193XR",
+   "MAL19987339XC",
+   "MAL20001061X",
+   "MAL24016039XC"
+  ],
+  "amlodipine_besilate": [
+   "MAL07010992AZ",
+   "MAL07010993AZ",
+   "MAL16085018AZ",
+   "MAL11090016AZ",
+   "MAL11090017AZ"
+  ],
+  "ammonium_chloride": [
+   "MAL19962540AZ",
+   "MAL19912799X"
+  ],
+  "amphotericin_b": [
+   "MAL09072763AZ",
+   "MAL10053649AZ"
+  ],
+  "antazoline_hydrochloride": [
+   "MAL17107026AZ"
+  ],
+  "aripiprazole": [
+   "MAL06071067AZ",
+   "MAL18026186AZ",
+   "MAL23056005AZ",
+   "MAL15095024AZ",
+   "MAL25116042ACE"
+  ],
+  "articaine_hydrochloride": [
+   "MAL22086017AZ",
+   "MAL22126025AZ",
+   "MAL12045005AZ"
+  ],
+  "asenapine_maleate": [
+   "MAL20112129ACRZ",
+   "MAL20112130ACRZ"
+  ],
+  "asfotase_alfa": [
+   "MAL25036138ACRZ",
+   "MAL25036137ACRZ"
+  ],
+  "atazanavir_sulfate": [
+   "MAL15045142AZ"
+  ],
+  "atenolol": [
+   "MAL19913259AZ",
+   "MAL19900523AZ",
+   "MAL19962580AZ",
+   "MAL19910864AZ",
+   "MAL19870055ACZ"
+  ],
+  "atezolizumab": [
+   "MAL18026067ARZ",
+   "MAL25056017ARZ"
+  ],
+  "avibactam_sodium": [
+   "MAL20126001ACZ",
+   "MAL26036004AZ"
+  ],
+  "azacitidine": [
+   "MAL22126024AZ",
+   "MAL18016051AZ",
+   "MAL23036003ACZ",
+   "MAL23126017AZ",
+   "MAL24016016AZ",
+   "MAL24036002ACRZ",
+   "MAL24036023ACZ",
+   "MAL24036001ACRZ",
+   "MAL19086009AZ",
+   "MAL25016014AZ",
+   "MAL20101997ACRZ",
+   "MAL26016029AZ"
+  ],
+  "azithromycin": [
+   "MAL16065052AZ",
+   "MAL06061685AZ",
+   "MAL11090011AZ",
+   "MAL20032238ARZ",
+   "MAL19985908ACZ"
+  ],
+  "beclomethasone_dipropionate": [
+   "MAL06111295AZ",
+   "MAL19970047AZ",
+   "MAL19973336AZ",
+   "MAL19971288ARZ",
+   "MAL20000019ACZ"
+  ],
+  "bedaquiline": [
+   "MAL20076070ACZ"
+  ],
+  "benazepril_hydrochloride": [
+   "MAL24066004ARZ",
+   "MAL15020010HA"
+  ],
+  "benzoic_acid": [
+   "MAL19912812XZ",
+   "MAL19871164AZ",
+   "MAL19911136X",
+   "MAL19910650X",
+   "MAL19987988AZ"
+  ],
+  "benzydamine_hydrochloride": [
+   "MAL22076021ACZ",
+   "MAL20172944AEZ",
+   "MAL22096027AZ",
+   "MAL12115061ACZ",
+   "MAL18016029AZ"
+  ],
+  "betamethasone": [
+   "MAL19940031AZ",
+   "MAL19860148AZ",
+   "MAL19961263ARZ",
+   "MAL19870593AZ",
+   "MAL19870588AZ"
+  ],
+  "bevacizumab": [
+   "MAL20081788ARSZ",
+   "MAL24066006ACZ",
+   "MAL24066007ACZ",
+   "MAL19086005ACZ",
+   "MAL24106003AZ"
+  ],
+  "bimatoprost": [
+   "MAL16035016ARZ"
+  ],
+  "bisoprolol_fumarate": [
+   "MAL19890389AZ",
+   "MAL19890390AZ",
+   "MAL20020792AZ",
+   "MAL16075026AZ",
+   "MAL23056039AE"
+  ],
+  "bleomycin_sulfate": [
+   "MAL23126019AZ",
+   "MAL19950510ARZ"
+  ],
+  "bortezomib": [
+   "MAL21066026AZ",
+   "MAL21076005AZ",
+   "MAL21106013ACRZ",
+   "MAL17075016AZ",
+   "MAL17065017AZ",
+   "MAL22096021AZ",
+   "MAL22106010AZ",
+   "MAL18026178AZ",
+   "MAL23096025AZ",
+   "MAL23106002ARZ",
+   "MAL18116143AZ",
+   "MAL24086017AZ",
+   "MAL24086018AZ",
+   "MAL25016017AZ",
+   "MAL20096006AZ",
+   "MAL20116014AZ",
+   "MAL21036020AZ"
+  ],
+  "bosentan_monohydrate": [
+   "MAL19021007AZ",
+   "MAL19021008AZ",
+   "MAL20041085ACRZ",
+   "MAL21016011AZ"
+  ],
+  "brinzolamide": [
+   "MAL16085016ARZ",
+   "MAL20091944ARZ",
+   "MAL20041107ARSZ"
+  ],
+  "budesonide": [
+   "MAL16065020AZ",
+   "MAL11100013ACZ",
+   "MAL07081527AZ",
+   "MAL18066050ACZ",
+   "MAL19940088ARZ"
+  ],
+  "cabozantinib": [
+   "MAL21046002ACZ",
+   "MAL21046003ACZ",
+   "MAL21046004ACZ"
+  ],
+  "caffeine": [
+   "MAL16095032X",
+   "MAL12035013X",
+   "MAL22066017XC",
+   "MAL13035053ACZ",
+   "MAL20033465AEZ"
+  ],
+  "calcium_carbonate": [
+   "MAL21036069NC",
+   "MAL16035033N",
+   "MAL21046075NC",
+   "MAL11040029XC",
+   "MAL16055022N",
+   "MAL06051375X",
+   "MAL06061372X",
+   "MAL06061351X",
+   "MAL21076099N",
+   "MAL21076054NC",
+   "MAL21076043NCR",
+   "MAL21076058NC",
+   "MAL16075002NC",
+   "MAL11075012NC",
+   "MAL11070021XC",
+   "MAL06071111X",
+   "MAL06071112X",
+   "MAL06071114X",
+   "MAL06071126X",
+   "MAL06071142X",
+   "MAL06071133X",
+   "MAL21086016X",
+   "MAL21086045N",
+   "MAL16085038NC",
+   "MAL11080013XC",
+   "MAL11080012XC",
+   "MAL06081263X",
+   "MAL11080008X",
+   "MAL21096041NCR",
+   "MAL16095024N"
+  ],
+  "calcium_chloride": [
+   "MAL16085022AZ",
+   "MAL16085019AZ",
+   "MAL11080013XC",
+   "MAL11080012XC",
+   "MAL19962094AZ",
+   "MAL19962093AZ",
+   "MAL11090002ARZ",
+   "MAL19962095AZ",
+   "MAL19962096AZ",
+   "MAL06091412AZ",
+   "MAL06091410AZ",
+   "MAL06091468AZ",
+   "MAL11080004ARZ",
+   "MAL16105025AZ",
+   "MAL16105024AZ",
+   "MAL16105023AZ",
+   "MAL16105017AZ",
+   "MAL16105022AZ",
+   "MAL16105019AZ",
+   "MAL07010906ACZ",
+   "MAL19920241AZ",
+   "MAL20020145AZ",
+   "MAL20020143AZ",
+   "MAL22066005AZ",
+   "MAL19920729AZ",
+   "MAL19920728AZ",
+   "MAL19920731AZ",
+   "MAL07050218AZ",
+   "MAL07050219AZ",
+   "MAL07050220AZ"
+  ],
+  "capecitabine": [
+   "MAL21126009AZ",
+   "MAL21126008AZ",
+   "MAL17117026AZ",
+   "MAL23066015ACZ",
+   "MAL23066016ACZ"
+  ],
+  "carbamazepine": [
+   "MAL06071037AZ",
+   "MAL06071038AZ",
+   "MAL19860947AZ",
+   "MAL19860220AZ",
+   "MAL20000032ARZ"
+  ],
+  "carbidopa": [
+   "MAL19984315AZ",
+   "MAL18086152AZ",
+   "MAL19021003AZ",
+   "MAL09102942AZ",
+   "MAL20051345AZ",
+   "MAL20051339AZ",
+   "MAL20051355AZ",
+   "MAL19900635AZ",
+   "MAL19986476ARZ",
+   "MAL19986475ARZ",
+   "MAL11030095AZ",
+   "MAL11030094AZ"
+  ],
+  "carboplatin": [
+   "MAL22036015AZ",
+   "MAL10063018AZ",
+   "MAL11030002ARZ"
+  ],
+  "cefuroxime": [
+   "MAL19871017ACRZ",
+   "MAL19890137ARZ",
+   "MAL22086003ARZ",
+   "MAL19921571ARZ",
+   "MAL22046025ACZ"
+  ],
+  "celecoxib": [
+   "MAL20000005ARZ",
+   "MAL20000004ARZ",
+   "MAL08051748ARZ",
+   "MAL19076014AZ",
+   "MAL19071008ACZ"
+  ],
+  "cephalexin": [
+   "MAL06081196AZ",
+   "MAL20014217AZ",
+   "MAL20014216AZ",
+   "MAL20020023AZ",
+   "MAL19970955AZ",
+   "MAL07050015AZ",
+   "MAL07050014AZ",
+   "MAL20122235ACEZ",
+   "MAL07031092AZ",
+   "MAL07031083AZ",
+   "MAL19973678AZ",
+   "MAL19984044AZ",
+   "MAL19984043AZ",
+   "MAL19984839AZ",
+   "MAL19984399AZ",
+   "MAL19985184AZ",
+   "MAL14030034HA",
+   "MAL08111788AZ",
+   "MAL08111786AZ",
+   "MAL19940383AZ",
+   "MAL19900375AZ",
+   "MAL20076029ACZ",
+   "MAL20076028ACZ",
+   "MAL20076030ACZ",
+   "MAL19910003AZ",
+   "MAL16035027AZ"
+  ],
+  "cetuximab": [
+   "MAL20081796AZ"
+  ],
+  "chlorambucil": [
+   "MAL04125474ACZ"
+  ],
+  "chloramphenicol": [
+   "MAL19860736AZ",
+   "MAL19860741AZ",
+   "MAL12115063AZ",
+   "MAL08111769AZ",
+   "MAL20142424AEZ"
+  ],
+  "chlordiazepoxide": [
+   "MAL20013121AZ"
+  ],
+  "cholecalciferol": [
+   "MAL16045017NC",
+   "MAL21056036NCR",
+   "MAL21076039NC",
+   "MAL21086033N",
+   "MAL18086102ARZ"
+  ],
+  "cilastatin": [
+   "MAL21036029ACZ",
+   "MAL07061387AZ",
+   "MAL23046015AZ",
+   "MAL23116010AZ",
+   "MAL16025041ACRZ"
+  ],
+  "cimetidine": [
+   "MAL19961701AZ",
+   "MAL07101253AZ",
+   "MAL19973015AZ",
+   "MAL20021365AZ",
+   "MAL19973692AZ"
+  ],
+  "ciprofloxacin": [
+   "MAL19890626AZ",
+   "MAL19984772ACZ",
+   "MAL20021000AZ",
+   "MAL13085047AZ",
+   "MAL16075021AZ"
+  ],
+  "clarithromycin": [
+   "MAL20013757AZ",
+   "MAL04091676AZ",
+   "MAL12010003AZ",
+   "MAL20021383AZ",
+   "MAL20021384AZ"
+  ],
+  "clobetasol_propionate": [
+   "MAL19961267ACRZ",
+   "MAL19961265ACRZ",
+   "MAL06051300ARZ",
+   "MAL19930240AZ"
+  ],
+  "clomipramine": [
+   "MAL19973590ARZ",
+   "MAL20091927AEZ"
+  ],
+  "clonidine": [
+   "MAL24066031AZ"
+  ],
+  "clotrimazole": [
+   "MAL10100180XZ",
+   "MAL06051301XZ",
+   "MAL07010940AZ",
+   "MAL14015020XCRZ",
+   "MAL19900331AZ"
+  ],
+  "cyanocobalamin": [
+   "MAL19961336AZ",
+   "MAL19961337AZ",
+   "MAL11070015AZ",
+   "MAL23056017AZ",
+   "MAL16055001NCZ"
+  ],
+  "danazol": [
+   "MAL20033461AEZ",
+   "MAL19871961AZ",
+   "MAL19890682AZ"
+  ],
+  "darunavir": [
+   "MAL19046001ARZ"
+  ],
+  "daunorubicin": [
+   "MAL20032424AZ",
+   "MAL20040555AZ",
+   "MAL19861664ACZ"
+  ],
+  "decitabine": [
+   "MAL22046021AZ",
+   "MAL23056018AZ",
+   "MAL18056161AZ",
+   "MAL24086008AZ",
+   "MAL21026014AZ"
+  ],
+  "deferasirox": [
+   "MAL22066013AZ",
+   "MAL18016071ARZ",
+   "MAL23066029ARZ",
+   "MAL25026014AZ",
+   "MAL20046127AZ"
+  ],
+  "desloratadine": [
+   "MAL05012317AZ",
+   "MAL10053655AZ",
+   "MAL17085016AZ",
+   "MAL18026173AZ",
+   "MAL19016044ACZ"
+  ],
+  "desogestrel": [
+   "MAL17025025ACZ",
+   "MAL20031939AZ",
+   "MAL18116079AZ",
+   "MAL15045060AZ"
+  ],
+  "desonide": [
+   "MAL10070557AZ",
+   "MAL16065020AZ",
+   "MAL11100013ACZ",
+   "MAL07081527AZ",
+   "MAL22116026AZ"
+  ],
+  "dexamethasone": [
+   "MAL06071071ASZ",
+   "MAL17015024ACRZ",
+   "MAL20013450AZ",
+   "MAL19890182ARZ"
+  ],
+  "diazepam": [
+   "MAL16105030AZ",
+   "MAL19861270AZ",
+   "MAL19861288AZ",
+   "MAL19984707ACRZ",
+   "MAL19984716ACRZ"
+  ],
+  "diclofenac": [
+   "MAL16065024ARZ",
+   "MAL19861068ARZ",
+   "MAL19861074ARZ",
+   "MAL19960971ARZ",
+   "MAL05032552ARSZ"
+  ],
+  "dicyclomine_hydrochloride": [
+   "MAL19972939AZ",
+   "MAL19930132AZ",
+   "MAL19871663AZ",
+   "MAL19991140AZ"
+  ],
+  "dihydrocodeine_tartrate": [
+   "MAL05090018AZ",
+   "MAL20021420AZ",
+   "MAL19970290AZ"
+  ],
+  "diphenhydramine_hcl": [
+   "MAL19962540AZ",
+   "MAL12015019AZ",
+   "MAL20020262AZ",
+   "MAL07050906AZ",
+   "MAL19860272AZ"
+  ],
+  "dobutamine_hydrochloride": [
+   "MAL21106020AZ",
+   "MAL22086016AZ",
+   "MAL24076014AZ",
+   "MAL20013115AZ"
+  ],
+  "docetaxel": [
+   "MAL12055019AZ",
+   "MAL12050005AZ",
+   "MAL12050006AZ",
+   "MAL18026176ACZ",
+   "MAL18016059AZ"
+  ],
+  "docusate_sodium": [
+   "MAL19911464X"
+  ],
+  "dolutegravir": [
+   "MAL22076045AZ",
+   "MAL22026002AZ",
+   "MAL14055050ACRZ",
+   "MAL24066027AZ"
+  ],
+  "doxorubicin": [
+   "MAL06061702AZ",
+   "MAL22056054AZ",
+   "MAL17085060AZ",
+   "MAL20000753AZ",
+   "MAL26016033AZ"
+  ],
+  "doxycycline": [
+   "MAL19860580AZ",
+   "MAL19860578AZ",
+   "MAL19860568AZ",
+   "MAL19921000AZ",
+   "MAL19984405AZ"
+  ],
+  "duloxetine": [
+   "MAL05092474ARZ",
+   "MAL05092473ARZ",
+   "MAL20172848AEZ",
+   "MAL22076015AZ",
+   "MAL21016017AZ"
+  ],
+  "durvalumab": [
+   "MAL18106019ACZ"
+  ],
+  "efavirenz": [
+   "MAL16115033AZ",
+   "MAL20162673AEZ",
+   "MAL18016019AZ",
+   "MAL12095064AZ",
+   "MAL10100163AZ"
+  ],
+  "elvitegravir": [
+   "MAL17025022ACZ"
+  ],
+  "empagliflozin": [
+   "MAL24026011ACSZ",
+   "MAL24026012ACSZ",
+   "MAL25036016AE",
+   "MAL25086022AZ",
+   "MAL25086021AZ"
+  ],
+  "entacapone": [
+   "MAL24086027AZ",
+   "MAL19116034ACZ",
+   "MAL19992996ARZ"
+  ],
+  "eplerenone": [
+   "MAL20081802ARZ",
+   "MAL20081801ARZ"
+  ],
+  "eptinezumab": [
+   "MAL24086006AZ"
+  ],
+  "erenumab": [
+   "MAL19056108ARZ",
+   "MAL20096004ACRZ"
+  ],
+  "ergocalciferol": [
+   "MAL06051347XCR",
+   "MAL11060067XC",
+   "MAL19970681ARZ",
+   "MAL20020375ARZ",
+   "MAL23046070NC"
+  ],
+  "erythromycin": [
+   "MAL19961700AZ",
+   "MAL06051289AZ",
+   "MAL19962105AZ",
+   "MAL22026006AZ",
+   "MAL20020154AZ"
+  ],
+  "estradiol_valerate": [
+   "MAL09020971ARZ",
+   "MAL09020972ARZ",
+   "MAL20021014AZ"
+  ],
+  "ethinylestradiol": [
+   "MAL20013009AZ",
+   "MAL19991384AZ",
+   "MAL12085067AZ",
+   "MAL12085077AZ",
+   "MAL10100173AZ"
+  ],
+  "ethyl_chloride": [
+   "MAL19912925XZ"
+  ],
+  "etoposide": [
+   "MAL11070004AZ",
+   "MAL22116021AZ"
+  ],
+  "everolimus": [
+   "MAL20071691ARZ",
+   "MAL20071689ARZ",
+   "MAL20091942ARZ",
+   "MAL20091943ARZ",
+   "MAL25076029AE"
+  ],
+  "ezetimibe": [
+   "MAL20034627ACRZ",
+   "MAL21076010AZ",
+   "MAL21076017AZ",
+   "MAL20162606AEZ",
+   "MAL19021005AZ"
+  ],
+  "famotidine": [
+   "MAL20002518AZ",
+   "MAL20002517AZ",
+   "MAL21076020AE",
+   "MAL19961275AZ",
+   "MAL19961276AZ"
+  ],
+  "fenofibrate": [
+   "MAL11045012AZ",
+   "MAL20040802AZ",
+   "MAL20040826AZ",
+   "MAL07124602ACZ",
+   "MAL10053648AZ"
+  ],
+  "ferrous_fumarate": [
+   "MAL09032039XZ",
+   "MAL20020030XZ",
+   "MAL22016025XZ",
+   "MAL22046034XE",
+   "MAL19911132XZ"
+  ],
+  "fluconazole": [
+   "MAL19920034ACZ",
+   "MAL19913390ACZ",
+   "MAL06121027AZ",
+   "MAL20031732AZ",
+   "MAL18046182ARZ"
+  ],
+  "fluocinolone_acetonide": [
+   "MAL19872018AZ",
+   "MAL20061541ACRZ",
+   "MAL15085079AZ"
+  ],
+  "fluorometholone": [
+   "MAL19890344ARZ"
+  ],
+  "fluorouracil": [
+   "MAL09082788AZ",
+   "MAL19871320AZ",
+   "MAL19950200ARZ"
+  ],
+  "fluoxetine": [
+   "MAL20061563AZ",
+   "MAL06071075AZ",
+   "MAL06041463AZ",
+   "MAL07031127ACZ",
+   "MAL08010743ACZ"
+  ],
+  "flurbiprofen": [
+   "MAL18016023ASZ",
+   "MAL18116087AZ",
+   "MAL20116001AZ",
+   "MAL20013452AZ"
+  ],
+  "fluticasone_propionate": [
+   "MAL11105001AZ",
+   "MAL21116022AZ",
+   "MAL21116023AZ",
+   "MAL20034218ARZ",
+   "MAL20021381ARZ",
+   "MAL07090898AZ",
+   "MAL07090897AZ",
+   "MAL07090921AZ",
+   "MAL17117032AZ",
+   "MAL17117031AZ",
+   "MAL17117036ACRE",
+   "MAL20031743ACRZ",
+   "MAL18056065ACZ",
+   "MAL23086016AZ",
+   "MAL14055154AZ",
+   "MAL14085016AZ",
+   "MAL14125084AZ",
+   "MAL25016022AZ",
+   "MAL14125126AZ",
+   "MAL10021809AZ",
+   "MAL20001533ARZ",
+   "MAL20001531ARZ",
+   "MAL20001532ARZ",
+   "MAL21036028AZ",
+   "MAL21036027AZ",
+   "MAL21036026AZ",
+   "MAL19960955ARZ",
+   "MAL11040017ARZ",
+   "MAL11040018ARZ",
+   "MAL11040019ARZ"
+  ],
+  "fluvoxamine": [
+   "MAL06091399ARZ",
+   "MAL20021413ACZ",
+   "MAL20021412ACZ",
+   "MAL25096031AZ",
+   "MAL25096032AZ",
+   "MAL10110004AZ"
+  ],
+  "folic_acid": [
+   "MAL19961654XCZ",
+   "MAL19961343XZ",
+   "MAL22026025NCZ",
+   "MAL19912697XZ",
+   "MAL19911152XZ"
+  ],
+  "fosfomycin": [
+   "MAL20033481AZ",
+   "MAL24036037AZ",
+   "MAL25016024AZ",
+   "MAL20162588HAE",
+   "MAL20172717HAE"
+  ],
+  "fusidic_acid": [
+   "MAL11105004AZ",
+   "MAL19913374AZ",
+   "MAL11110006AZ",
+   "MAL09020977AZ",
+   "MAL25036163AZ"
+  ],
+  "gemcitabine": [
+   "MAL16075027AZ",
+   "MAL16075028AZ",
+   "MAL22106016AZ",
+   "MAL23046013AZ",
+   "MAL08042477AZ"
+  ],
+  "gimeracil": [
+   "MAL19071004AZ",
+   "MAL19071005AZ"
+  ],
+  "gliclazide": [
+   "MAL19960983AZ",
+   "MAL16085024AZ",
+   "MAL19962526AZ",
+   "MAL20013374AZ",
+   "MAL20013744AZ",
+   "MAL22036017AZ",
+   "MAL12045002AZ",
+   "MAL20172884AEZ",
+   "MAL22076029AZ",
+   "MAL22096024AZ",
+   "MAL20021130AZ",
+   "MAL22106019AZ",
+   "MAL22106020AZ",
+   "MAL12115054ACZ",
+   "MAL08010764ACSZ",
+   "MAL18026187AZ",
+   "MAL08021494AZ",
+   "MAL20132289ARZ",
+   "MAL13055061ACSZ",
+   "MAL19870422AZ",
+   "MAL20033485AZ",
+   "MAL19986963AZ",
+   "MAL24026050AZ",
+   "MAL19021006AZ",
+   "MAL19046013ARZ",
+   "MAL19990603AZ",
+   "MAL19991013AZ",
+   "MAL24096035AZ",
+   "MAL19991352AZ",
+   "MAL20086005AZ"
+  ],
+  "glycine": [
+   "MAL21116043N"
+  ],
+  "guaiacol": [
+   "MAL07090910AZ",
+   "MAL19930179AZ"
+  ],
+  "haloperidol": [
+   "MAL19985177AZ",
+   "MAL19985188AZ",
+   "MAL19861364AZ"
+  ],
+  "hydrochlorothiazide": [
+   "MAL16075019AZ",
+   "MAL20014478AZ",
+   "MAL20014479AZ",
+   "MAL11040023AZ",
+   "MAL05051113AZ",
+   "MAL05051115ASZ",
+   "MAL19860190ARZ",
+   "MAL11115008AZ",
+   "MAL11115009AZ",
+   "MAL12085072AZ",
+   "MAL12085071AZ",
+   "MAL20021128ACRZ",
+   "MAL17107011AZ",
+   "MAL12115057AZ",
+   "MAL12115058AZ",
+   "MAL19984702ACRZ",
+   "MAL08021476ACRZ",
+   "MAL18046183AE",
+   "MAL18056151AZ",
+   "MAL06081219ARZ",
+   "MAL20034439AZ",
+   "MAL20034440AZ",
+   "MAL24026031AZ",
+   "MAL24026043AZ",
+   "MAL24046028AZ",
+   "MAL24046029AZ",
+   "MAL19990960ARZ",
+   "MAL09062165ARZ",
+   "MAL09062166ARZ",
+   "MAL09062164ARZ"
+  ],
+  "hydrocortisone": [
+   "MAL19870473AZ",
+   "MAL15085015AZ",
+   "MAL17107037ACREZ",
+   "MAL16075024AZ",
+   "MAL19860156AZ"
+  ],
+  "hydrocortisone_acetate": [
+   "MAL16075024AZ",
+   "MAL19860156AZ",
+   "MAL19985962AZ",
+   "MAL19870461AZ",
+   "MAL20076037AZ"
+  ],
+  "hydroxyurea": [
+   "MAL20040573AZ",
+   "MAL25036013AZ"
+  ],
+  "ibuprofen": [
+   "MAL19963163AZ",
+   "MAL20013750AZ",
+   "MAL07010961AZ",
+   "MAL22126007AZ",
+   "MAL25076014AZ"
+  ],
+  "imatinib": [
+   "MAL06011679ARZ",
+   "MAL06011681ARZ",
+   "MAL18026181AZ",
+   "MAL18026180AZ",
+   "MAL20126013AZ"
+  ],
+  "indomethacin": [
+   "MAL19940036AZ",
+   "MAL20142425AEZ",
+   "MAL19910015AZ"
+  ],
+  "insulin_glargine": [
+   "MAL16065057AZ",
+   "MAL16075050AZ",
+   "MAL20081742AZ",
+   "MAL25016118AZ",
+   "MAL25016119ACZ"
+  ],
+  "insulin_human": [
+   "MAL21066008ASZ",
+   "MAL21066007ASZ",
+   "MAL17107007ASZ",
+   "MAL17107008ASZ",
+   "MAL14015110AZ"
+  ],
+  "iodixanol": [
+   "MAL20032149ARZ",
+   "MAL20032148AZ",
+   "MAL20032146AZ",
+   "MAL20046122AZ"
+  ],
+  "iopromide": [
+   "MAL19920403ARZ",
+   "MAL19920402ARZ"
+  ],
+  "irbesartan": [
+   "MAL19990972AZ",
+   "MAL19990971AZ",
+   "MAL20016135AZ",
+   "MAL20016136AZ",
+   "MAL12075073AZ"
+  ],
+  "iron": [
+   "MAL21036012XC",
+   "MAL10100040XC",
+   "MAL17085002AZ",
+   "MAL19911912XZ",
+   "MAL21056003ACZ"
+  ],
+  "isosorbide_dinitrate": [
+   "MAL19950593AZ",
+   "MAL19984739ACRZ",
+   "MAL19880138ACRZ"
+  ],
+  "ketoconazole": [
+   "MAL19921254AZ",
+   "MAL19900346ACRZ",
+   "MAL19016012AE",
+   "MAL19987375AZ",
+   "MAL19986498AZ"
+  ],
+  "ketoprofen": [
+   "MAL06100567AZ",
+   "MAL20061602AZ",
+   "MAL06111321AZ",
+   "MAL20040964AZ",
+   "MAL20046125AZ"
+  ],
+  "lamivudine": [
+   "MAL19963153ACRZ",
+   "MAL19992323ACRZ",
+   "MAL17055009ACZ",
+   "MAL17055004AZ",
+   "MAL20172809AEZ"
+  ],
+  "lamotrigine": [
+   "MAL19930433ACRZ",
+   "MAL19930435ACRZ",
+   "MAL19970262ACRZ",
+   "MAL06081206AZ",
+   "MAL20034654AZ"
+  ],
+  "lemborexant": [
+   "MAL22066114AZ",
+   "MAL22066113AZ"
+  ],
+  "lenalidomide": [
+   "MAL12040007ARZ",
+   "MAL12040006ARZ",
+   "MAL12040005ARZ",
+   "MAL12040004ARZ",
+   "MAL22076030AZ"
+  ],
+  "levodopa": [
+   "MAL19984315AZ",
+   "MAL18086152AZ",
+   "MAL09102942AZ",
+   "MAL19871097ACRZ",
+   "MAL19986476ARZ"
+  ],
+  "lidocaine": [
+   "MAL06081215AZ",
+   "MAL19961319AZ",
+   "MAL19861477AZ",
+   "MAL19890636AZ",
+   "MAL11050003AZ"
+  ],
+  "lincomycin_hydrochloride": [
+   "MAL21126020HA",
+   "MAL20172718HA",
+   "MAL20172862HA",
+   "MAL20172992ACREZ",
+   "MAL19950513AZ"
+  ],
+  "lopinavir": [
+   "MAL12020021AZ",
+   "MAL08031363ARZ",
+   "MAL23076009AZ",
+   "MAL23076008AZ",
+   "MAL20020996AZ"
+  ],
+  "loratadine": [
+   "MAL21046021ACZ",
+   "MAL20014346AZ",
+   "MAL06091440AZ",
+   "MAL20014224AZ",
+   "MAL20014527AZ",
+   "MAL21126003AZ",
+   "MAL22036019AZ",
+   "MAL20020366AZ",
+   "MAL22046026AZ",
+   "MAL20020536AZ",
+   "MAL20020537AZ",
+   "MAL17085016AZ",
+   "MAL22086029AZ",
+   "MAL20021012AZ",
+   "MAL20021013AZ",
+   "MAL22106007AZ",
+   "MAL20020883AZ",
+   "MAL20021421AZ",
+   "MAL18016027AZ",
+   "MAL20031927AZ",
+   "MAL18026182AZ",
+   "MAL18026173AZ",
+   "MAL18056162AZ",
+   "MAL18056072AZ",
+   "MAL20033495AZ",
+   "MAL19930250ACZ",
+   "MAL18086161AZ",
+   "MAL23106019AZ",
+   "MAL20034222ARZ",
+   "MAL13115129ACZ"
+  ],
+  "lovastatin": [
+   "MAL19973311AZ",
+   "MAL20021411AZ",
+   "MAL19990107AZ",
+   "MAL19990021ACRZ"
+  ],
+  "magnesium_hydroxide": [
+   "MAL11085006X"
+  ],
+  "magnesium_sulfate": [
+   "MAL19920441ACRZ",
+   "MAL21026038AZ",
+   "MAL21056029AZ",
+   "MAL22126035ACZ",
+   "MAL23036016AZ"
+  ],
+  "magnesium_trisilicate": [
+   "MAL19940176XC",
+   "MAL19940195XC",
+   "MAL09042426X",
+   "MAL19940180XC",
+   "MAL19940204XC"
+  ],
+  "mannitol": [
+   "MAL21076024AZ",
+   "MAL19973350AZ",
+   "MAL20000380AZ",
+   "MAL20000381AZ",
+   "MAL19910407AZ"
+  ],
+  "medroxyprogesterone_acetate": [
+   "MAL19950156AZ",
+   "MAL20020010AZ",
+   "MAL19872273AZ",
+   "MAL14125122AZ",
+   "MAL20000997AZ"
+  ],
+  "megestrol_acetate": [
+   "MAL18016021AZ",
+   "MAL19988445AZ",
+   "MAL21016012ACZ"
+  ],
+  "meloxicam": [
+   "MAL11060027ACZ",
+   "MAL06081205ARZ",
+   "MAL07011004AZ",
+   "MAL13035051AZ",
+   "MAL05092224AZ"
+  ],
+  "melphalan": [
+   "MAL07101257ACZ",
+   "MAL05061512ACZ"
+  ],
+  "mercaptopurine": [
+   "MAL25076017AZ"
+  ],
+  "meropenem": [
+   "MAL19972956ACRZ",
+   "MAL19972957ACRZ",
+   "MAL12080002AZ",
+   "MAL18056173ACRZ",
+   "MAL22086023ACZ"
+  ],
+  "methionine": [
+   "MAL16115004NCR",
+   "MAL18056004NCR",
+   "MAL25046050NC",
+   "MAL22016045NC",
+   "MAL23096034NC"
+  ],
+  "methotrexate": [
+   "MAL20014315ARZ",
+   "MAL22046019AZ",
+   "MAL22046018AZ",
+   "MAL24016008AZ",
+   "MAL19940257ARZ"
+  ],
+  "methylprednisolone": [
+   "MAL16095025ACZ",
+   "MAL19870514AZ",
+   "MAL19870513AZ",
+   "MAL19870511AZ",
+   "MAL19990587AZ"
+  ],
+  "metronidazole": [
+   "MAL19920123AZ",
+   "MAL19872182AZ",
+   "MAL19973017AZ",
+   "MAL20021367AZ",
+   "MAL19973683AZ"
+  ],
+  "minoxidil": [
+   "MAL16105054AZ",
+   "MAL16105035AZ",
+   "MAL12010007AZ",
+   "MAL19985557ACZ",
+   "MAL19971300AZ"
+  ],
+  "mometasone_furoate": [
+   "MAL11080006AZ",
+   "MAL06081217AZ",
+   "MAL07021392AZ",
+   "MAL21106003ACRZ",
+   "MAL21106004ACRZ",
+   "MAL21106002ACRZ",
+   "MAL12015004AZ",
+   "MAL07010899AZ",
+   "MAL07010898AZ",
+   "MAL22096002AZ",
+   "MAL07090928AZ",
+   "MAL07090939AZ",
+   "MAL07090938AZ",
+   "MAL20122247AEZ",
+   "MAL20122248AEZ",
+   "MAL07122846AZ",
+   "MAL22126042AZ",
+   "MAL18016032AZ",
+   "MAL08010715AZ",
+   "MAL18046159ACZ",
+   "MAL23066009HA",
+   "MAL08061562AZ",
+   "MAL23076004ACRZ",
+   "MAL13085051AZ",
+   "MAL13085052AZ",
+   "MAL18116070ACZ",
+   "MAL20040076AZ",
+   "MAL14025010AZ",
+   "MAL19940137AZ",
+   "MAL09062111AZ"
+  ],
+  "naproxen": [
+   "MAL06071077AZ",
+   "MAL19961702AZ",
+   "MAL20020260AZ",
+   "MAL20020896ACZ",
+   "MAL19988494AZ"
+  ],
+  "nefopam": [
+   "MAL13070001ACZ"
+  ],
+  "netarsudil": [
+   "MAL25046004ACZ",
+   "MAL25046005ACZ"
+  ],
+  "nitric_oxide": [
+   "MAL26016028AZ"
+  ],
+  "norfloxacin": [
+   "MAL20162622HAE",
+   "MAL17107101HAE",
+   "MAL19921583AZ",
+   "MAL19985187AZ",
+   "MAL19930497AZ"
+  ],
+  "obinutuzumab": [
+   "MAL15105037ARZ"
+  ],
+  "ofatumumab": [
+   "MAL21086008ARZ"
+  ],
+  "ofloxacin": [
+   "MAL20020027AZ",
+   "MAL20020256AZ",
+   "MAL20020257AZ",
+   "MAL17107038ACREZ",
+   "MAL20040909ARZ"
+  ],
+  "olanzapine": [
+   "MAL04125491ACRZ",
+   "MAL08061564ARZ",
+   "MAL08061565ARZ",
+   "MAL19051005ARZ",
+   "MAL23096022AZ"
+  ],
+  "olaparib": [
+   "MAL19106013ACRZ",
+   "MAL19106011ACRZ"
+  ],
+  "omalizumab": [
+   "MAL22086007ACRZ",
+   "MAL22086008ACRZ",
+   "MAL20091873ACRZ",
+   "MAL25116066ARSZ",
+   "MAL25116067ARZ"
+  ],
+  "omeprazole": [
+   "MAL20020239ARZ",
+   "MAL19992065ACRZ",
+   "MAL18056152AZ",
+   "MAL09011422AZ",
+   "MAL05041936AZ"
+  ],
+  "paclitaxel": [
+   "MAL21106046ACZ",
+   "MAL21106047ACZ",
+   "MAL22046023AZ",
+   "MAL22116015AZ",
+   "MAL23086010ACZ"
+  ],
+  "pegaspargase": [
+   "MAL22076006ARZ"
+  ],
+  "pertuzumab": [
+   "MAL13115219ARZ",
+   "MAL22056048ARZ",
+   "MAL22056047ARZ"
+  ],
+  "phenytoin": [
+   "MAL12055031ACRZ",
+   "MAL17085008AZ",
+   "MAL19860940ARZ",
+   "MAL19860935ARZ",
+   "MAL19970942ACRZ"
+  ],
+  "pinaverium_bromide": [
+   "MAL12045092ACZ",
+   "MAL20122215ACZ"
+  ],
+  "pioglitazone_hydrochloride": [
+   "MAL11100026ACZ",
+   "MAL21126010AZ",
+   "MAL21126011AZ",
+   "MAL10012471AZ",
+   "MAL10012472AZ"
+  ],
+  "piroxicam": [
+   "MAL19920515AZ",
+   "MAL19930424AZ",
+   "MAL19930588AZ",
+   "MAL19984713ARZ",
+   "MAL19950261AZ"
+  ],
+  "pitavastatin": [
+   "MAL20046082AZ",
+   "MAL20046083AZ",
+   "MAL25126017AZ"
+  ],
+  "pitolisant_hydrochloride": [
+   "MAL25126011AEZ",
+   "MAL25126010AEZ"
+  ],
+  "potassium_chloride": [
+   "MAL11060032AZ",
+   "MAL19920259AZ",
+   "MAL19920245AZ",
+   "MAL19970962AZ",
+   "MAL25036026XC"
+  ],
+  "potassium_citrate": [
+   "MAL19962488X",
+   "MAL22056005NC",
+   "MAL19972539X",
+   "MAL19971318X",
+   "MAL19940179XC"
+  ],
+  "prednisolone": [
+   "MAL06081197AZ",
+   "MAL21106027AZ",
+   "MAL19860161AZ",
+   "MAL19986420AZ",
+   "MAL19890346ARZ"
+  ],
+  "prednisolone_acetate": [
+   "MAL19986420AZ",
+   "MAL19870511AZ",
+   "MAL19890346ARZ",
+   "MAL20041207AZ",
+   "MAL18126006HAC",
+   "MAL25086048HAR"
+  ],
+  "pregabalin": [
+   "MAL20081830ACRZ",
+   "MAL20081831ACRZ",
+   "MAL20081832ACRZ",
+   "MAL25046010ACRZ",
+   "MAL25046011ACRZ"
+  ],
+  "procaine_benzylpenicillin": [
+   "MAL14070106HA",
+   "MAL22026023HA",
+   "MAL08061566AZ"
+  ],
+  "prochlorperazine": [
+   "MAL19970964AZ",
+   "MAL19890269ACZ",
+   "MAL19871687AZ",
+   "MAL19861405AZ",
+   "MAL19900450AZ"
+  ],
+  "progesterone": [
+   "MAL19971796ACZ",
+   "MAL17035024ACZ",
+   "MAL20020994ARZ",
+   "MAL20033678ACZ",
+   "MAL24066005ACZ"
+  ],
+  "propylene_glycol": [
+   "MAL24026019ACZ",
+   "MAL24026020ACZ",
+   "MAL19871130AZ"
+  ],
+  "ramipril": [
+   "MAL17055006AZ",
+   "MAL17055005AZ",
+   "MAL20031929AZ",
+   "MAL19986948AZ",
+   "MAL19986949AZ"
+  ],
+  "ranibizumab": [
+   "MAL20071650ARZ"
+  ],
+  "riluzole": [
+   "MAL20051294AZ"
+  ],
+  "risankizumab": [
+   "MAL22086006ACRZ",
+   "MAL22086005ACRZ",
+   "MAL25016004ACRZ",
+   "MAL25016005ACRZ"
+  ],
+  "risperidone": [
+   "MAL19992548AZ",
+   "MAL20002242AZ",
+   "MAL20041156AZ",
+   "MAL11100009AZ",
+   "MAL07050016AZ"
+  ],
+  "ritonavir": [
+   "MAL13015040ARZ",
+   "MAL17085058AZ",
+   "MAL08031363ARZ",
+   "MAL22036001ACZ",
+   "MAL24096007AZ"
+  ],
+  "rituximab": [
+   "MAL16065058ARZ",
+   "MAL20020817ARSZ",
+   "MAL20020816ARSZ",
+   "MAL22076008AZ",
+   "MAL22076007AZ",
+   "MAL18086131AZ",
+   "MAL20102000ARZ",
+   "MAL25126013AZ",
+   "MAL25126012AZ"
+  ],
+  "salicylic_acid": [
+   "MAL19961282XZ",
+   "MAL21096015HX",
+   "MAL17076014XZ",
+   "MAL12075080XZ",
+   "MAL20172843XC"
+  ],
+  "selumetinib": [
+   "MAL23046003ACRZ",
+   "MAL23046004ACRZ"
+  ],
+  "simoctocog_alfa": [
+   "MAL20026053AZ",
+   "MAL20026054AZ",
+   "MAL20026055AZ",
+   "MAL20026056AZ"
+  ],
+  "simvastatin": [
+   "MAL11100002ARZ",
+   "MAL19921416ARZ",
+   "MAL17035037AZ",
+   "MAL20020473AZ",
+   "MAL22076004AZ"
+  ],
+  "sirolimus": [
+   "MAL20032403ARZ"
+  ],
+  "sodium_citrate": [
+   "MAL19920395XZ",
+   "MAL20026079X",
+   "MAL17015017X",
+   "MAL19920360XZ",
+   "MAL05072037XCR"
+  ],
+  "streptokinase": [
+   "MAL21116147ACZ"
+  ],
+  "sunitinib": [
+   "MAL20071632AZ",
+   "MAL22126049AZ",
+   "MAL23036020AZ",
+   "MAL24096044AZ",
+   "MAL25086009AZ"
+  ],
+  "tadalafil": [
+   "MAL20034166ARZ",
+   "MAL14125149ARZ",
+   "MAL20172854ACREZ",
+   "MAL23096011ACZ",
+   "MAL21036002AZ"
+  ],
+  "tamoxifen": [
+   "MAL19870703ARZ"
+  ],
+  "tazobactam": [
+   "MAL20162591ACREZ",
+   "MAL19990548AZ",
+   "MAL16125024ACRZ",
+   "MAL17107023ARZ",
+   "MAL17107024ARZ",
+   "MAL24036024ACZ",
+   "MAL09072786ACZ",
+   "MAL15015046AZ",
+   "MAL16045059AZ"
+  ],
+  "tegafur": [
+   "MAL19071004AZ",
+   "MAL19071005AZ",
+   "MAL09102913AZ"
+  ],
+  "telmisartan": [
+   "MAL19992673AZ",
+   "MAL19992674AZ",
+   "MAL21106018AZ",
+   "MAL13015032AZ",
+   "MAL18056178AZ"
+  ],
+  "temozolomide": [
+   "MAL22096014AZ",
+   "MAL22096013AZ",
+   "MAL07082881ACRZ",
+   "MAL07082880ACRZ",
+   "MAL24046040AZ"
+  ],
+  "teriflunomide": [
+   "MAL25036160AZ",
+   "MAL15045075AZ"
+  ],
+  "testosterone": [
+   "MAL06100555AZ",
+   "MAL06100554ACZ",
+   "MAL20061572ACRZ",
+   "MAL24046012AZ"
+  ],
+  "theophylline": [
+   "MAL13025048ACZ",
+   "MAL13075064ACZ",
+   "MAL13085050ACZ",
+   "MAL19872133AZ",
+   "MAL20132342AZ"
+  ],
+  "thiotepa": [
+   "MAL23066003AZ",
+   "MAL23066002ACRZ",
+   "MAL23066001ACRZ"
+  ],
+  "tipiracil": [
+   "MAL20026040AZ",
+   "MAL20026039AZ"
+  ],
+  "tobramycin": [
+   "MAL19920043ARZ",
+   "MAL19920042ARZ",
+   "MAL19921132ARZ"
+  ],
+  "tolnaftate": [
+   "MAL19962166XC",
+   "MAL06111364X",
+   "MAL07010995X",
+   "MAL19910644X",
+   "MAL19921306X",
+   "MAL19963257X",
+   "MAL07125187X",
+   "MAL19973717X",
+   "MAL08021518X",
+   "MAL19912108X",
+   "MAL19912086X",
+   "MAL19930279X",
+   "MAL19940562X",
+   "MAL19961017X"
+  ],
+  "tolvaptan": [
+   "MAL22066001ACZ",
+   "MAL24036003ARZ",
+   "MAL24036007ARZ",
+   "MAL24036006ARZ",
+   "MAL24036005ARZ"
+  ],
+  "tramadol": [
+   "MAL19961883AZ",
+   "MAL19962864AZ",
+   "MAL19962866AZ",
+   "MAL06111398AZ",
+   "MAL22026008AZ"
+  ],
+  "trastuzumab_emtansine": [
+   "MAL14075032ACRZ",
+   "MAL14075031ACRZ"
+  ],
+  "triamcinolone": [
+   "MAL21036037AE",
+   "MAL11055001AZ",
+   "MAL19988441ACZ",
+   "MAL26016037AZ",
+   "MAL19921153AZ"
+  ],
+  "triazolam": [
+   "MAL20041071AZ"
+  ],
+  "trimethoprim": [
+   "MAL19870922AZ",
+   "MAL19870913AZ",
+   "MAL19871882AZ",
+   "MAL08082721ACRZ",
+   "MAL20152492AEZ"
+  ],
+  "valsartan": [
+   "MAL09042429ARZ",
+   "MAL09042430ARZ",
+   "MAL09042431ARZ",
+   "MAL19056033ACZ",
+   "MAL19056034ACZ"
+  ],
+  "vancomycin": [
+   "MAL06051288AZ",
+   "MAL17015021AZ",
+   "MAL24046016AZ",
+   "MAL19990244ACZ",
+   "MAL21046018AZ"
+  ],
+  "vildagliptin": [
+   "MAL20081792ARZ",
+   "MAL22116027AZ",
+   "MAL23036023AZ",
+   "MAL23086014AZ",
+   "MAL24116016AZ"
+  ],
+  "vincristine": [
+   "MAL19940256ARZ",
+   "MAL20001224AZ",
+   "MAL20013748AZ"
+  ],
+  "vitamin_a": [
+   "MAL20013143X",
+   "MAL06051375X",
+   "MAL20013602X",
+   "MAL11090021X",
+   "MAL20020375ARZ"
+  ],
+  "vitamin_e": [
+   "MAL21056038NCR",
+   "MAL06061401X",
+   "MAL20013759XC",
+   "MAL21086034N",
+   "MAL16095011NCR"
+  ],
+  "vonoprazan": [
+   "MAL19056003ARZ",
+   "MAL19056002ARZ",
+   "MAL23086019AZ",
+   "MAL23086020AZ"
+  ],
+  "zinc_acetate": [
+   "MAL20031947AZ",
+   "MAL23126020AZ",
+   "MAL24116028AZ",
+   "MAL24116027AZ",
+   "MAL24116026AZ"
+  ],
+  "zinc_oxide": [
+   "MAL20061575XCZ",
+   "MAL23036028XCZ",
+   "MAL18046004XZ",
+   "MAL19930439XZ",
+   "MAL25016029XCZ"
+  ]
+ }
+}

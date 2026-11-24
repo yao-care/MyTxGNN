@@ -601,3 +601,34 @@ amlodipine_besilate 81→128 張（有效 76→123）、diphenhydramine_hcl 21�
 例：abacavir_sulfate「Indikasi asal: Tidak direkodkan dalam data tempatan」→「Di Malaysia, pendaftaran NPRA: 6 (sah: 6)」；2026-11-19 改了 444 頁。
 由母目錄 `.claude/drug_meta_description.py --apply --site MyTxGNN` 產生（站上複本 `tools/txgnn/.claude/drug_meta_description.py --apply --root .`），改動記在 `docs/_data/description_local_log.json`（pages＝目前句尾與原字樣、entries＝每次改動前後整行，可還原）。快照數字變了重跑會換新數字；`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾會自動 --apply，`check_seo_docs.py` 跑 --check 擋「還是未記載句尾」或「數字跟快照不符」。只改 front matter，lastmod_fix 不算正文改動、last_modified_at 不動。
 同日修：`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾重算 local_facts 的 atexit 掛鉤在結束時取不到 `__file__`（NameError，之前其實沒跑成），改成先算好路徑。
+
+## 市場段落許可證表改由程式產生（2026-11-24）
+
+用戶 2026-11-24 決定（30 站「許可證張數與狀態不再每週過期」，本站做 A；B＝正文張數程式改寫 2026-11-12 起已有，見上「正文許可證張數由程式改寫」）：
+每週許可證排程只改得到概覽表狀態列／張數列，「Maklumat Pasaran Malaysia」段落裡 AI 寫的自由格式許可證表（「Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan」，
+劑型、適應症欄多是「Tidak direkodkan」；狀態欄寫死）每週跟 NPRA 資料過期。
+- `scripts/sync_license_tables.py`：段落裡的第一張表換成程式依證據包 npra.records 產生的表
+  「| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |」（號碼、產品名、持有人照 NPRA 原文）；前後 `<!-- licenses:begin/end -->`。
+  Status 照本站既有寫法、依證據包 status 換算：Sah／Sah (pendaftaran bersyarat)／Sah (kini disenaraikan sebagai MAL…)（換尾碼沿用新號）、Dibatalkan Pendaftaran（Cancelled）、
+  Tamat tempoh (tiada dalam daftar semasa NPRA)（EXPIRED_STATUS）、Nombor pendaftaran lama; produk yang sama kini didaftarkan sebagai MAL…（RETIRED_STATUS）、
+  Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19)（MY_NOT_LISTED_CONFIRMED）、Status tidak dapat disahkan（UNKNOWN_STATUS）；不寫成 dibatalkan 的照實寫。
+  Jenis（Bahan tunggal／Kombinasi）照 active_ingredient 的成分組數，跟 reviewer／事實層 single_total 同一規則（全站逐筆比對一致）。
+  選列：換表當時報告原表依序列出的登記號（`config/license_table_pins.json`，240 頁）在前，其餘單方在前、Sah 在前、再依號碼；列數＝原表列數（最多 30；8 頁是 10-31 known_use_pages 的 30 列表），
+  正文「Jadual di bawah menyenaraikan lima…」照樣成立；總數多於列數時表下一句「Jadual di atas menyenaraikan N daripada M pendaftaran NPRA bagi ubat ini.」。
+  adalimumab、alpha-tocopherol_acetate、clobetasol_propionate、dexamethasone 正文說表上的都是 sah，選列裡已非有效的號拿掉。產品名含 checker 註銷字樣（例 Revoke-1.5 levonorgestrel）的有效登記排在同類最後（checker M1 會誤判）。
+  段落裡原本沒有表的頁不加表（177 個公開頁；其中 58 頁正文寫「Butiran lesen individu tidak disenaraikan／tidak tersedia…」，加表會讓這些句子變錯，要不要加待用戶決定）。
+  10-31 known_use_pages 表下的「Data hanya mengandungi sebahagian pendaftaran…」（證據包現在都是完整紀錄）換表時拿掉（6 頁）。
+- 快照 `snapshots/my_licenses.json.gz` 另存 rows（最多 30 列）／nrows；gate 第 19 項（`site.py` program_block_problems）擋「段落有表卻不是程式區塊」「程式區塊≠快照重算」「說明句不對」。
+  接上：`scripts/license_adapter.py` 的 `sync_tables`（每週排程全站重排）與 `PAGE_NOTE`；`scripts/apply_drug_reviews.py`（非 --check）結尾先重排表再跑 B；
+  `scripts/build_license_snapshot.py` 寫完快照先重排表再跑 B；`scripts/sync_notes_to_docs.py` 用 `carry_block` 移植舊頁程式區塊。沒有 data/ 時依快照的列重排（`--from-snapshot`）。
+- 2026-11-24 套用（資料 data-20261123-155610）：程式表 261 頁（公開 240、noindex 21）；正文張數 B 改寫 0 句（gate 第 22 項照舊通過）。
+  錨在舊表列上的 6 筆查核紀錄（my-row-20261117-netarsudil-1/-2、my-row-20261119-rituximab-1/-2、tazobactam-1、my-row-20261117-thiotepa-1）標 superseded（程式表 Status 欄寫出同樣狀態）。
+  用戶追加決定「查核紀錄更正文字裡的張數」：202 筆同 id 重發（前版存 history）——180 筆 note 的「Ubat ini mempunyai N pendaftaran (sah: V)」換成「Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.」，
+  24 筆 replacement 改成不寫數字的寫法（保留哪幾張不在列、換號等事實；iron、ciprofloxacin、ketoconazole 的 claim 延到整句）。
+  另寫的寬偵測（正文張數與事實層任一讀法不符、全稱 sah／tiada dibatalkan）全量掃公開頁：改前改後都是 31 句；其中 10 句是舊張數（diphenhydramine_hcl、ezetimibe、magnesium_hydroxide、omeprazole、prednisolone、
+  sodium_citrate、telmisartan×2、vildagliptin、doxycycline），以 10 筆 `my-lic-20261124-*` 改成不寫數字的寫法；剩 23 句都是表上列數（跟程式表列數相同）、sekurang-kurangnya 與相對數。
+  單方／複方標籤：全量掃「全部單方／N 張單方」對事實層，0 句錯（只有 2 句寬偵測誤中）。
+  待查清單加 12 句：7 頁原表是空白佔位表、正文講證據包欄位空白或「isikan jadual」，換表後讀起來跟表矛盾（講證據包的句子照規則不改）。
+  checker 全量前後都是 P5 1（cyclosporine，原有、無關）；gate exit 0。正文或表有變的 407 頁 last_modified_at 改 2026-11-24。
+- 母目錄 `.claude/license_labels/MyTxGNN.json` 只有 Sah／Dibatalkan Pendaftaran；程式表另會寫 Tamat tempoh…、Nombor pendaftaran lama…、Tidak lagi tersenarai…、Status tidak dapat disahkan、
+  Sah (pendaftaran bersyarat)／Sah (kini disenaraikan…)。lts.apply 認不得的格子不動、由 sync_tables 重排，不會列成 unsynced；要讓 lts 也認得，請在母目錄補這幾個字。

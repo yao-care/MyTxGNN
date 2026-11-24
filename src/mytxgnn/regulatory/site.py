@@ -4,7 +4,8 @@
 check_original_indications.py 都讀這裡；核心流程比照 TwTxGNN 與 UsTxGNN，只有這份是本站自己的寫法。
 本站的市場資料是 NPRA 藥品註冊（data.gov.my 的 pharmaceutical_products.csv 現行註冊與 pharmaceutical_products_cancelled.csv
 撤銷清單；註冊號 MAL…），頁面文字用馬來文。
-本站沒有程式產生的許可證表（「Maklumat Pasaran Malaysia」段落的表是報告寫的），所以沒有程式區塊標記。
+2026-11-24 起（用戶決定）「Maklumat Pasaran Malaysia」段落的許可證表由 scripts/sync_license_tables.py 依證據包產生
+（程式區塊 <!-- licenses:begin/end -->）；gate 依快照驗程式區塊（program_block_problems）。
 """
 import re
 
@@ -74,6 +75,64 @@ MARKET_SEC = re.compile(r"^## Maklumat Pasaran (?:di )?Malaysia\s*$")
 ID_RE = re.compile(r"\bMAL\d{8}[A-Z]{0,5}\b")  # NPRA 註冊號（2026-11-12 依證據包實測：MAL＋8 碼數字＋0–5 個字母）
 
 
+PROGRAM_SCRIPT = "sync_license_tables.py"  # 程式許可證表（2026-11-24）
+
+
+def _slt():
+    import importlib.util
+    from pathlib import Path
+    p = Path(__file__).resolve().parents[3] / "scripts" / PROGRAM_SCRIPT
+    s = importlib.util.spec_from_file_location("my_sync_license_tables", p)
+    m = importlib.util.module_from_spec(s)
+    s.loader.exec_module(m)
+    return m
+
+
+_SLT = []
+
+
+def _nostatus(row):
+    """程式表一列去掉最後一欄（狀態）：狀態欄由每週排程依事實層改寫、另由 row_status_conflicts 驗；其他欄要跟快照一樣"""
+    return row.strip().strip("|").rsplit("|", 1)[0].strip()
+
+
+def program_block_problems(sec, e):
+    """市場段落（sec＝段落各行，不含標題）的程式許可證表＝快照重算的結果（2026-11-24）"""
+    if "rows" not in e:
+        return []
+    if not _SLT:
+        _SLT.append(_slt())
+    s = _SLT[0]
+    has_b, has_e = s.BEGIN in sec, s.END in sec
+    if has_b != has_e or sec.count(s.BEGIN) > 1:
+        return ["市場段落的程式區塊標記不成對或不只一組"]
+    if not has_b:  # 段落原本沒有表的頁不加程式表（scripts/sync_license_tables.py 說明）；有表就一定要是程式區塊
+        tb = [x for x in sec if x.startswith("|")]
+        return [f"市場段落有程式區塊以外的表格（跑 python3 scripts/sync_license_tables.py）：{tb[0][:40]}"] if tb else []
+    i, j = sec.index(s.BEGIN), sec.index(s.END)
+    blk = [x for x in sec[i + 1:j] if x.strip()]
+    tb = [x for x in blk if x.startswith("|")]
+    rest = [x.strip() for x in blk if not x.startswith("|")]
+    n, nrows = len(tb) - 2, e.get("nrows", len(e["rows"]))
+    errs = []
+    if not e["rows"]:
+        if tb or rest != [s.NONE_LINE]:
+            errs.append("快照沒有任何登記，程式區塊應只有「" + s.NONE_LINE + "」")
+    elif not tb or tb[0].strip() != s.HEAD[0]:
+        errs.append("程式區塊的表頭不是程式表頭")
+    elif n < 1 or [_nostatus(x) for x in tb[2:]] != [_nostatus(x) for x in e["rows"][:n]]:
+        k = next((k for k, (x, y) in enumerate(zip(tb[2:], e["rows"])) if _nostatus(x) != _nostatus(y)), min(n, len(e["rows"])))
+        errs.append(f"程式表第 {k + 1} 列跟快照重算的結果不同（程式表被手改或資料已更新：跑 scripts/sync_license_tables.py）")
+    elif nrows > n and rest != [s.SHOW.format(n=n, m=nrows)]:
+        errs.append(f"程式區塊表格下方的程式文字應為「{s.SHOW.format(n=n, m=nrows)}」")
+    elif nrows <= n and rest:
+        errs.append(f"程式區塊表格下方不應有其他文字：{rest[0][:40]}")
+    outside = [k for k, x in enumerate(sec) if x.startswith("|") and not (i < k < j)]
+    if outside:
+        errs.append(f"市場段落有程式區塊以外的表格：{sec[outside[0]][:40]}")
+    return errs
+
+
 def own_ids(tf):
     return sorted({str(r.get("reg_no") or "").strip() for r in tf.get("records") or [] if r.get("reg_no")})
 
@@ -87,7 +146,10 @@ REGEN_COMMITS = ["33e13285", "40ffaec8", "04324438", "5cea38e3", "478827ba", "fc
 SOURCES = [{"title": "NPRA pharmaceutical product registrations (data.gov.my)",
             "url": "https://data.gov.my/data-catalogue/pharmaceutical_products"}]
 SENT = re.compile(r'(?<=[.!?])\s+(?=[A-Z0-9(*"\[])|\n')
-PROGRAM_LINES = []
+# 程式許可證區塊裡程式寫的行（表下說明句、沒有任何登記時的一句；2026-11-24）：轉紀錄與驗證時不當成正文
+PROGRAM_LINES = [re.compile(r"^Jadual di atas menyenaraikan \d+ daripada \d+ pendaftaran NPRA bagi ubat ini\.$"),
+                 re.compile(r"^Tiada pendaftaran NPRA yang mengandungi bahan aktif ubat ini dalam data yang digunakan untuk laporan ini\.$"),
+                 re.compile(r"^<!-- licenses:(begin|end) -->$")]
 CLASSIFY = [
     ("tw", re.compile(r"Taiwan|TFDA", re.I)),
     ("cancel", re.compile(r"dibatalkan|pembatalan|batal|tamat tempoh|luput|tidak (lagi )?dipasarkan|tidak (lagi )?sah|"

@@ -318,3 +318,19 @@ def update(rec, new):
         return False
     rec["status"] = new
     return True
+
+
+# 2026-11-24（用戶決定）：「Maklumat Pasaran Malaysia」的許可證表改由 scripts/sync_license_tables.py 依證據包產生（程式區塊
+# <!-- licenses:begin/end -->）。每週排程（license_refresh_20261029.py 的 sync_tables 掛鉤）全站重排：狀態變了（含換尾碼、
+# 人工確認不列的號碼又出現）排序與 Status 欄跟著變；只重排程式區塊，表以外的正文不動（正文張數由 scripts/rewrite_license_counts.py
+# 依快照改寫）。PAGE_NOTE：表格列以外、程式寫的行（表下說明句、區塊標記、沒有任何登記時的一句）。
+PAGE_NOTE = (r"^(Jadual di atas menyenaraikan \d+ daripada \d+ pendaftaran NPRA bagi ubat ini\.|<!-- licenses:(begin|end) -->|"
+             r"Tiada pendaftaran NPRA yang mengandungi bahan aktif ubat ini dalam data yang digunakan untuk laporan ini\.)$")
+
+
+def sync_tables(site_dir, bundles):
+    import importlib.util
+    s = importlib.util.spec_from_file_location("my_slt", Path(site_dir) / "scripts/sync_license_tables.py")
+    m = importlib.util.module_from_spec(s)
+    s.loader.exec_module(m)
+    return [(pg, "許可證表", "", "依證據包重排") for pg in m.run()]
