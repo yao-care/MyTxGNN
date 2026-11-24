@@ -242,8 +242,8 @@ def process(text, rows, nrows):
 # （量測 222 頁，多是新版報告格式），補一個段落放程式表（列數 min(5, 總數)，總數較多時加 SHOW 句）。
 # 位置：安全性段落（Pertimbangan Keselamatan／Keselamatan…／Maklumat Keselamatan）之前；沒有就「(Keputusan )Kesimpulan／Keputusan dan
 # Langkah Seterusnya」之前；再沒有就「Penafian」之前（緊接在前的「---」分隔線與查核紀錄區塊標記之前）。noindex 頁與證據包沒有紀錄的頁不補。
-# 超過 200 頁，套用前先回報用戶（brief_round3）：ADD_SECTIONS 預設關閉，--add-sections 才做；用戶同意後改成 True 並接上 gate。
-ADD_SECTIONS = False
+# 超過 200 頁，先回報用戶，用戶 2026-11-24 同意（不設頁數上限）；gate（src/mytxgnn/regulatory/licenses.py page_problems）擋「公開頁有證據包紀錄卻沒有市場段落」。
+ADD_SECTIONS = True
 ADD_TITLE = "## Maklumat Pasaran di Malaysia"
 ADD_BEFORE = (re.compile(r"^## (Pertimbangan Keselamatan|Keselamatan\b.*|Maklumat Keselamatan)\s*$"),
               re.compile(r"^## (Keputusan )?(Kesimpulan|Keputusan) dan Langkah Seterusnya\s*$"),

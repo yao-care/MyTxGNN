@@ -111,7 +111,26 @@ class NPRACollector(BaseCollector):
             ):
                 matches.append(self._format_record(record))
 
-        return matches
+        return self._drop_other_drugs(drug, matches)
+
+    @staticmethod
+    def _drop_other_drugs(drug: str, matches: list[dict]) -> list[dict]:
+        """2026-11-24（用戶決定「逐站修對照並重算」）：子字串比對收到的、本藥只是另一個藥鹽類部分或名稱一部分的登記，
+        照 scripts/exclude_salt_part_records.py 的同一份規則（SALT_PART／OTHER／RECORD_MISMATCH 表）不收。
+        找不到那支程式（只裝了套件的環境）就照原樣回傳。"""
+        try:
+            import importlib.util
+            from pathlib import Path
+            f = Path(__file__).resolve().parents[3] / "scripts" / "exclude_salt_part_records.py"
+            if not f.exists():
+                return matches
+            spec = importlib.util.spec_from_file_location("my_exclude_salt_part", f)
+            ex = importlib.util.module_from_spec(spec)
+            spec.loader.exec_module(ex)
+        except Exception:
+            return matches
+        key = re.sub(r"[^a-z0-9]+", "_", drug.lower()).strip("_")
+        return [r for r in matches if not (ex.salt_part(key, r) or ex.other_drug(key, r))]
 
     def _format_record(self, record: dict) -> dict:
         """Format a drug record for output.

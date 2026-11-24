@@ -12,6 +12,11 @@
 - 同一個證據包又在 records 裡出現同一號碼（例如之後重新收集）時，重跑會再排除；排除過的號碼不會被
   rebuild_licenses_by_ingredient.py 補回（它跳過 excluded_records 的號碼）。
 - 只動證據包；狀態列、張數列、程式表、快照由之後的 license_refresh／build_license_snapshot 依新證據包重算。
+2026-11-24 同日第三輪續做（用戶決定「逐站修對照並重算」）：同一支程式另處理「本藥名稱只是另一個藥名的一部分」的子字串誤收
+（OTHER 表，每筆附依據；例 glycine 收進 Glycine max（大豆）、ofloxacin 收進 ciprofloxacin／levofloxacin／marbofloxacin、citalopram 收進 escitalopram、
+omeprazole 收進 esomeprazole、desonide 收進 budesonide）：登記的 active_ingredient／generic_name／product 正規化後，拿掉表上「另一個藥」的寫法，
+若已找不到本藥名稱（原收集器比的子字串），而且表上寫法至少出現一次、沒有任何成分本身就是本藥 → 排除（excluded_reason 註明）。
+另 RECORD_MISMATCH：NPRA 某欄位錯植的個別登記（附理由）。本藥的鹽類、酯類、拼法變體（lignocaine、frusemide、aciclovir…）不在表上，照收。
 每週排程（.github/workflows/license-refresh.yml）在 merge_duplicate_bundles.py 之後、license_refresh 之前跑；重新收集證據包之後也要再跑。
 用法（repo 根目錄）：python3 scripts/exclude_salt_part_records.py [--dry-run] [--report out.tsv]
 """
@@ -48,6 +53,67 @@ SALT_PART = {
     "methionine": [("methionine", r"^(zinc methionine|methionine bound zinc complex)\b",
                     "zinc methionine 是鋅的甲硫胺酸螯合物（鋅補充劑），有效成分是鋅；甲硫胺酸只是配位基")],
 }
+# 證據包名 → [(另一個藥的寫法（正規化後的 regex）, 依據)]：拿掉這些寫法後找不到本藥名稱就排除（見檔頭）
+OTHER = {
+    "acetic_acid": [(r"aminoacetic acid", "aminoacetic acid 是 glycine（胺基乙酸），不是醋酸")],
+    "alanine": [(r"\w*phenylalanine", "phenylalanine／α-ketophenylalanine 是另一個胺基酸（或其酮酸類似物），不是 alanine")],
+    "phenylalanine": [(r"keto ?phenylalanine", "α-ketophenylalanine calcium 是 phenylalanine 的酮酸類似物（Ketosteril），不是 phenylalanine")],
+    "isoleucine": [(r"keto ?isoleucine", "α-ketoisoleucine calcium 是 isoleucine 的酮酸類似物（Ketosteril），不是 isoleucine")],
+    "valine": [(r"keto ?valine", "α-ketovaline calcium 是 valine 的酮酸類似物（Ketosteril），不是 valine")],
+    "aprepitant": [(r"fosaprepitant", "fosaprepitant 是另一個 INN（aprepitant 的前驅藥，注射劑）")],
+    "atracurium_besylate": [(r"cisatracurium", "cisatracurium 是另一個 INN（atracurium 的單一異構物）")],
+    "benzoic_acid": [(r"para ?amino ?benzoic acid|aminobenzoic acid|\bpaba\b", "para-aminobenzoic acid（PABA）是另一個化合物"),
+                     (r"2 hydroxybenzoic acid", "2-hydroxybenzoic acid 是 salicylic acid")],
+    "camphor": [(r"antrodia camphorat\w*|antrodia cinnamomea", "Antrodia camphorata／cinnamomea 是牛樟芝（真菌），不是樟腦"),
+                (r"(cortex |folium )?cinnamomum camphora( oil)?", "Cinnamomum camphora 是樟樹（植物）萃取物，不是樟腦成分"),
+                (r"borneo camphor", "Borneo camphor 是龍腦（borneol），不是樟腦"),
+                (r"camphor monobromide", "monobromated camphor 是樟腦的溴化衍生物，另一個化合物")],
+    "citalopram": [(r"escitalopram", "escitalopram 是另一個 INN（citalopram 的 S-鏡像異構物）")],
+    "daunorubicin": [(r"idarubicin( hcl| hydrochloride)?( 4)? ?demethoxy ?daunorubicin|demethoxy ?daunorubicin|idarubicin", "idarubicin（4-demethoxydaunorubicin）是另一個 INN")],
+    "desonide": [(r"budesonide", "budesonide 是另一個糖皮質素（名稱含 desonide 字串）")],
+    "epinephrine": [(r"norepinephrine", "norepinephrine（noradrenaline）是另一個藥")],
+    "ergometrine": [(r"methylergometrine", "methylergometrine 是另一個 INN")],
+    "ethanol": [(r"phenoxyethanol|\w*ethanolamine", "phenoxyethanol（防腐劑）、triethanolamine 等是另一個化合物，不是乙醇")],
+    "filgrastim": [(r"pegfilgrastim", "pegfilgrastim 是另一個 INN（PEG 化 filgrastim）")],
+    "flurbiprofen": [(r"esflurbiprofen", "esflurbiprofen 是另一個 INN（flurbiprofen 的 S-鏡像異構物）")],
+    "folic_acid": [(r"\d* ?methyl ?tetrahydrofolic acid|tetrahydrofolic acid", "5-methyltetrahydrofolic acid（L-methylfolate）是另一個化合物")],
+    "glycerin": [(r"nitroglycerin|glyceryl trinitrate", "nitroglycerin（glyceryl trinitrate）是另一個藥")],
+    "nitroglycerin": [],
+    "glycine": [(r"(semen )?glycine (hispida )?(max|soja)\w*", "Glycine max／Glycine soja 是大豆的學名（植物），不是胺基酸 glycine"),
+                (r"trimethylglycine", "trimethylglycine 是 betaine，另一個化合物")],
+    "guaiacol": [(r"glyceryl guaiacolate|guaiacol glyceryl ether|guaiacol glycerol ether", "glyceryl guaiacolate 是 guaifenesin，另一個藥")],
+    "iron": [(r"spironolactone", "spironolactone 名稱含「iron」字串，不是鐵劑")],
+    "ketoprofen": [(r"dexketoprofen", "dexketoprofen 是另一個 INN（ketoprofen 的 S-鏡像異構物）")],
+    "lansoprazole": [(r"dexlansoprazole", "dexlansoprazole 是另一個 INN（lansoprazole 的 R-鏡像異構物）")],
+    "ofloxacin": [(r"\b(?!ofloxacin\b)\w+ofloxacin\w*", "ciprofloxacin、levofloxacin、enrofloxacin、marbofloxacin、danofloxacin 等是另一個 fluoroquinolone（名稱含 ofloxacin 字串）")],
+    "omeprazole": [(r"esomeprazole", "esomeprazole 是另一個 INN（omeprazole 的 S-鏡像異構物）")],
+    "phenol": [(r"mycophenol\w*", "mycophenolate／mycophenolic acid 是另一個藥"),
+               (r"\b(?!phenols?\b)\w+phenols?\b", "propofol（2,6-diisopropylphenol）、植物多酚等是另一個化合物，不是酚（phenol）")],
+    "prednisolone": [(r"methylprednisolone", "methylprednisolone 是另一個 INN")],
+    "prednisolone_acetate": [(r"methylprednisolone", "methylprednisolone 是另一個 INN")],
+    "progesterone": [(r"medroxyprogesterone|hydroxyprogesterone", "medroxyprogesterone／hydroxyprogesterone 是另一個黃體素類藥")],
+    "resorcinol": [(r"hexylresorcinol", "hexylresorcinol 是另一個藥（喉片）")],
+    "salicylic_acid": [(r"acetyl ?salicylic acid", "acetylsalicylic acid 是 aspirin，另一個藥"),
+                       (r"\d* ?amino ?salicylic acid", "5-aminosalicylic acid 是 mesalazine，另一個藥")],
+    "serine": [(r"cycloserine", "cycloserine 是抗結核藥，另一個藥"),
+               (r"phosphatidyl ?serine", "phosphatidylserine 是磷脂，不是胺基酸 serine")],
+    "sodium_citrate": [(r"ferric sodium citrate", "ferric sodium citrate 是鐵劑，另一個化合物")],
+    "streptomycin": [(r"dihydrostreptomycin", "dihydrostreptomycin 是另一個 INN（獸用）")],
+    "trastuzumab": [(r"trastuzumab (deruxtecan|emtansine)", "trastuzumab deruxtecan（Enhertu）／emtansine（Kadcyla）是另一個 INN（抗體藥物複合體）")],
+    "tretinoin": [(r"isotretinoin", "isotretinoin 是另一個 INN")],
+    "turoctocog_alfa": [(r"turoctocog alfa pegol", "turoctocog alfa pegol（Esperoct）是另一個 INN")],
+    "uracil": [(r"\b(?!uracil\b)\w+uracil\w*", "fluorouracil、propylthiouracil 等是另一個藥（名稱含 uracil 字串）")],
+    "vitamin_a": [(r"pro ?vitamin a\b", "provitamin A 是 beta-carotene，不是維生素 A")],
+    "methionine": [(r"\w*selenomethionine|selenium methionine", "selenomethionine 是硒補充劑（甲硫胺酸的硒類似物），另一個化合物"),
+                   (r"s adenosyl l? ?methionine|ademetionine", "S-adenosyl-L-methionine（ademetionine，SAMe）是另一個 INN"),
+                   (r"\w*hydroxy ?methionine", "α-hydroxymethionine calcium 是甲硫胺酸的羥基類似物（Ketosteril），另一個化合物"),
+                   (r"zinc (mono)?methionine|methionine bound zinc", "zinc methionine 是鋅的甲硫胺酸螯合物（鋅補充劑）")],
+    "acyclovir": [(r"valaciclovir|valacyclovir", "valaciclovir 是另一個 INN（aciclovir 的前驅藥）")],
+}
+# 個別登記：NPRA 欄位錯植（號碼 → (不屬於的證據包, 依據)）
+RECORD_MISMATCH = {
+    "MAL09102936AZ": (("budesonide", "desonide"), "RESICALM Tablets 1mg 的成分是 RISPERIDONE；NPRA generic_name 欄錯植「Budesonide 100 mcg/dose Nasal Spray」"),
+}
 NOISE = re.compile(r"\b(" + rb.SALT + r"|ph eur|pheur|eur|ph|usp|bp|ip|jp|ep|b p|u s p|heptahydrate|\d+h2o|\d+)\b")
 
 
@@ -81,11 +147,42 @@ def salt_part(page, r):
     return None
 
 
+def _text(r):
+    return rb.norm(" ".join(str(r.get(k) or "") for k in ("active_ingredient", "generic_name", "product")))
+
+
+def other_drug(page, r):
+    """(依據, 符合的寫法) 或 None：拿掉 OTHER 表的寫法後找不到本藥名稱（原收集器的子字串）"""
+    for no, (pages, why) in RECORD_MISMATCH.items():
+        if rid(r) == no and page in pages:
+            return why, [no]
+    pats = OTHER.get(page) or []
+    if not pats:
+        return None
+    comps = rb.components(r.get("active_ingredient"))
+    if is_self(page, comps):
+        return None
+    txt, hit, why = _text(r), [], []
+    for rx, basis in pats:
+        m = [x.group(0) for x in re.finditer(rx, txt)]
+        if m:
+            hit += m
+            why.append(basis)
+            txt = re.sub(rx, " ", txt)
+    if not hit:
+        return None
+    full = rb.norm(page.replace("_", " "))
+    terms, _ = rb.terms_for(page)
+    if full in txt or any(re.search(r"\b" + re.escape(x) + r"\b", txt) for x in terms):
+        return None
+    return "；".join(dict.fromkeys(why)), list(dict.fromkeys(hit))
+
+
 def main(argv):
     dry = "--dry-run" in argv
     rep = argv[argv.index("--report") + 1] if "--report" in argv else None
     out, n = [], 0
-    for page in sorted(SALT_PART):
+    for page in sorted(set(SALT_PART) | set(OTHER) | {p for ps, _ in RECORD_MISMATCH.values() for p in ps}):
         f = BUNDLES / page / "drug_bundle.json"
         if not f.exists():
             continue
@@ -97,11 +194,15 @@ def main(argv):
         keep, move = [], []
         for r in recs:
             hit = salt_part(page, r)
+            kind = "本藥只是另一個藥的鹽類／共晶／溶劑合物／配位基部分（成分："
+            if not hit:
+                hit = other_drug(page, r)
+                kind = "本藥名稱只是另一個藥名的一部分，或登記欄位錯植（"
             if hit:
                 move.append(r)
                 out.append(f"{page}\t{rid(r)}\t{r.get('product')}\t{'; '.join(hit[1])}\t{hit[0]}")
                 if rid(r) not in have_exc:
-                    exc.append(dict(r, excluded_reason="本藥只是另一個藥的鹽類／共晶／溶劑合物／配位基部分（成分：" + "; ".join(hit[1]) + "）",
+                    exc.append(dict(r, excluded_reason=kind + "; ".join(hit[1]) + "）",
                                     excluded_basis=hit[0], excluded=TODAY))
                     have_exc.add(rid(r))
             else:
