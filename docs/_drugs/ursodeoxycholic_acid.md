@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 713
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "URSODEOXYCHOLIC ACID"
 predicted_indications: ["homozygous familial hypercholesterolemia"]
 description: "Ursodeoxycholic Acid: indikasi baharu diramal Hiperkolesterolemia familial homozigot (homozygous familial hypercholesterolemia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
@@ -69,6 +69,18 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19990011ACRZ | URSOFALK CAPSULE 250MG | Bahan tunggal | DCH AURIGA (MALAYSIA) SDN. BHD. | Sah |
+| MAL20116011ARZ | Ursosan 250 mg Hard Capsules | Bahan tunggal | PE PHARMA SDN. BHD. | Sah |
+| MAL24116020ARZ | Grinterol 250 mg hard capsules | Bahan tunggal | ZULAT PHARMACY SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Keselamatan
 

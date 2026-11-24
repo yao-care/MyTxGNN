@@ -90,6 +90,22 @@ Walau bagaimanapun, **arah kesan masih tidak pasti**. Literatur melaporkan vasku
 | [15853915](https://pubmed.ncbi.nlm.nih.gov/15853915/) | 2005 | Ulasan | Scand J Immunol | Imunologi vaskulitis kulit yang berkaitan dengan etanercept dan infliximab. |
 | [19648728](https://pubmed.ncbi.nlm.nih.gov/19648728/) | 2009 | Laporan kes | Dermatology | Herpes zoster tersebar yang menyerupai vaskulitis reumatoid pada pesakit RA yang menggunakan etanercept. |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20071720ARZ | ENBREL 25MG SOLUTION FOR INJECTION IN A PRE-FILLED SYRINGE | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL20071721ARZ | ENBREL 50MG SOLUTION FOR INJECTION IN A PRE-FILLED SYRINGE | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL21126014AZ | Eucept 25 mg / 0.5 mL Solution for Injection in Pre-filled Syringe | Bahan tunggal | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+| MAL21126015AZ | Eucept 50 mg / mL Solution for Injection in Pre-filled Syringe | Bahan tunggal | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+| MAL21126016AZ | Eucept 50 mg / mL Autoinjector in Pre-Filled Syringe | Bahan tunggal | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan dan Pertimbangan

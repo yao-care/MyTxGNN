@@ -79,6 +79,16 @@ Kesimpulannya, ramalan ini lebih menyerupai pelabelan semula indikasi sedia ada 
 
 Pada masa ini tiada literatur berkaitan yang dipautkan untuk indikasi bronkitis.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL25086003ACZ | YUPELRI Inhalation Solution 175mcg/3ml | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

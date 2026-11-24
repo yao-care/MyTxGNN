@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 500
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "METHYLENE BLUE"
 predicted_indications: ["bronchitis"]
 description: "Methylene Blue: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -99,6 +99,16 @@ Jadual berikut untuk bronkitis (ramalan utama). Tiada satu pun daripadanya merup
 | [29845943](https://pubmed.ncbi.nlm.nih.gov/29845943/) | 2018 | Laporan kes | Neth J Med | Methemoglobinemia kongenital pada pesakit 61 tahun; berulang sebentar selepas metilena biru, varian baharu CYB5R3 |
 | [14109019](https://pubmed.ncbi.nlm.nih.gov/14109019/) | 1964 | Laporan kes | Arch Intern Med | Kekurangan diaforase keturunan dan methemoglobinemia |
 | [14248326](https://pubmed.ncbi.nlm.nih.gov/14248326/) | 1964 | Laporan kes | Arch Fr Pediatr | Kes methemoglobinemia kongenital resesif berkaitan kekurangan diaforase I |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL23016001ACZ | Proveblue 5mg/ml Solution for Injection | Bahan tunggal | PHARM-D SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

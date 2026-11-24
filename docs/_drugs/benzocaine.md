@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BENZOCAINE"
 predicted_indications: ["papillary conjunctivitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Benzocaine: indikasi baharu diramal Konjunktivitis papilari (papillary conjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 
@@ -66,6 +66,22 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL08111835AZ | Mucopain gel 20% W/W | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL13110007ACZ | HurriCaine Cherry Topical Anesthetic Gel 20% | Bahan tunggal | TK DENTAL TRADING | Sah (pendaftaran bersyarat) |
+| MAL15040041ACZ | HurriCaine Cherry Topical Anesthetic Spray 20% | Bahan tunggal | TK DENTAL TRADING | Sah (pendaftaran bersyarat) |
+| MAL06071061AZ | Doproct Suppository | Kombinasi | IDAMAN PHARMA SDN. BHD. | Sah |
+| MAL07010991AZ | Deqben Lozenge | Kombinasi | WINWA MEDICAL SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

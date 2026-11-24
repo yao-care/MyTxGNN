@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-24
 monitor_inn: "streptomycin"
 predicted_indications: ["conjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "Lyme disease", "infectious otitis interna"]
-description: "Streptomycin: indikasi baharu diramal Konjunktivitis (conjunctivitis) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
+description: "Streptomycin: indikasi baharu diramal Konjunktivitis (conjunctivitis) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Streptomycin
@@ -52,8 +52,8 @@ tetapi setakat ini **tiada ujian klinikal** berdaftar dan hanya **20 penerbitan*
 | Indikasi Baharu yang Diramalkan | Konjunktivitis (conjunctivitis) |
 | Skor Ramalan TxGNN | 0.9987 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
-| Bilangan Pendaftaran | 5 (sah: 5) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -99,9 +99,6 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 |------|------|------|------|------|
 | MAL14070077HAC | SPECTIVET 50% Water Soluble Powder | Bahan tunggal | Lim Seng Pharmachem Sdn Bhd | Sah |
 | MAL20013448AZ | STREPTIN INJECTION 1GM | Bahan tunggal | SM PHARMACEUTICALS SDN. BHD. | Sah |
-| MAL14090122HA | Pen & Strep suspension for injection | Kombinasi | Borneosew Medical Trading (M) Sdn Bhd | Sah |
-| MAL22026023HA | Penstrep-400 Suspension for Injection | Kombinasi | Danberg (m) Sdn Bhd | Sah |
-| MAL23046045HA | Vime Penstrep Suspension Injectable | Kombinasi | Vemedim Sdn Bhd | Sah |
 
 <!-- licenses:end -->
 

@@ -75,6 +75,16 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Nota: kedua-dua penerbitan membincangkan jangkitan virus pencetus, bukan keberkesanan favipiravir terhadap sindrom hemofagositik secara langsung.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21036045AZ | Fabiflu 200mg Tablets | Bahan tunggal | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
+
 ## Keselamatan
 
 Sila rujuk sisipan pakej untuk maklumat keselamatan.

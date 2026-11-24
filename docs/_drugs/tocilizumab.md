@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 687
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "Tocilizumab"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
 description: "Tocilizumab: indikasi baharu diramal Spondilitis ankilosis (ankylosing spondylitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -78,6 +78,17 @@ Kedua-dua ujian rawak itu ditamatkan awal, yang menyukarkan tafsiran, dan hasiln
 | [22450391](https://pubmed.ncbi.nlm.nih.gov/22450391/) | 2012 | Ulasan | Current Opinion in Rheumatology | Membincangkan alternatif bagi pesakit yang tidak bertindak balas terhadap perencatan TNF. |
 | [22452603](https://pubmed.ncbi.nlm.nih.gov/22452603/) | 2012 | Ulasan | Inflammation & Allergy Drug Targets | Ulasan ringkas mengenai antagonisme IL-6. |
 | [33981717](https://pubmed.ncbi.nlm.nih.gov/33981717/) | 2021 | Laporan kes | Frontiers in Medicine | Dua kes amiloidosis AA yang dirawat dengan tocilizumab pada pesakit dengan penyakit ini. Ia bukan bukti keberkesanan terhadap penyakit itu sendiri. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20091983ACRZ | ACTEMRA 20 MG/ML CONCENTRATE FOR SOLUTION FOR INFUSION. | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL16045065ACRZ | ACTEMRA 162MG/0.9ML SOLUTION FOR INJECTION IN PRE-FILLED SYRINGE | Kombinasi | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

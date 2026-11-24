@@ -70,6 +70,17 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05032548ACRZ | XENICAL Capsule 120 mg | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL09122042AZ | ASLENE CAPSULE 120MG | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+
+<!-- licenses:end -->
+
 ## Pertimbangan Keselamatan
 
 Amaran utama dan kontraindikasi daripada sisipan pakej belum tersedia. Maklumat berikut diperoleh daripada graf pengetahuan dan **bukan** daripada teks label:

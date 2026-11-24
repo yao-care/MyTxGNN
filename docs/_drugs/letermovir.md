@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 452
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LETERMOVIR"
 predicted_indications: ["vulvovaginal candidiasis"]
 description: "Letermovir: indikasi baharu diramal Kandidiasis vulvovaginal (vulvovaginal candidiasis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -69,6 +69,17 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19096013ARZ | PREVYMIS 480MG FILM-COATED TABLET | Bahan tunggal | MERCK SHARP & DOHME (MALAYSIA) SDN. BHD. | Sah |
+| MAL19096014ARZ | PREVYMIS 240MG FILM-COATED TABLET | Bahan tunggal | MERCK SHARP & DOHME (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

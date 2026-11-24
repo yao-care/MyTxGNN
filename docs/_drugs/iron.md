@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Iron"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
 last_modified_at: 2026-11-24
-description: "Iron: indikasi baharu diramal Vitamin B12- and folate-independent constitutional megaloblastic anemia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 80 (sah: 79)"
+description: "Iron: indikasi baharu diramal Vitamin B12- and folate-independent constitutional megaloblastic anemia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 79 (sah: 78)"
 ---
 
 # Iron
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **anemia megaloblastik konstitu
 | Indikasi Baharu yang Diramalkan | Vitamin B12- and folate-independent constitutional megaloblastic anemia |
 | Skor Ramalan TxGNN | 0.9989 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 79 daripada 80) |
-| Bilangan Pendaftaran | 80 (sah: 79) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 78 daripada 79) |
+| Bilangan Pendaftaran | 79 (sah: 78) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -103,7 +103,7 @@ Status pasaran: dipasarkan. Lesen yang direkodkan merangkumi produk bahan tungga
 | MAL19911912XZ | MALTOFER CHEWABLE TABLET | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
 | MAL21056003ACZ | Ferinject 50 mg iron/mL solution for injection/infusion | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 80 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 79 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

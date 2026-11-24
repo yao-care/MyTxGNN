@@ -87,6 +87,19 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 | [30950895](https://pubmed.ncbi.nlm.nih.gov/30950895/) | 2019 | Siri kes (keselamatan) | Cornea | Edema kornea berkaitan agen dopaminergik sistemik |
 | [17483695](https://pubmed.ncbi.nlm.nih.gov/17483695/) | 2007 | Model haiwan | J Neuropathol Exp Neurol | Model tikus RLS (lesi A11 dan kekurangan zat besi) |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL10053654ARZ | REQUIP PD 24 HOUR 2mg Prolonged Release Tablets | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL10053656ARZ | REQUIP PD 24 HOUR 4mg Prolonged Release Tablets | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19990966ARZ | REQUIP TABLET 0.25MG | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19990967ARZ | REQUIP TABLET 1MG | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

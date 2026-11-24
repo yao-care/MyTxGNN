@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 454
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Levetiracetam: indikasi baharu diramal Beta-ketothiolase deficiency (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 46 (sah: 43)"
@@ -89,6 +89,22 @@ Jadual ini menyenaraikan penerbitan yang paling relevan secara umum. Ia berkaita
 | [36209676](https://pubmed.ncbi.nlm.nih.gov/36209676/) | 2022 | Kajian sistematik/meta-analisis rangkaian | Seizure | Rawatan status epileptikus yang rintang benzodiazepin |
 | [21936590](https://pubmed.ncbi.nlm.nih.gov/21936590/) | 2011 | Ulasan | CNS Drugs | Gambaran keseluruhan levetiracetam dalam epilepsi, termasuk indikasi yang diluluskan di peringkat global |
 | [12915343](https://pubmed.ncbi.nlm.nih.gov/12915343/) | 2003 | Ulasan | Epileptic Disorders | Profil keselamatan levetiracetam sebagai terapi tambahan untuk sawan separa |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07122776ACRZ | Keppra Oral Solution 100 mg/ml | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL09100256AZ | TORLEVA 500MG TABLET | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL09100259AZ | TORLEVA 1000MG TABLET | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL09102944ACRZ | Keppra Concentrate for Solution for Infusion 500 mg/5ml | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL15095023AZ | LETRAM OS (Levetiracetam Oral Solution 100mg/ml) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 46 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

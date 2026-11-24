@@ -82,6 +82,19 @@ Namun, bukti yang ada bersifat tidak langsung. Percubaan yang dikenal pasti meni
 
 Buat masa ini tiada literatur berkaitan tersedia.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07050214ARZ | Cernevit, Lyophilisate for Reconstitution | Kombinasi | BAXTER HEALTHCARE (MALAYSIA) SDN. BHD. | Sah |
+| MAL08042232XC | Pharmaton Kiddi CL Syrup | Kombinasi | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL15025043AZ | Trovite IV Injection | Kombinasi | DUOPHARMA (M) SENDIRIAN BERHAD | Sah (pendaftaran bersyarat) |
+| MAL20002289XC | BEPANTHEN FIRST AID CREAM | Kombinasi | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

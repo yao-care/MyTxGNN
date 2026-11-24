@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 313
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "EBASTINE"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
 description: "Ebastine: indikasi baharu diramal Penyakit arteri koronari (coronary artery disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -68,6 +68,17 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19096026AZ | Kestine 20mg film-coated tablets | Bahan tunggal | EURODRUG LABORATORIES (M) SDN. BHD. | Sah |
+| MAL19096029AZ | Kestine 10mg film-coated tablets | Bahan tunggal | EURODRUG LABORATORIES (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Keselamatan
 

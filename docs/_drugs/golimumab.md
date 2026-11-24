@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 392
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "GOLIMUMAB"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease"]
 description: "Golimumab: indikasi baharu diramal Hypermobility of coccyx (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -84,6 +84,17 @@ Terdapat juga isyarat keselamatan. Vaskulitis paradoks, termasuk arteritis Takay
 | [29075910](https://pubmed.ncbi.nlm.nih.gov/29075910/) | 2018 | Laporan kes | Rheumatol Int | Pioderma gangrenosum dan artritis piogenik yang menyebabkan sepsis teruk pada pesakit artritis reumatoid yang dirawat dengan golimumab. Menyebut bahawa kejadian vaskulitis reumatoid berkurang selepas pengenalan ubat anti-TNF. |
 | [23252659](https://pubmed.ncbi.nlm.nih.gov/23252659/) | 2013 | Laporan kes | Ocul Immunol Inflamm | Uveitis berkaitan penyakit Behçet berjaya dirawat dengan golimumab (guna luar label). |
 | [22999907](https://pubmed.ncbi.nlm.nih.gov/22999907/) | 2013 | Laporan kes | Joint Bone Spine | Dua kes arteritis Takayasu yang timbul semasa terapi anti-TNF, satu isyarat keselamatan yang bertentangan dengan hipotesis manfaat. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12025082ACRZ | SIMPONI SOLUTION FOR INJECTION | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL16045047AZ | SIMPONI IV 12.5mg/1ml Concentrate for Solution for Infusion | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

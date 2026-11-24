@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 546
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Omidenepag Isopropyl: indikasi baharu diramal Pankreatitis (tahap bukti L5). Indikasi asal: Hipertensi okular, glaukoma"
 monitor_inn: "OMIDENEPAG ISOPROPYL"
 predicted_indications: ["pancreatitis", "hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "blepharospasm", "familial visceral myopathy", "alcoholic cardiomyopathy"]
@@ -79,6 +79,18 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21076001ARZ | Eybelis ophthalmic solution 0.002% | Bahan tunggal | SANTEN PHARMA MALAYSIA SDN. BHD. | Sah |
+| MAL24096008ARZ | EYBELIS-S ophthalmic solution 0.002% (single-dose container) | Bahan tunggal | SANTEN PHARMA MALAYSIA SDN. BHD. | Sah |
+| MAL24096008AZ | EYBELIS-S ophthalmic solution 0.002% (single-dose container) | Bahan tunggal | SANTEN PHARMA MALAYSIA SDN. BHD. | Nombor pendaftaran lama; produk yang sama kini didaftarkan sebagai MAL24096008ARZ |
+
+<!-- licenses:end -->
 
 ---
 

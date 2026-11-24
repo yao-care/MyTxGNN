@@ -96,6 +96,22 @@ Sebagai rujukan sampingan, bagi artritis reumatoid (peringkat 3), literatur yang
 
 Tiada percubaan mesalazine untuk RA ditemui.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06061675AZ | Pentasa Sachet Prolonged Release Granules 1g | Bahan tunggal | Ferring Sdn. Bhd. | Sah |
+| MAL11040012AZ | Pentasa Sachet Prolonged Release Granules 2g | Bahan tunggal | Ferring Sdn. Bhd. | Sah |
+| MAL15045066AZ | PENTASA Prolonged Release Tablets 1 g | Bahan tunggal | Ferring Sdn. Bhd. | Sah |
+| MAL17085067ACZ | Mezavant XL 1200mg, gastro-resistant, prolonged release tablets. | Bahan tunggal | Takeda Malaysia Sdn Bhd | Sah |
+| MAL18081002ACRZ | Salofalk 500mg Gastro-resistant Prolonged Release Granules | Bahan tunggal | DCH AURIGA (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 17 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

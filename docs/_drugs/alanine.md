@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ALANINE"
 predicted_indications: ["gastroparesis (disease)"]
-last_modified_at: 2026-11-06
-description: "Alanine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 36 (sah: 32)"
+last_modified_at: 2026-11-24
+description: "Alanine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 31 (sah: 27)"
 ---
 
 # Alanine
@@ -48,8 +48,8 @@ Alanine ialah asid amino yang tersedia di pasaran Malaysia. Model TxGNN meramalk
 | Indikasi Baharu yang Diramalkan | Gastroparesis (gastroparesis (disease)) |
 | Skor Ramalan TxGNN | 0,9937 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 32 daripada 36) |
-| Bilangan Pendaftaran | 36 (sah: 32) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 27 daripada 31) |
+| Bilangan Pendaftaran | 31 (sah: 27) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -71,6 +71,22 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 | [10926110](https://pubmed.ncbi.nlm.nih.gov/10926110/) | 2000 | Ulasan | Advances in Renal Replacement Therapy | Gangguan gastrousus dan hati lazim pada penyakit buah pinggang peringkat akhir. Gastroparesis lebih kerap berlaku pada kegagalan buah pinggang kronik. Alanine tidak dikaji. |
 | [26315331](https://pubmed.ncbi.nlm.nih.gov/26315331/) | 2016 | Ulasan | Diabetic Medicine | Hepatosklerosis diabetes (fibrosis sinusoid tanpa steatosis) mungkin satu komplikasi mikrovaskular diabetes. Tiada kaitan langsung dengan gastroparesis atau alanine. |
 | [33763324](https://pubmed.ncbi.nlm.nih.gov/33763324/) | 2021 | Ulasan (laporan kes) | Cureus | Kes hepatopati glikogen pada pesakit diabetes jenis 1 yang turut mempunyai gastroparesis. Gastroparesis hanya disebut sebagai komplikasi sedia ada. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19961292ARZ | VAMINOLACT SOLUTION | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11070005ARZ | Aminoven Infant 10% w/v | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11080004ARZ | SmofKabiven Peripheral (Emulsion for Infusion) | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11090002ARZ | SmofKabiven, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11090008ARZ | SmofKabiven Electrolyte Free, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 31 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

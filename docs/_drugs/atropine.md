@@ -91,6 +91,22 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 Nota: Kebanyakan penerbitan di atas hanya berkaitan secara tidak langsung dengan atropin dan migrain. Tiada RCT ditemui.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL10080058ARZ | Atropine Sulphate-Fresenius 1mg/ml Injection | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL19890184AZ | Alcon Atropine Sulfate 1% Eye Drops | Bahan tunggal | ALCON LABORATORIES (MALAYSIA) SDN. BHD. | Sah |
+| MAL19961324AZ | Pharmaniaga Atropine Sulphate 1mg/ml Injection | Bahan tunggal | PHARMANIAGA LIFESCIENCE SDN. BHD. | Sah |
+| MAL19986995AZ | ACIPAN INJECTION 1MG/ML (1ML AMP) | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL20002428AZ | ATROPINE SULFATE/DEMO 1mg/1ml Solution for injection | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 13 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

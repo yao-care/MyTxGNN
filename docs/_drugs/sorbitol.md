@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 655
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "SORBITOL"
 predicted_indications: ["exercise-induced malignant hyperthermia"]
 description: "Sorbitol: indikasi baharu diramal Hipertermia malignan akibat senaman (exercise-induced malignant hyperthermia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
@@ -76,6 +76,18 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19911002X | SANGOBION COMPLETE CAPSULE | Kombinasi | PROCTER & GAMBLE (MALAYSIA ) SDN.BHD. | Sah (pendaftaran bersyarat) |
+| MAL19973350AZ | B. BRAUN OSMOFUNDIN 20% | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL19988268T | FOREVER ALOE VERA GEL | Kombinasi | FOREVER LIVING PRODUCTS (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

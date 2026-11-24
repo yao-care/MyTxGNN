@@ -85,6 +85,22 @@ Dua ramalan lain turut dikesan, iaitu **kekurangan separa HPRT** dan **sindrom L
 | [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Ulasan | Clinical Rheumatology | Kemas kini mengenai hipourisemia (urat serum < 2 mg/dL) untuk pakar reumatologi, merangkumi etiologi dan penyebabnya. |
 | [36754409](https://pubmed.ncbi.nlm.nih.gov/36754409/) | 2023 | Laporan kes (dikelaskan sebagai ulasan) | Internal Medicine | Pemain bola sepak Jepun berumur 16 tahun dengan hipourisemia renal familial (mutasi URAT1) mengalami EIAKI berulang; hidrasi tidak mencukupi, lalu febuxostat dicuba sebagai profilaksis. |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16075031ACRZ | Feburic 80 mg film-coated tablets | Bahan tunggal | Astellas Pharma Malaysia Sdn Bhd | Sah |
+| MAL19056004AZ | Febuton Film Coated Tablet 80mg (Febuxostat) | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL22076040AZ | Goutric 40mg Film Coated Tablets | Bahan tunggal | NOVUGEN PHARMA SDN. BHD. | Sah |
+| MAL22076041AZ | Goutric 80mg Film Coated Tablets | Bahan tunggal | NOVUGEN PHARMA SDN. BHD. | Sah |
+| MAL23046028AZ | Urilog 40 (Febuxostat Film Coated Tablets 40 mg) | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 16 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

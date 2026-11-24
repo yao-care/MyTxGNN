@@ -74,6 +74,16 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18046016ACZ | Inovelon 200 mg film-coated tablets | Bahan tunggal | EISAI (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ## Pertimbangan Keselamatan
 
 - **Penyakit yang dikaitkan dengan kontraindikasi dalam graf pengetahuan** (berdasarkan graf pengetahuan PrimeKG, bukan teks label): kegagalan hati, gangguan kebimbangan, gangguan neurotik, gangguan distimik, penyakit hati, penyakit pundi hempedu, leukopenia.

@@ -48,8 +48,8 @@ Valine ialah asid amino rantai bercabang (BCAA) yang tidak mempunyai indikasi ya
 | Indikasi Baharu yang Diramalkan | Kolangitis sklerosis (sclerosing cholangitis) |
 | Skor Ramalan TxGNN | 0.9942 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 43 daripada 49) |
-| Bilangan Pendaftaran | 49 (sah: 43) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 42 daripada 48) |
+| Bilangan Pendaftaran | 48 (sah: 42) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -87,7 +87,7 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 | MAL11090002ARZ | SmofKabiven, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
 | MAL11090008ARZ | SmofKabiven Electrolyte Free, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 49 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 48 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 318
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "eltrombopag"
 predicted_indications: ["HIV infectious disease"]
 description: "Eltrombopag: indikasi baharu diramal Jangkitan HIV (HIV infectious disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
@@ -78,6 +78,19 @@ Satu saringan in vitro (PMID 32977702) mencadangkan kemungkinan kesan terhadap t
 | [32977702](https://pubmed.ncbi.nlm.nih.gov/32977702/) | 2020 | Saringan in vitro | Viruses | Pengenalpastian modulator transkripsi provirus HIV-1 daripada pustaka ubat diluluskan FDA |
 | [28043314](https://pubmed.ncbi.nlm.nih.gov/28043314/) | 2016 | Laporan kes | JCPSP | Hepatitis B menyebabkan anemia megaloblastik dan trombositopenia teruk (tidak langsung) |
 | [24128106](https://pubmed.ncbi.nlm.nih.gov/24128106/) | 2013 | Laporan kes | Farm Hosp | Eltrombopag untuk trombositopenia pada hepatitis C kronik (tidak langsung) |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20102010ARZ | REVOLADE FILM-COATED TABLET 25MG | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL20102011ARZ | REVOLADE FILM-COATED TABLET 50MG | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL25126026AZ | ELTHROPA 25 (Eltrombopag Film Coated Tablets 25 mg) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL25126027AZ | ELTHROPA 50 (Eltrombopag Film Coated Tablets 50 mg) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

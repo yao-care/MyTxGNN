@@ -70,6 +70,20 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Pada masa ini tiada literatur berkaitan.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20001527AZ | ARAVA 20MG TABLET | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL20001528ARZ | ARAVA 10MG TABLET | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL23046034AZ | LAREYA 20 mg Film-Coated Tablet | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL24056100AZ | Lefrava 10mg Film Coated Tablet | Bahan tunggal | NOVUGEN ONCOLOGY SDN. BHD. | Sah |
+| MAL24056101AZ | Lefrava 20mg Film Coated Tablet | Bahan tunggal | NOVUGEN ONCOLOGY SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ## Pertimbangan Keselamatan
 
 - **Penyakit yang dikaitkan sebagai kontraindikasi dalam graf pengetahuan (bukan teks label produk)**: kegagalan hati, penyakit hati, penyakit buah pinggang, penyakit pundi hempedu, trombositopenia, neutropenia (termasuk pelbagai bentuk neutropenia kongenital), agranulositosis, pansitopenia, anemia (termasuk anemia makrositik), jangkitan virus hepatitis B dan C kronik, penyakit paru-paru interstisial, neuropati periferi dan penyakit sistem saraf periferi, pneumosistosis, aspergilosis, piouretar.

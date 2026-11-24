@@ -68,6 +68,16 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20081824ACRZ | EVRA TRANSDERMAL PATCH | Kombinasi | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ## Pertimbangan Keselamatan
 
 **Kontraindikasi berdasarkan graf pengetahuan (PrimeKG, bukan teks label produk):** Graf pengetahuan TxGNN mengaitkan norelgestromin dengan penyakit berikut sebagai kontraindikasi:

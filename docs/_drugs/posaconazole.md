@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 589
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "POSACONAZOLE"
 predicted_indications: ["pneumocystosis"]
 description: "Posaconazole: indikasi baharu diramal Pneumocystosis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
@@ -85,6 +85,18 @@ Hubungan antara indikasi asal dengan indikasi baharu juga masih belum dinilai se
 | [21973267](https://pubmed.ncbi.nlm.nih.gov/21973267/) | 2011 | Ulasan | Clinical Pharmacokinetics | Penembusan agen anti-infeksi, termasuk antikulat, ke dalam cecair lapisan epitelium pulmonari |
 
 Tiada daripada penerbitan ini ialah ujian terkawal rawak yang menilai posaconazole untuk pneumocystosis.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16045045ACRZ | Noxafil 100mg Modified Release Tablet | Bahan tunggal | MERCK SHARP & DOHME (MALAYSIA) SDN. BHD. | Sah |
+| MAL20091932ACRZ | NOXAFIL ORAL SUSPENSION | Bahan tunggal | MERCK SHARP & DOHME (MALAYSIA) SDN. BHD. | Sah |
+| MAL23036027AZ | POSACONAZOLE DR. REDDY'S (Posaconazole 100 mg Modified Release tablets) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

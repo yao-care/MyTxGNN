@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ALPELISIB"
 predicted_indications: ["pulmonary hypertension"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alpelisib: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
@@ -75,6 +75,18 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 | PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
 | [35730191](https://pubmed.ncbi.nlm.nih.gov/35730191/) | 2023 | Laporan kes | Journal of Oncology Pharmacy Practice | Penyakit paru-paru interstisial yang disebabkan oleh alpelisib pada pesakit kanser payudara lanjutan; tidak mengkaji hipertensi pulmonari |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20076006ARZ | Trezilent 50mg Film-Coated Tablets | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL20076007ARZ | Trezilent 150mg Film-Coated Tablets | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL20076008ARZ | Trezilent 200mg Film-Coated Tablets | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

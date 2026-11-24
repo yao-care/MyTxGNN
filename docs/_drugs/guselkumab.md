@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 397
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Guselkumab"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "renal osteodystrophy", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
 description: "Guselkumab: indikasi baharu diramal Drug-induced osteoporosis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -100,6 +100,17 @@ Huraian di atas berdasarkan literatur yang disenaraikan dalam laporan ini. Menur
 | [42117726](https://pubmed.ncbi.nlm.nih.gov/42117726/) | 2026 | Garis panduan | J Gastroenterol Hepatol | Garis panduan APAGE: perencat IL-23 p19 dan molekul kecil dalam UC/Crohn |
 | [37069321](https://pubmed.ncbi.nlm.nih.gov/37069321/) | 2023 | Ulasan | Nat Rev Gastroenterol Hepatol | Perencatan laluan IL-12/IL-23 dalam IBD |
 | [41397905](https://pubmed.ncbi.nlm.nih.gov/41397905/) | 2026 | Laporan kes | J Crohns Colitis | Penambahbaikan ketara pada UC refraktori yang tidak bertindak balas terhadap mirikizumab |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19096009AZ | TREMFYA 100MG/ML SOLUTION FOR INJECTION | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL21116003AZ | Tremfya One-Press 100mg/ml Solution for Injection | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

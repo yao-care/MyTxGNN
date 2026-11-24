@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-24
 monitor_inn: "LANSOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
-description: "Lansoprazole: indikasi baharu diramal Duodenal obstruction (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
+description: "Lansoprazole: indikasi baharu diramal Duodenal obstruction (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
 # Lansoprazole
@@ -52,8 +52,8 @@ tetapi setakat ini terdapat **0 percubaan klinikal** dan hanya **1 penerbitan** 
 | Indikasi Baharu yang Diramalkan | Duodenal obstruction |
 | Skor Ramalan TxGNN | 0.9968 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
-| Bilangan Pendaftaran | 6 (sah: 6) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---
@@ -79,6 +79,19 @@ Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan.
 | PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
 | [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | Ulasan | European Journal of Clinical Pharmacology | Kemas kini penggunaan klinikal dan farmakokinetik PPI; PPI ialah pilihan pertama untuk ulser peptik, jangkitan *H. pylori*, GERD, lesi GI akibat NSAID dan sindrom Zollinger-Ellison. Tidak membincangkan refluks duodenogastrik secara khusus. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL08042459ARZ | Prevacid FDT 15mg Tablets | Bahan tunggal | Takeda Malaysia Sdn Bhd | Sah |
+| MAL08042460ARZ | Prevacid FDT 30mg Tablets | Bahan tunggal | Takeda Malaysia Sdn Bhd | Sah |
+| MAL10033131AZ | LANPRO (Lansoprazole Gastro-Resistant Capsules 30 mg) | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL20172853AEZ | Lanxid-OD Capsule 30mg | Bahan tunggal | HOVID BERHAD | Sah |
+
+<!-- licenses:end -->
 
 ---
 

@@ -98,6 +98,22 @@ Selain migrain, bukti berikut ditemui untuk penunjuk berkaitan sakit kepala (bag
 
 Ramalan lain (migrain dengan aura batang otak, atrofoderma vermikulata, ulerythema ophryogenesis, hipertensi pulmonari, hiperplasia prostat benigna, penyakit jantung kifoskoliotik) hanya berasaskan ramalan model (L5) tanpa bukti sokongan. Bagi hipertensi pulmonari, satu-satunya laporan ialah kes hiperkalemia dan disfungsi buah pinggang akibat etorikoksib, iaitu isu keselamatan dan bukan manfaat terapeutik.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12065063ACRZ | ARCOXIA 30MG TABLET | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+| MAL12065065ACRZ | ARCOXIA 90MG TABLET | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+| MAL12065082ACRZ | ARCOXIA 60MG TABLET | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+| MAL12065084ACRZ | ARCOXIA 120MG TABLET | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+| MAL15045074AZ | Axcel Etoricoxib-120mg Tablet | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 81 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

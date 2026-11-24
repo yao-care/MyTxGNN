@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 506
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 monitor_inn: "MILRINONE"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "headache disorder", "migraine disorder", "migraine with brainstem aura", "trigeminal autonomic cephalalgia", "acute pulmonary heart disease"]
 description: "Milrinone: indikasi baharu diramal Alopesia (alopecia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -77,6 +77,17 @@ Setakat ini tiada percubaan klinikal berkaitan didaftarkan.
 ## Bukti Literatur
 
 Setakat ini tiada literatur berkaitan.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20041171ACZ | PRIMACOR INJECTION 1MG/ML | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL26086160AZ | Milrinone Lunan 1 mg/ml Solution for Injection | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

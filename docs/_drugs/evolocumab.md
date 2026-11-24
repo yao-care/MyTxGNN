@@ -94,6 +94,17 @@ Semua penunjuk di bawah berada pada Tahap Bukti L5 (tiada ujian, tiada penerbita
 | 5 | Hemofilia A dengan kelainan vaskular | 0.9922 | Tiada hubungan munasabah. Puncanya kekurangan faktor VIII, tidak berkait dengan PCSK9/LDLR. |
 | 6 | Penyakit aktiviti pemangkin | 0.9908 | Kategori ontologi yang terlalu luas dan bukan indikasi klinikal yang jelas, maka tidak boleh dinilai atau diambil tindakan. |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL17065004AZ | Repatha Solution for Injection in Pre-filled Syringe 140mg/mL (evolocumab) | Bahan tunggal | Amgen Biopharmaceuticals Malaysia Sdn Bhd | Sah |
+| MAL17065005AZ | Repatha Solution for Injection in Pre-filled Autoinjector 140mg/mL (evolocumab) | Bahan tunggal | Amgen Biopharmaceuticals Malaysia Sdn Bhd | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

@@ -107,6 +107,16 @@ Namun, ia lebih merupakan lanjutan daripada indikasi ovari/peritoneum asal, buka
 | Item Pemantauan | Kiraan darah lengkap (CBC), fungsi hati dan buah pinggang |
 | Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga dalam risalah maklumat pakej |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL25036003ACRZ | Zejula Film-Coated Tablet 100mg | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

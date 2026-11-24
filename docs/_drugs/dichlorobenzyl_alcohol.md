@@ -82,6 +82,22 @@ Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Nota: Penerbitan ini hanya menyebut terbitan struktur kimia yang berlainan (klenbuterol, bronkodilator beta2) dan tidak boleh dianggap sebagai bukti untuk ubat yang dinilai.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18056089X | THROATSIL LOZENGES (MENTHOL FLAVOUR) | Kombinasi | HNB ALLIANCE SDN. BHD. | Sah |
+| MAL18056090X | THROATSIL LOZENGES (PRUNE FLAVOUR) | Kombinasi | HNB ALLIANCE SDN. BHD. | Sah |
+| MAL18056091X | THROATSIL LOZENGES (WILD BERRIES FLAVOUR) | Kombinasi | HNB ALLIANCE SDN. BHD. | Sah |
+| MAL19991375AZ | Strepsils Max Plus Lozenge | Kombinasi | RB (HEALTH) MALAYSIA SDN BHD | Sah |
+| MAL24076027X | Mybacin Mint Lozenges | Kombinasi | ELDON HEALTHCARE SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keputusan dan Langkah Seterusnya

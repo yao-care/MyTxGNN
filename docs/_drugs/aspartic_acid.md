@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ASPARTIC ACID"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Aspartic Acid: indikasi baharu diramal Asidosis tiub renal (renal tubular acidosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 23 (sah: 19)"
 ---
 
@@ -70,6 +70,22 @@ Buat masa ini tiada percubaan klinikal berkaitan didaftarkan.
 | [6422151](https://pubmed.ncbi.nlm.nih.gov/6422151/) | 1983 | Laporan kes | Journal of inherited metabolic disease | Bayi dengan kekurangan piruvat karboksilase, asidosis tiub renal proksimal dan sistinuria; diet ditambah asid aspartik, asparagin dan glutamat dilaporkan disertai perkembangan yang lebih baik (kes tunggal, bukan bukti keberkesanan) |
 | [20068363](https://pubmed.ncbi.nlm.nih.gov/20068363/) | 2010 | Siri kes/genetik | Nephron. Physiology | Ciri klinikal dan asas genetik (mutasi gen SLC4A1) asidosis tiub renal distal pada kanak-kanak Filipina |
 | [14301365](https://pubmed.ncbi.nlm.nih.gov/14301365/) | 1965 | Kajian fisiologi asas | The American Journal of Physiology | Hubungan antara pNH3 sel tiub dengan penghasilan ammonia oleh buah pinggang |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19961292ARZ | VAMINOLACT SOLUTION | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL13055054AZ | Aminoplasmal B. Braun 10%E Solution for Intravenous Infusion | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL16085019AZ | PERIOLIMEL N4E, emulsion for infusion | Kombinasi | BAXTER HEALTHCARE (MALAYSIA) SDN. BHD. | Sah |
+| MAL16085022AZ | OLIMEL N9E, emulsion for infusion | Kombinasi | BAXTER HEALTHCARE (MALAYSIA) SDN. BHD. | Sah |
+| MAL19920375AZ | AMINOPLASMAL HEPA 10%-500ML GLASS BOTTLE | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 23 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

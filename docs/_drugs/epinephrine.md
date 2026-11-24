@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 327
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "EPINEPHRINE"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
-description: "Epinephrine: indikasi baharu diramal Penyakit paru-paru obstruktif (obstructive lung disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
+description: "Epinephrine: indikasi baharu diramal Penyakit paru-paru obstruktif (obstructive lung disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 11 (sah: 11)"
 ---
 
 # Epinephrine
@@ -52,8 +52,8 @@ dengan **15 percubaan klinikal** dan **20 penerbitan** yang disenaraikan dalam d
 | Indikasi Baharu yang Diramalkan | Penyakit paru-paru obstruktif (obstructive lung disease) |
 | Skor Ramalan TxGNN | 0.9971 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
-| Bilangan Pendaftaran | 15 (sah: 15) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
+| Bilangan Pendaftaran | 11 (sah: 11) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
 ---
@@ -103,6 +103,22 @@ Hubungan mekanisme di atas bergantung pada farmakologi yang mantap, bukan pada m
 ## Kesan Sitotoksik
 
 Bahagian ini tidak berkenaan kerana epinephrine bukan ubat antineoplastik.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06051338ACRZ | EpiPen Jr (Epinephrine) Auto-Injector 0.15mg | Bahan tunggal | MYLAN HEALTHCARE SDN. BHD. | Sah |
+| MAL06051339ACRZ | EpiPen (Epinephrine) Auto-Injector 0.3mg | Bahan tunggal | MYLAN HEALTHCARE SDN. BHD. | Sah |
+| MAL11110008AZ | Tacarline Injection 1mg/ ml | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL19961326AZ | PHARMANIAGA ADRENALINE 1MG/ML INJECTION (1ML GLASS AMPOULE) | Bahan tunggal | PHARMANIAGA LIFESCIENCE SDN. BHD. | Sah |
+| MAL11060007AZ | Xilonibsa 2% Solution for injection | Kombinasi | Ar Dental Supplies Sdn Bhd | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 11 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

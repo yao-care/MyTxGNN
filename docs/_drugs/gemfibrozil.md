@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 383
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Gemfibrozil: indikasi baharu diramal Rheumatoid arthritis (tahap bukti L4). Indikasi asal: Dislipidemia / hipertrigliseridemia"
 monitor_inn: "Gemfibrozil"
 predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
@@ -80,6 +80,22 @@ Setakat ini tiada ujian klinikal berkaitan yang didaftarkan untuk gemfibrozil da
 | [41207105](https://pubmed.ncbi.nlm.nih.gov/41207105/) | 2026 | Praklinikal (model haiwan) | International Immunopharmacology | Bezafibrat (agonis pan-PPAR, bukan gemfibrozil) mengurangkan RA eksperimen melalui modulasi laluan keradangan bergantung PPAR, terutamanya aktiviti PPAR-γ |
 | [20083653](https://pubmed.ncbi.nlm.nih.gov/20083653/) | 2010 | Praklinikal (mekanistik) | Journal of Immunology | Kajian mekanisme sel T regulatori, Foxp3 dan nitrik oksida dalam autoimuniti; hubungan tidak langsung |
 | [18039017](https://pubmed.ncbi.nlm.nih.gov/18039017/) | 2007 | Ulasan / nota klinikal | American Journal of Clinical Dermatology | Ulasan eritema palmar; relevansi rendah |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19076009AE | BROZIL Film Coated Tablet 600mg | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL19900461AZ | IPOLIPID CAPSULES 300MG | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL19940371AZ | BROZIL CAPSULE 300MG | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL19950150AZ | LOWIN CAPSULE | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL19972153AZ | PHARMANIAGA GEMFIBROZIL CAPSULE 300MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

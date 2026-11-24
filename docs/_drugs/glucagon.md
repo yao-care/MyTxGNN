@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 388
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "GLUCAGON"
 predicted_indications: ["irritable bowel syndrome"]
 description: "Glucagon: indikasi baharu diramal Sindrom usus besar yang meradang (irritable bowel syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -83,6 +83,16 @@ Tiada penerbitan di bawah menguji glukagon dalam IBS; kebanyakannya berkaitan GL
 | [26765585](https://pubmed.ncbi.nlm.nih.gov/26765585/) | 2016 | Ulasan | Expert Opin Investig Drugs | Ubat penyelidikan baharu untuk IBS jenis sembelit |
 | [30023410](https://pubmed.ncbi.nlm.nih.gov/30023410/) | 2018 | Ulasan | Cell Mol Gastroenterol Hepatol | Interaksi dua hala paksi otak-usus-mikrobiom |
 | [41974246](https://pubmed.ncbi.nlm.nih.gov/41974246/) | 2026 | Ulasan | Clin Gastroenterol Hepatol | Jurang penjagaan klinikal IBS dan terapeutik masa depan berasaskan modulasi aferen visera |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19870419AZ | GLUCAGEN 1MG INJECTION | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

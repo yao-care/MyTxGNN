@@ -58,8 +58,8 @@ tetapi pada masa ini terdapat **0 percubaan klinikal** dan **0 penerbitan** yang
 | Indikasi Baharu yang Diramalkan | Gastroparesis |
 | Skor Ramalan TxGNN | 0.9932 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 43 daripada 49) |
-| Bilangan Pendaftaran | 49 (sah: 43) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 42 daripada 48) |
+| Bilangan Pendaftaran | 48 (sah: 42) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -83,6 +83,22 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09072751X | GNC MEN"S MEGA MEN ACTIVE TABLET | Kombinasi | GNC LIVEWELL MALAYSIA SDN. BHD. | Sah |
+| MAL11070005ARZ | Aminoven Infant 10% w/v | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11080004ARZ | SmofKabiven Peripheral (Emulsion for Infusion) | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11090002ARZ | SmofKabiven, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11090008ARZ | SmofKabiven Electrolyte Free, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 48 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

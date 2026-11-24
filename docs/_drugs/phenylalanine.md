@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-24
 monitor_inn: "PHENYLALANINE"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
-description: "Phenylalanine: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 38 (sah: 34)"
+description: "Phenylalanine: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 37 (sah: 33)"
 ---
 
 # Phenylalanine
@@ -51,8 +51,8 @@ tetapi setakat ini terdapat **0 ujian klinikal** dan hanya **3 penerbitan** yang
 | Indikasi Baharu yang Diramalkan | Kolangitis sklerosis (sclerosing cholangitis) |
 | Skor Ramalan TxGNN | 0.9943 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 34 daripada 38) |
-| Bilangan Pendaftaran | 38 (sah: 34) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 33 daripada 37) |
+| Bilangan Pendaftaran | 37 (sah: 33) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -95,7 +95,7 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 | MAL11090002ARZ | SmofKabiven, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
 | MAL11090008ARZ | SmofKabiven Electrolyte Free, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 38 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 37 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

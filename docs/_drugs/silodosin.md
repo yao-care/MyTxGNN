@@ -91,6 +91,17 @@ Pada masa ini tiada literatur berkaitan.
 | 5 | Kelainan batang rambut genetik terpencil | 0.9998 | L5 | Hold |
 | 6 | Trikomegali familial terpencil | 0.9923 | L5 | Hold |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL17117022ARZ | Urief Film-Coated Tablets 4mg | Bahan tunggal | EISAI (MALAYSIA) SDN. BHD. | Sah |
+| MAL26096023AZ | Urotex 4 mg Film-coated Tablet | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

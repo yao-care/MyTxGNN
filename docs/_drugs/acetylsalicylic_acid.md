@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "ACETYLSALICYLIC ACID"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombophilia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acetylsalicylic Acid: indikasi baharu diramal Atrofoderma vermikulata (atrophoderma vermiculata) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 23 (sah: 21)"
 ---
 
@@ -65,6 +65,22 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11010034XZ | Hovid Aceprin-150 Tablet | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL13115223XZ | MILLISPIRIN Acetyl Salicylic Acid Soluble Tablets 300 mg (Aspirin) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL18066046XZ | WINSPIRIN Acetylsalicylic Acid Dispersible Tablet 300mg | Bahan tunggal | KCK PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL19930010XZ | Three Legs Medicinal Powder Aspirin 600mg/Sachet | Bahan tunggal | SYARIKAT WEN KEN DRUG SDN. BHD. | Sah |
+| MAL19940207XCZ | TRIOPRIN 300MG TABLET | Bahan tunggal | ZONTRON PHARMACEUTICALS SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 23 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 707
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TUROCTOCOG ALFA"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "flood factor deficiency", "thrombotic thrombocytopenic purpura", "hereditary thrombocytosis with transverse limb defect"]
-description: "Turoctocog Alfa: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of platelets) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
+description: "Turoctocog Alfa: indikasi baharu diramal Gangguan pelepasan primer platelet (primary release disorder of platelets) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
 # Turoctocog Alfa
@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Gangguan pelepasan primer platelet (primary release disorder of platelets) |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
-| Bilangan Pendaftaran | 7 (sah: 7) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
+| Bilangan Pendaftaran | 3 (sah: 3) |
 | Keputusan yang Disyorkan | Hold (Tangguh) |
 
 ---
@@ -95,6 +95,18 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16085029AZ | NovoEight 500IU Powder and Solvent for Solution for Injection | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL16085030AZ | NovoEight 1000IU Powder and Solvent for Solution for Injection | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL16085031AZ | NovoEight® 250IU Powder and Solvent for Solution for Injection | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+
+<!-- licenses:end -->
 
 ---
 

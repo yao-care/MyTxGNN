@@ -103,6 +103,22 @@ Sebagai rujukan, literatur untuk indikasi kedudukan 4 (otitis externa) adalah se
 | [14055264](https://pubmed.ncbi.nlm.nih.gov/14055264/) | 1963 | Ulasan/panduan amalan (sejarah) | Maryland State Med J | Panduan rawatan praktikal untuk otitis externa |
 | [14048629](https://pubmed.ncbi.nlm.nih.gov/14048629/) | 1963 | Laporan klinikal sejarah (produk gabungan, bukan Inggeris) | Z Laryngol Rhinol Otol | Rawatan setempat proses telinga berkeradangan dan berrembesan dengan Nebacetin |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13010003HA | HINABACI PREMIX GRANULAR | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL14110178HA | TIANJIN XINXING ZINC BACITRACIN 15% W/W GRANULAR | Bahan tunggal | Gladron Chemicals Sdn Bhd | Sah |
+| MAL14110179HA | TIANJIN XINXING ZINC BACITRACIN 15% W/W POWDER | Bahan tunggal | Gladron Chemicals Sdn Bhd | Sah |
+| MAL14120172HA | LSP BRAND BACITRACIN ZINC 15% W/W GRANULAR | Bahan tunggal | Lim Seng Pharmachem Sdn Bhd | Sah |
+| MAL15045089HAC | GENBAC-500 | Bahan tunggal | Noripharma Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 25 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

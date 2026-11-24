@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "CALCIUM LACTATE GLUCONATE"
 predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Calcium Lactate Gluconate: indikasi baharu diramal Sindrom kalsium-alkali (calcium-alkali syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
@@ -67,6 +67,22 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL08010766X | Agile | Kombinasi | HOVID BERHAD | Sah |
+| MAL10110044X | CALXIBON + D | Kombinasi | HOVID BERHAD | Sah |
+| MAL12095026N | Sante Effervescent Tablet | Kombinasi | THE ZYFAS MEDICAL CO., | Sah |
+| MAL13115226X | Calcium Vitamin D3 STELLA Effervescent tablet | Kombinasi | STADPHARM SDN. BHD. | Sah |
+| MAL16095024N | VITASEN Cal-600 plus Vitamin A, D & C Effervescent Granules (Orange flavour) | Kombinasi | WINWA MEDICAL SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

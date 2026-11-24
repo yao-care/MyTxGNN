@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 332
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "Ergometrine"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "nephrogenic syndrome of inappropriate antidiuresis", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "migraine disorder", "migraine with brainstem aura", "leprosy", "pulmonary hypertension"]
-description: "Ergometrine: indikasi baharu diramal Hipertrikosis (hypertrichosis (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
+description: "Ergometrine: indikasi baharu diramal Hipertrikosis (hypertrichosis (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Ergometrine
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **hipertrikosis** dengan skor s
 | Indikasi Baharu yang Diramalkan | Hipertrikosis (hypertrichosis (disease)) |
 | Skor Ramalan TxGNN | 0.9996 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
-| Bilangan Pendaftaran | 2 (sah: 2) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -102,6 +102,16 @@ Tiada literatur berkaitan bagi ramalan utama (hipertrikosis). Literatur tidak la
 | [10971665](https://pubmed.ncbi.nlm.nih.gov/10971665/) | 2000 | Laporan kes | Headache | Angiopati serebrum pascapartum pada pesakit migrain kronik dengan aura; isyarat keselamatan, bukan bukti manfaat |
 | [20509463](https://pubmed.ncbi.nlm.nih.gov/20509463/) | 2009 | Ulasan (sejarah) | J R Coll Physicians Edinb | Sejarah ergot rai (1900–1940); tiada bukti keberkesanan |
 | [3214444](https://pubmed.ncbi.nlm.nih.gov/3214444/) | 1988 | Praklinikal (haiwan) | Arzneimittel-Forschung | Kesan nilvadipin pada sistem kardiovaskular; tidak berkaitan dengan ergometrin |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16015060ACZ | Syntometrine Injection 5IU/1ML Ampoule | Kombinasi | RIGEL PHARMA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

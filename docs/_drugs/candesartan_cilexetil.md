@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CANDESARTAN CILEXETIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Candesartan Cilexetil: indikasi baharu diramal Penyakit renal hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 13 (sah: 13)"
 ---
 
@@ -75,6 +75,22 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18066041AZ | Candesartan Sandoz 16mg Tablet | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+| MAL18066045AZ | Candesartan Sandoz 8mg Tablet | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+| MAL19126015AZ | FINIL 16mg Tablet | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL20001218ACRZ | ATACAND TABLET 8MG | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL20001219ACRZ | ATACAND TABLET 16MG | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 13 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

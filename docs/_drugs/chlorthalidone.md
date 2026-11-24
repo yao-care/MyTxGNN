@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CHLORTHALIDONE"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlorthalidone: indikasi baharu diramal Glaukoma keturunan primer (primary hereditary glaucoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
@@ -65,6 +65,18 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06091411AZ | Apo-Atenidone Tablets 100/25 mg | Kombinasi | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL19900182AZ | PRETENOL C 50 TABLET | Kombinasi | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL19900183AZ | PRETENOL C 100 TABLET | Kombinasi | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

@@ -70,6 +70,16 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 Pada masa ini tiada literatur berkaitan.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19860850ARZ | PK-MERZ TABLET 100MG | Bahan tunggal | SUMMIT COMPANY (MALAYSIA) SENDIRIAN BERHAD | Sah |
+
+<!-- licenses:end -->
+
 ## Pertimbangan Keselamatan
 
 - **Penyakit/keadaan yang dikaitkan dengan kontraindikasi (berdasarkan graf pengetahuan, bukan teks label):** sindrom atrofi sistem berbilang, sindrom takikardia ortostatik postural, hipotensi ortostatik, epilepsi, penyakit buah pinggang, pyoureter, kegagalan jantung kongestif, gangguan psikotik, gangguan skizofreniform, gangguan mental, gangguan skizoafektif, melanoma, glaukoma sudut tertutup, gangguan berkaitan bahan, penyalahgunaan/kebergantungan bahan, ekzema atopik, dermatitis.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CAPTOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Captopril: indikasi baharu diramal Penyakit buah pinggang hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
@@ -67,6 +67,22 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
 | [28902735](https://pubmed.ncbi.nlm.nih.gov/28902735/) | 2017 | Laporan kes (diagnostik) | Clinical Nuclear Medicine | Renografi captopril yang positif bukan disebabkan stenosis arteri renal, tetapi karsinoma sel renal kromofob yang besar. Hipertensi bergantung renin reda selepas nefrektomi. Laporan ini tidak memberi bukti terapeutik untuk penyakit yang diramalkan. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL08061553AZ | Miniten 25mg Tablet | Bahan tunggal | MEDIDATA SDN. BHD. | Sah |
+| MAL09102953AZ | Taguar Tablet 25 mg | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL09102954AZ | Taguar Tablets 12.5 mg | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL14095062AZ | Pharmaniaga Captopril Tablet 25mg | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL19985963AZ | APUZIN TABLET | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

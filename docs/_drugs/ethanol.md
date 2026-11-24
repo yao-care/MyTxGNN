@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-24
 monitor_inn: "ETHANOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-description: "Ethanol: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 10 (sah: 9)"
+description: "Ethanol: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 6)"
 ---
 
 # Ethanol
@@ -51,8 +51,8 @@ tetapi kini terdapat **0 percubaan klinikal** dan **20 penerbitan** yang tidak s
 | Indikasi Baharu yang Diramal | Gangguan migrain (migraine disorder) |
 | Skor Ramalan TxGNN | 0.9929 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 9 daripada 10) |
-| Bilangan Pendaftaran | 10 (sah: 9) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 6) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -106,10 +106,10 @@ Tiada satu pun kajian di bawah menilai etanol sebagai rawatan migrain. Penerbita
 | MAL20016153X | <p>Deb InstantFOAM® Complete Hand Sanitizer 80% w/w</p> | Bahan tunggal | SC JOHNSON PROFESSIONAL SDN. BHD. | Sah (pendaftaran bersyarat) |
 | MAL06041426XC | Softa-Man Cutaneous Solution | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
 | MAL09011527XCS | Septi-Sol Solution | Kombinasi | STERILINE SDN. BHD. | Sah |
-| MAL19912380XZ | PINETARSOL SOLUTION | Kombinasi | EGO PHARM MALAYSIA SDN. BHD. | Sah |
-| MAL20031761ARZ | VOLUVEN 6% (FREEFLEX WITH OVERWRAP) | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL22076009X | Unimed`s ChlorSept 0.5% with Ethanol 77% Antiseptic Solution with Emollient | Kombinasi | KCK PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL24046048XZ | Saniscrub E (Chlorhexidine Gluconate 0.5% + Ethanol 70% Solution) | Kombinasi | PERNIAGAAN NORMAHAS SDN. BHD. | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 10 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

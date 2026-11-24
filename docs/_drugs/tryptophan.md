@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 706
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 monitor_inn: "TRYPTOPHAN"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
 description: "Tryptophan: indikasi baharu diramal Sindrom kaki gelisah (restless legs syndrome) (tahap bukti L3). Di Malaysia, pendaftaran NPRA: 32 (sah: 28)"
@@ -83,6 +83,22 @@ Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 | [33836477](https://pubmed.ncbi.nlm.nih.gov/33836477/) | 2021 | Kajian sistematik dan meta-analisis | Sleep Med Rev | Sindrom kaki gelisah dalam penyakit hati kronik (tidak langsung; triptofan dan dopamin disebut sebagai faktor) |
 | [36897462](https://pubmed.ncbi.nlm.nih.gov/36897462/) | 2023 | Siri kes | Neurol Sci | Sindrom kaki gelisah dalam kekurangan DNAJC12 (laluan monoamina/biopterin; tidak langsung) |
 | [32546134](https://pubmed.ncbi.nlm.nih.gov/32546134/) | 2020 | Kajian farmakovigilans | BMC Psychiatry | Antidepresan dan gangguan pergerakan; tidak langsung, mencadangkan kemungkinan bahaya |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11070005ARZ | Aminoven Infant 10% w/v | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11080004ARZ | SmofKabiven Peripheral (Emulsion for Infusion) | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11090002ARZ | SmofKabiven, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11090008ARZ | SmofKabiven Electrolyte Free, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL13055054AZ | Aminoplasmal B. Braun 10%E Solution for Intravenous Infusion | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 32 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

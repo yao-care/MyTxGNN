@@ -82,6 +82,16 @@ Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 | [10481449](https://pubmed.ncbi.nlm.nih.gov/10481449/) | 1999 | Ulasan | Nihon Hansenbyo Gakkai Zasshi | Clarithromycin dan roxithromycin mempunyai kesan anti-radang, imunomodulasi dan aktiviti anti-*M. leprae* |
 | [12762831](https://pubmed.ncbi.nlm.nih.gov/12762831/) | 2003 | Ulasan | Am J Clin Dermatol | Panduan pemilihan dan penggunaan makrolid yang sesuai dalam jangkitan kulit |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20000279AZ | ROXY TABLET 150MG | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah (pendaftaran bersyarat) |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

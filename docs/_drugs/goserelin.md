@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 393
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "goserelin"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
 description: "Goserelin: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -92,6 +92,17 @@ Dua ramalan lain (hipoplasia renal dan hipoplasia renal bilateral, skor 0.9906) 
 | [12353820](https://pubmed.ncbi.nlm.nih.gov/12353820/) | 2002 | Kajian | Breast Cancer Res Treat | Gambaran keseluruhan agonis LHRH dalam kanser payudara awal dan ablasi ovari boleh balik |
 | [12734855](https://pubmed.ncbi.nlm.nih.gov/12734855/) | 2003 | Kajian | Br J Surg | Kaedah ablasi ovari dalam rawatan adjuvan kanser payudara |
 | [16889194](https://pubmed.ncbi.nlm.nih.gov/16889194/) | 2006 | Kajian prospektif | Akush Ginekol | Zoladex (goserelin 3.6 mg setiap 28 hari selama 6 bulan) pada 112 pesakit endometriosis genital |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19900144AZ | ZOLADEX DEPOT | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+| MAL19990595AZ | ZOLADEX LA 10.8 MG | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

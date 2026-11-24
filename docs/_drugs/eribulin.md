@@ -88,6 +88,17 @@ Buat masa ini tiada literatur berkaitan.
 | Item Pemantauan | Hitung darah lengkap (CBC) dengan pembezaan, fungsi hati dan buah pinggang, elektrolit (terutamanya kalium dan magnesium), EKG untuk selang QT, penilaian neuropati periferi |
 | Perlindungan Pengendalian | Perlu mengikut garis panduan pengendalian ubat sitotoksik |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20066006ACRZ | HALAVEN 0.5 mg/ml solution for injection | Bahan tunggal | EISAI (MALAYSIA) SDN. BHD. | Sah |
+| MAL26026015AZ | EBUNAT Eribulin Mesylate Solution for Injection 0.5 mg/ml | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

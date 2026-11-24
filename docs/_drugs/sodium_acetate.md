@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 649
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 monitor_inn: "SODIUM ACETATE"
 predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "gonococcal urethritis", "Ureaplasma urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
 description: "Sodium Acetate: indikasi baharu diramal Kekurangan protrombin kongenital (congenital prothrombin deficiency) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 25 (sah: 21)"
@@ -78,6 +78,22 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi yang diramalkan ini.
 
 Nota: Bagi ramalan lain (dispepsia dan gastroparesis), beberapa kertas telah ditemui, tetapi kebanyakannya menggunakan natrium asetat berlabel ¹³C hanya sebagai substrat ujian nafas untuk mengukur pengosongan gastrik. Ini ialah kegunaan diagnostik, bukan bukti terapeutik.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07125184AZ | Sterofundin ISO | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL11080004ARZ | SmofKabiven Peripheral (Emulsion for Infusion) | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11090002ARZ | SmofKabiven, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL13055054AZ | Aminoplasmal B. Braun 10%E Solution for Intravenous Infusion | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL14015021ASZ | Sterofundin ISO Solution for infusion | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 25 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

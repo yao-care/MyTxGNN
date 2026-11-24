@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 434
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Isosorbide mononitrate"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "alopecia", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pulmonary arterial hypertension"]
 description: "Isosorbide Mononitrate: indikasi baharu diramal Hipertrikosis (hypertrichosis (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -90,6 +90,16 @@ Sebagai rujukan, dua penerbitan tidak langsung ditemui untuk ramalan PAH:
 |------|-----|------|------|---------|
 | [16422873](https://pubmed.ncbi.nlm.nih.gov/16422873/) | 2005 | Kajian hemodinamik klinikal | The Journal of Sexual Medicine | Kesan hemodinamik sildenafil dan isosorbide mononitrate pada lelaki dengan penyakit arteri koronari dan disfungsi erektil (bukan populasi PAH) |
 | [29705351](https://pubmed.ncbi.nlm.nih.gov/29705351/) | 2018 | Kajian praklinikal haiwan | Life Sciences | Rangsangan sGC peka NO pada tikus hipertensi pulmonari akibat monocrotaline (mekanistik, bukan ubat ini sendiri) |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07061363AZ | VASOTRATE - 60 OD SUSTAINED RELEASE TABLET 60 MG | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

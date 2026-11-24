@@ -109,6 +109,22 @@ Untuk rujukan, berikut ialah ringkasan 9 ramalan seterusnya dalam senarai terata
 
 Sila rujuk sisipan pakej untuk maklumat amaran dan kontraindikasi yang rasmi, kerana data label NPRA belum tersedia.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19086008ACRZ | Iressa 250mg Film-coated Tablet | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+| MAL20106007ACZ | GEFITINIB intega (Gefitinib 250mg Film-Coated Tablets) | Bahan tunggal | Intega Sdn. Bhd. | Sah |
+| MAL21046031ACZ | Hovid Gefitinib Tablets 250mg | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL21096005AZ | Gefticip 250 (Gefitinib Tablets 250 mg) | Bahan tunggal | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL22036014AZ | Trexa Tablet 250mg | Bahan tunggal | DUOPHARMA HAPI SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 10 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Kesimpulan dan Langkah Seterusnya

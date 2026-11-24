@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 358
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "fimasartan"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease"]
 description: "Fimasartan: indikasi baharu diramal Pulmonary hypertension owing to lung disease and/or hypoxia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -79,6 +79,17 @@ Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
 | [23642815](https://pubmed.ncbi.nlm.nih.gov/23642815/) | 2013 | Praklinikal (haiwan) | International Journal of Cardiology | Mengkaji kesan perlindungan jantung fimasartan terhadap kecederaan iskemia/reperfusi miokardium dan mekanisme pengurangan kerosakan mitokondria. Tidak berkaitan secara langsung dengan hipertensi pulmonari. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18026063ARZ | Kanarb Film-Coated Tablets 60mg | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL18026065ARZ | Kanarb Film-Coated Tablets 120mg | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

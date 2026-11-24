@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 489
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MEFENAMIC ACID"
 predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
 description: "Mefenamic Acid: indikasi baharu diramal Gangguan sakit kepala (headache disorder) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 37 (sah: 37)"
@@ -86,6 +86,22 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 | [8749241](https://pubmed.ncbi.nlm.nih.gov/8749241/) | 1995 | Ulasan | Cephalalgia | Analgesik dan NSAID dalam rawatan serangan migrain akut |
 | [1495823](https://pubmed.ncbi.nlm.nih.gov/1495823/) | 1992 | Ulasan | Pathol Biol | Kajian terkawal NSAID, termasuk asid mefenamik, untuk migrain |
 | [29095288](https://pubmed.ncbi.nlm.nih.gov/29095288/) | 2017 | Siri kes (keselamatan) | Medicine | Enteropati teruk dengan atrofi vilus pada pengguna asid mefenamik jangka panjang |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06111302ACZ | Triopon Suspension 125.0mg/5ml | Bahan tunggal | ZONTRON PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL18046168AE | MEDICAP CAPSULE 250MG | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+| MAL19860139AZ | ZEET CAPSULE 250MG | Bahan tunggal | INSPIRAPHARMA SDN. BHD. | Sah |
+| MAL19861035AZ | MEFA SUSPENSION 50MG/5ML | Bahan tunggal | ROYCE PHARMA MANUFACTURING SDN. BHD. | Sah |
+| MAL19861036AZ | FENAGESIC SUSPENSION 125MG/5ML | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 37 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 682
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
 description: "Ticagrelor: indikasi baharu diramal Arteriosklerosis intrakranial (intracranial arteriosclerosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 16 (sah: 16)"
@@ -83,6 +83,22 @@ Bukti masih tidak langsung. Percubaan Fasa 3 yang paling relevan (CAPTIVA) memba
 |------|-----|------|------|---------|
 | [39658130](https://pubmed.ncbi.nlm.nih.gov/39658130/) | 2025 | Kohort | Journal of NeuroInterventional Surgery | Pengalaman menggunakan ticagrelor 60 mg dua kali sehari dengan aspirin 81 mg berbanding rejimen aspirin dan klopidogrel piawai untuk pemasangan stent intrakranial. |
 | [39862061](https://pubmed.ncbi.nlm.nih.gov/39862061/) | 2025 | Kertas reka bentuk percubaan | International Journal of Stroke | Reka bentuk dan kemajuan awal percubaan CAPTIVA, yang menguji sama ada kombinasi antitrombotik dual lain lebih unggul daripada klopidogrel dan aspirin dalam ICAS bergejala. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18046135AZ | Brilinta 60 mg Film-Coated Tablet | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+| MAL20112115ARZ | BRILINTA 90MG FILM-COATED TABLET | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+| MAL21096010AZ | Trixevas 90mg FC Tablet | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL24046031AZ | RECLOVAC 90 (Ticagrelor Film-Coated Tablets 90 mg) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL24046032AZ | RECLOVAC 60 (Ticagrelor Film-coated Tablets 60 mg) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 16 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

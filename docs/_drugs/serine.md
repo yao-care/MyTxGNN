@@ -52,8 +52,8 @@ Ramalan ini hanya berasaskan model, tanpa bukti sebenar.
 | Indikasi Baharu yang Diramalkan | Miopati visera familial (familial visceral myopathy) |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 51 daripada 55) |
-| Bilangan Pendaftaran | 55 (sah: 51) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 28 daripada 32) |
+| Bilangan Pendaftaran | 32 (sah: 28) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -88,6 +88,22 @@ Untuk indikasi lain yang diramalkan, literatur yang dikesan **bukan bukti bahawa
 - **Glaukoma sudut tertutup** (5 penerbitan): berkaitan gen PRSS56, iaitu protease serine, dengan glaukoma sudut tertutup dan nanoftalmos. Ini ialah perkaitan gen-penyakit, bukan kesan terapeutik asid amino serine.
 
 Oleh sebab itu, tiada penerbitan ini disenaraikan sebagai bukti sokongan.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06091379AZ | Coxerin ( Cycloserine Capsules USP 250mg) | Bahan tunggal | ZULAT PHARMACY SDN. BHD. | Sah |
+| MAL11070005ARZ | Aminoven Infant 10% w/v | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11080004ARZ | SmofKabiven Peripheral (Emulsion for Infusion) | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11090002ARZ | SmofKabiven, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11090008ARZ | SmofKabiven Electrolyte Free, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 32 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

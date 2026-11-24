@@ -90,6 +90,17 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Buat masa ini tiada literatur berkaitan yang tersedia.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20102082ACRZ | Elonva (solution for injection 100mcg/0.5ml) | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+| MAL20102083ACRZ | Elonva (solution for injection 150mcg/0.5ml) | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keputusan dan Langkah Seterusnya

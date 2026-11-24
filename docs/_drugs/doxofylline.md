@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 306
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 monitor_inn: "DOXOFYLLINE"
 predicted_indications: ["Pierre Robin syndrome associated with a chromosomal anomaly", "Laubry-Pezzi syndrome", "Jeune syndrome situs inversus", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 22", "heart disease", "pulmonary valve disease"]
 description: "Doxofylline: indikasi baharu diramal Pierre Robin syndrome associated with a chromosomal anomaly (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -98,6 +98,16 @@ Tiada literatur berkaitan secara langsung dengan Sindrom Pierre Robin yang berka
 | [11268710](https://pubmed.ncbi.nlm.nih.gov/11268710/) | 2001 | Kajian semula | Curr Med Res Opin | Doxofylline ialah xantina generasi baharu tanpa kesan buruk kardiovaskular utama |
 | [2781149](https://pubmed.ncbi.nlm.nih.gov/2781149/) | 1989 | Praklinikal (haiwan) | Res Commun Chem Pathol Pharmacol | Doxofylline tidak menyekat adenosin dan tidak mendorong kesan perangsang jantung |
 | [1630668](https://pubmed.ncbi.nlm.nih.gov/1630668/) | 1992 | Kajian klinikal | Minerva Cardioangiol | Menilai kesan proaritmia doxofylline dan aminofilin pada pesakit COPD dengan gangguan irama jantung |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21066005ACZ | Puroxan (Doxofylline 400mg) Tablet | Bahan tunggal | EURODRUG LABORATORIES (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 254
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Daptomycin"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
 description: "Daptomycin: indikasi baharu diramal Osteoartritis (osteoarthritis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 3)"
@@ -91,6 +91,19 @@ Bagi osteoartritis, semua rujukan di bawah menumpukan pada jangkitan, bukan rawa
 | [21477701](https://pubmed.ncbi.nlm.nih.gov/21477701/) | 2010 | Kohort | Medicina Clinica | Pengalaman daptomycin di Sepanyol daripada pangkalan data EU-CORE |
 | [32206362](https://pubmed.ncbi.nlm.nih.gov/32206362/) | 2020 | Laporan kes | Case Reports in Orthopedics | Artritis septik *Corynebacterium striatum* kronik pada pesakit yang dirujuk untuk penggantian lutut |
 | [41853106](https://pubmed.ncbi.nlm.nih.gov/41853106/) | 2026 | Laporan kes | ASM Case Reports | Artritis septik akibat *Corynebacterium propinquum* |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21106033AZ | BEDAPT 500mg (Daptomycin for Injection 500mg per vial) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL22106012AZ | DAPTOCORD-500 (Daptomycin powder for solution for infusion 500mg/vial) | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL25026027AZ | HP-Daptomycin Powder for solution for infusion 500mg | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL19116032ACRZ | CUBICIN (DAPTOMYCIN FOR INJECTION) 500MG VIAL | Bahan tunggal | MERCK SHARP & DOHME (MALAYSIA) SDN. BHD. | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |
+
+<!-- licenses:end -->
 
 ---
 

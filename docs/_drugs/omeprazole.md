@@ -50,8 +50,8 @@ Setakat ini terdapat **1 ujian klinikal** (relevansi rendah) dan **5 penerbitan*
 | Indikasi Baharu yang Diramalkan | Sekatan duodenum |
 | Skor Ramalan TxGNN | 0.9964 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 46 daripada 46) |
-| Bilangan Pendaftaran | 46 (sah: 46) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 22 daripada 22) |
+| Bilangan Pendaftaran | 22 (sah: 22) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -92,13 +92,13 @@ Teks indikasi yang diluluskan tidak tersedia dalam rekod pendaftaran. Di bawah i
 
 | No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
 |------|------|------|------|------|
-| MAL20020239ARZ | NEXIUM MUPS TABLET 40MG | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
 | MAL19992065ACRZ | LOSEC MUPS 20MG TABLET | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
 | MAL18056152AZ | Promesec Capsule 20mg | Bahan tunggal | Duopharma Marketing Sdn. Bhd. | Sah |
 | MAL09011422AZ | Gastrazole ( Omeprazole for Injection 40 mg/vial) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
 | MAL05041936AZ | Omesec Capsule 20mg | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL09122031AZ | Probitor 20mg Capsules | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 46 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 22 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

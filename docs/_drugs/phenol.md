@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 569
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "PHENOL"
 predicted_indications: ["acrodermatitis chronica atrophicans", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "dry eye syndrome"]
-description: "Phenol: indikasi baharu diramal Acrodermatitis chronica atrophicans (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 30 (sah: 30)"
+description: "Phenol: indikasi baharu diramal Acrodermatitis chronica atrophicans (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
 # Phenol
@@ -52,8 +52,8 @@ tetapi setakat ini **tiada percubaan klinikal** dan **tiada kajian literatur** y
 | Indikasi Baharu yang Diramalkan | Acrodermatitis chronica atrophicans |
 | Skor Ramalan TxGNN | 0.9995 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 30 daripada 30) |
-| Bilangan Pendaftaran | 30 (sah: 30) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -101,6 +101,19 @@ Satu-satunya literatur yang secara langsung melibatkan fenol ialah untuk acne ke
 | [17204096](https://pubmed.ncbi.nlm.nih.gov/17204096/) | 2007 | Kajian klinikal (kemungkinan tidak terkawal) | The Journal of Dermatology | Menilai keberkesanan kupasan fenol terubah suai (Exoderm) pada kedutan muka, parut jerawat dan masalah kulit lain pada pesakit Asia; formula ini dilaporkan mengurangkan kesan sampingan seperti aritmia, eritema berpanjangan, hipopigmentasi serta parut hipertrofik dan keloid |
 
 Bukti ini bersifat tidak langsung kerana ia merujuk kepada parut jerawat, bukan acne keloid, dan lesi keloid yang radang mungkin bertambah teruk selepas kupasan dalam.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18046132X | NW CALAMINE CREAM WITH PHENOL | Kombinasi | NATURAL WELLNESS INDUSTRIES SDN. BHD. (MILIK PENUH NUTRIVENTION SDN. B… | Sah |
+| MAL19911148XZ | HOVID CALAMINE LOTION WITH MENTHOL | Kombinasi | HOVID BERHAD | Sah |
+| MAL19911149XZ | HOVID CALAMINE LOTION | Kombinasi | HOVID BERHAD | Sah |
+| MAL19913162XR | EGOPSORYL TA GEL | Kombinasi | EGO PHARM MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 710
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "upadacitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
 description: "Upadacitinib: indikasi baharu diramal Sindrom displasia rizomelik-mikroftalmia kolobomatus (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodka…"
@@ -61,6 +61,18 @@ Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan o
 Sindrom yang diramalkan ialah sindrom perkembangan yang sangat jarang berlaku (koloboma okular, mikroftalmia, displasia rizomelik rangka). Sindrom sebegini biasanya didorong oleh kecacatan perkembangan atau genetik, bukan keradangan yang dimediasi JAK-STAT. Tiada hubungan laluan yang didokumenkan antara upadacitinib dengan penyakit ini.
 
 Skor TxGNN yang sangat tinggi (0.9961) hanyalah ramalan model. Kebolehpercayaan biologinya rendah dan belum disahkan.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20106001ARZ | RINVOQ 15mg Extended Release Film Coated Tablets | Bahan tunggal | ABBVIE SDN BHD | Sah |
+| MAL23086004ARZ | RINVOQ 30 mg extended-release film coated tablets | Bahan tunggal | ABBVIE SDN BHD | Sah |
+| MAL24126009ARZ | RINVOQ 45 mg extended-release film coated tablets | Bahan tunggal | ABBVIE SDN BHD | Sah |
+
+<!-- licenses:end -->
 
 ## Keputusan Kesimpulan dan Langkah Seterusnya
 

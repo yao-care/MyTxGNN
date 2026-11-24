@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ADENOSINE"
 predicted_indications: ["obsolete bundle branch block"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adenosine: indikasi baharu diramal Blok berkas cabang usang (obsolete bundle branch block) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -67,6 +67,17 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL15105032AZ | MYODEEN Adenosine Injection USP 3mg/ml | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL16065048AZ | ADENORYTHM SOLUTION FOR INJECTION 3mg/mL | Bahan tunggal | MMS PHARMA (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

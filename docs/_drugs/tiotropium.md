@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 684
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TIOTROPIUM"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
 description: "Tiotropium: indikasi baharu diramal Malformasi pernafasan (respiratory malformation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
@@ -84,6 +84,18 @@ Ketiga-tiga percubaan dinilai sebagai berkaitan sangat rendah dengan malformasi 
 | [40850565](https://pubmed.ncbi.nlm.nih.gov/40850565/) | 2025 | Pra-klinikal | Chem Biol Interact | Mekanisme gangguan pernafasan pada tikus yang terdedah kepada agen saraf organofosforus; berkaitan isyarat kolinergik, bukan malformasi pernafasan |
 
 Tiga penerbitan lain yang dipadankan membincangkan keadaan paru-paru yang lain dan tidak mengkaji malformasi pernafasan, maka tidak disenaraikan.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20091850AZ | SPIRIVA RESPIMAT 2.5 MICROGRAM, SOLUTION FOR INHALATION | Bahan tunggal | BOEHRINGER INGELHEIM (MALAYSIA) SDN. BHD. | Sah |
+| MAL25016003ASZ | Spiriva Respimat 2.5 microgram, Solution for Inhalation | Bahan tunggal | BOEHRINGER INGELHEIM (MALAYSIA) SDN. BHD. | Sah |
+| MAL17075001AZ | Spiolto Respimat Inhalation Solution 2.5mcg/2.5mcg per actuation | Kombinasi | BOEHRINGER INGELHEIM (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

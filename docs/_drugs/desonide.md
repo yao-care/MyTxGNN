@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Desonide"
 predicted_indications: ["polyp of vocal cord", "polyp of middle ear", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "polyp of vulva", "fibroepithelial polyp", "neoplastic polyp", "epulis", "uterine polyp"]
 last_modified_at: 2026-11-24
-description: "Desonide: indikasi baharu diramal Polyp of vocal cord (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 35 (sah: 35)"
+description: "Desonide: indikasi baharu diramal Polyp of vocal cord (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Desonide
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **polip pita suara**, tetapi ki
 | Indikasi Baharu yang Diramalkan | Polyp of vocal cord |
 | Skor Ramalan TxGNN | 0.9991 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 35 daripada 35) |
-| Bilangan Pendaftaran | 35 (sah: 35) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -81,21 +81,21 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran di Malaysia
 
-Rekod pendaftaran tempatan menunjukkan 35 pendaftaran yang sah. Teks indikasi diluluskan dan bentuk dos tidak dinyatakan dalam data yang dikumpulkan. Banyak nama produk dalam senarai ini menunjukkan bahan aktif lain (contohnya produk berjenama budesonide), jadi padanan dengan desonide perlu disahkan semula sebelum digunakan. Hanya rekod komponen tunggal disenaraikan di bawah.
+Rekod pendaftaran tempatan menunjukkan 1 pendaftaran yang sah. Teks indikasi diluluskan dan bentuk dos tidak dinyatakan dalam data yang dikumpulkan. Hanya rekod komponen tunggal disenaraikan di bawah.
 
 <!-- licenses:begin -->
 
 | No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
 |------|------|------|------|------|
 | MAL10070557AZ | Ezenide Lotion 0.05% w/w | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
-| MAL16065020AZ | Besonin Aqua Nasal Spray 64mcg/dose | Bahan tunggal | RIGEL PHARMA SDN. BHD. | Sah |
-| MAL11100013ACZ | Ventacort Nasal Spray 64 mcg/actuation | Bahan tunggal | HOVID BERHAD | Sah |
-| MAL07081527AZ | Budesma Pressurised Inhalation BP 200mcg | Bahan tunggal | BioCare Pharmaceutical (M) Sdn. Bhd. | Sah |
-| MAL22116026AZ | Budeten Inhaler 200mcg | Bahan tunggal | TENANG PHARMA SDN. BHD. | Sah |
-
-Jadual di atas menyenaraikan 5 daripada 35 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124c-desonide-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Banyak nama produk dalam senarai ini menunjukkan bahan aktif lain (contohnya produk berjenama budesonide), jadi padanan dengan desonide perlu disahkan semula sebelum digunakan." Dipadam: pendaftaran budesonide (nama "budesonide" mengandungi rentetan "desonide") dan RESICALM (bahan aktif risperidone; medan generic_name NPRA tersilap mencatat semburan hidung budesonide) tidak lagi dikira sebagai pendaftaran desonide. Pendaftaran yang tinggal mengandungi desonide. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124c-desonide-1 -->
 
 ---
 
@@ -123,11 +123,12 @@ Ramalan ini berada pada tahap bukti L5, iaitu ramalan model sahaja tanpa ujian k
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: desonide prescribing information, Cintex Services, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6192416-09b4-47fa-e053-2a95a90add96) |
+| 2026-11-24 | Dipadam: "Banyak nama produk dalam senarai ini menunjukkan bahan aktif lain (contohnya produk berjenama budesonide), jadi padanan dengan desonide perlu disahkan semula sebelum digunakan." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

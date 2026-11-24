@@ -90,6 +90,22 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Nota: ini ialah ulasan naratif dan bukan ujian terkawal, jadi kekuatan buktinya rendah.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07091084X | Beecolin Expectorant Syrup | Bahan tunggal | WINWA MEDICAL SDN. BHD. | Sah |
+| MAL07122841X | Homecare Guafensin Syrup 20mg/ml | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL19911401XC | WOODS PEPPERMINT COUGH SYRUP | Bahan tunggal | KALBE MALAYSIA SDN BHD | Sah |
+| MAL19911403XC | WOODS PEPPERMINT COUGH SYRUP FOR CHILDREN | Bahan tunggal | KALBE MALAYSIA SDN BHD | Sah |
+| MAL19912072X | GUAISIN SYRUP | Bahan tunggal | PRIME PHARMACEUTICAL SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 23 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

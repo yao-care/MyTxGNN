@@ -78,6 +78,22 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13055054AZ | Aminoplasmal B. Braun 10%E Solution for Intravenous Infusion | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL20031947AZ | NUTRIFLEX LIPID PLUS | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL23126020AZ | Nutriflex Omega Special Novo Emulsion for Infusion | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL24116026AZ | Nutriflex Lipid Peri Novo Emulsion for Infusion | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL24116027AZ | Nutriflex Omega Peri Novo Emulsion for Infusion | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan dan Pertimbangan

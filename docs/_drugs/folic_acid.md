@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Folic Acid"
 predicted_indications: ["biotin metabolic disease"]
 last_modified_at: 2026-11-24
-description: "Folic Acid: indikasi baharu diramal Biotin metabolic disease (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 540 (sah: 527)"
+description: "Folic Acid: indikasi baharu diramal Biotin metabolic disease (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 530 (sah: 519)"
 ---
 
 # Folic Acid
@@ -48,8 +48,8 @@ Asid folik ialah vitamin B yang digunakan untuk merawat kekurangan vitamin dan b
 | Indikasi Baharu yang Diramalkan | Biotin metabolic disease |
 | Skor Ramalan TxGNN | 0.9949 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 527 daripada 540) |
-| Bilangan Pendaftaran | 540 (sah: 527) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 519 daripada 530) |
+| Bilangan Pendaftaran | 530 (sah: 519) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -82,7 +82,7 @@ Teks indikasi yang diluluskan dan bentuk dosej tidak tersedia dalam rekod. Senar
 | MAL19912697XZ | Duafolic 5mg Tablet | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
 | MAL19911152XZ | hovid-Folic Acid Tablet 5mg | Bahan tunggal | HOVID BERHAD | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 540 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 530 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 292
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DIMENHYDRINATE"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
 description: "Dimenhydrinate: indikasi baharu diramal Urtikaria alergik (allergic urticaria) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
@@ -81,6 +81,22 @@ Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan.
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
 | [30779257](https://pubmed.ncbi.nlm.nih.gov/30779257/) | 2019 | Kajian farmakokinetik (anjing sihat) | Veterinary Dermatology | Kajian perintis yang membandingkan farmakokinetik diphenhydramine selepas pemberian diphenhydramine secara oral/intravena dengan dimenhydrinate secara oral, serta kesan farmakodinamik terhadap pembentukan wheal akibat histamin. Dimenhydrinate dilaporkan memberi penyerapan oral diphenhydramine yang lebih baik. Ini bukan data keberkesanan pada manusia. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05051076AZ | Driminate Suppository 50mg | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL19860106AZ | HYDRINATE TABLET 50MG | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL19870316AZ | SW Dimenhydrinate Syrup 15mg/5ml | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19870317AZ | Hydrinate Syrup 15mg/5ml | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL19870318AZ | NOVOMIN SYRUP 15MG/5ML | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

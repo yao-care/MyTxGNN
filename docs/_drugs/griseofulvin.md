@@ -86,6 +86,22 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19860837AZ | Royce Griseofulvin Tablet 125mg | Bahan tunggal | ROYCE PHARMA MANUFACTURING SDN. BHD. | Sah |
+| MAL19860841AZ | MEDOFULVIN TABLET 125MG | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL19860847AZ | KRISOVIN TABLET 500MG | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL19860848AZ | MEDOFULVIN 500 TABLET | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL19890222ACZ | FULVICIDE TABLET 500MG | Bahan tunggal | ZONTRON PHARMACEUTICALS SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

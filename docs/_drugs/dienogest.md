@@ -88,6 +88,22 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Tiada satu pun daripada kajian ini menguji dienogest sebagai rawatan amenorea.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12105068ARZ | VISANNE 2MG TABLET | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
+| MAL24026033AZ | DIENOLOG DIENOGEST TABLETS 2MG | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL24086029ACZ | Evafact (Dienogest Tablets 2mg) | Bahan tunggal | BSV BIOSCIENCE MALAYSIA SDN. BHD. | Sah |
+| MAL24116022ACZ | Endosafe Tablets 2 mg | Bahan tunggal | LOTUS HEALTHCARE MALAYSIA SDN. BHD. | Sah |
+| MAL25116010AZ | METRINELLE 2mg Tablet | Bahan tunggal | EURODRUG LABORATORIES (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

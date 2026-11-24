@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 326
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ENZALUTAMIDE"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
 description: "Enzalutamide: indikasi baharu diramal Prostate leiomyoma (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
@@ -86,6 +86,20 @@ Pada masa ini tiada literatur berkaitan.
 | Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
 | Perkara Pemantauan | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
 | Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16045039ACRZ | Xtandi 40mg Soft Capsules | Bahan tunggal | Astellas Pharma Malaysia Sdn Bhd | Sah |
+| MAL22096035AZ | Lanzotred soft capsules (Enzalutamide Soft capsules 40 mg) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL25036132ACRZ | Xtandi 40 mg Film-Coated Tablets | Bahan tunggal | Astellas Pharma Malaysia Sdn Bhd | Sah |
+| MAL25036133ACRZ | Xtandi 80 mg Film-Coated Tablets | Bahan tunggal | Astellas Pharma Malaysia Sdn Bhd | Sah |
+| MAL26106042AZ | ENZACORD-40 (Enzalutamide Soft Capsules 40mg) | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

@@ -90,6 +90,19 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk sindrom cauda equina
 | 5 | Sindrom mata kering | 0.9958 | L5 | Hanya bukti tidak langsung: [PMID 27813150](https://pubmed.ncbi.nlm.nih.gov/27813150/) (2017, *Gerodontology*) mengkaji semburan natrium (bi)karbonat bersama kebersihan mulut pada pesakit sindrom Sjögren, iaitu kesan pada mulut, bukan mata. Reka bentuk kajian belum disahkan. |
 | 6 | Takikardia ventrikel | 0.9918 | L5 | Tiada bukti; natrium bikarbonat digunakan dalam keracunan penyekat saluran natrium tertentu, tetapi itu sebatian dan konteks yang berbeza. |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05041881XR | ENO FRUIT SALT GINGER | Kombinasi | Haleon Malaysia Sdn. Bhd. | Sah |
+| MAL19962144XR | ENO FRUIT SALT | Kombinasi | Haleon Malaysia Sdn. Bhd. | Sah |
+| MAL19962147XR | ENO FRUIT SALT LEMON | Kombinasi | Haleon Malaysia Sdn. Bhd. | Sah |
+| MAL20020542XR | ENO FRUIT SALT ORANGE | Kombinasi | Haleon Malaysia Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

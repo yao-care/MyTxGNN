@@ -75,6 +75,16 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk angina Prinzmetal.
 
 Nota: Literatur yang ditemui bagi indikasi ramalan lain (contohnya artritis reumatoid, hemoglobinopati, trombofilia dan hipertiroidisme) hanya menunjukkan fluorescein digunakan sebagai alat diagnostik, dan bukan bukti terapeutik.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11110017AZ | Fluorescite Injection 10% | Bahan tunggal | ALCON LABORATORIES (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ## Pertimbangan Keselamatan
 
 Sila rujuk risalah pek (package insert) untuk maklumat keselamatan.

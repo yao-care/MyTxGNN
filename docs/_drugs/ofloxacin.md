@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Ofloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
 last_modified_at: 2026-11-24
-description: "Ofloxacin: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 148 (sah: 143)"
+description: "Ofloxacin: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 15 (sah: 14)"
 ---
 
 # Ofloxacin
@@ -52,8 +52,8 @@ Namun, **tiada ujian klinikal** dan **tiada penerbitan** yang mengkaji penyakit 
 | Indikasi Baharu yang Diramalkan | Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) |
 | Skor Ramalan TxGNN | 0.9991 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 143 daripada 148) |
-| Bilangan Pendaftaran | 148 (sah: 143) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 15) |
+| Bilangan Pendaftaran | 15 (sah: 14) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ---
@@ -82,7 +82,7 @@ Buat masa ini tiada literatur yang berkaitan.
 
 ## Maklumat Pasaran di Malaysia
 
-Senarai di bawah ialah lima pendaftaran produk berasaskan ofloxacin (berdasarkan nama produk) daripada data yang dikumpulkan. Teks indikasi yang diluluskan tidak tersedia dalam rekod ini. Senarai penuh pendaftaran juga mengandungi produk fluoroquinolone lain dan produk veterinar, jadi jumlah 148 tidak bermaksud semuanya produk ofloxacin untuk manusia.
+Senarai di bawah ialah lima pendaftaran produk berasaskan ofloxacin (berdasarkan nama produk) daripada data yang dikumpulkan. Teks indikasi yang diluluskan tidak tersedia dalam rekod ini.
 
 <!-- licenses:begin -->
 
@@ -94,9 +94,15 @@ Senarai di bawah ialah lima pendaftaran produk berasaskan ofloxacin (berdasarkan
 | MAL17107038ACREZ | hovid Ofloxacin Eye Drops 0.3% w/v | Bahan tunggal | HOVID BERHAD | Sah |
 | MAL20040909ARZ | TARIVID OPHTHALMIC SOLUTION | Bahan tunggal | SANTEN PHARMA MALAYSIA SDN. BHD. | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |
 
-Jadual di atas menyenaraikan 5 daripada 148 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
+
+<!-- review:begin my-lic-20261124c-ofloxacin-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Senarai penuh pendaftaran juga mengandungi produk fluoroquinolone lain dan produk veterinar, jadi jumlah 148 tidak bermaksud semuanya produk ofloxacin untuk manusia." Dipadam: pendaftaran fluoroquinolone lain (ciprofloxacin, levofloxacin, enrofloxacin, marbofloxacin, danofloxacin; nama mengandungi rentetan "ofloxacin"), termasuk produk veterinar, tidak lagi dikira sebagai pendaftaran ofloxacin. Pendaftaran yang tinggal mengandungi ofloxacin. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124c-ofloxacin-1 -->
 
 ---
 
@@ -130,11 +136,12 @@ Amaran utama dan kontraindikasi daripada sisipan pek tidak tersedia. Sila rujuk 
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de) |
+| 2026-11-24 | Dipadam: "Senarai penuh pendaftaran juga mengandungi produk fluoroquinolone lain dan produk veterinar, jadi jumlah 148 tidak bermaksud semuanya produk ofloxacin untuk manusia." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

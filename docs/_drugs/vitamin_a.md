@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Vitamin A"
 predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "disease by subcellular system affected", "radiation or chemically induced disorder"]
 last_modified_at: 2026-11-24
-description: "Vitamin A: indikasi baharu diramal Congenital prothrombin deficiency (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 177 (sah: 166)"
+description: "Vitamin A: indikasi baharu diramal Congenital prothrombin deficiency (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 176 (sah: 166)"
 ---
 
 # Vitamin A
@@ -50,8 +50,8 @@ Vitamin A ialah mikronutrien larut lemak yang dalam data Malaysia dijumpai terut
 | Indikasi Baharu Diramalkan | Congenital prothrombin deficiency |
 | Skor Ramalan TxGNN | 0.9997 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 166 daripada 177) |
-| Bilangan Pendaftaran | 177 (sah: 166) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 166 daripada 176) |
+| Bilangan Pendaftaran | 176 (sah: 166) |
 | Bilangan Kelulusan | Sekurang-kurangnya 166 pendaftaran produk (kesemuanya produk gabungan; tiada produk bahan tunggal) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
@@ -102,13 +102,13 @@ Data yang dikumpulkan menunjukkan sekurang-kurangnya 166 pendaftaran sah, **kese
 
 | No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
 |------|------|------|------|------|
-| MAL20013143X | SOLARAY SUPA NUTRIENTS | Kombinasi | PATHLAB HEALTHCARE (MALAYSIA) SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
 | MAL06051375X | NUTRILITE DOUBLE X MULTIVITAMIN, TABLET | Kombinasi | AMWAY (MALAYSIA) SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
 | MAL20013602X | APPETON WITH TAURINE SYRUP | Kombinasi | KOTRA PHARMA (M) SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
 | MAL11090021X | Supradyn Film Coated Tablet | Kombinasi | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
 | MAL20020375ARZ | VITALIPID N ADULT, 10ML GLASS AMPOULE | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL04103342X | GNC Vitamin A & D | Kombinasi | GNC LIVEWELL MALAYSIA SDN. BHD. | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 177 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 176 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

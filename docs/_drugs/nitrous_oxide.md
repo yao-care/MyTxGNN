@@ -87,6 +87,20 @@ Oleh itu, sebarang kaitan antara indikasi asal dan indikasi baharu ini hanyalah 
 
 Bahagian ini tidak berkenaan kerana nitrous oxide bukan ubat antineoplastik.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24076004X | Linde Medicinal Nitrous Oxide 100% V/V | Bahan tunggal | Linde Malaysia Sdn. Bhd. | Sah (pendaftaran bersyarat) |
+| MAL26016027XR | Leeden Medicinal Nitrous Oxide 100%v/v | Bahan tunggal | Leeden Gases Sdn Bhd | Sah (pendaftaran bersyarat) |
+| MAL24076005X | ENTONOX Medicinal Gas Mixture | Kombinasi | Linde Malaysia Sdn. Bhd. | Sah (pendaftaran bersyarat) |
+| MAL25106027X | Leeden Nitrous Oxide/ Oxygen Mixture (50:50% v/v) | Kombinasi | Leeden Gases Sdn Bhd | Sah (pendaftaran bersyarat) |
+| MAL25106028X | Mega Mount Nitrous Oxide/ Oxygen Mixture (50:50% v/v) | Kombinasi | MEGA MOUNT INDUSTRIAL GASES SDN. BHD. | Sah (pendaftaran bersyarat) |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

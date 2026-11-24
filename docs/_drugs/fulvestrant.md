@@ -86,6 +86,22 @@ Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
 | [42430506](https://pubmed.ncbi.nlm.nih.gov/42430506/) | 2026 | Kajian prasiklinikal/in vitro | JCI Insight | Menilai kesan estrogen dan agen pembalik latensi HIV terhadap translokasi nuklear ERα dalam sel T CD4+, termasuk penggunaan fulvestrant sebagai antagonis ER |
 | [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | Analisis cross-omics berbilang kohort | Research Square | Mengenai myelopati berkaitan HTLV-1 (virus berbeza, bukan HIV); kurang relevan secara langsung |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19036007AZ | Eranfu Fulvestrant solution for Injection,250 mg/5 mL | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL20071717ARZ | FASLODEX SOLUTION FOR INJECTION 250MG/5 ML | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+| MAL22066011ACZ | Fulstravid Solution for Injection in Pre-filled Syringe 250mg/5mL | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL24046030AZ | FEMCORD (Fulvestrant Solution for injection in pre-filled syringe 250 mg/5 mL) | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL24106020ACRZ | Fulvestrant Fresenius Kabi 250mg/5ml solution for injection in pre-filled syringe | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 11 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

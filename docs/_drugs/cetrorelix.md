@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CETRORELIX"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "persistent fetal circulation syndrome", "familial isolated trichomegaly", "familial male-limited precocious puberty", "aromatase excess syndrome", "centra precocious puberty 1"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cetrorelix: indikasi baharu diramal Hipertrikosis (hypertrichosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
@@ -74,6 +74,18 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16115035ACSZ | Cetrotide 0.25 mg powder and solvent for solution for injection | Bahan tunggal | MERCK SDN. BHD. | Sah |
+| MAL20021353AZ | Cetrotide 0.25 mg powder and solvent for solution for injection | Bahan tunggal | MERCK SDN. BHD. | Sah |
+| MAL22076039AZ | Asporelix 0.25 (Cetrorelix 0.25mg Powder and Solvent for Solution for Injection) | Bahan tunggal | BSV BIOSCIENCE MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

@@ -94,6 +94,22 @@ Dermatitis atopik terutamanya didorong oleh Th2, tetapi lesi kronik turut meliba
 | [34213742](https://pubmed.ncbi.nlm.nih.gov/34213742/) | 2021 | Ulasan | BioDrugs | Agen biologik sasaran baharu untuk dermatitis atopik |
 | [32172523](https://pubmed.ncbi.nlm.nih.gov/32172523/) | 2020 | Ulasan | Clin Drug Investig | Terapi dermatitis atopik yang gagal dalam ujian klinikal dan pengajarannya |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19106010AZ | STELARA 130mg/26mL Concentrate for Solution for Infusion | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL20112139AZ | STELARA 45MG/0.5ML SOLUTION FOR INJECTION IN PREFILLED SYRINGE | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL20112140AZ | STELARA 90MG/1ML SOLUTION FOR INJECTION IN PREFILLED SYRINGE | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL22036010AZ | STELARA 45mg/0.5mL Solution for Injection in Single-use Vial | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL26016017AZ | Yesintek 45mg/0.5ml Solution For Injection In Pre-filled Syringe | Bahan tunggal | BIOCON SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 13 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

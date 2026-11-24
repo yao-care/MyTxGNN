@@ -76,6 +76,20 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 Pada masa ini tiada literatur berkaitan.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20051390AZ | FORTEO 250 UG SOLUTION FOR INJECTION | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL22126016AZ | SONDELBAY (Teriparatide) 20 micrograms/ 80 microliters solution for injection in pre-filled pen | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL23106007ACZ | MEGAPTH-G Teriparatide 20 micrograms / 80 microliters solution for injection | Bahan tunggal | MEGA LIFESCIENCES SDN. BHD. | Sah |
+| MAL24096023AZ | KAULIV 20 micrograms/80 microliters solution for injection | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL25116001AZ | Terisun 250mcg/ml Solution for Injection, 2.4ml Pre-Filled Pen | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

@@ -93,6 +93,22 @@ Beberapa kajian Fasa II menggabungkan oxaliplatin dengan gemcitabine, raltitrexe
 | [12601280](https://pubmed.ncbi.nlm.nih.gov/12601280/) | 2003 | Ulasan | Curr Opin Oncol | Kemoterapi mesotelioma; kombinasi platinum-pemetrexed memberi kadar respons sehingga 45% |
 | [31455014](https://pubmed.ncbi.nlm.nih.gov/31455014/) | 2019 | Praklinikal/Ulasan | Int J Mol Sci | Kesan kemoterapi (termasuk oxaliplatin) terhadap ekspresi pusat pemeriksaan imun |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09042379AZ | Eloxatin 5mg/ml, concentrate for solution for infusion | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL11070003ARZ | Oxitan Injection (5mg/ml) | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL16045062AZ | OXAPLIN 5MG/ML CONCENTRATE SOLUTION FOR INFUSION | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL18026192ACZ | hovid Oxaliplatin 100mg Powder for Concentrate for Solution for Infusion | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL18026193ACZ | hovid Oxaliplatin 50mg Powder for Concentrate for Solution for Infusion | Bahan tunggal | HOVID BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 9 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

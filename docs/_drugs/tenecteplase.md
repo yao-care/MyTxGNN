@@ -79,6 +79,17 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk infarksi miokardium 
 
 Sebagai rujukan, bagi ramalan lain, literatur tidak langsung ada ditemui, contohnya kajian kebolehlaksanaan tenecteplase intrakoronari semasa PCI primer (ICE T-TIMI 49, [31870492](https://pubmed.ncbi.nlm.nih.gov/31870492/), 2020, 40 pesakit) dan kajian CAPITAL AMI ([16053952](https://pubmed.ncbi.nlm.nih.gov/16053952/), 2005). Ini tidak menyokong secara langsung subjenis posterolateral.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20021358AZ | METALYSE 10,000 UNITS INJECTION | Bahan tunggal | BOEHRINGER INGELHEIM (MALAYSIA) SDN. BHD. | Sah |
+| MAL25126015AZ | METALYSE, 5,000 units powder for solution for injection | Bahan tunggal | BOEHRINGER INGELHEIM (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

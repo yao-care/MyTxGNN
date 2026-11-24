@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 560
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PEGFILGRASTIM"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
 description: "Pegfilgrastim: indikasi baharu diramal Retinopati diabetik bukan proliferatif teruk (severe nonproliferative diabetic retinopathy) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data tempata"
@@ -78,6 +78,19 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20071654AZ | NEULASTIM PRE- FILLED SYRINGES 6 MG/0.6ML | Bahan tunggal | Amgen Biopharmaceuticals Malaysia Sdn Bhd | Sah |
+| MAL20076003AZ | Pelgraz 6 mg solution for injection in a pre-filled syringe | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL20116004AZ | Filpegla 6 mg / 0.6 mL Solution for Injection in Pre-filled Syringe | Bahan tunggal | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL21016005AZ | Fulphila 6 mg/ 0.6 mL Solution for Injection | Bahan tunggal | BIOCON SDN BHD | Sah |
+
+<!-- licenses:end -->
 
 ---
 

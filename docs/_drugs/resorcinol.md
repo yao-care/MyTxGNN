@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 617
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "RESORCINOL"
 predicted_indications: ["acne keloid", "amyopathic dermatomyositis", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial"]
-description: "Resorcinol: indikasi baharu diramal Acne keloid (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
+description: "Resorcinol: indikasi baharu diramal Acne keloid (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Resorcinol
@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Acne keloid |
 | Skor Ramalan TxGNN | 0.9983 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
-| Bilangan Pendaftaran | 6 (sah: 6) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -93,6 +93,17 @@ Selain acne keloid, model turut meramalkan lima indikasi lain. Kesemuanya berada
 | 6 | Hydroa vacciniforme, familial | 0.9975 | Tiada mekanisme fotoperlindungan atau antivirus; ramalan hanya bersifat pengiraan |
 
 Skor yang tinggi bagi calon-calon ini datang daripada model TxGNN (pembelajaran mendalam) dan mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20001124X | T3 PIMPLE GEL | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL06051425XCS | UBAT KULIT CAP AYAM | Kombinasi | SEW CHEONG CORPORATION SDN BHD | Sah |
+
+<!-- licenses:end -->
 
 ---
 

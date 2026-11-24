@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-24
 monitor_inn: "TRASTUZUMAB"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
-description: "Trastuzumab: indikasi baharu diramal Malignant cutaneous granular cell skin tumor (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 14 (sah: 14)"
+description: "Trastuzumab: indikasi baharu diramal Malignant cutaneous granular cell skin tumor (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 11 (sah: 11)"
 ---
 
 # Trastuzumab
@@ -52,8 +52,8 @@ dengan **13 ujian klinikal** dan **20 penerbitan** yang disenaraikan dalam data 
 | Indikasi Baharu yang Diramalkan | Malignant cutaneous granular cell skin tumor |
 | Skor Ramalan TxGNN | 0.9948 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 14) |
-| Bilangan Pendaftaran | 14 (sah: 14) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 11 daripada 11) |
+| Bilangan Pendaftaran | 11 (sah: 11) |
 | Keputusan yang Disyorkan | Proceed with Guardrails |
 
 ---
@@ -99,6 +99,22 @@ Nota: [NCT00053339](https://clinicaltrials.gov/study/NCT00053339) (Fasa 3, trast
 | [21151204](https://pubmed.ncbi.nlm.nih.gov/21151204/) | 2011 | Ulasan | Nat Rev Clin Oncol | Kanser payudara HER2-positif dan reseptor hormon-positif: menyekat sasaran yang tepat |
 | [35640077](https://pubmed.ncbi.nlm.nih.gov/35640077/) | 2022 | Garis panduan | J Clin Oncol | Kemas kini garis panduan ASCO untuk terapi sistemik kanser payudara HER2-positif lanjutan |
 | [40339592](https://pubmed.ncbi.nlm.nih.gov/40339592/) | 2025 | Fasa 2a lengan tunggal | Lancet Oncol | Zanidatamab + palbociclib + fulvestrant dalam kanser HR+/HER2+ metastatik |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL15095035ARSZ | HERCEPTIN VIAL 440MG POWDER FOR CONCENTRATE | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL15125069ARZ | HERCEPTIN 600MG/5ML SOLUTION FOR INJECTION | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL18126013AZ | ZUHERA Trastuzumab for Injection (rDNA Origin) 150mg/vial | Bahan tunggal | BIOCON SDN BHD | Sah |
+| MAL18126014AZ | ZUHERA Trastuzumab for Injection (rDNA Origin) 440 mg/vial | Bahan tunggal | BIOCON SDN BHD | Sah |
+| MAL19056037AZ | Herzuma (trastuzumab) 150 mg Powder for Concentrate for Solution for Infusion | Bahan tunggal | CELLTRION HEALTHCARE MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 11 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

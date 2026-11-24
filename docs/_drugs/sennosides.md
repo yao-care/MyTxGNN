@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 641
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "SENNOSIDES"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia"]
 description: "Sennosides: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -91,6 +91,16 @@ Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Setakat ini tiada literatur berkaitan.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19912967X | SENNA TABLET | Bahan tunggal | EUCOGEN SDN BHD | Sah |
+
+<!-- licenses:end -->
 
 ---
 

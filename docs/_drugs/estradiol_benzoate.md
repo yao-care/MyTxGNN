@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 335
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "estradiol benzoate"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "thrombotic disease"]
 description: "Estradiol Benzoate: indikasi baharu diramal Migraine disorder (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -87,6 +87,16 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 |------|-----|------|------|---------|
 | [1167630](https://pubmed.ncbi.nlm.nih.gov/1167630/) | 1975 | Kajian klinikal | Neurology | Kajian migrain akibat penarikan estrogen pada enam wanita (estradiol valerate dan estradiol benzoate). Beberapa hari pendedahan kepada paras estrogen tinggi diperlukan untuk mencetuskan migrain selepas penarikan. Pemberian estrogen oral secara praharid tidak menunjukkan pencegahan yang bererti. |
 | [22913654](https://pubmed.ncbi.nlm.nih.gov/22913654/) | 2013 | Kajian praklinikal (haiwan) | Headache | Menilai pengaruh jantina dan rawatan estrogen terhadap pengaktifan neuron akibat nitrogliserin (NTG) dalam otak tikus. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19985554AZ | DUOGYNON INJECTION (1ML AMP) | Kombinasi | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+
+<!-- licenses:end -->
 
 ---
 

@@ -80,6 +80,16 @@ Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan untuk indikasi i
 |------|-----|------|------|---------|
 | [39487429](https://pubmed.ncbi.nlm.nih.gov/39487429/) | 2024 | Kohort | BMC Genomics | Penjujukan genom keseluruhan isolat *M. bovis* daripada TB zoonotik untuk menilai kepelbagaian genotip dan rintangan ubat; tidak menguji delamanid |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24086003ARZ | Deltyba Film-Coated Tablets 50 mg | Bahan tunggal | OTSUKA PHARMACEUTICALS (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keputusan dan Langkah Seterusnya

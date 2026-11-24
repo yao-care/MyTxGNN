@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 555
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PALONOSETRON"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Palonosetron: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 8 (sah: 8)"
@@ -80,6 +80,22 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 | [21132477](https://pubmed.ncbi.nlm.nih.gov/21132477/) | 2011 | Laporan kes | Canadian Journal of Anaesthesia | Melaporkan sakit kepala jenis migrain yang dicetuskan oleh palonosetron (kesan advers, bukan manfaat terapeutik); tiada abstrak tersedia |
 
 Nota: Satu kajian ulasan 2026 (PMID [42748473](https://pubmed.ncbi.nlm.nih.gov/42748473/)) mengenai pemanjangan QT berkaitan antiemetik dipautkan kepada ramalan "kerentanan migrain". Kajian ini berkaitan keselamatan jantung dan bukan bukti keberkesanan dalam migrain.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20046118AZ | PALSET (Palonosetron Hydrochloride Solution for Injection 0.05 mg/ml, 5 ml vial) | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL20106006AZ | Qilu Palonosetron Hydrochloride Injection 0.25mg/5ml | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL20122182ACRZ | ALOXI Solution for Injection 50mcg/ml | Bahan tunggal | JUNIPER BIOLOGICS SDN. BHD. | Sah |
+| MAL22046029AZ | Palonco 0.25mg / 5mL Solution for Injection | Bahan tunggal | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL22126030AZ | UNIPAL Palonosetron Hydrochloride 250 micrograms solution for injection | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

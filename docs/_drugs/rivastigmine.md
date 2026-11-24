@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 629
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RIVASTIGMINE"
 predicted_indications: ["glaucoma"]
 description: "Rivastigmine: indikasi baharu diramal Glaukoma (glaucoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 17 (sah: 17)"
@@ -73,6 +73,22 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 | [10673128](https://pubmed.ncbi.nlm.nih.gov/10673128/) | 2000 | Praklinikal (kajian haiwan, arnab) | J Ocul Pharmacol Ther | Rivastigmin topikal, perencat asetilkolinesterase terpilih, menurunkan tekanan intraokular pada arnab normotensif |
 | [27967267](https://pubmed.ncbi.nlm.nih.gov/27967267/) | 2017 | Kajian semula | Expert Opin Ther Pat | Kemas kini literatur paten mengenai perencat dan pengaktif semula asetilkolinesterase; perencatan ringan AChE mempunyai kaitan terapeutik dalam Alzheimer, miastenia gravis dan glaukoma |
 | [39130374](https://pubmed.ncbi.nlm.nih.gov/39130374/) | 2024 | Kajian komputasi/mekanistik | Front Mol Biosci | Kajian genetik sistem dan pemodelan molekul tentang agen kolinergik untuk menurunkan IOP; agonis M3 yang diluluskan mempunyai had akibat kesan sampingan kolinergik sistemik |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL08120885AZ | RIVADEM 4.5MG CAPSULES | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL09042434AZ | RIVADEM 1.5MG CAPSULES | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL09042435AZ | RIVADEM 3MG CAPSULES | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL09042436AZ | RIVADEM 6MG CAPSULES | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL14075044ACRZ | EXELON PATCH 15 | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 17 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

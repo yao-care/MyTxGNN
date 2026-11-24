@@ -96,6 +96,16 @@ Untuk ramalan utama (Glanzmann thrombasthenia), tiada literatur berkaitan. Liter
 | [36819179](https://pubmed.ncbi.nlm.nih.gov/36819179/) | 2023 | Ulasan (tinjauan protokol tempatan) | EJHaem | Tinjauan protokol hospital UK tentang penggunaan andexanet alfa. |
 | [42033142](https://pubmed.ncbi.nlm.nih.gov/42033142/) | 2026 | Kenyataan pendirian | British Journal of Haematology | Kenyataan pendirian British Society for Haematology tentang penggunaan andexanet alfa. |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24116035ACRZ | Andexxa 200mg Powder for Solution for Infusion | Bahan tunggal | ASTRAZENECA SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan dan Perkara Perlu Diberi Perhatian

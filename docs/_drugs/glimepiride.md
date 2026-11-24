@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 387
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "GLIMEPIRIDE"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 description: "Glimepiride: indikasi baharu diramal Sindrom anggota kaku fokal (focal stiff limb syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 10 (sah: 10)"
@@ -85,6 +85,22 @@ Bagi ramalan kedudukan ke-9 (agenesis pankreas), hanya satu penerbitan diperoleh
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
 | [12720536](https://pubmed.ncbi.nlm.nih.gov/12720536/) | 2003 | Kajian pengimejan diagnostik | European Journal of Endocrinology | Perangkap dalam pengimejan endosonografi bagi insulinoma yang disyaki; bukan bukti terapeutik |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06061328AZ | Glimaryl 2mg Tablet | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL07082872AZ | Glimin Tablets 2mg (Glimepiride) | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL10063006AZ | Intaszoryl-2mg Tablets | Bahan tunggal | JETPHARMA SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL10063007AZ | Intaszoryl-3mg Tablets | Bahan tunggal | JETPHARMA SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL12125047AZ | GLIMETOR 2MG TABLETS | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 10 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

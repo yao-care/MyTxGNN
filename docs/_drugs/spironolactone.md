@@ -66,6 +66,16 @@ Walau bagaimanapun, hubungan ini tidak boleh dipindahkan terus. Hipotrikosis sim
 
 Ramalan kedua dalam senarai ialah **hipotrikosis kongenital dengan milia** (skor 0.9904, tahap bukti L5, keputusan Hold). Ini ialah gangguan genetik jarang yang melibatkan perkembangan rambut dan kulit, dan tiada laluan mapan yang menghubungkannya dengan antagonisme reseptor mineralokortikoid atau aktiviti anti-androgen. Tiada ujian klinikal atau literatur menyokongnya.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19870234AZ | Spiro 25mg Tablet | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan dan Pertimbangan

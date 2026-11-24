@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 389
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 monitor_inn: "GLUTAMIC ACID"
 predicted_indications: ["postmenopausal osteoporosis", "pregnancy associated osteoporosis", "primary hereditary glaucoma", "gastroparesis (disease)"]
 description: "Glutamic Acid: indikasi baharu diramal Osteoporosis pascamenopaus (postmenopausal osteoporosis) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 31 (sah: 26)"
@@ -88,6 +88,22 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 | [18414001](https://pubmed.ncbi.nlm.nih.gov/18414001/) | 2008 | Kajian genetik | Mol Cells | Polimorfisme SLC22A11 (hOAT4) pada pesakit osteoporosis wanita Korea |
 | [40950804](https://pubmed.ncbi.nlm.nih.gov/40950804/) | 2025 | Metabolomik keratan rentas | J Diabetes Metab Disord | Profil asid amino, penuaan dan hormon seks pada warga emas Iran |
 | [39698319](https://pubmed.ncbi.nlm.nih.gov/39698319/) | 2024 | Praklinikal | Front Cell Infect Microbiol | Salap Zhuanggu Shubi dan paksi bakteria-sawar mukosa usus-metabolisme tulang |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19961292ARZ | VAMINOLACT SOLUTION | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL13055054AZ | Aminoplasmal B. Braun 10%E Solution for Intravenous Infusion | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL16085019AZ | PERIOLIMEL N4E, emulsion for infusion | Kombinasi | BAXTER HEALTHCARE (MALAYSIA) SDN. BHD. | Sah |
+| MAL16085022AZ | OLIMEL N9E, emulsion for infusion | Kombinasi | BAXTER HEALTHCARE (MALAYSIA) SDN. BHD. | Sah |
+| MAL19920375AZ | AMINOPLASMAL HEPA 10%-500ML GLASS BOTTLE | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 31 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

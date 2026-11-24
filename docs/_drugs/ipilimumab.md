@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 427
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "IPILIMUMAB"
 predicted_indications: ["choroideremia"]
 description: "Ipilimumab: indikasi baharu diramal Choroideremia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -88,6 +88,16 @@ Pada masa ini tiada literatur berkaitan.
 | Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
 | Item Pemantauan | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
 | Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL23126011ACZ | YERVOY 5 mg/ml concentrate for solution for infusion | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

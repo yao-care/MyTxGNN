@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 722
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "VENETOCLAX"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
 description: "Venetoclax: indikasi baharu diramal Hodgkins lymphoma (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
@@ -91,6 +91,18 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk subjenis ini
 | Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
 | Parameter Pemantauan | Hitung darah penuh (CBC), fungsi hati dan buah pinggang, elektrolit serta penanda sindrom lisis tumor |
 | Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18061001ARZ | VENCLEXTA TABLET 10MG | Bahan tunggal | ABBVIE SDN BHD | Sah |
+| MAL18061002ARZ | VENCLEXTA TABLET 50MG | Bahan tunggal | ABBVIE SDN BHD | Sah |
+| MAL18061003ARZ | VENCLEXTA TABLET 100MG | Bahan tunggal | ABBVIE SDN BHD | Sah |
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 412
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
 description: "Imipenem: indikasi baharu diramal Skleroderma meresap (diffuse scleroderma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
@@ -76,6 +76,20 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07061387AZ | BACQURE FOR IV INJECTION 500MG | Kombinasi | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL16025041ACRZ | IMIPENEM /CILASTATIN Kabi 500 mg/ 500 mg, Powder for solution for infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL21036029ACZ | Hovid Imipenem + Cilastatin Powder for Solution for Infusion 500mg | Kombinasi | HOVID BERHAD | Sah (pendaftaran bersyarat) |
+| MAL23046015AZ | NIMEDINE Imipenem + Cilastatin (500+500) mg/vial Powder for Solution for Infusion | Kombinasi | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL23116010AZ | Lastinem-500 (Imipenem and Cilastatin Powder for Solution for Infusion 500 mg/ 500mg) | Kombinasi | UNIMED SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

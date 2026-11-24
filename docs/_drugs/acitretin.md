@@ -91,6 +91,19 @@ Perlu diingat bahawa kaitan ini kebanyakannya tidak langsung. Bukti terus untuk 
 | [1617858](https://pubmed.ncbi.nlm.nih.gov/1617858/) | 1992 | Ulasan | Clin Pharmacokinet | Farmakokinetik dan keberkesanan terapeutik retinoid dalam penyakit kulit |
 | [2112772](https://pubmed.ncbi.nlm.nih.gov/2112772/) | 1990 | Kajian makmal | Prostaglandins | Retinoid, termasuk acitretin, merencat penghasilan LTC4 eosinofil |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16065054ACZ | Novatretin 10mg Capsules | Bahan tunggal | SCHMIDT BIOMEDTECH SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL16065055ACZ | Novatretin 25mg Capsules | Bahan tunggal | SCHMIDT BIOMEDTECH SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL21026034ACZ | Neotigason capsules 10mg | Bahan tunggal | DCH AURIGA (MALAYSIA) SDN. BHD. | Sah |
+| MAL21026035ACZ | Neotigason capsules 25mg | Bahan tunggal | DCH AURIGA (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

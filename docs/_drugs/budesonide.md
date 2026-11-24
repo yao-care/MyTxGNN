@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Budesonide"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
 last_modified_at: 2026-11-24
-description: "Budesonide: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 35 (sah: 35)"
+description: "Budesonide: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 34 (sah: 34)"
 ---
 
 # Budesonide
@@ -50,8 +50,8 @@ tetapi **tiada percubaan klinikal** didaftarkan dan literatur yang ditemui keban
 | Indikasi Baharu yang Diramalkan | Ekzema atopik (atopic eczema) |
 | Skor Ramalan TxGNN | 0,9996 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 35 daripada 35) |
-| Bilangan Pendaftaran | 35 (sah: 35) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 34 daripada 34) |
+| Bilangan Pendaftaran | 34 (sah: 34) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -100,7 +100,7 @@ Lesen yang direkodkan merangkumi produk bahan tunggal dan produk kombinasi; bila
 | MAL18066050ACZ | CORTIMENT PROLONGED RELEASE TABLETS 9MG | Bahan tunggal | Ferring Sdn. Bhd. | Sah |
 | MAL19940088ARZ | Pulmicort Respules 0.5mg/ml | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 35 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 34 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

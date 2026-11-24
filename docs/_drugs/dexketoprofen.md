@@ -79,6 +79,18 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 |------|-----|------|------|---------|
 | [30744914](https://pubmed.ncbi.nlm.nih.gov/30744914/) | 2019 | RCT | The American Journal of Emergency Medicine | Membandingkan keberkesanan deksketoprofen intravena dengan parasetamol dalam melegakan kesakitan muskuloskeletal bukan trauma di jabatan kecemasan. Tendinitis disebut sebagai salah satu punca, tetapi kajian ini tidak khusus kepada tendinitis. |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20061602AZ | KETESSE 25MG FILM COATED TABLET | Bahan tunggal | A. MENARINI SINGAPORE PTE. LTD. | Sah |
+| MAL16065043AZ | KETESSE 50 mg/2 ml Solution for Injection/Infusion | Kombinasi | A. MENARINI SINGAPORE PTE. LTD. | Sah |
+| MAL20126002AZ | SKUDEXA (TRAMADOL HYDROCHLORIDE 75MG / DEXKETOPROFEN 25MG) FILM-COATED TABLETS | Kombinasi | A. MENARINI SINGAPORE PTE. LTD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

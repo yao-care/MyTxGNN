@@ -50,8 +50,8 @@ Glycine ialah asid amino yang dikaitkan dengan keadaan seperti rinitis alergi, r
 | Indikasi Baharu yang Diramalkan | Penyakit rongga hidung |
 | Skor Ramalan TxGNN | 0.9985 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 205 daripada 213) |
-| Bilangan Pendaftaran | 213 (sah: 205) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 46 daripada 50) |
+| Bilangan Pendaftaran | 50 (sah: 46) |
 | Bilangan Kelulusan | 209 pendaftaran (16 produk bahan tunggal, 193 produk kombinasi) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
@@ -100,7 +100,7 @@ Teks indikasi yang diluluskan dan bentuk dos tidak tersedia untuk rekod-rekod in
 |------|------|------|------|------|
 | MAL21116043N | DZR PHARMA L-GLYCINE 250MG CAPSULE | Bahan tunggal | DZR PHARMA MANUFACTURE SDN. BHD. | Sah |
 
-Jadual di atas menyenaraikan 1 daripada 213 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 1 daripada 50 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

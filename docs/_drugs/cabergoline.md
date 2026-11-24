@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CABERGOLINE"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cabergoline: indikasi baharu diramal Sindrom progeria-ketinggian pendek-nevus berpigmen (progeria-short stature-pigmented nevi syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodkan dalam data t…"
 ---
 
@@ -65,6 +65,16 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19971775AZ | DOSTINEX TABLET 0.5MG | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

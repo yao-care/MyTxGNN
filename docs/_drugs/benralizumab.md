@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "BENRALIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benralizumab: indikasi baharu diramal Trombositopenia akibat pemusnahan imun (thrombocytopenia due to immune destruction) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -65,6 +65,16 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan untuk indikasi
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi ini.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21116004ACRZ | Fasenra 30mg Solution for Injection in Pre-filled Pen | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

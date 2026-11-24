@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Atracurium besylate"
 predicted_indications: ["preeclampsia", "cauda equina syndrome", "blepharospasm", "migraine disorder", "obsolete neurogenic bladder (disease)", "thrombotic disease", "migraine with brainstem aura", "severe pre-eclampsia", "mild pre-eclampsia", "irritable bowel syndrome"]
-last_modified_at: 2026-11-20
-description: "Atracurium Besylate: indikasi baharu diramal Preeklampsia (preeclampsia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 10 (sah: 10)"
+last_modified_at: 2026-11-24
+description: "Atracurium Besylate: indikasi baharu diramal Preeklampsia (preeclampsia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
 # Atracurium Besylate
@@ -48,8 +48,8 @@ Atracurium besylate ialah penyekat neuromuskular bukan depolarisasi yang digunak
 | Indikasi Baharu yang Diramalkan | Preeklampsia (preeclampsia) |
 | Skor Ramalan TxGNN | 0,9997 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
-| Bilangan Pendaftaran | 10 (sah: 10) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -67,6 +67,22 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL15045128AZ | Notrixum Injection 10 mg/ml | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL19871671AZ | TRACRIUM INJECTION 25MG/2.5ML | Bahan tunggal | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+| MAL19900237AZ | TRACRIUM INJECTION 50MG/5ML | Bahan tunggal | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+| MAL20040031ACZ | ATRACURIUM-HAMELN 10MG/ML INJECTION,2.5ML | Bahan tunggal | IDAMAN PHARMA SDN. BHD. | Sah |
+| MAL20040032ACZ | ATRACURIUM-HAMELN 10MG/ML INJECTION,5.0ML | Bahan tunggal | IDAMAN PHARMA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 565
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PERAMPANEL"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel: indikasi baharu diramal Beta-ketothiolase deficiency (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
@@ -90,6 +90,18 @@ Tiada penerbitan di bawah ini yang mengkaji epilepsi visual secara khusus. Semua
 | [37775491](https://pubmed.ncbi.nlm.nih.gov/37775491/) | 2023 | Kajian pemerhatian | Med J Malaysia | Keberkesanan dan keselamatan perampanel tambahan di Malaysia; penggunaan terhad oleh kos yang tinggi |
 | [34335252](https://pubmed.ncbi.nlm.nih.gov/34335252/) | 2021 | Praklinikal (tikus) | Front Pharmacol | Perampanel mengurangkan kejang akibat hipertermia pada model tikus sindrom Dravet |
 | [31176277](https://pubmed.ncbi.nlm.nih.gov/31176277/) | 2019 | Laporan kes | Seizure | Rawatan berjaya bagi kejang yang mengancam nyawa dalam satu kes ensefalopati mioklonik awal |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL14035002AZ | Fycompa 2mg Film-coated Tablets | Bahan tunggal | EISAI (MALAYSIA) SDN. BHD. | Sah |
+| MAL14035005AZ | Fycompa 4mg Film-coated Tablets | Bahan tunggal | EISAI (MALAYSIA) SDN. BHD. | Sah |
+| MAL25016002ACRZ | Fycompa 0.5 mg/mL oral suspension | Bahan tunggal | EISAI (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

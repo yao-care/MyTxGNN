@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 562
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
 description: "Pemetrexed: indikasi baharu diramal Pleural adenomatoid tumor (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 25 (sah: 24)"
@@ -107,6 +107,22 @@ Tiada ujian terkawal rawak khusus peritoneum dalam senarai di atas. Kebanyakan b
 | Klasifikasi Emetogenisiti | Rendah hingga sederhana |
 | Item Pemantauan | Kiraan darah lengkap (CBC) dengan pembezaan, fungsi renal, fungsi hati |
 | Perlindungan Pengendalian | Perlu mengikut garis panduan pengendalian ubat sitotoksik. Rujuk risalah maklumat produk untuk amaran dan langkah berjaga-jaga |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL17107083AZ | Accord Pemetrexed 100mg powder for concentrate for solution for infusion | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL17107084AZ | Accord Pemetrexed 500mg powder for concentrate for solution for infusion | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL18056176AZ | METREX (Pemetrexed Lyophilised Powder for Injection 500mg/Vial) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL18106016AZ | PODOXRED (PEMETREXED) Powder for Concentrate for Solution for Infusion 500mg | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL18106017AZ | PODOXRED (PEMETREXED) Powder for Concentrate for Solution for Infusion 100mg | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 25 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

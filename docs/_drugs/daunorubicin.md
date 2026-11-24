@@ -50,8 +50,8 @@ Daunorubicin ialah ubat sitotoksik daripada kumpulan antrasiklin. Data kelulusan
 | Indikasi Baharu yang Diramalkan | Limfoma Hodgkin |
 | Skor Ramalan TxGNN | 0.9981 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 3 daripada 3) |
-| Bilangan Pendaftaran | 3 (sah: 3) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Bilangan Kelulusan | 3 lesen (semua sah, produk tunggal) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
@@ -100,7 +100,6 @@ Kebanyakan kajian berkaitan limfoma bukan Hodgkin atau keracunan antrasiklin, bu
 | No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
 |------|------|------|------|------|
 | MAL20032424AZ | DAUNOCIN FOR INJ | Bahan tunggal | FIRST PHARMACEUTICAL SDN. BHD. | Sah |
-| MAL20040555AZ | ZAVEDOS CS 10MG/10ML INJECTION VIALS | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
 | MAL19861664ACZ | DAUNOBLASTINA INJECTION 20MG/VIAL | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
 
 <!-- licenses:end -->

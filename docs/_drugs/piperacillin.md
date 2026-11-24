@@ -86,6 +86,22 @@ Tiada kajian yang menilai keberkesanan piperacillin untuk RA. Penerbitan yang di
 | [33987340](https://pubmed.ncbi.nlm.nih.gov/33987340/) | 2021 | Kohort | Ann Transl Med | Prevalens dan ciri klinikal kecederaan hati akibat antibiotik |
 | [41257433](https://pubmed.ncbi.nlm.nih.gov/41257433/) | 2026 | Kohort (model ramalan) | Br J Clin Pharmacol | Model ramalan eosinofilia pada pesakit yang menerima ampicillin/sulbactam atau piperacillin/tazobactam |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09072786ACZ | TAZPEN for Injection 4.5g | Kombinasi | UNIMED SDN. BHD. | Sah |
+| MAL15015046AZ | Tapicin Powder For Injection 4.5g | Kombinasi | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL16045059AZ | Aurotaz-P Powder for Injections 4.5 g | Kombinasi | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL17107024ARZ | Piperacillin/Tazobactam Kabi 4g/0.5g Powder for Solution for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL19990548AZ | TAZOCIN EF INJECTION 4.5G | Kombinasi | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan dan Pertimbangan

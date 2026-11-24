@@ -99,6 +99,22 @@ Berikut ialah ujian yang paling relevan (gred relevansi A dan B, serta ujian Fas
 | [12215068](https://pubmed.ncbi.nlm.nih.gov/12215068/) | 2002 | Ulasan | Drugs | Ulasan penggunaan aspart dalam diabetes jenis 1 dan 2 |
 | [23243636](https://pubmed.ncbi.nlm.nih.gov/23243636/) | 2012 | Kajian sistematik | Drugs Today | Analog insulin untuk T1D pada kanak-kanak dan remaja |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13115137ASZ | NovoRapid FlexPen 100U/ml solution for injection in pre-filled pen | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL17035048ASZ | NovoMix 30 FlexPen 100U/ML Suspension for injection | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL18106026AZ | Fiasp FlexTouch 100 units/ml, Solution for injection | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL18106027AZ | Fiasp Penfill 100 units/ml, Solution for injection | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL18106056AZ | Fiasp 100 units/ml, 10ml Vial | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 16 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

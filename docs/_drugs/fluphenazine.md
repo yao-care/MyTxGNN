@@ -76,6 +76,17 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi ini.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19973007AZ | MONASAN INJECTION 1ML AMPOULE | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL20013445AZ | SHRIZINE INJECTION 25MG/ML | Bahan tunggal | SM PHARMACEUTICALS SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

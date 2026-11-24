@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 635
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
 description: "Salbutamol: indikasi baharu diramal Konjunktivitis papilari (papillary conjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 67 (sah: 65)"
@@ -74,6 +74,22 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05041855ACSZ | Salmax CR Tablet 4mg | Bahan tunggal | Duopharma Marketing Sdn. Bhd. | Sah |
+| MAL07010969ACRZ | Ventolin Syrup 2mg/5ml | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL07090894ACZ | Bonair HFA Inhaler 100mcg/actuation | Bahan tunggal | STERILINE SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL09082796AZ | AZMASOL 100MCG/DOSE HFA METERED DOSE INHALER | Bahan tunggal | BEXIMCO HEALTHCARE MALAYSIA SDN.BHD. | Sah (pendaftaran bersyarat) |
+| MAL09122778ACZ | Hovid Ventamol CFC-Free Metered Dose Inhaler 100mcg/actuation | Bahan tunggal | HOVID BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 67 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

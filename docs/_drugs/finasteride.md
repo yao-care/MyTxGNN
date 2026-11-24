@@ -98,6 +98,22 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Semua ramalan ini tidak mempunyai ujian klinikal atau literatur sokongan.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09082821AZ | FINAPECIA 1MG TABLET | Bahan tunggal | JETPHARMA SDN. BHD. | Sah |
+| MAL09082823AZ | FINAINTAS 5MG TABLET | Bahan tunggal | JETPHARMA SDN. BHD. | Sah |
+| MAL10080064AZ | Fincar Tablet 5mg | Bahan tunggal | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL13025042AZ | Finagen Tablet 5mg | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL19985910ACRZ | PROSCAR 5MG TABLET | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

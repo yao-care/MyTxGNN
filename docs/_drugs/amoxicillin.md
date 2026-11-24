@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "AMOXICILLIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amoxicillin: indikasi baharu diramal Hiperamilasemia (hyperamylasemia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 100 (sah: 99)"
 ---
 
@@ -73,6 +73,22 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09042401AZ | Z mox capsules 500mg | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL09042411AZ | Z mox Oral Suspension 250mg/5ml | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL09051607AZ | Z MOX CAPSULES 250MG | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL11030012HA | Amoxicillin Soluble Powder 500mg/g | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL11040018HA | AMOX-500MG Water Soluble Powder | Bahan tunggal | Life Biopharma Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 100 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

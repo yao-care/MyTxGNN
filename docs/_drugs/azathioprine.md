@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "AZATHIOPRINE"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Azathioprine: indikasi baharu diramal Sindrom displasia rizomelik-mikroftalmia kolobomatus (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (tahap bukti L5). Indikasi asal: Tidak direkodka…"
 ---
 
@@ -65,6 +65,18 @@ Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Setakat ini tiada literatur berkaitan yang tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL04103439AZ | Imuran 50mg Tablet | Bahan tunggal | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+| MAL09011432ACRZ | Apo-Azathioprine 50mg Tablets | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20021382AZ | AZAMUN 50MG TABLETS | Bahan tunggal | SCHMIDT BIOMEDTECH SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

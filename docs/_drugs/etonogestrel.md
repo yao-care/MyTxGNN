@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 342
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ETONOGESTREL"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "blunt duct adenosis of breast", "apocrine adenosis of breast", "benign mammary dysplasia"]
 description: "Etonogestrel: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -85,6 +85,16 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 | PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
 | [33430924](https://pubmed.ncbi.nlm.nih.gov/33430924/) | 2021 | Protokol RCT (tidak berkaitan) | Trials | Protokol kajian BIO101 untuk mencegah kemerosotan pernafasan dalam pneumonia COVID-19. Tidak berkaitan dengan etonogestrel atau amenorea. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20013534ARZ | Implanon NXT | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

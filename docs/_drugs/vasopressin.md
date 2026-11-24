@@ -84,6 +84,17 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Tiada satu pun daripada penerbitan ini membincangkan kekurangan protrombin secara langsung.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL17025036ARZ | Vasopressin Kabi Injection, USP (Synthetic) 20 Units/mL | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL20126126AZ | Hanlim Vasopressin Injection 20 IU/mL | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

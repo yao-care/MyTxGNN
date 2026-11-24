@@ -90,6 +90,16 @@ Selain indikasi utama, model juga meramalkan indikasi berikut. Kesemuanya bersta
 | 3 | Polimikrogiria perisilvian dengan hipoplasia serebelum dan artrogriposis | 0.9912 | L5 | Tiada kaitan mekanistik yang munasabah; ramalan pengiraan sahaja. |
 | 4 | Neurodegenerasi berkaitan PLA2G6 | 0.9907 | L5 | Rasional tidak langsung yang lemah untuk ciri parkinsonian; piribedil tidak mengubah patologi asas. |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19961025AZ | TRIVASTAL RETARD 50 | Bahan tunggal | SERVIER MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

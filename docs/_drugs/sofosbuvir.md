@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 653
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "SOFOSBUVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
 description: "Sofosbuvir: indikasi baharu diramal Jangkitan virus hepatitis B (hepatitis B virus infection) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
@@ -101,6 +101,22 @@ Berikut ialah percubaan yang dinilai paling relevan (gred B/C) daripada senarai 
 ## Sitotoksisiti
 
 Bahagian ini tidak berkaitan kerana sofosbuvir bukan ubat antineoplastik.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19036029AZ | VIRSO Sofosbuvir Tablets 400mg | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL19106007AZ | SOFOVIR (SOFOSBUVIR TABLETS 400MG) | Bahan tunggal | SYNERRV SDN BHD | Sah |
+| MAL20096017AZ | GRATEZIANO 400 MG FILM COATED TABLET | Bahan tunggal | PHARMANIAGA LOGISTICS SDN. BHD. | Sah |
+| MAL18046002AZ | Epclusa (sofosbuvir 400mg/ velpatasvir 100mg) Film-Coated Tablets | Kombinasi | Gilead Sciences Malaysia Sdn. Bhd. | Sah |
+| MAL20096010AZ | MyHep ALL (Sofosbuvir and Velpatasvir Film Coated Tablets 400mg/100mg) | Kombinasi | MYLAN HEALTHCARE SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 516
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MUPIROCIN"
 predicted_indications: ["pleural empyema (disease)", "punctate epithelial keratoconjunctivitis"]
 description: "Mupirocin: indikasi baharu diramal Pleural empyema (disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 12 (sah: 12)"
@@ -76,6 +76,22 @@ Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Setakat ini tiada literatur berkaitan tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05121148AZ | Muposten Ointment 2%w/w | Bahan tunggal | STERILINE SDN. BHD. | Sah |
+| MAL06081211AZ | Supirocin Ointment | Bahan tunggal | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. | Sah |
+| MAL08010699AZ | MUROZIN OINTMENT 2% W/W | Bahan tunggal | Abio Marketing Sdn Bhd | Sah |
+| MAL09051555AZ | Mupicin ointment 2%w/w | Bahan tunggal | PRIME PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19096024AZ | BACTOPIC (MUPIROCIN OINTMENT 2%) | Bahan tunggal | SYNERRV SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 12 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

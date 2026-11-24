@@ -93,6 +93,22 @@ Penerbitan berikut dikaitkan dengan indikasi **retinopati diabetik** (peringkat 
 
 Secara keseluruhan, kedua-dua penerbitan hanya memberikan konteks tidak langsung yang menjana hipotesis dan tidak menyokong dakwaan keberkesanan klinikal.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22126017AZ | Prolia Solution for Injection 60mg/ml Pre-filled Syringe | Bahan tunggal | Amgen Biopharmaceuticals Malaysia Sdn Bhd | Sah |
+| MAL22126018AZ | XGEVA 120mg/1.7 ml Solution for Injection | Bahan tunggal | Amgen Biopharmaceuticals Malaysia Sdn Bhd | Sah |
+| MAL26016013ACZ | Resyniv 60mg/ml Solution for Injection in Pre-filled Syringe | Bahan tunggal | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+| MAL26016014ACZ | Dnoclast 120 mg/1.7 ml Solution for injection in Vial | Bahan tunggal | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+| MAL26016015AZ | EVFRAXY Denosumab 60 mg/mL Solution for Injection in Pre-Filled Syringe | Bahan tunggal | BIOCON SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

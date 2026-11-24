@@ -48,8 +48,8 @@ Asid benzoik direkodkan dalam graf pengetahuan TxGNN (PrimeKG) berkaitan dengan 
 | Indikasi Baharu yang Diramalkan | Bronkitis |
 | Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 35 daripada 36) |
-| Bilangan Pendaftaran | 36 (sah: 35) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
+| Bilangan Pendaftaran | 10 (sah: 10) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah (atau Tidak)?
@@ -87,13 +87,13 @@ Teks indikasi yang diluluskan tidak tersedia pada rekod. Lesen produk kombinasi 
 
 | No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
 |------|------|------|------|------|
-| MAL19912812XZ | MIFULIN LOTION | Bahan tunggal | WINWA MEDICAL SDN. BHD. | Sah |
-| MAL19871164AZ | BEPROSALIC OINTMENT | Kombinasi | HOE PHARMACEUTICALS SDN. BHD. | Sah |
 | MAL19911136X | WHITFIELD`S OINTMENT | Kombinasi | HOVID BERHAD | Sah |
 | MAL19910650X | DYNA RINGWORM LOTION | Kombinasi | DYNAPHARM (M) SDN. BHD. | Sah |
-| MAL19987988AZ | PHARMANIAGA DERMAL SA OINTMENT | Kombinasi | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL06051425XCS | UBAT KULIT CAP AYAM | Kombinasi | SEW CHEONG CORPORATION SDN BHD | Sah |
+| MAL19912914XC | SEN BOO SKIN OINTMENT | Kombinasi | YI YUAN MEDICAL SUPPLY | Sah |
+| MAL19920880XC | PANAU SALAP CHAP PISANG | Kombinasi | BAN CHOON TRADING CO. | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 36 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 10 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

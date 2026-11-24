@@ -81,6 +81,22 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 | [32678895](https://pubmed.ncbi.nlm.nih.gov/32678895/) | 2020 | Praklinikal/laporan peringkat kes | Blood | Pengelatan besi memulihkan anemia hemolitik dan fotosensitiviti kulit dalam porfiria eritropoietik kongenital (subjenis berkaitan tetapi berbeza) |
 | [17854053](https://pubmed.ncbi.nlm.nih.gov/17854053/) | 2007 | Kajian haiwan | Hepatology | Dalam model tikus Hfe-/- porfiria cutanea tarda, deferiprone dibandingkan dengan diet kekurangan besi untuk mengurangkan pengumpulan uroporfirin hepatik |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09042447ACZ | Ferriprox Oral Solution 100mg/ml | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL12015002AZ | GPO-L-One Tablet 500mg | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL16065019ACZ | Ferriprox 1000mg Film-Coated Tablet | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20033480ACZ | FERRIPROX 500MG TABLET | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL23096013ACRZ | Ferriprox 1000 mg Delayed-Release Tablets | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

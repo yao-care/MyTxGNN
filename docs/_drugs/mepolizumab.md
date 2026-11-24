@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 493
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MEPOLIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
 description: "Mepolizumab: indikasi baharu diramal Trombositopenia akibat pemusnahan imun (thrombocytopenia due to immune destruction) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -81,6 +81,17 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
 | [28648630](https://pubmed.ncbi.nlm.nih.gov/28648630/) | 2018 | Laporan kes | Blood Cells Mol Dis | Diatesis imun hipereosinofilik tahan steroid reda dengan mepolizumab, disertai pemulihan mikroangiopati trombotik campuran |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22096009ARZ | Nucala 100mg/ml Solution for Injection in pre-filled syringe (Safety Syringe) | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL22096010ARZ | Nucala 100mg/ml Solution for Injection in pre-filled pen (Autoinjector) | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

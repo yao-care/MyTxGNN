@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Ketoprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
 last_modified_at: 2026-11-24
-description: "Ketoprofen: indikasi baharu diramal Acromesomelic dysplasia, Hunter-Thompson type (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
+description: "Ketoprofen: indikasi baharu diramal Acromesomelic dysplasia, Hunter-Thompson type (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 12 (sah: 12)"
 ---
 
 # Ketoprofen
@@ -49,8 +49,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **displasia akromesomelik, jeni
 | Indikasi Baharu yang Diramalkan | Acromesomelic dysplasia, Hunter-Thompson type |
 | Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
-| Bilangan Pendaftaran | 15 (sah: 15) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
+| Bilangan Pendaftaran | 12 (sah: 12) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -71,19 +71,19 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Jumlah 15 pendaftaran sah (13 bahan tunggal, 2 kombinasi). Teks indikasi yang diluluskan tidak tersedia untuk semua rekod. Lima pendaftaran bahan tunggal disenaraikan di bawah.
+Jumlah 12 pendaftaran sah (12 bahan tunggal, 0 kombinasi). Teks indikasi yang diluluskan tidak tersedia untuk semua rekod. Lima pendaftaran bahan tunggal disenaraikan di bawah.
 
 <!-- licenses:begin -->
 
 | No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
 |------|------|------|------|------|
 | MAL06100567AZ | Ketofen Gel 2.5%w/w | Bahan tunggal | HOVID BERHAD | Sah |
-| MAL20061602AZ | KETESSE 25MG FILM COATED TABLET | Bahan tunggal | A. MENARINI SINGAPORE PTE. LTD. | Sah |
 | MAL06111321AZ | KEFENTECH PLASTER, 30.0 MG | Bahan tunggal | SOMEDICO SDN. BHD. | Sah (pendaftaran bersyarat) |
 | MAL20040964AZ | FASTUM GEL | Bahan tunggal | A. MENARINI SINGAPORE PTE. LTD. | Sah |
 | MAL20046125AZ | KETOPRO (KETOPROFEN GEL BP 2.5% W/W) | Bahan tunggal | Synercam (M) Sdn Bhd | Sah |
+| MAL11060014AZ | Kop Gel 2.5%w/w | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 12 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

@@ -96,6 +96,22 @@ Namun, keberkesanan klinikal terhadap hasil virus masih belum terbukti. Imunosup
 | [20840478](https://pubmed.ncbi.nlm.nih.gov/20840478/) | 2010 | Retrospektif | Am J Transplant | Pemindahan buah pinggang pada 27 pesakit HIV dengan rejimen termasuk MMF |
 | [19112763](https://pubmed.ncbi.nlm.nih.gov/19112763/) | 2008 | Laporan kes | J Drugs Dermatol | Psoriasis dan artritis psoriatik pada pesakit HIV yang bertindak balas terhadap MMF |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06030803ACRZ | CELLCEPT Capsule 250 mg | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL06030804ACRZ | CELLCEPT Tablet 500 mg | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL10070550AZ | REFRAT Mycophenolate Mofetil Tablets USP 500mg | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL10070580AZ | REFRAT Mycophenolate Mofetil Capsules USP 250mg | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL10120011AZ | Mycofit 500mg Tablets | Bahan tunggal | JETPHARMA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 12 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Salicylic Acid"
 predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "rosacea conjunctivitis", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "myosclerosis", "brachyolmia"]
 last_modified_at: 2026-11-24
-description: "Salicylic Acid: indikasi baharu diramal Konjunktivitis papilari (papillary conjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 71 (sah: 69)"
+description: "Salicylic Acid: indikasi baharu diramal Konjunktivitis papilari (papillary conjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 47 (sah: 47)"
 ---
 
 # Salicylic Acid
@@ -48,8 +48,8 @@ Asid salisilik ialah agen keratolitik topikal yang juga merupakan perencat COX t
 | Indikasi Baharu yang Diramalkan | Konjunktivitis papilari (papillary conjunctivitis) |
 | Skor Ramalan TxGNN | 0.9988 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 69 daripada 71) |
-| Bilangan Pendaftaran | 71 (sah: 69) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 47 daripada 47) |
+| Bilangan Pendaftaran | 47 (sah: 47) |
 | Bilangan Kelulusan | 71 pendaftaran (36 produk bahan tunggal, 35 produk kombinasi) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
@@ -71,19 +71,19 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Berikut ialah lima daripada 71 pendaftaran (senarai penuh lengkap, bukan separa). Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
+Berikut ialah lima daripada 47 pendaftaran (senarai penuh lengkap, bukan separa). Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
 <!-- licenses:begin -->
 
 | No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
 |------|------|------|------|------|
-| MAL19961282XZ | TOOPRIN TABLET | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
-| MAL21096015HX | Salicyline 50%w/w Powder for Oral Solution | Bahan tunggal | Rhone Ma Malaysia Sdn Bhd | Sah |
 | MAL17076014XZ | NW SALICYLIC ACID 2%W/W CREAM | Bahan tunggal | NATURAL WELLNESS INDUSTRIES SDN. BHD. (MILIK PENUH NUTRIVENTION SDN. B… | Sah |
 | MAL12075080XZ | XORLYX 2 Salicylic Acid 2% w/w Ointment | Bahan tunggal | Xorix Sdn Bhd | Sah |
 | MAL20172843XC | Collomack Topical Solution 10% w/w | Bahan tunggal | DCH AURIGA (MALAYSIA) SDN. BHD. | Sah |
+| MAL09061603X | Ellgy Corns & Warts Treatment Solution | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL11030026X | CARNATION FOOTCARE CORN CAPS 40% MEDICATED PLASTERS | Bahan tunggal | TAKARIA (M) SDN BHD | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 71 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 47 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

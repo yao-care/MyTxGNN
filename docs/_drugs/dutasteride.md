@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 312
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DUTASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
 description: "Dutasteride: indikasi baharu diramal Ambras type hypertrichosis universalis congenita (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 14 (sah: 14)"
@@ -77,6 +77,22 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi utama ini.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20040194ACRZ | AVODART SOFT GELATIN CAPSULES | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL21056022AZ | DUTABIT 0.5 (DUTASTERIDE SOFT CAPSULES 0.5MG) | Bahan tunggal | SYNERRV SDN BHD | Sah |
+| MAL21066020ARZ | UROKA Dutasteride Soft Gelatin Capsules 0.5mg | Bahan tunggal | GoodScience Sdn. Bhd. | Sah |
+| MAL23056037AZ | Budida Soft Capsules 0.5mg | Bahan tunggal | GK BIO INTERNATIONAL SDN. BHD. | Sah |
+| MAL23076014AZ | inTASTERIDE (Dutasteride) 0.5mg Soft Gelatin Capsule | Bahan tunggal | Intega Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 14 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

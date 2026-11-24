@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 last_modified_at: 2026-11-24
-description: "Progesterone: indikasi baharu diramal Penyakit fibrosistik payudara (breast fibrocystic disease) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
+description: "Progesterone: indikasi baharu diramal Penyakit fibrosistik payudara (breast fibrocystic disease) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 
 # Progesterone
@@ -48,8 +48,8 @@ Progesterone ialah hormon steroid progestogen yang telah dipasarkan di Malaysia 
 | Indikasi Baharu yang Diramalkan | Penyakit fibrosistik payudara (breast fibrocystic disease) |
 | Skor Ramalan TxGNN | 0.9998 |
 | Tahap Bukti | L4 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 15 daripada 15) |
-| Bilangan Pendaftaran | 15 (sah: 15) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
+| Bilangan Pendaftaran | 7 (sah: 7) |
 | Keputusan Disyorkan | Proceed with Guardrails |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -89,11 +89,17 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 | MAL20033678ACZ | CYCLOGEST 400MG PESSARIES | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
 | MAL24066005ACZ | Prometrium 200 mg Vaginal Soft Capsules (Natural Micronised Progesterone) | Bahan tunggal | EP PLUS GROUP SDN. BHD. | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 
-Terdapat 15 lesen kesemuanya, dan semuanya sah (14 produk bahan tunggal dan 1 produk gabungan). Teks indikasi diluluskan tidak direkodkan dalam data tempatan.
+Semua lesen yang direkodkan adalah sah; kebanyakannya produk bahan tunggal, termasuk produk gabungan dengan estradiol benzoat (bilangan semasa terdapat dalam Gambaran Ringkas). Teks indikasi diluluskan tidak direkodkan dalam data tempatan.
+
+<!-- review:begin my-lic-20261124c-progesterone-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Terdapat 15 lesen kesemuanya, dan semuanya sah (14 produk bahan tunggal dan 1 produk gabungan)." Pendaftaran medroxyprogesterone dan hydroxyprogesterone (nama mengandungi rentetan "progesterone") tidak lagi dikira sebagai pendaftaran progesterone. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124c-progesterone-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -121,11 +127,12 @@ Terdapat asas biologi yang munasabah (hubungan hormon dan reseptor), tetapi tiad
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1) |
+| 2026-11-24 | Dibetulkan: "Terdapat 15 lesen kesemuanya, dan semuanya sah (14 produk bahan tunggal dan 1 produk gabungan)." | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

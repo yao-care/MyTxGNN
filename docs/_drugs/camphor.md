@@ -52,8 +52,8 @@ tetapi setakat ini **tiada ujian klinikal** didaftarkan dan hanya terdapat **3 p
 | Indikasi Baharu yang Diramalkan | Gangguan migrain (migraine disorder) |
 | Skor Ramalan TxGNN | 0.9985 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 289 daripada 298) |
-| Bilangan Pendaftaran | 298 (sah: 289) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 219 daripada 227) |
+| Bilangan Pendaftaran | 227 (sah: 219) |
 | Keputusan yang Disyorkan | Hold (Tahan) |
 
 ---
@@ -85,6 +85,22 @@ Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
 | [27058833](https://pubmed.ncbi.nlm.nih.gov/27058833/) | 2016 | Ulasan | Z Kinder Jugendpsychiatr Psychother | Sejarah neuropsikofarmakoterapi kanak-kanak pada 1940-an dan 50-an; kaitan tidak langsung |
 
 *Nota: Dua artikel tambahan dalam data (PMID 16579729 mengenai parthenolide dan PMID 24678459 mengenai zolmitriptan) tidak berkaitan secara langsung dengan kamfor dan tidak disenaraikan.*
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05032554XC | Vicks Inhaler | Kombinasi | PROCTER & GAMBLE (MALAYSIA ) SDN.BHD. | Sah |
+| MAL05032586TC | Minyak Merah Plus | Kombinasi | SERI MH UMMI SDN BHD | Sah |
+| MAL05032650TC | Minyak Serai Plus | Kombinasi | SERI MH UMMI SDN BHD | Sah |
+| MAL05032652TC | Balm Serai Plus | Kombinasi | SERI MH UMMI SDN BHD | Sah |
+| MAL05032665T | E-PLUS OINTMENT NUTMEG COMPLEX | Kombinasi | EASY PLUS PHARMACEUTICAL (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 227 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 734
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Zinc Chloride: indikasi baharu diramal Retinopati diabetik bukan proliferatif teruk (tahap bukti L5). Indikasi asal: Tiada data indikasi berdaftar"
 monitor_inn: "ZINC CHLORIDE"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "Sjogren syndrome", "dry eye syndrome"]
@@ -76,6 +76,18 @@ Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Setakat ini tiada literatur berkaitan yang tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18016139ACRZ | Addaven Concentrate for Solution for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL20013182X | Shine Multivitamin and Mineral Capsule | Kombinasi | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL20021424ACRZ | PEDITRACE | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

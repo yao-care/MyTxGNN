@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 526
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "NITRAZEPAM"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
 description: "Nitrazepam: indikasi baharu diramal Wernicke-Korsakoff syndrome (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -94,6 +94,16 @@ Senarai berikut memilih rujukan yang paling relevan (utamakan kajian khusus nitr
 | [15089115](https://pubmed.ncbi.nlm.nih.gov/15089115/) | 2004 | Ulasan | CNS Drugs | Kesan sisa hipnotik (mengantuk siang hari, gangguan psikomotor) dan risiko kemalangan. |
 | [20171127](https://pubmed.ncbi.nlm.nih.gov/20171127/) | 2010 | Tidak dikelaskan | Sleep Medicine Reviews | Hipnotik mengganggu keseimbangan badan dan meningkatkan risiko jatuh serta patah pinggul. |
 | [39231170](https://pubmed.ncbi.nlm.nih.gov/39231170/) | 2024 | Tidak dikelaskan | PLoS One | Corak penggunaan dan preskripsi benzodiazepin yang tidak sesuai dalam penjagaan kesihatan primer; penggunaan jangka panjang dikaitkan dengan kebergantungan, toleransi dan kemerosotan kognitif. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19900511AZ | NITRAPAM TABLETS 5MG | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

@@ -118,6 +118,17 @@ Nota: Dua penerbitan ditemui untuk ramalan lain, tetapi kedua-duanya berkaitan k
 | Perkara Pemantauan | Sila rujuk sisipan pembungkusan; secara amnya parameter hematologi serta fungsi hati dan buah pinggang |
 | Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24096024ACZ | Padcev 20mg Powder for Concentrate for Solution for Infusion | Bahan tunggal | Astellas Pharma Malaysia Sdn Bhd | Sah |
+| MAL24096025ACZ | Padcev 30mg Powder for Concentrate for Solution for Infusion | Bahan tunggal | Astellas Pharma Malaysia Sdn Bhd | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

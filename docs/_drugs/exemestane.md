@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 347
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "EXEMESTANE"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
 description: "Exemestane: indikasi baharu diramal Antithrombin deficiency type 2 (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -97,6 +97,17 @@ Literatur bagi amenorea (jenis kajian diandaikan daripada tajuk dan belum disahk
 | Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga pada sisipan pakej |
 | Item Pemantauan | Sila rujuk amaran dan langkah berjaga-jaga pada sisipan pakej |
 | Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga pada sisipan pakej |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL08111847AZ | Aromasin Tablet 25mg | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL17085041AZ | EXETAS 25MG TABLETS | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

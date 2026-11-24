@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 400
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "HEXETIDINE"
 predicted_indications: ["interventricular septum aneurysm", "pulmonary valve disease", "orofacial clefting syndrome", "Laubry-Pezzi syndrome", "genetic syndromic Pierre Robin syndrome", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 22", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus"]
 description: "Hexetidine: indikasi baharu diramal Aneurisma septum interventrikular (interventricular septum aneurysm) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -89,6 +89,16 @@ Satu penerbitan dikaitkan dengan ramalan kedudukan 6 (gangguan sintesis fukoglik
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
 | [12974527](https://pubmed.ncbi.nlm.nih.gov/12974527/) | 2003 | Ulasan | Oral Diseases | Ulasan umum mengenai agen anti-plak dalam pencegahan penyakit mulut berkaitan biofilem; tiada kaitan dengan gangguan glikosilasi |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05023191XC | Bactidol Mouthwash | Bahan tunggal | JNTL (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

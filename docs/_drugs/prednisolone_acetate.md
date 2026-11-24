@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Prednisolone acetate"
 predicted_indications: ["serous conjunctivitis except viral", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "conjunctival folliculosis", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "vernal conjunctivitis", "postinfectious vasculitis"]
 last_modified_at: 2026-11-24
-description: "Prednisolone Acetate: indikasi baharu diramal Serous conjunctivitis except viral (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
+description: "Prednisolone Acetate: indikasi baharu diramal Serous conjunctivitis except viral (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
 # Prednisolone Acetate
@@ -50,8 +50,8 @@ Untuk ramalan teratas ini, **tiada satu pun ujian klinikal atau penerbitan** yan
 | Indikasi Baharu yang Diramalkan | Serous conjunctivitis except viral |
 | Skor Ramalan TxGNN | 0.9974 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 7) |
-| Bilangan Pendaftaran | 7 (sah: 7) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Bilangan Kelulusan | 6 pendaftaran (4 produk tunggal, 2 produk kombinasi) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
@@ -100,17 +100,15 @@ Literatur terpilih untuk ramalan lain:
 | No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
 |------|------|------|------|------|
 | MAL19986420AZ | PREDON INJECTION 25MG/ML | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
-| MAL19870511AZ | DEPO-MEDROL Sterile Aqueous Suspension 40mg/mL | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
 | MAL19890346ARZ | PRED FORTE STERILE OPHTHALMIC SUSPENSION | Bahan tunggal | ABBVIE SDN BHD | Sah |
 | MAL20041207AZ | NISOL INJECTION (10ML VIAL) | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
 | MAL18126006HAC | Surolan Topical Suspension | Kombinasi | ELANCO MALAYSIA SDN BHD | Sah |
 | MAL25086048HAR | Chanear Ear Drops and Cutaneous Suspension for Cats and Dogs | Kombinasi | Rhone Ma Malaysia Sdn Bhd | Sah |
-
-Jadual di atas menyenaraikan 6 daripada 7 pendaftaran NPRA bagi ubat ini.
+| MAL26086293HA | Mitex ear drops and cutaneous suspension for dogs and cats | Kombinasi | Gladron Chemicals Sdn Bhd | Sah |
 
 <!-- licenses:end -->
 
-Nota: Semua 7 lesen sah. Lesen kombinasi (Surolan dan Chanear) tidak boleh digunakan untuk menggambarkan kelulusan bahan tunggal.
+Nota: Semua 6 lesen sah. Lesen kombinasi (Surolan dan Chanear) tidak boleh digunakan untuk menggambarkan kelulusan bahan tunggal.
 
 ## Pertimbangan Keselamatan
 

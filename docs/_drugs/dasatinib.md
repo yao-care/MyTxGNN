@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 256
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Dasatinib"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
 description: "Dasatinib: indikasi baharu diramal Sarkoma Ewing (Ewing sarcoma) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -103,6 +103,17 @@ Dasatinib ialah ubat antineoplastik, dan bahagian ini diberikan sewajarnya.
 | Klasifikasi Emetogenisiti | Rendah (anggaran berdasarkan kategori ubat) |
 | Item Pemantauan | Kiraan darah lengkap (CBC) dengan pembezaan, fungsi hati dan buah pinggang, elektrolit. Pantau juga efusi pleura dan kilotoraks, yang dilaporkan dalam literatur. |
 | Perlindungan Pengendalian | Ikuti garis panduan pengendalian ubat berbahaya/sitotoksik. Sila rujuk sisipan pakej. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24026019ACZ | TAZATRED (Dasatinib Film-Coated Tablets 50mg) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL24026020ACZ | TAZATRED (Dasatinib Film-Coated Tablets 70mg) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

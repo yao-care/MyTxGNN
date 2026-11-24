@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 566
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-24
 monitor_inn: "PERINDOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 description: "Perindopril: indikasi baharu diramal Penyakit renal hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 43 (sah: 38)"
@@ -90,6 +90,22 @@ Satu penerbitan diperoleh untuk indikasi utama, tetapi tidak relevan secara lang
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
 | [36382821](https://pubmed.ncbi.nlm.nih.gov/36382821/) | 2022 | Kohort/pemerhatian klinikal | Urologiia (Moscow) | Keadaan fungsi buah pinggang tunggal selepas nefrektomi untuk kanser renal; tidak berkaitan dengan nefropati hipertensif malignan |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL04103441AZ | Perinace Tablet 4 mg | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL04125486AZ | PROVINACE TABLET 4 MG | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+| MAL06041482AZ | COVINACE 4 MG TABLET | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL10080061ACZ | COVAPRIL TABLET 4MG | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL11010008AZ | Perindosyl 4mg Tablets | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 43 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 609
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PYRAZINAMIDE"
 predicted_indications: ["infectious otitis media", "middle ear disease", "otosalpingitis", "chronic otitis media", "suppurative otitis media", "non-suppurative otitis media", "middle ear cholesterol granuloma", "allergic otitis media", "Lyme disease", "infectious otitis interna"]
 description: "Pyrazinamide: indikasi baharu diramal Otitis media berjangkit (infectious otitis media) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
@@ -87,6 +87,20 @@ Tiada literatur yang berkaitan secara langsung dengan otitis media berjangkit (r
 | [21439219](https://pubmed.ncbi.nlm.nih.gov/21439219/) | 2011 | Kajian haiwan (tikus) | J Am Assoc Lab Anim Sci | Tortikolis pada tikus yang dijangkiti *M. tuberculosis*, termasuk kumpulan yang menerima terapi gabungan dengan pyrazinamide |
 
 Catatan: semua bukti di atas berkaitan otitis tuberkulosis yang sudah berada dalam indikasi TB sedia ada, bukan otitis media berjangkit secara umum.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19920525AZ | PHARMANIAGA PYRAZINAMIDE TABLET 500MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL24026005AE | AFT-Pyrazinamide Tablet 500mg | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL07050004AZ | FORECOX-TRAC FILM COATED TABLET | Kombinasi | ZULAT PHARMACY SDN. BHD. | Sah |
+| MAL20051429AZ | AkuriT-4 TABLET | Kombinasi | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL25056006ACZ | RHZ Kid DT (Rifampicin 75 mg, Isoniazid 50 mg and Pyrazinamide 150 mg Dispersible Tablets) | Kombinasi | Macleods Pharmaceuticals Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

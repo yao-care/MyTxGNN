@@ -83,6 +83,16 @@ Buat masa ini tiada literatur berkaitan.
 
 Indikasi kedua yang diramalkan ialah **retinopati diabetes bukan proliferatif yang teruk** (skor TxGNN 0.9905, tahap bukti L5, keputusan Hold). Seperti indikasi pertama, tiada percubaan klinikal atau literatur menyokongnya. Isyarat EGFR dikaitkan dengan proses vaskular dan keradangan retina serta interaksi dengan isyarat VEGF, tetapi panitumumab ialah antibodi IgG2 besar yang diberi secara sistemik, dan penembusan okular serta keselamatan retinanya pada pesakit diabetes belum dibuktikan. Terapi anti-EGFR juga menyebabkan ketoksikan mata seperti blefaritis, trikomegali dan keratitis. Rawatan sedia ada (anti-VEGF, laser, kortikosteroid) pun sudah wujud.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13075067ACZ | Vectibix 100mg Concentrate for Solution for Infusion | Bahan tunggal | Amgen Biopharmaceuticals Malaysia Sdn Bhd | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

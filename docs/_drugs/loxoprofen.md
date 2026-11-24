@@ -70,6 +70,16 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 Pada masa ini tiada literatur berkaitan tersedia.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20046063ARZ | LOXOTOP PAP 100mg Patch | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ## Keselamatan
 
 Sila rujuk risalah maklumat produk (package insert) untuk maklumat keselamatan.

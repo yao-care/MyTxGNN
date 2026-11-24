@@ -84,6 +84,22 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 Pada masa ini tiada literatur berkaitan tersedia.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL10033194AZ | LATANDROPS 0.005%W/V EYE DROPS | Bahan tunggal | MMS PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL14055152AZ | IOPROST Latanoprost Eye Drops Solution 0.005% w/v | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL15025038ACZ | Avetaprost 0.005% w/v Eye Drop | Bahan tunggal | APEX PHARMACY MARKETING SDN. BHD. | Sah |
+| MAL17015025ACZ | PROSDROP 0.05mg/ml EYE DROPS, SOLUTION | Bahan tunggal | LOTUS HEALTHCARE MALAYSIA SDN. BHD. | Sah |
+| MAL17075029ACZ | Xalaprost 0.005%w/v Eye Drops | Bahan tunggal | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 17 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ## Keselamatan
 
 - **Penyakit yang dikaitkan dengan kontraindikasi (berdasarkan graf pengetahuan, bukan teks label)**: uveitis, penyakit iris, penyakit badan silia, panuveitis, edema makula retina, edema makula sistoid, iritis, konjunktivitis, konjunktivitis berjangkit akut.

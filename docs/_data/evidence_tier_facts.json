@@ -148,8 +148,8 @@
     "u": "/drugs/citalopram/",
     "l": "L2",
     "i": "Gangguan Obsesif-Kompulsif",
-    "lt": 27,
-    "lv": 26,
+    "lt": 2,
+    "lv": 2,
     "r": 2,
     "rs": "Dipadam: \"Data yang dikumpulkan merekodkan 27 lesen sah dan tiada yang dibatalkan, jadi status pasaran ialah…",
     "x": 0
@@ -368,8 +368,8 @@
     "u": "/drugs/prednisolone/",
     "l": "L2",
     "i": "alopecia areata",
-    "lt": 40,
-    "lv": 40,
+    "lt": 33,
+    "lv": 33,
     "r": 2,
     "rs": "Bilangan pendaftaran: “Senarai di bawah ialah sebahagian daripada 38 pendaftaran.” → “Senarai di bawah ialah…",
     "x": 0
@@ -874,8 +874,8 @@
     "u": "/drugs/phenylalanine/",
     "l": "L4",
     "i": "Kolangitis sklerosis",
-    "lt": 38,
-    "lv": 34,
+    "lt": 37,
+    "lv": 33,
     "r": 0,
     "rs": "",
     "x": 0
@@ -907,10 +907,10 @@
     "u": "/drugs/progesterone/",
     "l": "L4",
     "i": "Penyakit fibrosistik payudara",
-    "lt": 15,
-    "lv": 15,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "lt": 7,
+    "lv": 7,
+    "r": 2,
+    "rs": "Dibetulkan: \"Terdapat 15 lesen kesemuanya, dan semuanya sah (14 produk bahan tunggal dan 1 produk gabungan).\"",
     "x": 0
    },
    {
@@ -929,8 +929,8 @@
     "u": "/drugs/streptomycin/",
     "l": "L4",
     "i": "Konjunktivitis",
-    "lt": 5,
-    "lv": 5,
+    "lt": 2,
+    "lv": 2,
     "r": 0,
     "rs": "",
     "x": 0
@@ -951,8 +951,8 @@
     "u": "/drugs/valine/",
     "l": "L4",
     "i": "Kolangitis sklerosis",
-    "lt": 49,
-    "lv": 43,
+    "lt": 48,
+    "lv": 42,
     "r": 2,
     "rs": "Dipadam: \"dan tiada pendaftaran tempatan\"",
     "x": 0
@@ -1038,8 +1038,8 @@
     "u": "/drugs/folic-acid/",
     "l": "L5",
     "i": "biotin metabolic disease",
-    "lt": 540,
-    "lv": 527,
+    "lt": 530,
+    "lv": 519,
     "r": 1,
     "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
@@ -1078,17 +1078,6 @@
     "x": 0
    },
    {
-    "t": "Camphor",
-    "u": "/drugs/camphor/",
-    "l": "L5",
-    "i": "Gangguan migrain",
-    "lt": 298,
-    "lv": 289,
-    "r": 1,
-    "rs": "Dipadam: \"dan produk ini tidak mempunyai pendaftaran di Malaysia\"",
-    "x": 0
-   },
-   {
     "t": "Vitamin E",
     "u": "/drugs/vitamin-e/",
     "l": "L5",
@@ -1100,14 +1089,14 @@
     "x": 0
    },
    {
-    "t": "Glycine",
-    "u": "/drugs/glycine/",
+    "t": "Camphor",
+    "u": "/drugs/camphor/",
     "l": "L5",
-    "i": "nasal cavity disease",
-    "lt": 213,
-    "lv": 205,
+    "i": "Gangguan migrain",
+    "lt": 227,
+    "lv": 219,
     "r": 1,
-    "rs": "Dipadam: \"Data yang dihimpun menunjukkan 209 pendaftaran sah, dan senarai ini lengkap\"",
+    "rs": "Dipadam: \"dan produk ini tidak mempunyai pendaftaran di Malaysia\"",
     "x": 0
    },
    {
@@ -1115,7 +1104,7 @@
     "u": "/drugs/vitamin-a/",
     "l": "L5",
     "i": "congenital prothrombin deficiency",
-    "lt": 177,
+    "lt": 176,
     "lv": 166,
     "r": 0,
     "rs": "",
@@ -1141,28 +1130,6 @@
     "lv": 146,
     "r": 2,
     "rs": "Dipadam: \"dan produk ini tidak berdaftar di Malaysia\"",
-    "x": 0
-   },
-   {
-    "t": "Ofloxacin",
-    "u": "/drugs/ofloxacin/",
-    "l": "L5",
-    "i": "Sindrom hiperkelikatan poliklonal",
-    "lt": 148,
-    "lv": 143,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
-    "x": 0
-   },
-   {
-    "t": "Methionine",
-    "u": "/drugs/methionine/",
-    "l": "L5",
-    "i": "acne (disease)",
-    "lt": 142,
-    "lv": 131,
-    "r": 1,
-    "rs": "Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi).” → “Pendaftaran…",
     "x": 0
    },
    {
@@ -1225,8 +1192,8 @@
     "u": "/drugs/iron/",
     "l": "L5",
     "i": "vitamin B12- and folate-independent constitutional megaloblastic anemia",
-    "lt": 80,
-    "lv": 79,
+    "lt": 79,
+    "lv": 78,
     "r": 2,
     "rs": "Bilangan pendaftaran: “Sebanyak 80 lesen direkodkan, kesemuanya sah (30 produk bahan tunggal ” → “Lesen yang…",
     "x": 0
@@ -1238,17 +1205,6 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 70,
     "lv": 70,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
-    "x": 0
-   },
-   {
-    "t": "Salicylic Acid",
-    "u": "/drugs/salicylic-acid/",
-    "l": "L5",
-    "i": "Konjunktivitis papilari",
-    "lt": 71,
-    "lv": 69,
     "r": 1,
     "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
@@ -1320,17 +1276,6 @@
     "x": 0
    },
    {
-    "t": "Serine",
-    "u": "/drugs/serine/",
-    "l": "L5",
-    "i": "Miopati visera familial",
-    "lt": 55,
-    "lv": 51,
-    "r": 2,
-    "rs": "Dipadam: \"(tiada pendaftaran buat masa ini)\"",
-    "x": 0
-   },
-   {
     "t": "Simvastatin",
     "u": "/drugs/simvastatin/",
     "l": "L5",
@@ -1353,6 +1298,17 @@
     "x": 0
    },
    {
+    "t": "Methionine",
+    "u": "/drugs/methionine/",
+    "l": "L5",
+    "i": "acne (disease)",
+    "lt": 55,
+    "lv": 48,
+    "r": 2,
+    "rs": "Dibetulkan: \"Senarai produk bahan tunggal (SAM-e dan selenium; perhatian: bahan aktif tepat perlu disahkan):\"",
+    "x": 0
+   },
+   {
     "t": "Rivaroxaban",
     "u": "/drugs/rivaroxaban/",
     "l": "L5",
@@ -1364,14 +1320,25 @@
     "x": 0
    },
    {
-    "t": "Acyclovir",
-    "u": "/drugs/acyclovir/",
+    "t": "Salicylic Acid",
+    "u": "/drugs/salicylic-acid/",
     "l": "L5",
-    "i": "Keratokonjunktivitis epitelium punktat",
-    "lt": 46,
-    "lv": 46,
+    "i": "Konjunktivitis papilari",
+    "lt": 47,
+    "lv": 47,
     "r": 1,
     "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "x": 0
+   },
+   {
+    "t": "Glycine",
+    "u": "/drugs/glycine/",
+    "l": "L5",
+    "i": "nasal cavity disease",
+    "lt": 50,
+    "lv": 46,
+    "r": 1,
+    "rs": "Dipadam: \"Data yang dihimpun menunjukkan 209 pendaftaran sah, dan senarai ini lengkap\"",
     "x": 0
    },
    {
@@ -1394,17 +1361,6 @@
     "lv": 46,
     "r": 1,
     "rs": "Bilangan pendaftaran: “Daripada 41 pendaftaran NPRA, hanya 1 ialah produk bahan tunggal.” → “Kebanyakan…",
-    "x": 0
-   },
-   {
-    "t": "Omeprazole",
-    "u": "/drugs/omeprazole/",
-    "l": "L5",
-    "i": "duodenal obstruction",
-    "lt": 46,
-    "lv": 46,
-    "r": 2,
-    "rs": "Bilangan pendaftaran: “Di bawah ialah sebahagian daripada 45 pendaftaran” → “Di bawah ialah sebahagian…",
     "x": 0
    },
    {
@@ -1441,6 +1397,17 @@
     "x": 0
    },
    {
+    "t": "Acyclovir",
+    "u": "/drugs/acyclovir/",
+    "l": "L5",
+    "i": "Keratokonjunktivitis epitelium punktat",
+    "lt": 44,
+    "lv": 44,
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "x": 0
+   },
+   {
     "t": "Azithromycin",
     "u": "/drugs/azithromycin/",
     "l": "L5",
@@ -1463,17 +1430,6 @@
     "x": 0
    },
    {
-    "t": "Isoleucine",
-    "u": "/drugs/isoleucine/",
-    "l": "L5",
-    "i": "gastroparesis (disease)",
-    "lt": 49,
-    "lv": 43,
-    "r": 2,
-    "rs": "Dipadam: \"tidak berdaftar di Malaysia dan\"",
-    "x": 0
-   },
-   {
     "t": "Levetiracetam",
     "u": "/drugs/levetiracetam/",
     "l": "L5",
@@ -1493,6 +1449,17 @@
     "lv": 42,
     "r": 2,
     "rs": "Bilangan pendaftaran: “27 pendaftaran lain ialah produk kombinasi” → “pendaftaran lain ialah produk kombinasi”",
+    "x": 0
+   },
+   {
+    "t": "Isoleucine",
+    "u": "/drugs/isoleucine/",
+    "l": "L5",
+    "i": "gastroparesis (disease)",
+    "lt": 48,
+    "lv": 42,
+    "r": 2,
+    "rs": "Dipadam: \"tidak berdaftar di Malaysia dan\"",
     "x": 0
    },
    {
@@ -1584,17 +1551,6 @@
     "x": 0
    },
    {
-    "t": "Sodium Citrate",
-    "u": "/drugs/sodium-citrate/",
-    "l": "L5",
-    "i": "papillary conjunctivitis",
-    "lt": 37,
-    "lv": 37,
-    "r": 1,
-    "rs": "Bilangan pendaftaran: “sebahagian daripada 36 pendaftaran yang sah” → “sebahagian daripada pendaftaran yang…",
-    "x": 0
-   },
-   {
     "t": "Diphenhydramine Hcl",
     "u": "/drugs/diphenhydramine-hcl/",
     "l": "L5",
@@ -1606,14 +1562,14 @@
     "x": 0
    },
    {
-    "t": "Benzoic Acid",
-    "u": "/drugs/benzoic-acid/",
+    "t": "Sodium Citrate",
+    "u": "/drugs/sodium-citrate/",
     "l": "L5",
-    "i": "bronchitis",
+    "i": "papillary conjunctivitis",
     "lt": 36,
-    "lv": 35,
+    "lv": 36,
     "r": 1,
-    "rs": "Dipadam: \"Terdapat 36 lesen sah (1 bahan tunggal, 35 kombinasi)\"",
+    "rs": "Bilangan pendaftaran: “sebahagian daripada 36 pendaftaran yang sah” → “sebahagian daripada pendaftaran yang…",
     "x": 0
    },
    {
@@ -1621,21 +1577,10 @@
     "u": "/drugs/budesonide/",
     "l": "L5",
     "i": "Ekzema atopik",
-    "lt": 35,
-    "lv": 35,
+    "lt": 34,
+    "lv": 34,
     "r": 2,
     "rs": "Bilangan pendaftaran: “Terdapat 34 lesen, semuanya sah (25 produk bahan tunggal dan 9 produk ” → “Lesen yang…",
-    "x": 0
-   },
-   {
-    "t": "Desonide",
-    "u": "/drugs/desonide/",
-    "l": "L5",
-    "i": "polyp of vocal cord",
-    "lt": 35,
-    "lv": 35,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -1694,17 +1639,6 @@
     "x": 0
    },
    {
-    "t": "Alanine",
-    "u": "/drugs/alanine/",
-    "l": "L5",
-    "i": "Gastroparesis",
-    "lt": 36,
-    "lv": 32,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
     "t": "Bisoprolol Fumarate",
     "u": "/drugs/bisoprolol-fumarate/",
     "l": "L5",
@@ -1746,17 +1680,6 @@
     "lv": 30,
     "r": 3,
     "rs": "Dipadam: \"Butiran setiap lesen tidak disenaraikan dalam data yang ada.\"",
-    "x": 0
-   },
-   {
-    "t": "Phenol",
-    "u": "/drugs/phenol/",
-    "l": "L5",
-    "i": "acrodermatitis chronica atrophicans",
-    "lt": 30,
-    "lv": 30,
-    "r": 0,
-    "rs": "",
     "x": 0
    },
    {
@@ -1856,6 +1779,28 @@
     "lv": 28,
     "r": 1,
     "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "x": 0
+   },
+   {
+    "t": "Serine",
+    "u": "/drugs/serine/",
+    "l": "L5",
+    "i": "Miopati visera familial",
+    "lt": 32,
+    "lv": 28,
+    "r": 2,
+    "rs": "Dipadam: \"(tiada pendaftaran buat masa ini)\"",
+    "x": 0
+   },
+   {
+    "t": "Alanine",
+    "u": "/drugs/alanine/",
+    "l": "L5",
+    "i": "Gastroparesis",
+    "lt": 31,
+    "lv": 27,
+    "r": 0,
+    "rs": "",
     "x": 0
    },
    {
@@ -2021,6 +1966,17 @@
     "lv": 22,
     "r": 1,
     "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "x": 0
+   },
+   {
+    "t": "Omeprazole",
+    "u": "/drugs/omeprazole/",
+    "l": "L5",
+    "i": "duodenal obstruction",
+    "lt": 22,
+    "lv": 22,
+    "r": 2,
+    "rs": "Bilangan pendaftaran: “Di bawah ialah sebahagian daripada 45 pendaftaran” → “Di bawah ialah sebahagian…",
     "x": 0
    },
    {
@@ -2442,17 +2398,6 @@
     "x": 0
    },
    {
-    "t": "Epinephrine",
-    "u": "/drugs/epinephrine/",
-    "l": "L5",
-    "i": "Penyakit paru-paru obstruktif",
-    "lt": 15,
-    "lv": 15,
-    "r": 1,
-    "rs": "\"Perlu diingatkan bahawa data mekanisme tindakan (MOA) asal tidak tersedia dalam data yang dikumpulkan.…",
-    "x": 0
-   },
-   {
     "t": "Famotidine",
     "u": "/drugs/famotidine/",
     "l": "L5",
@@ -2468,17 +2413,6 @@
     "u": "/drugs/insulin-glargine/",
     "l": "L5",
     "i": "autoimmune oophoritis",
-    "lt": 15,
-    "lv": 15,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
-    "x": 0
-   },
-   {
-    "t": "Ketoprofen",
-    "u": "/drugs/ketoprofen/",
-    "l": "L5",
-    "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 15,
     "lv": 15,
     "r": 1,
@@ -2585,6 +2519,17 @@
     "x": 0
    },
    {
+    "t": "Ofloxacin",
+    "u": "/drugs/ofloxacin/",
+    "l": "L5",
+    "i": "Sindrom hiperkelikatan poliklonal",
+    "lt": 15,
+    "lv": 14,
+    "r": 2,
+    "rs": "Dipadam: \"Senarai penuh pendaftaran juga mengandungi produk fluoroquinolone lain dan produk veterinar, jadi…",
+    "x": 0
+   },
+   {
     "t": "Olmesartan",
     "u": "/drugs/olmesartan/",
     "l": "L5",
@@ -2593,17 +2538,6 @@
     "lv": 14,
     "r": 1,
     "rs": "Dipadam: \"Olmesartan juga tidak mempunyai pendaftaran di Malaysia\"",
-    "x": 0
-   },
-   {
-    "t": "Trastuzumab",
-    "u": "/drugs/trastuzumab/",
-    "l": "L5",
-    "i": "malignant cutaneous granular cell skin tumor",
-    "lt": 14,
-    "lv": 14,
-    "r": 2,
-    "rs": "Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan pendaftaran yang sah; bilangan…",
     "x": 0
    },
    {
@@ -2668,6 +2602,17 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 13,
     "lv": 13,
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "x": 0
+   },
+   {
+    "t": "Ketoprofen",
+    "u": "/drugs/ketoprofen/",
+    "l": "L5",
+    "i": "acromesomelic dysplasia, Hunter-Thompson type",
+    "lt": 12,
+    "lv": 12,
     "r": 1,
     "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
@@ -2761,17 +2706,6 @@
     "x": 0
    },
    {
-    "t": "Tretinoin",
-    "u": "/drugs/tretinoin/",
-    "l": "L5",
-    "i": "rheumatoid nodulosis",
-    "lt": 12,
-    "lv": 12,
-    "r": 2,
-    "rs": "Dipadam: \"dan tretinoin tidak berdaftar di Malaysia\"",
-    "x": 0
-   },
-   {
     "t": "Allopurinol",
     "u": "/drugs/allopurinol/",
     "l": "L5",
@@ -2816,6 +2750,28 @@
     "x": 0
    },
    {
+    "t": "Epinephrine",
+    "u": "/drugs/epinephrine/",
+    "l": "L5",
+    "i": "Penyakit paru-paru obstruktif",
+    "lt": 11,
+    "lv": 11,
+    "r": 1,
+    "rs": "\"Perlu diingatkan bahawa data mekanisme tindakan (MOA) asal tidak tersedia dalam data yang dikumpulkan.…",
+    "x": 0
+   },
+   {
+    "t": "Trastuzumab",
+    "u": "/drugs/trastuzumab/",
+    "l": "L5",
+    "i": "malignant cutaneous granular cell skin tumor",
+    "lt": 11,
+    "lv": 11,
+    "r": 2,
+    "rs": "Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan pendaftaran yang sah; bilangan…",
+    "x": 0
+   },
+   {
     "t": "Adalimumab",
     "u": "/drugs/adalimumab/",
     "l": "L5",
@@ -2827,14 +2783,14 @@
     "x": 0
    },
    {
-    "t": "Atracurium Besylate",
-    "u": "/drugs/atracurium-besylate/",
+    "t": "Benzoic Acid",
+    "u": "/drugs/benzoic-acid/",
     "l": "L5",
-    "i": "Preeklampsia",
+    "i": "bronchitis",
     "lt": 10,
     "lv": 10,
     "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "rs": "Dipadam: \"Terdapat 36 lesen sah (1 bahan tunggal, 35 kombinasi)\"",
     "x": 0
    },
    {
@@ -2860,17 +2816,6 @@
     "x": 0
    },
    {
-    "t": "Filgrastim",
-    "u": "/drugs/filgrastim/",
-    "l": "L5",
-    "i": "primary release disorder of platelets",
-    "lt": 10,
-    "lv": 10,
-    "r": 2,
-    "rs": "Dipadam: \"(kini tiada lesen direkodkan)\"",
-    "x": 0
-   },
-   {
     "t": "Gefitinib",
     "u": "/drugs/gefitinib/",
     "l": "L5",
@@ -2890,17 +2835,6 @@
     "lv": 10,
     "r": 1,
     "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
-    "x": 0
-   },
-   {
-    "t": "Glycerin",
-    "u": "/drugs/glycerin/",
-    "l": "L5",
-    "i": "Sindrom cauda equina",
-    "lt": 12,
-    "lv": 10,
-    "r": 0,
-    "rs": "",
     "x": 0
    },
    {
@@ -2959,17 +2893,6 @@
     "x": 0
    },
    {
-    "t": "Ethanol",
-    "u": "/drugs/ethanol/",
-    "l": "L5",
-    "i": "Gangguan migrain",
-    "lt": 10,
-    "lv": 9,
-    "r": 2,
-    "rs": "Dipadam: \"Etanol juga tidak berdaftar di Malaysia, maka tahap bukti ialah L5\"",
-    "x": 0
-   },
-   {
     "t": "Levothyroxine Sodium",
     "u": "/drugs/levothyroxine-sodium/",
     "l": "L5",
@@ -3000,17 +2923,6 @@
     "lv": 8,
     "r": 2,
     "rs": "Dipadam: \"Butiran lesen individu tidak disenaraikan dalam data yang dikumpulkan untuk laporan ini.\"",
-    "x": 0
-   },
-   {
-    "t": "Aprepitant",
-    "u": "/drugs/aprepitant/",
-    "l": "L5",
-    "i": "Sindrom antidiuresis tidak wajar nefrogenik",
-    "lt": 8,
-    "lv": 8,
-    "r": 2,
-    "rs": "Dipadam: \"Butiran lesen individu tidak disenaraikan dalam data yang dihimpunkan.\"",
     "x": 0
    },
    {
@@ -3212,6 +3124,17 @@
     "x": 0
    },
    {
+    "t": "Glycerin",
+    "u": "/drugs/glycerin/",
+    "l": "L5",
+    "i": "Sindrom cauda equina",
+    "lt": 9,
+    "lv": 7,
+    "r": 0,
+    "rs": "",
+    "x": 0
+   },
+   {
     "t": "Isoniazid",
     "u": "/drugs/isoniazid/",
     "l": "L5",
@@ -3311,28 +3234,6 @@
     "x": 0
    },
    {
-    "t": "Prednisolone Acetate",
-    "u": "/drugs/prednisolone-acetate/",
-    "l": "L5",
-    "i": "serous conjunctivitis except viral",
-    "lt": 7,
-    "lv": 7,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
-    "x": 0
-   },
-   {
-    "t": "Turoctocog Alfa",
-    "u": "/drugs/turoctocog-alfa/",
-    "l": "L5",
-    "i": "Gangguan pelepasan primer platelet",
-    "lt": 7,
-    "lv": 7,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
-    "x": 0
-   },
-   {
     "t": "Vancomycin",
     "u": "/drugs/vancomycin/",
     "l": "L5",
@@ -3374,6 +3275,28 @@
     "lv": 6,
     "r": 0,
     "rs": "",
+    "x": 0
+   },
+   {
+    "t": "Aprepitant",
+    "u": "/drugs/aprepitant/",
+    "l": "L5",
+    "i": "Sindrom antidiuresis tidak wajar nefrogenik",
+    "lt": 6,
+    "lv": 6,
+    "r": 2,
+    "rs": "Dipadam: \"Butiran lesen individu tidak disenaraikan dalam data yang dihimpunkan.\"",
+    "x": 0
+   },
+   {
+    "t": "Atracurium Besylate",
+    "u": "/drugs/atracurium-besylate/",
+    "l": "L5",
+    "i": "Preeklampsia",
+    "lt": 6,
+    "lv": 6,
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
     "x": 0
    },
    {
@@ -3454,6 +3377,28 @@
     "x": 0
    },
    {
+    "t": "Ethanol",
+    "u": "/drugs/ethanol/",
+    "l": "L5",
+    "i": "Gangguan migrain",
+    "lt": 7,
+    "lv": 6,
+    "r": 2,
+    "rs": "Dipadam: \"Etanol juga tidak berdaftar di Malaysia, maka tahap bukti ialah L5\"",
+    "x": 0
+   },
+   {
+    "t": "Filgrastim",
+    "u": "/drugs/filgrastim/",
+    "l": "L5",
+    "i": "primary release disorder of platelets",
+    "lt": 6,
+    "lv": 6,
+    "r": 2,
+    "rs": "Dipadam: \"(kini tiada lesen direkodkan)\"",
+    "x": 0
+   },
+   {
     "t": "Fluvoxamine",
     "u": "/drugs/fluvoxamine/",
     "l": "L5",
@@ -3495,17 +3440,6 @@
     "lv": 6,
     "r": 2,
     "rs": "Dipadam: \"kerana iohexol tidak mempunyai lesen berdaftar dalam data yang dikumpulkan\"",
-    "x": 0
-   },
-   {
-    "t": "Lansoprazole",
-    "u": "/drugs/lansoprazole/",
-    "l": "L5",
-    "i": "duodenal obstruction",
-    "lt": 6,
-    "lv": 6,
-    "r": 2,
-    "rs": "Dipadam: \"Lansoprazole tidak berdaftar di Malaysia (0 pendaftaran), maka tiada laluan pasaran tempatan sedia…",
     "x": 0
    },
    {
@@ -3575,6 +3509,17 @@
     "x": 0
    },
    {
+    "t": "Prednisolone Acetate",
+    "u": "/drugs/prednisolone-acetate/",
+    "l": "L5",
+    "i": "serous conjunctivitis except viral",
+    "lt": 6,
+    "lv": 6,
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "x": 0
+   },
+   {
     "t": "Prochlorperazine",
     "u": "/drugs/prochlorperazine/",
     "l": "L5",
@@ -3583,17 +3528,6 @@
     "lv": 6,
     "r": 1,
     "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
-    "x": 0
-   },
-   {
-    "t": "Resorcinol",
-    "u": "/drugs/resorcinol/",
-    "l": "L5",
-    "i": "acne keloid",
-    "lt": 6,
-    "lv": 6,
-    "r": 0,
-    "rs": "",
     "x": 0
    },
    {
@@ -3689,17 +3623,6 @@
     "u": "/drugs/felodipine/",
     "l": "L5",
     "i": "pulmonary hypertension with unclear multifactorial mechanism",
-    "lt": 5,
-    "lv": 5,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
-    "x": 0
-   },
-   {
-    "t": "Flurbiprofen",
-    "u": "/drugs/flurbiprofen/",
-    "l": "L5",
-    "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 5,
     "lv": 5,
     "r": 1,
@@ -4070,6 +3993,17 @@
     "x": 0
    },
    {
+    "t": "Flurbiprofen",
+    "u": "/drugs/flurbiprofen/",
+    "l": "L5",
+    "i": "acromesomelic dysplasia, Hunter-Thompson type",
+    "lt": 4,
+    "lv": 4,
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "x": 0
+   },
+   {
     "t": "Fluticasone Furoate",
     "u": "/drugs/fluticasone-furoate/",
     "l": "L5",
@@ -4089,6 +4023,17 @@
     "lv": 4,
     "r": 1,
     "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "x": 0
+   },
+   {
+    "t": "Lansoprazole",
+    "u": "/drugs/lansoprazole/",
+    "l": "L5",
+    "i": "duodenal obstruction",
+    "lt": 4,
+    "lv": 4,
+    "r": 2,
+    "rs": "Dipadam: \"Lansoprazole tidak berdaftar di Malaysia (0 pendaftaran), maka tiada laluan pasaran tempatan sedia…",
     "x": 0
    },
    {
@@ -4147,6 +4092,17 @@
     "x": 0
    },
    {
+    "t": "Phenol",
+    "u": "/drugs/phenol/",
+    "l": "L5",
+    "i": "acrodermatitis chronica atrophicans",
+    "lt": 4,
+    "lv": 4,
+    "r": 0,
+    "rs": "",
+    "x": 0
+   },
+   {
     "t": "Plerixafor",
     "u": "/drugs/plerixafor/",
     "l": "L5",
@@ -4202,6 +4158,17 @@
     "x": 0
    },
    {
+    "t": "Tretinoin",
+    "u": "/drugs/tretinoin/",
+    "l": "L5",
+    "i": "rheumatoid nodulosis",
+    "lt": 4,
+    "lv": 4,
+    "r": 2,
+    "rs": "Dipadam: \"dan tretinoin tidak berdaftar di Malaysia\"",
+    "x": 0
+   },
+   {
     "t": "Turoctocog Alfa Pegol",
     "u": "/drugs/turoctocog-alfa-pegol/",
     "l": "L5",
@@ -4210,17 +4177,6 @@
     "lv": 4,
     "r": 0,
     "rs": "",
-    "x": 0
-   },
-   {
-    "t": "Uracil",
-    "u": "/drugs/uracil/",
-    "l": "L5",
-    "i": "Lipoma kolon",
-    "lt": 5,
-    "lv": 4,
-    "r": 1,
-    "rs": "Dipadam: \"Data yang disusun untuk laporan ini menunjukkan status pasaran \"Dipasarkan\", dengan 5 lesen yang…",
     "x": 0
    },
    {
@@ -4438,17 +4394,6 @@
     "l": "L5",
     "i": "Osteoartritis",
     "lt": 4,
-    "lv": 3,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
-    "x": 0
-   },
-   {
-    "t": "Daunorubicin",
-    "u": "/drugs/daunorubicin/",
-    "l": "L5",
-    "i": "Hodgkins lymphoma",
-    "lt": 3,
     "lv": 3,
     "r": 1,
     "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
@@ -4723,6 +4668,17 @@
     "u": "/drugs/tobramycin/",
     "l": "L5",
     "i": "Keratitis pendedahan",
+    "lt": 3,
+    "lv": 3,
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "x": 0
+   },
+   {
+    "t": "Turoctocog Alfa",
+    "u": "/drugs/turoctocog-alfa/",
+    "l": "L5",
+    "i": "Gangguan pelepasan primer platelet",
     "lt": 3,
     "lv": 3,
     "r": 1,
@@ -5027,6 +4983,17 @@
     "x": 0
    },
    {
+    "t": "Daunorubicin",
+    "u": "/drugs/daunorubicin/",
+    "l": "L5",
+    "i": "Hodgkins lymphoma",
+    "lt": 2,
+    "lv": 2,
+    "r": 1,
+    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "x": 0
+   },
+   {
     "t": "Degarelix",
     "u": "/drugs/degarelix/",
     "l": "L5",
@@ -5090,17 +5057,6 @@
     "lv": 2,
     "r": 1,
     "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
-    "x": 0
-   },
-   {
-    "t": "Ergometrine",
-    "u": "/drugs/ergometrine/",
-    "l": "L5",
-    "i": "Hipertrikosis",
-    "lt": 2,
-    "lv": 2,
-    "r": 0,
-    "rs": "",
     "x": 0
    },
    {
@@ -5486,6 +5442,17 @@
     "lv": 2,
     "r": 1,
     "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "x": 0
+   },
+   {
+    "t": "Resorcinol",
+    "u": "/drugs/resorcinol/",
+    "l": "L5",
+    "i": "acne keloid",
+    "lt": 2,
+    "lv": 2,
+    "r": 0,
+    "rs": "",
     "x": 0
    },
    {
@@ -5918,6 +5885,17 @@
     "x": 0
    },
    {
+    "t": "Desonide",
+    "u": "/drugs/desonide/",
+    "l": "L5",
+    "i": "polyp of vocal cord",
+    "lt": 1,
+    "lv": 1,
+    "r": 2,
+    "rs": "Dipadam: \"Banyak nama produk dalam senarai ini menunjukkan bahan aktif lain (contohnya produk berjenama…",
+    "x": 0
+   },
+   {
     "t": "Docusate Sodium",
     "u": "/drugs/docusate-sodium/",
     "l": "L5",
@@ -5981,6 +5959,17 @@
     "lv": 1,
     "r": 1,
     "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "x": 0
+   },
+   {
+    "t": "Ergometrine",
+    "u": "/drugs/ergometrine/",
+    "l": "L5",
+    "i": "Hipertrikosis",
+    "lt": 1,
+    "lv": 1,
+    "r": 0,
+    "rs": "",
     "x": 0
    },
    {
@@ -6696,6 +6685,17 @@
     "lv": 1,
     "r": 1,
     "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "x": 0
+   },
+   {
+    "t": "Uracil",
+    "u": "/drugs/uracil/",
+    "l": "L5",
+    "i": "Lipoma kolon",
+    "lt": 1,
+    "lv": 1,
+    "r": 1,
+    "rs": "Dipadam: \"Data yang disusun untuk laporan ini menunjukkan status pasaran \"Dipasarkan\", dengan 5 lesen yang…",
     "x": 0
    },
    {

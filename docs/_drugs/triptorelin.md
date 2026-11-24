@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 704
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Triptorelin"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "familial male-limited precocious puberty", "familial isolated trichomegaly", "aromatase excess syndrome"]
 description: "Triptorelin: indikasi baharu diramal Hipertrikosis (hypertrichosis (disease)) (tahap bukti L4)."
@@ -66,6 +66,22 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
 | [41822646](https://pubmed.ncbi.nlm.nih.gov/41822646/) | 2026 | Laporan kes | Cureus | Wanita transgender berusia 25 tahun dengan psoriasis plak teruk mengalami hipertrikosis umum selepas memulakan siklosporin, sambil mengambil estradiol dan triptorelin. Hipertrikosis disebabkan oleh siklosporin, bukan dirawat oleh triptorelin. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13035045AZ | DIPHERELINE P.R. POWDER AND SOLVENT FOR SUSPENSION FOR INJECTION 11.25 mg/vial | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL16025032ARZ | Pamorelin Powder for Suspension for Injection 3.75 mg | Bahan tunggal | Orient Europharma (M) Sdn Bhd | Sah |
+| MAL18116082ARZ | Pamorelin 11.25 mg powder for suspension for injection. | Bahan tunggal | Orient Europharma (M) Sdn Bhd | Sah |
+| MAL18116083ARZ | Pamorelin 22.5 mg powder for suspension for injection. | Bahan tunggal | Orient Europharma (M) Sdn Bhd | Sah |
+| MAL19961011ARZ | DECAPEPTYL 0.1MG INJECTION | Bahan tunggal | Ferring Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

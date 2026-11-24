@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CARFILZOMIB"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carfilzomib: indikasi baharu diramal CMM7 (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
@@ -73,6 +73,18 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia untuk CMM7.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18086137ARZ | Kyprolis (carfilzomib) powder for solution for infusion 60mg/vial | Bahan tunggal | Amgen Biopharmaceuticals Malaysia Sdn Bhd | Sah |
+| MAL22096012AZ | CARFILNAT (CARFILZOMIB) POWDER FOR SOLUTION FOR INFUSION 60 MG/ VIAL | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL26086146AZ | XOMICIB 60 (Carfilzomib lyophilized powder for solution for infusion 60 mg/vial) | Bahan tunggal | Synercam (M) Sdn Bhd | Sah |
+
+<!-- licenses:end -->
 
 ---
 

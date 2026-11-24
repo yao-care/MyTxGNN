@@ -74,6 +74,17 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 Pada masa ini tiada literatur berkaitan tersedia.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL25036008ARSZ | Evrysdi Powder for oral solution 0.75 mg/mL | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL21086002ARZ | Evrysdi Powder for oral solution 0.75 mg/mL | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

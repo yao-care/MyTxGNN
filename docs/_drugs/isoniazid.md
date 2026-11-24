@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 432
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ISONIAZID"
 predicted_indications: ["conjunctivitis"]
 description: "Isoniazid: indikasi baharu diramal Konjunktivitis (conjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
@@ -88,6 +88,22 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 | [1363080](https://pubmed.ncbi.nlm.nih.gov/1363080/) | 1992 | Ulasan | Optom Clin | Kesan sampingan okular ubat sistemik (bukan bukti keberkesanan) |
 
 *Nota: Beberapa rekod lain yang diperoleh (contohnya nekrolisis epidermal toksik, sindrom Munchausen melalui proksi, poliartritis selepas BCG) tidak berkaitan dengan keberkesanan dan tidak disenaraikan.*
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19961322AZ | PHARMANIAGA ISONIAZID TABLET 400MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL19961323AZ | PHARMANIAGA ISONIAZID TABLET 100MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL06011712AZ | AKuriT Tablet | Kombinasi | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL07050004AZ | FORECOX-TRAC FILM COATED TABLET | Kombinasi | ZULAT PHARMACY SDN. BHD. | Sah |
+| MAL20051429AZ | AkuriT-4 TABLET | Kombinasi | PAHANG PHARMACY SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

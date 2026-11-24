@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Cabazitaxel"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "HIV infectious disease", "hyperthyroidism", "neuroblastoma", "rheumatoid arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cabazitaxel: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
@@ -90,6 +90,19 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan dalam data yan
 | Klasifikasi Emetogenisiti | Sederhana; sila rujuk sisipan pek |
 | Perkara Pemantauan | Kiraan darah lengkap (CBC dengan pembezaan), fungsi hati dan buah pinggang |
 | Perlindungan Pengendalian | Perlu mengikut peraturan pengendalian ubat sitotoksik |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18071004AZ | Cabazred 60mg/1.5ml Concentrate And Solvent For Solution For Infusion | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL20112145AZ | JEVTANA 60mg CONCENTRATE AND SOLVENT FOR SOLUTION FOR INFUSION | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL24096034AZ | XATIZA (Cabazitaxel 60 mg/1.5ml Concentrate and Solvent for Solution for Infusion) | Bahan tunggal | MEGA LIFESCIENCES SDN. BHD. | Sah |
+| MAL25056021AZ | CAZEXA ( CABAZITAXEL 60MG/1.5ML CONCENTRATE AND SOLVENT FOR SOLUTION FOR INFUSION) | Bahan tunggal | CAMBER LABORATORIES SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

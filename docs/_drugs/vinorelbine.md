@@ -101,6 +101,22 @@ Bagi Sarkoma Ewing, vinorelbine yang digabungkan dengan siklofosfamid dos rendah
 
 Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej untuk maklumat lanjut.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20041277ARZ | VINELBINE INJECTION-10MG/ML | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL20071635ACZ | NAVELBINE 20MG SOFT CAPSULE | Bahan tunggal | Orient Europharma (M) Sdn Bhd | Sah |
+| MAL20071636ACZ | NAVELBINE 30MG SOFT CAPSULE | Bahan tunggal | Orient Europharma (M) Sdn Bhd | Sah |
+| MAL23036024AZ | Vinobin Soft Capsules 80mg | Bahan tunggal | LOTUS HEALTHCARE MALAYSIA SDN. BHD. | Sah |
+| MAL23036025AZ | Vinobin Soft Capsules 30mg | Bahan tunggal | LOTUS HEALTHCARE MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

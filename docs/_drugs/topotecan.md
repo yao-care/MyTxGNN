@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 691
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
 description: "Topotecan: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -106,6 +106,17 @@ Perlu diingat bahawa data yang disusun tidak mengandungi indikasi asal yang berd
 | Perlindungan Pengendalian | Perlu mengikut garis panduan pengendalian ubat sitotoksik |
 
 Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pek untuk maklumat lanjut.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12040010ACRZ | Hycamtin Injection 1mg | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+| MAL19970273ACRZ | HYCAMTIN INJECTION 4MG | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

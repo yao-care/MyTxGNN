@@ -101,6 +101,16 @@ Sebanyak 39 ujian dikaitkan dengan indikasi ini. Jadual di bawah menyenaraikan 1
 | [17964407](https://pubmed.ncbi.nlm.nih.gov/17964407/) | 2007 | Laporan kes | J Cataract Refract Surg | Kes lebur kornea (corneal melt) berkaitan nepafenac |
 | [41039316](https://pubmed.ncbi.nlm.nih.gov/41039316/) | 2025 | Kajian perbandingan | BMC Ophthalmology | Keberkesanan analgesik 7 NSAID topikal untuk kesakitan akibat fotokoagulasi panretina |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20081732ARZ | NEVANAC OPHTHALMIC SUSPENSION 0.1% | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

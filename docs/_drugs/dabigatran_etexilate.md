@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "dabigatran etexilate"
 predicted_indications: ["sclerosing cholangitis", "obsolete familial combined hyperlipidemia", "hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "primary release disorder of platelets"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dabigatran Etexilate: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
 ---
 
@@ -69,6 +69,22 @@ Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
 | [36906733](https://pubmed.ncbi.nlm.nih.gov/36906733/) | 2023 | Kajian in vitro/farmakologi DDI | Clinical Pharmacokinetics | Menilai interaksi ubat-ubat melalui sitokrom P450 dan pengangkut bagi cilofexor (agonis FXR) yang dibangunkan untuk kolangitis sklerosis primer. Ia bukan kajian keberkesanan dabigatran dalam penyakit ini. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20091868AZ | PRADAXA 75 MG, HARD CAPSULE | Bahan tunggal | BOEHRINGER INGELHEIM (MALAYSIA) SDN. BHD. | Sah |
+| MAL20091869AZ | PRADAXA 110 MG, HARD CAPSULE | Bahan tunggal | BOEHRINGER INGELHEIM (MALAYSIA) SDN. BHD. | Sah |
+| MAL20112114AZ | Pradaxa 150mg, Hard Capsules | Bahan tunggal | BOEHRINGER INGELHEIM (MALAYSIA) SDN. BHD. | Sah |
+| MAL23106013ACZ | Dabigatran Sandoz Capsule 110mg | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+| MAL23106014ACZ | Dabigatran Sandoz Capsule 75mg | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

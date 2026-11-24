@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CEFTRIAXONE"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ceftriaxone: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 29 (sah: 26)"
 ---
 
@@ -66,6 +66,22 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12035007AZ | CEFTRIAXONE-ZHIJUN 1G (CEFTRIAXONE SODIUM POWDER FOR INJECTION). | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL12050011ACZ | Hovid Hoftrex Injection 1g | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL19871008ARZ | ROCEPHIN VIAL 500 MG IV | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL19871009ARZ | ROCEPHIN VIAL 1G IV | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20002269AZ | UNOCEF INJECTION 1000MG | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 29 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

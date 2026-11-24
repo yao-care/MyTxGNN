@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 604
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PROPOFOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
 description: "Propofol: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 9 (sah: 9)"
@@ -92,6 +92,22 @@ Ramalan lain dalam senarai (migrain dengan aura batang otak, angina Prinzmetal, 
 | [41321235](https://pubmed.ncbi.nlm.nih.gov/41321235/) | 2026 | Garis panduan | Headache | Kemas kini garis panduan American Headache Society 2025 bagi farmakoterapi parenteral migrain akut |
 | [27454834](https://pubmed.ncbi.nlm.nih.gov/27454834/) | 2016 | Kohort | Expert Rev Neurother | Profil propofol dos sub-anestetik dalam migrain refraktori |
 | [10759925](https://pubmed.ncbi.nlm.nih.gov/10759925/) | 2000 | Siri kes | Headache | Keberkesanan unik propofol intravena dalam migrain yang sukar dirawat |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07010960ARZ | FRESOFOL 1% MCT/LCT EMULSION FOR INJECTION OR INFUSION | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL07010962ARZ | FRESOFOL 2% MCT/LCT EMULSION FOR INJECTION OR INFUSION | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL15025036AZ | Troypofol (Propofol Emulsion for I.V. Injection or Infusion 1% w/v) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL17085015AZ | Propofol Emulsion for Injection or Infusion (1% w/v) with MCT-LCT (1% w/v)-SPIVA | Bahan tunggal | BAXTER HEALTHCARE (MALAYSIA) SDN. BHD. | Sah |
+| MAL18016026AZ | Propofol-Lipuro 2% (20 mg/ml) Emulsion for Injection or Infusion | Bahan tunggal | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 9 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

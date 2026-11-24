@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 310
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "DUPILUMAB"
 predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
 description: "Dupilumab: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L3). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -88,6 +88,17 @@ Bukti untuk bronkitis umum masih tidak langsung dan diekstrapolasi daripada peny
 | [38488768](https://pubmed.ncbi.nlm.nih.gov/38488768/) | 2024 | Ulasan | Pediatr Pulmonol | Terapi baharu untuk bronkitis plastik eosinofilik pada kanak-kanak |
 | [41672525](https://pubmed.ncbi.nlm.nih.gov/41672525/) | 2026 | Laporan kes dan ulasan | Intern Med | Dua kes bronkiolitis eosinofilik yang berjaya dirawat dengan agen biologi, termasuk dupilumab |
 | [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Ulasan | Expert Opin Pharmacother | Cabaran pengurusan asma yang berkaitan penyakit saluran udara akibat merokok, termasuk bronkitis kronik |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19056001AZ | Dupixent 300 mg Solution for Injection in Pre-filled Syringe | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL20116006AZ | Dupixent 200mg Solution for Injection in Pre-Filled Syringe | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

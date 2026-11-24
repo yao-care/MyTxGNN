@@ -99,6 +99,18 @@ Satu penerbitan ditemui bagi ramalan peringkat ketujuh (pancreatic agenesis), te
 |------|-----|------|------|---------|
 | [12150359](https://pubmed.ncbi.nlm.nih.gov/12150359/) | 2002 | Ulasan | Journal of the American Pharmaceutical Association | Ulasan penggunaan terapi insulin yang semakin meningkat pada pesakit diabetes jenis 2 dan aspek praktikal memulakannya. Tidak membincangkan pancreatic agenesis secara langsung. |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20102049AZ | HUMALOG KWIKPEN INJECTION 3ML (100 IU/ML) | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL20102050AZ | HUMALOG MIX 50 KWIKPEN INJECTION 3ML ( 100 IU/ML) | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL20102051AZ | HUMALOG MIX 25 KWIKPEN INJECTION 3ML (100 IU/ML) | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

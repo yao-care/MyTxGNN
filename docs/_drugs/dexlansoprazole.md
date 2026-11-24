@@ -112,6 +112,17 @@ Perlu diingat juga bahawa dua ujian Fasa 3 yang disenaraikan ialah ujian penyemb
 
 <!-- review:end my-lic-20261105-dexlansoprazole-2 -->
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL14015010ARZ | Dexilant Delayed Release Capsules 60mg | Bahan tunggal | Takeda Malaysia Sdn Bhd | Sah |
+| MAL14015012ARZ | Dexilant Delayed Release Capsules 30mg | Bahan tunggal | Takeda Malaysia Sdn Bhd | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

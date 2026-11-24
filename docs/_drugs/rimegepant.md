@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 622
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RIMEGEPANT"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 description: "Rimegepant: indikasi baharu diramal Atrophoderma vermiculata (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -88,6 +88,16 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 | [41652664](https://pubmed.ncbi.nlm.nih.gov/41652664/) | 2026 | Analisis retrospektif | Headache | Menilai toleransi dan keberkesanan penggunaan luar label rimegepant untuk migrain akut pada remaja |
 | [41133671](https://pubmed.ncbi.nlm.nih.gov/41133671/) | 2026 | Kajian farmakokinetik label terbuka fasa 1 | Headache | Menilai farmakokinetik, keselamatan dan toleransi dos tunggal pada kanak-kanak berumur 6 hingga <12 tahun |
 | [37904724](https://pubmed.ncbi.nlm.nih.gov/37904724/) | 2024 | Kajian farmakokinetik fasa 1 | Clin Pharmacol Drug Dev | Farmakokinetik, keselamatan dan toleransi rimegepant 75 mg adalah serupa pada warga emas dan bukan warga emas |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL23076001ACRZ | Nurtec ODT 75mg | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

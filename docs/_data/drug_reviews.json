@@ -8821,9 +8821,9 @@
    "file": "methionine.md",
    "action": "correct",
    "claim": "Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi).",
-   "replacement": "Pendaftaran yang dikesan kebanyakannya produk kombinasi, dengan sebilangan kecil produk bahan tunggal (bilangan dan status semasa terdapat dalam Gambaran Ringkas).",
-   "summary": "Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi).” → “Pendaftaran yang dikesan kebanyakannya produk kombinasi, dengan sebila”",
-   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 161 pendaftaran, 149 sah; 5 bahan tunggal, 156 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas.",
+   "replacement": "Pendaftaran yang dikesan kebanyakannya produk kombinasi (bilangan dan status semasa terdapat dalam Gambaran Ringkas).",
+   "summary": "Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi).” → “Pendaftaran yang dikesan kebanyakannya produk kombinasi (bilangan dan status semasa terdapat dalam Gambaran Ringkas).”",
+   "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my). Produk SAM-e, selenomethionine dan zinc methionine bukan metionin dan tidak lagi dikira (2026-11-24). Angka semasa terdapat dalam Gambaran Ringkas.",
    "finding": "正文寫 156 張（複方 151），事實層 161 張（有效 149；單方 5、複方 156）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
    "sources": [
     {
@@ -8833,7 +8833,7 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+   "method": "2026-11-24 第三輪續做同 id 重發（證據包排除非本藥登記後更正文字過期；前版存 history）",
    "history": [
     {
      "id": "my-lic-20261112-methionine-1",
@@ -8856,6 +8856,28 @@
      "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：更正文字與說明裡寫死的張數改成不寫數字的寫法（張數見本頁 Gambaran Ringkas）"
+    },
+    {
+     "id": "my-lic-20261112-methionine-1",
+     "drug": "methionine",
+     "file": "methionine.md",
+     "action": "correct",
+     "claim": "Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi).",
+     "replacement": "Pendaftaran yang dikesan kebanyakannya produk kombinasi, dengan sebilangan kecil produk bahan tunggal (bilangan dan status semasa terdapat dalam Gambaran Ringkas).",
+     "summary": "Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi).” → “Pendaftaran yang dikesan kebanyakannya produk kombinasi, dengan sebila”",
+     "note": "Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 161 pendaftaran, 149 sah; 5 bahan tunggal, 156 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas.",
+     "finding": "正文寫 156 張（複方 151），事實層 161 張（有效 149；單方 5、複方 156）（data-20261109-135321 事實層＋證據包 npra.records 原始狀態）；count_prose 判斷不了，人工改寫",
+     "sources": [
+      {
+       "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+       "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+       "accessed": "2026-11-09"
+      }
+     ],
+     "checked": "2026-11-12",
+     "method": "2026-11-24 程式重發（用戶決定：查核紀錄裡寫死的張數改成不寫數字的寫法；前版存 history）",
+     "retired": "2026-11-24",
+     "reason": "2026-11-24 第三輪續做：證據包排除 SAM-e、selenomethionine、zinc methionine 後本藥沒有單方登記，更正文字的「dengan sebilangan kecil produk bahan tunggal」不再成立（用戶決定「逐站修對照並重算」）"
     }
    ]
   },
@@ -24167,6 +24189,88 @@
    ],
    "checked": "2026-11-24",
    "method": "2026-11-24 第三輪（用戶決定「證據包成分對照修正」）：scripts/exclude_salt_part_records.py 把本藥只是另一個藥鹽類／共晶／溶劑合物部分的登記移出證據包後，逐句對照證據包 npra.records 與程式表"
+  },
+  {
+   "id": "my-lic-20261124c-desonide-1",
+   "drug": "desonide",
+   "file": "desonide.md",
+   "action": "correct",
+   "claim": "Banyak nama produk dalam senarai ini menunjukkan bahan aktif lain (contohnya produk berjenama budesonide), jadi padanan dengan desonide perlu disahkan semula sebelum digunakan. ",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Banyak nama produk dalam senarai ini menunjukkan bahan aktif lain (contohnya produk berjenama budesonide), jadi padanan dengan desonide perlu disahkan semula sebelum digunakan.\"",
+   "note": "Dipadam: pendaftaran budesonide (nama \"budesonide\" mengandungi rentetan \"desonide\") dan RESICALM (bahan aktif risperidone; medan generic_name NPRA tersilap mencatat semburan hidung budesonide) tidak lagi dikira sebagai pendaftaran desonide. Pendaftaran yang tinggal mengandungi desonide. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "證據包排除名稱含本藥字串的其他藥登記後，正文跟新事實矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪續做（用戶決定「逐站修對照並重算」）：scripts/exclude_salt_part_records.py 的 OTHER 表把本藥名稱只是另一個藥名一部分的登記移出證據包後，逐句對照證據包 npra.records 與程式表"
+  },
+  {
+   "id": "my-lic-20261124c-ofloxacin-1",
+   "drug": "ofloxacin",
+   "file": "ofloxacin.md",
+   "action": "correct",
+   "claim": " Senarai penuh pendaftaran juga mengandungi produk fluoroquinolone lain dan produk veterinar, jadi jumlah 148 tidak bermaksud semuanya produk ofloxacin untuk manusia.",
+   "replacement": "",
+   "anchor": "<!-- licenses:end -->",
+   "summary": "Dipadam: \"Senarai penuh pendaftaran juga mengandungi produk fluoroquinolone lain dan produk veterinar, jadi jumlah 148 tidak bermaksud semuanya produk ofloxacin untuk manusia.\"",
+   "note": "Dipadam: pendaftaran fluoroquinolone lain (ciprofloxacin, levofloxacin, enrofloxacin, marbofloxacin, danofloxacin; nama mengandungi rentetan \"ofloxacin\"), termasuk produk veterinar, tidak lagi dikira sebagai pendaftaran ofloxacin. Pendaftaran yang tinggal mengandungi ofloxacin. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "證據包排除名稱含本藥字串的其他藥登記後，正文跟新事實矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪續做（用戶決定「逐站修對照並重算」）：scripts/exclude_salt_part_records.py 的 OTHER 表把本藥名稱只是另一個藥名一部分的登記移出證據包後，逐句對照證據包 npra.records 與程式表"
+  },
+  {
+   "id": "my-lic-20261124c-progesterone-1",
+   "drug": "progesterone",
+   "file": "progesterone.md",
+   "action": "correct",
+   "claim": "Terdapat 15 lesen kesemuanya, dan semuanya sah (14 produk bahan tunggal dan 1 produk gabungan).",
+   "replacement": "Semua lesen yang direkodkan adalah sah; kebanyakannya produk bahan tunggal, termasuk produk gabungan dengan estradiol benzoat (bilangan semasa terdapat dalam Gambaran Ringkas).",
+   "summary": "Dibetulkan: \"Terdapat 15 lesen kesemuanya, dan semuanya sah (14 produk bahan tunggal dan 1 produk gabungan).\"",
+   "note": "Pendaftaran medroxyprogesterone dan hydroxyprogesterone (nama mengandungi rentetan \"progesterone\") tidak lagi dikira sebagai pendaftaran progesterone.",
+   "finding": "證據包排除名稱含本藥字串的其他藥登記後，正文跟新事實矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪續做（用戶決定「逐站修對照並重算」）：scripts/exclude_salt_part_records.py 的 OTHER 表把本藥名稱只是另一個藥名一部分的登記移出證據包後，逐句對照證據包 npra.records 與程式表"
+  },
+  {
+   "id": "my-lic-20261124c-methionine-1",
+   "drug": "methionine",
+   "file": "methionine.md",
+   "action": "correct",
+   "claim": "Senarai produk bahan tunggal (SAM-e dan selenium; perhatian: bahan aktif tepat perlu disahkan):",
+   "replacement": "Contoh pendaftaran:",
+   "summary": "Dibetulkan: \"Senarai produk bahan tunggal (SAM-e dan selenium; perhatian: bahan aktif tepat perlu disahkan):\"",
+   "note": "Produk SAM-e (S-adenosyl-L-methionine, ademetionine), selenomethionine (suplemen selenium) dan zinc methionine bukan metionin; pendaftaran ini tidak lagi dikira sebagai pendaftaran metionin, dan pendaftaran yang tinggal ialah produk kombinasi. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini.",
+   "finding": "證據包排除名稱含本藥字串的其他藥登記後，正文跟新事實矛盾",
+   "sources": [
+    {
+     "title": "NPRA pharmaceutical product registrations (data.gov.my)",
+     "url": "https://data.gov.my/data-catalogue/pharmaceutical_products",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第三輪續做（用戶決定「逐站修對照並重算」）：scripts/exclude_salt_part_records.py 的 OTHER 表把本藥名稱只是另一個藥名一部分的登記移出證據包後，逐句對照證據包 npra.records 與程式表"
   }
  ]
 }

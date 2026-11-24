@@ -101,6 +101,19 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Klasifikasi di atas berdasarkan pengetahuan umum mengenai kelas ubat ini, bukan data khusus daripada data yang dikumpulkan untuk laporan ini. Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11070002ARZ | Cytarine Injection (100mg/ml) | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL13035046AZ | ARASID INJECTION BP 100MG/ML | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL26056032AZ | Cytarine Kabi 100mg/ml Solution for Injection or Infusion | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL19930477AZ | CYTARABINE CS INJ 1000MG IN 10ML | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

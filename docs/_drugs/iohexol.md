@@ -87,6 +87,22 @@ Tiada literatur yang menyokong insomnia. Bagi indikasi kedua yang diramalkan (**
 
 Bahagian ini tidak berkenaan kerana iohexol bukan ubat antineoplastik.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL08111802AZ | Contrapaque Injection 300 | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL08111803AZ | Contrapaque Injection 350 | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL19986942ASZ | OMNIPAQUE INJ 300MG I/ML | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL19986945ASZ | OMNIPAQUE INJ 350MG I/ML | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL21106031ACZ | Hovid Iohexol Solution for Injection U.S.P. 300mg I/mL | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

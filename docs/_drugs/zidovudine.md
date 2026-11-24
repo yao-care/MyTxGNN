@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 732
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ZIDOVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 description: "Zidovudine: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 9 (sah: 9)"
@@ -88,6 +88,22 @@ Jadual di bawah menyenaraikan 10 penerbitan yang paling relevan daripada 20 yang
 | [9021180](https://pubmed.ncbi.nlm.nih.gov/9021180/) | 1997 | Kajian rintangan | Antimicrob Agents Chemother | Mutan SIV tahan zidovudine (Q151M) menyebabkan AIDS pada bayi makak |
 | [7874391](https://pubmed.ncbi.nlm.nih.gov/7874391/) | 1994 | Kajian haiwan | Adv Neuroimmunol | Kesan pentadbiran zidovudine jangka panjang pada fungsi sistem saraf pusat dan beban virus bayi rhesus |
 | [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Kajian haiwan | J Virol | Kerosakan virus yang pantas pada makak yang menerima terapi antiretroviral empat ubat |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL10120006AZ | ZIDOVEX 50mg/5ml (Zidovudine Oral Solution 50 mg/5ml) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL19930308ACRZ | Retrovir Oral Solution | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL20001231ARZ | RETROVIR IV FOR INFUSION 1% | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL10100011AZ | ARROW LZ (Lamivudine 150mg and Zidovudine 300mg ) Tablets | Kombinasi | UNIMED SDN. BHD. | Sah |
+| MAL12065068AZ | ZOVILAM Tablets 150mg/300mg | Kombinasi | PAHANG PHARMACY SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 9 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

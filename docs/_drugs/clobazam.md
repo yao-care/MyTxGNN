@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CLOBAZAM"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "atypical childhood epilepsy with centrotemporal spikes", "photosensitive occipital lobe epilepsy", "cryptogenic late-onset epileptic spasms", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clobazam: indikasi baharu diramal Sindrom epilepsi berkaitan jangkitan demam (febrile infection-related epilepsy syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -72,6 +72,17 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 |------|-----|------|------|---------|
 | [35770765](https://pubmed.ncbi.nlm.nih.gov/35770765/) | 2022 | Siri kes | Epileptic Disorders | Lorazepam enteral sebagai strategi penyapihan bagi pesakit FIRES yang bergantung kepada midazolam; tidak melibatkan clobazam |
 | [39958143](https://pubmed.ncbi.nlm.nih.gov/39958143/) | 2025 | Laporan kes | Cureus | Perampanel berpotensi mengurangkan kebergantungan barbiturat pada seorang budak lelaki 13 tahun dengan FIRES; tidak melibatkan clobazam |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19861330ACRZ | FRISIUM TABLET 10MG | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL26036022AZ | CLOCENT 10 Clobazam Tablets BP 10mg | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

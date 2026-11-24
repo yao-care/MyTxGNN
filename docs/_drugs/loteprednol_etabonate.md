@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 478
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LOTEPREDNOL ETABONATE"
 predicted_indications: ["chronic follicular conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "parasitic conjunctivitis", "pseudomembranous conjunctivitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
 description: "Loteprednol Etabonate: indikasi baharu diramal Chronic follicular conjunctivitis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -95,6 +95,17 @@ Tiada literatur berkaitan secara langsung untuk konjunktivitis folikular kronik.
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
 | [40638366](https://pubmed.ncbi.nlm.nih.gov/40638366/) | 2025 | Kajian perbandingan | Ocular Immunology and Inflammation | Menilai pengurangan beban virus berasaskan PCR dalam konjunktivitis adenovirus menggunakan ganciklovir dan povidon-iodin, serta gabungannya dengan loteprednol etabonat. Hubungan dengan loteprednol tidak langsung dan lengan ubat belum disahkan. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20071705AZ | ALREX STERILE OPHTHALMIC SUSPENSION | Bahan tunggal | Bausch & Lomb (Malaysia) Sdn. Bhd. | Sah |
+| MAL20071704AZ | LOTEMAX STERILE OPHTHALMIC SUSPENSION | Kombinasi | Bausch & Lomb (Malaysia) Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

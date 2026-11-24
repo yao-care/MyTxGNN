@@ -84,6 +84,17 @@ Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Buat masa ini tiada literatur berkaitan.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21016001AZ | Pontevia 120 mg solution for injection in pre-filled syringe | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL21016002AZ | Pontevia 120 mg solution for injection in pre-filled pen | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

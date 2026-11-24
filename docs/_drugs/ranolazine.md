@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 614
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RANOLAZINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Ranolazine: indikasi baharu diramal Nephrogenic syndrome of inappropriate antidiuresis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
@@ -77,6 +77,18 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16035012AZ | Ranexa 500mg Prolonged-Release Tablets | Bahan tunggal | A. MENARINI SINGAPORE PTE. LTD. | Sah |
+| MAL16035014AZ | Ranexa 375mg Prolonged-Release Tablets | Bahan tunggal | A. MENARINI SINGAPORE PTE. LTD. | Sah |
+| MAL16035015AZ | Ranexa 750mg Prolonged-Release Tablets | Bahan tunggal | A. MENARINI SINGAPORE PTE. LTD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

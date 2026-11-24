@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 370
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "FLUTAMIDE"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 description: "Flutamide: indikasi baharu diramal Fibroma of prostate (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -89,6 +89,16 @@ Pada masa ini tiada literatur berkaitan untuk entri ramalan ini.
 | Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pek |
 | Perkara Pemantauan | Fungsi hati ialah keutamaan, memandangkan data yang dikompil menyebut amaran kotak untuk hepatotoksisiti. Sila rujuk sisipan pek untuk pemantauan lanjut. |
 | Perlindungan Pengendalian | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pek |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL17117035AE | Eumide Tablet 250mg | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+
+<!-- licenses:end -->
 
 ---
 

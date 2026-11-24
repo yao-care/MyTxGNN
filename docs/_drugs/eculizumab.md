@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 314
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Eculizumab"
 predicted_indications: ["cyclic hematopoiesis", "autosomal recessive severe congenital neutropenia due to JAGN1 deficiency", "X-linked severe congenital neutropenia", "congenital neutropenia-myelofibrosis-nephromegaly syndrome", "adult idiopathic neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "autosomal recessive severe congenital neutropenia due to CSF3R deficiency", "severe congenital neutropenia", "primary release disorder of platelets"]
 description: "Eculizumab: indikasi baharu diramal Cyclic hematopoiesis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -88,6 +88,16 @@ Sebagai rujukan, bagi ramalan peringkat keempat (sindrom neutropenia kongenital-
 | [37216524](https://pubmed.ncbi.nlm.nih.gov/37216524/) | 2023 | Kajian genetik/siri kes | PNAS | Mutasi C1GALT1C1 menyebabkan chaperonopati berbilang sistem (kaitan paling hampir, tetapi tidak membuktikan keberkesanan) |
 
 Satu-satunya rujukan bagi "gangguan pelepasan platelet primer" (peringkat kesepuluh) ialah monograf kes PNH ([23271156](https://pubmed.ncbi.nlm.nih.gov/23271156/), 2012), yang berkaitan indikasi diluluskan eculizumab dan bukan gangguan platelet.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24096027ACZ | Soliris 10mg/ml Concentrate for Solution for Infusion | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

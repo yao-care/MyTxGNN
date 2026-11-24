@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 477
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LORLATINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
 description: "Lorlatinib: indikasi baharu diramal Fibromatosis gingiva (fibromatosis, gingival) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -94,6 +94,17 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk fibromatosis 
 Pada masa ini tiada literatur berkaitan untuk fibromatosis gingiva.
 
 Sebagai rujukan, bagi ramalan lain, literatur yang diperoleh kebanyakannya berkaitan indikasi asal (NSCLC positif-ALK), contohnya kajian Fasa 3 CROWN (PMID 33207094 dan 38819031), dan bukan indikasi baharu yang sebenar. Bagi tumor sel germa paru-paru (kedudukan 6), bukti tidak langsung terdiri daripada percubaan Fasa 1 pada neuroblastoma didorong ALK (PMID 37012551).
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20126003AZ | Lorviqua 25 mg Film-Coated Tablets | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL20126004AZ | Lorviqua 100 mg Film-Coated Tablets | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

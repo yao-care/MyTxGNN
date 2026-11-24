@@ -84,6 +84,17 @@ Sebagai rujukan, literatur yang ditemui untuk ramalan lain (amiloidosis) hanya m
 | [40376135](https://pubmed.ncbi.nlm.nih.gov/40376135/) | 2025 | Laporan kes | Cureus | Amiloidosis hadir sebagai pseudo-obstruksi usus kronik pada lelaki berumur 61 tahun |
 | [34231480](https://pubmed.ncbi.nlm.nih.gov/34231480/) | 2021 | Ulasan/Kohort | Turk J Gastroenterol | Gangguan motiliti GI khusus sering didiagnosis sebagai gangguan GI fungsional pada peringkat awal |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12025075ACZ | RESOLOR 1mg Film Coated Tablets | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL12025076ACZ | RESOLOR 2mg Film Coated Tablets | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

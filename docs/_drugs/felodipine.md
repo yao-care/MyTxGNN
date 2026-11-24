@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 352
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "FELODIPINE"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
 description: "Felodipine: indikasi baharu diramal Pulmonary hypertension with unclear multifactorial mechanism (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
@@ -100,6 +100,20 @@ Sebagai rujukan, literatur bagi indikasi kedudukan 7 (**Prinzmetal angina**), ya
 | [14689111](https://pubmed.ncbi.nlm.nih.gov/14689111/) | 2003 | Ulasan | Herz | Terapi pembezaan dengan antagonis kalsium |
 
 Bagi pulmonary hypertension akibat penyakit paru-paru/hipoksia (kedudukan 2), 9 penerbitan yang ditemui semuanya praklinikal (1986–1999) dan tiada satu pun mengkaji pesakit pulmonary hypertension. Bagi penyakit jantung pulmonari kronik (kedudukan 6), [PMID 2838319](https://pubmed.ncbi.nlm.nih.gov/2838319/) (1988) ialah kajian hemodinamik pada 11 pesakit COPD teruk: rintangan vaskular pulmonari menurun 18% dan rintangan sistemik 33%, dengan output jantung meningkat 33%.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07050185AZ | Felocor® 5mg Tablet | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL07050186AZ | Felocor® 10mg Tablet | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL19940655AZ | PLENDIL 2.5MG ER TABLET | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL19972985AZ | PLENDIL 10MG ER TABLETS | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL19972986AZ | PLENDIL 5MG ER TABLET | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

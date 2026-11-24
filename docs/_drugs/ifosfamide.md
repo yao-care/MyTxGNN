@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 408
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ifosfamide"
 predicted_indications: ["female breast carcinoma", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "rhabdomyosarcoma (disease)", "myelodysplastic syndrome", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Ifosfamide: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 1)"
@@ -107,6 +107,17 @@ Ifosfamide ialah analog siklofosfamid, yang sudah lama digunakan dalam kemoterap
 | Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
 
 Data ketoksikan khusus tidak tersedia dalam data yang dikompilasi; sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pakej.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19890647ACZ | HOLOXAN INJECTION 1GM (30ML VIAL) | Bahan tunggal | BAXTER HEALTHCARE (MALAYSIA) SDN. BHD. | Sah |
+| MAL19890647AZ | HOLOXAN INJECTION 1GM (30ML VIAL) | Bahan tunggal | BAXTER HEALTHCARE (MALAYSIA) SDN. BHD. | Nombor pendaftaran lama; produk yang sama kini didaftarkan sebagai MAL19890647ACZ |
+
+<!-- licenses:end -->
 
 ---
 

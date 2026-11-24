@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 505
 evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
 description: "Midazolam: indikasi baharu diramal Insomnia (insomnia (disease)) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
@@ -90,6 +90,22 @@ Penerangan mekanisme di atas berdasarkan analisis pautan mekanistik yang disusun
 | [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Ulasan | Acta Psychiatr Scand Suppl | Ulasan penggunaan klinikal hipnotik dan keperluan pelbagai jenis hipnotik benzodiazepin. |
 | [17988972](https://pubmed.ncbi.nlm.nih.gov/17988972/) | 2007 | Ulasan | Orv Hetil | Ulasan umum tentang insomnia dan hipoperfusi serebrum (hanya latar belakang, bukan khusus midazolam). |
 | [36615100](https://pubmed.ncbi.nlm.nih.gov/36615100/) | 2022 | Kohort | J Clin Med | Kajian perintis lemborexant untuk insomnia dan delirium selepas prosedur endoskopi. Menyebut benzodiazepin boleh meningkatkan delirium (relevan sebagai pertimbangan keselamatan). |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11100004AZ | MIDAZ Injection 1mg/mL | Bahan tunggal | JETPHARMA SDN. BHD. | Sah |
+| MAL11100005AZ | MIDAZ Injection 5mg/mL | Bahan tunggal | JETPHARMA SDN. BHD. | Sah |
+| MAL19011002AZ | Pharmaniaga Midazolam 5mg/ml Injection | Bahan tunggal | PHARMANIAGA LIFESCIENCE SDN. BHD. | Sah |
+| MAL19870350ACRZ | DORMICUM AMPOULES 15MG/3ML | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL19870351ACRZ | DORMICUM AMPOULES 5MG/1ML | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Cisatracurium"
 predicted_indications: ["cauda equina syndrome", "preeclampsia", "obsolete neurogenic bladder (disease)", "migraine disorder", "thrombotic disease", "irritable bowel syndrome", "migraine with brainstem aura", "mild pre-eclampsia", "severe pre-eclampsia", "neurocirculatory asthenia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cisatracurium: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
@@ -67,6 +67,19 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16085025ARZ | Cisatracurium Kabi 2 mg/ml solution for injection or infusion | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL18106140ACZ | Cisatracurium-hameln 2 mg/ml solution for injection/infusion | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL19985084AZ | NIMBEX INJECTION 2MG/ML | Bahan tunggal | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+| MAL24026053AZ | Atrax Inj Cisatracurium Besylate Injection, USP Solution for Injection or Infusion 2 mg/ml | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

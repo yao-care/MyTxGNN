@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-24
 monitor_inn: "Filgrastim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
-description: "Filgrastim: indikasi baharu diramal Primary release disorder of platelets (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 10 (sah: 10)"
+description: "Filgrastim: indikasi baharu diramal Primary release disorder of platelets (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
 # Filgrastim
@@ -51,8 +51,8 @@ Model TxGNN meramalkan ia mungkin berkesan untuk **primary release disorder of p
 | Indikasi Baharu yang Diramalkan | Primary release disorder of platelets |
 | Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 10) |
-| Bilangan Pendaftaran | 10 (sah: 10) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold |
 
 Nota: Indikasi lain dalam senarai ramalan (kedudukan 2–10) juga berada pada tahap Hold. Hanya "platelet-type bleeding disorder" (kedudukan 10) mempunyai percubaan klinikal yang dipadankan (tahap L4), tetapi kesemuanya berkaitan secara tidak langsung.
@@ -113,9 +113,9 @@ Pada masa ini tiada literatur berkaitan tersedia.
 | MAL13085067ARZ | Nivestim 300mcg/0.5ml solution for Injection/Infusion | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
 | MAL19921256AZ | NEUPOGEN 30 MIO U 0.3MG/ML VIAL | Bahan tunggal | Amgen Biopharmaceuticals Malaysia Sdn Bhd | Sah |
 | MAL20012685AZ | NEUPOGEN PRE-FILLED SYRINGES 30MU/0.5ML | Bahan tunggal | Amgen Biopharmaceuticals Malaysia Sdn Bhd | Sah |
-| MAL20071654AZ | NEULASTIM PRE- FILLED SYRINGES 6 MG/0.6ML | Bahan tunggal | Amgen Biopharmaceuticals Malaysia Sdn Bhd | Sah |
+| MAL21036006AZ | Accofil (filgrastim) 30 MU/0.5 ml Solution for injection/infusion in Prefilled Syringe | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 10 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

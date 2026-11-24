@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-24
 monitor_inn: "TRETINOIN"
 predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
-description: "Tretinoin: indikasi baharu diramal Rheumatoid nodulosis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 12 (sah: 12)"
+description: "Tretinoin: indikasi baharu diramal Rheumatoid nodulosis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
 # Tretinoin
@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada ujian klinikal** dan **tiada penerbitan** yang meny
 | Indikasi Baharu yang Diramalkan | Rheumatoid nodulosis |
 | Skor Ramalan TxGNN | 0.9984 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 12 daripada 12) |
-| Bilangan Pendaftaran | 12 (sah: 12) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 4) |
+| Bilangan Pendaftaran | 4 (sah: 4) |
 | Keputusan Disyorkan | Hold |
 
 ---
@@ -94,6 +94,19 @@ Pada masa ini tiada literatur berkaitan tersedia untuk rheumatoid nodulosis.
 | 10 | Folikulitis dekalvans Quinquaud | 0.9930 | Tiada | Hold |
 
 Dua penerbitan yang diperoleh untuk osteoartritis (PMID 34745498 tentang suntikan PRP pada lutut, dan PMID 18463343 tentang laporan kes kejadian buruk akibat arsenik trioksida dalam leukemia promielositik akut) tidak menyokong penggunaan tretinoin. Yang kedua lebih merupakan isyarat keselamatan daripada bukti keberkesanan.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19960996ACRZ | VESANOID SOFT-GELATIN CAPSULE 10MG | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL19991434AZ | TRETINON CREAM 0.05% | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL20027001AZ | E-SOL GEL | Kombinasi | THE ZYFAS MEDICAL CO., | Sah |
+| MAL20061541ACRZ | TRI-LUMA CREAM | Kombinasi | Galderma Malaysia Sdn Bhd | Sah |
+
+<!-- licenses:end -->
 
 ---
 

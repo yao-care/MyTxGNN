@@ -96,6 +96,16 @@ Sembilan ramalan lain turut disenaraikan. Semuanya berstatus **Hold**.
 | 9 | Sindrom leukomelanoderma-infantilisme-hipodontia | 0.9978 | L5 | Lima kertas yang diperoleh tidak berkaitan (padanan palsu); hanya relevan kepada keselamatan ceritinib |
 | 10 | Epidermolisis bulosa simpang | 0.9977 | L5 | Gangguan genetik membran basal; tiada kaitan dengan ALK/ROS1 |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16015076ARZ | Zykadia 150mg Hard Capsules | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

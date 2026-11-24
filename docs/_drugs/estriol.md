@@ -5,7 +5,7 @@ parent: Medium Evidence (L3)
 nav_order: 337
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "ESTRIOL"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Estriol: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L3). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -82,6 +82,16 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 | [13931724](https://pubmed.ncbi.nlm.nih.gov/13931724/) | 1963 | Ulasan/mekanistik (tidak langsung) | J Clin Endocrinol Metab | Mekanisme sebatian anti-ovulasi; tidak langsung |
 | [14194444](https://pubmed.ncbi.nlm.nih.gov/14194444/) | 1964 | Ujian klinikal (sejarah, tidak langsung) | J Obstet Gynaecol Br Commonw | Gonadotrofin pada amenorea sekunder idiopatik; bukan khusus estriol |
 | [979592](https://pubmed.ncbi.nlm.nih.gov/979592/) | 1976 | Metodologi/asai | Die Medizinische Welt | Radioimunoasai hormon termasuk estriol; bukan bukti terapeutik |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20071631ACZ | GYNOFLOR VAGINAL TABLETS | Kombinasi | DKSH MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

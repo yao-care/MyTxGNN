@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 694
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TRANEXAMIC ACID"
 predicted_indications: ["amenorrhea (disease)"]
 description: "Tranexamic Acid: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 12 (sah: 12)"
@@ -81,6 +81,22 @@ Buat masa ini tiada percubaan klinikal berkaitan didaftarkan.
 | [39043214](https://pubmed.ncbi.nlm.nih.gov/39043214/) | 2024 | Ulasan | J Oncol Pharm Pract | Pendekatan sistematik untuk profilaksis dan penindasan haid pada pesakit kanser hematologi pra-menopaus; data perbandingan antara terapi masih terhad |
 
 Kedua-dua penerbitan menyebut asid traneksamik sebagai salah satu pilihan sahaja, dan tiada satu pun ialah kajian langsung asid traneksamik untuk amenorea.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11110007AZ | TRANEXAMIC ACID 500mg/5mL INJECTION Bioindustria L.I.M. | Bahan tunggal | MMS PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL12020014ACZ | Transamin Injection 250mg/5ml | Bahan tunggal | FIRST PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL13075063AZ | YSP Tren Injection 100mg/ml | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL18056169AZ | HEAMIC-T (Tranexamic Acid Injection 100mg/mL) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL19890202ACZ | TRANSAMIN CAPSULE 250MG | Bahan tunggal | FIRST PHARMACEUTICAL SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 12 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

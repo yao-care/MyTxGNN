@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CLADRIBINE"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "liver sarcoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Cladribine: indikasi baharu diramal Rabdomiosarkoma embrionik parameningeal (parameningeal embryonal rhabdomyosarcoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -79,6 +79,17 @@ Cladribine ialah ubat antineoplastik (analog nukleosida purin) yang digunakan da
 | Klasifikasi Emetogenisiti | Sila rujuk amaran dan langkah berjaga-jaga dalam sisipan pembungkusan |
 | Item Pemantauan | Kiraan darah penuh (CBC) dengan pembezaan, fungsi hati dan buah pinggang |
 | Perlindungan Pengendalian | Perlu mematuhi peraturan pengendalian ubat sitotoksik |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20096001ARZ | Mavenclad 10mg Tablets | Bahan tunggal | MERCK SDN. BHD. | Sah |
+| MAL26016042ACE | Cladribine Tablets 10mg | Bahan tunggal | NOVUGEN ONCOLOGY SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

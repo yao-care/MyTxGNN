@@ -5,10 +5,10 @@ parent: Low Evidence (L4-L5)
 nav_order: 390
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 monitor_inn: "glycerin"
 predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
-description: "Glycerin: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 12 (sah: 10)"
+description: "Glycerin: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 9 (sah: 7)"
 ---
 
 # Glycerin
@@ -52,8 +52,8 @@ tetapi pada masa ini **tiada percubaan klinikal** dan **tiada penerbitan** yang 
 | Indikasi Baharu yang Diramalkan | Sindrom cauda equina (cauda equina syndrome) |
 | Skor Ramalan TxGNN | 0.9960 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 10 daripada 12) |
-| Bilangan Pendaftaran | 12 (sah: 10) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 7 daripada 9) |
+| Bilangan Pendaftaran | 9 (sah: 7) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ---
@@ -91,6 +91,22 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia untuk sindrom cauda equina.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20001123X | THREE RIFLES PURE GLYCERINE | Bahan tunggal | CHONG PARK PHARMACEUTICAL SDN BHD | Sah (pendaftaran bersyarat) |
+| MAL06011891XC | HLP RAVEN ENEMA | Kombinasi | SEW CHEONG CORPORATION SDN BHD | Sah |
+| MAL17106100X | WINLAXIT Disposable Enema | Kombinasi | WINWA MEDICAL SDN. BHD. | Sah |
+| MAL19910319X | ROYCE ENEMA | Kombinasi | ROYCE PHARMA MANUFACTURING SDN. BHD. | Sah |
+| MAL19950126XC | GLYCERIN OF THYMOL | Kombinasi | TERAPUTICS SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 9 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

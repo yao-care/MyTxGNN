@@ -58,6 +58,17 @@ Menurut bahagian “Mechanism of Action” maklumat preskripsi yang diluluskan o
 
 Skor TxGNN yang tinggi (0.998) ialah ramalan model semata-mata. Ia tidak disokong oleh ujian klinikal, penerbitan atau data praklinikal. Maklumat indikasi asal dan kesamaan dengan indikasi baharu juga belum dapat dinilai, jadi kewajaran biologi ramalan ini belum dapat disahkan.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19900636AZ | MEDOCRIPTINE 2.5MG TABLET | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL19921352AZ | PHARMANIAGA BROMOCRIPTINE TABLET 2.5MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+
+<!-- licenses:end -->
+
 ## Keselamatan
 
 - **Interaksi Ubat**: Sebanyak 87 interaksi direkodkan. Antara yang disenaraikan:

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 401
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 monitor_inn: "HISTIDINE"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
 description: "Histidine: indikasi baharu diramal Gastroparesis (gastroparesis (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 32 (sah: 28)"
@@ -78,6 +78,22 @@ Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 | PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
 | [42668409](https://pubmed.ncbi.nlm.nih.gov/42668409/) | 2026 | Kajian campuran (pesakit, tikus, patologi) | Amyloid | Menerangkan patologi amiloid gastrik dan penyahsarafan mukosa dalam amiloidosis ATTRv; tidak menguji histidine |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11070005ARZ | Aminoven Infant 10% w/v | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11080004ARZ | SmofKabiven Peripheral (Emulsion for Infusion) | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11090002ARZ | SmofKabiven, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL11090008ARZ | SmofKabiven Electrolyte Free, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL13055054AZ | Aminoplasmal B. Braun 10%E Solution for Intravenous Infusion | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 32 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

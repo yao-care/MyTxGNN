@@ -95,6 +95,16 @@ Ramalan lain dalam senarai (polimikrogiria, gangguan glikosilasi kongenital, dis
 | [8102552](https://pubmed.ncbi.nlm.nih.gov/8102552/) | 1993 | Ujian terkawal plasebo | Biol Psychiatry | Selegiline 10 mg/hari lawan plasebo pada 33 pesakit diskinesia tardif |
 | [29552749](https://pubmed.ncbi.nlm.nih.gov/29552749/) | 2018 | Kajian sistematik (Cochrane) | Cochrane Database Syst Rev | Rawatan pelbagai untuk diskinesia tardif akibat antipsikotik |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19973312AZ | SELEGOS 5MG TABLET | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan dan Pertimbangan

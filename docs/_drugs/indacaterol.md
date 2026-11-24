@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 415
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "INDACATEROL"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "bronchial disease", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
 description: "Indacaterol: indikasi baharu diramal Nephrogenic syndrome of inappropriate antidiuresis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
@@ -77,6 +77,22 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20102095ACRZ | ONBREZ BREEZHALER 150MCG INHALATION POWDER HARD CAPSULE | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL15025045ACRZ | Ultibro Breezhaler 110/50mcg Inhalation Powder Hard Capsule | Kombinasi | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL21106002ACRZ | Atectura Breezhaler (Indacaterol Acetate/Mometasone Furoate) 150/160mcg Inhalation Powder Hard Capsu… | Kombinasi | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL21106003ACRZ | Atectura Breezhaler (Indacaterol Acetate/Mometasone Furoate) 150/320mcg Inhalation Powder Hard Capsu… | Kombinasi | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL21106004ACRZ | Enerzair Breezhaler (Indacaterol Acetate/Glycopyrronium Bromide/Mometasone Furoate) 150/50/160mcg In… | Kombinasi | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

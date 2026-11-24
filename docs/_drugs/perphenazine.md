@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 567
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "PERPHENAZINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "atypical glycine encephalopathy"]
 description: "Perphenazine: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies) (tahap bukti L5). Indikasi asal: Tidak direkodka…"
@@ -78,6 +78,16 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 | PMID | Tahun | Jenis | Jurnal | Penemuan Utama |
 |------|-----|------|------|---------|
 | [14129300](https://pubmed.ncbi.nlm.nih.gov/14129300/) | 1964 | Laporan kes | The American Journal of Psychiatry | Retinopati berpigmen berkaitan tioridazina (ubat fenotiazina lain) dengan dos harian maksimum 1400 mg; menggambarkan toksisiti retina akibat ubat, bukan kesan terapeutik |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19984737ACRZ | AA-Perphenazine Tablet 4mg | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

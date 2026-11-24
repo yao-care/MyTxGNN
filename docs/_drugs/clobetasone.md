@@ -92,6 +92,18 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Pada masa ini tiada literatur berkaitan tersedia.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18026175AZ | CLOBUTRATE CREAM 0.05% W/W | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL20014215AZ | U-CLOSONE OINTMENT | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL20020807AZ | U-CLOSONE CREAM | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

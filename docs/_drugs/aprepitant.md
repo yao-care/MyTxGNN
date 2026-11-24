@@ -48,8 +48,8 @@ Aprepitant ialah antagonis reseptor substance P/NK1. Model TxGNN meramalkan ia m
 | Indikasi Baharu yang Diramalkan | Sindrom antidiuresis tidak wajar nefrogenik (nephrogenic syndrome of inappropriate antidiuresis) |
 | Skor Ramalan TxGNN | 0,9997 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 8 daripada 8) |
-| Bilangan Pendaftaran | 8 (sah: 8) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 6 daripada 6) |
+| Bilangan Pendaftaran | 6 (sah: 6) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -68,7 +68,7 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Status pasaran: dipasarkan. Terdapat 8 lesen yang sah menurut data tempatan, dan tiada yang dibatalkan.
+Status pasaran: dipasarkan. Terdapat 6 lesen yang sah menurut data tempatan, dan tiada yang dibatalkan.
 
 <!-- licenses:begin -->
 
@@ -78,9 +78,9 @@ Status pasaran: dipasarkan. Terdapat 8 lesen yang sah menurut data tempatan, dan
 | MAL15065039ACRZ | EMEND 125MG CAPSULE | Bahan tunggal | MERCK SHARP & DOHME (MALAYSIA) SDN. BHD. | Sah |
 | MAL22076026ACZ | inApitant aprepitant 125mg hard capsules | Bahan tunggal | Intega Sdn. Bhd. | Sah |
 | MAL22076028ACZ | inApitant aprepitant 80mg hard capsules | Bahan tunggal | Intega Sdn. Bhd. | Sah |
-| MAL23026015AZ | APRITANT IV (Fosaprepitant Dimeglumine Lyophilized Powder for solution for infusion 150 mg/vial) | Bahan tunggal | MEGA LIFESCIENCES SDN. BHD. | Sah |
+| MAL25056030ARZ | Lorpitan Trio (Aprepitant 80mg Hard Capsule) | Bahan tunggal | GIRAFFES ENTERPRISE SDN. BHD. | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

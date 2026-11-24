@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 586
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "PLERIXAFOR"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
 description: "Plerixafor: indikasi baharu diramal CMM7 (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
@@ -62,7 +62,6 @@ Namun, **tiada ujian klinikal** dan **tiada penerbitan** yang menyokong ramalan 
 
 Plerixafor ialah antagonis CXCR4. Ia mengganggu isyarat CXCR4/CXCL12 yang menambat sel stem dan sel mieloma pada ceruk sumsum tulang. Dengan menyekat paksi ini, sel-sel tersebut dilepaskan ke dalam peredaran darah.
 
-
 Walau bagaimanapun, kesan plerixafor dalam indikasi asal ialah penggerakan sel stem untuk pemindahan. Ini bukan kesan yang mengubah perjalanan penyakit. Bagi mieloma indolen, pemindahan biasanya bukan matlamat rawatan, jadi mekanisme tersebut belum tentu terpakai. Ramalan ini tidak disokong oleh bukti klinikal.
 
 ---
@@ -76,6 +75,19 @@ Setakat ini tiada ujian klinikal berkaitan didaftarkan untuk indikasi ini.
 ## Bukti Literatur
 
 Setakat ini tiada literatur berkaitan untuk indikasi ini.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12045095ARZ | Mozobil 20 mg/ml solution for injection | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL22096033AZ | PLERISTEM (Plerixafor 20mg/mL Solution for Injection) | Bahan tunggal | SYNERRV SDN BHD | Sah |
+| MAL24056086ACZ | PLERIXAFOR SEACROSS 20 MG/ML SOLUTION FOR INJECTION | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL25096013AZ | MOZIFOR (Plerixafor 20mg/mL Solution for Injection) | Bahan tunggal | CAMBER LABORATORIES SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

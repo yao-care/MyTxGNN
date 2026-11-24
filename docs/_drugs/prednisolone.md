@@ -48,8 +48,8 @@ Prednisolone ialah kortikosteroid sistemik yang digunakan untuk pelbagai keadaan
 | Indikasi Baharu yang Diramalkan | Alopesia areata |
 | Skor Ramalan TxGNN | 0.9999 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 40 daripada 40) |
-| Bilangan Pendaftaran | 40 (sah: 40) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 33 daripada 33) |
+| Bilangan Pendaftaran | 33 (sah: 33) |
 | Bilangan Kelulusan | 38 pendaftaran (36 produk tunggal, 2 produk gabungan veterinar) |
 | Keputusan Disyorkan | Proceed with Guardrails (Teruskan dengan Langkah Kawalan) |
 
@@ -100,7 +100,7 @@ Teks indikasi diluluskan tidak tersedia dalam data pendaftaran yang dihimpun. Se
 | MAL19986420AZ | PREDON INJECTION 25MG/ML | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
 | MAL19890346ARZ | PRED FORTE STERILE OPHTHALMIC SUSPENSION | Bahan tunggal | ABBVIE SDN BHD | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 40 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 33 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 

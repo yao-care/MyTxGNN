@@ -75,6 +75,20 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Pada masa ini tiada literatur berkaitan.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19861325AZ | LORANS 1 TABLET | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL19861328AZ | LORANS 2 TABLET | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL19900509AZ | TRANPAM TABLET 0.5MG | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL19900510AZ | TRANPAM TABLET 1MG | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL19984741ARZ | APO-LORAZEPAM TABLET 1MG | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

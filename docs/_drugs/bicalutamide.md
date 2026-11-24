@@ -80,6 +80,18 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 |------|-----|------|------|---------|
 | [35304167](https://pubmed.ncbi.nlm.nih.gov/35304167/) | 2022 | Ulasan/Surat | Journal of the American Academy of Dermatology | Ulasan terhadap kajian retrospektif 35 pesakit tentang bicalutamide untuk hipertrikosis akibat minoxidil pada kerontokan rambut corak wanita. Abstrak tidak tersedia, jadi dapatan terperinci tidak dapat disahkan. |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL10080044AZ | BICAL 50 MG TABLET | Bahan tunggal | JETPHARMA SDN. BHD. | Sah |
+| MAL15065029ACZ | Bicalox film coated tablet 50mg | Bahan tunggal | SCHMIDT BIOMEDTECH SDN. BHD. | Sah |
+| MAL19990958ACRZ | CASODEX TABLET 50MG | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

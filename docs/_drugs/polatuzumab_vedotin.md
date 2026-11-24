@@ -88,6 +88,17 @@ Pertanyaan interaksi ubat telah selesai dengan **100 interaksi** dikesan. Senara
 
 Untuk maklumat amaran utama dan kontraindikasi, sila rujuk risalah maklumat produk.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21036008ACRZ | POLIVY 140mg Powder For Concentrate For Solution For Infusion | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL23086029ARZ | POLIVY 30mg Powder For Concentrate For Solution For Infusion | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ## Kesimpulan dan Langkah Seterusnya
 
 **Keputusan: Hold**

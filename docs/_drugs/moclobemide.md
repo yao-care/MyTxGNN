@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 510
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MOCLOBEMIDE"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
 description: "Moclobemide: indikasi baharu diramal Agorafobia (agoraphobia) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -86,6 +86,16 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 | [12006898](https://pubmed.ncbi.nlm.nih.gov/12006898/) | 2002 | Ulasan/model | J Clin Psychopharmacol | Model tindak balas terapeutik dalam gangguan panik menggunakan data moclobemide |
 | [7954487](https://pubmed.ncbi.nlm.nih.gov/7954487/) | 1994 | Kajian rintis label terbuka | Clin Neuropharmacol | Moclobemide memperbaiki ketakutan dan penghindaran dalam fobia sosial (35 pesakit) |
 | [7892341](https://pubmed.ncbi.nlm.nih.gov/7892341/) | 1995 | Laporan kes | Psychiatr Prax | Rawatan gabungan imipramine, moclobemide dan terapi tingkah laku dalam gangguan panik refraktori dengan agorafobia |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13035054ACZ | Aurorix Film Coated Tablet 150mg | Bahan tunggal | MYLAN HEALTHCARE SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

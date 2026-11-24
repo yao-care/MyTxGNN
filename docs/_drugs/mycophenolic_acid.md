@@ -88,6 +88,20 @@ Ramalan-ramalan lain dalam senarai (contohnya migrain, kekurangan piruvat kinase
 |------|-----|------|------|---------|
 | [39891881](https://pubmed.ncbi.nlm.nih.gov/39891881/) | 2025 | Kajian farmakometrik | Eur J Drug Metab Pharmacokinet | Model farmakokinetik populasi dan simulasi cadangan dos MMF off-label untuk kanak-kanak talasemia yang menjalani pemindahan sel stem hematopoietik |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20040811ARZ | MYFORTIC 180MG GASTRO-RESISTANT TABLETS | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL20040812ARZ | MYFORTIC 360MG GASTRO-RESISTANT TABLETS | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL20046116AZ | ACCOCEPT 180 (Mycophenolic Acid Gastro Resistant Tablets 180 mg) | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL20046117AZ | ACCOCEPT 360 (Mycophenolic Acid Gastro Resistant Tablets 360 mg) | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL23106008ACZ | Mofecon-GR 360 (Mycophenolic Acid Gastro-Resistant Tablets 360mg) | Bahan tunggal | HOVID BERHAD | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

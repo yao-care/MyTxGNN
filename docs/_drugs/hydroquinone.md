@@ -78,6 +78,18 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk indikasi ini.
 |------|-----|------|------|---------|
 | [33046430](https://pubmed.ncbi.nlm.nih.gov/33046430/) | 2021 | Kajian pemerhatian prospektif | J Plast Reconstr Aesthet Surg | Algoritma rawatan gabungan untuk gangguan pigmentasi muka pada pesakit Asia; sebahagian besar pesakit mempunyai pelbagai gangguan pigmentasi serentak. Abstrak yang ada tidak menyatakan keputusan khusus untuk hydroquinone atau keratosis seboroik. |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07122844AZ | Melashine Cream 4%.W/W | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL10080052AZ | Melaquin Cream 4%w/w | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL20061541ACRZ | TRI-LUMA CREAM | Kombinasi | Galderma Malaysia Sdn Bhd | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

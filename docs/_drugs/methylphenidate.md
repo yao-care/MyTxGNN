@@ -74,6 +74,22 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 Pada masa ini tiada literatur berkaitan untuk sindrom faciodigitogenital.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05072100ARZ | CONCERTA 18 mg Extended-release Tablet | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL05072101ARZ | CONCERTA 36 mg Extended-release Tablet | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL05092201ACRZ | RITALIN LA Modified-release Capsule 20mg | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL05092208ACRZ | Ritalin LA Modified-released Capsule 30mg | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL08061554ARZ | CONCERTA 27 mg Extended-release Tablet | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 14 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

@@ -17,15 +17,15 @@
   "drugs_none_current": 3,
   "drugs_without_data": 0,
   "drugs_partial": 0,
-  "items_total": 13653,
-  "items_current": 13219
+  "items_total": 12923,
+  "items_current": 12510
  },
  "reviews": {
-  "records": 752,
+  "records": 756,
   "pages": 542,
   "public_pages_with_records": 523,
   "by_action": {
-   "correct": 300,
+   "correct": 304,
    "mechanism": 452
   }
  },
@@ -56,8 +56,8 @@
    "t": "Folic Acid",
    "u": "/drugs/folic-acid/",
    "l": "L5",
-   "lt": 540,
-   "lv": 527,
+   "lt": 530,
+   "lv": 519,
    "r": 1,
    "i": "biotin metabolic disease"
   },
@@ -98,13 +98,13 @@
    "i": "acne (disease)"
   },
   {
-   "t": "Camphor",
-   "u": "/drugs/camphor/",
-   "l": "L5",
-   "lt": 298,
-   "lv": 289,
-   "r": 1,
-   "i": "Gangguan migrain"
+   "t": "Acetaminophen",
+   "u": "/drugs/acetaminophen/",
+   "l": "N/A",
+   "lt": 248,
+   "lv": 248,
+   "r": 0,
+   "i": ""
   }
  ],
  "no_current": [
@@ -210,9 +210,33 @@
    "d": "2026-11-24"
   },
   {
+   "t": "Progesterone",
+   "u": "/drugs/progesterone/",
+   "s": "Dibetulkan: \"Terdapat 15 lesen kesemuanya, dan semuanya sah (14 produk bahan tunggal dan 1 produk gabungan).\"",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Ofloxacin",
+   "u": "/drugs/ofloxacin/",
+   "s": "Dipadam: \"Senarai penuh pendaftaran juga mengandungi produk fluoroquinolone lain dan produk veterinar, jadi…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Methionine",
+   "u": "/drugs/methionine/",
+   "s": "Dibetulkan: \"Senarai produk bahan tunggal (SAM-e dan selenium; perhatian: bahan aktif tepat perlu disahkan):\"",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Mannitol",
    "u": "/drugs/mannitol/",
    "s": "Dipadam: \"dua lagi pendaftaran (Dapamac 5 dan Dapamac 10, mengandungi dapagliflozin) turut dipadankan dalam…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Desonide",
+   "u": "/drugs/desonide/",
+   "s": "Dipadam: \"Banyak nama produk dalam senarai ini menunjukkan bahan aktif lain (contohnya produk berjenama…",
    "d": "2026-11-24"
   },
   {
@@ -322,30 +346,6 @@
    "u": "/drugs/chlorzoxazone/",
    "s": "Dipadam: \"Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data ini.\"",
    "d": "2026-11-24"
-  },
-  {
-   "t": "Cefoperazone",
-   "u": "/drugs/cefoperazone/",
-   "s": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data ini.\"",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Carbetocin",
-   "u": "/drugs/carbetocin/",
-   "s": "Dipadam: \"Butiran lesen individu (nombor kelulusan, produk, bentuk dos) tidak tersedia dalam data yang…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Calcitriol",
-   "u": "/drugs/calcitriol/",
-   "s": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Calcipotriol",
-   "u": "/drugs/calcipotriol/",
-   "s": "Dipadam: \"Butiran setiap lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang…",
-   "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
@@ -356,9 +356,33 @@
    "d": "2026-11-24"
   },
   {
+   "t": "Progesterone",
+   "u": "/drugs/progesterone/",
+   "s": "Dibetulkan: \"Terdapat 15 lesen kesemuanya, dan semuanya sah (14 produk bahan tunggal dan 1 produk gabungan).\"",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Ofloxacin",
+   "u": "/drugs/ofloxacin/",
+   "s": "Dipadam: \"Senarai penuh pendaftaran juga mengandungi produk fluoroquinolone lain dan produk veterinar, jadi…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Methionine",
+   "u": "/drugs/methionine/",
+   "s": "Dibetulkan: \"Senarai produk bahan tunggal (SAM-e dan selenium; perhatian: bahan aktif tepat perlu disahkan):\"",
+   "d": "2026-11-24"
+  },
+  {
    "t": "Mannitol",
    "u": "/drugs/mannitol/",
    "s": "Dipadam: \"dua lagi pendaftaran (Dapamac 5 dan Dapamac 10, mengandungi dapagliflozin) turut dipadankan dalam…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Desonide",
+   "u": "/drugs/desonide/",
+   "s": "Dipadam: \"Banyak nama produk dalam senarai ini menunjukkan bahan aktif lain (contohnya produk berjenama…",
    "d": "2026-11-24"
   },
   {
@@ -371,30 +395,6 @@
    "t": "Vinblastine",
    "u": "/drugs/vinblastine/",
    "s": "Dipadam: \"Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Valbenazine",
-   "u": "/drugs/valbenazine/",
-   "s": "Dipadam: \"Butiran lesen (nombor kebenaran, nama produk, bentuk dos) tidak tersedia dalam data yang…",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Sorafenib",
-   "u": "/drugs/sorafenib/",
-   "s": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Salmeterol",
-   "u": "/drugs/salmeterol/",
-   "s": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan.\"",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Oxcarbazepine",
-   "u": "/drugs/oxcarbazepine/",
-   "s": "Dipadam: \"Butiran lesen individu tidak tersedia dalam data yang dikumpulkan untuk laporan ini.\"",
    "d": "2026-11-24"
   }
  ],

@@ -91,6 +91,18 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 Pada masa ini tiada literatur berkaitan tersedia.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24046041AZ | DEVIPROST (Carboprost Solution For Injection USP 250 mcg/mL) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL24106026AZ | CAPLIPROST - Carboprost Solution for Injection USP 250 mcg/mL | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL19871353AZ | HEMABATE STERILE SOLUTION 250MCG/ML | Kombinasi | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

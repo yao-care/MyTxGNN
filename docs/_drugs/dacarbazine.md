@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 251
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DACARBAZINE"
 predicted_indications: ["upper aerodigestive tract neoplasm"]
 description: "Dacarbazine: indikasi baharu diramal Neoplasma saluran aerodigestif atas (upper aerodigestive tract neoplasm) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -90,6 +90,17 @@ Penerbitan berikut dipilih daripada data yang dihimpunkan (keutamaan: RCT > Ulas
 | [11815960](https://pubmed.ncbi.nlm.nih.gov/11815960/) | 2002 | Praklinikal | Cancer | Gabungan radioimunoterapi dan dacarbazine dalam xenograf karsinoma tiroid medular pada tikus |
 | [12845209](https://pubmed.ncbi.nlm.nih.gov/12845209/) | 2003 | Laporan kes | Onkologie | Metastasis mukosa melanoma (esofagus, perut, pundi kencing, tonsil palatin) |
 | [29443738](https://pubmed.ncbi.nlm.nih.gov/29443738/) | 2018 | Laporan kes | Medicine | Limfoma Hodgkin tonsil yang tersalah diagnosis sebagai karsinoma tonsil |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19930485ARZ | <p>DBL™ Dacarbazine for Injection 200mg</p> | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL20000058AZ | DTI FOR INJECTION | Bahan tunggal | FIRST PHARMACEUTICAL SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

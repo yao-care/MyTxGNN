@@ -52,8 +52,8 @@ Setakat ini terdapat **0 ujian klinikal** dan hanya kajian asas/mekanistik serta
 | Indikasi Baharu yang Diramalkan | Jerawat (acne) |
 | Skor Ramalan TxGNN | 1.0000 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 131 daripada 142) |
-| Bilangan Pendaftaran | 142 (sah: 131) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 48 daripada 55) |
+| Bilangan Pendaftaran | 55 (sah: 48) |
 | Bilangan Kelulusan | 156 pendaftaran (5 produk bahan tunggal, 151 produk kombinasi) |
 | Keputusan Disyorkan | Hold (Tahan) |
 
@@ -90,25 +90,31 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk jerawat (mahupun 
 
 ## Maklumat Pasaran Malaysia
 
-Pendaftaran yang dikesan kebanyakannya produk kombinasi, dengan sebilangan kecil produk bahan tunggal (bilangan dan status semasa terdapat dalam Gambaran Ringkas). Tiada teks indikasi yang diluluskan dalam data. Kebanyakan adalah produk kombinasi, jadi lesen mereka tidak menggambarkan status kelulusan metionin sebagai bahan tunggal. Senarai produk bahan tunggal (SAM-e dan selenium; perhatian: bahan aktif tepat perlu disahkan):
+Pendaftaran yang dikesan kebanyakannya produk kombinasi (bilangan dan status semasa terdapat dalam Gambaran Ringkas). Tiada teks indikasi yang diluluskan dalam data. Kebanyakan adalah produk kombinasi, jadi lesen mereka tidak menggambarkan status kelulusan metionin sebagai bahan tunggal. Contoh pendaftaran:
 
 <!-- review:begin my-lic-20261112-methionine-1 -->
 
-> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi)." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 161 pendaftaran, 149 sah; 5 bahan tunggal, 156 kombinasi. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi)." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my). Produk SAM-e, selenomethionine dan zinc methionine bukan metionin dan tidak lagi dikira (2026-11-24). Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261112-methionine-1 -->
+
+<!-- review:begin my-lic-20261124c-methionine-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Senarai produk bahan tunggal (SAM-e dan selenium; perhatian: bahan aktif tepat perlu disahkan):" Produk SAM-e (S-adenosyl-L-methionine, ademetionine), selenomethionine (suplemen selenium) dan zinc methionine bukan metionin; pendaftaran ini tidak lagi dikira sebagai pendaftaran metionin, dan pendaftaran yang tinggal ialah produk kombinasi. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124c-methionine-1 -->
 
 <!-- licenses:begin -->
 
 | No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
 |------|------|------|------|------|
-| MAL16115004NCR | Kordel's SAM-e 400mg Tablets | Bahan tunggal | MB NUTRACEUTICALS SDN BHD | Tamat tempoh (tiada dalam daftar semasa NPRA) |
-| MAL18056004NCR | Vitamode SAM-e 400mg Enteric Coated Tablet | Bahan tunggal | Vitamode Sdn.bhd | Sah |
-| MAL25046050NC | Medispec SAM-e 400mg Enteric Coated Tablet | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
-| MAL22016045NC | LAC Selenium 100 mcg Tablet | Bahan tunggal | LAC GLOBAL BRANDS (MALAYSIA) SDN. BHD. | Sah |
-| MAL23096034NC | THORNE Selenium 200mcg Capsule | Bahan tunggal | MITSUI & CO. (MALAYSIA) SDN. BHD. | Sah |
+| MAL04103368XR | 21st Century Burnex Tablet | Kombinasi | 21ST CENTURY PRODUCTS SDN. BHD. | Sah |
+| MAL06021228X | GNC Men"s Mega Men Tablet | Kombinasi | GNC LIVEWELL MALAYSIA SDN. BHD. | Sah |
+| MAL06071084X | GNC Women"s Crowning Glory | Kombinasi | GNC LIVEWELL MALAYSIA SDN. BHD. | Sah |
+| MAL07061381XC | Bio-Life Pil-Food Capsule | Kombinasi | BIO-LIFE MARKETING SDN. BHD. | Sah |
+| MAL08091412XC | EnerJointis | Kombinasi | VIGORACE SDN BHD | Sah |
 
-Jadual di atas menyenaraikan 5 daripada 142 pendaftaran NPRA bagi ubat ini.
+Jadual di atas menyenaraikan 5 daripada 55 pendaftaran NPRA bagi ubat ini.
 
 <!-- licenses:end -->
 
@@ -141,7 +147,8 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi).” → “Pendaftaran yang dikesan kebanyakannya produk kombinasi, dengan sebila” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-12 | Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi).” → “Pendaftaran yang dikesan kebanyakannya produk kombinasi (bilangan dan status semasa terdapat dalam Gambaran Ringkas).” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-24 | Dibetulkan: "Senarai produk bahan tunggal (SAM-e dan selenium; perhatian: bahan aktif tepat perlu disahkan):" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

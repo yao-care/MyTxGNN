@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BRENTUXIMAB VEDOTIN"
 predicted_indications: ["follicular lymphoma", "myeloid leukemia", "acute lymphoblastic/lymphocytic leukemia", "B-cell neoplasm", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "Richter syndrome", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Brentuximab Vedotin: indikasi baharu diramal Limfoma folikular (follicular lymphoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -93,6 +93,16 @@ Tiada ujian yang selesai dan melaporkan keputusan kecekapan khusus untuk limfoma
 | [28967896](https://pubmed.ncbi.nlm.nih.gov/28967896/) | 2018 | Tinjauan | Bone Marrow Transplant | Terapi penyelenggaraan selepas transplan autologus dalam limfoma, termasuk limfoma folikular |
 
 Kebanyakan penerbitan menumpu pada limfoma sel T periferi dan bukan limfoma folikular. Tiada kajian yang dipaparkan menilai brentuximab vedotin secara langsung dalam limfoma folikular.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL15045085ACRZ | Adcetris 50mg, powder for concentrate for solution for infusion | Bahan tunggal | Takeda Malaysia Sdn Bhd | Sah |
+
+<!-- licenses:end -->
 
 ---
 

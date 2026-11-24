@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 253
 evidence_level: L1
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "DAPSONE"
 predicted_indications: ["pneumocystosis"]
 description: "Dapsone: indikasi baharu diramal Pneumocystosis (tahap bukti L1). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
@@ -101,6 +101,17 @@ Dua ujian lain yang disenaraikan dalam data (termasuk NCT00636935, kortikosteroi
 | [33280223](https://pubmed.ncbi.nlm.nih.gov/33280223/) | 2021 | Kajian carta retrospektif | Pediatr Transplant | Methemoglobinemia akibat dapson pada kanak-kanak lepas transplan buah pinggang |
 | [32714715](https://pubmed.ncbi.nlm.nih.gov/32714715/) | 2020 | Laporan kes | Cureus | Hipoksia akibat methemoglobinemia semasa terapi dapson |
 | [31631707](https://pubmed.ncbi.nlm.nih.gov/31631707/) | 2021 | Ulasan | Drug Chem Toxicol | Komplikasi hepar akibat dapson, melangkaui methemoglobinemia |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19961321AZ | PHARMANIAGA DAPSONE TABLET 100MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL25036128ACZ | DAPTON GEL (Dapsone Gel, 7.5%) | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

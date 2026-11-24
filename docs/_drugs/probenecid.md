@@ -95,6 +95,16 @@ Penerbitan berikut dipilih daripada literatur yang diperoleh. Semuanya mengenai 
 
 Bagi ramalan sekunder (Lesch-Nyhan), hanya dua penerbitan diperoleh dan kedua-duanya tidak menyokong: satu model pengiraan sasaran enzim metabolisme asid urik (PMID [24078686](https://pubmed.ncbi.nlm.nih.gov/24078686/)) dan satu kajian biokimia sindrom Tourette tahun 1976 (PMID [1070064](https://pubmed.ncbi.nlm.nih.gov/1070064/)). Tiada penerbitan bagi kekurangan separa HPRT.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19870996AZ | SW PROBENECID TABLET 500MG | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

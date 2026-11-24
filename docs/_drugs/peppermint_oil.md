@@ -93,6 +93,22 @@ Perlu diberi perhatian: bukti sedia ada terhad kepada kajian kecil dengan titik 
 | [30070742](https://pubmed.ncbi.nlm.nih.gov/30070742/) | 2018 | Kajian fisiologi mekanistik manusia | Experimental physiology | Penyejukan gastrik dan mentol meningkatkan aktiviti parasimpatetik jantung pada sukarelawan sihat |
 | [25037671](https://pubmed.ncbi.nlm.nih.gov/25037671/) | 2014 | Ulasan/komentari | Explore (New York) | Terutamanya berkaitan sindrom usus rengsa; kaitan terhad dengan penyakit kardiovaskular |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24106076T | DIGICAP(Peppermint Oil 200mg Enteric Coated Soft Gelatin Capsule) | Bahan tunggal | PERNIAGAAN NORMAHAS SDN. BHD. | Sah |
+| MAL05051119T | PIL SAKIT PERUT BAN KAH CHAI | Kombinasi | BAN KAH CHAI PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL06011838T | Balm Pala Plus | Kombinasi | PERUSAHAAN GAMAT HY (M) SDN BHD | Sah |
+| MAL06061506T | Balm Gamat Plus | Kombinasi | PERUSAHAAN GAMAT HY (M) SDN BHD | Sah |
+| MAL06061507T | Balm Cengkih Plus | Kombinasi | PERUSAHAAN GAMAT HY (M) SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 46 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

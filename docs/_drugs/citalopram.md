@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "CITALOPRAM"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder"]
 last_modified_at: 2026-11-24
-description: "Citalopram: indikasi baharu diramal Gangguan Obsesif-Kompulsif (obsessive-compulsive disorder) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 27 (sah: 26)"
+description: "Citalopram: indikasi baharu diramal Gangguan Obsesif-Kompulsif (obsessive-compulsive disorder) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
 # Citalopram
@@ -48,8 +48,8 @@ Citalopram ialah perencat pengambilan semula serotonin terpilih (SSRI) yang suda
 | Indikasi Baharu yang Diramalkan | Gangguan Obsesif-Kompulsif (obsessive-compulsive disorder) |
 | Skor Ramalan TxGNN | 0,9974 |
 | Tahap Bukti | L2 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 26 daripada 27) |
-| Bilangan Pendaftaran | 27 (sah: 26) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | Keputusan Disyorkan | Teruskan dengan Langkah Kawalan |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -88,12 +88,7 @@ Secara mekanisme, tindakan serotonergik citalopram selaras dengan rasional terap
 | No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
 |------|------|------|------|------|
 | MAL08061582AZ | Apo-Citalopram Tablets 20 mg | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
-| MAL10070577AZ | Espran 20mg Tablet | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
-| MAL10070578AZ | Espran 10mg Tablets | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
-| MAL10070579AZ | Espran 5mg Tablets | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
-| MAL10100144AZ | Deprilept Tablets 10 mg | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
-
-Jadual di atas menyenaraikan 5 daripada 27 pendaftaran NPRA bagi ubat ini.
+| MAL19950394AZ | CIPRAM TABLETS 20MG | Bahan tunggal | Lundbeck Malaysia Sdn. Bhd. | Sah |
 
 <!-- licenses:end -->
 

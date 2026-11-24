@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "CARBIMAZOLE"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carbimazole: indikasi baharu diramal Rintangan hormon tiroid akibat mutasi pada reseptor hormon tiroid beta (resistance to thyroid hormone due to a mutation… (tahap bukti L5). Indikasi asal: Tidak di…"
 ---
 
@@ -77,6 +77,19 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 | PMID | Tahun | Jenis | Jurnal | Dapatan Utama |
 |------|-----|------|------|---------|
 | [24165508](https://pubmed.ncbi.nlm.nih.gov/24165508/) | 2013 | Laporan kes | BMJ Case Reports | Seorang lelaki muda didiagnosis dengan hipertiroidisme 10 tahun sebelum itu dan dirawat dengan carbimazole secara berselang. fT4 kekal tinggi (25–35.7 pmol/L) dengan TSH tidak tertekan (6.78–22.1 mIU/L), disertai goiter yang licin dan keras. Kes ini menggambarkan paras hormon tiroid tinggi dengan TSH tidak tertekan, tetapi bukan kajian keberkesanan. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12020025ACZ | NeoMercazole Tablet 5 mg | Bahan tunggal | A. MENARINI SINGAPORE PTE. LTD. | Sah |
+| MAL19860195AZ | CAMAZOL TABLET 5MG | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+| MAL19950155AZ | THYMAZOLE TABLET | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL20142426AEZ | HOVID CARBIMAZOLE TABLET 5MG | Bahan tunggal | HOVID BERHAD | Sah |
+
+<!-- licenses:end -->
 
 ---
 

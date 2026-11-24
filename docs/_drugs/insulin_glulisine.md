@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 421
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "INSULIN GLULISINE"
 predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 description: "Insulin Glulisine: indikasi baharu diramal Thiamine-responsive dysfunction syndrome (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
@@ -65,7 +65,6 @@ Data terperinci mengenai mekanisme tindakan belum tersedia dalam data yang dikum
 
 Diabetes jenis 1 ialah indikasi berlabel teras bagi ubat ini. Oleh itu, ramalan ini selari dengan penggunaan klinikal sedia ada dan bukan penemuan indikasi baharu. Ulasan literatur menerangkan bahawa glulisine mempunyai permulaan tindakan yang lebih pantas dan tempoh yang lebih singkat berbanding insulin manusia biasa, sesuai untuk rejimen basal-bolus.
 
-
 ---
 
 ## Bukti Percubaan Klinikal
@@ -101,6 +100,16 @@ Berikut ialah percubaan terpilih (daripada 28 percubaan yang direkodkan). Sebaha
 | [28544684](https://pubmed.ncbi.nlm.nih.gov/28544684/) | 2017 | Kajian klinikal | Pediatr Int | Glulisine dalam CSII pada 20 kanak-kanak: glukosa selepas sarapan dan makan malam bertambah baik selepas setahun |
 | [18076215](https://pubmed.ncbi.nlm.nih.gov/18076215/) | 2008 | Farmakologi klinikal | Clin Pharmacokinet | Farmakokinetik dan farmakodinamik glulisine: penyerapan lebih pantas dan tempoh lebih singkat |
 | [25865292](https://pubmed.ncbi.nlm.nih.gov/25865292/) | 2016 | Ulasan | Diabetes Metab Res Rev | Infusi insulin subkutan berterusan: populasi pesakit, keselamatan dan keberkesanan |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20081842AZ | APIDRA SOLOSTAR 100 UNITS/ML, SOLUTION FOR INJECTION IN A PRE-FILLED PEN | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+
+<!-- licenses:end -->
 
 ---
 

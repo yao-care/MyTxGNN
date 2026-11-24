@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 436
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ITRACONAZOLE"
 predicted_indications: ["pneumocystosis"]
 description: "Itraconazole: indikasi baharu diramal Pneumocystosis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 8 (sah: 8)"
@@ -90,6 +90,22 @@ Senarai berikut dipilih mengikut keutamaan: RCT > ulasan > laporan kes. Kebanyak
 | [26036497](https://pubmed.ncbi.nlm.nih.gov/26036497/) | 2015 | Kohort | Transplantation Proceedings | Pengalaman satu pusat tentang jangkitan kulat invasif selepas pemindahan buah pinggang |
 | [2233233](https://pubmed.ncbi.nlm.nih.gov/2233233/) | 1990 | Siri kes | Medicine | Histoplasmosis tersebar dalam AIDS: penemuan klinikal, diagnosis dan rawatan |
 | [36891307](https://pubmed.ncbi.nlm.nih.gov/36891307/) | 2023 | Laporan kes dan ulasan | Frontiers in Immunology | Jangkitan bersama *Talaromyces marneffei* dan *Pneumocystis jirovecii* pada kanak-kanak dengan mutasi STAT1 |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05041950AZ | Inox Capsule 100 mg | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL05072016AZ | Sporanox Capsule 100mg | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL06051296AZ | UNITRAC CAPSULE 100MG | Bahan tunggal | THE ZYFAS MEDICAL CO., | Sah (pendaftaran bersyarat) |
+| MAL20000072AZ | ITRAZOL CAPSULE | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL20076044ACZ | CANDIFORCE-100 Itraconazole Capsules BP 100 mg | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

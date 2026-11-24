@@ -80,6 +80,17 @@ Setakat ini tiada ujian klinikal berkaitan didaftarkan.
 |------|-----|------|------|---------|
 | [33513356](https://pubmed.ncbi.nlm.nih.gov/33513356/) | 2021 | Ulasan | Pharmacological Research | Ulasan umum sifat perencat protein kinase molekul kecil yang diluluskan FDA (kemas kini 2021); tidak menilai capmatinib dalam RA |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22046004ARZ | Rahika 150mg Film-coated Tablet | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL22046005ARZ | Rahika 200mg Film-coated Tablet | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

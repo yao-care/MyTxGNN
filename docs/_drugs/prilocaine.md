@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 599
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 monitor_inn: "PRILOCAINE"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
 description: "Prilocaine: indikasi baharu diramal Konjunktivitis papilari (papillary conjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
@@ -75,6 +75,20 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 ## Bukti Literatur
 
 Pada masa ini tiada literatur berkaitan tersedia.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22066002AZ | Takipril 20mg/ml Solution for Injection | Bahan tunggal | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL10053665ACZ | RACSER CREAM 5% | Kombinasi | APEX PHARMACY MARKETING SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL19890695AZ | EMLA CREAM 5% | Kombinasi | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+| MAL24066016AZ | Axcel Lignocaine-P Cream | Kombinasi | KOTRA PHARMA (M) SDN. BHD. | Sah |
+| MAL26106034AZ | TOPOCAIN-LP (Lidocaine 2.5% w/w and Prilocaine 2.5% w/w Cream) | Kombinasi | MEDISPEC (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

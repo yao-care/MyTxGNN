@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 418
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "INSULIN DEGLUDEC"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome"]
 description: "Insulin Degludec: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
@@ -107,6 +107,20 @@ Sebanyak 40 percubaan klinikal disenaraikan dalam data. Berikut ialah 10 yang pa
 ## Pengambilan Ramalan Lain
 
 Lima ramalan lain (autoimmune oophoritis, opsismodysplasia, sindrom disfungsi responsif tiamin, sindrom anggota kaku fokal, dan sindrom orang kaku klasik) tidak mempunyai percubaan klinikal atau literatur. Tahap buktinya L5 dan keputusannya **Hold**.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18046008AZ | Tresiba Flextouch 200 U/mL Solution for Injection | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL18046009AZ | Tresiba FlexTouch 100 U/ml Solution for Injection | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL23046006ASZ | Tresiba FlexTouch 100 U/ml Solution for Injection | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL18046010AZ | Ryzodeg FlexTouch 100 U/ml Solution for Injection | Kombinasi | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL22096008AZ | Xultophy 100 units/mL + 3.6 mg/mL Solution for Injection | Kombinasi | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

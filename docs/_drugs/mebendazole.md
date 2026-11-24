@@ -80,6 +80,22 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 |------|-----|------|------|---------|
 | [7072899](https://pubmed.ncbi.nlm.nih.gov/7072899/) | 1982 | Laporan kes | The American Journal of Tropical Medicine and Hygiene | Laporan kes sparganosis proliferatif pada manusia di Venezuela; pesakit mempunyai lesi nodul/papul seakan jerawat, abses subkutan, anemia dan eosinofilia. Ini bukan bukti keberkesanan mebendazol untuk jerawat. |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06061546X | M-zole Chewable Tablet | Bahan tunggal | WINWA MEDICAL SDN. BHD. | Sah |
+| MAL06091453X | M-zole Suspension | Bahan tunggal | WINWA MEDICAL SDN. BHD. | Sah |
+| MAL16010017HX | QUEMOX POWDER 50mg/g | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL19910332X | Royce Mebendazole Tablet 100mg | Bahan tunggal | ROYCE PHARMA MANUFACTURING SDN. BHD. | Sah |
+| MAL19910598XC | Hurix's Deworming Suspension | Bahan tunggal | JIN BIN CORPORATION SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 13 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan dan Perkara Perlu Diberi Perhatian

@@ -70,6 +70,16 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21126002ACRZ | RADICAVA IV Concentrate Solution for Infusion 30mg/20mL | Bahan tunggal | Mitsubishi Tanabe Pharma Malaysia Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
+
 ## Pertimbangan Keselamatan
 
 Sila rujuk sisipan pakej untuk maklumat keselamatan. Pada masa ini tiada data interaksi ubat yang ditemui dan tiada kontraindikasi berasaskan graf pengetahuan yang direkodkan.

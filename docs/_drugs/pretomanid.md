@@ -76,6 +76,17 @@ Setakat ini tiada percubaan klinikal berkaitan didaftarkan.
 
 Setakat ini tiada literatur berkaitan untuk kandidiasis.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL25086001AZ | Pretomid 200 (Pretomanid Tablets 200 mg) | Bahan tunggal | Macleods Pharmaceuticals Sdn. Bhd. | Sah |
+| MAL26066008AZ | Dovprela (Pretomanid Tablets 200mg) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

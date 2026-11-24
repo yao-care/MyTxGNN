@@ -74,6 +74,22 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Pada masa ini tiada literatur berkaitan yang tersedia.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06041435XC | Pabron Cough Syrup 250mg/5ml | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL06041436XC | Pabron Kids Cough Syrup 100mg/5ml | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL06041437XC | Pabron Cough Tablet 375mg | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL18016075X | MUCOKIDS ORAL SOLUTION 125MG/5ML | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+| MAL19910914XC | RHINATHIOL 2% CHILDREN SYRUP | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 18 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

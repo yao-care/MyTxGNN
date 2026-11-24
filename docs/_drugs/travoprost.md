@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 698
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Travoprost"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "idiopathic spontaneous coronary artery dissection", "lymphangiectasis", "hemangioendothelioma"]
 description: "Travoprost: indikasi baharu diramal Visceral calciphylaxis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
@@ -82,6 +82,19 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk kalsifilaksis visera
 ## Cytotoksisiti
 
 Bahagian ini tidak berkenaan kerana travoprost bukan ubat antineoplastik.
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL17035029AZ | TRAVO EYE DROPS 0.004% W/V | Bahan tunggal | Gopharma Sdn. Bhd. | Sah |
+| MAL17085069ARZ | IZBA 30 micrograms/mL eye drops, solution | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL20032150ARZ | TRAVATAN 0.004% OPHTHALMIC SOLUTION | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL20081848ARZ | DUO TRAV EYE DROPS | Kombinasi | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

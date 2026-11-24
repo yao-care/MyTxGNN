@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 322
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "EMTRICITABINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Emtricitabine: indikasi baharu diramal Sindrom imunodefisiensi dapatan kucing (feline acquired immunodeficiency syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 14 (sah: 13)"
@@ -97,6 +97,22 @@ Bagi indikasi SIV (sokongan translasi, dipilih daripada 19 penerbitan):
 | [22964889](https://pubmed.ncbi.nlm.nih.gov/22964889/) | 2012 | Ulasan | Curr Opin HIV AIDS | Ulasan model haiwan profilaksis antiretroviral untuk pencegahan HIV |
 | [22918448](https://pubmed.ncbi.nlm.nih.gov/22918448/) | 2012 | Ulasan/Komentar | Curr Opin HIV AIDS | Pertimbangan kemoprofilaksis antiretroviral pada lelaki yang berhubungan seks dengan lelaki (MSM) |
 | [20874040](https://pubmed.ncbi.nlm.nih.gov/20874040/) | 2010 | Ulasan | Pharmacotherapy | Ulasan profilaksis pra-pendedahan sistemik untuk HIV |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13065053AZ | Viraday Tablets (Tenofovir Disoproxil Fumarate 300mg + Emtricitabine 200mg + Efavirenz 600 mg) | Kombinasi | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL16015040AZ | Trustiva Tablet | Kombinasi | CAMBER LABORATORIES SDN. BHD. | Sah |
+| MAL16015041AZ | TENOF-EM Tablet | Kombinasi | CAMBER LABORATORIES SDN. BHD. | Sah |
+| MAL16065046AZ | RICOVIR-EM 200mg/300mg Tablets | Kombinasi | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL18116088ACZ | Descovy (emtricitabine 200 mg/ tenofovir alafenamide 25 mg) film-coated tablets | Kombinasi | Gilead Sciences Malaysia Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 14 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

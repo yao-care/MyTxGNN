@@ -555,7 +555,7 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   apixaban、cyanocobalamin、vitamin_e 的 11-12 紀錄同 id 重發（前版存 history）。
 - 同日修正換尾碼的「同一個證據包」判定：原本用全站聯集（舊號只要在任何一個也含新號的證據包就整站標 RETIRED_STATUS），同一個舊號在好幾個藥的證據包時會誤判。
   改成逐個證據包判斷（preprocess 標 `npra_duplicate_of`、update 換成 RETIRED_STATUS；其他證據包沿用新號的現行狀態）。受影響 5 個證據包 6 筆：trastuzumab（Enhertu MAL24046001ACZ，新號只在 trastuzumab_deruxtecan；14 張中 13→14 張有效，`my-lic-20261112-trastuzumab-1` 同 id 重發）、
-  ofloxacin（Ducressa MAL23076003ACZ；142→143 張有效）、calcium_pantothenate、sodium_phosphate、vitamin_d（後三個沒有藥物頁）。trastuzumab 頁收 Enhertu／Kadcyla、ofloxacin 頁收 levofloxacin 產品，是原收集器依藥名子字串比對的既有規則，照舊。
+  ofloxacin（Ducressa MAL23076003ACZ；142→143 張有效）、calcium_pantothenate、sodium_phosphate、vitamin_d（後三個沒有藥物頁）。trastuzumab 頁收 Enhertu／Kadcyla、ofloxacin 頁收 levofloxacin 產品，是原收集器依藥名子字串比對的結果；2026-11-24 第三輪用戶決定「逐站修對照並重算」後已排除（見下「第三輪」一節）。
 - 同日修 `src/mytxgnn/regulatory/count_prose.py`：「1 sah dan 1 dibatalkan」的第一個數字被當成註銷數（中間跳過 sah），ambroxol 會被改成「0 sah dan 0 dibatalkan」；註銷角色的中間字不能是 sah／aktif 或數字。
 
 ## 同一 DrugBank ID 的重複公開頁改轉址（2026-11-19）
@@ -664,9 +664,19 @@ amlodipine_besilate 81→128 張（有效 76→123）、diphenhydramine_hcl 21�
   zinc←bacitracin zinc 14（沒有藥物頁），共 10 個證據包 142 筆（arginine glutamate 等本藥本身的鹽照收）。
   `rebuild_licenses_by_ingredient.py` 不補回 excluded_records；`.github/workflows/license-refresh.yml` 在 merge_duplicate_bundles 之後跑這支（重新收集證據包後也要再跑）。
   7 頁概覽列、程式表、description 由程式同步；正文矛盾 2 句以 `my-lic-20261124c-mannitol-1`（刪 Dapamac 說明）、`my-lic-20261124c-propylene_glycol-1`（「Tiga pendaftaran ditemui」改成不寫數字）更正。
-  沒處理（不是鹽類部分，原收集器子字串規則的既有結果，要用戶決定）：glycine 頁收「Glycine max」（大豆）約 150 筆、ofloxacin 收 marbofloxacin／levofloxacin、citalopram 收 escitalopram、
-  omeprazole 收 esomeprazole、desonide 收 budesonide、loratadine 收 desloratadine 等（公開頁 85 頁有成分不含本藥名稱的紀錄、93 頁有本藥名稱只是更長名稱一部分的紀錄）。
-- B. 公開頁整頁沒有「## Maklumat Pasaran (di) Malaysia」、證據包有紀錄的 222 頁（新版報告格式）：`sync_license_tables.add_section` 在安全性段落前（沒有就結論、再沒有就 Penafian 前）補段落與程式表；
-  超過 200 頁，照工作說明先回報用戶，`ADD_SECTIONS` 預設關閉（`--add-sections` 才做），同意後改 True 並在 gate 加「公開頁有證據包紀錄卻沒有市場段落」。license_adapter PAGE_NOTE 已放行標題行。
+  同日續做（用戶決定「逐站修對照並重算」，涵蓋子字串誤收）：同一支程式加 OTHER 表（每種寫法附依據）——登記的 active_ingredient／generic_name／product 正規化後拿掉表上「另一個藥」的寫法，
+  已找不到本藥名稱（原收集器比的子字串）、表上寫法至少出現一次、沒有成分本身就是本藥 → 排除；另 RECORD_MISMATCH 收 NPRA 欄位錯植的個別登記（RESICALM MAL09102936AZ：成分 risperidone、generic_name 錯寫 budesonide）。
+  全站量測公開頁（成分沒有本藥名稱 85 頁、本藥名稱只是更長名稱一部分 93 頁）的每組寫法逐一判斷：本藥的鹽／酯、拼法變體（lignocaine、frusemide、aciclovir、cefalexin、oestradiol…）、劑型或藥典字樣（micronised、pellets、BP）、
+  營養來源（N-acetyl-L-tyrosine、glycyl-L-tyrosine）、多種維生素成分欄解析不全的照收；排除 41 個證據包 735 筆（都是公開頁的證據包）：glycine←Glycine max／soja（大豆）163、ofloxacin←cipro／levo／enro／marbo／danofloxacin 133、
+  methionine←selenomethionine、SAM-e、hydroxymethionine、zinc monomethionine 87（另有上面 SALT_PART 的 19 筆）、camphor←Antrodia camphorata（牛樟芝）、Cinnamomum camphora（樟樹萃取）、Borneo camphor、camphor monobromide 72、desonide←budesonide 34、
+  phenol←mycophenolate、propofol、植物多酚 26、benzoic_acid←PABA、2-hydroxybenzoic acid 26、citalopram←escitalopram 25、salicylic_acid←aspirin、mesalazine 24、omeprazole←esomeprazole 24、serine←phosphatidylserine、cycloserine 23、
+  folic_acid←5-methyltetrahydrofolic acid 10、tretinoin←isotretinoin 8、progesterone←medroxy／hydroxyprogesterone 8、trastuzumab←deruxtecan／emtansine 7、prednisolone(_acetate)←methylprednisolone 8，其餘 1～5 筆（alanine、uracil、turoctocog_alfa、resorcinol、filgrastim、
+  epinephrine、atracurium_besylate、streptomycin、ketoprofen、glycerin、ethanol、lansoprazole、aprepitant、acyclovir、valine、isoleucine、phenylalanine、vitamin_a、sodium_citrate、iron、flurbiprofen、ergometrine、daunorubicin、budesonide）。
+  排除後張數變 0 的頁：0（desonide、uracil 各剩 1 張）。收集器 `collectors/npra.py` 的 `_drop_other_drugs` 照同一份表不收；每週排程同一支（license-refresh.yml）。
+  正文矛盾以 `my-lic-20261124c-{desonide,ofloxacin,progesterone,methionine}-1` 更正，`my-lic-20261112-methionine-1` 同 id 重發（「sebilangan kecil produk bahan tunggal」不再成立，前版存 history）。
+  沒處理：noindex 頁與沒有藥物頁的證據包裡同類寫法（全站另有約 300 組，只改得到表上列的證據包）。
+- B. 公開頁整頁沒有「## Maklumat Pasaran (di) Malaysia」、證據包有紀錄的 222 頁（新版報告格式）：`sync_license_tables.add_section` 在安全性段落前（213 頁；沒有就結論前 7 頁、再沒有就 Penafian 前 2 頁）補段落與程式表（列數 min(5, 總數)）；
+  超過 200 頁，先回報、用戶同意（不設頁數上限）後套用；gate（licenses.py page_problems）擋「公開頁有證據包紀錄卻沒有市場段落」；license_adapter PAGE_NOTE 放行標題行。
+  正文預掃與新表矛盾的句子：nitrous_oxide「data pendaftaran tempatan untuk indikasi asalnya tidak tersedia」講的是適應症文字（程式表也沒有適應症欄），查證成立、不改；其他是待辦條目，不改。正文或表有變的頁 last_modified_at 改 2026-11-24。
 - `scripts/build_license_snapshot.py` 不帶 `--ws` 時不重建快照，只重排程式表、跑正文張數改寫。
 - checker 全量前後都是 P5 1（cyclosporine，原有）；gate exit 0。

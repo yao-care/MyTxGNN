@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-24
 monitor_inn: "Uracil"
 predicted_indications: ["lipoma of colon", "colonic lymphangioma", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "cavernous hemangioma of colon", "cecal disease", "colon leiomyoma"]
-description: "Uracil: indikasi baharu diramal Lipoma kolon (lipoma of colon) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 4)"
+description: "Uracil: indikasi baharu diramal Lipoma kolon (lipoma of colon) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
 # Uracil
@@ -50,8 +50,8 @@ tetapi pada masa ini **tiada kajian klinikal** dan **tiada penerbitan** yang men
 | Indikasi Baharu yang Diramalkan | Lipoma kolon (lipoma of colon) |
 | Skor Ramalan TxGNN | 0.9936 |
 | Tahap Bukti | L5 |
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 4 daripada 5) |
-| Bilangan Pendaftaran | 5 (sah: 4) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 1 daripada 1) |
+| Bilangan Pendaftaran | 1 (sah: 1) |
 | Keputusan Disyorkan | Hold (Tangguh) |
 
 ## Mengapa Ramalan Ini Munasabah?
@@ -74,11 +74,7 @@ Pada masa ini tiada literatur berkaitan.
 
 | No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
 |------|------|------|------|------|
-| MAL19930398AZ | PROPYL TABLET 50MG | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
-| MAL19950200ARZ | DBL® Fluorouracil Injection BP 500mg/10ml | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
-| MAL09082788AZ | FLURAC INJECTION B.P. 50MG/ML | Bahan tunggal | JETPHARMA SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
 | MAL09102913AZ | UFUR Capsule | Kombinasi | PHARM-D SDN. BHD. | Sah |
-| MAL19871320AZ | VERRUMAL SOLUTION | Kombinasi | ZUELLIG PHARMA SDN. BHD. | Sah |
 
 <!-- licenses:end -->
 

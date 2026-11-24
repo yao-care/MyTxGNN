@@ -96,6 +96,17 @@ Sebagai rujukan, satu penerbitan ditemui untuk calon kedudukan 5 (sarkoma Kaposi
 |------|-----|------|------|---------|
 | [39970477](https://pubmed.ncbi.nlm.nih.gov/39970477/) | 2024 | Ulasan | AIDS Reviews | Ulasan tentang pelbagai etiologi penyakit Castleman, termasuk jangkitan virus; bukan bukti langsung keberkesanan siltuksimab dalam sarkoma Kaposi |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL17035027AZ | Sylvant 400mg Powder for Concentrate for Solution for Infusion | Bahan tunggal | LINK HEALTHCARE SDN. BHD. | Sah |
+| MAL17035028AZ | Sylvant 100mg Powder for Concentrate for Solution for Infusion | Bahan tunggal | LINK HEALTHCARE SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

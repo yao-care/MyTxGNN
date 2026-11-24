@@ -91,6 +91,20 @@ Beberapa kaveat perlu diambil kira: toleransi nitrat, kemungkinan pemburukan pad
 | [26139748](https://pubmed.ncbi.nlm.nih.gov/26139748/) | 2015 | Ulasan | Ann Card Anaesth | Terapi disedut untuk hipertensi pulmonari perioperatif |
 | [42572609](https://pubmed.ncbi.nlm.nih.gov/42572609/) | 2026 | Ulasan | JHLT Open | Vasodilator pulmonari disedut dalam hipertensi pulmonari: penggunaan perioperatif |
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09051570AZ | Myonit Insta Sublingual Tablets USP 0.5mg | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL09122776AZ | NITROSOL SUBLINGUAL AEROSOL SPRAY 400mcg/actuation | Bahan tunggal | Vitamode Sdn.bhd | Sah |
+| MAL10120023ACZ | Glyceryl Trinitrate-hameln 1mg/ml Injection | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL19985170AZ | GITRINIL INJECTION 10ML AMP | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL23126016ACZ | GLICE Glyceryl Trinitrate1mg/ml Solution for Injection for Infusion | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+
+<!-- licenses:end -->
+
 ---
 
 ## Keselamatan

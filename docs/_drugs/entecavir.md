@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 325
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "ENTECAVIR"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
 description: "Entecavir: indikasi baharu diramal Jangkitan virus hepatitis C kronik (chronic hepatitis C virus infection) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
@@ -91,6 +91,22 @@ Skor TxGNN yang tinggi berkemungkinan mencerminkan kedekatan HBV dan HCV sebagai
 | [35108715](https://pubmed.ncbi.nlm.nih.gov/35108715/) | 2022 | Kajian klinikal (jenis tidak dikelaskan) | Dig Dis | Kekerapan dan perjalanan klinikal pengaktifan semula HBV dalam pesakit yang dirawat dengan DAA untuk HCV. |
 | [24868325](https://pubmed.ncbi.nlm.nih.gov/24868325/) | 2014 | Tidak dikelaskan | World J Hepatol | Pengurusan pesakit hepatitis B dan C sebelum dan selepas pemindahan hati dan buah pinggang. Dos analog nukleos(t)ida perlu dilaraskan mengikut pelepasan kreatinin. |
 | [32173307](https://pubmed.ncbi.nlm.nih.gov/32173307/) | 2020 | Tidak dikelaskan | Clin Res Hepatol Gastroenterol | Pengurusan semasa dan masa depan hepatitis virus B dan C dalam kanak-kanak. |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12075075AZ | ENTECA TABLETS 1 mg | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL12075076AZ | ENTECA TABLETS 0.5 mg | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL18116080AZ | Hepuri F.C. Tablet 0.5mg (Entecavir) | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL18126104AZ | Tecavir 1 (Entecavir Tablets 1 mg) | Bahan tunggal | CAMBER LABORATORIES SDN. BHD. | Sah |
+| MAL18126105AZ | Tecavir 0.5 (Entecavir Tablets 0.5 mg) | Bahan tunggal | CAMBER LABORATORIES SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

@@ -75,6 +75,22 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Pada masa ini tiada literatur berkaitan.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18046166AZ | OLMESAR 40 (Olmesartan Medoxomil Tablets 40mg) | Bahan tunggal | CAMBER LABORATORIES SDN. BHD. | Sah |
+| MAL18046167AZ | OLMESAR 20 (Olmesartan Medoxomil Tablets 20mg) | Bahan tunggal | CAMBER LABORATORIES SDN. BHD. | Sah |
+| MAL20051373ACRZ | OLMETEC 40MG FILM-COATED TABLET | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL20051374ACRZ | OLMETEC 20MG FILM-COATED TABLET | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL20126123AZ | MEPRESIN 40 (OLMESARTAN MEDOXOMIL TABLETS 40MG) | Bahan tunggal | Ascend Laboratories Sdn Bhd | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 14 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan

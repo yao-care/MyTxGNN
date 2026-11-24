@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 248
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 monitor_inn: "CYPROTERONE ACETATE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "amenorrhea (disease)", "breast fibrocystic disease", "thrombophilia"]
 description: "Cyproterone Acetate: indikasi baharu diramal Gangguan migrain (migraine disorder) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
@@ -81,6 +81,19 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 | [14670648](https://pubmed.ncbi.nlm.nih.gov/14670648/) | 2003 | Ulasan | Maturitas | Progestin berinteraksi dengan reseptor GABA-A, dopamin dan opioid. CPA meningkatkan tindak balas dopaminergik dan mengikat reseptor opiat |
 | [12390622](https://pubmed.ncbi.nlm.nih.gov/12390622/) | 2002 | Kohort | Headache | Tiga skim terapi penggantian hormon oral memberi kesan berbeza terhadap migrain pada wanita pascamenopaus |
 | [10857213](https://pubmed.ncbi.nlm.nih.gov/10857213/) | 2000 | Ulasan | Zentralblatt fur Gynakologie | Kesan sampingan jangka panjang terapi mengandungi CPA dalam ginekologi, termasuk perbahasan tentang potensi mutagenik. Tidak berkaitan secara langsung dengan keberkesanan untuk migrain |
+
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05090010AZ | Estelle-35 tablets | Kombinasi | SCHMIDT BIOMEDTECH SDN. BHD. | Sah |
+| MAL10100173AZ | Giane 35 Tablet | Kombinasi | Vitamode Sdn.bhd | Sah |
+| MAL14125068ACZ | CYBELLE 2mg/0.035mg film-coated tablet | Kombinasi | EURODRUG LABORATORIES (M) SDN. BHD. | Sah |
+| MAL19900568AZ | DIANE 35 TABLET | Kombinasi | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

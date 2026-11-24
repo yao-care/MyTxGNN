@@ -80,6 +80,22 @@ Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Buat masa ini tiada literatur berkaitan.
 
+## Maklumat Pasaran di Malaysia
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL08061551AZ | Octride Injection 100mcg/ml | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL08061552AZ | Octride Injection 50mcg/ml | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL19913234ACRZ | SANDOSTATIN AMPOULES 0.05 MG/1 ML | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL19913235ACRZ | SANDOSTATIN AMPOULES 0.1MG/1 ML | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL20001024ARZ | SANDOSTATIN LAR 20MG | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
 ---
 
 ## Pertimbangan Keselamatan
