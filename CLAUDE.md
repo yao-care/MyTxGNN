@@ -616,7 +616,7 @@ amlodipine_besilate 81→128 張（有效 76→123）、diphenhydramine_hcl 21�
   選列：換表當時報告原表依序列出的登記號（`config/license_table_pins.json`，240 頁）在前，其餘單方在前、Sah 在前、再依號碼；列數＝原表列數（最多 30；8 頁是 10-31 known_use_pages 的 30 列表），
   正文「Jadual di bawah menyenaraikan lima…」照樣成立；總數多於列數時表下一句「Jadual di atas menyenaraikan N daripada M pendaftaran NPRA bagi ubat ini.」。
   adalimumab、alpha-tocopherol_acetate、clobetasol_propionate、dexamethasone 正文說表上的都是 sah，選列裡已非有效的號拿掉。產品名含 checker 註銷字樣（例 Revoke-1.5 levonorgestrel）的有效登記排在同類最後（checker M1 會誤判）。
-  段落裡原本沒有表的頁不加表（177 個公開頁；其中 58 頁正文寫「Butiran lesen individu tidak disenaraikan／tidak tersedia…」，加表會讓這些句子變錯，要不要加待用戶決定）。
+  段落裡原本沒有表的頁當時不加表（177 個公開頁；2026-11-24 第二輪用戶決定補表，見下節）。
   10-31 known_use_pages 表下的「Data hanya mengandungi sebahagian pendaftaran…」（證據包現在都是完整紀錄）換表時拿掉（6 頁）。
 - 快照 `snapshots/my_licenses.json.gz` 另存 rows（最多 30 列）／nrows；gate 第 19 項（`site.py` program_block_problems）擋「段落有表卻不是程式區塊」「程式區塊≠快照重算」「說明句不對」。
   接上：`scripts/license_adapter.py` 的 `sync_tables`（每週排程全站重排）與 `PAGE_NOTE`；`scripts/apply_drug_reviews.py`（非 --check）結尾先重排表再跑 B；
@@ -632,3 +632,22 @@ amlodipine_besilate 81→128 張（有效 76→123）、diphenhydramine_hcl 21�
   checker 全量前後都是 P5 1（cyclosporine，原有、無關）；gate exit 0。正文或表有變的 407 頁 last_modified_at 改 2026-11-24。
 - 母目錄 `.claude/license_labels/MyTxGNN.json` 只有 Sah／Dibatalkan Pendaftaran；程式表另會寫 Tamat tempoh…、Nombor pendaftaran lama…、Tidak lagi tersenarai…、Status tidak dapat disahkan、
   Sah (pendaftaran bersyarat)／Sah (kini disenaraikan…)。lts.apply 認不得的格子不動、由 sync_tables 重排，不會列成 unsynced；要讓 lts 也認得，請在母目錄補這幾個字。
+
+## 第二輪：缺表的頁補程式表、舊錯句寫紀錄（2026-11-24）
+
+用戶 2026-11-24 第二輪決定（「缺表的頁補程式表」「舊錯句逐句寫查核紀錄更正」）：
+- `scripts/sync_license_tables.py`：市場段落沒有表、證據包有紀錄的頁，程式區塊加在段落結尾（結尾「---」之前；段落沒有內容時＝標題下），列數 min(5, 總數)、總數較多時照樣加 SHOW 句；
+  `carry_block` 同樣放在段落結尾。gate 第 19 項（site.py program_block_problems）另擋「快照有登記、市場段落卻沒有程式區塊」。補表 177 個公開頁（noindex 0 頁）。
+- 跟新表矛盾的句子以 75 筆 `my-lic-20261124b-*` 與 8 筆同 id 重發（`my-lic-20261105-{arginine,calcium_lactate,citalopram,levofloxacin,levonorgestrel,miconazole,ranitidine,uracil}-1`：原本留下的「明細不可得」句一併刪，前版存 history）更正，共 78 頁：
+  - 「Butiran lesen individu tidak tersedia／tidak disenaraikan…」57 句：整句刪（7 句只刪該子句，例 busulfan 保留「Teks indikasi … tidak direkodkan」、arsenic_trioxide／albutrepenonacog_alfa／dexmedetomidine 拿掉「dan tidak disenaraikan／diulang di sini」）。
+  - 第一輪換掉空白佔位表的 18 頁（acalabrutinib、artesunate、atovaquone、baloxavir_marboxil、benserazide_hydrochloride、diphenoxylate_hydrochloride、linagliptin＝待查清單 12 句，另 alemtuzumab、apremilast、avanafil、azelastine_hydrochloride、bismuth_subgallate、
+    brexpiprazole、bromhexine_hcl、dextrose_anhydrous、diltiazem_hydrochloride、linezolid、lixisenatide）：講「證據包欄位空白」的句子與 Nota 刪除；待辦只拿掉「號碼、品名未取得」的前提（acalabrutinib、diltiazem 留下「bentuk dos dan teks petunjuk」、atovaquone 拿掉「isikan jadual」），
+    目的只有「填滿表」的待辦（artesunate、linezolid）整條刪；linezolid「Sembilan pendaftaran aktif」（實為 11）改成不寫數字。待查清單 12 句標 resolved（附 record_ids）。
+  - 10-29 刪「本藥沒有登記」句留下的殘句 3 句（colchicine「Maklumat ini bercanggah…」、zonisamide「Status ini perlu disahkan semula…」、insulin_detemir「Oleh itu, jadual pendaftaran tidak dipaparkan.」）刪除；clopidogrel、pantoprazole 的殘句只是「先向 NPRA 確認」的建議，照規則保留。
+  - 刪除紀錄的錨點用程式區塊結尾 `<!-- licenses:end -->`（不錨在會被 B 改寫的張數句上）；`apply_drug_reviews.display` 不顯示整行引言的「> 」。
+- 查證後成立、不改：表的說明句（desogestrel 其餘 7 張是複方、lopinavir 另 2 張、mannitol 的 Dapamac 2 張、insulin_glargine 不列 Soliqua、simvastatin、fenofibrate、deferasirox、triamcinolone、olanzapine）與「Teks indikasi … tidak tersedia」（程式表沒有適應症欄）22 句；
+  劑型說法（chloramphenicol「Semua produk di atas ialah titisan mata…／Tiada produk suntikan」、doxycycline、dl-camphor）對證據包全部品項成立，0 句要改。
+- `site.py` 的 `_fig`（reviews_from_edits 寫紀錄說明用）改成不寫張數；既有紀錄說明裡已沒有寫死張數的（第一輪已重發）。
+- 補表頁正文張數另寫寬偵測（數字＋lesen／pendaftaran／produk，含文字數詞，對事實層任一讀法）：60 個數字 0 個不符。
+- checker 全量前後都是 P5 1（cyclosporine，原有）；gate exit 0。正文或表有變的 195 頁 last_modified_at 改 2026-11-24。
+

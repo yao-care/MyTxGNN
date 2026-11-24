@@ -116,7 +116,7 @@ def find_outside(text, needle):
 def display(s):
     """原句顯示成一行：表格列改成「cell / cell」；多行（清單項目、多段）用「 / 」接起來，
     避免引言框裡的 | 被當成表格、換行讓框斷掉或在表格列裡斷行（2026-11-12）。"""
-    s = s.strip()
+    s = re.sub(r"^>\s*", "", s.strip())  # 整行引言（「> **Nota:** …」）的引言符號不顯示（2026-11-24）
     if s.startswith("|"):
         s = " / ".join(c.strip() for c in s.strip("|").split("|"))
     s = re.sub(r"\s*\n\s*(?:[-*+]\s+|\d+\.\s+)?", " / ", s)

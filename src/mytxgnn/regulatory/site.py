@@ -106,9 +106,11 @@ def program_block_problems(sec, e):
     has_b, has_e = s.BEGIN in sec, s.END in sec
     if has_b != has_e or sec.count(s.BEGIN) > 1:
         return ["市場段落的程式區塊標記不成對或不只一組"]
-    if not has_b:  # 段落原本沒有表的頁不加程式表（scripts/sync_license_tables.py 說明）；有表就一定要是程式區塊
+    if not has_b:  # 有表就一定要是程式區塊；證據包有紀錄的頁一定要有程式區塊（2026-11-24 第二輪起，缺表的頁也補表）
         tb = [x for x in sec if x.startswith("|")]
-        return [f"市場段落有程式區塊以外的表格（跑 python3 scripts/sync_license_tables.py）：{tb[0][:40]}"] if tb else []
+        if tb:
+            return [f"市場段落有程式區塊以外的表格（跑 python3 scripts/sync_license_tables.py）：{tb[0][:40]}"]
+        return ["市場段落缺程式許可證表（跑 python3 scripts/sync_license_tables.py）"] if e["rows"] else []
     i, j = sec.index(s.BEGIN), sec.index(s.END)
     blk = [x for x in sec[i + 1:j] if x.strip()]
     tb = [x for x in blk if x.startswith("|")]
@@ -178,10 +180,10 @@ def reason_kind(reason):
 
 
 def _fig(fc):
+    """紀錄說明不寫死張數（2026-11-24 用戶決定：張數每週隨 NPRA 資料變，寫死會過期；改指向概覽表與程式表）"""
     if not fc or fc.get("total") is None:
         return ""
-    return (f" Ubat ini mempunyai {fc['total']} pendaftaran (sah: {fc.get('valid') or 0}); angka semasa terdapat dalam "
-            "Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia.")
+    return " Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia."
 
 
 def note_for(kind, date, fc):

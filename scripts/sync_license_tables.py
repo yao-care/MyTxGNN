@@ -19,8 +19,9 @@ checker 擋整頁、開 issue。改成程式表後，每週排程（scripts/lice
   MY_NOT_LISTED_CONFIRMED→Tidak lagi tersenarai dalam daftar semasa NPRA (disemak YYYY-MM-DD)；UNKNOWN_STATUS→Status tidak dapat disahkan。
 - 列數＝原表列數（最多 30 列），正文「Jadual di bawah menyenaraikan 5 …」之類的說法照樣成立；總數多於列數時，表下加一句
   「Jadual di atas menyenaraikan N daripada M pendaftaran NPRA bagi ubat ini.」
-- 段落裡沒有表的頁不加表（2026-11-24 實測 177 個公開頁，其中 58 頁正文寫「Butiran lesen individu tidak disenaraikan／tidak
-  tersedia …」，補表會讓這些句子變錯；這類句子要刪得另寫查核紀錄，所以先不補，待用戶決定）。
+- 段落裡沒有表、證據包有紀錄的頁，程式區塊加在段落結尾（結尾的「---」分隔線之前），列數 min(5, 總數)（2026-11-24 第二輪，
+  用戶決定「缺表的頁補程式表」：177 個公開頁；正文「Butiran lesen individu tidak disenaraikan／tidak tersedia …」等跟新表矛盾的
+  句子另以查核紀錄 my-lic-20261124b-* 刪除或改寫）。證據包沒有任何紀錄、段落也沒有表的頁不加。
   證據包沒有任何紀錄、段落原本有表時，程式區塊只放 NONE_LINE。
 - 表以外的文字不動（正文張數由 scripts/rewrite_license_counts.py 依快照事實層改寫）。
 程式區塊標記：程式表（連同表下說明句，或 NONE_LINE）前後各一行「<!-- licenses:begin -->」「<!-- licenses:end -->」（前後空行）。
@@ -198,9 +199,17 @@ def _first_table(lines, a, b):
     return x, y
 
 
+def _tail(lines, a, b):
+    """段落結尾的插入位置：段落最後的空行與「---」分隔線之前（段落沒有內容時＝標題下）"""
+    k = b
+    while k > a and lines[k - 1].strip() in ("", "---"):
+        k -= 1
+    return k
+
+
 def process(text, rows, nrows):
     """rows：可列的列（已排好、最多 30）；回傳新內容（沒變回 None）。
-    段落裡已有程式區塊→原位重排；沒有程式區塊但有表→第一張表換成程式區塊；段落裡沒有任何表→不加（見檔頭說明）"""
+    段落裡已有程式區塊→原位重排；沒有程式區塊但有表→第一張表換成程式區塊；段落裡沒有任何表→有紀錄就加在段落結尾（見檔頭說明）"""
     lines = text.split("\n")
     a, b = bounds(lines)
     if a is None:
@@ -216,7 +225,12 @@ def process(text, rows, nrows):
         a, b = bounds(lines)
         x, y = _first_table(lines, a, b)
         if x is None:
-            return None
+            if not rows:
+                return None
+            k = _tail(lines, a, b)
+            lines = lines[:k] + [""] + wrap(block_from_rows(rows, nrows)) + [""] + lines[k:]
+            t2 = re.sub(r"\n{3,}", "\n\n", "\n".join(lines))
+            return t2 if t2 != text else None
         n = min(MAX_ROWS, max(1, y - x - 1))
         rest = [l for l in lines[y + 1:b] if not SHOW_RX.match(l.strip()) and l.strip() not in (NONE_LINE, PART_NOTE)]
         lines = lines[:x] + ([""] if lines[x - 1].strip() else []) + wrap(block_from_rows(rows, nrows, n)) + [""] + rest + lines[b:]
@@ -226,7 +240,7 @@ def process(text, rows, nrows):
 
 def carry_block(old_text, new_text):
     """sync_notes_to_docs.py 重寫整頁時用：舊頁的程式區塊移植到新頁的市場段落，取代新頁模型寫的第一張表（連同表下程式文字）；
-    新頁段落沒有表時接在標題下。舊頁沒有程式區塊就原樣回傳新頁。"""
+    新頁段落沒有表時加在段落結尾（同 process）。舊頁沒有程式區塊就原樣回傳新頁。"""
     old = old_text.replace("\r\n", "\n").split("\n")
     if BEGIN not in old or END not in old:
         return new_text
@@ -237,7 +251,8 @@ def carry_block(old_text, new_text):
         return new_text
     x, y = _first_table(lines, a, b)
     if x is None:
-        out = lines[:a] + [""] + blk + [""] + lines[a:]
+        k = _tail(lines, a, b)
+        out = lines[:k] + [""] + blk + [""] + lines[k:]
     else:
         rest = [l for l in lines[y + 1:b] if not SHOW_RX.match(l.strip()) and l.strip() not in (NONE_LINE, PART_NOTE)]
         out = lines[:x] + [""] + blk + [""] + rest + lines[b:]
