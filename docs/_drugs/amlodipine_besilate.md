@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00381
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amlodipine Besilate: indikasi baharu diramal Infarksi batang otak (brain stem infarction) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 128 (sah: 123)"
 ---
 
@@ -71,13 +71,19 @@ Pada masa ini tiada literatur berkaitan.
 
 Data tempatan menunjukkan status pasaran **dipasarkan**. Antara lesen yang direkodkan, 55 ialah produk bahan tunggal yang sah. Contoh produk bahan tunggal:
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL07010992AZ | VAMLO TABLETS 5MG | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-| MAL07010993AZ | VAMLO TABLETS 10 MG | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-| MAL16085018AZ | AMLOCOR TABLETS 5MG | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-| MAL11090016AZ | Amdepin Tablet 5mg | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-| MAL11090017AZ | Amdepin Tablet 10mg | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07010992AZ | VAMLO TABLETS 5MG | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL07010993AZ | VAMLO TABLETS 10 MG | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL16085018AZ | AMLOCOR TABLETS 5MG | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL11090016AZ | Amdepin Tablet 5mg | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL11090017AZ | Amdepin Tablet 10mg | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 128 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

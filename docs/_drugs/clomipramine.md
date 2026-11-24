@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "Clomipramine"
 predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "agoraphobia", "attention deficit-hyperactivity disorder"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 description: "Clomipramine: indikasi baharu diramal Gangguan kecemasan (anxiety disorder) (tahap bukti L1). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -90,10 +90,14 @@ Tinjauan sistematik dan meta-analisis (contohnya PMID 27663940 dan 41978943) ser
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19973590ARZ | APO-CLOMIPRAMINE 25MG TABLET | Tablet | Tidak dinyatakan dalam data |
-| MAL20091927AEZ | DEPRANIL TABLET 25MG | Tablet | Tidak dinyatakan dalam data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19973590ARZ | APO-CLOMIPRAMINE 25MG TABLET | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20091927AEZ | DEPRANIL TABLET 25MG | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+
+<!-- licenses:end -->
 
 Kedua-dua lesen berstatus sah dan merupakan produk bahan tunggal.
 

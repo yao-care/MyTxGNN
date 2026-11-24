@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Indomethacin"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Indomethacin: indikasi baharu diramal Brachydactyly-syndactyly syndrome (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
@@ -82,11 +82,15 @@ Buat masa ini tiada literatur berkaitan yang tersedia untuk penyakit ini.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Pengeluar |
-|---------|------|------|
-| MAL19940036AZ | INDOMEN CAPSULE | Y.S.P. Industries (M) Sdn. Bhd. |
-| MAL20142425AEZ | HOVID INDOMETHACIN CAPSULE 25MG | Hovid Berhad |
-| MAL19910015AZ | INDECIN CAPSULE 25MG | Dynapharm (M) Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19940036AZ | INDOMEN CAPSULE | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL20142425AEZ | HOVID INDOMETHACIN CAPSULE 25MG | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL19910015AZ | INDECIN CAPSULE 25MG | Bahan tunggal | DYNAPHARM (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Ketiga-tiga produk ialah bahan tunggal dan berstatus sah. Teks indikasi yang diluluskan tidak disertakan dalam rekod lesen yang dikumpulkan.
 

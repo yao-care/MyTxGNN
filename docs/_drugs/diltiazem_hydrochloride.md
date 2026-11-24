@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 291
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -70,11 +70,17 @@ Setelah ramalan TxGNN dihasilkan dan diisi ke dalam pakej bukti ini, kebolehplau
 
 Pakej bukti merekodkan **6 pendaftaran produk** dengan status pasaran "Dipasarkan." Walau bagaimanapun, semua butir peringkat lesen (nombor kelulusan, nama produk, bentuk dos, dan teks petunjukan yang diluluskan) sedang hilang dari data pada masa ini.
 
-| Item | Status |
-|------|--------|
-| Jumlah Pendaftaran | 6 |
-| Status Pasaran | Dipasarkan |
-| Butir Lesen | Tidak tersedia — medan data kosong |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09062133AZ | AZEMTI 30MG TABLET | Bahan tunggal | MEDIDATA SDN. BHD. | Sah |
+| MAL19861581AZ | HERBESSER TABLET 30MG | Bahan tunggal | Mitsubishi Tanabe Pharma Malaysia Sdn. Bhd. | Sah |
+| MAL19890319AZ | HERBESSER 60 TABLET | Bahan tunggal | Mitsubishi Tanabe Pharma Malaysia Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 3 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 > **Tindakan diperlukan:** Ambil rekod pendaftaran NPRA lengkap untuk Diltiazem Hydrochloride untuk mengisi nombor kelulusan, nama produk, bentuk dos, dan teks petunjukan yang diluluskan.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diclofenac: indikasi baharu diramal Hypotrichosis simplex of the scalp (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 82 (sah: 79)"
 ---
 
@@ -71,13 +71,19 @@ Pada masa ini tiada literatur berkaitan.
 
 Teks indikasi diluluskan dan bentuk dos tidak tersedia dalam rekod yang dikumpulkan. Lima contoh lesen:
 
-| Nombor Kelulusan | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL16065024ARZ | Voltaren 12 Hours Emulgel 2% Gel | Haleon Malaysia Sdn. Bhd. |
-| MAL19861068ARZ | VOLTAREN TABLET 50MG | Novartis Corporation (Malaysia) Sdn. Bhd. |
-| MAL19861074ARZ | VOLTAREN AMPOULE 75MG/3ML | Novartis Corporation (Malaysia) Sdn. Bhd. |
-| MAL19960971ARZ | CATAFLAM TABLET 50MG | Novartis Corporation (Malaysia) Sdn. Bhd. |
-| MAL05032552ARSZ | Voltaren Emulgel 1% | Haleon Malaysia Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16065024ARZ | Voltaren 12 Hours Emulgel 2% Gel | Bahan tunggal | Haleon Malaysia Sdn. Bhd. | Sah |
+| MAL19861068ARZ | VOLTAREN TABLET 50MG | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL19861074ARZ | VOLTAREN AMPOULE 75MG/3ML | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL19960971ARZ | CATAFLAM TABLET 50MG | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL05032552ARSZ | Voltaren Emulgel 1% | Bahan tunggal | Haleon Malaysia Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 82 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

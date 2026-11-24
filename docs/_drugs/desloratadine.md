@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desloratadine: indikasi baharu diramal Penyakit rongga hidung (tahap bukti L5). Indikasi asal: Rinitis alergi, rinitis vasomotor…"
 ---
 
@@ -86,13 +86,19 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Sebanyak 23 pendaftaran aktif (22 bahan tunggal dan 1 kombinasi). Contoh utama:
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL05012317AZ | Aerius Syrup 0.5 mg/ml | Sirap | Tidak tersedia |
-| MAL10053655AZ | Aerius Tablet 5mg | Tablet | Tidak tersedia |
-| MAL17085016AZ | Desloratadine Sandoz 5mg Film Coated Tablet | Tablet bersalut filem | Tidak tersedia |
-| MAL18026173AZ | Dezal Tablet 5mg | Tablet | Tidak tersedia |
-| MAL19016044ACZ | Ajalorin 5mg Orodispersible Tablet | Tablet orodispersibel | Tidak tersedia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05012317AZ | AERIUS Syrup 0.5 mg/ ml | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+| MAL10053655AZ | Aerius Tablet 5mg | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+| MAL17085016AZ | Desloratadine Sandoz 5mg Film Coated Tablet | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+| MAL18026173AZ | Dezal Tablet 5mg | Bahan tunggal | DCH AURIGA (MALAYSIA) SDN. BHD. | Sah |
+| MAL19016044ACZ | AJALORIN 5MG ORODISPERSIBLE TABLET | Bahan tunggal | AJ RESEARCH & PHARMA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 23 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Nota: Aerius D-12 Modified Release Tablet (MAL11050002ACRZ) ialah produk kombinasi dan tidak digunakan untuk menggambarkan status kelulusan desloratadine bahan tunggal.
 

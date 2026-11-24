@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Desogestrel"
 predicted_indications: ["amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "acne (disease)", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Desogestrel: indikasi baharu diramal Amenorea (tahap bukti L5). Indikasi asal: Tidak dinyatakan dalam teks lesen tempatan (kosong)"
 ---
 
@@ -96,12 +96,18 @@ Kebanyakan penerbitan ini membincangkan kontrasepsi secara umum dan bukan rawata
 
 Berikut ialah pendaftaran produk **tunggal** desogestrel yang sah. Tujuh pendaftaran lain ialah produk kombinasi dan tidak disenaraikan di sini, supaya status produk tunggal tidak dikelirukan dengan produk gabungan. Teks indikasi yang diluluskan dalam rekod lesen kosong.
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL17025025ACZ | Desirett 75mcg film-coated tablet | Eurodrug Laboratories (M) Sdn. Bhd. |
-| MAL20031939AZ | Cerazette Tablets | Organon Malaysia Sdn. Bhd. |
-| MAL18116079AZ | Azalia 0.075 mg film-coated tablet | Pahang Pharmacy Sdn. Bhd. |
-| MAL15045060AZ | Bredicon 75mcg Tablet | Vitamode Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL17025025ACZ | Desirett 75mcg film-coated tablet | Bahan tunggal | EURODRUG LABORATORIES (M) SDN. BHD. | Sah |
+| MAL20031939AZ | CERAZETTE TABLETS | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+| MAL18116079AZ | Azalia 0.075 mg film-coated tablet | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL15045060AZ | Bredicon 75mcg Tablet | Bahan tunggal | Vitamode Sdn.bhd | Sah |
+
+Jadual di atas menyenaraikan 4 daripada 11 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

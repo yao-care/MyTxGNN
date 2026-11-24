@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "DARUNAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Darunavir: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -80,9 +80,13 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19046001ARZ | Prezista 600mg Film Coated Tablet | Tidak dinyatakan | Tidak dinyatakan dalam rekod |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19046001ARZ | Prezista 600mg Film Coated Tablet | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

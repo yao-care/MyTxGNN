@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cimetidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cimetidine: indikasi baharu diramal Perforasi ulser peptik (peptic ulcer perforation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 21 (sah: 21)"
 ---
 
@@ -83,13 +83,19 @@ Tiada kajian yang meneliti cimetidine sebagai rawatan perforasi ulser peptik sec
 
 Terdapat 21 lesen sah bagi produk bahan tunggal cimetidine. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Antara lesen utama:
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19961701AZ | TYMIDIN 200 | – | Tidak direkodkan dalam data tempatan |
-| MAL07101253AZ | Axcel Cimetidine 200 Tablet | – | Tidak direkodkan dalam data tempatan |
-| MAL19973015AZ | Prime's Cimetidine 200 Tablet | – | Tidak direkodkan dalam data tempatan |
-| MAL20021365AZ | DUODIN INJECTION | – | Tidak direkodkan dalam data tempatan |
-| MAL19973692AZ | TAGAPINE INJECTION (2ML AMP) | – | Tidak direkodkan dalam data tempatan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19961701AZ | TYMIDIN 200 | Bahan tunggal | SM PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL07101253AZ | Axcel Cimetidine 200 Tablet | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. | Sah |
+| MAL19973015AZ | Prime's Cimetidine 200 Tablet | Bahan tunggal | PRIME PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL20021365AZ | DUODIN INJECTION | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL19973692AZ | TAGAPINE INJECTION (2ML AMP) | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 21 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

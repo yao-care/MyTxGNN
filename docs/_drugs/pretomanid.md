@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 598
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pretomanid: indikasi baharu diramal Kandidiasis (tahap bukti L5). Indikasi asal: Tiada data lesen NPRA (literatur menunjukkan penggunaan dalam TB rint…"
 monitor_inn: "PRETOMANID"
 predicted_indications: ["candidiasis", "leprosy", "coronary artery disease", "myocardial ischemia", "anomalous left coronary artery from the pulmonary artery"]
@@ -115,7 +115,7 @@ Untuk maklumat amaran utama dan kontraindikasi, sila rujuk sisipan bungkusan.
 
 <!-- review:begin my-lic-20261105-pretomanid-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ramalan kandidiasis hanya berasaskan model (L5), tanpa percubaan klinikal, literatur, atau hubungan mekanistik yang munasabah. Ubat ini juga tidak berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 2 pendaftaran (sah: 2); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Ramalan kandidiasis hanya berasaskan model (L5), tanpa percubaan klinikal, literatur, atau hubungan mekanistik yang munasabah. Ubat ini juga tidak berdaftar di Malaysia." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-pretomanid-1 -->
 
@@ -149,7 +149,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Ubat ini juga tidak berdaftar di Malaysia" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: pretomanid prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1906fc9-cb3c-4e13-8a4a-da76100c1bf3) |
 
 <!-- review:end log -->

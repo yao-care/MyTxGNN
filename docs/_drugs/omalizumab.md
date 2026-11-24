@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Omalizumab"
 predicted_indications: ["bronchitis", "atopic eczema", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 description: "Omalizumab: indikasi baharu diramal Bronkitis (bronchitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 
@@ -79,13 +79,19 @@ Secara teori, mekanisme ini boleh berkaitan dengan keradangan saluran udara yang
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kelulusan | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL22086007ACRZ | Xolair 150mg/ml Solution for Injection in Pre-filled Syringe | Novartis Corporation (Malaysia) Sdn. Bhd. |
-| MAL22086008ACRZ | Xolair 75mg/0.5ml Solution for Injection in Pre-filled Syringe | Novartis Corporation (Malaysia) Sdn. Bhd. |
-| MAL20091873ACRZ | Xolair 150mg Powder and Solvent for Solution for Injection | Novartis Corporation (Malaysia) Sdn. Bhd. |
-| MAL25116066ARSZ | Xolair 150mg/ml Solution for Injection in Pre-filled Syringe | Novartis Corporation (Malaysia) Sdn. Bhd. |
-| MAL25116067ARZ | Xolair 300mg/2ml Solution for Injection in Pre-filled Syringe | Novartis Corporation (Malaysia) Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22086007ACRZ | Xolair 150mg/ml Solution for Injection in Pre-filled Syringe | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL22086008ACRZ | Xolair 75mg/0.5ml Solution for Injection in Pre-filled Syringe | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL20091873ACRZ | XOLAIR 150MG POWDER AND SOLVENT FOR SOLUTION FOR INJECTION | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL25116066ARSZ | Xolair 150mg/ml Solution for Injection in Pre-filled Syringe | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL25116067ARZ | Xolair 300mg/2ml Solution for Injection in Pre-filled Syringe | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Terdapat 7 lesen sah secara keseluruhan; hanya 5 yang disenaraikan di sini.
 

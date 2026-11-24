@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Isosorbide dinitrate"
 predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "diffuse alopecia areata", "vascular disease", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "visceral calciphylaxis", "venous thoracic outlet syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Isosorbide Dinitrate: indikasi baharu diramal Alopesia (tahap bukti L5). Indikasi asal: Tidak tersedia (teks indikasi dalam rekod lesen kosong)"
 ---
 
@@ -81,11 +81,15 @@ Buat masa ini tiada literatur berkaitan yang tersedia.
 
 Teks indikasi yang diluluskan dan bentuk dos tidak tercatat dalam rekod lesen. Ketiga-tiga lesen ialah produk bahan tunggal dan berstatus sah.
 
-| Nombor Kelulusan | Nama Produk | Pengilang | Status |
-|---------|------|------|------|
-| MAL19950593AZ | SOLBID TABLET 10MG | SM Pharmaceuticals Sdn. Bhd. | Sah |
-| MAL19984739ACRZ | AA-ISDN Tablet 10mg | Pharmaforte (Malaysia) Sdn. Bhd. | Sah |
-| MAL19880138ACRZ | ISOKET AMPOULE 10MG/10ML | GlaxoSmithKline Pharmaceutical Sdn. Bhd. | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19950593AZ | SOLBID TABLET 10MG | Bahan tunggal | SM PHARMACEUTICALS SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL19984739ACRZ | AA-ISDN Tablet 10mg | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL19880138ACRZ | ISOKET AMPOULE 10MG/10ML | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

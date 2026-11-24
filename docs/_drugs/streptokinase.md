@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Streptokinase"
 predicted_indications: ["Prinzmetal angina", "hemoglobinopathy", "peripheral vascular disease", "peripheral arterial disease", "partial deletion of the short arm of chromosome 16"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Streptokinase: indikasi baharu diramal Prinzmetal angina (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 1)"
 ---
 
@@ -87,9 +87,15 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL21116147ACZ | Streptokinase Karma 1 500 000 IU Powder for Solution for Infusion | Tidak dinyatakan | Tidak dinyatakan dalam data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21116147ACZ | Streptokinase Karma 1 500 000 IU Powder for Solution for Infusion | Bahan tunggal | IDAMAN PHARMA SDN. BHD. | Nombor pendaftaran lama; produk yang sama kini didaftarkan sebagai MAL21116147ACRZ |
+
+Jadual di atas menyenaraikan 1 daripada 2 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Pengilang: Idaman Pharma Sdn. Bhd. Status: sah.
 

@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 613
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "RANITIDINE"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 description: "Ranitidine: indikasi baharu diramal Perforasi ulser peptik (peptic ulcer perforation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 5)"
@@ -83,7 +83,7 @@ Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedi
 
 <!-- review:begin my-lic-20261105-ranitidine-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Status pasaran ialah **dipasarkan**, dengan 6 lesen sah dan tiada lesen dibatalkan. Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 6 pendaftaran (sah: 5); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Status pasaran ialah **dipasarkan**, dengan 6 lesen sah dan tiada lesen dibatalkan. Butiran lesen individu (nombor kelulusan, nama produk, bentuk dos) tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-ranitidine-1 -->
 
@@ -118,7 +118,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Status pasaran ialah **dipasarkan**, dengan 6 lesen sah dan tiada lesen dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Status pasaran ialah **dipasarkan**, dengan 6 lesen sah dan tiada lesen dibatalkan" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: ranitidine prescribing information, Atland Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcf27c99-8bd4-41fb-bff8-38fed9de76d9) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 184
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Calcium Carbonate: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -80,40 +80,44 @@ Model TxGNN tidak mempunyai sebarang calon dengan skor 0.99 atau lebih tinggi un
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL21036069NC | Excelife ExcelGold Effervescent Tablet |  | Sah |
-| MAL16035033N | EPOCALDI Softgel Capsule |  | Dibatalkan Pendaftaran |
-| MAL21046075NC | Janipro ATOZ Multivitamin-Multimineral Lutein & Lycopene Plu |  | Sah |
-| MAL11040029XC | Melaleuca CELWISE |  | Dibatalkan Pendaftaran |
-| MAL16055022N | MRT CALMAG TABLET |  | Dibatalkan Pendaftaran |
-| MAL06051375X | NUTRILITE DOUBLE X MULTIVITAMIN, TABLET |  | Dibatalkan Pendaftaran |
-| MAL06061372X | Cal-Mag & D Plus |  | Dibatalkan Pendaftaran |
-| MAL06061351X | NUTRILITE DOUBLE X MULTIMINERAL, TABLET |  | Dibatalkan Pendaftaran |
-| MAL21076099N | Redoxon C + Calcium + D + B6 Effervescent Tablet (Orange Fla |  | Sah |
-| MAL21076054NC | Nutribridge Calcium Plus Vitamin D3 & K2 Tablet |  | Sah |
-| MAL21076043NCR | Eldon Nutrition FLEXICAL Tablet |  | Sah |
-| MAL21076058NC | PowerLIFE Bonvital Essential Forte Caplet |  | Dibatalkan Pendaftaran |
-| MAL16075002NC | Kordel's Sea Mineral Complex Tablets |  | Dibatalkan Pendaftaran |
-| MAL11075012NC | Herbalife Calcium Plus  Tablet |  | Sah |
-| MAL11070021XC | Melaleuca Oligo VFL Calcium Complex |  | Sah |
-| MAL06071111X | Live-well OSTECAL PLUS Tablet |  | Sah |
-| MAL06071112X | Nova Cal - 300 D Chewable Tablet |  | Sah |
-| MAL06071114X | Nova Cal  300 C + D Effervescent Tablet |  | Sah |
-| MAL06071126X | Juvita Multivitamins plus Calcium Chewable Tablet (For Child |  | Sah |
-| MAL06071142X | WellSpring Calcium Complex Tablet |  | Sah |
-| MAL06071133X | Everlife LifeFit Actif Multivitamin & Mineral Tablet |  | Sah |
-| MAL21086016X | GASTRACID Suspension |  | Sah |
-| MAL21086045N | PharmaSelect Calcium Plus Tablet |  | Sah |
-| MAL16085038NC | guardian Vitamin B-Complex + Vitamin C + Minerals Effervesce |  | Sah |
-| MAL11080013XC | Melaleuca Oligo VFL MULTIVITAMIN & MINERAL |  | Sah |
-| MAL11080012XC | Melaleuca Oligo VFL MULTIVITAMIN & MINERAL + IRON |  | Sah |
-| MAL06081263X | Nova Cal 600-D Caplet |  | Sah |
-| MAL11080008X | Cebion Vitamin C 1000 mg + Calcium Effervescent Tablet |  | Sah |
-| MAL21096041NCR | HERBS OF GOLD MULTIVITAMIN PLUS TABLET |  | Sah |
-| MAL16095024N | VITASEN Cal-600 plus Vitamin A, D & C Effervescent Granules  |  | Sah |
+<!-- licenses:begin -->
 
-Data hanya mengandungi sebahagian pendaftaran; senarai mungkin tidak lengkap.
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21036069NC | Excelife ExcelGold Effervescent Tablet | Kombinasi | E HEALTH SDN. BHD. | Sah |
+| MAL16035033N | EPOCALDI Softgel Capsule | Kombinasi | AVERROES PHARMACEUTICALS SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL21046075NC | Janipro ATOZ Multivitamin-Multimineral Lutein & Lycopene Plus Curcuma Longa & Probiotic L. Rhamnosus… | Kombinasi | Janipro (M) Sdn Bhd | Sah |
+| MAL11040029XC | Melaleuca CELWISE | Kombinasi | Melaleuca Southeast Asia (malaysia) Sdn. Bhd. | Dibatalkan Pendaftaran |
+| MAL16055022N | MRT CALMAG TABLET | Kombinasi | MORETH SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL06051375X | NUTRILITE DOUBLE X MULTIVITAMIN, TABLET | Kombinasi | AMWAY (MALAYSIA) SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL06061372X | Cal-Mag & D Plus | Kombinasi | VIVA LIFE SCIENCE SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL06061351X | NUTRILITE DOUBLE X MULTIMINERAL, TABLET | Kombinasi | AMWAY (MALAYSIA) SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL21076099N | Redoxon C + Calcium + D + B6 Effervescent Tablet (Orange Flavour) | Kombinasi | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
+| MAL21076054NC | Nutribridge Calcium Plus Vitamin D3 & K2 Tablet | Kombinasi | NUTRIBRIDGE (MALAYSIA) SDN. BHD. | Sah |
+| MAL21076043NCR | Eldon Nutrition FLEXICAL Tablet | Kombinasi | ELDON HEALTHCARE SDN. BHD. | Sah |
+| MAL21076058NC | PowerLIFE Bonvital Essential Forte Caplet | Kombinasi | Powerlife (M) Sdn. Bhd. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL16075002NC | Kordel's Sea Mineral Complex Tablets | Kombinasi | CAMBERT(M) SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL11075012NC | Herbalife Calcium Plus Tablet | Kombinasi | HERBALIFE PRODUCTS MALAYSIA SDN BHD | Sah |
+| MAL11070021XC | Melaleuca Oligo VFL Calcium Complex | Kombinasi | Melaleuca Southeast Asia (malaysia) Sdn. Bhd. | Sah |
+| MAL06071111X | Live-well OSTECAL PLUS Tablet | Kombinasi | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL06071112X | Nova Cal - 300 D Chewable Tablet | Kombinasi | NOVA LABORATORIES SDN. BHD. | Sah |
+| MAL06071114X | Nova Cal 300 C + D Effervescent Tablet | Kombinasi | NOVA LABORATORIES SDN. BHD. | Sah |
+| MAL06071126X | Juvita Multivitamins plus Calcium Chewable Tablet (For Children) | Kombinasi | NOVA LABORATORIES SDN. BHD. | Sah |
+| MAL06071142X | WellSpring Calcium Complex Tablet | Kombinasi | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL06071133X | Everlife LifeFit Actif Multivitamin & Mineral Tablet | Kombinasi | NOVA LABORATORIES SDN. BHD. | Sah |
+| MAL21086016X | GASTRACID Suspension | Kombinasi | KCK PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL21086045N | PharmaSelect Calcium Plus Tablet | Kombinasi | YANLING NATURAL HYGIENE SDN. BHD. | Sah |
+| MAL16085038NC | guardian Vitamin B-Complex + Vitamin C + Minerals Effervescent Tablet | Kombinasi | GUARDIAN HEALTH AND BEAUTY SDN. BHD. | Sah |
+| MAL11080013XC | Melaleuca Oligo VFL MULTIVITAMIN & MINERAL | Kombinasi | Melaleuca Southeast Asia (malaysia) Sdn. Bhd. | Sah |
+| MAL11080012XC | Melaleuca Oligo VFL MULTIVITAMIN & MINERAL + IRON | Kombinasi | Melaleuca Southeast Asia (malaysia) Sdn. Bhd. | Sah |
+| MAL06081263X | Nova Cal 600-D Caplet | Kombinasi | NOVA LABORATORIES SDN. BHD. | Sah |
+| MAL11080008X | Cebion Vitamin C 1000 mg + Calcium Effervescent Tablet | Kombinasi | PROCTER & GAMBLE (MALAYSIA ) SDN.BHD. | Sah |
+| MAL21096041NCR | HERBS OF GOLD MULTIVITAMIN PLUS TABLET | Kombinasi | PHARMADIRECT SDN. BHD. | Sah |
+| MAL16095024N | VITASEN Cal-600 plus Vitamin A, D & C Effervescent Granules (Orange flavour) | Kombinasi | WINWA MEDICAL SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 30 daripada 378 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 5
 monitor_inn: "Lamivudine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lamivudine: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 30 (sah: 29)"
 ---
 
@@ -93,13 +93,19 @@ Setakat ini tiada ujian klinikal berkaitan didaftarkan.
 
 Data yang dikumpulkan merekodkan 30 pendaftaran. Daripada jumlah itu, 16 ialah produk bahan tunggal dan 14 ialah produk kombinasi. Jadual di bawah hanya menyenaraikan 5 pendaftaran bahan tunggal. Rekod tidak mengandungi teks indikasi yang diluluskan atau bentuk dos.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19963153ACRZ | 3TC Tablets 150mg (GlaxoSmithKline) | Tidak dinyatakan | Tidak dinyatakan dalam rekod |
-| MAL19992323ACRZ | Zeffix Tablet 100mg (GlaxoSmithKline) | Tidak dinyatakan | Tidak dinyatakan dalam rekod |
-| MAL17055009ACZ | Zulamivudine Tablets 150mg (Zulat Pharmacy) | Tidak dinyatakan | Tidak dinyatakan dalam rekod |
-| MAL17055004AZ | Lamimac 150 (Paxten) | Tidak dinyatakan | Tidak dinyatakan dalam rekod |
-| MAL20172809AEZ | hovid-Lamivudine Tablet 150mg (Hovid) | Tidak dinyatakan | Tidak dinyatakan dalam rekod |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19963153ACRZ | 3TC TABLETS 150MG | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19992323ACRZ | ZEFFIX TABLET 100MG | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL17055009ACZ | ZULAMIVUDINE TABLETS 150MG | Bahan tunggal | ZULAT PHARMACY SDN. BHD. | Sah |
+| MAL17055004AZ | Lamimac 150 (Lamivudine Tablets 150mg) | Bahan tunggal | Paxten Sdn Bhd | Sah |
+| MAL20172809AEZ | hovid-Lamivudine Tablet 150mg | Bahan tunggal | HOVID BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 30 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

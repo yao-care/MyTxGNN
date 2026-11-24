@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Decitabine"
 predicted_indications: ["refractory cytopenia of childhood"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Decitabine: indikasi baharu diramal refractory cytopenia of childhood (tahap bukti L5). Indikasi asal: Leukemia mieloid dan subjenis leukemia mieloid akut"
 ---
 
@@ -83,13 +83,19 @@ Kedua-dua kajian membincangkan MDS pediatrik secara umum. Tiada kajian yang dipe
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL22046021AZ | DECI SPAL-P 50 Decitabine Powder for Concentrate for Solution for Infusion, 50 mg/vial | Healol Pharmaceuticals Sdn. Bhd. |
-| MAL23056018AZ | Qilu Decitabine Lyophilised Powder for Infusion 50 mg/vial | Medispec (M) Sdn. Bhd. |
-| MAL18056161AZ | Redtibin (Decitabine) Powder for Injection 50 mg/vial | Dr. Reddy's Laboratories Malaysia Sdn. Bhd. |
-| MAL24086008AZ | Leudibine, Decitabine powder for concentrate for solution for infusion 50 mg/vial | Unimed Sdn. Bhd. |
-| MAL21026014AZ | Decitas (Decitabine 50 mg/vial Powder for Concentrate for Solution for Infusion) | Accord Healthcare Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22046021AZ | DECI SPAL-P 50 Decitabine Powder for Concentrate for Solution for Infusion, 50 mg/vial | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL23056018AZ | Qilu DECITABINE LYOPHILISED POWDER FOR INFUSION 50 MG/VIAL | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL18056161AZ | Redtibin (Decitabine) Powder for Injection 50mg/vial | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL24086008AZ | Leudibine - Decitabine powder for concentrate for solution for infusion 50 mg/vial | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL21026014AZ | DECITAS (Decitabine 50mg/vial Powder For Concentrate For Solution For Infusion) | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Satu lagi pendaftaran sah ialah produk gabungan (decitabine bersama cedazuridine, tablet bersalut filem). Ia tidak digunakan untuk menggambarkan status decitabine bahan tunggal. Teks indikasi yang diluluskan tidak terdapat dalam data pendaftaran yang dikumpulkan.
 

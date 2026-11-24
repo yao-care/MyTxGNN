@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 329
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Eptinezumab: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -72,9 +72,13 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Eptinezumab (skor ≥ 0.99) i
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL24086006AZ | Vyepti 100 mg/mL concentrate for solution for infusion |  | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24086006AZ | Vyepti 100 mg/mL concentrate for solution for infusion | Bahan tunggal | Lundbeck Malaysia Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

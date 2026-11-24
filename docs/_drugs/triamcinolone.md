@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Triamcinolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Triamcinolone: indikasi baharu diramal Alopecia mucinosa (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 47 (sah: 45)"
 ---
 
@@ -73,13 +73,19 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Terdapat 45 pendaftaran aktif (22 bahan tunggal, 23 kombinasi). Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam rekod. Di bawah ialah lima produk bahan tunggal sebagai contoh (senarai lengkap tidak diulang di sini).
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL21036037AE | HOETRAMSONE CREAM 0.1% w/w | Krim (mengikut nama produk) | Tiada maklumat |
-| MAL11055001AZ | NASONIDE Nasal Spray 55mcg/dose | Semburan hidung (mengikut nama produk) | Tiada maklumat |
-| MAL19988441ACZ | NASACORT AQ NASAL SPRAY | Semburan hidung (mengikut nama produk) | Tiada maklumat |
-| MAL26016037AZ | Kenarx Triamcinolone Acetonide Injectable Suspension 40mg/ml | Suspensi suntikan (mengikut nama produk) | Tiada maklumat |
-| MAL19921153AZ | TRINOLONE TABLET | Tablet (mengikut nama produk) | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21036037AE | HOETRAMSONE CREAM 0.1% w/w | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL11055001AZ | NASONIDE Nasal Spray 55mcg/dose | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL19988441ACZ | NASACORT AQ NASAL SPRAY | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL26016037AZ | Kenarx Triamcinolone Acetonide Injectable Suspension USP, 40mg/ml | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL19921153AZ | TRINOLONE TABLET | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 47 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Lesen ini ialah untuk produk triamcinolone sedia ada dan tidak bermaksud alopecia mucinosa ialah indikasi yang diluluskan.
 

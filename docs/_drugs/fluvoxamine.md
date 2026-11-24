@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Fluvoxamine"
 predicted_indications: ["schizoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluvoxamine: indikasi baharu diramal Schizoid personality disorder (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
@@ -74,14 +74,18 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL06091399ARZ | Apo-Fluvoxamine 50mg Tablets | Pharmaforte (Malaysia) Sdn. Bhd. |
-| MAL20021413ACZ | Luvox 100mg Film Coated Tablet | Abbott Laboratories (M) Sdn. Bhd. |
-| MAL20021412ACZ | Luvox 50mg Film Coated Tablet | Abbott Laboratories (M) Sdn. Bhd. |
-| MAL25096031AZ | Fluvoxin 50 (Fluvoxamine Maleate 50mg Film-Coated Tablets) | Ranbaxy (Malaysia) Sdn. Bhd. |
-| MAL25096032AZ | Fluvoxin 100 (Fluvoxamine Maleate 100mg Film-Coated Tablets) | Ranbaxy (Malaysia) Sdn. Bhd. |
-| MAL10110004AZ | Anwu Enteric Coated Tablets 50mg | Averroes Pharmaceuticals Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06091399ARZ | Apo-Fluvoxamine 50mg Tablets | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20021413ACZ | LUVOX 100MG FILM COATED TABLET | Bahan tunggal | ABBOTT LABORATORIES (M) SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL20021412ACZ | LUVOX 50MG FILM COATED TABLET | Bahan tunggal | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+| MAL25096031AZ | FLUVOXIN 50 (Fluvoxamine Maleate 50mg Film-Coated Tablets) | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL25096032AZ | FLUVOXIN 100 (Fluvoxamine Maleate 100mg Film-Coated Tablets) | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL10110004AZ | Anwu Enteric Coated Tablets 50mg | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Kesemua enam lesen ialah produk bahan tunggal dan berstatus sah. Teks indikasi dan bentuk dos tidak tercatat dalam rekod yang dikumpulkan.
 

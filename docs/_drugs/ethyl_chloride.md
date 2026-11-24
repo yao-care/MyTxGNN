@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Ethyl chloride"
 predicted_indications: ["tetanic cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "mature cataract", "immature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "acne (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Ethyl Chloride: indikasi baharu diramal Tetanic cataract (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -87,9 +87,13 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19912925XZ | Wari Ethylchloride Spray | Tidak dinyatakan | Tidak dinyatakan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19912925XZ | Wari Ethylchloride Spray | Bahan tunggal | DCH AURIGA (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+
+<!-- licenses:end -->
 
 Pemegang produk: DCH Auriga (Malaysia) Sdn. Bhd. Status: sah, produk bahan tunggal.
 

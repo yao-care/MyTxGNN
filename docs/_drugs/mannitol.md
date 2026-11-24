@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Mannitol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mannitol: indikasi baharu diramal Sindrom antidiuresis tidak wajar nefrogenik (NSIAD) (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan"
 ---
 
@@ -71,13 +71,19 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL21076024AZ | B. Braun Mannitol 20% Solution for Infusion | Tiada maklumat | Tiada maklumat |
-| MAL19973350AZ (kombinasi) | B. BRAUN OSMOFUNDIN 20% | Tiada maklumat | Tiada maklumat |
-| MAL20000380AZ | INFUSOL M10 | Tiada maklumat | Tiada maklumat |
-| MAL20000381AZ | INFUSOL M20 | Tiada maklumat | Tiada maklumat |
-| MAL19910407AZ | B. BRAUN OSMOFUNDIN 10% (500ML) | Tiada maklumat | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21076024AZ | B. Braun Mannitol 20% Solution for Infusion | Bahan tunggal | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL19973350AZ | B. BRAUN OSMOFUNDIN 20% | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL20000380AZ | INFUSOL M10 | Bahan tunggal | AIN MEDICARE SDN. BHD. | Sah |
+| MAL20000381AZ | INFUSOL M20 | Bahan tunggal | AIN MEDICARE SDN. BHD. | Sah |
+| MAL19910407AZ | B. BRAUN OSMOFUNDIN 10% (500ML) | Bahan tunggal | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Nota: dua lagi pendaftaran (Dapamac 5 dan Dapamac 10, mengandungi dapagliflozin) turut dipadankan dalam rekod tetapi tidak disenaraikan di sini. Produk kombinasi tidak boleh digunakan untuk menggambarkan status kelulusan bahan tunggal.
 

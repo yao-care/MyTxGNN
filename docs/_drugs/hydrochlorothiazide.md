@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 402
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Hydrochlorothiazide: kegunaan diketahui dan status pasaran di Malaysia; kini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -75,40 +75,44 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 
 ## Maklumat Pasaran di Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL16075019AZ | Saranto-H 50mg/12.5mg Tablets |  | Sah |
-| MAL20014478AZ | COAPROVEL 300MG/12.5MG TABLET |  | Sah |
-| MAL20014479AZ | COAPROVEL 150MG/12.5MG TABLET |  | Sah |
-| MAL11040023AZ | Presartan H 50/12.5mg Film Coated Tablet |  | Sah |
-| MAL05051113AZ | LODOZ  5 MG TABLET |  | Sah |
-| MAL05051115ASZ | LODOZ 2.5 MG TABLET |  | Sah |
-| MAL19860190ARZ | HYDROCHLORZIDE-25 TABLET |  | Sah |
-| MAL11115008AZ | STARVAL HCT TABLETS 80 + 12.5 mg |  | Sah |
-| MAL11115009AZ | STARVAL HCT TABLETS 160 + 25 mg |  | Sah |
-| MAL12085072AZ | Acetan HCT Tablet 100mg/25mg |  | Sah |
-| MAL12085071AZ | Acetan HCT Tablet 50/12.5mg |  | Sah |
-| MAL20021128ACRZ | ATACAND PLUS TABLETS 16/12.5MG |  | Sah |
-| MAL17107011AZ | VALZAAR H TABLETS (160 MG + 12.5 MG) |  | Sah |
-| MAL12115057AZ | IRBEL HCT TABLETS 150 + 12.5 mg |  | Sah |
-| MAL12115058AZ | IRBEL HCT TABLETS 300 + 12.5 mg |  | Sah |
-| MAL19984702ACRZ | AA-Amilzide Tablet 50mg/5mg |  | Sah |
-| MAL08021476ACRZ | Blopress Plus Tablet 16/12.5mg |  | Sah |
-| MAL18046183AE | Hovid-Irbesartan + Hydrochlorothiazide Tablet 300mg / 25mg |  | Sah |
-| MAL18056151AZ | IRB-H 150/12.5 (Irbesartan and Hydrochlorothiazide Tablets 1 |  | Sah |
-| MAL06081219ARZ | Hyzaar Tablet 100 / 12.5 mg |  | Sah |
-| MAL20034439AZ | MICARDIS PLUS 40/12.5MG |  | Sah |
-| MAL20034440AZ | MICARDIS PLUS 80/12.5MG |  | Sah |
-| MAL24026031AZ | TELCORD H 80/12.5 (Telmisartan 80mg and Hydrochlorothiazide  |  | Sah |
-| MAL24026043AZ | TELCORD H 40/12.5 (Telmisartan 40mg and Hydrochlorothiazide  |  | Sah |
-| MAL24046028AZ | TELMIDIP-H 80MG + 12.5MG TABLETS |  | Sah |
-| MAL24046029AZ | TELMIDIP-H 40MG + 12.5MG TABLETS |  | Sah |
-| MAL19990960ARZ | Hyzaar Tablet 50 / 12.5 mg |  | Sah |
-| MAL09062165ARZ | Co-Diovan 160/12.5mg Film-coated Tablet |  | Sah |
-| MAL09062166ARZ | Co-Diovan 160/25mg Film-coated Tablet |  | Sah |
-| MAL09062164ARZ | Co-Diovan 80/12.5mg Film-coated Tablet |  | Sah |
+<!-- licenses:begin -->
 
-Data hanya mengandungi sebahagian pendaftaran; senarai mungkin tidak lengkap.
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16075019AZ | Saranto-H 50mg/12.5mg Tablets | Kombinasi | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL20014478AZ | COAPROVEL 300MG/12.5MG TABLET | Kombinasi | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL20014479AZ | COAPROVEL 150MG/12.5MG TABLET | Kombinasi | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL11040023AZ | Presartan H 50/12.5mg Film Coated Tablet | Kombinasi | THE ZYFAS MEDICAL CO., | Sah (pendaftaran bersyarat) |
+| MAL05051113AZ | LODOZ 5 MG TABLET | Kombinasi | MERCK SDN. BHD. | Sah |
+| MAL05051115ASZ | LODOZ 2.5 MG TABLET | Kombinasi | MERCK SDN. BHD. | Sah |
+| MAL19860190ARZ | HYDROCHLORZIDE-25 TABLET | Bahan tunggal | GoodScience Sdn. Bhd. | Sah |
+| MAL11115008AZ | STARVAL HCT TABLETS 80 + 12.5 mg | Kombinasi | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL11115009AZ | STARVAL HCT TABLETS 160 + 25 mg | Kombinasi | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL12085072AZ | Acetan HCT Tablet 100mg/25mg | Kombinasi | Duopharma Marketing Sdn. Bhd. | Sah |
+| MAL12085071AZ | Acetan HCT Tablet 50/12.5mg | Kombinasi | Duopharma Marketing Sdn. Bhd. | Sah |
+| MAL20021128ACRZ | ATACAND PLUS TABLETS 16/12.5MG | Kombinasi | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL17107011AZ | VALZAAR H TABLETS (160 MG + 12.5 MG) | Kombinasi | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL12115057AZ | IRBEL HCT TABLETS 150 + 12.5 mg | Kombinasi | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL12115058AZ | IRBEL HCT TABLETS 300 + 12.5 mg | Kombinasi | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL19984702ACRZ | AA-Amilzide Tablet 50mg/5mg | Kombinasi | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL08021476ACRZ | Blopress Plus Tablet 16/12.5mg | Kombinasi | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL18046183AE | Hovid-Irbesartan + Hydrochlorothiazide Tablet 300mg / 25mg | Kombinasi | HOVID BERHAD | Sah |
+| MAL18056151AZ | IRB-H 150/12.5 (Irbesartan and Hydrochlorothiazide Tablets 150/12.5 mg) | Kombinasi | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL06081219ARZ | Hyzaar Tablet 100 / 12.5 mg | Kombinasi | ORGANON MALAYSIA SDN. BHD. | Sah |
+| MAL20034439AZ | MICARDIS PLUS 40/12.5MG | Kombinasi | BOEHRINGER INGELHEIM (MALAYSIA) SDN. BHD. | Sah |
+| MAL20034440AZ | MICARDIS PLUS 80/12.5MG | Kombinasi | BOEHRINGER INGELHEIM (MALAYSIA) SDN. BHD. | Sah |
+| MAL24026031AZ | TELCORD H 80/12.5 (Telmisartan 80mg and Hydrochlorothiazide 12.5mg) USP tablet | Kombinasi | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL24026043AZ | TELCORD H 40/12.5 (Telmisartan 40mg and Hydrochlorothiazide 12.5mg) USP tablet | Kombinasi | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL24046028AZ | TELMIDIP-H 80MG + 12.5MG TABLETS | Kombinasi | GENPHARMA SDN. BHD | Sah |
+| MAL24046029AZ | TELMIDIP-H 40MG + 12.5MG TABLETS | Kombinasi | GENPHARMA SDN. BHD | Sah |
+| MAL19990960ARZ | Hyzaar Tablet 50 / 12.5 mg | Kombinasi | ORGANON MALAYSIA SDN. BHD. | Sah |
+| MAL09062165ARZ | Co-Diovan 160/12.5mg Film-coated Tablet | Kombinasi | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL09062166ARZ | Co-Diovan 160/25mg Film-coated Tablet | Kombinasi | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL09062164ARZ | Co-Diovan 80/12.5mg Film-coated Tablet | Kombinasi | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 30 daripada 59 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

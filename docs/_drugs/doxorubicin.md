@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Doxorubicin: indikasi baharu diramal Sarkoma Ewing (Ewing sarcoma) (tahap bukti L1). Indikasi asal: Tidak direkodkan dalam data lesen tempatan (teks petunjuk kosong)"
 ---
 
@@ -114,17 +114,23 @@ Jadual menyenaraikan 5 yang utama. Teks petunjuk dan bentuk dos tidak direkodkan
 
 <!-- review:begin my-lic-20261105-doxorubicin-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Terdapat 8 pendaftaran produk doxorubicin yang sah di Malaysia, semuanya produk bahan tunggal. Jadual menyenaraikan 5 yang utama." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 8 pendaftaran (sah: 7); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Terdapat 8 pendaftaran produk doxorubicin yang sah di Malaysia, semuanya produk bahan tunggal. Jadual menyenaraikan 5 yang utama." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-doxorubicin-1 -->
 
-| Nombor Kebenaran | Nama Produk | Pengeluar |
-|---------|------|------|
-| MAL06061702AZ | A.D. Mycin injection 2mg/ml | First Pharmaceutical Sdn. Bhd. |
-| MAL22056054AZ | ROBOL (Doxorubicin Concentrate for Solution for Infusion 2mg/ml) | Unimed Sdn. Bhd. |
-| MAL17085060AZ | Lipo-Dox Liposome Injection 2mg/ml Concentrate for Infusion | Pharm-D Sdn. Bhd. |
-| MAL20000753AZ | ADRIAMYCIN CS 50MG/25ML VIALS | Pfizer (Malaysia) Sdn. Bhd. |
-| MAL26016033AZ | Doxoccord LP (Pegylated Liposomal Doxorubicin Hydrochloride 2 mg/ml) | Accord Healthcare Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06061702AZ | A.D. Mycin injection 2mg/ml | Bahan tunggal | FIRST PHARMACEUTICAL SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL22056054AZ | ROBOL (Doxorubicin Concentrate for Solution for Infusion 2mg/ml) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL17085060AZ | Lipo-Dox Liposome Injection 2mg/ml Concentrate for Infusion | Bahan tunggal | PHARM-D SDN. BHD. | Sah |
+| MAL20000753AZ | ADRIAMYCIN CS 50MG/25ML VIALS | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL26016033AZ | Doxoccord LP (Pegylated Liposomal Doxorubicin Hydrochloride Concentrate for Solution for Infusion 2… | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Antara pendaftaran lain terdapat DOXO SPAL 2, DOXLOX (liposom) dan ADRIM, tidak dipaparkan di sini.
 
@@ -176,7 +182,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Terdapat 8 pendaftaran produk doxorubicin yang sah di Malaysia, semuanya produk bahan tunggal" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Terdapat 8 pendaftaran produk doxorubicin yang sah di Malaysia, semuanya produk bahan tunggal" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd) |
 
 <!-- review:end log -->

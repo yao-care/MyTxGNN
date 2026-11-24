@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Trimethoprim: indikasi baharu diramal Keratokonjunktivitis epitelium berpunktat (tahap bukti L5). Indikasi asal: Hubungan yang direkodkan dalam graf pengetahuan: jangkitan saluran ke…"
 ---
 
@@ -82,13 +82,19 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 Semua 70 lesen yang direkodkan ialah **produk kombinasi** (kebanyakannya trimethoprim dengan sulfametoksazol atau sulfadiazin, termasuk beberapa produk veterinar). Lesen ini tidak boleh digunakan untuk menggambarkan status kelulusan trimethoprim bahan tunggal. Teks indikasi yang diluluskan tidak tersedia dalam rekod. Senarai di bawah ialah contoh sebahagian daripada lesen:
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19870922AZ | COTRIM 480MG TABLET | Tidak dinyatakan | Tidak dinyatakan |
-| MAL19870913AZ | COTRIM DS 960MG TABLET | Tidak dinyatakan | Tidak dinyatakan |
-| MAL19871882AZ | PHARMANIAGA CO-TRIMOXAZOLE TABLET | Tidak dinyatakan | Tidak dinyatakan |
-| MAL08082721ACRZ | DBL Sulfamethoxazole and Trimethoprim Concentrate Injection | Tidak dinyatakan | Tidak dinyatakan |
-| MAL20152492AEZ | hovid Co-Trimoxazole Tablet B.P. 960mg | Tidak dinyatakan | Tidak dinyatakan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19870922AZ | COTRIM 480MG TABLET | Kombinasi | KOMEDIC SDN BHD | Sah |
+| MAL19870913AZ | COTRIM DS 960MG TABLET | Kombinasi | KOMEDIC SDN BHD | Sah |
+| MAL19871882AZ | PHARMANIAGA CO-TRIMOXAZOLE TABLET | Kombinasi | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL08082721ACRZ | DBL™ SULFAMETHOXAZOLE AND TRIMETHOPRIM CONCENTRATE INJECTION | Kombinasi | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL20152492AEZ | hovid Co-Trimoxazole Tablet B.P. 960mg | Kombinasi | HOVID BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 70 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Vonoprazan"
 predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "achlorhydria", "cascade stomach", "Dieulafoy lesion", "pylorospasm", "gastric dilatation", "hemorrhagic duodenitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Vonoprazan: indikasi baharu diramal Perforasi ulser peptik (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam rekod lesen tempatan"
 ---
 
@@ -75,12 +75,16 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19056003ARZ | Vocinti 20mg Film-Coated Tablet | – | – |
-| MAL19056002ARZ | Vocinti 10mg Film-Coated Tablet | – | – |
-| MAL23086019AZ | Vozan 20mg Film Coated Tablets | – | – |
-| MAL23086020AZ | Vozan 10mg Film Coated Tablets | – | – |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19056003ARZ | Vocinti 20mg Film-Coated Tablet | Bahan tunggal | Takeda Malaysia Sdn Bhd | Sah |
+| MAL19056002ARZ | Vocinti 10mg Film-Coated Tablet | Bahan tunggal | Takeda Malaysia Sdn Bhd | Sah |
+| MAL23086019AZ | Vozan 20mg Film Coated Tablets | Bahan tunggal | NOVUGEN PHARMA SDN. BHD. | Sah |
+| MAL23086020AZ | Vozan 10mg Film Coated Tablets | Bahan tunggal | NOVUGEN PHARMA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Pengeluar: Takeda Malaysia Sdn Bhd (Vocinti) dan Novugen Pharma Sdn Bhd (Vozan). Teks indikasi dan bentuk dos tidak terdapat dalam rekod lesen yang disusun.
 

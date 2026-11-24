@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PROPYLENE GLYCOL"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic cataract", "mature cataract", "immature cataract", "tetanic cataract"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Propylene Glycol: indikasi baharu diramal Bronkitis (tahap bukti L5). Indikasi asal: Sindrom mata kering dan xerophthalmia (hubungan direkodkan dalam graf…"
 ---
 
@@ -75,11 +75,15 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan untuk bronkiti
 
 Tiga pendaftaran ditemui. Tiada teks indikasi yang diluluskan dalam rekod, dan produk di bawah mungkin tidak mewakili propylene glycol sebagai bahan tunggal.
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL24026019ACZ | TAZATRED (Dasatinib Film-Coated Tablets 50mg) | Tiada data | Tiada data |
-| MAL24026020ACZ | TAZATRED (Dasatinib Film-Coated Tablets 70mg) | Tiada data | Tiada data |
-| MAL19871130AZ | OTEK-P EAR DROPS (produk gabungan) | Tiada data | Tiada data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24026019ACZ | TAZATRED (Dasatinib Film-Coated Tablets 50mg) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL24026020ACZ | TAZATRED (Dasatinib Film-Coated Tablets 70mg) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL19871130AZ | OTEK-P EAR DROPS | Kombinasi | UNIMED SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Nota: lesen produk gabungan tidak boleh digunakan untuk menggambarkan status kelulusan propylene glycol sebagai bahan tunggal.
 

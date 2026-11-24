@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Pitavastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pitavastatin: indikasi baharu diramal kekurangan protein pemindahan ester kolesterol (cholesterol-ester transfer protein deficiency) (tahap bukti L5). Indikasi asal: Tidak tersedia (teks indikasi lulus tiada dalam rekod pelesenan tempa…"
 ---
 
@@ -79,11 +79,17 @@ Pada masa ini tiada literatur berkaitan untuk indikasi ini.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL20046082AZ | Livalo Film-coated Tablets 2mg | DKSH Malaysia Sdn. Bhd. |
-| MAL20046083AZ | Livalo Film-coated Tablets 4mg | DKSH Malaysia Sdn. Bhd. |
-| MAL25126017AZ | ZYVASTA 2 (Pitavastatin Film-Coated Tablets 2mg) | Medispec (M) Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20046082AZ | Livalo Film-coated Tablets 2mg | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL20046083AZ | Livalo Film-coated Tablets 4mg | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL25126017AZ | ZYVASTA 2 (Pitavastatin Film-Coated Tablets 2mg) | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 3 daripada 5 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Ketiga-tiga pendaftaran ialah produk bahan tunggal yang sah.
 

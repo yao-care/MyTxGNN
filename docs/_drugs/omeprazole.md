@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Omeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Omeprazole: indikasi baharu diramal Sekatan duodenum (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan"
 ---
 
@@ -80,15 +80,27 @@ Namun, kesan ini bersifat tidak langsung. Omeprazole tidak melegakan sekatan mek
 
 ## Maklumat Pasaran Malaysia
 
-Teks indikasi yang diluluskan tidak tersedia dalam rekod pendaftaran. Di bawah ialah sebahagian daripada 45 pendaftaran (hanya produk bahan tunggal disenaraikan).
+Teks indikasi yang diluluskan tidak tersedia dalam rekod pendaftaran. Di bawah ialah sebahagian daripada pendaftaran yang direkodkan (hanya produk bahan tunggal disenaraikan).
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL20020239ARZ | NEXIUM MUPS TABLET 40MG | Tiada data | Tiada data |
-| MAL19992065ACRZ | LOSEC MUPS 20MG TABLET | Tiada data | Tiada data |
-| MAL18056152AZ | Promesec Capsule 20mg | Tiada data | Tiada data |
-| MAL09011422AZ | Gastrazole (Omeprazole for Injection 40 mg/vial) | Tiada data | Tiada data |
-| MAL05041936AZ | Omesec Capsule 20mg | Tiada data | Tiada data |
+<!-- review:begin my-lic-20261124-omeprazole-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Di bawah ialah sebahagian daripada 45 pendaftaran" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-23): bilangan yang dinyatakan ialah bilangan lama daripada data semasa laporan ditulis (45 pendaftaran; kini 46 pendaftaran). Bilangan pendaftaran berubah mengikut kemas kini mingguan data NPRA, jadi ayat ini tidak lagi menyatakan angka; bilangan semasa terdapat dalam Gambaran Ringkas dan jadual pendaftaran di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124-omeprazole-1 -->
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20020239ARZ | NEXIUM MUPS TABLET 40MG | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+| MAL19992065ACRZ | LOSEC MUPS 20MG TABLET | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL18056152AZ | Promesec Capsule 20mg | Bahan tunggal | Duopharma Marketing Sdn. Bhd. | Sah |
+| MAL09011422AZ | Gastrazole ( Omeprazole for Injection 40 mg/vial) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL05041936AZ | Omesec Capsule 20mg | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 46 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -118,11 +130,12 @@ Sila rujuk sisipan pek untuk maklumat amaran dan kontraindikasi yang rasmi.
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179) |
+| 2026-11-24 | Bilangan pendaftaran: “Di bawah ialah sebahagian daripada 45 pendaftaran” → “Di bawah ialah sebahagian daripada pendaftaran yang direkodkan” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

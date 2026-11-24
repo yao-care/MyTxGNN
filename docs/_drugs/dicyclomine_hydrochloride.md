@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB00804
 monitor_inn: "Dicyclomine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dicyclomine Hydrochloride: indikasi baharu diramal Sindrom cauda equina (cauda equina syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
@@ -82,12 +82,16 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19972939AZ | ACOLIC SYRUP | Tidak direkodkan | Tidak direkodkan |
-| MAL19930132AZ | SPASMIN TABLET 20MG | Tidak direkodkan | Tidak direkodkan |
-| MAL19871663AZ | COLIMIX SYRUP | Tidak direkodkan | Tidak direkodkan |
-| MAL19991140AZ | AXCEL DICYCLOMINE-S SYRUP | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19972939AZ | ACOLIC SYRUP | Kombinasi | ROYCE PHARMA MANUFACTURING SDN. BHD. | Sah |
+| MAL19930132AZ | SPASMIN TABLET 20MG | Bahan tunggal | PRIME PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19871663AZ | COLIMIX SYRUP | Kombinasi | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+| MAL19991140AZ | AXCEL DICYCLOMINE-S SYRUP | Kombinasi | KOTRA PHARMA (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Daripada keempat-empat lesen yang sah, satu ialah produk ingredien tunggal dan tiga ialah produk kombinasi.
 

@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB01551
 monitor_inn: "Dihydrocodeine"
 predicted_indications: ["nasal cavity disease", "allergic urticaria", "papillary conjunctivitis", "faucial diphtheria", "cervical disc degenerative disorder", "headache disorder", "cold urticaria", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Dihydrocodeine Tartrate: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
@@ -81,11 +81,15 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk penyakit rongga hidu
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Pengilang |
-|---------|------|------|-----------|
-| MAL05090018AZ | Suncodin Tablet | Tidak direkodkan | Sunward Pharmaceutical Sdn. Bhd. |
-| MAL20021420AZ | P.P. Dihydrocodeine Tablet | Tidak direkodkan | Noripharma Sdn. Bhd. |
-| MAL19970290AZ | Dicodine Tablet | Tidak direkodkan | Royce Pharma Manufacturing Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05090018AZ | Suncodin Tablet | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL20021420AZ | P.P. DIHYDROCODEINE TABLET | Bahan tunggal | Noripharma Sdn. Bhd. | Sah |
+| MAL19970290AZ | DICODINE TABLET | Bahan tunggal | ROYCE PHARMA MANUFACTURING SDN. BHD. | Sah (pendaftaran bersyarat) |
+
+<!-- licenses:end -->
 
 Ketiga-tiga lesen ialah produk bahan tunggal dan masih sah.
 

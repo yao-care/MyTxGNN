@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Acyclovir"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acyclovir: indikasi baharu diramal Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 46 (sah: 46)"
 ---
 
@@ -83,13 +83,19 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 Status pasaran: **Dipasarkan**. Terdapat 46 lesen sah, semuanya produk ingredien tunggal, tanpa lesen yang dibatalkan. Jadual di bawah menyenaraikan 5 lesen utama; teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19971376AZ | VIREST 400MG TABLET | Tiada rekod | Tidak direkodkan dalam data tempatan |
-| MAL19962829ARZ | ZOVIRAX DISPERSIBLE TABLET 200MG | Tiada rekod | Tidak direkodkan dalam data tempatan |
-| MAL19962817ARZ | VALTREX TABLET 500MG | Tiada rekod | Tidak direkodkan dalam data tempatan |
-| MAL19860861ARZ | ZOVIRAX IV FOR INFUSION 250MG | Tiada rekod | Tidak direkodkan dalam data tempatan |
-| MAL22096025AZ | Vivere Cream 5 % w/w | Tiada rekod | Tidak direkodkan dalam data tempatan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19971376AZ | VIREST 400MG TABLET | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL19962829ARZ | ZOVIRAX DISPERSIBLE TABLET 200MG | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19962817ARZ | VALTREX TABLET 500MG | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19860861ARZ | ZOVIRAX IV FOR INFUSION 250MG | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL22096025AZ | Vivere Cream 5 % w/w | Bahan tunggal | SPG PHARMA (MALAYSIA) SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 46 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

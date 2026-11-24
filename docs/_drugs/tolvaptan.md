@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tolvaptan: indikasi baharu diramal Renal-hepatic-pancreatic dysplasia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
@@ -81,13 +81,19 @@ Buat masa ini tiada literatur berkaitan.
 
 Lesen yang dikumpulkan ialah 6 pendaftaran produk tunggal yang sah, semuanya oleh Otsuka Pharmaceuticals (Malaysia) Sdn. Bhd. Teks indikasi dan bentuk dos tidak tersedia dalam data.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL22066001ACZ | Samsca Tolvaptan Tablet 15mg | Tablet | Tiada data |
-| MAL24036003ARZ | Jinarc 90 mg dan Jinarc 30 mg Tablets | Tablet | Tiada data |
-| MAL24036007ARZ | Jinarc Tablets 15 mg | Tablet | Tiada data |
-| MAL24036006ARZ | Jinarc Tablets 30 mg | Tablet | Tiada data |
-| MAL24036005ARZ | Jinarc 45 mg dan Jinarc 15 mg Tablets | Tablet | Tiada data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22066001ACZ | Samsca Tolvaptan Tablet 15mg | Bahan tunggal | OTSUKA PHARMACEUTICALS (MALAYSIA) SDN. BHD. | Sah |
+| MAL24036003ARZ | Jinarc 90 mg and Jinarc 30 mg Tablets | Bahan tunggal | OTSUKA PHARMACEUTICALS (MALAYSIA) SDN. BHD. | Sah |
+| MAL24036007ARZ | Jinarc Tablets 15 mg | Bahan tunggal | OTSUKA PHARMACEUTICALS (MALAYSIA) SDN. BHD. | Sah |
+| MAL24036006ARZ | Jinarc Tablets 30 mg | Bahan tunggal | OTSUKA PHARMACEUTICALS (MALAYSIA) SDN. BHD. | Sah |
+| MAL24036005ARZ | Jinarc 45 mg and Jinarc 15 mg Tablets | Bahan tunggal | OTSUKA PHARMACEUTICALS (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Satu lagi lesen, MAL24036004ARZ (Jinarc 60 mg dan Jinarc 30 mg Tablets), turut didaftarkan, menjadikan jumlah keseluruhan 6 pendaftaran.
 

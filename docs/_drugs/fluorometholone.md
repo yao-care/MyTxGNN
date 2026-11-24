@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Fluorometholone"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy", "glaucomatocyclitic crisis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluorometholone: indikasi baharu diramal Postinfectious vasculitis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -79,9 +79,13 @@ Dua penerbitan tidak langsung ditemui untuk keratokonjunktivitis epitelium berpu
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19890344ARZ | FML LIQUIFILM STERILE OPHTHALMIC S* | Tidak dinyatakan | Teks indikasi tidak tersedia dalam rekod lesen |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19890344ARZ | FML LIQUIFILM STERILE OPHTHALMIC S* | Bahan tunggal | ABBVIE SDN BHD | Sah |
+
+<!-- licenses:end -->
 
 Pengeluar: ABBVIE SDN BHD. Status: sah. Hanya satu pendaftaran produk tunggal ditemui (bukan produk kombinasi).
 

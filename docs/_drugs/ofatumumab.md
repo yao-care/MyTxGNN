@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "OFATUMUMAB"
 predicted_indications: ["follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma", "Langerhans cell histiocytosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ofatumumab: indikasi baharu diramal Limfoma folikular (tahap bukti L2). Indikasi asal: Leukemia limfoblastik/limfositik akut dan sindrom Richter (hubungan y…"
 ---
 
@@ -105,9 +105,13 @@ Satu-satunya ujian fasa 3 (NCT01077518) telah ditamatkan, maka tiada ujian fasa 
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL21086008ARZ | Bonspri 20mg/0.4mL Solution for Injection in Pre-filled syringe | Larutan suntikan dalam picagari pra-isi (mengikut nama produk) | Teks indikasi tidak tersedia dalam data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21086008ARZ | Bonspri 20mg/0.4mL Solution for Injection in Pre-filled syringe | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Lesen ini ialah produk tunggal yang sah, dikeluarkan kepada Novartis Corporation (Malaysia) Sdn. Bhd. Senarai ini lengkap (1 daripada 1 lesen).
 

@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 372
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Fluticasone Propionate: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -73,38 +73,42 @@ Model pembelajaran mendalam TxGNN (skor ≥ 0.99) menghasilkan calon indikasi un
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL11105001AZ | Flutinide Nasal Spray 50mcg/dose |  | Sah |
-| MAL21116022AZ | Seroflo 50 / 100 Ciphaler |  | Sah |
-| MAL21116023AZ | Seroflo 50 / 250 Ciphaler |  | Sah |
-| MAL20034218ARZ | FLIXOTIDE EVOHALER 125MCG |  | Sah |
-| MAL20021381ARZ | FLIXOTIDE EVOHALER 50MCG |  | Sah |
-| MAL07090898AZ | Seroflo -250 Inhaler |  | Sah |
-| MAL07090897AZ | Seroflo-125 inhaler |  | Sah |
-| MAL07090921AZ | Flomist Aqueous Nasal Spray 50 mcg |  | Sah |
-| MAL17117032AZ | BIOXITIDE 25/250 mcg/dose HFA INHALATION AEROSOL |  | Sah |
-| MAL17117031AZ | BIOXITIDE 25/125 mcg/dose HFA INHALATION AEROSOL |  | Sah |
-| MAL17117036ACRE | hovid-Clefan Nasal Spray 0.05% w/v |  | Sah |
-| MAL20031743ACRZ | FLIXONASE AQUEOUS NASAL SPRAY |  | Sah |
-| MAL18056065ACZ | Dymista Nasal Spray 137mcg/50mcg |  | Sah |
-| MAL23086016AZ | Seroflo 50 / 500 Ciphaler |  | Sah |
-| MAL14055154AZ | Combiwave SF 125 (Salmeterol 25mcg/actuation and Fluticasone |  | Sah |
-| MAL14085016AZ | FLUTIMATE 50 Fluticasone Pressurised Metered-Dose Inhaler 50 |  | Sah |
-| MAL14125084AZ | Combiwave SF250 (Salmeterol 25mcg/actuation and Fluticasone  |  | Sah |
-| MAL25016022AZ | FLUTIFLOW 120 (Fluticasone Nasal Spray BP 50mcg) |  | Sah |
-| MAL14125126AZ | FLUTIMATE NS 50 (Fluticasone Nasal Spray BP 50mcg) |  | Sah |
-| MAL10021809AZ | Flohale 125mcg Inhaler CFC Free |  | Sah |
-| MAL20001533ARZ | SERETIDE ACCUHALER 50/500MCG |  | Sah |
-| MAL20001531ARZ | SERETIDE ACCUHALER 50/100MCG |  | Sah |
-| MAL20001532ARZ | SERETIDE ACCUHALER 50/250MCG |  | Sah |
-| MAL21036028AZ | AIRPLUS 50/500 mcg inhalation powder |  | Sah |
-| MAL21036027AZ | AIRPLUS 50/250 mcg inhalation powder |  | Sah |
-| MAL21036026AZ | AIRPLUS 50/100 mcg inhalation powder  |  | Sah |
-| MAL19960955ARZ | CUTIVATE CREAM 0.05% W/W |  | Sah |
-| MAL11040017ARZ | Seretide Evohaler  Dose Counter 25 /50 mcg |  | Sah |
-| MAL11040018ARZ | Seretide Evohaler Dose Counter 25 /125 mcg |  | Sah |
-| MAL11040019ARZ | Seretide Evohaler Dose Counter 25 /250 mcg |  | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11105001AZ | Flutinide Nasal Spray 50mcg/dose | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL21116022AZ | Seroflo 50 / 100 Ciphaler | Kombinasi | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL21116023AZ | Seroflo 50 / 250 Ciphaler | Kombinasi | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL20034218ARZ | FLIXOTIDE EVOHALER 125MCG | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL20021381ARZ | FLIXOTIDE EVOHALER 50MCG | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL07090898AZ | Seroflo -250 Inhaler | Kombinasi | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL07090897AZ | Seroflo-125 inhaler | Kombinasi | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL07090921AZ | Flomist Aqueous Nasal Spray 50 mcg | Bahan tunggal | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL17117032AZ | BIOXITIDE 25/250 mcg/dose HFA INHALATION AEROSOL | Kombinasi | BIOCARE MANUFACTURING SDN. BHD. | Sah |
+| MAL17117031AZ | BIOXITIDE 25/125 mcg/dose HFA INHALATION AEROSOL | Kombinasi | BIOCARE MANUFACTURING SDN. BHD. | Sah |
+| MAL17117036ACRE | hovid-Clefan Nasal Spray 0.05% w/v | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL20031743ACRZ | FLIXONASE AQUEOUS NASAL SPRAY | Bahan tunggal | Haleon Malaysia Sdn. Bhd. | Sah |
+| MAL18056065ACZ | Dymista Nasal Spray 137mcg/50mcg | Kombinasi | MYLAN HEALTHCARE SDN. BHD. | Sah |
+| MAL23086016AZ | Seroflo 50 / 500 Ciphaler | Kombinasi | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL14055154AZ | Combiwave SF 125 (Salmeterol 25mcg/actuation and Fluticasone Propionate 125mcg/actuation Pressurised… | Kombinasi | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. | Sah |
+| MAL14085016AZ | FLUTIMATE 50 Fluticasone Pressurised Metered-Dose Inhaler 50mcg/dose (CFC-Free) | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL14125084AZ | Combiwave SF250 (Salmeterol 25mcg/actuation and Fluticasone Propionate 250mcg/actuation Pressurised… | Kombinasi | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. | Sah |
+| MAL25016022AZ | FLUTIFLOW 120 (Fluticasone Nasal Spray BP 50mcg) | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL14125126AZ | FLUTIMATE NS 50 (Fluticasone Nasal Spray BP 50mcg) | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL10021809AZ | Flohale 125mcg Inhaler CFC Free | Bahan tunggal | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL20001533ARZ | SERETIDE ACCUHALER 50/500MCG | Kombinasi | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL20001531ARZ | SERETIDE ACCUHALER 50/100MCG | Kombinasi | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL20001532ARZ | SERETIDE ACCUHALER 50/250MCG | Kombinasi | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL21036028AZ | AIRPLUS 50/500 mcg inhalation powder | Kombinasi | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL21036027AZ | AIRPLUS 50/250 mcg inhalation powder | Kombinasi | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL21036026AZ | AIRPLUS 50/100 mcg inhalation powder | Kombinasi | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL19960955ARZ | CUTIVATE CREAM 0.05% W/W | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL11040017ARZ | Seretide Evohaler Dose Counter 25 /50 mcg | Kombinasi | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL11040018ARZ | Seretide Evohaler Dose Counter 25 /125 mcg | Kombinasi | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL11040019ARZ | Seretide Evohaler Dose Counter 25 /250 mcg | Kombinasi | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

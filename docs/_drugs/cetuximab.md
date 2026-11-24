@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Cetuximab"
 predicted_indications: ["chondroid hamartoma", "non-seminomatous lesion", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "epiglottis neoplasm", "cystic neoplasm", "pre-malignant neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cetuximab: indikasi baharu diramal Hamartoma kondroid (chondroid hamartoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -70,9 +70,13 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL20081796AZ | ERBITUX 5MG/ML SOLUTION FOR INFUSION | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20081796AZ | ERBITUX 5MG/ML SOLUTION FOR INFUSION | Bahan tunggal | MERCK SDN. BHD. | Sah (pendaftaran bersyarat) |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "NITRIC OXIDE"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with connective tissue disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nitric Oxide: indikasi baharu diramal Sindrom malformasi dengan komponen gigi dan/atau periodontium (tahap bukti L5). Indikasi asal: Hipertensi pulmonari (hubungan yang direkodkan dalam graf penget…"
 ---
 
@@ -84,9 +84,13 @@ Semua kajian di bawah berkaitan periodontitis atau biologi nitric oxide secara u
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL26016028AZ | Linde Medicinal Nitric Oxide 1000ppm Gas Mixture | Tiada dalam data | Tiada dalam data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL26016028AZ | Linde Medicinal Nitric Oxide 1000ppm Gas Mixture | Bahan tunggal | Linde Malaysia Sdn. Bhd. | Sah (pendaftaran bersyarat) |
+
+<!-- licenses:end -->
 
 Pengeluar: Linde Malaysia Sdn. Bhd. Lesen ini ialah produk bahan tunggal yang sah.
 

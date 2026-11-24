@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Magnesium Trisilicate"
 predicted_indications: ["gastroduodenitis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Magnesium Trisilicate: indikasi baharu diramal Gastroduodenitis (tahap bukti L5). Indikasi asal: Penyakit ulser peptik, GERD, esofagitis, dispepsia"
 ---
 
@@ -85,13 +85,19 @@ Buat masa ini tiada literatur berkaitan tersedia.
 
 Semua 15 pendaftaran ialah produk kombinasi dan berstatus sah. Teks indikasi yang diluluskan tidak tersedia dalam data yang dihimpunkan. Lesen produk kombinasi tidak boleh digunakan untuk menggambarkan status kelulusan bahan tunggal magnesium trisilikat. Senarai di bawah menunjukkan 5 yang pertama sahaja.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Pengilang |
-|---------|------|------|-----------|
-| MAL19940176XC | ALUSIL MPS SUSPENSION | Tiada maklumat | Zontron Pharmaceuticals Sdn. Bhd. |
-| MAL19940195XC | ALUSIL TABLET | Tiada maklumat | Zontron Pharmaceuticals Sdn. Bhd. |
-| MAL09042426X | Megacid Tablet | Tiada maklumat | Unimed Sdn. Bhd. |
-| MAL19940180XC | MMT MIXTURE | Tiada maklumat | Teraputics Sdn Bhd |
-| MAL19940204XC | ALUSIL MPS TABLET | Tiada maklumat | Zontron Pharmaceuticals Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19940176XC | ALUSIL MPS SUSPENSION | Kombinasi | ZONTRON PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL19940195XC | ALUSIL TABLET | Kombinasi | ZONTRON PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL09042426X | Megacid Tablet | Kombinasi | UNIMED SDN. BHD. | Sah |
+| MAL19940180XC | MMT MIXTURE | Kombinasi | TERAPUTICS SDN BHD | Sah |
+| MAL19940204XC | ALUSIL MPS TABLET | Kombinasi | ZONTRON PHARMACEUTICALS SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 132
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -70,9 +70,15 @@ Pada masa ini tiada petunjuk yang diramalkan telah dijana, oleh itu tiada carian
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
-|---------|------|------|-----------|
-| *(Tidak tersedia)* | *(Tidak tersedia)* | *(Tidak tersedia)* | *(Tidak tersedia)* |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19871099ACRZ | MADOPAR ROCHE TABLET 250MG | Kombinasi | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 1 daripada 3 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 > **Nota:** Tiga pendaftaran telah dikenalpasti dalam pangkalan data NPRA, tetapi maklumat lesen terperinci (nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan) tidak diisi dalam pakej bukti. Ini mewakili jurang data yang perlu diperbetulkan dengan membuat pertanyaan ke pangkalan data NPRA secara langsung.
 

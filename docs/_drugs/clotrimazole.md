@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Clotrimazole"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clotrimazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 67 (sah: 65)"
 ---
 
@@ -82,7 +82,7 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran di Malaysia
 
-Sebanyak 67 lesen berdaftar; 65 daripadanya sah, 1 telah tamat tempoh dan 1 tidak lagi tersenarai dalam daftar semasa NPRA (54 produk bahan tunggal, 13 produk kombinasi). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Antara lesen utama:
+Lesen yang berdaftar merangkumi produk bahan tunggal dan produk kombinasi; ada yang telah tamat tempoh, dan MAL07090895XZ tidak lagi tersenarai dalam daftar semasa NPRA (bilangan dan status semasa terdapat dalam Gambaran Ringkas). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Antara lesen utama:
 
 <!-- review:begin my-lic-20261112-clotrimazole-1 -->
 
@@ -90,13 +90,19 @@ Sebanyak 67 lesen berdaftar; 65 daripadanya sah, 1 telah tamat tempoh dan 1 tida
 
 <!-- review:end my-lic-20261112-clotrimazole-1 -->
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL10100180XZ | MYCORIL SPRAY 1% | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-| MAL06051301XZ | CANEZIN CREAM 1%W/W | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-| MAL07010940AZ | Canesten Gyn Vaginal Tablet 100mg | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-| MAL14015020XCRZ | Canesten Clotrimazole Cream 1%w/w | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-| MAL19900331AZ | CANDID EAR DROPS 1% | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL10100180XZ | MYCORIL SPRAY 1% | Bahan tunggal | EUCOGEN SDN BHD | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL06051301XZ | CANEZIN CREAM 1%W/W | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL07010940AZ | Canesten Gyn Vaginal Tablet 100mg | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
+| MAL14015020XCRZ | Canesten Clotrimazole Cream 1%w/w | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
+| MAL19900331AZ | CANDID EAR DROPS 1% | Bahan tunggal | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 67 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 
@@ -130,7 +136,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Bilangan pendaftaran: 67 pendaftaran; 65 sah, 1 tamat tempoh, 1 tidak lagi tersenarai dalam daftar semasa NPRA | Dibetulkan (disemak 2026-11-19; versi terdahulu disimpan dalam rekod) | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
+| 2026-11-19 | Bilangan pendaftaran: “Sebanyak 64 lesen berdaftar dan semuanya sah (51 produk bahan tunggal,” → “Lesen yang berdaftar merangkumi produk bahan tunggal dan produk kombin” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: clotrimazole prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=980736aa-751a-4642-ab85-a309435fd02f) |
 
 <!-- review:end log -->

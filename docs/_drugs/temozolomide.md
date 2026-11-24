@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TEMOZOLOMIDE"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Temozolomide: indikasi baharu diramal Neoplasma cauda equina (tahap bukti L5). Indikasi asal: Astrositoma anaplastik, astrositoma (tidak termasuk glioblastoma)…"
 ---
 
@@ -87,13 +87,17 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL22096014AZ | TemoRel Hard Capsule 250 mg | Tidak tersedia | Tidak tersedia |
-| MAL22096013AZ | TemoRel Hard Capsule 100 mg | Tidak tersedia | Tidak tersedia |
-| MAL07082881ACRZ | Temodal Capsules 100mg | Tidak tersedia | Tidak tersedia |
-| MAL07082880ACRZ | Temodal Capsules 20mg | Tidak tersedia | Tidak tersedia |
-| MAL24046040AZ | TemoRel Hard Capsule 20 mg | Tidak tersedia | Tidak tersedia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22096014AZ | TemoRel Hard Capsule 250 mg | Bahan tunggal | Mansa Healthcare Sdn Bhd | Sah |
+| MAL22096013AZ | TemoRel Hard Capsule 100 mg | Bahan tunggal | Mansa Healthcare Sdn Bhd | Sah |
+| MAL07082881ACRZ | Temodal Capsules 100mg | Bahan tunggal | MERCK SHARP & DOHME (MALAYSIA) SDN. BHD. | Sah |
+| MAL07082880ACRZ | Temodal Capsules 20mg | Bahan tunggal | MERCK SHARP & DOHME (MALAYSIA) SDN. BHD. | Sah |
+| MAL24046040AZ | TemoRel Hard Capsule 20 mg | Bahan tunggal | Mansa Healthcare Sdn Bhd | Sah |
+
+<!-- licenses:end -->
 
 ---
 

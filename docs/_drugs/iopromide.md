@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "IOPROMIDE"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "alopecia", "myosclerosis", "hemoglobinopathy", "pseudoachondroplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Iopromide: indikasi baharu diramal Osteoartritis (tahap bukti L5). Indikasi asal: Tiada data (teks indikasi yang diluluskan tidak tersedia dalam rekod…"
 ---
 
@@ -83,10 +83,14 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19920403ARZ | ULTRAVIST 370 | Tiada data | Tiada data |
-| MAL19920402ARZ | ULTRAVIST 300 | Tiada data | Tiada data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19920403ARZ | ULTRAVIST 370 | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
+| MAL19920402ARZ | ULTRAVIST 300 | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Kedua-dua pendaftaran ialah produk ramuan tunggal yang sah, dikeluarkan oleh Bayer Co. (Malaysia) Sdn. Bhd.
 

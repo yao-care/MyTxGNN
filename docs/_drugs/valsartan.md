@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Valsartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Valsartan: indikasi baharu diramal Penyakit buah pinggang hipertensi malignan (tahap bukti L5). Indikasi asal: Hipertensi (hubungan direkodkan dalam graf pengetahuan"
 ---
 
@@ -75,13 +75,19 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk indikasi ini.
 
 Teks indikasi yang diluluskan tidak tersedia dalam rekod lesen. Senarai di bawah hanya menunjukkan produk valsartan tunggal (5 daripada 23 produk tunggal yang sah). Produk kombinasi tidak digunakan untuk menerangkan kelulusan bahan tunggal.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL09042429ARZ | Diovan 40mg Film-coated Tablet | Tiada maklumat | Tiada maklumat |
-| MAL09042430ARZ | Diovan 80mg Film-coated Tablet | Tiada maklumat | Tiada maklumat |
-| MAL09042431ARZ | Diovan 160mg Film-coated Tablet | Tiada maklumat | Tiada maklumat |
-| MAL19056033ACZ | Valsartan Sandoz Film-Coated Tablet 80mg | Tiada maklumat | Tiada maklumat |
-| MAL19056034ACZ | Valsartan Sandoz Film-Coated Tablet 160mg | Tiada maklumat | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09042429ARZ | Diovan 40mg Film-coated Tablet | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL09042430ARZ | Diovan 80mg Film-coated Tablet | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL09042431ARZ | Diovan 160mg Film-coated Tablet | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL19056033ACZ | Valsartan Sandoz Film-Coated Tablet 80mg | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+| MAL19056034ACZ | Valsartan Sandoz Film-Coated Tablet 160mg | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 46 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

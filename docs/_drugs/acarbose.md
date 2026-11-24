@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ACARBOSE"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acarbose: indikasi baharu diramal Sindrom anggota kaku fokal (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2 (hubungan yang direkodkan dalam graf penget…"
 ---
 
@@ -72,13 +72,17 @@ Sebagai perbandingan, ramalan peringkat ketujuh, iaitu agenesis pankreas, mempun
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL06100582AZ | Dibose Tablets 50mg | Tiada data | Tiada data |
-| MAL23046040AE | Gacose Tablet 100mg | Tiada data | Tiada data |
-| MAL23046039AE | Gacose Tablet 50mg | Tiada data | Tiada data |
-| MAL09100265AZ | Garbose Tablet 50mg | Tiada data | Tiada data |
-| MAL09100266AZ | Garbose Tablet 100mg | Tiada data | Tiada data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06100582AZ | Dibose Tablets 50mg | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL23046040AE | Gacose Tablet 100mg | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL23046039AE | Gacose Tablet 50mg | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL09100265AZ | Garbose Tablet 50mg | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL09100266AZ | Garbose Tablet 100mg | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Kesemua 5 pendaftaran adalah produk bahan tunggal yang sah.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Etoposide"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etoposide: indikasi baharu diramal Adenokarsinoma janin paru-paru berdiferensiasi baik (tahap bukti L5). Indikasi asal: Teks indikasi yang diluluskan tidak tersedia dalam data pendaftaran t…"
 ---
 
@@ -84,10 +84,14 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL11070004AZ | Fytosid Injection (20mg/ml) (Fresenius Kabi Malaysia Sdn. Bhd.) | — | — |
-| MAL22116021AZ | SEDOL - Etoposide Concentrate for Solution for Infusion 20 mg/ml (Unimed Sdn. Bhd.) | — | — |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11070004AZ | Fytosid Injection (20mg/ml) | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL22116021AZ | SEDOL - Etoposide Concentrate for Solution for Infusion 20 mg/ml | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Kedua-dua pendaftaran ialah produk bahan tunggal yang sah. Bentuk dos dan teks indikasi tidak direkodkan dalam data yang dikumpulkan.
 

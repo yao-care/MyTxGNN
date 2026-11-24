@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Gemcitabine: indikasi baharu diramal Adenokarsinoma mukinus rektum (tahap bukti L5). Indikasi asal: Kanser ovari (hubungan yang direkodkan dalam graf pengetahuan"
 ---
 
@@ -81,13 +81,19 @@ Setakat ini tiada literatur berkaitan yang tersedia untuk adenokarsinoma mukinus
 
 Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Senarai di bawah menunjukkan 5 daripada 16 pendaftaran.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL16075027AZ | GEMTERO 1g (Gemcitabine for Injection 1g) | – | – |
-| MAL16075028AZ | GEMTERO 200 mg (Gemcitabine for Injection 200 mg) | – | – |
-| MAL22106016AZ | JOCITAM (Gemcitabine for Injection, USP 1g/vial) | – | – |
-| MAL23046013AZ | GEMCIT SPAL-P 200 (200 mg/vial) | – | – |
-| MAL08042477AZ | GEMITA for Injection 1G | – | – |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16075027AZ | GEMTERO 1g (Gemcitabine for Injection 1g) | Bahan tunggal | CAMBER LABORATORIES SDN. BHD. | Sah |
+| MAL16075028AZ | GEMTERO 200 mg (Gemcitabine for Injection 200 mg) | Bahan tunggal | CAMBER LABORATORIES SDN. BHD. | Sah |
+| MAL22106016AZ | JOCITAM (Gemcitabine for Injection, USP 1g/vial) | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL23046013AZ | GEMCIT SPAL-P 200 (Gemcitabine Powder for Solution for Infusion, USP 200 mg/vial) | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL08042477AZ | GEMITA for Injection 1G | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 16 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

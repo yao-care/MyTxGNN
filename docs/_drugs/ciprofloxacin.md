@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ciprofloxacin"
 predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ciprofloxacin: indikasi baharu diramal Sklerosis sistemik meresap (diffuse scleroderma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 42 (sah: 40)"
 ---
 
@@ -75,21 +75,27 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-Dipasarkan di Malaysia; terdapat 42 lesen berdaftar, 41 daripadanya sah dan 1 telah tamat tempoh (41 produk ingredien tunggal dan 1 produk kombinasi). Senarai di bawah menunjukkan 5 yang utama daripada produk ingredien tunggal.
+Dipasarkan di Malaysia; lesen yang berdaftar merangkumi produk ingredien tunggal dan produk kombinasi; ada yang telah tamat tempoh (bilangan dan status semasa terdapat dalam Gambaran Ringkas). Senarai di bawah menunjukkan 5 yang utama daripada produk ingredien tunggal.
 
 <!-- review:begin my-lic-20261112-ciprofloxacin-1 -->
 
-> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "terdapat 42 lesen berdaftar, semuanya sah (41 produk" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 42 pendaftaran, 41 sah, 1 tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "terdapat 42 lesen berdaftar, semuanya sah (41 produk ingredien tunggal dan 1 produk kombinasi)" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 42 pendaftaran, 41 sah, 1 tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261112-ciprofloxacin-1 -->
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL19890626AZ | CIPROBAY TABLET 500MG | Bayer Co. (Malaysia) Sdn. Bhd. |
-| MAL19984772ACZ | CIPROBAY 400 INFUSION SOLUTION | Bayer Co. (Malaysia) Sdn. Bhd. |
-| MAL20021000AZ | Pharmaniaga Ciprofloxacin Tablet 500mg | Pharmaniaga Manufacturing Berhad |
-| MAL13085047AZ | Ciflox Film Coated Tablet 500mg | Y.S.P. Industries (M) Sdn. Bhd. |
-| MAL16075021AZ | Cipofain (Ciprofloxacin Sterile Ophthalmic Solution 0.3% w/v) | Ain Medicare Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19890626AZ | CIPROBAY TABLET 500MG | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
+| MAL19984772ACZ | CIPROBAY 400 INFUSION SOLUTION | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Sah |
+| MAL20021000AZ | PHARMANIAGA CIPROFLOXACIN TABLET 500MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL13085047AZ | Ciflox Film Coated Tablet 500mg | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL16075021AZ | CIPOFAIN (Ciprofloxacin Sterile Ophthalmic Solution 0.3% w/v) | Bahan tunggal | AIN MEDICARE SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 42 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -120,7 +126,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “terdapat 42 lesen berdaftar, semuanya sah (41 produk” → “terdapat 42 lesen berdaftar, 41 daripadanya sah dan 1 telah tamat tempoh (41 pro” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-12 | Bilangan pendaftaran: “terdapat 42 lesen berdaftar, semuanya sah (41 produk ingredien tunggal” → “lesen yang berdaftar merangkumi produk ingredien tunggal dan produk ko” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ciprofloxacin In Dextrose (ciprofloxacin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbbbf939-3219-4515-a48e-ca264daa4d07) |
 
 <!-- review:end log -->

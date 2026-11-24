@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Theophylline"
 predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "pharyngitis", "acute laryngopharyngitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Theophylline: indikasi baharu diramal Penyakit trombotik (tahap bukti L5). Indikasi asal: Asma, bronkitis…"
 ---
 
@@ -92,13 +92,19 @@ Tiada penerbitan yang mengkaji kesan theophylline terhadap penyakit trombotik se
 
 Teks indikasi diluluskan tidak tersedia dalam data lesen. Semua 8 pendaftaran ialah produk tunggal-bahan dan berstatus sah.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL13025048ACZ | Nuelin syrup 80mg/15ml | Tiada maklumat | Tiada maklumat |
-| MAL13075064ACZ | Nuelin SR 250 tablet | Tiada maklumat | Tiada maklumat |
-| MAL13085050ACZ | Nuelin SR 125 tablet | Tiada maklumat | Tiada maklumat |
-| MAL19872133AZ | Pharmaniaga Theophylline 125mg Tablet | Tiada maklumat | Tiada maklumat |
-| MAL20132342AZ | Unicontin 400 controlled release tablets | Tiada maklumat | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13025048ACZ | Nuelin syrup 80mg/15ml | Bahan tunggal | iNova Pharmaceuticals (Singapore) Pte Ltd (incorporated In Singapore)… | Sah |
+| MAL13075064ACZ | Nuelin SR 250 tablet | Bahan tunggal | iNova Pharmaceuticals (Singapore) Pte Ltd (incorporated In Singapore)… | Sah |
+| MAL13085050ACZ | Nuelin SR 125 tablet | Bahan tunggal | iNova Pharmaceuticals (Singapore) Pte Ltd (incorporated In Singapore)… | Sah |
+| MAL19872133AZ | PHARMANIAGA THEOPHYLLINE 125MG TABLET | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL20132342AZ | Unicontin 400 controlled release tablets | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Tiga pendaftaran lagi (Unicontin 600, AA-Theo LA 200mg dan 300mg) turut wujud; senarai di atas dihadkan kepada 5 entri utama.
 

@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB00633
 monitor_inn: "Dexmedetomidine"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dexmedetomidine Hydrochloride: indikasi baharu diramal Sindrom antidiuresis tidak wajar nefrogenik (nephrogenic syndrome of inappropriate antidiuresis) (tahap bukti L5)."
 ---
 
@@ -71,7 +71,7 @@ Buat masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran di Malaysia
 
-Data tempatan menunjukkan status pasaran **dipasarkan**. Terdapat 10 pendaftaran produk bahan tunggal, dengan 9 sah dan 1 dibatalkan. Senarai lesen terperinci dijana oleh program tapak dan tidak diulang di sini.
+Data tempatan menunjukkan status pasaran **dipasarkan**. Kesemua pendaftaran ialah produk bahan tunggal; ada yang telah dibatalkan atau tamat tempoh (bilangan semasa dalam Gambaran Ringkas). Senarai lesen terperinci dijana oleh program tapak dan tidak diulang di sini.
 
 <!-- review:begin my-lic-20261117-dexmedetomidine_hydrochloride-1 -->
 
@@ -104,7 +104,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-17 | Status pendaftaran: “Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibatalkan.” → “Terdapat 10 pendaftaran produk bahan tunggal, dengan 9 sah dan 1 dibatalkan.” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
+| 2026-11-17 | Bilangan pendaftaran: “Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibata” → “Kesemua pendaftaran ialah produk bahan tunggal; ada yang telah dibatal” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Precedex (dexmedetomidine hydrochloride) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=92b7ddaa-e45a-4b64-a802-bb5df8771dd6) |
 
 <!-- review:end log -->

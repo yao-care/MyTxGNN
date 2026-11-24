@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Famotidine"
 predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Famotidine: indikasi baharu diramal Halangan duodenum (tahap bukti L5). Indikasi asal: Ulser gastrik, penyakit refluks gastroesofagus, esofagitis, dispepsia…"
 ---
 
@@ -89,13 +89,19 @@ Kedua-dua kertas tidak mengkaji famotidine sebagai rawatan untuk halangan duoden
 
 Teks indikasi yang diluluskan tidak tersedia dalam data lesen. Berikut ialah 5 daripada 15 lesen sah (semua produk bahan tunggal):
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL20002518AZ | SUNPEPCIN 40 TABLET | Tiada maklumat | Tiada maklumat |
-| MAL20002517AZ | SUNPEPCIN 20 TABLET | Tiada maklumat | Tiada maklumat |
-| MAL21076020AE | HP Famotidine Film-Coated Tablet 20 mg | Tiada maklumat | Tiada maklumat |
-| MAL19961275AZ | hovid-Famotidine Tablet 40 mg | Tiada maklumat | Tiada maklumat |
-| MAL19961276AZ | hovid-Famotidine Film-Coated Tablet 20 mg | Tiada maklumat | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20002518AZ | SUNPEPCIN 40 TABLET | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL20002517AZ | SUNPEPCIN 20 TABLET | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL21076020AE | HP Famotidine Film-Coated Tablet 20 mg | Bahan tunggal | Hovid Pharmacy Sdn. Bhd. | Sah |
+| MAL19961275AZ | hovid-Famotidine Tablet 40 mg | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL19961276AZ | hovid-Famotidine Film-Coated Tablet 20 mg | Bahan tunggal | HOVID BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Lesen lain termasuk FAMOTIN, FAMOTAB, Famotac, VOKER, ULCERAN, FAMODINE dan HP-Famovid.
 

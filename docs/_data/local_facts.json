@@ -21,11 +21,11 @@
   "items_current": 13284
  },
  "reviews": {
-  "records": 665,
-  "pages": 515,
-  "public_pages_with_records": 513,
+  "records": 675,
+  "pages": 518,
+  "public_pages_with_records": 516,
   "by_action": {
-   "correct": 213,
+   "correct": 223,
    "mechanism": 452
   }
  },
@@ -204,52 +204,82 @@
  },
  "recent_reviews": [
   {
-   "t": "Tazobactam",
-   "u": "/drugs/tazobactam/",
-   "s": "Status jadual: MAL17107023ARZ “Status tidak dapat disahkan” → tidak lagi tersenarai dalam daftar semasa NPRA",
-   "d": "2026-11-19"
+   "t": "Vildagliptin",
+   "u": "/drugs/vildagliptin/",
+   "s": "Bilangan pendaftaran: “(5 daripada 7 lesen ramuan tunggal yang sah)” → “(sebahagian daripada lesen ramuan…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Rituximab",
-   "u": "/drugs/rituximab/",
-   "s": "Status jadual: MAL20020816ARSZ “Status unknown (registration number not ” → tidak lagi tersenarai dalam…",
-   "d": "2026-11-19"
+   "t": "Telmisartan",
+   "u": "/drugs/telmisartan/",
+   "s": "Bilangan pendaftaran: “Daripada 59 pendaftaran, 32 ialah produk tunggal (termasuk satu produk” → “Pendaftaran…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Sodium Citrate",
+   "u": "/drugs/sodium-citrate/",
+   "s": "Bilangan pendaftaran: “sebahagian daripada 36 pendaftaran yang sah” → “sebahagian daripada pendaftaran yang…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Prednisolone",
+   "u": "/drugs/prednisolone/",
+   "s": "Bilangan pendaftaran: “Senarai di bawah ialah sebahagian daripada 38 pendaftaran.” → “Senarai di bawah ialah…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Omeprazole",
+   "u": "/drugs/omeprazole/",
+   "s": "Bilangan pendaftaran: “Di bawah ialah sebahagian daripada 45 pendaftaran” → “Di bawah ialah sebahagian…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Magnesium Hydroxide",
+   "u": "/drugs/magnesium-hydroxide/",
+   "s": "Bilangan pendaftaran: “Daripada 41 pendaftaran NPRA, hanya 1 ialah produk bahan tunggal.” → “Kebanyakan…",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Ezetimibe",
+   "u": "/drugs/ezetimibe/",
+   "s": "Bilangan pendaftaran: “27 pendaftaran lain ialah produk kombinasi” → “pendaftaran lain ialah produk kombinasi”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Doxycycline",
+   "u": "/drugs/doxycycline/",
+   "s": "Bilangan pendaftaran: “Banyak daripada 32 pendaftaran ialah” → “Banyak pendaftaran ialah”",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Diphenhydramine Hcl",
+   "u": "/drugs/diphenhydramine-hcl/",
+   "s": "Bilangan pendaftaran: “Senarai di atas ialah 5 daripada 21 lesen.” → “Senarai di atas ialah sebahagian…",
+   "d": "2026-11-24"
   },
   {
    "t": "Nonivamide",
    "u": "/drugs/nonivamide/",
-   "s": "Bilangan pendaftaran: “5 lesen sah daripada 5” → 4 sah daripada 5",
+   "s": "Bilangan pendaftaran: “(5 lesen sah daripada 5)” → “(lesen yang sah: lihat Gambaran Ringkas; MAL26026009X…",
    "d": "2026-11-19"
   },
   {
    "t": "Duloxetine",
    "u": "/drugs/duloxetine/",
-   "s": "Bilangan pendaftaran: “18 lesen produk tunggal yang sah kesemuanya” → 18 lesen, 16 sah, 2 tidak lagi…",
+   "s": "Bilangan pendaftaran: “terdapat 18 lesen produk tunggal yang sah kesemuanya” → “semua lesen ialah produk…",
    "d": "2026-11-19"
   },
   {
    "t": "Levodopa",
    "u": "/drugs/levodopa/",
-   "s": "Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Daripada 15 pendaftaran, 14…",
+   "s": "Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Kesemua pendaftaran…",
    "d": "2026-11-19"
   },
   {
    "t": "Clotrimazole",
    "u": "/drugs/clotrimazole/",
-   "s": "Bilangan pendaftaran: 67 pendaftaran; 65 sah, 1 tamat tempoh, 1 tidak lagi tersenarai dalam daftar semasa NPRA",
+   "s": "Bilangan pendaftaran: “Sebanyak 64 lesen berdaftar dan semuanya sah (51 produk bahan tunggal,” → “Lesen yang…",
    "d": "2026-11-19"
-  },
-  {
-   "t": "Thiotepa",
-   "u": "/drugs/thiotepa/",
-   "s": "Status jadual: MAL23066003AZ “Status tidak dapat disahkan” → nombor lama, kini MAL23066003ARZ",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Netarsudil",
-   "u": "/drugs/netarsudil/",
-   "s": "Status jadual: MAL25046005ACZ “Status unknown …” → Sah (kini MAL25046005ARZ)",
-   "d": "2026-11-17"
   },
   {
    "t": "Estradiol Valerate",
@@ -260,13 +290,13 @@
   {
    "t": "Dexmedetomidine Hydrochloride",
    "u": "/drugs/dexmedetomidine-hydrochloride/",
-   "s": "Status pendaftaran: “Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibatalkan.” → “Terdapat…",
+   "s": "Bilangan pendaftaran: “Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibata” → “Kesemua…",
    "d": "2026-11-17"
   },
   {
    "t": "Cefoperazone",
    "u": "/drugs/cefoperazone/",
-   "s": "Status pendaftaran: “dengan 8 lesen yang sah dan tiada yang dibatalkan” → “dengan 8 lesen yang sah; 1 nombor…",
+   "s": "Bilangan pendaftaran: “dengan 8 lesen yang sah dan tiada yang dibatalkan” → “dengan lesen yang sah (bilangan…",
    "d": "2026-11-17"
   },
   {
@@ -278,124 +308,94 @@
   {
    "t": "Trastuzumab",
    "u": "/drugs/trastuzumab/",
-   "s": "Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan 14 pendaftaran, semuanya sah)”",
+   "s": "Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan pendaftaran yang sah; bilangan…",
    "d": "2026-11-17"
   },
   {
    "t": "Cyanocobalamin",
    "u": "/drugs/cyanocobalamin/",
-   "s": "Bilangan pendaftaran: “Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi” → “Jumlah pendaftaran…",
+   "s": "Bilangan pendaftaran: “Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi” → “Kebanyakan pendaftaran…",
    "d": "2026-11-17"
   },
   {
    "t": "Apixaban",
    "u": "/drugs/apixaban/",
-   "s": "Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan 30 lesen sah; 2 nombor…",
+   "s": "Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan lesen yang sah (bilangan…",
    "d": "2026-11-17"
   },
   {
    "t": "Zinc Oxide",
    "u": "/drugs/zinc-oxide/",
-   "s": "Bilangan pendaftaran: “Jumlah keseluruhan ialah 280 lesen” → “Terdapat 304 lesen sah daripada jumlah…",
+   "s": "Bilangan pendaftaran: “Jumlah keseluruhan ialah 280 lesen” → “Bilangan lesen semasa terdapat dalam Gambaran…",
    "d": "2026-11-12"
   },
   {
    "t": "Tadalafil",
    "u": "/drugs/tadalafil/",
-   "s": "Bilangan pendaftaran: “Terdapat 23 pendaftaran sah, semuanya produk bahan tunggal.” → “Terdapat 27…",
+   "s": "Bilangan pendaftaran: “Terdapat 23 pendaftaran sah, semuanya produk bahan tunggal.” → “Pendaftaran yang sah…",
    "d": "2026-11-12"
   },
   {
    "t": "Pregabalin",
    "u": "/drugs/pregabalin/",
-   "s": "Bilangan pendaftaran: “Terdapat 63 pendaftaran produk pregabalin bahan tunggal yang” → “Terdapat 64…",
+   "s": "Bilangan pendaftaran: “Terdapat 63 pendaftaran produk pregabalin bahan tunggal yang sah” → “Terdapat banyak…",
    "d": "2026-11-12"
   },
   {
    "t": "Methionine",
    "u": "/drugs/methionine/",
-   "s": "Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombi” → “Sebanyak 161…",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Ketoconazole",
-   "u": "/drugs/ketoconazole/",
-   "s": "Bilangan pendaftaran: “Ketoconazole mempunyai 33 lesen berdaftar, semuanya sah (31” → “Ketoconazole mempunyai…",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Iron",
-   "u": "/drugs/iron/",
-   "s": "Bilangan pendaftaran: “Sebanyak 80 lesen direkodkan, kesemuanya sah (30” → “Sebanyak 80 lesen direkodkan, 79…",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Clarithromycin",
-   "u": "/drugs/clarithromycin/",
-   "s": "Bilangan pendaftaran: “Terdapat 28 lesen, semuanya sah (27 produk bahan tunggal dan” → “Terdapat 29 lesen…",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Ciprofloxacin",
-   "u": "/drugs/ciprofloxacin/",
-   "s": "Bilangan pendaftaran: “terdapat 42 lesen berdaftar, semuanya sah (41 produk” → “terdapat 42 lesen berdaftar…",
-   "d": "2026-11-12"
-  },
-  {
-   "t": "Budesonide",
-   "u": "/drugs/budesonide/",
-   "s": "Bilangan pendaftaran: “Terdapat 34 lesen, semuanya sah (25 produk bahan tunggal dan” → “Terdapat 35 lesen…",
+   "s": "Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi).” → “Pendaftaran…",
    "d": "2026-11-12"
   }
  ],
  "recent_licence_reviews": [
   {
-   "t": "Tazobactam",
-   "u": "/drugs/tazobactam/",
-   "s": "Status jadual: MAL17107023ARZ “Status tidak dapat disahkan” → tidak lagi tersenarai dalam daftar semasa NPRA",
-   "d": "2026-11-19"
+   "t": "Vildagliptin",
+   "u": "/drugs/vildagliptin/",
+   "s": "Bilangan pendaftaran: “(5 daripada 7 lesen ramuan tunggal yang sah)” → “(sebahagian daripada lesen ramuan…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Rituximab",
-   "u": "/drugs/rituximab/",
-   "s": "Status jadual: MAL20020816ARSZ “Status unknown (registration number not ” → tidak lagi tersenarai dalam…",
-   "d": "2026-11-19"
+   "t": "Telmisartan",
+   "u": "/drugs/telmisartan/",
+   "s": "Bilangan pendaftaran: “Daripada 59 pendaftaran, 32 ialah produk tunggal (termasuk satu produk” → “Pendaftaran…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Nonivamide",
-   "u": "/drugs/nonivamide/",
-   "s": "Bilangan pendaftaran: “5 lesen sah daripada 5” → 4 sah daripada 5",
-   "d": "2026-11-19"
+   "t": "Sodium Citrate",
+   "u": "/drugs/sodium-citrate/",
+   "s": "Bilangan pendaftaran: “sebahagian daripada 36 pendaftaran yang sah” → “sebahagian daripada pendaftaran yang…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Duloxetine",
-   "u": "/drugs/duloxetine/",
-   "s": "Bilangan pendaftaran: “18 lesen produk tunggal yang sah kesemuanya” → 18 lesen, 16 sah, 2 tidak lagi…",
-   "d": "2026-11-19"
+   "t": "Prednisolone",
+   "u": "/drugs/prednisolone/",
+   "s": "Bilangan pendaftaran: “Senarai di bawah ialah sebahagian daripada 38 pendaftaran.” → “Senarai di bawah ialah…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Levodopa",
-   "u": "/drugs/levodopa/",
-   "s": "Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Daripada 15 pendaftaran, 14…",
-   "d": "2026-11-19"
+   "t": "Omeprazole",
+   "u": "/drugs/omeprazole/",
+   "s": "Bilangan pendaftaran: “Di bawah ialah sebahagian daripada 45 pendaftaran” → “Di bawah ialah sebahagian…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Clotrimazole",
-   "u": "/drugs/clotrimazole/",
-   "s": "Bilangan pendaftaran: 67 pendaftaran; 65 sah, 1 tamat tempoh, 1 tidak lagi tersenarai dalam daftar semasa NPRA",
-   "d": "2026-11-19"
+   "t": "Magnesium Hydroxide",
+   "u": "/drugs/magnesium-hydroxide/",
+   "s": "Bilangan pendaftaran: “Daripada 41 pendaftaran NPRA, hanya 1 ialah produk bahan tunggal.” → “Kebanyakan…",
+   "d": "2026-11-24"
   },
   {
-   "t": "Thiotepa",
-   "u": "/drugs/thiotepa/",
-   "s": "Status jadual: MAL23066003AZ “Status tidak dapat disahkan” → nombor lama, kini MAL23066003ARZ",
-   "d": "2026-11-17"
+   "t": "Ezetimibe",
+   "u": "/drugs/ezetimibe/",
+   "s": "Bilangan pendaftaran: “27 pendaftaran lain ialah produk kombinasi” → “pendaftaran lain ialah produk kombinasi”",
+   "d": "2026-11-24"
   },
   {
-   "t": "Netarsudil",
-   "u": "/drugs/netarsudil/",
-   "s": "Status jadual: MAL25046005ACZ “Status unknown …” → Sah (kini MAL25046005ARZ)",
-   "d": "2026-11-17"
+   "t": "Doxycycline",
+   "u": "/drugs/doxycycline/",
+   "s": "Bilangan pendaftaran: “Banyak daripada 32 pendaftaran ialah” → “Banyak pendaftaran ialah”",
+   "d": "2026-11-24"
   }
  ],
  "files": {

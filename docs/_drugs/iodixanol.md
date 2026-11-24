@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "IODIXANOL"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Iodixanol: indikasi baharu diramal Osteoartritis (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan"
 ---
 
@@ -89,12 +89,16 @@ Tiada satu pun daripada kajian berikut menilai iodixanol sebagai rawatan osteoar
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL20032149ARZ | VISIPAQUE INJECTION 320MG I/ML, 100ML | Tiada maklumat | Tiada maklumat |
-| MAL20032148AZ | VISIPAQUE INJ 320MG I/ML | Tiada maklumat | Tiada maklumat |
-| MAL20032146AZ | VISIPAQUE INJECTION 270MGI/ML | Tiada maklumat | Tiada maklumat |
-| MAL20046122AZ | Cardiolek-320 Iodixanol Injection USP 320mg I/ml | Tiada maklumat | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20032149ARZ | VISIPAQUE INJECTION 320MG I/ML,100ML | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20032148AZ | VISIPAQUE INJ 320MG I/ML | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20032146AZ | VISIPAQUE INJECTION 270MGI/ML | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20046122AZ | Cardiolek -320 Iodixanol Injection USP 320mg I/ml. | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Imatinib: indikasi baharu diramal Heart fibrosarcoma (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 22 (sah: 22)"
 ---
 
@@ -73,13 +73,19 @@ Pada masa ini tiada percubaan klinikal berkaitan didaftarkan untuk fibrosarkoma 
 
 Terdapat 22 lesen sah untuk produk ingredien tunggal. Teks indikasi diluluskan dan bentuk dos tidak tersedia dalam data yang dikumpulkan. Lima lesen utama disenaraikan di bawah.
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL06011679ARZ | Glivec Tablet 100mg | Novartis Corporation (Malaysia) Sdn. Bhd. |
-| MAL06011681ARZ | Glivec Tablet 400mg | Novartis Corporation (Malaysia) Sdn. Bhd. |
-| MAL18026181AZ | Trevive Tablet 100mg | Duopharma Hapi Sdn. Bhd. |
-| MAL18026180AZ | Trevive Tablet 400mg | Duopharma Hapi Sdn. Bhd. |
-| MAL20126013AZ | Accord Imatinib 100 | Accord Healthcare Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06011679ARZ | Glivec Tablet 100mg | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL06011681ARZ | Glivec Tablet 400mg | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL18026181AZ | TREVIVE TABLET 100MG | Bahan tunggal | DUOPHARMA HAPI SDN. BHD. | Sah |
+| MAL18026180AZ | TREVIVE TABLET 400MG | Bahan tunggal | DUOPHARMA HAPI SDN. BHD. | Sah |
+| MAL20126013AZ | ACCORD IMATINIB 100 (Imatinib Tablets 100 mg) | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 22 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Sitotoksisiti
 

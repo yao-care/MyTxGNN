@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 701
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Triazolam: kegunaan sedia ada dan status pasaran di Malaysia; pada masa ini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -72,9 +72,13 @@ Semua calon yang dihasilkan oleh model TxGNN (skor ≥ 0.99) untuk Triazolam, da
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL20041071AZ | INZOLAM 0.25MG TABLET |  | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20041071AZ | INZOLAM 0.25MG TABLET | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

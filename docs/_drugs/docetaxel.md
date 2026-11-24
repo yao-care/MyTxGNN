@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 7
 monitor_inn: "Docetaxel"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Docetaxel: indikasi baharu diramal Sarkoma Ewing (Ewing sarcoma) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 10 (sah: 10)"
 ---
 
@@ -94,13 +94,19 @@ Penilaian tahap bukti L2 bersandar pada sekurang-kurangnya satu kajian yang meng
 
 Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data lesen yang dihimpunkan.
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL12055019AZ | Taxotere 20mg/1ml concentrate for solution for infusion | Sanofi-Aventis (Malaysia) Sdn. Bhd. |
-| MAL12050005AZ | Docetax Injection Concentrate 20 mg | Cipla Malaysia Sdn Bhd |
-| MAL12050006AZ | Docetax Injection Concentrate 80 mg | Cipla Malaysia Sdn Bhd |
-| MAL18026176ACZ | Seacross Docetaxel 20mg/ml Concentrate for Solution for Infusion | Medispec (M) Sdn. Bhd. |
-| MAL18016059AZ | DOXOL Docetaxel 20mg/0.5ml Concentrate for Solution for Infusion | Unimed Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12055019AZ | Taxotere 20mg/1ml concentrate for solution for infusion | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL12050005AZ | Docetax Injection Concentrate 20 mg | Bahan tunggal | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL12050006AZ | Docetax Injection Concentrate 80 mg | Bahan tunggal | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL18026176ACZ | Seacross Docetaxel 20mg/ml Concentrate for Solution for Infusion | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL18016059AZ | DOXOL Docetaxel 20mg/0.5ml Concentrate for Solution for Infusion | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 10 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Terdapat 10 pendaftaran sah kesemuanya (semua ubat satu bahan); lima yang utama disenaraikan di atas.
 

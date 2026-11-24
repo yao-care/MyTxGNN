@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "PEGASPARGASE"
 predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "follicular lymphoma", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pegaspargase: indikasi baharu diramal Leukemia limfositik kronik/limfoma limfositik kecil pra-pusat germinal (tahap bukti L5). Indikasi asal: Leukemia limfoblastik akut (hubungan direkodkan dalam gra…"
 ---
 
@@ -71,9 +71,13 @@ Setakat ini tiada literatur berkaitan yang tersedia untuk indikasi yang diramalk
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL22076006ARZ | Oncaspar 750 U/ml powder for solution for injection/infusion (SERVIER MALAYSIA SDN. BHD.) | – | – |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22076006ARZ | Oncaspar 750 U/ml powder for solution for injection/infusion | Bahan tunggal | SERVIER MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Satu pendaftaran produk tunggal yang sah ditemui. Bentuk dos dan teks indikasi tidak tersedia dalam data yang dikumpulkan.
 

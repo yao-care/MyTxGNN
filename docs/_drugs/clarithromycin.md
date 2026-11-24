@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Clarithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clarithromycin: indikasi baharu diramal Sindrom hiperviskositi poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 29 (sah: 29)"
 ---
 
@@ -68,7 +68,7 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-Terdapat 29 lesen, semuanya sah (28 produk bahan tunggal dan 1 produk kombinasi). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lesen kombinasi tidak digunakan untuk menggambarkan status bahan tunggal.
+Lesen yang direkodkan merangkumi produk bahan tunggal dan produk kombinasi; bilangan dan status semasa terdapat dalam Gambaran Ringkas. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lesen kombinasi tidak digunakan untuk menggambarkan status bahan tunggal.
 
 <!-- review:begin my-lic-20261112-clarithromycin-1 -->
 
@@ -76,13 +76,19 @@ Terdapat 29 lesen, semuanya sah (28 produk bahan tunggal dan 1 produk kombinasi)
 
 <!-- review:end my-lic-20261112-clarithromycin-1 -->
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL20013757AZ | KLACID GRANULES 250MG/5ML PEDIATRIC SUSPENSION | Tidak direkodkan | Tidak direkodkan |
-| MAL04091676AZ | AVEXUS FILM-COATED TABLET 250 MG | Tidak direkodkan | Tidak direkodkan |
-| MAL12010003AZ | Clarithromycin STELLA 500mg Film-Coated Tablet | Tidak direkodkan | Tidak direkodkan |
-| MAL20021383AZ | PHARMANIAGA CLARITHROMYCIN TABLET 250MG | Tidak direkodkan | Tidak direkodkan |
-| MAL20021384AZ | PHARMANIAGA CLARITHROMYCIN TABLET 500MG | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20013757AZ | KLACID GRANULES 250MG/5ML PEDIATRIC SUSPENSION | Bahan tunggal | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+| MAL04091676AZ | AVEXUS FILM-COATED TABLET 250 MG | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+| MAL12010003AZ | Clarithromycin STELLA 500mg Film-Coated Tablet | Bahan tunggal | STADPHARM SDN. BHD. | Sah |
+| MAL20021383AZ | PHARMANIAGA CLARITHROMYCIN TABLET 250MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL20021384AZ | PHARMANIAGA CLARITHROMYCIN TABLET 500MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 29 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -116,7 +122,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “Terdapat 28 lesen, semuanya sah (27 produk bahan tunggal dan” → “Terdapat 29 lesen, semuanya sah (28 produk bahan tunggal dan 1 produk kombinasi)” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-12 | Bilangan pendaftaran: “Terdapat 28 lesen, semuanya sah (27 produk bahan tunggal dan 1 produk ” → “Lesen yang direkodkan merangkumi produk bahan tunggal dan produk kombi” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460) |
 
 <!-- review:end log -->

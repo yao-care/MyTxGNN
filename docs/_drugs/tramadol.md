@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Tramadol"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tramadol: indikasi baharu diramal Acromesomelic dysplasia, Hunter-Thompson type (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 35 (sah: 34)"
 ---
 
@@ -91,13 +91,19 @@ Untuk rujukan, satu-satunya penerbitan dalam data (bagi ramalan artritis idiopat
 
 Teks indikasi diluluskan tidak terdapat dalam data pendaftaran. Hanya ingredien tunggal disenaraikan di bawah (5 contoh utama); produk kombinasi tidak digunakan untuk menggambarkan status kelulusan tramadol tunggal.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19961883AZ | PENGESIC CAPSULE | Tiada data | Tiada data |
-| MAL19962864AZ | ACUGESIC 100MG INJECTION (2ML AMP) | Tiada data | Tiada data |
-| MAL19962866AZ | ACUGESIC 50MG INJECTION (1ML AMP) | Tiada data | Tiada data |
-| MAL06111398AZ | Tracidol Capsule 50mg | Tiada data | Tiada data |
-| MAL22026008AZ | TRAMASURE-100 Tramadol Hydrochloride Injection 50mg/ml | Tiada data | Tiada data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19961883AZ | PENGESIC CAPSULE | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL19962864AZ | ACUGESIC 100MG INJECTION (2ML AMP) | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL19962866AZ | ACUGESIC 50MG INJECTION (1ML AMP) | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL06111398AZ | Tracidol Capsule 50mg | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL22026008AZ | TRAMASURE-100 Tramadol Hydrochloride Injection 50mg/ml | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |
+
+Jadual di atas menyenaraikan 5 daripada 35 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

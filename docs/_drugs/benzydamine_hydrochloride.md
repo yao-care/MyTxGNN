@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB09084
 monitor_inn: "Benzydamine"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Benzydamine Hydrochloride: indikasi baharu diramal Benign prostatic hyperplasia (disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 20 (sah: 20)"
 ---
 
@@ -75,13 +75,19 @@ Pada masa ini tiada literatur berkaitan.
 
 Berdasarkan data yang dikumpulkan, terdapat 20 lesen, dengan 13 produk bahan tunggal dan 7 produk kombinasi; kesemuanya berstatus sah. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Hanya produk bahan tunggal disenaraikan di bawah (sehingga 5 yang utama).
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL22076021ACZ | MediThroat Spray 3.0 mg/ml | Tidak direkodkan | Tidak direkodkan |
-| MAL20172944AEZ | Cifflam Lozenges | Tidak direkodkan | Tidak direkodkan |
-| MAL22096027AZ | Zipelor Forte Benzydamine 0.3% w/v oromucosal spray | Tidak direkodkan | Tidak direkodkan |
-| MAL12115061ACZ | Difflam Solution 0.15% W/V | Tidak direkodkan | Tidak direkodkan |
-| MAL18016029AZ | Easiflam Mouthwash 0.15% w/v | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22076021ACZ | MediThroat Spray 3.0 mg/ml | Bahan tunggal | World Medicare Supplies Sdn Bhd | Sah |
+| MAL20172944AEZ | Cifflam Lozenges | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL22096027AZ | Zipelor Forte Benzydamine 0.3% w/v oromucosal spray | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL12115061ACZ | Difflam Solution 0.15%W/V | Bahan tunggal | iNova Pharmaceuticals (Singapore) Pte Ltd (incorporated In Singapore)… | Sah |
+| MAL18016029AZ | Easiflam Mouthwash 0.15 % w/v | Bahan tunggal | HOVID BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 20 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

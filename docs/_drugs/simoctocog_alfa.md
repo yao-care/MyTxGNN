@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Simoctocog alfa"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "fetal and neonatal alloimmune thrombocytopenia", "thrombotic thrombocytopenic purpura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Simoctocog Alfa: indikasi baharu diramal Penyakit von Willebrand palsu (pseudo-von Willebrand disease) (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan …"
 ---
 
@@ -84,12 +84,16 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL20026053AZ | Nuwiq 250IU Powder for Solution for Injection | Serbuk untuk larutan suntikan | Tiada teks indikasi dalam rekod |
-| MAL20026054AZ | Nuwiq 500IU Powder for Solution for Injection | Serbuk untuk larutan suntikan | Tiada teks indikasi dalam rekod |
-| MAL20026055AZ | Nuwiq 1000IU Powder for Solution for Injection | Serbuk untuk larutan suntikan | Tiada teks indikasi dalam rekod |
-| MAL20026056AZ | Nuwiq 2000IU Powder for Solution for Injection | Serbuk untuk larutan suntikan | Tiada teks indikasi dalam rekod |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20026053AZ | Nuwiq 250IU Powder for Solution for Injection | Bahan tunggal | Pharmaniaga Marketing Sdn Bhd | Sah |
+| MAL20026054AZ | Nuwiq 500IU Powder for Solution for Injection | Bahan tunggal | Pharmaniaga Marketing Sdn Bhd | Sah |
+| MAL20026055AZ | Nuwiq 1000IU Powder for Solution for Injection | Bahan tunggal | Pharmaniaga Marketing Sdn Bhd | Sah |
+| MAL20026056AZ | Nuwiq 2000IU Powder for Solution for Injection | Bahan tunggal | Pharmaniaga Marketing Sdn Bhd | Sah |
+
+<!-- licenses:end -->
 
 Kesemua pendaftaran adalah produk satu bahan aktif, berstatus sah, dan dipasarkan oleh Pharmaniaga Marketing Sdn Bhd.
 

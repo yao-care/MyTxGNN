@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 6
 monitor_inn: "Progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Progesterone: indikasi baharu diramal Penyakit fibrosistik payudara (breast fibrocystic disease) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
 ---
 
@@ -79,13 +79,19 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19971796ACZ | Utrogestan 100 mg soft capsules | Tidak dinyatakan | Tidak dinyatakan |
-| MAL17035024ACZ | ENDOMETRIN 100mg Vaginal Tablet | Tidak dinyatakan | Tidak dinyatakan |
-| MAL20020994ARZ | CRINONE 8% PROGESTERONE VAGINAL GEL | Tidak dinyatakan | Tidak dinyatakan |
-| MAL20033678ACZ | CYCLOGEST 400MG PESSARIES | Tidak dinyatakan | Tidak dinyatakan |
-| MAL24066005ACZ | Prometrium 200 mg Vaginal Soft Capsules | Tidak dinyatakan | Tidak dinyatakan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19971796ACZ | Utrogestan 100 mg soft capsules | Bahan tunggal | EP PLUS GROUP SDN. BHD. | Sah |
+| MAL17035024ACZ | ENDOMETRIN 100mg Vaginal Tablet | Bahan tunggal | Ferring Sdn. Bhd. | Sah |
+| MAL20020994ARZ | CRINONE 8% PROGESTERONE VAGINAL GEL | Bahan tunggal | MERCK SDN. BHD. | Sah |
+| MAL20033678ACZ | CYCLOGEST 400MG PESSARIES | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL24066005ACZ | Prometrium 200 mg Vaginal Soft Capsules (Natural Micronised Progesterone) | Bahan tunggal | EP PLUS GROUP SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Terdapat 15 lesen kesemuanya, dan semuanya sah (14 produk bahan tunggal dan 1 produk gabungan). Teks indikasi diluluskan tidak direkodkan dalam data tempatan.
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 457
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 description: "Levonorgestrel: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 16 (sah: 15)"
@@ -94,7 +94,7 @@ Butiran setiap lesen tidak tersedia dalam data yang dihimpunkan untuk laporan in
 
 <!-- review:begin my-lic-20261105-levonorgestrel-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Berdasarkan data tempatan, status pasaran ialah dipasarkan, dengan 15 lesen sah dan tiada lesen dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dihimpunkan untuk laporan ini." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 16 pendaftaran (sah: 15); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Berdasarkan data tempatan, status pasaran ialah dipasarkan, dengan 15 lesen sah dan tiada lesen dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dihimpunkan untuk laporan ini." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-levonorgestrel-1 -->
 
@@ -129,7 +129,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Berdasarkan data tempatan, status pasaran ialah dipasarkan, dengan 15 lesen sah dan tiada lesen dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Berdasarkan data tempatan, status pasaran ialah dipasarkan, dengan 15 lesen sah dan tiada lesen dibatalkan" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309) |
 
 <!-- review:end log -->

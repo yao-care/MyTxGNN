@@ -8,7 +8,7 @@ indication_count: 2
 drugbank_id: DB11089
 monitor_inn: "Docusate"
 predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Docusate Sodium: indikasi baharu diramal Sindrom Plummer-Vinson (Plummer-Vinson syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -69,9 +69,13 @@ Buat masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19911464X | SOLUWAX EAR DROPS | Tidak dinyatakan | Tidak dicatatkan dalam data tempatan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19911464X | SOLUWAX EAR DROPS | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

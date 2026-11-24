@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "GUAIACOL"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Guaiacol: indikasi baharu diramal Penyakit rongga hidung (tahap bukti L5). Indikasi asal: Faringitis, selesema, rinitis…"
 ---
 
@@ -69,10 +69,14 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL07090910AZ | TOLBIN EXPECTORANT SYRUP | Tidak dinyatakan | Tidak dinyatakan |
-| MAL19930179AZ | ASMALIN EXPECTORANT | Tidak dinyatakan | Tidak dinyatakan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07090910AZ | TOLBIN EXPECTORANT SYRUP | Kombinasi | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL19930179AZ | ASMALIN EXPECTORANT | Kombinasi | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Kedua-dua pendaftaran ialah produk kombinasi yang sah. Lesen kombinasi ini tidak menggambarkan status kelulusan guaiacol sebagai bahan tunggal.
 

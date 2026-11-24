@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "CALCIUM LACTATE"
 predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Calcium Lactate: indikasi baharu diramal Sindrom kalsium-alkali (calcium-alkali syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 36 (sah: 33)"
 ---
 
@@ -78,7 +78,7 @@ Status pasaran: dipasarkan. Senarai lesen terperinci tidak tersedia dalam data y
 
 <!-- review:begin my-lic-20261105-calcium_lactate-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Sebanyak 36 lesen sah dan tiada lesen dibatalkan. Senarai lesen terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 36 pendaftaran (sah: 33); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Sebanyak 36 lesen sah dan tiada lesen dibatalkan. Senarai lesen terperinci tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-calcium_lactate-1 -->
 
@@ -109,7 +109,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Sebanyak 36 lesen sah dan tiada lesen dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Sebanyak 36 lesen sah dan tiada lesen dibatalkan" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

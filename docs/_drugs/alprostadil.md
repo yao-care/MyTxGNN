@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Alprostadil"
 predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alprostadil: indikasi baharu diramal Malformasi aorta (aortic malformation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -80,10 +80,14 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19970629ARZ | CAVERJECT STERILE POWDER INJECTION | Tiada maklumat | Tiada maklumat |
-| MAL19921252AZ | PROSTIN VR PAEDIATRIC 500MCG/ML STERILE SOLUTION | Tiada maklumat | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19970629ARZ | CAVERJECT STERILE POWDER INJECTION | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL19921252AZ | PROSTIN VR PAEDIATRIC 500MCG/ML STERILE SOLUTION | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Kedua-dua kebenaran ialah produk ingredien tunggal yang sah, dikeluarkan oleh Pfizer (Malaysia) Sdn. Bhd.
 

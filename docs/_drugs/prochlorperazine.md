@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Prochlorperazine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prochlorperazine: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (tahap bukti L5). Indikasi asal: Tidak tersedia (teks indikasi dalam rekod pelesenan kosong)"
 ---
 
@@ -81,13 +81,19 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 Terdapat 6 pendaftaran sah untuk produk bahan tunggal. Lima yang utama disenaraikan di bawah.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19970964AZ | LARTIL INJECTION 1ML (12.5 MG/ML) | Tidak dinyatakan | Tidak dinyatakan |
-| MAL19890269ACZ | PROMETIL TABLET 5MG | Tidak dinyatakan | Tidak dinyatakan |
-| MAL19871687AZ | PROCHLOR TABLET 5 | Tidak dinyatakan | Tidak dinyatakan |
-| MAL19861405AZ | PROPERAZINE TABLET 5MG | Tidak dinyatakan | Tidak dinyatakan |
-| MAL19900450AZ | PRIMETIL TABLET 5MG | Tidak dinyatakan | Tidak dinyatakan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19970964AZ | LARTIL INJECTION 1ML (12.5 MG/ML) | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL19890269ACZ | PROMETIL TABLET 5MG | Bahan tunggal | TERAPUTICS SDN BHD | Sah |
+| MAL19871687AZ | PROCHLOR TABLET 5 | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL19861405AZ | PROPERAZINE TABLET 5MG | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19900450AZ | PRIMETIL TABLET 5MG | Bahan tunggal | PRIME PHARMACEUTICAL SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

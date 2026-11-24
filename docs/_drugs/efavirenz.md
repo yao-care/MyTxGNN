@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EFAVIRENZ"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Efavirenz: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 11 (sah: 10)"
 ---
 
@@ -97,13 +97,19 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL16115033AZ | EFAMAT Tablets 200mg | Tablet | Tidak tersedia |
-| MAL20162673AEZ | hovid-Efavirenz Tablet 600mg | Tablet | Tidak tersedia |
-| MAL18016019AZ | Estiva 600 (Efavirenz Tablets 600mg) | Tablet | Tidak tersedia |
-| MAL12095064AZ | Viranz 600 (Efavirenz Tablets USP 600mg) | Tablet | Tidak tersedia |
-| MAL10100163AZ | Efavir-600 mg Tablet | Tablet | Tidak tersedia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16115033AZ | EFAMAT Tablets 200mg | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL20162673AEZ | hovid-Efavirenz Tablet 600mg | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL18016019AZ | Estiva 600 (EFAVIRENZ TABLETS 600mg) | Bahan tunggal | CAMBER LABORATORIES SDN. BHD. | Sah |
+| MAL12095064AZ | Viranz 600 (Efavirenz Tablets USP 600mg) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL10100163AZ | Efavir-600 mg Tablet | Bahan tunggal | CIPLA MALAYSIA SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 11 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Senarai ini hanya memaparkan produk berbahan aktif tunggal. Terdapat juga 5 lesen produk kombinasi yang tidak digunakan untuk menggambarkan status kelulusan efavirenz tunggal. Satu lagi produk tunggal (EFAMAT Tablets 600mg, MAL11030099AZ) juga berdaftar.
 

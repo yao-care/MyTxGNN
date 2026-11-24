@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "Prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prednisolone: indikasi baharu diramal Alopesia areata (tahap bukti L2). Indikasi asal: Penyakit autoimun, penyakit Crohn…"
 ---
 
@@ -82,15 +82,27 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Teks indikasi diluluskan tidak tersedia dalam data pendaftaran yang dihimpun. Senarai di bawah ialah sebahagian daripada 38 pendaftaran.
+Teks indikasi diluluskan tidak tersedia dalam data pendaftaran yang dihimpun. Senarai di bawah ialah sebahagian daripada pendaftaran yang direkodkan.
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL06081197AZ | Predsone Syrup 3mg/5ml | Tiada maklumat | Tiada maklumat |
-| MAL21106027AZ | Axcel Prednisolone-5mg Tablet | Tiada maklumat | Tiada maklumat |
-| MAL19860161AZ | hovid-Prednisolone Tablet 5 mg | Tiada maklumat | Tiada maklumat |
-| MAL19986420AZ | PREDON INJECTION 25MG/ML | Tiada maklumat | Tiada maklumat |
-| MAL19890346ARZ | PRED FORTE STERILE OPHTHALMIC SUSPENSION | Tiada maklumat | Tiada maklumat |
+<!-- review:begin my-lic-20261124-prednisolone-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Senarai di bawah ialah sebahagian daripada 38 pendaftaran." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-23): bilangan yang dinyatakan ialah bilangan lama daripada data semasa laporan ditulis (38 pendaftaran; kini 40 pendaftaran). Bilangan pendaftaran berubah mengikut kemas kini mingguan data NPRA, jadi ayat ini tidak lagi menyatakan angka; bilangan semasa terdapat dalam Gambaran Ringkas dan jadual pendaftaran di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124-prednisolone-1 -->
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06081197AZ | Predsone Syrup 3mg/5ml | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL21106027AZ | Axcel Prednisolone-5mg Tablet | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. | Sah |
+| MAL19860161AZ | hovid-Prednisolone Tablet 5 mg | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL19986420AZ | PREDON INJECTION 25MG/ML | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL19890346ARZ | PRED FORTE STERILE OPHTHALMIC SUSPENSION | Bahan tunggal | ABBVIE SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 40 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Sitotoksisiti
 
@@ -126,11 +138,12 @@ Terdapat RCT terkawal plasebo dan kajian semula sistematik yang terus mengkaji a
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1) |
+| 2026-11-24 | Bilangan pendaftaran: “Senarai di bawah ialah sebahagian daripada 38 pendaftaran.” → “Senarai di bawah ialah sebahagian daripada pendaftaran yang direkodkan” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

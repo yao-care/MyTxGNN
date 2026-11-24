@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Ofloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ofloxacin: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 148 (sah: 143)"
 ---
 
@@ -84,13 +84,19 @@ Buat masa ini tiada literatur yang berkaitan.
 
 Senarai di bawah ialah lima pendaftaran produk berasaskan ofloxacin (berdasarkan nama produk) daripada data yang dikumpulkan. Teks indikasi yang diluluskan tidak tersedia dalam rekod ini. Senarai penuh pendaftaran juga mengandungi produk fluoroquinolone lain dan produk veterinar, jadi jumlah 148 tidak bermaksud semuanya produk ofloxacin untuk manusia.
 
-| Nombor Kelulusan | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL20020027AZ | OFLICIN-100 TABLET | Steriline Sdn. Bhd. |
-| MAL20020256AZ | OFCIN Film Coated Tablet 200mg | Y.S.P. Industries (M) Sdn. Bhd. |
-| MAL20020257AZ | OFCIN Film Coated Tablet 400mg | Y.S.P. Industries (M) Sdn. Bhd. |
-| MAL17107038ACREZ | hovid Ofloxacin Eye Drops 0.3% w/v | Hovid Berhad |
-| MAL20040909ARZ | TARIVID Ophthalmic Solution | Santen Pharma Malaysia Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20020027AZ | OFLICIN-100 TABLET | Bahan tunggal | STERILINE SDN. BHD. | Sah |
+| MAL20020256AZ | OFCIN FILM COATED TABLET 200MG | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL20020257AZ | OFCIN FILM COATED TABLET 400MG | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL17107038ACREZ | hovid Ofloxacin Eye Drops 0.3% w/v | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL20040909ARZ | TARIVID OPHTHALMIC SOLUTION | Bahan tunggal | SANTEN PHARMA MALAYSIA SDN. BHD. | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |
+
+Jadual di atas menyenaraikan 5 daripada 148 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

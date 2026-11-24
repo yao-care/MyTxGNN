@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "vincristine"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Vincristine: indikasi baharu diramal Vertebral anomalies and variable endocrine and T-cell dysfunction (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
@@ -80,11 +80,15 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran di Malaysia
 
-| No. Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL19940256ARZ | DBL® Vincristine Sulfate Injection 2mg/2ml | Pfizer (Malaysia) Sdn. Bhd. |
-| MAL20001224AZ | Vinracine Injection 1mg/1ml | First Pharmaceutical Sdn. Bhd. |
-| MAL20013748AZ | Cytocristin Aqueous (VL of 1ml) | Cipla Malaysia Sdn Bhd |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19940256ARZ | DBL® Vincristine Sulfate Injection 2mg/2ml | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL20001224AZ | VINRACINE INJECTION 1MG/1ML | Bahan tunggal | FIRST PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL20013748AZ | CYTOCRISTIN AQUEOUS (VL OF 1ML) | Bahan tunggal | CIPLA MALAYSIA SDN BHD | Sah |
+
+<!-- licenses:end -->
 
 Ketiga-tiga pendaftaran ialah produk satu bahan aktif dan semuanya sah. Teks indikasi yang diluluskan tidak tersedia, jadi indikasi berlesen di Malaysia tidak dapat disahkan daripada data yang dikumpulkan.
 

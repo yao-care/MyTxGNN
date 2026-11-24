@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Methylprednisolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Methylprednisolone: indikasi baharu diramal Alopesia musinosa (alopecia mucinosa) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 
@@ -70,13 +70,19 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL16095025ACZ | Medixon Powder for Injection 500 mg | - | - |
-| MAL19870514AZ | SOLU-MEDROL STERILE POWDER 1000MG | - | - |
-| MAL19870513AZ | SOLU-MEDROL STERILE POWDER 500MG | - | - |
-| MAL19870511AZ | DEPO-MEDROL Sterile Aqueous Suspension 40mg/mL | - | - |
-| MAL19990587AZ | MEDIXON TABLET | - | - |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16095025ACZ | Medixon Powder for Injection 500 mg | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL19870514AZ | SOLU-MEDROL STERILE POWDER 1000MG | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL19870513AZ | SOLU-MEDROL STERILE POWDER 500MG | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL19870511AZ | DEPO-MEDROL Sterile Aqueous Suspension 40mg/mL | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL19990587AZ | MEDIXON TABLET | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Terdapat 7 kebenaran sah kesemuanya; lima yang utama disenaraikan di atas.
 

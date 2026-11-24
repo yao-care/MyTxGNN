@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ketoprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ketoprofen: indikasi baharu diramal Acromesomelic dysplasia, Hunter-Thompson type (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 15 (sah: 15)"
 ---
 
@@ -73,13 +73,19 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 Jumlah 15 pendaftaran sah (13 bahan tunggal, 2 kombinasi). Teks indikasi yang diluluskan tidak tersedia untuk semua rekod. Lima pendaftaran bahan tunggal disenaraikan di bawah.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL06100567AZ | Ketofen Gel 2.5%w/w | Gel (mengikut nama produk) | Tidak tersedia |
-| MAL20061602AZ | KETESSE 25MG Film Coated Tablet | Tablet bersalut filem | Tidak tersedia |
-| MAL06111321AZ | Kefentech Plaster 30.0 mg | Plaster | Tidak tersedia |
-| MAL20040964AZ | Fastum Gel | Gel | Tidak tersedia |
-| MAL20046125AZ | Ketopro (Ketoprofen Gel BP 2.5% w/w) | Gel | Tidak tersedia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06100567AZ | Ketofen Gel 2.5%w/w | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL20061602AZ | KETESSE 25MG FILM COATED TABLET | Bahan tunggal | A. MENARINI SINGAPORE PTE. LTD. | Sah |
+| MAL06111321AZ | KEFENTECH PLASTER, 30.0 MG | Bahan tunggal | SOMEDICO SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL20040964AZ | FASTUM GEL | Bahan tunggal | A. MENARINI SINGAPORE PTE. LTD. | Sah |
+| MAL20046125AZ | KETOPRO (KETOPROFEN GEL BP 2.5% W/W) | Bahan tunggal | Synercam (M) Sdn Bhd | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

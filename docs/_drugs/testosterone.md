@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 676
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Testosterone: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -86,12 +86,16 @@ Model TxGNN tidak menghasilkan sebarang calon dengan skor 0.99 atau lebih tinggi
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL06100555AZ | Androgel 50mg, gel of testosterone 1% |  | Sah |
-| MAL06100554ACZ | Androgel 25mg, gel of testosterone 1% |  | Dibatalkan Pendaftaran |
-| MAL20061572ACRZ | NEBIDO 1000MG SOLUTION FOR INJECTION |  | Sah |
-| MAL24046012AZ | Androgel 16.2mg/g, gel (testosterone) |  | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06100555AZ | Androgel 50mg, gel of testosterone 1% | Bahan tunggal | BREGO LIFE SCIENCES SDN. BHD | Sah |
+| MAL06100554ACZ | Androgel 25mg, gel of testosterone 1% | Bahan tunggal | BREGO LIFE SCIENCES SDN. BHD | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL20061572ACRZ | NEBIDO 1000MG SOLUTION FOR INJECTION | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL24046012AZ | Androgel 16.2mg/g, gel (testosterone) | Bahan tunggal | BREGO LIFE SCIENCES SDN. BHD | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

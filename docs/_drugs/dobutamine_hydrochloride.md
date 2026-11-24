@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB00841
 monitor_inn: "Dobutamine"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "Raynaud disease", "primary hereditary glaucoma", "headache disorder", "hypertrichosis (disease)", "migraine disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dobutamine Hydrochloride: indikasi baharu diramal Alopesia (alopecia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
@@ -75,12 +75,16 @@ Penerbitan ini tidak menilai dobutamine untuk alopesia, jadi ia tidak menyokong 
 
 Terdapat 4 pendaftaran produk tunggal dobutamine yang sah.
 
-| Nombor Kebenaran | Nama Produk | Pengilang | Status |
-|---------|------|------|------|
-| MAL21106020AZ | Pharmaniaga Dobutamine 12.5mg/mL Concentrate for Solution for Infusion | Pharmaniaga Lifescience Sdn. Bhd. | Sah |
-| MAL22086016AZ | INOTROP (Dobutamine HCl 25mg/ml Concentrate for Solution for Infusion) | Medispec (M) Sdn. Bhd. | Sah |
-| MAL24076014AZ | DOBUTEL Concentrate for Solution for Infusion 50mg/ml | Averroes Pharmaceuticals Sdn. Bhd. | Sah |
-| MAL20013115AZ | MOBITIL INJECTION 20ML VL | Duopharma (M) Sendirian Berhad | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21106020AZ | Pharmaniaga Dobutamine 12.5mg/mL Concentrate for Solution for Infusion | Bahan tunggal | PHARMANIAGA LIFESCIENCE SDN. BHD. | Sah |
+| MAL22086016AZ | INOTROP (Dobutamine HCl 25mg/ml Concentrate for Solution for Infusion) | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL24076014AZ | DOBUTEL Concentrate for Solution for Infusion 50mg/ml | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL20013115AZ | MOBITIL INJECTION 20ML VL | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

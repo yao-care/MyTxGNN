@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Procaine benzylpenicillin"
 predicted_indications: ["bacterial arthritis", "middle ear disease", "otosalpingitis", "middle ear cholesterol granuloma", "epiglottitis", "urinary tract infection (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Procaine Benzylpenicillin: indikasi baharu diramal Artritis bakteria (bacterial arthritis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
@@ -92,11 +92,15 @@ Tiada literatur yang mengkaji artritis bakteria secara langsung. Satu-satunya ru
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL14070106HA | Norocillin 30% w/v Suspension for Injection (bahan tunggal) | Tidak dinyatakan | Tidak dinyatakan |
-| MAL22026023HA | Penstrep-400 Suspension for Injection (kombinasi) | Tidak dinyatakan | Tidak dinyatakan |
-| MAL08061566AZ | PROPEN INJECTION 4MU (kombinasi) | Tidak dinyatakan | Tidak dinyatakan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL14070106HA | Norocillin 30% w/v Suspension for Injection | Bahan tunggal | Borneosew Medical Trading (M) Sdn Bhd | Sah |
+| MAL22026023HA | Penstrep-400 Suspension for Injection | Kombinasi | Danberg (m) Sdn Bhd | Sah |
+| MAL08061566AZ | PROPEN INJECTION 4MU | Kombinasi | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Ketiga-tiga lesen berstatus sah. Lesen produk kombinasi tidak boleh digunakan untuk menggambarkan kelulusan bahan tunggal ini.
 

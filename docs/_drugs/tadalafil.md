@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tadalafil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tadalafil: indikasi baharu diramal Ambras type hypertrichosis universalis congenita (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 29 (sah: 27)"
 ---
 
@@ -91,7 +91,7 @@ Untuk rujukan, satu-satunya penerbitan dalam senarai ramalan ialah bagi calon ke
 
 ## Maklumat Pasaran Malaysia
 
-Terdapat 27 pendaftaran sah: 25 produk bahan tunggal dan 2 produk kombinasi. Teks indikasi yang diluluskan tidak tersedia dalam data pendaftaran. Antara pendaftaran utama:
+Pendaftaran yang sah merangkumi produk bahan tunggal dan produk kombinasi (bilangan semasa dalam Gambaran Ringkas). Teks indikasi yang diluluskan tidak tersedia dalam data pendaftaran. Antara pendaftaran utama:
 
 <!-- review:begin my-lic-20261112-tadalafil-1 -->
 
@@ -99,13 +99,19 @@ Terdapat 27 pendaftaran sah: 25 produk bahan tunggal dan 2 produk kombinasi. Tek
 
 <!-- review:end my-lic-20261112-tadalafil-1 -->
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL20034166ARZ | CIALIS 20MG Film-Coated Tablet | Tidak dinyatakan | Tidak dinyatakan |
-| MAL14125149ARZ | Cialis 5mg Film-Coated Tablets | Tidak dinyatakan | Tidak dinyatakan |
-| MAL20172854ACREZ | Eretaf-20 Tablet (Hovid) | Tidak dinyatakan | Tidak dinyatakan |
-| MAL23096011ACZ | LEBIVA ODS-20 Orally Disintegrating Strips 20 mg | Tidak dinyatakan | Tidak dinyatakan |
-| MAL21036002AZ | CALIBERI Orodispersible Film 20MG | Tidak dinyatakan | Tidak dinyatakan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20034166ARZ | CIALIS 20MG FILM-COATED TABLET | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Nombor pendaftaran lama; produk yang sama kini didaftarkan sebagai MAL20034166ACZ |
+| MAL14125149ARZ | Cialis 5mg Film-Coated Tablets | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Nombor pendaftaran lama; produk yang sama kini didaftarkan sebagai MAL14125149ACZ |
+| MAL20172854ACREZ | Eretaf-20 Tablet | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL23096011ACZ | LEBIVA ODS-20 Tadalafil Orally Disintegrating Strips 20 mg | Bahan tunggal | MEGA LIFESCIENCES SDN. BHD. | Sah |
+| MAL21036002AZ | CALIBERI ORODISPERSIBLE FILM 20MG | Bahan tunggal | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 29 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -141,7 +147,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “Terdapat 23 pendaftaran sah, semuanya produk bahan tunggal.” → “Terdapat 27 pendaftaran sah: 25 produk bahan tunggal dan 2 produk kombinasi.” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-12 | Bilangan pendaftaran: “Terdapat 23 pendaftaran sah, semuanya produk bahan tunggal.” → “Pendaftaran yang sah merangkumi produk bahan tunggal dan produk kombin” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ramipril"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ramipril: indikasi baharu diramal Pulmonary hypertension owing to lung disease and/or hypoxia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 8 (sah: 8)"
 ---
 
@@ -84,13 +84,19 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL17055006AZ | ANGIRAM 10 (Ramipril Tablets 10 mg) | – | – |
-| MAL17055005AZ | ANGIRAM 5 (Ramipril Tablets 5 mg) | – | – |
-| MAL20031929AZ | TRITACE 10MG TABLET | – | – |
-| MAL19986948AZ | TRITACE 5MG TABLET | – | – |
-| MAL19986949AZ | TRITACE 2.5MG TABLET | – | – |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL17055006AZ | ANGIRAM 10 (Ramipril Tablets 10 mg) | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL17055005AZ | ANGIRAM 5 (Ramipril Tablets 5 mg) | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL20031929AZ | TRITACE 10MG TABLET | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL19986948AZ | TRITACE 5MG TABLET | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL19986949AZ | TRITACE 2.5MG TABLET | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Jumlah pendaftaran ialah 8 (semuanya produk tunggal dan sah). Hanya 5 yang disenaraikan di sini; tiga lagi ialah ANGIRAM 2.5, Ramtace Tablet 5mg dan Ramtace Tablet 10mg. Teks indikasi dan bentuk dos tidak terdapat dalam data pendaftaran yang dikumpulkan.
 

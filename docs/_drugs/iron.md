@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Iron"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Iron: indikasi baharu diramal Vitamin B12- and folate-independent constitutional megaloblastic anemia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 80 (sah: 79)"
 ---
 
@@ -79,27 +79,33 @@ Setakat ini tiada literatur berkaitan yang tersedia untuk indikasi yang diramalk
 
 ## Maklumat Pasaran di Malaysia
 
-Status pasaran: dipasarkan. Sebanyak 80 lesen direkodkan, 79 daripadanya sah dan 1 telah tamat tempoh (30 produk bahan tunggal dan 50 produk gabungan). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Senarai lima lesen bahan tunggal utama:
+Status pasaran: dipasarkan. Lesen yang direkodkan merangkumi produk bahan tunggal dan produk gabungan; ada yang telah tamat tempoh (bilangan dan status semasa terdapat dalam Gambaran Ringkas). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Senarai lima lesen bahan tunggal utama:
 
 <!-- review:begin my-lic-20261105-iron-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Tiada lesen dibatalkan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 80 pendaftaran (sah: 79); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Tiada lesen dibatalkan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-iron-1 -->
 
 <!-- review:begin my-lic-20261112-iron-1 -->
 
-> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Sebanyak 80 lesen direkodkan, kesemuanya sah (30" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 80 pendaftaran, 79 sah, 1 tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Sebanyak 80 lesen direkodkan, kesemuanya sah (30 produk bahan tunggal dan 50 produk gabungan)" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 80 pendaftaran, 79 sah, 1 tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261112-iron-1 -->
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL21036012XC | HAEMO XL SYRUP (Iron (III) Hydroxide Polymaltose Complex) | Tiada data | Tiada data |
-| MAL10100040XC | EUROFER-iron syrup | Tiada data | Tiada data |
-| MAL17085002AZ | REFERIS Iron Sucrose Injection USP 100mg/5ml | Tiada data | Tiada data |
-| MAL19911912XZ | MALTOFER Chewable Tablet | Tiada data | Tiada data |
-| MAL21056003ACZ | Ferinject 50 mg iron/mL | Tiada data | Tiada data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21036012XC | HAEMO XL SYRUP (IRON (III) HYDROXIDE POLYMALTOSE COMPLEX) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL10100040XC | EUROFER-iron syrup | Bahan tunggal | EURODRUG LABORATORIES (M) SDN. BHD. | Sah |
+| MAL17085002AZ | REFERIS IRON SUCROSE INJECTION USP 100MG/5ML | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL19911912XZ | MALTOFER CHEWABLE TABLET | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL21056003ACZ | Ferinject 50 mg iron/mL solution for injection/infusion | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 80 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 
@@ -133,8 +139,8 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Tiada lesen dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
-| 2026-11-12 | Bilangan pendaftaran: “Sebanyak 80 lesen direkodkan, kesemuanya sah (30” → “Sebanyak 80 lesen direkodkan, 79 daripadanya sah dan 1 telah tamat tempoh (30” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Tiada lesen dibatalkan" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-12 | Bilangan pendaftaran: “Sebanyak 80 lesen direkodkan, kesemuanya sah (30 produk bahan tunggal ” → “Lesen yang direkodkan merangkumi produk bahan tunggal dan produk gabun” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

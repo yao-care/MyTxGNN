@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Telmisartan"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Telmisartan: indikasi baharu diramal Angina Prinzmetal (tahap bukti L5). Indikasi asal: Hipertensi dan penyakit serebrovaskular/strok"
 ---
 
@@ -78,15 +78,33 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Berikut ialah 5 daripada 59 pendaftaran produk telmisartan tunggal untuk manusia. Teks indikasi yang diluluskan tidak terdapat dalam data yang dikumpulkan. Daripada 59 pendaftaran, 32 ialah produk tunggal (termasuk satu produk veterinar untuk kucing) dan 27 ialah produk kombinasi.
+Berikut ialah 5 pendaftaran produk telmisartan tunggal untuk manusia. Teks indikasi yang diluluskan tidak terdapat dalam data yang dikumpulkan. Pendaftaran ini merangkumi produk tunggal (termasuk satu produk veterinar untuk kucing, Semintra MAL20076059HAR) dan produk kombinasi (bilangan semasa dalam Gambaran Ringkas).
 
-| No. Pendaftaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL19992673AZ | MICARDIS TABLET 40MG | Boehringer Ingelheim (Malaysia) Sdn. Bhd. |
-| MAL19992674AZ | MICARDIS TABLET 80MG | Boehringer Ingelheim (Malaysia) Sdn. Bhd. |
-| MAL21106018AZ | TELMIDIP 40 mg Tablets | Genpharma Sdn. Bhd. |
-| MAL13015032AZ | Teleact Tablets 80 mg | Ranbaxy (Malaysia) Sdn. Bhd. |
-| MAL18056178AZ | TELDAY TABLETS 80 MG | Laboratories Torrent (Malaysia) Sdn. Bhd. |
+<!-- review:begin my-lic-20261124-telmisartan-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Berikut ialah 5 daripada 59 pendaftaran produk telmisartan tunggal untuk manusia." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-23): bilangan yang dinyatakan ialah bilangan lama daripada data semasa laporan ditulis (59 pendaftaran; kini 62 pendaftaran). Bilangan pendaftaran berubah mengikut kemas kini mingguan data NPRA, jadi ayat ini tidak lagi menyatakan angka; bilangan semasa terdapat dalam Gambaran Ringkas dan jadual pendaftaran di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124-telmisartan-1 -->
+
+<!-- review:begin my-lic-20261124-telmisartan-2 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Daripada 59 pendaftaran, 32 ialah produk tunggal (termasuk satu produk veterinar untuk kucing) dan 27 ialah produk kombinasi." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-23): bilangan yang dinyatakan ialah bilangan lama daripada data semasa laporan ditulis (59 pendaftaran, 32 produk tunggal; kini 62 pendaftaran, 35 produk tunggal). Bilangan pendaftaran berubah mengikut kemas kini mingguan data NPRA, jadi ayat ini tidak lagi menyatakan angka; bilangan semasa terdapat dalam Gambaran Ringkas dan jadual pendaftaran di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124-telmisartan-2 -->
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19992673AZ | MICARDIS TABLET 40MG | Bahan tunggal | BOEHRINGER INGELHEIM (MALAYSIA) SDN. BHD. | Sah |
+| MAL19992674AZ | MICARDIS TABLET 80MG | Bahan tunggal | BOEHRINGER INGELHEIM (MALAYSIA) SDN. BHD. | Sah |
+| MAL21106018AZ | TELMIDIP 40 mg Tablets | Bahan tunggal | GENPHARMA SDN. BHD | Sah |
+| MAL13015032AZ | Teleact Tablets 80 mg | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL18056178AZ | TELDAY TABLETS 80 MG | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 62 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 
@@ -134,11 +152,13 @@ Untuk pendarahan intraserebral, kesan tidak boleh dikaitkan dengan telmisartan s
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10) |
+| 2026-11-24 | Bilangan pendaftaran: “Berikut ialah 5 daripada 59 pendaftaran produk telmisartan tunggal unt” → “Berikut ialah 5 pendaftaran produk telmisartan tunggal untuk manusia.” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-24 | Bilangan pendaftaran: “Daripada 59 pendaftaran, 32 ialah produk tunggal (termasuk satu produk” → “Pendaftaran ini merangkumi produk tunggal (termasuk satu produk veteri” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

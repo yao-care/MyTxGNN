@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Albendazole"
 predicted_indications: ["coenurosis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Albendazole: indikasi baharu diramal Coenurosis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 30 (sah: 29)"
 ---
 
@@ -99,17 +99,23 @@ Teks indikasi yang diluluskan tidak tersedia pada rekod lesen. Jadual ini menyen
 
 <!-- review:begin my-lic-20261105-albendazole-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Kesemua 29 pendaftaran berstatus sah dan mengandungi bahan tunggal." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 30 pendaftaran (sah: 29); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Kesemua 29 pendaftaran berstatus sah dan mengandungi bahan tunggal." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-albendazole-1 -->
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL19984364XZ | Thelban Tablet | Medispec (M) Sdn. Bhd. |
-| MAL19046014XCR | Zentel Tablet 200mg | Haleon Malaysia Sdn. Bhd. |
-| MAL19920071XRZ | Zentel Suspension 400mg/10ml | Haleon Malaysia Sdn. Bhd. |
-| MAL19970667XZ | Zoben Tablet 200mg | Pharmaniaga Manufacturing Berhad |
-| MAL09020980XZ | Denzol 200mg Film Coated Tablets | Averroes Pharmaceuticals Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19984364XZ | THELBAN TABLET | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL19046014XCR | Zentel Tablet 200mg | Bahan tunggal | Haleon Malaysia Sdn. Bhd. | Dibatalkan Pendaftaran |
+| MAL19920071XRZ | ZENTEL SUSPENSION 400MG/10ML | Bahan tunggal | Haleon Malaysia Sdn. Bhd. | Sah |
+| MAL19970667XZ | ZOBEN TABLET 200MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL09020980XZ | DENZOL 200mg Film Coated Tablets | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 30 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 
@@ -144,7 +150,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Kesemua 29 pendaftaran berstatus sah dan mengandungi bahan tunggal" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Kesemua 29 pendaftaran berstatus sah dan mengandungi bahan tunggal" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

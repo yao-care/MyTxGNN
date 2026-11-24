@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Risankizumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Risankizumab: indikasi baharu diramal Dermatitis (tahap bukti L2). Indikasi asal: Tidak dinyatakan dalam teks lesen tempatan"
 ---
 
@@ -94,12 +94,16 @@ Laporan siri kes tentang penggunaan bersama dupilumab dan risankizumab dalam der
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kelulusan | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL22086006ACRZ | Skyrizi solution for injection in pre-filled pen 150MG/ML | AbbVie Sdn Bhd |
-| MAL22086005ACRZ | Skyrizi solution for injection in pre-filled syringe 150MG/ML | AbbVie Sdn Bhd |
-| MAL25016004ACRZ | Skyrizi Solution for Injection in Pre-filled Cartridge with On-body Injector 360mg/2.4mL | AbbVie Sdn Bhd |
-| MAL25016005ACRZ | Skyrizi Concentrate for Solution for Infusion 600mg/10mL | AbbVie Sdn Bhd |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22086006ACRZ | Skyrizi solution for injection in pre-filled pen 150MG/ML | Bahan tunggal | ABBVIE SDN BHD | Sah |
+| MAL22086005ACRZ | Skyrizi solution for injection in pre-filled syringe 150MG/ML | Bahan tunggal | ABBVIE SDN BHD | Sah |
+| MAL25016004ACRZ | Skyrizi Solution for Injection in Pre-filled Cartridge with On-body Injector 360mg/2.4mL | Bahan tunggal | ABBVIE SDN BHD | Sah |
+| MAL25016005ACRZ | Skyrizi Concentrate for Solution for Infusion 600mg/10mL | Bahan tunggal | ABBVIE SDN BHD | Sah |
+
+<!-- licenses:end -->
 
 Keempat-empat pendaftaran ialah produk bahan tunggal yang sah. Teks indikasi yang diluluskan tidak tersedia dalam rekod yang dikumpulkan.
 

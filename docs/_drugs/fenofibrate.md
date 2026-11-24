@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Fenofibrate"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fenofibrate: indikasi baharu diramal Kekurangan protein pemindahan ester kolesterol (CETP deficiency) (tahap bukti L5). Indikasi asal: Hipertrigliseridemia dan hiperlipidemia (hubungan yang direkodka…"
 ---
 
@@ -87,13 +87,19 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Berikut ialah produk tunggal (kandungan fenofibrate sahaja); sehingga 5 yang utama disenaraikan.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL11045012AZ | FENO-TG 160mg tablet | Tablet | Tiada maklumat |
-| MAL20040802AZ | LIPOTHIN 200MG CAPSULE | Kapsul | Tiada maklumat |
-| MAL20040826AZ | FENOLIP-M CAPSULE 200MG | Kapsul | Tiada maklumat |
-| MAL07124602ACZ | Fenosup Lidose 160 mg Capsule | Kapsul | Tiada maklumat |
-| MAL10053648AZ | Lipanthyl Penta 145, film coated tablet | Tablet bersalut filem | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11045012AZ | FENO-TG 160mg tablet | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL20040802AZ | LIPOTHIN 200MG CAPSULE | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL20040826AZ | FENOLIP-M CAPSULE 200MG | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL07124602ACZ | Fenosup Lidose 160 mg Capsule | Bahan tunggal | HYPHENS PHARMA SDN. BHD. | Sah |
+| MAL10053648AZ | Lipanthyl Penta 145, film coated tablet | Bahan tunggal | ABBOTT LABORATORIES (M) SDN. BHD. | Sah (kini disenaraikan sebagai MAL10053648ARZ) |
+
+Jadual di atas menyenaraikan 5 daripada 14 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Jumlah pendaftaran ialah 14 (11 produk tunggal dan 3 produk gabungan); senarai penuh tidak diulang di sini.
 

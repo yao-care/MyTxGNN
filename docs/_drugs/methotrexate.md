@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Methotrexate: indikasi baharu diramal Pulmonary blastoma (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 
@@ -84,13 +84,19 @@ Setakat ini tiada literatur berkaitan tersedia untuk blastoma pulmonari.
 
 Terdapat 7 pendaftaran produk methotrexate satu bahan yang sah di Malaysia. Lima yang utama disenaraikan di bawah. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data pendaftaran yang dikumpulkan.
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL20014315ARZ | Zexate Solution for Injection or Infusion 25 mg/ml | Fresenius Kabi Malaysia Sdn. Bhd. |
-| MAL22046019AZ | TREXOL - Methotrexate Solution for Injection 100 mg/ml | Unimed Sdn. Bhd. |
-| MAL22046018AZ | TREXOL - Methotrexate Solution for Injection 25 mg/ml | Unimed Sdn. Bhd. |
-| MAL24016008AZ | Trexan 2.5mg tablets | Orion Pharma (MY) Sdn. Bhd. |
-| MAL19940257ARZ | DBL Methotrexate Injection BP 1g/10ml | Pfizer (Malaysia) Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20014315ARZ | Zexate Solution for Injection or Infusion 25 mg/ml | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL22046019AZ | TREXOL - Methotrexate Solution for Injection 100 mg/ml | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL22046018AZ | TREXOL - Methotrexate Solution for Injection 25 mg/ml | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL24016008AZ | Trexan 2.5mg tablets | Bahan tunggal | ORION PHARMA (MY) SDN. BHD. | Sah |
+| MAL19940257ARZ | DBL® Methotrexate Injection BP 1g/10ml | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

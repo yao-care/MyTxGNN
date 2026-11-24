@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Naproxen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Naproxen: indikasi baharu diramal brachydactyly-syndactyly syndrome (tahap bukti L5). Indikasi asal: Bursitis, artritis reumatoid, spondilitis ankilosis, tendinitis, gout…"
 ---
 
@@ -91,13 +91,19 @@ Buat masa ini tiada literatur berkaitan yang tersedia.
 
 Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data yang dikumpulkan. Senarai di bawah menunjukkan sebahagian daripada 17 pendaftaran (semuanya sah).
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL06071077AZ | Sonap Forte Caplet 550mg | Tidak tersedia | Tidak tersedia |
-| MAL19961702AZ | SUNPROX 275MG TABLET | Tablet | Tidak tersedia |
-| MAL20020260AZ | SAFROSYN S TABLET 550MG | Tablet | Tidak tersedia |
-| MAL20020896ACZ | SYNFLEX TABLETS 275MG | Tablet | Tidak tersedia |
-| MAL19988494AZ | SELADIN TABLET 500MG | Tablet | Tidak tersedia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06071077AZ | Sonap Forte Caplet 550mg | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL19961702AZ | SUNPROX 275MG TABLET | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL20020260AZ | SAFROSYN S TABLET 550MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL20020896ACZ | SYNFLEX TABLETS 275MG | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL19988494AZ | SELADIN TABLET 500MG | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 17 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Nota: Satu pendaftaran ialah produk gabungan (VIMOVO 500MG/20MG, naproxen bersama esomeprazol); ia tidak boleh digunakan untuk menggambarkan status kelulusan naproxen tunggal.
 

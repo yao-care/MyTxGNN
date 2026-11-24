@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Sodium Citrate"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "stomach disease", "postgastrectomy syndrome", "gastroduodenitis", "familial visceral myopathy", "rosacea conjunctivitis", "allergic urticaria"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Sodium Citrate: indikasi baharu diramal Papillary conjunctivitis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 37 (sah: 37)"
 ---
 
@@ -96,15 +96,27 @@ Buat masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-Data yang dikumpulkan tidak mengandungi teks indikasi yang diluluskan atau bentuk dosej untuk mana-mana pendaftaran. Senarai ini ialah sebahagian daripada 36 pendaftaran yang sah; kebanyakannya produk kombinasi dan tidak boleh digunakan untuk menggambarkan kelulusan bahan tunggal.
+Data yang dikumpulkan tidak mengandungi teks indikasi yang diluluskan atau bentuk dosej untuk mana-mana pendaftaran. Senarai ini ialah sebahagian daripada pendaftaran yang sah; kebanyakannya produk kombinasi dan tidak boleh digunakan untuk menggambarkan kelulusan bahan tunggal.
 
-| Nombor Kebenaran | Nama Produk | Jenis | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19920395XZ | FERROCYTE TABLET 50MG | Bahan tunggal | Tiada teks indikasi tersedia |
-| MAL20026079X | Urobase Sachet 4g for Oral Solution | Bahan tunggal | Tiada teks indikasi tersedia |
-| MAL17015017X | Urilyte Syrup | Kombinasi | Tiada teks indikasi tersedia |
-| MAL19920360XZ | ORS PLUS | Kombinasi | Tiada teks indikasi tersedia |
-| MAL05072037XCR | Ural Effervescent Granules | Kombinasi | Tiada teks indikasi tersedia |
+<!-- review:begin my-lic-20261124-sodium_citrate-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "sebahagian daripada 36 pendaftaran yang sah" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-23): bilangan yang dinyatakan ialah bilangan lama daripada data semasa laporan ditulis (36 pendaftaran sah; kini 37 sah). Bilangan pendaftaran berubah mengikut kemas kini mingguan data NPRA, jadi ayat ini tidak lagi menyatakan angka; bilangan semasa terdapat dalam Gambaran Ringkas dan jadual pendaftaran di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124-sodium_citrate-1 -->
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19920395XZ | FERROCYTE TABLET 50MG | Bahan tunggal | EISAI (MALAYSIA) SDN. BHD. | Sah |
+| MAL20026079X | Urobase Sachet 4g for Oral Solution | Bahan tunggal | AV MANUFACTURING SDN.BHD | Sah |
+| MAL17015017X | Urilyte Syrup | Kombinasi | WINWA MEDICAL SDN. BHD. | Sah |
+| MAL19920360XZ | ORS PLUS | Kombinasi | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL05072037XCR | Ural Effervescent Granules | Kombinasi | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 37 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 
@@ -133,6 +145,19 @@ Tiada percubaan klinikal dan tiada kajian yang secara langsung menilai "penyakit
 - Teks indikasi diluluskan bagi produk bahan tunggal tempatan
 - Percubaan klinikal atau kajian pemerhatian yang menyasarkan secara spesifik penyakit perut (atau subjenis yang jelas seperti gastroduodenitis)
 - Penjelasan sama ada ramalan ini benar-benar baharu berbanding indikasi sedia ada
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Bilangan pendaftaran: “sebahagian daripada 36 pendaftaran yang sah” → “sebahagian daripada pendaftaran yang sah” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 39
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -87,9 +87,13 @@ Pada masa ini tiada kesusasteraan berkaitan tersedia — tiada indikasi yang dir
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|------------------|------------|-----------|-------------------|
-| (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL15125074AZ | LEMTRADA Concentrate for Solution for Infusion 12 mg | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 > **Nota:** Pertanyaan NPRA (Query Log ID 1, dilaksanakan 2026-03-27) mengesahkan 1 lesen aktif dan `market_status: Marketed` (Dipasarkan). Bagaimanapun, semua medan butiran lesen — nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan — adalah kosong dalam Evidence Pack semasa. Butiran lesen lengkap harus diambil terus daripada pangkalan data pendaftaran produk NPRA.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ibuprofen: indikasi baharu diramal displasia akromesomelik, jenis Hunter-Thompson (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan. Hubun…"
 ---
 
@@ -81,13 +81,19 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 Teks indikasi yang diluluskan tidak tersedia dalam data pendaftaran. Senarai di bawah menunjukkan 5 daripada 44 pendaftaran (produk bahan tunggal sahaja).
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19963163AZ | NUROFEN FOR CHILDREN | – | – |
-| MAL20013750AZ | SPEDIFEN 400MG GRANULES | – | – |
-| MAL07010961AZ | Nufen Suspension 100mg/5ml | – | – |
-| MAL22126007AZ | Ibuprofen B.Braun 4mg/ml Solution for Infusion | – | – |
-| MAL25076014AZ | Ibrugan 50mg/g gel | – | – |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19963163AZ | NUROFEN FOR CHILDREN | Bahan tunggal | RB (HEALTH) MALAYSIA SDN BHD | Sah |
+| MAL20013750AZ | SPEDIFEN 400MG GRANULES | Bahan tunggal | EP PLUS GROUP SDN. BHD. | Sah |
+| MAL07010961AZ | Nufen Suspension 100mg/5ml | Bahan tunggal | STERILINE SDN. BHD. | Sah |
+| MAL22126007AZ | Ibuprofen B.Braun 4mg/ml Solution for Infusion | Bahan tunggal | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL25076014AZ | Ibrugan 50mg/g gel | Bahan tunggal | ARMS PHARMA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 44 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

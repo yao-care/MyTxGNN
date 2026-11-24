@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Budesonide"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Budesonide: indikasi baharu diramal Ekzema atopik (atopic eczema) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 35 (sah: 35)"
 ---
 
@@ -82,7 +82,7 @@ Literatur berikut paling hampir dengan topik, tetapi tiada satu pun yang menunju
 
 ## Maklumat Pasaran di Malaysia
 
-Terdapat 35 lesen, semuanya sah (25 produk bahan tunggal dan 10 produk kombinasi). Jadual berikut menyenaraikan lima lesen bahan tunggal sahaja. Teks indikasi yang diluluskan dan bentuk dos tidak direkodkan dalam data tempatan.
+Lesen yang direkodkan merangkumi produk bahan tunggal dan produk kombinasi; bilangan dan status semasa terdapat dalam Gambaran Ringkas. Jadual berikut menyenaraikan lima lesen bahan tunggal sahaja. Teks indikasi yang diluluskan dan bentuk dos tidak direkodkan dalam data tempatan.
 
 <!-- review:begin my-lic-20261112-budesonide-1 -->
 
@@ -90,13 +90,19 @@ Terdapat 35 lesen, semuanya sah (25 produk bahan tunggal dan 10 produk kombinasi
 
 <!-- review:end my-lic-20261112-budesonide-1 -->
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL16065020AZ | Besonin Aqua Nasal Spray 64mcg/dose | Tidak direkodkan | Tidak direkodkan |
-| MAL11100013ACZ | Ventacort Nasal Spray 64 mcg/actuation | Tidak direkodkan | Tidak direkodkan |
-| MAL07081527AZ | Budesma Pressurised Inhalation BP 200mcg | Tidak direkodkan | Tidak direkodkan |
-| MAL18066050ACZ | CORTIMENT PROLONGED RELEASE TABLETS 9MG | Tidak direkodkan | Tidak direkodkan |
-| MAL19940088ARZ | Pulmicort Respules 0.5mg/ml | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16065020AZ | Besonin Aqua Nasal Spray 64mcg/dose | Bahan tunggal | RIGEL PHARMA SDN. BHD. | Sah |
+| MAL11100013ACZ | Ventacort Nasal Spray 64 mcg/actuation | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL07081527AZ | Budesma Pressurised Inhalation BP 200mcg | Bahan tunggal | BioCare Pharmaceutical (M) Sdn. Bhd. | Sah |
+| MAL18066050ACZ | CORTIMENT PROLONGED RELEASE TABLETS 9MG | Bahan tunggal | Ferring Sdn. Bhd. | Sah |
+| MAL19940088ARZ | Pulmicort Respules 0.5mg/ml | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 35 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -127,7 +133,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “Terdapat 34 lesen, semuanya sah (25 produk bahan tunggal dan” → “Terdapat 35 lesen, semuanya sah (25 produk bahan tunggal dan 10 produk kombinasi” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-12 | Bilangan pendaftaran: “Terdapat 34 lesen, semuanya sah (25 produk bahan tunggal dan 9 produk ” → “Lesen yang direkodkan merangkumi produk bahan tunggal dan produk kombi” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da) |
 
 <!-- review:end log -->

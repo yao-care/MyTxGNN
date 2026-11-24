@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "Potassium Chloride"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Potassium Chloride: indikasi baharu diramal Renal tubular acidosis (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 115 (sah: 115)"
 ---
 
@@ -95,13 +95,19 @@ Tiada ujian terkawal rawak dalam senarai ini. Penerbitan yang ada kebanyakannya 
 
 Data yang dikumpul menunjukkan 115 pendaftaran, iaitu 24 produk bahan tunggal dan 91 produk kombinasi. Semuanya berstatus sah dan tiada yang dibatalkan. Teks indikasi lulus bagi setiap pendaftaran tiada dalam data, jadi indikasi yang diluluskan tidak dapat dinyatakan. Di bawah ialah lima produk kalium klorida bahan tunggal.
 
-| Nombor Kelulusan | Nama Produk | Pengeluar |
-|---------|------|------|
-| MAL11060032AZ | INJECSOL K10 (Potassium Chloride 10% w/v Injection BP) | Ain Medicare Sdn. Bhd. |
-| MAL19920259AZ | B. Braun Sterile Potassium Chloride Concentrate 14.9% | B. Braun Medical Industries Sdn. Bhd. |
-| MAL19920245AZ | B. Braun Sterile Potassium Chloride Concentrate 7.45% | B. Braun Medical Industries Sdn. Bhd. |
-| MAL19970962AZ | Potaxine Injection 10% w/v (ampul 10 ml) | Duopharma (M) Sendirian Berhad |
-| MAL25036026XC | Votaride 500mg/5ml Potassium Chloride Oral Solution | Pharm-D Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11060032AZ | INJECSOL K10 (POTASSIUM CHLORIDE10% w/v INJECTION BP) | Bahan tunggal | AIN MEDICARE SDN. BHD. | Sah |
+| MAL19920259AZ | B. BRAUN STERILE POTASSIUM CHLORIDE CONCENTRATE 14.9% | Bahan tunggal | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL19920245AZ | B. BRAUN STERILE POTASSIUM CHLORIDE CONCENTRATE 7.45% | Bahan tunggal | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL19970962AZ | POTAXINE INJECTION 10% W/V (10ML AMPOULE) | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL25036026XC | Votaride 500mg/5ml Potassium Chloride Oral Solution | Bahan tunggal | PHARM-D SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 115 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

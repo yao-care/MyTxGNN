@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "Minoxidil"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with chronic hemolytic anemia", "pulmonary arterial hypertension associated with connective tissue disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Minoxidil: indikasi baharu diramal Hipotrikosis simpleks kulit kepala (hypotrichosis simplex of the scalp) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 15 (sah: 13)"
 ---
 
@@ -76,17 +76,23 @@ Lima yang utama disenaraikan di bawah.
 
 <!-- review:begin my-lic-20261105-minoxidil-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Terdapat 15 lesen sah. Lima yang utama disenaraikan di bawah." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 15 pendaftaran (sah: 13); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Terdapat 15 lesen sah. Lima yang utama disenaraikan di bawah." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-minoxidil-1 -->
 
-| Nombor Kebenaran | Nama Produk | Pengilang | Status |
-|---------|------|------|------|
-| MAL16105054AZ | Axcel Minoxidil 2% Topical Solution | Kotra Pharma (M) Sdn. Bhd. | Dibatalkan Pendaftaran |
-| MAL16105035AZ | Axcel Minoxidil 5% Topical Solution | Kotra Pharma (M) Sdn. Bhd. | Dibatalkan Pendaftaran |
-| MAL12010007AZ | Reten Five Solution 5g/100ml | Imeks Pharma Sdn. Bhd. | Sah |
-| MAL19985557ACZ | Hirsutin Tablet 5 mg | Zontron Pharmaceuticals Sdn. Bhd. | Sah |
-| MAL19971300AZ | Hairgrow Solution 2% | Antah Pharma Sdn. Bhd. | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16105054AZ | Axcel Minoxidil 2% Topical Solution | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL16105035AZ | Axcel Minoxidil 5% Topical Solution | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL12010007AZ | Reten Five Solution 5g/100ml | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL19985557ACZ | HIRSUTIN TABLET 5 MG | Bahan tunggal | ZONTRON PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL19971300AZ | HAIRGROW SOLUTION 2% | Bahan tunggal | ANTAH PHARMA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -114,7 +120,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Terdapat 15 lesen sah" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Terdapat 15 lesen sah" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802) |
 
 <!-- review:end log -->

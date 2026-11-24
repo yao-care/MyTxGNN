@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Fusidic Acid"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "parasitic eyelid infestation"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fusidic Acid: indikasi baharu diramal Keratitis pendedahan (exposure keratitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 38 (sah: 38)"
 ---
 
@@ -84,13 +84,19 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Lesen yang disenaraikan (5 utama, produk bahan tunggal). Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL11105004AZ | DEFUZIN CREAM 2% W/W | Tiada maklumat | Tiada maklumat |
-| MAL19913374AZ | FUCIDIN CREAM 2% | Tiada maklumat | Tiada maklumat |
-| MAL11110006AZ | VAXCEL SODIUM FUSIDATE-500MG INJECTION | Tiada maklumat | Tiada maklumat |
-| MAL09020977AZ | Axcel Sodium Fusidate 250 Tablet | Tiada maklumat | Tiada maklumat |
-| MAL25036163AZ | OPTICIN 1% w/w Viscous Eye Drops | Tiada maklumat | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11105004AZ | DEFUZIN CREAM 2% W/W | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+| MAL19913374AZ | FUCIDIN CREAM 2% | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL11110006AZ | VAXCEL SODIUM FUSIDATE-500MG INJECTION | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. | Sah |
+| MAL09020977AZ | Axcel Sodium Fusidate 250 Tablet | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. | Sah |
+| MAL25036163AZ | OPTICIN 1% w/w Viscous Eye Drops | Bahan tunggal | INSTAMED ASIA SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 38 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Lesen produk kombinasi tidak digunakan untuk menggambarkan status kelulusan asid fusidik bahan tunggal. Antara produk bahan tunggal terdapat bentuk titisan mata likat (OPTICIN, FUCITHALMIC), yang relevan dari segi laluan pentadbiran untuk penyakit mata, tetapi indikasi lesen tidak dapat disahkan.
 

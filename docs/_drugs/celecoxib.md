@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Celecoxib"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Celecoxib: indikasi baharu diramal displasia akromesomelik, jenis Hunter-Thompson (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan. Hubun…"
 ---
 
@@ -72,13 +72,19 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 Senarai di bawah menunjukkan 5 daripada 22 pendaftaran. Teks indikasi diluluskan tidak tersedia dalam data yang dikompilasi.
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL20000005ARZ | CELEBREX CAPSULE 200MG | VIATRIS SDN. BHD. |
-| MAL20000004ARZ | CELEBREX CAPSULE 100MG | VIATRIS SDN. BHD. |
-| MAL08051748ARZ | Celebrex 400mg capsules | VIATRIS SDN. BHD. |
-| MAL19076014AZ | hovid-Celecoxib Capsule 200mg | HOVID BERHAD |
-| MAL19071008ACZ | Revcox 200mg Capsule | SANDOZ PRODUCTS MALAYSIA SDN. BHD. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20000005ARZ | CELEBREX CAPSULE 200MG | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+| MAL20000004ARZ | CELEBREX CAPSULE 100MG | Bahan tunggal | VIATRIS SDN. BHD. | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |
+| MAL08051748ARZ | Celebrex 400mg capsules | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+| MAL19076014AZ | hovid-Celecoxib Capsule 200mg | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL19071008ACZ | Revcox 200mg Capsule | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 22 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

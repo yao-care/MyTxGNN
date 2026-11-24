@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 122
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -80,9 +80,13 @@ Pada masa ini tiada petunjukan yang diramalkan telah dijana; oleh itu, tiada car
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjukan yang Diluluskan |
-|------|------|------|------|
-| (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20046078ACRZ | XOFLUZA FILM-COATED TABLET 40MG | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 > **Nota:** Pertanyaan NPRA mengesahkan 1 pendaftaran untuk Baloxavir marboxil di Malaysia, tetapi butiran lesen (nombor kebenaran, nama produk, bentuk dos, dan teks petunjukan yang diluluskan) tidak diisi dalam Evidence Pack. Jurang data ini harus diperbaiki dengan menanyakan [pangkalan data NPRA Quest3+](https://quest3plus.bpfk.gov.my/).
 

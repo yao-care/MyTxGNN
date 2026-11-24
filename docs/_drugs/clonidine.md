@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clonidine: indikasi baharu diramal Sindrom faciodigitogenital (faciodigitogenital syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -69,9 +69,13 @@ Buat masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL24066031AZ | YSP Clonidine Injection 150mcg/ml | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24066031AZ | YSP Clonidine Injection 150mcg/ml | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah (pendaftaran bersyarat) |
+
+<!-- licenses:end -->
 
 Pengilang: Y.S.P. Industries (M) Sdn. Bhd. Lesen ini berstatus sah dan merupakan produk bahan tunggal.
 

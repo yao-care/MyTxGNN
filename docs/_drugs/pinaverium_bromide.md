@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB09090
 monitor_inn: "Pinaverium"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Pinaverium Bromide: indikasi baharu diramal Benign prostatic hyperplasia (disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -87,10 +87,14 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL12045092ACZ | Dicetel 50mg Film-Coated Tablet | Tablet bersalut filem | Tidak direkodkan dalam data tempatan |
-| MAL20122215ACZ | DICETEL 100MG FILM-COATED TABLET | Tablet bersalut filem | Tidak direkodkan dalam data tempatan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12045092ACZ | Dicetel 50mg Film-Coated Tablet | Kombinasi | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+| MAL20122215ACZ | DICETEL 100MG FILM-COATED TABLET | Bahan tunggal | ABBOTT LABORATORIES (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

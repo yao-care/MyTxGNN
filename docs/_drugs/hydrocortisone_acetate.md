@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "Hydrocortisone Acetate"
 predicted_indications: ["alopecia areata", "telogen effluvium", "alopecia mucinosa", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "seborrheic keratosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Hydrocortisone Acetate: indikasi baharu diramal Alopesia areata (alopecia areata) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 34 (sah: 34)"
 ---
 
@@ -79,13 +79,19 @@ Ujian ini menunjukkan bahawa hydrocortisone pernah dikaji secara langsung dalam 
 
 Produk hydrocortisone acetate dipasarkan di Malaysia, dan semua lesen yang direkodkan berstatus sah. Berikut ialah lima produk bahan tunggal yang dipilih:
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL16075024AZ | Hydrosone Cream 1% w/w | Tiada data | Tiada data |
-| MAL19860156AZ | Hysone Cream 1% (w/w) | Tiada data | Tiada data |
-| MAL19985962AZ | YSP Hydrocort Cream 1% w/w | Tiada data | Tiada data |
-| MAL19870461AZ | Royce Hydrocortisone Acetate Cream 1% w/w | Tiada data | Tiada data |
-| MAL20076037AZ | Mecort (Hydrocortisone Acetate Cream 1% w/w) | Tiada data | Tiada data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16075024AZ | HYDROSONE CREAM 1% W/W | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL19860156AZ | Hysone Cream 1% (w/w) | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL19985962AZ | YSP HYDROCORT CREAM 1% W/W | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL19870461AZ | Royce Hydrocortisone Acetate Cream 1% w/w | Bahan tunggal | ROYCE PHARMA MANUFACTURING SDN. BHD. | Sah |
+| MAL20076037AZ | Mecort (Hydrocortisone Acetate Cream 1% w/w) | Bahan tunggal | Synercam (M) Sdn Bhd | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 34 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 

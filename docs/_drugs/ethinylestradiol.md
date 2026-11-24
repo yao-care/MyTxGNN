@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ethinylestradiol"
 predicted_indications: ["zinc, elevated plasma"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Ethinylestradiol: indikasi baharu diramal Zink plasma meningkat (zinc, elevated plasma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 28 (sah: 28)"
 ---
 
@@ -73,13 +73,19 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 Kesemua 28 lesen yang aktif ialah produk gabungan (etinilestradiol bersama progestogen); tiada lesen bahan tunggal. Lesen gabungan tidak boleh digunakan untuk menggambarkan status kelulusan etinilestradiol sebagai bahan tunggal. Teks indikasi diluluskan tidak tersedia dalam rekod. Lima lesen utama disenaraikan di bawah:
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL20013009AZ | NORDETTE 21 TABLET | Tidak dinyatakan | Tidak dinyatakan |
-| MAL19991384AZ | MINULET TABLET | Tidak dinyatakan | Tidak dinyatakan |
-| MAL12085067AZ | LIZA 0.03MG/3MG FILM-COATED TABLET | Tidak dinyatakan | Tidak dinyatakan |
-| MAL12085077AZ | LIZELLE 0.02mg/3mg film-coated tablet | Tidak dinyatakan | Tidak dinyatakan |
-| MAL10100173AZ | Giane 35 Tablet | Tidak dinyatakan | Tidak dinyatakan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20013009AZ | NORDETTE 21 TABLET | Kombinasi | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL19991384AZ | MINULET TABLET | Kombinasi | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL12085067AZ | LIZA 0.03MG/3MG FILM-COATED TABLET | Kombinasi | EURODRUG LABORATORIES (M) SDN. BHD. | Sah |
+| MAL12085077AZ | LIZELLE 0.02mg/3mg film-coated tablet | Kombinasi | EURODRUG LABORATORIES (M) SDN. BHD. | Sah |
+| MAL10100173AZ | Giane 35 Tablet | Kombinasi | Vitamode Sdn.bhd | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 28 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

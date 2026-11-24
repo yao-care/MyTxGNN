@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Deferasirox"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Deferasirox: indikasi baharu diramal Jangkitan HIV (tahap bukti L5). Indikasi asal: Beta-talasemia dan hemoglobinopati berkaitan"
 ---
 
@@ -76,13 +76,19 @@ Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 Terdapat 21 pendaftaran yang sah, kesemuanya produk bahan tunggal. Lima yang utama disenaraikan di bawah (teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data yang dikumpulkan).
 
-| Nombor Kebenaran | Nama Produk | Pengilang | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL22066013AZ | Irosix 360mg Film Coated Tablets | Novugen Pharma Sdn. Bhd. | Tidak tersedia |
-| MAL18016071ARZ | Exjade 360mg Film-coated Tablet | Novartis Corporation (Malaysia) Sdn. Bhd. | Tidak tersedia |
-| MAL23066029ARZ | FERASIRO 90 | GoodScience Sdn. Bhd. | Tidak tersedia |
-| MAL25026014AZ | DEFRIJET 500 (Dispersible Tablets) | Ranbaxy (Malaysia) Sdn. Bhd. | Tidak tersedia |
-| MAL20046127AZ | JEDOXRED 125 (Dispersible Tablets) | Dr. Reddy's Laboratories Malaysia Sdn. Bhd. | Tidak tersedia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22066013AZ | Irosix 360mg Film Coated Tablets | Bahan tunggal | NOVUGEN PHARMA SDN. BHD. | Sah |
+| MAL18016071ARZ | Exjade 360mg Film-coated Tablet | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL23066029ARZ | FERASIRO 90 (Deferasirox Film-Coated Tablets 90mg) | Bahan tunggal | GoodScience Sdn. Bhd. | Sah |
+| MAL25026014AZ | DEFRIJET 500 (Deferasirox Dispersible Tablets 500 mg) | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL20046127AZ | JEDOXRED 125 (DEFERASIROX DISPERSIBLE TABLETS 125MG) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 21 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

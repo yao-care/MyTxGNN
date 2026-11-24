@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -88,9 +88,13 @@ Sebaik sahaja indikasi sasaran dikenal pasti, penerbitan yang relevan harus diam
 
 Pakej Bukti mengesahkan **1 kebenaran pasaran aktif** di Malaysia; walau bagaimanapun, semua medan terperinci pendaftaran kini kosong.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Ubatan | Indikasi yang Diluluskan |
-|---------------------|--------------|-------------|---------------------|
-| *(Tidak tersedia)* | *(Tidak tersedia)* | *(Tidak tersedia)* | *(Tidak tersedia — memerlukan pengambilan rekod NPRA)* |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12050001ACZ | ARTESUN POWDER FOR INJECTION 60 MG | Bahan tunggal | RX PHARMA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Untuk mengisi jadual ini, rekod pendaftaran NPRA lengkap untuk Artesunate mesti diambil semula dan dianalisis.
 

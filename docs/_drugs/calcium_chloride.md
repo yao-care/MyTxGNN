@@ -3,7 +3,7 @@ layout: default
 title: Calcium Chloride
 parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 185
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Calcium Chloride: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 indication_count: 0
@@ -71,40 +71,44 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL16085022AZ | OLIMEL N9E, emulsion for infusion |  | Sah |
-| MAL16085019AZ | PERIOLIMEL N4E, emulsion for infusion |  | Sah |
-| MAL11080013XC | Melaleuca Oligo VFL MULTIVITAMIN & MINERAL |  | Sah |
-| MAL11080012XC | Melaleuca Oligo VFL MULTIVITAMIN & MINERAL + IRON |  | Sah |
-| MAL19962094AZ | NUTRIFLEX PLUS IN 2000ML TWIN FLEX |  | Dibatalkan Pendaftaran |
-| MAL19962093AZ | NUTRIFLEX PLUS IN 1000ML TWIN FLEX |  | Dibatalkan Pendaftaran |
-| MAL11090002ARZ | SmofKabiven, Emulsion for Infusion |  | Sah |
-| MAL19962095AZ | NUTRIFLEX SPECIAL IN 1500ML TWIN FLEX |  | Dibatalkan Pendaftaran |
-| MAL19962096AZ | NUTRIFLEX SPECIAL IN 1000ML TWIN FLEX |  | Dibatalkan Pendaftaran |
-| MAL06091412AZ | CAPD/DPCA 19 STAY SAFE PERITONEAL DIALYSIS SOLUTION |  | Sah |
-| MAL06091410AZ | CAPD/DPCA 17 STAY  SAFE  PERITONEAL DIALYSIS SOLUTION |  | Sah |
-| MAL06091468AZ | CAPD/DPCA 18 STAY SAFE PERITONEAL DIALYSIS SOLUTION |  | Sah |
-| MAL11080004ARZ | SmofKabiven Peripheral (Emulsion for Infusion) |  | Sah |
-| MAL16105025AZ | CAPD/DPCA 4 Stay Safe Link Solution for Peritoneal Dialysis |  | Sah |
-| MAL16105024AZ | CAPD/DPCA 3 Stay Safe Link Solution for Peritoneal Dialysis |  | Sah |
-| MAL16105023AZ | CAPD/DPCA 2 Stay Safe Link Solution for Peritoneal Dialysis |  | Sah |
-| MAL16105017AZ | CAPD/DPCA 18 Stay Safe Link Solution for Peritoneal Dialysis |  | Sah |
-| MAL16105022AZ | CAPD/DPCA 19 Stay Safe Link Solution for Peritoneal Dialysis |  | Sah |
-| MAL16105019AZ | CAPD/DPCA 17 Stay Safe Link Solution for Peritoneal Dialysis |  | Sah |
-| MAL07010906ACZ | Prismasol BO |  | Sah |
-| MAL19920241AZ | B. BRAUN RINGER'S INJECTION |  | Sah |
-| MAL20020145AZ | CAPD/DPCA 2 STAY-SAFE PERITONEAL DIALYSIS SOLUTION |  | Sah |
-| MAL20020143AZ | CAPD/DPCA 4 STAY-SAFE PERITONEAL DIALYSIS SOLUTION |  | Sah |
-| MAL22066005AZ | OLIMEL N12E, Emulsion for Infusion |  | Sah |
-| MAL19920729AZ | PERITONIL H2 |  | Sah |
-| MAL19920728AZ | PERITONIL H1 |  | Sah |
-| MAL19920731AZ | PERIZOL 2G |  | Sah |
-| MAL07050218AZ | CAPD/DPCA 17 SLEEP SAFE PERITONEAL DIALYSIS SOLUTION |  | Sah |
-| MAL07050219AZ | CAPD/DPCA 18 SLEEP SAFE PERITONEAL DIALYSIS SOLUTION |  | Sah |
-| MAL07050220AZ | CAPD/DPCA 19 SLEEP SAFE PERITONEAL DIALYSIS SOLUTION |  | Sah |
+<!-- licenses:begin -->
 
-Data hanya mengandungi sebahagian pendaftaran; senarai mungkin tidak lengkap.
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16085022AZ | OLIMEL N9E, emulsion for infusion | Kombinasi | BAXTER HEALTHCARE (MALAYSIA) SDN. BHD. | Sah |
+| MAL16085019AZ | PERIOLIMEL N4E, emulsion for infusion | Kombinasi | BAXTER HEALTHCARE (MALAYSIA) SDN. BHD. | Sah |
+| MAL11080013XC | Melaleuca Oligo VFL MULTIVITAMIN & MINERAL | Kombinasi | Melaleuca Southeast Asia (malaysia) Sdn. Bhd. | Sah |
+| MAL11080012XC | Melaleuca Oligo VFL MULTIVITAMIN & MINERAL + IRON | Kombinasi | Melaleuca Southeast Asia (malaysia) Sdn. Bhd. | Sah |
+| MAL19962094AZ | NUTRIFLEX PLUS IN 2000ML TWIN FLEX | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL19962093AZ | NUTRIFLEX PLUS IN 1000ML TWIN FLEX | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL11090002ARZ | SmofKabiven, Emulsion for Infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL19962095AZ | NUTRIFLEX SPECIAL IN 1500ML TWIN FLEX | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL19962096AZ | NUTRIFLEX SPECIAL IN 1000ML TWIN FLEX | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL06091412AZ | CAPD/DPCA 19 STAY SAFE PERITONEAL DIALYSIS SOLUTION | Kombinasi | FRESENIUS MEDICAL CARE MALAYSIA SDN. BHD. | Sah |
+| MAL06091410AZ | CAPD/DPCA 17 STAY SAFE PERITONEAL DIALYSIS SOLUTION | Kombinasi | FRESENIUS MEDICAL CARE MALAYSIA SDN. BHD. | Sah |
+| MAL06091468AZ | CAPD/DPCA 18 STAY SAFE PERITONEAL DIALYSIS SOLUTION | Kombinasi | FRESENIUS MEDICAL CARE MALAYSIA SDN. BHD. | Sah |
+| MAL11080004ARZ | SmofKabiven Peripheral (Emulsion for Infusion) | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL16105025AZ | CAPD/DPCA 4 Stay Safe Link Solution for Peritoneal Dialysis | Kombinasi | FRESENIUS MEDICAL CARE MALAYSIA SDN. BHD. | Sah |
+| MAL16105024AZ | CAPD/DPCA 3 Stay Safe Link Solution for Peritoneal Dialysis | Kombinasi | FRESENIUS MEDICAL CARE MALAYSIA SDN. BHD. | Sah |
+| MAL16105023AZ | CAPD/DPCA 2 Stay Safe Link Solution for Peritoneal Dialysis | Kombinasi | FRESENIUS MEDICAL CARE MALAYSIA SDN. BHD. | Sah |
+| MAL16105017AZ | CAPD/DPCA 18 Stay Safe Link Solution for Peritoneal Dialysis | Kombinasi | FRESENIUS MEDICAL CARE MALAYSIA SDN. BHD. | Sah |
+| MAL16105022AZ | CAPD/DPCA 19 Stay Safe Link Solution for Peritoneal Dialysis | Kombinasi | FRESENIUS MEDICAL CARE MALAYSIA SDN. BHD. | Sah |
+| MAL16105019AZ | CAPD/DPCA 17 Stay Safe Link Solution for Peritoneal Dialysis | Kombinasi | FRESENIUS MEDICAL CARE MALAYSIA SDN. BHD. | Sah |
+| MAL07010906ACZ | Prismasol BO | Kombinasi | Vantive Sdn. Bhd. | Sah |
+| MAL19920241AZ | B. BRAUN RINGER'S INJECTION | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL20020145AZ | CAPD/DPCA 2 STAY-SAFE PERITONEAL DIALYSIS SOLUTION | Kombinasi | FRESENIUS MEDICAL CARE MALAYSIA SDN. BHD. | Sah |
+| MAL20020143AZ | CAPD/DPCA 4 STAY-SAFE PERITONEAL DIALYSIS SOLUTION | Kombinasi | FRESENIUS MEDICAL CARE MALAYSIA SDN. BHD. | Sah |
+| MAL22066005AZ | OLIMEL N12E, Emulsion for Infusion | Kombinasi | BAXTER HEALTHCARE (MALAYSIA) SDN. BHD. | Sah |
+| MAL19920729AZ | PERITONIL H2 | Kombinasi | AIN MEDICARE SDN. BHD. | Sah |
+| MAL19920728AZ | PERITONIL H1 | Kombinasi | AIN MEDICARE SDN. BHD. | Sah |
+| MAL19920731AZ | PERIZOL 2G | Kombinasi | AIN MEDICARE SDN. BHD. | Sah |
+| MAL07050218AZ | CAPD/DPCA 17 SLEEP SAFE PERITONEAL DIALYSIS SOLUTION | Kombinasi | FRESENIUS MEDICAL CARE MALAYSIA SDN. BHD. | Sah |
+| MAL07050219AZ | CAPD/DPCA 18 SLEEP SAFE PERITONEAL DIALYSIS SOLUTION | Kombinasi | FRESENIUS MEDICAL CARE MALAYSIA SDN. BHD. | Sah |
+| MAL07050220AZ | CAPD/DPCA 19 SLEEP SAFE PERITONEAL DIALYSIS SOLUTION | Kombinasi | FRESENIUS MEDICAL CARE MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 30 daripada 90 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

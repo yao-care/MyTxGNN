@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB00612
 monitor_inn: "Bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bisoprolol Fumarate: indikasi baharu diramal Penyakit renal hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 32 (sah: 32)"
 ---
 
@@ -85,13 +85,19 @@ Bisoprolol fumarate mempunyai status **Dipasarkan** di Malaysia. Berdasarkan rek
 
 Contoh produk ingredien tunggal yang sah:
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL19890389AZ | Concor 5mg Film coated Tablet | Merck Sdn. Bhd. |
-| MAL19890390AZ | Concor 10mg Film coated Tablet | Merck Sdn. Bhd. |
-| MAL20020792AZ | Concor 2.5mg Film Coated Tablet | Merck Sdn. Bhd. |
-| MAL16075026AZ | Bisocor Tablet 5mg | Y.S.P. Industries (M) Sdn. Bhd. |
-| MAL23056039AE | Bisoprovid Film-Coated Tablet 5 mg | Hovid Berhad |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19890389AZ | Concor 5mg Film coated Tablet | Bahan tunggal | MERCK SDN. BHD. | Sah |
+| MAL19890390AZ | Concor 10mg Film coated Tablet | Bahan tunggal | MERCK SDN. BHD. | Sah |
+| MAL20020792AZ | Concor 2.5mg Film Coated Tablet | Bahan tunggal | MERCK SDN. BHD. | Sah |
+| MAL16075026AZ | Bisocor Tablet 5mg | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL23056039AE | BISOPROVID FILM-COATED TABLET 5 MG | Bahan tunggal | HOVID BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 32 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

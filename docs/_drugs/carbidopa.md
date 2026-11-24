@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 196
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Carbidopa: kegunaan diketahui dan status pasaran di Malaysia; buat masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -72,20 +72,24 @@ Model TxGNN menghasilkan calon indikasi untuk Carbidopa dengan skor ≥ 0.99. Se
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL19984315AZ | CREDANIL 25/250 TABLET |  | Sah |
-| MAL18086152AZ | CELTOR TABLETS 50+12.5+200 MG |  | Sah |
-| MAL19021003AZ | CELTOR TABLETS 100+25+200 MG |  | Sah |
-| MAL09102942AZ | Stalevo 200/50/200mg Film-coated Tablet |  | Sah |
-| MAL20051345AZ | STALEVO 50/12.5/200MG FILM-COATED TABLETS |  | Sah |
-| MAL20051339AZ | STALEVO 100/25/200 MG FILM-COATED TABLETS |  | Sah |
-| MAL20051355AZ | STALEVO 150/37.5/200MG FILM-COATED TABLETS |  | Sah |
-| MAL19900635AZ | LEVOMED TABLET (250/25) |  | Sah |
-| MAL19986476ARZ | APO-LEVOCARB 250/25MG TABLET |  | Sah |
-| MAL19986475ARZ | APO-LEVOCARB 100/25MG TABLET |  | Sah |
-| MAL11030095AZ | Stalevo 75/18.75/200mg Film-coated Tablet |  | Sah |
-| MAL11030094AZ | Stalevo 125/31.25/200mg Film-coated Tablet |  | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19984315AZ | CREDANIL 25/250 TABLET | Kombinasi | EUCOGEN SDN BHD | Sah |
+| MAL18086152AZ | CELTOR TABLETS 50+12.5+200 MG | Kombinasi | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL19021003AZ | CELTOR TABLETS 100+25+200 MG | Kombinasi | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL09102942AZ | Stalevo 200/50/200mg Film-coated Tablet | Kombinasi | ORION PHARMA (MY) SDN. BHD. | Sah |
+| MAL20051345AZ | STALEVO 50/12.5/200MG FILM-COATED TABLETS | Kombinasi | ORION PHARMA (MY) SDN. BHD. | Sah |
+| MAL20051339AZ | STALEVO 100/25/200 MG FILM-COATED TABLETS | Kombinasi | ORION PHARMA (MY) SDN. BHD. | Sah |
+| MAL20051355AZ | STALEVO 150/37.5/200MG FILM-COATED TABLETS | Kombinasi | ORION PHARMA (MY) SDN. BHD. | Sah |
+| MAL19900635AZ | LEVOMED TABLET (250/25) | Kombinasi | KOMEDIC SDN BHD | Sah |
+| MAL19986476ARZ | APO-LEVOCARB 250/25MG TABLET | Kombinasi | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL19986475ARZ | APO-LEVOCARB 100/25MG TABLET | Kombinasi | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL11030095AZ | Stalevo 75/18.75/200mg Film-coated Tablet | Kombinasi | ORION PHARMA (MY) SDN. BHD. | Sah |
+| MAL11030094AZ | Stalevo 125/31.25/200mg Film-coated Tablet | Kombinasi | ORION PHARMA (MY) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

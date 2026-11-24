@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Medroxyprogesterone Acetate"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Medroxyprogesterone Acetate: indikasi baharu diramal Penyakit fibrosistik payudara (breast fibrocystic disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 
@@ -68,13 +68,19 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19950156AZ | RAVIMED TABLET 5MG | Tidak dinyatakan | Tidak dinyatakan |
-| MAL20020010AZ | NON-PREG INJECTION | Tidak dinyatakan | Tidak dinyatakan |
-| MAL19872273AZ | DEPO-PROVERA 150 INJ (3ML, VIAL) | Tidak dinyatakan | Tidak dinyatakan |
-| MAL14125122AZ | DEPOGESTON 50MG/ML INJECTION | Tidak dinyatakan | Tidak dinyatakan |
-| MAL20000997AZ | PROVERA 10MG TABLET | Tidak dinyatakan | Tidak dinyatakan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19950156AZ | RAVIMED TABLET 5MG | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah (pendaftaran bersyarat) |
+| MAL20020010AZ | NON-PREG INJECTION | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL19872273AZ | DEPO-PROVERA 150 INJ (3ML,VIAL) | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL14125122AZ | DEPOGESTON 50MG/ML INJECTION | Bahan tunggal | J. BIO MEDIC MARKETING SDN. BHD. | Sah |
+| MAL20000997AZ | PROVERA 10MG TABLET | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Tujuh lesen sah telah direkodkan; lima yang utama disenaraikan di atas.
 

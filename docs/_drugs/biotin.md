@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "BIOTIN"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Biotin: indikasi baharu diramal Dispepsia (dyspepsia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 372 (sah: 363)"
 ---
 
@@ -78,7 +78,7 @@ Penerbitan berikut diperoleh semasa carian, tetapi tiada satu pun menilai biotin
 
 <!-- review:begin my-lic-20261105-biotin-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Menurut data tempatan, status pasaran biotin ialah **dipasarkan**, dengan 338 lesen sah dan tiada lesen yang dibatalkan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 372 pendaftaran (sah: 364); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Menurut data tempatan, status pasaran biotin ialah **dipasarkan**, dengan 338 lesen sah dan tiada lesen yang dibatalkan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-biotin-1 -->
 
@@ -126,7 +126,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Menurut data tempatan, status pasaran biotin ialah **dipasarkan**, dengan 338 lesen sah dan tiada lesen yang dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Menurut data tempatan, status pasaran biotin ialah **dipasarkan**, dengan 338 lesen sah dan tiada lesen yang dibatalkan" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

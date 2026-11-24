@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 730
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "ZANAMIVIR"
 predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
 description: "Zanamivir: indikasi baharu diramal Pyelonephritis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 0)"
@@ -68,7 +68,7 @@ Skor TxGNN yang sangat tinggi (0.9984) ialah ramalan berasaskan model semata-mat
 
 <!-- review:begin my-lic-20261105-zanamivir-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Selain itu, ubat ini dipasarkan di Malaysia (1 lesen sah daripada 1), tetapi ketiadaan data MOA menghadkan kebolehlaksanaan." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 1 pendaftaran (sah: 0); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Selain itu, ubat ini dipasarkan di Malaysia (1 lesen sah daripada 1), tetapi ketiadaan data MOA menghadkan kebolehlaksanaan." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-zanamivir-1 -->
 
@@ -124,7 +124,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "ubat ini dipasarkan di Malaysia (1 lesen sah daripada 1), tetapi" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "ubat ini dipasarkan di Malaysia (1 lesen sah daripada 1), tetapi" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Relenza (zanamivir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b4e68930-4e6d-4d27-b1f0-abf60d12e28d) |
 
 <!-- review:end log -->

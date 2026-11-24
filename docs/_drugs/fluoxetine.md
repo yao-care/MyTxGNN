@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "Fluoxetine"
 predicted_indications: ["schizotypal personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-24
 description: "Fluoxetine: indikasi baharu diramal Schizotypal personality disorder (tahap bukti L3). Di Malaysia, pendaftaran NPRA: 7 (sah: 5)"
 ---
 
@@ -78,19 +78,25 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL20061563AZ | SALIPAX CAPSULE | MEPHARM (MALAYSIA) SDN. BHD. |
-| MAL06071075AZ | ANZACK TABLETS 20 MG | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. |
-| MAL06041463AZ | Flexin 20 mg Capsule | SM PHARMACEUTICALS SDN. BHD. |
-| MAL07031127ACZ | Prozac Capsule 20mg | ZUELLIG PHARMA SDN. BHD. |
-| MAL08010743ACZ | Fluovex capsule 20mg | APEX PHARMACY MARKETING SDN. BHD. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20061563AZ | SALIPAX CAPSULE | Bahan tunggal | MEPHARM (MALAYSIA) SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL06071075AZ | ANZACK TABLETS 20 MG | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL06041463AZ | Flexin 20 mg Capsule | Bahan tunggal | SM PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL07031127ACZ | Prozac Capsule 20mg | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |
+| MAL08010743ACZ | Fluovex capsule 20mg | Bahan tunggal | APEX PHARMACY MARKETING SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Dua lagi ialah Magrilan 20mg Capsules (KOMEDIC SDN BHD, MAL10100126AZ) dan Provatine Capsule 20mg (DUOPHARMA (M) SENDIRIAN BERHAD, MAL06011876AZ). Teks indikasi lulus dan bentuk dos tidak direkodkan dalam data yang dikompilasi.
 
 <!-- review:begin my-lic-20261105-fluoxetine-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Terdapat 7 pendaftaran produk tunggal yang sah; 5 yang utama disenaraikan di atas. Dua lagi ialah Magrilan 20mg Capsules (KOMEDIC SDN BHD, MAL10100126AZ) dan Provatine Capsule 20mg (DUOPHARMA (M) SENDIRIAN BERHAD, MAL06011876AZ)." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 7 pendaftaran (sah: 5); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Terdapat 7 pendaftaran produk tunggal yang sah; 5 yang utama disenaraikan di atas. Dua lagi ialah Magrilan 20mg Capsules (KOMEDIC SDN BHD, MAL10100126AZ) dan Provatine Capsule 20mg (DUOPHARMA (M) SENDIRIAN BERHAD, MAL06011876AZ)." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-fluoxetine-1 -->
 
@@ -123,7 +129,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Terdapat 7 pendaftaran produk tunggal yang sah; 5 yang utama disenaraikan di atas" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Terdapat 7 pendaftaran produk tunggal yang sah; 5 yang utama disenaraikan di atas" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

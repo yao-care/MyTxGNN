@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01627
 monitor_inn: "Lincomycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lincomycin Hydrochloride: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 20 (sah: 20)"
 ---
 
@@ -75,13 +75,19 @@ Pada masa ini tiada literatur berkaitan.
 
 Lesen yang direkodkan dalam data yang dikumpulkan untuk laporan ini: 20 lesen, kesemuanya sah (11 produk bahan tunggal dan 9 produk gabungan). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Senarai di bawah memaparkan 5 lesen bahan tunggal sebagai contoh.
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL21126020HA | Lincofarm TR 44% w/w Soluble Powder | Tidak direkodkan | Tidak direkodkan |
-| MAL20172718HA | OMS LINCOCEN 4.4% W/W Premix Powder | Tidak direkodkan | Tidak direkodkan |
-| MAL20172862HA | LINCOMYN 110MG/G SOLUBLE POWDER | Tidak direkodkan | Tidak direkodkan |
-| MAL20172992ACREZ | hovid Lincomycin Injection 600mg/2ml | Tidak direkodkan | Tidak direkodkan |
-| MAL19950513AZ | LINCOSA INJECTION 300MG/ML | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21126020HA | Lincofarm TR 44% w/w Soluble Powder | Bahan tunggal | F.E. VENTURE SDN. BHD. | Sah |
+| MAL20172718HA | OMS LINCOCEN 4.4% W/W Premix Powder | Bahan tunggal | Osmosis Nutrition Sdn Bhd | Sah |
+| MAL20172862HA | LINCOMYN 110MG/G SOLUBLE POWDER | Bahan tunggal | Life Biopharma Sdn. Bhd. | Sah |
+| MAL20172992ACREZ | hovid Lincomycin Injection 600mg/2ml | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL19950513AZ | LINCOSA INJECTION 300MG/ML | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 20 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

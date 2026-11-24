@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 726
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vinorelbine: indikasi baharu diramal Sarkoma Ewing (tahap bukti L2). Indikasi asal: Kanser paru-paru sel bukan kecil (NSCLC)"
 monitor_inn: "Vinorelbine"
 predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "pulmonary sulcus neoplasm", "lung germ cell tumor", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]
@@ -130,7 +130,7 @@ Amaran utama dan kontraindikasi daripada sisipan pakej NPRA belum tersedia; sila
 
 <!-- review:begin my-lic-20261105-vinorelbine-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Amaran dan kontraindikasi daripada sisipan pakej NPRA (ubat ini tidak berdaftar di Malaysia, jadi laluan akses seperti pendaftaran atau penggunaan khas perlu dinilai)" Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 8 pendaftaran (sah: 6); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Amaran dan kontraindikasi daripada sisipan pakej NPRA (ubat ini tidak berdaftar di Malaysia, jadi laluan akses seperti pendaftaran atau penggunaan khas perlu dinilai)" Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-vinorelbine-1 -->
 
@@ -148,7 +148,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "(ubat ini tidak berdaftar di Malaysia, jadi laluan akses seperti pendaftaran atau penggunaan khas perlu dinilai)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "(ubat ini tidak berdaftar di Malaysia, jadi laluan akses seperti pendaftaran atau penggunaan khas perlu dinilai)" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: vinorelbine prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10a70995-e04d-4044-b1dc-c9aa27460397) |
 
 <!-- review:end log -->

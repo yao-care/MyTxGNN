@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "Cilastatin"
 predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "paratyphoid fever", "bronchitis", "diffuse scleroderma", "salmonellosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cilastatin: indikasi baharu diramal Jangkitan Staphylococcus aureus (staphylococcus aureus infection) (tahap bukti L3). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
 ---
 
@@ -87,13 +87,17 @@ Penerbitan paling relevan yang dipilih daripada data yang dikumpulkan:
 
 Kesemua 5 lesen yang direkodkan ialah produk gabungan imipenem + cilastatin dan sah. Tiada lesen produk cilastatin tunggal. Teks indikasi diluluskan tidak direkodkan dalam data tempatan.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL21036029ACZ | Hovid Imipenem + Cilastatin Powder for Solution for Infusion 500mg | Tidak direkodkan | Tidak direkodkan |
-| MAL07061387AZ | BACQURE for IV Injection 500mg | Tidak direkodkan | Tidak direkodkan |
-| MAL23046015AZ | NIMEDINE Imipenem + Cilastatin (500+500) mg/vial | Tidak direkodkan | Tidak direkodkan |
-| MAL23116010AZ | Lastinem-500 (Imipenem and Cilastatin 500 mg/500 mg) | Tidak direkodkan | Tidak direkodkan |
-| MAL16025041ACRZ | Imipenem/Cilastatin Kabi 500 mg/500 mg | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21036029ACZ | Hovid Imipenem + Cilastatin Powder for Solution for Infusion 500mg | Kombinasi | HOVID BERHAD | Sah (pendaftaran bersyarat) |
+| MAL07061387AZ | BACQURE FOR IV INJECTION 500MG | Kombinasi | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL23046015AZ | NIMEDINE Imipenem + Cilastatin (500+500) mg/vial Powder for Solution for Infusion | Kombinasi | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL23116010AZ | Lastinem-500 (Imipenem and Cilastatin Powder for Solution for Infusion 500 mg/ 500mg) | Kombinasi | UNIMED SDN. BHD. | Sah |
+| MAL16025041ACRZ | IMIPENEM /CILASTATIN Kabi 500 mg/ 500 mg, Powder for solution for infusion | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

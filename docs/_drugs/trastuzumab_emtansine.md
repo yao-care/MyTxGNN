@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 697
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Trastuzumab Emtansine: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -75,10 +75,14 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Trastuzumab Emtansine (skor â
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL14075032ACRZ | Kadcyla 100 mg powder for concentrate for solution for infus |  | Sah |
-| MAL14075031ACRZ | Kadcyla 160 mg powder for concentrate for solution for infus |  | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL14075032ACRZ | Kadcyla 100 mg powder for concentrate for solution for infusion | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL14075031ACRZ | Kadcyla 160 mg powder for concentrate for solution for infusion | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Kesan Sitotoksik
 

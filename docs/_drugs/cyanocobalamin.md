@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Cyanocobalamin"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyanocobalamin: indikasi baharu diramal biotin metabolic disease (tahap bukti L5). Indikasi asal: Kekurangan vitamin B12, anemia pernisiosa…"
 ---
 
@@ -86,15 +86,21 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Senarai di bawah ialah sebahagian daripada lesen produk bahan tunggal cyanocobalamin. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19961336AZ | Pharmaniaga Cyanocobalamin 100mcg/ml Injection | Tiada data | Tiada data |
-| MAL19961337AZ | Pharmaniaga Cyanocobalamin 1000mcg/ml Injection | Tiada data | Tiada data |
-| MAL11070015AZ | Cabamine Injection 1000mcg/ml | Tiada data | Tiada data |
-| MAL23056017AZ | CB12 Solution for Injection 1000mcg/ml | Tiada data | Tiada data |
-| MAL16055001NCZ | NATURE'S BOUNTY VITAMIN B-12 500mcg tablets | Tiada data | Tiada data |
+<!-- licenses:begin -->
 
-Jumlah pendaftaran ialah 486 (470 sah), termasuk 472 produk kombinasi (kebanyakannya multivitamin dan vitamin B kompleks). Lesen produk kombinasi tidak digunakan untuk menggambarkan status kelulusan bahan tunggal.
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19961336AZ | Pharmaniaga Cyanocobalamin 100mcg/ml Injection | Bahan tunggal | PHARMANIAGA LIFESCIENCE SDN. BHD. | Sah |
+| MAL19961337AZ | Pharmaniaga Cyanocobalamin 1000mcg/ml Injection | Bahan tunggal | PHARMANIAGA LIFESCIENCE SDN. BHD. | Sah |
+| MAL11070015AZ | Cabamine Injection 1000mcg/ml | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL23056017AZ | CB12 Solution for Injection 1000mcg/ml | Bahan tunggal | NANG KUANG PHARM SDN. BHD. | Sah |
+| MAL16055001NCZ | NATURE'S BOUNTY VITAMIN B-12 500mcg tablets | Bahan tunggal | NEWAGE SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 486 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+Kebanyakan pendaftaran (bilangan semasa dalam Gambaran Ringkas) ialah produk kombinasi (kebanyakannya multivitamin dan vitamin B kompleks). Lesen produk kombinasi tidak digunakan untuk menggambarkan status kelulusan bahan tunggal.
 
 <!-- review:begin my-lic-20261112-cyanocobalamin-1 -->
 
@@ -133,7 +139,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-17 | Bilangan pendaftaran: “Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi” → “Jumlah pendaftaran ialah 486 (470 sah), termasuk 472 produk kombinasi” | Dibetulkan (disemak 2026-11-17; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
+| 2026-11-17 | Bilangan pendaftaran: “Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi” → “Kebanyakan pendaftaran (bilangan semasa dalam Gambaran Ringkas) ialah ” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d) |
 
 <!-- review:end log -->

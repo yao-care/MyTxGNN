@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Beclomethasone Dipropionate"
 predicted_indications: ["atopic eczema"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Beclomethasone Dipropionate: indikasi baharu diramal Ekzema atopik (tahap bukti L5). Indikasi asal: Asma, asma intrinsik, asma alergi, rinitis alergi, rinitis vasomotor…"
 ---
 
@@ -85,13 +85,19 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data yang dikumpulkan untuk laporan ini. Di bawah disenaraikan 5 daripada 27 pendaftaran produk tunggal yang sah.
 
-| Nombor Kelulusan | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL06111295AZ | Beclate-100 Inhaler (CFC Free) | Cipla Malaysia Sdn Bhd |
-| MAL19970047AZ | Beclomet Easyhaler 200mcg/dose Inhalation Powder | Orion Pharma (MY) Sdn. Bhd. |
-| MAL19973336AZ | Beclomet Nasal Aqua 50mcg/dose Nasal Spray | Orion Pharma (MY) Sdn. Bhd. |
-| MAL19971288ARZ | Beconase Aqueous Nasal Spray | GlaxoSmithKline Pharmaceutical Sdn. Bhd. |
-| MAL20000019ACZ | Qvar 100 Inhaler | iNova Pharmaceuticals (Singapore) Pte Ltd, Cawangan Malaysia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06111295AZ | Beclate-100 Inhaler (CFC Free) | Bahan tunggal | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL19970047AZ | BECLOMET EASYHALER 200MCG/DOSE INHALATION POWDER | Bahan tunggal | ORION PHARMA (MY) SDN. BHD. | Sah |
+| MAL19973336AZ | BECLOMET NASAL AQUA 50MCG/DOSE NASAL SPRAY | Bahan tunggal | ORION PHARMA (MY) SDN. BHD. | Sah |
+| MAL19971288ARZ | BECONASE AQUEOUS NASAL SPRAY | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL20000019ACZ | QVAR 100 INHALER | Bahan tunggal | iNova Pharmaceuticals (Singapore) Pte Ltd (incorporated In Singapore)… | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 27 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Nota: Produk yang didaftarkan ialah sedutan (inhaler) dan semburan hidung. Tiada produk topikal tunggal beclomethasone untuk ekzema disenaraikan di antara produk tunggal; krim kombinasi (contohnya Candid-B, Clomazol-B, Beclovid-C) mengandungi bahan aktif lain dan tidak boleh digunakan untuk menggambarkan status kelulusan ubat bahan tunggal ini.
 

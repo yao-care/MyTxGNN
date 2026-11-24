@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-24
 description: "Fluconazole: indikasi baharu diramal Keratokonjunktivitis epitelium berpunktum (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 28 (sah: 27)"
 ---
 
@@ -83,13 +83,19 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 Teks indikasi yang diluluskan tidak tersedia dalam rekod. Lima contoh:
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19920034ACZ | DIFLUCAN CAPSULE 100MG (Pfizer) | Kapsul | Tiada teks indikasi dalam rekod |
-| MAL19913390ACZ | DIFLUCAN IV INFUSION 2MG/ML (100ML) (Pfizer) | Infusi IV | Tiada teks indikasi dalam rekod |
-| MAL06121027AZ | FLUCOZOLE 100 MG CAPSULES (SPG Pharma) | Kapsul | Tiada teks indikasi dalam rekod |
-| MAL20031732AZ | PHARMANIAGA FLUCONAZOLE CAPSULE 150MG | Kapsul | Tiada teks indikasi dalam rekod |
-| MAL18046182ARZ | Fluconazole Kabi 2mg/ml solution for infusion (Fresenius Kabi) | Infusi IV | Tiada teks indikasi dalam rekod |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19920034ACZ | DIFLUCAN CAPSULE 100MG | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL19913390ACZ | DIFLUCAN IV INFUSION 2MG/ML (100ML) | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL06121027AZ | FLUCOZOLE (100 MG CAPSULES) | Bahan tunggal | SPG PHARMA (MALAYSIA) SDN BHD | Sah |
+| MAL20031732AZ | PHARMANIAGA FLUCONAZOLE CAPSULE 150MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL18046182ARZ | Fluconazole Kabi 2mg/ml solution for infusion | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |
+
+Jadual di atas menyenaraikan 5 daripada 28 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Irbesartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Irbesartan: indikasi baharu diramal Penyakit buah pinggang hipertensif malignan (malignant hypertensive renal disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 47 (sah: 46)"
 ---
 
@@ -74,13 +74,19 @@ Buat masa ini tiada literatur berkaitan.
 
 Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan. Lima kelulusan bahan tunggal yang sah ditunjukkan di bawah (jumlah keseluruhan 47 pendaftaran; produk kombinasi tidak digunakan untuk menerangkan status kelulusan irbesartan bahan tunggal).
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19990972AZ | APROVEL 300MG Film-Coated Tablet | Tidak dinyatakan | Tidak dinyatakan |
-| MAL19990971AZ | APROVEL 150MG Film-Coated Tablets | Tidak dinyatakan | Tidak dinyatakan |
-| MAL20016135AZ | IRBEMAC 150MG Tablet | Tidak dinyatakan | Tidak dinyatakan |
-| MAL20016136AZ | IRBEMAC 300MG Tablet | Tidak dinyatakan | Tidak dinyatakan |
-| MAL12075073AZ | Irbel Tablets 150 mg | Tidak dinyatakan | Tidak dinyatakan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19990972AZ | APROVEL 300MG FILM-COATED TABLET | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL19990971AZ | APROVEL 150MG FILM-COATED TABLETS | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL20016135AZ | IRBEMAC 150MG TABLET (IRBESARTAN) | Bahan tunggal | SYNERRV SDN BHD | Sah |
+| MAL20016136AZ | IRBEMAC 300MG TABLET (IRBESARTAN) | Bahan tunggal | SYNERRV SDN BHD | Sah |
+| MAL12075073AZ | Irbel Tablets 150 mg | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 47 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Potassium citrate"
 predicted_indications: ["familial visceral myopathy", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Pendred syndrome", "cystinosis", "autosomal recessive nonsyndromic deafness", "exocrine pancreatic insufficiency", "leukocyte adhesion deficiency", "adult Fanconi syndrome"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Potassium Citrate: indikasi baharu diramal Miopati viseral keluarga (familial visceral myopathy) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 31 (sah: 30)"
 ---
 
@@ -74,17 +74,23 @@ Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lesen utama 
 
 <!-- review:begin my-lic-20261105-potassium_citrate-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data yang dikumpulkan menunjukkan 31 lesen yang sah, terdiri daripada 5 produk ramuan tunggal dan 26 produk gabungan. Tiada lesen yang dibatalkan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 31 pendaftaran (sah: 30); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data yang dikumpulkan menunjukkan 31 lesen yang sah, terdiri daripada 5 produk ramuan tunggal dan 26 produk gabungan. Tiada lesen yang dibatalkan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-potassium_citrate-1 -->
 
-| Nombor Kelulusan | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL19962488X | Rexom Potassium Citrate Mixture | KCK Pharmaceutical Industries Sdn. Bhd. |
-| MAL22056005NC | LAC Potassium 99 mg Capsule | LAC Global Brands (Malaysia) Sdn. Bhd. |
-| MAL19972539X | Prime's Mixture Potassium Citrate | Prime Pharmaceutical Sdn. Bhd. |
-| MAL19971318X | Urocit-K Tablet 10mEq (1080mg) | Somedico Sdn. Bhd. |
-| MAL19940179XC | U-Alkalizer Potassium Citrate Mixture | Teraputics Sdn Bhd |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19962488X | REXOM POTASSIUM CITRATE MIXTURE | Bahan tunggal | KCK PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL22056005NC | LAC Potassium 99 mg Capsule | Bahan tunggal | LAC GLOBAL BRANDS (MALAYSIA) SDN. BHD. | Sah |
+| MAL19972539X | Prime's Mixture Potassium Citrate | Bahan tunggal | PRIME PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19971318X | UROCIT-K TABLET 10MEQ (1080MG) | Bahan tunggal | SOMEDICO SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL19940179XC | U-ALKALIZER POTASSIUM CITRATE MIXTURE | Bahan tunggal | TERAPUTICS SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 31 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -115,7 +121,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Data yang dikumpulkan menunjukkan 31 lesen yang sah, terdiri daripada 5 produk ramuan tunggal dan 26 produk gabungan. Tiada lesen yang dibat" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Data yang dikumpulkan menunjukkan 31 lesen yang sah, terdiri daripada 5 produk ramuan tunggal dan 26 produk gabungan. Tiada lesen yang dibat" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

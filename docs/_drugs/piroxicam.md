@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Piroxicam"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Piroxicam: indikasi baharu diramal Colobomatous microphthalmia-rhizomelic dysplasia syndrome (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 8 (sah: 8)"
 ---
 
@@ -95,13 +95,19 @@ Hanya penerbitan yang mengkaji piroxicam atau NSAID dalam JIA secara langsung di
 
 Teks indikasi diluluskan dan bentuk dos tidak tersedia dalam rekod lesen.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19920515AZ | FELXICAM 20 CAPSULE | Tidak tersedia | Tidak tersedia |
-| MAL19930424AZ | ROSIDEN GEL | Tidak tersedia | Tidak tersedia |
-| MAL19930588AZ | ROSIDEN INJECTION 20MG/ML | Tidak tersedia | Tidak tersedia |
-| MAL19984713ARZ | APO-PIROXICAM CAPSULE 20MG | Tidak tersedia | Tidak tersedia |
-| MAL19950261AZ | ROXIM CAPSULE 10MG | Tidak tersedia | Tidak tersedia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19920515AZ | FELXICAM 20 CAPSULE | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL19930424AZ | ROSIDEN GEL | Bahan tunggal | THE ZYFAS MEDICAL CO., | Sah |
+| MAL19930588AZ | ROSIDEN INJECTION 20MG/ML | Bahan tunggal | THE ZYFAS MEDICAL CO., | Sah (pendaftaran bersyarat) |
+| MAL19984713ARZ | APO-PIROXICAM CAPSULE 20MG | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL19950261AZ | ROXIM CAPSULE 10MG | Bahan tunggal | PRIME PHARMACEUTICAL SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Lima daripada 8 pendaftaran disenaraikan. Selebihnya ialah ROXIM CAPSULE 20MG, PIRODENE CAPSULE 20MG dan PIRODENE CAPSULE 10MG.
 

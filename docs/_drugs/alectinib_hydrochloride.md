@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB11363
 monitor_inn: "Alectinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alectinib Hydrochloride: indikasi baharu diramal Fibromatosis gingiva (fibromatosis, gingival) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -79,9 +79,13 @@ Pada masa ini tiada literatur berkaitan yang mengkaji alectinib dalam fibromatos
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Pengilang | Status |
-|---------|------|------|------|
-| MAL18086130ACRZ | Alecensa (Alectinib) Hard Capsules 150mg | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18086130ACRZ | Alecensa (Alectinib) Hard Capsules 150mg | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Produk ini ialah produk ramuan tunggal.
 

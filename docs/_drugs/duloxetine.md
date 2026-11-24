@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Duloxetine: indikasi baharu diramal Benign paroxysmal torticollis of infancy (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 18 (sah: 16)"
 ---
 
@@ -92,7 +92,7 @@ Oleh itu, secara mekanistik duloxetine mungkin sesuai untuk agoraphobia. Namun b
 
 ## Maklumat Pasaran Malaysia
 
-Teks penunjuk yang diluluskan dan bentuk dos tidak tersedia dalam data yang disusun. Lima daripada 18 lesen disenaraikan (16 sah; MAL05092474ARZ dan MAL05092473ARZ, Cymbalta 60 mg dan 30 mg, tidak lagi tersenarai dalam daftar semasa NPRA):
+Teks penunjuk yang diluluskan dan bentuk dos tidak tersedia dalam data yang disusun. Lima lesen disenaraikan (MAL05092474ARZ dan MAL05092473ARZ, Cymbalta 60 mg dan 30 mg, tidak lagi tersenarai dalam daftar semasa NPRA; bilangan semasa dalam Gambaran Ringkas):
 
 <!-- review:begin my-lic-20261119-duloxetine-1 -->
 
@@ -100,15 +100,21 @@ Teks penunjuk yang diluluskan dan bentuk dos tidak tersedia dalam data yang disu
 
 <!-- review:end my-lic-20261119-duloxetine-1 -->
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Penunjuk Diluluskan |
-|---------|------|------|-----------|
-| MAL05092474ARZ | Cymbalta Capsule 60mg | Kapsul | Tidak tersedia |
-| MAL05092473ARZ | Cymbalta Capsule 30mg | Kapsul | Tidak tersedia |
-| MAL20172848AEZ | hovid-Duloxetine Capsule 30mg | Kapsul | Tidak tersedia |
-| MAL22076015AZ | ONELAR 60MG Hard Gastro-Resistant Capsules | Kapsul | Tidak tersedia |
-| MAL21016017AZ | CYMBALOX 60 mg Delayed-Release Capsules | Kapsul | Tidak tersedia |
+<!-- licenses:begin -->
 
-Senarai ini tidak lengkap; terdapat 18 lesen produk tunggal; 16 daripadanya sah dan 2 (Cymbalta 60 mg dan 30 mg) tidak lagi tersenarai dalam daftar semasa NPRA.
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL05092474ARZ | Cymbalta Capsule 60mg | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |
+| MAL05092473ARZ | Cymbalta Capsule 30mg | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |
+| MAL20172848AEZ | hovid-Duloxetine Capsule 30mg | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL22076015AZ | ONELAR 60MG HARD GASTRO-RESISTANT CAPSULES | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL21016017AZ | CYMBALOX 60 mg Delayed-Release Capsules | Bahan tunggal | GENPHARMA SDN. BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 18 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+Senarai ini tidak lengkap; semua lesen ialah produk tunggal; MAL05092474ARZ dan MAL05092473ARZ (Cymbalta 60 mg dan 30 mg) tidak lagi tersenarai dalam daftar semasa NPRA (bilangan semasa dalam Gambaran Ringkas).
 
 <!-- review:begin my-lic-20261119-duloxetine-2 -->
 
@@ -152,8 +158,8 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Pengenalan jadual: “Lima daripada 16 lesen sah” → 5 daripada 18 lesen (16 sah; 2 Cymbalta tidak lagi tersenarai) | Dibetulkan | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
-| 2026-11-19 | Bilangan pendaftaran: “18 lesen produk tunggal yang sah kesemuanya” → 18 lesen, 16 sah, 2 tidak lagi tersenarai | Dibetulkan | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
+| 2026-11-19 | Bilangan pendaftaran: “Lima daripada 16 lesen sah disenaraikan:” → “Lima lesen disenaraikan (MAL05092474ARZ dan MAL05092473ARZ, Cymbalta 6” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
+| 2026-11-19 | Bilangan pendaftaran: “terdapat 18 lesen produk tunggal yang sah kesemuanya” → “semua lesen ialah produk tunggal; MAL05092474ARZ dan MAL05092473ARZ (C” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Duloxetine Delayed-Release (duloxetine hydrochloride) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b) |
 
 <!-- review:end log -->

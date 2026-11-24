@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 504
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "MICONAZOLE"
 predicted_indications: ["acne (disease)"]
 description: "Miconazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 43 (sah: 42)"
@@ -90,7 +90,7 @@ Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan in
 
 <!-- review:begin my-lic-20261105-miconazole-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Miconazole berstatus dipasarkan di Malaysia, dengan sekurang-kurangnya 39 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 43 pendaftaran (sah: 42); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Miconazole berstatus dipasarkan di Malaysia, dengan sekurang-kurangnya 39 lesen sah dan tiada lesen yang dibatalkan. Butiran setiap lesen tidak tersedia dalam data yang dikumpulkan untuk laporan ini." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-miconazole-1 -->
 
@@ -125,7 +125,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Miconazole berstatus dipasarkan di Malaysia, dengan sekurang-kurangnya 39 lesen sah dan tiada lesen yang dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Miconazole berstatus dipasarkan di Malaysia, dengan sekurang-kurangnya 39 lesen sah dan tiada lesen yang dibatalkan" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Oravig (miconazole) prescribing information, Galt Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dc2427ff-e566-4b48-b289-9e51c011250a) |
 
 <!-- review:end log -->

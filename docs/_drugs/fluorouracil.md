@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "sickle cell-beta-thalassemia disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin c disease syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluorouracil: indikasi baharu diramal Rhabdomiosarkoma embrional botrioid pada vagina (tahap bukti L5). Indikasi asal: Tiada teks indikasi yang diluluskan dalam data lesen tempatan"
 ---
 
@@ -83,11 +83,15 @@ Sebagai konteks, bagi penyakit berkaitan yang lebih umum (rhabdomiosarkoma), han
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL09082788AZ | FLURAC INJECTION B.P. 50MG/ML | Tidak dinyatakan | Tidak dinyatakan |
-| MAL19871320AZ | VERRUMAL SOLUTION (produk kombinasi) | Tidak dinyatakan | Tidak dinyatakan |
-| MAL19950200ARZ | DBL® Fluorouracil Injection BP 500mg/10ml | Tidak dinyatakan | Tidak dinyatakan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09082788AZ | FLURAC INJECTION B.P. 50MG/ML | Bahan tunggal | JETPHARMA SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL19871320AZ | VERRUMAL SOLUTION | Kombinasi | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL19950200ARZ | DBL® Fluorouracil Injection BP 500mg/10ml | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

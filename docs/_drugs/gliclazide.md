@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 386
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Gliclazide: kegunaan diketahui dan status pasaran di Malaysia; buat masa ini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -73,40 +73,44 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 
 ## Maklumat Pasaran di Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL19960983AZ | GLIMICRON 80MG TABLET |  | Sah |
-| MAL16085024AZ | Rolazide Tablet 80mg |  | Sah |
-| MAL19962526AZ | MEXAN TABLET 80MG |  | Sah |
-| MAL20013374AZ | SUN-GLIZIDE TABLET 80MG |  | Sah |
-| MAL20013744AZ | PHARMANIAGA GLICLAZIDE TABLET 80MG |  | Sah |
-| MAL22036017AZ | Plecaz MR Tablet 60mg |  | Sah |
-| MAL12045002AZ | DIMAX MR TABLETS 30MG |  | Sah |
-| MAL20172884AEZ | Glimicron MR 60mg Tablet |  | Sah |
-| MAL22076029AZ | NICRON 80mg Tablet |  | Sah |
-| MAL22096024AZ | GLUCOSENSE MR 60mg Tablet |  | Sah |
-| MAL20021130AZ | DIAMICRON MR TABLET 30MG |  | Sah |
-| MAL22106019AZ | Diaglycon MR 60mg Modified Release Tablets |  | Sah |
-| MAL22106020AZ | Diaglycon MR 30mg Modified Release Tablets |  | Sah |
-| MAL12115054ACZ | Gluvecron MR 30 mg Tablet |  | Sah |
-| MAL08010764ACSZ | Diamicron MR,  Modified Release Tablet, 30mg |  | Sah |
-| MAL18026187AZ | OZICLIDE MR TABLETS 60 mg |  | Sah |
-| MAL08021494AZ | REMICRON MR TABLETS 30 mg |  | Sah |
-| MAL20132289ARZ | Apo-Gliclazide MR 30mg Tablets |  | Sah |
-| MAL13055061ACSZ | DIAMICRON MR 60MG, MODIFIED RELEASED TABLET |  | Sah |
-| MAL19870422AZ | DIAMICRON TABLET 0.08G |  | Sah |
-| MAL20033485AZ | DIATICA TABLET |  | Sah |
-| MAL19986963AZ | SAM CHUN DANG GLYCLAZIDE TABLET 80MG |  | Sah |
-| MAL24026050AZ | DIABEND - Gliclazide Tablets BP 80mg |  | Sah |
-| MAL19021006AZ | Gliclada 60mg Modified-Release Tablets |  | Sah |
-| MAL19046013ARZ | APO-GLICLAZIDE MR 60 mg tablets |  | Sah |
-| MAL19990603AZ | MELICRON TABLET |  | Sah |
-| MAL19991013AZ | DIANID TABLET |  | Sah |
-| MAL24096035AZ | AUROCLAZ 60 (Gliclazide Modified Release Tablets 60mg)  |  | Sah |
-| MAL19991352AZ | GLUCODEX TABLET |  | Sah |
-| MAL20086005AZ | IDAMAN PHARMA GLICLAZIDE TABLET 80MG |  | Sah |
+<!-- licenses:begin -->
 
-Data hanya mengandungi sebahagian pendaftaran; senarai mungkin tidak lengkap.
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19960983AZ | GLIMICRON 80MG TABLET | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL16085024AZ | Rolazide Tablet 80mg | Bahan tunggal | ROYCE PHARMA MANUFACTURING SDN. BHD. | Sah |
+| MAL19962526AZ | MEXAN TABLET 80MG | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL20013374AZ | SUN-GLIZIDE TABLET 80MG | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL20013744AZ | PHARMANIAGA GLICLAZIDE TABLET 80MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL22036017AZ | Plecaz MR Tablet 60mg | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL12045002AZ | DIMAX MR TABLETS 30MG | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL20172884AEZ | Glimicron MR 60mg Tablet | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL22076029AZ | NICRON 80mg Tablet | Bahan tunggal | Noripharma Sdn. Bhd. | Sah |
+| MAL22096024AZ | GLUCOSENSE MR 60mg Tablet | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL20021130AZ | DIAMICRON MR TABLET 30MG | Bahan tunggal | SERVIER MALAYSIA SDN. BHD. | Sah |
+| MAL22106019AZ | Diaglycon MR 60mg Modified Release Tablets | Bahan tunggal | NOVUGEN PHARMA SDN. BHD. | Sah |
+| MAL22106020AZ | Diaglycon MR 30mg Modified Release Tablets | Bahan tunggal | NOVUGEN PHARMA SDN. BHD. | Sah |
+| MAL12115054ACZ | Gluvecron MR 30 mg Tablet | Bahan tunggal | Abio Marketing Sdn Bhd | Sah |
+| MAL08010764ACSZ | Diamicron MR, Modified Release Tablet, 30mg | Bahan tunggal | SERVIER MALAYSIA SDN. BHD. | Sah |
+| MAL18026187AZ | OZICLIDE MR TABLETS 60 mg | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL08021494AZ | REMICRON MR TABLETS 30 mg | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL20132289ARZ | Apo-Gliclazide MR 30mg Tablets | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL13055061ACSZ | DIAMICRON MR 60MG, MODIFIED RELEASED TABLET | Bahan tunggal | SERVIER MALAYSIA SDN. BHD. | Sah |
+| MAL19870422AZ | DIAMICRON TABLET 0.08G | Bahan tunggal | SERVIER MALAYSIA SDN. BHD. | Sah |
+| MAL20033485AZ | DIATICA TABLET | Bahan tunggal | UNIMED SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL19986963AZ | SAM CHUN DANG GLYCLAZIDE TABLET 80MG | Bahan tunggal | THE ZYFAS MEDICAL CO., | Sah |
+| MAL24026050AZ | DIABEND - Gliclazide Tablets BP 80mg | Bahan tunggal | KCK PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL19021006AZ | Gliclada 60mg Modified-Release Tablets | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL19046013ARZ | APO-GLICLAZIDE MR 60 mg tablets | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL19990603AZ | MELICRON TABLET | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+| MAL19991013AZ | DIANID TABLET | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL24096035AZ | AUROCLAZ 60 (Gliclazide Modified Release Tablets 60mg) | Bahan tunggal | SYNERRV SDN BHD | Sah |
+| MAL19991352AZ | GLUCODEX TABLET | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20086005AZ | IDAMAN PHARMA GLICLAZIDE TABLET 80MG | Bahan tunggal | INSPIRAPHARMA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 30 daripada 36 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

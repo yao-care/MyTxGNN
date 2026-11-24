@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Vitamin E"
 predicted_indications: ["inborn disorder of bilirubin metabolism", "bilirubin metabolism disease", "hereditary North American Indian childhood cirrhosis", "drug-induced liver injury", "microvillus inclusion disease", "hyperbiliverdinemia", "Navajo neurohepatopathy", "nevus of Ito", "adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency", "mitochondrial DNA depletion syndrome, hepatocerebral form"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Vitamin E: indikasi baharu diramal Inborn disorder of bilirubin metabolism (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 251 (sah: 230)"
 ---
 
@@ -70,7 +70,7 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-Vitamin E didaftarkan dalam 251 produk (230 sah, 21 telah tamat tempoh, dibatalkan atau digantikan dengan nombor pendaftaran baharu). Daripada jumlah itu, 36 ialah produk bahan tunggal dan 215 ialah produk kombinasi. Teks indikasi diluluskan dan bentuk dos tidak direkodkan, jadi lajur tersebut tidak disenaraikan. Berikut ialah 5 contoh produk bahan tunggal:
+Vitamin E didaftarkan dalam banyak produk; ada yang telah tamat tempoh, dibatalkan atau digantikan dengan nombor pendaftaran baharu (bilangan dan status semasa terdapat dalam Gambaran Ringkas). Daripada jumlah itu, sebahagian kecil ialah produk bahan tunggal dan selebihnya produk kombinasi. Teks indikasi diluluskan dan bentuk dos tidak direkodkan, jadi lajur tersebut tidak disenaraikan. Berikut ialah 5 contoh produk bahan tunggal:
 
 <!-- review:begin my-lic-20261112-vitamin_e-1 -->
 
@@ -84,13 +84,19 @@ Vitamin E didaftarkan dalam 251 produk (230 sah, 21 telah tamat tempoh, dibatalk
 
 <!-- review:end my-lic-20261112-vitamin_e-2 -->
 
-| Nombor Kelulusan | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL21056038NCR | YesHealth Yes Vitamin E 400 I.U. Softgel | YES HEALTH SDN BHD |
-| MAL06061401X | Nusasa Natural Vitamin E 400IU | D-WAY SDN. BHD. |
-| MAL20013759XC | KORDEL'S E 400 IU CAPSULES | CAMBERT (M) SDN. BHD. |
-| MAL21086034N | REOXlife Vitamin E 125IU Capsule | BRAND8 NUTRACEUTICAL SDN. BHD. |
-| MAL16095011NCR | NATURERICH Vitamin E 200 IU softgels | PRO NUTRITION (MALAYSIA) SDN. BHD. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21056038NCR | YesHealth Yes Vitamin E 400 I.U. Softgel | Bahan tunggal | YES HEALTH SDN BHD | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL06061401X | Nusasa Natural Vitamin E 400IU | Bahan tunggal | D-WAY SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL20013759XC | KORDEL`S E 400 IU CAPSULES | Bahan tunggal | CAMBERT(M) SDN. BHD. | Dibatalkan Pendaftaran |
+| MAL21086034N | REOXlife Vitamin E 125IU Capsule | Bahan tunggal | BRAND8 NUTRACEUTICAL SDN. BHD. | Sah |
+| MAL16095011NCR | NATURERICH Vitamin E 200 IU softgels | Bahan tunggal | PRO NUTRITION (MALAYSIA) SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+
+Jadual di atas menyenaraikan 5 daripada 251 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -122,8 +128,8 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-17 | Bilangan pendaftaran: “Vitamin E didaftarkan dalam 245 produk (semuanya sah).” → “Vitamin E didaftarkan dalam 251 produk (230 sah, 21 telah tamat tempoh, dibatalk” | Dibetulkan (disemak 2026-11-17; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
-| 2026-11-12 | Bilangan pendaftaran: “36 ialah produk bahan tunggal dan 209 ialah produk kombinasi” → “36 ialah produk bahan tunggal dan 215 ialah produk kombinasi” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-17 | Bilangan pendaftaran: “Vitamin E didaftarkan dalam 245 produk (semuanya sah).” → “Vitamin E didaftarkan dalam banyak produk; ada yang telah tamat tempoh” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
+| 2026-11-12 | Bilangan pendaftaran: “36 ialah produk bahan tunggal dan 209 ialah produk kombinasi” → “sebahagian kecil ialah produk bahan tunggal dan selebihnya produk komb” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

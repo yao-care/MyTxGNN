@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "RITONAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ritonavir: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 13 (sah: 13)"
 ---
 
@@ -85,13 +85,19 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Teks indikasi lulus tidak tersedia dalam data lesen. Jumlah pendaftaran ialah 12, semuanya sah. Lesen produk kombinasi tidak boleh digunakan untuk menggambarkan kelulusan ritonavir tunggal; hanya dua produk tunggal disenaraikan sebagai ritonavir.
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Jenis |
-|---------|------|------|-----------|
-| MAL13015040ARZ | Norvir Tablet 100mg (AbbVie) | Tidak dinyatakan | Produk tunggal |
-| MAL17085058AZ | RITOVIR (Ritonavir Tablets 100 mg) (Camber Laboratories) | Tidak dinyatakan | Produk tunggal |
-| MAL08031363ARZ | Kaletra Film-Coated Tablet (AbbVie) | Tidak dinyatakan | Kombinasi |
-| MAL22036001ACZ | PAXLOVID (nirmatrelvir dan ritonavir) (Pfizer) | Tidak dinyatakan | Kombinasi |
-| MAL24096007AZ | ATAZOR-R (atazanavir 300mg/ritonavir 100mg) (Medispec) | Tidak dinyatakan | Kombinasi |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13015040ARZ | Norvir Tablet 100mg | Bahan tunggal | ABBVIE SDN BHD | Sah |
+| MAL17085058AZ | RITOVIR (Ritonavir Tablets 100 mg) | Bahan tunggal | CAMBER LABORATORIES SDN. BHD. | Sah |
+| MAL08031363ARZ | Kaletra Film-Coated Tablet | Kombinasi | ABBVIE SDN BHD | Sah |
+| MAL22036001ACZ | PAXLOVID (NIRMATRELVIR 150 MG FILM-COATED TABLETS AND RITONAVIR 100 MG FILM-COATED TABLETS) | Kombinasi | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL24096007AZ | ATAZOR-R (Atazanavir 300mg/Ritonavir 100mg) Film Coated Tablet | Kombinasi | MEDISPEC (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 13 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

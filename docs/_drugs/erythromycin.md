@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Erythromycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Erythromycin: indikasi baharu diramal Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 40 (sah: 40)"
 ---
 
@@ -86,13 +86,19 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 Teks indikasi yang diluluskan tidak tersedia dalam rekod pelesenan. Senarai di bawah ialah 5 daripada 40 pendaftaran.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19961700AZ | RETORIN POWDER FOR SUSPENSION 200MG/5ML | – | – |
-| MAL06051289AZ | ERITROTEX INJECTION 500MG | – | – |
-| MAL19962105AZ | DYNA ERYTHROMYCIN TABLET | – | – |
-| MAL22026006AZ | ERYTHROMED GRANULES 400 | – | – |
-| MAL20020154AZ | AXCEL ERYTHROMYCIN ES TABLET | – | – |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19961700AZ | RETORIN POWDER FOR SUSPENSION 200MG/5ML | Bahan tunggal | SM PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL06051289AZ | ERITROTEX INJECTION 500MG | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL19962105AZ | DYNA ERYTHROMYCIN TABLET | Bahan tunggal | DYNAPHARM (M) SDN. BHD. | Sah |
+| MAL22026006AZ | ERYTHROMED GRANULES 400 (Erythromycin 400mg/5ml Granules for Oral Suspension) | Bahan tunggal | KCK PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL20020154AZ | AXCEL ERYTHROMYCIN ES TABLET | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 40 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Nota: pendaftaran ini termasuk beberapa produk untuk kegunaan veterinar (serbuk larut air), dan satu produk gabungan (E-SOL GEL) yang tidak boleh digunakan untuk menggambarkan kelulusan bahan tunggal.
 

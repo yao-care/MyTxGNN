@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Nefopam"
 predicted_indications: ["tetanic cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "mature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "lumbar spinal stenosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Nefopam: indikasi baharu diramal Tetanic cataract (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -84,9 +84,13 @@ Nefopam berpotensi relevan sebagai analgesik perioperatif dalam pembedahan tulan
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL13070001ACZ | ACUPAN SOLUTION FOR INJECTION 20MG/2ML | Suntikan (larutan) | Tiada teks indikasi tersedia dalam data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13070001ACZ | ACUPAN SOLUTION FOR INJECTION 20MG/2ML | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

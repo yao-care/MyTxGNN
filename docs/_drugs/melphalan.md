@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Melphalan"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Melphalan: indikasi baharu diramal Karsinoma payudara wanita (tahap bukti L5). Indikasi asal: Teks penunjuk yang diluluskan tidak tersedia dalam data lesen"
 ---
 
@@ -87,10 +87,14 @@ Ramalan lain dalam senarai (adenokarsinoma mucinous rektum, kolon, pundi hempedu
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Penunjuk yang Diluluskan |
-|---------|------|------|-----------|
-| MAL07101257ACZ | Alkeran Tablets 2mg | Tidak dinyatakan | Tidak dinyatakan dalam data |
-| MAL05061512ACZ | Alkeran Injection 50mg | Tidak dinyatakan | Tidak dinyatakan dalam data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL07101257ACZ | Alkeran Tablets 2mg | Bahan tunggal | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+| MAL05061512ACZ | Alkeran Injection 50mg | Bahan tunggal | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+
+<!-- licenses:end -->
 
 Kedua-dua produk dikeluarkan oleh Aspen Medical Products Malaysia Sdn Bhd dan berstatus sah.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FLUOCINOLONE ACETONIDE"
 predicted_indications: ["lichen planus pemphigoides"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluocinolone Acetonide: indikasi baharu diramal Lichen planus pemphigoides (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
@@ -71,11 +71,15 @@ Buat masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19872018AZ | SUPRICORT CREAM 0.025% W/V (bahan tunggal) | Krim | Tiada teks indikasi tersedia |
-| MAL20061541ACRZ | TRI-LUMA CREAM (kombinasi) | Krim | Tiada teks indikasi tersedia |
-| MAL15085079AZ | Cetraxal Plus Ear Drops Solution (kombinasi) | Titisan telinga | Tiada teks indikasi tersedia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19872018AZ | SUPRICORT CREAM 0.025% W/V | Bahan tunggal | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. | Sah |
+| MAL20061541ACRZ | TRI-LUMA CREAM | Kombinasi | Galderma Malaysia Sdn Bhd | Sah |
+| MAL15085079AZ | Cetraxal Plus Ear Drops Solution | Kombinasi | HYPHENS PHARMA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Nota: Dua daripada tiga lesen ialah produk kombinasi, maka ia tidak boleh digunakan untuk menggambarkan kelulusan bahan tunggal. Teks indikasi lesen tidak tersedia, jadi indikasi yang diluluskan di Malaysia tidak dapat disahkan daripada data ini.
 

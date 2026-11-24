@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dexamethasone: indikasi baharu diramal Alopesia musinosa (alopecia mucinosa) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 41 (sah: 37)"
 ---
 
@@ -70,21 +70,27 @@ Buat masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran di Malaysia
 
-Status pasaran: **Dipasarkan**. Antara lesen yang sah, 22 ialah produk bahan tunggal dan selebihnya produk gabungan. Jadual di bawah menyenaraikan lima lesen produk bahan tunggal yang sah; bentuk dos tidak direkodkan dalam data tempatan.
+Status pasaran: **Dipasarkan**. Lesen yang direkodkan merangkumi produk bahan tunggal dan produk gabungan; bilangan dan status semasa terdapat dalam Gambaran Ringkas. Jadual di bawah menyenaraikan lima lesen produk bahan tunggal yang sah; bentuk dos tidak direkodkan dalam data tempatan.
 
 <!-- review:begin my-lic-20261105-dexamethasone-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Daripada keseluruhan 38 lesen, 36 masih sah dan 2 telah dibatalkan. Antara lesen yang sah, 22 ialah produk bahan tunggal dan selebihnya produk gabungan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 41 pendaftaran (sah: 37); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Daripada keseluruhan 38 lesen, 36 masih sah dan 2 telah dibatalkan. Antara lesen yang sah, 22 ialah produk bahan tunggal dan selebihnya produk gabungan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-dexamethasone-1 -->
 
-| Nombor Kelulusan | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL20162625ACREZ | hovid Dexamethasone Phosphate Injection 4mg/ml | Hovid Berhad |
-| MAL06071071ASZ | SW-Dexasone Tablet 0.5mg | Sunward Pharmaceutical Sdn. Bhd. |
-| MAL17015024ACRZ | Dexaltin Oral Paste | Pharmaforte (Malaysia) Sdn. Bhd. |
-| MAL20013450AZ | Dexin Injection 2ml | SM Pharmaceuticals Sdn. Bhd. |
-| MAL19890182ARZ | Maxidex Ophthalmic Suspension | Novartis Corporation (Malaysia) Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06071071ASZ | SW-Dexasone Tablet 0.5mg | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL17015024ACRZ | Dexaltin Oral Paste | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL20013450AZ | DEXIN INJECTION 2ML | Bahan tunggal | SM PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL19890182ARZ | MAXIDEX OPHTHALMIC SUSPENSION | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL13110046HA | DEXAVET 0.5% Injection | Bahan tunggal | RANGE PHARMA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 41 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -117,7 +123,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Daripada keseluruhan 38 lesen, 36 masih sah dan 2 telah dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Bilangan pendaftaran: “Daripada keseluruhan 38 lesen, 36 masih sah dan 2 telah dibatalkan. An” → “Lesen yang direkodkan merangkumi produk bahan tunggal dan produk gabun” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Hemady (dexamethasone) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b9cf32c-6d60-4853-bbfd-2304ffc2c129) |
 
 <!-- review:end log -->

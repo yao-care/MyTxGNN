@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Asfotase alfa"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Steel syndrome", "exocrine pancreatic insufficiency", "Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "familial apolipoprotein C-II deficiency", "esophageal varices without bleeding", "esophageal varices with bleeding", "cystinosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Asfotase Alfa: indikasi baharu diramal Gangguan fosforilasi oksidatif mitokondria akibat anomali DNA nukleus (tahap bukti L5). Indikasi asal: Tiada maklumat (teks indikasi pada lesen tidak tersedia)"
 ---
 
@@ -71,10 +71,14 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL25036138ACRZ | Strensiq 100mg/ml Solution for Injection | Tiada maklumat | Tiada maklumat |
-| MAL25036137ACRZ | Strensiq 40mg/ml Solution for Injection | Tiada maklumat | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL25036138ACRZ | Strensiq 100mg/ml Solution for Injection | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+| MAL25036137ACRZ | Strensiq 40mg/ml Solution for Injection | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Pengeluar kedua-dua produk: AstraZeneca Sdn. Bhd. Kedua-duanya berstatus sah dan merupakan produk bahan tunggal.
 

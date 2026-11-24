@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Danazol"
 predicted_indications: ["amenorrhea (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Danazol: indikasi baharu diramal Amenorea (amenorrhea (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
@@ -79,11 +79,15 @@ Buat masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 Terdapat 3 lesen sah bagi produk berbahan aktif tunggal.
 
-| Nombor Kebenaran | Nama Produk | Pengilang | Status |
-|---------|------|------|------|
-| MAL20033461AEZ | NAZOL CAPSULE 200MG | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
-| MAL19871961AZ | ANARGIL CAPSULE 200MG | KOMEDIC SDN BHD | Sah |
-| MAL19890682AZ | ANARGIL CAPSULES 100MG | KOMEDIC SDN BHD | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20033461AEZ | NAZOL CAPSULE 200MG | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL19871961AZ | ANARGIL CAPSULE 200MG | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL19890682AZ | ANARGIL CAPSULES 100MG | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ALFACALCIDOL"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alfacalcidol: indikasi baharu diramal Konodisplasia kraniofasial (tahap bukti L5). Indikasi asal: Hiperparatiroidisme, osteitis fibrosa…"
 ---
 
@@ -81,13 +81,19 @@ Buat masa ini tiada literatur berkaitan yang tersedia.
 
 Sebanyak 17 produk alfacalcidol berdaftar dan sah di Malaysia. Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan, jadi jadual ini tidak menyatakan indikasi berlesen. Lima produk utama disenaraikan di bawah.
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL21066036XC | Alfost 0.5mcg (Alfacalcidol Capsule) | UNIMED SDN. BHD. |
-| MAL06100623X | Medi-alpha 0.25mcg Capsule | MEGA LIFESCIENCES SDN. BHD. |
-| MAL07061574X | Alfacip 1mcg capsule | CIPLA MALAYSIA SDN BHD |
-| MAL14125078ACZ | One-Alpha Injection 2mcg/ml | DKSH MALAYSIA SDN. BHD. |
-| MAL19913212XC | ONE-ALPHA DROPS | DKSH MALAYSIA SDN. BHD. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21066036XC | Alfost 0.5mcg (Alfacalcidol Capsule) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL06100623X | Medi-alpha 0.25mcg Capsule | Bahan tunggal | MEGA LIFESCIENCES SDN. BHD. | Sah |
+| MAL07061574X | Alfacip 1mcg capsule | Bahan tunggal | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL14125078ACZ | One-Alpha Injection 2mcg/ml | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL19913212XC | ONE-ALPHA DROPS | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 17 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

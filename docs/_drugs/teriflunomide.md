@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 674
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Teriflunomide: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -72,10 +72,14 @@ Semua calon yang dijana oleh model TxGNN (skor ≥ 0.99) untuk Teriflunomide ial
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL25036160AZ | TENEX-Teriflunomide Film Coated Tablets 14 mg |  | Sah |
-| MAL15045075AZ | AUBAGIO 14mg Film-coated Tablets |  | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL25036160AZ | TENEX-Teriflunomide Film Coated Tablets 14 mg | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL15045075AZ | AUBAGIO 14mg Film-coated Tablets | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Bedaquiline"
 predicted_indications: ["vulvovaginal candidiasis", "fascioliasis", "urea cycle disorder", "esophageal candidiasis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bedaquiline: indikasi baharu diramal Kandidiasis vulvovaginal (vulvovaginal candidiasis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -81,9 +81,13 @@ Pada masa ini tiada penerbitan berkaitan yang tersedia.
 
 Status keseluruhan: dipasarkan. Terdapat 1 pendaftaran yang sah (produk tunggal), tiada yang dibatalkan.
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Pengilang |
-|---------|------|------|-----------|
-| MAL20076070ACZ | SIRTURO 100MG TABLETS | Tidak direkodkan | JOHNSON & JOHNSON SDN. BHD. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20076070ACZ | SIRTURO 100MG TABLETS | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

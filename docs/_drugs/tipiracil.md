@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Tipiracil"
 predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "colonic lymphangioma", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "cavernous hemangioma of colon", "colorectal gastrointestinal stromal tumor"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tipiracil: indikasi baharu diramal Adenoma vilus sekum (cecum villous adenoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -71,10 +71,14 @@ Buat masa ini tiada literatur berkaitan untuk adenoma vilus sekum.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL20026040AZ | Lonsurf Film-coated Tablet 20 mg/8.19 mg (Trifluridine/Tipiracil) | Tiada data | Tiada data |
-| MAL20026039AZ | Lonsurf Film-coated Tablet 15 mg/6.14 mg (Trifluridine/Tipiracil) | Tiada data | Tiada data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20026040AZ | Lonsurf Film-coated Tablet 20 mg/8.19 mg (Trifluridine/Tipiracil) | Kombinasi | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL20026039AZ | Lonsurf Film-coated Tablet 15 mg/6.14 mg (Trifluridine/Tipiracil) | Kombinasi | ZUELLIG PHARMA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Kedua-dua kebenaran ialah produk gabungan (trifluridina/tipiracil) dan masih sah. Tiada produk tunggal tipiracil didaftarkan.
 

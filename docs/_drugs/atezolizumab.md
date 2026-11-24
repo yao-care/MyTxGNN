@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Atezolizumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atezolizumab: indikasi baharu diramal Adenokarsinoma ligamen uterus (tahap bukti L5). Indikasi asal: Karsinoma sel peralihan"
 ---
 
@@ -92,10 +92,14 @@ Empat ramalan lain (adenokarsinoma serous ligamen uterus, karsinoma sista adenoi
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL18026067ARZ | Tecentriq 60mg/ml Concentrate for Solution for Infusion | ROCHE (MALAYSIA) SDN. BHD. |
-| MAL25056017ARZ | Tecentriq 1875 mg/15ml Solution for Injection | ROCHE (MALAYSIA) SDN. BHD. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18026067ARZ | Tecentriq 60mg/ml Concentrate for Solution for Infusion | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL25056017ARZ | Tecentriq 1875 mg/15ml Solution for Injection | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Kedua-dua pendaftaran ialah produk satu bahan aktif dan berstatus sah. Bentuk dos dan teks indikasi yang diluluskan tidak tersedia dalam data.
 

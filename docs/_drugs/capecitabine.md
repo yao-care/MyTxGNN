@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Capecitabine: indikasi baharu diramal Adenokarsinoma gaster dan poliposis proksimal gaster (gastric adenocarcinoma and proximal polyposis of the stomach) (tahap bukti L5). Indikasi asal: Tidak direko…"
 ---
 
@@ -64,13 +64,19 @@ Skor ramalan sangat tinggi (0,9994), tetapi ia kelihatan mencerminkan kedekatan 
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL21126009AZ | CAPIIBINE 150 (Capecitabine Film-Coated Tablets 150mg USP) | – | Tidak direkodkan dalam data tempatan |
-| MAL21126008AZ | CAPIIBINE 500 (Capecitabine Film-Coated Tablets 500mg USP) | – | Tidak direkodkan dalam data tempatan |
-| MAL17117026AZ | INTACAPE 500MG TABLETS | – | Tidak direkodkan dalam data tempatan |
-| MAL23066015ACZ | CAPTAB Capecitabine 150 mg Film Coated Tablets | – | Tidak direkodkan dalam data tempatan |
-| MAL23066016ACZ | CAPTAB Capecitabine 500 mg Film Coated Tablets | – | Tidak direkodkan dalam data tempatan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21126009AZ | CAPIIBINE 150 (Capecitabine Film-Coated Tablets 150mg USP) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL21126008AZ | CAPIIBINE 500 (Capecitabine Film-Coated Tablets 500mg USP) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL17117026AZ | INTACAPE 500MG TABLETS | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL23066015ACZ | CAPTAB Capecitabine 150 mg Film Coated Tablets | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL23066016ACZ | CAPTAB Capecitabine 500 mg Film Coated Tablets | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Sebanyak 15 kebenaran sah didaftarkan; lima yang pertama disenaraikan di atas.
 

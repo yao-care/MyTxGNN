@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Glycine"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 description: "Glycine: indikasi baharu diramal Penyakit rongga hidung (tahap bukti L5). Indikasi asal: Rinitis alergi, rinitis vasomotor, faringitis, selesema biasa…"
 ---
 
@@ -90,13 +90,19 @@ Teks indikasi yang diluluskan dan bentuk dos tidak tersedia untuk rekod-rekod in
 
 <!-- review:begin my-lic-20261105-glycine-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data yang dihimpun menunjukkan 209 pendaftaran sah, dan senarai ini lengkap. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia untuk rekod-rekod ini." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 213 pendaftaran (sah: 204); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data yang dihimpun menunjukkan 209 pendaftaran sah, dan senarai ini lengkap. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia untuk rekod-rekod ini." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-glycine-1 -->
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL21116043N | DZR PHARMA L-GLYCINE 250MG CAPSULE | Kapsul (menurut nama produk) | Tiada teks indikasi tersedia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21116043N | DZR PHARMA L-GLYCINE 250MG CAPSULE | Bahan tunggal | DZR PHARMA MANUFACTURE SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 1 daripada 213 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 
@@ -130,7 +136,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Data yang dihimpun menunjukkan 209 pendaftaran sah, dan senarai ini lengkap" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Data yang dihimpun menunjukkan 209 pendaftaran sah, dan senarai ini lengkap" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

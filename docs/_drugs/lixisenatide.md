@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 470
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -88,10 +88,14 @@ Jeranji tiada kesusasteraan yang berkaitan tersedia.
 
 Dua lesen produk didaftarkan di bawah NPRA Malaysia untuk lixisenatide. Walau bagaimanapun, butiran lesen individu — seperti nama produk, bentuk dos, pengeluar, dan teks indikasi yang diluluskan — tidak dikembalikan dalam pakej bukti ini (kesemua medan adalah rentetan kosong).
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|----------------------|--------------|-------------|---------------------|
-| — | — | — | Butiran tidak tersedia dalam pakej bukti ini |
-| — | — | — | Butiran tidak tersedia dalam pakej bukti ini |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19056043AZ | Soliqua SoloStar 100units/mL+33mcg/mL solution for injection in a pre-filled pen | Kombinasi | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL19056044AZ | Soliqua SoloStar 100units/mL+50mcg/mL solution for injection in a pre-filled pen | Kombinasi | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Sila sahkan secara langsung melalui **portal e-Search NPRA**: https://www.npra.gov.my/index.php/en/industry/registration/product-registration/check-product-registration-status.html
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tamoxifen: indikasi baharu diramal Penyakit Paget payudara (mammary Paget disease) (tahap bukti L5). Indikasi asal: Tiada data (teks petunjuk kelulusan dalam rekod lesen kosong)"
 ---
 
@@ -96,9 +96,13 @@ Walau bagaimanapun, tiada bukti yang diberikan menunjukkan tamoxifen merawat pen
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19870703ARZ | NOLVADEX-D TABLET 20MG | Tiada data | Tiada data (pengilang: AstraZeneca Sdn. Bhd.) |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19870703ARZ | NOLVADEX-D TABLET 20MG | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

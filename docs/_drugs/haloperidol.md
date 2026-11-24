@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Haloperidol"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Haloperidol: indikasi baharu diramal Congenital disorder of glycosylation with defective fucosylation (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
@@ -80,11 +80,15 @@ Setakat ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19985177AZ | MANACE INJECTION (1ML AMP) | Tidak dinyatakan | Tidak dinyatakan dalam rekod |
-| MAL19985188AZ | HADOL-5 TABLETS | Tidak dinyatakan | Tidak dinyatakan dalam rekod |
-| MAL19861364AZ | Royce Haloperidol Tablet 1.5mg | Tidak dinyatakan | Tidak dinyatakan dalam rekod |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19985177AZ | MANACE INJECTION (1ML AMP) | Bahan tunggal | DUOPHARMA (M) SENDIRIAN BERHAD | Sah |
+| MAL19985188AZ | HADOL-5 TABLETS | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL19861364AZ | Royce Haloperidol Tablet 1.5mg | Bahan tunggal | ROYCE PHARMA MANUFACTURING SDN. BHD. | Sah (pendaftaran bersyarat) |
+
+<!-- licenses:end -->
 
 Ketiga-tiga pendaftaran ialah produk bahan aktif tunggal dan semuanya sah.
 

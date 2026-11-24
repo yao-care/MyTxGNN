@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Cefoperazone"
 predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "gout", "bronchitis", "meningococcal infection", "infectious otitis media", "IgG4-related sclerosing cholangitis"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Cefoperazone: indikasi baharu diramal Kolangitis sklerosis (sclerosing cholangitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 9 (sah: 8)"
 ---
 
@@ -70,7 +70,7 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **Dipasarkan**, dengan 8 lesen yang sah; 1 nombor pendaftaran lama (MAL19993017ASZ, SULPERAZON 1G IM/IV) tidak lagi tersenarai kerana produk yang sama kini berdaftar sebagai MAL19993017ACSZ. Butiran lesen individu tidak tersedia dalam data ini.
+Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **Dipasarkan**, dengan lesen yang sah (bilangan semasa dalam Gambaran Ringkas); 1 nombor pendaftaran lama (MAL19993017ASZ, SULPERAZON 1G IM/IV) tidak lagi tersenarai kerana produk yang sama kini berdaftar sebagai MAL19993017ACSZ. Butiran lesen individu tidak tersedia dalam data ini.
 
 <!-- review:begin my-lic-20261117-cefoperazone-1 -->
 
@@ -108,7 +108,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-17 | Status pendaftaran: “dengan 8 lesen yang sah dan tiada yang dibatalkan” → “dengan 8 lesen yang sah; 1 nombor pendaftaran lama (MAL19993017ASZ, SULPERAZON 1” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
+| 2026-11-17 | Bilangan pendaftaran: “dengan 8 lesen yang sah dan tiada yang dibatalkan” → “dengan lesen yang sah (bilangan semasa dalam Gambaran Ringkas); 1 nomb” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
 
 <!-- review:end log -->
 

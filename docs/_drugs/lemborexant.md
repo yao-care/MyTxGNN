@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 450
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Lemborexant: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -72,10 +72,14 @@ Model pembelajaran mendalam TxGNN (skor ≥ 0.99) menghasilkan calon untuk Lembo
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL22066114AZ | Dayvigo 5mg Film coated tablet |  | Sah |
-| MAL22066113AZ | Dayvigo 10mg Film coated tablet |  | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22066114AZ | Dayvigo 5mg Film coated tablet | Bahan tunggal | EISAI (MALAYSIA) SDN. BHD. | Sah |
+| MAL22066113AZ | Dayvigo 10mg Film coated tablet | Bahan tunggal | EISAI (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Keselamatan
 

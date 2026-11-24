@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "Ketoconazole"
 predicted_indications: ["acne (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ketoconazole: indikasi baharu diramal Jerawat (acne (disease)) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 33 (sah: 32)"
 ---
 
@@ -89,21 +89,27 @@ Skor TxGNN yang tinggi ialah ramalan pengiraan, bukan bukti klinikal. Mekanisme 
 
 ## Maklumat Pasaran di Malaysia
 
-Ketoconazole mempunyai 33 lesen berdaftar, 32 daripadanya sah dan 1 telah tamat tempoh (31 produk tunggal dan 2 produk kombinasi). Berikut ialah sebahagian lesen produk tunggal.
+Lesen ketoconazole yang berdaftar merangkumi produk tunggal dan produk kombinasi; ada yang telah tamat tempoh (bilangan dan status semasa terdapat dalam Gambaran Ringkas). Berikut ialah sebahagian lesen produk tunggal.
 
 <!-- review:begin my-lic-20261112-ketoconazole-1 -->
 
-> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Ketoconazole mempunyai 33 lesen berdaftar, semuanya sah (31" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 33 pendaftaran, 32 sah, 1 tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-12)**: Asalnya dinyatakan: "Ketoconazole mempunyai 33 lesen berdaftar, semuanya sah (31 produk tunggal dan 2 produk kombinasi)" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-09): 33 pendaftaran, 32 sah, 1 tamat tempoh. Angka semasa terdapat dalam Gambaran Ringkas. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261112-ketoconazole-1 -->
 
-| Nombor Kelulusan | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL19921254AZ | NIZORAL CREAM | Johnson & Johnson Sdn. Bhd. |
-| MAL19900346ACRZ | NIZORAL SHAMPOO 2% | Apex Pharmacy Marketing Sdn. Bhd. |
-| MAL19016012AE | Kezoral Tablet 200mg | Duopharma Manufacturing (Bangi) Sdn. Bhd. |
-| MAL19987375AZ | hovid-Ketoconazole Tablet 200 mg | Hovid Berhad |
-| MAL19986498AZ | YUCOMY TABLET 200MG | Y.S.P. Industries (M) Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19921254AZ | NIZORAL CREAM | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL19900346ACRZ | NIZORAL SHAMPOO 2% | Bahan tunggal | APEX PHARMACY MARKETING SDN. BHD. | Sah |
+| MAL19016012AE | Kezoral Tablet 200mg | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL19987375AZ | hovid-Ketoconazole Tablet 200 mg | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL19986498AZ | YUCOMY TABLET 200MG | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 33 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 
@@ -138,7 +144,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “Ketoconazole mempunyai 33 lesen berdaftar, semuanya sah (31” → “Ketoconazole mempunyai 33 lesen berdaftar, 32 daripadanya sah dan 1 telah tamat ” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-12 | Bilangan pendaftaran: “Ketoconazole mempunyai 33 lesen berdaftar, semuanya sah (31 produk tun” → “Lesen ketoconazole yang berdaftar merangkumi produk tunggal dan produk” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371) |
 
 <!-- review:end log -->

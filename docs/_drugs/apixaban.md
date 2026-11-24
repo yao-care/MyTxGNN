@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 84
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "APIXABAN"
 predicted_indications: ["migraine disorder"]
 description: "Apixaban: indikasi baharu diramal Migrain (migraine disorder) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 32 (sah: 30)"
@@ -76,7 +76,7 @@ Namun, laporan kes yang ada bercanggah dengan hipotesis ini: satu melaporkan mig
 
 ## Maklumat Pasaran Malaysia
 
-Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **dipasarkan**, dengan 30 lesen sah; 2 nombor pendaftaran lama (MAL23056021AZ, MAL23056022AZ) tidak lagi tersenarai kerana produk yang sama kini berdaftar sebagai MAL23056021ARZ dan MAL23056022ARZ. Butiran setiap lesen tidak disenaraikan dalam data yang ada.
+Data yang dikumpulkan untuk laporan ini menunjukkan status pasaran **dipasarkan**, dengan lesen yang sah (bilangan semasa dalam Gambaran Ringkas); 2 nombor pendaftaran lama (MAL23056021AZ, MAL23056022AZ) tidak lagi tersenarai kerana produk yang sama kini berdaftar sebagai MAL23056021ARZ dan MAL23056022ARZ. Butiran setiap lesen tidak disenaraikan dalam data yang ada.
 
 <!-- review:begin my-lic-20261112-apixaban-1 -->
 
@@ -115,7 +115,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-17 | Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan 30 lesen sah; 2 nombor pendaftaran lama (MAL23056021AZ, MAL23056022AZ) ti” | Dibetulkan (disemak 2026-11-17; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
+| 2026-11-17 | Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan lesen yang sah (bilangan semasa dalam Gambaran Ringkas); 2 nomb” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Eliquis (apixaban) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41a133ef-e461-48ad-8221-b735bdd0ec25) |
 
 <!-- review:end log -->

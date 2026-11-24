@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Phenytoin"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Phenytoin: indikasi baharu diramal Neoplasma saraf trigeminal (tahap bukti L5). Indikasi asal: Tidak tersedia dalam data lesen"
 ---
 
@@ -73,13 +73,17 @@ Kedua-dua penerbitan ini tidak mengkaji penyakit yang diramalkan itu sendiri.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL12055031ACRZ | Dilantin Oral Suspension 125mg/5ml | Viatris Sdn. Bhd. |
-| MAL17085008AZ | Pharmaniaga Phenytoin Sodium 250mg/5ml Injection | Pharmaniaga Lifescience Sdn. Bhd. |
-| MAL19860940ARZ | Dilantin Capsule 30mg | Viatris Sdn. Bhd. |
-| MAL19860935ARZ | Dilantin Capsule 100mg | Viatris Sdn. Bhd. |
-| MAL19970942ACRZ | Dilantin Steri-Vials 250mg/5ml | Viatris Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12055031ACRZ | Dilantin Oral Suspension 125mg/5ml | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+| MAL17085008AZ | Pharmaniaga Phenytoin Sodium 250mg/5ml Injection | Bahan tunggal | PHARMANIAGA LIFESCIENCE SDN. BHD. | Sah |
+| MAL19860940ARZ | DILANTIN CAPSULE 30MG | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+| MAL19860935ARZ | DILANTIN CAPSULE 100MG | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+| MAL19970942ACRZ | DILANTIN STERI-VIALS 250MG/5ML | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Kesemua 5 lesen ialah produk bahan tunggal dengan status sah. Teks indikasi yang diluluskan tidak tersedia dalam rekod lesen.
 

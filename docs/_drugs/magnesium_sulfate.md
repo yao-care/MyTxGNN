@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "MAGNESIUM SULFATE"
 predicted_indications: ["thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Magnesium Sulfate: indikasi baharu diramal Penyakit trombotik (thrombotic disease) (tahap bukti L3). Di Malaysia, pendaftaran NPRA: 12 (sah: 11)"
 ---
 
@@ -83,17 +83,23 @@ Senarai di bawah hanya memaparkan produk bahan tunggal. Teks indikasi yang dilul
 
 <!-- review:begin my-lic-20261105-magnesium_sulfate-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data tempatan merekodkan 12 lesen yang semuanya sah, iaitu 6 produk bahan tunggal dan 6 produk kombinasi. Senarai di bawah hanya memaparkan produk bahan tunggal." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 12 pendaftaran (sah: 11); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data tempatan merekodkan 12 lesen yang semuanya sah, iaitu 6 produk bahan tunggal dan 6 produk kombinasi. Senarai di bawah hanya memaparkan produk bahan tunggal." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-magnesium_sulfate-1 -->
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL19920441ACRZ | DBL Magnesium Sulfate Concentrated Injection | Pfizer (Malaysia) Sdn. Bhd. |
-| MAL21026038AZ | Pharmaniaga Magnesium Sulfate Concentrate 49.3% w/v Solution for Injection or Infusion | Pharmaniaga Lifescience Sdn. Bhd. |
-| MAL21056029AZ | Injecsol MgSO4 (Magnesium Sulfate 50% w/v Concentrated Injection) | Ain Medicare Sdn. Bhd. |
-| MAL22126035ACZ | Magnesium sulfate Kalceks 500 mg/ml solution for injection/infusion | Eucogen Sdn. Bhd. |
-| MAL23036016AZ | Magnesium sulfate / DEMO 50% w/v concentrate for solution for injection or infusion | Pahang Pharmacy Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19920441ACRZ | DBL® Magnesium Sulfate Concentrated Injection | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL21026038AZ | Pharmaniaga Magnesium Sulfate Concentrate 49.3% w/v Solution for Injection or Infusion | Bahan tunggal | PHARMANIAGA LIFESCIENCE SDN. BHD. | Sah |
+| MAL21056029AZ | INJECSOL MgSO4 (Magnesium Sulfate 50% w/v Concentrated Injection) | Bahan tunggal | AIN MEDICARE SDN. BHD. | Sah |
+| MAL22126035ACZ | Magnesium sulfate Kalceks 500mg/ml solution for injection/ infusion | Bahan tunggal | EUCOGEN SDN BHD | Sah |
+| MAL23036016AZ | Magnesium sulfate / DEMO 50% w/v concentrate for solution for injection or infusion | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 12 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -124,7 +130,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Data tempatan merekodkan 12 lesen yang semuanya sah, iaitu 6 produk bahan tunggal dan 6 produk kombinasi" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Data tempatan merekodkan 12 lesen yang semuanya sah, iaitu 6 produk bahan tunggal dan 6 produk kombinasi" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

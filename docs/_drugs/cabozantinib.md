@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Cabozantinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "angiolipoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cabozantinib: indikasi baharu diramal Liposarkoma (tahap bukti L5). Indikasi asal: Tiada data (teks indikasi lesen tidak tersedia)"
 ---
 
@@ -87,11 +87,15 @@ Perlu diingatkan bahawa percubaan yang ada merangkumi sarkoma tisu lembut secara
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL21046002ACZ | CABOMETYX 20mg film-coated tablets | Tiada data | Tiada data |
-| MAL21046003ACZ | CABOMETYX 40mg film-coated tablets | Tiada data | Tiada data |
-| MAL21046004ACZ | CABOMETYX 60mg film-coated tablets | Tiada data | Tiada data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21046002ACZ | CABOMETYX 20mg film-coated tablets | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah (kini disenaraikan sebagai MAL21046002ARCZ) |
+| MAL21046003ACZ | CABOMETYX 40mg film-coated tablets | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah (kini disenaraikan sebagai MAL21046003ARCZ) |
+| MAL21046004ACZ | CABOMETYX 60mg film-coated tablets | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah (kini disenaraikan sebagai MAL21046004ARCZ) |
+
+<!-- licenses:end -->
 
 Ketiga-tiga lesen dikeluarkan kepada Zuellig Pharma Sdn. Bhd. dan semuanya sah.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Simvastatin: indikasi baharu diramal Infark batang otak (tahap bukti L5). Indikasi asal: Hubungan yang direkodkan dalam graf pengetahuan: hipertrigliseridemia…"
 ---
 
@@ -74,13 +74,19 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk infark batang ota
 
 Senarai di bawah menunjukkan 5 daripada 50 lesen sahaja (teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan). Produk gabungan tidak disenaraikan.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL11100002ARZ | SimvaHEXAL 20mg Film-coated Tablet | Tidak tersedia | Tidak tersedia |
-| MAL19921416ARZ | ZOCOR Tablets 20mg | Tidak tersedia | Tidak tersedia |
-| MAL17035037AZ | Stavid Tablet 80 mg | Tidak tersedia | Tidak tersedia |
-| MAL20020473AZ | Simvor Tablets 20mg | Tidak tersedia | Tidak tersedia |
-| MAL22076004AZ | Covastin Tablet 40mg | Tidak tersedia | Tidak tersedia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11100002ARZ | SimvaHEXAL 20mg Film-coated Tablet | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL19921416ARZ | ZOCOR TABLETS 20MG | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+| MAL17035037AZ | Stavid Tablet 80 mg | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL20020473AZ | SIMVOR TABLETS 20MG | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL22076004AZ | COVASTIN TABLET 40MG | Bahan tunggal | GoodScience Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 50 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

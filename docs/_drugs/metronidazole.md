@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metronidazole: indikasi baharu diramal Pneumocystosis (tahap bukti L5). Indikasi asal: Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan"
 ---
 
@@ -81,13 +81,19 @@ Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Pendaftaran tempatan menunjukkan ubat ini dipasarkan, dengan 28 lesen sah (23 produk bahan tunggal dan 5 produk kombinasi). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Contoh produk bahan tunggal:
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19920123AZ | B. Braun Metronidazole Intravenous Infusion 500mg in 100ml | Tidak direkodkan | Tidak direkodkan |
-| MAL19872182AZ | Metronol (Metronidazole 0.5% Inj) | Tidak direkodkan | Tidak direkodkan |
-| MAL19973017AZ | Dynidazol Tablet 400mg | Tidak direkodkan | Tidak direkodkan |
-| MAL20021367AZ | Frotin Film Coated Tablet 200mg | Tidak direkodkan | Tidak direkodkan |
-| MAL19973683AZ | Pharmaniaga Metronidazole Tablet 200mg | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19920123AZ | B. BRAUN METRONIDAZOLE INTRAVENOUS INFUSION 500MG IN 100ML PLASTIC CONTAINER | Bahan tunggal | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL19872182AZ | METRONOL (METRONIDAZOLE 0.5% INJ) | Bahan tunggal | AIN MEDICARE SDN. BHD. | Sah |
+| MAL19973017AZ | DYNIDAZOL TABLET 400MG | Bahan tunggal | DYNAPHARM (M) SDN. BHD. | Sah |
+| MAL20021367AZ | FROTIN FILM COATED TABLET 200MG | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL19973683AZ | PHARMANIAGA METRONIDAZOLE TABLET 200MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 28 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

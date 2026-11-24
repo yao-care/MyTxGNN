@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 113
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Azacitidine: kegunaan diketahui dan status pasaran di Malaysia; buat masa ini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -85,20 +85,24 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL22126024AZ | AZADUAL 100 (Azacitidine Powder for Suspension for Injection |  | Sah |
-| MAL18016051AZ | Avoxred (Azacitidine) powder for suspension for injection 10 |  | Sah |
-| MAL23036003ACZ | Azacitidine Seacross 100 mg/vial powder for suspension for i |  | Sah |
-| MAL23126017AZ | AZAPAN (Azacitidine Lyophilised Powder for suspension for In |  | Sah |
-| MAL24016016AZ | AZACT SPAL-P 100 (Azacitidine powder for suspension for inje |  | Sah |
-| MAL24036002ACRZ | Onureg 200 mg film-coated tablets |  | Sah |
-| MAL24036023ACZ | Andason Lyophilized Powder for Suspension for Injection 100m |  | Sah |
-| MAL24036001ACRZ | Onureg 300 mg film-coated tablets |  | Sah |
-| MAL19086009AZ | AZADINE (Azacitidine Powder for Suspension for Injection 100 |  | Sah |
-| MAL25016014AZ | AZASQUARE (Azacitidine Powder for Suspension for Injection 2 |  | Sah |
-| MAL20101997ACRZ | VIDAZA POWDER FOR SUSPENSION FOR INJECTION 100 MG /VIAL |  | Sah |
-| MAL26016029AZ | HEMAZA (Azacitidine Powder for Suspension for Injection 100m |  | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22126024AZ | AZADUAL 100 (Azacitidine Powder for Suspension for Injection 100mg/vial) | Bahan tunggal | MEGA LIFESCIENCES SDN. BHD. | Sah |
+| MAL18016051AZ | Avoxred (Azacitidine) powder for suspension for injection 100 mg/vial | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL23036003ACZ | Azacitidine Seacross 100 mg/vial powder for suspension for injection | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL23126017AZ | AZAPAN (Azacitidine Lyophilised Powder for suspension for Injection) 100mg/vial | Bahan tunggal | BioCare Pharmaceutical (M) Sdn. Bhd. | Sah |
+| MAL24016016AZ | AZACT SPAL-P 100 (Azacitidine powder for suspension for injection, 100 mg/vial) | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL24036002ACRZ | Onureg 200 mg film-coated tablets | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL24036023ACZ | Andason Lyophilized Powder for Suspension for Injection 100mg/vial | Bahan tunggal | Nano Medic Care Sdn. Bhd. | Sah |
+| MAL24036001ACRZ | Onureg 300 mg film-coated tablets | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL19086009AZ | AZADINE (Azacitidine Powder for Suspension for Injection 100mg/vial) | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL25016014AZ | AZASQUARE (Azacitidine Powder for Suspension for Injection 25mg/mL (100 mg/vial)) | Bahan tunggal | SYNERRV SDN BHD | Sah |
+| MAL20101997ACRZ | VIDAZA POWDER FOR SUSPENSION FOR INJECTION 100 MG /VIAL | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL26016029AZ | HEMAZA (Azacitidine Powder for Suspension for Injection 100mg/vial) | Bahan tunggal | CAMBER LABORATORIES SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

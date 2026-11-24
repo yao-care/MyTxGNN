@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Doxycycline: indikasi baharu diramal Keratokonjunktivitis epitelium berpunktat (tahap bukti L5). Indikasi asal: Tidak dinyatakan dalam teks indikasi pada rekod lesen yang dikumpulkan"
 ---
 
@@ -80,15 +80,27 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-Teks indikasi yang diluluskan dan bentuk dosej tidak tersedia dalam rekod lesen yang dikumpulkan. Banyak daripada 32 pendaftaran ialah produk serbuk larut air untuk kegunaan veterinar, jadi jadual di bawah hanya menyenaraikan 5 produk berbentuk tablet atau kapsul.
+Teks indikasi yang diluluskan dan bentuk dosej tidak tersedia dalam rekod lesen yang dikumpulkan. Banyak pendaftaran ialah produk serbuk larut air untuk kegunaan veterinar, jadi jadual di bawah hanya menyenaraikan 5 produk berbentuk tablet atau kapsul.
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL19860580AZ | Doxycillin Tablet 100mg | Duopharma Manufacturing (Bangi) Sdn. Bhd. |
-| MAL19860578AZ | Vibramycin Tablet 100mg | Pfizer (Malaysia) Sdn. Bhd. |
-| MAL19860568AZ | Medomycin Capsule 100mg | Komedic Sdn Bhd |
-| MAL19921000AZ | Doxycap 100mg | Hovid Berhad |
-| MAL19984405AZ | Dyna Doxycycline Capsule 100mg | Dynapharm (M) Sdn. Bhd. |
+<!-- review:begin my-lic-20261124-doxycycline-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Banyak daripada 32 pendaftaran ialah" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-23): bilangan yang dinyatakan ialah bilangan lama daripada data semasa laporan ditulis (32 pendaftaran; kini 33 pendaftaran). Bilangan pendaftaran berubah mengikut kemas kini mingguan data NPRA, jadi ayat ini tidak lagi menyatakan angka; bilangan semasa terdapat dalam Gambaran Ringkas dan jadual pendaftaran di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124-doxycycline-1 -->
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19860580AZ | DOXYCILLIN TABLET 100MG | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL19860578AZ | VIBRAMYCIN TABLET 100MG | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL19860568AZ | MEDOMYCIN CAPSULE 100MG | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL19921000AZ | DOXYCAP 100MG | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL19984405AZ | Dyna Doxycycline Capsule 100mg | Bahan tunggal | DYNAPHARM (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 33 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 
@@ -117,6 +129,19 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pakej produk.
 - Data mekanisme tindakan (MOA) yang terperinci
 - Amaran dan kontraindikasi daripada sisipan pakej yang diluluskan NPRA, serta teks indikasi yang diluluskan
 - Penilaian kesesuaian laluan pemberian (oral berbanding topikal mata), kerana tiada formulasi mata dalam rekod pendaftaran yang disemak
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Bilangan pendaftaran: “Banyak daripada 32 pendaftaran ialah” → “Banyak pendaftaran ialah” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

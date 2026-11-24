@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "VILDAGLIPTIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vildagliptin: indikasi baharu diramal Sindrom orang kaku klasik (classic stiff person syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 14 (sah: 14)"
 ---
 
@@ -72,15 +72,27 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran di Malaysia
 
-Teks indikasi yang diluluskan tidak tersedia dalam rekod lesen. Hanya lesen produk ramuan tunggal disenaraikan di bawah (5 daripada 7 lesen ramuan tunggal yang sah). Lima lesen lain ialah produk kombinasi dan tidak digunakan untuk menerangkan kelulusan vildagliptin tunggal.
+Teks indikasi yang diluluskan tidak tersedia dalam rekod lesen. Hanya lesen produk ramuan tunggal disenaraikan di bawah (sebahagian daripada lesen ramuan tunggal yang sah). Lima lesen lain ialah produk kombinasi dan tidak digunakan untuk menerangkan kelulusan vildagliptin tunggal.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Pengilang |
-|---------|------|------|-----------|
-| MAL20081792ARZ | GALVUS 50 MG TABLETS | Tablet | Novartis Corporation (Malaysia) Sdn. Bhd. |
-| MAL22116027AZ | VILDACORD (Vildagliptin Tablets 50 mg) | Tablet | Accord Healthcare Sdn. Bhd. |
-| MAL23036023AZ | Alvilda 50mg Tablets | Tablet | Lotus Healthcare Malaysia Sdn. Bhd. |
-| MAL23086014AZ | SUCRALO (Vildagliptin Tablets 50 mg) | Tablet | Ranbaxy (Malaysia) Sdn. Bhd. |
-| MAL24116016AZ | Glypvilo 50 mg tablets | Tablet | Pahang Pharmacy Sdn. Bhd. |
+<!-- review:begin my-lic-20261124-vildagliptin-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "(5 daripada 7 lesen ramuan tunggal yang sah)" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-23): bilangan yang dinyatakan ialah bilangan lama daripada data semasa laporan ditulis (7 lesen ramuan tunggal yang sah; kini 9 lesen bahan tunggal yang sah). Bilangan pendaftaran berubah mengikut kemas kini mingguan data NPRA, jadi ayat ini tidak lagi menyatakan angka; bilangan semasa terdapat dalam Gambaran Ringkas dan jadual pendaftaran di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124-vildagliptin-1 -->
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20081792ARZ | GALVUS 50 MG TABLETS | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL22116027AZ | VILDACORD (Vildagliptin Tablets 50 mg) | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL23036023AZ | Alvilda 50mg Tablets | Bahan tunggal | LOTUS HEALTHCARE MALAYSIA SDN. BHD. | Sah |
+| MAL23086014AZ | SUCRALO (Vildagliptin Tablets 50 mg) | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL24116016AZ | Glypvilo 50 mg tablets | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 14 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -107,11 +119,12 @@ Ramalan ini hanya berasaskan model (L5) tanpa sebarang percubaan klinikal atau p
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber (disemak 2026-11-20; versi terdahulu disimpan dalam rekod) | [ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703) |
+| 2026-11-24 | Bilangan pendaftaran: “(5 daripada 7 lesen ramuan tunggal yang sah)” → “(sebahagian daripada lesen ramuan tunggal yang sah)” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

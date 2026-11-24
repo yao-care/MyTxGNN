@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Magnesium Hydroxide"
 predicted_indications: ["stomach disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Magnesium Hydroxide: indikasi baharu diramal Penyakit perut (tahap bukti L5). Indikasi asal: Penyakit ulser peptik, penyakit refluks gastroesofagus, esofagitis…"
 ---
 
@@ -91,11 +91,23 @@ Penerbitan berikut diutamakan mengikut jenis kajian. Hampir semuanya melibatkan 
 
 ## Maklumat Pasaran di Malaysia
 
-Daripada 41 pendaftaran NPRA, hanya 1 ialah produk bahan tunggal. Selebihnya (40) ialah produk kombinasi dan tidak digunakan untuk menggambarkan status kelulusan magnesium hydroxide sebagai bahan tunggal. Rekod pendaftaran tidak menyediakan teks indikasi berlesen atau bentuk dos.
+Kebanyakan pendaftaran NPRA ialah produk kombinasi, dan produk bahan tunggal sangat sedikit (bilangan semasa dalam Gambaran Ringkas). Selebihnya (40) ialah produk kombinasi dan tidak digunakan untuk menggambarkan status kelulusan magnesium hydroxide sebagai bahan tunggal. Rekod pendaftaran tidak menyediakan teks indikasi berlesen atau bentuk dos.
 
-| Nombor Pendaftaran | Nama Produk | Pengeluar | Status |
-|---------|------|------|-----------|
-| MAL11085006X | Laxstoo Oral Suspension 800mg/5ml | Hoe Pharmaceuticals Sdn. Bhd. | Sah |
+<!-- review:begin my-lic-20261124-magnesium_hydroxide-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Daripada 41 pendaftaran NPRA, hanya 1 ialah produk bahan tunggal." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-23): bilangan yang dinyatakan ialah bilangan lama daripada data semasa laporan ditulis (41 pendaftaran; kini 46 pendaftaran). Bilangan pendaftaran berubah mengikut kemas kini mingguan data NPRA, jadi ayat ini tidak lagi menyatakan angka; bilangan semasa terdapat dalam Gambaran Ringkas dan jadual pendaftaran di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124-magnesium_hydroxide-1 -->
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11085006X | Laxstoo Oral Suspension 800mg/5ml | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 1 daripada 46 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 
@@ -122,6 +134,19 @@ Maklumat amaran utama dan kontraindikasi daripada sisipan pakej belum diperoleh.
 - Penentuan sub-indikasi perut yang spesifik dan belum diliputi oleh kegunaan sedia ada, seperti gastritis atau ulser tekanan.
 - Kajian atau ujian klinikal yang menilai magnesium hydroxide tunggal untuk sub-indikasi tersebut.
 - Rancangan pemantauan keselamatan untuk pesakit dengan gangguan fungsi buah pinggang dan pesakit yang mengambil ubat berinteraksi (terutamanya dolutegravir).
+
+<!-- review:begin log -->
+
+## Rekod Semakan
+
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+
+| Tarikh semakan | Perkara | Tindakan | Sumber |
+|------|------|------|------|
+| 2026-11-24 | Bilangan pendaftaran: “Daripada 41 pendaftaran NPRA, hanya 1 ialah produk bahan tunggal.” → “Kebanyakan pendaftaran NPRA ialah produk kombinasi, dan produk bahan t” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+
+<!-- review:end log -->
+
 ## Penafian
 
 Kandungan ini adalah untuk tujuan penyelidikan sahaja dan bukan nasihat perubatan.

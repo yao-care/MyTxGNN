@@ -370,8 +370,8 @@
     "i": "alopecia areata",
     "lt": 40,
     "lv": 40,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Bilangan pendaftaran: “Senarai di bawah ialah sebahagian daripada 38 pendaftaran.” → “Senarai di bawah ialah…",
     "x": 0
    },
    {
@@ -668,7 +668,7 @@
     "lt": 98,
     "lv": 97,
     "r": 2,
-    "rs": "Dipadam: \"Semua 97 lesen yang direkodkan berstatus sah\"",
+    "rs": "Bilangan pendaftaran: “Semua 97 lesen yang direkodkan berstatus sah. Daripadanya, 44 ialah pr” → “Lesen yang…",
     "x": 0
    },
    {
@@ -811,7 +811,7 @@
     "lt": 33,
     "lv": 32,
     "r": 2,
-    "rs": "Bilangan pendaftaran: “Ketoconazole mempunyai 33 lesen berdaftar, semuanya sah (31” → “Ketoconazole mempunyai…",
+    "rs": "Bilangan pendaftaran: “Ketoconazole mempunyai 33 lesen berdaftar, semuanya sah (31 produk tun” → “Lesen…",
     "x": 0
    },
    {
@@ -1009,7 +1009,7 @@
   "with_current": 520,
   "none_current": 3,
   "without_data": 0,
-  "with_reviews": 439,
+  "with_reviews": 442,
   "rows": [
    {
     "t": "Ascorbic Acid",
@@ -1052,7 +1052,7 @@
     "lt": 486,
     "lv": 470,
     "r": 2,
-    "rs": "Bilangan pendaftaran: “Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi” → “Jumlah pendaftaran…",
+    "rs": "Bilangan pendaftaran: “Jumlah pendaftaran ialah 428, termasuk 415 produk kombinasi” → “Kebanyakan pendaftaran…",
     "x": 0
    },
    {
@@ -1074,7 +1074,7 @@
     "lt": 314,
     "lv": 304,
     "r": 2,
-    "rs": "Bilangan pendaftaran: “Jumlah keseluruhan ialah 280 lesen” → “Terdapat 304 lesen sah daripada jumlah…",
+    "rs": "Bilangan pendaftaran: “Jumlah keseluruhan ialah 280 lesen” → “Bilangan lesen semasa terdapat dalam Gambaran…",
     "x": 0
    },
    {
@@ -1140,7 +1140,7 @@
     "lt": 161,
     "lv": 149,
     "r": 1,
-    "rs": "Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombi” → “Sebanyak 161…",
+    "rs": "Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi).” → “Pendaftaran…",
     "x": 0
    },
    {
@@ -1228,7 +1228,7 @@
     "lt": 80,
     "lv": 79,
     "r": 2,
-    "rs": "Bilangan pendaftaran: “Sebanyak 80 lesen direkodkan, kesemuanya sah (30” → “Sebanyak 80 lesen direkodkan, 79…",
+    "rs": "Bilangan pendaftaran: “Sebanyak 80 lesen direkodkan, kesemuanya sah (30 produk bahan tunggal ” → “Lesen yang…",
     "x": 0
    },
    {
@@ -1261,7 +1261,7 @@
     "lt": 67,
     "lv": 65,
     "r": 2,
-    "rs": "Bilangan pendaftaran: 67 pendaftaran; 65 sah, 1 tamat tempoh, 1 tidak lagi tersenarai dalam daftar semasa NPRA",
+    "rs": "Bilangan pendaftaran: “Sebanyak 64 lesen berdaftar dan semuanya sah (51 produk bahan tunggal,” → “Lesen yang…",
     "x": 0
    },
    {
@@ -1283,7 +1283,7 @@
     "lt": 66,
     "lv": 64,
     "r": 2,
-    "rs": "Bilangan pendaftaran: “Terdapat 63 pendaftaran produk pregabalin bahan tunggal yang” → “Terdapat 64…",
+    "rs": "Bilangan pendaftaran: “Terdapat 63 pendaftaran produk pregabalin bahan tunggal yang sah” → “Terdapat banyak…",
     "x": 0
    },
    {
@@ -1293,8 +1293,8 @@
     "i": "Prinzmetal angina",
     "lt": 62,
     "lv": 62,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 3,
+    "rs": "Bilangan pendaftaran: “Daripada 59 pendaftaran, 32 ialah produk tunggal (termasuk satu produk” → “Pendaftaran…",
     "x": 0
    },
    {
@@ -1392,8 +1392,8 @@
     "i": "stomach disease",
     "lt": 46,
     "lv": 46,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Bilangan pendaftaran: “Daripada 41 pendaftaran NPRA, hanya 1 ialah produk bahan tunggal.” → “Kebanyakan…",
     "x": 0
    },
    {
@@ -1403,8 +1403,8 @@
     "i": "duodenal obstruction",
     "lt": 46,
     "lv": 46,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Bilangan pendaftaran: “Di bawah ialah sebahagian daripada 45 pendaftaran” → “Di bawah ialah sebahagian…",
     "x": 0
    },
    {
@@ -1491,8 +1491,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 42,
     "lv": 42,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Bilangan pendaftaran: “27 pendaftaran lain ialah produk kombinasi” → “pendaftaran lain ialah produk kombinasi”",
     "x": 0
    },
    {
@@ -1514,7 +1514,7 @@
     "lt": 42,
     "lv": 40,
     "r": 2,
-    "rs": "Bilangan pendaftaran: “terdapat 42 lesen berdaftar, semuanya sah (41 produk” → “terdapat 42 lesen berdaftar…",
+    "rs": "Bilangan pendaftaran: “terdapat 42 lesen berdaftar, semuanya sah (41 produk ingredien tunggal” → “lesen yang…",
     "x": 0
    },
    {
@@ -1580,7 +1580,7 @@
     "lt": 41,
     "lv": 37,
     "r": 2,
-    "rs": "Dipadam: \"Daripada keseluruhan 38 lesen, 36 masih sah dan 2 telah dibatalkan\"",
+    "rs": "Bilangan pendaftaran: “Daripada keseluruhan 38 lesen, 36 masih sah dan 2 telah dibatalkan. An” → “Lesen yang…",
     "x": 0
    },
    {
@@ -1590,8 +1590,8 @@
     "i": "papillary conjunctivitis",
     "lt": 37,
     "lv": 37,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Bilangan pendaftaran: “sebahagian daripada 36 pendaftaran yang sah” → “sebahagian daripada pendaftaran yang…",
     "x": 0
    },
    {
@@ -1601,8 +1601,8 @@
     "i": "Konjunktivitis rosasea",
     "lt": 36,
     "lv": 36,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Bilangan pendaftaran: “Senarai di atas ialah 5 daripada 21 lesen.” → “Senarai di atas ialah sebahagian…",
     "x": 0
    },
    {
@@ -1624,7 +1624,7 @@
     "lt": 35,
     "lv": 35,
     "r": 2,
-    "rs": "Bilangan pendaftaran: “Terdapat 34 lesen, semuanya sah (25 produk bahan tunggal dan” → “Terdapat 35 lesen…",
+    "rs": "Bilangan pendaftaran: “Terdapat 34 lesen, semuanya sah (25 produk bahan tunggal dan 9 produk ” → “Lesen yang…",
     "x": 0
    },
    {
@@ -1689,8 +1689,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 33,
     "lv": 33,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "Bilangan pendaftaran: “Banyak daripada 32 pendaftaran ialah” → “Banyak pendaftaran ialah”",
     "x": 0
    },
    {
@@ -1745,7 +1745,7 @@
     "lt": 32,
     "lv": 30,
     "r": 2,
-    "rs": "Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan 30 lesen sah; 2 nombor…",
+    "rs": "Bilangan pendaftaran: “dengan 25 lesen sah dan tiada lesen dibatalkan” → “dengan lesen yang sah (bilangan…",
     "x": 0
    },
    {
@@ -1800,7 +1800,7 @@
     "lt": 29,
     "lv": 29,
     "r": 2,
-    "rs": "Bilangan pendaftaran: “Terdapat 28 lesen, semuanya sah (27 produk bahan tunggal dan” → “Terdapat 29 lesen…",
+    "rs": "Bilangan pendaftaran: “Terdapat 28 lesen, semuanya sah (27 produk bahan tunggal dan 1 produk ” → “Lesen yang…",
     "x": 0
    },
    {
@@ -1899,7 +1899,7 @@
     "lt": 29,
     "lv": 27,
     "r": 2,
-    "rs": "Bilangan pendaftaran: “Terdapat 23 pendaftaran sah, semuanya produk bahan tunggal.” → “Terdapat 27…",
+    "rs": "Bilangan pendaftaran: “Terdapat 23 pendaftaran sah, semuanya produk bahan tunggal.” → “Pendaftaran yang sah…",
     "x": 0
    },
    {
@@ -2372,7 +2372,7 @@
     "lt": 18,
     "lv": 16,
     "r": 3,
-    "rs": "Bilangan pendaftaran: “18 lesen produk tunggal yang sah kesemuanya” → 18 lesen, 16 sah, 2 tidak lagi…",
+    "rs": "Bilangan pendaftaran: “terdapat 18 lesen produk tunggal yang sah kesemuanya” → “semua lesen ialah produk…",
     "x": 0
    },
    {
@@ -2570,7 +2570,7 @@
     "lt": 15,
     "lv": 14,
     "r": 2,
-    "rs": "Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Daripada 15 pendaftaran, 14…",
+    "rs": "Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Kesemua pendaftaran…",
     "x": 0
    },
    {
@@ -2603,7 +2603,7 @@
     "lt": 14,
     "lv": 14,
     "r": 2,
-    "rs": "Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan 14 pendaftaran, semuanya sah)”",
+    "rs": "Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan pendaftaran yang sah; bilangan…",
     "x": 0
    },
    {
@@ -2613,8 +2613,8 @@
     "i": "Sindrom orang kaku klasik",
     "lt": 14,
     "lv": 14,
-    "r": 1,
-    "rs": "Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS",
+    "r": 2,
+    "rs": "Bilangan pendaftaran: “(5 daripada 7 lesen ramuan tunggal yang sah)” → “(sebahagian daripada lesen ramuan…",
     "x": 0
    },
    {
@@ -2955,7 +2955,7 @@
     "lt": 10,
     "lv": 9,
     "r": 2,
-    "rs": "Status pendaftaran: “Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibatalkan.” → “Terdapat…",
+    "rs": "Bilangan pendaftaran: “Terdapat 9 pendaftaran produk bahan tunggal, dengan 1 sah dan 1 dibata” → “Kesemua…",
     "x": 0
    },
    {
@@ -3043,7 +3043,7 @@
     "lt": 9,
     "lv": 8,
     "r": 1,
-    "rs": "Status pendaftaran: “dengan 8 lesen yang sah dan tiada yang dibatalkan” → “dengan 8 lesen yang sah; 1 nombor…",
+    "rs": "Bilangan pendaftaran: “dengan 8 lesen yang sah dan tiada yang dibatalkan” → “dengan lesen yang sah (bilangan…",
     "x": 0
    },
    {
@@ -4143,7 +4143,7 @@
     "lt": 5,
     "lv": 4,
     "r": 1,
-    "rs": "Bilangan pendaftaran: “5 lesen sah daripada 5” → 4 sah daripada 5",
+    "rs": "Bilangan pendaftaran: “(5 lesen sah daripada 5)” → “(lesen yang sah: lihat Gambaran Ringkas; MAL26026009X…",
     "x": 0
    },
    {

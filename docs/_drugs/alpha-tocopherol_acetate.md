@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "alpha-Tocopherol acetate"
 predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "tetanic cataract", "mature cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "cortical cataract", "nuclear senile cataract", "diabetic retinopathy"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Alpha-Tocopherol Acetate: indikasi baharu diramal Osteoporosis teraruh ubat (tahap bukti L5). Indikasi asal: Tiada teks indikasi yang diluluskan dalam data pendaftaran tempatan"
 ---
 
@@ -107,13 +107,19 @@ Tiada literatur berkaitan tersedia untuk osteoporosis teraruh ubat. Sebagai ruju
 
 Kelima-lima pendaftaran ialah produk gabungan dan sah. Status pasaran produk gabungan tidak boleh digunakan untuk menggambarkan bagaimana bahan tunggal ini diluluskan atau dipasarkan. Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL11060067XC | Shine Oramin Natural Korean Ginseng + Royal Jelly with Multivitamins and Minerals. | Tiada data | Tiada data |
-| MAL06061350X | Livovid | Tiada data | Tiada data |
-| MAL11070020X | VITASEN Daily Multi for Adults Chewable Tablet | Tiada data | Tiada data |
-| MAL19016015N | Shine Goldvite F Softgel | Tiada data | Tiada data |
-| MAL10021840X | SEVEN SEAS LIVOPRO | Tiada data | Tiada data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06061350X | Livovid | Kombinasi | HOVID BERHAD | Sah |
+| MAL11070020X | VITASEN Daily Multi for Adults Chewable Tablet | Kombinasi | WINWA MEDICAL SDN. BHD. | Sah |
+| MAL19016015N | Shine Goldvite F Softgel | Kombinasi | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL10021840X | SEVEN SEAS LIVOPRO | Kombinasi | HOVID BERHAD | Sah |
+| MAL06091389XR | BION 3 FILM COATED TABLET | Kombinasi | PROCTER & GAMBLE (MALAYSIA ) SDN.BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

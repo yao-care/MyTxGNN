@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01048
 monitor_inn: "Abacavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Abacavir Sulfate: indikasi baharu diramal Jangkitan virus imunodefisiensi simian (simian immunodeficiency virus infection) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
@@ -74,12 +74,18 @@ Penerbitan ini merupakan kajian in vitro dan tidak mengkaji secara langsung kebe
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL20001015ACRZ | ZIAGEN TABLET | – | Tidak direkodkan dalam data tempatan |
-| MAL20001014ACRZ | ZIAGEN ORAL SOLUTION | – | Tidak direkodkan dalam data tempatan |
-| MAL10100007AZ | ABACAVEX (Abacavir Tablets USP 300 mg) | – | Tidak direkodkan dalam data tempatan |
-| MAL09122043AZ | ABACAVEX (Abacavir Sulfate Oral Solution USP 20mg/ml) | – | Tidak direkodkan dalam data tempatan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20001015ACRZ | ZIAGEN TABLET | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL20001014ACRZ | ZIAGEN ORAL SOLUTION | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL10100007AZ | ABACAVEX (Abacavir Tablets USP 300 mg) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL09122043AZ | ABACAVEX (Abacavir Sulfate Oral Soliution USP 20mg/ml) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 4 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Nota: Jadual hanya menyenaraikan produk berbahan tunggal. Produk gabungan tidak digunakan untuk menggambarkan status kelulusan abacavir tunggal.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Adalimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Adalimumab: indikasi baharu diramal Hipermobiliti tulang ekor (hypermobility of coccyx) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 13 (sah: 10)"
 ---
 
@@ -78,13 +78,19 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi ini.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL21106016ACRZ | IDACIO solution for injection for paediatric use 40mg/0.8ml | Tiada rekod | Tiada rekod |
-| MAL21106015ACRZ | IDACIO solution for injection in pre-filled syringe 40mg/0.8ml | Tiada rekod | Tiada rekod |
-| MAL21106014ACRZ | IDACIO solution for injection in pre-filled pen 40mg/0.8ml | Tiada rekod | Tiada rekod |
-| MAL22016007ACZ | Hyrimoz 40mg/0.8ml Solution for Injection in Pre-Filled Pen | Tiada rekod | Tiada rekod |
-| MAL17107006ACRZ | Humira Solution for Injection in Pre-filled Pen 40mg/0.4ml | Tiada rekod | Tiada rekod |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22016007ACZ | Hyrimoz 40mg/0.8ml Solution for Injection in Pre-Filled Pen | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+| MAL17107006ACRZ | Humira Solution for Injection in Pre-filled Pen 40mg/0.4ml | Bahan tunggal | ABBVIE SDN BHD | Sah (pendaftaran bersyarat) |
+| MAL17107005ACRZ | Humira Solution for Injection in Pre-filled Syringe 40mg/0.4ml | Bahan tunggal | ABBVIE SDN BHD | Sah (pendaftaran bersyarat) |
+| MAL19056100AZ | AMGEVITA 20 mg/0.4 ml solution for injection in pre-filled syringe | Bahan tunggal | Amgen Biopharmaceuticals Malaysia Sdn Bhd | Sah |
+| MAL19056101AZ | AMGEVITA 40 mg/0.8 ml solution for injection in pre-filled syringe | Bahan tunggal | Amgen Biopharmaceuticals Malaysia Sdn Bhd | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 13 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Terdapat 10 kebenaran yang sah secara keseluruhan; lima yang utama disenaraikan di atas.
 

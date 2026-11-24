@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Folic Acid"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Folic Acid: indikasi baharu diramal Biotin metabolic disease (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 540 (sah: 527)"
 ---
 
@@ -72,13 +72,19 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 Teks indikasi yang diluluskan dan bentuk dosej tidak tersedia dalam rekod. Senarai di bawah hanya memaparkan produk **bahan tunggal** (5 yang utama); produk kombinasi tidak digunakan untuk menggambarkan status kelulusan asid folik bahan tunggal.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dosej | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19961654XCZ | FOLIMIL TABLET 5 MG | Tablet | Tiada teks indikasi dalam rekod |
-| MAL19961343XZ | Pharmaniaga Folic Acid Tablet 5mg | Tablet | Tiada teks indikasi dalam rekod |
-| MAL22026025NCZ | LAC Folic Acid 400 mcg Tablet | Tablet | Tiada teks indikasi dalam rekod |
-| MAL19912697XZ | Duafolic 5mg Tablet | Tablet | Tiada teks indikasi dalam rekod |
-| MAL19911152XZ | hovid-Folic Acid Tablet 5mg | Tablet | Tiada teks indikasi dalam rekod |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19961654XCZ | FOLIMIL TABLET 5 MG | Bahan tunggal | ZONTRON PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL19961343XZ | Pharmaniaga Folic Acid Tablet 5mg | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL22026025NCZ | LAC Folic Acid 400 mcg Tablet | Bahan tunggal | LAC GLOBAL BRANDS (MALAYSIA) SDN. BHD. | Sah |
+| MAL19912697XZ | Duafolic 5mg Tablet | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL19911152XZ | hovid-Folic Acid Tablet 5mg | Bahan tunggal | HOVID BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 540 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

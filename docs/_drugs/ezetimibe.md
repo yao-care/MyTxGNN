@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ezetimibe"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ezetimibe: indikasi baharu diramal Kekurangan protein pemindahan ester kolesterol (CETP) (tahap bukti L5). Indikasi asal: Hiperlipidemia"
 ---
 
@@ -78,15 +78,27 @@ Tiada kajian yang mengkaji kekurangan CETP secara langsung dengan ezetimibe. Dua
 
 ## Maklumat Pasaran Malaysia
 
-Teks indikasi lulus tidak tersedia dalam rekod lesen. Hanya produk ezetimibe tunggal disenaraikan di bawah (5 daripada 13 produk tunggal sah); 27 pendaftaran lain ialah produk kombinasi dan tidak digunakan untuk menggambarkan status kelulusan ezetimibe tunggal.
+Teks indikasi lulus tidak tersedia dalam rekod lesen. Hanya produk ezetimibe tunggal disenaraikan di bawah (5 daripada 13 produk tunggal sah); pendaftaran lain ialah produk kombinasi dan tidak digunakan untuk menggambarkan status kelulusan ezetimibe tunggal.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL20034627ACRZ | EZETROL 10MG | Tiada maklumat | Tiada maklumat |
-| MAL21076010AZ | ETIMICOL 10 (Ezetimibe Tablets 10mg) | Tiada maklumat | Tiada maklumat |
-| MAL21076017AZ | Ezzicad 10mg Tablets | Tiada maklumat | Tiada maklumat |
-| MAL20162606AEZ | hovid-Ezetimibe Tablet 10mg | Tiada maklumat | Tiada maklumat |
-| MAL19021005AZ | ACCORD EZETIMIBE 10 | Tiada maklumat | Tiada maklumat |
+<!-- review:begin my-lic-20261124-ezetimibe-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "27 pendaftaran lain ialah produk kombinasi" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-23): bilangan yang dinyatakan ialah bilangan lama daripada data semasa laporan ditulis (27 produk kombinasi; kini 29 produk kombinasi). Bilangan pendaftaran berubah mengikut kemas kini mingguan data NPRA, jadi ayat ini tidak lagi menyatakan angka; bilangan semasa terdapat dalam Gambaran Ringkas dan jadual pendaftaran di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124-ezetimibe-1 -->
+
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20034627ACRZ | EZETROL 10MG | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+| MAL21076010AZ | ETIMICOL 10 (Ezetimibe Tablets 10mg) | Bahan tunggal | SYNERRV SDN BHD | Sah |
+| MAL21076017AZ | Ezzicad 10mg Tablets | Bahan tunggal | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. | Sah |
+| MAL20162606AEZ | hovid-Ezetimibe Tablet 10mg | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL19021005AZ | ACCORD EZETIMIBE 10 (Ezetimibe Tablets 10 mg) | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 42 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -118,11 +130,12 @@ Ramalan ini hanya berasaskan model (L5): tiada ujian klinikal dan tiada kajian y
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: ezetimibe prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c37c695b-fb40-423c-9b73-d1aa58a34db9) |
+| 2026-11-24 | Bilangan pendaftaran: “27 pendaftaran lain ialah produk kombinasi” → “pendaftaran lain ialah produk kombinasi” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

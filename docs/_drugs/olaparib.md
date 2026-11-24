@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 542
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Olaparib: kegunaan sedia ada dan status pasaran di Malaysia; buat masa ini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -72,10 +72,14 @@ Model TxGNN menghasilkan calon untuk Olaparib dengan skor ≥ 0.99. Semua calon 
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL19106013ACRZ | Lynparza 150 mg Film-Coated Tablets |  | Sah |
-| MAL19106011ACRZ | Lynparza 100 mg Film-Coated Tablets |  | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19106013ACRZ | Lynparza 150 mg Film-Coated Tablets | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+| MAL19106011ACRZ | Lynparza 100 mg Film-Coated Tablets | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

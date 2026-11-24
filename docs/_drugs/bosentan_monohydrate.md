@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB00559
 monitor_inn: "Bosentan"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bosentan Monohydrate: indikasi baharu diramal Artritis reumatoid (rheumatoid arthritis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
@@ -93,12 +93,16 @@ Tiada satu pun kajian di bawah menilai bosentan secara langsung pada pesakit art
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19021007AZ | PROART TABLETS 62.5MG | – | – |
-| MAL19021008AZ | PROART TABLETS 125MG | – | – |
-| MAL20041085ACRZ | TRACLEER TABLET 125 MG | – | – |
-| MAL21016011AZ | Silkay 125mg Tablet | – | – |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19021007AZ | PROART TABLETS 62.5MG | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL19021008AZ | PROART TABLETS 125MG | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL20041085ACRZ | TRACLEER TABLET 125 MG | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL21016011AZ | Silkay 125mg Tablet | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

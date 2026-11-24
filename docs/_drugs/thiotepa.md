@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 678
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Thiotepa: kegunaan diketahui dan status pasaran di Malaysia; kini tiada indikasi calon baharu"
 predicted_indications: []
 ---
@@ -73,17 +73,17 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Thiotepa (skor ≥ 0.99) dan 
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL23066003AZ | TEPADINA 400 mg powder and solvent for solution for infusion |  | Nombor pendaftaran lama; produk yang sama kini didaftarkan sebagai MAL23066003ARZ |
-| MAL23066002ACRZ | TEPADINA 100 mg powder for concentrate for solution for infu |  | Sah |
-| MAL23066001ACRZ | TEPADINA 15 mg powder for concentrate for solution for infus |  | Sah |
+<!-- licenses:begin -->
 
-<!-- review:begin my-row-20261117-thiotepa-1 -->
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL23066003AZ | TEPADINA 400 mg powder and solvent for solution for infusion | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Nombor pendaftaran lama; produk yang sama kini didaftarkan sebagai MAL23066003ARZ |
+| MAL23066002ACRZ | TEPADINA 100 mg powder for concentrate for solution for infusion | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL23066001ACRZ | TEPADINA 15 mg powder for concentrate for solution for infusion | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
 
-> **Pembetulan semakan (2026-11-17)**: Asalnya dinyatakan: "MAL23066003AZ / TEPADINA 400 mg powder and solvent for solution for infusion /  / Status tidak dapat disahkan" Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, dimuat turun 2026-11-17): MAL23066003AZ tiada dalam daftar semasa mahupun senarai pembatalan; produk yang sama kini disenaraikan sebagai MAL23066003ARZ (PRODUCT APPROVED, 2023-06-08 hingga 2028-06-08). Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled).
+Jadual di atas menyenaraikan 3 daripada 4 pendaftaran NPRA bagi ubat ini.
 
-<!-- review:end my-row-20261117-thiotepa-1 -->
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -107,7 +107,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-17 | Status jadual: MAL23066003AZ “Status tidak dapat disahkan” → nombor lama, kini MAL23066003ARZ | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
+| 2026-11-17 | Status jadual: MAL23066003AZ “Status tidak dapat disahkan” → nombor lama, kini MAL23066003ARZ | Digantikan oleh jadual pendaftaran yang dijana program (asalnya: Dibetulkan) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products); [NPRA cancelled pharmaceutical products (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products_cancelled) |
 
 <!-- review:end log -->
 

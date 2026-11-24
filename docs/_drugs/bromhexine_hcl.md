@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 169
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -38,7 +38,7 @@ Tahap bukti: **L5** | Indikasi diramal: **0**
 
 ## Ringkasan Satu Ayat
 
-Bromheksina HCL adalah agen mukolotik yang telah terbukti dan luas digunakan untuk meredakan batuk produktif yang berkaitan dengan keadaan pernafasan. Model TxGNN **tidak menghasilkan sebarang ramalan penggunaan semula** untuk ubat ini. Dengan **38 pendaftaran** (36 sah) di Malaysia yang mengesahkan ketersediaan pasaran yang luas, pengayaan data lanjut (pemetaan DrugBank, MOA, profil keselamatan) diperlukan sebelum analisis penggunaan semula dapat dilakukan.
+Bromheksina HCL adalah agen mukolotik yang telah terbukti dan luas digunakan untuk meredakan batuk produktif yang berkaitan dengan keadaan pernafasan. Model TxGNN **tidak menghasilkan sebarang ramalan penggunaan semula** untuk ubat ini. Dengan **pendaftaran NPRA yang sah** di Malaysia (bilangan semasa dalam Gambaran Ringkas) yang mengesahkan ketersediaan pasaran yang luas, pengayaan data lanjut (pemetaan DrugBank, MOA, profil keselamatan) diperlukan sebelum analisis penggunaan semula dapat dilakukan.
 
 <!-- review:begin my-lic-20261112-bromhexine_hcl-1 -->
 
@@ -86,9 +86,15 @@ Pada masa ini tiada kesusasteraan yang berkaitan tersedia untuk penilaian, keran
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|------|------|------|------|
-| *(Butiran tidak tersedia)* | — | — | — |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06051428XZ | MUCOLIX ELIXIR | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 1 daripada 38 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 > **Nota:** Walaupun 37 pendaftaran NPRA telah diambil untuk Bromheksina HCL, butiran lesen individu (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi yang diluluskan) tidak diisi dalam pakej bukti. Pertanyaan susulan ke pangkalan data NPRA diperlukan untuk melengkapkan bahagian ini.
 
@@ -122,7 +128,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “Dengan **37 pendaftaran** di Malaysia” → “Dengan **38 pendaftaran** (36 sah) di Malaysia” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-12 | Bilangan pendaftaran: “Dengan **37 pendaftaran** di Malaysia” → “Dengan **pendaftaran NPRA yang sah** di Malaysia (bilangan semasa dala” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

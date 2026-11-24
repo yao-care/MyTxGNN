@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 346
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Evolocumab: indikasi baharu diramal Hemofilia simptomatik pada pembawa wanita (tahap bukti L5). Indikasi asal: Hiperkolesterolemia familial homozigot"
 monitor_inn: "EVOLOCUMAB"
 predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity"]
@@ -118,7 +118,7 @@ Untuk amaran utama dan kontraindikasi, sila rujuk sisipan pek produk.
 
 <!-- review:begin my-lic-20261105-evolocumab-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Sebarang bukti praklinikal atau klinikal yang menyokong hubungan antara laluan PCSK9 dengan penunjuk yang diramalkan / Pertimbangan status pasaran: evolocumab tidak berdaftar di Malaysia pada masa ini, jadi laluan pendaftaran perlu dinilai" Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 2 pendaftaran (sah: 2); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Sebarang bukti praklinikal atau klinikal yang menyokong hubungan antara laluan PCSK9 dengan penunjuk yang diramalkan / Pertimbangan status pasaran: evolocumab tidak berdaftar di Malaysia pada masa ini, jadi laluan pendaftaran perlu dinilai" Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-evolocumab-1 -->
 
@@ -130,7 +130,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Pertimbangan status pasaran: evolocumab tidak berdaftar di Malaysia pada masa ini, jadi laluan pendaftaran perlu dinilai" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Pertimbangan status pasaran: evolocumab tidak berdaftar di Malaysia pada masa ini, jadi laluan pendaftaran perlu dinilai" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Repatha (evolocumab) prescribing information, Amgen USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd61e902-166d-4aa6-9f3c-a18c1008d07e) |
 
 <!-- review:end log -->

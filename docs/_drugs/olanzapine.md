@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Olanzapine: indikasi baharu diramal Benign paroxysmal torticollis of infancy (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 34 (sah: 32)"
 ---
 
@@ -93,17 +93,23 @@ Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam rekod yang dik
 
 <!-- review:begin my-lic-20261105-olanzapine-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Terdapat 34 lesen yang sah, semuanya produk bahan tunggal. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam rekod yang dikumpulkan; senarai di bawah ialah sebahagian daripada lesen utama." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 34 pendaftaran (sah: 32); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Terdapat 34 lesen yang sah, semuanya produk bahan tunggal. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam rekod yang dikumpulkan; senarai di bawah ialah sebahagian daripada lesen utama." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-olanzapine-1 -->
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL04125491ACRZ | Zyprexa Zydis 10mg Orodispersible Tablet | Tablet orodispersibel | Tiada maklumat |
-| MAL08061564ARZ | Zyprexa Tablet 5mg | Tablet | Tiada maklumat |
-| MAL08061565ARZ | Zyprexa Tablet 10mg | Tablet | Tiada maklumat |
-| MAL19051005ARZ | Apo-Olanzapine 5mg Tablet | Tablet | Tiada maklumat |
-| MAL23096022AZ | Olmac 10 (Olanzapine Film-Coated Tablets USP 10 mg) | Tablet bersalut filem | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL04125491ACRZ | Zyprexa Zydis 10mg Orodispersible Tablet | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL08061564ARZ | Zyprexa Tablet 5mg | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL08061565ARZ | Zyprexa Tablet 10mg | Bahan tunggal | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL19051005ARZ | Apo-Olanzapine 5mg Tablet | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL23096022AZ | Olmac 10 (Olanzapine Film-Coated Tablets USP 10 mg) | Bahan tunggal | Macleods Pharmaceuticals Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 34 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 
@@ -146,7 +152,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Terdapat 34 lesen yang sah, semuanya produk bahan tunggal" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Terdapat 34 lesen yang sah, semuanya produk bahan tunggal" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

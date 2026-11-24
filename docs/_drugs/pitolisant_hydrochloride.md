@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB11642
 monitor_inn: "Pitolisant"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pitolisant Hydrochloride: indikasi baharu diramal Insomnia (insomnia (disease)) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -89,10 +89,14 @@ Tiada satu pun daripada penerbitan di bawah mengkaji insomnia sebagai penyakit s
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL25126011AEZ | Novugen Pitolisant Tablets 4.45mg | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-| MAL25126010AEZ | Novugen Pitolisant Tablets 17.8mg | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL25126011AEZ | Novugen Pitolisant Tablets 4.45mg | Bahan tunggal | NOVUGEN PHARMA SDN. BHD. | Sah |
+| MAL25126010AEZ | Novugen Pitolisant Tablets 17.8mg | Bahan tunggal | NOVUGEN PHARMA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

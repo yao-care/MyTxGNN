@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Gimeracil"
 predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Gimeracil: indikasi baharu diramal Adenoma vilus sekum (cecum villous adenoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -69,10 +69,14 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Pengeluar | Jenis |
-|---------|------|------|------|
-| MAL19071004AZ | TS-ONE OD Tablet 20 | Zuellig Pharma Sdn. Bhd. | Gabungan |
-| MAL19071005AZ | TS-ONE OD Tablet 25 | Zuellig Pharma Sdn. Bhd. | Gabungan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19071004AZ | TS-ONE OD Tablet 20 | Kombinasi | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL19071005AZ | TS-ONE OD Tablet 25 | Kombinasi | ZUELLIG PHARMA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Kedua-dua pendaftaran ialah produk gabungan (pengeluar: Zuellig Pharma Sdn. Bhd.) dan masih sah. Pendaftaran ini tidak menggambarkan status kelulusan gimeracil sebagai bahan tunggal.
 

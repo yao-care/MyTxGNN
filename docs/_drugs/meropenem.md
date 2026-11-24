@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "gonococcal urethritis", "Ureaplasma urethritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Meropenem: indikasi baharu diramal Artritis bakteria (bacterial arthritis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 29 (sah: 29)"
 ---
 
@@ -84,13 +84,19 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 Status pasaran: dipasarkan. Terdapat sekurang-kurangnya 25 lesen sah (semuanya produk ingredien tunggal); lima yang utama disenaraikan di bawah. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19972956ACRZ | MERONEM IV, 500MG VIAL | Serbuk untuk suntikan | Tiada maklumat |
-| MAL19972957ACRZ | MERONEM IV, 1G VIAL | Serbuk untuk suntikan | Tiada maklumat |
-| MAL12080002AZ | Monem 500 mg Powder for Injection | Serbuk untuk suntikan | Tiada maklumat |
-| MAL18056173ACRZ | Meropenem Kabi 500mg | Serbuk untuk larutan suntikan/infusi | Tiada maklumat |
-| MAL22086023ACZ | Hovid Meropenem 500mg | Serbuk untuk larutan suntikan/infusi | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19972956ACRZ | MERONEM IV, 500MG VIAL | Bahan tunggal | MARUBENI PHARMACEUTICALS MALAYSIA SDN. BHD. | Sah |
+| MAL19972957ACRZ | MERONEM IV, 1G VIAL | Bahan tunggal | MARUBENI PHARMACEUTICALS MALAYSIA SDN. BHD. | Sah |
+| MAL12080002AZ | Monem 500 mg POWDER FOR INJECTION | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL18056173ACRZ | Meropenem Kabi 500mg powder for solution for injection or infusion | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL22086023ACZ | Hovid Meropenem 500mg Powder for Solution for Injection or Infusion | Bahan tunggal | HOVID BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 29 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

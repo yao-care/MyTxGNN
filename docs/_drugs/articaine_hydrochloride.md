@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB09009
 monitor_inn: "Articaine"
 predicted_indications: ["gout", "exostosis", "allergic asthma", "intrinsic asthma"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Articaine Hydrochloride: indikasi baharu diramal Gout (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
@@ -82,11 +82,15 @@ Setakat ini tiada literatur berkaitan.
 
 Ubat ini dipasarkan di Malaysia. Ketiga-tiga lesen yang sah ialah produk gabungan (articaine bersama adrenalin/epinefrin), dan teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL22086017AZ | Septanest 1:100,000 Solution for Injection (Articaine Hydrochloride 4% with Adrenaline 1:100,000) | Suntikan | Tidak direkodkan |
-| MAL22126025AZ | ARTINIBSA 4% SOLUTION FOR INJECTION | Suntikan | Tidak direkodkan |
-| MAL12045005AZ | Posicaine 200 (Articaine Hydrochloride 4% with Epinephrine/Adrenaline 1:200,000 Injection) | Suntikan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22086017AZ | Septanest 1:100,000 Solution for Injection (Articaine Hydrochloride 4% with Adrenaline 1:100,000) | Kombinasi | N.K. LUCK SDN. BHD. | Sah |
+| MAL22126025AZ | ARTINIBSA 4% SOLUTION FOR INJECTION | Kombinasi | Ar Dental Supplies Sdn Bhd | Sah |
+| MAL12045005AZ | Posicaine 200 (Articaine Hydrochloride 4% with Epinephrine/Adrenaline 1:200,000 Injection) | Kombinasi | Galla Dental Corporation Sdn Bhd | Sah |
+
+<!-- licenses:end -->
 
 ---
 

@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 330
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 description: "Erenumab: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -72,10 +72,14 @@ Model pembelajaran mendalam TxGNN (skor ≥ 0.99) menghasilkan calon untuk Erenu
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL19056108ARZ | Pasurta 70mg/ml Solution for Injection in a Prefilled Syring |  | Sah |
-| MAL20096004ACRZ | Pasurta 140mg/ml Solution for Injection in Prefilled  Syring |  | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19056108ARZ | Pasurta 70mg/ml Solution for Injection in a Prefilled Syringe | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL20096004ACRZ | Pasurta 140mg/ml Solution for Injection in Prefilled Syringe | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

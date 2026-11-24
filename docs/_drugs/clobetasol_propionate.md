@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Clobetasol Propionate"
 predicted_indications: ["vulvar inverted follicular keratosis", "acrodermatitis chronica atrophicans", "exanthem (disease)", "acne keloid", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Clobetasol Propionate: indikasi baharu diramal Keratosis folikular songsang vulva (tahap bukti L5). Indikasi asal: Teks indikasi yang diluluskan tidak tersedia dalam rekod pelesenan te…"
 ---
 
@@ -82,13 +82,19 @@ Buat masa ini tiada literatur berkaitan tersedia untuk indikasi yang diramalkan 
 
 Senarai di bawah ialah 5 daripada 27 pendaftaran yang sah. Teks indikasi yang diluluskan tidak tersedia dalam rekod pelesenan tersebut.
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL11030009AZ | Clonate Cream 0.05%w/w | Medispec (M) Sdn. Bhd. |
-| MAL19961267ACRZ | Dermovate Ointment 0.05% | GlaxoSmithKline Pharmaceutical Sdn. Bhd. |
-| MAL19961265ACRZ | Dermovate Cream 0.05% | GlaxoSmithKline Pharmaceutical Sdn. Bhd. |
-| MAL06051300ARZ | Clobex Shampoo 0.05% | Galderma Malaysia Sdn Bhd |
-| MAL19930240AZ | Cloderm Scalp Application 0.05% | Hoe Pharmaceuticals Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19961267ACRZ | DERMOVATE OINTMENT 0.05% | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19961265ACRZ | DERMOVATE CREAM 0.05% | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL06051300ARZ | Clobex Shampoo 0.05% | Bahan tunggal | Galderma Malaysia Sdn Bhd | Sah |
+| MAL19930240AZ | CLODERM SCALP APPLICATION 0.05% | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL06051319AZ | Glevate Cream 0.05% | Bahan tunggal | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 28 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

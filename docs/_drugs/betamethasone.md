@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "Betamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Betamethasone: indikasi baharu diramal Alopesia musinosa (alopecia mucinosa) (tahap bukti L4). Di Malaysia, pendaftaran NPRA: 98 (sah: 97)"
 ---
 
@@ -70,21 +70,27 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-Daripadanya, 44 ialah produk bahan tunggal dan 53 produk gabungan. Jadual di bawah hanya menyenaraikan lima produk bahan tunggal.
+Lesen yang direkodkan merangkumi produk bahan tunggal dan produk gabungan; bilangan dan status semasa terdapat dalam Gambaran Ringkas. Jadual di bawah hanya menyenaraikan lima produk bahan tunggal.
 
 <!-- review:begin my-lic-20261105-betamethasone-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Semua 97 lesen yang direkodkan berstatus sah. Daripadanya, 44 ialah produk bahan tunggal dan 53 produk gabungan." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 98 pendaftaran (sah: 97); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Semua 97 lesen yang direkodkan berstatus sah. Daripadanya, 44 ialah produk bahan tunggal dan 53 produk gabungan." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-betamethasone-1 -->
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19940031AZ | YSP Betamethasone Tablet 0.5mg | Tidak direkodkan | Tidak direkodkan |
-| MAL19860148AZ | Hovid Betasone Cream 0.1% w/w | Tidak direkodkan | Tidak direkodkan |
-| MAL19961263ARZ | BETNOVATE CREAM 0.1% | Tidak direkodkan | Tidak direkodkan |
-| MAL19870593AZ | DIPROCEL OINTMENT 0.05% W/W | Tidak direkodkan | Tidak direkodkan |
-| MAL19870588AZ | BEMETHA TABLET 0.5MG | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19940031AZ | YSP Betamethasone Tablet 0.5mg | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL19860148AZ | Hovid Betasone Cream 0.1% w/w | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL19961263ARZ | BETNOVATE CREAM 0.1% | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19870593AZ | DIPROCEL OINTMENT 0.05% W/W | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+| MAL19870588AZ | BEMETHA TABLET 0.5MG | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 98 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -116,7 +122,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Semua 97 lesen yang direkodkan berstatus sah" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Bilangan pendaftaran: “Semua 97 lesen yang direkodkan berstatus sah. Daripadanya, 44 ialah pr” → “Lesen yang direkodkan merangkumi produk bahan tunggal dan produk gabun” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66) |
 
 <!-- review:end log -->

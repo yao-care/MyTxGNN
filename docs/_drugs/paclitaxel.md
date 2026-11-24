@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Paclitaxel: indikasi baharu diramal Rabdomiosarkoma embrionik parameningeal (tahap bukti L5). Indikasi asal: Kanser ovari (relasi yang direkodkan dalam pangkalan pengetahuan"
 ---
 
@@ -70,13 +70,19 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL21106046ACZ | PAXUS PM (Paclitaxel) Powder for Injection 100mg | Serbuk untuk suntikan | Teks indikasi tidak tersedia |
-| MAL21106047ACZ | PAXUS PM (Paclitaxel) Powder for Injection 30mg | Serbuk untuk suntikan | Teks indikasi tidak tersedia |
-| MAL22046023AZ | Paxol Paclitaxel Concentrate for Solution for Infusion 6 mg/ml | Konsentrat untuk larutan infusi | Teks indikasi tidak tersedia |
-| MAL22116015AZ | BRAVIFO (Paclitaxel USP Concentrate for Solution for Infusion 6mg/mL) | Konsentrat untuk larutan infusi | Teks indikasi tidak tersedia |
-| MAL23086010ACZ | Paclitaxel Seacross 6 mg/ml Concentrate For Solution For Infusion | Konsentrat untuk larutan infusi | Teks indikasi tidak tersedia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21106046ACZ | PAXUS PM (Paclitaxel) Powder for Injection 100mg | Bahan tunggal | KALBE MALAYSIA SDN BHD | Sah |
+| MAL21106047ACZ | PAXUS PM (Paclitaxel) Powder for Injection 30mg | Bahan tunggal | KALBE MALAYSIA SDN BHD | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL22046023AZ | Paxol Paclitaxel Concentrate for Solution for Infusion 6 mg/ml | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL22116015AZ | BRAVIFO (PACLITAXEL USP CONCENTRATE FOR SOLUTION FOR INFUSION 6mg/ mL) | Bahan tunggal | MEGA LIFESCIENCES SDN. BHD. | Sah |
+| MAL23086010ACZ | Paclitaxel Seacross 6 mg/ml Concentrate For Solution For Infusion | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 13 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Senarai ini menunjukkan 5 daripada 12 pendaftaran. Produk gabungan (Abraxane) tidak digunakan untuk menggambarkan status kelulusan paclitaxel bahan tunggal.
 

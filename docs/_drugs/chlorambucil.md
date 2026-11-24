@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CHLORAMBUCIL"
 predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlorambucil: indikasi baharu diramal ALK-positive large B-cell lymphoma (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -81,9 +81,13 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Lesen | Nama Produk | Pengeluar |
-|---------|------|------|
-| MAL04125474ACZ | Leukeran Tablets 2mg | Aspen Medical Products Malaysia Sdn Bhd |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL04125474ACZ | Leukeran Tablets 2mg | Bahan tunggal | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+
+<!-- licenses:end -->
 
 Lesen ini berstatus sah dan merupakan produk bahan tunggal. Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan, jadi indikasi berlesen tempatan tidak dapat disahkan.
 

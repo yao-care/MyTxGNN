@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 695
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "TRASTUZUMAB"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 description: "Trastuzumab: indikasi baharu diramal Malignant cutaneous granular cell skin tumor (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 14 (sah: 14)"
@@ -125,7 +125,7 @@ Kardiotoksisiti berkaitan trastuzumab juga dibincangkan dalam literatur yang dip
 - Penggunaan terhad kepada pesakit HER2-positif yang disahkan; kanser PR-positif/HER2-negatif dan triple-negatif bukan sasaran yang sah
 - Maklumat amaran dan kontraindikasi daripada sisipan pakej NPRA (jurang data yang menghalang)
 - Data mekanisme tindakan (MOA) terperinci daripada DrugBank
-- Pengesahan status pendaftaran di Malaysia (data menunjukkan 14 pendaftaran, semuanya sah)
+- Pengesahan status pendaftaran di Malaysia (data menunjukkan pendaftaran yang sah; bilangan semasa dalam Gambaran Ringkas)
 - Pelan pemantauan jantung dan semakan interaksi ubat
 
 <!-- review:begin my-lic-20261112-trastuzumab-1 -->
@@ -155,7 +155,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-17 | Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan 14 pendaftaran, semuanya sah)” | Dibetulkan (disemak 2026-11-17; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-17 | Bilangan pendaftaran: “(data menunjukkan 0 pendaftaran)” → “(data menunjukkan pendaftaran yang sah; bilangan semasa dalam Gambaran” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c) |
 
 <!-- review:end log -->

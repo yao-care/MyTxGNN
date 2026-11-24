@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Carbamazepine"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carbamazepine: indikasi baharu diramal Neoplasma saraf trigeminal (tahap bukti L5). Indikasi asal: Epilepsi, neuralgia trigeminal…"
 ---
 
@@ -87,13 +87,19 @@ Tiada kajian yang dipetik mengkaji secara langsung keberkesanan carbamazepine te
 
 Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam rekod pendaftaran yang dikumpulkan.
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL06071037AZ | Carbatol CR-200 Tablet | Laboratories Torrent (Malaysia) Sdn. Bhd. |
-| MAL06071038AZ | Carbatol CR-400 Tablet | Laboratories Torrent (Malaysia) Sdn. Bhd. |
-| MAL19860947AZ | Taver Tablet 200mg | Komedic Sdn Bhd |
-| MAL19860220AZ | Carzepin Tablet 200mg | Hovid Berhad |
-| MAL20000032ARZ | Tegretol 200mg Tablet | Novartis Corporation (Malaysia) Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06071037AZ | Carbatol CR-200 Tablet | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL06071038AZ | Carbatol CR-400 Tablet | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL19860947AZ | TAVER TABLET 200MG | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL19860220AZ | CARZEPIN TABLET 200MG | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL20000032ARZ | TEGRETOL 200MG TABLET | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Terdapat 8 pendaftaran sah kesemuanya (semua bahan tunggal); lima yang utama disenaraikan di atas. Tiga lagi ialah Tegretol CR 400mg, Tegretol CR 200mg dan Tegretol 100mg/5ml Syrup.
 

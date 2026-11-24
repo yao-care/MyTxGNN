@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lenalidomide: indikasi baharu diramal Leukemia mieloid (tahap bukti L2). Indikasi asal: Myeloma plasma sel, limfoma sel mantel, neoplasma sel B, limfosarkoma…"
 ---
 
@@ -113,13 +113,19 @@ Nota: kebanyakan penerbitan membincangkan MDS, bukan AML secara langsung.
 
 Terdapat 27 pendaftaran sah (semua produk bahan tunggal). Teks indikasi diluluskan tidak tersedia dalam data yang dikumpulkan. Lima kelulusan utama:
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL12040007ARZ | REVLIMID (Lenalidomide) Capsules 25mg | Kapsul | Tiada maklumat |
-| MAL12040006ARZ | Revlimid (Lenalidomide) Capsules 10 mg | Kapsul | Tiada maklumat |
-| MAL12040005ARZ | REVLIMID (Lenalidomide) Capsules 5mg | Kapsul | Tiada maklumat |
-| MAL12040004ARZ | REVLIMID (Lenalidomide) Capsules 15mg | Kapsul | Tiada maklumat |
-| MAL22076030AZ | Lenmicare Capsules 5mg | Kapsul | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12040007ARZ | REVLIMID (Lenalidomide) Capsules 25mg | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL12040006ARZ | Revlimid (Lenalidomide) Capsules 10 mg | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL12040005ARZ | REVLIMID (Lenalidomide) Capsules 5mg | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL12040004ARZ | REVLIMID (Lenalidomide) Capsules 15mg | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL22076030AZ | Lenmicare Capsules 5mg | Bahan tunggal | LOTUS HEALTHCARE MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 27 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Produk generik lain termasuk Linadex, Lidoma, Lenangio, Lemidna dan Lenmicare pelbagai kekuatan.
 

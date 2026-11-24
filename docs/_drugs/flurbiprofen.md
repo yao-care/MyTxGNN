@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Flurbiprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Flurbiprofen: indikasi baharu diramal Acromesomelic dysplasia, Hunter-Thompson type (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
 ---
 
@@ -69,12 +69,18 @@ Pada masa ini tiada literatur berkaitan untuk indikasi ini.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL18016023ASZ | Strepsils Max Pro Honey & Lemon 8.75mg Lozenge | RB (Health) Malaysia Sdn Bhd |
-| MAL18116087AZ | Strepsils Max Pro Direct 8.75mg Spray | RB (Health) Malaysia Sdn Bhd |
-| MAL20116001AZ | Locoa 40mg Transdermal Patch | Hoe Pharmaceuticals Sdn. Bhd. |
-| MAL20013452AZ | Acustop Cataplasma | Pharma Nord Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18016023ASZ | Strepsils Max Pro Honey & Lemon 8.75mg Lozenge | Bahan tunggal | RB (HEALTH) MALAYSIA SDN BHD | Sah |
+| MAL18116087AZ | Strepsils Max Pro Direct 8.75mg Spray | Bahan tunggal | RB (HEALTH) MALAYSIA SDN BHD | Sah (pendaftaran bersyarat) |
+| MAL20116001AZ | LOCOA 40MG TRANSDERMAL PATCH | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL20013452AZ | ACUSTOP CATAPLASMA | Bahan tunggal | PHARMA NORD SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 4 daripada 5 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Teks indikasi yang diluluskan tidak direkodkan dalam data lesen, jadi indikasi berlesen tidak dapat dinyatakan.
 

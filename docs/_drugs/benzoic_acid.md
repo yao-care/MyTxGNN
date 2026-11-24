@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Benzoic Acid"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "dry eye syndrome", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "hereditary angioedema with C1Inh deficiency", "posterior leukoencephalopathy syndrome", "C1 inhibitor deficiency"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Benzoic Acid: indikasi baharu diramal Bronkitis (tahap bukti L5). Indikasi asal: Hubungan yang direkodkan dalam graf pengetahuan: pemfigus…"
 ---
 
@@ -79,17 +79,23 @@ Teks indikasi yang diluluskan tidak tersedia pada rekod. Lesen produk kombinasi 
 
 <!-- review:begin my-lic-20261105-benzoic_acid-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Terdapat 36 lesen sah (1 bahan tunggal, 35 kombinasi). Teks indikasi yang diluluskan tidak tersedia pada rekod." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 36 pendaftaran (sah: 35); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Terdapat 36 lesen sah (1 bahan tunggal, 35 kombinasi). Teks indikasi yang diluluskan tidak tersedia pada rekod." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-benzoic_acid-1 -->
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL19912812XZ | MIFULIN LOTION (bahan tunggal) | Tiada maklumat | Tiada maklumat |
-| MAL19871164AZ | BEPROSALIC OINTMENT (kombinasi) | Tiada maklumat | Tiada maklumat |
-| MAL19911136X | WHITFIELD`S OINTMENT (kombinasi) | Tiada maklumat | Tiada maklumat |
-| MAL19910650X | DYNA RINGWORM LOTION (kombinasi) | Tiada maklumat | Tiada maklumat |
-| MAL19987988AZ | PHARMANIAGA DERMAL SA OINTMENT (kombinasi) | Tiada maklumat | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19912812XZ | MIFULIN LOTION | Bahan tunggal | WINWA MEDICAL SDN. BHD. | Sah |
+| MAL19871164AZ | BEPROSALIC OINTMENT | Kombinasi | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL19911136X | WHITFIELD`S OINTMENT | Kombinasi | HOVID BERHAD | Sah |
+| MAL19910650X | DYNA RINGWORM LOTION | Kombinasi | DYNAPHARM (M) SDN. BHD. | Sah |
+| MAL19987988AZ | PHARMANIAGA DERMAL SA OINTMENT | Kombinasi | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 36 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -119,7 +125,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Terdapat 36 lesen sah (1 bahan tunggal, 35 kombinasi)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Terdapat 36 lesen sah (1 bahan tunggal, 35 kombinasi)" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB09060
 monitor_inn: "Avibactam"
 predicted_indications: ["ureter tuberculosis", "urinary schistosomiasis", "hyperamylasemia", "polyclonal hyperviscosity syndrome"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Avibactam Sodium: indikasi baharu diramal Tuberkulosis ureter (ureter tuberculosis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -69,10 +69,14 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL20126001ACZ | Zavicefta (Ceftazidime 2g/Avibactam 0.5g) Powder for Concentrate for Solution for Infusion | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-| MAL26036004AZ | Emblaveo (Avibactam 0.5g/Aztreonam 1.5g) Powder for concentrate for solution for infusion | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20126001ACZ | Zavicefta (Ceftazidime 2g/Avibactam 0.5g) Powder for Concentrate for Solution for Infusion | Kombinasi | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL26036004AZ | Emblaveo (Avibactam 0.5g/ Aztreonam 1.5g) Powder for concentrate for solution for infusion | Kombinasi | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Kedua-dua produk ialah produk kombinasi dan berstatus sah. Lesen kombinasi ini tidak menggambarkan kelulusan avibactam sebagai bahan tunggal.
 

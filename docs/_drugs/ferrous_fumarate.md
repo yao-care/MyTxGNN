@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ferrous Fumarate"
 predicted_indications: ["non-syndromic esophageal malformation"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Ferrous Fumarate: indikasi baharu diramal Malformasi esofagus bukan sindromik (non-syndromic esophageal malformation) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 170 (sah: 165)"
 ---
 
@@ -72,13 +72,19 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam rekod. Hanya produk bahan tunggal disenaraikan di bawah (5 teratas); produk kombinasi (kebanyakannya multivitamin dan mineral) tidak digunakan untuk menggambarkan status kelulusan ferrous fumarate bahan tunggal.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL09032039XZ | UNIFERA TABLETS 200mg | Tidak tersedia | Tidak tersedia |
-| MAL20020030XZ | SOLIDIRON TABLET 200MG | Tidak tersedia | Tidak tersedia |
-| MAL22016025XZ | Idaman Ferrous Fumarate Tablet 200mg | Tidak tersedia | Tidak tersedia |
-| MAL22046034XE | YSP Iron Tablet 60mg (Ferrous Fumarate 182.40 mg) | Tidak tersedia | Tidak tersedia |
-| MAL19911132XZ | FEFUR TABLET (FILM-COATED) 100MG | Tidak tersedia | Tidak tersedia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09032039XZ | UNIFERA TABLETS 200mg | Bahan tunggal | UNIMED SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL20020030XZ | SOLIDIRON TABLET 200MG | Bahan tunggal | INSPIRAPHARMA SDN. BHD. | Sah |
+| MAL22016025XZ | Idaman Ferrous Fumarate Tablet 200mg | Bahan tunggal | INSPIRAPHARMA SDN. BHD. | Sah |
+| MAL22046034XE | YSP Iron Tablet 60mg (Ferrous Fumarate 182.40 mg) | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL19911132XZ | FEFUR TABLET (FILM-COATED) 100MG | Bahan tunggal | HOVID BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 170 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Senarai ini mungkin tidak lengkap bagi produk bahan tunggal; 6 lagi produk bahan tunggal turut berdaftar.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Insulin Glargine"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulin Glargine: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Indikasi asal: Diabetes mellitus jenis 2, diabetes mellitus jenis 1…"
 ---
 
@@ -81,13 +81,19 @@ Buat masa ini tiada literatur berkaitan yang tersedia untuk autoimmune oophoriti
 
 Teks indikasi lulus dan bentuk dosej tidak tersedia dalam data yang dikumpulkan. Senarai di bawah menunjukkan 5 daripada 15 pendaftaran yang sah (13 bahan tunggal dan 2 kombinasi). Produk kombinasi (Soliqua) tidak disenaraikan kerana lesennya tidak menggambarkan status insulin glargine sebagai bahan tunggal.
 
-| Nombor Kelulusan | Nama Produk | Pengilang | Status |
-|---------|------|------|-----------|
-| MAL16065057AZ | BASALOG Insulin Glargine Injection (rDNA Origin) 100 IU/mL | Biocon Sdn Bhd | Sah |
-| MAL16075050AZ | Toujeo 300 units/ml Solution for Injection in Pre-Filled Pen | Sanofi-Aventis (Malaysia) Sdn. Bhd. | Sah |
-| MAL20081742AZ | Lantus SoloStar 100IU/ML Solution for Injection in a Pre-Filled Pen | Sanofi-Aventis (Malaysia) Sdn. Bhd. | Sah |
-| MAL25016118AZ | Basalin ElasPen 100 Units/mL Solution for Injection | Pharmaniaga Lifescience Sdn. Bhd. | Sah |
-| MAL25016119ACZ | Ezelin 100 IU/mL Solution for Injection in Pre-Filled Pen | Kalbe Malaysia Sdn Bhd | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16065057AZ | BASALOG Insulin Glargine Injection (rDNA Origin) 100 IU/mL | Bahan tunggal | BIOCON SDN BHD | Sah |
+| MAL16075050AZ | Toujeo 300 units/ml Solution for Injection in Pre-Filled Pen | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL20081742AZ | LANTUS SOLOSTAR 100IU/ML SOLUTION FOR INJECTION IN A PRE-FILLED PEN | Bahan tunggal | SANOFI-AVENTIS (MALAYSIA) SDN. BHD. | Sah |
+| MAL25016118AZ | Basalin ElasPen 100 Units/mL Solution for Injection | Bahan tunggal | PHARMANIAGA LIFESCIENCE SDN. BHD. | Sah |
+| MAL25016119ACZ | EZELIN 100 IU/mL SOLUTION FOR INJECTION IN PRE-FILLED PEN | Bahan tunggal | KALBE MALAYSIA SDN BHD | Sah (pendaftaran bersyarat) |
+
+Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

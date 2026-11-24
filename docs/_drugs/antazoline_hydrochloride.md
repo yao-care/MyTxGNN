@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB08799
 monitor_inn: "Antazoline"
 predicted_indications: ["recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "nasal cavity disease"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Antazoline Hydrochloride: indikasi baharu diramal Dermatitis atopik yang degil (recalcitrant atopic dermatitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -71,9 +71,13 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL17107026AZ | Shinallerg Eye Drop | Tidak dinyatakan | Tidak direkodkan dalam data tempatan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL17107026AZ | Shinallerg Eye Drop | Kombinasi | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Nota: satu-satunya lesen ini ialah produk kombinasi, maka ia tidak menggambarkan status kelulusan bahan tunggal antazoline.
 

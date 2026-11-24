@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "DOLUTEGRAVIR"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dolutegravir: indikasi baharu diramal Sindrom kekurangan imun kucing (feline acquired immunodeficiency synd… (tahap bukti L5). Indikasi asal: Jangkitan HIV dan AIDS"
 ---
 
@@ -87,12 +87,18 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL22076045AZ | MYLTEGA (Dolutegravir Film Coated Tablets 50mg) | Tiada data | Tiada data |
-| MAL22026002AZ | TEGRAD (Dolutegravir Film-Coated Tablets 50mg) | Tiada data | Tiada data |
-| MAL14055050ACRZ | Tivicay 50mg Film-Coated Tablets | Tiada data | Tiada data |
-| MAL24066027AZ | DULET (Dolutegravir film-coated Tablets 50mg) | Tiada data | Tiada data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22076045AZ | MYLTEGA (Dolutegravir Film Coated Tablets 50mg) | Bahan tunggal | MYLAN HEALTHCARE SDN. BHD. | Sah |
+| MAL22026002AZ | TEGRAD (Dolutegravir Film-Coated Tablets 50mg) | Bahan tunggal | CAMBER LABORATORIES SDN. BHD. | Sah |
+| MAL14055050ACRZ | Tivicay 50mg Film-Coated Tablets | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL24066027AZ | DULET (Dolutegravir film-coated Tablets 50mg) | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 4 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Nota: Terdapat juga 3 pendaftaran produk kombinasi (LANOGRAV, ACRIPTEGA, TELDY; dolutegravir/lamivudine/tenofovir disoproxil fumarate). Ia tidak digunakan untuk menggambarkan status kelulusan dolutegravir sebagai bahan tunggal.
 

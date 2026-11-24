@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Zinc Oxide"
 predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Zinc Oxide: indikasi baharu diramal Jerawat (acne) (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam rekod lesen tempatan. Hubungan y…"
 ---
 
@@ -87,7 +87,7 @@ Setakat ini tiada ujian klinikal berkaitan didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-Senarai di bawah ialah lima lesen produk bahan tunggal zinc oxide. Terdapat 304 lesen sah daripada jumlah keseluruhan 314, dan teks indikasi diluluskan tidak tersedia dalam rekod.
+Senarai di bawah ialah lima lesen produk bahan tunggal zinc oxide. Bilangan lesen semasa terdapat dalam Gambaran Ringkas, dan teks indikasi diluluskan tidak tersedia dalam rekod.
 
 <!-- review:begin my-lic-20261112-zinc_oxide-1 -->
 
@@ -95,13 +95,19 @@ Senarai di bawah ialah lima lesen produk bahan tunggal zinc oxide. Terdapat 304 
 
 <!-- review:end my-lic-20261112-zinc_oxide-1 -->
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL20061575XCZ | Polylab Zinc Paste BP 25 % w/w | Tidak dinyatakan | Tidak dinyatakan |
-| MAL23036028XCZ | MSA Zinc Oxide Cream 32% w/w | Krim | Tidak dinyatakan |
-| MAL18046004XZ | NW Zinc Oxide 20%w/w Ointment | Salap | Tidak dinyatakan |
-| MAL19930439XZ | HOE ZINC CREAM | Krim | Tidak dinyatakan |
-| MAL25016029XCZ | MSA Zinc Oxide Cream 15% w/w | Krim | Tidak dinyatakan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20061575XCZ | Polylab Zinc Paste BP 25 % w/w | Bahan tunggal | POLYLAB BIOTECH SDN. BHD. | Sah |
+| MAL23036028XCZ | MSA Zinc Oxide Cream 32% w/w | Bahan tunggal | M.S. ALLY PHARMA SDN BHD | Sah |
+| MAL18046004XZ | NW Zinc Oxide 20%w/w Ointment | Bahan tunggal | NATURAL WELLNESS INDUSTRIES SDN. BHD. (MILIK PENUH NUTRIVENTION SDN. B… | Sah |
+| MAL19930439XZ | HOE ZINC CREAM | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL25016029XCZ | MSA Zinc Oxide Cream 15% w/w | Bahan tunggal | M.S. ALLY PHARMA SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 314 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 
@@ -135,7 +141,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “Jumlah keseluruhan ialah 280 lesen” → “Terdapat 304 lesen sah daripada jumlah keseluruhan 314” | Dibetulkan (disemak 2026-11-13; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-12 | Bilangan pendaftaran: “Jumlah keseluruhan ialah 280 lesen” → “Bilangan lesen semasa terdapat dalam Gambaran Ringkas” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Vusion (miconazole nitrate, zinc oxide, white petrolatum) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b44b452d-3630-4cb5-8ed1-1f8edac4690c) |
 
 <!-- review:end log -->

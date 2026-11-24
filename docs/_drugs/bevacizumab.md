@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Bevacizumab"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bevacizumab: indikasi baharu diramal Neoplasma epiglotis (epiglottis neoplasm) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 9 (sah: 9)"
 ---
 
@@ -72,13 +72,19 @@ Setakat ini tiada literatur berkaitan yang tersedia.
 
 Status pasaran: dipasarkan. Terdapat 9 lesen, semuanya sah. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|-----------|
-| MAL20081788ARSZ | AVASTIN INJECTION 25MG/ML | ROCHE (MALAYSIA) SDN. BHD. |
-| MAL24066006ACZ | Avamab 400 mg/16 mL | KALBE MALAYSIA SDN BHD |
-| MAL24066007ACZ | Avamab 100 mg/4 mL | KALBE MALAYSIA SDN BHD |
-| MAL19086005ACZ | MVASI 25 mg/ml | Amgen Biopharmaceuticals Malaysia Sdn Bhd |
-| MAL24106003AZ | Vegzelma 25 mg/mL | CELLTRION HEALTHCARE MALAYSIA SDN. BHD. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20081788ARSZ | AVASTIN INJECTION 25MG/ML | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL24066006ACZ | Avamab (Bevacizumab) 400 mg/16 mL Concentrate for Solution for Infusion | Bahan tunggal | KALBE MALAYSIA SDN BHD | Sah |
+| MAL24066007ACZ | Avamab (Bevacizumab) 100 mg/4 mL Concentrate for Solution for Infusion | Bahan tunggal | KALBE MALAYSIA SDN BHD | Sah |
+| MAL19086005ACZ | MVASI Concentrate for Solution for Infusion 25 mg/ml | Bahan tunggal | Amgen Biopharmaceuticals Malaysia Sdn Bhd | Sah |
+| MAL24106003AZ | Vegzelma (Bevacizumab) 25 mg/mL concentrate for solution for infusion | Bahan tunggal | CELLTRION HEALTHCARE MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 9 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Sitotoksisiti
 

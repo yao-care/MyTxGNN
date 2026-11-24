@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 116
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -70,10 +70,14 @@ Pada masa ini tiada kesusasteraan berkaitan yang tersedia — tiada indikasi yan
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Ubat | Indikasi yang Diluluskan |
-|------|------|------|------|
-| *(Tidak diambil)* | *(Tidak diambil)* | *(Tidak diambil)* | *(Tidak diambil)* |
-| *(Tidak diambil)* | *(Tidak diambil)* | *(Tidak diambil)* | *(Tidak diambil)* |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL17015019AZ | OPTIHIST EYE DROPS 0.05% w/v | Bahan tunggal | Gopharma Sdn. Bhd. | Sah |
+| MAL18056065ACZ | Dymista Nasal Spray 137mcg/50mcg | Kombinasi | MYLAN HEALTHCARE SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 > **Nota:** Dua pendaftaran telah dikenalpasti oleh pertanyaan NPRA (tarikh pertanyaan: 2026-03-27), tetapi medan lesen yang terperinci (nombor kebenaran, nama produk, bentuk ubat, indikasi yang diluluskan) tidak diisi dalam paket bukti. Pengambilan semula data NPRA diperlukan.
 

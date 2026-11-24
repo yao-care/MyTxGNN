@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 161
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -70,10 +70,14 @@ Pada masa ini tiada ramalan indikasi telah dijana; oleh itu, tiada carian kesusa
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| *(tidak ditangkap)* | *(tidak ditangkap)* | *(tidak ditangkap)* | *(tidak ditangkap)* |
-| *(tidak ditangkap)* | *(tidak ditangkap)* | *(tidak ditangkap)* | *(tidak ditangkap)* |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL25056003AZ | BOSNIB 100 (Bosutinib Tablets 100 mg) | Bahan tunggal | MEGA LIFESCIENCES SDN. BHD. | Sah |
+| MAL25056004AZ | BOSNIB 500 (Bosutinib Tablets 500 mg) | Bahan tunggal | MEGA LIFESCIENCES SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 > **Nota:** Dua pendaftaran produk direkodkan dalam pangkalan data NPRA, tetapi butir lesen (nombor kebenaran, nama produk, bentuk dos, dan teks indikasi diluluskan) tidak berjaya ditangkap semasa pengumpulan data. Soal semula pangkalan data NPRA diperlukan untuk memenuhi medan-medan ini.
 

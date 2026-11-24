@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 711
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Uracil"
 predicted_indications: ["lipoma of colon", "colonic lymphangioma", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "cavernous hemangioma of colon", "cecal disease", "colon leiomyoma"]
 description: "Uracil: indikasi baharu diramal Lipoma kolon (lipoma of colon) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 4)"
@@ -74,7 +74,7 @@ Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenar
 
 <!-- review:begin my-lic-20261105-uracil-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data yang disusun untuk laporan ini menunjukkan status pasaran "Dipasarkan", dengan 5 lesen yang sah dan tiada lesen yang dibatalkan. Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 5 pendaftaran (sah: 4); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data yang disusun untuk laporan ini menunjukkan status pasaran "Dipasarkan", dengan 5 lesen yang sah dan tiada lesen yang dibatalkan. Butiran lesen individu (nombor kebenaran, nama produk, bentuk dos) tidak disenaraikan dalam data yang disusun." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-uracil-1 -->
 
@@ -102,7 +102,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Data yang disusun untuk laporan ini menunjukkan status pasaran "Dipasarkan", dengan 5 lesen yang sah dan tiada lesen yang dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Data yang disusun untuk laporan ini menunjukkan status pasaran "Dipasarkan", dengan 5 lesen yang sah dan tiada lesen yang dibatalkan" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Pregabalin"
 predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pregabalin: indikasi baharu diramal Tendinitis (tahap bukti L5). Indikasi asal: Gangguan kebimbangan, fibromialgia, sindrom sakit miofasial…"
 ---
 
@@ -87,7 +87,7 @@ Ketika ini tiada ujian klinikal berkaitan didaftarkan untuk tendinitis.
 
 ## Maklumat Pasaran di Malaysia
 
-Terdapat 64 pendaftaran produk pregabalin bahan tunggal yang sah di Malaysia. Teks indikasi lulus dan bentuk dosej tidak tersedia dalam data yang dihimpun. Lima contoh pendaftaran utama (produk asal Lyrica):
+Terdapat banyak pendaftaran produk pregabalin bahan tunggal yang sah (bilangan semasa dalam Gambaran Ringkas) di Malaysia. Teks indikasi lulus dan bentuk dosej tidak tersedia dalam data yang dihimpun. Lima contoh pendaftaran utama (produk asal Lyrica):
 
 <!-- review:begin my-lic-20261112-pregabalin-1 -->
 
@@ -95,13 +95,19 @@ Terdapat 64 pendaftaran produk pregabalin bahan tunggal yang sah di Malaysia. Te
 
 <!-- review:end my-lic-20261112-pregabalin-1 -->
 
-| Nombor Kebenaran | Nama Produk | Pengeluar |
-|---------|------|------|
-| MAL20081830ACRZ | LYRICA 50MG CAPSULES | VIATRIS SDN. BHD. |
-| MAL20081831ACRZ | LYRICA 75MG CAPSULES | VIATRIS SDN. BHD. |
-| MAL20081832ACRZ | LYRICA 150MG CAPSULES | VIATRIS SDN. BHD. |
-| MAL25046010ACRZ | LYRICA CR 82.5MG TABLET | VIATRIS SDN. BHD. |
-| MAL25046011ACRZ | LYRICA CR 165MG TABLET | VIATRIS SDN. BHD. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20081830ACRZ | LYRICA 50MG CAPSULES | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+| MAL20081831ACRZ | LYRICA 75MG CAPSULES | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+| MAL20081832ACRZ | LYRICA 150MG CAPSULES | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+| MAL25046010ACRZ | LYRICA CR 82.5MG TABLET | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+| MAL25046011ACRZ | LYRICA CR 165MG TABLET | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 66 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Pendaftaran selebihnya terdiri daripada produk generik dan jenama lain, termasuk Pregal, Prelica, Pregavid, Pregeb, Rewisca dan Novugab.
 
@@ -140,7 +146,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “Terdapat 63 pendaftaran produk pregabalin bahan tunggal yang” → “Terdapat 64 pendaftaran produk pregabalin bahan tunggal yang sah” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-12 | Bilangan pendaftaran: “Terdapat 63 pendaftaran produk pregabalin bahan tunggal yang sah” → “Terdapat banyak pendaftaran produk pregabalin bahan tunggal yang sah (” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd) |
 
 <!-- review:end log -->

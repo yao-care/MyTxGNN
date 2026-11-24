@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "fosfomycin"
 predicted_indications: ["uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "epiglottitis", "urogenital tuberculosis", "laryngitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "pyelitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fosfomycin: indikasi baharu diramal Uterine inflammatory disease (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 5)"
 ---
 
@@ -76,13 +76,17 @@ Radang uterus dan pelvis sering melibatkan jangkitan bakteria. Oleh itu, aktivit
 
 Teks indikasi yang diluluskan, bentuk dos dan kekuatan tidak tersedia dalam rekod pendaftaran yang dikumpulkan.
 
-| Nombor Kebenaran | Nama Produk | Pengeluar | Jenis |
-|---------|------|------|------|
-| MAL20033481AZ | MONUROL 3G GRANULES | EP PLUS GROUP SDN. BHD. | Bahan tunggal |
-| MAL24036037AZ | URODAY 3g Granules for Oral Solution | AVERROES PHARMACEUTICALS SDN. BHD. | Bahan tunggal |
-| MAL25016024AZ | Foswomyn 3g Granules for oral solution | MEDISPEC (M) SDN. BHD. | Bahan tunggal |
-| MAL20162588HAE | PBAC FOSVET 250mg/g Water Soluble Powder | Life Biopharma Sdn. Bhd. | Bahan tunggal |
-| MAL20172717HAE | FOSVET-T WATER SOLUBLE POWDER | Life Biopharma Sdn. Bhd. | Kombinasi |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20033481AZ | MONUROL 3G GRANULES | Bahan tunggal | EP PLUS GROUP SDN. BHD. | Sah |
+| MAL24036037AZ | URODAY 3g Granules for Oral Solution | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL25016024AZ | Foswomyn 3g Granules for oral solution | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL20162588HAE | PBAC FOSVET 250mg/g Water Soluble Powder | Bahan tunggal | Life Biopharma Sdn. Bhd. | Sah |
+| MAL20172717HAE | FOSVET-T WATER SOLUBLE POWDER | Kombinasi | Life Biopharma Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
 
 Kesemua lima pendaftaran berstatus sah. Produk kombinasi tidak boleh digunakan untuk menggambarkan status pendaftaran fosfomycin bahan tunggal.
 

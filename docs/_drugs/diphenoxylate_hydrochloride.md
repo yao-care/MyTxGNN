@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 298
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -80,9 +80,15 @@ Pada masa ini tiada petunjuk penggunaan yang diramalkan, oleh itu tiada carian l
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Petunjuk Penggunaan Diluluskan |
-|------|------|------|------|
-| *(tidak tersedia)* | *(tidak tersedia)* | *(tidak tersedia)* | *(tidak tersedia)* |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19871646AZ | BEAMOTIL TABLET | Kombinasi | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 1 daripada 4 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 > **Nota:** 4 pendaftaran direkodkan dalam pangkalan data peraturan, tetapi maklumat lesen terperinci (nombor kelulusan, nama produk, bentuk dos, dan teks petunjuk penggunaan yang diluluskan) tidak diisi dalam pakej bukti semasa. Data ini harus diambil daripada pangkalan data NPRA untuk melengkapkan penilaian.
 

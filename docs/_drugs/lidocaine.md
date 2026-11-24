@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lidocaine: indikasi baharu diramal Keratokonjunktivitis epitelium punktat (punctate epithelial keratoconjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 57 (sah: 55)"
 ---
 
@@ -80,13 +80,19 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk keratokonjunktivitis
 
 Jadual di bawah menyenaraikan 5 produk bahan tunggal sebagai contoh. Teks indikasi dan bentuk dos tidak tersedia dalam rekod.
 
-| Nombor Kebenaran | Nama Produk | Pengeluar |
-|---------|------|------|
-| MAL06081215AZ | LIGNOCAINE HCl - FRESENIUS 2% INJECTION | Fresenius Kabi Malaysia Sdn. Bhd. |
-| MAL19961319AZ | Pharmaniaga Lidocaine Hydrochloride 2% w/v Injection | Pharmaniaga Lifescience Sdn. Bhd. |
-| MAL19861477AZ | XYLOCAINE JELLY 2% | Aspen Medical Products Malaysia Sdn Bhd |
-| MAL19890636AZ | XYLOCAINE 2% INJ (5ML POLYAMP) | Aspen Medical Products Malaysia Sdn Bhd |
-| MAL11050003AZ | Lignoral Oral Spray 10%W/V | Pharco Health Sdn. Bhd |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06081215AZ | LIGNOCAINE HCl - FRESENIUS 2% INJECTION | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |
+| MAL19961319AZ | Pharmaniaga Lidocaine Hydrochloride 2% w/v Injection | Bahan tunggal | PHARMANIAGA LIFESCIENCE SDN. BHD. | Sah |
+| MAL19861477AZ | XYLOCAINE JELLY 2% | Bahan tunggal | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+| MAL19890636AZ | XYLOCAINE 2% INJ (5ML POLYAMP) | Bahan tunggal | Aspen Medical Products Malaysia Sdn Bhd | Sah |
+| MAL11050003AZ | Lignoral Oral Spray 10%W/V | Bahan tunggal | Pharco Health Sdn. Bhd | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 57 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Berdasarkan nama produk, produk berdaftar merangkumi suntikan, gel dan semburan. Kesesuaian untuk kegunaan oftalmik belum disahkan.
 

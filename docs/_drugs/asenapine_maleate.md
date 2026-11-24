@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB06216
 monitor_inn: "Asenapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Asenapine Maleate: indikasi baharu diramal Distrofi retina dengan atau tanpa anomali ekstraokular (retinal dystrophy with or without extraocular anomalies) (tahap bukti L5)."
 ---
 
@@ -81,10 +81,14 @@ Setakat ini tiada literatur berkaitan yang tersedia.
 
 Asenapine maleate dipasarkan di Malaysia. Terdapat 2 kebenaran pemasaran yang sah, kedua-duanya produk bahan tunggal.
 
-| Nombor Kebenaran | Nama Produk | Pengilang | Status |
-|---------|------|------|------|
-| MAL20112129ACRZ | SAPHRIS SUBLINGUAL TABLET 5MG | ORGANON MALAYSIA SDN. BHD. | Sah |
-| MAL20112130ACRZ | SAPHRIS SUBLINGUAL TABLET 10MG | ORGANON MALAYSIA SDN. BHD. | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20112129ACRZ | SAPHRIS SUBLINGUAL TABLET 5MG | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+| MAL20112130ACRZ | SAPHRIS SUBLINGUAL TABLET 10MG | Bahan tunggal | ORGANON MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 

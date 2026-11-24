@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Ergocalciferol"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis", "craniofacial conodysplasia", "renal osteodystrophy", "calcium-alkali syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ergocalciferol: indikasi baharu diramal Displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type) (tahap bukti L5)."
 ---
 
@@ -64,13 +64,19 @@ Skor TxGNN sangat tinggi (0.9983), tetapi skor itu hanya hasil ramalan model. Ke
 
 Menurut data tempatan, terdapat sebahagian lesen yang sah dan sebahagian yang dibatalkan. Semua lesen yang direkodkan ialah produk kombinasi (contohnya multivitamin dan mineral). Tiada lesen produk ergocalciferol bahan tunggal direkodkan, jadi maklumat di bawah tidak menggambarkan kelulusan bagi ergocalciferol sebagai bahan tunggal.
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL06051347XCR | VitaHealth Multivits & Minerals Softgel | - | Tiada teks indikasi dalam rekod |
-| MAL11060067XC | Shine Oramin Natural Korean Ginseng + Royal Jelly with Multivitamins and Minerals | - | Tiada teks indikasi dalam rekod |
-| MAL19970681ARZ | VITALIPID N INFANT | - | Tiada teks indikasi dalam rekod |
-| MAL20020375ARZ | VITALIPID N ADULT, 10ML GLASS AMPOULE | - | Tiada teks indikasi dalam rekod |
-| MAL23046070NC | LAC Men's Mega Multi Active Timed-Release Caplet | - | Tiada teks indikasi dalam rekod |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06051347XCR | VitaHealth Multivits & Minerals Softgel | Kombinasi | VITAHEALTH MALAYSIA SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL11060067XC | Shine Oramin Natural Korean Ginseng + Royal Jelly with Multivitamins and Minerals. | Kombinasi | Y.S.P. INDUSTRIES (M) SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL19970681ARZ | VITALIPID N INFANT | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL20020375ARZ | VITALIPID N ADULT, 10ML GLASS AMPOULE | Kombinasi | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL23046070NC | LAC Men's Mega Multi Active Timed-Release Caplet | Kombinasi | LAC GLOBAL BRANDS (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 17 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Sebanyak 14 lesen berstatus sah dan 3 lesen dibatalkan. Senarai di atas hanya menunjukkan lima lesen utama.
 

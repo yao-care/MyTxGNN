@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB01075
 monitor_inn: "Diphenhydramine"
 predicted_indications: ["rosacea conjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diphenhydramine Hcl: indikasi baharu diramal Konjunktivitis rosasea (rosacea conjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 36 (sah: 36)"
 ---
 
@@ -72,15 +72,27 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 Berdasarkan data yang dikumpulkan, terdapat 36 lesen, iaitu 1 produk bahan tunggal dan 35 produk kombinasi, semuanya sah. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lesen produk kombinasi tidak menggambarkan status kelulusan diphenhydramine sebagai bahan tunggal.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19962540AZ | DIPHENMIN LINCTUS (bahan tunggal) | Tidak direkodkan | Tidak direkodkan |
-| MAL12015019AZ | Diphendry Syrup (kombinasi) | Tidak direkodkan | Tidak direkodkan |
-| MAL20020262AZ | ALLAVIN EXPECTORANT (kombinasi) | Tidak direkodkan | Tidak direkodkan |
-| MAL07050906AZ | Avaphen Cough Syrup (Raspberry Flavour) (kombinasi) | Tidak direkodkan | Tidak direkodkan |
-| MAL19860272AZ | SUNTUSS SYRUP (kombinasi) | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
 
-Senarai di atas ialah 5 daripada 21 lesen.
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19962540AZ | DIPHENMIN LINCTUS | Bahan tunggal | PRIME PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL12015019AZ | Diphendry Syrup | Kombinasi | ROYCE PHARMA MANUFACTURING SDN. BHD. | Sah |
+| MAL20020262AZ | ALLAVIN EXPECTORANT | Kombinasi | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL07050906AZ | Avaphen Cough Syrup (Raspberry Flavour) | Kombinasi | AV MANUFACTURING SDN.BHD | Sah |
+| MAL19860272AZ | SUNTUSS SYRUP | Kombinasi | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 36 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
+
+Senarai di atas ialah sebahagian daripada lesen yang direkodkan.
+
+<!-- review:begin my-lic-20261124-diphenhydramine_hcl-1 -->
+
+> **Pembetulan semakan (2026-11-24)**: Asalnya dinyatakan: "Senarai di atas ialah 5 daripada 21 lesen." Dibetulkan mengikut data pendaftaran produk NPRA (data.gov.my, data 2026-11-23): bilangan yang dinyatakan ialah bilangan lama daripada data semasa laporan ditulis (21 lesen; kini 36 pendaftaran). Bilangan pendaftaran berubah mengikut kemas kini mingguan data NPRA, jadi ayat ini tidak lagi menyatakan angka; bilangan semasa terdapat dalam Gambaran Ringkas dan jadual pendaftaran di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+
+<!-- review:end my-lic-20261124-diphenhydramine_hcl-1 -->
 
 ## Pertimbangan Keselamatan
 
@@ -104,11 +116,12 @@ Ramalan ini hanya disokong oleh skor model (0,9920) tanpa sebarang percubaan kli
 
 ## Rekod Semakan
 
-Berikut ialah log semakan halaman ini. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi); ramalan model, tahap bukti dan kesimpulan tidak ditulis semula.
+Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pendaftaran produk NPRA (data.gov.my). Pembetulan terhad kepada kenyataan fakta asas; ramalan model, tahap bukti dan kesimpulan tidak ditulis semula. Ayat yang menyatakan data mekanisme tindakan tidak tersedia telah diganti dengan petikan daripada maklumat preskripsi rasmi yang dipetik (dengan terjemahan tidak rasmi).
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4) |
+| 2026-11-24 | Bilangan pendaftaran: “Senarai di atas ialah 5 daripada 21 lesen.” → “Senarai di atas ialah sebahagian daripada lesen yang direkodkan.” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

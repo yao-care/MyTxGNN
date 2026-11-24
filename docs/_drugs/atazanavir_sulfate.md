@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB01072
 monitor_inn: "Atazanavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atazanavir Sulfate: indikasi baharu diramal Sindrom kekurangan imun diperoleh kucing (feline acquired immunodeficiency syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -73,9 +73,13 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk indikasi ini.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL15045142AZ | Atazor-300 (Atazanavir Capsules 300 mg) | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL15045142AZ | Atazor-300 (Atazanavir Capsules 300 mg) | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Pengeluar: MEDISPEC (M) SDN. BHD. Status lesen: sah.
 

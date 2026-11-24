@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Everolimus: indikasi baharu diramal Liposarkoma (tahap bukti L2). Indikasi asal: Karsinoma sel renal, karsinoma payudara, angiomiolipoma buah pinggang…"
 ---
 
@@ -88,13 +88,19 @@ Perlu diberi perhatian bahawa bukti klinikal yang ada ialah untuk gabungan riboc
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL20071691ARZ | CERTICAN 0.75 MG TABLETS | – | – |
-| MAL20071689ARZ | CERTICAN 0.25 MG TABLETS | – | – |
-| MAL20091942ARZ | AFINITOR 5 MG TABLET | – | – |
-| MAL20091943ARZ | AFINITOR 10 MG TABLET | – | – |
-| MAL25076029AE | Evafin Everolimus Tablet 5 mg | – | – |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20071691ARZ | CERTICAN 0.75 MG TABLETS | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL20071689ARZ | CERTICAN 0.25 MG TABLETS | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL20091942ARZ | AFINITOR 5 MG TABLET | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL20091943ARZ | AFINITOR 10 MG TABLET | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL25076029AE | Evafin Everolimus Tablet 5 mg | Bahan tunggal | NOVUGEN ONCOLOGY SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Terdapat 8 pendaftaran kesemuanya (sah, bahan tunggal); lima yang utama disenaraikan di atas. Teks indikasi dan bentuk dos tidak tersedia dalam data yang dikumpulkan.
 

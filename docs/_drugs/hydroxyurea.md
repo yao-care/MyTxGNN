@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Hydroxyurea"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Hydroxyurea: indikasi baharu diramal Karsinoma payudara wanita (female breast carcinoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 1)"
 ---
 
@@ -83,10 +83,14 @@ Pada masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL20040573AZ | DHNP HYDROXYUREA CAPSULE 500MG (First Pharmaceutical Sdn. Bhd.) | Kapsul (500 mg) | Tiada maklumat |
-| MAL25036013AZ | HYDRINE Capsule 500mg (Eucogen Pharma Sdn. Bhd.) | Kapsul (500 mg) | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20040573AZ | DHNP HYDROXYUREA CAPSULE 500MG | Bahan tunggal | FIRST PHARMACEUTICAL SDN. BHD. | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |
+| MAL25036013AZ | HYDRINE Capsule 500mg (Hydroxyurea 500mg) | Bahan tunggal | Eucogen Pharma Sdn. Bhd. | Sah |
+
+<!-- licenses:end -->
 
 Kedua-dua lesen ialah produk bahan tunggal dan masih sah.
 

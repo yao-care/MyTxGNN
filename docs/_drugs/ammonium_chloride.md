@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ammonium Chloride"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Ammonium Chloride: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 37 (sah: 37)"
 ---
 
@@ -72,10 +72,16 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 Status pasaran: dipasarkan. Data yang dikumpulkan menunjukkan 37 lesen, kesemuanya sah. Daripada jumlah ini, 2 ialah produk bahan tunggal dan 35 ialah produk gabungan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 
-| No. Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19962540AZ | DIPHENMIN LINCTUS | Tidak direkodkan | Tidak direkodkan |
-| MAL19912799X | LOAN YAN HO-CHOW SYRUP | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19962540AZ | DIPHENMIN LINCTUS | Bahan tunggal | PRIME PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19912799X | LOAN YAN HO-CHOW SYRUP | Bahan tunggal | WINWA MEDICAL SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 2 daripada 37 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Jadual ini hanya menyenaraikan produk bahan tunggal. Produk gabungan tidak digunakan untuk menggambarkan status kelulusan bahan tunggal ini.
 

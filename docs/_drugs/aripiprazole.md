@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Aripiprazole"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Aripiprazole: indikasi baharu diramal Palsi pandangan mendatar familial dengan skoliosis progresif (gaze palsy, familial horizontal, with progressive scoliosis) (tahap bukti L5)."
 ---
 
@@ -82,13 +82,19 @@ Setakat ini tiada literatur berkaitan yang tersedia.
 
 Berikut ialah lima daripada lesen aktif untuk aripiprazole (produk bahan tunggal) di Malaysia:
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL06071067AZ | ARIP MT 10 TABLETS 10mg | Tiada rekod | Tiada rekod |
-| MAL18026186AZ | Abilify Maintena 400 mg powder and solvent for prolonged-release suspension for injection | Tiada rekod | Tiada rekod |
-| MAL23056005AZ | Arisa 10 mg orodispersible tablets | Tiada rekod | Tiada rekod |
-| MAL15095024AZ | ARIAN 15MG TABLETS | Tiada rekod | Tiada rekod |
-| MAL25116042ACE | HP-Aripiprazole Tablets 5mg | Tiada rekod | Tiada rekod |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06071067AZ | ARIP MT 10 TABLETS 10mg | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL18026186AZ | Abilify Maintena 400 mg powder and solvent for prolonged-release suspension for injection | Bahan tunggal | Lundbeck Malaysia Sdn. Bhd. | Sah |
+| MAL23056005AZ | Arisa 10 mg orodispersible tablets | Bahan tunggal | Mansa Healthcare Sdn Bhd | Sah |
+| MAL15095024AZ | ARIAN 15MG TABLETS (Aripiprazole USP 15mg Tablets) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL25116042ACE | HP-Aripiprazole Tablets 5mg | Bahan tunggal | Hovid Pharmacy Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 26 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Meloxicam"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Meloxicam: indikasi baharu diramal Acromesomelic dysplasia, Hunter-Thompson type (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 25 (sah: 25)"
 ---
 
@@ -70,13 +70,19 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 Terdapat 25 lesen sah, semuanya produk bahan tunggal. Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan. Antara lesen utama (sebahagian produk ialah produk veterinar):
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL11060027ACZ | Mobic Tablet 7.5 mg | Tidak dinyatakan | Tidak dinyatakan |
-| MAL06081205ARZ | Apo-Meloxicam 7.5 mg Tablets | Tidak dinyatakan | Tidak dinyatakan |
-| MAL07011004AZ | Meloxim 15mg Tablet | Tidak dinyatakan | Tidak dinyatakan |
-| MAL13035051AZ | Melocam Tablet 15mg | Tidak dinyatakan | Tidak dinyatakan |
-| MAL05092224AZ | Pharmaniaga Meloxicam Tablet 7.5 mg | Tidak dinyatakan | Tidak dinyatakan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11060027ACZ | Mobic Tablet 7.5 mg | Bahan tunggal | BOEHRINGER INGELHEIM (MALAYSIA) SDN. BHD. | Sah |
+| MAL06081205ARZ | Apo-Meloxicam 7.5 mg Tablets | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL07011004AZ | Meloxim 15mg Tablet | Bahan tunggal | STERILINE SDN. BHD. | Sah |
+| MAL13035051AZ | Melocam Tablet 15mg | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL05092224AZ | Pharmaniaga Meloxicam Tablet 7.5 mg | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 25 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

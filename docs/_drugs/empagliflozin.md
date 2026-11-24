@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Empagliflozin: indikasi baharu diramal Sindrom orang kaku klasik (classic stiff person syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 19 (sah: 19)"
 ---
 
@@ -72,13 +72,19 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 Terdapat 19 lesen sah dalam data yang dikumpulkan. Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam rekod. Lima lesen utama (ingredien tunggal) disenaraikan di bawah.
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|-----------|
-| MAL24026011ACSZ | Jardiance 25mg film coated tablets | Boehringer Ingelheim (Malaysia) Sdn. Bhd. |
-| MAL24026012ACSZ | Jardiance 10mg film coated tablets | Boehringer Ingelheim (Malaysia) Sdn. Bhd. |
-| MAL25036016AE | Emrene Film Coated Tablets 25mg | Duopharma Manufacturing (Bangi) Sdn. Bhd. |
-| MAL25086022AZ | EMFLODIAZ 25 | Dr. Reddy's Laboratories Malaysia Sdn. Bhd. |
-| MAL25086021AZ | EMFLODIAZ 10 | Dr. Reddy's Laboratories Malaysia Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24026011ACSZ | Jardiance 25mg film coated tablets | Bahan tunggal | BOEHRINGER INGELHEIM (MALAYSIA) SDN. BHD. | Sah |
+| MAL24026012ACSZ | Jardiance 10mg film coated tablets | Bahan tunggal | BOEHRINGER INGELHEIM (MALAYSIA) SDN. BHD. | Sah |
+| MAL25036016AE | Emrene Film Coated Tablets 25mg | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL25086022AZ | EMFLODIAZ 25 (Empagliflozin Film-Coated Tablets 25mg) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL25086021AZ | EMFLODIAZ 10 (Empagliflozin Film-Coated Tablets 10mg) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 19 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

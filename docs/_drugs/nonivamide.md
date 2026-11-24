@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 531
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-24
 monitor_inn: "Nonivamide"
 predicted_indications: ["pulmonary hypertension", "peripheral arterial disease", "acute lymphoblastic leukemia (disease)", "kyphoscoliotic heart disease", "peripheral vascular disease", "ventricular tachycardia", "anaphylaxis", "migraine disorder", "catecholaminergic polymorphic ventricular tachycardia", "intermittent vascular claudication"]
 description: "Nonivamide: indikasi baharu diramal Hipertensi pulmonari (pulmonary hypertension) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 5 (sah: 4)"
@@ -114,7 +114,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan lanjut.
 **Keputusan: Hold (Tangguh)**
 
 **Rasional:**
-- Semua ramalan hanya bergantung pada skor model TxGNN (pembelajaran mendalam) (Tahap Bukti L5) tanpa percubaan klinikal atau literatur sokongan; skor ini mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Ubat ini dipasarkan di Malaysia (4 lesen sah daripada 5; 1 tidak lagi tersenarai dalam daftar semasa NPRA), dan data mekanisme tindakan serta keselamatan masih tidak lengkap.
+- Semua ramalan hanya bergantung pada skor model TxGNN (pembelajaran mendalam) (Tahap Bukti L5) tanpa percubaan klinikal atau literatur sokongan; skor ini mungkin mencerminkan persamaan yang dipelajari oleh model antara penyakit yang berkaitan, bukan bukti biologi. Ubat ini dipasarkan di Malaysia (lesen yang sah: lihat Gambaran Ringkas; MAL26026009X tidak lagi tersenarai dalam daftar semasa NPRA), dan data mekanisme tindakan serta keselamatan masih tidak lengkap.
 
 <!-- review:begin my-lic-20261119-nonivamide-1 -->
 
@@ -137,7 +137,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Bilangan pendaftaran: “5 lesen sah daripada 5” → 4 sah daripada 5 | Dibetulkan | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
+| 2026-11-19 | Bilangan pendaftaran: “(5 lesen sah daripada 5)” → “(lesen yang sah: lihat Gambaran Ringkas; MAL26026009X tidak lagi terse” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
 
 <!-- review:end log -->
 

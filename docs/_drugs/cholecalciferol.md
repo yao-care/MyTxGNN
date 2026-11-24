@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CHOLECALCIFEROL"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cholecalciferol: indikasi baharu diramal Displasia akromesomelik jenis Campailla Martinelli (acromesomelic dysplasia, Campailla Martinelli type) (tahap bukti L5). Indikasi asal: Tidak direkodkan dala…"
 ---
 
@@ -72,13 +72,19 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 Data tempatan merekodkan 902 lesen yang sah, termasuk 72 produk bahan tunggal. Lesen produk kombinasi tidak digunakan untuk menerangkan status produk bahan tunggal. Teks indikasi dan bentuk dosej tidak direkodkan dalam data tempatan. Contoh produk bahan tunggal:
 
-| Nombor Kelulusan | Nama Produk | Pengeluar |
-|---------|------|------|
-| MAL16045017NC | Nature`s ScienCeuticals SUPA-D3 Softgel | NATURES SCIENCEUTICALS SDN BHD |
-| MAL21056036NCR | YesHealth Yes Vitamin D3 1000 I.U. Capsule | YES HEALTH SDN BHD |
-| MAL21076039NC | DUO LEAF VITAMIN D3 1000 IU TABLET | STELLAR BIO SDN BHD |
-| MAL21086033N | Nutrifort Vitamin D3 400IU Orodispersible Tablet | YANLING NATURAL HYGIENE SDN. BHD. |
-| MAL18086102ARZ | D-CURE 25,000IU ORAL SOLUTION | HYPHENS PHARMA SDN. BHD. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16045017NC | Nature`s ScienCeuticals SUPA-D3 Softgel | Bahan tunggal | NATURES SCIENCEUTICALS SDN BHD | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL21056036NCR | YesHealth Yes Vitamin D3 1000 I.U. Capsule | Bahan tunggal | YES HEALTH SDN BHD | Sah |
+| MAL21076039NC | DUO LEAF VITAMIN D3 1000 IU TABLET | Bahan tunggal | STELLAR BIO SDN BHD | Sah |
+| MAL21086033N | Nutrifort Vitamin D3 400IU Orodispersible Tablet | Bahan tunggal | YANLING NATURAL HYGIENE SDN. BHD. | Sah |
+| MAL18086102ARZ | D-CURE 25,000IU ORAL SOLUTION | Bahan tunggal | HYPHENS PHARMA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 924 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 140
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -78,9 +78,13 @@ Pada masa kini tiada literatur yang berkaitan dikenal pasti, kerana tiada indika
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|------|------|------|------|
-| *(Tidak tersedia)* | *(Tidak tersedia)* | *(Tidak tersedia)* | *(Tidak tersedia)* |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19861236AZ | MERISLON TABLET 6MG | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 > **Nota:** Satu pendaftaran direkodkan dalam pangkalan data, tetapi butiran lesen (nombor kebenaran, nama produk, bentuk dos, dan indikasi yang diluluskan) tidak lengkap. Sila sahkan terus dengan pangkalan data NPRA.
 

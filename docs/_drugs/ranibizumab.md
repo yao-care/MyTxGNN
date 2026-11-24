@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ranibizumab"
 predicted_indications: ["tetanic cataract", "immature cataract", "mature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "hemorrhagic disease of newborn"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ranibizumab: indikasi baharu diramal Tetanic cataract (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -76,9 +76,13 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan untuk katarak mata
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL20071650ARZ | ACCENTRIX 10MG/ML SOLUTION FOR INJECTION | Tidak dinyatakan | Tidak dinyatakan dalam rekod |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20071650ARZ | ACCENTRIX 10MG/ML SOLUTION FOR INJECTION | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Pengilang: Novartis Corporation (Malaysia) Sdn. Bhd. Status: sah, produk tunggal.
 

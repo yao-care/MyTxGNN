@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Daunorubicin"
 predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Daunorubicin: indikasi baharu diramal Limfoma Hodgkin (tahap bukti L5). Indikasi asal: Tiada maklumat indikasi diluluskan dalam data lesen tempatan"
 ---
 
@@ -95,11 +95,15 @@ Kebanyakan kajian berkaitan limfoma bukan Hodgkin atau keracunan antrasiklin, bu
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL20032424AZ | DAUNOCIN FOR INJ | Tiada maklumat | Tiada maklumat |
-| MAL20040555AZ | ZAVEDOS CS 10MG/10ML INJECTION VIALS | Tiada maklumat | Tiada maklumat |
-| MAL19861664ACZ | DAUNOBLASTINA INJECTION 20MG/VIAL | Tiada maklumat | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20032424AZ | DAUNOCIN FOR INJ | Bahan tunggal | FIRST PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL20040555AZ | ZAVEDOS CS 10MG/10ML INJECTION VIALS | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL19861664ACZ | DAUNOBLASTINA INJECTION 20MG/VIAL | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+
+<!-- licenses:end -->
 
 ---
 

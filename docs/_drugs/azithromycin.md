@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "AZITHROMYCIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Azithromycin: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 45 (sah: 44)"
 ---
 
@@ -74,17 +74,23 @@ Senarai di bawah ialah lima daripadanya; teks indikasi yang diluluskan tidak dir
 
 <!-- review:begin my-lic-20261105-azithromycin-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Azithromycin mempunyai 45 pendaftaran yang sah di Malaysia (semuanya produk bahan tunggal), dan tiada yang dibatalkan. Senarai di bawah ialah lima daripadanya; teks indikasi yang diluluskan tidak direkodkan dalam data tempatan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 45 pendaftaran (sah: 44); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Azithromycin mempunyai 45 pendaftaran yang sah di Malaysia (semuanya produk bahan tunggal), dan tiada yang dibatalkan. Senarai di bawah ialah lima daripadanya; teks indikasi yang diluluskan tidak direkodkan dalam data tempatan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-azithromycin-1 -->
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL16065052AZ | Azicine 250mg Hard Capsule | Tidak direkodkan | Tidak direkodkan |
-| MAL06061685AZ | Imexa FC Tablet 250 mg | Tidak direkodkan | Tidak direkodkan |
-| MAL11090011AZ | Azimax 250mg Tablet | Tidak direkodkan | Tidak direkodkan |
-| MAL20032238ARZ | ZITHROMAX IV | Tidak direkodkan | Tidak direkodkan |
-| MAL19985908ACZ | ZITHROMAX TABLET 250MG | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16065052AZ | Azicine 250mg Hard Capsule | Bahan tunggal | STADPHARM SDN. BHD. | Sah |
+| MAL06061685AZ | Imexa FC Tablet 250 mg | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+| MAL11090011AZ | Azimax 250mg Tablet | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL20032238ARZ | ZITHROMAX IV | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL19985908ACZ | ZITHROMAX TABLET 250MG | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 45 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -112,7 +118,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Azithromycin mempunyai 45 pendaftaran yang sah di Malaysia (semuanya produk bahan tunggal), dan tiada yang dibatalkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Azithromycin mempunyai 45 pendaftaran yang sah di Malaysia (semuanya produk bahan tunggal), dan tiada yang dibatalkan" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a) |
 
 <!-- review:end log -->

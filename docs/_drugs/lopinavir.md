@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "LOPINAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lopinavir: indikasi baharu diramal Simian immunodeficiency virus infection (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 7 (sah: 7)"
 ---
 
@@ -79,13 +79,19 @@ Buat masa ini tiada percubaan klinikal berkaitan didaftarkan.
 
 Kesemua 7 lesen yang sah ialah produk gabungan lopinavir dan ritonavir, dan tidak menggambarkan status kelulusan lopinavir sebagai bahan tunggal. Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan.
 
-| Nombor Kelulusan | Nama Produk | Pengilang |
-|---------|------|-----------|
-| MAL12020021AZ | Lopimune Tablets 200/50 mg | Cipla Malaysia Sdn Bhd |
-| MAL08031363ARZ | Kaletra Film-Coated Tablet | AbbVie Sdn Bhd |
-| MAL23076009AZ | HIVUS-LR 200/50 | Unimed Sdn. Bhd. |
-| MAL23076008AZ | HIVUS-LR 100/25 | Unimed Sdn. Bhd. |
-| MAL20020996AZ | Kaletra Oral Solution | AbbVie Sdn Bhd |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12020021AZ | Lopimune Tablets 200/50 mg (Lopinavir and Ritonavir Tablets 200/50 mg) | Kombinasi | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL08031363ARZ | Kaletra Film-Coated Tablet | Kombinasi | ABBVIE SDN BHD | Sah |
+| MAL23076009AZ | HIVUS - LR 200/50 [Lopinavir 200mg and Ritonavir 50mg Film Coated Tablets USP] | Kombinasi | UNIMED SDN. BHD. | Sah |
+| MAL23076008AZ | HIVUS - LR 100/25 [Lopinavir 100mg and Ritonavir 25mg Film Coated Tablets USP] | Kombinasi | UNIMED SDN. BHD. | Sah |
+| MAL20020996AZ | KALETRA ORAL SOLUTION | Kombinasi | ABBVIE SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Terdapat 2 lagi lesen sah (Kaletra 100mg/25mg Film-Coated Tablet, MAL10063000AZ; Prolavir LR, MAL26016030AZ) yang tidak disenaraikan di sini.
 

@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 85
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -70,9 +70,15 @@ Setelah ramalan TxGNN dijana, bahagian ini akan menilai kesetaraan mekanik dari 
 
 Pakej Bukti merekodkan **3 produk berdaftar** di Malaysia (status pertanyaan NPRA: berjaya), tetapi semua medan peringkat produk — nombor kebenaran, nama produk, bentuk dos, pengilang, dan teks indikasi yang diluluskan — dikembalikan sebagai kosong dalam larian pengumpulan ini. Jadual di bawah tidak dapat diisi sehingga butiran pendaftaran NPRA dipertanyakan semula.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|------------------|-------------|-----------|--------------------------|
-| *(tidak diambil)* | *(tidak diambil)* | *(tidak diambil)* | *(tidak diambil)* |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22086024AZ | Aprezo 10mg Film Coated Tablets | Bahan tunggal | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 1 daripada 3 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 **Tindakan diperlukan:** Pertanyaan semula NPRA dengan nama ubat "APREMILAST" dan ambil rekod butiran produk penuh untuk semua 3 lesen.
 

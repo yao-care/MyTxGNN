@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 73
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Amphotericin B: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -86,10 +86,14 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL09072763AZ | AMPHOTRET FOR INJECTION USP 50MG |  | Sah |
-| MAL10053649AZ | AMPHOLIP Injection 50mg/10ml |  | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09072763AZ | AMPHOTRET FOR INJECTION USP 50MG | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+| MAL10053649AZ | AMPHOLIP Injection 50mg/10ml | Bahan tunggal | PAHANG PHARMACY SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

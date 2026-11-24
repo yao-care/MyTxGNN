@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 109
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -93,11 +93,15 @@ Pada masa ini tiada kesusasteraan berkaitan tersedia dalam Evidence Pack ini.
 
 Tiga pendaftaran produk disahkan sebagai berdaftar pada masa ini di Malaysia; walau bagaimanapun, data pendaftaran terperinci (nombor MAL, nama produk, bentuk dos, teks petunjuk yang diluluskan) tidak diisi dalam Evidence Pack yang dikembalikan oleh pertanyaan NPRA.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
-|------------------|-------------|-----------|--------------------------|
-| (Tidak diambil) | (Tidak diambil) | (Tidak diambil) | (Tidak diambil) |
-| (Tidak diambil) | (Tidak diambil) | (Tidak diambil) | (Tidak diambil) |
-| (Tidak diambil) | (Tidak diambil) | (Tidak diambil) | (Tidak diambil) |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22016001AZ | Spedra 50mg Tablets | Bahan tunggal | A. MENARINI SINGAPORE PTE. LTD. | Sah |
+| MAL22016002AZ | Spedra 100mg Tablets | Bahan tunggal | A. MENARINI SINGAPORE PTE. LTD. | Sah |
+| MAL22016003AZ | Spedra 200mg Tablets | Bahan tunggal | A. MENARINI SINGAPORE PTE. LTD. | Sah |
+
+<!-- licenses:end -->
 
 Untuk mendapatkan butiran pendaftaran yang lengkap, pertanyakan pangkalan data e-Farmasi NPRA secara langsung menggunakan INN "AVANAFIL". 3 produk berdaftar dijangka akan membawa petunjuk yang diluluskan bagi disfungsi ereksi.
 

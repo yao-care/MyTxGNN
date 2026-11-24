@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 166
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Brinzolamide: kegunaan diketahui dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -72,11 +72,15 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Brinzolamide (skor ≥ 0.99) 
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL16085016ARZ | SIMBRINZA 10mg/ml + 2mg/ml eye drops, suspension |  | Sah |
-| MAL20091944ARZ | AZARGA 10MG/ML + 5MG/ML EYE DROPS, SUSPENSION |  | Sah |
-| MAL20041107ARSZ | AZOPT 10MG/ML OPHTHALMIC SUSPENSION |  | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16085016ARZ | SIMBRINZA 10mg/ml + 2mg/ml eye drops, suspension | Kombinasi | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL20091944ARZ | AZARGA 10MG/ML + 5MG/ML EYE DROPS, SUSPENSION | Kombinasi | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL20041107ARSZ | AZOPT 10MG/ML OPHTHALMIC SUSPENSION | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

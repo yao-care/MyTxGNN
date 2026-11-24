@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Caffeine"
 predicted_indications: ["nasal cavity disease", "thrombotic disease", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Caffeine: indikasi baharu diramal Penyakit rongga hidung (tahap bukti L5). Indikasi asal: Tiada teks indikasi lulus dalam data pelesenan tempatan"
 ---
 
@@ -88,13 +88,19 @@ Tiada satu pun kajian di bawah mengkaji penyakit rongga hidung sebagai sasaran r
 
 Kesemua 10 pendaftaran ialah produk kombinasi; ia tidak boleh digunakan untuk menggambarkan status kelulusan kafein sebagai bahan tunggal. Teks indikasi yang diluluskan tidak tersedia dalam data untuk semua rekod.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL16095032X | Panadol Extra Tablet Optizorb Formulation | – | – |
-| MAL12035013X | Panadol Extra Caplet | – | – |
-| MAL22066017XC | Watsons Pain & Fever Relief EXTRA Tablet | – | – |
-| MAL13035053ACZ | Cafergot Tablet | – | – |
-| MAL20033465AEZ | PANADOL COLD EXTRA CAPLETS | – | – |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16095032X | Panadol Extra Tablet Optizorb Formulation | Kombinasi | Haleon Malaysia Sdn. Bhd. | Sah |
+| MAL12035013X | Panadol Extra Caplet | Kombinasi | Haleon Malaysia Sdn. Bhd. | Sah |
+| MAL22066017XC | Watsons Pain & Fever Relief EXTRA Tablet | Kombinasi | UNAM PHARMACEUTICAL (M) SDN. BHD. | Sah |
+| MAL13035053ACZ | Cafergot Tablet | Kombinasi | A. MENARINI SINGAPORE PTE. LTD. | Sah |
+| MAL20033465AEZ | PANADOL COLD EXTRA CAPLETS | Kombinasi | STERLING DRUG (MALAYA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 10 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Senarai di atas menunjukkan 5 daripada 10 pendaftaran.
 

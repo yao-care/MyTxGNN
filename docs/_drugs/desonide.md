@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Desonide"
 predicted_indications: ["polyp of vocal cord", "polyp of middle ear", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "polyp of vulva", "fibroepithelial polyp", "neoplastic polyp", "epulis", "uterine polyp"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Desonide: indikasi baharu diramal Polyp of vocal cord (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 35 (sah: 35)"
 ---
 
@@ -83,13 +83,19 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 Rekod pendaftaran tempatan menunjukkan 35 pendaftaran yang sah. Teks indikasi diluluskan dan bentuk dos tidak dinyatakan dalam data yang dikumpulkan. Banyak nama produk dalam senarai ini menunjukkan bahan aktif lain (contohnya produk berjenama budesonide), jadi padanan dengan desonide perlu disahkan semula sebelum digunakan. Hanya rekod komponen tunggal disenaraikan di bawah.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL10070557AZ | Ezenide Lotion 0.05% w/w | Tidak dinyatakan | Tidak dinyatakan |
-| MAL16065020AZ | Besonin Aqua Nasal Spray 64mcg/dose | Tidak dinyatakan | Tidak dinyatakan |
-| MAL11100013ACZ | Ventacort Nasal Spray 64 mcg/actuation | Tidak dinyatakan | Tidak dinyatakan |
-| MAL07081527AZ | Budesma Pressurised Inhalation BP 200mcg | Tidak dinyatakan | Tidak dinyatakan |
-| MAL22116026AZ | Budeten Inhaler 200mcg | Tidak dinyatakan | Tidak dinyatakan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL10070557AZ | Ezenide Lotion 0.05% w/w | Bahan tunggal | HOE PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL16065020AZ | Besonin Aqua Nasal Spray 64mcg/dose | Bahan tunggal | RIGEL PHARMA SDN. BHD. | Sah |
+| MAL11100013ACZ | Ventacort Nasal Spray 64 mcg/actuation | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL07081527AZ | Budesma Pressurised Inhalation BP 200mcg | Bahan tunggal | BioCare Pharmaceutical (M) Sdn. Bhd. | Sah |
+| MAL22116026AZ | Budeten Inhaler 200mcg | Bahan tunggal | TENANG PHARMA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 35 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

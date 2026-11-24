@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Chloramphenicol"
 predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chloramphenicol: indikasi baharu diramal Skleroderma meresap (diffuse scleroderma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 13 (sah: 13)"
 ---
 
@@ -77,13 +77,19 @@ Keempat-empat kajian ini ialah penyelidikan asas tentang penyakit dan tidak meng
 
 Status pasaran: dipasarkan. Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Senarai di bawah menunjukkan sehingga 5 kelulusan produk ubat tunggal.
 
-| Nombor Kebenaran | Nama Produk | Bentuk (berdasarkan nama produk) |
-|---------|------|------|
-| MAL19860736AZ | XEPANICOL EYE DROPS 0.5% | Titis mata |
-| MAL19860741AZ | XEPANICOL EAR DROPS 5% W/V | Titis telinga |
-| MAL12115063AZ | SHINACOL EYE DROPS 0.5% | Titis mata |
-| MAL08111769AZ | Vanmycetin Eye Drops (Chloramphenicol Eye Drops 0.5% w/v) | Titis mata |
-| MAL20142424AEZ | HOVID CHLORAMPHENICOL CAPSULE 250MG | Kapsul |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19860736AZ | XEPANICOL EYE DROPS 0.5% | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+| MAL19860741AZ | XEPANICOL EAR DROPS 5% W/V | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+| MAL12115063AZ | SHINACOL EYE DROPS 0.5% | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL08111769AZ | Vanmycetin Eye Drops (Chloramphenicol Eye Drops 0.5% w/v) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL20142424AEZ | HOVID CHLORAMPHENICOL CAPSULE 250MG | Bahan tunggal | HOVID BERHAD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 13 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Semua produk di atas ialah titisan mata, titisan telinga, salap mata atau kapsul. Tiada produk suntikan disenaraikan dalam data tempatan.
 

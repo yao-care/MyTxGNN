@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 106
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -64,9 +64,13 @@ Disyorkan untuk melengkapkan data dan melaksanakan semula proses ramalan, kemudi
 
 Pertanyaan NPRA mengembalikan 1 pendaftaran Dipasarkan, tetapi Evidence Pack ini belum mendapatkan medan pendaftaran terperinci (nama produk, bentuk dos, indikasi yang diluluskan, dll.).
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|------------------|------------|-----------|------------------------|
-| (Belum diperoleh) | (Belum diperoleh) | (Belum diperoleh) | (Belum diperoleh) |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20014470ACRZ | MALARONE TABLETS | Kombinasi | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 > **Langkah Pemulihan**: Melalui antara muka pertanyaan rasmi NPRA, dapatkan maklumat produk lengkap menggunakan nombor pendaftaran dan isikan jadual di atas.
 

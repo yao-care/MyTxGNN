@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "Acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Acetylcysteine: indikasi baharu diramal Penyakit trombotik (thrombotic disease) (tahap bukti L1). Di Malaysia, pendaftaran NPRA: 36 (sah: 36)"
 ---
 
@@ -91,13 +91,19 @@ Perlu diberi perhatian bahawa data klinikal adalah heterogen merentasi subjenis 
 
 Status pasaran: dipasarkan. Menurut data tempatan, terdapat 36 lesen sah (31 produk ramuan tunggal dan 5 produk gabungan). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL20014507X | FLUIMUCIL A-200 GRANULES | Tidak direkodkan | Tidak direkodkan |
-| MAL21126012X | ALPAC Effervescent Tablet 600mg | Tidak direkodkan | Tidak direkodkan |
-| MAL22026018AZ | INFUSOL NAC (200 mg/mL, infusi intravena) | Tidak direkodkan | Tidak direkodkan |
-| MAL17055002ACZ | HIDONAC SOLUTION FOR IV INFUSION (5G/25ML) | Tidak direkodkan | Tidak direkodkan |
-| MAL17107049XCZ | Acetylcysteine Sandoz Effervescent Tablet 200mg | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20014507X | FLUIMUCIL A-200 GRANULES | Bahan tunggal | EP PLUS GROUP SDN. BHD. | Sah |
+| MAL21126012X | ALPAC Effervescent Tablet 600mg | Bahan tunggal | Mansa Healthcare Sdn Bhd | Sah |
+| MAL22026018AZ | INFUSOL NAC (Acetylcysteine 200 mg/mL Solution for Intravenous Infusion) | Bahan tunggal | AIN MEDICARE SDN. BHD. | Sah |
+| MAL17055002ACZ | HIDONAC SOLUTION FOR IV INFUSION (5G/25ML) | Bahan tunggal | EP PLUS GROUP SDN. BHD. | Sah |
+| MAL17107049XCZ | Acetylcysteine Sandoz Effervescent Tablet 200mg | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 36 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

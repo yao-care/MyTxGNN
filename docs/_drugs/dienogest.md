@@ -5,7 +5,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 288
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Dienogest: indikasi baharu diramal Amenorea (amenorrhea) (tahap bukti L5). Indikasi asal: Tiada data"
 monitor_inn: "Dienogest"
 predicted_indications: ["amenorrhea (disease)", "primary ovarian failure", "breast fibrocystic disease", "isolated growth hormone deficiency", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "hypogonadotropic hypogonadism with or without anosmia", "partial trisomy/tetrasomy of the short arm of chromosome 5", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18"]
@@ -111,7 +111,7 @@ Sila rujuk sisipan pakej untuk maklumat keselamatan lengkap, termasuk amaran dan
 
 <!-- review:begin my-lic-20261105-dienogest-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Amenorea lebih mungkin kesan farmakologi yang dijangka daripada ubat ini, jadi ramalan ini tidak menyokong kegunaan terapeutik. / Ubat ini tidak mempunyai lesen berdaftar di Malaysia berdasarkan data yang dikumpulkan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 6 pendaftaran (sah: 6); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Amenorea lebih mungkin kesan farmakologi yang dijangka daripada ubat ini, jadi ramalan ini tidak menyokong kegunaan terapeutik. / Ubat ini tidak mempunyai lesen berdaftar di Malaysia berdasarkan data yang dikumpulkan." Dipadam: ia menyatakan ubat ini tidak berdaftar, pendaftarannya dibatalkan atau tamat tempoh, atau tidak dipasarkan di Malaysia, yang tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-dienogest-1 -->
 
@@ -136,7 +136,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Ubat ini tidak mempunyai lesen berdaftar di Malaysia berdasarkan data yang dikumpulkan" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Ubat ini tidak mempunyai lesen berdaftar di Malaysia berdasarkan data yang dikumpulkan" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 463
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -62,10 +62,16 @@ Dua jurang data yang menghalang (MOA dan sisipan pakej) mesti diselesaikan sebel
 
 9 pendaftaran NPRA telah disahkan, tetapi semua rekod lesen individu dalam Evidence Pack ini tidak dipenuhi (rentetan kosong). Maklumat peringkat produk yang terperinci tidak tersedia sehingga data lesen diambil dari pangkalan data NPRA.
 
-| Item | Status |
-|------|--------|
-| Jumlah pendaftaran (NPRA) | 9 |
-| Butiran lesen | Tidak tersedia dalam Evidence Pack ini |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL12045094ARZ | TRAJENTA 5MG FILM-COATED TABLETS | Bahan tunggal | BOEHRINGER INGELHEIM (MALAYSIA) SDN. BHD. | Sah |
+| MAL24126022AZ | REDLYNA (Linagliptin film-coated tablets 5mg) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 2 daripada 10 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

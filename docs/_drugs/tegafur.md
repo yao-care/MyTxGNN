@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tegafur"
 predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "colonic lymphangioma", "cavernous hemangioma of colon"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tegafur: indikasi baharu diramal Adenoma vilus sekum (cecum villous adenoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
@@ -68,11 +68,15 @@ Pada masa ini tiada literatur berkaitan.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19071004AZ | TS-ONE OD Tablet 20 | – | Tidak tersedia |
-| MAL19071005AZ | TS-ONE OD Tablet 25 | – | Tidak tersedia |
-| MAL09102913AZ | UFUR Capsule | – | Tidak tersedia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19071004AZ | TS-ONE OD Tablet 20 | Kombinasi | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL19071005AZ | TS-ONE OD Tablet 25 | Kombinasi | ZUELLIG PHARMA SDN. BHD. | Sah |
+| MAL09102913AZ | UFUR Capsule | Kombinasi | PHARM-D SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Ketiga-tiga lesen yang sah ialah produk gabungan; tiada lesen produk bahan tunggal.
 

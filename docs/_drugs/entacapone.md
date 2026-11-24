@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Entacapone"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Entacapone: indikasi baharu diramal PLA2G6-associated neurodegeneration (tahap bukti L5). Indikasi asal: Penyakit Parkinson (hubungan yang direkodkan dalam graf pengetahuan"
 ---
 
@@ -81,11 +81,17 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Jenis |
-|---------|------|------|-----------|
-| MAL24086027AZ | Entamac (Entacapone Film Coated Tablets 200 mg) | Tablet bersalut filem | Bahan tunggal |
-| MAL19116034ACZ | Entacapone HEC 200 mg film-coated tablets | Tablet bersalut filem | Bahan tunggal |
-| MAL19992996ARZ | COMTAN TABLET 200MG | Tablet | Bahan tunggal |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24086027AZ | Entamac (Entacapone Film Coated Tablets 200 mg) | Bahan tunggal | Macleods Pharmaceuticals Sdn. Bhd. | Sah |
+| MAL19116034ACZ | Entacapone HEC 200 mg film-coated tablets | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL19992996ARZ | COMTAN TABLET 200MG | Bahan tunggal | ORION PHARMA (MY) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 3 daripada 11 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Teks indikasi yang diluluskan tidak tersedia dalam rekod lesen. Lapan lesen lain ialah produk kombinasi (Celtor dan Stalevo) dan tidak digunakan untuk menggambarkan status kelulusan entacapone bahan tunggal.
 

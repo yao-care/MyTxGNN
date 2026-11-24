@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01132
 monitor_inn: "Pioglitazone"
 predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pioglitazone Hydrochloride: indikasi baharu diramal Opsismodisplasia (opsismodysplasia) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 6)"
 ---
 
@@ -81,13 +81,19 @@ Pada masa ini tiada literatur berkaitan yang tersedia untuk opsismodisplasia.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL11100026ACZ | ACTOS 15MG TABLET | Tidak direkodkan | Tidak direkodkan |
-| MAL21126010AZ | GLIT 15 (PIOGLITAZONE TABLETS 15MG) | Tidak direkodkan | Tidak direkodkan |
-| MAL21126011AZ | GLIT 30 (PIOGLITAZONE TABLETS 30MG) | Tidak direkodkan | Tidak direkodkan |
-| MAL10012471AZ | PIOLET 15MG TABLETS | Tidak direkodkan | Tidak direkodkan |
-| MAL10012472AZ | PIOLET 30MG TABLETS | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL11100026ACZ | ACTOS 15MG TABLET | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL21126010AZ | GLIT 15 (PIOGLITAZONE TABLETS 15MG) | Bahan tunggal | SYNERRV SDN BHD | Sah |
+| MAL21126011AZ | GLIT 30 (PIOGLITAZONE TABLETS 30MG) | Bahan tunggal | SYNERRV SDN BHD | Sah |
+| MAL10012471AZ | PIOLET 15MG TABLETS | Bahan tunggal | JETPHARMA SDN. BHD. | Sah |
+| MAL10012472AZ | PIOLET 30MG TABLETS | Bahan tunggal | JETPHARMA SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

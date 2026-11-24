@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Megestrol acetate"
 predicted_indications: ["hereditary breast ovarian cancer syndrome", "borderline epithelial tumor of ovary", "uterine carcinosarcoma", "placenta cancer", "ovarian clear cell adenocarcinoma", "ovarian cancer", "malignant dysgerminomatous germ cell tumor of ovary"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Megestrol Acetate: indikasi baharu diramal Sindrom kanser payudara dan ovari berketurunan (tahap bukti L5). Indikasi asal: Tidak tersedia (teks indikasi pada rekod pendaftaran kosong)"
 ---
 
@@ -81,11 +81,15 @@ Ujian Fasa III [NCT00005975](https://clinicaltrials.gov/study/NCT00005975) (288 
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL18016021AZ | Megex-I Suspension 800mg/20ml | IMEKS PHARMA SDN. BHD. |
-| MAL19988445AZ | APO-MEGESTROL 160MG | PHARMAFORTE (MALAYSIA) SDN. BHD. |
-| MAL21016012ACZ | hovid-Megestrol Oral Suspension 40mg/ml | HOVID BERHAD |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL18016021AZ | Megex-I Suspension 800mg/20ml | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL19988445AZ | APO-MEGESTROL 160MG | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL21016012ACZ | hovid-Megestrol Oral Suspension 40mg/ml | Bahan tunggal | HOVID BERHAD | Sah |
+
+<!-- licenses:end -->
 
 Ketiga-tiga produk ialah ubat berbahan tunggal dan berstatus sah. Teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan.
 

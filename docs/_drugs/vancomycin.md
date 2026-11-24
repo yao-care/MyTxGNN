@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Vancomycin"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vancomycin: indikasi baharu diramal Diffuse scleroderma (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data pendaftaran tempatan"
 ---
 
@@ -83,13 +83,19 @@ Buat masa ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL06051288AZ | Vancotex Injection 500mg | – | – |
-| MAL17015021AZ | VIVOCIN (Vancomycin Hydrochloride for Injection USP 500mg/vial) | – | – |
-| MAL24046016AZ | VANCO-500 (Vancomycin Hydrochloride USP Powder for solution for infusion 500 mg) | – | – |
-| MAL19990244ACZ | INNO.N Sterile Vancomycin HCl Injection 500 mg/vial | – | – |
-| MAL21046018AZ | VAMOCIN 1GM (Vancomycin Hydrochloride Powder for Concentration for Infusion 1gm) | – | – |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06051288AZ | Vancotex Injection 500mg | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL17015021AZ | VIVOCIN (VANCOMYCIN HYDROCHLORIDE FOR INJECTION USP 500MG/VIAL | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL24046016AZ | VANCO-500 (Vancomycin Hydrochloride USP Powder for solution for infusion 500 mg) | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL19990244ACZ | INNO.N STERILE VANCOMYCIN HCl INJECTION 500 mg/vial | Bahan tunggal | THE ZYFAS MEDICAL CO., | Sah |
+| MAL21046018AZ | VAMOCIN 1GM (Vancomycin Hydrochloride Powder for Concentration for Infusion 1gm) | Bahan tunggal | AVERROES PHARMACEUTICALS SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 7 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Senarai ini memaparkan 5 daripada 7 kebenaran sah. Dua lagi ialah VAMOCIN 500mg (MAL21046017AZ) dan CELOVAN 500 mg (MAL16065021ARZ). Bentuk dos dan teks indikasi tidak tersedia dalam data yang dikumpulkan.
 

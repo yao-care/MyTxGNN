@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 208
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Cephalexin: kegunaan sedia ada dan status pasaran di Malaysia; buat masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -72,34 +72,38 @@ Semua calon yang dihasilkan oleh model TxGNN untuk Cephalexin, yang boleh dikesa
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL06081196AZ | Cephanmycin Capsule 500mg |  | Sah |
-| MAL20014217AZ | AXCEL CEPHALEXIN-500 CAPSULE |  | Sah |
-| MAL20014216AZ | AXCEL CEPHALEXIN-250 CAPSULE |  | Sah |
-| MAL20020023AZ | AXCEL CEPHALEXIN-125 SUSPENSION |  | Sah |
-| MAL19970955AZ | SOFILEX CAPSULE 250MG |  | Sah |
-| MAL07050015AZ | Dyna Cephalexin Capsule 500mg |  | Sah |
-| MAL07050014AZ | Dyna Cephalexin Capsule 250mg |  | Sah |
-| MAL20122235ACEZ | HOVID CEPHALEXIN CAPSULE 500MG |  | Sah |
-| MAL07031092AZ | Dynalexin Dry Syrup 250MG/5ML |  | Sah |
-| MAL07031083AZ | Dynalexin Dry Syrup 125MG/5ML |  | Sah |
-| MAL19973678AZ | PHARMANIAGA CEPHALEXIN SUSPENSION 250MG |  | Sah |
-| MAL19984044AZ | PHARMANIAGA CEPHALEXIN CAPSULE 500MG |  | Sah |
-| MAL19984043AZ | PHARMANIAGA CEPHALEXIN CAPSULE 250MG |  | Sah |
-| MAL19984839AZ | SOFILEX ORAL SUSPENSION |  | Sah |
-| MAL19984399AZ | CEPHALEXIN GRANULES FOR ORAL SUSPENSION MPI 250mg/5ml |  | Sah |
-| MAL19985184AZ | CEPHALEXIN TABLETS `MPI` 500MG |  | Sah |
-| MAL14030034HA | Cephan Water Soluble Powder 500mg/g |  | Sah |
-| MAL08111788AZ | Aurocef  Capsules 500mg |  | Sah |
-| MAL08111786AZ | Aurocef Capsules 250mg |  | Sah |
-| MAL19940383AZ | PHARMANIAGA CEPHALEXIN SUSPENSION 125 MG |  | Sah |
-| MAL19900375AZ | CEPHALEXIN GRANULES FOR ORAL SUSPENSION MPI 125mg/5ml |  | Sah |
-| MAL20076029ACZ | Uphalexin Capsule 250mg |  | Sah |
-| MAL20076028ACZ | Uphalexin Granules 125mg/5ml |  | Sah |
-| MAL20076030ACZ | Uphalexin Capsule 500mg |  | Sah |
-| MAL19910003AZ | CEPHALEXIN CAPSULES 'MPI' 250 MG  |  | Sah |
-| MAL16035027AZ | Axcel Cephalexin-250 Suspension |  | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06081196AZ | Cephanmycin Capsule 500mg | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL20014217AZ | AXCEL CEPHALEXIN-500 CAPSULE | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. | Sah |
+| MAL20014216AZ | AXCEL CEPHALEXIN-250 CAPSULE | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. | Sah |
+| MAL20020023AZ | AXCEL CEPHALEXIN-125 SUSPENSION | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. | Sah |
+| MAL19970955AZ | SOFILEX CAPSULE 250MG | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+| MAL07050015AZ | Dyna Cephalexin Capsule 500mg | Bahan tunggal | DYNAPHARM (M) SDN. BHD. | Sah |
+| MAL07050014AZ | Dyna Cephalexin Capsule 250mg | Bahan tunggal | DYNAPHARM (M) SDN. BHD. | Sah |
+| MAL20122235ACEZ | HOVID CEPHALEXIN CAPSULE 500MG | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL07031092AZ | Dynalexin Dry Syrup 250MG/5ML | Bahan tunggal | DYNAPHARM (M) SDN. BHD. | Sah |
+| MAL07031083AZ | Dynalexin Dry Syrup 125MG/5ML | Bahan tunggal | DYNAPHARM (M) SDN. BHD. | Sah |
+| MAL19973678AZ | PHARMANIAGA CEPHALEXIN SUSPENSION 250MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL19984044AZ | PHARMANIAGA CEPHALEXIN CAPSULE 500MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL19984043AZ | PHARMANIAGA CEPHALEXIN CAPSULE 250MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL19984839AZ | SOFILEX ORAL SUSPENSION | Bahan tunggal | XEPA-SOUL PATTINSON (MALAYSIA) SDN. BHD. | Sah |
+| MAL19984399AZ | CEPHALEXIN GRANULES FOR ORAL SUSPENSION MPI 250mg/5ml | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL19985184AZ | CEPHALEXIN TABLETS `MPI` 500MG | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL14030034HA | Cephan Water Soluble Powder 500mg/g | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL08111788AZ | Aurocef Capsules 500mg | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL08111786AZ | Aurocef Capsules 250mg | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL19940383AZ | PHARMANIAGA CEPHALEXIN SUSPENSION 125 MG | Bahan tunggal | PHARMANIAGA MANUFACTURING BERHAD | Sah |
+| MAL19900375AZ | CEPHALEXIN GRANULES FOR ORAL SUSPENSION MPI 125mg/5ml | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL20076029ACZ | Uphalexin Capsule 250mg | Bahan tunggal | Duopharma Marketing Sdn. Bhd. | Sah |
+| MAL20076028ACZ | Uphalexin Granules 125mg/5ml | Bahan tunggal | Duopharma Marketing Sdn. Bhd. | Sah |
+| MAL20076030ACZ | Uphalexin Capsule 500mg | Bahan tunggal | Duopharma Marketing Sdn. Bhd. | Sah |
+| MAL19910003AZ | CEPHALEXIN CAPSULES 'MPI' 250 MG | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL16035027AZ | Axcel Cephalexin-250 Suspension | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

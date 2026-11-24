@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Levodopa: indikasi baharu diramal Ensefalitis subakut Rasmussen (tahap bukti L5). Indikasi asal: Penyakit Parkinson (hubungan indikasi direkodkan dalam graf pengetahu…"
 ---
 
@@ -73,7 +73,7 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-Daripada 15 pendaftaran, 14 sah dan 1 tidak lagi tersenarai dalam daftar semasa NPRA; kesemuanya ialah produk kombinasi (levodopa bersama karbidopa/benserazida, atau bersama karbidopa dan entakapon). Lesen produk kombinasi tidak menggambarkan status kelulusan levodopa sebagai bahan tunggal. Teks indikasi diluluskan tidak tersedia dalam rekod.
+Kesemua pendaftaran, termasuk MAL19871097ACRZ (MADOPAR ROCHE 125 CAPSULE) yang tidak lagi tersenarai dalam daftar semasa NPRA, ialah produk kombinasi (levodopa bersama karbidopa/benserazida, atau bersama karbidopa dan entakapon). Lesen produk kombinasi tidak menggambarkan status kelulusan levodopa sebagai bahan tunggal. Teks indikasi diluluskan tidak tersedia dalam rekod.
 
 <!-- review:begin my-lic-20261112-levodopa-1 -->
 
@@ -81,13 +81,19 @@ Daripada 15 pendaftaran, 14 sah dan 1 tidak lagi tersenarai dalam daftar semasa 
 
 <!-- review:end my-lic-20261112-levodopa-1 -->
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19984315AZ | CREDANIL 25/250 TABLET | Tidak tersedia | Tidak tersedia |
-| MAL18086152AZ | CELTOR TABLETS 50+12.5+200 MG | Tidak tersedia | Tidak tersedia |
-| MAL09102942AZ | Stalevo 200/50/200mg Film-coated Tablet | Tidak tersedia | Tidak tersedia |
-| MAL19871097ACRZ | MADOPAR ROCHE 125 CAPSULE | Tidak tersedia | Tidak tersedia |
-| MAL19986476ARZ | APO-LEVOCARB 250/25MG TABLET | Tidak tersedia | Tidak tersedia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19984315AZ | CREDANIL 25/250 TABLET | Kombinasi | EUCOGEN SDN BHD | Sah |
+| MAL18086152AZ | CELTOR TABLETS 50+12.5+200 MG | Kombinasi | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL09102942AZ | Stalevo 200/50/200mg Film-coated Tablet | Kombinasi | ORION PHARMA (MY) SDN. BHD. | Sah |
+| MAL19871097ACRZ | MADOPAR ROCHE 125 CAPSULE | Kombinasi | ROCHE (MALAYSIA) SDN. BHD. | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |
+| MAL19986476ARZ | APO-LEVOCARB 250/25MG TABLET | Kombinasi | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 15 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Ini hanyalah 5 daripada 15 pendaftaran; baki ialah variasi kekuatan CELTOR, Stalevo, MADOPAR dan APO-LEVOCARB serta LEVOMED.
 
@@ -120,7 +126,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-19 | Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Daripada 15 pendaftaran, 14 sah dan 1 tidak lagi tersenarai dalam daftar semasa NPRA; kesemuanya kombinasi” | Dibetulkan (disemak 2026-11-19; versi terdahulu disimpan dalam rekod) | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
+| 2026-11-19 | Bilangan pendaftaran: “Kesemua 15 pendaftaran yang sah ialah produk kombinasi” → “Kesemua pendaftaran, termasuk MAL19871097ACRZ (MADOPAR ROCHE 125 CAPSU” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA QUEST3+ (semakan manual oleh pengguna, 2026-11-19)](https://quest3plus.bpfk.gov.my/pmo2/index.php); [NPRA pharmaceutical product registrations (data.gov.my, pharmaceutical_products.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products.csv); [NPRA cancelled pharmaceutical products (data.gov.my, pharmaceutical_products_cancelled.csv, versi 2026-11-19 03:00 MYT)](https://storage.data.gov.my/healthcare/pharmaceutical_products_cancelled.csv) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb) |
 
 <!-- review:end log -->

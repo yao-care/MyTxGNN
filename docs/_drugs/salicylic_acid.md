@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Salicylic Acid"
 predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "rosacea conjunctivitis", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "myosclerosis", "brachyolmia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Salicylic Acid: indikasi baharu diramal Konjunktivitis papilari (papillary conjunctivitis) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 71 (sah: 69)"
 ---
 
@@ -73,13 +73,19 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 Berikut ialah lima daripada 71 pendaftaran (senarai penuh lengkap, bukan separa). Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data yang dikumpulkan untuk laporan ini.
 
-| Nombor Kebenaran | Nama Produk | Jenis | Pengilang |
-|---------|------|------|-----------|
-| MAL19961282XZ | TOOPRIN TABLET | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. |
-| MAL21096015HX | Salicyline 50%w/w Powder for Oral Solution | Bahan tunggal | Rhone Ma Malaysia Sdn Bhd |
-| MAL17076014XZ | NW SALICYLIC ACID 2%W/W CREAM | Bahan tunggal | NATURAL WELLNESS INDUSTRIES SDN. BHD. |
-| MAL12075080XZ | XORLYX 2 Salicylic Acid 2% w/w Ointment | Bahan tunggal | Xorix Sdn Bhd |
-| MAL20172843XC | Collomack Topical Solution 10% w/w | Bahan tunggal | DCH AURIGA (MALAYSIA) SDN. BHD. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19961282XZ | TOOPRIN TABLET | Bahan tunggal | KOTRA PHARMA (M) SDN. BHD. | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL21096015HX | Salicyline 50%w/w Powder for Oral Solution | Bahan tunggal | Rhone Ma Malaysia Sdn Bhd | Sah |
+| MAL17076014XZ | NW SALICYLIC ACID 2%W/W CREAM | Bahan tunggal | NATURAL WELLNESS INDUSTRIES SDN. BHD. (MILIK PENUH NUTRIVENTION SDN. B… | Sah |
+| MAL12075080XZ | XORLYX 2 Salicylic Acid 2% w/w Ointment | Bahan tunggal | Xorix Sdn Bhd | Sah |
+| MAL20172843XC | Collomack Topical Solution 10% w/w | Bahan tunggal | DCH AURIGA (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 71 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

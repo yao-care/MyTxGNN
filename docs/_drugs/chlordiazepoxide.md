@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Chlordiazepoxide"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "hallucinogen abuse", "antidepressant type abuse", "barbiturate abuse", "myofascial pain syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlordiazepoxide: indikasi baharu diramal Insomnia (tahap bukti L5). Indikasi asal: Tiada teks indikasi dalam rekod lesen tempatan"
 ---
 
@@ -89,9 +89,13 @@ Setakat ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 Rekod tempatan hanya menunjukkan satu lesen untuk **produk kombinasi**. Ia tidak boleh digunakan untuk menerangkan status kelulusan chlordiazepoxide bahan tunggal. Teks indikasi dan bentuk dos tidak dicatatkan.
 
-| Nombor Kebenaran | Nama Produk | Pengilang | Jenis | Status |
-|---------|------|------|------|------|
-| MAL20013121AZ | LIBLAN FILM-COATED TABLET | Y.S.P. Industries (M) Sdn. Bhd. | Kombinasi | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20013121AZ | LIBLAN FILM-COATED TABLET | Kombinasi | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

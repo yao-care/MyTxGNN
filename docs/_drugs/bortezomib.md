@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 158
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Bortezomib: kegunaan diketahui dan status pasaran di Malaysia; pada masa ini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -78,25 +78,31 @@ Model pembelajaran mendalam TxGNN tidak menghasilkan sebarang calon dengan skor 
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL21066026AZ | Retrox 3.5mg Powder for Solution for Injection |  | Sah |
-| MAL21076005AZ | Bortecip (Bortezomib for injection 3.5mg/vial) |  | Sah |
-| MAL21106013ACRZ | Velcade 3.5mg for Injection (sterile lyophilized powder) |  | Sah |
-| MAL17075016AZ | ACCORD BORTEZOMIB 3.5 (Bortezomib powder for solution for in |  | Sah |
-| MAL17065017AZ | BORTERO (Bortezomib  for Injection 3.5 mg) |  | Sah |
-| MAL22096021AZ | MYBORTE 1.0mg (Bortezomib Powder for Solution for Injection  |  | Sah |
-| MAL22106010AZ | BORT SPAL 3.5 (Bortezomib Powder for Solution for Injection  |  | Sah |
-| MAL18026178AZ | MYBORTE 3.5mg (Bortezomib Powder For Solution for Injection  |  | Sah |
-| MAL23096025AZ | Myelomib 3.5mg Lyophilized Powder for Solution for Injection |  | Sah |
-| MAL23106002ARZ | Bortezomib Kabi Powder for Solution for Injection 3.5mg/vial |  | Sah |
-| MAL18116143AZ | BORTESUN POWDER FOR SOLUTION FOR INJECTION 3.5 mg |  | Sah |
-| MAL24086017AZ | BortiRel (Bortezomib 1 mg powder for solution for injection) |  | Sah |
-| MAL24086018AZ | BortiRel (Bortezomib 3.5 mg powder for solution for injectio |  | Sah |
-| MAL25016017AZ | FONKOZOMIB Lyophilized Powder for Injection 3.5 mg |  | Sah |
-| MAL20096006AZ | CYTOMIB (Bortezomib 3.5 mg Powder for Solution for Injection |  | Sah |
-| MAL20116014AZ | MIBZO Bortezomib powder for solution for Injection 3.5 mg/vi |  | Sah |
-| MAL21036020AZ | BORTEBIN  (Bortezomib 3.5mg Powder for Solution for Injectio |  | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21066026AZ | Retrox 3.5mg Powder for Solution for Injection | Bahan tunggal | INSPIRAPHARMA SDN. BHD. | Sah |
+| MAL21076005AZ | Bortecip (Bortezomib for injection 3.5mg/vial) | Bahan tunggal | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL21106013ACRZ | Velcade 3.5mg for Injection (sterile lyophilized powder) | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL17075016AZ | ACCORD BORTEZOMIB 3.5 (Bortezomib powder for solution for injection 3.5 mg/vial) | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL17065017AZ | BORTERO (Bortezomib for Injection 3.5 mg) | Bahan tunggal | CAMBER LABORATORIES SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL22096021AZ | MYBORTE 1.0mg (Bortezomib Powder for Solution for Injection 1.0mg/vial) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL22106010AZ | BORT SPAL 3.5 (Bortezomib Powder for Solution for Injection 3.5mg/vial) | Bahan tunggal | HEALOL PHARMACEUTICALS SDN. BHD. | Sah |
+| MAL18026178AZ | MYBORTE 3.5mg (Bortezomib Powder For Solution for Injection 3.5mg/vial) | Bahan tunggal | Dr. Reddy`s Laboratories Malaysia Sdn. Bhd. | Sah |
+| MAL23096025AZ | Myelomib 3.5mg Lyophilized Powder for Solution for Injection | Bahan tunggal | NOVUGEN ONCOLOGY SDN. BHD. | Sah |
+| MAL23106002ARZ | Bortezomib Kabi Powder for Solution for Injection 3.5mg/vial | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+| MAL18116143AZ | BORTESUN POWDER FOR SOLUTION FOR INJECTION 3.5 mg | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL24086017AZ | BortiRel (Bortezomib 1 mg powder for solution for injection) | Bahan tunggal | Mansa Healthcare Sdn Bhd | Sah |
+| MAL24086018AZ | BortiRel (Bortezomib 3.5 mg powder for solution for injection) | Bahan tunggal | Mansa Healthcare Sdn Bhd | Sah |
+| MAL25016017AZ | FONKOZOMIB Lyophilized Powder for Injection 3.5 mg | Bahan tunggal | IMEKS PHARMA SDN. BHD. | Sah |
+| MAL20096006AZ | CYTOMIB (Bortezomib 3.5 mg Powder for Solution for Injection) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL20116014AZ | MIBZO Bortezomib powder for solution for Injection 3.5 mg/vial | Bahan tunggal | MEGA LIFESCIENCES SDN. BHD. | Sah |
+| MAL21036020AZ | BORTEBIN (Bortezomib 3.5mg Powder for Solution for Injection) | Bahan tunggal | SYNERRV SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 17 daripada 18 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

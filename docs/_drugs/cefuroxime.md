@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Cefuroxime"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cefuroxime: indikasi baharu diramal Sindrom hiperkelikatan poliklonal (polyclonal hyperviscosity syndrome) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 39 (sah: 39)"
 ---
 
@@ -81,13 +81,19 @@ Buat masa ini tiada literatur berkaitan untuk indikasi ini.
 
 Cefuroxime mempunyai 39 pendaftaran yang sah di Malaysia (suntikan, tablet, kapsul dan serbuk suspensi oral). Teks indikasi yang diluluskan dan bentuk dos tidak terdapat dalam rekod yang dikumpulkan. Senarai di bawah ialah lima pendaftaran contoh dan bukan senarai penuh.
 
-| No. Kelulusan | Nama Produk | Pengilang / Pemegang |
-|---------|------|------|
-| MAL19871017ACRZ | Zinacef Injection 750mg | Sandoz Products Malaysia Sdn. Bhd. |
-| MAL19890137ARZ | Zinnat Tablet 250mg | Sandoz Products Malaysia Sdn. Bhd. |
-| MAL22086003ARZ | Zinnat Tablets 500mg | Sandoz Products Malaysia Sdn. Bhd. |
-| MAL19921571ARZ | Zinnat Suspension 125mg/5ml | Sandoz Products Malaysia Sdn. Bhd. |
-| MAL22046025ACZ | Altacef 500mg Film Coated Tablet | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19871017ACRZ | ZINACEF INJECTION 750MG | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+| MAL19890137ARZ | ZINNAT TABLET 250MG | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+| MAL22086003ARZ | Zinnat Tablets 500mg | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+| MAL19921571ARZ | Zinnat Suspension 125mg/5ml | Bahan tunggal | SANDOZ PRODUCTS MALAYSIA SDN. BHD. | Sah |
+| MAL22046025ACZ | Altacef 500mg Film Coated Tablet | Bahan tunggal | Glenmark Pharmaceuticals (Malaysia) Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 39 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

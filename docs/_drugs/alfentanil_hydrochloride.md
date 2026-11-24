@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB00802
 monitor_inn: "Alfentanil"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-24
 description: "Alfentanil Hydrochloride: indikasi baharu diramal Sindrom antidiuresis tidak wajar nefrogenik (nephrogenic syndrome of inappropriate antidiuresis) (tahap bukti L5)."
 ---
 
@@ -73,9 +73,13 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL22126011ACZ | RAPIFEN 0.5mg/ml Injection | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22126011ACZ | RAPIFEN 0.5mg/ml Injection | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

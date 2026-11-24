@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Insulin Human"
 predicted_indications: ["autoimmune oophoritis", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Insulin Human: indikasi baharu diramal Autoimmune oophoritis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 22 (sah: 22)"
 ---
 
@@ -73,13 +73,19 @@ Buat masa ini tiada literatur berkaitan yang tersedia.
 
 Teks indikasi yang diluluskan dan bentuk dos tidak tersedia dalam data. Lima pendaftaran utama disenaraikan:
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL21066008ASZ | Mixtard 30 FlexPen 100 IU/ml Suspension for Injection in Pre-filled Pen (Novo Nordisk) | Suspensi untuk suntikan | Tidak tersedia |
-| MAL21066007ASZ | Actrapid FlexPen 100 IU/ml Solution for Injection in Pre-filled Pen (Novo Nordisk) | Larutan untuk suntikan | Tidak tersedia |
-| MAL17107007ASZ | Actrapid 100 IU/ml Solution for Injection in Vial (Novo Nordisk) | Larutan untuk suntikan | Tidak tersedia |
-| MAL17107008ASZ | Insulatard 100 IU/ml Suspension for Injection in Vial (Novo Nordisk) | Suspensi untuk suntikan | Tidak tersedia |
-| MAL14015110AZ | INSUGEN-R (Regular) Insulin Injection, Soluble 100IU/mL (Biocon) | Larutan untuk suntikan | Tidak tersedia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL21066008ASZ | Mixtard 30 FlexPen 100 IU/ml Suspension for Injection in Pre-filled Pen | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah (pendaftaran bersyarat) |
+| MAL21066007ASZ | Actrapid FlexPen 100 IU/ml Solution for Injection in Pre-filled Pen | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL17107007ASZ | Actrapid 100 IU/ml Solution for Injection in Vial | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL17107008ASZ | Insulatard 100 IU/ml Suspension for Injection in Vial | Bahan tunggal | NOVO NORDISK PHARMA (MALAYSIA) SDN. BHD. | Sah |
+| MAL14015110AZ | INSUGEN-R (Regular) Insulin Injection, Soluble 100IU/mL | Bahan tunggal | BIOCON SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 22 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

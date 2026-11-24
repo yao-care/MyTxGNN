@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 14
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -86,10 +86,16 @@ Pada masa ini tiada kesusasteraan berkaitan boleh dibentangkan untuk petunjuk pe
 
 Kueri log NPRA (2026-03-27) mengesahkan **2 pendaftaran aktif** dengan status hasil yang berjaya. Walau bagaimanapun, medan perincian lesen tidak diisi dalam ekstrak data semasa. Jadual di bawah mencerminkan keadaan mentah Pakej Bukti.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
-|---------------------|--------------|-------------|---------------------|
-| (Tidak diambil) | (Tidak diambil) | (Tidak diambil) | (Tidak diambil) |
-| (Tidak diambil) | (Tidak diambil) | (Tidak diambil) | (Tidak diambil) |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL24106012AZ | CALQUENCE 100MG FILM-COATED TABLET | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+| MAL26056016AZ | ACABRUNAT (Acalabrutinib 100mg hard capsules) | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 2 daripada 3 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 > **Tindakan diperlukan:** Jalankan semula saluran ekstraksi data NPRA dengan pengambilan perincian lesen didayakan untuk mengisi nombor kebenaran, nama produk, bentuk dos, dan teks petunjuk yang diluluskan.
 

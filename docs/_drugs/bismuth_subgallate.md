@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 154
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -80,9 +80,13 @@ Buat masa ini tiada literatur yang berkaitan tersedia — tiada petunjuk kegunaa
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk Kegunaan yang Diluluskan |
-|------|------|------|------|
-| (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) | (Tidak disediakan) |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19921538AZ | ROWATANAL CREAM | Kombinasi | DCH AURIGA (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 > **Nota:** Satu lesen dicatat dalam pangkalan data NPRA, tetapi semua medan perincian (nombor lesen, nama produk, bentuk dos, petunjuk kegunaan yang diluluskan) adalah kosong dalam pakej bukti semasa. Ini perlu diambil daripada portal NPRA.
 

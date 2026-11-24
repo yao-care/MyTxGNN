@@ -5,7 +5,7 @@ parent: Kegunaan diketahui sahaja (tiada ramalan baharu)
 nav_order: 18
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 description: "Acetaminophen: kegunaan sedia ada dan status pasaran di Malaysia; kini tiada calon indikasi baharu"
 predicted_indications: []
 ---
@@ -72,13 +72,19 @@ Model TxGNN menghasilkan calon untuk Acetaminophen dengan skor ≥ 0.99. Setiap 
 
 ## Maklumat Pasaran Malaysia
 
-| No. pendaftaran | Produk | Bentuk dos | Status |
-|------|------|------|------|
-| MAL22056057XE | Poro Suppository 500mg |  | Sah |
-| MAL22086037XE | Poro Suppository 1000mg |  | Sah |
-| MAL20051462AZ | ULTRACET TABLET |  | Sah |
-| MAL23026010AZ | Utraphen Film Coated Tablet 37.5mg/325mg |  | Sah |
-| MAL19116027XZ | Lotemp Kids Suspension 120mg/5ml |  | Sah |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22056057XE | Poro Suppository 500mg | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL22086037XE | Poro Suppository 1000mg | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL20051462AZ | ULTRACET TABLET | Kombinasi | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL23026010AZ | Utraphen Film Coated Tablet 37.5mg/325mg | Kombinasi | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL19116027XZ | Lotemp Kids Suspension 120mg/5ml | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 248 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

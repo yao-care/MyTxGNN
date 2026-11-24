@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "hallucinogen abuse", "barbiturate abuse", "antidepressant type abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 description: "Diazepam: indikasi baharu diramal Insomnia (insomnia (disease)) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 8 (sah: 8)"
 ---
 
@@ -89,13 +89,19 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan.
 
 Data tempatan merekodkan 8 lesen yang semuanya sah dan semuanya produk bahan tunggal. Lima daripadanya disenaraikan di bawah.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL16105030AZ | STESOLID RECTAL TUBE 5MG | Tiada maklumat | Tiada maklumat |
-| MAL19861270AZ | DIAPO TABLET 5MG | Tiada maklumat | Tiada maklumat |
-| MAL19861288AZ | DIAPINE INJECTION 10MG (2ML) | Tiada maklumat | Tiada maklumat |
-| MAL19984707ACRZ | AA-Diazepam Tablet 10mg | Tiada maklumat | Tiada maklumat |
-| MAL19984716ACRZ | AA-Diazepam Tablet 5mg | Tiada maklumat | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16105030AZ | STESOLID RECTAL TUBE 5MG | Bahan tunggal | DCH AURIGA (MALAYSIA) SDN. BHD. | Sah |
+| MAL19861270AZ | DIAPO TABLET 5MG | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+| MAL19861288AZ | DIAPINE INJECTION 10MG (2ML) | Bahan tunggal | ATLANTIC LABORATORIES (M) SDN. BHD. | Sah |
+| MAL19984707ACRZ | AA-Diazepam Tablet 10mg | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+| MAL19984716ACRZ | AA-Diazepam Tablet 5mg | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 8 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

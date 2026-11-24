@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "Sunitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sunitinib: indikasi baharu diramal Liposarkoma (tahap bukti L2). Indikasi asal: Tidak tersedia"
 ---
 
@@ -82,13 +82,19 @@ Dua ujian Fasa 2 yang telah selesai dalam populasi sarkoma dan satu kajian Fasa 
 
 Berikut ialah 5 daripada 20 pendaftaran yang sah. Semuanya produk ubat tunggal sunitinib. Bentuk dos dan teks indikasi yang diluluskan tidak tersedia dalam data yang dikumpulkan.
 
-| Nombor Kebenaran | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL20071632AZ | SUTENT 12.5MG CAPSULE | Pfizer (Malaysia) Sdn. Bhd. |
-| MAL22126049AZ | Alsuni Capsules 50mg | Lotus Healthcare Malaysia Sdn. Bhd. |
-| MAL23036020AZ | Nibinase 12.5 | Ranbaxy (Malaysia) Sdn. Bhd. |
-| MAL24096044AZ | SKYTINIB 25 | Synerrv Sdn Bhd |
-| MAL25086009AZ | GISTMED 50 | Unimed Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20071632AZ | SUTENT 12.5MG CAPSULE | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL22126049AZ | Alsuni Capsules 50mg | Bahan tunggal | LOTUS HEALTHCARE MALAYSIA SDN. BHD. | Sah |
+| MAL23036020AZ | Nibinase 12.5 (Sunitinib Hard Gelatin Capsules 12.5 mg) | Bahan tunggal | RANBAXY (MALAYSIA) SDN. BHD. | Sah |
+| MAL24096044AZ | SKYTINIB 25 (Sunitinib Capsules 25 mg) | Bahan tunggal | SYNERRV SDN BHD | Sah |
+| MAL25086009AZ | GISTMED 50- Sunitinib Hard Capsules 50 mg | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 20 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Sitotoksisiti
 

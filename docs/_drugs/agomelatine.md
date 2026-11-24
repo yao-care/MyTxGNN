@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Agomelatine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Agomelatine: indikasi baharu diramal Benign paroxysmal torticollis of infancy (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 1 (sah: 1)"
 ---
 
@@ -83,9 +83,13 @@ Buat masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL20091965AZ | VALDOXAN 25MG FILM-COATED TABLETS | Tidak dinyatakan | Tidak dinyatakan dalam data pendaftaran |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20091965AZ | VALDOXAN 25MG FILM-COATED TABLETS | Bahan tunggal | SERVIER MALAYSIA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Pemegang pendaftaran: Servier Malaysia Sdn. Bhd. Status: sah (produk bahan tunggal).
 

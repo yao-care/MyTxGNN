@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Carboplatin"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carboplatin: indikasi baharu diramal Adenokarsinoma mukinus rektum (rectum mucinous adenocarcinoma) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 3 (sah: 3)"
 ---
 
@@ -68,11 +68,15 @@ Buat masa ini tiada literatur berkaitan yang tersedia untuk indikasi ini.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL22036015AZ | CARBOL – Carboplatin Concentrate for Solution for Infusion 10mg/ml (UNIMED SDN. BHD.) | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-| MAL10063018AZ | CARBOPA 10MG/ML INJECTION (ACCORD HEALTHCARE SDN. BHD.) | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-| MAL11030002ARZ | KEMOCARB SOLUTION FOR INJECTION 10MG/ML (FRESENIUS KABI MALAYSIA SDN. BHD) | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL22036015AZ | CARBOL - Carboplatin Concentrate for Solution for Infusion 10mg/ml | Bahan tunggal | UNIMED SDN. BHD. | Sah |
+| MAL10063018AZ | CARBOPA 10MG/ML INJECTION | Bahan tunggal | ACCORD HEALTHCARE SDN.BHD. | Sah |
+| MAL11030002ARZ | KEMOCARB SOLUTION FOR INJECTION 10MG/ML | Bahan tunggal | FRESENIUS KABI MALAYSIA SDN. BHD | Sah |
+
+<!-- licenses:end -->
 
 Ketiga-tiga pendaftaran adalah produk bahan tunggal dan semuanya sah.
 

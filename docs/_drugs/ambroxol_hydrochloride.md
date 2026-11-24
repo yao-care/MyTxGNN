@@ -8,7 +8,7 @@ indication_count: 4
 drugbank_id: DB06742
 monitor_inn: "Ambroxol"
 predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-24
 description: "Ambroxol Hydrochloride: indikasi baharu diramal Penyakit rongga hidung (nasal cavity disease) (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 23 (sah: 22)"
 ---
 
@@ -71,13 +71,19 @@ Setakat ini tiada ujian klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran Malaysia
 
-| No. Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL06071101X | Mucosolvan Tablet 30 mg | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-| MAL07050193XR | Mucosolvan 24 Hours | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-| MAL19987339XC | MUCOSOLVAN LIQUID 30MG/5ML | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-| MAL20001061X | MUCOCLEAR SYRUP | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
-| MAL24016039XC | PRESMEDIC AMBROXOL TABLET 30MG | Tidak direkodkan | Tidak direkodkan dalam data tempatan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL06071101X | Mucosolvan Tablet 30 mg | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL07050193XR | Mucosolvan 24 Hours | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL19987339XC | MUCOSOLVAN LIQUID 30MG/5ML | Bahan tunggal | DKSH MALAYSIA SDN. BHD. | Sah |
+| MAL20001061X | MUCOCLEAR SYRUP | Bahan tunggal | SUNWARD PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL24016039XC | PRESMEDIC AMBROXOL TABLET 30MG | Bahan tunggal | Hovid Pharmacy Sdn. Bhd. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 23 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Terdapat 23 lesen dalam rekod tempatan; 22 sah dan 1 dibatalkan. Hanya 5 yang utama disenaraikan di atas.
 

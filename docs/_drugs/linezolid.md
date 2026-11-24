@@ -7,7 +7,7 @@ parent: Low Evidence (L4-L5)
 nav_order: 465
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -86,9 +86,15 @@ Tiada petunjuk yang diramalkan tersedia dalam Evidence Pack ini; oleh itu, tiada
 
 Sembilan pendaftaran aktif direkodkan dengan Agensi Kawal Selia Farmaseutikal Kebangsaan (NPRA) Malaysia. Walau bagaimanapun, semua medan butiran lesen (nombor kebenaran, nama produk, bentuk dos, petunjuk yang diluluskan) telah dikembalikan sebagai rentetan kosong dalam gabungan data semasa. Jadual di bawah mencerminkan jurang data ini.
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Petunjuk yang Diluluskan |
-|---------------------|-------------|-------------|---------------------|
-| — | — | — | Medan butiran tidak diisi dalam tarikan data semasa |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19056045AEZ | hovid-Linezolid Tablet 600mg | Bahan tunggal | HOVID BERHAD | Sah |
+
+Jadual di atas menyenaraikan 1 daripada 11 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 > **Tindakan diperlukan:** Kueri semula pangkalan data NPRA dengan pengekstrakan medan yang jelas untuk semua 9 pendaftaran, atau muat turun risalah maklumat produk yang sepadan, untuk memenuhi jadual ini.
 

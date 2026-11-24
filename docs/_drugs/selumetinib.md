@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Selumetinib"
 predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "rhabdoid tumor", "acromelanosis", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "Moynahan syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "peripheral nerve schwannoma", "microcystic/reticular schwannoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Selumetinib: indikasi baharu diramal Familial generalized lentiginosis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -85,10 +85,14 @@ Satu laporan kes (PMID 38058737) menerangkan respons separa terhadap selumetinib
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL23046003ACRZ | Koselugo Hard Capsules 10 mg | Tidak direkodkan | Tidak direkodkan |
-| MAL23046004ACRZ | Koselugo Hard Capsules 25 mg | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL23046003ACRZ | Koselugo Hard Capsules 10 mg | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+| MAL23046004ACRZ | Koselugo Hard Capsules 25 mg | Bahan tunggal | ASTRAZENECA SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Pengeluar: AstraZeneca Sdn. Bhd. Kedua-dua pendaftaran adalah sah dan untuk produk bahan tunggal.
 

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "Hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Hydrocortisone: indikasi baharu diramal Alopesia areata (alopecia areata) (tahap bukti L2). Di Malaysia, pendaftaran NPRA: 58 (sah: 57)"
 ---
 
@@ -83,17 +83,23 @@ Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan. Lesen produk
 
 <!-- review:begin my-lic-20261105-hydrocortisone-1 -->
 
-> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data tempatan merekodkan 58 lesen, semuanya sah (29 produk satu bahan dan 29 produk kombinasi). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Ubat ini mempunyai 58 pendaftaran (sah: 57); angka semasa terdapat dalam Gambaran Ringkas dan jadual di bawah Maklumat Pasaran Malaysia. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
+> **Pembetulan semakan (2026-11-05)**: Asalnya dinyatakan: "Data tempatan merekodkan 58 lesen, semuanya sah (29 produk satu bahan dan 29 produk kombinasi). Teks indikasi yang diluluskan tidak direkodkan dalam data tempatan." Dipadam: bilangan atau status pendaftaran yang dinyatakan tidak sepadan dengan data pendaftaran produk NPRA (data.gov.my) yang dibina semula mengikut bahan aktif pada 2026-11-05. Bilangan pendaftaran semasa terdapat dalam Gambaran Ringkas halaman ini. Sumber: [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products).
 
 <!-- review:end my-lic-20261105-hydrocortisone-1 -->
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dosej | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19870473AZ | Solu-Cortef Injection 100mg (2ml) | Tiada data | Tiada data |
-| MAL15085015AZ | Hydrocortison Orion 10mg Tablet | Tiada data | Tiada data |
-| MAL17107037ACREZ | hovid Hydrocortisone Sodium Succinate for Injection 100mg | Tiada data | Tiada data |
-| MAL16075024AZ | Hydrosone Cream 1% w/w | Tiada data | Tiada data |
-| MAL19860156AZ | Hysone Cream 1% (w/w) | Tiada data | Tiada data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19870473AZ | SOLU-CORTEF INJECTION 100MG (2ML) | Bahan tunggal | PFIZER (MALAYSIA) SDN. BHD. | Sah |
+| MAL15085015AZ | Hydrocortison Orion 10mg Tablet | Bahan tunggal | ORION PHARMA (MY) SDN. BHD. | Sah |
+| MAL17107037ACREZ | hovid Hydrocortisone Sodium Succinate for Injection 100mg | Bahan tunggal | HOVID BERHAD | Sah |
+| MAL16075024AZ | HYDROSONE CREAM 1% W/W | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL19860156AZ | Hysone Cream 1% (w/w) | Bahan tunggal | DUOPHARMA MANUFACTURING (BANGI) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 58 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -122,7 +128,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-05 | Dipadam: "Data tempatan merekodkan 58 lesen, semuanya sah (29 produk satu bahan dan 29 produk kombinasi)" | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-05 | Dipadam: "Data tempatan merekodkan 58 lesen, semuanya sah (29 produk satu bahan dan 29 produk kombinasi)" | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 | 2026-11-19 | Ayat “data mekanisme tindakan tidak tersedia” diganti dengan petikan maklumat preskripsi AS | Ayat bahawa data mekanisme tindakan tidak tersedia diganti dengan petikan bersumber | [DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Estradiol valerate"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "luteoma of pregnancy", "ovarian dysfunction"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Estradiol Valerate: indikasi baharu diramal Symptomatic form of fragile X syndrome in female carrier (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 6 (sah: 3)"
 ---
 
@@ -100,11 +100,17 @@ Kebanyakan penerbitan ini menggunakan estradiol valerate untuk mencetuskan penya
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL09020971ARZ | Progynova 1mg Tablet | Tidak direkodkan | Tidak direkodkan |
-| MAL09020972ARZ | Progynova Tablet 2mg | Tidak direkodkan | Tidak direkodkan |
-| MAL20021014AZ | PROGYLUTON TABLETS (produk gabungan) | Tidak direkodkan | Tidak direkodkan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL09020971ARZ | Progynova 1mg Tablet | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Nombor pendaftaran lama; produk yang sama kini didaftarkan sebagai MAL09020971ACRZ |
+| MAL09020972ARZ | Progynova Tablet 2mg | Bahan tunggal | BAYER CO. (MALAYSIA) SDN. BHD. | Nombor pendaftaran lama; produk yang sama kini didaftarkan sebagai MAL09020972ACRZ |
+| MAL20021014AZ | PROGYLUTON TABLETS | Kombinasi | BAYER CO. (MALAYSIA) SDN. BHD. | Nombor pendaftaran lama; produk yang sama kini didaftarkan sebagai MAL20021014ACZ |
+
+Jadual di atas menyenaraikan 3 daripada 6 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 Ketiga-tiga nombor pendaftaran di atas tidak lagi tersenarai dalam daftar semasa NPRA; produk yang sama kini berdaftar sebagai MAL09020971ACRZ, MAL09020972ACRZ dan MAL20021014ACZ, dipegang oleh A. Menarini Singapore Pte. Ltd. Lesen produk gabungan (Progyluton) tidak boleh digunakan untuk menggambarkan status kelulusan bahan tunggal.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lamotrigine: indikasi baharu diramal Neoplasma saraf trigeminal (tahap bukti L5). Indikasi asal: Epilepsi (hubungan direkodkan dalam graf pengetahuan"
 ---
 
@@ -88,13 +88,19 @@ Tiada penerbitan yang mengkaji secara langsung kesan lamotrigine terhadap neopla
 
 Terdapat 20 pendaftaran sah, semuanya produk ingredien tunggal. Teks indikasi diluluskan dan bentuk dos tidak tersedia dalam data yang dikumpulkan. Lima pendaftaran utama disenaraikan di bawah.
 
-| Nombor Kelulusan | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL19930433ACRZ | Lamictal Tablet 50mg | GlaxoSmithKline Pharmaceutical Sdn. Bhd. |
-| MAL19930435ACRZ | Lamictal Tablet 100mg | GlaxoSmithKline Pharmaceutical Sdn. Bhd. |
-| MAL19970262ACRZ | Lamictal Dispersible Tablet 25mg | GlaxoSmithKline Pharmaceutical Sdn. Bhd. |
-| MAL06081206AZ | Lamitor 100mg Tablet | Laboratories Torrent (Malaysia) Sdn. Bhd. |
-| MAL20034654AZ | Lamotrix 200mg Tablet | Komedic Sdn Bhd |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19930433ACRZ | LAMICTAL TABLET 50MG | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19930435ACRZ | LAMICTAL TABLET 100MG | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL19970262ACRZ | LAMICTAL DISPERSIBLE TABLET 25MG | Bahan tunggal | GLAXOSMITHKLINE PHARMACEUTICAL SDN. BHD. | Sah |
+| MAL06081206AZ | LAMITOR 100MG TABLET | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+| MAL20034654AZ | LAMOTRIX 200MG TABLET | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 20 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ---
 

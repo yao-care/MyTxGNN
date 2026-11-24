@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Zinc acetate"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "bronchitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "urinary tract infection (disease)"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Zinc Acetate: indikasi baharu diramal Retinopati diabetik non-proliferatif teruk (tahap bukti L5). Indikasi asal: Tiada maklumat indikasi yang diluluskan dalam data pendaftaran tempat…"
 ---
 
@@ -83,13 +83,17 @@ Buat masa ini tiada literatur berkaitan untuk indikasi ini.
 
 Semua pendaftaran ialah produk gabungan; ia tidak menggambarkan status kelulusan zink asetat sebagai bahan tunggal. Borang dos dan teks indikasi tidak tersedia.
 
-| Nombor Kelulusan | Nama Produk | Borang Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL20031947AZ | NUTRIFLEX LIPID PLUS | – | – |
-| MAL23126020AZ | Nutriflex Omega Special Novo Emulsion for Infusion | – | – |
-| MAL24116028AZ | Nutriflex Lipid Special Novo Emulsion for Infusion | – | – |
-| MAL24116027AZ | Nutriflex Omega Peri Novo Emulsion for Infusion | – | – |
-| MAL24116026AZ | Nutriflex Lipid Peri Novo Emulsion for Infusion | – | – |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20031947AZ | NUTRIFLEX LIPID PLUS | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL23126020AZ | Nutriflex Omega Special Novo Emulsion for Infusion | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL24116028AZ | Nutriflex Lipid Special Novo Emulsion for Infusion | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL24116027AZ | Nutriflex Omega Peri Novo Emulsion for Infusion | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL24116026AZ | Nutriflex Lipid Peri Novo Emulsion for Infusion | Kombinasi | B.BRAUN MEDICAL INDUSTRIES SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 ---
 

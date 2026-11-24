@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Risperidone: indikasi baharu diramal Gaze palsy, familial horizontal, with progressive scoliosis (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 25 (sah: 22)"
 ---
 
@@ -70,13 +70,19 @@ Pada masa ini tiada literatur berkaitan.
 
 Terdapat 25 pendaftaran produk risperidone ingredien tunggal yang sah di Malaysia. Bentuk dosej dan teks indikasi yang diluluskan tidak tersedia dalam rekod yang dikumpulkan. Lima pendaftaran utama disenaraikan di bawah.
 
-| Nombor Kelulusan | Nama Produk | Pengilang |
-|---------|------|------|
-| MAL19992548AZ | RISPERDAL ORAL SOLUTION 1MG/ML | Johnson & Johnson Sdn. Bhd. |
-| MAL20002242AZ | RISPERDAL TABLET 1MG | Johnson & Johnson Sdn. Bhd. |
-| MAL20041156AZ | RISPERDAL CONSTA 25MG | Johnson & Johnson Sdn. Bhd. |
-| MAL11100009AZ | Risnia Tablets 1 mg | Cipla Malaysia Sdn. Bhd. |
-| MAL07050016AZ | RESPIDON 1mg Tablet | Laboratories Torrent (Malaysia) Sdn. Bhd. |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19992548AZ | RISPERDAL ORAL SOLUTION 1MG/ML | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL20002242AZ | RISPERDAL TABLET 1MG | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Sah |
+| MAL20041156AZ | RISPERDAL CONSTA 25MG | Bahan tunggal | JOHNSON & JOHNSON SDN. BHD. | Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19) |
+| MAL11100009AZ | Risnia Tablets 1 mg | Bahan tunggal | CIPLA MALAYSIA SDN BHD | Sah |
+| MAL07050016AZ | RESPIDON 1mg Tablet | Bahan tunggal | LABORATORIES TORRENT (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 25 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 

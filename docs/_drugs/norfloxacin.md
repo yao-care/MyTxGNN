@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Norfloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Norfloxacin: indikasi baharu diramal Polyclonal hyperviscosity syndrome (tahap bukti L5). Indikasi asal: Jangkitan bakteria (demam kepialu, salmonelosis…"
 ---
 
@@ -79,13 +79,17 @@ Pada masa ini tiada literatur berkaitan tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL20162622HAE | N-20% w/v Oral Solution (produk kombinasi) | – | – |
-| MAL17107101HAE | PBAC NORFLOXACIN 200mg/ml ORAL SOLUTION | – | – |
-| MAL19921583AZ | JANACIN TABLET | – | – |
-| MAL19985187AZ | NORGAN TABLET 400MG | – | – |
-| MAL19930497AZ | NORFOX TABLET | – | – |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20162622HAE | N-20% w/v Oral Solution | Kombinasi | Nam Pharma Sdn. Bhd. | Sah |
+| MAL17107101HAE | PBAC NORFLOXACIN 200mg/ml ORAL SOLUTION | Bahan tunggal | Life Biopharma Sdn. Bhd. | Sah |
+| MAL19921583AZ | JANACIN TABLET | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL19985187AZ | NORGAN TABLET 400MG | Bahan tunggal | MALAYSIAN PHARMACEUTICAL INDUSTRIES SDN. BHD. | Sah |
+| MAL19930497AZ | NORFOX TABLET | Bahan tunggal | MILRIN PHARMACEUTICAL COMPANY (M) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Semua lima pendaftaran berstatus sah. Teks indikasi diluluskan tidak tersedia dalam data yang disusun. Pendaftaran produk kombinasi (MAL20162622HAE) tidak boleh digunakan untuk menggambarkan status kelulusan norfloxacin bahan tunggal.
 

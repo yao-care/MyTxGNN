@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "EPLERENONE"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Eplerenone: indikasi baharu diramal Pulmonary hypertension owing to lung disease and/or hypoxia (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 2 (sah: 2)"
 ---
 
@@ -81,10 +81,14 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL20081802ARZ | INSPRA 50MG FILM-COATED TABLETS | Tiada maklumat | Tiada teks indikasi tersedia |
-| MAL20081801ARZ | INSPRA 25MG FILM-COATED TABLETS | Tiada maklumat | Tiada teks indikasi tersedia |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL20081802ARZ | INSPRA 50MG FILM-COATED TABLETS | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+| MAL20081801ARZ | INSPRA 25MG FILM-COATED TABLETS | Bahan tunggal | VIATRIS SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Kedua-dua produk dikeluarkan oleh Viatris Sdn. Bhd. dan berstatus sah.
 

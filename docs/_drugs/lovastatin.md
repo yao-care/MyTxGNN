@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "LOVASTATIN"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lovastatin: indikasi baharu diramal Cholesterol-ester transfer protein deficiency (tahap bukti L5). Di Malaysia, pendaftaran NPRA: 4 (sah: 4)"
 ---
 
@@ -84,12 +84,16 @@ Buat masa ini tiada percubaan klinikal berkaitan yang didaftarkan.
 
 ## Maklumat Pasaran di Malaysia
 
-| Nombor Kelulusan | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19973311AZ | MEDOSTATIN TABLET 20MG | Tablet | Tiada maklumat |
-| MAL20021411AZ | MEDOSTATIN 40MG TABLET | Tablet | Tiada maklumat |
-| MAL19990107AZ | LOVASTIN TABLET 20MG | Tablet | Tiada maklumat |
-| MAL19990021ACRZ | AA-Lovastatin Tablet 20mg | Tablet | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19973311AZ | MEDOSTATIN TABLET 20MG | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL20021411AZ | MEDOSTATIN 40MG TABLET | Bahan tunggal | KOMEDIC SDN BHD | Sah |
+| MAL19990107AZ | LOVASTIN TABLET 20MG | Bahan tunggal | Y.S.P. INDUSTRIES (M) SDN. BHD. | Sah |
+| MAL19990021ACRZ | AA-Lovastatin Tablet 20mg | Bahan tunggal | PHARMAFORTE (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Senarai ini lengkap (4 daripada 4 pendaftaran).
 

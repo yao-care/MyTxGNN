@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tobramycin: indikasi baharu diramal Keratitis pendedahan (exposure keratitis) (tahap bukti L5). Indikasi asal: Hubungan yang direkodkan dalam graf pengetahuan: meningitis bakteria…"
 ---
 
@@ -90,11 +90,15 @@ Pada masa ini tiada percubaan klinikal berkaitan yang didaftarkan untuk keratiti
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL19920043ARZ | TOBREX OPHTHALMIC SOLUTION 0.3% (bahan tunggal) | Tidak dinyatakan | Tidak dinyatakan |
-| MAL19920042ARZ | TOBRADEX OPHTHALMIC SUSPENSION (produk kombinasi) | Tidak dinyatakan | Tidak dinyatakan |
-| MAL19921132ARZ | TOBRADEX EYE OINTMENT (produk kombinasi) | Tidak dinyatakan | Tidak dinyatakan |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL19920043ARZ | TOBREX OPHTHALMIC SOLUTION 0.3% | Bahan tunggal | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL19920042ARZ | TOBRADEX OPHTHALMIC SUSPENSION | Kombinasi | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+| MAL19921132ARZ | TOBRADEX EYE OINTMENT | Kombinasi | NOVARTIS CORPORATION (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Semua lesen berstatus sah dan dipegang oleh Novartis Corporation (Malaysia) Sdn. Bhd. Dua daripadanya ialah produk kombinasi, maka lesen tersebut tidak boleh digunakan untuk menerangkan kelulusan tobramycin sebagai bahan tunggal.
 

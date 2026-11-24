@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Pertuzumab"
 predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pertuzumab: indikasi baharu diramal Ectomesenchymoma (tahap bukti L5). Indikasi asal: Tiada teks indikasi diluluskan dalam data lesen"
 ---
 
@@ -73,11 +73,15 @@ Pada masa ini tiada literatur berkaitan yang tersedia.
 
 ## Maklumat Pasaran Malaysia
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi yang Diluluskan |
-|---------|------|------|-----------|
-| MAL13115219ARZ | Perjeta 420 mg concentrate for solution for infusion | Larutan pekat untuk infusi | Tiada teks indikasi dalam data |
-| MAL22056048ARZ | PHESGO Solution for Subcutaneous Injection 1200mg/600mg/15mL (produk kombinasi) | Larutan suntikan subkutaneus | Tiada teks indikasi dalam data |
-| MAL22056047ARZ | PHESGO Solution for Subcutaneous Injection 600mg/600mg/10mL (produk kombinasi) | Larutan suntikan subkutaneus | Tiada teks indikasi dalam data |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL13115219ARZ | Perjeta 420 mg concentrate for solution for infusion | Bahan tunggal | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL22056048ARZ | PHESGO Solution for Subcutaneous Injection 1200mg/600mg/15mL | Kombinasi | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+| MAL22056047ARZ | PHESGO Solution for Subcutaneous Injection 600mg/600mg/10mL | Kombinasi | ROCHE (MALAYSIA) SDN. BHD. | Sah |
+
+<!-- licenses:end -->
 
 Nota: Lesen PHESGO ialah produk kombinasi dan tidak boleh digunakan untuk menggambarkan status kelulusan pertuzumab bahan tunggal. Semua lesen berstatus sah.
 

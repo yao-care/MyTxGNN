@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Methionine"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "nuclear senile cataract", "immature cataract", "mature cataract", "tetanic cataract", "cortical cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "diabetic cataract"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Methionine: indikasi baharu diramal Jerawat (acne) (tahap bukti L5). Indikasi asal: Tiada teks indikasi yang diluluskan dalam data pendaftaran tempatan"
 ---
 
@@ -90,7 +90,7 @@ Pada masa ini tiada ujian klinikal berkaitan didaftarkan untuk jerawat (mahupun 
 
 ## Maklumat Pasaran Malaysia
 
-Sebanyak 161 pendaftaran dikesan (5 bahan tunggal, 156 kombinasi; 149 sah). Tiada teks indikasi yang diluluskan dalam data. Kebanyakan adalah produk kombinasi, jadi lesen mereka tidak menggambarkan status kelulusan metionin sebagai bahan tunggal. Senarai produk bahan tunggal (SAM-e dan selenium; perhatian: bahan aktif tepat perlu disahkan):
+Pendaftaran yang dikesan kebanyakannya produk kombinasi, dengan sebilangan kecil produk bahan tunggal (bilangan dan status semasa terdapat dalam Gambaran Ringkas). Tiada teks indikasi yang diluluskan dalam data. Kebanyakan adalah produk kombinasi, jadi lesen mereka tidak menggambarkan status kelulusan metionin sebagai bahan tunggal. Senarai produk bahan tunggal (SAM-e dan selenium; perhatian: bahan aktif tepat perlu disahkan):
 
 <!-- review:begin my-lic-20261112-methionine-1 -->
 
@@ -98,13 +98,19 @@ Sebanyak 161 pendaftaran dikesan (5 bahan tunggal, 156 kombinasi; 149 sah). Tiad
 
 <!-- review:end my-lic-20261112-methionine-1 -->
 
-| Nombor Kebenaran | Nama Produk | Bentuk Dos | Indikasi Diluluskan |
-|---------|------|------|-----------|
-| MAL16115004NCR | Kordel's SAM-e 400mg Tablets | - | Tiada maklumat |
-| MAL18056004NCR | Vitamode SAM-e 400mg Enteric Coated Tablet | - | Tiada maklumat |
-| MAL25046050NC | Medispec SAM-e 400mg Enteric Coated Tablet | - | Tiada maklumat |
-| MAL22016045NC | LAC Selenium 100 mcg Tablet | - | Tiada maklumat |
-| MAL23096034NC | THORNE Selenium 200mcg Capsule | - | Tiada maklumat |
+<!-- licenses:begin -->
+
+| No. Pendaftaran | Nama Produk (NPRA, bahasa asal) | Jenis | Pemegang Pendaftaran | Status |
+|------|------|------|------|------|
+| MAL16115004NCR | Kordel's SAM-e 400mg Tablets | Bahan tunggal | MB NUTRACEUTICALS SDN BHD | Tamat tempoh (tiada dalam daftar semasa NPRA) |
+| MAL18056004NCR | Vitamode SAM-e 400mg Enteric Coated Tablet | Bahan tunggal | Vitamode Sdn.bhd | Sah |
+| MAL25046050NC | Medispec SAM-e 400mg Enteric Coated Tablet | Bahan tunggal | MEDISPEC (M) SDN. BHD. | Sah |
+| MAL22016045NC | LAC Selenium 100 mcg Tablet | Bahan tunggal | LAC GLOBAL BRANDS (MALAYSIA) SDN. BHD. | Sah |
+| MAL23096034NC | THORNE Selenium 200mcg Capsule | Bahan tunggal | MITSUI & CO. (MALAYSIA) SDN. BHD. | Sah |
+
+Jadual di atas menyenaraikan 5 daripada 161 pendaftaran NPRA bagi ubat ini.
+
+<!-- licenses:end -->
 
 ## Pertimbangan Keselamatan
 
@@ -135,7 +141,7 @@ Berikut ialah rekod semakan halaman ini: kenyataan yang disemak terhadap data pe
 
 | Tarikh semakan | Perkara | Tindakan | Sumber |
 |------|------|------|------|
-| 2026-11-12 | Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombi” → “Sebanyak 161 pendaftaran dikesan (5 bahan tunggal, 156 kombinasi; 149 sah).” | Dibetulkan | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
+| 2026-11-12 | Bilangan pendaftaran: “Sebanyak 156 pendaftaran dikesan (5 bahan tunggal, 151 kombinasi).” → “Pendaftaran yang dikesan kebanyakannya produk kombinasi, dengan sebila” | Dibetulkan (disemak 2026-11-24; versi terdahulu disimpan dalam rekod) | [NPRA pharmaceutical product registrations (data.gov.my)](https://data.gov.my/data-catalogue/pharmaceutical_products) |
 
 <!-- review:end log -->
 
