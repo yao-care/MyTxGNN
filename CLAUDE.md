@@ -674,9 +674,28 @@ amlodipine_besilate 81→128 張（有效 76→123）、diphenhydramine_hcl 21�
   epinephrine、atracurium_besylate、streptomycin、ketoprofen、glycerin、ethanol、lansoprazole、aprepitant、acyclovir、valine、isoleucine、phenylalanine、vitamin_a、sodium_citrate、iron、flurbiprofen、ergometrine、daunorubicin、budesonide）。
   排除後張數變 0 的頁：0（desonide、uracil 各剩 1 張）。收集器 `collectors/npra.py` 的 `_drop_other_drugs` 照同一份表不收；每週排程同一支（license-refresh.yml）。
   正文矛盾以 `my-lic-20261124c-{desonide,ofloxacin,progesterone,methionine}-1` 更正，`my-lic-20261112-methionine-1` 同 id 重發（「sebilangan kecil produk bahan tunggal」不再成立，前版存 history）。
-  沒處理：noindex 頁與沒有藥物頁的證據包裡同類寫法（全站另有約 300 組，只改得到表上列的證據包）。
+  noindex 頁與沒有藥物頁的證據包裡同類寫法：2026-11-24 第四輪處理（見下節）。
 - B. 公開頁整頁沒有「## Maklumat Pasaran (di) Malaysia」、證據包有紀錄的 222 頁（新版報告格式）：`sync_license_tables.add_section` 在安全性段落前（213 頁；沒有就結論前 7 頁、再沒有就 Penafian 前 2 頁）補段落與程式表（列數 min(5, 總數)）；
   超過 200 頁，先回報、用戶同意（不設頁數上限）後套用；gate（licenses.py page_problems）擋「公開頁有證據包紀錄卻沒有市場段落」；license_adapter PAGE_NOTE 放行標題行。
   正文預掃與新表矛盾的句子：nitrous_oxide「data pendaftaran tempatan untuk indikasi asalnya tidak tersedia」講的是適應症文字（程式表也沒有適應症欄），查證成立、不改；其他是待辦條目，不改。正文或表有變的頁 last_modified_at 改 2026-11-24。
 - `scripts/build_license_snapshot.py` 不帶 `--ws` 時不重建快照，只重排程式表、跑正文張數改寫。
 - checker 全量前後都是 P5 1（cyclosporine，原有）；gate exit 0。
+
+## 第四輪：子字串誤收排除擴到全部證據包（2026-11-24）
+
+用戶 2026-11-24 第四輪決定：第三輪 `scripts/exclude_salt_part_records.py` 的排除（SALT_PART／OTHER／RECORD_MISMATCH）只做了公開頁的 41 個證據包，把同樣的判斷擴到 noindex 頁與沒有藥物頁的證據包（資料 data-20261124-143216）。
+- 全量量測：全部 1,239 個證據包裡「沒有成分本身是本藥、而成分沒有本藥名稱／本藥名稱只是更長名稱一部分」的寫法組，非公開證據包 309 組、3,894 筆、130 個證據包（公開頁 210 組第三輪已判，這次重量不變）。
+  逐組判斷：本藥的鹽／酯、拼法變體（frusemide、lignocaine、oestradiol、drosperinone）、劑型或藥典字樣（dried、heavy、micronised、2KCl／2NaCl 複鹽、for parenteral use）、營養來源（glycyl-／N-acetyl-L-tyrosine、DL-methionine）、
+  同一物質的寫法（povidone-iodine 之於 iodine、各種鋅鹽之於 zinc、vitamin D2／D3 之於 vitamin D、idursulfase beta）、成分欄解析不全或 generic_name 才寫到本藥的照收；同一母藥的另一個酯（betamethasone dipropionate 頁收到 valerate，NPRA generic_name 寫 dipropionate）照收、不在這次範圍。
+- 表上新增（每種寫法附依據；OTHER 表「第四輪」那段、SALT_PART 的 zinc pyrithione、sodium_phosphate 補 riboflavine 拼法、RECORD_MISMATCH 的 MENDICOF MAL20040100AZ）：
+  noradrenaline（adrenaline、adrenaline_tartrate）、levobupivacaine、dexchlorpheniramine、umeclidinium、pseudoephedrine（ephedrine_hydrochloride）、methylergometrine、ethinylestradiol（estradiol）、valganciclovir、
+  18F-FDG 與產品名含 glucose 的 GLUCOSENSE（gliclazide）、GLUCOsential（glucose）、esketamine、SAMe（l-methionine）、keto-leucine（leucine）、NMN 與 nicotinamide riboside（nicotinamide）、levonorgestrel（norgestrel）、esomeprazole（omeprazole_sodium）、
+  醫用空氣／二氧化碳（oxygen：公司名 Sabah Oxygen、「v/v oxygen balance nitrogen」）、chlorpheniramine／dexchlorpheniramine／brompheniramine（pheniramine_maleate）、amprolium（proline）、isopropyl alcohol（propyl_alcohol）、
+  水解蛋白螯合物／海洋蛋白／乳清蛋白（protein_c）、隨附溶劑「sodium chloride injection／solution」（sodium_chloride：urofollitropin、parecoxib、chorionic gonadotropin、IMOJEV 疫苗）、chlortetracycline／oxytetracycline（tetracycline_hydrochloride）、
+  prothrombin（thrombin）、Echinacea purpurea／Saussurea／Fibraurea 等植物學名、hydroxyurea、carbon-14 urea（urea）、vitamin B12（vitamin_b1）、zinc pyrithione（zinc）。
+  另加 KEEP 表：拿掉另一個藥的寫法後若以別的寫法仍看得到本藥就不排除（vitamin_b1 的 thiamine：B 群複方同時含 B1、B12 的照收）。
+- 套用：28 個證據包排除 555 筆（urea 126、nicotinamide 91、pheniramine_maleate 75、ephedrine_hydrochloride 55、vitamin_b1 35、tetracycline_hydrochloride 34、estradiol 28、chlorpheniramine_maleate 18、norgestrel 15、propyl_alcohol 14、protein_c 10，其餘 1～7 筆），
+  移到 npra.excluded_records（附 excluded_reason／excluded_basis）；證據包 local_regulatory 重算（refresh_pack_regulatory，另有 47 個前幾輪留下未重算的證據包一併更新，共 75 個）；重量後非公開組 309→237 組，剩下的都是判定照收的寫法，公開頁的組不變。
+  有頁的只有 4 個 noindex 頁（estradiol 45→17、ganciclovir 5→2、nicotinamide 388→297、urea 128→2 張），概覽狀態列／張數列由 sync_market_rows 同步；這 4 頁沒有程式表、沒有正文市場句，沒有查核紀錄；adrenaline、adrenaline_tartrate 是轉址頁。
+  收集器 `collectors/npra.py` 的 `_drop_other_drugs` 與每週排程（license-refresh.yml）讀同一支程式、同一份表（含 KEEP）。證據包經 data-overlay 推進 Release。
+- 驗證：exclude_salt_part_records.py 第二次跑 0 筆；checker 全量前後都是 P5 1（cyclosporine，原有）；gate exit 0。

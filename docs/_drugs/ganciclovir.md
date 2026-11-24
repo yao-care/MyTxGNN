@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 5 daripada 5) |
-| Bilangan Pendaftaran | 5 (sah: 5) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 2 daripada 2) |
+| Bilangan Pendaftaran | 2 (sah: 2) |
 | **Nama Ubat** | Ganciclovir |
 | **ID DrugBank** | [DB01004](https://go.drugbank.com/drugs/DB01004) |
 | **Ramalan DL (≥0.7)** | 0 |

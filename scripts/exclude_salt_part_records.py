@@ -16,6 +16,8 @@
 （OTHER 表，每筆附依據；例 glycine 收進 Glycine max（大豆）、ofloxacin 收進 ciprofloxacin／levofloxacin／marbofloxacin、citalopram 收進 escitalopram、
 omeprazole 收進 esomeprazole、desonide 收進 budesonide）：登記的 active_ingredient／generic_name／product 正規化後，拿掉表上「另一個藥」的寫法，
 若已找不到本藥名稱（原收集器比的子字串），而且表上寫法至少出現一次、沒有任何成分本身就是本藥 → 排除（excluded_reason 註明）。
+2026-11-24 第四輪（用戶決定）：同樣的判斷擴到 noindex 頁與沒有藥物頁的證據包（OTHER 表「第四輪」那段、SALT_PART 的 zinc pyrithione）；
+KEEP 表：拿掉另一個藥的寫法後，若以別的寫法仍看得到本藥（例 vitamin_b1 的 thiamine）就不排除。
 另 RECORD_MISMATCH：NPRA 某欄位錯植的個別登記（附理由）。本藥的鹽類、酯類、拼法變體（lignocaine、frusemide、aciclovir…）不在表上，照收。
 每週排程（.github/workflows/license-refresh.yml）在 merge_duplicate_bundles.py 之後、license_refresh 之前跑；重新收集證據包之後也要再跑。
 用法（repo 根目錄）：python3 scripts/exclude_salt_part_records.py [--dry-run] [--report out.tsv]
@@ -47,9 +49,10 @@ SALT_PART = {
                           "dasatinib (S)-propylene glycol 是 dasatinib 的丙二醇溶劑合物，有效成分是 dasatinib")],
     "polyethylene_glycol": [("polyethylene glycol", r"\bmethoxy polyethylene glycol epoetin beta\b",
                              "methoxy polyethylene glycol-epoetin beta 是 PEG 化的 epoetin beta（MIRCERA），有效成分是 epoetin beta")],
-    "sodium_phosphate": [("sodium phosphate", r"\b(betamethasone|dexamethasone|prednisolone|riboflavin( 5)?) (di)?sodium phosphate\b",
+    "sodium_phosphate": [("sodium phosphate", r"\b(betamethasone|dexamethasone|prednisolone|riboflavine?( 5)?) (di)?sodium phosphate\b",
                           "betamethasone／dexamethasone／prednisolone／riboflavin sodium phosphate 是該藥的磷酸鈉酯鹽，有效成分是該藥")],
-    "zinc": [("zinc", r"\bbacitracin zinc\b", "bacitracin zinc 是 bacitracin 的鋅鹽（外用抗生素），有效成分是 bacitracin")],
+    "zinc": [("zinc", r"\bbacitracin zinc\b", "bacitracin zinc 是 bacitracin 的鋅鹽（外用抗生素），有效成分是 bacitracin"),
+             ("zinc", r"\bzinc pyrithione\b", "zinc pyrithione（pyrithione zinc）是抗黴菌藥（去屑洗髮精），有效成分是 pyrithione；鋅只是配位金屬（2026-11-24 第四輪）")],
     "methionine": [("methionine", r"^(zinc methionine|methionine bound zinc complex)\b",
                     "zinc methionine 是鋅的甲硫胺酸螯合物（鋅補充劑），有效成分是鋅；甲硫胺酸只是配位基")],
 }
@@ -109,10 +112,47 @@ OTHER = {
                    (r"\w*hydroxy ?methionine", "α-hydroxymethionine calcium 是甲硫胺酸的羥基類似物（Ketosteril），另一個化合物"),
                    (r"zinc (mono)?methionine|methionine bound zinc", "zinc methionine 是鋅的甲硫胺酸螯合物（鋅補充劑）")],
     "acyclovir": [(r"valaciclovir|valacyclovir", "valaciclovir 是另一個 INN（aciclovir 的前驅藥）")],
+    # 2026-11-24 第四輪（用戶決定：擴到 noindex 頁與沒有藥物頁的證據包）
+    "adrenaline": [(r"nor ?adrenaline", "noradrenaline（norepinephrine）是另一個藥")],
+    "adrenaline_tartrate": [(r"nor ?adrenaline", "noradrenaline（norepinephrine）是另一個藥")],
+    "bupivacaine_hydrochloride": [(r"levobupivacaine", "levobupivacaine 是另一個 INN（bupivacaine 的 S-鏡像異構物）")],
+    "chlorpheniramine_maleate": [(r"dexchlorpheniramine", "dexchlorpheniramine 是另一個 INN（chlorpheniramine 的 S-鏡像異構物）")],
+    "clidinium_bromide": [(r"umeclidinium", "umeclidinium 是另一個 INN（長效抗膽鹼吸入劑）")],
+    "ephedrine_hydrochloride": [(r"pseudoephedrine", "pseudoephedrine 是另一個藥（ephedrine 的非鏡像異構物）")],
+    "ergometrine_maleate": [(r"methylergometrine", "methylergometrine 是另一個 INN")],
+    "estradiol": [(r"ethinyl ?o?estradiol", "ethinylestradiol 是另一個 INN（合成雌激素），不是 estradiol")],
+    "ganciclovir": [(r"valganciclovir", "valganciclovir 是另一個 INN（ganciclovir 的前驅藥）")],
+    "glucose": [(r"[\w ]{0,25}fl(?:uo|ou)ro[\w ]{0,15}glucose|\bfdg\b", "fludeoxyglucose（18F-FDG）是 PET 放射性診斷藥，另一個藥"),
+                (r"glucosense", "GLUCOSENSE MR 是 gliclazide（產品名含 glucose 字串）"),
+                (r"glucosential", "Live-well GLUCOsential 是維生素礦物質與 α-硫辛酸補充品，不含葡萄糖（產品名含 glucose 字串）")],
+    "ketamine_hydrochloride": [(r"esketamine", "esketamine 是另一個 INN（ketamine 的 S-鏡像異構物，Spravato）")],
+    "l-methionine": [(r"s adenosyl l? ?methionine|ademetionine", "S-adenosyl-L-methionine（ademetionine，SAMe）是另一個 INN")],
+    "leucine": [(r"\w*keto ?(iso)?leucine", "α-ketoleucine／α-ketoisoleucine calcium 是胺基酸的酮酸類似物（Ketosteril），不是 leucine")],
+    "nicotinamide": [(r"nicotinamide mononucleotide|\bnmn\b", "nicotinamide mononucleotide（NMN）是另一個化合物"),
+                     (r"nicotinamide riboside( chloride)?", "nicotinamide riboside chloride（NR）是另一個化合物")],
+    "norgestrel": [(r"levonorgestrel", "levonorgestrel 是另一個 INN（norgestrel 的活性鏡像異構物）")],
+    "omeprazole_sodium": [(r"esomeprazole", "esomeprazole 是另一個 INN（omeprazole 的 S-鏡像異構物）")],
+    "oxygen": [(r"sabah oxygen", "Sabah Oxygen 是公司名（產品是醫用空氣、醫用二氧化碳）"),
+               (r"[\w ]{0,20}v v oxygen balance nitrogen", "醫用空氣（Medicinal Air）是另一個醫用氣體，產品名只寫明含氧比例")],
+    "pheniramine_maleate": [(r"(dex)?chlorpheniramine|(dex)?brompheniramine", "chlorpheniramine、dexchlorpheniramine、brompheniramine 是另一個抗組織胺藥（名稱含 pheniramine 字串）")],
+    "proline": [(r"amproline|amprolium", "AMPROLINE 是 amprolium（獸用抗球蟲藥），產品名含 proline 字串")],
+    "propyl_alcohol": [(r"isopropyl alcohol|isopropanol", "isopropyl alcohol（2-propanol）是另一個化合物，不是 propyl alcohol（1-propanol）")],
+    "protein_c": [(r"(\w+ )?(hydroly[sz]ed |marine |whey )+protein( chelate| complex| concentrate| isolate)?", "水解蛋白螯合物、海洋蛋白、乳清蛋白是營養補充成分，不是抗凝血因子 protein C")],
+    "sodium_chloride": [(r"sodium chloride (injection|solution)\w*|(sterile )?[\d ]*w v solution of sodium chloride", "產品名裡的氯化鈉注射液／溶液是隨附的溶劑，登記的有效成分是另一個藥（urofollitropin、parecoxib、chorionic gonadotropin、疫苗等）")],
+    "tetracycline_hydrochloride": [(r"chlortetracycline|oxytetracycline|demeclocycline", "chlortetracycline、oxytetracycline 是另一個四環素類 INN")],
+    "thrombin": [(r"prothrombin", "prothrombin（凝血因子 II）是凝血酶原複合物的成分，不是 thrombin")],
+    "urea": [(r"\b(?!urea\b|ureae\b)\w+ureae?\w*", "Echinacea purpurea、Saussurea、Fibraurea、Centaurea、Tephrosia purpurea 等植物學名與 hydroxyurea 名稱含 urea 字串，不是尿素"),
+             (r"14 ?c ?urea|carbon 14 urea", "carbon-14 urea 是幽門螺旋桿菌呼氣檢測用的放射性診斷藥，另一個藥")],
+    "vitamin_b1": [(r"vitamin b ?12\w*", "vitamin B12（cobalamin）是另一個維生素（名稱含 vitamin b1 字串）")],
+}
+# 拿掉 OTHER 寫法後，若仍以別的寫法看得到本藥，就不排除（2026-11-24 第四輪）
+KEEP = {
+    "vitamin_b1": r"thiamin",
 }
 # 個別登記：NPRA 欄位錯植（號碼 → (不屬於的證據包, 依據)）
 RECORD_MISMATCH = {
     "MAL09102936AZ": (("budesonide", "desonide"), "RESICALM Tablets 1mg 的成分是 RISPERIDONE；NPRA generic_name 欄錯植「Budesonide 100 mcg/dose Nasal Spray」"),
+    "MAL20040100AZ": (("chlorpheniramine_maleate",), "MENDICOF SYRUP 的成分是 DEXCHLORPHENIRAMINE MALEATE（另一個 INN）；NPRA generic_name 欄寫「Chlorpheniramine Maleate 2 mg/5 ml」（2026-11-24 第四輪）"),
 }
 NOISE = re.compile(r"\b(" + rb.SALT + r"|ph eur|pheur|eur|ph|usp|bp|ip|jp|ep|b p|u s p|heptahydrate|\d+h2o|\d+)\b")
 
@@ -163,6 +203,8 @@ def other_drug(page, r):
     if is_self(page, comps):
         return None
     txt, hit, why = _text(r), [], []
+    if page in KEEP and re.search(KEEP[page], txt):
+        return None
     for rx, basis in pats:
         m = [x.group(0) for x in re.finditer(rx, txt)]
         if m:

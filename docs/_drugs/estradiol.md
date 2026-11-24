@@ -23,8 +23,8 @@ evidence_level: N/A
 
 | Atribut | Nilai |
 |-----------|-------|
-| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 42 daripada 45) |
-| Bilangan Pendaftaran | 45 (sah: 42) |
+| Status Pasaran di Malaysia | Dipasarkan (pendaftaran sah: 14 daripada 17) |
+| Bilangan Pendaftaran | 17 (sah: 14) |
 | **Nama Ubat** | Estradiol |
 | **ID DrugBank** | [DB00783](https://go.drugbank.com/drugs/DB00783) |
 | **Ramalan DL (≥0.7)** | 0 |
