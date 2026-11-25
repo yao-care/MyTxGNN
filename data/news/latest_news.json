@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T00:19:59.846598",
+  "fetched": "2026-11-25T09:31:31.739523",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,45 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 13,
   "items": [
+    {
+      "title": "Why Being Connected Is Not Enough",
+      "url": "https://codeblue.galencentre.org/2026/11/why-being-connected-is-not-enough/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-25T07:30:00",
+      "summary": "Strong social support may be Europe's best defence against loneliness, while heavy social media use is linked to greater isolation. The post Why Being Connected Is Not Enough appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "Strengthening Research On Older Persons In 13MP Health Research Priorities — MSGM",
+      "url": "https://codeblue.galencentre.org/2026/11/strengthening-research-on-older-persons-in-13mp-health-research-priorities-msgm/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-25T05:30:00",
+      "summary": "Research priorities matter because funding bodies use them to decide which studies to support. The evidence produced will, in turn, inform clinical guidelines, health services, and policies. The post Strengthening Research On Older Persons In 13MP Health Research Priorities — MSGM appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health",
+        "clinical"
+      ]
+    },
+    {
+      "title": "Strengthening The Chain Of Survival: Why Every Malaysian Should Be Ready To Save A Life — Dr Noor Hasliza Che Seman, et al",
+      "url": "https://codeblue.galencentre.org/2026/11/strengthening-the-chain-of-survival-why-every-malaysian-should-be-ready-to-save-a-life/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-25T03:30:00",
+      "summary": "Every Malaysian should be encouraged to learn CPR, understand the importance of AEDs, and recognise the steps to take during a cardiac emergency. The post Strengthening The Chain Of Survival: Why Every Malaysian Should Be Ready To Save A Life — Dr Noor Hasliza Che Seman, et al appeared first on CodeBlue .",
+      "keywords_matched": []
+    },
+    {
+      "title": "LIAM Denies Agents’ Claims Medical Insurance Products To Be Withdrawn January 2027",
+      "url": "https://codeblue.galencentre.org/2026/11/liam-denies-agents-claims-medical-insurance-products-to-be-withdrawn-january-2027/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-25T02:00:00",
+      "summary": "LIAM says MediAsas won’t be the only option, denying insurance agents’ claim that ITOs will withdraw existing medical insurance/takaful products on Jan 1, 2027. At least one insurer, GE, will stop accepting new applications for individual medical products. The post LIAM Denies Agents’ Claims Medical Insurance Products To Be Withdrawn January 2027 appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
     {
       "title": "MediAsas: Affordable Assurance Means Little Without Affordable Health Care",
       "url": "https://codeblue.galencentre.org/2026/11/mediasas-affordable-assurance-means-little-without-affordable-health-care/",
@@ -75,46 +112,33 @@
       "keywords_matched": []
     },
     {
-      "title": "Deputy Minister Lacks Updates About Nicotine Exemption Order",
-      "url": "https://codeblue.galencentre.org/2026/11/deputy-minister-lacks-updates-about-nicotine-exemption-order/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-23T06:14:19",
-      "summary": "Deputy Health Minister Hanifah says she doesn’t have any update on if or when a minister’s exemption order to remove liquid nicotine from the Poisons List will be gazetted because this is under the health minister’s responsibility. The post Deputy Minister Lacks Updates About Nicotine Exemption Order appeared first on CodeBlue .",
+      "title": "Marine police seize RM5.36m worth of syabu after 90-minute high-speed boat chase off Kedah",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/25/marine-police-seize-rm536m-worth-of-syabu-after-90-minute-high-speed-boat-chase-off-kedah/244730",
+      "source": "Malay Mail",
+      "published": "2026-11-25T07:58:00",
+      "summary": "GEORGE TOWN, Nov 25 — The Region 1 Marine Police Force (PPM) has crippled a transnational drug smuggling syndicate opera...",
       "keywords_matched": [
-        "health"
+        "drug"
       ]
     },
     {
-      "title": "Unions Demand National Standards For Dental Surgery Assistants",
-      "url": "https://codeblue.galencentre.org/2026/11/unions-demand-national-standards-for-dental-surgery-assistants/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-23T06:00:00",
-      "summary": "Three unions demand a National Dental Assistant Competency Framework to standardise qualifications, training, and competencies for dental surgery assistants across the public and private sectors. Formalising the profession also needs legislative changes. The post Unions Demand National Standards For Dental Surgery Assistants appeared first on CodeBlue .",
-      "keywords_matched": []
-    },
-    {
-      "title": "What Proton Therapy In Singapore Can And Can’t Treat, Say Radiation Oncologists",
-      "url": "https://codeblue.galencentre.org/2026/11/what-proton-therapy-in-singapore-can-and-cant-treat-say-radiation-oncologists/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-23T03:40:00",
-      "summary": "Proton beam therapy, which Malaysians can access in Singapore, is used to treat certain early-stage or locally advanced cancers, such as head and neck, brain, lung, and liver cancers, in patients suitable for curative treatment, say radiation oncologists. The post What Proton Therapy In Singapore Can And Can’t Treat, Say Radiation Oncologists appeared first on CodeBlue .",
+      "title": "Bukit Aman warns drug syndicates may target other airports amid tighter KLIA security",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/25/bukit-aman-warns-drug-syndicates-may-target-other-airports-amid-tighter-klia-security/244727",
+      "source": "Malay Mail",
+      "published": "2026-11-25T07:47:00",
+      "summary": "TUMPAT, Nov 25 — Drug smuggling syndicates could target Sultan Ismail Petra Airport in Kota Bharu following attempts to...",
       "keywords_matched": [
-        "treatment",
-        "therapy",
-        "cancer",
-        "patient"
+        "drug"
       ]
     },
     {
-      "title": "Anaesthesiologists Raise Potential Quality, Safety Issues With Generic Spinal Anaesthetic Drug",
-      "url": "https://codeblue.galencentre.org/2026/11/anaesthesiologists-raise-potential-quality-safety-issues-with-generic-spinal-anaesthetic-drug/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-23T02:00:00",
-      "summary": "Anaesthesiologists in Malaysian public hospitals raise serious potential quality and safety issues with Bupispine, a generic spinal anaesthesia drug (bupivacaine) manufactured by an Indian company. At least one failure was reported in a C-section surgery. The post Anaesthesiologists Raise Potential Quality, Safety Issues With Generic Spinal Anaesthetic Drug appeared first on CodeBlue .",
+      "title": "RMAF pilot in Subang meth haul played double role for drug ring, says Bukit Aman",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/25/rmaf-pilot-in-subang-meth-haul-played-double-role-for-drug-ring-says-bukit-aman/244712",
+      "source": "Malay Mail",
+      "published": "2026-11-25T06:27:00",
+      "summary": "TUMPAT, Nov 25 — The air force pilot detained over the 96.6kg methamphetamine find at Subang Air Base acted as both coor...",
       "keywords_matched": [
-        "drug",
-        "hospital",
-        "hospital"
+        "drug"
       ]
     }
   ]
