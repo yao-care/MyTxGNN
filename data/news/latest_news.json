@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-24T15:30:26.029586",
+  "fetched": "2026-11-25T00:19:59.846598",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "title": "MediAsas: Affordable Assurance Means Little Without Affordable Health Care",
@@ -115,16 +115,6 @@
         "drug",
         "hospital",
         "hospital"
-      ]
-    },
-    {
-      "title": "No more ‘white, round pills’: MySejahtera’s second life as Malaysia’s digital health hub",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/24/no-more-white-round-pills-mysejahteras-second-life-as-malaysias-digital-health-hub/243784",
-      "source": "Malay Mail",
-      "published": "2026-11-23T23:00:00",
-      "summary": "KUALA LUMPUR, Nov 24 — What began as a mandatory crisis response tool at the height of the Covid-19 pandemic has evolved...",
-      "keywords_matched": [
-        "health"
       ]
     }
   ]
