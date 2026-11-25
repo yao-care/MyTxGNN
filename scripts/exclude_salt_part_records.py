@@ -153,6 +153,8 @@ KEEP = {
 RECORD_MISMATCH = {
     "MAL09102936AZ": (("budesonide", "desonide"), "RESICALM Tablets 1mg 的成分是 RISPERIDONE；NPRA generic_name 欄錯植「Budesonide 100 mcg/dose Nasal Spray」"),
     "MAL20040100AZ": (("chlorpheniramine_maleate",), "MENDICOF SYRUP 的成分是 DEXCHLORPHENIRAMINE MALEATE（另一個 INN）；NPRA generic_name 欄寫「Chlorpheniramine Maleate 2 mg/5 ml」（2026-11-24 第四輪）"),
+    "MAL19970613AZ": (("betamethasone_dipropionate",), "BETNESONE-G CREAM 的有效成分是 BETAMETHASONE VALERATE 0.1%（另一個酯；NPRA active_ingredient 欄），generic_name 欄錯寫「Betamethasone Dipropionate 0.05% & Gentamicin Sulphate 0.1% Cream」（2026-11-25 第五輪）"),
+    "MAL19987365AZ": (("betamethasone_valerate",), "FOBANCORT CREAM 的有效成分是 BETAMETHASONE DIPROPIONATE 0.064%（另一個酯；NPRA active_ingredient 欄），generic_name 欄錯寫「Fusidic Acid 2 % in Betamethasone Valerate 0.05 % Cream」（2026-11-25 第五輪）"),
 }
 NOISE = re.compile(r"\b(" + rb.SALT + r"|ph eur|pheur|eur|ph|usp|bp|ip|jp|ep|b p|u s p|heptahydrate|\d+h2o|\d+)\b")
 

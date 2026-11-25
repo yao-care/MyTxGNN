@@ -699,3 +699,9 @@ amlodipine_besilate 81→128 張（有效 76→123）、diphenhydramine_hcl 21�
   有頁的只有 4 個 noindex 頁（estradiol 45→17、ganciclovir 5→2、nicotinamide 388→297、urea 128→2 張），概覽狀態列／張數列由 sync_market_rows 同步；這 4 頁沒有程式表、沒有正文市場句，沒有查核紀錄；adrenaline、adrenaline_tartrate 是轉址頁。
   收集器 `collectors/npra.py` 的 `_drop_other_drugs` 與每週排程（license-refresh.yml）讀同一支程式、同一份表（含 KEEP）。證據包經 data-overlay 推進 Release。
 - 驗證：exclude_salt_part_records.py 第二次跑 0 筆；checker 全量前後都是 P5 1（cyclosporine，原有）；gate exit 0。
+
+## 第五輪：同一母藥另一個酯的登記（2026-11-25）
+
+用戶 2026-11-25 決定（第五輪第 1 條）：第四輪照收的「同一母藥的另一個酯」改成排除——betamethasone_dipropionate 證據包收到 MAL19970613AZ BETNESONE-G CREAM（NPRA active_ingredient 是 BETAMETHASONE VALERATE 0.1%，generic_name 欄錯寫 Betamethasone Dipropionate 0.05%）。
+- `scripts/exclude_salt_part_records.py` 的 RECORD_MISMATCH 加 2 筆（附依據）：MAL19970613AZ（betamethasone_dipropionate）、同類的 MAL19987365AZ FOBANCORT CREAM（active_ingredient 是 BETAMETHASONE DIPROPIONATE 0.064%，generic_name 寫 Betamethasone Valerate；betamethasone_valerate 證據包）。另寫的獨立偵測（酯／鹽類名頁的證據包，紀錄成分有同一母藥的另一個酯）全量掃 1,239 個證據包，酯類不同的只有這 2 筆；其餘命中是 hcl／hydrochloride 寫法、母體 BETAMETHASONE 未寫酯（ANTASONE、BETAPRO、GERMACORT，照 active_ingredient 判斷不了，照收）。收集器 collectors/npra.py 與每週排程（license-refresh.yml）讀同一支程式，不必另接。
+- 套用（Release data-20261124-230804）：2 個證據包各移出 1 筆到 npra.excluded_records；兩頁都是轉址頁（id_redirect），頁面、快照內容沒有變；證據包 local_regulatory 重算 2 個；第二次跑 0 筆。checker 前後相同（P5 1，原有）；gate exit 0。
