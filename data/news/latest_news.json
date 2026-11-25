@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T09:31:31.739523",
+  "fetched": "2026-11-25T19:44:40.296630",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "title": "Why Being Connected Is Not Enough",
@@ -112,33 +112,24 @@
       "keywords_matched": []
     },
     {
-      "title": "Marine police seize RM5.36m worth of syabu after 90-minute high-speed boat chase off Kedah",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/25/marine-police-seize-rm536m-worth-of-syabu-after-90-minute-high-speed-boat-chase-off-kedah/244730",
+      "title": "Infant hospitalised after being picked up from babysitter’s home, police launch probe",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/25/infant-hospitalised-after-being-picked-up-from-babysitters-home-police-launch-probe/244769",
       "source": "Malay Mail",
-      "published": "2026-11-25T07:58:00",
-      "summary": "GEORGE TOWN, Nov 25 — The Region 1 Marine Police Force (PPM) has crippled a transnational drug smuggling syndicate opera...",
+      "published": "2026-11-25T11:47:00",
+      "summary": "KUALA LUMPUR, Nov 25 — Police are investigating a neglect case involving a five-month-old baby girl who was found uncons...",
       "keywords_matched": [
-        "drug"
+        "hospital",
+        "hospital"
       ]
     },
     {
-      "title": "Bukit Aman warns drug syndicates may target other airports amid tighter KLIA security",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/25/bukit-aman-warns-drug-syndicates-may-target-other-airports-amid-tighter-klia-security/244727",
+      "title": "Private university student claims trial over Jalan Jelatek crash that killed retired military personnel",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/25/private-university-student-claims-trial-over-jalan-jelatek-crash-that-killed-retired-military-personnel/244763",
       "source": "Malay Mail",
-      "published": "2026-11-25T07:47:00",
-      "summary": "TUMPAT, Nov 25 — Drug smuggling syndicates could target Sultan Ismail Petra Airport in Kota Bharu following attempts to...",
+      "published": "2026-11-25T10:58:00",
+      "summary": "KUALA LUMPUR, Nov 25 — A private university student pleaded not guilty in the Magistrate’s Court today to a charge of re...",
       "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "RMAF pilot in Subang meth haul played double role for drug ring, says Bukit Aman",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/25/rmaf-pilot-in-subang-meth-haul-played-double-role-for-drug-ring-says-bukit-aman/244712",
-      "source": "Malay Mail",
-      "published": "2026-11-25T06:27:00",
-      "summary": "TUMPAT, Nov 25 — The air force pilot detained over the 96.6kg methamphetamine find at Subang Air Base acted as both coor...",
-      "keywords_matched": [
-        "drug"
+        "trial"
       ]
     }
   ]
