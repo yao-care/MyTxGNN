@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T02:37:46.877833",
+  "fetched": "2026-11-26T11:53:15.321694",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,29 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 15,
+  "total_items": 10,
   "items": [
+    {
+      "title": "Men Die Younger, Yet Men’s Health Remains Neglected: Lancet Series",
+      "url": "https://codeblue.galencentre.org/2026/11/men-die-younger-yet-mens-health-remains-neglected-lancet-series/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-26T07:06:22",
+      "summary": "The Lancet Series finds men face higher mortality and unequal access to health care, with poverty and insecure work worsening outcomes. Researchers say policy neglect has left room for the manosphere to profit from men’s insecurities. The post Men Die Younger, Yet Men’s Health Remains Neglected: Lancet Series appeared first on CodeBlue .",
+      "keywords_matched": [
+        "health"
+      ]
+    },
+    {
+      "title": "APHM Wants Review Of MediAsas’ RM100,000 Annual Limit",
+      "url": "https://codeblue.galencentre.org/2026/11/aphm-wants-review-of-mediasas-rm100000-annual-limit/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-26T03:30:00",
+      "summary": "APHM calls for a review of MediAsas’s RM100,000 annual coverage limit to ensure it meets patients’ needs. The suggestion for the Base MHIT comes amid uncertainty over potential withdrawals or changes to individual medical insurance products from Jan 2027. The post APHM Wants Review Of MediAsas’ RM100,000 Annual Limit appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical",
+        "patient"
+      ]
+    },
     {
       "title": "Insurers Faced Losses On Some Medical Plans After Years Without Repricing: BNM",
       "url": "https://codeblue.galencentre.org/2026/11/insurers-faced-losses-on-some-medical-plans-after-years-without-repricing-bnm/",
@@ -85,85 +106,6 @@
       "summary": "Neither advice nor medicine will be enough until those who shape how we live, move, and eat are held to their part too. The post We Cannot Medicate Our Way Out Of Obesity — Prof Dr Nirmala Bhoo Pathy appeared first on CodeBlue .",
       "keywords_matched": [
         "medicine"
-      ]
-    },
-    {
-      "title": "Private Hospitals, Specialists Face Different Insurer Empanelment Rules: IHH CEO",
-      "url": "https://codeblue.galencentre.org/2026/11/private-hospitals-specialists-face-different-insurer-empanelment-rules-ihh-ceo/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-24T03:30:00",
-      "summary": "IHH Healthcare Malaysia CEO Dr Kamal Amzan says insurers use different criteria to empanel private hospitals and specialists. Some insurance companies cover all doctors at their panel hospitals, whereas others impose tiered arrangements. The post Private Hospitals, Specialists Face Different Insurer Empanelment Rules: IHH CEO appeared first on CodeBlue .",
-      "keywords_matched": [
-        "health",
-        "hospital",
-        "doctor",
-        "hospital"
-      ]
-    },
-    {
-      "title": "National O&G Service Desperately Seeks Doctors For Temporary Sabah Deployment",
-      "url": "https://codeblue.galencentre.org/2026/11/national-og-service-desperately-seeks-doctors-for-temporary-sabah-deployment/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-24T02:00:00",
-      "summary": "The national head of O&G services urges peninsula-based medical officers to volunteer for temporary and time-bound deployment to Sabah because nearly all public hospitals in the state providing O&G services are running at below 50% of required MO numbers. The post National O&G Service Desperately Seeks Doctors For Temporary Sabah Deployment appeared first on CodeBlue .",
-      "keywords_matched": [
-        "medical",
-        "hospital",
-        "doctor",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Over 436kg of drugs worth RM34.89m seized in three-month KLIA security sweep, home minister says",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/26/over-436kg-of-drugs-worth-rm3489m-seized-in-three-month-klia-security-sweep-home-minister-says/244808",
-      "source": "Malay Mail",
-      "published": "2026-11-26T02:13:00",
-      "summary": "KUALA LUMPUR, Nov 26 — A three-month security operation at Kuala Lumpur International Airport (KLIA) uncovered 16 drug s...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Saifuddin Nasution: Pilots, flight crew to face random drug tests under KLIA security overhaul",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/26/saifuddin-nasution-pilots-flight-crew-to-face-random-drug-tests-under-klia-security-overhaul/244805",
-      "source": "Malay Mail",
-      "published": "2026-11-26T01:50:00",
-      "summary": "KUALA LUMPUR, Nov 26 — Pilots and flight crew will be subject to random drug testing under a Cabinet-approved security o...",
-      "keywords_matched": [
-        "drug"
-      ]
-    },
-    {
-      "title": "Dialog Negara: Anwar says no to pricier clinic visits, insists public healthcare stay affordable",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/26/dialog-negara-anwar-says-no-to-pricier-clinic-visits-insists-public-healthcare-stay-affordable/244792",
-      "source": "Malay Mail",
-      "published": "2026-11-26T01:11:00",
-      "summary": "KUALA LUMPUR, Nov 26 — Basic treatment fees at public hospitals and clinics should stay at current rates to avoid burden...",
-      "keywords_matched": [
-        "health",
-        "treatment",
-        "hospital",
-        "hospital"
-      ]
-    },
-    {
-      "title": "Dialog Negara: Anwar says children need more than grades, backs mental health education in schools",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/26/dialog-negara-anwar-says-children-need-more-than-grades-backs-mental-health-education-in-schools/244788",
-      "source": "Malay Mail",
-      "published": "2026-11-26T00:57:00",
-      "summary": "KUALA LUMPUR, Nov 26 — Prime Minister Datuk Seri Anwar Ibrahim has backed the Ministry of Education’s (MOE) proposal to...",
-      "keywords_matched": [
-        "health"
-      ]
-    },
-    {
-      "title": "In Dewan Rakyat today: Rural internet access, RMAF drug-smuggling loopholes and child exploitation",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/26/in-dewan-rakyat-today-rural-internet-access-rmaf-drug-smuggling-loopholes-and-child-exploitation/244780",
-      "source": "Malay Mail",
-      "published": "2026-11-26T00:33:00",
-      "summary": "KUALA LUMPUR, Nov 26 — Internet access in rural schools, drug smuggling through Royal Malaysian Air Force (RMAF) flights...",
-      "keywords_matched": [
-        "drug"
       ]
     }
   ]
