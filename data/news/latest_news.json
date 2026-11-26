@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-25T19:44:40.296630",
+  "fetched": "2026-11-26T02:37:46.877833",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,8 +7,18 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 12,
+  "total_items": 15,
   "items": [
+    {
+      "title": "Insurers Faced Losses On Some Medical Plans After Years Without Repricing: BNM",
+      "url": "https://codeblue.galencentre.org/2026/11/insurers-faced-losses-on-some-medical-plans-after-years-without-repricing-bnm/",
+      "source": "CodeBlue (Health News)",
+      "published": "2026-11-26T02:00:00",
+      "summary": "Bank Negara tells the PAC that extending protection against MHIT repricing hikes above 10% to all policyholders is unsustainable because some insurers incurred losses due to Covid without premium increases. These interim measures are set to end next month. The post Insurers Faced Losses On Some Medical Plans After Years Without Repricing: BNM appeared first on CodeBlue .",
+      "keywords_matched": [
+        "medical"
+      ]
+    },
     {
       "title": "Why Being Connected Is Not Enough",
       "url": "https://codeblue.galencentre.org/2026/11/why-being-connected-is-not-enough/",
@@ -104,32 +114,56 @@
       ]
     },
     {
-      "title": "UK’s Generational Tobacco Ban Set For January 2027",
-      "url": "https://codeblue.galencentre.org/2026/11/uks-generational-tobacco-ban-set-for-january-2027/",
-      "source": "CodeBlue (Health News)",
-      "published": "2026-11-23T08:09:41",
-      "summary": "The UK's generational smoking ban will come into force on Jan 1, 2027, making it illegal to sell tobacco to anyone born on or after Jan 1, 2009. Vapes and other nicotine products are banned for minors aged <18. The UK plans new rules for nicotine pouches. The post UK’s Generational Tobacco Ban Set For January 2027 appeared first on CodeBlue .",
-      "keywords_matched": []
+      "title": "Over 436kg of drugs worth RM34.89m seized in three-month KLIA security sweep, home minister says",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/26/over-436kg-of-drugs-worth-rm3489m-seized-in-three-month-klia-security-sweep-home-minister-says/244808",
+      "source": "Malay Mail",
+      "published": "2026-11-26T02:13:00",
+      "summary": "KUALA LUMPUR, Nov 26 — A three-month security operation at Kuala Lumpur International Airport (KLIA) uncovered 16 drug s...",
+      "keywords_matched": [
+        "drug"
+      ]
     },
     {
-      "title": "Infant hospitalised after being picked up from babysitter’s home, police launch probe",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/25/infant-hospitalised-after-being-picked-up-from-babysitters-home-police-launch-probe/244769",
+      "title": "Saifuddin Nasution: Pilots, flight crew to face random drug tests under KLIA security overhaul",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/26/saifuddin-nasution-pilots-flight-crew-to-face-random-drug-tests-under-klia-security-overhaul/244805",
       "source": "Malay Mail",
-      "published": "2026-11-25T11:47:00",
-      "summary": "KUALA LUMPUR, Nov 25 — Police are investigating a neglect case involving a five-month-old baby girl who was found uncons...",
+      "published": "2026-11-26T01:50:00",
+      "summary": "KUALA LUMPUR, Nov 26 — Pilots and flight crew will be subject to random drug testing under a Cabinet-approved security o...",
       "keywords_matched": [
+        "drug"
+      ]
+    },
+    {
+      "title": "Dialog Negara: Anwar says no to pricier clinic visits, insists public healthcare stay affordable",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/26/dialog-negara-anwar-says-no-to-pricier-clinic-visits-insists-public-healthcare-stay-affordable/244792",
+      "source": "Malay Mail",
+      "published": "2026-11-26T01:11:00",
+      "summary": "KUALA LUMPUR, Nov 26 — Basic treatment fees at public hospitals and clinics should stay at current rates to avoid burden...",
+      "keywords_matched": [
+        "health",
+        "treatment",
         "hospital",
         "hospital"
       ]
     },
     {
-      "title": "Private university student claims trial over Jalan Jelatek crash that killed retired military personnel",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/25/private-university-student-claims-trial-over-jalan-jelatek-crash-that-killed-retired-military-personnel/244763",
+      "title": "Dialog Negara: Anwar says children need more than grades, backs mental health education in schools",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/26/dialog-negara-anwar-says-children-need-more-than-grades-backs-mental-health-education-in-schools/244788",
       "source": "Malay Mail",
-      "published": "2026-11-25T10:58:00",
-      "summary": "KUALA LUMPUR, Nov 25 — A private university student pleaded not guilty in the Magistrate’s Court today to a charge of re...",
+      "published": "2026-11-26T00:57:00",
+      "summary": "KUALA LUMPUR, Nov 26 — Prime Minister Datuk Seri Anwar Ibrahim has backed the Ministry of Education’s (MOE) proposal to...",
       "keywords_matched": [
-        "trial"
+        "health"
+      ]
+    },
+    {
+      "title": "In Dewan Rakyat today: Rural internet access, RMAF drug-smuggling loopholes and child exploitation",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/26/in-dewan-rakyat-today-rural-internet-access-rmaf-drug-smuggling-loopholes-and-child-exploitation/244780",
+      "source": "Malay Mail",
+      "published": "2026-11-26T00:33:00",
+      "summary": "KUALA LUMPUR, Nov 26 — Internet access in rural schools, drug smuggling through Royal Malaysian Air Force (RMAF) flights...",
+      "keywords_matched": [
+        "drug"
       ]
     }
   ]
