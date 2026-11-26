@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-26T11:53:15.321694",
+  "fetched": "2026-11-26T20:55:23.300631",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
       "title": "Men Die Younger, Yet Men’s Health Remains Neglected: Lancet Series",
@@ -106,6 +106,16 @@
       "summary": "Neither advice nor medicine will be enough until those who shape how we live, move, and eat are held to their part too. The post We Cannot Medicate Our Way Out Of Obesity — Prof Dr Nirmala Bhoo Pathy appeared first on CodeBlue .",
       "keywords_matched": [
         "medicine"
+      ]
+    },
+    {
+      "title": "Three RMAF officers among six to be charged in Shah Alam tomorrow over drug smuggling using military assets",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/26/three-rmaf-officers-among-six-to-be-charged-in-shah-alam-tomorrow-over-drug-smuggling-using-military-assets/244918",
+      "source": "Malay Mail",
+      "published": "2026-11-26T12:00:00",
+      "summary": "KUALA LUMPUR, Nov 26 — Six individuals, comprising three Royal Malaysian Air Force (RMAF) officers and three civilians,...",
+      "keywords_matched": [
+        "drug"
       ]
     }
   ]
