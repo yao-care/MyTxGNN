@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-11-27T06:41:59.757564",
+  "last_check": "2026-11-27T20:44:57.098078",
   "seen_trials": {
     "Abemaciclib": [
       "NCT05386108",
@@ -4164,10 +4164,17 @@
       "NCT05603104"
     ],
     "Clobetasol Propionate": [
-      "NCT07924865"
+      "NCT07924865",
+      "NCT07278999"
     ],
     "Fosfomycin": [
       "NCT07928063"
+    ],
+    "Dexketoprofen": [
+      "NCT07960901"
+    ],
+    "Nepafenac": [
+      "NCT07962981"
     ]
   }
 }
