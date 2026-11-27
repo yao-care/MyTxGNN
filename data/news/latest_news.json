@@ -1,5 +1,5 @@
 {
-  "fetched": "2026-11-27T03:28:44.909935",
+  "fetched": "2026-11-27T13:28:40.751911",
   "sources": [
     "CodeBlue (Health News)",
     "The Star Health",
@@ -7,7 +7,7 @@
     "Malay Mail",
     "Free Malaysia Today"
   ],
-  "total_items": 11,
+  "total_items": 13,
   "items": [
     {
       "title": "The Difference Between Originators And Generics Or Biosimilars",
@@ -112,13 +112,33 @@
       ]
     },
     {
-      "title": "Abdul Gani Patail, the prosecutor behind some of Malaysia’s most watched trials",
-      "url": "https://www.malaymail.com/news/malaysia/2026/11/27/abdul-gani-patail-the-prosecutor-behind-some-of-malaysias-most-watched-trials/244954",
+      "title": "RMAF drug smuggling probe: Another air force officer, four civilians held as arrests hit 18",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/27/rmaf-drug-smuggling-probe-another-air-force-officer-four-civilians-held-as-arrests-hit-18/245044",
       "source": "Malay Mail",
-      "published": "2026-11-27T02:54:00",
-      "summary": "KUALA LUMPUR, Nov 27 — Throughout his more than three decades in the legal profession, former Attorney General Tan Sri A...",
+      "published": "2026-11-27T12:25:00",
+      "summary": "KUALA LUMPUR, Nov 27 — Another Royal Malaysian Air Force (RMAF) officer and four civilians were arrested yesterday to as...",
       "keywords_matched": [
-        "trial"
+        "drug"
+      ]
+    },
+    {
+      "title": "Sandakan facing days of water rationing after power disruptions hit four treatment plants",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/27/sandakan-facing-days-of-water-rationing-after-power-disruptions-hit-four-treatment-plants/245022",
+      "source": "Malay Mail",
+      "published": "2026-11-27T09:23:00",
+      "summary": "SANDAKAN, Nov 27 — Power supply disruptions and fluctuations have affected operations at four major water treatment plan...",
+      "keywords_matched": [
+        "treatment"
+      ]
+    },
+    {
+      "title": "‘A betrayal of the nation’: Anwar condemns alleged drug smuggling using RMAF aircraft",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/27/a-betrayal-of-the-nation-anwar-condemns-alleged-drug-smuggling-using-rmaf-aircraft/245019",
+      "source": "Malay Mail",
+      "published": "2026-11-27T09:10:00",
+      "summary": "KUALA LUMPUR, Nov 27 — Prime Minister Datuk Seri Anwar Ibrahim has described the alleged use of a Royal Malaysian Air Fo...",
+      "keywords_matched": [
+        "drug"
       ]
     }
   ]
